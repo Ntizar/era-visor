@@ -1,0 +1,9944 @@
+---
+pais: IE
+anio: 2013
+idioma: EN
+pdf: IE-3096 and IE 5197 - spad_final_r2016_r001.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/IE-3096%20and%20IE%205197%20-%20spad_final_r2016_r001.pdf
+md5_pdf: f8991abd667995a824c014bbf6f8b862
+paginas: 306
+chars: 562986
+tablas: 0 (extracción desactivada: la PDF colgaba find_tables)
+cuerpo: "10.0pt; encabezados 3 niveles"
+rotulos_excluidos: "1220 (#, investigation into spads on the ié network from january # to july #, investigation report #-r#, raiu)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 5
+fecha_proceso: 2026-11-19
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+RAILWAY ACCIDENT 
+INVESTIGATION UNIT 
+IRELAND 
+INVESTIGATION 
+REPORT 
+Investigation into SPADs on IÉ Network,  
+from January 2012 to June 2015   
+RAIU Report No: R2016 – R001   
+Published: 11/04/2016 
+
+## Página 2
+
+### Report publication  
+This report is published by the Railway Accident Investigation Unit (RAIU). The copyright in the 
+enclosed report remains with the RAIU by virtue of Section 9 of the European Union (Railway Safety) 
+(Reporting and Investigation of Serious Accidents, Accidents and Incidents) Regulations 2014. No 
+person may produce, reproduce or transmit in any form or by any means this report or any part 
+thereof without the express permission of the RAIU. This report may be freely used for educational 
+purposes. For further information, or to contact the RAIU, please see details below: 
+RAIU 
+email: info@raiu.ie 
+2nd Floor, 2 Leeson Lane 
+website: www.raiu.ie 
+Dublin 2 
+telephone: + 353 1 604 1241 
+Ireland 
+fax: + 353 1 604 1351 
+The original publication details are given below:  
+### Title 
+Investigation into SPADs on the IÉ Network 
+### Document type 
+Investigation Report 
+### Document number 
+R2016-R001A 
+### Document issue date 
+11/04/2016 
+Where the report has been altered following its original publication, details on the changes are given 
+below:  
+### Revision 
+### Revision 
+### Summary of changes 
+number 
+date 
+### Reader guide 
+All dimensions and speeds in this report are given using the International System of Units (SI Units). 
+Where the normal railway practice, in some railway organisations, is to use imperial dimensions; 
+imperial dimensions are used and the SI Unit is also given. 
+All abbreviations and technical terms (which appear in italics the first time they appear in the report) 
+are explained in the glossary. 
+Descriptions and figures may be simplified in order to illustrate concepts to non-technical readers.   
+ii 
+
+## Página 3
+
+### Report preface 
+The RAIU is an independent investigation unit within the Department of Transport, Tourism and Sport 
+(DTTAS) which conducts investigations into accidents and incidents on the national railway network, 
+the Dublin Area Rapid Transit (DART) network, the LUAS, heritage and industrial railways in Ireland. 
+Investigations are carried out in accordance with the Railway Safety Directive 2004/49/EC, the 
+Railway Safety Act 2005 and Statutory Instrument No. 258 of 2014 European Union (Railway Safety) 
+(Reporting and investigation of serious accidents, accidents and incidents) Regulations 2014. 
+The RAIU investigate all serious accidents. A serious accident means any train collision or derailment 
+of trains, resulting in the death of at least one person or serious injuries to five or more persons or 
+extensive damage to rolling stock, the infrastructure or the environment, and any other similar 
+accident with an obvious impact on railway safety regulation or the management of safety. 
+The RAIU may investigate and report on accidents and incidents which under slightly different 
+conditions might have led to a serious accident. RAIU investigations are conducted for the purpose of 
+accident and incident prevention which includes the gathering and analysis of information, the 
+drawing of conclusions, including the determination of causes and, when appropriate, the making of 
+safety recommendations in order to prevent accidents and incidents in the future and improve railway 
+safety.  
+It is not the purpose of an RAIU investigation to attribute blame or liability. 
+iii 
+
+## Página 4
+
+### Report summary 
+### Introduction 
+In December 2013, two serious ‘Signal Passed at Danger’ (SPAD) events were reported to the RAIU 
+by Iarnród Éireann (IÉ). After an initial review of these SPADs, and an earlier SPAD in April 2013 the 
+RAIU made the decision to carry out a full review of Category A SPADs on the IÉ network from 2012 
+to 2014. This was later extended to include SPADs from January to June 2015. As a result, the RAIU 
+reviewed forty-five SPAD events which occurred within a three and a half year period. These SPADs 
+were divided into three main event types, namely: SPADs during normal train operations; SPADs 
+during degraded train operations; and Start Against Signal (SAS)/ Start on Yellow (SOY) SPADs. The 
+SPADs with the highest SPAD Risk Rankings (SRR) in 2013 were chosen as the main case studies, 
+where a full investigation was carried out into these three SPADs: SPAD at Signal TL223, Millstreet, 
+on the 8th December 2013; SPAD at Signal XX098, Gortavogher, on the 19th December 2013; and the 
+SPAD at Signal WL167, Muine Bheag, on the 9th April 2013. 
+### Summarised Investigations (the comprehensive investigations appear in the main 
+body of the report) 
+### Full investigations 
+### SPAD at Signal TL223, Millstreet, on the 8th December 2013 
+On the 8th December 2013, the IÉ 11:50 hours (hrs) passenger service from Tralee to Heuston (Train  
+A303) was running late. In an effort to minimise delays, the Centralised Traffic Control (CTC) 
+Signalman and the Traffic Regulator made the decision to change the crossing point of Train A303 
+and the 12:10 hrs Cork to Tralee passenger service (Train A304) to Millstreet Station (Cork), instead 
+of Banteer Station (the routes are on a bi-directional single line track with crossing loops).  It was 
+expected that Train A304 would arrive first at Millstreet Station (a one-platform station), disembark 
+passengers and shunt into the crossing loop. However, both trains approached Millstreet Station at 
+the same time. As Train A303 approached Millstreet Station, it passed signal TL223 at danger without 
+authority. The SPAD resulted in the two trains occupying the same section of line, travelling towards 
+each other, until the CTC Signalman put out a general call for the trains to stop. Both train drivers 
+applied the brakes and the trains came to a stop 175 metres (m) apart on the platform at Millstreet 
+Station. IÉ awarded a SPAD Risk Ranking (SRR) of 21 to this Category A SPAD therefore 
+categorising it as a high risk SPAD.  
+iv 
+
+## Página 5
+
+The RAIU investigation found that the immediate cause of the SPAD was that Driver A303 did not see 
+that Signal TL223 was displaying a stop aspect and continued driving towards Millstreet Station.   
+Possible contributory factors to Train A303 arriving at Millstreet Station Platform were: 
+ 
+The current basic overrun protection in the Millstreet area does not provide sufficient protection to 
+trains on single lines with crossings loops; 
+ 
+Driver A303 lost situational awareness, as he thought Signal TL223 was displaying a green 
+aspect; 
+ 
+Driver A303 had an incorrect expectation that Signal TL223 would be displaying a green aspect 
+as he had never approached the signal displaying a red light; this incorrect expectation was 
+reinforced by the fact that the barriers for Level Crossing XE061 were lowered on his approach 
+and there were passengers waiting on the platform. Furthermore, he had not been made aware 
+by radio or by any other means and he was unaware that the crossing point for the trains had 
+changed; 
+ 
+Driver A303 did not apply any form of Error Prevention Technique (EPT) on the approach to the 
+yellow aspect of Signal TLR223 to remind him that Signal TL223 would be displaying a red 
+aspect; 
+ 
+Driver A303 did not apply any EPT to refocus on his driving duties after he had become stressed, 
+distracted and preoccupied by the events at Killarney Station during the same journey, where two 
+young children were left unattended, which resulted in Driver A303 having to return to the station. 
+Driver A303 had also become distracted by the fact that he was unable to provide relief duties for 
+another service, due to the late running of the train. Driver A303 may have also become 
+distracted by the speed board, located directly after Signal TL223; and the flashing lights of Level 
+Crossing XE061; 
+ 
+The CTC Signalman and the Traffic Regulator were unaware that they had inadvertently reduced 
+the overrun protection for the trains, as they allowed Train A304 onto the platform instead of 
+holding it outside the station. 
+Underlying causes associated with the incident, include: 
+ 
+The Traffic Regulator’s Manual does not include specific instructions or any form of dynamic risk 
+assessment in relation to the alteration of the scheduled movements of trains; 
+ 
+IÉ’s Lineside Signal Sighting & Spacing Signalling Standard (I-SIG-2043) does not adequately 
+address the risks associated with distraction features in the vicinity of signals, in particular, the 
+positioning of speed boards in the vicinity of signals. 
+v 
+
+## Página 6
+
+The root cause associated with the incident was: 
+ 
+Non-technical skills, such as EPT, are not adequately promoted, trained for, assessed or 
+monitored during driving training and driver competency management as outlined in IÉ-RU’s suite 
+of Operations SMS documents (namely OPS-SMS-3.0, OPS-SMS-3.1, OPS-SMS-3.2 & OPS-
+SMS-3.5). 
+### SPAD at Signal XX098, Gortavogher, on the 19th December 2013 
+On the 19th December, in Gortavogher (County Clare), lightning strikes resulted in signal and level 
+crossing equipment failures. The touch screen in the Mallow level crossing control centre (LCCC) was 
+not showing the status of a number of signals at the level crossings in the area and as a result the 
+Galway Line Signalman (GLS) and the level crossing control operative (LCCO) despatched 
+emergency operatives (EOs) to the level crossings to assess and manage the level crossings. The 
+LCCO did not inform the GLS not to allow any trains to enter the section until the EOs were onsite 
+and in control of the level crossings. As a result, the GLS informed the driver (Driver A780) of the 
+05:55 hrs passenger service from Limerick to Galway (Train A780), while he was in Ennis that there 
+were faults with the level crossings which would be managed by EOs and gave the Driver A780 the 
+proceed aspect to enter the section. As Driver A780 approached the first level crossing with reported 
+faults (XE071) he stopped in rear of the stop signal until the EO cleared the signals and Driver A780 
+travelled through the level crossing without incident. However, the signals at the next level crossing 
+with reported faults (XE098) were not illuminated and Driver A780 only became aware of the situation 
+when it was too late to stop in advance of the signal and level crossing and travelled through the level 
+crossing with the barriers raised to road traffic (the EO was onsite but had not taken local control of 
+the level crossing). Due to issues with the train radio operating in the cab (also as a result of the 
+lightning strikes), Driver A780 travelled for a further eleven kilometres (km) before coming to a stop. IÉ 
+assigned an SRR of 18 to this Category A SPAD; therefore categorising it as a medium risk SPAD. 
+The RAIU investigation into this SPAD event found the immediate cause of the Driver A780 travelling 
+past signal XE098DS at danger was that the GLS allowed Train A780 into the section of track where it 
+was known there was two faulty level crossings, as the LCCO have not told the GLS not to allow 
+trains into the section until the EOs had arrived at the level crossings and had verified that they were 
+in order to allow a train approach. Contributory factors to Train A780 passing Signal XE098DS were: 
+ 
+Driver A780 had not travelled toward Level Crossing XE098 cautiously, as set out in the Rule 
+Book, as he had an incorrect expectation that he would approach Level Crossing XE098 with the 
+signals operational; 
+ 
+The visibility of the signals was affected by the adverse weather conditions, which resulted in 
+Driver A780 losing situational awareness as to his location in terms of the level crossing and 
+resulting in him, not seeing Signal XE098DS until it was too late to stop;  
+vi 
+
+## Página 7
+
+ 
+The LCCO did not have clear understanding of the LCCC instructions, which resulted in him not 
+telling the GLS not to allow trains into the section until the EOs had local control. In addition, the 
+LCCO was not aware that he had to get the EO to verify the status of the level crossing; 
+ 
+The GLS did not fully appreciate the role of the EO and was not aware that EOs were required to 
+verify the status (to the LCCO) of the level crossing before allowing trains to approach them. 
+Underlying causes to the SPAD are: 
+ 
+The LCCC Instructions are not user friendly, which has resulted in the LCCOs reverting to the 
+Rule Book which is not fully comprehensive in terms of the operation of CCTV level crossings; 
+ 
+The roles and responsibilities of the LCCOs and the Signalman are not fully established, in that 
+the LCCOs appear to have gained more responsibility over recent years, which is not supported 
+by any documentation. 
+The root causes to the SPAD was: 
+ 
+Role of the LCCO and GLS do not appear to be fully outlined in any formal documentation. 
+### SPAD at Signal WL167, Muine Bheag, on the 9th April 2013 
+On the 9th April 2013, at approximately 11:19 hrs, the 10:15 hrs passenger service form Heuston to 
+Waterford (Train A504) approached Muine Bheag Station with signals WLR161 and WL161 displaying 
+double yellow and single yellow aspects, respectively. This signalling sequence was due to, Signal 
+WL167 (on the exit of the station) displaying a red aspect, as a Track Recording Vehicle (TRV) was 
+due to cross Train A504 at Muine Bheag Station. 
+Train A504 was travelling with a driver (Driver A505, who was not the rostered driver for this service) 
+and trainee driver. After performing a number of platform duties, such as ensuring all passengers 
+disembarked and boarded the train safely, the Person in Charge (PIC) gave the ‘Station Works 
+Complete’ and the ‘Ready to Start’ signals despite seeing that Signal WL167 was at danger. The 
+trainee driver saw the PIC give these signals as he was looking out of the cab window and Driver 
+A505 watched the PIC give the signals on the in-cab Man Machine Interface (MMI) screen. Driver 
+A505 did not observe Signal WL167, which is positioned approximately 215 m off Muine Bheag 
+Station Platform. 
+Driver A505 then departed Muine Bheag Station and on approaching Signal WL167 saw that Signal 
+WL167 was displaying a red aspect and immediately applied the emergency brake, coming to a stop 
+a short distance past the signal. The signalman contacted Driver A505 on the train radio to inform him 
+he had passed Signal WL167 at danger and not to move the train.   
+vii 
+
+## Página 8
+
+The RAIU investigation found that the immediate cause of the Driver A505 starting against and 
+travelling past Signal WL167 at danger was that he did not check the signal prior to departing Muine 
+Bheag Station. Contributory factors to Driver A505 not checking Signal WL167 prior to departing the 
+station: 
+ 
+There was no DRA in the driving cab which may have reminded Driver A505 to check the signal 
+prior to starting against Signal WL167; 
+ 
+Driver A505 had an incorrect expectation that Signal WL167 was displaying a proceed aspect due 
+to an over-familiarisation with the normal signal sequencing at Muine Bheag Station; not knowing 
+that a TRV was due to cross his train at Muine Bheag Station; and receiving the ‘Ready to Start’ 
+signal from the PIC Muine Bheag; 
+ 
+Driver A505 was distracted by the presence of the Trainee Driver in the driving cab; 
+ 
+Driver A505 was unable to apply any EPTs to remind him to check the signal and manage the 
+distraction in the cab, as he did not have appropriate EPT training; 
+ 
+PIC Muine Bheag giving the ‘Ready to Start’ signal despite knowing the signal was at danger. 
+Underlying cause to the SPAD is: 
+ 
+Training in EPTs and competency management systems are not sufficiently robust, especially for 
+SAS SPADs which account for the largest amount of SPADs on the IÉ network, and where there 
+was, historically, no DRA present in the driving cabs.  
+### Infrastructure 
+The RAIU investigation found that enhanced overrun protection, which mitigates against disregard of 
+signal aspects warning of a signal at danger and against disregard of a signal at danger by a train 
+starting from rest, is provided on IÉ in the form of either advisory (Continuous Automatic Warning 
+System (CAWS)) or mandatory train control systems (Automatic Train Protection (ATP)). CAWS 
+accounts for is available on 41.6%, while ATP is available on 4.6 % of the IÉ network, which means 
+that over half of the IÉ network is protected through basic overrun protection, meaning that there is a 
+strong reliance of the performance of drivers in the prevention of SPAD events.  
+### Collective review of all Category A SPADs 
+### Factual findings 
+A collective review of all Category A SPADs was then carried out by the RAIU which made a number 
+of findings in relation to the prevalence of SPADs, SPADs are most likely to occur: 
+ 
+To drivers with between three and five years of driving experience; 
+ 
+In the afternoon or evening time; 
+ 
+Within the first thirty minutes driving. 
+viii 
+
+## Página 9
+
+It was also noted that a quarter of drivers involved in the SPADs reviewed by the RAIU, had previous 
+SPADs; while nearly 40% had been involved in a safety related occurrence that required that the 
+driver be reclassified. 
+### Human factor contributory factors related to Category A SPADs 
+The RAIU found that loss of situational awareness, distraction and/or preoccupation and incorrect 
+expectation were the main contributory factors associated with the causation of SPADs. The 
+occurrence of these human factors varied related to event type, for example: 
+ 
+Loss of situational awareness, distraction and/or preoccupation, and incorrect expectation of 
+signal aspect were all major contributory factors in SPADs occurring during normal train 
+operations; 
+ 
+Incorrect expectation was the major contributory factor in SPADs occurring during degraded train 
+operations, which was generally as a result of inputs from other operational staff, such as 
+signalmen; 
+ 
+Incorrect expectation, distraction and/or preoccupation, and loss of situational awareness where 
+all major contributory factors in SPADs occurring during normal train operations; 
+ 
+Distraction, loss of situational awareness and incorrect expectation were all major contributory 
+factors in the occurrence of SOY SPADs, with distraction being a contributory factor in nearly all 
+SOY SPADs. 
+### Use of EPTs to manage human factors 
+Irrespective of the different human factor contributory factors or event types, the RAIU found that the 
+vast majority of the drivers involved in Category A SPADs, did not apply any form of EPTs, or 
+incorrectly applied EPTs, to manage these human factors. As a result, the drivers were unable to 
+refocus after distraction, avoid incorrect expectation or maintain situational awareness as they had not 
+developed appropriate EPTs. This was as a result of drivers receiving inadequate training in EPTs 
+and the lack of any form of assessment in terms of EPTs. The RAIU found that, post incident, the 
+majority of drivers had developed some form of EPTs, which they found to be very effective in the 
+management of distractions, incorrect expectations and situational awareness, and consider that if 
+they had applied these EPTs on the day of the SPAD incident, the SPAD would not have occurred. 
+### SPAD Management  
+IÉ have adopted a system for the calculation of SPAD severity which appears to ‘underscore’ the 
+severity of SPADs, with a large number of SPADs being awarded an SRR of 0; as a result a true 
+reflection of the SPAD severity on the IÉ network cannot be determined. IÉ have engaged a 
+consultant to review this process (awaiting report). In terms of IÉ’s collation of SPAD event 
+information, the databases provided to the RAIU are inconsistent, sometimes inaccurate and not 
+complete (as they generally do not include any findings from IÉ reports). In terms of the internal 
+investigation of SPADs on the IÉ network, a large number of the reports take an excessive amount of 
+ix 
+
+## Página 10
+
+time to complete (exceeding their own requirements of six months); while some reports remain in draft 
+format. The reports indicate that there is a lack of consistency in the investigative terms used resulting 
+in the frequent misuse of common investigation terms.  
+It was also found that drivers on the IÉ network generally do not report near miss events (only one 
+near miss SPAD has ever been reported in IÉ between 2012 and 2015). If an adequate near miss 
+reporting system was adopted it could be used as a tool by IÉ in relation to the proactive management 
+of the prevention of SPADs; however, as this is not occurring, there is no early detection for the early 
+identified of SPADs by certain drivers or at certain signals on the IÉ network. 
+### Driver management 
+Drivers, in some cases, are permitted to make a number of movements post SPAD event in order to 
+recover the situation. However, it is evident that SPAD events are traumatic for drivers and although 
+they may feel they can carry out the movements, errors sometimes occur. In addition, even after ‘very 
+serious’ incidents, drivers have been permitted to carry out train movements, despite other drivers 
+being available. In terms of other operational staff, in a lot of SPAD events, these operational staff 
+were not removed from duties, despite it being later found that their actions were contributory to the 
+SPAD event. This variance in the treatment of operational staff, has led to the perception of some 
+drivers involved in these incidents that the drivers are. The general treatment of the drivers, post 
+SPAD event, has also increased the perception as it has been found by the RAIU that in some cases 
+drivers are treated poorly, with the suggestion of further sanctions and accusations of having SPADs 
+on purpose. Actions taken against some drivers appeared quite punitive. The above factors have 
+resulted in drivers not reporting near miss SPADs or other incidents, for fear of further sanctions; or 
+fear of being removed from the driving grade and IÉ. 
+### Additional observations 
+### Suspected self-harm incidents 
+A number of the drivers interviewed as part of this investigation had been involved in fatal incidents on 
+the railway line as a result of individuals purposefully placing themselves in front of the moving train. 
+The drivers who experience these incidents found the event itself to be very traumatic. 
+In certain cases, drivers were left alone on the train for long periods of time without any instruction 
+from management (this is likely the result of trying to arrange emergency services and arrangement 
+for the transfer of train passengers to a bus service). In addition, in some instances drivers were 
+required to attend the Coroner’s Court and were questioned by the families of the deceased, the 
+drivers who experienced these scenarios found them to be very stressful and found that they had no 
+support from the company when required to attend these courts. However, it should be noted that in 
+some depots, drivers are well supported through this time. 
+x 
+
+## Página 11
+
+Drivers involved in these incidents are initially offered six counselling sessions. Some drivers have 
+stated that they have requested additional support from the CMO, while some drivers do not consider 
+that they need the counselling service. 
+### Near miss reporting 
+It is clear that a number of unsafe acts must occur prior to the occurrence of a SPAD, however, 
+drivers are not reporting these incidents, and to date, there has only been one near miss SPAD 
+reported to IÉ which resulted in the driver being placed on a DD&SS. Drivers are not reporting these 
+incidents because of concerns of being placed on a DD&SS or other sanctions. 
+### Actions taken or in progress by IÉ, RSC and BBRI 
+The actions taken or in progress by IÉ, RSC and BBRI are detailed in section 4 part 13. 
+### Safety recommendations made by the RAIU 
+As a result of the findings of the RAIU report, the RAIU make the following fourteen safety 
+recommendations:  
+ 
+IÉ-IM must introduce adequate train protection systems on IÉ network for the protection of trains; 
+this system should be robust and to an acceptable standard within Europe; and have the 
+appropriate ATP and speed supervision functionality; 
+ 
+IÉ-IM should review the functionality of the ATP’s running release to ensure that the train 
+protection function in relation to passing a signal at danger is appropriately maintained where 
+drivers are approaching signals displaying red aspects.  If this is not feasible with the current 
+equipment it should be included when upgrading the ATP equipment; 
+ 
+IÉ-IM should review the functionality of signals in the Connolly area so that the instances of 
+abnormal downgrades are minimised; 
+ 
+IÉ-RU should commission an independent review, in terms of human factors, to determine why 
+there is a prevalence for the occurrence of SPADs: at certain times of the day; at certain times of 
+drivers shifts; and for drivers with three-five years driving experience; 
+ 
+IÉ-RU should review the culture within the company so that actions taken after SPAD’s supports 
+learning within the driver grades should errors occur, and that the DD&SS is used for 
+redeveloping competence in driving skills and supporting the drivers in returning to driving duties, 
+after a SPAD event; 
+ 
+IÉ-RU should introduce a near miss reporting system, whereby, drivers may report near misses 
+without the fear of sanctions being imposed; 
+ 
+IÉ-IM should identify high risk signals and, where the technology exists, introduce a mechanism to 
+monitor the approach speed to these signals; to ensure that near misses are identified and 
+managed; 
+xi 
+
+## Página 12
+
+ 
+IÉ-IM should review the Traffic Regulator’s Manual with a view to introducing guidance for Traffic 
+Regulator’s in terms of the management of train delays and the switching of crossing points; 
+ 
+IÉ-IM should review their training and competency management for Traffic Regulators so that 
+they have the appropriate skill set in terms of identifying potential risks associated with the 
+regulating of trains; 
+ 
+IÉ-RU and IÉ-IM should carry out a review of the interfaces between different operational staff 
+(i.e. drivers, LCCOs, signalmen and EOs) so that all operational staff can adequately manage 
+train operations during degraded situations. Part of this review should focus on the safety critical 
+communications between operational staff; 
+ 
+IÉ-IM should identify all locations where safety critical communications are not recorded and 
+develop a programme of works for the introduction of recording safety critical communications at 
+these locations; 
+ 
+IÉ-IM should review the procedures applicable to signalman, Level Crossing Keeper, LCCO and 
+level crossing emergency operators with particular emphasis on the actions to be taken by each 
+when a fault is detected at a level crossing. This review should consider circumstances where a 
+train may already have entered the affected section of line, and circumstances where the signal 
+may be missing or extinguished; 
+ 
+IÉ-IM, should review their procedures for the placement of speed boards and brief relevant staff to 
+be vigilant in the placement of lineside signage with respect to the potential for obscuring of 
+signals or otherwise unintentionally providing distractions to drivers, especially in the case where 
+there are fixed colour light signals or they have potential to cause SOY SPADs; 
+ 
+IÉ-IM & IÉ-RU should review the current system of reporting SPAD events so that reports are 
+consistent and published within a set period of time.  
+xii 
+
+## Página 13
+
+### Contents 
+SECTION 1 ........................................................................................................................................................ 1 
+PART 1 – INTRODUCTION TO RAIU INVESTIGATION ......................................................................................... 2 
+RAIU DECISION TO INVESTIGATE ................................................................................................................................. 2 
+SCOPE OF INVESTIGATION .......................................................................................................................................... 3 
+INVESTIGATION AND EVIDENCE ................................................................................................................................... 4 
+PARTIES DIRECTLY INVOLVED IN THE INVESTIGATION ........................................................................................................ 5 
+PARTIES INDIRECTLY INVOLVED IN THE INVESTIGATION ..................................................................................................... 6 
+PART 2 – INFRASTRUCTURE: INTRODUCTION TO SIGNALS & TRAIN PROTECTION............................................ 8 
+INTRODUCTION ....................................................................................................................................................... 8 
+SIGNALLING ............................................................................................................................................................ 8 
+PRINCIPLES OF TRAIN PROTECTION ............................................................................................................................ 12 
+PART 3 – INTRODUCTION TO SPADS ON THE IÉ NETWORK ............................................................................ 17 
+INTRODUCTION ..................................................................................................................................................... 17 
+SPAD CATEGORIES AND RISK RANKING ....................................................................................................................... 17 
+FREQUENCY, SEVERITY & TYPES OF SPADS OF THE IÉ NETWORK ..................................................................................... 19 
+MANAGEMENT OF SPADS ...................................................................................................................................... 22 
+PART 4 – DRIVER TRAINING, CMS AND DD&SS .............................................................................................. 28 
+INTRODUCTION ..................................................................................................................................................... 28 
+RU OPERATIONS SAFETY MANAGEMENT SYSTEM DOCUMENTS ...................................................................................... 29 
+SUITE OF DRIVING DOCUMENTS FOR USE BY DRIVERS ..................................................................................................... 42 
+COMPETENCY MANAGEMENT OF BBRI OTMDOS ....................................................................................................... 51 
+SECTION 2 ...................................................................................................................................................... 52 
+PART 5 – SPAD AT MILLSTREET, CORK, ON THE 8TH DECEMBER 2013 ............................................................. 53 
+INTRODUCTION ..................................................................................................................................................... 53 
+THE INCIDENT ....................................................................................................................................................... 53 
+GENERAL DESCRIPTION OF THE RAILWAY ..................................................................................................................... 55 
+FATALITIES, INJURIES AND MATERIAL DAMAGE ............................................................................................................. 58 
+ROLES INVOLVED IN THE INCIDENT ............................................................................................................................. 58 
+EXTERNAL CIRCUMSTANCES ..................................................................................................................................... 59 
+EVIDENCE ............................................................................................................................................................. 60 
+THE SIGNALLING SYSTEM ........................................................................................................................................ 60 
+ANALYSIS ............................................................................................................................................................. 83 
+xiii 
+
+## Página 14
+
+CONCLUSIONS ....................................................................................................................................................... 91 
+PART 6 – SPAD AT GORTAVOGHER, 19TH DECEMBER 2013 ............................................................................. 93 
+INTRODUCTION ..................................................................................................................................................... 93 
+THE INCIDENT ....................................................................................................................................................... 93 
+GENERAL DESCRIPTION OF THE RAILWAY ..................................................................................................................... 96 
+FATALITIES, INJURIES AND MATERIAL DAMAGE ............................................................................................................. 98 
+ROLES INVOLVED IN THE INCIDENT ............................................................................................................................. 99 
+EXTERNAL CIRCUMSTANCES ..................................................................................................................................... 99 
+EVIDENCE ........................................................................................................................................................... 101 
+ANALYSIS ........................................................................................................................................................... 116 
+CONCLUSIONS ..................................................................................................................................................... 118 
+PART 7 – SPAD AT SIGNAL WL167, MUINE BHEAG, 9TH APRIL 2013 .............................................................. 120 
+INTRODUCTION ................................................................................................................................................... 120 
+THE INCIDENT ..................................................................................................................................................... 120 
+ROLES INVOLVED IN THE INCIDENT ........................................................................................................................... 121 
+GENERAL DESCRIPTION OF THE RAILWAY ................................................................................................................... 121 
+FATALITIES, INJURIES AND MATERIAL DAMAGE ........................................................................................................... 124 
+EXTERNAL CIRCUMSTANCES ................................................................................................................................... 124 
+EVIDENCE ........................................................................................................................................................... 125 
+ANALYSIS ........................................................................................................................................................... 135 
+CONCLUSIONS ..................................................................................................................................................... 138 
+SECTION 3 .................................................................................................................................................... 139 
+PART 8 – A REVIEW OF ALL CATEGORY A SPADS (JANUARY 2012 – JULY 2015) ............................................ 140 
+INTRODUCTION ................................................................................................................................................... 140 
+EVIDENCE ........................................................................................................................................................... 141 
+ANALYSIS ........................................................................................................................................................... 207 
+CONCLUSIONS ..................................................................................................................................................... 219 
+PART 9 – SPAD MANAGEMENT .................................................................................................................... 222 
+EVIDENCE ........................................................................................................................................................... 222 
+ANALYSIS ........................................................................................................................................................... 230 
+CONCLUSION ...................................................................................................................................................... 232 
+PART 10 – MANAGEMENT OF DRIVERS & OTHER STAFF POST INCIDENT ..................................................... 233 
+EVIDENCE ........................................................................................................................................................... 233 
+ANALYSIS ........................................................................................................................................................... 237 
+xiv 
+
+## Página 15
+
+CONCLUSIONS ..................................................................................................................................................... 238 
+SECTION 4 .................................................................................................................................................... 240 
+PART 11 – ADDITIONAL OBSERVATIONS ...................................................................................................... 241 
+EVIDENCE ........................................................................................................................................................... 241 
+ANALYSIS ........................................................................................................................................................... 245 
+CONCLUSIONS ..................................................................................................................................................... 245 
+PART 12 – THE ROLE OF THE RAILWAY SAFETY COMMISSION IN RELATION TO SPADS ................................ 246 
+EVIDENCE ........................................................................................................................................................... 246 
+ANALYSIS ........................................................................................................................................................... 256 
+CONCLUSIONS ..................................................................................................................................................... 258 
+PART 13 – RELEVANT ACTIONS TAKEN OR IN PROGRESS.............................................................................. 259 
+RELEVANT ACTIONS TAKEN OR IN PROGRESS BY IE ...................................................................................................... 259 
+RELEVANT ACTIONS TAKEN OR IN PROGRESS BY THE RSC.............................................................................................. 268 
+RELEVANT ACTIONS TAKEN OR IN PROGRESS BY BBRI .................................................................................................. 269 
+PART 14 – FINAL CONCLUSIONS & SAFETY RECOMMENDATIONS ................................................................ 270 
+GENERAL DESCRIPTION ......................................................................................................................................... 270 
+NEW SAFETY RECOMMENDATIONS .......................................................................................................................... 271 
+SECTION 5 .................................................................................................................................................... 277 
+PART 15 – ADDITIONAL INFORMATION ....................................................................................................... 278 
+LIST OF ABBREVIATED IÉ STANDARDS & REFERENCED .................................................................................................. 278 
+LIST OF ABBREVIATIONS .............................................................................................................................. 279 
+GLOSSARY OF TERMS ............................................................................................................................................ 282 
+REFERENCES & BIBLIOGRAPHY ............................................................................................................................... 287 
+xv 
+
+## Página 16
+
+#  Section 1 
+### Part 1 – An Introduction to RAIU Investigations 
+### Part 2 – Infrastructure: Signals & Train Protection   
+### Part 3 – SPADs on the IÉ Network  
+### Part 4 – Driver Training, CMS & DD&SS 
+
+## Página 17
+
+### PART 1 – Introduction to RAIU Investigation  
+### RAIU decision to investigate 
+1 
+In accordance with the Railway Safety Act 2005 and Statutory Instrument No. 258 of 2014 
+European Union (Railway Safety) (Reporting and investigation of Serious Accidents, Accidents 
+and Incidents) Regulations 2014, the RAIU investigate all serious accidents, the RAIU may also 
+investigate and report on accidents and incidents which under slightly different conditions might 
+have led to a serious accident.  
+On the 8th December 2013, two trains were travelling towards each other in the same section of 
+2 
+track, only stopping when the signalman made a call for the trains to stop, the trains stopped 175 
+m apart at Millstreet Station Platform. As part of the initial RAIU investigation, the RAIU reviewed 
+other Category A SPADs in IÉ in 2013. Although none of these SPADs resulted in fatalities, the 
+consequences of SPADs can lead to multiple fatalities, such as the SPAD at Cherryville Junction, 
+Co Kildare, in 1983; where the 18:50 hrs Galway to Dublin passenger service passed Signal 
+CY161 at danger and collided, rear-on, with the 17:15 hrs passenger service from Tralee to 
+Dublin which was stationary, killing seven passengers. This SPAD incident is the most recent 
+SPAD incident which has resulted in fatalities on the IÉ network.  
+3 
+As a result of these factors, the RAIU made the decision to carry out an investigation, under 
+article 19 (2) of the Railway Safety Directive (EC, 2004), into the SPAD at Millstreet on the 8th 
+December 2013; as, given that under slightly different conditions, this SPAD incident may have 
+led to a head on collision (serious accident), which had the potential for fatalities and serious 
+injuries.  
+4 
+The decision was also made to expand the investigation to include all Category A SPADs from 
+January 2012 to June 2015, inclusive, in order to see if there were any trends into the types and 
+causations of SPADs on the IÉ network. These other Category A SPADs were divided into 
+different event types, namely: 
+ 
+SPADs during normal train operations; 
+ 
+SPADs during degraded train operations; 
+ 
+SAS and SOY SPADs. 
+
+## Página 18
+
+### Scope of investigation 
+This RAIU investigation reviewed Category A SPADs which occurred on the IÉ network from 
+January 2012 to July 2015, inclusive, with the exclusion of low rail adhesion (LRA) SPADs. As a 
+result, the RAIU are reviewing forty-five Category A SPAD incidents.  
+The investigation will focus on three main SPADs, the SPADs at Millstreet on the 8th December 
+6 
+2013, the SPAD at Gortavogher on the 19th December 2013 and the SPAD at Muine Bheag on 
+the 9th April 2013 as these best reflect the SPAD event type on the IÉ network, i.e. SPADs during 
+normal train operations, SPADs under degraded train operations and Start Against Signal (SAS) 
+/Start on Yellow (SOY) SPADs, respectively.  
+7 
+To present the findings of the RAIU investigation, the RAIU have divided this report into five 
+sections:  
+Section 1 
+ Part 1 – Introduction to the RAIU investigation; 
+ Part 2 – Infrastructure: Introduction to Signals & Train Protection; 
+ Part 3 – Introduction to SPADs on the IÉ Network; 
+ Part 4 – Driver training, CMSs & DD&SSs. 
+Section 2 
+ Part 5 – SPAD at Millstreet on the 8th December 2013; 
+ Part 6 – SPAD at Gortavogher on the 19th December 2013; 
+ Part 7 – SAS SPAD at Muine Bheag on the 9th April 2013. 
+Section 3 
+ Part 8 – A Review of All Category A SPADs (January 2012 – June 2015); 
+ Part 9 – SPAD Management; 
+ Part 10 – SPAD Management of Drivers. 
+Section 4 
+ Part 11 – Additional Observations; 
+ Part 12 – The Role of the RSC in relation to SPADs; 
+ Part 13 – Relevant actions taken or in progress; 
+ Part 14 – Safety Recommendations. 
+Section 5 
+ Part 15 – Additional information. 
+
+## Página 19
+
+The RAIU must establish the extent of the investigation to ensure that only pertinent information is 
+recovered and reviewed. Therefore, for this investigation, the RAIU have defined the following 
+scope: 
+ 
+Establish the sequence of events of the three named incidents (SPADs at Millstreet, 
+Gortavogher and Muine Bheag); 
+ 
+Establish, where applicable, the immediate cause, contributory factors (CF) and underlying 
+causes (UC) and root causes (RC) to these incidents; 
+ 
+Examine the operation of the signalling and train protection systems; 
+ 
+Examine the standards and procedures associated with the signalling and train protection 
+systems; 
+ 
+Examine the training and driving records for the train drivers involved; 
+ 
+Examine the standards and procedures for the selection, training and competency 
+management of drivers, in particular aspects associated with human factors; 
+ 
+Examine any other systems in place for the avoidance of SPADs; 
+ 
+Examine the process for the reporting of near-miss SPADs and review the reported near-miss 
+SPADs; 
+ 
+Examine how drivers and other operational staff who had been involved in SPADs are 
+managed;  
+ 
+Examine the relevant elements of the safety management system (SMS); 
+ 
+Examine the role of the RSC, if any, in relation to SPADs;  
+ 
+Examine any other significant safety deficiencies identified as a result of this investigation; 
+ 
+Identify any additional observations (AO) indirectly associated with the incidents, where 
+applicable. 
+### Investigation and evidence 
+9 
+During the on-site and off-site investigation the RAIU collated the following evidence: 
+ 
+IÉ Investigation Reports from SPADs dating from January 2012 to June 2015; 
+ 
+Photographic record of signalling system and infrastructure in the location of the incidents; 
+ 
+Signalling system layouts and other information; 
+ 
+Witness evidence from parties involved in the incidents; 
+ 
+Other evidence from IÉ staff with information pertaining to the incidents;  
+ 
+IÉ standards, procedures and other documentation; 
+ 
+Standards, procedures and documentation from other relevant bodies; 
+ 
+SMS documentation from the IÉ; 
+ 
+Other relevant documentation. 
+
+## Página 20
+
+10 As part of the investigation the RAIU formally interviewed over forty operational staff, ranging from 
+drivers to signalmen to persons in charge (PIC) of platforms. All operational staff interviewed fully 
+co-operated with the RAIU investigation and gave an open and honest account of their respective 
+incidents to the RAIU. 
+11 In addition to the operational staff the RAIU formally interviewed several senior managers within 
+IÉ in relation to the existing standards and procedures and the current system of investigating 
+SPAD incidents. 
+### Parties directly involved in the investigation 
+### Iarnród Éireann 
+12 IÉ is the railway infrastructure manager (IM), managing the design, installation, testing, 
+inspection, maintenance, renewal and operation of the railway’s physical assets. The IÉ-IM 
+departments involved in the investigation included: 
+ 
+Signalling, Electrical and Telecommunications (SET) – Responsible for the design, installation 
+and maintenance of signalling equipment;  
+ 
+Infrastructure Manager Operation (IMO) – Responsible for the operations, performance and 
+control of signalling and level crossing staff; and the control of train movements through CTC 
+and regional controlling signal cabins. 
+13 The responsibility of reporting on, issuing of remit, and finalisation of investigation reports, rests 
+with IÉ-IM, in accordance with IM-SMS-007, Reporting and Investigation of Accidents and 
+Incidents, published in March 2013; these remits may be issued from IÉ-IM to the relevant RU 
+(IÉ-RU, Balfour Beatty Rail Ireland (BBRI), etc). 
+14 IÉ is also the railway undertaking (RU) that owns and operates mainline railway services in 
+Ireland.  IÉ-RU departments associated with this incident include: 
+ 
+RU Operations – responsible for the supervision and operation of trains; this includes the 
+supervision of train drivers. 
+15 The IÉ-RU and IM roles directly involved in incidents will be included in the relevant sections of 
+the report.  
+
+## Página 21
+
+### Balfour Beatty Rail Ireland 
+16 BBRI is part of the Balfour Beatty Group, and have being operating as a RU since March 2014. 
+BBRI operate and maintain On Track Machines (OTMs) on behalf of IÉ. BBRI staff comprises of a 
+number of On Track Machine Driver Operators (OTMDOs) and fitter groups which are located 
+throughout Ireland.  
+17 The OTMDOs are trained at the IÉ training school, however, the competency management of the 
+OTMDOs is managed by BBRI, discussed in paragraph 157. 
+18 As an RU BBRI are invited to take part in IÉ’s SPAD mitigation meetings on a regular basis. Both 
+the operations management and the training and standards team attend these meetings. It gives 
+both companies the chance to share information pertaining to SPADs on the IÉ network. BBRI are 
+furnished with an active SPAD list, an active multi-SPAD list, and a list of bad acting signals 
+(signals which have accrued four or more SPADs in the last ten years) from IÉ, this information is 
+made freely available to the BBRI OTMDOs. Also, as an RU, BBRI are invited to take part in the 
+regular Rule Book meetings organised by IÉ.  
+### Parties indirectly involved in the investigation 
+### Railway Safety Commission (RSC) 
+19 The RSC is the national safety authority, (The name of the Railway Safety Commission changed 
+to Commission for Railway Regulation, CRR   from Monday 29th February 2016) which is 
+responsible for the regulatory oversight of the SMS and enforcement of railway safety in the 
+Republic of Ireland in accordance with the Railway Safety Act 2005 and the European Railway 
+Safety Directive.  
+20 The RSC’s mission is to advance the safety of railways in Ireland through diligent supervision and 
+enforcement. The RSC is required to ensure that each railway organisation operating in the State 
+understands and effectively manages the risk to safety associated with its activities. 
+21 The RSC is required to ensure that each railway organisation operating in Ireland understands 
+and effectively manages the risk to safety associated with its activities.  
+
+## Página 22
+
+22 This is achieved in through: 
+ 
+Conformity Assessment - Assessing SMSs to ensure that they conform to all requirements 
+prior to awarding Safety Authorisation or Safety Certificates, and assessment of new or 
+significantly altered railway infrastructure and rolling stock to ensure safety compliance prior 
+to authorising placement in service; 
+ 
+Supervision & Enforcement – Auditing railway organisations’ compliance with the procedures 
+and standards prescribed in their respective SMS, and inspection of railway assets to assess 
+compliance with fitness for purpose criteria. Compliance with safety recommendations is 
+assured through monitoring of implementation plans and by taking enforcement proceedings 
+where necessary; 
+ 
+Economic Regulation – Monitoring the performance of IÉ under the terms of the multi-annual 
+infrastructure contract between the Minister for Transport Tourism and Sport and the 
+Infrastructure Manager in regard to expenditure, maintenance output, and service delivery; 
+oversight of the IÉ track access allocation and pricing regime and adjudication on appeals by 
+RUs; and the licensing of RUs; 
+ 
+European & Legislative Harmonisation – Supporting the harmonisation of legislation with 
+European Directives and Regulations, and ensuring that the consequent implementation of 
+related technical and procedural measures conforms to mandatory European requirements. 
+23 The role of the RSC in terms of this investigation will be reviewed in Part 12 of this report. 
+
+## Página 23
+
+### PART 2 – Infrastructure: Introduction to Signals & Train Protection  
+### Introduction 
+24 This part of the report outlines the main infrastructure associated with a SPAD, namely the 
+signalling and train protection systems. In relation to signalling, this part provides an overview of 
+the types of signals and their observance requirements; as well as providing information on the 
+sighting required for signals. In relation to train protection, this part of the report outlines the basic 
+and enhanced protection systems available in the island of Ireland. 
+### Signalling 
+### Types of signals 
+25 The IÉ network is made up of a number of different types of colour light signals (two, three and 
+four colour light signals) and semaphore signals which the drivers must observe in order to travel 
+through the network, see Figure 1 of examples of four aspect signals.  
+26 For the purposes of this report, also included are signals capable of displaying a stop aspect or 
+indication, such as: 
+ 
+Stop Boards or Indicators; 
+ 
+Shunt signals/ limit of shunt indicators; 
+ 
+Position Light/ Shunting/ Disc Signals; 
+ 
+Possession Limit Boards; 
+ 
+Marker Boards at the entrance to or exit from a worksite within a possession; 
+ 
+Stop indications given by a Handsignaller or Signalman. 
+### Observance of signals 
+27 Part 3.0, Section C, ‘Instructions to Drivers’, of the Rule Book, published in 2007, sets out the 
+instructions to drivers in relation to the observance of colour light signals. A table in provided in 
+3.1.1 in relation to the colour light aspects and their meaning, see Figure 1.  
+
+## Página 24
+
+### Figure 1 – Observance of colour light signals 
+28 In summary, the aspects have the following meaning:  
+ 
+Red light – Danger aspect, meaning the driver should stop; 
+ 
+One yellow light – Cautionary proceed aspect, meaning the driver should be prepared to stop 
+at the next signal; 
+ 
+Two yellow lights – Preliminary cautionary proceed aspect, meaning that the driver should be 
+prepared to find the next signals at caution (one yellow light); 
+ 
+Green light – Clear proceed aspect, meaning driver can proceed, as the next signal will be 
+displaying a proceed aspect (green or yellow). 
+29 Section 3.5 ‘Observance of signal failures or irregularities’ of the Rule Book, states under Section 
+3.5.1 ‘Signals which are out, missing or indistinctly shown’ that where there is an “absence of a 
+signal where one should be shown” drivers should consider these signals at danger i.e. if a signal 
+is not showing any aspect, it should be considered to be at danger. 
+
+## Página 25
+
+### Lineside Signal Sighting 
+### General description 
+30 IÉ’s Signalling Electrical and Telecommunications (SET) Department Signalling Standard, 
+‘Lineside Signal Sighting and Spacing’, I-SIG-2043, Version 3, operative since the 31st March 
+2013 (which will be referred to as I-SIG-2043 for the remainder of this report) sets out the 
+requirements for signal positioning.  
+### Signal Sighting Requirements 
+31 Signal sighting requirements must ensure that:  
+ 
+All new and altered signals and indicators must be positioned so that they afford train drivers 
+adequate advance sighting and convey a clear and unambiguous message; 
+ 
+The effectiveness of the signal must not subsequently be impaired;  
+ 
+The distance between the first signal displaying a cautionary aspect and the signal at which 
+the train is required to stop must be sufficient to enable the train to be stopped safely at the 
+stop signal.  
+32 As a result, I-SIG-2043 sets out the requirements for the: 
+ 
+General arrangements and positioning of stop, colour light and semaphore signals; 
+ 
+Signal sighting; 
+ 
+Positioning of platform screen displays; 
+ 
+Provision for telephones; 
+ 
+Inspection requirements; 
+ 
+Signal spacing distances. 
+### Sighting distances and reading time 
+33 Signal sighting is carried out to determine the most suitable and safest positions for all new and 
+altered signals (including stop boards), associated notice boards, indicators and equipment. 
+Signal Sighting Committees are convened as required to carry out these duties and are made up 
+of competent staff from the SET and IM Operations Departments, as well as drivers. 
+34 I-SIG-2043 states that “Drivers must be able to view a signal long enough to assimilate the aspect 
+and conditions displayed by the signal. Normally, signals must be positioned to give drivers an 
+approach view for a minimum of 8 seconds and an uninterrupted view for at least 4 seconds. 
+Where these timings cannot be achieved but the signal sighting committee is satisfied that an 
+adequate approach view is achieved, they must record their decision and reasoning on the signal 
+sighting form”. I-SIG-2043 provides guidance and spreadsheets related to calculating the 
+
+## Página 26
+
+Minimum Reading Times (MRTs) for driver, which in turn allows for correct sighting and 
+positioning of signals. 
+### Signal Sighting Distractions 
+35 In relation to distraction and signal sighting and reading time, I-SIG-2043 states that “distracting 
+features must not generally be located on the approach to signals (e.g. lineside signs requiring 
+driver action – typically, these are permanent speed restrictions, CAWS commencement boards, 
+train radio boards)”. It continues “the signal sighting committee may need to consider relocation of 
+the signal or of the distracting feature”. 
+36 I-SIG-2043 also states that “where there are perceived difficulties in identifying or interpreting a 
+signal, or where there are significant distractions or other factors which would increase the 
+likelihood of a driver misreading the signal, the minimum reading time must be increased from the 
+standard 8-second value”. The appendix of I-SIG-2043, ‘Calculating Minimum Reading Time 
+(MRT) – Assessment Worksheet’, calculates this additional time to be 1-second.  
+
+## Página 27
+
+### Principles of Train Protection  
+### Introduction 
+37 Train protection is equipment fitted to trains and the track that can reduce risks from SPADs and 
+over-speeding, which includes enhanced and basic overrun protection systems and in-cab 
+reminder appliances.  
+### Enhanced Overrun Protection 
+### General description 
+38 Enhanced overrun protection mitigates against disregard of signal aspects, warning of a signal at 
+danger and against disregard of a signal at danger by a train starting from rest. The requirements 
+for enhanced overrun protection are set out in IÉ’s Infrastructure Signalling Standard, I-SIG-2062, 
+‘Principles of Train Protection’, Issue 2, issued in September 2007, which will be referred to as (I-
+SIG-2062 for the remainder of the report). Risk assessments, using an approved method, must be 
+undertaken to determine whether enhanced mitigation measures are required to reduce the risk of 
+collision or derailment to as low as reasonably practicable (ALARP). As a minimum a risk 
+assessment must be carried out at: 
+ 
+Platform starting signals protecting a conflicting route ahead; 
+ 
+Other signals from which trains regularly start from rest and which protect a conflicting route 
+ahead; 
+ 
+Signals protecting junctions where there is an extended opportunity or time window for 
+conflict, e.g. entering single line sections; 
+ 
+Other signals presenting high risk e.g. where a distracting feature (such as a station, level 
+crossing, rising gradient or speed restriction) intervenes between a signal and a preceding 
+caution signal, or where the signal has a history of SPADs. 
+39 Enhanced overrun protection is usually provided in the form of either advisory or mandatory train 
+control systems. Mandatory train control systems include Automatic Train Protection (ATP); while 
+advisory train control systems include Continuous Automatic Warning System (CAWS). 
+### Automatic Train Protection (ATP) 
+40 ATP must monitor the speed of the train and alert the driver if the speed of the train exceeds the 
+permissible speed, or exceeds a speed which is consistent with stopping at a signal at danger. 
+The ATP system must initiate a brake application if the driver fails to respond to the alert by 
+controlling the train speed. The brake application must be sufficient to bring the train to rest if a 
+
+## Página 28
+
+signal at danger is reached and it must only be capable of being overridden if the driver takes 
+sufficient action to control the train.  
+41 Approximately 4.6 % (99 track-km) of the IÉ network is provided with ATP and this number is 
+confined to the electrified route, the DART, between Greystones and Howth/Malahide, see the red 
+areas of Figure 2 for the locations of ATP on the IÉ network. 
+### Continuous Automatic Warning System (CAWS) 
+42 CAWS must alert the driver to a change in signal aspect, warn of a more restrictive signal aspect, 
+and initiate a brake application if the driver does not acknowledge the warning.  
+43 CAWS works by repeating the aspects shown by the lineside colour light signals on an Aspect 
+Display Unit (ADU) inside the driver's cab. The ADU continuously displays the aspect that was 
+shown by the previous signal until updated approximately 350 m before the next signal. The ADU 
+then displays the aspect shown by that signal. A change of ADU display to a less restrictive 
+aspect (e.g., double yellow to green) is termed an upgrade which is accompanied by a 
+momentary ‘warble’, while a change to a more restrictive aspect (e.g., single yellow to red) is 
+called a downgrade which is accompanied by a continuous audible tone and the illumination of 
+the acknowledge switch that must be pressed by the driver within seven seconds to prevent an 
+automatic brake application occurring (i.e. failure to acknowledge within seven seconds results in 
+an emergency brake application and the driver cannot reset the system for 60 seconds as the 
+system is locked out). Acknowledgement by the driver within the first seven seconds immediately 
+silences the tone. CAWS does not act in the event of a signal being passed at danger if the red 
+aspect has been acknowledged, however, CAWS does continue displaying red aspect in the cab 
+to act as a reminder. 
+44 Approximately 41.6% (900 track-km) of the IÉ network is equipped with CAWS, see blue areas in 
+see Figure 2. 
+
+## Página 29
+
+### Figure 2 – CAWS and ATP on the IÉ network 
+
+## Página 30
+
+### Train Protection Warning System (TPWS) 
+45 Train Protection Warning System (TPWS) is a train protection system which automatically 
+activates brakes on a train that has had a SPAD or is over-speeding i.e. if a train approaches a 
+stop signal showing a danger aspect at too high a speed to enable it to stop at the signal, it will be 
+forced to stop, regardless of any action (or inaction) by the driver. Unlike ATP, it does not aim to 
+stop trains at or before a signal that is at danger, but stop the train before the point at which a 
+collision with another train could occur, excluding rear-end collision with a train in front. A 
+standard installation consists of an on-track transmitter adjacent to a signal, activated when the 
+signal is at danger, if a train passes the signal at danger, it will have its emergency brakes 
+activated. At high risk locations, a second transmitter may be placed on the approach to the 
+signal, so that if a train is over-speeding the brakes will be applied. 
+46 TPWS is not fitted on the IÉ network, but it is fitted in Northern Ireland. 
+### Basic Overrun Protection 
+47 In the absence of enhanced overrun protection, the level of train protection provided throughout 
+the rest of the IÉ network (53.8%, or 1,166 track-km) is through the use of basic overrun 
+protection. Basic overrun protection which is provided to mitigate the risk of misjudgement by a 
+driver who has been warned of the need to stop by the preceding signal aspects and is attempting 
+to stop at the signal at danger.  
+48 The requirements for basic overrun protection are set out in IÉ’s Infrastructure Signalling 
+Standard, I-SIG-2062, ‘Principles of Train Protection’, Issue 2, issued in September 2007, which 
+will be referred to as (I-SIG-2062 for the remainder of the report). In accordance with I-SIG-2062, 
+basic overrun protection of a signalled route must be provided in the following form: 
+ 
+An overlap of sufficient length to mitigate the risk of misjudgement on the part of a driver who 
+has observed, and heeded, the warnings of the preceding signal(s) and is attempting to stop 
+at the signal at danger; 
+ 
+The setting of flank points or the inclusion of flank track circuits; 
+ 
+Trap points and sand drag where it is not possible to provide a sufficient overlap. Trap points 
+must be used to protect passenger lines from overruns out of sidings. 
+49 Basic overrun protection is not required on non-passenger lines.  
+50 According to I-SIG-2062, basic overrun protection does not usually provide sufficient mitigation 
+where the driver has disregarded the warning aspects at the signal(s) preceding the signal at 
+danger.  
+
+## Página 31
+
+### Driver Reminder Appliance (DRA) 
+51 A Driver’s Reminder Appliance (DRA) is a device in a driving cab to enable the driver to set a 
+reminder that the signal ahead is at danger. Whilst set, the DRA prevents the driver being able to 
+take power. The main objectives of the DRA are to indicate to the driver, whilst the device is set, 
+that the signal ahead may still be at danger; and to prevent the driver from starting away when the 
+device is set. The DRA must be set when:  
+ 
+Entering/leaving the driving cab; 
+ 
+When stopped at any signal at danger (which helps prevent SAS SPADs); 
+ 
+When stopped at a station platform and the next stop signal is beyond the platform after 
+having: passed a signal displaying a single yellow aspect or a semaphore distant signal at 
+caution; been authorised to pass at danger the signal on the approach to the platform; 
+entered the platform under the authority of a shunting/disc signal (these requirement help 
+prevent SOY SPADs).  
+52 As of December 2015 DRA was fitted to all passenger trains operated by IÉ. 
+
+## Página 32
+
+### PART 3 – Introduction to SPADs on the IÉ Network 
+### Introduction 
+53 IÉ define a SPAD as an incident when a train has passed a stop signal at danger without 
+authority, in their operations SMS document, OPS-SMS-2.0, entitled ‘Signals Passed at Danger & 
+Other Serious Operational Incidents’, published on the 25th March 2013.  
+54 This part of the report outlines the SPAD Categories and SPAD Risk Ranking Tool (SRRT) for the 
+ranking of SPAD severity, the SPAD database maintained by IÉ and the types of SPADs on the 
+IÉ network.  
+### SPAD categories and risk ranking 
+### General description 
+55 OPS-SMS-2.0 further describes the different categories of SPAD: 
+ 
+Category A – Any SPAD when a stop signal and any associated preceding cautionary 
+indications was displayed correctly, in sufficient time for the train to stop safely at the signal; 
+ 
+Category B (also referred to as a Technical SPAD) – Any SPAD when a stop aspect was 
+displayed because: signalling or level crossing equipment failed or malfunctioned; or it was 
+returned to danger in error; 
+ 
+Category C – Any SPAD when a stop aspect or indication was not displayed in sufficient time 
+for the train to be stopped safely at the signal because it was returned to danger in an 
+emergency; 
+ 
+Category D – When a vehicle without any traction unit attached, or a train which is 
+unattended, runs away past a signal at danger. However, if the vehicles involved are being 
+propelled and run away because the movement was not controlled, the incident is a Category 
+A SPAD. 
+56 OPS-SMS-2.0 also defines the SRR, for Category A SPADs, as a system for measuring the 
+severity of SPADs on a scale of 0 to 28. Category A SPADs are ranked in the following manner: 
+ 
+High Risk – Score of 20 to 28 with 28 representing “the highest risk”; 
+ 
+Medium Risk – Score of 16 to 19; 
+ 
+Low Risk – Score of 0 to 15, with 1 representing a “very low risk”. 
+
+## Página 33
+
+57 In the terms and definitions of OPS-SMS-2.0 the definition for the term ‘SPAD Risk Ranking’ is 
+given as “A system for measuring the severity of SPADs on a scale of 1 to 28 with 1 = very low 
+risk and 28 representing the highest risk”. There is no reference to SRRs with 01, although the 
+scale is measured from 0 to 28.  
+### Method of calculating the SRR 
+58 According to IÉ, the SRR method gives a measure of the ‘level of risk’ associated with each 
+SPAD that occurs. The methodology can be used more broadly to inform the SPAD investigation 
+process. Each SPAD is ranked against set criteria: 
+ 
+The initial direct collision potential of the SPAD; 
+ 
+How close the SPAD came to an accident, and what measures were utilised to prevent the 
+occurrence of the accident; 
+ 
+The potential risk from the SPAD, considering the most likely of four potential outcomes: 
+o 
+Collision with another train or buffer stops; 
+o 
+Train derailment; 
+o 
+Collision with a road vehicle on a level crossing; 
+o 
+Train entering a possession with the potential for encountering workers on the track. 
+59 In line with OPS-SMS-2.0, the RU Chief Traction Executive (CTE) calculates the SRR for all 
+SPADs on the IÉ network, using the ‘SPAD Risk Ranking Methodology Handbook’ (to be referred 
+to as the SRR Handbook for the remainder of this report), published in October 2008, which is 
+currently still in draft format. This document was produced based on the UK’s RSSB SRR model 
+(Accident & Incident Investigation, GO/RT3119). The RSSB are the UK’s rail industry body 
+providing a range of knowledge, products and services to understand risk, guide standards, 
+manage research, development and innovation and collaborate to improve.  
+60 In relation to the calculation of SRR, the SRR Handbook states that “the range for the total SPAD 
+Risk Rankings is 0 to 28, where the difference between two consecutive risk ranking numbers 
+represents approximately a factor of two change in risk”. As with OPS-SMS-2.0, the SRR 
+Handbook does not give a clear explanation of meaning for SPADs with an SRR of 0. In relation 
+to a SPAD with an SRR of 28, the SRR Handbook states “On this basis the highest overall risk 
+ranking of 28 would relate approximately to a Group 12 SPAD at a signal with a distance to the 
+1 The RSSB define an SRR of 0 as a ‘zero risk event’, where the train would have had to pass another 
+signal at danger to reach the first potential conflict point. 
+2 Errors occur due to ineffective communication between persons directly contributing to the passing 
+of a signal at danger. 
+
+## Página 34
+
+potential accident point < 10 m with the potential for a high speed head-on collision, involving 
+heavily loaded Mark 1 multiple unit rolling stock potentially resulting in 200 fatalities and weighted 
+injuries”. 
+61 The trend in SRR severity is discussed in paragraph 64. The method of calculating the SRR is 
+discussed further in ‘Part 9 – SPAD Management’. 
+### Frequency, severity & types of SPADs of the IÉ Network 
+### Category A SPAD numbers 
+62 Since 2009 there have been eighty-five Category A SPADs on the IÉ network. There were 21, 22, 
+6, 8, 18 and 10 Category A SPADs from 2009 to 2014, respectively, see Figure 3. These figures 
+show that there was a sharp decrease in Category A SPADs in 2011-2012 from the peak of 22 
+SPADs in 2010. However there was also a sharp increase in Category A SPADs in 2013 (18), 
+and a decrease again in 2014. At the time of publication of this report, the number of Category A 
+SPADs in the first half of 2015 is 11, meaning that there will be an increase in the number of 
+Category A SPADs in 2015. 
+### Figure 3 – Number of Category A SPADs from 2009 – 2015 
+63 These figures indicate that there is no clear trend (upwards or downwards) in the overall annual 
+number of SPADs on the IÉ network, although latest figures provided indicate that there will has 
+been another increase in SPADs from 2014 (10) to 2015 (11 as of end of June 2015). 
+
+## Página 35
+
+### Category A SPAD severity 
+64 In relation to the severity of SPADs in IÉ since 2009, it is difficult to determine any accurate trends 
+in relation to SPAD severity; this is due to the fact that some SPADs being assigned an SRR of 0 
+(the average SRR values are indicated by the red line on Figure 4). When including the SPADs 
+with an SRR of 0, the linear average of the SRR severity indicates a slight increase in the average 
+SRR, from an SRR value of 12 (2009) to 13 (2015), approximately, see Figure 4. 
+20
+### SPAD numbers & Average SRRs
+18
+16
+14
+12
+10
+SPAD Numbers
+8
+6
+Average SRR
+4
+Linear (Average SRR)
+2
+0
+Q1 2009
+Q3 2009
+Q1 2010
+Q3 2010
+Q1 2011
+Q3 2011
+Q1 2012
+Q3 2012
+Q1 2013
+Q3 2013
+Q1 2014
+Q3 2014
+Q1 2015
+### Quarterly Intervals 2009 - 2015
+### Figure 4 – SPAD numbers, average SRRs and linear average of SRR trend 
+### (including SRR values of 0) 
+65 If the zero risk events (SPADs with an SRR of 0) are removed, the average SRR linear trend 
+increases from an average SRR of 11 (2009) to 16 (2015), approximately, see Figure 5.  
+25
+### SPAD numbers & Average SRRs
+20
+15
+SPAD Numbers
+10
+Average SRR
+5
+Linear (Average SRR)
+0
+Q1 2009
+Q3 2009
+Q1 2010
+Q3 2010
+Q1 2011
+Q3 2011
+Q1 2012
+Q3 2012
+Q1 2013
+Q3 2013
+Q1 2014
+Q3 2014
+Q1 2015
+### Quarterly Intervals 2009 - 2015
+### Figure 5 – SPAD numbers, average SRRs and linear average of SRR trend 
+### (excluding SRR values of 0) 
+
+## Página 36
+
+66 The trend in SRR severity is further discussed in Part 9 – SPAD Management. 
+### Category A SPAD event types 
+67 In relation to the event types (SAS/SOY SPADs, SPADs during normal/degraded train 
+operations), the percentages for the number of SPADs between January 2012 and June 2015 are 
+as follows (see Figure 6):  
+ 
+38% of SPADs are SAS SPADs occurring during normal train operations; 
+ 
+29% of SPADs are SPADs occurring during normal train operations (excluding SAS/SOY 
+SPADs); 
+ 
+16% of SPADs are SOY SPADs occurring during normal train operations; 
+ 
+11% of SPADs are SPADs occurring during degraded train operations (excluding SAS/SOY 
+SPADs); 
+ 
+4% of SPADs are SAS SPADs occurring during degraded train operations;  
+ 
+2% of SPADs are SOY SPADs occurring during degraded train operations. 
+### Figure 6 – SPADs by event type 
+
+## Página 37
+
+### Management of SPADs 
+### General description  
+68 Although, the management of SPADs, post SPAD incident, does not directly contribute to the 
+occurrences of SPADs on the IÉ network; the RAIU made significant findings in relation to the 
+management of SPADs, as part of the investigation which warrant further investigation.  
+69 As a result this part of the RAIU Report reviews the documentation, such as OPS-SMS-2.0 in 
+relation to the management of SPADs post incident. Part 8 of this report will review OPS-SMS-3.2 
+in relation to how drivers are managed directly after the incident and in the weeks and years 
+following the incident.  
+70 This part of the RAIU Report outlines the key roles, responsibilities and actions taken by 
+managerial staff in managing the SPAD incident. It includes the actions to be taken as a direct 
+response to the incident and what evidence should be taken and how the investigation should be 
+undertaken; these are outlined in OPS-SMS-2.0 and includes details on: 
+ 
+Roles, responsibilities and duties of key personnel; 
+ 
+Key principle, which is that “where a signal is passed at danger without authority or other 
+serious operational incident occurs, they must be reported, investigated and analysed to 
+establish the cause so that appropriate corrective /mitigation actions can be put in place.”; 
+ 
+SPAD Categorisation and SRR; 
+ 
+Response to SPAD incidents; 
+ 
+Requirements for relieving employees from duty; 
+ 
+Investigation and further investigation following a SPAD incident. 
+71 This part of the report will also review the proactive management for the prevention of SPADs 
+through IÉ’s near-miss reporting system for SPADs. 
+
+## Página 38
+
+### Roles, responsibilities and response to SPADs 
+72 In accordance with OPS-SMS-2.0, the RU Safety Manager is responsible for the following: 
+ 
+Maintaining a database of SPADs and multi-SPAD signals and ensure relevant managers are 
+advised of trends/relevant information on changes in risk; 
+ 
+Liaising with the external regulatory bodies, IMs and relevant managers and departments to 
+ensure SPADs are investigated; 
+ 
+Reviewing all incident reports to assess transferrable lessons and effectiveness of operational 
+safety standards, rules, procedures and competence standards for managing risk; 
+ 
+Attend IÉ IM Operational Risk and SPAD Focus Group. 
+73 In accordance with OPS-SMS-2.0, the CTE is responsible for the following: 
+ 
+Preparing, maintaining and developing of OPS-SMS-2.0; 
+ 
+Ensuring compliance with OPS-SMS-2.0 by the use of safety checks; 
+ 
+Providing support and training to DTEs on the application of OPS-SMS-2.0; 
+ 
+Communicating lessons learnt following a SPAD; 
+ 
+SRR of SPADs; 
+ 
+Monitoring the effectiveness of OPS-SMS-2.0 through incident analysis; 
+ 
+Attending IÉ IM Operational Risk and SPAD Focus Group. 
+74 In accordance with OPS-SMS-2.0, the District Manager is responsible for: 
+ 
+Carrying out a five day panel review for all SPADs or other operational incidents; 
+ 
+Determining the fitness for drivers to continue following a SPAD; 
+ 
+Investigating SPADs in accordance with the remit issued by the IM; 
+ 
+Ensuring that local SPAD and Operations Risk Focus Groups meet regularly and that actions 
+arising are closed out. 
+75 In accordance with OPS-SMS-2.0, the District Traction /Traffic Executive is responsible for: 
+ 
+Gathering the required information following a SPAD or other serious operational incident and 
+forward to their District Manager and the Operations Safety Department for analysis; 
+ 
+Interviewing relevant parties and assist with the investigation of SPADs; 
+ 
+Assisting with the signal sighting process following a SPAD; 
+ 
+Implementing additional support to employees who have been involved in incidents; 
+ 
+Attending local SPAD and IÉ’s IM’s Operational Risk and SPAD Focus Groups, as required. 
+
+## Página 39
+
+### Response to SPAD incidents 
+### General requirements 
+76 Included in this section of IÉ-RU’s OPS-SMS-2.0 are additional duties for the District Manager, 
+which include, arranging for: 
+ 
+The employee to be interviewed by a competent person; 
+ 
+The employee involved to be relieved from duty at a suitable time; 
+ 
+The employee to undergo drugs and alcohol screening at the earliest possible opportunity; 
+ 
+OTDR, CCTV and SET downloads and analysis; 
+ 
+Assessments of weather, atmospheric and railhead conditions to be taken (in the case of 
+suspected LRA SPADs), 
+ 
+The copying of any voice recordings taking at the time of the incident. 
+77 The response also includes for the examination of the rolling stock involved. 
+### Requirements for relieving employees from duty after a SPAD 
+78 Section 9.1.2 of OPS-SMS-2.0, ‘Employees to be immediately relieved from duty’ provides further 
+details on when an employee should be relieved from duty and states that employees must be 
+relieved from duty immediately at the location if it is established that any of the following 
+circumstances apply: 
+ 
+The employee may be under the influence of drugs or alcohol; 
+ 
+The employee claims to be medically unfit or suffering from fatigue; 
+ 
+The employee is shocked to an extent which could significantly impair their judgement; 
+ 
+It is apparent that the incident is very serious or it is evident there has been a significant 
+violation of the rules or regulations without due regard to the consequences. 
+79 The RAIU investigation found that in some instances drivers were allowed to carry out train 
+movements after the occurrence of a SPAD, despite occurring in locations where there was a 
+suitable driver replacement e.g. the SPAD at Millstreet Station, which was a SPAD with a high 
+severity SRR and this driver was allowed carry out a number of train movements, despite another 
+driver being available.  
+80 After the drivers involved in SPADs have moved their trains (where required), drivers are relieved 
+of driving duties. However, the RAIU investigation found that other operational staff, such as 
+signalmen and LCCOs, were not stood down. Of note is the SPAD at Gortavogher, where the 
+Signalman or LCCO were not stood down, despite their actions directly contributing to the SPAD.  
+
+## Página 40
+
+### Investigation and further action following a SPAD incident 
+### Investigation Remits  
+81 The responsibility of reporting on, issuing of remit, and finalisation of investigation reports, rests 
+with the IM, in accordance with IM-SMS-007, Reporting and Investigation of Accidents and 
+Incidents, published in March 2013; these remits may be issued from the IM to the RU. The 
+investigation into SPADs is conducted through the Five Day Review Panel Process/ OOR or 
+through the conduct of a full investigation, these will be discussed below. 
+82 SPADs are investigated in accordance with their SRR. Category A SPADs, in accordance with 
+OPS-SMS-2.0, are further ranked in the following manner for the purposes of investigation: 
+ 
+High Risk – SRR of 20 to 28 are investigated under a category A remit; 
+ 
+Medium Risk – SRR of 16 to 19 are investigated under a category B remit; 
+ 
+Low Risk – SRR of 0 to 15 are investigated under a category C remit. 
+83 Category B, C and D SPADs, which are not ranked, are investigated under a Category B or C 
+Remits, the types of incidents, that warrant investigation remit types, are as set out in Figure 7. 
+### Figure 7 – Remit categories for types of incidents and accidents. 
+
+## Página 41
+
+### Five Day Review Panel 
+84 Since 2008 all SPAD incidents, irrespective of SPAD Category or remit category, are required to 
+undergo a five day review panel process in accordance with the IM’s IM-SMS-007 and RU’s OPS-
+SMS-2.0. This review must be held within five days of the SPAD incident to consider the 
+preliminary evidence. The primary purpose of this review is to identify any immediate actions that 
+are necessary to control the risk such as changes required to the infrastructure or issues 
+associated with the employee's management. Additionally, the process must be aimed at 
+ensuring any formal/ subsequent investigation is correctly focused on areas of risk. The five day 
+review report must be provided to the RU Safety Manager summarising the findings of the five 
+day review which may form part of any of these subsequent investigations. A key output of this 
+process is that the panel gives consideration to points such as whether the employee can return 
+to their duties, and if so, any areas of additional support, monitoring and coaching that may be 
+necessary (this will be discussed in ‘Part 10 – Management of drivers post SPAD incident’).  
+### Operational Occurrence Report 
+85 In December 2013, the five day panel review process was replaced with the OOR for the 
+investigation of SPADs. According to IÉ-RU, the primary purpose of the OOR is to report on the 
+investigation from the RU perspective and specifically deal with the risks that the RU has to 
+manage and has limited scope in dealing with infrastructure or train control issues. It should be 
+noted, that although introduced in December 2013, there is no supporting standards or 
+procedures for the OOR, apart from the template itself. 
+86 In the case of more serious SPADs (SRR greater than 20) a Category A remit investigation is 
+required, whereby a full investigation is conducted. This is a more thorough investigation, and 
+carried out in accordance with Operations SMS, OPS-SMS-2.4, ‘Accident Investigation’ (which 
+will be referred to as OPS-SMS-2.4 for the remainder of this report). It should be noted, that IÉ 
+consider that the OOR has limited scope for dealing with infrastructure or train control issues and 
+as a result full investigations may be required in some SPAD incidents with SRR of less than 20. 
+87 The OOR is a template, which includes headings such as: 
+ 
+Description and location of the signal and other infrastructure (e.g. station, level crossings) 
+and rolling stock involved; 
+ 
+Environment conditions; 
+ 
+SRR; 
+ 
+Details from evidence gathered (such as OTDR and CCTV); 
+ 
+Details of the staff involved, such as medical history, training and working hours; 
+ 
+Financial implications; 
+ 
+Immediate cause, contributory factors and underlying causes which resulted in the SPAD; 
+
+## Página 42
+
+ 
+Actions taken since the SPAD; 
+ 
+Recommendations; 
+ 
+Management of the staff involved (e.g. DD&SS requirements). 
+88 It should be noted, that although IÉ have been using this template since 2013, it appears to 
+remain in draft format and it is not referred to in any of the standards outlined above (i.e. RU-
+SMS-007, IM-SMS-007, OPS-SMS-2.0, OPS-SMS-2.4). 
+### SPAD Reports of Investigation 
+89 Where a full investigation of a SPAD is to be conducted, OPS-SMS-2.4 sets out the 
+responsibilities in terms of the investigation and outlines how the investigation should be 
+conducted. It also outlines how the findings are presented to the RU Safety Review Group for 
+consideration and adoption of recommendations; and that the recommendations will be monitored 
+by the RU’s Safety Compliance Manager.  
+90 OPS-SMS-2.4 states that the person in charge of the investigation is referred to as the 
+Investigating Manager. The SPAD Investigation Report must establish the full facts, determine the 
+immediate cause, contributory factors, underlying cause(s) and root causes; and address any 
+specific issues identified in the remit. The Investigating Manager must arrange for: 
+ 
+Written reports and interviews from personnel involved in the SPAD to be obtained; 
+ 
+Site visits, photographic evidence (including CCTV footage) and signal sighting reports; 
+ 
+The downloading of OTDRs, SET equipment and voice communications; 
+ 
+The SPAD data collection form to be completed. 
+### RAIU Review 
+91 As part of this investigation, the RAIU reviewed Five Day Review Panel investigation, OORs and 
+Reports of Investigation. These will be discussed further in ‘Part 9 – SPAD Management’ of this 
+report. 
+### Driver Development and Support System 
+92 Part of the requirements for a driver to be returned to driving duties after a SPAD is to develop, in 
+conjunction with the District Manager, a Driver Development & Support System (DD&SS) which is 
+set out in OPS-SMS-3.2. The DD&SS process will be discussed further in ‘Part 10 – Management 
+of Drivers Post SPAD Incident’ of this report. 
+
+## Página 43
+
+### PART 4 – Driver Training, CMS and DD&SS 
+### Introduction 
+93 Driver training and the Competency Management System (CMS) are a factor in the majority of 
+SPAD incidents. For clarity, this report gives a detailed account of the training for drivers and the 
+CMS in IÉ with a particular focus on EPTs. Where particular deficiencies were identified by the 
+RAIU during the individual investigation into the SPAD incident, these deficiencies are discussed 
+in the evidence sections of the relevant SPAD. 
+94 Firstly, this part of the report outlines the RU operations SMS documents, which are management 
+level documents, which set out the roles and responsibilities of management staff in terms of 
+driving activities and key criteria in terms of requirements for training and assessment, these 
+documents are identified with the reference OPS-SMS and include: 
+OPS-SMS-3.0, ‘Driver Training’, Version 2.01 published 25th March 2013; 
+ 
+OPS-SMS-3.1, ‘Competence Management Drivers’, Issue 1, published 25th March 2013; 
+ 
+OPS-SMS-3.3, ‘Route Knowledge Drivers’, Issue 1, published 25th March 2013; 
+ 
+OPS-SMS-3.5, ‘Safety Briefing Train Drivers’, Issue 1, published 25th March 2013. 
+ 
+95 It should be noted, that since the commencement of the RAIU investigation, IÉ introduced a 
+programme for the assessment of drivers in the use of EPTs in early 2015. This programme of 
+assessment should have resulted in all the drivers on the IÉ network being subject to the new 
+assessment programme by mid-2015 as it operates on a six-month cycle. This in turn would 
+mean that not all /limited number of drivers involved in the SPADs from 2012 – 2015 (end of 
+June) would have been subject to this new assessment process. As a result, this new CMS will be 
+discussed in Part 13 – Relevant actions taken or in progress.  
+96 Also included in the RU operations SMS suite of documents is OPS-SMS-3.2, ‘Driver 
+Development & Support’, published 25th March 2015. This document outlines the development 
+and support systems for drivers involved in incidents and to monitor the performance of these 
+drivers for the prevention of future incidents. 
+97 In terms of the day-to-day documents for used by driver, in terms of technical skills and non-
+technical skills, the following documents are to be used by drivers: 
+ 
+IÉ-Rule Book; 
+ 
+The ‘Professional Driving Handbook’, Issue 3, issued April 2010; 
+ 
+‘Train Driving Competence Standards’, Issue 1, issued April 2010. 
+
+## Página 44
+
+98 As mentioned previously BBRI OTMDOs are trained in the IÉ training school, however, OTMDOs 
+competency management is managed by BBRI, discussed in paragraph 157. 
+### RU Operations Safety Management System Documents 
+### Driver Training 
+### General description 
+99 The IÉ-RU Operations driver training SMS, OPS-SMS-3.0, includes details on: 
+ 
+Roles and responsibilities of those involved in the training; 
+ 
+Preparation for initial training; 
+ 
+Core principles for driver training; 
+ 
+Delivery of training by the training centre; 
+ 
+Delivery of practical train handling and route driving. 
+### Roles and responsibilities 
+100 Section 5 of OPS-SMS-3.0 sets out the roles and responsibilities for staff, such as the: 
+ 
+CTE – Responsible for the preparation, maintenance and development of the SMS 
+documentation; development and issuing of competence standards and associated 
+examination criteria for training material; ensuring, by safety checks that the standard is being 
+complied with; monitoring the effectiveness of the SMS documentation through incident 
+analysis; 
+ 
+District Manager (DM) – Who is responsible for the selection of candidates, allocation of 
+DTEs and verifying initial certificates of competence. 
+### Preparation for initial training 
+101 Section 6, ‘Preparation for initial training’, of OPS-SMS-3.0 requires DMs to ensure that applicants 
+for the position of trainee driver have met the medical requirements and that their psychometric 
+test shows they have reached an acceptable level before any training is undertaken. Individuals 
+failing to reach an acceptable level on the psychometric test must not be permitted to go forward 
+for driver training. The results of selection assessments must be recorded in the training portfolio 
+to allow those involved in driver training/examination to develop/monitor the trainee’s performance 
+against assessment results. 
+
+## Página 45
+
+### Core principles for driver training 
+102 Section 7, ‘Core principles for driver training’, of OPS-SMS-3.0 requires that all applicants to the 
+role of trainee driver must undergo an approved IÉ-RU driver training programme to ensure 
+competence is achieved and the risk of driver inexperience is minimised. In summary, the training 
+equates to twenty-six weeks for the training of DART drivers and thirty-two weeks for the training 
+of DMU drivers (the reduced time for DART programme reflects the fitment of ATP and reduced 
+route mileage).  
+103 The training programme, is set out in detail in an appendix to OPS-SMS-3.0 and includes: 
+ 
+Core induction/foundation training prior to developing skills and knowledge for normal 
+operation, degraded and emergency working; 
+ 
+Specific training according to the core traction type e.g. DART or DMU; 
+ 
+Simulation to allow the trainee to practice degraded and emergency working, plus decision 
+making skills; 
+ 
+Specific training in human factors training, SPAD and operational risk, risk avoidance and 
+error management techniques; 
+ 
+Practical train handling experience under the instruction of a lead driver or other competent 
+person to ensure the trainee develops train handling skills and core route knowledge. 
+### Delivery of training by the training centre 
+104 Section 8, ‘Delivery of training by the training centre’ of OPS-SMS-3.0 outlines the requirements 
+of the training centre in terms of operating safely and requirements for recording the trainee’s 
+progress. 
+### Delivery of practical train handling and route driving 
+105 Section 9, ‘Delivery of practical train handling and route driving’ of OPS-SMS-3.0 requires the DM 
+to deliver sufficient practical train handling and route driving modules, such as rostering with lead 
+drivers/competent persons for the development of route knowledge; as well as ensuring the 
+minimum level of practical train handling and route driving experience for a trainee driver is met 
+(i.e. 150 hours in not less than 8 weeks for the operation of DART and 250 hours in not less than 
+14 weeks for DMU training, including 40 hours in darkness for DMU training and 25 hours for 
+DART). The trainee driver will be assessed at least twice by the DTE during this training period. 
+
+## Página 46
+
+### Competence Management for Drivers 
+### General description 
+106 The competence management for drivers operations SMS, OPS-SMS-3.1, is the management 
+level standard which sets out the requirements for the competence management system for 
+drivers. Section 7, ‘Overview’, of OPS-SMS-3.1 sets out the CMS for driver in four stages: 
+ 
+Stage 1 – Initial assessment of competence; 
+ 
+Stage 2 – Post Qualification Assessment (PQA); 
+ 
+Stage 3 – Continuous assessment and monitoring of competence of driver performance; 
+ 
+Stage 4 – Performance monitoring of competence and fitness. 
+107 Section 7.2 states that all assessments undertaken to establish the competence of drivers must 
+be monitored against the relevant standards, policies and manuals and should include “monitoring 
+the attention levels and actions of drivers when running under cautionary aspects, during train 
+despatch, and on any other occasions where low levels of attention have the potential to increase 
+risk”. 
+### Initial assessment of competence and training (Stage 1) 
+108 Section 8.1, OPS-SMS-3.1, ‘Initial Assessment’ requires an initial assessment of competence by 
+the DTE to judge whether the candidate has crossed the dividing line between trainee and newly 
+qualified (though not yet experienced) train driver. In order to qualify as a train driver, the trainee 
+must be assessed on all the performance criteria and underpinning knowledge requirements, 
+relevant to the work the trainee will be required to perform when qualified as a driver.  
+109 This initial assessment is generally carried out over 5 days, and must: 
+ 
+Be carried out over the route(s) which the trainee is conversant; 
+ 
+Consist of a minimum of 9 hours; 
+ 
+Consist of stopping, non-stopping trains and empty coaching stock trains; 
+ 
+Include train preparation and disposal, coupling and uncoupling, relevant shunting moves; 
+ 
+Verify that the trainee has the required decision making skills, knowledge of rule and 
+regulations, procedural knowledge, emergency procedures and safety critical communication 
+requirements; 
+ 
+Include confirmation that professional driving principles are clearly understood and 
+demonstrated e.g. by use of commentary driving; 
+ 
+Include monitoring of the trainee’s attention and alertness levels, particularly whilst running 
+under cautionary aspects. 
+
+## Página 47
+
+110 If the trainee driver is deemed competent by the DTE, the CTE, the responsible manager, the 
+Passenger Manager and the Director RU, the trainee driver becomes a PQA Driver. 
+### Post Qualification Assessment (Stage 2) 
+111 The objectives of PQAs are to ensure the compliance with the standards delivered during training 
+and ensure the newly qualified driver gains additional confidence and experience in train driving 
+duties. Newly qualified drivers must complete a minimum of a two-year post-training period, to the 
+required standard before issue of a first full Certificate of Competence. PQAs are summarised as 
+follows: 
+ 
+4 planned personal contacts; 
+ 
+8 Formal Driving Assessments (FDA); 
+ 
+1 OTDR downloads or instances of unannounced monitoring; 
+ 
+4 Safety Critical Communication assessments;  
+ 
+2 Summary Assessments (SUM); 
+ 
+4 Safety Briefing and Update Days (SBUDs). 
+### Continuous Assessment and Monitoring (Stage 3) 
+112 The objective of the continuous assessment process is to ensure that drivers remain competent to 
+drive trains at all times. Special emphasis must be placed on: 
+ 
+Practical handling skills, including professional driving techniques; 
+ 
+Communications skills and procedures; 
+ 
+Emergency procedures; 
+ 
+Essential knowledge underpinning competent performance; 
+ 
+Human factors as they pertain to the drivers role; 
+ 
+Route knowledge; 
+ 
+Application of the rules to practical situations, including all abnormal driving situations 
+permitted by the rules; 
+ 
+Any unique knowledge or skills to the traction or routes being assessed regardless of the 
+experience of the driver concerned. 
+
+## Página 48
+
+113 Continuous Assessments are summarised as follows, and must be completed within the 
+timescales, where this is not achieved, the driver is removed from duty: 
+ 
+4 FDAs; 
+ 
+2 OTDR Downloads; 
+ 
+4 Safety Critical Communication assessment;  
+ 
+1 Interim review (INT); 
+ 
+1 SUM; 
+ 
+4 SBUDs.  
+### Performance monitoring of competence and fitness (Stage 4) 
+114 The competence management system is designed to ensure proactive monitoring is fully 
+integrated into the ongoing assessment process of driver’s competence. As part of this process 
+checks must be carried out on a number of areas, ranging from fitness to work and uniform 
+requirements to train despatch requirements and excess speed checks. The monitoring 
+techniques also vary from observation in the driving cab to simulation of degraded conditions and 
+emergency situations. 
+### Route Knowledge for Drivers 
+### General description 
+115 IÉ-RU sets out the requirements for driver route knowledge in operations SMS, OPS-SMS-3.3. 
+This document details the arrangements for the training, assessment and retention of route 
+knowledge for train drivers. It includes requirements in relation to: 
+ 
+Route Characteristics and Route Risk; 
+ 
+Initial Training of Trainee Drivers; 
+ 
+Route Learning; 
+ 
+Competence Assessment of Route Knowledge; 
+ 
+Route Retention and Refreshing. 
+### Route Characteristics and Route Risk 
+116 All routes must be assessed to establish the route characteristics and the route risks against the 
+criteria outlined in Appendix A and B of OPS-SMS-3.3. The assessment shall be carried out by a 
+DTE and submitted to the Chief DTE for review; this assessment is carried out against the criteria 
+outlines in Table 1 of OPS-SMS-3.3, see Figure 8. 
+
+## Página 49
+
+### Figure 8 – Route risk criteria 
+### Initial Training of Trainee Drivers 
+117 All trainees undertaking basic driver training must receive training and be assessed in the 
+principles of route learning. This will provide the trainee with the necessary competence to: 
+ 
+Identify and understand the route risks and characteristics; 
+ 
+Interpret information for route knowledge such as signalling maps, track layout diagrams, 
+gradient charts, SPAD awareness information; 
+ 
+Interpret and if necessary draw a comprehensive map of a designated route showing signals, 
+permanent speed restrictions, stations, landmarks and lineside features relevant to a driver.  
+118 A ‘core route’ must be determined for the newly qualified driver where they must undertake a 
+minimum of 20 days driving over their core route, which will enable them to practice their newly 
+acquired skills before undertaking any further route learning. After twenty days the driver can now 
+commence learning additional routes whilst continuing to drive trains over the routes where he is 
+judged currently competent. A frequency at which the newly qualified Driver will be programmed 
+to drive trains will be calculated using a risk based route knowledge retention ratio with additional 
+factors built in to enable driving experience retention.  
+### Route Learning 
+119 Drivers must be provided with an information pack and briefed on the relevant information on 
+route characteristics and route risks as identified in paragraph 116. There are a variety of route 
+learning 
+methods, 
+such 
+as 
+group 
+learning, 
+on 
+the 
+route 
+learning 
+train, 
+accompanied/unaccompanied learning and interactive learning. The DTE and supervisors must 
+monitor all drivers undertaking route learning and to establish any deficiencies which may require 
+additional coaching and support; and record all findings. 
+
+## Página 50
+
+### Competence Assessment of Route Knowledge 
+120 There are two stages involved in the competence assessment in terms of route knowledge, these 
+include both initial and ongoing assessment of route competence. Prior to certifying a driver for a 
+route for the first time, in the initial assessment, the person's route competency must be assessed 
+by a practical assessment supported by a test of underpinning knowledge against a set of pre-
+defined questions, set by the DTE. The questions should include, for example, reasons why a 
+particular signal presents a risk and the action to take to prevent an incident occurring. During the 
+course of an assessment, if practicable, the driver must provide a running commentary of route 
+characteristics and route risks. The assessment should be documented as set out in OPS-SMS-
+3.1 and OPS-SMS-3.3. 
+121 In terms of ongoing assessment, drivers are not assessed over every route. A risk based 
+approach is adopted and formal rides and assessment of underpinning knowledge must be 
+carried out over routes where: 
+ 
+The driver may have experienced difficulty; 
+ 
+There have been significant changes to signalling / layout; 
+ 
+There have been a number of incidents over the route where route knowledge has been a 
+factor. 
+### Route Retention and Refreshing 
+122 A Driver must work over a route in both directions, as a minimum, once in every six months. More 
+restrictive criteria will be mandated for routes with a great degree of complexity or those with a 
+high risk rating. The preferred means of retaining route knowledge is to work regularly over the 
+route in the course of normal turns of duty evenly spread through the links that contain the work. If 
+this is not practicable, other methods must be used to ensure that the criteria for retention are 
+met. This may consist of travelling over the route in the driving cab, use of videos, slides / 
+simulators etc. Supervisors whose duties involve rostering drivers must ensure that a person who 
+has not operated over a route within the specified period within the minimum frequency contained 
+in the route risk assessment or has requested a route refresher does not work over the route 
+without a route refresher being provided. Drivers must also be made aware of their individual 
+responsibilities at Safety Briefings to ensure they do not operate over a route unless competent. 
+
+## Página 51
+
+### Safety Briefing for Drivers 
+### General description 
+123 Operations SMS, OPS-SMS-3.5, ‘Safety Briefing Train Drivers’, Issue 1 was issued on the 25th 
+March 2013. It defines the timescales, content and methods for delivering the SBUDs for train 
+drivers. OPS-SMS-3.1 requires that each driver attends 4 SBUDs every 2 years. SBUDs contain 
+a mixture of classroom and working environment activities; and are structured into four distinct 
+sections: 
+ 
+Company specific issues; 
+ 
+Regional or Local Depot / Route issues; 
+ 
+Rules refreshing and update; 
+ 
+Assessment to measure understanding. 
+124 Section 11.1 provides a table on how the core items should be covered during each safety cycle 
+(4 SBUDs), see Figure 9. 
+### Figure 9 – SBUD core structure 
+
+## Página 52
+
+### Driver Development and Support System 
+### General description 
+125 Part of the requirements for a driver to be returned to driving duties after a SPAD is to develop, in 
+conjunction with the District Manager, a Driver Development & Support System (DD&SS) which is 
+set out in OPS-SMS-3.2. 
+### Purpose of Driver Development and Support System 
+126 OPS-SMS-3.2 is designed to: 
+ 
+Proactively identify individuals who may be more likely to be involved in future safety 
+incidents, either from past safety performance or by identifying human factors issues prior to 
+an incident occurring; 
+ 
+Provide a system that presents drivers with advice, support and development to improve and 
+develop an individual’s competence and fitness; 
+ 
+Provide a system to monitor performance of individuals; 
+ 
+Provide ‘on call’ managers with the necessary information on individual drivers post incident 
+so that an informed decision can be made on whether the driver must be relieved immediately 
+or allowed to continue with normal duties. 
+### Driver Profiles 
+127 As part of this process, a profile is determined for each individual against the performance 
+indicators outlined in OPS-SMS-3.2. Drivers in the Category A to D profiles require controls in the 
+form of development plans to mitigate against specific identified risks (with Category A requiring 
+the most support), see Figure 10. Unclassified drivers, who do not need additional support, are 
+referred to as Unclassified Drivers. 
+### Figure 10 – Driver profiles 
+
+## Página 53
+
+128 Drivers with less than two years driving experience are already subject to higher levels of 
+additional monitoring through the competence management system; and as a result if such a 
+driver is involved in a SPAD, the DTE/ District Manager would have to determine whether there is 
+a need to place the driver into a higher category than normal to further increase and extend the 
+level of support and monitoring. For example: a newly qualified driver involved in a SPAD must 
+not be automatically placed on a 4 year Category A DD&SS if there is sufficient evidence to 
+indicate the risk can be controlled within the normal Category B plan (for two year). 
+### Incident requiring change of Driver Profile 
+129 The drivers are placed in certain categories dependent on the type of safety critical operational 
+occurrence as set out in the appendix of OPS-SMS-3.2, see Figure 11. From the appendix, the 
+first instance of a SPAD require a driver to be placed in Category B, the second instance of a 
+SPAD requires a driver to be categorised as a Category A driver, requiring the most additional 
+support; or in the case of a serious SPAD the driver maybe placed in the Category A profile. 
+### Figure 11 – Minimum number of additional assessments based on Driver Category 
+
+## Página 54
+
+### Minimum number of additional assessments 
+130 The minimum number of additional assessments required of drivers in Categories A to D is set 
+out in Section 7 of OPS-SMS-3.2, whereby Category A drivers require a minimum of four 
+additional assessments and Category U drivers require no additional assessments, see Figure 
+12. 
+### Figure 12 – Minimum number of additional assessments based on Driver Category 
+### Driver Development & Support System Document 
+131 OPS-SMS-3.2 states that “A key objective of OPS-SMS-3.2 is to develop and support the driver 
+allowing a reduction in the control measures applied and removal of the driver from the Driver 
+Development and Support System (DD&SS). Development plans must therefore be specific and 
+relate to an individual’s shortfalls, with the objective of improving safety performance. The level of 
+additional support and monitoring must also be in relation to the category /profile of the driver”. 
+132 A DD&SS must be initiated where a driver is found fully or partially responsible for the occurrence 
+of a safety critical incident. Only one DD&SS is initiated per incident, although more than one 
+immediate or underlying cause may be addressed by the plan. If a subsequent incident occurs 
+prior to the expiry date of the DD&SS, if necessary, allocation of a revised category / profile for 
+the driver must be agreed between the DM and DTE and a new development plan created. The 
+template for the DD&SS is provided in Appendix C of OPS-SMS-3.2, see Figure 13. 
+
+## Página 55
+
+
+
+## Página 56
+
+### Figure 13 – Example of a development plan 
+
+## Página 57
+
+### Suite of driving documents for use by drivers 
+### Introduction 
+133 As mentioned at the introduction of this part of the report, the operations SMS suite of documents 
+are management level documents for the management of driver training and competency 
+management, and although available to the drivers for perusal, are not the day-to-day documents 
+accessed by drivers.  
+134 The documents available for drivers, for their day-to-day driving activities, include the: 
+ 
+IÉ-Rule Book; 
+ 
+The ‘Professional Driving Handbook’; 
+ 
+‘Train Driving Competence Standards’. 
+135 The above documents set out the requirements for drivers and the standards under which they 
+are required to operate. This section of the report focuses on the technical driving skills (e.g. the 
+15 x 20 Rule) and the non-technical skills (e.g. EPTs) sometimes associated with the occurrence 
+of SPADs. As a result, this part focuses on the Professional Driving Handbook and the Train 
+Driving Competence Standard; the Rule Book was addressed in Part 2 in terms of the observance 
+of signals (paragraph 27) and will be addressed in the relevant investigations, as required. 
+### Professional Driving Handbook 
+### General introduction 
+136 This section of the report sets out some of the professional driving techniques set out in IÉ’s 
+Professional Driving Handbook. The Professional Driving Handbook is set out in three sections: 
+ 
+Section 1: Professional Driving Policy – which sets out key principles in relation to driving, 
+including principles such as reducing the risk of error; 
+ 
+Section 2: Guidance and Supporting Information – which includes topics such as human 
+factors, errors and violations, hazards and causes of accidents and techniques to reduce the 
+risk of error; 
+ 
+Section 3: General Operating Instructions – which includes topics such as DRA and TPWS for 
+trains operating into Northern Ireland. 
+137 Section 1 of the Professional Driver Policy is mandatory, Section 2 provides guidance and Section 
+3 provides additional information, see Figure 14. 
+
+## Página 58
+
+### Figure 14 – Introduction to the Professional Driving Policy 
+### Section 1: Professional Driving Policy 
+### Introduction 
+Section 1 contains seven “key principles”, namely: 
+ 
+Key Principle 1 – Always have the right attitude and act professionally at all times; 
+ 
+Key Principle 2 – Prepare yourself by taking personal responsibility for managing lifestyle, fatigue 
+and external problems; 
+ 
+Key Principle 3 – Maintaining a professional working environment and controlling distractions; 
+ 
+Key Principle 4 – Being fully aware of hazards within the driving environment and the actions and 
+techniques that can be used to minimise the risk of error; 
+ 
+Key Principle 5 – Applying defensive driving and safe working techniques consistently in all 
+situations; 
+ 
+Key Principle 6 – Apply effective communication protocol at all times; 
+ 
+Key Principle 7 – Remember: ‘If you can’t do it safely – don’t do it at all’. 
+
+## Página 59
+
+### Stopping at red signals 
+138 Included in Key Principle 5 of Section 1 of Professional Driving Policy is relation to IÉ’s adopted 
+the “15 x 20 Rule” which must be used on the final approach to a signal at danger. The 
+Professional Driving Handbook sets out the principle of this rule which is that the driver should 
+aim to be driving at no more than 15 mph (24 km/h) at the CAWS downgrade and where 
+applicable, stop 20 m from the signal. The Professional Driving Handbook illustrates by showing 
+poor and good braking technique, see Figure 15. 
+### Figure 15 – 15 x 20 Rule, poor and good braking technique 
+### Section 2: Professional Driving Policy 
+### General description 
+139 Section 2, sets out the error prevention techniques (EPTs). EPTs is a term used by IÉ in relation 
+to techniques to be used by drivers to manage distraction, refocus their attention and become 
+aware of their surroundings and situation. IÉ outline a number of different techniques, such as risk 
+triggered commentary (RTC). 
+### Managing distraction & refocusing 
+140 Section 2, Techniques to reduce the risk of error includes a section on “managing distraction & 
+refocusing”. The document acknowledges that on a journey, a driver will “encounter many 
+potential distractions at stations or on the move” which may consist of “passengers, staff, other 
+trains/drivers, encountering speed restrictions in relation to signals, etc”. 
+
+## Página 60
+
+141 The document continues “if you become distracted and need to bring your attention back to the 
+core task, or if you have been running on mental autopilot for a period, and want to come back 
+into a state of conscious control, there are some simple strategies which can be used to ‘refocus’ 
+thoughts on the task in hand”.  
+142 It provides a list of questions that the driver can ask themselves: 
+ 
+What colour was the last signal? 
+ 
+Where precisely am I on the route? 
+ 
+Where is the next signal? 
+ 
+When should I be reducing speed? 
+ 
+Am I travelling at an appropriate speed regarding speed restrictions and external conditions? 
+143 The document also provides a list of instructions on what to do “if you find yourself distracted by a 
+thought or an event”, stating: 
+ 
+Tell yourself to focus on driving; 
+ 
+To help ‘clear your head’, talk aloud, commentate on what you are seeing, thinking and 
+anticipating as this can help re-focus; 
+ 
+Tell yourself to ‘park the thought’ until the end of the journey; 
+ 
+Decide to tell someone later on – having a plan is important. 
+
+## Página 61
+
+### Situational awareness 
+144 Section 2, Techniques to reduce the risk of error includes a section on ‘Situational Awareness3. IÉ 
+state that situational awareness is a key human factor in the train driving task and comprises of: 
+ 
+Perception (noticing) of the elements/hazards in the driving environment; 
+ 
+The comprehension of their meaning taking into account rules, traction, route knowledge, 
+professional driving techniques; 
+ 
+The projection of their status in the near future (anticipating future events). 
+145 In simpler terms IÉ state that situational awareness is “knowing what is going on around you and 
+minimising the risk of error” and that “having a high level of situational awareness can turn a good 
+driver into a great driver”. 
+146 According to the Professional Driving Handbook, drivers can remain alert to their surroundings by: 
+ 
+Switching attention – by switching attention between the route ahead and checking in cab 
+indications; 
+ 
+Information filtrations – by disregarding the irrelevant and paying attention to the relevant; 
+ 
+Attention distribution – by allocating your attention to all the relevant information to avoid 
+focusing too much or too little on any one task; 
+ 
+Task fixation – by not focusing entirely on a single task. 
+3 Situation awareness is the perception of elements in the environment, within a volume of time and 
+space, the comprehension of their meaning, and the projection of their status in the near future 
+(Endsley, 1995). There are three defines three levels of situation awareness: 
+ 
+Perception – Operators perceive the important information. This means first, that the needed 
+information is available and second, that attention is directed to its important pieces. Without 
+attention to the right information, operators have no chance to understand and control a system; 
+ 
+Comprehension – This level describes ability to understand the perceived information. It is the 
+process of interpreting information towards one’s goals and to remember relevant parts of 
+information; 
+ 
+Projection – If the important information is perceived and comprehended, it is possible to 
+understand the dynamics of a system. This will allow projecting future states and supports 
+decision –making in order to influence and control the state of the system (Endsley, 2000). 
+
+## Página 62
+
+147 The Professional Driving Handbook states that’s these techniques must be applied at all times 
+when driving, higher levels of situational awareness should be applied when: 
+ 
+Approaching a major terminal and complex signalling layouts under cautionary signals where 
+other trains are running on parallel lines; 
+ 
+Approaching junction where the risk of error could be significant, being especially alert and 
+effectively managing internal and external distractions; 
+ 
+Dealing with changes in speed restrictions at the same time as running under cautionary 
+signals. 
+### Risk Triggered Commentary (RTC) 
+148 The Professional Driving Handbook defines RTC for drivers as a “technique used to help you stay 
+focused when you are carrying out a movement or a task that carries a high level of risk. It uses 
+the process of verbal commentary and repeating back the risk and action to take, and is aimed at 
+ensuring that essential information remains in your working memory”. Drivers can use RTC to 
+increase awareness of risk, improve concentration levels and manage potential distractions.  
+149 The Professional Driving Handbook states that “very little information is retained in the short term 
+memory beyond a time of between “8 to 18 seconds. Using this information, IÉ provide an 
+example of when and how to use RTC on receiving a caution or preliminary caution aspect, this is 
+set out as follows: 
+ 
+Call out the aspect i.e. “Two yellows or Single Yellow – Target Red at XYZ Location”; 
+ 
+Repeat this every 8 to 18 seconds until the red aspect comes into view or aspects are 
+stepped-up; 
+ 
+Call out the red aspect as soon as it comes into view. If it steps up, start the process again; 
+ 
+RED AHEAD, keep RED AHEAD as a priority in your short term memory. 
+150 The Professional Driving Handbook also gives examples where RTC should be used, which 
+include when starting a train to prevent a SAS or SOY SPAD; and on approach to cautionary/red 
+signals.  
+
+## Página 63
+
+### Train Driving Competence Standards 
+151 The above Operations SMS documents were set out for the management of the train and 
+competency management of drivers. Supporting the above, for the use of drivers, in conjunction 
+with the IÉ Rule Book and the IÉ Professional Driving Policy, is the ‘Train Driving Competence 
+Standards’, Issue 1, issued in April 2010 (which will be referred to as the Competence Standards 
+for the remainder of the report). The Competence Standards set out what is expected of IÉ train 
+drivers to demonstrate their training and competence.  
+152 The Competence Standards focuses on the key activities and tasks that train drivers undertake as 
+part of their role, including the specific risks associated with the operation of IÉ services. They 
+also provide a benchmark against which current abilities, skills and knowledge can be measured. 
+It aims to provide the foundation by which DTEs assess driver competence, it also provides a 
+useful reference guide to train drivers on the standards expected of them. Such standards define 
+what drivers are expected to: 
+ 
+Demonstrate – through driver’s actions prove practical competence in relation to the activity; 
+ 
+Explain – through driver’s ability to link theory to practice verifying understanding as part of 
+underpinning knowledge.  
+153 In relation to demonstrations and explanation in relation to ‘Mobilise and start trains’, the 
+Competence Standards sets out a number of requirements of assessment, see Figure 16. For 
+example, the driver must demonstrate the following: 
+ 
+Demonstrate – Confirming the signal is showing a proceed aspect and correct route indication 
+prior to starting; 
+ 
+Demonstrate – Ensuring extra vigilance when starting on a cautionary aspect or position light 
+signals; 
+ 
+Explain – Locations and signals with SAS and SOY SPAD potential and appropriate driver 
+action. 
+
+## Página 64
+
+### Figure 16 – Competence Standards ‘Mobilise and start trains’ 
+
+## Página 65
+
+154 In relation to demonstrations and explanation for drivers in relation to ‘Stop trains at signals’, the 
+Competence Standards include a number of assessment requirements, see Figure 17. 
+### Figure 17 – Competence Standard ‘Stop trains at Signals’ 
+
+## Página 66
+
+155 Of relevance, drivers must be assessed demonstrating and explaining the following: 
+ 
+Demonstrate – Actively responding to first cautionary signal; 
+ 
+Demonstrate – Cautiously approaching any signal, which is not normally stopped at; 
+ 
+Demonstrate – Actively responding to the single yellow and ‘Target Fixing’ the location of the 
+stop signal; 
+ 
+Explain – Signals that have an increased risk of SPADs explain the circumstances and action 
+to be taken to mitigate risk; 
+ 
+Explain – The train driving policy for stopping at signals; 
+ 
+Explain – Possible different signalling sequence of cautionary signals at locations applicable 
+to the driver.  
+156 Target fixing requires the driver to fix in their minds the required stopping point/location and then 
+making constant assessment with regard to train speed, distance to travel to the stopping point 
+and current braking capability and performance of the train. 
+### Competency Management of BBRI OTMDOs 
+157 As mentioned previously BBRI OTMDOs are trained in the IÉ training school, as set out above. In 
+relation to BBRI’s SMS and OTMDO CMS, BBRI have designed and developed thirty-eight ‘Route 
+Knowledge Packs’; included in these packs are the SPAD notices which are received from IÉ 
+after every SPAD occurrence, which are added to each route pack and emailed out to every 
+driver. BBRI carries out OTMDOs assessments and Rule Book refresher training every two years, 
+which includes a SPAD awareness course; it also carries out a Professional Drivers refresher 
+course which covers the following areas: 
+ 
+Key principles of being a professional driver; 
+ 
+Typical errors & factors which can lead to incidents; 
+ 
+Techniques to reduce the likelihood or error; 
+ 
+Maintaining a professional work environment; 
+ 
+Driving cab protocol; 
+ 
+Defensive driving techniques; 
+ 
+Avoiding SPADs training; 
+ 
+Route knowledge; 
+ 
+Communications; 
+ 
+Mobile telephone use; 
+ 
+Fatigue management; 
+ 
+Managing distraction and refocusing training; 
+ 
+Situational awareness training. 
+
+## Página 67
+
+# Section 2 
+###    Part 5 – SPAD at Millstreet on the 8th December 2013 
+###    Part 6 – SPAD at Gortavogher on the 19th December 2013 
+###    Part 7 – SAS SPAD at Muine Bheag on the 9th April 2013 
+
+## Página 68
+
+### PART 5 – SPAD at Millstreet, Cork, on the 8th December 2013 
+### Introduction 
+158 This part of the report will investigate the SPAD at Millstreet on the 8th December 2013. Category 
+A SPAD events similar to the SPAD at Millstreet, such as SPADs under normal train operations, 
+will be discussed in ‘Part 8 – A Review of All Category A SPADs (January 2012 – June 2015)’ of 
+this report. This part will outline the evidence found as part of the investigation, the analysis of this 
+evidence, and the conclusions found as part of the investigation. Any additional observations 
+made as part of this investigation will be outlined in ‘Part 11 – Additional Observations’. Actions 
+taken, by IÉ, as a result of the SPAD at Millstreet and similar SPADs will be outlined in ‘Part 13 – 
+Relevant Actions Taken or In Progress’. RAIU safety recommendations, related to this incident 
+and similar occurrences; or related to additional observations, are made in ‘Part 14 – Safety 
+Recommendations’ of this report. 
+### The incident 
+### Summary of the incident 
+159 At approximately 13:12 hrs on Sunday 8th December 2013, the 11:50 hrs Tralee to Heuston 
+passenger service (Train A303), departed Killarney Station eighteen minutes late following delays 
+at both Killarney and the previous stop at Farranfore Station, see Figure 18 for scheduled route of 
+Train A303 (red line, Figure 18). The line between Killarney Junction and Mallow is single line with 
+crossing loops. 
+160 As a result of the delay and in an effort to minimise delays to the 12:10 hrs Cork to Tralee 
+passenger service (Train A304) travelling in the opposite direction (blue line, Figure 18), the CTC 
+Signalman and the Traffic Regulator switched the crossing point from Banteer Station (the normal 
+crossing point) to Millstreet Station, see Figure 18 for crossing points. 
+161 It was expected (by the Traffic Regulator and the CTC Signalman) that Train A304 would arrive at 
+Millstreet Station first. As there is only one platform at Millstreet Station, Train A304 would arrive 
+at Millstreet Station Platform, disembark passengers and then carry out a signalled shunt 
+movement into the adjoining crossing loop and wait there until Train A303 arrived at Millstreet 
+Station Platform.  
+162 To facilitate this movement, Signal TL223 would display a red aspect, holding Train A303 outside 
+the station until Train A304’s manoeuvre was completed. 
+
+## Página 69
+
+Tralee 
+Trale
+Heuston 
+Farranfore 
+Farranfor
+Mallow 
+Mallo
+Banteer 
+Bantee
+Millstreet 
+Millstree
+Killarney 
+Killarne
+Rathmore 
+Rathmor
+### Train A304 
+### Train A303 
+Cork 
+Figure 18 – Location of the incident and scheduled routes of Train A303 and Train A304 
+163 However, Train A304 did not arrive at Millstreet Station first (as expected by the Traffic Regulator 
+and CTC Signalman). Instead, both Train A303 and Train A304 approached Millstreet Station at 
+the same time. As Train A304 had not yet carried out its manoeuvre, it was signalled into 
+Millstreet Station Platform and continued towards Millstreet Station Platform. This meant that, 
+Signal TL223 was displaying a red aspect to hold Train A303 outside Millstreet Station. However, 
+Train A303 did not stop at Signal TL223 and passed it at danger without authority and continued 
+towards Millstreet Station Platform.  
+164 The critical alarm for Millstreet interlocking was activated when Train A303 occupied the track 
+circuit ahead of Signal TL223. The CTC Signalman immediately responded to the alarm by 
+making a general call to stop trains through the train radio system.  
+165 The drivers of Train A303 and Train A304 both responded with brake applications with the trains 
+coming to a stop 175m apart, facing one another, on Millstreet Station Platform. Train A303 had 
+passed Signal TL223 by 384m and was 56m along the length of Millstreet Station Platform, see 
+Figure 19. 
+
+## Página 70
+
+Train A304  
+Train A303  
+### Figure 19 – Train A303 & Train A304 stopped 175 m apart on Millstreet Station 
+### Platform after the SPAD 
+### General description of the railway 
+### Infrastructure 
+166 The line between Killarney Junction and Mallow, is single track which is worked bi-directionally 
+with crossing loops, there are additional platforms located on the crossing loops at Banteer, 
+Rathmore and Farranfore Stations. 
+167 Millstreet Station is located at the 19 Milepost (MP) on the Mallow to Tralee line. There is one 
+platform at Millstreet Station; and a crossing loop, without a platform. Therefore, when two trains 
+are required to allow passengers to disembark and pass each other at Millstreet Station, a shunt 
+movement is required. 
+
+## Página 71
+
+TRALEE
+HEUSTON
+Killarney & Farranfore Stations
+Banteer Station
+TX061
+Crossing Loop
+Down
+Up
+Main Line
+Millstreet Station 
+TX061
+Platform
+Drawings not to scale, for indicative purposes only
+### Figure 20 – Millstreet Station Layout 
+168 A closed circuit television (CCTV) level crossing, Level Crossing XT061, is located 109 m west of 
+Millstreet Station, en route to Rathmore Station, see Figure 20; it is located a short distance from 
+the end of Millstreet Station platform). This type of level crossing prevents access by means of 
+two full barriers that block the flow of road traffic. The level crossing is protected by traffic light 
+signals, audible warning devices and the full barriers. The operation of the lights and sirens 
+followed by the lowering of the barriers is initiated automatically as the train approaches the level 
+crossing. The barriers rise automatically once the train has passed. The level crossing equipment 
+is supervised by a Signalman in CTC; see Figure 21 for a photograph of Level Crossing XT061 
+with the barriers raised. 
+169 No factors in relation to the operation of the level crossing were founds to have contributed to the 
+incident. 
+### Figure 21 – Level Crossing XT061 
+
+## Página 72
+
+### Rolling stock 
+170 The trains involved in the incident were the 11:50 hrs Tralee to Heuston passenger service (Train 
+A303) and the 12:10 hrs Cork to Tralee passenger service (Train A304). 
+171 Train A303 was a four-carriage Diesel Multiple Unit (DMU) Intercity railcar consisting of carriages 
+22227, 22544, 22427, 22327, unit 22227 was the leading carriage at the time of the incident. This 
+train consist is 164 metres (m) in length with a combined weight of 277 tonnes. 
+172 Train A304 was also a four car DMU.  
+173 Both trains were fitted with On Train Data Recorders (OTDR), a device fitted to trains to store key 
+train parameters and driver actions; this includes speeds of trains and brake applications. On the 
+day of the SPAD there were approximately ten instances of over-speeding (paragraph 229), by 
+speeds up to 11 mph (17.6 km/h), these instances of speeding were for short periods of time and 
+are likely as a result of the number of speed and gradient changes. 
+174 No factors associated with the condition of the rolling stock were found to have contributed to the 
+incident. 
+### Signalling and communications 
+175 The Tralee Line was re-signalled as part of a larger Mini-CTC project in 2004/05 which involved: 
+updating the signalling from semaphore signalling to colour light signalling using solid-state 
+interlocking (SSI); installing axle counter train detection equipment between stations; removing 
+local signal cabins with control being transferred to CTC; and the upgrading of level crossings.  
+176 As a result, the single track route from Killarney Junction to Tralee is signalled using two and 
+three aspect colour light signals, controlled by the Waterford/Tralee Line Signalman based in CTC 
+in Dublin. Track Circuit Block regulations apply to this route. 
+177 The means of communication between train drivers and the CTC Signalman on this route is via 
+train radio. Lineside signal telephones are also available.  
+178 The signalling and communications systems operated as designed. 
+### Operations 
+179 The upgrading work, outlined in paragraph 175, did not included the installation of a CAWS or 
+ATP as IÉ determined there was no change in the perceived risk, due to the fitment not being 
+
+## Página 73
+
+included prior to the upgrade (replacing like-for-like). As a result the level of train protection on the 
+line was through the use of basic overrun protection, as set out in IÉ I-SIG-2062 (see paragraphs 
+48 - 50). 
+180 DRA was not provided in the driving cab of Train A303. 
+181 The maximum permitted line speed is 70 mph (112 km/h). There is a permanent speed restriction 
+(PSR) of 60 mph (96 km/h) between the 19 ¼ MP and 18 ½ MP (between TLR223 and TL223); 
+and a temporary speed restriction (TSR) of 25 mph (40 km/h) in the down direction approaching 
+Millstreet Station. The speed through Millstreet Station Platform is 40 mph (64 km/h). 
+182 Both train drivers involved in the incident were competent to perform driving duties as per the IÉ 
+suite of training and competence. The competence of the drivers will be discussed in detail in a 
+later part of the report.  
+### Fatalities, injuries and material damage 
+### Fatalities and injuries 
+183 There were no fatalities or injuries as a result of this incident. 
+### Material damage 
+184 There was no material damage to the infrastructure, rolling stock or signalling system as a result 
+of this incident. 
+### Roles involved in the incident 
+### Roles directly involved in the incident 
+185 There are a number of roles involved in the incident, the IÉ-RU roles are as follows: 
+ 
+Driver A303 – The train driver who was driving Train A303 from Tralee to Heuston, who 
+proceeded through Signal TL223 without authority as he approached Millstreet Station 
+Platform; 
+ 
+Driver A304 – The train driver who was driving Train A304 from Cork to Tralee and was 
+approaching Millstreet Station Platform as Train A303 approached. He was qualified and 
+competent to drive trains; 
+ 
+DM Cork – The DM and line manager for Driver A303; 
+
+## Página 74
+
+ 
+PIC Killarney – Person in charge of platform at Killarney Station platform, who despatched the 
+Train A303 from Killarney. The PIC Killarney was trained and competent in the procedures for 
+the despatch of trains; 
+ 
+PIC Millstreet – Person in charge of platform at Millstreet Station. The PIC Millstreet was 
+trained and competent in the procedures for the despatch of trains. 
+186 The IÉ-IM roles associated with the incident are as follow: 
+ 
+CTC Signalman – The Waterford/Tralee Line Signalman based in CTC, Dublin, who is 
+responsible controlling the route and for the operation of level crossings, such as Level 
+Crossing XT061. The CTC Signalman was competent to perform his duties; 
+ 
+Traffic Regulator – The person, based in CTC, responsible for delivering a punctual train 
+service in accordance with the timetable and to deal with any service recovery situations; the 
+Traffic Regulator was competent to perform his duties. 
+### Roles not directly involved in the incident 
+187 The roles not directly involved in the incident, include the following role, as follows: 
+ 
+District Traction Executive (DTE) – In relation to driver, the DTE assists in the selection of 
+drivers, ensures the CMS is set up and maintained, assesses and monitors drivers, manages 
+issues surrounding the competence of drivers, certifies newly qualified drivers, and manages 
+the PQA process. 
+### External circumstances 
+188 The weather at the time of the incident was recorded by Met Éireann as bright and dry with a 
+temperature of 10.5˚C. 
+189 No factors associated with the weather, such as visibility, were associated with incident. 
+
+## Página 75
+
+### Evidence 
+### The Signalling System 
+### General description of the Signals 
+190 Signal TL223 is a three aspect signal mounted on a standard height pole situated on the left hand 
+side of the track close to 19 ¼ MP. It is capable of displaying single yellow, green and red 
+aspects; and has a route indicator, see Figure 22. TL223 clears to a green aspect on request from 
+the CTC Signalman after the barriers of Level Crossing XT061 are lowered; the level crossing is 
+not approach released. There is a 40 mph (64 km/h) speed board located behind the signal. 
+### Figure 22 – Signal TL223 with route indicator and adjacent speed board 
+191 On the driver’s approach of Signal TL223, 
+the signal comes into view, across a 
+Signal TL223 
+curve, from a distance of 435 m, Figure 
+23. There is then a clear view of Signal 
+TL223 on the straight line from a distance 
+of 370 m, The minimum required sighting 
+distance for a line speed of 80 mph (128 
+km/h), as set out in I-SIG-2043 (discussed 
+in paragraphs 30 - 34), is 286 m; therefore 
+the actual sighting distance of 370 m 
+exceeds the requirements set out in the 
+standard.  
+### Figure 23 – View of Signal TL223 on curve 
+
+## Página 76
+
+192 Signal TLR223 is the repeater signal for Signal TL223. It is a two aspect signal mounted on a 
+standard height pole situated on the left hand side of the track, see Figure 24. It is capable of 
+displaying single yellow and green aspects. It is located 2,016 m before Signal TL223. It has a 
+recorded sighting distance of greater than 1000 m as it is located on a straight section of track; 
+therefore this signal also meets the requirement of 286 m sighting distance set out in I-SIG-2043. 
+### Figure 24 – Signal TLR223 
+193 The aspects displayed on the day of the incident, as outlined in the sequence of events, was 
+confirmed by forward facing CCTV on board Train A303 i.e. that Signal TLR223 was displaying a 
+yellow aspect (see Figure 25), and Signal TL223 was displaying a red aspect as Train A303 
+approached the signals (see Figure 26). 
+
+## Página 77
+
+Figure 25 – Train A303 CCTV download, 
+Figure 26 – Train A303 CCTV download, 
+### showing Signal TLR223 displaying a 
+### showing Signal TL223 displaying a red 
+yellow aspect 
+aspect and speed board 
+### General description of the Signalling Route Settings 
+194 As mentioned previously, Millstreet Station is a one platform station with a single line and crossing 
+loop. To facilitate the movement of trains onto Millstreet Station Platform, the points are set on the 
+approach to Millstreet Station Platform, to provide the overlap for the train that will allow the signal 
+in rear, Signal TL213, to display a green aspect. In addition, when the initial route is made by the 
+CTC Signalman, the points exiting Millstreet Station (see pink area in Figure 27) are also set so 
+that the train can exit the section i.e. the points are not conflicting. The setting of the exiting points 
+for the entire movement is to mitigate the risk of derailment, due to conflicting points, where a 
+train inadvertently overruns Millstreet Station Platform, see Figure 27 A, B, C &D.  
+195 This system of working means that trains travelling in the opposite direction, towards Millstreet 
+Station, cannot be set for the opposing train to travel directly onto the crossing loop. However, it 
+should be noted that the signals (such as TL223) would be at danger meaning that drivers would 
+not have authority to enter the section.  
+196 This system of working is similar for all stations on single lines with crossing loops. 
+
+## Página 78
+
+A 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+Train
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+B 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+Train
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+C 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+Train
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+D 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+Train
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+Train
+Level Crossing
+Signal
+Track Circuit
+TC
+Exiting points
+### Figure 27 – Signal routing at Millstreet Station 
+
+## Página 79
+
+### Driver selection, training and competency management 
+### Driver A303 Selection & Training 
+197 On the 8th February 2011, Driver A303 underwent a psychometric assessment as part of the initial 
+process for selection as a train driver, which includes a concentration test. Driver A303 received a 
+high score in this test, the scoring indicated that he placed a lot of emphasis on completing a task 
+with accuracy, rather than completing it on time. This scoring was given to Driver A303 as 
+feedback and advice given on how to further develop skills in this area during initial training.  
+198 From the 28th February 2011 until the 22nd July 2011, Driver A303 undertook the driver basic 
+training module. He achieved good exam results, with the training instructors noting that Driver 
+A303 had worked hard. Observations from the initial driving training indicated that Driver A303 
+reacted proactively to speed restrictions, cautionary and stop signals, and was effective at 
+managing cab distractions. 
+199 From the 14th August 2011 to the 19th February 2012, Driver A303 undertook his train handling 
+training, which consisted of 339 hrs train handling experience. All feedback from the mentors 
+throughout the training programme was very positive on the overall technique and 
+professionalism of the driver. 
+200 On the 21st March 2012, Driver A303 qualified as a driver, with the DTE recording a high standard 
+of driving was achieved, with no areas of concern highlighted. The driver was then required to go 
+through the CMS for drivers. 
+### Driver A303 Competency Management 
+201 In March 2012 Driver A303 commenced a two year PQA period where additional monitoring and 
+assessments are provided, including a full re-assessment every 12 months. In the first few weeks 
+post initial qualifying, the driver obtained thirty day workplace experience over his core route - 
+Cork to Dublin, prior to learning additional routes. 
+202 In August 2012, Driver A303 while working was involved in an incident which resulted in an 
+individual being fatality injured when the individual put themselves in front of the train (suspected 
+self-harm). Driver A303 was subject to post-occurrence counselling and support, including a DTE 
+accompanying Driver A303 over route on returning to work.  
+203 In September 2012, Driver A303 attended a one day training workshop for newly qualified drivers 
+focusing on SPAD prevention techniques and human factors. Driver A303, in responding to 
+questions within the task book, correctly indicating that RTC could be used as a control after 
+passing a caution signal.  
+
+## Página 80
+
+204 In the twenty months since qualifying as a driver, Driver A303 was subject to, and met, all the 
+requirements set out in the four stage process outlined in OPS-SMS-3.1 (paragraphs 106–114).   
+205 A review of all the above assessments indicated no areas of concern with Driver A303’s 
+competence or the driver’s approach in professional driving techniques. None of the assessments 
+appear to record whether the driver was systematically using any form of EPTs. 
+206 As mentioned previously, the OTDR recorded instances of over speeding when Train A303 was 
+travelling to Tralee (paragraph 170). However, on review of previous assessments of the Driver 
+A303, this was not identified as an area for development. The DTE responsible for the Driver 
+A303, indicated to IÉ management, that if slight over-speeding had been noticed he would have 
+given a verbal warning but this would not have been recorded within the assessment file. 
+### Route Knowledge for Driver A303 (Mallow to Tralee Line) 
+207 Driver A303 commenced route learning on the Tralee Line on 17th May 2012. He completed route 
+learning on the 7th June, travelling over the route on eighteen occasions. Driver A303 was briefed 
+and assessed on route and SPAD risk but the process does not require the driver to be 
+specifically briefed on the risks associated with passing signals at danger on a single line crossing 
+loop, where the consequences of a SPAD are potentially significant. 
+208 Driver A303’s route knowledge competence over the Tralee line was initially assessed on the 8th 
+June 2012. This included a practical assessment over the route and assessment of underpinning 
+knowledge. Assessment comments by the DTE indicated that the driver obeyed all PSRs and 
+TSRs, maintained line speed and used defensive driving techniques when approaching signals 
+displaying a caution aspect. A further practical assessment was conducted over the Tralee route 
+on the 8th July 2013 and a similar standard of competence was established. 
+209 The rosters at Cork only have seven instances of work within a fifty-three week period. Despite 
+the rosters generally being spread throughout the fifty-three weeks rather than grouped together; 
+there is a chance whereby a driver would only be programmed to go over the route once in a 
+thirteen week period, which could be further extended if a driver went on leave or changeovers 
+duty, if robust controls are not in place. 
+### SBUDs for Driver A303 
+210 Driver A303 had met the required of OPS-SMS-3.1 and OPS-SMS-3.5 in relation to SBUDs. 
+
+## Página 81
+
+### Traffic Regulation 
+### Traffic Regulators’ Manual 
+211 The Traffic Regulators’ Manual, OPC-SMS-028, Version 1.1 (which will be referred to as OPC-
+SMS-028 for the remainder of this report), operative since the 25th March 2013, provides work 
+instructions and supporting guidance to Traffic Regulators in the performance of their duties. Part 
+of its scope is to “proactively monitor real time operations with a view to effective service recovery 
+as required”. It contains thirty-three instructions related to traffic regulation, such as instructions in 
+the event of emergency situations such as derailments, collision, flooding, SPADs, fires, structural 
+failures and accidents to members of the public. 
+212 The policy in Section 32, ‘Train Regulating’ states that “Safe efficient and timely train regulation is 
+a critical element in helping to ensure the delivery of a punctual and reliable service. Managing 
+and ensuring rapid recovery from delays and incidents is a fundamental aspect of train regulation. 
+It is essential that every possible endeavour is made to help ensure that train services arrive at 
+important junctions and regulating points on time”. OPC-SMS-028 sets out the performance 
+measurement targets (delay thresholds), as well as setting the three principles for train regulation, 
+which need to be balanced, as follows: 
+ 
+The available margins derived from the margins table; 
+ 
+The opportunity to apply positive regulation to allow trains to meet its performance threshold; 
+ 
+The Traffic Regulator seeking the guidance of the CTC Duty Manager who may direct the 
+priorities for the regulation of the specific trains. 
+213 Section 32.5, ‘Priority in Train Regulations’ sets out four requirements in relation to prioritising 
+trains: 
+ 
+The priority where possible is for all trains to arrive at their destination within their delay 
+threshold. Services which are running late should be given every opportunity to recover, 
+including, where possible, preference over other services which are less late, so that they 
+may arrive at their destinations on time; 
+ 
+Any train may be held back for a short period at the Traffic Regulators discretion to allow late 
+running, non-stop services to have preference, so that both services have a chance of 
+meeting their targets; 
+ 
+Traffic Regulators must be aware of specific load factors and any passenger congestion at 
+stations and take account of these factors when making any decision related to train 
+regulation; 
+ 
+The Duty Manager CTC will issue a ‘train regulation statement’ to advise the Traffic Regulator 
+as situations arise.  
+
+## Página 82
+
+214 There are no other details in OPC-SMS-028 in relation to the specifics in the management of 
+delays e.g. how to manage delays through the alteration of passing points. Nor are there any 
+details in relation to the risks associated with the crossing of trains on single lines.  
+215 There is no requirement on the Traffic Regulator to carry out any form of dynamic risk 
+assessment in relation to any changes to the normal running of trains. 
+### Adopted methods of working  
+216 As mentioned above, OPC-SMS-028 does not have any specific details in relation to the 
+alternation of the routing of trains during delays to meet performance measurement targets. 
+However, an informal system has been developed whereby if a train is delayed by twice the 
+section timing, then the crossing point should be changed. 
+### Actions of the Traffic Regulator & CTC Signalman 
+217 The section times for Banteer Station to Millstreet Station is ten minutes, and the section timing 
+from Millstreet Station to Rathmore Station is seven minutes, see Figure 28. 
+Tralee 
+Trale
+7 minutes 
+10 minutes 
+Heuston 
+Farranfore 
+Farranfor
+Mallow 
+Mallo
+Banteer 
+Bantee
+Millstreet 
+Millstree
+Killarney 
+Killarne
+Rathmore 
+Rathmor
+### Train A304 
+### Train A303 
+Cork 
+### Figure 28 – Section times for Rathmore – Millstreet & Millstreet - Banteer 
+218 On the day of the incident Train A303 was running eighteen minutes late. With the section time of 
+Rathmore to Millstreet at seven minutes, twice this is fourteen minutes; and with eighteen minutes 
+being greater than fourteen minutes an alternative crossing point should be considered using the 
+above adopted method. 
+
+## Página 83
+
+219 As a result, the Traffic Regulator and the CTC Signalman decided not to leave Train A304 waiting 
+in Banteer Station for Train A303. Instead, they decided that they would send and accept Train 
+A304 into Millstreet Station Platform, disembark passengers (Figure 29A) and then shunt the train 
+into the crossing loop (Figure 29B) to wait for Train A303. 
+220 Train A303 would then be accepted into Millstreet Station Platform (Figure 29C&D), where it 
+would disembarked passengers and continue towards Heuston; and Train A304 would then 
+continue towards Tralee. 
+
+## Página 84
+
+A 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A304
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+B 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A304
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+C 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A304
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+D 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A304
+A303
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+E 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A304
+A303
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Train
+A303
+Main Line
+Level Crossing
+Signal
+Track Circuit
+TC
+Figure 29 – Traffic Regulator’s planned sequence of movements for Train A303 and Train A304 
+
+## Página 85
+
+221 IÉ have calculated that this method of working occurs approximately three times a week when 
+trains are delayed and adds about ten to twelve minutes to normal station duties; with potential 
+time savings limited five to nine minutes.  
+222 IÉ calculated, given the timings on the day of the incident, that the delay to Train A304 would 
+have been reduced if Train A304 had been held at Signal TL213 (see Figure 30 A) the signal 
+protecting the platform; to wait for the arrival of Train A303. 
+223 On the arrival of Train A303, it would be given the route directly into the crossing loop, while still 
+holding Train A304 at Signal TL213 (see Figure 30 B&C). Once on the crossing loop, Train A304 
+could be routed onto Millstreet Station Platform and continue towards Tralee; Train A303 could 
+carry out a shunt movement onto Millstreet Station Platform and continue towards Heuston. 
+A 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A304
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+B 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A303
+A304
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+C 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+A303
+A304
+Millstreet Station 
+TX061
+Train
+Platform
+A303
+TL219
+TL213
+TL215
+Level Crossing
+Main Line
+Signal
+Track Circuit
+TC
+### Figure 30 – Alternative sequence  
+
+## Página 86
+
+224 However, it should be noted that the CTC Signalman and the Traffic Regulator do not have 
+access to the live timings of trains on the Personal Computer Emergency Control Panel (PCECP) 
+signalled lines, therefore they are limited to observing train movements; in addition, the Train IDs 
+are not displayed on the PCECP screen. 
+### Despatch of Trains – The role of the PIC 
+225  PICs are provided with a ‘Platform Train Interface & Despatch Procedure Prompt Card’ issued in 
+2011 (which will be referred to as the Prompt Card for the remainder of the report) which should 
+be used in conjunction with Section H of IÉ’s Rule Book. This Prompt Card sets out the correct 
+procedure for despatching trains, see Figure 31. The role of the PIC in despatching trains will be 
+further discussed in the investigation into the SAS SPAD at Muine Bheag on the 8th April 2013 in 
+Part 6 of this report.  
+### Figure 31 – Platform Train Interface & Despatch Procedure Prompt Card 
+226 Of note to this investigation are the following, as set out above, that the PIC should give the 
+‘Station Works Complete’ signal only when satisfied that boarding is complete and there are no 
+hazards. Also the PIC should monitor the train as it departs, and not to leave the platform until the 
+whole train has safely departed the station (this is normally through the checking of the tail lights 
+of the train).  
+
+## Página 87
+
+### Sequence of events 
+### General description 
+227 This section outlines the key events, leading before, during and after the incident. 
+### Events before the incident 
+228 Prior to the time of the incident, Driver A303 had: 
+ 
+Worked seven of the twelve days before the day of the incident;  
+ 
+Worked the four days immediate prior to the incident, working an early turn of duty 
+(commencing between 04:45 hrs and 05:30 hrs, and finishing between 12:00 hrs and 13:30 
+hrs); with an average daily driving time of 3 hrs 24 minutes; 
+ 
+A rest period of 18 hrs and 45 minutes his last turn of duty before signing on duty on the day 
+of the incident (this exceeds the required 12 hrs rest period before duty). Driver A303 stated 
+he was well rested with a good, unbroken night of sleep. 
+229 On Sunday 8th December, Driver A303 had a journey time of approximately fifteen minutes to 
+work. He booked on duty, on-time, at Kent Station, Cork, at 07:55 hrs on a normal turn of duty. 
+After booking on duty, Driver A303 collected and read his notices, and he went to his train twenty-
+five minutes before the departure time to ensure all checks were carried out. He then operated 
+the 08:55 hrs passenger service from Cork to Tralee.  
+230 During this service the OTDR download indicated that Train A303 exceeded the maximum line 
+speed approximately ten times, by speed of up to 11 mph (17.6 km/h); in all instances Driver 
+A303 uses the train brake to bring the train speed back within the permitted speed limits.  The IÉ 
+Investigation Report into this incident, Report No. R0401-2014-018, published in March 2014 
+noted that “The number of speed and gradient changes means that driver route knowledge is 
+important to ensure performance timings are maintained and line speed is not exceeded”. The IÉ 
+Investigation Report also indicated that Driver A303 used “a heavy brake application when 
+coming to a stand in some platforms”.  
+231 On arriving at Tralee at 10:50 hrs, Driver A303 took time to have a personal needs break prior to 
+conducting pre-departure checks for Train A303, the 11:50 hrs passenger service from Tralee to 
+Heuston. While in Tralee he was informed that there was an additional driving shift to be covered 
+on the 13:20 hrs passenger service from Mallow to Cork as the scheduled driver had reported 
+unfit for duty earlier in the morning. 
+232 Driver A303 departed Tralee at approximately 11:50 hrs. He was delayed at the next station, 
+Farranfore Station, as he had to wait for the 08:30 hrs passenger service from Heuston to Tralee 
+
+## Página 88
+
+(Train A302) to use the crossing loop (Farranfore, Millstreet and Banteer Stations are the stations 
+with crossing loops on this section of single line). This delay resulted in Train A303 arriving at 
+Killarney Station at 12:26 hrs, five minutes after its scheduled time. 
+233 When the train was stationary at the platform in Killarney two adults boarded the train with a 
+teenage child, it was not their intention to travel but only to ensure the child was comfortable for 
+the journey. The adults left two other small children (aged approximately 3-4 years old) sitting on 
+a bench behind the station kiosk, away from the despatch area of the platform while they took the 
+teenager on board. 
+234 The PIC Killarney was unaware of the children waiting out of view and gave Train A303 the 
+‘Platform Works Complete’ and ‘Ready to Start’ signals.  
+235 As the adults were about to disembark the train the doors closed in front of them and the train 
+started to leave the platform. Both adults made became hysterical and started shouting loudly 
+while banging on the driver’s cab door and trying to open it.  
+236 Driver A303 became immediately aware of the two adults banging on the driver’s door, stopped 
+the train, opened the driver’s cab door and attempted to communicate with the adults, which was 
+difficult as English was not their main language, however he realised there was a problem 
+regarding young children. 
+237 Driver A303 looked back towards the platform, but could not see the two children mentioned by 
+the adults. Driver A303 became very stressed by the situation, as he thought the train may have 
+stuck the children on departure, and they may be under the train; this was as a result of the two 
+adults remaining extremely hysterical and appearing to be very distressed. The stress suffered by 
+Driver A303, at this time, was exacerbated by the fact that he had previously been a driver who 
+was in control of a train that struck a person involved in a suspected self-harm incident, where the 
+victim was fatally injured; and he thought that his train may have struck the young children. 
+However, after further communications, Driver A303 began to realise that the children were on the 
+platform, but out of view. 
+238 Driver A303 then spoke with the CTC Signalman, who authorised to proceed clear of Signal 
+TL240, allowing Driver A303 to change train cab ends to return to Killarney Station. On return to 
+Killarney Station, Driver A303 disembarked the train to open the passenger compartment door for 
+the passengers, who were having difficulty opening the door. Driver A303 calmed the situation 
+with the distressed adults, reuniting them with the two children. Driver A303 asked the PIC 
+Killarney how he did not see the children as he considered this to be the role of the PIC. Driver 
+A303 then updated the CTC Signalman on the events.  
+
+## Página 89
+
+239 Driver A303 had to change driving cab ends again and departed Killarney Station at 12:37 hrs, 
+thirteen minutes late. Driver A303 began thinking about whether he needed to write a report on 
+the incident as it was an abnormal occurrence. 
+240 During this time, the CTC Signalman and Traffic Regulator decided to change the next crossing 
+point from Banteer Station to Millstreet Station. As Millstreet Station was closer to Killarney 
+Station, this would allow Train A304 to continue further into the section, without further delaying 
+Train A303, by having it wait in Banteer Station (as discussed in paragraph 219). 
+241 The CTC Signalman informed Train Driver A304, by train radio, that the crossing point was 
+changed from Banteer Station to Millstreet Station, and Train A304 departed Banteer Station at 
+13:57 hrs.  
+242 Driver A303 was not advised of this change of crossing points and was still expecting to pass 
+Train A304 at Banteer Station, as normal. 
+243 At Rathmore Station, Driver A303 contacted the Traffic Regulator to inform him that he could not 
+provide additional driving duties for the 13:20 hrs passenger service from Mallow to Tralee as he 
+was running late and would not make it to Mallow on time. 
+### Events during the incident 
+244 Driver A303 continued to think about the delays, the events at Killarney Station and the additional 
+driving duties. He did not apply any form of EPT to try and refocus on driving duties.  
+245 At 13:03:57 hrs, Train A304 enters track circuit TC3116 after departing Banteer Station in the 
+down direction, see Figure 32. On entering TC3116, Train A304 initiates the level crossing 
+barriers of XT061 to lower. 
+246 At approximately 13:11 hrs, Train A303 approaches Signal TLR223 in the up direction at the 
+permitted line speed. Signal TLR223 is displaying a single yellow aspect (this is a cautionary 
+proceed aspect, meaning the driver should be prepared to stop at the next signal, Signal TL223, 
+which is displaying a red aspect). Train A303 was travelling at 68 mph (108 km/h) as it 
+approached Signal TLR223. Signal TLR223 and TL223 are displaying yellow and red aspects, 
+respectively, as Signal TL213 is displaying a yellow aspect, to allow Train A304 proceed into 
+Millstreet Station Platform, see Figure 32. 
+
+## Página 90
+
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129
+TC3129 TC3126
+A304
+A303
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+A303
+Level Crossing
+Drawings not to scale, for indicative purposes only
+Signal
+All track circuits not included
+Track Circuit
+TC
+Figure 32 – TLR223 displaying a cautionary aspect & TL213 displaying a cautionary aspect 
+247 Driver A303 did not have CAWS in cab and did not use any form EPT, such as RTC, to remind 
+himself that the next signal, Signal TL223, would be displaying a red aspect. 
+248 As Driver A303 approaches the level crossing, he sees that the barriers lowered and also sees 
+the passengers waiting on Millstreet Station Platform, see Figure 33 for a driver’s view into 
+Millstreet Station. (Driver A303 assumes the barriers are lowered for his train, however, it was 
+Train A304 who had initiated the lowering of the barriers). 
+Millstreet Station Platform 
+Level Crossing 
+### Figure 33 – Driver’s view of approach into Millstreet Station  
+249 At 13:11:30 hrs Train A303, travels past Signal TLR223 displaying a single yellow aspect 
+(cautionary), see Figure 34. An initial brake application is made by Driver A303 with the train 
+reducing to 62 mph (99 km/h). 
+
+## Página 91
+
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129 TC3126
+TC3129
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+A303
+Level Crossing
+Drawings not to scale, for indicative purposes only
+Signal
+All track circuits not included
+Track Circuit
+TC
+Figure 34 – Train A303 travelling past Signal TLR223 displaying a cautionary aspect 
+250 Seven seconds later, at 13:12:37 hrs the barriers of Level Crossing XT061 are fully lowered. 
+251 At the 60 mph (96 km/h) PSR between Signal TLR223 and Signal TL223 Driver A303 reduces the 
+train speed to 47 mph (75 km/h) and further reduced the train speed to 39 mph (62 km/h) as he 
+approaches the TSR of 40 mph (64 km/h) beyond TL223. 
+252 At 13:12:57 hrs Train A304 passes Signal TL213 displaying a green aspect and enters TC3126, 
+see Figure 35.  
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129 TC3126
+TC3129
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+A303
+Level Crossing
+Drawings not to scale, for indicative purposes only
+Signal
+All track circuits not included
+Track Circuit
+TC
+### Figure 35 – Train A304 passes Signal TL213  
+253 Driver A303 applied the brake 12 m before Signal TL223, to adhere to the speed board located 
+behind Signal TL223, see Figure 36. 
+
+## Página 92
+
+### Figure 36 – Signal TL223 & speed board 
+254 At 13:14 hrs Train A303 passes Signal TL223 at danger (red aspect); entering TC3137, see 
+Figure 37. Train A303 is travelling at 39 mph (62 km/h) as it passes Signal TL223. Driver A303 
+reduces the speed to 26 mph (42 km/h) at the platform ramp.  
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129 TC3126
+TC3129
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+A303
+Level Crossing
+Drawings not to scale, for indicative purposes only
+Signal
+All track circuits not included
+Track Circuit
+TC
+### Figure 37 – Train A303 passing Signal TL223 displaying a red (danger) aspect 
+255 At 13:13:00 hrs, the SPAD alarm activated at CTC for Millstreet Station, and is acknowledged by 
+the CTC Signalman at 13:13:05 hrs. At 13:13:12 hrs the CTC Signalman makes a general call for 
+both trains to stop, However when he initiated the call, he used the instructions “General call to 
+Up Tralee – stop your train immediately!” and “Down train also stop immediately!”. As the call is 
+being made Train A303 enters TC3136, see Figure 38. 
+
+## Página 93
+
+256 The PIC Millstreet, who was on the Millstreet Station Platform sees both Train A303 and Train 
+A304 approaching the platform and immediately hand signals Train A303 to stop. Driver A303 
+does not see that the PIC Millstreet is trying to stop the train, but thinks that he is waving him into 
+the platform. 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3129
+TC3129 TC3126
+TC3126 TC3116
+A304
+A303
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+A303
+Level Crossing
+Drawings not to scale, for indicative purposes only
+Signal
+All track circuits not included
+Track Circuit
+TC
+### Figure 38 – Train A303 entering TC3136 section 
+257 Driver A303 and Driver A304 apply the emergency brakes and the trains begin to come to a stop 
+while occupying TC3129. Train A304 comes to a stop three seconds before Train A303. Train 
+A303 and Train A304 are positioned 175 m apart after both coming to a stop on Millstreet Station 
+Platform, see Figure 39. 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3129
+TC3129 TC3126
+TC3126 TC3116
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Train
+A303
+Level Crossing
+Drawings not to scale, for indicative purposes only
+Signal
+All track circuits not included
+Track Circuit
+TC
+Figure 39 – Train A303 and Train A304 occupying TC3129 on Millstreet Station Platform 
+258 Driver A303 thinks that Driver A304 passed a signal at danger. He then thinks that he may have 
+seen a yellow signal at TLR223 and realises he must have passed Signal TL223 at danger. 
+
+## Página 94
+
+259 See Figure 40 for the diagrammatical summary of events. 
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129 TC3126
+TC3129
+A304
+A303
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129 TC3126
+TC3129
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129 TC3126
+TC3129
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3126 TC3116
+TC3129
+TC3129 TC3126
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3129 TC3126
+TC3129
+TC3126 TC3116
+A304
+A303
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+Down
+Up
+TL216
+TX061
+TL220
+Crossing Loop
+TL223
+TLR223
+TC3129
+TC3129 TC3126
+TC3126 TC3116
+A303
+A304
+TC3138
+TC3136
+TC3137
+Millstreet Station 
+TX061
+Platform
+TL219
+TL213
+TL215
+Main Line
+### Figure 40 – Sequence of events during the incident 
+
+## Página 95
+
+### Events after the incident 
+260 Driver A303 talks to the PIC Millstreet and states that he was focussing on stopping the train at 
+Millstreet Station. 
+261 After the SPAD the CTC Signalman: 
+ 
+Switches Level Crossing TX061 to manual to prevent the barriers rising to road traffic; 
+ 
+Contacts the Traffic Regulator to inform him of the SPAD; 
+ 
+Contacts Driver A304 to ask whether his train has come to a stop; and informs him that Train 
+A303 has had a SPAD incident, and requests him not to make any movements until 
+requested (the communication is calm and direct but not in line with safety critical 
+communications); 
+ 
+Contacts Driver A303 to ask whether his train has come to a stop, informs him that he had a 
+SPAD incident, and requests him not to make any movements until requested; 
+ 
+Completes the appropriate signalman’s form for a SPAD incident.  
+262 The DM Cork talks with Driver A303 to assess his fitness to make further train movements. Driver 
+A303 is assessed to be fit to shunt the train to recover the situation. The DM Cork informed the 
+CTC Signalman of this decision and Driver A303 was requested to make a shunt movement back 
+behind Signal TL223 to clear the platform.  
+263 This movement allows Train A304 to travel to the normal stopping point on the platform. Train 
+A304 then carries out a shunt movement into the crossing loop. (It is noted from CCTV footage 
+that the PIC Millstreet did not fully monitor Train A304 leaving the platform). 
+264 Driver A303 then moves Train A303 onto Millstreet Station Platform and is then removed from 
+driving duties in accordance with IE post incident procedures. 
+265 Driver A303 and Driver A304 were screened for alcohol and drugs with negative results. 
+266 As a result of the incident, Driver A303 is categorised as a Category B driver, and is assigned to a 
+Driver Development & Support System (DD&SS) for a period of two years.  
+
+## Página 96
+
+### Similar occurrences 
+### General description 
+267 In relation to the signal involved in the incident, Signal TL223, IÉ have not recorded any SPADs at 
+this signal, previous to this incident. 
+268 The incident occurred on a single line, with crossing loops. Of the SPAD incidents reviewed from 
+2012 – 2014, IÉ have recorded six of these SPADs to have occurred on single lines with crossing 
+loops (or areas with similar risk), these SPADs will be discussed in the relevant sections of the 
+report. The relevant SPADs are as follows: 
+SPAD at Signal WL131, Athy/Cherryville Junction, on the 12th March 2013; 
+ 
+SAS SPAD at Signal SL719, Killucan, on the 21st June 2013; 
+ 
+SOY SPAD at Signal GL353, Athenry, on the 10th July 2013; 
+ 
+SAS SPAD at Signal TL241, Killarney, on the 10th August 2013; 
+ 
+SAS SPAD at Signal TL226, Rathmore, on the 26th February 2014; 
+ 
+SOY SPAD at Signal CE482, Glounthaune, on the 29th July 2014 (converging junction). 
+ 
+269 SPADs similar to the SPAD at Millstreet, including those identified above, include SPADs which 
+occurred while the train was operating under normal train operations (driving or shunting). These 
+SPADs, from January 2012 to June 2015, include: 
+SPAD at Signal XE010DS, Longpavement Level Crossing (Limerick), 9th April 2012; 
+ 
+SPAD at Signal XE061, Curravorrin Level Crossing, 2nd October 2012; 
+ 
+SPAD at Signal GL336, Caherryon Level Crossing, 26th October 2012;  
+ 
+SPAD at Signal HK152, Hazelhatch (Kildare), 15th February 2013; 
+ 
+SPAD at Signal WL131, Athy/Cherryville Junction (Kildare), 12th March 2013; 
+ 
+SPAD at Signal DD276, Dundalk (Louth), 9th May 2013; 
+ 
+SPAD at Signal CY26, Connolly (Dublin), 3rd April 2014; 
+ 
+SPAD at Signal CY33, Connolly (Dublin), 11th September 2014; 
+ 
+SPAD at Signal PE34, Pearse (Dublin), 18th January 2015; 
+ 
+SPAD at Signal GL391, Galway, 30th January 2015; 
+ 
+SPAD at Signal PE18, Pearse (Dublin), 11th March 2015; 
+ 
+SPAD at Signal CL102, Clonsilla (Dublin), 15th May 2015.  
+ 
+270 These SPADs will be described in detail in ‘Part 8 – A Review of All Category A SPADs (January 
+2012 to June 2015)’ of this report. 
+
+## Página 97
+
+### IÉ Investigation Report 
+271 IÉ engaged a consultant to carry out an investigation into the SPAD at Millstreet entitled ‘A Report 
+of Investigation into Train A303 passing Signal TL223 at Millstreet at Danger without authority 8th 
+December 2013’ (Report 0401-2014-18), published in March 2014. The report identified the 
+immediate cause as Driver A303 “failed to locate and check the signal on approach”.  
+272 The report identified the causal factors to Signal TL223 being passed at danger as: Driver A303 
+never stopping at Signal TL223 previous to the day of the incident; a lapse of concentration by 
+Driver A303; the lack of EPTs applied by Driver A303; Driver A303’s competency; the 
+consequences of SPADs not being identified in the route risk assessment. The report further 
+identified causal factors associated with the near-miss of Train A303 and Train A304 as: the 
+control measures in place at the time associated with overrun protection; the robustness of 
+calculating risks during the introduction of new signalling schemes (in reference to the signalling 
+upgrade project in 2004).    
+273 The report identified underlying causes as: inadequate procedures for managing route knowledge 
+and driver’s EPTs; the lack of overrun protection and operational controls to manage the risk of 
+SPADs. 
+274 The report made a number of additional observations, identified actions taken since the incident, 
+and made twelve recommendations related to the incident and additional observations. The 
+recommendations related to the incident, included recommendations related to route risk 
+assessments, assessment, monitoring and competence managements of drivers in terms of non-
+technical skills, application of EPTs for drivers. 
+275 There are a few statements of note included in the report, which will be discussed in Part 9 of this 
+report, where the RAIU reviewed the quality of the IÉ reports and their management of SPADs: 
+ 
+“Following the SPAD, when the driver makes a shunt movement back behind TL223, the 
+stopping of the train past the signal is a significant distance. Either the driver was not sure of 
+the location of the signal or has difficulty judging the length of a 4 coach train4”; 
+ 
+“The investigation panel therefore consider that the driver’s competence and confidence in 
+route knowledge over the Tralee route is also a factor in the SPAD occurring5”. 
+4 This is discussed in ‘Part 9 – SPAD Management’ (paragraph 895) where the RAIU find that the 
+driver was aware of the location of the signal and did not have difficulty in judging the length of the 
+train. 
+
+## Página 98
+
+### Analysis 
+### Signalling system 
+### Signals TLR223 and TL223 
+276 The signalling system was in working order at the time of the incident; and it was confirmed, by 
+forward facing CCTV on board Train A303, that Signal TLR223 was displaying a yellow aspect as 
+Train A303 approached and Signal TL223 was displaying a red aspect (paragraph 192). 
+277 As Train A303 passed Signal TL223 at danger, SPAD activation alarm in CTC operated as 
+designed, alerting the CTC Signalman to the SPAD (paragraph 254). 
+278 Both Signal TLR223 and Signal TL223 met the sighting requirements set out in I-SIG-2043 
+(paragraphs 190 - 192). However, it is noted, although I-SIG-2043 addresses PSR boards ahead 
+of signals, it does not appear to address TSR boards or distractions positioned directly behind 
+signals. As a result, it appears that the positioning of a speed board placed behind Signal TL223 
+is not regarded as a risk, in terms of I-SIG-2043, this will be further discussed in Part 12 of this 
+report.   
+### Train protection 
+279 The Tralee Line was upgraded in 2004 and 2005, however, the upgrading did not include the 
+introduction of enhanced overrun protection. The risk assessment carried out by IÉ at the time of 
+the upgrade works, identified “no change in perceived risk” by replacing like for like and as a 
+result basic overrun protection remained on the Tralee Line (paragraph 179).   
+280 Had enhanced overrun protection been in place at the time of the incident, such as ATP, the 
+driver would have been alerted that the speed of Train A303 was not consistent with stopping at 
+Signal TL223; and had Driver A303 not reacted to this alert the ATP system would have made a 
+brake application (paragraph 40). 
+281 Also of note in the instance of setting the routes at Millstreet Station Platform is that there is a 
+signal overlap where the points for the crossing loop are set to allow trains to overrun the signal, 
+without approaching conflicting points, which is to avoid the derailment of the train where trains 
+overrun the signal. This in turn allows a train approaching from the opposite direction to also 
+5 This is discussed in ‘Part 9 – SPAD Management’ (paragraph 896) where the RAIU query this 
+statement, given that the driver was permitted to drive trains in the area within twelve days of this 
+‘serious incident’. 
+
+## Página 99
+
+travel onto Millstreet Station Platform, as happened on the day of the SPAD which results in the 
+potential for a head-on collision (paragraph 194).   
+282 There were six other SPADs which occurred between 2012 and 2015 on single lines with crossing 
+loops (paragraph 268). These SPADs have a higher risk of collision where trains travel into the 
+same section of track.  
+### Driver selection, training and competency management 
+### General overview 
+283 IÉ have a large suite of documents in relation to driver, selection, training, competency 
+management, development and support systems such as OPS-SMS-3.0. OPS-SMS-3.1, OPS-
+SMS-3.2, OPS-SMS-3.3, OPS-SMS-3.5, Competence Standards and the Professional Driving 
+Handbook (Part 3 – Driver Training & Competency Management). These documents are 
+complete and appear to be effective at training and maintaining the basic competencies of drivers 
+in relation to basic driving techniques. 
+284 As mentioned above, the driver training and competency management systems appear to be 
+thorough at measuring basic competencies associated with the basic driving techniques and there 
+appears to be adequate monitoring of these driving techniques through the use of FDAs, OTDR 
+downloads and SUMs. In addition, INTs and safety critical communication assessments are 
+carried out and refreshers are undertaken in the form of SBUDs, these SBUDs are updated 
+regularly to address different risks to drivers, such as SPADs (Part 3 – Driver Training & 
+Competency Management). All drivers met all the requirements in terms of the training and 
+competency assessments. 
+285 Although EPTs are included in the suite of documents (paragraph 139), there appears to be no 
+system for monitoring the non-technical skills of train drivers such as EPTs for: managing 
+distraction and refocusing; situational awareness; or RTC.  
+286 As a result, these non-technical skills seem to be suggested techniques rather than mandatory 
+techniques, and as a result drivers could potentially ‘opt-out’ of using these techniques, resulting 
+in drivers not using any EPTs; as there is no requirements to carry out any form of EPT, drivers 
+are not assessed to use these EPTs.   
+
+## Página 100
+
+### Training and competency management of Driver A303 
+287 In relation to the driving and competency management undertaken by Driver A303, the driver 
+consistently achieved good results in the basic training module, train handling training and route 
+knowledge, with the DTE noting that good defensive driving techniques were being used when 
+approaching signals at caution (paragraphs 197 - 210).  
+288 Driver A303 received all the required monitoring, summary assessments and re-certifications. In 
+total, in the twenty months since qualifying as a driver to the day of the incident, Driver A303 was 
+subject to seven driving assessments, four OTDR downloads, three safety critical communication 
+assessments and four post qualifying interviews and attended SBUDs (including one on SPADs 
+and EPTs) (paragraph 203). 
+289 In relation to the prevention of SPADs, Driver A303 had undergone the normal training as set out 
+in the suite of documents. No areas of concern being identified with Driver A303 However, Driver 
+A303 did not use any form of EPTs as part of his normal driving duties and did not apply them on 
+the day of the incident (paragraph 243). Reviews of Driver A303’s assessments do not appear to 
+record whether Driver A303 was systematically using EPTs (paragraph 205). 
+290 On the day of the SPAD there were approximately ten instances of over-speeding (paragraph 
+229), by speeds up to 11 mph (17.6 km/h), these instances of speeding were for short periods of 
+time and are likely as a result of the number of speed and gradient changes. It should be noted 
+that there is no record of over-speeding in Driver A303’s file (paragraph 206), and the DTE 
+responsible for Driver A303 indicated that over-speeding is managed through verbal warnings 
+(paragraph 206) it is therefore unknown whether there was a systemic issue with Driver A303’s 
+driving technique.  
+291 Also of note in the driver’s history, related to additional monitoring, is that he was involved in a 
+fatal incident (suspected self-harm) where an individual was struck by a train; which resulted in 
+post-occurrence counselling and support, including a DTE accompanying the driver over route on 
+returning to work (paragraph 202). The management of these incidents is discussed in more 
+detail in Part 10 of this report. 
+### Driver A303 actions on the day of the incident 
+292 Driver A303 commenced duty at Cork Station at 07:55 hrs which is a normal turn of duty; he had 
+over eighteen hours rest since his previous duty. He commenced driving on a Sunday timetable 
+which has different timings than the normal weekday timetable, this was the first time he had 
+worked a Sunday on this route (paragraphs 228 and 229). 
+
+## Página 101
+
+293 During the 08:55 hrs passenger service from Cork to Tralee there were approximately ten 
+instances of over-speeding, by speeds up to 11 mph (17.6 km/h), however, in each instance the 
+train brakes were applied to bring the train speed within the permitted speed limits (paragraph 
+229), this instances of over-speeding are likely the result of the number of changes to speeds and 
+gradients on the route.  
+294 During the 11:50 hrs service from Tralee to Heuston, there were a number of incidents of note: 
+ 
+Driver A303 was informed at Tralee that he was required to carry out an additional driving 
+shift for the 13:20 hrs passenger service from Mallow to Tralee (paragraph 231); 
+ 
+Driver was delayed at Farranfore Station, the next station after Tralee by approximately five 
+minutes (paragraph 232) as he had to wait for a train to pass.  
+ 
+At the next station, Killarney Station, there was an incident whereby the train departed with 
+two adults who were not passengers, and had left two young children on the platform. This 
+resulted in Driver A303 having to stop the train, engage with the adults, return to Killarney 
+Station and reunite the adults with their children (paragraph 233 - 239). Driver A303 became 
+very stressed as a result of the incident as it reminded him of a fatal self-harm incident which 
+he had experienced in 2012, and he became further distracted by this incident as he was 
+unsure whether he should report it as an unusual occurrence (paragraph 239); 
+ 
+At the next station, Rathmore Station, Driver A303 contacted the Traffic Regulator to inform 
+him that he would not be able to provide additional driving duties for the 13:20 hrs passenger 
+service from Mallow to Tralee (paragraph 243).  
+295 All the above events were in the thoughts of Driver A303 as he approached Signal TL223. In 
+addition, on the approach to TL223, Driver A303 may have been further distracted by the flashing 
+lights of the level crossing (paragraph 248) and by the speed board located behind the signal 
+(paragraph 253). 
+296 The factors identified in the paragraphs above resulted in Driver A303 being distracted, 
+preoccupied and losing situational awareness; and as a result of Driver A303 not applying any 
+form of EPT he was unable to refocus on the primary task of driving (paragraph 244 and 247). 
+297 As a result of the loss of situation awareness, Driver A303 had an incorrect expectation6 that 
+Signal TL223 was displaying a proceed aspect as: 
+6 A driver may sometimes have such high expectations of what a signal may be that he may fail to 
+look at. If this inference is incorrect an erroneous response may be made and he may in fact 
+unconsciously pass through a red light or not see it until it is too late. False expectations usually arise 
+from past experience driving on that line. 
+
+## Página 102
+
+ 
+Driver A303 had always received a proceed aspect for Signal TL223; 
+ 
+Driver A303 was not aware that the crossing point had changed to Millstreet Station; 
+ 
+The barriers of Level Crossing XE061 were lowered, which he assumed were lowered 
+for him (they were actually initiated by Train A304);  
+ 
+There were passengers on the platform, which was normal on his approach to the 
+station. 
+298 The brake application details taken from the OTDR download on the approach to Millstreet 
+Station are consistent with a train preparing to stop at a station, as Driver A303 makes a brake 
+application on: 
+ 
+Passing TLR223, reducing the speed to 62 mph (99 km/h) – this is consistent with Driver 
+A303 observing a cautionary aspect at Signal TLR223 (paragraph 249); 
+ 
+Approaching the 60 mph (96 km/h) PSR between TLR223 and TL223 Train A303 is now 
+travelling at 47 mph (75 km/h), 13 mph (21 km/h) under the PSR requirement (paragraph 
+251); 
+ 
+Approaching Signal TL223 (paragraph 253). Train A303 was travelling at 39 mph (62 km/h) 
+when Signal TL223 came into view 370 m ahead of Signal TL223 (paragraph 248); 
+ 
+Twelve metres ahead of Signal TL223 to maintain the train speed at 39 mph (due to the 
+falling gradient), paragraph 253. This would be consistent with Driver A303 maintaining the 
+speed of the train at the PSR of 40 mph (64 km/h) which is just beyond Signal TL223; 
+ 
+Passing Signal TL223 (between 148 – 328 m past Signal TL223) to reduce speed at the 
+platform ramp, in preparation for stopping on the platform (paragraph 253); 
+ 
+Receiving the general call from the CTC Signalman, whereby Driver A303 applies the 
+emergency brake. 
+299 In addition, Driver A303, after stopping the train thinks that Train A304 passed a signal at danger; 
+and tells the PIC Millstreet that he was focussing on stopping at the Millstreet Station (paragraph 
+260). 
+### Regulating Trains – Actions of the Traffic Regulator & CTC Signalman 
+### General overview 
+300 The Traffic Regulators Manual provides guidance on train regulation however it is not specific in 
+how to manage delays and possible risks on crossing trains on single lines. In addition, there are 
+no requirements on the Traffic Regulator to perform any form of risk assessment prior to 
+alternating the routes of trains (paragraphs 211, 214 and 215). 
+
+## Página 103
+
+301 In the place of specific requirements for the movement of trains, an informal approach has been 
+adopted in relation to the movement of crossing points i.e. where the time delay is twice the 
+section time, the movement of crossing points should be considered (paragraph 217). 
+### Changing of the crossing point 
+302 As a result of this informal approach, the Traffic Regulator and the CTC Signalman made the 
+decision to change the crossing point for Train A303 and Train A304, which would result in no 
+further delays to Train A304 (paragraph 219). 
+303 Given the events on the day of the incident, Train A303 and Train A304 arrived at Millstreet 
+Station at the same time (albeit as a result of the SPAD). And as Train A303 was running late and 
+Train A304 was running on time, priority should have been given to Train A303 as set out in OPC-
+SMS-028 which states “the priority where possible is for all trains to arrive at their destination 
+within their delay threshold. Services which are running late should be given every opportunity to 
+recover, including, where possible, preference over other services which are less late, so that 
+they may arrive at their destinations on time. Any train may be held back for a short period at the 
+Traffic Regulators discretion to allow late running, non-stop services to have preference, so that 
+both services have a chance of meeting their targets”. This would result in allowing Train A303 
+onto Millstreet Station Platform ahead of Train A304, contrary to the CTC Signalman and Traffic 
+Regulator’s plan (paragraph 213). 
+304 In addition, the manoeuvre planned by the Traffic Regulator and the CTC Signalman provided 
+limited time savings (paragraph 221) and the above outlined method would provide better time 
+savings and better overrun protection (paragraph 222). Although it is noted that the Traffic 
+Regulator and the CTC Signalman do not have access to the live timings of trains (paragraph 
+224) and therefore both operation under ‘real-time’ conditions, and required to make a number of 
+‘real-time’ decisions promptly to maintain a good service. 
+305 From a dynamic risk perspective, the training and competence management of signallers and 
+traffic regulators does not provide specific training of the potential risks associated with train 
+movements at crossing points on single line. From a signalling principle and interlocking 
+perspective, under ‘normal operation’ of signalling, it has to be assumed that the protection and 
+interlocking design provides sufficient protection to ensure the risks are reduced to as low as 
+reasonably practicable (ALARP). Effectively meaning the CTC Signalman and Traffic Regulator, 
+in this instance, are relying on the system to control any risks which they may introduce by 
+changing the crossing point. 
+
+## Página 104
+
+### Advising the drivers of changes to scheduled working 
+306 When the Traffic Regulator and CTC Signalman changed the crossing point to Millstreet Station, 
+Driver A304 was advised of the change as a result of having to explain he was not waiting at 
+Banteer for Train A303. However, Driver A303 was not advised of the change. Had Driver A303 
+been advised of the change, this may have raised the driver’s awareness to the potential of being 
+stopped at Millstreet Station and may have taken different actions on the day. However, there is 
+no requirement to inform the drivers of these changes and the train drivers are required to obey 
+the signals. 
+### Stopping the trains - Actions of the CTC Signalman 
+307 The communications of the CTC Signalman were calm and direct (paragraph 255), where he 
+made a general call to both drivers to immediately stop the trains; and the drivers immediately 
+applied the brakes. However, it was noted, that some of the communications were not in line with 
+safety critical communication requirements, e.g. he identified the trains as up and down trains 
+instead of using the required ID numbers (paragraph 255).     
+### Platform duties - Actions of the PICs at Killarney and Millstreet 
+### General description 
+308 The role of the PIC will be discussed further in Part 7 & Part 8 of this report, in relation to the 
+investigation of a SPAD on the 9th April 2013, at Muine Bheag. 
+309 This section of the report will discuss the actions of the PIC at Killarney and the PIC at Millstreet 
+in relation to the day of the incident. 
+### Actions of the PIC Killarney 
+310 The PIC Killarney gave the ‘Platform Works Complete’ and the ‘Ready to Start’ signals while there 
+were unattended children on the platform. However, there were still hazards on the platform (the 
+presence of unattended young children – paragraph 237) which is not in line with the Prompt Card 
+(Figure 31).  
+311 In addition, on arrival back to Killarney Station, it was Driver A303 who assisted the two adults in 
+being reunited with the two young children; this resulted in Driver A303 being completely removed 
+from the driving task for a period of time (paragraphs 233 - 237). 
+
+## Página 105
+
+### Actions of the PIC Millstreet 
+312 It is noted that the PIC Millstreet made efforts to stop Train A303 when he saw that the two trains 
+were arriving on the same platform. However, he did not adequately monitor Train A304 after the 
+SPAD as he left the platform while the whole train had not departed the station (paragraph 263), 
+this is not in line with the Prompt Card (Figure 31). 
+
+## Página 106
+
+### Conclusions  
+### Immediate cause, contributory factors, underlying causes and root causes 
+### Immediate cause 
+313 The immediate cause of the SPAD was that Driver A303 did not see that Signal TL223 was 
+displaying a stop aspect and continued driving towards Millstreet Station as if Signal TL223 was 
+displaying a proceed aspect.  
+### Contributory factors 
+314 Possible contributory factors to Train A303 arriving at Millstreet Station Platform were: 
+ 
+CF-01 – The current basic overrun protection in the Millstreet area does not provide sufficient 
+protection to trains on single lines with crossings loops;  
+ 
+CF-02 – Driver A303 lost situational awareness, as he thought Signal TL223 was displaying a 
+green aspect. 
+ 
+CF-03 – Driver A303 had an incorrect expectation that Signal TL223 would be displaying a 
+green aspect as he had never approached the signal displaying a red light; this incorrect 
+expectation was reinforced by the fact that the barriers for Level Crossing XE061 were 
+lowered on his approach and there were passengers waiting on the platform; and he was 
+unaware that the crossing point for the trains had changed; 
+ 
+CF-04 – Driver A303 did not apply any form of EPT on the approach to the yellow aspect of 
+Signal TLR223 to remind him that Signal TL223 would be displaying a red aspect; 
+ 
+CF-05 – Driver A303 did not apply any EPT to refocus on his driving duties after he had 
+become stressed, distracted and preoccupied by the events at Killarney Station, where two 
+young children were left unattended, which resulted in Driver A303 having to return to the 
+station. Driver A303 had also become distracted by the fact that he was unable to provide 
+relief duties for another service, due to the late running of the train. Driver A303 may have 
+also become distracted by the speed board, located directly after Signal TL223; and the 
+flashing lights of Level Crossing XE061; 
+ 
+CF-06 – The CTC Signalman and the Traffic Regulator were unaware that they had 
+inadvertently reduced the overrun protection for the trains, as they allowed Train A304 onto 
+the platform instead of holding it outside the station. 
+
+## Página 107
+
+### Underlying causes 
+315 Underlying causes associated with the incident, include: 
+ 
+UC-01 – The Traffic Regulator’s Manual does not include specific instructions or any form of 
+dynamic risk assessment in relation to the alteration of the scheduled movements of trains; 
+ 
+UC-02 – IÉ’s Lineside Signal Sighting & Spacing Signalling Standard (I-SIG-2043) does not 
+adequately address the risks associated with distraction features in the vicinity of signals, in 
+particular, the positioning of speed boards in the vicinity of signals. 
+### Root causes 
+316 Root causes associated with the incident, include: 
+ 
+RC-01 – Non-technical skills, such as EPT, are not adequately promoted, trained, assessed 
+or monitored during driving training and driver competency management as outlined in IÉ-
+RU’s suite of Operations SMS documents (namely OPS-SMS-3.0, OPS-SMS-3.1, OPS-SMS-
+3.2 & OPS-SMS-3.5). 
+### Additional observations 
+317 The RAIU have made a number of additional observations related to actions after the incident, 
+these include: 
+ 
+AO-01 – There were a number of instances of Driver A303 over-speeding, indicating it may 
+be a systematic issue for the driver, however, there are no previous instances of over-
+speeding recorded in Driver’s A303 competency management file, indicating, that these may 
+not be formally recorded by IÉ’s driver competency management staff; 
+ 
+AO-02 – Driver A303 was permitted to carry out train movements after the occurrence of a 
+‘very serious’ SPAD incident, before being relieved from driving duties (the permission to 
+drive after SPAD events will be discussed further in Part 10 of this report); 
+ 
+AO-03 – The PIC Killarney and PIC Millstreet did not carry out their duties in full as set out in 
+the train despatch procedures (the role of the PIC will be discussed in more detail in Part 7 of 
+this report – in relation to the SPAD at Muine Bheag on the 9th April 2013). 
+
+## Página 108
+
+### PART 6 – SPAD at Gortavogher, 19th December 2013 
+### Introduction 
+318 This part of the report will investigate the SPAD at Gortavogher, 19th December 2013. Category A 
+SPAD events similar to the SPAD at Gortavogher, such as SPADs under degraded train 
+operations, will be discussed in ‘Part 8 – A Review of All Category A SPADs (January 2012 – 
+June 2015)’ of this report. This part will outline the evidence found as part of the investigation, the 
+analysis of this evidence, and the conclusions found as part of the investigation. Any additional 
+observations made as part of this investigation will be outlined in ‘Part 11 – Additional 
+Observations’. Actions taken, by IÉ, as a result of the SPAD at Gortavogher and similar 
+occurrences will be outlined in ‘Part 13 – Relevant Actions Taken or In Progress’. RAIU safety 
+recommendations, related to this incident and similar occurrences; or related to additional 
+observations, are made in ‘Part 14 – Safety Recommendations’ of this report. 
+### The incident 
+### Summary of the incident 
+319 At approximately 04:45 hrs on the 19th December 2013 faults were detected at Mallow LCCC for 
+three Closed Circuit Television (CCTV) level crossings in Chipfield (County Clare), Gortavogher 
+(County Clare) and Kiltartan (County Galway). These faults were as a result of a lightning strikes 
+in the area causing power outages, which in turn resulted in Mallow LCCC not having CCTV 
+images or all the information on the status of the signalling associated with two of these CCTV 
+level crossings (the status of the signalling in the down direction of Chipfield CCTV Level 
+Crossing was operable). This effectively meant that Mallow LCCC did not have full control of the 
+three CCTV level crossings. In addition, faults were recorded on the train radio systems in some 
+areas, with three radio bases going offline.  
+320 The LCCO informed the Galway Line Signalman (GLS) of the degraded conditions, but did not tell 
+the GLS not to allow trains into the section. The LCCO and GLS then made arrangement for 
+Emergency Operators (EOs) to be despatched to the three level crossings.  
+321 The driver (Driver A780) of the 05:55 hrs passenger service from Limerick to Galway (Train A780) 
+was informed, by the GLS, that there would be EOs present at the CCTV level crossings due to 
+faults at the level crossings. The GLS then signalled Train A780 into the section of track with the 
+degraded level crossings. 
+
+## Página 109
+
+322 When Driver A780 approached stop signal for the first faulty level crossing at Chipfield, XE071, 
+the signal was displaying a red aspect. Driver A780 contacted the GLS and was told that the EO 
+(EO XE071) was on site and the signals would upgrade shortly. When the barriers were lowered 
+the signals cleared to green and Train A780 travelled through the level crossing without incident.  
+323 The EO at Level Crossing XE098 (EO098) was in the process of taking manual control of Level 
+Crossing XE098, see Figure 41. 
+EO XE098 
+EO XE098’s car 
+### Figure 41 – EO XE098 at Level Crossing XE098 
+324 Driver A780 assumed that a similar situation would occur at next level crossing at Gortavogher 
+(Level Crossing XE098). However, Signals XE098DD and XE098DS were not displaying any 
+aspect and Train A780 passed Signal XE098DD without seeing the signal and only became 
+aware of the situation when he saw the reflection of the Signal XE098DS and saw the lights of the 
+Level Crossing XE098, However, it was too late to stop the train. 
+325 Train A780 did not stop and continued over Level Crossing XE098, without authority, with the 
+barriers raised, see Figure 42. There was no road traffic at the Level Crossing XE098 at the time 
+of the incident and as a result there were no fatalities or injuries. 
+326 The SPAD was assigned an SRR of 18 by IE. 
+
+## Página 110
+
+Level Crossing XE098 
+with raised barriers 
+Figure 42 – Train travelling through Level Crossing XE098 with the barriers raised 
+327 At the LCCC the LCCO saw Train A780 travel through Level Crossing XE098 with the barriers 
+raised and contacted the GLS. EO XE098 also contacted the LCCO.  
+328 Driver A780 or the GLS could not make contact with each other as the radios were not in 
+operation as a result of lightning strikes. Driver A780 made the decision to continue driving, as a 
+result Train A780 travelled a further 11 km before coming to a stop at the next signal which was 
+displaying a red aspect at Gort Station and phoned the GLS from the lineside signal telephone, in 
+accordance with the rules. 
+
+## Página 111
+
+### General description of the railway 
+### Infrastructure 
+329 The line involved in the incident is the Limerick to Athenry line, see Figure 43. It is a single track 
+which is worked bi-directionally.  
+### Figure 43 – Location of the SPAD, Gortavogher 
+330 Level Crossing XE071 at Chipfield is located approximately 49.76 km from Limerick Station in the 
+Ennis to Gort section of the Limerick to Athenry line, see Figure 43. The level crossing is 
+protected by traffic light signals, audible warning devices and full barriers. The level crossing is 
+normally controlled by an LCCO at Mallow LCCC. There is a local control panel adjacent to the 
+level crossing in the event of a failure at Mallow LCCC.  
+331 Level Crossing XE098 at Gortavogher is located approximately 58.41 km from Limerick Station in 
+the Ennis to Gort section of the Limerick to Athenry line. The level crossing is protected by traffic 
+light signals, audible warning devices and full barriers, see Figure 44. The level crossing is 
+normally controlled by an Operator at Mallow LCCC. There is a local control panel adjacent to the 
+level crossing in the event of a failure at Mallow LCCC.  
+
+## Página 112
+
+### Figure 44 – Level Crossing XE098, Gortavogher 
+332 Level Crossing XE136 at Kiltartan is located in the Gort to Galway section of the Limerick to 
+Athenry line. The level crossing is protected by traffic light signals, audible warning devices and 
+full barriers. The level crossing is normally controlled by an Operator at Mallow LCCC. There is a 
+local control panel adjacent to the level crossing in the event of a failure at Mallow LCCC. Train 
+A780 did not travel over this level crossing during or after the incident, but the level crossing was 
+one of the level crossings affected by the lightning strikes. 
+### Rolling stock 
+333 The train involved in the incident was the 05:55 hrs Limerick to Galway passenger service (Train 
+A780). The train was a two-carriage DMU 2800 railcar consisting of carriages 2813 and 2814; unit 
+2814 was the leading carriage at the time of the incident. This train consist is 41.93 m in length 
+and can travel at maximum speeds of 75 mph (120 km/h).  
+334 The train was fitted with an OTDR. 
+335 No factors associated with the rolling stock were found to have contributed to the incident. 
+
+## Página 113
+
+### Signalling and communications 
+336 The single track route from Ennis to Athenry is signalled using two and three aspect colour light 
+signals, controlled by the GLS based in Athlone LCCC. Track Circuit Block regulations apply to 
+this route. 
+337 The line from Ennis to Athenry is a single line throughout and is operated under the Rules and 
+Regulation for trains signalled by Track Circuit Block with colour light signals. It is controlled by 
+the Galway Line Signalman located in the Athlone Local Control Centre.  
+338 The means of communication between train drivers and the Signalman on this route is via train 
+radio. Lineside signal telephones are also available.  
+### Operations 
+339 The route is not fitted with a CAWS or ATP. Trains travelling towards Galway are travelling in the 
+Down direction and trains travelling towards Limerick are travelling in the Up direction.  
+340 The maximum permitted line speeds, at the time of the incident, are 50 mph (80 km/h) between 
+Limerick and Ennis and 80 mph (128 km/h). There were a number of permanent speed 
+restrictions, and no temporary speed restrictions between Ennis and Athenry 
+341 The operation of the level crossings involved in the incident are managed by a LCCO at the 
+LCCC in Mallow, these operations will be discussed further in paragraphs 356 - 363. 
+### Fatalities, injuries and material damage 
+### Fatalities and injuries 
+342 There were no fatalities or injuries as a result of this incident. 
+### Material damage 
+343 Apart from the damage to the signalling system equipment as a result of the lightning strikes, 
+there was no other material damage to the infrastructure, rolling stock or signalling system as a 
+result of the SPAD. 
+
+## Página 114
+
+### Roles involved in the incident 
+### Roles directly involved in the incident 
+344   IÉ-RU roles associated with the incident are as follows: 
+ 
+Driver A780 – The train driver who was driving 05:55 hrs passenger service from Limerick 
+to Galway, who proceeded through Signal XE098DS without authority; 
+ 
+Limerick Station Controller – The person responsible for organising the EO for Level 
+Crossing XE071 and Level Crossing XE098. 
+345  IÉ-IM roles associated with the incident are as follows: 
+ 
+GLS – The Galway Line Signalman based in Athlone Local Control Centre, who is 
+responsible for controlling the route; 
+ 
+LCCO – The Level Crossing Control Operator located at Mallow LCCC who is responsible 
+for the operation of level crossings and associated signalling, such as Level Crossing 
+XE071 and XE098; 
+ 
+EO XE071 –  A Depot Person, based in Ennis, who was despatched to Level Crossing 
+XE071 Chipfield, to act as an EO; 
+ 
+EO XE098 – A Depot Person, based in Limerick, who was despatched to Level Crossing 
+XE098, Gortavogher, to act as an EO. 
+### Roles not directly involved in the incident 
+346 There are a number of roles not involved in the incident; the roles are as follows: 
+ 
+District Traction Executive (DTE) – In relation to driver, the DTE assists in the selection of 
+drivers, ensures the Competency Management System (CMS) is set up and maintained, 
+assesses and monitors drivers, manages issues surrounding the competence of drivers, 
+certifies newly qualified drivers, and manages the PQA process; 
+ 
+District Manager – Responsible for the management of Driver A780, post SPAD incident. 
+### External circumstances 
+347 The weather at the time of the incident as recorded by the Shannon Airport Met Éireann station, 
+located approximately 37 km south of the incident, was raining sleet and windy with a temperature 
+
+## Página 115
+
+of approximately 2.5° C. Met Éireann also recorded ten lightning strikes in County Clare on the 
+19th December 2013. 
+348 Driver A780 and EO XE098 stated that the weather conditions were extremely poor. EO XE098 
+stated that while he was en route to Level Crossing XE098 he considered returning to Ennis due 
+to the poor visibility and dangerous road conditions.   
+349 The visibility in the vicinity of the site of the incident was poor as a result of the darkness and 
+heavy rain. Driver A780 stated that it was difficult to orient his position on the track as there are no 
+identifiable landmarks in the area, and therefore drivers are completely dependent on the signals 
+at times of low visibility.  
+
+## Página 116
+
+### Evidence 
+### The Signalling System 
+### Signal XE098DS 
+350 Distant signal XE098DS, the signal that was passed at danger, is a two aspect signal mounted on 
+a standard height pole situated on the left hand side of the track close to the 36 MP. It is capable 
+of displaying single green and red aspects. It is not approach released and normally clears to a 
+green aspect on request from the LCCO at Mallow after the barriers at Level Crossing XE098 are 
+lowered and the crossing is observed to be clear by the LCCO, see Figure 45.  
+### Figure 45 – Distant Signal XE098DS 
+### Figure 46 – Signal XE098DD 
+### Signal XE098DD 
+351 The signal in rear of Signal XE098DS is Signal XE098DD. It is a two aspect signal mounted on a 
+standard height pole and situated on the left hand side of the line at 35 miles 461yds. It is capable 
+of displaying single yellow and green aspects, see Figure 46. It is located 1,188 m before Signal 
+XE098DS.  
+### Signalling Layout 
+352 The signalling layout, including Signals XE098DD and XE098DS, associated with the level 
+crossings is set out in Figure 47. 
+
+## Página 117
+
+### Figure 47 – Signalling layout associated in the vicinity of the level crossings 
+### Level Crossing Control  
+### Signalman Instructions – SGIs & Rule Book 
+353 Section 40, ‘Level Crossings – Cautioning of Trains’ of the SGIs, under Clause 40.2, ‘Instructions 
+at the Supervising or Controlling Signal Box’ states that “before clearing protecting signal(s) the 
+signalman must instruct the driver to approach the crossing cautiously and not pass over it 
+without first ensuring it is safe to do so”. This instruction is not specific to CCTV Level Crossings.  
+354 Section 41, ‘Automatic Half-Barrier Level Crossings (AHB) and Lights and Bells Level Crossings 
+(LB)’ states under Clause 41.8, ‘Failure of Crossing Equipment or Prolonged Occupation of Track 
+Circuits’, that “a driver only train (DO) must not be allowed to proceed into the section until an EO 
+has taken up duty or the driver is accompanied by a competent person who will take up the duties 
+of the guard in accordance with rule book section H clause 4.6.5”. It further highlights in red that 
+“during darkness or fog or falling snow, you must not permit a train to enter the section until the 
+EO has taken local control of the crossing”. These clauses do not appear to be relevant to CCTV 
+Level Crossing. However, there are no specific instructions in the case of the failure of CCTV 
+Level Crossings. 
+355 It should be noted, although some of this information is included in the SGIs, only the Signalmen 
+(i.e. not the LCCOs) are required to work under the instructions of the SGIs. 
+
+## Página 118
+
+### Level Crossing Control Centre 
+356 Mallow Level Crossing Control Centre (LCCC) has a number of touch screens available to 
+monitor and operate the level crossings in the area. Figure 48 shows the touch screen for 
+Gortavogher Level Crossing under normal operating conditions, with no train in the section; it is 
+displaying information in relation to the Up Distant (UD), Up Signal (US), Down Signal (DS) and 
+Down Distant (DD).  
+### Figure 48 – Screen shot from Gortavogher Touch Screen under normal conditions 
+357 The LCCO is normally alerted of the approach of a train towards the CCTV level crossing by “auto 
+initiation” where the passage of a train at a certain point activates an audible sound on the panel 
+at the LCCC. The barriers are then lowered automatically after a time interval, the LCCO then 
+checks that the level crossing is clear through the use of the CCTV, i.e. there are no objects or 
+persons inside the lowered barriers and presses the crossing clear button and the signals 
+associated with the level crossing are requested. The display to the LCCO is then extinguished. 
+### Level Crossing Control Centre Operations – General 
+358 Mallow LCCOs are required to operate under the Rule Book and the ‘Athlone & Mallow Crossing 
+Control Centres, Instructions for the Operation of Touch Screen Control Panels associated with 
+CCTV Level Crossings’ (LCCC Instructions) issued on the 3rd July 2013 by the IM Safety 
+Manager.   
+
+## Página 119
+
+### Level Crossing Control Centre Operations – LCCC Instructions 
+359 The LCCC Instructions is a fifty-nine page document. There is no index provided at the beginning 
+of the document and the pages are primarily made up of black and red text, with a limited number 
+of illustrations. See Figure 49 for the typical page layout in the LCCC Instructions. 
+### Figure 49 – Typical page from LCCC Instructions 
+
+## Página 120
+
+360 Section 6.0, ‘Fault/Failure Situations/Remedial Procedures’ outlines the procedures to be followed 
+by the Crossing Controller for fault and failure situations. Section 6.1, ‘List of Faults and Remedial 
+Procedures’ provides a table featuring faults and the associated remedial procedures.  
+361 However, the specific fault of a failure of controls and indications on the touch screen was not 
+referred to in the table, this is the fault which occurred on the day of the incident, where the UD, 
+US, DS and DD information was blank, see Figure 50. 
+These indications were blank 
+after the lightning strike 
+### Figure 50 – The signal information was blank after the lightning strike 
+362 Although not included in the table in Section 6.1, the fault is provided for in Section 6.6, ‘Failure of 
+Controls and Indications on the Touch Screen’; which states “The Signalman for the line must be 
+IMMEDIATELY advised of the failure and told not to allow a train to enter the section in which the 
+crossing is located until the Emergency Operator has arrived at the crossing and had verified that 
+it is in order to allow a train approach the crossing. The Crossing Controller7 must advise the 
+Technician8 IMMEDIATELY when such a fault occurs. An Emergency Operator must be 
+despatched to the crossing before a train enters the Section in which the crossing is located or 
+before a train has to pass a Station signal at Danger. When the Emergency Operator has arrived 
+7 LCCO 
+8 Signal Inspector, Signal Technician, Telecommunications Inspector or Telecommunications 
+Technician 
+
+## Página 121
+
+at the crossing and has taken the crossing out of REMOTE control and it subsequently becomes 
+necessary for the Crossing Controller to instruct a Driver to pass one of the stop signals at 
+Danger then this must only be carried out where the Crossing Controller has received an 
+assurance from the Emergency Operator that the crossing is closed to the public and clear for the 
+passage of the train. In this case also, the Driver of the train must be instructed by the Crossing 
+Controller or Signalman as the case maybe, to pass the signal at Danger and to proceed 
+cautiously over the crossing”. 
+363 Section 8, ‘Appointment of an Emergency Operator’ sets out the circumstances where there is a 
+requirement to send an EO to a level crossing, including “if the controls or indications on a touch 
+screen fail”. 
+### Instructions to Drivers  
+### General description 
+364 This section of the report reviews the standards, procedures and instructions for drivers during 
+CCTV Level Crossing failure.  
+### Instructions to Drivers 
+365 Section H, Clause 3.6, ‘What you must do if an irregularity or exceptional incident occurs’, of the 
+Rule Book, sets out a number of instructions for drivers in relation to actions to be taken during 
+irregular or exceptional circumstances.  
+366 Section H, Clause 3.6.7, ‘If your train is to pass over a level crossing where there is a failure or 
+incident’ states, for drivers, that “if told by the Signalman that there is a failure or incident affecting 
+a level crossing, you must approach the crossing cautiously and be prepared to stop short of it”.  
+367 Section H, Clause 3.6.1, ‘If you observe something which might endanger trains’, states that if the 
+train may be in danger, “you must stop immediately”. This would include where a train travels 
+through a level crossing with the barriers raised to road traffic. 
+### Training & competence management of Driver A780 
+### Driver A780 
+368 Part 3 discussed the selection, training and competency management of drivers, under the IÉ’s 
+RU Operations SMSs. 
+369 Driver A780 commenced driver basic training programme on 25th April 2000 and completed the 
+training centre module of training on 8th October 2000. The driver qualified on 30th September 
+2001 and the DTE recorded that Driver A780 had a high standard of driving and did not identify 
+
+## Página 122
+
+any areas of concern. Following on from the training, Driver A780, according to IÉ, had an 
+“exemplary record of driving over a thirteen year period”. 
+370 In relation to Driver A780’s route knowledge of the Ennis to Athenry line, Driver A780 completed 
+route learning for this line on the 15th April 2010, which included a briefing and assessment on 
+route and the SPAD risks for the route. As part of this assessment, the DTE indicated on the 
+assessment report that Driver A780 obeyed all PSRs and TSRs, maintained line speed and used 
+defensive driving techniques when approaching signals displaying a caution aspect. Driver A780 
+underwent a further practical assessment over the Ennis to Athenry line on 17th November 2013, 
+a month prior to the incident and a similar standard was achieved.  
+### Training & competence management of the GLS 
+371 The GLS completed basic training and was passed competent as a Signalman in the Athlone 
+PCECP on 29th June 2007. The GLS completed a TCB rules refresher from 7th - 9th January 2013 
+inclusive and received positive feedback from the trainer at the training school Inchicore. 
+372 The GLS completed advanced railway safety communications training on 18th February 2011 and 
+was assessed for railway safety communications. 
+### Training & competence management of the LCCO 
+373 The LCCO at Mallow was trained and passed competent as an LCCO on 9th March 2009. He did 
+not have any medical or work restrictions. The LCCO was monitored on three occasions during 
+2012 and there were no follow up actions recorded or for review. 
+374 The LCCO commenced current twenty-four month assessment cycle on 1st May 2013 and had an 
+assessment on the 5th November 2013 (the month before the incident) where no issues for review 
+were noted. 
+### Training & competence management of EO XE098 
+375 EO XE098 was trained and passed competent as an EO for CCTV level crossing on the 16th 
+October 2012. A rules assessment was completed on 8th October 2013 and monitored on CCTV 
+level crossing barrier operation on 10th October 2013 (two months before the incident). 
+
+## Página 123
+
+### Sequence of events 
+### General description 
+376 This section outlines the key events, leading up to, during and after the incident. 
+### Events before the incident 
+377 The LCCO booked on duty at 22:30 hrs on the 18th December, sufficiently rested and was 
+carrying out his duties without incident. 
+378 At approximately 04:45 hrs on Thursday 19th December 2013 there were a number of lightning 
+strikes in the vicinity of three CCTV Level Crossings:  Level Crossing XE071 at Chipfield, Level 
+Crossing XE098 at Gortavogher and Level Crossing XE136 at Kiltartan. The lightning damaged 
+the Relocatable Equipment Building (REB), Location Cases LC1 and LC3 and axle counter 
+trackside equipment, including fuses, converters, indications and cards which resulted in the 
+following equipment not functioning: 
+ 
+Signal XE098US – which was not displaying any aspect; 
+ 
+Signal XE098DS – which was not displaying any aspect; 
+ 
+Signal XE098DD – which was not displaying any aspect; 
+ 
+Crossing Pedestal Controls – which failed to show any indications; 
+ 
+Axles Counter Track A&B – which were showing as occupied; 
+ 
+Road Traffic Lights – which were not illuminating. 
+379 In addition, faults were recorded on the train radio system from the 29 MP to the 53 MP, with the 
+radio bases at Crusheen, Gort and Ardrahan going offline.  
+380 At approximately the same time (04:45 hrs) the LCCO received a fault indication on three CCTV 
+Level Crossings: Level Crossing XE071 at Chipfield, Level Crossing XE098 at Gortavogher and 
+Level Crossing XE136 at Kiltartan.  
+381 At 04:55 hrs Driver A780 booked on for duty, he was fit for duty and sufficiently rested. He was to 
+travel on train A780 from Limerick to Ennis and then operate the train from Ennis to Galway.   
+382 At 05:00 hrs the GLS booked on duty, he was fit for duty and sufficiently rested. 
+383 At 05:24 hrs the MLS received the call from the LCCO. The MLS took this call for the GLS as the 
+GLS was away from his console on a Personal Needs Break (PNB), the MLS left the details for 
+the GLS in a note.  
+
+## Página 124
+
+384 The GLS then contacted the Galway Station Controller to arrange an EO for Level Crossing 
+XE136. As the LCCO felt that the faults were serious, he requested from the GLS, two other EOs 
+for Level Crossing XE071 and Level Crossing XE098. As the GLS did not have the contact details 
+for the Station Controller Limerick, the LCCO contacted the Limerick Station Controller to request 
+two EOs for Level Crossing XE071 and Level Crossing XE098. Although the LCCO informed the 
+GLS of the requirements for EOs at all three level crossings, he did not advise the GLS to prevent 
+trains from entering the affected area until the EOs arrived on site. (Section 6.6 of the Athlone & 
+Mallow Crossing Control Centres Instructions requires that the EO verify that a level crossing is in 
+order prior to allowing a train to approach). 
+385 The Limerick Station Controller organised two EOs for Level Crossings XE071 and Level 
+Crossing XE098. 
+386 Prior to leaving Limerick Station, to operate the 05:55 hrs passenger service from Limerick to 
+Ennis, Driver A780 was informed, by the Limerick Station Controller, that there would be EOs 
+present at Level Crossing XE071 and Level Crossing XE098 due to the level crossings being out 
+of order. 
+387 At 06:20 hrs EO XE098 signed out the keys for Level Crossing XE098 and travelled by car to the 
+level crossing. EO XE071 also signed out the keys for Level Crossing XE071 at around this time. 
+388 Train A780 arrived in Ennis at 06:35 hrs and Driver A780 carried out a number of station duties, 
+such as dividing the train. While at the station, EO XE071 met Driver A780 and told him that he 
+was going to Level Crossing XE071 to act as EO and that there would be another EO present at 
+Level Crossing XE098. EO XE071 then signed out the keys for Level Crossing XE071 and 
+travelled by car to Level Crossing XE071. 
+389 At 06:47 hrs the GLS contacted Driver A780 prior to setting the route for Train A780 to allow 
+travel from Ennis to Gort. The GLS advised Driver A780 that there were problems at Level 
+Crossing XE071 and XE098 which were in the section that GLS was going to set the route (i.e. to 
+allow Train A780 to enter the Ennis to Gort section), and that EOs were enroute. The GLS also 
+stated that he would contact him when he arrived in Gort in relation to Level Crossing XE136.  
+### Events during the incident 
+390 The GLS then contacted the LCCO is relation to the EOs. The LCCO informed the GLS that the 
+EO XE071 and EO XE098 were not in place. The GLS then set the route (i.e. to allow Train A780 
+enter and travel from Ennis to Gort). 
+
+## Página 125
+
+391 The EO XE071 arrived at Level Crossing XE071. Using the local control panel, he set the level 
+crossing to local operation.  
+392 Train A780 was cleared to enter the section and departed Ennis at 06:50:45 hrs. On the approach 
+to Level Crossing XE071, Driver A780 observed Signal XE071DD displaying a yellow aspect, see 
+Figure 51. 
+### Figure 51 – Train A780 approaching XE071DD at caution 
+393 Driver A780 reduced the speed of the train and stopped at Signal XE071DS which was displaying 
+a red aspect, see Figure 52. Driver A780 contacted the LCCC by lineside telephone who advised 
+him that EO XE071 was in place at Level Crossing XE071 and the signal should upgrade shortly. 
+
+## Página 126
+
+Figure 52 – Train A780 stopped at Signal XE071 with the EO onsite taking local control of 
+### Level Crossing XE071 
+394 Soon afterwards EO XE071 received the initiation for Train A780. He lowered the barriers 
+(against road traffic) and contacted the LCCO to inform him that Level Crossing XE071 was safe 
+for the passage of Train A780. Train A780 travelled through the level crossing without incident. 
+395 At approximately 07:00 hrs EO XE098 arrived at Level Crossing XE098 and contacted LCCO to 
+tell him that there was no power and the barriers would have to be worked manually. The LCCO 
+requested that EO XE098 open the cases at each barrier (four cases in total), to allow the barriers 
+to be worked manually, and then contact the LCCO.  
+396 At Level Crossing XE071, at 07:01:31 hrs Signal XE071DS cleared to display a green aspect and 
+Train A780 continued and travelled over Level Crossing XE071 without incident, see Figure 53.  
+
+## Página 127
+
+Figure 53 – Train A780 travelling through Level Crossing XE071 with the barriers lowered  
+397 EO XE071 observed the tail lights of Train A780 and contacted LCCO to advise that the barriers 
+had returned to the raised position and that Level Crossing XE071 was clear for road traffic, see 
+Figure 54. 
+Figure 54 – EO XE071 raises the barriers after Train A780 has past and Train A780 
+### continues towards Level Crossing XE098 
+
+## Página 128
+
+398 After Train A780 passed over Level Crossing XE071 it accelerated to a maximum speed of 69 
+mph (112 km/h) which was below the maximum line speed. However, Driver A780 did not 
+observe the 60 mph (96 km/h) PSR between 33 ¾ to 34 MPs where the train speed was 
+approximately 5 mph (8 km/h) in excess of the PSR, after the 34 MP Driver A780 did comply with 
+the PSR.  
+399 As Train A780 approached Level Crossing XE098, Distant Signal XE098DD was not displaying 
+any aspect. Due to the poor weather Driver A780 did not see the signal and as a result did not 
+slow down; and continued past the signal ‘at Danger’, see Figure 55. 
+Figure 55 – Train A780 travels past Signal XE098DD (which is not showing any aspect) 
+without authority 
+400 As Driver A780 continued towards Level Crossing XE098 he saw the street lights and he saw that 
+Stop Signal XE098DS was not displaying any aspect. Train A780 is travelling at 67 mph (106 
+km/h). On seeing the Signal XE098DS Driver A780 applies the emergency brakes and sounded 
+the train horn.  
+401 EO XE098, who is in the process of opening the final case at one of the barriers, hears the train 
+horn and looks up to see the headlight of Train A780.  
+402 Train A780 travels past Signal XE098DS without authority and through Level Crossing XE098 
+with the barriers raised to road traffic. There is no road traffic using the crossing at the time of the 
+incident. Train A780 is travelling at 58 mph (98 km/h), see Figure 56. 
+
+## Página 129
+
+Figure 56 – Train A780 passes Signal XE098 DS without authority and through Level 
+### Crossing XE098 with the barriers raised to road traffic. 
+### Events after the incident 
+403 The LCCO sees Train A780 travelling through Level Crossing XE098 with the barriers raised. EO 
+XE078 immediately contacts the LCCO, who in turn transfers him to his Supervisor, and the 
+LCCO informs the Supervisor that Train A780 has travelled through Level Crossing XE098 while 
+the barriers were raised to road traffic. 
+404 Approximately twenty seconds after Driver A780 applied the emergency brakes Driver A780 
+releases the emergency brakes and applies power to the train. Train A780 is travelling at 29 mph 
+(47 km/h).  
+405 At 07:11 hrs the LCCO contacts the GLS to inform him that Train A780 has travelled through 
+Level Crossing XE098 while the barriers are raised to road traffic. The GLS attempts to contact 
+Driver A780, but this is unsuccessful as the radio system is offline due to the lightning strikes. The 
+GLS sets the next signal, GL458, to danger. The GLS then contacts the Regulator at CTC  and 
+informs the Limerick District Manager of the incident. 
+406 Train A780 continues past Level Crossing XE098 and attempts to contact the GLS, however, the 
+radio system was offline as a result of the lightning strikes. Train A780 travels for a further 11 km 
+observing the speed limits and comes to a stop at the next signal displaying a red aspect, Signal 
+GL458 at Gort. Driver A780 contacts the GLS from the SPT. The GLS tells him not to move the 
+
+## Página 130
+
+train and requests his mobile phone number, which in turn he gives to the Limerick District 
+Manager. 
+407 The Limerick District Manager contacts Driver A780 to discuss the incident and assess the fitness 
+of Driver A780 to move Train A780 to Gort Station. The Limerick District Manager assesses 
+Driver A780 as fit and requests that the GLS set the route into Gort Station. The GLS contacts 
+Driver A780 to tell him of the movement and upgrades GL458 to a proceed aspect. Train A780 
+arrives in Gort Station without further incident. 
+408 On arrival at Gort Station Driver A380 was relieved of duty and returned back to Limerick where 
+he was screened for Drugs & Alcohol in line with IÉ company policy and the results were returned 
+as negative. 
+### Similar occurrences 
+### General information 
+409 Since January 2012 to June 2015 there have been seven other SPADs during degraded train 
+operations; these SPADs are as follows:  
+SPAD at XW038US, Blackbog Level Crossing, on the 16th May 2012 (level crossing faults); 
+ 
+SOY SPAD at GL353, Athenry, on the 10th July 2013 (Working of Single Lines by Pilotman 
+ 
+(WSLP)); 
+SPAD at RC874, Charleville, on the 18th August 2013 (possession works); 
+ 
+SPAD at LJ348, Limerick Junction, on the 25th August 2013 (possession works); 
+ 
+SPAD at GL354, Athenry, on the 16th November 2013 (Regulation 11.7 in place at time of the 
+ 
+SPAD); 
+SAS SPAD at SAOIB, Limerick, on the 24th September 2014 (possession works); 
+ 
+SAS SPAD at Signal XX062, Shanclough Level Crossing, on the 15th January 2015 (level 
+ 
+crossing faults). 
+410 These SPADs are discussed in detail in ‘Part 8 – A Review of All Category A SPADs (January 
+2012 – June 2015)’ of this report. 
+
+## Página 131
+
+### Analysis 
+### Signalling system 
+411 The signalling system was not in full working order on the day of the incident as a result of 
+lightning strikes in the area, whereby the screen in the LCCO were showing failures for three level 
+crossings, including Level Crossing XE098 (paragraph 378). 
+### Rule Book 
+412 Section 3.5, ‘Observance of Signal Failures or Irregularities’ in the ‘Instructions to Drivers’ section 
+of the Rule Book is clear and unambiguous regarding observance of signals that are not 
+displaying any aspect i.e. they should be treated as displaying a danger aspect.  
+### Driver Competency 
+413 Driver A780 was competent to drive this class of train, his training and mentoring was fully up to 
+date and he is considered to have “exemplary record of driving over a thirteen year period”. He 
+had completed the route knowledge for this section of track in 2010 and had undergone a 
+practical assessment over the Ennis to Athenry Line in the month before the incident. 
+414 Driver A780 was aware that signals not displaying any aspect should be treated as at danger. 
+### Actions of Driver A780 on the day of the incident 
+415 Driver A780 was informed that there were issues with three level crossings and as he was 
+signalled into the Ennis to Gort Section of track he was aware that he would approach two of 
+these level crossings. Driver A780 was not informed of the full extent of the faults at the level 
+crossings prior to departing Ennis.  
+416 Section H, Clause 3.6 of the Rule Book states that where, informed by the Signalman, that there 
+is a failure affecting the level crossing, drivers must approach the level crossing “cautiously and 
+be prepared to stop short of it”. Driver A780 did not follow this instruction as he approached the 
+level crossing at 69 mph (112 km/h); nor apply any defensive driving techniques to manage the 
+risks associated with the failed level crossings. Driver A780 also had not realised that he was at 
+the level crossing until he was on it, this was due to the poor weather conditions, which resulted in 
+him losing situational awareness as to location in terms of the level crossing. 
+
+## Página 132
+
+417 In addition, on travelling through the level crossing Driver A780 did not stop immediately (as 
+required under Section H, Clause 3.6.1), but only slowed the train for a period and continued 
+travelling for over 11 km past the level crossing. 
+### Actions of the LCCO on the day of the incident 
+418 Section 6.6 of the LCCC Instructions require that the LCCO must immediately advise the 
+Signalman (in this case the GLS) of the failure of level crossings and tell the Signalman not to 
+allow any trains to enter the section in which the level crossing(s) are located until an EO has 
+arrived at the level crossing and has verified that it is in order (to allow a train approach the 
+crossing).  
+419 On the day of the incident, the LCCO did inform the GLS of the faults at the level crossing, but did 
+not tell him not to allow trains into the section where the level crossings were situated. The LCCO 
+stated that he was not aware of this requirement, and was not familiar with the LCCC Instructions 
+and that LCCOs were trained using the Rule Book, with little emphasis on the LCCO Instructions. 
+The Rule Book does not include the requirement for the LCCO to tell the Signalman not to allow 
+trains into the section of track with faulty level crossings. 
+420 It was the LCCOs understanding that he was not responsible for the decision to allow trains into 
+the section; and that the decision would be made by the GLS when informed of the situation with 
+the faulty level crossings; this understanding appears to exist due to the GLS being a more senior 
+grade than that of the LCCO. 
+421 It is the understanding of the RAIU that the majority of LCCOs were not aware of this instruction, 
+included in the LCCO Instructions, at the time of the incident and it has since been briefed to the 
+LCCOs and notices have been placed at all workstations at the LCCC of this requirement. 
+### Actions of the GLS on the day of the incident 
+422 The GLS did not fully appreciate the severity of the faults at the level crossings. This was as a 
+result of the LCCO also being unclear of the situation as the EOs had not arrived at the level 
+crossings.  
+423 The GLS allowed the trains enter the section with the faulty level crossings, despite knowing that 
+EOs were enroute to the level crossings to assess their status. 
+
+## Página 133
+
+### Conclusions  
+### Immediate cause, contributory factors and underlying factors 
+### Immediate cause 
+424 The immediate cause of the Driver A780 travelling past signal XE098DS at danger was that the 
+GLS allowed Train A780 into the section of track where it was known there was two faulty level 
+crossings, as the LCCO have not told the GLS not to allow trains into the section until the EOs 
+had arrived at the level crossings and had verified that they were in order to allow a train 
+approach. 
+### Contributory factors 
+425 Contributory factors to Train A780 passing Signal XE098DS were: 
+ 
+CF-07 – Driver A780 had not travelled toward Level Crossing XE098 cautiously (or applied 
+any defensive driving techniques), as set out in the Rule Book, as he had an incorrect 
+expectation that he would approach Level Crossing XE098 with the signals operational; 
+ 
+CF-08 – The visibility of the signals was affected by the adverse weather conditions, which 
+resulted in Driver A780 losing situational awareness as to his location in terms of the level 
+crossing and resulting in him, not seeing Signal XE098DS until it was too late to stop;  
+ 
+CF-09 – The LCCO was not familiar with the LCCC instructions, which resulted in him not 
+telling the GLS not to allow trains into the section until the EOs had local control. In addition, 
+the LCCO was not aware that he had to get the EO to verify the status of the level crossing; 
+ 
+CF-10 – The GLS did not fully appreciate the role of the EO and was not aware that EOs 
+were required to verify the status of the level crossing (to the LCCO) before allowing trains to 
+approach them. 
+### Underlying causes 
+426 Underlying causes to the SPAD are: 
+ 
+UC-03 – The LCCC Instructions are not user friendly, which has resulted in the LCCOs 
+reverting to the Rule Book which is not fully comprehensive in terms of the operation of CCTV 
+level crossings; 
+ 
+UC-04 – The roles and responsibilities of the LCCOs and the Signalman are not fully 
+established, in that the LCCOs appear to have gained more responsibility over recent years, 
+which is not supported by any documentation. 
+
+## Página 134
+
+### Root causes 
+427 The root cause to the SPAD are: 
+ 
+RC-02 – Role of the LCCO and GLS do not appear to be fully outlined in any formal 
+documentation. 
+
+## Página 135
+
+### PART 7 – SPAD at Signal WL167, Muine Bheag, 9th April 2013  
+### Introduction 
+428 This part of the report will investigate the SPAD at Muine Bheag on the 9th April 2013. Category A 
+SPAD events similar to the SPAD at Muine Bheag, such as SAS and SOY SPADs, will be 
+discussed in ‘Part 8 – A Review of All Category A SPADs (January 2012 – June 2015)’ of this 
+report. This part will outline the evidence found as part of the investigation, the analysis of this 
+evidence, and the conclusions found as part of the investigation. Any additional observations 
+made as part of this investigation will be outlined in ‘Part 11 – Additional Observations’. Actions 
+taken, by IÉ, as a result of the SPAD at Muine Bheag and similar SPADs will be outlined in ‘Part 
+13 – Relevant Actions Taken or In Progress’. RAIU safety recommendations, related to this 
+incident and similar occurrences; or related to additional observations, are made in ‘Part 14 – 
+Safety Recommendations’ of this report. 
+### The incident 
+### Summary of the incident 
+429 At approximately 11:19 hrs on the 9th April 2013, the 10:15 hrs passenger service from Heuston to 
+Waterford (Train A504) approaches Muine Bheag Station with Signal WLR161 displaying a 
+double yellow aspect and Signal WL161 displaying a single yellow aspect with a route indicator 
+onto the loop; this was as a result of Signal WL167 (on the exit of the station) displaying a red 
+aspect. This was not the normal signalling sequence on the approach to Muine Bheag Station, 
+when there were no trains crossing. 
+430 Train A504 was travelling with a driver and trainee driver and arrived as signalled into the loop 
+platform. After performing a number of platform duties, such as ensuring all passengers 
+disembarked and boarded the train safely, the Person in Charge (PIC) gave the ‘Station Works 
+Complete’ for the driver to close the doors; and the ‘Ready to Start’ indication despite seeing that 
+Signal WL167 was displaying a red aspect. The trainee driver saw these indications and the 
+driver saw the indications on the in-cab MMI screen. The driver did not look at Signal WL167, 
+which is positioned approximately 215 m off Muine Bheag Station Platform. 
+431 At approximately 11:23 hrs the driver then started Train A504, departing Muine Bheag Station, 
+both the driver and trainee driver may have been engaged in casual conversation while departing 
+the station. On approaching Signal WL167, approximately 20 m from the signal, the driver saw 
+that Signal WL167 was displaying a red aspect and immediately applied the emergency brake, 
+
+## Página 136
+
+coming to a stop approximately 5 m past Signal WL167. The signalman contacted the driver on 
+the train radio to inform him he had passed Signal WL167 at danger and not to move the train.   
+432 This SPAD was assigned an SRR of 17. 
+### Roles involved in the incident 
+### Roles directly involved in the incident 
+433 There are a number of roles involved in the incident, the IÉ-RU roles are as follows: 
+ 
+Driver A505 – The train driver who was driving the 10:15 hrs passenger service from Heuston 
+to Waterford (Train A504) when it passed Signal WL167 at danger, without authority. He was 
+not the driver rostered to drive the train, he had taken over driving duties at Carlow, as a 
+result of local arrangements between drivers; 
+ 
+Trainee Driver – A trainee driver who was under the care of IÉ’s Driving Training School and 
+was travelling in the driving cab on routine in-cab familiarisation at the time of the incident; 
+ 
+Driver A503 – The driver who was rostered to drive the 10:15 hrs passenger service from 
+Heuston to Waterford (Train A504). He stopped driving duties at Carlow, as a result of local 
+arrangements between drivers; 
+ 
+PIC Muine Bheag – Person authorised to give the ‘Station Works Complete’ and ‘Ready to 
+Start’ indications to drivers, who on the day of the incident gave the ‘Ready to Start’ indication 
+despite being aware that Signal WL167 was at danger. 
+434 The IÉ-IM roles are as follows: 
+ 
+Waterford/Tralee Signalman – Signalman based in CTC, who is responsible for controlling the 
+route. 
+### General description of the railway 
+### Infrastructure 
+435 The line between Cherryville Junction and Waterford is single track which is worked bi-
+directionally.  
+
+## Página 137
+
+436 Muine Bheag Station is a two platform station located at the 66 MP, see Figure 57. The station 
+building and ticket office is located on the loop and the 10:15 hrs passenger service from Heuston 
+to Waterford normally serves the loop platform.  
+### Rolling stock 
+437 The train involved in the incident were the 10:15 hrs Heuston to Waterford passenger service 
+(Train A504). The train was a six-carriage DMU 22000 railcar consisting of carriages 22335, 
+22435, 22535, 22635, 22735 and 22135; unit 22335 was the leading carriage at the time of the 
+incident. The train was fitted with an OTDR. 
+438 No factors associated with the rolling stock were found to have contributed to the incident. 
+### Signalling and communications 
+439 The single track route from Cherryville to Waterford is signalled using two aspect colour light 
+signals, controlled by the Waterford/Tralee Signalman based in CTC at Connolly Station, Dublin.  
+440 TCB regulations apply to this route and train detection over the part of the route involved in the 
+incident is achieved by axle counters. The signalling layout for Muine Bheag Station is illustrated 
+below, see Figure 57. 
+Signal WL167 
+### Figure 57 – Signalling layout for Muine Bheag Station 
+441 The means of communication between train drivers and the Signalman on this route is via train 
+radio. Lineside signal telephones are also available.  
+
+## Página 138
+
+### Operations 
+442 The section where the incident occurred is not fitted with CAWS, ATP or other form of enhanced 
+train overrun protection.  
+443 The maximum permitted speed exiting the station is 40 mph (64 km/h) and 30 mph (48 km/h) on 
+the loop.  
+444 The rostered arrangements for the Waterford – Heuston services are as follows: 
+ 
+Two drivers are rostered to drive the first two passenger services from Waterford to Heuston 
+stations every weekday, the 06:05 hrs (Train A503) and the 07:10 hrs (Train A505) passenger 
+services; 
+ 
+The driver of the 06:05 hrs passenger service from Waterford to Heuston (Train A503) is then 
+required to drive the 10:15 hrs passenger service from Heuston to Waterford (Train A504), in 
+full; 
+ 
+The driver of the 07:10 hrs passenger service from Waterford to Heuston (Train A505) is then 
+required to work special or receive a home pass and travel passenger on the 10:15 hrs 
+passenger service from Heuston to Waterford (Train A504). 
+445 However, a local arrangement started in January 2013, whereby: 
+ 
+The drivers rostered to work the first two passenger services from Waterford to Heuston 
+stations every weekday, the 06:05 hrs (Train A503) and the 07:10 hrs (Train A505) passenger 
+services, worked these services in full; 
+ 
+The driver who was rostered to work the 10:15 hrs passenger service from Heuston to 
+Waterford (Train A504) would drive this service from Heuston to Carlow, and travel passenger 
+from Carlow to Waterford; 
+ 
+The driver who was rostered to travel passenger on the 10:15 hrs passenger service from 
+Heuston to Waterford (Train A504) would travel passenger from Heuston to Carlow, and then 
+drive the train from Carlow to Waterford. This would allow the driver with the earlier starting 
+time have a break.  
+446 These arrangements (rostered and local) are illustrated below in Figure 58, where illustrates 
+where drivers are driving; and indicates where drivers are travelling passenger. On the day of 
+the incident, Driver A503 and Driver A505 operated under the local arrangements.  
+Service 
+Rostered Arrangement 
+Local Arrangement 
+Driver 1 
+Driver 2 
+Driver 1 
+Driver 2 
+
+## Página 139
+
+
+ 
+A503 (06:05 hrs Waterford – Heuston) 
+- 
+- 
+ 
+ 
+A505 (07:10 hrs Waterford – Heuston) 
+- 
+- 
+ 
+
+ 
+ 
+A504 (10:15 hrs Heuston – Waterford) to Carlow 
+ 
+ 
+ 
+ 
+A504 (Carlow – Waterford) from Carlow 
+Figure 58 – Rostered & local arrangements for Waterford – Heuston – Waterford services 
+447 Although this arrangement started in January 2013, the District Manager and the DTE were not 
+aware of this arrangement. 
+### Fatalities, injuries and material damage 
+### Fatalities and injuries 
+448 There were no fatalities or injuries as a result of this incident. 
+### Material damage 
+449 There was no material damage to the infrastructure, rolling stock or signalling system as a result 
+of this incident. 
+### External circumstances 
+450 The weather on the day of the incident, as recorded by Met Éireann, was fine, dry and bright with 
+temperatures between 3 – 6° C.  
+451 No factors associated with the weather conditions are thought to have contributed to the incident. 
+
+## Página 140
+
+### Evidence 
+### Signalling  
+### General information 
+452 Signal WL167 is located approximately 215 m off the platform on the right hand side exiting Muine 
+Bheag Station. It is a two aspect signal mounted on a standard height pole that can display a red 
+or green aspect, see Figure 59. Signal WL167 is the starting signal for the Muine Bheag to 
+Kilkenny section. The sighting meets the requirements set out in I-SIG-2043. 
+### Figure 59 – Signal WL167 & sighting from cab of Signal WL167 
+453 Muine Bheag Station Platform is a curved platform, see Figure 61. As a result the PIC has to be in 
+a position where he/she can see Signal WL167 (Figure 60), and the driver, prior to giving the 
+‘Ready to Start’ indication.   
+
+## Página 141
+
+Signal WL167 
+### Figure 60 – PIC’s view from platform of Signal WL167 
+454 The driver should also be able to acknowledge the ‘Station Work Complete’ and ‘Ready to Start’ 
+signals given by the PIC, see Figure 61, for a view of the PIC taken adjacent to the driving cab. 
+The ‘Station Work Complete’ and ‘Ready to Start’ indications will be discussed in paragraphs 457 
+- 463. 
+PIC 
+### Figure 61 – Curved platform & driver’s view of PIC 
+
+## Página 142
+
+### Instructions to drivers in relation to SAS & SOY SPADs 
+455 The Professional Driving Handbook includes typical errors and error prevention techniques in 
+relation to avoiding SAS and SOY SPADs in Section 5.1 ‘Avoiding start against SPADs’. Typical 
+errors include not checking the signal, assuming it is off; and failure to control distraction. The full 
+list is provided in Figure 62. 
+456 This section also provides techniques to avoid SAS and SOY SPADs, these include (for the full 
+list see Figure 62) the checking of the signal prior to receiving the ‘Ready to Start’ signal, stating 
+“Do not look for the ‘ready to start’ signal until the ‘platform starting signal’ has been cleared”. IÉ 
+have developed the saying “Remember – When the signal is red don’t stick out your head”.   
+Figure 62 – Extract from Professional Driver’s Handbook – Avoiding Start Against SPADs 
+
+## Página 143
+
+### ‘Station Work Complete’ & ‘Ready to Start’ Signals   
+### Instructions & Risk Assessments for PICs 
+457 Section H, 5.0, ‘Instructions to Persons in Charge’ sets out the requirements for PICs in relation to 
+starting trains from platforms under Clause 5.3, ‘What you must do when starting a train from a 
+platform’. Clause 5.3.2, ‘Driver Only trains with power-operated doors’ requires that the PIC may 
+give the ‘Station Work Complete’ signal to the driver when the station work is complete and the 
+doors are ready for closing. 
+458 The PIC may give the ‘Train Ready to Start’ signal when the PIC has checked that all doors are 
+properly closed and that the train is safe to start. Clause 5.3.4, ‘Where a signal applying to the 
+starting of the train is provided’, states that: “where practicable, you must check that this signal 
+has been cleared before giving any signal to the Guard or Driver concerning the starting of any 
+train”. 
+459 PICs are also provided with a Prompt Card (as discussed briefly in paragraph 225) which should 
+be used in conjunction with Section H of IÉ’s Rule Book. This Prompt Card sets out the correct 
+procedure for despatching trains, see Figure 63. The correct despatch procedure includes that the 
+PIC should “check (where possible) that the starting signal is off9”. 
+### Figure 63 – Platform Train Interface & Despatch Procedure Prompt Card 
+9 “Starting signal is off” is a term used by IÉ to say that the signal is indicating a proceed aspect.  
+
+## Página 144
+
+460 The Prompt Card also identifies a number of ‘Typical Hazards’ at the platform train interface and 
+‘Tips to Reduce Risks’ when despatching trains, see Figure 64 and Figure 65, respectively. 
+### Figure 64 – Typical Hazards 
+461 One of the hazards includes the difficultly of seeing the signal, although this is specific to curved 
+platforms. And one of the tips includes ‘ensure you have a clear view of… the starting signal’.  
+### Figure 65 – Tips to reduce risk 
+462 The ‘danger aspect’ (red signal) has not been specifically identified as a hazard or the risk 
+associated with giving the ‘Ready to Start’ signal against a danger aspect has also not been 
+identified. 
+463 In the risk assessment for Muine Bheag Station, there are no risks identified with the ‘Station 
+Work Complete’ and ‘Ready to Start’ signals. 
+
+## Página 145
+
+### Instructions to Drivers 
+464 As mentioned previously, Section 5.1, ‘Avoiding start against SPADs’ of the Professional Driving 
+Handbook gives the following instruction to drivers “Do not look for the ‘ready to start’ signal until 
+the ‘platform starting signal’ has been cleared”. It also identifies the role of the PIC and that “not 
+checking the signal, assuming it is off” is a typical error for SAS SPADs. 
+### Training & Competency Management 
+### Driver A505 
+465 Driver A505 was passed as competent in October 2005 and received his last FDA in March 2013 
+where there were no issues identified. 
+466 Driver A505 was familiar with the EPTs from the Professional Drivers Handbook and the EPTs, 
+however, he had not applied any of these techniques on the day of the incident.  
+### PIC Muine Bheag 
+467 PIC was confirmed to be a competent staff member who was passed competent as a PIC Muine 
+Bheag in 2006 and who received his last refresher training in 2012. 
+468 The PIC Muine Bheag was familiar with Prompt Card for the despatch of trains. 
+### Trainee Driver 
+469 The Trainee Driver was in his third week of training with IÉ’s driver training school and as such 
+had no formal competencies. He had been briefed on his role in the driving cab (i.e. not to distract 
+the drivers). 
+### Trainee Drivers Familiarisation 
+470 Trainee drivers travel with lead drivers in the cab to become familiar with the driving experience. 
+Trainee drivers are told not to talk to drivers on the approach to stations or signals. They are not 
+required to perform any duties in the cab and they are not required to check the signals.  
+
+## Página 146
+
+### Sequence of Events 
+### Events before the incident 
+471 A system had developed in January 2013 whereby local drivers informally swapped driving 
+rosters. 
+472 Driver A505 booked on duty at 06:10 hrs on the 9th April 2013 and read his notices for the day, 
+including the Weekly Circular which included a TRV crossing at Muine Bheag Station (which was 
+not a normally scheduled movement). 
+473 Driver A505 commenced driving duties with the 07:10 hrs passenger service from Waterford to 
+Heuston. Driver A505 took a personal needs break on arrival at Heuston. Here, Driver A505 
+discussed driving duties with Driver A503 (rostered to driver the 10:15 hrs passenger service from 
+Heuston to Waterford) and it was agreed between the drivers that Driver A505 would take over 
+driving duties at Carlow to allow Driver A503 to have a break. 
+474 At 10:05 hrs the TRV departed Waterford; the TRV was scheduled to cross Train A304 at Muine 
+Bheag Station. 
+475 At 10:15 hrs Driver A503, accompanied by Trainee Driver, departed Heuston (towards Waterford).   
+476 On the journey to Waterford, at Carlow Station, Driver A505 entered the cab and took over driving 
+duties for the remainder of the journey to Waterford. Driver A503 went to sit in the train saloon. 
+The Trainee Driver remained in the driving cab with Driver A505.  
+477 At 11:11 hrs Driver A505 departed Carlow Station.  
+478 At 11:18:30 hrs the TRV was due to arrive at Muine Bheag Station and cross with Train A504, 
+however, the TRV was delayed.  
+479 At 11:19:00 hrs, on the approach to Muine Bheag Station, Train A504 passes Signal WLR161 
+displaying a double yellow aspect. At 11:19:49 hrs Train A504 passes Signal WL161 displaying a 
+single yellow aspect. At 11:21:52 hrs Train A504 arrives at Muine Bheag Station, see Figure 66 
+for a signalling sequence on Train A504’s approach to Muine Bheag Station & Platform (located 
+on the crossing loop). Signal WL167 was displaying a red aspect.  
+
+## Página 147
+
+Figure 66 – Signalling sequence for Train A504 & TRV on approaches to Muine Bheag 
+480 After performing a number of platform duties, such as ensuring all passengers disembarked and 
+boarded the train safely, the PIC Muine Bheag gave the ‘Station Works Complete’. The Trainee 
+Driver relayed this information to Driver A505, who requested that the Trainee Driver close the 
+doors (as the controls were on the Trainee Driver’s side of the cab). 
+481 After the doors had closed, the PIC Muine Bheag gave the ‘Ready to Start’ indication, despite 
+seeing that Signal WL167 was displaying a red aspect (danger). 
+482 At approximately this time, the TRV had been given the proceed aspect (Signal WL168) into 
+Muine Bheag Platform, Figure 66. 
+483 The Trainee Driver saw the ‘Ready to Start’ indication and said to Driver A505 that he “was clear 
+to go” or something to that effect. Driver A505 was watching the PIC Muine Bheag on the in-cab 
+MMI screen and had seen both indications.  
+484 Driver A505 did not look at Signal WL167, which is positioned approximately 215 m off Muine 
+Bheag Station Platform. When Driver A505 normally travelled through Muine Bheag Station, 
+Signal WL167 would have been displaying a proceed aspect on departure. 
+485 The Trainee Driver, although only on in-cab familiarisation, also did not see that Signal WL167 
+was displaying a red aspect as he had been standing and the train blind was pulled down. 
+486 At 11:22:42 hrs Driver A505 then started Train A504, departing Muine Bheag Station. Driver A505 
+and the Trainee Driver were unsure if they were engaged in conversation on departing the station, 
+but acknowledge that may have been engaged in light conversation.  
+487 At 11:23:10 hrs, Train A504 had travelled almost 200 m when Driver A505 saw Signal WL167 
+displaying a red aspect and immediately applied the emergency brake. 
+
+## Página 148
+
+### Events during the incident 
+488 Despite the emergency brake being applied, the front of Train A504 passed Signal WL167 at 
+danger, without authority, coming to a stop a short distance past the signal.  
+489 The signalman contacted Driver A505 on the train radio, after receiving a SPAD alarm for the 
+signal; and informed him he had passed Signal WL167 at danger and not to move the train.   
+### Event after the incident 
+490 The DM Waterford contacted Driver A505 in relation to the SPAD to assess the situation. The DM 
+Waterford was initially confused as to why Driver A505 was driving the train, this was as a result 
+of Driver A503 travelling in the train saloon as a result of the local arrangements between drivers.  
+491 Driver A503 was requested to return Train A504 to Muine Bheag Station, which he carried out 
+without incident. 
+### Similar occurrences 
+### General information 
+492 Between January 2012 and June 2015, inclusive, there have been eighteen recorded SAS 
+SPADs and eight SOY SPADs, totalling twenty-six SAS or SOY SPADs. The SPADs are as 
+follows: 
+SAS SPAD at Signal PE31s, Pearse (Dublin), 16th January 2012; 
+ 
+SAS SPAD at Signal LJ368, Limerick Junction, 7th March 2012; 
+ 
+SAS SPAD at Signal BY488, Ballybrophy (Laois), 8th May 2012; 
+ 
+SOY SPAD at Signal TS469, Thurles (Tipperary), 1st November 2012; 
+ 
+SAS SPAD at BR44s, Bray (Wicklow), 5th February 2013; 
+ 
+SAS SPAD at SL719, Killucan (Westmeath), 21st June 2013; 
+ 
+SOY SPAD at LK5, Limerick (Limerick), 8th July 2013; 
+ 
+SOY SPAD at Signal GL353, Athenry, 10th July 2013 (under degraded train operations); 
+ 
+SAS SPAD at TL241, Killarney (Kerry), 9th August 2013; 
+ 
+SOY SPAD at Signal DD262, Dundalk, 10th August 2013;  
+ 
+SAS SPAD at PE35s, Pearse (Dublin), 10th August 2013; 
+ 
+SAS SPAD at TL226, Rathmore (Kerry), 26th February 2014; 
+ 
+SOY SPAD at HK196, Curragh (Kildare), 14th March 2014; 
+ 
+SAS SPAD at DD269, Dundalk, 13th May 2014; 
+ 
+SAS SPAD at MW826, Mallow, 16th May 2014; 
+ 
+
+## Página 149
+
+SOY SPAD at Signal CE842, Glounthaune, 29th June 2014; 
+ 
+SOY SPAD at Signal BR36, Bray (Wicklow), 20th August 2014; 
+ 
+SAS SPAD at SAOIB, Limerick, 24th September 2014 (under degraded train operations); 
+ 
+SAS SPAD at Signal HN291, Heuston (Dublin), 11th October 2014; 
+ 
+SAS SPAD at Signal XX062US, Shanclogh, 15th January 2015 (under degraded train 
+ 
+operations); 
+SAS SPAD at Signal SL817, Boyle (Roscommon), 18th January 2015; 
+ 
+SAS SPAD at Signal DN201, Howth (Dublin), 21st April 2015; 
+ 
+SOY SPAD at Signal BR31, Bray (Wicklow), 28th April 2015; 
+ 
+SAS SPAD at Signal RL543, Enniscorthy (Wexford), 9th June 2015;  
+ 
+SAS SPAD at Signal MN143, Maynooth (Kildare), 23rd June 2015; 
+ 
+SAS SPAD at Signal CY69, Fairview (Dublin), 25th June 2015.  
+ 
+493 These SPADs are discussed in details in Part 8, Similar Occurrences, of this report. 
+
+## Página 150
+
+### Analysis 
+### Signalling  
+494 The signalling system was in working order at the time of the incident and meets the requirements 
+set out in I-SIG-2043. Signal WL167 is the starting signal for departing the station, but the signal 
+is located approximately 215 m off the platform on the right hand side exiting Muine Bheag 
+Station.  
+### Error Prevention Techniques in relation to SAS/SOY SPADs 
+### General description 
+495 EPTs, in terms of SAS and SOY SPADs, will be discussed in relation to the documentation 
+available to drivers, such as the Professional Driving Handbook and Competence Standards will 
+be discussed below. The actions of the driver on the day of the incident, will also be discussed, 
+below (paragraphs 501 - 504).  
+496 The use of EPTs in relation to the SAS and SOY SPADs from 2012 to mid-2015, collectively, will 
+be discussed in ‘Part 8 – A Review of all Category A SPADs (January 2012 – June 2015). 
+### Driver documentation in relation to EPTs for SAS/SOY SPADs 
+497 The Professional Driving Handbook includes typical errors (such as not checking the signal, 
+assuming it is off, and failure to control distraction) and EPTs to manage the errors (such as RTC 
+and vocal reminders “Remember – When the signal is red don’t stick out your head”) in relation to 
+avoiding SAS and SOY SPADs. 
+498 The Competence Standards focuses on the key activities and tasks that train drivers undertake as 
+part of their role, including the specific risks associated with the operation of IÉ services, which 
+would include starting against signals at red or yellow. Specifically, the ‘Mobilise and start trains’, 
+sets out a number of requirements for assessment, such as drivers confirming the signal is at 
+proceed prior to starting (prevention of SAS SPADs); or ensuring extra vigilance when starting on 
+a cautionary aspect (prevention of SOY SPADs); as well as explaining the locations for the 
+potential of SAS and SOY SPADs and demonstrating the appropriate actions at these locations. 
+### Training & competence management of parties involved in the incident 
+### Driver A505 
+499 Driver A505 was passed as competent on the 10/10/2005, with his last FDA, prior to the incident, 
+being held on the 26/03/2013 with no issues identified; he also attended a SBUD on the 
+
+## Página 151
+
+07/02/2013. At the time of the SPAD, Driver A505 was classified as a Category U Driver, with no 
+previous operational safety related occurrences.  
+### PIC Muine Bheag 
+500 The PIC Muine Bheag has held his certificate of competence since 20/09/06, with his latest 
+refresher held on the 22/05/2012 with no issues identified. 
+### Actions of parties involved in the incident 
+### Driver A505 
+501 In relation to the above documentation for drivers in relation to EPTs for SAS/SOY SPADs, Driver 
+A505 did not utilise the information available, in that he did not identify and manage the typical 
+errors associated with SAS SPADs, as he: 
+ 
+Did not check the aspect of Signal WL167 at any stage prior to or after PIC Muine Bheag 
+gave the ‘Train Ready to Start’ signal despite the signal displaying a red aspect); 
+ 
+Assumed Signal WL167 was displaying a proceed aspect; 
+ 
+Failed to manage the in-cab distraction as he may have been conversing with the Trainee 
+Driver on the approach to Signal WL167.  
+502 In addition to this, Driver A505 was not anticipating the crossing of the TRV, which had been 
+included in the Weekly Circular. This was not a movement that was normally scheduled for this 
+time and location; and Driver A505 had expected Signal WL167 to be displaying a proceed 
+aspect, which would be the normal sequence of signals when travelling through Muine Bheag 
+Station. 
+503 By not identifying these as typical errors, Driver A505 then did not apply any EPTs to manage 
+these, such that he did not apply any form of EPTs, such as RTC or using vocal reminders. 
+504 The factors identified in the paragraphs above resulted in Driver A505: 
+ 
+Having an incorrect expectation that Signal WL167 would be displaying a green aspect as he: 
+o 
+Normally exited Muine Bheag Station with a proceed aspect; 
+o 
+Was unaware that there was a TRV scheduled crossing his train at Muine Bheag 
+Station; 
+o 
+Saw that the PIC Muine Bheag had given the ‘Train Ready to Start’ signal; 
+ 
+Being distracted from the primary task of driving due to the presence of the Trainee Driver 
+(without being able to use any EPTs to manage this distraction). 
+
+## Página 152
+
+### Trainee Driver 
+505 As the Trainee Driver was travelling in the driving cab on routine in-cab familiarisation at the time 
+of the incident. At the station, he acknowledged the signals from the PIC Muine Bheag and 
+relayed the information to Driver A505; he also pressed the button to close the doors of the train. 
+These actions did not contribute to the SPAD.  
+506 The Trainee Driver did not check Signal WL167 prior to departing the station, however, he was 
+not required to do so; however, if there was a requirement for trainee drivers to check the signals, 
+the Trainee Driver may have alerted Driver A505 to the red signal. 
+507 The Trainee Driver was aware that he was not to distract the driver on the approach to stations or 
+signals (paragraph 469 - 470). It cannot be fully established by the RAIU whether they were 
+engaged in conversation at the time.   
+### PIC Muine Bheag 
+508 The PIC Muine Bheag gave the ‘Ready to Start’ signal, despite knowing that Signal WL167 was 
+displaying a red aspect, however, the PIC Muine Bheag assumed that Driver A505 would proceed 
+to the signal, which was located 215 m off the platform, and wait for the signal to upgrade to a 
+proceed signal.   
+
+## Página 153
+
+### Conclusions  
+### Immediate cause, contributory factors and underlying factors 
+### Immediate cause 
+509 The immediate cause of the Driver A505 starting against and travelling past Signal WL167 at 
+danger was that he did not check the signal prior to departing Muine Bheag Station.  
+### Contributory factors 
+510 Contributory factors to Driver A505 not checking Signal WL167 prior to departing the station: 
+ 
+CF-11 – There was no DRA in the driving cab which would have reminded Driver A505 to 
+check the signal prior to starting against Signal WL167; 
+ 
+CF-12 – Driver A505 had an incorrect expectation that Signal WL167 was displaying a 
+proceed aspect due to an over-familiarisation with the normal signal sequencing at Muine 
+Bheag Station; not knowing that a TRV was due to cross his train at Muine Bheag Station; 
+and receiving the ‘Ready to Start’ signal from the PIC Muine Bheag; 
+ 
+CF-13 – Driver A505 may have been distracted by the presence of the Trainee Driver in the 
+driving cab; 
+ 
+CF-14 – Driver A505 did not apply any EPTs to remind him to check the signal and manage 
+the distraction in the cab, as he did not have appropriate EPT training; 
+ 
+CF-15 – PIC Muine Bheag giving the ‘Ready to Start’ signal despite knowing the signal was at 
+danger. 
+### Underlying cause 
+511 Underlying cause to the SPAD is: 
+ 
+UC-05 – The EPTs training and competency management systems are not fit for purpose, 
+especially for SAS SPADs which account for the largest amount of SPADs on the IÉ network, 
+and where there was, historically, no DRA present in the driving cabs. 
+
+## Página 154
+
+# Section 3 
+### Part 8 – A Review of All Category A SPADs 
+### Part 9 – SPAD Management 
+### Part 10 – SPAD Management of Drivers 
+
+## Página 155
+
+### PART 8 – A REVIEW OF ALL CATEGORY A SPADs (January 2012 – July 2015) 
+### Introduction 
+512 Parts 5, 6 and 7 of this report set out the events leading to the SPADs with the highest SRRs for 
+the relevant event types, i.e. SPADs during normal train operations, SPADs during degraded train 
+operations and SAS/SOY SPADs. The ‘Evidence’ section of this part of the report outlines all the 
+other Category A SPADs (from January 2012 to July 2015) by these event type: 
+ 
+SPADs during normal train operations; 
+ 
+SPADs during degraded train operations; 
+ 
+SAS SPADs; 
+ 
+SOY SPADs. 
+513 In the ‘Analysis’ section of this part of the report, the RAIU will review and analyse the factual 
+information from all the Category A SPADs (collectively), such as: 
+ 
+Experience of the drivers – in terms of time driving; 
+ 
+Driver profile history – in terms of previous safety operational incidents); 
+ 
+Times of SPAD occurrences; 
+ 
+Driving time prior to the occurrence of SPADs; 
+ 
+Annual leave/ return to work arrangements; 
+514 The RAIU will then review and analyse the SPADs in terms of contributory factors, assigning the 
+appropriate, and previously identified human factor contributory factor terms (i.e. loss of 
+situational awareness, distraction and preoccupation, incorrect expectation). The RAIU will also 
+identify where third parties have been contributory to the occurrence of the SPAD (e.g. through 
+poor communications). These human factor contributory factors will be reviewed and analysed by 
+event type (i.e. SPADs during normal train operation; SPADs during degraded conditions; SAS 
+and SOY SPADs), to identify any common trends related to the occurrence of SPAD events.  
+515 The RAIU will also review the use of EPTs by drivers involved in the SPAD occurrences. 
+
+## Página 156
+
+### Evidence 
+### Summary of Category A SPADs during normal train operations 
+### General description 
+516 SPADs during normal train operation, similar to the SPAD at Millstreet on the 8th December 2013 
+(Part 5 of this report) are SPADs which occurred while the train was operating in normal 
+conditions (driving or shunting), and moving towards the signal at danger after previously 
+receiving a cautionary aspect. These SPADs include: 
+SPAD at Signal XE010DS, Longpavement Level Crossing, on the 9th April 2012; 
+ 
+SPAD at Signal XE061, Curravorrin Level Crossing, on the 2nd October 2012; 
+ 
+SPAD at Signal GL336, Caherryon Level Crossing, on the 26th October 2012;  
+ 
+SPAD at Signal HK152, Hazelhatch, on the 15th February 2013; 
+ 
+SPAD at Signal WL131, Athy/Cherryville Junction, on the 12th March 2013; 
+ 
+SPAD at Signal DD276, Dundalk, on the 9th May 2013; 
+ 
+SPAD at Signal CY26, Connolly (Dublin), on the 3rd April 2014; 
+ 
+SPAD at Signal CY33, Connolly, on the 11th September 2014; 
+ 
+SPAD at Signal PE34, Pearse (Dublin), 18th January 2015; 
+ 
+SPAD at Signal GL391, Galway Station (Galway), 30th January 2015; 
+ 
+SPAD at Signal CL102, Clonsilla (Dublin), 15th May 2015. 
+ 
+517 These SPADs will be briefly outlined below, and the findings of the RAIU will be given. 
+518 It should be noted that although not identified in the individual RAIU findings, the RAIU found, in 
+all SPAD incidents related to normal train operations, that none of the drivers involved applied any 
+form of EPTs at the time of the SPAD. 
+SPAD at Signal XE010DS, Longpavement Level Crossing (Limerick), on the 9th April 2012 
+519 On the 9th April 2012, while operating the 14:15 hrs passenger service from Limerick to Galway 
+(Train A786) the driver (Driver A786) approached Longpavement Level Crossing, he approached 
+Signal XE010DD displaying a yellow aspect and he did not slow his train as he approached 
+Signal XE010DS displaying a red aspect. On seeing the red aspect Driver A786 immediately 
+applied the emergency brakes, but came to a stop approximately 4 m past Signal XE010DS. 
+520 Driver A786 called the GLS, but there was a misunderstanding, whereby, the GLS though that 
+Train A786 was blocking Longpavement Level Crossing. The GLS contacted the level crossing 
+keeper who informed him that the gates were closed. The GLS then informed Driver A786 “that 
+
+## Página 157
+
+he should have a green signal”. Driver A786 propelled10 Train A786 behind Signal XE010DS to 
+look at the signal, and informed the GLS that Signal XE010DS was displaying a red aspect 
+(Signal XE010DS was passed at red and remained red); only then did the GLS realise that Train 
+A786 had travelled passed Signal XE010DS at danger (there is no SPAD alarm for Signal 
+XE010DS). 
+521 Driver A786 had almost three years of driving experience and was classified as a Category U 
+Driver with no previous operational safety related occurrences or requirements for additional 
+support. 
+522 IÉ assigned an SRR of 13 to the SPAD. IÉ’s internal Investigation Remit (Safety Office Ref. 
+12/049) published the 19th April 2012 found that the cause of the SPAD was that Driver A786 did 
+not: react to the cautionary aspect at XE010DD; apply defensive driving techniques; or apply the 
+‘15 x 20’ Rule. Underlying causes associated to the SPAD were Driver A786 did not control the 
+speed on the approach to Signal XE010DS or have permission to move Train A786 after the 
+SPAD.  
+523 As a result of the incident, Driver A786 was reclassified as a Category B driver and was assigned 
+to a DD&SS for a period of two years. The lessons learnt from the SPAD were highlighted at a 
+SBUD for drivers on the Limerick – Galway Line.  
+524 The RAIU review of the incident found that Driver A786 had an incorrect expectation as to what 
+aspect XE010DS would be displaying as he had previously approached the signal displaying a 
+green aspect on numerous occasions. Poor communications after the incident was also identified, 
+whereby it took some time for the GLS to realise that a SPAD had occurred.  
+### SPAD at Signal XE061, Curravorrin Level Crossing, on the 2nd October 2012 
+525 On the 2nd October 2012 the driver (Driver A489) was operating the 17:30 hrs passenger service 
+from Galway to Limerick as normal. When the train initiated Curravorrin Level Crossing, the 
+LCCO confirmed the barriers were down but did not ensure that the signals had upgraded for the 
+approaching train. As Driver A489 approached the up distant signal for the level crossing, Signal 
+XE061UD, it was displaying a yellow aspect (this was a fixed yellow signal due to repeated theft 
+of the SET cables). He was travelling at 45 mph (72 km/h) due to the 45 mph (72 km/h) TSR.  
+526 On passing Signal XE061UD he approached a speed board for 60 mph (96 km/h) and forgot 
+about the previous signal at yellow and began to increase the speed of the train. Driver A489 then 
+approached Signal XE061US, and on noticing that the signal was displaying a red aspect he 
+10 Propelling in this instance is a violation. 
+
+## Página 158
+
+applied the brakes and stopped the train; however, the train passed Signal XE061US by 
+approximately 10 feet (3 m). 
+527 Driver A489 had twenty-four years of driving experience and was classified as a Category U 
+Driver at the time of the incident with no requirements for additional support. Driver A489 had two 
+previous operational safety related occurrences (platform overrun and speeding) in the ten years 
+previous to the incident which had resulted in him being reclassified as a Category B Driver and 
+assigned a DD&SS for a two year period. 
+528 IÉ assigned a SRR of 15 to the SPAD. IÉ’s ‘Five Working Day Panel Review’ (Ref SYNERGI Ref: 
+18103), published on the 15th October 2012, found that the immediate causes of the SPAD was 
+that Driver A489 failed to stop the train; and that the train brake did not operate as expected. 
+Underlying causes were identified as: Driver A489 not correctly responding to the cautionary 
+signal (XE061UD); the LCCO not ensuring the signals ungraded when he requested them; Signal 
+XE061US being fixed at yellow; the location of the speed board and the brake performance. The 
+report made recommendations to SET in terms of the signal, to the DM Limerick for the inclusion 
+of the risks associated with the fixed yellow to be included in the route risk assessment and to the 
+CTE for the inclusion of human factors training in the SBUD days. As a result of the incident, 
+Driver A489 was reclassified as a Category B Driver, and assigned a DD&SS for a period of two 
+years. 
+529 The RAIU review of the incident found that Driver A489 had lost situational awareness as he had 
+forgotten that he had passed a cautionary aspect, this was heavily influenced by the incorrect 
+placing of a speed board11 in a location where drivers should not be increasing their speeds 
+causing Driver A489 to be distracted by the speed board. 
+### SPAD at Signal GL336, Caherryon Level Crossing, on the 26th October 2012 
+530 The driver (Driver A708) booked on duty at 16:00 hrs and read his notices for the day. He then 
+worked the 17:07 hrs passenger service from Athlone to Galway (Train A708). Driver A708 
+approached Signal GLR336 (see Figure 67) on a yellow aspect which indicated that the next 
+signal, Signal GL336 (see Figure 68), would be at danger. The driver applied the train brakes to 
+reduce speed with the intention of stopping at Signal GL336, however, due to the strong sunlight 
+he did not see Signal GL336 until he was too close to stop at the signal, and past Signal GL336 at 
+danger by approximately 66 yards (60 m). 
+11 The RAIU have found that the placement of speed boards near signals has been a contributory 
+factor in four SPADs reviewed during this RAIU investigation, including the SPAD at Millstreet on the 
+8th December 2013, as a result this warrants a safety recommendation, see Part 14. 
+
+## Página 159
+
+531 Driver A708 had eighteen years of driving experience and was classified as a Category U 
+(Uncategorised) at the time of the incident with no requirements for additional support. Driver 
+A708 had previously been classified as a Category B Driver and a Category C Driver as a result 
+of two SPADs in Tullamore (Signal TE138) in 1998 and Heuston (Signal HN286) in 2003.  
+### Figure 67 – Signal GLR336 
+### Figure 68 – Signal GL336 
+532 IÉ assigned an SRR of 16 to the SPAD. IÉ’s internal investigation ‘Report of the Investigation into 
+the Signal GL336 passed at danger, 26th October 2012’ published on the 23rd December 2012 
+found that the sunlight (from the setting sun, which was low in the sky) was very strong and the 
+windscreen was smudged and that these together affected Driver A708’s view of Signal GL336. 
+IÉ internal investigation report (Synergi Ref – 18209) published on the 23rd December 2012 
+identified the immediate cause as Driver A708 failing to control his train in accordance with the 
+restrictive aspect (yellow signal) in Signal GLR336 and passed GL336 at danger. Underlying 
+causes were identified as: the very strong sunlight at the time (with the sun shade on the 2800 
+DMU driving cars not being able to be lowered enough to block out strong sunlight) and the 
+windscreen of the cab being smudged, which both this affected his view of Signal GL336; and 
+Driver A708 failing to react to the yellow aspect in Signal GLR336 and applying the train brakes 
+accordingly. 
+533 As a result of the incident, Driver A708 was reclassified as a Category A driver and placed on a 
+DD&SS with special emphasis on human factors and defensive driving (there were instances of 
+over-speeding identified on the day of the SPAD during the investigation). Two recommendation 
+resulted from this investigation, which included for the introduction of a more robust system to be 
+put in place to deal with driving in strong sunlight (by adding to defensive driving presentation 
+
+## Página 160
+
+delivered on SBUD dates); and driver briefings on different braking capabilities of different traction 
+units (by adding to the traction section of presentation delivered on SBUD dates). 
+534 In addition to the IÉ findings, the RAIU review of the incident found that Driver A708 may have 
+become distracted by a passenger taken ill earlier in the service, which is an unusual occurrence 
+for a driver; and that Driver A708 had lost situational awareness in terms of the location of the 
+signal due to the distraction of the strong sunlight.  
+### SPAD at Signal HK152, Hazelhatch, on the 15th February 2013 
+535 On the 15th February 2013 as the 06:25 hrs passenger service from Portlaoise to Heuston was 
+approaching Hazelhatch, the driver (Driver P202) thought he saw that Signal HK154 was 
+displaying a double yellow aspect (meaning that the next signal would be a single yellow). 
+However, Signal HK154 was displaying a single yellow aspect (meaning that the next signal was 
+red). Driver P202 did not look at the CAWS after passing Signal HK154 or on the approach to 
+Signal HK152. As Driver P202 approached Signal HK152 he saw that it was displaying a red 
+aspect and he immediately applied the brakes, but passed the signal by forty metres before 
+coming to a stop. 
+536 Driver P202 had five years of driving experience and was classified as a Category U Driver at the 
+time of the incident with no requirements for additional support. Driver P202 had been previously 
+reclassified as a Category B Driver as a result of a SPAD at Heuston Station in 2007 when Signal 
+HN286 was passed at danger during a shunting movement; which resulted in Driver P202 being 
+placed on a DD&SS for a period of two years.  
+537 IÉ assigned an SRR of 0 to the SPAD. IÉ’s internal Five Working Day Panel Investigation, 
+published on the 19th February 2013, identified the immediate cause as the “Driver passed Signal 
+HK152 at danger because of a failure to react appropriately to the previous restrictive signal 
+aspect displayed in HK154 and in his in-cab CAWS. The underlying factor was identified as the 
+driver being “over reliant on previous experience at this signal and failing to maintain the required 
+level of concentration”. As a result of the SPAD, Driver P202 was reclassified as a Category B 
+Driver and assigned a DD&SS for a period of two years; there was also a recommendation in 
+relation to the auto-routing functions at HK152. 
+
+## Página 161
+
+538 The RAIU review of the incident found that Driver P202 had become distracted by earlier issues 
+with the doors in Kildare where he was eventually required to lock the doors off at Kildare. The 
+RAIU also found that Driver P202 had an incorrect expectation as to the colour of the signals, this 
+was as a result of the driver: 
+ 
+Travelling the route the two days previous and receiving proceed aspects;  
+ 
+Only being detained once previously at HK152; 
+ 
+Knowing that the train in front of him had departed some time previously, and thought this 
+would mean that the signals would be cleared for him.  
+### SPAD at Signal WL131, Athy/Cherryville Junction, on the 12th March 2013 
+539 On the morning of the 12th March 2013 the Driver of the 07:25 hrs passenger service from 
+Heuston to Waterford (Driver A500) was travelling with a Permanent Way Patrolman in the cab 
+(whose role was to examine the line following adverse weather conditions from the previous 
+night). As the train was approaching Athy, Signal WL131(R) was displaying a yellow aspect and 
+1,740 m further down the track Signal WL131 (see Figure 69) was displaying a red aspect. 
+Having passed Signal WL131(R) displaying a cautionary aspect, Driver A500 made a brake 
+application to slow the train. 
+Signal WL131 
+Athy Station Platforms 
+### Figure 69 – Signal WL131 with Athy Station in the distance 
+540 Driver A500 then noticed that there was no train travelling in the opposite direction at Athy Station 
+(see Figure 69); as he was expecting to see the 07:10 hrs passenger service from Waterford to 
+Heuston, which was scheduled to cross his train in Athy. This prompted Driver A500 to check the 
+scheduled running time for his train and he picked up his Working Time Table (WTT) which was 
+open on the driving console. However, to read the WTT he needed to put on his reading glasses.  
+
+## Página 162
+
+541 Having consulted his WTT Driver A500 looked up and saw that Signal WL 131 displaying a red 
+aspect and realised that the train was going to SPAD Signal WL131. Driver A500 immediately 
+made an emergency brake application and the train came to a stop approximately two coach 
+lengths beyond Signal WL131. Driver A500 spoke to the Controlling Signalman and 
+acknowledged that he had passed Signal WL131 at danger. 
+542 Driver A500 had nearly ten years of driving experience and was categorised as a Category U 
+Driver at the time of the incident with no recorded safety related occurrences in the previous ten 
+years. 
+543 IÉ assigned an SRR of 18 to this SPAD. The internal IÉ investigation report determined that the 
+immediate cause was that “the driver of A500 passed Signal WL131 at danger as he did not have 
+his train under sufficient control approaching a red (stop) aspect” and that the underlying causes 
+were that “The driver was consulting his WTT approaching Signal WL131 instead of giving his full 
+attention to bringing his train under control” and that the “driver failed to prioritise his actions, 
+instead of concentrating on Signal WL131 he was looking beyond the signal and querying why the 
+train was not on the platform”.  
+544 As a result of the incident Driver A500 was reclassified as a Category B Driver and placed on a 
+DD&SS for a period of two years. In addition, the internal report recommended that the IÉ-RU 
+Safety Manager was to publish a weekly circular notice reminding all staff whose duties require 
+them to travel in the footplate should comply with driving cab protocol; and that IÉ-RU review the 
+Professional Driving Handbook to ensure train operations in non-CAWS areas is adequately 
+covered. 
+545 The RAIU review of the incident found that Driver A500 had initially become distracted by the 
+Patrolman, as it was the Patrolman who first mentioned the crossing point. He became further 
+distracted when he could not see the other train and consulted with the WTT. Driver A500 had 
+also lost situational awareness due to operating services where CAWS was in operation in the 
+weeks previous to the day of the SPAD and this was the first day Driver A500 was driving in a 
+non-CAWS area after a number of weeks of driving in a CAWS area, which contributed in him not 
+responding to the cautionary aspect as required.  
+
+## Página 163
+
+### SPAD at Signal DD276, Dundalk, on the 8th May 2013 
+546 Driver D822 booked on duty, fit and well rested at 17:30 hrs on the 7th May and operated six 
+services without incident. During his last service, the 22:30 hrs passenger service form Pearse to 
+Dundalk, Driver D822 arrived at Platform 2 in Dundalk without incident.  
+547 The normal manoeuvre is then to shunt the train onto Platform 1 to dispose of the train, however, 
+on this occasion Platform 1 was under possession; therefore he was required to shunt the train 
+into the running loop. To carry out this manoeuvre Driver D822 was required to shunt a train 
+stabled on the running line into the yard, he did this without incident.  
+548 Driver D822 returned to his train on Platform 2. He thought that he was required to shunt over 201 
+Points and behind Signal DD277 to stable the train on Platform 1 (see blue line Figure 70), he had 
+forgotten about the possession on Platform 1. 
+Platform 1 
+Signal DD277 
+Signal DD276 
+Platform 2 
+Signal DD273 
+201 Points  
+Route set  
+Route Driver D822 thought was set 
+### Figure 70 – Set and assumed manoeuvres  
+549 As a result, when Signal DD273 cleared, Driver D822 began the manoeuvre. As he approached 
+Signal DD276, it was displaying two white lights in the vertical position, which means that the 
+route is set to proceed to Signal DD276, (green line Figure 70). Driver A822 was not aware of this 
+and still thought that he was about to traverse 201 Points and travel towards Signal DD277. 
+550 When Driver D822 past Points 201 without traversing them, he realised he was travelling towards 
+Signal DD276, which was displaying a red aspect, the train was travelling at 35 mph (56.55 km/h). 
+Driver D822 applied the full service and emergency brakes, but continued past Signal DD276 at 
+danger by 75 m (it is noted in the report that Driver D822 stated that he only past Signal DD276 
+by a few inches). 
+551 Driver D822 had ten years of driving experience, and had undergone a FDA, an out-of-hours FDA 
+and unannounced monitoring in 2013; as well as a Summary Assessment, train simulator training 
+and attended a SBUD in 2012. At the time of the incident Driver D822 was classified as a 
+
+## Página 164
+
+Category D Driver, requiring a low level of additional support and monitoring, as a result of 
+overrunning a platform in 2007. 
+552 IÉ assigned an SRR of 14 to this SPAD. IÉ internal investigation report, (Report No. R0303-2014-
+17) published in March 2014, identified the immediate cause as Driver D822 not having his train 
+under sufficient control. Causal factors to the incident included that Driver D822: made the wrong 
+assumption about the manoeuvre required; was speeding; misread Signal DD273; and failed to 
+see that Points 201 was in the reverse position. Underlying causes to the incident were the lack of 
+out-of-hours monitoring of shunting in Dundalk and the known risk issues with Driver D822 (which 
+were managed by a driving development plan). 
+553 As a result of this incident, Driver D822 was removed from driving duties. In addition, a review 
+commenced related to the DD&SS (specifically the categorisation of drivers). The report made 
+two other safety recommendations related to out-of-hours monitoring and DD&SSs. 
+554 The RAIU investigation found that Driver D822 had lost situational awareness as he had forgotten 
+about the possession and he had not gained a clear understanding of the manoeuvre he was 
+required to undertake, which resulted in him reverting to carrying out his normal manoeuvre, thus 
+having an incorrect expectation of the signals.  
+### SPAD at Signal CY26, Connolly (Dublin), on the 3rd April 2014 
+555 On the 3rd April 2014, Driver P709, signed on for duty fit and well rested at 17:30 hrs and operated 
+services without incident. As Driver P709 approached Connolly Station, while operating the 22:05 
+hrs service from Drogheda to Connolly, he approached Signal CY18 which was displaying a red 
+aspect, this cleared to yellow and Driver P709 proceeded towards Signal CY26. Signal CY26 and 
+Signal CY33 were displaying red aspects, see Figure 71. Driver P709 acknowledged the CAWS 
+downgrades for Signals CY18 and CY26. 
+556 Signals CY26 and CY33 can be viewed in tandem by drivers approaching the platforms at 
+Connolly Station, see Figure 71. When Train P709 was 509 m from Signal CY26, Driver P709 
+commenced braking and continued to do so until he came to a stop 3 m past Signal CY26. Three 
+seconds prior to the SPAD Signal CY33 had cleared to yellow, with the route indicator displaying 
+that the route was set for Platform 4. 
+
+## Página 165
+
+Signal CY26 
+### Figure 71 – Layout at Connolly Station 
+557 At the time of the incident, Signal CY26 had been previously past at danger on one occasion in 
+the previous ten years. 
+558 Driver P709 had over nineteen years of driving experience and was classified as a Category U 
+Driver at the time of the SPAD; Driver P709 had previously been reclassified as a Category B 
+Driver as a result of a derailment in Tara Mines in 2011.  
+559 IÉ assigned an SRR of 14 to this SPAD. IÉ’s internal Operational Occurrence Report (OOR) 
+(Report No. R0903-2014-34) published on the 22nd August 2014 identified the immediate cause of 
+the incident as Driver P709 failing to stop at Signal CY26 due to a lapse of concentration. The 
+OOR identifies causal factors as Driver P709’s personal issues and preoccupation with Signal 
+CY33; it also notes incorrect prioritisation of signalling sequence by the signalman. The OOR 
+identifies that the ability to view Signals CY26 and CY33 in tandem as an underlying factor.   
+
+## Página 166
+
+### Figure 72 – Signal CY26, with Signal CY33 in background 
+560 As a result of the incident Driver P709 was reclassified as a Category B Driver and placed on a 
+DD&SS for a period of two years. In addition, SET carried out some maintenance works on the 
+signals in the area and signalmen were requested not to clear CY33 when CY26 is at danger, 
+where possible. 
+561 The OOR made three recommendations, two which were related to staff reporting personal issues 
+to line managers and staff attending the Chief Medical Officer (CMO). And one recommendation 
+was related to changing, if appropriate, Signal CY32 and CY33 to approach release to prevent 
+read through of signals. 
+562 The RAIU review of the incident found that the personal issues identified in the IÉ report did not 
+contribute to the incident. Driver P709 had lost situational awareness and had an incorrect 
+expectation as to the signal’s aspect, as he was looking beyond the signal into Connolly Station.  
+
+## Página 167
+
+### SPAD at Signal CY33, Connolly (Dublin), on the 11th September 2014 
+563 On the 11th September 2014 the driver (Driver E221) of the 16:15 hrs passenger service from 
+Howth to Bray (Train E221) took over the service at Fairview. Approximately five minutes later he 
+was approaching Connolly Station when he approached Signal CY26 displaying a red aspect, 
+which subsequently upgraded to a proceed aspect and Train E221 continued past the signal, 
+towards Signal CY33 which was displaying a red aspect. On passing Signal CY26 Driver E221 
+operated the running release of the ATP as the train approached CY33. He then started removing 
+his high visibility vest due to the hot weather and he started to retrieve his water bottle when he 
+noticed the sound of the beeping from the running release and realised he had passed Signal 
+CY33 at danger and stopped his train. 
+564 Driver E221 had three years of driving experience and was classified as a Category U Driver with 
+no previous operational safety related occurrences in the previous three years. 
+565 IÉ assigned an SRR of 14 to this SPAD. The internal IÉ investigation report found that Driver 
+E221 “did not focus on the primary task of controlling the train on approach to Signal CY33”. The 
+engagement of the ATP running release function on the approach to Signal CY33 was identified 
+as a contributory factor12. Causation factors were identified as Driver E221 “engaging the running 
+release” on the approach to Signal CY33 and being “distracted” by taking off his high visibility vest 
+and retrieving the water bottle.  
+566 As a result of the SPAD, Driver E221 was reclassified as a Category B Driver and assigned a 
+DD&SS for a period of two years. Procedures for the use of the running release were also 
+submitted for review. 
+567 The RAIU review of the incident found that Driver E221 had initially become distracted and 
+preoccupied with thinking about his planned annual leave (ten days commencing the day after the 
+SPAD) which he had been discussing immediately prior to taking over the service at Fairview. He 
+then became further distracted by the high visibility vest and the water bottle. In addition, Driver 
+E221 may have had an incorrect expectation that the aspect of Signal CY33 would upgrade to a 
+proceed/ cautionary due to previous instances of abnormal downgrades at CY26 and CY33 (due 
+to SET issues)13, as a result he did not immediately react to the ATP warnings.  
+12 Drivers must engage the running release to approach a signal displaying a red aspect, this 
+engagement of the running release on approach to a signal displaying a red aspect, overrides the 
+train protection function of the ATP. 
+13 Abnormal upgrades can change the expectation of drivers, as a result the RAIU feel this warrants a 
+safety recommendation, see Part 14. 
+
+## Página 168
+
+568 The RAIU also found that Driver E221 engaged the running release, which eliminated the train 
+protection function of the ATP14. 
+### SPAD at Signal PE34, Pearse (Dublin), 18th January 2015 
+569 At 08:00 hrs on Sunday 18th January 2015, the driver (Driver A601) signed on duty, fully rested, in 
+Connolly Station and operated the 10:25 hrs Connolly to Rosslare Europort passenger service 
+(Train A600), without incident, to crossing point at Wicklow. He then worked the continuation, 
+from Wicklow, of 09:40 hrs passenger service from Rosslare Europort to Connolly Station, Dublin 
+(Train A601). 
+570 On the approach to Pearse Station at 12:18:14 hrs, Driver A601 acknowledged the downgrade to 
+red in the CAWS, while the train was travelling at 19 mph (30.4 km/h) and 193 metres in rear of 
+Signal PE34, see Figure 73. 
+Signal PE34 
+### Figure 73 – Signalling at Pearse Station 
+571 Driver A601 stated that at this time he began to pack his bag in anticipation of finishing his turn of 
+duty at Connolly Station. 
+572 Train A601 was travelling at 20 mph (32 km/h) when Driver A601 looked back at Signal PE34. He 
+saw the red aspect and applied the emergency brake, however, he passed Signal PE34 at danger 
+by approximately 5 m. 
+14 The ability to ‘override’ the ATP, a system designed to prevent SPADs, through engaging the 
+running release on approaching a red signal has been identified as a contributory factor in two SPAD 
+incidents on the DART network; as a result this warrants a direct safety recommendation, see Part 14  
+
+## Página 169
+
+573 Driver A601 has over eight years of driver experience and was classified as a Category U Driver 
+with no previous operational safety related occurrences or requirements for additional support at 
+the time of the incident. 
+574 The SPAD was assigned an SRR of 18. IÉ’s internal OOR, published in April 2015, identified the 
+immediate cause of the SPAD as Driver A601 not focusing on the primary task of controlling the 
+train on approach to Signal PE34 while it was still at danger. The contributory factors were 
+identified as Driver A601 deciding to personally optimise his time by packing his bag rather than 
+focussing on the primary task of controlling the train on approach to a red signal (IÉ deem this to 
+be a violation rather than an error); Driver A601 did this after acknowledging the CAWS 
+downgrade. Underlying to the incident was the fact that the train was not fitted with ATP. 
+575 As a result of the SPAD, Driver A601 was reclassified as a Category B Driver and placed on a 
+DD&SS for a period of two years. The OOR noted that the development of IÉ Hybrid System 
+(IÉHS) is ongoing. As a result of these actions, there were no other recommendations. 
+576 The RAIU review of the incident found that Driver A601 had become distracted by packing his 
+bag, which in turn resulted in him losing situational awareness, in that, he hadn’t realised he was 
+so close to Signal PE34. 
+### SPAD at Signal GL391, Ceannt Station (Galway), 30th January 2015 
+577 At 13:00 hrs on the 30th January 2015 the driver (Driver A714) booked on duty; he was rostered to 
+work two trains and finish the shift at 22:00 hrs. The driver had operated the 13:45 hrs Limerick to 
+Galway Service when he was requested to move the 17:30 hrs passenger service from Heuston 
+to Galway (Train A714), which arrived at Ceannt Station (Galway) at 19:57 hrs, from the Main 
+Platform. Train A714 involved was a seven piece 22000 Class Inter City Railcar (ICR). 
+578 The Galway Station Controller told the Galway Line Signalman (GLS) to set the route to allow 
+Train A714 to from the main platform into the Loop and then down behind signal GL391 which is 
+located on the No.1 Road (see green movements 1a, 1b & 1c, Figure 74). (Note: A train consist of 
+less than seven pieces are stabled in the Yard, Train A714 consisted of seven carriages). As 
+there was an area of non-circuited track (see Figure 74), the Galway Station Controller had set 
+the hand points, located between signals GL378s and GL391, to the normal position, i.e. to the 
+No.1 Road. The Galway Station Controller talked to Driver A714 on the Main Platform, mainly in 
+relation to a change of driving shift; it cannot be established if a clear instruction was given for the 
+movement of Train A714 onto No.1 Road. 
+
+## Página 170
+
+Main Platform 
+1a 
+1c 
+1b 
+No.1 Road 
+2a 
+Hand points 
+to yard 
+Loop 
+Signal GL391 
+Yard 
+### Figure 74 – Ceannt Station (Galway) Layout 
+579 The GLS was not familiar with the name ‘No.1 Road’, as he was more familiar with requests to 
+place the train ‘behind signal GL391’. As a result, the GLS thought the route was to be set into the 
+Yard; and set the route from the Main Platform to signal GL378 on the Loop line at Galway (1a & 
+1b, Figure 74), and then cleared the route from signal GL378 to the Yard in Galway (blue route, 
+2a, Figure 74). As a result, the GLS did not clear the route into No.1 Road, and as a result, Signal 
+GL391 remained at danger.  
+580 There was no communication between Driver A714 and the GLS in relation to the movement.  
+581 Driver A714 then proceeded to move the train, he had assumed that he was moving Train A714 
+into the Yard, he carried out the first movements as expected (1a & 1b, Figure 74). When Driver 
+A714 approached the first set of handpoints, he was expecting the train to ‘jolt’ as it travelled over 
+the handpoints into the Yard, he never felt the jolt and then remember it was a seven piece train 
+and realised he was travelling to the No.1 Road. He then travelled over the second set of 
+handpoints and passed Signal GL391 which remained at danger, and another 113 m towards the 
+stopblock to stable the train. Driver A714 was unaware he had passed Signal GL391 at danger 
+and returned to the Main Platform.    
+582 As Train A714 travelled past Signal GL391 at danger, the SPAD alarm was activated for the 
+Signal and the GLS contacted the Galway Station Controller to advise him of the situation. When 
+Driver A714 arrived at the Main Platform, the Galway Station Controller advised him of the SPAD.  
+
+## Página 171
+
+583 At the time of the SPAD, Driver A714 was a PQA Driver, having entered the grade on the 17th 
+May 2013. Previous to this SPAD, he had a SPAD on the 16th November 2013, he was also 
+involved in a platform overrun; LRA was identified as contributory in both these incidents. 
+584 IÉ assigned a SRR of 10 to this SPAD. IÉ’s OOR, published in July 2015, states that the 
+immediate cause of the SPAD was “while conducting the shunt movement and after realising that 
+the train was not going into the Yard sidings but to the No.1 Road the driver did not check the 
+aspect in shunt signal GL391”. A number of contributory cause were identified, including: 
+ 
+Driver A714 did not pay sufficient attention to the route, points and signals during the 
+movement. His focus was not on the primary task of the particular movement but was thinking 
+ahead to the next train movement that he was to conduct. He was personally optimising in 
+anticipation of finishing his shift early; 
+ 
+The Galway Station Controller and GLS did not reach a clear understanding of the 
+movements that were to take place. They did not clearly establish that the train was to go to 
+the No. 1 Road; 
+ 
+There was an over reliance by all parties on previous experience while conducting the 
+movements. The placing of trains in the station was a routine task and complacency had set 
+in resulting in the required communication protocols not being applied. 
+585 No underlying factors were identified by IÉ. 
+586 As a result of the SPAD, Driver A714, the GLS and the Galway Station Controller were screened 
+for drugs and alcohol; all tests were negative. Driver A714 was placed on a DD&SS, the GLS 
+received corrective coaching for safety critical communications (SCC) and resumed normal duties 
+the next day, and he also underwent unannounced assessment two days after the incident. The 
+Galway Station Controller also received corrective coaching for SCC. The shunting arrangements 
+at Ceannt Station, which were under review prior to the occurrence, were updated, whereby the 
+train drivers must communicate directly with the controlling signalman for movements around 
+Ceannt Station. As a result of the above actions, no further recommendations were made as a 
+result of this SPAD. 
+587 In addition to the IÉ findings, the RAIU found that poor communications between Driver A714, the 
+GLS and Galway Station Controller contributed to the SPAD. This resulted in Driver A714 not 
+having a full situational awareness of the movements he was required to undertake and the size 
+of the train also made him less situationally aware. The cause of the SPAD was also as a result of 
+lack of situational awareness on the part of the GLS as he did not have a clear idea of the 
+movements to be undertaken.  
+
+## Página 172
+
+### SPAD at Signal CL102, Clonsilla (Dublin), 15th May 2015 
+588 On Friday 15th May 2015 Driver P733 signed on duty, with the required rest and operated the first 
+services without incident. Driver P733 then operated the 18:55 hrs passenger service from 
+Maynooth to Connolly Station Dublin.  
+589 After departing Clonsilla, Train P733 was travelling at 92.73 km/h when the CAWS downgraded to 
+yellow for Signal CL105, the signal in rear of Signal CL102 which was displaying a yellow aspect. 
+The train speed increased to 99.86 km/h on the approach to Signal CL102 and the emergency 
+brake was applied and the speed reduced to 86.51 km/h when the CAWS downgraded to red for 
+Signal CL102, which Driver P733 acknowledged, however Train P733 passed Signal CL102 at 
+danger without authority before the train came to a stop 15 m after the signal.  
+590  At the time of the SPAD, Driver P733 had almost five years of driving experience and was 
+classified as a Category B Driver as a result of a number of safety related occurrences. 
+591 IÉ assigned an SRR of 17 to the SPAD. IÉ’s OOR, published on the 23rd October 2015 (Report 
+No. R1101-2015-38), found that the immediate cause of the SPAD was that “the driver did not 
+have the train under sufficient control with the expectation that the signal would upgrade to green. 
+It was running on a restrictive aspect with the in cab CAWS display relaying this information to 
+him”. Contributory factors were identified as: the driver increasing the speed of the train on the 
+approach to Signal CL102; not reacting correctly to the cautionary aspect (Signal CL105) in the 
+rear; not adhering to IÉ’s Defensive Driving Policy; and being reliant on past experience that 
+Signal CL102 would be displaying a green aspect. Underlying causes were identified as: the 
+absence of ATP and risk assessments associated with the level crossing.  
+592 As a result of the SPAD, Driver P733 was removed from the driving grade. IÉ have taken a 
+number of actions in relation to relaying the SPAD information to drivers and updating route 
+notes. As a result of this incident, the report recommended that a route risk assessment should be 
+undertaken in relation to the interlocking of the level crossing for the occurrence of SOY SPADs. 
+593 The RAIU found the Driver P733 was distracted by a number of personal issues at the time of the 
+SPAD, which he had reported to, and was being managed by, his DTE and the CMO. He also had 
+an incorrect expectation of the signals as he normally had proceed aspects in this location.  
+
+## Página 173
+
+### Summary of Category A SPADs during degraded train operations  
+### General information 
+594 SPADs during degraded train operations, similar to the SPAD at Gortavogher on the 19th 
+December 2013 (Part 6 of this report) are SPADs which occurred while the train was operating in 
+degraded conditions i.e. trains not running under normal signals or signalling arrangements, 
+including where there is:  
+ 
+Signal equipment failure/disconnection;  
+ 
+Single Line Working (SLW);  
+ 
+Examination of the line (passing a signal at danger);  
+ 
+Movements to, from and within possessions;  
+ 
+Track circuit failure;  
+ 
+Level crossing failure;  
+ 
+Failure of block signalling equipment. 
+595 From January 2012 to June 2015, there have been seven other SPAD during degraded train 
+operations. These SPADs are as follows:  
+SPAD at XW038US, Blackbog Level Crossing, on the 16th May 2012 (level crossing faults); 
+ 
+SOY SPAD at GL353, Athenry, on the 10th July 2013 (WSLP), this SPAD is discussed with 
+ 
+the SOY SPAD section of this report; 
+SPAD at RC874, Charleville, on the 18th August 2013 (during possession works); 
+ 
+SPAD at LJ348, Limerick Junction, on the 25th August 2013 (during possession works); 
+ 
+SPAD at GL354, Athenry, on the 16th November 2013 (degraded conditions, Regulation 11.7 
+ 
+in place at time of the SPAD); 
+SAS SPAD at SAOIB, Limerick, on the 24th September 2014 (during possession works); 
+ 
+SAS SPAD at Signal XX062, Shanclough Level Crossing, 15th January 2015 (level crossing 
+ 
+faults). 
+596 It should be noted that although not identified in the individual RAIU findings, the RAIU found, in 
+all SPAD incidents related to degraded train operations, that none of the drivers involved applied 
+any form of EPTs at the time of the SPAD. However, it should be noted that the actions of third 
+parties also contributed to the drivers not using any form of EPTs, as they were following 
+instructions. 
+
+## Página 174
+
+### SPAD at XW038US, Blackbog Level Crossing, 16th May 2012 
+597 On 16th May 2012 the WSLP was in place between Carlow and Muine Bheag Stations. There was 
+an EO in place at Level Crossing XW038, who was operating the barriers and providing 
+information to the LCCO, who normally remotely operated the level crossing for the LCCC 
+(Athlone). 
+598 When the 11:00 hrs passenger service from Waterford to Heuston (which will be referred to as 
+Train ID A509 for the remainder of the report) was entering the WSLP section at Muine Bheag the 
+controlling signalman instructed the Pilotman to tell the train driver (referred to as Driver A509 for 
+the remainder of the report) that it was in order to pass the section signal, Signal WL163, at 
+danger; he also incorrectly instructed the Pilotman to tell Driver A509 to stop short of all level 
+crossings and to observe that the barriers were down and that is was safe to cross. The Pilotman 
+did not tell Driver A509 to obey all other signals in the section. The Pilotman did not accompany 
+the train as he was waiting to travel in another train. 
+599 At approximately 12:50 hrs, as Train A509 approached Blackbog Level Crossing he observed that 
+the barriers were down and that it was safe to cross, and as a result passed Signal XW038US at 
+danger and continued to Carlow Station. 
+600 Driver A509 was classified as a Category U Driver with no requirements for additional support; he 
+had a SPAD previously in 2006 in Heuston (Dublin). 
+601 The SPAD was assigned an SRR of 19. IÉ’s internal investigation report into the incident 
+identified the immediate cause of the accident as “Train A509 passed signal XW038US at danger 
+without authority because the Driver did not react to the signal as he misinterpreted its meaning 
+during WSLP”. Causal factors and underlying causes to the incident were:  
+ 
+The Pilotman did not instruct Driver A509 correctly about obeying signals after entering the 
+WSLP section; 
+ 
+The controlling signalman gave Driver A509 incorrect information to stop short of all level 
+crossing and ensure the barriers were down and did not follow the procedure for authorising 
+the Pilotman to pass the section signal at danger and did not have a clear understanding of 
+the operation of level crossings and their associated signals during WSLP; 
+ 
+Driver A509 did not have a clear understanding of the operation of level crossings and their 
+associated signals during WSLP; 
+ 
+Section G of the Rule Book lacked clarity in the explanation and instructions regarding CCTV 
+level crossings; 
+ 
+The competence assessment material for pilotmen did not contain reference to authorising 
+movements by Pilotman as set out in the Rule Book. 
+
+## Página 175
+
+602 IÉ took a number of actions relating to the development of Driver A509 and the signalman as a 
+result of the incident and made one recommendation in relation to providing better clarity in 
+Section G of Rule Book regarding the operation of CCTV level crossings. Driver A509 was not 
+reclassified, and remains as a Category U Driver. 
+603 The RAIU review of the incident found that the actions of the Pilotman and Signalman were major 
+contributory factors to the SPAD occurring, this in turn, led to poor communications between 
+Driver A509 and the signalman as the signalman and Driver A509 did not come to a clear 
+understanding of what was expected of both parties, which ultimately caused the SPAD.  
+### SAS SPAD at Signal RC874, Charleville, 12th August 2013 
+604 On the 12th August 2013 an OTM, a tamping machine, which was stabled in the Charleville Yard, 
+was scheduled to undertake tamping operations between the 130 ½ and 132 ½ mile posts on the 
+Down main Dublin to Cork line. 
+605 The driver (Driver Y224), a Lloyd Rail staff member, received instructions from the Person in 
+Charge of Possession (PICOP) in relation to moving the tamping machine from its stabling point 
+onto the Down Loop prior to the possession being granted, see Figure 75. 
+606 Driver Y224 took up his position in the tamping machine and began moving it to the south of the 
+yard. He then passed Signal RC874 at danger and on realising this stopped his train immediately. 
+
+## Página 176
+
+### Figure 75 – Charleville Station layout and proposed movement outlined in red 
+### arrows (from IÉ investigation report) 
+607 Driver Y224 was not classified under OPS-SMS-3.2 as he was a Lloyd Rail driver. Although it 
+should be noted that he had no previous operational safety related occurrences or requirements 
+for additional support. 
+608 The SPAD was assigned an SRR of 8. IÉ-IM/BBRl’s internal investigation report, published on the 
+21st February 2014, did not specifically identify any immediate causes or underlying factors but 
+states that Driver Y224 had a “serious lapse of concentration” and “perhaps got a little 
+complacent” as he had carried out the movement several times previously. 
+609 As a result of the SPAD, Driver Y224 was removed from his senior position and was subject to 
+“strict monitoring” for a minimum of six months. Two recommendations were made as a result of 
+this SPAD, one related to the briefing of OTMDOs on the importance of checking signals; and one 
+related to the appointment of an OTM assessor. 
+
+## Página 177
+
+610 Driver Y224 was sitting on the left hand side of the OTM cab on the approach to Signal RC874; 
+as a result, Signal RC875 was the closest signal to him. The RAIU found that this resulted in 
+Driver Y224 having an incorrect expectation that he was authorised to proceed, as he was looking 
+at the proceed aspect of Signal RC875 (the closest signal). On passing Signal RC874, Driver 
+Y224 immediately became aware that he was looking at the wrong signal and stopped the OTM. 
+### SPAD at LJ348, Limerick Junction, 25th August 2013 
+611 On the night of the 24th August 2013 there was a T3 Possession to facilitate ballast cleaning at 
+Limerick Junction. At 05:00 hrs the PICOP granted permission to the guard of the Spoil Train (the 
+Guard) for the Spoil Train to exit the possession limits and travel towards Limerick Junction.  
+612 At approximately 05:50 hrs the Spoil Train Driver arrived at Platform 1 at Limerick Junction and 
+carried out a number of train movements to move the Spoil Train towards Walsh’s Siding (see 
+Figure 76). 
+Platform 1 
+906 Points 
+Signal LJ348 
+Walsh’s Siding 
+### Figure 76 – Layout at Limerick Junction 
+613 When the Spoil Train was positioned in the Coalbank Siding, the Guard was standing at the back 
+of the Spoil Train near 906 Points (see Figure 76) when he observed 906 Point being normalised 
+(to travel into Walsh’s Siding) and he assumed the shunt signal, Signal LJ348 was cleared for the 
+Spoil Train Driver to propel the Spoil Train back into Walsh’s siding.  
+
+## Página 178
+
+614 The Guard instructed the Spoil Train Driver using the Guard Driver Communication (GDC) 
+(handset-radio) to propel into Walsh’s Siding (where shunt radios are not available, guards and 
+drivers are required to communicate through handsignals i.e. not the use of GDC). The Spoil 
+Train Driver had propelled the Spoil Train into Walsh’s Siding when the CTC Mainline Signalman 
+rang advising him he had passed Signal LJ348 at danger. The Spoil Train Driver stopped the 
+train. 
+615 The Spoiler Train Driver was classified as a Category U Driver with no previous operational safety 
+related occurrences or requirements for additional support. 
+616 IÉ assigned a SRR of 11 to the SPAD. IÉ’s internal investigation report (Report No. R0905-2014-
+36), published in August 2014 found that the immediate cause of the SPAD was that the Guard 
+instructed the Spoiler Train Driver to propel the Spoil Train past LJ348s at danger; as the Guard 
+failed to observe Signal LJ348 at danger and assumed that the route had been set as 906 Points 
+were normalised. 
+617 The RAIU found that the Guard had an incorrect expectation that Signal LJ348 would be 
+displaying a proceed aspect as he saw that the points were set for the route. The RAIU found that 
+the Spoiler Train Driver was operating as instructed and his actions were not contributory to the 
+SPAD. 
+### SPAD at Signal GL354, Athenry, 16th November 2013 
+618 On the evening of the 15th November 2013, following heavy rain and high winds, two trains failed 
+to operate track circuits as they approached Athenry from Gort, a location where TCB regulations 
+apply, which resulted in SPAD alarms on the PCECP in Athlone. As a result, the GLS reported 
+the fault to the relevant parties and the DTE and DM made the decision to introduce ‘Regulation 
+11.7 – Failure of Trains to Operate Track Circuits’ from the SGIs. These regulations state: 
+ 
+Consider the affected portion of line to include 
+o 
+the failed track circuit(s) and; 
+o 
+the next three track circuits to correctly show occupied and then clear beyond the 
+failed track circuit(s); 
+ 
+Do not then permit any other train to enter the affected portion of line (except a train required 
+to assist a disabled train) until the train concerned has passed clear of the affected portion of 
+line. 
+
+## Página 179
+
+619 As a result, the next morning the decision was made by the GLS and the LCCC Supervisor to 
+stop trains at Signal GL354 prior to giving drivers permission to proceed. The driver (Driver A782) 
+of the 09:20 hrs passenger service from Limerick to Galway (Train A782) operated the train as 
+normal to Gort. At Gort Driver A782 was informed, by the GLS, that he would be blocked at Signal 
+GL354, he was told this was due to leaves on the line. 
+620 Driver A782 departed from Gort Station and continued towards Galway. On approaching the 
+repeater signal, Signal GLR354, he saw that it was displaying a yellow aspect and continued past 
+it at 15 mph (24 km/h). On approaching Signal GL354 at danger, Driver A782 slowed the train to 
+10 mph (16 km/h). Train A782 then went into a slide, Driver A782 applied the emergency brake, 
+but the train passed Signal GL354 at danger without authority.  
+621 Driver A782 had six months of driving experience and was a PQA Driver at the time of the SPAD, 
+with no previous operational safety related occurrences or requirements for additional support. 
+622 The SPAD was assigned an SRR of 0. IÉ’s internal investigation report, published on the 6th July 
+2015, identified the immediate cause of the SPAD as “the driver did not have his train under 
+sufficient control to prevent passing Signal GL354 at danger without authority”. Causal factors 
+were identified as:  
+ 
+The LRA conditions;  
+ 
+The incorrect application of Regulation 11.7 (whereby the signal was maintained at danger 
+without any train in the section, as opposed to maintaining the signal at danger until the first 
+train had cleared the section);  
+ 
+The lack of understanding, on the part of the GLS, of Regulation 11.7;  
+ 
+The GLS or the LCCC Supervisor did not have the SGIs at their workstations.  
+623 Underlying causes were identified as the signalmen in the location not being assessed in the 
+application of Regulation 11.7 and there was no assigned location for the SGIs in the required 
+locations. 
+624 The RAIU found that Driver A782 had an incorrect expectation in relation to what Signal GL354 
+would be displaying.  
+
+## Página 180
+
+### SAS SPAD at SAOIB, Limerick (Limerick), 24th September 2014 
+625 On the night of 23rd September 2014, a T3 possession was granted by the Station Cabin (see 
+Figure 77 for location) to facilitate renewal works at Limerick Station; there were no issues 
+reported prior to the possession being cancelled at 05:29 hrs. The possession works affected the 
+stabling of the trains and the Signalman was informed of the movements to be undertaken. Due to 
+a fault being detected by the SET department, the Station Cabin Signalman granted another T3 
+possession at 05:30 hrs to facilitate SET to carry out repairs to the panel at the Station Cabin. 
+Disc LK41 
+70 Points 
+Wash Road 
+Shunt Signal 
+Location 
+where 
+Station 
+LK42 
+Cabin Signalman thought 
+the train was stabled 
+### Figure 77 – Limerick Station layout 
+626 At approximately 05:50 hrs, the driver (Pilot Driver) carrying out the shunting manoeuvre in 
+preparation for the 06:25 hrs passenger service from Limerick to Limerick Junction, contacted the 
+Station Cabin Signalman from the trains location on Tobin’s Road Siding (see Figure 77) to 
+request the route into the Station. The Station Cabin Signalman informed Pilot Driver that there 
+was a fault in the Station Cabin and he would get back to him. Pilot Driver then saw the Limerick 
+to Galway passenger service departing and re-contacted the Station Cabin Signalman to request 
+the route. At this stage the Station Cabin Signalman said that he would request that the Check 
+Cabin Signalman, located into the Check Cabin (see Figure 77) to request the route.  
+627 There was some confusion on the part of the signalmen about the stabling location of the train 
+which was not fully clarified. However, the Station Cabin Signalman requested that the Check 
+Cabin Signalman commence setting the route into the Wash Road, by setting Shunt Signal LK42 
+to proceed. The Check Cabin Signalman cleared Shunt Signal LK42 to proceed. 
+
+## Página 181
+
+628 On seeing Shunt Signal LK42 set to proceed, 
+the Pilot Driver re-contacted the Station Cabin 
+Wash Road 
+Signalman. It is not clear what communications 
+occurred between the Pilot Driver and the 
+Shunt 
+Station Cabin Signalman, but the Pilot Driver 
+Signal 
+thought that he was authorised to travel into the 
+LK42 
+Wash Road. However, 70 Points were not set 
+and the Pilot Driver was not authorised to travel 
+past the Stop & Obtain Instruction Board 
+(SAOIB), which under the Rule Book has the 
+same meaning as a stop signal and permission 
+must be granted by an authorised person for 
+drivers to pass these boards, see Figure 78. As 
+a result, the Pilot Driver travelled past the 
+### Figure 78 – SAOIB & LK42 & Wash Road 
+SAOIB and 70 Points which were in the reverse 
+position and proceeded into the Wash Road.   
+629 When SET completed repairs to the panel in the Station Signal Cabin, the Station Cabin Signal 
+commenced completing the route for the train when he noticed that the train was not on Tobin’s 
+Road, and saw that there was no detection on 70 Points; he then requested SET to examine. SET 
+found that the points had been run through. When Pilot Driver changed driving cab ends, he 
+noticed the gapping points and contacted the Station Cabin Signal.  
+630 Pilot Driver was classified as Category U Driver at the time of the SPAD. Pilot Driver had 
+previously been classified as a Category B Driver as a result of a SPAD (Shunt Signal 55) in 
+Limerick in 2011. 
+631 The SPAD was assigned a SRR of 13. The IÉ internal investigation report, published in June 
+2015, identified the immediate cause of the incident as “the train passed the SAOIB without 
+authority, traversing 70 Points which were not set for the movement”. Causal factors were 
+identified as parties not following “the protocols for safety critical communications” and not 
+reaching a “clear understanding” regarding the movement. Other causal factors were that Pilot 
+Driver “did not observe the lie of 70 Points” and the use of the SAOIB exiting siding with traverse 
+points. Underlying factors were identified as “failure to follow communication protocols and the 
+lack of recording to monitor the communications in Limerick and the lack of guidance for the 
+placement of SAOIBs. 
+632 As a result of the incident, the Pilot Driver was placed on a DD&SS. The Station Cabin Signalman 
+was also placed on a development plan. In addition, the ‘safe system of works’ were reviewed.  
+
+## Página 182
+
+633 Two recommendations were made as a result of this incident, one related to the placing of 
+SAOIBs and the other in relation to recording voice communications in Limerick Station Cabin. 
+634 The RAIU review of the incident found that the Pilot Driver had an incorrect expectation that he 
+was authorised to carry out the movement, this incorrect expectation was heavily influenced by 
+the poor communications15 with the Station Cabin Signalman; the Station Cabin Signalman had 
+lost situational awareness as he was not aware of the location of the train, this was as a result of 
+poor communications with Pilot Driver.  
+### SAS SPAD at Signal XX062, Shanclough Level Crossing, 15th January 2015 
+635 On the morning of the 15th January 2015, there were weather related faults at Level Crossing 
+XX062 (Shanclough) that affected both signalling and level crossing equipment, which resulted in 
+the level crossing being manually operated by an EO. 
+636 The Mayo Line Signalman (Signalman) contacted the driver (Driver A861) of the 07:05 hrs 
+passenger service from Ballina to Manulla Junction (Train A861) via train radio to advise him of 
+the fault at the level crossing and that an EO was on site at the crossing. The Signalman also 
+advised Driver A861 that he would have to “get down” (to use the signal post telephone) and 
+contact the LCCO (based in Athlone) on arrival at XX062US.  
+637 When Train A861 approached Signal XX062US it was displaying a red aspect. Driver A861 then 
+saw that the EO exhibiting a white light. Driver A861 made a decision to turn on his personal 
+mobile phone and contact the EO, whom he knew, to confirm it was the EO that was exhibiting 
+the white light. The EO advised Driver A861 that he was the EO at XX062 and that the crossing 
+was safe. Driver A861 then made the decision not to use the signal post telephone to contact the 
+LCCO as he believed he had permission to proceed from the EO. Driver A861 released the train 
+brake and proceeded past Signal XX062US at Danger and through the crossing. 
+638 The LCCO observed on the CCTV monitor the passage of Train A861 through the level crossing. 
+The LCCO, following consultation with the Supervisor, advised the MLS that Train A861 should 
+be stopped. The Supervisor proceeded to the Signalman’s workstation and observed Train A861 
+continuing its journey towards Foxford. The Supervisor then contacted the Deputy Operations 
+Control Manager, West (OCM West) and a decision was made to allow the train to continue. 
+639 The EO was relieved of duty and screened for drugs and alcohol under the company post incident 
+protocol. Driver A861 was not relieved of duty and continued his rostered turn of duty, nor was 
+Driver A861 requested to undergo drugs and alcohol screening post incident.  
+15 Poor communications has been noted in a number of SPAD occurrences, the absence of recording 
+communications, results in inadequate monitoring of safety critical communications.  
+
+## Página 183
+
+640 Driver A861 only became aware that the incident had been classified as a Category A SPAD in 
+October 2015, one month after the report of investigation was completed by IÉ (Report No. 
+R1005-2015-37, published on the 30th September 2015). As a result, Driver A861 was not 
+reclassified and had received no DD&SS immediately after the SPAD and was only reclassified 
+as a Category B Driver nine months after the SPAD, in October 201516.  
+641 Also of note is the fact that when the RAIU requested information on SPADs in 2015, in July 
+2015, IÉ-IM forwarded a list of Category A SPADs with the exclusion of this SPAD at Shanclough 
+on the 15th January 2015, and it was only after another request that the information was provided 
+to the RAIU. 
+642 IÉ assigned an SRR of 18 to the SPAD. The internal OOR into the SPAD, published in September 
+2015, found that the immediate cause was that Driver A861 “passed controlling Signal XX062US 
+at Danger without authority from the LCCO”. Causal factors were that Driver A861 “did not contact 
+the LCCO to obtain authority to pass Signal XX062US at Danger as per Rule Book requirements 
+and as advised by the Signalman prior to the train arriving at the crossing”, and that Driver A861 
+contacted the EO by use of his personal mobile phone and this communication between them 
+was mistaken as authority to proceed. Another casual factor was that the EO “exhibited a white 
+light” to Driver A861 on its arrival at Signal XX062US.  An underlying cause was identified relating 
+to the competence training for the EO which did not include a practical simulation of the operation 
+of a CCTV level crossing in degraded conditions. 
+643 Other observations made in the report referred to the fact that the “Supervisor did not provide 
+sufficient clear and concise information to the Deputy OCM West to enable a comprehensive and 
+detailed account of the occurrence be presented to the on-call RU District Manager. The initial 
+details provided to the on-call RU District Manager was insufficient to alert him to the seriousness 
+of the occurrence” thus allowing Train A861 to continue on its journey; and this also resulted in 
+Driver A861 not being screened for D&A. 
+644 As a result of the SPAD, the EO was given corrective coaching in relation to the operation of 
+CCTV level crossings and is to attend the training centre to engage in practical simulation of 
+CCTV level crossing operation in degraded conditions. The EO also received feedback and 
+corrective coaching on safety critical communications. In addition, the Supervisor has received 
+corrective coaching to address the areas of incident response identified in the above paragraph. 
+16 Driver A861 was not subject to drugs and alcohol tests and received no form of development for 
+nine months after the SPAD while still operating passenger services, despite a Category A SPAD 
+being a serious operating occurrence, as a result this warrants an RAIU safety recommendation, see 
+Part 14. 
+
+## Página 184
+
+As mentioned above, Driver A861 was not subject to any testing or re-classification until nine 
+months after the incident. 
+645 In relation to recommendation, the report recommended: that Driver A861 be placed on a 
+DD&SS; EO training should include simulated degraded conditions at level crossings; and that the 
+Rule Book be update to include the role of the LCCO.   
+646 The RAIU found that Driver A861 was aware that he was required to call the LCCO to obtain 
+authority, however, due to the poor weather he did not adhere to this instruction. In addition, the 
+poor communication between Driver A861 and the EO, and the fact that the barriers were lowered 
+to road traffic, resulted in Driver A861 having an incorrect expectation that he was authorised to 
+travel through the level crossing. 
+### Summary of Category A SAS & SOY SPADs 
+### General information 
+647 SAS & SOY SPADs, similar to the SAS SPAD at Muine Bheag on the 9th April 2013 (Part 7 of this 
+report) are discussed in this section of the report.  
+### SAS SPADs 
+648 Between 2012 and mid 2015 there have been nineteen recorded SAS SPADs (including the 
+SPAD at Muine Bheag on the 9th April 2013), as follows: 
+SAS SPAD at Signal PE31s, Pearse (Dublin), on the 16th January 2012; 
+ 
+SAS SPAD at Signal LJ368, Limerick Junction, on the 7th March 2012; 
+ 
+SAS SPAD at Signal BY488, Ballybrophy (Laois), on the 8th May 2012; 
+ 
+SAS SPAD at Signal BR44s, Bray (Wicklow), 5th February 2013; 
+ 
+SAS SPAD at Signal SL719, Killucan (Westmeath), 21st June 2013; 
+ 
+SAS SPAD at Signal TL241, Killarney (Kerry), 9th August 2013; 
+ 
+SAS SPAD at Signal PE35s, Pearse (Dublin), 10th August 2013; 
+ 
+SAS SPAD at Signal TL226, Rathmore (Kerry), 26th February 2014; 
+ 
+SAS SPAD at Signal DD269, Dundalk (Louth), 13th May 2014; 
+ 
+SAS SPAD at Signal MW826, Mallow (Cork), 16th May 2014; 
+ 
+SAS SPAD at SAOIB, Limerick, on the 24th September 2014 (discussed above in relation to 
+ 
+SPADs during degraded train operations); 
+SAS SPAD at Signal HN291, Heuston (Dublin), 11th October 2014; 
+ 
+
+## Página 185
+
+SAS SPAD at Signal XX062, Shanclough Level Crossing, 15th January 2015 (discussed 
+ 
+above in relation to SPADs during degraded train operations); 
+SAS SPAD at Signal SL817, Boyle (Roscommon), 18th January 2015; 
+ 
+SAS SPAD at Signal DN201, Howth (Dublin), 21st April 2015; 
+ 
+SAS SPAD at Signal RL543, Enniscorthy (Wexford), 9th June 2015; 
+ 
+SAS SPAD at Signal MN143, Maynooth (Kildare), 23rd June 2015;  
+ 
+SAS SPAD at Signal CY69, Fairview (Dublin), 25th June 2015. 
+ 
+### SOY SPADs 
+649 Between 2012 and mid 2015 there have been eight recorded SOY SPADs, as follows: 
+SOY SPAD at Signal TS469, Thurles (Tipperary), on the 1st November 2012; 
+ 
+SOY SPAD at Signal LK5, Limerick (Limerick), 8th July 2013; 
+ 
+SOY SPAD at Signal GL353, Athenry (Galway), on the 10th July 2013; 
+ 
+SOY SPAD at Signal DD262, Dundalk, 10th August 2013;  
+ 
+SOY SPAD at Signal HK196, Curragh (Kildare), 14th March 2014; 
+ 
+SOY SPAD at Signal CE842, Glounthaune (Cork), 29th June 2014; 
+ 
+SOY SPAD at Signal BR36, Bray (Wicklow), 20th August 2014; 
+ 
+SOY SPAD at Signal PE18, Connolly (Dublin), 11th March 2015. 
+ 
+650 This section of the report summarises the events leading up the SAS and SOY SPADs and 
+includes the immediate causes, causal factors and underlying factors identified by internal IÉ 
+investigations or reviews. In addition, the summaries include a brief history of the drivers driving 
+history and the findings of the RAIU. The incidents summarised in chronological order, starting 
+with the oldest SAS/SOY SPAD incident. 
+651 It should be noted that although not identified in the individual RAIU findings, the RAIU found, in 
+the vast majority of SAS and SOY SPAD incidents, the drivers involved had not applied any form 
+of EPTs at the time of the SPAD. A very small minority of drivers had applied some EPTs in the 
+past or on the day of the SPAD, but these EPTs were ineffective at preventing the SPADs. 
+### SAS SPAD at PE31s, Pearse (Dublin), 16th January 2012 
+652 The driver (Driver P671) operated the 21:05 hrs passenger service from Maynooth to Pearse 
+(Train P671) without incident. At Pearse, Driver P671 stabled the train in the down loop due to 
+reversible working between Pearse and Tara (and vice versa). Driver P671 sees signal PE33 
+upgrade to yellow and assumes he is clear to return the platform; he does not see signal PE31s 
+and passes it at danger, see Figure 79. 
+
+## Página 186
+
+### Figure 79 – Pearse Station layout (taken from IÉ report) 
+653 At the time of the incident, Signal PE31 had been previously past at danger on one occasion in 
+the previous ten years. 
+654 Driver P671 had five years of driving experience and was classified as a Category U Driver with 
+no requirements for additional support.  
+655 The SPAD was assigned an SRR of 11. IÉ’s internal investigation report (Synergi Ref 17305) 
+published on the 6th March 2012 identified the immediate cause of the SPAD as the “driver 
+reading across to the wrong signal, PE33” and the underlying cause was “a lack of concentration 
+by the driver”. The report recommended that the driver be placed on a DD&SS and the marker 
+boards be erected as a result of findings of the SCC. 
+656 The RAIU review of the incident found that Driver P671 had lost situational awareness, as 
+although he was familiar with the area, he was not familiar with the movement (there was a 
+change of movements as a result of the reversible working); this loss of situational awareness 
+resulted in Driver P671 not fully understanding the signal sequencing for the movement.  
+### SAS SPAD at LJ368, Limerick Junction, 7th March 2012 
+657 The driver (Driver A406) of the 15:25 hrs passenger service from Heuston to Limerick (Train 
+A406) was requested to stop in Limerick Junction as a result of a fire at Limerick Station, he was 
+requested to stop on Platform 2/3 (he was occupying both Platforms 2 and 3 as he was operating 
+a 6-piece train), see Figure 80. At Limerick Junction the passengers disembarked to travel the 
+remainder of the trip to Limerick by bus, however, the line was re-opened to Limerick and the 
+passengers re-boarded the train.  
+
+## Página 187
+
+658 As the train was occupying Platforms 2/3 the CTC Signalman issued Driver A406 an authority 
+number to pass Signal LJ372 at danger and proceed up to and obey LJ368 where the CTC 
+Signalman would contact him again, see Figure 80 for location of signals. Although the CTC 
+Signalman was aware that Signal LJ372 was behind Driver A406, as he was occupying both 
+platforms, the CTC Signalman did not state that the authority number was being issued for Signal 
+LJ372, behind him.  
+LJ364 
+LJ368 
+LJ372 
+Platform 2/3 
+### Figure 80 – Limerick Junction layout leaving Platform 2/3 (taken from IÉ report) 
+659 Driver A406 thought that Signal LJ372 was in fact the signal ahead of him, Signal LJ368 and 
+passed the signal at danger. The CTC Signalman contacted Driver A406 and asked him if he had 
+passed Signal LJ368 at danger, Driver A406 stated that he was approaching Signal LJ368. The 
+CTC Signalman ended the call but called back requesting that Driver A406 stop the train. Driver 
+A406 was now standing in rear of Signal LJ364, where he then realised he had passed Signal 
+LJ368 at danger. 
+660 Driver A406 had twenty-one years of driving experience and was classified as a Category U 
+Driver with no requirements for additional support at the time of the incident. Driver A406 had 
+previously been classified as a Category D as a result of an over-speeding incident in 2003, a 
+SPAD in Limerick in 2009 (Signal LK41), a ‘failure to call’ incident at Newbridge Station in 2010.  
+
+## Página 188
+
+661 The SPAD was assigned an SRR of 18. IÉ’s internal investigation report, published on the 28th 
+June 2012, identified the immediate cause of the SPAD as a “misunderstanding on the part of the 
+driver”; five underlying causes associated with the protocol of occupying Platforms 2/3 were 
+identified and one underlying cause associated with the issuing of authority numbers was 
+identified. As a result of the incident the driver was assigned a DD&SS and a protocol was 
+developed for the occupation of Platforms 2/3. Two further recommendations were made in 
+relation to the alteration of signals at Platforms 2/3 and in relation to the instructions for signalmen 
+dealing with trains starting ahead of signals.   
+662 The RAIU review of the incident found that the driver had lost situational awareness as he had 
+made assumptions on the signal numbers based on the information provided by the signalman 
+and thought that all the signals the signalman was referring to were in front of him; in addition, he 
+was unfamiliar with the movement.  
+### SAS SPAD at BY488, Ballybrophy (Laois), 8th May 2012 
+663 On Tuesday 8th May Driver A312 was operating the 17:05 hrs passenger service from Heuston to 
+Tralee (Train A312). After the passengers alighted and boarded Train A312, the PIC gave the 
+‘Station Work Complete’ signal and Driver A312 then closed the doors. Despite Signal BY488 
+displaying a red aspect (see Figure 81 for drivers’ view of Signal BY488) the PIC gave the ‘Ready 
+to Start’ signal without checking the signal as it was obscured by a water tower (see Figure 82 for 
+PIC’s obscured view of Signal BY488); however he was aware, due to experience, that it would 
+be displaying a red aspect as a result of the previous train, travelling in the same direction, being 
+delayed (as a result it had not cleared the section, resulting in Signal BY488 remaining at red). 
+Signal BY488 is located 119 m from the platform end and the PIC assumed that Driver A312 
+would depart from the station and stop at Signal BY488. 
+Signal BY488 
+Obstructed 
+view 
+of Signal BY488 
+Water Tower 
+Water Tower 
+### Figure 81 – Drivers’ view of Signal BY488 
+### Figure 82 – PIC’s view of Signal BY488 
+
+## Página 189
+
+664 Driver A312 did not look at Signal BY488 prior to departing, and while departing was looking at 
+the PIC on the in-cab MMI screen in case the PIC wanted to stop the train. Driver A312 travelled 
+past Signal BY488 at danger. On passing the signal, Driver A312 saw that the next signal, Signal 
+CLXDD, was showing a yellow aspect while the CAWS indication in the cab was displaying red. 
+Driver A312 then realised that he may have passed Signal BY488 at danger and started to bring 
+his train to a stop, he stopped 815 m past Signal BY488. The signalman then contacted Driver 
+A312 to inform him of the SPAD. As there were no other drivers available, Driver A312 was 
+allowed to proceed with a second person, the Travelling Ticket Checker (TTC) to Thurles and 
+then a DTE from Thurles to Limerick Junction, where he was relieved from his duties.  
+665 Driver A312 had almost three years of driving experience and was classified as a Category U 
+Driver with no previous occupational safety related occurrences in the previous three years. 
+666 IÉ assigned an SRR of 19 to this SPAD. IÉ’s internal investigation report (R006/2012) published 
+on the 20th November 2012 found that the immediate cause of the accident was as a result of 
+Driver A312 failing to observe signal BY488 at danger before starting or any time after starting his 
+train from the down platform at Ballybrophy Station due to a lack of concentration; and he could 
+not explain why he did not observe the signal and only noticed that the next signal was yellow 
+after a distance of 235 m. Causal factors related to Driver A312 included: not obeying the Rule 
+Book; not prioritising his tasks (looking at the MMI screen instead of the signal); not being aware 
+of the risks on the route. Causal factors related to the PIC included the PIC giving the ‘Ready to 
+Start’ while a red aspect was being displayed and the PIC’s view of Signal BY488 by a water 
+tower.  
+667 Underlying causes related to drivers included that there are were no route risks identified for the 
+Dublin to Cork route available to drivers working from the Cork District as required by OPS-SMS-
+3.3; and the method of assessment was not “robust”; and that “the method for assessing Human 
+Factors and other issues is not robust as set out in the Competence Assessment Form of OPS-
+SMS-3.1, Competence Management of Drivers. There is no means of recording what was 
+observed or the answers given by the driver during the assessment”. Underlying causes 
+associated with the PIC included that there was no risk assessment for the despatch of trains at 
+Ballybrophy Station and the competence assessment documentation does not reflect the specific 
+risks at Ballybrophy Station. 
+668 As a result of the incident, a development plan has been developed for Driver A312. IÉ made four 
+recommendations related to route knowledge and assessment for drivers, including the review 
+and updating of current documentation; and two recommendations in relation to the risks and 
+assessment of PICs. 
+
+## Página 190
+
+669 The RAIU review of the incident found that Driver A312 became distracted by the station work 
+and continued to monitor the platform from the in-cab MMI screen in case the PIC wanted to stop 
+the train. Driver A312 also developed an incorrect expectation as to the aspect of the signal, this 
+was initially as a result of receiving the ‘Ready to Start’ indication from the PIC but also Driver 
+A312 was familiar with the area and knew that the previous train was ahead of him and assumed 
+it had cleared the section.  
+### SOY SPAD at TS469, Thurles (Tipperary), 1st November 2012 
+670 The driver (Driver J461) was operating an empty train from Limerick to Thurles to return as the 
+07:30 hrs passenger service from Thurles to Limerick departing from Platform 2. To arrive on 
+Platform 2 the train was required to pass Signal TS471 on the up road, crossover points 742 to 
+travel onto the down road and pass Signal TS469 onto Platform 2. 
+671 Prior to this movement, Driver J461 was stopped at Signal TS471 for approximately two minutes 
+before the signal upgraded to yellow; Signal TS469 which was in view was displaying a red 
+aspect. Driver J461 travelled past Signal TS471 at yellow and onto the crossover points. At this 
+stage, Driver J461 attempted to answer a call from the signalman on the train radio, however it 
+immediately cut off, immediately afterwards another call came in which Driver J461 answered. 
+However, in doing this, he travelled past Signal TS469 at danger.  
+672 Driver J461 had over three years of driving experience and was classified as a Category U Driver 
+with no previous occupational safety related occurrences. 
+673 IÉ assigned an SRR of 8 to this SPAD. IÉ’s internal investigation report (Safety Office Ref: 
+12/128) into the incident, published on the 7th November 2012 found the immediate cause of the 
+incident was “the driver failing to control and stop the train on approach to TS469 which was 
+showing a red aspect”. Underlying causes associated with the driver included that he 
+acknowledged the CAWS without reducing the speed of the train, he did not implement the 15x20 
+Rule, and he answered a call on approaching a red signal. Underlying causes associated with the 
+signalman include the fact that that entire route was not set and that he did not inform the driver 
+that he would be stopped at TS469. Driver J461 was assigned a DD&SS as a result of the SPAD 
+and a recommendation was made to the DM Limerick to review the risk assessment for the 
+Limerick to Thurles route. 
+674 The RAIU review of the incident found that Driver J461 had become distracted as a result of the 
+second call from the signalman; Driver J461 thought there was a serious issue if the signalman 
+was returning the call immediately. As a result of this distraction Driver J461 lost situational 
+awareness and forgot that he was approaching a red aspect.  
+
+## Página 191
+
+### SAS SPAD at BR44s, Bray (Wicklow), 5th February 2013 
+675 At 09:28 hrs on the 5th February 2013 the 06:45 hrs passenger service from Newry to Bray (Train 
+P605) arrived in Bray without incident. After all the passengers had disembarked the train, the 
+driver (Driver P605) shunted the train into the loop. Driver P605 changed driving cab ends and on 
+getting into the driving cab he thought he was slightly ahead of Signal BR44s and thought that he 
+may be holding the road, as a result he began to drive forwards towards BR42, passing BR44s at 
+danger. 
+676 At the time of the incident, Signal BR44s had been previously past at danger on two occasions in 
+the previous ten years. 
+677 Driver P605 had over ten years of driving experience and was classified as a U Category Driver 
+with no previous occupational safety related occurrences in the previous ten years. 
+678 IÉ assigned an SRR of 12 to the SPAD. IÉ’s internal investigation report published on the 1st 
+March 2013 identified the immediate cause as “the driver stopping his train too close to signal 
+BR44s and drawing forward towards BR42 without contacting the signalman”. The underlying 
+causes were identified as “the driver mistakenly believing that he was holding the road and the 
+next signal to obey was BR42”; and that the driver “did not adhere to the Shed Notice” in relation 
+to BR44s. 
+679 Driver P605 was assigned a DD&SS as a result of the SPAD. The report also made 
+recommendations in relation to: the signal sighting of BR44s; and the Shed Notices and holding 
+roads should be incorporated into SBUDs. 
+680 The RAIU review of the incident found that Driver P605 had lost situational awareness, and lost 
+sighting of Signal BR44s as he had pulled up too close to the signal. This was as a result of: 
+carrying out a movement in a longer train (eight-piece) than normal; the movement not being a 
+regular movement for the driver; and he was unsure if he was holding the road.  
+### SAS SPAD at SL719, Killucan (Westmeath), 21st June 2013 
+681 On Friday 21st June 2013 the 18:00 hrs passenger service from Sligo to Connolly (Train A913) 
+and the 19:05 hrs passenger service from Connolly to Sligo (Train A914), were scheduled to 
+swap trains and drivers at Killucan.  
+682 While enroute to Killucan, a passenger was taken ill at Kilcock and used the emergency 
+passenger phone to call the driver (Driver A913). At Enfield the driver went to attend to the 
+passenger and requested assistance for the passenger. The decision was made to continue the 
+journey with the passenger onboard and Driver A913. On leaving Enfield, Driver A913 realised 
+
+## Página 192
+
+that he had not reset the emergency passenger phone and became worried about how the ill 
+passenger would now contact him.  
+683 At Killucan, the new driver entered the cab of Train A913 and Driver A913 informed the new driver 
+of the service of the situation with the passenger and the emergency passenger phone. Both 
+drivers looked at the signal and saw that the signal was displaying a green aspect for Train A913 
+to continue to Connolly.  
+684 Driver A913 then entered his new train but did not look at Signal SL719 (which was located 77 m 
+from the front of the train) before departing Killucan, see Figure 83 for the signal displaying a red 
+aspect. Train A913 accelerated to a speed of 16 mph (25.6 km/h) before Driver A913 saw Signal 
+SL719 at danger and applying the full service and emergency brakes. However, Train A913 
+passed Signal SL719 at danger, with the train stopping 10 m beyond the signal. 
+### Figure 83 – Signal SL719 
+685 Driver A913 had over four years of driving experience and was classified as a Category B Driver 
+at the time of the incident as a result of six previous operational safety related occurrences, which 
+meant that he was a driver that required a high level of additional monitoring and support.  
+686 The SPAD was assigned an SRR of 12. IÉ’s internal investigation report (Safety Office Ref 
+130621-1) published on the 8th October 2013 identified the immediate cause of the incident as 
+Driver A913 failing to look at Signal SL719 before moving his train. Causal factors were identified 
+as Driver A913 being distracted by the earlier incident of a passenger being taken ill. An 
+underlying cause to the incident was Driver A913 having a lapse in concentration as a result of 
+the earlier incident. As a result of this incident, Driver A913 was removed from driving duties. 
+
+## Página 193
+
+687 The RAIU review of the incident found that Driver A913 had become distracted by the passenger 
+taken ill on the train, in addition, he forgot to reset the passenger phone resulting in him becoming 
+preoccupied in thinking about the phone. He also had an incorrect expectation of the signal, as he 
+had looked at the green aspect for Train A913 and forgot (loss of situational awareness) that he 
+was no longer on Train A913.  
+### SOY SPAD at LK5, Limerick (Limerick), 8th July 2013 
+688 At 20:25 hrs on the 8th July 2013 the driver (Driver A478) departed Platform 3 Limerick Station 
+operating the 20:25 hrs passenger service from Limerick to Ennis (Train A478) while LK25 the 
+starting signal, was displaying a yellow aspect; this was as a result of a delay to the train travelling 
+in the opposite direction, which meant that Signal LK5 was displaying a red aspect. Driver A478 
+thought that Signal LK5 was displaying a yellow aspect and proceeded past Signal LK5 at danger, 
+and came to a stop at the next signal LK6/8 which was displaying a red aspect. A signalman 
+located in the signal cabin which was located close to LK5 saw Train A478 passing Signal LK5 at 
+danger and advised Driver A478 of this and requested that he not move the train.  
+689 Driver A478 had over 43 years of driving experience and was classified as a Category U Driver at 
+the time of the SPAD. Driver A478 had been previously classified as a Category A Driver as a 
+result of an irregular movement in 2005. 
+690 This SPAD was assigned an SRR of 14. Signal LK5 is now 
+a multi-SPADed signal. IÉ’s 5DIR (Report No. R0402-2014-
+19), published the 31st March 2013 determined that the 
+immediate cause of the incident was Driver A478 misread 
+Signal LK5 due to the visibility of the signal being affected 
+by the sunlight, see Figure 84 for a photograph taken the 
+day following the incident at approximately the same time. 
+Underlying causes were identified as Driver A478’s 
+perception of Signal LK5 was affected by the sunlight and 
+that as Signal LK5 is ground mounted on the right, these 
+signals are harder to interpret during bright conditions.   
+### Figure 84 – Signal LK5  
+691 Driver A478 was assigned a DD&SS. IÉ also undertook a number of other actions as a result of 
+this incident, including a plan for the repositioning of LK5, as well as re-briefing to Signallers and 
+drivers on issues involved in this incident. In relation to the sunlight, the District Manager Limerick 
+issued a drivers notice in January 2014 highlighting the effect that sunlight can have on visibility of 
+signals and the risks associated with starting on yellow when departing Limerick Station. As a 
+result of these actions, and previous actions already taken in relation to signalling in the area, the 
+
+## Página 194
+
+5DIR made one recommendation related to reviewing the risk assessment associated with trains 
+departing Limerick Station on a yellow aspect. 
+692 The RAIU found that Driver A478 had become distracted by the bright sunlight, leading him to an 
+incorrect expectation that Signal LK5 was displaying a yellow aspect.  
+### SOY SPAD at GL353, Athenry (Galway), 10th July 2013 
+693 On the 10th July 2013 there was WSLP in operation in the Athenry to Galway section due to an 
+axle counter fault. In addition, there was a fire on the canopy of Platform 1 at Athenry. The driver 
+(Driver A489) who was operating the 17:45 hrs passenger service from Galway to Limerick (Train 
+A489) was informed of the situation.  
+694 The service departed Galway fifty-five minutes late, on arriving on the Galway Loop the train was 
+held at this location. While waiting on the loop, a Revenue Protection Officer informed Driver 
+A489 that a wheelchair passenger was in distress (this was due to the hot weather). The train 
+departed from the Galway Loop one hour, fifteen minutes behind schedule. Train A489 was then 
+stopped at Garraun Level Crossing (XG167) and Oranmore Level Crossing (XG165) where Driver 
+A489 contacted the signalman to activate the barriers. Train A489 then approached Signal GL369 
+displaying a red aspect, and contacted the signalman to get an authority number to pass the 
+signal at danger, which was granted; and Driver A489 continued to Athenry without further 
+incident. At Athenry Station, as Driver A489 was changing driving cab ends, he was approached 
+by irate passengers who were annoyed about the delays and the heat on the train; he also noted 
+the emergency services on site dealing with the fire on the canopy. 
+
+## Página 195
+
+### Figure 85 – Athenry Station layout 
+695 While Train A489 was at Athenry Station, the signalman requested Signal GL348, which 
+upgraded to yellow, and the train departed, see Figure 85. The signalman requested GL353 (see 
+Figure 85) three times within thirty seconds but the signal did not upgrade. This was as a result of 
+the incorrect WSLP switch being operated (the switch was operated for the Athenry to Gort line 
+instead of the Athenry to Galway line), however, this was not noticed by the signalman. 
+696 Driver A489 departed Athenry with Signal GL348 displaying a yellow aspect obeying the speed 
+restriction of 20 mph (32 km/h) and then increasing the speed of the train when passing the PSR 
+of 80 mph (128 km/h). Driver A489 then looked out the window of the train and back towards the 
+fire on the canopy. When Driver A489 looked back at the track, he saw that Signal GL353 was 
+displaying a red aspect and immediately applied the brakes, but passed the signal at danger 
+without authority.  
+697 Driver A489 had four years of driving experience and was classified as a Category U Driver with 
+no previous occupational safety related occurrences. 
+698 IÉ assigned an SRR of 0 to the SPAD. IÉ’s internal 5 working day panel review, published on the 
+27th November 2011 identified the immediate cause as “the driver did not react to the cautionary 
+aspect”. Underlying causes associated with the signalman were identified as the signalman 
+engaging the wrong switch and being too distracted to check that the route was set. Underlying 
+causes associated with Driver A489 included that the driver was distracted with the WSLP, fire, 
+
+## Página 196
+
+irate passengers, wheelchair passenger and the speed board.  Another underlying cause was 
+identified as the “abnormally warm temperatures” on the day. 
+699 As a result of the SPAD, Driver A489 was assigned a DD&SS and the signalman’s performance 
+under WSLP was reviewed. Vegetation around Signal GL353 was also cut back. 
+700 The RAIU review of the incident found that Driver A489 had become distracted by a number of 
+factors on the day of the incident, namely the WSLP, the late running of the trains, the wheelchair 
+passenger, the irate passengers, the fire at Athenry and the speed board17. He also had an 
+incorrect expectation of the signal, which normally displayed a green aspect. These factors led to 
+Driver A489 losing situational awareness and forgetting he was operating under WSLP and 
+departing the station on a yellow aspect.  
+### SAS SPAD at TL241, Killarney (Kerry), on the 9th August 2013 
+701 On the 9th August 2013 driver (Driver A310) was rostered to “driver as required” and was 
+assigned to the 17:25 hrs passenger service from Mallow to Tralee (Train A310). To travel from 
+Killarney to Mallow, trains are shunted into Killarney Check to be forwarded onto Mallow. When 
+Train A310 was routed into Killarney Check, Driver A310 changed driver cab ends, he then 
+started the train without looking at Signal TL241 which was displaying a red aspect and passed 
+the signal at danger without authority.  
+702 At the time of the incident, Signal TL241 had been previously past at danger on one occasion in 
+the previous ten years. 
+703 At the time of the SPAD, Driver A310 was a PQA driver with no previous occupational safety 
+related occurrences. 
+704 IÉ assigned an SRR of 14 to the SPAD. IÉ’s internal 5 Working Day Panel Review, published on 
+the 13th August 2013, identified the immediate cause as the driver “failed to check the aspect of 
+signal TL241 before starting his train” and the underlying cause as “the driver was not focused on 
+the task at hand due to a lapse in concentration”. Driver A310 was assigned a DD&SS as a result 
+of the SPAD and there were no other recommendations. 
+705 The RAIU review of the incident found that Driver A310 was distracted by the late running of the 
+train. He had an incorrect expectation that the signal would be displaying a green aspect as he 
+17 The RAIU have found that the placement of speed boards near signals has been a contributory 
+factor in four SPADs reviewed during this investigation, including the SPAD at Millstreet on the 8th 
+December 2013. As a result, the RAIU feel this warrants a safety recommendation, see Part 14 – 
+Safety Recommendations. 
+
+## Página 197
+
+normally had a green aspect. Driver A310 also assumed that signalmen were required to route 
+trains out of Killarney Check as a priority. In addition, Driver A310 was not fully aware of his 
+situation as he had not been scheduled to drive the train and was “driving as required”, which 
+Driver A310 felt contributed to the SPAD. 
+### SOY SPAD at Signal DD262, Dundalk, on the 10th August 2013 
+706 On Saturday 10th August 2013 the 16:50 hrs passenger service from Connolly to Belfast (Train 
+A132) departed from Dublin on time and operated to Dundalk without incident; Driver A132 
+operated this service throughout. Prior to the arrival of Train A132 the signalman attempted to 
+clear the route for Train A132 from Dundalk to Newry, two times, but was unsuccessful as there 
+was a train occupying the section. As a result, the signal on the approach to Dundalk Station 
+(Signal DD278) was displaying a double yellow aspect; the signal at the exit of Dundalk Station 
+(Signal 265) was displaying a yellow signal; and Signal DD262 was displaying a red aspect. 
+707 At Dundalk, after the passengers had disembarked and boarded the train, the Train Guard 
+sounded the bells, and Driver A132 closed the doors; the Train Guard then sounded the Ready to 
+Start bells and Driver A132 proceeded. The Train Guard noticed that Signal DD265 was 
+displaying a yellow aspect. Driver A132 did not notice that Signal DD265 was displaying a yellow 
+aspect. 
+708  After departing Dundalk, the CAWS downgrades to red, and Train A132 continued to accelerate 
+to a speed of 39.76 mph (63.6 km/h) and holds this speed. Driver A132 then looks away from the 
+track to retrieve the Northern Ireland Railways (NIR) mobile phone from the cross border bag 
+(drivers operating into Northern Ireland are required to carry this mobile phone). When Driver 
+A132 retrieved the mobile phone and looked back at the track he saw that Signal DD262 was at 
+danger, he then applied the brakes, and came to a stop approximately 51 m past Signal DD262.  
+709 Driver A132 had ten years of driving experience and was classified as a Category B Driver at the 
+time of the incident as a result of a speeding incident in February 2013.  
+710 The SPAD was assigned an SRR of 15. The investigation report into the incident, published in 
+June 2014 (Report No. R0701-2014-25), identifies the immediate cause of the incident as Driver 
+A132 being distracted and failing to react in time to the CAWS aspect displayed in his cab and 
+Signal DD262. Causal factors include Driver A132 not heeding Signals DD278, DD265 or DD262 
+and not applying the brake to emergency on receiving the CAWS downgrade. Underlying causes 
+were identified as Driver A132 being over reliant on Signals DD265 and DD262 being at proceed 
+and that Driver A132 did not have situational awareness of his surroundings. The report also 
+noted that if Driver A132 had applied the emergency brakes instead of the full service brake, the 
+SPAD would not have occurred.  
+
+## Página 198
+
+711 After the incident: Driver A132 remained on a DD&SS; briefings occurred in relation to the use of 
+mobile phones and the application of emergency brakes on approaching red aspects. The report 
+made six recommendations, including two specifically related to Driver A132, two on mobile 
+phones, one on PIC duties and one related to the review of the route risks in relation to SOY 
+SPADs.  
+712 The RAIU review of the incident found that Driver A132 had become distracted by retrieving the 
+NIR mobile phone; he also had an incorrect expectation that Signals DD265 and DD262 would be 
+displaying a green aspect, as he assumed that all trains travelling into Northern Ireland were 
+required to be cleared; he also had not fully appreciated that signalling sequence when driving 
+into the station, i.e. that Signal DD278 was displaying a double yellow and Signal DD265 was 
+displaying a single yellow. 
+### SAS SPAD at PE35s, Pearse (Dublin), 10th August 2013 
+713 At 06:30 hrs on the 10th August the driver (Driver A905) of the 07:40 hrs passenger service from 
+Pearse to Maynooth (Train A905) reported for duty fit and rested for driving duties. At 07:32 hrs 
+Driver A905 arrived at Pearse Station shunted into Pearse Street Station Yard to change driving 
+cab ends and continue back into Pearse Station. On changing driving cab ends Driver A905 has 
+difficulty with connecting the radio to the correct channel. At 07:39 hrs, he has not resolved the 
+issue with the radio but made the decision to travel back onto the platform at Pearse Station 
+where he would try again to fix the radio.  
+714 Driver A905 checks that the points are set for his return onto the platform at Pearse Station and 
+sees that they are. He then starts driving the train towards the platform without checking what 
+aspect position light signal, Signal PE35s was displaying (which was displaying a danger aspect).  
+Driver A905 then travels past Signal PE35s at danger (see PE35s in Figure 86).  
+715 At the time of the incident, Signal PE35s had been previously passed at danger on two occasions 
+in the previous ten years. 
+716 Driver A801 had over twelve years of driving experience and was classified as a Category U 
+Driver with no previous operational safety related occurrences or requirements for additional 
+support in the previous twelve years. 
+
+## Página 199
+
+### Figure 86 – Position light signal, Signal PE35s 
+717 This SPAD was assigned an SRR of 17. Signal PE35s is now a multi-SPADed signal. The IÉ 
+internal investigation report (Safety Office Ref: 130810-IM01) published on the 8th October 2013 
+identified the immediate cause as Driver A905 failing to look at Signal PE35s before moving his 
+train; the causal factor was that Driver A905 was distracted by another task (setting up the train 
+radio); and the underlying cause was a lapse in concentration by Driver A905.  
+718 As a result of this incident Driver A905 has been reclassified as a Category B Driver for a period 
+of two years and assigned a DD&SS. The report also makes two recommendations: for the signal 
+to be identified as a multi-SPADed signal and for drivers to be re-briefed on the auto routing 
+system (especially the movement of points). 
+719 The RAIU review of the incident found that Driver A905 had become distracted and preoccupied 
+with the radio which he could not get to work. He also had an incorrect expectation that the signal 
+was displaying a proceed aspect, as when he saw the points set for his route, he assumed the 
+signal was displaying a proceed aspect, as a result of losing situational awareness.  
+### SAS SPAD at TL226, Rathmore (Kerry), 26th February 2014 
+720 On Friday 26th February 2014 the Inspection Car Driver (Driver Y370) was required to operate the 
+Inspection Car (Train Y370) from Rathmore to Tralee, and then return to Limerick Junction. At 
+Rathmore, as Train Y370 was stabled in the siding (see Figure 87), Driver Y370 contacted CTC to 
+advise he was ready to shunt Train Y370 in readiness to travel to Tralee. 
+721 When CTC cleared Signal TL227 (See signal marked A in Figure 87) Driver Y370 drove Train 
+Y370 onto the running line and stopped in rear of Signal TL226 (see signal marked B in Figure 
+87). He then switched the control of Train Y370 in order to travel towards Tralee. Driver Y370 
+
+## Página 200
+
+then saw that the point were set towards Tralee and saw that Signal TL231 (see signal marked C 
+in Figure 87) was displaying a green aspect. Train Y370 then proceeded towards Tralee, with 
+Signal TL226 displaying a danger aspect, and passed Signal TL226 at danger without authority. 
+### Figure 87 – Layout at Rathmore 
+722 Driver Y370 had over four years of driving experience as an Inspection Car driver. He was not 
+subject to any development plan or additional monitoring as he has no previous operational safety 
+occurrence issues. Although familiar with the Mallow to Tralee route, he had never carried out a 
+movement from the siding. 
+723 The SPAD was assigned an SRR of 0. The BBRI/IÉ-IM’s 5DIR (Ref: 24076) published the 2nd 
+May 2014 identified the immediate cause of the inspection as Driver Y370 reading the wrong 
+signal (TL231) as his starting signal. Causal factors associated with Driver Y370 were identified 
+as the driver not having: a full understanding or appreciating requirements associated with Signal 
+TL223; or adequate route knowledge.  
+724 As a result of the SPAD, Driver Y370 was re-briefed and assessed. There were no 
+recommendations as a result of this incident.    
+725 The RAIU found that Driver Y370 had lost situational awareness as he did not have a full 
+appreciation of the movement to be carried out, this may have been the result of inadequate route 
+knowledge. 
+### SOY SPAD at HK196, Curragh (Kildare), 14th March 2014 
+726 On Friday 14th March 2014 Driver A801 took up driving duties out the 05:15 hrs passenger 
+service from Westport to Heuston at Athlone. As the train approached Kildare Station, Signal 
+HK210R and Signal HK210 displayed double yellow and single yellow aspects, respectively. The 
+starting signal, Signal HK202 (see Figure 88), was initially displaying a red aspect, which 
+
+## Página 201
+
+upgraded to a yellow aspect as the train approached (there was no downgrade to the CAWS as it 
+was already displaying a single yellow). 
+727 There was no PIC present at the Kildare Station resulting in Driver A801 performing the train 
+despatch procedures. Driver A801 departed Kildare Station at approximately 07:53 hrs, with the 
+starting signal, Signal HK202 still displaying a yellow aspect. The weather was foggy at the time. 
+Driver A801 increased speed to 60 mph (100 km/h) over a distance of 1.2 miles (1.96 km). 
+Signal HK202 
+### Figure 88 – Signal HK202 
+### Figure 89 – Signal HK196 
+728 When Signal HK196 (see Figure 89) came into view, Driver A801 remembered that Signal HK202 
+was displaying a yellow aspect. He immediately applied the brakes to the full service position 
+(07:55 hrs), but the train passed signal HK196 at danger by twenty metres.       
+729 Driver A801 had over eight years of driving experience and has been classified as a Category U 
+Driver since 2005, with no previous operational safety related occurrences.  
+730 The SPAD was assigned an SRR of 18. IÉ’s internal OOR, R0802-2014-29, published on the 21st 
+June 2014 identified the immediate cause of the incident as Driver A801 “forgetting” that the 
+starting signal was displaying a yellow aspect, which was as a result of overreliance on past 
+experience (of usually starting on a green aspect). Causal factors to the incident included: that the 
+visibility was reduced as a result of the fog and there was some LRA; Driver A801 was over-
+reliant on past experience; he was not using self-checking techniques (such as RTC); and was 
+accelerating the train rather than controlling the train as required with a cautionary aspect. 
+Underlying to this incident was that the train was not fitted with DRA which may have assisted 
+Driver A801 in remembering that the starting signal was displaying a yellow aspect. 
+731 Driver A801 was reclassified as a Category B Driver and assigned a DD&SS as a result of the 
+SPAD; and all drivers were briefed on SOY SPADs and their associated risks. In addition, at the 
+time of publication of the internal report, the programme for the fitting of all traction rolling stock 
+
+## Página 202
+
+with a DRA was ongoing and as a result no recommendations were made as a result of this 
+SPAD. 
+732 The RAIU review of the incident found that Driver A801 was distracted as a result of the late 
+running of the trains. In addition, Driver A801 had lost situational awareness, partially as a result 
+of the foggy weather conditions and partially as he forgot he had departed the station on a yellow 
+aspect.  
+### SAS SPAD at DD269, Dundalk, 13th May 2014 
+733 On the 13th May 2013 a train driver worked the 22:37 hrs passenger service from Connolly to 
+Dundalk (referred to as Dundalk Driver for the remainder of this section). He was required to 
+terminate the train in Drogheda at 23:23 hrs due to engineering works taking place between 
+Drogheda and Dundalk. As a result he continued to Dundalk on the replacement bus service, 
+arriving in Dundalk before the normal scheduled time. On arriving, he offered his assistance to 
+another driver who was shunting a train in preparation for service (referred to as the Shunt Driver 
+for the remainder of the report). The Shunt Driver would normally carry out the shunting on his 
+own.  
+734 The Shunt Driver contacted the signalman for permission to carry out the shunting moves, which 
+was granted. The Shunt Driver then carried out the first shunt move from the front cab of the train, 
+by taking the train from the siding up into the yard, see Figure 90. The Shunt Driver then keyed 
+out of driving duties from the front cab. 
+### Loop 
+### Siding 
+### Yard 
+### Figure 90 – Shunt Driver 
+### Figure 91 – Train Driver 
+### Figure 92 – Shunt Signal 
+### movement into Yard 
+### movement onto Loop 
+## DD269  
+735 The Dundalk Driver, who was positioned in the rear cab, keyed into driving duties from the rear 
+cab. The Dundalk Driver thought that Shunt Signal 269 was displaying as proceed aspect (two 
+white lights), and began the shunting move from the yard onto the loop, see Figure 91. On 
+approaching Shunt Signal 269 he saw that it was in fact displaying a restrictive aspects (one red 
+
+## Página 203
+
+and one white light), as illustrated in Figure 92. He immediately applied the emergency brake, 
+however he passed Shunt Signal DD269 at danger by three metres. 
+736 The Dundalk Driver had over five years of driving experience and was classified as a Category U 
+(Uncategorised) Driver with no previous operational safety related occurrences recorded in the 
+previous five years.  
+737 The internal IÉ OOR, R1001-2014-40, published on the 8th September 2014, assigned an SRR of 
+10 to the SPAD. It found that the immediate cause of the incident was as a result of the Dundalk 
+Driver viewing but misreading Shunt Signal DD269. Causal factors were identified as the fact that 
+two drivers were performing the duties of one driver and that the Dundalk Driver was speeding at 
+the time of the incident. IÉ did not identify any underlying causes. 
+738 The report found that there were no special features, apart from the engineering works, in place at 
+the time of the incident. In particular reference to Dundalk Driver, the investigation found that 
+Dundalk Driver, after medical examination, had no medial factors which contributed to the 
+incident. The investigation panel found that Dundalk Driver had been well rested, had received all 
+his personal needs breaks and had been driving for approximately three hours before the 
+incident.  
+739 The DTEs took a number of actions as a result of this incident, namely: 
+ 
+Dundalk Driver was placed on a driver development plan; 
+ 
+Increased monitoring of drivers in the location, both in frequency and times (i.e. more out-of-
+hours monitoring); 
+ 
+Briefing driver on speed limits and requirements for only one driver performing shunting 
+moves. 
+740 As a result of these actions, no additional recommendations were made.  
+741 The RAIU review of the incident found that the Dundalk Driver had an incorrect expectation of the 
+signal and thought it was displaying a proceed aspect, this was as a result of the manoeuvre 
+normally taking longer when the movement is carried out with only one driver, and usually results 
+in the signal being at proceed. This incorrect expectation was also compounded by the fact that 
+the Dundalk Driver was distracted by the fact that it was his last movement of the night and was 
+rushing to finish.  
+
+## Página 204
+
+### SAS SPAD at MW826, Mallow, 16th May 2014 
+742 On Friday 16th May 2014, the 08:55 hrs passenger service from Cork to Tralee (Train A302) was 
+due to be auto-routed into Platform 3 at Mallow, as normal, at 09:18 hrs. However, on this day, 
+the PIC at Mallow Station requested CTC to cancel this route and route the train into Platform 1, 
+to facilitate passengers. The service arrived into Platform 1 four minutes late, at 09:22 hrs. The 
+PIC was dealing with a couple of passengers in relation to what trains they should be travelling 
+on.  
+743 After arriving on Platform 1 the train driver (to be referred to as Driver A302) was required to 
+switch ends to work the continuation of the service from Mallow to Tralee. The PIC was standing 
+at the driver’s cab door when he gave Driver A302 the “station work complete” and the “ready to 
+start” signal, indicating that it was safe for the train to proceed; the PIC and the train driver were 
+engrossed in conversation throughout these actions.  
+Signal MW826 
+### Figure 93 – Mallow Station with Signal MW826 
+744 Driver A302 then looked along the train and departed without checking the Signal MW826 (see 
+Figure 93), assuming this was done by the PIC prior to giving the “ready to start” signal. Signal 
+MW826 was displaying a red aspect as the CTC Signalman had not yet set the route. Driver A302 
+passed Signal MW826 at danger, and continued a distance of 966 m before the train was stopped 
+on the request of the Waterford/Tralee Line Signalman. 
+
+## Página 205
+
+745 Driver A302 had over seven years of driving experience and was classified as a Category U 
+Driver with no previous operational safety related occurrences recorded in the previous seven 
+years.  
+746 IÉ assigned an SRR of 16 to the SPAD. IÉ’s internal OOR (R1002-2014-41), published on the 
+17th September 2014 found that the immediate cause was as a result of Driver A302 failing to 
+focus on the next primary task of checking the signal for a proceed aspect after receiving the 
+signals from the PIC. IÉ found the causal factors to be that Driver A302 and the PIC were 
+engrossed in conversation and not focused on the primary task at hand and that the PIC gave the 
+“ready to start” signal without checking the aspect of Signal MW826. IÉ did not identify any 
+underlying causes. 
+747 As a result of the incident Driver A302 was placed on a DD&SS and the PIC was re-briefed on the 
+Rule Book and despatching procedures. Three other recommendations were made related to the 
+stopping position of trains at Mallow Station; briefing of PICs and train radio reminder boards at 
+Mallow Station. 
+748 The RAIU review of the incident found that Drive A302 had initially become distracted by the PIC 
+and the late running of the service. Driver A302 also had an incorrect expectation of the aspect of 
+Signal MW826, this was as a result of the PIC giving the ‘Ready to Start’ indication and seeing 
+that the points for exiting the station was set.  
+### SOY SPAD at Signal CE842, Glounthaune, 29th June 2014 
+749 On 29th June 2014 as the 07:15 hrs passenger service from Cork to Midleton (Train D273) was 
+approaching Glounthaune Station, Signal CE473 (located on the platform) was displaying a red 
+aspect, upgrading to yellow as Train D273 arrived on the platform. 
+750 On arrival at the platform, the driver (Driver D273) carried out a number of station platform and 
+despatch duties. Driver D273 departed Glounthaune Station, ahead of schedule, with the starting 
+signal, Signal CE473 (Figure 94), displaying a yellow aspect and proceeded towards Signal 
+CE842 (Figure 95) which was displaying a red aspect (this was as a result of the Cork East 
+Signalman waiting for the train approaching Glounthaune Station in the opposite direction to clear 
+the section). 
+
+## Página 206
+
+### Figure 94 – Signal CE473 
+### Figure 95 – Signal CE482 
+751 On approach to Signal CE482, Driver D273 saw that it was displaying a red aspect and applied 
+the brakes. However, Train D273 passed Signal CE842 at danger, passing the signal by 82 m 
+before coming to a stop. 
+752 Driver D273 had over four years of driving experience and was classified as a Category U Driver. 
+Driver D273 had previously been classified as a Category D Driver, as a result of a ‘Failure to 
+Call’ at a station incident.  
+753 IÉ assigned an SRR of 18 against this SPAD. The internal IÉ OOR (R1301-2014-53) published on 
+the 24th December 2014 recorded the immediate cause of the incident was recorded as Driver 
+D273 failing to focus on the primary task of checking Signal CE842 after starting on a yellow 
+aspect (Signal CE473). Causal factors were recorded associated with Driver D273 were recorded 
+as, Driver D273; did not have Train D273 under sufficient control; assuming that the train 
+travelling in the opposite direction had cleared the section; not applying defensive driving 
+techniques; not performing self-checking techniques (such as RTC); departing Glounthaune 
+Station ahead of schedule. Underlying causes were identified as that there was no CAWS fitted 
+and a personal issue related to Driver D273.  
+754 IÉ carried out a number of actions as a result of this incident, namely: placing Driver D273 on a 
+DD&SS; briefing drivers on not departing station ahead of scheduled time; reviewing risks 
+associated with SAS and SOY SPADs; and reviewing practicalities of providing additional control 
+measures to reduce SPADs.  
+755 The RAIU review of the incident found that Driver D273 had an incorrect expectation that Signal 
+CE482 was displaying a proceed aspect, as he could see the lights of the train in front of him and 
+he assumed that the section had cleared and he was okay to proceed. Driver D273 also stated 
+
+## Página 207
+
+that he had become distracted by the speed board18 located in rear of Signal CE482 which was 
+displaying an increased speed (see Figure 95). The RAIU found that Driver D273 was not 
+adversely affected by any personal issues at the time of the incident as stated in the internal IÉ 
+report.  
+### SOY SPAD at Signal BR36, Bray, on the 20th August 2014 
+756 On the 20th August 2014, Train Y674 (an inspection car) was due to travel from Connolly to 
+Greystones at 10:00 hrs, it was being operated by a BBRI staff member (Driver Y674). On the 
+approach to Bray DART Station, Train Y674 stopped at the next red aspect, Signal BR28, see 
+Figure 96. The signalman upgraded BR28 to a yellow aspect (meaning the next signal, Signal 
+BR36 (see Figure 96) was displaying a red aspect) and Train Y674 travelled past Signal BR28 
+and continued towards the red Signal BR36. Driver Y674 saw that the route was made for his 
+movement and looked at BR46 which was displaying a proceed aspect. Driver Y674 did not see 
+Signal BR36 and continued past it at danger without authority. The signalman phoned Driver 
+Y674 requesting that he immediately stop the train. 
+18 The RAIU have found that the placement of speed boards near signals has been a contributory 
+factor in four SPADs reviewed during this investigation, including the SPAD at Millstreet on the 8th 
+December 2013. As a result, the RAIU feel this warrants a safety recommendation. 
+
+## Página 208
+
+Signal BR46 
+Signal BR36 
+Signal BR28 
+### Figure 96 – Bray Station Layout & intended route (taken from IÉ internal report) 
+757 IÉ assigned an SRR of 16 to the SPAD. The BBRI/IÉ-IM investigation report found that the 
+immediate cause of the SPAD was Driver Y674 “not locating and observing Signal BR36 at 
+danger”. Causation factors were identified as Driver Y674 “focussing on Signal BR46” and not 
+having “adequate route knowledge for the route concerned”. The underlying cause of the SPAD 
+was “the lack of route packs for operators”. 
+
+## Página 209
+
+758 As a result of the SPAD, BBRI issued all OTMDOs with route knowledge packs and provided 
+additional communications training for all OTMDOs. With specific reference to Driver Y674, as he 
+was not an IÉ employee he was not assigned a DD&SS, however, BBRI: 
+ 
+Driver Y674 was placed on an agreed corrective action plan (CAP) when returned to driving 
+duties; 
+ 
+Issued Driver Y674 with route knowledge pack and assessed him of the route; 
+ 
+Carried out extra monitoring on Driver Y674. 
+759 The RAIU review of the incident found that Driver Y674 had become very distracted by an earlier 
+incident, whereby the keys of Train Y674 were missing; although he did locate the keys he 
+became preoccupied with thinking about the keys while driving as he thought there may be some 
+disciplining involved from BBRI had he not located the keys. In addition, he had lost situational 
+awareness, as although he had travelled the route previous to the day of the SPAD, he did not 
+see or look for BR36, and on seeing BR46 at proceed, with the route set, he had an incorrect 
+expectation that he was authorised to proceed.  
+### SAS SPAD at Signal HN291, Heuston (Dublin), 11th October 2014 
+760 On Saturday 11th October 2014, Driver I215 was required to shunt an empty train (Train I215) 
+from a Carriage Siding into Heuston Station. This was a regular movement which required a 
+forward movement for the Carriage Siding onto the Up Main, driven from the locomotive, which 
+would require the points to be set in the reverse position (the points are normally set in the trap 
+position, as the Siding leads onto the Up Main). A reverse movement driven from the control car 
+towards Platform 4 (see Figure 97) is then required. 
+
+## Página 210
+
+Platform 4 
+Up Main  
+(Bi-directional) 
+Carriage Siding 
+Signal HN291 
+### Figure 97 – Layout at Heuston 
+761 After requesting the movements from Signal Equipment Room (SER) Driver I215 commenced the 
+movement, believing that Signal HN291 (see Figure 97) was displaying a proceed aspect. As 
+Driver I215 proceeded with the movement and on the approach to Signal HN291 Driver I215 
+noticed that the points were lying in the trapping position and immediately applied the emergency 
+brakes. However, Train I215 continued past Signal HN291 at danger, and became derailed as it 
+travelled over the points; he immediately called the signalman in SER to inform him of the SPAD. 
+762 At the time of the SPAD Driver I215 had seven years of driving experience and was classified as 
+a Category U Driver with no previous operational safety related occurrences in the previous seven 
+years. 
+763 The SPAD was assigned an SRR of 14 to this SPAD. IÉ’s internal OOR (Report No. R0209-2015-
+09) published on the 20th February 2015 found that the immediate cause of the incident was due 
+to Driver I215 misreading Signal HN291. A causal factors associated with Driver I215 was related 
+to Driver I215 forming the opinion that Signal HN291 was displaying a proceed aspect; three other 
+causal factors were identified as miscommunication and improper communication. An underlying 
+cause associated with the incident was identified as a DRA not being fitted to Train I215. 
+764 As a result of the SPAD, briefing and notices were issued in relation to communication 
+procedures. At the time of issue of the IÉ report a programme of self-checking skills was being 
+introduced for drivers and a programme of the introduction of DRA on rolling stock was underway. 
+765 The RAIU found that Driver I215 had lost situational awareness as he assumed he had the 
+proceed aspect as he misread the signal, which may have been as a result of an incorrect 
+expectation that he was authorised to proceed. 
+
+## Página 211
+
+### SAS SPAD at Signal SL817, Boyle, 18th January 2015 
+766 At 12:20 hrs on Sunday 18th January 2015, the driver (Driver A911) signed on duty fully rested in 
+Sligo Station. He prepared and shunted the 18:00 hrs passenger service from Sligo to Connolly 
+(Train A911). 
+767 During the preparation of Train A911, Driver A911 encountered problems forming a brake, 
+contributing to the train departing Sligo Station five minute late at 18:05 hrs. 
+768 Driver A911 travelled to the approach of Boyle Station, without incident. On the approach to the 
+distant signal, Signal SL822R at Boyle, it was displaying a double yellow aspect; the home signal, 
+Signal SL822, was displaying a single yellow aspect and the section signal, Signal SL817 was 
+displaying a red aspect, see Figure 98. 
+769 At Boyle Station, the late running 15:05 hrs passenger service from Connolly Station to Sligo, 
+(Train A904) was standing on the loop platform in Boyle Station, awaiting the arrival of Train 
+A911. Additionally the 16:00 hrs passenger service from Connolly Station to Sligo (Train A906), 
+was standing at Signal SL815 awaiting the departure of A904 from the loop platform, see Figure 
+98. 
+Signal SL817 
+Signal SL822R 
+Signal SL815 
+Signal SL822 
+### Figure 98 – Signalling at Boyle Station 
+770 At Boyle Station, train despatch was performed by Driver A911 and after completing these duties 
+he closed the doors and applied power to the train, departing Boyle Station with Signal SL817 
+displaying a red aspect (Signal SL817 is located 24 m from the top of the ramp on the main 
+platform at Boyle Station). Train A911 was travelling at 7 mph (11.2 km/h) when Driver A911 saw 
+that Signal SL817 was displaying a red aspect; he immediately applied the brakes, but the train 
+travelled past the signal by approximately 5 m. 
+771 After the SPAD, the decision was made by the Deputy District Manager Northern to allow Driver 
+A911 to change driving cab ends and return to Boyle Station Platform, to allow access to the Loop 
+Platform. The Signalman contacted Driver A911 to advise him that he would be returning to Boyle 
+
+## Página 212
+
+Station, and requested that he change driving cab ends and call him once he was in the other cab 
+(it was noted that these communications were not clear or concise). 
+772 Driver A911 changed driving cab ends, and without contacting the Signalman, began travelling 
+back to Boyle Station. The Signalman, while waiting for Driver A911 to call him, saw that Train 
+A911 was moving. The Signalman immediately contacted Driver A911, via train radio, and told 
+him to stop his train. 
+773 At the time of the SPAD Driver A911 had over three years of driving experience. At the time of the 
+incident, Driver A911 was categorised as a Category A driver, and was one year and seven 
+months into a four year DD&SS. Driver A911 was on a DD&SS as a result of an operational 
+occurrence on the 4th June 2013, where Driver A911 departed Maynooth Station with a door open 
+in one of the units on the train, while he operated the 13:00 hrs passenger service from Sligo to 
+Connolly.   
+774 IÉ assigned an SRR of 20 to the SPAD. IÉ’s OOR, published on the 28th April 2015, identified that 
+the immediate cause of the SPAD was as a result of Driver A911 failing to check Signal SL817 
+prior to starting the train from the platform due to not paying attention to the signal to ascertain its 
+aspect. The Driver was over reliant on past experience where signal SL817 would normally 
+display a proceed aspect. The OOR identified the contributory factors as Driver A911 assuming 
+the signal was displaying a proceed aspect and moving his train without checking what aspect 
+was displayed in Signal SL817; and Driver A911 being distracted by the late running of the 
+services, as the late running may have resulted in him missing the next crossing point of his train 
+with another train, further delaying his return trip to Sligo. Underlying causes were identified as 
+the absence of DRA, CAWS/ATP.  
+775 At the time of publication of the OOR, the fitment and introduction of DRA was ongoing; and the 
+project to upgrade train protection, through the development and installation of IÉHS was 
+underway; as a result of these, no further recommendation were made. 
+776 The RAIU review of the incident found that Driver A911 had become distracted and preoccupied 
+by the late running of the train. In addition, Driver A911 was unaware that there were two trains 
+crossing his train at Boyle Station; and when the first train had passed, he had an incorrect 
+expectation that he would have proceed signals. 
+
+## Página 213
+
+### SOY SPAD at Signal PE18, Pearse (Dublin), 11th March 2015 
+777 At 13:00 hrs on the 11th March 2015, Driver P618 signed on duty, fully rested, in Drogheda 
+Station. He operated the 17:00 hrs Drogheda to Pearse passenger service (Train P618) without 
+incident prior to receiving a call from the CTC Suburban Signalman to caution him of trespassers 
+on the line at Malahide Viaduct. On reaching Malahide Viaduct Driver P618 did not see any 
+trespassers and informed the CTC Suburban Signalman of this. 
+778 Train P618 continued, without further incident, until it arrived on Platform 5, Connolly Station.  The 
+signal departing Platform 5, Signal CY91, was displaying a red aspect on arrival of Train P618 
+(see Figure 99). The signal upgraded to a single yellow while passengers were boarding and 
+alighting from the train on Platform 5. When station working was complete Driver P618 closed the 
+doors on the train, rechecked the monitor on Platform 5 and departed Connolly Station at 
+approximately 18:01:39 hrs. 
+### Figure 99 – Signal CY91 (Platform 5) 
+### Figure 100 – Signal PE18 
+779 Driver P618 started to accelerate the train, and 147 m in rear of Signal PE18 (see Figure 100), 
+Driver P618 acknowledged the downgrade to red in the CAWS whilst travelling at 18.16 km/h. At 
+18:02:27 hrs, 14 m in rear of Signal PE18, Driver P618 applied the brake to the braking position; 
+he applied the emergency brake 5 m in rear of Signal PE18; however, Train P618 passed Signal 
+PE18 at danger by approximately 3 m.  
+780 At the time of the incident, Signal PE18 had been previously past at danger on one occasion in 
+the previous ten years. 
+
+## Página 214
+
+781 At the time of the SPAD Driver P618 had fifteen years of driving experience and was classified as 
+a Category U Driver with no previous operational safety related occurrences. 
+782 IÉ assigned an SRR of 16 to the SPAD. The OOR, published in May 2015, identified the 
+immediate cause of the SPAD as Driver P618 not focusing on the primary task of controlling the 
+train sufficiently on approach to Signal PE18 resulting in the signal being passed at danger. 
+Contributory factors were identified as: 
+ 
+Train P618 starting from Platform 5, Connolly Station, with a yellow aspect in signal 
+CY91; and Driver P618 acknowledging the CAWS downgrade at 147 m in rear of Signal 
+PE18 but did not reduce the speed of the train; 
+ 
+Driver P618 did not apply the first brake application until the train was 14 m in rear of 
+Signal PE18 with an emergency brake application made 5 m in rear of the signal; 
+ 
+Train P618 was following behind a DART service from Howth Junction; as a result Driver 
+P618 was anticipating that Signal PE18 would upgrade to a proceed aspect as the DART 
+continued on its journey. 
+783 IÉ identified the underlying cause to the SPAD as the train not being fitted with the ATP function.  
+784 As a result of the SPAD, Driver P618 was reclassified as a Category B Driver, and assigned a 
+DD&SS for two years. 
+785 The OOR notes that the train protection upgrade programme, IÉHS, is underway. In addition, 
+Signal PE18 is to be removed from its current position and replaced with two new signals, 
+installed between Connolly and Tara Street Stations. 
+786 As a result, this OOR resulted in one new recommendation, whereby, the RU Safety Manager is 
+to prepare and issue a specific briefing/notice to remind train drivers of the risks of running on 
+restricted signals, the management of the resultant CAWS interventions and the necessity to 
+remain focused on the driving activity in such circumstances. 
+787 The RAIU found that Driver P618 had become distracted and preoccupied by thinking of future 
+movements on the approach to Pearse, leading to him losing situational awareness. 
+
+## Página 215
+
+### SAS SPAD at Signal DN201, Howth (Dublin), 21st April 2015 
+788 At approximately 23:34 hrs on the 21st April 2015, train F010, the empty 23:40 hrs Howth to 
+Fairview Depot departed Howth from Platform 2 and stopped at Signal DN201 which was 
+displaying a red aspect. The distance travelled by the train was 190 meters. The driver (Driver 
+F010) had engaged the running release of the ATP when departing the platform. When the train 
+was stopped at Signal DN201, Driver F010 kept the power control lever de-pressed preventing 
+the ATP from engaging. 
+789 After twelve seconds Driver F010 moved the train forward, with the running release engaged and 
+passed Signal DN201 at danger without authority. The train speed increased to 17.5 km/h and a 
+penalty brake application was made, however, the train passed Signal DN201 at danger without 
+authority. The CTC Signalman, on the activation of the critical alarm, contacted Driver F010 to 
+bring the train to a stop and Driver F010 stopped the train. 
+790 At the time of the SPAD Driver F010 had nearly fourteen years of driving experience and was 
+categorised as a Category U Driver. Driver F010 was previously classified as a Category A Driver 
+as a result of a SPAD at Signal CY71 in Connolly in 2007. 
+791 IÉ assigned an SRR of 12 to the SPAD. The OOR, published in April 2015, identified the 
+immediate cause of the SPAD as “the driver, while stopped at signal DN201, became distracted 
+by activity outside cab, failed to check the aspect in the signal and drove the train past the signal 
+at danger without authority”. 
+792 Contributory factors were identified as:  
+ 
+The Drivers use of the running release to pull up to signal and not disengaging it when at the 
+signal; 
+ 
+Driver stated that he was preoccupied with leaving Howth ahead of time with a view to getting 
+to Howth Junction ahead of E713, 23:35 Malahide to Connolly. 
+793 As a result of the SPAD the driver was categorised as a category A driver with a four year 
+development and support plan put in place. Drivers were also re-briefed on the existing operation 
+of the ATP procedures following this occurrence. 
+794 The RAIU found that Driver F010 had become distracted and preoccupied as he was attempting 
+to arrive at Howth Junction ahead of a slow moving train from Malahide; this lead to a loss of 
+situational awareness. 
+
+## Página 216
+
+### SOY SPAD at Signal BR31, Bray (Dublin), 28th April 2015 
+795 On the 28th April 2015 two train units, Units 8309 and 8304, were to couple from the south end of 
+Bray Station to another unit, Unit 8331, on the middle line to form a six unit set for the 
+continuation of the 16:00 hrs passenger service from Greystones to Malahide, due to depart Bray 
+at 16:10 hrs. 
+796 However, due to a coupler fault on Unit 8331, the Station Controller made the decision to run unit 
+8331 around from the North to South end of the other two units and couple to the rear. This 
+movement required the driver, Driver F114, to drive Unit 8331 northwards from its current location 
+on the middle line, and pass Signal BR29 which was situated on the Up Line; then move Unit 
+8331 past Signal BR31 and onto Platform 2 on the Down Line.  
+797 However, due to a fault with Signal BR31 the Signaller was unable to clear Signal BR29 to a 
+proceed aspect. As a result, the Signaller authorised Driver F114 to pass Signal BR29 at danger 
+and proceed to Signal BR31 and to contact the Signaller when he was at Signal BR31. However, 
+Driver F114 did not stop the train at Signal BR31, and passed it at danger, and continued and 
+stopped on Platform 2.  
+798 At the time of the SPAD, Driver F114 had fourteen years of driving experience and was 
+categorised as a Category U Driver at the time of the incident. Driver F114 had two previous 
+operational safety related occurrences, both SPADs, in Bray, namely: a SPAD at Signal BR40 in 
+2005 and a SPAD at Signal BR41 in 2009.  
+799 IÉ assigned an SRR of 16 to the SPAD. The OOR, published in April 2015, identified the 
+immediate cause of the SPAD as the “Driver failed to check the aspect in signal BR31 during the 
+movement and subsequently passed it at danger without authority” 
+800 Contributory factors were identified as:  
+ 
+A fault with signal BR31 resulted in signal BR29 being unable to display a proceed aspect for 
+movement. This required the signalman to issue an instruction to driver to pass signal BR29 
+at danger with authority and to stop at BR31; 
+ 
+Driver and signalman did not fully follow safety critical communication protocols as message 
+was not repeated back to signal man to demonstrate understanding; 
+ 
+Driver performed move infrequently, doing so only once in previous ten years. 
+801 As a result of the SPAD driver was categorised as a category B driver and placed on a two year 
+development and support plan. “Shunt of the month” briefing was introduced to advise drivers of 
+unusual shuts in the area. 
+
+## Página 217
+
+802 The RAIU found that Driver F114 had lost situational awareness as he did not see shunt Signal 
+BR31; although Driver F114 was familiar with the area, he had not carried out this particular 
+movement for some time. 
+### SAS SPAD at Signal RL543, Enniscorthy (Wexford), 9th June 2015 
+803 On Tuesday the 9th June 2015 an On-Track Machine (OTM) 703 (Ballast Regulator), train ID 
+Y632, was being operated by two BBRI OTMDOs. The OTM was on a scheduled transit shift from 
+Kildare Depot to Enniscorthy Station where it was to be stabled in the siding to facilitate 
+engineering works later that night. When the OTM arrived into Enniscorthy Station the driver 
+(Driver Y632) stopped the OTM in rear of Signal RL546 at the station platform (see Figure 101 A), 
+changed ends and contacted the Rosslare Line Signalman to advise and obtain the signal to 
+proceed into the siding. 
+804 The Signalman then signalled the OTM into the siding and Driver Y632 stopped the OTM 
+approximately 18 m in rear of Signal RL543 and advised the Signalman he was in clear and safe 
+(Figure 101 B). He changed from Cab B to Cab A (facing Signal RL 543) with the intention of 
+stabling the OTM in rear of Signal RL544 which was at the opposite end of the siding and also the 
+last movement of the day; however, he did not relay this intended movement to the Signalman. 
+
+## Página 218
+
+## A 
+## B 
+## C 
+### Figure 101 – Sequence of movements for the OTM (taken from IÉ/BBRI Report) 
+805 From Cab A Driver Y632 observed the points ahead moving to the normal position and assumed 
+this was for his intended route. Driver Y632 checked Signal RL543, thought he saw a proceed 
+aspect, and moved the OTM to the opposite end of the siding and passed Signal RL543 at danger 
+in the process (Figure 101 C). The Signalman then contacted Driver Y632 to query his movement 
+and it was confirmed that the OTM had passed Signal RL543 at danger without authority. 
+
+## Página 219
+
+806 At the time of the SPAD, Driver Y632 had five years of driving experience and was assessed and 
+competent under the relevant BBRI CMS. Driver Y632 had no previous recorded safety related 
+occurrences.  
+807 The SPAD was assigned an SRR of 0. The IÉ-IM / BBRI report of investigation ‘SPAD involving 
+On-track Machine (703 Ballast Regulator) at Signal RL543 in the siding at Enniscorthy 9th of June 
+2015’, published on the 14th September 2015, found that the immediate cause of the SPAD was 
+“Train Y632 passed Signal RL543 at Danger after the Driver failed to check the signal”. Causal 
+factors were identified as “The Driver observed the points returning to normal and then drove the 
+OTM to the opposite end of the siding passing Signal RL543 at Danger without authority”; and 
+“The Driver did not request Signal RL543 from the Signalman during the communication. 
+Although the Signalman repeated back the message to confirm the OTMs position in the siding, 
+the Driver continued the call in a form of words which did not clearly indicate his intentions and 
+the Signalman did not realise or query what he meant by this. As a result a clear understanding 
+was not reached”. No underlying causes were identified. 
+808 As a result of the SPAD BBRI took a number of actions, namely: placing Driver Y632 on a 
+‘corrective action plan’ in accordance with BBRI requirements after a medical examination; 
+scheduling Driver Y632 for attendance at a safety critical communications. 
+809 The RAIU found that Driver Y632 had an incorrect expectation Signal RL543 was displaying a 
+proceed aspect. This incorrect expectation was as a result of strong sunlight shining onto the 
+signal at the time (and into the face of the Driver Y632); this meant that Driver Y632 did not 
+request the signal from the Signalman. Driver Y632 was also distracted at the time of the incident 
+as a result of changing pay conditions being enforced at the time19. Poor communications also 
+contributed to not gaining a clear understanding of the movement to be undertaken. 
+### SAS SPAD at Signal MN143, Maynooth (Kildare), 23rd June 2015 
+810 On Tuesday 23rd June 2015 Driver P665 signed on duty with the required rest from his previous 
+shift, in Connolly at 11:00 hrs; he operated the 16:44 hrs passenger service from Connolly to 
+Maynooth without incident. On arrival at Maynooth, Driver P665 shunted the train into the siding 
+to allow two other passenger services to travel through Maynooth. 
+811 When the trains had past, the Clonsilla Signalman requested the route from the siding to the Up 
+Platform in Maynooth Station, so Driver P665 could operate the 17:42 hrs passenger service from 
+Maynooth to Pearse Station (Train P665). This movement required Trap Points 266 to reverse to 
+19 These changes to pay conditions were beyond the control of BBRI; and have now been resolved. 
+
+## Página 220
+
+allow the train to exit the siding and Points 265 to reverse to route the train across from the Down 
+side to the Up side and Signal MN143 to clear to a proceed aspect.  
+812 However, the Clonsilla Signalman was unable to make the route as 265 points were flashing out 
+of correspondence on the control panel; as a result the Clonsilla Signalman cancelled the route 
+and normalised Points 265 and noticed that track circuit 884 now showed occupied. The Clonsilla 
+Signalman now thought there was a track fault, as Train P665 was still being displayed in rear of 
+Signal MN143. As a result the Clonsilla Signalman contacted Driver P665 and instructed him not 
+to move his train as there were problems with the points and track faults in the area; and arranged 
+for staff to be dispatched to scotch and clip Points 265. 
+813 However, when staff arrived to scotch and clip Point 265 they informed the Clonsilla Signalman 
+that Train P665 was on Points 265 heading towards the Down platform. The Clonsilla Signalman 
+then contacted Driver P665 to ascertain the exact location of Train P665 and Driver P665 
+informed him that Train P665 was at 263A points. The Clonsilla Signalman then realised that 
+Signal MN143 was passed at danger without authority. 
+814 At the time of the SPAD, Driver P655 had fourteen years of driving experience and was classified 
+as a Category U Driver. Driver P665 had one previous recorded safety related occurrence, a 
+SPAD at Signal SL724 in 2007. 
+815 IÉ assigned an SRR of 16 to the SPAD. The OOR, published in June 2015, identified the 
+immediate cause of the SPAD as “The driver failed to observe the aspect in signal N143. When 
+points 266 moved, the driver did not check the signal before moving his train”. 
+816 A Contributory factor was identified as:  
+ 
+Driver’s over reliance on past experience led him to anticipate a proceed aspect when he saw 
+points move, driver did not practice good self-checking skills prior to moving train. 
+817 As a result of the SPAD driver and signal man have been issued with development and support 
+plans. Fitment of DRA to rolling stock will help prevent this type of SPAD in future. Trend analysis 
+of SPADs in area was conducted and resulted in DTE shifts being altered to cover high risk 
+periods (83% of SPADs occurred between 17:20 and 20:45). 
+
+## Página 221
+
+### SAS SPAD at Signal CY69, Fairview (Dublin), 25th June 2015 
+818 On the 25th June 2015, the driver (Driver F040) passenger service from Howth to Fairview (Train 
+F040) had completed the passenger service and was required to carry out a shunt movement to 
+move the train to Siding 4 in Fairview Yard and stop of the train at stopblock CY99. 
+819 Driver F040 had moved Train F040 (four-piece DART unit) to stopblock CY90 where he was 
+required to change ends and continue the shunt into Siding 4. 
+820 Driver F040 saw that Signal CY71 was displaying a yellow aspect and without checking shunt 
+Signal CY69, which was located 15-20 feet in front of the train, Train F040 past Signal CY69 at 
+danger.  The signalman contacted Driver F040 to stop the train, and Driver F040 followed this 
+instruction. 
+821 Driver F040 had fourteen years of driving experience and was classified as a Category U Driver at 
+the time of the SPAD. He had previously been reclassified as a Category B Driver as a result of a 
+SPAD at Signal CY25 (Connolly) in 2009. 
+822 IÉ assigned an SRR of 0 to the SPAD. The OOR, published in June 2015, identified the 
+immediate cause of the SPAD as the driver “….failed to check signal CY69 prior to starting the 
+train to ascertain its aspect”. 
+823 Contributory factors were identified as:  
+ 
+Driver “reading through” to signal CY71 observing it was displaying a proceed signal;  
+ 
+Driver did not apply self-checking skills and error prevention techniques prior to moving the 
+train. 
+824 As a result of the SPAD driver was placed on a driver development and support plan. The chief 
+traction executive issued a SPAD notice in relation to this occurrence. 
+825 The RAIU found that Driver F040 had lost situational awareness at the time of the SPAD, 
+although familiar with the movement, which he carried out routinely, he forgot to check shunt 
+Signal CY69 prior to moving his train. Driver F040 may have also had an incorrect expectation 
+that he was clear to proceed as by the time he normally changes ends he has the proceed signals 
+to complete the movement.  
+
+## Página 222
+
+### Analysis 
+### Review of factual information related to Category A SPADs 
+### Driving experience of drivers involved in a Category A SPAD 
+826 In relation to years driving experience and the occurrence of Category A SPADs from January 
+2012 to June 2015, the graph shows that SPADs are most likely to occur with drivers with 
+between three and five years of driving experience, see Figure 102. 
+### Driver Experience  (2012 - 2015)
+7
+### Number of drivers with SPADs
+6
+5
+4
+3
+2
+1
+0
+<1 <2 <3 <4 <5 <6 <7 <8 <9 <10<11<12<13<14<15<16<20<25<30
+### Driver experience in years
+### Figure 102 – Driving experience & the occurrence of Category A SPADs 
+### (2012 – 2015 (June)) 
+827 However, if the years are plotted individually i.e. for 2012, 2013, 2014 and 2015 (to June),see 
+Figure 103, the graphs show that in: 
+ 
+2012 – The occurrence of SPADs occur with drivers with less than seven years driving 
+experience and greater than twenty years driving experience; 
+ 
+2013 – There is no clear trend in the occurrence of SPADs with driving experience; 
+ 
+2014 – There is a number of SPADs occurring with drivers with three to eight years driving 
+experience;  
+ 
+2015 – To date, there are a number of SPADs with drivers with less than five years driving 
+experience, eight to ten years driving experience and sixteen to twenty years driving 
+experience.   
+
+## Página 223
+
+### Figure 103 – Annual figures for the occurrence of SPADs and driving experience 
+828 Some of the variables which are likely to have contributed to the changes in the annual graphs 
+are as follows: 
+ 
+There was a large recruitment of drivers in 2008, which may account for the SPADs occurring 
+with more inexperienced drivers in 2012; 
+ 
+There was a focus on SPAD prevention of PQA drivers in 2012, which may account for the 
+distribution, in terms of years of driving experience, of SPADs in 2013; 
+ 
+There was a re-training of all drivers with EPTs in 2014, which may account for the 
+distribution of SPADs in 2015. 
+
+## Página 224
+
+### Profile history of drivers and the occurrence of Category A SPADs 
+829 In relation to the classification of drivers in terms of categorisation the drivers are placed in certain 
+categories dependent on the type of recorded safety critical operational occurrences, as set out in 
+the appendix of OPS-SMS-3.2 (paragraph 129). Some of the drivers involved in the SPADs were 
+newly qualified drivers, and as such were PQA drivers.   
+830 In terms of the review of the forty-one IÉ drivers involved in the Category A SPADs investigated 
+by the RAIU, the findings are as follows (see Figure 104 for diagrammatical illustration): 
+ 
+85% of the drivers were Category U (78%) or PQA (7%) drivers at the time of the occurrence;  
+ 
+15% of drivers involved in the SPADs were classified as a Category A,B,C or D Driver at the 
+time of their respective SPAD as a result of a previous operational occurrence. 
+15% of drivers 
+7% 
+were classified 
+were 
+78% of experienced drivers were Category U drivers at the time of the SPAD
+A,B,C or D at 
+PQA 
+the time of the 
+drivers
+SPAD
+### Figure 104 – Driver profile at the time of the drivers’ respective SPADs 
+831 In terms of driver profile history and the re-classification of drivers (see Figure 105 for 
+diagrammatical illustration): 
+ 
+61% of drivers had never been reclassified from Category U (i.e. they never had an 
+operational occurrence) prior to their respective SPADs. 54% of these drivers were 
+experienced drivers and 7% of the drivers were PQA drivers (i.e. newly qualified); 
+ 
+39% of drivers had been reclassified at some stage during their driving history. As mentioned 
+above, 15% were classified as a Category A,B,C or D Driver at the time of their respective 
+SPAD. 24% had been classified as a Category A,B,C or D Driver at some time previous in 
+their driving history. 
+61% of driver had never been reclassified during their driving 
+39% of drivers had been reclassified at 
+history.
+some stage during driving history.
+15% of 
+24% of drivers had 
+7% 
+drivers were 
+54% of experienced drivers had never been reclassified at 
+been reclassified 
+were 
+classified 
+any time during their driving history i.e. were always 
+back to Category U at 
+PQA 
+A,B,C or D at 
+Category U drivers.
+the time of the SPAD
+drivers
+the time of 
+the SPAD
+### Figure 105 – Driver profile history 
+
+## Página 225
+
+832 In terms of previous operational occurrences, the findings are as follows (see Figure 106 for 
+diagrammatical illustration): 
+ 
+22% of drivers involved in a SPAD had been reclassified at some stage during their driving 
+history as a result of a SPAD (7% had been involved in two or more SPADs);    
+ 
+17% of drivers involved in a SPAD had been reclassified as a result of another operational 
+occurrence type. 
+22% of drivers had been 
+7% 
+17% of drivers had 
+54% of experienced drivers had never been re-
+re-classified as a result 
+were 
+been re-classified 
+classified at any time during their driving history 
+of a previous SPAD (7% 
+PQA 
+as a result of 
+i.e. were always Category U drivers.
+had more than one 
+drivers
+other incidents
+SPAD)
+### Figure 106 – Classification as a result of operational occurrences 
+833 In summary, this shows that over one-in-five drivers who has been involved in a SPAD, has been 
+involved in a previous SPAD. 
+### Times of Category A SPAD occurrences 
+834 In relation to the time of day in which Category A SPADs occur, this investigation plotted the 
+available time of the SPADs from 2012 – 2015 (end of June 2015); this plotting shows that there 
+are a number of peak times when SPADs are more prevalent, i.e. between 06:00 hrs and 08:00 
+hrs, and between 17:00 hrs and 20:00 hrs.  
+
+## Página 226
+
+8
+### Number of Category A SPADs
+7
+6
+5
+4
+3
+2
+1
+0
+### Time of Day
+### Figure 107 – Time of day for Category A SPADs 2012 – 2015 (to June) 
+835 More recently, in 2015, the occurrence of a SPAD was more prevalent at the later peak time 
+(17:00 hrs to 21:00 hrs), although it should be noted that there has been no significant change in 
+timetabling of trains or rostering of drivers, see Figure 108. 
+### Figure 108 – Time of day for Category A SPADs showing annual changes  
+
+## Página 227
+
+### Driving time prior to the occurrence of a Category A SPAD 
+836 Plotting the time spent driving, in thirty minute intervals, prior to the Category A SPAD event, for 
+SPAD events between 2012 – 2015 (end of June 2015) the graph indicates that the most SPADs 
+occur within the first thirty minutes driving, and are most prevalent within the first hour of driving, 
+reducing slightly for the second hour of driving, and then decreasing significantly after two hours 
+driving, see Figure 109.  
+### Figure 109 – Driving time and Category A SPADs (2012 – 2015 collectively) 
+837 However, the number of SPADs occurring within the first two hours has decreased over the years, 
+and more recently, there is no apparent trend in terms of the occurrence of a Category A SPAD 
+and driving time, see Figure 110. 
+
+## Página 228
+
+### Figure 110 – Driving time prior to the occurrence of Category A SPADs 
+(showing annual changes 2012 – 2015) 
+### The effect of annual leave / rostering arrangements on Category A SPADs 
+838 The RAIU has reviewed all the annual leave arrangements in relation to SPADs which occurred 
+between 2012 and 2015 (first six months). There were three instances of annual leave recorded 
+directly before the day of the SPAD (between one and five days) and two instances of single days 
+leave in the week leading up to the SPAD. 
+839 There were two instances of annual leave booked to commence the day after the SPAD; and 
+there were two other instances of one-two day annual leave days booked to be taken within three 
+days of the day of the SPAD.   
+840 In relation to annual leave and the occurrence of SPADs, there was only one instance where 
+scheduled annual leave was contributory to the occurrence of the SPAD. 
+
+## Página 229
+
+### Human factor contributory factors related to Category A SPADs 
+### Category A SPADs during normal train operations 
+841 This section will review the eleven incidents outlined above (paragraphs 516 - 593), in conjunction 
+with the SPAD at Millstreet on the 8th December 2013 (Part 5), to identify any common human 
+factors related to the causation of SPADs for this event types. The RAIU findings are as follows: 
+ 
+The loss of situational awareness was a contributory factor in 67% of the SPADs; 
+ 
+Distraction and/or preoccupation was a contributory factor in 67% of the SPADs; 
+ 
+Incorrect expectation was a contributory factor 58% of the SPADs; 
+Poor communications was a contributory factor in 17% of the SPADs20. 
+ 
+842 In terms of the loss of situational awareness, in the majority of cases this was found to be as a 
+result of simply ‘forgetting’:  
+ 
+Their exact location in terms of the next signal (looking at the wrong signal/ thinking that the 
+signal is further away/ being distracted (sunlight)); 
+ 
+The aspect of the previous signal (as a result of a previous distraction); 
+ 
+Their surroundings (non-CAWs areas/ possession arrangements/ size of their train). 
+843 In terms of distraction and/or preoccupation, these were found to be as a result of: 
+ 
+Passengers incidents – through passengers taken ill or left on the train at the time of 
+departure from a station; 
+ 
+In-cab distraction – through another person being in the cab or problems with train equipment; 
+ 
+Line side features – through the location of an increased speed board after a fixed yellow 
+signal; 
+ 
+Personal issues – through drivers thinking about events in the personal lives i.e. holidays. 
+844 In terms of incorrect expectation, this was generally as a result of individual experiences 
+previously experienced by the drivers i.e. over-familiarisation with the route and the signalling 
+sequences. 
+845 In relation to poor communications, these instances of SPADs were related to poor 
+communications with the relevant signalmen, leading to an incorrect expectation. 
+20 The combined percentages do not total 100%, as generally, SPAD incidents have more than one 
+contributory factor. 
+
+## Página 230
+
+### Category A SPADs during degraded train operations  
+846 This section will review the six incidents outlined above (paragraphs 594 - 634 and 693 - 700), in 
+conjunction with the SPAD at Gortavogher on the 19th December 2013 (Part 6), to identify any 
+similar factors into the causation of SPADs for these event types.  
+847 In terms of the SPADs during degraded train operations, the review by the RAIU found that the 
+actions of other parties (i.e. Signalmen, LCCOs, Pilotmen and Guards) were the major 
+contributory factors in the majority of SPAD incidents (five of the seven outlined in this report). 
+The actions of the other parties included: 
+ 
+Controlling signalman providing drivers with incorrect information in relation to approaching 
+faulty level crossings and during WSLP; 
+ 
+Pilotmen not instructing drivers correctly about obeying signals after entering WSLP sections; 
+ 
+Guards incorrectly instructing drivers; 
+ 
+Controlling signalmen incorrectly applying the Rule Book as a result of lack of understanding 
+of the Rule Book; 
+ 
+Lack of route knowledge of the part of the signalmen; 
+ 
+Poor communications from the signalman to the drivers (although, it should be noted that both 
+parties come to a clear understanding of actions to be taken).  
+848 In terms of the contributory factors affecting the drivers, the RAIU found that: 
+ 
+Incorrect expectation was a contributory factor in 88% of the SPADs; 
+ 
+Loss of situational awareness was a contributory factor in 25% of the SPADs; 
+Distraction was a contributory factor in 13% of the SPADs21. 
+ 
+849 In terms of incorrect expectation on the part of the drivers, this was largely due to an incorrect 
+expectation being reached as a result of poor communications/ instructions from other operational 
+staff (e.g. signalmen, guards, etc.). 
+850 In terms of loss of situational awareness, these were as a result of external factors (weather) and 
+loss of situational awareness resulting initially from a number of external distractions (wheelchair 
+passenger, irate passengers and fire). 
+21 The combined percentages do not total 100%, as generally, SPAD incidents have more than one 
+contributory factor. 
+
+## Página 231
+
+851 Also contributory to the SPADs was that, in some cases, drivers did not apply correct defensive 
+driving techniques (through not driving slowly towards signals they knew were at danger or faulty 
+level crossings). 
+852 Also, of note during the RAIU review, was the fact that the internal IÉ reports into the incidents, 
+focused primarily on the actions of the drivers (driver actions were generally found to be the 
+immediate causes of the SPAD). This will be further reviewed in Part 11 of this report. 
+### Category A SAS & SOY SPADs 
+### Introduction 
+853 This section will review the SAS and SOY SPAD incidents outlined above (paragraphs 652 - 825), 
+in conjunction with the SAS SPAD at Muine Bheag on the 9th April 2013 (Part 7), to identify any 
+similar factors into the causation of SPADs for this event types. As the event types are slightly 
+different, these will be reviewed separately in terms of human factor contributory factors (i.e. as 
+SAS SPADs and as SOY SPADs). 
+### Contributory factors in relation to SAS SPADs 
+854 In terms of the contributory factors related to SAS SPADs, the RAIU found that: 
+ 
+Incorrect expectation was a contributory factor in 65% of SAS SPADs; 
+ 
+Loss of situational awareness was a contributory factor in 53% of SAS SPADs; 
+ 
+Distraction and preoccupation was a contributory factor in 53% of SAS SPADs. 
+855 The RAIU also found that poor communications with other operational staff was a contributory 
+factor in 12% of SAS SPADs. 
+### Contributory factors in relation to SOY SPADs 
+856 In terms of the contributory factors related to SOY SPADs, the RAIU found that: 
+ 
+Distraction was a contributory factor in 90% of SOY SPADs; 
+ 
+The loss of situational awareness was a contributory factor in 70% of SOY SPADs; 
+ 
+Incorrect expectation was a contributory factor in 50% of SOY SPADs. 
+
+## Página 232
+
+### Contributory factors in relation to SAS and SOY SPADs 
+857 In terms of distraction and/or preoccupation, these varied from, distractions: 
+ 
+Before service (lost keys); 
+ 
+At platforms (passengers and late running of trains); 
+ 
+External factors (weather conditions and fires); 
+ 
+In-cab distractions (phone calls, looking for phones); 
+ 
+Line side features (e.g. through the location of an increased speed board after a fixed yellow 
+signal). 
+858 In terms of incorrect expectation, this was generally as a result of individual experiences 
+previously experienced by the drivers i.e. over-familiarisation with the route and the signalling 
+sequences. 
+859 In terms of the loss of situational awareness, in the majority of cases this was found to be as a 
+result of simply ‘forgetting’:  
+ 
+Their exact location in terms of the next signal (looking at the wrong signal/ thinking that the 
+signal is further away/ being distracted (sunlight)); 
+ 
+The aspect of the previous signal (as a result of a previous distraction); 
+ 
+Their surroundings (non-CAWs areas/ possession arrangements/ size of their train). 
+860 All cases of poor communications in these instances of SPADs were related to the relevant 
+signalmen.  
+### Use of EPTs to manage human factors 
+861 The RAIU found that the vast majority of the drivers involved in Category A SPADs, irrespectively 
+of the event type, didn’t apply any form of EPTs to manage their situational awareness, incorrect 
+expectation or distraction/preoccupation. A very small minority of drivers, had in the past applied 
+some EPTs, however, they either did not apply them at the time of the SPAD incident or the EPTs 
+they applied were ineffective at managing these human factor errors. 
+862 As a result, where drivers were affected by these human factors, they were then unable to refocus 
+after distraction, avoid incorrect expectation or maintain situational awareness as they had not 
+developed appropriate EPTs. This was as a result of drivers receiving inadequate training in EPTs 
+and the lack of a suitable form of assessment in terms of EPTs. 
+
+## Página 233
+
+863 The RAIU found that, post incident, the majority of drivers had developed some form of EPTs, 
+which they found to be very effective in the management of distractions, incorrect expectations 
+and situational awareness, and consider that if they had applied these EPTs on the day of the 
+SPAD incident, the SPAD would not have occurred. 
+
+## Página 234
+
+### Conclusions 
+### Review of factual information related to Category A SPADs 
+### Driving experience of drivers involved in a Category A SPAD 
+864 In relation to years driving experience and the occurrence of Category A SPADs from January 
+2012 to June 2015, SPADs are most likely to occur with drivers with between three and five years 
+of driving experience (paragraph 826). There are some annual variations which are likely the 
+result of new recruitments, training and the introduction of more stringent EPTs training 
+(paragraph 828).  
+### Profile history of drivers and the occurrence of Category A SPADs 
+865 In relation to the profile of drivers, a quarter of the drivers involved in SPADs reviewed by the 
+RAIU (Category A SPADs from January 2012 – June 2015) had been previously had another 
+Category A SPAD (paragraph 831); while nearly 40% had been involved in a safety related 
+occurrence that required that the driver be reclassified (paragraph 831). However, at the time of 
+their respective SPADs, nearly 80% of drivers were Category U Drivers (requiring no additional 
+supervision or monitoring) at the time of the SPAD. 
+866 The fact that a quarter of drivers involved in the SPADs reviewed by the RAIU, had previous 
+SPADs, indicates that the current DD&SS system is ineffective at correcting the drivers behaviour 
+in the long term22.  
+867 In addition, the Category U Driver profile is not a true reflection of the driver’s profile, given that a 
+driver with multiple SPADs (in the incidents reviewed by the RAIU, some drivers had two previous 
+SPADs) can be re-classified a Category U Driver after a period of time; and a driver with no 
+previous operational incidents is classified as a Category U Driver; this is not an accurate 
+reflection of the drivers history23. 
+22 The ineffectiveness of the DD&SS for the correction of drivers’ behaviour in the long term warrants 
+a safety recommendation, see Part 14. 
+23 The classification and reclassification of drivers does not provide a true reflection of the driver’s 
+history, and as a result warrants a safety recommendation, see Part 14. 
+
+## Página 235
+
+### Times of Category A SPAD occurrences 
+868 In relation to the time of day in which Category A SPADs occur, the RAIU indicates that SPADs 
+are more prevalent in the afternoon or evening time (paragraphs 834 - 835), however, the RAIU 
+could not determine why this is the case24. 
+### Driving time prior to the occurrence of a Category A SPAD 
+869 SPADs are more likely to occur within the first thirty minutes driving, and are most prevalent within 
+the first hour of driving and reducing over the following hours (paragraph 836); the RAIU could not 
+determine why this is the case25. 
+### The effect of annual leave / rostering arrangements on Category A SPADs 
+870 Only one occurrence of a Category A SPAD was directly related to annual leave, which resulted 
+in a distraction for the driver (paragraphs 838 - 840)26. 
+### Human factor contributory factors related to Category A SPADs 
+871 The RAIU found that loss of situational awareness, distraction and/or preoccupation and incorrect 
+expectation were the main contributory factors associated with the causation of SPADs. The 
+occurrence of these human factors varied related to event type, for example: 
+ 
+Loss of situational awareness, distraction and/or preoccupation, and incorrect expectation 
+where all major contributory factors in SPADs occurring during normal train operations 
+(paragraph 841); 
+ 
+Incorrect expectation was the major contributory factor in SPADs occurring during degraded 
+train operations, which was generally as a result of inputs from other operational staff, such 
+as signalmen (paragraph 848); 
+ 
+Incorrect expectation, distraction and/or preoccupation, and loss of situational awareness 
+where all major contributory factors in SPADs occurring during normal train operations 
+(paragraph 854); 
+24 The prevalence for the occurrence of SPADs in the afternoon/evening should be further reviewed 
+by IÉ, as a result, this warrants a safety recommendation, see Part 14. 
+25 The prevalence for the occurrence of SPADs at the start of the drivers shift should be further 
+reviewed by IÉ, as a result, this warrants a safety recommendation, see Part 14. 
+26 Although the driver was affected by his annual leave arrangement, the RAIU do not consider it 
+reasonable to change annual leave arrangements for drivers, and instead the distraction of annual 
+leave should be managed through proper EPTs. The introduction of adequate EPTs warrants a safety 
+recommendation, see Part 14.  
+
+## Página 236
+
+ 
+Distraction, loss of situational awareness and incorrect expectation were all major contributory 
+factors in the occurrence of SOY SPADs, with distraction being a contributory factor in nearly 
+all SOY SPADs (paragraph 856). 
+### Use of EPTs to manage human factors 
+872 Irrespective of the different human factor contributory factors or event types, the RAIU found that 
+the vast majority of the drivers involved in Category A SPADs, did not apply any form of EPTs, or 
+applied incorrectly applied EPTs, to manage these human factors (paragraph 861). As a result, 
+the drivers were unable to refocus after distraction, avoid incorrect expectation or maintain 
+situational awareness as they had not developed appropriate EPTs (paragraph 862). This was as 
+a result of drivers receiving inadequate training in EPTs and the lack of a suitable form of 
+assessment in terms of EPTs. 
+873 The RAIU found that, post incident, the majority of drivers had developed some form of EPTs, 
+which they found to be very effective in the management of distractions, incorrect expectations 
+and situational awareness, and consider that if they had applied these EPTs on the day of the 
+SPAD incident, the SPAD would not have occurred (paragraph 863). 
+
+## Página 237
+
+## PART 9 – SPAD MANAGEMENT 
+### Evidence 
+### Calculating the SRR 
+### Introduction 
+874 Part 3 of this report outlines how IÉ calculate the SPADs on the IÉ network, based on the SRRT 
+developed by the UK’s RSSB. This section will review that current system and discuss any 
+findings from audits, etc. 
+### IÉ Internal Safety Audit 
+875 A safety audit carried out by the IÉ’s Safety Audit Unit, and published in June 2012, entitled 
+‘SPAD Management Operations’, makes a number of findings in relation to calculating the SRR, 
+including that the audit identified that: 
+ 
+Only the RU CTE has been calculating the SRR for all SPAD incidents since 2008, and is 
+currently the only member of IÉ staff trained in doing so;  
+ 
+There a number of Category A terms used, when referring to SPADs, providing the following 
+example “A collision on the running line is categorised as ‘A’, whilst a collision on other than a 
+running line is categorised as ‘B’. SPADS are included in this classification table, with those in 
+the High Risk categorised as ‘A’, etc”. It also notes that the RSSB describe these categories 
+as: Not Significant – Low Risk; Potentially Significant – Medium Risk and Potentially Severe – 
+High Risk. 
+876 Based on these findings, IÉ’s Safety Audit Unit identified the following actions to be undertaken: 
+ 
+Arrange to train additional staff in the Operations Department to operate the SRRT – at the 
+time of publication of this report, this action remains outstanding; 
+ 
+Review the descriptive structure for the Categorisation of SPADs to provide clarity. Currently, 
+Category A SPADs are subdivided into three categories, A, B & C – this review was carried 
+out by the Operations Safety Steering Group, which determined that no change was 
+necessary. 
+877 Also of note from this audit report, is in relation to SPAD Trends, where the report notes that 
+“whilst the number of SPADs continues to fall year on year, the Network Wide Risk Model 
+(NWRM) [2010] pointed out that the average risk ranking was beginning to rise in 2009”.  
+
+## Página 238
+
+### RSC review of compliance in terms of calculating of the SRR 
+878 On receipt of IÉ’s OOR in relation to the SAS SPAD at Signal MW826, Mallow, on the 16th May 
+2014 (paragraphs 742 - 748) on the 17th September 2014, the RSC carried out a preliminary Post 
+Incident Inspection (PII) in relation to the SRR carried out by IÉ, where the RSC reviewed 
+standards, procedures, guidance documents and training records associated with assigning 
+SRRs to SPADs. The RSC were in communication with IÉ (IÉ-RU Chief DTE and IÉ-RU Safety 
+Compliance Manager) in late 2014 and 2015 in relation to the SRRs.  
+879 Part of this process, involved corresponding and meeting with the RSSB (the creator of the 
+original SRR Tool) who found that the SRRs had not been calculated in line with the SRRT, with 
+SPADs generally received lower scores. 
+880 The completion of the preliminary PII on the 17th June 2015 concluded that a full PII was not 
+warranted, however, the RSC made a number of recommendations in relation to the SRRT, 
+namely:  
+ 
+IÉ-RU should finalise the document so that ‘IÉ’s SPAD Risk Ranking Methodology Handbook, 
+Version 1 October 2008’ is not being utilised in a draft version; 
+ 
+IÉ-RU should identify and arrange training for a sufficient number of persons in the use of the 
+SRRT (SPAD Risk Ranking Tool) software, in accordance with clause 3.2 of the IÉ SPAD 
+Risk Ranking Methodology Handbook; 
+ 
+IÉ-RU should source the services of an external reviewer, e.g., company/consultant or other 
+Railway Organisation with which IÉ-RU has ties, to undertake a review of a sample number 
+the SRRs on an ongoing basis. Such a review would give confidence that the SPAD 
+handbook and the principles contained therein are being applied correctly in conjunction with 
+the SRRT. 
+
+## Página 239
+
+881 The preliminary PII was then forwarded by the RSC to IÉ on 22nd June 2015 under cover of a 
+letter from the Commissioner, which included the following:  
+“The deficiencies identified and the manner in which SPAD risk ranking is carried out in IÉ is of 
+serious concern to the RSC. Therefore, the RSC is of the opinion that this matter requires prompt 
+attention and recommends that IÉ management undertake a ‘critical review of the management of 
+SPADs’ as a matter of urgency. Such a review should include a time line of actions to be taken to 
+address all issues identified during the review, and inter alia take account of: 
+ 
+The points identified in this letter, the attached PII and associated documents in regard, to: 
+o 
+SPAD risk ranking, methodology, competence of persons involved, etc., 
+o 
+Respective role and duties of the IÉ-IM, including interfaces with all RUs, and 
+o 
+The role and duty of IÉ-RU in managing its own SPADs; 
+ 
+The 2012 IÉ Safety Audit Unit (SAU) report of the ‘Audit on SPAD Management Operations’; 
+ 
+Safety recommendations contained in any report (or draft report) of investigations into SPADs 
+carried out by the RAIU; 
+ 
+A review, on exactly the same basis as in the UK, of each of the risk ranking scores of the 
+ninety Category ‘A’ SPADs that have previously been determined using the SRRT, and a re-
+run of the NWRM using the re-calibrated SPAD risk ranking scores; 
+ 
+The adoption of a ‘Just Culture’ (no-blame culture) to improve safety reporting, as identified in 
+the Ladbroke Grove Rail Inquiry Part 2 Report and in  the European Railway Agency (ERA) 
+‘Application Guide for the design and implementation of a Railway Safety Management 
+System’.27” 
+882 In direct response to this letter from the RSC, IÉ commissioned safety consultant AD Little28 to 
+review the IÉ SRRs and the SRRT.   
+### Arthur D. Little review of the SRRT 
+883 As mentioned above, based on the findings of the RSC, IÉ commissioned Arthur D. Little to 
+conduct a review of the management of SPADs, with the key focus being on the use of the SRRT; 
+this review included the re-assessment of ninety SPADs. 
+884 Arthur D. Little, calculating independently, calculated the same scores as IÉ in 72% (of the 90 
+SPADs reviewed) of SPADs; found that a further 22% were over-estimated by IÉ; and that 6% (5 
+27 
+Developing 
+and 
+Improving 
+Safety 
+Culture 
+in 
+the 
+Organisation, 
+(2013_12_19_ERA_GUI_SMS_Saftey Culture_1) 
+28 AD Little, Management of SPAD Event, Independent Review, Report to Iarnród Éireann, October 
+
+## Página 240
+
+SPADs) were underscored by IÉ. In relation to the SPADs reviewed by the RSC, Arthur D. Little 
+found that the IÉ SRRs had “good agreement” with the independently scored SRRs.  
+### Review of IÉ SPAD investigation reports by the RAIU 
+### Introduction 
+885 The RAIU reviewed reports from the forty-five SPAD incidents from 2012 to mid-2015, the RAIU 
+made a number of findings in relation to the reports in terms of time taken to conduct the review 
+or investigation, consistency in terms of investigation conducted, and quality of reports (in terms 
+of accuracy).  
+### Issuing the remit 
+886 The term ‘category’ is used for both the type of remit to be issued, e.g. Category A Remit 
+Investigation, and the same term is used for the classification of SPADs e.g. Category A SPAD. It 
+is also noted, that the term ‘category’ is also used for the classification of drivers e.g. Category A 
+driver. As a result, there can be a Category A Remit, for a Category A SPAD, involving a 
+Category A Driver. 
+### Time taken to conduct the reviews/investigations 
+887 In relation to reportable railway incidents29, Section 54(5), ‘Investigations by railway undertakings’, 
+of the Railway Safety Act 2005 states that “A railway undertaking shall in an expeditious manner 
+carry out an investigation under subsection (1)30 and shall, as soon as practicable but in any 
+event not later than 6 months after the date of the incident, prepare a report on its findings”.  
+29 52.—(1) In the event of a railway incident, the railway undertaking concerned or, if the incident 
+involved more than one railway undertaking, the railway undertakings concerned, shall— 
+(a) in the case of loss of life or injury to a person or in other cases as may be specified from time to 
+time by the Investigation Unit, send to the Investigation Unit by the quickest practicable means (or 
+within such timeframe as may be specified by the Investigation Unit) notice of the incident, including 
+brief particulars and details of the location of the incident and of any loss of life or personal 
+injury, and 
+(b) as soon as practicable send a written report to the Investigation Unit, in such form and containing 
+such particulars as may be specified from time to time by the Investigation Unit, of the loss of life, 
+injury, condition or incident. 
+30 Subsection (1) states: “It shall be a duty of a railway undertaking to carry out an investigation into a 
+reportable railway incident in order to establish the cause of such incident and to assess what, if any, 
+action can be taken by the railway undertaking to avoid railway incidents in the future or otherwise for 
+the improvement of railway safety”. 
+
+## Página 241
+
+888 This is transposed into IÉ document, OPS-SMS-2.4, Accident and Incident Investigation, which 
+provides milestones for investigations, stating that the investigation “must not normally exceed 6 
+months”. This appears to be for all accidents, and not particular to ‘reportable railway incidents’ 
+under the Railway Safety Act 2005. It should be noted, that as SPADs do not fall under the 
+category of reportable railway incidents, they do not fall under the requirements of the Railway 
+Safety Act 2005. 
+889 In terms of the ‘Five Working Day Panel Review’ it was found that the reports into the reviews 
+were published approximately five months (long-running reviews of over one year were excluded 
+from this average). There were two ‘Five Working Day Panel Review’ reports which remained in 
+draft, these drafts were approximately two years old. 
+890 In terms of ‘Reports of Investigations’, whereby a full investigation has been carried out, the 
+average time from incident date to publication is seven months, with 40% of the reports not being 
+published for over six months.  
+891 On the introduction of the OOR format, in place of the ‘Five Working Day Panel Review’ these 
+reports were initially completed within four months, however, this time has now increased to an 
+average of six months. Of note, is the fact that the OOR determines whether a full investigation 
+needs to be carried out, and this full investigation may, therefore, not commence until six months 
+after the SPAD event.  
+### Type of investigation carried out 
+892 Since the introduction of the OOR template in December 2013, the template appears to be 
+consistently used, despite not being directly referred to in any IÉ standards or procedures (namely 
+OPS-SMS-2.0). However, there was one incident did not use this new OOR template, and in its 
+place used a ‘5 Day Incident Review’ (5-DIR) template was issued in draft in October 2014 (it is 
+unclear whether this review is actually complete). 
+### IÉ review/report conclusions 
+893 The IÉ reviews/reports generally use the terms ‘immediate cause’, ‘causal factors’, ‘underlying 
+factors’; or in some cases use ‘immediate cause’, ‘contributory factors’, ‘underlying factors’. 
+Assuming that the terms are consistent with the terms used by the RAIU (as set out in the 
+glossary of terms (Part 15)), and assuming that causal factors and contributory factors are similar, 
+in that they relate to “actions taken by persons involved or the condition of rolling stock or 
+technical installations” and that underlying factors should relate to “skills, procedures and 
+maintenance” it is clear that IÉ are, in some cases, using the terms incorrectly. For example, the 
+reviews/reports continuously place the actions of drivers in all three causes/factors, i.e. the direct 
+actions of the driver are assigned the immediate cause, the contributory (causal) factor and the 
+
+## Página 242
+
+underlying factor. This was found to be the case in approximately one third of the underlying 
+factors identified. 
+### Quality of IÉ Investigation Reports  
+894 The RAIU reviewed all the reviews/investigation reports associated with the SPAD incidents from 
+2012 – mid-2015. Although the RAIU acknowledge that there were a large number of reports and 
+inaccuracies and omissions can occur; the inaccuracies and omissions noted below, by the RAIU, 
+have a considerable bearing on either the drivers, the causes of the incident and the credibility of 
+the investigation reports as a whole. It is also noted, that some of the statements made in the 
+reports appear to be in contradiction with the actions taken after a SPAD event.  
+895 In relation to the report of investigation into the SPAD at Millstreet, 8th December 2014 (Report 
+No. R0401-2014-18) the report states that “Following the SPAD, when the driver makes a shunt 
+movement back behind TL223, the stopping of the train past the signal is a significant distance. 
+Either the driver was not sure of the location of the signal or has difficulty judging the length of a 4 
+coach train”. During the RAIU investigation, the RAIU have noted that management in IÉ 
+consistently state that Driver A303 did not know where signal TL223 was located. However, the 
+RAIU did not find this to be the case and the “significant distance”, taken by the driver, was to 
+ensure that the driver had cleared the signal. 
+896 The report continues “The investigation panel therefore consider that the driver’s competence and 
+confidence in route knowledge over the Tralee route is also a factor in the SPAD occurring”. 
+However, it is noted, by the RAIU, that Driver A303 was returned to driving duties on the 20th 
+December, twelve days after the incident. Given the serious nature of the SPAD, and this 
+statement from the IÉ report, it is questionable why the driver was returned to driving duties in 
+such a short period of time, if IÉ consider that there were short falls in his competencies.  
+897 Two OORs (SPAD at Signal CY26 Connolly, 3rd April 2014, R0903-2014-34 and the SPAD at 
+Signal CE482 Glounthaune, Cork/Midleton Line, 27th June 2014, R1301-2014-53) attribute 
+contributory factors to the SPADs incidents to be as a result of personal issues. The RAIU review 
+of the incident found this not to be the case. The RAIU cannot fully establish the reason for the 
+inclusion of these statements in the reports, however, it appears to be the case that drivers were 
+required to “come up” with a reason for the SPAD or be faced with other disciplinary actions, such 
+as further medical testing or removal from the driving grade. 
+898 In relation to omissions, the RAIU found that the IÉ reports failed to identify a number of causes to 
+SPADs in their reports, for example in relation to the SPAD at Signal CY33 passed at danger 
+without authority, 11th September 2014, Connolly Station, E221. The report did not identify that a 
+
+## Página 243
+
+driver’s holiday was a contributory factor to the causation of a SPAD, despite the driver freely 
+stating that this was the largest contributory factor to him having the SPAD.  
+899 Contributory to the inaccuracies and omissions in these reports may be as a result of drivers not 
+being provided with draft copies of reports and are therefore unable to comment on the reports 
+prior to internal publication. The RAIU investigation found that only a very small minority of the 
+drivers were in receipt of the reports, while another minority of drivers had been shown the reports 
+by their respective DTEs. 
+### Recommendations 
+900 There also appears to be little effort in terms of reviewing SPADs by event type to determine any 
+trends into the occurrence of SPADs. This results in recommendations being localised e.g. a 
+recommendations may be made in relation to the updating of the local route risk assessments. 
+For example, in the case of SOY SPADs a number of recommendations have been related to the 
+updating of route risk assessments for trains departing on a yellow signal for the local area, rather 
+than a network wide review of reasons drivers are having SOY SPADs. 
+901 In addition to this localised approach to recommendations, there also appears to be an 
+overreliance on the introduction of IÉHS in relation to the management of SPADs, this is 
+particularly noted for ORRs published in 2015, whereby, the introduction of the IÉHS is accepted 
+as sufficient for the prevention of future SPADs, despite IÉHS not likely to be introduced for a 
+number of years. 
+### Proactive management of SPADs in IÉ 
+### Introduction 
+902 Although the initial proactive management in terms of the prevention of SPADs is through the 
+selection, training and competency management of drivers and other operational staff, and 
+technical installations such as the DRA; this selection of the reports reviews the data 
+management of SPADs in terms of future prevention of SPADs and the near-miss reporting of 
+SPADs. 
+### SPAD Database 
+903 In terms of the SPAD database, IÉ appear to have numerous databases where information on 
+SPADs is collated. As part of the RAIU investigation, the RAIU submitted requests for information 
+in relation to SPADs. The information returned to the RAIU was sometimes conflicting i.e. some of 
+the databases provided to the RAIU omitted some of the Category A SPADs from the databases. 
+In addition, the RAIU were not provided with any database where the immediate cause, 
+
+## Página 244
+
+contributory factors or underlying factors were collated; or where the recommendations were 
+collated as part of SPAD databases.  
+### Recommendations 
+904 Recommendations as discussed above (paragraphs 900 - 901) as a means for the proactive 
+prevention of SPADs; however, it is noted that the recommendations appear to be localised and 
+there is an overreliance on the introduction of IÉHS for the prevention of SPADs, despite being a 
+long term solution. 
+### Near-miss reporting of SPADs 
+905 The RAIU requested all the near-miss SPAD reports on the IÉ network. There was only one near-
+miss SPAD report in 2013 at Tullamore Station  
+906 The reasons for the lack of near-miss reporting of SPADs, by drivers, will be discussed in ‘Part 10 
+– Management of Drivers’. 
+
+## Página 245
+
+### Analysis 
+### Calculating the SRR 
+907 IÉ have a system for the calculation of the SRR, using the SRRT, which is set out in ‘Part 3 – 
+Introduction to SPADs on the IÉ Network’ (paragraphs 58 - 60) which has not been formalised. 
+However an IÉ internal audit (paragraphs 875 - 877), a review of compliance by the RSC 
+(paragraphs 878 - 881), and the review carried out by the RAIU, have identified a number of 
+issues related to the SRRT, namely that: 
+ 
+The SRRT remains in draft format (paragraph 880); 
+ 
+The RU CTE is the only IÉ member of staff trained to calculate the SRR (paragraph 880); 
+ 
+There is some confusion related to the use of the term “Category” as it is used for a number 
+of different reasons related to SPADs e.g. Category A SPAD for a high risk SPAD, Category 
+A remits for the investigation of SPADs, etc. (paragraph 886). 
+908 The ‘underscoring’ identified by the RSC, has been reviewed independently by safety consultants 
+Arthur D. Little, who found IÉ’s SRR calculations to be robust. 
+### Review of IÉ SPAD investigation reports by the RAIU 
+909 From the review of SPAD investigation reports undertaken by the RAIU, the RAIU made a 
+number of findings in relation to the reports, as follows: 
+ 
+The time taken to complete investigation reports regularly exceeds the six months milestone 
+requirement set out in IÉ’s ‘Accident and Incident Investigation’ document, OPS-SMS-2.4, 
+with some reports exceeding the one year milestone period (paragraphs 887 - 891); 
+ 
+Some of the documents remained in draft format (paragraph 891); 
+ 
+A new template, the OOR template, introduced in December 2013 does not appear to be 
+formalised in any IÉ documentation, and on at least one occasion, IÉ have reverted back to 
+the older 5-DIR template (paragraph 892); 
+ 
+There is a lack of consistency with the investigation terms (immediate cause, contributory 
+factors, underlying causes, etc.); and they are often misused (e.g. direct driver actions are 
+assigned to all factors and causes to an incident), see paragraph 893; 
+ 
+There are assumptions made, which have led to inaccuracies in reports (paragraphs 894 - 
+899); 
+ 
+Recommendations are often localised, and over-reliant on long term solutions (paragraphs 
+900 - 901). 
+
+## Página 246
+
+910 These factors have to be considered when reviewing the frequency of SPADs, and the methods 
+employed by IÉ may mean that current system of investigating SPADs is not effective in the 
+prevention of SPADs, and only effective at managing localised issues related to SPADs. 
+### Proactive management of SPADs in IÉ 
+911 There are a number of SPAD databases, which are incomplete or missing key information in 
+relation to the SPAD event. There is no near-miss reporting of SPADs (with the exception of one 
+near-miss SPAD event). And, as mentioned above, the recommendations from internal IÉ 
+investigations are localised and reliant on long term SPAD solutions (paragraph 903).  
+912 As a result, the proactive management of the prevention of SPADs is insufficient in preventing or 
+reducing the number of SPAD events on the IÉ network.  
+
+## Página 247
+
+### Conclusion 
+913 IÉ engaged safety consultants Arthur D. Little to review the SRRT for the calculation of SRR, the 
+overall review found that the system used by IÉ is robust, paragraph 907.    
+914 In terms of IÉ’s collation of SPAD event information, the databases provided to the RAIU are 
+inconsistent, sometimes inaccurate and not complete (as they generally do not include any 
+findings from IÉ reports).  
+915 In terms of the internal investigation of SPADs on the IÉ network, a large number of the reports 
+take an excessive amount of time to complete (exceeding their own requirements of six months); 
+while some reports remain in draft format. The reports indicate that there is a lack of consistency 
+in the investigative terms used, resulting in the frequent misuse of common investigation terms. In 
+addition, a number of report findings are inaccurate; while recommendations are consistently 
+localised and over-reliant on long term solutions. These factors may have contributed to IÉ not 
+showing any decline in the frequency of SPADs. 
+916 Drivers on the IÉ network generally do not report near miss events (only one near miss SPAD has 
+ever been reported in IÉ). If an adequate near miss reporting system was adopted it could be 
+used as a tool by IÉ in relation to the proactive management of the prevention of SPADs; 
+however, as this is not occurring, there is no early detection for the early identified of SPADs by 
+certain drivers or at certain signals on the IÉ network. 
+
+## Página 248
+
+## PART 10 – MANAGEMENT OF DRIVERS & OTHER STAFF POST INCIDENT 
+### Evidence 
+### General description  
+917 As outlined in the part above, the management of SPADs, does not directly contribute to the 
+occurrences of SPADs on the IÉ network. However, the RAIU made significant findings in relation 
+to the management of drivers, after SPADs, as part of the investigation which warrant further 
+investigation.  
+918 The first part of the report will review how drivers are relieved from driving duties after a SPAD 
+incident, this information is taken from IÉ reports of investigation and accounts of the drivers. 
+919 It will also review OPS-SMS-3.2 in relation to how drivers are managed directly after the incident 
+and in the weeks and years following the incident. OPS-SMS-3.2 includes details on: 
+ 
+Purpose of Driver Development and Support System; 
+ 
+Driver Profiles; 
+ 
+Incident requiring change of Driver Profile; 
+ 
+Minimum number of additional assessments; 
+ 
+Driver Development & Support System. 
+920 This information was taken from accounts given by drivers. As part of this investigation, the RAIU 
+have formally interviewed the vast majority of drivers involved in SPADs from 2012 to mid-2015. 
+The RAIU found that all drivers were co-operative to the RAIU investigation and assisted the 
+RAIU as requested.   
+### Relieving drivers of driving duties 
+921 Section 9.1.2 of OPS-SMS-2.0, ‘Employees to be immediately relieved from duty’ provides 
+information on when an employee should be relieved from duty immediately. It was not found that 
+any of the drivers involved were under the influence of drugs or alcohol, medically unfit or 
+suffering from fatigue. Although it was noted that one driver was not subject to any drugs and 
+alcohol testing as a result of some confusion in relation to whether the incident was a SPAD 
+(paragraph 639). 
+922 It is evident, from the driver interviews carried out by the RAIU, that in all cases drivers are 
+shocked by the SPAD incident, and in some cases ‘shocked to an extent which could significantly 
+impair their judgement’ (paragraph 78); a term used by IÉ to decide whether a driver should be 
+
+## Página 249
+
+immediately relieved from duty. Some of these drivers were not immediately relieved from duty, 
+and the District Managers allowed some drivers continue with movements after a SPAD. In the 
+majority of cases there were no further incidents following the SPAD, however, there were a 
+number of cases where drivers conducted unauthorised movements after the SPAD, for example, 
+after the SPAD at: 
+Signal XE010DS, Longpavement Level Crossing, 9th April 2012, the driver propelled his train 
+ 
+after the SPAD to look at the signal (paragraph 520); 
+Signal SL817, Boyle, 18th January 2015 (paragraph 766 - 776), the driver carried out an 
+ 
+unauthorised movement after being requested not to move his train until authorised by the 
+signalman; 
+Signal CL102, Clonsilla, 15th May 2015, the driver was requested to return the train to the 
+ 
+platform at 25 mph (40 km/h), however, he approached at a faster speed.  
+923 In addition, after the occurrence of some of the SPADs, it would have been apparent to IÉ that the 
+incident was ‘very serious’ e.g. SPAD at Millstreet Station on the 8th December 2013, as two 
+trains stopped 175 m apart on the same platform. However, IÉ allowed the driver continue with 
+shunting movements after the SPAD (paragraph 262).  
+### Relieving other operational staff from duties 
+924 The RAIU also interviewed a number of signalmen, EOs and LCCOs in relation to the 
+investigation. It was found that all drivers (which the exception of the driver of the SPAD at Signal 
+XX062, Shanclough Level Crossing on the 15th January 2015) were relieved from driving duties. 
+However, in relation to other operational staff (such as the LCCOs, EOs and PICs), these staff are 
+not always stood down after an incident. This is particularly relevant in the cases of SPAD during 
+degraded train operations, where the RAIU found that the actions of other operational staff were 
+nearly always contributory to the SPAD occurring (paragraph 847); and in SOY SPADs where the 
+PIC has also been contributory to the SPAD occurring through giving the ‘Ready to Start’ signal.  
+As a result, some of these staff are not subject to any form of retraining. 
+
+## Página 250
+
+### RAIU Interview Findings 
+### General description 
+925 As mentioned previously, the RAIU carried out a number of formal interviews with drivers in 
+relation to their relevant SPADs, as part of the interview process drivers were invited to discuss 
+the immediate and long term repercussions of the SPAD. This section of the report will discuss 
+the: 
+ 
+General treatment of drivers during five day review panel/ inquiry; 
+ 
+Sanctions and suspensions imposed on the drivers; 
+ 
+Driver profiles and the DD&SS. 
+### General treatment of driver during the investigation process 
+926 All drivers interviewed by the RAIU understood the potential severity of SPADs, some drivers felt 
+physically ill after having the SPAD and described the SPAD as the worse experience of their 
+lives (personally or professionally).  
+927 The RAIU review of the incidents found that the drivers had been subject to varying treatment by 
+IÉ as a result of the SPAD incidents.  
+928 The RAIU review of the incident found that majority of drivers (63% of those interviewed) felt they 
+were not treated fairly or with respect. Some drivers were required to sign in every day that they 
+were rostered and sit in the drivers mess area for six to seven hours every day with no contact 
+from management staff; these drivers found that this was demoralising, humiliating and degrading 
+and that is seriously affected their confidence.  
+929 Where drivers were interviewed as part of the internal investigation process, some were subjected 
+to lengthy interviews by up to eleven management staff. Some of the drivers felt “ambushed” by 
+this process and it was stated by some of the drivers that during this process the felt bullied, 
+threaten and belittled.   
+930 Some of the drivers were accused of purposely having the SPAD for some other gain e.g. one 
+driver stated that IÉ had accused him of having the SPAD on purpose to have extended annual 
+leave, two drivers stated that IÉ accused them of having the SPADs on purpose to avail of early 
+retirement. The RAIU did not find that any driver purposefully had any of the SPADs involved. 
+931 While 63% of the drivers felt they were not treated fairly or with respect, the remainder of the 
+drivers (37%), who had similar SPADs in terms of severity (SRR) were not subject to this 
+
+## Página 251
+
+treatment and were only required to write a statement and were returned to driving duties within 
+days (in some cases, less than five days). 
+932 In addition, some drivers were lead to believe, by their DTEs or more senior management that 
+another incident would result in them being removed from the driving grade and/or IÉ. 
+### Sanctions and suspensions imposed on drivers 
+933 Some drivers were subject to sanctions, whereby, they were suspended without pay, during the 
+five day panel review process; other drivers had their weekly hours cut. In one instance, where a 
+driver attempted to appeal the suspension, his suspension was successfully reduced (from five 
+days to three days), but he received a final disciplinary warning. Some of the actions taken 
+against some drivers appeared quite punitive.   
+### Driver profiles and DD&SS 
+934 In relation to the DD&SS, the RAIU found that: 
+ 
+The majority of drivers did not know what profile driver they were categorised as; 
+ 
+None of the drivers were aware that the DD&SS was a driver development and support 
+system plan. All drivers referred to the DD&SS as being “put on the standard”; 
+ 
+The majority of drivers considered the two year, and sometimes four year DD&SS length too 
+long; 
+ 
+A minority of drivers (30%) accepted the DD&SS. These drivers were generally found to be 
+the newly qualified drivers as the additional monitoring and downloads were similar to what 
+they were already subject to; 
+ 
+All drivers stated that they did not have any issues with the additional monitoring or 
+downloads; however, the majority of drivers (67%) were unhappy with the DD&SS overall. 
+The consensus with the drivers, and other management staff interviewed by the RAIU, was 
+that the DD&SS was used as a disciplining tool. 
+### Near-miss reporting 
+935 The RAIU also asked if they would report a near miss SPAD. Some drivers stated that they had a 
+near miss SPAD, where some emergency action was required to stop the train prior to a red 
+aspect, and they did not report it. In addition, drivers stated, that after being subject to the DD&SS 
+they would not report any near miss event for fear of further sanction. Near miss reporting in 
+discussed further in ‘Part 11 – Additional Observations’ of this report. 
+
+## Página 252
+
+### Analysis 
+### Relieving drivers of driving duties 
+936 It was found that drivers were normally allowed to carry out train movements after the occurrence 
+of a SPAD, based on a conversation with the relevant District Manager (or Acting District 
+Manager). It is apparent from discussing SPADs with drivers that having a SPAD was a shocking 
+event for drivers, and in some instances drivers carried out unauthorised movements after the 
+SPAD event (paragraph 922). It is the opinion of the RAIU that after the SPAD event, drivers 
+agree to carry out the movements after the SPAD, as they are trying to recover the situation, 
+despite in some situations the drivers being very distressed by the occurrence of the SPAD. 
+937 In addition, the RAIU found that the driver of the SPAD in Millstreet on the 8th December was 
+authorised to carry out a number of train movements after the occurrence of the SPAD, despite 
+the incident being ‘very serious’. This was despite the fact that another driver was available to 
+carry out the movements, as both trains were stopped on the platform at Millstreet Station 
+(paragraph 923). 
+### Relieving other operational staff from duties 
+938 The relieving of other operational staff appears to be inconsistent, whereby some operational staff 
+are stood down, while others remain at their post. This is of particular concern where the 
+operational staff were later found to have been contributory to the SPAD occurring (especially in 
+the case of SPADs during degraded train operations or SOY SPADs). As a result, these 
+operational staff were sometimes not subject to any form of redevelopment (paragraph 924). In 
+addition, the differing treatment of drivers from other operational staff further emphasises the 
+perception of some drivers that drivers are the only ones blamed. 
+
+## Página 253
+
+### General treatment of drivers post incident 
+939 The RAIU found that the occurrence of SPADs was generally difficult for drivers (paragraph 926). 
+The treatment of drivers, post incident, varied depending on which depot the driver was in (i.e. 
+who their DTEs were). Some of the actions taken against some drivers appeared quite punitive.   
+940 Some drivers believe they were treated very poorly post incident, where they were: 
+ 
+“Stood down” from duties with no communications from management (paragraph 928);  
+ 
+Led to believe that they would lose their job (paragraph 932); 
+ 
+Subject to sanctions (paragraph 933); 
+ 
+Accused of having the SPAD on purpose (paragraph 929). 
+### Driver Development & Support Systems 
+941 Few of the drivers interviewed knew what there driver profile was (i.e. classification, Category A or 
+B for drivers with SPADs). None of the drivers interviewed by the RAIU knew that the DD&SS was 
+in fact a driver development and support system; the drivers all referred to “being put on a 
+standard”. As a result, the DD&SS is generally not accepted fully by the drivers; and although 
+drivers have no issue with the additional monitoring, the more experienced drivers, with no 
+previous operational incidents, found the standard two years was excessive.  
+942 Overall the drivers found that the DD&SS was used as a disciplining tool. This treatment of the 
+drivers, led the some drivers to believe that drivers were usually first to be blamed, and in some 
+cases drivers stated that they felt very nervous while on the DD&SS and it affected the way that 
+they drove. 
+### Conclusions 
+943 Drivers, in some cases, are permitted to make a number of movements post SPAD event in order 
+to recover the situation. However, it is evident that SPAD events can be traumatic for drivers and 
+although they may feel they can carry out the movements, errors sometimes occur (paragraph 
+936). In addition, even after ‘very serious’ incidents, drivers have been permitted to carry out train 
+movements, despite other drivers being available (paragraph 937). In terms of other operational 
+staff, in a lot of SPAD events, these operational staff were not removed from duties, despite it 
+being later found that their actions were contributory to the SPAD event (paragraph 938). This 
+variance in the treatment of operational staff, has re-enforced the perception of drivers that drivers 
+are the first ones to be blamed. The general treatment of the drivers, post SPAD event, has also 
+
+## Página 254
+
+increased this perception as it has been found by the RAIU that in some cases drivers are treated 
+poorly, with the suggestion of further sanctions and accusations of having SPADs on purpose. 
+944 The above factors have resulted in drivers not reporting near miss SPADs or other incident, for 
+fear of further sanctions; or fear of being removed from the driving grade and IÉ. 
+
+## Página 255
+
+# Section 4 
+### Part 11 – Additional Observations 
+### Part 12 – The Role of the RSC in relation to SPADs 
+### Part 13 – Relevant actions taken or in progress 
+### Part 14 – Safety Recommendations 
+
+## Página 256
+
+## PART 11 – ADDITIONAL OBSERVATIONS 
+### Evidence 
+### General description 
+945 The RAIU also made a number of other general findings related to drivers as a result of the 
+interviews which would warrant further discussion, mainly: 
+ 
+Issues related to support after an injury or fatality as a result of suspected self-harm incidents; 
+ 
+Introduction of the DRA on the IÉ Network; 
+ 
+Absence of near-miss reporting of SPADs; 
+ 
+The adoption of violations by drivers as EPTs.  
+### Suspected self-harm incidents 
+946 A number of the drivers interviewed as part of this investigation had been involved in fatal 
+incidents on the railway line as a result of individuals purposefully placing themselves in front of 
+the moving train. The drivers who experience these incidents found the event itself to be very 
+traumatic. 
+947 In certain cases, drivers were left alone on the train for long periods of time without any instruction 
+from management (this is likely the result of trying to arrange emergency services and 
+arrangement for the transfer of train passengers to a bus service). In addition, in some instances 
+drivers were required to attend the Coroner’s Court and were questioned by the families of the 
+deceased, the drivers who experienced these scenarios found them to be very stressful and 
+found that they had no support from the company when required to attend these courts. However, 
+it should be noted that in some depots, drivers are well supported through this time. 
+948 Drivers involved in these incidents are initially offered six counselling sessions. Some drivers 
+have stated that they have requested additional support from the CMO.  
+949 Some drivers do not consider that they need the counselling service, for example, the driver 
+involved in the SPAD in Millstreet, 8th December 2013, had previously been involved in a fatality 
+as a result of a self-harm incident and although attended the sessions, felt that he had sufficiently 
+recovered. However, on the day of the SPAD, when he could not see the children on the platform, 
+and thought he may have struck them – this was as a direct result of being involved in the self-
+harm incident. The driver then became highly stressed, a stress he hadn’t managed to overcome 
+when he approached and drove past a red signal; 
+
+## Página 257
+
+950 The employee assistance programme on which all drivers involved in an incident such as a SPAD 
+are referred operates on three levels: 
+1) A situation focused counselling programme where an employee is distressed by an event and 
+there are no underlying causes evident, counsellors will maintain regular contact with the 
+employee on their return to work for a short period. Counselling sessions at this level usually 
+are done within six visits or less; 
+2) Where the counsellor is of the opinion that further counselling is needed or helpful, the 
+counsellor can conduct three further sessions before referral to the Company Medical officer; 
+3) Where in the opinion of the Medical Officer the sessions have not resolved the problem the 
+employee may be referred to a cognitive behavioural therapist. There is no limit to this 
+therapy which will be overseen by the Medical Officer. 
+951 IÉ try to maintain a balance between a driver being fit to drive and being off work too long and the 
+overarching principle in drivers returning to work is that they cannot be a risk to themselves or 
+passengers. 
+952 IÉ believe that although they apply the highest standards in recruiting and training drivers there 
+may be occasions when an individual may not be suited to the practical issues and 
+responsibilities of a train driver. 
+### Introduction of the Driver Remainder Appliance on the IÉ network 
+953 At the time of drafting this report, the DRA was being introduced as a SAS SPAD preventative 
+measure. The RAIU asked drivers if they had used the DRA and how they found using it.  
+954 Some drivers accepted the DRA and found it useful, although some stated that they frequently 
+forgot to set it. 
+955 Other drivers were concerned about disciplining actions to be taken in the event where a driver 
+took over a service at a danger aspect, where the previous driver had not set the DRA before 
+exiting the cab, and had a SPAD incident; some drivers felt that it would be used to further blame 
+the drivers in the event of a SAS SPAD, with more severe consequences in terms of the DD&SS. 
+
+## Página 258
+
+### Near-miss reporting 
+956 As a general rule in incidents there are generally a number of unsafe acts, near-misses and 
+incidents and serious incidents prior to an accident occurring, see Figure 111. 
+### Figure 111 – Safety Triangle 
+957 The drivers who had experienced SPADs (2012 – 2015) were asked if they had ever taken any 
+emergency action to prevent a SPAD or if they would report a near-miss SPAD or another 
+operational occurrence related to their driving. Some drivers acknowledged they had a near-miss 
+SPAD, which was prevented by the application of some immediate action. The response also 
+indicated that near-miss SPADs would not be reported; this was due to the fear disciplining or 
+being placed on a DD&SS.  
+958 The RAIU requested all the near-miss SPAD reports on the IÉ network from January 2012 to 
+June 2015. There was only one near-miss SPAD report in 2013 at Tullamore Station.  
+959 The RAIU further requested the consequences for the driver of the near-miss SPAD. The RAIU 
+found that, although the driver was not placed on a full DD&SS; he was required to: undergo 
+corrective coaching; attend a SBUD; he was subject to an OTDR download; be accompanied by 
+the DTE; and had to undergo a summary assessment.  
+
+## Página 259
+
+960 Drivers are concerned that sanctions may be placed on drivers after an operational incident and 
+as a result are not reporting them.  
+### The adoption of violations by drivers as EPTs 
+961 As part of the investigation, the RAIU questioned the drivers in relation to their driving post SPAD 
+incident; in particular, if had drivers adopted any form of EPTs post SPAD incident, to assist them 
+in their driving (in particular, the management of distraction, situational awareness. A number of 
+drivers adopted recognised EPTs, such as RTC. However, a number of drivers had adopted the 
+use of the CAWS in non-CAWS areas, whereby drivers were enabling the CAWS (although not 
+functioning) on passing a yellow aspect, as the CAWS displays a red aspect on the ADU inside 
+the driver's cab (CAWS default); this is done by the drivers to act as a reminder that the next 
+signal is at red. This action is in direct violation with the Clause 4.2.5, Section J, General 
+Appendix which requires drivers to disable the CAWS on leaving a CAWS area.  
+
+## Página 260
+
+### Analysis 
+### Suspected self-harm incidents 
+962 Some drivers, in certain depots, felt that they were provided with limited support, either legally or 
+mentally when involved in a suspected fatal self-harm incident. It is clear that these incidents, 
+impact greatly on the drivers and it is obvious that in some cases they may need more counselling 
+sessions than the initial six counselling sessions. 
+963 In addition, it may not be obvious to the driver, that counselling is required (paragraph 949), and 
+as a result, drivers should be assessed appropriately to manage any risks associated with driving 
+after one of these incidents. 
+### Near miss reporting 
+964 It is clear that a number of unsafe acts must occur prior to the occurrence of a SPAD (paragraph 
+956), however, drivers are not reporting these incidents, and to date, there has only been one 
+near miss SPAD reported to IÉ (paragraph 958) which resulted in the driver being placed on a 
+DD&SS (paragraph 959).  Drivers are not reporting these incidents because of concerns of being 
+placed on a DD&SS or other sanctions (paragraph 960). 
+### Conclusions 
+### Suspected self-harm incidents 
+965 The six counselling sessions offered to drivers are a minimum, with further sessions at the 
+councillor’s discretion and with a possible referral by the Chief Medical Officer to a cognitive 
+behavioural therapist.   
+### Near miss reporting 
+966 The absence of drivers reporting near miss SPADs (paragraph 964) results in a missed 
+opportunity for IÉ, in that, they cannot investigate near misses prior to the occurrence of SPAD 
+events. 
+
+## Página 261
+
+### PART 12 – The role of the Railway Safety Commission in relation to SPADs 
+### Evidence 
+### Introduction 
+967 As outlined in Part 1 (paragraphs 19 - 21), the RSC is the national safety authority, which is 
+responsible for the regulatory oversight of the sector and enforcement of railway safety in the 
+Republic of Ireland in accordance with the Railway Safety Act 2005 and Directive 2004/49/EC – 
+the European Railway Safety Directive. Although the RSC’s role is regulatory (it does not have an 
+operational role in managing the day-to-day safety on the ground), it must ensure that the 
+respective railway organisations are applying and complying with the SMS on which basis they 
+have been issued with Safety Certificates or granted a Safety Authorisation.  
+968 This is achieved through: conformity assessment of SMS submissions; compliance supervision 
+and enforcement. This part of the RAIU’s investigation report focuses on the RSC’s role in terms 
+of supervision and enforcement through auditing of IÉ’s compliance with the standards, 
+procedures and processes embodied in its approved SMS; and inspection of railway assets to 
+assess whether the SMS is effective in controlling the risks associated with SPADs.  
+969 Firstly, this part will establish the RSC’s monitoring of SPAD occurrences and then establish 
+whether any auditing in relation to IÉ’s compliance with standards and procedures has been 
+conducted in relation to SPAD events. Secondly, this part of the report will also review the role of 
+the RSC in the inspection of railway assets to assess whether the SMS is effective in controlling 
+the risks associated with SPADs, both in terms of signalling and rolling stock issues. 
+
+## Página 262
+
+### Monitoring of SPAD events 
+### Monitoring the occurrence of SPADs 
+970 The RSC are monitoring the occurrence of SPADs on the IÉ network; and have been reporting on 
+this monitoring in the RSC annual reports over the past decade (2006 – 2015 reviewed as part of 
+this investigation). The RSC annual reports noted the following for the respective annual reports: 
+ 
+RSC Annual Report 2006 – 2008: The RSC note that there was a decreasing trend in the 
+occurrence of SPADs; 
+ 
+RSC Annual Report 2009: The RSC make little reference to SPADs; 
+ 
+RSC Annual Report 2010: The RSC note that there was no significant change in the number 
+of SPADs; 
+ 
+RSC Annual Report 2011: The RSC note that there is a significant drop in the number of 
+SPADs; the RSC credits the decrease to the corrective coaching of train drivers. However, 
+the RSC does note that, apart from the DART network, “positive train protection is not 
+available on the remainder of the Iarnród Éireann network”; and it continues that “the safe 
+working of trains is therefore in the hands of the train drivers and their obedience to railway 
+signals. In this respect Ireland has remained static and, compared to the rest of the world, has 
+actually fallen behind. It is now necessary to consider how automatic train protection might be 
+rolled out across the Iarnród Éireann network and the implications that this has for safety 
+investment in the railways”; 
+ 
+RSC Annual Report 2012: The RSC notes that there is a slight increase in the number of 
+SPADs in 2012 and note that “the improved record attributable to systems of non-judgemental 
+proactive monitoring, mentoring and corrective coaching of train drivers has been maintained 
+for 2012”. However, the RSC again note that “automatic train protection is not available on the 
+remainder of the Iarnród Éireann network. The safe working of trains remains in the hands of 
+the train drivers and their obedience to railway signals. As reported last year, it is now 
+necessary to consider how systems of automatic train protection might be rolled out across 
+the Iarnród Éireann network and the implications that this might have for safety investment in 
+the railways in the current economic circumstances”; 
+ 
+RSC Annual Report 2013: The RSC note that the “safety performance of IÉ train operations 
+was adversely affected by a marked increase in the number of SPAD events on running lines; 
+up from eight events in the previous year to eighteen events in 2013. Although this is a 
+worrying trend, it must be recognised that Automatic Train Protection (ATP) is only available 
+on 99 track-km (4.6%) of the Iarnród Éireann network. A further 900 track-km (41.6%) of the 
+network is equipped with a Continuous Automatic Warning System (CAWS), but the 
+remaining 1,166 track-km (53.8%) of the network is not yet equipped with any form of driver 
+warning or ATP system. Mindful of the factors that contributed to the fatal railway accidents 
+which occurred at Santiago de Compostela, Spain (24th July 2013), and in The Bronx, New 
+
+## Página 263
+
+York, USA (2nd December 2013), and the fact that safe working of trains on over 50% of IÉ 
+track-km is highly dependent on strict obedience to railway signals by train drivers; the RSC 
+will during 2014 undertake a review of the risks associated with the current IÉ signalling and 
+telecommunications systems. This review aims to identify those areas where risk reduction 
+measures, such as installation of ATP, are required, thereby informing prioritisation of future 
+safety investment in Ireland’s railway system”. The RSC state that the rise of SPAD events is 
+a “concern” and that the RSC “will pursue this matter further in 2014 as part of its audit of the 
+maintenance and operation of traffic control and signalling system”; 
+ 
+In addition to RSC Annual Reports, the RSC produce, since 2009, an annual Railway Safety 
+Performance report that presents in more detail statistical information and a narrative on a 
+number of railway safety performance indicators that include SPADs. 
+### Compliance in terms of SPADs 
+### Compliance in terms of calculation of the SRR 
+971 The RSC compliance review in terms of calculation of the SRR has been previously discussed in 
+‘Part 9 – SPAD Management’ (see paragraphs 878 - 881).  
+### Audit of IÉ’s infrastructure 
+### Audit of IÉ’s maintenance and operation of traffic control & signalling system 
+972 As mentioned in the RSC Annual Report 2013, the RSC began an audit which focused on IÉ’s 
+Maintenance and Operation of the Traffic Control and Signalling System, in 2014 (February). The 
+audit was undertaken to fulfil the following principal objectives of identifying: 
+ 
+IÉ’s compliance with the provisions of its SMS; 
+ 
+The effectiveness, suitability, and sufficiency of the SMS to demonstrate compliance with the 
+applicable Common Safety Methods (CSM); 
+ 
+The extent to which the applicable actions identified for resolution by IÉ following the Safety 
+Authorisation process and actions arising from previous audits have been progressed; 
+ 
+Matters of compliance against the reference standards (legal instruments); 
+ 
+Areas for potential improvement to the management systems including advising on good 
+practice. 
+
+## Página 264
+
+973 The audit was completed on the 12th June 2015, entitled “RSC Audit No. 12/14-A. An audit of - 
+Iarnród Éireann’s Safety Management System Annex II, Criterion W. Maintenance and Operation 
+of the Traffic Control and Signalling System”. The audit did not identify any major non-
+compliances, but did identify two minor non-compliances related to:  
+ 
+The process for checking that test and measurement equipment is calibrated before use;  
+ 
+The lack of clear demonstration that IÉ-SET were meeting the required 15% of compliance 
+checks for the Radio-On board (RONBD) and CAWS/ATP equipment. 
+974 In addition, the audit identified ten Actions Required, two Scopes for Improvements; three Good 
+Practices and one Audit Trail item. 
+### Audit of IÉ’s Rolling Stock Brake Maintenance and Testing Regime 
+975 In relation to the audit on IÉ’s rolling stock brake maintenance and testing regime, the RSC stated 
+that “The railway brake systems are fundamental to the operation of a safe railway. Trains must 
+be able to stop in accordance with established design parameters. Train braking and signalling 
+are not exclusive systems; they are mutually dependent on each other. In order to prevent 
+collisions or derailments, signalling system design takes account of train braking characteristics 
+for signal positioning and overlaps. Braking reliability must therefore be assured so as to maintain 
+performance at a level that is not below that to which the signalling systems have been designed”.  
+976 The audit was undertaken with the assistance of UK consultant Risktec, with the following 
+objectives; to review: 
+ 
+IÉ’s compliance with the provisions of its SMS; 
+ 
+Any changes that have taken place since January 2007, particularly with the periodicity and 
+content of previously established specifications for testing of brakes at maintenance depot 
+level; 
+ 
+Any divergence from the manufacturers’ recommendations on the periodicity and content of 
+brake tests on vehicles that have been delivered since January 2007; 
+ 
+The adequacy of any risk assessment conducted to justify changes in the periodicity and 
+content of specifications for the testing of brakes and the validation process applied to any 
+such changes such that they comply with the CSMs or the Yellow Book Approach; 
+ 
+The level of engineering competency, railway knowledge and appreciation of the difference in 
+risk that has been applied in the analysis and approval of any such changes; 
+ 
+The level of understanding of (a) the purpose of testing vehicle brakes at depot level i.e. the 
+responsibility to ensure fitness for service, (b) the purpose of the brake continuity test and (c) 
+the reasons why there are limitations on the isolation of vehicle brakes; 
+
+## Página 265
+
+ 
+The level of communication and co-operation between the mechanical engineering, safety 
+and operations department interfaces of IÉ when changes to brake testing procedures are 
+considered; 
+ 
+Changes that have taken place in the Rule Book, General Appendix, or the Driver’s Manuals 
+in respect of continuity testing of train brakes or the rules applying to the isolation of brakes;  
+ 
+The possibility that unanticipated failures may occur where there are failures to clearly 
+delineate the organisational responsibility between the maintenance and operations 
+departments, which could result in increased operational risk. 
+977 The audit, completed on the 9th December 2013, identified one major non-compliance related to 
+brake system maintenance periodicities for Intercity DMUs; and five minor non-compliances 
+related to:  
+ 
+Previously identified minor non-compliances remaining open since 2011;  
+ 
+Competency of contractors performing safety critical work on IÉ trains;  
+ 
+Staff briefings on updated procedures;  
+ 
+Management of engineering change;  
+ 
+The absence of sufficient risk assessments. 
+978 The audit also identified fourteen Action Required; three Scope for Improvements, two Good 
+Practices; and two Audit Trail items. 
+### Audit & review of IÉ at a Strategic Management Review Level 
+### Audit of IÉ’s SMS: A Strategic Management Review 
+979 The audit, commencing in November 2014, has focused on IÉ Board and Headquarters functions 
+in respect of strategic safety management and this document reports the audit findings. The audit 
+was undertaken to fulfil the following principal objective of identifying the following: 
+ 
+Senior management activities that ensure the effective implementation and improvement of 
+the SMS of IÉ’s RU and IM. This scope includes the processes that support the analysis and 
+provision of data, how this is used by senior management to determine effectiveness for the 
+SMSs, and to advise about any corrections or improvements necessary; 
+ 
+IÉ’s compliance with the provisions of its SMS; 
+ 
+The effectiveness, suitability, and sufficiency of the SMS to demonstrate compliance with the 
+applicable CSMs; 
+ 
+Matters of compliance against the reference standards identified in the audit plan; 
+ 
+Areas for potential improvement to the management systems including advising on good 
+practice. 
+
+## Página 266
+
+980 The audit entitled ‘An Audit of Iarnród Éireann’s Safety Management System (SMS), Strategic 
+Management Review’ was published in April 2015. The RSC noted that “the audit uncovered 
+areas which will require action to resolve, and other items which might form part of future audits”. 
+The audit identified one major non-compliance was identified “The IM and RU Safety Managers 
+do not attend Board meetings whilst the respective SMSs (RU‐SMS‐001 and IM‐SMS‐001) state 
+they should. One minor non-compliance was identified, in that IÉ should ensure that “Each 
+document forming part of the SMS in the RU should have a minimum review cycle specified for it, 
+with the purpose of ensuring that the document contents are kept up‐to-date”. Four Actions 
+Required were identified, namely: 
+ 
+Define the remit and authority of the Safety Executive Group and update the SMS in line with 
+SMS change processes; 
+ 
+IÉ should identify a series of leading indicators and task based indicators for the greatest risk 
+areas in the NWRM to complement the reporting on SPADs; 
+ 
+IÉ should separate the role of Advisory Groups from providing advice to IÉ management and 
+independent advice to IÉ Board; 
+ 
+The IM SMS (and by association the RU SMS) should prescribe by when and by whom 
+issues raised on an Issues Log should be reviewed and the SMS updated. 
+981 In addition, four Scope for Improvements, one Good Practice and three Audit Trails were 
+identified. 
+
+## Página 267
+
+### Review of IÉ’s SMS at a Strategic Management Level: Comparison to a HRO 
+### Summary of findings 
+982 In late 2014, the RSC engaged UK consultant, DNV GL, to review IÉ’s SMS at a Strategic 
+Management Level, and compare IÉ to a High Reliability Organisation (HRO)31. The study 
+assessed IÉ’s performance against five dimensions of a HRO:  
+ 
+Safety leadership; 
+ 
+Safety assurance; 
+ 
+Safety culture; 
+ 
+Safety competency; 
+ 
+Safety capability.  
+983 The study rated these five dimensions on a scale, derived from the European Railway Agency 
+(ERA), of: 
+ 
+Ad hoc (one) – performance against the characteristics of an HRO were evident in isolated or 
+temporary instances only; 
+ 
+Initializing (two) – the organisation shows elements of performing as an HRO. These are 
+greater than ad hoc in nature and have the potential to be organisation wide, but are likely to 
+be at an early stage of definition or have only recently been adopted; 
+ 
+Implementing (three) – the organisation is adopting or has recently adopted HRO 
+characteristics systematically across all activities; 
+31 According to the study, no definitive definition of an HRO, and its associated characteristics, has 
+been agreed in the safety management literature, a number of common attributes have been 
+identified, as follows: 
+• Sensitive to operations - Each employee (executive and operative) pays close attention to 
+operations and maintains awareness as to what is, or is not working. There are no assumptions. 
+• Reluctant to accept "simple" explanations for problems – Employees resist attractive, but broad 
+excuses when processes do not work well. Resist simplifications. 
+• Preoccupation with failure - Every employee at every level is encouraged to think of ways their work 
+processes and systems might break down and affect the organisation. This sense of shared 
+attentiveness is constant. 
+• Defer to expertise – Managers listen to those who have the most developed knowledge of the task 
+at hand. Such people are positively encouraged to voice their concerns, ideas and input regardless of 
+their position in the organisational hierarchy. 
+• Resilient (relentlessness) - Leaders stay the course; they are prepared in how to respond to failures. 
+Numerous failures might occur, but catastrophe is averted by resilience and swift problem solving. 
+
+## Página 268
+
+ 
+Managing (four) – the organisation has sustained performance as an HRO across all 
+activities; 
+ 
+Improving (five) – the organisation has sustained activities as an HRO across all activities and 
+demonstrates continual improvement in all activities. 
+984 The study, published in April 2015, entitled “IÉ Safety Management Systems at a Strategic 
+Management Level, Comparison to a High Reliability Organisation” considered IÉ’s ratings to be: 
+ 
+Safety Leadership – Implementing (three); 
+ 
+Safety Assurance – Implementing (three); 
+ 
+Safety Culture – Ad hoc (one); 
+ 
+Safety Competency – Implementing (three); 
+ 
+Safety Capability – Managing (four). 
+985 In summary, the study found that “IÉ exhibits many of the features of a HRO. A number of 
+initiatives that are currently underway can be expected to further improve this, as well as improve 
+the performance and management of safety within IÉ. The areas where IÉ is weak centre around 
+the area of safety culture and in particular a number of issues that arise from a mistrust between 
+frontline staff and management, as reported by management. The study also identified that a 
+proposed reorganisation, relating to some safety functions and activities, risked not complying 
+with the approved SMS. In addition, the way that the affected units were consulted over the 
+changes should have been to a higher standard than was observed to be the case”. 
+986 As a result of the study, a roadmap was developed containing recommendations for further 
+improving safety, the prime element of which is the appointment of a Non-executive Director to 
+lead on safety, chair a Board safety committee and lead a programme of culture improvement. 
+### SPAD references 
+987 In terms of SPADs, the study found a number of positive and negative aspects to the 
+management of SPADs in IÉ, namely: 
+ 
+The RU Director meets drivers directly to discuss SPADs to ensure drivers “know what is 
+going on” and drivers are “getting the right messages”; 
+ 
+Actively challenging SPAD statistics to makes sure the reduction is sustainable and not just 
+by chance; 
+ 
+IÉ puts considerable effort into SPAD management and the reporting of SPADs (despite not 
+being the greatest risk according to the NWRM); 
+
+## Página 269
+
+ 
+Few personnel had experience of other railways and so people’s ‘frame of reference’ for how 
+to operate a railway safely, is dictated by their career in IÉ; and this has led to the delay in the 
+introduction of DRA for the prevention of SAS SPADs in preference for an investment in ATP; 
+and the current introduction of DRA is as a direct result of the CEO’s experience with DRA.  
+### Safety culture references 
+988 During the RAIU investigation, interviews held with the drivers found that there was no near miss 
+reporting, and that drivers would not report near misses for fear of sanctions. The review, 
+conducted by DNV GL, made a number of similar findings, namely: 
+ 
+There is not a culture of widespread reporting of near misses in IÉ; 
+ 
+There was a “fear or repercussions and blame” associated with near miss reporting; 
+ 
+Where near misses were reported, if was between the IM and RU (e.g. drivers reporting 
+infrastructure workers and vice versa) rather than reporting oneself or one’s immediate 
+colleagues; 
+ 
+The DD&SS “was seen as being a punishment following an incident and not an opportunity to 
+learn and improve”; 
+ 
+The application of the DD&SS was found to be inconsistent, in that “it could take into account 
+previous incidents on the driver’s record meaning that drivers might be reluctant to report a 
+near miss”; 
+ 
+There was a “lack of trust between management and frontline staff and management being 
+seen to be involved only at times of bad news”, discouraging near miss reporting. 
+989 Another factor related to the lack of near miss reporting was as a result of “personnel not always 
+understanding the significance of what they witness, and the potential benefits in reporting it”. The 
+study found that the lack of near miss reporting continued, despite a number of previous initiatives 
+being undertaken in the past with the intent of improving near miss reporting (use of a confidential 
+reporting system, CIRA, staff briefing events, and new forms to facilitate reporting). 
+990 Although the study does not make any formal recommendations in relation to near miss reporting, 
+it does encourage IÉ to adopt the following: 
+ 
+Efforts need to be made to improve trust between management and the frontline if a more 
+proactive approach is to be taken to safety management; 
+ 
+Managers and leaders need to be engaged at the frontline on a regular basis and highlighting 
+any areas of good practise they see, making a public and positive show of receiving bad news 
+(which does not mean that an appropriate sanction should then not be applied); ensuring that 
+
+## Página 270
+
+sanctions are applied in a consistent manner; and finally feeding back to the frontline how 
+their near miss reporting has been used to improve safety; 
+ 
+Providing a clear policy on the actions that IÉ will take in response to reporting an incident 
+and near-miss; 
+ 
+A form of commitment that IÉ will not implement negative sanction for any incident or near 
+miss that is reported irrespective of what it is (bar criminal or acts of gross negligence), but 
+that negative sanctions will be implemented for non-reporting of such events. 
+991 The study also suggested that the “RSC could offer, with respect to avoiding using its regulatory 
+powers against those that report would be beneficial, as would it using its powers for non-
+reporting of events”. 
+
+## Página 271
+
+### Analysis 
+### Monitoring the occurrence of SPADs 
+992 The RSC have been monitoring the occurrences of SPADs in terms of number of occurrences for 
+over a decade. When the number of SPADs increased in 2013 and the RSC undertook a PII in 
+relation to a SPAD in 2014, the RSC took a number of actions in relation to SPADs in 2014, 
+namely: 
+ 
+Commissioned a review of the risks associated with the current IÉ signalling and 
+telecommunications systems on the IÉ network; 
+ 
+Reviewed the IÉ procedures associated with the SRRT and the assignment of SRRs, which in 
+turn resulted in IÉ commissioning a review of their own standards and procedures. 
+### Compliance in terms of calculating the SRR 
+993 As a direct result of the findings of the PII in terms of the calculation of the SRR, the RSC 
+identified that the SRRs were being incorrectly calculated, IÉ are now reviewing their standards 
+and procedures for the calculation of SRR and have actively engaged a specialist consultant to 
+review this process. 
+### Audit of IÉ’s infrastructure 
+994 Auditing the implementation and effectiveness of Safety Management systems is a key task of the 
+RSC. In 2013, the audit of Iarnród Éireann’s Safety Management System Annex II, Criterion W. 
+Maintenance and Operation of the Traffic Control and Signalling System, was identified following 
+concerns raised by the RSC’s Conformity Assessment Team to the RSC’s Supervision Team.  
+### Study of IÉ at a Strategic Management Level  
+995 The study makes a number of findings in relation to the management of SPADs, although, no 
+recommendations or suggestions were made in direct relation to the prevention of SPADs.  
+996 However, the study made a number of findings related to the safety culture in IÉ which are 
+consistent with the findings of the RAIU investigation, in that there is not a culture of near miss 
+reporting resulting from: a lack of trust between management and frontline staff; a of fear of 
+repercussions and blame; and the inconsistent application of the DD&SS coupled with the fact 
+that it is seen as a punishment tool rather than a learning tool.  
+
+## Página 272
+
+997 Another factor identified by the study, related to the lack of near miss reporting, is that “personnel 
+did not always understanding the significance of what they witness, and the potential benefits in 
+reporting it”. 
+998 The study noted that previous initiatives introduced to encourage near miss reporting failed, and 
+that IÉ now needed to consider adopting the following:  
+ 
+Trust needed to improve between management and the frontline if a more proactive approach 
+is to be taken to safety management; 
+ 
+Managers and leaders need to be engaged at the frontline on a regular basis; 
+ 
+Clear policies on the actions taken in response to reporting near-misses need to be outlined; 
+ 
+A form of commitment that IÉ will not implement negative sanction for any incident or near 
+miss that is reported irrespective of what it is (bar criminal or acts of gross negligence), but 
+that negative sanctions will be implemented for non-reporting of such events. 
+999 The study also suggested that the “RSC could offer, with respect to avoiding using its regulatory 
+powers against those that report would be beneficial, as would it using its powers for non-
+reporting of events”. 
+
+## Página 273
+
+### Conclusions 
+The RSC have collected and collated information on the occurrences of SPADs in terms of 
+number of occurrences for over a decade, and when the number of SPADs increased in 2013, the 
+RSC commissioned a number of reviews to be undertaken; such as in 2014 the RSC: 
+ 
+Identified that the SRRs were being incorrectly calculated, IÉ are now reviewing their 
+standards and procedures for the calculation of SRR and have actively engaged a specialist 
+consultant to review this process (paragraph 993); 
+ 
+Commenced a review of IÉ’s maintenance and operation of traffic control and signalling 
+systems (paragraph 994). 
+1001 
+In relation to IÉ’s ‘Strategic Management Level’, the RSC also commissioned a review of the 
+management in IÉ (paragraphs 995 - 999), and found that, there is no culture of near miss 
+reporting resulting from a blame culture within IÉ; and the previous near miss reporting systems in 
+IÉ failed. 
+
+## Página 274
+
+### PART 13 – Relevant actions taken or in progress 
+### Relevant actions taken or in progress by IE 
+### Introduction 
+1002 
+IÉ state that they are “seeking to continuously improve its management of SPAD risk”. The 
+following figure (Figure112) shows the significant reduction in the number of SPADs which has 
+been achieved from 2003 to 2015 (however it is noted that there are two peaks in the numbers of 
+SPADs in 2013 and 2015).  
+### Figure 112 – SPADs by Year - 2003 to YTD 2015 
+
+## Página 275
+
+### Actions taken by IÉ 
+As of the publication of this report, IÉ have stated that the following actions have been taken: 
+ 
+Development of professional driving standards – A suite of standards dealing with driver 
+selection, training ,competence assessment, development and support, route knowledge, 
+briefing and communication of safety critical information  has been introduced into IE based 
+on best practice. A professional driver’s handbook as well as a competence standard booklet 
+has also been produced defining best driving practices and this is supplied and briefed to 
+drivers; 
+ 
+Driver recruitment and training – Improvements have been made to the selection of drivers 
+utilising up to date psychological profiling. In regard to training the training course has been 
+revamped and train simulators have been introduced at training centres in Inchicore and 
+Mallow. Drivers receive a range of briefings such as human factors, non-technical skills, and 
+safety critical communications also; 
+ 
+Enhanced driver support & monitoring – Where a need has been identified post incident or 
+through the competence management process drivers are placed on DD&SSs to ensure that 
+any weaknesses/risks are correctly dealt with; 
+ 
+Increased driver engagement – Drivers participate in central and local Operations Risk/SPAD 
+focus groups, workshops and review groups to ensure that their views are taken on board in 
+all the initiatives that are being developed; 
+ 
+Benchmarking from UK and European rail operators – IÉ keeps in touch with best UK and 
+world practice through the employment of a UK based industry expert who assists in the 
+development of standards, briefings and workshops. Additionally through our workshops 
+several UK based experts have shared their knowledge and experience of SPAD and 
+operational risk management with management and drivers; 
+ 
+Safety monitoring – Drivers are subject to monitoring of their driving performance through 
+regular downloads and analysis of OTDRs, these check the speeds of trains, braking and 
+defensive driving performance, etc.; 
+ 
+LRA management - IÉ has introduced a range of measures for the management and 
+communication of Low Rail Adhesion (LRA) conditions. These range from vegetation 
+management, sanding devices on trains, spreading of Sandite and Traction Gel application. In 
+addition all drivers receive an annual LRA briefing and communication of LRA hotspots; 
+ 
+SPAD investigations – All SPADs are fully investigated. A revised data collection form has 
+been introduced as well as an OOR form. This review takes place no later than 5 days after 
+the incident and a key feature is that the driver involved in the incident is invited to participate 
+in the review. The outcome of the review is recommendations to prevent reoccurrences. Both 
+of these forms have now been revised and an enhanced process for SPAD investigation is 
+now in place. An important aspect of this is driver involvement in the investigation process by 
+their attendance at the review meetings; 
+
+## Página 276
+
+ 
+Human Factors/Non-technical skills - IÉ recognises the importance of ensuring that drivers 
+are fully aware of the impact of human factors in their driving performance. Issues such as 
+concentration, distraction, fatigue, stress, attitudes and perception etc are dealt with in 
+training and briefing. The concept of the assessment of non-technical skills is built into the 
+competence assessment process and Traction Executives have been trained in this 
+assessment. IÉ employs the services of the Occupational Psychology Centre in the UK to 
+assist with Human Factor related issues. The CMO is also involved where drivers may have 
+psychological or other medical issues impacting on their performance; 
+ 
+National Operational Risk and SPAD Focus Group - IÉ have a review process in place for 
+SPADs and other operational occurrences. A network wide SPAD Focus Group was formed 
+in the early 2000s that changed focus to Operational Risk & SPAD's in about 2008 to reflect 
+the wider operational accidents and precursors. This group meets five times per annum and 
+hold a conference/workshop annually. These meetings are attended by management and 
+staff, including Drivers/DTEs/Signalmen from IÉ-RU, IÉ-IM and other Operating companies. 
+From IÉ-RU train drivers and DTEs attend and recent events are discussed and actions 
+determined. The outputs from the annual workshop assist in formulating the action plans for 
+the following year. 
+
+## Página 277
+
+### Investment Led Technical Initiatives 
+### Driver Reminder Appliance 
+1004 
+The DRA is a device in a driving cab to enable the driver to set a reminder when stopped at a 
+signal that the signal is at danger. When set the DRA prevents the driver being able to take 
+power. In its most simple form it is manually activated and automatic setting systems are 
+considerably more complex and costly. As it is not automatic the correct use of the device must 
+be policed for maximum effectiveness. The use of the DRA can be monitored as it is linked in to 
+the OTDR. The manual  DRA will be fitted to all driving cabs of IÉ rolling stock that do not have 
+ATP fitted i.e. the IÉ fleet of diesel trains. 
+1005 
+The device is linked into the OTDR data recorder which will record activation of the device in 
+accordance with accepted standards. This involved software modifications of the TELOC data 
+recorders to incorporate the additional channel. 
+1006 
+The design and development work commenced in Q1 2015 and the project to fit Iarnród 
+Éireann fleet of diesel trains with the DRA was completed on 8th December 2015.  The DRA will 
+be fitted to Infrastructure maintenance vehicles in 2016. The use of DRA is mandatory as 
+described by the IÉ Rule Book. 
+1007 
+The Nexala system which is currently installed and operational on the 22000 fleet only 
+provides the facility to gather data from the OTDR and generate a DRA usage report. It is not 
+possible to provide usage reports to any other fleets at this time. The Nexala system is currently 
+being installed on the 29000 fleet but will not be fully operational until late 2016. 
+### Train Protection Strategy 
+1008 
+The IÉ Board has approved the company strategy for the introduction of a TPS and work is 
+underway on this project. The main objective of TPS is to provide a technical solution for SPAD 
+mitigation where none exists currently and to eliminate high risk SPADs on the running line that 
+have the potential for catastrophic consequences. This involves the development and safety 
+approval of equipment that provides existing CAWS and ATP functionality and additional safety 
+benefits: 
+ 
+Provision of ATP on DART DMU fleet; 
+ 
+Provision for train stop using fixed balises on DART and CAWS areas;  
+ 
+Provision for train stop in non-CAWS areas using switchable balises;  
+ 
+Provision for train regulation to line speed and speed restrictions;  
+ 
+Provision of a compatible equipment platform for future migration to ETCS/ERTMS;  
+
+## Página 278
+
+ 
+The TPS will replace the life expired CAWS / ATP equipment;  
+ 
+The project is currently developing a prototype on-board solution for three fleets, EMU 8520, 
+DMU 29000 and DMU 22000 (ICR);  
+ 
+IEIM have carried out a review, which has shown that the currently planned action of installing 
+this system on the trains and fitting the infrastructure with Eurobalises will provide a train-stop 
+function, mitigating the SPAD risk; 
+ 
+This system is similar to systems already in service in Europe, and will have ATP and speed 
+supervision functionality. The technical development of the system, and its safety approval by 
+the RSC, are well advanced and, subject to availability of funding, IE plans to introduce the 
+system on its network as soon as practicable; 
+ 
+The overall roll-out strategy will be risk-based, in order to provide the maximum safety benefit 
+for a given installation cost during the roll-out phase, and a study is being undertaken to 
+assess the safety benefits of various approaches; 
+ 
+The design development phase of the project was funded through the Multi Annual Contract 
+but this budget cannot extend to cover the rollout phase. The rollout phase is therefore 
+dependent on Government commitment to provide the required funding. The roll-out of the 
+TPS should not commence until funding is guaranteed since an incomplete project would lead 
+to multiple types of TPS within the IÉ rail network and an intolerable risk scenario.  
+
+## Página 279
+
+### Management Initiatives 
+### Current Train Operations initiatives – Operational Risk Workshops  
+1009 
+A number of Operational Risk workshops have been held to enable participants identify 
+improvements to standards, procedures and practices that may contribute to a reduction in risks 
+from SPADs and other operational incidents. These workshops include attendees from 
+management, supervisory and driver grades. The output from the workshop is a number of 
+actions to be progressed. The workshop is an opportunity to communicate improvements and to 
+hear what further actions are needed. 
+## DD&SS 
+1010 
+One of the key outcomes of the Risk Workshop was a clear message that the DD&SS was 
+perceived as being punitive and not being applied consistently across the organisation. In order to 
+achieve further buy in from drivers and improve the perception of the standard a process has 
+been undertaken involving Drivers from all Districts as well as DTEs to revise this standard. 
+Considerable work has been undertaken and at this stage and the revised standard was in 
+October 2015. The improvements to the standard is in the following areas: 
+ 
+Reduction in the time on Category A plans for 4 years to 3 years; 
+ 
+Transfer of first time/minor incidents from Category D plans to Corrective coaching under the 
+existing Continuous Competence standard, OPS.SMS 3.1; 
+ 
+Revision of Safety Performance Review Process to ensure that it is clearer and more 
+equitable;  
+ 
+Introduction of Review Meetings involving drivers from all districts and representative of 
+management in order to address any concerns over a lack of the consistent application of the 
+standard.  
+### Driver Training and Competence 
+1011 
+IÉ recognises the importance of ensuring that drivers are fully aware of the impact of human 
+factors in their driving performance. Issues such as concentration, distraction, fatigue, stress, 
+attitudes and perception etc are dealt with in training and briefing.  
+1012 
+The concept of the assessment of non-technical skills is built into the competence 
+assessment process and Traction Executives have been trained in this assessment. IE employs 
+the services of the Occupational Psychology Centre in the UK to assist with Human Factor related 
+issues. The Chief Medical Officer is also involved where Drivers may have psychological or other 
+medical issues impacting on their performance.  
+
+## Página 280
+
+Safety standard OPS SMS 3.1, Competence Management Drivers, was reviewed during 2014 
+and revised version in place since September 2014 Issue 1, V 1.03. It has an enhanced process 
+for assessing drivers in non-technical skills and provides a matrix to record the various elements 
+of train driver competencies 
+1014 
+During 2014, prior to the introduction of the revised standard, the DTEs and Driver Trainers 
+attended workshops, facilitated by a railway industry consultant, on the application of non-
+technical skills. The identification of non-technical skills relative to SPAD occurrences is included 
+in the investigation process, the driver development & support process and the continuous 
+competency process.  
+1015 
+The Professional Drivers Handbook was revised in 2014 and Issue 4 published in November 
+2014 and has enhanced guidance on non-technical skills. 
+### External Depot Review of Train Drivers Competence processes 
+1016 
+An external consultant has been engaged to review the management of driver’s competence 
+process at all the main depots and to report on findings. This review is now complete and a 
+number of actions have been identified. Overall the report is very positive in its findings.  The 
+output from the review formed part of the agenda for the risk workshops and provided opportunity 
+for engagement with staff in developing action plans. 
+### External review of Human Factors 
+1017 
+IÉ-RU have engaged with Trinity College Dublin where a research fellow is undertaking a 
+review of human factor issues that affect train driver performance and the scope of the research 
+encompasses the occurrences of SPADs. The research programme commenced in January 2016 
+and is expected to take approximately one year to complete. The results of the research will 
+inform the management of all staff into the future. 
+### Safety Culture and Leadership 
+1018 
+A key strategic safety initiative, is a campaign with the aim of improving safety culture in the 
+organisation, was launched in February 2015 with over 70 senior managers in attendance.  The 
+key elements of this campaign have been: 
+ 
+A widespread communications campaign to engage all staff in improving our safety 
+performance under the banner of “Accident free Depends on Me”; 
+ 
+Improved processes for reporting of ‘close call’ events in an uncensored and non-judgemental 
+way; 
+
+## Página 281
+
+ 
+Safety leadership training for all senior management levels; 
+ 
+Engagement of safety representatives from across all company functions; 
+ 
+A safety award scheme to acknowledge and promote best practice  
+ 
+Widespread communication of period safety performance and action plans  
+1019 
+As part of this initiative we have also reviewed and strengthened our standard for Driver 
+Development and Support (OPS-SMS-3.2) to provide enhanced advice, support and development 
+of drivers.  The standard provides for non-punitive actions that support drivers in developing their 
+overall competence.  The process to review this standard included engagement with drivers to 
+capture their input and ensure that it would fully reflect best practice for the development and 
+application of such a standard.   
+### External Review of Management of SPAD events 
+1020 
+The RSC reviewed a snapshot of 5 recent SPAD events and suggested Iarnród Éireann’s 
+hazard ranking was potentially flawed.  They requested a review of the 90 SPADS that have 
+occurred since the hazard ranking system was implemented. An external expert carried out a 
+review of signal passed at danger investigations from 2009 to 2015.   The review has found that 
+the management of SPAD events is substantially robust and the re ranking of the SPAD events 
+matches closely with the results previously reported by Iarnród Éireann.  The report identifies a 
+number of opportunities for improvement to further strengthen Iarnród Éireann’s use of SPAD risk 
+ranking.  
+1021 
+The user manual for the risk ranking toll has been updated and training in the use of the tool 
+is scheduled to take place on 22/03/2016 and is being facilitated by an external provider. A 
+number of people from both the IM and RU Safety Departments are being trained in the risk 
+ranking process. 
+Expected reduction in the number of SPADs due to Technical& Management Initiatives 
+1022 
+IÉ are pursuing continuous improvement in SPAD performance and has sought other 
+initiatives to achieve a further step change in performance including the fitment of driver reminder 
+appliances to all fleets by the end of 2015, further management initiatives focussing on human 
+factor elements for drivers and signallers and the introduction of Train Protection Strategy. The 
+management initiatives will focus on the enhancement of safety culture, development of human 
+factor elements for drivers and signallers, further improvement in the management of SPAD 
+events and continued benchmarking against best practice in SPAD prevention strategies. These 
+initiatives are expected to reduce the incidents of SPADs significantly and the Figure 113 below 
+estimates the reduction over the next five years. 
+
+## Página 282
+
+### Year 
+### Reduction from 
+### Reduction from 
+### Expected 
+### Expected 
+### Technical 
+### Management 
+## SPAD 
+number of 
+### Initiatives - 
+### Initiatives 
+### Reduction 
+### SPADs 
+## DRA 
+### Current * 
+11 
+## 2016 
+35%** 
+5% 
+40% 
+7 
+## 2017 
+5% 
+5% 
+7 
+## 2018 
+5% 
+5% 
+7 
+## 2019 
+5% 
+5% 
+7 
+## 2020 
+5% 
+5% 
+6 
+* Based on average number of SPADS over last 5 years  
+** Based on IÉ SAS SPAD rate of 50% and reduction rate of 70% of SAS SPADS achieved in 
+the UK following introduction of DRA 
+### Figure 113 – Reduction of SPADs due to DRA 
+### Summary 
+1023 
+IÉ have stated that “IÉ has achieved a significant reduction in the number of SPADs on the 
+Iarnród Éireann Network from 2003 to 2015. This reduction was realised through a range of 
+management actions including the development of professional driving standards, driver 
+recruitment and training, enhanced driver support and monitoring, increased driver engagement 
+and learning from UK and European rail operators. IÉ are pursuing continuous improvement in 
+SPAD performance and has sought other initiatives to achieve a further step change in 
+performance including the fitment of driver reminder appliances to all fleets by the end of 2015 
+and further management initiatives focussing on human factor elements for drivers and signallers. 
+A 35% improvement in the SPAD rate is anticipated with the adoption of the DRA and a further 
+5% improvement from new management initiatives. The Board has approved the company 
+strategy for the introduction of a Train Protection System (TPS) and work is underway on this 
+project, once the TPS has been implemented the SPAD risk will almost be eliminated.” 
+
+## Página 283
+
+### Relevant actions taken or in progress by the RSC 
+### Actions taken by the RSC 
+### Actions taken in 2014 
+1024 
+In February 2014, the RSC undertook an audit of IÉ’s SMS. The audit focused on the 
+“Maintenance and Operation of the Traffic Control and Signalling System”. In September 2014, 
+the RSC received a copy of Irish Rail’s investigation report , an OOR following a SPAD 
+occurrence at Signal MW826 at Mallow Station, which occurred on the 16th May 2014. Having 
+reviewing the OOR, the RSC commenced a PPI Inspection into the occurrence, this involved the 
+review and examination of all IÉ’s standards/procedures relating to SPAD risk ranking and 
+interviewing key personnel involved in SPAD risk ranking. In December 2014, the RSC met with 
+the Safety Compliance Manager and the Chief Traction Executive to discuss the SPAD risk 
+ranking process and concerns with had with IÉ-RU's application of the process. 
+### Actions taken in 2015 
+1025 
+In March 2015, the RSC met with SPAD experts from the RSSB to discuss the SPAD risk 
+ranking process and concerns the RSC had with IÉ’s calculation of same. The RSC met with the 
+Head of Safety Infrastructure and the Procedures Manager – Infrastructure to advise them of the 
+RSC’s concerns with the IÉ-RU’s application of the SPAD risk ranking process. In June 2015, the 
+RSC completed their audit, focused on the “Maintenance and Operation of the Traffic Control and 
+Signalling System”.  The RSC then wrote to the IÉ Chief Executive requesting that they undertake 
+a critical review of the management of SPADs.  
+### Actions taken in 2016 
+1026 
+In March 2016, an RSC Inspector attended SPAD Risk Ranking Training provided by UK 
+Consultant AD Little Limited. 
+### Ongoing Activities 
+1027 
+The RSC meet quarterly with the respective manager’s responsible for internal audit and 
+accident/incident investigation from IÉ-RU and IÉ-IM to discuss ongoing audits and 
+accident/incident investigations. These activities include reviewing SPAD occurrences, associated 
+investigations and relevant audits 
+1028 
+The RSC meet quarterly with the senior executives from IÉ-RU and IÉ-IM to discuss safety 
+performance that includes reviewing SPAD occurrences 
+
+## Página 284
+
+The RSC produce an annual Railway Safety Performance Review that presents and 
+discusses accident and incident trends. This includes the presentation and discussion of SPAD 
+occurrences 
+1030 
+The Commission produce an annual report on its activities for the Minister for Transport, 
+Tourism & Sport and make comment on accident/incident statistics and areas of concern. 
+### Relevant actions taken or in progress by BBRI 
+1031 
+It is BBRI’s intention to support the current in-house CMS and are currently developing a new     
+element to the drivers assessing standard which will cover the seven areas pertaining to non-
+technical skills as follows: 
+ 
+Situational awareness – Which will focus on attention to detail, overall awareness, 
+maintaining concentration, retain information (during shift) and anticipation of risk; 
+ 
+Conscientiousness – Which will include training on a systematic and thorough approach and 
+checking positive attitude towards rules and procedures; 
+ 
+Communications – Listening (people not stimuli), clarity, assertiveness, sharing information; 
+ 
+Decision making – Effective decisions, timely decisions, diagnosing and solving problems; 
+ 
+Cooperation and working with others – Considering others’ needs, supporting others, Treating 
+others with respect, dealing with conflict / aggressive behaviour; 
+ 
+Workload Management – Multi-tasking and selective attention, prioritising, calm under 
+pressure; 
+ 
+Self-management – Motivation, confidence and initiative, maintain and develop skills and 
+knowledge, prepared and organised. 
+
+## Página 285
+
+### PART 14 – Final Conclusions & Safety Recommendations 
+### General description 
+1032 
+In accordance with the Railway Safety Act 2005 (Government of Ireland, 2005) and the 
+European Railway Safety Directive (European Union, 2004) and Statutory Instrument No. 258 of 
+2014 European Union (Railway Safety) (Reporting and investigation of serious accidents, 
+accidents and incidents) Regulations 2014, recommendations are addressed to the national 
+safety authority, the RSC. The recommendation is directed to the party identified in each  
+recommendation. 
+1033 
+Actions reported that address factors which otherwise would have resulted in a RAIU 
+recommendation: 
+ 
+The project to fit the IÉ fleet of diesel trains with the DRA was completed on 8th December 
+2015.  The DRA will be fitted to Infrastructure maintenance vehicles in 2016; 
+ 
+ IÉ-RU have reviewed and enhanced their training and competency management systems in 
+relation to non-technical skills, in particular related to the adoption of EPTs by drivers. They 
+have developed a system whereby these non-technical skills can be assessed and this is now 
+incorporated into the suite of training and competency management operations documents.  
+IÉ-RU have also reviewed their current system of driver profiling to ensure that a driver’s 
+classification clearly illustrates the drivers’ driving history; 
+ 
+IÉ-RU reviewed and enhanced their management of drivers, post SPAD event; 
+ 
+IÉ-RU have reviewed their current system for the monitoring of over-speeding so that if a 
+driver is found to be overspeeding, that this is formally recorded as an area for development 
+for the driver; 
+ 
+IÉ have reviewed their operating procedure which deals with the Supporting of Staff following 
+Fatalities on the Line. This has been developed in conjunction with driver’s representatives.  It 
+also makes provision for support in relation to attendance at Coroners courts and provides 
+training for District Traction Executives and District Managers in providing support; 
+ 
+IÉ have reviewed train despatch procedures with a view to eliminating SAS and SOY SPADs, 
+and issued a “Professional Dispatchers Handbook” outlining good practice in dispatching 
+techniques.    
+
+## Página 286
+
+### New safety recommendations 
+### Safety recommendations associated with engineering & infrastructure 
+1034 
+The majority of train protection on the IÉ network is through basic overrun protection. To date, 
+approximately only half of the IÉ network is fitted with a form of enhanced overrun protection. The 
+provision of enhanced overrun protection mitigates against drivers disregarding signal aspects 
+warning of a signal at danger and against disregarding of signals at danger by a train starting from 
+rest. This form of protection, would have provided additional train protection in all SPAD incidents 
+identified in this report. The absence of enhanced overrun protection results in the safety of the 
+trains being dependent on the actions of the drivers, and places an unrealistic reliance on drivers 
+not to commit any errors.  
+1035 
+The absence of the provision of enhanced overrun protection on single lines with crossing 
+loops is the highest risk in relation to SPAD events. The RAIU have identified seven incidents of 
+SPADs on single lines with crossing loops between January 2012 and June 2015. One of these 
+SPADs was the SPAD at Millstreet on the 8th December 2013, which allowed for two trains to 
+approach the same station platform, and only coming to a stop 175 m apart on the instruction of 
+the signalman; resulting in the high risk of a potential head-on collision of two trains. As a result, 
+the RAIU make the following safety recommendation (All Category A SPADs; Millstreet, CF-01): 
+IÉ-IM must introduce an adequate train protection systems on all of the IÉ network for the 
+protection of trains; this system should be robust and to an acceptable standard within 
+### Europe; and have the appropriate ATP and speed supervision functionality 
+1036 
+The RAIU have identified two SPAD incidents on the DART network, namely the SPADs at 
+Signals CY33, Connolly, on the 11th September 2014 and SPAD at Signal DN201, Howth, 21st 
+April 2015, whereby the drivers of the trains maintained the engagement of the running release on 
+the approach to signals displaying red aspects, thus effectively ‘overriding’ the train protection 
+function of the ATP. As a result the RAIU make the following safety recommendation: 
+IÉ-IM should review the functionality of the ATP’s running release to ensure that the train 
+protection function in relation to passing a signal at danger is appropriately maintained 
+where drivers are approaching signals displaying red aspects.  If this is not feasible with 
+the current equipment it should be included any new train protection system introduced 
+on the network.     
+
+## Página 287
+
+The driver of the SPAD at Signal CY33 (Connolly) on the 11th September 2014, reported 
+instances of abnormal downgrades at CY26 and CY33 as a result of SET issues, as a result, the 
+RAIU make the following safety recommendation: 
+IÉ-IM should review the functionality of signals in the Connolly area so that the instances 
+of abnormal downgrades are minimised. 
+### Safety recommendations associated with human factors 
+1038 
+The RAIU have made a number of observations in relation to the occurrence of Category A 
+SPADs, namely in relation to the prevalence of SPADs: 
+ 
+In the afternoon/evening; 
+ 
+At the start of driver’s shifts; 
+ 
+For drivers with 3-5 years driving experience. 
+1039 
+As the RAIU could not determine any definite causes for these findings, the RAIU make the 
+following safety recommendation: 
+IÉ-RU should commission an independent review, in terms of human factors, to determine 
+why there is a prevalence for the occurrence of SPADs: at certain times of the day; at 
+certain times of drivers shifts; and for drivers with three-five years driving experience.   
+### Safety recommendation associated with driver management and the DD&SS 
+1040 
+The RAIU review of the incidents found that the drivers had been subject to varying treatment 
+by IÉ as a result of the SPAD incidents. whereby, on the occurrence of a SPAD incident, some of 
+the drivers have: 
+ 
+Been removed from the driving grade for long periods, with no communications with 
+management; 
+ 
+Been subject to sanctions (in terms of hours and pay or removal from the driving grade); 
+ 
+Been subjected to inquiry processes, which have been lengthy and involved the interviewing 
+of drivers by up to eleven members of staff; 
+ 
+Been accused of having the SPADs on purpose.   
+
+## Página 288
+
+The placement of drivers on a DD&SS was viewed to be a punitive measure; rather than its 
+intended function as a method of redeveloping driving skills and supporting the drivers in returning 
+to driving duties, after a SPAD event. 
+1042 
+It has also been noted, that other operational staff had not been relieved from duty similar to 
+drivers, despite their actions being later found to be contributory to the incident (particularly in the 
+case of SPADs during degraded train operations). 
+1043 
+The review of the IÉ investigation reports also indicates that the drivers actions are 
+considered to be the immediate, contributory and underlying causes to the SPAD incident, 
+despite, this not always being the case 
+1044 
+As a result of the above, the RAIU make the following safety recommendation: 
+IÉ RU should review the culture within the company so that actions taken after SPAD’s 
+supports learning within the driver grades should errors occur, and that the DD&SS is 
+used for redeveloping competence in driving skills and supporting the drivers in returning 
+### to driving duties, after a SPAD event.    
+### Safety recommendations associated with near miss SPAD events 
+1045 
+To date, only one near miss SPAD event has been reported within IÉ, despite a number of 
+drivers indicating to the RAIU that they have been involved in near miss SPAD events. 
+1046 
+Drivers should be able to report near misses without the fear of sanctions, as a result, the 
+RAIU make the following safety recommendation: 
+IÉ-RU should introduce a near miss reporting system, whereby, drivers may report near 
+misses without the fear of sanctions being imposed. 
+1047 
+As the previous near miss reporting system, introduced into IÉ was unsuccessful, and given 
+that near miss SPADs are occurring, and consequences of SPADs can be serious, the RAIU 
+make the following safety recommendation: 
+IÉ-IM should identify high risk signals and, where the technology exists, introduce a 
+mechanism to monitor the approach speed to these signals; to ensure that near misses 
+are identified and managed 
+
+## Página 289
+
+### Safety recommendations in relation to Traffic Regulation 
+In relation to the dearth of information provided in the Traffic Regulator’s Manual specific to 
+the management of trains during delays, the RAIU make the following safety recommendation 
+(Millstreet, CF-06, UC-01): 
+IÉ-IM should review the Traffic Regulator’s Manual with a view to introducing guidance for 
+Traffic Regulator’s in terms of the management of train delays and the switching of 
+crossing points. 
+1049 
+The Traffic Regulator was unaware that he had reduced the overrun protection for the train 
+approaching Millstreet Station through his planned sequence of movements. There appears to be 
+no clear training programme for Traffic Regulators, in particular, there is no training related to the 
+dynamic risk assessments of regulating trains; only mentoring by other Traffic Regulators is 
+provided; as a result the RAIU make the following safety recommendation (Millstreet CF-06): 
+IÉ-IM should review their training and competency management for Traffic Regulators so 
+that they have the appropriate skill set in terms of identifying potential risks associated 
+with the regulating of trains 
+### Safety recommendations related to SPADs during degraded train operations and 
+safety critical communications 
+1050 
+The RAIU review of SPADs occurring during degraded train operations, found that the actions 
+of some third parties were contributory to the incidents occurring in most SPAD events. The RAIU 
+also found that there were several instances of poor communications between operational staff 
+during degraded train operations, and as a result the RAIU make the following safety 
+recommendations: 
+IÉ-RU and IÉ-IM should carry out a review of the interfaces between different operational 
+staff (i.e. drivers, LCCOs, signalmen and EOs) so that all operational staff can adequately 
+manage train operations during degraded situations. Part of this review should focus on 
+the safety critical communications between operational staff. 
+
+## Página 290
+
+In some cases, there is no recording of communications between safety critical staff (e.g. 
+between drivers and signalmen, such as the SPAD at SAOIB, Limerick (Limerick), 24th September 
+2014). As a result, the RAIU make the following safety recommendation: 
+IÉ-IM should identify all locations where safety critical communications are not recorded 
+and develop a programme of works for the introduction of recording safety critical 
+communications at these locations. 
+### Safety recommendations related to the LCCOs 
+In relation to the SPAD at Signal XX098, Gortavogher, on the 19th December 2013, the 
+1052 
+Signalman and LCCO allowed the train to enter a section where it was known that there were 
+faults at the level crossings and with no EOs in attendance. As a result, the RAIU make the 
+following safety recommendation (Gortavogher CF-07, CF-09, CF-10, UC-03, UC-04, RC-02): 
+IÉ-IM should review the procedures applicable to signalman, Level Crossing Keeper, LCCO 
+and level crossing emergency operators with particular emphasis on the actions to be 
+taken by each when a fault is detected at a level crossing. This review should consider 
+circumstances where a train may already have entered the affected section of line, and 
+circumstances where the signal may be missing or extinguished. 
+
+## Página 291
+
+### Safety recommendations related to the placement of speed boards 
+The RAIU have found that the placement of speed boards near signals has been a 
+contributory factor in three SPADs reviewed during this investigation, namely the SPADs at:  
+Signal CE482, Glounthaune, on the 29th June 2014 – where the driver became distracted by 
+ 
+the speed board after departing a station on a yellow aspect, and had a SOY SPAD;  
+Signal XE061, Curravorrin Level Crossing, on the 2nd October 2012 – where the driver lost 
+ 
+situational awareness as a result of the speed board, which was placed after a signal that was 
+only capable of displaying a yellow aspect; 
+Signal GL353, Athenry, on the 10th July 2013 – where the driver became distracted by a 
+ 
+number of events, including the speed board, and had a SOY SPAD.  
+1054 
+The RAIU also found that the placement of speed boards may have been a contributory factor 
+to the SPAD at Signal TL223, Millstreet, on the 8th December 2013; as a result, the RAIU make 
+the following safety recommendation (Millstreet, UC-02) 
+IÉ-IM, should review their procedures for the placement of speed boards and brief relevant 
+staff to be vigilant in the placement of lineside signage with respect to the potential for 
+obscuring of signals or otherwise unintentionally providing distractions to drivers, 
+especially in the case where there are fixed colour light signals or they have potential to 
+### cause SOY SPADs. 
+###  Safety recommendation related to the investigation of SPAD events 
+1055 
+A review of the internal IÉ investigation methods by the RAIU found that the current 
+system of reporting (OOR) has not yet been formalised; there is a lack of consistency in 
+relation to the terms used in the reports and that the reports appear to take a very long time to 
+complete, as a result the RAIU make the following safety recommendation: 
+### IÉ-IM & IÉ-RU should review the current system of reporting SPAD events so that 
+reports are consistent and published within a set period of time.  
+
+## Página 292
+
+# Section 5 
+### Part 15 – Additional Information 
+
+## Página 293
+
+### PART 15 – Additional information  
+### List of abbreviated IÉ standards & referenced  
+OPC-SMS-028 
+Iarnród Éireann (2013), Traffic Regulators’ Manual, Version 1.1. 
+OPS-SMS-2.0 
+Iarnród Éireann (2013), Signals Passed at Danger & Other Serious Operational 
+Incidents. 
+OPS-SMS-3.0 
+Iarnród Éireann (2013), Driver Training, Version 2.01. 
+OPS-SMS-2.4 
+Iarnród Éireann (2013), Accident Investigation. 
+OPS-SMS-3.1 
+Iarnród Éireann (2013), Competence Management Drivers, Issue 1. 
+OPS-SMS-3.2 
+Iarnród Éireann (2013), Driver Development & Support, Issue 1. 
+OPS-SMS-3.3 
+Iarnród Éireann (2013), Route Knowledge Drivers, Issue 1. 
+OPS-SMS-3.5 
+Iarnród Éireann (2013), Safety Briefing Train Drivers, Issue 1. 
+IM-SMS-007 
+Iarnród Éireann (2013), Reporting and Investigation of Accidents and Incidents. 
+RU-SMS-007 
+Iarnród Éireann (2013), Reporting and Investigation of Accidents and Incidents. 
+
+## Página 294
+
+### List of abbreviations 
+°C 
+Degrees Celsius 
+ADU 
+Aspect Display Unit 
+ALARP 
+As Low As Reasonably Practicable 
+AO 
+Additional Observations 
+ATP 
+Automatic Train Protection 
+BBRI 
+Balfour Beatty Rail Incorporated 
+CAP 
+Corrective Action Plan 
+CAWS 
+Continuous Automatic Warning System 
+CCTV 
+Closed Circuit Television 
+CF 
+Contributory Factor 
+CIRA 
+Confidential Reporting System 
+CMO 
+Chief Medical Officer 
+CMS 
+Competency Management System 
+CSM 
+Common Safety Methods 
+CTE 
+Chief Traction Executive 
+CTC 
+Central Traffic Control 
+DART 
+Dublin Area Rapid Transit 
+DD 
+Down Distant (Signal) 
+DD&SS 
+Driver Development & Support System 
+DM 
+District Manager 
+DMU 
+Diesel Multiple Unit 
+DRA 
+Driver Reminder Appliance 
+DS 
+Down Signal 
+DTE 
+District Traction Executive  
+PCECP 
+Personal Computer Emergency Control Panel 
+EO 
+Emergency Operator 
+EPT 
+Error Prevention Technique 
+ERA 
+European Railway Agency 
+FDA 
+Formal Driving Assessment 
+GDC 
+Guard Driver Communication 
+GLS 
+Galway Line Signalman 
+HRO 
+High Reliability Organisation 
+ICCN 
+Intercity and Commuter Network Department 
+IÉ 
+Iarnród Éireann 
+IÉHS 
+Iarnród Éireann Hybrid System 
+IM 
+Infrastructure Manager 
+INT 
+Interim Review 
+
+## Página 295
+
+kg 
+Kilogram 
+km/h 
+Kilometres per hour 
+LCCC 
+Level Crossing Control Centre 
+LCCO 
+Level Crossing Control Operative 
+LRA 
+Low rail adhesion 
+MLS 
+Mayo Line Supervisor 
+m 
+Metre 
+MMI 
+Man Machine Interface 
+MP 
+Mile Post 
+MRT 
+Minimum Reading Time 
+mph 
+Miles per hour 
+No. 
+Number 
+NWRM 
+Network Wide Risk Model 
+OCM 
+Operations Control Manager 
+OOR 
+Operational Occurrence Report 
+OPC 
+Operations Performance & Control 
+OTDR 
+On Train Data Recorder 
+OTM 
+On Track Machine 
+OTMDO 
+On Track Machine Driver Operator 
+PIC 
+Person in Charge 
+PICOP 
+Person in Charge of Possession 
+PNB 
+Personal Needs Break 
+PSR 
+Permanent Speed Restriction 
+PQA 
+Post Qualifying Assessment 
+RAIU 
+Railway Accident Investigation Unit 
+RC 
+Root Cause 
+REB 
+Relocatable Equipment Building 
+RONBD 
+Radio On-board 
+RSSB 
+UK Rail Industry Body 
+RSC 
+Railway Safety Commission 
+RTC 
+Risk Triggered Commentary 
+RU 
+Railway Undertaking 
+SAS 
+Start Against Signal 
+SAOIB 
+Stop and Obtain Instructions 
+SBUD 
+Safety Briefing Update Days 
+SCC 
+Safety Critical Communications 
+SER 
+Safety Equipment Room 
+SET 
+Signalling, Electrical and Telecommunications 
+SGI 
+Train Signalling Regulations and General Instructions to Signalmen 
+
+## Página 296
+
+SI Units 
+International System of Units 
+SLW 
+Single Line Working 
+SMS 
+Safety Management System 
+SOY 
+Start on Yellow 
+SPAD 
+Signal Passed at Danger 
+SRR 
+SPAD risk ranking 
+SRRT 
+SPAD Risk ranking Tool 
+SSI 
+Solid State Interlocker 
+SUM 
+Summary Assessments 
+TCB 
+Track Circuit Block 
+TPS 
+Train Protection Strategy 
+TPWS 
+Train Protection Warning System 
+TRV 
+Track Recording Vehicle 
+TSR 
+Temporary Speed Restriction 
+TTC 
+Travelling Ticket Checker 
+UC 
+Underlying Cause 
+UD 
+Up Distant 
+US  
+Up Signal 
+WSLP 
+Working of Single Line by Pilotman 
+WTT 
+Working Time Table 
+
+## Página 297
+
+### Glossary of terms 
+Accident 
+An unwanted or unintended sudden event or a specific chain of such events 
+which have harmful consequences including collisions, derailments, level-
+crossing accidents, accidents to persons caused by rolling stock in motion, fires 
+and others. 
+Action Required 
+Defined by the RSC as an area where potential exists for a non‐compliance to 
+occur unless remedial action is taken or improvement is made, an isolated error 
+that requires correction, or some other action arising from the audit. 
+Approach released 
+A signalling control system that allows a signal to be released (to a proceed 
+aspect) for an approaching train when it has been proved to have stopped at 
+the signal or have slowed sufficiently to observe the correct speed over the 
+level crossing. 
+Audit Trail 
+Defined by the RSC as an area that the auditor believes should have further 
+attention, either by inclusion in the programme for future audits (but not 
+necessarily an external audit item) or by some other means. 
+As low as 
+IÉ’s I-SIG-2062 defines ALARP as the reduction of likelihood and 
+reasonably 
+consequences of a SPAD to a level below which the costs and/or constraints of 
+practicable 
+further mitigation measures outweigh their benefit. 
+Axle counter 
+A track mounted device that accurately counts passing axles. 
+Authorised 
+A movement made with the authority of the signalling system or of the 
+movement 
+signalman. 
+Bi-directional 
+A track on which trains may be worked in either direction under normal 
+signalling arrangements  
+Category A SPAD 
+Any SPAD when a stop signal and any associated preceding cautionary 
+indications was displayed correctly, in sufficient time for the train to stop safely 
+at the signal; 
+Colour light signals 
+Signals that convey movement authority to train drivers by means of coloured 
+lights. 
+Competence 
+IÉ-RU defines competence as the ability to perform activities to the standard 
+expected within employment. In relation to drivers, it includes the practical and 
+theoretical knowledge, experience and skill required to drive trains to ensure the 
+safety of any person who may be affected. 
+Competence 
+IÉ-RU defines a CMS as a documented system by which IÉ-RU ensures, as far 
+Management 
+as reasonably practicable, that its employees consistently achieve standards of 
+System 
+competence required for their work. 
+Continuous welded 
+Sections of rail that are welded together.  
+rail 
+Contributory 
+Factors relating to actions taken by persons involved or the condition of rolling 
+factors 
+stock or technical installations. 
+
+## Página 298
+
+Controlling 
+The signalman designated to control a specific section of track.  
+signalman 
+Crossing Loop 
+A track used to recess passenger trains allowing other trains to pass. 
+Defensive driving 
+A method of driving, using more effective braking and judgement skills to 
+reduce incidences on the network. 
+Degraded Train 
+Train not running under normal signals or signalling arrangements (including 
+Operations 
+where there is: signal equipment failure/disconnection; Single Line Working; 
+Examination of the line (passing a signal at danger); Movements to, from and 
+within possessions; Track circuit failure; Level crossing failure; Failure of block 
+signalling equipment). 
+Distraction 
+Divides attention, prevents concentration. 
+Double block 
+A method of working in absolute block territory where the forward section is 
+required to be clear before a train cab be accepted from the signal cabin in rear. 
+Double block areas (where the signal in rear is required to be clear before a 
+train can be accepted). 
+Error Prevention 
+A term used by IÉ in relation to techniques to be used by drivers to manage 
+Technique 
+distraction, refocus their attention and become aware of their surroundings and 
+situation. 
+European Rail 
+European cab-based signalling and train control system that offers significant 
+Traffic 
+capacity and performance benefits, as well as further enhancing safety beyond 
+Management 
+the capability of legacy ATP systems. 
+System 
+Extensive damage 
+Damage that can be immediately assessed by the RAIU to cost at least 
+€2,000,000 in total. 
+Flank  
+Points or track circuits not in the line of route but included in its controls to 
+remove or reduce the consequences of a SPAD. 
+Flank points 
+Points set to divert an unauthorised movement away from an authorised route, 
+subject to the overall risk of injury or loss due to collision or derailment being 
+reduced by doing so. The line onto which the unauthorised movement is 
+diverted should preferably be either a siding or used predominantly for trains in 
+the same direction. 
+Flank track circuits 
+In the absence of suitable flank points, any track circuits located beyond the 
+protecting signal(s) on a converging line may be proved clear in the controls of 
+routes requiring overrun protection.  
+Formal Driving 
+Driver assessments to determine is newly qualified drivers can manage 
+Assessment 
+distraction from cab visitors; and can manage the duties associated with route 
+conducting/training.  
+Good practice 
+Defined by the RSC as an area highlighted which, in the opinion of the Auditor, 
+
+## Página 299
+
+is good practice within the industry. 
+High Reliability 
+An organisation that operates in hazardous conditions, where the consequence 
+Organisation 
+of an error could be catastrophic. 
+IÉ Hybrid System 
+As train protection system currently being developed by IÉ.  
+Immediate cause 
+The situation, event or behaviour that directly results in the occurrence. 
+Incident 
+Any occurrence, other than an accident or serious accident, associated with the 
+operation of trains and affecting the safety of operation. 
+Infrastructure 
+Organisation that is responsible for the establishment and maintenance of 
+Manager 
+railway infrastructure, including the management of infrastructure control and 
+safety systems. 
+Local Control 
+Local control, in terms of level crossings, is where a crossing is being controlled 
+from a panel at the crossing by an Emergency Operator. 
+Low rail adhesion 
+This occurs when there reduced adhesion (or co-efficient of friction) between 
+the rail and the wheel as a result of environmental factors, such as leaf mulch 
+on the rail head. 
+Major Non-
+Defined by the RSC as an area of non‐compliance with an IÉ internal standard, 
+Compliance 
+an applicable external standard, or legislation that is evidence of a system 
+failure. 
+Minor Non-
+Defined by the RSC as an area of non‐compliance with IÉ internal standards, 
+Compliance 
+an applicable external standard, or legislation that is evidence of a sporadic 
+lapse in implementation of a system or deviation from a system. 
+National safety 
+The national body entrusted with the tasks regarding railway safety in 
+authority 
+accordance with European directive 2004/49/EC. 
+Normal operations 
+Train running under normal signals at permissible speed. 
+Occupation of 
+A train section with a train in it. 
+Track circuits 
+Overlap 
+The section of line beyond a stop signal that must be unoccupied and, where 
+necessary, locked before and during a signalled running movement on the 
+approach to a signal. 
+Planned personal 
+Informal meetings between a newly qualified driver to identify any issues, 
+contact 
+provide guidance and support, build up a working relationship and to enable the 
+driver to have confidence in approaching their DTE with personal/welfare issues 
+or any other areas of concern or uncertainty. 
+Railway 
+Organisation that operates trains. 
+Undertaking 
+Repeater Signal 
+A signal on the approach to the main signal to provide advance warning of the 
+aspect being displayed by the main signal. 
+Ready to Start 
+A signal given by the PIC when the PIC has checked that all doors are properly 
+Signal 
+closed and that the train is safe to start. 
+
+## Página 300
+
+Reversible Working 
+Where trains are operating on a bi-directional line in the reverse to their normal 
+operation. 
+Risk Ranking 
+A system for measuring the severity of Category A SPADs on a scale of 1 to 28, 
+with 1 being the lowest risk and 28 being the highest risk. 
+Risk Triggered 
+RTC involves drivers speaking aloud what they usually just think to themselves, 
+Commentary 
+when driving. By following this process, drivers can listen to their thoughts and 
+the subsequent actions they are planning to do – allowing them to “sense 
+check” what they should do next. Ideally, RTC involves not just repeating what 
+a driver sees, but also the required action they will need to take e.g. next signal 
+is a caution signal – slow and be prepared to stop at next signal, if required. 
+Rolling stock 
+Railway vehicles. 
+Route indicator 
+An indicator associated with a signal that shows the driver which route is set, 
+where there are more than one route available. 
+Safety 
+Authorisation granted by the RSC confirming acceptance of the IM’s SMS; and 
+Authorisation 
+provisions adopted by the IM for IM assets and the safe running of trains; as set 
+out in Irish and European legislation. 
+Safety Certificate 
+Certification granted by the RSC confirming acceptance of the RU’s SMS; and 
+provisions adopted by the RU for the safe running of trains; as set out in Irish 
+and European legislation. 
+Sand drag 
+A form of trap point, where sand is heaped onto the rails of the trap points to 
+stop a train. 
+SAS SPAD 
+A SPAD where a stationary train starts against a signal at danger. This may be 
+at a platform starting signal, or at any other signal at which a train is stopped. 
+Scope For 
+Defined by the RSC as an area highlighted where, in the opinion of the Auditor, 
+Improvement 
+system or business improvement can be achieved by the company. Typically 
+this is phrased as a recommendation, the merits and implementation of which 
+should be decided by the audited organisation. 
+Semaphore signal 
+A mechanical signal controlled by levers at a groundframe through wires that 
+run from the signal to the groundframe that displays an arm horizontal or at 45 
+degrees to horizontal to indicate if a train has permission to pass the signal or 
+not.
+ 
+Serious accident 
+Any train collision or derailment of trains, resulting in the death of at least one 
+person or serious injuries to 5 or more persons or extensive damage to rolling 
+stock, the infrastructure or the environment, and any other similar accident with 
+an obvious impact on railway safety regulation or the management of safety, 
+where extensive damage means damage that can be immediately assessed by 
+the RAIU to cost at least €2,000,000 in total. 
+Shunt 
+Moving trains to and from sidings. 
+Situation 
+The perception of elements in the environment, within a volume of time and 
+
+## Página 301
+
+awareness 
+space, the comprehension of their meaning, and the projection of their status in 
+the near future 
+Solid state 
+A microprocessor based signalling system using two-out-of-three voting to 
+Interlocking 
+perform train detection, interlocking and control functions. 
+SOY SPAD 
+A SPAD which occurs when a train starts away from a yellow signal, but then 
+fails to stop at the next (danger) signal.
+ 
+Speed restriction 
+A speed restriction imposed on a particular section of track, to guarantee the 
+safe passage of trains. 
+Station Works 
+A signal given by the PIC when satisfied that boarding is complete and there 
+Complete Signal 
+are no hazards; and doors are ready for closing. 
+Stopblock  
+A device used to stop the progress of rail vehicles at the end of sidings or other 
+dead ends. 
+Stop signal 
+A signal capable of displaying a stop aspect or indication.  
+Root cause 
+Causes related to framework conditions and application of the SMS. 
+Track circuit block 
+A signalling system that uses track circuits to confirm the absence of trains in 
+order to control the movement of trains. 
+Traffic Regulator 
+Responsible for delivering a punctual train service. 
+Trap points 
+Facing points provided at an exit from a siding or converging line to derail an 
+unauthorised movement and so protect the adjacent running line. 
+Underlying causes 
+Causes related to skills, procedures and maintenance. 
+Weekly circular 
+A document published weekly basis, providing information about engineering 
+works, possessions requested, changes to services and speed restrictions. 
+Working Time 
+Lists all trains and relevant points with times. 
+Table 
+
+## Página 302
+
+### References & Bibliography 
+Arthur D. Little (2015), Management of SPAD Events, Independent Review, Report to Iarnród 
+Éireann, October 2015. 
+European Union (2004), Directive 2004/49/EC of the European Parliament and of the Council of 29 
+April 2004 on safety on the Community’s railways and amending Council Directive 95/18/EC on the 
+licensing of railway undertakings and Directive 2001/14/EC on the allocation of railway infrastructure 
+capacity and the levying of charges for the use of railway infrastructure and safety certification 
+(Railway Safety Directive), 2004/49/EC, 29th April 2004.   
+Iarnród Éireann (2015), 5 Day Incident Review, Signal passed at danger without authority, 20th August 
+2014, Bray Station, Train Y764, 10:00 hrs Connolly to Greystones Inspection Car (BR36, Synergi Ref. 
+20499). 
+Iarnród Éireann (2014), 5 Day Incident Review, Signal passed at danger without authority – TL226, 
+26th February 2014, Rathmore Station, Train Y370, Inspection Car from Rathmore to Tralee (24076). 
+Iarnród Éireann (2013) 5 Working Day Panel Review’ Occurrence: The 09:50 hrs Bray – Connolly 
+empty train (J613) passed signal BR44s in Bray Loop at 09:31 hrs by 3 metres without authority. 
+Iarnród Éireann (2012) 5 Working Day Panel Review’ Occurrence: The 17:30 Galway/Limerick service 
+passed signal XE061 at Curravorrin lx at danger (Ref SYNERGI Ref: 18103). 
+Iarnród Éireann (2013) 5 Working Day Panel Review Signal Passed at Danger, GL353. 
+Iarnród Éireann (2013) 5 Working Day Panel Review SPAD HK152. 
+Iarnród Éireann (2013) 5 Working Day Panel Review, Train A310, the 17:25 hrs Mallow to Tralee 
+Passenger Service passed signal TL241 at danger without authority. 
+Iarnród Éireann (2013), Athlone & Mallow Crossing Control Centres, Instructions for the Operation of 
+Touch Screen Control Panels associated with CCTV Level Crossings, File Reference 210/45. 
+Iarnród Éireann (2013), Competence Management Drivers, Issue 1, OPS-SMS-3.1 
+Iarnród Éireann (2013), Driver Training, Version 2.01, OPS-SMS-3.0. 
+Iarnród Éireann (2013), Internal Report of Joint Inquiry into SPAD at Signal WL131 at Athy on 12th 
+March 2013. 
+
+## Página 303
+
+Iarnród Éireann (2012), Investigation into the SPAD at LJ368 in Limerick Junction on the 7th March 
+2012 (CSSO Ref 17470).  
+Iarnród Éireann (2012), Investigation into the SPAD at PE31s in Pearse Station on the 16/01/12 
+(Synergi Ref 17305).  
+Iarnród Éireann (2013), Investigation of SPADs and operational incidents 5 working day panel review, 
+SPAD at LK5, Limerick Station, A478, Report No. R4020-2014-19. 
+Iarnród Éireann (2012), Investigation Remit, 14:15 Limerick/Galway passenger service passed signal 
+XE010DS Longpavement LC at danger, Safety Office Ref. 12/049. 
+Iarnród Éireann (2012), Investigation Remit, J401 06:33 hrs Limerick/Thurles passed signal TS469 at 
+danger outside Thurles Station, Safety Office Ref. 12/128. 
+Iarnród Éireann (2015), Operational Occurrence Report, Signal CL102 passed at danger with 
+authority, 15th May 2015, R1101-2015-38.  
+Iarnród Éireann (2014), Operational Occurrence Report, SPAD at Signal CE482 Glounthaune, 
+Cork/Midleton Line 27th June 2014, R1301-2014-53.  
+Iarnród Éireann (2014), Operational Occurrence Report, SPAD at Signal CY26 Connolly, 3rd April 
+2014, R0903-2014-34. 
+Iarnród Éireann (2015), Operational Occurrence Report, Signal CY33 passed at danger without 
+authority, 11th September 2014, Connolly Station, E221, 16:15 hrs passenger service Howth to Bray. 
+Iarnród Éireann (2014), Operational Occurrence Report, SPAD at Signal DD269 Dundalk, 13th May 
+2014, R1001-2014-40.  
+Iarnród Éireann (2014), Operational Occurrence Report, SPAD, HK196 Curragh, 14/03/2014, R0802-
+2014-29. 
+Iarnród Éireann (2015), Operational Occurrence Report, SPAD, HN291 and derailment of locomotive 
+unit, 11/10/2014, R0209-2015-09. 
+Iarnród Éireann (2014), Operational Occurrence Report, SPAD, MW826 Mallow, 16/05/2014, R1002-
+2014-41. 
+
+## Página 304
+
+Iarnród Éireann (2014), Operational Occurrence Report, SPAD, PE18, Connolly, 11th March 2015, 
+R0603-2015-20. 
+Iarnród Éireann (2015), Operational Occurrence Report, SPAD, Signal No. PE34 passed at danger 
+without authority, 18th January 2015, Pearse, R0402-2015-15. 
+Iarnród Éireann (2015), Operational Occurrence Report, SPAD, Signal SL817 passed at Danger 
+without authority, 18th January 2015, Boyle, R0501-2015-16. 
+Iarnród Éireann (2011), Platform Train Interface & Despatch Procedure Prompt Card. 
+Iarnród Éireann (2010), Professional Driving Handbook, Issue 3. 
+Iarnród Éireann (2014), Report into SPAD at RC874 in Charleville 12th August 2013 (Report No. 
+R0201-2014-12). 
+Iarnród Éireann (2015), Report of Investigation: A Stop and Obtain Instructions Board being passed 
+without Authority and Points Run Through Limerick 24th September 2014, Report No. R0703-2015-
+232. 
+Iarnród Éireann (2015), Report of the Investigation: Operation irregularity and SPAD at XX062 
+(Shanclough) Level Crossing 15th January 2015. Report No. R1005-2015-37. 
+Iarnród Éireann (2012), Report of the Investigation into the Signal GL336 Passed at Danger, 26th 
+October, 2012, Synergi Ref: 18209. 
+Iarnród Éireann (2014), Report of the Investigation into the occurrence of Spoil Train passing Signal 
+LJ348(s) at danger without authorisation, 25th August 2014, Report No. R0905-2014-36. 
+Iarnród Éireann (2012), Report of Investigation into the SPAD at BY488, Ballybrophy, 8th May 2012, 
+Report No. R006/2012. 
+Iarnród Éireann (2014), Report of the Investigation into the SPAD at Signal DD262, between Dundalk 
+and Newry 10th August 2013.Report No. R0701-2014-25. 
+Iarnród Éireann (2015), Report of the Investigation into the SPAD at Signal GL354 Athenry 16th 
+November 2013, Report No. R0802-2015-26. 
+
+## Página 305
+
+Iarnród Éireann (2013), Report of Investigation into the SPAD at PE35s Pearse Station 10th August 
+2013 (Safety Office Ref: 130810-IM01). 
+Iarnród Éireann (2013), Report of Investigation into the SPAD at SL719, Killucan, 21st June 2013 
+(Safety Office Ref: 130621-1). 
+Iarnród Éireann (2014), Report of Investigation into the SPAD at WL167 Muine Bheag 9th April 2013. 
+Iarnród Éireann (2014), Report of Investigation into the SPAD at XW038US, Blackbog Level Crossing, 
+16th May 2013. 
+Iarnród Éireann (2014), Report of the Investigation into the SPAD at DD276, Dundalk, 8th May 2013 
+(Report No. 0302-2014-17). 
+Iarnród Éireann (2012), Report of the Investigation into the Signal GL336 passed at danger, 26th 
+October 2012 (Report No. 18209). 
+Iarnród Éireann (2014), Report of the Investigation into Train A303 passing Signal TL223 at Millstreet 
+at Danger without Authority 8th December 2013 (Report No. R0401-2014-18). 
+Iarnród Éireann (2014), Report of the Investigation into Train A780 passing signal XE098DS at 
+danger without authority 19/12/2013 (Report No. R1102-2014-44).  
+Iarnród Éireann (2015), Balfour Beatty Rail Ireland, Report of Investigation, SPAD involving On-track 
+Machine (703 Ballast Regulator) at Signal RL543 in the siding at Enniscorthy 9th of June 2015 (Report No. 
+R1004-2015-36). 
+Iarnród Éireann (2013), Route Knowledge Drivers, Issue 1, OPS-SMS-3.3 
+Iarnród Éireann (2007), Rule Book. 
+Iarnród Éireann (2013), Safety Briefing Train Drivers, Issue 1, OPS-SMS-3.5. 
+Iarnród Éireann (2013), Signals Passed at Danger & Other Serious Operational Incidents, OPS-SMS-
+2.0. 
+Iarnród Éireann (2012), SPAD Management Operations, Audit Report, 11.15, Version 3. 
+Iarnród Éireann (2013), Traffic Regulators’ Manual, Version 1.1, OPC-SMS-028. 
+
+## Página 306
+
+Iarnród Éireann (2007), Train Signalling Regulations and General Instructions to Signalmen (SGIs), 
+issue 11/07. 
+RSC Annual Reports 
+RSC (2014), RSC Audit No. 12/14-A. An audit of - Iarnród Éireann’s Safety Management System 
+Annex II, Criterion W. Maintenance and Operation of the Traffic Control and Signalling System.  
+RSC (2013), Audit of the Iarnród Éireann Rolling Stock Brake Maintenance and Testing Regime. 
+RSC (2015), Supervision Activity No. 11/14‐A, An Audit of ‐ Iarnród Éireann’s Safety Management 
+System(SMS) Strategic Management Review 
+RSSB (2008), Accident and Incident Investigation, Railway Group Standard, GO/RT3119.

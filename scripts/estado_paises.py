@@ -93,7 +93,8 @@ def revisiones():
         except Exception:
             continue
         ok = sum(1 for v in d.values() if v.get("estado") == "ok")
-        med = [v["fidelidad_media"] for v in d.values() if "fidelidad_media" in v]
+        med = [v["fidelidad_media"] for v in d.values()
+               if isinstance(v.get("fidelidad_media"), (int, float))]
         res[codes] = {"revisados": len(d), "ok": ok,
                       "media": round(sum(med) / len(med), 1) if med else None}
     return res

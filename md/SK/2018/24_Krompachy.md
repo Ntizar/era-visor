@@ -1,0 +1,370 @@
+---
+pais: SK
+anio: 2018
+idioma: SK
+pdf: 24_Krompachy.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/24_Krompachy.pdf
+md5_pdf: 429537eefb3f80a4b169fff330fc5342
+paginas: 8
+chars: 22310
+tablas: 0
+cuerpo: "11.0pt; encabezados 3 niveles"
+rotulos_excluidos: "14 (incident c# zo dňa #.#.# v nžst krompachy strana # z #, správa o výsledku vyšetrovania incidentu c# krompachy)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 0
+fecha_proceso: 2026-11-19
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Záverečná správa z vyšetrovania 
+Incidentu kategórie C 4 – prejdenie návesti zakazujúcej jazdu, ku ktorému do-
+šlo počas chodu vlaku R 763 ZSSK, v NŽST Krompachy, na koľaji č. 1 v km 
+143,936, dňa 08.01.2018 o 06:16 h,  
+Ministerstvo dopravy a výstavby Slovenskej republiky 
+
+## Página 2
+
+## Správa o výsledkoch vyšetrovania príčin a okolností vzniku nehody 
+## Súhrn 
+Kategória nehodovej udalosti: 
+incident kategórie C 4 
+Dátum a čas udalosti: 
+08.01.2018, 06:16  hod 
+nerešpektovanie určeného miesta zastavenia  a neza-
+Popis udalosti: 
+stavenie vlaku na určenom mieste na výstup a nástup 
+cestujúcich 
+Miesto udalosti: 
+v NŽST Krompachy, na 1. koľaji v km 143,936 
+Zúčastnení: 
+ŽSR (manažér infraštruktúry), dopravca Železničná 
+spoločnosť Slovensko, a. s. (ZSSK) 
+Následky:   
+len meškanie  vlakov  
+nerešpektovanie určeného miesta zastavenia a pobytu 
+Bezprostredné príčiny udalosti: 
+v stanici na nástup a výstup cestujúcich   
+Príčiny súvisiace s odbornými znalosťami, postupmi a 
+Neboli zistené 
+údržbou:   
+Príčiny súvisiace s podmienkami právneho rámca a 
+Neboli zistené 
+systémom riadenia bezpečnosti: 
+Bezpečnostné odporúčania: 
+Dopravný úrad preskúma ako ZSSK zabezpečuje 
+oboznámenie sa personálu s pomôckami GVD 
+a predpismi a ako efektívne ich kontroluje 
+
+## Página 3
+
+MINISTERSTVO DOPRAVY A  VÝSTAVBY SLOVENSKEJ REPUBLIKY 
+### Námestie slobody č. 6, P.O.BOX č. 100, 810 05 Bratislava 15 
+### Sekcia železničnej dopravy a dráh 
+Číslo: 10586/2018/SŽDD/13036                                                            V Bratislave dňa 14.2.2018 
+Vec:  Záverečná správa z vyšetrovania                                                  Stupeň dôvernosti: CH                                            
+### Záverečná správa z vyšetrovania  
+incidentu kategórie C 4 – prejdenie návesti zakazujúcej jazdu, ku ktorému došlo počas chodu vlaku R 763 ZSSK, 
+v NŽST Krompachy, na koľaji č. 1 v km 143,936, dňa 08.01.2018 o 06:16 h. 
+## I. Súhrn  
+08.01.2018 o 06:16 h  počas chodu vlaku R 763 ZSSK v NŽST Krompachy, na koľaji č. 1, v km 143,936, prišlo k 
+vzniku incidentu kategórie C 4 – nezastavenie vlaku R 763 ZSSK na mieste určenom pre výstup a nástup cestujú-
+cich; nebola vyčíslená žiadna škoda, avšak prišlo k zmeškaniu 2 vlakov osobnej dopravy dopravcu ZSSK o 21 
+min.  Vznik incidentu spôsobila nepozornosť rušňovodiča (nevykonaná oprava v ZCP č. 105) a nezastavenie vlaku 
+R 763 ZSSK v NŽST Krompachy na mieste určenom pre výstup a nástup cestujúcich.  
+## II. Údaje týkajúce sa nehody  
+### 1. Incident 
+### a) Dátum, presný čas a miesto incidentu 
+8.01.2018 o 06:16 h, železničná trať 105A Košice - Kraľovany, v NŽST Krompachy, na koľaji č. 1, v km 
+143,936.  
+### b) Popis incidentu a miesta vrátane nasadenia záchranných a havarijných služieb  
+8.01.2018 o 05:57 h vlak R 763 ZSSK po riadnej výprave včas odišiel zo ŽST Spišská Nová Ves smerom 
+do NŽST Krompachy; chod vlaku až po vznik incidentu prebiehal bez nedostatkov a mimoriadností. Pre 
+vchod vlaku do NŽST Krompachy na koľaj č. 1 svietila na vchodovom návestidle S návesť 2, Výstraha; 
+rušňovodič upravoval chod vlaku podľa návesti a pri prechode okolo nástupišťa č. 1 videl na nástupišti 
+stáť cestujúcich. Pohľadom skontroloval svoj ZCP č. 105, kde bolo uvedené, že cez NŽST Krompachy 
+vlak prechodí. Keďže sa následne na odchodovom návestidle S1 rozsvietila návesť 3, Voľno, chcel pokra-
+čovať s vlakom smer Margecany; avšak po prechode okolo nástupišťa zaregistroval únik vzduchu 
+a následne došlo k zastaveniu vlaku, spôsobeného použitím záchrannej brzdy vlakvedúcim vlaku. Ten si 
+všimol, že vlak pravidelne zastavujúci podľa ZCP č. 105 v NŽST Krompachy nezastavuje. Vlak zastavil s 
+koncom vlaku 520 metrov za koncom nástupišťa č. 1. Potom išiel vlakvedúci k rušňovodičovi s tým, že 
+vlak R 763 ZSSK má pravidelný pobyt v NŽST Krompachy, preto použil záchrannú brzdu. Rušňovodič 
+zistil, že nemal opravený pridelený ZCP č. 105; po telefonickom dohovore s výpravcom dostali súhlas na 
+návrat vlaku k nástupišťu č. 1 NŽST Krompachy, kde bol rušňovodič podrobený orientačnej detalkolovej 
+skúške s výsledkom negatív, ktorú vykonal výpravca NŽST Krompachy. Potom prišiel na stanovište HKV 
+vlakvedúci vlaku a po výstupe a nástupe cestujúcich a po súhlase príslušných zamestnancov dopravcu 
+ZSSK a manažéra infraštruktúry ŽSR bol vlak riadne vypravený v čase 06:34 h, so zmeškaním 19 minút. 
+Po príchode vlaku do ŽST Košice bol rušňovodič podrobený detalkolovej skúške príslušníkom oddelenia 
+ŽP PZ Košice s výsledkom negatív.  
+c) Rozhodnutie o vykonanívyšetrovania incidentu, zloženie tímu a vykonanie vyšetrovania incidentu 
+V zmysle predpisu ŽSR Z 17 a zákona č. 513/2009 Z.z.  o dráhach  generálny riaditeľ sekcie železničnej 
+dopravy a dráh Ministerstva dopravy a výstavby Slovenskej republiky (ďalej „ministerstvo“), Ing. J. F., 
+určil na vyšetrovanie  nehody vyšetrovateľa ministerstva Ing. M.S. ŽSR určili na zisťovanie príčin nehody 
+hlavného inšpektora bezpečnosti železničnej dopravy (HIBŽD) p. J,L. Dopravca ZSSK na spoločné zisťo-
+vanie príčin vzniku incidentu určil IBŽD J.M. Vyšetrovanie sa vykonávalo od 8.01.2018 do 8.2.2018.  
+### 2. Popis incidentu  
+### a) Zúčastnení zamestnanci a dodávatelia, ako aj ostatní účastníci a svedkovia 
+M.Č., rušňovodič, zamestnanec ZSSK.  
+### b) Vlaky a ich zloženie, vrátane evidenčných čísel zúčastnených vozidiel 
+Dotknutý vlak R 763 ZSSK bol v zmysle ZCP č. 105,  pravidelným vlakom osobnej dopravy, v pracovné 
+dni na trati Poprad-Tatry – Košice, stanovenú rýchlosť v danom úseku Spišské Vlachy – Krompachy mal 
+
+## Página 4
+
+120 km.h-1 a potrebné brzdiace percentá mal 103 na trati najvyššie 111. 8.01.2018 bol vlak R 763 ZSSK 
+vezený HKV 91 56 6 163 108-4,  mal spolu 10 koľajových vozidiel, 40 náprav, dĺžku 250,6 m, celkovú 
+hmotnosť 534 t, brzdiacu hmotnosť 721 t a skutočné brzdiace percentá 135. K poškodeniu koľajových vo-
+zidiel a infraštruktúry ŽSR  nedošlo. 
+c) Popis infraštruktúry a systému signalizácie – typy koľají, výhybiek, zabezpečovacích 
+a oznamovacích zariadení a spôsob ich obsluhy 
+Dotknuté miesto vzniku incidentu sa nachádzalo v km 143,936 dvojkoľajnej trate 1. kategórie Košice – 
+Kraľovany, normálneho rozchodu (1 435 mm), elektrifikovanej jednosmernou trakčnou prúdovou sústa-
+vou s napätím 3 kV, na koľaji č. 1 v NŽST Krompachy. Koľaj č. 1: je hlavná staničná koľaj vchodová, 
+odchodová a prechodová pre všetky vlaky, užitočná dĺžka 686 m, ohraničená návestidlami S1 a L1, trakč-
+né vedenie v celej dĺžke. Koľaj č. 1 je vedená od km 144,461 do km 144,145 v pravotočivom oblúku 
+s polomerom 1 004,75 m, od km 144,145 do km 143,243 vedená v priamej. Sklonové pomery: od km 
+144,303 do km 143,701 klesala 2,98 ‰, od km 143,701 do km 143,243 klesala 1,94 ‰ v smere jazdy vla-
+ku, podvaly betónové SB8 s rozdelením „d“, koľajnice boli tvaru R65. V stanici zriadené 4 vyvýšené ná-
+stupištia pre nástup a výstup cestujúcich. Pri koľaji č. 1 nástupište “Tischer“ so spevnenou nástupnou hra-
+nou v dĺžke 294 m, začiatok nástupišťa v km 143,936, koniec nástupišťa 144,230.  V NŽST Krompachy je 
+SZZ 3. kategórie – reléové ZZ cestového systému, so svetelnými návestidlami, s rýchlostnou návestnou 
+sústavou. Pre vchody z nesprávnej koľaje boli zriadené vchodové návestidlá 1L a 2S so samostatnými 
+predzvesťami Pr1L a Pr2S. Popis a obsluha zariadenia sa vykonávala v zmysle predpisu ŽSR D 101/T 101 
+a Miestnych odchýlok od platných predpisov na obsluhu zabezpečovacích zariadení, ktoré boli uložené v 
+prílohe č. 4 PP. Traťová rýchlosť v mieste incidentu v zmysle TTP 105A bola 100 km.h-1, zábrzdná vzdia-
+lenosť 1 000 metrov.  
+### d) Komunikačné prostriedky 
+Irrelevantné.   
+### e) Práce vykonané na mieste incidentu alebo v jeho blízkosti 
+Neboli vykonávané v čase jeho vzniku opravné ani udržiavacie práce.  
+### f) Spustenie núdzového plánu železnice s nadväzným reťazcom udalostí 
+Incidentu ohlásil výpravca NŽST Krompachy M.M kontrolnému dispečerovi ŽSR OR a postupne boli 
+oboznámení ďalší zamestnanci a MDV. Súhlas na jazdu vlaku do ŽST Košice udelil HIBŽD ŽSR po do-
+hode s IBŽD ZSSK v čase o 06:30 h. Vlak z NŽST Krompachy odišiel v čase 06:34 h so zmeškaním 19 
+minút.  
+g) Spustenie núdzového plánu verejných záchranných služieb, polície a zdravotných služieb s nadväz-
+ným reťazcom udalostí 
+Nebolo potrebné spustiť plán vyrozumievania záchranných a zdravotných služieb. Oddelenie ŽP PZ Koši-
+ce vyrozumel telefonicky regionálny dispečer ZSSK o 06:30 h.  
+### h) Účastníci incidentu z vonkajšieho prostredia (cestné vozidlá a pod.) 
+Irrelevantné.   
+3. Mŕtvi, zranení a materiálne škody v členení podľa článkov 35 až 39 predpisu ŽSR Z 17 
+Nedošlo k zraneniu ani usmrteniu zamestnancov ŽSR, dopravcu, cestujúcich a iných osôb, poškodeniu infra-
+štruktúry v správe ŽSR ani koľajových vozidiel a zariadení dopravcov. Meškanie 2 vlakov osobnej dopravy: R 
+763 ZSSK + 19 min a Os 7807 ZSSK + 2 min. ŽSR, dopravca a iné strany v zmysle článku 37 až 41 predpisu 
+ŽSR Z 17 škodu nevyčíslili. Celospoločenské náklady v dôsledku incidentu v zmysle prílohy 8 zákona č. 
+513/2009 Z. z. vzniknuté zmeškaním 2 vlakov osobnej dopravy neboli vyčíslené. Poškodené strany si uplatnia 
+skutočnú škodu vzniknutú pri tomto incidente podľa platných právnych noriem, nariadení a predpisov.  
+### 4. Vonkajšie okolnosti: počasie a geografické údaje 
+Počas incidentu bolo oblačno, teplota +3 °C, viditeľnosť obmedzená nočnou dobou. Miesto  incidentu sa na-
+chádzalo v priamom úseku, výhľad rušňovodiča nebol ničím obmedzený. 
+## III. Zistené skutočnosti 
+### 1. Súhrn výpovedí 
+### a) Železniční zamestnanci, vrátane dodávateľov 
+Rušňovodič M.Č., v zápise so zamestnancom o.i. uviedol, že v ŽST Poprad-Tatry prevzal HKV 91 56 
+6 163 108–4, ktoré bolo v prevádzkyschopnom stave. bola vykonaná JSB bez zistených nedostatkov, kto-
+rú vykonal kolega rušňovodič M.H. Po odchode a rozjazde vlaku rušňovodič overil účinok brzdy vlaku, 
+ktorá bola v poriadku, tak s vlakom pokračoval v jazde bez nedostatkov a mimoriadnosti. Do NŽST 
+Krompachy vchádzal na návesť „Výstraha“ vchodového návestidla S, pri prechode okolo nástupišťa č. 1 
+videl cestujúcich stáť na nástupišti, tak skontroloval ZCP č. 105, kde bolo uvedené, že cez NŽST Krom-
+pachy je prechod a keďže na odchodovom návestidle sa zmenila návesť zakazujúca jazdu na návesť 3, 
+
+## Página 5
+
+Voľno pokračoval v ďalšom chode, potom zistil únik vzduchu a následne došlo k zastaveniu vlaku cca 
+500 metrov celou súpravou za nástupišťom a odchodovým návestidlom. Po zastavení ho vlakvedúci upo-
+zornil, že vlak R 763 ZSSK má pobyt v stanici Krompachy, preto použil záchrannú brzdu vo vozni. Vtedy 
+rušňovodič zistil, že nemá opravený ZCP č. 105. Od výpravcu dostali súhlas na návrat s vlakom 
+k nástupišťu č. 1, kde sa podrobil orientačnej skúške na alkohol s výsledkom negatív, ktorú vykonal vý-
+pravca. Na stanovište HKV prišiel vlakvedúci vlaku J.G. a po výstupe a nástupe cestujúcich a výprave po-
+kračovali do ŽST Košice, kde príslušníci ŽP PZ podrobili rušňovodiča detalkolovej skúške s výsledkom 
+negatív. Rušňovodič M.Č uviedol, že brzda vlaku bola v čase incidentu v poriadku a že nezastavil v NŽST 
+Krompachy keďže nemal opravený ZCP č. 105, a si bol vedomý toho, že vlak má v NŽST Krompachy 
+prechod. Je si vedomý toho, že svojím konaním zapríčinil vznik incidentu kategórie C 4, porušením pred-
+pisových ustanovení predpisu ŽSR Z 1 čl. 912, čl. 913 a predpisu ZSSK V 2 čl. 19, písm. q). 
+### b) Ostatní svedkovia 
+Neboli zistení.  
+### 2. Systém riadenia bezpečnosti 
+### a) Organizačný rámec a spôsob, akým sa dávajú a vykonávajú príkazy 
+Chod vlakov v mieste  incidentu sa riadil predpisom ŽSR Z 1 a platnými ZCP a TTP.  
+### b) Požiadavky na personál a uplatňovanie týchto požiadaviek 
+Rušňovodič M.Č. mal v čase vzniku incidentu platnú LP, zmyslovú skupinu 1, psychologické vyšetrenie 
+vykonané 03.06.2009 bez obmedzenia, OS č. 24 pre funkciu rušňovodič kategórie B1 (M, E, ES). V čase 
+platnosti OS mal plnopočetnú účasť na PŠ, poslednú dňa 07.11.2017. V čase vzniku incidentu spĺňal po-
+žiadavky pre výkon uvedenej funkcie v zmysle platnej legislatívy a predpisových ustanovení.     
+### c) Obvyklé postupy interných kontrol a auditov a ich výsledky 
+U rušňovodiča M.Č posledná kontrola výkonu činnosti pred vznikom incidentu bola vykonaná rušňovo-
+dičom inštruktorom J.S. dňa 07.12.2017 s výsledkom bez nedostatkov. 
+### d) Rozhrania medzi rôznymi užívateľmi infraštruktúry 
+Len jeden užívateľ infraštruktúry bol účastníkom incidentu. 
+### 3. Predpisy a pravidlá  
+a) Príslušné právne predpisy a pravidlá Európskej únie a vnútroštátne predpisy a pravidlá 
+### Zákon č. 514/2009 Z. z.: 
+ § 16, odsek (3), písmeno a), v ktorom sa hovorilo o povinnosti každého zachovávať opatrnosť prime-
+ranú povahe prevádzky na dráhe, starať sa o svoju bezpečnosť a zdržať sa všetkého, čo by mohlo ohro-
+ziť život, alebo zdravie, alebo obmedziť prevádzku dráhy, alebo dopravu na dráhe.  
+b) Ostatné predpisy ako sú prevádzkové predpisy, miestne predpisy, požiadavky na personál, predpisy 
+týkajúce sa údržby a platné normy 
+### Predpis ŽSR Z 1: 
+ článok 912 kde bolo uvedené, že vlak zastaví v stanici pred miestom ukončenia vlakovej cesty, resp. 
+na vopred určenom alebo označenom mieste;  
+ článok 913 kde bolo uvedené, že vlak zastavujúci pre výstup a nástup cestujúcich musí zastaviť pri ná-
+stupišti tak, aby podľa možností všetky vozne určené na ich prepravu stáli pri nástupišti; 
+ZCP č. 105, s. č. 90, vlak R 763 ZSSK bol v NŽST Krompachy vlakom pravidelne zastavujúcim 
+v pracovné dni. 
+### Predpis ZSSK V 2:  
+ článok 7, kde bolo uvedené, že všetky pridelené predpisy, ZCP a TTP musí mať včas opravené, 
+ článok 8, písmeno k), kde bolo uvedené, že rušňovodič musí mať v službe aktuálne ZCP a TTP k pri-
+deleným ZCP pre príslušnú trať, 
+ článok 19, písmeno q), kde bolo uvedené, že rušňovodič je povinný viesť vlak podľa údajov ZCP 
+a TTP. 
+### 4. Funkcie vozidiel a technických zariadení 
+a) Systém signalizácie, riadenia a zabezpečenia vlakov, vrátane automatického zariadenia na záznam 
+údajov 
+Chod vlaku bola zabezpečená v zmysle predpisu ŽSR Z 1, kapitola XXIII.   
+### b) Infraštruktúra 
+R 763 ZSSK prechádzal po koľaji, na ktorej boli vykonávané pravidelné prehliadky. Po incidente neboli 
+vzhľadom na jeho charakter zariadenia infraštruktúry prehliadnuté a premerané. Záznamové zariadenie 
+nebolo vybudované. 
+### c) Komunikačné vybavenie 
+Nezisťovalo sa.   
+### d) Vozidlá vrátane registrácie z automatického zariadenia na záznam údajov 
+
+## Página 6
+
+HKV 91 56 6 163 108-4 dopravcu ZSSK bolo vybavené elektronickým rýchlomerom MIREL RM1. Roz-
+borom dát rýchlomera bolo zistené: v čase o 05:57:20 h bol zaznamenaný odchod vlaku R 763 ZSSK zo 
+ŽST Spišská Nová Ves. Po odchode zo stanice a prejdení dráhy 11 137 metrov dosiahol vlak v čase 
+o 06:04:53 h maximálnu rýchlosť vo vyhodnocovanom úseku 110 km.h-1   a bola udržiavaná v rozmedzí 
+rýchlosti 110 – 100 km.h-1 na dráhe 8 045 metrov do času 06:15:34 h, kde došlo k zaznamenaniu zmeny 
+tlaku vzduchu v hlavnom potrubí na 4,3 bar a zníženiu rýchlosti na 28 km. Nato v čase o 06:16:30 h došlo 
+k zmene tlaku vzduchu v hlavnom potrubí na 4,8 bar a k zvýšeniu rýchlosti na 64 km. V čase o 06:16:31 h 
+došlo k zaznamenaniu ďalšieho zníženia tlaku vzduchu v hlavnom potrubí na hodnotu 4,8; 4,4; 4,2; 3,2 
+bar použitím záchrannej brzdy vo vozni. Vlak zastavil v čase o 06:16:45 h a celková brzdná dráha od za-
+registrovania prvého poklesu tlaku vzduchu až do úplného zastavenia predstavovala 170 metrov. V čase 
+o 06:25:53 h došlo k cúvaniu vlaku do stanice na dráhe 767 metrov 
+Obsluha tlačidla bdelosti bola vykonávaná v zmysle predpisu ZSSK V 8. V kontrolovanom úseku trate 
+nebola prekročená najvyššia dovolená rýchlosť vlaku. 
+HKV 91 56 6 163 108-4 malo platnú technickú kontrolu podľa Vyhlášky č. 351/2010 Z. z., vykonanú 
+04.11.2017. 
+### 5. Dokumentácia o systéme prevádzky 
+### a) Opatrenia prijaté personálom pri riadení dopravy a signalizácii 
+Neboli prijímané opatrenia na riadenie dopravy pre mimoriadnosti pred incidentom.   
+b) Výmena verbálnych správ v súvislosti s udalosťou, vrátane dokumentácie zo záznamov 
+Nebola zaznamenaná.  
+### c) Opatrenia prijaté na ochranu a zabezpečenie miesta incidentu  
+Miesto incidentu nebolo vzhľadom na charakter incidentu potrebné zabezpečiť. 
+### 6. Rozhranie človek – stroj (zariadenie) – organizácia 
+### a) Pracovný čas zúčastneného personálu 
+### Rušňovodič M.Č. v čase vzniku incidentu bol v zmene 11 hodín a 21 minút.  
+b) Zdravotné a osobné okolnosti, ktoré incident ovplyvnili, vrátane existencie fyzického alebo psychic-
+kého stresu 
+Rušňovodič M.Č sa podrobil vyšetreniu na zistenie prítomnosti alkoholu dychovou skúškou prístrojom 
+s výsledkom negatív príslušníkmi ŽP PZ Košice. 
+### c) Konštrukcia zariadení, ktoré majú vplyv na rozhranie človek – stroj 
+Neboli zistené žiadne okolnosti, ktoré by ovplyvnili udalosť. 
+### 7. Predchádzajúce udalosti podobného charakteru 
+Za posledných 12 mesiacov v NŽST Krompachy nebol podobný incident.    
+## IV. Analýzy a závery 
+1. Záverečný popis reťazca vývoja incidentu, vypracovanie záverov o incidente, založených na skutočnos-
+### tiach uvedených v bode III  
+a) Priame a bezprostredné príčiny incidentu, vrátane ovplyvňujúcich faktorov súvisiacich s konaním 
+zúčastnených osôb alebo so stavom vozidiel alebo technických zariadení 
+Vzniku incidentu spôsobil rušňovodič nevykonaním opravy ZCP č. 105) a nezastavením vlaku R 763 
+ZSSK v NŽST Krompachy na mieste určenom pre výstup a nástup cestujúcich, nepozornosť rušňovodiča. 
+### b) Príčiny súvisiace s odbornými znalosťami, postupmi a údržbou 
+Neboli zistené. 
+c) Hlavné príčiny súvisiace s podmienkami právneho rámca a systémom riadenia bezpečnosti 
+Neboli zistené. 
+### 2. Diskusia 
+Nebola. 
+### 3. Závery 
+Incident zapríčinilo nezastavenie s vlakom R 763 ZSSK  v NŽST Krompachy, v ktorej mal vlak zasta-
+venie určené ZCP. Takto bolo porušené ustanovenie predpisu ŽSR Z 1 článku 913 a predpisu ZSSK V 2 
+článku 19, písmeno q).   
+4. Zoznam opatrení vykonaných alebo prijatých na základe incidentu s určením zodpovednosti a termínov 
+odstránenia a ohlásenia splnenia uložených úloh 
+### a) Opatrenia prijaté oprávneným zamestnancom voči vinníkom 
+Tvoria prílohu tejto správy. 
+### b) Opatrenia prijaté oprávneným zamestnancom, aby sa incidenty neopakovali 
+Tvoria prílohu tejto správy. 
+
+## Página 7
+
+5. Nedostatky a opomenutia zistené počas zisťovania príčin vzniku incidentu, ktoré však nie sú dôležité na 
+určenie príčiny (vrátane prijatých opatrení) 
+Neboli zistené. 
+### V. Bezpečnostné odporúčania a závery:  
+a) Dopravný úrad, ako Národný bezpečnostný orgán, preskúma ako ZSSK a prípadne ďalší relevantní do-
+pravcovia zabezpečujú oboznámenie rušňovodičov a ostatných členov vlakového personálu so zmenami 
+zošitového cestovného poriadku a ostatných pomôcok grafikonu vlakovej dopravy a relevantných predpi-
+sov; ako sú vykonávané kontroly u rušňovodičov aj v tejto oblasti a koľko kontrol s akým výsledkom bolo 
+u ZSSK vykonaných v roku 2017  
+b) Ohlásenie  zistení ako aj prijaté opatrenia nahlásiť na MDV SR do 31.7.2018 
+c) Incident je predmetom objasňovania oddelenia ŽP PZ Košice.  
+Oboznamovať sa s osobnými údajmi uvedenými v „Správe“ môžu iba určené oprávnené osoby, ktoré sú povinné v 
+súlade so Zákonom NR SR č. 122/2013 Z. z. z 30. apríla 2013 o Ochrane osobných údajov a o zmene a doplnení 
+niektorých zákonov, dodržiavať ochranu osobných údajov. 
+Predkladá:  
+Ing. Mikuláš Sedlák  
+vyšetrovateľ MDV SR                                                          
+                                          Ing. Ján Farkaš  
+                                                                                                            generálny riaditeľ sekcie 
+### Rozdeľovník: 
+Železnice Slovenskej republiky 
+Klemensova 8 
+813 61 Bratislava 
+Železničná spoločnosť Slovensko, a.s. 
+Rožňavská 1 
+832 72  Bratislava 3 
+Dopravný úrad 
+Divízia dráh a dopravy na dráhach 
+Letisko M.R. Štefánika 
+823 05 Bratislava 
+
+## Página 8
+
+### Zoznam skratiek:   
+BŽD – bezpečnosť železničnej dopravy 
+EP – elektronická pošta 
+GR – Generálne riaditeľstvo 
+HIBŽD – hlavný inšpektor bezpečnosti železničnej dopravy 
+HKV – hnacie koľajové vozidlo  
+IBŽD – inšpektor bezpečnosti železničnej dopravy 
+JSB – jednoduchá skúška brzdy 
+KE - Košice 
+LP – lekárska prehliadka 
+MDV SR - Ministerstvo dopravy a výstavby Slovenskej republiky 
+NŽST – nesamostatná železničná stanica 
+OR – Oblastné riaditeľstvo 
+ORD – oddelenie riadenia dopravy 
+OS – odborná skúška 
+Os – osobný vlak 
+SZZ – staničné zabezpečovacie zariadenie 
+PP – Prevádzkový poriadok 
+R - rýchlik 
+SBI – Stredisko bezpečnosti a inšpekcie 
+SR – Slovenská republika 
+TTP – Tabuľky traťových pomerov 
+ÚS – Účelové stredisko  
+VKD – vedúci kontrolór dopravy 
+ZCP – Zošitový cestovný poriadok 
+Z. z. - Zbierka zákonov 
+ZZ – zabezpečovacie zariadenie 
+ŽP PZ – oddelenie železničnej polície Policajného zboru  
+ZSSK – Železničná spoločnosť Slovensko, a. s. 
+ŽSR – Železnice Slovenskej republiky 
+ŽST – železničná stanica  
+### Zoznam skratiek použitých právnych predpisov, noriem a interných predpisov:      
+Zákon č. 122/2013 Z. z. – Zákon NR SR č. 122/2013 Z. z. z 30. apríla 2013 o ochrane osobných údajov a o zmene a 
+doplnení niektorých zákonov, v platnom znení.  Zákon č. 8/2009 Z. z. –  Zákon NR SR č. 8/2009 Z. z. z 3. decembra 
+2008 o cestnej premávke a o zmene a doplnení niektorých zákonov, v platnom znení.  Zákon č. 513/2009 Z.z. – Zákon 
+NR SR č. 513/2009 z 28. októbra 2009 o dráhach a o zmene a doplnení niektorých zákonov, v platnom znení.   Zákon 
+č. 372/1990 Zb. – Zákon Slovenskej národnej rady č. 372/1990 z 28. augusta 1990 o priestupkoch, v platnom znení.  
+Vyhláška č. 351/2010 Z. z. – Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 
+351/2010 Z. z. z 19. augusta 2010 o dopravnom poriadku dráh, v platnom znení.  ŽSR Z 1 – predpis manažéra infra-
+štruktúry ŽSR Z 1 Pravidlá železničnej prevádzky – bezpečnostný predpis v železničnej doprave v Slovenskej repub-
+like, v platnom znení.   ŽSR Z 17 – predpis manažéra infraštruktúry ŽSR Z 17 Nehody a mimoriadne udalosti – bez-
+pečnostný predpis v železničnej doprave v Slovenskej republike, v platnom znení.  ŽSR Z 12 – predpis manažéra in-
+fraštruktúry ŽSR Z 12 Železničné priecestia a priechody, v platnom znení.

@@ -1,7 +1,34 @@
 # Países Bajos — índice de informes en castellano
 
-Fuente: ERA · 14 informes · 14 ficheros.
+Fuente: ERA · 21 informes · 21 ficheros.
 Fidelidad = revisión IA del castellano contra el original (0-100).
+
+## 2024 (3)
+
+| Informe | Págs | Caracteres | Verificación |
+|---|---|---|---|
+| [nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md](2024/nl-10606%20-%20intergo%20rapport%20'overweg%20hooge%20zwaluwe%20-%20expert%20beoordeling%20human%20factors'.md) | — | 66837 | ok |
+| [nl-10606 - overwegaanrijding hooge zwaluwe dt.md](2024/nl-10606%20-%20overwegaanrijding%20hooge%20zwaluwe%20dt.md) | — | 115520 | ok |
+| [nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md](2024/nl-10606%20-%20summary%20'level%20crossing%20collision%20hooge%20zwaluwe%20(the%20netherlands)'%20dt.md) | — | 9254 | ok |
+
+## 2023 (2)
+
+| Informe | Págs | Caracteres | Verificación |
+|---|---|---|---|
+| [NL-10405 - Final report_0.md](2023/NL-10405%20-%20Final%20report_0.md) | — | 474363 | revisar |
+| [NL-10405 - Interim statement_ investigation of railway accident at Voorschoten is ongoing.md](2023/NL-10405%20-%20Interim%20statement_%20investigation%20of%20railway%20accident%20at%20Voorschoten%20is%20ongoing.md) | — | 1517 | ok |
+
+## 2016 (1)
+
+| Informe | Págs | Caracteres | Verificación |
+|---|---|---|---|
+| [NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md](2016/NL%2023.02.2016%20d3090efc6a03rapport-botsing-dalfsen-en-interactief.md) | — | 260818 | ok |
+
+## 2015 (1)
+
+| Informe | Págs | Caracteres | Verificación |
+|---|---|---|---|
+| [NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md](2015/NL-4737%20-%20Eindrapport%20Treinbotsing%20Tilburg%20-%20ENG%20-%20DEF.md) | — | 248791 | ok |
 
 ## 2014 (2)
 

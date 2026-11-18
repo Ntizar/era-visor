@@ -1,0 +1,517 @@
+{
+ "md-es/SI/2009/Grosuplje_AN_FINAL-110309.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   12,
+   15,
+   20
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   8
+  ],
+  "terminos": [
+   "MTD-44 vs TMD-44: el original usa 'MTD-44' en el análisis técnico y 'TMD-44' en los testimonios; la traducción mantiene esta inconsistencia, pero no es un error de traducción.",
+   "draisine: el original usa 'draisine' entre paréntesis; la traducción usa 'dresina', que es la forma normalizada en castellano."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/Grosuplje_AN_FINAL-110309.md"
+ },
+ "md-es/SI/2008/Cesca_vas_Final_report_1_20082008.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Ilirska istrica traducido como Ilirska Bistrica",
+   "train dispatcher traducido como regulador de circulación en lugar de jefe de circulación",
+   "supervisory station traducido como estación de control en lugar de estación supervisora"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2008/Cesca_vas_Final_report_1_20082008.md"
+ },
+ "md-es/SI/2009/LASKO_AN-FINAL-150409.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 97.6,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   7
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/LASKO_AN-FINAL-150409.md"
+ },
+ "md-es/SI/2009/Preserje_Final_report_ANG-160109.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   8,
+   11,
+   13
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "DISPATCH traducido como EXPEDICIÓN; en contexto ferroviario sería más preciso ENVÍO o DESPACHO",
+   "conductor: se traduce literalmente como 'conductor' pero en este contexto ferroviario se refiere a una línea/canal de comunicación, no a una persona",
+   "subministro: forma no estándar en castellano, debería ser 'suministro'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/Preserje_Final_report_ANG-160109.md"
+ },
+ "md-es/SI/2009/Koncno_porocilo_nesrece_NPr_Se_Bl_1-lekt-OC-060409.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14
+  ],
+  "fidelidad_media": 100.0,
+  "fidelidad_min": 100,
+  "sin_dictamen": [
+   9,
+   11
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/Koncno_porocilo_nesrece_NPr_Se_Bl_1-lekt-OC-060409.md"
+ },
+ "md-es/SI/2009/SOLKAN_AN_FINAL-290309.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   7,
+   10,
+   13,
+   17
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/SOLKAN_AN_FINAL-290309.md"
+ },
+ "md-es/SI/2009/SMARTNO_AN_FINAL-120209.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 100.0,
+  "fidelidad_min": 100,
+  "sin_dictamen": [
+   10
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/SMARTNO_AN_FINAL-120209.md"
+ },
+ "md-es/SI/2009/Vnanje_Gorice-lekt-OC-050909.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 98.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2009/Vnanje_Gorice-lekt-OC-050909.md"
+ },
+ "md-es/SI/2010/Koncno_porocilo_NPr_Puconci_Ang-250210.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   12,
+   14
+  ],
+  "fidelidad_media": 98.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2010/Koncno_porocilo_NPr_Puconci_Ang-250210.md"
+ },
+ "md-es/SI/2010/Koncno_por_NPr_Mb_Studenci_lekt-OC-270110.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   5,
+   9,
+   13,
+   16,
+   20
+  ],
+  "fidelidad_media": 97.6,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   13
+  ],
+  "terminos": [
+   "3.4 'Operation of rolling stock, technical facilities and technical installations' traducido como 'Operación del material rodante, instalaciones técnicas e instalaciones técnicas' repite 'instalaciones técnicas' y omite la distinción entre 'technical facilities' e 'technical installations'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2010/Koncno_por_NPr_Mb_Studenci_lekt-OC-270110.md"
+ },
+ "md-es/SI/2018/si-10870 - final report, med postajama poljčane in slovenska bistrica, 23. 3. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10870 - final report, med postajama poljčane in slovenska bistrica, 23. 3. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10871 - final report, postaja celje, 18. 4. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10871 - final report, postaja celje, 18. 4. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10872 - final report, med postajama ljubljana vižmarje in ljubljana šiška, 15. 5. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10872 - final report, med postajama ljubljana vižmarje in ljubljana šiška, 15. 5. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10873 - final report, med postajama ljubljana in ljubljana zalog, 25. 5. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10873 - final report, med postajama ljubljana in ljubljana zalog, 25. 5. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10874 - final report, postaja ljubljana, 19. 7. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10874 - final report, postaja ljubljana, 19. 7. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10875 - final report, postaja kresnice, 14. 8. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10875 - final report, postaja kresnice, 14. 8. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10876 - final report, med postajama škofljica in ljubljana rakovnik, 16. 8. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10876 - final report, med postajama škofljica in ljubljana rakovnik, 16. 8. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10877 - final report, postaja sežana, 20. 9. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10877 - final report, postaja sežana, 20. 9. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10878 - final report, med postajama laško in celje, 23. 11. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10878 - final report, med postajama laško in celje, 23. 11. 2018_era.md"
+ },
+ "md-es/SI/2018/si-10879 - final report, postaja kresnice, 26. 11. 2018_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2018/si-10879 - final report, postaja kresnice, 26. 11. 2018_era.md"
+ },
+ "md-es/SI/2019/si-10880 - final report, med postajama ljubljana rakovnik in škofljica, 25. 5. 2019_era.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10880 - final report, med postajama ljubljana rakovnik in škofljica, 25. 5. 2019_era.md"
+ },
+ "md-es/SI/2019/si-10881 - final report - postaja hrastovlje, 25. 6. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10881 - final report - postaja hrastovlje, 25. 6. 2019.md"
+ },
+ "md-es/SI/2019/si-10882 - final report, med postajama ljubljana rakovnik in škofljica, 25. 7. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10882 - final report, med postajama ljubljana rakovnik in škofljica, 25. 7. 2019.md"
+ },
+ "md-es/SI/2019/si-10883 - final report, postaja rimske toplice, 6. 8. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10883 - final report, postaja rimske toplice, 6. 8. 2019.md"
+ },
+ "md-es/SI/2019/si-10884 - final report, postaja rimske toplice, 14. 8. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10884 - final report, postaja rimske toplice, 14. 8. 2019.md"
+ },
+ "md-es/SI/2019/si-10885 - final report, med postajama rakovnik in škofljica, 24. 9. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10885 - final report, med postajama rakovnik in škofljica, 24. 9. 2019.md"
+ },
+ "md-es/SI/2019/si-10886 - final report, postaja breg, 6. 11. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10886 - final report, postaja breg, 6. 11. 2019.md"
+ },
+ "md-es/SI/2019/si-10887 - final report, med postajama ljubljana vižmarje in ljubljana šiška, 10. 11. 2019.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2019/si-10887 - final report, med postajama ljubljana vižmarje in ljubljana šiška, 10. 11. 2019.md"
+ },
+ "md-es/SI/2020/si-10888 - final report, med postajo ljutomer in nakladališčem gornja radgona, 2. 3. 2020.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2020/si-10888 - final report, med postajo ljutomer in nakladališčem gornja radgona, 2. 3. 2020.md"
+ },
+ "md-es/SI/2020/si-10889 - final report, postaja divača, 31. 3. 2020.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2020/si-10889 - final report, postaja divača, 31. 3. 2020.md"
+ },
+ "md-es/SI/2020/si-10890 - final report, postaja ljubljana, 4. 6. 2020.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2020/si-10890 - final report, postaja ljubljana, 4. 6. 2020.md"
+ },
+ "md-es/SI/2020/si-10891 - final report, med postajo tržišče in nakladališčem mokronog, 3. 9. 2020.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2020/si-10891 - final report, med postajo tržišče in nakladališčem mokronog, 3. 9. 2020.md"
+ },
+ "md-es/SI/2021/si-10892 - final report, postaja dobova, 10. 1. 2021.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2021/si-10892 - final report, postaja dobova, 10. 1. 2021.md"
+ },
+ "md-es/SI/2021/si-10893 - final report, postaja maribor tezno, 12. 1. 2021.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2021/si-10893 - final report, postaja maribor tezno, 12. 1. 2021.md"
+ },
+ "md-es/SI/2021/si-10894 - final report, med postajama sevnica in blanca, 29. 3. 2021.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2021/si-10894 - final report, med postajama sevnica in blanca, 29. 3. 2021.md"
+ },
+ "md-es/SI/2021/si-10895 - final report, med postajama stranje in rogatec, 21. 12. 2021.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2021/si-10895 - final report, med postajama stranje in rogatec, 21. 12. 2021.md"
+ },
+ "md-es/SI/2023/si-10516 - final report, med postajama postojna in prestranek, 21. 12. 2023.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2023/si-10516 - final report, med postajama postojna in prestranek, 21. 12. 2023.md"
+ },
+ "md-es/SI/2023/si-10896 - final report, postaja zidani most, 7. 1. 2023_0.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2023/si-10896 - final report, postaja zidani most, 7. 1. 2023_0.md"
+ },
+ "md-es/SI/2010/VNANJE GORICE_raiway_accident_zadnja-100610.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 98,
+  "sin_dictamen": [
+   11
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SI/2010/VNANJE GORICE_raiway_accident_zadnja-100610.md"
+ }
+}

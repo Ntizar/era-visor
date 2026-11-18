@@ -1,0 +1,257 @@
+{
+ "md/NL/2003/report_goods_train_derailment_near_apeldoorn-300403.md": {
+  "fichero": "md/NL/2003/report_goods_train_derailment_near_apeldoorn-300403.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 105128,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 39019,
+  "tokens_out": 29536,
+  "destino": "md-es/NL/2003/report_goods_train_derailment_near_apeldoorn-300403.md"
+ },
+ "md/NL/2004/report_through_red_in_amsterdam-210504.md": {
+  "fichero": "md/NL/2004/report_through_red_in_amsterdam-210504.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 154129,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 72915,
+  "tokens_out": 42501,
+  "destino": "md-es/NL/2004/report_through_red_in_amsterdam-210504.md"
+ },
+ "md/NL/2005/Derailments Amsterdam-060605.md": {
+  "fichero": "md/NL/2005/Derailments Amsterdam-060605.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 160773,
+  "ratio": 1.08,
+  "avisos": [
+   "bloque 8: cifras largas: faltan 3/6 (50%)"
+  ],
+  "tokens_in": 50549,
+  "tokens_out": 36730,
+  "destino": "md-es/NL/2005/Derailments Amsterdam-060605.md"
+ },
+ "md/NL/2005/RapportAdam15-08-2005.md": {
+  "fichero": "md/NL/2005/RapportAdam15-08-2005.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 165927,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 50981,
+  "tokens_out": 38194,
+  "destino": "md-es/NL/2005/RapportAdam15-08-2005.md"
+ },
+ "md/NL/2006/Rapport_RandstadRail-261106.md": {
+  "fichero": "md/NL/2006/Rapport_RandstadRail-261106.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 681605,
+  "ratio": 1.1,
+  "avisos": [
+   "bloque 27: cifras largas: faltan 9/22 (41%)",
+   "bloque 35: cifras largas: faltan 8/27 (30%)",
+   "bloque 51: cifras largas: faltan 6/14 (43%)"
+  ],
+  "tokens_in": 214697,
+  "tokens_out": 161240,
+  "destino": "md-es/NL/2006/Rapport_RandstadRail-261106.md"
+ },
+ "md/NL/2006/Rapport_RR_totaal-261106.md": {
+  "fichero": "md/NL/2006/Rapport_RR_totaal-261106.md",
+  "estado": "revisar",
+  "idioma": "NL",
+  "chars": 721243,
+  "ratio": 1.06,
+  "avisos": [
+   "bloque 61: cifras largas: faltan 5/17 (29%)",
+   "bloque 105: cifras largas: faltan 3/11 (27%)",
+   "bloque 106: cifras largas: faltan 4/15 (27%)",
+   "bloque 110: cifras largas: faltan 6/13 (46%)"
+  ],
+  "tokens_in": 282764,
+  "tokens_out": 180871,
+  "destino": "md-es/NL/2006/Rapport_RR_totaal-261106.md"
+ },
+ "md/NL/2008/OVV-Rapport-Muiderpoort-221108.md": {
+  "fichero": "md/NL/2008/OVV-Rapport-Muiderpoort-221108.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 254638,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 78741,
+  "tokens_out": 60337,
+  "destino": "md-es/NL/2008/OVV-Rapport-Muiderpoort-221108.md"
+ },
+ "md/NL/2009/rapport_Treinongeluk_Barendrecht_EN-240909.md": {
+  "fichero": "md/NL/2009/rapport_Treinongeluk_Barendrecht_EN-240909.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 359878,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 37: cifras largas: faltan 1/2 (50%)",
+   "bloque 54: cifras largas: faltan 2/7 (29%)"
+  ],
+  "tokens_in": 123380,
+  "tokens_out": 88709,
+  "destino": "md-es/NL/2009/rapport_Treinongeluk_Barendrecht_EN-240909.md"
+ },
+ "md/NL/2009/rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md": {
+  "fichero": "md/NL/2009/rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 357790,
+  "ratio": 1.06,
+  "avisos": [
+   "bloque 53: cifras largas: faltan 4/8 (50%)"
+  ],
+  "tokens_in": 121045,
+  "tokens_out": 86463,
+  "destino": "md-es/NL/2009/rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md"
+ },
+ "md/NL/2010/NL 20.02.2010 Rapport_metrobotsing.md": {
+  "fichero": "md/NL/2010/NL 20.02.2010 Rapport_metrobotsing.md",
+  "estado": "revisar",
+  "idioma": "NL",
+  "chars": 233868,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 2/5 (40%)",
+   "bloque 18: cifras largas: faltan 7/24 (29%)"
+  ],
+  "tokens_in": 93973,
+  "tokens_out": 57825,
+  "destino": "md-es/NL/2010/NL 20.02.2010 Rapport_metrobotsing.md"
+ },
+ "md/NL/2012/Rapport_Treinbotsing_Maasvlakte___eindversie___EN-130412.md": {
+  "fichero": "md/NL/2012/Rapport_Treinbotsing_Maasvlakte___eindversie___EN-130412.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 23670,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 6804,
+  "tokens_out": 5329,
+  "destino": "md-es/NL/2012/Rapport_Treinbotsing_Maasvlakte___eindversie___EN-130412.md"
+ },
+ "md/NL/2010/UK_Eindrapport_Stavoren-250710.md": {
+  "fichero": "md/NL/2010/UK_Eindrapport_Stavoren-250710.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 278138,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 83513,
+  "tokens_out": 62248,
+  "destino": "md-es/NL/2010/UK_Eindrapport_Stavoren-250710.md"
+ },
+ "md/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md": {
+  "fichero": "md/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 19408,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 7151,
+  "tokens_out": 10336,
+  "destino": "md-es/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md"
+ },
+ "md/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md": {
+  "fichero": "md/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 248268,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 79073,
+  "tokens_out": 62276,
+  "destino": "md-es/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md"
+ },
+ "md/NL/2015/NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md": {
+  "fichero": "md/NL/2015/NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 248791,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 84277,
+  "tokens_out": 66136,
+  "destino": "md-es/NL/2015/NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md"
+ },
+ "md/NL/2016/NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md": {
+  "fichero": "md/NL/2016/NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 260818,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 80043,
+  "tokens_out": 64153,
+  "destino": "md-es/NL/2016/NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md"
+ },
+ "md/NL/2023/NL-10405 - Interim statement_ investigation of railway accident at Voorschoten is ongoing.md": {
+  "fichero": "md/NL/2023/NL-10405 - Interim statement_ investigation of railway accident at Voorschoten is ongoing.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 1517,
+  "ratio": 1.22,
+  "avisos": [],
+  "tokens_in": 849,
+  "tokens_out": 384,
+  "destino": "md-es/NL/2023/NL-10405 - Interim statement_ investigation of railway accident at Voorschoten is ongoing.md"
+ },
+ "md/NL/2024/nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md": {
+  "fichero": "md/NL/2024/nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 66837,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 24222,
+  "tokens_out": 16661,
+  "destino": "md-es/NL/2024/nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md"
+ },
+ "md/NL/2024/nl-10606 - overwegaanrijding hooge zwaluwe dt.md": {
+  "fichero": "md/NL/2024/nl-10606 - overwegaanrijding hooge zwaluwe dt.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 115520,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 44706,
+  "tokens_out": 29590,
+  "destino": "md-es/NL/2024/nl-10606 - overwegaanrijding hooge zwaluwe dt.md"
+ },
+ "md/NL/2024/nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md": {
+  "fichero": "md/NL/2024/nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 9254,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 2915,
+  "tokens_out": 2130,
+  "destino": "md-es/NL/2024/nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md"
+ },
+ "md/NL/2023/NL-10405 - Final report_0.md": {
+  "fichero": "md/NL/2023/NL-10405 - Final report_0.md",
+  "estado": "revisar",
+  "idioma": "NL",
+  "chars": 474363,
+  "ratio": 1.09,
+  "avisos": [
+   "bloque 1: ratio 0.74",
+   "bloque 29: cifras largas: faltan 4/10 (40%)",
+   "bloque 32: cifras largas: faltan 5/20 (25%)",
+   "bloque 36: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 203182,
+  "tokens_out": 136785,
+  "destino": "md-es/NL/2023/NL-10405 - Final report_0.md"
+ }
+}

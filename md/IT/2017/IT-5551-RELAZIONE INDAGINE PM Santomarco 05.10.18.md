@@ -1,0 +1,5413 @@
+---
+pais: IT
+anio: 2017
+idioma: IT
+pdf: IT-5551-RELAZIONE INDAGINE PM Santomarco 05.10.18.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/IT-5551-RELAZIONE%20INDAGINE%20PM%20Santomarco%2005.10.18.pdf
+md5_pdf: 70c51e157bced062416e9ef0e44d66f2
+paginas: 124
+chars: 290896
+tablas: 25
+cuerpo: "12.0pt; encabezados 3 niveles"
+rotulos_excluidos: "263 (#, #.#.# svio treno #, linea paola – castiglione cosentino)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 3
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Ministero delle Infrastrutture e dei Trasporti 
+   DIREZIONE GENERALE PER LE INVESTIGAZIONI FERROVIARIE E MARITTIME       
+RELAZIONE DI INDAGINE 
+SULLO SVIO DEL TRENO 3742 DEL 06.12.2017  
+SULLA TRATTA P.M. SANTOMARCO – BIVIO PANTANI 
+DELLA LINEA PAOLA – CASTIGLIONE COSENTINO  
+05 ottobre 2018 
+
+## Página 2
+
+## Premessa 
+La presente relazione di indagine ha come obiettivo la prevenzione di incidenti e inconvenienti 
+futuri, individuando le cause tecniche che hanno generato l’evento e formulando raccomandazioni 
+agli operatori del settore. Essa non attribuisce colpe o responsabilità per quanto accaduto ed è 
+condotta in modo indipendente dall’inchiesta dell’Autorità Giudiziaria. La relazione non può essere 
+utilizzata per attribuire colpe o responsabilità. 
+
+## Página 3
+
+## Indice 
+1. Sintesi ............................................................................................................................................... 6 
+1.1. Breve descrizione dell’evento ................................................................................................... 6 
+1.2. Sintesi delle Raccomandazioni principali ................................................................................. 6 
+2. Fatti in immediata relazione all'evento ........................................................................................... 6 
+2.1. Evento ....................................................................................................................................... 6 
+2.1.1. Descrizione degli eventi e del sito dell'incidente ............................................................... 6 
+2.1.2. Decisione di aprire l’indagine, composizione della squadra investigativa e svolgimento 
+della stessa ................................................................................................................................... 8 
+2.2. Circostanze dell'evento ............................................................................................................. 8 
+2.2.1. Personale coinvolto............................................................................................................ 8 
+2.2.2. Treno e relativa composizione ........................................................................................... 8 
+2.2.3. Infrastruttura e sistema di segnalamento ........................................................................... 9 
+2.2.4. Lavori svolti presso il sito dell’evento ............................................................................. 14 
+2.2.5. Attivazione del piano di emergenza ferroviaria, dei servizi pubblici di soccorso, della 
+polizia, dei servizi sanitari e relativa catena di eventi .............................................................. 16 
+2.3. Decessi, lesioni, danni materiali ............................................................................................. 19 
+2.3.1. Passeggeri e terzi, personale ........................................................................................... 19 
+2.3.2. Materiale rotabile e infrastruttura ................................................................................... 20 
+2.4. Circostanze esterne ................................................................................................................. 20 
+3. Resoconto dell'indagine ................................................................................................................. 20 
+3.1. Sintesi delle testimonianze (nel rispetto della tutela dell'identità dei soggetti interessati) ..... 20 
+3.1.1. Agente di Condotta........................................................................................................... 20 
+3.1.2. Agente di Scorta ............................................................................................................... 20 
+3.1.3. DCO ................................................................................................................................. 21 
+3.1.4. Altro personale di Trenitalia intervenuto per il recupero dei viaggiatori ....................... 22 
+3.1.5. Responsabile del Carro Soccorso .................................................................................... 22 
+3.1.6. Personale addetto alla manutenzione dell’infrastruttura ................................................ 22 
+3.1.7. Altro personale ................................................................................................................. 23 
+3.2. Sistema di gestione della sicurezza ......................................................................................... 23 
+3.2.1. Quadro organizzativo e modalità di assegnazione ed esecuzione degli incarichi .......... 23 
+3.2.2. Requisiti relativi al personale e garanzia della loro applicazione .................................. 28 
+3.2.3. Modalità dei controlli e delle verifiche interni e loro risultati ........................................ 30 
+3.2.4. Interfaccia fra i diversi soggetti operanti sull'infrastruttura ........................................... 30 
+3.3. Norme e regolamenti ............................................................................................................... 31 
+3.3.1. Norme pertinenti e regolamenti comunitari e nazionali .................................................. 31 
+3.3.2. Altre norme (norme di esercizio, istruzioni locali, requisiti per il personale, prescrizioni 
+in materia di manutenzione e standard applicabili) .................................................................. 32 
+3.3.2.1. Gestore dell’infrastruttura ......................................................................................... 33 
+3.3.2.2. Impresa ferroviaria .................................................................................................... 70 
+3.4. Funzionamento del materiale rotabile e degli impianti tecnici ............................................... 71 
+3.4.1. Sistema di segnalamento e comando-controllo, registrazione da parte di apparecchi 
+automatici di registrazione ........................................................................................................ 71 
+3.4.2. Infrastruttura .................................................................................................................... 71 
+3.4.2.1. Controlli periodici sull’infrastruttura ........................................................................ 71 
+3.4.2.2. Controlli sull’infrastruttura a seguito dell’avviso di anormalità del 05.12.2017 ...... 84 
+3.4.2.3. Controlli sull’infrastruttura a seguito dell’incidente ................................................. 86 
+3.4.3. Apparecchiature di comunicazione .................................................................................. 97 
+3.4.4. Materiale rotabile, registrazione da parte di apparecchi automatici di registrazione ... 97 
+
+## Página 4
+
+3.4.4.1. Controlli periodici sul materiale rotabile .................................................................. 97 
+3.4.4.2. Controlli sul materiale rotabile a seguito dello svio ............................................... 105 
+3.5. Documentazione del sistema di esercizio ............................................................................. 109 
+3.5.1. Provvedimenti adottati dal personale per il controllo del traffico ed il segnalamento
+ .............................................................................................................................................. 109 
+3.5.2. Scambio di messaggi verbali in relazione all'evento ................................................. 109 
+3.5.3. Provvedimenti adottati a tutela e salvaguardia del sito dell'evento .......................... 110 
+3.6. Interfaccia uomo-macchina-organizzazione ......................................................................... 110 
+3.6.1. Tempo lavorativo del personale coinvolto ................................................................. 110 
+3.6.2. Circostanze personali e mediche che possono aver influenzato l'evento incidentale 111 
+3.6.3. Architettura degli impianti aventi un'incidenza sull'interfaccia uomo-macchina ..... 111 
+3.7. Eventi precedenti dello stesso tipo ........................................................................................ 111 
+4. Analisi e conclusioni .................................................................................................................... 111 
+4.1. Resoconto finale della catena di eventi ................................................................................. 111 
+4.2. Discussione ........................................................................................................................... 111 
+4.2.1. Analisi riguardanti la causa diretta dell’incidente ........................................................ 111 
+4.2.2. Analisi riguardanti le cause indirette dell’incidente ..................................................... 112 
+4.2.3. Analisi riguardanti le cause a monte dell’incidente ...................................................... 115 
+4.3. Conclusioni ........................................................................................................................... 118 
+4.4. Osservazioni aggiuntive ........................................................................................................ 119 
+5. Provvedimenti adottati ................................................................................................................. 119 
+6. Raccomandazioni ......................................................................................................................... 123 
+
+## Página 5
+
+## Sigle e Acronimi 
+AMPC  
+Asset Management Pianificazione e Controllo 
+ANSF   
+Agenzia Nazionale per la Sicurezza delle Ferrovie 
+CAP   
+Calcestruzzo Armato Precompresso 
+CdL   
+Centro di Lavoro 
+CTC  
+Controllo Traffico Centralizzato 
+CUM  
+Capo Unità Manutentiva 
+DCO  
+Dirigente Centrale Operativo 
+DIS 
+Data Information System 
+DIT 
+Direzione Ingegneria e Tecnologie 
+DM 
+Dirigente Movimento 
+DPR  
+Direzione Produzione 
+DTP 
+Direzione Territoriale Produzione 
+IS 
+Impianti di Sicurezza e Segnalamento 
+LRS 
+Lunga Rotaia Saldata 
+MdO  
+Mezzo d’Opera 
+MO 
+Manutenzione Ordinaria 
+NTW  
+Network 
+OA 
+Opere d’Arte 
+OdL   
+Ordine di Lavoro 
+PdC   
+Personale di Condotta 
+PdM  
+Personale di Macchina 
+PM 
+Posto Movimento 
+RCdL LAV  Responsabile CdL Lavori 
+RCF 
+Regolamento per la Circolazione Ferroviaria 
+RDIA  
+Responsabile Diagnostica - SO Servizi per i Rotabili e la Diagnostica 
+RTM  
+Reparto Territoriale Movimento 
+RUT  
+Responsabile Unità Territoriale 
+SCC-M 
+Sistema di Comando e Controllo Multistazione 
+SCMT  
+Sistema di Controllo della Marcia del Treno 
+smt 
+Senso Marcia Treno 
+SO 
+Struttura Organizzativa 
+SRM  
+Soggetto Responsabile della Manutenzione 
+TE  
+Trazione Elettrica 
+UM 
+Unità Manutentiva 
+UO 
+Unità Operativa 
+UT  
+Unità Territoriali 
+VVF  
+Vigili del Fuoco 
+ZTE 
+Zona Tachigrafica Elettronica 
+
+## Página 6
+
+## 1. Sintesi 
+### 1.1. Breve descrizione dell’evento 
+Il giorno 06 dicembre 2017, alle ore 09:56, il treno regionale 3742, composto da carrozza 
+semipilota, due carrozze rimorchiate e locomotore in spinta, partito Cosenza e diretto a Paola, è 
+deragliato durante la marcia all’interno della galleria Santomarco, al km 5+710 circa.  
+Al momento dello svio viaggiavano sul treno circa 120 passeggeri. 
+In corrispondenza del punto di svio è stata rilevata la rottura della rotaia sinistra smt, causa 
+diretta dell’evento. 
+Le cause indirette sono ascrivibili all’inefficacia delle visite in linea e delle azioni intraprese a 
+seguito delle stesse, che non hanno consentito di rilevare l’innesco e l’evoluzione del degrado del 
+binario e di programmare per tempo le azioni correttive, all’errata gestione di una segnalazione di 
+anomalia da parte di un treno precedente, all’assenza di programmazione di interventi di 
+manutenzione risolutivi dei difetti riscontrati nella galleria nel corso delle visite programmate e 
+all’insufficiente coinvolgimento di differenti livelli di responsabilità a seguito del rilevamento di 
+particolari condizioni del binario da parte del personale addetto alla manutenzione della linea. 
+### 1.2. Sintesi delle Raccomandazioni principali  
+Considerate le cause che hanno determinato il verificarsi dell’evento, si è ritenuto di indirizzare 
+alcune raccomandazioni all’Agenzia Nazionale per la Sicurezza delle Ferrovie.  
+Le raccomandazioni riguardano: 
+– la necessità che i gestori dell’infrastruttura mettano in atto attività formative dedicate 
+all’identificazione dei difetti del binario per il personale deputato alle visite in linea e 
+verifichino, in tale ambito, la corretta esecuzione dei compiti da parte del personale; 
+– la necessità che le imprese ferroviarie incrementino le attività formative dedicate al 
+personale di condotta in merito alle prescrizioni del Regolamento per la Circolazione 
+Ferroviaria di ANSF; 
+– la necessità che il gestore dell’infrastruttura aggiorni alcune delle procedure utilizzate 
+per la manutenzione dell’armamento; 
+– la necessità che il gestore dell’infrastruttura renda coerente i propri regolamenti con 
+quanto previsto dal Regolamento per la Circolazione Ferroviaria di ANSF in merito ai 
+destinatari delle comunicazioni inerenti anormalità riscontrate in linea da parte del 
+personale di condotta. 
+## 2. Fatti in immediata relazione all'evento 
+### 2.1. Evento 
+2.1.1. Descrizione degli eventi e del sito dell'incidente 
+Il giorno 06 dicembre 2017, alle ore 09:56, il treno regionale n. 3742 di Trenitalia SpA, 
+composto da due carrozze tipo UIC-X Interregionale, carrozza semipilota tipo UIC-X Interregionale 
+in testa treno e locomotore E464 314 in spinta, proveniente da Cosenza e diretto a Paola, in transito 
+alla velocità di 124 km/h sulla linea Castiglione Cosentino - Paola, nella tratta PM Santomarco – 
+Bivio Pantani,  all’interno della galleria Santomarco, è deragliato in corrispondenza della 
+progressiva km 5+710 circa, arrestandosi all’interno della galleria con la testa del treno alla 
+progressiva km 4+900, dopo circa 810 m dal punto di svio (Figura 1).  
+
+## Página 7
+
+Figura 1 - Schema tratta evento (fonte: RFI SpA) 
+I primi segni dello svio sull’armamento sono stati individuati proprio in corrispondenza del km 
+5+710, dove è stata riscontrata la rottura in più parti della rotaia sinistra senso marcia treno che ha 
+comportato il distacco di una campata di rotaia di lunghezza complessiva pari a circa 2,5 m. 
+A partire dal punto di svio e fino al punto di arresto del convoglio, le traverse e le canalizzazioni 
+di servizio sono risultate danneggiate (Figura 2).  
+Figura 2 – Sito dell’evento 
+A seguito dell’evento il convoglio ha assunto la seguente posizione statica: 
+- 
+carrozza semipilota 50838987529.6 (testa treno): primo carrello smt sviato, ruote sinistre 
+smt ubicate a circa 1 m dalla rotaia sinistra smt, all’esterno del binario e ruote destre smt 
+all’interno delle rotaie; 
+
+## Página 8
+
+- 
+carrozza 50832178904.4 (seconda smt): seconda sala montata smt sviata sul lato sinistro 
+del binario, con la ruota sinistra ubicata a circa 15 cm dalla rotaia sinistra; 
+- 
+carrozza 50832178833.5 (terza smt): seconda sala montata smt sviata esternamente al 
+binario sul lato sinistro, distante circa 15 cm dalla rotaia sinistra. 
+- 
+locomotore E464 314 (in spinta): tutte le sale montate sono rimaste sui binari. 
+A seguito dello svio, le fiancate dei veicoli non sono entrate in contatto con i piedritti della 
+galleria. Il carrello della carrozza semipilota, sviato, ha danneggiato il sentiero pedonale posto sulla 
+sinistra rispetto al senso di marcia del treno. 
+Sul luogo dell’inconveniente è intervenuto personale di RFI e Trenitalia, dei Vigili del Fuoco, 
+della Polizia Ferroviaria e dei servizi sanitari di soccorso. 
+2.1.2. Decisione di aprire l’indagine, composizione della squadra investigativa e svolgimento della 
+stessa 
+A seguito del verificarsi dell’incidente, con nota prot. 3823 del 15.12.2017 cui è seguito Decreto 
+prot. n. 3827/2017 del 18.12.2017, la Direzione Generale per le Investigazioni Ferroviarie e 
+Marittime del Ministero delle Infrastrutture e dei Trasporti ha nominato investigatore incaricato il 
+sottoscritto ing. Giuseppe De Marco. 
+L’investigatore incaricato ha ricevuto il mandato di accertare le cause dell’incidente, svolgendo 
+le proprie attività investigative sulla base delle norme vigenti ed in particolare del Decreto 
+Legislativo 10 agosto 2007, n°162.  
+L’investigazione non mira in alcun caso a stabilire colpe o responsabilità. 
+Il mandato è stato eseguito mediante analisi documentale e sopralluoghi sul sito dell’evento e 
+nelle aree ferroviarie ove è stato garato il materiale rotabile posto sotto sequestro.   
+Ai sensi dell’art. 21, comma 2, del decreto legislativo 10 agosto 2007, n. 162, al fine di acquisire 
+pareri, opinioni ed osservazioni sull'indagine, in data 02.10.2018 sono stati incontrati i 
+rappresentanti dell’Agenzia Nazionale per la Sicurezza delle Ferrovie, di Rete Ferroviaria Italiana 
+SpA e di Trenitalia SpA. 
+### 2.2. Circostanze dell'evento 
+2.2.1. Personale coinvolto 
+Sul treno 3742 viaggiavano l’Agente di Condotta e l’Agente di Scorta di Trenitalia SpA. 
+Presso il DCO/CTC 2^ sezione di Reggio Calabria, era in servizio il DCO. 
+2.2.2. Treno e relativa composizione 
+Il treno 3742, partito da Cosenza e diretto a Paola, in data 06.12.2017 era composto da: 
+- 
+carrozza semipilota 50838987529.6 (testa treno); 
+- 
+carrozza 50832178904.4 (seconda smt); 
+- 
+carrozza 50832178833.5 (terza smt); 
+- 
+locomotore E464 314 (in spinta). 
+Il convoglio aveva le seguenti caratteristiche: 
+- 
+lunghezza treno 100 m; 
+- 
+percentuale massa frenata 124%; 
+- 
+massa rimorchiata 148 t; 
+- 
+velocità massima rispetto ai veicoli in composizione 160 km/h; 
+- 
+rispetto ai veicoli in composizione valevoli i limiti di velocità per il rango B; 
+
+## Página 9
+
+- 
+rispetto alla locomotiva E464 velocità massima 160 km/h rango B; 
+- 
+apparecchiatura di sicurezza SCMT; 
+- 
+registrazione eventi di condotta DIS.  
+ I veicoli in composizione al treno sono di proprietà di Trenitalia SpA che al contempo ne è 
+anche SRM. 
+Dalla scheda treno (Figura 3) si desume che la velocità massima ammessa per il treno nella tratta 
+ove è avvenuto lo svio era di 125 km/h e la linea presenta il IV grado di frenatura. 
+Figura 3 - Scheda treno 3742 
+Al treno non era stata prescritta alcuna riduzione di velocità rispetto a quanto indicato nella 
+scheda treno. 
+Le prescrizioni tecniche ricevute dal treno nella stazione di origine sono le seguenti (Mod. M40 
+n°50): 
+Si ordina/dà avviso al macchinista e al capotreno dei treni 3742/3749 del 06/12/2017 
+1) Velocità massima 160 Km/h rispetto veicoli in composizione 
+2) Viaggiate con freno continuo tipo Viaggiatori 
+3) Massa frenata esistente 124% 
+4) Massa rimorchiata 148 ton. 
+5) Rispetto veicoli in composizione, valgono i limiti di velocità per il rango B 
+6) Lunghezza del treno mt 100 
+7) Vostro treno composto da materiale Media Distanza 
+2.2.3. Infrastruttura e sistema di segnalamento 
+Il treno, partito da Cosenza alle ore 9.38 del 06.12.2017, ha percorso l’itinerario Cosenza, 
+Castiglione Cosentino, Bivio Settimo, PM Santomarco (dove è transitato con 4 minuti di ritardo 
+rispetto all’orario tabellare) e procedeva verso Paola. 
+
+## Página 10
+
+L’evento ha avuto luogo sulla tratta PM Santomarco – Bivio Pantani, all’interno della galleria 
+Santomarco.  
+La linea è elettrificata con trazione elettrica a 3 kV cc, a semplice binario, attrezzata con blocco 
+conta assi e sistema SCMT e l’esercizio è operato con CTC/DCO (DCO con sede a Reggio 
+Calabria). 
+La velocità massima consentita dalla linea nella galleria Santomarco per i treni pari è di 140 
+km/h in rango A e 150 km/h in rango B con grado di frenatura IV (Figura 7). 
+In corrispondenza del km 5+710, dove si è verificato lo svio del convoglio, il binario è in 
+rettilineo, la massicciata è costituita da pietrisco tenace di 1° categoria, le rotaie sono del tipo aventi 
+profilo 60E1, qualità dell’acciaio R260 (non legato Carbonio-Manganese (C-Mn) non trattato 
+termicamente),  anno di produzione 2009, produttore Lucchini (Figura 5), le traverse sono del tipo 
+RFI 230 e gli attacchi di tipo elastico (Figura 4).  
+Figura 4 - Armamento della tratta 
+Figura 5 - Marcatura rotaia in prossimità del punto di svio 
+
+## Página 11
+
+Sulla linea Paola – Castiglione Cosentino è attivo il sistema GSM-R ed è ammesso lo scambio di 
+comunicazioni verbali registrate fra il regolatore della circolazione e l’agente di condotta. 
+La Sala Operativa Territoriale di competenza è quella di Reggio Calabria. 
+Figura 6 – Schema unifilare della linea Castiglione C. - Paola (senso treni pari) 
+(fonte: Fascicolo Linea 143, RFI) 
+Figura 7 - Fiancata di Linea della linea Castiglione C. – Paola (senso treni pari)  
+(fonte: Fascicolo Linea 143, RFI) 
+
+## Página 12
+
+Figura 8 - Fiancata Principale della linea Castiglione C. – Paola (senso treni pari)  
+(fonte: Fascicolo Linea 143, RFI) 
+Figura 9 – Sigle complementari linea Castiglione C. – Paola (senso treni pari) 
+(fonte: Fascicolo Linea 143, RFI) 
+Figura 10 – Sigle di composizione complementari – accesso alle sigle 
+(fonte: Fascicolo Linea 143, RFI) 
+L’evento si è verificato all’interno della galleria Santomarco, le cui caratteristiche sono nel 
+seguito riportate: 
+
+## Página 13
+
+- 
+estesa: 15.333 m dal km 1+679 (lato Paola) e dal km 0+514 (lato S.Lucido) al km17+012 
+(lato B. Settimo) della linea Paola – Castiglione; S. Lucido – Castiglione; B. Settimo- Sibari. 
+Al km 9+180 esiste PM Santomarco. 
+- 
+Tipologia: monotubo senza tunnel di servizio 
+- 
+Accessi: esistono tre imbocchi – lato Paola esiste cancello di accesso alla piazzola di 
+emergenza largo 4,60 m la chiave è custodita dal CUM Lavori di Paola, la piazzola di 
+emergenza ha una superficie di m2 260 e la strada di accesso è larga  3,70 m. Lato S. Lucido 
+esiste cancello di accesso alla piazzola di emergenza largo 70 cm la chiave è custodita dal 
+CUM Lavori di Paola, la piazzola di emergenza ha una superficie di 660 m2 e la strada di 
+accesso è larga 6,80 m. Lato Bivio Settimo esiste cancello di accesso alla piazzola di 
+emergenza largo 5 m la chiave è custodita dal CUM Lavori di Cosenza, la piazzola di 
+emergenza ha una superficie di 300 m2 e la strada di accesso è larga 4 m. 
+- 
+ Nicchie, nicchioni e cameroni: 
+numero nicchie: n. 453 ogni 30 m lato Paola e n. 18 nella bretella lato S.Lucido 
+numero nicchioni: n. 40 lato Paola e n. 1 nella bretella lato S.Lucido 
+numero cameroni: n 10 lato Paola e n. 1 nella bretella lato S.Lucido 
+- 
+Vie di esodo: Sentiero pedonale larghezza minime banchine 0,50 m lato destro 
+- 
+Finestre: n.n. 
+- 
+Pozzi di ventilazione: n.1 pozzo di areazione denominato “Pozzo S. Sisto” al km 13+221. 
+- 
+Illuminazione: presente 
+- 
+Illuminazione di emergenza: non presente 
+- 
+Impianto idrico antincendio: non presente 
+- 
+Impianti di comunicazione Galleria Santomarco: 
+- in galleria Bivio Pantani al Km 2+096 
+- in galleria al km 2+250 
+- in galleria al km 2+880 
+- in galleria al km 3+480 
+- in galleria al km 4+080 
+- in galleria al km 4+680 
+- in galleria al km 5+280 
+- in galleria al km 5+880 
+- in galleria al km 6+680 
+- in galleria al km 7+080 
+- in galleria al km 7+680 
+- in galleria al km 8+280 
+- in galleria al km 8+500 
+- in galleria al km 8+880 
+- in galleria al km 9+020 
+- in galleria PM Santomarco al km 9+180 
+- in galleria al km 9+480 
+- in galleria al km 9+800 
+- in galleria al km 10+120 
+- in galleria al km 10+320 
+- in galleria al km 10+720 
+- in galleria al km 11+320 
+- in galleria al km 11+920 
+- in galleria al km 12+520 
+- in galleria al km 13+120 
+- in galleria al km 13+720 
+- in galleria al km 14+320 
+- in galleria al km 14+920 
+
+## Página 14
+
+- in galleria al km 15+310 
+- in galleria al km 16+120 
+- in galleria al km 16+720 
+- imbocco galleria lato Castiglione al km 17+880 
+- 
+Telefoni cellulari gruppo chiuso FS a 900 MHz accessibili tramite cavo fessurato. 
+- 
+Sistema di comunicazione di emergenza: NN 
+- 
+Impianto idrico antincendio: NN 
+- 
+Impianti ed attrezzature di soccorso: NN 
+- 
+Segnaletica di Sicurezza: NN 
+- 
+Mezzo Bimodale VVF (Sede VVF di dislocazione):NN 
+- 
+Mezzi RFI: MdO del CUM TE e del CUM Lavori. 
+- 
+Mezzi Trenitalia: Locomotiva e carro soccorso disponibili H24 a Paola (vedi FL 141 
+Sezione 15). 
+- 
+Responsabile della Galleria: Resp. U.T. Nord Paola 
+- 
+Responsabile Sicurezza Galleria U.T. Nord Paola 
+2.2.4. Lavori svolti presso il sito dell’evento 
+Nella tratta in esame, al momento dell’evento, non erano in atto lavorazioni al binario né ad altre 
+parti dell’infrastruttura. Negli anni la tratta è stata oggetto degli interventi di seguito riportati. 
+Anno 2003 
+Esecuzione dei lavori di rinnovamento con risanamento della massicciata del binario di corsa in 
+corrispondenza della Galleria Santomarco sulla linea Paola - Cosenza, compresa la fornitura di parte 
+delle traverse in c.a.p. complete e di tutti gli organi di attacco di 2° impiego, di abbassamento del 
+piano di piattaforma con scudatura di un tratto del binario stesso e di rinnovamento con risanamento 
+dei deviatoi del Bivio Pantani e del Posto di Movimento Santomarco. 
+Descrizione interventi realizzati: 
+Rinnovamento con risanamento della massicciata del binario di corsa in galleria “Santomarco” 
+fra il km 1+679 ed il km 17+012 per un’estesa complessiva di circa 15.333 m. Abbassamento del 
+piano di piattaforma, mediante scavo in roccia e scudatura del tratto compreso fra il km 2+210 ed il 
+km 3+617 per un’estesa complessiva di 1.407 m. 
+Varo di n. 1 deviatoio S 60U/1200/0.0400 e di n. 4 deviatoi S60U/400/0.074 
+Importo € 6.270.000,00. 
+Anno 2007 
+Esecuzione dei lavori per il ripristino definitivo delle infrastrutture mediante sostituzione totale 
+delle traverse in c.a.p. dal km 9+800 al km 2+000 della linea Paola - Cosenza. 
+Descrizione interventi: 
+Sostituzione totale delle traverse in c.a.p. ambito PM Santomarco tra i km 9+012 e il km 9+800, 
+tra i km 9+000 e il km 3+300 e tra i km 3+000 e il km 2+000 
+Importo € 2.830.168,76. 
+Anno 2009 
+Urgenti lavori di sostituzione rotaie con altre dello stesso tipo in tratte varie binario unico della 
+galleria Santomarco dal km 4+259 al km 6+489 e dal km 10+204 al km 10+276 della linea Paola - 
+Cosenza, in ambito U.T. Nord di Sapri. 
+Importo € 90.000,00. 
+
+## Página 15
+
+Anno 2010 
+Linea Paola - Cosenza: Urgenti lavori di sostituzione saltuaria di rotaie con altre dello stesso tipo 
+in tratte varie binario unico della galleria Santomarco dal km 10+500 al km 11+262 e dal km 
+17+600 al km 17+700, in ambito U.T. Nord di Sapri. 
+Importo € 100.000,00. 
+Anno 2010 
+Linea Paola - Cosenza: Completamento dei lavori di sostituzione saltuaria di rotaie con altre 
+dello stesso tipo in tratte varie binario unico della galleria Santomarco dal km 10+500 al km 
+11+262 e dal km 17+600 al km 17+700, in ambito U.T. Nord di Sapri. 
+Importo € 50.000,00. 
+Anno 2011 
+Lavori di sostituzione saltuarie di rotaie nella galleria Santomarco, di livellamento sistematico di 
+binari nel Reparto Lavori di Cosenza, ambito U.T. Nord di Paola. 
+Importo € 250.000,00. 
+Anno 2013 
+Manutenzione Straordinaria all'Armamento nella giurisdizione del Reparto Lavori di Cosenza, 
+ambito U.T. Nord di Paola. 
+Descrizione interventi: 
+Risanamento massicciata con asportazione totale, con scavo spinto a cm 10, tra il km 11+036 e 
+al km 11+156, dal km 10+189,00 al km 10+216, dal km 10+073 al 10+106, dal km 10+169 al km 
+10+189, dal km. 10+305 al km. 10+340, dal km 13+221 al km 13+232, dal 13+232 al km 13+242, 
+dal km 10+905 al km 10+966 
+Ricambio travese in calcestruzzo con altre in legno dal km 10+189 al km 10+216, dal km 
+10+305 al km 10+340. 
+Ricambio rotaie dal km 10+073 al 10+106, dal km 10+169 al km 10+189, dal km 18+153 al km 
+18+003, dal km 9+688 al 9+700, dal km 10+856 al km 10+982 (fuga sx), dal km 10+774 al km 
+10+830 (fuga dx) 
+Spurgo cunicolo centrale dal km 13+221 al km 13+242. 
+Ricambio travese in calcestruzzo con altre in legno dal km 10+905 al km 10+966. 
+Importo € 917.430,31. 
+Anno 2013 
+Lavori di Manutenzione Ordinaria ambito U.T. Nord di Paola: sostituzione di n. 8 rotaie nella 
+galleria Santomarco della linea Paola - Cosenza. 
+Importo € 35.000,00. 
+Anno 2014 
+Linea Paola Castiglione Cosentino: sostituzione di traverse da c.a.p. a legno per un’estesa di 
+circa 1.800 m nella galleria Santomarco, tra i km 10+970 e 12+770, con risanamento massicciata e 
+sostituzione saltuaria di rotaie tra km 2+400 e km 7+512. 
+Descrizione interventi: 
+Risanamento massicciata con asportazione totale dal km 11+330 al km 11+654. Ricambio rotaie 
+dal km 6+495,00 al km 6+531,00 dal km 11+654 al km 12+734 dal km 12+722 al km 12+734. 
+Ricambio traverse in c.a.p. con altre in legno dal km 11+654 al km 12+734 Spurgo cunicolo 
+centrale dal km 13+262 al km 13+327. 
+Importo € 799.463,30. 
+
+## Página 16
+
+Anno 2017 
+Linea Paola Castiglione Cosentino Sostituzione rotaie usurate tra i km 17+650 e 17+850, 
+sostituzione saltuaria traverse fessurate tra i km 19+000 e 20+000 circa, risanamento saltuario 
+massicciata nella tratta PM Santomarco – Bivio Settimo. 
+Risanamento dal km 4+460 al km 4+590, dal km 8+500 al km 8+, dal km 4+315 al km 4+355. 
+Sostituzione di n. 3 traverse in cap dal km 4+335 al km 4+355, sostituzione di n. 2 rotaie da 36 m 
+fuga sx dal km 4+298 al km 4+370, sostituzione di n. 2 rotaie una da 36 m e l’altra da 24 m fuga dx 
+dal km 4+300 al km 4+360. 
+Intervento per eliminazione “entro 48 ore” di difetti di livello e gli sghembi riscontrati dalla 
+carrozza Talete in tratti saltuari tra Bivio S. Antonello e Paola. 
+Importo € 70.000,00. 
+Sostituzione n°2 rotaie da 12 m per eliminazione difetti in saldatura S2 (km 4+790 e km 5+324) 
+2.2.5. Attivazione del piano di emergenza ferroviaria, dei servizi pubblici di soccorso, della polizia, 
+dei servizi sanitari e relativa catena di eventi 
+La galleria Santomarco è dotata di Piano di Emergenza Interno, ai sensi del DM 28.10.2005. Il 
+Piano di Emergenza Interno contempla lo scenario incidentale di deragliamento di un treno 
+passeggeri e prevede per esso che venga attivato il flusso di informazioni indicato in Figura 11. 
+Le previsioni del Piano di Emergenza Interno per la galleria Santomarco sono anche riportate sul 
+Fascicolo Linea. 
+
+## Página 17
+
+Figura 11 – Flusso informativo per incidente a un treno passeggeri con deragliamento di uno o più rotabili 
+L’attivazione del piano di emergenza ferroviaria da parte dell’impresa ferroviaria è avvenuta 
+secondo quanto previsto dalla DEIF n° 21.1 del 31.05.2012 “Disposizioni per il PdC ed il PdA in 
+caso di inconveniente di esercizio in galleria” per il caso di incidente ad un treno passeggeri con 
+deragliamento di uno o più rotabili (Figura 12) e della DEIF n° 30.2 – “Attività in caso di 
+anormalità di esercizio e gestione delle emergenze”, in coerenza con quanto previsto dal piano di 
+emergenza interno della galleria Santomarco. 
+
+## Página 18
+
+Figura 12 - Sequenza delle operazioni da compiere da parte di PdC e CT nel caso di incidente ad un treno passeggeri 
+con deragliamento di uno o più rotabili 
+La corrispondente catena degli eventi che si sono verificati è la seguente: 
+- 
+Ore 10.03. L’Agente di Scorta del treno 3742 dà avviso del malore del macchinista con 
+treno fermo in galleria. Dopo qualche minuto l’Agente di Scorta ha precisato che il treno 
+era deragliato e che il macchinista era stato colto da malore in cabina di guida. Non aveva 
+notizie di danni ai viaggiatori. 
+- 
+Ore 10.05. Giunge conferma dell’evento anche dalla DPR Calabria e viene attivato il 
+flusso informativo. Viene allertato il carro soccorso di Paola e richiesta l’attivazione del 
+servizio sostitutivo con autobus sulla tratta Paola – Cosenza.  
+- 
+Ore 10.15. Il treno 58418 (Mercitalia Rail, relazione San Nicola M. – San Ferdinando) 
+circolante a seguito del treno 3742 è ricevuto in primo binario di PM Santomarco per 
+incrocio con treno 58372/3 proveniente da San Lucido e fermo al segnale di protezione di 
+Bivio Pantani in attesa del transito del treno 3742. 
+- 
+Ore 10.20. Conferma dell’allertamento del carro soccorso e predisposizione del corredo 
+dei documenti. 
+
+## Página 19
+
+- 
+Ore 10.22. Viene contattata la Sala Operativa di Mercitalia Rail per predisporre giro 
+locomotore del treno 58418 e successivo inoltro a ritroso. 
+- 
+Ore 10.25. La DPR Calabria ha approntato un materiale in sosta sul fascio a Paola come 
+treno di soccorso per il recupero viaggiatori del treno 3742. 
+- 
+Ore 10.35. Un mezzo d’opera con a bordo operatori sanitari del 118 (giunti a Paola), 
+VVF (saliti sul MdO all’imbocco della galleria Santomarco) e agenti dei Lavori e 
+referente RTM parte da Paola diretto sul luogo dell’incidente. 
+- 
+Ore 10.44. Il personale del treno 58418 procede con lo sgancio del locomotore, 
+operazione conclusa alle ore 10.55. Il treno viene vincolato in attesa di verifiche 
+sull’infrastruttura e rendendo prioritario il recupero dei viaggiatori del regionale. 
+- 
+Ore 10.52. Il MdO giunge a ridosso del materiale incidentato. I sanitari prestano le prime 
+cure.  
+- 
+Ore 11.00. Facendo seguito alle informazioni provenienti dal referente RTM si è reso 
+prioritario il rientro del MdO a Paola, con a bordo, oltre il macchinista colto da malore, 
+anche da alcuni viaggiatori per i quali si è reso necessario un immediato intervento. 
+- 
+Ore 11.18. Il MdO giunge a Paola. 
+- 
+Ore 11.30. Il convoglio viaggiatori del treno soccorso è pronto a partire da Paola. Per 
+mancata disposizione a via libera del segnale di partenza, parte alle ore 11.37, inoltrato in 
+manovra da Bivio Pantani fino al luogo dell’incidente per il trasbordo in linea.  
+- 
+Ore 11.45. Il treno soccorso giunge a poca distanza dal treno 3742 e con l’ausilio di VVF, 
+Agenti del treno, personale RFI e operatori sanitari, inizia il trasbordo dei viaggiatori. 
+- 
+Ore 12.10. Il personale del treno che presta soccorso comunica il termine delle operazioni 
+e si muove in manovra diretto a Paola. L’operazione è stata rallentata dalla presenza di 
+personale di soccorso che si inoltrava sui binari verso il luogo dell’incidente. 
+- 
+Ore 12.39. Il treno di soccorso si ricovera a Paola in binario 5 (Binario 1 indisponibile 
+per lavori) dove è stata prestata assistenza ai viaggiatori. Gli stessi hanno continuato il 
+viaggio con i treni 723 e 3751. 
+- 
+Ore 13.15. Il carro soccorso si muove da Paola e giunge sul luogo dell’incidente alle ore 
+13.35. Dopo un primo sopralluogo, i lavori di recupero del treno iniziano alle ore 15.30, 
+dopo nulla osta dell’Autorità Giudiziaria. 
+Pertanto, dalle ore 10.00 circa la circolazione sulla tratta PM Santomarco –Paola/San Lucido è 
+stata interrotta. 
+Il treno 58372, fermo al segnale di protezione di Bivio Pantani, è stato recuperato con 
+locomotore isolato circolante in direzione Villa San Giovanni Bolano e ricoverato sul primo binario 
+della stazione di San Lucido da dove è ripartito deviato in direzione Roma Smistamento. 
+Il carro soccorso è stato inviato in linea alle ore 13:35. Le operazioni di recupero del materiale 
+rotabile con il carro soccorso si sono concluse alle ore 19:00 circa. 
+Successivamente i veicoli recuperati sono stati inviati alla stazione di Paola dove sono giunti alle 
+ore 20:00 circa per essere ricoverati. 
+La gestione dell’emergenza a seguito dell’incidente non ha pertanto evidenziato criticità.  
+### 2.3. Decessi, lesioni, danni materiali 
+2.3.1. Passeggeri e terzi, personale 
+A seguito dell’evento, l’Agente di Condotta è stato colto da un malore ed ha subito traumi al 
+corpo. È stato assistito dai servizi sanitari intervenuti e trasportato al pronto soccorso, ove gli è stata 
+diagnosticata una cervicalgia post traumatica e una contusione all’anca sinistra. 
+
+## Página 20
+
+Quattro viaggiatori che hanno lamentato danni sono stati sottoposti a visita presso il pronto 
+soccorso. 
+2.3.2. Materiale rotabile e infrastruttura 
+L’evento ha causato il danneggiamento dell’armamento e della sede tra il punto di svio e il punto 
+di arresto del convoglio. 
+Il gestore dell’infrastruttura ha stimato, per gli interventi di ripristino definitivo dell’armamento, 
+un costo complessivo di € 1.999.150,73 così suddivisi: 
+- € 703.784,54 per materiali; 
+- € 72.925,91 per manodopera in economia; 
+- € 256.650,00 per noleggi;  
+- € 155.090,58 per lavori a misura extra-interruzione; 
+- € 805.699,70 per lavori in interruzione; 
+- € 5.000,00 per oneri sicurezza. 
+L’impresa ferroviaria non ha stimato danni ai veicoli poiché gli stessi sono stati posti sotto 
+sequestro. 
+Nel complesso, i danni materiali che ha causato l’incidente possono essere certamente stimati 
+come superiori a € 2.000.000,00. 
+### 2.4. Circostanze esterne 
+Al momento dell’incidente le condizioni atmosferiche e la visibilità erano buone. 
+## 3. Resoconto dell'indagine 
+3.1. Sintesi delle testimonianze (nel rispetto della tutela dell'identità dei soggetti interessati) 
+3.1.1. Agente di Condotta 
+Il macchinista ha dichiarato che, alla condotta del treno, approssimativamente alla progressiva 
+km 6, il convoglio viaggiante a circa 120 km/h ha subito un forte sobbalzo che ha causato lo svio 
+del primo carrello della vettura semipilota, di un asse del secondo veicolo e un asse del terzo 
+veicolo. 
+Ha altresì dichiarato di aver azionato prontamente la frenatura rapida dopo il sobbalzo e di aver 
+subito dei traumi fisici causati dall’urto del rotabile con la volta della galleria durante la fase di 
+arresto del convoglio. 
+3.1.2. Agente di Scorta 
+L’Agente di Scorta ha dichiarato che, dopo il transito dal PM Santomarco, tra il km 7 ed il km 5 
+della galleria, ha avvertito un colpo di ferraglia sotto il pavimento della carrozza e che, subito dopo 
+aver sentito il rumore, è iniziato lo sbandamento del treno accompagnato da un gran fragore fino al 
+suo arresto. 
+Trovandosi nel primo veicolo (semipilota) si è recato in cabina di guida per capire quello che era 
+accaduto e, trovando il macchinista in forte stato di shock, lo ha soccorso. Ha poi chiesto se vi fosse 
+la disponibilità di un medico a bordo del treno e comunicato che il treno era fermo per un 
+
+## Página 21
+
+inconveniente tecnico, avvisando contestualmente il DCO competente dell'accaduto al fine di 
+allertare i soccorsi. 
+Presentandosi un medico per prestare il primo soccorso al macchinista, si è accertato 
+dell’incolumità dei passeggeri, trovando collaborazione da parte di colleghi che erano sul treno.   
+Tra i passeggeri non ha riscontrato feriti gravi, solo stati di panico ed attacchi di ansia di tre 
+viaggiatrici ed un viaggiatore che lamentava una leggera contusione alla spalla. 
+Ha poi riferito che, dopo circa 50 minuti, sono arrivati i soccorsi con i sanitari del 118, VVF, il 
+personale di RFI e Protezione Aziendale con un carrello dei lavori di RFI, di aver eseguito un giro 
+di controllo sul treno insieme ai sanitari del 118 e VVF e segnalato le tre viaggiatrici sopra indicate, 
+che i sanitari del 118 ritenevano opportuno portare fuori dalla galleria insieme al macchinista, cosa 
+che è stata eseguita con l'aiuto dei VVF con il trasbordo sul carrello dei lavori di RFI. Il viaggiatore 
+che lamentava la contusione alla spalla è assistito dal personale del 118 ed è rimasto sul treno. 
+Ha aggiunto, inoltre, di essersi prodigato a fare passaggi su tutto il treno per rassicurare i 
+viaggiatori e comunicare che si stava provvedendo al loro trasbordo su un altro treno appena il 
+carrello fosse uscito dalla galleria, trovando sempre collaborazione da parte dei colleghi erano sul 
+treno.   
+Dopo l’arrivo del treno di soccorso, avvicinatosi al treno incidentato, con il personale dei VVF, 
+con il personale di RFI e con gli operatori sanitari, si è provveduto ad effettuare il trasbordo di tutti i 
+passeggeri in sicurezza e con la piena collaborazione degli stessi. 
+3.1.3. DCO 
+Il DCO in servizio sulla linea ha ricostruito la seguente catena di eventi: 
+- 
+Ore 10.00 Capotreno treno 3742 comunica verbalmente malore PDM e svio del treno al km 
+5+000 tra le stazioni di PM Santomarco e Bivio Pantani.  
+- 
+Ore 10.14 vincolato partenza treni da Paola fono n 81 m 100. 
+- 
+Ore 10.24 vincolato treno 58373 a Bivio Pantani fono n 66/14 m 100b. 
+- 
+Ore 10.25 interruzione accidentale Paola - PM Santomarco fono n 84 m 100, per invio 
+carrello per soccorso PdM con personale 118. 
+- 
+Ore 11.18 carrello ricoverato a Paola e riattivata circolazione tra Paola e Bivio Pantani con 
+fono n 67/18 m100b. 
+- 
+Ore 11.20 Riattivato tratta Paola - Bivio Pantani con fono n 85 m 100. Effettuato treno 
+79679 da Paola a Bivio Pantani per soccorso viaggiatori treno 3742 partito a via impedita da 
+Paola  
+- 
+Ore 11.37 fono nulla osta n 86. Ore 11.50 iniziato trasbordo finito ore 12.10. 
+- 
+Effettuato 26442 da Bivio Pantani a Paola transitato da Bivio pantani ore 12.33 e arrivato a 
+Paola ore 12.37. 
+- 
+ore 12.19 Autorizzato DCO 3^ sezione invio locomotore per retocessione treno 58373 da 
+Bivio Pantani a San Lucido fono n 88 m100. Svincolato treno 58373 con fono n 69/37 m 
+100b. 
+- 
+ore 12.54 Autorizzata manovra dal II binario di Pm Santomarco per giro loc 58417 fono n 
+70/23 m 100b. 
+- 
+ore 12.40 interruzione Accidentale tra Paola a Bivio Pantani per invio carro soccorso treno 
+3742 fono n 91 m 100. 
+- 
+ore 1252 giunto treno 58373 ricoverato a S. Lucido fono n 92 m 100. Ore 13.28 divieto 
+invio treni da San Lucido DCO III fono n 93 m 100. 
+- 
+ore 13.15 divieto invio treni diretti San Lucido da Metaponto fono n 94 m100. 
+- 
+ore 13.32 manovra ultimata locomotore 58417 a PM Santomarco fono n 72/29 m 100b.  
+- 
+ore 13.35 giunto treno 58417 II binario PM Santomarco fono n 73/21 m 100b.  
+
+## Página 22
+
+- 
+ore 13.50 vincolata a Cosenza partenza treni diretti Paola fono n 95 m 100. 
+- 
+ore 13.41 partito dal II binario di Pm Santomarco treno 78079 materiale del treno 58417 
+diretto PM Montalto. 
+3.1.4. Altro personale di Trenitalia intervenuto per il recupero dei viaggiatori 
+Il personale di Trenitalia intervenuto con altri veicoli per il recupero dei viaggiatori che erano sul 
+treno sviato ha dichiarato che la partenza del materiale rotabile è avvenuta alle ore 11:35 circa, in 
+attesa del rientro di un carrello dei lavori, recatosi sul luogo dell’incidente per effettuare i primi 
+soccorsi. 
+Ha dichiarato inoltre che il recupero degli altri viaggiatori è stato effettuato con un complesso 
+che era in sosta nella stazione di Paola, che il convoglio è quindi partito da Paola come treno 79679 
+fino al Bivio Pantani e che da qui si è proceduto dal Bivio Pantani fino al punto dove è avvenuto lo 
+svio in modalità manovra. 
+Giunti sul posto, coadiuvati da personale di Trenitalia e di RFI, dai Vigili del Fuoco e da altro 
+personale della Polizia di Stato e dei servizi sanitari, si è dato corso al trasbordo di tutti i viaggiatori 
+presenti sul treno. 
+Il convoglio è ripartito in modalità manovra per giungere nella stazione di Paola alle ore 12:45. 
+3.1.5. Responsabile del Carro Soccorso 
+ Il responsabile del carro soccorso ha dichiarato di essere stato allertato alle ore 10:25 del 
+06.12.2017 per uscire con il carro soccorso per il recupero del treno 3742 fermo in galleria tra Paola 
+e Cosenza.  
+Ha riferito che tutta la squadra reperibile in servizio si è recata presso la stazione di Paola per la 
+preparazione all’uscita del carro ma, per la difficoltà nel recupero dei viaggiatori, il carro è partito 
+alle ore 13:30 circa verso la galleria per il recupero del treno e, arrivati sul luogo dello svio, si è 
+provveduto al posizionamento del carro soccorso vicino alla vettura semipilota per la preparazione 
+al recupero del treno.  
+Il responsabile ha inoltre riferito circa lo stato dei veicoli raggiunti dal carro soccorso: 
+- 
+la vettura semipilota 50838987529.6 si presentava con il carrello anteriore sviato nella 
+massicciata (lato Paola) e a distanza di circa 1 m dalla rotaia; 
+- 
+la vettura a seguire 50832178904.4 si presentava con la seconda sala della vettura sviata. 
+Il centro ruota della sala sviata era distante dalla rotaia di circa 15 cm; 
+- 
+la vettura 50832178833.5, agganciata alla locomotiva, si presentava con la terza sala smt 
+della vettura sviata e il centro ruota della sala sviata era distante dalla rotaia di circa 15 
+cm.  
+I tronconi di rotaia rotti erano adagiati sul camminamento lato sinistro senso marcia treno. 
+Il carro soccorso è rimasto in attesa del recupero e della messa in sicurezza fino alla conclusione 
+dei rilievi effettuati dalla Polizia di Stato, fino alle ore 16. 
+Il responsabile ha dichiarato che, alle ore 16:05, è stata concessa l’autorizzazione al recupero 
+delle vetture sopra menzionate e che il recupero del treno, messo sui binari per l’uscita dalla 
+galleria, è terminato alle ore 19:00. Il rientro nella stazione di Paola è avvenuto alle ore 20:15 circa. 
+3.1.6. Personale addetto alla manutenzione dell’infrastruttura  
+Il Capo Unità Manutentiva ha confermato di essere stato informato dallo specialista cantieri in 
+merito ad una segnalazione di avvallamento nella galleria Santomarco in data 05.12.2017 alle ore 
+22:30 e di aver ritenuto di effettuare per il mattino seguente una scorta treno in cabina. 
+In data 06.12.2017, effettuando la scorta sul treno 26443 delle ore 6:57, ha avvertito un sobbalzo 
+al km 5+700 circa. Stesso sobbalzo è stato avvertito sul treno 3746 di ritorno. 
+
+## Página 23
+
+Ha dichiarato che, una volta rientrato a Paola, ha organizzato un cantiere ed alle ore 8:00 ha 
+incaricato il titolare dell’interruzione prevista per le ore 10:00, che il DCO aveva comunicato che 
+l’interruzione poteva essere concessa alle 10:30 e che il personale era in attesa di entrare in galleria 
+nella stazione di Paola. 
+Con riferimento alla presenza di rotaie lungo la linea in galleria, il Capo Unità Manutentiva ha 
+precisato che in precedenza erano state scaricate circa 20 barre di rotaia da 36 m in diversi punti 
+della galleria per programmarne la sostituzione. 
+Ha evidenziato, inoltre, che rispetto alle frequenze standard dei controlli previsti per una linea di 
+classe 4 quale quella in esame (1 volta all’anno per la visita a piedi e per il rilievo diagnostico), 
+erano state stabilite frequenze di controllo di 6 mesi per la vigilanza linea a piedi e per il rilievo con 
+treno diagnostico a causa della presenza del fenomeno di corrosione delle rotaie. 
+Lo Specialista cantieri ha dichiarato di aver ricevuto dal capodeposito una segnalazione di 
+avvallamento in galleria Santomarco fra i km 5 e 6, in data 05.12.2017 alle ore 15:00 circa e di 
+averlo comunicato telefonicamente con un messaggio di testo alle ore 15:20, unitamente al proprio 
+parere. Ha dichiarato, inoltre, di aver sentito successivamente il Capo Unità Manutentiva per due 
+volte utilizzando il telefono personale. 
+Il Capo Tecnico incaricato della visita a piedi effettuata in data 25.08.2017 (cfr § 3.4.2.1.) ha 
+dichiarato che, alla data della visita, la galleria era scarsamente illuminata e di aver riscontrato un 
+fenomeno saltuario e non accentuato di corrosione delle rotaie, che gli organi di attacco erano 
+presenti e che erano in atto fenomeni di stillicidio e ristagni d’acqua a tratti. Ha dichiarato, inoltre, 
+di aver eseguito la visita nella tratta Bivio Pantani – PM Santomarco in 1,45 ore. 
+3.1.7. Altro personale  
+Il personale dei due treni che hanno percorso il punto interessato immediatamente prima del 
+treno 3742 del 06.12.2017 ha dichiarato di non aver rilevato alcuna anomalia. 
+### 3.2. Sistema di gestione della sicurezza 
+3.2.1. Quadro organizzativo e modalità di assegnazione ed esecuzione degli incarichi 
+Il modello organizzativo definito dal gestore dell’infrastruttura è specificato dalla 
+Comunicazione Organizzativa n. 390/AD “Modello organizzativo per la gestione del Sistema 
+Integrato di Gestione per la Sicurezza di RFI” (documento di I livello). 
+In Figura 13 è riportato lo schema del modello organizzativo, costituito da documenti che 
+stabiliscono la politica per la sicurezza, i ruoli e le responsabilità dell’organizzazione aziendale (I 
+livello),  da documenti che definiscono i processi di sistema (II livello), da documenti che 
+definiscono le regole dei processi operativi (III livello) e regole operative locali (IV livello). 
+
+## Página 24
+
+Figura 13 – Schema del modello organizzativo per il governo del Sistema di Gestione della Sicurezza  
+(fonte: RFI SIGS M 2 0) 
+I criteri relativi al processo di controllo dei rischi sono indicati nelle procedure di II livello RFI 
+PSE 01 1 0 “Individuazione dei pericoli e valutazione dei rischi” e RFI PSE 02 1 0 “Gestione delle 
+modifiche infrastrutturali, operative e organizzative”. 
+La procedura RFI PSE 03 1 0 “Accertamenti ed indagini di RFI in caso di incidenti o 
+inconvenienti ferroviari” (II livello) prevede le modalità di assegnazione e esecuzione delle indagini 
+effettuate dal Gestore in caso di incidenti o inconvenienti a passaggio a livello. 
+Il quadro organizzativo e la modalità di assegnazione ed esecuzione degli incarichi del personale 
+del gestore dell’infrastruttura incaricato della manutenzione sono indicati nella Disposizione 
+Operativa n. 36/DPR del 29 dic. 2015 “Direzione Produzione”, entrata in vigore in data 01.03.2016. 
+La Disposizione prevede l’articolazione organizzativa ed operativa della Direzione Territoriale 
+Produzione (DTP) indicata in Figura 14. 
+Figura 14 - Articolazione organizzativa ed operativa della Direzione Territoriale Produzione 
+
+## Página 25
+
+A sua volta, ciascuna unità territoriale è organizzata secondo lo schema indicato in Figura 15 e 
+descritto nel seguito. 
+Figura 15- Articolazione organizzativa ed operativa della Unità Territoriale 
+La linea Paola – Castiglione Cosentino ricade nell’ambito dell’Unità Territoriale Nord, Unità 
+Manutentiva Lavori (UM LAV) di Paola della DTP di Reggio Calabria, con incarichi di vigilanza e 
+manutenzione dell’asset armamento e opere civili. 
+Le funzioni di riferimento dell’Unità Territoriale (UT) sono le seguenti. 
+1) PROGRAMMAZIONE E CONTROLLO 
+Attività: 
+- 
+Collaborare con l’AMPC per la stesura della documentazione di Pianificazione annuale 
+individuando, sulla base delle proposte avanzate dalle competenti strutture, gli interventi 
+di manutenzione ordinaria e straordinaria da attuare, presentando le priorità al 
+Responsabile dell'Unità Territoriale per il successivo consolidamento;  
+- 
+curare la redazione dei programmi trimestrali e mensili di manutenzione ordinaria e 
+straordinaria, provvedendo all'emissione degli OdL e delle NTW dei progetti di 
+competenza;  
+- 
+curare la programmazione delle attività a seguito delle segnalazioni avanzate dalla 
+competente struttura di Diagnostica Nazionale/Territoriale;  
+- 
+garantire l'ottimizzazione dell'utilizzo di risorse umane, mezzi, materiali ed interruzioni; 
+- 
+garantire l'approvvigionamento dei materiali per le attività MO e internalizzati, sulla base 
+di quanto pianificato da Logistica; 
+- 
+monitorare l'andamento delle performance di manutenzione ai fini del raggiungimento 
+degli obiettivi aziendali;  
+- 
+curare il corretto inserimento e l'aggiornamento della banca dati del sistema informativo 
+aziendale relativamente agli oggetti della manutenzione, alle strutture dei centri di lavoro 
+ed alle capacità degli stessi. 
+2) TECNICO GESTIONE LAVORI 
+Attività: 
+- 
+Garantire la gestione esecutiva dei lavori di manutenzione e di rinnovo delle infrastrutture 
+affidati alle imprese, in coerenza con le leggi e i regolamenti e le disposizioni interne 
+svolgendo direttamente le attività di Direzione Lavori o fornendo la necessaria 
+collaborazione ai soggetti incaricati;  
+- 
+nell'ambito degli incarichi di Direzione lavori affidati: 
+
+## Página 26
+
+o provvedere alle verifiche alle opere per l'esecuzione a perfetta regola d'arte, in 
+conformità ai progetti approvati, alle prescrizioni dei contratti ed alle disposizioni 
+impartite dal Direttore dei lavori;  
+o curare la verifica o l'effettuazione del tracciato fondamentale delle opere, dei profili 
+del Terreno e dei rilievi tecnici necessari alla consegna dei lavori alle imprese, 
+segnalando le eventuali discordanze ed impedimenti e proponendo le iniziative da 
+intraprendere per rimuoverli;  
+o curare l'attuazione delle iniziative preliminari per la consegna dei lavori, 
+predisponendo il relativo verbale e procedendo per le eventuali sospensioni, riprese 
+e proroghe dei lavori; 
+o svolgere accertamenti ed intraprendere le necessarie iniziative al fine di assicurare 
+l'esatto adempimento da parte dell'appaltatore di tutti gli obblighi assunti, 
+promuovendo tempestivamente gli opportuni provvedimenti nei casi di ritardi, 
+irregolarità o negligenze; 
+o presenziare alle prove di carico (terreni di fondazione, pali, strutture portanti, etc.) e 
+predisporre le relative verbalizzazioni;  
+o accertare la regolare tenuta dei documenti di registrazione convalidando, in 
+occasione di ogni visita in loco, le misure ancora accessibili, datando e firmando i 
+documenti stessi successivi all'ultima registrazione;  
+- 
+svolgere la funzione di segreteria tecnica per le infrastrutture di giurisdizione;  
+- 
+collaborare con le competenti strutture alla stesura della Pianificazione annuale e 
+programmazione trimestrale;  
+- 
+predisporre proposte di spesa per lavori di manutenzione e rinnovo da eseguire a mezzo 
+impresa;  
+- 
+collaborare con la UO Patrimonio, Espropri e Attraversamenti della UO Civile di 
+Ingegneria nelle attività connesse con la tutela e la gestione patrimoniale degli asset di 
+competenza dell'UT;  
+- 
+garantire il corretto utilizzo del dipendente personale e delle risorse assegnate. 
+3) NUCLEO CONTROLLO PROCESSI OPERATIVI 
+Attività: 
+- 
+-Garantire lo svolgimento delle attività di verifica ai Centri di Lavoro Manutenzione 
+(CdL-M) della DTP; 
+- 
+garantire lo svolgimento delle attività di controllo e vigilanza dell'infrastruttura, previste 
+dalle norme, programmate o specificamente richieste;  
+- 
+fornire supporto nel corso di svolgimento di audit interni od esterni, inchieste ed 
+accertamenti; 
+- 
+partecipare alle Visite Ispettive Interne (VII) ed alle Commissioni d'Inchiesta relative agli 
+incidenti di esercizio e alle anormalità di rilievo; fornire supporto, ove necessario e tenuto 
+conto delle differenti specializzazioni, alle UM di DTP in ordine alle attività tipiche dei 
+cantieri di lavoro; fornire supporto alle UM di DTP per: 
+o la valutazione delle competenze del personale operativo, 
+o l'individuazione delle esigenze formative, 
+o lo svolgimento delle attività formative finalizzate al mantenimento delle competenze. 
+4) UNITA' MANUTENTIVA (CdL IS, CdL TE, CdL LAV) 
+(ruolo responsabile: Capo Unità Manutentiva - Responsabile del CdL) 
+- 
+Garantire il mantenimento in efficienza dell'infrastruttura di giurisdizione e relativi 
+obblighi di vigilanza, finalizzati alla sicurezza e regolarità della circolazione dei treni e 
+alla tutela del patrimonio ferroviario, nell'osservanza delle leggi, dei regolamenti e delle 
+disposizioni interne;  
+
+## Página 27
+
+- 
+garantire l'esecuzione delle attività programmate e la schedulazione dei lavori nel sistema 
+informativo della manutenzione, attribuendo al personale i necessari carichi, provvedendo 
+altresì a garantire la consuntivazione delle attività tramite il sistema informativo;  
+- 
+garantire il corretto utilizzo del personale dipendente, dei mezzi d'opera, di trasporto e 
+delle attrezzature/ materiali assegnatigli e dell'efficienza degli stessi;  
+- 
+garantire l'emissione degli Ordini di Lavoro non programmabili, l'apertura degli avvisi di 
+avaria nel sistema informativo della manutenzione e dei dati in esso inseriti; garantire le 
+attività relative alla gestione del pronto intervento (uomini mezzi e materiali) e più 
+specificatamente: 
+o imporre, ove si manifestino situazioni di pericolo o in atto o potenziali, le necessarie 
+limitazioni di circolazione o riduzioni di velocità, disponendo altresì la cessazione 
+delle stesse;  
+o intervenire ove necessario e comunque in caso di anormalità o di incidente di 
+esercizio, al fine di assicurare il ripristino dell'infrastruttura e la rapida ripresa della 
+circolazione;  
+o provvedere alla rilevazione dei primi elementi utili ad accertare le responsabilità 
+degli incidenti di esercizio e delle anormalità; garantire l'attuazione delle attività e 
+dei compiti previsti dalla normativa vigente in materia di sicurezza, prevenzione 
+antinfortunistica e igiene del lavoro;  
+- 
+garantire l'organizzazione della protezione dei cantieri di lavoro;  
+- 
+garantire la corretta gestione dei rifiuti nel rispetto della normativa vigente e la regolare 
+tenuta dei registri di carico e scarico;  
+- 
+partecipare, se incaricato, alle commissioni di modifica ed attivazione degli impianti; 
+garantire che il personale delle UM sia in possesso dei requisiti richiesti per 
+l'espletamento delle funzioni affidategli, abbia completa conoscenza degli impianti di 
+competenza e delle norme di sicurezza del lavoro e ambientali, organizzando appositi 
+incontri formativi;  
+- 
+garantire la regolare esecuzione dei lavori svolti dal personale dipendente;  
+- 
+garantire la valutazione tecnica del tolto d'opera, l'individuazione del fuori uso e 
+dell'usato servibile/da revisionare assicurandone la corretta conservazione secondo le 
+modalità previste dalle vigenti disposizioni e l'allineamento fisico/contabile delle proprie 
+giacenze;  
+Per quanto concerne la UM LV: 
+- 
+garantire la corretta esecuzione del programma di visite alle OA. 
+Unità Territoriale  
+Unità Manutentiva 
+Specialista Cantieri Lavori 
+Attività: 
+- 
+Provvedere all'esecuzione a perfetta regola dell'arte dei lavori svolti con il personale 
+ferroviario nell'ambito di giurisdizione della UM;  
+- 
+provvedere all'organizzazione dei cantieri di lavoro, organizzando la disponibilità di 
+risorse, mezzi e materiali; curare l'assegnazione settimanale delle risorse, controllando 
+altresì la corretta consuntivazione delle attività, utilizzando il sistema informativo della 
+manutenzione; provvedere al coordinamento dei lavori internalizzati che richiedono 
+l'accorpamento di più squadre; 
+- 
+provvedere all'adozione delle necessarie cautele al fine di salvaguardare la circolazione 
+dei treni e la sicurezza nell'esecuzione dei lavori, anche in appalto;  
+- 
+in riferimento agli impianti di giurisdizione e relativamente alle lavorazioni da attuare, 
+provvedere: 
+
+## Página 28
+
+o la redazione dei verbali di briefing e di coordinamento;  
+o a rendere disponibile, ove non gestita a sistema, la documentazione tecnica; 
+- 
+partecipare, se incaricato, alle commissioni di modifica ed attivazione degli impianti; 
+- 
+curare l'emissione degli Ordini di Lavoro non programmabili, l'apertura degli avvisi di 
+avaria nel sistema informativo della manutenzione e dei dati in esso inseriti. 
+Unità' Territoriale  
+Unità Manutentiva IS 
+Specialista SCC-M 
+Attività: 
+- 
+Provvedere all'esecuzione a perfetta regola dell'arte dei lavori svolti con il personale 
+ferroviario nell'ambito di giurisdizione della UM;  
+- 
+provvedere all'organizzazione dei cantieri di lavoro, organizzando la disponibilità di 
+risorse, mezzi e materiali;  
+- 
+curare l'assegnazione settimanale delle risorse, controllando altresì la corretta 
+consuntivazione delle attività, utilizzando il sistema informativo della manutenzione; 
+- 
+provvedere all'adozione delle necessarie cautele al fine di salvaguardare la circolazione 
+dei treni e la sicurezza nell'esecuzione dei lavori, anche in appalto;  
+- 
+in riferimento agli impianti di giurisdizione e relativamente alle lavorazioni da attuare, 
+provvedere:  
+o la redazione dei verbali di briefing e di coordinamento; 
+o a rendere disponibile, ove non gestita a sistema, la documentazione tecnica; 
+- 
+partecipare, se incaricato, alle commissioni di modifica ed attivazione degli impianti;  
+- 
+curare l'emissione degli Ordini di Lavoro non programmabili, l'apertura degli avvisi di 
+avaria nel sistema informativo della manutenzione e dei dati in esso inseriti. 
+Unità Territoriale  
+Unità Manutentiva Lv 
+Specialista Opere d'Arte 
+Attività: 
+- 
+Provvedere all'esecuzione delle visite alle OA ed agli impianti civili, prescritte dalle 
+normative in vigore o dettate da necessità, segnalando anormalità o deficienze e 
+formulando proposte al riguardo;  
+- 
+provvedere al corretto inserimento dei dati nel sistema informativo della manutenzione 
+relativi al censimento ed alla classificazione delle OA di competenza, curando altresì 
+l'inserimento dei dati di consistenza;  
+- 
+collaborare con la UO Opere Civili, Fabbricati e Impianti Speciali della UO Civile di 
+Ingegneria per l'aggiornamento dell'archivio tecnico delle OA presenti nel territorio di 
+competenza. 
+3.2.2. Requisiti relativi al personale e garanzia della loro applicazione 
+Dalla documentazione trasmessa dal gestore dell’infrastruttura si riscontra che il personale che 
+prestava servizio in qualità di DCO al momento dell’evento è in possesso di atto abilitativo emesso 
+a seguito della conversione delle abilitazioni, con il quale sono state rilasciate nell’anno 2014 le 
+abilitazioni/qualificazioni professionali di: 
+DCO RETE CONVENZIONALE 
+DM RETE CONVENZIONALE 
+
+## Página 29
+
+e che lo stesso personale è stato interessato da attività di mantenimento delle competenze 
+nell’ambito specialistico “Gestione della Circolazione_Formazione teorica” durante l’anno 2017. 
+Il Capo Reparto Lavori è risultato in possesso delle seguenti abilitazioni: 
+- 
+MI base - operatore manutenzione infrastruttura 
+- 
+MI OPC - organizzazione protezione cantieri 
+- 
+QP MI MDO 
+- 
+MI ARMSED 1 - operatore armamento e sede 
+- 
+MI ARMSED 2 - manutentore armamento e sede 
+Dal libretto formativo del Capo Reparto Lavori risulta come, negli anni 2016 e 2017, lo stesso 
+abbia frequentato i seguenti corsi di formazione inerenti il sistema di gestione della sicurezza e la 
+manutenzione dell’infrastruttura: 
+- 
+Informazione al personale sulle procedure SIGS interessanti il proprio  
+settore di lavoro 
+16/11/2017 
+- 
+Informazione al personale sulle procedure SIGS interessanti il proprio  
+settore di lavoro 
+13/09/2017 
+- 
+IMP-SIGS - Procedure SIGS aggiornamenti 
+13/09/2017 
+- 
+Mantenimento competenze dei ruoli esercitati nei contesti operativi  
+MI_ARMSED_Formazione teorica 
+26/07/2017 
+- 
+IMP Agg. Normative e PEI / PEG Gallerie 
+19/07/2017 
+- 
+Mantenimento competenze della qualificazione professionale 
+- 
+IMP_Formazione sull'applicativo per la Manutenzione I-MAN  
+23/06/2017 
+- 
+Informazione al personale sulle procedure SIGS interessanti il proprio 
+- 
+settore di lavoro 
+13/06/2017 
+- 
+MI_MDO_Formazione Teorica  
+25/05/2017 
+- 
+Sicurezza galleria - modulo generale 
+07/07/2016 
+- 
+Mantenimento competenze dei ruoli esercitati nei contesti operativi 
+- 
+MI_ARMSED_Formazione teorica 
+28/06/2016 
+- 
+Il nuovo modello organizzativo di Direzione Produzione Change 
+Management e Formazione al Ruolo 
+07/04/2016 
+- 
+Informazione al personale sulle procedure SIGS interessanti il proprio  
+settore di lavoro - Formazione al ruolo per i Capi Unità Manutentive  
+07/04/2016 
+- 
+Informazione al personale sulle procedure SIGS interessanti il proprio  
+settore di lavoro - Nuova Versione SW CRUISENET  
+15/03/2017 
+- 
+DIAGNOSTI CA_Il_Portale_Diagnostico_Plinio 
+11/02/2016 
+- 
+Il nuovo modello organizzativo di Direzione Produzione Change 
+Management e Formazione al Ruolo 
+21/01/2016 
+- 
+Sistema_Informativo_Manutenzione_Evoluta_e-learning 
+20/02/2016 
+- 
+Sistema_Informativo_Manutenzione_Evoluta_per_la_gestione_di_un_ 
+Centro_di _Lavoro_e-learning 
+20/02/2016 
+I manutentori che operavano sulla tratta ove è avvenuto l’incidente sono in possesso di atto 
+abilitativo e sono stati sottoposti a mantenimento delle competenze dei ruoli esercitati nei loro 
+contesti operativi.  
+L’agente di condotta del treno 3742 è abilitato alla condotta del materiale rotabile E464 
+sull’infrastruttura Paola – Cosenza. 
+L’agente di scorta del treno 3742 è in possesso di certificato di abilitazione. L’Agente è stato 
+sottoposto ad attività formativa nelle date 20/02/2017, 03/04/2017 e 31/10/2017. 
+
+## Página 30
+
+3.2.3. Modalità dei controlli e delle verifiche interni e loro risultati 
+In Figura 16 si riporta l’estratto delle attività di mantenimento delle competenze che hanno 
+interessato l’Agente di Condotta. 
+Figura 16 - Estratto delle attività di mantenimento delle competenze relative all’Agente di Condotta 
+In Figura 17 si riporta l’estratto delle attività di mantenimento delle competenze che hanno 
+interessato l’Agente di Scorta. 
+Figura 17 - Estratto delle attività di mantenimento delle competenze relative all’Agente di Scorta 
+Dalla documentazione esaminata, il personale dell’impresa ferroviaria e del gestore 
+dell’infrastruttura risulta aver effettuato i previsti percorsi formativi ed essere stato sottoposto ad 
+attività di mantenimento delle competenze.  
+3.2.4. Interfaccia fra i diversi soggetti operanti sull'infrastruttura 
+I diversi soggetti operano sull’infrastruttura secondo le norme descritte in § 3.3. 
+In particolare, le norme di interfaccia che devono essere seguite dal personale dell’impresa 
+ferroviaria sono le seguenti:  
+- 
+DEIF n° 21.1 del 31.05.2012 “Disposizioni per il PdC ed il PdA in caso di inconveniente 
+di esercizio in galleria”, Trenitalia SpA 
+- 
+DEIF n° 30.2 del 30 settembre 2013 “Attività in caso di anormalità di esercizio e 
+gestione delle emergenze”, Trenitalia SpA 
+- 
+PEIF n° 26.1 del 25 luglio 2014 - “Chiamate rapide GSM-R con numerazione 1200 - 
+1400 – 1600”, Trenitalia SpA 
+- 
+Manuale di Mestiere del processo di Condotta, Trenitalia SpA 
+
+## Página 31
+
+### 3.3. Norme e regolamenti 
+3.3.1. Norme pertinenti e regolamenti comunitari e nazionali 
+Si indicano le principali norme nazionali che disciplinano la sicurezza ferroviaria inerenti 
+l’evento in oggetto. 
+- D.P.R. 11 luglio 1980 n. 753 “Nuove norme in materia di polizia, sicurezza e regolarità 
+dell’esercizio delle ferrovie e di altri servizi di trasporto”, che ha valenza sull’intero 
+sistema ferroviario nazionale; 
+- Decreto Ministeriale n° 138-T del 31 ottobre 2000: Atto di Concessione al Gestore 
+dell’Infrastruttura nazionale; 
+- Decreto Legislativo n. 188 dell’8 luglio 2003, recepimento delle direttive 2001/12/CE, 
+2001/13/CE e 2001/14/CE; 
+- Decreto Legislativo n. 162 del 10 agosto 2007, recepimento della Direttiva 2004/49/CE 
+“Attuazione delle direttive 2004/49/CE e 2004/51/CE relative alla sicurezza e allo 
+sviluppo delle ferrovie comunitarie”; 
+- Direttiva 2008/57/CE del Parlamento Europeo e del Consiglio del 17 giugno 2008 
+“Interoperabilità del sistema ferroviario comunitario”  
+- Decreto ANSF n°1 del 10.12.2009 “Attribuzioni in materia di sicurezza della circolazione 
+ferroviaria” 
+- Decreto ANSF n°4 del 9.08.2012 “Regolamento per la circolazione ferroviaria” 
+In particolare, il Regolamento per la Circolazione Ferroviaria emanato con Decreto ANSF n. 
+4/2012 del 9 agosto 2012 prescrive quanto segue: 
+…omissis… 
+10.6. Ogni anormalità alla circolazione di un treno deve essere comunicata dall’agente di 
+condotta al regolatore della circolazione di giurisdizione.  
+Qualora l’anormalità abbia determinato l’arresto del treno, nella comunicazione l’agente di 
+condotta deve precisare, oltre alle cause dell’anormalità, il punto di arresto (segnale di terra, 
+progressiva chilometrica o itinerario di una località di servizio) e la presenza o meno 
+dell’autorizzazione al movimento. In tale evenienza l’agente di condotta deve anche 
+assicurare l’immobilità del treno. 
+…omissis… 
+13.2. 
+Qualora durante la marcia del treno l’agente di condotta rilevi anormalità 
+all’infrastruttura ferroviaria o al binario percorso (sbandamenti o sobbalzi), deve darne 
+immediata comunicazione al regolatore della circolazione il quale deve attivare le procedure 
+per l’adozione dei provvedimenti necessari ad assicurare il movimento dei treni in condizioni 
+di sicurezza. 
+13.3. 
+Le restrizioni temporanee di velocità eventualmente necessarie, denominate 
+rallentamenti, e i tratti di binario a cui si riferiscono devono essere tempestivamente 
+comunicate ai treni con il sistema di segnalamento. 
+13.4. 
+Qualora ai fini del precedente punto 13.3 siano utilizzati segnali di terra con 
+caratteristiche di cui al punto 5.8, il rallentamento deve anche essere notificato attraverso 
+prescrizione di movimento. Qualora per esigenze improvvise sia necessario attivare un 
+rallentamento prima della posa dei segnali di terra, in attesa di tale posa l’inizio e la fine del 
+
+## Página 32
+
+rallentamento devono coincidere con punti della linea facilmente ed inequivocabilmente 
+individuabili.  
+13.5. 
+I rallentamenti devono essere protetti dai sistemi di protezione della marcia dei treni. 
+13.6. 
+Qualora per esigenze improvvise sia necessario attivare un rallentamento prima della 
+sua protezione da parte del sistema di protezione, il rallentamento deve iniziare dalla 
+posizione in cui si trova il treno al momento della comunicazione e deve terminare in un 
+punto facilmente e inequivocabilmente individuabile sul terreno. 
+…omissis… 
+3.3.2. Altre norme (norme di esercizio, istruzioni locali, requisiti per il personale, prescrizioni in 
+materia di manutenzione e standard applicabili) 
+Gestore dell’infrastruttura 
+- 
+Manuale del Sistema Integrato di Gestione per la Sicurezza RFI SIGS M 2 0 del 
+25/09/2015 
+- 
+Manuale del Sistema di Gestione della Sicurezza della Circolazione dei Treni  e 
+dell'Esercizio Ferroviario RFI SGS M 2 0 del 11/04/2017 
+- 
+Il processo di monitoraggio e di miglioramento RFI P 01 1 0 del 25/09/2015 
+- 
+Regolamento per la Circolazione dei Treni di RFI SpA (Aggiornato con decreto ANSF 
+n. 12/2009) 
+- 
+Istruzione per il servizio del personale di condotta delle locomotive (IPCL) 
+- 
+Disposizione n. 60 del 2 settembre 2005 di RFI “Servizi Vigilanza linea armamento e 
+sede”, come modificato dal Decreto ANSF n. 15/2010 
+- 
+Disposizioni operative di dettaglio per la visita linea ordinaria nei settori "Armamento e 
+sede" e "TE" RFI DPR PS IFS 086 C del 30.11.2015 
+- 
+Istruzione 44C Visite di controllo ai ponti, alle gallerie e alle altre opere d’arte 
+dell’infrastruttura ferroviaria RFI DTC SICS PO IFS 001 A 
+- 
+Standard di qualità geometrica del binario e parametri di dinamica di marcia per velocità 
+fino a 300 km/h RFI TCAR ST AR 01 001 A  
+- 
+Rilievi della geometria del binario e relative disposizioni manutentive RFI DPR PS IFS 
+90 C del 30.11.2015  
+- 
+Procedura Operativa Subdirezionale “Gestione dei difetti nelle rotaie e negli scambi e 
+relativi provvedimenti manutentivi” RFI DPR PS IFS 88 B del 31.03.2013 
+- 
+Disposizione di esercizio n. 9 del 21 maggio 2013 di RFI “Procedura di interfaccia. 
+Flussi informativi tra le Imprese Ferroviarie e RFI in materia di eventi che hanno 
+pregiudicato o che avrebbero potuto pregiudicare la sicurezza della circolazione dei treni 
+o dell’esercizio ferroviario”  
+- 
+Disposizione di esercizio n. 1 del 27 gennaio 2014 di RFI “Procedura di interfaccia 
+inerente a partenza dei treni, disciplina dei rapporti fra regolatore della circolazione e 
+personale dei treni, repertorio dei moduli, comunicazioni verbali registrate. Rifusione” 
+Impresa ferroviaria 
+- 
+Piano di manutenzione 1° livello loc. E 464 Ord. 2009 PM 316E-L, Prima emissione 
+giugno 2010, Trenitalia SpA 
+- 
+Piano di manutenzione 1° livello carrozza UIC X Interregionale (Semipilota e 
+Rimorchiata) PM –107 A- L Semipilota e PM –107 B- L Rimorchiata, Edizione febbraio 
+2005, Trenitalia SpA 
+- 
+DEIF n° 21.1 del 31.05.2012 “Disposizioni per il PdC ed il PdA in caso di inconveniente 
+di esercizio in galleria”, Trenitalia SpA 
+
+## Página 33
+
+- 
+DEIF n° 30.2 del 30 settembre 2013 “Attività in caso di anormalità di esercizio e 
+gestione delle emergenze”, Trenitalia SpA 
+- 
+PEIF n° 26.1 del 25 luglio 2014 - “Chiamate rapide GSM-R con numerazione 1200 - 
+1400 – 1600”, Trenitalia SpA 
+- 
+Manuale di Mestiere del processo di Condotta, Trenitalia SpA 
+3.3.2.1. Gestore dell’infrastruttura 
+Manuale del Sistema Integrato di Gestione per la Sicurezza RFI SIGS M 2 0 del 25/09/2015 
+Il Manuale del Sistema Integrato di Gestione per la Sicurezza RFI SIGS M 2 0 del 25/09/2015 
+riporta la rappresentazione dell'assetto organizzativo di RFI di Figura 18.  
+Figura 18 - Organigramma societario relativo alle Direzioni di sede centrale 
+Riporta inoltre le indicazioni su politica e obiettivi aziendali ed il modello organizzativo: 
+“II.2 LA POLITICA E GLI OBIETTIVI 
+La Politica della Sicurezza è lo strumento con cui viene espresso l'impegno formale di RFI 
+relativo alla gestione per la sicurezza dell'esercizio ferroviario, la sicurezza del lavoro e la 
+tutela dell'ambiente, valori ritenuti fondamentali nell'attuazione della missione societaria. 
+La Politica della Sicurezza, periodicamente sottoposta ad un attento processo di valutazione 
+per assicurarne il costante adeguamento al tipo e all'entità del servizio erogato da RFI, 
+definisce gli indirizzi e gli obiettivi da perseguire. La Politica della Sicurezza è disponibile a 
+tutto il personale nella intranet aziendale e viene divulgata all'esterno di RFI mediante la Carta 
+dei Servizi pubblicata sul sito www.rfi.it. 
+Si riportano di seguito alcuni dei principali indirizzi tratti dalla vigente Politica della 
+Sicurezza di RFI: 
+1) garantire che la circolazione ferroviaria sull'intera rete avvenga in piena sicurezza, che 
+le tecnologie dei vari settori siano costantemente sviluppate e che la rete stessa sia 
+mantenuta in piena efficienza;  
+
+## Página 34
+
+2) esercitare un presidio continuo e diretto sull'equilibrio fra tecnologie, uomini e 
+organizzazione, le tre componenti che garantiscono il miglioramento del livello di 
+prestazione;  
+3) diffusione e radicamento di una solida cultura che, fondata sul pieno rispetto delle 
+prescrizioni comunitarie, nazionali regionali e delle altre volontarie, rappresenti il punto 
+di riferimento per coloro che quotidianamente operano all'interno dell'organizzazione, 
+così come per coloro che dall'esterno vi entrano in contatto;  
+4) attenzione crescente alla prevenzione e alle opportunità strategiche, fin dalle fasi di 
+ideazione e definizione di tutti i progetti infrastrutturali, dei servizi offerti e dei processi 
+industriali, partendo dall'inserimento di questi temi fra i prerequisiti prestazionali delle 
+innovazioni tecnologiche ed organizzative;  
+5) favorire il trasferimento modale verso un sistema di trasporto più sicuro e meno 
+inquinante. 
+Si riportano di seguito gli obiettivi di lungo periodo della vigente Politica della Sicurezza di 
+RFI in vigore: 
+1) fare tendere a zero gli incidenti d'esercizio, gli infortuni sul lavoro e l'impatto 
+sull'ambiente, mediante un adeguato approccio metodologico di analisi e gestione dei 
+rischi. In Particolare per la sicurezza della circolazione dei treni e dell'esercizio 
+ferroviario, tale approccio deve consentire il raggiungimento degli obiettivi di sicurezza 
+fissati nel D.Lgs. n. 162/2007 e s.m.i;  
+2) assicurare il più alto livello di sicurezza per ogni attività che comporti rischi per i 
+dipendenti, compresi quelli relativi alle malattie professionali, i clienti e la collettività;  
+3) garantire che la tutela dell'ambiente quale concreta espressione della responsabilità 
+d'impresa, sia un elemento strategico nello sviluppo delle attività, la cui gestione 
+avviene in coerenza con i principi guida della massimizzazione dei vantaggi ambientali, 
+propri del trasporto su ferro e della riduzione al minimo degli impatti negativi 
+sull'ambiente. 
+II.3. IL MODELLO ORGANIZZATIVO 
+II SIGS nel suo complesso è definito: 
+1) dall'insieme dei i ruoli e delle responsabilità definiti all'interno dell'azienda; 
+2) dall'insieme delle regole che definiscono, in coerenza con il quadro normativo di 
+riferimento, i criteri ed i principi per l'attuazione del ciclo di miglioramento continuo, 
+comuni a tutti i processi operativi (nel seguito denominati "processi di sistema");  
+3) dall'insieme delle regole operative per l'esecuzione a «regola d'arte» delle attività e dei 
+processi (nel seguito denominati "processi operativi”). Il modello organizzativo definito 
+per l'attuazione ed il controllo dei processi di sistema è articolato secondo una 
+organizzazione "a matrice" che interagisce con il modello organizzativo definito 
+dall'azienda per l'esecuzione dei vari processi operativi, come formalizzato dalla 
+Comunicazione Organizzativa n. 390/AD "Modello organizzativo per la gestione del 
+Sistema Integrato di Gestione per la Sicurezza di RFI" del 25 settembre 2015. 
+In tale Comunicazione Organizzativa sono definiti: 
+o i ruoli e le responsabilità per la gestione del SIGS, ai vari livelli dell'organizzazione di 
+RFI; 
+o il Comitato Guida che: 
+- definisce lo sviluppo della Politica per la sicurezza di RFI; 
+- assicura il coordinamento delle Direzioni centrali per il presidio dei cambiamenti 
+aventi un impatto sugli ambiti di applicazione del sistema di gestione; 
+- assicura il coordinamento delle Direzioni Centrali per le questioni rilevanti sul 
+riesame della direzione. 
+o i legami funzionali fra le varie figure responsabili previste (Responsabile SIGS, Referenti 
+Direzionali SIGS, Referenti Territoriali del SIGS). Per il dettaglio si rimanda alla 
+
+## Página 35
+
+Comunicazione Organizzativa medesima, mentre nelle successive figure è rappresentato 
+schematicamente il modello di governo del SIGS. In figura 1, in particolare, è 
+rappresentato lo schema del modello organizzativo per il governo relativo all'SGS; in 
+figura 2 è invece rappresentato lo schema del modello organizzativo per il governo 
+relativo agli ambiti tematici relativi alla sicurezza del lavoro e alla tutela ambientale. Tali 
+schematizzazioni mettono in evidenza anche i Livelli documentali illustrati al successivo 
+punto II.3.1.” 
+Figura 19 - Schema del modello organizzativo per il governo del SGL e del SGA 
+Il Manuale del Sistema di Gestione della Sicurezza della Circolazione dei Treni e dell'Esercizio 
+### Ferroviario RFI SGS M 2 0 dell’11/04/2017 riporta: 
+… omissis … 
+1.1.2 
+CAMPO DI APPLICAZIONE 
+Il presente Manuale si applica a tutti i processi e alle relative attività di RFI che hanno impatto 
+sulla sicurezza della circolazione dei treni e dell’esercizio ferroviario (di seguito “sicurezza 
+dell’esercizio”). 
+Tali processi ed attività sono progettati, programmati, pianificati, attuati e controllati dalle 
+Direzioni/Strutture organizzative di sede centrale e dalle dipendenti Strutture organizzative a 
+livello territoriale, ciascuna in coerenza e nell’ambito delle missioni e responsabilità definite 
+in apposita documentazione di comunicazione organizzativa (vedasi Allegato 1 al presente 
+Manuale). 
+L’organizzazione che gestisce quanto sopra è schematicamente rappresentata nella successiva 
+Fig. 1. 
+
+## Página 36
+
+Fig.l 
+Tali Strutture, per l’attuazione dei propri processi possono avvalersi del supporto di altre 
+Strutture Organizzative aziendali (“fornitori interni”); laddove le attività di supporto hanno un 
+impatto indiretto sulla sicurezza dell’esercizio ferroviario, il controllo dei rischi derivanti da 
+tali attività è comunque esercitato dalle Strutture di cui alla precedente figura 1, che pertanto 
+ne rimangono responsabili in qualità di “committenti interni”: ciò in analogia a quanto 
+avviene per i fornitori esterni. 
+Nel contesto di cui al presente Manuale del SGS, le attività aventi un impatto sulla sicurezza 
+della circolazione dei treni e dell’esercizio ferroviario sono: 
+1) 
+condotta dei treni; 
+2) 
+preparazione dei treni (PDT) 
+3) 
+accompagnamento dei treni (ADT); 
+4) 
+gestione della circolazione; 
+5) 
+manutenzione dei veicoli; 
+6) 
+manutenzione dell’infrastruttura. 
+Per ognuna di tali attività di sicurezza RFI ha individuato i ruoli all’interno della propria 
+organizzazione nonché, per ognuno di questi, i contesti operativi in cui essi sono attuati. 
+…omissis… 
+Il documento Il processo di monitoraggio e di miglioramento RFI P 01 1 0 del 25/09/2015 
+riporta: 
+…omissis… 
+III.3 ELABORAZIONE E ANALISI DEI DATI: INDICATORI 
+Per consentire il monitoraggio e il miglioramento dei processi gestiti, le Direzioni Centrali 
+individuano opportuni indicatori qualitativi e/o quantitativi o un mix di entrambi. 
+Ogni qualvolta viene definito un indicatore per misurare il fenomeno o la prestazione oggetto 
+di monitoraggio, per ognuno di essi è individuata la SO "Referente dell'Indicatore” che 
+rimane responsabile della raccolta ed estrazione dei dati necessari per la quantificazione 
+dell'indicatore stesso nonché del "livello di monitoraggio” e della "frequenza" di elaborazione. 
+
+## Página 37
+
+Per ciascun indicatore è definito l'algoritmo di calcolo e l'eventuale applicativo utilizzato per 
+l'estrapolazione dei dati relativi al processo oggetto di monitoraggio. 
+Gli indicatori: 
+a) forniscono allarmi preventivi in caso di deviazione dal risultato atteso o assicurazione che il 
+risultato atteso sia stato raggiunto come programmato;  
+b) forniscono informazioni in merito a esiti non voluti;  
+c) sostengono il processo decisionale. 
+…omissis… 
+VERIFICA TERRITORIALE DELL' EFFICACIA DELLE MISURE MITIGATIVE  
+I responsabili delle Direzioni territoriali, per ogni pericolo prendono in considerazione gli 
+eventi che si sono verificati nella propria giurisdizione negli ultimi 12 mesi. 
+Per ognuno di essi e per i soli eventi che si sono verificati nel periodo in esame ne stimeranno 
+la frequenza e, se questa risulta maggiore rispetto a quella del periodo precedente sono 
+adottate le necessarie misure mitigative. Tali misure mitigative sono comunicate alla propria 
+Direzione centrale che le acquisisce nel Documento di Valutazione Rischi Ferroviari di 
+Direzione (DVRFD) di cui alla procedura RFI PSE 01, aggregandole alla scheda di verifica di 
+accettabilità del rischio associato al pericolo preso in esame. 
+…omissis… 
+Il Regolamento per la Circolazione dei Treni di RFI SpA (Aggiornato con decreto ANSF n. 
+12/2009), all’art.23 (Ritardi ed anormalità nella corsa dei treni) prescrive quanto segue: 
+…omissis… 
+7. Quando il personale di macchina o quello di scorta noti qualche anormalità od irregolarità 
+che possa compromettere la sicurezza del proprio o di altri treni, salve disposizioni particolari, 
+deve arrestare il treno e provvedere possibilmente per l'eliminazione delle anormalità. 
+Se questa non è eliminabile, o se trattasi di attentati interessanti la sicurezza della circolazione 
+o l'incolumità dei viaggiatori, il capotreno, dopo aver adottato i provvedimenti e le cautele 
+richiesti dalla situazione, deve al più presto informare dell'accaduto una delle  stazioni 
+limitrofe. 
+7 bis. Il personale di macchina che riscontri in un determinato tratto di linea anormalità nella 
+marcia del proprio treno (salti, sobbalzi, sbandamenti, ecc.) di origine imprecisata, ma tali da 
+far comunque ritenere possibile l'esistenza di anormalità al binario, deve arrestare il treno 
+nella prima località di servizio per notificare l'anormalità. Lo stesso personale, inoltre, dovrà 
+concordare con il dirigente, con criteri prudenziali, l'entità della riduzione di velocità da 
+prescrivere ai treni interessati e sempre che nella circostanza non siano giudicati necessari 
+provvedimenti più cautelativi. Ciò in attesa dell'intervento del personale della manutenzione, 
+avvisato a cura dello stesso dirigente. 
+Nel caso venga istituita una riduzione di velocità, nella prescrizione il tratto interessato 
+all'anormalità può essere delimitato da località di servizio o cippo chilometrico; qualora la 
+stessa sede ferroviaria sia comune a più linee non coincidenti, il tratto in soggezione dovrà 
+essere delimitato solo da località di servizio. I dirigenti movimento provvederanno per 
+l'avviso ai soli treni effettivamente interessati1 nei modi d'uso. 
+1 Non superate velocità di .... Km/h da .... (località di servizio o cippo chilometrico) a .... (località di servizio 
+o cippo chilometrico). 
+
+## Página 38
+
+7 ter. Nel caso si riscontri la rottura di una rotaia, la circolazione deve essere arrestata, salvo 
+che il personale della  manutenzione abbia dato le necessarie istruzioni per l'eventuale inoltro 
+dei treni verso il tratto in soggezione, notificando per iscritto ai dirigenti delle due stazioni 
+limitrofe la riduzione di velocità, il binario interessato, le località di servizio o i cippi 
+chilometrici delimitanti il tratto in soggezione; qualora la stessa sede ferroviaria sia comune a 
+più linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà essere delimitato 
+solo da località di servizio. I dirigenti stessi provvederanno per l'avviso ai treni2 nei modi 
+d'uso. 
+…omissis… 
+L’Istruzione per il servizio del personale di condotta delle locomotive (IPCL), all’art. 40 
+(Ritardi e anormalità nella corsa dei treni – Retrocessione - Malore del macchinista o dell’aiuto 
+macchinista o del Capotreno) prevede quanto segue: 
+…omissis… 
+5 ter. - Il personale di macchina che riscontri in un determinato tratto di linea anormalità nella 
+marcia del proprio treno (salti, sobbalzi, sbandamenti ecc.) di origine imprecisata ma tali da 
+far comunque ritenere possibile l’esistenza di anormalità al binario, deve arrestare il treno 
+nella prima località di servizio per notificare con mod. M.40a l’anormalità all’agente che 
+presenzia l’impianto (o al D.C.O.). Lo stesso personale, inoltre, dovrà concordare con il 
+dirigente movimento (o D.C.O.), al quale è stata comuni cata l’anormalità, con criteri 
+prudenziali, l’entità della riduzione di velocità da prescrivere ai treni interessati e sempre che 
+nella circostanza non siano giudicati necessari provvedimenti più cautelativi; ciò in attesa 
+dell’intervento del personale della manutenzione, avvisato a cura dello stesso dirigente. 
+Nel caso di invio dei treni con riduzione di velocità il tratto interessato dall’anormalità può 
+essere delimitato da località di servizio o cippi chilometrici; qualora la stessa sede ferroviaria 
+sia comune a più linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà 
+essere delimitato solo da località di servizio. 
+La prescrizione della riduzione di velocità deve essere partecipata solo ai treni interessati, 
+formula: “Non superate velocità di .......km/h da ….…(località di servizio o cippo 
+chilometrico) a .....….(località di servizio o cippo chilometrico)”. 
+5 quater. - Nel caso si riscontri la rottura di una rotaia, la circolazione deve essere arrestata, 
+salvo che il personale della manutenzione abbia dato le necessarie istruzioni per l’eventuale 
+inoltro dei treni verso il tratto in soggezione. In tal caso il tratto in soggezione può essere 
+delimitato da località di servizio o cippi chilometrici; qualora la stessa sede ferroviaria sia 
+comune a più linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà essere 
+delimitato solo da località di servizio. 
+La prescrizione della riduzione di velocità deve essere partecipata solo ai treni interessati, 
+formula: “Non superate velocità di .......km/h da .......(località di servizio o cippo chilometrico) 
+a (località di servizio o cippo chilometrico)”. 
+…omissis… 
+2 Non superate velocità di .... Km/h da .... (località di servizio o cippo chilometrico) a .... (località di servizio o cippo 
+chilometrico). 
+
+## Página 39
+
+La Disposizione n. 60 del 02.09.2005 Servizi di vigilanza linea armamento e sede prescrive 
+quanto segue: 
+…omissis… 
+### Parte III 
+III.1 MODALITÀ E PRESCRIZIONI DI ESECUZIONE DELLE VISITE ORDINARIE 
+Le visite ordinarie riguardano l’ispezione dei singoli binari e dei deviatoi posti sia sui binari 
+di corsa, sia sugli altri binari delle tratte e delle località. 
+Nel corso delle suddette visite gli agenti incaricati devono far attenzione a tutto ciò che può 
+influire sulla regolarità e sicurezza della circolazione dei treni e sul mantenimento 
+dell’integrità della linea e delle sue dipendenze. 
+In particolare devono: 
+a) controllare lo stato del binario per rilevare difetti che si siano manifestati e che possono 
+essere pregiudizievoli alla regolare marcia dei veicoli; una particolare attenzione deve essere 
+rivolta all’accertamento di eventuali rotture di rotaia nel qual caso dovranno essere presi 
+d’iniziativa tutti i provvedimenti previsti dalla vigente normativa; 
+b) osservare lo stato del corpo stradale, delle opere d’arte, delle recinzioni nonché lo sviluppo 
+della vegetazione per rilevare eventuali anormalità; 
+c) verificare l’efficienza e la chiusura a chiave delle barriere dei passaggi a livello in consegna 
+ad utenti privati, l’integrità delle barriere dei passaggi a livello manovrati a distanza, e delle 
+relative trasmissioni, dei segnali a protezione dei passaggi a livello aperti ed incustoditi (croci 
+di S. Andrea, tabelle monitorie) e dei segnali della linea esposti per rallentamenti, per la 
+protezione dei cantieri di lavoro, ecc.; 
+d) osservare, in caso di piene o mareggiate, gli effetti dell’azione delle acque in 
+corrispondenza dei manufatti ferroviari e delle difese della ferrovia nei punti particolarmente 
+esposti o più notoriamente soggetti a danni; 
+e) osservare i tratti soggetti a movimenti franosi, a cedimenti o simili interessanti la sede 
+ferroviaria e le sue opere; 
+f) osservare, sulle linee elettrificate, la linea di contatto avvertendo il più vicino impianto I.E. 
+qualora vengano rilevati cedimenti di sostegni, rilassamento o spezzamento di fili, rotture di 
+isolatori, produzione di fiamme o crepitii sugli isolatori od altre anormalità; 
+g) rilevare eventuali infrazioni alle leggi ed al Regolamento di Polizia Ferroviaria (D.P.R. 11 
+luglio 1980, n. 753), sia per quanto concerne la proprietà ferroviaria (costruzioni abusive a 
+distanza ridotta dal binario, alterazioni del corpo stradale, scavi o siepi o alberi o depositi di 
+materiale a distanza illegale dalla sede ferroviaria, rami che si protendono oltre il ciglio 
+della sede stradale, ecc.), sia per quanto concerne la sicurezza della circolazione 
+(attraversamenti abusivi, circolazione di estranei nella sede ferroviaria, pascoli di bestiame 
+incustodito in vicinanza della ferrovia, apertura di varchi abusivi nelle recinzioni, ecc.) 
+accertando tutte le anormalità presenti. 
+In ogni caso quando gli agenti, nel corso delle visite, rilevassero danni o anormalità che 
+costituiscono immediato pericolo per la circolazione, debbono provvedere per l’arresto dei 
+treni, informandone le stazioni limitrofe o i D.C.O. o il D.U. per le incombenze di 
+competenza. 
+Per ogni altra anormalità che richieda provvedimenti urgenti ma non sia di ostacolo alla 
+circolazione dei treni, gli agenti stessi, indipendentemente dagli interventi diretti e di 
+iniziativa, debbono avvertire il superiore diretto, fornendo tutte le informazioni del caso. 
+Sulle linee a doppio binario la visita va effettuata separatamente per ciascun binario. 
+Le visite ordinarie si effettuano a piedi, con opportuno mezzo d’opera, in cabina locomotiva e 
+mediante i mezzi della diagnostica mobile. 
+
+## Página 40
+
+Le visite dovranno essere di norma effettuate in interruzioni programmate (in orario o non), in 
+intervalli d’orario, in interruzione di servizio per esigenze tecniche. 
+Quando le visite disposte con la presente Normativa determinano soggezioni all’esercizio, i 
+giorni e l’orario in cui effettuare le visite dovranno essere programmati secondo le direttive 
+emanate dalle Unità Periferiche in modo che le visite stesse ricadano nei momenti di minor 
+traffico, possibilmente di giorno e siano coordinate con il resto degli interventi manutentivi. 
+In base al programma per la vigilanza ordinaria delle linee predisposto dal Capo Tronco ed 
+approvato dal Capo Reparto Esercizio, gli agenti incaricati delle visite ordinarie debbono 
+controllare il tratto di linea o di località previsto fermandosi, quando occorra, per effettuare 
+ispezioni e controlli che fossero ordinati o che si rendessero necessari, avendo sempre cura di 
+rispettare le norme di sicurezza e di protezione cantieri. 
+Nel corso delle visite gli agenti devono far attenzione a tutto ciò che può influire sulla 
+regolarità e sicurezza della circolazione dei treni e sul mantenimento dell’integrità della linea 
+e delle sue dipendenze. 
+Il programma per la vigilanza deve indicare, tra l’altro, le tratte da visitare, i giorni ed i turni 
+degli agenti incaricati nonché le modalità di visita. 
+La Direzione Manutenzione emanerà apposite disposizioni in merito a quanto sopra detto, ai 
+controlli da eseguire, alla frequenza ed alle verbalizzazioni delle visite. 
+Con riferimento alla corrispondente normativa TE la visita TE con mezzo d’opera e a piedi si 
+effettuerà congiuntamente alla visita Armamento e Sede. 
+III.1.1 Modalità di esecuzione delle visite a piedi 
+Norme comuni 
+La visita a piedi alle frequenze stabilite è obbligatoria e si effettua percorrendo la banchina o 
+il sentiero pedonale o, in mancanza, percorrendo il binario in regime di interruzione. 
+La visita agli scambi deve essere eseguita percorrendo entrambi i rami dello scambio e, di 
+conseguenza, in assenza di circolazione oppure con idonea protezione istituita ai sensi 
+dell’IPC. 
+Linee con velocità fino a 250 km/h 
+La visita a piedi in galleria verrà effettuata con le seguenti modalità: 
+a) di norma, in assenza di circolazione sul binario da visitare e con riduzione della velocità 
+sull’eventuale binario attiguo a non più di 160 km/h, se possibile mediante abbattimento 
+codice; 
+b) percorrendo la banchina, in presenza di circolazione sul binario soggetto a visita, sulle linee 
+non banalizzate e su quelle a semplice binario, con esclusione delle linee a doppio binario 
+esercitate in C.T.C., purché sussistano tutte le seguenti condizioni: 
+- velocità massima non superiore a 160 km/h; 
+- banchina normalmente percorribile; 
+- nicchia almeno ogni 30 metri, da entrambi i lati se a doppio binario. 
+I tratti di linea che soddisfano alle condizioni del precedente punto b) saranno, a cura delle 
+Unità periferiche interessate, indicati sul Registro delle disposizioni di servizio M.365 delle 
+stazioni interessate. 
+Su linea a doppio binario, prima della visita, l’agente dovrà darne comunicazione scritta al 
+D.M. interessato specificando il binario soggetto a visita, le località di servizio delimitanti la 
+galleria o le gallerie, nel senso di marcia dell’agente, nonché le ore di inizio e di termine della 
+visita in galleria. 
+Dopo aver sincronizzato il proprio orologio con quello del D.M. ed aver ricevuto conferma 
+che non è in atto la circolazione a binario unico sul lato interessato dalla visita, l’agente si 
+potrà immettere in galleria percorrendo la banchina di destra, cioè camminando in senso 
+opposto a quello di circolazione legale dei treni. 
+
+## Página 41
+
+Qualora durante l’orario comunicato sorgesse la necessità di inviare treni in senso illegale sul 
+binario interessato, il Dirigente Movimento prescriverà al solo primo treno istradato 
+sull’illegale, in aggiunta alle normali prescrizioni occorrenti, la riduzione di velocità a 60 
+km/h e l’emissione di fischi ripetuti nel tratto delimitato dalle località di servizio 
+precedentemente comunicate dall’agente. 
+Tenuto conto che l’agente ha l’obbligo di effettuare la visita percorrendo la banchina o il 
+sentiero pedonale, la riduzione di velocità a 60 km/h è prescritta unicamente per aumentare il 
+tempo a disposizione dell’agente incaricato della visita per porsi in condizioni di maggior 
+sicurezza. 
+Resta in ogni caso il compito dell’agente stesso di proteggersi dall’eventuale arrivo del treno 
+sul binario illegale, non abbandonando la banchina. 
+Al sopraggiungere del primo treno sul binario illegale, l’agente dovrà interrompere la visita e 
+rientrare in sede. 
+Qualora la visita venga ultimata prima dell’ora stabilita l’agente, se possibile, ne informerà 
+con dispaccio il D.M. per l’anticipata cessazione della suddetta soggezione. Diversamente non 
+occorre comunicazione poiché le cautele predette cessano automaticamente all’ora concordata 
+per la fine della visita. 
+In assenza di idonei sentieri pedonali in lunghe gallerie o all’aperto, quando l’intensità della 
+circolazione non consente interruzioni sufficienti ad eseguire la visita almeno su una 
+ragionevole estesa, si potrà suddividere la tratta da ispezionare in brevi tronchi, ciascuno dei 
+quali sarà percorso dall’agente addetto alla visita portato con mezzo d’opera all’inizio del 
+tratto assegnatogli. 
+Prima del termine dell’interruzione il mezzo d’opera ripercorrerà il binario interrotto 
+raccogliendo gli agenti che hanno effettuato la visita. 
+Quando si effettua una visita in galleria a doppio binario con le modalità del presente punto, 
+va imposta sul binario attiguo la riduzione di velocità a 160 km/h di cui al punto a) 
+precedente. 
+Linee con velocità superiore a 250 km/h 
+Sulle linee AV/AC, con velocità superiore a 250 km/h, le visite a piedi nei tratti allo scoperto 
+verranno eseguite percorrendo il sentiero adiacente al binario sul quale, però, non dovranno 
+circolare treni con velocità superiore a 250 km/h. 
+Allo scopo di ridurre le soggezioni all’esercizio, le tratte da visitare verranno opportunamente 
+frazionate e percorse da più incaricati contemporaneamente. 
+Le visite nelle gallerie delle predette linee AV/AC verranno eseguite con mezzi d’opera 
+attrezzati con impianto di illuminazione a fari orientabili od all’occorrenza a piedi in regime 
+di interruzione della circolazione del binario interessato. 
+III.1.2 Modalità delle visite con mezzo d’opera  
+Nell’effettuazione delle visite dall’interno del mezzo d’opera sia su linee tradizionali che su 
+linee AV/AC dovranno essere osservate le seguenti prescrizioni e modalità: 
+1. sul mezzo prenderanno posto il conducente ed il personale addetto alla visita; 
+2. quando la durata dell’interruzione non è sufficiente a percorrere la tratta alla velocità 
+idonea per un accurato controllo, la tratta stessa sarà suddivisa in parti da visitare in giorni 
+diversi, salvo che non risulti più opportuno procedere come indicato al punto III.1.1.; 
+3. nei casi di vigilanza eseguita di notte o in galleria non illuminata, il mezzo d’opera 
+utilizzato per le visite dovrà essere attrezzato con impianto di illuminazione a fari orientabili, 
+in aggiunta alle normali lampade portatili in dotazione al personale a bordo del mezzo d’opera 
+stesso; 
+4. quando la visita si effettua dall’interno del mezzo d’opera non deve essere imposta nessuna 
+limitazione alla circolazione dei treni sul binario attiguo fatta eccezione per i casi in cui tale 
+
+## Página 42
+
+limitazione non sia già connessa alla circolazione dei mezzi d’opera in regime di interruzione 
+di binario (linee con velocità superiore a 160 km/h) o quando, sulle stesse linee, sia necessario 
+scendere dal mezzo d’opera; 
+5. premesso che la visita ha scopo ispettivo, quando eccezionalmente durante la visita stessa si 
+rilevasse necessità di uscire dal mezzo, dovranno essere adottate, se del caso, le precauzioni 
+previste dall’I.P.C.; 
+6. in ogni caso è vietato uscire dal mezzo d’opera lato intervia.  
+III.1.3 Modalità delle visite con mezzi di diagnostica mobile 
+I mezzi di diagnostica rilevano i parametri previsti dall’allegato 1 alla Disposizione n° 18 del 
+30/04/2004 “Standard di qualità geometrica del binario con velocità fino a 300 km/h”. 
+Le corse per il rilievo possono essere sfruttate dal personale dell’esercizio presente a bordo 
+per effettuare la visita linea dall’interno dei mezzi di diagnostica sulle tratte/località di propria 
+giurisdizione. 
+A seguito delle non conformità rilevate nel corso della visita il Capo Tronco deve disporre 
+una visita straordinaria a piedi per valutare precisamente cause ed entità dei difetti e, nel caso, 
+provvedere alla eliminazione degli stessi. 
+III.1.4 Modalità di esecuzione delle visite in cabina 
+La visita deve essere effettuata dal Capo di ogni Tronco di giorno dall’interno della cabina dei 
+treni delle Imprese Ferroviarie sulle tratte/località di propria giurisdizione avendo cura di 
+alternare la visita tra le diverse tipologie di treni. 
+Le Direzioni Compartimentali Infrastruttura devono provvedere a richiedere alle Imprese di 
+Trasporto i relativi permessi per l’accesso dei Capi Tronco nelle cabine dei rotabili in 
+servizio. 
+A seguito delle non conformità rilevate nel corso della visita in cabina il Capo Tronco deve 
+disporre una visita straordinaria a piedi per valutare precisamente cause ed entità dei difetti e, 
+nel caso, provvedere alla eliminazione degli stessi. 
+## PARTE IV 
+IV.1 VISITE STRAORDINARIE 
+Le visite straordinarie vengono effettuate per accertare lo stato della linea al verificarsi di 
+eventi straordinari che possono compromettere l’integrità della linea stessa o arrecare 
+comunque turbamento alla circolazione dei treni (gravi perturbazioni atmosferiche, venti 
+eccezionali, piogge intense ed uragani, caduta di valanghe, rapido scioglimento delle nevi, 
+alluvioni, inondazioni, piene di fiumi o di torrenti, mareggiate, terremoti, ecc.) oppure per 
+saltuarie e diverse necessità di controllo preventivo (stabilità del binario al verificarsi di 
+intensi calori estivi, movimenti franosi, dissesti prodotti dal passaggio di rotabili sviati, 
+segnalazioni anormalità, ecc.). 
+Tali visite sono disposte dal Capo Tronco quando se ne manifesti la necessità, oppure possono 
+essere disposte d’iniziativa dal personale reperibile (Dirigenti o Capi Reparto) tramite il CEI. 
+A tali effetti sono da considerare punti singolari della linea: 
+a) le opere d’arte (ponti, ecc.) o comunque le località soggette al rigurgito o all’inondazione 
+da corsi d’acqua o dal mare; 
+b) le scarpate delle trincee e dei rilevati ove si temano smottamenti; 
+c) le ripide falde montane, sovrastanti la ferrovia, da cui si temono cadute di massi e 
+smottamenti; 
+d) le zone di terreno che possano scoscendere, indebolirsi od avvallarsi (frane in movimento); 
+e) le tratte di sede ferroviaria e sue adiacenze, soggette di recente ad escavazioni o erosioni; 
+f) i tratti di binario particolarmente soggetti a deformazioni durante i calori estivi. 
+
+## Página 43
+
+Gli agenti, se incaricati di presenziamento continuo, non debbono abbandonare la zona 
+assegnata senza darne avviso al proprio Superiore diretto che dovrà provvedere se necessario, 
+alla sostituzione. 
+In caso di pericolo essi dovranno immediatamente adottare le procedure più idonee previste 
+dal Regolamento sui Segnali per l’arresto in linea dei treni dando verbalmente al macchinista 
+tutte le informazioni o le istruzioni occorrenti per transitare con precauzione nei punti 
+pericolosi ed informando successivamente le stazioni limitrofe per le incombenze di 
+competenza. 
+…omissis… 
+IV.3 VISITE ALLE GALLERIE, PONTI ED OPERE D’ARTE 
+Le modalità delle visite alle gallerie, ai ponti ed alle altre opere d’arte del corpo stradale, sono 
+regolate dalla istruzione 44C del 1994 e successive modifiche e integrazioni emanate in 
+conformità a quanto stabilito all’art. 98 del. D.P.R 11.7.1980, n. 753. 
+Le Disposizioni operative di dettaglio per la visita linea ordinaria nei settori "Armamento e 
+### sede" e "TE" RFI DPR PS IFS 086 C del 30.11.2015 prescrivono quanto segue: 
+…omissis… 
+Parte II – Classificazione della rete ai fini della periodicità della visita linea ordinaria 
+Poiché il degrado dei sottosistemi, delle apparecchiature e degli oggetti che provocano di 
+riflesso riduzione di disponibilità dell’infrastruttura alla circolazione, è funzione dei parametri 
+legati alla sollecitazione indotta dalla circolazione treni, si è introdotta la differenziazione 
+delle periodicità di visita in funzione delle categorie delle linee (gruppi linee utilizzati per gli 
+indici di performance - Allegato A), del volume di traffico (tonnellaggio giornaliero e 
+pantografi/giorno) e della velocità della linea. 
+Ai fini della definizione delle frequenze e delle modalità di visita ordinaria, le linee della rete 
+RFI sono state suddivise in 4 classi, ciascuna contenente linee omogenee per caratteristiche 
+commerciali, di traffico e per numero di pantografi sollecitanti la ldc. 
+Dette classi sono riportate nell’allegato B. 
+Tutti i binari di una località o di una tratta assumono la classe della loro linea di appartenenza. 
+Nelle località multilinea, in cui confluiscono binari attribuiti a diverse classi, tutta la località 
+assume la classe di visita più importante (da cui derivano visite più frequenti) e tale 
+classificazione è valida anche per i binari centralizzati e non centralizzati. 
+I binari delle tratte ricomprese nell’ambito dei nodi vengono classificati secondo la classe 
+della Linea a cui appartengono. Fanno eccezione soltanto i binari di Linee affiancate, utilizzati 
+promiscuamente, che assumono tutti la classificazione della linea più importante. 
+…omissis… 
+### Parte III – Modalità delle visite ordinarie 
+…omissis… 
+III.4.3 Modalità delle visite con mezzi di diagnostica mobile 
+I mezzi di diagnostica rilevano i parametri previsti dalle normative tecniche dei settori LV e 
+TE. 
+Le corse per il rilievo possono essere sfruttate dal personale dell’esercizio presente a bordo 
+per effettuare la visita linea dall’interno dei mezzi di diagnostica sulle tratte/località di propria 
+giurisdizione. 
+
+## Página 44
+
+A seguito delle non conformità rilevate nel corso della visita il RCDL-LV/RCDL-TE deve 
+disporre una visita straordinaria a piedi per valutare precisamente cause ed entità dei difetti e, 
+nel caso, provvedere alla eliminazione degli stessi. 
+III.4.4 Modalità di esecuzione delle visite in cabina 
+La visita deve essere effettuata dal RCDL-LV/RCDL-TE o suo delegato di giorno dall’interno 
+della cabina dei treni delle Imprese Ferroviarie sulle tratte/località di propria giurisdizione 
+avendo cura di alternare la visita tra le diverse tipologie di treni. 
+Le Direzioni Territoriali Produzione devono provvedere a richiedere alle Imprese di Trasporto 
+i relativi permessi per l’accesso dei RCDL-LV/RCDL-TE nelle cabine dei rotabili in servizio. 
+A seguito delle non conformità rilevate nel corso della visita in cabina RCDL-LV/RCDL-TE 
+deve disporre una visita straordinaria a piedi per valutare precisamente cause ed entità dei 
+difetti e, nel caso, provvedere alla eliminazione degli stessi. 
+…omissis… 
+### Parte IV – Frequenza e verbalizzazione visite  
+IV.1 - PERIODICITA’ DELLE VISITE ORDINARIE – PARTE COMUNE 
+Le diverse modalità di visita andranno intercalate opportunamente tra loro al fine di ottenere 
+un controllo dell’infrastruttura il più costante possibile. 
+La gestione degli Ordini di Lavoro relativi alla vigilanza sarà eseguita in conformità alle 
+norme che regolano la pianificazione/programmazione e la consuntivazione delle attività di 
+manutenzione preventiva ciclica. 
+Maggiori frequenze di visita potranno eccezionalmente essere stabilite con provvedimento 
+delle Unità Territoriali competenti in relazione ad oggettive situazioni particolari quali, ad 
+esempio: 
+- condizioni del binario; 
+- binario armato con rotaie di tipo leggero (< 50 UNI) non in LRS, traverse in legno; 
+- velocità particolarmente elevate, anche in relazione alla tortuosità del tracciato; 
+- zone di instabilità idrogeologica, o soggette a mareggiate o erosioni; 
+- accertate carenze strutturali o particolare vetustà delle opere d’arte; 
+- zone in rapida trasformazione per nuovi insediamenti abitativi, industriali o per altre 
+azioni antropiche; 
+- tratti soggetti a frequenti attraversamenti o transiti abusivi; 
+- zone industriali con ambienti particolarmente aggressivi (cementifici, concerie, ecc.). 
+I provvedimenti motivati delle U.T. con cui si dispongono variazioni delle frequenze di visita 
+dovranno immediatamente essere trasmessi per conoscenza alla AMPC, alla DTP ed alla DIT 
+della Direzione Produzione. 
+Viceversa, nei casi di oggettive situazioni particolari sopraccitate, ma localizzate e/o di breve 
+durata, dovranno essere programmate specifiche visite straordinarie. 
+I relativi Ordini di Lavoro devono essere emessi, nei tempi e nei modi previsti dal calendario 
+di programmazione delle attività, dai PC-UT. 
+Qualora, per sopravvenuti ed improvvisi impedimenti, non fosse possibile eseguire la visita 
+ordinaria con la prevista modalità entro sette giorni dalla data preventivata, la visita stessa 
+deve essere comunque eseguita, seppure con una diversa modalità, secondo quanto specificato 
+nella tabella che segue: 
+
+## Página 45
+
+Tale sostituzione non deve essere operata consecutivamente per più di una volta, ad eccezione 
+di quella relativa alla diagnostica mobile e di quelle svolte sui nodi. 
+Il programma delle visite ordinarie, contenente anche il dettaglio della suddivisione dei tratti 
+da visitare, i mezzi di trasporto da utilizzare, i punti di concentramento e di eventuale 
+recupero del personale, i tragitti da effettuare, le limitazioni alla circolazione da imporre ed i 
+tempi necessari all’esecuzione delle visite, deve essere predisposto semestralmente dai 
+RCDL-LV/RCDL-TE approvato dai RUT ed inviato ai PCUT competenti entro l’ultimo 
+giorno del mese di ottobre e di aprile rispettivamente per il programma del 1° e del 2° 
+semestre dell’anno successivo. 
+Qualora da controlli, monitoraggi, audit, emerga il mancato rispetto della modalità e/o della 
+frequenza di visita previste, dovranno essere adottati provvedimenti disciplinari a carico dei 
+responsabili. 
+IV.2 PERIODICITÀ DELLE VISITE ORDINARIE ALLE TRATTE ED ALLE LOCALITÀ 
+NEL SETTORE “ARMAMENTO E SEDE” 
+La periodicità delle visite è fissata nella seguente tabella in funzione delle classi di linee e 
+degli oggetti da sottoporre a visita: 
+…omissis… 
+IV.4 CONTROLLI DA ESEGUIRE E VERBALIZZAZIONE VISITE 
+Al fine di migliorare l’efficacia della visita linea sono stati predisposti nuovi documenti di 
+verbalizzazione (Allegati C-D-E-F per il settore Armamento e allegati G-H-I per il settore 
+TE). 
+
+## Página 46
+
+Nella parte sinistra dei nuovi moduli, uno per ogni modalità di visita, è riportata la check-list 
+che attribuisce ad ogni oggetto Principale e suoi Dettagli le relative operazioni minime di 
+rilevamento a cui potranno aggiungersi quelle eventualmente disposte dai RCDL-LV/RCDL-
+TE, mentre nella parte destra è disponibile lo spazio per riportare i dettagli delle “difformità” 
+rilevate e la loro precisa ubicazione. 
+Gli agenti, durante l’espletamento delle visite, compileranno il modulo certificando di fatto la 
+conformità e l’efficienza degli impianti visitati e, nel caso di difformità riscontrate, 
+segnaleranno ogni possibile elemento utile alla programmazione delle necessarie attività 
+manutentive. 
+È importante prestare attenzione alla corretta compilazione delle colonne “controllato” e “N° 
+difformità” sulla base delle quali sarà possibile effettuare analisi statistiche ed eventuali 
+revisioni delle modalità di visita. 
+Nei casi in cui non sia possibile effettuare uno dei controlli previsti, scrivere a lato i motivi 
+che hanno generato tale impossibilità. 
+Qualora un modulo non sia sufficiente a contenere tutte le annotazioni necessarie, è possibile 
+utilizzare ulteriori moduli o produrre degli allegati opportunamente strutturati. 
+Nell’effettuare la visita, l’agente addetto, oltre a segnalare eventuali non conformità che 
+rivestono carattere di urgenza, deve valutare lo stato di degrado degli elementi infrastrutturali 
+in modo di evitare il verificarsi di avarie nel periodo intercorrente tra la visita in corso e la 
+successiva. 
+Nello spazio relativo ai provvedimenti da adottare, il RCDL-LV/RCDL-TE individua le 
+eventuali azioni da effettuare per eliminare le difformità rilevate. 
+In particolare, in caso di non conformità che possono essere rimosse direttamente con le 
+risorse a disposizione senza impattare sulla programmazione, il RCDL-LV/RCDL-TE 
+provvederà all’apertura di un ordine di lavoro tipo 221 e alla rimozione delle difformità. 
+Al contrario, in caso di difformità che richiedano un’attività di programmazione 
+dell’intervento, il RCDL-LV/RCDL-TE garantirà la gestione della stessa mediante l’apertura 
+di un avviso di attività. 
+I rapporti di visita dovranno essere conservati agli atti degli Impianti per 2 anni. 
+La registrazione delle visite dovrà avvenire attraverso il sistema informativo aziendale 
+denominato “SIME” secondo le modalità definite all’interno del manuale operativo dedicato, 
+scaricabile nel portale delle applicazioni RFI. I documenti di verbalizzazione dovranno essere 
+le stampe provenienti dal sistema “SIME” opportunamente integrate con note e debitamente 
+firmate dalle figure previste. 
+In caso di presenza di problematiche tecniche che rendano inutilizzabile il sistema “SIME”, la 
+verbalizzazione potrà avvenire nella modalità prevista dalla procedura in oggetto e utilizzando 
+gli allegati. Una volta disponibile il sistema la verbalizzazione dovrà comunque essere 
+registrata senza però l’obbligo di riemettere il documento cartaceo. 
+
+## Página 47
+
+### Allegato B 
+L’Istruzione 44C Visite di controllo ai ponti, alle gallerie e alle altre opere d'arte 
+### dell'infrastruttura ferroviaria RFI DTC SICS PO IFS 001 A prevede quanto segue: 
+…omissis… 
+1.1 VISITE PERIODICHE 
+Le visite periodiche dovranno essere eseguite annualmente per quelle opere riscontrate 
+nell'ultima precedente visita perfettamente integre per quanto può avere riflessi nei riguardi 
+della sicurezza e della regolarità della circolazione dei treni; almeno semestralmente per 
+quelle opere in cui sono state riscontrate anomalie o deficienze o che sono tenute in esercizio 
+con particolari limitazioni e cautele. 
+Il Dirigente dell'Ufficio Produzione è, però, tenuto a stabilire una frequenza maggiore delle 
+visite di controllo in relazione alla gravità dei dissesti riscontrati, frequenza che, per 
+
+## Página 48
+
+particolari gravi anomalie, dovrà essere non superiore a due mesi, fatta salva, all'occorrenza , 
+la decisione di presenziamento continuato. 
+1.2 VISITE STRAORDINARIE 
+Le visite straordinarie dovranno essere eseguite al verificarsi di eventi eccezionali (alluvioni, 
+terremoti, piene eccezionali, ecc.), a parte gli adempimenti di vigilanza al profilarsi e nel 
+corso degli eventi stessi. 
+In tal caso dovrà essere effettuata una accurata visita ai manufatti, estesa alla zona circostante 
+interessata dall'evento calamitoso, al fine di accertare che gli eventi predetti non abbiano 
+avuto negativi riflessi sui necessari presupposti per la stabilità delle opere stesse e la sicurezza 
+dell'esercizio ferroviario. 
+…omissis… 
+2.2 
+MODALITÀ DI VISITA ALLE GALLERIE 
+2.2.1 Visite periodiche 
+Le visite di controllo alle gallerie dovranno riguardare le strutture murarie (rivestimenti, 
+portali d'imbocco e relativi muri, nicchie, ecc.) e le altre opere accessorie 
+(impermeabilizzazioni, cunette di smaltimento delle acque, drenaggi, marciapiedi), nonché le 
+pertinenze del manufatto, quali scarpate delle trincee d'imbocco e i terreni sovrastanti. 
+L'esame del rivestimento dovrà accertare il tipo e lo stato di conservazione, l'eventuale 
+presenza di lesioni, fessure, distacchi, degradazioni, restringimenti, rigonfiamenti, infiltrazioni 
+d'acqua, presenza di incrostazioni, ecc.. 
+Dovrà, inoltre, essere posta la necessaria attenzione per accertare l'efficienza delle opere di 
+raccolta ed allontanamento delle acque di infiltrazione, nonché eventuali inquinamenti della 
+massicciata ed anormalità del piano di piattaforma. 
+Qualora nel rivestimento murario vengano rilevati distacchi o lesioni, occorrerà procedere ad 
+un accurato esame, con rilievo dell'ubicazione e delle caratteristiche dei dissesti (lesioni di 
+trazione, sfaldoni di compressione, loro dimensioni, ecc.) da comparare con situazioni 
+precedentemente riscontrate. 
+In presenza di instabilità del piano di piattaforma , gli accertamenti dovranno riguardare anche 
+l'eventuale arco rovescio. 
+Nei casi in cui vengano riscontrati dissesti alle murature o infiltrazioni d'acqua, la visita, ove 
+del caso, dovrà essere estesa ai terreni ed agli eventuali corsi d'acqua sovrastanti e latistanti la 
+galleria , allo scopo di individuare le possibili cause degli inconvenienti. 
+In ogni caso, qualora le anomalie riscontrate possano avere negativi riflessi sulla transitabilità 
+della linea nei riguardi delle sagome ammesse a circolare, occorre prevedere tempestivamente 
+alla verifica del Profilo Minimo degli Ostacoli. 
+Agli imbocchi delle gallerie dovrà, in particolare, venire accertata l'efficienza delle cunette di 
+raccolta e smaltimento delle acque superficiali. 
+Nelle gallerie in cui all'intradosso del rivestimento esiste uno strato di intonaco 
+impermeabilizzante o di betoncino spruzzato, dovrà essere accertata, mediante percussione o 
+con altri metodi idonei, l'aderenza di tali strati alle sottostanti superfici murarie. 
+Nelle gallerie ove non esiste il rivestimento murario, la massima cura dovrà essere posta 
+all'esame dello stato di conservazione della roccia. 
+2.2.2 Visite straordinarie 
+Dovranno essere effettuate con le stesse modalità di cui al punto 2.2.1 al verificarsi di eventi 
+calamitosi. 
+…omissis… 
+
+## Página 49
+
+3 ORGANI TENUTI AD EFFETTUARE LE VISITE 
+3.1 
+VISITE PERIODICHE 
+Le visite debbono essere eseguite dai Capi Reparti preposti all'esercizio. 
+I Dirigenti degli Uffici Produzione sono tenuti ad esercitare la necessaria vigilanza 
+dell'ottemperanza agli adempimenti suddetti, intervenendo direttamente, ovvero tramite gli 
+ingegneri addetti al proprio Ufficio o all'Ufficio Opere Civili, per la effettuazione di specifici 
+accertamenti per le opere con caratteristiche strutturali che richiedono un giudizio 
+professionalmente più elevato, quando siano state riscontrate anormalità e, richiedono, se del 
+caso, anche l'intervento di personale esperto della Squadra Ponti per le opere metalliche. 
+…omissis… 
+4 COMPILAZIONE DELLE REGISTRAZIONI SULLO STATO DI CONSERVAZIONE 
+DELLE OPERE 
+4.1 VISITE PERIODICHE 
+L'esito delle visite annuali di controllo dovrà essere riportato, sui verbali modello L.52, da 
+compilarsi, per ciascuna linea, secondo le istruzioni riportate sul retro del modello stesso. 
+Inoltre dovrà essere compilata una "Relazione sulle constatazioni di speciale rilievo" nella 
+quale saranno evidenziate solo le opere per le quali siano state riscontrate anomalie di 
+particolare entità. 
+Per le visite eseguite con cadenza semestrale o inferiore, relative alle opere che presentano 
+particolari situazioni di anormalità, dovrà essere redatta una accurata relazione nella quale 
+saranno indicati: 
+a) i dissesti e le anormalità riscontrate, indicandone le probabili cause e descrivendone il 
+grado di evoluzione nel tempo; 
+b) gli accertamenti in corso od eseguiti e le relative risultanze; 
+c) gli eventuali provvedimenti provvisori attuati o da attuare per garantire la sicurezza 
+dell'esercizio ferroviario; 
+d) gli eventuali provvedimenti necessari per ripristinare la completa integrità dell'opera ed il 
+relativo impegno economico presunto; 
+e) gli eventuali lavori di manutenzione o rinnovo già eseguiti o in corso. 
+…omissis… 
+7 PROGRAMMA DEI LAVORI DI MANUTENZIONE E RINNOVO 
+I dati contenuti nelle relazioni sulle constatazioni di particolare rilievo e nelle relazioni 
+relative alle visite eseguite con cadenza semestrale o inferiore di cui al punto 4.1, come pure i 
+dati contenuti nelle relazioni di cui al punto 4.2 e nei verbali di cui al punto 4.3 saranno 
+riepilogati, per ciascuna Zona Territoriale, in un "Programma dei provvedimenti da adottare 
+per l'eliminazione dei dissesti e delle anomalie riscontrate nelle opere d'arte". 
+Tale Programma. da aggiornare con cadenza annuale anche in relazione al grado di priorità di 
+ciascun intervento, dovrà essere trasmesso al Servizio Armamento e Opere Civili entro il 
+mese di Ottobre di ciascun anno e costituirà il documento di supporto per la programmazione 
+nazionale dei lavori di manutenzione e di rinnovo. 
+…omissis… 
+Lo “Standard di qualità geometrica del binario e parametri di dinamica di marcia per 
+velocità fino a 300 km/h” RFI TCAR ST AR 01 001 A indica, nella Parte III, i livelli di qualità 
+geometrica correnti per quanto attiene l’allineamento, il livello longitudinale, il livello trasversale, 
+lo scartamento, lo sghembo e l’usura a 45°.  
+
+## Página 50
+
+In particolare, a titolo esemplificativo, in Figura 20 si riportano i valori correnti relativi al 
+parametro L di misura del livello longitudinale. L rappresenta la misura, espressa in millimetri, 
+della deviazione nella direzione verticale della distanza della tavola di rotolamento rispetto alla 
+linea di riferimento (posizione media). 
+Al superamento dei valori del terzo livello si devono mettere in atto i vincoli all’esercizio previsti 
+dalla Parte IV del documento (Figura 21). 
+Figura 20 – Valori correnti del livello longitudinale previsti dallo Standard di qualità geometrica del binario e 
+parametri di dinamica di marcia per velocità fino a 300 km/h” RFI TCAR ST AR 01 001 A 
+Figura 21- Vincoli all’esercizio derivanti dal superamento dei valori correnti previsti dallo Standard di qualità 
+geometrica del binario e parametri di dinamica di marcia per velocità fino a 300 km/h” RFI TCAR ST AR 01 001 A 
+La procedura RFI DPR PS IFS 90 C del 30.11.2015 “Rilievi della geometria del binario e 
+relative disposizioni manutentive” prevede quanto segue. 
+1 PARTE I - GENERALITÀ  
+1.1 Premessa  
+Allo scopo di fornire dati, sullo stato dei binari, utili a eliminare tempestivamente le possibili 
+cause di anormalità e a supportare la programmazione e la pianificazione degli interventi di 
+
+## Página 51
+
+manutenzione, “Servizi per i rotabili e per la Diagnostica” e le DTP tramite rotabili 
+opportunamente attrezzati svolgono un servizio di diagnostica mobile dell’armamento.  
+Con cadenza dipendente dall’importanza della linea e del relativo volume di traffico, vengono 
+effettuate corse di rilievo durante le quali sono rilevati dati sulla geometria del binario, 
+sull’usura delle rotaie e, tramite videocamere, è ripresa la sede stradale.  
+Esclusivamente sulle linee AV-AC, è istituita corsa di controllo delle grandezze fisiche 
+accelerazioni tramite treni strumentati AV ETR500Y, allo scopo di verificare le condizioni di 
+dinamica di marcia dei treni circolanti a velocità maggiore eguale a 250 km/h e di correlarle 
+allo stato geometrico del binario.  
+Una volta terminata la corsa di verifica, i dati vengono esaminati mediante un programma di 
+post-processamento da operatori specializzati in modo da avere indicazioni sui difetti e sullo 
+stato della manutenzione a diversi livelli di aggregazione.  
+1.2 Scopo  
+La presente Procedura è finalizzata a:  
+- Elencare e definire le grandezze rilevate e derivate.  
+- Indicare i valori di riferimento ai fini manutentivi delle grandezze rilevate e derivate 
+recependo la normativa contenuta negli “Standard di qualità geometrica del binario e 
+parametri di dinamica di marcia per velocità fino a 300 km/h” che nella presente Procedura 
+indicheremo sinteticamente come “Standard”.  
+- Descrivere i criteri seguiti per l’elaborazione dei dati.  
+- Descrivere l’indice di qualità della rincalzatura del binario (IQB) e indicarne i valori di 
+riferimento.  
+- Descrivere la metodologia per la programmazione e per l’erogazione del servizio.  
+- Regolamentare la gestione della manutenzione correttiva e di quella on condition sulla base 
+delle risultanze delle corse di verifica.  
+- Definire i valori di riferimento dell’usura ondulatoria per pianificare le relative attività 
+manutentive.  
+- Illustrare l’integrazione dei dati di diagnostica mobile nel sistema InRete2000.  
+- Illustrare le modalità di utilizzo “condiviso” da parte delle D.T.P. del carrello EM-SAT 100  
+- Definire le modalità di intervento per la eliminazione dei difetti geometrici del binario sulle 
+linee AV-AC  
+- Illustrare le linee guida per la pianificazione degli interventi di molatura delle rotaie da 
+parte delle D.T.P..  
+1.3 Campo di applicazione  
+La presente PO deve essere applicata dalle seguenti SO della Rete Ferroviaria Italiana S.p.A.:  
+- Direzioni Territoriali Produzione  
+- Unità Territoriali.  
+- Direzione Produzione – Servizi per i rotabili e la Diagnostica.  
+- Direzione Produzione – Armamento e Opere Civili.  
+…omissis… 
+2.6 I difetti rilevanti  
+2.6.1 Geometria relativa  
+Un difetto rilevante è un difetto che supera le soglie prescritte dalla parte IV degli Standard.  
+
+## Página 52
+
+È quindi paragonabile a un’avaria in atto, per la quale è necessario adottare i prescritti 
+provvedimenti restrittivi alla circolazione, laddove previsti, ed eseguire un intervento 
+immediato di manutenzione correttiva.  
+Dall’analisi informatizzata dei dati e dall’esame visivo dei grafici vengono individuati i difetti 
+rilevanti di geometria del binario.  
+Le tipologie di difetti rilevanti sono le seguenti: 
+- Difetti con supero soglia di intervento immediato: a 7 giorni (ΔH>20mm per curve 
+con sopraelevazione di progetto < 160mm) e a 48 ore (sghembi).  
+- Difetti con supero soglia di rallentamento (sopraelevazione, scartamento puntuale e 
+in media mobile, allineamento D1, D2 (AV-AC), D3 (AV-AC), livello longitudinale 
+D1, D2 (AV-AC), D3 (AV-AC), scarto di livello trasversale, sghembi, usura a 45º e 
+conicità equivalente).  
+- Difetti con supero soglia di interruzione della circolazione (scartamento puntuale, 
+sopraelevazione, sghembi e usura a 45º).  
+Per i difetti rilevanti di scartamento stretto (inferiori a 1435 mm) in media mobile, Servizi per 
+i rotabili e la Diagnostica procederà in prima fase alla elaborazione del parametro conicità 
+equivalente e successivamente alla eventuale segnalazione del difetto e del relativo 
+provvedimento di restrizione in funzione del valore di conicità equivalente calcolato. Suddetti 
+difetti saranno comunicati con cadenza quadrimestrale. 
+2.6.2 Geometria assoluta  
+p.m.  
+2.6.3 Dinamica di marcia  
+Per le grandezze di dinamica di marcia, il difetto rilevante, che supera le soglie prescritte dalla 
+parte IV degli Standard, è un difetto con supero di soglia di rallentamento ed è correlabile con 
+difettosità di geometria d’onda lunga, difettosità di geometria d’onda corta (picchi isolati), 
+difettosità diffusa di geometria, difetti di scartamento in media mobile a cui rimandano per 
+l’esecuzione della manutenzione correttiva. I difetti rilevanti di dinamica di marcia saranno 
+comunicati a seguito di corsa di rilievo dei treni AV ETR500Y, dopo apposita validazione, 
+secondo le modalità disciplinate al paragr. 3.8. 
+2.7 L’indice di Qualità della Rincalzatura del binario  
+2.7.1 Scopo  
+L’indice di qualità della rincalzatura del binario ha lo scopo di:  
+- Caratterizzare sinteticamente l’andamento plano-altimetrico dei binari di corsa di ciascuna 
+Tratta/Località ovvero l’andamento dei parametri livello longitudinale, allineamento e scarto 
+di livello trasversale.  
+- Indicare l’efficacia degli interventi manutentivi di rincalzatura eseguiti sulla sede tecnica in 
+esame.  
+- 
+Supportare 
+l’esame 
+dello 
+stato 
+del 
+binario 
+di 
+corsa 
+ai 
+fini 
+della 
+programmazione/pianificazione degli interventi manutentivi.  
+Gli indici di qualità della rincalzatura del binario si determinano come segue.  
+L’indice di qualità della rincalzatura del binario in tratta IQBT è il valore medio degli 
+indici di rincalzatura calcolati sulla Tratta considerata.  
+Detto indice quindi è riferito alla piena linea ed esclude le stazioni e le altre località 
+comprendenti deviatoi, che sono delimitate ovviamente dalle punte dei deviatoi estremi.  
+L’indice di qualità della rincalzatura del binario in località IQBS è il valore medio degli 
+indici di difettosità di livello longitudinale nella Località considerata.  
+Come già chiarito, gli indici di qualità della rincalzatura del binario non condizionano né il 
+controllo né l’eliminazione dei difetti puntuali di geometria del binario; attività che, dove 
+
+## Página 53
+
+necessario, vanno comunque effettuate per ogni rilievo geometrico secondo quanto previsto 
+nella presente PO.  
+2.7.2 Livelli di riferimento per gli Indici di Qualità della Rincalzatura del Binario  
+I valori di riferimento degli Indici sono riportati nella seguente tabella: 
+La velocità cui far riferimento è quella massima di rango (B, C, P) della tratta di linea 
+considerata.  
+Al fine di fornire elementi sintetici e immediati per la valutazione della qualità geometrica del 
+binario, con riferimento ai parametri livello longitudinale, allineamento e scarto di livello 
+trasversale, i valori degli IQB rilevati sono rappresentati nel SIM nel seguente modo:  
+- Indice di valore uguale o inferiore a quello di riferimento = Indice Verde.  
+- Indice di valore superiore a quello di riferimento = Indice Rosso.  
+3 PARTE III - DISPOSIZIONI OPERATIVE PER L’EROGAZIONE DEL SERVIZIO  
+3.1 Generalità  
+I rilievi verranno effettuati durante corse o attività di verifica che saranno: ordinarie, 
+straordinarie o di servizio secondo quanto specificato di seguito.  
+Per la classificazione delle linee della rete FS si fa riferimento alle classi in uso.  
+3.2 Verifiche ordinarie  
+In base agli orientamenti internazionali più diffusi, la frequenza di effettuazione dei rilievi di 
+geometria del binario dipende dal volume di traffico e dalle velocità di fiancata: si è quindi 
+stabilito di correlarla ai gruppi nei quali le linee della rete FS sono state classificate ai fini 
+delle frequenze delle visite linee.  
+La competenza ad eseguire i rilievi sui binari di corsa delle linee elettrificate viene affidata al 
+CDN mediante complessi diagnostici; per i binari attrezzati con il sistema base assoluta, di 
+corsa delle linee non elettrificate, centralizzati, comunicazioni, interconnessioni e altri, è 
+affidata alle D.T.P., mediante automotori. Ciò è sintetizzato nella successiva tabella 3.2.01. 
+
+## Página 54
+
+3.3 Verifiche straordinarie  
+Per motivi straordinari (supporto nell’attivazione o nel collaudo di nuovi impianti, ripetuta 
+comparsa di rilevanti anormalità su una stessa tratta/località ecc.) può essere richiesta, dalle 
+SO interessate, l’effettuazione di una corsa di verifica straordinaria che avverrà 
+compatibilmente con la disponibilità delle risorse necessarie e le possibilità tecniche del 
+momento.  
+Le corse di verifica straordinaria dovranno essere richieste tramite il modello riportato in all. 1 
+“RICHIESTA EFFETTUAZIONE CORSA DI VERIFICA STRAORDINARIA”.  
+Tale verifica straordinaria dovrà essere eseguita in tutti i casi di svio su binari di corsa e di 
+circolazione o in quelli in cui ci siano stati danni a persone e, dai primi accertamenti effettuati 
+in loco, non risultino chiare le cause dell’inconveniente. Analoghe verifiche dovranno essere 
+eseguite negli altri casi di svio qualora gli incaricati degli accertamenti ne facessero richiesta.  
+In particolare, corse di verifica straordinaria potranno essere stabilite con l’approssimarsi 
+della stagione estiva dalle D.T.P. ed effettuate mediante i rotabili della diagnostica territoriale 
+sulle tratte di linea in cui le corse di verifica ordinarie abbiano evidenziato la presenza di 
+difetti di allineamento che possano degenerare in difetti oltre la soglia di intervento e non 
+risultare più gestibili in piena stagione estiva tenuto conto delle precauzioni da adottare per i 
+tratti di binario armati in l.r.s.. 
+…omissis… 
+3.9 Dati resi disponibili nel SIM  
+Entro 15 giorni lavorativi dalla data di effettuazione delle verifiche, a cura di Servizi per i 
+rotabili e la Diagnostica e delle D.T.P., queste ultime limitatamente all’attività di caricamento 
+dati di geometria assoluta, saranno di norma caricati su InRete2000 tutti i dati rilevati 
+utilizzando rispettivamente le applicazioni “Diagnostica Armamento” e “Diagnostica 
+### Carrello EM-SAT 100”.  
+Per i difetti in intervento con scadenza a 30 gg, i dati saranno disponibili nel SIM sotto forma 
+di avviso I2 alla fine del processo di validazione eseguito a bordo treno dagli operatori.  
+
+## Página 55
+
+Il caricamento dei dati di rilievo della geometria assoluta avverrà a completamento del rilievo 
+della sede tecnica binario di corsa.  
+Le due applicazioni sono gli strumenti che consentono la gestione, nel SIM InRete2000, dei 
+dati sullo stato del binario utili a supportare la programmazione degli interventi di 
+manutenzione. Tali applicazioni consentono al CDN e alla D.T.P. la creazione in automatico 
+dei seguenti documenti standard SAP:  
+- 
+Punto di misura definito come un oggetto associato alla sede tecnica “binario di corsa” e 
+contenente i documenti di misura corrispondenti alle diverse corse di verifica: per ogni 
+tratta e località è già stato creato un punto di misura  
+- 
+Documento di misura che è il valore dell’Indice di Qualità della Rincalzatura del Binario 
+in tratta o in località risultante dalla corsa di verifica considerata; nella cartella 
+Documenti della sede tecnica “binario di corsa” sono allegati gli elaborati grafici 
+dell’ultimo rilievo della geometria relativa  
+- 
+Documento di misura di tipo E (EM-SAT 100) che contiene i tabulati dei punti fissi 
+(valori delle quote di progetto Do e Ho e delle misure Dr e Hr); nella cartella  
+Documenti della sede tecnica “binario di corsa” sono allegati gli elaborati grafici dell’ultimo 
+rilievo della geometria assoluta  
+- 
+Avviso di tipo I2 associato alla sede tecnica della tratta/località interessata contiene 
+l’indicazione dei difetti in “intervento” di allineamento, di sghembo base 3 m (2° livello 
+di qualità) e per le sole tratte /località AV-AC i difetti in “intervento” di livello 
+longitudinale e livello trasversale, che andranno eliminati entro 30 giorni : l’Avviso può 
+essere chiuso solo quando ogni difetto (Misura) “in intervento” in esso contenuto sia stato 
+eliminato nei tempi per lui previsti e cioè sia passato dallo stato di Misura Aperta (MIAP) 
+a quello di Misura Conclusa (MISC).  
+- 
+Avviso di tipo V3, associato al punto di misura della tratta/località non AV-AC e al 
+documento di misura della corsa di verifica considerata, contiene l’indicazione dei difetti 
+in “intervento” connessi all’Indice di Qualità della Rincalzatura del Binario nonché i 
+tempi assegnati per la loro eliminazione: l’Avviso può essere chiuso solo quando ogni 
+difetto (Misura) in “intervento” in esso contenuto sia stato eliminato nei tempi per lui 
+previsti e cioè sia passato dallo stato di Misura Aperta (MIAP) a quello di Misura 
+Conclusa (MISC).  
+- 
+Avviso di tipo V4, associato alla sede tecnica della tratta/località interessata, contiene 
+l’indicazione dei difetti non connessi all’Indice di Qualità della Rincalzatura del Binario 
+e i relativi livelli di soglia superati, nonché i tempi assegnati per la loro eliminazione: 
+l’Avviso può essere chiuso solo quando ogni difetto (Misura) in “intervento”, o in 
+“attenzione” se di sghembo e usura, in esso contenuto sia stato eliminato nei tempi per 
+lui previsti e cioè sia passato dallo stato di Misura Aperta (MIAP) a quello di Misura 
+Conclusa (MISC).  
+- 
+Avviso di tipo VZ, associato alla sede tecnica della tratta AV-AC / località AV-AC 
+interessata, contiene l’indicazione dei difetti di geometria d’onda lunga, (livello 
+longitudinale, allineamento nelle bande D2 e D3), e i relativi livelli di soglia superati, 
+nonché i tempi assegnati per la loro eliminazione che corrispondono al periodo 
+intercorrente tra l’apertura dell’avviso e la fine del trimestre successivo di 
+programmazione: l’Avviso può essere chiuso solo quando ogni difetto (Misura) in 
+“intervento” in esso contenuto sia stato eliminato nei tempi previsti e cioè sia passato 
+dallo stato di Misura Aperta (MIAP) a quello di Misura Conclusa (MISC).  
+- 
+Avviso di tipo VX, associato alla sede tecnica della tratta AV-AC / località AV-AC 
+interessata, contiene l’indicazione dei difetti geometrici diffusi, (valori delle deviazioni 
+standard base 200 m di livello longitudinale, allineamento, livello trasversale che 
+superano il 3° livello di qualità) e i tempi assegnati per il rientro al 1° livello di qualità, 
+
+## Página 56
+
+che corrispondono al periodo intercorrente tra l’apertura dell’avviso e la fine del trimestre 
+successivo di programmazione: l’Avviso può essere chiuso solo quando ogni difetto 
+(Misura) in esso contenuto sia stato eliminato nei tempi previsti e cioè sia passato dallo 
+stato di Misura Aperta (MIAP) a quello di Misura Conclusa (MISC)  
+- 
+Avviso di tipo VY, associato alla sede tecnica della tratta AV-AC / località AV-AC 
+interessata, contiene l’indicazione dei difetti di dinamica di marcia, (accelerazioni al 
+carrello ed in cassa), i relativi livelli di soglia e i tempi assegnati per la loro eliminazione, 
+che corrispondono al periodo intercorrente tra l’apertura dell’avviso e la fine del trimestre 
+successivo di programmazione: l’Avviso può essere chiuso solo quando ogni difetto 
+(Misura) in esso contenuto sia stato eliminato nei tempi previsti e cioè sia passato dallo 
+stato di Misura Aperta (MIAP) a quello di Misura Conclusa (MISC)  
+- 
+Misura, associata all’avviso della tratta/località interessata, rappresenta il singolo difetto 
+di geometria del binario, di geometria d’onda lunga, di dinamica di marcia e di 
+deviazione standard.  
+Dal SIM si possono ottenere i seguenti Report selezionabili per linea, per binario e per data 
+della corsa di verifica:  
+- 
+Report Difetti Connessi Armamento, relativo ai difetti in “intervento” di livello 
+longitudinale e scarto di livello trasversale. Contiene i dati dei difetti (progressiva, soglia, 
+valore parametro, ecc.), i codici delle sedi tecniche, il valore dell’IQB e il riferimento agli 
+Avvisi creati.  
+- 
+### Report Difetti non Connessi Armamento, relativo ai difetti in “intervento” di 
+scartamento e usura e ai difetti in “attenzione” di sghembo 9m e usura. Contiene i dati 
+dei difetti (progressiva, soglia, valore parametro, ecc.), i codici delle sedi tecniche e il 
+riferimento agli Avvisi creati.  
+- 
+Report AV Difetti di Geometria d’onda lunga, relativo ai difetti in “intervento” di 
+allineamento e livello longitudinale nelle bande D2, D3. Contiene i dati dei difetti 
+(progressiva, soglia, valore parametro, ecc.), i codici delle sedi tecniche e il riferimento 
+agli Avvisi creati.  
+- 
+Report AV Deviazioni standard, relativo ai difetti in “intervento” delle deviazioni 
+standard base 200 m di livello longitudinale, allineamento e livello trasversale. Contiene i 
+dati dei difetti (progressiva, soglia, valore parametro, ecc.), i codici delle sedi tecniche e il 
+riferimento agli Avvisi creati.  
+- 
+Report AV Accelerazioni, relativo ai difetti in “intervento” delle accelerazioni verticali 
+e trasversali al carrello e in cassa. Contiene i dati dei difetti (progressiva, soglia, valore 
+parametro, ecc.), i codici delle sedi tecniche e il riferimento degli Avvisi.  
+- 
+### Tabella Indici Qualità Armamento, contenente per ogni tratta/località e per ogni 
+binario di corsa il valore dell’Indice di Qualità della Rincalzatura del Binario (IQB) 
+rilevato con l’indicazione, tramite colorazione, del livello di scostamento rispetto al 
+valore di riferimento (vedi paragrafo 2.8.2). Per i binari di circolazione/secondari e per i 
+binari di nodo, ai sensi del paragrafo I.2 degli Standard, in considerazione delle basse 
+velocità di esercizio e per la presenza di numerosi punti singolari che “sporcano” il 
+segnale del rilievo (deviatoi, giunzioni, ecc.), non si ritiene significativa la 
+determinazione dell’indice di qualità IQBS.  
+- 
+Tabella Indici Qualità non conformi Armamento, contenente per ogni tratta/località il 
+valore dell’Indice di Qualità Non Conforme.  
+- 
+Report Trimestrale Armamento Difetti connessi/non connessi che riporta, a partire da 
+una data assunta come riferimento, tutte le tratte e le località con avvisi V3/V4 i cui tempi 
+d’intervento scadono nel corso del trimestre considerato, nonché gli Avvisi V3/V4 ancora 
+aperti alla data di riferimento il cui termine di intervento sia scaduto.  
+
+## Página 57
+
+- 
+Report Trimestrale AV Difetti di Geometria d’onda lunga, che riporta, a partire da 
+una data assunta come riferimento, tutte le tratte e le località con avvisi VZ i cui tempi 
+scadono nel trimestre considerato, nonché gli avvisi VZ ancora aperti alla data di 
+riferimento il cui termine di intervento sia scaduto.  
+- 
+### Report AV Deviazioni standard, che riporta, a partire da una data assunta come 
+riferimento, tutte le tratte e le località con avvisi VX i cui tempi scadono nel trimestre 
+considerato, nonché gli avvisi VX ancora aperti alla data di riferimento il cui termine di 
+intervento sia scaduto.  
+- 
+Report AV Accelerazioni, che riporta, a partire da una data assunta come riferimento, 
+tutte le tratte e le località con avvisi VY i cui tempi scadono nel trimestre considerato, 
+nonché gli avvisi VY ancora aperti alla data di riferimento il cui termine di intervento sia 
+scaduto.  
+- 
+Tabulato dei punti fissi che riporta per ogni punto fisso il codice identificativo, la 
+progressiva chilometrica, le quote di progetto Do e Ho, le quote di rilievo Dr e Hr, i 
+valori di spostamento e di alzamento, il valore della sopraelevazione di progetto, il valore 
+della sopraelevazione di rilievo, e la relativa differenza; per lo scarico del tabulato dei 
+punti fissi non occorre conoscere la data di rilievo, in quanto l’applicazione consente di 
+scaricare l’ultimo documento aggiornato.  
+- 
+Elaborati grafici “.png” relativi all’ultimo rilievo della geometria relativa (compreso i 
+grafici ricolorati nelle bande D2/D3 per le linee AV-AC)  
+- 
+Elaborati grafici “.png” relativi all’ultimo rilievo di dinamica di marcia delle sedi 
+tecniche selezionate.  
+- 
+Elaborati grafici “.png” relativi all’ultimo rilievo della geometria assoluta, che 
+rappresentano l’assetto geometrico del binario rispetto al sistema base assoluta delle sedi 
+tecniche selezionate.  
+- 
+Report Sintetico Geometria Armamento contenente per ogni tratta/località il valore 
+dell’Indice di Qualità e il numero totale di Misure per ciascuna tipologia. Questa 
+selezione consente anche lo scarico dei grafici “.png” relativi all’ultimo rilievo eseguito 
+sulle sedi tecniche selezionate. I file del rilievo vengono “scaricati” nella cartella 
+sapworkdir del disco locale C: (per un pieno successo verificare preventivamente 
+l’esistenza della cartella sul disco locale C: del proprio PC).  
+L’accesso ai grafici è possibile mediante il percorso:  
+Logistica Funzioni Centrali Gestione Documenti Documento  
+Per una più dettagliata illustrazione delle diverse funzionalità delle applicazioni “Diagnostica 
+Armamento” e “Diagnostica Carrello EM-SAT 100” si rimanda agli appositi manuali 
+reperibili in InRete2000.  
+L’accesso ai dati è consentito a:  
+- 
+Dirigenti della Direzione Produzione.  
+- 
+Responsabili Pianificazione.  
+- 
+Specialisti Armamento.  
+- 
+Responsabili CdL LAV.  
+- 
+CEI.  
+Al termine di ogni quadrimestre d’esercizio, a cura di Servizi per i rotabili e la Diagnostica, 
+saranno resi disponibili sul Server-CDN o sul portale Plinio (http://plino.rfi.it), tutti i dati 
+rilevati ed elaborati inerenti l’usura ondulatoria del binario (grafici in formato “.pdf” e liste 
+dei difetti), di almeno un rilievo di tutte le linee interessate dal treno misure nel quadrimestre 
+in questione. 
+…omissis… 
+
+## Página 58
+
+## 4 PARTE IV - DISPOSIZIONI OPERATIVE PER LA MANUTENZIONE A SEGUITO 
+## DI DIAGNOSTICA  
+La manutenzione del binario a seguito del passaggio dei rotabili di diagnostica è basata su 
+politiche di manutenzione correttiva e di manutenzione preventiva “on condition”.  
+La manutenzione correttiva viene eseguita a seguito della segnalazione di difetti rilevanti, 
+mentre quella preventiva “on condition” è sostanzialmente eseguita in funzione della presenza 
+di difetti geometrici rientranti nelle soglie del 3° livello di qualità degli Standard (difetti in 
+intervento), del 2° livello (difetti in attenzione) e, per i soli parametri deviazioni standard sulle 
+linee AV-AC, del supero del 3° livello. I difetti saranno gestiti in INRETE2000 attraverso 
+avvisi di manutenzione e dettagliati attraverso misure contenute negli avvisi stessi; la gestione 
+dei difetti già in programmazione avverrà, al passaggio ripetuto dei treni diagnostici nel 
+trimestre di programmazione, senza la creazione di nuovi avvisi ma attraverso la segnalazione 
+dei precedenti avvisi non scaduti.  
+### 4.1 Gestione della manutenzione correttiva  
+L’individuazione di difetti rilevanti comporta l’obbligo di adottare i prescritti provvedimenti 
+restrittivi della circolazione laddove previsti e di eseguire un intervento immediato di 
+manutenzione correttiva. Durante la corsa di rilievo saranno comunicati unitamente ai difetti 
+rilevanti, anche alcuni difetti in intervento che dovranno essere eliminati in tempi ristretti; 
+questi non alimenteranno il processo di programmazione ma saranno eliminati a cura del 
+Responsabile del CdL con proprie risorse o se necessario con la collaborazione del PC.  
+Appena ricevuta la “COMUNICAZIONE DI DIFETTI RILEVANTI DI GEOMETRIA 
+BINARIO 
+E 
+CON 
+PROVVEDIMENTO 
+DI 
+INTERVENTO 
+A 
+30 
+GIORNI” 
+e 
+“COMUNICAZIONE DI DIFETTI RILEVANTI DI DINAMICA DI MARCIA” (allegati 4-
+MOD.3.7.01-02) il personale del CEI dovrà:  
+-  per i soli difetti rilevanti che implicano soggezione all’esercizio ferroviario (interruzione 
+e rallentamento) disporre immediatamente per gli eventuali provvedimenti di restrizione 
+della circolazione previsti dagli Standard nella parte IV, come riportato negli allegati 4-
+MOD.3.7.01-02, interfacciandosi con i DM/DCO/CI competenti con le prescritte formule 
+delle Norme per la Circolazione dei Rotabili.  
+- 
+Avvisare i Responsabili dei CdL Lavori interessati affinché si attivino immediatamente 
+per gli interventi manutentivi necessari.  
+- 
+Trasmettere copia della comunicazione contenente i difetti rilevanti e difetti d’intervento 
+con scadenza a 30 gg al Responsabile dell’UT.  
+- 
+Verificare l’eventuale presenza di ulteriori avvisi d’avaria aperti a seguito di 
+perturbazioni alla marcia del treno segnalate dal PdC mediante mod. M.40a.  
+- 
+Verificare o aprire nel SIM i previsti Avvisi di Avaria I1 sulla Sede Tecnica “binario di 
+corsa” (LO/TR++++-BC-BC++), seguendo le indicazioni di seguito dettagliate:  
+- Gli avvisi devono essere omogenei ovvero ognuno deve contenere difetti di una sola 
+tipologia (es. sghembo, scartamento, allineamento, etc.).  
+- Nell’avviso devono comparire:  
+- 
+Il NOME DEL MEZZO utilizzato per lo svolgimento dei rilievi di diagnostica mobile: 
+Archimede, Talete, Aldebaran, PV7, EM80, AV ETR500Y  
+- 
+Il NUMERO DI PROTOCOLLO riportato sull’intestazione dell’all. 4-MOD.3.7.01 e 
+all.4-MOD.3.7.02  
+- 
+Il tipo di difetto riscontrato come previsto dal catalogo disponibile sul SIM “Modi di 
+Guasto”  
+- 
+Il numero totale dei difetti con le relative progressive chilometriche.  
+- 
+L’estesa del difetto  
+- 
+Il valore della misura  
+
+## Página 59
+
+- 
+Il provvedimento da adottare (rallentamento a … km/h, interruzione della circolazione, 
+intervento a 48 ore ecc.)  
+- Nell’avviso i Responsabili dei CdL devono inserire la seguente dicitura: Provvedimenti 
+adottati: ……….. (breve descrizione).  
+Dopo aver ricevuto la comunicazione dal CEI, i Responsabili dei CdL di giurisdizione durante 
+l’orario di lavoro, ovvero i reperibili fuori dall’orario di lavoro, devono far eseguire 
+immediatamente l’intervento di manutenzione correttiva attivando, se necessario, attraverso il 
+CEI, tutte le strutture operative necessarie per risolvere l’avaria (es. Cantieri Meccanizzati, 
+CdL IE, ecc.).  
+I Responsabili dei CdL di giurisdizione, entro tre giorni, devono consuntivare, chiudere 
+tecnicamente l’OdL di tipo 100 da loro emesso a seguito dell’Avviso di Avaria per difetto 
+rilevante e inserire, sull’Avviso, la data di fine guasto.  
+I CEI, a fine guasto, verificati i contenuti dell’avviso, dovranno effettuare la chiusura tecnica 
+dello stesso.  
+I Responsabili delle UT, attraverso i PC, dovranno controllare che vengano puntualmente 
+effettuati:  
+- 
+Gli interventi manutentivi sui difetti rilevanti segnalati.  
+- 
+Le consuntivazioni delle risorse sul SIM InRete2000.  
+Non appena ricevuti i grafici della geometria binario, il SARPC, entro 24 ore dalla consegna, 
+deve esaminarli per individuare eventuali “difetti di sopraelevazione” che, come ricordato al 
+punto 2.5, non sono individuabili automaticamente dal CDN.  
+La presenza di “difetti rilevanti” dovrà comportare, laddove previsto dagli Standard, 
+l’immediata e diretta adozione dei necessari provvedimenti restrittivi della circolazione, 
+l’esecuzione delle relative attività di manutenzione correttiva e, attraverso il CEI, l’apertura 
+degli Avvisi di Avaria I1 secondo quanto sopra descritto.  
+Per quanto riguarda i difetti con provvedimento di intervento a 30 giorni presenti sul ricevuto 
+modulo, i Responsabili dei CdL verificano o aprono l’avviso I2 (Avviso di difetti in 
+intervento con scadenza a 30 giorni ) nel SIM sulla Sede Tecnica “binario di corsa” 
+(LO/TR++++-BC-BC++) e le relative misure in esso contenute e valutano con i SARPC se 
+l’attività può essere efficacemente svolta utilizzando le risorse dei CdL e le interruzioni già 
+programmate, oppure se necessita l’intervento di altre strutture operative. Per i dettagli si 
+rimanda al paragrafo 4.2.3.1 (Attività di manutenzione per eliminazione difetti entro 1 
+mese). 
+4.2 Gestione manutenzione “on condition”  
+4.2.1 Parametri e scadenze per la manutenzione “on condition”  
+Come noto, la manutenzione preventiva “on condition” prevede l’esecuzione delle attività 
+manutentive qualora, per i parametri che definiscono lo stato geometrico del binario, si 
+verifichi il raggiungimento di determinati valori di soglia. Tali valori, generalmente, sono 
+quelli relativi al 3 ° livello di qualità, ovvero quelli nella fascia d’intervento indicati negli 
+Standard parte III. Unica eccezione è il parametro dello sghembo per il quale il 
+raggiungimento del 2° livello di qualità prevede comunque l’effettuazione di un intervento 
+manutentivo. Per il parametro deviazione standard di livello longitudinale, allineamento e 
+livello trasversale sulle sole linee AV-AC è programmato un intervento manutentivo al supero 
+del 3° livello di qualità.  
+Per quel che concerne la manutenzione “on condition” del binario a seguito di diagnostica 
+mobile, nella seguente tabella 4.2.01 sono riportati i parametri, i livelli di qualità che 
+prevedono l’intervento manutentivo se raggiunti, le scadenze degli interventi stessi e la 
+tipologia dell’avviso in cui trovare tutte le informazioni relative. 
+
+## Página 60
+
+4.2.2 Dati utili per la programmazione delle attività  
+Oltre alle “misure” contenute negli Avvisi specificati nella tabella precedente, gli incaricati 
+della programmazione/pianificazione hanno a disposizione numerosi altri elementi utili a 
+indirizzare la manutenzione “on condition” ottimizzando gli interventi e utilizzando 
+efficacemente le risorse a disposizione.  
+Tra i dati più significativi di cui poter disporre si evidenziano:  
+- 
+I grafici dei rilievi consegnati dal personale delle carrozze, treno AV /carrelli di rilievo, 
+altrimenti reperibili su InRete2000 (ultimo rilievo eseguito) oppure sul Server-CDN/sul 
+portale PLINIO  
+- 
+Le liste dei difetti in attenzione e in intervento degli ultimi anni, reperibili sul Server-
+CDN/sul portale PLINIO  
+- 
+Per le linee AV-AC i grafici delle deviazioni standard, reperibili sul Server-CDN/sul 
+portale PLINIO  
+
+## Página 61
+
+- 
+Per le linee AV-AC i tabulati dei punti fissi e i grafici .png dei rilievi di geometria 
+assoluta, altrimenti reperibili su InRete2000 (ultimo rilievo)  
+- 
+Report degli Indici di Qualità della Rincalzatura del Binario  
+- 
+Le riprese video.  
+- 
+Risultanze delle visite linee.  
+4.2.3 Linee guida per la programmazione delle attività  
+Al fine di rendere più semplice l’utilizzo dei numerosi dati disponibili e di standardizzare 
+l’approccio alla programmazione dei lavori a seguito del passaggio dei rotabili della 
+diagnostica, si definiscono alcune linee guida rivolte ai responsabili dei processi di 
+programmazione, pianificazione e controllo delle attività. Saranno tuttavia trattati 
+diversamente alcuni difetti di geometria che per i tempi ristretti di intervento (entro 30 gg) 
+non alimenteranno il normale processo di manutenzione ma saranno comunicati durante la 
+corsa di rilievo ed eliminati a cura del responsabile di impianto.  
+4.2.3.1 Attività di manutenzione per eliminazione difetti entro 30 gg  
+I difetti da eliminarsi entro 30 gg sono per tutte le linee il difetto puntuale in intervento di 
+allineamento ricolorato nella banda D1 (A2), il difetto puntuale in intervento (2°livello di 
+qualità) di sghembo base 3 m (SG31) e per le sole linee AV-AC anche il difetto puntuale di 
+### livello ricolorato nella banda D1 (L2) e di livello trasversale (XL2).  
+In caso di avviso I2, il Responsabile del CdL interessato valuta con il SARPC se l’attività 
+può essere efficacemente svolta utilizzando le risorse del CdL e le interruzioni già 
+programmate, oppure se necessita dell’intervento del PC per disporre delle risorse necessarie.  
+Il Responsabile del CdL, in ogni caso, emette in InRete2000 un OdL tipo 222 con scadenza 
+entro 1 mese per eliminazione difetti entro 1 mese sulla base del quale il PC compatibilizzerà 
+le risorse necessarie con gli interventi già in programmazione; il PC potrà anche modificare 
+un Odl già esistente sul sistema al fine di eseguire nei tempi previsti l’intervento di 
+manutenzione.  
+In tutti i casi il Responsabile del CdL, immediatamente dopo l’esecuzione delle attività 
+manutentive, chiuderà le “misure” contenenti i difetti eliminati e l’avviso I2. Il SARPC 
+verificherà che tutte le misure sono chiuse. 
+4.2.3.1 Attività di manutenzione programmabili per eliminazione difetti entro 3-6-9-12 mesi  
+I restanti difetti andranno eliminati con scadenze variabili da 3 a 12 mesi in funzione della 
+tipologia di difetto e della classe linea, secondo logiche di programmazione qui di seguito 
+descritte.  
+Si elencano di seguito le figure coinvolte nonché i relativi compiti e responsabilità per 
+l’apertura degli OdL relativi ai necessari interventi manutentivi:  
+- 
+Il SARPC esamina le “misure” contenute negli avvisi V3/V4/VX/VY/VZ e definisce le 
+attività necessarie per eliminare le difettosità entro le scadenze indicate nella tabella 
+4.2.01.  
+E’ sottinteso che le citate scadenze, riferite nell’Avviso alla data di “Inizio richiesta”, 
+rappresentano il limite temporale massimo per eseguire l’intervento. Tuttavia, a secondo del 
+valore del difetto, l’intervento potrà richiedere l’esecuzione anche in tempi più ristretti per 
+evitare ulteriori degradi dello stesso.  
+- 
+Il SARPC deve, inoltre, esaminare i grafici della geometria per individuare eventuali 
+“difetti di sopraelevazione” nella soglia di “intervento” che, come ricordato al punto 2.5, 
+non sono individuabili automaticamente dal CDN.  
+- 
+Analizzando la ripetitività dei difetti, le eventuali avarie sulle Se.Te. e gli OdL già 
+programmati, il SARPC, consultando i CdL interessati, è in grado di valutare se l’attività 
+può essere efficacemente svolta utilizzando le risorse dei Tronchi e le interruzioni già 
+programmate, oppure se richiede l’intervento del PC per disporre e programmare quanto 
+necessario (risorse umane di altri CdL, mezzi condivisi, interruzioni, materiali, ecc.).  
+
+## Página 62
+
+- 
+Per definire le attività necessarie e le estese più opportune da sottoporre a lavorazione, lo 
+Specialista Armamento può utilizzare anche gli altri report/informazioni a disposizione 
+(grafici della geometria, report dei difetti d’attenzione e d’intervento sul Server-CDN/sul 
+portale PLINIO, report degli Indici di Qualità della Rincalzatura del Binario, altri report 
+SIM, caratteristiche degli oggetti, ecc.).  
+- 
+In funzione di quanto sopra, il PC procederà ad integrare un OdL già esistente, ovvero ad 
+aprire un nuovo OdL di tipo 222 collegato agli avvisi V3/V4/VX/VY/VZ.  
+- 
+In presenza di tratte/località con numerose “misure” e quindi con la necessità di 
+prevedere interventi abbastanza estesi, è opportuno, programmare anche l’eliminazione 
+dei più significativi difetti isolati in “attenzione” ovvero diventa necessario se la sede 
+tecnica presenta IQB superiore ai valori di riferimento.  
+- 
+Al contrario, in presenza di tratte/località senza o con pochi isolati difetti in “intervento” 
+è necessario analizzare la velocità di degrado dei difetti in “attenzione” per valutare 
+l’eventuale opportunità di intervenire su quelli che potrebbero velocemente degradare in 
+difetti “in intervento” o addirittura in “difetti rilevanti”. Tale intervento diventa 
+necessario se la sede tecnica presenta IQB superiore ai valori di riferimento.  
+- 
+Nei casi in cui alcune “misure” degli avvisi V3/V4/VX/VY/VZ si riferiscano a difetti per 
+i quali sono già stati programmati interventi manutentivi, le stesse misure andranno 
+chiuse dal Responsabile del CdL con l’annotazione “provvedimento programmato o in 
+corso” su sollecitazione del PC.  
+- 
+I Responsabili dei CdL, immediatamente dopo l’esecuzione delle attività manutentive, 
+provvederanno a chiudere le “misure” contenenti i difetti eliminati. I PC verificheranno 
+che  
+tutte le misure sono chiuse e in tal caso procederanno alla chiusura dei relativi Avvisi 
+V3/V4/VX/VY/VZ.  
+- 
+Nell’ambito delle proprie competenze i PC dovranno controllare che l’esecuzione dei 
+lavori previsti negli OdL avvenga nei tempi stabiliti e con l’impiego delle risorse 
+assegnate.  
+- 
+I PC controlleranno altresì che la consuntivazione nel sistema informativo dei lavori 
+eseguiti avvenga in maniera corretta.  
+…omissis… 
+4.3.2 Intervento di manutenzione correttiva per eliminazione di difetti rilevanti di geometria 
+del binario estesi o ravvicinati (Scheda 2)  
+Sarà eseguito in caso di segnalazione di difetti rilevanti di sghembo, livello longitudinale e 
+allineamento nella banda D1, livello trasversale o di accelerazioni verticali e trasversali al 
+carrello riconducibili ai sopraindicati parametri geometrici, con estesa dei difetti maggiore di 
+6 m o distanza fra essi minore eguale di 100 m. L’intervento sarà eseguito con macchina 
+rincalzatrice, livellatrice e allineatrice dotata di sistema DRP/ DAR per la misura e 
+registrazione dei parametri geometrici, profilatrice, stabilizzatrice dinamica della massicciata 
+per il ripristino alla piena velocità della linea, mezzi e attrezzi per la sistemazione del 
+pietrisco, strumenti di rilievo manuale della posizione del binario rispetto ai punti fissi. Si 
+riportano le principali fasi di lavoro e le condizioni di riattivazione del tratto di binario:  
+- 
+Rilievo della geometria del binario con il sistema di misura di una delle macchine 
+operatrici per individuare precisamente la posizione del difetto da eliminare ed il punto di 
+inizio e fine dell’intervento di ripristino.  
+- 
+Rincalzatura del binario utilizzando il sistema automatico di allineamento / livellamento 
+su base relativa “lunga” della rincalzatrice, impostando i valori di alzamento generale 
+necessari per l’eliminazione delle difettosità presenti e i valori di geometria plano – 
+
+## Página 63
+
+altimetrica di progetto. Si raccomanda di evitare di iniziare e finire la lavorazione in 
+corrispondenza dei raccordi altimetrici e planimetrici.  
+- 
+Profilatura della massicciata del tratto rincalzato avendo cura di adottare le necessarie 
+precauzioni in corrispondenza degli impianti tecnologici interferenti con la lavorazione.  
+- 
+Stabilizzazione dinamica del tratto rincalzato con le modalità e prescrizioni indicate nel 
+paragrafo dedicato.  
+- 
+Rilievo della geometria del binario a seguito del lavoro, utilizzando gli strumenti di 
+misura della stessa macchina operatrice utilizzata per l’individuazione del difetto, per la 
+verifica dell’eliminazione del difetto e della idoneità alla ripresa della circolazione.  
+- 
+Rilievo anche manuale della posizione del binario in corrispondenza dei punti fissi che 
+ricadono nel tratto oggetto dell’intervento per valutare il rispetto dei valori di riferimento 
+della geometria assoluta per binario in esercizio (paraf. 2.4.2) e programmazione in caso 
+di supero di soglia dell’intervento di posizionamento del binario rispetto al sistema 
+assoluto dei punti fissi (Scheda 4).  
+- 
+Svuotamento dell’eventuale pietrisco nella zona sottorotaia e mantenimento del profilo 
+della massicciata ad una quota media di 20-30 mm rispetto all’estradosso della traversa, 
+per un tratto di 2 m in asse al binario, utilizzando le attrezzature a disposizione ed 
+adottando le opportune cautele in corrispondenza degli eventuali impianti tecnologici 
+interferenti con l’utilizzo delle attrezzature (suddetta precauzione deve essere adottata per 
+i tratti con velocità maggiore di 250 km/h). 
+- 
+Riattivazione della circolazione alla normale velocità d’orario. In caso di mancata 
+stabilizzazione, riattivazione della circolazione alla velocità indicata in tabella sul tratto 
+lavorato, da mantenere, prima del ripristino della piena velocità di linea, fino al transito di 
+80.000 tonnelate-treno o comunque non appena effettuata la stabilizzazione dinamica 
+della massicciata.  
+4.3.3 Intervento per eliminazione difetti estesi o ravvicinati e ripristino del livello qualitativo 
+del binario (Scheda 3)  
+Sarà eseguito in caso di segnalazione di difetti di attenzione e di intervento di sghembo, 
+livello longitudinale e allineamento nella banda D1, livello trasversale o di accelerazioni 
+verticali e trasversali al carrello riconducibili ai sopraindicati parametri geometrici, con estesa 
+dei difetti maggiore di 6 m o distanza fra essi minore eguale di 100 m o in caso di valori di 
+deviazione standard di livello longitudinale, allineamento e livello trasversale che superano il 
+terzo livello di qualità su una singola sezione di 200 m. Il tratto rincalzato dovrà avere 
+estensione massima di 360 m.  
+L’intervento sarà eseguito con macchina rincalzatrice, livellatrice e allineatrice dotata di 
+sistema DRP/DAR per la misura e registrazione dei parametri geometrici, profilatrice, 
+stabilizzatrice dinamica della massicciata per il ripristino alla piena velocità della linea, mezzi 
+e attrezzi per la sistemazione del pietrisco, strumenti di rilievo manuale della posizione del 
+binario rispetto ai punti fissi. Si riportano le principali fasi di lavoro e le condizioni di 
+riattivazione del tratto di binario:  
+- 
+Rilievo della geometria del binario con il sistema di misura di una delle macchine 
+operatrici per individuare precisamente la posizione del difetto da eliminare ed il punto di 
+inizio e fine dell’intervento di ripristino.  
+- 
+Rincalzatura del binario utilizzando il sistema automatico di allineamento / livellamento 
+su base relativa “lunga” della rincalzatrice, impostando i valori di alzamento generale 
+necessari per l’eliminazione delle difettosità presenti e i valori di geometria plano – 
+
+## Página 64
+
+altimetrica di progetto. Si raccomanda di evitare di iniziare e finire la lavorazione in 
+corrispondenza dei raccordi altimetrici e planimetrici.  
+- 
+Profilatura della massicciata del tratto rincalzato avendo cura di adottare le necessarie 
+precauzioni in corrispondenza degli impianti tecnologici interferenti con la lavorazione.  
+- 
+Stabilizzazione dinamica del tratto rincalzato con le modalità e prescrizioni indicate nel 
+paragrafo dedicato.  
+- 
+Rilievo della geometria del binario a seguito delle lavorazioni, utilizzando gli strumenti di 
+misura della stessa macchina operatrice utilizzata per l’individuazione del difetto, per la 
+verifica dell’eliminazione dei difetti e della idoneità alla ripresa della circolazione.  
+- 
+Rilievo anche manuale della posizione del binario in corrispondenza dei punti fissi che 
+ricadono nel tratto oggetto dell’intervento per valutare il rispetto dei valori di riferimento 
+della geometria assoluta per binario in esercizio (paragrafo 2.3.2); in caso di supero di 
+soglia programmare l’intervento di posizionamento del binario rispetto al sistema 
+assoluto dei punti fissi (Scheda 4).  
+- 
+Svuotamento dell’eventuale pietrisco nella zona sottorotaia e mantenimento del profilo 
+della massicciata ad una quota media di 20-30 mm rispetto all’estradosso della traversa, 
+per un tratto di 2 m in asse al binario, utilizzando le attrezzature a disposizione ed 
+adottando le opportune cautele in corrispondenza degli eventuali impianti tecnologici 
+interferenti con l’utilizzo delle attrezzature (suddetta precauzione deve essere adottata per 
+i tratti con velocità maggiore di 250 km/h).  
+- 
+Riattivazione della circolazione alla normale velocità d’orario. In caso di mancata 
+stabilizzazione, riattivazione della circolazione alla velocità indicata in tabella sul tratto 
+lavorato, da mantenere, prima del ripristino della piena velocità di linea, fino al transito di 
+80.000 tonnelate-treno o comunque non appena effettuata la stabilizzazione dinamica 
+della massicciata.  
+…omissis… 
+5 PARTE V - MATRICE DELLE RESPONSABILITÀ  
+
+## Página 65
+
+I = Informato  
+C = Coinvolto  
+R = Responsabile  
+R° = Responsabile (con responsabilità individuata diversamente in funzione del livello 
+organizzativo in cui viene svolta l’attività) 
+
+## Página 66
+
+La Procedura Operativa Subdirezionale “Gestione dei difetti nelle rotaie e negli scambi e 
+relativi provvedimenti manutentivi” RFI DPR PS IFS 88 B del 31.03.2013 prescrive quanto segue: 
+…omissis… 
+### Parte II – Controlli 
+2.1 Scoperta dei difetti 
+La scoperta dei difetti può essere: 
+ visiva da parte del personale dei CDL LV durante le visite ordinarie di vigilanza previste 
+dalla normativa vigente o durante l’esecuzione di lavori al binario, nonché a seguito di 
+altre segnalazioni (p.d.m. ecc); 
+ a seguito di controllo non distruttivo ad ultrasuoni (C.n.D. US), nell’ambito dell’attività 
+di diagnostica fissa e mobile, da parte degli operatori preposti al controllo con i rivelatori 
+portatili o con il treno Galileo. 
+2.2 Localizzazione dei difetti 
+I difetti possono essere ubicati: 
+a) nelle rotaie 
+La codificazione, la numerazione e la posizione delle fenditure nelle rotaie è quella 
+riportata nel catalogo dei difetti delle rotaie indicato nella documentazione correlata. 
+b) negli scambi 
+…omissis… 
+2.4.2 Controlli straordinari 
+I controlli straordinari US manuali riguardano: 
+a) le tratte in galleria in presenza di infiltrazioni d’acqua e quelle all’aperto in prossimità di 
+zone marine soggette a fenomeni corrosivi, per le quali la frequenza dei controlli verrà 
+stabilita dal RCDL-LV in relazione al tipo di fenomeno; 
+b) l’intera campata di rotaia dove si è verificata una rottura provocata da macchia ovale 
+nonché le campate adiacenti da effettuare entro 10 giorni dalla rottura; 
+c) l’intera estesa di rotaia dove si è verificata una rottura provocata da fenditura trasversale 
+generata da “Head Check” da effettuare entro 10 giorni dalla rottura; 
+d) i giunti isolati incollati e le giunzioni tradizionali che presentano difettosità visiva, 
+segnalata dal RCDL-LV, da effettuarsi tempestivamente e comunque non oltre 30 giorni 
+dalla segnalazione. Se a seguito di tali controlli le g.i.i. dovessero risultare “scollate” ma 
+prive di difettosità interne (cretti e/o lesioni), le g.i.i. stesse, in attesa della sostituzione, 
+dovranno essere controllate ad ultrasuoni con frequenza “B” di seguito indicata per 
+accertare l’eventuale innesco di cretti partenti dai fori; 
+e) la conferma, con i rivelatori portatili, delle segnalazioni del treno US “Galileo “; da 
+effettuare entro 30 giorni dalla data del rilievo. Nei casi di FT la cui difettosità presenti un 
+valore percentuale superiore all’80% dell’altezza della sezione controllata del fungo (pari 
+a 35 mm) nonché di FH superiori a 60 mm andranno controllate entro 10 giorni. 
+…omissis… 
+2.5 Controlli non distruttivi ad ultrasuoni con Diagnostica mobile  
+I controlli non distruttivi ad US in movimento effettuati con il treno diagnostico US forniscono 
+generalmente segnalazioni di possibili difetti interni nella rotaia. 
+
+## Página 67
+
+Tali segnalazioni, elencate in un rapportino giornaliero, vengono trasmesse tempestivamente 
+al RDIA-DTP che disporrà per i successivi controlli manuali US con la tempistica indicata nel 
+precedente punto 2.4.2-e) e come specificatamente indicato nella successiva parte V. 
+La frequenza base dei controlli non distruttivi ad ultrasuoni in movimento è riportata nella 
+seguente tabella 1. 
+Tabella 1 - Frequenza dei controlli ad US in movimento con il treno Galileo 
+| Gruppilinee | Frequenzadeicontrolli |
+| LineeAV/AC | 6mesi |
+| LineeAeS uperB(SB) | 1anno |
+| LineeB CeD , | 2anni |
+…omissis… 
+2.6.2 Controlli sistematici US sulle difettosità già individuate 
+La frequenza base dei controlli non distruttivi ad ultrasuoni manuali sulle difettosità 
+individuate a seguito dei precedenti controlli è riportata nella seguente tabella 2 redatta in 
+relazione alla categoria UIC nella quale è stata classificata la linea. 
+La suddivisione in categorie delle linee della rete RFI riportate nella cartina (allegato 1 
+consultabile anche nella procedura MAIA In Rete 2000, “Report linea – stampa 
+Deviatoi/rotaie”, nella quale è specificato in dettaglio, linea per linea, il gruppo UIC 
+corrispondente) tiene conto dell’effettiva sollecitazione dei binari, in relazione ai carichi 
+viaggianti previsti dalla fiche UIC 714 R. 
+Tabella 2 - Frequenza base dei controlli  
+| ClassificazioneUIC | Binaridicorsa | Scambi |
+| - gruppo - | in campata insald atura e , nellegiunzioni(trad gii) ., | in sald aturaenelle giunzioni(trad gii) ., |
+| 1elineeAV/AC | 4mesi | 2mesi |
+| 2 | 6mesi | 4mesi |
+| 3 | 8mesi | 6mesi |
+| 4 | 10mesi | 8mesi |
+| 5(PAOLACASTIGLIONE) | 12mesi | 10mesi |
+| 6 | 16mesi | 12mesi |
+…omissis… 
+4.1 Provvedimenti da adottare secondo la classificazione del difetto  
+I provvedimenti da adottare in relazione alla classificazione del difetto, determinati in 
+funzione della grandezza dello stesso, sono i seguenti: 
+Tab. 10 
+| Classificazionedifetto | TIPODIINTERVENTO |
+| A | Controlloallafrequenzab asestabilitaconlaTab 2 . |
+| B | Controlloentro½ciclofrequenzab asestabilitaconlaTab2 . |
+| S1 | Eliminareildifettononoltre1ciclodellafrequenzab ase stabilitaconlaTab2 . . |
+| S2 | Eliminareildifettononoltre1/2ciclodellafrequenzab ase stabilitaconlaTab2 . . |
+| C1 | Eliminareildifettoentro60giorni |
+| C2 | Eliminareildifettoentro30giorni |
+| C3 | Eliminareentro10giorni |
+
+## Página 68
+
+D 
+Eliminazione immediata del difetto 
+Con apertura dell’avviso I1 nel SIM. 
+4.2 Norme di comportamento 
+Gli operatori preposti ai controlli non distruttivi ad ultrasuoni (o il RCDL-LV in caso di difetti 
+visivi) determinano la codifica del difetto, secondo il catalogo dei difetti delle rotaie, 
+stabiliscono il provvedimento in relazione alla grandezza e provvede all’attuazione dei 
+provvedimenti da adottare. 
+Il RCDL-LV, in relazione a particolari situazioni ( posizione del difetto in curve di raggio 
+stretto, presenza di altro difetto a distanza inferiore a 2m, massicciata inquinata, posizione 
+decentrata rispetto spartito traverse, condizioni della rotaia e dello scambio, evoluzione della 
+temperatura ecc,) potrà adottare provvedimenti più restrittivi rispetto a quelli elencati. 
+Il rispetto delle frequenze dei controlli stabilite deve essere garantito da una tempestiva 
+programmazione. 
+I controlli US di ago, contrago e cuore, per quanto possibili in relazione alle forme 
+geometriche degli stessi elementi, devono essere integrati da un attento esame visivo. 
+Per difetti la cui numerazione, secondo il catalogo dei difetti delle rotaie, non è compreso in 
+questa Istruzione (220 – difetti superficiali sul fungo, logorio; 234 – 254 corrosione anormale 
+del gambo e della suola), il personale di linea, trattandosi di difettosità visibili, dovrà adottare 
+tutti quei provvedimenti che vengono raccomandati nel predetto catalogo nonché ogni 
+iniziativa che ritiene utile ai fini della sicurezza e della regolarità della circolazione. 
+Gli operatori preposti al controllo qualora rilevino un difetto classificato “D” dovranno darne 
+immediata comunicazione al RCDL-LV (che garantirà l’apertura del prescritto avviso I1 nel 
+SIM) e, se necessario, dovranno adottare i provvedimenti del caso atti a salvaguardare la 
+regolarità e la sicurezza dell’esercizio ferroviario. 
+A seguito di rilevamento visivo di un difetto “head check”, le rotaie interessate devono essere 
+ispezionate con carrellino manuale ad ultrasuoni con frequenza “B” allo scopo di accertare se 
+il difetto di tipo “head-chek” si è evoluto in fenditura trasversale del fungo. 
+Alla scoperta di una fenditura trasversale generata da “head-check” o nei casi di rottura rotaia 
+con presenza di tale difetto occorre sostituire tutta la rotaia e se si trova nella fila esterna di 
+una curva sostituire tutte le rotaie della stessa fila che presentano head check. 
+Per quanto concerne le saldature eseguite da Imprese appaltatrici su rotaie nuove o usate, la 
+presenza di difettosità comunque classificate riscontrate o riscontrabili dal controllo US 
+dall’atto dell’esecuzione e durante tutto il periodo di garanzia, comporta il rifacimento 
+tempestivo delle saldature stesse a cura e spese dell’Impresa. 
+…omissis… 
+5.7 Eliminazione difetti 
+In relazione alle difettosità nelle rotaie e nei deviatoi, classificate S1, S2, C1, C2, C3 e D, che 
+sono da eliminare nei termini previsti dalla su indicata tabella 10, bisogna espletare i seguenti 
+adempimenti: 
+ ciascun RCDL-LV deve garantire l’eliminazione entro detti termini di tutti i difetti 
+rilevati sulle linee di propria giurisdizione; 
+ ciascun RUT deve relazionare ogni mese al Responsabile della DTP sulla attività di 
+eliminazione difetti sulle linee dei gruppi AV/AC, A e B mediante il report tipo allegato 
+11 (compilabile con utilizzo dei report di stampa previsti nella procedura MAIA INRETE 
+2000); 
+ Il Responsabile della DTP attraverso il RAMPC garantisce il riscontro della consistenza 
+dei difetti da eliminare e di quelli eliminati sulle linee AV/AC, A e B con i report 
+inviatigli dai RUT e quelli elaborati dalla procedura “MAIA INRETE 2000” e invia un 
+
+## Página 69
+
+report semestrale alla S.O. Armamento e Opere Civili della Direzione Produzione (v. 
+all.12 – “l’allegato 12 può essere anche compilato con l’utilizzo del report linea“stampa 
+riep. per orient. difetto/classif.” Prevista dalla procedura MAIA INRETE 2000” ). 
+5.8 Rotture rotaie 
+A seguito di ogni rottura di rotaia, deviatoio o giunzione, il RCDL-LV/CEI/CI garantisce 
+l’immissione in giornata nel sistema INRETE del relativo rapporto d’avaria secondo la 
+normativa vigente. 
+Entro le 24 ore successive il RCDL-LV garantisce: 
+ la compilazione delle schede DI. MAN. 99 (all. 2) o DI. MAN. 100 (all.5), e 
+l’inserimento nella procedura “MAIA INRETE 2000”o l’invio via fax alla SO 
+Armamento e Opere Civili e al RCDL-CA; 
+ il completamento del rapporto di avaria indicando nel testo esteso, in caso di rottura in 
+saldatura, la relativa data di esecuzione. 
+5.9 Disposizioni finali 
+Tutti i casi di mancata osservanza degli adempimenti sopra illustrati dovranno comportare 
+l’apertura automatica di procedimento di contestazione nei confronti dei soggetti responsabili. 
+Al termine di ogni semestre (entro il giorno 15 del mese successivo) la DTP invierà alla 
+Direzione Produzione un report sull’attività di prevenzione rottura rotaie per le linee AV/AC, 
+A e B, secondo lo schema allegato 13.  
+I report (all. 10 e 12), analizzati a cura della S.O. Armamento e Opere Civili, verranno 
+esaminati nel corso delle riunioni di Direzione (CODIR). 
+La Disposizione di esercizio n. 9 del 21 maggio 2013 di RFI “Procedura di interfaccia. Flussi 
+informativi tra le Imprese Ferroviarie e RFI in materia di eventi che hanno pregiudicato o che 
+avrebbero potuto pregiudicare la sicurezza della circolazione dei treni o dell’esercizio 
+ferroviario” all’art. 1 prevede quanto segue: 
+Scopo della presente disposizione è disciplinare le comunicazioni di sicurezza intercorrenti fra 
+agente di condotta e regolatore della circolazione riguardanti la rilevazione di indebita 
+presenza di persone o animali di grossa taglia sull’infrastruttura ferroviaria, ai sensi del DPR 
+n. 753/1980. 
+Tale comunicazione dell’agente di condotta deve essere fatta sia per consentire la gestione 
+immediata del fatto da parte del regolatore della circolazione di giurisdizione, sia per garantire 
+la successiva alimentazione della Banca Dati Sicurezza di RFI (DM 138T — 31.10.2000) e 
+permettere, quindi, l’elaborazione degli indicatori prestazionali sulla sicurezza ferroviaria. 
+A tal fine ogni Impresa Ferroviaria deve inoltre segnalare prontamente al Gestore 
+Infrastruttura, nei modi d’uso, qualsiasi evento anomalo verificatosi sull’Infrastruttura 
+Ferroviaria Nazionale -rilevato dal proprio personale di condotta- che abbia pregiudicato o 
+che avrebbe potuto pregiudicare la sicurezza della circolazione dei treni (compresi i danni ai 
+viaggiatori a bordo treno o durante la salita/discesa a treno fermo) o dell’esercizio ferroviario. 
+Le modalità operative sono regolate dal “sistema di riferimento” ai sensi della direttiva ANSF 
+n. 1/2012. In particolare per l’indebita presenza di persone o animali di grossa taglia si 
+dispone quanto segue. 
+La Disposizione di esercizio n. 1 del 27 gennaio 2014 di RFI “Procedura di interfaccia 
+inerente a partenza dei treni, disciplina dei rapporti fra regolatore della circolazione e personale 
+dei treni, repertorio dei moduli, comunicazioni verbali registrate. Rifusione”, all’art. 3 prevede 
+quanto segue: 
+1. Comunicazioni 
+Le comunicazioni riguardanti la sicurezza della circolazione dei treni devono essere scambiate tra il 
+
+## Página 70
+
+regolatore della circolazione e l’agente di condotta. 
+Nei casi di arresto ai segnali disposti a via impedita e, in generale, in caso di anormalità nella marcia 
+del treno spetta all’agente di condotta mettersi in comunicazione con il regolatore della circolazione. 
+Per le suddette comunicazioni devono essere utilizzate preferibilmente le apparecchiature per il 
+collegamento via radio GSM R, secondo le apposite norme emanate a parte.  
+…omissis… 
+3.3.2.2. Impresa ferroviaria 
+La Disposizione di esercizio n° 1 del 27.01.2014 “Procedura di interfaccia inerente a partenza 
+dei treni, disciplina dei rapporti fra regolatore della circolazione e personale dei treni, repertorio dei 
+moduli, comunicazioni verbali registrate. Rifusione” prescrive quanto segue: 
+…omissis… 
+Articolo 3 
+(Disciplina dei rapporti fra regolatore della circolazione e personale dei treni) 
+1. Comunicazioni 
+Le comunicazioni riguardanti la sicurezza della circolazione dei treni devono essere scambiate 
+fra il regolatore della circolazione e l'agente di condotta. 
+Nei casi di arresto ai segnali disposti a via impedita e, generale, in caso di anormalità nella 
+marcia del treno spetta all'agente di condotta mettersi in comunicazione con  regolatore della 
+circolazione. 
+per le suddette comunicazioni devono essere utilizzate preferibilmente le apparecchiature per 
+il collegamento via radio GSM R, secondo le apposite norme emanate parte.  
+…omissis… 
+Il Manuale di Mestiere del processo di Condotta rev. 4 di Trenitalia SpA prevede quanto segue: 
+…omissis… 
+### 5. Sobbalzi, sbandamenti, rottura rotaie 
+1. Il personale di macchina che riscontri in un determinato tratto di linea anormalità nella 
+marcia del proprio treno (salti, sobbalzi, sbandamenti, ecc.) di origine imprecisata, ma tali da 
+far comunque ritenere possibile l'esistenza di anormalità al binario, deve arrestare il treno per 
+notificare con mod. M40a l’anormalità al Regolatore della Circolazione. Lo stesso personale, 
+inoltre, dovrà concordare con il Regolatore della Circolazione, al quale è stata comunicata 
+l’anormalità, con criteri prudenziali, l'entità della riduzione di velocità da prescrivere ai treni 
+interessati e sempre che nella circostanza non siano giudicati necessari provvedimenti più 
+cautelativi; ciò in attesa dell'intervento del personale della manutenzione, avvisato a cura 
+dello stesso dirigente. 
+Nel caso di invio dei treni con riduzione di velocità il tratto interessato all'anormalità può 
+essere delimitato da località di servizio o cippi chilometrici; qualora la stessa sede ferroviaria 
+sia comune a più linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà 
+essere delimitato solo da località di servizio.  
+La prescrizione della riduzione di velocità deve essere partecipata solo ai treni interessati, 
+formula: “Non superate la velocità di …… km/h da …… (località di servizio o cippo 
+chilometrico) a …… (località di servizio o cippo chilometrico)”. 
+2. Nel caso si riscontri la rottura di una rotaia, la circolazione deve essere arrestata, salvo che 
+il personale della manutenzione abbia dato le necessarie istruzioni per l'eventuale inoltro dei 
+
+## Página 71
+
+treni verso il tratto in soggezione. In tal caso il tratto in soggezione può essere delimitato da 
+località di servizio o cippi chilometrici; qualora la stessa sede ferroviaria sia comune a più 
+linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà essere delimitato 
+solo da località di servizio. 
+La prescrizione della riduzione di velocità deve essere partecipata solo ai treni interessati, 
+formula: “Non superate la velocità di …… km/h da …… (località di servizio o cippo 
+chilometrico) a …… (località di servizio o cippo chilometrico)”. 
+…omissis… 
+### 3.4. Funzionamento del materiale rotabile e degli impianti tecnici 
+3.4.1. Sistema di segnalamento e comando-controllo, registrazione da parte di apparecchi 
+automatici di registrazione  
+Per memoria. 
+3.4.2. Infrastruttura  
+3.4.2.1. Controlli periodici sull’infrastruttura 
+Il gestore dell’infrastruttura ha trasmesso copia del piano di manutenzione della linea Paola – 
+Castiglione Cosentino. Le attività programmate relative alla galleria Santomarco sono riportate in 
+Tabella 1. La linea Paola – Castiglione Cosentino appartiene alla classe 4 di vigilanza (cfr. § 3.3.2., 
+Disposizione n. 60 del 02.09.2005 “Servizi di vigilanza linea armamento e sede”). Le frequenze 
+previste per le varie attività di controllo programmato sulla linea sono riportate in Tabella 2 e, per 
+quanto riguarda le frequenze previste per le visite a piedi, avendo il Responsabile dell’Unità 
+Manutentiva ritenuto di intensificare la vigilanza all’interno della galleria Santomarco per presenza 
+di fenomeni di stillicidio, è prevista una frequenza di una visita ogni 6 mesi, rispetto ai 12 mesi 
+indicati come minimo dalla Disposizione n. 60 del 02.09.2005. 
+Tabella 1 – Estratto del Piano di manutenzione della linea Paola – Castiglione Cosentino 2016-17, 
+galleria Santomarco (da Bivio Pantani a Bivio Settimo, incluso PM Santomarco) 
+| DescrizioneSedeTecnica | DescrizioneCiclo | Datainizio | Anno |
+| B°PANTANIPMSANTOMARCO - | Contr.Punti sing. freq.fren.corpo l .r.s. | mag | 2016 |
+|  | Manut cabina MT trafo resina . | apr | 2017 |
+|  |  | set | 2016 |
+|  |  | ott | 2016 |
+|  |  |  | 2017 |
+|  | Manut Impianto di terra . | ott | 2016 |
+|  |  |  | 2017 |
+|  | Manut . reg. aut . TE - FF bin. BC | mar | 2016 |
+|  |  | apr | 2016 |
+|  |  | mag | 2016 |
+|  | TR0234: Manut . reg. aut . TE - FF bin. BC | gen | 2017 |
+|  | TR0234: Man. reg. aut .TE - FF bin.BC alim | gen | 2017 |
+|  | ManutenzioneCircuitodiritornoTE | ott | 2016 |
+|  |  |  | 2017 |
+|  | Ver. Mis. Tel . BL -Sel -Aut cassa stagna | mag | 2017 |
+|  |  | ott | 2017 |
+|  | Verif . cab . MT con int .SF6 e trasf .res. | giu | 2017 |
+|  |  | set | 2016 |
+|  | VerificaimpiantoditerraLFM | ott | 2016 |
+|  | Visita opera d'arte minore (istr. 44C) | feb | 2017 |
+|  |  | apr | 2016 |
+|  | Visita a piedi BC elettr.(CL 3) | ott | 2016 |
+|  | Visita a piedi BC elettr.(CL 4) | feb | 2017 |
+
+## Página 72
+
+ago 
+Visita a piedi BC elettr.(CL 4) 
+apr 
+Visita galleria (istr.44C) 
+mar 
+Manutenzione impianti BT- LF 
+apr 
+dic 
+Visita in carr. BC elettr. (CL 1,2,3,4) 
+mar 
+2016 
+Visita in locomotore (CL 1,2,3,4) 
+mar 
+2016 
+PM SANTOMARCO 
+Controllo U.S. ai deviatoi 
+mag 
+2016 
+2017 
+nov 
+2016 
+2017 
+Controllo U.S. parti mobili S./S.I. 
+nov 
+2016 
+2017 
+Lubrif. cuscinetti deviatoi elettrici 
+gen 
+2017 
+feb 
+2017 
+mar 
+2017 
+apr 
+2017 
+mag 
+2017 
+giu 
+2017 
+lug 
+2017 
+ago 
+2017 
+set 
+2017 
+ott 
+2017 
+nov 
+2016 
+2017 
+dic 
+2016 
+Manut. dev. a manovra elettrica P80/L90 
+gen 
+2017 
+apr 
+2017 
+lug 
+2017 
+ott 
+2017 
+Santomarco: Manutenzione centralina 
+dic 
+2016 
+Manut. conduttori alim. su pali indipen. 
+set 
+2016 
+Manut. dev. a manovra elettrica P80/L90 
+mar 
+2016 
+apr 
+2016 
+mag 
+2016 
+giu 
+2016 
+lug 
+2016 
+ago 
+2016 
+set 
+2016 
+ott 
+2016 
+nov 
+2016 
+dic 
+2016 
+Santomarco: Manut. Misure Bca 
+dic 
+2016 
+Manut. Posto periferico elettr. 
+apr 
+2017 
+Manut. Posto telecomandato computeriz. 
+apr 
+2016 
+ott 
+2016 
+2017 
+Manut. Quadro comando sez. 
+feb 
+2017 
+ago 
+2016 
+2017 
+set 
+2016 
+Manut. reg. aut. TE -  FF bin. AB 
+nov 
+2016 
+2017 
+Manut. reg.aut. TE - FF bin.BC e aliment 
+feb 
+2017 
+set 
+2016 
+ott 
+2017 
+Manut. segnale dicroico/LED 
+lug 
+2017 
+Manut. segnale schermo mobile 
+apr 
+2016 
+ago 
+2016 
+Santomarco:Manut. Segn. sch. mob. 
+mag 
+2016 
+Manut. Sez. 3KV man. elettr. bin corsa 
+feb 
+2017 
+ago 
+2016 
+2017 
+set 
+2016 
+Manut. Sistema Alim. 
+mag 
+2017 
+Manut.banco ACEI e Q.L. 
+dic 
+2016 
+Manutenzione Banco ACEI e QL 
+set 
+2017 
+Manutenzione Circuito di ritorno TE 
+set 
+2016 
+nov 
+2017 
+Manutenzione Impianto di terra 
+mar 
+2016 
+Manutenzione Posto Satellite CTC 
+mar 
+mag 
+
+## Página 73
+
+lug 
+set 
+Santomarco: Man Quad Coman Contr Sezion nov 
+Manutenzione sala relè 
+lug 
+Manutenzione sala relè apparato centrale 
+mag 
+PV7 L627 AB Binari S096RC1CAL 
+ott 
+2017 
+PV7 L627 AB Deviatoi S096RC1CAL 
+ott 
+2017 
+PV7 L627 BC Deviatoi S096RC1CAL 
+nov 
+2017 
+Sost. lampade segn sch. mobile 
+apr 
+2016 
+ago 
+2016 
+Ver. Mis. Posto lavoro telef. centraliz. 
+mag 
+2017 
+ott 
+2017 
+Ver. Mis. Tel. BL-Sel-Aut cassa stagna 
+apr 
+2017 
+ott 
+2017 
+Verif. e tar. Compl.volt.asserv. (Loc.) 
+mag 
+2017 
+ott 
+2016 
+Verif. parametri funzionali relè a disco 
+feb 
+2017 
+Verif., mis. e manut. CdB tradizionale 
+giu 
+2016 
+dic 
+2016 
+2017 
+Verifica ago/contrago 
+apr 
+2016 
+2017 
+Verifica ago/contrago PR2 
+apr 
+2017 
+ago 
+2017 
+Verifica e Misure scambio L94 PR2 
+apr 
+2016 
+2017 
+ago 
+2016 
+2017 
+dic 
+2016 
+Verifica impianto di terra LFM 
+mag 
+2017 
+Verifica isolamento cavi 
+set 
+2016 
+Verifica R.A. bin. AB e AF interferenti 
+ago 
+2016 
+Verifica tecnica periodica di località 
+giu 
+2017 
+Verifiche e mis. seg. schermo mobile/LED 
+lug 
+2017 
+Verifiche e misure impianto di terra 
+mag 
+2017 
+Visita a piedi AB elettr.(CL 3) 
+ott 
+2016 
+Visita a piedi AB elettr.(CL 4) 
+feb 
+2017 
+ago 
+2017 
+Visita a piedi AB elettr.(CL 3) 
+giu 
+2016 
+Visita a piedi BC elettr.(CL 3) 
+ott 
+2016 
+Visita a piedi BC elettr.(CL 4) 
+feb 
+2017 
+ago 
+2017 
+Visita a piedi BC elettr.(CL 3) 
+giu 
+2016 
+Visita deviatoi AB (CL 1, 2, 3, 4) 
+feb 
+2017 
+ott 
+2017 
+Visita deviatoi BC Linee (CL 2, 3, 4) 
+feb 
+2017 
+ago 
+2017 
+ott 
+2017 
+dic 
+2017 
+Manutenzione impianti BT- LF 
+mag 
+2017 
+dic 
+2016 
+Visita in carr. BC elettr. (CL 1,2,3,4) 
+mar 
+2016 
+Visita in locomotore (CL 1,2,3,4) 
+mar 
+2016 
+PM SANTOMARCO-B° SETTIMO Contr.Punti sing. freq.fren.corpo l.r.s. 
+mag 
+2016 
+Contr.Punti sing. freq.fren.corpo lrs 
+nov 
+2016 
+Controllo corpo l.r.s. 
+mag 
+2016 
+Manut. cabina MT trafo resina 
+apr 
+2017 
+set 
+2016 
+ott 
+2016 
+2017 
+Manut. Impianto di terra 
+ott 
+2016 
+2017 
+Manut. reg. aut. TE -  FF bin. BC 
+mag 
+2016 
+giu 
+2016 
+nov 
+2017 
+Manutenzione Circuito di ritorno TE 
+giu 
+2016 
+ott 
+2017 
+Ver. Mis. Tel. BL-Sel-Aut cassa stagna 
+mag 
+2017 
+ott 
+2017 
+Verif. cab. MT con int.SF6 e trasf.res. 
+apr 
+2017 
+set 
+Verifica impianto di terra LFM 
+lug 
+
+## Página 74
+
+|  | Verificaterrastrutturametallica | mag | 2016 |
+|  | Visita opera d'arte minore (istr. 44C) | gen | 2017 |
+|  | Vis.ponte/viad/cavalc/sottovia(istr.44C) | gen | 2017 |
+|  | Visita a piedi BC elettr.(CL 3) | ott | 2016 |
+|  | Visita a piedi BC elettr.(CL 4) | feb | 2017 |
+|  |  | ago | 2017 |
+|  | Visita a piedi BC elettr.(CL 3) | giu | 2016 |
+|  | Visita galleria (istr.44C) | gen | 2017 |
+|  | Manutenzione impianti BT LF - | mag | 2017 |
+|  |  | dic | 2016 |
+|  | Visita in carr. BC elettr. (CL 1 ,2 ,3 ,4) | mar | 2016 |
+|  | Visita in locomotore (CL 1 ,2 ,3 ,4) | mar | 2016 |
+Tabella 2 – Sintesi del piano di manutenzione linea Paola – Castiglione Cosentino 
+| AttivitàStandard | Frequenza |
+| Rilievodiagnostico | semestrale |
+| VisitaincabinaARMSede/TE | mensile |
+| VisitaincarrelloArm/TE | bimestrale |
+| Visitaapiedi | semestrale |
+| RilievocontrenodiagnosticoUS | ognidueanni |
+| Visitaopered'arte | annuale |
+Sono stati esaminai i rapporti di visita al binario in cabina, su mezzo d’opera e a piedi, previsti 
+dalla Procedura Operativa Subdirezionale RFI DPR PS IFS 086C, per l’anno 2017. 
+Nella tratta Bivio Pantani – Bivio Settimo, per l’anno 2017, il Programma Servizio di Vigilanza 
+Ordinaria alla linea prevedeva le attività indicate in Tabella 3. 
+Tabella 3 – Programma servizio di vigilanza ordinaria nella tratta Bivio Pantani – Bivio Settimo 
+| Località/tratta | dakm | akm | Specializz . | Giorno |
+| VISITAALBINARIOAPIEDI |  |  |  |  |
+| Bivio Pantani PM Santomarco – | 2+096 | 9+180 | TEU2 | 03022017 . . 07082017 . . |
+| PMSantomarco | 9+180 |  | TEU2 | 09022017 . . 07082017 . . |
+| PM Santomarco Bivio Settimo – | 9+180 | 17+871 | TEU2 | 09022017 . . 08082017 . . |
+| VISITACONCARRELLOBINARIDICORSA |  |  |  |  |
+| Bivio Pantani Castiglione C – . | 2+096 | 21+551 | TEU2 | 09012017 . . 08032017 . . 04052017 . . 03072017 . . 04092017 . . 06112017 . . |
+| Bivio Pantani PM Montalto – – CastiglioneC . | 2+096 | 59+545 | TEU2 | 13012017 . . 13032017 . . 13052017 . . 03072017 . . 04092017 . . 06112017 . . |
+Le visite effettuate sulla tratta nell’anno 2017 sono quelle riportate in Tabella 4. 
+Tabella 4 - Visite in linea effettuate nell'anno 2017 
+|  | Cabina | Mezzod'Opera | APiedi | V Opered'arte . |
+| dic-17 | 06/12/2017(attivitànonpianificata) |  |  |  |
+| nov-17 | 27/11/2017 |  |  |  |
+| ott -17 | 23/10/2017 |  |  |  |
+
+## Página 75
+
+| set -17 | 01/09/2017 | 20/09/2017 19/09/2017(attivitànonpianificata) |  |  |
+| ago-17 |  |  | 25/08/2017 |  |
+| lug-17 | 25/07/2017 | 25/07/2017 |  |  |
+| giu-17 | 23/06/2017 |  |  |  |
+| mag-17 | 24/05/2017 | 23/05/2017 |  |  |
+| apr-17 | 24/04/2017 |  |  |  |
+| mar-17 | 30/03/2017 | 09/03/2017 |  |  |
+| feb -17 | 27/02/2017 |  | 10/02/2017 | 14/02/2017 |
+| gen-17 | 25/01/2017 | 12/01/2017 |  |  |
+Le difformità rilevate nei rapporti di visita al binario nella tratta Bivio Pantani – Bivio Settimo, 
+relative all’anno 2017, sono riportate in Tabella 5, ove per completezza si riporta anche l’esito della 
+visita a piedi del 27.06.2016. 
+Tabella 5 – Attività di vigilanza ordinaria nella tratta Bivio Pantani – Bivio Settimo (galleria Santomarco) 
+(n.a. = non applicabile) 
+Azione 
+Note e altre 
+correttiva 
+osservazioni 
+n° 
+Inte
+Modali
+Descrizione e precisa 
+Interve
+Data 
+Rilevamento di 
+diffor
+rve
+tà visita 
+ubicazione 
+nto da 
+mità 
+nto 
+progra
+urg
+mmare 
+ente 
+In cabina 
+27.11.17 
+Cattivo comfort (sobbalzi, 
+Bivio Settimo - Castiglione 
+La visita è stata 
+beccheggi, serpeggi, ecc.) 
+effettuata a bordo 
+dell’ultima carrozza. 
+Difetti diffusi di livello 
+tra Paola e imbocco 
+galleria per il pessimo 
+stato della massicciata; 
+Bivio Settimo – 
+Castiglione – Cosenza e 
+Cosenza – Bivio S. 
+Antonello nonché tra i 
+cippi km 2+000 e km 
+13+000 tratta Tarsia – 
+Cassano tratto armato 
+con traverse FS35. 
+Provvedimenti del Resp. 
+CDL: Livellamento da 
+eseguire nelle tratte di 
+cui sopra nelle more 
+dell’esecuzione dei 
+lavori di rinnovo 
+programmati tra il 
+2018/2020, 
+Nella tratta ove si è 
+riscontrato cattivo 
+comfort è dovuto al 
+degrado della 
+massicciata, 
+Rinnovamento da 
+eseguire nella tratta. 
+Taglio vegetazione a 
+mezzo impresa. 
+In cabina 
+23.10.17 
+Vedi note 
+Difetti di livello diffusi 
+nella galleria 
+Santomarco – pessimo 
+stato della masscicciata 
+tra Paola e imbocco 
+galleria Santomarco 
+Bivio Settimo – 
+Castiglione – Cosenza e 
+Cosenza – bivio S. 
+
+## Página 76
+
+Antonello – km 13+000 
+km 21+000 tratta 
+Cassano – Tarsia con 
+presenza  di traverse in 
+CAP FS 35 lesionate. 
+Provvedimenti del Resp. 
+CDL: Necessita 
+rinnovamento binario 
+con risanamento della 
+massicciata nei tratti 
+sopra indicati. 
+Bivio S. Antonello – 
+Bivio Settimo vedi 
+avviso 60363283. 
+Le tratte con cattivo 
+confort segnalato sono 
+indipendenze del 
+pessimo stato della 
+massicciata (vedi Avvisi 
+A1 n° 60349588 
+60366082 e 60366095. 
+Per quanto riguarda il 
+taglio di alberi ed il 
+decespugliamento si 
+provvederà a mezzo 
+impresa. 
+Mezzo 
+20.09.17 
+Rottura e/o difetti superficiali 
+Consumo p.d. rot. a tratti 
+Provvedimenti del Resp. 
+d’opera 
+(Rotture o difetti superficiali 
+dal km 5+000 al km 7+000 
+CDL: Le abrasioni sul 
+visibili) 
+pdr. Sono censiti con i 
+pdm x difetti visivi e 
+con avviso A1 n. 
+60236045 
+Mezzo 
+19.09.17 
+Rumore anomalo treno 34478 
+PDC 
+treno 
+34478 
+d’opera 
+comunica al DM di Paola 
+di aver avvertito un rumore 
+anomalo 
+sotto 
+il 
+vano 
+batterie di una vettura, 
+nella tratta Bivio Pantani – 
+PM Santomarco. 
+Precauzionalmente 
+interrotta circolazione treni 
+da parte del DCCM Reggio 
+Calabria. 
+Personale 
+UM 
+lavori 
+intervenuto: 
+- effettuava la verifica del 
+materiale coinvolto che si 
+trovava ricoverato presso il 
+deposito della stazione di 
+Paola, riscontrando un urto 
+sotto il vano batterie (come 
+da foto allegate); 
+- dalle ore 16.45 con MdO 
+usciva dalla stazione di 
+Paola per perlustrazione 
+linea e giungeva al PM 
+Santomarco alle ore 17.19. 
+Alle ore 17.20 con M.40 
+n°1/61 dava il N.O. ripresa 
+circolazione tratta Bivio 
+Pantani – PM Santomarco 
+senza 
+rilevare 
+nessuna 
+anomalia. 
+Dalle ore 17.25 fino alle 
+ore 18.10 si effettuava 
+circolazione con MdO per 
+un 
+controllo 
+a 
+scopo 
+precauzionale 
+da 
+PM 
+Santomarco 
+fino 
+alla 
+stazione di Cosenza. 
+Da circolazione effettuata e 
+da verifiche espletate non 
+si 
+riscontrava 
+nessuna 
+anomalia. 
+In cabina 
+01.09.17 
+Deficit di livello in gall. 
+Santomarco al km 
+
+## Página 77
+
+5+400; 4+600 
+Pessimo stato della 
+massicciata fra bivio S. 
+Antonello/Settimo 
+Tratta 
+Cosenza/Castiglione p/d 
+e Settimo/Castiglione 
+presenza di traverse in 
+cap FS35 lesionate 
+Provvedimenti del Resp. 
+CDL: 
+Necessita risanamento 
+fra bivio S. Antonello 
+/Settimo. Avviso 
+60363283 
+Le tratte con il cattivo 
+comfort segnalate sono 
+in dipendenza del 
+pessimo stato della 
+massicciata. Per tali 
+tratte aperti avvisi A1 n° 
+60349588 60366082 e 
+60366095. 
+Decespugliazione 
+segnalata da effettuarsi a 
+mezzo ditte. 
+A piedi 
+25.08.17 
+Consumi e stato corrosivo 
+2 
+Corrosione 
+saltuaria 
+su 
+Provvedimenti del Resp. 
+entrambe le corde dal km 2 
+CDL: 
+al km 9 
+Difetti riscontrati 
+saranno eliminati con la 
+Forti percolazioni 
+1 
+Abbondante 
+stillicidio 
+programmazione 
+intera tratta 
+ordinaria nei mesi a 
+Cond. Precarie di 
+1 
+Camminamenti non sempre 
+seguire 
+attrav/passatoie 
+percorribili per presenza 
+(attraversamenti e passatoie 
+d’acqua 
+con componenti in precarie 
+condizioni di fissaggio 
+Controllo tel piazzale/linea 
+1 
+Telefoni 
+di 
+linea 
+non 
+(Verifica del funzionamento 
+funzionanti 
+dei telefoni, controllare lo stato 
+della garitta e la presenza 
+moduli) 
+Controllo campo GSM-R 
+1 
+Segnale non sempre buono 
+(segnalare l’eventuale 
+e assente in alcuni tratti 
+mancanza della copertura del 
+campo GSM-R del  telefono 
+cellulare aziendale) 
+In cabina 
+25.07.17 
+Presenza di acqua/mass.ta 
+1 
+inquinata da km 2+096 a km 
+9+012 
+Mezzo 
+24-
+Difetti di allin. e livello long 
+Occorre livello dal km 
+Si 
+Provvedimenti del Resp. 
+d’opera 
+25.07.17 
+(Anomalie di marcia per difetti 
+17+590 al km 17+650 – al 
+CDL: Per i difetti di 
+di allineamento, livello 
+km 9+000 dal km 4+500 al 
+livello segnalati lievi 
+longitudinale, salti) 
+km 6+500 livello testata 
+difetti in tolleranza. 
+travata metallica dal km 
+I difetti rilevanti 
+18+700 al km 18+950 e dal 
+segnalati della vettura 
+km 17+050 al km 17+250 
+diagnostica Talete sono 
+livello al km 13+830 
+stati eliminati infatti 
+nella notte 6/7 luglio 
+Punti singolari (punti noti 
+Galleria fessurazione volta 
+2017 con macchina 
+singolari della sede quali 
+dal km 10+600 lato sx. 
+livellatrice. – 
+piattaforme cedevoli, tratti 
+Fessurazione volta al km 
+Riferimento avvisi 
+soggetti a frane ect.) 
+12+150. 
+Macchie 
+di 
+100112344, 100112343, 
+umidità 
+volta 
+al 
+km 
+100112338, 100112336, 
+11+300. 
+100112335 I1. 
+Percolazione 
+acqua 
+km 
+Per quanto riguarda le 
+15+850 al km 16+500. 
+difformità segnalate 
+Distacco copriferro volta 
+della struttura della 
+km 10+100 e al km 13+200 
+galleria sono stati aperti 
+galleria pulizia nicchia 293 
+a sistema avvisi V1.  
+km 
+10+380 
+Cunicoli 
+ostacoli 
+km 
+11+560. 
+Cunicoli 
+ostacoli 
+km 
+11+710. 
+In cabina 
+23.06.17 
+Presenza di acqua/inquin. 
+1 
+massicc. da km 2+096 
+In cabina 
+24.05.17 
+Nessuna segnalazione 
+Mezzo 
+23.05.17 
+Rottura e/o difetti superficiali 
+Corrosione alla suola da 
+n.a. 
+Provvedimenti 
+del 
+
+## Página 78
+
+d’opera 
+km 2+096 (rotaia 2) 
+responsabile CDL: 
+Lavori da eseguire a 
+Riflussi argillosi e  
+Riflussi 
+argillosi, 
+n.a. 
+mezzo 
+impresa 
+con 
+inquinamento 
+inquinamento massicci da 
+programmazione 
+inizi 
+km 4+096 
+‘17 
+In cabina 
+24.04.17 
+Nessuna segnalazione 
+In cabina 
+30.03.17 
+Nessuna segnalazione 
+Mezzo 
+09.03.17 
+Corrosione della suola da km 
+4 
+Provvedimenti 
+del 
+d’opera 
+4+33 a km 4+39 (rotaia 1) 
+responsabile CDL: 
+Corrosione saltuaria della 
+Lavori da eseguire a 
+suola da km 4+4 a km 7 (rotaia 
+mezzo impresa. Lavori 
+1) 
+di risanamento e di 
+Corrosione della suola da km 
+livellamento 
+con 
+4+33 a km 4+39 (rotaia 2) 
+programmazione 
+da 
+Corrosione saltuaria della 
+effettuare in MSA 
+suola da km 4+4 a km 7 (rotaia 
+Presenti 
+a 
+sistema 
+2 
+Avviso V1 91127735 e 
+Avviso A1 60356111  
+Forte inquinamento della 
+1 
+Si 
+massicciata da km 4+3 a km 
+4+34 
+Venuta d’acqua 
+1 
+Abbondanti venute d’acqua 
+abbondante/puntuale 
+intera tratta 
+In cabina 
+27.02.17 
+Nessuna segnalazione 
+0 
+Opere 
+14.02.17 
+Percolazioni d’acqua volta fra 
+n.a. 
+n.a. 
+n.a. 
+Avviso 91163442 
+d’arte 
+km: 
+- km 
+8+750/7+460/6+600/5+900/4
++600/4+000 a 4+300 in vari 
+punti / 3+700 screpolature 
+pareti (intonaco staccato) km 
+7+520/7+490/7+400/7+000/6
++590/5+900/3+900 – 
+- al km 2+950 distacchi di 
+pezzi di cemento 
+- dalla nicchia 70 alla nicchia 
+74 esiste rivestimento calotta 
+con rete metallica in vari 
+punti scoperta per distacco 
+intonaco. Necessario 
+rimuovere intonaco 
+pericolante e rinzaffo in tutta 
+la calotta 
+A piedi 
+10.02.17 
+Consumi e stato corrosivo 
+2 
+Corrosione saltuaria della 
+Si 
+Rilevati ristagni di 
+suola dal km 2+096 al km 
+acqua sui piani di 
+9+012 (entrambe le rotaie) 
+piattaforma. 
+Riflusso argilloso 
+Riflussi argillosi e 
+1 
+Inquinamento 
+della 
+Si 
+visibile x circa 10 m. 
+inquinamento 
+massicciata dal km 2+096 
+La situazione attuale 
+al km 9+012 
+non permette alcuna 
+Percolazioni d’acqua/ 
+1 
+Abbondante 
+stillicidio 
+Sì 
+lavorazione di 
+stillicidio 
+intera tratta 
+rincalzatura. 
+Necessita intervento di 
+risanamento con 
+asportazione totale e 
+verifica funzionalità 
+delle cunette centrali. 
+Forte corrosione delle 
+suole delle rotaie 
+limitrofe. 
+Provvedimenti Resp. 
+CDL: 
+Dato a sistema avviso 
+A1 60357711 per 
+sollecito intervento in 
+sime – difformità – 
+riscontro delle visite. 
+In cabina 
+25.01.17 
+Cattivo comfort 
+1 
+Presenti difetti di livello 
+Provvedimenti del Resp. 
+longitudinale dal km 2+096 
+CDL: Per eliminazione 
+al km 9+012 
+difetti già in programma 
+interruzione tratta Paola 
+(e) Castiglione (e) da 
+eseguirsi con macchina 
+pesante e 
+vibrocompressore della 
+ditta Ventura. 
+Mezzo 
+12.01.17 
+Difetti di allin. e livello long 
+Da effettuare livellamento 
+Si 
+Provvedimenti Resp. 
+
+## Página 79
+
+| d’opera |  |  |  | da km 2+096 a km 9+012 (entrambelerotaie) |  |  | CDL: xcorrosionesalutaria dellasuolapdm858536 a sistema. Necessitalivellamento binarioinparticolarefra i km 7+000/8+000 - Siprovvederàcon macchinalivellatricedal C .M .O . a mezzo impresa. |
+|  |  | Rotturae/odifettisuperficiali | 1 | Corrosione saltuaria della suola dal km 2+096al km 9+012(rotaia2) | Si |  |  |
+|  |  | Riflussiargillosie inquinamento |  | Inquinamento della massicciata dal km 2+096 alkm4 | Si |  |  |
+| Apiedi | 270616 . . | Rotturae/odifettisuperficiali (Rottureodifettisuperficiali visibili) |  | Consumo suola rotaia fra sospensione 490/492 fra – nicchia 499/498/496 fra – nicchia 489/488/487 – nicchia 277 sx – nicchia 280 dx – |  |  |  |
+|  |  | Consumiestatocorrosivo |  | nicchia 283/284 dx – nicchia 294 dx e sx – 295 dx e sx – 297 dx e sx |  |  |  |
+A partire dalla visita a piedi del 27.06.2016 sono stati segnalati difetti presenti all’interno della 
+galleria Santomarco, riconducibili sostanzialmente a fenomeni di stillicidio, corrosione 
+dell’armamento e inquinamento della massicciata. 
+Ad eccezione della visita con mezzo d’opera del 09.03.2017, gli interventi di ripristino sono 
+sempre stati indicati come non urgenti e pertanto eseguibili in scenari di pianificazione. 
+Dai documenti esaminati si evince inoltre che gli avvisi A1 ed I2 evidenziati in grassetto nella 
+colonna Note e altre osservazioni di Tabella 5 non riguardano anormalità relative alla tratta 
+compresa nella galleria Santomarco. In Tabella 6 è riportato invece l’avviso A1 60357711 citato nel 
+rapporto della visita a piedi del 10.02.2017 di Tabella 5 . 
+Tabella 6 - Avviso A1 60357711 del 20.03.2017 
+| Avviso | Data avviso | Iniz.rich . | Fine richiesta | Data chiusura | Descrizione | Definizione | Testocompleto |
+| 60357711 | 20/03/2017 | 20/03/2017 | 31/12/2019 | 21/12/2017 | Km . 4+300/350: Risanamento massicciata | BinarioUnico (Bivio Pantani - Santomarco) | Dasopralluogoesperitosiè riscontratoneipressidelKm . 4+300/350riflussoargilloso rilevanteconristagnodiacquaai pianidipiattaformachecrea instabilitànongarantendolatenuta dellecaratteristichegeometriche delbinario Contiguoaltratto . interessatoperun'estesadicirca ml 50ènecessariosostituirele . rotaiesiafugaDxcheSxper corrosionedellasuola |
+A seguito di tale avviso si è programmata per il periodo dal 20.03.2017 al 21.05.2017 l’attività 
+di risanamento della massicciata nella tratta Bivio Pantani – PM Santomarco tra i km 4+300 e 
+4+350, prevedendo saggi al binario, risanamento della massicciata, spurgo della cunetta centrale e 
+ricambio delle rotaie. 
+Dalla documentazione posta in visione dal gestore dell’infrastruttura si ha evidenza di come in 
+data 04.07.2017 siano stati eseguiti con vettura Talete i rilievi diagnostici della geometria del 
+binario della tratta Bivio Settimo - Paola. In particolare, in Figura 22 è riportato il rilievo del tratto 
+di binario ove è accaduto lo svio, con l’indicazione di: 
+- 
+sghembo (Sgh) 
+- 
+scartamento (Sca) 
+- 
+usura 45° rotaia sinistra e destra (U45 sx e U45 dx) 
+
+## Página 80
+
+- 
+allineamento rotaia sinistra e destra (All sx e All dx) 
+- 
+sopralzo (Sopr) 
+- 
+livello longitudinale rotaia sinistra e destra (LLong sx e LLong dx) 
+Il report evidenzia che l’armamento presentava anomalie in alcuni tratti, anche in prossimità del 
+punto di svio (km 5+710 circa), in particolare per quanto riguarda l’usura a 45° (Avviso di avaria 
+tipo V4, in attenzione) ed il livello longitudinale, quest’ultimo tra le progressive km 5+718 e 5+737 
+(Avviso di avaria V3 – Indice di Qualità del Binario - con scadenza 8 aprile 2018) che in base a 
+quanto previsto dallo “Standard di qualità geometrica del binario e parametri di dinamica di 
+marcia per velocità fino a 300 km/h” RFI TCAR ST AR 01 001 A (cfr. 3.3.2.1., Figura 20), per la 
+linea in esame (velocità massima pari a 150 km/h) presenta valori ascrivibili al 3° livello di qualità 
+(10 < L ≤ 17), poco al di sotto del valore al di sopra del quale si rendono necessari vincoli 
+all’esercizio. 
+Inoltre, dal rilievo con vettura diagnostica sono state segnalate le anormalità riportate in Tabella 
+7, che hanno comportato i relativi rallentamenti indicati in tabella e che sono state eliminate con 
+l’Ordine di Lavoro (OdL) indicato. 
+Non risultano evidenze di difetti tipo V5. 
+Tabella 7 – Anomalie livello trasversale rilevate dalla vettura diagnostica in data 04.07.2017 
+n° 
+n° avaria 
+Parte oggetto 
+Componente 
+ModoGuasto 
+CausaGuasto 
+Data avaria 
+Provvedimenti 
+OdL 
+Difetti 
+Scarto liv. Trasv.  
+km 4+497 
+11761665 
+Massicciata 
+Pietrisco 
+livello trasversale 
+inquinamento 
+04/07/2017 
+1 
+71613622 
+Rallentamento 
+80 km /h 
+Scarto liv. Trasv.  
+km 8+590 
+11761661 
+Massicciata 
+Pietrisco 
+livello trasversale 
+inquinamento 
+04/07/2017 
+1 
+71613645 
+Rallentamento 
+120 km /h 
+Il rilievo effettuato con treno diagnostico Talete effettuato in data 25.01.2017 (Figura 23), 
+precedentemente all’ultimo del 04.07.2017 ed in coerenza con quanto previsto dalla procedura RFI 
+DPR PS IFS 90 “Rilievi della geometria del binario e relative disposizioni manutentive” che 
+prevede per i binari di corsa della linea una frequenza di rilievo geometrico con treno diagnostico 
+pari a 6 mesi, presenta difetti di livello trasversale e sghembo a progressive chilometriche distanti 
+dal punto di svio, che erano stati eliminati con interventi dal 25 al 27.01.2017, ed un andamento di 
+sghembo, usura a 45° e livello longitudinale molto simile a quello poi rilevato in data 04.07.2017.  
+
+## Página 81
+
+5+710 
+Figura 22 - Rilievo diagnostico del 04.07.2017 tra km 5+860 e km 4+860, tratta Bivio Settimo – Paola 
+
+## Página 82
+
+5+710 
+Figura 23 - Rilievo diagnostico del 25.01.2017 tra km 5+860 e km 4+860, tratta Bivio Settimo - Paola 
+
+## Página 83
+
+L’ultimo rilievo ultrasonico sulla tratta, effettuato con Treno Ultrasuoni “Galileo” in data 
+05.05.2010, in grado di rilevare fenditure orizzontali su fungo, gambo e zona centrale della suola e 
+fenditure trasversali in corrispondenza della zona centrale del fungo, non aveva restituito 
+segnalazioni. 
+La procedura RFI DPR PS IFS 88 B “Gestione dei difetti nelle rotaie e negli scambi e relativi 
+provvedimenti manutentivi”, al punto 2.5, prevede la frequenza base dei controlli non distruttivi ad 
+ultrasuoni in movimento riportata in Tabella 8 che, per la linea in esame, è pari a 2 anni. 
+Tabella 8 - Frequenza dei controlli ad US in movimento con il treno Galileo 
+| Gruppi linee | Frequenzadei controlli |
+| Linee AV/AC | 6mesi |
+| Linee Ae Super B(SB) | 1anno |
+| Linee B Ce D , | 2anni |
+Il gestore dell’infrastruttura, con nota prot. RFI-DPR\A0011\P\2014\0001431 del 17.02.2014 
+della Direzione Produzione, aveva disposto che, in caso di mancato rilievo del treno Galileo, allo 
+scopo di tenere sempre sotto controllo lo stato delle rotaie, il Responsabile di Tronco dovesse, tra 
+l’altro: 
+“1. intensificare le visite linea a secondo lo stato del binario; 
+2. sensibilizzare il personale a segnalare tutti i difetti visivi rilevati durante la visita linea o 
+nello svolgimento delle normali attività manutentive; 
+3. curare la formazione del personale a riconoscere e catalogare le seguenti difettosità visive: 
+- 221 Difetto di superficie; 
+- 222 Scagliatura; 
+- 2221 Scagliatura della tavola di rotolamento; 
+- 2222 Scagliatura del raccordo superficie di rotolamento fianco fungo (shelling); 
+- 2223 Scagliatura del raccordo superficie di rotolamento fianco fungo (head check); 
+- 223 Schiacciamento; 
+- 224 Cedimento locale della tavola di rotolamento; 
+- 225 Abrasione da slittamento; 
+- 2251 Abrasione da singolo slittamento; 
+- 2252 Abrasione da slittamenti ripetuti. 
+4. inserire tempestivamente i difetti rilevati “In Rete 200 procedura MAIA”; 
+5. chiedere l’intervento del personale specializzato al controllo ad ultrasuoni per verificare se 
+all’interno della rotaia si siano innescate fenditure che possono provocare rotture rotaie con 
+ripercussioni sull’esercizio ferroviario; 
+… omissis…” 
+Con riferimento alla Procedura Operativa Subdirezionale RFI DPR PS IFS 88 B, punti 2.4.2 e 
+2.6.2. (cfr. § 3.3.2.) ed alla sopra citata nota prot. RFI-DPR\A0011\P\2014\0001431 del 17.02.2014, 
+non sono invece stati effettuati, nell’anno 2017 o in precedenza, controlli straordinari US manuali 
+sulle rotaie all’interno della galleria Santomarco. 
+Nell’anno 2017 non sono stati adottati provvedimenti relativamente al riscontro di difettosità 
+visibili indicate nel catalogo dei difetti delle rotaie come, ad esempio, difetti di tipo 220 (difetti 
+superficiali sul fungo, logorio) e 234 – 254 (corrosione anormale del gambo e della suola). 
+In data 21.06.2017, apparentemente non immediatamente a ridosso di alcuna visita in linea che 
+abbia rilevato anomalie, è stato emesso l’avviso di attività A1 60363283 (Figura 24) relativo alle 
+condizioni di degrado dell’armamento. L’attività era prevista da effettuarsi entro il 31.12.2018. 
+
+## Página 84
+
+Figura 24 – Avviso A1 60363283 del 21.06.2017 
+Gli interventi che erano stati pianificati sulla linea per gli anni 2018 -2020 sono riportati in 
+Figura 25. 
+Figura 25 - Pianificazione interventi 2018 – 2020 
+3.4.2.2. Controlli sull’infrastruttura a seguito dell’avviso di anormalità del 05.12.2017 
+L’anomalia al binario riscontrata in data 05.12.2017 dall’istruttore di condotta di scorta sul treno 
+2432 e segnalata al capodeposito il quale, circa alle ore 15:20, ha avvisato lo specialista opere civili 
+(cfr. § 3.5.2.) ha dato avvio in data 06.12.2017 ad una attività di verifica non pianificata, quando 
+viene effettuata la visita in cabina a bordo dei treni 26443 e 3746. L’esito della visita è riportato in 
+Tabella 9. 
+
+## Página 85
+
+Tabella 9 - Rapporto di visita armamento e sede in cabina, linea Paola – Cosenza, tratta Paola – Castiglione – Paola. 
+Binario in visita in esercizio. Treni 26443 e 3746 
+| Modali tàvisita | Data | Rilevamentodi | n° diffor mità | Descrizioneeprecisa ubicazione | Azione correttiva |  | Noteealtre osservazioni |
+|  |  |  |  |  | Interve ntoda progra mmare | Inte rve nto urg ente |  |
+| Incabina | 061217 . . | Cattivo comfort (sobbalzi , beccheggi serpeggi ecc.) , , |  | Serpeggi nel tratto delle bretelle tra Paola imbocco galleriaetrasboccogalleia Castiglione – Sobbalzotra km 5+00 e il km7+000 |  |  | Provvedimenti del Resp. CDL:Appenaarrivatoa Paolahointeressatoil CT ..per entrare in galleriaeverificarei sobbalzi riscontrati Lo . stessohaprovvedutoa modificarel’OdL disponendochel’OSM (omissis)provvedessea richiedere l’interruzione. Lastessacontattavail DCOchegliriferivache l’interruzionepoteva essereconcessadopole ore 10:30 . |
+I treni 3746 e 26443 hanno percorso la tratta rispettivamente con i seguenti orari:  
+Reg 3746 da Castiglione C. (6:31) a Paola (6:47)  
+Reg 26443 da Paola (6:57) a Castiglione C. (7:10)  
+Il gestore dell’infrastruttura ha trasmesso copia dell’avviso di attività non pianificata tra Bivio 
+Pantani e PM Santomarco inserito a sistema per il 06.12.2017 ore 7.00 – 15:06. Stato: inoltrata 
+(Stop non confermato) (cfr. Figura 26).  
+
+## Página 86
+
+Figura 26 – Avviso Attività non pianificata galleria Santomarco per il 06.12.2017 
+3.4.2.3. Controlli sull’infrastruttura a seguito dell’incidente 
+In data 29.01.2018, a seguito di autorizzazione concessa dalla Procura della Repubblica presso il 
+Tribunale di Paola, è stato effettuato un rilievo visivo e fotografico all’interno della galleria 
+Santomarco. In particolare, è stato percorso a piedi il tratto compreso tra prima del punto di svio, 
+nel senso di marcia del treno sviato, e le ultime anormalità al binario riconducibili all’incidente, 
+visibili in direzione Paola, ubicate in corrispondenza della nicchia 570 (Figura 72) e si è potuto 
+constatare quanto segue.  
+In corrispondenza della progressiva km 5+710 si è riscontrata la mancanza della rotaia sinistra 
+smt per una lunghezza pari a circa 6,50 m, un grave stato di degrado dell’armamento dovuto a 
+corrosione ed i primi segni sull’armamento causati dal deragliamento del treno (da Figura 27 a 
+Figura 45). A partire da tale area, dove presumibilmente la rottura della rotaia ha causato la risalita 
+del bordino della ruota sinistra della prima sala montata della vettura semipilota, sulla rotaia sinistra 
+smt erano presenti segni di rotolamento del bordino sul piano di rotolamento. La ruota è poi caduta 
+sul lato esterno della rotaia, causando danni sulle traverse, nella parte interna alle due rotaie, e sugli 
+organi di attacco. 
+Alcuni degli spezzoni della rotaia distaccatisi in corrispondenza del punto di svio sono stati 
+rinvenuti a qualche decina di metri di distanza dal punto di svio, in direzione Paola (da Figura 46 a 
+Figura 57). 
+In data 31.03.2018, a seguito di dissequestro della tratta, il gestore dell’infrastruttura ha 
+effettuato il rilievo previsto dalla procedura DTC PSE 42 1 0 (libretto SV1 – Certificazione dello 
+stato dell’infrastruttura armamento e opere civili al momento dell’incidente) sul tratto di binario di 
+lunghezza pari a 96 m percorso dal treno in precedenza al punto di svio. I valori rilevati risultano 
+ammissibili per l’esercizio. 
+
+## Página 87
+
+Occorre evidenziare che tale rilievo è avvenuto in seguito all’esecuzione delle attività di 
+ripristino dell’infrastruttura che si sono rese necessarie per consentire l’ingresso in galleria ai mezzi 
+d’opera e comprende, pertanto, un tratto di misura di 12 m di rotaia che è stata sostituita e che non 
+è, per questa parte, significativo. 
+Anche i rilievi eseguiti a pieno carico mediante carrello PV7 nel tratto precedente lo svio, da km 
+7+000 a km 5+710, hanno riportato valori ammissibili per l’esercizio. 
+Figura 27 - Punto di rottura della rotaia al km 5+710 
+Figura 28 - Punto di rottura della rotaia al km 5+710, 
+vista in direzione Castiglione Cosentino 
+Figura 29 – Punto di rottura della rotaia al km 5+710, 
+Figura 30 - Punto di rottura della rotaia al km 5+710, 
+vista in direzione Paola 
+vista in direzione Paola 
+
+## Página 88
+
+Figura 31 – Punto di rottura della rotaia al km 5+710, 
+Figura 32 – Punto di rottura della rotaia al km 5+710, 
+vista in direzione Paola 
+vista in direzione Paola 
+Figura 33 - Punto di rottura della rotaia al km 5+710, 
+Figura 34 - Punto di rottura della rotaia al km 5+710, 
+vista in direzione Paola 
+vista in direzione Paola 
+Figura 35 – Punto di rottura della rotaia al km 5+710 
+Figura 36 - Punto di rottura della rotaia al km 5+710 lato 
+lato Paola (si noti il difetto di allineamento del troncone) 
+Paola (si noti la deformazione del troncone e il segno di 
+un colpo sulla parte destra del fungo) 
+
+## Página 89
+
+Figura 37 – Punto di rottura della rotaia al km 5+710 
+Figura 38 – Punto di rottura della rotaia al km 5+710 
+lato Castiglione e frammento di rotaia rotta (4) 
+lato Castiglione e frammento di rotaia rotta (4) 
+Figura 39 –Frammento di rotaia rotta (4) 
+Figura 40 – Prospetto delle 4 traverse e dei 4 attacchi in 
+corrispondenza dello spezzone di rotaia distaccata al km 
+5+710 
+Figura 41 - Condizione di traversa e appoggio in 
+Figura 42 - Condizione di traversa e appoggio in 
+corrispondenza dello spezzone di rotaia distaccato al km 
+corrispondenza dello spezzone di rotaia distaccato al km 
+5+710 (1a traversa da Castiglione verso Paola) 
+5+710 (2a traversa da Castiglione verso Paola) 
+
+## Página 90
+
+Figura 43 - Condizione di traversa e appoggio in 
+Figura 44 - Condizione di traversa e appoggio in 
+corrispondenza dello spezzone di rotaia distaccato al km 
+corrispondenza dello spezzone di rotaia distaccato al km 
+5+710 (3a traversa da Castiglione verso Paola) 
+5+710 (4a traversa da Castiglione verso Paola) e 
+frammento della rotaia rotta (8) 
+Figura 45 - Condizione di traversa e appoggio in 
+Figura 46 - Parti della rotaia rotta (1) (2) e (3) 
+corrispondenza dello spezzone di rotaia distaccato al km 
+5+710 (4a traversa da Castiglione verso Paola) e 
+frammento della rotaia rotta (8) 
+Figura 47 – Parti della rotaia rotta (1) (2) e (3) 
+Figura 48 – Parti della rotaia rotta (1) (2) e (3) 
+
+## Página 91
+
+Figura 49 – Parte della rotaia rotta (5) 
+Figura 50 – Parte della rotaia rotta (5) 
+Figura 51 – Parte della rotaia rotta (5) 
+Figura 52 - Parte della rotaia rotta (6) 
+Figura 53 - Parte della rotaia rotta (6) 
+Figura 54 - Parte della rotaia rotta (6) 
+
+## Página 92
+
+Figura 55 - Parte della rotaia rotta (7) 
+Figura 56 - Parte della rotaia rotta (7) 
+Figura 57 - Parte della rotaia rotta (7) 
+Figura 58 - Rotaia destra smt in corrispondenza del punto 
+Figura 59 - Rotaia destra smt in corrispondenza del punto 
+di distacco dello spezzone di rotaia sinistra smt al km 
+di distacco dello spezzone di rotaia sinistra smt al km 
+5+710 
+5+710 
+
+## Página 93
+
+Figura 60 - Altro attacco della rotaia destra smt in 
+Figura 61 - Vista d'insieme rotaia destra smt in 
+corrispondenza del punto di distacco dello spezzone di 
+corrispondenza del punto di distacco dello spezzone di 
+rotaia sinistra smt al km 5+710 
+rotaia sinistra smt al km 5+710 
+Figura 62 - Saldatura sulla rotaia sinistra smt pochi metri prima del punto di rottura della rotaia al km 5+710 
+Pochi metri prima del punto di rottura della rotaia al km 5+710 circa, lato Castiglione 
+Cosentino, sono stati individuate altre venute d’acqua dalla volta della galleria e un grave stato di 
+inquinamento della massicciata (da Figura 63 a Figura 65). 
+
+## Página 94
+
+Figura 63 – Stato della volta pochi metri prima del punto 
+Figura 64 – Stato dell’armamento pochi metri prima del 
+di rottura della rotaia al km 5+710 (lato Castiglione 
+punto di rottura della rotaia al km 5+710 (lato 
+Cosentino) 
+Castiglione Cosentino) 
+Figura 65 – Stato dell’armamento pochi metri prima del punto di rottura della rotaia al km 5+710 (lato Castiglione 
+Cosentino) 
+Oltre a quanto già descritto, nel tratto compreso tra il punto di svio (km 5+710) e la posizione 
+statica raggiunta dal treno (km 4+900), si sono riscontrate due aree che presentavano evidenti e 
+gravi segni di corrosione alle rotaie, inquinamento della massicciata e percolazioni d’acqua dalla 
+volta. Le condizioni della prima di tali due aree nel senso di marcia del treno, ubicata in 
+corrispondenza della nicchia indicata come numero 695 (numerazione che non corrisponde alla 
+numerazione indicata nel “Prospetto nicchie e nicchioni Galleria Santomarco” di RFI), sono 
+riportate nelle immagini da Figura 66 a Figura 70. 
+In Figura 71 è invece visibile una delle barre di rotaia che erano state collocate in diversi punti 
+della galleria prima dell’incidente per programmare la sostituzione degli spezzoni ammalorati (cfr. 
+§ 3.1.6). 
+
+## Página 95
+
+Figura 66– Stato dell’armamento in corrispondenza della 
+Figura 67 - Stato dell’armamento in corrispondenza della 
+nicchia 695 
+nicchia 695 
+Figura 68 - Stato dell’armamento in corrispondenza della 
+Figura 69 - Stato dell’armamento in corrispondenza della 
+nicchia 695 
+nicchia 695  
+Figura 70- Stato dell’armamento in corrispondenza della 
+Figura 71 – Barra di rotaia da porre in opera  
+nicchia 695  
+Le condizioni della seconda delle due aree che presentavano evidenti e gravi segni di corrosione 
+alle rotaie, inquinamento della massicciata e percolazioni d’acqua dalla volta, ubicata in 
+corrispondenza della nicchia indicata come numero 570 (numerazione che non corrisponde alla 
+
+## Página 96
+
+numerazione indicata nel “Prospetto nicchie e nicchioni Galleria Santomarco” di RFI), sono 
+riportate nelle immagini da Figura 72 a Figura 76. 
+Figura 72 - Nicchia 570 
+Figura 73 – Stato dell’armamento in corrispondenza della 
+nicchia 570 
+Figura 74 – Stato dell’armamento in corrispondenza della 
+Figura 75 – Stato dell’armamento in corrispondenza della 
+nicchia 570 
+nicchia 570 
+Figura 76 – Stato dell’armamento in corrispondenza della nicchia 570 
+
+## Página 97
+
+In estrema sintesi, l’armamento della galleria Santomarco presentava un diffuso stato di 
+corrosione, accentuato in corrispondenza di percolazioni dalla volta della galleria e di aree di 
+ristagno dell’acqua con inquinamento della massicciata. 
+Nel tratto ove si è riscontrata la rottura non erano presenti giunti o saldature. 
+Risulta, invece, che all’interno della galleria Santomarco siano state eseguite saldature tra le 
+progressive km 4+298 e km 4+370 nei giorni 28 e 29.04.2017 per sostituzione di rotaie (cfr. § 
+2.2.4.). 
+In data 05.07.2017 sono state eseguite saldature alle progressive km 4+790 e km 4+802 per 
+eliminazione di difetti. 
+In data 21.07.2017 sono state eseguite saldature alle progressive km 5+324 e km 5+336 per 
+eliminazione di difetti. 
+3.4.3. Apparecchiature di comunicazione 
+Per quanto concerne le apparecchiature di comunicazione, la linea ferroviaria risulta coperta dal 
+sistema GSM-R, mentre tutto il personale di stazione e di condotta è dotato di telefoni cellulari 
+operanti sulla stessa rete GSM–R. 
+3.4.4. Materiale rotabile, registrazione da parte di apparecchi automatici di registrazione 
+3.4.4.1. Controlli periodici sul materiale rotabile 
+Locomotore 
+La manutenzione dei locomotori E464 è definita nei piani di manutenzione di primo e secondo 
+livello. 
+Il piano di manutenzione di 1° livello prevede i seguenti interventi con scadenza chilometrica o a 
+tempo: 
+- 
+ES: inizio esercizio 
+- 
+CO: Controllo di Officina. Consiste in un insieme di controlli visivi su rodiggio, carrelli, 
+organi sottocassa e pantografi finalizzati al rilevamento di eventuali avarie o anormalità al 
+fine di garantire la sicurezza, la regolarità di esercizio e la massima disponibilità 
+commerciale del mezzo. Da effettuarsi ad intervalli programmati di 16.000 km; 
+- 
+RT: Revisione di Turno. Da effettuarsi ad intervalli programmati di 80.000 km; 
+- 
+SC: Scadenze (chilometriche o temporali). Insieme di operazioni da effettuare su 
+determinati apparati. 
+Il ciclo operativo degli interventi di manutenzione previsti è indicato in Figura 77. 
+
+## Página 98
+
+Figura 77 - Ciclo operativo degli interventi di manutenzione locomotore E464 
+Sono inoltre previsti interventi di manutenzione pre-estiva e pre-invernale, controlli a scadenza 
+temporale e interventi di manutenzione di 2° livello (Figura 78). 
+
+## Página 99
+
+Figura 78 – Interventi di manutenzione a scadenza chilometrica ed a scadenza temporale 
+In Tabella 10 è riportato un quadro riassuntivo delle attività di manutenzione effettuata sul 
+locomotore nei mesi precedenti l’evento incidentale. Dall’analisi dei rapporti di manutenzione 
+trasmessi dall’impresa ferroviaria (Tabella 11) e in particolare dall’ultimo intervento di 
+manutenzione  effettuato sul locomotore (RT del 19.10.2017) non si rilevano anormalità in merito 
+alla manutenzione del locomotore. 
+Tabella 10 – Interventi di manutenzione effettuati sul locomotore E464 314 
+| Tipologia | DataPianificata | Datainizio | Datafine |
+| RT | 19/10/2017 | 23/10/2017 | 23/10/2017 |
+| 240000KM | 19/10/2017 | 23/10/2017 | 23/10/2017 |
+| CO | 24/09/2017 | 29/09/2017 | 29/09/2017 |
+| CO | 10/08/2017 | 10/08/2017 | 11/08/2017 |
+| CO | 03/07/2017 | 02/07/2017 | 03/07/2017 |
+| 6Mesi | 28/06/2017 | 28/06/2017 | 02/07/2017 |
+| CO | 23/05/2017 | 30/05/2017 | 30/05/2017 |
+| RT | 23/04/2017 | 23/04/2017 | 23/04/2017 |
+| 320000KM | 23/04/2017 | 23/04/2017 | 23/04/2017 |
+| 160000KM | 23/04/2017 | 23/04/2017 | 23/04/2017 |
+| E464 PRE ESTIVA - - | 15/02/2017 | 13/04/2017 | 13/04/2017 |
+| CO | 06/02/2017 | 06/02/2017 | 06/02/2017 |
+| 12Mesi | 30/12/2016 | 30/12/2016 | 05/01/2017 |
+| 6Mesi | 30/12/2016 | 30/12/2016 | 05/01/2017 |
+| CO | 12/12/2016 | 12/12/2016 | 05/01/2017 |
+Tabella 11 - Rapporti di manutenzione analizzati 
+| Tipologia | Data |
+| RT 24000km | 23/10/2017 |
+| CO | 29/09/2017 |
+
+## Página 100
+
+| CO6mesi | 02/07/2017 |
+| CO | 30/05/2017 |
+| CO | 11/08/2017 |
+| ACpreventiva preestiva | 24/04/2017 |
+| RT 32000km | 12/04/2017 |
+| CO | 06/02/2017 |
+| COpreinvernale | 03/01/2017 |
+Carrozze semipilota e rimorchiate 
+Il Piano di Manutenzione prevede le operazioni da effettuare per la Manutenzione Programmata 
+di 1° Livello delle Carrozze UIC –X Interregionali Semipilota e Rimorchiate a 160 Km/h, 
+distribuite su vari tipi di intervento: VP, VI, RT, REV2 e a Scadenza a Km o a tempo. 
+- 
+VT - Visita di Turno. Si esegue nei parchi o binari attrezzati. Comprende tutti gli interventi 
+riportati nella “Normativa per la Verifica Tecnica dei Veicoli” edizione 14/12/03 emessa 
+da RFI. 
+- 
+VP - Visita preventiva: intervento mirato al mantenimento del comfort, del decoro e 
+dell’affidabilità in esercizio. Si esegue su binari dotati delle alimentazioni elettrica e 
+pneumatica in generale a circa metà percorrenza tra gli interventi di VI o RT in 
+compatibilità al turno di servizio. Per le carrozze che effettuano una percorrenza limitata, 
+salvo disposizioni particolari, non deve essere superato il periodo max. di 15 giorni. In tale 
+occasione viene effettuato anche un esame visivo sui principali organi inerenti la sicurezza. 
+- 
+VI - Intervento manutentivo da effettuarsi su fossa di visita entro 16.000 km a metà 
+percorrenza tra due RT (max.17.000 km previo accertamento di minor consumo organi di 
+attrito come da nota UTMR/DRIC/IM.P331 del 29/11/02). 
+- 
+RT - Intervento manutentivo da effettuarsi su fossa di visita entro 32.000 Km dalla 
+precedente RT (max.33.000 km previo accertamento di minor consumo organi di attrito 
+come da nota UTMR/DRIC/IM.P331 del 29/11/02). 
+- 
+SC - Scadenze a tempo o a Km da effettuarsi su organi per i quali sono stati stabiliti gli 
+intervalli di tempo o percorrenza massima di funzionamento. 
+- 
+Pre-Estiva – Lavori stagionali da effettuarsi indicativamente nel periodo marzo ÷ maggio. 
+- 
+Pre-Invernale - Lavori stagionali da effettuarsi indicativamente nel periodo settembre ÷ 
+novembre. 
+- 
+REV2 - Visita ciclica intermedia da effettuarsi alla percorrenza max. di 512.000 km per 
+carrozze con carrelli Fiat e 448.000 km per carrozze con carrelli MDfd o 36 + sei mesi 
+dalla precedente RO. 
+La scadenza temporale è programmata, qualora le carrozze non raggiungano la percorrenza 
+prevista, esclusivamente per interventi di ripristino del comfort e del decoro e per motivi di 
+ottimizzazione della manutenzione. 
+In tale occasione vengono effettuate anche tutte le operazioni relative alla sicurezza di 
+esercizio previste alla percorrenza di 512.000 Km per carrozze con carrelli Fiat e 448.000 
+km per quelle con carrelli MD fd. 
+- 
+RO - Revisione completa da effettuarsi in Officina alla percorrenza max. di 1.000.000 km 
+per carrelli Fiat e 850.000 km per carrelli MDfd o 72 mesi dall’ultima RO. 
+
+## Página 101
+
+Figura 79 - Carrozza UIC-X Interregionale Semipilota & Rimorchiata carrelli MD Fiat: 
+CICLO OPERATIVO DEGLI INTERVENTI DI MANUTENZIONE DI 1° e 2° LIVELLO 
+
+## Página 102
+
+Figura 80 - Carrozza UIC-X Interregionale Semipilota & Rimorchiata carrelli MD fd:  
+CICLO OPERATIVO DEGLI INTERVENTI DI MANUTENZIONE DI 1° e 2° LIVELLO 
+
+## Página 103
+
+In Tabella 12, Tabella 14 e Tabella 16 sono riportati i quadri riassuntivi della manutenzione 
+effettuata sulle carrozze nei mesi precedenti l’evento incidentale. Dall’analisi dei rapporti di 
+manutenzione indicati in Tabella 13, Tabella 15 e Tabella 17 e dalla comparazione degli stessi con 
+la trama manutentiva prevista dal piano di manutenzione, per quanto riguarda il periodo esaminato 
+non si rilevano anormalità in merito alla manutenzione del locomotore e delle carrozze e, in 
+particolare, il rilievo delle quote e profili dei cerchioni ha avuto esito regolare. 
+Tabella 12 – Interventi di manutenzione effettuati sulla carrozza semipilota 50838987529.6 (testa treno) 
+| Tipologia | DataPianificata | Datainizio | Datafine |
+| VIVisita Intermedia | 13/11/2017 | 13/11/2017 | 13/11/2017 |
+| RT Revisione di Turno | 11/10/2017 | 10/10/2017 | 10/10/2017 |
+| 6MESI | 16/09/2017 | 16/09/2017 | 16/09/2017 |
+| VIVisita Intermedia | 02/09/2017 | 02/09/2017 | 02/09/2017 |
+| PREINVERNALE | 01/09/2017 | 23/11/2017 | 23/11/2017 |
+| RT Revisione di Turno | 22/07/2017 | 24/07/2017 | 24/07/2017 |
+| VIVisita Intermedia | 14/06/2017 | 14/06/2017 | 14/06/2017 |
+| PREESTIVA | 16/02/2017 | 11/05/2017 | 11/05/2017 |
+Tabella 13 - Rapporti di manutenzione sulla carrozza semipilota 50838987529.6 (testa treno) 
+analizzati 
+| Tipologia | Data |
+| RT | 10/10/2017 |
+| VI | 03/09/2017 |
+| RT | 24/07/2017 |
+| VI | 14/06/2017 |
+| AC Preventiva preestiva | 16/05/2017 |
+Tabella 14 – Interventi di manutenzione effettuati sulla carrozza rimorchiata 50832178904.4 (seconda smt) 
+| Tipologia | DataPianificata | Datainizio | Datafine |
+| 6MESI | 05/12/2017 | 23/11/2017 | 23/11/2017 |
+| VI | 25/11/2017 | 23/11/2017 | 23/11/2017 |
+| RT REVSIONE DITURNO | 27/10/2017 | 20/10/2017 | 20/10/2017 |
+| VI | 27/09/2017 | 24/09/2017 | 27/09/2017 |
+| PREINVERNALE | 01/09/2017 | 13/11/2017 | 13/11/2017 |
+| SC16Mesi Prove ACPF | 06/08/2017 | 04/08/2017 | 06/08/2017 |
+| REV2(KM) | 02/05/2017 | 08/06/2017 | 08/06/2017 |
+| Disinf DIS(17mesi) . | 15/03/2017 | 26/02/2017 | 27/02/2017 |
+| SC128000 . | 06/02/2017 | 31/01/2017 | 31/01/2017 |
+| RT REVSIONE DITURNO | 08/01/2017 | 03/01/2017 | 03/01/2017 |
+| VI | 19/12/2016 | 05/12/2016 | 05/12/2016 |
+Tabella 15 - Rapporti di manutenzione sulla carrozza rimorchiata 50832178904.4 (seconda smt) 
+analizzati 
+| Tipologia | Data |
+| VI | 24/09/2017 |
+| SC16mesi prove ACPF | 04/08/2017 |
+
+## Página 104
+
+Tabella 16 – Interventi di manutenzione effettuati sulla carrozza rimorchiata 50832178833.5 (terza smt) 
+| Tipologia | DataPianificata | Datainizio | Datafine |
+| RT REVSIONE DITURNO | 25/11/2017 | 23/11/2017 | 23/11/2017 |
+| VI | 21/10/2017 | 20/10/2017 | 20/10/2017 |
+| RT REVSIONE DITURNO | 17/09/2017 | 18/09/2017 | 18/09/2017 |
+| PREINVERNALE | 01/09/2017 | 13/11/2017 | 13/11/2017 |
+| VI | 10/08/2017 | 07/08/2017 | 10/08/2017 |
+| 6MESI | 09/08/2017 | 24/07/2017 | 24/07/2017 |
+| 12MESI | 09/08/2017 | 24/07/2017 | 24/07/2017 |
+| SC128000 . | 11/07/2017 | 28/06/2017 | 28/06/2017 |
+| RT REVSIONE DITURNO | 29/06/2017 | 28/06/2017 | 28/06/2017 |
+| VI | 28/05/2017 | 28/05/2017 | 28/05/2017 |
+| RT REVSIONE DITURNO | 20/04/2017 | 20/04/2017 | 20/04/2017 |
+| Disinf DIS(17mesi) . | 17/04/2017 | 23/04/2017 | 24/04/2017 |
+| VI | 13/03/2017 | 16/03/2017 | 16/03/2017 |
+| 6MESI | 06/03/2017 | 10/02/2017 | 10/02/2017 |
+| RT REVSIONE DITURNO | 11/02/2017 | 10/02/2017 | 10/02/2017 |
+| PREESTIVA | 02/02/2017 | 02/02/2017 | 02/02/2017 |
+| VI | 09/01/2017 | 11/01/2017 | 11/01/2017 |
+| RT REVSIONE DITURNO | 03/12/2016 | 05/12/2016 | 05/12/2016 |
+Tabella 17 - Rapporti di manutenzione sulla carrozza rimorchiata 50832178833.5 (terza smt) analizzati 
+| Tipologia | Data |
+| VI | 07/08/2017 |
+| VI | 26/05/2017 |
+| AC Preventiva preestiva | 14/03/2017 |
+| RT | 10/02/2017 |
+Visita di Turno sui veicoli del treno 3742 
+Il treno 3742 del 06.12.2017 è stato effettuato con materiale che era stato sottoposto a visita di 
+turno (VT) con esito regolare una volta giunto presso la stazione di Paola con treno 3690, alle ore 
+16:58 del giorno 04/12/2017. A partire dalla VT, il materiale ha effettuato la percorrenza indicata in 
+Tabella 18. 
+Tabella 18 – Percorrenza dall’ultima VT del materiale treno 3742 del 06.12.2017 
+| Data | n°treno | da | a | Percorrenzakm |
+| 04/12/2017 | 3690 | ReggioCalabria | Paola | 0 |
+|  | 26431 | Paola | Cosenza | 26 |
+|  | 3814 | Cosenza | Sapri | 118 |
+| 05/12/2017 | 3741 | Sapri | Paola | 118 |
+|  | 26443 | Paola | Cosenza | 26 |
+|  | 3758 | Cosenza | Paola | 26 |
+|  | 3767 | Paola | ReggioCalabria | 177 |
+|  | 3760 | ReggioCalabria | Melito | 30 |
+|  | 22719 | Melito | ReggioCalabria | 30 |
+| 06/12/2017 | 3678 | ReggioCalabria | Melito | 30 |
+
+## Página 105
+
+|  | 3681 | Paola | Cosenza | 26 |
+|  | 3742 | Cosenza | Paola | 26 |
+Da normativa di verifica le VT devono essere effettuate ogni 1200 km oppure ogni 72 ore, 
+pertanto il convoglio era entro i limiti di tale scadenza. 
+Dai documenti relativi allo stato di manutenzione dei veicoli coinvolti nell’incidente non si 
+evidenziano irregolarità relative al rispetto delle scadenze manutentive. 
+3.4.4.2. Controlli sul materiale rotabile a seguito dello svio 
+Controllo visivo dei veicoli 
+In data 18.04.2018, a seguito di autorizzazione da parte della Procura della Repubblica, si è 
+provveduto ad effettuare un controllo visivo del materiale rotabile coinvolto nell’evento che, 
+recuperato in data 06.12.2017, era stato stazionato e posto sotto sequestro nella stazione di Paola. 
+È stato possibile rilevare che le ruote sviate presentavano evidenti segni di danneggiamento 
+dovuti al contatto con la sede ferroviaria e, pertanto, il rilievo delle quote caratteristiche delle ruote 
+e delle sale montate non avrebbe portato risultati significativi. 
+Si sono ispezionate visivamente le parti esterne dei veicoli, le sale montate, la trasmissione e le 
+sospensioni.  Non sono state rilevate anormalità visibili al rodiggio che abbiano potuto determinare 
+lo svio. 
+Figura 82- Carrozza semipilota 50838987529.6 (testa 
+treno) 
+Figura 81 - Carrozza semipilota 50838987529.6 (testa 
+treno) 
+
+## Página 106
+
+Figura 84 – Ruote sviate 
+Figura 83 – Ruote sviate 
+
+## Página 107
+
+Figura 86 – Locomotore E464 in coda al treno 3742 
+Figura 85 – Sospensione carrello FIAT  
+Figura 87 – Ammortizzatore E464 
+Figura 88 – Sospensione E464 
+
+## Página 108
+
+Lettura della ZTE 
+È stata esaminata la relazione relativa alla lettura della Zona Tachigrafica Elettronica (ZTE) della 
+carrozza semipilota del treno 3742 effettuata da Trenitalia SpA (Figura 89). La ZTE del locomotore 
+non è stata acquisita in quanto posta sotto sequestro.  
+Figura 89 - ZTE del treno 3742 (fonte: Relazione di Trenitalia SpA) 
+Dall’esame della ZTE si evince che: 
+- 
+alle ore 09:55:47,60 il treno viaggia alla velocità di 124 km/h ed ha percorso 20.176 m 
+dalla stazione di Cosenza;  
+- 
+alle ore 09:55:50,10 il treno accelera fino a portarsi alla velocità di 127 km/h; 
+- 
+alle ore 09:55:51,30 il treno ha percorso 20.309 m dalla stazione di Cosenza; 
+- 
+alle ore 09:55:51,90 interviene il superamento velocità di allerta e il treno ha percorso 
+20.330 m dalla stazione di Cosenza; 
+- 
+alle ore 09:55:52,30 il treno inizia a decelerare fino a raggiungere la velocità di 123 
+km/h; 
+- 
+alle ore 09:55:54,00 termina l’intervento della velocità di allerta e il treno ha percorso 
+20.393 m dalla stazione di Cosenza; 
+- 
+alle ore 09:55:56,70 il treno viaggia a 119 km/h, termina la decelerazione e ha percorso 
+20.490 m dalla stazione di Cosenza; 
+- 
+alle ore 09:55:59,80 il treno viaggia ancora a 119 km/h; 
+- 
+alle ore 09:56:00,10 il generatore da impulsi tachimetro (GIT) del carrello anteriore senso 
+marcia treno non trasmette più dati ma continua la trasmissione dal carrello posteriore. Si 
+
+## Página 109
+
+azzera la velocità mostrata all’agente di condotta. Il treno ha percorso 20.496 m dalla 
+stazione di Cosenza; 
+- 
+alle ore 09:56:32,50, dopo aver decelerato, il treno si ferma. Il treno ha percorso 20.752 
+m dalla stazione di Cosenza. 
+Considerando che il treno si è arrestato circa 810 m dopo il punto in cui è stato identificato il 
+punto di svio, dalla lettura della ZTE è stato possibile stabilire la velocità di transito del treno sopra 
+tale punto. 
+In particolare, il treno ha attraversato il punto di rottura dopo aver percorso (20.752 m – 810 m) 
+= 19.942 m a partire dalla stazione di Cosenza. A tale distanza, la lettura della ZTE indica una 
+velocità di 124 km/h. 
+Dopo 367 m da tale punto, è stato registrato un incremento di velocità del treno fino a 127 km/h. 
+In ragione di ciò è stato registrato un intervento per superamento della velocità di allerta e una 
+conseguente riduzione della velocità. 
+Non essendo stata analizzata la ZTE del locomotore, non si può stabilire la modalità di 
+intervento dell’agente di condotta sul sistema frenante. La frenatura ha comunque certamente avuto 
+luogo poiché si è registrato il superamento della velocità di allerta. 
+Il Personale di Condotta ha rispettato le velocità massime della linea e quella impostata per il 
+treno. 
+### 3.5. Documentazione del sistema di esercizio 
+3.5.1. Provvedimenti adottati dal personale per il controllo del traffico ed il segnalamento 
+Non erano in atto prescrizioni ai treni o limitazioni relative alla tratta Bivio Settimo – Bivio 
+Pantani né alle località in essa comprese (PM Santomarco) nel momento in cui si è verificato lo 
+svio. 
+Non sono presenti a sistema avvisi tipo I1 relativi a interruzioni o guasti per la tratta in esame, a 
+partire dal 27.11.2017 e fino alle ore 10.00 della data dell’evento, quando viene registrato l’avviso 
+I1 11816837 relativo allo svio nella tratta PM Santomarco – Bivio Pantani. 
+3.5.2. Scambio di messaggi verbali in relazione all'evento 
+L’istruttore di condotta di scorta sul treno 2432 del 05.12.2017 ha relazionato in merito alla 
+scorta effettuata dichiarando che: 
+“il treno partiva regolarmente dalla stazione di Castiglione C. alle ore 15:08, vettura pilota in 
+testa, diretto verso la stazione di Paola. Tra P.M. Santomarco e Bivio Pantani ovvero tra km 6 e km 
+5, avvertivamo con il macchinista di servizio allo stesso treno, un rumore non definito proveniente 
+dal binario, che non generava sui carrelli anteriori né sobbalzo, né serpeggiamento. La sensazione 
+era quella che, per una frazione di secondo, le ruote dei carrelli anteriori rotolassero su una 
+superficie diversa come ruvidità rispetto a quella precedente. Nonostante ciò mi mettevo in 
+comunicazione telefonica con il capo tronco (…omissis…) di RFI per segnalare tale anomalia al 
+binario, ore 15:20. 
+Il giorno successivo, mentre effettuavo il presenziamento nella stazione di Cosenza, lo stesso 
+macchinista del tr. 2432 scortato giorno 5 dicembre c.a., mi riferiva che con il treno 26443 di 
+giorno 6 dicembre c.a.,( in partenza da Paola alle ore 06.57 e arrivo a Cosenza alle ore 07.19), era 
+stato scortato in cabina di guida da un tecnico dell’unità manutentiva lavori.” 
+Sono state analizzate le registrazioni del DCO CTC 2^ sezione di Reggio Calabria, relative alle 
+giornate del 5 e 6 dicembre 2017, da cui risulta che: 
+
+## Página 110
+
+- 
+alle ore 9:20:10 un Operatore Specializzato Manutenzione di Paola ha contattato il DCO 
+di Reggio Calabria per chiedere una interruzione tecnica per circolazione carrello sulla 
+tratta Paola – Castiglione Cosentino ed il DCO ha comunicato contestualmente che 
+l’interruzione fosse probabilmente possibile solo dopo le ore 10:00; 
+- 
+alle ore 9:21:19 il DCO è stato contattato da un operatore di cui non è possibile udire la 
+voce. Il DCO però ha risposto confermando che c’erano dei treni merci in galleria e di 
+aver inteso la richiesta di passare da Paola a Castiglione; 
+- 
+alle ore 9:55:14 l’Operatore Specializzato Manutenzione di Paola ha contattato 
+nuovamente il DCO di Reggio Calabria per concordare le modalità di attivazione 
+dell’interruzione e in particolare l’effettuazione di una verifica del giunto di un treno 
+merci a San Lucido prima di poter concedere l’interruzione, per un treno al momento 
+fermo a PM Santomarco. L’Operatore Specializzato Manutenzione ha confermato che 
+avrebbe inviato una persona a San Lucido per la verifica del giunto treno; 
+- 
+alle ore 10:03:37 il DCO di Reggio Calabria è stato contattato dal Capo Treno del treno 
+3742 che gli ha comunicato che il treno era deragliato dopo PM Santomarco con tre 
+vetture, che non c’erano feriti e solo il macchinista aveva avuto un malore e gli ha chiesto 
+di attivare le procedure di soccorso. 
+3.5.3. Provvedimenti adottati a tutela e salvaguardia del sito dell'evento 
+La linea ferroviaria e tutti i veicoli sono stati posti sotto sequestro dalla Procura della 
+Repubblica presso il Tribunale di Paola. 
+### 3.6. Interfaccia uomo-macchina-organizzazione 
+3.6.1. Tempo lavorativo del personale coinvolto 
+Sono stati esaminati i turni lavorati dal personale del treno 3742 relativi ai 30 gg precedenti la 
+data dell’evento. 
+I turni sono stati analizzati calcolando due indicatori: Fatigue and Risk Index (FRI), uno legato 
+all’affaticamento e l’altro legato al rischio.  
+L’indice di affaticamento (Fatigue Index) si calcola attribuendo un punteggio che va da 0 a 100 
+e che rappresenta la probabilità media, espressa in percentuale, di avere elevati livelli di sonnolenza.  
+Un indice di rischio (Risk Index) pari a 1 indica la media del livello di rischio di 
+incidente/errore raggiunto in studi su persone che lavorano su turni di 12 ore su un programma di 2 
+giorni, 2 notti e 4 riposi nel settore ferroviario. Di conseguenza, un punteggio di rischio pari a 2 può 
+essere interpretato come un raddoppio del rischio su questo particolare programma di turni. 
+Gli indicatori sono stati calcolati utilizzando il Fatigue Index Calculator (© Crown Copyright 
+2005), metodologia proposta da The Health and Safety Executive (HSE). 
+In particolare, i turni lavorati dall’Agente di Condotta hanno prodotto un indice di affaticamento 
+(Fatigue Index) del 3% ed un indice di rischio (Risk Index) pari a 0,86.  
+I turni lavorati dall’Agente di Scorta hanno prodotto un indice di affaticamento (Fatigue Index) 
+del 9% ed un indice di rischio (Risk Index) pari a 0,75.  
+Entrambi gli indicatori confermano quindi l’assenza di problemi di affaticamento dovuti alla 
+turnazione dei lavoratori.  
+Non è stato possibile calcolare gli indici relativi al personale del gestore dell’infrastruttura 
+poiché il gestore, pur comunicando il dato cumulato relativo alle ore giornalmente lavorate dal 
+personale addetto alla manutenzione e l’indicazione dei turni lavorati dal DCO nel mese precedente 
+all’incidente, non ha fornito indicazioni in merito agli orari di inizio e fine dei servizi effettivamente 
+prestati. 
+
+## Página 111
+
+3.6.2. Circostanze personali e mediche che possono aver influenzato l'evento incidentale 
+Dall’analisi della documentazione esaminata si rileva che non sussistono elementi riconducibili 
+a disturbi di carattere psico-fisico imputabili al personale di condotta del treno coinvolto 
+nell’incidente, né al personale addetto al controllo del traffico al momento dell’incidente. 
+3.6.3. Architettura degli impianti aventi un'incidenza sull'interfaccia uomo-macchina 
+Per memoria. 
+### 3.7. Eventi precedenti dello stesso tipo 
+Per memoria. 
+## 4. Analisi e conclusioni 
+### 4.1. Resoconto finale della catena di eventi 
+Sulla base di quanto indicato nel capitolo 3, dei dati e dei risultati delle indagini svolte, dei 
+sopralluoghi effettuati, della documentazione esaminata e degli accertamenti direttamente eseguiti, 
+si può ricostruire la catena di eventi che ha caratterizzato l’evento. 
+In data 05.12.2017 l’istruttore di condotta di scorta sul treno 2432 ha comunicato al Capo 
+Tronco di aver avvertito, alle ore 15:08, sulla vettura pilota in testa al treno, un rumore non definito 
+proveniente dal binario, nella tratta tra PM Santomarco e Bivio Pantani, in particolare tra le 
+progressive km 6 e km 5.  
+Il Capo Unità Manutentiva, informato della circostanza dallo specialista cantieri di RFI, ha 
+ritenuto di effettuare per il mattino seguente una scorta treno in cabina. 
+In data 06.12.2017 si sono verificati i seguenti eventi: 
+- 
+alle ore 6:57, effettuando la scorta sul treno 26443, il Capo Unità Manutentiva ha 
+avvertito un sobbalzo al km 5+700 circa. Stesso sobbalzo è stato avvertito sul treno 3746 
+di ritorno; 
+- 
+alle ore 9:20:10 un Operatore Specializzato Manutenzione di Paola ha contattato il DCO 
+di Reggio Calabria per chiedere una interruzione tecnica per circolazione carrello sulla 
+tratta Paola – Castiglione Cosentino ed il DCO ha comunicato contestualmente che 
+l’interruzione è fosse possibile probabilmente solo dopo le ore 10:00; 
+- 
+alle ore 9:55:14 l’Operatore Specializzato Manutenzione di Paola ha contattato 
+nuovamente il DCO di Reggio Calabria per concordare le modalità di attivazione 
+dell’interruzione; 
+- 
+alle ore 09:55:50 il treno 3742 viaggiava all’interno della galleria Santomarco, nella tratta 
+PM Santomarco – Bivio Pantani, alla velocità di 124 km/h ed è deragliato in 
+corrispondenza della progressiva km 5+710; 
+- 
+alle ore 09:56:32 il treno si è fermato, a circa 810 m dal punto di svio (km 5+710).  
+### 4.2. Discussione 
+4.2.1. Analisi riguardanti la causa diretta dell’incidente 
+Per quanto fin qui esposto e a seguito dei riscontri in occasione dei sopralluoghi sui veicoli e 
+sull’infrastruttura, la causa diretta dell’inconveniente è la rottura in campata di un tratto della rotaia 
+sinistra smt in corrispondenza della progressiva km 5+710 della galleria Santomarco. 
+
+## Página 112
+
+In corrispondenza di tale progressiva la rottura della rotaia è avvenuta in più punti e 
+presumibilmente in più tempi. Nel corso dei sopralluoghi si sono notati dei segni di rottura 
+preesistenti sulla suola della rotaia e altri segni più recenti. 
+La presenza di corrosione, dovuta a infiltrazioni d’acqua dalla volta della galleria, ristagno, 
+inquinamento della massicciata e probabilmente alle correnti elettrolitiche presenti nei circuiti di 
+ritorno della TE, ha comportato la riduzione della sezione resistente fino a comportare la rottura 
+della rotaia. 
+Nel tratto ove si è riscontrata la rottura non erano presenti giunti o saldature. 
+La corrosione dell’armamento, inoltre, oltre a interessare le rotaie, in particolare sulla suola, ha 
+riguardato gli organi di attacco e le traverse, indebolendo il vincolo di incastro tra rotaia e traversa 
+in corrispondenza del tratto di campata di rotaia di lunghezza pari a circa 6,50 m interessato dalla 
+rottura. 
+L’estremità della rotaia rimasta in opera in direzione Paola presenta segni di urto e 
+sollecitazione di torsione che, causati dallo svio, ne hanno provocato lo svergolamento. 
+È invece da escludere che la rottura sia intervenuta a causa di un qualsivoglia evento legato allo 
+stato dei veicoli del treno 3742.  
+4.2.2. Analisi riguardanti le cause indirette dell’incidente 
+Causa indiretta 1 – Inefficacia delle visite in linea e delle conseguenti azioni manutentive 
+La linea ferroviaria Paola – Castiglione Cosentino è sottoposta al presidio manutentivo adottato 
+per l’intera infrastruttura ferroviaria nazionale. 
+Per verificare la regolarità dei parametri geometrici e delle opere d’arte sono previste visite in 
+linea da parte dei tecnici di RFI SpA da effettuarsi a piedi, in mezzo d’opera e in cabina. È inoltre 
+previsto il rilievo della geometria del binario con treno diagnostico. 
+Tali visite e tali rilievi sono stati effettuati nella galleria Santomarco con la cadenza prevista dal 
+piano di manutenzione ed hanno più volte evidenziato lo stato generale e puntuale di 
+ammaloramento dell’armamento e la necessità di intervento (cfr. § 3.4.2.2.), almeno a partire dalla 
+visita a piedi del 27.06.2016. 
+Le problematiche presenti nella galleria Santomarco ed i relativi effetti sull’armamento erano 
+quindi noti al personale addetto alla manutenzione e per tale ragione era stata aumentata la 
+frequenza delle visite a piedi (effettuate ogni 6 mesi rispetto ai 12 mesi previsti come minimo per la 
+tipologia di linea).  
+Risulta che per la galleria fossero programmati interventi di manutenzione per il periodo 
+2018/2020. Gli interventi di ripristino programmati di cui si ha avuto evidenza (Figura 25) non 
+prevedevano, tuttavia, interventi in corrispondenza dell’intorno del punto di svio al km 5+710.  
+Tali interventi di manutenzione straordinaria dovevano comunque essere affiancati dalla 
+programmazione di interventi urgenti di sostituzione delle rotaie in funzione della gravità dei difetti 
+e, infatti, nel corso dei sopralluoghi effettuati in galleria è stata rilevata la presenza di alcune barre 
+di rotaia da 36 m che dovevano essere poste in opera, a conferma di quanto dichiarato dal Capo 
+Unità Manutentiva (cfr. § 3.1.6.).  
+I controlli visivi effettuati durante le visite in linea nell’anno 2017, invece, non hanno mai 
+riportato la classificazione dei difetti previsti dalla Parte III della procedura RFI DPR PS IFS 88 B 
+“Gestione dei difetti nelle rotaie e negli scambi e relativi provvedimenti manutentivi” e, di 
+conseguenza, non è stato dato corso alle azioni mitigative previste nella Parte IV della stessa 
+procedura in caso di rilevamento delle anomalie. 
+Pertanto, il tenore delle ispezioni e delle azioni manutentive sulla galleria, nonostante abbia 
+evidenziato diverse volte problematiche all’armamento e alla massicciata, non ha pertanto 
+consentito di rilevare l’innesco e l’evoluzione del degrado e di programmare per tempo le azioni 
+
+## Página 113
+
+correttive sul binario in corrispondenza della progressiva km 5+710 prima della rottura della rotaia 
+e del passaggio del treno 3742 del 06.12.2017.  
+Causa indiretta 2 - Errata gestione della segnalazione anomalia del 05.12.2017 
+Per quanto riportato in § 3.5.2, in data 05.12.2017 l’istruttore di condotta di scorta sul treno 
+2432 ha comunicato di aver avvertito, alle ore 15:08, sulla vettura pilota in testa al treno, un rumore 
+non definito proveniente dal binario, nella tratta tra P.M. Santomarco e Bivio Pantani, in particolare 
+tra le progressive km 6 e km 5.  
+Il Capo Unità Manutentiva, informato della circostanza dallo specialista cantieri di RFI, ha 
+ritenuto di effettuare per il mattino seguente una scorta treno in cabina. 
+A seguito della segnalazione dell’anomalia del 05.12.2017, pertanto, l’errata percezione del 
+contesto di cui si è discusso al punto precedente, anche se le condizioni della galleria erano note al 
+personale addetto alla manutenzione, ha portato ad una sottovalutazione della problematica che si 
+stava verificando ed a rimandare al giorno seguente la visita in cabina. 
+In data 06.12.2017, inoltre, per le stesse ragioni, a seguito della visita in cabina effettuata dal 
+Capo Unità Manutentiva e del riscontro dell’anomalia, è stata richiesta un’interruzione tecnica al 
+DCO di Reggio Calabria, che non era stato reso edotto sui motivi della richiesta. Per poter effettuare 
+la visita straordinaria a piedi prevista dalla Disposizione n. 60 del 02.09.2005 “Servizi di vigilanza 
+linea armamento e sede” che, al punto III.1.4 prescrive che “A seguito delle non conformità rilevate 
+nel corso della visita in cabina il Capo Tronco deve disporre una visita straordinaria a piedi per 
+valutare precisamente cause ed entità dei difetti e, nel caso, provvedere alla eliminazione degli 
+stessi”, avrebbe dovuto piuttosto essere richiesta una interruzione accidentale, onde poter verificare 
+con urgenza e prima del transito di altri treni che il sobbalzo avvertito fosse causato da rottura della 
+rotaia e non difettosità geometrica del binario, come invece è stato valutato. 
+Causa indiretta 3 – Mancata programmazione degli interventi di manutenzione risolutivi 
+Risulta che per la linea fossero programmati interventi di manutenzione straordinaria per il 
+periodo 2018/2020 (Figura 25). Gli interventi di ripristino programmati di cui si ha avuto evidenza 
+prevedevano rinnovamento con risanamento della massicciata dal km 0+300 (bivio Settimo) al km 
+2+790 (bivio Sant’Antonello), dal km 17+150 al km 21+600, dal km 0+000 (stazione Paola) al km 
+2+054 (bivio Pantani) e dal km 0+000 (stazione San Lucido) al km 4+250 (bivio Pantani).  
+Non si ha pertanto evidenza della programmazione di interventi di manutenzione straordinaria 
+risolutivi né di interventi di rinnovo dell’armamento e della massicciata in corrispondenza della 
+galleria Santomarco ove, come indicato in § 3.4.2.1. ed in particolare nei rapporti relativi alle visite 
+in linea ed alle opere d’arte, erano state segnalate percolazioni d’acqua dalla volta, corrosione 
+dell’armamento e inquinamento della massicciata e che, in coerenza con quanto previsto al punto 
+IV.4.1 del “Manuale del Sistema di Gestione della Sicurezza della circolazione dei treni e 
+dell’esercizio ferroviario” RFI SGS M 2 0 (cfr. § 3.3.2.1.), avrebbero dovuto migliorare 
+l’affidabilità dell’infrastruttura. 
+Causa indiretta 4 - Mancata effettuazione dei controlli ultrasonici manuali  
+Non sono stati attivati i controlli straordinari ad ultrasuoni manuali previsti dalla procedura RFI 
+DPR PS IFS 88 B “Gestione dei difetti nelle rotaie e negli scambi e relativi provvedimenti 
+manutentivi”, punto 2.4.2, per stabilire l’innesco di fratture all’interno delle rotaie, né a seguito di 
+quanto previsto per il mancato rilievo del treno ultrasonico con la nota prot. RFI-
+DPR\A0011\P\2014\0001431 del 17.02.2014.  
+In particolare, la procedura RFI DPR PS IFS 88 B prevede che i controlli straordinari riguardino 
+le tratte in galleria in presenza di infiltrazioni d’acqua e quelle all’aperto in prossimità di zone 
+
+## Página 114
+
+marine soggette a fenomeni corrosivi e che, per tali tratte la frequenza dei controlli venga stabilita 
+dal RCDL-LV in relazione al tipo di fenomeno in atto. 
+Sulle difettosità individuate avrebbero dovuto essere effettuati controlli non distruttivi ad 
+ultrasuoni manuali con frequenza base di 12 mesi e, a seconda della classificazione del difetto 
+secondo il catalogo dei difetti delle rotaie, era da prevedere il tipo di intervento indicato in Tabella 
+19, rimanendo la facoltà del RCDL-LV, in relazione a particolari situazioni (posizione del difetto in 
+curve di raggio stretto, presenza di altro difetto a distanza inferiore a 2m, massicciata inquinata, 
+posizione decentrata rispetto spartito traverse, condizioni della rotaia e dello scambio, evoluzione 
+della temperatura ecc,) di adottare provvedimenti più restrittivi rispetto a quelli elencati. 
+Tabella 19 - Provvedimenti da adottare in relazione alla classificazione del difetto, determinati in funzione della 
+grandezza dello stesso 
+| Classificazione difetto | TIPO DIINTERVENTO |
+| A | Controlloalla frequenza base stabilitaconla Tab 2 . |
+| B | Controlloentro½ciclofrequenza base stabilita conla Tab2 . |
+| S1 | Eliminare il difetto nonoltre 1ciclodella frequenza base stabilitaconla Tab2 . . |
+| S2 | Eliminare il difetto nonoltre 1/2ciclodella frequenza base stabilita con la Tab2 . . |
+| C1 | Eliminare il difettoentro60giorni |
+| C2 | Eliminare il difettoentro30giorni |
+| C3 | Eliminare entro10giorni |
+| D | Eliminazione immediata del difetto Conapertura dell’avviso I1nel SIM . |
+La procedura prescrive che per difetti, secondo il catalogo dei difetti delle rotaie, di tipo (220 – 
+difetti superficiali sul fungo, logorio; 234 – 254 corrosione anormale del gambo e della suola), il 
+personale di linea, trattandosi di difettosità visibili, debba adottare tutti quei provvedimenti che 
+vengono raccomandati nel predetto catalogo nonché ogni iniziativa che ritiene utile ai fini della 
+sicurezza e della regolarità della circolazione e, qualora gli operatori preposti al controllo qualora 
+rilevino un difetto classificato “D” debbano darne immediata comunicazione al RCDL-LV e, se 
+necessario, adottare i provvedimenti del caso atti a salvaguardare la regolarità e la sicurezza 
+dell’esercizio ferroviario. 
+La puntuale applicazione della procedura RFI DPR PS IFS 88 B “Gestione dei difetti nelle 
+rotaie e negli scambi e relativi provvedimenti manutentivi”, per quanto riguarda i controlli manuali, 
+i controlli con treno diagnostico e la conseguente gestione delle anomalie rilevate, avrebbe con ogni 
+probabilità consentito al personale addetto alla manutenzione di avere un quadro più completo dello 
+stato dell’armamento e avrebbe pertanto probabilmente evitato l’errata percezione del contesto di 
+cui si è discusso ai punti precedenti. 
+Causa indiretta 5 - Mancata comunicazione dell’anomalia al DCO  
+Il Regolamento per la Circolazione Ferroviaria emanato con Decreto ANSF n. 4/2012 del 9 
+agosto 2012 prescrive quanto segue: 
+10.6. Ogni anormalità alla circolazione di un treno deve essere comunicata dall’agente di 
+condotta al regolatore della circolazione di giurisdizione.  
+Qualora l’anormalità abbia determinato l’arresto del treno, nella comunicazione l’agente di 
+condotta deve precisare, oltre alle cause dell’anormalità, il punto di arresto (segnale di terra, 
+progressiva chilometrica o itinerario di una località di servizio) e la presenza o meno 
+dell’autorizzazione al movimento. In tale evenienza l’agente di condotta deve anche 
+assicurare l’immobilità del treno. 
+
+## Página 115
+
+…omissis… 
+13.2. 
+Qualora durante la marcia del treno l’agente di condotta rilevi anormalità 
+all’infrastruttura ferroviaria o al binario percorso (sbandamenti o sobbalzi), deve darne 
+immediata comunicazione al regolatore della circolazione il quale deve attivare le procedure 
+per l’adozione dei provvedimenti necessari ad assicurare il movimento dei treni in condizioni 
+di sicurezza. 
+13.3. 
+Le restrizioni temporanee di velocità eventualmente necessarie, denominate 
+rallentamenti, e i tratti di binario a cui si riferiscono devono essere tempestivamente 
+comunicate ai treni con il sistema di segnalamento. 
+13.4. 
+Qualora ai fini del precedente punto 13.3  siano utilizzati segnali di terra con 
+caratteristiche di cui al punto 5.8, il rallentamento deve anche  essere notificato attraverso 
+prescrizione di movimento. Qualora per esigenze improvvise  sia necessario attivare un 
+rallentamento prima  della posa dei segnali di terra, in attesa di tale posa l’inizio e la fine del 
+rallentamento devono coincidere con punti della linea facilmente ed inequivocabilmente 
+individuabili.  
+13.5. 
+I rallentamenti devono essere protetti dai sistemi di protezione della marcia dei treni. 
+13.6. 
+Qualora per esigenze improvvise sia necessario attivare un rallentamento prima 
+della sua protezione da parte del sistema di protezione, il rallentamento deve iniziare dalla 
+posizione in cui si trova il treno al momento della comunicazione e deve terminare in un punto 
+facilmente e inequivocabilmente individuabile sul terreno. 
+…omissis… 
+L’anormalità rilevata in data 05.12.2017 dall’istruttore di condotta di scorta sul treno 2432 è 
+stata segnalata alle ore 15:20 circa allo specialista opere civili che, a sua volta, ha avvisato il CUM. 
+Il DCO di Reggio Calabria, regolatore della circolazione di giurisdizione, pertanto, non ne era a 
+conoscenza e non ha potuto attivarsi per quanto previsto all’art. 13.2 del Regolamento per la 
+Circolazione Ferroviaria. 
+4.2.3. Analisi riguardanti le cause a monte dell’incidente 
+Causa a monte 1 – Assenza di indicazioni sulle difettosità riscontrate nelle visite in linea 
+precedenti sul verbale di visita al binario 
+I documenti di verbalizzazione delle visite al binario previsti dalle Disposizioni operative di 
+dettaglio per la visita linea ordinaria nei settori “Armamento e sede” e “TE” RFI DPR PS IFS 086 C 
+del 30.11.2015, utilizzati dal personale incaricato delle visite in linea, non contengono indicazioni 
+in merito alle difettosità riscontrate nelle visite precedenti ed al loro stato. 
+Da quanto si può notare nei rapporti di visita al binario riportati in § 3.4.2.1., si può sostenere 
+che i rapporti sono in alcuni casi discordanti poiché, ad esempio, in alcune occasioni non sono 
+riportate anomalie che si ha invece motivo di ritenere in essere, poiché presenti nelle visite 
+immediatamente precedente e successiva a quella in esame. 
+Inoltre, una tale informazione potrebbe essere utile al fine di stimare, nel corso della visita, 
+l’eventuale permanenza, ricomparsa ed evoluzione del degrado riscontrato ed al fine di valutare la 
+necessità di attuare provvedimenti restrittivi della circolazione ferroviaria aventi carattere di 
+urgenza.  
+Causa a monte 2 – Necessità di coinvolgimento di differenti livelli di responsabilità a seguito 
+del rilevamento di particolari condizioni del binario 
+Le procedure esaminate in merito al presidio manutentivo adottato per l’infrastruttura 
+ferroviaria (in particolare Disposizione n. 60 del 2 settembre 2005 di RFI “Servizi Vigilanza linea 
+
+## Página 116
+
+armamento e sede” e le “Disposizioni operative di dettaglio per la visita linea ordinaria nei settori 
+“Armamento e sede” e “TE” RFI DPR PS IFS 086 C del 30.11.2015) non prevedono il 
+coinvolgimento diretto dei livelli tecnici di responsabilità superiori rispetto all’operatore che rileva 
+situazioni critiche sulla linea e non prevedono il coinvolgimento diretto delle strutture centrali 
+responsabili della programmazione di interventi di manutenzione straordinaria estesa nel caso in cui 
+si presentino anomalie non risolvibili in modo definitivo con interventi a cura delle unità 
+manutentive locali, limitando le responsabilità a livello delle DTP. È opportuno, invece, che «In 
+conformità a quanto definito in fase di pianificazione e programmazione, DPR, attraverso la sua 
+articolazione organizzativa, deve provvedere all'attuazione delle attività manutentive per 
+rispondere ai requisiti di sicurezza e affidabilità stabiliti da Disposizioni e norme cogenti» e che «il 
+controllo dell'intero processo manutentivo è effettuato a tutti i livelli dell'articolazione 
+organizzativa di DPR, analizzando, attraverso indicatori di sicurezza e di performance, 
+l'andamento della disponibilità dell'infrastruttura e individuando le azioni correttive per il 
+miglioramento delle prestazioni di sicurezza»  (punti IV.4.1.1 e IV.4.1.2 del Manuale del Sistema di 
+Gestione della Sicurezza della circolazione dei treni e dell’esercizio ferroviario RFI SGS M 2 0 
+dell’11.04.2017). 
+Causa a monte 3 – Non perfetta corrispondenza tra RCF e regolamenti del gestore 
+dell’infrastruttura 
+Il Regolamento per la Circolazione Ferroviaria emanato con Decreto ANSF n. 4/2012 del 9 
+agosto 2012 prescrive quanto segue: 
+10.6. Ogni anormalità alla circolazione di un treno deve essere comunicata dall’agente di 
+condotta al regolatore della circolazione di giurisdizione.  
+Qualora l’anormalità abbia determinato l’arresto del treno, nella comunicazione l’agente di 
+condotta deve precisare, oltre alle cause dell’anormalità, il punto di arresto (segnale di terra, 
+progressiva chilometrica o itinerario di una località di servizio) e la presenza o meno 
+dell’autorizzazione al movimento. In tale evenienza l’agente di condotta deve anche 
+assicurare l’immobilità del treno. 
+…omissis… 
+13.2. 
+Qualora durante la marcia del treno l’agente di condotta rilevi anormalità 
+all’infrastruttura ferroviaria o al binario percorso (sbandamenti o sobbalzi), deve darne 
+immediata comunicazione al regolatore della circolazione il quale deve attivare le procedure 
+per l’adozione dei provvedimenti necessari ad assicurare il movimento dei treni in condizioni 
+di sicurezza. 
+13.3. 
+Le restrizioni temporanee di velocità eventualmente necessarie, denominate 
+rallentamenti, e i tratti di binario a cui si riferiscono devono essere tempestivamente 
+comunicate ai treni con il sistema di segnalamento. 
+13.4. 
+Qualora ai fini del precedente punto 13.3 siano utilizzati segnali di terra con 
+caratteristiche di cui al punto 5.8, il rallentamento deve anche essere notificato attraverso 
+prescrizione di movimento. Qualora per esigenze improvvise sia necessario attivare un 
+rallentamento prima della posa dei segnali di terra, in attesa di tale posa l’inizio e la fine del 
+rallentamento devono coincidere con punti della linea facilmente ed inequivocabilmente 
+individuabili.  
+13.5. 
+I rallentamenti devono essere protetti dai sistemi di protezione della marcia dei treni. 
+13.6. 
+Qualora per esigenze improvvise sia necessario attivare un rallentamento prima 
+della sua protezione da parte del sistema di protezione, il rallentamento deve iniziare dalla 
+posizione in cui si trova il treno al momento della comunicazione e deve terminare in un punto 
+facilmente e inequivocabilmente individuabile sul terreno. 
+…omissis… 
+
+## Página 117
+
+Il Regolamento per la Circolazione dei Treni di RFI SpA (Aggiornato con decreto ANSF n. 
+12/2009), all’art.23 (Ritardi ed anormalità nella corsa dei treni) prescrive quanto segue: 
+…omissis… 
+7. Quando il personale di macchina o quello di scorta noti qualche anormalità od irregolarità 
+che possa compromettere la sicurezza del proprio o di altri treni, salve disposizioni particolari, 
+deve arrestare il treno e provvedere possibilmente per l'eliminazione delle anormalità. 
+Se questa non è eliminabile, o se trattasi di attentati interessanti la sicurezza della circolazione 
+o l'incolumità dei viaggiatori, il capotreno, dopo aver adottato i provvedimenti e le cautele 
+richiesti dalla situazione, deve al più presto informare dell'accaduto una delle  stazioni 
+limitrofe. 
+7 bis. Il personale di macchina che riscontri in un determinato tratto di linea anormalità nella 
+marcia del proprio treno (salti, sobbalzi, sbandamenti, ecc.) di origine imprecisata, ma tali da 
+far comunque ritenere possibile l'esistenza di anormalità al binario, deve arrestare il treno 
+nella prima località di servizio per notificare l'anormalità. Lo stesso personale, inoltre, dovrà 
+concordare con il dirigente, con criteri prudenziali, l'entità della riduzione di velocità da 
+prescrivere ai treni interessati e sempre che nella circostanza non siano giudicati necessari 
+provvedimenti più cautelativi. Ciò in attesa dell'intervento del personale della manutenzione, 
+avvisato a cura dello stesso dirigente. 
+Nel caso venga istituita una riduzione di velocità, nella prescrizione il tratto interessato 
+all'anormalità può essere delimitato da località di servizio o cippo chilometrico; qualora la 
+stessa sede ferroviaria sia comune a più linee non coincidenti, il tratto in soggezione dovrà 
+essere delimitato solo da località di servizio. I dirigenti movimento provvederanno per 
+l'avviso ai soli treni effettivamente interessati3 nei modi d'uso. 
+7 ter. Nel caso si riscontri la rottura di una rotaia, la circolazione deve essere arrestata, salvo 
+che il personale della  manutenzione abbia dato le necessarie istruzioni per l'eventuale inoltro 
+dei treni verso il tratto in soggezione, notificando per iscritto ai dirigenti delle due stazioni 
+limitrofe la riduzione di velocità, il binario interessato, le località di servizio o i cippi 
+chilometrici delimitanti il tratto in soggezione; qualora la stessa sede ferroviaria sia comune a 
+più linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà essere delimitato 
+solo da località di servizio. I dirigenti stessi provvederanno per l'avviso ai treni4 nei modi 
+d'uso. 
+…omissis… 
+L’Istruzione per il servizio del personale di condotta delle locomotive (IPCL), all’art. 40 
+(Ritardi e anormalità nella corsa dei treni – Retrocessione - Malore del macchinista o dell’aiuto 
+macchinista o del Capotreno) prevede quanto segue: 
+…omissis… 
+5 ter. - Il personale di macchina che riscontri in un determinato tratto di linea anormalità nella 
+marcia del proprio treno (salti, sobbalzi, sbandamenti ecc.) di origine imprecisata ma tali da 
+far comunque ritenere possibile l’esistenza di anormalità al binario, deve arrestare il treno 
+nella prima località di servizio per notificare con mod. M.40a l’anormalità all’agente che 
+3 Non superate velocità di .... Km/h da .... (località di servizio o cippo chilometrico) a .... (località di servizio 
+o cippo chilometrico). 
+4 Non superate velocità di .... Km/h da .... (località di servizio o cippo chilometrico) a .... (località di servizio o cippo 
+chilometrico). 
+
+## Página 118
+
+presenzia l’impianto (o al D.C.O.). Lo stesso personale, inoltre, dovrà concordare con il 
+dirigente movimento (o D.C.O.), al quale è stata comunicata l’anormalità, con criteri 
+prudenziali, l’entità della riduzione di velocità da prescrivere ai treni interessati e sempre che 
+nella circostanza non siano giudicati necessari provvedimenti più cautelativi; ciò in attesa 
+dell’intervento del personale della manutenzione, avvisato a cura dello stesso dirigente. 
+Nel caso di invio dei treni con riduzione di velocità il tratto interessato dall’anormalità può 
+essere delimitato da località di servizio o cippi chilometrici; qualora la stessa sede ferroviaria 
+sia comune a più linee con cippi chilometrici non coincidenti, il tratto in soggezione dovrà 
+essere delimitato solo da località di servizio. 
+…omissis… 
+Il Regolamento per la Circolazione dei Treni e l’Istruzione per il servizio del personale di 
+condotta delle locomotive (IPCL) di RFI SpA non sono perfettamente coerenti con quanto previsto 
+dal Regolamento per la Circolazione Ferroviaria di ANSF per il caso in cui, durante la marcia del 
+treno, l’agente di condotta rilevi anormalità all’infrastruttura ferroviaria o al binario.  
+In particolare, la non perfetta corrispondenza tra Regolamento per la Circolazione dei Treni e 
+Regolamento per la Circolazione Ferroviaria potrebbe, in minima parte, aver contribuito alla 
+mancata comunicazione al DCO dell’anomalia rilevata in data 05.12.2017 da parte dell’agente di 
+condotta. 
+### 4.3. Conclusioni 
+Causa diretta 
+Rottura in campata di un tratto della rotaia sinistra smt in corrispondenza della progressiva km 
+5+710 della linea Paola – Castiglione Cosentino, dovuta a corrosione dell’armamento per venute 
+d’acqua dalla volta, ristagno, inquinamento della massicciata e correnti elettrolitiche. 
+Cause indirette 
+1. Inefficacia delle visite in linea e delle conseguenti azioni manutentive 
+2. Errata gestione della segnalazione anomalia del 05.12.2017 
+3. Mancata programmazione degli interventi di manutenzione risolutivi 
+4. Mancata effettuazione dei controlli ultrasonici 
+5. Mancata comunicazione dell’anomalia al DCO  
+Cause a monte 
+1. Assenza di indicazioni sulle difettosità riscontrate nelle visite in linea precedenti sul 
+verbale di visita al binario 
+2. Necessità di coinvolgimento di differenti livelli di responsabilità a seguito del rilevamento 
+di particolari condizioni del binario 
+3. Non perfetta corrispondenza tra RCF e regolamenti del gestore dell’infrastruttura 
+
+## Página 119
+
+### 4.4. Osservazioni aggiuntive 
+Non presenti. 
+## 5. Provvedimenti adottati  
+L’Agenzia Nazionale per la Sicurezza delle Ferrovie, con nota prot. 1002 del 15.01.2018, ha 
+impartito agli operatori ferroviari la seguente Raccomandazione in materia di sicurezza della 
+circolazione ferroviaria: 
+Ciascun Operatore deve effettuare un riesame dei propri processi interni, in coerenza con 
+quanto stabilito dai Metodi Comuni di Sicurezza, per individuarne i motivi di inefficacia e di 
+conseguenza mettere in atto le necessarie azioni finalizzate a garantire un efficace presidio 
+dei processi manutentivi di competenza, prevedendo anche specifiche attività di audit sui 
+fornitori esterni di servizi di manutenzione. Tale attività dovrà essere tracciata nella 
+relazione annuale di applicazione del procedimento di gestione dei rischi. 
+Si richiamano inoltre tutti gli organismi di certificazione (VIS, NoBo, OdC ECM Carri, CSM 
+Assessor) a prestare, nello svolgimento del proprio mandato, la massima attenzione alla 
+verifica dell’ottemperanza dei requisiti previsti dalla normativa applicabile per quanto 
+attiene agli aspetti manutentivi, effettuando, anche sulla base delle attività periodiche di audit 
+svolte ai fini della certificazione e delle non conformità rilevate attraverso i ritorni di 
+esercizio, un riesame della propria organizzazione al fine di individuare le azioni 
+migliorative per assicurare l’efficacia dei controlli periodici effettuati. 
+Il Gestore dell'Infrastruttura RFI S.p.A. e le Aziende di cui al DM 5 agosto 2016 devono 
+avviare un percorso di verifica dell'efficacia delle procedure di gestione dei controlli - sia 
+visivi che strumentali - sui componenti dell'infrastruttura per individuarne le criticità e i punti 
+di miglioramento, e fornire agli addetti ai controlli strumenti di supporto alle decisioni, 
+stabilendo in particolare adeguati criteri sulla base dei quali adottare i provvedimenti di 
+urgenza o comunque restrittivi della circolazione. 
+A seguito dell’incidente occorso in data 25.01.208 nei pressi della stazione di Pioltello-Limito, 
+con nota prot. 3171 del 16.02.2018, l’Agenzia Nazionale per la Sicurezza delle Ferrovie ha emesso 
+la seguente ulteriore disposizione nei confronti del gestore dell’infrastruttura RFI SpA: 
+Codesto Gestore deve dare immediatamente corso a quanto previsto nella citata circolare ed 
+effettuare un riesame dei processi interni per garantire un efficace presidio dei processi 
+manutentivi di propria competenza. Tutto ciò nella considerazione che l'eventuale mancanza 
+di tale riesame rischia di inficiare sia il beneficio dovuto ai notevolissimi impegni finanziari 
+pubblici messi in campo negli ultimi anni per l'upgrade dei programmi di ammodernamento 
+tecnologico dell’intera rete nazionale, sia la reale efficacia del sistema di gestione della 
+sicurezza (SGS) che verrebbe disatteso con i comportamenti della propria struttura destinata 
+a garantire appunto il mantenimento della sicurezza improntati a volte a praticismi e prassi. 
+Poiché per dare corso a tale riesame sarà necessario un tempo non brevissimo, codesto 
+gestore, nell’ambito della propria responsabilità e delle proprie competenze, vorrà 
+nell'immediato: 
+1) Definire con un protocollo specifico le situazioni critiche a cui debbano fare seguito 
+provvedimenti mitigativi immediati restrittivi per la circolazione ferroviaria; 
+2) Coinvolgere livelli tecnici e di responsabilità superiori, rispetto a chi rileva la situazione 
+critica, per l’immediata verifica dell'eventuale problema rilevato e della validità dei 
+provvedimenti urgenti adottati; 
+
+## Página 120
+
+3) Disporre affinché vi sia un maggior collegamento e controllo tra il livello centrale della 
+Direzione produzione nazionale e le strutture sul territorio; 
+4) Acquisire su tali provvedimenti immediati la validazione di un VIS di chiara terzietà. 
+Codesto Gestore vorrà inoltre nel medio periodo: 
+1) Rivedere le modalità operative con cui vengono affrontate e gestite le situazioni critiche o 
+potenzialmente critiche associate alla rilevazione dei difetti dell’infrastruttura ferroviaria, 
+rafforzando in particolare i canali di comunicazione interni affinchè alla segnalazione di 
+criticità possano essere individuate con certezza le azioni da porre in essere dal personale 
+addetto per evitare l'insorgere di un potenziale pericolo e venga data immediata 
+comunicazione dei difetti rilevati ai responsabile dell'esercizio; 
+2) Intensificare con urgenza percorsi formativi per il personale interessato, rivisti alla luce 
+del riesame delle modalità operative e commisurati alle reali esigenze formative per il 
+mantenimento delle competenze; 
+3) Effettuare un’analisi che dimostri l’adeguatezza delle strutture organizzative territoriali ai 
+compiti manutentivi ad esse assegnati, tenendo conto almeno delle risorse umane disponibili, 
+le relative qualifiche, i carichi di lavoro in relazione all’estensione dei tratti di linea di 
+competenza, al tipo e alla quantità di traffico; 
+4) Acquisire su tali provvedimenti urgenti la validazione di un VIS di chiara terzietà, 
+possibilmente diverso da quello che verrà scelto per il precedente blocco di disposizioni. 
+Codesto gestore vorrà dare immediato riscontro alla scrivente, informando anche il 
+Ministero delle Infrastrutture e dei Trasporti, riguardo i tempi di attuazione di quanto 
+disposto come provvedimenti immediati come pure di quanto disposto per il medio termine, 
+unitamente alla previsione del tempo necessario per il riesame globale richiesto. 
+Il gestore dell’infrastruttura RFI SpA, con nota prot. 319 del 26.02.2018, ha rappresentato che il 
+suddetto riesame globale è stato avviato a seguito della nota ANSF prot. 1002 del 15.01.2018 e il 
+tempo previsto per la sua effettuazione è pari 9 mesi. Ha inoltre rappresentato quanto segue: 
+Per la definizione dei provvedimenti immediati e per quelli di medio termine si 
+impiegheranno rispettivamente 15 giorni e 3 mesi a cui si devono aggiungere i tempi per la 
+loro validazione da parte di VIS richiesta da codesta Agenzia e stimabile rispettivamente in 
+15 e 30 giorni e i tempi per la propedeutica individuazione di tali soggetti che, secondo 
+quanto indicato nella nota che si riscontra, dovrebbero essere di chiara terzietà e 
+possibilmente diversi. 
+A tale proposito si rappresenta che l'affidamento delle attività di validazione sarà effettuato 
+ai sensi del Codice dei contratti pubblici (D.Lgs. n.50 del 18/04/2016 e s.m.i.) mediante una 
+procedura negoziata che, in condizioni di urgenza quali quelle che ricorrono nel caso in 
+questione, richiede un tempo minimo di 40 giorni. 
+In merito ai soggetti da invitare alla procedura negoziata, si fa presente che gli obblighi di 
+trasparenza e imparzialità imposti sempre ai sensi del Codice sopra richiamato rendono 
+obbligatorio coinvolgere, in una procedura pubblica di gara, tutti i soggetti in possesso dei 
+requisiti per la partecipazione alla stessa, ossia in questo caso gli iscritti nell'elenco 
+pubblicato nel sito internet istituzionale di codesta Agenzia e qualificati ai sensi della ''Linea 
+Guida per la qualifica da parte dell'Agenzia Nazionale per la Sicurezza delle Ferrovie dei 
+Verificatori Indipendenti di sicurezza" n. 3/2012; ogni eventuale esclusione disposta per 
+motivazioni diverse da quelle espressamente previste nel Codice Appalti sarebbe passibile di 
+ricorso, con conseguente rischio di non essere in condizione di affidare il servizio. 
+Si ritiene che l'espletamento della gara con i criteri suddetti soddisfi pienamente la terzietà 
+richiesta; se di diverso avviso, si prega Codesta Agenzia di esplicitare i criteri di terzietà cui 
+la scrivente dovrebbe attenersi. 
+
+## Página 121
+
+Il gestore dell’infrastruttura RFI SpA, con nota prot. 1820 del 15.03.2018 ha comunicato 
+all’Agenzia Nazionale per la Sicurezza delle Ferrovie i “Provvedimenti immediati in materia di 
+gestione della manutenzione” che sono stati adottati: 
+Provvedimenti immediati a seguito dei recenti eventi incidentali: 
+a) rottura rotaie: 
+azione: istituzione di un protocollo per il controllo ad ultrasuoni delle rotaie e degli scambi, 
+avviato alla fine del 2017, mediante uno specifico contratto, con la società Statunitense Sperry, 
+leader mondiale di diagnostica mobile ad ultrasuoni. Tale contratto è stato già rinnovato per il 
+2018. 
+Inoltre, in data 4 marzo 2018, è stato rimesso in esercizio il treno diagnostico ad ultrasuoni, 
+Galileo che negli ultimi due anni ha dovuto subire un consistente intervento di ammodernamento 
+e sostituzione dei componenti di sicurezza (sale montate, impianto pneumatico, sospensioni, 
+ecc.) e dei motori, oltre a molteplici interventi di messa a norma. Infine, a giugno 2017 è stato 
+acquistato un secondo treno diagnostico che sarà consegnato e messo in servizio, previa AMIS 
+di codesta Agenzia, entro il 2018. 
+b) rottura rotaie in galleria: 
+azione: Fermo restando le attività di manutenzione ordinaria e straordinaria già previste, il 
+18/01/2018 è stato istituito un protocollo che prevede un controllo straordinario 
+“polispecialistico” (con la partecipazione di esperti del settore armamento, TE e opere civili) 
+sulle rotaie in galleria della rete. Tale controllo ha lo scopo di effettuare una verifica 
+straordinaria dello stato delle rotaie in galleria, tenendo conto di tutti gli aspetti, anche 
+collaterali ed indiretti, che potenzialmente potrebbero influire su tale fenomeno (convogliamento 
+e smaltimento delle acque di infiltrazione, armamento e circuito di ritorno TE). 
+c) rottura GII: 
+azione 1: è stata disposta la costituzione di appositi Team specialistici con il compito di 
+relazionare a Direzione Produzione gli esiti delle verifiche visive e strumentali sui Giunti 
+Isolanti Incollati (GII), fermo restando l’obbligo di manutenzione che rimane in capo all’attuale 
+organizzazione territoriale. 
+Ove necessario, il Team adotterà i provvedimenti normativamente previsti, fino al fuori servizio 
+dell’ente e, contestualmente, sarà coinvolto direttamente il Responsabile dell’U.T. 
+Le risultanze della suddetta attività saranno riportate sul nuovo formato standard, 
+appositamente predisposto, per la verbalizzazione della Visita Linea straordinaria del settore 
+Armamento ai GII. 
+azione 2: Proseguire, con la massima celerità, l’implementazione del piano straordinario di 
+controllo e sostituzione dei GII con giunti dotati di DCGM (Dispositivo di Controllo dei Giunti 
+Meccanici) c traverse speciali, avviato il 28 gennaio 2016 e già sollecitato a ottobre 2016, a 
+gennaio 2017 e a gennaio 2018. Si precisa che l’avvio dell’installazione dei giunti dotati di 
+DCGM è avvenuto a gennaio 2015 con nota prot. RFI-DPR-DIT\AOO11 \P\2015\0000409 del 
+30 gennaio 2015, a seguito delle note di omologazione di Direzione Tecnica prot. RFI- 
+DTC.STS\A0011 \P\2014\00001423 del 3/09/2014 ed RFI- DTC.STS\AO011\P\2014\0002097 del 
+16/12/2014. 
+d)  incidenti nei cantieri esternalizzati: 
+azione 1: Istituito un apposito ritorno di esperienza sulla gestione dei MdO operanti in 
+interruzione e nei cantieri di lavoro che farà parte degli argomenti trattati nell’ambito dei corsi 
+formativi per il mantenimento delle competenze programmati per il 2018.  
+
+## Página 122
+
+azione 2: Istituito, il 20 giugno 2017, un protocollo, condiviso con le Associazioni di categoria 
+delle Imprese Appaltataci, che prevede specifici controlli nei cantieri gestiti dalle Imprese 
+Appaltataci. 
+e)  difetti rilevanti di geometria del binario che comportano provvedimenti restrittivi della 
+circolazione: 
+azione: controllo sistematico della corretta applicazione della procedura RFI DPR PS IFS 90 C 
+“Rilievi della geometria del binario e relative disposizioni manutentive”. Andamento dei nuovi 
+indicatori per il monitoraggio della corretta attuazione dei provvedimenti restrittivi della 
+circolazione previsti dalla rilevazione di difetti rilevanti a seguito del passaggio della 
+diagnostica mobile da verificare all’interno dei COTAP DTP con cadenza trimestrale. 
+f)  uso dei dispositivi di immobilizzazione deviatoi di cui all’art. 8 ISD 
+azione: istituzione di un protocollo che prevede una specifica verifica ai dispositivi di 
+immobilizzazione deviatoi art 8 ISD, da parte dei CPO nell’ambito delle visite ai Centri di 
+Lavoro (CdL). Eventuali anomalie riscontrate comporteranno l’immediato fuori servizio 
+dell’ente ed il diretto coinvolgimento dei Responsabili delle U.T. 
+Con nota prot. 4856 del 20.03.2018 l’Agenzia Nazionale per la Sicurezza delle Ferrovie ha preso 
+atto che i provvedimenti immediati, di cui ai punti 1 -3 della nota 3171, presentavano tempi non 
+ristretti ma necessari al conferimento dell’incarico di valutazione al VIS prescelto ed alla 
+valutazione da parte di quest’ultimo delle soluzioni proposte.  
+Non ritenendo tale lasso di tempo congruente con le esigenze di tempestività auspicabili, ha 
+esortato il Gestore a valutare ed adottare provvedimenti che, sulla base della propria esperienza e 
+competenza tecnica, potessero essere ritenuti idonei a produrre da subito un miglioramento della 
+gestione della manutenzione a incremento della sicurezza della rete ed attuarli nelle more della loro 
+validazione da parte del VIS, in modo da dare, pertanto, priorità all’efficacia dell'azione preventiva, 
+rispetto alla eventuale penalizzazione che detti provvedimenti avrebbero potuto produrre alle 
+prestazioni del servizio reso dal Gestore, ferma restando la possibilità di un loro miglioramento a 
+seguito delle attività sviluppate dal VIS. 
+Il gestore dell’infrastruttura, con nota prot. 1204 del 28.03.2018, ha comunicato all’Agenzia 
+Nazionale per la Sicurezza delle Ferrovie che la Direzione Produzione ha predisposto il documento 
+“Provvedimenti immediati in materia di gestione della manutenzione” che anticipa l’emissione del 
+Protocollo richiesto dall’ANSF con la nota prot. 3171 del 16.02.2018, nelle more 
+dell’individuazione e validazione del VIS. Il protocollo riepiloga le situazioni per le quali si 
+ribadiscono le modalità di intervento immediato del manutentore con l’adozione di provvedimenti 
+restrittivi della circolazione ferroviaria. 
+Il Gestore, con nota prot. 879 del 08.06.2018, ha comunicato all’Agenzia Nazionale per la 
+Sicurezza delle Ferrovie il seguente aggiornamento sullo stato di avanzamento delle attività avviate: 
+Provvedimenti a breve termine 
+È stato ultimato il “protocollo specifico” richiesto da Codesta Agenzia al punto 1 della nota 
+a riferimento [2], nel quale sono riepilogate le situazioni a cui debbano far seguito 
+provvedimenti restrittivi della circolazione ferroviaria. 
+Tale documento sarà trasmesso a codesta Agenzia dopo la validazione di un VIS. 
+Relativamente al punto 2 della nota a riferimento [2], nell’ambito del previsto processo di 
+sviluppo dell’applicativo I-MAN lanciato in esercizio a luglio 2017 e dopo aver già incluso 
+nell’applicativo dal mese di ottobre 2017 il modulo per la rilevazione di misure L94, è stata 
+
+## Página 123
+
+avviata la sperimentazione del nuovo modulo “Visite” che consentirà un ulteriore e maggiore 
+coinvolgimento dei livelli tecnici e di responsabilità delle Unità Manutentive. 
+Con tale strumento, oltre che guidare ed uniformare l’operatività dell’agente della 
+manutenzione durante l’effettuazione della visita linea, è registrato l’esito dei controlli così 
+da renderli immediatamente visibili ai propri Capi Unità Manutentive ed agli Specialisti 
+cantieri che potranno registrare le proprie valutazioni. 
+Al termine della sperimentazione, prevista per il mese di luglio p.v., sarà emessa per 
+applicazione la revisione della procedura di III livello “Disposizioni operative di dettaglio 
+per la visita linea ordinaria nei settori armamento e sede e TE”. 
+Il nuovo modulo sarà poi gradualmente utilizzato per tutte le altre attività cicliche di “Visite” 
+e “Misure” nelle diverse specializzazioni entro il primo semestre 2019. 
+Inoltre, in relazione al punto n. 3 della nota a riferimento, al fine di rafforzare il 
+collegamento tra il livello centrale della Direzione Produzione e le strutture del territorio e 
+garantire il coinvolgimento diretto nella governance dei processi produttivi, in aggiunta ai 
+COTAP UT, ai COTAP DTP ed ai CODIR, sono state istituzionalizzate riunioni semestrali 
+con tutti i Dirigenti responsabili nell’ambito dell’articolazione organizzativa. 
+Provvedimenti a medio termine 
+In relazione ai provvedimenti richiesti a medio termine, prosegue il riesame dei processi 
+manutentivi anche con l’istituzione di Gruppi di Lavoro e specifici Tavoli tecnici che, sulla 
+base dei ritorni di esperienza e degli esiti degli audit interni, provvedano, qualora ritenuto 
+necessario, alla revisione delle procedure che regolano tali processi. 
+Per quanto riguarda il processo della formazione e mantenimento competenze, RFI con la 
+Comunicazione Organizzativa n. 468/AD del 19 ottobre 2017, ha già istituito il progetto “RFI 
+Technical Academy”, finalizzato alla rivisitazione del sistema di sviluppo, erogazione, e 
+monitoraggio della formazione tecnico-abilitativa nonché della produzione dei contenuti 
+didattici. 
+Tale progetto che prevede per la sua realizzazione un arco temporale di 4 anni, si pone tre 
+obiettivi: 
+• Logistica: realizzare Centri Specialistici di eccellenza con campi prova e simulatori fisici e 
+virtuali, collegati con le “aule satellite” attrezzate nelle DTP; 
+• Normativa: aggiornare i criteri di acquisizione e mantenimento delle competenze tecniche 
+(abilitazioni e qualificazioni); 
+• Metodologie didattiche ed organizzazione del modello formativo: introdurre nuove 
+tecnologie didattiche a supporto dell’apprendimento sia in presenza che a distanza e di 
+conseguenza aggiornare il modello organizzativo della formazione. 
+Si conferma, infine, che i provvedimenti a breve e medio termine saranno sottoposti alla 
+validazione di due distinti Verificatori Indipendenti di Sicurezza (VIS) e che è intenzione di 
+RFI, pur se non richiesto da codesta Sede, di sottoporre a validazione anche il riesame. 
+A tale riguardo, si comunica che sono attualmente in corso le attività negoziali per la 
+selezione dei VIS. 
+## 6. Raccomandazioni 
+Sulla base di quanto rappresentato nei precedenti paragrafi, si ritiene di indirizzare le seguenti 
+raccomandazioni all’Agenzia Nazionale per la Sicurezza delle Ferrovie che valuterà l’opportunità di 
+estenderle ai gestori delle infrastrutture ed alle imprese ferroviarie non coinvolte nell’evento di cui 
+alla presente relazione. 
+
+## Página 124
+
+1. Si raccomanda all’Agenzia Nazionale per la Sicurezza delle Ferrovie di verificare che i 
+gestori dell’infrastruttura mettano in atto, per il personale impegnato in attività di visita in 
+linea, idonee attività di formazione, mantenimento delle competenze e verifica della corretta 
+esecuzione dei compiti, con particolare riguardo all’identificazione dei difetti all’armamento 
+che possono comportare vincoli all’esercizio ferroviario o necessitino di programmazione di 
+interventi di carattere straordinario ed alla necessità di programmare controlli straordinari ad 
+ultrasuoni nelle tratte in galleria in presenza di infiltrazioni d’acqua. 
+2. Si raccomanda all’Agenzia Nazionale per la Sicurezza delle Ferrovie di verificare che le 
+imprese ferroviarie mettano in atto, per il personale di condotta, idonee attività di formazione 
+e di mantenimento delle competenze, con particolare riguardo all’importanza del rispetto del 
+Regolamento per la Circolazione Ferroviaria emanato con Decreto ANSF n. 4/2012 del 9 
+agosto 2012, articolo 13.2. 
+3. Si raccomanda all’Agenzia Nazionale per la Sicurezza delle Ferrovie di adoperarsi affinché 
+il gestore dell’infrastruttura RFI SpA verifichi l’opportunità di aggiornare i documenti di 
+verbalizzazione delle visite al binario previsti dalle Disposizioni operative di dettaglio per la 
+visita linea ordinaria nei settori “Armamento e sede” e “TE”, in modo che questi contengano 
+indicazioni per l’operatore in merito alle difettosità riscontrate almeno nell’ultima visita 
+precedente ed all’eventuale stato della risoluzione e realizzi uno strumento informatico in 
+grado di analizzare l’andamento delle condizioni dell’armamento al fine di identificare 
+situazioni di rapido degrado a partire dalle informazioni presenti sui rapporti delle visite in 
+linea. 
+4. Si raccomanda all’Agenzia Nazionale per la Sicurezza delle Ferrovie di adoperarsi affinché 
+il gestore dell’infrastruttura RFI SpA aggiorni le proprie procedure relative al presidio 
+manutentivo adottato per l’infrastruttura ferroviaria prevedendo il coinvolgimento diretto dei 
+livelli tecnici di responsabilità superiori rispetto all’operatore che rileva situazioni critiche 
+sulla linea e prevedendo il coinvolgimento diretto delle strutture centrali responsabili della 
+programmazione di interventi di manutenzione straordinaria nel caso in cui si presentino 
+anomalie non risolvibili in modo definitivo con interventi a cura delle DTP.  
+5. Si raccomanda all’Agenzia Nazionale per la Sicurezza delle Ferrovie di adoperarsi affinché 
+il gestore dell’infrastruttura RFI SpA aggiorni Il Regolamento per la Circolazione dei Treni 
+e l’Istruzione per il servizio del personale di condotta delle locomotive (IPCL), rendendoli 
+coerenti con quanto previsto dal Regolamento per la Circolazione Ferroviaria di ANSF nel 
+caso in cui, durante la marcia del treno, l’agente di condotta rilevi anormalità 
+all’infrastruttura ferroviaria o al binario percorso, esplicitando che la comunicazione 
+dell’anomalia rilevata da parte dell’agente di condotta debba essere effettuata al regolatore 
+della circolazione in luogo del “dirigente” o altra terminologia utilizzata per indicarlo. 
+Cosenza, 05.10.2018 
+ing. Giuseppe De Marco

@@ -1,4 +1,30 @@
 {
+ "md-es/LV/2008/Bolderaja_Nr_2008_1_Report-050208.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 97.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   12
+  ],
+  "terminos": [
+   "aguja de maniobras: el original se refiere a una persona (pārmijniece), no a un elemento de infraestructura",
+   "jefe de trabajos de carga y descarga: el original dice 'maiĦas darbu vadītājs' (jefe de turno), no 'jefe de trabajos de carga y descarga'",
+   "agujero ferroviario: el original dice 'dzelzceĜa pārmijnieks' (guardagujas ferroviario), no 'agujero ferroviario'",
+   "Traducción de 'Satiksmes drošību reglamentējošie normatīvie akti' como 'Normativa reguladora de la seguridad vial' en lugar de 'seguridad ferroviaria' (aunque el subtítulo siguiente sí lo corrige)."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2008/Bolderaja_Nr_2008_1_Report-050208.md"
+ },
  "md-es/LV/2009/Extract-EN-causes and recommendations.md": {
   "estado": "aviso",
   "idioma_origen": "EN",
@@ -12,13 +38,608 @@
   "terminos": [
    "signalmen traducido como 'guardagujas' en lugar de 'señaleros'",
    "traffic safety internal monitoring system traducido como 'sistema interno de supervisión de la seguridad operativa' en lugar de 'sistema interno de supervisión de la seguridad de la circulación'",
-   "internal monitoring of traffic safety traducido como 'supervisión interna de la seguridad operativa' en lugar de 'supervisión interna de la seguridad de la circulación'",
-   "Technological Slots traducido como 'ventanas tecnológicas' en lugar de 'franjas tecnológicas' o 'surcos tecnológicos'",
-   "traffic safety traducido como 'seguridad operativa' en lugar de 'seguridad en la circulación' (Recomendaciones 2010-1 y 2010-2)",
-   "technological slots traducido como 'ventanas tecnológicas' en lugar de 'franjas tecnológicas' o 'surcos tecnológicos'"
+   "internal monitoring of traffic safety traducido como 'supervisión interna de la seguridad operativa' en lugar de 'supervisión interna de la seguridad de la circulación'"
   ],
   "fallos": [],
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "md_es": "md-es/LV/2009/Extract-EN-causes and recommendations.md"
+ },
+ "md-es/LV/2009/Indra_16.12.2009.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "«Procedimiento para la investigación de accidentes de tráfico ferroviario» traduce 'DzelzceĜa satiksmes negadījumu izmeklēšanas kārtība'; 'satiksmes negadījumu' se refiere a accidentes de tráfico en general, no específicamente ferroviarios, aunque el contexto es ferroviario.",
+   "'analista principal' para 'vecākais referents' podría ser 'oficial superior' o 'referente principal'.",
+   "state boarder traducido como 'frontera estatal' (correcto sería 'frontera del estado')",
+   "newly contracted road traducido como 'vía recién contratada' (debería ser 'vía recién construida')",
+   "railcar traducido como 'coche motor' (término más preciso: 'automotor' o 'coche de ferrocarril')",
+   "breaking traducido como 'frenos' (correcto: 'frenado')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2009/Indra_16.12.2009.md"
+ },
+ "md-es/LV/2012/Parskats_CP_401_2012_12_20-080112.md": {
+  "estado": "revisar",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   6,
+   12,
+   17,
+   22,
+   27
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "asmenī/asmeĦa traducido como 'corazón' en lugar de 'aguja' o 'espada' (el término letón 'asmens' se refiere a la aguja del desvío, no al corazón)"
+  ],
+  "fallos": [
+   {
+    "pagina": 22,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade 'ordenadores portátiles' cuando el original solo dice que los participantes llevaron consigo algo desde sus puestos de trabajo, sin especificar qué."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es fiel en general, pero introduce una especificación no presente en el original sobre los objetos llevados por los participantes."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2012/Parskats_CP_401_2012_12_20-080112.md"
+ },
+ "md-es/LV/2012/SUMMARY_CP_401-080112.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2012/SUMMARY_CP_401-080112.md"
+ },
+ "md-es/LV/2008/Ventspils_p_20.12.2008.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   7,
+   14,
+   20,
+   25,
+   31
+  ],
+  "fidelidad_media": 97.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   14
+  ],
+  "terminos": [
+   "mašīnista krāns traducido como 'llave del maquinista' en lugar de 'grifo del maquinista'",
+   "palīgbremzes krāns traducido como 'llave del freno auxiliar' en lugar de 'grifo del freno auxiliar'",
+   "EPV savienojošā krāna fiksators traducido como 'fijador de la llave de conexión EPV' en lugar de 'fijador del grifo de conexión EPV'",
+   "Elkšėene traducido como Elkšņiene (inconsistencia en el nombre de la estación)",
+   "jefa de estación para 'dežurante' (podría ser 'operadora' o 'encargada de turno')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2008/Ventspils_p_20.12.2008.md"
+ },
+ "md-es/LV/2014/LV 07.09.2014 Summary_Skirotava_07_09_2014.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "hump traducido como 'collina' en lugar de 'lomo de clasificación' o 'colina'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2014/LV 07.09.2014 Summary_Skirotava_07_09_2014.md"
+ },
+ "md-es/LV/2014/LV 20.06.2014 Summary_of_Ziemelblazma_eng.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2014/LV 20.06.2014 Summary_of_Ziemelblazma_eng.md"
+ },
+ "md-es/LV/2014/LV 07.09.2014 Parskats_Skirotava_07_09_2014_4.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   4,
+   8,
+   11,
+   13,
+   16
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   4,
+   16
+  ],
+  "terminos": [
+   "sastādītājs traducido como 'formador' en lugar de 'compilador de trenes' o 'formador de trenes' (en la sección 3.2 se usa 'formador de trenes', pero en 3.1 se usa solo 'formador')",
+   "uzkalna dežurants traducido como 'vigilante del montículo' en lugar de 'operador de la joroba de clasificación' o 'encargado de la loma de clasificación'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2014/LV 07.09.2014 Parskats_Skirotava_07_09_2014_4.md"
+ },
+ "md-es/LV/2014/LV 20.06.2014 Ziemelblazma_20.06.2014_Nobeig._parskats_Gala_versija.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   1,
+   6,
+   11,
+   16,
+   21,
+   27
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   16
+  ],
+  "terminos": [
+   "Traducción incorrecta de 'Vilciena nobraukšanas vieta' como 'lugar de descarrilamiento del tren'. El término letón 'nobraukšana' significa 'salida de la vía' o 'descarrilamiento', pero en el contexto del informe se refiere al punto donde el tren se detuvo, no a un descarrilamiento.",
+   "virsatsperu sijas balstpēdā traducido como 'vigas de suspensión primaria' (debería ser 'viga balancín' o 'viga de suspensión superior')",
+   "aizliktnis traducido como 'fiador' (debería ser 'placa de apoyo' o 'pieza de apoyo')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2014/LV 20.06.2014 Ziemelblazma_20.06.2014_Nobeig._parskats_Gala_versija.md"
+ },
+ "md-es/LV/2017/LV 09.02.2017 Summary_2017 _EN.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 85.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "sobrevolocidad (debería ser sobrevelocidad o exceso de velocidad)",
+   "barril de la bomba de inyección de combustible de alta presión (término no normalizado; en español técnico ferroviario se usa 'bomba de alta presión' o 'bomba de inyección')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2017/LV 09.02.2017 Summary_2017 _EN.md"
+ },
+ "md-es/LV/2017/LV 09.02.2017 Parskats_Jelgava_5_02_1_17_07052018.md": {
+  "estado": "revisar",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 91.7,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [
+   "vaciado del cárter (retinājumu) debería ser 'depresión' o 'vacío' en el cárter",
+   "régimen anormal (de disparo) (joņošanas) debería ser 'régimen de embalamiento' o 'sobrevelocidad'"
+  ],
+  "fallos": [
+   {
+    "pagina": 14,
+    "fidelidad": 70,
+    "omisiones": [
+     "Falta la continuación del escenario b) en la respuesta 3: 'con la llave' y 'y la fuerza humana, pudo generarse suficiente fuerza para doblar el eje superior de los rodamientos y romper el rodamiento de soporte interior' no aparece en el original (el original termina en 'con la llave')."
+    ],
+    "invenciones": [
+     "En la respuesta 3, escenario b), se añade 'y la fuerza humana, pudo generarse suficiente fuerza para doblar el eje superior de los rodamientos y romper el rodamiento de soporte interior', contenido que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El término 'joņošanas' se traduce como 'cavitation' (cavitación), pero en el contexto de motores diésel se refiere a 'embalamiento' o 'sobrevelocidad', no a cavitación."
+    ],
+    "comentario": "La traducción omite la parte final del escenario b) y añade contenido no presente en el original, además de un error terminológico en 'joņošanas'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2017/LV 09.02.2017 Parskats_Jelgava_5_02_1_17_07052018.md"
+ },
+ "md-es/LV/2019/DZ_tilts_08.02.2019._Nobeig._parskats_07.02.2020_LV.md": {
+  "estado": "revisar",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   6,
+   11,
+   16,
+   21,
+   26
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 16,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade '(72 horas)' tras 'tres días completos', dato que no aparece en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es fiel salvo por la adición de '(72 horas)' que no figura en el original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2019/DZ_tilts_08.02.2019._Nobeig._parskats_07.02.2020_LV.md"
+ },
+ "md-es/LV/2020/LV-5919-Summary_English.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 100.0,
+  "fidelidad_min": 100,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2020/LV-5919-Summary_English.md"
+ },
+ "md-es/LV/2020/LV-5919-Parskats_Nr. 5_02.2_2020_gala versija.md": {
+  "estado": "revisar",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   8,
+   17,
+   24,
+   31,
+   37
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción inconsistente de 'sānsija': 'cadera' (incorrecto) y 'viga lateral' (correcto) para el mismo término técnico letón.",
+   "Traducción de 'atgāznis' como 'soporte' en lugar de un término más preciso como 'puntal' o 'tirante'.",
+   "Traducción de 'plaukts' como 'estante' en lugar de 'ala' o 'platabanda' en el contexto de perfiles estructurales.",
+   "kārtējo atkabes remontu traducido como 'reparación corriente de desprendimiento' en lugar de 'reparación corriente en vía' o 'reparación corriente sin desenganche'",
+   "Fitingu atbalstu traducido como 'soportes de los acoplamientos' en lugar de 'soportes de los fittings' o 'soportes de fijación'",
+   "vagona trafaretu traducido como 'plantilla de gálibo' en lugar de 'plantilla del vagón' o 'esténcil del vagón'"
+  ],
+  "fallos": [
+   {
+    "pagina": 24,
+    "fidelidad": 85,
+    "omisiones": [
+     "apkopes instrukcijas 1.4.3.p., TP 2.4.1.6.p. un 2.4.2.20.p. prasības (minētie vadošie dokumenti paredz veikt vagonu apskati caurlienot, sk. 8.att. 6.,6ʼ. un 7.,7ʼ. pozīcijas)"
+    ],
+    "invenciones": [
+     "[mes/año ilegible/corrupto]"
+    ],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "Falta la primera frase completa del original y la fecha '13-' se marca como ilegible en lugar de traducirse."
+   },
+   {
+    "pagina": 37,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción cambia el lugar de la reparación: el original dice Radviliškis y la traducción dice Rēzekne."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2020/LV-5919-Parskats_Nr. 5_02.2_2020_gala versija.md"
+ },
+ "md-es/LV/2020/LV-6240-Summary_LC_accident_2020 EN.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 92.5,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la frase 'noise bar to draw the attention of drivers when approaching a level crossing' como elemento separado; en la traducción se fusiona con la frase anterior.",
+     "Falta la frase 'level crossings with barriers or other safety and warning elements' como elemento separado; en la traducción se fusiona con la frase anterior."
+    ],
+    "invenciones": [
+     "La traducción añade 'transversal antirruido' como parte de la frase anterior, creando una estructura que no existe en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción fusiona dos frases independientes del original en una sola, alterando la estructura de las áreas cubiertas por las recomendaciones."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2020/LV-6240-Summary_LC_accident_2020 EN.md"
+ },
+ "md-es/LV/2020/LV-6240-Parskats_parbrauktuve_02_2021.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   12,
+   15,
+   20
+  ],
+  "fidelidad_media": 96.6,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   5
+  ],
+  "terminos": [
+   "Dīzeļvilciens traducido como 'Automotor diésel' en lugar de 'Tren diésel' o 'Unidad diésel'",
+   "Motorvagona ratiņi traducido como 'bogies del coche motor' en lugar de 'bogies del coche motor' (término correcto, pero inconsistente con 'Motorratiņi' traducido como 'bogies motores')",
+   "divasu bezžokļu traducido como 'de dos ejes sin pestañas' en lugar de 'de dos ejes sin quijadas' o 'sin pestañas de guía'",
+   "pārbrauktuve traducido como 'barrera' en lugar de 'paso a nivel'",
+   "luksofors traducido como 'semáforo' en lugar de 'señal luminosa' o 'semáforo ferroviario'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2020/LV-6240-Parskats_parbrauktuve_02_2021.md"
+ },
+ "md-es/LV/2022/LV-10175 - Summary_Zilupe_English.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   3,
+   4
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2022/LV-10175 - Summary_Zilupe_English.md"
+ },
+ "md-es/LV/2022/LV-10175 - Final_Report_Nr.5_02_1_22_29122022.LV_.md": {
+  "estado": "revisar",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   8,
+   15,
+   29,
+   36,
+   44
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   15,
+   29
+  ],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 36,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade 'flocculation (aglomeraciones)' como un defecto, mientras que el original menciona 'flokēni' (flóculos), que es un término técnico distinto en metalurgia.",
+     "La traducción añade 'poros' en la lista de defectos de uniones soldadas, mientras que el original menciona 'kūšņu' (fundentes), no 'poros'."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "La traducción de 'flokēni' como 'flocculation (aglomeraciones)' es incorrecta; el término técnico correcto en metalurgia es 'flóculos' o 'copos'.",
+     "La traducción de 'kūšņu' como 'poros' es incorrecta; el término correcto es 'fundentes' o 'fluxes'.",
+     "La traducción de 'četrasu vagonu apskate' como 'inspección de los ejes de cuatro ruedas' es incorrecta; debería ser 'inspección de vagones de cuatro ejes'."
+    ],
+    "comentario": "La traducción contiene errores terminológicos y añade términos no presentes en el original, lo que afecta la fidelidad técnica del informe."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2022/LV-10175 - Final_Report_Nr.5_02_1_22_29122022.LV_.md"
+ },
+ "md-es/LV/2023/lv-10482 - final report 5_02_1_23_lv.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   7,
+   15,
+   21,
+   27,
+   33
+  ],
+  "fidelidad_media": 99.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   27
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2023/lv-10482 - final report 5_02_1_23_lv.md"
+ },
+ "md-es/LV/2024/lv_interim statement.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   3
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Título: 'Descarrilamiento incontrolado' no refleja 'Nekontrolējama vagonu atkabes aizripošana' (rodadura/deslizamiento incontrolado de una composición de vagones, no descarrilamiento)",
+   "'cajas de balasto' para 'ceļa kārbas' (cajas de vía, no balasto)",
+   "'aparatos de maniobra' para 'appūšanas ierīces' (dispositivos de soplado/limpieza de desvíos)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2024/lv_interim statement.md"
+ },
+ "md-es/LV/2024/lv-10540 - final report, zinojums nr.5-02-1-24-skirotava.md": {
+  "estado": "revisar",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   15,
+   20,
+   24
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 15,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción dice 'vagones cisterna' donde el original dice 'pusvagoni' (vagones abiertos/tolva, no cisterna)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "pusvagoni traducido como 'vagones cisterna' en lugar de 'vagones abiertos' o 'vagones tolva'.",
+     "atkabe traducido como 'descarrilamiento' en lugar de 'enganche' o 'grupo de vagones desenganchados'.",
+     "šķirošanas uzkalns traducido como 'loma de clasificación' en lugar de 'loma de clasificación' (término normalizado en español es 'loma de clasificación' o 'loma de maniobras')."
+    ],
+    "comentario": "La traducción contiene errores terminológicos graves que cambian el tipo de vagón y el evento descrito."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2024/lv-10540 - final report, zinojums nr.5-02-1-24-skirotava.md"
+ },
+ "md-es/LV/2025/lv-10709 - lv_interim statement.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   3,
+   4
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   2
+  ],
+  "terminos": [
+   "pretšūpošanas caurule traducido como 'tubo antivibración' (más preciso: 'tubo antivuelco' o 'tubo anti-balanceo')",
+   "dzinējriba traducido como 'ventilador' (más preciso: 'álabe del motor' o 'aspa del motor')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2025/lv-10709 - lv_interim statement.md"
+ },
+ "md-es/LV/2025/lv-10740 - final report, imanta_5_02_4_25_izmeklēšanas ziņojums.md": {
+  "estado": "ok",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   12,
+   21,
+   33,
+   42,
+   51
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2025/lv-10740 - final report, imanta_5_02_4_25_izmeklēšanas ziņojums.md"
+ },
+ "md-es/LV/2025/lv-10710 - final_report _nr 5-02-3-25_en.md": {
+  "estado": "aviso",
+  "idioma_origen": "LV",
+  "paginas_revisadas": [
+   2,
+   8,
+   15,
+   21,
+   27,
+   33
+  ],
+  "fidelidad_media": 99.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   15
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2025/lv-10710 - final_report _nr 5-02-3-25_en.md"
+ },
+ "md-es/LV/2025/lv-10740 - summary_imanta_en.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   8,
+   10
+  ],
+  "fidelidad_media": 99.7,
+  "fidelidad_min": 98,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LV/2025/lv-10740 - summary_imanta_en.md"
  }
 }

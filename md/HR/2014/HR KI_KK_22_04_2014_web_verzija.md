@@ -1,0 +1,343 @@
+---
+pais: HR
+anio: 2014
+idioma: HR
+pdf: HR KI_KK_22_04_2014_web_verzija.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/HR%20KI_KK_22_04_2014_web_verzija.pdf
+md5_pdf: 192e8119a4fa2e5a05e314150b80c647
+paginas: 13
+chars: 22252
+tablas: 1
+cuerpo: "11.0pt; encabezados 3 niveles"
+rotulos_excluidos: "72 (#. travnja #., oćestovo, agencija za istraživanje nesreća, ain/#-fr-#, stranica: #/#, u zračnom, pomorskom i, željezničkom prometu)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 1
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+REPUBLIKA HRVATSKA 
+Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu 
+Odjel za istrage nesreća u željezničkom prometu  
+KLASA: 
+341-09/14-02/01 
+URBROJ: 
+699-06/3-15-27 
+Zagreb, 
+19. siječnja 2015. 
+KONAČNO IZVJEŠĆE 
+Iskliznuće pružnih vozila na pruzi Knin-Zadar 
+22. travnja 2014. 
+AIN/06-FR-01 
+
+## Página 2
+
+### Objava izvješća i zaštita autorskih prava 
+Ovo izvješće je izradila i objavila Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom 
+prometu (u daljnjem tekstu AIN) na temelju članka 6., stavka 1. i 4. Zakona o osnivaju Agencije za istraživanje 
+nesreća u zračnom, pomorskom i željezničkom prometu (Narodne novine 54/13), članka 7., stavka 1 i 4. 
+Statuta Agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu, članka 115. Zakona 
+o sigurnosti i interoperabilnosti željezničkog sustava (Narodne novine 82/13), te na temelju članka 23. 
+Direktive 2004/49/EZ Europskog Parlamenta i Vijeća (Direktive o sigurnosti željeznice). 
+Nitko ne smije proizvoditi, reproducirati ili prenositi u bilo kojem obliku ili na bilo koji način ovo izvješće ili 
+### bilo koji njegov dio, bez izričitog pisanog dopuštenja AIN-a.  
+### Ovo izvješće može se slobodno koristiti u obrazovne svrhe.  
+### Za sve dodatne informacije kontaktirajte AIN. 
+### Vodič za čitanje 
+Sve dimenzije i brzine u ovom izvješću su izražene u Međunarodnom sustavu jedinica (SI). Sve skraćenice i 
+tehnički termini (oni koji se pojavljuju u kurzivu prvi put se pojavljuju u izvješću) su objašnjeni u pojmovniku. 
+Opisi i grafički prikazi mogu biti pojednostavljeni kako bi ilustrirali koncepte za ne-tehničke čitatelje. 
+
+## Página 3
+
+### Predgovor  
+Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu (AIN) osnovana je 
+Zakonom o osnivanju Agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu 
+(„Narodne novine“, broj 54/2013) kao pravna osoba s javnim ovlastima. Osnivač Agencije je Republika 
+Hrvatska, a osnivačka prava obavlja Vlada Republike Hrvatske. 
+Na način obavljanja poslova Agencije primjenjuju se posebni propisi, odnosno zakoni kojima se 
+uređuje zračni promet, pomorstvo, te sigurnost i interoperabilnost željezničkog prometa, odnosno propisi 
+doneseni za njihovu provedbu.  
+Odjel za istrage nesreća u željezničkom prometu je samostalna i nezavisna ustrojstvena jedinica AIN 
+koja obavlja stručne poslove koji se odnose na istrage ozbiljnih nesreća i izvanrednih događaja u željezničkom 
+prometu na željezničkoj mreži u Republici Hrvatskoj. Istrage se provode na temelju odredaba Zakona o 
+sigurnosti i interoperabilnosti željezničkog sustava (NN 82/13) i Direktive 2004/49/EZ Europskog Parlamenta 
+i Vijeća (Direktive o sigurnosti željeznice). 
+AIN istražuje sve ozbiljne nesreće u željezničkom prometu, a to su svi događaji koji uključuju sudar 
+vlakova ili iskliznuće vlaka koje ima za posljedicu smrt najmanje jedne osobe ili teške ozljede pet ili više osoba 
+ili veliku štetu na vozilima, željezničkoj infrastrukturi ili okolišu, kao i svaka druga slična nesreća s očiglednim 
+utjecajem na sigurnost željezničkog sustava ili na upravljanje sigurnošću. 
+AIN može istraživati i one nesreće i incidente koje su pod neznatno drugačijim okolnostima mogle 
+dovesti do ozbiljnih nesreća, uključujući tehničke otkaze u radu strukturnih podsustava ili njihovih sastavnih 
+dijelova. 
+AIN provodi sigurnosne istrage u svrhu sprečavanja nesreća i ozbiljnih nezgoda, što uključuje 
+prikupljanje i analizu podataka, izradu zaključaka uključujući utvrđivanje uzroka i kada je to prikladno, izradu 
+sigurnosnih preporuka kako bi se spriječile nesreće i incidenti u budućnosti i poboljšala sigurnost u 
+željezničkom prometu. 
+Cilj istraga koje se odnose na sigurnost ni u kojem slučaju nije utvrđivanje krivnje ili odgovornosti.  
+Istrage su neovisne i odvojene od sudskih ili upravnih postupaka i ne smiju dovoditi u pitanje 
+utvrđivanje krivnje ili odgovornosti pojedinaca. 
+Završno izvješće ne može biti korišteno kao dokaz u sudskom postupku koji ima za cilj utvrđivanje 
+građanskopravne ili kaznenopravne odgovornosti pojedinca. 
+
+## Página 4
+
+### SADRŽAJ 
+| 1 SAŽETAK 5 . ............................................................................................................................................................. |  |
+| 2 PODACIODOGAĐAJU 5 . ......................................................................................................................................... |  |
+| 21 . . | OPISDOGAĐAJA 5 ..................................................................................................................................................... |
+| 22 . . | MJESTONESREĆE 6 .................................................................................................................................................... |
+| 23 . . | POZADINADOGAĐAJA 9 .............................................................................................................................................. |
+| 24 . . | SMRTNOSTRADALI OZLIJEĐENIIMATERIJALNAŠTETA 10 , .................................................................................................. |
+| 25 . . | VANJSKEOKOLNOSTI 10 ............................................................................................................................................. |
+| 3 ZAPISIOISTRAŽIVANJUIANALIZAMA 11 . .............................................................................................................. |  |
+| 31 . . | SAŽETAKIZJAVASVJEDOKA 11 ...................................................................................................................................... |
+| 32 . . | SUSTAVUPRAVLJANJASIGURNOŠĆU 12 ......................................................................................................................... |
+| 33 . . | PRAVILAIPROPISI 12 ................................................................................................................................................. |
+| 34 . . | NAČINRADAŽELJEZNIČKIHVOZILAITEHNIČKEOPREME 12 ................................................................................................. |
+| 35 . . | SUČELJE ČOVJEK-STROJ-ORGANIZACIJA 12 ...................................................................................................................... |
+| 36 . . | PRETHODNISLIČNIDOGAĐAJI 12 .................................................................................................................................. |
+| 4 ANALIZEIZAKLJUČCI 13 . ......................................................................................................................................... |  |
+| 41 . . | ZAVRŠNIPRIKAZSLIJEDADOGAĐAJA UKLJUČUJUĆIZAKLJUČKEODOGAĐAJUTEMELJENENAČINJENICAMAIZČLANKA3 13 , . ............ |
+| 42 . . | ANALIZAČINJENICASCILJEMPRIJEDLOGAZAKLJUČAKAOUZROCIMADOGAĐAJA 13 ................................................................ |
+| 43 . . | ZAKLJUČCI 13 ........................................................................................................................................................... |
+| 5 PODUZETEMJERE 13 . ............................................................................................................................................. |  |
+| 6 SIGURNOSNEPREPORUKE 13 . ................................................................................................................................ |  |
+
+## Página 5
+
+### 1. SAŽETAK 
+Dana 22.04.2014. godine oko 15:00 sati, tijekom prometovanja vlaka za posebne namjene dionicom pruge 
+M606 Zadar-Knin, između kolodvora Kistanje i Knin u mjestu Oćestovo, došlo je do sudara vlaka s odronom 
+kamenja te iskliznuća dva vozila u sastavu vlaka.  
+U nesreći nije bilo stradalih osoba, ali je nastala je materijalna šteta.  
+Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu nema sigurnosnih preporuka 
+vezanih za ovu nesreću. 
+## REPORT SUMMARY 
+On 22 of April 2014 at around 15:00 hours, during trafficking of a Train for special purpose on railway section 
+M606 Zadar-Knin, between stations Kistanje and Knin in the village Oćestovo, there was a collision of the 
+Train with a landslide of rocks and slipping of two vehicles. In the Accident nobody was injured, but material 
+damage was caused. 
+Air, Maritime and Railway Traffic Accidents Investigation Agency has no recommendations related to this 
+accident. 
+### 2. PODACI O DOGAĐAJU 
+## 2.1. 
+### Opis događaja 
+Dana 22.4.2014. godine oko 15 h, na pruzi M606 Knin-Zadar na km 5+700, došlo je do sudara i iskliznuća 
+željezničkih vozila za posebne namjene koje je bilo u sastavu vlaka za posebne namjene. Vozila u vlaku su 
+tijekom vožnje bila u sprezi. Osoblje i vozila koja su sudjelovala u ovoj nesreći su taj dan radili na sanaciji 
+pruge M606. Sanacija se izvodi od 2012. godine. Mjesto iskliznuća se nalazi u stajalištu Oćestovo.  
+Vozač pružnog vozila na prvom pružnom vozilu je tijekom vožnje od Kistanja prema Kninu neposredno nakon 
+prolaska stajališta Oćestovo, pri brzini od otprilike 30 km/h, udario u odronjeni kamen, a pružno vozilo je 
+zbog udara iskliznulo iz tračnica na desnu stranu pruge u smjeru vožnje. Vozači pružnih vozila u trećem i 
+četvrtom vozilu su svaki u svojem vozilu zaveli kočenje neposredno nakon što su primijetili trzaj. 
+Nakon zaustavljanja vozila, prvo vozilo je ostalo u poziciji pod otprilike 90° u odnosu na prugu, te je svojom 
+prednjim dijelom proklizilo na nasip i ostalo visjeti na kosini, a drugo vozilo (prikolica prvog pružnog vozila) je 
+s obje osovine iskliznula s tračnica na lijevu stranu u smjeru kretanja, dok su treće i četvrto vozilo u potpunosti 
+ostali na tračnicama. 
+Stijena u koju je udario vlak se odronila s visine cca 100m iznad pruge, te cca 100m desno od pruge. Stijena 
+je prilikom kotrljanja niz padinu prošla kroz pojas mlade šume, pala u zemljani kanal uz prugu, cca 1,5m ispod 
+gornjeg ruba tračnica (GRT), te preskočila kolosijek i zaustavila se između pragova i elemenata uređene 
+površine stajališta Oćestovo. 
+Na prvom i drugom vozilu je nastala znatna materijalna šteta, a ozlijeđenih osoba nije bilo. Šteta je također 
+nastala na pruzi, gdje je uništen i oštećen veći broj drvenih pragova, te manjim dijelom i tračnice. 
+
+## Página 6
+
+Na mjesto događaja izašli su djelatnici policije koji su obavili očevid, a budući da nije bilo ozlijeđenih osoba, 
+nije bilo potrebe za intervencijom hitne pomoći ili timova za spašavanje. Istražitelji AIN-a nisu izašli na mjesto 
+događaja. Podatke o događaju dobiveni su od zajedničkog istražnog povjerenstva i policije, te uzimanjem 
+izjava od sudionika događaja. 
+## 2.2. 
+### Mjesto nesreće 
+Nesreća se je dogodila oko 100 metara iza stajališta Oćestovo na pruzi M606, na km 5+700, u smjeru Knina. 
+MJESTO 
+NESREĆE 
+### Slika 1 – karta mjesta nesreće (izvor slike: Google maps) 
+Slika 2 – Mjesto nesreće sa iskliznulim vozilima (izvor slike: HŽ Infrastruktura d.o.o.) 
+
+## Página 7
+
+Slika 3 – Pozicija iskliznulih vozila nakon zaustavljanja (izvor slike: HŽ Infrastruktura d.o.o.) 
+Predmetni vlak je dana 22. travnja 2014. (utorak) istoga dana u jutarnjim satima prošao dionicu pruge Knin-
+Zadar u suprotnom smjeru kada na istoj nije bilo odrona. 
+
+## Página 8
+
+Slika 4 – Oštećenja pruge na mjestu odrona (izvor slike: HŽ Infrastruktura d.o.o.) 
+
+## Página 9
+
+### Slika 5 – Stajalište Oćestovo (izvor slike: You tube) 
+## 2.3. 
+### Pozadina događaja 
+### 2.3.1. Strane i sudionici nesreće 
+U nesreći su sudjelovali djelatnici i željeznička vozila tvrtke Pružne Građevine d.o.o., PP Remont Pruga 
+d.o.o., a pruga na kojoj se je dogodila nesreća je pod operaterstvom tvrtke HŽ Infrastruktura d.o.o.  
+Osobe koje su sudjelovale u nesreći: 
+ 
+Vozač pružnog vozila A – vozač prvog vozila 
+ 
+Vozač pružnog vozila B – vozač trećeg vozila 
+ 
+Vozač pružnog vozila C – vozač  četvrtog vozila 
+### 2.3.2. Vlakovi i njihov sastav 
+U ovoj nesreći sudjelovala 4 pružna vozila za posebne namjene koja su prometovala kao izvanredni vlak. Prvo 
+vozilo je bilo „planirka“ marke Plasser&Theurer USP 3000C reg. oznake 98 78 9533 1566-9, kojim je upravljao 
+vozač pružnog vozila A. Navedeno vozilo nema zračni vod, te nije bilo uključeno u sustav kočenja ostalih 
+vozila. Za „planirku“ je bio priključen radni vagon s alatom broj U- reg. oznake 44 78 915 3562-0, za kojeg je 
+bio priključen radni motorni stroj „TMD“, reg. oznake 98 78 911 0562-7, kojim je upravljao vozač pružnog 
+vozila B, a za njega je bio priključen radni stroj „podbijačica“, reg. oznake 98 78 951 3563-8 kojim je upravljao 
+vozač pružnog vozila C. Vozači pružnih vozila B i C su svaki posebno upravljali svojim kočnicama. 
+Prije kretanja vlaka s mjesta radova prema Kninu obavljena je proba kočnica, te je od prometnika kolodvora 
+Kistanje vozač pružnog vozila A dobio posebni pisani nalog za vožnju s ograničenjem brzine od 30 km/h, 
+sukladno Članku 6. Upute 52 HŽ (Uputa o tehničkim normativima i podacima za izradu i provedbu voznog 
+reda). 
+
+## Página 10
+
+Na svim motornim vozilima bili su ugrađeni uređaji za zapisivanje parametara vožnje (tahograf). 
+### 2.3.3. Opis infrastrukture i signalno-sigurnosnog sustava 
+Pruga M606 Zadar-Knin, na kojoj se dogodila nesreća je jednokolosiječna neelektrificirana pruga, koja spada 
+u kategoriju Željezničke pruge za međunarodni promet, podkategoriju Ostale željezničke pruge za 
+međunarodni promet, duljine 95 km, izgrađena je 1967. godine. U 2012. godini započeta je sanacija ove pruge 
+u duljini od 81 km s kompletnom zamjenom kolosiječne rešetke. Dionica pruge u stajalištu Oćestovo izvedena 
+je u desnom zavoju, gledano iz pravca Zadra prema Kninu. Na pruzi su ugrađeni relejni signalno-sigurnosni 
+uređaji. Komunikacija vezana za regulaciju prometa vlakova između kolodvora Kini i Kistanje odvija se 
+telefonskom linijom koja je uključena u registrofon. Promet vlakova se odvija u kolodvorskom razmaku. Nisu 
+pronađeni nikakvi čimbenici vezani uz signalno-sigurnosna sredstva koji bi doprinijeli ovoj nesreći. 
+Od rukovoditelja regionalne jedinice Upravitelja infrastrukture je pismenim putem dobivena informacija da 
+se predmetna dionica pruge svakodnevno pregledava od strane ophodarske službe.  
+### 2.3.4. Komunikacijska sredstva 
+Način komunikacije između osoblja uključenog u nesreću bio je moguć korištenjem ručnih radio 
+primopredajnika „Motorola“ i mobitela. Nisu pronađeni nikakvi čimbenici vezani uz komunikacijska sredstva 
+koji bi doprinijeli ovoj nesreći. 
+### 2.3.5. Radovi koji se izvode na ili u blizini mjesta događaja  
+Na pruzi M606 Knin-Zadar se izvode radovi sanacije pruge s kompletnom zamjenom kolosiječne rešetke, a 
+upravo te radove su izvodili sudionici ove nesreće i vozila koja su sudjelovala u nesreći. Mjesto radova je 
+udaljeno od mjesta nesreće nekoliko kilometara i nije imalo veze s ovom nesrećom. 
+2.3.6. Pokretanje plana za slučaj opasnosti javnih spasilačkih službi, policije i zdravstvenih službi i s njim 
+povezan slijed događanja. 
+Dispečer HŽ Infrastrukture  d.o.o. iz Knina telefonskim je putem izvijestio voditelja smjene Policijske postaje 
+Knin o incidentu. Odmah po dojavi na mjesto događaja su izišli policijski službenici, koji su obavili očevidne 
+radnje. 
+## 2.4. 
+### Smrtno stradali, ozlijeđeni i materijalna šteta 
+### 2.4.1. Smrtno stradali i ozlijeđeni 
+U ovoj nesreći nije bilo smrtno stradalih ni ozlijeđenih osoba. 
+### 2.4.2. Teret, prtljaga i druga imovina 
+Vozila uključena u ovu nesreću nisu prevozila teret, prtljagu ili drugu imovinu. 
+### 2.4.3. Vozila, infrastruktura i okolina 
+Na „planirki“ i vagonu su nastala veća oštećenja. 
+Na pruzi je oštećeno i uništeno 35 drvenih pragova, a oštećene su i tračnice. 
+## 2.5. 
+### Vanjske okolnosti 
+Vremenske prilike na mjestu i za vrijeme događaja bile su povoljne, vanjska temperatura je iznosila 17°C, a 
+nebo je bilo vedro.  
+
+## Página 11
+
+Za potrebe istrage ove nesreće od tvrtke „Geo-Meteo“ zatražena je izrada analize vremenske situacije na 
+mjestu događaja u razdoblju od nekoliko dana prije same nesreće. Iz vremenske analize proizlazi da je na 
+širem području oko mjesta događaja u zadnjih 39 sati palo između 20 i 40 l kiše po kvadratnom metru, što 
+predstavlja relativno veliku količinu oborina u tako kratkom vremenu. Odroni su najčešće izazvani 
+djelovanjem obilnih oborinskih voda. 
+Slika 6 – Akumulirana količina oborina na lokaciji odrona (Izvor Meteorološko izvješće za željezničku 
+nesreću, izradila tvrtka Geo-Meteo). 
+### 3. ZAPISI O ISTRAŽIVANJU I ANALIZAMA 
+## 3.1. 
+### Sažetak izjava svjedoka  
+Vozač pružnog vozila A je izjavio kako su svi radni strojevi imali uključene motore, te da su se kretali brzinom 
+oko 30 km/h. Prolaskom pored stajališta Oćestovo u jednom trenutku je osjetio kako se radni stroj kojim je 
+upravljao uzdigao i izletio van tračnica, sletio niz nasip s desne strane gledano u smjeru kretanja, gdje se i 
+zaustavio. Vozač pružnog vozila A je izjavio kako na pruzi nije uočio prepreke. 
+Vozač pružnog vozila B je izjavio kako su sva vozila bila povezana u skup i da su sva trojica vozača pružnih 
+vozila koordinirano upravljali radnim motornim strojevima. Prolaskom pored stajališta Oćestovo uočio je 
+kako su se na radnom vagonu ispred njega upalila žuta svjetla koja signaliziraju da započne s kočenjem, što 
+je odmah i učinio. Vozač pružnog vozila B je izjavio da mu pruga nije bila vidljiva zbog radnog vagona koji je 
+bio priključen ispred njega, te je samo slušao vezu kojom vozači pružnih vozila međusobno komuniciraju i 
+promatrao žuta svjetla na vagonu. 
+Vozač pružnog vozila C je izjavio kako su sva vozila bila skupno povezana jedno za drugim, da su sva trojica 
+vozača pružnih vozila upravljali pružnim vozilima u kojima su se nalazili, te da su se kretali brzinom od oko 30 
+km/h. Prolaskom pored stajališta Oćestovo čuo je kako Vozač pružnog vozila B viče „stoj!“ , vidio je oblak 
+prašine i odmah započeo kočenje, te je stao. Vozač pružnog vozila C je izjavio kako je bio šokiran i ni sam ne 
+zna što se dogodilo, niti kako su prvi radni stroj i radni vagon iskočili s tračnica. 
+
+## Página 12
+
+Predmetni vlak je istoga dana u jutarnjim satima prošao navedenu dionicu pruge u suprotnom smjeru (iz 
+Knina prema Kistanjama) kada na istoj nije bilo odrona.  
+Ostalih svjedoka nije bilo. 
+## 3.2. 
+### Sustav upravljanja sigurnošću 
+Tvrtka Pružne Građevine d.o.o. nema uspostavljen sustav upravljanja sigurnošću, budući da nije registrirana 
+kao željeznički prijevoznik.  
+Od Šefa regionalne jedinice Upravitelja infrastrukture dobivena je informacija da se predmetna dionica pruge 
+redovito pregledava i to prema sljedećem rasporedu: 
+ 
+Ophodari pregledavaju dionicu svakodnevno od ponedjeljka do petka 
+ 
+Šef Nadzorne grupe Zadar ili njegov pomoćnik jednom mjesečno 
+ 
+Referent Nadzornog središta dionicu pregledava jednom mjesečno. 
+## 3.3. 
+### Pravila i propisi 
+Tvrtka Pružne Građevine d.o.o. obavlja procedure u skladu s pravilnicima i propisima koje je donio Upravitelj 
+željezničke infrastrukture, HŽ Infrastruktura d.o.o., a za korištenje Upraviteljevog sustava upravljanja 
+sigurnošću se očekuje potpisivanje Ugovora u primjeni i suradnji, te uključivanje prometne djelatnosti Pružnih 
+građevina u sustav HŽ Infrastrukture. 
+Najveća dopuštena brzina predmetnoga vlaka od 30km/h je bila određena sukladno Uputi 52 HŽ (Uputa o 
+tehničkim normativima i podacima za izradu i provedbu voznog reda). 
+### 3.3.1 Način rada željezničkih vozila i tehničke opreme 
+Pružna radna vozila bila su međusobno spojena u vlak uređajima za spajanje, ali prvo vozilo nema zračni vod, 
+te nije bilo uključeno u zajednički sustav zračnog kočenja. Kočnicama drugih radnih strojeva upravljali su 
+vozači pružnih vozila. 
+## 3.4. 
+### Sučelje čovjek-stroj-organizacija 
+Radno vrijeme svih radnika uključenih u ovu nesreću bilo je u skladu sa Zakonom, točnije prije nesreće bili su 
+slobodni puna tri dana. 
+Svi radnici uključeni u ovu nesreću imali su važeće svjedodžbe o zdravstvenoj sposobnosti za obavljanje 
+poslova s posebnim uvjetima rada. 
+Svi radnici uključeni u ovu nesreću imali su važeće potvrde o položenom stručnom ispitu za vozače pružnih 
+vozila. 
+## 3.5. 
+### Prethodni slični događaji 
+Ophodarska služba regionalne jedinice Upravitelja infrastrukture u posljednje dvije godine na predmetnoj 
+dionici pruge nije evidentirala niti jedan odron. 
+
+## Página 13
+
+### 4. ANALIZE I ZAKLJUČCI 
+## 4.1. 
+Završni prikaz slijeda događaja, uključujući zaključke o događaju temeljene na činjenicama 
+iz članka 3. 
+Predmetni vlak je dana 22. travnja 2014. (utorak) istoga dana u jutarnjim satima prošao dionicu pruge Knin-
+Zadar u suprotnom smjeru kada na istoj nije bilo odrona. Na povratku s radilišta u kolodvor Knin, tijekom 
+prolaska kroz željezničku postaju Oćestovo, vlak se sudario s odronom kamenja nakon čega je došlo do 
+iskliznuća prva dva vozila. U nesreći nije bilo ozlijeđenih osoba. 
+## 4.2. 
+### Analiza činjenica s ciljem prijedloga zaključaka o uzrocima događaja  
+Dan i pol prije odrona mjesto događaja je bilo izloženo relativno jakim oborinama u obliku kiše.  
+Svi sudionici predmetnoga događaja su radili unutar dozvoljenog radnog vremena s dovoljno dana odmora. 
+Alkotest je pokaza da sudionici događaja nisu bili pod utjecajem alkohola.  
+Predmetna dionica pruge se redovito nadzire od strane ophodarske službe Upravitelj infrastrukture. Isti 
+unutar dvije godine nisu zabilježili odrone. 
+Na vlaku je prije polaska s mjesta radova prema Kninu napravljena proba kočenja. Brzina vlaka je na cijeloj 
+dionici bila ograničena na 30 km/h.  
+## 4.3. 
+### Zaključci 
+Izravni uzrok ove nesreće je sudar pružnog vozila s odronjenom kamenom stijenom na pruzi, zbog čega je 
+došlo iskliznuća dva pružna vozila, a što se dogodilo zbog sljedećih uzročnika: 
+Pridonoseći čimbenici ove nesreće su: 
+ 
+Obilne oborine na mjestu odrona dan prije nesreće 
+ 
+Slaba vidljivost u daljinu na stajalištu Oćestovo 
+### 5. PODUZETE MJERE 
+Nakon nesreće, policija je obavila očevid i intervjuirala osobe uključene u nesreću. 
+Operater infrastrukture je osnovao lokalno istražno povjerenstvo. 
+### 6. SIGURNOSNE PREPORUKE 
+Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu nema sigurnosnih preporuka 
+za ovu nesreću

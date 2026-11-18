@@ -1,0 +1,24 @@
+{
+ "md/PL/2007/Poledno-cz1-15112007.md": {
+  "fichero": "md/PL/2007/Poledno-cz1-15112007.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 67,
+  "ratio": 0.93,
+  "avisos": [],
+  "tokens_in": 568,
+  "tokens_out": 24,
+  "destino": "md-es/PL/2007/Poledno-cz1-15112007.md"
+ },
+ "md/PL/2007/Poledno-cz2-15112007.md": {
+  "fichero": "md/PL/2007/Poledno-cz2-15112007.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 67,
+  "ratio": 0.93,
+  "avisos": [],
+  "tokens_in": 568,
+  "tokens_out": 24,
+  "destino": "md-es/PL/2007/Poledno-cz2-15112007.md"
+ }
+}

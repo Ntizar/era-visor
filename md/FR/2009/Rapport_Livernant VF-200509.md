@@ -1,0 +1,2419 @@
+---
+pais: FR
+anio: 2009
+idioma: PT
+pdf: Rapport_Livernant VF-200509.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/Rapport_Livernant%20VF-200509.pdf
+md5_pdf: 8a1f0bf9dbfa00b1bb73b3758f9f3f0c
+paginas: 79
+chars: 99912
+tablas: 2
+cuerpo: "12.0pt; encabezados 3 niveles"
+rotulos_excluidos: "0 ()"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 14
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+BEA-TT
+Bureau d’enquêtes sur les Accidents
+de transport terrestre
+Rapport d’enquête technique
+sur la collision entre un train 
+et le chargement d’un train croiseur 
+survenue le 20 mai 2009 
+dans le tunnel de Livernant 
+à Charmant (16)
+décembre 2010
+Ministère de l’Écologie, du Développement durable, des Transports et du Logement
+www.developpement-durable.gouv.fr
+
+## Página 2
+
+
+
+## Página 3
+
+##  !"#$%&- -/0$%1"%$2" 3#/  "4" 5
+## "5%16%1-3"$=="4" 5%16/0>$"
+## ?6/"06%12@ A6B5"!%!6/%$"!%DEE#1" 5!
+## 1"%F/0 !=/5%F"//"!5/"
+UTTF&-. V.]^UOOR_``aR``b
+## M0==/5%12" A6B5"%5"EN #A6"
+## !6/%$0%E$$#!# %" 5/"%6 %5/0# %
+## "5%$"%EN0/O"4" 5%126 %5/0# %E/#!"6/
+## !6/3" 6"%$"%PQ%40#%PQQR
+## 10 !%$"%56  "$%1"%S#3"/ 0 5%T%N0/40 5%V]^_
+
+## Página 4
+
+## ?/1"/"06%1E64" 50#/"
+c&=F !E-.56EEF /"F&-.d. !"#&-./-.0125606=->./?.@AC-06DD-E- "./?&FM0->./-!
+O&F !D6&"!.-"./?.e6=-E- ".f^@@Oem
+c&=F !E-.F?"-?&.d.]?&-F?./1^ n?o"-!.!?&.0-!.U55/- "!./-.O&F !D6&".O-&&-!"&-.f]^UROOm
+O"&-./?./65?E- ".d .qFDD6&"./1- n?o"-."-5N n?-.!?&.0F.5600!6 .- "&-.? ."&F .-".0-
+5NF&=-E- "./1? ."&F .5&6!-?&.!?&C- ?-.0-._`.EF._``a./F !.0-."?  -0./-.eC-& F ".r.
+sNF&EF ".ftum
+PVv}qP.d.^~R]^UORRt`RtbRÄq
+Å&6D6!"6 ./-.E6"!R50A!.d.O&F !D6&"./-.EF&5NF /!-!>.F&&EF=->.T6&EF"6 >.&A=0-E- "FR
+"6 >.56 "&Ç0->.- = .T6&-!"-&
+
+## Página 5
+
+## D3"/5#!!"4" 5
+e1- n?o"-."-5N n?-.TF!F ".016MÉ-"./?.D&A!- ".&FDD6&".-!".&AF0!A-.
+/F !.0-.5F/&-./?.""&-.vvv./-.0F.06. V_``_RÑ./?.Ñ.ÉF C-&._``_>.-".
+/?./A5&-". V_``ÖRÜb./?._u.ÉF C-&._``Ö>.&-0F"T!. 6"FEE- ".F?á.
+- n?o"-! . "-5N n?-! . FD&#! . F55/- " . 6? .  5/- " . /- . "&F !D6&".
+"-&&-!"&-S
+s-""-.- n?o"-.F.D6?&.!-?0.6MÉ-"./-.D&AC- &./-.T?"?&!.F55/- "!>.
+- ./A"-&E F ".0-!.5&56 !"F 5-!.-".0-!.5F?!-!./-.01AC# -E- ".
+F F0é!A> . -" . - . A"FM0!!F " . 0-! . &-56EEF /F"6 ! . /- . !A5?&"A.
+?"0-!S.^00-. -.C!-.DF!.r./A"-&E -&./-!.&-!D6 !FM0"A!S
+^ .56 !An?- 5->.01?"0!F"6 ./-.5-.&FDD6&".r./1F?"&-!.T !.n?-.0F
+D&AC- "6 .D6?&&F".56 /?&-.r./-!. "-&D&A"F"6 !.-&&6 A-!S
+
+## Página 6
+
+
+
+## Página 7
+
+###   !"#$
+&S`aaDbM@ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccR
+Mdafmdccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc]]
+]%n%`oaFDFa%bmmdpbDFa%@F%@o&D&@m@oF%p@%S2@oqfrF@cccccccccccccccccccccccccccccccccccccccccc]t
+tSt.R.s&56 !"F 5-!./-.01F55/- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÑ
+tS_.R.]0F .N?EF .-".EF"A&-0SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÑ
+tSÑ.R.^ =F=-E- "./-.01- n?o"-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÖ
+P%n%`oF@uF@%p@%S2Dbp@oFcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc]v
+_St.R.sF&F5"A&!"n?-!./-.0F.0= -SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStè
+_S_.R.O&F !./&-5"-E- ".ED0n?A!./F !.01F55/- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÜ
+_S_St.Re-."&F ./-.T&-".^sq.Öt_ÖaSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÜ
+_S_S_.Re-."&F ./-.T&-".}PsÄ.èÖÖ_ÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÜ
+_S_SÑ.Re-."&F ./-.T&-".}PsÄ.ÖtaÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÜ
+_S_SÖ.Re-."&F ./-.T&-".}PsÄ.buè_ÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSStÜ
+_SÑ.R.O&F !D6&".-TT-5"?A.D6?&.0F.!65A"A.F-&N6T-&SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSta
+_SÑSt.RcMÉ-"./?."&F !D6&"SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSta
+_SÑS_.Re-.QF=6 .OêU.5NF&=A./-.01- = .}ë6=!ÉF .ÖÜèíeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSta
+t%n%`m}F@%M@opf%p@a%bo~@aFb&DFb`oa%@ÄÄ@Ffd@acccccccccccccccccccccccccccccccccccccccccccccccccP]
+ÑSt.R.OAE6= F=-!./-!.56 /?5"-?&!./-."&F SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_t
+ÑStSt.Rs6 /?5"-?&./?."&F ./-.T&-".^sq.Öt_ÖaSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_t
+ÑStS_.Rs6 /?5"-?&./?."&F ./-.T&-".}PsÄ.èÖÖ_ÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_t
+ÑStSÑ.Rs6 /?5"-?&./?."&F ./-.T&-".}PsÄ.ÖtaÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS__
+ÑStSÖ.Rs6 /?5"-?&.ì.- .C6"?&-.î./F !.0F.0656E6"C-./?."&F .T&-".ÖtaÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS__
+ÑStSb.Rs6 /?5"-?&./?."&F ./-.T&-".}PsÄ.buè_ÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS__
+ÑS_.R.U F0é!-./-!.- &-=!"&-E- "!./-!.MF /-!.=&FDNn?-!.-".56 C-&!F"6 !.&F/6.!60R"&F S_Ñ
+ÑS_St.Re-!.MF /-!.=&FDNn?-!./-!."&F !SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_Ñ
+ÑS_S_.Re-!.- &-=!"&-E- "!./-.0F.&F/6.!60R"&F SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_b
+ÑSÑ.R.e1- = .T6&-!"-&.}ë6=!ÉF .ÖÜèíeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_u
+ÑSÑSt.RsF&F5"A&!"n?-!.=A A&F0-!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_u
+ÑSÑS_.R@!D6!"T./1EE6M0!F"6 ./-.0F."6?&-00-.-"./-.!6 .M&F!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS_a
+ÑSÑSÑ.Rs6EDF"M0"A.FC-5.0-.=FMF&"./-!.C6-!.T-&&A-!.T&F ïF!-!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑ`
+ÑSÖ.R.@!D6!"6 !.FDD05FM0-!.F?á.6DA&F"6 !./1F&&EF=-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑt
+ÑSÖSt.Re-!.D&-!5&D"6 !./-.5NF&=-E- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑt
+ÑSÖS_.Re-!./!D6!"6 !.56 5-& F ".0-!.!F =0-!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑt
+ÑSÖSÑ.R@!D6!"6 !.D&AC?-!.D6?&.01- = .}ë6=!ÉF ./F !.0F./65?E- "F"6 ."-5N n?-SSSSSSSSSSSSSSSSSSSSSÑ_
+
+## Página 8
+
+ÑSb.R.s6 !"F"!.!?&.01F&&EF=-./-.01- = .}ë6=!ÉF .ÖÜèíe.!?&.0-.QF=6 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑÑ
+ÑSbSt.RÅ6!"6 ./-."&F !D6&"./-.01- = .}ë6=!ÉF .ÖÜèíeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑÑ
+ÑSbS_.RP6 .C-&&6?00F=-./-.0F."6?&-00-.- .&6"F"6 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑÖ
+ÑSbSÑ.RU&&EF=-./-.0F."o"-./1FMF""F=-.-"./?.M&F!./?.}ë6=!ÉF .ÖÜèíeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑÖ
+ÑSbSÖ.RU 6EF0-!.56 !"F"A-!.FD&#!.01F55/- ".!?&.0-!.F?"&-!.5NF&=-E- "!.-TT-5"?A!.DF&.F-&N6T-&. Ñè
+ÑSu.R.s6 !!"F 5-.-".E!-.- .ó?C&-./-.0F.D&65A/?&-./-!.- C6!.!- !M0-!SSSSSSSSSSSSSSSSSSSSSSSSSSÑÜ
+ÑSuSt.Re-.56 !-0.- .5NF&=-E- ".-TT-5"?A.0-.tÑ.EF._``a.r.6!MF5NRP-5ëF&-0ûSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑÜ
+ÑSuS_.RqAF0!F"6 ./?.5NF&=-E- ".0-.tb.EF._``aSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑa
+ÑSuSÑ.Rs6 "&Ç0-.-".F55-D"F"6 .0-.tb.EF._``aSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÑa
+ÑSè.R.ü!"-!."-5N n?-!.D- /F ".01F5N-E -E- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖt
+ÑSèSt.RqAF0!F"6 ./-.0F.C!"-."-5N n?-.r.F  N-E.0-.tu.EF._``aSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖt
+ÑSèS_.RqAF0!F"6 ./-.0F.C!"-./1A5NF =-.r.^ !-/0-&N6T.q]T.0-.ta.EF._``aSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖ_
+ÑSÜ.R.-!?&-!.r.D&- /&-.C!RrRC!./-!."&F !.5&5?0F "./F !./-!.56 /"6 !./F =-&-?!-!SSSSSSÖÑ
+Å%n%pdM`fS@m@oF%p@%S2Dbp@oF%@F%p@a%a@`fMacccccccccccccccccccccccccccccccccccccccccccccccccccccÅÇ
+ÖSt.R.s6 !-0>.5NF&=-E- ".-".F55-D"F"6 ./-.01- C6SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖb
+ÖStSt.Re-.56 !-0.- .5NF&=-E- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖb
+ÖStS_.Re-.5NF&=-E- "./-!.QF=6 !SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖb
+ÖStSÑ.RU55-D"F"6 ./?.5NF&=-E- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖu
+ÖS_.R.U5N-E -E- ".- .U00-EF= -.-".C!"-!.- .DF&56?&!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖu
+ÖS_St.Rü!"-."-5N n?-.r.F  N-ESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖu
+ÖS_S_.Rü!"-."-5N n?-./1A5NF =-.r.^ !-/0-&N6T.q]TSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖu
+ÖSÑ.R.U5N-E -E- ".- .Ä&F 5-.É?!n?1F?."?  -0./-.eC-& F "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖè
+ÖSÖ.R.e1F55/- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSÖè
+ÖSb.R.e-!.!-56?&!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSb`
+ÖSu.R.e-!.&!n?-!.- 56?&?!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSb`
+Ç%n%DoDSÉa@%p@a%Dfa@a%@F%ÄDF@fMa%Daa`bdaÑ%`Mb@oFDFb`oa%}Md~@oFb~@acÇ]
+bSt.R.e-.D&65-!!?!./1- C6!.!- !M0-!SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSbt
+bS_.R.eF.C!"-."-5N n?-.-".C!"-."-5N n?-./1A5NF =-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSb_
+bSÑ.R.-!?&-!.r.D&- /&-.06&!./-.5N65.6?./-.M&?".F?.5&6!-E- "./1? ."&F SSSSSSSSSSSSSSSSSSSSSSSSSSSb_
+^%n%`oSfab`oacccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccÇÇ
+uSt.R.sF?!-!./-.01F55/- "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSbb
+uS_.R.q-56EEF /F"6 !SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSbb
+Doo@u@acccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccÇv
+U  -á-.t.d.@A5!6 ./16?C-&"?&-./1- n?o"-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSba
+U  -á-._.d.ÅF&56?&!./?.QF=6 ."&F !D6&"F ".01- = .T6&-!"-&.}ë6=!ÉF SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSu`
+U  -á-.Ñ.d.vEDF5"!.!?&.0-!.0656E6"C-!./-!."&F !.}PsÄ.èÖÖ_Ö.-".ÖtaÖSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSut
+U  -á-.Ö d.@ATF?"!./1F&&EF=-.-"./1EE6M0!F"6 ./1? .- = .T6&-!"-&.5NF&=A.DF&.F-&N6T-&u_
+U  -á-.b.d.êF=6 .!?&MF!!A."éD-.OêU.Ü``.-".}ë6=!ÉF .ÖÜèíeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSuÖ
+
+## Página 9
+
+| U | -á- u d ^á"&F" /? =&FDNn?- &A-0 /- 5&5?0F"6 ub . . . . . . . . SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS |
+| U | -á- è d Ä5N- †vs è Ñ uu . . . . . S SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS |
+| U | -á- Ü d }é "N#!- /-! 56 !"F"! !?& 0- "&F ^sq Öt_Öa è` . . . . . . . . . . SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS |
+| U | -á- a d }é "N#!- /-! 56 !"F"! !?& 0- "&F }PsÄ buè_Ö èb . . . . . . . . . . SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS |
+
+## Página 10
+
+
+
+## Página 11
+
+## &$!!0#/"
+###  ?DS%Ö%]065ë.F?"6EF"n?-.0?E -?á.F!!?&F ".0-.5F "6  -E- "./-!."&F !.f-!DFR
+5-E- "m
+###  ?}%fM& d.]6?"6 .D6?!!6&./1?&=- 5-.- .5FM -./-.56 /?"-.F=!!F "./&-5"-R
+E- ".!?&.0-.T&- 
+###  `&.d.s- "&-.cDA&F"6  -0./-.°-!"6 ./-.0F.s&5?0F"6 ./-.0F.}PsÄ
+###  ff. d.s6 "&F".? T6&E-./1?"0!F"6 ./-!.QF=6 !>./!D6!"6 !.56 "&F5"?-00-!.
+/AT !!F ".0-!./&6"!.-"./-C6&!./-!.- "&-D&!-!.T-&&6CF&-!.06&!./-.01?"0!F"6 .
+/-!.QF=6 !
+###  p?aM.d.@-?"!5N-.]FN .}5N- ë-&.qF0.@-?!"!5N0F /.U°>.- "&-D&!-.T-&&6CF&-.
+F00-EF /->.T0F0-./-.0F.@-?"!5N-.]FN 
+###  @?D d.^!- MFN .]? /-!FE">.F?"6&"A./-.!A5?&"A.T-&&6CF&-.F00-EF /-
+ @M. d.^?&6.sF&=6.qF0>.- "&-D&!-.T-&&6CF&-.T&F ïF!->.T0F0-./-.0F .@-?"!5N-.
+]FN 
+###  @Ä.d.^ "&-D&!-.T-&&6CF&-
+###  @f?.d.^!- MFN R† TF00? "-&!?5N? =!!"-00-./-!.]? /-!.R.c&=F !E-.F00-EF /.
+/1- n?o"-.!?&.0-!.F55/- "!.T-&&6CF&-!
+###  }ba.d.Å0F ./1 "-&C- "6 .-"./-.!A5?&"A./?.O?  -0.Ä-&&6CF&-./?.eC-& F "
+###  MÄÄ.d.qA!-F?.Ä-&&A./-.Ä&F 5->.=-!"6  F&-./?.&A!-F?.T-&&A. F"6 F0
+###  aDM d.}= F0./1F0-&"-.&F/6.!60¢"&F 
+###  aÜ`&aáDo%ÅévuS.d.^ = .T6&-!"-&./-.TFM&5F"6 .!?A/6!-
+###  aoÄ. d.}65A"A.PF"6 F0-./-!.sN-E !./-.T-&.Ä&F ïF!>.=-!"6  F&-./1 T&FR
+!"&?5"?&-./A0A=?A.-".- "&-D&!-.T-&&6CF&-.T&F ïF!-
+###  FèD éQQ.d.êF=6 .!?&MF!!A./-.0F.!65A"A.O&F !QF==6 
+###  fb.d.† 6 .v "-& F"6 F0-./-!.sN-E !./-.T-&
+###  ~F.d.ü!"-."-5N n?-
+###  ~F@.d.ü!"-."-5N n?-./1A5NF =-.- "&-.- "&-D&!-!.T-&&6CF&-!
+R
+
+## Página 12
+
+
+
+## Página 13
+
+## M-!64-
+e-.E-&5&-/._`.EF._``a>.r.`NÑa>.0-.M&F!.F&"5?0A./1? .- = .T6&-!"-&.5NF&=A.!?&.0-.
+"&F .^sq.Öt_Öa. /1^?&6.sF&=6.qF0 .N-?&"-.C60-EE- ".0-."&F .5&6!-?&.}PsÄ.
+buè_Ö./F !.0-."?  -0./-.eC-& F ".r.sNF&EF ".ftumS
+s-".F55/- ".F.5F?!A.0F.M0-!!?&-.0A=#&-./?.56 /?5"-?&./?."&F .buè_Ö>.0F./-!"&?5R
+"6 .DF&"-00-./-.0F.0656E6"C-.-"./-!.FCF&-!.D0?!.6?.E6 !.ED6&"F "-!.F?á.
+QF=6 !.-".F?á.5NF&=-E- "!./-!./-?á."&F !>.F !.n?-./-!./A=£"!.r.0F.C6-.-".F?á.
+An?D-E- "!.T-&&6CF&-!S
+eF.5F?!-.EEA/F"-./-.01F55/- ".-!".0F.&6"F"6 . 56 "&Ç0A-./-.0F."6?&-00-.-"./?.
+M&F! . F&"5?0A . /- . 01- = . T6&-!"-&. }ë6=!ÉF > . D&6C6n?F " . F ! . 01- =F=-E- " . /?.
+=FMF&"./-.0F.C6-.F/ÉF5- "-S
+@-?á.TF5"-?&!.!6 ".r.016&= -./-.5-".F55/- ".d
+ 0F.EF?CF!-.&AF0!F"6 ./-.01EE6M0!F"6 ./-!.DF&"-!.E6M0-!./-.01- = .DF&.
+01-áDA/"-?&>.n?. 1A"F".DF!.? .D&6T-!!6  -0 .-áDA&E- "A>.06&!./?.5NF&=-E- ".
+/?.QF=6 .- .U00-EF= -.§
+ 0F.E!-.- .ó?C&-./AT-5"?-?!-.DF&.0F.@]}q .f- "&-D&!-.T-&&6CF&-.F00-EF /-.
+FéF ".D&!.- .5NF&=-.0-."&F !D6&"m ./-.0F.D&65A/?&-./-.56 !-0.-"./-.56 "&Ç0-.
+D&AC?-.D6?&.5-."éD-./1-áDA/"6 !S
+@-?á.TF5"-?&!.6 ".A=F0-E- ".D?.56 "&M?-&.r.01FM!- 5-./-./A"-5"6 .-"./1F0-&"-.06&!.
+/-.0F.5&5?0F"6 ./-.5-."&F ./F !./-!.56 /"6 !./F =-&-?!-!.d
+ 0F. 6 ./A"-5"6 ./-!./ATF?"!./1EE6M0!F"6 >./-.5F0F=-.-"./1F&&EF=-.06&!./-!.
+C!"-!."-5N n?-!.- .F5N-E -E- ".§
+ 0-.EF n?-./-.50F&"A./-!.E-!?&-!.r.D&- /&-.DF&.0-!.56 /?5"-?&!.- .5F!./-.
+D-&5-D"6 ./-.M&?"!./-.5N65!>.n?. 1F.DF!.D-&E!./1F&&o"-&.0-."&F .5&5?0F "./F !.
+/-!.56 /"6 !./F =-&-?!-!.FCF ".01F55/- "S
+s-5.FE# -.0-.]^UROO.r.AE-""&-.5 n.&-56EEF /F"6 !.56 5-& F ".d
+ 0F.D&65A/?&-./1- C6!.!- !M0-!.D&6D&-.r.0F.@]}q.§
+ 0F.&AF0!F"6 ./-!.C!"-!."-5N n?-!.§
+ 0-! . E-!?&-! . r . D&- /&- . - . 5F! . /- . D-&5-D"6 . /- . M&?"! . /- . 5N65! . DF& . 0-!.
+56 /?5"-?&!./-."&F !S
+]]
+
+## Página 14
+
+
+
+## Página 15
+
+### ]%n%  !505!%#44-1#05!%"5%" O0O"4" 5%1"%$2" A6B5"
+### ]c]%n% #/E !50 E"!%1"%$20EE#1" 5
+e-.E-&5&-/._`.EF._``a>.0-."&F .Öt_Öa./-.01- "&-D&!-.T-&&6CF&-.^?&6.sF&=6.qF0
+5&5?0-.- ./&-5"6 ./?.!?/R6?-!"./-.0F.Ä&F 5-.!?&.01Fá-.ÅF&!R]6&/-F?á>.!?&.0F
+0= -./1U =6?0oE-.r.s6?"&F!S
+F6  "$%1"%S#3"/ 0 5
+Ä#O6/"%]%Ö%S#"6%O-O/0=N#A6"%1"%$20EE#1" 5
+s-."&F .5&6!-.0-."&F ./-.T&-".}PsÄ.buè_Ö./F !.0-."?  -0./-.eC-& F ".!?&.0F.
+56EE? -./-.sNF&EF ".ftum.06&!n?-.0-.M&F!./1? .- = .T6&-!"-&.5NF&=A.!?&.0-."&6R
+!#E-.QF=6 ./-.!6 .56 C6.D-&T6&-.0F.5FM -./-.56 /?"-./?."&F .5&6!-?&.É?!n?-.
+/F !.0-.56EDF&"E- ".E6"-?&./-.0F.0656E6"C-.-">.F?R/-0r>.D-&5-.0F.DF&6.0F"A&F0-.
+=F?5N-./-.0F.0656E6"C-.]].Ö`è__`S
+e-.56 /?5"-?&./?."&F .buè_Ö.AE-".0-.!= F0./1F0-&"-.&F/6.EEA/F"-E- "./-D?!.
+!F.0656E6"C-.•.0.-!".`NÑaS.v0.F&&o"-.!6 ."&F .n?.!1EE6M0!-./F !.0-."?  -0./-.
+eC-& F ".r.tb`.E#"&-!./-.0F.!6&"-S
+### ]cP%n% ?#$0 %N640# %"5%405-/#"$
+e-.56 /?5"-?&./?."&F .buè_Ö.-!".0-.!-?0.M0-!!A./-.01F55/- ".•.D6= -".5F!!A.•.0.
+!-&F.ACF5?A.EEA/F"-E- ".DF&.0-!.D6ED-&!.!?&.01NÇD"F0.sFE00-.s0F?/-0./1U R
+=6?0oE-S
+e-!./A=£"!.EF"A&-0!.!6 "."&#!.ED6&"F "!.d
+ }?&.0-."&F .buè_Ö>.0F.0656E6"C-.]].Ö`è__`.-!".D-&T6&A-.r.01FCF "R/&6"./-.0F.
+5FM - . /- . 56 /?"- . r . t¢Ñ . - C&6 . /- . 0F . 06 =?-?& . /- . 0F . 0656E6"C-> . - .
+- /6EEF=-F ".0-!./TTA&- "!.A0AE- "!.E6"-?&.-".F?"&-!.FDDF&-00F=-!S.^ .D0?!.
+]t
+
+## Página 16
+
+/-.0F.0656E6"C->.!-û-.QF=6 !.!6 ".- /6EEF=A!.D0?!.6?.E6 !.=&FC-E- ".-"
+? .-!!-?./?./-?á#E-.QF=6 .F./A&F00AS
+ }?&.0-."&F .Öt_Öa>.- .D0?!./-!.- = !./?.QF=6 .OêU.Ü``.56 "- F ".0-!./-?á.
+- = !.T6&-!"-&!./-."o"-.0-!.D0?!."6?5NA!>.0-!.5NF&=-E- "!./-!.n?F"&-.QF=6 !
+!?CF "!.!6 ".T6&"-E- ".- /6EEF=A!>.? -.C ="F -./-.QF=6 !.!6 ".D0?!.6?.
+E6 !."6?5NA!S
+ e-!. T&F!"&?5"?&-!.F?.!60.!6 ".=&FC-E- "./A"A&6&A-!>.0F.C6-._.!6?!.0-."?  -0.
+-!".r.&-/&-!!-&.!?&.D0?!-?&!.5- "F -!./-.E#"&-!S.e-!. !"F00F"6 !.A0-5"&n?-!.
+/1A50F&F=->./1F0-&"->./-.!= F0!F"6 .-"./-!.5F"A F&-!.!6 ".r.&-C6&S
+}"/ë/05# %1"%$2030 5n1/#5
+1"%$0%E0># "%1"%E 16#5"
+16%5/0# %Ç^vPÅ
+Ä#O6/"%P%Ö%SE45#3"%ÅQvPPQ%0=/ê!%$20EE#1" 5
+### ]ct%n% @ O0O"4" 5%1"%$2" A6B5"
+U?.C?./-!.5&56 !"F 5-!./-.5-".F55/- ".-".r.0F./-EF /-./?. !"&-.5NF&=A./-!.
+"&F !D6&"!>.0-.@&-5"-?&./?.]^UROO.F./A5/A./1- =F=-&.? -.- n?o"-."-5N n?-.
+&AF0!A-./F !.0-.5F/&-./?.""&-.vvv./-.0F.06./?.`Ñ.ÉF C-&._``_>.-"./?./A5&-". V_``ÖRÜb.
+/?._u.ÉF C-&._``Ö>.&-0F"T!. 6"FEE- ".F?á.- n?o"-!."-5N n?-!.FD&#!.F55/- ".6?.
+ 5/- "./-."&F !D6&"."-&&-!"&-.•.ü6&.F  -á-.tS
+e-!.- n?o"-?&!.!-.!6 ".&- /?!.!?&.0-!.0-?á.-".6 ".-áFE A.0-!.- = !.- /6EEFR
+=A!.§.0!.6 ".&- 56 "&A.0-.Å&65?&-?& ./-.0F.qAD?M0n?- .F?D&#!./?.O&M? F0./-.
+°&F /-.v !"F 5-./1U =6?0oE->.0-!.- n?o"-?&!./-.0F.]&=F/-.@ADF&"-E- "F0-./-.
+q- !-= -E- "!.-"./1 C-!"=F"6 !.¶?/5F&-!./1U =6?0oE-.-".0-!.&-!D6 !FM0-!.
+065F?á.-".&A=6 F?á./-.0F.}PsÄS
+v0!.6 ".6M"- ?.56EE? 5F"6 ./?./6!!-&./-.0F.D&65A/?&-.É?/5F&-S
+† -.&- 56 "&-.F.A"A.6&=F !A-.0-.`Ñ.É?00-"._``a.DF&.01-áD-&".5C0.FC-5.0-!.DF&"-!.
+56 !/A&A-!.-".0-.]^UROOS
+s-""-.&- 56 "&-.F.D-&E!./-.D&A5!-&.0-!.5&56 !"F 5-!./-.01F55/- ".-"./1- "- /&-.
+0-!./TTA&- "!.ì.F5"-?&!.î.-".&-!D6 !FM0-!.!A5?&"A./?.5NF&=-E- ">./-.0F.CA&T5FR
+]Å
+
+## Página 17
+
+"6 .-"./-.01F5N-E -E- "./-.5-.56 C6>.F !.n?-.0-!.&-!D6 !FM0-!./-.0F.}PsÄ.
+F5N-E F ".0-."&F .D-&5?"A.-".F!!?&F ".01- "&-"- ./-!. T&F!"&?5"?&-!S
+e1- n?o"-./?.]^UROO.F./6  A.0-?.r.D0?!-?&!. C-!"=F"6 !.!?&.0-."-&&F S
+ }?&.0-!./-?á."&F !.5&6!-?&!.D6?&.56 !"F"-&.0-!./A=£"!.-".E-!?&-&.01EDF5".06&!.
+/-.5-""-.5600!6 >.EF!.A=F0-E- ".- .=F&-./1U =6?0oE-.D6?&.0F.0656E6"C-./?.
+"&F ÖtaÖ.-".r.}F "RÅ-&&-R/-!Rs6&D!.D6?&.0F.0656E6"C-./?."&F .èÖÖ_ÖS
+ U . }F "RÅ-&&-R/-!Rs6&D!> . r . U =6?0oE- . -" . ]Fé6  - . D6?& . &- 56 "&-& . 0-!
+/TTA&- "!.56 /?5"-?&!.}PsÄ>.EF!.A=F0-E- ".r.ÅF&!.D6?&.0-.56 /?5"-?&.^sqS
+e-!.- n?o"-?&!.6 ".6M"- ?.0-.56 56?&!./-.016&=F !E-./1- n?o"-.F00-EF /.!?&.0-!.
+F55/- "!.T-&&6CF&-!.f^†]m>.D6?&.5-.n?.56 5-& -.0-!.6DA&F"6 !./-.5NF&=-E- ".
+-".0-!.C!"-!./-!.QF=6 !.F !.n?-.0-!. T6&EF"6 !.!?&.0-!.6DA&F"6 !.&AF0!A-!.F?.
+56?&!./?."&FÉ-".-TT-5"?A.- .U00-EF= -S.e-?&!  C-!"=F"6 !. 16 ".DF!.F F0é!A.0-!.
+/65?E- "!.56 "&F5"?-0!. "F?á.DF!!A!.- "&-.0-.D&6D&A"F&-./-!.- = !.n?.0-!.F.
+5NF&=A!.fF-&N6T-&m>.0-.D&6D&A"F&-./-!.QF=6 !.fO&F !QF==6 m.-".0-."&F !D6&"-?&.
+f@]}qmS
+v0!.6 ".A=F0-E- ".56 "F5"A.0F.!65A"A.^sc.ec°.f}?#/-m.n?.F!!?&-.0-.!-&C5-.
+FD&#!RC- "-./-.01- = .}ë6=!ÉF .0?REoE-.-".n?.0-?&.F."&F !E!.0-!./65?E- "!./-.
+&ATA&- 5-.D6?&.!1 T6&E-&./-!.56 /"6 !. 6&EF0-!./1EE6M0!F"6 ./-.5-".- = S
+]Ç
+
+## Página 18
+
+
+
+## Página 19
+
+### P%n%  5"í5"%1"%$20EE#1" 5
+### Pc]%n% 0/0E5-/#!5#A6"!%1"%$0%$#O "
+eF.0= -./1U =6?0oE-.r.s6?"&F!.-!".-áD06"A-.DF&.0F.}PsÄ>.-00-.TF".DF&"-./-.01Fá-
+T-&&6CF&-.ÅF&!.•.]6&/-F?áS
+e-.s- "&-.cDA&F"6  -0./-.°-!"6 ./-.0F.s&5?0F"6 .}PsÄ./-.]6&/-F?á./&=-.-".
+6&- "-.0F.5&5?0F"6 ./-!."&F !S
+F6  "$%1"%S#3"/ 0 5
+Ä#O6/"%t%Ö%S"%56  "$%1"%S#3"/ 0 5%!6/%$"%/-!"06%ë/0 ì0#!
+eF.0= -.-!".!"?A-.- .DF&"-.!?&.0-./ADF&"-E- "./-.0F.sNF&- "->.É?!n?1r.ÅF&56?0R
+A/00F5S
+^00-.-!".-áD06"A-.- ./6?M0-.C6-.-".!6 .!é!"#E-./-.5F "6  -E- ".f/1-!DF5-E- "m.
+/-!."&F !.-!".0-.]065ë.U?"6EF"n?-.e?E -?áS
+^00-.-!".An?DA-./-.0F.&F/6.!60R"&F .D-&E-""F ".0F.0F!6 .&F/6.FC-5.0-!."&F !S
+eF."&F5"6 .A0-5"&n?-.-!".F!!?&A-.- .t.b``.C60"!.56 " ?S
+eF.0= -.-!".6?C-&"-.r."6?!.0-!."&F !D6&"!.T-&&6CF&-!./-.C6éF=-?&!.-"./-.T&-"S
+eF.C"-!!-.0E"-.0F.D0?!.A0-CA-./-!."&F !.-!"./-.__` ëE¢NS
+]v
+
+## Página 20
+
+### PcP%n% F/0# !%1#/"E5"4" 5%#4=$#A6-!%10 !%$20EE#1" 5
+e-!."&F !.D&A!- "A!.5R/-!!6?!.!6 ".50F!!A!./F !.016&/&-.5N&6 606=n?-./1ED05FR
+"6 ./F !.01F55/- "S.e-."&F .Öt_Öa.-!".0-.!-?0."&F .5&5?0F ".!?&.0F.C6-.EDF&-.
+f!- !.ÅF&!R]6&/-F?ám>.0-!.F?"&-!."&F !.5&5?0F ".!?&.0F.C6-.DF&-.f!- !.]6&/-F?áR
+ÅF&!mS
+##  !"
+## #$!%&-./!0$!1&$%!234!5 56
+e-."&F ./-.T&-".^sq.Öt_Öa.-!".56ED6!A./-._Ö.QF=6 !./6 ".!á.5NF&=A!./1- = !
+T6&-!"-&!./-!" A!.F?á."&FCF?á./-./AM0F-E- "./-.0F.T6&o"./-!.eF /-!.fÖ`mS.v0.C- "
+/-.Ä6&MF5N.f- .D&6C- F 5-./1U00-EF= -m.-".-!".r./-!" F"6 ./-.]Fé6  -S.eF
+"&F5"6 ./?.56 C6.-!".F!!?&A-.DF&.0F.0656E6"C-.seU}}.uu.¶OÖ_.uu`ÑÜS
+v0.-!".56ED6!A>./F !.0-.!- !./-.0F.EF&5N->./-./-?á.QF=6 !.D0F"!.r.&F 5N-&!>./-.!á.
+QF=6 !.!?&MF!!A!.OêU.Ü``./6 ".n?F"&-.QF=6 !.5NF&=A!.DF&.0F.!65A"A.F-&N6T-&.
+-"./-?á.DF&.0F.!65A"A.?É6"S. e-!.QF=6 !.!?CF "!.!6 "./-!.QF=6 !.56?C-&"!.-".
+D0F"!.D6?&.0F.D0?DF&"S
+e-."&6!#E-.QF=6 ./-."o"-."&F !D6&"-.01- = .T6&-!"-&.}ë6=!ÉF .ÖÜèíeS
+## !"
+## #$!%&-./!0$!1&$%!=>3?!@555
+e-."&F ./-.T&-".}PsÄ.èÖÖ_Ö.-!".0-.D&-E-&."&F ."6?5NA.DF&.01- = .T6&-!"-&.- =FR
+=-F ".0-.=FMF&"S.v0.C- "./-.]6&/-F?á.ß6?&5F/-.-".-!".r./-!" F"6 ./-.}F "R
+Å-&&-R/-!Rs6&D!S
+v0.-!".56ED6!A./-._`.QF=6 !.-".0F."&F5"6 ./?."&F .-!".F!!?&A-.DF&.0F.0656E6"C-.
+]].Ö`èÑu`S.s-!.QF=6 !."&F !D6&"- "./-!.EF"#&-!./F =-&-?!-!.56 !""?A-!./1- R
+=&F!.F?. "&F"-./1FEE6 ?ES
+## A!"
+## #$!%&-./!0$!1&$%!=>3?!5 65
+e-."&F ./-.T&-".}PsÄ.ÖtaÖ.-!".0-.!-56 /."&F ."6?5NA.DF&.01- = .T6&-!"-&.- =FR
+=-F ".0-.=FMF&"S.v0.C- "./-.]6&/-F?á.ß6?&5F/-.-".-!".r./-!" F"6 ./1U =6?0oE-S
+v0.-!".56ED6!A./-.t`.QF=6 !.56?C-&"!.}^qPU.-".0F."&F5"6 ./?."&F .-!".F!!?&A-.
+DF&.0F.0656E6"C-.]].___uèS
+## 5!"
+## #$!%&-./!0$!1&$%!=>3?!BC@5
+e-."&F ./-.T&-".}PsÄ.buè_Ö.-!".0-."&6!#E-.-"./-& -&."&F ."6?5NA.DF&.01- = .
+T6&-!"-&.- =F=-F ".0-.=FMF&"S.v0.C- "./-.]Fé6  -.-".-!".r./-!" F"6 ./-.O6?&!S
+v0.-!".56ED6!A./-.Ö`.QF=6 !./6 "./-!.D0F"!>. ? -.5"-& -./-.EF"#&-!./F =-R
+&-?!-!>./-!.D6&"-RF?"6!.C/-!.-"./-!.QF=6 !."6EM-&-F?áS.eF."&F5"6 ./?.56 C6.
+-!".F!!?&A-.DF&.0F.0656E6"C-.]].Ö`è__`S
+]é
+
+## Página 21
+
+### Pct%n% F/0 !=/5%"ëë"E56-%=6/%$0%!E#-5-%m0#"/Në"/
+## A !"
+## DEF$%!0M!%&-/NOP&%
+eF.}65A"A.F-&N6T-&./-!" F".N?".- = !.T6&-!"-&!.F?. -""6éF=-./-.0F.T6&o"./-!.
+eF /-!.fÖ`m>.r.0F.!?"-./-.0F."-EDo"-.ì.Æ0F?!.î./-.01NC-&.D&A5A/- "S.^00-.F.06?A.r.
+0F.!65A"A.O&F !QF==6 .n?F"&-.QF=6 !.!?&MF!!A!.D6?&.F5N-E -&.!-!.- = !.
+T6&-!"-&!S.e1- "&-D&!-.T-&&6CF&-.F00-EF /-.@]}q>.T0F0-./-.0F.@-?"!5N-.]FN >.F.
+F!!?&A.0-."&F !D6&".T-&&6CF&-S
+## A!"
+### #$!Q-RP/!STU!V]-&R^!0$!`a$/R./!=bPRNF-/!5c@d#
+e-.QF=6 .OêU.Ü``. V_Ñ.Ü`ÖÑÑÖ.__tRè.-!"./-."éD-.!?&MF!!AS.v0.F.A"A.5NF&=A>.- .!F.
+D&-E#&-.DF&"->.- .=F&-./-.6!MF5NRP-5ëF&-0û.R.U00-EF= -.f]F/-.ê?&"- M-&=m.0-.
+tb.EF._``a>./-.01- = .T6&-!"-&.}ë6=!ÉF .ÖÜèíe.•.ü6&.F  -á-.bS
+eF.!-56 /-.DF&"-.A"F".655?DA-.DF&.? .F?"&-.- = .T6&-!"-&./-."éD-.OEM-&ÉF5ëS
+]R
+
+## Página 22
+
+
+
+## Página 23
+
+### t%n% 4=5"%/" 16%1"!%# 3"!5#O05# !%"ëë"E56-"!
+### tc]%n% F-4#O 0O"!%1"!%E 16E5"6/!%1"%5/0# 
+e-!.&A!?EA!.D&A!- "A!.5R/-!!6?!.!6 ".A"FM0!.DF&.0-!.- n?o"-?&!."-5N n?-!.!?&
+0F.MF!-./-!./A50F&F"6 !.f6&F0-!.-".A5&"-!m./6 ".0!.6 ".-?.56  F!!F 5-S.v0!. -
+&-"-  - ".n?-.0-!.A0AE- "!.n?.DF&F!!- ".?"0-!.D6?&.A50F&-&.0F.56ED&AN- !6 .-"
+01F F0é!-./-!.ACA -E- "!.-".T6&E?0-&./-!.&-56EEF /F"6 !S.v0.D-?"./6 5.-á!"-&
+/-!./C-&=- 5-!.- "&-.0-!."AE6= F=-!.&-5?-00!>.6?.- "&-.5-?áR5.-"./-!.56 !"F"!
+6?./A50F&F"6 !.D&A!- "A!.DF&.F00-?&!S
+## A  !"
+## 3P/0MV%$M&!0M!%&-./!0$!1&$%!234!5 56
+U.}F "RÅ-&&-R/-!Rs6&D!>.0-.56 /?5"-?&./?."&F Öt_Öa.-TT-5"?-.01F556!"F=->.D?!.
+&AF0!-.01F""-0F=-S.v0.TF".? .-!!F./-.&F556&/-E- ".-".6M!-&C-.!6 ."&F >.5F&.0.-!".
+A"6  A./-.C6&.5-!.ì."&F5"6D-00-!.î.5NF&=A-!.!?&./-!.QF=6 !S.v0. -./A5#0-.F?5? -.
+F 6EF0-.FDDF&- "-.!?&.0-."&F S
+eF.56 /?"-./-.!6 ."&F .É?!n?1F?."?  -0./-.eC-& F ".!-.DF!!-.!F !.n?10. -.!6".
+ T6&EA./1F?5? .D&6M0#E-.r.5-.!?É-"S
+e-."&F .^sq.Öt_Öa.5&5?0-. 6&EF0-E- ".r.èÖ.ëE¢NS.v0.5&6!-.0-."&F .}PsÄ buè_Ö.
+!F !.&-!!- "&.0-.E6 /&-.D&6M0#E-.DF&"5?0-&>.06&!n?1r.`NÑa.0-.56 /?5"-?&.D-&ï6".
+? -.F0-&"-.&F/6S
+v0.D&6C6n?-.F06&!.01F&&o"./-.!6 ."&F .C-&!.0-.ÅÆ.Öèb.-".!1- n?-&"./-.01AC# -E- ".
+F?D&#!./?.&A=?0F"-?&.n?.0?. /n?-.n?1? -.DF&"-./1? .5NF&=-E- "./-.!6 .56 C6.
+F.N-?&"A.0-."&F .n?10.C- "./-.5&6!-&./F !.0-."?  -0./-.eC-& F "S.e-.56 /?5"-?&.
+D&- /.F06&!.0-!.E-!?&-!./-.!A5?&"A.n?.!1ED6!- "S
+## A !"
+## 3P/0MV%$M&!0M!%&-./!0$!1&$%!=>3?!@555
+SO%-4$&>0-`aaFa-%54-6%-?$%D>%$-4$&>0-4@#=B]-?&$-6%-=B&$C%D%04-.#-4$&>0-aTFaNV
+e6&!./?.5&6!-E- "./?."&F .^sq.Öt_Öa.r.üF&!.F?.ÅÆ.ÖÖt>.r.`NtÑ>.0-.56 /?5"-?&.
+&6?0-.0F.T- o"&-.6?C-&"-.5Ç"A.=F?5N->.0.- "- /.? .5N65.F?. C-F?./-.0F.D6&"-.5Ç"A.
+/&6">.D6?&.0?.F 6/ S
+v0.D- !-.r.? -.D&6É-5"6 ./-.MF00F!">.C?.0-.M&?".-".01- /&6">.5F&.D6?&.0?.? .- =F=-R
+E- "./-. =FMF&". ì.SSSF?&F"."FDA .r .01FCF "SSS .îS .e6&!./-.!6 . F?/"6 .FC-5 .0-!.
+=- /F&E-!>.0.DF&0-&F./-./-?á.M&?"!.- "- /?!S
+U.sN£"-00-&F?0">.C-&!.tNb`>.0.-!".=F&A.D6?&.0F!!-&.DF!!-&./1F?"&-!."&F !S.^".51-!".
+F?.E6E- ".6Ø.0.T&F 5N".01F=?00-./1- "&A->.n?10.!1FD-&ï6".n?-.0F.D6&"-.5Ç"A./&6"./-.
+0F.0656E6"C-.!16?C&-."6?"-.!-?0-S.v0.!-.&- /.56ED"-.F06&!./-!.EDF5"!.&-ï?!.DF&.0F.
+0656E6"C-.EF!>.C?.0-!./A=£"!.56 !"F"A!>. -.5&6".DF!.r.? .5N65.ED6&"F "S
+U.}F "RÅ-&&-R/-!Rs6&D!>.06&!./?.5NF =-E- "./-.&A=E-.T&- >.0.!1FD-&ï6".n?-.0-!.
+D-&!-  -!./-.0F.0656E6"C-.!6 ".- /6EEF=A-!>.n?-./-?á.EF !RE6 "6&-!.!6 ".
+F&&F5NA!.-".n?1? .56?D.F.A"A.F!!A A.F?. C-F?./-.0F.D6&"-S
+P]
+
+## Página 24
+
+## A A!"
+## 3P/0MV%$M&!0M!%&-./!0$!1&$%!=>3?!5 65
+SO%-4$&>0-aTNa-%54-6%-.%#b>cD%-4$&>0-4@#=B]-?&$-6%-=B&$C%D%04-.#-4$&>0-aTFaNV
+s-."&F .5&6!-.0-."&F .^sq.Öt_Öa.r.`NÑÖ.C-&!.0-.ÅÆ.ÖuÜ.r.sNF&EF "S.e-.56 /?5R
+"-?&.&6?0-.- ./&-5"6 ./1U =6?0oE->.F556EDF= A./1? .F?"&-.56 /?5"-?&.ì - .
+C6"?&-.î.n?.!6E 60-.!?&.0-.!#=-./?.5Ç"A./&6"S
+e6&!./?.5&6!-E- ">.0-.56 /?5"-?&.ì - .C6"?&- î.!-.&AC-00-.-".0?.!= F0-.0-.M&?"
+!-5.n?.01F.&AC-00AS.U.5-.E6E- "R0r>.0-.56 /?5"-?&./?."&F .ÖtaÖ.5&6".r./?.MF00F!"
+"6EMA./-."&AE-!./?."&F Öt_Öa.-".D-&ï6".5-.M&?".56EE-.? .5N65.•.M&?".!6?&/
+6? . /- . D-"" . 5N65 . !?CF " . 0-! . /A50F&F"6 ! .•. 0 . -. "- " .DF! . 56ED"- . /- .5-""-
+&-EF&n?-.-".56 " ?-.!6 .5N-E S
+e6&!./-.!6 .F&&CA-.r.U =6?0oE->.0-.56 /?5"-?&.56 !"F"-.0-!.56?D!.D6&"A!.!?&.0F.
+D6&"-.-".!6 .E6 "F ">.F !.n?-.!?&.0-!.D-&!-  -!./-.0F.0656E6"C-S
+s1-!" . r . 5- . E6E- ">. 56ED"- . "- ? . /- . 01ED6&"F 5- . /- . 01EDF5" . 56 !"F"A> . n?10.
+56 "F5"-.0-.&A=?0F"-?&.D6?&.F&&o"-&.0-."&F .5&6!AS.@1FD&#!.0-!.56 C-&!F"6 !.- .
+56?&!.r.0F.&F/6.!60R"&F >.0.56ED&- /.n?1? ."&F .!?CF ".F.A"A."6?5NAS
+v0. /n?-.A=F0-E- ".n?-.0-.TF F0.FCF "R/&6"./-.!F.0656E6"C-. -.T6 5"6  F".DF!.
+/-D?!.0-./ADF&"./?."&F .r.]6&/-F?á.ß6?&5F/-.-".F !. -.D-&E-""F".DF!./-.M- .
+D-&5-C6&.0-.5Ç"A./&6"./?."&F .-".01EDF5".D&6/?"S
+## A 5!"
+### 3P/0MV%$M&!e!$/!fP.%M&$ m!0-/N!`-!`PVPnP%.f$!0M!%&-./!1&$%!5 65
+s-.56 /?5"-?&.ì.- .C6"?&-.î.-!".? .F=- ".n?.DF&".D&- /&-.!6 .!-&C5-.r.U =6?R
+0oE-S.v0.F./6 5.0F.D6!!M0"A.&A=0-E- "F&-./-.C6éF=-&./F !.0F.0656E6"C-./?.ÖtaÖS
+v0. /n?-.n?1F?.E6E- "./?.5&6!-E- ".FC-5.0-."&F .^sq>.0.F.A"A.&AC-00A.DF&.? .
+M&?".!-5S.U.5-.E6E- "R0r>.0.- .F.TF".DF&".r.!6 .5600#=?-.-".0?.F.F06&!./-EF /A.!10.
+ -./-C&F".DF!.!1F&&o"-&S.e-.56 /?5"-?&./?."&F .ÖtaÖ>.DF!.56 CF 5?>.0?.F.6MÉ-5"A.
+n?-.5-./-CF".o"&-.0F.D&6É-5"6 ./1? .MF00F!"S
+## A B!"
+## 3P/0MV%$M&!0M!%&-./!0$!1&$%!=>3?!BC@5
+SO%-4$&>0-dU`Fa-%54-6%-4$&>0-&==>.%04]-?&$-6%-=B&$C%D%04-.#-4$&>0 aTFaNV
+e6&!./?.5&6!-E- "./?."&F .^sq.Öt_Öa.!6?!.0-."?  -0./-.eC-& F ".r.`NÑa.C-&!.0-.
+ÅÆ.ÖèÑ>b``>.0-.56 /?5"-?&.&6?0-.- ./&-5"6 ./1U =6?0oE-S.v0.&-!!- ".? .C60- ".
+5N65.!6?/F >.!F !.F?5? .!= -.FCF "R56?&-?&S
+Å-?.FD&#!.0-.5N65>.0.!-.&- /.56ED"-.n?-.!6 .D6= -".-!".5F!!A.-".n?-.!F.0656E6R
+"C-.-!".!A&-?!-E- ".- /6EEF=A-S
+v0.F&&C-. AF E6 !.r.D&6C6n?-&.01F&&o"./-.!6 ."&F .FC-5.0-.M6?"6 .D6?!!6&./1?&R
+=- 5-. f]Å.†q°m>.MF!!-& .0-.DF "6=&FDN->. /A50- 5N-&. 0-. != F0 ./1F0-&"- .&F/6.
+f}Uqm.-".56 "F5"-&.0-.sc°s./-.]6&/-F?á.D6?&./A50F&-&.n?-.0F.E6"A./-.0F.5FM -.
+/-.56 /?"-.F.A"A.F&&F5NA-.DF&.0-./-& -&."&F .5&6!-?&S
+PP
+
+## Página 25
+
+### tcP%n% D 0$ï!"%1"!%" /"O#!5/"4" 5!%1"!%>0 1"!%O/0=N#A6"!%"5
+### E 3"/!05# !%/01#%!$n5/0# 
+## A !"
+### #$N!E-/0$N!R&-O].oM$N!0$N!%&-./N
+s-!.MF /-!.=&FDNn?-!. !"F00A-!./F !.0-!.0656E6"C-!. /n?- ".0F.C"-!!->.0-.
+&-!D-5"./-!.!= F?á>.0-."-ED!.A56?0A.-"./C-&!.A0AE- "!.!A5?&"AS
+e-!.F  6"F"6 !.56ED0AE- "F&-!."&6?CA-!.!?&.5-!./65?E- "!.6 ".A"A. !5&"-!.
+FD&#!.01F55/- ".DF&.0-.5F/&-."&F5"6 .&-0-CF ".0F.MF /-S
+### n%0%ñ%$"%5/0# %@M%Å]PÅR
+s-."&F .5&5?0-.r.èÖ.ëE¢N.f&-DA&A.- .&6?=-m.06&!./-.01F55/- ".FC-5.0-."&F .buè_Ö.
+- ./-!!6?!./-.0F.C"-!!-.0E"-./-.!F.5F"A=6&-.ft``.ëE¢N.D6?&.? .U.t``.r.5-".
+- /&6"mS
+Ä#O6/"%Å%Ö%@í5/0#5%1"%$0%>0 1"%O/0=N#A6"%16%5/0# %Å]PÅR
+### n%>%ñ%$"%5/0# %aoÄ%vÅÅPÅ
+s-."&F .5&5?0-.r.ab.ëE¢N.f&-DA&A.- .&6?=-m.06&!./?.5N65.FC-5.0-.5NF&=-E- "./?.
+"&F .Öt_Öa>.- ./-!!6?!./-.0F.C"-!!-.0E"-./-.!F.5F"A=6&-.ft``.ëE¢N.D6?&.? .U.
+t``.r.5-".- /&6"mS
+Pt
+
+## Página 26
+
+Ä#O6/"%Ç Ö%@í5/0#5%1"%$0%>0 1"%O/0=N#A6"%16%5/0# %vÅÅPÅ
+### n%E%ñ%$"%5/0# %aoÄ%Å]RÅ
+s-."&F .5&5?0-.r.tbè.ëE¢N.f&-DA&A.- .&6?=-m.06&!./?.5N65.FC-5.0-.5NF&=-E- "./?.
+"&F .Öt_Öa.- ./-!!6?!./-.0F.C"-!!-.0E"-./-.!F.5F"A=6&-.ftu`.ëE¢N.D6?&.? .ü.
+tu`.r.5-".- /&6"mS.eF.5N?"-./-.C"-!!-.- &-=!"&A-.r.t_Ñ.ëE¢N.56&&-!D6 /.r.? .
+Ovü.tÖ`>./6 ".0-!.F  6 5-!.-".-áA5?"6 !.!6 ".!"?A-!.r.5-".- /&6"S
+Ä#O6/"%^%Ö%@í5/0#5%1"%$0%>0 1"%O/0=N#A6"%16%5/0# %Å]RÅ
+PÅ
+
+## Página 27
+
+### %n%1%ñ%$"%5/0# %aoÄ%Ç^vPÅ
+s-."&F .5&5?0-.r.a_.ëE¢N.06&!./?.5N65.FC-5.0-.5NF&=-E- "./?."&F .Öt_Öa.- .
+/-!!6?!./-.0F.C"-!!-.0E"-./-.!F.5F"A=6&-.ft``.ëE¢N.D6?&.? .U.t``.r.5-".
+- /&6"mS
+Ä#O6/"%v%Ö%@í5/0#5%1"%$0%>0 1"%O/0=N#A6"%16%5/0# %Ç^vPÅ
+## A!"
+### #$N!$/&$R.N%&$n$/%N!0$!`-!&-0.P!NP`"%&-./
+### n%S"%5/0# %@M%Å]PÅR
+e-.56 /?5"-?&./?."&F .Öt_Öa>.r.`NÑa>. /n?-.n?-.06&!./-.0F.&A5-D"6 ./-.01F0-&"-.
+&F/6>.0.F.FDD0n?A.0-!.D&-!5&D"6 !./1F&&o".EEA/F".FC-5.0-./A50- 5N-E- "./?.]Å.
+†q°S.e-.&A=?0F"-?&.0?.F./-EF /A.- !?"-./-.&-!"-&.!?&.D0F5-.- .F""- /F "./-!.
+6&/&-!.?0"A&-?&!S
+### n%S"%5/0# %aoÄ%vÅÅPÅ
+e-.56 /?5"-?&./?."&F .èÖÖ_Ö>.06&!./-.!6 .!"F"6  -E- ".r.sN£"-00-&F?0">.!1-!".
+EF T-!"A . ? - . !-?0- . T6! . D6?& . /-EF /-& . r . n?-00- . N-?&- . 0 . D6?&&F . DF&"& . /-!.
+=F&F=-!>.C-&!.tNbb-S5@>4-?6#5-./TBTd-&?$c5-6/&==>.%04VS
+### n%S"%5/0# %aoÄ%Å]RÅ
+e-.56 /?5"-?&./?."&F .ÖtaÖ>.FD&#!.!6 .- "&A-./F !.0-!.=F&F=-!./1U =6?0oE->.
+56 "F5"-&F.0-.&A=?0F"-?&.D6?&.01FC!-&./-.01 5/- ".n?10.F.-?.FC-5.0-."&F .5&6!-?&.
+D&A5A/- ">.0.-!".`NÖb.- C&6 .fU-D>0#4%5-&?$c5-6/&==>.%04-.#-4$&>0-dU`FamS
+v0. /n?-.n?10.F.5&6!A.? ."&F ./F !.0F.&FED-./-.6?"N-&!S.v0.5&6éF".n?-.51A"F".? .
+5F006?.n?10.FCF".D&!>.EF!.FDDF&-EE- ">.5-."&F .FCF".n?-0n?-.5N6!-.n?./AM6&R
+/F".-".n?.F.FM∞EA.!F.EF5N -.f6@=@D@4>E%VS
+PÇ
+
+## Página 28
+
+### n%S"%5/0# %aoÄ%Ç^vPÅ
+e-.56 /?5"-?&./?."&F .buè_Ö.FC!-&F.EEA/F"-E- ".0-.&A=?0F"-?&.n?10.F.-?.? .
+=&6!.5N65.FC-5.0-."&F .5&6!A>.n?10.-!".F&&o"A./F !.0-."?  -0./-.eC-& F "S.e-.5N65.
+FC-5.0-."&F .5&6!A.F.D&6C6n?A.01F&&F5N-E- "./-.0F.E6"A./-.0F.5FM -./-.56 /?"-.
+/-.0F.0656E6"C-S
+@F !.0-.EoE-.- &-=!"&-E- ">.6 .- "- /.0-.&A=?0F"-?&.56 "F5"-&."6?!.0-!.F?"&-!.
+"&F !./?.!-5"-?&>./6 ".0-."&F .Öt_Öa>.D6?&.!1F!!?&-&./-.0-?&.F&&o".- .D0?!./?.!= F0.
+/1F0-&"-.&F/6./A50- 5NA.DF&.0-.56 /?5"-?&./?."&F .buè_ÖS
+### tct%n% S2" O# %ë/"!5#"/%aóO!û0 %ÅévuS
+## AA !"
+### 3-&-V%^&.N%.oM$N!R^/^&-`$N
+@1? .D6/!./-.tÑ>b "6  -!>./1? -.0F&=-?&./-._ èÜ` EE.-"./1? -.06 =?-?&./-.u ab`.EE
+- C&6 >.01- = .T6&-!"-&.-!".An?DA./1? .M&F!./-."&FCF0.F&"5?0A.!60/F&-./-.0F
+"6?&-00-./-.56 /?"-S.v0.-!".E? ./1? -."o"-./1FMF""F=-./-."éD-.}ë6=!ÉF u`t.vv
+D-!F ".ab` ë=S
+Ä#O6/"%é%Ö%}N5%E050$O6"%16%aóO!û0 %ÅévuS
+P^
+
+## Página 29
+
+FB5"%120>0550O"%aóO!û0 %^Q]%bb
+Ä#O6/"%R Ö%}N5!%E050$O6"%16%aóO!û0 %Åév%"5%1"%$0%5B5"%120>0550O"
+e1F =0-./-.&6"F"6 ./?.M&F!.FC-5.0F.5FM -./-.56 /?"-.-!"./-.≤.tÑbV.-".0F.06 =?-?&.
+?"0-./?.M&F!."A0-!56Dn?-.-!"./-._.í._>b.E#"&-!>.5-.n?.6TT&-.? -.D6!!M0"A./-.
+"&FCF0.!?&.t`.E#"&-!.- C&6 S
+e-.!5NAEF.5R/-!!6?!.&-!""?-.0-!./E- !6 !.-!"EA-!./1FD&#!.0F./65?E- "F"6 .
+"-5N n?-S
+Pv
+
+## Página 30
+
+ßt
+ß_
+]tÇü
+U
+ßF?"-?&.E E?E.fr.01F&&o"m
+_.ab`.EE
+ßF?"-?&.EFáE?E.f- ."&FCF0m
+Ñ.ab`.EE
+]
+@A=F=-E- ".E E?E
+`.EE
+@A=F=-E- ".EFáE?E
+t.__`.EE
+^EDF""-E- "
+s
+Ö.tu`.EE
+fM&F!./1 50 F!6 .06 =!m
+^EDF""-E- "
+Ñ.bè`.EE
+fM&F!./1 50 F!6 .56?&"!m
+e6 =?-?&.EFáE?E
+@
+u.bb`.EE
+fM&F!./1 50 F!6 .56?&"!m
+e6 =?-?&.EFáE?E
+u.ab`.EE
+fM&F!./1 50 F!6 .06 =!m
+^
+eF&=-?&.- "&-.D -?!
+t.ÑÜ`.EE
+Ä
+eF&=-?&.N6&!.D -?!
+_.èÜ`.EE
+e6 =?-?&.M&F!.ft#&-.DF&"-m
+ßt
+_.b``.EE
+e6 =?-?&.M&F!.f_#E-.DF&"-m
+ß_
+_.b``.EE
+Ä#O6/"%]Q%Ö%aEN-40%1"%$2" O# %aóO!û0 %ÅévuS
+$"!%1#4" !# !%1"%$2" O# %aóO!û0 %/"=/5-"!%!6/%E"%!EN-40%! 5%1  -"!
+T%5#5/"%# 1#E05#ë
+Pé
+
+## Página 31
+
+## AA!"
+### p.NOPN.%.1!0a.nnPE.`.N-%.P/!0$!`-!%PM&$``$!$%!0$!NP/!E&-N
+Å6?&.D-&E-""&-.0-."&F !D6&"./-.01- = .T6&-!"-&>.0-./!D6!"T./1EE6M0!F"6 .D&AC?.
+DF&.0-.56 !"&?5"-?&./-.01- = ./6".o"&-.E!.- .D0F5-.FCF ".0-./AD0F5-E- "S
+e-.!5NAEF./-.D& 5D-.5R/-!!6?!.00?!"&-.0-!.DF&"-!.Tá-!.r.E? &./-.5-./!D6!"T.
+-EDo5NF ".F !.0F."6?&-00-./1-TT-5"?-&.0-.E6 /&-.E6?C-E- ".&6"F"TS
+}/# E#="%12#44>#$#!05# %
+1"%$0%56/"$$"%"5%16%>/0!%
+=0/%1"!%O6=#$$"!
+ !"#$%"&$-"./$0.12%%"&$-"$3%450"$-6#2" !5!2 $=>?$@$%65B5 !$
+-"$%5$4532 "$1.#$"C1D4F"#$4"%%"M42$-"$!.# "#N$O"&$!#2&$!#.&$
+=P?$& !$1#QB.&$5S2 $T."$%5$4532 "$1.2&&"$D!#"$2CC32%2&Q"$-5 &
+-"./$1&2!2 &$-2SSQ#" !"&N
+Ä#O6/"%]] Ö%@í"4=$"%1"%1#!=!#5#ë%12#44>#$#!05# 
+eF.DN6"6./-.0F.T=?&-.tu.E6 "&-.0-./!D6!"T./-.01- = ."&F !D6&"A.FD&#!.F55/- "S
+PR
+
+## Página 32
+
+## AAA!"
+### 3PnO-%.E.`.%^!-f$V!`$!R-E-&.%!0$N!fP.$N!1$&&^$N!1&-/q-.N$N
+e-.=FMF&"./-!.C6-!./?.&A!-F?.T-&&A.T&F ïF!.D-&E-"./-.TF&-.5&5?0-&.? .QF=6 .n?.
+- "&-./F !.0-!./E- !6 !.5R/-!!6?!S
+Ä#O6/"%]P%5R56 "&-.Ö%&0>0/#5%# 5"/ 05# 0$%1"%
+EN0/O"4" 5
+### Ä#O6/"%]t%5R/-!!6?!%d
+### n% @ % N065>. 01- = . T6&-!"-&. - . D6!"6 .
+/-.&-D6!..50F!!n?-. 56EDF"M0-.FC-5.0-.
+=FMF&"S
+### n%D6%4#$#"6>.0F.D6!"6 . /n?A-.DF&.0F.
+/65?E- "F"6 ."-5N n?-.- .D6!!-!!6 .
+/?. 5NF&=-?&. -". n?. F?&F". ED6!A. ? .
+"&F !D6&".-á5-D"6  -0S
+### n% @ % >0!Ñ .0F. !60?"6 . F/6D"A-. DF&. 0-.
+5NF&=-?&
+^ D6 "00A> 0- =FMF&"  "-& F"6 F0
+Ä#O6/"%]t%Ö%@ O# %EN0/O-%!6/%$0%†0O %FèDéQQ
+tQ
+
+## Página 33
+
+### tcÅ%n% p#!=!#5# !%0==$#E0>$"!%06í%=-/05# !%120//#40O"
+## A5 !"
+### #$N!O&$NV&.O%.P/N!0$!V]-&R$n$/%
+e-!.D&-!5&D"6 !./-.5NF&=-E- "./-.01† 6 .v "-& F"6 F0-./-!.sN-E !./-.T-&>.
+56 !""?- " . 0- . &ATA&- "-0 . FDD0n?A . DF& . 01- !-EM0- . /-! . - "&-D&!-! . T-&&6CF&-!.
+E-EM&-!./-.5-""-.6&=F !F"6 S
+eF.T5N-.èSÑ.D&A5!-.0-!.&#=0-!.56 5-& F ".0-!.CAN5?0-!.!?&.&6?-!.R.ü6&.01 "A=&F0"A
+/-.0F.T5N-.- .F  -á- èS
+Å6?&.5-.n?.56 5-& -.0-!.D#5-!.E6M0-!./-!.CAN5?0-!>.0F.T5N-.D&A5!-.n?-.ì e-!.
+D#5-!.56?0!!F "-!>.6!500F "-!.6?.DC6"F "-!.fDF&.-á-ED0-.T0#5N-!./-.=&?-!>.
+/!D6!"T!./-.0-CF=-≥SSS¥m.!6 ".TáA-!.EA5F n?-E- ".6?.EE6M0!A-!./-.TFï6 .
+n?- .0-?& .D6!"6 . - . D?!!- .!- .E6/T-& .D- /F ".0- ."&F !D6&".f&A!!"F 5- . /-!.
+FEF&&-!.r.0F.&?D"?&-.d.E S.t```./FP>./F !.0-.5F!./-.T0#5N-!./-.=&?-!.d.E S.
+Ö```./FPm.îS
+c .C6".n?-.!.016 .F!!E0-.0-.M&F!./-.01- = .T6&-!"-&.r.? .T0#5N-./-.=&?->.5-.n?.
+-!".&F!6  FM0->.0-!.FEF&&-!.n?.0-.EF "-  - "./6C- ".FC6&.? -.&A!!"F 5-./-.
+Ö```./FP.S
+## A5!"
+## #$N!0.NOPN.%.P/N!VP/V$&/-/%!`$N!N-/R`$N
+e6&!n?-./-!.!F =0-!.!6 ".?"0!A-!.D6?&.F!!?&-&.01FEF&&F=-./-!.5NF&=-E- "!>.
+5-00-!R5./6C- ".o"&-.56 T6&E-!.r.0F. 6&E-.-?&6DA-  -.^P.t_tabR_>.FC6&.0-.
+ C-F?./-.&A!!"F 5-. A5-!!F&-.-".o"&-. !"F00A-!.!-06 .0-!.&#=0-!./-.01†vsS
+e-! . !F =0-! . !-06 . 5-""- . 6&E- . !6 " . &-DA&A-! . DF& . /-! . A"n?-""-! . 56EE- . 5R
+/-!!6?!S
+S%°10o¢%V5" !# %40í#40$"%1265#$#!05# _
+o64-/%12#1" 5#ë#E05# %Ñ%1"%!-/#"Ñ%1"%5/0ì0>#$#5-%"5%405#ê/"%65#$#!-"
+Ä6/ #!!"6/
+D  -"%1"%ë0>/#E05# 
+o64-/%1"%$0% /4"
+0=0E#5-%12040//0O"
+@ëë/5%1"%5" !# % /40$#!-
+o64-/%12#1" 5#ë#E05# %Ñ%1"%!-/#"Ñ%1"%5/0ì0>#$#5-%"5%405#ê/"%65#$#!-"
+S O6"6/
+m"!!0O"%1203"/5#!!"4" 5
+o4%16%ë0>/#E0 5%6%16%ë6/ #!!"6/Ñ%$"6/%!ï4>$"Ñ%40/A6"%1-=!-"%6%565"%065/"%
+#1" 5#ë#E05# %E$0#/"
+D  -"%1"%ë0>/#E05# 
+o64-/%1"%$0% /4"
+`fS@fMa%p2@Fbqf@FF@
+]0-?->.D6?&.0-!.!F =0-!.- .D60é-!"-&
+ü-&"->.D6?&.0-!.!F =0-!.- .D60éFE/-
+]&? ->.D6?&.0-!.!F =0-!.- .D60éD&6Dé0# -
+Ä#O6/"%]Å%Ö%d5#A6"55"%1"%!0 O$"% /4"%@o%]P]RÇnP
+t]
+
+## Página 34
+
+@F !.0-!.E6/-!./1-ED06./-!.!é!"#E-!./1F&&EF=-.DF&.!F =0-!>.0-!.-á=- 5-!.
+!?CF "-!.!6 ".-áD05"A-!.d
+ 0-!.!F =0-!./1F&&EF=-./6C- ".o"&-.5N6!-!.-".?"0!A-!.- ."- F ".56ED"-./-.0F.
+5FDF5"A./1F&&EF=-. A5-!!F&->./?.E6/-./1?"0!F"6 .-"./-.0F. F"?&-./-.0F.
+5NF&=-.§
+ 0-.5N6á./-!.!F =0-!.r.?"0!-&.-!"./A"-&E A.DF&.0F."F00->.0F.T6&E-.-".0-.D6/!./-.
+0F.5NF&=->.DF&.0F.EA"N6/-./1?"0!F"6 >.0-."&F !D6&".-".0F. F"?&-./?.5NF&=-E- ".§
+ 01FEF&&F=- . E EF0 . -!" . 56 !""?A . /1? - . DF&- . /- . !F =0-! . /1F&&EF=- . D6?&.
+01FEF&&F=- . DF& . T&6""-E- " . -" . /- . /-?á . DF&-! . /- . !F =0-! . /1F&&EF=- . D6?&.
+01FEF&&F=-./&-5".§
+ 0-!.!F =0-!./1F&&EF=-.5N6!-!./-C&6 ".o"&-.r.0F.T6!.!?TT!FEE- ".&A!!"F "-!.-"
+/-.06 =?-?&.FDD&6D&A-.F?.E6/-./1?"0!F"6 .§
+ 0-. 6EM&-./-.!F =0-!./1F&&EF=-./6".o"&-.56 T6&E-.r.01^P.t_tabR_.§
+ 0-!./!D6!"T!./1F&&EF=-./6C- ".o"&-.- .DF&TF".A"F">./F !.0-.5F!.56 "&F&->.0-!.
+!F =0-!./6C- ".o"&-.&-"6?& A-!.F?.TFM&5F ".f56?D?&-!>.T!!?&-!>.- "F00-!>SSSm.§
+ !-?0-!.0-!.!F =0-!.0!M0-E- ".A"n?-"A-!.-".EF&n?A-!.D-?C- ".o"&-.?"0!A-!.§
+ -00-!. -./6C- ".DF!.o"&-.?"0!A-!.56?DA-!.6?. 6?A-!.§
+ !-?0-.? -.!?&5NF&=-./-!.!F =0-!./-.b`./FP.-!".F55-D"A-.§
+ 01F&&EF=-. -./6".DF!.o"&-.-TT-5"?A.- .MF!.§
+ 01F&&EF=-./-.0F.5NF&=-./-C&F.o"&-.-TT-5"?A.D6?&.n?-.!6 .5- "&-./-.=&FC"A.!6".0-.
+D0?! . D&65N- . D6!!M0- . /- . 0F . 0= - . 5- "&F0- . /- . 01Fá- . 5- "&F0 . 06 ="?/ F0 . /?.
+CAN5?0-.§
+ 0-!.D6 "!./1F 5&F=-.!?&.0-.D0F 5N-&.!6 ".r.AC"-&>.0.TF?".F&&E-&.0F.5NF&=-.FT .
+n?1-00-. -.D?!!-.!-./AD0F5-&>.!-.&-"6?& -&>.&6?0-&>."6EM-&./?.CAN5?0-.6?.TF&-.
+MF!5?0-&.0-.CAN5?0-.fT&- F=-.M&?!n?-mS
+## A5A!"
+### p.NOPN.%.P/N!O&^fM$N!OPM&!`a$/R./!=bPRNF-/!0-/N!`-!0PVMn$/%-%.P/!
+### %$V]/.oM$
+e-.D&6D&A"F&-. 1F.DF!.D?.56EE? n?-&.F?á.- n?o"-?&!.? -. 6"5-./1?"0!F"6 .
+56ED0#"-./-.01- = .}ë6=!ÉF .ÖÜèíeS
+@F !.0F./65?E- "F"6 ."-5N n?-.56EE? n?A-.F?á.- n?o"-?&!>.!-?0-!.0-!.&#=0-!.
+/1F&&EF=- . /- . 0F . "o"- . /1FMF""F=- . T=?&F- "S . e-! . &#=0-! . /1EE6M0!F"6 . /- . 0F.
+"6?&-00-. 1é.T=?&F- ".DF!S
+Å6?&.01FEF&&F=-./-.0F."o"-./1FMF""F=-.D- /F ".0-."&F !D6&">.0F./65?E- "F"6 ."-5NR
+ n?-.56EE? n?A-.DF&.0-.5NF&=-?&.D&-!5&".0F.E!-.- .D0F5-./1? .5NF∞ F=-.- "&-.
+0F."o"-.-".0-.M&F!S
+tP
+
+## Página 35
+
+Ä#O6/"%]Ç%Ö%@í5/0#5%1"%$0%1E64" 505# %5"EN #A6"%16%aóO!û0 %ÅévuS
+### tcÇ%n%  !505!%!6/%$20//#40O"%1"%$2" O# %aóO!û0 %ÅévuS%!6/%$"%
+## †0O 
+## AB !"
+### sPN.%.P/!0$!%&-/NOP&%!0$!`a$/R./!=bPRNF-/!5c@d#
+e-!.D-&!6  -0!./-.0F.!65A"A.F-&N6T-&.6 ".5NF&=A.01- = .T6&-!"-&.!?&.? .QF=6 .
+!?&MF!!A.OêU.Ü``S.s1A"F".0F.D&-E#&-.T6!.n?-.5-.5NF&=-?&.-áDA/F".5-."éD-.
+/1- = .!?&./-!.QF=6 !S.@1FD&#!.!-!./A50F&F"6 !>.01- = .T6&-!"-&.}ë6=!ÉF .ÖÜèíe.
+F.A"A.5NF&=A.!F !.D&6M0#E-S.e-.5NF&=-E- ".!1-!".-TT-5"?A.DF&.? .n?F.r.5NF&=-R
+E- ".- .M6?"S
+U !>.01- = .}ë6=!ÉF .ÖÜèíe.F.A"A.5NF&=A.FC-5 d
+ 0-.M&F!./-."&FCF0. 6 .5NF∞ A.-".F006 =A.D6?&.&-!D-5"-&.0-.=FMF&".T-&&6CF&-.
+f5T ÑSÑSÑm
+ 0F."6?&-00-.-".0-.M&F!.FC-5.? .F =0-./-.t`.r.tbV.C-&!.0F.=F?5N->.5F&.0-.5NF&=-?&.
+C6?0F". !"F00-&.0F."o"-./1FMF""F=-.0-.D0?!.D6!!M0-.F?.5- "&-./?.QF=6 .!?&./-!.
+5F0-!./-.M6!S
+e-!.&6?-!.6 ".A"A .EE6M0!A-!.FC-5./-!.5F0-!.EA"F00n?-!.T6?& -!.FC-5 .0-.
+QF=6 S
+tt
+
+## Página 36
+
+## AB!"
+### >P/!f$&&PM.``-R$!0$!`-!%PM&$``$!$/!&P%-%.P/
+e-.C-&&6?00F=-./-.0F."6?&-00-.DF&.0-!.=6?D00-!.D&AC?-!.r.5-".-TT-". 1F.DF!.A"A.
+-TT-5"?AS
+v0.-!".D6!!M0-.n?-.5-.C-&&6?00F=-. -.!6".DF!.D6!!M0-./F !.0F.D6!"6 .MF!-.
+F/6D"A-.DF&.0-.M&F!./-.01- = S
+eF.DN6"6.5R/-!!6?!.E6 "&-.0F.D0F" -.FD&#!.01F55/- ">.!F !.0F.E!-.- .D0F5-./-!.
+=6?D00-!>.F?5? -."&F5-. 1FéF ".A"A.56 !"F"A-S.e1FM!- 5-./-!.=6?D00-!.F.TFC6&!A.
+01F556ED0!!-E- "./-.E6?C-E- "!./-.&6"F"6 ./-.0F."6?&-00->. 6 .&-"- ?-.DF&.0-!.
+M?"A-!S
+%&-&./012/13&0/1/4156=./12/01
+>?@5&66/012A&33?B&6&0=C&?412/16=1
+C?@%/66/1/C12/10?41B%=012/1C%=D=&6
+Ä#O6/"%]^ Ö%`/#ë#E"!%12#44>#$#!05# %16%aóO!û0 %ÅévuS
+## ABA!"
+### U&&.n-R$!0$!`-!%t%$!0a-E-%%-R$!$%!0M!E&-N!0M!=bPRNF-/!5c@d#
+## D//#40O"%1"%$0%5B5"%120>0550O"
+eF.T5N-.†vs.èSÑ. -.D&AC6".DF!./-.&#=0-!.DF&"5?0#&-!.D6?&.0-.5F0F=-.-".01FEF&&F=-.
+/1? -.D#5-."-00-.n?-.0F."o"-./1FMF""F=-S
+s-00-R5.F?&F"./µ.o"&-. !"F00A-.- .&-!D-5"F ".0-!.D&-!5&D"6 !.=A A&F0-!./-.5F0F=-.
+-"./1FEF&&F=-./-!.5NF&=-E- "!."-00-!.n?1-00-!.T=?&- ".F?."6E-.t./-!.D&-!5&D"6 !.
+/-.5NF&=-E- "./-.01†vsS
+e-.5NF&=-?&.F.5F0A.0F."o"-./1FMF""F=-.FC-5./-!.5N-C&6 !.- .M6!./-.TFM0-.!-5"6 .
+ft``ít``.EEm. 6 .TáA!.-".F.56ED0A"A.01EE6M0!F"6 ./-.0F."o"-./1FMF""F=-.DF&.
+? .FEF&&F=-. /&-5".FC-5.? -.!F =0-.F55&65NA-.F?.M6&/./?.QF=6 S
+s-./!D6!"T>. -.&-!D-5"F ".F?5? -.&#=0->. -.D6?CF".n?-.!-./A!-EDF&-&.F?.56?&!.
+/?."&F !D6&"S
+tÅ
+
+## Página 37
+
+0$"!%" %>#!%  %ë#í-"!
+ÅN6"6.}6?&5-.!65A"A.F-&N6T-&
+Ä#O6/"]v%Ö%FB5"%120>0550O"%  %ë#í-"%06%=$0 EN"/%16%†0O 
+@ %/6O"Ñ%$"!%463"4" 5!%5/0 !3"/!06í%"5%$ O#561# 06í%=!!#>$"!
+ÅN6"6.}6?&5-.!65A"A.F-&N6T-&
+Ä#O6/"%]é%n%a0 O$"!%" %>/1%1"%E0#!!"
+}?&.0-!.T=?&-!.tè.-".tÜ.5R/-!!?!.D&!-!.FCF ".0-./ADF&"./-.6!MF5NRP-5ëF&-0û>.
+FD&#!.0-!.6DA&F"6 !./-.5NF&=-E- ".-"./1F&&EF=->.6 .D-?".&-EF&n?-&.0F.D6!"6 .
+/-!.5&65N-"!.- .M6?"./-.!F =0-. !"F00A!.- .M6&/?&-./?.QF=6 S
+tÇ
+
+## Página 38
+
+## D//#40O"%16%>/0!%1"%$2" O# 
+Å6?&.56ED0A"-&.01EE6M0!F"6 .- .&6"F"6 ./?.M&F!.-"./-.0F."6?&-00->.0-.5NF&=-?&.F.
+56ED0A"A.!6 .F&&EF=-.DF&.? -.!F =0-.r.ERM&F!./-._.b``./FPS
+.s-./!D6!"T. 1-!".DF!.56 T6&E-.F?á.D&-!5&D"6 !.d
+ 01FEF&&F=-. /&-5".FC-5.? -.!-?0-.!F =0-. -.D-&E-".DF!.? -.EE6M0!F"6 .
+"&F !C-&!F0-.!F"!TF!F "-./?.M&F!.-"./-.0F."6?&-00-
+ 0F.&A!!"F 5-./-.0F.!F =0-.-!". !?TT!F "->.T5N-.èSÑ.D&-!5&CF ".? -.&A!!"F 5-.
+E EF0-./-.Ö.```./FPS
+}N5%=/#!"%0=/ê!%$"%EN0/O"4" 5%16%
+aóO!û0 %" %O0/"%1"%m!>0!ENno"Eó0/"$£
+@ %/6O"Ñ%$"!%463"4" 5!%!E#$$0 5!%16%
+>/0!%"5%1"%$0%56/"$$"%aóO!û0 %ÅévuS
+Ä#O6/"%]R Ö%
+@ O# %ë/"!5#"/%aóO!û0 %EN0/O-%" %>#0#!%1"%
+]Q%T%]Çü%!6/%†0O %FèD%éQQ%!0 !%#44>#$#n
+!05# %1"%$0%56/"$$"%03"E%0//#40O"%V!0 O$"!%
+1"%P%ÇQQ%10o_%"5%E0$0O"%# 010=5-!
+t^
+
+## Página 39
+
+e-."éD-./-.!F =0-.&-D&A!- "A.!?&.0F.T=?&-._`.F.A"A.&-"&6?CA.r./C-&!.- /&6"!.!?&
+0-.QF=6 .D6&"F ".01- = .}ë6=!ÉF S.ÅF&T6!>.0-!.!F =0-!.!6 "."-00-E- ".?!F=A-!.-".
+/A0FCA-!.n?16 . 1F&&C-.D0?!.r./!" =?-&.0-?&.&ATA&- 5-.f5TS.F  -á-.ÖmS
+Ä#O6/"%PQ%Ö%a0 O$"%1"%P%ÇQQ%10o%/"5/63-"
+!6/%$"%EN0/O"4" 5
+## AB5!"
+### U/Pn-`.$N!VP/N%-%^$N!-O&vN!`a-VV.0$/%!NM&!`$N!-M%&$N!V]-&R$n$/%N!
+## $11$V%M^N!O-&!~-.$&]P1$&!
+e1- n?o"-.F.E6 "&A.n?-.!?&.0-!.F?"&-!.QF=6 !./?.5NF&=-?&.d
+ /-!.!F =0-!./16&= -!./TTA&- "-!.A"F- ". 6?A-!.- "&-.-00-!>./6 ".5-&"F -!.
+FCF- " . /-! . CF0-?&! . /- . &A!!"F 5-! . M- . /TTA&- "-! . fÉFEF! . !?DA&-?&-! . r.
+_.b``./FPm.-". 6 .F!!65FM0-!.§
+ /1F?"&-!.5&65N-"!./-.!F =0-!.&-"- F ".0-!.5NF&=-!.A"F- ".DF&T6!. !"F00A!.- .
+M6&/./-.0F.5F!!-./?.QF=6 >.!F !.&-"- ?-.§
+ 0-!. ó?/!.A"F- ".DF&T6!."&#!.D&65N-!./-.0F.M6?50-.r.50n?-"!.- =- /&F ".? -.
+&A!!"F 5-.E6 !.ED6&"F "-.§
+ 5-&"F -!.!F =0-!.!-&CF- ".DF&T6!.r.&-ED0F5-&.0-./!D6!"T./1EE6M0!F"6 .
+EA"F00n?- . D&AC? . - "&- . 0-! . DF&"-! . E6M0-! . EF! . FC-5 . /-! . &A!!"F 5-! . 6 .
+/A"-&E A-!.fFM!- "-!>.00!M0-!SSSm.§
+ /1F?"&-! . 1FCF- " . D0?! . /1A"n?-""-! . 0!M0-!> . /6 5 . C&F!-EM0FM0-E- " . "&#!.
+F 5-  -!S
+e6&!./-!./TTA&- "-!.C!"-!>.6 .F.D?.56 !"F"-&.A=F0-E- ".•.ü6&.F  -á-.Ö.•.n?-.
+5-&"F !.F?"&-!.- = !.5NF&=A!.!?&./1F?"&-!.QF=6 !.DF&.5-""-.EoE-.- "&-D&!-.
+ 1A"F- ".DF!.E? !>.-?á. 6 .D0?!>./-.0-?&!./!D6!"T!./1EE6M0!F"6 S
+tv
+
+## Página 40
+
+### tc^%n%  !#!50 E"%"5%4#!"%" %§63/"%1"%$0%=/E-16/"%1"!%" 3#!
+## !" !#>$"!
+Å6?& . F?=E- "-& . 0F . !A5?&"A . /- . 5-&"F ! . "&F !D6&"! . n?F0TA! . /- . ì !- !M0-!.î>.
+56EE-.5-!.- = !.T6&-!"-&!>.01- "&-D&!-.T-&&6CF&-.F00-EF /- .@]}q.F.E!.- .
+D0F5-.? .D&65-!!?!.DF&"5?0-&S
+@F ! . 0- . ì.êF=- !6 /-&M-NF /0? =- ? /. /-&- . U&M-"! NF0"-. aÑuS`t`tU`_.
+}-"-.a.î.f !"#$#%"&#"& --#." "!/%&0#1&" %1./"1&1#%1!23#145.0.-!".-áD05"A.n?-.5-.
+"&F !D6&".-!"./".ì.!- !M0-.î.>.F !.n?-.0-!.E-!?&-!.r.E-""&-.- .ó?C&-S
+e-!.- = !.- .5F?!-./F !.01F55/- ".&-0#C- "./-!.- C6!.!- !M0-!./-.5F"A=6&-.t.
+6Ø.016 ."&6?C-.0-!.- = !./-."&FCF?á.D?M05!.-".0-!.EF5N -!.F=&560-!S
+eF.D&65A/?&-.D&AC6".0-!."&6!.A"FD-!.!?CF "-! d
+ 0-.56 !-0.- .5NF&=-E- ".§
+ 0F.&AF0!F"6 ./?.5NF&=-E- ".§
+ 0-.56 "&Ç0-.-".01F55-D"F"6 S
+## AC !"
+### #$!VP/N$.`!$/!V]-&R$n$/%!$11$V%M^!`$! A!n-.!ÄÄ6!Å!~PNE-V]">$Vb-&$`Ç
+Å&AF0FM0-E- ".F?á.6DA&F"6 !./-.5NF&=-E- ">.? .56 !-00-&.5NF&=-E- "./-.0F.
+@]}q./6".&- 56 "&-&.0-.5NF&=-?&.-".A"FM0&.FC-5.0?.? -.56 C- "6 .D&A5!F ".0-!.
+D&-!5&D"6 !./-.5NF&=-E- ".r.FDD0n?-&.-".0-!.DF&"5?0F&"A!.56 5-& F ".0F.!A5?&R
+!F"6 ./?.5NF&=-E- ".f5F0F=->.F&&EF=->.-"5SSSmS
+e-.56 !-00-&.5NF&=-E- ".-!". "-&C- ?.0-.tÑ.EF.!?&.0-."-&&F .r.6!MF5NRP-5ëFR
+&-0û.-".F.A"FM0.0F.56 C- "6 .5RFD&#!.- .D&A!- 5-./?.5NF&=-?&S
+c .6M!-&C-.n?-.0-!.&-56EEF /F"6 !.EF ?!5&"-!.D6&"A-!.!?&.0-./65?E- ".!6 ".
+"&#!.!?55 5"-!>.M- .n?-.01- C6.D&A!- "-./-!.DF&"5?0F&"A!.FDD-0F "./-!.D&A5F?R
+"6 !./-.0F.DF&"./1? .50- ".!F !.-áDA&- 5-./-!.-áDA/"6 !.T-&&6CF&-!S
+^ .6?"&->.6 .D-?".&-EF&n?-&.n?10. 1é.F.DF!./-.D0F5-.D&AC?-.D6?&.0F.!= F"?&-./?.
+5NF&=-?&.F""-!"F ".n?10.F.M- .D&!.56  F!!F 5-./-!.&-56EEF /F"6 !S.c . 6"-.
+DF&.F00-?&!>.01FM!- 5-./-.E- "6 ./-.0F.D6!!M0"A./-./-EF /-&.0F.D&A!- 5-./?.
+56 !-00-&.06&!./?.5NF&=-E- ".- .5F!./-.M-!6 S
+v0. 1-!".DF!. /n?A.!.0-.D-&!6  -0.5NF&=A./-.01F55-D"F"6 .F.-?.? -.56D-./-.5-.
+/65?E- "S
+té
+
+## Página 41
+
+^ C6.!- !M0-
+655F!6  -0./-.5F".t
+^ "&-D&!-.-".0-?
+/-.5NF&=-E- "
+^ = !.T6&-!"-&!
+F!!-
+^ "&-.=FMF&".}PsÄ
+OéD-./-.QF=6 
+Å&-!5&D"6 !.
+/-.5NF&=-E- "
+e-!.DF&"-!.
+/AE6 "A-!./6C- ".
+o"&-.!60/-E- ".
+TáA-!.6?.F""F5NA-!
+@F"-./?.56 !-0
+}= F"?&-./?.56 !-00-&.
+- .5NF&=-E- "
+Ä#O6/"P]%Ö 3" 5# %-50>$#"%" 5/"%$0%p?aM%"5%$"%EN0/O"6/%m0#"/Në"/
+## AC!"
+### 4^-`.N-%.P/!0M!V]-&R$n$/%!`$! B!n-.!ÄÄ6
+e-.5NF&=-E- ".-!".&AF0!A.0-.tb.EF.F?.EF" S.e-.56 !-00-&.5NF&=-E- ". 1-!".DF!.
+D&A!- "S
+## ACA!"
+### 3P/%&É`$!$%!-VV$O%-%.P/!`$! B!n-.!ÄÄ6
+† -.T6!.0-.5NF&=-E- ".&AF0!A>.? -.C!"-./1F55-D"F"6 .-!".&AF0!A-.DF&.? .C!"-?&.
+!DA5F0-E- ".NFM0"A .n?>. 6?"&- . 0-! .6DA&F"6 ! .NFM"?-00-! ./- .C!"-> .CA&T- .0F.
+M6  -.FDD05F"6 ./-!.D&-!5&D"6 !.T=?&F ".!?&.0F.56 C- "6 S.U.01!!?-./-.5-".
+-áFE- >.0-.C!"-?&.A"FM0".01A"n?-"F=-. !DA5Tn?- .n?.-!".FDD6!A.!?&.0-.QF=6 .
+56 5-& A.6?.!?&.0-.D&-E-&.-".0-./-& -&.QF=6 ./?.06"S
+tR
+
+## Página 42
+
+e1ED&EA.f&ATA&- 5A.aÑuS`Ñ`tm.6&= F0.56 5-& F ".5-".- C6. 1F.DF!.A"A.&-"&6?CA.
+06&!./-.01- n?o"-.0-.`Ñ.É?00-"._``aS
+Ä#O6/"%PP%Öm1ê$"%12-5#A6"55"%•%" 3#%!" !#>$"%¶
+ÅF&.F00-?&!>.0-.C!"-?&.F.A"FM0.? .56ED"-.&- /?.r.01!!?-./-.0F.C!"-./1F55-D"F"6 .
+!6?!.0F.T6&E-./1? .0!"F=-./-!.QF=6 !.CA&TA!.E- "6  F ".0-!.AC- "?-00-!.6M!-&R
+CF"6 !S
+e1 /5F"6 .èÑt.ì.=-D&∂T".î.!?&.0-.0!" =.5R/-!!6?!.E6 "&-.n?-.0-.C!"-?&.A"F".
+56 !5- "./1FC6&.FTTF&-.r.? .ì.- C6.!- !M0-.î./-.5F"A=6&-.t.-".01FM!- 5-./1 /R
+5F"6 ./F !.0F.5606  -.ì }5Nč/- .î.E6 "&-.n?10. 1F.&ACA0A.F?5? -.F 6EF0-.!?&.
+0-!.QF=6 !.6?.0-!.5NF&=-E- "!S
+ÅQ
+
+## Página 43
+
+m"!!0O"%!6/%$"!%
+/" !"#O "4" 5!%5"EN #A6"!
+è0O V!_%
+" 1440O-V!_
+è0O %FèD%éQQ%EN0/O-%16%
+p05"%"5%N"6/"
+~-/#ë#-
+p440O"%" /"O#!5/-
+aóO!û0 %ÅévuS
+F/0#5"4" 5%"ëë"E56-
+@ 3#%!" !#>$"%1"%E05%]
+Ä#O6/"%Pt%Ö%S#!50O"%1"!%†0O !%3-/#ë#-!%# E$60 5%$"%†0O % ü%PÅ%PtéQ%ÅttÅ%PP]nv
+### tcv%n% ~#!#5"!%5"EN #A6"!%=" 10 5%$20EN"4# "4" 5
+## A@ !"
+### 4^-`.N-%.P/!0$!`-!f.N.%$!%$V]/.oM$!Å!~-//]$.n!`$! C!n-.!ÄÄ6
+]- .n?-.0-!.F 6EF0-!.56 5-& F ".0-!.5NF&=-E- "!.-".0-?&.F&&EF=-.!6- ".r.
+&-5N-&5N-&>.5-""-.C!"-."-5N n?-. -./6  -.0-?.r.F?5? .!= F0-E- ".56EE-.0-.
+E6 "&-.01A"F". T6&EF"n?-.5RFD&#!S
+Å]
+
+## Página 44
+
+## D6E6 "%0  505# 
+Ä#O6/"%PÅ%Ö%S#!5# O%1"%E4=5"%/" 16%1"%3#!#5"%T%m0  N"#4
+## A@!"
+### 4^-`.N-%.P/!0$!`-!f.N.%$!0a^V]-/R$!Å!2./N.$0`$&]P1!4Ñ1!`$! 6!n-.!ÄÄ6
+eF.T5N-.†vs.ÖètR_>.FDD05FM0-.r.01- !-EM0-./-!.- "&-D&!-!.T-&&6CF&-!.F/NA&F ".
+r.01† 6 .v "-& F"6 F0-. /-!.sN-E !./-. T-&>. D&AC6"."&6!. D6!!M0"A!. 06&!./-.
+01A5NF =-S
+ † -.C!"-."-5N n?-./"-./-.5-!!6 ¢F55-D"F"6 .&AF0!A-./F !.0-.0-?./1A5NF =-.
+n?.56 !!"-.r.CA&T-&.0F.!A5?&"A./1-áD06"F"6 ./-!.QF=6 !.-".0-?&.FD""?/-.r.
+5&5?0-&.!F !./6EEF=-.§
+ † -.C!"-."-5N n?-.N6&!.0-?./1A5NF =->.&AF0!A-.DF&.01^Ä.5A/F "->.n?.D-?".o"&-.
+5-00-.FCF "./ADF&"./?."&F .§
+ † -.!?&C-00F 5-.DF&"5?0#&-.EM&n?F "./-!.6DA&F"6 !.0A-!.r.0F.!A5?&"A./-!.
+5&5?0F"6 !.-"./-!.6DA&F"6 !./-.EF "- F 5-S.s-00-R5.56 5-& -./-!."&F !.M- .
+/- "TA!>.5&5?0F ".!?&./-!.DF&56?&!.M- ./AT !>.6?.M- ./-!.&FE-!.FTT-5"A-!.r.
+/-!.&6"F"6 !.&A=?0#&-!S
+e6&!n?-.0-.5N6á./1? -./-!./-?á./-& #&-!.6D"6 !.-!".T F0!A>.? .F556&/.- .
+56 TF 5-.-!".56 50?.- "&-.0-!./-?á.- "&-D&!-!.T-&&6CF&-!.!?CF "./-!.E6/F0"A!.
+D&AC?-!.DF&.0-!./!D6!"6 !./-.01F  -á-.a.F?.s††S
+† .F556&/.- .56 TF 5-.F.A"A.!= A.- "&-.0-!./-?á.DF&"-!.@]}q.-".^sqS.s-".
+F556&/ . -!" . FDD05FM0- . /-D?! . 0- . t-&.EF&!._``aS . U . 5- . ""&-> . 0F . C!"- . "-5N n?-.
+/1A5NF =-.F.-?.0-?.r.^ !-/0-&N6T.q]T>.F06&!.n?-.0F.D&!-.- .5NF&=-.-TT-5"C-./?.
+"&F .DF&.^sq.F.-?.0-?.r.Ä6&MF5NS
+U?.56?&!./-.5-""-.C!"->.01FDD- /5-.t./-.01F  -á-.a./?.s††.D&AC6".n?-.0-!
+F 6EF0-!.56 5-& F ".0-!.5NF&=-E- "!.-".0-?&.F&&EF=-.!6- ".&-5N-&5NA-!.-"
+!= F0A-!S
+ÅP
+
+## Página 45
+
+s-D- /F ">.F?5? -.F 6EF0-. 1F.A"A.!= F0A-.DF&.0-!.C!"-?&!>.56EE-.0-.E6 "&-.
+01A"F". T6&EF"n?-.5RFD&#!S
+## !@.@4/1=44?C=C&?4
+Ä#O6/"PÇ%Ö%S#!5# O%1"%$0%3#!#5"%12-EN0 O"%T%@# !"#1$"/Në%M>ë
+### tcé%n% m"!6/"!%T%=/" 1/"%3#!nTn3#!%1"!%5/0# !%E#/E6$0 5%10 !%1"!%
+## E 1#5# !%10 O"/"6!"!
+e-!.56 /?5"-?&!./-!."&F !.èÖÖ_Ö.-".ÖtaÖ>.n?.6 ".D-&ï?./-!.M&?"!. NFM"?-0! 06&!.
+/?.5&6!-E- "./?."&F .^sq.Öt_Öa.F?&F- ".D?.&AF=&.D6?&.F&&o"-&.0-."&F .- .5F?!-.
+!10!.FCF- ". "-&D&A"A.5-!.M&?"!.56EE-.01 /5-./1? .&!n?-.D6?&.0F.5&5?0F"6 ./-!.
+"&F !S
+Å6?&.? ."-0.5F!>.0-./65?E- ".EA"-&./?.56 /?5"-?&.}PsÄ.fOO.``bèm.D&AC6"./-?á.
+D6!!M0"A!.d
+ eF.T5N-.t`Ñ.ì sN65>.E6?C-E- ".F 6&EF0.6?.D&A!6ED"6 ./-./F =-&.!?&.0F.
+C6-.îS.s-""-.T5N-.FE# -.0-.56 /?5"-?&.r.F&&o"-&.!6 ."&F >.D?!.r.C!"-&.0F.C6-.
+-".!6 ."&F .r.0F.&-5N-&5N-./1F 6EF0-!S.s-""-.T5N-. 1FE# -.DF!.0-.56 /?5"-?&.r.
+D&- /&-./-!.E-!?&-!.?"0-!.F?.5F!.D&A!- "S
+ eF . T5N- . ÖÖÑ . ì O&F .e&#4$% - 1#% - 6% - 5>%0f -5&5?0F " . /F ! . /-! . 56 /"6 !.
+/F =-&-?!-!S.s-""-.T5N-.FE# -.0-.56 /?5"-?&.r.F&&o"-&.6?.TF&-.F&&o"-&.0-."&F .
+- .5F?!-S.@F !.0-.5F!.n?. 6?!. "A&-!!->.-00-.!?DD6!-.n?-.0-.56 /?5"-?&.TF!!-
+0-.0- .- "&-.0-.M&?".- "- /?.-".? -.AC- "?-00-.F 6EF0-.!?&.0-."&F .5&6!-?&S
+s-.0- . 1-!".DF!.AC/- ".r.TF&-.-".&-D6!-.!?&.01FDD&A5F"6 . /C/?-00-S
+Åt
+
+## Página 46
+
+e-!./65?E- "!.EA"-&./6C- "./A50 -&.!6?!.? -.T6&E-.D0?!.TF50-E- ".F!!E0FM0-.
+-".FDD05FM0-.0-!.D& 5D-!.-".0-!.&#=0-!.A 6 5A!./F !.0-!.&#=0-E- "!.-".&ATA&- R
+"-0!./-.D0?!.NF?". C-F?S
+^ .01655?&&- 5->.0-!.T5N-!.t`Ñ.-".ÖÖÑ./?./65?E- ".OO.``bè. -.T6 ".n?-.&-"&F !R
+5&&-.0-!.F&"50-!.btt.-".b`t./?.&#=0-E- ".vP.tbtÖ.f}_sm.!F !.FDD6&"-&./-!.5&"#&-!.
+?"0!FM0-! . DF& . 0-! . 56 /?5"-?&!> . /F ! . 0-! . 5&56 !"F 5-! . &- 56 "&A-! . DF& . 0-!.
+56 /?5"-?&!./-!."&F !.èÖÖ_Ö.-".ÖtaÖS
+U. 6"-&.n?1? ."-!".F56?!"n?-.-TT-5"?A./F !.0-!.EoE-!.56 /"6 !.fEoE-.- = >.
+EoE-.DF&56?&!>./-. ?".FC-5.0F.T- o"&-.6?C-&"-m.DF&.0-!.F?"6&"A!.É?/5F&-!./1U R
+=6?0oE-.F.D-&E!./-.56 !"F"-&.n?1r.01 "A&-?&./1? -.EF5N -./-."éD-./- "n?-.r.
+5-00-./?."&F .èÖÖ_Ö>.0. -.!-EM0-.DF!.n?-.01FEMF 5-.!6 6&-.56 !"F"A-.5-""-. ?"R
+0r.-EDo5N-.0-!.M&?"!.C- F "./-.01-á"A&-?&>.EF!. -.0-?&./6  -.DF!. 6 .D0?!.? -.
+ -""-.D-&5-D"6 S
+ÅÅ
+
+## Página 47
+
+### Å%n% p-/6$"4" 5%1"%$20EE#1" 5%"5%1"!%!"E6/!
+† -.5F&"-.T-&&6CF&-./?."&FÉ-".56ED0-".T=?&-.- .F  -á-._S
+### Åc]%n%  !"#$Ñ%EN0/O"4" 5%"5%0EE"=505# %1"%$2" 3#
+eF.!65A"A.F-&N6T-&.F.D&AC?./1F5N-E -&.DF&.C6-.T-&&A-./-!.- = !.T6&-!"-&!.
+/-!" A!.r.0F.T6&o"./-!.eF /-!S.e-.5NF&=-E- "./-!.- = !.-!".&AF0!A.DF&.!-!.
+D-&!6  -0!./F !.0F.=F&-./-.6!MF5NRP-5ëF&-0ûS.s-!.D-&!6  -0!. 16 ".F?5? -.
+T6&EF"6 . .-áDA&- 5-./-!.5NF&=-E- "!.T-&&6CF&-!S
+e1- "&-D&!-.T-&&6CF&-.@]}q. F!!?&- .0-."&F !D6&".T-&&6CF&-S.s6ED"-."- ?./-.0F.
+ F"?&- . /- . 0F . EF&5NF /!-> . 0- . "&F !D6&" . T-&F . 016MÉ-" . /- . 0F . D&65A/?&- . ì.- C6!.
+!- !M0-!.î./-.5F"A=6&-.tS
+## 5  !"
+### #$!VP/N$.`!$/!V]-&R$n$/%
+e-.tÑ.EF> .? .56 !-00-&.T&-".- .5NF&=-E- "./-.0F.@]}q.!-.&- /.r.6!MF5NR
+P-5ëF&-0û.-".&- 56 "&-.0-!.D-&!6  -0!./-.0F.!65A"A.F-&N6T-&S
+U.0F.!?"-./-.5-""-.&- 56 "&->.0./A0C&-.0F.56 C- "6 ./-.5NF&=-E- ".!A5?&"A.F""-!R
+"F ".0-.56 !-0.- .5NF&=-E- ".-TT-5"?A.DF&.5-""-.D-&!6  -.F?D&#!./-!.D-&!6  -0!.
+/-.0F.!65A"A.F-&N6T-&>. 6"FEE- ".0-.&-!D-5"./-.0F.T5N-.†vs.èSÑ.D6?&.? .- C6.
+!- !M0-./-.5F"A=6&-.t>.FC-5./-!.F  6"F"6 !.!?55 5"-!S
+v0. 1F.DF!.A"A.D6!!M0-./-./A"-&E -&.n?-0!.56 !-0!.D&A5!.6 ".A"A./6  A!.r.5-""-.
+655F!6 S
+## 5 !"
+### #$!V]-&R$n$/%!0$N!Q-RP/N
+e-.tÖ.EF>."&6!.QF=6 !.!?&MF!!A!./-."éD-.OêU.Ü`` .•. C6& .F  -á-.b .• ./-. 0F.
+!65A"A.O&F !QF==6 .!6 ".5NF&=A!./1- = !.T6&-!"-&!.r.6!MF5NRP-5ëF&-0û.fU00-R
+EF= -m.DF&./-!.D-&!6  -0!./-.0F.!65A"A.F-&N6T-&S
+e-.tb.EF>.0-.QF=6 ._Ñ.Ü`.ÖÑÑÖ.__tRè./-.EoE-."éD-.FDDF&"- F ".r.0F.EoE-.
+!65A"A.F.A"A.5NF&=A>.A=F0-E- ".DF&.0F.!65A"A.F-&N6T-&>./F !.0F.EoE-.=F&->.
+DF&.? .n?F.- .M6?"S.s-.5NF&=-E- ".-!".56 !""?A./-./-?á.- = !.T6&-!"-&!. !"F0R
+0A!./6!.r./6!S
+Å6?&.&-!D-5"-&.0-.=FMF&".T-&&6CF&->.0-.M&F!./-.01- = .T6&-!"-&. 1-!".DF!. !"F00A.
+/F !.!F.D6!"6 . 6&EF0-./-.&-D6!>. ./F !.0F./!D6!"6 ./-."&F !D6&".FC-5.
+5NF F=->.EF!./F !.? -.D6!"6 .F006 =A-S.Å6?&.D6?C6&. !"F00-&.0F."o"-./1FMF"R
+"F=-.F?.5- "&-./?.QF=6 >.0F.5FM -.-".0-.M&F!./-.01- = . -.!6 ".DF!./!D6!A!./F !.
+### 01Fá-./?.5N£!!!>.EF!."6?& A!%FC-5.? .F =0-./-.t`.r.tbV.C-&!.0F.=F?5N-S.@-.5-.
+TF"> . 0F . 5FM - . - . D-?" . DF! . o"&- . C-&&6?00A- . !?& . !F . D6!"6 . DF& . 0-! . =6?D00-!.
+D&AC?-!S
+eF."o"-./1FMF""F=-.}ë6=!ÉF .u`t.vv./-.ab`.ë=.-!".D6!A-.!?&./-!.5F0-!.- .M6!. 6 .
+TáA-!.-".TF".016MÉ-"./1? .FEF&&F=-. /&-5".r.01F/-./1? -.!F =0-./-._.b``./FPS
+e-./!D6!"T.EA5F n?-./1EE6M0!F"6 .- .&6"F"6 ./-.0F."6?&-00-. 1A"F ".DF!.?"0R
+!FM0-.- .&F!6 ./?./A!Fá-E- ">.01EE6M0!F"6 ./?.M&F!.-!".F!!?&A-.DF&.FEF&&F=-
+ÅÇ
+
+## Página 48
+
+ /&-5".f!F !."6?&.E6&"m.FC-5.? -.!F =0-./-._.b``./FP./!D6!A-.C-&!.0-.E0-?./?.
+M&F!S
+v0. -.&-!!6&".DF!./-!.D#5-!.T6?& -!.06&!./-!. C-!"=F"6 !.n?-.0-.56 !-00-&./-.
+5NF&=-E- ".F".É6?A.? .&Ç0-.-TT-5"T.06&!./-!.6DA&F"6 !./-.5NF&=-E- "S
+## 5 A!"
+### UVV$O%-%.P/!0M!V]-&R$n$/%
+s-.EoE-.tb.EF>.FD&#!.0F.T ./?.5NF&=-E- ">.0-.ì.êF=- E-!"-&.î./-.0F.@]}q.F.
+CA&TA.0-.5NF&=-E- ".fF55-D"F"6 m.-".D6&"-.0F.E- "6 .ì.=-D&∂T".î.!?&.0-.0!" =./-.
+C!"-.f5T.ÑSuSÑmS
+]- .n?10.!6". T6&EA./-.5-.5NF&=-E- ".DF&"5?0-&.ì - C6.!- !M0- î.-".n?10.!6"
+NFM0"A.r.0F.C!"-./-.5-."éD-./1- C6>.0. -./A"-5"-.F?5? -.F 6EF0-S
+### ÅcP%n% DEN"4# "4" 5%" %D$$"40O "%"5%3#!#5"!%" %=0/E6/!
+e-.tb.EF.r.t_Nta>.0-."&F .bu`Ñt.F5N-E -.01- C6./-.6!MF5NRP-5ëF&-0û.r.
+¶F=!"T-0/.6Ø.0.F&&C-.r.t_NÑb.FC-5.0-!.n?F"&-.QF=6 !.5NF&=A!>.!F !.- 56EM&-S
+s-!.QF=6 !.6 ".A"A.- !?"-.F5N-E A!./-.¶F=!T-0/.r.F  N-E.DF&.0-."&F 
+b_ÜÑ`.n?.DF&".r.tuNÑt.D6?&.F&&C-&.r.tÜN_uS
+@1F?"&-!.A0AE- "!.DF&C- /&6 ".r.F  N-E.DF&.0-."&F .btaÖt.D6?&.T6&E-&.01 "AR
+=&F0"A./?."&F .b_Ü_u.r./-!" F"6 ./1^ !-/0-&N6T.qMTS
+## 5 !"
+### Ö.N.%$!%$V]/.oM$!Å!~-//]$.n
+e-.!FE-/.tu.EF._``a>.F.0-?.? -.C!"-."-5N n?-.-".? .-!!F./-.T&- .D6?&.01- R
+!-EM0-./?."&F .r.F  N-E.DF&.0-.C!"-?&./-.0F.@]}qS.s-00-R5.!1-!"./A&6?0A-./-.
+`ÜN_b.r.`aNÖÖ>.!F !.F?5? -.F  6"F"6 .-".0-."&F .b_Ü_u.F.F5N-E A.01- !-EM0-.
+/-.F  N-E.r.^ !-/0-&N6T.qMT>./-.t_N_a.r.tÑNÖ`S
+## 5!"
+### Ö.N.%$!%$V]/.oM$!0a^V]-/R$!Å!2./N.$0`$&]P1!4Ñ1
+e-.EF&/.ta.EF._``a>.- .=F&-./1^ !-/0-&N6T.q]T>.0-."&F .!?M".? -.C!"-."-5NR
+ n?-./1A5NF =-.f- "&-.@]}q.-".^sqm.-".? .-!!F./-.T&- .!?CF ".0-!.D&-!5&DR
+"6 !./?.s††.F  -á- a.DF&.? .C!"-?&./-.0F.@]}q.- "&-.`tNb`.-".`ÑNÑ`>.!F !.
+F?5? -.F  6"F"6 S
+e-.EoE-.É6?&.- "&-.`ÑNÑÑ.-".`ÖNbÜ>.0-."&F .ÖbÖuÜ.F.F5N-E A.01- C6./1^ !-/0-R
+&N6T.q]T.r.Ä6&MF5N>.CF.}FF&M&∂5ë- S
+U.Ä6&MF5N>.0-.56 C6.F.A"A.D&!.- .5NF&=-.DF&.^sq./F !.0-.5F/&-./-.01F556&/.- .
+56 TF 5->.!F !.D0?!./-.T6&EF0"A!S
+Å^
+
+## Página 49
+
+### Åct%n% DEN"4# "4" 5%" %Ä/0 E"%û6!A6206%56  "$%1"%S#3"/ 0 5
+e-.EF&/.ta.EF>.0-."&F .^sq.Öt_ÖÜ.DF&"./-.Ä6&MF5N.r.`èNt_.f5-."&F .-!".r.
+ ?EA&6"F"6 .DF&-.- .F00F ".C-&!.ÅF&!m.56ED6!A. 6"FEE- "./-!.n?F"&-.QF=6 !.
+5NF&=A!.DF&.0F.!65A"A.F-&N6T-&S.v0.-!".=F&A.r.-"û.D6?&.&-0#C-./-.D-&!6  -0>.r.
+sN£06 !R- RsNFEDF= -.D6?&.TF&-.0-.D0- .- .=F!60.-".r.üF0- "6 .D6?&.&-0#C-./-.
+D-&!6  -0>.FCF "./1F&&C-&.r.}F "RÅ-&&-R/-!Rs6&D!.r._`N_bS.e6&!./-.!6 .DF!!F=-.
+- .&A=6 .DF&!-  ->.0.5NF =-./-. ?EA&6.-"./-C- ".0-."&F .^sq.Öt_ÖaS
+U?.56?&!./?.C6éF=->.F?5? .D6!"-./-.=?-"./-.01-áD06"F"6 ./-!" A.r.0F.!?&C-00F 5-.
+/-!."&F !.- .EF&5N-. 1F.!= F0A./1F 6EF0-.!?&.0-."&F .Ä&-".^sq Öt_ÖÜ¢a>.0-!.
+56ED"-!.&- /?!./-.5-!.=F&-!. -.56ED6&"F ".F?5? -.F  6"F"6 .r.5-.!?É-"S
+U.}F "RÅ-&&-R/-!Rs6&D!>.0-.D-&!6  -0./-.56 /?"-./1^sq.-!".5NF =A.•.&-0#C-./-.
+D-&!6  -0.•.-".0-.D0- .- .=F!60./-.0F.0656E6"C-.-!".TF">.!F !.n?-.5-.D-&!6  -0.
+/-.56 /?"-. -.!1FD-&ï6C-./1? .n?-056 n?-.D&6M0#E-S
+U._tNb`>.0-."&F .^sq.Öt_Öa.DF&".- ./&-5"6 ./-.]6&/-F?á.-".]Fé6  -S
+### ÅcÅ%n% S20EE#1" 5
+@-D?!.0-./AM?"./?.DF&56?&!./1F5N-E -E- ">.0-.5NF&=-E- ".F.C&F!-EM0FM0-E- ".
+56EE- 5A.r.!-./AD0F5-&.!6?!.01-TT-"./-!."&AD/F"6 !>.0-!.5F0-!.6 ".D?.!-./AD0F5-&.
+-".0-!.!F =0-!.!-./A"- /&-S
+U.? .E6E- "./6  A>.01NéD6"N#!-.0F.D0?!.D&6MFM0-.-!".n?-.0-!.5F0-!./-.M6!>. 6 .
+TáA-!>. !"F00A-!.!6?!.0F."o"-./1FMF""F=->.F- ".A"A.-áD?0!A-!S
+@-.5-.TF">.0-!.!F =0-!. 1A"F ".D0?!."- /?-!>.0F."6?&-00-.-".0-.M&F!.6 ".6!500A./-.D0?!
+- .D0?!.T6&"-E- ".F?.T?&.-".r.E-!?&-./-!.DF!!F=-!./F !.0-!.F=?00F=-!>.0-!
+56?&M-!.-".56 "&-R56?&M-!./-.0F.C6-.T-&&A->.É?!n?1r.0F.&?D"?&-.6?.0MA&F"6 ./-!
+!F =0-!S.e-.M&F!.6!500-.-".- =F=-.0-.=FMF&".T-&&6CF&-S
+### /#!"4" 5%16%5/0# %vÅÅPÅ
+e-.E-&5&-/._`.EF._``a>.0-."&F .^sq.Öt_Öa.D6?&!?CF ".!F.&6?"-.5&6!-.D0?!-?&!.
+"&F !./-.T&-"S.U.`NtÑ>.06&!n?-.0-."&F .DF!!-.r.üF&!>.0.5&6!-.0-."&F .}PsÄ.èÖÖ_Ö.•.
+C6&.0-.=&FDNn?-./-.5&5?0F"6 .&A-00-.r.01F  -á-.uS
+e-.M&F!./-.01- = .T6&-!"-&.DC6"->.N-?&"-.0F.DF&"-./&6"-./?."&F .T&-".}PsÄ èÖÖ_Ö.
+-". T0=-.? .56?D.C60- ".!?&.0F.0656E6"C-.]].Ö`èÑu`.r.- C&6 ._>Ñ` E./-.0F.
+NF?"-?&./?.!60.f_>tè.E./?.&F0mS.s-.56?D>.M- .n?-.M&-T>.F.D&6C6n?A.? -.ED6&"F "-.
+EF&n?-.!?&.0F.D6&"-.FCF "./&6"-.-".!6 .E6 "F "./1? -.06 =?-?&./1- C&6 .Ö`.5E.-".
+/1? -.0F&=-?&./-.b.5E.R.ü6&.F  -á-.ÑS
+e-.56 /?5"-?&./?."&F .èÖÖ_Ö.F.5&?>.r.5-.E6E- "R0r>.r.? .5F006?./-.MF00F!".-".F.
+56 " ?A.!F.&6?"-S.e6&!./-.01F&&o".r.sN£"-00-&F?0">.C-&!.tNbb>.0.!1-!".&- /?.56ED"-.
+/-!./A=£"!.D6&"A!.r.!F.0656E6"C-.5Ç"A./&6".d."&F5-!./-.56?D!.D6&"A!>.EF !R
+E6 "6&-!.F&&F5NA-!>.-".0FE-00-!./-.=&00-./-.C- "0F"6 .F&&F5NA-!S
+Åv
+
+## Página 50
+
+## /#!"4" 5%16%5/0# %Å]RÅ
+U.`NÑÖ>.C-&!.sNF&EF ".=F&->.0-."&F .^sq.5&6!-.0-."&F .Ä&-".}PsÄ.ÖtaÖS.e-.5NF&R
+=-E- ".D-&5?"-.5-./-& -&.r.- C&6 ._>Ñ` E./-.0F.NF?"-?&./?.!60.f_>tè E./?.&F0m.-".
+0?.F!!# -.? .56?D.!?&.0-.T0F 5./&6"./1- C&6 .t`.5E./-./FE#"&-•.C6&.0-.=&FDNn?-.
+/-.5&5?0F"6 .&A-00-.r.01F  -á-.uS
+F0=&A.0-!.&-EF&n?-!./?.56 /?5"-?&.ì.- .C6"?&-.î>.0-.56 /?5"-?&./?."&F .ÖtaÖ.
+5&6".0?.F?!!.r.? .5F006?./-.MF00F!"."6EMA./-./-?á.MF00F!"#&-!S.v0. -.TF"./6 5.DF!.
+5F!./-!.&-EF&n?-!./-.!6 .5600#=?-.-".56 " ?-.!6 .5N-E S
+s-. 1-!".n?1r.U =6?0oE->.06&!./-.0F.&-0#C->.n?10.!-.&- /.56ED"-./-!./A=£"!
+ T0=A!.r.!F.0656E6"C-.d."&F5-!./-.56?D!.D6&"A!>.EF !RE6 "6&-!.-".0FE-00-!./-
+=&00-./-.C- "0F"6 .F&&F5NA-!S.v0.FDD-00-.0-.&A=?0F"-?&.r.`NÖÑ>."&6D."F&/.D6?&.AC"-&
+01F55/- "S
+### /#!"4" 5%16%5/0# %Ç^vPÅ
+U.`NÑa>.0-."&F .Öt_Öa.5&6!-.0-."&F .buè_Ö.!6?!.0-."?  -0./-.eC-& F "S.U.5-.
+E6E- ".0r>.0-!./-?á."&F !.5&5?0- ".r.a_.ëE¢N.D6?&.0-."&F .buè_Ö.-".èÖ.ëE¢N.D6?&.
+0-."&F .Öt_ÖaS.
+eF.DF&"-.FCF "./?.M&F!./-.01- = .T6&-!"-&.}ë6=!ÉF .ÖÜèíe.D-&5?"-.0F.0656E6"C-.
+/?."&F .buè_Ö.-".DA #"&-./F !.0F.5FM -./-.56 /?"->.5Ç"A./&6">.r.0F.NF?"-?&./-.0F.
+D0F5-./-.01F=- "./1F556EDF= -E- ".-".!-.!ADF&-./-.0F.D&-E#&-.DF&"-./-.!6 .
+M&F!S.@F !.0F.D-&5?!!6 >.0F."o"-./1FMF""F=-.!-./A"F5N-./?.M&F!.6!500F ".-".N-?&"-.
+01- = .T6&-!"-&.5Ç"A.=F?5N-S
+ÅF&.5NF 5->.01F55/- ". 1F.655F!6  A.n?1? -.M0-!!?&-.0A=#&-.F?.56 /?5"-?&>.? .
+D6= -".5F!!AS
+@F !.01F55/- ".- "&F∞ A.DF&.5-""-.D-&5?!!6 >.01- = .T6&-!"-&.!1-!"./AD6&"A.!?&.0-.
+QF=6 .OêU.Ü``>.0F.&6?-.FCF "./&6"-.F.D-&5?"A.0-."&F .}PsÄ.-".!1-!".- C60A-.
+/F !.0-."?  -0S
+e-.DC6"-E- ".F.56 " ?A.-".0-.}ë6=!ÉF .ÖÜèíe>./F !.? .E6?C-E- ".r.tÜ`V>.F.
+D-&5?"A.FC-5.0-!.&-!"-!./?.M&F!./?.}ë6=!ÉF >.01- = .T6&-!"-&.ì.OEM-&ÉF5ë.î.!"?A.
+É?!"-./-&&#&-.0?.!?&.0-.EoE-.QF=6 >.- /6EEF=-F ".0-.E6"-?&./-.5-0?R5S.e-!.
+F?"6&"A!.É?/5F&-!.6 ".&-"&6?CA./C-&!-!.D#5-!./?.}ë6=!ÉF .ÖÜèíe./F !.0-."&F .
+}PsÄ buè_ÖS.e-!.F  -á-!.Ü.-".a.56 !""?A-!.!6?!.T6&E-./-."FM0-F?á./-.!é "N#!-.
+ /n?- ".0-.56 !"F".-TT-5"?A.!?&."6?".0-.EF"A&-0.FD&#!.01F55/- "S
+Åé
+
+## Página 51
+
+Ä#O6/"%P^%Ö%aEN-40%1"!%-3ê "4" 5!
+Ä#O6/"%Pv%Ö%è0O %=/5"6/%16%aóO!û0 %Åév%0=/ê!%$20EE#1" 5
+### ^ % /6O"Ñ. T=?&-.0-.E6?C-E- ".r.- C&6 .tÜ`V./-.0F."6?&-00-.-"./?.M&F!./?.
+}ë6=!ÉF .ÖÜèíe>.FC-5.&-5?0./-.01- = .C-&!.0F./-?á#E-.DF&"-./?.QF=6 .F&"5?0AS
+ÅR
+
+## Página 52
+
+### ÅcÇ%n% S"!%!"E6/!
+e-.56 /?5"-?&./?."&F .}PsÄ.buè_Ö.F./6  A.01F0-&"-.DF&.&F/6.r.`NÖt.F?.s- "&-.
+qA=6 F0.cDA&F"6  -0.}PsÄ./-.]6&/-F?áS
+e-!.D6ED-&!.6 ".A"A.FDD-0A!.EEA/F"-E- ".DF&.0-.s- "&-.qA=6 F0.cDA&F"6  -0.
+/-.]6&/-F?áS.e-!.6DA&F"6 !./-.!-56?&!.C!RrRC!./?.56 /?5"-?&.M0-!!A./?."&F .
+buè_Ö.!-&6 ".-TT-5"?A!.EEA/F"-E- ".DF&.0-!.D6ED-&!.n?.ACF5?-&6 ".0-.M0-!!A.
+!?&.01NÇD"F0.sFE00-.s0F?/-0./1U =6?0oE-S
+^ .&-CF 5N->.0-!.T6&5-!./-.=- /F&E-&-. 16 ".DF!.A"A.D&AC- ?-!./F !.0-!. !"F "!.
+n?.6 ".!?C.01F55/- "S.^00-!. 16 ".A"A. T6&EA-!.n?-.DF&.C6-./-.D&-!!-.f&F/6m>.5-.
+n?.F.&-"F&/A.01- n?o"-./-.T0F=&F 5-S
+e-!.6DA&F"6 !./-./A=F=-E- "./-!.C6-!.!-&6 ".- !?"-.E- A-!.DF&.0-!.D6ED-&!.
+-".0-!.!-&C5-!."-5N n?-!./-.01 T&F!"&?5"?&-.}PsÄS.e-!."&F !.ED0n?A!./F !.5-".
+ACA -E- ".!-&6 ".=F&A!.!?&.C6-!./1AC"-E- ".r.6?"N-&!.D6?&.0-."&F .}PsÄ.
+buè_Ö.-".r.sNF&EF ".D6?&.0-."&F .^sq.Öt_ÖaS
+### Åc^%n% S"!%/#!A6"!%" E6/6!
+e6&!./-.5-".F55/- ">.0-.56 /?5"-?&./?."&F .buè_Ö.-!".0-.!-?0.M0-!!AS
+s-D- /F ">.5 n.D-&!6  -!.FCF- ".D6"- "-00-E- ".0F.D6!!M0"A./-.!-.&-"&6?C-&.
+- ."o"-./1? ."&F .D-&5?"A.-"./6 5>.!?CF ".0-.5N65>./-.!?M&./1ED6&"F "-!.56 !AR
+n?- 5-!.d
+ 0-.56 /?5"-?&./?."&F .buè_Ö>.M- R!µ&.§
+ 0-! . 56 /?5"-?&! . /-! . "&F !.èÖÖ_Ö . -" . ÖtaÖ . n? . F?&F- " . D? . FC6& . 0- . EoE-.
+F55/- ">.!F !.!= F0-E- ".FCF "R56?&-?&.§
+ 0-.56 /?5"-?&.ì.- .C6éF=-?&.î.n?.F.5NF =A./-."&F .F?./-& -&.E6E- ".-".!1-!".
+F5N-E A./F !.0-."&F .D&A5A/- ".ÖtaÖ.§
+ 0-.5F/&-."&F5"6 ./?.56 /?5"-?&./?."&F .buè_Ö.n?.F.&-D6&"A>.D-?./-."-ED!.FCF ".
+0-./ADF&">.01F556EDF= -E- ".n?10./-CF".-TT-5"?-&.FC-5.!6 .56 /?5"-?&.5-""-.
+ ?"R0rS
+v0.TF?".&-EF&n?-&.A=F0-E- ".0-.TF".n?10.!1F="./-."&F !.T&-">.-". 6 ./-."&F ./-.C6éFR
+=-?&!S.† .5N65.F?!!.C60- ".FC-5.? ."&F ./-.C6éF=-?&!.F?&F".D?.!- !M0-E- "
+F?=E- "-&.0-. 6EM&-./-.C5"E-!S
+U. 6"-&.A=F0-E- ".n?-.0-!.QF=6 !./?."&F .èÖÖ_Ö.56 "- F- ".- ."6"F0"A./-!.
+EF"#&-!./F =-&-?!-!.n?.F?&F- ".D?.56 "&M?-&.r.01F==&FCF"6 ./-.01F55/- "S
+ÇQ
+
+## Página 53
+
+### Ç%n% D 0$ï!"%1"!%E06!"!%"5%ë0E5"6/!%0!!E#-!Ñ%/#" 505# !%
+## =/-3" 5#3"!
+eF.5F?!-./&-5"-.-".EEA/F"-./-.01F55/- ".-!".0F.&6"F"6 ./-.0F."6?&-00-.-".01- =FR
+=-E- "./?.=FMF&"./-.0F.C6-.F/ÉF5- "-.DF&.0-.M&F!./-.01- = .T6&-!"-&.}ë6=!ÉF S
+O&6!."N#E-!.D-?C- ".o"&-.&-"- ?!.D6?&.0F.&-5N-&5N-./1- !-= -E- "!.D&AC- "T!.d
+ 0- . D&65-!!?! . /1- C6! . !- !M0-! .  50?F " . 0- . 56 !-0> . 0- . 5NF&=-E- " . -".
+01F55-D"F"6 ./-.01- C6.§
+ 0F.C!"-."-5N n?-.-".0F.C!"-."-5N n?-./1A5NF =-.§
+ 0-!.E-!?&-!.r.D&- /&-.- .5F!./-.5N65.6?./-.M&?".F 6&EF0.F?.5&6!-E- "./1? 
+"&F S
+### Çc]%n% S"%=/E"!!6!%12" 3#!%!" !#>$"!
+e-.D&65-!!?!./1- C6!.!- !M0-!.56 ï?.DF&.@]}q.D6?&.=F&F "&.0F.!A5?&"A./?.
+"&F !D6&"./-.5-&"F -!.EF&5NF /!-!.F.A"A.E!.- .A5N-5.r./-?á. C-F?áS
+@1? -.DF&">.0F.D&-!"F"6 ./-.56 !-0.- .5NF&=-E- ". 1F.DF!.D-&E!./-./6  -&.F?.
+5NF&=-?&.0-!. /5F"6 !.!?TT!F "-!.- .&FDD6&".FC-5.!6 .EF n?-./1-áDA&- 5-.- .
+EF"#&-./1- C6!.T-&&6CF&-!S.eF.56 C- "6 .A"FM0-.DF&.0-.56 !-00-&.5NF&=-E- ".
+/-?á . É6?&! . FCF " . 0- . 5NF&=-E- " . - . D6&"- . n?- . /-! . &-56EEF /F"6 ! . "&#!.
+!?55 5"-!.F?.5NF&=-?&S.s6ED"-."- ?./-.0F./TT5?0"A./-.016DA&F"6 >.? -.D&A!- 5-.
+F5"C-./?.56 !-00-&.D- /F ".0-!.6DA&F"6 !./-.5NF&=-E- ".F?&F"./?.o"&-.F!!?&A-S
+eF.56 C- "6 . -.E- "6  -.DF!.0F.D6!!M0"A.D6?&.0-.5NF&=-?&./-./-EF /-&.0F.
+D&A!- 5-./?.56 !-00-&.- .5F!./-.M-!6 .06&!./-!.6DA&F"6 !./-.5NF&=-E- "S
+e6&!./?.5NF&=-E- ">.0-!.D-&!6  -0!./-.F-&N6T-&. 1A"F- ".EF T-!"-E- ".DF!
+56 !5- "!./-!.&#=0-!.A0AE- "F&-!.&A=!!F ".0F.&AF0!F"6 >.0-.5F0F=-.-".01F&&EF=-
+/-!.5NF&=-E- "!.T-&&6CF&-!S.c?"&-.0-!.F 6EF0-!.56 5-& F ".01- = .}ë6=!ÉF >
+/1F?"&-!.F 6EF0-!.=&FC-!.6 ".A"A.56 !"F"A-!.!?&.0-!.F?"&-!.- = !./-.01-áDA/"6 S
+@1F?"&-.DF&">.01-áFE- ./1F55-D"F"6 >.M- .n?-.&AF0!A.DF&.? .C!"-?&.!DA5F0-E- ".
+NFM0"A.-".56 !5- "./1FC6&.FTTF&-.r.? .- C6.!- !M0->. 1F.DF!.D-&E!./-./A"-5"-&.
+0-!.F 6EF0-!.AC6n?A-!.5R/-!!?!S
+s6ED"-."- ?./-.5-!.TF"!>.0-.]^UROO.AE-"./-?á.&-56EEF /F"6 !.r.E-""&-.- .
+ó?C&-.DF&.0F.@]}qS.s6 T6&EAE- ".F?á.D&F"n?-!. "-& F"6 F0-!.D&A56 !A-!.DF&.
+01F=- 5-.T-&&6CF&-.-?&6DA-  ->.5-!.&-56EEF /F"6 !.!6 ".F/&-!!A-!.r.0F.@]}q.
+DF&.01 "-&EA/F&-./-.01F?"6&"A. F"6 F0-./-.!A5?&"A.T-&&6CF&-.T&F ïF!-.f^Å}Äm.
+n?.0-!."&F !E-""&F.r.!6 .N6E606=?-.F00-EF /.f^]Um.D6?&.E!-.- .ó?C&-.DF&.0F.
+@]}qS
+### M"E440 105# %M]%VT%p?aM%=0/%$2# 5"/4-1#0#/"%1"%$2@}aÄ%"5%1"%$2@?D_%Ö
+~-/#ë#"/%$0%ë/405# %"5%$0%!" !#>#$#!05# %1"!%="/!  "$!%VE !"#$$"/!%" %EN0/O"4" 5Ñ%
+3#!#5"6/!%ë/4-!_%E E"/ -!%=0/%$"%=/E"!!6!%1"!%" 3#!%!" !#>$"!Ñ%"5%=/-3#/%$0%
+=0/5#E#=05# %"ëë"E5#3"%1"!%E !"#$$"/!%$/!A6"%$"!%EN0/O"4" 5!%! 5%/-0$#!-!%=0/%
+6 "%" 5/"=/#!"%# "í=-/#4" 5-"c
+Ç]
+
+## Página 54
+
+### M"E440 105# %MP%VT%p?aM%=0/%$2# 5"/4-1#0#/"%1"%$2@}aÄ%"5%1"%$2@?D_%Ö
+### 4=$-5"/%$"%5"í5"%1"%$0%E 3" 5# %•%" 3#%!" !#>$" ¶%" %ï%=/50 5 Ö
+###  $0%!#O 056/"%16%EN0/O"6/%055"!50 5%!0%=/#!"%1"%E  0#!!0 E"%1"!%/"E440 10n
+### 5# !%16%E !"#$$"/%"5%! %" O0O"4" 5%T%$"!%/"!="E5"/%ß
+##  $0%4" 5# %1"%$0%=!!#>#$#5-Ñ%=6/%$"%EN0/O"6/Ñ%1"%1"40 1"/%$0%=/-!" E"%16%
+### E !"#$$"/%" %E0!%1"%>"!# %$/!%16%EN0/O"4" 5c
+### ÇcP%n% S0%3#!#5"%5"EN #A6"%"5%3#!#5"%5"EN #A6"%12-EN0 O"
+e-!.F 6EF0-!./?.5NF&=-E- ".-"./-.!6 .F&&EF=-. 16 ".DF!.A"A./A"-5"A-!.06&!./-!.
+/-?á . C!"-! . "-5N n?-! . D&F"n?A-! . D- /F " . 0- . DF&56?&! . - . U00-EF= -. -".
+F?án?-00-!.6 ".DF&"5DA.n?F"&-.C!"-?&!S
+oE-.!.5-!.C!"-!.D6&"- ".-!!- "-00-E- ".!?&.01A"F"./?.EF"A&-0.&6?0F ">.-00-!.
+/6C- ".F?!!.D6?C6&./A"-5"-&./-!.F 6EF0-!.DF&"5?0#&-E- ".FDDF&- "-!.!?&.0-!.
+5NF&=-E- "!S
+@F !.0-.5F!./-!.QF=6 !.-áDA/A!.DF&.0F.!65A"A.F-&N6T-&>.0-!.F 6EF0-!./-.
+5F0F=-.-"./1F&&EF=-.A"F- ".C!M0-!./-D?!.0-.!60.-".F?&F- ".D?.o"&-./A"-5"A-!S
+v0.56 C- "./6 5./-.!1F!!?&-&.n?-.0-!.C!"-?&!.6 ".M- .0-!.56EDA"- 5-!. A5-!R
+!F&-!.D6?&.-TT-5"?-&.5-!.C!"-!S
+s6ED"-."- ?./-.5-!.TF"!>.0-.]^UROO.AE-".0F.&-56EEF /F"6 .!?CF "-.d
+### M"E440 105# %Mt%VT%p?aM%=0/%$2# 5"/4-1#0#/"%1"%$2@}aÄ%"5%1"%$2@?D_%Ö
+~-/#ë#"/%$0%ë/405# %# #5#0$"%"5%E 5# 6"%1"%$2" !"4>$"%1"!%3#!#5"6/!%!6/%$0%3-/#ë#E0n
+## 5# %"5%$"%E 5/Æ$"%1"!%EN0/O"4" 5!%" %E6/!%120EN"4# "4" 5%"5Ñ%" %=0/5#E6$#"/Ñ%
+### E"6í%"ëë"E56-!%!6/%1"!%" 3#!%!" !#>$"!c
+### Çct%n% m"!6/"!%T%=/" 1/"%$/!%1"%ENE%6%1"%>/6#5%06%E/#!"4" 5%
+## 126 %5/0# 
+e-!."-á"-!.EA"-&./-!.56 /?5"-?&!.}PsÄ./-.EoE-.n?-.0-!."-á"-!.&A=0-E- "F&-!.
+- .FE6 ">. -.56 /?!- ".DF!>./-.TFï6 .EEA/F"->.0-.56 /?5"-?&.r.E-""&-.- .
+ó?C&-.0-!./!D6!"6 !.D6?&.F&&o"-&.6?.TF&-.F&&o"-&.0-."&F .5&6!-?&.06&!n?10.D-&ï6".
+? .5N65.6?.? .M&?".F 6&EF0.F?.5&6!-E- "./1? ."&F S
+v0.-!".C&F.n?->./F !./-!.56 /"6 !. 6&EF0-!>.0.-!".56?&F "./-.D-&5-C6&./-!.
+M&?"!>.n?.D-?C- ".o"&-.T6&"!>.- .5&5?0F"6 .6?.06&!./?.5&6!-E- "./1? ."&F .!F !.
+n?-.0F.!A5?&"A. -.!6".&-E!-.- .5F?!-.f-TT-"!.FA&6/é FEn?-!>.D&6É-5"6 !./-.
+MF00F!".6?./-.=0Fï6 !.- .NC-&.SSSmS.† -.&#=0-.r.5F&F5"#&-.!é!"AEF"n?-.D6?&&F".
+56 /?&-.r.E?0"D0-&.0-!.F&&o"!. É?!"TA!.!F !.TF&-.D&6=&-!!-&.!= T5F"C-E- ".0F.
+!A5?&"AS
+O6?"-T6!>.0.D6?&&F".o"&-. "A&-!!F "./-."&F"-&./-.TFï6 .DF&"5?0#&-.0-.5F!./?.5&6R
+!-E- "./1? ."&F ./-.EF&5NF /!-!>.0F. ?".6?.- .01FM!- 5-./-.C!M0"AS.@F !.? .
+"-0.5F!>.0-.56 /?5"-?&.D6?&&F".o"&-.56 /?"./-.TFï6 .!é!"AEF"n?-.r.D&A!?E-&.? .
+ÇP
+
+## Página 55
+
+- =F=-E- "./-.=FMF&"./?."&F .5&6!-?&.-".r./A50- 5N-&.0F.D&65A/?&-.56 5-& F ".
+0-!."&F !.5&5?0F "./F !./-!.56 /"6 !./F =-&-?!-!S
+v0.DF&F∞".A=F0-E- ".6DD6&"? ./-.&A-áFE -&.0-."-á"-.&#=0-E- "F&-.vP.tbtÖ.•.}_s>.
+"&F"F "./-!. 5/- "!.- .5&5?0F"6 >.D6?&.D&A5!-&.0-!./!D6!"6 !.r.FDD0n?-&.DF&.
+"6?"-!.0-!.- "&-D&!-!.T-&&6CF&-!S
+s6ED"-."- ?./-.5-!.TF"!>.0-.]^UROO.AE-"./-?á.&-56EEF /F"6 !.d
+### M"E440 105# %MÅ%VaoÄ_%Ö
+@í04# "/%$0%="/5# " E"%1"%ë0#/"%-3$6"/%$"!%1E64" 5!%120==$#E05# %1"!5# -!%06í%
+E 16E5"6/!%VFF%QQÇv_Ñ%0ë# %A6"%E"6ínE#%!#" 5%E 16#5!%T%=/-!64"/%6 %" O0O"4" 5%
+1"%O0>0/#5%16%5/0# %E/#!"6/%$/!A62#$!%="/ì#3" 5%6 %>/6#5%1"%ENE%# N0>#56"$%$/!%16%
+### E/#!"4" 5%126 %5/0# %1"%40/EN0 1#!"!Ñ%$0% 6#5%6%" %$20>!" E"%1"%3#!#>#$#5-c
+### M"E440 105# %MÇ%V@}aÄÑ%p&bFm_%Ö
+@í04# "/%$"!%410$#5-!%="/4"550 5Ñ%=0/%010=505# %16%5"í5"%/êO$"4" 50#/"%bo%]Ç]Ån
+### aP%6%=0/%1"!%=/-E #!05# !%E E"/ 0 5%$"!%1E64" 5!%4-5#"/%1"!%" 5/"=/#!"!
+ë"//3#0#/"!Ñ%1"%ë0#/"%=/-!64"/%6 %" O0O"4" 5%1"%O0>0/#5%16%5/0# %E/#!"6/%=0/%1"!
+E 16E5"6/!%1"%5/0# %$/!A62#$!%="/ì#3" 5%6 %>/6#5%1"%ENE%# N0>#56"$%$/!%16%E/#!"n
+### 4" 5%126 %5/0# %1"%40/EN0 1#!"!Ñ%$0% 6#5%6%" %$20>!" E"%1"%3#!#>#$#5-c
+Çt
+
+## Página 56
+
+
+
+## Página 57
+
+### ^%n%  E$6!# !
+### ^c]%n% 06!"!%1"%$20EE#1" 5
+eF.5F?!-.EEA/F"-./-.01F55/- ".-!".0F.&6"F"6 . 56 "&Ç0A-./-.0F."6?&-00-.-"./?
+M&F! . F&"5?0A . /- . 01- = . T6&-!"-&. }ë6=!ÉF > . D&6C6n?F " . F ! . 01- =F=-E- " . /?
+=FMF&"./-.0F.C6-.F/ÉF5- "-S
+@-?á.TF5"-?&!.!6 ".r.016&= -./-.5-".F55/- ".d
+ 0F.EF?CF!-.&AF0!F"6 ./-.01EE6M0!F"6 ./-!.DF&"-!.E6M0-!./-.01- = .DF&.
+01-áDA/"-?&>.n?. 1A"F".DF!.? .D&6T-!!6  -0 .-áDA&E- "A>.06&!./?.5NF&=-E- ".
+/?.QF=6 .- .U00-EF= -.§
+ 0F.E!-.- .ó?C&-./AT-5"?-?!-.DF&.0F.@]}q.f- "&-D&!-.T-&&6CF&-.F00-EF /-.
+FéF ".D&!.- .5NF&=-.0-."&F !D6&"m./-.0F.D&65A/?&-./-.56 !-0.-"./-.56 "&Ç0-.
+D&AC?-.D6?&.5-."éD-./1-áDA/"6 !S
+@-?á.TF5"-?&!.6 ".A=F0-E- ".D?.56 "&M?-&.r.01FM!- 5-./-./A"-5"6 .-"./1F0-&"-.06&!.
+/-.0F.5&5?0F"6 ./-.5-."&F ./F !./-!.56 /"6 !./F =-&-?!-!.d
+ 0F. 6 ./A"-5"6 ./-!./ATF?"!./1EE6M0!F"6 >./-.5F0F=-.-"./1F&&EF=-.06&!./-!.
+C!"-!."-5N n?-!.- .F5N-E -E- " §
+ 0-.EF n?-./-.50F&"A./-!.E-!?&-!.r.D&- /&-.DF&.0-!.56 /?5"-?&!.- .5F!./-.
+D-&5-D"6 ./-.M&?"!./-.5N65!>.n?. 1F.DF!.D-&E!./1F&&o"-&.0-."&F .5&5?0F "./F !.
+/-!.56 /"6 !./F =-&-?!-!.FCF ".01F55/- "S
+### ^cP%n% M"E440 105# !
+s-5.FE# -.0-.]^UROO.r.AE-""&-.5 n.&-56EEF /F"6 !S.O&6!./1- "&-.-00-!.A"F ".
+r.E-""&-.- .ó?C&-.DF&./-!.6DA&F"-?&!.F00-EF /!>.0F.D&65A/?&-./-."&F !E!!6 .
+DF!!->.56EE-.0-.D&A56 !-.01F=- 5-.T-&&6CF&-.-?&6DA-  -.f^qUm>.DF&.0-!.F?"6&R
+"A!./-.!A5?&"A.T-&&6CF&-.T&F ïF!-.f^Å}Äm.-".F00-EF /-.f^]UmS
+### M"E440 105# %M]%VT%p?aM%=0/%$2# 5"/4-1#0#/"%1"%$2@}aÄ%"5%1"%$2@?D_%Ö
+~-/#ë#"/%$0%ë/405# %"5%$0%!" !#>#$#!05# %1"!%="/!  "$!%VE !"#$$"/!%" %EN0/O"4" 5Ñ%
+3#!#5"6/!%ë/4-!_%E E"/ -!%=0/%$"%=/E"!!6!%1"!%" 3#!%!" !#>$"!Ñ%"5%=/-3#/%$0%
+=0/5#E#=05# %"ëë"E5#3"%1"!%E !"#$$"/!%$/!A6"%$"!%EN0/O"4" 5!%! 5%/-0$#!-!%=0/%
+6 "%" 5/"=/#!"%# "í=-/#4" 5-"c
+### M"E440 105# %MP%VT%p?aM%=0/%$2# 5"/4-1#0#/"%1"%$2@}aÄ%"5%1"%$2@?D_%Ö
+### 4=$-5"/%$"%5"í5"%1"%$0%E 3" 5# %•%" 3#%!" !#>$" ¶%" %ï%=/50 5 Ö
+###  $0%!#O 056/"%16%EN0/O"6/%055"!50 5%!0%=/#!"%1"%E  0#!!0 E"%1"!%/"E440 10n
+### 5# !%16%E !"#$$"/%"5%! %" O0O"4" 5%T%$"!%/"!="E5"/%ß
+##  $0%4" 5# %1"%$0%=!!#>#$#5-Ñ%=6/%$"%EN0/O"6/Ñ%1"%1"40 1"/%$0%=/-!" E"%16%
+### E !"#$$"/%" %E0!%1"%>"!# %$/!%16%EN0/O"4" 5c
+ÇÇ
+
+## Página 58
+
+### M"E440 105# %Mt%VT%p?aM%=0/%$2# 5"/4-1#0#/"%1"%$2@}aÄ%"5%1"%$2@?D_%Ö
+~-/#ë#"/%$0%ë/405# %# #5#0$"%"5%E 5# 6"%1"%$2" !"4>$"%1"!%3#!#5"6/!%!6/%$0%3-/#ë#E0n
+## 5# %"5%$"%E 5/Æ$"%1"!%EN0/O"4" 5!%" %E6/!%120EN"4# "4" 5%"5Ñ%" %=0/5#E6$#"/Ñ%
+### E"6í%"ëë"E56-!%!6/%1"!%" 3#!%!" !#>$"!c
+### M"E440 105# %MÅ%VaoÄ_%Ö
+@í04# "/%$0%="/5# " E"%1"%ë0#/"%-3$6"/%$"!%1E64" 5!%120==$#E05# %1"!5# -!%06í%
+E 16E5"6/!%VFF%QQÇv_Ñ%0ë# %A6"%E"6ínE#%!#" 5%E 16#5!%T%=/-!64"/%6 %" O0O"4" 5%
+1"%O0>0/#5%16%5/0# %E/#!"6/%$/!A62#$!%="/ì#3" 5%6 %>/6#5%1"%ENE%# N0>#56"$%$/!%16%
+### E/#!"4" 5%126 %5/0# %1"%40/EN0 1#!"!%$0% 6#5%6%" %$20>!" E"%1"%3#!#>#$#5-c
+### M"E440 105# %MÇ%V@}aÄÑ%p&bFm_%Ö
+@í04# "/%$"!%410$#5-!%="/4"550 5Ñ%=0/%010=505# %16%5"í5"%/êO$"4" 50#/"%bo%]Ç]Ån
+### aP%6%=0/%1"!%=/-E #!05# !%E E"/ 0 5%$"!%1E64" 5!%4-5#"/%1"!%" 5/"=/#!"!%
+ë"//3#0#/"!Ñ%1"%ë0#/"%=/-!64"/%6 %" O0O"4" 5%1"%O0>0/#5%16%5/0# %E/#!"6/%=0/%1"!%
+E 16E5"6/!%1"%5/0# %$/!A62#$!%="/ì#3" 5%6 %>/6#5%1"%ENE%# N0>#56"$%$/!%16%E/#!"n
+### 4" 5%126 %5/0# %1"%40/EN0 1#!"!Ñ%$0% 6#5%6%" %$20>!" E"%1"%3#!#>#$#5-c
+Ç^
+
+## Página 59
+
+### Doo@u@a
+U  -á-.t.d.@A5!6 ./16?C-&"?&-./1- n?o"-
+U  -á-._.d.ÅF&56?&!./?.QF=6 ."&F !D6&"F ".01- = .T6&-!"-&.}ë6=!ÉF 
+U  -á-.Ñ.d.vEDF5"!.!?&.0-!.0656E6"C-!./-!."&F !.}PsÄ.èÖÖ_Ö.-".ÖtaÖ
+U  -á-.Ö.d.@ATF?"!./1F&&EF=-.-"./1EE6M0!F"6 ./1? .- = .T6&-!"-&.5NF&=A.DF&.
+F-&N6T-&
+U  -á-.b.d.êF=6 .!?&MF!!A."éD-.OêU.Ü``.-".}ë6=!ÉF .ÖÜèíe
+U  -á-.u.d.^á"&F"./?.=&FDNn?-.&A-0./-.5&5?0F"6 
+U  -á-.è.d.Ä5N-.†vs.èSÑ
+U  -á-.Ü.d.}é "N#!-./-!.56 !"F"!.!?&.0-."&F .^sq.Öt_Öa
+U  -á-.a.d.}é "N#!-./-!.56 !"F"!.!?&.0-."&F .}PsÄ.buè_Ö
+Çv
+
+## Página 60
+
+
+
+## Página 61
+
+### D  "í"%] Ö%p-E#!# %1263"/56/"%12" A6B5"
+ÇR
+
+## Página 62
+
+^Q
+62$3 45=>#4? &#-
+^ O$]#-S
+6 005#@!
+@0$@#S#-#&52]
+12&3 45
+A &&#3&B4?
+### D  "í"%P Ö%}0/E6/!%16%†0O %5/0 !=/50 5%$2" O# %ë/"!5#"/%aóO!û0 
+D &=-#=EB4
+6#C
+F5 !" O0#
+F5M-20$=#0=
+F5M# B=
+P5@#&&Q
+%&-. 0$
+R &@$
+S#$=F2&"$
+A=R@#&&#
+ !"#$
+R2@@#&$
+F5 &! 0
+F5M#--#& B-
+P2B&$
+V &$
+T0O2B-U!#
+
+## Página 63
+
+### D  "í"%t Ö%b4=0E5!%!6/%$"!%$E45#3"!%1"!%5/0# ! aoÄ%vÅÅPÅ%"5
+## Å]RÅ
+??%ÅQvt^Q%16%5/0# %vÅÅPÅ
+m 5"%40# !%0//0EN-
+6=%=/5-%E/"30!!-%12" 3#/ %ÅQ%E4
+??%PPP^v%16%5/0# %Å]RÅ
+m 5"%40# !%0//0EN-
+6=!%/"ì6!
+^]
+
+## Página 64
+
+### D  "í"%Å Ö%p-ë065!%120//#40O"%"5%12#44>#$#!05# %126 %" O# 
+### ë/"!5#"/%EN0/O-%=0/%m0#"/Në"/
+a0 O$"!%/"5/63-"!%
+`/#ë#E"!%1"30 5%
+0=/ê!%$20EE#1" 5%  %
+/"E"3#/%$0%>0//"%
+ë#í-"!%03"E%!# 
+12#44>#$#!05# %
+/6O"
+@ %/6O"Ñ%"í"4=$"%1"%>0//"%12#44>#$#!05# %E//"E5"4" 5%4#!"%" %=$0E"
+!6/%6 %" O# %EN0/O-%=0/%m0#"/Në"/
+^P
+
+## Página 65
+
+a0 O$"%5/ê!%6!0O-"%/"5/63-"%!6/%$"%1"6í#ê4"%†0O Ñ%="6%56EN-%=0/%$20EE#1" 5
+a0 O$"%%/"5/63-"%!6/%$"%=/"4#"/%†0O %03"E%6 "%-5#A6"55"%1"%30$#1#5-%"ëë0E-"
+^t
+
+## Página 66
+
+### D  "í"%Ç Ö%è0O %!6/>0#!!-%5ï="%FèD éQQ%"5%aóO!û0 %ÅévuS
+|  | è0O FèDéQQ % % | aóO!û0 ÅévuS % |
+| Å6/! | Å6/!F/E!- 5NF&=-} . . . . Ñab"6 -! > . | tÑb"6 -! > . |
+| Å6/!F/E!!M0-- "&-0-! . . . . &-D#&-!ss . | __"6 -! . | tÑb"6 -! > . |
+| eF&=-?& | U/E!-Ñtt`EE . . . | _èÜ`EE . . |
+| e6 =?-?& | U/E!-t_u`ÜEE . . . | uab`EE . |
+^Å
+
+## Página 67
+
+### D  "í"%^ Ö%@í5/0#5%16%O/0=N#A6"%/-"$%1"%E#/E6$05# 
+s-&50A!.- .&6?=->.0-!.5&6!-E- "!./-!."&F !.èÖÖ_Ö.-".ÖtaÖ.FC-5.0-."&F .Öt_ÖaS.
+e-.5&6!-E- ".FC-5."&F .buè_Ö.T=?&-.- ."&F".D6 "00A.&6?=->.0-!."&F !. 1FéF ".DF!.
+- 56&-.T&F 5N".0F.MF0!-./-./A"-5"6 .!?CF "-.06&!./-.01F55/- "S
+EQQFQ
+NMSEM
+QRFQP
+EOQPN
+NMEQP
+NTEMO
+EUQMF
+EUQMF
+o=pp#-
+A 33#1CD/=11 -
+EFFMN
+6=V]
+EQUMO
+6#&_ 3 %"
+EQRMR
+EFFMME
+` 1
+EOPMN
+NOPFO
+_=a#% =3"&@ABA" "!/%4
+EEOMQ
+QRPQ
+b%c/=3d$#
+EESMO
+EQQFQ
+EPQMO
+EPTMU
+EOQPN
+D/="f!#1
+ETOMT
+ETTMS
+mf $ %"
+ERUMT
+mf n#% "
+ERTMS
+D/%"$/# =
+ENOME
+NTEFQ
+6#1&_#/"!%1
+ENNMU
+6 &-/="!33!>#&@ABA" "!/%4
+ESSME
+mf 3 !1
+PUFME
+PURMR
+_ -/=3CD]0!33 -
+NOPFO
+QRPQ
+NTEFQ
+^Ç
+
+## Página 68
+
+### D  "í"%v Ö%Ä#EN"%fb%vct
+## @ %D$$"40 1
+^^
+
+## Página 69
+
+^v
+
+## Página 70
+
+### @ %Ä/0 ì0#!
+^é
+
+## Página 71
+
+^R
+
+## Página 72
+
+vQ
+Ä=#&0=&3!Ä=!0#&fa0 =3!Ä=#M&
+"=%%#3&0=&6!n#% %"&./" %"&
+u#!>#&3 &"d"#&0t 2 "" c#&
+2/é"!#1&0#&-/$$=%!- "!/%
+1/=1&3#1&0#=V&#%c!%1& !%1!
+]3#-"!Ä=#1&1/%"&.]1#%"1&
+./=&3#1&1#-/=1&0 %1&3#
+3#1&!%0!- "!/%1&Éu QP&#"
+Éu&ONM&u#&%/$2#=V
+`>û"5!%1#3
+0]2!1&$]" 33!Ä=#1&#"
+#"&1/=1&3t#%c!%&0#=V&
+.3 "# =&1/%"&n!1!23#15&$ !1&3#1&/=#1&0#&3t#%c!%&%#&1/%"&.3=1&0 %1&3#1&
+6t#%c!%&1t#1"&]c 3#$#%"&0].3 -]&3 "] 3#$#%"&#"&1#&#"/=n#&#%&2! !1&
+0]"#%0=#15&3#1& ="#1&%#&1/%"&. 1&.]1#%"#1M&m/C1/4>&41^>=6/3/4C1
+]"]&.#-="]&~&3t !>#&. &3#&.#$!#&#%c!%&#"&#1"&#%0/$$ c]&. &3#&
+2 1&.!%-!. 3&0#&3t 2 ""#=1#&AÖÅÜAÑbá& =&%!n# =&0=&23/-&$/"#=M&
+q%c!%&Ar/c1s %&ENR&n#"M&m#"&#%c!%&%t#1"&.3=1& $ ]&1=&3#&.3 "# =&
+0t !$ c#&#1"&1/"!#&0#&1/%&3/c#$#%"&#"&.#%0&]c 3#$#%"&#%&0#f/1
+ 2 ""#=1#& $ ]#&1=&3#&1#-/%0&0#$!Cv c/%M&6t#%c!%&p/#1"!#&#1"&
+ n %"&#"&3 &/=#& !>#M&m#""#&"d"#&0t 2 "" c#&#1"&f/1&c 2 !"&0#&PU
+1=&3#&.3 "# =&#"&#%&. "!#& "!-=3]&#"&.]1#%" %"&=%& %c3#&p#$]&1=&
+-/=.]1&#"&-#""#&0#%!>#&#1"&- 11]#M&6 &s %"#&#"&3#&.%#=$ "!Ä=#&/%"
+$]" 33!Ä=#&#1"&0]p/$]#5&3#&.%#=$ "!Ä=#&#1"&]-3 "]&#"&.]1#%"#&0#&
+3/c#$#%"M&6 &- 2!%#&#1"&#%&. "!#&0]"=!"#5&3 &./"#&#1"&  -f]#&#"&
+d=1C?@%/66/12/16A/4>&41=1/--/.C@^1@4/1%?C=C&?41D/%016A=%%&V%/1/C16/
+ÇDÉqoÑbmÖ&#"&0#&-/=3#=&n#"#&#1"&]c 3#$#%"&#%0/$$ c]M&Ç3& &
+1 %c3#1&0t !$ c#&#1" %"#1&0#&-/=3#=&23#=#&@ %%]#&QUUS4&1/%"&
+=%C&.@6=C&?41.?33/1.?40C=C^10@%12A=@C%/015?%C/@%01-?%/0C&/%01
+%/$2#=1#1&" -#1&0#&p/""#$#%"&#"&0#1&0]2!1&0#&.!##M&6 &- 3#&
+6t#%c!%&1t#1"&n!1!23#$#%"&0].3 -]&n#1&3t !>#&f#=" %"&=%#& ="#
+Å%&#"/=n#&]c 3#$#%"&3 &"d"#&0t 2 "" c#&~&c =-f#&#%"#&3 &/=#&
+3t#V"]!#=&0=&v c/%M&6#1&c/=s/%1&0#&3 &-/=/%%#&0#&3 &/=#&1/%"
+-/!%-]&1/=1&3 &/=#& n %"&c =-f#M&u#1&- 3#1&#%&p#&p!V]#1&1=&3#&
+ 21#%"#M&A=&3#&.3 "# =5&-#" !%#1&- 3#1&0t !$ c#&%#&1#$23#%"&
+=%C&.@6^15=%16/13&6&/@14A/0C15=01^e@&5^12A@4/1B=%%/1B6?e@=4C1
+6#&- ./"&%/" $$#%"&#1"&"/0=&#"&1#&#"/=n#&~&3 &n#"!- 3#M&6#1&
+#"5&1#=35&=%&p c$#%"&0#&1 %c3#&0#&-/=3#=&23#=#&#1"&n!1!23#&#"&
+=00@%=4C10?413=&4C&/410@%16/1B%=015%&4.&5=6c&6#1&-f#$!1#1&
+b&c =-f#5&3 &/=#& !>#&c =-f#&1#&#"/=n#&f/1&c 2 !"&0=&
+-?%/0C&/%c1d/1B%=01B=6=4.&/%1/0C1=B0/4C1=&40&1e@/16/01=f/01
+3 &0/!"#M&6#&$/a#=&0#&3 &/=#& n %"&0/!"#&#1"&f/1&c 2 !"&~&
+-#%"!$>"#1&#"&.]1#%"#&]c 3#$#%"&0#&%/$2#=1#1&" -#1&0#
+B%=015%&4.&5=61=15/%.@C^16/1B6?.13?C/@%12@10/.?421/4>&41
+0t=1=#& =&%!n# =&0#1& V#1&1/%"&#%&. "!#&  -f]#1&0#&3#=&
+$ %}=n#1M1"614AU1=15=012/10U0CV3/12/1B6?.=>/12/1./CC/1
+.3 "# =&#"&0]. 11#&0#&PP&-#%"!$>"#1&0=&v c/%M&6 &s %"#&
+ "!-=3]&. &3#&$!3!#=&#%&0#$!&./%"1&.#$#"" %"& !%1!&3#1&
+A=&3#&1#-/%0&0#$!&v c/%5&3t#%c!%&p/#1"!#&0#&$ Ä=#
+`a%=012/13=&4C&/41/413^C=612/1.?@6/@%1%?@>/bc
+N0/O"4" 5
+.3=1&d"#&0 %1&3#=&./1!"!/%&0t/!c!%#M
+p/""#$#%"&#"&0#1&0]2!1&0#&.!##M
+#$.3 -#$#%"1&.]n=1M
+6A=%C&.@6=C&?4c
+0=&v c/%M
+0!1. =M
+PAF "
+### D  "í"%é Ö%aï 5Nê!"%1"!%E !505!%!6/%$"%5/0# %@M%Å]PÅR
+D//#40O"
+sF0-!.EA"F00n?-!.-".n?-0n?-!.!F =0-!
+p-O∞5!%E !505-!%!6/%$"%
+405-/#"$%ë"//3#0#/"
+PAF "
+Fï="%1"%
+†0O 
+Å0F"-F?.r.
+Å0F"-F?.r.
+!?&MF!!A
+&F 5N-&!
+&F 5N-&!
+êF=6 .
+RRRRR
+ ü$E45#3"Ø
+ÑtÜ`Ñb_b_u_R_
+ÑtÜ`Ñb_bÖaaR`
+_ÑÜ`ÖÑÑÖ__tRè
+ ü†0O 
+uu`ÑÜ
+/1/"
+E6"C-
+oü
+0656R
+t
+_
+Ñ
+
+## Página 73
+
+v]
+$]" 33!Ä=#5&0]2!1&$=3"!.3#1&
+0#&-ì23 c#1&fa0 =3!Ä=#15&
+á/$2#=V&$/-# =V&0#
+.3#V!c3 15&c!33#&#%&$]" 3
+.!#015&=%#&- 3#&#%&2/!1M
+]3#-"!Ä=#15&=%&$ -f#C
+ü%&$/-# =&0#&c!33#&
+p#5&-!-=!"1&!$.!$]15
+]-/=15&$/-# =V&0#
+`>û"5!%1#3
+.3 Ä=#1&$]" 33!Ä=#1M
+-!-=!"1&!$.!$]1&#"&
+-/$.#% %"&0#1&p!31
+u#=V& 2 ""#=1#1&p/#1"!>#1&0#&$ Ä=#&ÇDÉqoÑbmÖ&"a.#&FQRU&u&
+0t=%&2 1&"]3#1-/.!Ä=#M&q%&. " %"&0#&3t n %"&0=&n]f!-=3#5&3#1&/=#1&
+q%c!%&áê&Q&ë&3#&- ./"&$/"#=&#1"&/=n#"5&3 &n!"#& !>#&0#&3 &- 2!%#&
+q%c!%&áê&F&ë&3#&. #C2!1#&#1"&2!1]&#"&!3&$ %Ä=#&=%#&- 3#&~&3 &/=#&
+mFUUUó&A]!#&%ê&FQRó&b%%]#&ë&FSSNó&n]f!-=3#& "!-=3]&ó&"a.#&NûN&@N&
+0#1&/=#1&0]$/%"]#1M&Ç3&#1"&-/%1"!"=]&0t=%#&. "!#&-f c#$#%"&#"&
+6t#%c!%&#1"&./1!"!/%%]&1=&3t n %"&0=&0#$!&v c/%& n#-&=%#&. "!#&
+0]$/%"]#1&1/%"&1 %c3]#1&1=&3t !>#&0=&0#$!&v c/%M&m#1&/=#1
+q%c!%&0#&$ Ä=#&ÑÅíá&uqqoq5&%ê&0#&1]!#&muTUTNÜÅONTTS5&
+#1"&2!1]#&#"&3#&2/é"!#&0=&p!3"#&0t ] "!/%&1=&3#&- ./"&$/"#=&#1"&
+q%c!%&0#&0]2 0 c#&p/#1"!#&ë&D Ä=#&ë&`q6Abñq&ó&D/0>3#&ë&
+Q&#"&O&1/%"&0]$/%"]#1&0#&-f Ä=#&-/"]M&6#1&Ä= "#&/=#1&
+N0/O"4" 5
+ !$]#1&#%&p -#&~&p -#& !>#M
+1/%"&./1]#1&~&.3 "&1=&3 &s %"#M
+/=#1&$/"!-#14
+$/0>3#&FFFUu
+ !>#&0/!"#
+- 11]M
+#"!]#4M$66/14A/0C15=015?0&C&?44^/1.?%%/.C/3/4C15@&0e@A/66/14A/0C15=01B6?e@^/10@%1
+RV%/1.=6/1ë1B6?e@/16A=D=4C12/16=1%?@/14oMR1t1/66/14A/0C15=015?0&C&?44^/1.?%%/.C/3/4C1
+.?%%/.C/3/4C15@&0e@A/66/14A/0C15=01B6?e@^/10@%16/154/@3=C&e@/1/C15/@C10/1%/C&%/%1
+@%16A/4>&41no1R1@ n %"&0=&v c/%45&3#1&E&1 %c3#1&p!V %"&3#&0/=23#&#11!#=V& n %"&#"&3#1&
+&&"#% %"&3t#11!#=& n %"&0#&3t#%c!%&1=&3#&v c/%5&0#&-/=3#=&23#=#5&"#%0=#&#"&
+QV3/1.=6/ë&#33#&23/Ä=#&~&3t n %"&0=&$/a#=&0#&/=#&%êUO&@0/%"&3 &/=#& &]"]&#"!]#4M#33#&
+&&"#% %"&3t#11!#=& n %"&0t=%&#%c!%& =&.3 %-f#&0=&v c/%5&0#&-/=3#=&23#=#5&
+5@&0e@A/66/14A/0C15=01B6?e@^/10@%16/154/@3=C&e@/1/C15/@C10/1%/C&%/%1=&0^3/4C1=@1
+NV3/1.=6/ë&#33#&23/Ä=#&3t !>#&0#&3 &/=#&%êUE&0#&3t#%c!%&ë&/66/14A/0C15=015?0&C&?44^/1
+6t#%1#$23#&0#1&1 %c3#1&1/%"&./1!"!/%%]#1&0#&$ %!>#&1a$]"!Ä=#&0#&-f Ä=#&-/"]&0#
+6#-Q%P=4 0$%6#%54 04# 0R%S#%P=4 0%4 0A.4#-.%$#%T40%P.%@=-"4$$#%63- %A"A5# 0%# %U%V%]%
+A"A5# 0%$4"" 0%@b"4 6.4C-#%6 $%6#$%0.=-#$%^P.A$# 0$%6#%@_C-#%@=0A%#0%$-.%0=-0#%"%
+TV3/1.=6/ë&#33#&23/Ä=#&3t !>#&0#1&/=#1&1"/-r]#1&ë&#33#&#1"&./1!"!/%%]#&-/#-"#$#%"&
+@%16A/4>&41no1F @ !>#&0=&v c/%45&3#1&1 %c3#1&-/$$#&./=&3#&.#$!#5&1/%"&"/="#1
+&"#% %"&0#1&.%#=1&0t#%c!%50#&-/=3#=&23#=#5&2^C/42@/p&n#/=!33]#&1=&3#1
+d=10=4>6/14oQ1.?C^12%?&C12/1s=>?41/0C12^C/42@/1?@D/%C/1/C14?41D/%%?@&66^/c16#1
+&&"#% %"&3t#11!#=& !>#&0#&3t#%c!%& =&v c/%5&0#&-/=3#=&23#=#5&"#%0=#&#"&
+&&"#% %"&3t#11!#=& !>#&0#&3t#%c!%& =&v c/%5&0#&-/=3#=&23#=#5&"#%0=#&#"&
+6#1&0#=V&#%c!%1&1/%"& !$]1&~&3t !0#&0#&1 %c3#1&23#=#1&~&-3!Ä=#"1&0t=%#&3 c#=&0#&
+î= "#&1 %c3#1&1#n#%"&~&3t !$ c#&0#&3t#%c!%M&6t#%1#$23#&0#1&1 %c3#1&#1"&-/"]&#%&
+6 $%- %.4"%^P.A$# 0%6#%@_C-#%@=0A%#0%$-.%0=-0#%"%"= !-#-.%6-%6#54%`!= aO%$= %
+F42/1.=6/1ë&23/Ä=#&3t !>#&0#&3 &/=#&%êUF&ë&#33#&#1"&./1!"!/%%]#&-/#-"#$#%"&#"&%#&
+M33- #%"= !-#-.%63# /4.= %NF%@5O%#""#%$= 0%"0A."#5# 0%0.4 !-"4.#$%#0%P.A$# 0# 0%
+&"#% %"&3#1&.%#=1&0#&3t#%c!%&1=&3#&v c/%5&0#&-/=3#=&/ %c#5&"#%0=#5&
+P=$404=  #5# 0%$#%T40%P.%.=004= R%S#%$#@= 6%P=4 0%$#%T40%P.%# T= @#5# 0%63- %
+1 %c3#1&0=&-/"]&c =-f#&1/%"&-/#-"#$#%"&./1!"!/%%]#15&n#/=!33]#1&#"&"#%0=#1M&
+6#1&.%#=1& !>#1&0#1&0#=V&#%c!%1&1/%"&0]$/%"]1&#"&p!V]1&]c 3#$#%"&~&3t !0#&0=
+P>$#&1 %c3#ë&"#% %"&0#1&.%#=1&~&3t#%c!%5&0#&-/=3#=&/ %c#5&"#%0=#&#"&n#/=!33]#M
+u#=V&1 %c3#1&0#&-#&"a.#&1/%"&./1!"!/%%]#1&#%&-/!V&1=&3#1&E&/=#1M&q33#1&1/%"&
+6/154/@3=C&e@/1/C15/@C10/1%/C&%/%1=&0^3/4C1=@14&D/=@12/16A^6^3/4C10=&66=4C
+#1"&./1!"!/%%]#&-/#-"#$#%"&#"&%#&.#="&1#&#"!#&1 %1&!%"#n#%"!/%&f=$ !%#M
+OV3/1.=6/ë&#33#&23/Ä=#&~&3t !>#&0=&$/a#=&0#&/=#&%êUQ&@0/%"&3 &/=#& &]"]&
+A=&-#1&0#=V&#%c!%1&%/=1&-/%1" "/%1&3 &.]1#%-#&0#&3 &2 #& %"!/" "!/%M
+!B0/4./12/1B=%%/1=4C&rC?%0&?410@%16=15=%C&/1=%C&.@6^/12/16A/4>&4c1
+E&1 %c3#1&p!V %"&3t#11!#=& !>#&1/%"&"/="#1&"#%0=#1&#"&n#/=!33]#1M
+n#/=!33]#15&#%&.3 -#5&"#%0=#1&#"&%#&.]1#%"#%"&. 1&0#&0]cì"1M
+"#%0=#5&n#/=!33]#&$ !1&.]1#%" %"&0#1&C%=./012/12^.q&%@%/0c
+P-$5&p!V]#1&1=&3#1&#11!#=V& n %"&#"& !>#&0#1&0#=V&#%c!%1M
+ !"#$%&"#-#$%$#./ 0%1%"3..45!#%6#$%.=-#$%#0%6#%"3# !4 >
+A!V&- 3#1&1/%"&.]1#%"#1&0#&-f Ä=#&-ï"]&0=&0#$!&v c/%M
+=&0^3/4C1=@14&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+$d$#&"a.#&0#&1 %c3#15&~&3t n %"&#"&~&3t !>#&0=&v c/%M
+D//#40O"
+#"&%#&.#="&1#&#"!#&1 %1&!%"#n#%"!/%&f=$ !%#M
+. " %"&0#&3t n %"&n#1&3t !>#&0=&0#$!&v c/%M
+É #& %"!C.!n/"#$#%"&.]1#%"#&#"&#%&.3 -#M
+4&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+.#="&1#&#"!#&1 %1&!%"#n#%"!/%&f=$ !%#M
+?.@0A.4$04C-#$% = %"4$4&"#$D%  A#%EFFE
+b=-=%#&1 %c3#&%#&.]1#%"#&0#&0]cì"1M
+"= !-#-.%6-%6#54%`!= aR%
+"#%0=#1&#"&n#/=!33]#1M&
+.%#=1&#"&3#&v c/%M
+u]" !3&-/"]&0/!"&ë&
+.U6&42%&e@/c
+& &&1 %c3#ë&
+& &&1 %c3#ë&
+& &&1 %c3#ë
+& &&1 %c3#ë
+& &&1 %c3#ë
+& &&1 %c3#ë
+n#/=!33]#M
+n#/=!33]#M
+n#/=!33]#M
+n#/=!33]#M
+3t#%c!%M
+ !"
+&
+&
+&
+&
+&
+O&&>$#
+E&&>$#
+T&&>$#
+R&&>$#
+&
+Q&&%0#
+F&&>#
+p-O∞5!%E !505-!%!6/%$"
+405-/#"$%ë"//3#0#/"
+PAF "
+PAF "
+PAF "
+Fï="%1"
+†0O 
+!?&MF!!A
+!?&MF!!A
+!?&MF!!A
+êF=6 .
+êF=6 .
+êF=6 .
+ ü$E45#3"Ø
+_ÑÜ`ÖÑÑÖ_Ü`RÑ
+_ÑÜ`ÖÑÑÖÖttRÖ
+_ÑÜ`ÖÑÑÖÖttRÖ
+ ü†0O 
+/1/"
+oü
+b¢t
+b¢_
+Ö
+
+## Página 74
+
+vP
+u]-/=n#"# & 0t=% & -ì23#&
+fa0 =3!Ä=# &  -f] & ./1]
+m=6/0&0#&/=#1&#%&./1!"!/%
+}@B@6@%/&#%c!%&%êF&"/0=#
+p!31&]3#-"!Ä=#15&$/-# =V&
+c!33#5$/-# =V&0#&n##15
+v&C%/&3 "] 3#1&#%c!%&%êUQ
+- 11]& !>#&0=&v c/%&
+u%^0/4./&0t=%&.f #&
+`>û"5!%1#3
+0#n %"&#%c!%&%êQ
+u%^0/4./&0#
+0#&p# !33#1
+1=&3t#%c!%M
+2!1]#
+PAF "
+q%c!% & 0# & $ Ä=# & ÑÅíá & uqqoq5 & %ê & 0# & 1]!# & 6ÅÖCFFTOCFQTUC
+0t=%&2 1&"]3#1-/.!Ä=#M&q%&. " %"&0#&3t n %"&0=&n]f!-=3#5&3#1&/=#1&
+0#1&/=#1&0]$/%"]#1M&Ç3&#1"&-/%1"!"=]#&0t=%#&. "!#&-f c#$#%"&#"&
+D/0>3#ë&FFFUm5&A]!#&%ê&FRumUNNFó&b%%]#&ë&QUUFó&_/!01&~&`!0#ë
+6t#%c!%&#1"&./1!"!/%%]&1=&3t n %"&0=&0#$!&v c/%& n#-&=%#&. "!#&
+0]$/%"]#1&1/%"&1 %c3]#1&1=&3t !>#&0=&0#$!&v c/%M&m#1&/=#1
+FO5F&/%%#1ó&n]f!-=3#& "!-=3]&ó&"a.#&NûN&@N&/=#1&$/"!-#14
+Q&#"&O&1/%"&0]$/%"]#1&0#&-f Ä=#&-/"]M&6#1&Ä= "#&/=#1&
+$4>&412/12^B=%2=>/1-?%/0C&/%&ë&D Ä=#&ÇDÉqoÑbmÖ
+N0/O"4" 5
+$4>&41noMR1t1`b6áq&NTU&@/=c#4
+1/%"&./1]#1&~&.3 "&1=&3 &s %"#M&
+FQ5UTCñURURPO5&$/0>3#&FQRUu
+$4>&41noMFt&6ÅÜAq&@n#"4
+u#=V&0]2 0#=1#1
+&"#% %"&3t#11!#=& n %"&0t=%&#%c!%& =&.3 %-f#&0=&v c/%5&0#&-/=3#=&/ %c#5&
+ü%& ="#& !$ c#&#1"&#pp#-"=]#&1=&3t n %"&0#&3t#%c!%&. &0#1&1 %c3#1&/=c#1&"#%0=#15&
+-/"]&0#&-#3=!C-!ó&m#1&1 %c3#1&1/%"&"#%0=#15&#%&.3 -#5&n#/=!33]#1&#"&%#&.]1#%"#%"&. 1&
+.?%%/.C/3/4C15@&0e@A/66/14A/0C15=01B6?e@^/10@%16/154/@3=C&e@/1/C15/@C10/1%/C&%/%1
+u#=V&1 %c3#1&0#&-#&"a.#&1/%"&./1!"!/%%]#1&1=&3#&-fì11!1& !>#&0#&3t#%c!%&0#&-f Ä=#&
+QV3/1.=6/ë&#33#&23/Ä=#&~&3t !>#&0=&$/a#=&0#&/=#&%êUO&@0/%"&3 &/=#& &]"]&#"!]#4M#33#&
+6t#%1#$23#&0#1&1 %c3#1&1/%"&./1!"!/%%]#1&0#&$ %!>#&1a$]"!Ä=#1&0#&-f Ä=#&-/"]&0#
+P>$#&1 %c3#ë&"#% %"&3t "" -f#&#$/Ä=#&0#&3t#%c!%& =&v c/%5&0#&-/=3#=&/ %c#5&"#%0=#
+"= !-#-.%6-%6#54%`!= aO%$= %P=$404=  #5# 0%$#%T40%P.%.=004= R%S#%$#@= 6%P=4 0%$#%
+OV3/1.=6/ë&#33#&23/Ä=#&~&3t n %"&0=&$/a#=&0#&/=#&%êUQ&@0/%"&3 &/=#& &]"]&#"!]#4M$66/1
+&&"#% %"&3t "!-=3 "!/%&0#&3t#%c!%&1=&3#&v c/%5&0#&-/=3#=&$ /%5&"#%0=#&#"&
+RV%/1.=6/&ë&#33#&23/Ä=#&3t !>#&0#&3 &/=#&%êUFë&#33#&#1"&./1!"!/%%]#&-/#-"#$#%"&#"&%#
+4A/0C15=015?0&C&?44^/1.?%%/.C/3/4C15@&0e@/14A/0C15=01B6?e@^/10@%16/13?U/@1/C1
+#"&n#/=!33]#5&3=&015%^0/4C=4C1@41B%&412/1%=55/61.?@5^1/C10^5=%^12/10=1-&f=C&?41
+@=-"4$$#%63- %A"A5# 0%# %U%V ]%6 $%- %.4"%^P.A$# 0%6#%@_C-#%@=0A%#0%$-.%0=-0#%"%
+T40%P.%# T= @#5# 0%63- %A"A5# 0%$4"" 0%@b"4 6.4C-#%6 $%6#$%0.=-$%^P.A$# 0$%6#%
+6t#%1#$23#&0#1&- 3#1&-/"]&c =-f#&1/%"&./1!"!/%%]#1& =V&$d$#1&#%0/!"1&#"&1/%"
+0.4 !-"4.#$%#0%P.A$# 0# 0%6#-Q%P=4 0$%6#%54 04# 0R%S#%P=4 0%4 0A.4#-.%$#%T40%P.%
+1&?.@0A.4$04C-#$%>%633- #%"= !-#-.%63# /4.= %NF%@5O%#""#%$= 0%"0A."#5# 0%
+&&"#% %"&3t#11!#=&0#&3t#%c!%&1=&3#&v c/%5&0#&-/=3#=&$ /%5&"#%0=#5&
+u#=V&1 %c3#1&0#&-#&"a.#&1/%"&./1!"!/%%]#1&#%&-/!V&1=&3#1&E&/=#1M&q33#1&1/%"&
+#1"&./1!"!/%%]#&-/#-"#$#%"&#"&%#&.#="&1#&#"!#&1 %1&!%"#n#%"!/%&f=$ !%#M
+VbP#%cdeD%"= !%f%5D%  A#%EFFmD%@=6#%EFFm%Fn%fcnm%D%P-4$$ @#%EOnV%1%n%VR
+F>#&1 %c3#ë&"#% %"&3#&2 1&0#&3t#%c!%& =&v c/%5&0#&-/=3#=&/ %c#5&"#%0=#5&
+F42/1.=6/&ë&#33#&23/Ä=#&3t n %"&0#&3 &/=#&%êUFë&/66/14A/0C15=015?0&C&?44^/1
+5/@C10/1%/C&%/%1=&0^3/4C1=@14&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+!B0/4./12/1B=%%/1=4C&rC?%0&?410@%16=15=%C&/1=%C&.@6^/12/16A/4>&4c
+6]c#&0].3 -#$#%"&0t=%&.%#=&0t#%c!%&./1]&~&.3 "&1=&3#&v c/%M
+n#/=!33]#15&#%&.3 -#5&"#%0=#1&#"&%#&.]1#%"#%"&. 1&0#&0]cì"1M
+A#."&- 3#1&1/%"&.]1#%"#1&0#&-f Ä=#&-/"]&0=&0#$!&v c/%M
+=&0^3/4C1=@14&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+@_C-#%@=0A%#0%$-.%0=-0#%"%"= !-#-.%6-%6#54%`!= aR%
+#%&.3 -#5&n#/=!33]#1&#"&%#&.]1#%" %"&. 1&0#&0]cì"1M
+&&
+#$% !"&-./%!"&"!-0$1&2& 4--56%!&=!& 4!$%5$&>
+#$% !"&? !/!"&"!-0$1&2& 4--56%!&=!"&-./!">
+D//#40O"
+Ü.!F =0-!./6 ".t."- /?->.40#!%=0!%3"//6#$$-"!
+É #& %"!C.!n/"#$#%"&.]1#%"#&#"&#%&.3 -#M
+.#="&1#&#"!#&1 %1&!%"#n#%"!/%&f=$ !%#M
+?.@0A.4$04C-#$% = %"4$4&"#$D%  A#%EFFE
+"/="#1&-/#-"#$#%"&n#/=!33]#1M&
+a.!F =0-!."- /?-!.-".C-&&6?00A-!
+u]" !3&-/"]&c =-f#ë&
+"#%0=#5&n#/=!33]#M
+u]" !3&-/"]&0/!"&ë
+..d.
+sÇ"A.=F?5N-
+& &&1 %c3#ë&
+& &&1 %c3#ë
+& &&1 %c3#ë
+=@1s=>?4c
+..d.
+n#/=!33]#M
+n#/=!33]#M
+n#/=!33]#M
+0#&0]cì"1M
+sÇ"A./&6"
+3t#%c!%M
+m1 1 !"
+&
+&
+&
+O&&>$#
+E&&>$#
+Q&&%0#
+1
+.
+.
+&
+p-O∞5!%E !505-!%!6/%$"
+405-/#"$%ë"//3#0#/"
+PAF "
+PAF "
+PAF "
+Fï="%1"
+†0O 
+!?&MF!!A
+!?&MF!!A
+!?&MF!!A
+êF=6 .
+êF=6 .
+êF=6 .
+ ü$E45#3"Ø
+_ÑÜ``ÖÑÑÖ_ÖÑRt
+_ÑÜ`ÖÑÑÖ_aèRè
+_ÑÜ`ÖÑÑÖ_aèRè
+ ü†0O 
+/1/"
+oü
+è¢t
+è¢_
+u
+
+## Página 75
+
+vt
+0t=%&
+p!31&
+!B0/4./12/10U0CV3/12/1
+-/%1"!"= %" & 3 & 2 %0# & 0#&
+0t#%c!%&
+p# !33#&0t=%#&3/%c=#=&0#&
+]3#-"!Ä=#1&1=&.3 %-f#&0=&
+u]-/=n#"#&1=&3#&.3 "# =&
+0t=% & $/-# = & 0# & c/$$#&
+ c!-/3# & 0t=% & 0! $>"# & 0#&
+_]1#%-#&0t=%&$/-# =&0#&
+D/%%?@&66=>/10@%16/012/@f
+~&O&$&0#&3t n %"&0=&v c/%
+m 3#1&0#&/=#1&#%&./1!"!/%
+&
+`>û"5!%1#3
+0#
+&
+&
+.%#=$ "!Ä=#
+&
+F$&#%n!/%
+/=3#$#%"
+_]1#%-#
+/4>&40
+v c/%M
+QU&-$M
+N0/O"4" 5
+@-?á./AMF&/-?!-!
+êF=6 .T-&EA¢PAF "
+† c/%&n!0#B&á] %"
+êF=6 .C/-¢PAF "
+† c/%&n!0#Bá] %"
+êF=6 .T-&EA¢ AF "
+EV3/1.=6/&ë&#33#&23/Ä=#&3t n %"&0#&3t#%1#$23#&0#1&/=#1&0]$/%"]#1&0#&3t#%c!%&#"&.3 -]#1&
+.?%%/.C/3/4C15@&0e@A/66/14A/0C15=01B6?e@^/10@%16/154/@3=C&e@/1/C15/@C10/1%/C&%/%1
+.?%%/.C/3/4C15@&0e@A/66/14A/0C15=01B6?e@^/10@%16/154/@3=C&e@/1/C15/@C10/1%/C&%/%
+5@&0e@A/66/14A/0C15=01B6?e@^/10@%16/154/@3=C&e@/1/C15/@C10/1%/C&%/%1=&0^3/4C1=@1
+NV3/1.=6/ë&#33#&23/Ä=#&3t !>#&0#&3 &/=#&%êUE&0#&3t#%c!%&ë&/66/14A/0C15=015?0&C&?44^/1
+TV3/1.=6/ë&#33#&23/Ä=#&3t n %"&0#&3 &/=#&%êUE&0#&3t#%c!%&ë&/66/14A/0C15=015?0&C&?44^/1
+6t#%1#$23#&0#1&- 3#1&-/"]&c =-f#&1/%"&./1!"!/%%]#1& =V&$d$#1&#%0/!"1&#"&1/%"
+~&3t !>#&0=&v c/%&%êUF&0#&3t#%c!%&ë&/66/14A/0C15=015?0&C&?44^/1.?%%/.C/3/4C
+=&0^3/4C1=@14&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+=&0^3/4C1=@14&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+D//#40O"
+.f!0O-"Ñ.C-&&6?00A->.1#!5" 16"
+4&D/=@12/16A^6^3/4C10=&66=4C1.U6&42%&e@/c
+.f!0O-"Ñ.C-&&6?00A->."- /?-
+..d...  %3"//6#$$-"!Ñ."- /?-
+Ö#E-.!F =0- d.  %3"//6#$$-">."- /?-
+..d...C-&&6?00A->.  %5" 16"
+..d...C-&&6?00A->.  %5" 16"
+..d...C-&&6?00A->.  %5" 16"
+"/="#1&-/#-"#$#%"&n#/=!33]#1M&
+..d...C-&&6?00A->."- /?-
+. .!F =0-d.ü-&&6?00A->."- /?-
+..d...C-&&6?00A->."- /?-
+u]" !3&-/"]&c =-f#ë
+Æ5-%O06EN"
+. ..!F =0-d.
+. ..!F =0-d.
+. ..!F =0-.
+. ..!F =0-
+. ..!F =0-
+. ..!F =0-
+. ..!F =0-
+Æ5-%1/#5
+. .!F =0-
+.
+.
+.
+.
+.
+.
+.
+_.. /-.
+Ñ..#E-
+b..#E-
+u..#E-
+Ñ..#E-
+Ö..#E-
+.
+t..#&-.
+_.. /-
+t..#&-
+.d.C-&"5F0-.Ü>a`.E./-.01F =0-./?.
+u6&@%/&0t=%#&.3 Ä=#&1!"=]#&1=&-ï"]&0/!"&
+&&n#"!- 3#&~&Q5FU&$&0#&3t %c3#&
+$/%" %"&0#&$ !%"!#%"&0#1&2!33#1&0#&2/!1&
+$/%" %"&0#&$ !%"!#%"&0#1&2!33#1&0#&2/!1&
+&&n#"!- 3#&0]2="&0#&3t %c3#&0=&
+@1#-/%0&$/%" %"&#%&. " %"&0#&3t n %"4&
+.3!]1&n#1&3t !>#5&~&3#=&2 1#&1!"=]#&~&
+~&=%#&f ="#=&0#&Q$SQ&1!"=]#&~&O$NP&
+=%#&f ="#=&0#&F5QU&$&. & ../"&~&3 
+.#$!#1&./"# =V&3 "] =V&1]. ]1&0#&
+-/$.!1#1&#%"#&Q$TU&#"&Q$EU&1=&=%
+p-O∞5!%E !505-!%!6/%$"
+R.è>_bEít>ÖbE.NF?"-?&íÑ>bbE.e6 =
+0=&v c/%&1=&QP&-$&~&F5OU&$&0=&1/3
+R.t_>bbEít>ÖbENF?"-?&ía>ÖbE06 =
+F5RU&$&3#1&=%1&0#1& ="#1&1/%"&"/=1&
+!15=%C&%&0#&3t %c3#& n %"&0/!"5&3#1&P&
+0=&v c/%5&~&3t n %"5&~&=%#&f ="#=&
+1!"=]&~&Q$FU&0#&3t n %"&0=&v c/%M&
+u6&@%/010@%13?4C=4C012/1%&2/66/0
+405-/#"$%ë"//3#0#/"
+}%=./&0#&c/$$#&%/!#&1=&3#&O>$#
+v c/%&1=&QP&-$&~&F5OU&$&0=&1/3
+QF=6 .!?&._b.5E.r.t>Ñ`.E./?.!60
+#=U@%/01q?%&~?4C=6/0&f ="#=&
+-/$.!1#&#%"#&F5OU$&#"&F5PP$
+_.- T6 5-E- "!.N6&û6 "F?á d
+PAF "
+0#&3t n %"&0=&v c/%M
+" n#1#&0#& !3
+è0O %ë"/4-
+& &&.3!=#ë
+. .&.3!=#
+& &&.3!=#ë
+&
+.
+Q&&>$#
+Ñ..>$#
+&
+F&&>#
+Fï="%1"
+†0O 
+!?&MF!!A
+!?&MF!!A
+!?&MF!!A
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+56?C-&"
+56?C-&"
+ ü$E45#3"Ø
+ÑtÜ`_èÜ``tÑÑRè
+_ÑÜ`ÖÑÑÖ_ÑbRè
+_ÖèÖÖÑba_ÑbRÖ
+_tÜ`ÖÑ`a`aÖRt
+_tÜ`ÖÑ`a`aÖRt
+_tÜ`ÖÑ`a`_èRt
+ ü†0O 
+/1/"
+oü
+tt¢t
+tt¢_
+t_¢t
+t`
+Ü
+a
+
+## Página 76
+
+vÅ
+`>û"5!%1#3
+N0/O"4" 5
+† c/%&p#$]&B&á] %"
+† c/%&p#$]&B&á] %"
+† c/%&p#$]&B&á] %"
+† c/%&p#$]&B&á] %"
+† c/%&p#$]&B&á] %"
+êF=6 .T-&EA.¢.PAF "
+êF=6 .T-&EA.¢.PAF "
+† c/%&n!0#&B&á] %"
+† c/%&n!0#B&á] %"
+† c/%&n!0#B&á] %"
+D//#40O"
+ü%&$/%" %"&3 "] 3&0#&$ !%"!#%&0#1&2!33#1&
+QF-$&~&3t %c3#&1=.]!#=&0/!"&0=&v c/%M&
+&&n#"!- 3#&N5SP&$&0#&3t %c3#&0=&
+0#&2/!1&1!"=]&~&O5NO$&0#&3t n %"5&#1"&.3!]&
+3t %c3#&0=&v c/%&1=&F5NP&$&#"&~&F5TP&$&
+!-."-&E -&.- .M6?"./-.QF=6 .r._t>a`ES
+f ="#=&0#&F5OU$&0#&3 &" n#1#&0#& !35&
+F>#&.3!=#ë&n#"!- 3#&Q5FU&$&0#&3t %c3#&0=
+R.sÇ"A./&6"./1? -.&Fé?&-.N6&û6 "F0-./-.
+F5QU$&#"&F5OU$&0#&f ="#=&1=&"/="#&3 &
+&&n#"!- 3#&~&R5QP&$&0#&3t %c3#&
+&&n#"!- 3#&FU5TP&$&0#&3t %c3#&
+q33#&-/$$#%-#&~&F5ES$&0#&3 &" n#1#&
+F?.!60S.^00-.56EE- 5-.r._t>Ü`E.D6?&.
+&6&û6 "F0-.-".C-&"5F0-.Ñ`.
+5E./-.01F =0-./?.QF=6 .!?&.Öb.5E./-.
+t>u`E.DF&.&FDD6&".r.0F."&FC-&!-./-.&F0
+p-O∞5!%E !505-!%!6/%$"
+t`.5E./-.06 =?-?&.r.? -.NF?"-?&./-.
+@u!1" %-#&#%"#&3#1&$/%" %"1&ë&F$EP4
+n#1&3t !>#5&~&1 &2 1#&1!"=]#&~&=%#&
+r1}%=./1D/%C&.=6/&0t=%#&3/%c=#=&0#&
+0=&v c/%&1=&QU&-$&~&F5OU&$&0=&1/3
+0=&v c/%&1=&QU&-$&~&F5OU&$&0=&1/3
+&/!°/%" 3#&O5PP&$&0#&
+u6&@%/010@%13?4C=4C012/1%&2/66/0c
+ n#-&  -f#$#%"&0=&2/=3/%% c#M&
+r1#=U@%/0&p!%#1&f/!°/%" 3#1&#%"#&
+405-/#"$%ë"//3#0#/"
+R./AM?"QF=í_>_`Eí__5Eí_>_`E
+v%6=6/"!%N/#£ 50$"!f/AM?".
+v c/%&1=&QU&-$&~&F5OU&$&0=&1/3
+v c/%&1=&QU&-$&~&F5OU&$&0=&1/3
+0#& !3&./=&1#&"#$!%#&~&F5RU$M
+R.b>Ü`Eí_>_`Eí_Ö5Eí_>_`E
+R.Ö>ubEí_>_`Eítu5Eí_>_`E
+R.Ñ>ÖbEí_>_`Eítu5Eí_>_`E
+R._>_bEí_>_`Eítu5Eí_>_`E
+R.__>_Eí_>_`Eí__>_Eí_>_`
+R.è>èbEí_>_`EíÑ5Eí_>_`E
+"&F5-¢NF?"-?&¢06 =¢T ."&F5-md
+"&F5-¢NF?"-?&¢06 =¢T ."&F5-md
+M0ï6/"%N/#£ 50$"%f/AM?".
+06 =?-?&.-".r.t>ub.E./?.!60
+3/%c=#=&0=&v c/%M&
+& && a=#&ë&f
+& && a=#&ë&f
+& &&.3!=#ë
+& &&.3!=#ë
+& &&.3!=#ë
+0=&1/3
+&
+&
+&
+&
+O&&>$#
+E&&>$#
+Q&&>$#
+&
+Q&&%0#
+F&&>#
+Fï="%1"
+†0O 
+!?&MF!!A
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+êF=6 .
+56?C-&"
+T-&EA
+T-&EA
+T-&EA
+T-&EA
+T-&EA
+T-&EA
+T-&EA
+ ü$E45#3"Ø
+_tÜ`ÖÑ`a`_èRt
+_tÜ`ÖÑ`a`btRt
+_tÜ`ÖÑ`a`btRt
+_ÖèÖÖÑbau_uRÖ
+_tÜ`_ÖbÜ_uÜR_
+_tÜ`_Öba_abRu
+ÑtÜ`_èèè`_`Rt
+ÑÖèÖ_èÜ_`Ñ`RÜ
+ÑÖèÖ_èÜ_`bèRt
+ÑÑÜ`_èÖ_tèÑRÜ
+ÑÑÜ`_èÜ_baÖRu
+ ü†0O 
+/1/"
+oü
+t_¢_
+tÑ¢t
+tÑ¢_
+tÖ
+tb
+tu
+tè
+tÜ
+ta
+_`
+_t
+
+## Página 77
+
+vÇ
+R.6&5-F?./-."Ç0-./-.0F.0656E6"C-.
+R.6&5-F?./-.0F.D6&"-./?.}ë6=!ÉF .
+2 3 %-!#&0]-/=n#"&./n!#%"&1 %1&
+Å&A!- 5-./-.T&F=E- "!./-."?éF?á.
+Å&A!- 5-./1? .T0-áM0-.Né/&F?0n?-
+.3 %-f#&0#&3 &$ -f!%#M&6#&2 1&
+ =-=%&0/="#&0#&3t#%c!%&p/#1"!#M
+$]- %!Ä=#1&#"&]3#-"!Ä=#1&1/%"&
+R.¶F "-./AT6&EA-./-.&6?-./?.
+.]1#%"#1&#"&]. 1#1&1=&3#&
+`>û"5!%1#3"/!
+u#&%/$2#=1#1&.!>-#1&
+PAF "
+PAF "
+PAF "
+PAF "
+PAF "
+}ë6=!ÉF .ÖÜè
+Né/&F?0n?-!
+ÖÜè
+N0/O"4" 5
+Å6?"&-00-!.vÅP
+PAF "
+PAF "
+PAF "
+PAF "
+D//#40O"
+PAF "
+6 &. "!#& n %"&0/!"#&0#&3 &$ -f!%#&" n#1]#&. &=%&-ì23#&0t -!#&#3!]&~&=%&"#=!3&¢&"!#Cp/" £&!%1" 33]&1=&3#&p3 %-&0/!"&0#&3 &3/-/$/"!n#M
+R.Å0?&-./-!.n?F"&-.D&-E-&!.E6 "F "!./-.&/-00-.r.t>è`E>.b>abE>.Ü>`bE.-".t`>ubE./-.01F =0-.!?DA&-?&.r%]ÑRÇ4%1"%N065"6/
+R.qFé?&-./?.E6 "F ".r.tt>Ü`E.r.NF?"-?&./-.t>ÜbE.!?&.06 =?-?&./-.tÑ>b`E.-"."-&E F ".r.t>è`E./-.NF?"-?&S
+### D  "í"%R Ö%aï 5Nê!"%1"!%E !505!%!6/%$"%5/0# %aoÄ%Ç^vPÅ
+R.Å0?&-.C-&"5F0-.r.01F =0-.!?DA&-?&.r.t>Ö`E./-.NF?"./-.`>u`E./-.06 =.-".T !!F ".r.PÑÇQ4%1"%N065"6/
+p-O∞5!%E !505-!%!6/%$"%405-/#"$%ë"//3#0#/"
+R.Å0Fn?-./-.!?DD6&".EF C-00-.D0A-.r.01N6&û6 "F0-.r.a>u`E./-.01F =0-.!?DA&-?&.r.QÑRQ4%1"%N065"6/
+R.O&F5-!./-.T&6""-E- "./-.Ñ>Ñ`E./-.01F =0-.FCF ".r.PÑ^Q4%1"%N065"6/%!?&."6?"-.0F.06 =?-?&
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r._>bbE./-.NF?".!?&.t_E./-.06 =
+R.O&F5-.D -?EF"n?-.N6&û6 "F0-.r.`>b`E./-.01F =0-.!?DS.}?&.tE.-".r.ÑE./-.NF?"-?&
+R.Å0?&-.E6 "F ".&/-00-.C-&"5F0-.r.tÖ>ÜbE./-.01F =0-.!?DA&-?&.r.]ÑRQ%1"%N065"6/
+R.°&00-.F&&F5NA-.DF&"-.MF!!-.!?&."6?"-.0F.06 =?-?&>.DF&"-00-E- ".- .DF&"-.NF?"-
+R.Å0?&-.A5N-00-.N6&û6 "F0-.r.Ü>b`E./-.01F =0-.!?DA&-?&.-".r%]ÑtQ4%1"%N065"6/
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.PÑéQ4%1"%N065"6/
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r._>t`E./-.NF?"
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.t>Ü`E./-.NF?"
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.t>a`E./-.NF?"
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.ÑE./-.NF?"
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.ÑE./-.NF?"
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.ÑE./-.NF?"
+R.Ä&6""-E- ".D -?EF"n?-.N6&û6 "F0."6?"-.0F.06 =?-?&.r.ÑE./-.NF?"
+R.O&F5-!./-.T&6""-E- ".r._t>b`E.!?&.Ñ>a`E.-".r.t>ÖbE./-.NF?"-?&
+R.O&F5-!./-.T&6""-E- "./-.01F =0-.FCF "./1tE.r.PÑÇQ4%1"%N065"6/
+R.s6?D?&-.E6 "F ".r.01F =0-.!?&.PÑvQ4%T%]ÑtÇ4%1"%N065"6/
+R.°&00-.- /6EEF=A-.DF&"-.NF?"-.!?&."6?"-.0F.06 =?-?&
+R.°&00-.- /6EEF=A-.DF&"-.NF?"-.!?&."6?"-.0F.06 =?-?&
+R.^ T6 5-E- ".E6 "F ".r.tt>è`E.r.t>Ü`E./-.NF?"-?&
+R.qFED-.!?DA&-?&-.56?DA-.r.PÑ^Q4%1"%N065"6/
+R.qFED-.!?DA&-?&-.56?DA-.r.PÑ]Ç4%1"%N065"6/
+R.qFED-.!?DA&-?&-.56?DA-.r.PÑ]Q4%1"%N065"6/
+R.s6?D?&-.E6 "F ".r._Ñ>t`E.r.t>è`E./-.NF?"-?&
+R.O&F5-!./-.5N65.r.tÑ>_`E.r.t>a`E./-.NF?"-?&
+R.qFED-.!?DA&-?&-.D0A-.r.PÑ]Ç4%1"%N065"6/
+R.qFED-.!?DA&-?&-.D0A-.r.PÑÇÇ4%1"%N065"6/
+R.°&00-.F&&F5NA-.- .DF&"-.MF!!-
+R.qFED-.!?DA&-?&-.56?DA-
+R.qFED-.!?DA&-?&-.D0A-
+Fï="%1"%
+}/5"%E04# 
+}/5"%E04# 
+F4>"/"06í
+†0O 
+}/5"%065!
+}/5"%065!
+}/5"%065!
+}/5"%065!
+#5"/ "
+nnnn
+ ü$E45#3"Ø
+ ü†0O 
+PtévÅ]éQÅvÅnQ
+ÅtévÅPvtQ^RnP
+PtévÅPvQéÅRnÅ
+ÅtévÅPvPéRénÇ
+ttévvé]^QétnP
+]]évtRRvt]ÇnÅ
+]]évtRÅPt^ÇnÇ
+t]év^vtv]vRné
+t]év^vt^v^énR
+t]év^vtÅPQRn^
+t]év^vt^RPRnv
+t]év^vtÅÇRRnQ
+t]év^vt^R^^nR
+t]év^vt^]ÅQn]
+t]év^vtvÇQPn]
+]év^vtvÇÇÅnP
+??ÅQvPPQ
+ ü/
+$E4
+1/"
+5#3"
+]Q
+]]
+]P
+]t
+]Å
+]Ç
+]^
+]
+P
+t
+Å
+Ç
+^
+v
+é
+R
+
+## Página 78
+
+v^
+Å -?EF"n?-.- = .T6&-!"-&.t¢_b¢]
+PAF "
+PAF "
+PAF "
+R.^ T6 5-E- ".N6&û6 "F0.r.t>Ñ`E
+F4>"/"06í
+t]év^vt^ÇPtné
+t]év^vtvRPtnR
+t]év^vtÇPévn]
+t]év^vt^évRnÅ
+t]év^vt^PÅénP
+t]év^vt^tvénR
+t]év^vtÅRQtn]
+t]év^vtÅÅ]ÅnP
+t]év^vtvPÅRnR
+t]év^vtÅPéQnv
+t]év^vtvtt]nÇ
+t]év^v^^ÇQQn^
+t]év^vtÅPévnP
+t]év^vtv]QRnÅ
+t]év^vtvvt^nR
+t]év^vtÇtÇÇn^
+t]év^vtÅPtÅnÅ
+t]év^vt^vvÇnÅ
+t]év^vtvPÇÅné
+t]év^vtÇPÇRnQ
+t]év^vtÅÇÅRnÇ
+t]év^vtÅÇtvnP
+t]év^vtv]^Çnv
+t]év^vtÅÅtÅnQ
+]v
+tÜ
+ta
+_`
+_t
+__
+_Ñ
+_Ö
+_b
+_u
+_è
+_Ü
+PR
+tQ
+t]
+tP
+tt
+tÅ
+tÇ
+t^
+tv
+té
+tR
+ÅQ
+
+## Página 79
+
+BEA-TT - Bureau d’enquêtes sur les Accidents de transport terrestre
+Tour Voltaire 92055 - La Défense cedex
+Tél. : 33 (0)1 40 81 21 83 - Fax : 33 (0)1 40 81 21 50
+cgpc.beatt@developpement-durable.gouv.fr
+www.bea-tt.developpement-durable.gouv.fr 
+www.developpement-durable.gouv.fr

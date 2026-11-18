@@ -1,0 +1,283 @@
+{
+ "md/LV/2008/Bolderaja_Nr_2008_1_Report-050208.md": {
+  "fichero": "md/LV/2008/Bolderaja_Nr_2008_1_Report-050208.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 41739,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 16767,
+  "tokens_out": 10842,
+  "destino": "md-es/LV/2008/Bolderaja_Nr_2008_1_Report-050208.md"
+ },
+ "md/LV/2014/LV 07.09.2014 Parskats_Skirotava_07_09_2014_4.md": {
+  "fichero": "md/LV/2014/LV 07.09.2014 Parskats_Skirotava_07_09_2014_4.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 45494,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 18201,
+  "tokens_out": 10757,
+  "destino": "md-es/LV/2014/LV 07.09.2014 Parskats_Skirotava_07_09_2014_4.md"
+ },
+ "md/LV/2014/LV 07.09.2014 Summary_Skirotava_07_09_2014.md": {
+  "fichero": "md/LV/2014/LV 07.09.2014 Summary_Skirotava_07_09_2014.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 1931,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 886,
+  "tokens_out": 431,
+  "destino": "md-es/LV/2014/LV 07.09.2014 Summary_Skirotava_07_09_2014.md"
+ },
+ "md/LV/2014/LV 20.06.2014 Summary_of_Ziemelblazma_eng.md": {
+  "fichero": "md/LV/2014/LV 20.06.2014 Summary_of_Ziemelblazma_eng.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 3574,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 1239,
+  "tokens_out": 914,
+  "destino": "md-es/LV/2014/LV 20.06.2014 Summary_of_Ziemelblazma_eng.md"
+ },
+ "md/LV/2008/Ventspils_p_20.12.2008.md": {
+  "fichero": "md/LV/2008/Ventspils_p_20.12.2008.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 107058,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 46927,
+  "tokens_out": 30877,
+  "destino": "md-es/LV/2008/Ventspils_p_20.12.2008.md"
+ },
+ "md/LV/2017/LV 09.02.2017 Parskats_Jelgava_5_02_1_17_07052018.md": {
+  "fichero": "md/LV/2017/LV 09.02.2017 Parskats_Jelgava_5_02_1_17_07052018.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 53971,
+  "ratio": 1.23,
+  "avisos": [],
+  "tokens_in": 21745,
+  "tokens_out": 13052,
+  "destino": "md-es/LV/2017/LV 09.02.2017 Parskats_Jelgava_5_02_1_17_07052018.md"
+ },
+ "md/LV/2017/LV 09.02.2017 Summary_2017 _EN.md": {
+  "fichero": "md/LV/2017/LV 09.02.2017 Summary_2017 _EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 2866,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 1091,
+  "tokens_out": 696,
+  "destino": "md-es/LV/2017/LV 09.02.2017 Summary_2017 _EN.md"
+ },
+ "md/LV/2014/LV 20.06.2014 Ziemelblazma_20.06.2014_Nobeig._parskats_Gala_versija.md": {
+  "fichero": "md/LV/2014/LV 20.06.2014 Ziemelblazma_20.06.2014_Nobeig._parskats_Gala_versija.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 62083,
+  "ratio": 1.14,
+  "avisos": [],
+  "tokens_in": 26962,
+  "tokens_out": 17207,
+  "destino": "md-es/LV/2014/LV 20.06.2014 Ziemelblazma_20.06.2014_Nobeig._parskats_Gala_versija.md"
+ },
+ "md/LV/2019/DZ_tilts_08.02.2019._Nobeig._parskats_07.02.2020_LV.md": {
+  "fichero": "md/LV/2019/DZ_tilts_08.02.2019._Nobeig._parskats_07.02.2020_LV.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 59235,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 24667,
+  "tokens_out": 15002,
+  "destino": "md-es/LV/2019/DZ_tilts_08.02.2019._Nobeig._parskats_07.02.2020_LV.md"
+ },
+ "md/LV/2020/LV-5919-Summary_English.md": {
+  "fichero": "md/LV/2020/LV-5919-Summary_English.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 1309,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 815,
+  "tokens_out": 333,
+  "destino": "md-es/LV/2020/LV-5919-Summary_English.md"
+ },
+ "md/LV/2020/LV-5919-Parskats_Nr. 5_02.2_2020_gala versija.md": {
+  "fichero": "md/LV/2020/LV-5919-Parskats_Nr. 5_02.2_2020_gala versija.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 79009,
+  "ratio": 1.22,
+  "avisos": [],
+  "tokens_in": 35120,
+  "tokens_out": 22568,
+  "destino": "md-es/LV/2020/LV-5919-Parskats_Nr. 5_02.2_2020_gala versija.md"
+ },
+ "md/LV/2020/LV-6240-Summary_LC_accident_2020 EN.md": {
+  "fichero": "md/LV/2020/LV-6240-Summary_LC_accident_2020 EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 3198,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 1279,
+  "tokens_out": 882,
+  "destino": "md-es/LV/2020/LV-6240-Summary_LC_accident_2020 EN.md"
+ },
+ "md/LV/2020/LV-6240-Parskats_parbrauktuve_02_2021.md": {
+  "fichero": "md/LV/2020/LV-6240-Parskats_parbrauktuve_02_2021.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 48766,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 21385,
+  "tokens_out": 12466,
+  "destino": "md-es/LV/2020/LV-6240-Parskats_parbrauktuve_02_2021.md"
+ },
+ "md/LV/2022/LV-10175 - Summary_Zilupe_English.md": {
+  "fichero": "md/LV/2022/LV-10175 - Summary_Zilupe_English.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 8402,
+  "ratio": 1.11,
+  "avisos": [],
+  "tokens_in": 3069,
+  "tokens_out": 2317,
+  "destino": "md-es/LV/2022/LV-10175 - Summary_Zilupe_English.md"
+ },
+ "md/LV/2009/Extract-EN-causes and recommendations.md": {
+  "fichero": "md/LV/2009/Extract-EN-causes and recommendations.md",
+  "estado": "ya"
+ },
+ "md/LV/2012/SUMMARY_CP_401-080112.md": {
+  "fichero": "md/LV/2012/SUMMARY_CP_401-080112.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 4832,
+  "ratio": 1.35,
+  "avisos": [],
+  "tokens_in": 1318,
+  "tokens_out": 1163,
+  "destino": "md-es/LV/2012/SUMMARY_CP_401-080112.md"
+ },
+ "md/LV/2024/lv_interim statement.md": {
+  "fichero": "md/LV/2024/lv_interim statement.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 6755,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 2936,
+  "tokens_out": 1799,
+  "destino": "md-es/LV/2024/lv_interim statement.md"
+ },
+ "md/LV/2022/LV-10175 - Final_Report_Nr.5_02_1_22_29122022.LV_.md": {
+  "fichero": "md/LV/2022/LV-10175 - Final_Report_Nr.5_02_1_22_29122022.LV_.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 84094,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 38395,
+  "tokens_out": 22975,
+  "destino": "md-es/LV/2022/LV-10175 - Final_Report_Nr.5_02_1_22_29122022.LV_.md"
+ },
+ "md/LV/2025/lv-10709 - lv_interim statement.md": {
+  "fichero": "md/LV/2025/lv-10709 - lv_interim statement.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 8264,
+  "ratio": 1.15,
+  "avisos": [],
+  "tokens_in": 4108,
+  "tokens_out": 2341,
+  "destino": "md-es/LV/2025/lv-10709 - lv_interim statement.md"
+ },
+ "md/LV/2023/lv-10482 - final report 5_02_1_23_lv.md": {
+  "fichero": "md/LV/2023/lv-10482 - final report 5_02_1_23_lv.md",
+  "estado": "revisar",
+  "idioma": "LV",
+  "chars": 92793,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 4: marcadores de página: 6 vs 5"
+  ],
+  "tokens_in": 40404,
+  "tokens_out": 22762,
+  "destino": "md-es/LV/2023/lv-10482 - final report 5_02_1_23_lv.md"
+ },
+ "md/LV/2024/lv-10540 - final report, zinojums nr.5-02-1-24-skirotava.md": {
+  "fichero": "md/LV/2024/lv-10540 - final report, zinojums nr.5-02-1-24-skirotava.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 58476,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 24446,
+  "tokens_out": 14739,
+  "destino": "md-es/LV/2024/lv-10540 - final report, zinojums nr.5-02-1-24-skirotava.md"
+ },
+ "md/LV/2025/lv-10740 - summary_imanta_en.md": {
+  "fichero": "md/LV/2025/lv-10740 - summary_imanta_en.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 37749,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 11391,
+  "tokens_out": 8861,
+  "destino": "md-es/LV/2025/lv-10740 - summary_imanta_en.md"
+ },
+ "md/LV/2009/Indra_16.12.2009.md": {
+  "fichero": "md/LV/2009/Indra_16.12.2009.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 57983,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 24171,
+  "tokens_out": 15114,
+  "destino": "md-es/LV/2009/Indra_16.12.2009.md"
+ },
+ "md/LV/2012/Parskats_CP_401_2012_12_20-080112.md": {
+  "fichero": "md/LV/2012/Parskats_CP_401_2012_12_20-080112.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 86388,
+  "ratio": 1.23,
+  "avisos": [],
+  "tokens_in": 34847,
+  "tokens_out": 21219,
+  "destino": "md-es/LV/2012/Parskats_CP_401_2012_12_20-080112.md"
+ },
+ "md/LV/2025/lv-10710 - final_report _nr 5-02-3-25_en.md": {
+  "fichero": "md/LV/2025/lv-10710 - final_report _nr 5-02-3-25_en.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 80523,
+  "ratio": 1.15,
+  "avisos": [],
+  "tokens_in": 35907,
+  "tokens_out": 21793,
+  "destino": "md-es/LV/2025/lv-10710 - final_report _nr 5-02-3-25_en.md"
+ },
+ "md/LV/2025/lv-10740 - final report, imanta_5_02_4_25_izmeklēšanas ziņojums.md": {
+  "fichero": "md/LV/2025/lv-10740 - final report, imanta_5_02_4_25_izmeklēšanas ziņojums.md",
+  "estado": "ok",
+  "idioma": "LV",
+  "chars": 141726,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 61758,
+  "tokens_out": 33176,
+  "destino": "md-es/LV/2025/lv-10740 - final report, imanta_5_02_4_25_izmeklēšanas ziņojums.md"
+ }
+}

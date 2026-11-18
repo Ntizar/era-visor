@@ -1,0 +1,1742 @@
+---
+pais: FI
+anio: 2010
+idioma: EN
+pdf: B2-2010R-Report.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/B2-2010R-Report.pdf
+md5_pdf: abc46c737ca53d90218cae50418d122e
+paginas: 53
+chars: 93150
+tablas: 2
+cuerpo: "10.5pt; encabezados 2 niveles"
+rotulos_excluidos: "70 (b#/#r, kuolemaan johtanut tasoristeysonnettomuus porissa #.#.#)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 11
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Tutkintaselostus 
+B2/2010R 
+Kuolemaan johtanut tasoristeysonnettomuus Porissa 
+25.2.2010  
+Tämä tutkintaselostus on tehty turvallisuuden parantamiseksi ja uusien onnettomuuksien ennalta ehkäisemiseksi. 
+Tässä ei käsitellä onnettomuudesta mahdollisesti johtuvaa vastuuta tai vahingonkorvausvelvollisuutta. Tutkin-
+taselostuksen käyttämistä muuhun tarkoitukseen kuin turvallisuuden parantamiseen on vältettävä. 
+
+## Página 2
+
+### Onnettomuustutkintakeskus 
+### Centralen för undersökning av olyckor 
+### Accident Investigation Board 
+Osoite / Address: 
+Sörnäisten rantatie 33 C 
+Adress: 
+Sörnäs strandväg 33 C 
+FIN-00500 HELSINKI 
+00500 HELSINGFORS 
+Puhelin / Telefon: 
+(09) 1606 7643 
+Telephone: 
++358 9 1606 7643 
+Fax: 
+(09) 1606 7811 
+Fax: 
++358 9 1606 7811 
+Sähköposti: 
+onnettomuustutkinta@om.fi  tai  etunimi.sukunimi@om.fi 
+E-post: 
+onnettomuustutkinta@om.fi  eller  förnamn.släktnamn@om.fi 
+Email: 
+onnettomuustutkinta@om.fi  or  first name.last name@om.fi 
+Internet: 
+www.onnettomuustutkinta.fi 
+Henkilöstö / Personal / Personnel: 
+Johtaja / Direktör / Director  
+Veli-Pekka Nurmi 
+Hallintopäällikkö / Förvaltningsdirektör / Administrative Director 
+Pirjo Valkama-Joutsen 
+Osastosihteeri / Avdelningssekreterare / Assistant 
+Sini Järvi 
+Toimistosihteeri / Byråsekreterare / Assistant 
+Leena Leskelä 
+Ilmailuonnettomuudet / Flygolyckor / Aviation accidents 
+Johtava tutkija / Ledande utredare / Chief Air Accident Investigator  
+avoin 
+Erikoistutkija / Utredare / Air Accident Investigator 
+Tii-Maria Siitonen 
+Raideliikenneonnettomuudet / Spårtrafikolyckor / Rail accidents 
+Johtava tutkija / Ledande utredare / Chief Rail Accident Investigator 
+Esko Värttiö 
+Erikoistutkija / Utredare / Rail Accident Investigator  
+Reijo Mynttinen 
+Vesiliikenneonnettomuudet / Sjöfartsolyckor / Marine accidents 
+Johtava tutkija / Ledande utredare / Chief Marine Accident Investigator  
+Martti Heikkilä 
+Erikoistutkija / Utredare / Marine Accident Investigator  
+Risto Repo 
+Muut onnettomuudet / Övriga olyckor / Other accidents 
+Johtava tutkija / Ledande utredare / Chief Accident Investigator   
+Kai Valonen 
+
+## Página 3
+
+## TIIVISTELMÄ 
+Torstaina 25.2.2010 kello 12.42 tapahtui Porissa Mäntyluoto–Pori-radan ja Tattaritien vartioimat-
+tomassa tasoristeyksessä kahden henkilön kuolemaan johtanut tasoristeysonnettomuus. Veturin-
+kuljettaja havaitsi junan kulkusuunnassa oikealta tasoristeystä lähestyvän henkilöauton, jolloin 
+hän käytti vihellintä. Veturinkuljettaja huomasi, että henkilöauto ei pysähdy ja aloitti hätäjarrutuk-
+sen. Juna törmäsi henkilöauton vasempaan kylkeen. Auto takertui veturin keulaan kiinni ja kulki 
+veturin edessä 304 metriä kunnes juna pysähtyi. Veturin oikean puoleinen puskin oli työntynyt 
+henkilöauton vasemmanpuoleisesta etusivuikkunasta sisään matkustamoon. Auton kuljettaja kuo-
+li välittömästi onnettomuudessa saamiinsa pään ja rintakehän vammoihin. Matkustaja kuoli saa-
+miinsa pään ja rintakehän vammoihin myöhemmin sairaalassa. 
+Onnettomuuden syynä oli se, että autonkuljettaja havaitsi junan liian myöhään eikä ehtinyt pysäh-
+tyä tai muuten estää onnettomuutta. Taustatekijöinä tähän olivat: 
+- 
+Tasoristeys oli autonkuljettajalle tuttu, mikä yleensä vähentää varovaisuutta. Lisäksi hän oli 
+hetkeä aiemmin ylittänyt saman tasoristeyksen toiseen suuntaan. 
+- 
+Tasoristeyksessä ei ollut varoituslaitteita. 
+- 
+Tasoristeyksessä ei ollut kunnollisia odotustasanteita ja nousu tasoristeykseen oli niin suuri, 
+että autoilija etenkin liukkaalla kelillä välttää pysähtymistä juuri ennen tasoristeystä. 
+- 
+Autossa oli kesärenkaat. 
+- 
+Kuljettajan käyttämällä reitillä on 30 metrin matkalla rautatien tasoristeys ja kaksi tienristeystä, 
+joissa kaikissa on väistämisvelvollisuus. 
+Vastaavanlaisten onnettomuuksien välttämiseksi tutkijalautakunta suosittaa, että Tattarin tasoris-
+teys tulisi poistaa ja asuntoalueelle tulisi rakentaa korvaava tieyhteys lähellä olevan vartioidun 
+tasoristeyksen kautta. Tällöin osa liikenteestä ohjautuisi myös luontaisesti reitille, jolla ei olisi lain-
+kaan tasoristeyksen ylitystarvetta. 
+Onnettomuustasoristeyksen paikantamisessa ei ollut tässä onnettomuudessa ongelmia, koska 
+veturinkuljettajalla, liikenteenohjaajalla ja hätäkeskuspäivystäjällä oli hyvä paikallistuntemus. Ve-
+turinkuljettaja soitti suoraan hätäkeskukseen. 
+Tämän toimintatavan virallistamiseksi tutkintalautakunta toistaa tutkintaselostuksissa B1/2005R ja 
+B1/2009R esitetyn suosituksen S211: Hätäilmoituksen tekemiseen liittyviä ohjeita tulisi kehittää 
+siten, että aina tarvittaessa kiireellistä pelastustoimen apua, tulisi onnettomuuspaikalta soittaa 
+liikenteenohjaukseen tehdyn ilmoituksen lisäksi myös suoraan yleiseen hätänumeroon. 
+I
+
+## Página 4
+
+## SAMMANDRAG 
+## PLANKORSNINGSOLYCKA MED DÖDLIG UTGÅNG I BJÖRNEBORG 25.2.2010 
+Torsdagen 25.2.2010 klockan 12.42 inträffade en plankorsningsolycka med dödlig utgång i Björ-
+neborg vid den obevakade plankorsning där Tattaritie korsar banan Mäntyluoto–Björneborg. Lok-
+föraren observerade en personbil som närmade sig plankorsningen från höger i tågets färdrikt-
+ning och aktiverade visselsignalen. Lokföraren märkte att personbilen inte stannade och började 
+nödbromsa. Tåget stötte mot bilens vänstra sida. Bilen fastnade i lokets front och fördes framför 
+loket 304 meter innan tåget stannade. Bufferten på lokets högra sida hade trängt in i kupén ge-
+nom personbilens vänstra främre ruta. Bilföraren avled omedelbart vid olyckan av skador i huvu-
+det och på bröstkorgen. Passageraren avled senare på sjukhuset av skador i huvudet och på 
+bröstkorgen. 
+Orsaken till olyckan var att bilföraren upptäckte tåget för sent och inte hann stanna eller på annat 
+sätt förhindra olyckan. Följande faktorer bidrog till detta: 
+- 
+Plankorsningen var bekant för bilföraren, vilket i allmänhet minskar försiktigheten. Dessutom 
+hade föraren en kort tid tidigare korsat plankorsningen i motsatt riktning. 
+- 
+Plankorsningen saknade varningsanordningar. 
+- 
+Plankorsningen saknade ändamålsenlig vänteplats och stigningen till plankorsningen var så 
+stor att bilister i synnerhet vid halt väglag undviker att stanna precis före korsningen. 
+- 
+Bilen var utrustad med sommardäck. 
+- 
+Längs den rutt föraren använde finns inom en 30 meters sträcka en järnvägsplankorsning och 
+två vägkorsningar med väjningsplikt. 
+För att förebygga motsvarande olyckor rekommenderar undersökningskommissionen att plan-
+korsningen vid Tattari avskaffas och att en ersättande vägförbindelse byggs till bostadsområdet 
+via en närbelägen bevakad plankorsning. Då skulle delar av trafiken ledas naturligt via en rutt 
+som helt saknar behov att korsa en plankorsning. 
+Vid denna olycka förekom inga problem att lokalisera den plankorsning där olyckan inträffade 
+eftersom lokföraren, tågledaren och nödcentraloperatören hade god lokalkännedom. Lokföraren 
+ringde direkt till nödcentralen. 
+I syfte att göra detta handlingssätt officiellt upprepar undersökningskommissionen sin rekommen-
+dation S211 i undersökningsrapporterna B1/2005R och B1/2009R: Instruktionerna om att göra en 
+nödanmälan borde utvecklas så att man från olycksplatsen utöver meddelandet till driftcentralen 
+även ringer direkt till det allmänna nödnumret, om det behövs brådskande hjälp av räddningsvä-
+sendet på platsen. 
+II 
+
+## Página 5
+
+## SUMMARY 
+## FATAL LEVEL CROSSING ACCIDENT IN PORI, FINLAND, ON 25 FEBRUARY 
+## 2010 
+On Thursday 25 February 2010 at 12:42, a fatal level-crossing accident occurred in Pori on the 
+level crossing at the intersection of Tattaritie and the Mäntyluoto-Pori railway line. The driver of 
+the train noticed that a passenger car was approaching the crossing from the right and gave a 
+warning signal. It then became apparent to the driver of the train that the passenger car was not 
+going to stop and the driver of the train put on the emergency brakes. The train ran into the left 
+side of the car, the car jammed into the locomotive and the locomotive forced the car forward for 
+304 metres until the train came to a halt. The right buffer of the train penetrated the left side win-
+dow of the car. The driver of the car died immediately from head and chest injuries. A car pas-
+senger died later in hospital from head and chest injuries. 
+The accident occurred because the driver of the car failed to notice the approaching train in time 
+and was no longer able to stop or otherwise prevent the collision. Factors contributing to this 
+were: 
+- 
+The crossing was familiar to the driver of the car, which is a factor that generally reduces vigi-
+lance. The driver had also driven across the level crossing in the other direction moments be-
+fore the accident. 
+- 
+The level crossing was not equipped with warning installations. 
+- 
+The level crossing was not equipped with proper waiting platforms and the road rises before 
+the crossing to such an extent that drivers tend to avoid stopping before the crossing, espe-
+cially in wet or slippery conditions. 
+- 
+The car had tyres designated for summertime use. 
+- 
+For the 30 metre stretch before the level crossing, the road had two intersections with give 
+way signs. 
+In order to prevent similar accidents the investigation commission recommends the removal of 
+the Tattari level crossing and the building of an alternative route via the residential area through a 
+protected level crossing nearby. This would direct some traffic along a route that does not require 
+a track crossing. 
+Identifying the location of the accident was not problematic because the location was familiar to 
+the driver of the train, the traffic controller and the emergency response centre operator. The 
+driver of the train made a direct call to the emergency response centre. 
+With the aim of making this practice the standard response, the investigation commission reiter-
+ates recommendation S211 of investigation report B1/2005R and B1/2009R: That the instructions 
+concerning the placing of emergency alarm calls be developed in such a manner that in all cases 
+in which urgent rescue service assistance is required, a call be made to the general emergency 
+number from the accident site in addition to the notification to traffic control. 
+III
+
+## Página 6
+
+## YHTEENVETOTAULUKKO – SAMMANFATTNING – DATA SUMMARY  
+Aika: 
+Tidpunkt för händelsen: 
+25.2.2010, 12.42 
+Date and time: 
+Paikka: 
+Pori Tattaritie/ Tattarin vartioimaton tasoristeys 
+Plats: 
+Pori Tattaritie/Tattari plankorsning, obevakad 
+Pori Tattaritie/Tattari level crossing, unprotected 
+Location: 
+Tasoristeysonnettomuus, henkilöauto – tavarajuna 
+Onnettomuustyyppi: 
+Typ av olycka: 
+Olycka i plankorsning personbil – godståg 
+Type of accident: 
+Level crossing accident, Car – Freight train 
+Junan tyyppi ja numero: 
+Tavarajuna 3862, Dv12 veturi ja 5 vaunua 
+Tågtyp och tågnummer: 
+Godståg 3862, Dv12-diesellok + 5 vagnar 
+Train type and number: 
+Freight train 3862, Dv12 diesel locomotive and 5 wagons 
+Henkilöauto Ford Mondeo, vuosimallia 1998 
+Ajoneuvo: 
+Fordon: 
+Personbil Ford Mondeo, årsmodell 1998 
+Road vehicle: 
+Car Ford Mondeo, model 1998 
+Junassa, I tåget, In the 
+Ajoneuvossa, I fordonet, 
+train 
+In the road vehicle 
+Junassa ja ajoneuvossa: 
+Henkilökuntaa: 
+Antalet personer ombord: 
+Personal: 
+1 
+1 
+Persons on board: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+1 
+Passengers: 
+Kuollut: 
+Henkilökuntaa: 
+Dödsfall: 
+Personal: 
+1 
+Fatally injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+1 
+Passengers: 
+Vakavasti loukkaantunut:
+Henkilökuntaa: 
+Allvarligt skadats: 
+Personal: 
+0 
+Seriously injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+0 
+Passengers: 
+Lievästi loukkaantunut: 
+Henkilökuntaa: 
+Lindrigt skadats: 
+Personal: 
+Slightly injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+Passengers: 
+Kalustovauriot: 
+Veturin keulaan tuli vaurioita, henkilöauto romuttui täysin. 
+Skador på fordon: 
+Lokets frontparti fick smärre skador, bilen totalförstörts. 
+Damages of rollingstock: 
+Minor damages to the locomotive front, the car entirely wrecked. 
+Ratavauriot: 
+Ei. 
+Skador på spåranläggning: 
+Inga. 
+Damages on track equipment: 
+None. 
+Ei. 
+Muut vauriot: 
+Övriga skador: 
+Inga. 
+Other damages: 
+None. 
+IV 
+
+## Página 7
+
+## ALKUSANAT 
+Onnettomuustutkintakeskus asetti onnettomuuksien tutkinnasta annetun lain (373/1985) 5 §:n 
+nojalla Porissa 25.2.2010 sattuneen kahden henkilön kuolemaan johtaneen tasoristeysonnetto-
+muuden selvittämiseksi tutkintalautakunnan. Lautakunnan puheenjohtajaksi nimitettiin koulutus-
+päällikkö Timo Kivelä ja jäseniksi ylikonstaapeli Antti Koskela sekä psykologian tohtori Mika Ha-
+takka. 
+Onnettomuustutkintakeskus on tutkinut vuoden 2007 alusta lähtien kaikki ajoneuvoille tapahtu-
+neet kuolemaan johtaneet tasoristeysonnettomuudet kesäkuussa 2006 voimaan tulleen rautatie-
+turvallisuusdirektiivin mukaisesti. Myös Vakuutusyhtiöiden liikenneturvallisuustoimikunnan (VALT) 
+liikenneonnettomuuksien tutkijalautakunnat tutkivat tie- ja maastoliikenneonnettomuuksista anne-
+tun lain (24/2001) mukaisesti kaikki kuolemaan johtaneet liikenneonnettomuudet. 
+Tässä tutkintaselostuksessa esitetään tapahtumat ennen onnettomuutta, törmäyshetkellä ja sen 
+jälkeen. Lisäksi siinä käsitellään pelastustoiminnan kulkua ja analysoidaan onnettomuuteen vai-
+kuttaneita syitä. Lopuksi esitetään turvallisuussuosituksia, jotka toteuttamalla vastaavanlaiset 
+onnettomuudet voitaisiin mahdollisesti välttää tai lieventää niiden seurauksia. Tutkinnan tarkoi-
+tuksena on turvallisuuden parantaminen, joten syyllisyys- ja vahingonkorvauskysymyksiin ei oteta 
+kantaa.  
+Onnettomuustutkintalautakunnan jäsen saapui tunnin kuluttua onnettomuudesta onnettomuus-
+paikalle. Koko lautakunta kävi onnettomuuspaikalla 8.4.2010. Teknisen tutkinnan onnettomuus-
+paikalla teki Satakunnan tekninen rikostutkimuskeskus. Poliisin esitutkinnan teki Satakunnan po-
+liisilaitos. Satakunnan liikenneonnettomuuksien tutkijalautakunta suoritti onnettomuudesta tie- ja 
+maastoliikenneonnettomuuksia koskevan lain (24/2001) mukaisen tutkinnan. Sekä tutkijalauta-
+kunnan että poliisin tutkintamateriaali on ollut tutkintalautakunnan käytössä. 
+Tämä tutkintaselostus on ollut lausunnolla, Liikenteen turvallisuusvirastossa, Liikennevirastossa, 
+VR-Yhtymä Oy:ssä, Varsinais-Suomen elinkeino-, liikenne- ja ympäristökeskuksessa, Hätäkes-
+kuslaitoksessa, Satakunnan pelastuslaitoksessa sekä Porin kaupungilla. Lausunnot ovat tutkin-
+taselostuksen liitteessä 1. Lisäksi asianosaiset ovat saaneet kommentoida tutkintaselostusta. 
+Tutkintaselostukseen on tehty muutoksia ja tarkennuksia lausuntojen ja kommenttien perusteella. 
+Tutkintamateriaalista on luettelo tämän tutkintaselostuksen lopussa. Lähdemateriaalia säilytetään 
+Onnettomuustutkintakeskuksessa.  
+Tämä tutkintaselostus on myös Onnettomuustutkintakeskuksen internet-sivuilla osoitteessa 
+www.onnettomuustutkinta.fi. 
+Tutkintaselostuksen tiivistelmä, alkusanat, yhteenvetotaulukko, johtopäätökset, toteutetut toimen-
+piteet ja turvallisuussuositukset sekä kuvien, kaavioiden ja taulukoiden otsikkotekstit ovat suomen 
+lisäksi myös ruotsiksi ja englanniksi. 
+V
+
+## Página 8
+
+## FÖRORD 
+Centralen för undersökning av olyckor tillsatte en undersökningskommission enligt 5 § i lagen om 
+undersökning av olyckor (373/1985) för att undersöka den plankorsningsolycka som inträffade i 
+Björneborg 25.2.2010. Till ordförande för undersökningskommissionen utsågs utbildningschef 
+Timo Kivelä och till medlemmar överkonstapel Antti Koskela och psykologie doktor Mika Hatakka 
+Centralen för undersökning av olyckor har från början av 2007 undersökt alla fordonsolyckor i 
+plankorsningar med dödlig utgång enligt direktivet om järnvägssäkerhet som trädde i kraft i juni 
+2006. Undersökningskommissionerna för trafikolyckor vid Försäkringsbolagens trafiksäkerhets-
+kommitté (VALT) undersöker alla trafikolyckor som leder till dödsfall i enlighet med lagen om un-
+dersökning av trafikolyckor på väg och i terräng (24/2001). 
+I denna undersökningsrapport beskrivs händelserna före olyckan, vid kollisionsögonblicket och 
+efter kollisionen. Dessutom behandlas räddningsverksamhetens förlopp samt analyseras de or-
+saker som ledde till olyckan. Till slut lämnas säkerhetsrekommendationer om åtgärder som kunde 
+förhindra motsvarande olyckor eller lindra följderna av olyckorna. Avsikten med undersökningen 
+är att förbättra säkerheten, och därför tas ingen ställning till skuld- eller skadeståndsfrågor.  
+En medlem i undersökningskommissionen anlände inom en timme efter olyckan till olycksplatsen. 
+Hela undersökningskommissionen besökte olyckplatsen 8.4.2010. Den tekniska undersökningen 
+av olycksplatsen utfördes av Satakunta tekniska brottsundersökningscentral. Polisens förunder-
+sökning utfördes av Satakunta polisinrättning. Dessutom utförde undersökningskommissionen för 
+trafikolyckor i Satakunta en undersökning av olyckan enligt lagen om undersökning av trafik-
+olyckor på väg och i terräng (24/2001). Undersökningskommissionen har haft tillgång till under-
+sökningsmaterial både från undersökningskommissionen för trafikolyckor och från polisen. 
+Denna undersökningsrapport har varit ute på remiss hos Trafiksäkerhetsverket, Trafikverket, VR-
+Group Ab, närings-, trafik- och miljöcentralen i Egentliga Finland, Nödcentralsverket, Satakunta 
+räddningsverk och Björnborg stad. Utlåtandena finns i undersökningsrapportens bilaga 1. Dess-
+utom har parterna fått kommentera undersökningsrapporten. Ändringar och preciseringar har 
+utförts i undersökningsrapporten enligt utlåtandena och kommentarerna. 
+En förteckning över undersökningsmaterialet finns i slutet av denna undersökningsrapport. Un-
+dersökningsmaterialet förvaras vid Centralen för undersökning av olyckor.  
+Denna undersökningsrapport finns också på de webbsidor som upprätthålls av Centralen för un-
+dersökning av olyckor, www.onnettomuustutkinta.fi. 
+Sammandrag av utredningsrapporten, förordet, sammanfattningstabellen, slutsatserna, vidtagna 
+åtgärderna, säkerhetsrekommendationerna samt texterna till bilderna, scheman och tabellerna 
+finns förutom på finska även på svenska och engelska. 
+VI 
+
+## Página 9
+
+## PREFACE 
+In accordance with Accident Investigation Act (373/1985), the Accident Investigation Board 
+appointed an investigation commission to investigate the accident that occurred in Pori on 25 
+February 2010. Training Manager Timo Kivelä was appointed as the chairman of the investigation 
+commission, and Senior Constable Antti Koskela and Doctor of Psychology Mika Hatakka were 
+appointed as members. 
+In accordance with the EU Railway Safety Directive in force since June 2006, the Accident Inves-
+tigation Board has investigated all fatal level-crossing accidents involving road vehicles since the 
+start of 2007.  In accordance with the relevant legislation on the matter (24/2001), the traffic acci-
+dent investigation teams of the Traffic Safety Committee of Insurance Companies VALT also in-
+vestigate all fatal road and terrain accidents in Finland. 
+This investigation report presents the events before, during and after the accident. Moreover, it 
+discusses the progress of the rescue operation and analyses the factors that had an impact on 
+the accident. Lastly, this report presents safety recommendations that could provide assistance in 
+averting similar accidents or alleviating their consequences. The objective of this investigation is 
+the promotion of safety, meaning that no conclusions are drawn concerning responsibilities or 
+compensation for damages. 
+A member of the investigation commission arrived at site of the accident an hour after the 
+accident occured. The entire investigation team visited the site of the accident on 8 April 2010. A 
+technical investigation of the accident site was completed by the Satakunta Technical Crime 
+Investigation Centre. A preliminary accident investigation was completed by Satakunta Police. 
+The Satakunta Road Accident Investigation Team of VALT completed an investigation of the 
+accident, as stipulated in the relevant legislation on road and terrain traffic accidents (24/2001). 
+The investigation commission had access to the investigation materials of both the police and the 
+VALT investigation team. 
+This report has been circulated for comment within the Finnish Transport Safety Agency, the 
+Finnish Transport Agency, VR Group, the Centre for Economic Development, Transport and the 
+Environment, the Emergency Response Centre Administration, the Satakunta Emergency 
+Response Centre and the City of Pori. The statements provided by the above parties can be 
+found in Appendix 1 of this investigation report. Specifications and changes to the text of this 
+investigation report have been made based on the statements and comments received. 
+Investigation material is listed at the end of this investigation report. The material has been ar-
+chived by the Accident Investigation Board.  
+This investigation report can also be found on the Accident Investigation Board’s website at 
+www.onnettomuustutkinta.fi. 
+The summary, data summary, introduction, conclusions, measures that have been taken and 
+recommendations, as well as the legends for the figures, charts and tables of this report are also 
+available in Swedish and English. 
+VII
+
+## Página 10
+
+## SISÄLLYSLUETTELO 
+TIIVISTELMÄ .................................................................................................................................. I 
+SAMMANDRAG ............................................................................................................................. II 
+SUMMARY.................................................................................................................................... III 
+YHTEENVETOTAULUKKO – SAMMANFATTNING – DATA SUMMARY.....................................IV 
+ALKUSANAT..................................................................................................................................V 
+FÖRORD.......................................................................................................................................VI 
+PREFACE ....................................................................................................................................VII 
+1 ONNETTOMUUS ...................................................................................................................... 1 
+1.1 Tapahtuma-aika ja -paikka................................................................................................. 1 
+1.2 Tapahtumien kulku............................................................................................................. 2 
+1.3 Onnettomuudesta aiheutuneet vahingot ............................................................................ 3 
+1.3.1 Henkilövahingot........................................................................................................ 3 
+1.3.2 Kalusto-, rata- ja laitevauriot..................................................................................... 3 
+1.3.3 Ympäristövahingot ................................................................................................... 4 
+1.4 Tiedottaminen.................................................................................................................... 4 
+2 ONNETTOMUUDEN TUTKINTA............................................................................................... 5 
+2.1 Liikennevälineet ................................................................................................................. 5 
+2.2 Paikkatiedot ....................................................................................................................... 5 
+2.3 Turvalaitteet....................................................................................................................... 8 
+2.4 Viestintävälineet................................................................................................................. 9 
+2.5 Olosuhteet ......................................................................................................................... 9 
+2.6 Onnettomuuteen liittyvät organisaatiot ja henkilöt.............................................................. 9 
+2.7 Pelastustoimen organisaatiot ja niiden toimintavalmius................................................... 10 
+2.8 Tallenteet......................................................................................................................... 11 
+2.8.1 Kulunrekisteröintilaitteet ......................................................................................... 11 
+2.8.2 Liikenteenohjauksen puherekisteri ......................................................................... 11 
+2.8.3 Hätäkeskuksen puherekisteri ................................................................................. 11 
+2.8.4 Muut pelastustoimen tallenteet............................................................................... 12 
+2.9 Määräykset ja ohjeet........................................................................................................ 13 
+2.11 Poliisin tekemä tutkinta .................................................................................................... 14 
+3 ANALYYSI............................................................................................................................... 14 
+VIII
+
+## Página 11
+
+3.1 Onnettomuuden analysointi..............................................................................................14 
+3.2 Pelastustoiminnan analysointi..........................................................................................16 
+3.3 Onnettomuustehtävän määrittely, kiireellisyys ja vasteet .................................................17 
+4 JOHTOPÄÄTÖKSET ...............................................................................................................17 
+4.1 Toteamukset ....................................................................................................................17 
+4.2 Onnettomuuden syyt ........................................................................................................18 
+4 SLUTSATSER .........................................................................................................................18 
+4.1 Konstateranden................................................................................................................18 
+4.2 Orsaken till olyckan ..........................................................................................................19 
+4 CONCLUSIONS.......................................................................................................................19 
+4.1 Statements.......................................................................................................................19 
+4.2 Causes of the occurrence ................................................................................................20 
+5 TOTEUTETUT TOIMENPITEET JA SUUNNITELMAT............................................................21 
+5 VIDTAGNA ÅTGÄRDER..........................................................................................................21 
+5 MEASURES THAT HAVE BEEN TAKEN................................................................................22 
+6 TURVALLISUUSSUOSITUKSET.............................................................................................23 
+6 SÄKERHETSREKOMMENDATIONER....................................................................................23 
+6 SAFETY RECOMMENDATIONS.............................................................................................24 
+LÄHDELUETTELO .......................................................................................................................26 
+LIITTEET 
+Liite 1. Lausunnot 
+Liite 2. Tasoristeyksiä koskevat säädökset ja ohjeet 
+IX
+
+## Página 12
+
+
+
+## Página 13
+
+## 1 
+## ONNETTOMUUS 
+## 1.1 
+### Tapahtuma-aika ja -paikka 
+Onnettomuus tapahtui 25.2.2010 kello 12.41.56 Porissa Mäntyluoto–Pori-radan ja Tatta-
+ritien vartioimattomassa tasoristeyksessä ratakilometrillä 0338+0552. Tasoristeys sijait-
+see 16,2 kilometrin etäisyydellä Porin rautatieasemalta Mäntyluodon suuntaan. 
+Tasoristeys on yksiraiteisen radan ja yksityistien vartioimaton tasoristeys. Tasoristeyk-
+sen kohdalla radan suurin sallittu nopeus on 70 km/h ja tiellä oli 80 km/h yleisrajoitus. 
+Kuva 1. Onnettomuus tapahtui Porissa Mäntyluoto–Pori-radan ja Tattaritien vartioimat-
+tomassa tasoristeyksessä. 
+Bild 1. 
+Olyckan inträffade i Björneborg vid den obevakade plankorsning där Tattaritie korsar banan 
+Mäntyluoto–Björneborg. 
+Figure 1. The accident occurred in Pori on the Tarttaritie unprotected level crossing 
+along the Mäntyluoto-Pori track. 
+1
+
+## Página 14
+
+Kuva 2. Ilmakuva Tattaritien tasoristeyksestä. Junan kulkusuunta on merkitty punaisella 
+nuolella ja auton kulkusuunta keltaisella. 
+Bild 2. 
+Flygfotografi över plankorsningen vid Tattarivägen. Tågets rörelseriktning är utmärkt med röd pil 
+och bilens rörelseriktning med gul pil. 
+Figure 2. Aerial image of the Tattaritie level crossing. The red arrow indicates the direc-
+tion of approach of the train, and the yellow arrow the direction of the car. 
+## 1.2 
+### Tapahtumien kulku 
+50-vuotias naiskuljettaja oli lähtenyt puolen päivän jälkeen 25.2.2010 noutamaan tytär-
+tään noin neljän kilometrin päässä olevasta talosta. Nouto oli sovittu ja se tapahtui sovit-
+tuna ajankohtana. Sekä meno- että paluumatkalla oli ylitettävä Tattaritien vartioimaton 
+tasoristeys. Noudettuaan tyttärensä heidän oli paluumatkalla tarkoitus poiketa asioimaan 
+lähellä sijaitsevaan yritykseen. Tattaritien tasoristeykseen oli talosta matkaa 250 metriä. 
+Tavarajuna 3862, joka käsitti dieselveturin Dv12 ja viisi tyhjää tavaravaunua, oli lähtenyt 
+Mäntyluodosta kello 12.38 ja määränpäänä oli Porin rautatieasema. Kuljettuaan noin 
+neljä minuuttia juna lähestyi Tattarin vartioimatonta tasoristeystä. Veturinkuljettaja ha-
+vaitsi junan kulkusuunnassa oikealta tasoristeystä lähestyvän henkilöauton, jolloin hän 
+käytti vihellintä. Veturinkuljettaja tajusi välittömästi, että henkilöauto ei pysähdy ja hän 
+aloitti hätäjarrutuksen. 
+Juna törmäsi kello 12.42 henkilöauton vasempaan kylkeen nopeudella 68 km/h. Auto ta-
+kertui veturin keulaan kiinni ja kulki veturin edessä 304 metriä, kunnes juna pysähtyi. 
+Veturin oikean puoleinen puskin oli työntynyt henkilöauton vasemmanpuoleisesta etusi-
+vuikkunasta sisään matkustamoon. 
+2 
+
+## Página 15
+
+Junan pysähdyttyä veturinkuljettaja soitti matkapuhelimella hätäkeskukseen. Tämän jäl-
+keen hän otti linjaradiolla yhteyden Tampereen liikenteenohjauskeskukseen ja ilmoitti 
+tapahtuneesta. Tästä eteenpäin liikenteenohjaajan ja veturinkuljettajan väliset keskuste-
+lut käytiin matkapuhelimella.  
+### Hälytykset 
+Ensimmäisen hätäilmoituksen Satakunnan hätäkeskukseen teki veturinkuljettaja kello 
+12.42.47. Hän kertoi auton ajaneen junan alle vartioimattomassa tasoristeyksessä kilo-
+metrin päässä Kemiran tehtaalta Porin suuntaan. Veturinkuljettaja ei poistunut veturista 
+eikä hän kyennyt arvioimaan, oliko autossa kuljettajan lisäksi muita henkilöitä. Hätäkes-
+kuspäivystäjä sai tasoristeyksen paikannettua ja teki hälytyksen kello 12.44.00. Saami-
+ensa tietojen perusteella hätäkeskuspäivystäjä valitsi pelastustoiminnan tehtävätyypiksi 
+raideliikenneonnettomuus, pieni. 
+Onnettomuuspaikalle hälytettiin kello 12.44.04 päivystävä palomestari, kolme pelastus-
+toimen yksikköä, lääkäri, lääkintäesimies ja kaksi ambulanssia. Kaikki yksiköt menivät 
+kohteeseen. 
+### Pelastustoiminta 
+Ensimmäisenä tapahtumapaikalle ehti ambulanssi P291 kello 12.49.07 ja seuraavana 
+pelastusyksikkö P21 kello 12.50.22. Yksiköt aloittivat välittömästi paikalle saavuttuaan 
+henkilöauton kuljettajan ja matkustajan tilan arvioinnin ja pelastustyöt. Seuraavaksi pai-
+kalle saapuivat Karhu P3 ja lääkäriyksikkö L0. Lääkäri totesi kuljettajan kuoleman kello 
+13.00. Matkustaja hätäsiirrettiin Satakunnan keskussairaalaan. 
+Ensimmäinen poliisipartio saapui paikalle kello 12.54.16 ja jäi ohjaamaan liikennettä. 
+## 1.3 
+### Onnettomuudesta aiheutuneet vahingot 
+## 1.3.1 
+### Henkilövahingot 
+Henkilöauton kuljettaja kuoli onnettomuuspaikalla pään ja rintakehän vammoihin. Auton 
+matkustaja kuoli myöhemmin sairaalassa onnettomuudessa saamiinsa vammoihin. 
+## 1.3.2 
+### Kalusto-, rata- ja laitevauriot 
+### Juna 
+Onnettomuudessa veturista vaurioituivat vetokytkin, kytkinletkut ja -hana, portaat ja pys-
+tykaiteet sekä junan kuulutuspistorasia. 
+3
+
+## Página 16
+
+### Ajoneuvo 
+Törmäyksessä veturin oikean puoleinen puskin osui henkilöauton vasempaan kylkeen 
+ikkunan kohdalle ja ohjaamotila varusteineen painui sisään noin 100 cm:n syvyydeltä. 
+Auto romuttui täysin. 
+### Rata- ja laitevauriot 
+Onnettomuudessa ei syntynyt rata- eikä laitevaurioita. 
+## 1.3.3 
+### Ympäristövahingot 
+Onnettomuudesta ei syntynyt ympäristövahinkoja. 
+## 1.4 
+### Tiedottaminen 
+Ensitiedote tapahtuneesta onnettomuudesta lähti tiedotusvälineille hätäkeskuksesta 
+112info-mediapalvelujärjestelmän kautta kello 12.48. Pelastuslaitoksen päivystävä pe-
+lastusviranomainen P3 antoi tapahtumapaikalta hätäkeskukselle ohjeet jatkotiedottami-
+sesta. Poliisin tilannekeskus tiedotti onnettomuudesta heti poliisin yleisjohtajalle ja Sata-
+kunnan liikenneonnettomuuksien tutkijalautakunnan jäsenelle. 
+Poliisi tiedotti osaltaan onnettomuudesta medialle heti tilannekuvan selvittyä. Poliisin 
+osalta tiedottamisesta vastasi tutkinnanjohtaja yhdessä tutkijan kanssa. Onnettomuus 
+herätti runsaasti tiedotusvälineiden mielenkiintoa ja tiedottamista jatkettiin useiden päivi-
+en ajan sitä mukaa, kun tapahtumien kulku tarkentui. 
+4 
+
+## Página 17
+
+## 2 
+## ONNETTOMUUDEN TUTKINTA 
+## 2.1 
+### Liikennevälineet 
+### Juna 
+Onnettomuusjuna oli Mäntyluodosta Poriin matkalla ollut tavarajuna. Junassa oli yksi 
+Dv12-dieselveturi sekä viisi tyhjää tavaravaunua. Kulunrekisteröintilaitteen tietojen mu-
+kaan junan pituus oli 115 metriä ja paino 180 tonnia. Junan jarrupaino oli 162 tonnia ja 
+jarrupainoprosentti 90. Junan suurin sallittu nopeus oli 80 km/h. 
+|  |  Dv12 |  | Occ | Occ | Occ | Occ | Occ |
+| BRT JP |  | 68t 46t | 23t 23t | 23t 23t | 23t 23t | 23t 23t | 23t 23t |
+Dv12 = dieselhydraulinen veturi 
+Occ = 4-akselinen yleisavovaunu, varustettu puutavarapankoilla 
+ 
+= liikesuunta 
+BRT = kokonaispaino 
+= jarrupaino, jota on käytetty jarrutustehoa laskettaessa. 
+JP 
+### Ajoneuvo 
+Ajoneuvotietojärjestelmän mukaan onnettomuusauto oli manuaalivaihteinen, etuvetoi-
+nen henkilöauto Ford Mondeo 4D sedan 1.8, vuosimallia 1998. Auton omamassa oli 
+1 295 kg, pituus 4 560 mm, leveys 1 750 mm, korkeus 1 380 mm ja akseliväli 2 700 mm. 
+Kuljettaja oli ollut auton haltija 26.3.2007 alkaen. Auton vuoden 2010 määräaikaiskat-
+sastus oli suorittamatta ja vakuutusmaksu maksamatta. 
+Autossa oli hyväkuntoiset kesärenkaat. Renkaiden urasyvyys oli edessä 6 mm ja takana 
+7 mm. Eturenkaat olivat tyhjentyneet onnettomuudessa, takarenkaissa ilmanpaine oli 
+1,7 bar. 
+### Auton turvavarusteet 
+Autossa oli kuljettajan turvatyyny, joka laukesi törmäyksessä. Oikeanpuoleisella etuis-
+tuimella ei ollut turvatyynyä. 
+Autossa oli turvavyöt kuljettajalle ja neljälle matkustajalle. Kuljettajalla oli turvavyö kyt-
+kettynä, mutta matkustaja ei käyttänyt turvavyötä. Kummatkin autossa olleet henkilöt 
+saivat pää- ja rintakehävammoja. 
+## 2.2 
+### Paikkatiedot 
+Rata Mäntyluodosta Poriin on C1-luokan rataa 54 E1 -kiskotuksella, puuratapölkyillä ja 
+sepelitukikerroksella. Rata on sähköistämätön, joten liikenne tapahtuu dieselvetureilla. 
+5
+
+## Página 18
+
+Radan suurin sallittu nopeus on 70 km/h. Rataosalla on 28 tasoristeystä 20 kilometrin 
+matkalla ja tasoristeyksistä 11 on varustettu puolipuomilaitoksella. 
+Tattaritie on sorapintainen yksityistie. Tien leveys on 3,5 metriä ja tasoristeyksen kohdal-
+la on 80 km/h nopeusrajoitus. Tasoristeys on vartioimaton ja siinä on liikennemerkki yk-
+siraiteisen rautatien tasoristeys, mutta ei tasoristeyksestä varoittavia liikennemerkkejä 
+eikä lähestymismerkkejä. 
+Kuva 3. Tasoristeys kuvattuna auton tulosuunnasta. 
+Bild 3. 
+Plankorsningen fotograferad i bilens ankomstriktning. 
+Figure 3. The level crossing from the direction of the approaching passenger car. 
+VTT:n vuonna 2003 tekemän inventoinnin mukaan Porin ja Mäntyluodon välisellä rata-
+osuudella kulki 17 tavarajunaa vuorokaudessa ja Tattaritien liikennemäärä oli 100 ajo-
+neuvoa vuorokaudessa. 
+6 
+
+## Página 19
+
+Kuva 4. Piirros näkemistä ja tasoristeyksen geometriasta. 
+Bild 4. 
+Skiss över frisiktsområdet och plankorsningens geometri. 
+Figure 4. Sightlines and level crossing geometry. 
+Tasoristeyksessä on 4,6 metriä leveä puulankutus. Tasoristeyksen odotustasanteet 
+puuttuvat ja tie nousee auton tulosuunnassa ennen tasoristeystä 13 metrin matkalla 
+metrin verran. Tie sijaitsee tasaisessa metsäisessä maastossa ja johtaa ainoana tienä 
+omakotialueelle. Auton lähestymissuunnasta peittää näkyvyyden vasemmalle junan tu-
+7
+
+## Página 20
+
+losuuntaan puusto ja oikealle Porin suuntaan pensasaita. Radalle alkaa nähdä vasta 8 
+metriä ennen kiskoja. Näkemä 8 metriä ennen lähintä kiskoa on vasemmalle junan tu-
+losuuntaan noin 1 kilometri ja oikealle yli puoli kilometriä. Auton tulosuunnasta Uratieltä 
+Tattaritielle vievä oikotie liittyy juuri ennen tasoristeystä Tattaritiehen. Käytännö
+ssä ajo-
+linjat yhtyvät tasoristeyksessä ja teiden välissä oleva metsä estää näkyvyyden. 
+Kuva 5. 
+Näkymä tasoristeyksestä auton tulosu
+untaan. Kuvassa näkyy auton renkaan 
+sutimisjälki. (Kuva: Poliisin tekniikka). 
+Bild 5. 
+Vy från plankor
+sningen mot bilens ankomstriktning. Bilden visar bildäckens slirmärken. (Bild: Po-
+lisens teknik). 
+Figure 5. 
+The view from the level crossing in the direction of the approaching car. The 
+arks from the car’s tyres are shown in the picture. (Photo: Satakunta Po-
+skid m
+lice). 
+Noin kahdeksan metriä ennen tasoristeystä auton tulosuunnassa alkoi vasemman etu-
+pyörän sutimisjälki, joka päättyi noin kaksi metriä ennen kiskoa. Jarrutusjälkiä ei ollut 
+havaittavissa. Auton vasemman
+ etupyörän sivuttaisluistojälki alkoi junan kulkusuunnas-
+sa vasemman kiskon kohdalta. 
+## 2.3 
+### Turvalaitteet 
+Radalla ei ole suojastusta eikä kulunvalvontaa. 
+8 
+
+## Página 21
+
+## 2.4 
+### Viestintävälineet 
+Veturinkuljettaja oli yhteydessä hätäkeskukseen matkapuhelimella ja liikenteenohjauk-
+seen linjarad
+iolla sekä matkapuhelimella. Pelastustoimi käytti VIRVE-verkon puhelimia. 
+## 2.5 
+### Olosuhteet 
+Sää oli kirkas ja lämpötila -7 
+°C. Tie oli lumipolanteinen. Tienpinnan arvioitu kitka oli 
+0,2–0,3.  
+## 2.6 
+### Onnettomuuteen 
+liittyvät organisaatiot ja henkilöt 
+### Liikenteenohjaaja
+Pori–Mäntyluoto rataosan liikennettä ohjaa liikenteenohjaaja Tampereen liikenteenoh-
+jauskeskuksessa. 
+### Veturinkuljettaja 
+Kuljettajana toimi Vetopalvelut Tampereen Porin työpisteen 52-vuotias veturinkuljettaja. 
+Hän on ollut VR:n palveluksessa yli 30 vuotta, ensin koneapulaisena ja sitten veturinkul-
+jettajana. Pori–Mäntyluoto rataosa on veturinkuljettajalle tuttu. Hän on ajanut myös tava-
+ra- ja henkilöjunia Tampereen, Turun ja Jämsänkosken reiteillä sekä diesel- että sähkö-
+kalustolla. 
+Veturinkuljettajan työvuoro oli alkanut kello 3.15 Porista, jolloin hän oli ajanut junan Po-
+rista Mäntyluotoon ja sieltä Harjavaltaan. Harjavallassa hän oli ollut päivystystyössä nel-
+jä tuntia, jona aikana hän oli myös ruokaillut. Harjavallasta hän oli ajanut Mäntyluotoon 
+ja lähtenyt kuljettamaan tavarajunaa 3862 kohti Poria kello 12.38. Työvuoro oli edennyt
+normaalisti. 
+Veturinkuljettaja ei ollut poliisin tekemän puhalluskokeen mukaan onnettomuushetkellä 
+alkoholin vaikutuksen alaisena. Veturinkuljettajan terveydentila oli hyvä ja hän oli juuri 
+käynyt veturinkuljettajilta kolmen vuoden välein vaadittavassa lääkärintarkastuksessa.  
+### Ajoneuvon kuljettaja 
+Henkilöauton kuljettaja oli 50-vuotias nainen. Onnettomuuspaikka oli henkilöautonkuljet-
+tajalle tuttu. Hän oli käyttänyt kyseistä reittiä viime kuukausien aikana useita kertoja vii-
+kossa. Henkilöauton kuljettajalla oli ollut AB-luokan ajo-oikeus 32 vuotta ja hän oli ollut 
+käyttäm
+änsä henkilöauton haltijana noin kolme vuotta.  
+Tapahtumapäivänä naiskuljettaja oli puolen päivän jälkeen noutamassa 17-vuotiasta ty-
+tärtään. Nouto tapahtui sovitusti. Äiti oli kotoa lähtiessään ilmoittanut tulostaan. Poikays-
+tävän kertoman mukaan hakutilanne oli täysin normaali eikä äidillä ja tyttärellä ollut kii-
+rettä.  
+9
+
+## Página 22
+
+Oikeuskemiallisessa tut
+kimuksessa ei kuljettajan veressä eikä virtsassa todettu alkoho-
+lia. Veren lääkeaineseulonnassa todettiin fluoksetiinia ja oksatsepaamia hoitoalueelle si-
+joittuvat pitoisuudet. Ruumiinavauksessa ei todettu merkittäviä pitkäaikaisiin elimellisiin 
+sairauksiin liittyviä muutoksia. 
+### Radan kunnossapito 
+Radan kunnossapidosta vastaa Liikenneturvallisuusviraston 
+kanssa tehdyn sopimuksen 
+perusteella Oy VR-Rata Ab. Alueisännöitsijänä toimii Pöyry Oyj. Näkemäalueen raiva-
+uksista vastaa VL-Yhtymä. Viestiyhteyksistä vastaa Corenet Oy. 
+## 2.7 
+### Pelastustoimen organisaatiot ja niiden toimintavalmius 
+Onnettomuuspaikka sijaitsee Porissa Satakunnan hätäkeskuksen toiminta-alueella. On-
+nettomuushetkellä hätäkeskuksessa oli vuorovahvuutena vuoromestari ja kolme hätä-
+keskuspäivystäjää. 
+Satakunnan hätäkeskuksessa on kaikki tasoristeykset syötetty ELS-tietojärjestelmään 
+kohdetietoina. Kirjoitettaessa tapahtumapaikaksi tasoristeyksen nimi tai ratakilometritie-
+to, ohjelma paikantaa tasoristeyksen tarkasti kartalle. Onnettomuushetkellä ELS-
+järjestelmässä oli käytössä kartta-aineisto, jossa ratakilometritieto oli myös kirjoitettuna 
+peruskartta-aineistoa vastaavaan karttaan radan viereen. 
+Pelastustoimesta Porin alueella vastaa Satakunnan pelastuslaitos. Satakunnan pelas-
+tuslaitoksella 
+on kolme päivystysaluetta ja Pori kuuluu Karhukuntien päivystysaluee-
+seen, johon Porin lisäksi kuuluu kuusi muuta kuntaa. Karhukuntien päivystävänä pelas-
+tusviranomaisena toimii KARHU P3, jonka asemapaikkana on Kanta-Porin paloasema. 
+Yksiköt ovat välittömässä lähtövalmiudessa, joka tarkoittaa käytännössä noin minuutin 
+lähtöaikaa hälytyksestä. Onnettomuuspaikalle hälytettiin KARHU P3 ja kolme pelas-
+tusyksikköä. 
+Sairaankuljetuksesta Porin alueella vastaa Porin terveysviranomaisen kanssa tehdyn 
+sopimuksen mukaisesti Satakunnan pelastuslaitos. Sopimuksen mukaan alueella tulee 
+olla kolme sairaankuljetusautoa välittömässä lähtövalmiudessa. Terveysviranomaiset 
+ovat ohjeistaneet sairaankuljetusyksiköiden hälyttämisen. Onnettomuuspaikalle hälytet-
+tiin kaksi ambulanssia, lääkintäesimies ja lääkäriauto. 
+Onnettomuustapauksessa hätäkeskuspäivystäjä määritteli onnettomuuden luokaksi rai-
+deliikenneonnettomuus, pieni (tehtäväkoodi 212), jonka mukaan onnettomuudessa ei 
+olisi pelastettavia tai lisäonnettomuuden vaaraa. Hätäkeskuksen ohjeiden mukaan pie-
+nen raideliikenneonnettomuuden perusvaste pelastuslaitokselta on yksikkölähtö, johon 
+kuuluu yksi sammutusauto. 
+Raideliikenneonnettomuus, keskisuuri (tehtäväkoodi 213A) on raideliikennekulkuneuvon 
+ja ajoneuvon törmäys, jossa oli 1–3 pelastettavaa. Keskisuureen raideliikenneonnetto-
+muuteen viranomaiset ovat ohjeistaneet Satakunnan hätäkeskusta seuraavasti (vas-
+teet). Ensihoidon vasteena on yksi sairaankuljetusyksikkö/potilas, lääkäriyksikkö ja lää-
+kintäesimies. Pelastusyksiköiden vasteena on johtoauto, kolme sammutusautoa ja rai-
+10 
+
+## Página 23
+
+vausauto. Poliisilla ei ole ennalta määritettyä normaalista poikkeavaa vastetta vaan riit-
+tävä määrä partioita tapauskohtaisesti. Tehtävä annettiin pelastuslaitokselle B- ja poliis
+il-
+le A-kiireellisyysluokassa. Hätäkeskuksissa on käytössä kunkin viranomaisen antamat 
+riskinarvio-ohjeet
+ ja sama tehtävä saattaa olla eri viranomaisilla eri kiireellisyysluokassa. 
+Vaikka onnettomuustehtävä annettiin koodilla raideliikenneonnettomuus, pieni, paikalle 
+onnettomuus, keskisuuri mukaisesti pelastusyksiköitä. 
+hälytettiin vasteen raideliikenne
+## 2.8 
+### Tallenteet 
+## 2.8.1 
+### Kulunrekisteröintilaitteet 
+Kulunrekisteröintilaitteen tietojen mukaan juna 3862 lähti Mäntyluodosta kello 12.38.07. 
+Juna kiihdytti nopeutensa noin kilometrin matkalla suurimpaan sallittuun nopeuteen 
+70 km/h. Junan kuljettua noin neljä minuuttia (kello 12.41.54) laski jarrujohdon paine no-
+peasti lähes nollaan h
+ätäjarrutuksen seurauksena. Jarrutus alkoi noin 30 metriä (1,5 se-
+kuntia) ennen törmäystä. Junan nopeus alkoi laskea kahden sekunnin kuluttua jarrutuk-
+sen alkamisesta. Kulunrekisteröintilaitteen
+ graafisessa tallenteessa ei ole havaittavissa 
+törmäyksen aiheuttamaa hidastumista. Juna py
+sähtyi hätäjarrutettuna 304 metrin pää-
+hän tasoristeyksestä. Juna ehti kulkea veturinkuljettajan tekemän hätäjarrutuksen alku-
+hetk
+estä 334 metriä. 
+## 2.8.2 
+### Liikenteenohjauksen puherekisteri 
+Puherekisteristä saatiin selville liikenteenohjaajan ja veturinkuljettajan väliset keskuste-
+lut. 
+Veturin
+kuljettaja ilmoitti onnettomuudesta kello 12.44.40 linjaradiolla liikenteenohjaajalle 
+Tampereen liikenteenohjauskeskukseen. Hän kertoi, että junan 3862 alle jäi henkilöau-
+to. Hän kertoi onnettomuustasoristeyksen sijaitsevan 300 metriä vartioidusta tasoriste-
+yksestä Poriin 
+päin. Liikenteenohjaaja tiedusteli veturinkuljettajalta, oliko onnettomuu-
+dessa mahdollisesti aiheutunut henkilövahinkoja, johon veturinkuljettaja vastasi myöntä-
+västi. 
+Veturinkuljettaja kertoi soittaneensa matkapuhelimella hätäkeskukseen ja hälyttäneensä 
+paikalle apua. 
+Liikenteenohjaaja pyysi kuljettajaa pitämään matkapuhelimensa lähettyvillä myöhempää 
+yhteydenottoa varten. 
+### Hätäkeskuksen puherekisteri 
+## 2.8.3 
+Satakunnan hätäkeskuksen puherekisterin tallenteista selviää muun muassa, milloin hä-
+täkeskus vastaanotti ensimmäisen hätäilmoituksen ja mitkä yksiköt hälytettiin. 
+11
+
+## Página 24
+
+Veturinkuljettaja kertoi auton jääneen
+ junan alle noin kilometri Kemiran tehtaalta Poriin 
+päin. Tämän tiedon perusteella hätäkeskuspäivystäjä paikallisti tasoristeyksen. Veturin-
+kuljettaja kertoi törmäysnopeuden olleen 70 km/h. Tallenteista selviää myös, että vetu-
+rinkuljettaja ei tiennyt hälytystä tehdessään, oliko autossa kuljettajan lisäksi muita henki-
+löitä. Lisäksi selviää, että liikenteenohjaaja varmisti Pirkanmaan hätäkeskuksen välittä-
+mällä puhelulla, että Satakunnan hätäkeskus oli tietoinen onnettomuudesta. 
+## 2.8.4 
+### Muut pelastustoimen tallenteet 
+Tutkijoilla on ollut käytössään PRONTO-tietokannassa olevat Satakunnan hätäkeskuk-
+sen hälytysseloste ja Satakunnan pelastuslaitoksen onnettomuusseloste sekä Satakun-
+nan hätäkeskuksen tehtäväraportti. Tallenteista selviää muun muassa milloin hätäkes-
+kus vastaanotti ensimmäisen hätäilmoituksen, mitkä yksiköt hälytettiin, milloin yksiköt 
+saivat hälytyksen sekä milloin ne lähtivät liikkeelle, olivat kohteessa, vapautuivat tehtä-
+västä ja olivat takaisin asemapaikassaan.  
+Selosteiden mukaan ensimmäinen hätäilmoitus tuli hätäkeskukseen kello 12.42.46 vetu
+-
+rinkuljetta
+jalt
+a. Onnettomuus määriteltiin luokkaan raideliikenneonnettomuus, pieni
+ ja 
+ensimmäinen hälytys tehtiin kello 12.44.04. Onnettomuuspaikalle hälytettiin p
+äivystävä 
+palomestari, kolme pelastustoimen yksikköä, lääkäri, lääkintäesimies ja kaksi a
+mbulans-
+si
+a. Kaikki yksiköt menivät kohte
+eseen. Ensimm
+äisenä o
+nnetto
+muuspaikalla selosteiden 
+mukaan oli p
+elastusyksikkö P2
+1 
+kello 12.52.00, mutta tehtäväraportin mukaan ensim-
+mäisenä pa
+ikalla oli ambulanssi P291 kello 12.49.07. 
+T
+aulukko 1. Aika onnettomuudesta siihen, kun pelastusyk
+siköt 
+ja poliisi olivat paikalla. 
+Ta
+nin se
+g
+de till 
+bell 1. 
+Tid från olyckan tills rädd
+nheter och polisen anlän
+platsen. 
+Ta
+ble 1. 
+Time elapsed from the a
+cciden
+t to the rescue and polic
+e unit’s 
+arrival at the sit
+e. 
+ija / yksikkö 
+kello 
+ello 
+|  | Toimija/yksikkö | kello | Kohteessakello |
+| Onnettomuus |  | 124154 . . |  |
+| Hätäilmoitus | Veturinkuljettaja | 4247 . |  |
+| Hälytys | HÄKE | 4400 . |  |
+|  | Karhu3 | 4404 . | 125737 . . |
+|  | P21 | 4407 . | 5022 . |
+|  | P291 | 4408 . | 4907 . |
+|  | PT51 | 4410 . | 5934 . |
+|  | L0 | 4433 . | 5848 . |
+| IlmoitusVR:nliikenteenohjaukseen | Veturinkuljettaja | 4440 . |  |
+|  | 204 | 4522 . | 5738 . |
+|  | P191 | 4549 . | 5809 . |
+|  | 707 | 4712 . | 5416 . |
+|  | 702 | 4756 . | 5416 . |
+|  | P11 | 4756 . | 5845 . |
+|  | 202 | 4859 . | 5835 . |
+|  | L4 | 5008 . | 5600 . |
+12 
+
+## Página 25
+
+## 2.9 
+### Määräykset ja ohjeet 
+Tasoristeyksiä koskevat säädökset ja ohjeet on esitetty liitteessä 2, joka koostejul-
+kaisussa esitetään koko julkaisun liitteenä. 
+Tätä selostusta koskevat erityisesti kohdat, jotka käsittelevät tasoristeysten yleisiä peri-
+aatteita, näkemiä, tien ja radan välistä kulmaa, odotustasanteita, tieliittymien etäisyyttä 
+tasoristeyksestä, varoitustoimenpiteen valintaa, tien- ja radanpitäjän vastuita tasoriste-
+yksen ja näkemien kunnossapidosta sekä tienkäyttäjiä koskevia määräyksiä. 
+### RATOn mukaan raiteiden suuntaiset näkemät mitataan 8 m päästä lähimmästä kiskos-
+ta. Näkemän tulee olla metreissä yksiraiteisessa vartioimattomassa tasoristeyksessä 
+vähintään 6 x junan suurin 
+sallittu nopeus. Tattaritien tasoristeyksen kohdalla näkemä-
+vaatimus on 6 x 70 (km/h) = 420 metriä. Tasoristeyksen näkemävaatimukset täyttyivät. 
+RATOn mukaan teitä rakennettaessa ja parannettaessa on tien linjauksen oltava suora 
+tasoristeyksen molemmin puolin tien luokan asettaman vaatimuksen mukaan, eikä liit-
+tymiä saa olla edellä määritellyllä tien suoralla osuudella. Esimerkiksi suora osuu
+s on 
+yksityistiellä oltava vähintään 10–20 metriä tai enemmän kuin 20 metriä. Tieliittymän ja 
+tasoristeyksen välinen etäisyys tulee suunnitella sellaiseksi, että liittymästä kääntynyt 
+ajoneuvo pääsee ennen risteysmerkkiä kokonaan omalle kaistalleen. Koska kyseessä 
+olevaa yksityistietä voivat käyttää myös yhdistelmäajoneuvot, tieliittymän tulisi olla vä-
+hintään 35 metriä radasta. 
+### RATOn mukaan tien pituuskaltevuu
+s saa olla maksimissaan 1,5 % tasoristeyksen mo-
+lemmin puolin niin pitkällä matkalla, että odotustasanne on riittävä mitoitusajoneuvon 
+pysähtymistä varten. Koska kyseessä olevaa yksityistietä voivat käyttää myös yhdistel-
+mäajoneuvot, odotustasanteen tulisi olla metsäteitä vastaava vähintään 
+30 metriä. 
+Tienpitäjä vastaa muiden kuin tasoristey
+ksen risteysmerkkien asettamisesta. Näitä ovat 
+rautatien tasoristeyksen varoitusmerkit, tasoristeyksen lähestymismerkit
+, nopeusrajoi-
+tusmerkit ja pakollista pysäyttämistä osoittavat merkit. Yksityisellä tiellä
+ liikennemerkit 
+voi asettaa radanpitäjä tienpitäjän luvalla. Edellee
+n tienpitäjän vastuulle kuuluu tasoris-
+teyksen näkemät muulla kuin Liikenneviraston hallitsemalla alueella sekä odotustasan-
+teiden kunnoss
+apito. 
+RATOn kohdassa 9.3.4 ohjeistetaan varoittamistoimenpiteiden valintaa. Tasoristeyksis
+-
+sä tulisi käyttää varoituslaitosta, jos joku seuraavista ehdoista toteutuu: 
+1. Radan paikallinen nopeus tasoristeyksen kohdalla voi olla yli 120 km/h. 
+2. Radan ylittävä tie on yleinen tie. 
+3. Tasoristeyksen näkemiä ei kohtuullisesti saa ohjeiden mukaisiksi. 
+4. Tieliikenteen määr
+ä on yli 50 moottoriajoneuvoa vuorokaudessa. 
+lle 80gon (100gon = 90°). 
+5. Risteyskulma on a
+6. Tieliittymä on liian lähellä tasoristeystä tai radan suuntainen tie on liian lähellä 
+rataa. 
+13
+
+## Página 26
+
+Tattaritien tasoristeyksen kohdalla edellä mainituista ehdoista toteutuvat kohdat 4 ja 6. 
+Tieliikennelain mukaan junalle on a
+nnettava esteetön kulku ja rautatien tasoristeystä lä-
+hestyvän tienkäyttäjän on noudatettava erityistä varovaisuutta. 
+## 2.11 
+### Poliisin tekemä tutkinta 
+Tapahtumapaikalle hälytettiin heti onnettomuuden tapahduttua Satakunnan poliisilaitok-
+sen ja liikkuvan poliis
+in partioita. Partiot eristivät alueen, ohjasivat liikennettä ja suoritti-
+vat alustavia puhutteluja sekä kirjasivat onnettomuudesta rikosilmoituksen liikenneturval-
+lisuuden vaarantamisesta ja kuole
+mantuottamuksesta. Tapahtumapaikalle hälytettiin 
+myös Satakunnan poliisilaitoksen rikosteknisen yksikön tutk
+ijoita sekä Satakunnan lii-
+kenneonnettomuuksien
+ tutkijalautakunnan jäseniä, jotka suorittivat onnettomuuspaikan, 
+junan ja auton teknisen tutkinnan. 
+Asiassa esitutkinnan suoritti Satakunnan poliisilaitos. Esitutkintamateriaali on ollut on-
+nettomuustutkintalautakunnan käytössä. 
+## 3 
+## ANALYYSI 
+## 3.1 
+### Onnettomuuden analysointi 
+### Onnettomuuspaikka 
+Kuljettajan käyttämä tie yhtyy käytännössä vasta juuri tasoristeyksessä oikealta tulevaan 
+tiehen terävässä kulmassa. Kuljettajan oli samanaikaisesti tarkkailtava takaoikealta ja 
+etuvasemmalta tulevaa tie
+liikennettä sekä takavasemmalta ja etuoikealta lähestyvää ju-
+naliikennettä. Lisäksi välittömästi tasoristeyksen jälkeen on T-risteys, jossa autonkuljet-
+tajalla on väistämisvelvollisuus. Kuljettajan käyttämällä reitillä on 30 metrin matkalla rau-
+tatien tasoristeys ja kaksi tienristeystä, joissa kaikissa on väistämisvelvollisuus. Nämä 
+tekijät ovat häirinneet radan liikenteen havainnointia. 
+Tasoristeyksen odotustasanteet puuttuvat ja tie nousee ennen tasoristeystä 13 metrin 
+matkalla metrin verran. Tämä aiheuttaa ongelmia etenkin talvella tien ollessa liukas. 
+Tattaritien tasoristeys on ainut tieyhteys asuntoalueelle, jossa on noin 30 taloutta. Taso-
+risteyksestä noin 400 metrin päässä on vartioitu tasoristeys, jonne ei kuitenkaan asun-
+toalueelta ole tieyhteyttä. 
+14 
+
+## Página 27
+
+Kuva 5. Kuva tieltä vasemmalle junan tulosuuntaan noin 17 metriä ennen ylikäytävää. 
+Kuvassa näkyvä henkilö seisoo radalla noin 60 metrin etäisyydellä tasoristeyk-
+sestä. (Kuva Poliisi otettu 2.3.10) 
+Bild 5. 
+Bild från vägen mot vänster i tågets ankomstriktning cirka 17 meter före korsningen. Personen 
+på bilden står på järnvägen på cirka 60 meters avstånd från plankorsningen. (Bilden tagen av 
+polisen 2.3.2010) 
+Figure 5. Photo taken from the road to the left in the direction of the approaching train 
+about 17 metres before the crossing. The person is standing about 60 metres 
+from the level crossing. (Kuva Poliisi otettu 2.3.10) 
+Puuston vuoksi riittävä havainnointi junan tulosuuntaan ei ole mahdollista ennen kuin 
+vasta kahdeksan metrin etäisyydellä radasta. Näkemä kahdeksan metriä ennen rataa on 
+RATOn ohjeiden mukaan riittävä, mutta käytännössä tässä tasoristeyksessä turvallinen 
+radan ylittäminen vaatisi pysähtymistä havaintojen tekoa varten.  
+### Juna ja veturinkuljettajan toiminta 
+Veturinkuljettajan toiminta oli asianmukaista. Hän ehti auton havaittuaan käyttää vihellin-
+tä ja aloittaa jarrutuksen noin 30 m ennen tasoristeystä. Junan nopeus ei kuitenkaan eh-
+tinyt vielä hidastua. Huonosta lähestymisnäkemästä johtuen veturinkuljettajalla ei ollut 
+mahdollisuutta toimia aikaisemmin ja estää törmäystä tai vähentää sen seurauksia. 
+Veturin puskinrakenteet mahdollistavat puskimen työntymisen syvälle auton sisään. 
+Tässä tapauksessa puskin on aiheuttanut kohtalokkaat vammat auton kuljettajalle ja to-
+dennäköisesti myös ilman turvavyötä olleelle matkustajalle. 
+15
+
+## Página 28
+
+### Ajoneuvo, sen turvavarusteet ja ajoneuvon kuljettajan toiminta 
+Henkilöautossa oli kesärenkaat, mikä on varmuudella vaikeuttanut kuljettajan toimintaa 
+tasoristeyksessä, jonne tie nousee. Jäisellä ja polanteisella tiellä oli havaittavissa suti-
+misjälki. Auto oli kuitenkin liikkunut koko ajan tasaisesti eteenpäin, joten kyse ei ole kiin-
+ni jäämisestä. Tasoristeykseen nousu on kuitenkin sitonut kuljettajan huomiota ja häirin-
+nyt radan liikenteen tarkkailua.  
+Henkilöauto oli vuosimallia 1998, eikä siinä ollut muita turvavarusteita kuin turvavyöt tur-
+vavyön kiristimet ja kuljettajan turvatyyny. Törmäyssuunnasta johtuen kuljettajan turva-
+tyynyn laukeaminen ei suojannut kuljettajaa. Myöskään kuljettajan turvavyön käytöllä ei 
+tästä syystä ollut merkitystä. 
+Matkustaja ei käyttänyt turvavyötä. Turvavyön käyttö olisi mahdollisesti estänyt paiskau-
+tumisen päin sisään työntynyttä auton vasenta kylkeä ja kuljettajaa. Nykyaikaisilla turva-
+varusteilla varustetussa autossa matkustajalla olisi saattanut olla mahdollisuuksia selvitä 
+hengissä. 
+## 3.2 
+### Pelastustoiminnan analysointi 
+Veturinkuljettaja soitti suoraan Satakunnan hätäkeskukseen. Puhelu kesti 1 min 16 s. 
+Onnettomuuspaikan nopea paikantaminen perustui veturinkuljettajan ja hätäkeskus-
+päivystäjän paikallistuntemukseen. Veturinkuljettajan suora yhteys hätäkeskukseen no-
+peutti avun saamista paikalle. Ohjeiden mukaan veturinkuljettajan olisi pitänyt ensin soit-
+taa liikenteenohjaajalle Tampereen liikenteenohjauskeskukseen, joka tekisi hätäilmoi-
+tuksen. Tämä olisi hidastanut hätäilmoituksen tekoa. Tässä tapauksessa saatuaan tie-
+don onnettomuudesta liikenteenohjaaja teki hätäilmoituksen Pirkanmaan hätäkeskuk-
+seen, joka tarkisti, onko Satakunnan hätäkeskukseen tullut tieto onnettomuudesta. Mikä-
+li hätäilmoitus olisi tehty ainoastaan ohjeistuksen mukaan, paikkatieto olisi tässä tapauk-
+sessa jouduttu välittämään kolme kertaa, aikaa olisi kulunut huomattavasti enemmän ja 
+virheiden mahdollisuus kasvanut. 
+Veturinkuljettaja ja paikalle tullut matkustajana olleen tytön poikaystävä eivät osallistu-
+neet ensiavun antamiseen, mutta tällä ei ollut vaikutusta uhrien pelastamiseen. 
+Ensimmäinen pelastusyksikkö oli paikalla 5 min 7 s hälytyksestä. Elossa ollut auton 
+matkustaja saatiin irrotettua ja laitettua kuljetuskuntoon noin puolessa tunnissa, mikä on 
+onnettomuustyyppi huomioiden kohtuullinen aika. Hätäpuhelun vastaanottanut päivystä-
+jä kertoi hälyttäneensä koodilla raideliikenneonnettomuus, pieni, koska ilmoituksen teh-
+nyt veturinkuljettaja ei tarkkaan tiennyt onnettomuuden vakavuutta. Tarkoituksena oli lä-
+hettää nopeasti apua paikalle ja lisätä sitä tarpeen mukaan, kuten tehtiinkin. 
+Viestintä meni viestintäohjeen mukaisesti. Viestit olivat selkeitä, lyhyitä, kuunneltiin lop-
+puun toisen osapuolen lause eikä puhuttu päälle. 
+16 
+
+## Página 29
+
+## 3.3 
+### Onnettomuustehtävän määrittely, kiireellisyys ja vasteet 
+Raideliikenneonnettomuus tulee hätäkeskuksen ohjeiden mukaan aina määritellä vähin-
+tään luokkaan keskisuuri, kun tapahtuu ajoneuvon ja raideliikennekulkuneuvon törmäys, 
+onnettomuudessa on 1–3 pelastettavaa, henkilö jää raideliikennekulkuneuvon alle tai 
+onnettomuus on muuten epäselvä. Raideliikenneonnettomuus on pieni, jos kyseessä on 
+suistuminen kävelyvauhdista tai tarkistustehtävä, jossa ei ole varmuudella pelastettavia 
+eikä lisäonnettomuuden vaaraa ole olemassa. Veturinkuljettaja kertoi selkeästi, että 
+henkilöauto on jäänyt 70 km/h ajaneen junan alle ja autossa on ainakin yksi henkilö. Hä-
+täkeskuspäivystäjä määritteli kuitenkin onnettomuustehtävän luokkaan raideliikenneon-
+nettomuus, pieni. Onnettomuustehtävän määrittelyvirhe ei kuitenkaan aiheuttanut viiväs-
+tystä hälyttämisessä, vasteiden riittävyydessä eikä pelastustoimien aloittamisessa, kos-
+ka hätäkeskuspäivystäjä hälytti kuitenkin keskisuuren raideliikenneonnettomuuden edel-
+lyttämän vasteen. 
+Hätäkeskuksen ohjeiden mukaan tehtävä luokitellaan A-kiireellisyysluokkaan, kun tehtä-
+vä vaatii tai voidaan epäillä vaativan välitöntä ihmisen pelastamista ja B-
+kiireellisyysluokkaan, kun onnettomuus voi levitä tai siinä on mahdollisuus lisävahinkoi-
+hin. Poliisille tehtävä oli annettu A- ja pelastuslaitokselle B-kiireellisyysluokassa. Pelas-
+tuslaitoksen kiireellisyysluokan olisi pitänyt olla A. 
+## 4 
+## JOHTOPÄÄTÖKSET 
+## 4.1 
+### Toteamukset 
+1. Tasoristeys oli auton kuljettajalle tuttu. 
+2. Tasoristeyksessä ei ollut varoituslaitteita 
+3. Tasoristeyksessä ei ollut kunnollisia odotustasanteita ja nousu tasoristeykseen on 
+niin suuri, että autoilija ei uskalla etenkään liukkaalla kelillä pysähtyä ennen rataa 
+pelätessään vaikeaa liikkeellelähtöä. 
+4. Autossa oli kesärenkaat, vaikka lain ja keliolosuhteiden mukaan olisi vaadittu talvi-
+renkaat. 
+5. Näkyvyydet Tattarin tasoristeyksessä olivat RATOn ohjeiden mukaiset, mutta näky-
+vyys oli liikenneympäristön haasteellisuuden vuoksi riittämätön. 
+6. Autonkuljettajan reittivalinta ei ollut turvallisin vaihtoehto. Hän olisi voinut valita tien, 
+joka tuli kohtisuorassa radalle, tosin samaan tasoristeykseen. 
+7. Autonkuljettaja havaitsi junan liian myöhään. 
+8. Juna törmäsi auton kylkeen 70 km/h –nopeudella. 
+17
+
+## Página 30
+
+9. Auton kuljettaja menehtyi välittömästi ja matkustaja seuraavana päivänä vam-
+moihinsa. 
+10. Hätäilmoituksen tekeminen suoraan Satakunnan hätäkeskukseen nopeutti avun 
+saantia. Hätäkeskuspäivystäjä ei saanut tietoa loukkaantuneiden määrästä ja tilasta, 
+koska veturinkuljettaja ei kyennyt menemään onnettomuusauton luo. 
+11. Hätäkeskuspäivystäjä määritteli tehtävän luokkaan raideliikenneonnettomuus pieni, 
+vaikka ohjeiden mukaan luokan olisi pitänyt olla vähintään raideliikenneonnetto-
+muus, keskisuuri. Vasteet hälytettiin kuitenkin keskisuuren onnettomuuden mukai-
+sesti. Pelastuslaitoksen kiireellisyysluokitus oli B, vaikka sen olisi pitänyt olla A. Pu-
+heviesteistä selvisi kuitenkin onnettomuuden vakavuus, joten tästä ei aiheutunut pe-
+lastustoimien viivästymistä. 
+## 4.2 
+### Onnettomuuden syyt 
+Autonkuljettaja havaitsi junan liian myöhään, eikä ehtinyt pysähtyä tai muuten estää on-
+nettomuutta. Taustatekijöinä tähän olivat: 
+- 
+Tasoristeys oli auton kuljettajalle tuttu, mikä yleensä vähentää varovaisuutta. Lisäksi 
+hän oli hetkeä aiemmin ylittänyt saman tasoristeyksen toiseen suuntaan. 
+- 
+Tasoristeyksessä ei ollut varoituslaitteita. 
+- 
+Tasoristeyksessä ei ollut kunnollisia odotustasanteita ja nousu tasoristeykseen oli 
+niin suuri, että autoilija etenkin liukkaalla kelillä (tässä tapauksessa kesärenkailla) 
+välttää pysähtymistä. 
+- 
+Autossa oli kesärenkaat. 
+- 
+Kuljettajan käyttämällä reitillä on 30 metrin matkalla rautatien tasoristeys ja kaksi 
+tienristeystä, jossa kaikissa on väistämisvelvollisuus. 
+## 4 
+## SLUTSATSER 
+## 4.1 
+### Konstateranden 
+1. 
+Plankorsningen var bekant för bilens förare. 
+2. 
+Plankorsningen saknade varningsanordningar. 
+3. 
+Plankorsningen hade ingen ändamålsenlig vänteplats och stigningen till plankors-
+ningen är så brant att en bilförare i synnerhet vid halt väglag inte vågar stanna före 
+järnvägen eftersom föraren är rädd för att inte kunna komma i rörelse på nytt. 
+4. 
+Bilen var utrustad med sommardäck trots att lagen och vägförhållandena krävde 
+vinterdäck. 
+5. 
+Frisiktsområdena vid Tattari plankorsning överensstämde med de bantekniska an-
+visningarna (RATO), men sikten var otillräcklig på grund av den svåra trafikmiljön. 
+18 
+
+## Página 31
+
+6. 
+Bilförarens val av rutt var inte det tryggaste alternativet. Hon kunde ha valt en väg 
+vinkelrätt mot banan, som dock korsade banan via samma plankorsning. 
+7. 
+Bilföraren upptäckte tåget för sent. 
+8. 
+Tåget stötte mot bilens sida med en hastighet av 70 km/h. 
+9. 
+Bilföraren omkom omedelbart och passageraren avled av sina skador dagen efter 
+olyckan. 
+10. Genom att nödanmälan gjordes direkt till Satakunta nödcentral kom hjälpen snab-
+bare till platsen. Nödcentraloperatören fick inga uppgifter om de skadades antal och 
+tillstånd eftersom lokföraren inte förmådde gå till olycksbilen. 
+11. Nödcentraloperatör fastställde uppgiften enligt klassen spårtrafikolycka, liten trots 
+att klassen enligt anvisningarna borde ha varit minst spårtrafikolycka, medelstor. 
+Responsen larmades emellertid enligt en medelstor olycka. Räddningsverkets 
+skyndsamhetsklass var B trots att den borde ha varit A. I röstmeddelandena fram-
+kom dock olyckans svårighetsgrad. Detta orsakade alltså ingen fördröjning av 
+räddningsinsatserna. 
+## 4.2 
+### Orsaker till olyckan 
+Bilföraren upptäckte tåget för sent och hann inte stanna eller på annat sätt förhindra 
+olyckan. Följande faktorer bidrog till detta: 
+- 
+Plankorsningen var bekant för föraren, vilket i allmänhet minskar försiktigheten Des-
+sutom hade föraren en kort tid tidigare korsat plankorsningen i motsatt riktning. 
+- 
+Plankorsningen saknade varningsanordningar. 
+- 
+Plankorsningen saknade ändamålsenlig vänteplats och stigningen till plankorsnin-
+gen var så brant att en bilist i synnerhet vid halt väglag (i detta fall hade bilen som-
+mardäck) undviker att stanna. 
+- 
+Bilen var utrustad med sommardäck. 
+- 
+Längs den rutt föraren använde finns inom en 30 meters sträcka en järnvägsplan-
+korsning och två vägkorsningar med väjningsplikt. 
+## 4 
+## CONCLUSIONS 
+## 4.1 
+### Statements 
+1. The driver of the car was familiar with the level crossing. 
+2. The level crossing was not equipped with warning installations. 
+3. The level crossing was not equipped with proper waiting platforms and the road 
+rises before the crossing to such an extent that drivers avoid stopping before the 
+19
+
+## Página 32
+
+crossing especially in wet and slippery conditions for fear of having difficulties with 
+starting to move again. 
+4. The car was equipped with summer tyres, even though legislation and weather con-
+ditions required winter tyres. 
+5. Visibility at the Tattari level crossing met technical requirements (RATO), but visibil-
+ity was insufficient because of challenging driving conditions. 
+6. The driver of the car had not chosen the safest route. The driver could have chosen 
+a route that came at a right angle to the same crossing. 
+7. The driver of the car failed to notice the train in time. 
+8. The train crashed into the car’s side at 70 km/h. 
+9. The driver of the car died immediately from injuries sustained, and a car passenger 
+died on the following day. 
+10. The fact that the emergency call was placed directly to the Satakunta emergency re-
+sponse centre facilitated a speedy response. The emergency response centre op-
+erator was not informed of how many were injured or what their condition was be-
+cause the driver of the train was not able to get to the car. 
+11. The emergency response centre operator classified the collision as rail accident mi-
+nor, but it should have been classified at a minimum as rail accident intermediate. 
+The response that was alerted was in line with an intermediate range accident. The 
+rescue centre’s criticality classification was B, but it should have been A. The seri-
+ousness of the accident became apparent over the phone, however, and therefore 
+the mistake did not cause any delay in rescue operations. 
+## 4.2 
+### Causes of the occurrence 
+The driver of the car failed to notice the approaching train in time and was no longer 
+able to stop or otherwise prevent the collision. The factors contributing to this were: 
+- 
+The crossing was familiar to the driver of the car, which usually reduces vigilance. 
+The driver had also driven across the level crossing in the other direction moments 
+before the accident. 
+- 
+The level crossing was not equipped with warning installations. 
+- 
+The level crossing was not equipped with proper waiting platforms and the road ri-
+ses before the crossing to such an extent that drivers avoid stopping before the 
+crossing especially in wet and slippery conditions (and in this case the car was 
+equipped with summer tyres). 
+- 
+The car had tyres designated for summer use. 
+- 
+For the 30 metre stretch before the level crossing, the road had two intersections 
+with give way signs 
+20 
+
+## Página 33
+
+## 5 
+## TOTEUTETUT TOIMENPITEET JA SUUNNITELMAT 
+Tasoristeyksessä ei ole toteutettu turvallisuutta parantavia toimenpiteitä. 
+Onnettomuuden jälkeen Porin kaupunginvaltuustolle tehtiin 1.3.2010 kaksi valtuustoaloi-
+tetta koskien Porin rataosien tasoristeysturvallisuuden parantamista. Näihin valtuusto-
+aloitteisiin vastattiin 10.5.2010, jolloin käytiin ajankohtaiskeskustelu Porin rautateiden ta-
+soristeysturvallisuuden parantamisesta sekä samalla luettiin 406 porilaisen allekirjoitta-
+ma adressi, jossa vaadittiin vartioimattomien tasoristeysten vähentämistä. 
+Liikenneviraston rautatieosaston kanssa käydyn neuvottelun pohjalta Porin katu- ja puis-
+tosuunnittelu on yhdessä kaupunkisuunnittelun kanssa lähtenyt valmistelemaan Pori–
+Mäntyluoto- rataosan kolmivaiheista tasoristeysten turvallistamissuunnitelmaa ottaen 
+huomioon tulevan maankäytön ja liikenneverkon kehittymisen. Ensimmäinen vaiheen 
+kohteina ovat kevyet ratkaisut, joilla saadaan mahdollisimman nopeasti ja vähäisillä kus-
+tannuksilla poistettua osa tasoristeyksistä. Suunnitelmassa esitetään kahden tasoriste-
+yksen poistamista vuosittain. Suunnitelma on esitelty päättäjille ja kaupunkilaisille.   
+Tattaritien tasoristeys on tarkoitus muuttaa pelkästään kevyen liikenteen ylityspaikaksi. 
+Muulle liikenteelle rakennetaan uusi tieyhteys vartioidun tasoristeyksen kautta. 
+Keväällä 2011 on ryhdytty toimenpiteisiin yksityistietoimikuntien perustamiseksi Pori–
+Mäntyluoto- radan ylittäville yksityisteille. 
+VR-Yhtymä Oy:n 1.6.2011 voimaan tulleiden ohjeiden mukaan ilmoitus sattuneesta on-
+nettomuudesta tulee antaa viivytyksettä ensiksi tavoitettavalle liikenteenohjaukselle. 
+Tämän jälkeen tapahtumapaikalta otetaan tarvittaessa yhteys hätäkeskukseen.  
+Liikennevirasto aikoo selvittää yhteistyössä muiden toimijoiden kanssa mahdollisuudet 
+tehdä muutoksia toimintatapoihin liittyen onnettomuudesta ilmoittamiseen onnettomuus-
+paikalta. 
+## 5 
+## VIDTAGNA ÅTGÄRDER 
+Inga åtgärder som förbättrar säkerheten har vidtagits vid plankorsningen. 
+Efter olyckan lämnades två fullmäktigemotioner den 1.3.2010 till stadsfullmäktige i Björ-
+neborg. Motionerna berörde förbättring av plankorsningarnas säkerhet vid banavsnitten i 
+Björneborg. Svar på dessa fullmäktigemotioner gavs 10.5.2010 vid en aktualitetsdebatt 
+om förbättring av plankorsningarnas säkerhet vid järnvägarna i Björneborg. Samtidigt 
+läste man upp en massadress som 406 björneborgsbor hade undertecknat där krav 
+ställdes på en reducering av antalet obevakade plankorsningar. 
+Utifrån förhandlingar med Trafikverkets järnvägsavdelning har gatu- och parkplanering-
+en i Björneborg tillsammans med stadsplaneringen inlett beredningen av en trestegsplan 
+för att öka plankorsningarnas säkerhet vid banavsnittet Björneborg–Mäntyluoto med be-
+aktande av den kommande utvecklingen av markanvändningen och trafiknätet. Målen 
+21
+
+## Página 34
+
+för det första steget är enkla lösningar för att så fort som möjligt och till låga kostnader 
+avskaffa en del av plankorsningarna. I planen föreslås avskaffandet av två plankors-
+ningar per år. Planen har presenterats för beslutsfattarna och stadsborna.   
+Avsikten är att ändra plankorsningen vid Tattaritie till ett övergångsställe enbart för 
+gång- och cykeltrafik. För den övriga trafiken byggs en ny trafikförbindelse via en beva-
+kad plankorsning. 
+Under våren 2011 vidtogs åtgärder för att bilda kommittéer för enskilda vägar för de en-
+skilda vägar som korsar banan Björneborg–Mäntyluoto. 
+Enligt VR Group Ab:s anvisningar som trädde i kraft 1.6.2011 ska anmälan om en 
+olycka som inträffar ofördröjligen lämnas till den trafikledning som är tillgänglig. Därefter 
+kontaktas nödcentralen vid behov från olycksplatsen.  
+Trafikverket tänker i samarbete med andra aktörer ta reda på möjligheter att ändra till-
+vägagångssätten angående rapporteringen av en olycka från olycksplatsen 
+## 5 
+## MEASURES THAT HAVE BEEN TAKEN 
+No actions have been taken at the level crossing to improve safety. 
+After the accident, two proposals were submitted to Pori City Council concerning safety 
+improvements along the Pori track. Responses to the proposals were received on 10 
+May 2010, during which improvements were discussed and a petition from 406 of the 
+city’s inhabitants was read out demanding that the number of unprotected level cross-
+ings be reduced.  
+Based on negotiations with the Finnish Transport Agency, Pori street and park planning 
+has initiated cooperation with city planners for the preparation of a three-step plan for 
+improving safety along the Pori-Mäntyluoto track, taking into account developments in 
+land use and the traffic network. The first step involves solutions that enable the removal 
+of some level crossings quickly and at little expense, with the aim of removing two level 
+crossings a year. The plan has been presented to key decision makers and city inhabi-
+tants. 
+The aim is that the Tattaritie level crossing will be reserved for light traffic. A new con-
+nection through the level crossing will be built for other traffic. 
+During spring 2011, actions were taken to establish private road committees covering 
+private roads that cross the Pori-Mäntyluoto track. 
+In line with regulations that came into force in VR Group on 1 June 2011, an emergency 
+notification after an accident is to be placed first and without delay to traffic control. Fol-
+lowing this the emergency response centre will be contacted from the scene of the acci-
+dent if needed. 
+22 
+
+## Página 35
+
+The Finnish Transport Agency will review, in cooperation with other parties, whether it 
+would be possible to alter practices relating to making an accident notification from the 
+accident scene. 
+## 6 
+## TURVALLISUUSSUOSITUKSET 
+### S303 Tattaritien tasoristeyksen poisto 
+Tattaritien tasoristeys on ainoa tieyhteys asuntoalueelle, mutta asuntoalueelta olisi 
+mahdollista järjestää turvallisempi tieyhteys rakentamalla 200 metriä katua siten, että 
+uusi katu liittyisi Ulasoori–Kaanaa yhdystiehen, jonka tasoristeys on varustettu varoitus-
+laitteilla. Sen vuoksi tutkintalautakunta suosittaa: 
+Tattaritien tasoristeys tulisi poistaa. [B2/10R/S303] 
+### Aikaisemmissa tutkintaselostuksissa annettujen suositusten toistaminen 
+### S211 Suora matkapuhelinyhteys onnettomuuspaikalta hätäkeskukseen. 
+Tämänhetkisten toimintaohjeiden mukaan veturinkuljettajan tulee ilmoittaa onnettomuu-
+desta liikenteenohjaajalle, joka soittaa edelleen hätänumeroon ja kertoo saamansa tie-
+dot hätäkeskuspäivystäjälle. Tämä aiheuttaa tarpeetonta viivettä hälytyksen tekemiseen 
+ja lisäksi liikenteenohjaaja joutuu toimimaan välittäjänä hätäkeskuspäivystäjän tiedustel-
+lessa tarpeellisia tietoja. Lisäksi liikenteenohjaaja on usein eri hätäkeskusalueella kuin 
+onnettomuuteen joutunut juna, joten liikenteenohjaajan hätäpuhelu ohjautuu väärään 
+hätäkeskukseen aiheuttaen lisää viivettä. 
+Hätäilmoituksen tekemiseen liittyviä ohjeita tulisi kehittää siten, että aina tarvittaessa kii-
+reellistä pelastustoimen apua, tulisi onnettomuuspaikalta soittaa liikenteenohjaukseen 
+tehdyn ilmoituksen lisäksi myös suoraan yleiseen hätänumeroon. [B1/05R/S211] 
+VR-Yhtymä Oy, Hätäkeskuslaitos, ELY-keskus, Liikennevirasto, Liikenteen turvallisuus-
+virasto, Porin kaupunki ja Satakunnan pelastuslaitos ovat antaneet suosituksista lausun-
+tonsa. Lausunnot ovat täydellisinä liitteessä 1. 
+## 6 
+## SÄKERHETSREKOMMENDATIONER 
+### S303 Avskaffande av plankorsningen vid Tattaritie 
+Plankorsningen vid Tattaritie är den enda vägförbindelsen till bostadsområdet. Det är 
+emellertid möjligt att åstadkomma en säkrare förbindelse till bostadsområdet genom att 
+bygga en gatsträcka på 200 meter så att den nya gatan ansluter till förbindelsevägen 
+Ulasoori–Kaanaa vars plankorsning är försedd med varningsanordningar. Därför re-
+kommenderar undersökningskommissionen följande: 
+23
+
+## Página 36
+
+Plankorsningen vid Tattaritie bör avskffas. [B2/10R/S303] 
+### Upprepning av rekommendationer i tidigare undersökningsrapporter 
+### S211 Direkt mobiltelefonförbindelse från olycksplatsen till nödcentralen. 
+Enligt de gällande anvisningarna ska lokföraren anmäla en olycka till tågledaren som i 
+sin tur ringer nödnumret och informerar nödcentraloperatören. Detta orsakar en onödig 
+fördröjning av larmet och dessutom måste tågledaren fungera som förmedlare när nöd-
+centraloperatören begär nödvändiga uppgifter. Dessutom befinner sig tågledaren ofta 
+inom ett annat nödcentralområde än det tåg som råkat ut för olyckan och därför styrs 
+tågledarens nödsamtal till fel nödcentral vilket orsakar ytterligare dröjsmål. 
+VR Group Ab, Nödcentralsverket, närings-, trafik- och miljöcentralen, Trafikverket, Tra-
+fiksäkerhetsverket, Björneborg stad och Satakunta räddningsverk har gett rekommenda-
+tioner i sina utlåtanden. De fullständiga utlåtandena finns i bilaga 1. 
+## 6 
+## SAFETY RECOMMENDATIONS 
+### S303 Removal of the Tattaritie level crossing 
+The Tattaritie level crossing provides the only access to a nearby residential area, but it 
+would be possible to organise a safer route by building 200 metres of road in such a way 
+that the new road would connect with the Ulasoori-Kanaa road, which has a level cross-
+ing equipped with warning installations. Therefore, the investigation commission rec-
+ommends: 
+The Tattaritie level crossing should be removed. [B2/10R/S303] 
+### Reiteration of recommendations issued in previous investigation reports 
+### S211 Direct mobile phone connection from the scene of the accident to the 
+emergency centre 
+Current instructions state that when an accident occurs, train drivers are to notify traffic 
+control who should then calls the emergency response centre operator and tells them 
+what is known about the accident. This causes an unnecessary delay in the making of 
+the emergency call and the traffic controller is stuck in the role of an intermediary when 
+answering questions by the emergency response centre operator. Moreover, the traffic 
+controller is often located in another emergency response centre area to where  the ac-
+cident took place, which means an additional delay because the traffic controller’s call is 
+directed to the wrong emergency response centre. 
+VR Group, the Emergency Response Centre Administration, the Centre of Economic 
+Development, Transport and the Environment, the Finnish Transport Agency, the Fin-
+24 
+
+## Página 37
+
+nish Transport Safety Agency (Trafi), and the Satakunta Rescue Department have is-
+sued their statements on the recommendations. The statements are given in full in Ap-
+pendix 1. 
+The following parties have issued a statement on the recommendations: the Finnish 
+Railway Agency, the Finnish Railway Administration, VR Group, the Rescue Department 
+of the Ministry of the Interior, the Emergency Response Centre Administration, the 
+Emergency Response Centre of Xx, and Xx Rescue Services, the Department for Social 
+and Health Services of the Ministry of Social Affairs and Health, the Finnish Road Ad-
+ministration XX Region, the XX municipality and XX. The statements are given in full in 
+Appendix 1. 
+Helsingissä  19.7.2011 
+Timo Kivelä 
+Mika Hatakka 
+Antti Koskela 
+25
+
+## Página 38
+
+## LÄHDELUETTELO 
+Seuraavat lähdeliitteet on taltioituna Onnettomuustutkintakeskuksessa: 
+1. 
+Päätös tutkinnan aloittamisesta B2/2010R, kirje 93/5R, 3.3.2010 
+2. 
+Lausunnot tutkintaselostusluonnoksesta: 
+Rautatieviraston lausunto 
+Ratahallintokeskuksen lausunto 
+VR-Yhtymä Oy:n lausunto 
+Hätäkeskuslaitoksen lausunto 
+Satakunnan pelastuslaitoksen lausunto 
+Varsinais-Suomen Elinkeino-, liikenne- ja ympäristökeskuksen lausunto 
+Porin kaupungin lausunto 
+3. 
+Satakunnan poliisilaitoksen tutkintailmoitus 8390/R/6326/10 (EI JULKINEN) 
+4. 
+Satakunnan hätäkeskuksen puherekisteritallenteet ajalta 25.2.2010 kello 12.42.45–14.00.53 
+5. 
+Satakunnan hätäkeskuksen tehtäväraportti (EI JULKINEN) 
+6. 
+Pronto-tietokannassa oleva Satakunnan hätäkeskuksen hälytysseloste (EI JULKINEN) 
+7. 
+Pronto-tietokannassa oleva Satakunnan pelastuslaitoksen onnettomuusseloste (EI 
+JULKINEN) 
+8. 
+Liikenteenohjauksen puherekisterin purku ajalta 25.2.2010 kello 12.36.19–12.44.40 
+9. 
+Junan 3862 kulunrekisteröintilaitteen tiedot 
+26 
+
+## Página 39
+
+## Liite 1/1 (10) 
+## LAUSUNNOT 
+
+## Página 40
+
+## Liite 1/2 (10) 
+
+## Página 41
+
+## Liite 1/3 (10) 
+
+## Página 42
+
+## Liite 1/4 (10) 
+
+## Página 43
+
+## Liite 1/5 (10) 
+
+## Página 44
+
+## Liite 1/6 (10) 
+
+## Página 45
+
+## Liite 1/7 (10) 
+
+## Página 46
+
+## Liite 1/8 (10) 
+
+## Página 47
+
+## Liite 1/9 (10) 
+
+## Página 48
+
+## Liite 1/10 (10) 
+## Liite 1/10 (10) 
+
+## Página 49
+
+## Liite 2/1 (5) 
+## Tasoristeyksiä koskevat säädökset ja ohjeet 
+Maantielaissa säädetään muun muassa maanteiden näkemäalueista, tieliikennelaissa esitetään 
+tienkäyttäjiä koskevia määräyksiä, tieliikenneasetuksessa määrätään varoitusmerkkien sijoituk-
+sesta ja Rautatieviraston määräyksessä Radan rakenteet ja kunnossapito määrätään tasoristeyk-
+sistä ja niiden kunnossapidosta. Rautateiden suunnittelua, rakentamista ja kunnossapitoa ohjaa-
+va Ratahallintokeskuksen (RHK) ohjekokoelma on nimeltään Ratatekniset ohjeet (RATO). RA-
+TOn osassa 9 Tasoristeykset esitetään perusteet rautateiden tasoristeysten suunnittelua, raken-
+tamista ja kunnossapitoa varten. 
+## 1 
+Maantielaki ja liikenne- ja viestintäministeriön ohje yleisten teiden näkemäalueista 
+Maantielain (503/2005) 45 §:ssä säädetään maanteiden näkemäalueista. Lain 109 §:n mu-
+kaan liikenne- ja viestintäministeriö antaa ohjeet näkemäalueista. Liikenne- ja viestintäminis-
+teriön ohjeessa yleisten teiden näkemäalueista 24.1.2002 määritellään yleisen tien ja rauta-
+tien tasoristeyksen näkemäalue. Ohjeen mukaan lisäksi on noudatettava niitä ohjeita, jotka 
+RHK antaa tien ja rautatien tasoristeyksen näkemäalueista. 
+Sekä maantielaki että liikenne- ja viestintäministeriön ohje koskevat maanteitä eli yleiseen lii-
+kenteeseen luovutettuja teitä, joiden ylläpidosta valtio huolehtii. Muiden teiden osalta näke-
+mää ohjaavana normina on RATO, jonka kohdassa 9.2.1.3 annetaan näkemää koskevat oh-
+jeet. 
+## 2 
+### Tieliikennelaki 
+Tieliikennelain (267/1981) 7 §:n mukaan: "Junalle on annettava esteetön kulku. Junalla tar-
+koitetaan tässä pykälässä jokaista rautatiekiskoilla kulkevaa laitetta. Rautatien tasoristeystä 
+lähestyvän tienkäyttäjän on noudatettava erityistä varovaisuutta ja mahdollisista suojalaitteis-
+ta huolimatta tarkkailtava, onko juna tulossa. Kuljettajan on tällöin käytettävä sellaista nope-
+utta, että ajoneuvon voi tarvittaessa pysäyttää ennen rataa. Rautatietä ei saa lähteä ylittä-
+mään, jos juna lähestyy, taikka valo-opaste velvoittaa pysähtymään, erityinen ääniopaste 
+kuuluu, taikka puomi on alhaalla tai liikkuu. Tällöin on pysähdyttävä turvalliselle etäisyydelle 
+radasta, ennen opastinta tai puomia. Kun rautatien saa ylittää, se on tehtävä viivyttelemättä." 
+## 3 
+### Tieliikenneasetus 
+### Tasoristeyksen tieliikennemerkit ja niiden sijoittaminen 
+Tieliikenneasetuksen (182/1982) 3 luvun osan Varoitusmerkit 13 §:ssä määrätään varoitus-
+merkkien sijoituksesta siten, että varoitusmerkin tulee olla vähintään 150 ja enintään 250 
+metriä ennen vaaranpaikkaa. Taajamassa ja erityisestä syystä muuallakin varoitusmerkki 
+voidaan sijoittaa myös lähemmäksi vaaranpaikkaa. Tällaista sijoittamista voidaan käyttää, jos 
+nopeusrajoitus on enintään 60 km/h tai jos ajoneuvon nopeus muusta syystä on riittävän al-
+hainen vaarallista tienkohtaa lähestyttäessä.  
+Ennen tasoristeystä tulee olla merkki 171 Rautatien tasoristeys ilman puomeja tai 172 Rau-
+tatien tasoristeys, jossa puomit sekä Rautatien tasoristeyksen lähestymismerkit 173, 174 ja 
+175. Tasoristeyksen lähestymismerkit tulee sijoittaa siten, että merkki 173 on kauimpana ta-
+soristeyksestä merkin 171 tai 172 alla samassa pylväässä. Lisäksi välittömästi ennen lähintä 
+kiskoa tulee olla joko merkki 176 Yksiraiteisen rautatien tasoristeys tai 177 Kaksi- tai useam-
+piraiteisen rautatien tasoristeys. 
+
+## Página 50
+
+## Liite 2/2 (5) 
+Merkkejä 173–175 voidaan käyttää merkin 171 tai 172 lisäksi tehostamaan tasoristeyksen 
+havaittavuutta. Jos tasoristeys on risteävällä tiellä, ei lähestymismerkkejä kuitenkaan käyte-
+tä. Merkit sijoitetaan siten, että merkin punaiset poikkijuovat ovat tielle päin kaltevia ja ala-
+reunan korkeus on enintään yksi metri ajoradan pinnasta. Merkki 173 sijoitetaan merkin 171 
+tai 172 alle samaan pylvääseen, merkki 174 noin ⅔ etäisyydelle ja merkki 175 noin ⅓ etäi-
+syydelle tasoristeyksestä.  
+Merkkejä 176 ja 177 käytetään aina tien ja rautatien tasoristeyksissä, jollei junasta varoiteta 
+käsiohjauksella. Merkki sijoitetaan 5–7 metrin etäisyydelle lähimmästä kiskosta siten, että 
+sen alareunan korkeus ajoradan pinnasta on 2,4–3,0 metriä. 
+173.       174.     
+176. Yksi-
+177. Kaksi- tai 
+171. Rautatien 
+172. Rauta-
+tasoristeys il-
+tien tasoris-
+175. 
+raiteisen 
+useampi rai-
+man puomeja 
+teys, jossa 
+Rautatien taso-
+rautatien 
+teisen rauta-
+risteyksen lä-
+tasoristeys 
+tien tasoriste-
+on puomit 
+hestymismerkit 
+ys 
+Kuva 1. Tasoristeyksen tieliikennemerkit. 
+Tieliikenneasetuksen (182/1982) 14 §:n Etuajo-oikeus- ja väistämismerkit mukaan etuajo-
+oikeus- ja väistämismerkit sijoitetaan ajoradan oikealle puolelle. Erityisestä syystä voidaan 
+samanlainen merkki lisäksi sijoittaa ajoradalla olevalle korokkeelle, ajoradan vasemmalle 
+puolelle tai ajoradan yläpuolelle. Liikennemerkillä 232 Pakollinen pysäyttäminen osoitetaan, 
+että risteykseen tai tielle tuleva ajoneuvo on aina pysäytettävä pysäytysviivan kohdalle. Mis-
+sä pysäytysviivaa ei ole, ajoneuvo on pysäytettävä välittömästi ennen risteävää tietä sellai-
+seen kohtaan, josta on mahdollisimman hyvä näkemä risteävälle tielle. Rautatien tasoriste-
+yksessä merkillä osoitetaan, että ajoneuvo on ennen tasoristeyksen ylittämistä pysäytettävä 
+merkin kohdalle. Merkki sijoitetaan mahdollisimman lähelle risteystä. Merkkiä ei saa sijoittaa 
+25 metriä kauemmas risteävän tien ajoradan lähimmästä reunasta. Merkki sijoitetaan ajora-
+dan oikealle puolelle. Jos tulosuunnassa on kaksi tai useampia ajokaistoja, sijoitetaan sa-
+manlainen merkki yleensä lisäksi ajoradalla olevalle korokkeelle, ajoradan vasemmalle puo-
+lelle tai ajoradan yläpuolelle. 
+## 4 
+### Rautatieviraston määräys Radan rakenteet ja kunnossapito 
+Rautatieviraston määräystä Radan rakenteet ja kunnossapito (RVI/902/431/2009) sovelle-
+taan uuteen, uudistettavaan ja parannettavaan rautatien tasoristeykseen ja rautatien tasoris-
+teyksen kunnossapitoon sekä rekisteröintiin. Määräystä ei sovelleta rautatien tasoristeykses-
+sä, jossa rautatien tasoristeykseen liittyvien raiteiden liikennöinti on estetty, tai jossa rai-
+teen/raiteiden suurin nopeus on enintään 20 km/h eikä ratatyön tasoristeyksessä. 
+Rautatien tasoristeys, joka ei ole määräyksen mukainen, on saatettava määräyksen mukai-
+seksi vuoden 2030 loppuun mennessä, ellei rautatien tasoristeykseen liittyvää raidetta uudis-
+teta tai paranneta tätä aiemmin. Rautatien tasoristeys, joka ei ole määräyksen mukainen vii-
+meistään vuoden 2030 loppuun mennessä, on poistettava käytöstä. 
+### Määräyksen tasoristeyksiä käsittelevän kohdan 7.1 Rakennemääräykset mukaan: 
+Rautatien tasoristeyksessä (jäljempänä tasoristeys) ei saa olla vaihdetta eikä raiteen sulkua.  
+
+## Página 51
+
+## Liite 2/3 (5) 
+Tasoristeyksen tien tai kulkuväylän suuntainen pituus saa olla enintään 60 m mitattuna 
+uloimmaisten raiteiden uloimpien kiskojen ulkoreunoista tien tai kulkuväylän keskeltä. 
+Tasoristeyksen ja tien tai kulkuväylän välisen terävän kulman on oltava vähintään 70 astetta. 
+Tasoristeyksessä on oltava puomi laitos, kun tasoristeykseen liittyvän raiteen suurin nopeus 
+on yli 100 krn/h ja kun keskivuorokausiliikenne (KVL) on yli 2000 ajoneuvoa. 
+### 7.1.1 Raiteen suurin nopeus 
+800 m:n matkalla ennen tasoristeystä, ellei tasoristeyksen ylittämistä ole estetty lukitulla 
+puomilla tai portilla. Lukitun puomin tai portin on oltava liikenteenohjauksen valvonnassa ja 
+kytketty siten, että junakulkutien varmistaminen on estetty, jos puomi tai portti ei ole lukossa 
+ja liikenteenohjauksen valvonnassa. 
+Tasoristeyksessä, jossa raiteessa on urakisko tai vastaava rakenne, saa raiteen suurin no-
+peus olla enintään 50 km/h. 
+### 7.1.2 Tasoristeykseen johtava tie tai kulkuväylä ja raiteen kallistus 
+Tasoristeykseen johtavan tien tai kulkuväylän on oltava suora vähintään 30 m: n matkalla 
+ennen tasoristeystä (mitattuna tasoristeykseen johtavaa tietä lähimmän kiskon hamaran ul-
+koreunasta tien keskeltä). 
+Tasoristeykseen johtavan tien pituuskaltevuus 5 m:n matkalla ennen tasoristeyksen kantta 
+saa olla enintään 0,2 %. Tätä edeltävällä 25 m:n matkalla tien pituuskaltevuus saa olla enin-
+tään 1,5 %, jos tasoristeyksen ylittäminen on sallittu yhdistelmäajoneuvolla. Jos ylittämistä ei 
+ole sallittu yhdistelmäajoneuvolla, saa pituuskaltevuus 5-15 m:n matkalla ennen tasoristeystä 
+olla enintään 1,5 %. 
+Raiteen kallistus taso risteyksessä saa olla enintään 100 mm. 
+Tien pituuskaltevuus raiteiden välissä saa poiketa tasoristeyksen kannen pituuskaltevuudes-
+ta enintään 0,2 %. 
+### 7.1.4 Kunnossapito, tarkastukset ja rekisteröinti 
+Tasoristeyksen näkemäalueella ei saa olla tien pinnasta mitattuna yli 1,1 m:n korkeuteen 
+ulottuvia näkemäesteitä. 
+Tasoristeyksen näkemä ja rakenteet on tarkastettava vähintään kerran kalenterivuodessa ja 
+aina, kun näkemäalueella tehdään näkemään vaikuttavia muutoksia. 
+Rataverkon haltijan on pidettävä tasoristeyksistä rekisteriä, josta käy ilmi tasoristeyksen nä-
+kemän ja rakenteiden tarkastaminen sekä kunnossapitotoimet. 
+Rekisteritietojen on oltava Onnettomuustutkintakeskuksen, poliisin, pelastusviranomaisen ja 
+Liikenteen turvallisuusviraston käytettävissä. 
+
+## Página 52
+
+## Liite 2/4 (5) 
+## 5 
+### Ratatekniset ohjeet (RATO) 
+### 5.1 Tasoristeysten suunnittelu, rakentaminen ja kunnossapito 
+Perusteet tasoristeysten suunnittelua, rakentamista ja kunnossapitoa varten on esitetty RA-
+TOn osassa 9 Tasoristeykset.  
+### Näkemät 
+Tasoristeysnäkemä on tieltä ratalinjalle rataa pitkin mitattu matka 1,1 m korkeudella kiskon 
+selästä olevaan esineeseen, jonka tasoristeyksen eteen pysähtyneen ajoneuvon kuljettaja 
+näkee, kun silmäpisteen korkeus tien pinnasta on 1,1 m ja etäisyys lähimmästä kiskosta on 
+8 m. RATOn kohdassa 9.2.1.3 määritellään tien ja radan tasoristeyksessä oleva näkemä-
+alue. Näkemäalue yksiraiteisella radalla 8 m etäisyydeltä ulommasta kiskosta tulee olla 6 x 
+V, jossa V on raiteella kyseisellä paikalla käytettävä suurin nopeus km/h ja matka saadaan 
+suoraan metreinä. Mikäli edellä mainittua vaatimusta ei voida toteuttaa, tasoristeykseen on 
+asennettava varoituslaitos tai junan nopeus sovitettava näkemien mukaiseksi.  
+Kuva 2. Näkemäalue, kun radalla on yksi raide. 
+### Tielinja ja risteyskulma 
+Tasoristeyksen risteyskulman tulee olla vähintään 65 gon1 (58,5 °), mutta yleensä 80–100 gon. 
+Yleisillä teillä tien tulee olla suora 60 metrin matkalla ennen risteystä. Tällä suoralla osuudel-
+la ei saa olla tieliittymiä. 
+Kuva 3. Tasoristeyksen risteyskulma ja tien linjaus. Piirroksessa: Ls = matka, jolla tien tulee 
+olla suora tasoristeyksen molemmin puolin; yleisillä teillä 60 m, kaduilla 35 m, yksi-
+tyistiet (10...) 20 m, metsäteillä 35 m ja viljelysteillä. 
+1  Gon = prosenttia suorasta kulmasta (suorakulma = 90 °). 
+
+## Página 53
+
+## Liite 2/5 (5) 
+### Tien tasausviiva2 
+Tien pituuskaltevuuden maksimiarvo on 1,5 % tasoristeyksen molemmin puolin niin pitkällä 
+matkalla, että odotustasanne3 on riittävä mitoitusajoneuvon pysähtymistä varten. Mahdolli-
+suuksien mukaan tien tulee olla radasta pois päin viettävä. Odotustasanteen vähimmäispi-
+tuus on yleisillä teillä 30 m, yksityisteillä 10 m, metsäautoteillä 30 m ja viljelysteillä 15 m. 
+### Tien poikkileikkaus 
+Tasoristeyksen kohdalla tien on oltava vähintään yhtä leveä kuin muuallakin, mutta vähin-
+tään 3,0 m. Puoli- tai paripuomein varustetuissa tasoristeyksissä tienpinnan minimileveys on 
+6,5 m. 
+### Tasoristeyksen tieliikennemerkit ja niiden sijoittaminen 
+RATOn osassa 17 Radan merkit esitetään radan merkkien vaatimukset. Kohdassa 17.16 
+määrätään, että tasoristeysmerkkien sijoittamisessa ja käytössä on noudatettava RATOn 
+osaa 9 Tasoristeykset. RATOn kohdassa 17.16.1 sanotaan, että risteysmerkit 176 ja 177 
+mahdollisine lisäkilpineen asettaa Tieliikennelain 51 §:n mukaan radanpitäjä ja muut liiken-
+nemerkit lisäkilpineen asettaa tien pitäjä. Yksityisillä teillä liikennemerkit voi radanpitäjä aset-
+taa tienpitäjän luvalla (RATOn kohta 9.2.5.1). 
+RATOn kohdan 9.2.5.1 mukaan tasoristeyksen merkitsemiseen käytetään tasoristeyksen lä-
+hestymismerkkejä (173, 174 ja 175) ja risteysmerkkejä (171 tai 172 sekä 176 tai 177). Säh-
+köistetyn radan tasoristeyksessä käytetään lisäksi sähköistetystä radasta varoittavaa lisäkil-
+peä 823 Sähköjohdon korkeus. 
+### Tasoristeyksen kunnossapito 
+RATOn kohdan 9.2.7.2 mukaan tasoristeyksen kannen (ulottuu uloimman kiskon ulkopuolel-
+le) kunnossapito kuuluu radanpitäjälle. Radan ja tien kunnossapitäjien vastuualueiden raja 
+on tasoristeyksen kannen reuna. Lumen auraus tasoristeyksen kohdalla kuuluu tien pitäjälle. 
+Teiden aurauksen ja talvihöyläyksen synnyttämät vallit on tien kunnossapitäjän toimesta siir-
+rettävä niin kauas, että ne eivät aiheuta haittaa raiteella liikkuvalle kalustolle tai radan kiinteil-
+le laitteille eivätkä muodosta näkemäestettä. 
+### Tasoristeyksen turvallisuuden parantaminen 
+RATOn kohdassa 9.3 TASORISTEYSTEN TURVALLISUUDEN PARANTAMINEN on esitet-
+ty tasoristeyksen vaarallisuuden arviointi, tasoristeysten turvallisuuteen vaikuttavia tekijöitä, 
+turvallisuuden parantamistoimenpiteet sekä varoittamistoimenpiteen valinta. 
+RATOn kohdassa 9.3.4 ohjeistetaan varoittamistoimenpiteiden valintaa. Tasoristeyksissä tu-
+lisi käyttää varoituslaitosta, jos joku seuraavista ehdoista toteutuu: 
+1. Radan paikallinen nopeus tasoristeyksen kohdalla voi olla yli 120 km/h. 
+2. Radan ylittävä tie on yleinen tie. 
+3. Tasoristeyksen näkemiä ei kohtuullisesti saa ohjeiden mukaisiksi. 
+4. Tieliikenteen määrä on yli 50 moottoriajoneuvoa vuorokaudessa. 
+5. Risteyskulma on alle 80gon (100gon = 90°). 
+6. Tieliittymä on liian lähellä tasoristeystä tai radan suuntainen tie on liian lähellä rataa. 
+2  Tasausviiva tarkoittaa tien pinnan korkeusvaihtelua tien pituussuunnassa. 
+3  Odotustasanne on tasoristeyksen molemmilla puolilla oleva tasaukseltaan rajattu tiealue.

@@ -1,0 +1,556 @@
+{
+ "md-es/NL/2003/report_goods_train_derailment_near_apeldoorn-300403.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   15,
+   21,
+   27,
+   33
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción inconsistente de 'The Safety Investigation Board': se traduce como 'El Consejo de Seguridad' en el título y primer párrafo, pero luego como 'Consejo de Investigación' en el segundo párrafo.",
+   "Traducción de 'Board' como 'Consejo' en lugar de 'Junta' u 'Órgano'.",
+   "Traducción de 'Rail Committee' como 'Comité Ferroviario' en lugar de 'Comité Ferroviario' (correcto) pero 'Board' como 'Consejo' es inconsistente con el nombre oficial.",
+   "Traducción de 'oiled coils' como 'bobinas aceitas' en lugar de 'bobinas aceitadas' o 'bobinas engrasadas'",
+   "Traducción de 'the Board' como 'La Junta' en lugar de 'La Comisión' o 'El Consejo' según el organismo"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2003/report_goods_train_derailment_near_apeldoorn-300403.md"
+ },
+ "md-es/NL/2004/report_through_red_in_amsterdam-210504.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   17,
+   24,
+   31,
+   38
+  ],
+  "fidelidad_media": 81.7,
+  "fidelidad_min": 30,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 31,
+    "fidelidad": 30,
+    "omisiones": [
+     "Falta traducir el párrafo 'The analysis of the response...' en la Recomendación 1",
+     "Falta traducir el párrafo 'Rail Traffic Control that today is part of ProRail...' en la Recomendación 2",
+     "Falta traducir el párrafo 'ProRail responded to this recommendation...' en la Recomendación 3"
+    ],
+    "invenciones": [
+     "La traducción de la Recomendación 1 menciona 'sistema TACS basado en una tecnología informática' y 'colisiones con trenes de maniobra mal posicionados', contenido que no aparece en el original",
+     "La traducción de la Recomendación 2 menciona 'sistema TACS moderno' y 'señal en rojo', contenido que no aparece en el original",
+     "La traducción de la Recomendación 3 menciona 'Ferrocarriles Holandeses', que no aparece en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "TACS no es un término del original; el original usa '6U7' (posiblemente ATB o sistema de seguridad)",
+     "Rail Traffic Control traducido como 'controlador de tráfico ferroviario' en lugar de mantener el nombre propio",
+     "STS passages traducido como 'pasos STS' en lugar de 'pasajes de señal en rojo' o similar"
+    ],
+    "comentario": "La traducción contiene graves invenciones y omisiones, dejando párrafos enteros en inglés y alterando el contenido técnico."
+   },
+   {
+    "pagina": 38,
+    "fidelidad": 85,
+    "omisiones": [
+     "La cifra '199' en el fragmento original 'hââàéæ 199 locations' no se traduce; se mantiene como texto corrupto '#ÇvyyvéühëhvyhiyrAéàçuvåhÇéêüçhââàéæ' sin el número."
+    ],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "ABT++ en lugar de ATB++ en la frase 'el llamado sistema ABT++' (el original dice ATB++)."
+    ],
+    "comentario": "La traducción es fiel en general, pero omite la cifra 199 y presenta un error tipográfico en el nombre del sistema ATB++."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2004/report_through_red_in_amsterdam-210504.md"
+ },
+ "md-es/NL/2005/Derailments Amsterdam-060605.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   17,
+   26,
+   35,
+   42
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "General Manager traducido como 'Director General' en lugar de 'Gerente General'",
+   "Railways Calamities Team traducido como 'Equipo de Catástrofes Ferroviarias' en lugar de 'Equipo de Calamidades Ferroviarias'",
+   "Serviceability Inspector traducido como 'Inspector de Aptitud' en lugar de 'Inspector de Funcionalidad'",
+   "Switching and Reporting Centre traducido como 'Centro de Conmutación y Notificación' en lugar de 'Centro de Conmutación y Reporte'",
+   "Work contract traducido como 'Contrato de obra' en lugar de 'Contrato de trabajo'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2005/Derailments Amsterdam-060605.md"
+ },
+ "md-es/NL/2005/RapportAdam15-08-2005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   11,
+   19,
+   28,
+   35,
+   47
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "\"Continual tightening up of safety policy\" traducido como \"Mejora continua de la política de seguridad\": se pierde el matiz de endurecimiento/refuerzo; sería más fiel \"endurecimiento continuo\".",
+   "wheel sets traducido como 'bogies' en lugar de 'ejes montados' o 'juegos de ruedas'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2005/RapportAdam15-08-2005.md"
+ },
+ "md-es/NL/2006/Rapport_RandstadRail-261106.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   31,
+   58,
+   85,
+   112,
+   141
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   31
+  ],
+  "terminos": [
+   "rail heads traducido como 'cabezales de las vías' en lugar de 'cabezas de carril' o 'cabezas de raíl'",
+   "wheel flange climbing traducido como 'ascenso de los bordes de rodadura' en lugar de 'escalada de pestaña de rueda' o 'ascenso de pestaña'",
+   "rail brake traducido como 'freno de vía' en lugar de 'freno de carril' o 'freno de raíl'",
+   "ETC en lugar de FTE (nota 289)",
+   "expedientes de seguridad de las agujas y de los cambios de vía (original: railways and switches safety cases)",
+   "máquina de agujas (original: switch machine)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2006/Rapport_RandstadRail-261106.md"
+ },
+ "md-es/NL/2008/OVV-Rapport-Muiderpoort-221108.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   16,
+   28,
+   40,
+   54,
+   66
+  ],
+  "fidelidad_media": 96.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "El término 'keeper' se traduce como 'conservador' en el comentario 8, pero se mantiene 'keeper' entre comillas; la traducción es inconsistente y 'conservador' no es el término normalizado en español (debería ser 'titular' o 'poseedor' según COTIF)."
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "Las direcciones postales están intercambiadas: el apartado de correos debe ser 2509 CK La Haya y la dirección postal 2593 HT La Haya."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2008/OVV-Rapport-Muiderpoort-221108.md"
+ },
+ "md-es/NL/2009/rapport_Treinongeluk_Barendrecht_EN-240909.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   22,
+   40,
+   56,
+   73,
+   92
+  ],
+  "fidelidad_media": 98.6,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   56
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2009/rapport_Treinongeluk_Barendrecht_EN-240909.md"
+ },
+ "md-es/NL/2006/Rapport_RR_totaal-261106.md": {
+  "estado": "aviso",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   35,
+   68,
+   106,
+   143,
+   177
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   35,
+   68,
+   106
+  ],
+  "terminos": [
+   "El nombre de la institución 'Onderzoeksraad voor Veiligheid' se traduce como 'Consejo de Seguridad', perdiendo el matiz de 'investigación' presente en el original.",
+   "'Commissie Rail' se traduce como 'Comisión de Ferrocarriles' en lugar de 'Comisión Ferroviaria' o 'Comisión de Ferrocarril'.",
+   "'ontsporingen' se traduce como 'descarrilamientos' en plural, mientras que el original usa el plural 'ontsporingen' (correcto), pero el término técnico normalizado en español es 'descarrilamientos'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2006/Rapport_RR_totaal-261106.md"
+ },
+ "md-es/NL/2009/rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   22,
+   40,
+   56,
+   73,
+   92
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2009/rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md"
+ },
+ "md-es/NL/2010/NL 20.02.2010 Rapport_metrobotsing.md": {
+  "estado": "aviso",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   3,
+   14,
+   26,
+   38,
+   51,
+   63
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   3
+  ],
+  "terminos": [
+   "Traducción de 'gladheid van het spoor' como 'adherencia reducida (resbaladizo) del ferrocarril' en lugar de 'vía deslizante' o 'baja adherencia'.",
+   "Traducción de 'metrobotsing' como 'incidente del metro' en lugar de 'colisión de metro'.",
+   "Traducción de 'concessieverlening' como 'concesión administrativa' en lugar de 'adjudicación de la concesión'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2010/NL 20.02.2010 Rapport_metrobotsing.md"
+ },
+ "md-es/NL/2012/Rapport_Treinbotsing_Maasvlakte___eindversie___EN-130412.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 97.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2012/Rapport_Treinbotsing_Maasvlakte___eindversie___EN-130412.md"
+ },
+ "md-es/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   21,
+   40,
+   58,
+   78,
+   96
+  ],
+  "fidelidad_media": 92.5,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "flange-back contacts traducido como 'contactos por rebote de pestaña' en lugar de 'contactos de espalda de pestaña' o 'contactos por el dorso de la pestaña'",
+   "slide chairs traducido como 'asientos deslizantes' en lugar de 'sillas deslizantes' o 'placas de asiento'",
+   "wheel sets traducido como 'bogies' en lugar de 'juegos de ruedas' o 'ejes montados'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md"
+ },
+ "md-es/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "flange-back contact traducido como 'contacto por el dorso del rodillo' en lugar de 'contacto por el dorso de la pestaña' o 'contacto por el dorso del flange'",
+   "point machine traducido como 'motor de aguja' en lugar de 'máquina de aguja' o 'accionamiento de aguja'",
+   "flange-back contacts traducido como 'contactos por el dorso del rodillo'; debería ser 'contactos por el dorso de la pestaña'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2014/15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md"
+ },
+ "md-es/NL/2015/NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   19,
+   36,
+   54,
+   71,
+   88
+  ],
+  "fidelidad_media": 93.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   71
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2015/NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md"
+ },
+ "md-es/NL/2016/NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   22,
+   41,
+   61,
+   80,
+   98
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "EN-15337 no corregido a EN-15227 (el original usa EN-15227 en el texto y EN-15337 en la nota al pie, la traducción mantiene ambos, lo cual es fiel al original)",
+   "man lift traducido como 'plataforma elevadora' en lugar de 'plataforma elevadora móvil' o 'elevador de personal' (término no normalizado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 22,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción es completa y fiel, pero cambia la hora del sol de 'one o'clock' a 'las once en punto'."
+   },
+   {
+    "pagina": 61,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "La frase final 'La velocidad del tren (que había estado vigente desde 1987) y los muchos pasos a nivel de la línea (la mayoría de los cuales existen desde que se tendió la línea) se tomaron como dados.' no aparece en el fragmento original proporcionado."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es fiel en general, pero añade una frase final que no está en el fragmento original."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2016/NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md"
+ },
+ "md-es/NL/2010/UK_Eindrapport_Stavoren-250710.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   17,
+   31,
+   44,
+   57,
+   72
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   17,
+   44,
+   57
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2010/UK_Eindrapport_Stavoren-250710.md"
+ },
+ "md-es/NL/2023/NL-10405 - Interim statement_ investigation of railway accident at Voorschoten is ongoing.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2023/NL-10405 - Interim statement_ investigation of railway accident at Voorschoten is ongoing.md"
+ },
+ "md-es/NL/2024/nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md": {
+  "estado": "aviso",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   8,
+   14,
+   20,
+   26,
+   33
+  ],
+  "fidelidad_media": 90.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'schrikhekken' como 'barreras automáticas' es incorrecta; se refiere a barreras de protección o vallas de disuasión, no a barreras automáticas de paso a nivel.",
+   "overzichtruit traducido como 'ventana panorámica' en lugar de 'ventana de visión general'",
+   "uitzichtruit traducido como 'ventana de visión' en lugar de 'ventana de visibilidad'",
+   "wegverloop traducido como 'trazado de la vía' en lugar de 'trazado de la carretera'",
+   "wegversmalling traducido como 'estrechamiento de la calzada' en lugar de 'estrechamiento de la vía'",
+   "schrikhekken traducido como 'barreras disuasorias' en lugar de 'barreras de disuasión' o 'barreras antiganado'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2024/nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md"
+ },
+ "md-es/NL/2024/nl-10606 - overwegaanrijding hooge zwaluwe dt.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   10,
+   18,
+   26,
+   34,
+   41
+  ],
+  "fidelidad_media": 82.5,
+  "fidelidad_min": 40,
+  "sin_dictamen": [],
+  "terminos": [
+   "El nombre de la institución 'De Onderzoeksraad voor Veiligheid' se traduce incorrectamente como 'Consejo de Seguridad para la Seguridad', cuando debería ser 'Consejo de Investigación para la Seguridad'.",
+   "'Rijkswet OVV' se traduce como 'Ley Nacional OVV', cuando 'Rijkswet' es un tipo específico de ley del Reino de los Países Bajos, no una simple 'ley nacional'.",
+   "Zanddijk traducido como 'Dique de arena' en lugar de mantener el topónimo 'Zanddijk'",
+   "Overweg­aanrijding traducido como 'Atropellamiento en paso a nivel' en lugar de 'Colisión en paso a nivel' o 'Accidente en paso a nivel'",
+   "Handboek Buitendienst traducido como 'Manual Exterior' en lugar de mantener el nombre propio o usar una traducción normalizada",
+   "emplacementen traducido como 'patios de clasificación' en lugar de 'estaciones de maniobras' o 'playas de maniobras'"
+  ],
+  "fallos": [
+   {
+    "pagina": 18,
+    "fidelidad": 40,
+    "omisiones": [
+     "Falta la frase inicial: 'na het ongeval vast dat vanuit noordelijke richting de uitzichtlijnen voldeden aan de gestelde norm.'",
+     "Falta la frase: 'Naar rechts en vanuit zuidelijke richting voldeden de uitzichtlijnen niet aan de gestelde norm.'"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción omite dos frases completas del original que describen el cumplimiento de las líneas de visión desde distintas direcciones."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2024/nl-10606 - overwegaanrijding hooge zwaluwe dt.md"
+ },
+ "md-es/NL/2024/nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   4
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2024/nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md"
+ },
+ "md-es/NL/2023/NL-10405 - Final report_0.md": {
+  "estado": "aviso",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   3,
+   32,
+   61,
+   90,
+   120,
+   149
+  ],
+  "fidelidad_media": 92.5,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   61,
+   149
+  ],
+  "terminos": [
+   "El nombre de la institución 'Onderzoeksraad voor Veiligheid' se traduce como 'Consejo de Seguridad', perdiendo el matiz de 'investigación' (Onderzoeksraad = Consejo de Investigación).",
+   "'Postbus' se deja sin traducir como 'Apartado de correos' o 'Apartado postal'.",
+   "Gezondheidsraad no traducido (podría ser 'Consejo de Salud')",
+   "Ministerio de Asuntos Sociales y Empleo: 'Sociale Zaken en Werkgelegenheid' se traduce normalmente como 'Asuntos Sociales y Trabajo'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/NL/2023/NL-10405 - Final report_0.md"
+ }
+}
