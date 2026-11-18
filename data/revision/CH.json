@@ -1,0 +1,217 @@
+{
+ "md-es/CH/2017/CH 29.11.2017 2017112902_SB_Basel.md": {
+  "estado": "aviso",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   9,
+   16,
+   23,
+   30,
+   37
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Spurkranzschmierungsanlage traducido como 'lubricación de los bordes de rodadura' en lugar de 'lubricación de pestañas'",
+   "Wiege traducido como 'caja de carga' en lugar de 'balancín' o 'cuna'",
+   "Reibdrehhemmungssystem traducido como 'freno de rotación por fricción' en lugar de 'sistema de inhibición de rotación por fricción'",
+   "Schieflauf traducido como 'deslizamiento lateral' en lugar de 'marcha oblicua' o 'desalineación'",
+   "Spurkranz traducido como 'rodete' en lugar de 'pestaña' (término normalizado en español para Spurkranz)",
+   "Spurkranzflanke traducido como 'cara del rodete' en lugar de 'cara de la pestaña'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2017/CH 29.11.2017 2017112902_SB_Basel.md"
+ },
+ "md-es/CH/2018/CH-5750 - 2018081602_SB_BaselRB_D.md": {
+  "estado": "aviso",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   5,
+   11,
+   16,
+   21,
+   27
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Radsätzen' se tradujo como 'ejes', confundiéndolo con 'Achsen'; debería distinguirse como 'pares de ruedas/eje montado'.",
+   "'Überpufferung' se tradujo como 'Sobrepasamiento de topes', término no normalizado.",
+   "Schwingbruch traducido como 'fractura por fatiga vibracional' en lugar de 'fractura por fatiga' o 'fractura por vibración'",
+   "mikroduktiler Gewaltbruch traducido como 'fractura súbita dúctil-microscópica' en lugar de 'fractura forzada microdúctil'",
+   "Überwalzungen (Lippen) traducido como 'rebabas de laminado' en lugar de 'aplastamientos' o 'rebordes'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2018/CH-5750 - 2018081602_SB_BaselRB_D.md"
+ },
+ "md-es/CH/2020/CH-10119 - 2020101901_EB_SB-EU_Basel_Gefahrgutereignis_V7_1_D_lus.md": {
+  "estado": "ok",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   7,
+   13,
+   19,
+   26,
+   32
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2020/CH-10119 - 2020101901_EB_SB-EU_Basel_Gefahrgutereignis_V7_1_D_lus.md"
+ },
+ "md-es/CH/2020/CH-10119 - Intermediate report - 2020101901_ZB_Basel_D.md": {
+  "estado": "ok",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2020/CH-10119 - Intermediate report - 2020101901_ZB_Basel_D.md"
+ },
+ "md-es/CH/2022/CH-10239 - 2022060202_EB_ESB_Zollikofen_Kollision_V7_2_D_lum.md": {
+  "estado": "aviso",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   6,
+   12,
+   18,
+   24,
+   30
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Signalstaffel traducido como 'escalonamiento de señales' en lugar de 'escalonamiento de señales' o 'sucesión de señales'",
+   "Zugbeeinflussung traducido como 'sistema de control de trenes' en lugar de 'sistema de protección de trenes' o 'influencia sobre el tren'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2022/CH-10239 - 2022060202_EB_ESB_Zollikofen_Kollision_V7_2_D_lum.md"
+ },
+ "md-es/CH/2023/CH-10442 - 2023081002_EB_ZB_Entgleisung GBT_V7_0_D_thp.md": {
+  "estado": "ok",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2023/CH-10442 - 2023081002_EB_ZB_Entgleisung GBT_V7_0_D_thp.md"
+ },
+ "md-es/CH/2017/CH 22.03.2017 2017032201_SB_Luzern.md": {
+  "estado": "revisar",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   11,
+   22,
+   32,
+   41,
+   51
+  ],
+  "fidelidad_media": 94.0,
+  "fidelidad_min": 75,
+  "sin_dictamen": [
+   41
+  ],
+  "terminos": [
+   "sobrealcevo (debería ser 'peralte')",
+   "travesaño de la caja (debería ser 'travesaño de caja' o 'viga de caja')"
+  ],
+  "fallos": [
+   {
+    "pagina": 41,
+    "fidelidad": null,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "respuesta no parseable"
+   },
+   {
+    "pagina": 51,
+    "fidelidad": 75,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Spurkranzschmierung traducido como 'Lubricación del rodillo de guía (espejo)' en lugar de 'Lubricación de pestaña de rueda'",
+     "Spurkranzflanke traducido como 'flanco del rodillo de guía' en lugar de 'flanco de pestaña'",
+     "Mehrsystemtriebzug traducido como 'tren multifase' en lugar de 'tren de tracción multisistema' o 'unidad múltiple multisistema'"
+    ],
+    "comentario": "La traducción contiene errores terminológicos graves en los términos técnicos ferroviarios, especialmente en la lubricación de pestañas y el tipo de tren."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2017/CH 22.03.2017 2017032201_SB_Luzern.md"
+ },
+ "md-es/CH/2018/CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md": {
+  "estado": "revisar",
+  "idioma_origen": "DE",
+  "paginas_revisadas": [
+   1,
+   8,
+   17,
+   25,
+   33,
+   41
+  ],
+  "fidelidad_media": 94.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   25
+  ],
+  "terminos": [
+   "Radsätze traducido como 'ejeres de ruedas' en lugar de 'ejes montados'",
+   "Bewellen traducido como 'Volanteado' en lugar de 'Reperfilado en torno'",
+   "Bescheiben traducido como 'cambio de discos' en lugar de 'torneado de discos'",
+   "ZKE traducido como 'Equipos de control de trenes' en lugar de 'Dispositivos de control de trenes'",
+   "ZUB traducido como 'Sistemas de protección automática del tren' en lugar de 'Influencia sobre el tren'",
+   "Kessel traducido como 'tanque' en lugar de 'caldera' o 'cisterna'"
+  ],
+  "fallos": [
+   {
+    "pagina": 25,
+    "fidelidad": null,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "respuesta no parseable"
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/CH/2018/CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md"
+ }
+}

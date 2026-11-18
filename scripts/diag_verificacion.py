@@ -41,7 +41,8 @@ def main():
         if not fallos and not blandos:
             continue
         malas += 1 if fallos else 0
-        no, nt = t.numeros(po[k]), t.numeros(pe[k])
+        no, _ = t.numeros(po[k])
+        nt, _ = t.numeros(pe[k])
         faltan = sorted((no - nt).elements())
         etiqueta = "FALLO" if fallos else "nota "
         print(f"  {etiqueta} pág {k:>3} · {'; '.join(fallos + blandos)} · faltan {faltan[:12]} · "

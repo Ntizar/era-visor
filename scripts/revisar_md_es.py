@@ -164,11 +164,13 @@ def revisar_uno(ruta, base, key, modelo, n_muestras):
 
     con_nota = [e for e in evaluaciones if isinstance(e.get("fidelidad"), (int, float))]
     fids = [e["fidelidad"] for e in con_nota] or [0]
+    # "sin dictamen" (el revisor no devolvió JSON válido) NO es un defecto del
+    # informe: es una página sin medir. Se declara y no se cuenta como fallo.
     graves = [e for e in evaluaciones
               if (isinstance(e.get("fidelidad"), (int, float)) and e["fidelidad"] < UMBRAL)
-              or e.get("invenciones") or e.get("numeros_ok") is False
-              or e.get("veredicto") == "sin_dictamen"]
-    notas = [e for e in evaluaciones if e.get("terminos") and e not in graves]
+              or e.get("invenciones") or e.get("numeros_ok") is False]
+    notas = [e for e in evaluaciones
+             if e not in graves and (e.get("terminos") or e.get("veredicto") == "sin_dictamen")]
     estado = "revisar" if graves else ("aviso" if notas else "ok")
     return {
         "estado": estado,

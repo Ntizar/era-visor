@@ -1,0 +1,99 @@
+{
+ "md/CH/2018/CH-5750 - 2018081602_SB_BaselRB_D.md": {
+  "fichero": "md/CH/2018/CH-5750 - 2018081602_SB_BaselRB_D.md",
+  "estado": "ok",
+  "idioma": "DE",
+  "chars": 60844,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 21397,
+  "tokens_out": 15372,
+  "destino": "md-es/CH/2018/CH-5750 - 2018081602_SB_BaselRB_D.md"
+ },
+ "md/CH/2017/CH 29.11.2017 2017112902_SB_Basel.md": {
+  "fichero": "md/CH/2017/CH 29.11.2017 2017112902_SB_Basel.md",
+  "estado": "revisar",
+  "idioma": "DE",
+  "chars": 88570,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 3: cifras largas: faltan 1/47 (2.1%)",
+   "bloque 9: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 36615,
+  "tokens_out": 24650,
+  "destino": "md-es/CH/2017/CH 29.11.2017 2017112902_SB_Basel.md"
+ },
+ "md/CH/2017/CH 22.03.2017 2017032201_SB_Luzern.md": {
+  "fichero": "md/CH/2017/CH 22.03.2017 2017032201_SB_Luzern.md",
+  "estado": "revisar",
+  "idioma": "DE",
+  "chars": 96192,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 10: cifras largas: faltan 10/36 (27.8%)",
+   "bloque 11: cifras largas: faltan 1/5 (20.0%)",
+   "bloque 12: cifras largas: faltan 1/4 (25.0%)"
+  ],
+  "tokens_in": 42942,
+  "tokens_out": 31780,
+  "destino": "md-es/CH/2017/CH 22.03.2017 2017032201_SB_Luzern.md"
+ },
+ "md/CH/2020/CH-10119 - Intermediate report - 2020101901_ZB_Basel_D.md": {
+  "fichero": "md/CH/2020/CH-10119 - Intermediate report - 2020101901_ZB_Basel_D.md",
+  "estado": "revisar",
+  "idioma": "DE",
+  "chars": 18449,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 2: cifras largas: faltan 1/30 (3.3%)"
+  ],
+  "tokens_in": 9241,
+  "tokens_out": 6841,
+  "destino": "md-es/CH/2020/CH-10119 - Intermediate report - 2020101901_ZB_Basel_D.md"
+ },
+ "md/CH/2018/CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md": {
+  "fichero": "md/CH/2018/CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md",
+  "estado": "ok",
+  "idioma": "DE",
+  "chars": 102812,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 39777,
+  "tokens_out": 28993,
+  "destino": "md-es/CH/2018/CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md"
+ },
+ "md/CH/2020/CH-10119 - 2020101901_EB_SB-EU_Basel_Gefahrgutereignis_V7_1_D_lus.md": {
+  "fichero": "md/CH/2020/CH-10119 - 2020101901_EB_SB-EU_Basel_Gefahrgutereignis_V7_1_D_lus.md",
+  "estado": "ok",
+  "idioma": "DE",
+  "chars": 66707,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 23731,
+  "tokens_out": 17149,
+  "destino": "md-es/CH/2020/CH-10119 - 2020101901_EB_SB-EU_Basel_Gefahrgutereignis_V7_1_D_lus.md"
+ },
+ "md/CH/2023/CH-10442 - 2023081002_EB_ZB_Entgleisung GBT_V7_0_D_thp.md": {
+  "fichero": "md/CH/2023/CH-10442 - 2023081002_EB_ZB_Entgleisung GBT_V7_0_D_thp.md",
+  "estado": "ok",
+  "idioma": "DE",
+  "chars": 19337,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 6878,
+  "tokens_out": 5097,
+  "destino": "md-es/CH/2023/CH-10442 - 2023081002_EB_ZB_Entgleisung GBT_V7_0_D_thp.md"
+ },
+ "md/CH/2022/CH-10239 - 2022060202_EB_ESB_Zollikofen_Kollision_V7_2_D_lum.md": {
+  "fichero": "md/CH/2022/CH-10239 - 2022060202_EB_ESB_Zollikofen_Kollision_V7_2_D_lum.md",
+  "estado": "ok",
+  "idioma": "DE",
+  "chars": 73937,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 24972,
+  "tokens_out": 17571,
+  "destino": "md-es/CH/2022/CH-10239 - 2022060202_EB_ESB_Zollikofen_Kollision_V7_2_D_lum.md"
+ }
+}

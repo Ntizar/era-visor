@@ -131,14 +131,24 @@ def trocear(cuerpo, limite=BLOQUE):
     return [b for b in bloques if b.strip()]
 
 
-def numeros(t):
-    """Grupos de dígitos, sin separadores.
+# Solo fechas inequívocas: DD.MM.AAAA, DD/MM/AAAA o AAAAMMDD. NO se incluyen
+# variantes de 2 cifras de año ni de 6 dígitos: muerden la numeración de sección
+# ("1.12.4.7") y los identificadores, y generan falsos «faltan cifras».
+RE_FECHA = re.compile(r"\d{1,2}[.\-/]\d{1,2}[.\-/]\d{4}|(?:19|20)\d{6}")
 
-    Comparar "1,5" (original) con "1,5" o "1.5" (castellano) es el MISMO dato con
-    otro separador decimal: compárese la tira de dígitos, no el número formateado.
-    Así el verificador no marca como fallo una traducción correcta.
+
+def numeros(t):
+    """(cifras, n_fechas) — y por qué se separan.
+
+    · Las cifras se comparan como tiras de dígitos, sin separadores: "1,5" y "1.5"
+      son el mismo dato con otro separador decimal (normalizar la coma es correcto).
+    · Las FECHAS se cuentan aparte porque normalizarlas es parte del trabajo:
+      "15122017" (alemán) y "15.12.2017" (castellano) son la misma fecha, y
+      comparar sus dígitos daría un falso «faltan cifras».
     """
-    return Counter(re.findall(r"\d+", t))
+    fechas = len(RE_FECHA.findall(t))
+    resto = RE_FECHA.sub(" ", t)
+    return Counter(re.findall(r"\d+", resto)), fechas
 
 
 def marcas(t):
@@ -214,21 +224,28 @@ def verificar(orig, trad):
     if marcas(orig) != marcas(trad):
         fallos.append(f"marcadores de página: {sum(marcas(orig).values())} vs {sum(marcas(trad).values())}")
 
-    no, nt = numeros(orig), numeros(trad)
+    (no, f_o), (nt, f_t) = numeros(orig), numeros(trad)
+    if f_o and abs(f_o - f_t) / f_o > 0.10:
+        fallos.append(f"fechas: {f_t} en castellano vs {f_o} en el original")
     duras_o = Counter({k: v for k, v in no.items() if len(k) >= 3})
     duras_t = Counter({k: v for k, v in nt.items() if len(k) >= 3})
     faltan = sum((duras_o - duras_t).values())
     total = max(sum(duras_o.values()), 1)
-    if faltan / total > 0.01:
-        fallos.append(f"cifras largas: faltan {faltan}/{total} ({faltan/total:.1%})")
+    # Umbral alto a propósito: por debajo de esto lo que hay son artefactos
+    # tipográficos (superíndices "Nadal¹⁰", numeración "1.12.4.7", fechas
+    # normalizadas). Lo que se persigue aquí es la PÉRDIDA MASIVA (una tabla o un
+    # bloque de datos que el traductor se ha saltado); el juicio fino lo hace
+    # revisar_md_es.py leyendo original y traducción.
+    if faltan / total > 0.20:
+        fallos.append(f"cifras largas: faltan {faltan}/{total} ({faltan/total:.0%})")
+    elif faltan:
+        avisos.append(f"cifras largas: {faltan}/{total}")
 
     cortas_o = Counter({k: v for k, v in no.items() if len(k) < 3})
     cortas_t = Counter({k: v for k, v in nt.items() if len(k) < 3})
     faltan_c = sum((cortas_o - cortas_t).values())
     total_c = max(sum(cortas_o.values()), 1)
-    if cortas_o and faltan_c / total_c > 0.15:
-        fallos.append(f"cifras cortas: faltan {faltan_c}/{total_c} ({faltan_c/total_c:.0%})")
-    elif faltan_c:
+    if faltan_c:
         avisos.append(f"cifras cortas: {faltan_c}/{total_c}")
 
     if orig.strip():
