@@ -1,0 +1,70 @@
+{
+ "md-es/EL/2023/el-10538 final report, ψ.υ. εκθεση ερυθροι σηματοδοτες (8 συμβάντα) 22-01-26.md": {
+  "estado": "aviso",
+  "idioma_origen": "EL",
+  "paginas_revisadas": [
+   1,
+   7,
+   15,
+   22,
+   27,
+   32
+  ],
+  "fidelidad_media": 97.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   15
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EL/2023/el-10538 final report, ψ.υ. εκθεση ερυθροι σηματοδοτες (8 συμβάντα) 22-01-26.md"
+ },
+ "md-es/EL/2023/eodasaam_accident_investigation_tempi-final.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   32,
+   61,
+   88,
+   115,
+   142
+  ],
+  "fidelidad_media": 99.0,
+  "fidelidad_min": 98,
+  "sin_dictamen": [
+   32,
+   61
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EL/2023/eodasaam_accident_investigation_tempi-final.md"
+ },
+ "md-es/EL/2024/zevgolatio 17-1-2024_era id el-10539 (1).md": {
+  "estado": "aviso",
+  "idioma_origen": "EL",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   8
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   5
+  ],
+  "terminos": [
+   "«νοοτροπία δικαίου» traducido como «cultura justa» en lugar de «cultura de la justicia» o «cultura justa» según la terminología normalizada de la Directiva (UE) 2019/1937",
+   "περιτύπωμα traducido como 'cerramiento' en los puntos 28 y 32, cuando se refiere al gálibo o contorno de la vía, no al cerramiento físico",
+   "περιτύπωμα του συρμού traducido como 'cerramiento de la formación' en el punto 34, cuando se refiere al gálibo del tren"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EL/2024/zevgolatio 17-1-2024_era id el-10539 (1).md"
+ }
+}

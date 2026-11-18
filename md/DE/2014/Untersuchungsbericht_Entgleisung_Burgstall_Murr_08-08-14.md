@@ -1,0 +1,1731 @@
+---
+pais: DE
+anio: 2014
+idioma: DE
+pdf: Untersuchungsbericht_Entgleisung_Burgstall_Murr_08-08-14.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/Untersuchungsbericht_Entgleisung_Burgstall_Murr_08-08-14.pdf
+md5_pdf: 980139a13aa1a6726028f99fc5e72e28
+paginas: 68
+chars: 85667
+tablas: 16
+cuerpo: "11.0pt; encabezados 2 niveles"
+rotulos_excluidos: "201 (seite # von #, untersuchungsbericht, zugentgleisung, #.#.#, burgstall/murr)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 8
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+60uu2014-08/005-3323 
+Aktenzeichen: 
+08.11.2019 Version: 1.0 
+Stand: 
+Gefährliches Ereignis im Eisenbahnbetrieb 
+Ereignisart: 
+Zugentgleisung 
+| Ereignisart: | Zugentgleisung |
+| Datum: | 08 08 2014 . . |
+| Zeit: | 0:18 Uhr |
+| Bahnhof: | Burgstall/Murr |
+| Streckennummer: | 4931 |
+| Kilometer: | 4 866 , |
+
+## Página 2
+
+## Veröffentlicht durch: 
+Bundesstelle für Eisenbahnunfalluntersuchung 
+Heinemannstraße 6 
+53175 Bonn 
+
+## Página 3
+
+# Inhaltsverzeichnis:  
+### Seite  
+##  1 
+Zusammenfassung.............................................................................................9  
+1.1  
+Kurzbeschreibung des Ereignisses ......................................................................9  
+1.2  
+Folgen..................................................................................................................9  
+1.3  
+Ursachen..............................................................................................................9  
+##  2  
+Vorbemerkungen..............................................................................................10  
+2.1  
+Organisatorischer Hinweis .................................................................................10  
+2.2  
+Ziel der Eisenbahn-Unfalluntersuchung..............................................................11  
+2.3  
+Beteiligte und Mitwirkende .................................................................................11  
+##  3  
+Ereignis.............................................................................................................12  
+3.1  
+Hergang .............................................................................................................12  
+3.2  
+Todesopfer, Verletzte und Sachschäden............................................................13   
+3.3  
+Wetterbedingungen............................................................................................14   
+## 4   
+Untersuchungsprotokoll..................................................................................14  
+4.1  
+Zusammenfassung von Aussagen .....................................................................14  
+4.2  
+Notfallmanagement ............................................................................................15  
+4.3  
+Untersuchung der Infrastruktur...........................................................................15  
+4.3.1  
+Allgemeine Angaben zur Infrastruktur ................................................................15  
+4.3.2  
+Örtliche Untersuchung des Oberbaus an der Unfallstelle ...................................16  
+4.3.3  
+Örtliche Untersuchung der flach verlegten Tiefenentwässerung.........................20  
+4.3.4  
+Untersuchung der Gleislage mittels Messfahrt ...................................................21  
+4.3.5  
+Bauakte und Dokumentation ..............................................................................24  
+4.3.6  
+Untersuchung der Untergrundverhältnisse im Entgleisungsbereich des   
+Bf Burgstall.........................................................................................................25  
+4.3.7  
+Darstellung der Entwässerung des Bf Burgstall..................................................32  
+4.3.8  
+Inspektionen.......................................................................................................33  
+4.3.9  
+Überprüfung der Entwässerungen im Bf Burgstall..............................................47  
+
+## Página 4
+
+4.4 
+Untersuchung von Fahrzeugen ..........................................................................55  
+| 4 4 . | Untersuchung von Fahrzeugen 55 .......................................................................... |
+| 4 4 1 . . | Sichtprüfung am entgleisten Hbbill 305 55 .............................................................. |
+| 4 4 2 . . | Kuppelstelle zwischen dem vorletzten unddem letztenWagen 56 .......................... |
+| 4 4 3 . . | Puffer des Hbbill 305 57 .......................................................................................... |
+| 4 4 4 . . | Revision Hbbill 57 ................................................................................................... |
+| 4 4 5 . . | Lauffähigkeitsuntersuchung Hbbill 58 ...................................................................... |
+| 4 4 6 . . | Wagenliste EZ 51298 60 ......................................................................................... |
+| 4 4 7 . . | Bremszettel 61 ........................................................................................................ |
+| 4 5 . | Leit und Sicherungstechnik ...............................................................................62 - |
+| 4 6 . | Eisenbahnbetrieb 63 ............................................................................................... |
+| 4 6 1 . . | Auswertung der Elektronischen-Fahrten-Registrierung ......................................63 |
+| 4 7 . | Interpretation der Unfallspuren 65 ........................................................................... |
+| 5 | Auswertungund Schlussfolgerungen 65 ............................................................ |
+| 6 | Bisher getroffeneMaßnahmen 68 ........................................................................ |
+| 7 | Sicherheitsempfehlungen 68 ................................................................................ |
+
+## Página 5
+
+# Abbildungsverzeichnis:  
+Abb. 1: sichtbare, zyklische Längshöhenfehler im Gleis 1 ....................................................10  
+Abb. 2: Systemskizze Bf Burgstall ........................................................................................13  
+Abb. 3: entgleister letzter Wagen des EZ 51298...................................................................13  
+Abb. 4: Auszug aus dem EBULA des EZ 51298...................................................................16  
+Abb. 5: Aufkletterspur des Wagens auf der linken Schiene ..................................................17  
+Abb. 6: Radspur (Spurkranz) auf dem linken Schienenkopf..................................................17  
+Abb. 7: Abgleitende Radspur (Spurkranz) auf dem linken Schienenkopf ..............................18  
+Abb. 8: Schiebewand des Hbbill 305 ....................................................................................18  
+Abb. 9: Schürfstelle an der Entgleisungsstelle ca. in km 4,86, rechte Gleisseite...................19  
+Abb. 10: Schürfstelle an der Entgleisungsstelle ca. in km 4,86, mittig des Gleises ...............20  
+Abb. 11: trockener Schacht S3 im Bereich der Entgleisungsstelle in km 4,860.....................20  
+Abb. 12: trockene Haltung 5 hinter der Entgleisungsstelle ca. in km 4,900...........................21  
+Abb. 13: Protokoll der Messfahrt mit Stopfmaschine Unimat vom 12.08.2014 ......................22  
+Abb. 14: Überschreitungsprotokoll der Messfahrt vom 12.08.2014.......................................23  
+Abb. 15: Roteintrag im Lageplan Oberbau, Planzeichen: 03-N-AP-03-A-LP-001b................29   
+Abb. 16: Roteintrag im Lageplan Oberbau, Planzeichen: 03-N-AP-03-A-LP-001b................29   
+Abb. 17: Skizze Fließrichtung FR und Schächte S401-406 ..................................................32   
+Abb. 18: Übersichtslageplan der Kamerabefahrung vom 03.09.2014 ...................................52   
+Abb. 19: Mangel in Haltung 1 zw. Schacht 401 und Schacht 402.........................................52   
+Abb. 20: Mangel in Haltung 2 zwischen Schacht 402 und Schacht 403................................53   
+Abb. 21: Mangel in Haltung 3 zwischen Schacht 403 und Schacht 404................................53   
+Abb. 22: Mangel in Haltung 5 zwischen Schacht 405 und Schacht 406................................54   
+Abb. 23: Regelzeichnung Hbbill-Wagen ...............................................................................55   
+Abb. 24: Aufnahme des abgebrochenen Anschlages des Bremsabsperrhahns....................56   
+Abb. 25: Kuppelstelle zwischen dem vorletzten und dem letzten Wagen..............................56   
+Abb. 26: geschmierte Pufferteller des letzten, entgleisten Wagens ......................................57   
+
+## Página 6
+
+Abb. 27: Auszug der Lauffähigkeitsfeststellung des Hbbill....................................................58  
+Abb. 28: Auszug der Dokumentation zum Radsatz (Teil 1)...................................................59  
+Abb. 29: Auszug der Dokumentation zum Radsatz (Teil 2)...................................................59  
+Abb. 30: Wagenliste des Zugverbandes ...............................................................................60  
+Abb. 31: Im Fahrplan angegebenen Mbr des EZ 51298 .......................................................61  
+Abb. 32: Bremszettel des EZ 51298 .....................................................................................61  
+Abb. 33: EFR Triebfahrzeug 185 235-9 ................................................................................64  
+
+## Página 7
+
+# Abkürzungsverzeichnis  
+AEG 
+Allgemeines Eisenbahngesetz 
+ALV 
+Anlagenverantwortlicher 
+BEGebV 
+Bundeseisenbahngebührenverordnung 
+BEU 
+Bundesstelle für Unfalluntersuchung 
+Betra 
+Bau- und Betriebsanweisung 
+BHV 
+Bauherrenvertreter 
+BMVI 
+Bundesministerium für Verkehr und digitale Infrastruktur 
+BPol 
+Bundespolizei 
+BÜ 
+Bahnübergang 
+BVB 
+Bauvorlageberechtigter 
+DGS 
+Durchgangsgüterzug Standardtrasse 
+DIN-EN 
+Deutsches Institut für Normung – Europäische Norm 
+EBA 
+Eisenbahn-Bundesamt 
+EBL 
+Eisenbahnbetriebsleiter 
+EBO 
+Eisenbahn- Bau- und Betriebsordnung 
+EdB 
+Eisenbahn des Bundes 
+EIU 
+Eisenbahninfrastrukturunternehmen 
+ERA 
+Europäische Eisenbahn Agentur 
+Esig 
+Einfahrtsignal 
+ESO 
+Eisenbahnsignalordnung 
+EU 
+Eisenbahnunternehmen 
+EUB 
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+EUV 
+Eisenbahn-Unfalluntersuchungsverordnung 
+EVU 
+Eisenbahnverkehrsunternehmen 
+EZ 
+Einzelwagenzug 
+Fdl 
+Fahrdienstleiter 
+FR 
+Fahrtrichtung /Fließrichtung 
+
+## Página 8
+
+GMFZ 
+Gleismessfahrzeug 
+GSM-R 
+Global System for Mobile Communication – Rail (digitaler Zugfunk) 
+GMTZ 
+Gleismesstriebzug 
+IBV 
+Inbetriebnahmeverantwortlicher 
+KIB 
+Konstruktiver Ingenieurbau 
+ldB 
+links der Bahn 
+NE 
+Nichtbundeseigene Eisenbahn 
+Nmg 
+Notfallmanager 
+OK 
+Oberkante 
+PL 
+Projektleiter 
+PSS 
+Planumsschutzschicht 
+rdB 
+rechts der Bahn 
+Ril 
+Richtlinie 
+SB 
+Sicherheitsbehörde 
+SMS 
+Sicherheitsmanagementsystem 
+TE 
+Tiefenentwässerung 
+Tf 
+Triebfahrzeugführer 
+TVT 
+Verbrennungsturmtriebwagen 
+VV BAU 
+Verwaltungsvorschrift Bau 
+VwVfG 
+Verwaltungsverfahrensgesetz 
+WHG 
+Wasserhaushaltsgesetz 
+ZES 
+Zentralschaltstelle 
+ZF 
+Zugfunk 
+
+## Página 9
+
+# 1 
+# Zusammenfassung 
+Das Kapitel befasst sich mit der Kurzbeschreibung des Ereignisses und verschafft einen 
+Überblick über die durch den Ereigniseintritt entstandenen Folgen. 
+## 1.1 
+## Kurzbeschreibung des Ereignisses 
+Am 08.08.2014 entgleist der am Schluss laufende Wagen des EZ 51298 gegen 00:18 Uhr im 
+Bahnhof (Bf) Burgstall; Gleis 1 in km 4,866 bei einer Geschwindigkeit von ca. 79 km/h. Auf­
+grund einer Hauptschalterauslösung auf dem Triebfahrzeug des EZ 51298 bringt der Tf den 
+Zug in km 7,650 vor dem Einfahrsignal Kirchberg zum Halten. Der entgleiste Wagen wird bis 
+zum Halt des Zuges mitgezogen. Es kommt zu keiner Zwangsbremsung. 
+## 1.2 
+## Folgen 
+Durch die Entgleisung und der damit verbundenen Fahrzeugschäden, wird der Oberbau ein­
+schließlich der Weiche 9 im Bf Burgstall sowie das Gleisbett stark beschädigt. Außerdem 
+wird die Oberleitung einschließlich zweier Oberleitungsmasten auf einer Länge von 3 km 
+erheblich beschädigt bzw. zerstört. 
+## 1.3 
+## Ursachen 
+Die Ursache der Entgleisung des EZ 51298 ist auf mehrere kurz hintereinanderliegende 
+Gleislagefehler in der Längshöhe (zyklische Unregelmäßigkeit, gem. DIN EN 13848) zurück­
+zuführen, deren Entstehung auf eine nicht bzw. eingeschränkt funktionierende Entwässerung 
+des Gleiskörpers und folglich auf eine abschnittsweise verminderte Tragfähigkeit des Gleis­
+unterbaus zurückzuführen ist. 
+Bei der Durchfahrt über Gleis 1 im Bf Burgstall klettert der linke Radkranz der letzten Achse, 
+ca. in km 4,866 auf den Schienenkopf auf. Dort läuft er wenige Meter auf dem Schienenkopf 
+weiter und gleitet in km 4,872 unter Einwirkung der Kurvenfahrt nach bogenaußen endgültig 
+auf die Betonschwellen nach links ab. 
+
+## Página 10
+
+Abb. 1: sichtbare, zyklische Längshöhenfehler im Gleis 1 
+Quelle: BPol, bearbeitet durch BEU 
+# 2 
+# Vorbemerkungen 
+Dieses Kapitel beinhaltet zunächst einen organisatorischen Hinweis zu den Rechtsgrundla­
+gen der Bundesstelle für Eisenbahnunfalluntersuchung (BEU). Im Weiteren wird auf die Ziele 
+der Unfalluntersuchung eingegangen. Im letzten Abschnitt werden die an der Untersuchung 
+des Unfalls Beteiligten sowie die daran Mitwirkenden aufgeführt. 
+## 2.1 
+## Organisatorischer Hinweis 
+Mit der Richtlinie 2004/49/EG zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsi­
+cherheitsrichtlinie) wurden die Mitgliedstaaten der Europäischen Union verpflichtet, unab­
+hängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse ein­
+zurichten. 
+Diese Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften 
+vom 16.04.2007 umgesetzt und die Eisenbahnunfalluntersuchungsstelle des Bundes (EUB) 
+eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisenbahn-
+Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
+Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
+die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung 
+(BEU) geschaffen. Durch das Gesetz wurden das Allgemeine Eisenbahngesetz (AEG) und 
+
+## Página 11
+
+das Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten 
+und Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung der 
+BEU wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr 
+und digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-
+Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Ver­
+kehr und digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersu­
+chung vom 14.07.2017 wurde die BEU als selbstständige Bundesoberbehörde im Ge­
+schäftsbereich des BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. 
+Die Aufgaben zur Untersuchung bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb 
+gingen dabei n
+ ahtlos von der EUB auf die BEU über. 
+Da das vorliegende Ereignis vor dem Tag der Errichtung der BEU am 14.07.2017 lag, wur­
+den Aufgaben, wie die Untersuchung vor Ort, durch die EUB durchgeführt. Andere Arbeiten, 
+wie bspw. die Erstellung dieses Untersuchungsberichts, erfolgten nach der Errichtung und 
+wurden deshalb von der BEU übernommen. Aus diesem Grund wird im vorliegenden Bericht 
+sowohl d
+ ie Bezeichnung „EUB“ als auch „BEU“ verwendet.  
+Näheres hierzu ist im Internet unter >> www.beu.bund.de << zu finden. 
+## 2.2 
+## Ziel der Eisenbahn-Unfalluntersuchung 
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen auf­
+zuklären und daraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
+der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder 
+sonstiger zivilrechtlicher Ansprüche zu klären, und werden unabhängig von jeder gerichtli­
+chen Untersuchung durchgeführt.  
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbei­
+tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und ggf. die Ab­
+gabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei­
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Si­
+cherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder Mitglied­
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
+## 2.3 
+## Beteiligte und Mitwirkende 
+### Beteiligte: 
+DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU) 
+• 
+DB Schenker Rail, Eisenbahnverkehrsunternehmen (EVU)  
+• 
+
+## Página 12
+
+Mitwirkende: 
+Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurde das externe Gut­
+achten von SIMTES (Simulation technischer Systeme, Bielefeld) über die Entgleisungen in 
+Lorch und Oldenburg einbezogen.  
+# 3 
+# Ereignis 
+Im diesem Kapitel wird der Hergang des Ereignisses näher beschrieben. Des Weiteren wird 
+auf die Ereignisfolgen eingegangen. 
+## 3.1 
+## Hergang 
+Am 08.08.2014 verkehrt EZ 51298 von Nürnberg Rbf nach Kornwestheim Rbf. EZ 51298 
+besteht aus 9 Wagen sowie dem führenden Triebfahrzeug 185 235-9 der DB Schenker Rail 
+Deutschland AG. Den Streckenabschnitt der Strecke 4931 zwischen den Betriebsstellen 
+Backnang und Ludwigsburg passiert der Zug mit einer Geschwindigkeit von ca. 79 km/h. In 
+der Zeit von 00:18 Uhr bis 00:28 Uhr werden dem Fdl Backnang Störungen in dem Stellbe­
+reich Bf Burgstall signalisiert. Der Fdl Backnang erhält Kurzschlussmeldung der Zentral­
+schaltstelle (ZES), sowie Meldung des Tf 51298 über Zugfunk über den stromlosen Ab­
+schnitt. Nach Halt des Zuges vor dem Einfahrsignal (Esig) Kirchberg übermittelt der Trieb­
+fahrzeugführer (Tf) den Standort des EZ 51298 und informiert den Fahrdienstleiter (Fdl) 
+Backnang über die spannungslose Oberleitung. Zwischen 01:03 Uhr und 01:30 Uhr melde­
+ten die zur Erkundung beauftragten Mitarbeiter des dringlich zugeführten TVT 99970 Schä­
+den an der Weiche 9, den Oberleitungsschaden sowie die entgleisten Wagen mit den weite­
+ren Entgleisungsschäden an den Fdl B
+ acknang.  
+
+## Página 13
+
+Abb. 2: Systemskizze Bf Burgstall 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+Abb. 3: entgleister letzter Wagen des EZ 51298 
+## 3.2 
+## Todesopfer, Verletzte und Sachschäden 
+Personen werden bei dem Ereignis nicht verletzt. Bei der Zugentgleisung entstanden Sach­
+schäden, die durch den Infrastrukturbetreiber wie folgt beziffert wurden: 
+
+## Página 14
+
+Gedeckter Wagen Hbbill  
+ca. 
+  43.000 €  
+• 
+| • | GedeckterWagenHbbill | ca . | 43000 € . |
+| • | Gleisanlage | ca . | 493 000 € . |
+| • | Leit undSicherungstechnik - | ca . | 64000 € . |
+| • | EM -Technik | ca . | 83000 € . |
+## 3.3 
+## Wetterbedingungen 
+Zum Ereigniszeitpunkt herrschte ruhiges, klares und trockenes Sommerwetter. In den Tagen 
+zuvor hatte es im Bereich des Bf Burgstall geregnet. 
+# 4 
+# Untersuchungsprotokoll 
+## 4.1 
+## Zusammenfassung von Aussagen  
+Aussage des Triebfahrzeugführers EZ 51298 
+Am 07.08.2014 führte der Tf im Verlauf der Schicht 6421 den Zug 51298 von Bf Nürnberg in 
+Richtung Bf Kornwestheim. Im Bf Nürnberg Rbf bespannte er den Zug mit dem Tfz 185 235­
+9 im Richtungsgleis 074. Nach dem Kuppeln des Zuges mit dem Tfz durch örtliches Personal 
+wurde ebenfalls in Verbindung mit dem örtlichen Personal eine vereinfachte Bremsprobe mit 
+Durchgangsprüfung ausgeführt. Diese verlief ohne Besonderheiten und er erhielt die Mel­
+dung: „Bremse und Zugschluss in Ordnung“. Danach fuhr er den Zug 51298 um 21:58 Uhr 
+im Bf Nürnberg Rbf ab. Die Fahrt bis zum Bf Burgstall verlief ohne Besonderheiten. Bei der 
+Durchfahrt durch den Bf Burgstall trat am Tfz 185 235-9 eine Hauptschalterauslösung auf­
+grund einer 100 Hz Frequenzstörung ein. Während er auf diese Störmeldung entsprechend 
+des Abhilfe Textes im Display reagierte, fiel zusätzlich die Oberleitungsspannung aus. Er 
+überprüfte dann sofort die Oberleitung, wobei er keine Schwankungen oder anderweitige 
+Auffälligkeiten feststellen konnte. Zu keinem Zeitpunkt trat ein Druckabfall in der Hauptluftlei­
+tung (HLL) ein. Schließlich hielt er den Zug ca. 200 m vor dem Einfahrtsignal (Esig) des 
+Bf Kirchberg an und hielt mittels Zugfunk (ZF) Rücksprache mit dem zuständigen Fdl Backn­
+ang, da die Oberleitungsspannung weiterhin ausgefallen war. Dieser meldete anschließend 
+den Sachverhalt der ZES Karlsruhe, welche dann mit ihm ebenfalls Rücksprache hielt. Hier­
+bei konnte ausgeschlossen werden, dass der entstandene Oberleitungskurzschluss durch 
+das Triebfahrzeug (Tfz) verursacht wurde. Gegen 01:00 Uhr traf dann ein Mitarbeiter des 
+mittlerweile zur Erkundung beauftragten Verbrennungsturmtriebwagen (TVT) beim Triebfahr­
+zeug (Tfz) ein und teilte ihm mit, dass der letzte Wagen seines Zuges entgleist aber nicht 
+vom Zug getrennt war und dieser in der Folge entsprechende Beschädigungen an der Ober­
+leitung und den Gleisanlagen herbeigeführt hatte. 
+
+## Página 15
+
+Aussage Fdl B
+ acknang  
+Eine Niederschrift des Fdl Backnang konnte durch die DB Netz AG geliefert werden. Die Tä­
+tigkeiten des diensthabenden Fahrdienstleiters sind im Kap. 3.1 eingearbeitet. Es liegen kei­
+ne Hinweise auf Verstöße bei d
+ er Durchführung der betrieblichen Handlungen des Fdl v or. 
+Feststellung:  
+Nach der Sachverhaltsermittlung kann ausgeschlossen werden, dass die Ursache der Ent­
+gleisung durch eine Fehlhandlung des Fdl oder des Tf (s. EFR-Auswertung Kap. 4.5.1) ver­
+ursacht wurde. 
+## 4.2 
+## Notfallmanagement  
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflich­
+tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In 
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich 
+auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
+und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der 
+Richtlinie (Ril) Konzern Ril 123, jenes der DB Netz AG in der Ril 423 näher beschrieben und 
+geregelt. 
+Bei diesem Ereignis erfolgte die Benachrichtigung der Erstrettungskräfte (Feuerwehr, Not­
+arzt, Notfallmanager) durch die Notfallleitstelle der DB Netz AG. Der Notfallmanager war in­
+nerhalb der vorgegebenen Zeit an der Ereignisstelle. 
+## 4.3 
+## Untersuchung der Infrastruktur 
+## 4.3.1 
+## Allgemeine Angaben zur Infrastruktur 
+Bei der Strecke Backnang – Ludwigsburg (4931) handelt es sich um eine elektrifizierte, ein­
+gleisige Hauptbahn mit einem Bremswegabstand von 1000 m. Die maximal zulässige Ge­
+schwindigkeit der Strecke 4931 beträgt laut VZG = 120 km/h. Die Strecke 4931 ist keine 
+TEN-Strecke. 
+Als Grenze zwischen Bahnhof und freier Strecke gelten im Allgemeinen die Einfahrsignale 
+oder Trapeztafeln, ansonsten die Einfahrweichen. Im Bf Burgstall sind die Bahnhofsgrenzen 
+von Einfahrtsignal, km 4,523 bis Einfahrtsignal, im km 5,275 definiert. Die Entgleisungsstelle 
+befindet sich, wie vor Ort festgestellt, innerhalb des Bahnhofes. Eine Tiefenentwässerung 
+(TE) ist zwischen beiden Gleisen des Bahnhofes vorhanden. 
+
+## Página 16
+
+Abb. 4: Auszug aus dem EBULA des EZ 51298 
+Quelle: DB Schenker Rail Deutschland AG, bearbeitet durch BEU 
+## 4.3.2 
+## Örtliche Untersuchung des Oberbaus an der Unfallstelle 
+Im Bf Burgstall wurden in den vergangenen Jahren verschiedene Baumaßnahmen unter­
+schiedlicher Fachlinien durchgeführt wurden. Betroffen hiervon war auch das Gleis 1 mit der 
+Entgleisungsstelle des EZ 51298 im Gleisbogen. Die Örtliche Untersuchung wurde auf den 
+Bereich von der Entgleisungsstelle in km 4,860 bis zum Einfahrsignal in Kirchberg in 
+km 7,800 erweitert. 
+
+## Página 17
+
+Abb. 5: Aufkletterspur des Wagens auf der linken Schiene  
+Abb. 6: Radspur (Spurkranz) auf dem linken Schienenkopf 
+
+## Página 18
+
+Abb. 7: Abgleitende Radspur (Spurkranz) auf dem linken Schienenkopf 
+Abb. 8: Schiebewand des Hbbill 305 
+
+## Página 19
+
+Die ersten Entgleisungsspuren im Bf Burgstall befinden sich in einem Abschnitt mit auffälli­
+gen Gleislagefehlern. Daher wurde die Ursache näher untersucht. Hierbei wurde die flach 
+verlegte Tiefenentwässerung näher betrachtet und mehrere Schürfe im Entgleisungsbereich 
+angelegt. Beim Herstellen der Schürfe zeigt sich, dass der Oberbauschotter unter der Ober­
+fläche derart mit bindigen Stoffen durchsetzt ist, dass eine kontrollierte Wasserableitung auf 
+dem Planum nicht mehr ausreichend gewährleistet ist. Oberflächennahe Wasseransamm­
+lungen im Schürfloch belegen den gestörten Wasserabfluss. Als Folge der Verunreinigung 
+und des nicht abgeleiteten Wassers, entstehen unter den Belastungen aus dem Eisenbahn­
+betrieb die vorgefundenen Schlammstellen. Neben den optischen Gleislagefehlern in der 
+Längshöhe konnten vor Ort keine weiteren Störstellen augenscheinlich festgestellt werden. 
+Abb. 9: Schürfstelle an der Entgleisungsstelle ca. in km 4,86, rechte Gleisseite 
+
+## Página 20
+
+Abb. 10: Schürfstelle an der Entgleisungsstelle ca. in km 4,86, mittig des Gleises 
+## 4.3.3 
+## Örtliche Untersuchung der flach verlegten Tiefenentwässerung 
+Bei den Schürfungen wurde ersichtlich, dass der Schotter durch bindiges Material verunrei­
+nigt war und das anstehende Wasser nicht ausreichend in Richtung Vorflut abgeleitet wer­
+den konnte.  
+Die vorgefundene flach verlegte Tiefenentwässerung wurde daraufhin augenscheinlich be­
+gutachtet und dabei festgestellt, dass weder in den Sickerrohren noch in den Schächten ein 
+Wasserabfluss erkennbar war. 
+Abb. 11: trockener Schacht S3 im Bereich der Entgleisungsstelle in km 4,860 
+
+## Página 21
+
+Abb. 12: trockene Haltung 5 hinter der Entgleisungsstelle ca. in km 4,900 
+Feststellungen: 
+Die vor den Schürfgrabungen vermuteten Untergrundmängel und die daraus resultierende 
+Herabsetzung der Tragfähigkeit des Gleises konnte durch mehrere Schürfungen im Entglei­
+sungsbereich dokumentiert werden. Da in den Haltungen und überwiegend auch den 
+Schächten innerhalb des Entgleisungsbereichs kein Wasserabfluss erkennbar war, sammelt 
+sich das anfallende Oberflächenwasser und ggf. auch das Schichtenwasser auf dem Planum 
+unter dem Gleis. 
+## 4.3.4 
+## Untersuchung der Gleislage mittels Messfahrt 
+Vier Tage nach dem Ereignis wurde von der DB Netz AG eine belastete Gleislagemessung 
+mit einer Stopfmaschine vom Typ Unimat 09-4x4/4S durchgeführt. Bei dieser Messung wur­
+den mehrere hintereinanderliegende SR100- und SRlim-Überschreitungen aufgezeichnet. 
+Damit wurden die bei der örtlichen Untersuchung bereits optisch erkennbaren Gleislagefeh­
+ler messtechnisch aufgenommen und bestätigt. 
+Die graphische Aufzeichnung der Messung, Abb. 13 sowie das zugehörige Überschreitungs­
+protokoll, Abb. 14 sind nachfolgend dargestellt. 
+
+## Página 22
+
+Abb. 13: Protokoll der Messfahrt mit Stopfmaschine Unimat vom 12.08.2014 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+
+## Página 23
+
+Abb. 14: Überschreitungsprotokoll der Messfahrt vom 12.08.2014 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+Auszug aus dem Überschreitungsprotokoll, zur besseren Erkennbarkeit: 
+-
+km 4,8 +47,02 
+1+16 
+linke Schiene 
+SR100-Mangel 
+| - | km 48+47 02 , , | 1+16 |  | linke Schiene | SR100 -Mangel |
+| - | km 48+52 02 , , | 3 23 - |  | linke Schiene | SRlim-Mangel |
+| - | km 48+53 01 , , |  | 2 19 - | rechteSchiene | SR100 -Mangel |
+| - | km 48+56 99 , , | 3+23 |  | linke Schiene | SRlim-Mangel |
+| - | km 48+57 49 , , |  | 2+18 | rechteSchiene | SR100 -Mangel |
+| - | km 48+62 00 , , | 3 21 - | 1 16 - | beide Schienen | SRlim-&SR100 ­ |
+|  |  |  |  |  | Mangel |
+
+## Página 24
+
+Feststellungen: 
+Bei der durchgeführten Gleislagemessung mit der Stopfmaschine Unimat 09-4x4/4S wurden 
+mehrere, hintereinanderliegende zyklische SR100- und SRlim- Überschreitungen in der 
+Längshöhe im Graph und Überschreitungsprotokoll siehe Abb. 13 und Abb. 14 dokumentiert. 
+Gemäß Beurteilung nach Ril 821.2001 5 (5), ist im Geschwindigkeitsbereich V ≤ 80 km/h die 
+zul. Geschwindigkeit in Abhängigkeit vom Maß der Überschreitung und der örtlichen Verhält­
+nisse auf höchstens 60 km/h zu begrenzen. Zum Auftreten von zyklischen Fehlern macht die 
+Ril keine konkreten Vorgaben. Aufgrund der Feststellungen und Erkenntnisse vor Ort wurden 
+weitere Untersuchungen zum Zustand des Oberbaus und der Entwässerungsanlagen einge­
+leitet. 
+## 4.3.5 
+## Bauakte und Dokumentation 
+Gemäß Richtlinie 210.11xx der DB AG erhält jedes Bauwerk eine Anlagennummer und wird 
+in einer Datenbank erfasst. Im Bereich des Bf Burgstall wurde keine separate Anlagennum­
+mer für Entwässerungseinrichtungen im Anlagenbestand der DB Netz AG hinterlegt. Die 
+flach verlegte Tiefenentwässerung wurde dem technischen Platz „Bahnkörper insgesamt“ 
+zugewiesen. Technische Plätze sind Elemente einer Struktur, mit denen man aus Instandhal­
+tungssicht individuelle Daten verwalten, individuelle Instandhaltungsmaßnahmen durchfüh­
+ren, Nachweise der durchgeführten Instandhaltungsmaßnahmen führen und technische Da­
+ten über längere Zeiträume hinweg sammeln und auswerten kann. 
+Die Anlagenbuchhaltung der DB Netz AG bestätigte, dass im Bf Burgstall für die DB Netz AG 
+keine Entwässerungsleitung vorliegt. Auch bei der Sachverhaltsfeststellung u. a. zur Zugent­
+gleisung in Lorch, wurden die gleichen Sachverhalte bei der Gleisentwässerung festgestellt. 
+Die flach verlegte Tiefenentwässerung war dennoch eindeutig der DB Netz AG zuzuordnen. 
+Die Tiefenentwässerung unterliegt der Anlagenverantwortung des ALV konstruktiver Ingeni­
+eurbau (KIB). Bei der Zuordnung in einem größeren Bauwerk, im vorliegenden Fall der 
+„Bahnkörper insgesamt“, ist für die flach verlegte Tiefenentwässerung ein Entwässerungsheft 
+zu führen. Folglich hätte die flach verlegte Tiefenentwässerung eine eigene Anlagennummer 
+und einen eigenen technischen Platz im SAP-System erhalten müssen. Hierdurch hätten 
+Regelinspektionsaufträge generiert und dementsprechende Inspektionen durchgeführt wer­
+den können. Unter Einhaltung der entsprechenden Inspektionsfristen für Entwässerungen 
+wäre somit eine regelkonforme Überwachung zu gewährleisten. 
+
+## Página 25
+
+Feststellungen: 
+In der Sachverhaltsermittlung wurde festgestellt, dass es sowohl keinen techn. Platz für die 
+flach verlegte Tiefenentwässerung als auch keine Anlagennummer für die Entwässerungslei­
+tung als Einzelbauwerk vorlag. Innerhalb des gesamten Bahnhofs Burgstall existiert nur eine 
+Anlagennummer für den „Bahnkörper insgesamt“, die auch die Entwässerung beinhaltet. Da 
+die flach verlegte Tiefenentwässerung nicht mit einem eigenen technischen Platz belegt ist, 
+wurden demzufolge auch keine separaten Inspektionsfristen generiert und die dann erforder­
+lichen Inspektionen ermittelt, um erforderliche Inspektionen fristgerecht durchzuführen.  
+Obwohl m
+ehrere Baumaßnahmen im Bahnhof stattfanden, fand sich kein am Projekt beteilig­
+ter Mitarbeiter der DB Netz AG der die Entwässerungssituation im Bf Burgstall berücksichtigt 
+hat. 
+## 4.3.6   
+## Untersuchung der Untergrundverhältnisse im Entgleisungsbereich 
+## des Bf Burgstall 
+Im Bf Burgstall wurden in den letzten Jahren zwei größere Baumaßnahmen durchgeführt. Im 
+Jahr 2006 wurde das Gleis 1 im konventionellen Verfahren umgebaut und im Jahr 2011 folg­
+te der Umbau von Gleis 2. Nach dem Umbau wurde aus Gleis 1 ein durchgehendes Haupt­
+gleis. Mit dieser Baumaßnahme 2011 wurde auch der Neubau des Bahnsteig 1 realisiert. 
+Erste Baumaßnahme 2006 
+Im Jahre 2006 wurde das Gleis 1 konventionell erneuert. Die Geometrie des Gleises wurde 
+beibehalten. Der Umbau erfolgte als 1:1 Erneuerung und bedurfte keines Planrechtes. Als 
+Regelwerk für die Entwässerung galt die RiL 836.0805 mit Stand 1999. Zwischen den beiden 
+Gleisen bestand eine flach verlegte Entwässerungsleitung.  
+Bei Schäden bzw. Auffälligkeiten an den Entwässerungsleitungen ist geregelt, dass für eine 
+beabsichtigte Erneuerung eine Vormerkkarte durch den ALV erstellt wird und dem Fachbe­
+auftragten Oberbau und/oder Konstruktiver Ingenieurbau zur fachlichen Beratung übergeben 
+wird. Da dieses Verfahren, aufgrund der fehlenden Anzeichen einer Störung innerhalb der 
+Entwässerungsanlage, nicht eingeleitet wurde, bestand auch keine Veranlassung dieses 
+Gewerk bei d
+ er Baumaßnahme zu berücksichtigen. 
+
+## Página 26
+
+Zweite Baumaßnahme 2011 
+Grundlage der Planung „Bauvorhaben Bf Burgstall“ war die Verlängerung der S-Bahnlinie 
+von Marbach nach Backnang. Diese Planung diente der Anpassung der Gleisanlagen und 
+der Bahnsteige an die Anforderungen der S-Bahn einschließlich der Herstellung barrierefrei­
+er 
+Zugänge. 
+Am 
+03.01.2011 
+wurde 
+die 
+Plangenehmigung, 
+gemäß 
+§ 18 AEG 
+i.V.m. § 74 Abs. 6 VwVfG und § 18 AEG für das Vorhaben „Aufhöhung Bahnsteig mit barrie­
+refreiem Zugang“, von km 4,45 bis 5,36 an der Strecke Backnang – Ludwigsburg (4931) in 
+Burgstall durch den Sb 1, Ast Karlsruhe/Stuttgart ausgesprochen. Die Plangenehmigung für 
+das Bauvorhaben Burgstall hatte zum Gegenstand, den Rückbau der Bahnsteige 1 und 2, 
+den Neubau des Bahnsteiges 1, die barrierefreie Zuwegung, den Umbau des Gleises 1 zum 
+durchgehenden Hauptgleis mit Rück- und Umbau der Weichen 1 und 9, Anpassung der 
+Oberleitung und der Signalanlagen, Rückbau eines Weges und dessen Renaturierung. Für 
+Maßnahmen deren Baukosten gemäß BEGebV die Wertgrenze im Oberbau von einer Million 
+nicht übersteigt, entfällt die Nutzungsgenehmigung nach § 27 VVBAU. Da es sich aber um 
+eine Maßnahme unter dem rollenden Rad handelte, musste zusätzlich eine Anzeige der Nut­
+zung (Anhang 3.5 VVBAU) erfolgen. Diese Anzeige der Nutzung erfolgte fristgerecht. 
+Vorplanungen einer Infrastrukturmaßnahme 
+Infrastrukturmaßnahmen der DB Netz AG dienen maßgeblich der Sicherstellung der Verfüg­
+barkeit betriebsnotwendiger Anlagen unter Wahrung der wirtschaftlichen und unternehmeri­
+schen Zielsetzung. Dabei ist für jede Planungs- und Durchführungsphase einer Infrastruk­
+turmaßnahme mittels eines Projektauftrages ein Projektleiter (PL) zu benennen. Für alle 
+technischen und organisatorischen Belange der Projektabwicklung benennt der Bauherr ei­
+nen Bauherrenvertreter (BHV). Dieser ist für das jeweilige EIU der alleinige Ansprechpartner 
+für alle Belange des Projektes. Der PL nimmt delegierbare Funktionen des Bauherrn für Fra­
+gen der Projektplanung und Realisierung wahr und ist für Planung, Steuerung und Überwa­
+chung des Projektes gesamtverantwortlich. Von der Vor- bzw. Entwurfsplanung über die 
+Durchführungsphase bis zum Projektabschluss nimmt der PL diese Funktion wahr. Der Pro­
+jektleiter prüft die Vorstellungen des Planungsveranlassers u.a. auf weitere umweltbezogene 
+Regelungen die Auswirkungen auf Schutzgüter nach dem Gesetz über die Umwelt haben. 
+Den Auftrag zur Vorplanung erteilt der Bauherr. Vor Planungsbeginn sind die Bestandsunter­
+lagen in einem Feldvergleich auf Aktualität zu prüfen. Gemäß „Matrix mit Verantwortlichen zu 
+wesentlichen Projektphasen“ hat der PL die Bestandsunterlagen, -pläne auf Aktualität zu 
+prüfen (Feldvergleich). Ein Feldvergleich umfasst die Bestandsdokumentation aller Anlagen, 
+die von dem Projekt berührt werden. Sind keine oder nur begrenzt belastbare Unterlagen / 
+
+## Página 27
+
+Pläne vorhanden, ist zu entscheiden ob eine Aktualisierung vor Planungsbeginn oder im 
+Rahmen der ohnehin erforderlichen Projektplanung erforderlich wird. 
+Im Rahmen der Vorplanung wurde schon im Jahre 2003 mit der Voruntersuchung für die 
+Baugrundbeurteilung begonnen und Gutachten hierüber erstellt. 
+Baugrundbeurteilung durch Ing.-Büro Dr. Spang GmbH 
+Das Ing.-Büro Dr. Spang GmbH wurde im Jahr 2003/2004 im Rahmen des Ausbaus der 
+Bahnlinie S4 mit der Voruntersuchung für die Baugrundbeurteilung und Gründungsberatung 
+von der Deutschen Eisenbahn-Consulting GmbH beauftragt. In den Bauakten für die Bau­
+maßnahme Bf Burgstall lagen beide geotechnischen Gutachten vor. Ein Gutachten wurde für 
+den Bau des Bahnsteiges und ein weiteres für den Oberbau der Strecke erstellt und lagen 
+dem Planer vor. In diesen geotechnischen Gutachten hat das Büro Dr. Spang ausführlich 
+dargelegt, dass der Untergrund den Erfordernissen der Eisenbahn nicht mehr gerecht wird. 
+
+## Página 28
+
+Da die geotechnischen Gutachten in der Bauakte vorzufinden waren, war den Planern be­
+kannt, dass sich sowohl der Gleisunterbau und die Entwässerung in einem schlechten Zu­
+stand befanden. 
+Feststellungen: 
+Der PL hätte im Rahmen seiner Tätigkeit bei der Vorplanung feststellen und erkennen kön­
+nen, dass bezüglich der flach verlegten Entwässerung zwischen Gleis 1 und Gleis 2 im 
+Bf Burgstall keine Bestandsdokumentation der Entwässerung bzw. der flach verlegten TE 
+vorliegt. Da der Zustand der Tiefenentwässerung weder dem ALV KIB noch dem PL bekannt 
+war, hätte demzufolge der Zustand der Entwässerungsleitung in den Planungsauftrag vom 
+Bauherr/AG/EIU an den PL aufgeführt werden und möglicherweise vor Planungsbeginn eine 
+Untersuchung der TE durchgeführt werden müssen. Aufgrund der §§ 54 – 61 Wasserhaus­
+haltsgesetz (WHG) wäre der Bauherr verpflichtet gewesen, da er eine Abwasseranlage be­
+treibt, ihren Zustand, ihre Funktionsfähigkeit, ihre Unterhaltung und ihren Betrieb sowie Art 
+und Menge des Abwassers und der Abwasserinhaltsstoffe selbst zu überwachen, vgl. 
+§ 61 (1) WHG. Er hat nach Maßgabe einer Rechtsverordnung nach (§ 61) Absatz 3 WHG 
+hierüber Aufzeichnungen anzufertigen, aufzubewahren und auf Verlangen der zuständigen 
+Behörde vorzulegen. 
+Fahrgeometrische Prüfung durch DB ProjektBau GmbH (Maßnahme 2011) 
+Nach der Herstellung der Planunterlagen durch ein Planungsbüro müssen die Planunterla­
+gen fahrdynamisch und fahrgeometrisch geprüft werden. 
+Die fahrdynamische Prüfung erfolgt bei der DB Netz AG Zentrale, Arbeitsgebiet Fahrdynamik 
+in Berlin. Für die Baumaßnahme Bf Burgstall wurde diese am 24.05.2012 gemäß 
+Ril 883.0040 durchgeführt. 
+Fachtechnische Prüfung durch Fachtechnischen Prüfer Oberbau 
+In der ersten Stellungnahme stellte der Prüfer mit Protokoll vom 13.12.2011 fest, dass die im 
+Gutachten von Dr. Spang genannten Maßnahmen zum Baugrund (PSS, Untergrundverbes-
+
+## Página 29
+
+serung) sowie zur Entwässerung nicht in den Plänen genannt oder dargestellt sind. Nach­
+dem der Planer die Unterlagen geringfügig ergänzte, wurden sie ohne Einwände mit Index a 
+(Änderungsanzeige im Plan) durch den Fachtechnischen Prüfer Oberbau für in Ordnung 
+befunden . 
+Mit der Zustimmung des fachtechnischen Prüfers Oberbau wurden die Planunterlagen zum 
+Bauvorlagenberechtigten (BVB) weitergereicht. Der BVB war, gemäß der damals gültigen 
+VV BAU Stand 01.09.2009, dafür verantwortlich, dass die Ausführungsunterlagen vollständig 
+sind und die bautechnische Prüfung rechtzeitig durchgeführt und abgeschlossen wurde. Die 
+Freigabe der Ausführungsunterlagen zur Ausführung erfolgte am 06.07.2012 mittels Freiga­
+beschreiben durch den BVB. Ergänzend zu den Ausführungen des §8 VVBAU (01.9.2009) 
+hat der BVB insbesondere die Pflichten nach Anhang 5 zu § 8 (VVBAU) zu erfüllen. Die Aus­
+führungsunterlagen wurden vom BVB an den Projektleiter (PL) versandt, welcher sie mit Un­
+terschrift vom 09.07.2012 zur Bauausführung freigab. In den Ausführungsplänen finden sich 
+mehrere Roteintragungen. In Abb. 15 ist ersichtlich, dass die Entwässerung beibehalten und 
+das Gleis 1 nur geringfügig in der Lage angepasst wird. 
+Abb. 15: Roteintrag im Lageplan Oberbau, Planzeichen: 03-N-AP-03-A-LP-001b 
+Abb. 16: Roteintrag im Lageplan Oberbau, Planzeichen: 03-N-AP-03-A-LP-001b 
+
+## Página 30
+
+Beim Roteintrag Abb. 16 wurde festgestellt, dass das Datum nicht korrekt angegeben wurde. 
+Das angegebene Datum stammt von einem weiteren Gutachten für einen weiteren Umbau 
+eines anderen Bahnhofes derselben Strecke. 
+Gemäß dem Stempelfeld enthielten alle, zum Bauen freigegebenen und verwendete Ausfüh­
+rungsunterlagen, die notwendigen Unterschriften: 
+Fahrgeometrische Prüfung mit Unterschrift vom 27.06.2012 
+• 
+Freigabe der Ausführungsunterlagen mit Unterschrift durch den BVB vom 06.07.2012 
+• 
+Genehmigung zur Bauausführung mit Unterschrift vom PL vom 09.07.2012 
+• 
+Auszug aus der Verwaltungsvorschrift Bau (VV BAU): Mit Beginn der Maßnahme sind die 
+Bauüberwacher Bahn (BÜB) gemäß § 9 VVBAU (2012) für die Erfüllung der Pflichten der 
+EdB aus § 4 VV BAU in der Phase der Baudurchführung verantwortlich. Insbesondere sind 
+dies die in § 4 Abs.7 und Abs. 8 VV BAU genannten Aufgaben und Überwachungstätigkei­
+ten. Sie sind dafür verantwortlich, dass die Abnahmen gemäß § 25 VV BAU i.V.m. Anhang 
+3.1 durchgeführt werden. Fehlt dem BÜB auf einzelnen Fachgebieten die erforderliche Erfah­
+rung oder Sachkunde, hat er geeignete Personen heranzuziehen. Die Entscheidungen und 
+Feststellungen sind nachweislich zu dokumentieren. 
+Da gemäß den Ausführungsunterlagen im Oberbau nur geringe Hebe- und Verschiebewerte 
+mit der Stopfmaschine erreicht werden mussten, kam man laut Aussage der vor Ort Beteilig­
+ten nicht unterhalb des Bahnschotters. 
+Der einzige Bereich bei dem in der Baumaßnahme unterhalb des Bahnschotters gegraben 
+wurde, war für den Bahnsteigneubau Gleis 1. In der Zwischenzeit gab es bei der VVBAU 
+Anpassungen welche zur modifizierten VVBAU mit Stand 01.01.2012 und somit zu Änderun­
+gen bei d
+ en bisherigen Regelungen, führte.  
+Die Abnahme der Gründungssohle des Bstg 1 nach Anhang 3.1 VV BAU (01.09.2009) oblag 
+dem Prüfer / Aufsichtsbehörde. Auszug aus der Verwaltungsvorschrift Bau (VV BAU): Der 
+Bauüberwacher Bahn (BÜB) durfte bei einfachen Verhältnisses und Zustimmung des EBA 
+die Abnahme der Gründungssohle selbst durchführen. Mit der Modifizierung der VVBAU zum 
+01.01.2012 konnte der BÜB die Gründungssohle nun in jedem Fall selbst abnehmen. Die 
+farbige Markierung im Anhang 3.1 zu § 8 VV BAU (01.01.2012) weist darauf hin, dass diese 
+Abnahme protokollpflichtig ist. 
+Das Protokoll der Abnahme des BÜB, zur Gründungssohle des Bahnsteiges 1 konnte von 
+der DB Netz AG nicht vorgelegt werden. Es wurden lediglich Ausdrucke der Plattendruckver-
+
+## Página 31
+
+suche der Sohle ohne jegliche Bewertung und Beurteilung durch den BÜB vorgelegt. Eine 
+Beurteilung des Baugrundes durch einen baubegleitenden geotechnischen Bauüberwacher, 
+erfolgte nicht, da die Leistung nicht vergeben wurde. 
+Trotz des fehlenden Protokolls zur Abnahme der Gründungssohle bestätigt die DB Netz AG 
+mit den Unterschriften vom ALV und IBV bei der Anzeige der Nutzung vom 07.11.2012, dass 
+die Maßnahme zur Befahrbarkeit freigegeben wurde. Mit ihren Unterschriften bestätigen bei­
+de, dass die Maßnahme für die Aufnahme des Betriebes fertig gestellt und nach erfolgter 
+Prüfung genutzt wird. Sie bestätigen außerdem, dass die Arbeiten unter Einhaltung der ge­
+setzlichen Bestimmungen nach den anerkannten Regeln der Technik sowie der Zulassungen 
+und Genehmigungen ausgeführt wurden. 
+Ergebnisse: 
+Im Rahmen der Vorplanung hätte beim Überprüfen der bestehenden Unterlagen erkannt 
+werden können, dass für die flachverlegte Entwässerungsleitung zwischen Gleis 1 und 
+Gleis 2 kein Entwässerungsheft vorlag. Bei Einhaltung der Ril hätte das Entwässerungsheft 
+zur Verfügung stehen müssen. Da das Entwässerungsheft nicht geführt wurde, konnte es in 
+der Planung nicht berücksichtigt werden und hätte innerhalb der Maßnahme mitaufgenom­
+men werden können. Bei der Überprüfung durch den ALV und dem IBV bezüglich der „Ab­
+nahme einer Baumaßnahme“ hätte erkannt werden können, dass das Abnahmeprotokoll der 
+Gründungssohle des Bahnsteiges nicht vorlag. Beide hatten das Dokument „Abnahme einer 
+Baumaßnahme“ trotz dem fehlenden Abnahmeschreiben unterzeichnet. 
+Feststellungen: 
+Entgegen den Empfehlungen in den geotechnischen Gutachten vom Ingenieurbüro 
+Dr. Spang, wurde bei der Baumaßnahme Bf Burgstall von 2011 kein baubegleitender Bo­
+dengutachter eingebunden. Während der Baumaßnahme änderte sich die VVBAU und somit 
+u.a. einige Abnahmeregeln für die am Bau beteiligten Personen. Aufgrund der fehlenden 
+Beauftragung aus der Vorplanung erfolgte keine Maßnahme zur Feststellung des Zustandes 
+der flachverlegten Entwässerungsleitung. Die flachverlegte Entwässerung zwischen den 
+Gleisen im Bf Burgstall wurde unverändert beibehalten. Am Unterbau wurden außer dem 
+Einbau der PSS unter der Weiche 9 des Bf Burgstall und der Bahnsteiggründung keine Ar­
+beiten unterhalb des Bahnschotters durchgeführt. Abnahmen und die zugehörigen Abnah­
+meunterlagen, die nach VV BAU erforderlich waren, konnten vom EIU nicht erbracht werden. 
+Die Abnahme der Gründungssohle stellt eine protokollpflichtige Tätigkeit, gem. VVBAU dar, 
+bei der auch die Messergebnisse aus Plattendruckversuchen bewertet werden sollen. Ver-
+
+## Página 32
+
+dichtungsnachweise der Gründungssohle konnten durch das EIU erbracht werden, allerdings 
+fehlte hierzu eine Bewertung durch den BÜB. Die Ergebnisse der vorgelegten Verdichtungs­
+nachweise bewegten sich alle im zulässigen Bereich, was jedoch der Tatsache geschuldet 
+ist, dass die Baumaßnahme im Hochsommer unter trockenen Verhältnissen durchgeführt 
+wurde und ungünstige Bodeneigenschaften nicht erkannt wurden. Demzufolge haben die 
+beiden Beteiligten die Zustimmung zur Abnahme der Baumaßnahme nicht mit der gebotenen 
+Sorgfalt durchgeführt. 
+## 4.3.7 
+## Darstellung der Entwässerung des Bf Burgstall 
+Nach 
+Ril 836, 
+Erdbauwerke 
+und 
+sonstige 
+geotechnischen 
+Bauwerke, 
+Mo­
+dul 4603 Abschn. 3 Abs. 1 sollen in Gleis- und Weichenanlagen von Bahnhöfen die Entwäs­
+serungsanlagen des Bahnkörpers das ober- bzw. unterirdisch zuströmende Wasser aufneh­
+men und schadlos ableiten. Aufgrund der Flächenausdehnung von Bahnhöfen und des in 
+Bahnhöfen geringen Längsgefälles von maximal 2,5 ‰ soll gemäß Ril 836.4603 Abschn.3 
+Abs. 3, die Wasserableitung mit einem Netz aus Sicker- und Sammelleitungen erfolgen. Das 
+vom Planum abfließende Oberflächenwasser soll bei nicht versickerfähigem Untergrund zwi­
+schen jedem zweiten Gleis durch flach verlegte Tiefenentwässerungen gefasst und abgelei­
+tet werden, vgl. 836.0805 Abschn.3 Abs. 5. Im Bf Burgstall befindet sich zwischen Gleis 1 
+und Gleis 2 eine flach verlegte Entwässerungsleitung. Sie beginnt mit Schacht 1 (S401) ca. 
+im km 4,650, erreicht ihr Ende mit Schacht 6 (S406) ca. im km 4,890 und geht danach in 
+einen offenen Entwässerungsgraben, neben Gleis 2, über. Die Entwässerung des Bf Burg­
+stall besteht aus 6 Haltungen mit DN 200 Betonrohren und 6 Schächten. Die ermittelte Fließ­
+richtung des Wassers reicht von Schacht 1 zum Auslauf nach Schacht 6. 
+Abb. 17: Skizze Fließrichtung FR und Schächte S401-406 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+
+## Página 33
+
+## 4.3.8 
+## Inspektionen 
+Gemäß Ril 821 werden die Gleise mehrmals pro Jahr überwacht. In der Regel finden die 
+Inspektionen Gleisbegehungen (Regelinspektionen), entsprechend dem SAP-System, in den 
+Monaten April und Oktober für das Gleis 1 statt. Laut Ril 821 können diese in begründeten 
+Ausnahmefällen bis zu zwei Monate später erfolgen. Die Regelinspektion Gleisgeometrie­
+messung und Begleitung ALV findet im seit dem Jahr 2012 im Monat Dezember statt. In den 
+beiden Jahren 2010 und 2011 wurde sie im Monat November durchgeführt. 
+|  | Oberbauinspizieren |  | RiL 821 1000A01 . |
+|  | Grundlagen derOberbauinspektion |  |  |
+|  | 1 Begriffe |  | Definition Bahnanlagen |
+|  | Zu den Bahnanlagengehören: |  |  |
+|  | 1 die Fahrbahn Oberbau als Schotteroberbau (Schienen Befesti . = , ­ |  |  |
+|  | gungsmittel sonstiges Zubehör Schwellen Bettung) sowie als Feste , , , |  |  |
+|  | Fahrbahn; |  |  |
+|  | 2 der Unterbau (z B Erdkörper als Damm Einschnitt oder Anschnitt . . . , , |  |  |
+|  | Böschungen Felshänge); , |  |  |
+|  | … |  |  |
+### Oberbau inspizieren
+### RiL 821.1000
+### Grundlagen der Oberbauinspektion 
+## 3
+### Inspektion und Inspektionsabstände
+### Inspektion 
+(1) Eine Inspektion dient der Feststellung des Istzustandes und der Beur­
+teilung des Abnutzungsvorrates. Es wird zwischen Regelinspektion und 
+zusätzlicher Inspektion unterschieden. 
+### Regelinspekti­
+(2) Eine Regelinspektion ist eine planmäßige, innerhalb festgelegter 
+Zeitabstände wiederkehrende Inspektion mit vorgegebenem Inhalt. Inhalt 
+on 
+und Abstand sind in den einzelnen Richtlinien beschrieben. 
+… 
+
+## Página 34
+
+## 4
+### Zuständigkeiten
+… 
+(3) Die fristgerechte Durchführung der Inspektionen hat der Anlagenver-
+### Überwachung 
+antwortliche zu überwachen. 
+Kann eine Inspektion nicht fristgerecht durchgeführt werden, ist der An­
+lagenverantwortliche vom Inspizierenden unverzüglich zu verständigen. 
+Der Anlagenverantwortliche hat dann über die erforderlich werdenden 
+Maßnahmen zu entscheiden. Diese können sein: 
+- Inspektion mit einem anderen Messmittel (z.B. Handmessgerät oder 
+Mehrkanalschrieb) 
+- Inanspruchnahme Ausnahmeregelung (Abs. 3(6)) 
+- Anordnung betrieblicher Maßnahmen 
+- usw. 
+### Vorlage 
+und 
+(4) Der Inspektionstag sowie das lnspektionsergebnis sind als Befund 
+### vom Inspizierenden zu dokumentieren und dem Anlagenverantwortlichen Beurteilung 
+### Inspektionser-
+vorzulegen. 
+gebnis 
+Der Anlagenverantwortliche beurteilt das Inspektionsergebnis und veran­
+lasst notwendige Maßnahmen. 
+… 
+|  | Oberbauinspizieren |  | RiL 821 2003 . |  |  |
+|  | Gleisbegehung durchführen |  |  |  |  |
+|  | 1 Allgemeines |  |  | Zweck |  |
+|  | (1) Indieser Richtlinie ist die Gleisbegehunggeregelt mit der , |  |  |  |  |
+|  | eineInspektion des Oberbaus und - |  |  |  |  |
+|  | die Überwachung der übrigenBahnanlagen - |  |  |  |  |
+|  | durch Augenscheindurchgeführt wird . |  |  |  |  |
+|  | … |  |  |  |  |
+|  | 2 Inspektionsabstand |  |  | Regelinspekti ­ |  |
+|  | (1) Der Regelinspektionsabstandfür dieGleisbegehung ist inTabelle 1 |  |  | on |  |
+|  | festgelegt . |  |  |  |  |
+
+## Página 35
+
+(3) Die Inspektionsabstände der Gleisbegehung sollen mit denen der 
+Gleisbefahrung (vgl. Ril 821.2004) zeitversetzt so aufeinander abge­
+stimmt werden, dass sie in möglichst gleichmäßigen Abständen erfolgen. 
+### Harmonisie-
+Auf zweigleisigen Strecken soll die Begehung der Richtung/ Gegenrich­
+### rung der Ab­
+tung zeitversetzt im halben Inspektionsabstand erfolgen. 
+stände 
+… 
+Datum
+IH Befundsmeldung 
+Inspektionsart 
+erforderliche Maßnahmen 
+Erledigung der Maßnahmen 
+Strecke / Km Anga­
+ben 
+Mitarbeiter 
+## 2014 
+April 2014 
+Strecke 4931-0 
+Senke manuell mit der Hand 
+Maßnahme 
+nachweislich 
+mit 
+gestopft 
+Meldung erledigt 
+Gleisbegehung 
+Befund: 
+Senke 
+im 
+Fahrspiegel 
+der 
+TL Fahrbahn 
+Schiene erkennbar im 
+Freie Strecke 
+km 4,250 
+April 2014 
+Strecke 4931-0 
+Senke manuell mit der Hand 
+Maßnahme 
+nachweislich 
+mit 
+gestopft 
+Meldung erledigt 
+Gleisbegehung 
+Bf-Gleis Bf Burgstall 
+TL Fahrbahn 
+Befund: 
+Senke 
+im 
+
+## Página 36
+
+Bf-Gleis 
+Fahrspiegel 
+der 
+| Bf -Gleis | Fahrspiegel der |
+|  | Schiene erkennbar im |
+|  | km4250 , |
+Der Auftrag(NI01) zur Inspektion wurde nachweislich am 03.04.2014 durchgeführt und die 
+zugehörige Abarbeitung des Befundes wurde mit Niederschrift nachweislich erledigt. 
+## 2013 
+|  |  | 2013 |  |  |  |
+| Oktober2013 | Strecke 4931 -0 | LH -Fehler manuell mit der Hand | Maßnahme | nachweislich | mit |
+| Gleisbegehung | Befund: lt Befundmel . ­ | gestopft | Meldungerledigt |  |  |
+| MeisterFb | dung mehrere LH - |  |  |  |  |
+| FreieStrecke | Fehler von km 4 ,7 – |  |  |  |  |
+| Bf -Gleis | km49 , |  |  |  |  |
+Der Auftrag(NI01) zur Inspektion wurde am 16.10.2013 durchgeführt und die zugehörige Ab­
+arbeitung des Befundes wurde mit Niederschrift nachweislich erledigt. 
+April 2013 
+Strecke 4931-0 
+Ohne Befund 
+| April2013 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| ALV |  |  |
+| Bf -Gleis |  |  |
+Der Auftrag(NI01) zur Inspektion wurde am 15.04.2013 durchgeführt und ohne Befund mit 
+Niederschrift nachweislich erledigt. 
+## 2012 
+|  |  | 2012 |
+| Oktober2012 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| MeisterFb |  |  |
+| FreieStrecke |  |  |
+| Bf -Gleis |  |  |
+Der Auftrag(NI01) zur Inspektion wurde am 25.10.2012 durchgeführt und ohne Befund mit 
+Niederschrift nachweislich erledigt. 
+April 2012 
+Strecke 4931-0 
+Ohne Befund 
+| April2012 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| TLFahrbahn |  |  |
+
+## Página 37
+
+Bf-Gleis 
+Der Auftrag (NI01) zur Inspektion wurde am 11.04.2012 durchgeführt und ohne Befund mit 
+Niederschrift nachweislich erledigt. 
+## 2011 
+|  |  | 2011 |
+| Oktober2011 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| FreieStrecke |  |  |
+| Bf -Gleis |  |  |
+Der Auftrag(NI01) zur Inspektion wurde durchgeführt und ohne Befund mit Niederschrift 
+nachweislich erledigt. 
+April 2011 
+Strecke 4931-0 
+Ohne Befund 
+| April2011 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| Bf -Gleis |  |  |
+Der Auftrag (NI01) zur Inspektion wurde durchgeführt und ohne Befund mit Niederschrift 
+nachweislich erledigt.  
+## 2010 
+|  |  | 2010 |
+| Oktober2012 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| FreieStrecke |  |  |
+| Bf -Gleis |  |  |
+Der Auftrag(NI01) zur Inspektion wurde durchgeführt und ohne Befund mit Niederschrift 
+nachweislich erledigt. 
+April 2012 
+Strecke 4931-0 
+Ohne Befund 
+| April2012 | Strecke 4931 -0 | OhneBefund |
+| Gleisbegehung |  |  |
+| Bf -Gleis |  |  |
+Der Auftrag(NI01) zur Inspektion wurde am 11.04.2012 durchgeführt und ohne Befund mit 
+Niederschrift nachweislich erledigt. 
+Die Inspektionen der Gleisbegehungen wurden gemäß Ril 821.2003 ordnungsgemäß durch­
+geführt und im SAP-System durch den ALV dokumentiert. Die Inspektionstermine wurden 
+
+## Página 38
+
+nicht geschoben. Im Entgleisungsbereich tauchen erstmalig in der Inspektionsniederschrift 
+vom Oktober 2013 Befunde zu Gleislagefehlern (LH-Fehler) auf. 
+### Oberbau inspizieren
+### RiL 821.2001
+### Prüfung der Gleisgeometrie mit Gleismessfahrzeugen 
+## 2
+### Gegenstand der Inspektion
+### Prüfgegenstand 
+(1) In dieser Richtlinie sind die Bestimmungen für die Planung, Durchfüh­
+rung, Auswertung und Beurteilung der Prüfung der Gleisgeometrie mit 
+einem Gleismessfahrzeug (GMFZ) zusammengefasst. 
+(2) Die Prüfung kann mit folgenden Gleismessfahrzeugen durchgeführt 
+### Prüffahrzeug 
+werden: 
+- RAILab 1 und 2 
+- Gleismesstriebzug (GMTZ) 
+### 3 Regelinspektionsabstand 
+(1) Für die Regelinspektion der Hauptgleise (EBO § 4) sind die zeitlichen 
+Abstände gemäß Tabelle 1 einzuhalten. 
+### 4 Planung und Durchführung der Inspektion 
+(1) Der ALV hat die Prüfung der Gleisgeometrie mit GMFZ zu veranlassen. 
+[…] 
+(3) Der ALV oder ein von ihm beauftragter Vertreter (siehe Ril 820.0140) 
+hat sich in seinem Zuständigkeitsbereich an der Regelinspektionsfahrt zu 
+beteiligen. […] 
+… 
+
+## Página 39
+
+## 5   
+### Prüfgrößen und Beurteilungsmaßstäbe
+(1) Die GMFZ messen die Längshöhe, die Pfeilhöhe bzw. die Krümmung, 
+die gegenseitige Höhenlage und die Spurweite. Aus diesen Messwerten 
+werden weitere Parameter wie die Verwindung, der Überhöhungsfehlbe­
+trag, 
+die 
+Standardabweichung 
+und die 
+mittlere 
+Spurweite 
+über 
+100 
+m 
+(RAILab) berechnet.  
+Die 
+Qualität der Gleislage 
+wird 
+mittels 
+Prüfgrößen für 
+Einzelfehler und 
+Prüfgrößen für Gleisabschnitte von 250 m Länge beurteilt. 
+… 
+(2) Die Prüfgrößen für die Beurteilung der Einzelfehler der Gleislage sind 
+- Längshöhe 
+       - Verwindung 
+- Spurweite 
+- gegenseitige Höhenlage 
+- Pfeilhöhe 
+Die Gesamtbeurteilung Einzelfehler (EF-Gesamt) ist eine Aussage über 
+den Größten, auf den jeweiligen SR100-Wert bezogenen Einzelfehler in­
+nerhalb eines 25m-Abschnittes. Bei der Einzelfehlerbeurteilung sind kom­
+biniert auftretende Einzelfehler besonders zu berücksichtigen. 
+… 
+
+## Página 40
+
+Datum
+IH Befundsmeldung 
+Erledigung der 
+Inspektionsart 
+erforderliche Maßnahmen 
+Maßnahmen 
+Strecke / Km Angaben 
+Fz 
+## 2013 
+Am 09.12.2013 fand eine Gleisbefahrung auf Gleis 1 des Bf Burgstall mit dem GMTZ statt. 
+
+## Página 41
+
+
+
+## Página 42
+
+Der Auftrag zur Gleisbefahrung wurde nachweislich am 09.12.2013 durchgeführt und die zu­
+gehörige Abarbeitung des Befundes wurde mit Niederschrift nachweislich sofort mit Handstop­
+fung und DUA erledigt. 
+Folgende Mängel wurden bei der Gleisbefahrung ca. im km 4,850 festgestellt: 
+• SRlim-Überschreitung in der Längshöhe LH links mit 23 mm 
+• SR100-Überschreitung in der Verwindung Vw, SR100- Überschreitung in der Längs­
+höhe LH rechts mit 21 mm 
+• Erstes nachgewiesenes Messergebnis zu mehreren hintereinander liegenden, zykli­
+schen Längshöhenfehlern dokumentiert. 
+
+## Página 43
+
+## 2012 
+Am 10.12.2012 fand eine Gleisbefahrung auf Gleis 1 des Bf Burgstall mit dem RAILab II statt. 
+
+## Página 44
+
+Der Auftrag zur Gleisbefahrung wurde nachweislich am 10.12.2012 durchgeführt und die zu­
+gehörige Abarbeitung des Befundes wurde nach der Handstopfung schriftlich belegt. 
+Folgender Mangel wurde bei der Gleisbefahrung ca. im km 4,719 festgestellt: 
+• SR100-Überschreitung in der Verwindung Vw mit dem Wert 102 
+• Mangel, gemäß Regelwerk, bis zur nächsten Regelinspektion beseitigen. 
+• Erkenntnis: Der Oberbaumangel, welcher durch den Unterbau ausgelöst wurde, wan­
+dert. 
+
+## Página 45
+
+## 2011 
+Am 09.12.2011 fand eine Gleisbefahrung nur auf Gleis 2 des Bf Burgstall mit dem GMTZ003 
+statt, da im Gleis 1 Umbauarbeiten stattfanden. 
+## 2010 
+Am 24.11.2010 fand eine Gleisbefahrung auf Gleis 1 des Bf Burgstall mit dem GMTZ003 statt. 
+Diese Befahrung war im untersuchten Bereich ohne Befund. 
+Der Auftrag zur Gleisbefahrung wurde nachweislich am 24.11.2010 durchgeführt und die zu­
+gehörige Niederschrift ohne Befund im SAP-System abgelegt. 
+
+## Página 46
+
+Die erstmals am 09.12.2013 mit GMTZ in der Längshöhe festgestellten SRlim-Fehler von 
+21 mm und 23 mm befanden sich nach Grenzwert-Überschreitungsprotokoll im SRlim-
+Bereich. Beide Fehler wurden mit einer Sofortmaßnahme, in diesem Fall, von Hand gestopft. 
+Der Meßschrieb offenbarte zudem weitere Gleislagefehler welche teilweise SR100 über­
+schreiten bzw., erreicht haben. Diese Mängel sind gemäß Ril spätestens bis zur nächsten 
+Regelinspektion instand zu setzen. 
+Bei der Inspektion am 09.12.13 wurden erstmals auf dem Messschrieb mehrere hintereinan­
+derliegende, zyklische, Längshöhenfehler dokumentiert. Nach Interpretation der vorgenann­
+ten Ril 821.2001, sind kombiniert auftretende Einzelfehler besonders zu berücksichtigen. Die 
+einzuleitenden Maßnahmen obliegen dem ALV. 
+Bei den vorherigen Inspektionen wurde kein Befund im Bereich von km 4,8 – km 4,9 doku­
+mentiert. 
+Feststellungen: 
+In der Zeit von 2010 bis zum Ereignis wurde die Regelinspektion aus zwei Gleisbegehungen 
+jährlich fristgerecht vom vorgesehenen Mitarbeiter durchgeführt. Die Gleisbegehungen wur­
+den bis auf die Begehungen am 03.04.2014 und am 16.10.2013 ohne Befund im Bereich von 
+km 4,800 – km 4,900 dokumentiert. Die Ergebnisse der gleisgeometrischen Inspektionen mit 
+GMTZ003/RAILab II vom 09.12.2013 und 10.12.2012 zeigen im betroffenen Streckenab­
+schnitt das Erreichen oder das Überschreiten der SR100- bzw. SRlim-Grenzwerte. Auch das 
+Ergebnis der Gleislagemessung mit der Stopfmaschine nach dem Ereignis am 12.08.2014 
+offenbart mehrere zyklische Längshöhenfehler mit SR100 bzw. SRlim Überschreitungen, vgl. 
+Kapitel 4.3.4. 
+Bei einer Einzelfehlerbeurteilung sind kombiniert auftretende Einzelfehler gem. Ril 821 be­
+sonders zu berücksichtigen, folglich sind beispielsweise auch mehrere hintereinander auftre­
+tende Längshöhenfehler oder Verwindungsfehler als kombiniert auftretende Einzelfehler der 
+Gleislage anzusehen und durch den ALV besonders zu bewerten. Das vorliegende Scha­
+densbild im Oberbau entstand durch die verringerte Tragfähigkeit des Gleisunterbaus infolge 
+von Wasseransammlung. 
+Eine funktionierende Wasserableitung und Entwässerung gewährleistet unter anderem die 
+Dauerhaftigkeit und Gebrauchstauglichkeit des Gleises. Sind Wasseransammlung und Ent­
+wässerung schadhaft oder nicht funktionsfähig führt dies nach und nach zur Durchfeuchtung 
+des Unterbaus und Herabsetzung der Tragfähigkeit, was zu Gleislagefehlern im Oberbau 
+führt. Bei der visuellen Prüfung der Gleislage, durch die EUB, wurden am 08.08.2014 mehre­
+re dicht hintereinander liegende Gleislagefehler auf beiden Schienensträngen im Gleisab-
+
+## Página 47
+
+schnitt der Strecke 4931 von km 4,800 bis km 4,900 vorgefunden und dokumentiert, 
+vgl. Abb 2. 
+Die am 12.08.2014 unter Belastung durchgeführte Messung mit der Stopfmaschine 
+UNIMAT 09-4x4/4S zeigt zwischen km 4,840 und km 4,870 mehrere hintereinander liegende 
+SR100-Überschreitungen in der Längshöhe, sowie eine SRlim-Überschreitung. Andere 
+Überschreitungen lagen in dem Abschnitt von km 4,800 bis km 4,900 nicht vor. 
+Anhand der aufgeführten und in Tabellenform dargestellten Instandhaltungshistorie ist er­
+kennbar, dass sich im Bereich der Entgleisungsstelle erst seit der Messfahrt im Dezember 
+2012 wiederkehrend Gleislagestörungen eingestellt haben, die trotz nachgewiesener In­
+standsetzung nicht nachhaltig beseitigt werden konnten. Selbst die ca. 8 Monate vor der 
+Entgleisung durchgeführte IH-Maßnahme war nicht geeignet, einen dauerhaft ausreichenden 
+Abnutzungsvorrat für eine sichere Betriebsführung zu gewährleisten. Somit ist festzustellen, 
+dass die von der DB Netz AG über einen längeren Zeitraum gewählten Verfahren zur In­
+standsetzung der Gleislagefehler nicht geeignet waren, um die bekannten Mängel nachhaltig 
+beseitigen zu können. 
+## 4.3.9 
+## Überprüfung der Entwässerungen im Bf Burgstall 
+Maßgebliches Regelwerk für Entwässerungsanlagen im Netz der DB AG ist die RiL 836. Die 
+hier definierten Regelungen sind von den verantwortlichen Stellen KIB und Oberbau (Ob) zu 
+beachten. Die Überwachung der Entwässerungsanlagen erfolgt durch eine visuelle Prüfung 
+während des Gleisbegangs durch den ALV Oberbau. Bei diesen regelmäßigen Begängen im 
+Gleis liegt der Schwerpunkt der Überwachungen im Gleisoberbau, weshalb nicht primär in 
+die Schächte, bzw. in die Haltungen gesehen wird. Erst bei wiederholtem Auftreten eines 
+Gleismangels an derselben Stelle, sollen der ALV Oberbau und der ALV KIB den Mangel 
+zusammen begutachten. In Burgstall wurde keine Überprüfung durch die ALV Oberbau und 
+KIB zusammen durchgeführt, da erstmalig mit der Messfahrt durch den GMTZ am 
+09.12.2013 mehrere hintereinanderliegende zyklische Längshöhenfehler dokumentiert wur­
+den. 
+Im Bahnhof Burgstall war im betroffenen Gleisabschnitt eine flach verlegte Entwässerung 
+zwischen beiden Gleisen eingebaut. Die Bauwerksentwässerung soll vom ALV KIB gemäß 
+Ril 836.8002 Abschn. 3 Abs. 2 regelmäßig untersucht werden. Dies beinhaltet unter anderem 
+eine Spiegelung oder Kamerabefahrung, deren Ergebnisse systematisch auf Datenträgern 
+zu dokumentieren sind. Bei Verschmutzung der TE durch Schwebstoffe, wie z.B. Schlamm 
+oder Sand soll die TE nach Bedarf gespült werden. Der Wartungsbedarf ermittelt sich auf­
+grund der regelmäßigen Inspektionen. Aufgrund der vorliegenden TV-Inspektion hätte fest-
+
+## Página 48
+
+gestellt werden müssen, dass der Großteil der Haltungen defekt war und ein Auslauf in eine 
+offene Entwässerungsmulde nicht gegeben war, vgl. Abb 19 bis Abb 22. Die Ursache der 
+hier dokumentierten Schäden lässt sich nicht eindeutig zurückverfolgen. Die vorgefundenen 
+Mängel an der TE weisen allerdings typische Mängel auf, die bei unqualifiziert durchgeführ­
+ten Bauarbeiten entstehen. Bis zum Zeitpunkt des Ereignisses lagen keine Ergebnisse von 
+Inspektionen der Entwässerungen vor. Gründe für die Vernachlässigung der Überwachung 
+der Entwässerung liegen offensichtlich darin, dass die Entwässerungsanlagen in der Regel 
+nicht eigenständig geführt werden, sondern einem konstruktiven Bauwerk zugeordnet sind. 
+Weiterhin ist festzustellen, dass die vorhandenen Entwässerungsanlagen häufig nicht oder 
+nicht vollständig erfasst wurden und somit dem ALV kein Kataster über den tatsächlichen 
+Anlagenbestand zur Verfügung steht. 
+Fristen für die Inspektion der Entwässerung: 
+Die Inspektion der Entwässerungsanlagen nach Ril 836.8001, erfolgt wie zuvor beschrieben, 
+durch die augenscheinliche Begutachtung vom Gleis während der Gleisbegehung gemäß 
+Ril 821.2003. Bei Auffälligkeiten bzw. zur weiteren Feststellung und Beurteilung des Zustan­
+des der Entwässerungsleitungen ist eine Untersuchung durch Inaugenscheinnahme, Spiege­
+lung oder mittels Kamerabefahrung durchzuführen und zu dokumentieren. Die Untersuchung 
+der Entwässerungsleitungen obliegt dem ALV KIB. In der Ril 836.8001 Abschn. 8 Abs. 1 
+Bild 1 werden die einzuhaltenden Fristen und Zeitabstände für Erdbauwerke, Stützbauwer­
+ke/Tröge und Durchlässe/Querungen näher definiert. Entwässerungsanlagen werden hierbei 
+in der Regel nicht separat aufgeführt und mit eigenen Inspektionsfristen belegt, sondern sie 
+werden überwiegend einem in der Nähe befindlichen konstruktiven Bauwerk zugewiesen und 
+unterliegen dessen Inspektionstakt. Die daraus generierten Inspektionen werden vom ALV 
+KIB gemäß Fristenplan durchgeführt. Die Inspektionsabstände für konstruktive Ingenieur­
+bauwerke, denen die Entwässerungsanlagen häufig zugewiesen sind, liegen in Abhängigkeit 
+der Anlagenart zwischen mind. 1x jährlich bis mind. 1x in 3 Jahren und haben damit einen 
+wesentlich weiteren Takt als die Inspektionen beim Oberbau. Für Entwässerungsanlagen, 
+die keinem konstruktiven Bauwerk zugewiesen wurden, sind in der Ril 836 keine separaten 
+Inspektionsfristen hinterlegt. 
+Fazit: Es wäre empfehlenswert, für Entwässerungsanlagen, die Einflüsse auf sicherheitsrele­
+vante oberbautechnische Anlagen haben, eigene Planunterlagen (Kataster) zu führen, um 
+dem ALV KIB zu ermöglichen, entsprechend der Ril 836 die Inspektionsfristen sach- und 
+fachgerecht durchführen zu können. 
+
+## Página 49
+
+### Erdbauwerke und sonstige geotechnische Bauwerke
+### RiL 836.8002
+### Instandhaltung 
+### Wartung, Instandsetzung 
+## 3 
+### Wartung der Entwässerungsanlagen
+### Zeitpunkt 
+(1) Mit Fertigstellung von EA sollen die EA von den Anlagenverant­
+wortlichen Stelle regelmäßig untersucht und bei Bedarf gewartet 
+werden. 
+(2) Voraussetzung für die Erhaltung der Gebrauchstauglichkeit und 
+### Überwachungs­
+Dauerhaftigkeit der Entwässerungsanlagen ist die regelmäßige Kon­
+### umfang und Er­
+trolle und Reinigung der Leitungen. Diese Arbeiten haben bereits 
+gebnisdokumen­
+während der Bauzeit zu beginnen. Die Untersuchung soll durch In­
+tation 
+augenscheinnahme des Leitungszustandes (Spiegelung der Leitun­
+gen zwischen den Schächten) insbesondere im Hinblick auf evtl. 
+Versinterungen in den Schächten oder bei Bedarf mittels TV-
+Befahrung durchgeführt werden. Die Ergebnisse der Untersuchung 
+sind systematisch, die Ergebnisse von TV-Aufnahmen auf Datenträ­
+gern zu dokumentieren. 
+Die Ergebnisse sind zu den Entwässerungsheften (836.6002.V05) zu 
+nehmen und, soweit möglich, in den EDV-Systemen zu dokumentie­
+ren. 
+… 
+|  | Oberbauinspizieren |  | RiL 821 1000A01 . |
+|  | Grundlagen derOberbauinspektion |  |  |
+|  | 1 Begriffe |  | Definition Bahnanlagen |
+|  | Zu den Bahnanlagengehören: |  |  |
+|  | … |  |  |
+|  | 3 die baulichen Anlagen der Eisenbahninfrastruktur (z .B Ingenieur­ . . |  |  |
+|  | bauwerke Tunnel Erd und Stützbauwerke Schallschutzwände , , ­ , , |  |  |
+|  | Bahnübergänge Entwässerungsanlagen Einfriedungen Bahnstei , , , ­ |  |  |
+|  | ge und andere Zugänge , Rand -, Flucht - und Rettungswege); |  |  |
+|  | … |  |  |
+
+## Página 50
+
+### Erdbauwerke und sonstige geotechnische Bauwerke
+### RiL 836.8001
+### Inspektion 
+### 4 Überwachung
+### Erfordernis
+(1) Erdbauwerke und sonstige geotechnische Bauwerke sind im 
+Rahmen der Gleisbegehung gemäß RiL 821.2003 zu überwachen. 
+Die Überwachung ist die Beobachtung des Istzustandes der vom 
+Gleisbereich aus zu erkennen ist. 
+… 
+### 8 Fristen für die Inspektion 
+### Regelfall/ Fristen 
+(1) Im Regelfall einzuhaltende Zeitabstände für die Inspektionen sind 
+### für neue Bauwer­
+ke 
+Bild 1 zu entnehmen. 
+… 
+### Oberbau inspizieren
+### RiL 821.2003Z02
+### Gleisbegehung durchführen 
+### Beispiel Inspektionsinhalte übrige Bahnanlagen 
+### 1 Allgemein
+### Inspektions­
+inhalte 
+(1) in nachfolgender Tabelle sind beispielhaft Inspektionsinhalte der 
+### Auffälligkeiten/ 
+Gleisbegehung zur Bahnanlage dargestellt. 
+### Schadens­
+entwicklung 
+… 
+
+## Página 51
+
+Voraussetzung für eine fachlich qualifizierte Kontrolle und Untersuchung der Entwässe­
+rungsanlagen ist die Vorhaltung eines Entwässerungsheftes. Als Grundlage für die Untersu­
+chungsaufträge werden aus dem SAP-System Untersuchungsaufträge für die Überwachun­
+gen generiert und weisen somit den zuständigen ALV auf die frist- und termingerechte 
+Überwachung der Entwässerungsanlage hin. Für die Entwässerungsanlage im Entglei­
+sungsbereich lag bis zum Tag der Entgleisung kein Entwässerungsheft vor. 
+Eine Kamerabefahrung der Tiefenentwässung wurde durch die DB Netz AG erst nach An­
+ordnung der Sicherheitsbehörde (EBA) durchgeführt. Eine früher datierte Dokumentation der 
+Entwässerungsleitung konnte vom EIU nicht vorgelegt werden. Die zuvor beschriebene Ka­
+merabefahrung wurde am 03.09.2014 durchgeführt. Bei der Kamerabefahrung konnte ca. ein 
+Drittel der Rohrlänge nicht mit dem Kamerafahrzeug befahren werden. Dieser Bereich ist im 
+Übersichtsplan Abb. 18 rot dargestellt. Im gelben Bereich war nur eine Reinigung des Roh­
+res möglich. Der grüne Bereich konnte gespült und mit der Kamera befahren werden. 
+
+## Página 52
+
+Abb. 18: Übersichtslageplan der Kamerabefahrung vom 03.09.2014 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+Abb. 19: Mangel in Haltung 1 zw. Schacht 401 und Schacht 402  
+Quelle: DB Netz AG  
+
+## Página 53
+
+Versatz in der ersten Haltung 1 zwischen Schacht S493100402 und Schacht S493100401, 
+Wasser kann in das Erdreich eindringen; Quelle: DB Netz AG 
+Abb. 20: Mangel in Haltung 2 zwischen Schacht 402 und Schacht 403 
+Quelle: DB Netz AG 
+Einsturz des Rohres der Haltung 2 zwischen Schacht S493100402 und 
+Schacht 
+S493100403 
+Abb. 21: Mangel in Haltung 3 zwischen Schacht 403 und Schacht 404 
+Quelle: DB Netz AG 
+
+## Página 54
+
+Einsturz des Rohres der Haltung 3 zwischen Schacht S493100403 und 
+Schacht 
+S493100404 
+Abb. 22: Mangel in Haltung 5 zwischen Schacht 405 und Schacht 406 
+Quelle: DB Netz AG 
+Einbau eines Kunststoffsickerrohres zur Umleitung des anfallenden Wassers um ein nach­
+träglich eingebautes Mastfundament herum (in der Haltung 5 zwischen Schacht S493100405 
+und Schacht S493100406). Dadurch besteht keine Durchgängigkeit an der Sohle und das 
+Wasser kann nicht vollständig abfließen. 
+Feststellungen: 
+Die Kamerabefahrung am 03.09.2014 hat ergeben, dass in jeder Haltung schwerwiegende 
+Mängel an der Tiefenentwässerung vorliegen. Eine Durchgängigkeit der Rohrsohle ist, wie 
+die Abbildungen 19 – 22 zeigen, nicht mehr gegeben. Ein Entwässerungsheft mit regelmäßi­
+gen Inspektionsintervallen und regelmäßigen Spülungen des Rohres konnte durch das EIU 
+nicht vorgelegt werden. Folglich ist es nicht nachvollziehbar, ob und wann die Prüfung und 
+Bewertung der Schäden an der Tiefenentwässerung durch den zuständigen ALV KIB durch­
+geführt wurden. Die aus den SAP Datenbanken generierten Inspektionsaufträge dienen als 
+Grundlage einer frist- und termingerechten Überwachung u.a. auch der Entwässerungsanla­
+gen. Gemäß RiL 836.8002 sollen die Entwässerungsanlagen vom ALV KIB regelmäßig un­
+tersucht und bei Bedarf gewartet werden. Für den ALV KIB waren keine (separaten) Aufträge 
+bezüglich Inspektion der Entwässerungsanlage generiert. Dies hatte zur Folge, dass Inspek-
+
+## Página 55
+
+tionen auf die Gebrauchstauglichkeit und Dauerhaftigkeit der Entwässerungsanlagen ledig­
+lich im Zusammenhang mit den Untersuchungen an konstruktiven Bauwerken durch den 
+ALV KIB je nach Bauwerksart alle 1 - 3 Jahre durchgeführt wurden. Da die Frist für die Un­
+tersuchung dem „Bahnkörper insgesamt“ galt und kein Entwässerungsheft geführt wurde, 
+kann davon ausgegangen werden, dass der Untersuchung der Entwässerungsanlage keine 
+nennenswerte sicherheitsrelevante Bedeutung zugeordnet wurde. 
+## 4.4 
+## Untersuchung von Fahrzeugen 
+Bei dem entgleisten Wagen handelt es sich um einen unbeladenen gedeckten Wagen 
+Hbbill 305 mit der Wagennummer 21802457590-2 des Halters DB Schenker Rail Deutsch­
+land AG. 
+Abb. 23: Regelzeichnung Hbbill-Wagen 
+Quelle: DB Schenker 
+## 4.4.1 
+## Sichtprüfung am entgleisten Hbbill 305 
+Im Rahmen der Untersuchung vor Ort am entgleisten Wagen Hbbill 3
+ 05 konnten keine fahr­
+zeugseitigen Entgleisungsursachen ermittelt werden. Die Kuppelstelle zwischen dem letzten 
+Wagen und dem vor ihm laufenden Wagen zeigt keine Auffälligkeiten. Bei d
+ er Sichtprüfung 
+am entgleisten Wagen konnten keine Beschädigungen oder Beeinträchtigungen der Laufei­
+genschaften der Räder und deren Aufhängekomponenten festgestellt werden. Einzig kann 
+festgehalten werden, dass der rechte Anschlag des Bremsabsperrhahns als Folge der Ent­
+gleisung durch umherfliegende Schottersteine oder feste Gegenstände abgebrochen ist. 
+
+## Página 56
+
+Abb. 24: Aufnahme des abgebrochenen Anschlages des Bremsabsperrhahns 
+Quelle: Bundespolizei, bearbeitet durch BEU 
+## 4.4.2 
+## Kuppelstelle zwischen dem vorletzten und dem letzten Wagen 
+Die Kuppelstelle zwischen dem vorletzten und dem letzten Wagen weist keine Auffälligkeiten 
+auf.  
+Abb. 25: Kuppelstelle zwischen dem vorletzten und dem letzten Wagen 
+Quelle: Bundespolizei, bearbeitet durch BEU 
+
+## Página 57
+
+## 4.4.3 
+## Puffer des Hbbill 305 
+Die Puffer des letzten Wagen Hbbill 3
+ 05 waren in einem gut geschmierten Zustand. 
+Abb. 26: geschmierte Pufferteller des letzten, entgleisten Wagens 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+## 4.4.4 
+## Revision Hbbill 
+Die Radsätze des Hbbill wurden am 24.07.2014 in der Werkstatt Mannheim inspiziert. Die 
+Beurteilung der Lauffläche wurde sowohl auf der A- wie auch auf der B-Seite mit i.O. bewer­
+tet. Die beiden Radsätze wurden nach dem Ereignis ausgebaut und in der Werkstatt Korn­
+westheim am 18.08.2014 untersucht. Bei d
+ ieser Untersuchung wurden alle Werte der Check­
+liste 2 der Lauffähigkeitsuntersuchung eingehalten. 
+
+## Página 58
+
+## 4.4.5 
+## Lauffähigkeitsuntersuchung Hbbill 
+Abb. 27: Auszug der Lauffähigkeitsfeststellung des Hbbill 
+Quelle: DB Schenker 
+
+## Página 59
+
+Abb. 28: Auszug der Dokumentation zum Radsatz (Teil 1) 
+Quelle: DB Schenker 
+Abb. 29: Auszug der Dokumentation zum Radsatz (Teil 2) 
+Quelle: DB Schenker 
+
+## Página 60
+
+## 4.4.6 
+## Wagenliste EZ 51298  
+Abb. 30: Wagenliste des Zugverbandes 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+
+## Página 61
+
+## 4.4.7 
+## Bremszettel 
+Bei einer Bremsberechnung ist zu überprüfen, ob die im Kopf des Fahrplans angegebenen 
+Mindestbremshunderstel (Mbr) am fertig gestellten Zug vorhanden sind. Für jeden Zug sind 
+deshalb i.d.R. ein Bremszettel u
+ nd eine Wagenliste zu erstellen.  
+Abb. 31: Im Fahrplan angegebenen Mbr des EZ 51298 
+Quelle: DB Netz AG, bearbeitet durch BEU 
+Abb. 32: Bremszettel des EZ 51298 
+Quelle: DB Schenker Rail, bearbeitet durch BEU 
+
+## Página 62
+
+Feststellungen: 
+Im Soll/Ist-Vergleich der Fahrplandaten (Zugzusammensetzung, Bremsverhältnisse) wurden 
+keine Abweichungen festgestellt. Die Lauffähigkeit des Hbbill wurde nachweislich bestätigt. 
+Die Revision der Radsätze wurde laut Checkliste als „gut“ bewertet. Die Kuppelstelle weist 
+keine Auffälligkeiten auf. Die Bremszettel belegen, dass die im Fahrplan angegebenen Min­
+destbremshunderstel eingehalten wurden. Der entgleiste Wagen Hbbill war in einem tech­
+nisch einwandfreien Zustand und wurde regelmäßig gewartet. Auf eine Vermessung des 
+schwer beschädigten Wagens wurde verzichtet, da kein Erkenntnisgewinn für die Entglei­
+sungsursache zu erwarten gewesen war. 
+## 4.5 
+## Leit- und Sicherungstechnik 
+Die Strecke 4931 ist mit dem Kommunikationssystem GSM-R ausgestattet. Das Zugsiche­
+rungssystem Punktförmige Zugbeeinflussung ist vorhanden. Der Streckenabschnitt zwischen 
+Backnang und Ludwigsburg wird vom Fdl B
+ acknang gesteuert.  
+Signaltechnische Störungen während der Zugfahrt lagen nicht vor. Die Zugfahrt wurde auf 
+Hauptsignal d
+ urchgeführt. 
+Feststellung 
+Die Überprüfung der Leit- und Sicherungstechnik offenbarte keine Mängel bzw. Störungen, 
+die in Zusammenhang mit der Zugentgleisung zu sehen sind. Die Einflüsse aus der Leit- und 
+Sicherungstechnik sind somit weder als ereignisursächlich noch als ereignisbegünstigend 
+einzustufen. 
+
+## Página 63
+
+## 4.6 
+## Eisenbahnbetrieb 
+Die Betriebsabwicklung auf der Strecke wird nach den Bestimmungen der Fahrdienstvor­
+schrift DB Netz AG, Ril 4
+ 08 durchgeführt. 
+Die Zugfahrt des EZ 51298 wurde als Regelzugfahrt mit Hauptsignal durchgeführt. Störungs­ 
+und Fehlermeldungen bezüglich des Bahnübergangs standen beim überwachenden Fahr­
+dienstleiter vor dem Ereignis nicht an. Hilfsbedienungen wurden nicht ausgeführt. Die Hand­
+lungen, der zum Zeitpunkt des Ereignisses tätigen Betriebspersonale des Infrastrukturbetrei­
+bers entsprachen den Vorgaben der Ril 4
+ 08. 
+Der Fdl Backnang hatte für die Arbeiten die notwendige Tauglichkeit und die notwendigen 
+Qualifikationen. 
+Die  Handlungen des Triebfahrzeugführers wurden regelkonform durchgeführt. Der Tf war 
+zum Zeitpunkt des Ereignisses tauglich und besaß für die Fahrt eine gültige Baureihenbefä­
+higung. Ferner konnten durch das EVU die Tf Streckenkenntnis und die Begleitfahrten 
+nachweisen werden.   
+## 4.6.1 
+## Auswertung der Elektronischen-Fahrten-Registrierung 
+Die Auswertung der Elektronischen-Fahrten-Registrierung (EFR) wurde am Triebfahrzeug 
+185 235-9 der DB Schenker Rail Deutschland AG vorgenommen. Das Triebfahrzeug ist mit 
+einer induktiven Zugsicherungsanlage, System PZB 90 ausgerüstet. Die Zugfahrt erfolgte mit 
+dem Führerstand 1 voraus. Die Zugfahrt wurde im PZB-Betrieb gefahren. Der Fahrtverlauf im 
+Bereich Bf Burgstall lässt keine Unregelmäßigkeiten erkennen. Es ist weder eine Betriebs­
+bremsung, noch eine Schnell-, Zwangs- oder Notbremsung im zu untersuchenden Strecken­
+abschnitt in der PZB-Aufzeichnung zu erkennen. Im Bereich der Entgleisungsstelle wurde in 
+der EFR eine Geschwindigkeit von ca. 79 km/h registriert. Die EFR des führenden Fahrzeu­
+ges registriert ab ca. km 6,615 eine stetig abfallende Geschwindigkeit bis zum Stillstand in 
+km 7,619. Das führende Fahrzeug kommt um 00:19:36 Uhr (DSK-Zeit) zum Stehen. 
+
+## Página 64
+
+Abb. 33: EFR Triebfahrzeug 185 235-9  
+Quelle: DB Bahn AG Sicherheit  
+
+## Página 65
+
+Feststellungen: 
+Laut Elektronischer-Fahrten-Registrierung wurde die fahrplanmäßige zulässige maximale 
+Höchstgeschwindigkeit im relevanten Streckenabschnitt nicht überschritten. Die betrieblichen 
+Handlungen des Triebfahrzeugführers sowie des zuständigen Fdl ergaben keine Hinweise 
+auf Mängel oder Fehler. Die Ausübung der Tätigkeiten ist folglich weder als ereignisursäch­
+lich noch als ereignisbegünstigend einzustufen.  
+Die formale Voraussetzung zum Führen des Triebfahrzeuges 185 sowie zum Bedienen des 
+Stellwerkes Backnang lag jeweils vor.   
+## 4.7 
+## Interpretation der Unfallspuren 
+Die Sachverhaltsermittlung vor Ort begann am Morgen des Ereignistages. Gut erkennbar 
+waren, wie in den Abbindungen 5-7 dokumentiert, die Aufkletterspur des Radkranzes auf den 
+Schienenkopf, die Radkranzspur auf dem Schienenkopf bis zu dem endgültigen Entgleisen 
+und die Beschädigung der ersten Schwellen. Zudem waren vor Ort gut sichtbar mehrere hin­
+tereinanderliegende zyklische Längshöhenfehler in beiden Schienensträngen (vgl. Abb. 2). 
+Diese augenscheinlich vor Ort festgestellten Mängel wurden durch die, nach dem Ereignis, 
+durchgeführte Messfahrt am 12.08.2014 messtechnisch bestätigt und dokumentiert.  
+Der Oberbau wies, mit Ausnahme der Längshöhenfehler in beiden Gleisen, keine weiteren 
+Mängel auf. Einige Tage nach dem Ereignis, wurde der Unterbau des Gleises bei annähernd 
+gleichen Wetterbedingungen, durch mehrere Schürfe ergründet. Die Schürfe wurden an drei 
+Stellen im Schotterfach ausgehoben. Hierbei konnte festgestellt werden, dass ca. 10 cm un­
+ter der Oberkante der Schwelle, das Niederschlagswasser sowie Feinstkornanteile den 
+Schotter verschmutzten. In allen Schürfen sammelte sich Wasser, das nicht abfließen konn­
+te. 
+# 5 
+# Auswertung u
+#  nd Sch
+lussfolgerungen 
+Baudurchführung 
+- 
+Weit vor Baubeginn, bereits in den Jahren 2003 und 2004, lagen mehrere geotechni­
+sche Gutachten zum Untergrund des Gleises vor. Die Gutachten des geotechnischen 
+Ing-Büro Dr. Spang GmbH stellten schon damals fest, dass der Unterbau nicht den 
+eisenbahntechnischen Belangen genügte und eine qualifizierte Wasserableitung aus 
+dem Gleisbereich nicht gegeben war. Trotz diverser Hinweise in den vorliegenden 
+Gutachten, wurde die flach verlegte Tiefenentwässerung nicht auf ihre Funktionstüch­
+tigkeit untersucht, um sie gegebenenfalls zu ergänzen oder Instand zu setzen. Aus 
+
+## Página 66
+
+fachlicher Sicht ist es nicht nachvollziehbar, dass die Empfehlungen des Gutachtens, 
+den Einbau einer PSS aufgrund der Untergrundbeschaffenheit vorzunehmen, nicht 
+umgesetzt wurden. Zudem wurde entgegen der fachtechnischen Beurteilung im Gut­
+achten auf einen baubegleitenden Bodengutachter durch die Projektleitung verzich­
+tet. 
+- 
+Aufgrund mehrerer Baumaßnahmen, wie z.B. Fundamenterstellung sowie dem Ein­
+satz schwerer Baumaschinen im Bf Burgstall kam es mit hoher Wahrscheinlichkeit zu 
+Beschädigungen an der Tiefenentwässerung. Dies führte dazu, dass das anfallende 
+Wasser nicht mehr fachgerecht zur Vorflut abgeleitet werden konnte und den Boden 
+durchfeuchtete. 
+- 
+Die Beschädigungen an der Tiefenentwässerung blieben unerkannt, da die Überwa­
+chungstätigkeiten nicht mit der nötigen Sorgfalt und Präsenz durch die Bauüberwa­
+chung durchgeführt wurden. Trotz fehlender Nachweise zur Gebrauchstauglichkeit 
+der TE wurden die Baumaßnahmen durch den IBV freigegeben. 
+Inspektion und Instandhaltung 
+- 
+Die Inspektion der Tiefenentwässerung obliegt dem ALV KIB. Grundlage der Inspek­
+tion der Tiefenentwässerung bildet das Entwässerungsheft und die Generierung ei­
+nes Untersuchungsauftrages aus dem SAP-System. Beides war nicht vorhanden und 
+somit konnten die aus der Baumaßnahme entstandenen Mängel nicht entdeckt wer­
+den. Die Nachvollziehbarkeit des Anlagenbestandes ist nach derzeitiger Sachlage 
+ohne das Entwässerungsheft für den ALV KIB nicht sicher zu gewährleisten. Der Fo­
+kus der Inspektionen des ALV Oberbau liegt zweifelsfrei a
+ uf dem Oberbau. 
+- 
+Hinweise auf einen Mangel im Untergrund traten erstmalig bei der Regelinspektion 
+mit dem RAILab/GMTZ bei der Messfahrt am 10.12.2012 in diesem Bereich auf. Die 
+Mängel wurden durch Handstopfung beseitigt. Trotz wiederholender Mängelbeseiti­
+gung des Oberbaues traten die Fehler erneut auf.  Da die Ursache für den Gleislage­
+fehler nicht beseitigt wurde, konnten sich diese innerhalb kurzer Zeit neu ausbilden. 
+Dies belegt, dass es sich bei der Mängelbeseitigung nicht um eine nachhaltige In­
+standsetzung handelte. 
+- 
+Durch die Untersuchung des Unterbaus, mittels Schürfe, kann eindeutig davon aus­
+gegangen werden, dass die Ursache der Gleislagefehler durch tiefer liegende 
+Schlammstellen hervorgerufen wurden. Ursache für die vorgefundenen Schlammstel­
+len ist eine nicht funktionierende Entwässerung des Gleisbereiches. Durch die Kame-
+
+## Página 67
+
+rabefahrung der Entwässerungsleitung wurde dokumentiert, dass eine gebündelte 
+Ableitung des anfallenden Niederschlagswassers mittels der flach verlegten Entwäs­
+serungsleitung nicht mehr erfolgen konnte. Dadurch verblieb das anfallende Nieder­
+schlagswasser an Ort und Stelle und setzte mit den eingedrungenen Feinstkornantei­
+le die Gleislagestabilität insgesamt herunter. 
+-
+Durch die fehlende Nachhaltigkeit in der Instandhaltung der Gleislage wurde die Ur­
+sache für die Gleislagefehler nicht beseitigt und die Ausbildung von mehreren hinter­
+einanderliegenden zyklischen Längshöhenfehlern parallel auf beiden Schienensträn­
+gen ermöglicht. Die durch mehrere Schürfungen freigelegten Schlammstellen resul­
+tieren aus einer nicht funktionierenden Wasserableitung im diesem Gleisbereich. 
+Durch diese Schlammstellen wird die Gleislagequalität nach und nach verringert und 
+durch den regelmäßigen Zugbetrieb werden die Längshöhenfehler weiter stetig ver­
+größert. Durch diese Längshöhenfehler hat die Frequenzhöhe der Erregerfrequenz 
+(Anregungsfrequenz) der Gleisanlage bei einer Geschwindigkeit von ca. 80 km/h sich 
+der Eigenfrequenz des Fahrzeuges Hbbill 305 soweit angenähert, dass es zu einer 
+Anregung der Eigenfrequenz des Fz gekommen ist. Diese Anregung bewirkte, bei 
+dem letzten Wagen des Güterzuges ein Abheben in deren Folge der letzte Radkranz 
+auf den Schienenkopf aufkletterte, was im weiteren Bogenlauf zur Entgleisung führte. 
+-
+Auffällig ist der zeitliche Zusammenhang zwischen der Beendigung der Baumaß­
+nahme 2011 und dem Feststellen der ersten Oberbaumängel im Jahr 2012 mit dem 
+RAILab/GMTZ. 
+-
+Die Untersuchungsergebnisse bezüglich der Inspektion und Instandsetzung der Ent­
+wässerungsanlagen belegen, dass die sicherheitsrelevante Bedeutung einer funktio­
+nierenden Wasserabführung für den angrenzenden Oberbau nicht die notwendige 
+Beachtung erfährt. 
+Betriebsführung 
+-
+Eine Fehlhandlung des zuständigen Fdl und des Tf kann ausgeschlossen werden. 
+Leit- und Sicherungstechnik 
+-
+Störungen und Fehler im Bereich der Leit-und Sicherungstechnik können ausge­
+schlossen werden. 
+
+## Página 68
+
+Fahrzeuge 
+-
+Der entgleiste Hbbill Wagen war in einem technisch einwandfreien Zustand. Weder 
+die Inspektionsunterlagen noch die visuelle Begutachtung des entgleisten Wagens 
+weisen auf unfallursächliche Mängel hin. Der Zustand der Radsätze wurde aus gut 
+bewertet. Bremstechnische Mängel konnten nicht festgestellt werden. Rückschlüsse 
+die auf einen fahrzeugtechnischen unfallursächlichen Mangel hinweisen, sind auszu­
+schließen. 
+# 6 
+# Bisher getroffene Maßnahmen 
+Die vorhandene flach verlegte Tiefenentwässerung wird durch die DB Netz AG erneuert und 
+ergänzt. 
+Die DB Netz AG setzte am 01.02.2017 eine Technische Mitteilung bezüglich der Gleisent­
+wässerung sowie eine Technische Mittteilung am 19.04.2018 bezüglich der zyklischen 
+Längshöhenfehler in Kraft. 
+# 7 
+# Sicherheitsempfehlungen 
+Zur Verbesserung der Eisenbahnsicherheit wurden im Zuge der Untersuchungen zu einer 
+Zugentgleisung zwischen Kaub und Lorch (Rhein) am 09.06.2013 bereits die Sicherheits­
+empfehlungen Nr. 2/2017 und Nr. 3/2017 ausgesprochen. 
+Zudem wird auf die Hinweise zur Technischen Mitteilung TM1-2017-10135 I.NPF im Unter­
+suchungsbericht zur Zugentgleisung zwischen Kayhauserfeld und Oldenburg Hbf am 
+29.06.2013 (Az.: 60uu2013-06/200-3323) verwiesen.

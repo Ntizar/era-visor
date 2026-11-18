@@ -1,0 +1,1555 @@
+---
+pais: HU
+anio: 2017
+idioma: HU
+pdf: 2017-0033-5_zj _alairva 14-02-17, Szekesfehervar.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/2017-0033-5_zj%20_alairva%2014-02-17%2C%20Szekesfehervar.pdf
+md5_pdf: 999e80bf2e1f3bf27c2029f487c9d612
+paginas: 35
+chars: 76146
+tablas: 6
+cuerpo: "11.0pt; encabezados 3 niveles"
+rotulos_excluidos: "99 (# / #, #-#-#, kbsz)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 1
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+2017-0033-5 
+ZÁRÓJELENTÉS 
+2017-0033-5 és 2017-0214-5 
+Vasúti baleset / Kisiklás 
+Debrecen 
+Székesfehérvár 
+2017. január 10. 
+2017. február 14. 
+A szakmai vizsgálat célja a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események 
+okainak, körülményeinek feltárása, és a hasonló esetek megelőzése érdekében szükséges szakmai 
+intézkedések kezdeményezése, valamint javaslatok megtétele. A szakmai vizsgálatnak semmilyen 
+formában nem célja a vétkesség vagy a felelősség vizsgálata és megállapítása. 
+KBSZ 
+1 / 35 
+
+## Página 2
+
+### Jelen vizsgálatot 
+- 
+a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési 
+események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény (a 
+továbbiakban: Kbvt.), 
+- 
+a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események 
+szakmai vizsgálatának, valamint az üzembentartói vizsgálat részletes 
+szabályairól szóló 24/2012. (V.8.) NFM rendelet, 
+- 
+illetve a Kbvt. eltérő rendelkezéseinek hiányában a közigazgatási hatósági 
+eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 
+rendelkezéseinek 
+megfelelő 
+alkalmazásával 
+folytatta 
+le 
+a 
+Közlekedésbiztonsági Szervezet. 
+A Kbvt. és a 24/2012. (V.8.) NFM rendelet együttesen az Európai Parlament és a 
+Tanács 2004/49/EK irányelve (2004. április 29.) a közösségi vasutak biztonságáról 
+valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a 
+vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra 
+használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK 
+irányelv módosításáról (vasútbiztonsági irányelv) szóló uniós jogi aktusoknak való 
+megfelelést szolgálják. 
+A Közlekedésbiztonsági Szervezet illetékessége a 278/2006. (XII. 23.) Korm. 
+rendeleten, valamint 2016. szeptember 1-étől a közlekedésbiztonsági szerv 
+kijelöléséről, valamint a Közlekedésbiztonsági Szervezet jogutódlással való 
+megszűnéséről szóló 230/2016. (VII. 29.) Korm. rendeleten alapul. 
+### Fenti szabályok szerint 
+- 
+A Közlekedésbiztonsági Szervezetnek a súlyos vasúti balesetet ki kell 
+vizsgálnia. 
+- 
+A 
+Közlekedésbiztonsági 
+Szervezet 
+mérlegelési 
+jogkörében 
+eljárva 
+kivizsgálhatja azokat a vasúti baleseteket, illetve váratlan vasúti 
+eseményeket, amelyek megítélése szerint más körülmények között 
+súlyosabb következményű balesethez vezethettek volna. 
+- 
+A szakmai vizsgálat független a közlekedési baleset, illetve az egyéb 
+közlekedési esemény kapcsán indult más közigazgatási hatósági, 
+szabálysértési, illetve büntetőeljárástól. 
+- 
+Jelen Zárójelentés kötelező erővel nem bír, ellene jogorvoslati eljárás nem 
+kezdeményezhető. 
+A Vizsgálóbizottság tagjaival szemben összeférhetetlenség nem merült fel. A 
+szakmai vizsgálatban résztvevő személyek az adott ügyben indított más eljárásban 
+szakértőként nem járhatnak el. 
+A Vb köteles megőrizni és más hatóság számára nem köteles hozzáférhetővé tenni 
+a szakmai vizsgálat során tudomására jutott adatot, amely tekintetében az adat 
+birtokosa az adatközlést jogszabály alapján megtagadhatta volna. 
+### Jelen zárójelentés 
+alapjául a Vb által készített és az észrevételek megtétele céljából – jogszabályban 
+meghatározott – érintettek számára megküldött zárójelentés-tervezet szolgált. A 
+tervezet megküldésével egyidejűleg a KBSZ vezetője értesítette az érintetteket a 
+záró 
+megbeszélés 
+időpontjáról, 
+arra meghívta 
+az 
+érintett 
+személyeket, 
+szervezeteket. 
+A zárójelentéshez a MÁV Zrt. észrevételeket tett, melyeket a Vb beépített a 
+zárójelentésbe. 
+
+## Página 3
+
+### MEGHATÁROZÁSOK ÉS RÖVIDÍTÉSEK 
+ÁVU 
+Állomási Végrehajtási Utasítás 
+(Db) 
+Debrecen állomáson 
+(Sv) 
+Székesfehérvár állomáson 
+KBSZ 
+Közlekedésbiztonsági Szervezet 
+Kbvt. 
+A légi-, a vasúti és a víziközlekedési balesetek és egyéb 
+közlekedési események szakmai vizsgálatáról szóló 2005. évi 
+CLXXXIV. törvény 
+MÁV 
+Magyar Államvasutak Zrt. 
+psz. 
+pályaszám 
+RCH 
+Rail Cargo Hungária Zrt. 
+Vb 
+Vizsgálóbizottság 
+_db 
+(a személyzet megnevezése után) a debreceni eseményben 
+érintett személy 
+_sv 
+(a 
+személyzet 
+megnevezése 
+után) 
+a 
+székesfehérvári 
+eseményben érintett személy 
+
+## Página 4
+
+### AZ ESET ÖSSZEFOGLALÁSA 
+| Eseményszám: | 2017 0033 5 - - | 2017 0214 5 - - |
+| ERAazonosító: | HU 5229 - | HU 5252 - |
+| Az eset kategóriája | Vasúti baleset |  |
+| Az eset jellege | Kisiklás |  |
+| Az eset időpontja | 2017 január 10 04:27 . . | 2017 február 14 18:59 . . |
+| Az eset helye | Debrecen (XVII vágány 34 váltó) . , . | Székesfehérvár (XIII vágány 108 váltó) . , . |
+| Vasúti rendszer típusa | országos |  |
+| Mozgástípusa | vonat / teher |  |
+| Az eset kapcsán elhunytak / súlyosan sérültekszáma | 0 / 0 |  |
+| Pályahálózat működtető | MÁV Magyar Államvasutak Zrt . |  |
+| Ü zembentartó | DB Schenker Kft . | RCH Zrt . |
+| Rongálódás mértéke | pálya és járművekkis mértékben |  |
+| Nyilvántartó állam | Magyarország |  |
+### Az eset helye 
+1. ábra: az események helye Magyarország vasúthálózatán 
+
+## Página 5
+
+2. ábra: az események közelebbi helye 
+### Bejelentések, értesítések 
+A KBSZ ügyeletére az eseteket 
+- 
+2017. január 10-én, 04:45-kor (a bekövetkezés után 18 perccel), és 
+- 
+2017. február 14-én, 19:23-kor (a bekövetkezés után 24 perccel) 
+jelentette a MÁV rendkívüli helyzeteket kezelő irányítója. 
+### Vizsgálóbizottság 
+A KBSZ vezetője a debreceni vasúti közlekedési esemény vizsgálatára 2017. január 
+10-én az alábbi Vizsgálóbizottságot jelölte ki: 
+vezetője 
+Karosi Róbert 
+balesetvizsgáló 
+tagja 
+Chikán Gábor 
+balesetvizsgáló 
+a székesfehérvári vasúti közlekedési esemény vizsgálatára 2017. február 14-én az 
+alábbi Vizsgálóbizottságot jelölte ki: 
+vezetője 
+Karosi Róbert 
+balesetvizsgáló 
+tagja 
+Nyári Zoltán 
+balesetvizsgáló 
+Karosi Róbert közszolgálati jogviszonya a vizsgálat idején megszűnt. 
+### Az eseményvizsgálat áttekintése 
+A vizsgálat során a Vb 
+- 
+2017. január 10-én Debrecenben és február 14-én Székesfehérváron 
+helyszíni szemlét tartott; 
+- 
+meghallgatta a mozdonyvezetőket, az érintett személyzetet; 
+- 
+áttekintette a vonatkozó utasításokat, különös tekintettel az Állomási 
+Végrehajtási Utasításokra; 
+- 
+biztonsági ajánlást dolgozott ki; 
+- 
+példát keresett külföldi gyakorlatra. 
+### Az eset rövid áttekintése 
+Debrecen állomáson induló tehervonat két kocsija, Székesfehérváron induló 
+tehervonat egy kocsija indulás után röviddel egy váltón kisiklott. 
+A Vb megállapította, hogy a kisiklások közvetlen oka egy-egy szerelvény alatt 
+hagyott rögzítősaru volt. A rögzítősarut a járműveket a továbbító mozdonnyal 
+összekapcsoló dolgozó nem távolította el, majd később, a fékpróba során sem 
+észlelte a fékpróbát végző, azonos személy. 
+Debrecenben az állomási személyzet a rögzítősaruk helyzetét naplózza, de az 
+információ az állomási technológia szerint nem jut el a forgalomirányító 
+személyzethez, 
+így 
+az 
+nem 
+alkalmas 
+biztonsági 
+funkciója 
+betöltésére. 
+
+## Página 6
+
+Székesfehérváron ezt a bejegyzést a konkrét esetben sietség miatt nem észlelte a 
+vonat indításában közreműködő egyik dolgozó. 
+A pályahálózat működtetője intézkedett a debreceni állomási technológia 
+módosítására. A Vb biztonsági ajánlás kiadását javasolja a megfutamodás elleni 
+biztosítás – e balesettel nem összefüggő értelmű – felülvizsgálatára. 
+
+## Página 7
+
+### 1. 
+### TÉNYEK 
+### 1.1 
+### Az események lefolyása 
+### 2017-0033-5 Debrecen 
+A Debrecen XVII. vágányáról Tócóvölgy állomásra induló, 5 üres kocsiból álló 
+64348 sz. tehervonat 1. és 2. kocsija indulás után röviddel, a 34. sz. váltón 4 és 2 
+tengellyel kisiklott. Az eseményt 4:45-kor bejelentették a KBSZ felé is. 
+A baleseti helyszínen a második kocsi harmadik tengelye alatt a XVII. vágányhoz 
+tartozó rögzítősaru volt megtalálható. 
+3. ábra: az elakadt saru egy kiemelkedett kerékkel 
+### 2017-0214-5 Székesfehérvár 
+A járműjavítói javításból kikerült kocsikkal Székesfehérvárról Ferencváros állomásra 
+induló 86905 sz. tehervonat első kocsija indulás után a 106. sz. váltó keresztezési 
+részénél 3 tengellyel kisiklott. 
+
+## Página 8
+
+4. ábra: a szerelvény alatt maradt saru és egy kisiklott tengely 
+## 1.1.1 
+### A baleseti helyszín Debrecenben 
+5. ábra: a sínen csúszó saru nyoma a vonat indulásának helyén 
+
+## Página 9
+
+6. ábra: egy álló szerelvény az állomáson: 
+rögzítősaru csak a képen látható, végpont felőli végén van 
+### 1.2 
+### Személyi sérülés 
+Személyi sérülés egyik esetben sem történt: a vonatokon 1-1 fő mozdonyvezető 
+teljesített szolgálatot, aki nem sérült. 
+### 1.3 
+### Vasúti járművek sérülése 
+### Debrecenben a vonat első kocsija két forgóvázzal, a második egy forgóvázzal 
+kisiklott. A becsült járműkár a MÁV Zrt. vizsgálati jelentése alapján 870 eFt. 
+### Székesfehérváron a kisiklott 3355 930 5356-4 psz. teherkocsi kis mértékben 
+megrongálódott. 
+### 1.4 
+### Infrastruktúrában keletkezett kár 
+### Debrecenben a pálya, a váltó és váltóhajtómű megrongálódtak. A becsült kár a 
+MÁV Zrt. vizsgálati jelentése alapján a pályában 130 eFt, a biztosítóberendezésben 
+130 eFt. 
+### Székesfehérváron a 108. sz., helyszíni állítású váltó megrongálódott. 
+### 1.5 
+### Egyéb kár 
+Egyéb kér nem keletkezett, a kisiklott járművek a vasútvonalakon a közlekedést nem 
+akadályozták. 
+### 1.6 
+### Az érintett személyek adatai 
+## 1.6.1 
+### A vonatok mozdonyvezetői 
+|  | Debrecen | Székesfehérvár |
+| Hivatkozás: | mozdonyvezető db1 _ | mozdonyvezető sv _ |
+| Kora: | 40 év | 35 év |
+| Neme: | férfi | férfi |
+| Vonalismeret: | érvényes | érvényes |
+| Állomásismeret: | van | van |
+| Típusismeret: | érvényes | érvényes |
+
+## Página 10
+
+| Orvosi alkalmasság: | érvényes | érvényes |
+| Szolgálat megkezdése: | aznap 2 óra 45perc és 3 óra 45perc | aznap 16 óra 45perc |
+Mozdonyvezető_db1-nél a szolgálat megkezdésére vonatkozóan több forrás eltérő 
+adatokat tartalmaz. Az eltérésekkel az Elemzés fejezet foglalkozik. 
+### 1.7 
+### A vonatok jellemzői 
+|  | Debrecen | Székesfehérvár |
+| Vonatszám: | 64348 | 86905 |
+| Mozgástípus: | tehervonat | tehervonat |
+| Menetvonal tulajdonos: | DB Cargo Hungária Kft . | RCH Zrt . |
+| Mozdony: | 9855 0469 108 2 - | 9055 0431 279 3 - |
+| Útvonal: | Debrecen – Tócóvölgy | Székesfehérvár – Ferencváros |
+| Kocsik: | 5 db üres Uagps(933) | 16 db |
+| Hossz: | 91 m | 360 m |
+| Teljes tömeg: | 182 t | 540 t |
+| Tényleges fékhatás: | 78% | 86% |
+| Előírt fékhatás: | 28% | 54% |
+### 1.8 
+### Az infrastruktúra leírása 
+A vágány jellemzői: 
+|  | Debrecen | Székesfehérvár |
+| Á gyazat: | zúzottkő | zúzottkő |
+| Aljak: | a vágányon betonalj a , kitérőtalpfás | betonalj és talpfa |
+| Sínek: | 48kg/fm hézagnélküli , | 48kg/fm illesztéses , |
+| Megengedett sebesség: | 40km/h akitérőn , minden irányban 10km/h | 10km/h |
+## 1.8.1 
+### A székesfehérvári biztosítóberendezés naplója 
+A rögzített adatok két lényeges sora: 
+- 
+2017-02-14 18:55:49 MH1 SV KCS  cC V V0 
+- 
+2017-02-14 18:57:16 MH1 SV cC KO Vonatvágányút 
+### 1.9 
+### Állomási adatok 
+### Debrecen állomás a Budapest-Záhony fővonal jelentős csomópontja, rendező 
+állomása. Ide (vagy szomszédos állomásaihoz) kapcsolódnak a Füzesabonyba, 
+Tiszalökre, Mátészalkára, Nyírábrány országhatárra, Létavértesre (üzemen kívül) 
+és Nagykerekibe vezető fő- és mellékvonalak. Szomszédos állomása Tócóvölgy, az 
+onnan kiágazó iparvágányok egyikére indult volna a balesetben részes 64348 sz. 
+tehervonat. 
+
+## Página 11
+
+Az állomás aluljárós megközelítésű, magas peronos személyvonati vágányai (I-XI.) 
+mögötti vágánycsoport (XII-XIX.) XVII. vágányáról indult a 64348 sz. tehervonat is. 
+Az állomáson D70 biztosítóberendezés üzemel. 
+Az I-XIX. vágányok végpont felé emelkednek, 0,8 ezrelékben a 2219 szelvényig, 
+onnan tovább 2,3 ezrelékben. 
+### Székesfehérvár állomás a Közép-Dunántúl meghatározó vasúti csomópontja, a 
+Budapest-Nagykanizsa-Murakeresztúr-HR fővonalon. Itt és a szomszédos 
+állomáson ágazik ki ebből a Tapolcára és Zalaegerszegre/Szlovéniába vezető 
+fővonal is. 
+Az állomás aluljárós megközelítésű, magas peronos személyvonati vágányai (I-IX.) 
+mögötti vágánycsoport (X-XX.) van a tehervonatok fogadására, indítására 
+fenntartva, a balesetet szenvedett vonat az ezek mögötti rendező vágánycsoport 
+XXIII. vágányáról indult. Az állomáson Elektra 2 elektronikus biztosítóberendezés 
+üzemel, a XVI-XXVI. vágányok azonban már nincsenek a biztosítóberendezésbe 
+bekötve, az innen induló vonatok csoport kijárati jelző mellett haladnak el. 
+A XXIII. vágány 1,5 ezrelékben emelkedik végpont felé, megnevezése: „Futójavítás, 
+fővizsga, magánkocsik” 
+### 1.10 
+### A vasúti járművek adatrögzítői 
+### 1.10.1 2017-0033-5 esemény (Debrecen) 
+A mozdonyon Deuta ER24 adatrögzítő működött. A rögzített adatokkal kapcsolatos 
+fontosabb megállapítások: 
+- 
+09/01/2017 22:12:39 (6048,065 km) és 10/01/2017 3:06:16 (6048,07 km) 
+között nincs rögzített adat 
+- 
+10/01/2017 3:21:53 (6048,07 km) és 10/01/2017 3:22:41 (6048,195 km) 
+között mozgásra utaló adat van, legfeljebb 10 km/h-val 
+- 
+10/01/2017 3:22:57 (6048,2 km) és 10/01/2017 3:25:20 (6048,92 km) között 
+mozgás van, legfeljebb 34 km/h sebességgel 
+- 
+10/01/2017 4:00:40 (6048,92 km) és 10/01/2017 4:03:55 (6049,395 km) 
+között mozgásjel van, legfeljebb 13 km/h sebességgel 
+- 
+10/01/2017 4:21:50 (6049,395 km) és 10/01/2017 4:22:32 (6049,525 km) 
+között mozgásjel van, legfeljebb 13 km/h sebességgel. 
+### 1.10.2 2017-0214-5 esemény (Székesfehérvár) 
+A vonatot továbbító 9155 0431 279-3 mozdony MFB berendezésének rögzített 
+adataival kapcsolatos fontosabb megállapítások: 
+- 
+Megindulás: 17:33:04, megállás: 17:34:49 
+- 
+Álló helyzetben fővezeték nyomás változás: csökkenés kezdete: 18:31:14 
+feloldás vége: 18:35:05 
+- 
+Újabb megindulás: 18:56:23, utána a legnagyobb sebesség 18:56:57-nél 7,7 
+km/h (GPS), fékezés kezdete: 18:56:57, megállás: 18:57:01. 
+### 1.11 
+### Kommunikációs eszközök 
+A kommunikációs eszközöknek az eseményben nem volt szerepük. 
+
+## Página 12
+
+### 1.12 
+### Meteorológiai adatok 
+### Debrecenben már az esemény előtti napon is hideg, fagyos idő volt: a külvárosban 
+nappal sem emelkedett -5°C fölé a léghőmérséklet. Majd a megelőző este kiderült 
+az ég, és leállt a légmozgás is, így az esemény idejére -15°C-ra hűlt le a levegő; a 
+talaj mentén pedig pár fokkal még hidegebb feltételezhető. 
+Ugyanekkor a ködösödés még nem indult meg az orosz-síksági eredetű száraz 
+hidegben. Hó is csak foltokban volt ill. maradt egy korábbi, kisebb havazásból. 
+Maga a hideg a megelőző hét közepén hatolt be a Kárpát-medencébe, így annak 
+frontszerű élettani hatása már nem valószínű; ám a számértéke januárban sem 
+mindennapos, még ha nem is szélsőséges. 
+A fényviszonyok tekintetében közel telehold volt, és az esemény időpontjában még 
+épp fent volt a látóhatár felett, NyÉNy-i irányban. 
+Székesfehérváron az eset idején -3°C volt, 70 m látótávolsággal köd miatt, működő 
+térvilágítás mellett. 
+### 1.13 
+### A túlélés lehetősége 
+Az ilyen típusú balesetek általában kis rongálódással járnak és induló, azaz kis 
+sebességgel haladó tehervonatokra jellemzők. A kisikláskor a pályát elhagyó 
+járművek azonban érinthetik más vágányok űrszelvényét, veszélybe sodorva az ott, 
+nagyobb sebességgel közlekedő vonatokat. Személyszállító vonat esetén a kisiklott 
+személykocsikban utazók megsérülhetnek. 
+### 1.14 
+### Próbák és kísérletek 
+A vizsgálat során próbákra nem került sor. 
+### 1.15 
+### Érintett szervezetek / a munkaszervezés jellemzése 
+### 1.15.1 2017-0033-5 esemény (Debrecen) 
+A vasúti társaságtól 2017. júniusában kapott adatállomány alapján 
+- 
+mozdonyvezető_db1-nek a baleset napján 3:00-15:00 közöttre szólt a 
+beosztása, és 3:00-15:00 között teljesítette a munkaidőt. 
+- 
+a mozdonyvezető_db2-nek a baleset napján 3:00-7:00 közöttre szólt a 
+beosztása, és 3:00-7:00 között teljesítette a munkaidőt. 
+### 1.16 
+### Szabályok és szabályzatok 
+### 1.16.1 Szabálytalanság észlelése, feladat átruházása 
+A MÁV F.2. Utasítás 1.4.1 pontja (Felelősség) rendelkezik szabálytalan, veszélyes 
+helyzet észleléséről és tiltja a szolgálati feladat átruházását: 
+„Az a dolgozó, aki veszélyes helyzetet, cselekményt, balesetet, más rendkívüli eseményt, továbbá 
+szabálytalanságot, munkafegyelem sértést, ittasságot, szolgálatvégzésre alkalmatlan állapotot észlel 
+köteles a helyzet megszüntetése, a veszély elhárítása iránt intézkedni, közvetlen felettesének vagy 
+szolgálati főnökének haladéktalanul jelentést tenni.” 
+„[...] Szolgálatban lévő dolgozó saját munkáját — az átruházható teendők kivételével — mással nem 
+végeztetheti. 
+1.4.1.1. Az a dolgozó, aki nincs szolgálatban vagy más vasúti társasághoz, szolgálati ághoz tartozik, 
+veszélyelhárítás kivételével nem avatkozhat a szolgálatban lévők munkájába, és helyettük még 
+felkérésre sem végezhet munkát. [...]” 
+
+## Página 13
+
+### 1.16.2 Szolgálatátadás 
+A MÁV F.2. Forgalmi Utasítás 1.4.14. és 1.4.15. pontjai rendelkeznek a 
+szolgálatátadásról, az ÁVU (Sv) 2.4.1 pontja meghatározza a személyes váltásra 
+kötelezett munkaköröket, a 2.3.1 pedig a váltás utáni körzetbejárásról rendelkezik. 
+1.4.14. „Folytatólagos szolgálat esetén a szolgálatot az ÁVU-ban meghatározott munkakörökben 
+személyesen szóban és írásban kell átadni illetve átvenni. A szolgálatátadás-átvétel szövegének 
+tartalmaznia kell a szolgálatátadás-átvétel időpontját, továbbá a szolgálat zavartalan és biztonságos 
+folytatásához szükséges tudnivalókat. Közölni kell a már megtett intézkedéseket, és fel kell hívni a 
+figyelmet a még megteendő intézkedésekre. Írásban és ténylegesen át kell adni:— [...]— a 
+rögzítősaruk, biztonsági betétek, kulccsal lezárható kocsifogó alátétek darab- és sorszámát, 
+felhasználási helyét, ha azok felhasználásra kerültek.[...]” 
+1.4.15. „[...] Szolgálat szünetelés esetén a szolgálatot csak írásban kell átadni illetve átvenni.” 
+ÁVU (Sv) 2.4.1 „Az alábbi munkakörökben személyesen, szóban és írásban kell a szolgálatot átadni:- 
+térfőnök,[...]- II/a őrhely külső forgalmi szolgálattevő vagy váltókezelő.” 
+ÁVU (Sv) 2.3.1 „II/a őrhely külső forgalmi szolgálattevője vagy váltókezelője: Szolgálatátvétel után, de 
+legkésőbb egy órán belül körzetbejárást köteles tartani melynek keretében a helyszínen köteles 
+tájékozódni az állomás kezdőponti oldalán X–XXVI. sz. vágányok vágány- és kocsihelyzetéről, a II/a 
+őrhely körzetéhez tartozó váltók használhatóságáról, valamint a rögzítősaruk helyéről. A körzetbejárás 
+tényét az II/a őrhelyen vezetett fejrovatos előjegyzési naplóban köteles előjegyezni. [...]” 
+### 1.16.3 Tevékenységek az RCH vonatainál 
+A MÁV Zrt. 11436/2016/MÁV ügyirat alapján 
+A vonat át-, és felvételt végzők munkaköre (külső): árukezelő, kocsivizsgáló, állomási operatív 
+koordinátor 
+Okmány és írásbeli rendelkezés kézbesítését végzők munkaköre: 
+- 
+Fuvarlevél: árukezelő kocsivizsgáló, állomási operatív koordinátor; 
+- 
+Írásbeli rendelkezés: térfőnök vagy külső forgalmi szolgálattevő 
+### 1.16.4 Járműkapcsolás ellenőrzése 
+A MÁV F.2. Utasítás 7.11 pontja rendelkezik a járműkapcsolás ellenőrzéséről 
+„7.11. Mozdony más járművel történő összekapcsolása után a mozdonyvezető köteles a kapcsolás 
+szabályszerűségét ellenőrizni.” 
+### 1.16.5 Védekezés a járműmegfutamodások ellen 
+A MÁV F.2. Utasítás 5.5.1 (Felelősség a megfutamodás elleni biztosításért) és 5.2.1 
+(Védekezés a tolatás befejezése után) pontjai a járműmegfutamodás elleni 
+védekezésről az alábbiak szerint rendelkeznek: 
+„A megfutamodás elleni biztosításért az a munkavállaló felelős, aki a sűrített levegő utántáplálást 
+megszüntette. Ez a vontatójárművet lekapcsoló munkavállaló vagy a sűrített levegő utántáplálást 
+megszüntető mozdonyvezető (nem személyes váltás esetén).” 
+„a vágányokon legfeljebb 2,5‰-es esésig a járművet illetve járműveket rögzítősaruval az alábbiak 
+szerint kell megfutamodás ellen biztosítani: 
+[...] a járműcsoport kerekei alá a szabad ütközők felőli oldalon 1-1 db rögzítősarut kell elhelyezni (7. 
+ábra)” 
+7. ábra 
+
+## Página 14
+
+### 1.16.6 Rögzítősaru eltávolítása 
+A MÁV F.2. Utasítás 7.3 pontja (Kapcsolás csavarkapoccsal) meghatározza, hogy: 
+„[...] Az álló helyzetű járművek illetve járműcsoportok összekapcsolása után a rögzítősarut (sarukat) 
+haladéktalanul el kell távolítani a vágányról. [...]” 
+A 7.10.4 pont (Kapcsolásra kötelezett dolgozók) pedig: 
+„A kapcsolást végző dolgozó köteles — a mozdonynak a vonatra (tolatóegységre) történő kapcsolását 
+követően — eltávolítani a megfutamodás elleni eszközöket, valamint feloldani a kézi- illetve 
+rögzítőfékeket. A vonat végéről a megfutamodás elleni eszközöket eltávolítani, valamint a kézi- illetve 
+rögzítőfékeket feloldani a zárjelző tárcsát elhelyező dolgozó köteles.” 
+Az ÁVU-nak a 2.47.2 pontja rendelkezik a rögzítősaru eltávolításáról. 
+### Debrecenben 
+„A rögzítősaru elhelyezéséért, eltávolításáért a tolatószemélyzet a felelős.” 
+### Székesfehérváron 
+A rögzítősaruk előírás szerinti elhelyezéséért a gépet leakasztó vagy a sűrített levegő utántáplálását 
+megszüntető dolgozó a felelős. 
+A rögzítősaruk eltávolításáért a vonat előkészítését végző, vagy a tolatást vezető dolgozó a felelős. 
+1.16.7 A rögzítősaruk tárolási helye, darab- és sorszáma, kiadásának, 
+visszavételének helyi szabályozása 
+Az ÁVU-k 2.47.1 pontja szabályozza a címbeli kérdéseket. 
+### Debrecenben az alábbiak szerint: 
+| Tárolásihely „ | Mennyisége(db) | Jelölése |
+| I szolgálatihely sarutároló . , láda | 15 | I/1 I/2 I/3 I/15 , , , … |
+| III szolgálatihely sarutároló . , állvány | 20 | III/1 III/2 III/3 III/20 , , , … |
+| Alsóforgalmiiroda , pihenőhelyiség | 2 | A/1 A/2 , |
+| Belső -fatér sarutároló , | 25 | B/1 B/2 B/3 B/25 , , , …- |
+Az I. és III. szolgálati helyen, valamint az alsóforgalmi irodában lévő rögzítő saruk kiadását és 
+visszavételét a tárolási hely Fejrovatos előjegyzési naplójának következő sorában időponttal és a 
+rögzítő saru sorszámával kell előjegyezni, amit az átadónak és az átvevőnek alá kell írni.  
+A Belső-fatéren található rögzítő saruk nem kerülnek külön kiadásra. A sarutároló lakata a Salétrom 
+utca felőli kapu zárására szolgáló lakat kulcsával nyitható. A rögzítő saruk vágányra helyezését vagy 
+eltávolítását végző munkavállaló köteles térhangoson vagy tolatási rádión jelenteni a II. sz. 
+asztalkezelő forgalmi szolgálattevőnek a rögzítősaru vágányra helyezését vagy eltávolítását a saru 
+sorszáma és a vágány megnevezésével. A jelentés alapján a rögzítősaru használatot a ÍI. sz. 
+asztalkezelő forgalmi szolgálattevő a felügyelete alatt lévő Sarunyilvántartó könyvben köteles 
+előjegyezni. Az előjegyzést aláírni nem kell, mivel a jelentés hangrögzítésre kerül.” 
+### Székesfehérváron az alábbiak szerint: 
+„II/a őrhely készlete összesen 12 db: 
+• 
+1-12 sorszámúak, melyek a X-XXVI sz. vágányok kezdőponti oldalán, valamint a IX/A vágány 
+mindkét oldalán lehetséges felhasználni 
+I/a őrhely készlete összesen 12 db: 
+• 
+13-24 sorszámúak, melyek a X-XXVI sz. vágányok végponti oldalán, valamint az Fk vágány 
+mindkét oldalán lehetséges felhasználni. 
+[…]” 
+
+## Página 15
+
+### 1.16.8 Indulásra kész állapot 
+Külön megállapodás szabályozza a vasútvállalati megrendelések teljesítésével 
+kapcsolatos technológiai folyamatok lebonyolítását a DB Schenker Rail Hungária 
+Kft. vasútvállalat és Forgalmi Csomóponti Főnökség Debrecen között: 
+„III. Vonat előkészítés befejezése (a vonat indulásra kész állapotának jelentése) 
+a vállalkozó vasúti társaságok által elvégzett vonat előkészítési tevékenység befejezéséről (a vonat 
+indulásra kész állapotáról) történő értesítés: 
+A vonatok indulásra kész jelentését a rendelkezésre álló eszközök és humánerőforrás 
+figyelembevételével a következők szerint kell végrehajtani: 
+1. 
+a vasútvállalat nyilatkozattételre jogosult munkavállalója a helyszínen (a forgalmi irodában, 
+Debrecen állomáson a III. sz. szolgálati helyen, vagy a felsőforgalmi irodában) a Fejrovatos 
+előjegyzési napló következő sorába bejegyzi a következő szöveget: [...] 
+2. 
+A vasútvállalat a vonat indulásra kész jelentést az Integrált Ügyfélkapcsolati Alrendszerben (IÜR) 
+is megteheti. [...]” 
+További 13 hasonló megállapodást is megvizsgált a Vb, közülük még 11 esetben a 
+tartalom a fentivel megegyező, két esetben különbözőképpen eltérő. 
+Az ÁVU (Db) 5.4 pontja (A vonatok készre jelentésével kapcsolatos helyi 
+szabályozás) szintén szabályozza ezt a tevékenységet: 
+„Valamennyi más vasútvállalat [a MÁV-Start és az RCH kivételével - a Vb] a vonatainak indulásra 
+készre jelentését az alábbiak szerint végezheti: 
+a) 
+A vasútvállalat nyilatkozattételre jogosult munkavállalója a III. sz. szolgálati helyen, vagy a 
+felsőforgalmi irodában a Fejrovatos előjegyzési napló következő sorába bejegyzi a következő 
+szöveget: [...] 
+b) 
+- A vasútvállalatok a vonatuk Indulásra készre jelentését az Integrált Ügyfélkapcsolati 
+Alrendszerben (IÜR) is megtehetik. [...]” 
+### 1.16.9 Rendelkezések közlése a vonatszemélyzettel 
+### 1.16.9.1 Általános szabályozás 
+A MÁV F.2. Forgalmi Utasítás 15.16.1.1. pontja határozza meg az írásbeli 
+rendelkezések kézbesítését. 
+„Írásbeli rendelkezést a forgalmi szolgálattevő köteles kiállítani és kézbesíteni. 
+A forgalmi szolgálattevő az Írásbeli rendelkezés kiállítására és kézbesítésére utasíthatja: 
+a) 
+a külső forgalmi szolgálattevőt, 
+b) 
+ a távkezelt, távvezérelt, KÖFI szolgálati helyeken a jelenlétes forgalmi szolgálattevőt, 
+úgy, hogy a Fejrovatos előjegyzési naplójába beírt rendelkezés szövegét részükre lediktálja. […]” 
+### 1.16.9.2 Helyi szabályozás Székesfehérváron 
+Az ÁVU (Sv) 2.53.1 pontja meghatározza a rendelkezések közlésének módját a 
+vonatszemélyzettel 
+„[...] A térfőnök rendelkezik a Külső forgalmi iroda külső forgalmi szolgálattevője (naplózó) felé 
+valamennyi tehervonat Írásbeli rendelkezéseinek elkészítéséről, és a kézbesítés módjáról. Az írásbeli 
+rendelkezések kézbesítését a térfőnök személyesen (I-XX.) vagy a Külső forgalmi iroda külső forgalmi 
+szolgálattevői (külsős I-II) (I-IX. vg.), vagy az I/a (X-XV. vg.) vagy a II/a őrhelyek (X-XX. vg.) külső 
+forgalmi szolgálattevőinek bevonásával végezheti.” 
+### 1.16.10 A vágányút beállítása 
+A MÁV F.2. Utasítás 2.7.3 pontja előírja, hogy: 
+2.7.3. A vágányút beállításának elrendelése után:  
+
+## Página 16
+
+[…] 
+b) a 2.7.4. pontban foglaltak szerint meg kell vizsgálni, hogy a kijelölt vágányút szabad-e, a sarukat 
+(féksaru, rögzítősaru) a vágányról eltávolították-e, […] 
+A hivatkozott 2.7.4 pont nem tartalmaz a sarukkal kapcsolatos rendelkezést. 
+## 1.16.10.1 
+### Helyi szabályozás Debrecenben 
+Az ÁVU (Db) 2.21 pontja alapján a vágányutat ténylegesen áttekinteni nem kell. 
+A biztosítóberendezés jól működik: 
+A főrendelkező I., továbbá az I. és II. sz. asztalkezelő forgalmi szolgálattevő ténylegesen nem köteles 
+áttekinteni a vágány utakat. Az ellenőrzés a biztosítóberendezés fényeinek kiértékelésével történik […] 
+## 1.16.10.2 
+### Helyi szabályozás Székesfehérváron 
+Az ÁVU (Sv) 2.21 pontja alapján a vágányutat a II/a őrhely külső forgalmi 
+szolgálattevője vagy váltókezelője köteles ellenőrizni. 
+[…] A XVI-XX. sz. vágányokon közlekedő vonatok esetén a vágányút ellenőrzését a II/a őrhely külső 
+forgalmi szolgálattevője vagy váltókezelője köteles elvégezni, és annak megtörténtét és eredményét 
+vágányút beállításának bejelentésével hozza a főrendelkező tudomására. 
+### 1.16.11 Feladatok Székesfehérváron 
+## 1.16.11.1 
+### Térfőnök 
+Az ÁVU (Sv) 2.5 pontja rendelkezik a Térfőnök feladatairól 
+„A forgalmi csomóponti főnökség vezető és az állomásfőnök távollétében az állomás rendelkezésre és 
+intézkedésre jogosult vezetője. [...] Szolgálatátvételt követően 1 órán belül körzetbejárást tart a X-
+XXVI. sz. vágányig, melynek során tájékozódik a vágányok kocsihelyzetéről. A körzetbejárás tényét a 
+II/a őrhely fejrovatos előjegyzési naplójában jegyzi elő. 
+A térfőnök rendelkezik a Külső forgalmi iroda külső forgalmi szolgálattevője (naplózó) felé valamennyi 
+tehervonat Írásbeli rendelkezéseinek elkészítéséről, és a kézbesítés módjáról. Az írásbeli 
+rendelkezések kézbesítését a térfőnök személyesen (I-XX.) vagy a Külső forgalmi iroda külső forgalmi 
+szolgálattevői (külsős I-II) (I-IX. vg.), vagy az I/a (X-XV. vg.) vagy a II/a őrhelyek (X-XX. vg.) külső 
+forgalmi szolgálattevőinek bevonásával végezheti. Rendkívüli esetben, a külsős I-II külső forgalmi 
+szolgálattevők is kézbesíthetik a X-XX. vágányon tartózkodó vonatok számára az Írásbeli rendelkezést 
+amennyiben a személypályaudvaron nincs fontosabb forgalmi tevékenységük.” 
+## 1.16.11.2 
+### II/a őrhely külső forgalmi szolgálattevő 
+Az ÁVU (Sv) 2.5 pontja rendelkezik a II/a őrhely külső forgalmi szolgálattevő 
+feladatairól 
+„Felügyelete alatt tartja — a 2.47 pontban szabályozott módon — az őrhelyre rendszeresített rögzítő 
+sarukat, valamint gondoskodik azok kiadásáról, visszavételéről és nyilvántartásáról. 
+A Külső forgalmi iroda külső forgalmi szolgálattevőjének (naplózó) felkérésére a II/a őrhely külső 
+forgalmi szolgálattevője esetről-esetre végzi a X-XX. sz. vágányokon közlekedő valamennyi vonat 
+részére az Írásbeli rendelkezés kézbesítését.” 
+## 1.16.11.3 
+### II/a őrhely külső váltókezelője 
+Az ÁVU (Sv) 2.5 pontja rendelkezik a II/a őrhely váltókezelőjének feladatairól 
+„Felügyelete alatt tartja — a 2.47 pontban szabályozott módon — az őrhelyre rendszeresített rögzítő 
+sarukat, valamint gondoskodik azok kiadásáról, visszavételéről és nyilvántartásáról.” 
+
+## Página 17
+
+### 1.17 
+### Kiegészítő adatok 
+### 1.17.1 Naplók 
+### 1.17.1.1 Debrecen, III-as őrhely forgalmi napló 
+Naplóbejegyzés január 9-én 15:00-kor: " T17-re III/17 rögzítősaru SZOLNOK 
+FELŐL felhelyezve nincs rajta kézifék Aláírás" 
+Naplóbejegyzés január 9-én 23:55-kor: " I 64550 23:55 T17-ről kijár Aláírás" 
+naplóbejegyzés január 10-én 0:45-kor: „Időjárás Derült szélcsendes -12°C Aláírás 
+Távolbalátás nem korlátozott Aláírás” 
+Több naplóbejegyzés van még január 10-én a balesetig, ezek tartalma: váltók 
+ellenőrzése, 3 vonatmozgás, majd az eset után 5:50-kor saruvisszavétel, 6:05 és 
+6:10-kor saru felhelyezések. 
+### 1.17.1.2 Székesfehérvár, Helyzetjegyzék 
+A 2017.02.14. 6:45-18:45 közti időszakot mutató helyzetjegyzék szerint a XXIII. 
+vágány kb. 15:30-tól volt foglalt 86905 vonatszámmal. 
+### 1.17.1.3 Székesfehérvár, II/a őrhely naplója 
+A napló tartalmazza a következő bejegyzést: „Szolgálatátadás 2017.02.14. 16:??-
+kor [váltókezelő neve] váltókezelő úr részére [...] Saruk [olvashatatlan] 1-9-ig. 
+Rendezőn XXI-3, XXII-12, XXIII-10, XVIII-11.” 
+### 1.17.2 Hangrögzítők 
+### 1.17.2.1 Debrecen, rendelkező 
+A hangfelvétel a megjelölt időpontokban kezdve a következőket tartalmazza: 
+- 
+4:11:15, benne 50 mp-től: „17-ről majd tudnék indulni ha van hely” 
+- 
+4:23:01, benne feltételes engedélykérés a 64348 sz. vonatnak (egy 
+segélymenet beérkezése utánra) 
+- 
+4:27:10, benne: a mozdonyvezető_db1 bejelenti a kisiklást, a rendelkező 
+érvényteleníti az engedélyt Tócóvölgynél. 
+### 1.17.2.2 Székesfehérvár, digitális hangrögzítő 
+- 
+18:51:10, 
+benne 
+vágányútbeállítás 
+elrendelése 
+nem 
+utasításszerű 
+szöveggel 
+### 1.17.2.3 Székesfehérvár, menesztői hangrögzítő 
+- 
+18:54:56, a térfőnök_sv2 jelzi, hogy a vonat mellett tartózkodik 
+- 
+18:57:06, a térfőnök_sv2 bejelenti a kisiklást, kéri a kijárati jelző 
+visszavételét. 
+### 1.17.3 Elmondások 
+Az elmondások pontos tartalma nem tehető közzé, annak lényeges elemeit a Vb a 
+következőkben foglalja össze. 
+
+## Página 18
+
+### 1.17.3.1 Mozdonyvezető_db1 
+- 
+3 óra 45 perckor kezdte meg a szolgálatát a mozdony beüzemelésével; 
+- 
+az állomásirányítótól kért engedély nyomán tolatásjelzővel szabályozva 
+rájárt a szerelvényre, majd saját maga rá is kapcsolta a mozdonyt; 
+- 
+mozdonyvezető_db2-vel megfékpróbázták a vonatot, mozdonyvezető_db2 
+kezelte a fékezőszelepet, mozdonyvezető_db1 pedig vizsgálta a féket; 
+- 
+A vonat mellett haladva nem talált semmi rendkívülit, sem a sarut; noha 
+éjszakai sötétség volt, és kocsisor is volt a vizsgált szerelvény mellett, lámpa 
+azonban volt nála; 
+- 
+ezután bement az útiokmányokért, és közölte az állomásirányítással, hogy 
+készen van mindennel; 
+- 
+előrehúzott a vonattal a kijárati jelzőig, ezalatt sem észlelt vontatási 
+nehézséget; 
+- 
+Tudomása szerint egy saru szokott a vonat alatt lenni, amit neki nem is 
+szabad eltávolítania, mert ezzel a pályavasút van megbízva, akik ezt írásban 
+regisztrálják is. Ő maga nem is szokott sarut eltávolítani, ha mégis, akkor 
+arról szól. 
+- 
+Úgy tudja, hogy a sarukat erre szolgáló betontömbökön tárolják. 
+- 
+A vonatoknak mindig a végpont felőli végét szokták biztosítani, ha sarut 
+használnak, 
+mozdonyvezető_db1 
+még 
+nem 
+találkozott 
+ilyennel 
+Debrecenben, hogy a kezdőpont felőli vége lenne biztosítva. 
+### 1.17.4 Mozdonyvezető_db2 
+- 
+Mozdonyvezető_db1 kérte, hogy a fékpróba során csak a fékezőszelep 
+kezelést végezze (ezt írott eseménylap is rögzíti); 
+### 1.17.5 Mozdonyvezető_sv 
+- 
+16 óra 45 perckor jelentkezett szolgálatba, a járművet a fűtőházból hozta ki; 
+kb. 17:20-17:30-kor járt rá a szerelvényre 
+- 
+A szerelvény előtt megállt, kocsivizsgáló_sv a mozdonyt ráakasztotta az első 
+kocsira, és elindult felírni a vonatba sorozott járműveket. 
+- 
+A kocsivizsgáló_sv visszajött a vonat másik felén, elment az irodába, majd 
+visszatérve átadta a menetokmányokat, írásbeli rendelkezést. 
+- 
+Utána 18:31-től 18:45-ig megtörtént a fékpróba, majd mobiltelefonon szólt a 
+főrendelkezőnek, hogy a vonat indulásra kész. 
+- 
+A fékpróbát követően a mozdony és az első kocsi közti kapcsolatot 
+ellenőrizte, rendben találta. 
+- 
+Amikor a térfőnök_sv2 és a II/a őrhelyen szolgálatot teljesítő váltókezelő_sv 
+kimentek a vonathoz, a térfőnök_sv2 menesztésére elindult a vonattal 18:50 
+körül. 
+- 
+A vonattal kb. 10 km/h-ra gyorsított. 
+- 
+Megközelítőleg amikor a mozdony túlment a váltón, akkor mind a ketten 
+Megállj! jelzést adtak, mozdonyvezető_sv gyorsfékezett. 
+
+## Página 19
+
+### 1.17.6 Külső forgalmi szolgálattevő_sv 
+- 
+Amikor az induló vonatgép jelentkezett a vonatra, nem tartózkodott a 
+szolgálati helyén, a rendelkező_sv szólt neki a mozdony érkezéséről. Ezután 
+a felvételi épületből visszaindult az őrhelyre, közben beállította a váltókat a 
+XXIII. vágányra vezető állásba. 
+### 1.17.7 Térfőnök_sv1 
+- 
+Kb. 16 órakor lett készen a XXIII. sz. vágányon a 86905 sz. vonat elegye 
+- 
+17 óra 03 perckor érkezett a megrendelés az RCH-tól, hogy a korábban 
+félreállított kocsit még sorozzák be a 86905 sz. vonatba. 
+- 
+A tolatási mozgás lebonyolítását a tolatásvezető_sv és a Térfőnök_sv1 
+végezte. A rögzítősarut a tolatásvezető_sv helyezte a kocsisor alá. A 
+tartalékmozdony a XXIII. sz. vágányról átállt a XXI. sz. vágányra. 
+- 
+Később kocsivizsgáló_sv telefonon közölte vele, hogy a vonat mellett van, 
+és ráakasztja a mozdonyt. A beszélgetés során a saruk helyére nem tértek 
+ki külön. 
+- 
+A kocsivizsgáló általi gépakasztás nem egyedi eset volt, alkalomszerűen, 
+egymás munkájának segítése miatt előfordul az állomáson. Esetenként az 
+is előfordul, hogy a rögzítősaru kint marad, s ilyenkor a váltókezelő utólag 
+viszi be a szolgálati helyiségbe. 
+- 
+Azzal, hogy a XXIII. sz. vágány mellékvágány tisztában voltak, célszerűségi 
+okból (a legkevesebb mozgással) lett a vonat a XXIII. vágányra összeállítva 
+és onnan indítva. 
+- 
+Az írásbeli rendelkezés szintén célszerűségi okból lett a kocsivizsgálóval 
+kézbesíttetve. 
+### 1.17.8 Térfőnök_sv2 
+- 
+A szolgálata 18 óra 45 perckor kezdődött. 
+- 
+18 óra 45 perckor a 86905 sz. vonatot a menetvonal tulajdonosa az 
+informatikai rendszeren keresztül készre jelentette. 
+- 
+Közölte a főrendelkezővel, hogy a vonat indulásra kész, majd a XXIII. 
+vágányhoz ment. 
+- 
+Amikor kiért a helyszínre, bejelentette rádión a főrendelkezőnél, s a csoport 
+kijárati jelző kezelése után felhatalmazták a vonat indítására. A vonat 
+felhatalmazását a biztonsági határjelző és a 108 váltó közötti szakaszról a 
+vonat menetirányát tekintve jobb oldalról végezte, kb. húsz méterre a 
+mozdonytól. 
+### 1.17.9 Váltókezelő_sv 
+- 
+18 óra 45 perckor vette át a szolgálatot. A szolgálatváltás nem személyesen 
+történt, mert a nappalos kolléga addigra már elment. 
+- 
+Egy-két perce volt szolgálatban, amikor a térfőnök elrendelte a vágányút 
+beállítását a XXIII. vágányra, a vonat felé haladva meggyőződött a váltók 
+állásáról, azok helyesen álltak, nem kellett állítani őket. 
+- 
+A mozdony mellett találkozott a vonat indításához érkező térfőnök_sv2-vel. 
+Közölte vele, hogy a váltók helyesen állnak, aki ezután rádiózott, majd 
+
+## Página 20
+
+miután a kijárati jelzőn megjelent a továbbhaladást engedélyező jelzési kép, 
+a térfőnök_sv2 felhatalmazta a vonatot indításra. 
+- 
+A vonat megindulása után térfőnök_sv2-vel együtt furcsa zajra lettek 
+figyelmesek, a mozdonyvezető_sv felé Megállj jelzést adtak egy fehér fényű 
+lámpával. A vonat ezután megállt, de az első kocsi a 108 sz. váltón kisiklott. 
+- 
+A szolgálatba való érkezés és a vágányút beállítása között rövid idő telt el, 
+ezalatt a szolgálatátadás szövegét nem olvasta el, nem volt tudomása arról, 
+hogy a XXIII. vágányon rögzítősaru van, azt a vonat indulása előtt a 
+vágányon nem is keresték, mert abban a tudatban volt, az esetlegesen ott 
+lévő sarut már korábban eltávolították. 
+### 1.17.10 Kocsivizsgáló_sv 
+- 
+A 86905 sz. vonat elegyének összeállítására a délelőtti órákban került sor. 
+A XXIII. vágányon álló Ferencváros rendeltetésű kocsikra lett rátolva a XXVI. 
+vágányon lévő 9 kocsi. 
+- 
+A délutáni órákban derült ki, hogy a vonattal még egy kocsi továbbítva lesz 
+a XXVI. sz. vágányról. A kocsi átállítására az állomási tartalékmozdonnyal 
+(M62) került sor, a kocsivizsgáló_sv ekkor nem volt ott (másik állomáson 
+volt), de információi szerint a tolatási mozgást a térfőnök_sv vezette. 
+- 
+16 óra 50 perckor érkezett vissza Székesfehérvárra. 
+- 
+A mozdony ráakasztása után megkezdte a vonat induló műszaki vizsgálatát 
+és elvégezte a vonatfelvételt is. 
+- 
+Ezután a szolgálati helyiségbe visszament: a vonat okmányait, valamint az 
+írásbeli rendelkezést – mely kézbesítésre elő volt készítve – kivitte a 
+vonathoz. 
+- 
+Ezután elvégezte a vonat T fékpróbáját. A fékpróba elvégzése után (18:45-
+kor) készre jelentette a vonatot a koordinátornak mobiltelefonon. 
+- 
+A szabályok szerint Székesfehérváron gépakasztást a kocsivizsgáló nem 
+végez, azonban más helyeken (pl. Pétfürdő, Szabadbattyán) előfordul, s ott 
+a rögzítősarukat, illetve a lezárható kocsifogó alátéteket is ők kezelik. 
+- 
+A vonat vizsgálata során, illetve a fékpróba elvégzésekor nem lett figyelmes 
+arra, hogy a 86905 sz. vonat alatt saru van. 
+### 1.17.11 Megtett intézkedések 
+Az esemény után azzal összefüggésben Debrecenben két parancskönyvi 
+rendelkezés lett kiadva: 
+2. parancskönyvi rendelkezés (kiadva: 2017. január 10.) 
+Felhívja a figyelmet az ÁVU (Db) 2.47.1, 2.47.2 és 5.4 pontjának betartására. 
+6. parancskönyvi rendelkezés (kiadva: 2017. február 6.) 
+ÁVU (Db) 2.47.1 fejezete kiegészült: „A rögzítősaruk kiadását, visszavételét, 
+vágányra helyezését, vágányról való eltávolítását a rögzítősaruk felügyeletével 
+megbízott váltókezelő vagy külső forgalmi szolgálattevő azonnal köteles telefonon 
+vagy térhangoson jelenteni az érintett asztalkezelő forgalmi szolgálattevőnek, aki 
+ezt köteles visszaismételni és nyugtázni. Ezt követően a biztosítóberendezés 
+kezelőpultján az adott vágány kijárati jelzőjének nyomógombjára vagy a 
+tolatóvágányút kezdő nyomógombjára a rögzítősarut szimbolizáló, a nyomógomb 
+benyomását megakadályozó védőkupakot köteles elhelyezni vagy eltávolítani. [...]” 
+
+## Página 21
+
+### 1.18 
+### Korábbi hasonló esemény 
+Hasonló eseményt a KBSZ korábban több alkalommal is vizsgált, néhány fontosabb 
+esemény összefoglalása az alábbiakban: 
+### 1.18.1 2006. augusztus 6. Komárom (2006-0048-5) 
+Az 5 óra 55 perckor a pályaudvar XVI. vágányáról kijáró tehervonat első két 
+teherkocsija kisiklott a 428 számú kitérő keresztezési részén. 
+A vizsgálat megállapította, hogy a vasúti balesetet a vonat első kocsijának első 
+kerékpárja alatt felejtett, megfutamodás elleni biztosításként alkalmazott féksaru 
+okozta. 
+A KBSZ biztonsági ajánlásban javasolta olyan eszköz, jelzés bevezetését, amely az 
+adott kocsinál a rögzítősaru alkalmazását egyértelműen és távolról is észrevehetővé 
+teszi. 
+### 1.18.2 2011. augusztus 29. Debrecen (2011-0425-5) 
+9 óra 38 perckor a XIV. sz. vágányról kijáró 45481-2 sz. tehervonatba közvetlenül a 
+vontatójármű után sorozott első két kocsi a 73/b jelű kitérő keresztezési középrész 
+csúcsbetétjén kisiklott. 
+Az esemény bekövetkezését az okozta, hogy az 48451-2 sz. vonat előkészítésekor 
+a vágányon álló kocsisor alól a megfutamodás elleni biztosításul használt féksarut 
+nem távolították el, s ez a féksaru a vonat kihaladása során a 73/b jelű kitérőn a 
+vasúti járművek kisiklását eredményezte. 
+Az eset vizsgálata során a Vb figyelembe vett több korábban bekövetkezett 
+eseményt, melynek vizsgálata során arra a következtetésre jutott, hogy az esethez 
+közvetlenül hozzájáruló okok hasonlóak. Az alkalmazott rögzítősaruk tárgyában a 
+Vb biztonsági ajánlást adott ki a rögzítősaruk észrevehetőségének javítására. 
+### 1.18.3 2015. július 7. Kecskemét (2015-0674-5) 
+2 óra 10 perckor az állomás X. sz. vágányáról lezárt vágányúton, körülbelül 10 km/h 
+sebességgel kihaladó tehervonat első és második kocsija az állomás 28. sz. váltóján 
+kisiklott. A Vb a kisiklás okaként a vonat kereke alatt hagyott rögzítősarut határozta 
+meg. 
+A balesettel kapcsolatban a Vb biztonsági ajánlás kiadását nem javasolta, de a 
+2006-0048-5 esemény vizsgálata során kiadott biztonsági ajánlás végrehajtását 
+továbbra is szükségesnek tartotta.
+
+## Página 22
+
+### 2. 
+### ELEMZÉS 
+### 2.1 
+### Az esemény tényleges lefolyása Debrecenben 
+Az 1. fejezetben rögzített tényadatokból, azok összefüggéseit, számításokat 
+felhasználva az esemény tényleges lefolyása a következők szerint állítható össze. 
+Az időadatok a valós időt (a regisztráló berendezések arra átszámított idejét) 
+mutatják. 
+## 2.1.1 
+### Az esemény előtti történések 
+## 2017.01.09. 
+## 15:00 
+A kocsik megérkeztek a XVII. vágányra, rögzítősarut tettek a szerelvény alá a 
+kezdőpont felőli végén. (1.17.1.1) 
+## 23:55 
+A XVII. vágány végpont felőli végéről tehervonat kihalad. (1.17.1.1) 
+## 2.1.2 
+### Az esemény lefolyása 
+## 3:11 
+Mozdonyvezető_db1 megkezdte a szolgálatát, 3 óra után kevéssel 
+beüzemelte a mozdonyt. 
+A mozdonyvezető 3 óra 45 percben jelölte meg a szolgálatának megkezdését 
+(1.17.3.1). Mivel később igazolható, hogy az adatrögzítő (1.10.1) pontatlansága kb. 5 
+perc (amely 3 óra 6 perccel regisztrálta a mozdony üzembe helyezését), ezért ez az 
+időadat téves. A vasúti társaságtól kapott munkaidő-adatok (1.15.1) is a korábbi, 3 óra 
+körüli kezdést támasztják alá. 
+## 3:26-3:30 
+Az állomásirányítótól kért engedély nyomán tolatásjelzők jelzésére a mozdony 
+két mozgással rájárt a szerelvényre. 
+Mozdonyvezető_db1 elmondásán (1.17.3.1) túl az adatrögzítő jelei (1.10.1) is két 
+mozgást tárolnak, egy 125 m hosszút legfeljebb 10 km/h-val és egy 720 m hosszút 
+legfeljebb 34 km/h-val, ami megfelel a rájáráshoz szükséges mozgásnak. 
+Mozdonyvezető_db1 összeakasztotta a mozdonyt a szerelvénnyel (1.17.3.1), a 
+rögzítősarut azonban nem vette ki. 
+## 3:25-4:00 
+Sor került a fékpróbára mozdonyvezető_db1 és a – kizárólag ebből a célból 
+megjelent – mozdonyvezető_db2 együttműködésével. 
+Mozdonyvezető_db1 (1.17.3.1) és mozdonyvezető_db2 (1.17.4) egybehangzóan 
+nyilatkozták, hogy fékpróbát végeztek. 
+Az adatrögzítő (1.10.1) alapján erre 3:25 és 4:00 között volt lehetőség, tehát a 
+mozdonyvezető_db2 által megjelölt, illetve a vonat bizonylataira írt 4:00-4:25 adat nem 
+felel meg a valóságnak, még akkor sem, ha a fékpróbát a későbbi előrehúzás után 
+végezték volna el. 
+Az előrehúzás után csak 18 percet állt a vonat, de figyelemmel a készre jelentés és 
+engedélykérés idejére, előrehúzás után legkésőbb 7 perccel megtörtént a készre 
+jelentés. 
+A vasúti társaságtól kapott munkaidő-adatok (1.15.1) is a korábbi kezdést támasztják 
+alá. 
+A fékpróba során szintén nem észlelték a rögzítősarut. 
+A baleset megtörténte alapján és az esemény utáni elmondások szerint a sarut nem 
+észlelték (1.17.3.1). 
+Mozdonyvezető_db1 ezután elment az okmányokért, és jelezte, hogy vonatával 
+indulásra kész (1.17.3.1). 
+## 4:05-4:08 
+Mozdonyvezető_db1 a vonattal elindult a kijárati jelzőig. Ettől kezdve a 
+rögzítősaru a kerék alatt maradva csúszott a sínen. 
+Az adatrögzítő alapján legfeljebb 13 km/h sebességgel haladt a vonat 475 métert 
+(1.10.1, 1.17.3.1). A vonat indulásának helyétől a kisiklás helyéig azonosítható volt a 
+sínen a csúszó saru nyoma (5. ábra). 
+
+## Página 23
+
+## 4:12 
+A vonatot mozdonyvezető_db1 telefonon készre jelentette a rendelkezőnek. 
+Mozdonyvezető_db1 állomásirányítást mondott, ami állomásirányítónak is érthető 
+lenne, de hangfelvétel igazolja, hogy az rendelkezőnek jelentette (1.17.3.1, 1.17.2.1). 
+## 4:23 
+A rendelkező engedélyt kért a vonat számára Tócóvölgy állomástól (1.17.2.1) 
+## 4:26 
+Jelzőkezelés után a vonat a kijárati jelzőtől továbbindult, legfeljebb 13 km/h 
+sebességgel, 130 métert (1.10.1). 
+A kerék alatt csúszó rögzítősaru elakadt a 34. sz. kitérő keresztezési részén 
+(3. ábra), a kocsik a továbbiakban felugrottak a sarura, és kisiklottak. 
+## 4:27 
+Az észlelt rendellenes mozgás hatására mozdonyvezető_db1 a vonatot 
+megállította. 
+A bejelentés szerinti és az adatrögzítő szerinti idő közel van egymáshoz. Feltehető, 
+hogy az órák nem pontosan egyformán járnak, de a kisiklás időpontjából 
+valószínűsíthető, hogy az adatrögzítő órája kb. 5 perccel kevesebbet mutatott a 
+tényleges időnél. 
+Ha a mozdonyvezetők elmondásaiban szereplő idők valósak lennének, akkor az 
+adatrögzítő adataihoz 35-40 percet hozzá kellene adni. Úgy viszont a kisiklás 
+bekövetkezése 4:57-5:02 közé esne, holott az eseményt 4:45-kor már a KBSZ felé is 
+bejelentették (1.1). 
+## 4:27 
+A rendelkezőt mozdonyvezető_db1 értesítette a kisiklásról. 
+A hangrögzítő 4:27-es időadattal tartalmazza a kisiklásról szóló bejelentést, ami 
+valószínűleg rövid idővel, legfeljebb 1 perccel követhette a tényleges kisiklást. A 
+hangrögzítő időadata ezért 1 perces pontossággal elfogadható a tényleges időnek. 
+(1.17.2.1) 
+### 2.2 
+### Az esemény tényleges lefolyása Székesfehérváron 
+## 2.2.1 
+### Az esemény előtti történések 
+15:30-16:00 Készen lett a XXIII. vágányon a 86905 sz. vonat elegye (1.17.1.2, 1.17.7, 
+1.17.10). 
+## 17:03 
+Megrendelték, hogy még egy kocsit a vonatra kell kapcsolni (1.17.7) 
+A kocsit az állomási tartalékmozdonnyal mozgatták, a tolatásvezető_sv és a 
+Térfőnök_sv1 közreműködésével 
+A Térfőnök_sv1 és kocsivizsgáló_sv egybenhangzóan nyilatkozott. A kocsivizsgáló_sv 
+azonban itt a távollétében történtekről nyilatkozott, ezért annak további részletei nem 
+tekinthetők megbízható információnak (1.17.7, 1.17.10). 
+(6.1.9.3.d)(6.4.9.3.c) 
+A tolatásvezető_sv a szerelvény alá tette a rögzítősarut (1.17.7). 
+A Vb-nek a rögzítősaru elhelyezéséről elmondás alapján van tudomása. Mivel a saru 
+az utólag rárakott kocsit siklasztotta ki, az is biztos, hogy a tolatást követően lett 
+el/áthelyezve. 
+## 2.2.2 
+### Az esemény lefolyása 
+A fűtőházból kijött a vonatot továbbító mozdony (1.17.5) 
+A külső forgalmi szolgálattevő_sv beállította a vágányutat a mozdony számára 
+a XXIII. vágányra (1.17.6) 
+## 17:34 
+A mozdony bejárt a XXIII-ra (1.10.2). A kocsivizsgáló_sv ráakasztotta a 
+mozdonyt. 
+A beszerzett adatok alapján nem volt egyértelmű, hogy a kocsivizsgáló_sv felkérésre 
+vagy felajánlásra végezte el a járműkapcsolást, abban azonban egybehangzók az 
+elmondások, hogy ki végezte a feladatot (1.17.5, 1.17.7, 1.17.10). 
+(Később, a fékpróbát követően a mozdonyvezető ellenőrizte a járműkapcsolást, 
+rendben találta (1.17.5)). 
+
+## Página 24
+
+Ráakasztás után kocsivizsgáló_sv felírta a vonatot, nem távolította el a 
+rögzítősarut (1.17.5, 1.17.10). 
+A kocsivizsgáló_sv kivitte az okmányokat, közte az írásbeli rendelkezést is 
+(1.17.5, 1.17.10). 
+## 18:31 
+A dokumentumok átadása után a kocsivizsgáló_sv elvégezte a fékpróbát, de 
+nem lett figyelmes a kocsi alatt lévő sarura (1.17.5, 1.17.10, 1.10.2). 
+## 18:45 
+A kocsivizsgáló és a mozdonyvezető is mobil telefonon készre jelentették a 
+vonatot (1.17.5, 1.17.10). 
+## 18:45 
+A térfőnök_sv2 megkezdte a szolgálatát. Látta, hogy a vonat készre van 
+jelentve, szólt erről a főrendelkezőnek. (1.17.8) 
+Szolgálatba lépett a váltókezelő_sv (mint éjszakás), a szolgálatot azonban nem 
+tudta személyesen átvenni a nappalostól (1.17.9). 
+A térfőnök_sv2 a frissen érkezett váltókezelő_sv-nek elrendelte a vágányút 
+beállítását a XXIII. vágányról, a váltókezelő_sv kiment a váltókörzetbe, 
+megállapította, hogy minden váltó megfelelően áll (1.17.2.2, 1.17.9). 
+A térfőnök_sv2 kiment a vonathoz meneszteni. Sem ő, sem a mellette 
+tartózkodó váltókezelő_sv nem kereste és nem észlelte a sarut (1.17.9). 
+## 18:55 
+A térfőnök_sv2 rádión jelezte, hogy a vonatnál van (1.17.2.3, 1.17.8, 1.17.9). 
+## 18:56 
+A kijárati jelző kezelése után a térfőnök_sv2 a vonatot felhatalmazta indításra 
+(1.8.1, 1.17.5, 1.17.9). 
+A vonat elindult, felgyorsult közel 10 km/h-ra (1.10.2, 1.17.5) 
+## 18:57 
+Észlelve a kisiklást, a vonat felé a térfőnök_sv2 és a váltókezelő_sv Megállj! 
+jelzést adott, a mozdonyvezető_sv megállította; de az első kocsi kisiklott 
+(1.17.5, 1.17.9). 
+A vonat 90 m-t mozgott mire megállt, a vágányutat kényszeroldották. 
+A mozdony adatrögzítője (18:57:01), a hangrögzítő (18:57:06) és a biztber naplója 
+(18:57:16) a röviddel egymás utáni eseményeket reális időadatokkal, valóban egymás 
+után rögzítette, így a vizsgálathoz szükséges mértékig a három berendezés órái 
+elfogadhatók megegyezőnek (1.10.2, 1.8.1, 1.17.2.3). 
+A megtett út a földrajzi koordinátákból számított adat. 
+### 2.3 
+### A balesethez vezető körülmények a folyamatban 
+Mindkét vonat az első kocsi alatt maradt rögzítősaru miatt siklott ki, amely a gyök 
+felől érintett első váltó keresztezési részén elakadt, kisiklasztva a kocsikat. A 
+vizsgálat fő kérdése, hogy miért volt ott a rögzítősaru, és azt indulás előtt miért nem 
+távolították el. 
+## 2.3.1 
+### A rögzítősaru helye 
+### Debrecenben a kialakult gyakorlat az, hogy a vágányoknak a végpont felőli végén 
+helyezik el a rögzítősarut. Ezt a személyzet beszámolója (1.17.3.1) és a Vb 
+tapasztalata is megerősíti (6. ábra). 
+A balesetet szenvedett vonatnál ettől eltértek, és az eltérést a naplóban is jelölték 
+(1.17.1.1): feltűnő, nagybetűs írással, hogy a saru a szerelvény Szolnok felőli végén 
+van, indokolva a kézifék hiányával is. (Más sarubejegyzés mellett nincs megjelölve, 
+hogy mely végen van kihelyezve.) 
+Későbbre hagyva a gyakorlat megfelelőségének elemzését (lásd 2.4.1), az 
+megállapítható, hogy 
+
+## Página 25
+
+- 
+a személyzet helyesen tette, hogy a gyakorlattól eltérve, a lejtő felőli oldalon 
+biztosította a kézifék nélküli szerelvényt, ami azt jelzi, hogy alapvetően 
+ismerik a szabályokat, és tisztában vannak a lejtésben lévő veszélyekkel; 
+- 
+továbbá az is jó gyakorlat, hogy a szokásostól eltérő esetet feltűnő 
+írásmóddal kiemelték a naplóban. 
+Az már az eseménykor érvényes állomási technológia hatása volt, hogy a 
+naplóbejegyzésben rejlő információ rejtve maradt azok elől, aki a vonat indításában 
+részt vettek. 
+A baleset során ugyanis a rögzítősaru az induló vonat alatt maradt, többek között 
+azért is, mert a vágánynak ezen a végén – a mindennapi gyakorlatnak megfelelően 
+– nem számítottak rá. 
+## 2.3.2 
+### A rögzítősaru eltávolítására kötelezett dolgozó tevékenysége 
+A forgalmi utasítás szerint a rögzítősarut a mozdonyt a vonattal összekapcsoló 
+dolgozónak, az ÁVU (Db) szerint a tolatószemélyzetnek, az ÁVU (Sv) szerint a vonat 
+előkészítését végző vagy a tolatást vezető dolgozónak kellett volna eltávolítania 
+(1.16.6). 
+Az F.2. és ÁVU (Db) kétféle megfogalmazása azonos személyt takar, az ÁVU (Db) 
+csak - kevésbé konkrét megfogalmazással - megismétli az F.2. tartalmát. Az ÁVU 
+(Sv) szűkíti is a tolatás vezetőjére, aki azonban nem feltétlenül azonos a 
+járműkapcsolás elvégzőjével, így – akárcsak a „vonat előkészítését végző dolgozó” 
+kifejezés – nem illeszkedik az F.2. alapszabályaihoz. Megjegyzendő, hogy egyedül 
+közlekedő mozdonynál a tolatás vezetője nem is feltétlenül tartózkodik a helyszínen, 
+ezért az ÁVU abban az esetben végrehajthatatlan. 
+### Debrecenben mivel a mozgást és a járműkapcsolást mozdonyvezető_db1 egyedül 
+végezte, a Vb véleménye szerint a fenti feladat is őt terheli, neki kellett volna azt 
+eltávolítania. 
+### Székesfehérváron a konkrét esetben az F.2. szerint a kocsivizsgáló_sv feladata 
+lett volna a rögzítősaru eltávolítása, akinek 3 alkalommal is lehetősége lett volna a 
+sarut észlelni, eltávolítani: 
+- 
+a járműkapcsoláskor, 
+- 
+a vonat felírásakor, és 
+- 
+a fékpróbakor. 
+Tekintettel arra, hogy a magára hagyott, álló kocsisorok megfutamodás elleni 
+biztosítása általános követelmény és gyakorlat a vasúti közlekedésben, elvárható, 
+hogy a rögzítőeszközt a járműkapcsolás után az arra kötelezett munkavállaló ne 
+csak észrevegye, hanem tudatosan is keresse. (Tehát bár később a fékpróba során 
+mozdonyvezető_db1 és kocsivizsgáló_sv is átnézte a szerelvényt, és nem észlelte 
+a rögzítősarut, ezt eleve most, a járműkapcsoláskor kellett volna keresniük.) 
+Ha esetleg nem találják, akkor a belenyugvás (nincs saru, tehát nincs indulási 
+akadály) helyett megfutamodás elleni biztosítás hiánya áll(hat) fenn, ami veszélyes 
+helyzet, az ilyet pedig jelenteni kell (1.16.1). A bejelentés során akár fel is tárulhat, 
+hogy a saru valójában mégis a szerelvény alatt van. (Az is igaz, hogy a forgalmi 
+utasítás ide vonatkozó hivatkozott szabálya talán kicsit elavult módon a saját felettes 
+felé kötelez bejelentésre, noha itt társaságok egymás közti kapcsolatában állt fenn 
+a probléma.) 
+
+## Página 26
+
+## 2.3.2.1 
+### Mozdonyvezető_db1 ismeretei 
+Mozdonyvezető_db1 nyilatkozatai alapján a Vb úgy látja, hogy a megfutamodás 
+elleni biztosítással kapcsolatos feladatokat nem tekintette a magáénak, hanem a 
+pályahálózat működtető személyzetének. Ez az előzőekben tárgyalt szabályok 
+tükrében ismerethiányt jelent. 
+Ugyanakkor a vonatának indításában pályahálózat működtetői személyzet 
+személyesen, közvetlenül nem vett részt, így még ha a fentiek szerint is 
+gondolkodott a rögzítőeszközökről, akkor hiányolnia kellett volna a pályahálózat 
+működtetői személyzetet. 
+A Vb ebből arra következtet, hogy alapvetően nem volt tudatában annak, hogy a 
+szerelvény megfutamodás ellen bárhogy is biztosítva lett volna. 
+## 2.3.2.2 
+### Kocsivizsgáló_sv ismeretei 
+A mozdony és a vele továbbított szerelvény összekapcsolása a tolatószemélyzet 
+feladata lett volna, amelynek nem része a kocsivizsgáló. A kocsivizsgáló ezzel más 
+munkatárs feladatát végezte el, ami az állomáson gyakorlat (1.17.7), noha ez a 
+vonatkozó szabályok szerint tiltott (1.16.1). 
+A kocsivizsgálóknak Székesfehérváron nem feladata a járműkapcsolások 
+elvégzése, és ezért ebben nem feltétlenül lenne gyakorlata, a konkrét esetben 
+azonban a kocsivizsgálók más állomásokon viszont végzik ezt a munkát. 
+Kocsivizsgáló_sv kifejezetten hivatkozott is arra (1.17.10), hogy annak részeként a 
+megfutamodás megakadályozására odatett eszközöket is kezelik, tehát elvárható 
+részéről, hogy nem csak szakszerűen megcsinálja a járműkapcsolást, hanem utána 
+keresi és kiveszi a rögzítősarut is. 
+## 2.3.2.3 
+### A járműkapcsolás és a saru ellenőrzése 
+A mozdonyvezetőnek feladata ellenőrizni a mozdony és az első kocsi közötti 
+járműkapcsolás szabályszerűségét (1.16.4). Ez a rendelkezés kifejezetten a 
+kapcsolás ellenőrzésére terjed ki, így tartalmilag nem része a megfutamodás elleni 
+eszközök eltávolításának ellenőrzése. 
+Azonban tekintettel arra, hogy 
+- 
+a járműkapcsolási tevékenység az előbbiek alapján szoros összefüggésben 
+van a megfutamodás elleni eszközök eltávolításával, 
+- 
+továbbá a rögzítősaru – szabályos elhelyezés esetén – az első tengely alatt 
+van, vagyis amennyiben a mozdonyvezető a mozdonyról leszállva ellenőrzi 
+a járműkapcsolást, úgy látható arról a helyről, ahonnan a járműkapcsolás is 
+ellenőrizhető, 
+a mozdonyvezetőnek ezáltal egyszerű lehetősége van a saru ottlétének 
+ellenőrzésére, ha azt tudatosan megnézi, keresi. 
+### Debrecenben a mozdonyvezető maga kapcsolt (1.17.3.1), Székesfehérváron 
+viszont ellenőrizte a más által végzett kapcsolást (1.17.5), ott a saru észlelésében 
+második ellenőrzési lépcső lehetett volna. 
+## 2.3.2.4 
+### Időjárási viszonyok 
+Debrecenben a járműkapcsolás és fékpróba idején (3:30-4:00) fennálló téli hajnali 
+sötétség megnehezíti a járművek alatti tárgyak észlelését, amelyen a térvilágítás is 
+alig segít, részben a szomszédos vágányokon álló járművek miatt, részben pedig 
+maga a vizsgált szerelvény is árnyékot tart maga alatt. 
+
+## Página 27
+
+A vasútüzemi tapasztalatok igazolják, hogy a saru észlelése ilyenkor is lehetséges, 
+akár kézi lámpa használatával, ami volt is Mozdonyvezető_db1-nél (1.17.3.1). 
+Továbbá tekintettel arra, hogy a rögzítőeszközt a 2.3.2 fejezetben tárgyaltak szerint 
+kifejezetten keresni kellett volna, a nem észlelés elsősorban figyelem hiányára 
+vezethető vissza (elfogadva azt, hogy a fékpróbát az elmondás szerint hajtották 
+végre, mivel annak végrehajtására az érdekeltek elmondásnál erősebb 
+bizonyítékkal a Vb nem rendelkezik). 
+Hozzájárulhatott ehhez, hogy a hideg időjárás maga is sietteti, felületesebbé teszi a 
+munkavégzést: ilyen helyzetben az ember nehezebben végez lehajolással járó 
+munkát, tartózkodik a vasalkatrészek megfogásával járó feladatoktól. 
+### Székesfehérváron kedvezőtlen látási viszonyokra, időjárási körülményekre a 
+személyzet eleve nem is hivatkozott. 
+## 2.3.3 
+### A vágányút beállítása 
+A vágányút beállítása után a szabályok szerint ellenőrizni kell, hogy a sarukat a 
+vágányról eltávolították-e (1.16.10). 
+### Debrecenben jól működő biztosítóberendezés esetére (amint ez a balesetkor is 
+fennállt) az ÁVU (Db) alapján az ellenőrzés a biztosítóberendezés fényeinek 
+kiértékelésével történik. A biztosítóberendezés alkalmatlan a saruk észlelésére, így 
+ez a technológia és szabályrendszer nem alkalmas az ilyen kockázatoknak a 
+vágányút ellenőrzésekor történő kiszűrésére. 
+A korszerű biztosítóberendezések mellett túlhaladottá vált az az elv, hogy a sarukat 
+a vágányút ellenőrzésekor kellene észlelni. Ilyen esetben a kockázatot a vágányút 
+beállítása előtti teendők során lehet kezelni, a már tárgyalt munkafolyamatokban. 
+### Székesfehérváron a váltókezelő a vágányút ellenőrzése során meg kellett volna 
+győződjön a saruk hiányáról is, amire nem került sor. 
+## 2.3.4 
+### A rögzítősaruk figyelemmel kísérése 
+Székesfehérváron a szolgálat rendeltetésszerűen folytatólagos, ezért a szolgálatot 
+személyesen kellett volna váltani. Erre külön kitér az ÁVU (Sv) 2.4.1 pontja is. A 
+váltáskor a szabályok szerint írásban is jelezni kell a rögzítősaruk helyzetét (1.16.2). 
+Még olyan esetben is, ha a váltás nem személyesen történik (mint pl. szolgálat 
+szünetelés), az átadásnak írásban meg kell történnie. 
+Az ÁVU szerint a váltókezelő körzetbejárás során köteles meggyőződni a saruk 
+helyzetéről, erre azonban szolgálatátvétel után 1 óra áll rendelkezésére. Ezért a 
+szolgálatátvételt röviddel követő tevékenységeknél látszólag még fennáll a - 
+szabályszerű - lehetősége, hogy nem kellően tájékozott a sarukról. 
+Azonban a szolgálatváltáskor követendő eljárást (személyes tájékoztatás és/vagy 
+az átadás írott szövegének elolvasása, megértése) betartva eleve tudnia kellett 
+volna a saru helyzetéről, a bejárással csak az átadáskor szerzett információk 
+helyességéről győződött volna meg. 
+Mivel a váltókezelő a szolgálat átvételekor nem olvasta el a naplóba írt 
+szolgálatátadás szövegét (1.17.9), amely tartalmazta, hogy a 10. sz. rögzítősaru van 
+a XXIII. vágányon, így - noha volt szabályszerűen dokumentált nyoma a sarunak, 
+arról nem szerzett tudomást. 
+A Vb véleménye szerint a szolgálat akkor kezdhető meg, ha azt a váltókezelő 
+átvette, azaz elvégezte az átvételhez kapcsolódó tevékenységeket: esetünkben az 
+írásbeli átvétel szövegének elolvasását, megértését, tudomásul vételét. Anélkül 
+tehát nem mehetett volna ki közreműködni a vonat indításában, hogy ne szerzett 
+
+## Página 28
+
+volna tudomást a rögzítősaru ottlétéről. Az ebbéli késlekedést a munkatársainak is 
+el kell fogadnia. 
+Az ÁVU szerint a rögíztősaruk felügyelete, kiadása, nyilvántartása kifejezetten 
+feladata a váltókezelőnek (1.16.11.3). Ugyanezen feladat azonban a II/a őrhely 
+külső forgalmi szolgálattevőjéhez is hozzá van rendelve (1.16.11.2). E kettősség 
+nincs meghatározva az utasításban, hogy melyikük az elsődleges, és a másik mikor 
+helyettesíti ebben. Ily módon könnyen elsikkadhat a feladat szakszerű végrehajtása. 
+## 2.3.5 
+### A vonat elindítása Debrecenben 
+## 2.3.5.1 
+### Indulásra kész állapot jelentése 
+A vonat indulásra kész állapotának jelentését a vasúti társaság és a csomóponti 
+főnökség között létrejött megállapodás szabályozza (1.16.8). Ez a megállapodás 
+egyetlen vasúti társaságnak egyetlen szolgálati helyen követendő eljárását 
+szabályozza, többek között a forgalom lebonyolításával összefüggő kérdésekben is. 
+(A megállapodás lényegében azonos az ÁVU (Db) erre vonatkozó pontjával, bár a 
+fogalmazás apróbb elemei eltérnek.) 
+### Eltérés a szabályoktól 
+A vonat készre jelentésének tényleges végrehajtása (telefonos bejelentéssel, 
+1.17.2.1, 1.17.3.1) nem felelt meg a megállapodásban foglalt szabálynak, amely 
+csak a személyesen történő naplóbejegyzést, vagy az elektronikus naplóba történő 
+bejegyzést fogadná el. 
+Ez a szabályoktól eltérő eljárás egyben gyakorlat is, elmondás alapján is „így 
+szoktuk”, és láthatóan a vonatszemélyzet és az állomási személyzet is elfogadja 
+ezt. 
+Mivel mindkét szabályozott eset, és a ténylegesen megvalósult gyakorlat során is a 
+vállalkozó vasúti társaságnál van annak eldöntése, hogy a vonal alkalmas-e 
+indulásra, így ez az eltérés nem oka a kisiklásnak, de kétségtelenül helytelen (a 
+végrehajtó személyzetre és/vagy a szabály megfelelőségére nézve). 
+### A szabály megfelelősége 
+A Vb kockázatosnak látja azt is, ha a forgalmi tevékenység alapbizonylatául szolgáló 
+Fejrovatos előjegyzési naplóban sok vállalat (de a pályahálózat működtetőn belül is 
+több szakterület) munkatársai tesznek bejegyzéseket. A túl sok és sokféle 
+bejegyzés – különösen egy nagy forgalmú állomáson – nehezen áttekinthetővé teszi 
+a naplót, el is fedhet sok fontos információt. 
+Tovább gondolható kérdés az is, hogy mennyire szükséges ragaszkodni az 
+indulásra kész állapot írott megjelenítéséhez, különösen úgy, hogy ennek gyakorlati 
+megvalósítása aránytalan munkaráfordítást is igényel. A vasúti közlekedésben 
+rengeteg közlekedésbiztonsági információátadás történik írásbeliség nélkül is 
+megbízhatóan, vagy vállalható kockázatok mellett. 
+Ez utóbbi megállapítással kapcsolatban a pályahálózat működtetője úgy foglalt 
+állást, hogy a vasúti társaságnak lehetősége van informatikai rendszeren keresztül 
+is megtenni a bejelentést, de annak hiányában sen tud a vonatok készre 
+jelentésének dokumentált módjától eltekinteni. Ezt az álláspontot a Vb elfogadja, de 
+a fentebbi okokból megfontolandónak tartja a dokumentálás más formában, és 
+arányosabb munkaráfordítással való megvalósítását. 
+
+## Página 29
+
+### Jelzőkezelés 
+## 2.3.5.2 
+A forgalmi irodában nem áll rendelkezésre információ az egyes rögzítősaruk 
+helyzetéről, de legalább arról, hogy a saruk szempontjából a vágányon való 
+közlekedés biztonságos-e. (Ez a vonatot kisiklasztó, alatta hagyott sarun túl oly 
+módon is veszélyes lehet, hogy a vonat szerencsésebb végén lévő, ottfelejtett saru 
+felé később másik vonatot fogadhatnak.) 
+Ezen információ hiányában a biztosítóberendezést kezelő személyzet jóhiszeműen 
+kivezérli a továbbhaladást engedélyező jelzést a vonatnak akkor is, ha a 
+biztonságos közlekedés feltételei - a tárgyalt szempontból - nem adottak. 
+E hiányzó információ ugyanakkor rendelkezésre áll az állomási személyzetnél, csak 
+más helyen: a sarukról vezetett, létező nyilvántartás a III. őrhelyen megtalálható 
+(1.17.1.1). 
+A III. őrhely és a forgalmi iroda közti ezirányú kommunikáció hiányában ez a 
+nyilvántartás így jobbára csak leltár jellegű, kevéssé szolgálja a közlekedés 
+biztonságát. 
+E probléma megszüntetésére az állomáson intézkedtek az ÁVU (Db) 
+megváltoztatásával (1.17.11): a rögzítősaruk felhelyezését/eltávolítását be kell 
+jelenteni az asztalkezelőnek, aki ezzel összhangban a rögzítősarura utaló 
+védőkupakot helyez a biztosítóberendezésre. 
+### 2.4 
+### Egyéb észrevételek 
+## 2.4.1 
+### A rögzítősaruk mennyisége és kezelése 
+### Debrecenben rögzítősarut csak egyet tettek a szerelvény alá, annak a kezdőpont 
+felőli végén. Ez összhangban van azzal, hogy az állomáson – az ÁVU (Db)-ban is 
+rögzített módon – vágányonként 1 rögzítősaru volt rendszeresítve (1.16.7). A 
+vágány azonban 2,5‰-nél kisebb mértékben lejtős kezdőpont felé (1.8.1), amely 
+esetre az F.2. sz. Forgalmi Utasítás viszont kettő rögzítősaru elhelyezését írja elő 
+(1.16.5). 
+Ez a körülmény a balesettel nincs összefüggésben, hiszen azt nem a rögzítősaru 
+hiánya okozta, de rámutat, hogy 
+- 
+az ÁVU (Db) nincs összhangban a magasabb szintű forgalmi utasítással; 
+- 
+a kialakult gyakorlat (lásd 2.3.1-ben) még azt az elvet sem követi, hogy a 
+rögzítősaru a lejtés felől legyen elhelyezve: a saru rendszerint a végpont, az 
+emelkedő felől van elhelyezve. 
+Az állomás elrendezése olyan, hogy a sarukat őrző III. szolgálati hely a vágányok 
+végpont felőli végén van. 
+A vasúti pályahálózat működtetője a zárójelentés-tervezetre adott válaszában 
+jelezte, hogy e tekintetben az ÁVU (Db) felülvizsgálata folyamatban van. 
+### Székesfehérváron a vágány lejtésére (1.9) tekintettel szintén a szerelvénynek 
+mindkét végén kell rögzítősarut elhelyezni (1.16.5), de ott ehhez a vágányonkénti 
+két rögzítősaru rendszeresítve is van (1.16.7). 
+## 2.4.2 
+### Indulásra kész állapot jelentése 
+### Debrecenben a Vb az indulásra kész állapot bejelentésének módját is 
+megvizsgálta. 
+A forgalmi rendelkezések megbízható alkalmazásához szükséges, hogy ezek 
+mindegyikéből oktassák és vizsgáztassák a személyzetet, vagyis az állomási 
+
+## Página 30
+
+személyzetet minden vasútvállalat megállapodásából, a vasúti társaságok 
+személyzetét minden állomás megállapodásaiból. 
+A Vb ennek nyomát nem kereste, de ennyi oktatás és vizsga valós lebonyolítása 
+nem is reális lehetőség. Még végrehajtása esetén is nagy lenne a különböző 
+eljárások összekeverésének veszélye. Nem szerencsés az azonos célokhoz - 
+ügyféltől függően - más-más eljárást rendelni, különösen egy sok ügyféllel működő 
+vállalatnál. A Vb által átnézett 14 megállapodásban 12 esetben megegyezett a 
+tartalom, a további két esetben - különbözőképpen - eltérő volt, tehát egy egységes, 
+utasítás szintű szabályozás valószínűleg kialakítható lenne. 
+## 2.4.3 
+### A vonatindító vágány megválasztása 
+### Székesfehérváron a vonatot a XXIII. vágányról indították, amely mellékvágány 
+(1.9), de az állomás szerkezetéből adódóan azonos módon lehetséges onnan 
+vonatot indítani, mint a XVI-XX. fővágányokról. A személyzet célszerűségi okból 
+választotta ezt a vágányt a vonat összeállítására (1.17.7). Ez a döntés a baleset 
+létrejöttére a Vb véleménye szerint nincs hatással. 
+A XXIII. vágány megnevezése, funkciója viszont megfelel annak, hogy a 
+járműjavítóból kiadott kocsikat gyűjtsék rajta (1.9). 
+Ha így, a funkciója szerint járnak el, akkor a vonat indítása előtt egy további tolatási 
+művelettel át kellett volna állítani vonatindító vágányra: ez további időt, költséget 
+jelent, szükségszerűen kockázatai vannak, és éppúgy fizikai mozgással jár, mintha 
+eleve vonatként, a nyíltvonalra távoznak róla a kocsik. 
+## 2.4.4 
+### Feladatok átruházása 
+### Székesfehérváron a kocsivizsgáló által végzett járműkapcsoláson túl más olyan 
+körülményeket is feltárt a Vb, ahol valamely munkát nem annak kötelezettje végzett 
+el. 
+Az írásbeli rendelkezést kézbesíteni kifejezetten a fogalmi szolgálattevő feladata (az 
+utasítás egyes, ez esetben nem érdekes eltérő rendelkezéseit kivéve) (1.16.9), 
+ennek megfelelően rendelkezik a MÁV-RCH közötti viszonyokat szabályozó külön 
+dokumentum is (1.16.3). 
+A forgalmi szolgálattevőnek nem lett volna szabad elfogadnia, hogy e feladatát más 
+(a kocsivizsgáló) elvégezte helyette, és a mozdonyvezetőnek sem lett volna szabad 
+az írásbeli rendelkezést elfogadnia a kocsivizsgálótól. 
+A Vb véleménye szerint azonban a szabályos kézbesítés a baleset létrejöttét nem 
+akadályozta volna meg. 
+Az ÁVU (Sv) 
+- 
+alapján a térfőnök rendelkezik a tehervonatok Írásbeli rendelkezéseinek 
+kézbesítéséről, melyben lehetséges az is, hogy azokat ő maga kézbesítse, 
+de ez már nincs összhangban a forgalmi utasítással (1.16.11.1). 
+- 
+ugyanezen pontja nem tartalmazza azt sem, hogy a II/a őrhely külső forgalmi 
+szolgálattevője kézbesíthetné, noha a II/a őrhely külső forgalmi 
+szolgálattevőjének feladatleírásánál ez is szerepel (1.16.11.2). 
+- 
+később, a rendelkezések közlésének szabályozása már kifejezetten 
+tartalmazza, hogy a térfőnök bevonhatja a II/a őrhely külső forgalmi 
+szolgálattevőjét (1.16.9.2). 
+Ez alapján az ÁVU egyes rendelkezéseket többször is ismétel, de eltérően, ami 
+zavart okoz az utasítás megértésében és helyes alkalmazásában. 
+
+## Página 31
+
+## 2.4.5 
+### Megtett intézkedések 
+Az esemény után Debrecenben kiadott 2. sz. parancskönyvi rendelkezés felhívja az 
+állomási személyzet figyelmét az ÁVU (Db) több pontjának betartására (1.17.11). 
+Ezen intézkedésben azonban több elvi probléma is van: 
+- 
+Nincs hatással az olyan jellegű események bekövetkezésére, ahol az 
+állomási 
+személyzeten 
+kívüli 
+munkatársak 
+tevékenységében 
+van 
+hiányosság. A jelen eseményben azonban éppen ez állt fenn, egy ÁVU-ból 
+nem kiképzendő mozdonyvezető személyében. 
+- 
+Tekintettel arra, hogy az esemény létrejöttéhez hozzájárult a nem 
+megfelelően felépített információ-tárolási és -átadási folyamat, e hibás 
+folyamat szigorú betartása szintén nem segíti elő a hasonló események 
+megelőzését. 
+Gyakori intézkedés a különböző társaságoknál, hogy rendkívüli események után 
+kiemelt figyelmet követelnek az esemény elkerülésével összefüggő szabályoknak. 
+Tudni kell azonban, hogy az emberi figyelem, összpontosítóképesség is korlátos 
+erőforrás. Bizonyos mértékig, túlzottan laza korábbi munkamorál esetén ez valóban 
+javíthatja a munka minőségét, biztonságát, de más esetben egy-egy szabályra 
+nagyobb figyelmet (és betartásához szükséges időt!) fordítani csak más szabályok 
+rovására lehet. Így viszont az aktuálisan reflektorfénybe került probléma megoldása 
+más, háttérben lévő problémákat felerősít, előidéz. 
+Hatékonyabb a megoldást nem csak a szabályok alkalmazóinak szintjén keresni, 
+hanem a szabályokban is: megkeresve azt, hogy a munkavállalók miért nem 
+tartanak be szabályokat, és egyáltalán, a szabály alkalmas-e a kívánt cél elérésére. 
+Ennek folyománya a szabályok újragondolása is lehet. 
+## 2.4.6 
+### Korábbi biztonsági ajánlások 
+Mivel az ilyen típusú balesetek rendszeresek a hazai vasúti hálózaton, a Vb több 
+alkalommal is javasolta olyan eszköz, jelzés bevezetését, amely az adott kocsinál a 
+rögzítősaru alkalmazását egyértelműen és távolról is észrevehetővé teszi (1.18). Az 
+ajánlásokra intézkedés nem történt, a vasúti pályahálózat működtetője azt az 
+állásfoglalást adta, hogy a rögzítősaruk alakja, színe, alkalmazása egyértelműen és 
+megfelelően szabályozott. 
+A Vb azonban úgy látja, hogy a szabályozás megfelelősége csak akkor jelenthető 
+ki, ha annak a szabálynak érvényt is lehet szerezni, és az a gyakorlatban valóban 
+jól is működik. 
+## 2.4.7 
+### Aktív-passzív megközelítés 
+Jelen zárójelentés a probléma olyan megközelítésére tért ki bővebben, hogy az 
+érintettek kifejezetten keressék a rögzítősarut, azaz aktív cselekvést elvárva tőlük. 
+### Ennek másik oldala a passzív megközelítés, hogy a saru legyen könnyen 
+észrevehető. E kérdést a korábbi, hivatkozott zárójelentések már tárgyalják, és 
+ebben biztonsági ajánlás is született (2.4.6). 
+A 8. ábra és 9. ábra a saruk észrevehetőségének javítására külföldi gyakorlatot 
+mutatnak be. 
+
+## Página 32
+
+8. ábra: sarura figyelmeztető jel Wasserauen (CH) állomáson 
+9. ábra: a sarura figyelmezeztő jel onnan is jól látható, ahonnan a saru nem 
+
+## Página 33
+
+### 3. 
+### KÖVETKEZTETÉSEK 
+### 3.1 
+### Az eset bekövetkezésével közvetlen összefüggésbe hozható 
+ténybeli megállapítások 
+A vonatok indításakor a szerelvény alatt maradt egy rögzítősaru, amely váltón 
+elakadva a vonatokat kisiklasztotta (2.3). 
+### 3.2 
+### Az eset bekövetkezésével közvetetten összefüggésbe 
+hozható ténybeli megállapítások 
+A rögzítősarut Debrecenben nem a megszokott helyre tették a vonat alá (2.3.1), 
+noha az adott helyzetben valóban ez volt a célszerű megoldás. A megszokott 
+technológia egyébként nem is felel meg a szabályoknak (2.4.1). 
+Mozdonyvezető_db1 a járművek összekapcsolásakor nem kereste, nem vette ki a 
+rögzítősarut (2.3.2), ami szakismeret-hiányra is visszavezethető (2.3.2.1). 
+Kocsivizsgáló_sv úgy végezte el a járműkapcsolást, hogy az nem is feladata, és 
+nem kereste, nem észlelte a rögzítősarut (2.3.2) 
+A debreceni forgalmi irodában nem állt rendelkezésre információ a vágányon lévő 
+rögzítősarukról a vonat indításakor (2.3.5.2).  
+Székesfehérváron a vonat indításában közreműködő váltókezelő_sv számára 
+írásban rendelkezésre állt a rögzítősaru helyzete, de azt nem olvasta el (2.3.4), a 
+vágányút ellenőrzésekor az esetleg ott lévő sarukról győződött meg (2.3.3). 
+### 3.3 
+Az eset bekövetkezésével összefüggésbe nem hozható, 
+kockázatnövelő tényezők 
+A debreceni indulásra készre jelentés szabályai nem egységesek (2.4.2), továbbá 
+a kialakult gyakorlat is eltér a szabályoktól (2.3.5.1). 
+Székesfehérváron rendszeres a szolgálati feladatoknak az átruházása (2.4.4). 
+
+## Página 34
+
+### 4. 
+### BIZTONSÁGI AJÁNLÁS 
+A vasúti pályahálózat működtetője intézkedett arról, hogy a vágányon lévő 
+rögzítősaruk a vonat indítása előtt ismertek lehessenek a forgalmi személyzet 
+számára (4.1). Ezen felül azonban a Vb felhívja a figyelmet, hogy 
+- 
+a továbbító mozdonyt a kocsikkal összekapcsoló dolgozó nem észlelte, nem 
+kereste tudatosan a rögzítőeszközöket, noha a szabályok szerint is a 
+kapcsolási folyamatot közvetlenül követi a rögzítőeszközök eltávolítása; 
+ezért megfontolandó, hogy ez utóbbi mozzanatot az oktatások során a 
+kapcsolási folyamat befejező részeként tudatosítsák a munkatársakban 
+(2.3.2); 
+- 
+a mozdonyvezetőnek a járműkapcsolás ellenőrzésekor egyszerű lehetősége 
+van a szélső tengely alatti saru észlelésére, ha tudatosan keresi (2.3.2.3); 
+- 
+mozdonyvezető_db1 esetében indokolt lehet szakismereteinek ellenőrzése, 
+frissítése is (2.3.2.1); 
+- 
+a Vb a szabályoktól eltérő gyakorlatot talált Debrecenben a vonatok készre 
+jelentése kapcsán: ilyen helyzetben célszerű felülvizsgálni, hogy megfelelő 
+és betartható-e a szabályozás, és/vagy gondoskodni kell a szabályok 
+betartásáról (2.3.5.1). 
+### 4.1 
+### Megtett intézkedések 
+Debrecen állomáson intézkedtek az ÁVU (Db) megváltoztatásával arra, hogy a 
+rögzítősaruk helyzete ismert lehessen a forgalomirányító személyzet számára 
+(1.17.11): a rögzítősaruk felhelyezését/eltávolítását be kell jelenteni az 
+asztalkezelőnek, aki ezzel összhangban a rögzítősarura utaló védőkupakot helyez 
+a biztosítóberendezésre. 
+A Vb megjegyzi, hogy ez a jó gyakorlat kiterjeszthető más állomásokra, 
+biztosítóberendezésekre is (pl. tábla a kijárati jelző emeltyűjén, kizárások 
+bekapcsolása). 
+### 4.2 
+### A vizsgálat közben kiadott biztonsági ajánlások 
+A vizsgálat során a KBSZ biztonsági ajánlást nem adott ki. 
+### 4.3 
+### További biztonsági ajánlások 
+A Vb a vizsgálat lezárásával az alábbi biztonsági ajánlás kiadását is javasolja: 
+BA2017-0033-5-01: A Vb azt tapasztalta, hogy Debrecen állomáson a forgalmi utasítás szerint 
+szükséges 2 darabbal ellentétben csak egy rögzítősarut használnak a szerelvények állva 
+tartására, és az Állomási Végrehajtási Utasításban szabályozottan is csak ennyi van 
+rendszeresítve. Székesfehérvár állomáson azt tapasztalta, hogy az ÁVU a forgalmi utasítással 
+nem összeegyeztethetően határozza meg a megfutamodás elleni eszközök eltávolítására 
+kijelölt személyt, továbbá a saruk és rendelkezések közlése kezelése kapcsán az ÁVU 
+önmagában is kisebb ellentmondásokat tartalmaz. 
+### A KBSZ javasolja a Nemzeti Fejlesztési Minisztérium Vasúti Hatósági 
+### Főosztályának, hogy vizsgálja felül a MÁV Zrt. biztonságirányítási rendszerét 
+### képező belső szabályok közül az F.2. sz. forgalmi utasítás és az Állomási 
+### Végrehajtási Utasítások megfutamodás megakadályozásával kapcsolatos 
+szabályainak összhangját és azok érvényesülését. 
+
+## Página 35

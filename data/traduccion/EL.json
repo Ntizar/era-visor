@@ -1,0 +1,26 @@
+{
+ "md/EL/2023/el-10538 final report, ψ.υ. εκθεση ερυθροι σηματοδοτες (8 συμβάντα) 22-01-26.md": {
+  "fichero": "md/EL/2023/el-10538 final report, ψ.υ. εκθεση ερυθροι σηματοδοτες (8 συμβάντα) 22-01-26.md",
+  "estado": "ya"
+ },
+ "md/EL/2024/zevgolatio 17-1-2024_era id el-10539 (1).md": {
+  "fichero": "md/EL/2024/zevgolatio 17-1-2024_era id el-10539 (1).md",
+  "estado": "ya"
+ },
+ "md/EL/2023/eodasaam_accident_investigation_tempi-final.md": {
+  "fichero": "md/EL/2023/eodasaam_accident_investigation_tempi-final.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 523196,
+  "ratio": 1.08,
+  "avisos": [
+   "bloque 26: cifras largas: faltan 8/18 (44%)",
+   "bloque 28: cifras largas: faltan 4/19 (21%)",
+   "bloque 31: cifras largas: faltan 9/23 (39%)",
+   "bloque 35: cifras largas: faltan 11/14 (79%)"
+  ],
+  "tokens_in": 217787,
+  "tokens_out": 163456,
+  "destino": "md-es/EL/2023/eodasaam_accident_investigation_tempi-final.md"
+ }
+}

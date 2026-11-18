@@ -1,0 +1,3140 @@
+---
+pais: DE
+anio: 2013
+idioma: DE
+pdf: Untersuchungsbericht_Zugentgleisung_Kayhauserfeld_-_Oldenburg_29-06-13.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/Untersuchungsbericht_Zugentgleisung_Kayhauserfeld_-_Oldenburg_29-06-13.pdf
+md5_pdf: a3ed38587db56d4c90b565214cf3ad4d
+paginas: 72
+chars: 121705
+tablas: 9
+cuerpo: "11.0pt; encabezados 3 niveles"
+rotulos_excluidos: "69 (seite # von #)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 0
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Aktenzeichen: 60uu2013-06/200-3323 
+Stand:
+08.11.2019    Version: 1.0
+Gefährliches Ereignis im Eisenbahnbetrieb 
+| Ereignisart: | Zugentgleisung |
+| Datum: Zeit: | 29 06 2013 . . 0:47 Uhr |
+| Benachbarte Betriebsstellen: | Kayhauserfeld Oldenburg Hbf - |
+| Streckennummer: | 1520 |
+| Kilometer: | 6 452 , |
+
+## Página 2
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+### Veröffentlicht durch: 
+Bundesstelle für Eisenbahnunfalluntersuchung 
+Heinemannstraße 6 
+53175 Bonn
+
+## Página 3
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+### Inhaltsverzeichnis: 
+### Seite 
+## 1 
+### Zusammenfassung .....................................................
+## .......................................8 
+1.1 
+Kurzbeschreibung des Ereignisses ...................................................................... 8 
+1.2 
+Folgen ...........................................................................
+.......................................8 
+1.3 
+Ursachen ............................................................................................................. 8 
+## 2 
+### Vorbemerkungen ................................................
+## ................................................8 
+2.1 
+Organisatorischer Hinweis .........................................
+..........................................8 
+2.2 
+Ziel der Eisenbahn-Unfalluntersuchung ............................................................... 9 
+2.3 
+Mitwirkende .......................................................................................................... 9 
+## 3 
+Ereignis ............................................................................................................. 10 
+3.1 
+Hergang ............................................................................................................. 10 
+3.2 
+Todesopfer, Verletzte und Sachschäden ........................................................... 11 
+3.3 
+Wetterbedingungen............................................................................................ 11 
+## 4 
+Untersuchungsprotokoll ........................................................................
+## ..........11 
+4.1 
+Zusammenfassung von Aussagen ...........................................................
+..........11 
+4.1.1 
+Stellungnahme des Triebfahrzeugführers .......................................................... 11 
+4.1.2 
+Stellungnahme der Örtlich zuständigen Fahrdienstleiterin (ÖzF-in) .................... 12 
+4.1.3 
+Stellungnahme der ÖzF-in (nachfolgende Schicht) ............................................ 12 
+4.2 
+Notfallmanagement ..................................................................................
+..........12 
+4.3 
+Untersuchung der Infrastruktur .....................................
+.....................................12 
+4.3.1 
+Beschreibung der Entgleisungsstelle ................................................................. 13 
+4.3.2 
+Inspektionen gemäß Konzernrichtlinie Ril 821 -Oberbau inspizieren-................. 15 
+4.4 
+Untersuchung der Leit- und Sicherungstechnik .................................................. 22 
+4.5 
+Untersuchung der betrieblichen Handlungen ..................................................... 22 
+4.5.1 
+Betriebliche Handlungen des Tf ................................................
+.........................22 
+4.5.2 
+Betriebliche Handlungen der Fdl ...............................................
+.........................24 
+
+## Página 4
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+| 4 6 . | Untersuchung von Fahrzeugen 25 .......................................................................... |
+| 4 7 . | Simulationen zum Entgleisungsvorgang 29 ............................................................ |
+| 4 8 . | Interpretation der Unfallspuren 31 ........................................................................... |
+| 5 | Auswertung und Schlussfolgerungen 31 ............................................................ |
+| 5 1 . | Betrieb 31 ............................................................................................................... |
+| 5 2 . | Fahrzeug 32 ............................................................................................................ |
+| 5 3 . | Infrastruktur 32 ........................................................................................................ |
+| 6 | Bisher getroffene Maßnahmen 35 ........................................................................ |
+
+## Página 5
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+### Abbildungsverzeichnis: 
+Abb. 1: Lageplan mit Entgleisungsbereich ...........................................................................11 
+Abb. 2: Blick auf die Entgleisungsstelle ................................................................................13 
+Abb. 3: Detailansicht der ersten Entgleisungsspuren ...........................................................14 
+Abb. 4: periodische Gleislagefehler ......................................................................................14 
+Abb. 5: Überschreitungsprotokoll (Auszug) vom 28.06.2013 ................................................16 
+Abb. 6: Messschrieb vom 28.06.2013 ..................................................................................17 
+Abb. 7: Entwicklung der Gleislagefehler am BÜ in km 6,466 ................................................18 
+Abb. 8: Überschreitungsprotokoll (Auszug) vom 27.04.2012 ................................................19 
+Abb. 9: Überschreitungsprotokoll (Auszug) vom 04.06.2013 ................................................20 
+Abb. 10: Grafische Auswertung der EFR-Daten ...................................................................23 
+Abb. 11: Rotorblatttransport auf Wagen der Bauart Uiks 635 ...............................................25 
+Abb. 12: Wagenskizzen Uiks 635 .........................................................................................26 
+Abb. 13: Schäden am entgleisten Radsatz 1 ........................................................................27 
+Abb. 14: Vorderer Radsatz, Entgleisungsspuren am rechten Rad ........................................28 
+Abb. 15: In SIMPACK modelliertes Einzelfahrzeug Uiks 635 ................................................29 
+Abb. 16: Sicherheitsempfehlung zur Zugentgleisung in Gröbers ..........................................34 
+Abb. 17: Sicherheitsempfehlung zur Zugentgleisung in Lorch (Rhein) .................................35 
+Abb. 18: Auszug aus der TM 1-2017-10135 I.NPF 1 ............................................................36 
+Abb. 19: Auszug aus der Fachtechnischen Stellungnahme der DB Netz AG .......................37 
+
+## Página 6
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+### Abkürzungsverzeichnis 
+AEG 
+Allgemeines Eisenbahngesetz 
+ALV 
+Anlagenverantwortlicher 
+Asig 
+Ausfahrsignal 
+BMVI 
+Bundesministerium für Verkehr und digitale Infrastruktur 
+BPol 
+Bundespolizei 
+BÜ 
+Bahnübergang 
+BZ 
+Betriebszentrale 
+DSK 
+Datenspeicherkassette 
+EBA 
+Eisenbahn-Bundesamt 
+EBL 
+Eisenbahnbetriebsleiter 
+EBO 
+Eisenbahn- Bau- und Betriebsordnung 
+EFR 
+Elektronische Fahrtenregistrierung 
+EIU 
+Eisenbahninfrastrukturunternehmen 
+ERA 
+Europäische Eisenbahn Agentur 
+ESO 
+Eisenbahnsignalordnung 
+EUB 
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+EUV 
+Eisenbahn-Unfalluntersuchungsverordnung 
+EVU 
+Eisenbahnverkehrsunternehmen 
+EVZS 
+für die Entstörungsveranlassung zuständigen Stelle 
+Fb 
+Fahrbahn 
+Fdl 
+Fahrdienstleiter 
+HG 
+Höchstgeschwindigkeit 
+LST 
+Leit- und Sicherungstechnik 
+NBez 
+Netzbezirk 
+NE 
+Nichtbundeseigene Eisenbahn 
+Nmg 
+Notfallmanager 
+
+## Página 7
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+özF 
+Örtlich zuständiger Fahrdienstleiter 
+| Ril | Richtlinie |
+| SB | Sicherheitsbehörde |
+| SMS | Sicherheitsmanagementsystem |
+| Tf | Triebfahrzeugführer |
+| Tfz | Triebfahrzeug |
+| VzG | Verzeichnis örtlich zulässiger Geschwindigkeiten |
+
+## Página 8
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+## 1 
+### Zusammenfassung 
+## 1.1 
+### Kurzbeschreibung des Ereignisses 
+Am 29.06.2013 gegen 0:47 Uhr entgleiste ein Wagen des DGS 83799 des Eisenbahnver-
+kehrsunternehmens (EVU) „Eisenbahngesellschaft Ostfriesland – Oldenburg mbH (e.g.o.o.)“ 
+während der Fahrt von Abelitz nach Magdeburg-Rothensee, auf der Strecke 1520 in km 
+6,452, zwischen Kayhauserfeld und Oldenburg, kurz hinter dem Bahnübergang (BÜ) „Förs-
+terweg“.  
+## 1.2 
+### Folgen 
+Personenschäden sind nicht zu beklagen. In Folge der Entgleisung entstanden Schäden an 
+der Infrastruktur, insbesondere am Oberbau und den Gleisschaltmitteln. Am entgleisten Wa-
+gen wurden der hintere Radsatz sowie dessen Achslager beschädigt. 
+## 1.3 
+### Ursachen 
+Ursächlich für die Entgleisung waren phasengleiche, sich periodisch wiederholende Gleisla-
+gefehler im Bereich des BÜ. Eisenbahnfahrzeuge, die diesen Gleisbereich überfahren, wer-
+den dadurch individuell zu höheren Schwingungen angeregt. Bei Übereinstimmung der An-
+regungsfrequenz mit der Hubeigenfrequenz eines Fahrzeuges können die vertikalen Kräfte 
+infolge der auftretenden Resonanz so groß werden, dass mindestens ein Rad entlastet wird, 
+es abhebt, und der Radsatz dadurch entgleist. 
+### 2         Vorbemerkungen
+## 2.1 
+### Organisatorischer Hinweis 
+Mit der Richtlinie 2004/49/EG, bzw. der nachfolgenden Richtlinie (EU) 2016/798, über Ei-
+senbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) und des Rates, wur-
+den die Mitgliedstaaten der Europäischen Union verpflichtet, unabhängige Untersuchungs-
+stellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten. 
+Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom 
+16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) ein-
+gerichtet.  
+Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
+die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung 
+
+## Página 9
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+(BEU) geschaffen. Durch das Gesetz wurden das Allgemeine Eisenbahngesetz (AEG) und 
+das Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständig-
+keiten und Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung 
+der BEU wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Ver-
+kehr und digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisen-
+bahn-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für 
+Verkehr und digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfallunter-
+suchung vom 14.07.2017 wurde die BEU als selbstständige Bundesoberbehörde im Ge-
+schäftsbereich des BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. 
+Die Aufgaben zur Untersuchung bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb 
+gingen dabei nahtlos von der EUB auf die BEU über. 
+Da das vorliegende Ereignis vor dem Tag der Errichtung der BEU am 14.07.2017 lag, wur-
+den Aufgaben, wie die Untersuchung vor Ort, durch die EUB durchgeführt. Andere Arbeiten, 
+wie bspw. die Erstellung dieses Untersuchungsberichts, erfolgten nach der Errichtung und 
+wurden deshalb von der BEU übernommen. Aus diesem Grund wird im vorliegenden Bericht 
+sowohl die Bezeichnung „EUB“ als auch „BEU“ verwendet.  
+Näheres hierzu ist im Internet unter www.beu.bund.de zu finden. 
+## 2.2 
+### Ziel der Eisenbahn-Unfalluntersuchung 
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen auf-
+zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
+der EUB dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder 
+sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtli-
+chen Untersuchung durchgeführt.  
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbei-
+tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenen-
+falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
+Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen 
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
+## 2.3 
+### Mitwirkende 
+An dem Ereignis waren folgende Eisenbahnunternehmen beteiligt: 
+• 
+DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
+
+## Página 10
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+• 
+Eisenbahngesellschaft Ostfriesland – Oldenburg mbH (e.g.o.o) als EVU 
+An der Untersuchung wurde die Firma SIMTES aus Bielefeld beteiligt. 
+## 3 
+### Ereignis 
+## 3.1 
+### Hergang 
+Am 29.06.2013 befuhr DGS 83799, bestehend aus einem Triebfahrzeug und 23 Güterwa-
+gen, auf der Fahrt von Abelitz nach Magdeburg-Rothensee die Strecke 1520 (Oldenburg – 
+Leer).  
+Nur wenige Meter nachdem der Zug den BU „Försterweg“ passiert hatte, entgleiste im km 
+6,452 der an 17. Stelle laufende Wagen mit einem Radsatz zur linken Gleisseite. Da der 
+Triebfahrzeugführer (Tf) die Entgleisung nicht bemerkt hatte, wurde die Fahrt des Zuges 
+fortgesetzt. Beim Befahren des nachfolgenden BÜ in km 5,762 lief der entgleiste Radsatz 
+auf die rechte Gleisseite über. Auch hier wurde die Fahrt im entgleisten Zustand weiter fort-
+gesetzt. Auf dem folgenden BÜ im km 4,010 kam es dann zur selbständigen Eingleisung 
+des Radsatzes. Durch den auf mehrere Kilometer entgleisten Radsatz wurden der Oberbau 
+und Schaltmittel am Gleis beschädigt oder zerstört, was zu betrieblichen Störmeldungen 
+beim Fdl Oldenburg führte. Offensichtlich sind zwischenzeitlich mehrere Stunden vergangen 
+bis die in Oldenburg aufgetretenen Störmeldungen als Folgeschäden einer Entgleisung iden-
+tifiziert und dem DGS 83799 zugeordnet werden konnten. Nur so erklärt sich, dass erst ge-
+gen 06:30 Uhr der Zug ca. 15 km südlich von Stendal im Bf Tangerhütte zur Überprüfung 
+gestellt wurde. Hierbei wurde der Zug jedoch nicht vollständig untersucht, da die Untersu-
+chung am vierten Wagen abgebrochen wurde. Dadurch konnten die infolge der Entgleisun-
+gen entstandenen Schäden am 17. Wagen nicht festgestellt werden. Gegen 7:48 Uhr fuhr 
+der Zug in Tangerhütte weiter. Eine vollständige Untersuchung des Zuges wurde erst nach 
+der Ankunft im Bf Magdeburg-Rothensee durchgeführt. Hierbei wurde festgestellt, dass der 
+an 17. Stelle hinter dem Triebfahrzeug (Tfz) laufende, unbeladene Güterwagen der Gattung 
+Uiks an dem in Fahrtrichtung ersten Radsatz Entgleisungsschäden aufwies. 
+
+## Página 11
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 1: Lageplan mit Entgleisungsbereich 
+Quelle: IVL-Plan DB Netz AG bearbeitet durch BEU 
+## 3.2 
+### Todesopfer, Verletzte und Sachschäden 
+Todesopfer oder Verletzte sind keine zu beklagen. Die geschätzte Gesamthöhe der entstan-
+den Sachschäden beträgt ca. 972.000 €. 
+## 3.3 
+### Wetterbedingungen 
+Zum Zeitpunkt des Ereignisses war es regnerisch, bei Temperaturen um 13°C. 
+## 4 
+### Untersuchungsprotokoll 
+## 4.1 
+### Zusammenfassung von Aussagen  
+### 4.1.1     Stellungnahme des Triebfahrzeugführers  
+Der Tf des DGS 83799 gab an, er könne in Bezug auf die Entgleisung nichts äußern, da er 
+davon nichts bemerkt habe. Erst in Magdeburg-Rothensee habe der Schaden in Anwesen-
+heit der Bundespolizei erkannt und mit der Entgleisung in Zusammenhang gebracht werden 
+können. Zuvor habe es eine Nachfrage des Fahrdienstleiters (Fdl) in Oldenburg gegeben. Er 
+sei sinngemäß gefragt worden, nachdem er am Ausfahrsignal (Asig) zum Stillstand gebracht 
+worden war, ob er richtig drin sei, was er bejaht habe. Darauf hin habe ihn der Fdl gefragt, 
+ob er vollständig drin sei. Er habe sinngemäß geantwortet, dass er dann wohl eine Zugtren-
+nung haben müsste und schon früher gestanden hätte. Der Fdl habe geantwortet, dass das 
+wohl richtig sei und dass er dann wohl eine Blockstörung haben müsste. Darauf hin habe 
+ihm der Fdl das Signal zur Ausfahrt gegeben. In Tangerhütte sei er dann mit seinem Zug 
+gestellt und aufgefordert worden, seinen Zug zu überprüfen. Nach der Überprüfung des an 
+
+## Página 12
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+vierter Stelle laufenden Wagens sei zur Lok zurückgegangen, um eine Richtlinie (Ril) zu 
+holen. Auf der Lok habe er dann aber einem Anruf von der Betriebszentrale (BZ) Leipzig 
+bekommen, dass er in Tangerhütte schlecht stehe und besser nach Magdeburg-Rothensee 
+weiterfahren solle, wo ihn auch schon die Beamten der Bundespolizei erwarten würden. Dies 
+habe er auch getan. Der weitere Verlauf sei aus den Unterlagen der Bundespolizei bekannt. 
+### 4.1.2     Stellungnahme der Örtlich zuständigen Fahrdienstleiterin (ÖzF-in)  
+Die ÖzF-in Stendal gab gegenüber ihrem Arbeitgeber an, der Tf habe seinen Zug in 
+Tangerhütte untersuchen sollen. Sie habe den Zug in Gleis 2 des Bf Tangerhütte gestellt. 
+Den Sachverhalt habe sie dem ablösenden ÖzF übergeben. 
+### 4.1.3     Stellungnahme der ÖzF-in (nachfolgende Schicht) 
+Die ÖzF-in Stendal gab gegenüber ihrem Arbeitgeber an, dass DGS 83799 bei ihrem 
+Dienstbeginn schon im Bf Tangerhütte gestanden habe. Während dieses Haltes sei der Zug 
+durch den Tf untersucht worden. Durch den Tf sei die Fertigmeldung an die BZ Leipzig ge-
+meldet worden und nach Rückfrage des Bereichsdisponenten der BZ Berlin sei die Ausfahrt 
+des Zuges in Richtung Magdeburg erfolgt. 
+## 4.2 
+### Notfallmanagement  
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflich-
+tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In 
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich 
+auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden 
+Brand- und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist 
+in der Richtlinie (Ril) 123 näher beschrieben und geregelt. Auf die Untersuchung wurde ver-
+zichtet, da weder Personen zu retten, noch Folgesach- oder Umweltschäden abzuwenden 
+waren. 
+## 4.3 
+### Untersuchung der Infrastruktur 
+Bei der Strecke 1520 (Oldenburg (Olbd) Hbf – Leer (Ostfriesland) handelt es sich um eine 
+eingleisige, elektrifizierte Hauptbahn der Streckenklasse D4. Die auf der Strecke zugelasse-
+ne Höchstgeschwindigkeit (Hg) beträgt 120 km/h. Im Bereich des Abschnittes von km 11,6 
+bis km 1,5 darf die Strecke gem. dem Verzeichnis der örtlich zugelassenen Geschwindigkei-
+ten (VzG) in beiden Fahrtrichtungen mit 120 km/h befahren werden. Als Oberbauart im Be-
+reich der Entgleisungsstelle ist W14-54-B70-1667 eingebaut. Der BÜ in km 6,466 verfügt 
+über STRAIL Innenplatten und befindet sich in einem Bogen mit einem Radius von 9.500 m. 
+
+## Página 13
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Fliehkräfte, wie sie bei einer Fahrt in engeren Bögen auftreten, sind am BÜ sowie dem an-
+grenzenden Entgleisungsbereich vernachlässigbar, weil die Trassierung nahezu einer Gera-
+den entspricht.  Die Streckenbelastung liegt bei etwa 36.000t/Tag. 
+### 4.3.1   Beschreibung der Entgleisungsstelle 
+Die ersten Entgleisungsspuren in Form von Anschlägen an den Befestigungsmitteln der 
+Schienen und Schwellen wurden ca. 14 m nach passieren des BÜ „Försterweg“ in km 6,466 
+festgestellt. Der aus Richtung Kayhauserfeld kommende Zug entgleiste hier mit einem Rad-
+satz nach links. 
+ Abb. 2: Blick auf die Entgleisungsstelle 
+
+## Página 14
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 3: Detailansicht der ersten Entgleisungsspuren 
+Aufkletterspuren von Radkränzen wurden weder an der bogenäußeren als auch der bogen-
+inneren Schiene gefunden, was hinsichtlich des Entgleisungsvorgangs eher auf ein sponta-
+nes, kurzzeitiges Abheben bzw. Springen des Fahrzeugs hindeutet. Im BÜ-Bereich, sowie 
+davor und dahinter, waren optisch mehrere hintereinanderliegende Gleislagefehler, sowohl 
+an der rechten, als auch der linken Schiene erkennbar. 
+Abb. 4: periodische Gleislagefehler 
+
+## Página 15
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Betriebliche Einschränkungen waren im Bereich der Gleislagefehler und der Entgleisungs-
+stelle nicht vorhanden. 
+Die vorgefundene Situation am BÜ lässt darauf schließen, dass das ankommende Nieder-
+schlagswasser der querenden Straße in den Bahnseitengraben entwässern soll. Es war auf-
+fällig, dass der Vegetationsbewuchs um den BÜ herum und den angrenzenden Gleisab-
+schnitten sehr ausgeprägt war. Die Bahnseitengräben, sofern vorhanden, waren zugewach-
+sen und aufgrund der Profilveränderung in der Funktion eingeschränkt. Im Gleisbett am BÜ 
+waren mehrere Bereiche mit Grasbewuchs (Abb.5) erkennbar, was darauf hindeutet, dass 
+der Untergrund nicht ausreichend entwässert wird. Dies wiederum beeinflusst die Tragfähig-
+keit des Gleises und kann zu Gleislagefehlern führen, wie sie hier vorgefunden wurden. 
+### 4.3.2     Inspektionen gemäß Konzernrichtlinie Ril 821 -Oberbau inspizieren- 
+### 4.3.2.1   Prüfung der Gleisgeometrie mit Gleismessfahrzeugen nach  
+###   Ril 821.2001 
+Im Rahmen der Unfalluntersuchung erfolgte die Betrachtung der letzten drei Prüfungen der 
+Gleisgeometrie mit Gleismessfahrzeugen vor der Entgleisung. Auch durch Überführungs-
+fahrten zusätzlich gewonnene Messergebnisse flossen in die Bewertungen mit ein. 
+Die Regelinspektion gemäß Ril 821.2001 wurde fristgerecht einmal jährlich beauftragt, 
+durchgeführt und dokumentiert. Fristüberschreitungen waren nicht festzustellen. Einen Tag 
+vor der Entgleisung des Zuges wurde die Gleislage im Bereich des BÜ „Försterweg“ im 
+Rahmen einer Überführungsfahrt von einem Gleismesszug RaiLab außerplanmäßig ver-
+messen. Auffällig bei dieser Messfahrt waren drei SR100 Überschreitungen in der Längshöhe, 
+die in Abständen von wenigen Metern auftraten (siehe Abb. 5 und 6). SR100 ist nach Ril 
+821.1000 der Wert, der den technisch/wirtschaftlichen Abnutzungsvorrat beeinhaltet. Bei 
+seiner Überschreitung ist eine Instandsetzung abhängig von der Fehlergröße spätestens bis 
+zur nächsten Regelinspektion erforderlich. Eine unmittelbare Beeinträchtigung der Funkti-
+onsfähigkeit nach Ril 821 war noch nicht zu erwarten.   
+
+## Página 16
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 5: Überschreitungsprotokoll (Auszug) vom 28.06.2013 
+Quelle: DB Netz AG, bearbeitet durch EUB 
+
+## Página 17
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 6: Messschrieb vom 28.06.2013 
+Quelle: DB Netz AG, bearbeitet durch EUB 
+
+## Página 18
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Die nachfolgende Tabelle in Abb. 7 zeigt die Entwicklung der Gleislagefehler am BÜ „Förs-
+terweg“ im Bereich vor der Entgleisungsstelle von April 2010 bis Juni 2013. Hiernach wurde 
+die Gleislage bei der Regelinspektion am 13.04.2010 erstmals derart auffällig, dass an der 
+rechten und linken Schiene jeweils Längshöhenfehler von 13 mm dokumentiert wurden. 
+Damit wurde der für den Geschwindigkeitsbereich 80 km/h ˂ Hg ≤ 120 km/h in der Ril 
+821.2001 genannte SR100 Wert erreicht, jedoch am Tag der Messung noch nicht überschrit-
+ten. Eine grundlegende Verbesserung der Gleislage ist anhand der weiteren Gleislagefeh-
+lerentwicklung am BÜ seit diesem Zeitpunkt nicht erkennbar. 
+Abb. 7: Entwicklung der Gleislagefehler am BÜ in km 6,466 
+Ein Jahr später wurden bei der Regelinspektion am 04.04.2011 im Bereich des BÜ erneut 
+Gleislagefehler bei der Längshöhe dokumentiert. Sowohl an der rechten, als auch der linken 
+Schiene wurden jeweils Längshöhenfehler von 14 mm dokumentiert und somit SR100 an bei-
+den Schienen überschritten. Gemäß Ril 821.2001 sind derartige Mängel zu bewerten. Am 
+
+## Página 19
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+18.04.2011 erfolgte die Befundung durch den Anlagenverantwortlichen (ALV) in der Inspek-
+tionsniederschrift „SAP Befundliste“. Hieraus geht hervor, dass die SR100 Gleislagefehlerbe-
+seitigung bis 30.03.2012 zu erledigen war. Als Priorität war N (ohne betriebliche Beeinflus-
+sung) angegeben. Am 18.06.2011 erfolgte die maschinelle Instandsetzung der Gleislage 
+zwischen km 6,433 und km 6,480 mit einem Sprinter. 
+Im Abstand von einem Jahr erfolgte am 23.04.2012 die nachfolgende Regelinspektion. Trotz 
+dokumentierter maschineller Instandsetzung vom 18.06.2011 zeigten sich weiterhin SR100 
+Überschreitungen bei der Längshöhe in der Größenordnung von 15 mm (linke Schiene) bzw. 
+16 mm (rechte Schiene). Bei der am 09.05.2012 durchgeführten Befundung der Gleislage-
+messung durch den ALV wurden die Gleislagefehler am BÜ nicht erwähnt. Grund hierfür ist 
+nach Aussage des ALV die Vermeidung einer Doppelbefundung, da diese Gleislagefehler 
+bereits beim Gleisbegang vom 15.02.2012 befundet wurden. Erwähnenswert ist an dieser 
+Stelle, dass am 27.04.2012, drei Tage nach der Regelinspektion, eine Überführungsfahrt 
+eines Messzuges von Leer nach Oldenburg stattfand, und sich am BÜ ein weiterer Gleisla-
+gefehler (15 mm) mit SR100 Überschreitung abzeichnete. Beide Fehler lagen etwa 5 m aus-
+einander. 
+Abb. 8: Überschreitungsprotokoll (Auszug) vom 27.04.2012 
+Quelle: DB Netz AG, bearbeitet durch EUB 
+Für 2013 erfolgte die jährliche Regelinspektion gemäß Ril 821.2001 anstatt im April um zwei 
+Monate verspätet im Juni. Die Ril 821.2001 Abschnitt 3 Tabelle 1 lässt hier in Ausnahmefäl-
+len auch einen Inspektionsabstand von 16 Monaten zu. Begründet war die Verzögerung 
+durch den Ausfall des Messfahrzeugs. Auch bei dieser am 04.06.2013 durchgeführten In-
+spektion zeigen sich zwei SR100 Überschreitungen in ähnlicher Konstellation wie am 
+27.04.12.  
+
+## Página 20
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 9: Überschreitungsprotokoll (Auszug) vom 04.06.2013 
+Quelle: DB Netz AG, bearbeitet durch EUB 
+Bei der am 04.06.13 durchgeführten Befundung der Gleislagemessung in SAP durch den 
+ALV wurden die Gleislagefehler am BÜ nicht erwähnt. Grund hierfür war nach Aussage des 
+ALV auch hier die Vermeidung einer Doppelbefundung, da diese Gleislagefehler bereits vor-
+liegen würden. Die weitere, am 28.06.13 wegen Messzugausfall im Netzbezirk (NBez) Leer, 
+durchgeführte Gleisgeometriemessung (siehe Abb. 6 und 7) ist für den betroffenen Gleisab-
+schnitt nicht als Regelinspektion anzusehen. Trotzdem sind die Messergebnisse für die Ur-
+sachenfindung relevant, da sich die Gleislage im Zeitraum vom 04. – 28.06.2013 wesentlich 
+verändert hatte. Erstmals wurden hierbei im BÜ-Bereich drei SR100 Überschreitungen mit 14 
+bzw. 15 mm in kurzen Abständen zueinander auf ca. 18 m Länge festgestellt. Die vorhande-
+nen Längshöhenfehler traten somit quasi periodisch auf. Der die Messfahrt begleitende ALV 
+hat auf die bei der Inspektion der Strecke aufgezeichneten SRlim Überschreitungen mit der 
+Einrichtung von Langsamfahrstellen zwar vorschriftenkonform reagiert, die Brisanz der peri-
+odischen Gleislagefehler am Bahnübergang wurde aber nicht erkannt. Ein Grund dafür kann 
+sein, dass für derartige Fehler zum Zeitpunkt der Messfahrt in der DB-Richtlinie keine kon-
+kreten Handlungsanweisungen vorgegeben waren. 
+### 4.3.2.2  Inspektion Gleisbegehung nach Ril 821.2003 
+Im Rahmen der Unfalluntersuchung wurden die letzten drei Gleisbegehungen vor der Ent-
+gleisung betrachtet. 
+Die zuerst betrachtete Gleisbegehung führte am 15.02.12 ein Werkmeister Fahrbahn (Fb) 
+durch. Im Bereich des BÜ „Försterweg“ wurden vor und hinter dem BÜ jeweils eine Senke 
+(Längshöhenfehler) festgestellt. Gemäß der Befundung in der Inspektionsniederschrift sollte 
+die Mängelbeseitigung durch Handstopfung bis 31.08.2012 erfolgen, als Priorität war L (Be-
+
+## Página 21
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+triebliche Beeinflussung) festgesetzt. Eine Instandsetzung bis 31.08.2012 konnte jedoch 
+nicht nachgewiesen werden. 
+Am 22.08.2012 erfolgte eine weitere turnusmäßige Gleisbegehung, diesmal durch den ALV. 
+Für die weiterhin vorhandenen Gleislagefehler war in der SAP - Befundliste für den Längs-
+höhenfehler hinter dem BÜ zunächst eine Handstopfung bis 30.03.13, und korrigiert bis 
+30.11.13 eingeplant. Der ALV senkte die Priorität von L (Betriebliche Beeinflussung) auf N 
+(ohne Betriebliche Beeinflussung; niedrigste Dringlichkeit). Eine Instandsetzung konnte we-
+der bis 30.03.12 noch bis zum Tag der Entgleisung, am 29.06.13, nachgewiesen werden.  
+Für die Beseitigung der Gleislagefehler an mehreren Bahnübergängen, wie auch dem „Förs-
+terweg“ (Meldung 12485809) sowie einiger Gleisabschnitte, wurde zusätzlich eine zusam-
+menhängende Gleisdurcharbeitung geplant und in den Befund eingestellt. Die erforderliche 
+Instandsetzungsmaßnahme sollte nun mit einer Präventions-Durcharbeitung, zuerst bis 
+30.06.13 und nach Korrektur bis 30.08.13, erledigt werden. Auch hier wurde die Priorität vom 
+ALV von L auf N geändert. 
+Die Entgleisung am 29.06.2013 kam diesen geplanten Instandsetzungsarbeiten jedoch zu-
+vor. 
+Bei der Gleisbegehung am 12.02.2013 durch einen Werkmeister Fb wurden im BÜ Bereich 
+„Försterweg“ keine neuen Befunde eingestellt. Hier wurde vom ALV erneut auf die Vermei-
+dung von Doppelbefundungen hingewiesen, da die Befundung und Abarbeitung der Mängel 
+vom 22.08.2012 noch ausstanden. Weiterhin wurde DB Netz vom Landkreis Ammerland 
+aufgefordert, den Entwässerungsgraben von km 6,5 – km 6,8 zu reinigen. Gemäß SAP Be-
+fundmeldung vom 15.02.2013 war dies bis 30.05.2014 mit der Priorität N (ohne betriebliche 
+Beeinflussung) zu erledigen. Nachweise über die Durchführung der Arbeiten liegen der BEU 
+nicht vor. 
+### 4.3.2.3  Inspektion Gleisbefahrung gemäß Ril 821.2004 
+Betrachtet wurden die drei letzten Gleisbefahrungen vor der Entgleisung. Hierbei wurden 
+keine weiteren Mängel im Bereich des BÜ „Försterweg“ dokumentiert. 
+### Zusammenfassung 
+Eine zusammenfassende Betrachtung der Inspektionshistorie zeigt, dass sich die Gleislage-
+fehler vor dem Entgleisungsbereich im absoluten Messwert bei den letzten Inspektionen 
+
+## Página 22
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+nicht wesentlich unterschieden. Die Längshöhenfehler bewegten sich zwischen 14 und 16 
+mm und stellten somit für den relevanten Geschwindigkeitsbereich bis 120 km/h eine Über-
+schreitung von SR100 dar. Gemäß dem Regelwerk der DB Netz AG besteht hier zunächst 
+keine unmittelbare Pflicht, sofortige kompensierende Maßnahmen, wie z.B. die Absenkung 
+der örtlich zulässigen Geschwindigkeit durch Einrichtung einer Langsamfahrstelle, zu veran-
+lassen. SR100 Überschreitungen sind jedoch, abhängig von der Fehlergröße, spätestens bis 
+zur nächsten Regelinspektion instand zu setzen. Konkrete Regelungen für kombiniert auftre-
+tende Gleislagefehler enthielten die DB Regelwerke nicht. Ob und in welcher Form Gleisla-
+gemängel beseitigt wurden, konnte die DB Netz AG nicht nachweisen. Festzustellen ist, 
+dass Instandsetzungsmaßnahmen, insofern diese stattfanden, nicht nachhaltig waren, da 
+seit  2011 am BÜ permanent Gleislagefehler mit SR100 Überschreitungen existent waren. 
+## 4.4 
+### Untersuchung der Leit- und Sicherungstechnik 
+Der BÜ „Försterweg“ ist mit einer Bahnübergangssicherungsanlage der Bauform EBÜT 80 
+LzH-Fü technisch gesichert. Er wird vom Fdl Oldenburg fernüberwacht. Bei der in Oldenburg 
+verbauten Stellwerkstechnik handelt es sich um die Bauform Sp Dr L30. Hinweise, dass die 
+Leit- und Sicherungstechnik ursächlich für das gefährliche Ereignis war, lagen nicht vor. 
+Deshalb wurde auf eine weitergehende Untersuchung der Leit- und Sicherungstechnik ver-
+zichtet. 
+## 4.5 
+### Untersuchung der betrieblichen Handlungen 
+## 4.5.1 
+### Betriebliche Handlungen des Tf  
+Das Triebfahrzeug (223 156-1) ist mit einer punktförmigen Zugbeeinflussung (PZB) ausge-
+rüstet, die Daten der Elektronischen Fahrtenregistrierung (EFR) wurden im Rahmen der Un-
+falluntersuchung ausgelesen und von der BEU ausgewertet. Die Daten wurden ordnungs-
+gemäß auf einer Datenspeicherkassette (DSK) aufgezeichnet. Die PZB-Fahrzeugeinrichtung 
+war eingeschaltet. Am Zugdatensteller waren die Bremsart 8 und 96 Bremshundertstel ein-
+gestellt.  
+Es wurde der Betriebsspeicher des Abschnitts vom Bahnhof Kayhauserfeld bis Oldenburg 
+Hbf ausgewertet. Die abgebildeten Uhrzeiten sind systemintern und geben die DSK-Zeit 
+wieder, die von der tatsächlichen Uhrzeit abweichen kann. Für die Auswertung wurde der 
+aufgezeichnete Weg normiert, d.h. die Wegdarstellung wurde der Streckenkilometrierung 
+angepasst. Als Bezugspunkt wurde der Standort des Zuges vor dem Ausfahrsignal (Asig) 
+des Bahnhofs Oldenburg Hbf gewählt. 
+
+## Página 23
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 10: Grafische Auswertung der EFR-Daten 
+Vor der Einfahrt in den Bahnhof Kayhauserfeld kam es nach DSK um 00:36:37 Uhr zu einer 
+Beeinflussung durch einen 1000 Hz – Gleismagnet. Diese quittierte der Tf ordnungsgemäß 
+mit Bedienung der der Taste „Wachsam“. Im Folgenden wurde die Geschwindigkeit des Zu-
+ges bis auf ca. 48 km/h abgesenkt. Nach einem Fahrweg von ca. 795 m ab 1000 Hz-
+Beeinflussung wurde diese durch den Tf um 00:37:27 Uhr mit Bedienung der Taste „frei“ 
+abgebrochen. Anschließend wurde die Geschwindigkeit des Zuges nahezu konstant bis auf 
+ca. 98 km/h erhöht. Während dieser Beschleunigungsphase kam es dann ca. in km 6,4 zur 
+Entgleisung des Wagens. Das Entgleisen des Wagens ist aus den EFR-Daten nicht erkenn-
+bar. Die Daten lassen jedoch Rückschlüsse auf die in diesem Bereich gefahrene Geschwin-
+digkeit zu. Demnach lag die Geschwindigkeit des Zuges im Bereich der Entgleisungsstelle 
+bei ca. 90 km/h mit noch steigender Tendenz. 
+Mit Erreichen der Höchstgeschwindigkeit von ca. 98 km/h wurde im weiteren Verlauf ein Ab-
+senken der Geschwindigkeit registriert. Bei etwa 89 km/h wurde um 00:44:51 Uhr eine Be-
+einflussung durch einen 1000 Hz-Gleismagnet aufgezeichnet, auf die der Tf mit Bedienung 
+der Taste „Wachsam“ und dem weiteren Absenken der Geschwindigkeit reagierte. Nach 
+
+## Página 24
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+einem Fahrweg von ca. 990 m ab Beeinflussung kam es dann um 00:46:08 Uhr bei einer 
+Geschwindigkeit von ca. 34 km/h zu einer erneuten 1000 Hz-Beeinflussung, die abermals 
+mit Bedienung der Taste „Wachsam“ quittiert wurde. Im Anschluss daran wurde ein leichter 
+Anstieg der Geschwindigkeit bis auf ca. 43 km/h aufgezeichnet. Nach ca. 635 m Fahrweg ab 
+letzter 1000 Hz-Beeinflussung wurde um 00:47:05 Uhr die Beeinflussung durch einen 500 
+Hz-Gleismagnet abgebildet. Nach weiteren ca. 65 m Fahrstrecke kam es ca. 5 s nach Beein-
+flussung 500 Hz bei einer Geschwindigkeit von 43 km/h zu einer Zwangsbremsung. Diese 
+resultierte aus der Überschreitung der 500 Hz-Prüfgeschwindigkeit. Der Zug kam daraufhin 
+um 00:47:27 Uhr, ca. 125 m nach erfolgter Zwangsbremsung, kurz vor dem Ausfahrsignal 
+des Bahnhofs Oldenburg Hbf zum Stillstand. Gegen 00:52:56 Uhr wurde die Fahrt des Zu-
+ges dann fortgesetzt. 
+Die zulässigen Höchstgeschwindigkeiten für die Strecke und den Zug wurden im untersuch-
+ten Abschnitt nicht überschritten. Auf die in Annäherung auf das Asig erfolgte Zwangsbrem-
+sung wird nicht näher eingegangen, da diese für das Ereignis (Entgleisung in km 6,4) nicht 
+kausal von Bedeutung ist. Nach Auskunft des EIU wurde der Zug am Asig des Bahnhofs 
+Oldenburg Hbf gestellt. Hier kam es dann zum unter 4.1 beschriebenen Gespräch zwischen 
+Fdl und Tf. 
+## 4.5.2 
+### Betriebliche Handlungen der Fdl 
+Die betrieblichen Handlungen des Fdl Oldenburg standen in keinem Zusammenhang mit der 
+Entgleisung des Zuges auf freier Strecke. Deshalb wurde auf Untersuchungen dahingehend 
+verzichtet. Offensichtlich bemerkte der Fdl anhand der Störmeldungen im Stellwerk, die aus 
+den Zerstörungen der Gleisschaltmittel resultierten, dass Unregelmäßigkeiten im Zusam-
+menhang mit der Zugfahrt 83799 aufgetreten sein könnten. Deshalb stellte er wohl den Zug 
+am Asig in Oldenburg Hbf und fragte den Tf, ob dieser richtig und vollständig drin sei. Als 
+dieser ihm wie unter 4.1 beschrieben antwortete, ließ er den Zug weiterfahren.  Im weiteren 
+Verlauf meldete der Fdl die Störung der für die Entstörungsveranlassung zuständigen Stelle 
+(EVZS). Ein LST – Mitarbeiter, der sich daraufhin zur Störungsbeseitigung an die BÜ begab 
+stellte gegen 5:40 Uhr die Entgleisungspuren fest. Über Einzelheiten der anschließenden 
+Recherche und dem damit verbundenen Informationsaustausch liegen der BEU keine Er-
+kenntnisse vor. Letztendlich wurde der Zug 83799 gegen 6:30 Uhr im Bahnhof Tangerhütte 
+zwar gestellt, jedoch ohne den entgleisten Wagen zu identifizieren. Dies kann nur auf einen 
+mangelnden Informationsfluss zwischen den Beteiligten zurückzuführen sein. Als Resultat 
+daraus wurde dem Zug in Tangerhütte gegen 07:48 Uhr die Weiterfahrt gestattet, ohne dass 
+Klarheit über eventuelle Schäden an den Fahrzeugen bestand. 
+
+## Página 25
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+## 4.6 
+### Untersuchung von Fahrzeugen  
+DGS 83799 war gebildet aus einem Tfz der Baureihe 223 und 23 Wagen. Der Zug hatte 
+eine Gesamtlänge von 497 m und ein Gesamtgewicht von 891 t bei insgesamt 82 Achsen. 
+Im Zug waren 95 Bremshundertstel vorhanden, für die Fahrt erforderlich waren 69 Mindest-
+bremshundertstel. Die ersten 13 Wagen des Zuges bestanden aus verschiedenen Fahr-
+zeugattungen. Von der 14. Stelle bis zum Zugschluss liefen 10 baugleiche und unbeladene 
+Wagen der Gattung Uiks. Hierbei handelte es sich um zweiachsige Güterwagen, welche 
+über spezielle Aufbauten und Halterungen für die Aufnahme von Rotorblättern für Wind-
+kraftanlagen verfügten. Die Wagen waren mit Doppelschakenfahrwerken ausgestattet, de-
+ren Radsatzabstand 9 Meter betrug. Zur Aufnahme der Ladung besaßen die Wagen ab-
+nehmbare Drehschemel, so dass auf den 10 Wagen insgesamt drei Rotorblätter transpor-
+tiert werden konnten. 
+Abb. 11: Rotorblatttransport auf Wagen der Bauart Uiks 635 
+Quelle: e.g.o.o. Eisenbahngesellschaft 
+Die Kopfstücke der Wagen konnten hochgestellt oder abgesenkt werden, ihr Eigengewicht 
+betrug ohne Drehschemel 12.400 kg, mit Drehschemel 12.800 kg. Bei abgesenkten Kopf-
+stücken verfügte ein Wagen über eine Länge über Puffer von 15,76 m. In beladenem Zu-
+stand betrug die Höchstgeschwindigkeit 100 km/h, unbeladen 120 km/h. 
+
+## Página 26
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 12: Wagenskizzen Uiks 635 
+Quelle: e.g.o.o. Eisenbahngesellschaft 
+Der entgleiste Güterwagen Uiks 25 80 9914 917-5 lief an 17. Stelle des Zuges, etwa in der 
+Mitte des Verbundes der 10 baugleichen Wagen. Halter des Wagens war die Firma NCS 
+(Nuclear Cargo + Service) mit Sitz in Hanau. Die letzte Revision vor der Entgleisung erfolgte 
+im Juli 2011 bei der DB Fahrzeuginstandhaltung GmbH im Werk Paderborn. Im Rahmen der 
+Revision wurden beide Radsätze des Wagens ausgetauscht.  
+
+## Página 27
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Eine erste Besichtigung des Zuges durch einen Mitarbeiter der EUB fand am 29.06.2013 im 
+Bf Magdeburg-Rothensee statt. Bei dieser Untersuchung wurde an allen Wagen u.a. der 
+Zustand der Radsätze, Bremsschläuche, der Kuppelverbindungen sowie die Stellung der 
+Luftabsperrhähne augenscheinlich überprüft. Ergebnis dieser Untersuchung war, dass die in 
+Fahrtrichtung gesehen erste Achse des Wagens 25 80 9914 917-5, nachfolgend als Achse 1 
+bezeichnet, Entgleisungsspuren aufwies. 
+Weitergehende Untersuchungen dieses Fahrzeuges führten Mitarbeiter der EUB am 
+05.07.2013 und am 24.07.2013, ebenfalls in Magdeburg-Rothensee, mit folgenden Ergeb-
+nissen durch: 
+- 
+Bei der Zugeinrichtung über Achse 1 war die Zughakenführung im oberen Bereich 
+leicht aufgeboben. Die Kunststoffplatte der unteren Zughakenführung wies in Folge 
+von Materialstauchungen leichte Aufwölbungen auf. Die Kupplungsspindel war un-
+gleichmäßig aufgedreht, der Kupplungsbügel wies Anschlagspuren auf, und der 
+Kupplungsschwengel war darüber hinaus verbogen. 
+- 
+Bei der Achslagerführung bei Achse 1 waren in Folge der Entgleisung die Radsatz-
+halter verbogen und die Hartmanganplatten der Radsatzlagerführungen beschädigt. 
+Der in Fahrtrichtung gesehen rechte Radsatzhaltersteg war beidseitig angerissen, 
+der linke Radsatzhaltersteg war vorne ab-, und hinten eingerissen (vgl. Abb. 13). Es 
+waren leichte Anschlag- und Kratzspuren im rechten Bereich an der Wagenkasten-
+unterseite infolge des durchschlagenden Radsatzes erkennbar.  
+Abb. 13: Schäden am entgleisten Radsatz 1 
+
+## Página 28
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+- 
+Die Achslager waren in einem ordnungsgemäßen Zustand und leichtgängig. Hinwei-
+se auf eine thermische Überbeanspruchung waren nicht erkennbar. Das Achslager 
+auf der linken Fahrzeugseite war verdreht. 
+- 
+Die Parabelfedern waren augenscheinlich in einem guten Zustand, gebrochene Fe-
+derblätter waren nicht vorhanden. 
+- 
+Am Radsatz 1 waren Entgleisungsspuren auf den Laufflächen, an den Spurkränzen, 
+der Radsatzwelle und den Lagergehäusen erkennbar. Das Erdungskabel des linken 
+Rades war abgerissen. Radsatz 2 wies keine erkennbaren Beschädigungen auf. Bei 
+der Vermessung beider Radsätze konnte keine Überschreitung der Toleranzwerte 
+festgestellt werden. 
+Abb. 14: Vorderer Radsatz, Entgleisungsspuren am rechten Rad 
+Diese am Fahrzeug festgestellten Schäden werden als nicht unfallursächlich, sondern als 
+Folgen der Entgleisung eingestuft.  
+
+## Página 29
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+### 4.7       Simulationen zum Entgleisungsvorgang 
+Eine eindeutige Klärung der Unfallursache konnte durch die eingeleiteten Untersuchungen 
+nicht herbeigeführt werden. Grund hierfür ist einerseits, dass nach dem zum Zeitpunkt der 
+Entgleisung geltenden Regelwerk der DB Netz AG im Bereich der Entgleisungsstelle keine 
+gravierenden Gleislagefehler, z.B. in Form von SRlim Überschreitungen nachweisbar waren, 
+die auf eine Beeinträchtigung der Funktionsfähigkeit des Oberbaus, und damit auf ein erhöh-
+tes Entgleisungsrisiko hätten schließen lassen. Andererseits wurden bei den fahrzeugtechni-
+schen Untersuchungen des entgleisten Wagens keine Mängel festgestellt, die als Ursache 
+für die Entgleisung anzusehen waren. Anhaltspunkte, dass Mängel im Bereich der Leit- und 
+Sicherungstechnik oder betriebliche Fehlhandlungen Einfluss auf die Entgleisung hatten, 
+lagen ebenfalls nicht vor.  
+Ein Hinweis auf die mögliche Entgleisungsursache war das Auftreten von drei in kurzen Ab-
+ständen auftretenden SR100 Überschreitungen im Bereich des BÜ. Deshalb sollte deren 
+Auswirkung als Unfallursache durch Simulationsrechnungen ermittelt werden. Hierbei sollte 
+die Reaktion des Fahrzeuges bei unterschiedlichen Geschwindigkeiten und variierenden 
+Beladungszuständen auf Gleislagefehler verschiedener Anzahl und Größen untersucht wer-
+den. Im November 2013 wurde die Fa. „SIMTES – Simulation technischer Systeme“ aus 
+Bielefeld mit der Durchführung entsprechender Simulationsrechnungen beauftragt. Nach-
+dem alle erforderlichen fahrzeug- und oberbautechnischen Daten vorlagen, konnte mit Hilfe 
+des Programms SIMPACK Version 9.5 ein Mehrkörper-Simulationsmodell zur Simulation des 
+dynamischen Fahrverhaltens des entgleisten Fahrzeugs erstellt werden.  
+Abb. 15: In SIMPACK modelliertes Einzelfahrzeug Uiks 635 
+Quelle: Simulationsbericht SIM012014BE 
+
+## Página 30
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Um auch die gegenseitigen Einflüsse der Einzelwagen über die Zug-und Stoßeinrichtungen 
+bewerten zu können, erfolgte im Rahmen der Simulation der Aufbau eines aus drei Uiks 635 
+bestehenden Zuges. 
+Mit den gemessenen Gleislagedaten und der Trassierung wurden im Streckenabschnitt von 
+km 6,520 bis km 6,440 u.a. die Rad/Schiene-Kräfte, der Entgleisungskoeffizient Y/Q und das 
+Radanheben bei verschiedenen Geschwindigkeiten und Fahrzeugkonfigurationen ermittelt. 
+Die im Rahmen der Simulationsrechnungen gewonnenen Erkenntnisse des im Anhang 1 
+beigefügten Simulationsberichtes SIM012014BE zum Unfall in Oldenburg vom 29.06.2013 
+sind nachfolgend aufgeführt: 
+Weitere Untersuchungen erfolgten durch Variationsrechnungen zu verschiedenen syntheti-
+schen, periodischen Gleislagefehlern und Fahrzeugzuständen. Die Variationsrechnungen 
+umfassten u.a. Veränderungen der Federblattsteifigkeit, Puffersteifigkeit, Geschwindigkeit, 
+des Beladungszustandes sowie Variationen der Gleislagestörung. Ein Ergebnis dieser Un-
+tersuchung war, dass sowohl die Blattfedersteifigkeit als auch der Beladungszustand die 
+Eigenfrequenz des Fahrzeugs, und damit seine individuelle Empfindlichkeit auf periodische 
+Gleislagefehler beeinflusst. Das Risiko der Entgleisung erhöht sich mit steigender Federstei-
+figkeit, während es sich durch höhere Radaufstandskräfte verringert. Ein weiteres Ergebnis 
+war, dass Veränderungen der Puffersteifigkeiten und des Kupplungszustandes Einfluss auf 
+die Übertragung von Vertikal- und Querkräften zwischen zwei Fahrzeugen haben. Insgesamt 
+ist festzustellen, dass allgemein gültige Aussagen über die Empfindlichkeit und Reaktion von 
+Fahrzeugen auf periodische Gleislagefehler kaum möglich sind, weil sich Fahrzeuge, z.B. 
+durch verschiedene Verschleißzustände, grundsätzlich voneinander unterscheiden. 
+
+## Página 31
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Die Variationsrechnungen zeigten auch einen Zusammenhang zwischen der Anzahl perio-
+disch auftretender Gleislagefehler und dem daraus entstehenden Entgleisungsrisiko auf. 
+Hierzu wird im Simulationsbericht folgendes festgestellt: 
+Weitere Informationen zur Vorbereitung, Durchführung und Bewertung der Simulationsrech-
+nungen sind dem Simulationsbericht SIM012014BE zu entnehmen, der als Anlage 1 Be-
+standteil dieses Untersuchungsberichtes ist. 
+## 4.8 
+### Interpretation der Unfallspuren 
+Vor und hinter dem BÜ „Försterweg“ in km 6,466 befanden sich bereits über einen längeren 
+Zeitraum Gleislagefehler in der Längshöhe, die augenscheinlich erkannt werden konnten. 
+Etwa 14 m hinter dem BÜ waren in Fahrtrichtung des Zuges nach links, erste Entgleisungs-
+spuren sichtbar, die sich bis zum nachfolgenden BÜ in km 5,8 fortsetzten. Auf dem BÜ 
+wechselte der Wagen die Seite und entgleiste nach rechts. Die Entgleisungsspuren auf der 
+rechten Gleisseite setzten sich bis zum folgenden BÜ in km 4,0 weiter fort. Auf dem BÜ kam 
+es zum selbständigen Eingleisen des Wagens, der anschließend ohne bekannte weitere 
+Schäden zu verursachen bis Magdeburg weiterlief. Durch den entgleisten Lauf wurde die 
+Infrastruktur auf etwa 2,5 km beschädigt. Erst nachdem der Zug in Magdeburg-Rothensee 
+angekommen war, konnten die Wagen untersucht werden. Hierbei wurden Schäden am ers-
+ten Radsatz des an 17. Stelle laufenden Fahrzeugs festgestellt. Dies spricht insgesamt da-
+für, dass dieser Radsatz im Bereich der Gleislagefehler am BÜ in km 6,466 entgleiste. 
+## 5 
+### Auswertung und Schlussfolgerungen 
+### 5.1       Betrieb 
+Betriebliche Einschränkungen waren im Entgleisungsbereich nicht vorhanden, die 
+zulässige Geschwindigkeit nach VzG wurde eingehalten. 
+
+## Página 32
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+In Folge der Entgleisung beschädigte der Wagen Teile des Oberbaus und Gleisschaltmittel, 
+was zu einer Störung an der Gleisfreimeldeanlage zwischen Kayhauserfeld und Oldenburg 
+führte. Welcher Zug die Schäden konkret verursacht hatte, war zunächst unklar. Die Schä-
+den wurden gegen 5:40 Uhr von Mitarbeitern LST vor Ort festgestellt, was eine umgehende 
+Untersuchung aller möglichen Verursacherzüge hätte nach sich ziehen müssen. Auch DGS 
+83799, der den betroffenen Entgleisungsabschnitt gegen 0:47 Uhr befahren hatte, wurde als 
+möglicher Verursacher identifiziert und konnte im Bf Tangerhütte bei Stendal gestellt wer-
+den. Hier wurde die Untersuchung des Zuges durch den Tf zwar begonnen, allerdings be-
+reits nach Überprüfung von vier der dreiundzwanzig Wagen vorzeitig abgebrochen. An-
+schließend ließ man den Zug weiterfahren. Offensichtlich kam es im Verlauf der Informa-
+tionsübertragung zwischen den Beteiligten zu Verlusten. Somit waren sich die Fdl in Stendal 
+und der Tf über die möglichen Folgen der Weiterfahrt ohne entsprechende Untersuchungen 
+der Fahrzeuge nicht im Klaren. Dem Tf wurde der Grund für die Untersuchung nicht ge-
+nannt. Auch das mehrere Stunden zuvor geführte Gespräch zwischen dem Fdl Oldenburg 
+und dem Tf war nicht zweckdienlich, die Ursache der Störungen und somit die Entgleisung 
+zu erkennen. So dauerte es letztendlich ca. fünf Stunden bis die Entgleisung identifizierte 
+wurde und weitere zweieinhalb Stunden, bis der Zug den Zielbahnhof Magdeburg-
+Rothensee gegen 08:19 Uhr erreichte. 
+### 5.2 Fahrzeug 
+Das entgleiste Fahrzeug war für den Betrieb auf der Infrastruktur der DB Netz AG zugelas-
+sen. Die zulässige Höchstgeschwindigkeit betrug im entladenen Zustand 120 km/h. Eine 
+Überschreitung der zulässigen Geschwindigkeit des Wagens konnte nicht festgestellt wer-
+den. Bei den am 29.06.2013, 05.07.2013 und am 24.07.2013 durchgeführten Fahrzeugun-
+tersuchungen waren keine Schäden, Mängel oder Hinweise am Fahrzeug feststellbar, die 
+als ursächlich für das Unfallgeschehen einzustufen waren.  
+### 5.3 Infrastruktur 
+Bei der Untersuchung der Infrastruktur waren im Bereich des BÜ „Försterweg“ im unmittel-
+baren räumlichen Zusammenhang vor den ersten Entgleisungsspuren Längshöhenfehler 
+festzustellen, die sich periodisch wiederholten. Hierbei handelte es sich um Fehler in der 
+Längshöhe, die nach dem geltenden Regelwerk der DB Netz AG dem Beurteilungsmaßstab 
+SR100 zuzuordnen waren. Bei der Überschreitung des SR100 Beurteilungsmaßstabes ist eine 
+Instandsetzung, abhängig von der Fehlergröße, spätestens bis zur nächsten Regelinspekti-
+on vorgesehen, eine Beeinträchtigung der Funktionsfähigkeit ist bei Überschreitung von 
+
+## Página 33
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+SR100 zunächst nicht zu erwarten. Die Betrachtung der Inspektionsergebnisse gemäß Ril 
+821.2001 sowie die Bewertung der bei weiteren Überführungsfahrten aufgezeichneten Mes-
+sergebnisse von Gleismessfahrzeugen der letzten drei Jahre vor der Entgleisung im Bereich 
+des BÜ „Försterweg“ macht deutlich, dass eine nachhaltige Instandsetzung der Längshö-
+henfehler offenbar nicht erfolgte. Bei jeder Gleislagemessung wurden SR100 Überschreitun-
+gen dokumentiert.  
+Die Inspektionen erfolgten fristgerecht und die an der Entgleisungsstelle festgestellten Män-
+gel waren auch bekannt. Wären die in der SAP Befundliste eingetragenen Ecktermine für 
+die Beseitigung der festgestellten Längshöhenfehler fristgerecht, bzw. nachhaltig durchge-
+führt worden, hätte sich keine periodische Gleislagestörung mit drei kurz nacheinander fol-
+genden Einzelfehlern entwickeln können. Zwar sind bei der Überschreitung des Beurtei-
+lungsmaßstabes SR100 keine unmittelbaren Maßnahmen vorgesehen, aber nach den gelten-
+den Regelwerken ist eine Instandsetzung spätestens bis zur nächsten Regelinspektion er-
+forderlich. Der Regelinspektionsabstand beträgt auf Hauptgleisen, die mit einer Höchstge-
+schwindigkeit (Hg) 80 km/h < Hg ≤ 120 km/h befahren werden dürfen, in der Regel 12, in 
+Ausnahmefällen 16 Monate. Entsprechende Nachweise über eine qualifizierte Ausführung 
+der Instandsetzungsmaßnahmen liegen der BEU nicht vor. Die Feststellung, dass sich die 
+Längshöhenfehler bei den letzten Inspektionen nicht wesentlich voneinander unterschieden, 
+deutet auf nicht nachhaltig bzw. unvollständig durchgeführte oder sogar unterlassene In-
+standsetzungsmaßnahmen hin. Die vorgefundene Entwässerungssituation sowie die beglei-
+tende Vegetation am BÜ und die dadurch herabgesetzte Tragfähigkeit des Gleises haben 
+ebenfalls die Entstehung der Gleislagefehler begünstigt. 
+Jedoch erst durch die Vernachlässigung der Instandsetzungsmaßnahmen konnten sich die 
+periodischen Gleislagefehler bei der Längshöhe derart entwickeln, dass sie letztendlich zur 
+Entgleisung des Fahrzeugs führten.  
+Zu derartigen in annähernd gleichem Abstand auftretenden, also periodischen, Gleislagefeh-
+lern macht die Ril 821 dem ALV zum Unfallzeitpunkt allerdings keine Vorgaben, wie damit 
+umzugehen ist. Die Ril 821.2001 regelt nur, wie verfahren werden muss, wenn definierte 
+Fehlergrößen bei Einzelfehlern überschritten werden. Wie diese Fehler zueinander liegen 
+und welche Beeinflussung von ihnen ausgeht, findet in der Ril keine Betrachtung. Unter Ka-
+pitel 5 „Prüfgrößen und Beurteilungsmaßstäbe“ der Ril 821.2001 ist unter Absatz 2 lediglich 
+erwähnt, dass bei der Einzelfehlerbeurteilung kombiniert auftretende Einzelfehler besonders 
+zu berücksichtigen sind. Wie der ALV beim Auftreten derartiger Mängel allerdings zu han-
+deln hat, wird in der Richtlinie nicht geregelt und liegt allein in seinem Ermessen.  
+
+## Página 34
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Auffällig sind Parallelen zu weiteren Ereignissen, bei denen leichte und unbeladene Güter-
+wagen mit Einzelachsen im Geschwindigkeitsbereich 80 km/h ˂ Hg ≤ 120 km/h in Abschnit-
+ten mit mehreren hintereinanderliegenden, periodischen Gleislagefehlern in der Längshöhe 
+entgleisten. Hierzu zählen u.a. die Zugentgleisungen in Gröbers am 11.02.2011, in Löhne 
+am 13.12.2012 und in Lorch (Rhein) am 09.06.2013. Weil in diesen Fällen die Unfallursache 
+nicht eindeutig geklärt werden konnte, sollten für das Ereignis in Lorch und das hier unter-
+suchte Ereignis in Kayhauserfeld Simulationsrechnungen durchgeführt werden. Ziel hierbei 
+sollte der Nachweis sein, dass periodisch auftretende Längshöhenfehler, je nach gefahrener 
+Geschwindigkeit des Zuges, Bauart und Beladung der Fahrzeuge, zu Entgleisungen führen 
+können. In beiden Simulationsrechnungen konnte eine erhebliche Entgleisungsgefahr nach-
+gewiesen werden. 
+Aufgrund der Untersuchungsergebnisse wurde in den jeweiligen Untersuchungsbericht zu 
+den Zugentgleisungen in Gröbers und Lorch (Rhein) folgende, an das Eisenbahninfrastruk-
+turunternehmen gerichtete, Sicherheitsempfehlungen aufgenommen: 
+Abb. 16: Sicherheitsempfehlung zur Zugentgleisung in Gröbers 
+
+## Página 35
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 17: Sicherheitsempfehlung zur Zugentgleisung in Lorch (Rhein) 
+## 6 
+### Bisher getroffene Maßnahmen 
+Auf Basis der Simulationsergebnisse bei den Zugentgleisungen in Lorch und Kayhauserfeld 
+sowie den Erkenntnissen von weiteren Entgleisungsereignissen konnten als deren Ursache 
+periodische Gleislagefehler bei der Längshöhe identifiziert werden. Da die Konzernrichtlinien 
+der DB Netz AG keine ausreichenden Handlungsanweisungen zum Umgang mit periodi-
+schen Längshöhenfehlern enthielten, sah die EUB Handlungsbedarf, was in der Sicherheits-
+empfehlung 3/2017 (Abb. 17) des im Januar 2017 veröffentlichten Untersuchungsberichts 
+zur Zugentgleisung zwischen Kaub und Lorch (Rhein) mündete. Die DB Netz AG als Infra-
+strukturbetreiber reagierte darauf und regelte den Umgang zur Thematik „Beurteilung perio-
+
+## Página 36
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+discher Längshöhenfehler“ durch die Technische Mitteilung (TM) 1-2017-10135 I.NPF 1. Die 
+Inkraftsetzung der TM erfolgte am 19.04 2017 mit folgender Maßgabe: 
+Abb. 18: Auszug aus der TM 1-2017-10135 I.NPF 1 
+Hierzu ist anzumerken, dass die Fehlerkombination im hier untersuchten Fall auch mit An-
+wendung dieser TM keine Überschreitung dargestellt hätte. Die im Überschreitungsprotokoll 
+der Messfahrt vom 28.06.2013 (siehe Abb. 5 und 6) dokumentierten SR100 Überschreitungen 
+im Bereich des BÜ km 6,466 in Kayhauserfeld wären trotz der neu formulierten Regelung 
+weiterhin nicht als periodisch und somit nicht als SRlim-Überschreitung eingestuft worden. 
+Grund hierfür ist, dass es sich zwar um (mindestens) drei Einzelfehler handelt, jedoch der 
+Abstand zwischen dem ersten und dem letzten Einzelfehler mit etwa 18 m weit unter der 
+vom Fachdienst der DB Netz AG festgelegten Mindestanregungslänge von 25 m liegt. Die 
+Begründung der DB Netz AG für die Ermittlung der Mindestanregungslänge ist nachfolgend 
+dargestellt. 
+
+## Página 37
+
+Untersuchungsbericht 
+Zugentgleisung, 29.06.2013, Kayhauserfeld - Oldenburg Hbf 
+Abb. 19: Auszug aus der Fachtechnischen Stellungnahme der DB Netz AG 
+Nach einem entsprechenden Hinweis der BEU im Januar 2019 wurde auch von der DB Netz 
+AG erkannt, dass die Fehlerkombination in Kayhauserfeld bei Anwendung der TM 1-2017-
+10135 I.NPF 1 nicht als SRlim Überschreitung detektiert worden wäre. In der Folge beabsich-
+tigt die DB Netz AG eine Änderung der TM dahingehend, dass der Mindestabstand von drei 
+aufeinanderfolgenden SR100 Überschreitungen von 25 m auf 18 m reduziert werden soll, und 
+die neue Regelung zügig in das Regelwerk Ril 821 überführt wird. Unter dieser veränderten 
+Maßgabe werden zukünftig periodische SR100 Überschreitungen bei Längshöhenfehlern, wie 
+sie beispielsweise in Kayhauserfeld und Lorch vorgefunden wurden und zur Entgleisung 
+führten, als SRlim-Überschreitungen eingestuft. Bis zum Zeitpunkt des Berichtsabschlusses 
+wurde von DB Netz AG weder eine Anpassung der TM noch eine Überführung des Sachver-
+halts in die Richtlinie 821 vorgenommen. 
+
+## Página 38
+
+## SIMTES  
+Simulation technischer Systeme 
+### Bericht 
+### Simulationsrechnungen zum Unfall in Oldenburg vom 
+### 26.06.2013 sowie Variantenrechnungen zu verschiedenen 
+### Gleislagen 
+Bericht:  
+SIM052015BE 
+Datum:  
+18.12.2015 
+Auftraggeber:  Eisenbahn-Bundesamt 
+Zentrale der Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+Verfasser:  
+Prof. Dr.-lng. Rolf Naumann 
+simtes -Simulation technischer Systeme · 
+Senner Waldweg 18 
+33659 Sielefeld 
+
+## Página 39
+
+SIM052015BE 
+### Inhaltsverzeichnis 
+1. 
+Aufgaben und allgemeine Angaben ............................................................................. 5  
+2. 
+Beschreibung des Unfallhergangs................................................................................ 6  
+3. 
+Gleislage ....................................................................................................................... 7  
+3.1. 
+RAILab Messungen: Auswertung und Vergleich mit Fahrzeugmoden ................ 7  
+3.2. 
+Trassierung .......................................................................................................... 12  
+3.3. 
+Gleislagen nach ERRI B176 ................................................................................ 12  
+4. 
+Kontaktgeometrie ··········································································-~---······················· .. 12  
+5. Modellerstellung ................, ......................................................................................... 13  
+5.1. 
+Koordinatensystem .............................................................................................. 14  
+5.2. 
+Wagenkasten .........................................................................., ............................ 14  
+5.3. 
+Fahrwerk .............................................................................................................. 16  
+5.3.1 . 
+Radsatz ......................................................................................................... 17  
+5.3.2. 
+Radsatzlager ................................................................................................. 17  
+5.3.3. 
+Achshalter und Anschläge ............................................................................ 18  
+5.3.4. 
+Schakenaufhängung..................................................................................... 18  
+5.3.5. 
+Blattfeder ....................................................................................................... 19  
+Zug- I Stoßeinrichtung .................................................................................. 21  
+5.3.6. 
+5.4. 
+Aufbau Einzelfahrzeug.................... : .................................................................... 23  
+5.5. 
+Aufbau 3-Wagen-Modell ...................................................................................... 23  
+6. 
+Analyse................................................. :...................................................................... 24  
+6.1. 
+Radsatzlasten ...................................................................................................... 24  
+6.2. 
+Fahrstabilität......................................................................................................... 25  
+6.3. 
+Eigenverhalten ..................................................................................................... 26  
+7. 
+Auswertung ................................................................................................................. 26  
+8. 
+Analyse Unfallursache .......................................................................................,........ 27  
+8.1. 
+Ergebnisse ........................................................................................................... 27  
+9. 
+Zusammenfassung ..................................................................................................... 28  
+10. Unterschriften .............................................................................................................. 29  
+2015-07-03_Unfall_ Oldenburg_ offzieii_Final_ v3.docx 
+
+## Página 40
+
+SIM052015BE  
+### Quellenverzeichnis 
+[1]  
+DIN EN 14363 Bahnanwendungen - Zulassungsprozess bezüglich der fahrtechnischen 
+Eigenschaften von Eisenbahnfahrzeugen -
+Prüfung des Fahrverhaltens und stationäre 
+Versuche; Deutsche Fassung prEN 14363:2013. 
+[2]  
+UIC Eisenbahntechnische Publikationen, Berichte & Technische Dokumente (vormalig 
+ERRI) B 176 "DREHGESTELLE MIT RADIAL EINSTELLBAREN RADSÄTZEN", ETF 
+Paris, Frankreich, 1989- 1993. 
+[3]  
+Bericht "Radprofilabzeichnung zur Eisenbahn-Unfalluntersuchung", Dokument 14-20688­
+I.TVI23-PR01, Prüfsteile DB Systemtechnik, Prüflabor: Prüfungen Fahrtechnik, vom 
+25.03.2014. 
+[4]  
+EN 14067-1 Bahnanwendungen Aerodynamik Teil 1: Formelzeichen und Einheiten 
+Deutsche FassungEN 14067-1:2003. 
+Bericht "Untersuchungen zur Plausibilität der Simulationsrechnungen · von 
+[5]  
+Zacher, M.: 
+SIMTES zu den Unfällen von leeren 2-achsigen Güterwagen bei Lorch und Oldenburg. 
+Dokument 14-1-NVT 8 Entgleisungen Lorch und Oldenburg vom 09.12.2014, DB Netz AG, 
+I.NVT8 Systemschnittstelle Infrastruktur, Völckerstraße 5, 80939 München. 
+Eung-Shin: Untersuchung des Entgleisungsverhaltens von Güterwagen mit 
+[6]  
+Lee, 
+Mehrkörpersystem (MKS)- Modell unter Berücksichtigung der COULOMBsehen Reibung 
+der geschichteten Blattfeder, 
+Dissertation an der Fakultät V -
+Verkehrs-
+und 
+Maschinensysteme, TU Berlin, Prof. Hecht, 2003. 
+[7]  
+ORE Bericht ORE C 138 Bericht Nr. 8, 1984 Zulässige Höchstwerte der Y- und Q-Kräfte 
+und Entgleisungskriterium, Utrecht, September 1984. 
+### Abbildungsverzeichnis 
+Abbildung 2-1 : Unfallfahrzeug Uiks 635 ........................................................................................... 6  
+Abbildung 2-2: Entgleisungsstelle Bahnübergang bei km 6,4- km 6,5 ........................................... 6  
+Abbildung 2-3: Beschädigungen am Radsatzhalter des Unfallfahrzeugs ........................................ 7  
+Abbildung 3-1 : Ausschnitt Überschreitungsprotokoll RA I Lab Messung vom 28.06.13 ................... 7  
+Abbildung 3-2: RAILab Gleislage vom 28.06.2013 km 7069 :-km 5925 ......................................... 8  
+Abbildung 3-3: Ausschnitt RAILab Gleislage vom 28.06.1 3 km 6520- km 6440 ........................... 9  
+Abbildung 3-4: Eigenfrequenzen des Fahrzeugs und Anregungsfrequenzen durch Gleislage ..... 11  
+Abbildung 5-1: Beschriftung Unfallfahrzeug ................................................................................... 13  
+Abbildung 5-2: Zeichnung Gesamtansicht Fwg 635.01 .000.002 ................................................... 13  
+Abbildung 5-3: Definition des Koordinatensystemes aus EN 14067-1 [4] ..................................... 14  
+Abbildung 5-4: Zeichnung Untergestell Fwg 635.03.000.002 ........................................................ 15  
+Abbildung 5-5: Modell Wagenkasten ............................................................................................. 15  
+Abbildung 5-6: Doppelschakenaufhängung aus Fwg 637.0.02.000.001 ....................................... 16  
+2015-07-03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 41
+
+SIM052015BE 
+Abbildung 5-7: SIMPACK Submodell Fahrwerk ............................................................................ 17 
+Abbildung 5-8: Radsatz BA 077 aus Zeichnung Fwg 802.02.002.77 ............................................ 17 
+Abbildung 5-9: Rollenachslager BA 088 aus Zeichnung Fwg 825.02.002.88 ............................... 18 
+Abbildung 5-10: Beschränkung durch Achshalter aus Fwg 637.0.02.000.001 .............................. 18 
+Abbildung 5-11: Modeliierung Doppelschakenaufhängung ........................................................... 19 
+Abbildung 5-12: Blattfeder aus Fwg 637.0.02.020.001 .................................................................. 19 
+Abbildung 5-13: SIMPACK Modeliierung Blattfeder. ...................................................................... 20 
+Abbildung 5-14: Kennlinie und Hysterese der Blattfeder ............................................................... 20 
+Abbildung 5~15: Bild Puffer und Zughaken des Unfallzuges und Pufferzeichnung aus Zeichnung 
+Fwg 000.06.003.20 Hülsenpufferdrehbar 105mm Hub 620mm Länge 59Mp Endkraft ........ 21  
+Abbildung 5-16: Arbeitsdiagramm Hülsenpuffer aus Fwg 000.06.003.20 und SIMPACK Modell. 21  
+Abbildung 5-17: Pufferpaar ............................................................................................................. 22 
+Abbildung 5-18: SIMPACK Pufferkennlinie mit den Varianten weich und hart.............................. 22 
+Abbilduflg 5-19: Zugeinrichtung und Kennlinie nach 3Fwg000.0.05.017.113 ............................... 22 
+Abbildung 5-20: SIMPACK Modell Einzelfahrzeug Uiks 635 ......................................................... 23 
+Abbildung 5-21 : SIMPACK 3-Wagen-Modell Uiks-Uiks-Uiks'635 ....................... ~ ......................... 23  
+Abbildung 6-1: Simulationsrechnungen Ruhelage Einzelfahrzeug ................................................ 24 
+Abbildung 6-2: Laufstabilität SO, SV-Kräfte V=100 km/h V=120 km/h ........................................... 25 
+Abbildung 6-3: Laufstabilität SO, SV-Kräfte V=140 km/h v=160 km/h ........................................... 25 
+Abbildung 8-1: Simulationsrechnungen Unfall Oldenburg Radanheben Wagen 2 und 3, Fahrzeug 
+Uiks635 mit Hysterese, ohne RS-Halter ................................................................................. 27 
+Anlage A-3: 2: 0-Kräfte TP 20 Hz Simulationsrechnungen Unfall Oldenburg Uiks635 mit  
+Hysterese mit RS-Halter .......................................................................................................... 34  
+2015·07-03_Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 42
+
+SIM052015BE 
+-- -----
+### 1. Aufgaben und allgemeine Angaben 
+Es 
+sollen Simulationsrechnungen zur Zugentgleisung Oldenburg am 29.06.13 durchgeführt 
+werden. Die Unfallursache konnte nicht eindeutig geklärt werden. Hinsichtlich der Zugentgleisung 
+sollen die in 
+der Anfrage und dem Angebot beschriebenen 
+Fragestellungen durch 
+Simulationsrechnungen 
+untersucht 
+werden. 
+Die 
+Berechnungen 
+werden 
+mit 
+dem 
+Mehrkörpersimulationsprogramm SIMPACK Version 9.5 durchgeführt. 
+im Auftrag vom 
+Eisenbahn-Bundesamt 
+Zentrale der Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+Untersuchungsbezirk Essen 
+HerseheistraBe 3 
+30159 Hannover 
+Ansprechpartner: I 
+MaiI: 
+durchgeführt von 
+simtes - Simulation technischer Systeme 
+Prof. Dr.-lng. Rolf Naumann 
+Senner Waldweg 18 
+33659 Sielefeld 
+Bearbeiter: Dr. Naumann 
+Umfang des Berichtes und der Anlagen: 
+Bericht: 
+Seiten 29 
+Anlagen: 
+Seiten 6 
+2015·07-03_Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 43
+
+SIM052015BE 
+-----
+----
+### 2. Beschreibung des Unfallhergangs 
+Am Samstag, 29.06.2013 um 00:47 Uhr, entgleiste die Zugfahrt DGS 83799 (Abelitz ­
+Magdeburg) auf der Strecke Oldenburg - Leer, Strecken-Nr. 1520-0, etwa in km 6,4 im 
+Streckenabschnitt Kayhauserfeld -
+Oldenburg (Oidb.) 
+mit einer Achse 'eines 
+leeren 
+Tiefladewagens der Gattung Uiks Bauart 635. Der Zug bestand aus mehreren Wagen dieser 
+Bauart und wird für den Transport von Rotorblättern für Windräder eingesetzt. ln Abbildung 2-1 ist 
+das Unfallfahrzeug mit den Anbauteilen (Flansch) für die Sicherung der Ladung abgebildet. 
+Abbildung 2-1: Unfallfahrzeug Uiks 635 
+Die Entgleisungsstelle liegt in der Nähe eines Bahnübergangs wobei deutlich mehrere 
+Längshöhenfehler in der Gleislage zu erkennen sind. Das Unfallfahrzeug fuhr in Richtung 
+fallender Kilometrierung. · 
+### Abbildung 2-2: Entgleisungsstelle Bahnübergang bei km 6,4- km 6,5 
+ln Abbildung 2-3 sind die Beschädigungen des Radsatzhalters am hinteren Fahrwerk zu 
+erkennen. Das Fahrzeug ist mehrfach entgleist und wieder eingegleist. 
+2015-07 -03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 44
+
+SIM052015BE 
+---------
+### Abbildung 2-3: Beschädigungen am Radsatzhalter des Unfallfahrzeugs 
+Zwischen km 5,925 und km 7,069 liegen RAILab Gleislagedaten aus Messung vom 28.06.2013 
+vor, wobei im ersten Entgleisungsbereich drei SR 100 Überschreitungen zwischen 14 mm und 
+15 mm auf einer Länge von 18 m aufgezeichnet wurden (siehe Abbildung 2-2 hintere Gleislage). 
+Die RAILab Messungen entsprechen einer formtreuen Gleislage im Wellenlängenbereich 
+zwischen 1 m- 70 m. Die Messungen sind für die Simulationsrechnung in Richtung der fallenden 
+Kilometrierung aufzubereiten. 
+Die Unfallursache konnte nicht eindeutig geklärt werden, da die Gleislagemessungen kein 
+Überschreiten der SR Lim Fehler zeigen und ebenso keine offensichtlichen Mängel am Fahrzeug 
+vorlagen. Das Auftreten von drei SR 100 Fehlern in kurzem Abstand kann ein Hinweis auf die 
+Unfallursache sein. Daher sollen durch Simulationsrechnungen die Unfallursachen ermittelt 
+werden. 
+3. Gleislage 
+3.1. 
+RAILab Messungen: Auswertung und Vergleich mit Fahrzeugmoden 
+Basierend auf dem RAILab Messungen wird die Gleislage vor der Entgleisungsstelle hinsichtlich 
+der Periodizität und den daraus resultierenden Anregungsfrequenzen bei unterschiedlichen 
+Fahrgeschwindigkeiten untersucht. 
+Das Überschreitungsprotokoll der Messung zeigt die gelb markierten Gleislagestörungen 
+(Abbildung 3-1) im Bereich der Entgleisungsstelle: 
+I 
+l1s2o-0 Oldenburg -Leer 
+28.06.2013 10:46 
+RL1306280t.srh (14) 
+. J 
+jGH 
+.i.oRE-Vw 
+LH Ii/re . 
+I!H Ii/re 
+Spw 1435 
+iSpw 1435 ·· 
+I 
+I 
+.,nicht 
+nicht 
+Dreipunkt 
+Hochpass 
+Dreipunkt 
+MiniMax 
+Mittelwert
+~L-... '_.----1-
+---
+!> SRIOO 
+>SRJOO 
+I>SRJOO 
+>SRIOO 
+<143<V>SRJOO <TSI 
+belegt 
+Jbelegt 
+mo+ooo­
+- -r l~mJ. ·
+r.m~mJ'------1 
+:·-----·· ----=-·=·--1-----j
+--
+---tJ[""mrn::cl,__-+"lm=m"-'-J---,""
+----i~--_!2_. -----
+4 
+:
+:~~::--
+~~~~---~~--4----+-----~~-----+--- --- --------,_______ 
+! 
+-------+~ -------+·- --- · ·-.:... -
+4.1i95+(J()() - -
+- ·· 
+lli 
+------ ---·- -
+----1 
+_:·:: ==~-·----l 
+· __ 
+------t'- 1_4 -----+-------t--------t--------+-1------1- ---- - -- ..- ­
+~ 6,464 + 000 
+· -- . 106 -
+= ~ --·-
+-+--------+--
+1· 
+__
+~ +_+ 
+15 
+1 
+1 _ ____:_:_14_1I 
+,_ 
+· ______
+- -· - _ -·
+---· · -
+_ _- -
+__ 
+­
+10.600+ ooo 
+### Abbildung 3-1: Ausschnitt Überschreitungsprotokoll AAllab Messung vom 28.06.13 
+2015·07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 45
+
+SIM052015BE 
+Die gemessenen Gleislagedaten der Strecke 1520-0 Streckenkilometer 6,0 bis 7,0 und die 
+Trassierung (vgl. Kap. 3.2) in diesem Abschnitt wurden von OB Netz AG für die Simulation in 
+SIMPACK aufbereitet und vom AG zur Verfügung gestellt. Die aufbereiteten formtreuen Daten 
+konnten problemlos in SIMPACK eingelesen und verarbeitet werden. Da die Fahrtrichtung des 
+Unfallfahrzeugs in entgegengesetzter Fahrtrichtung des Gleismesszuges stattfand, mussten die 
+Gleislagedaten gespiegelt werden. ln Abbildung 3-2 ist der Längshöhen- und Spurweitenverlauf 
+für den Messabschnitt dargestellt. Deutlich ist in der Umgebung der Entgleisungsstelle zwischen 
+km 6520 und km 6440 eine gleichzeitige Erhöhung bei den Längshöhenfehlern beider Gleise zu 
+erkennen. 
+RAILab Gleislage 7069 km - 5925 km Strecke 1520-0 vom 28.06.2013 
+Längshöhe z 
+-
+result.$RWP_Left.Pair.z_ irreg Vertical rail irregularity 
+-
+-
+resutt.$RWP_Right. Pair.z_irreg Vertical rail irregularity 
+I 
+x 10"3 
+a 
+1 ~--------------------------------------------------------------~ 
+ii'
+i 1 
+~ 
+Strecke s I m 
+Spurweite y 
+-
+resutt.$RWT_Wheelset.y_irreg Lateraltrack excitation 
+3 
+X 10"
+I 
+~---------------------------------------------------------------, 
+·6 00 
+Strecke s I m 
+### Abbildung 3-2: AAllab Gleislage vom 28.06.2013 km 7069- km 5925 
+ln Abbildung 3-3 ist dieser Abschnitt herausgehoben. Eine Auswertung der Längshöhenfehler 
+zeigt eine gute Übereinstimmung mit dem Auswerteprotokoll des Messzuges, wobei nicht alle 
+Überhöhungen in dem Protokoll ausgewiesen werden, da der Grenzwert nicht überschritten 
+wurde. Insbesondere ist eine Periodizität in dem Längshöhenfehler zu erkennen, die für das linke 
+und rechte Gleis parallel verlaufen und insgesamt sind 4 Schwingungsperioden zu erkennen 
+(siehe _ Abbildung 3-3). Es liegt somit keine Verwindung sondern eine fast ausschließlich vertikale 
+Auslenkung vor. 
+2015-07-03 _Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 46
+
+SIM052015BE 
+RAILab Gleislage 6520 km - 6440 km Strecke 1520-0 vom 28.06.2013 
+Längshöhez 
+-
+resutt.$RWP_Left.Pair.z_irreg Vertical rail irregularity 
+-
+-
+resutt.$RWP_Right.Pair.zjrreg Vertical rail irregularity 
+1 
+3 
+3 
+E 
+x1o·
+g 1~--------------------~~----~------~------~-----------------, 
+~ 
+~ 1 
+<I> 
+>< 
+0 
+~ 
+~ 
+~ 
+> 
+Sireckes I m 
+Spurweite y 
+-
+resutt.$RWT_Wheelset.y_irreg Lateraltrack excnation 
+3 
+X 10"
+I h--------------------------­-­-­-­--------------------------------. 
+Sireckes Im 
+### Abbildung 3-3: Ausschnitt AAllab Gleislage vom 28.06.13 km 6520- km 6440 
+Die Auswertung der Periodizität Iambda der vorliegenden Gleislage ist in Tabelle 3-1 dargestellt. 
+Es ergibt sich eine periodische Gleislage mit einer mittleren Wellenlänge von 9,28 m mit vier 
+zwischen 4 mm 
+und 13 mm. 
+ausgeprägten 
+Schwingungen mit einer Amplitude 
+Die 
+Abweichungen dieser Werte zu den Werten des Überschreitungsprotokolls (seine Abbildung 3-1) 
+ist der Filterung und Rundung für die Beurteilung der Gleislage nach DB Ril 821 zuzuschreiben. 
+### Tabelle 3-1: Auswertung der Periodizitat der Gleislage
+Für die Untersuchungen wird das Mehrkörper-Simulationsmodell in SIMPACK Version 9.5 für die 
+Simulation des dynamischen Verhaltens des Fahrzeugs erstellt. ln Kapitel 5 wird der Aufbau des 
+1Nach OB Ril 821 "Oberbau inspizieren" vom 01.01.2012 liegen die Bewertungsschwellen bei Strecken zwischen 80 
+kmlh < v <= 120 km/h für Längshöhenfehler bei SR 1 00 > 13 mm und SR Lim > 17 mm. 
+2015-07-03_Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 47
+
+SIM052015BE 
+Seite 1 0 von 35 
+Modells beschrieben. Entscheidend für die Bewegungen des Fahrzeugs bei einer Anregung 
+(Gieislage) ist das Eigenverhalten des Fahrzeugs, das durch eine lineare Analyse bestimmt 
+werden kann. Das Eigenverhalten des Fahrzeugs wird dabei durch die Eigenmoden beschrieben, 
+wobei jedem Eigenmode eine Frequenz, eine Dämpfung und eine Eigenform (Auslenkung) 
+zugeordnet sind. Wird das Fahrzeug periodisch mit der Eigenfrequenz angeregt, kommt es 
+### abhängig von der Dämpfung zu einer Verstärkung der Auslenkung (Bewegung). 
+Die Eigenmodeanalyse des aufgebauten Simulationsmodells vom unbeladenen Einzelfahrzeug 
+Uiks635 ergibt Eigenmoden (siehe Tabelle 3-2), die sich im Wesentlichen aus der Abbildung des 
+Wagenkastens durch zwei Körper (siehe auch Kapitel 5) und den Blattfedersteifigkeiten. Das 
+verwendete Koordinatensystem ist in Kapitel 5.1 erläutert. 
+### Tabelle 3-2: Eigenmoden und Eigenfrequenzen des unbeladenen Fahrzeugs Uiks 625 
+Ei enform 
+### Fre uenz/ Hz 
+rad 
+2,12 
+0,54 
+Drehung um x-Achse 
+I Wanken I Sway 
+Nicken um y-Achse I 
+2,36 
+0,30 
+Pitch 
+Huben I Lift 
+2,61 
+0,34 
+7,84 
+Torsion um x-Achse 
+8,80 
+Torsion um y-Achse 
+14,46 
+Torsion um z-Achse 
+Die Analyse der Gleislage zeigt eine periodische Anregung über die Radsätze mit einer 
+Wellenlänge von 9 m im Wegbereich. Durch die Fahrt des Fahrzeugs über die Gleise mit einer 
+bestimmten Geschwindigkeit wird daraus eine periodische Anregung im Zeitbereich. Fällt diese 
+mit einer Eigenfrequenz des Fahrzeugs zusammen, wird der zugehörige Eigenmode angeregt 
+und das Fahrzeug fängt an zu schwingen. 
+2015-07 -03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 48
+
+SIM052015BE 
+Aus der Gleislage ergeben sich bei verschiedenen Fahrzeuggeschwindigkeiten folgende 
+Anregungsfrequenzen: 
+Tabelle 3-3: Anregungsfrequenzen der Gleislage bei verschiedenen Geschwindigkeiten 
+v in km/h 
+mittlere Anregungsfrequenz in Hz 
+| vinkm/h | mittlereAnregungsfrequenzinHz |
+| 60 | 180 , |
+| 70 | 209 , |
+| 80 | 239 , |
+| 90 | 269 , |
+| 100 | 299 , |
+| 110 | 329 , |
+| 120 | 359 , |
+| 130 | 389 , |
+| 140 | 419 , |
+| 150 | 449 , |
+| 160 | 479 , |
+Die Gegenüberstellung der Anregungsfrequenzen der Gleislage mit den Eigenfrequenzen des 
+unbeladenen Fahrzeugs ergibt folgendes Diagramm: 
+Eigenfrequenzen und Anregungsfrequenzen durch 
+Längshöhenfehler 
+4,0 
+..."."­ -
+Anregungsfrequenz 
+3,5 
+~ 
+-­ Wanken 
+~ -· 
+3,0 
+-
+Nicken 
+l ~ 
+N::c 
+N c., 
+"... 
+-
+Huben 
+2,5 
+: 
+~ 
+-­Torsion x-Achse 
+~ 
+...",... 
+2,0 
+-­ Torsion y-Achse
+~ 
+Torsion z-Achse 
+1,5 
+• • • • • • Unfallgeschwindigkeit 
+1,0 
+80 
+100 
+120 
+70 
+90 
+60 
+110 
+v Fahrzeug km/h 
+Abbildung 
+3-4: Eigenfrequenzen des Fahrzeugs und Anregungsfrequenzen durch 
+Gleislage 
+Im relevanten Geschwindigkeitsbereich um 80 km/h liegen die Eigenschwingungen des 
+Fahrzeugs 
+und 
+der 
+Anregung 
+übereinander. 
+Zum 
+Unfallzeitpunkt 
+betrug 
+die 
+Fahrzeuggeschwindigkeit ca. 87 km/h, daraus ergibt sich eine Anregungsfrequenz aus der 
+Gleislage von 2,61 Hz. Dies entspricht exakt der Eigenfrequenz der Hubbewegung des 
+Fahrzeugs, die damit besonders angeregt wird. 
+· 
+2015-07 -03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 49
+
+SIM052015BE 
+## 3.2. 
+### Trassierung 
+Die Trassierung der Strecke mit Radien und Überhöhungen im Abschnitt km 6,0 bis km 7,0 wurde 
+ebenfalls von DB Netz für die Simulation aufbereitet und wird entsprechend berücksichtigt. Der 
+betrachtete Streckenabschnitt liegt in einem sehr großen Bogenradius ohne geplante 
+Überhöhung, so dass sich aus fahrtechnischer Sicht ein vernachlässigbarer Einfluss aus der 
+Bogenfahrt ergibt (entspricht einer Fahrt im geraden Gleis). Bei allen Simulationsrechnungen 
+wurde die vorliegende Trassierungsteige für den Fahrweg Kayhauserfeld- Oldenburg entgegen 
+der Messrichtung des RAILab verwendet (Umrechnung notwendig). 
+## 3.3. 
+### Gleislagen nach ERRI B176 
+ln dem Bericht ERRI B176 sind die Leistungsdichtespektren für typische Gleislageanregungen in 
+horizontaler und lateraler Richtung definiert. ln SIMPACK sind die Koeffizienten für das Spektrum 
+einer guten (Ausbaustrecken) und einer schlechten (Nebenstrecken) Gleislage abgelegt und es 
+können verschiedene Anregungen im Zeitbereich durch die Wahl verschiedener Startwerte 
+erzeugt werden. Für die vergleichende Simulation mit typischen Gleislagen wurden folgende 
+Gleislagen mit einer Wellenlänge zwischen 3 m und 25 m erzeugt: 
+ERRIIow z: 
+3,6 mm 
+ERRI low y: 2,5 mm 
+ERRI high z: 
+5,5 mm 
+ERRI high y: 4,2 mm 
+Die Diagramme zu den Gleislagedaten sind in Anlage A-1 dargestellt. Für die linke und rechte 
+Schiene werden jeweils unterschiedliche Anregungen erzeugt. 
+### 4. Kontaktgeometrie 
+Wesentlichen Einfluss auf das Fahrverhalten von Schienenfahrzeugen hat der Rad-Schiene 
+Kontakt. ln SIMPACK können gemessene Rad- oder Schienenprofile für die Berechnungen 
+verwendet werden. Üblicherwei!;)e werden die Standardprofile Radprofil S1 002 und Schienenprofil 
+UIC-60 E1 verwendet. Von dem Unfallfahrzeug wurden die Radprofile abgezeichnet und liegen in 
+dem Bericht [3] vor. Von jedem Radsatz wurden 4 Messungen durchgeführt und die Radradien 
+vermessen. Ein Vergleich der vorhandenen Messungen eines Radsatzes zeigt keine erheblichen 
+Unterschiede, daher wurden die Messungen ausgewählt mit denen die Simulationsrechnungen 
+(insbesondere die Berechnung der Kontaktgeometrien) problemlos durchgeführt werden konnten. 
+Die Messdaten wurden für SIMPACK geeignet aufbereitet. Folgende Messungen und Daten 
+wurden verwendet: 
+### Tabelle 4-1: Verwendung der gemessenen Radprofile 
+|  | Radsatz"447457 (Einbauposition 2): | Radsatz252981 (Einbauposition 1): |
+| Radprofil | Messung 3 (SIMPACK Datei: Radprofil RS 447 rechts v3prw) . | Messung 4 (SIMPACK Datei: Radprofil RS 252 rechts v4prw) . |
+| Raddurchmesser | rechts: 700 mm links: 698mm | rechts: 703 mm links: 705mm . |
+Für die Simulationsrechnungen mit dem Radprofil S1 002 wird bei allen Fahrzeugen ein 
+Raddurchmesser von 704 mm verwendet. 
+ln der Anlage A-2 sind die zugehörigen Kontaktgeometrien mit SIMPACK ausgewertet dargestellt. 
+Für 
+alle 
+Simulationsrechnungen 
+wird 
+eine 
+Spurweite 
+von 
+1435 
+mm 
+und 
+eine 
+Schieneneinbauneigung von 1/40 verwendet. 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 50
+
+SIM052015BE 
+### 5. Modellerstellung 
+Das Unfallfahrzeug besitzt folgende Daten (siehe Abbildung 5-1): 
+Gattung: 
+Tiefladewagen Uiks  
+Bauart: 
+635 (ohne Drehschemel)  
+Baujahr: 
+nach 1970  
+Laufwerk: 
+Doppelschakenfahrwerk  
+Radsätze: 
+Bauart: BA 077 RS-Nr.: 447457+82 vorlaufend (entgleist):  
+Bauart: BA 077 RS-Nr.: 252981-73 nachlaufend (nicht entgleist) 
+Gewicht: 
+12.400 kg (ohne Drehschemel I mit Drehschemel12.800 kg) 
+27 t 
+. Zuladung: 
+### Abbildung5-1: Beschriftung Unfallfahrzeug 
+ln Abbildung 5-2 ist die Gesamtansicht des Fahrzeugs zu sehen. Daraus ergeben sich folgende 
+Daten: 
+LüP: 
+15760 mm (Puffer abgesenkt, leeres Fahrzeug) 
+Radsatzstand: 
+9000 mm 
+Höhe Puffer: 
+640 mm (entspricht Höhe Wagenkasten (WK)) 
+BreiteWK: 
+2850 mm 
+Breite ü. a.: 
+3020 mm 
+### Abbildung 5-2: Zeichnung Gesamtansicht Fwg 635.01.000.002 
+Für die Modellerstellung werden das Verhalten und die Eigenschaften der wichtigsten Elemente 
+durch Körper, Kraftelemente oder Gelenke abgebildet. Dies sind 
+2 Radsätze (starrer Körper)  
+4 Doppelschaken-Aufhängungen (elastisch und gelenkig gelagerte Stäbe)  
+4 Blattfedern (nichtlineare Feder-Dämpfer-Elemente)  
+4 Radsatzführung (Radsatzhalter als Körper mit Anschlägen als Kontaktelementen)  
+1 Wagenkasten (dargestellt durch zwei Körper die elastisch miteinander verbunden sind)  
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 51
+
+SIM052015BE 
+4 Puffer (Körper mit nichtlinearen Feder-Dämpfer Elementen und Kontaktgeometrie der  
+Teller)  
+2 Zugeinrichtung (nichtlineare Feder-Dämpfer Kennlinie)  
+Im Folgenden wird die Modeliierung der Elemente erläutert. Für die Modellerstellung wurden vom 
+AG Unterlagen und Zeichnungssätze zur Verfügung gestellt. Für die Modeliierung sind die 
+Geometrien (Koppelpunkte), Massen, Trägheitsmomente, Steifigkeiten und Dämpfungen der 
+Elemente notwendig. ln den Unterlagen nicht enthaltene Daten wurden (vereinfacht) berechnet 
+oder plausibel abgeschätzt. 
+ln der Zeichnung Beiblatt 2 zu 1Fwg 637,.0.02.000.001 Federspiel und Pufferstand Berechnung 
+für Parabelfeder sind die Daten für die gefederten und unabgefederten Massen enthalten, die 
+Grundlage der vorliegenden Modeliierung sind. Es ergeben sich folgende Daten: 
+Gewicht der unabgefederten Wagenteile: 
+2 Radsätze 
+1776 kg 
+| 2 Radsätze | 1776kg |
+| 4 Radsatzlager | 316 kg |
+| 4 Parabelfedern | 328kg |
+Summe: 2420 kg (je Fahrwerk 1210 kg) 
+Bei einem Gesamtgewicht von 12.400 kg ergibt sich für die gefederte Masse ein Gewicht von 
+9980 kg. 
+' 
+## 5.1. 
+### Koordinatensystem 
+Für die Modeliierung und die anschließende Auswertung wird das Koordinatensystem nach EN 
+14067-1 [4] verwendet: 
+---y 
+-f----1,-----1--X  
+y 
+### Abbildung 5-3: Definition des Koordinatensystemes aus EN 14067-1 [4] 
+## 5.2. 
+### Wagenkasten 
+Der Wagenkasten ist eine Rahmenstruktur bestehend aus Stahlprofilen (Abbildung 5-4). Die zwei 
+seitlichen Längsträger werden über Querstreben miteinander verbunden und an den Enden sind 
+jeweils Kopfstücke montiert die als Aufnahme für den Pufferträger mit den Puffern dienen. 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 52
+
+SIM052015BE 
+### Abbildung 5-4: Zeichnung Untergestell Fwg 635.03.000.002 
+Das Modell des Wagenkastens besteht aus zwei Hälften, deren Struktur aus der Zeichnung des 
+Untergestells abgeleitet wurde (Abbildung 5-5). Jede Hälfte wird als Körper modelliert der jeweils 
+aus zwei Doppel-T-Trägern (Längsträger), Querstreben, Platten für die Fahrwerksaufnahmen und 
+die Kopfstücke besteht. Über die Materialdichte wurden anhand dieser Geometrie das Gewicht an 
+die Wagenkastenmasse angepasst und anschließend aus der Massenverteilung die unbekannten 
+Trägheitsmomente in SIMPACKberechnet. 
+### Abbildung 5-5: Modell Wagenkasten 
+Folgende Eigenschaften besitzt jeder Körper: 
+Mass =4580.83 kg  
+Schwerpunktlage CG [x, y, z] = [0.166726, 0, -0.60736] m  
+Inertia [Ixx, Iyy, Izz] =[5602.89, 22575.7, 28065.8] kg m2  
+Daraus ergibt sich für den gesamten Wagenkasten: 
+Mass =9161.66 kg  
+Schwerpunktlage CG [x, y, z] = [4.5, 0, -0.60736] m  
+Inertia [Ixx, Iyy, Izz] = [11205.8, 217182, 228163] kg m2  
+Die beiden Wagenkastenhälften sind über ein Feder-Dämpfer-Element mit 3 translatorischen und 
+3 rotatorisehen Steifigkeiten und Dämpfungen verbunden. Basierend auf den Ergebnissen von 
+2015-07-03_Unfall_ Oldenburg_offzieii_Final_v3.docx 
+
+## Página 53
+
+SIM052015BE  
+FE-Untersuchungen [5] wurden die Steifigkeiten so angepasst, dass sie in einem Bereich von 
+7Hz-14Hz liegen mit einer Dämpfung zwischen 0,1 und 0,2 (siehe Abbildung 3-4). 
+Transportflansch: Für den Transport der Rotorblätter wird auf der Ladeebene des Wagens ein 
+Adapter I Flansch montiert. Dieser hat ein Gewicht von . 700 kg und wird als Quader an dem 
+Wagenkasten 
+modelliert. 
+Aus 
+den 
+Zeichnungen 
+werden 
+folgende 
+Schwerpunktlagen 
+angenommen: 
+Schwerpunktlagen in  x-Richtung: +-3115 mm 
+y-Richtung: 32 mm 
+z-Richtung: Ladeebene 
+Das zusätzliche Flanschgewicht wird bei den Unfalluntersuchungen verwendet. Da nicht eindeutig 
+erkennbar ist in welcher Richtung der Flansch montiert ist, werden zwei Simulationsrechnungen 
+mit unterschiedlichen Schwerpunktlagen in x-Richtung durchgeführt. 
+## 5.3. 
+### Fahrwerk 
+Bei 
+dem 
+Fahrwerk 
+handelt 
+es 
+sich 
+um 
+ein 
+übliches 
+Einzelachsfahrwerk 
+mit 
+Doppelschakenaufhängung gemäß Abbildung 5-6. 
+Die Radsatzaufhängung besteht im 
+Wesentlichen aus dem Radsatzlager, der Blattfeder mit Federbolzen und den Schaken. 
+Kennzeichnend für die Schakenaufhängung ist die Aufhängung und Verbindung der oberen und 
+unteren Schake durch Schakensteine wodurch eine Querbewegung des Radsatzes bei 
+gleichzeitiger (lastabhängiger) Reibdämpfung ermöglicht wird, die durch den Achshalter 
+(Anschlag) beschränkt wird. 
+M itt e 
+_~ --
+\ 
+650:lJ- I_J 
+_ 
+16so:l 
+### Abbildung 5-6: Doppelschakenaufhängung aus Fwg 637.0.02.000.001 
+ln Abbildung 5-7 ist das SIMPACK Modell des Fahrwerks mit den Elementen Radsatzwelle, 
+Radsatzlager, Achshalter, Schakenaufhängung, Blattfeder mit Federbolzen dargestellt. Die 
+geometrischen Daten für die Koppelpunkte wurden den Zeichnungen entnommen. 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 54
+
+SIM052015BE 
+### Abbildung 5-7: SIMPACK Submodell Fahrwerk 
+Im Folgenden werden die Modellierungselemente beschrieben. 
+5.3.1. 
+Radsatz 
+ln dem Fahrzeug sind Radsätze der Bauart BA 077 mit einem nominellen Raddurchmesser von 
+760 mm und einem Gewicht von 920 kg eingebaut. 
+' · 
+12 251) 
+\ 
+I 
+· p, ß tz i W•ll• 185 js ß 
+'~ - >( ' iBohrvng 115U.9 
+' 
+Rund1~il u. JW~ll• 
+I 
+lZJ 
+I T. S 
+ly'ind«IOim lsc:n •Jng " , 
+Abbildung 5-8: Radsatz BA 077 aus Zeichnung Fwg 802.02.002.77 
+Der Radsatz wird durch einen starren Körper mit folgenden Eigenschaften abgebildet: 
+Mass =920 kg  
+Inertia [Ixx, Iyy, Izz] = [1000, 100, 1000] kg m2  
+Die verwendeten Radprofile sind in Kapitel4 ausführlich beschrieben. 
+5.3.2. 
+Radsatzlager 
+Für die Radsatzlager wird in dem Fahrzeug Uiks 635 ein Rollenachslager BA 088 mit einem 
+Gewicht von 79 kg angenommen. (siehe Abbildung 5-9). 
+2015-07 -03_ Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 55
+
+SIM052015BE 
+:/r--,.,---- · -- ­
+/.· 
+. I 
+t..~ 
+BA088 
+Abbildung 5-9: Rollenachslager BA 088 aus Zeichnung Fwg 825.02.002.88 
+Die Radsatzlager werden als starre Körper die drehbar auf der Radsatzwelle gelagert sind 
+modelliert. 
+5.3.3. Achshalter und Anschläge 
+Durch den Achshalter erfolgt eine Beschränkung der Wege in lateraler Richtung auf 20 mm und in 
+longitudinaler Richtung auf 22 mm (Anschläge). 
+Schnitt ß-B 
+Abbildung 5-10: Beschränkung durch Achshalter aus Fwg 637.0.02.000.001 
+Die Anschläge werden in SIMPACK durch einseitige Feder-Dämpfer-Elemente (Contact-Eiement 
+18) mit sehr hohen Steifigkeiten (2e6 kN/mm) abgebildef. Die korrekte Modeliierung der 
+Anschläge wurde durch Rechnungen (Auslenkung des RS) verifiziert. 
+5.3.4. 
+Schakenaufhängung 
+Die Schakenaufhängung wurde in einem ersten Schritt sehr detailliert modelliert. Dabei wurde 
+jede Schake und jeder Schakenstein durch einen Körper abgebildet (siehe Abbildung 5-11 ). 
+2 Bei einer weitergehenden Modeliierung könnte man die Elastizitäten des Achshalters berücksichtigen. Dies ist aber für 
+die vorliegenden Untersuchungen nicht notwendig, da auch die elastischen Steifigkeiten der Anschläge im Vergleich zu 
+den Steifigkeiten der Schakenaufhängung und Blattfedern wesentlich größer sind. 
+2015-07-03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 56
+
+SIM052015BE 
+### Abbildung 5-11: Modeliierung Doppelschakenaufhängung 
+Da die Dämpfungen und Steifigkeiten zwischen den Elementen nicht bekannt ist, mussten 
+entsprechende Werte angenommen werden. Dies führte aufgrund der vielfach auftretenden 
+Eigenfrequenzen der Schaken zu sehr hohen Rechenzeiten; teilweise konnte keine Lösung 
+gefunden werden. Daher wird die Doppelschakenaufhängung vereinfacht durch einen Lenker 
+dargestellt, der mit ein~m Ende an der Blattfeder und mit dem anderen Ende an dem Federbock 
+elastisch in allen sechs Freiheitgraden (3 translatorische, 3 rotatorisehe Freiheitsgrade) gelagert 
+ist. Somit werden die in den Schaken enthaltenen · Dämpfungen durch die Gesamtdämpfungen 
+und Gesamtsteifigkeiten in den Lagern abgebildet. Ein Vergleich zwischen der detaillierten und 
+der vereinfachten Modeliierung zeigt keinen Unterschied in den relevanten Größen (Rad/Schiene 
+Kräfte I Eigenbewegung des Gesamtfahrzeugs). 
+Die Dämpfungen in den Schaken hat einen wesentlichen Einfluss auf das Fahrverhalten und die 
+Fahrstabilität Da diese nicht bekannt sind, wurden die Dämpfungen über Simulationsrechnungen 
+so eingestellt, dass bis 140 km/h ein stabiles Fahrverhalten im geraden ungestörten Gleis vorliegt. 
+Die Ergebnisse der Stabilitätsrechnungen sind in Kapitel 6.2 beschrieben.· 
+5.3.5. Blattfeder 
+Die Federung des Wagenkastens erfolgt über die vier Blattfedern in den Fahrwerken 
+entsprechend Abbildung 5-12. 
+L •979 11000:1 
+tstnckt) 
+:'. ,.. · 
+Feder im unbelasteten Zustand gezeichnet 
+L.--JO!l!L'"""'·"'"""' 
+. 
+. . 
+· -- · --·--A- --·--·---
+· -·-- · --~.- · 
+... 
+~ 
+. 
+e 
+o 
+1
+-------------L~~~------------~~
+· ~K--~- d,- ··d,·-· !.l 
+,,.-.,,-~- ,zu-se·, 
+11 DB-Kem22ichnoo noch Zeithnur.g 
+•~: 
+..... .:: 
+... , 
+:!II 
+Fwo OOO.ttOOO. ~3 Teil1 (ohne(Ü) I 
+I 
+des lusatzftde:rblattes 
+Abbildung 5-12: Blattfeder aus Fwg 637.0.02.020.001 
+Die Modeliierung der Blattfeder erfolgt als starrer Körper mit einer Masse von 82 kg der an den 
+Schaken aufgehängt wird und sich über eine Feder auf dem Federbolzen und damit dem 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 57
+
+SIM052015BE 
+Radsatzlager 
+abstützt 
+(s. 
+Abbildung 
+5-13). 
+Somit 
+wird 
+die 
+Kinematik 
+durch 
+die 
+Schakenaufhängung gut abgebildee. 
+Abbildung 5-13: SIMPACK Modeliierung Blattfeder 
+Aus dem Federdiagramm für Fahrzeuge mit OS-Gehänge (Beibl. 1 zu 1 Fwg 637.0.02.020.001) 
+wurde die zweistufige Kennlinie entnommen und in SIMPACK modelliert. 
+Bei einer oftmals üblichen Modeliierung der Dämpfung durch eine konstante Reibkraft (ca. 
+±2,5 kN) wirkt diese über den gesamten Federweg. Bei dem vorliegenden Unfallhergang ist 
+davon auszugehen, dass große Schwingungen und damit große Federwege in der Parabelfeder 
+auftreten. Somit kann die Hysterese der Kennlinie aufgrund der Reibung einen wichtigen Einfluss 
+auf das Fahrzeugverhalten haben. Beim Aufschwingen 0/V.K anheben) der Parabelfeder nimmt 
+die Reibkraft ab, während beim Einschwingen die Reibkraft zunimmt. ln [6] werden das Verhalten 
+der Parabelfeder und die Modeliierung ausführlich beschrieben. Somit ist die Abbildung der 
+Dämpfung durch eine konstante Reibkraft bei großen Bewegungen nur eingeschränkt gültig. 
+Daher wird die Hysterese der Parabelfeder sowie die Abhebemöglichkeit des Federbolzens 
+modelliert. Folgende Kennlinien für das Fahrzeug Uiks werden modelliert (siehe Abbildung 5-14). 
+Reibung Blattfeder 
+Steifigkeit Blattfeder 
+12 
+200 
+..,.
+z 8 
+..,. 
+z 160 
+...... 
+";o4
+c 
+120 
+~ 
+::J 
+.a 0 
+... 
+'ii 
+80 
+a: 
+0 
+Oll... 
+Oll 
+"Cl 
+·4
+40 
+-8 
+0 
+-12 
+0 
+20 
+40 
+60 
+80 
+100 
+120 
+Federkraft/ kN 
+Federweg I mm 
+Abbildung 5-14: Kennlinie und Hysterese der Blattfeder 
+Anmerkung: Für die Berechnungen mit der ERRI Gleislage (siehe Kapitel 3.3) wurde eine 
+vereinfachte Modeliierung der Blattfeder mit einer konstanten geringen Reibung von 300 N 
+verwendet. 
+3 Die nicht berücksichtigte Längenänderung der Blattfeder beim Einfedern hat nur einen sehr geringen Einfluss auf das 
+Fahrverhalten; die beim Einfedern wirkende Dämpfung wird berücksichtigt (s. u.). 
+2015-07-03_ Unfall_ Oldenburg_offzieii_Final_v3.docx 
+
+## Página 58
+
+SIM052015BE 
+5.3.6. Zug-/ Stoßeinrichtung 
+Für den Aufbau eines Zuges aus drei Wagen ist die Modeliierung der Zug-/Stoßeinrichtung 
+notwendig, hierzu gehören die Puffer und der Zughaken (s. Abbildung 5-15). 
+Abbildung 5-15: Bild Puffer und Zughaken des Unfallzuges und Pufferzeichnung aus 
+Zeichnung Fwg 000.06.003.20 Hülsenpuffer drehbar 105mm Hub 620mm Länge 59Mp 
+Endkraft 
+Die Modeliierung des Puffers erfolgt über zwei Körper die über ein translatorisches Gelenk in X­
+Richtung miteinander verbunden sind. Zwischen den Körpern wirkt ein nichtlineares Feder­
+Dämpfer-Element, bei dem die in Abbildung 5-16 dargestellte Kennlinie implementiert ist. Ebenso 
+ist der harte Anschlag nach 1 05 mm Hub berücksichtigt. 
+Abbildung 5-16: Arbe its diagramm HO
+isenpuffer aus Fwg 000.0
+6.0
+03.20 und SI
+MPACK Modell
+Die Abbildung der Pufferkontakte erfolgt in SIMPACK über den 3-D Kontakt (Element 87 Surface­
+Surface 3D-Contact) (Abbildung 5-17). Die Pufferteller werden als gekrümmte Fläche mit einem 
+Puffertellerradius von R=2750 mm abgebildet. Bei Kontakt zwischen den Puffertellern wirkt eine 
+Normalkraft die aus der Eindrückung des Puffers resultiert. Weiterhin wirkt eine Reibkraft parallel 
+zum Pufferteller entgegen der Bewegungsrichtung, die aus der Normalkraft und einem Reibwert 
+berechnet wird. Für die Pufferreibung wird eine mittlere Schmierung angenommen. 
+2015-07·03_Unfall_ Oldenburg_offzieii_Final_v3.docx 
+
+## Página 59
+
+SIM052015BE 
+Abbildung 5-17: Pufferpaar 
+ln Abbildung 5-18 ist die Pufferkennlinie mit den Varianten dargestellt. Für die Abschätzung des 
+Einflusses der Puffersteifigkeiten auf das Untersuchungsergebnis werden die Steifigkeiten mit 
+' dem Faktor 0,7 (weich) und dem Faktor 1 ,3 (hart) multipliziert, alle anderen Parameter werden 
+nicht geändert. 
+### Kennlinien Steifigkeit Puffer 
+.... .
+800 
+-
+normal 
+700 
+..,..' 
+I
+--;<-• 
+weich {0,7) 
+.... 
+z 600 
+/
+.....
+..:.: 
+..... 
+- • - hart (1,3) 
+-500 
+/
+....
+4:: 
+.... 
+~ 400 
+,,
+.... ""_/' 
+........ -­--­ ---
+,, 
+..:.: 
+.... / 
+. 
+~ 300 
+,,~
+,, ~~-
+::II 
+,,, 
+Q. 200 
+- ~ 
+-
+,,,, 
+----Ä
+~ 
+------
+-
+~, ~ -----------­
+, 
+"~ 
+100 
+0 
+20 
+120 
+0 
+40 
+60 
+80 
+100 
+Federweg s/mm 
+· 
+### Abbildung 5-18: SIMPACK Pufferkennlinie mit den Varianten weich und hart 
+Für die Modeliierung der Zugeinrichtung wird der Typ 540.5 1000 kN mit Ringfedern verwendet. 
+Die Zugeinrichtung besitzt eine Arbeitsaufnahme von 20kJ und einen Hub von 65 mm sowie eine 
+Maximalkraft von ca. 600 kN (s. Abbildung 5-19). 
+6.5 J 
+### Abbildung 5-19: Zugeinrichtung und Kennlinie nach 3Fwg000.0.05.017.113 
+Bei 
+dem 
+3-Wagen-Modell 
+wurden 
+die 
+Wagen 
+auf 
+Berührung 
+gekuppelt. 
+Bei 
+der 
+Variantenrechnung Kupplung lose wird ein Abstand von 40 mm (freier Weg) angenommen. 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 60
+
+SIM052015BE 
+## 5.4. 
+### Aufbau Einzelfahrzeug 
+Aus den verschiedenen Submodellen kann ein Einzelfahrzeug aufgebaut werden. Mit dem 
+Einzelfahrzeug werden die Verifikationsrechnungen durchgeführt (Radsatzlasten, Eigenmoden, 
+Laufstabilität). ln Abbildung 5-20 ist das SIMPACK Modell des Einzelfahrzeugs Uiks 635 
+dargestellt. Das Fahrzeug besitzt folgende Eigenschaften: 
+Abbild
+ung 5-20 : S
+IMPACK Modell Ei nze lfah rze ug U
+iks 635
+## 5.5. 
+### Aufbau 3-Wagen-Modell 
+Aus den Einzelfahrzeugen wird mit den Puffern und den Zugeinrichtungen ein Zug bestehend aus 
+3-Wagen Uiks 635 aufgebaut (Abbildung 5-21 ). Dem ersten Wagen in dem Zugverband wird eine 
+konstante Geschwindigkeit zugewiesen, alle anderen Fahrzeuge werden von dem ersten Wagen 
+gezogen. 
+Abbildung 5-21: SIMPACK 3-Wagen-Modell Uiks-Uiks-Uiks 635
+
+2015·07-03_Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 61
+
+SIM052015BE 
+### 6. Analyse 
+Die Simulationsrechnungen werden mit SIMPACK Version 9.5 durchgeführt. Für den Rad­
+Schiene Kontakt wird eine Reibung von 0,4 (trockene Schiene) und ein Kalker Faktor von 1 
+angenommen. Die Verifikation des Fahrzeugmodells soll sicherstellen, dass das Fahrverhalten 
+hinreichend genau hinsichtlich der Fragestellungen abgebildet wird. Üblicherweise erfolgt die 
+Verifikation durch den Vergleich von Simulationsergebnissen mit Messungen. Da von dem 
+Fahrzeug keine Messungen vorliegen, können nur Plausibilitätsrechnungen durchgeführt werden, 
+keine Verifikation des Modells. Neben der Prüfung der Teilmodelle 
+Fahrwerk (Anschläge, Kennlinien) 
+Blattfeder (Kennlinie) 
+Puffer 
+Zugeinrichtung 
+wurden folgende Rechnungen zur Plausibilität und Verifikation durchgeführt: 
+Auswertung der Radsatzlasten im Ruhezustand  
+Bestimmung der Fahrstabilität .  
+Eigenverhalten (siehe auch Kapitel3.1)  
+Im Folgenden werden diese erläutert. 
+## 6.1. 
+### Radsatzlasten 
+Für die Berechnung der Radlasten wird das Modell im Ruhezustand simuliert. Es ergibt sich eine 
+Radsatzlast an jedem Rad von 00=30413 Nundeine symmetrische Querkraft von Y= +-156 N. 
+Aus den Radlasten ergibt sich wie erwartet ein Gesamtgewicht von 12.400 kg. Weiterhin ist das 
+Gewicht symmetrisch verteilt. 
+UIC 635 unbeladen · 
+Verifikation Ruhelage 
+Diagram 
+result.$RWP _ Lelt.Pair.Q Vertical wheel force 
+result.$RWP_ l elt_2.Pair.Q Vertical wheel force 
+!
+-
+-
+-'i
+-
+-
+result.$RWP _Right_2.Pair.Q Vertical wheel force 
+-
+- result.$RWP Ajght.Pair.Q Vertical wheellorce 
+~----------------------------~----------~~ =~===3=159=5=N~
+I ------~~ 
+1~0 
+i; -1 o.o 
+o:2 
+o:• 
+o:6 
+o:s 
+time[s) 
+Diagram 
+result.$RWP _leftPair.Y lateral wheellorce 
+result.$RWP_ left..:_2.Pair.Y Lateral wheellorce 
+-
+-
+-
+-
+-
+result.$RWP _Right_2.Pair.Y lateral wheel force 
+-
+- result.$RWP _ Aight.Pair.Y Lateral wheel force 
+3 
+X 10
+.
+~ 1.0~r----------------------:====::::~--------------------------
+1
+i 
+~~~ I ,I(\ 
+IY links= 155 NI 
+! 
+0~~~
+~I ~I ~
+! ""-~=========~~~~~============~
+-~~~
+1Yrech1s --155NI 
+~ -Oso' 
+1 
+:~&~q;t.
+';-ucr
+' ---~------;;;;;
+0.2 ,-------------:or.-----------;;;;;-----~-----:::r.-------
+-----:1 
+j >­
+0.0 
+0.4 
+0.6 
+0.8 
+1.0 
+time[sJ 
+### Abbildung 6-1: Simulationsrechnungen Ruhelage Einzelfahrzeug 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 62
+
+SIM052015BE 
+## 6.2. 
+### Fahrstabilität 
+Das Fahrzeug besitzt eine zulässige Höchstgeschwindigkeit von 120 km/h. Somit muss 
+mindestens bis zu dieser Geschwindigkeit die Laufstabilität gewährleistet sein. Da die 
+Dämpfungen in der Schakenaufhängung und Blattfeder . nicht bekannt sind, werden die 
+Dämpfungskonstanten so eingestellt, dass sich eine Laufstabilität bis 140 km/h einstellt. Damit 
+wird sichergestellt, dass in jedem Fall ein Fahrzeug mit stabilem Fahrverhalten für die 
+Unfalluntersuchungen verwendet wird. 
+Laufstabilität V= 100 km/h V= 120 km/h 
+Sum Q-Kräfte v-100 km/h 
+Sum Q-Kräfte v-120 km/h 
+result.$RWT_Wheelset.Sum0 Sum ot vertical rail forces 
+result.$RWT_Wheelset.Sum0 Sum ol vertbal raH forces 
+result.$RWT Wheelset 2.Sum0 Sum ot vertical tail forces 
+-
+-
+-
+-
+result.$RWT Wheelset 2.SumQ Sum of vertical rall forces 
+tine [s] 
+time(s] 
+--i
+Sum V-Kräfte v-100 km/h 
+Sum +Kräfte v..-120 kmlh 
+resu!t.$AWT_Wheelset.SumY Sum of lateral rail forces 
+result.$RWT_Wheelset.SumY Sum of lateral rail forces 
+-
+-
+resutt.$RWT Wheelset 2.SumY Sum ot lateral rail forces 
+-
+result.$RWT Wheelset 2.SumY Sum of lateral rail forces 
+3 
+3
+~ 
+~ xto
+x10
+~ t!t----1'o ___
+~~q---1-b--iö--3-o--40-----,1 
+2ö __3_o--40­ ---jl
+time[s) 
+time [s] 
+### Abbildung 6-2: Laufstabilität SQ, SV-Kräfte v=100 km/h v=120 km/h 
+Laufstabilität V= 140 km/h V= 160 km/h 
+Sum Q-Kräfte v=140 km/h 
+Sum Q-Kräfte V=160 km/h 
+-­ result.$AWT_Wheetset.Sum0 Sum ot vert"cal rai IOI'"ces 
+l!l'
+______
+,b______2_o______3o------.-o-----,1 I~~~------,'o______i_o_ _ __ _ _~------, ~-.-----,1 
+-­ result.$RWT_Wheelset.Sum0 Sum of vertical rail torces 
+result.$AWT_Wheelset_2.Sum0 SUm ot vertical rail forces 
+-­ result.$RWT_Wheelset_2.SumQ Sum of verticat raillorces 
+-
+-
+3 
+3
+Z' 
+~ X 10
+X 10
+1 1
+1 1 
+~ 
+~ 
+time [s) 
+time(s] 
+Sum V-Kräfte v=140 km/h 
+Sum V-Kräfte V=160 km/h 
+--­ result.$RWT_Wheelset.SumY Sum of lateral rail forces 
+-­ result.$RWT_Wheelset.SumY Sum of lateral rail torces 
+-
+-
+result.$RWT_Wheelset_2.SumY Sum of lateral rail forces 
+-
+-
+resutt.$RWT_Wheelset_2.SumY Sum of lateral rail forces 
+3 
+3 
+~ 
+:[ 
+xto
+X 10
+j 
+~-------------------------,
+e 
+e 
+~ J! 
+~ 
+~ 
+1 
+1ii 
+];! 
+ö 
+ö 
+~ 
+~ 
+3o 
+2o 
+~ 
+>­
+>­E 
+t'o 
+40 
+~ 
+~ 
+time[sJ 
+time(sJ 
+### Abbildung 6-3: Laufstabilität SQ, SV-Kräfte v=140 km/h v=160 km/h 
+2015-07 ·03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 63
+
+SIM052015BE 
+ln den Abbildung 6-2 und Abbildung 6-3 sind die Summe der Rad-Schiene-Kräfte (SO und SY) 
+dargestellt. Man erkennt deutlich, dass sich ein stabiles Laufverhalten bis v=140 km/ mit den in 
+Kapitel 5.3.4 Schakenaufhängung aufgeführten Dämpfungen einstellt. 
+### Eigenverhalten 
+6.3. 
+ln Kapitel 3.1 sind die Eigenmoden des Fahrzeugs aufgeführt und dargestellt, da hier auch die 
+Korrelation zu den Gleislagestörungen beschrieben wird. 
+Die Eigenfrequenzen zwischen 2,12 Hz und 14 Hz und die zugehörigen Eigenmoden sind 
+plausibel. Bei den "Starrkörpermoden" ergibt sich eine gute Dämpfung zwischen 0,3 und 0,6. 
+während die Eigenmoden bei denen der Wagenkasten schwingt (Torsion um x-, y- z-Achse) 
+geringer gedämpft sind (0,07 bis 0,2). 
+Damit zeigen die Plausibilitätsrechnungen, dass das Fahrzeugverhalten hinreichend genau 
+abgebildet wird. 
+### 7. Auswertung 
+Die Beurteilung des Entgleisungsrisikos von Schienenfahrzeugen erfolgt entsprechend DIN 
+EN 14363 [1] nach den Beurteilungsgrößen und Grenzwerten für die Fahrsicherheit ([1] Kap. 7.5). 
+Für die hier durchgeführten Untersuchungen werden die Q-Kräfte, die Entgleisungskoeffizienten 
+Y/Q und das Radanheben dz aller vier Räder des mittleren Wagens ausgewertet. Damit ergeben 
+"hfl 
+d G""ß
+OIQen e ro en: 
+SIC 
+| Größe | Erläuterung | BezeichnunginDiagrammen |
+| 011 | Radaufstandskraftvon Rad 11 | RS3 RightPairOVerticalwheelforce . . |
+| 012 | Radaufstandskraftvon Rad 12 | RS3 LeftPairOVerticalwheelforce . . |
+| 021 | Radaufstandskraftvon Rad 21 | RS4 RightPairOVertical wheelforce . . |
+| 022 | Radaufstandskraftvon Rad22 | RS4 LeftPairOVerticalwheelforce . . |
+| Y/011 | Entgleisungskoeffizientam Rad 11 | RS3 RightPairY/0Derailmentcoefficient . . |
+| Y/012 | Entgleisungskoeffizientam Rad 12 | RS3 LeftPairY/0Derailmentcoefficient . . |
+| Y/021 | Entgleisungskoeffizientam Rad21 | RS4 RightPairY/0Derailmentcoefficient . . |
+| Y/022 | Entgleisungskoeffizientam Rad22 | RS4 LeftPairY/0Derailmentcoefficient . . |
+| dz11 | Radanhebenam Rad11 | RS3 RightPairDZWheel raise . . |
+| dz12 | Radanhebenam Rad12 | RS3 LeftPairDZWheel raise . . |
+| dz21 | Radanhebenam Rad21 | RS4 RightPairDZWheel raise . . |
+| dz22 | Radanhebenam Rad22 | RS4 LeftPairDZWheel raise . . |
+Entsprechend [1] werden die Größen folgendermaßen gefiltert ausgewertet: 
+0-Kräfte: 20 Hz Tiefpassfilter (Butterworth, 4. Ordnung) 
+Y/0-Koeffizient: 20 Hz Tiefpassfilter (Butterworth, 4. Ordnung) + gleitender Mittelwert 2 m 
+Mittelungslänge, 0,5 m Fortschrittslänge 
+Weiterhin werden die teilweise ungefilterten Größen bewertet. 
+Nach EN14363 [1]1iegt der obere Grenzwert für den gefilterten Entgleisungskoeffizienten bei Y/0 
+<= 0,8. Werte darüber bedeuten ein erhöhtes Entgleisungsrisiko. Nach [7] und entsprechend der 
+Aussage von [2] Seite 8 1 . Abschnitt "muss ab einem Aufkletterweg von 6 mm mit einer 
+Entgleisung gerechnet werden". 
+2015-07 -03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 64
+
+SIM052015BE 
+8. Analyse Unfallursache 
+Für die Untersuchungen der Unfallursache wurden alle Simulationsrechnungen mit der 
+gemessenen Gleislagen oder mit der stochastischen Gleislage nach ERRI und der Trassierung 
+durchgeführt (siehe Kapitel 3.1 ). Die Geschwindigkeit des Unfallfahrzeugs wurde mit 87 km/h 
+angenommen. 
+8.1. 
+Ergebnisse 
+Ergebnisse Modell mit Hysterese und Radsatzhalter: 
+Im Folgenden werden die Ergebnisse der Simulationsrechnungen in einer komplexen 
+Modeliierung mit Hysterese Kennlinie der Blattfeder und mit Anschlägen der Radsatzhalter 
+(Abhebesicherung) dargestellt. Folgende Entgleisungswerte wurden ermittelt (siehe Tabelle 8-1): 
+Tabelle 8-1: Auswertung Unfall Oldenburg Fahrzeug 3-Wagen Uiks635 
+| Modell | Radanheben dzI mm | Y/0 Koeffizient |
+| Uiks635 Hysterese , , RS -Halter , | 281 mm (Wagen 2 RS4) , , 171mm (Wagen 3 RS6) , , | 071 (Wagen 2 RS3) , , 047 (Wagen3 RS5) , |
+ln Abbildung 8-1 ist der Zeitverlauf für das Radanheben dargestellt. Deutlich ist zu erkennen, dass 
+an der Unfallstelle die Schwingungen zu einem Abheben der Räder führen. Das Abheben ist 
+wesentlich durch die Radsatzhalter bestimmt, da entsprechend hohe Amplituden der 
+Wagenkastenschwingung auftreten. 
+Unfall Oldenburg Radanheben 
+Uiks mit Hysterse, DB Frequenzen 
+Wagen 2 Radanheben mit Hysterese mit RS Halter dz wheel raise 
+Wagen 3 Radanheben mit Hysterese mit RS Halter dz wheel raise 
+resuh .$RWP _RS3_Right.Pair. Dz Wheel raise 
+result.$RWP_RSS_Right. Pair.Dz Wheel rai se 
+-
+-
+resuh.$RWP_RS3_Left. Pair.Dz Wheel raise 
+-
+-
+result.$RWP _RSS_left. Pair.Dz Wheel raise 
+- - -
+resuh .$RWP_RS4_Right.Pair.Dz Wheel raise 
+- - -
+result.$RWP_RS6_Right. Pair.Dz Wheel raise 
+- result .$RWP _RS4_left.Pair.Oz Wheel raise 
+-
+-
+- result.$RWP RS6 Left.Pair.Dz Wheel raise 
+3 
+3 
+X 10"
+10·
+X 
+3 
+3 
+27 
+25­
+24­
+21 
+2Q­
+I 
+I 
+1& 
+.. 
+~ 
+~ 
+·e
+'i! 
+15­
+15­
+"ti 
+" 
+" 
+~ 
+~ 
+12­
+~ 
+~ 
+1Q­
+(t 
+& 
+5­
+20 .J 
+3­
+k 
+Ir­
+,1.. 
+0.0 
+2.5 
+5.0 
+7. 5 
+1d.o 
+12.5 
+15.0 
+11.5 
+2d .o 
+22.5 
+2 .0 
+10 
+15 
+5 
+25 
+ti mels] 
+time lsl 
+Abbildung 8-1: Simulationsrechnungen Unfall Oldenburg Radanheben Wagen 2 und 3, 
+Fahrzeug Uiks635 mit Hysterese, ohne RS-Halter 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 65
+
+SIM052015BE 
+Es tritt ein deutliches Radanheben mit 17 mm bzw. 28 mm der Unfallstelle auf, das wesentlich 
+über der Grenze von 6 mm liegt ist. Es ist daher von einem erheblichen Entgleisungsrisiko 
+auszugehen (siehe auch Anlagen A-3 bis A-5). 
+Ergebnisse vereinfachtes Modell: 
+ln Kapitel 3.3 wurde die Gleislage nach ERRI 8176 vorgestellt. Die Simulationsrechnungen mit 
+dem vereinfachten Modell (ohne Hysterese, geril')ge Reibdämpfung) ergeben folgende 
+Ergebnisse: 
+Tabelle 8-2: Auswertung Gleislage nach ERRI 8176 
+| Grundkonfiguration | 3 -Wagen-Zug Uiks 635 leer Radprofil 81002 , , , |  |  |  |  |
+| Modell | VIkm/h | Y/Qmax ungefiltert | Y/Qmax gefiltert | dz/mm | Var . |
+| 3 -Wagen-Zug ERRIIow | 100 | 019 , | 009 , | 030 , | 41 . |
+| 3 -Wagen-Zug ERRI high | 100 | 032 , | 018 , | 075 , | 42 . |
+Die Werte für den Entgleisungskoeffizienten und das Radabheben liegen erheblich unter den 
+Werten der RAILab Gleislagemessung mit dem komplexen Modell. Es liegt daher kein 
+Entgleisungsrisiko vor. 
+Fazit: 
+Aus den Simulationsrechnungen für die Unfallanalyse erkennt man, dass zwischen 80 km/h und 
+100 km/h 
+ein 
+erhebliches 
+Entgleisungsrisiko vorliegt. 
+Für die 
+Fahrzeugvarianten 
+des 
+Unfallfahrzeugs 
+mit 
+den 
+gemessenen 
+Radprofilen 
+und-
+radien 
+ergibt 
+sich 
+ein 
+Entgleisungskoeffizient von unter 0,8 somit. Wesentlich kritischer ist das Radanheben von 28 mm 
+bzw. 17 mm bei der Unfallgeschwindigkeit von 87 km/h zu bewerten. Die Simulationsrechnungen 
+wurden mit idealen Fahrzeugannahmen (vollkommen symmetrisches Fahrzeug, Radsätze ideal 
+eingebaut, gleiche Steifigkeiten und Dämpfungen links/rechts) durchgeführt. Es würden bereits 
+geringe Störungen genügen um ein Aufklettern und Entgleisen eines Rades zu bewirken. 
+Weiterhin zeigt sich, dass durch die Form der Gleislagestörung (periodische Anregung) fast 
+ausschließlich der Eigenmode des Hubens angeregt wird und somit ein Aufschwingen in der 
+Resonanzfrequenz erfolgt. Als Unfallursache kann daher mit sehr hoher Wahrscheinlichkeit die 
+periodische Gleislagestörung identifiziert werden. 
+### 9. Zusammenfassung 
+Am 29.06.13 entgleiste auf der Strecke Oldenburg - Leer im Streckenabschnitt Kayhauserfeld ­
+Oldenburg ein Zug mit Tiefladewagen der Gattung Uiks Bauart 635 (2-Achsfahrwerk mit 
+Doppelschakenaufhängung). Der Zug ist für den Transport von Rotoren vorgesehen und war zum 
+Unfallzeitpunkt unbeladen. Der Streckenabschnitt weist eine fast gerade Trassierung auf. Die 
+Unfallursache konnte nicht eindeutig geklärt werden, da am Fahrzeug keine Mängel festzustellen 
+waren 
+und 
+die 
+kurz 
+zuvor 
+durchgeführte 
+RAILab 
+Gleismessung 
+lediglich 
+SR 1 00 
+Überschreitungen auswies. 
+Daher soll durch Simulationsrechnungen die Unfallursache geklärt werden. Hierfür wurde von 
+dem Fahrzeug ein Mehrkörpermodell in SIMPACK Version 9.5 aufgebaut, sowie aus drei 
+Fahrzeugen ein 3-Wagen-Zug modelliert. Das Modell wurde basierend auf den vorliegenden 
+Unterlagen des AG (u. a. Zeichnungen, Datenblätter, Radprofilmessungen) aufgebaut, wobei die 
+unbekannten Parameter abgeschätzt oder durch Rechnungen (Laufstabilität des Fahrzeugs, 
+2015-07-03_Unfall_ Oldenburg_ offzieii_Final_ v3.docx 
+
+## Página 66
+
+SIM052015BE 
+Steifigkeiten Wagenkasten) ermittelt wurden. Durch Plausibilitätsrechnungen wurde die korrekte 
+Modeliierung und Gültigkeit des Modells überprüft. 
+Eine genauere Betrachtung der Gleislage ergibt, dass die Längshöhenfehler der linken und 
+rechten Schiene parallel verlaufen und eine Periodizität mit der Wellenlänge von 9 m aufweisen. 
+Da der Radsatzabstand des Fahrzeugs ebenfalls 9 m beträgt, erfolgt eine phasengleiche 
+Anregung der Radsätze. Für die Beurteilung der Fahrzeugreaktionen auf diese Anregung wurde 
+eine Eigenwertanalyse des Fahrzeugs durchgeführt, mit der die Eigenfrequenzen und 
+Eigenschwingtarmen des Fahrzeugs untersucht werden können. Ein Vergleich mit der Anregung 
+ergibt, dass im relevanten Geschwindigkeitsbereich zwischen 80 krnlh und 100 km/h eine 
+Anregung der Hubeigenschwingungen des Fahrzeugs erfolgt und dies zu erheblichen 
+Schwingungsamplituden führt. 
+Zusammen mit den gemessenen Gleislagedaten und der Trassierung wurden in diesem 
+Streckenabschnitt die Rad/Schiene-Kräfte, der Entgleisungskoeffizient Y/Q und das Radanheben 
+für verschiedene Geschwindigkeiten (80 kmlh - 140 km/h) ermittelt. Dabei zeigte sich, dass bei 
+I 
+der gefahrenen Geschwindigkeit von 87 km/h durch die periodische Gleislagestörung eine sehr 
+starke Anregung der Hubbewegung des Fahrzeugs erfolgt und das maximale Radanheben mit 
+28 mm weit über dem als kritisch eingestuften Wert von 6 mm liegt. Das Radanheben wird 
+wesentlich durch Anschlagen des Radsatzlagers am Radsatzhalter verursacht. Somit ist von 
+einem erheblichen Entgleisungsrisiko auszugehen. 
+10. Unterschriften 
+Bielefeld, den 18.12.2015 
+gezeichnet 
+### .....t.tf:.. -~~~~4t:.L 
+Prof. D~~{~g. Ralf Naumann, simtes- Simulation technischer Systeme 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 67
+
+SIM052015BE 
+ANLAGEN 
+### Anlage A-1: Gleislagestörungen nach ERRI B 176 low und ERRI high 
+Gleislagestörung nach ERRI 8176 low 
+Längshöhenfehler 
+-­ result.$RWP _Left.Pair.z_irreg Vertical rai l irregutarity 
+-
+-
+result.$RWP _Right.Pair.z_irreg Vertical rait irregularity 
+i'f ~~~~~~~~ 
+-­ result.$RWP _Left. Pair.z_irreg Vertical rai l irregularity 
+-
+-
+resu tt. $RWP _Right.Pair.z_irreg Vertical rai l irregularity 
+I.... 
+0.0 
+0.2 
+0.4 
+0.6 
+0.8 
+1.0 
+1.2 
+t 
+~ 
+~~ 
+Querlagenfehler 
+-­ result.$AWP _Lelt.Pair .y_irreg Lateral rail irregularity 
+-
+-
+result .$RWP _Right.Pair.y_irreg Lateral rail irregularity 
+X 103 
+0.4 
+0.2 
+0.6 
+0.8 
+1.0 
+1.2 
+Weg[m] 
+Gleislagestörung nach ERRI 8176 high 
+Längshöhenfehler 
+-­ result.$RWP _Left.Pair.z_irreg Vertical rai l irregularity 
+-
+-
+result.$RWP _Right.Pair.z_irreg Vertical rail irregularity 
+-~ 
+~ 
+.f 
+... 
+~ 
+€ 
+~ 
+~ 
+·-;} 
+0.0 
+0.2 
+0.4 
+0.6 
+0.8 
+Weg [m] 
+Querlagenfehler 
+-­ result. $RWP _Left.Pair.y_irreg lateral rai l irregularity 
+-
+-
+result.$AWP_Right.Pair.y_irreg Lateral rail irregularity 
+X 103 
+1.0 
+Weg[m) 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 68
+
+SIM052015BE 
+### Anlage A-2: Kontaktgeometrlen 
+Contacl g om try 
+EQurval nt Conrcrty 
+--- Equ• 
+•monoc 
+lenr --
+' , ..... . ""'-" 'J"  
+u t 
+Cl I G •• • 
+Li 
+.. I I 
+'t.t11dw D  
+-.4.-:•h' 
+I 1:0  
+Vltld ..... 
+I'C  
+, .. ,Uit 'i. 
+iHUr  
+e o
+... 
+... .......
+~.. . . ... 
+111ft ..  
+... ,. _
+•ut ' 
+1:) 
+.. 
+.... 
+~t~~rtt'ltL 
+~ 
+ll 
+IQI J:"'ft 
+0 
+I
+~ 
+l .. ll~~-·~ .... 
+....,.., ... 
+I 4C 
+'• ,,..,,, 
+0 
+':"'
+0 
+Amph!ullll ! rr] 
+Radius d•H rcnce 
+Gontael gradrents on rarl 
+-- Sumcl olh - -- -
+R oghl wheei·· ······· L ft....te11l 
+2 
+-­
+e 
+2
+.§. 
+a: 
+'il• 
+0 
+-1 
+-I 
+5 
+0.0 
+2 5 
+5 0 
+1 5 
+1 0 
+0.0 
+2 5 
+5 0 
+1 5 
+1 0 
+y [mmJ 
+yfmm)  
+Conl.t:Jd onnections (left) 
+Gontael connectrons (righl)  
+-0.76 
+-0.14 
+0 76 
+0.!8 
+0. 0 
+0. 2 
+0.12 
+0.14 
+-() _] 
+y(m) 
+y(mJ 
+. Kontaktgeometrien 81002- UIC60 
+2015-07-03 _Unfall_ Oldenburg_offzieii_Final_v3.docx 
+
+## Página 69
+
+SIM052015BE 
+Contact geom try 
+Equlval nt Comc1ty 
+--- Fqu' 
+le t --- Harmontc 
+### tic.U ...... 
+0 
+t.- t 
+Ub .uafliG••• 
+.\ t•ll..,l' 
+tk 
+, ....
+J 
+I 
+05 
+...T l• 
+.1 
+t •' l 
+f..C 
+.... , 
+I 
+4U ._.,_", 
+lllalt 11 
+ll\l-~tA 
+0. 
+:ur~~: r 
+OUI r 
+'ftt 
+... 
+e 
+'W'II'f> ... tt••• ... " 
+I 
+"tl 
+"" 
+u ..u 
+0 
+""r••'h· L­
+E
+I 
+~'"'''' 
+~uc 
+ow-
+!!
+1 
+..c 
+lllllltu.ollt 
+~ 
+I lf' I' (IWI't
+•• 
+lr.. ,. 
+Uh. f\. 1 t'I~W •aro.o 
+C 
+10 
+Amphwde { tri 
+Radius dtfferencc 
+Cont cl gradtonts on rat! 
+--- Sum I D(h ---- R tgMwheel ·· ··· ·· Lellv.heel 
+I 
+-------­
+__r-­
+~ --
+5 
+50 
+75 
+1 0
+·2 6 
+0.0 
+2 5 
+5 0 
+7 5 
+0 
+y jrrm} 
+y (mm} 
+Conlacl connecuons. (nght) 
+0. 
+0. 2 
+0.12 
+y(m} 
+'I {rn} 
+Kontaktgeometrie RS 447 457- UIC60 
+2015·07 ·03_ Unfall_Oldenburg_offzieii_Final_ v3.docx 
+
+## Página 70
+
+SIM052015BE 
+Contacl g om try 
+Equlvalenl Contctty 
+.. 
+--­ fquo tent --­
+ermonoc: 
+.,,
+U t t .tta Ul C# t••a- •••,.. "' ' ftUII •• 
+0 6~--------------------------------~ 
+IJ I• 
+Vltechc 
+hdc • 
+· 
+~~·,.. 
+"., .. .. "ht 
+•* 
+l •'i .. 
+• 
+., 
+I • 
+" 
+.. 
+Jlkll• ~ 
+lllll.r tw' l a 
+~ ... 
+a u. 
+'11\te( 
+., 
+Wff!t( ~UI t ' l 
+..... 
+0 
+..
+I .,. 
+E 
+.
+~ ... ' 
+.... r..
+tttL
+"_ 
+r,.,.,
+~ ,
+.,
+~ 0. 
+,
+• C 
+a , ,. '"*'' '' 
+## ,I,. 
+0 2 
+0 '"" " · rc l e •clttwt'lt 
+Ampbluda (rntrJ 
+Radius deff r ncc 
+Contact gradients on rael 
+• r 
+--- Sumal balh ---- R og hl w h •l · ·· · ··· · · lllfl 
+• .,,
+2 
+·~ 
+2
+'E 
+.§. 
+a: 
+.!'! ii 
+c 
+·1 
+0.0 
+2 .5 
+5.0 
+7 .5 
+I .0 
+0.0 
+2 .5 
+5 .0 
+7.5 
+1 .0 
+y [rnm) 
+y [mm) 
+Conlact connectlons (left) 
+Conlacl connecltons (nghl) 
+y[mJ
+y[mJ 
+Kontaktgeometrie RS 252 981- UIC60 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
+
+## Página 71
+
+SIM052015BE 
+Anlage A-3: 2: Q-Kräfte TP 20 Hz Simulationsrechnungen Unfall Oldenburg Uiks635 mit 
+Hysterese mit RS-Halter 
+Unfall Oldenburg Q-Kräfte 20 Hz 
+Wagen 2 Q-Kräfte 20 Hz mit Hysterese und RS Halter 
+Wagen 3 Q-Kräfte 20 Hz mit Hysterese und RS Halter 
+resuft.$AWP _RS3_Right.Pair.Q Vertical wheel force 
+resuh.$RWP _RS5_Right.Pair.Q Vertical wheel torce 
+-
+-
+result.$RWP _AS3_Left.Pair.Q Vertical wheel force 
+-
+-
+result.$RWP _RSS_left.Pair.Q Verticaf wheel force 
+-
+-
+result.$RWP _RS4_Right.Pair.Q Vertical wheel force 
+-
+-
+-
+resuh.$RWP _RS6_Right.Pair.Q Vertical wheel force 
+-
+- resuh.$RWP RS6 Left. Pair.Q Vertical wheel force 
+-
+-
+-
+result.$RWP RS4 Lett.Pair.Q Vertical wheel force 
+l--
+i[ ·:· ·~·-:· :-"·:·d 1
+X 103 
+X 103 
+i[ 
+i 
+·~
+~ 
+".' "':"'':"':"'·d 1 
+.. 
+j" .. 
+;; 
+;; 
+{ 
+lU: 
+I! 
+~ 
+" 
+·: lt
+>"
+~ 
+10 
+15 
+0 
+0 
+10 
+15 
+0 
+0 
+time[s) 
+time[s) 
+Wagen 2 Q-Kräfte 20Hz ohne Hysterese (alt) 
+Wagen 3 Q-Kräfte 20Hz ohne Hysterese (alt) 
+-- result.$RWP_RS5_Right. Pair.Q Vertical wheel force 
+-- resuh.$RWP _RS3_Right. Pair.Q Vertical wheel force 
+-
+-
+resuh.$RWP _RS3_Left.Pair.Q Vertical wheel force 
+-
+-
+resuh.$RWP _RS5_Left.Pair.Q Vertical wheel force 
+-
+-
+-
+result.$RWP _RS4_Right.Pair.Q Vertical wheel torce 
+-
+-
+-
+result.$RWP _RS6_Right.Pair.Q Vertical wheel force 
+oo;•••:• • •:•• '~ 1n·:-- ·:· "·~··:··"'~ 
+- result .$RWP RS4 left.Pair.Q Vertical wheel force 
+-
+- result.$RWP RS6 Left.Pair.Q Vertical wheel force 
+-
+X 103 
+X 103
+i[ 
+·~ I " 
+~ 
+l 
+j" .. 
+"11 
+~ 
+. 
+10 
+15 
+0 
+0 
+time[s) 
+time[s] 
+Anlage A-4: Q-Kräfte TP 20 Hz Y/Q-Entgleisungskoeffizient TP 20Hz, gl. Mittelwert 2m 0,5 m 
+FortschrittsweiteSimulationsrechnungen Unfall Oldenburg Uiks635 mit Hysterese mit Rs­
+Halter 
+Unfall Oldenburg Y/0 20Hz gl. Mi. 
+Wagen 2 mit Hystere mit RS-Halter Y/Q 20Hz gl. Mi. 
+Wagen 3 mit Hystere mit RS-Halter Y/Q 20Hz gl. Mi. 
+-­ resuh .$RWP _RS3_Right. Pair. Y/O Derailment coefficient 
+-
+-
+resuh .$RWP _RSS_Right. Pair.Y/0 Derailment coefficient 
+-
+-
+result.$RWP _RS3_Left. Pair.Y/O Deraliment coefficient 
+-
+-
+resuh .$RWP _RSS_Left.Pair.Y/0 Deraliment coefficient 
+result.$RWP _RS4_Right.Pair. Y/Q Derailment coefficient 
+-­ -
+resuh .$RWP_RS6_Right.Pair.Y/O Derailment coefficient 
+-
+- resuh.$RWP _RS4_Lef{ Pair.Y/O Oerailment coefficient 
+-
+- result.$RWP _RS6_Left.Pair.Y/Q Oerailment coefficient 
+., 
+~ 0.4 
+~ 0. 
+= 
+0. 
+0 
+"' " 
+0.2 
+" 
+8 
+8 
+0. 
+0. 
+E -0. 
+E "E -0. 
+" i 
+-0. 
+~ -0. 
+0 
+-0. 
+0 
+-0.
+0 ): -0. 
+0 ): -0. 
+10 
+time[s) 
+time[s] 
+Wagen 2 ohne Hystere Y/Q 20 Hz gl. Mi. 
+Wagen 3 ohne Hystere Y/Q 20Hz gl. Mi. 
+-
+-
+result.$RWP _RS3_Right.Pair.Y/Q Oerailment coefficient 
+-­ result. $RWP _RSS_Right.Pair.Y/0 Derailment coefficient 
+-
+-
+result.$AWP _AS3_Left.Pair.Y/Q Derailment coefficient 
+-
+-
+result .$RWP _RSS_Left.Pair.Y/Q Derailment coefficient 
+result .$RWP _RS4_Right .Pair.Y/Q Derailment coefficient 
+-
+-
+-
+result. $RWP _RSG_Right.Pair.Y/0 Derailment coefficient 
+-
+- result.$AWP _RS4_Left.Pair.Y/Q Derailment coefficient 
+-
+- result.$RWP _ASG_Left.Pair.Y/0 Derailment coefficient 
+~ 0. 
+0 
+~ 
+8 
+0. 
+E " 
+.5 
+-~ 
+0 
+-0. 
+0 ): -0. 
+10 
+time[s] 
+time [s] 
+2015-07-03_Unfall_Oldenburg_affzieii_Final_v3.dacx 
+
+## Página 72
+
+SIM052015BE 
+--- --------
+Anlage A-5: Anschläge Radsatzhalter Simulationsrechnungen Unfall Oldenburg Uiks635 
+### mit Hysterese mit RS-Halter 
+Unfall Oldenburg RS Halter Anschläge 
+tot:. ar.:>.r.~s-" 103_.........._s ~-"'ll.f""""-'..AJ'-~-"" "..J:• e> 
+t:r:~~.r.~W~ac-...e-c.,.lF~:o'IS...UU'-~IftY..lfl"""" ' 
+- ..l F ./'rSft:o'IS...U'- ~ <..J'"'"''" 
+-
+-
+S>t::tar.:>.r.IS.>\'IGJ 
+•I<..SU.......'IlJC~-\.~1 <S'F.If:""n  
+-
+-
+"'"'~J'~o\~o;" 
+- b':e = 15.)\ IG.fO!'N 0'1<..5 1•-"'llJ~-l.t.lU.,.,.. .<..l <:>e., II 
+_l-F.........ft:"'SA; _'<5.-.nr F..J ~ o..t_"\  
+•1<..5 V .....'llJ!:t"':!V-I.t~-1'-i'FJ . e'l 
+SOtt!: -AN_:,\' IGJ>-
+- - -
+J!o!~OJ',>.U!i.; Votö..•a 
+__ ---- __ _ __..,______.;c--__:--- --- l:.~ 
+-
+-
+-
+-
+- -ot~-<:>.r.l!i.;W<:...<.s-.l -F_,..,.ft:o'IS~~L"<9<s!<rlt..Jo-' " 
+-
+## I l
+- ~r------------------~ 
+3 
+.. 10 
+## ;I &0 
+~ SOl 
+;;o
+1:: 
+-- __...,:~IiI- ....-_-_-i-:4 
+!.-~~-t
+-
+.;---....___"T__ __T"__ ----------
+• 
+.s 
+l 
+t5 
+t'S 
+l 
+15 
+15
+'
+0 
+0 
+0 
+0
+· ~ , 
+t:rao.l:).r.l!i.;V\"Jt:._o;".._,._,_.,-'<l$~CJ'-~IOI" •..l ll""""' I 
+...-.o...::..<l$.)\' 1'3.!1>""""-.~-i>_...'llJ~.J'"~'<->=-T..J~e-> t 
+-
+.•..JII'oe I\ 
+_,_.,_,..,.ft:t:l...lJt:.. i'iS' 
+•1<..5 I<• .0.'1lJ~.J'"-ll'G-40101" 1'J ~a-> 
+-
+-
+tx:e Ql;)".f. tS.)\'lG_Ja-
+- t:r~o;QA$!i.;WOC:...<o 
+---
+",__..._",._"Uj\'JCI_Fa.....,•I<..SI<-"-"!V"""V.J\J ._~... 
+---
+~a-..J':K.J!~\~tC_~ 
+-'·-~:IS...,.I..~~~J.O-lle..""l'\ 
+F J ~«> 
+-
+- t:<::t~ -ISjV IOJ.sv• orl(..il<_...'llJ~.l. Lv.._..•..li:M-'11 
+-
+- IOr.>tru>:>.r.l!i.;\'\ ~·--• ·F-'<l$ft"""..l..'l.~l«-'..lfl!;e_'" 
+I 
+I~ 1r~ 
+0 
+1
+: 
+,s 
+s 
+s 
+t'S 
+t'S 
+:b 
+·5 
+:t3 
+0 
+0 
+0 
+0
+.,.,.Je 
+,..,.::t:l 
+2015-07-03_Unfall_Oldenburg_offzieii_Final_v3.docx

@@ -1,0 +1,1332 @@
+---
+pais: HU
+anio: 2017
+idioma: HU
+pdf: 2017-1620-5_zj_alairva 21-12-17, Ferencváros.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/2017-1620-5_zj_alairva%2021-12-17%2C%20Ferencv%C3%A1ros.pdf
+md5_pdf: 01d13ed1b84b526fc01ce92564a85cb7
+paginas: 34
+chars: 54026
+tablas: 11
+cuerpo: "11.0pt; encabezados 3 niveles"
+rotulos_excluidos: "96 (# / #, #-#-#, itm-kbsz zárójelentés)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 1
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+2017-1620-5 
+ZÁRÓJELENTÉS 
+2017-1620-5 és 2017-1657-5 
+Vasúti balesetek / Kisiklások 
+Kelebia és Ferencváros 
+2017. december 14. és december 21. 
+A szakmai vizsgálat célja a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események okainak, 
+körülményeinek feltárása, és a hasonló esetek megelőzése érdekében szükséges szakmai intézkedések 
+kezdeményezése, valamint javaslatok megtétele. A szakmai vizsgálatnak semmilyen formában nem célja a 
+vétkesség vagy a felelősség vizsgálata és megállapítása. 
+ITM-KBSZ zárójelentés 
+1 / 34 
+
+## Página 2
+
+### Jelen vizsgálatot 
+- 
+a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események 
+szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény (a továbbiakban: Kbvt.), 
+- 
+a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események 
+szakmai vizsgálatának, valamint az üzembentartói vizsgálat részletes szabályairól 
+szóló 24/2012. (V.8.) NFM rendelet, 
+- 
+illetve a Kbvt. eltérő rendelkezéseinek hiányában a közigazgatási hatósági eljárás 
+és 
+szolgáltatás 
+általános 
+szabályairól 
+szóló 
+2004. 
+évi 
+CXL. 
+törvény 
+rendelkezéseinek megfelelő alkalmazásával folytatta le a Közlekedésbiztonsági 
+Szervezet. 
+A Kbvt. és a 24/2012. (V.8.) NFM rendelet együttesen az Európai Parlament és a Tanács 
+2004/49/EK irányelve (2004. április 29.) a közösségi vasutak biztonságáról valamint a 
+vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti 
+infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának 
+felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról 
+(vasútbiztonsági irányelv) szóló uniós jogi aktusoknak való megfelelést szolgálják. 
+A Közlekedésbiztonsági Szervezet illetékessége a 278/2006. (XII. 23.) Korm. rendeleten, 
+valamint 2016. szeptember 1-étől a közlekedésbiztonsági szerv kijelöléséről, valamint a 
+Közlekedésbiztonsági Szervezet jogutódlással való megszűnéséről szóló 230/2016. (VII. 
+29.) Korm. rendeleten alapul. 
+### Fenti szabályok szerint 
+- 
+A Közlekedésbiztonsági Szervezetnek a súlyos vasúti balesetet ki kell vizsgálnia. 
+- 
+A Közlekedésbiztonsági Szervezet mérlegelési jogkörében eljárva kivizsgálhatja 
+azokat a vasúti baleseteket, illetve váratlan vasúti eseményeket, amelyek 
+megítélése szerint más körülmények között súlyosabb következményű balesethez 
+vezethettek volna. 
+- 
+A szakmai vizsgálat független a közlekedési baleset, illetve az egyéb közlekedési 
+esemény kapcsán indult más közigazgatási hatósági, szabálysértési, illetve 
+büntetőeljárástól. 
+- 
+Jelen Zárójelentés kötelező erővel nem bír, ellene jogorvoslati eljárás nem 
+kezdeményezhető. 
+A Vizsgálóbizottság tagjaival szemben összeférhetetlenség nem merült fel. A szakmai 
+vizsgálatban résztvevő személyek az adott ügyben indított más eljárásban szakértőként nem 
+járhatnak el. 
+A Vb köteles megőrizni és más hatóság számára nem köteles hozzáférhetővé tenni a 
+szakmai vizsgálat során tudomására jutott adatot, amely tekintetében az adat birtokosa az 
+adatközlést jogszabály alapján megtagadhatta volna. 
+### Jelen zárójelentés 
+alapjául a Vb által készített és az észrevételek megtétele céljából – jogszabályban 
+meghatározott – érintettek számára megküldött zárójelentés-tervezet szolgált. A 
+zárójelentés-tervezet megküldésével egyidejűleg a KBSZ főigazgatója értesítette az 
+érintetteket a záró megbeszélés időpontjáról, és arra meghívta az érintett személyeket, 
+szervezeteket. 
+
+## Página 3
+
+### Szerzői jogok 
+A zárójelentést kiadta: 
+### Innovációs és Technológiai Minisztérium, Közlekedésbiztonsági Szervezet 
+1103 Budapest, Kőér u. 2/A. 
+www.kbsz.hu 
+kbszvasut@itm.gov.hu 
+A zárójelentés vagy annak részei bármely formában jogszabályban meghatározott kivételek 
+figyelembevételével felhasználhatók, ha a részletek a tartalmi összefüggéseiket megtartják 
+és a forrást pontosan megjelölik. 
+
+## Página 4
+
+## MEGHATÁROZÁSOK ÉS RÖVIDÍTÉSEK 
+ERAIL 
+Az Európai Vasúti Ügynökség baleseti adatbázisa 
+GYSEV CARGO Zrt. GYSEV CARGO Zártkörűen Működő Részvénytérsaság 
+KBSZ 
+Közlekedésbiztonsági Szervezet 
+Kbvt. 
+A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési 
+események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. 
+törvény 
+MÁV Zrt. 
+Magyar Államvasutak Zrt. 
+psz. 
+pályaszám 
+Vb 
+Vizsgálóbizottság 
+
+## Página 5
+
+## TARTALOM 
+AZ ESETEK ÖSSZEFOGLALÁSA ....................................................................................................... 6 
+1. 
+TÉNYBELI INFORMÁCIÓK ........................................................................................................ 9 
+1.1 
+Az esemény leírása .................................................................................................................. 9 
+1.2 
+Következmények ..................................................................................................................... 9 
+1.3 
+A baleseti helyszínek ............................................................................................................. 10 
+1.4 
+Az infrastruktúra leírása ........................................................................................................ 14 
+1.5 
+A járművek jellemzői ............................................................................................................ 17 
+1.6 
+Az érintett személyek ............................................................................................................ 20 
+1.7 
+Forgalmi körülmények .......................................................................................................... 20 
+1.8 
+Érintett szervezetek ............................................................................................................... 20 
+1.9 
+A munkaszervezés jellemzése ............................................................................................... 20 
+1.10 
+Szabályok és szabályzatok .................................................................................................... 21 
+1.11 
+Meteorológiai adatok ............................................................................................................. 22 
+1.12 
+Az érintettek nyilatkozatai ..................................................................................................... 23 
+1.13 
+Mentés, kárelhárítás ............................................................................................................... 23 
+1.14 
+Próbák és kísérletek ............................................................................................................... 23 
+1.15 
+Kiegészítő adatok .................................................................................................................. 24 
+1.16 
+Összefüggésbe hozható események ....................................................................................... 24 
+1.17 
+Alkalmazott vizsgálati módszerek ......................................................................................... 25 
+2. 
+ELEMZÉS ..................................................................................................................................... 26 
+2.1 
+Az esemény tényleges lefolyása ............................................................................................ 26 
+2.2 
+Az esemény okozati összefüggéseinek elemzése .................................................................. 29 
+2.3 
+A túlélés lehetősége ............................................................................................................... 32 
+2.4 
+Egyéb észrevételek ................................................................................................................ 32 
+2.5 
+KÖVETKEZTETÉSEK ........................................................................................................ 32 
+3. 
+MEGTETT INTÉZKEDÉSEK ...................................................................................................... 33 
+4. 
+BIZTONSÁGI AJÁNLÁS ............................................................................................................ 33 
+4.1 
+A vizsgálat során kiadott biztonsági ajánlások ...................................................................... 33 
+4.2 
+További biztonsági ajánlások ................................................................................................ 33 
+5. 
+ELTÉRŐ VÉLEMÉNYEK ........................................................................................................... 33 
+
+## Página 6
+
+## AZ ESETEK ÖSSZEFOGLALÁSA 
+| Eseményszám: | 2017 1620 5 - - | 2017 1558 5 - - |
+| ERAILazonosító: | Hu-5540 | HU 5559 - |
+| Azesetkategóriája | Vasútibaleset |  |
+| Azesetjellege | Kisiklás |  |
+| Azesetidőpontja | 2017 december14 11:52 . . | 2017 december21 03:58 . . |
+| Azesethelye | Kelebia | Ferencváros |
+| Vasútirendszertípusa | országos |  |
+| Mozgástípusa | vonat/teher |  |
+| Azesetkapcsán elhunytak/súlyosan sérültekszáma | 0/0 |  |
+| Pályahálózatműködtető | MÁVMagyarÁllamvasutakZrt . |  |
+| Ü zembentartó | RailCargoHungariaZrt . | GySEV -Cargo Zrt . |
+| Nyilvántartóállam | Magyarország |  |
+| É rintettvonatszáma | 40873 2 - | 98909 |
+| Rongálódásmértéke (kárérték) | Akisiklottjárműveksérültek |  |
+| Vizsgálatjogialapja | 2004/49/EK19 cikk(2)a . . |  |
+### Az esetek helye 
+1. ábra: az események helye Magyarország vasúthálózatán 
+
+## Página 7
+
+2. ábra: az események közelebbi helye 
+### Bejelentések, értesítések 
+A kelebiai esetet a KBSZ ügyeletére 2017. december 14-én, 12:23-kor (a bekövetkezés 
+után 31 perccel) jelentette a MÁV Zrt. hálózati főirányítója; a ferencvárosi esetet 2017. 
+december 21-én 04:25-kor (a bekövetkezés után 27 perccel) jelentette a MÁV Zrt. 
+rendkívüli helyzetek irányítója. 
+### Vizsgálóbizottság 
+A KBSZ vezetője a vasúti közlekedési esemény vizsgálatára az alábbi Vizsgálóbizottságot 
+jelölte ki: 
+vezetője 
+Chikán Gábor 
+balesetvizsgáló 
+tagja 
+Demjén Péter 
+balesetvizsgáló 
+vezetője 
+Kapocsi József 
+balesetvizsgáló 
+tagja 
+Sárik Csaba 
+balesetvizsgáló 
+### Az eseményvizsgálat áttekintése 
+A Vb 2017. december 14-én Kelebián helyszíni szemlét tartott, 
+- 
+megvizsgálta a baleset helyszínét; 
+- 
+meghallgatta az eseményben érintett mozdonyvezetőt; 
+- 
+megmérte a vasúti pálya jellemzőit. 
+A Vb 2017. december 21-én Ferencvárosban is helyszíni szemlét tartott, 
+- 
+megvizsgálta a baleset helyszínét; 
+- 
+meghallgatta az eseményben érintett mozdonyvezetőt; 
+- 
+megmérte a vasúti pálya jellemzőit. 
+A vizsgálat során a Vb 
+- 
+részt vett az érintett teherkocsik kimérésén; 
+- 
+megkapta és kiértékelte a vasúti járművek menetíró regisztrátumát; 
+- 
+áttekintette a pályafelügyeleti dokumentumokat. 
+### Záró megbeszélés 
+A 2019. március 12-én megtartott záró megbeszélésen az ITM Vasúti Hatósági Főosztály 
+és a MÁV Zrt. képviseltette magát. A zárójelentés tervezettel kapcsolatban írásban 
+észrevételt küldött 
+- 
+az ITM Vasúti Hatósági Főosztály, és 
+- 
+a MÁV Zrt., 
+
+## Página 8
+
+melyek 
+kisebb 
+pontosításokat 
+tartalmaztak, 
+a 
+zárójelentésben 
+megfogalmazott 
+levezetéseket, következtetéseket nem érintették; a biztonsági ajánlással a hatóság 
+egyetértett, a vasúti társaság tudomásul vette. 
+### Az eset rövid áttekintése 
+2017. december 14-én Kelebián az állomásra behaladó tehervonat 8., 9. és 10. üres kocsijai 
+kisiklottak. 
+A Vb megállapította, hogy a vonatba besorozott üres és könnyű kocsik előtt-után rakott, 
+nehéz kocsik voltak a vonatban. A mozdonyvezető intenzív fékezést alkalmazott éppen 
+akkor, amikor a kocsik egy kedvezőtlen geometriájú, mérethatárokon túl leromlott 
+pályaívben haladtak. 
+2017. december 21-én Ferencváros állomásra behaladó 98909 sz. tehervonat 11-nek 
+besorozott 2 tengelyes kocsija 1 tengellyel kisiklott. 
+A Vb megállapította, hogy a vonatba besorozott üres és könnyű kocsi előtt-után rakott, 
+nehéz kocsik voltak a vonatban. A mozdonyvezető a kisiklás előtt intenzív fékezést hajtott 
+végre, ennek következtében a kisiklott kocsira a mögöttes vonatrész rátorlódott. 
+
+## Página 9
+
+## 1. 
+## TÉNYBELI INFORMÁCIÓK 
+## 1.1 
+### Az esemény leírása 
+### 2017-1620-5 Kelebia 
+A Szobról Kelebiára, tranzitforgalomban közlekedő 40873-2 tehervonat 8, 9. és 10. üres 
+kocsijai Kelebia állomásra való behaladás közben, a 18. sz. váltón kisiklottak. A vonat 21 
+kocsijából 7 közlekedett üresen, ezek a vonat közepére voltak besorozva. 
+### 2017-1657 Ferencváros 
+2017. december 21-én Sopron Rendező és Budapest Bilk pályaudvarok között közlekedő 
+98909 sz. tehervonatot Ferencváros állomáson a XI. vágányra járatták be. A vonat 
+behaladása közben az 51 sz. váltón, a 11-nek besorozott 2 tengelyes üres kocsi 1 tengellyel 
+kisiklott. 
+## 1.2 
+### Következmények 
+## 1.2.1 
+### Személyi sérülés 
+A kelebiai + a ferencvárosi esemény érintettjei: 
+| Sérülés | Személyzet | Utas | Útátjáró használó | Idegen | Egyéb |
+| Halálos | - | - | - | - | - |
+| Súlyos | - | - | - | - | - |
+| Könnyű | - | - | - | - | - |
+| Nemsérült | 2+1 | - | - | - | - |
+Kelebián második személyként egy hazautazó mozdonyvezető tartózkodott még a 
+mozdonyon. 
+## 1.2.2 
+### Rakományban, poggyászban keletkezett kár 
+A vonatokon fuvarozott rakományokban kár nem keletkezett. 
+## 1.2.3 
+### Vasúti járművekben keletkezett kár 
+A Kelebián keletkezett károkat a vasúti társaság a zárójelentés tervezet kiadásáig, 2018. 
+december 21-ig nem adta meg. 
+Ferencváros: a siklott kocsin kismértékű rongálódás következett be. 
+## 1.2.4 
+### Vasúti infrastruktúrában keletkezett kár 
+Kelebián a vasúti pályában kár nem keletkezett, azt a járművek eltávolítása után a 
+forgalomnak visszaadták. 
+Ferencvárosban a vasút pálya kárértéke 200 000 Ft. 
+## 1.2.5 
+### Egyéb vasúti kár 
+A kelebiai esemény következtében 1 személyszállító vonat helyett vonatpótló 
+autóbusz közlekedett Kisszállás és Kelebia állomások között, továbbá 1 
+személyszállító vonat 35 percet késett. 
+
+## Página 10
+
+A ferencvárosi esemény miatt a 150-es vasútvonal el volt zárva 4 óra 02 perctől 6 
+óra 05 percig. Kőbánya-Kispest és Soroksári út állomások között egy vonat helyett 
+vonatpóló autóbusz közlekedett. 
+## 1.2.6 
+### Környezeti károk 
+Környezeti kár nem keletkezett. 
+## 1.2.7 
+### Egyéb kár 
+Egyéb kár nem keletkezett. 
+## 1.3 
+### A baleseti helyszínek 
+## 1.3.1 
+### A vágány 
+A vágány állapotáról és a rajtuk található nyomokról a Vb fényképeket készített, méréseket 
+végzett (lásd még: 1.4.3.2). A későbbiekben hivatkozott nyomok Kelebián: 
+- 
+a 18. váltóban oldalra dőlt síncsavarok voltak (3. ábra); 
+- 
+a 23-28. aljaknál az ív külső sínszála mellett megtámasztó alátétlemezek voltak 
+beépítve, a megtámasztott alátétlemez dinamikus oldalra tolódásának nyomával is 
+(4. ábra); 
+- 
+a kerék felkapási nyoma a 31. aljnál volt látható (5. ábra), ezt követően a 
+nyomkarima a sínen futott a 35. aljig (6. ábra). 
+3. ábra: megdőlt csavarok a 27. aljon (Kelebia) 
+
+## Página 11
+
+4. ábra: megtámasztott leerősítés és oldalra tolódás nyoma (Kelebia) 
+5. ábra: felkapási nyom és a nyomkarima sínkoronán futása (Kelebia) 
+
+## Página 12
+
+6. ábra: a leesés helye a külső oldalon (Kelebia) 
+### Ferencváros: 
+- 
+a vágányon található nyomokról a Vb fényképeket készített, méréseket végzett 
+(lásd még: 1.4.3.2). 
+- 
+a nyomkarima felkapási nyoma az 5-6. aljak között volt látható (7. ábra), ezt 
+követően a kerekek az aljakon gördültek tovább a 13. aljig (8. ábra). 
+- 
+a kisiklás következtében a váltófűtőberendezés kapocsdoboza leszakadt a 
+rögzítéséről. 
+7. ábra: nyomkarima felkapási nyoma a külső oldalon (Ferencváros) 
+
+## Página 13
+
+8. ábra: kerék lesési helye a belső oldalon (Ferencváros) 
+## 1.3.2 
+### A járművek 
+## 1.3.2.1 
+### Kelebia 
+A vonat Kelebián úgy állt meg, hogy a mozdony pontosan az 1558-as szelvénykő mellett 
+állt meg (9. ábra), a 066-1 psz. kocsi a 18. váltó keresztezési részén. 
+9. ábra: a mozdony megállásai helye (Kelebia) 
+A vonat kocsijai közül a 4425-4426 sorozatúak tehervonati, a többi személyvonati 
+féknembe volt állítva. 
+Az első kisiklott kocsi (053-6) első tengelye a 1555+69; a második kisiklott kocsi (041-0) 
+első tengelye a 1555+57, a harmadik kisiklott kocsi (043-3) első tengelye a 1555+43 
+szelvényben volt. 
+## 1.3.2.2 
+### Ferencváros 
+A Vb kiérkezésekor a vonat mozdonyának eleje, az állomás XI. vágányán állt meg a 69+90 
+szelvényben. 
+
+## Página 14
+
+A 2156 4426 178-0 psz. kocsi kisiklott második tengelye, a 71+52 szelvényben a kitérő 
+vályúaljától számított 12. betonaljon állt meg. A kocsi első tengelyénél a hordrugók 
+tájolócsapjai, a csapágytok fészkéből, ki voltak ugorva. A 12. kocsi felőli végén a 
+csavarkapocs kengyel el volt törve. A fékberendezések vonatnemváltói a 2156 4426 178-0 
+psz. kocsi kivételével, gyors működésű állásba voltak állítva. 
+10. ábra: a kisiklott kerékpár 
+## 1.4 
+### Az infrastruktúra leírása 
+## 1.4.1 
+### Pályahálózati adatok 
+Kelebia 
+állomás 
+a 
+Magyarország–Szerbia 
+közötti 
+nemzetközi 
+vasúti 
+forgalom 
+határállomása, jelentős teherforgalommal. Az eseményben részes tehervonat kilépő 
+vonatként érkezett az állomásra. 
+Ferencváros állomás a Budapest–Hegyeshalom–Rajka MÁV 1-es számú vasútvonal 
+állomása, jelentős tranzit és belföldi teher- és személyforgalommal. 
+## 1.4.2 
+### Állomási adatok 
+Kelebia vágányhálózatának részletét az érintett vonat vágányútjával a 11. ábra mutatja. Az 
+A bejárati jelző a 1549+80 szelvényben van, az SR2 állomási sorompó a 1553+53 
+szelvényben. 
+Ferencváros állomás 42+29 és a 77+00 sz. szelvények között fekszik, D-70 típusú 
+biztosítóberendezés van telepítve, jelfeladásra kiépített; villamosított. Az állomásról az 
+1AK, 1AKN, 1AN, 1AL, és a 150 számú vonalak ágaznak ki. Az állomás 
+vágányhálózatának részletét és a vonat vágányútját 12. ábra mutatja. 
+
+## Página 15
+
+11. ábra: Kelebia vágányhálózata 
+a 98909 sz. vonat  
+vágányútja 
+12. ábra: Ferencváros vágányhálózatának részélete 
+## 1.4.3 
+### A vasúti pálya 
+## 1.4.3.1 
+### Váltó 
+Az eseményben részes váltók adatai: 
+|  | 2017 1620 5 - - Kelebia | 2017 1657 5 - - Ferencváros |
+| Száma: | 18 | 51 |
+| Rendszer: | 48XIII bal . | B54/XIII |
+| Eleje: | 1554+83 | 71+60 |
+| Á gyazat: | zúzottkő | zúzottkő |
+| Aljak: | talpfa | LMV |
+| Beépítésideje: | 1989 | 1990 |
+| Megengedettsebesség: | 40km/h | 40km/h |
+| Megengedett tengelyterhelés: | 210kN | 210kN |
+
+## Página 16
+
+Kelebián a kitérővizsgálati könyv a 18. sz. kitérő ívében mért nyomtávról a 13. ábrán kék 
+vonallal jelölt adatokat tartja nyilván. A Vb jelenlétében e szakaszon mért nyomtávok 
+szélsőértékeit a sárga vonalak jelölik. 
+13. ábra: nyomtávok a kitérő ívében 
+A kitérő 23-28. aljain az ív külső sínszála mellett megtámasztó alátétlemezek voltak 
+beépítve, amelyek a pályahálózat működtetőtől kapott tájékoztatás szerint „2017.02.06-án 
+kerültek beépítésre a megtámasztó lemezek a 18. kitérőben. Ez bevált módszer, Kelebia 
+állomás területén a nagy teher miatti nyomtáv megtartás érdekében jelenleg a 6, 16, 18, 7, 
+13, 21-es sz. kitérők  közbenső rész íveiben van ilyen lemezes megtámasztást.” 
+## 1.4.3.2 
+### Vágánymérés 
+### 2017-1620-5 Kelebia 
+A vágány mért adatai a 14. ábra tartalmazza a 8. kitérő végétől; a sárga sáv a felkapás és 
+leesés helyét mutatja. 
+14. ábra: a vágány mért adatai az alj sorszáma függvényében 
+(vörös: nyomtáv, kék: fekszint, jelölés: a felkapás és leesés helye) 
+### 2017-1657-5 Ferencváros 
+A vágány (kitérő) mért adatait és a felkapás helyét a 15. ábra tartalmazza. 
+
+## Página 17
+
+15. ábra: az 51 kitérő mért adatai 
+(vörös: nyomtáv, kék: fekszint, jelölés: a felkapás helye) 
+## 1.5 
+### A járművek jellemzői 
+|  | 2017 1620 5 - - Kelebia | 2017 1657 5 - - Ferencváros |
+| Vonatszám: | 20171214/40873 2 . . . - | 20171221/98909 . . . |
+| Mozgástípus: | vonat/teher | vonat/teher |
+| Ü zembentartó: | RCHZrt . | GySEVCargoZrt . |
+| Mozdony: | 91550431274 4 - | 91550430325 0 - |
+| Útvonal: | Szob oh Kelebia oh . – . | Sopron Rendező Budapest Bilk – |
+| Kocsik: (akisiklottak pályaszámai) | 21db | 31db |
+|  | … 9 21564425053 6 . - 10 21564426041 0 . - 11 25564425043 3 . - … | … 11 21564426178 0 . - … |
+| Hossz: | 526m | 460m |
+| Elegytömeg: | 986t | 1100t |
+| Fékezetttömeg: | 1021t | 862t |
+| Tényleges fékszázalék: | 95% | 73% |
+| Előírt fékszázalék: | menetrend: 75/54% VTK: 59%(gyorsműk) . | menetrend:60/54 VTK:54% |
+| Féknem: | Avonatterhelésikimutatáson valamennyikocsigyors működésű P(személyvonati) , féknembenvanfeltüntetve . | Avonatterhelésikimutatáson valamennyikocsigyors működésű P(személyvonati) , féknembenvanfeltüntetve . |
+## 1.5.1 
+### A vonatok járművei 
+### 2017-1620-5 Kelebia 
+A vonatban kétféle kocsi közlekedett. A 4425 sorozatú kocsi kéttengelyes, hossza 14,02 m, 
+tengelytávja 8 m (ilyen típusú kocsik siklottak ki). A 4551 sorozatú kocsi négytengelyes, 
+hossza 26,7 m. 
+
+## Página 18
+
+A kocsik kerékterhelésének mérésére a TS Hungária miskolci járműjavítójában került sor 
+2018. január 9-én, majd a Vb jelenlétében 2018. január 10-én is. A mérési eredmények: 
+| Kocsi | Mérés | Tengely | Bal kerék | Jobb kerék | Eltérés |  |
+|  |  |  | t | t | t | % |
+| 053 6 - | 20180109 . . | 1 | 2603 , | 2562 , | 041 , | 16% , |
+|  |  | 2 | 2601 , | 2648 , | 047 , | 18% , |
+|  | 20180110 . . | 1 | 2616 , | 256 , | 056 , | 22% , |
+|  |  | 2 | 2616 , | 2636 , | 02 , | 08% , |
+| 041 0 - | 20180109 . . | 1 | 2434 , | 2841 , | 407 , | 154% , |
+|  |  | 2 | 2811 , | 2452 , | 359 , | 136% , |
+|  | 20180110 . . | 1 | 2474 , | 2797 , | 323 , | 123% , |
+|  |  | 2 | 2745 , | 2501 , | 244 , | 93% , |
+| 043 3 - | 20180109 . . | 1 | 2528 , | 2655 , | 127 , | 49% , |
+|  |  | 2 | 2606 , | 26 | 006 , | 02% , |
+|  | 20180110 . . | 1 | 2617 , | 2595 , | 022 , | 08% , |
+|  |  | 2 | 2619 , | 2567 , | 052 , | 20% , |
+Ugyanekkor megtörtént a kerékprofilok kimérése is, valamennyi érték mérethatárokon 
+belül volt. 
+A TS Hungária (miskolci járműjavító) elvégezte 041-0 és 053-6 kocsik ütközőinek 
+kimérését. A 041-0 psz. kocsi valamennyi ütközője, továbbá a 053-6 psz. kocsi 2L ütközője 
+kis löketeknél túl merevnek bizonyult. 
+### 2017-1657-5 Ferencváros 
+A vonat 29 db 4426 típusú kéttengelyes konténerszállító és 2db 4451 hattengelyes 
+kocsikból volt összeállítva. A kisiklott kocsi 4426 típusú volt, jellemző adatai ütközők 
+közti hossza 14,02 m a tengelytávolsága 8,00 m. 
+A kocsi kerékterhelésének, keréktáv, ütköző magasság mérésére a MÁV-Start Zrt. Keleti 
+kocsiműhelyében történt, 2018. február 8-án a Vb jelenlétében. 
+A kerékterhelések mérési eredményei: 
+| 21564426178 0 - | 1 tengely . | 2 tengely . |
+|  | kg | kg |
+| 1 mérésjobb . | 2700 | 2710 |
+| 2 mérésjobb . | 2710 | 2720 |
+| 3 mérésjobb . | 2680 | 2720 |
+| 1 mérésbal . | 2700 | 2760 |
+| 2 mérésbal . | 2680 | 2750 |
+| 3 mérésbal . | 2730 | 2740 |
+
+## Página 19
+
+Ütközők magasság mérés adatai: 
+|  | 1 tengely . | 2 tengely . |
+| jobboldal | 1032mm | 1045mm |
+| baloldal | 1033mm | 1044mm |
+Számított adatok: 
+|  | 1 tengely . | 2 tengely . | összesen |
+| jobboldal mérésekátlaga | 2697kg | 2717kg | 5414kg |
+| baloldal mérésekátlaga | 2703kg | 2750kg | 5453kg |
+| kerékterhelés eltérések | 011% , | 066% , |  |
+| tengelyterhelések átlaga | 5400kg | 5467kg | 10867kg |
+## 1.5.2 
+### A vasúti járművek adatrögzítői 
+A 40873-2 sz. vonatot a MÁV-Start Zrt. mozdonya továbbította, a mozdony MFB adatait 
+az alábbi diagram mutatja be, néhány lényeges pont megjelölésével: 
+16. ábra: a 40873-2 sz. vonat MFB adatai 
+A 98909 sz. vonat mozdonyán TELOC 2220 típusú elektronikus sebességmérő és 
+adatrögzítőtő volt. A berendezés a baleset idején és azt megelőzően megfelelően működött, 
+adatai alkalmasak voltak a kiértékelésre. A menetregisztráló berendezés időmérője 32 
+másodpercet késett a valós időhöz képest a kiolvasáskor. A regisztrátum időarányos képét a 
+17. ábra mutatja be. 
+Néhány fontosabb adat: 
+a) 3:59:00 - 4:00:08 között a vonat állt az E19,08289 N47,46825 pontban, 
+b) 4:03:17 a vonat rövid elmozdulása. 
+
+## Página 20
+
+17. ábra: a 98909 sz. vonat menetíró regisztrátum részlete 
+## 1.6 
+### Az érintett személyek 
+A vonatok mozdonyvezetői: 
+|  | 2017 1620 5 - - Kelebia | 2017 1657 5 - - Ferencváros |
+| Vonatszám: | 20171214/40873 2 . . . - | 20171221/98909 . . . |
+| Kora: | 25év | 33év |
+| Neme: | férfi | férfi |
+| Mozdonyvezetőivizsgáttett: | 2012 -ben | 2012 -ben |
+| Vonalismeret: | érvényes | érvényes |
+| Típusismeret: | érvényes | érvényes |
+| Orvosialkalmasság: | érvényes | érvényes |
+| Szolgálatmegkezdése: | aznap03óra09perc | 20 -án 19 óra 00 perc |
+| Előzőszolgálatvége: | 12 -én 01 óra 00 perc | 19 -én 20 óra 00 perc |
+## 1.7 
+### Forgalmi körülmények 
+A forgalmi körülmények az eseményekkel nincsenek összefüggésben. 
+## 1.8 
+### Érintett szervezetek 
+A szervezeti kapcsolatok az eseményekkel nincsenek összefüggésben. 
+## 1.9 
+### A munkaszervezés jellemzése 
+A munkaszervezés az eseményekkel nincs összefüggésben. 
+
+## Página 21
+
+## 1.10 
+### Szabályok és szabályzatok 
+## 1.10.1 
+### Nyomtávolság-változás 
+A D.54. sz. utasítás 51.1. táblázatai meghatározzák a nyomtávolság-változás mérethatáriat. 
+## 1.10.2 
+### Kitérőmérés 
+A D.5. sz. Pályafelügyeleti utasítás 4.2.6.1 pontja alapján a kitérő bemérésekor kell 
+nyomtávot és fekszintet mérni annak ívében, annak dokumentálását pedig a 4.2.7. pont 
+határozza meg. 
+„4.2.6.1. Kitérővizsgálat beméréssel egyszerű kitérőben: […] 8. Nyomtávolság és fekszint a kitérő ívben 
+(Ny, F)” 
+„4.2.7. A kitérő ívben és a kitérőkhöz csatlakozó kissugarú ívekben (R ≤ 300 m) legalább három helyen 
+nyomtáv- és fekszintmérést kell végezni. A mért értékek közül a legkedvezőtlenebbet a kitérővizsgálati 
+könyvbe be kell jegyezni. A mérést a beméréses és az egyszerűsített kitérővizsgálat során is el kell 
+végezni.” 
+## 1.10.3 
+### A vasúti pályára vonatkozó mérethatárok 
+a MÁV D.54. sz. építési és pályafenntartási műszaki adatok, előírások I. rész, 51. fejezet 
+13. táblázata meghatározza a síktorzulás mérethatárait 8,0 méteres bázishossz esetére, ami 
+a kisiklott kocsik tengelytávja (18. ábra) 
+18. ábra: síktorzulás mérethatárai 
+## 1.10.4 
+### Teherkocsi tömeg 
+A Bizottság 2006/861/EK (2006. július 28.) határozata a transzeurópai hagyományos vasúti 
+rendszer „járművek – teherkocsik” alrendszerére vonatkozó átjárhatósági műszaki 
+előírásról meghatározta az új teherkocsik kerékpáronkénti minimális terhelését: 
+
+## Página 22
+
+4.2.3.2. Statikus tengelyterhelés és lineáris terhelés 
+Az alábbiakkal rendelkező kocsik kerékpáronkénti minimális terhelése: 
+|  | Általábankétvagytöbbtengely |  | 50t , |
+|  | Négytengelyesésféktuskókkalellátott |  | 40t , |
+|  | Négynéltöbbtengelyesésféktuskókkalellátott |  | 35t , |
+A Bizottság 321/2013/EU rendelete (2013. március 13.) az Európai Unió vasúti rendszere 
+„járművek – teherkocsik” alrendszerére vonatkozó átjárhatósági műszaki előírásról és a 
+2006/861/EK bizottsági határozat [az előzőleg hivatkozott – a Vb] hatályon kívül 
+helyezéséről új értékben határozza meg a teherkocsik minimális tengelyterhelését: 
+B.6. táblázat 
+A B. függelék 2.1. pontjával összhangban sikeresen vizsgált futóművel felszerelt járművek (köztük 
+kocsiegységek és állandóan összekapcsolt egységek) elfogadható paramétertartománya 
+| Névlegesparaméter |  |  |  |  | Legkisebb |  | Legnagyobb |
+|  |  |  |  |  | érték |  | érték |
+|  | Azüresegységátlagos | P átlagos,üres | P átlagos,üres | 5 ,75 t vagy P átlagos,üres,vizsgált, amelyik értékalacsonyabb | 5 ,75 t vagy P átlagos,üres,vizsgált, amelyik | — | — |
+|  | tengelyterhelése(forgóváz |  |  |  | értékalacsonyabb |  |  |
+|  | nélkülikocsi) |  |  |  |  |  |  |
+## 1.10.5 
+### Kerékterhelés 
+A MÁVSZ 2894 szerint az üres kocsik kerékterhelések megengedett eltérése 10%. Erre 
+vonatkozó nemzetközi szabványról azonban a Vb és RCH Zrt. szakembere nem tud. 
+A rakott kocsik esetén a rakodási szabályok 25%-ot engednek meg. 
+## 1.10.6 
+### A járművek kézi állítású fékvezérlő elemeinek kezelése 
+A MÁV E2 fékutasítás 2.3.2.3. Mozdony-, személyszállító és szerelvényvonatok 
+kivételével a többi vonat vonatnem-váltóinak kezelése az 1. táblázatban leírtak alapján, az 
+elegytömeg (F.2. 9.3. p.) szerint történik. 
+*A határállomásokon belépő, 1200 t elegytömeg feletti, gyorsműködésű légfékkel fékezett tehervonatok 
+vonatnem-váltóit az 1. táblázatban előírttól eltérő állásuk miatt nem kell átállítani, a vonatok rendeltetési 
+állomásig így közlekedhetnek, amennyiben azok megfékezettsége megfelel az előírásoknak. 
+19. ábra: vonatnem-váltók állásai 
+## 1.11 
+### Meteorológiai adatok 
+Kelebián felhős, esőre álló idő volt, de az esemény helyén-idején még nem esett; és azt 
+megelőzően sem. A léghőmérséklet a reggeli, gyenge talajmenti fagyból napközbenre +5°C 
+fölé emelkedett. A felszínen olvadó hótakaró sem volt. 
+Ferencvárosban a kérdéses éjszaka nagyrészt derült volt az ég, gyenge légmozgással (bár 
+az esemény idejére befelhősödött), így -7°C-ig hűlt le a levegő, a talaj mentén is – ami az 
+évnek ebben az időszakában nem számít szélsőségesnek. 
+
+## Página 23
+
+## 1.12 
+### Az érintettek nyilatkozatai 
+## 1.12.1 
+### Mozdonyvezető, Kelebia 
+A kelebiai eseményben részes mozdonyvezető elmondta, hogy 
+- 
+Kiskőrösön vette át a vonatot, amelyet Kelebiára hozott. 
+- 
+A vonat fékberendezése a szokásosnak megfelelően működött. 
+- 
+Két sárga fény mellett járt be Kelebiára. Fékezett, amikor az állomásépület előtt 
+észlelte a rántást a vonatban. 
+- 
+Először vonatszakadásra gyanakodott, miután hátrament, észlelte a kisiklást. 
+## 1.12.2 
+### Mozdonyvezető, Ferencváros 
+A ferencvárosi eseményben részes mozdonyvezető elmondta, hogy 
+- 
+A forgalmi irodánál észlelte, hogy egy személy kijön a fuvarokmányokért, ezért 
+azonnal, intenzív fékezéssel megállította a vonatot. 
+- 
+Ezt követően a fuvarokmányok átadása, átvétele után megindult a vonatával és kb. 
+10 km/h sebességre gyorsított fel. 
+- 
+Majd azt tapasztalta, hogy a fővezeték nyomása lecsökkent a vonat önműködően 
+befékeződött. 
+- 
+Megállás után az irányítást értesítette, hogy a vonatot megvizsgálja, hogy az miért 
+fékeződött be. 
+- 
+Hibakeresés miatt a vonata vége felé ment, majd azt tapasztalta, hogy a 11. és 12. 
+kocsi között a kapcsolat szétszakadt és egy kocsi egy 1 tengellyel kisiklott. 
+- 
+Időközben egy tolatásvezető a helyszínre érkezet, aki az eseményt rádión az 
+irányításnak jelentette. 
+## 1.13 
+### Mentés, kárelhárítás 
+### Kelebia 
+A kisiklott járművek beemelése az eset napján 17:45-től másnap 1:00-ig tartott. Az emelést 
+LUKAS hidraulikus sínrehelyező olajemelő berendezéssel végezték el. 
+A kisiklott kocsikat Kelebia állomáson futóképessé tették, ezután Miskolcon műszaki 
+mérésekre került sor, majd a karbantartó állomásra (Zólyom) továbbították őket. 
+A vasúti pályára a baleset helyszínére vonatkozóan semmilyen korlátozás nem lett 
+elrendelve: a műszaki kárelhárítás után a vasúti pálya korlátozás nélkül járható volt. 
+Azonban a balesetet követő napon a vágányban mért eltérések korrigálása érdekében 
+fenntartási munka keretében nyomtáv- és fekszint szabályozást végeztek. 
+### Ferencváros 
+A kárelhárító egység a kisiklott kocsi vágányra helyezését és futóképessé tételét 7 óra 45 
+perckor kezdte meg és 8 óra 15 perckor befejezte. 
+## 1.14 
+### Próbák és kísérletek 
+A vizsgálat során próbákra nem került sor. 
+
+## Página 24
+
+## 1.15 
+### Kiegészítő adatok 
+Kelebián az érkező tehervonat mozdonyán tartózkodott egy munkából hazatérő 
+mozdonyvezető, aki a vonat megállása után sietve távozott a mozdonyról. 
+## 1.16 
+### Összefüggésbe hozható események 
+Tehervonatok kisiklását a KBSZ több alkalommal vizsgálta már, azonban a vonat 
+menetdinamikájával kapcsolatos eseményt még nem. 
+A kitérők elavult állapotára voltak visszavezethetők az alábbi események: 
+## 1.16.1 
+### 2012. október 19. Aszód (2012-0705-5) 
+Az Aszód állomás VII., nem átmenő fővágányra bejáró tehervonat két kocsija a 
+váltókörzetben a 17. váltón kisiklott, majd a siklott kocsik kb. 300 m hosszban 
+megrongálták a vonatfogadó vágányt. 
+Az érintett pályaszakaszon sebességkorlátozás volt érvényben, melyet a vonat túllépett, 
+azonban az kitűzve nem volt. 
+A Vb megállapította, hogy a 17. kitérő avult műszaki állapota alkalmas volt a kisiklás 
+előidézésére, amelyhez hozzájárult, hogy a kisiklott teherkocsi kerekének nyomkarima 
+vastagsága a megengedett tartomány alsó határán volt. 
+A pályafenntartás rendszerének vizsgálata azt mutatta, hogy a konkrét kitérőben nem volt 
+feltárva a balesethez vezető avult alj-állapot, és nincsenek biztosítva a szükséges 
+erőforrások, anyagok a megfelelő pályafenntartáshoz; a fenntartási feladatok végrehajtását 
+bonyolult, lassú döntési folyamatok nehezítik. 
+A KBSZ biztonsági ajánlást adott ki a közlekedési hatóságnak a kitérők méretelőírásainak 
+pontosítására. 
+## 1.16.2 
+### 2013. június 19. Devecser (2013-0458-5) 
+Egy tehervonat három kocsija Devecser állomás V. vágányára való behaladás közben a 16 
+sz. átszelési kitérőn kisiklott. Az esemény következtében megrongálódott a kisiklásban 
+érintett átszelési kitérő és kisebb mértékben a kisiklott teherkocsik. 
+A Vb megállapította, hogy a kitérő avult műszaki állapota alkalmas volt a kisiklás 
+előidézésére, amelyhez hozzájárult, hogy a kisiklott teherkocsi kerekének nyomkarima 
+vastagsága a megengedett tartományon belül, de annak alsó határán volt. 
+A pályafenntartás rendszerének vizsgálata azt mutatta, hogy a konkrét kitérőben nem volt 
+feltárva a balesethez vezető avult alj-állapot, és nincsenek biztosítva a szükséges 
+erőforrások, anyagok a megfelelő pályafenntartáshoz; a fenntartási feladatok végrehajtását 
+bonyolult, lassú döntési folyamatok nehezítik. A fenntartási folyamatok nem teljesítik a 
+pályahálózat működtetőjének biztonságirányítási kézikönyvében foglalt elvárásokat. 
+A KBSZ fenntartotta a 2012-0705-5 sz. eseményhez kiadott biztonsági ajánlását a kitérők 
+méretelőírásainak pontosítására, és újabb ajánlást adott ki a biztonságirányítási rendszer 
+működésének ellenőrzésére. 
+## 1.16.3 
+### 2015. november 19. Hatvan-Rendező (2015-1234-5) 
+Zúzottkővel megrakott tehervonat több kocsija Hatvan rendezőpályaudvaron kisiklott, a 
+kisiklott kocsik egy része visszalépett a sínre, az utolsó kocsi a földön maradt. 
+A vizsgálat során a Vb megállapította, hogy az esemény lefolyása és okai megegyeznek 
+több korábbi, hasonló eseménnyel: a vasúti pálya elavult állapota, a teherkocsik 
+aszimmetrikus terhelése, és a kocsik kerékpárjainak aszimmetrikus kopottsága együttesen 
+
+## Página 25
+
+vezettek a kisikláshoz. A vasúti pálya alj-állaga erősen elöregedett volt; a kocsik 
+aszimmetrikus terhelése a számítások szerint a határérték közelében, de azon belül volt; a 
+kerékpárok aszimmetriája vonatkozásában pedig előírás nem áll rendelkezésre. 
+A KBSZ biztonsági ajánlást adott ki a közlekedési hatóságnak a teherkocsi kerékpárok 
+méretelőírásai vonatkozásában. 
+## 1.17 
+### Alkalmazott vizsgálati módszerek 
+A kisiklások létrejötte vizsgálható az ún. Nadal-képlettel: 
+
+
+
+Y
+tan(
+)
+
+
+
+
+Q
+1
+tan(
+)
+ahol 
+Y 
+terelőerő 
+Q 
+kerékterhelés 
+δ 
+nyomkarima meredekség 
+μ 
+nyomkarima-sín közti súrlódási tényező 
+A képlet megadja azt a terelőerő-kerékterhelést arányt, amelynél a gördülő kerék sínre való 
+felmászása megkezdődik. 
+
+## Página 26
+
+## 2. 
+## ELEMZÉS 
+## 2.1 
+### Az esemény tényleges lefolyása 
+Az 1. fejezetben tárgyalt bizonyítékok alapján az esemény tényleges lefolyása az alábbiak 
+szerint állítható össze: 
+## 2.1.1 
+### Az esemény előtti történések 
+A két esemény történéseit az alábbi táblázat állítja párhuzamba. A távolságok nullpontja 
+Kelebián a vonat megállása. A ferencvárosi eseménynél kellő részletességű adatrögzítők 
+hiányában a távolságok nem adhatók meg. 
+### Kelebia 
+### Ferencváros 
+## 2017.02.06. 
+A 18. kitérő közbenső részén a nyomtáv 
+megtartására 
+megtámasztó 
+alátétlemezeket építettek be (1.4.3.1). 
+## 2.1.2 
+### Az esemény lefolyása 
+-820 m 
+A vonat behaladt Ferencváros állomásra kb. 
+A mozdony elhaladt a bejárati jelző 
+30 km/h sebességgel (1.5.2). 
+mellett 45 km/h sebességgel (1.5.2). 
+-452 m 
+A mozdonyvezető 3 másodperc alatt 0,3 
+A 
+váltókörzetben 
+a 
+vonatbefolyásoló 
+barral csökkentette a fővezeték nyomást 
+megállította a vonatot. 1 perc idő elteltével 
+néhány másodpercre, ezalatt a vonat 1,2-
+a vonat továbbindult. A vonat 10-12 km/h-
+1,5 km/h-t lassult 41,6-42,2 km/h-ra 
+ig gyorsult (1.5.2). 
+(Teloc-GPS) az állomási útátjáró és 
+váltókörzet között. 
+Az MFB adatokból számíthatóan ez a 
+fékezés 452 méterrel megállás előtt volt, 
+tehát az 1553+48 szelvényben kezdődött 
+1.4.2, 1.5.2). 
+### -191 m (A) 
+A mozdonyvezető lassan fékezni kezdett. 
+A vonatfogadó vágány elejére érve a 
+mozdonyvezető a vontatást megszüntette 
+Ebben 
+a 
+pontban 
+lassú 
+fővezeték 
+nyomásesés kezdődik (1.5.2). 
+(1.5.2). 
+A 
+forgalmi 
+iroda 
+közelében 
+a 
+mozdonyvezető észrevette, hogy valaki 
+elindult 
+a 
+mozdony 
+felé 
+a 
+fuvarokmányokért (1.12.1). 
+### -121 m (B) 
+A mozdonyvezető a fékezést hirtelen 
+A 
+mozdonyvezető 
+intenzív 
+fékezésbe 
+intenzív fékezéssé fokozta, gyorsfék állás 
+kezdett. 
+rövid használatával. Minden bizonnyal a 
+A rendelkezésre álló adatrögzítők nem 
+tartalmaznak 
+fékezési 
+jeleket, 
+ez 
+az 
+forgalmi iroda előtti megállás céljával, 
+információ 
+csak 
+más 
+adatokból 
+hogy kollégája ott leszállhasson. 
+következtethető ki: a vonat sebessége rövid 
+Hirtelen fővezeték nyomásesés indul meg, 
+
+## Página 27
+
+mely 6 mp alatt 4-ről 2 barra csökken. 
+idő alatt intenzíven csökken nullára, és a 
+Ilyen mértékű nyomásesés üzemi fék 
+mozdonyvezető elmondása is ezt támasztja 
+alá (1.5.2, 1.12.1). 
+állásokban 
+nem 
+érhető 
+el 
+(a 
+vonat 
+fővezetékének szétszakadása ekkor még 
+nem következett be) (1.5.2). 
+A kitérő 23-28. aljai között jelentősebb 
+nyombővülésbe futott a kocsi. Ezen belül 
+a 26. aljnál a nyomtáv 1469 mm, további 
+rugalmas bővülés nyomával (1.4.3.2, 
+1.3.1). 
+A vonat kocsijai összetorlódtak, ezáltal a vonat közepe erős összenyomó erőnek lett 
+kitéve. 
+A fékezés során a vonat elején lévő kocsikhoz hamarabb jut el a fékezési parancs, mint a végéhez. 
+Ekkora vonatnál az időkülönbség legalább 2 mp. Emellett a vonat - a középre sorozott 4 db 
+kéttengelyes kocsi kivételével - gyorsműködésű fékkel üzemelt, így a vonat elején már kialakult 
+fékhatás volt, amikor a vonat vége még nem fékezett. 
+Ennek a hatása az, hogy a vonat összetorlódik, a vonat közepén jelentős hosszirányú, összenyomó 
+erők alakulnak ki. (1.5.1, 1.3.2) 
+Az ívben haladó vonaton a hosszirányú erők oldalirányú erővé transzformálódnak, 
+megnövelve ezzel a kocsi vezetéséhez szükséges terelőerőt (21. ábra). 
+-68±2 m 
+A 27-29. alj térségében - már a csökkenő 
+nyomtávnál - a 4425 053-6 kocsi első 
+tengelye megkezdte a felmászást a jobb 
+sínszálra. A vonat sebessége ekkor 35-38 
+km/h (1.5.2). 
+Ez a mozzanat az utána történtekből 
+következtethető ki: el kellett indulnia a 
+felmászásnak ahhoz, hogy kicsivel később 
+a nyomkarima már a sínkoronán fusson. 
+Mivel kis szögben, azaz hosszú úton futott 
+át a sínkoronán, előtte is hosszan, akár több 
+alj távolságon futhatott fel. 
+-66±1 m 
+A 31. aljnál a nyomkarima felfutott a 
+A kitérő 5-6. alja között a 178-0 psz. kocsi 
+sínkoronára 
+második 
+tengelyének 
+nyomkarimája 
+átugrotta 
+a 
+bal 
+(ív 
+külső) 
+sínszál 
+Ekkor a 053-6 psz. kocsi első tengelye volt 
+a felkapás helyén, megálláskor a 066-1 
+sínkoronáját. 
+közepe a keresztezésnél. A távolság a 
+felkapástól a megállásig: 
+8 aljköz (4,5±0,5 m) + 4551 066-1 kocsi 
+félhossza (13,4 m) + 4 db 4425 kocsi 
+hossza (4x 14,0 m) - 4425 keret túllógás 
+(3,0 m) - rövidülés az egymásra csúszás 
+miatt (kb. 4,5±0,5 m) (1.3.1, 1.3.2, 1.5.1) 
+A 35. aljnál a tengely mindkét kereke 
+A 11. kocsi kisiklása miatt a 11-12. kocsik 
+leesett (1.3.1). 
+közti csavarkapocs elszakadt, a kocsik 
+azonban 
+egymásra 
+torlódtak, 
+így 
+a 
+légféktömlő még ép maradt. 
+A 11. kocsi a kisiklás miatt oldalra mozdult, 
+a csavarkapocs átlós, rendellenes helyzetbe 
+került, emiatt szétszakadt. A kocsi ütközőjén 
+és zártárcsa tartóján lévő nyomok is 
+igazolják, hogy ekkor az ütközők már nem 
+értek össze, a követő kocsi ütközője a 12. 
+kocsi mellgerendájának ütközött. Ezt a 
+helyzetet a légféktömlő még át tudja hidalni, 
+
+## Página 28
+
+így nem szakadt el (1.3.2.2). 
+### -56 m (C) 
+A mozdonyvezető az intenzív fékezést 
+megszüntette. 
+A 
+fővezeték 
+nyomása 
+1,9 
+bar-ról 
+emelkedni kezd, 2 mp alatt 3,1 bar-ig. Ez 
+arra utal, hogy a mozdonyvezető menet, 
+vagy valamely üzemi fék állásba tette a 
+fékezőszelepet (1.5.2). 
+A kocsik egymásra csúszása miatt a 
+fővezeték szétszakadt, ezzel önműködő 
+befékezés következett be. 
+A Vb a helyszínen szétszakadt fővezetéket 
+talált. 
+### -38 m (D) 
+A nyomásemelkedés megállt, enyhe esés-
+emelkedés következik megállásig a 3-3,5 
+bar tartományban maradva. 
+A szétszakadást követően - tekintettel a 
+vonat hosszára és a fékhatás terjedési 
+sebességére - kb. 1 másodperccel jelenik 
+meg a mozdonyon a nyomásesés. Ettől 
+kezdve a mért és regisztrált nyomást a 
+légvesztés és a mozdony utántápláló-
+képessége határozza meg. 
+0 m 
+A vonat 1 tengellyel kisiklottan megállt. 
+A vonat megállt. A mozdony ekkor a 
+forgalmi iroda előtt volt az 1558-as 
+szelvénykő mellett, a váltó keresztezési 
+részén a 066-1 psz. kocsi középső 
+forgóváza állt (1.3.2). 
+A vonatösszeállítás alapján a 053-6 psz 
+kocsi eleje a mozdony eleje után 230 
+méterrel volt (1.5.1). 
+A fenti folyamatban a Kelebiai eseménynél alkalmazott betűjelölések helyét a 20. ábra 
+mutatja meg. A-D a mozdony, Ak-Dk a kisiklott kocsi helyzete ugyanakkor: 
+20. ábra: a vonat helyzete a folyamat lényeges pontjaiban 
+## 2.1.3 
+### Az eseményt követő történések 
+### Kb. 4:03:17 
+A 
+fuvarokmányok 
+átadása 
+után 
+a 
+mozdonyvezető megkísérelt a vonattal 
+tovább indulni (1.5.2). 
+Rövid elmozdulás után a 11-12. kocsik 
+
+## Página 29
+
+közti légféktömlő elszakadt, a vonat 
+önműködően befékeződött (1.5.2). 
+## 2.2 
+### Az esemény okozati összefüggéseinek elemzése 
+Az esemény létrejöttében a fenti folyamat alapján szerepet játszott, hogy 
+- 
+a kisiklott kocsik nehéz rakott teherkocsik közé sorozott könnyű és üres kocsik 
+voltak; 
+- 
+emellett Kelebián a vasúti pályában gyors nyomtáv-csökkenés volt; 
+- 
+a mozdonyvezető intenzív fékezése miatt a vonatban jelentős hosszirányú erők 
+keletkeztek, amelyek az ívben oldalirányú erővé transzformálódtak éppen ott és 
+akkor, amikor a kritikus kocsik a kritikus pályarészen jártak. 
+Az ilyen kisiklási folyamat okait jól szemlélteti a Nadal-képlet, amely a terelőerő (Y), 
+kerékterhelés (Q), súrlódás a nyomkarima és a sín között (μ) és nyomkarima-szög (β) 
+között teremt kapcsolatot (1.17). Fokozódik a kisiklás veszélye, ha 
+- 
+nagy a terelőerő a kerékterhelés arányában (Y/Q), 
+- 
+nagy a súrlódás (μ), 
+- 
+kicsi a nyomkarima-szög (β). 
+A terelőerőre mind a pálya, mind a vonat menetdinamikája hatással volt, ezek 
+összeadódtak. A túl nagy terelőerő pedig meghatározó része a nyomkarima felmászásával 
+lejátszódó kisiklások fizikai okainak, különösen úgy, hogy a kocsi tömege, kerékterhelése 
+kicsi. 
+## 2.2.1 
+### A vasúti pálya állapota 
+## 2.2.1.1 
+### Vonalvezetés és hatása 
+Kelebián a kisiklás előtti részen a nyomtáv intenzíven csökken: 4 aljközben statikusan 23 
+mm-t (1.4.3.2). Rugalmas nyombővülés nyomai utalnak arra, hogy a haladó vonat alatt a 
+csökkenés ennél is nagyobb mértékű lehetett. 
+Mivel a csökkenés az ív külső, vezető sínszálában van, ez a pályageometria jelentős 
+terelőerő növekményt okoz: ezen a szakaszon a sín nyomvonala – a mért adatok 
+kiszerkesztése alapján – 83 m sugarú ívnek felel meg, ellentétben a kitérő rendszerére 
+meghatározott 192 m-es értékkel. Tehát a jármű ezen a rövid szakaszon 83 m sugarú ívbe 
+futott bele 35-38 km/h-val (1.3.1). 
+Az elméleti terelőerő (Y) az F=mv2/r képlet alapján normál esetben (a kitérő névleges 
+192 m-es ívsugarán) 6,2 kN lenne tengelyenként, a csökkenő nyomtávú szakaszon viszont 
+14,2 kN. Ez Y/Q-ban 24 illetve 55%-ot jelent. 
+A tényleges Y/Q arányhoz azonban figyelembe kell venni azt a természetes kompenzáló 
+hatást is, hogy az ívben haladó jármű esetén a kerékterhelések eltolódnak, a külső kerék 
+terheltebb lesz. A pontos adatok ismerete híján példaként kiszámítható, hogy az Y/Q arány 
+– e hatás figyelembe vételével – 
+- 
+1 m súlypont-magasság esetén 40%-ra adódik, 
+- 
+2 m súlypont-magasság esetén 31%-ra. 
+Az alacsony súlypontú pőrekocsinál kicsi a kompenzáló hatás, míg a rakott kocsik, 
+mozdony esetében a magasabb súlypont miatt nagyobb. Ez is egy oka, hogy azok a 
+járművek kisiklásmentesen haladtak át ezen a vágányszakaszon. 
+Hasonló, vagy az esettel összefüggésbe hozható pályajellemzőt Ferencvárosban a Vb nem 
+talált. 
+
+## Página 30
+
+## 2.2.1.2 
+### Pályafelügyelet 
+A vágánymérést a kitérő közbenső részén (mint a balesetben érdekelt pályarészen) az 
+előírások szerint a kitérőméréssel együtt kell végezni (1.10.2). Nem kell azonban 
+részletesen dokumentálni, elegendő egyetlen értéket felírni: az sem egy előre 
+meghatározott helyen mért adat, hanem 3 mérésből a legkedvezőtlenebb. Ez látszólag 
+alkalmas arra, hogy kiszűrje a legsúlyosabb hibákat, azonban a 3 alapul vett mérés helye 
+kiválasztható kedvezőbb értékekre is. A Kelebián mért adatok ábrája jól mutatja is, hogy az 
+e rovatba írt (legkedvezőtlenebb) adat egy 13 mm-es sávban ingadozik. Ily módon ez az 
+előírás teljesen alkalmatlan, hogy leromlás folyamata, intenzitása, sőt, akár csak a leromlás 
+ténye felismerhető legyen. 
+Továbbá teljes mértékben lehetetlen ezzel a megoldással a nyomtávváltozásban rejlő hibák 
+és veszélyek feltárása: a jelen eseményben pedig e hibának is alapvető hatása volt. 
+A kritikus helyen a 4 aljközben lévő 23 mm csökkenés (a 4 aljköz kb. 2,5 m távolságot 
+jelent) átlagosan 9 mm/m. Ez jelentősen meghaladja a vonatkozó D.54. sz. utasítás 
+határértékét (1.10.1), amely azonnali beavatkozást (ún. C3 kategória) ír elő már 5 mm/m 
+értéknél. Ilyen intézkedésről azonban a Vb nem tud, sőt, a vasúti pályahálózat működtető 
+pályás szakértőjének jelentése alapján a baleset után a kisiklás helyén a vágányt 
+forgalombiztos állapotban találták, az a forgalomnak visszaadható volt. Különösen ez 
+utóbbi igazolja azt, hogy a pályafelügyelet nem képes ezt a hibát felismerni. 
+A kitérő egyenes irányának közbenső részére ilyen előírás sincs. Míg más 
+vágányszakaszokon folyamatos gépi mérések, vagy legalább aljanként végzett kézi 
+mérések készülnek, a kitérők közbenső részén nem keletkeznek egzakt, összehasonlítható 
+pályafelügyeleti adatok (1.4.3.1). 
+## 2.2.1.3 
+### A pályahiba észlelése 
+A fentiek ellenére az azonban látható, hogy Kelebián a nagy nyomtávot a pályafenntartás 
+korábban már észlelte: ennek jól látható jele, hogy a 60-65. aljakon megtámasztó 
+alátétlemezeket építettek be 2017. februárjában. Ez azonban csak a nyomtáv további 
+bővülését tudja megakadályozni vagy késleltetni, a már meglévő hibát nem szüntette meg 
+(1.4.3.1). 
+## 2.2.1.4 
+### Síktorzulás 
+A mért pályaadatokban a túlemelés értékei 0-12 mm tartományban mozognak. A 
+síktorzulások mérethatárait (1.10.3) így a 8 m tengelytávú kocsi (1.5.1) legkedvezőtlenebb 
+helyzetében sem lépi túl. 
+## 2.2.2 
+### A vonat és a menetdinamika 
+A mozdonyvezetők mindkét kisiklás előtt röviddel intenzív fékezésbe kezdtek. A fékezési 
+parancs nyomáshullámként terjed a vonat fővezetékében, aminek terjedési ideje és 
+tulajdonságai miatt a vonat elején 
+- 
+hamarabb, és 
+- 
+gyorsabban alakul ki a fékhatás. 
+A Vb becslési eljárásával – figyelembe véve a kocsik eltérő elegytömegét is – az egyes 
+járművek fékerőinek alakulása a kisiklás pillanatában az alábbiak szerint szemléltethető (az 
+ábra a kelebiai kisiklás szerelvényét mutatja): 
+
+## Página 31
+
+Fékerő [kN] 
+50
+40
+30
+20
+10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+Mivel a vonat kocsijai együtt mozognak, nagyon hasonló mértékben együtt lassulnak, a 
+vonat elején lévő – átlagosnál jobban fékezett – kocsik fékhatása részben a vonat végének 
+lassítására is fordítódik. Ez az erőhatás az ütközőkön adódik át, éspedig az alábbiak szerint: 
+### Ütköző-erők a járművek végén [kN] 
+80
+60
+40
+20
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+Ebből adódóan a vonat összenyomódik, az ütközőkön hosszirányú nyomóerők keletkeznek. 
+A hosszirányú erők az ívben haladó kocsik esetében kifelé ható erővé transzformálódnak, 
+aminek ellenerejeként a kerék-sín közötti terelőerő megnövekszik (21. ábra). 
+21. ábra: a terelőerő megnövekedése 
+Az erők irányát – és ennek következtében az eredő nagyságát is – nagyban befolyásolja az 
+ütközők illeszkedési felülete, a kocsik pillanatnyi helyzete, mozgásai. A számítások ezért 
+csak egy nagyon idealizált, a fenti ábra szerinti helyzetre készíthetők el: a terelőerő a 
+hosszirányú erők kb. 7%-a ebben az ívben, ami a statikus kerékterhelésnek 17%-a. 
+Noha a fentiek alapján a mozdonyvezetői magatartás hozzájárult a kisikláshoz, nem tiltható 
+meg: egy vészhelyzetben (akadály, ember kerül a vonat elé) kifejezetten kötelessége is a 
+mozdonyvezetőnek az elérhető legnagyobb fékhatást alkalmazni, a szerelvénynek pedig 
+kisiklásmentesen el kell ezt viselnie. 
+A kocsik kis tömege, illetve az ebből adódóan kis súlya a keletkező kiemelő erőhatásoknak 
+csekély ellenhatást adott. A minimális kocsisúly (illetve tömeg) előírása ezért indokolt. 
+
+## Página 32
+
+## 2.2.3 
+### A kocsik műszaki állapota 
+A Kelebián kisiklott kocsik közül a 2156 4426 041-0 psz. kocsi 12-15%-os kerékterhelés 
+eltérése (1.5.1) nem felel meg a vonatkozó magyarországi előírásnak (1.10.5), amely 
+legfeljebb 10% eltérést enged meg. Azonban 
+- 
+tekintettel kell lenni a kocsi külföldi eredetére, és nemzetközi szabály erre 
+vonatkozóan nem volt fellelhető; 
+- 
+a kisiklás a tárgyalt folyamat alapján nem ezen kocsival kezdődött; 
+- 
+továbbá ugyanez a kocsi rakottan (a rakodási szabályok alapján) akár 25% 
+kerékterhelés eltéréssel is közlekedhetne, amit a vasúti rendszernek el kell viselnie. 
+A kocsi hibája így ha meg is állapítható, nem hozható összefüggésbe az eseménnyel. 
+Ferencváros állomáson kisiklott 4426 178-0 psz. kocsi kerékterhelés, ütköző magasság 
+értékei a vonatkozó előírásoknak (1.5.1) megfeleltek. 
+Kelebián megállapítható volt az ütközők túlzott merevsége, legnagyobb részben a 
+másodikként kisiklott 041-0 psz. kocsinál. Kis sugarú ívben az összenyomódó ütközők 
+erőhatásai a szerelvényt kiegyenesíteni igyekeznek, ezzel is rontva az ívbeállást. Az 
+ütköző-erők két kocsi közötti kölcsönhatásban vesznek részt, ezért a másodikként kisiklott 
+kocsi „kemény” ütközői is elősegíthették az előtte lévő 053-6 psz. kocsi kisiklását (1.5.1). 
+## 2.3 
+### A túlélés lehetősége 
+Az események következtében életveszély nem alakult ki. 
+## 2.4 
+### Egyéb észrevételek 
+A Vb egyéb észrevételt nem tett. 
+## 2.4.1 
+### Fogalomhasználat 
+A J001 PASS2 jelű vonatterhelési kimutatás a fékezettségi adatokban helytelenül a 
+„fékezendő/fékezett súly” kifejezéseket használja a „fékezendő/fékezett tömeg” helyett. 
+## 2.5 
+## KÖVETKEZTETÉSEK 
+## 2.5.1 
+### Közvetlen okok 
+Az esemény bekövetkezésére közvetlenül ható tényezők az alábbiak voltak: 
+a) a vonatok közepére sorozott kisiklott kocsik könnyűek voltak (2.2.2); 
+b) a mozdonyvezetők a behaladás közben intenzív fékezést alkalmaztak (2.2.2); 
+c) Kelebián a kisiklás helyén a vasúti pálya nyomtávolsága gyorsan, azonnali 
+beavatkozási határértéket meghaladóan csökkent (2.2.1.1). 
+## 2.5.2 
+### Közvetett okok 
+Azok a kompetenciákra, eljárásokra, fenntartásra vonatkozó megállapítások, amelyek 
+összefüggésben voltak az előzőekben felsorolt tényezőkkel: 
+a) Kelebián a pályafelügyelet során nem azonosították a gyors nyomtávváltozást 
+(2.2.1.2); 
+b) Kelebián túlzottan merev ütközők voltak a kocsikon (2.2.3). 
+c) a vonatnem-váltók a szabályoktól eltérően voltak beállítva, ami fokozta a 
+kedvezőtlen hosszirányú erőhatásokat (2.2.2). 
+
+## Página 33
+
+## 2.5.3 
+### Gyökérokok 
+Időben és térben távol lévő okok, amelyek a rendszer működésével kapcsolatosak a 
+szabályozási környezetben és a biztonságirányítási rendszerben: 
+a) Kelebián kitűnt, hogy a hatályos kitérőmérési szabályok mellett a kitérőben lévő 
+nyomtávhibák nem, vagy csak véletlenszerűen fedezhetők fel (2.2.1.2); 
+b) a ferencvárosi esetnél ilyen okot a Vb nem azonosított. 
+## 2.5.4 
+### Egyéb kockázatnövelő tényezők 
+Az eset bekövetkezésével összefüggésbe nem hozható, de kockázatnövelő tényezőket a Vb 
+nem azonosított. 
+## 2.5.5 
+### Jól működő eljárások, gyakorlatok 
+A Vb ilyen megállapítást nem tesz. 
+## 2.5.6 
+### Tanulságok 
+Az ilyen esetek elkerüléséhez a vasúti pálya megfelelő állapotában tartásán túl a vonatok 
+üzemeltetése is hozzájárulhat. 
+A nehéz kocsik közé sorozott könnyű kocsik ugyanis fokozottan érzékenyek a vonatban 
+ébredő hosszirányú erőkre, amelynek kiváltó oka lehet a kis sugarú ívekben való erőteljes 
+fékezés is. Az ilyen fékezés vészhelyzet esetén kifejezetten szükséges is lehet, így noha 
+célszerű kerülni, az meg nem tiltható. 
+## 3. 
+## MEGTETT INTÉZKEDÉSEK 
+A vasúti társaság a kocsik üzembentartóját értesítette a kocsik vizsgálatának eredményéről.  
+A vasúti pályára a baleset helyszínére vonatkozóan korlátozás nem lett elrendelve, azonban 
+a balesetet követő napon a vágányban mért eltérések korrigálása érdekében fenntartási 
+munka keretében nyomtáv- és fekszintszabályozást végeztek. 
+## 4. 
+## BIZTONSÁGI AJÁNLÁS 
+## 4.1 
+### A vizsgálat során kiadott biztonsági ajánlások 
+A vizsgálat során a Vb biztonsági ajánlást nem adott ki. 
+## 4.2 
+### További biztonsági ajánlások 
+BA2017-1620-5-01: A pályafelügyeleti mérések során a folyóvágányokban folyamatos nyomtávmérés 
+történik, míg a kitérőkön csak néhány pont mérésére kerül sor. Ez nem biztosítja a kitérők állapotának 
+megfelelő nyomon követését, egyes hibák (nyomtávváltozás) értékelése pedig kifejezetten lehetetlen. 
+### A Közlekedésbiztonsági Szervezet javasolja az Innovációs és Technológiai 
+Minisztérium Vasúti Hatósági Főosztályának, hogy a vasúti pályahálózat működtetők 
+vasútbiztonsági engedélyének részét képező pályafelügyeleti eljárásokban követeljen 
+meg olyan kitérő és/vagy vágánymérési technológiát, amely biztosítja, hogy a nyomtáv 
+mérése és kiértékelése a kitérőkön is – a folyóvágányokhoz hasonlóan – folyamatos 
+legyen. 
+Az ajánlás elfogadása és végrehajtása esetén megbízhatóbb kép szerezhető egy kitérő műszaki 
+állapotáról, és megalapozottabban rendelhetők el a fenntartási munkák vagy korlátozások. 
+A zárójelentés tervezetéhez küldött észrevételében az ITM Vasúti Közlekedési Hatóság az 
+ajánlással egyetértett, a MÁV Zrt. azt tudomásul vette azzal, hogy „Amennyiben a 
+
+## Página 34
