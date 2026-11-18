@@ -23,8 +23,10 @@ OUT_DIR = Path(__file__).resolve().parent.parent / "data" / "pdf-manifest"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # slug de país → código del proyecto
+# OJO: ERA_NO_ES_UNIFORME. Austria cuelga de /era-folder/investigations (sin prefijo)
+# y Serbia de /serbia-investigations; SK está literalmente roto en la web de ERA.
 SLUGS = {
-    "ES": "es-investigations", "AT": "at-investigations", "BE": "be-investigations",
+    "ES": "es-investigations", "AT": "investigations", "BE": "be-investigations",
     "BG": "bg-investigations", "CH": "ch-investigations", "CZ": "cz-investigations",
     "DE": "de-investigations", "DK": "dk-investigations", "EE": "ee-investigations",
     "EL": "el-investigations", "FI": "fi-investigations", "FR": "fr-investigations",
@@ -38,9 +40,25 @@ SLUGS = {
 
 
 def get(url: str) -> str:
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read().decode("utf-8", "replace")
+    """GET con reintentos: ERA responde 429 si se le machaca."""
+    for intento in range(6):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=45) as r:
+                return r.read().decode("utf-8", "replace")
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and intento < 9:
+                espera = 10 * (intento + 1)
+                print(f"    {e.code} → espero {espera}s ({url})")
+                time.sleep(espera)
+                continue
+            raise
+        except Exception:
+            if intento < 5:
+                time.sleep(2 * (intento + 1))
+                continue
+            raise
+    raise RuntimeError(url)
 
 
 def extraer_pdfs(html: str) -> list[dict]:
@@ -100,7 +118,11 @@ def main():
             print(f"País no soportado: {code}")
             continue
         print(f"[{code}] Scrapeando...")
-        registros = scrape_pais(code)
+        try:
+            registros = scrape_pais(code)
+        except Exception as e:
+            print(f"  ✗ {code}: {type(e).__name__} {e} — se sigue con el próximo")
+            continue
         dest = OUT_DIR / f"{code}.json"
         dest.write_text(json.dumps(registros, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"  ✓ {code}: {len(registros)} PDFs → {dest}")
