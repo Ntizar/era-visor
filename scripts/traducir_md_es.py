@@ -28,6 +28,7 @@ Uso:
     python scripts/traducir_md_es.py --pendientes LU PT   # solo lo que falte
 """
 import argparse
+import concurrent.futures as cf
 import datetime
 import hashlib
 import json
@@ -635,17 +636,24 @@ def main():
                 print(f'   {os.path.relpath(r, RAIZ)}  ({lo} -> {le})')
             if not (a.rehacer and lista):
                 continue
+            origenes = []
             for ruta_es, _, _ in lista:
                 fm, _c = partir_frontmatter(open(ruta_es, encoding='utf-8').read())
                 origen = os.path.join(RAIZ, fm.get('md_origen', '').replace('/', os.sep))
-                if not os.path.exists(origen):
-                    continue
-                try:
-                    res = procesar(origen, code, a.modelo, base, key, True)
-                    print(f"   rehecho {os.path.basename(ruta_es)} -> {res.get('estado')} "
-                          f"{res.get('chars', '')} chars", flush=True)
-                except Exception as e:
-                    print(f"   fallo {os.path.basename(ruta_es)}: {e}", flush=True)
+                if os.path.exists(origen):
+                    origenes.append((origen, ruta_es))
+            h = datetime.datetime.now().hour
+            n_hilos = a.workers_noche if 0 <= h < 6 else a.workers
+            with cf.ThreadPoolExecutor(max_workers=n_hilos) as ex:
+                futs = {ex.submit(procesar, o, code, a.modelo, base, key, True): r for o, r in origenes}
+                for fut in cf.as_completed(futs):
+                    nombre = os.path.basename(futs[fut])
+                    try:
+                        res = fut.result()
+                        print(f"   rehecho {nombre} -> {res.get('estado')} "
+                              f"{res.get('chars', '')} chars", flush=True)
+                    except Exception as e:
+                        print(f"   fallo {nombre}: {e}", flush=True)
         return
 
     if a.obsoletos:
