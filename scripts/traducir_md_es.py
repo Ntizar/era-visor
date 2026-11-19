@@ -604,7 +604,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("paises", nargs="+")
     ap.add_argument("--modelo", default=MODELO_DEF)
-    ap.add_argument("--workers", type=int, default=3,
+    ap.add_argument("--workers", type=int, default=5,
                     help="llamadas simultáneas de día")
     ap.add_argument("--workers-noche", type=int, default=6,
                     help="llamadas simultáneas de 00:00 a 06:00")

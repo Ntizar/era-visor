@@ -117,7 +117,7 @@ def una_pasada(paises):
         if sin_es:
             t0 = time.time()
             rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code,
-                              "--workers", "3", "--workers-noche", "6"])
+                              "--workers", "5", "--workers-noche", "6"])
             # las vacías/truncadas se rehacen siempre antes de dar el país por traducido
             corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--vacios", "--rehacer"])
             log(f"[{code}] traducción ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
@@ -132,7 +132,7 @@ def una_pasada(paises):
             t0 = time.time()
             h = datetime.datetime.now().hour
             rc, cola = corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code,
-                              "--workers", "6" if 0 <= h < 6 else "2", "--muestras", "6"])
+                              "--workers", "6" if 0 <= h < 6 else "5", "--muestras", "6"])
             log(f"[{code}] revisión ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
         sin_md, sin_es, sin_rev = pendientes(code)
         log(f"[{code}] {'CERRADO' if not (sin_md or sin_es or sin_rev) else 'queda algo'} "
