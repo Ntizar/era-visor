@@ -29,10 +29,13 @@ import time
 import urllib.error
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from traducir_md_es import pagina_bilingue, solo_idioma  # noqa: E402
+
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MD_ES = os.path.join(RAIZ, "md-es")
 REV = os.path.join(RAIZ, "data", "revision")
-MODELO_DEF = "deepseek-v4-pro"
+MODELO_DEF = "deepseek-v4-flash"
 UMBRAL = 85
 
 SISTEMA = """Eres revisor jefe de una base de datos de accidentes ferroviarios. Recibes dos
@@ -142,7 +145,11 @@ def revisar_uno(ruta, base, key, modelo, n_muestras):
             evaluaciones.append({"pagina": num, "fidelidad": 0, "veredicto": "revisar",
                                  "comentario": "página ausente en el castellano"})
             continue
-        user = (f"PÁGINA {num}\n\n=== ORIGINAL ===\n{txt_or[:6000]}\n\n"
+        # Si el original es bilingüe (PT+EN intercalados), al revisor se le pasa SOLO
+        # el idioma principal: si no, cuenta el duplicado como omisión de la traducción.
+        _princ = pagina_bilingue(txt_or)
+        txt_para_revisor = solo_idioma(txt_or, _princ) if _princ else txt_or
+        user = (f"PÁGINA {num}\n\n=== ORIGINAL ===\n{txt_para_revisor[:6000]}\n\n"
                 f"=== TRADUCCIÓN (castellano) ===\n{txt_es[:6000]}")
         ev = None
         for intento in range(3):

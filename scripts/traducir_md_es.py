@@ -45,7 +45,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MD = os.path.join(RAIZ, "md")
 MD_ES = os.path.join(RAIZ, "md-es")
 ESTADO = os.path.join(RAIZ, "data", "traduccion")
-MODELO_DEF = "qwen3.8-flash"
+MODELO_DEF = "qwen3.6"
 
 # Reutiliza el detector de idioma del conversor (mismas listas de palabras función).
 from convertir_md_pais import _STOP  # noqa: E402

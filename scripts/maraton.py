@@ -80,7 +80,9 @@ def pendientes(code):
             revisados = len(json.load(open(f_rev, encoding="utf-8")))
         except Exception:
             revisados = 0
-    sin_rev = max(0, n_es - revisados)
+    # el contrato pide revisar el 12 % de cada país, no el 100 %
+    objetivo_rev = max(3, int(0.10 * n_es + 0.5))
+    sin_rev = max(0, objetivo_rev - revisados)
     return sin_md, sin_es, sin_rev
 
 
@@ -117,7 +119,7 @@ def una_pasada(paises):
         if sin_es:
             t0 = time.time()
             rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code,
-                              "--workers", "5", "--workers-noche", "6"])
+                              "--workers", "2", "--workers-noche", "3"])
             # las vacías/truncadas se rehacen siempre antes de dar el país por traducido
             corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--vacios", "--rehacer"])
             log(f"[{code}] traducción ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
@@ -133,13 +135,13 @@ def una_pasada(paises):
         n_es = len(recorrido(os.path.join(MD_ES, code))) if os.path.isdir(os.path.join(MD_ES, code)) else 0
         f_rev = os.path.join(REV, f"{code}.json")
         hechos_rev = len(json.load(open(f_rev, encoding="utf-8"))) if os.path.exists(f_rev) else 0
-        objetivo_rev = max(3, int(0.12 * n_es + 0.5))
+        objetivo_rev = max(3, int(0.10 * n_es + 0.5))
         faltan_rev = max(0, objetivo_rev - hechos_rev)
         if faltan_rev:
             t0 = time.time()
             h = datetime.datetime.now().hour
             rc, cola = corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code,
-                              "--workers", "6" if 0 <= h < 6 else "5",
+                              "--workers", "3" if 0 <= h < 6 else "2",
                               "--muestras", "6", "--solo-nuevos", "--limite", str(faltan_rev)])
             log(f"[{code}] revisión {faltan_rev}/{objetivo_rev} ({int((time.time()-t0)/60)} min, rc {rc}): "
                 + " | ".join(cola))
@@ -154,7 +156,7 @@ def una_pasada(paises):
             log(f"[{code}] calidad baja ({media}) → reparación y re-revisión")
             corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--reparar"])
             corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code, "--workers",
-                   "6" if 0 <= datetime.datetime.now().hour < 6 else "5",
+                   "3" if 0 <= datetime.datetime.now().hour < 6 else "2",
                    "--muestras", "6", "--marcados"])
         sin_md, sin_es, sin_rev = pendientes(code)
         log(f"[{code}] {'CERRADO' if not (sin_md or sin_es or sin_rev) else 'queda algo'} "
