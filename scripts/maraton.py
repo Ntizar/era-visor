@@ -112,9 +112,15 @@ def una_pasada(paises):
         if sin_es:
             t0 = time.time()
             rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code,
-                              "--workers", "2", "--workers-noche", "6"])
+                              "--workers", "3", "--workers-noche", "6"])
             log(f"[{code}] traducción ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
             sin_md, sin_es, sin_rev = pendientes(code)
+        if sin_es == 0:
+            # repaso de calidad: re-traduce SÓLO las páginas marcadas (si hay)
+            t0 = time.time()
+            rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--reparar"])
+            if "REPARADOS 0" not in " ".join(cola):
+                log(f"[{code}] reparación ({int((time.time()-t0)/60)} min): " + " | ".join(cola))
         if sin_rev:
             t0 = time.time()
             h = datetime.datetime.now().hour

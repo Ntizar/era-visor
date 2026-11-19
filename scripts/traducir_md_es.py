@@ -45,9 +45,14 @@ MD = os.path.join(RAIZ, "md")
 MD_ES = os.path.join(RAIZ, "md-es")
 ESTADO = os.path.join(RAIZ, "data", "traduccion")
 MODELO_DEF = "qwen3.8-flash"
+
+# Reutiliza el detector de idioma del conversor (mismas listas de palabras función).
+from convertir_md_pais import _STOP  # noqa: E402
 BLOQUE = 7000          # caracteres por llamada
 RATIO_MIN, RATIO_MAX = 0.75, 1.60
 TOL_NUMEROS = 0.02
+
+NL = chr(10)
 
 SECCIONES = [
     "Resumen", "Hechos", "Consecuencias", "Cronología", "Infraestructura",
@@ -209,7 +214,67 @@ def traducir_bloque(base, key, modelo, bloque, idioma, correctivo=""):
                   max_tokens=min(16000, max(2000, len(bloque) * 2)))
 
 
+def idioma_linea(linea):
+    """Idioma probable de una línea por palabras función (None si no hay señal)."""
+    palabras = re.findall(r"[^\W\d_]+", linea.lower())
+    if len(palabras) < 4:
+        return None
+    mejor, puntos = None, 0
+    for code, pal in _STOP.items():
+        n = sum(1 for p in palabras if p in pal)
+        if n > puntos:
+            mejor, puntos = code, n
+    return mejor if puntos >= 2 else None
+
+
+def pagina_bilingue(texto):
+    """¿La página mezcla dos idiomas (PDF bilingüe intercalado línea a línea)?
+
+    Los informes portugueses (y algunos checos) publican portugués e inglés
+    entrelazados en el PDF, de modo que la extracción trae el mismo contenido DOS
+    veces. La traducción correcta colapsa el duplicado y sale a la mitad de
+    caracteres: sin detectarlo, el verificador lo leía como pérdida masiva.
+    """
+    cuenta, chars = {}, {}
+    for linea in texto.splitlines():
+        l = idioma_linea(linea)
+        if l:
+            cuenta[l] = cuenta.get(l, 0) + 1
+            chars[l] = chars.get(l, 0) + len(linea)
+    if len(cuenta) < 2:
+        return None
+    total = sum(cuenta.values())
+    principales = [c for c, n in cuenta.items() if n / total >= 0.25]
+    if len(principales) < 2:
+        return None
+    return max(principales, key=lambda c: chars[c])
+
+
+def solo_idioma(texto, code):
+    """Líneas de la página que pertenecen al idioma principal."""
+    out = []
+    for linea in texto.splitlines():
+        l = idioma_linea(linea)
+        if l is None or l == code:
+            out.append(linea)
+    return NL.join(out)
+
+
 def verificar(orig, trad):
+    """Verifica una página; si falla y el original es bilingüe (PT+EN
+    intercalados del mismo contenido), repite contra el idioma principal.
+    """
+    fallos, avisos = _verificar_base(orig, trad)
+    if fallos:
+        principal = pagina_bilingue(orig)
+        if principal:
+            f2, a2 = _verificar_base(solo_idioma(orig, principal), trad)
+            if len(f2) < len(fallos):
+                return f2, a2 + ["original bilingüe: comparado contra el idioma principal (" + principal + ")"]
+    return fallos, avisos
+
+
+def _verificar_base(orig, trad):
     """Dos niveles, porque no todas las cifras pesan igual.
 
     · DURAS (>=3 dígitos: fechas, PK, importes, referencias, velocidades): deben
@@ -221,6 +286,11 @@ def verificar(orig, trad):
     revisión IA del informe; aquí se garantiza que no DESAPAREZCA contenido.
     """
     fallos, avisos = [], []
+    principal = pagina_bilingue(orig)
+    if principal:
+        orig = solo_idioma(orig, principal)
+        avisos.append(f"original bilingüe: se compara contra el idioma principal ({principal})")
+
     if marcas(orig) != marcas(trad):
         fallos.append(f"marcadores de página: {sum(marcas(orig).values())} vs {sum(marcas(trad).values())}")
 
@@ -380,11 +450,160 @@ def reverificar(code, refuerza=False):
     print(f"[{code}] reverificados {n_ok + n_rev} · ok {n_ok} · revisar {n_rev}")
 
 
+def vacios(code, umbral=0.3):
+    """Traducciones vacías o truncadas: el castellano es menos del 30% del original.
+
+    Pasa cuando el md se tradujo estando aún sin texto (PDF escaneado antes del OCR)
+    o cuando la respuesta del modelo se cortó. Se comparan longitudes de cuerpo, no
+    frontmatter, para no confundirlo con un simple cambio de fecha.
+    """
+    salida = []
+    raiz = os.path.join(MD_ES, code)
+    if not os.path.isdir(raiz):
+        return salida
+    for dp, _, fs in os.walk(raiz):
+        for f in sorted(fs):
+            if not f.endswith('.md') or f.lower().startswith(('indice', 'índice', 'leeme', 'readme')):
+                continue
+            ruta_es = os.path.join(dp, f)
+            fm, cuerpo_es = partir_frontmatter(open(ruta_es, encoding='utf-8').read())
+            origen = fm.get('md_origen', '')
+            ruta_or = os.path.join(RAIZ, origen.replace('/', os.sep))
+            if not origen or not os.path.exists(ruta_or):
+                continue
+            _, cuerpo_or = partir_frontmatter(open(ruta_or, encoding='utf-8').read())
+            if len(cuerpo_or.strip()) < 800:
+                continue                      # el original tampoco tiene texto (escaneado)
+            if len(cuerpo_es.strip()) < umbral * len(cuerpo_or.strip()):
+                salida.append((ruta_es, len(cuerpo_or), len(cuerpo_es)))
+    return salida
+
+
+def obsoletos(code):
+    """md-es cuyo origen ha cambiado (md regenerado tras OCR, por ejemplo).
+
+    Cada md-es guarda el md5 del md del que se tradujo. Si el md se ha vuelto a
+    generar (OCR de un escaneado, reconversión), esa traducción ya no representa al
+    original y hay que rehacerla: aquí se detecta comparando los md5.
+    """
+    salida = []
+    raiz = os.path.join(MD_ES, code)
+    if not os.path.isdir(raiz):
+        return salida
+    for dp, _, fs in os.walk(raiz):
+        for f in sorted(fs):
+            if not f.endswith('.md') or f.lower().startswith(('indice', 'índice', 'leeme', 'readme')):
+                continue
+            ruta = os.path.join(dp, f)
+            fm, _ = partir_frontmatter(open(ruta, encoding='utf-8').read())
+            origen = fm.get('md_origen', '')
+            ruta_or = os.path.join(RAIZ, origen.replace('/', os.sep))
+            if not origen or not os.path.exists(ruta_or):
+                continue
+            actual = hashlib.md5(open(ruta_or, encoding='utf-8').read().encode()).hexdigest()
+            if fm.get('md5_origen') != actual:
+                salida.append(ruta)
+    return salida
+
+
+def reparar(code, modelo, base, key, max_paginas=40):
+    """Re-traduce SÓLO las páginas que fallan en los md-es ya escritos.
+
+    Sirve para los informes que quedaron `verificacion: revisar`: en vez de rehacer el
+    informe entero (caro y lento), se detectan las páginas con pérdida de cifras o con
+    marcador roto y se piden otra vez, con instrucción correctiva. Después se recalcula
+    el veredicto. Devuelve (reparados, paginas_reparadas).
+    """
+    raiz = os.path.join(MD_ES, code)
+    if not os.path.isdir(raiz):
+        return 0, 0
+    n_docs = n_pags = 0
+    for dp, _, fs in os.walk(raiz):
+        for f in sorted(fs):
+            if not f.endswith(".md") or f.lower().startswith(("indice", "índice", "leeme", "readme")):
+                continue
+            ruta = os.path.join(dp, f)
+            texto = open(ruta, encoding="utf-8").read()
+            fm, cuerpo = partir_frontmatter(texto)
+            if fm.get("verificacion") == "ok" or fm.get("texto") == "ocr":
+                continue
+            origen = fm.get("md_origen", "")
+            ruta_or = os.path.join(RAIZ, origen.replace("/", os.sep))
+            if not origen or not os.path.exists(ruta_or):
+                continue
+            _, cuerpo_or = partir_frontmatter(open(ruta_or, encoding="utf-8").read())
+            p_or, p_es = paginas(cuerpo_or), paginas(cuerpo)
+            malas = []
+            for k in sorted(set(p_or) & set(p_es), key=int):
+                fallos, _ = verificar(p_or[k], p_es[k])
+                if fallos:
+                    malas.append(k)
+            for k in [k for k in p_or if k not in p_es]:
+                p_es[k] = ""
+                malas.append(k)
+            if not malas:
+                # los avisos no se reparan (son ruido tipográfico): se marca ok
+                p_es = p_es
+                nuevo = _reconstruir(texto, p_es, fm, "ok", [])
+                open(ruta, "w", encoding="utf-8").write(nuevo)
+                continue
+            for k in malas[:max_paginas]:
+                bloque = f"## Página {k}\n\n{p_or[k]}"
+                trad, _ = traducir_bloque(base, key, modelo, bloque, fm.get("idioma_origen", ""))
+                # se quita el marcador que devuelve el modelo (lo pone el ensamblador)
+                lineas = [l for l in trad.strip().splitlines() if not re.match(r"(?m)^## Página \d+\s*$", l)]
+                p_es[k] = "\n".join(lineas).strip()
+                fallos, _ = verificar(p_or[k], p_es[k])
+                if fallos:
+                    trad2, _ = traducir_bloque(
+                        base, key, modelo, bloque, fm.get("idioma_origen", ""),
+                        correctivo=("CORRECCIÓN OBLIGATORIA: falló " + "; ".join(fallos)
+                                    + ". Traduce el fragmento completo, sin omitir ninguna "
+                                      "línea, tabla ni cifra."))
+                    lineas = [l for l in trad2.strip().splitlines()
+                              if not re.match(r"(?m)^## Página \d+\s*$", l)]
+                    cand = "\n".join(lineas).strip()
+                    fallos2, _ = verificar(p_or[k], cand)
+                    if len(fallos2) <= len(fallos):
+                        p_es[k] = cand
+                n_pags += 1
+            # veredicto final del informe
+            avisos = []
+            for k in sorted(set(p_or) & set(p_es), key=int):
+                fallos, _ = verificar(p_or[k], p_es[k])
+                if fallos:
+                    avisos.append(f"página {k}: " + "; ".join(fallos))
+            nuevo = _reconstruir(texto, p_es, fm, "ok" if not avisos else "revisar", avisos)
+            open(ruta, "w", encoding="utf-8").write(nuevo)
+            n_docs += 1
+            print(f"  reparado {f} · {len(malas)} pág · "
+                  f"{'ok' if not avisos else str(len(avisos)) + ' siguen mal'}", flush=True)
+    print(f"[{code}] REPARADOS {n_docs} informes · {n_pags} páginas re-traducidas")
+    return n_docs, n_pags
+
+
+def _reconstruir(texto, p_es, fm, veredicto, avisos):
+    """Rehace el fichero md-es con las páginas nuevas y el veredicto recalculado."""
+    nuevas = []
+    for k, v in fm.items():
+        if k in ('verificacion', 'avisos', 'notas_cifras'):
+            continue
+        nuevas.append(f"{k}: {v}")
+    nuevas.append(f"verificacion: {veredicto}")
+    if avisos:
+        nuevas.append("avisos: " + json.dumps(avisos[:6], ensure_ascii=False))
+    cuerpo = []
+    for k in sorted(p_es, key=int):
+        cuerpo += [f"## Página {k}", "", p_es[k].rstrip(), ""]
+    return ("---" + NL + NL.join(nuevas) + NL + "---" + NL + NL
+            + NL.join(cuerpo).rstrip() + NL)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("paises", nargs="+")
     ap.add_argument("--modelo", default=MODELO_DEF)
-    ap.add_argument("--workers", type=int, default=2,
+    ap.add_argument("--workers", type=int, default=3,
                     help="llamadas simultáneas de día")
     ap.add_argument("--workers-noche", type=int, default=6,
                     help="llamadas simultáneas de 00:00 a 06:00")
@@ -392,11 +611,55 @@ def main():
     ap.add_argument("--refuerza", action="store_true")
     ap.add_argument("--reverificar", action="store_true",
                     help="solo re-verifica los md-es existentes (no llama al modelo)")
+    ap.add_argument("--rehacer", action="store_true",
+                    help="con --vacios: vuelve a traducir los detectados")
+    ap.add_argument("--vacios", action="store_true",
+                    help="rehace las traducciones vacías o truncadas")
+    ap.add_argument("--obsoletos", action="store_true",
+                    help="solo lista/las rehace si su md de origen ha cambiado")
+    ap.add_argument("--reparar", action="store_true",
+                    help="re-traduce solo las páginas que fallan en los md-es marcados")
     a = ap.parse_args()
 
     if a.reverificar:
         for code in [c.upper() for c in a.paises]:
             reverificar(code)
+        return
+
+    if a.vacios:
+        base, key = cargar_api() if a.rehacer else (None, None)
+        for code in [c.upper() for c in a.paises]:
+            lista = vacios(code)
+            print(f'[{code}] vacios: {len(lista)}')
+            for r, lo, le in lista[:10]:
+                print(f'   {os.path.relpath(r, RAIZ)}  ({lo} -> {le})')
+            if not (a.rehacer and lista):
+                continue
+            for ruta_es, _, _ in lista:
+                fm, _c = partir_frontmatter(open(ruta_es, encoding='utf-8').read())
+                origen = os.path.join(RAIZ, fm.get('md_origen', '').replace('/', os.sep))
+                if not os.path.exists(origen):
+                    continue
+                try:
+                    res = procesar(origen, code, a.modelo, base, key, True)
+                    print(f"   rehecho {os.path.basename(ruta_es)} -> {res.get('estado')} "
+                          f"{res.get('chars', '')} chars", flush=True)
+                except Exception as e:
+                    print(f"   fallo {os.path.basename(ruta_es)}: {e}", flush=True)
+        return
+
+    if a.obsoletos:
+        for code in [c.upper() for c in a.paises]:
+            lista = obsoletos(code)
+            print(f'[{code}] obsoletos: {len(lista)}')
+            for r in lista[:20]:
+                print('   ' + os.path.relpath(r, RAIZ).replace(chr(92), '/'))
+        return
+
+    if a.reparar:
+        base, key = cargar_api()
+        for code in [c.upper() for c in a.paises]:
+            reparar(code, a.modelo, base, key)
         return
 
     base, key = cargar_api()
