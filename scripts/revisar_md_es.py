@@ -206,6 +206,10 @@ def main():
     ap.add_argument("--muestras", type=int, default=6)
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--limite", type=int, default=0)
+    ap.add_argument("--marcados", action="store_true",
+                    help="re-revisa solo los informes que no están ok")
+    ap.add_argument("--solo-nuevos", action="store_true",
+                    help="no re-revisa los informes que ya están en data/revision")
     a = ap.parse_args()
     base, key = cargar_api()
     os.makedirs(REV, exist_ok=True)
@@ -218,6 +222,15 @@ def main():
         ficheros = sorted(os.path.join(dp, f) for dp, _, fs in os.walk(raiz)
                           for f in fs if f.endswith(".md")
                           and not f.lower().startswith(("indice", "índice", "readme", "leeme")))
+        salida = os.path.join(REV, f"{code}.json")
+        previos = json.load(open(salida, encoding="utf-8")) if os.path.exists(salida) else {}
+        if a.marcados:
+            ficheros = [f for f in ficheros
+                        if previos.get(os.path.relpath(f, RAIZ).replace(chr(92), "/"),
+                                       {}).get("estado") not in (None, "ok")]
+        if a.solo_nuevos:
+            ficheros = [f for f in ficheros
+                        if os.path.relpath(f, RAIZ).replace(chr(92), "/") not in previos]
         if a.limite:
             ficheros = ficheros[:a.limite]
         print(f"[{code}] revisando {len(ficheros)} informes · {a.muestras} muestras · {a.modelo}")
@@ -236,7 +249,6 @@ def main():
                 if r["estado"] != "ok":
                     print(f"  [{k}/{len(ficheros)}] {r['estado']:7s} {os.path.basename(f)} "
                           f"· fidelidad {r.get('fidelidad_media','-')} · {r.get('motivo','')[:80]}")
-        salida = os.path.join(REV, f"{code}.json")
         json.dump(res, open(salida, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         ok = sum(1 for r in res.values() if r["estado"] == "ok")
         av = sum(1 for r in res.values() if r["estado"] == "aviso")

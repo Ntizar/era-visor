@@ -128,12 +128,34 @@ def una_pasada(paises):
             rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--reparar"])
             if "REPARADOS 0" not in " ".join(cola):
                 log(f"[{code}] reparación ({int((time.time()-t0)/60)} min): " + " | ".join(cola))
-        if sin_rev:
+        # Revisión IA: objetivo del 12 % del país (el contrato pide >= 10 % global),
+        # sin repetir lo ya revisado.
+        n_es = len(recorrido(os.path.join(MD_ES, code))) if os.path.isdir(os.path.join(MD_ES, code)) else 0
+        f_rev = os.path.join(REV, f"{code}.json")
+        hechos_rev = len(json.load(open(f_rev, encoding="utf-8"))) if os.path.exists(f_rev) else 0
+        objetivo_rev = max(3, int(0.12 * n_es + 0.5))
+        faltan_rev = max(0, objetivo_rev - hechos_rev)
+        if faltan_rev:
             t0 = time.time()
             h = datetime.datetime.now().hour
             rc, cola = corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code,
-                              "--workers", "6" if 0 <= h < 6 else "5", "--muestras", "6"])
-            log(f"[{code}] revisión ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
+                              "--workers", "6" if 0 <= h < 6 else "5",
+                              "--muestras", "6", "--solo-nuevos", "--limite", str(faltan_rev)])
+            log(f"[{code}] revisión {faltan_rev}/{objetivo_rev} ({int((time.time()-t0)/60)} min, rc {rc}): "
+                + " | ".join(cola))
+
+        # Puerta de calidad: si el país baja de 92 de fidelidad media, se repara página a
+        # página y se vuelven a revisar los marcados (da igual que ya estuvieran revisados).
+        d = json.load(open(f_rev, encoding="utf-8")) if os.path.exists(f_rev) else {}
+        medias = [v["fidelidad_media"] for v in d.values()
+                  if isinstance(v.get("fidelidad_media"), (int, float))]
+        media = round(sum(medias) / len(medias), 1) if medias else None
+        if media is not None and media < 92:
+            log(f"[{code}] calidad baja ({media}) → reparación y re-revisión")
+            corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--reparar"])
+            corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code, "--workers",
+                   "6" if 0 <= datetime.datetime.now().hour < 6 else "5",
+                   "--muestras", "6", "--marcados"])
         sin_md, sin_es, sin_rev = pendientes(code)
         log(f"[{code}] {'CERRADO' if not (sin_md or sin_es or sin_rev) else 'queda algo'} "
             f"({sin_md}/{sin_es}/{sin_rev})")
