@@ -1,0 +1,28 @@
+{
+ "md/PL/2007/Poledno-cz1-15112007.md": {
+  "md": "md/PL/2007/Poledno-cz1-15112007.md",
+  "pdf": "pdfs/PL/Poledno-cz1-15112007.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "pol",
+  "paginas": 5,
+  "paginas_vacias": 0,
+  "confianza_media": -1.0,
+  "confianza_min": -1.0,
+  "chars": 10334,
+  "md5_pdf": "02af266355361d809711445f9d16cb5b",
+  "fecha": "2026-11-19"
+ },
+ "md/PL/2007/Poledno-cz2-15112007.md": {
+  "md": "md/PL/2007/Poledno-cz2-15112007.md",
+  "pdf": "pdfs/PL/Poledno-cz2-15112007.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "pol",
+  "paginas": 5,
+  "paginas_vacias": 0,
+  "confianza_media": 92.4,
+  "confianza_min": 88.0,
+  "chars": 15160,
+  "md5_pdf": "7e1d48ec6f6049b31be3160937511c1a",
+  "fecha": "2026-11-19"
+ }
+}

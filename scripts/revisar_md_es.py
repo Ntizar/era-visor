@@ -241,7 +241,8 @@ def main():
         ok = sum(1 for r in res.values() if r["estado"] == "ok")
         av = sum(1 for r in res.values() if r["estado"] == "aviso")
         mal = len(res) - ok - av
-        medias = [r["fidelidad_media"] for r in res.values() if "fidelidad_media" in r]
+        medias = [r["fidelidad_media"] for r in res.values()
+                  if isinstance(r.get("fidelidad_media"), (int, float))]
         print(f"[{code}] REVISADOS {len(res)} · ok {ok} · aviso {av} · revisar {mal} · "
               f"fidelidad media {round(sum(medias)/len(medias),1) if medias else '-'} → {salida}")
 
