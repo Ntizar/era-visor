@@ -1,0 +1,1235 @@
+{
+ "md-es/IE/2008/Final XN066 Bridgetown-021208.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   6,
+   10,
+   14,
+   17,
+   21
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2008/Final XN066 Bridgetown-021208.md"
+ },
+ "md-es/IE/2007/Investigation_280607.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 82.5,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 22,
+    "fidelidad": 0,
+    "omisiones": [
+     "Todo el contenido de la página 22 no fue traducido al castellano; se mantuvo íntegramente en inglés."
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es una copia exacta del original en inglés, sin ninguna traducción al castellano."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2007/Investigation_280607.md"
+ },
+ "md-es/IE/2008/Final_Ballymurray_Report-140608.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   12,
+   15
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'Track Circuit Block' como 'Bloqueo por Circuitos de Vía' en lugar de 'Bloqueo de Circuito de Vía'",
+   "Traducción de 'Signalman' como 'Agente de Control de Señales' en lugar de 'Guardavía' o 'Encargado de Señales'",
+   "Traducción de 'near miss' como 'cuasi accidente' en lugar de 'casi accidente' o 'incidente sin lesiones'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2008/Final_Ballymurray_Report-140608.md"
+ },
+ "md-es/IE/2008/Report Skerries derailment-100108.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   5,
+   9,
+   12,
+   16,
+   19
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "trailing bogie traducido como 'bogie remolcado' en lugar de 'bogie trasero'",
+   "right trailing side bearer traducido como 'soporte lateral derecho trasero' en lugar de 'soporte lateral trasero derecho'",
+   "brake hanger bracket traducido como 'soporte del freno' en lugar de 'soporte del colgador de freno'",
+   "truss bar traducido como 'barra de celosía' en lugar de 'barra de armadura'",
+   "brake linkage traducido como 'mecanismo de transmisión de frenos' en lugar de 'varillaje de freno'",
+   "five foot traducido como 'espacio de cinco pies' en lugar de 'entrevía'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2008/Report Skerries derailment-100108.md"
+ },
+ "md-es/IE/2008/Report XX032-280208.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   6,
+   11,
+   16,
+   20,
+   25
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'gates' como 'barreras' en lugar de 'puertas' o 'barreras/puertas' según contexto; en pasos a nivel de tipo user worked, 'gates' suele referirse a 'puertas' o 'barreras' manuales, pero la inconsistencia con 'Keep These Gates Shut' (mantenida en inglés) puede confundir.",
+   "Traducción de 'user worked crossings' como 'pasos a nivel gestionados por el usuario' es aceptable, pero 'pasos a nivel de uso privado' o 'pasos a nivel operados por el usuario' podría ser más normalizado.",
+   "Whistle board traducido como 'tablero de silbato' en lugar de 'tablero de silbato' o 'señal de silbato' (término no normalizado)",
+   "Track Circuit Block traducido como 'Bloqueo por Circuitos de Vía' en lugar de 'Bloqueo de Circuito de Vía'",
+   "Signalman traducido como 'Guardagujas' en lugar de 'Señalero' o 'Agente de circulación'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2008/Report XX032-280208.md"
+ },
+ "md-es/IE/2008/Report XN125 Cappadine-310708.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   6,
+   9,
+   12,
+   15,
+   19
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Falta de conocimiento del sobresaliente de los trenes más allá de la vía (traducción poco natural de 'overhang'; podría ser 'gálibo' o 'voladizo')",
+   "tableros de silbato (whistleboards) - término no normalizado; en español ferroviario se usa 'silbatos' o 'tableros de silbato', pero la inclusión del original entre paréntesis es aceptable"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2008/Report XN125 Cappadine-310708.md"
+ },
+ "md-es/IE/2009/Derailment Limerick 030709.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   6,
+   9,
+   12,
+   15,
+   18
+  ],
+  "fidelidad_media": 94.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Máquinas Sobre Vía (MSV) no es la sigla normalizada para On Track Machines (OTMs); se suele usar 'Máquinas de Vía' o 'Maquinaria de Vía'.",
+   "'máquina compactadora' para 'tamping machine' es impreciso; el término ferroviario normalizado es 'bateadora' o 'niveladora-alineadora-bateadora'.",
+   "'vías apartadero' para 'Sidings' es redundante; 'apartadero' o 'vías de apartado' es más correcto.",
+   "Traducción incorrecta de 'jointed track' como 'vía soldada' (debería ser 'vía con juntas')",
+   "Traducción incorrecta de 'left switch' como 'barra móvil izquierda' (debería ser 'aguja izquierda')",
+   "wheelsets traducido como 'ejes' en lugar de 'juegos de ruedas' o 'ejes montados'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2009/Derailment Limerick 030709.md"
+ },
+ "md-es/IE/2009/Ferns Lock level crossing 2010R005-020909.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   7,
+   10,
+   13,
+   16,
+   19
+  ],
+  "fidelidad_media": 85.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "Paso a Nivel con Barreras Automáticas de Media Barrera (AHB) de Ferns: la traducción expande 'Ferns Lock Automatic Half Barrier' a 'Paso a Nivel con Barreras Automáticas de Media Barrera (AHB) de Ferns', omitiendo 'Lock' (esclusa/cerradura) y añadiendo 'Paso a Nivel' que no está en el original.",
+   "Agentes de circulación: 'Signalmen' se traduce como 'Agentes de circulación', término aceptable pero no literal; no es un error grave.",
+   "Alimentación eléctrica: 'Power' se traduce como 'Alimentación eléctrica', que es una interpretación válida pero no literal ('Energía' o 'Potencia')."
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 55,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Signalman traducido como 'Jefe de Estación' en lugar de 'Guardavía' o 'Señalero'",
+     "Emergency Operator traducido como 'Operador de Emergencias' en lugar de 'Operador de Emergencia'",
+     "fringe signal box traducido como 'caseta de señales perimetral' en lugar de 'enclavamiento periférico' o 'puesto de señales periférico'"
+    ],
+    "comentario": "La traducción es completa y no altera cifras, pero emplea términos técnicos ferroviarios incorrectos para 'Signalman' y 'fringe signal box'."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 70,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Traducción incorrecta de 'Signalman A' como 'Agujero A' (debería ser 'Señalero A' o 'Agente de circulación A')",
+     "Traducción incorrecta de 'Signalman B' como 'Agujero B' (debería ser 'Señalero B' o 'Agente de circulación B')",
+     "Traducción incorrecta de 'Maynooth Signalman' como 'Agujero de Maynooth' (debería ser 'Señalero de Maynooth' o 'Agente de circulación de Maynooth')"
+    ],
+    "comentario": "La traducción contiene un error terminológico grave y sistemático al traducir 'Signalman' como 'Agujero', lo que afecta a la fidelidad y comprensión del texto."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2009/Ferns Lock level crossing 2010R005-020909.md"
+ },
+ "md-es/IE/2009/Malahide Viaduct Collapse on the Dublin to Belfast Line-210809.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   24,
+   45,
+   66,
+   89,
+   112
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Pilón en lugar de Pila (Pier)",
+   "selección por viento en lugar de lavado/arrastre de finos (winnowing)",
+   "inyectadas con lechada en lugar de cementadas/inyectadas (grouted)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2009/Malahide Viaduct Collapse on the Dublin to Belfast Line-210809.md"
+ },
+ "md-es/IE/2009/Report Waterford Station-290309.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   6,
+   10,
+   14,
+   17,
+   21
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2009/Report Waterford Station-290309.md"
+ },
+ "md-es/IE/2009/Wicklow2010R006-161109.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   8,
+   13,
+   18,
+   23,
+   28
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2009/Wicklow2010R006-161109.md"
+ },
+ "md-es/IE/2010/101209_Laois-Traincare-Depot-Derailment-2011-R001-200110.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   6,
+   9,
+   12,
+   15,
+   20
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "No 1 points traducido como 'Cambios de aguja n.º 1' en lugar de 'Agujas n.º 1'",
+   "No 863B trap points traducido como 'Cambios de aguja de travesaño n.º 863B' en lugar de 'Agujas de escape n.º 863B'",
+   "Siding traducido como 'vía muerta' en lugar de 'apartadero'",
+   "Fish bolts traducido como 'pasadores de junta' en lugar de 'tornillos de brida' o 'pernos de eclisa'",
+   "Fish plate traducido como 'placa de junta' en lugar de 'eclisa'",
+   "Gangway traducido como 'paso entre coches' en lugar de 'fuelle de intercomunicación'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2010/101209_Laois-Traincare-Depot-Derailment-2011-R001-200110.md"
+ },
+ "md-es/IE/2010/110330_Suspension_failure_R2011_002-070510.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   7,
+   12,
+   19,
+   24,
+   29
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "works arising sheet traducido como 'hoja de trabajos surgidos' (mejor 'hoja de trabajos realizados' u 'hoja de trabajos pendientes')",
+   "component refitting sheets traducido como 'hojas de reinstalación de componentes' (mejor 'hojas de recolocación de componentes')",
+   "set traducido como 'serie' (en contexto ferroviario irlandés, 'set' se refiere a una unidad o composición, no a una serie)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2010/110330_Suspension_failure_R2011_002-070510.md"
+ },
+ "md-es/IE/2010/110717_RAIU_Investigation_Report_Final_2011_R005-270610.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   8,
+   13,
+   20,
+   25,
+   31
+  ],
+  "fidelidad_media": 90.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "LC traducido como PN (paso a nivel) sin indicar la sigla original",
+   "controlling signalman traducido como 'agente de control' en lugar de 'guardavía' o 'agente de circulación'"
+  ],
+  "fallos": [
+   {
+    "pagina": 25,
+    "fidelidad": 55,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Agujero de Comprobación de Limerick (traducción literal incorrecta de 'Limerick Check Signalman'; debería ser 'Guardavía de Comprobación de Limerick' o 'Señalero de Comprobación de Limerick')",
+     "Agujero de Línea de Galway (traducción literal incorrecta de 'Galway Line Signalman'; debería ser 'Guardavía de Línea de Galway' o 'Señalero de Línea de Galway')",
+     "agujero (traducción literal incorrecta de 'signalman'; debería ser 'guardavía' o 'señalero')"
+    ],
+    "comentario": "La traducción contiene errores terminológicos graves al traducir 'signalman' como 'agujero', lo que distorsiona completamente el sentido del texto."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2010/110717_RAIU_Investigation_Report_Final_2011_R005-270610.md"
+ },
+ "md-es/IE/2010/2011R004Rev1_Buttevant-020710.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   7,
+   12,
+   17,
+   21,
+   26
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2010/2011R004Rev1_Buttevant-020710.md"
+ },
+ "md-es/IE/2010/111004_RAIU_Investigation_Report_2011-R006-020910.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   9,
+   15,
+   22,
+   29,
+   35
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "«Cruces a nivel con accommodation» es una traducción incorrecta de 'Accommodation level crossings'; debería ser «Cruces a nivel para acomodación» o «Paso a nivel de tipo accommodation»",
+   "'lado ascendente' para 'Up side' es una traducción literal; en terminología ferroviaria debería ser 'lado de subida' o 'lado Up'",
+   "approach traducido como 'enfoque' en lugar de 'aproximación'",
+   "Down side traducido como 'lado descendente' en lugar de 'lado de bajada' o 'lado Down'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2010/111004_RAIU_Investigation_Report_2011-R006-020910.md"
+ },
+ "md-es/IE/2010/2011R007_LC-XM250-241010.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   7,
+   12,
+   17,
+   21,
+   26
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "whistle board traducido como 'tablero de silbatos' en lugar de 'tablero de silbato' o 'señal de silbato'",
+   "Down direction traducido como 'dirección Descendente' en lugar de 'dirección Down' o 'vía descendente'",
+   "Up side traducido como 'lado Ascendente' en lugar de 'lado Up' o 'lado ascendente'",
+   "gate stops traducido como 'topes de barrera' en lugar de 'topes de puerta'",
+   "line side vegetation control works traducido como 'trabajos de control de vegetación en el borde de la vía' en lugar de 'trabajos de control de vegetación en la línea'",
+   "flood surveys traducido como 'estudios hidrológicos' en lugar de 'estudios de inundabilidad'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2010/2011R007_LC-XM250-241010.md"
+ },
+ "md-es/IE/2011/120926_RAIU_Investigation_report-181011.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   16,
+   22,
+   29,
+   35
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'signalmen' como 'jefes de estación' en lugar de 'agentes de circulación' o 'responsables de enclavamiento'",
+   "Traducción de 'Train Guard' como 'Jefe de Tren' en lugar de 'Agente de acompañamiento' o 'Interventor'",
+   "La reacondicionamiento de rodamientos (debería ser 'El reacondicionamiento')",
+   "se identificó picadura en la copa (mejor 'en la pista exterior' o 'en la copa del rodamiento')",
+   "Agujero de Suburbios"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2011/120926_RAIU_Investigation_report-181011.md"
+ },
+ "md-es/IE/2011/2012R001_Car_Strike_at_LCXG173-140211.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   3,
+   7,
+   11,
+   16,
+   20,
+   24
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2011/2012R001_Car_Strike_at_LCXG173-140211.md"
+ },
+ "md-es/IE/2011/2012R002_Runaway_locomotive_at_Portlaoise_Loop-290911.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   19,
+   24,
+   29
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Ordinance Survey Ireland vs Ordnance Survey Ireland (error ortográfico en el original, no en la traducción)",
+   "Vía Apartada de Portlaoise vs Portlaoise Loop (posible término técnico no normalizado)",
+   "shunting: se mantiene en inglés en lugar de traducirse como 'maniobra'",
+   "dept shutter: traducido como 'persiana profunda', término incorrecto; debería ser 'tope de vía' o 'apartadero'",
+   "carriage: traducido como 'coche motor', cuando debería ser 'coche' o 'vagón de pasajeros'",
+   "runaround movement: traducido como 'maniobra de rodeo', debería ser 'movimiento de inversión' o 'maniobra de cambio de sentido'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2011/2012R002_Runaway_locomotive_at_Portlaoise_Loop-290911.md"
+ },
+ "md-es/IE/2012/2013R002_Tractor_struck_train_20062012.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   7,
+   13,
+   18,
+   24,
+   29
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "LC guidance booklet traducido como 'guía de orientación sobre pasos a nivel' en lugar de 'folleto de orientación sobre pasos a nivel'",
+   "RPU Officer traducido como 'Agente de RPU' en lugar de 'Oficial de RPU'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2012/2013R002_Tractor_struck_train_20062012.md"
+ },
+ "md-es/IE/2012/IE 06.03.2012 Trend_investigation_Possession_incidents_on_the_IÉ_network.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   8,
+   14,
+   21,
+   27,
+   34
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Arreglo de protección (arrangement) vs disposición/protección",
+   "ocupación (possession) vs bloqueo/ocupación de vía",
+   "señales de niebla (fog signals) vs petardos"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2012/IE 06.03.2012 Trend_investigation_Possession_incidents_on_the_IÉ_network.md"
+ },
+ "md-es/IE/2012/RAIUR003_Fog_Signal_Activation_Bray 06.03.2012.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   18,
+   23,
+   28
+  ],
+  "fidelidad_media": 99.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   18
+  ],
+  "terminos": [
+   "casual factors (CF) traducido como 'factores causales (FC)' en lugar de 'factores casuales'",
+   "IM traducido como 'GIF' (Gestor de Infraestructura Ferroviaria) sin que el original use esa sigla expandida",
+   "RU traducido como 'EF' (Empresa Ferroviaria) sin que el original use esa sigla expandida"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2012/RAIUR003_Fog_Signal_Activation_Bray 06.03.2012.md"
+ },
+ "md-es/IE/2012/RAIUR003_Fog_Signal_Activation_Bray-06032012.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   18,
+   23,
+   28
+  ],
+  "fidelidad_media": 98.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "casual factors traducido como 'factores causales' en lugar de 'factores casuales' (el original dice 'casual factors (CF)', no 'causal factors')",
+   "RU traducido como 'EF' (Empresa Ferroviaria) en lugar de 'RU' (Railway Undertaking)",
+   "IM traducido como 'GIF' (Gestor de Infraestructura Ferroviaria) en lugar de 'IM' (Infrastructure Manager)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2012/RAIUR003_Fog_Signal_Activation_Bray-06032012.md"
+ },
+ "md-es/IE/2013/IE 10.08.2013 2014R003_WSF_DART_doors.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   25,
+   32,
+   40
+  ],
+  "fidelidad_media": 96.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "«pin macho eléctrico» y «pin hembra eléctrico» no son términos normalizados; deberían ser «espiga macho eléctrica» y «alveolo hembra eléctrico» o «contacto macho/hembra»",
+   "«autocouplers» se deja en inglés en el párrafo 96, mientras que en el resto del texto se traduce como «acopladores»",
+   "Traducción inconsistente de 'Drivers' Manual' y 'Drivers' Handbook': ambos se traducen como 'Manual de Conductores', perdiendo la distinción entre los dos documentos del original.",
+   "'Door Interlock Light' se traduce como 'Luz Azul de Enclavamiento de Puertas'; el original no menciona el color azul."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2013/IE 10.08.2013 2014R003_WSF_DART_doors.md"
+ },
+ "md-es/IE/2012/Trend_investigation_Possession_incidents_on_the_IÉ_network-18022012.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   8,
+   14,
+   21,
+   27,
+   34
+  ],
+  "fidelidad_media": 93.0,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [
+   "Arreglo de protección",
+   "ocupación",
+   "señales de niebla",
+   "Espalda con Espalda"
+  ],
+  "fallos": [
+   {
+    "pagina": 27,
+    "fidelidad": 70,
+    "omisiones": [
+     "Falta la frase final del párrafo 93: 'However, it would appear that establishing' queda incompleta en la traducción."
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Signalman traducido como 'Agujero de Señales' en lugar de 'Guardavía' o 'Señalero'.",
+     "interface at protecting signals traducido como 'interfieren en señales de protección' en lugar de 'interfaz en señales de protección' o 'coinciden en señales de protección'."
+    ],
+    "comentario": "La traducción está incompleta al final y contiene errores terminológicos graves."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2012/Trend_investigation_Possession_incidents_on_the_IÉ_network-18022012.md"
+ },
+ "md-es/IE/2013/IE 31.12.2013 2014R006_Waterford_Rockfall.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   11,
+   21,
+   30,
+   40,
+   49
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2013/IE 31.12.2013 2014R006_Waterford_Rockfall.md"
+ },
+ "md-es/IE/2013/IE 18.12.2013 Structural.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   16,
+   23,
+   31,
+   40
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "octangular base section traducido como 'sección base octogonal' (debería ser 'octangular' para mantener la distinción geométrica)",
+   "platform traducido como 'vía' en el párrafo 57 (debería ser 'andén')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2013/IE 18.12.2013 Structural.md"
+ },
+ "md-es/IE/2013/IE-3096 and IE 5197 - spad_final_r2016_r001.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   52,
+   107,
+   157,
+   206,
+   257
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2013/IE-3096 and IE 5197 - spad_final_r2016_r001.md"
+ },
+ "md-es/IE/2013/IE2303~1.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   8,
+   15,
+   23,
+   29,
+   37
+  ],
+  "fidelidad_media": 92.5,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 37,
+    "fidelidad": 70,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Signalman traducido como 'Agujero' en lugar de 'Señalero' o 'Guardavía'",
+     "Driver traducido como 'Conductor' en lugar de 'Maquinista'"
+    ],
+    "comentario": "La traducción contiene errores graves de terminología técnica ('Agujero' por 'Signalman') que afectan la fidelidad del informe."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2013/IE2303~1.md"
+ },
+ "md-es/IE/2014/IE 08.01.2014 SPAD_Final_R2016_R001.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   52,
+   107,
+   157,
+   206,
+   257
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Driver Remainder Appliance: el término correcto es 'Driver Reminder Appliance' (DRA), no 'Remainder'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2014/IE 08.01.2014 SPAD_Final_R2016_R001.md"
+ },
+ "md-es/IE/2014/IE 08.01.2014 Summary Report RS2016-R001.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   14,
+   22,
+   28,
+   33
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 90,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción inconsistente de fechas: se mantiene el formato inglés '24th September 2014', 'on the 19th December 2013', 'on the 29th June 2014', 'on the 2nd October 2012', 'on the 10th July 2013' en lugar de traducirlo al castellano."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2014/IE 08.01.2014 Summary Report RS2016-R001.md"
+ },
+ "md-es/IE/2014/IE-5195 - r2015002_car_strikes_train_at_xm250_8june2014r1.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   20,
+   29,
+   39,
+   47
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción inconsistente de 'Stop Line': 'Línea de STOP' (párrafo 147) vs 'Línea de Stop' (párrafo 148)",
+   "Traducción inconsistente de 'near misses': 'incidentes casi graves' (párrafo 150) vs 'incidentes casi graves serios' para 'serious near misses' (párrafo 150)"
+  ],
+  "fallos": [
+   {
+    "pagina": 39,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "Se añade la aclaración '(Open Passage)' en el párrafo 105, que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es fiel y precisa, con la única salvedad de una aclaración añadida en el párrafo 105."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2014/IE-5195 - r2015002_car_strikes_train_at_xm250_8june2014r1.md"
+ },
+ "md-es/IE/2014/IE 12.02.2014 R2015001.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   18,
+   27,
+   35,
+   43
+  ],
+  "fidelidad_media": 98.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "En el párrafo 169, 'gates' se traduce como 'barreras', cuando en el contexto de pasos a nivel operados por el usuario, 'gates' se refiere a 'puertas' o 'verjas'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2014/IE 12.02.2014 R2015001.md"
+ },
+ "md-es/IE/2015/IE-4959 - 151023_operational_incidents_at_ardrahan_and_spa.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   11,
+   23,
+   33,
+   44,
+   53
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 90,
+  "sin_dictamen": [],
+  "terminos": [
+   "Agujero de Athlone: traducción incorrecta de 'Signalman' (guardagujas o señalero), no 'agujero'.",
+   "rendible: traducción incorrecta de 'accountable' (responsable), no 'rendible'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2015/IE-4959 - 151023_operational_incidents_at_ardrahan_and_spa.md"
+ },
+ "md-es/IE/2015/IE 12.09.2015 R2016002_Dangerous_Occurrence_Ballybrophy_Portlaoise_150912.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   8,
+   14,
+   21,
+   27,
+   33
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   27
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2015/IE 12.09.2015 R2016002_Dangerous_Occurrence_Ballybrophy_Portlaoise_150912.md"
+ },
+ "md-es/IE/2017/IE 13.09.2017 170913_IÃ‰_A_DART_derailment_Dun_Laoghaire.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   18,
+   26,
+   34,
+   42
+  ],
+  "fidelidad_media": 95.5,
+  "fidelidad_min": 90,
+  "sin_dictamen": [],
+  "terminos": [
+   "Clamp Lock Point traducido como 'Agujas con Cierre de Grapa' en lugar de 'Agujas con Cerradura de Grapa' o 'Agujas de Cierre con Grapa'",
+   "Traducción inconsistente de 'scotch': 'entable' (148, 149) vs 'entabladas' (148). El término técnico ferroviario normalizado en castellano es 'calzo' o 'cuña', no 'entable'.",
+   "Traducción de 'points clip' como 'grapa de aguja' (147). El término normalizado es 'pinza de aguja' o 'brida de aguja'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2017/IE 13.09.2017 170913_IÃ‰_A_DART_derailment_Dun_Laoghaire.md"
+ },
+ "md-es/IE/2017/IE3101~1.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   12,
+   23,
+   37,
+   47,
+   58
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Agujero de Maniobras (Signalman) es una traducción incorrecta; debería ser 'Guardavía' o 'Encargado de Señales'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2017/IE3101~1.md"
+ },
+ "md-es/IE/2018/IE 1 8.04.20182019R004 RRV Occurrences Trend Report.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   27,
+   52,
+   78,
+   103,
+   129
+  ],
+  "fidelidad_media": 97.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "pasaman: traducción incorrecta de 'handrail' (pasamanos)",
+   "El Operador de la Excavadora RRV desconocía lo cerca que estaba el RRV de la locomotora 071: el original dice 'The RRV Excavator was unaware...' (la excavadora, no el operador)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2018/IE 1 8.04.20182019R004 RRV Occurrences Trend Report.md"
+ },
+ "md-es/IE/2018/IE 17.08.2018 RAIU 2019R003 LC XM220.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   20,
+   29,
+   37,
+   46
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2018/IE 17.08.2018 RAIU 2019R003 LC XM220.md"
+ },
+ "md-es/IE/2018/IE 12.08.2018 Wrongside Door Fault at Ashtown on the 12th August 2018.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   24,
+   31,
+   38
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   24
+  ],
+  "terminos": [
+   "fallo en sentido contrario (wrongside failure)",
+   "wrongside door failure traducido como 'fallo a lado seguro de la puerta' (debería ser 'fallo de puerta del lado incorrecto' o 'fallo de puerta en lado no seguro')",
+   "wrongside rolling stock failures traducido como 'fallos a lado seguro del material rodante' (debería ser 'fallos del material rodante del lado incorrecto' o 'fallos en lado no seguro')",
+   "autocoupler no traducido (debería ser 'acoplador automático')",
+   "bulk occurrences traducido como 'ocurrencias masivas' (debería ser 'sucesos/incidentes en bloque' o 'por lotes')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2018/IE 12.08.2018 Wrongside Door Fault at Ashtown on the 12th August 2018.md"
+ },
+ "md-es/IE/2018/IE1707~1.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   26,
+   34,
+   42
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2018/IE1707~1.md"
+ },
+ "md-es/IE/2019/IE-6008 - 190620 SET Worker Rush Lusk.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   24,
+   32,
+   40
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Reglamento IÉ para 'IÉ Rule Book' (debería ser 'Reglamento de IÉ' o 'Manual de Normas de IÉ')",
+   "casi atropello para 'near miss' (término normalizado en seguridad ferroviaria: 'cuasi accidente' o 'casi colisión')",
+   "Road Rail Machinery traducido como 'Maquinaria Ferroviaria-Rodante' en lugar de 'Maquinaria de carretera-ferrocarril' o 'Maquinaria ferrocarril-carretera'",
+   "General Principals of Prevention traducido como 'Principios Generales de Prevención' (correcto), pero 'Principals' en original es errata por 'Principles'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2019/IE-6008 - 190620 SET Worker Rush Lusk.md"
+ },
+ "md-es/IE/2020/IE-6218-200111 Collision RRME Rosslare.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   24,
+   32,
+   39
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2020/IE-6218-200111 Collision RRME Rosslare.md"
+ },
+ "md-es/IE/2020/IE-200608 BnM Collision LC Offaly.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   24,
+   32,
+   40
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'Rail Safety Case' como 'Expediente de Seguridad Ferroviaria' en lugar de 'Caso de Seguridad Ferroviaria' o 'Estudio de Seguridad Ferroviaria'",
+   "Traducción de 'Underpasses' como 'Pasos Subterráneos' en lugar de 'Pasos Inferiores'",
+   "Manual catch points traducido como 'Puntos de desvío manuales' en lugar de 'Puntos de descarrilamiento manuales' o 'cambiavías de seguridad manuales'",
+   "Derailing points traducido como 'puntos de descarrilamiento' en la nota al pie, mientras que 'catch points' se tradujo como 'puntos de desvío', perdiendo la distinción técnica",
+   "reencauzamiento",
+   "reencauzado"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2020/IE-200608 BnM Collision LC Offaly.md"
+ },
+ "md-es/IE/2020/IE-6262-200429 LC Collision XM240.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   12,
+   24,
+   35,
+   45,
+   55
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción inconsistente de 'gated crossing': 'paso a nivel con barreras de hierro' (párrafo 64) vs 'pasos a nivel con barreras' (Figura 11) vs 'Pasos a Nivel No Custodiados con Barreras de Accionamiento por el Usuario' (párrafo 66)",
+   "'User Worked Unattended Level Crossings' traducido como 'Pasos a Nivel No Custodiados con Barreras de Accionamiento por el Usuario' - posible pérdida del matiz 'unattended' (no custodiados) y adición de 'con barreras' no presente en el original"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2020/IE-6262-200429 LC Collision XM240.md"
+ },
+ "md-es/IE/2020/IE-6291-200524 LC XA068 Ashfield.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   14,
+   28,
+   40,
+   53,
+   66
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Agujador de Línea Principal no es un término normalizado para 'Mainline Signalman' (debería ser 'Señalero de Línea Principal')",
+   "Peatón (MOP) es una traducción incorrecta de 'MOP' (Mobile Operations Personnel/Personal de Operaciones Móviles), no 'Peatón'",
+   "PN (Paso a Nivel) se usa para 'LC' (Level Crossing), cuando el original usa 'LC XA068'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2020/IE-6291-200524 LC XA068 Ashfield.md"
+ },
+ "md-es/IE/2020/IE-6305 - 200707_locomotive_224.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   25,
+   32,
+   42
+  ],
+  "fidelidad_media": 98.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2020/IE-6305 - 200707_locomotive_224.md"
+ },
+ "md-es/IE/2021/IE-10375 - 210827 Collision with track equipment.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   14,
+   28,
+   41,
+   55,
+   69
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Accountabilities & responsibilities traducido como 'Responsabilidades y competencias' en lugar de 'Responsabilidades y obligaciones'",
+   "Traducción incorrecta de 'Controlling Signalman' como 'Agujero de Control' en lugar de 'Señalero de Control' o 'Agente de Circulación'.",
+   "Traducción incorrecta de 'marker boards' como 'señales de límite de obra' en lugar de 'tableros marcadores' o 'señales de balizamiento'.",
+   "Traducción incorrecta de 'your work site' como 'su emplazamiento de trabajo' en lugar de 'su lugar de trabajo' (error de concordancia con el original)."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2021/IE-10375 - 210827 Collision with track equipment.md"
+ },
+ "md-es/IE/2023/IE-10404 - 230222 Broken Rail Emly.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   18,
+   28,
+   36,
+   44
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Persona Responsable de la Tensión no es la traducción normalizada para 'Person in Charge of Stressing' (debería ser 'Encargado de Tensado' o 'Responsable de Tensado')",
+   "Proceso de Soldadura por Termotía SoW-5 no es la traducción normalizada para 'Thermit SoW-5' (debería ser 'Soldadura aluminotérmica SoW-5' o 'Proceso de soldadura Thermit SoW-5')",
+   "Tensor de Carril (Rail Tensors) no está en plural correcto en español: debería ser 'Tensores de Carril'",
+   "Persona Responsable del Tensado (Person in Charge of Stressing) podría normalizarse como 'Responsable de Tensado'",
+   "Supervisor de Soldadura (Weld Supervisor) podría normalizarse como 'Supervisor de Soldaduras'",
+   "Operador de Ultrasonidos (Ultrasonic Operator) podría normalizarse como 'Operador de Ultrasonido'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2023/IE-10404 - 230222 Broken Rail Emly.md"
+ },
+ "md-es/IE/2021/IE-10397 - 211207 Clontarf.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   13,
+   29,
+   41,
+   53,
+   66
+  ],
+  "fidelidad_media": 97.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "Crew Ramp traducido como Rampa de Tripulación y Rampa de Crew en el mismo párrafo (inconsistencia)",
+   "Central Signalman traducido como Agente Central de Señalización (posible término no normalizado)",
+   "wrong side failure traducido como 'fallo en lado seguro' (debería ser 'fallo en lado inseguro' o 'fallo del lado peligroso')",
+   "sanding traducido como 'arenado' (podría ser 'enarenado' o 'sistema de arenado')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/IE/2021/IE-10397 - 211207 Clontarf.md"
+ }
+}

@@ -57,17 +57,22 @@ def recorrido(base):
 
 
 def pendientes(code):
-    """(pdfs sin md, md sin md-es, md-es sin revisión)"""
+    """(pdfs sin md, md sin md-es, md-es sin revisión) — contando vacías como pendientes."""
     origen = os.path.join(PDFS, code)
     if not os.path.isdir(origen):
         return 0, 0, 0
     pdfs = [p for p in os.listdir(origen) if p.lower().endswith(".pdf")]
-    # md esperados: un .md por PDF, en md/<CC>/<año>/ (el slug cambia; se compara por md5? no hace falta:
-    # contar es suficiente para decidir si hay trabajo)
     n_md = len(recorrido(os.path.join(MD, code))) if os.path.isdir(os.path.join(MD, code)) else 0
     sin_md = max(0, len(pdfs) - n_md)
     n_es = len(recorrido(os.path.join(MD_ES, code))) if os.path.isdir(os.path.join(MD_ES, code)) else 0
-    sin_es = max(0, n_md - n_es)
+    # una traducción vacía o truncada (md sin texto en el momento de traducir, p. ej.
+    # antes del OCR) cuenta como NO hecha: si no, nunca se arreglaría.
+    try:
+        from traducir_md_es import vacios
+        n_vacios = len(vacios(code))
+    except Exception:
+        n_vacios = 0
+    sin_es = max(0, n_md - n_es) + n_vacios
     revisados = 0
     f_rev = os.path.join(REV, f"{code}.json")
     if os.path.exists(f_rev):
@@ -113,6 +118,8 @@ def una_pasada(paises):
             t0 = time.time()
             rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code,
                               "--workers", "3", "--workers-noche", "6"])
+            # las vacías/truncadas se rehacen siempre antes de dar el país por traducido
+            corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--vacios", "--rehacer"])
             log(f"[{code}] traducción ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
             sin_md, sin_es, sin_rev = pendientes(code)
         if sin_es == 0:

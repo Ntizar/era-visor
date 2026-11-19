@@ -1,0 +1,1259 @@
+{
+ "md-es/SK/2006/A3 DNV-260506.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2006/A3 DNV-260506.md"
+ },
+ "md-es/SK/2006/B2 Handlova-310306.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "fidelidad_media": 93.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "zmetáky pred dvojkolesím traducido como 'cepillos limpiaparabrisas delante del bogie' en lugar de 'quitapiedras/limpiadores de carril delante del juego de ruedas'",
+   "vodiace tŕne bežného podvozku traducido como 'rieles guía del bogie normal' en lugar de 'espigas/pasadores de guía del bogie portador'",
+   "priechodného prierezu traducido como 'corte transversal provisional' en lugar de 'gálibo de paso libre'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2006/B2 Handlova-310306.md"
+ },
+ "md-es/SK/2006/B2 Hlboke-300306.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "fidelidad_media": 95.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'pláne železničného spodku' como 'balasto fino' es incorrecta; se refiere a la plataforma de la infraestructura ferroviaria, no al balasto.",
+   "Traducción de 'okolesník' como 'rodillo guía' es incorrecta; el término normalizado es 'pestaña de rueda'.",
+   "Atrakčný obvod Trnava traducido como 'Zona de Atractividad Trnava' (debería ser 'Circunscripción de Tracción Trnava' o similar)",
+   "HDV traducido como 'HDV' sin desarrollar (en eslovaco es 'hnacie dráhové vozidlo', vehículo ferroviario motriz)",
+   "ZSSK CARGO traducido como 'ZSSK CARGO' (en el original es 'ZSSK CARGO' pero en el apartado h) aparece 'ZSSK CARGO Slovakia, a.s.' sin traducir 'Slovakia' a 'Eslovaquia')",
+   "PZ (Policía Ferroviaria) es una expansión incorrecta; en el contexto eslovaco, ZP se refiere a Železničná polícia (Policía Ferroviaria), pero la sigla original es ZP, no PZ."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2006/B2 Hlboke-300306.md"
+ },
+ "md-es/SK/2010/Final_report-Spisska_Nova_Ves-010410.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "výhybkárska linka traducido como 'línea de agujeros' (debería ser 'línea de agujas' o 'línea de maniobras')",
+   "odovzdávka služby traducido como 'relevos' (debería ser 'entrega de servicio')",
+   "Traducción inconsistente de 'posun' como 'maniobra de remolque' en lugar de 'maniobra'",
+   "Traducción de 'rušňovodič' como 'maquinista' en lugar de 'conductor de locomotora'",
+   "Traducción de 'výpravca' como 'jefe de estación' en lugar de 'despachador' o 'factor de circulación'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2010/Final_report-Spisska_Nova_Ves-010410.md"
+ },
+ "md-es/SK/2012/BA_hl_st-261012.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   12,
+   15
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "smerová závada koľaje č. 2 traducido como 'avería de enclavamiento en la vía n.º 2' en lugar de 'avería de dirección de la vía n.º 2' o 'defecto de alineación de la vía n.º 2'",
+   "výpravca traducido como 'jefe de circulación' en lugar de 'jefe de estación' o 'despachador'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/BA_hl_st-261012.md"
+ },
+ "md-es/SK/2012/Final_report-Liptovsky_Mikulas-200212.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 50.7,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 5,
+    "omisiones": [
+     "Prácticamente todo el contenido legible del original está corrupto o ausente; no se puede verificar ninguna frase, cifra o fila de tabla."
+    ],
+    "invenciones": [
+     "La traducción introduce la etiqueta '[ilegible: texto corrupto]' que no existe en el original."
+    ],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "El original es ilegible y la traducción no aporta contenido verificable, por lo que no se puede validar fidelidad alguna."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 5,
+    "omisiones": [
+     "La traducción no es una traducción al castellano; es una copia del texto original con caracteres corruptos.",
+     "No se traduce ningún contenido del original."
+    ],
+    "invenciones": [
+     "Se presenta como 'TRADUCCIÓN (castellano)' un texto que no está en castellano y que reproduce el original corrupto."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "No se puede evaluar la terminología porque no hay traducción real."
+    ],
+    "comentario": "El texto etiquetado como traducción es una copia del original corrupto, sin traducir al castellano."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es ilegible y no constituye una traducción al castellano; es una copia corrupta del original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Final_report-Liptovsky_Mikulas-200212.md"
+ },
+ "md-es/SK/2012/Final_report-Zilina-190712.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   9,
+   11,
+   13
+  ],
+  "fidelidad_media": 95.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "HDV 2. POZ traducido como 'material rodante motorizado (HDV) 2. POZ' en lugar de mantener la sigla original o traducirla de forma normalizada",
+   "párna skupina traducido como 'grupo de vías pares' en lugar de 'grupo par'",
+   "kysucké zhlavie traducido como 'extremo norte/Kysuce' en lugar de 'cabecera de Kysuce'",
+   "koľajnicový pás traducido como 'ala del carril' en lugar de 'patín del carril' o 'carril'",
+   "výťažná koľaj traducido como 'vía de salida' en lugar de 'vía de maniobras' o 'vía de escape'",
+   "pochôdzkársky kľúč traducido como 'llave de vigilancia' en lugar de 'llave de guardavía' o 'llave de vigilante de vía'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Final_report-Zilina-190712.md"
+ },
+ "md-es/SK/2012/Podunajské Biskupice_02092012.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 93.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Rušiaci Os 4373 traducido como 'Tren maniobras Os 4373' en lugar de 'Tren de refuerzo Os 4373' o 'Tren de maniobras Os 4373'",
+   "dopravne Podunajské Biskupice traducido como 'nodo Podunajské Biskupice' en lugar de 'puesto de tráfico Podunajské Biskupice'",
+   "dopravní traducido como 'nodos' en lugar de 'puestos de tráfico'",
+   "Traducción de 'Rušiaci Os 4373' como 'Tren supresor' es inconsistente: en el original es un tipo de tren, no un nombre propio; se traduce a veces como 'tren supresor' y otras se mantiene 'Rušiaci'.",
+   "'výpravca' traducido como 'jefe de estación' en lugar de 'despachador' o 'factor de circulación' en algunos contextos, aunque es aceptable.",
+   "'dozorca dopravne' traducido como 'supervisor de tráfico' en lugar de 'encargado de la dependencia' o 'vigilante de circulación'."
+  ],
+  "fallos": [
+   {
+    "pagina": 10,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la última parte de la frase final: 'v čase o' (a las...) no se completa con la hora en la traducción."
+    ],
+    "invenciones": [
+     "Se añade '[del tren]' en 'asumió en el eje [del tren] el tren Os 4348', que no está en el original.",
+     "Se añade '[ilegible: ...]' en 'según [ilegible: ...], no comprobó el ZCP', que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Traducción de 'zbrojenie' como 'armamento' es incorrecta; debería ser 'avituallamiento' o 'repostaje'.",
+     "Traducción de 'vonkajší výpravca' como 'jefe de circulación exterior' es cuestionable; debería ser 'expendedor exterior' o 'agente de circulación exterior'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene una omisión al final, dos invenciones menores y dos términos técnicos mal traducidos."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Podunajské Biskupice_02092012.md"
+ },
+ "md-es/SK/2012/Nové_Zámky-021012.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   6,
+   8,
+   9
+  ],
+  "fidelidad_media": 95.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'rozrezanie výmeny' como 'rotura de la aguja' en lugar de 'corte de la aguja' o 'rotura del desvío'",
+   "Traducción de 'prevádzková porucha' como 'incidente operativo' en lugar de 'fallo operativo' o 'perturbación operativa'",
+   "zriaďovacie návestidlo traducido como 'señal de entrada' en lugar de 'señal de maniobras' o 'señal de clasificación'",
+   "výhybka traducido como 'desvío' en lugar de 'aguja' o 'cambio de agujas'",
+   "návesť 50, Stoj, zastavte všetkými prostriedkami traducido como 'señal 50, Alto, detenerse por todos los medios' en lugar de 'señal 50, Parada, deténgase por todos los medios'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Nové_Zámky-021012.md"
+ },
+ "md-es/SK/2012/Podunajské_Biskupice-020912.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 94.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'dozorcu dopravne' como 'supervisor de tráfico' en lugar de 'guardagujas' o 'encargado de circulación'",
+   "Traducción de 'výpravca' como 'jefe de estación' en lugar de 'factor de circulación' o 'jefe de circulación'",
+   "Traducción de 'vonkajší výpravca' como 'jefe de estación exterior' en lugar de 'factor de circulación exterior'",
+   "Traducción de 'dispečerka' como 'reguladora' en lugar de 'controladora' o 'despachadora'"
+  ],
+  "fallos": [
+   {
+    "pagina": 10,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la hora de salida al final del fragmento: 'v čase o' queda sin traducir."
+    ],
+    "invenciones": [
+     "Se añade '[ilegible: ...]' que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'zbrojenie' traducido como 'taller para armamento' en lugar de 'repostaje' o 'avituallamiento'.",
+     "'Nástupná tabuľka' traducido como 'Tabla de Incorporación' en lugar de 'tabla de turnos' o 'tabla de servicio'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero omite la hora final y contiene un término técnico ferroviario mal traducido."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Podunajské_Biskupice-020912.md"
+ },
+ "md-es/SK/2012/Východná-081012.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 88.8,
+  "fidelidad_min": 75,
+  "sin_dictamen": [],
+  "terminos": [
+   "čap → perno (debería ser 'muñón' o 'gorrón' en contexto ferroviario)",
+   "dvojkolesie → bogie (debería ser 'eje montado' o 'par de ruedas')",
+   "vozmajster traducido como 'conductor de maniobras' en lugar de 'maestro de vagones' o 'revisor de material rodante'",
+   "výpravca traducido como 'jefe de estación' en lugar de 'despachador' o 'factor de circulación'"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 85,
+    "omisiones": [
+     "En la tabla de daños de ŽSR, la traducción omite la palabra 'náklady' (costes) en 'náklady za práce zamestnancov' y la traduce como 'carga procesada por empleados'.",
+     "En la tabla de daños de ŽSR, la traducción omite la palabra 'Predbežná' (provisional) en 'Predbežná celková škoda pre ŽSR' y la traduce como 'Coste total provisional para ŽSR'."
+    ],
+    "invenciones": [
+     "La traducción añade 's.r.o.' a 'Compañía Ferroviaria Eslovaca' y 'Compañía Ferroviaria Cargo Slovakia', cuando el original dice 'a.s.' (akciová spoločnosť)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El término 'priechodný prierez' se traduce como 'paso a nivel', cuando en el contexto ferroviario se refiere a 'gálibo' o 'sección de paso'.",
+     "El término 'vykoľajený vozeň' se traduce como 'vehículo descarrilado', pero en el contexto ferroviario eslavo se refiere a 'vagón descarrilado'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene errores en la traducción de términos técnicos y en la forma jurídica de las empresas."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 75,
+    "omisiones": [
+     "Falta la frase final del apartado d) de la sección IV: 'Ohlásenie splnenia uložených úloh ako aj prijaté opatrenia nahlásiť na MDVRR SR' no está traducida como parte del apartado d) de la sección IV, sino que se ha desplazado a la sección VI como apartado d)."
+    ],
+    "invenciones": [
+     "En la sección VI, apartado d), se añade 'Notificar al MDVRR SR el cumplimiento de las tareas asignadas así como las medidas adoptadas', que en el original pertenece al apartado d) de la sección IV, no a la sección VI."
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'dvojkolesia' se traduce como 'bogie' en lugar de 'eje montado' o 'juego de ruedas'.",
+     "'ukrútenie' se traduce como 'torcimiento' en lugar de 'torsión' o 'rotura por torsión'.",
+     "'odpadnutá ložisková skriňa' se traduce como 'caja de rodamientos caída' en lugar de 'caja de grasa desprendida' o 'caja de eje caída'."
+    ],
+    "comentario": "La traducción contiene errores de ubicación de contenido, terminología técnica incorrecta y una cifra de año mal transcrita."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Východná-081012.md"
+ },
+ "md-es/SK/2012/Zlatovce-181012.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 91.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "vagón cisterna (Faccs es un vagón volquete abierto, no cisterna)",
+   "escoria (el original dice 'drť, posypová frakcie', que es gravilla/árido, no escoria)",
+   "frenador (vozmajster es 'maestro de vagones' o 'revisor de material rodante', no frenador)",
+   "tope frontal (čelník es 'testero' o 'pared frontal', no tope)",
+   "guía del muelle (narážka pružnice es 'tope de ballesta', no guía)",
+   "compuerta de descarga (výsypka es 'tolva de descarga' o 'compuerta basculante')"
+  ],
+  "fallos": [
+   {
+    "pagina": 6,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "En el apartado e), la traducción dice 'se estaban realizando trabajos alguno', lo que sugiere que se estaban realizando trabajos, mientras que el original dice 'neboli vykonávané žiadne práce' (no se estaban realizando trabajos)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "prídržnice traducido como 'contrarranuras' en lugar de 'contracarriles'",
+     "podkladnice traducido como 'placas de asiento' en lugar de 'placas de asiento' (término normalizado en español es 'placas de asiento', pero 'abnormálnych podkladníc' se refiere a 'placas de asiento anómalas' o 'especiales')",
+     "koľajové mechanizmy traducido como 'maquinaria sobre raíles' en lugar de 'maquinaria de vía'"
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene un error de sentido en el apartado e) que invierte el significado del original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2012/Zlatovce-181012.md"
+ },
+ "md-es/SK/2013/Benadiková-230113.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 95.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "HDV traducido como 'locomotora' en lugar de 'vehículo ferroviario' o 'unidad de tracción'",
+   "CV traducido como 'vehículo especial' en lugar de 'vehículo de carretera' o 'vehículo de motor'",
+   "'bez zapnutej uzávierky' traducido como 'sin activar el bloqueo diferencial' en lugar de 'sin activar el bloqueo del diferencial'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2013/Benadiková-230113.md"
+ },
+ "md-es/SK/2014/Krasna_nad_Hornadom___Nižná_Myšla_250214.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 75.8,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [
+   "superestructura ferroviaria por 'žel. zvršku' (debería ser 'vía' o 'superestructura de vía')",
+   "vehículo por 'vozňa' (debería ser 'vagón')",
+   "pendiente del terraplén por 'svahu násypu' (debería ser 'talud del terraplén')",
+   "srdcovka traducido como 'aguja' en lugar de 'corazón' (parte del cambio de vía)",
+   "opornica traducido como 'contralengüeta' en lugar de 'contracarril' o 'carril de apoyo'",
+   "RZZ traducido como 'equipo de enclavamiento electromecánico' en lugar de 'equipo de enclavamiento de relés'"
+  ],
+  "fallos": [
+   {
+    "pagina": 17,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2014/Krasna_nad_Hornadom___Nižná_Myšla_250214.md"
+ },
+ "md-es/SK/2013/Leopoldov_09112013.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 92.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Odbrzdiť traducido como 'Frenar' en lugar de 'Desfrenar' o 'Aflojar frenos'",
+   "Brzda v poriadku traducido como 'Freno en orden' en lugar de 'Freno correcto' o 'Freno en buen estado'",
+   "Pohotový na odchod traducido como 'Disponibilidad para la salida' en lugar de 'Listo para la salida'",
+   "Súhlas na odchod traducido como 'Autorización de salida' en lugar de 'Conformidad de salida' o 'Acuerdo de salida'",
+   "Vznik nehody traducido como 'La aparición del accidente' en lugar de 'El origen del accidente' o 'La ocurrencia del accidente'",
+   "HDV traducido como 'locomotora HDV' en lugar de 'vehículo motor' o 'unidad motriz'"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade 'de los dispositivos de señalización' que no está en el original.",
+     "La traducción añade 'de la Asamblea Nacional de la RS' que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Traducción inconsistente de 'HDV': se traduce como 'unidad motriz diésel (HDV)' pero en el original es 'HDV' (hnacie dráhové vozidlo), que es un término más amplio que 'unidad motriz diésel'.",
+     "Traducción de 'zarážadlo' como 'tope de vía' es correcta, pero se usa de forma inconsistente con 'zarážadlo koľaje č. 9a' traducido como 'tope de vía de la vía n.º 9a'."
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene dos invenciones y una traducción imprecisa del término técnico HDV."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2013/Leopoldov_09112013.md"
+ },
+ "md-es/SK/2015/SK 01.10.2015 18_BA.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 94.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "maniobra de maniobras (redundancia no presente en el original)",
+   "señal de aproximación (el original dice 'privolávaciu návesť', que es señal de llamada, no de aproximación)",
+   "vehículos de vía (el original dice 'dráhových vozidiel', que son vehículos ferroviarios, no vehículos de vía)",
+   "'anchía' no es un término ferroviario normalizado en castellano; debería ser 'ancho de vía'",
+   "'perfil superior de la vía' es una traducción incorrecta de 'Železničný zvršok', que corresponde a 'superestructura de vía'",
+   "NŽST traducido como 'Estación No Principal' en lugar de 'Estación de tren' o 'Estación ferroviaria'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2015/SK 01.10.2015 18_BA.md"
+ },
+ "md-es/SK/2014/SK 27.08.2014 13_Bánovce.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "traducción de 'Pískajte' como 'Pitar' en lugar de 'Silbar' o 'Pitido'",
+   "traducción de 'MV' sin desambiguar (en original es 'motorové vozidlo' / vehículo de motor)",
+   "pozdĺžna výdreva traducido como 'drenaje longitudinal' en lugar de 'entablado longitudinal' o 'longarina de madera'",
+   "výdreva traducido como 'drenaje' en lugar de 'entablado' o 'enmaderado'",
+   "Tabuliek traťových pomerov traducido como 'Tablas de Condiciones de Línea' en lugar de 'Tablas de condiciones de vía'",
+   "návesť 147a, Pískajte traducido como 'aviso 147a, Toque el silbato' en lugar de 'señal 147a, Silbar'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2014/SK 27.08.2014 13_Bánovce.md"
+ },
+ "md-es/SK/2015/SK 03.08.2015 14_BA LamaÄ.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2
+  ],
+  "fidelidad_media": 85.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Categoría del suceso de accidente (original: Kategória nehodovej udalosti, mejor 'Categoría del suceso')",
+   "pasada de señal de Parada (original: prejdenie návesti Stoj, mejor 'rebase de señal de Parada')",
+   "empresa ferroviaria (original: dopravca, mejor 'operador ferroviario' o 'empresa operadora')",
+   "otras empresas ferroviarias (original: iných dopravniach, error de traducción: 'otras dependencias' o 'otros puestos de circulación')",
+   "vehículo motor (original: hnacie vozidlo, mejor 'vehículo tractor' o 'locomotora')",
+   "jefe de circulación (original: výpravca, aceptable, pero 'factor de circulación' es más normalizado en España)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2015/SK 03.08.2015 14_BA LamaÄ.md"
+ },
+ "md-es/SK/2015/SK 03.11.2015 19_Výh._Petrovce_Michalovce.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 94.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción incorrecta de 'pohotovostný stav' como 'estado de disponibilidad' en lugar de 'estado de alarma' o 'estado de emergencia'.",
+   "Traducción incorrecta de 'prednej dopravne' como 'estación anterior' en lugar de 'estación delantera' o 'puesto de bloqueo delantero'.",
+   "vehículo turístico particular: traducción incorrecta de 'osobného cestného vozidla' (vehículo de turismo / vehículo particular de carretera)",
+   "CV traducido como 'CV' en lugar de 'vehículo de carretera' o 'vehículo'",
+   "hradlárka traducido como 'operadora de enclavamiento' en lugar de 'guardabarrera' o 'guardesa'",
+   "výhybňa traducido como 'Apartadero' en lugar de 'Puesto de bloqueo' o 'Apartadero' (según normativa)"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade 'Locomotora Diesel' para HV, mientras que el original solo dice HV (hnacie vozidlo, vehículo motor) sin especificar el tipo de tracción."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "HV traducido como 'Locomotora Diesel' en lugar de 'vehículo motor' o 'locomotora' sin especificar tipo.",
+     "Výh. traducido como 'Puesto Avanzado' en lugar de 'Apartadero' o 'Puesto de adelantamiento'.",
+     "NŽST traducido como 'Estación' en lugar de 'Estación de ferrocarril' o 'Estación de tren'."
+    ],
+    "comentario": "La traducción es completa y fiel en cifras y contenido, pero introduce una especificación no presente en el original al traducir HV como 'Locomotora Diesel' y utiliza términos no normalizados para algunas infraestructuras ferroviarias."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2015/SK 03.11.2015 19_Výh._Petrovce_Michalovce.md"
+ },
+ "md-es/SK/2015/SK 13.08.2015 15_Mníchova_Lehota_Bánovce_nB.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   6,
+   8,
+   9
+  ],
+  "fidelidad_media": 91.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "HV 92 56 1 742 644-8 traducido como 'vehículo de cabecera' en lugar de 'vehículo de tren' (vlakové)",
+   "HV 92 56 1 740 604-4 traducido como 'vehículo auxiliar' en lugar de 'vehículo de empuje' (postrkové)",
+   "Ley del Consejo Nacional de la RS n.º 8/2009 Coll. sobre tráfico viario en lugar de 'Ley del Consejo Nacional de la República Eslovaca n.º 8/2009 Coll. sobre tráfico por carretera'"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "the aforementioned tren"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "LVM de maniobras para 'postrkové HV' (locomotora de empuje)",
+     "aparatos de cambio para 'výhybiek' (desvíos/agujas)",
+     "Cruz de San Andrés para 'Výstražný kríž' (cruz de advertencia)"
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene una invención en inglés y algunos términos técnicos ferroviarios no normalizados."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 85,
+    "omisiones": [
+     "En el apartado b) Infraestructura, la traducción omite la inspección técnica ordinaria anual del 14.04.2014, que en el original aparece como 'bežná technická prehliadka ročná prehliadka 14.04.2014'."
+    ],
+    "invenciones": [
+     "En el apartado b) Infraestructura, la traducción añade 'la inspección extraordinaria el 14.04.2014', que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "TTP se traduce como 'Horario de Trenes y Tarifas', pero en el contexto ferroviario eslovaco TTP significa 'Tabuľky traťových pomerov' (Tablas de condiciones de vía), no 'Horario de Trenes y Tarifas'.",
+     "'Železničné priecestia a priechody' se traduce como 'Pasos a nivel y pasos inferiores ferroviarios', pero 'priechody' son 'pasos' o 'cruces' (para peatones), no 'pasos inferiores'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene un error en las fechas de inspección y una traducción incorrecta del término TTP."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2015/SK 13.08.2015 15_Mníchova_Lehota_Bánovce_nB.md"
+ },
+ "md-es/SK/2015/SK 22.09.2015 16_Kalná_nad_Hronom.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "'preaviso' no es el término normalizado para 'predzvesť'; debería ser 'señal avanzada'",
+   "'despachador de locomotoras' para 'rušňového dispečera' debería ser 'controlador de tracción' o 'despachador de tracción'",
+   "Traducción incorrecta de 'výpravca' como 'jefe de estación' en lugar de 'operador de estación' o 'despachador'",
+   "Traducción incorrecta de 'návesť 2, Výstraha' como 'señal de precaución 2, la advertencia' en lugar de 'señal 2, Advertencia'",
+   "Traducción incorrecta de 'odhláška' como 'cancelación' en lugar de 'anuncio de salida' o 'aviso de expedición'"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "El jefe de estación esperaba ver el tren detenido ante la oficina de tráfico (el original dice que esperaba el tren ante la oficina de tráfico, sin especificar 'detenido')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Sección de Transporte Ferroviario y Carreteras: el original dice 'Sección de transporte ferroviario y vías' (dráh = vías, no carreteras)",
+     "enclavamiento de salida: el original dice 'odchodové návestidlo' (señal de salida), no 'enclavamiento'"
+    ],
+    "comentario": "Traducción completa y fiel en cifras y contenido, con dos errores terminológicos relevantes y una leve adición interpretativa."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2015/SK 22.09.2015 16_Kalná_nad_Hronom.md"
+ },
+ "md-es/SK/2015/SK 26.09.2015 17_Devínska_Nová_Ves.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "'sobrecimiento ferroviario' no es el término normalizado para 'železničný zvršok' (superestructura de vía)",
+   "'cuchilla' para 'čeľusť' es incorrecto; debería ser 'mordaza'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2015/SK 26.09.2015 17_Devínska_Nová_Ves.md"
+ },
+ "md-es/SK/2016/SK 26.11.2016 22_Å½ilina.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   8,
+   10
+  ],
+  "fidelidad_media": 92.3,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "lom ľavého ohnutého jazyka výhybky traducido como 'rotura del ala izquierda curvada del desvío' en lugar de 'rotura de la aguja izquierda curvada del desvío'",
+   "jazykov výhybiek traducido como 'alas de los desvíos' en lugar de 'agujas de los desvíos'",
+   "'jazyk' traducido como 'ala' en lugar de 'aguja' o 'lengüeta'",
+   "'pérovej časti jazyka' traducido como 'parte flexible del ala' en lugar de 'parte elástica de la aguja'",
+   "'výmenoveho styku' traducido como 'contacto de cambio' en lugar de 'junta de aguja' o 'unión de aguja'",
+   "SZZ traducido como 'sistema de protección automática de pasos a nivel' cuando en el original es 'systém signalizácie, riadenia a zabezpečenia vlakov' (sistema de señalización, control y protección de trenes)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2016/SK 26.11.2016 22_Å½ilina.md"
+ },
+ "md-es/SK/2016/SK 02.12.2016 20_VÃ½chodnÃ¡ - KrLehota.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   8,
+   10
+  ],
+  "fidelidad_media": 93.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "CV – vehículo de carretera (original: cestné vozdilo [sic, vozidlo])",
+   "HKV – vehículo motorizado de vía (original: hnacie koľajové vozidlo = vehículo ferroviario motor/tractor)",
+   "KM – mecanismos de vía (original: koľajové mechanizmy)",
+   "Os – tren ordinario (original: osobný vlak = tren de pasajeros)"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la frase final del original: 'Dňa 12.12.2016 bola na ŽKV Bcee 51-56 59-70 002 – 2 vykonaná komisionálna prehliadka...' y todo el contenido posterior sobre daños en 5 CV y la sección 5.",
+     "Falta la frase 'Po príchode vlaku do cieľovej ŽST Praha hl. n. (CZ) boli po vyložení na prepravovaných CV vykonané prehliadky, kde boli zistené poškodenia 5 CV.'",
+     "Falta la sección '5. Dokumentácia o systéme prevádzky' y su apartado 'a) Opatrenia prijaté personálom pri riadení dopravy a signalizácii'."
+    ],
+    "invenciones": [
+     "La traducción dice 'el árbol caído no guardaba relación causal' cuando el original dice 'železničný zvršok' (la superestructura de la vía), no un árbol caído."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'kontrola priechodného prierezu' traducido como 'inspección del paso a nivel' es incorrecto; debería ser 'inspección del gálibo' o 'inspección de la sección de paso libre'.",
+     "'zmeták' traducido como 'limpiaparabrisas' es incorrecto; se refiere a 'quitapiedras' o 'apartavacas' del vehículo ferroviario.",
+     "'jalových hrdiel' traducido como 'cuellos ciegos' es incorrecto; se refiere a 'boquillas de acoplamiento' o 'conexiones de manguera'."
+    ],
+    "comentario": "La traducción está incompleta (falta el final del informe) y contiene errores terminológicos y una invención relevante sobre el árbol caído."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2016/SK 02.12.2016 20_VÃ½chodnÃ¡ - KrLehota.md"
+ },
+ "md-es/SK/2017/SK 08.03.2017 23_TrenÄÃ­n _Zlatovce.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "señal indicativa vs señal (návestné znaky vs návesti)",
+   "semáforo de ruta luminoso vs señal luminosa de vía (svetelné cestové návestidlo)",
+   "koľajisko traducido como 'patio de maniobras' en lugar de 'vías' o 'infraestructura de vía'",
+   "dopravca traducido como 'transportista' en lugar de 'operador ferroviario' o 'empresa ferroviaria'",
+   "EMP – motor eléctrico de maniobra (original: elektromotorický prestavník; traducción correcta: accionamiento electromotor de agujas)",
+   "PP – horario operativo (original: prevádzkový poriadok; traducción correcta: reglamento de operación)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2017/SK 08.03.2017 23_TrenÄÃ­n _Zlatovce.md"
+ },
+ "md-es/SK/2017/SK 07.01.2017 21_Poprad_Tatry.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 93.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "priechodný prierez koľaje traducido como 'cruce provisional de la vía' en lugar de 'gálibo de la vía' o 'perfil de paso libre de la vía'",
+   "traťová koľaj traducido como 'vía principal' en lugar de 'vía de la línea' o 'vía de circulación'",
+   "osobná doprava traducido como 'servicio público' en lugar de 'transporte de viajeros'",
+   "comunicación por radiofónica → comunicación radiofónica",
+   "cruces desnivelados → pasos a desnivel",
+   "vías de acceso rodadas → vías de comunicación de acceso"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade '[sic: pasos a nivel]' que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Traducción incorrecta de 'úrovňových priecestí' como 'pasos a nivel a distinto nivel' en lugar de 'pasos a nivel' (la expresión eslovaca se refiere a pasos a nivel, no a pasos a distinto nivel).",
+     "Traducción incorrecta de 'mimoúrovňové' como 'a distinto nivel' en lugar de 'a desnivel' o 'pasos superiores/inferiores'."
+    ],
+    "comentario": "La traducción contiene un error terminológico importante al confundir 'pasos a nivel' con 'pasos a distinto nivel' y añade una aclaración no presente en el original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2017/SK 07.01.2017 21_Poprad_Tatry.md"
+ },
+ "md-es/SK/2017/SK 19.12.2017 25_Sladkovicovo.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 93.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción incorrecta de 'úrovňových priecestí' como 'pasos a nivel a distinto nivel' en lugar de 'pasos a nivel' (a nivel).",
+   "Traducción incorrecta de 'mimoúrovňovým riešením' como 'soluciones a distinto nivel' en lugar de 'soluciones a distinto nivel' (pasos a desnivel)."
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade 'a distinto nivel' en 'pasos a nivel a distinto nivel', que no está en el original ('úrovňových priecestí' significa pasos a nivel, no pasos a distinto nivel)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El original dice '2. traťovej koľaji' (vía de tren n.º 2), la traducción dice 'vía principal n.º 2'; 'traťová koľaj' no es necesariamente 'vía principal'.",
+     "El original usa 'železničnom priecestí' (paso a nivel ferroviario), la traducción alterna entre 'paso a nivel' y 'paso a nivel ferroviario' sin consistencia.",
+     "El original usa 'vodičom CV' (conductor del vehículo de carretera), la traducción usa 'conductor del VC' sin desarrollar la abreviatura."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene una invención en las recomendaciones y algunas imprecisiones terminológicas."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción es completa y fiel, pero contiene un error numérico: la hora de detención del tren se traduce como 08:28:46 h, mientras que el original indica 08:28:46 h, lo cual es cronológicamente incoherente con la hora del impacto (08:29:17 h) y debe revisarse."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2017/SK 19.12.2017 25_Sladkovicovo.md"
+ },
+ "md-es/SK/2018/24_Krompachy.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 93.3,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "El maquinista M.Č., en el acta levantada por el empleado de investigación de incidentes, declaró...",
+     "el paso por la NŽST Krompachy es directo"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "enclavamiento eléctrico de sistema de ruta",
+     "sistema de indicación de velocidad",
+     "vía incorrecta"
+    ],
+    "comentario": "La traducción es fiel en cifras y contenido general, pero introduce matices no presentes en el original y emplea términos técnicos no normalizados."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2018/24_Krompachy.md"
+ },
+ "md-es/SK/2018/SK 14.11.2018 27_BA-RaÄa.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 93.8,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción es completa y fiel, pero la fecha del suceso en el resumen (14.11.2019) no coincide con la del encabezado (14.11.2018), discrepancia que ya existía en el original."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la frase inicial 'cesta z 1. TK zo smeru Odb. Vinohrady' traducida correctamente; se tradujo como 'ruta desde el PK 1 en dirección a la Estación de Bratislava-Vinohrady', invirtiendo el sentido y omitiendo 'Odb.' (apartadero)."
+    ],
+    "invenciones": [
+     "Se añadió 'Estación de Bratislava-Vinohrady' cuando el original solo dice 'Odb. Vinohrady' (apartadero Vinohrady)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Odb. Vinohrady' traducido como 'Estación de Bratislava-Vinohrady' en lugar de 'Apartadero Vinohrady'.",
+     "'výhybkový obvod' traducido como 'circuito de desvíos' en lugar de 'circuito de agujas'.",
+     "'panelová výpravkyňa' traducido como 'jefa de estación de mesa' en lugar de 'jefa de circulación de panel' o 'operadora de panel'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene un error de interpretación en la primera frase sobre la dirección de la ruta y el tipo de instalación (Odb. vs Estación), además de algunos términos técnicos no normalizados."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2018/SK 14.11.2018 27_BA-RaÄa.md"
+ },
+ "md-es/SK/2018/SK 16.02.2018 26_Trencin.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "sistema de tracción monofásico de corriente continua de 25 kV/50 Hz: el original dice 'jednofázovou trakčnou prúdovou sústavou', que es 'sistema de tracción monofásico de corriente alterna', no 'corriente continua'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2018/SK 16.02.2018 26_Trencin.md"
+ },
+ "md-es/SK/2019/28_Sabinov_Lipany.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "km traducido como pk (no normalizado en castellano, debería ser km o p.k.)",
+   "CV no traducido (debería ser vehículo de carretera o automóvil)",
+   "Traducción de 'upevnenie rebrové / tuhé' como 'fijación de carril rígida / sólida' no es precisa; debería ser 'fijación de costilla / rígida'.",
+   "Traducción de 'sústava železničného zvršku tvaru S49' como 'superestructura ferroviaria de forma S49' es aceptable, pero 'forma' podría ser 'perfil'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2019/28_Sabinov_Lipany.md"
+ },
+ "md-es/SK/2019/29_Krompachy.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "superestructura ferroviaria (debería ser 'infraestructura de vía' o 'superestructura de vía')",
+   "vehículos (en el contexto de vagones, debería ser 'vagones')",
+   "HKV traducido como 'locomotora' en lugar de 'vehículo ferroviario' o 'locomotora' según contexto, pero se pierde la distinción entre HKV (vehículo ferroviario) y rušeň (locomotora)",
+   "NŽST traducido como 'parada' en lugar de 'estación de carga' o 'apartadero'",
+   "výbeh traducido como 'fase de aceleración' en lugar de 'en movimiento' o 'en marcha'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2019/29_Krompachy.md"
+ },
+ "md-es/SK/2021/SK-10157 - 31_DNV_BratislavaLamač.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "priechodný prierez TK traducido como 'paso a nivel de la TK' en lugar de 'gálibo de la vía' o 'sección de paso de la vía'",
+   "vlakovej dopravy traducido como 'circulación programada de trenes' en lugar de 'tráfico ferroviario'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2021/SK-10157 - 31_DNV_BratislavaLamač.md"
+ },
+ "md-es/SK/2019/30_Bratislava hl st.md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 92.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción incorrecta de '14 KV' como '14 ejes (KV)': 'KV' significa 'vagones' (koľajové vozidlá), no 'ejes'.",
+   "Traducción incorrecta de 'nádražný' como 'jefe de estación': el término es 'factor de circulación' o 'agente de estación', no 'jefe de estación'.",
+   "Traducción incorrecta de 'vedúci posunu' como 'jefe de maniobras': el término normalizado es 'encargado de maniobras' o 'responsable de maniobras'.",
+   "Dozorca výhybiek traducido como 'Agujero de cambios' en lugar de 'Guardaagujas' o 'Vigilante de agujas'",
+   "vlakvedúca traducido como 'jefe de tren' en lugar de 'jefa de tren' (género incorrecto)",
+   "nádražný traducido como 'jefe de estación' en lugar de 'factor de estación' o 'agente de estación'"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "No se constató ninguna intervención de terceros externos en relación con la ocurrencia de este accidente."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "tope de vía (námedzník)",
+     "puesto de enclavamiento B-búda (stanovište B-búda)"
+    ],
+    "comentario": "La traducción es fiel en general, pero introduce una afirmación no presente en el original en el apartado h) y emplea términos técnicos no normalizados para 'námedzník' y 'stanovište'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2019/30_Bratislava hl st.md"
+ },
+ "md-es/SK/2023/SK-10476 - 34_Martin__Vrútky.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "DOD – estación de tráfico controlada remotamente (mejor: puesto de circulación con mando a distancia)",
+   "NAD – sustitución por autobús (mejor: servicio sustitutorio de autobús)",
+   "NPP – medios auxiliares de accidentes (mejor: medios de socorro para accidentes)",
+   "OZT – técnica de aviso y seguridad (mejor: técnica de anuncio y enclavamiento)",
+   "ÚS – Centro de Uso Especial (mejor: centro de servicio especial)",
+   "ZCP – horario de viaje en cuaderno (mejor: libro de itinerarios)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2023/SK-10476 - 34_Martin__Vrútky.md"
+ },
+ "md-es/SK/2022/SK-10234 - 32_Varin_Vrutky (002).md": {
+  "estado": "revisar",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   12,
+   15,
+   18
+  ],
+  "fidelidad_media": 88.3,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [
+   "HKV traducido como VAVT (debería ser vehículo ferroviario o material rodante, no VAVT)",
+   "traťovejkoľaji traducido como vía principal (debería ser vía de tren o vía férrea)",
+   "osoby javili známky života traducido como 'personas sin signos vitales' (debería ser 'personas presentaban signos de vida')",
+   "dvojkolesia traducido como 'ejes dobles' (debería ser 'pares de ruedas' o 'juegos de ruedas')",
+   "okolesník traducido como 'pestañón' (debería ser 'pestaña de la rueda')",
+   "podvalová skrutka traducido como 'tornillo de sujeción de la traviesa' (debería ser 'tirafondo')"
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 70,
+    "omisiones": [
+     "Falta la continuación del texto original: 'v tom čase vlak Os' (el original termina abruptamente con 'vlak Os' y la traducción también, pero la traducción omite la palabra 'vlak Os' al final).",
+     "En la pregunta 3, la traducción omite la palabra 'okrem iného' (entre otras cosas)."
+    ],
+    "invenciones": [
+     "En la pregunta 3, la traducción añade 'delante del pantógrafo' cuando el original dice 'pred sťahovačkou' (delante del tensor/aparato de tensado), no 'pantógrafo'.",
+     "En la pregunta 4, la traducción añade 'ese pantógrafo' cuando el original dice 'tú sťahovačku' (ese tensor/aparato de tensado)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "sťahovačka traducido como 'pantógrafo' en lugar de 'tensor' o 'aparato de tensado'",
+     "cestové návestidlo Lc2a traducido como 'señal de entrada Lc2a' en lugar de 'señal de vía' o 'señal de camino'"
+    ],
+    "comentario": "La traducción contiene errores terminológicos significativos ('sťahovačka' como 'pantógrafo') y omite la última palabra del fragmento original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2022/SK-10234 - 32_Varin_Vrutky (002).md"
+ },
+ "md-es/SK/2025/sk-10738 - 36_jablonov_nad_turňou.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   8,
+   14,
+   19,
+   25,
+   30
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "potrubí no traducido (debería ser 'tubería')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2025/sk-10738 - 36_jablonov_nad_turňou.md"
+ },
+ "md-es/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md"
+ },
+ "md-es/SK/2024/35_nové zámky - dvory nad žitavou.md": {
+  "estado": "aviso",
+  "idioma_origen": "SK",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   15,
+   19,
+   23
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "previsnuté trolejové vedenie traducido como 'cableado catenario congelado' (debería ser 'cableado catenario combado/cedido')",
+   "vlakvedúci traducido como 'jefe de tren' (debería ser 'conductor de tren' o 'jefe de tren' según normativa, pero el término eslovaco es 'vlakvedúci')",
+   "dispozičný výpravca traducido como 'despachador de circulación' (debería ser 'despachador de disposición' o 'despachador de turno')",
+   "panelový výpravca traducido como 'despachador de panel' (debería ser 'despachador de panel' es aceptable, pero 'panelový' se refiere al panel de control)",
+   "vonkajší výpravca traducido como 'despachador exterior' (debería ser 'despachador de andén' o 'despachador exterior' según normativa)",
+   "osobný vlak traducido como 'tren personal' (debería ser 'tren de pasajeros')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SK/2024/35_nové zámky - dvory nad žitavou.md"
+ }
+}

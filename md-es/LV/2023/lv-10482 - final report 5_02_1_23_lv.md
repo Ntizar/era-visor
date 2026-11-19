@@ -10,13 +10,14 @@ chars: 92793
 ratio_longitud: 1.18
 tokens_in: 40404
 tokens_out: 22762
-verificacion: revisar
-notas_cifras: ["bloque 3: cifras largas: 1/9", "bloque 4: cifras cortas: 1/86", "bloque 8: cifras cortas: 1/61"]
-avisos: ["bloque 4: marcadores de página: 6 vs 5"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 8: cifras largas: faltan 1/3 (33%)"]
 ---
+
 ## Página 1
+
 
 Proyecto
 INFORME FINAL DE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO GRAVE
@@ -25,8 +26,8 @@ Accidente con víctimas durante la circulación del material rodante
 El 30 de noviembre de 2023 en la estación ferroviaria de Lielvārde
 2024
 
-
 ## Página 2
+
 
 ## PARTE GENERAL
 ### La investigación se realizó de conformidad con:
@@ -46,8 +47,8 @@ Tel.: 67283093
 Dirección de correo electrónico: pasts@taiib.gov.lv
 Dirección: Brīvības iela 58, Riga, LV-1011
 
-
 ## Página 3
+
 
 ## ÍNDICE
 PARTE GENERAL ............................................................................................................................... 2
@@ -80,6 +81,7 @@ b) Descripción fáctica de los acontecimientos ................................
 
 ## Página 4
 
+
 a) Funciones y responsabilidades .............................................................................................................. 19 
 1. Empresa ferroviaria de transporte y/o gestor de infraestructura ................................ 19 
 2. Unidad(es) estructural(es) responsable(s) del mantenimiento, talleres de mantenimiento y/u otros proveedores de servicios de mantenimiento ..................................................................................................................... 21 
@@ -104,10 +106,10 @@ d) Mecanismos de retroalimentación y control, incluida la gestión de riesgos y
 5. Resultados de la supervisión realizada por las autoridades nacionales de seguridad conforme al artículo 17 de la Directiva (UE) 2016/798 ............................................................................. 30 
 6. Permisos y certificados otorgados por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad, e informes de evaluación elaborados ....................................................... 32 
 7. Otros factores sistémicos ................................................................................................................... 32 
-e) Incidentes similares anteriores, si los hubiera .................................................................................... 32 
-
+e) Incidentes similares anteriores, si los hubiera .................................................................................... 32
 
 ## Página 5
+
 
 5. Conclusiones ......................................................................................................................................... 33 
 a) Resumen del análisis y conclusiones sobre las causas del accidente .......................................... 33 
@@ -116,6 +118,7 @@ c) Observaciones adicionales ...................................................
 6. Recomendaciones de seguridad ............................................................................................................................ 38
 
 ## Página 6
+
 
 ## ABREVIATURAS Y EXPLICACIÓN DE TÉRMINOS
 ### Abreviaturas
@@ -137,8 +140,8 @@ c) Observaciones adicionales ...................................................
 | Señal | Orden o indicación visible o audible específica que es vinculante para los trabajadores ferroviarios y otras personas que se encuentran en la franja de terreno ferroviario o participan directamente en el tráfico ferroviario |
 De conformidad con lo establecido en el Reglamento de Ejecución (UE) 2020/572 de la Comisión (de 24 de abril de 2020) «relativo a la estructura del informe que debe respetarse en los informes de investigación de accidentes e incidentes ferroviarios», en este Informe Final se ha observado el siguiente principio: si la información correspondiente no está disponible, no se solicita debido a las circunstancias del accidente, no es vinculante o su contenido no es relevante para la investigación, se añade una nota «no aplicable» en las secciones o subsecciones correspondientes, indicando que no se considera esencial en el contexto de esta investigación concreta. Esta nota puede indicarse respecto a toda la sección o subsección al principio o al final de la misma.
 
-
 ## Página 7
+
 
 # 1. Resumen
 El accidente de tráfico ferroviario (en adelante, «accidente») ocurrió el 30 de noviembre de 2023 a las 10:14 en la estación ferroviaria de Lielvārde (en adelante, «estación de Lielvārde»), cuando un trabajador de la Dirección de Vías de la sociedad anónima estatal «Latvijas dzelzceļš» fue mortalmente herido por un tren diésel de AS «Pasažieru vilciens» (en adelante, «Trabajador»).
@@ -153,27 +156,26 @@ Todos los factores mencionados y su contexto se detallan más ampliamente en la 
 Como resultado de la investigación, se elaboraron tres recomendaciones de seguridad. Las recomendaciones de seguridad se refieren a las causas del accidente y a otras observaciones.
 Las recomendaciones de seguridad incluyen propuestas en las siguientes áreas:
 
-
 ## Página 8
 
 • 
-Documentación de mantenimiento de vías;  
+documentación de mantenimiento de las vías;  
 • 
-Equipamiento de los trenes de pasajeros. 
+equipamiento de los trenes de pasajeros. 
 ## 2. Investigación y su contexto 
-### 2.1. Decisión de iniciar la investigación  
+### 2.1. Decisión de realizar la investigación  
 La investigación se inició el 1 de diciembre de 2023, tras evaluar la Oficina de Investigación las circunstancias del accidente y teniendo en cuenta la gravedad del mismo.  
-### 2.2. Fundamento de la decisión  
+### 2.2. Justificación de la decisión  
 La decisión de iniciar la investigación se adoptó basándose en el punto 23 del Reglamento del Consejo de Ministros n.º 334. 
-### 2.3. Ámbito y limitaciones de la investigación 
-La investigación se llevó a cabo para determinar todas las causas y consecuencias del accidente de tráfico ferroviario, y también, si fuera necesario, para formular recomendaciones destinadas a prevenir accidentes similares de tráfico ferroviario. 
-En la toma de sus decisiones, la Oficina de Investigación es independiente del gestor de la infraestructura ferroviaria, del operador y del organismo de control y supervisión técnica de la explotación ferroviaria, así como del organismo responsable de establecer y recaudar las tasas por el uso de la infraestructura ferroviaria, de asignar la capacidad de la infraestructura ferroviaria o de ejercer la administración pública en el ámbito del transporte ferroviario, y de las personas cuyos intereses puedan entrar en conflicto con las tareas de la Oficina de Investigación. 
+### 2.3. Alcance y limitaciones de la investigación 
+Se realizó la investigación para determinar todas las causas y consecuencias del accidente de tráfico ferroviario y, asimismo, para formular, si fuera necesario, recomendaciones destinadas a prevenir accidentes similares de tráfico ferroviario. 
+En la adopción de sus decisiones, la Oficina de Investigación es independiente del gestor de la infraestructura ferroviaria, del transportista y del organismo de control y supervisión de la explotación técnica ferroviaria, así como del organismo responsable de establecer y recaudar las tasas por el uso de la infraestructura ferroviaria, de asignar la capacidad de la infraestructura ferroviaria o de ejercer la administración pública en el ámbito del transporte ferroviario, y de las personas cuyos intereses puedan entrar en conflicto con las funciones de la Oficina de Investigación. 
 El objetivo principal de la investigación es llevar a cabo una investigación técnica del accidente de tráfico ferroviario y prevenir accidentes similares, mejorando así la seguridad de la circulación en el transporte ferroviario. 
-### 2.4. Descripción resumida de las competencias técnicas y funciones del grupo de investigadores  
-La investigación fue realizada por Aleksandrs Dmitrijevs, investigador de la Sección de Investigación de Accidentes Ferroviarios de la Oficina de Investigación. 
-Los derechos de los investigadores están establecidos en el artículo 33¹ de la Ley Ferroviaria.  
+### 2.4. Descripción resumida de las competencias técnicas y funciones del equipo investigador  
+La investigación fue realizada por Aleksandrs Dmitrijevs, investigador del Departamento de Investigación de Accidentes Ferroviarios de la Oficina de Investigación.  
+Los derechos de los investigadores están establecidos en el artículo 33¹ de la Ley del Ferrocarril.  
 Durante la investigación se examinó la siguiente documentación: 
-Dokumentación preparada por el gestor de la infraestructura ferroviaria y el operador
+• Documentación sobre el accidente preparada por el gestor de la infraestructura ferroviaria y
 
 ## Página 9
 
@@ -182,72 +184,90 @@ materiales de investigación;
 *   planes y registros de formación técnica del personal;
 *   instrucciones de mantenimiento técnico de las vías;
 *   sistema de gestión de la seguridad, certificados de seguridad, etc.
+
 ### 2.5. Comunicación y consulta con las personas o entidades implicadas en el accidente
+
 Durante la investigación se procedió a precisar y consultar la información obtenida con las personas y organizaciones implicadas en el accidente:
-- Administración pública anónima (Valsts a/s) „Latvijas dzelzceļš”, Dirección de Circulación de Trenes;
-- Administración pública anónima (Valsts a/s) „Latvijas dzelzceļš”, Dirección de Vías;
-- Sociedad Anónima (AS) “Pasažieru vilciens”, Departamento Técnico.
+-   Dirección de Movimiento de Trenes de la sociedad anónima estatal „Latvijas dzelzceļš“;
+-   Dirección de Vías de la sociedad anónima estatal „Latvijas dzelzceļš“;
+-   Departamento Técnico de la sociedad anónima “Pasažieru vilciens”.
+
 Para garantizar la posibilidad de emitir dictámenes, comentarios y expresar opiniones sobre la información indicada en el proyecto, este proyecto de informe final de investigación del accidente fue presentado a:
  - VDzTI;
- - Administración pública anónima (Valsts a/s) „Latvijas dzelzceļš”;
- - Sociedad Anónima (AS) “Pasažieru vilciens”.
-### 2.6. Descripción del nivel de cooperación proporcionado por las entidades implicadas
-Según la información presentada a la Oficina de Investigación por parte de las personas y organizaciones implicadas, para esclarecer todas las circunstancias del accidente, la Administración pública anónima (Valsts a/s) „Latvijas dzelzceļš” y la Sociedad Anónima (AS) “Pasažieru vilciens” también llevaron a cabo una investigación, elaborando medidas y recomendaciones para mejorar la seguridad de la circulación de trenes y la protección laboral (acta de la reunión operativa n.º SCP-2.27/21 de la Dirección de Vías de la Administración pública anónima (Valsts a/s) „Latvijas dzelzceļš” de fecha 6 de diciembre de 2023, revisión de la investigación del accidente grave de fecha 3 de enero de 2024, dictamen del Departamento Técnico de la Sociedad Anónima (AS) “Pasažieru vilciens” de fecha 25 de diciembre de 2023).
-2.7. Descripción de los métodos y técnicas de investigación, así como de los métodos de análisis utilizados para determinar los hechos y hallazgos mencionados en el informe
-Durante la investigación se examinaron los sistemas de gestión de la seguridad del Gestor de Infraestructura y del Transportista, la documentación relativa al mantenimiento de las vías, las características técnicas del automotor diésel, el extracto detallado de la lectura de los parámetros de movimiento del tren de pasajeros, las descripciones de puestos y explicaciones del personal implicado, y las instrucciones de protección laboral. Se utilizaron los siguientes métodos de investigación:
-*   examen del lugar del accidente;
-*   entrevistas al personal;
-*   examen y análisis de la documentación.
-Todos los datos fácticos que reflejan los acontecimientos y las circunstancias que provocaron este accidente se exponen con mayor detalle en la sección 3 del Informe Final.
-### 2.8. Descripción de las dificultades y problemas específicos surgidos durante la investigación
-En el proceso de investigación, las organizaciones e instituciones estatales implicadas cooperaron con la Oficina de Investigación, proporcionando operativamente la información solicitada.
-Sin embargo, al realizar la investigación, la Oficina de Investigación no pudo utilizar las grabaciones de las cámaras de videovigilancia, ya que en el sistema de videovigilancia instalado en la estación ferroviaria de Lielvārde de la Administración pública anónima (Valsts a/s) “Latvijas dzelzceļš” no es visible el lugar del accidente.
-Además, la Oficina de Investigación no pudo recibir durante un largo periodo de tiempo la explicación del montador de vías (señalero) sobre las circunstancias del accidente, dado que al trabajador se le había expedido un parte de incapacidad laboral desde el 30 de noviembre de 2023. Tras la enfermedad, interrumpió su relación laboral con LDZ.
-### 2.9. Cooperación con las autoridades encargadas de hacer cumplir la ley
-En el lugar del accidente, el investigador de la Oficina de Investigación contactó con los agentes de la Policía Estatal.
-Se envió a la Policía Estatal la notificación oficial sobre el inicio de la investigación realizada por la Oficina de Investigación.
+ - La sociedad anónima estatal „Latvijas dzelzceļš“;
+ - La sociedad anónima “Pasažieru vilciens”.
 
+### 2.6. Descripción del nivel de cooperación proporcionado por las entidades implicadas
+
+De conformidad con la información presentada a la Oficina de Investigación por parte de las personas y organizaciones implicadas, para esclarecer todas las circunstancias del accidente, la sociedad anónima estatal „Latvijas dzelzceļš“ y la sociedad anónima “Pasažieru vilciens” también llevaron a cabo una investigación, elaborando medidas y recomendaciones para mejorar la seguridad de la circulación de los trenes y la protección laboral (acta de la reunión operativa n.º SCP-2.27/21 de la Dirección de Vías de la sociedad anónima estatal „Latvijas dzelzceļš“, de 6 de diciembre de 2023; revisión de la investigación de un accidente grave, de 3 de enero de 2024; dictamen del Departamento Técnico de la sociedad anónima “Pasažieru vilciens”, de 25 de diciembre de 2023).
+
+2.7. Descripción de los métodos y técnicas de investigación, así como de los métodos de análisis utilizados para determinar los hechos y hallazgos mencionados en el informe
+
+Durante la investigación se examinaron los sistemas de gestión de la seguridad del Gestor de Infraestructura y del Transportista, la documentación relativa al mantenimiento de las vías, las características técnicas del automotor diésel, el extracto detallado de la lectura de los parámetros de movimiento del tren de pasajeros, los
 
 ## Página 10
 
-## 3. Descripción del accidente
-### a) El accidente y la información básica
-### 3.1. Descripción del tipo de accidente
-Conforme al apartado 10.4. del Reglamento del Consejo de Ministros n.º 334, este accidente se clasifica como “Accidente grave”.
-### 3.2. Fecha, hora exacta y lugar de ocurrencia del accidente
-El accidente tuvo lugar el 30 de noviembre de 2023 a las 10.14 horas en la estación ferroviaria de Lielvārde, junto al desvío n.º 3 (véanse figs. 1.-3.). Coordenadas GPS (aprox.) - 56.720423, 24.822438 (Google maps).
-Estación ferroviaria Lielvārde
-Lugar del accidente
-Fig. 1. Lugar del accidente
-
+descripciones de puestos y explicaciones de los empleados, instrucciones de protección laboral. Se utilizaron los siguientes métodos de investigación:
+*   examen del lugar del accidente;
+*   entrevistas al personal;
+*   estudio y análisis de la documentación.
+Todos los datos fácticos que reflejan los acontecimientos y las circunstancias que provocaron este accidente se detallan en la sección 3 del Informe Final.
+### 2.8. Descripción de las dificultades y problemas específicos surgidos durante la investigación
+Las organizaciones e instituciones estatales implicadas en el proceso de investigación cooperaron con la Oficina de Investigación, proporcionando operativamente la información solicitada.
+Sin embargo, al realizar la investigación, la Oficina de Investigación no pudo utilizar las grabaciones de las cámaras de videovigilancia, ya que el lugar del accidente no es visible en el sistema de videovigilancia instalado en la estación de Lielvārde de la sociedad anónima estatal «Latvijas dzelzceļš».
+Además, la Oficina de Investigación no pudo recibir durante mucho tiempo la explicación del montador (señalero) de vías sobre las circunstancias del accidente, ya que al empleado se le había expedido un certificado de incapacidad laboral a partir del 30 de noviembre de 2023. Tras la enfermedad, interrumpió su relación laboral con LDZ.
+### 2.9. Cooperación con las autoridades encargadas de hacer cumplir la ley
+En el lugar del accidente, el investigador de la Oficina de Investigación contactó con los funcionarios de la Policía Estatal.
+Se envió a la Policía Estatal una comunicación oficial sobre el inicio de la investigación realizada por la Oficina de Investigación.
 
 ## Página 11
 
-Fig. 2. Esquema de la estación ferroviaria de Lielvārde (con la ubicación del desvío n.º 3)
-
+## 3. Descripción del accidente 
+### a) Accidente e información básica 
+### 3.1. Descripción del tipo de accidente 
+De conformidad con el apartado 10.4. de las Reglas del Consejo de Ministros n.º 334, este accidente se clasifica como «Accidente grave».  
+### 3.2. Fecha, hora exacta y lugar del accidente  
+El accidente tuvo lugar el 30 de noviembre de 2023 a las 10:14 en la estación ferroviaria de Lielvārde, junto al desvío n.º 3 (véanse figs. 1 - 3). Coordenadas GPS (aprox.) - 56.720423, 24.822438 (Google maps). 
+Estación 
+ferroviaria 
+Lielvārde 
+Lugar del 
+accidente 
+Fig. 1. Lugar del accidente
 
 ## Página 12
 
-Fig. 3. Esquema del lugar del accidente
-
+2.º anexo. Esquema de la estación ferroviaria de Lielvārde (con la ubicación del desvío n.º 3)
 
 ## Página 13
 
-### 3.3. Descripción del lugar del accidente, indicando las condiciones meteorológicas y geográficas en el momento del accidente, y si se realizaron trabajos en el lugar del accidente o en sus proximidades
-Según los datos de la estación de observación Skrīveri* del Centro Letón de Medio Ambiente, Geología y Meteorología, el 30 de noviembre de 2023, en el periodo comprendido entre las 9.00 y las 12.00 horas, las condiciones meteorológicas en la estación ferroviaria de Lielvārde fueron las siguientes:
-| Hora | Temperatura media del aire por hora ºC | Velocidad media del viento por hora m/s | Dirección media del viento por hora, rumbo | Humedad relativa media del aire por hora % | Visibilidad meteorológica media por hora m | Precipitación total por hora mm** |
+3.att. Esquema del lugar del accidente
+
+## Página 14
+
+### 3.3 Descripción del lugar del accidente, indicando las condiciones meteorológicas y geográficas en el momento del accidente, y si se realizaron trabajos en el lugar del accidente o en sus proximidades
+Según los datos de la estación de observación Skrīveri* del Centro Letón de Medio Ambiente, Geología y Meteorología, el 30 de noviembre de 2023, en el periodo comprendido entre las 9:00 y las 12:00, las condiciones meteorológicas en la estación ferroviaria de Lielvārde fueron las siguientes: 
+Hora 
+Media horaria de temperatura del aire ºC 
+Media horaria de velocidad del viento m/s 
+Media horaria de dirección del viento, rumbo 
+Media horaria de humedad relativa del aire % 
+Media horaria de visibilidad meteorológica m 
+Cantidad total de precipitaciones por hora, mm** 
+| Hora Media horaria de temperatura del aire ºC | Media horaria de velocidad del viento m/s | Media horaria de dirección del viento, rumbo | Media horaria de humedad relativa del aire % | Media horaria de visibilidad meteorológica m | Cantidad total de precipitaciones por hora, mm** |
 | 9 00 10 00 65 . - . - , | 1 6 , | R | 92 | 2250 | 0 4/0 3 , , |
 | 10 00 11 00 63 . - . - , | 1 6 , | R | 92 | 9792 | /0 1 - , |
 | 11 00 12 00 61 . - . - , | 1 6 , | R | 91 | 9197 | / - - |
-* estación de observación meteorológica más cercana a la estación ferroviaria de Lielvārde;
-** datos de la estación de observación Skrīveri / datos de la estación de observación Lielpeči;
- - no hubo precipitaciones o estas fueron inferiores a 0,1 mm.
-La situación actual de las condiciones meteorológicas en la naturaleza se muestra en la Fig. 4.
-Fig. 4. Condiciones meteorológicas durante la inspección del lugar del accidente
-(foto tomada el día del accidente alrededor de las 14.00 horas)
-En el lugar del accidente se realizaron trabajos de limpieza de nieve del desvío. No se realizaron otros trabajos de reparación de vía ni trabajos en las proximidades que pudieran haber sido factores contribuyentes a la ocurrencia del accidente.
+* Estación de observación meteorológica más cercana a la estación ferroviaria de Lielvārde; 
+** Datos de la estación de observación Skrīveri / datos de la estación de observación Lielpeči; 
+ - No hubo precipitaciones o estas fueron inferiores a 0,1 mm. 
+La situación actual de las condiciones meteorológicas sobre el terreno se muestra en la figura 4. 
+Figura 4. Condiciones meteorológicas durante la inspección del lugar del accidente 
+(foto tomada el día del accidente alrededor de las 14:00) 
+En el lugar del accidente se realizaron trabajos de limpieza de nieve en el cambio de vía. No se realizaron otros trabajos de reparación de la vía ni trabajos en las proximidades que pudieran haber sido factores contribuyentes a la ocurrencia del accidente.
 
 ## Página 15
+
 
 ### 3.4. Personas fallecidas, heridos y pérdidas materiales
 Como resultado de este accidente falleció un empleado del Departamento de Vías de la sociedad anónima estatal “Latvijas dzelzceļš” (montador de vías).
@@ -266,8 +286,8 @@ Tren diésel fabricado en 1990 en la Fábrica de Vagones de Riga.
 La última reparación principal (GR) de los vagones se realizó el 30 de noviembre de 2022.
 La última reparación corriente (TR-1) de los vagones se realizó el 22 de noviembre de 2023.
 
-
 ## Página 16
+
 
 Según el extracto de decodificación de los parámetros de movimiento de este tren, en la estación de Daugavpils antes de la salida en servicio se realizó una inspección de los frenos electropneumáticos y neumáticos. El tren salió de la estación de Daugavpils a las 7.42. Se realizó una inspección de frenos en ruta en el punto establecido.
 A las 10.13 en la estación de Lielvārde, km 53, hito 7, se realizó un frenado brusco a una velocidad de 80 km/h. Distancia de frenado 844 m. No se superaron las velocidades establecidas mediante órdenes y advertencias.
@@ -300,8 +320,8 @@ Tramo Skrīveri – Lielvārde, vía impar:
 -balasto de grava granítica;
 -sujeciones SKL-14;
 
-
 ## Página 17
+
 
 -velocidad máxima permitida para trenes de pasajeros 120 km/h, para trenes de mercancías 80 km/h;
 -a 400 m de distancia de la aguja N.º 3 hacia el lado de la estación de Skrīveri - curva con radio de 1846 m.
@@ -318,6 +338,7 @@ El tren era atendido por un maquinista solo, sin ayudante de maquinista.
 
 ## Página 18
 
+
 De la explicación del maquinista se desprende que, al aproximarse el tren a la estación de Lielvārde y salir de la curva de la vía, vio repentinamente a dos operarios de vía que estaban limpiando de nieve el desvío n.º 3. Un operario se encontraba junto al carril derecho, de espaldas al tren, vestido con un chaleco reflectante naranja y llevando una sopladora de hojas a la espalda. El otro operario estaba unos metros más allá y limpiaba el desvío con ayuda de una herramienta manual. Al ver esto, el maquinista del automotor diesel comenzó a emitir continuamente una señal acústica fuerte y realizó una frenada de emergencia. Ninguno de los dos operarios reaccionó a la señal acústica. El operario que se encontraba junto al carril izquierdo saltó en el último momento desde el desvío hacia la izquierda. Debido a la alta velocidad y a la corta distancia, no fue posible evitar atropellar al operario que se encontraba junto al carril derecho.
 El montador de vías, que desempeñaba las funciones de guardagujas, explicó que la nieve en la zona del desvío n.º 3 estaba compactada y que resultaba difícil limpiar ciertas zonas con la sopladora de hojas de gasolina, por lo que decidió ayudar al otro operario y comenzó a limpiar las cajas de aguja del desvío con una pala. Tras trabajar durante aproximadamente cinco minutos, vio un tren que se acercaba rápidamente y que estaba muy cerca del trabajador, saltó de las vías y no tuvo tiempo de advertirle del peligro.
 A este respecto, la Oficina de Investigación elaboró una recomendación de seguridad (véase sección 6, recomendación n.º 2024-1).
@@ -328,8 +349,8 @@ El despachador de trenes dio instrucciones a la jefa de circulación de la estac
 La jefa de circulación de la estación notificó inmediatamente lo ocurrido al jefe de sección de vía y a las 10:35 h se había informado al jefe de estación. Tras coordinar con el despachador de trenes y con el maquinista del tren de pasajeros n.º 817M, la señal de salida de la estación desde la vía principal I se cambió a aspecto prohibitivo; el tren quedó retenido para esclarecer las circunstancias del accidente.
 Tras obtener la autorización de un agente de la Policía Nacional, el tren de pasajeros n.º 817M fue enviado de nuevo. Tiempo de retención: 90 min.
 
-
 ## Página 19
+
 
 ## 4. Análisis del accidente
 ### a) Funciones y obligaciones
@@ -353,6 +374,7 @@ Dichos empleados debían cumplir los requisitos de la Instrucción n.º C-002 de
 
 ## Página 20
 
+
 - 1.4.p. “Para garantizar la delimitación de los puestos de trabajo y la seguridad de los trabajadores y del movimiento de los trenes, LDZ designa señaleros. Los señaleros pueden ser empleados de LDZ a quienes se haya realizado una comprobación de conocimientos en el orden establecido, se les haya expedido un certificado de especialista ferroviario y tengan constancia de que pueden desempeñar las funciones de señalero.”
 - 6.1.p. “Al realizar trabajos de mantenimiento de vías y desvíos, independientemente de si el puesto de trabajo debe delimitarse con señales de parada o no, se instala una señal de parada en el puesto de trabajo”.
 - 15.p. Procedimiento para recibir trenes
@@ -365,8 +387,8 @@ Durante la investigación se constató que, al organizar y ejecutar la limpieza 
 19.p. ”En las estaciones bajo la dirección del ... jefe de estación, antes de la limpieza de los desvíos, el jefe directo de los trabajos ... realiza una anotación en el “Diario de inspección de vías, desvíos, señalización, enclavamiento, bloqueo, comunicaciones y catenaria” sobre el tipo y lugar de trabajo, hora de ejecución de los trabajos ... ”;
 26.p. “El señalero de la Dirección de Vías debe llevar consigo señales manuales de color rojo y amarillo (banderines y/o linternas), silbato de señal y un juego de petardos; vigila el movimiento de los trenes e informa a los empleados sobre la aproximación de los trenes.”
 
-
 ## Página 21
+
 
 - instrucción n.º CPDA-24:
 - 15.p. “No está permitido trabajar en las vías con un soplador de hojas de gasolina sin la presencia de un señalero”;
@@ -390,6 +412,7 @@ Dado que los factores causales, contribuyentes y las consecuencias del accidente
 
 ## Página 22
 
+
 Uno de los principales factores humanos que influyen en el trabajo del señalero es la atención y la concentración. Los señeros deben prestar atención continua a diversas indicaciones e informaciones. Incluso una leve distracción puede provocar una actuación incorrecta del señalero o retrasos, lo cual puede afectar a la seguridad de la circulación ferroviaria.
 Los factores humanos deben tenerse en cuenta al garantizar a los señeros una formación adecuada, descansos periódicos y apoyo en situaciones de estrés, para mejorar la seguridad de la circulación ferroviaria y las condiciones de trabajo del personal.
 Durante la investigación del accidente se estudiaron detalladamente los factores que pudieron influir en la aparición de las trágicas consecuencias, a saber:
@@ -401,8 +424,8 @@ El maquinista del automotor diésel superó con éxito los exámenes profesional
 De acuerdo con los factores ambientales nocivos para la salud establecidos en la evaluación de riesgos del entorno laboral (radiación natural si el trabajo se realiza bajo el sol, ruido (de 80 a 85 db(A)), vibración mano-brazo, vibración de todo el cuerpo, transporte de cargas pesadas, levantamiento, permanencia en posturas forzadas, tensión muscular, movimientos monótonos frecuentes y repetitivos, trabajo nocturno) y las circunstancias especiales, los empleados habían pasado el reconocimiento médico periódico con la calificación de "estado de salud apto para el trabajo a realizar" (reconocimientos realizados el 10 de octubre de 2023 y el 3 de abril de 2023, respectivamente). La antigüedad en los puestos es de seis años y cinco años y once meses, respectivamente.
 Al maquinista del automotor diésel se le realizó el reconocimiento médico pre-turno el 29 de noviembre de 2023 en la Estación Ferroviaria de Pasajeros de Riga y el 30 de noviembre de 2023 en la Estación Ferroviaria de Daugavpils.
 
-
 ## Página 23
+
 
 La fatiga no pudo ser causa del accidente, ya que este ocurrió al inicio de la jornada laboral, tras un descanso de 15 y 14 horas para el ejecutor de trabajos y el señalero, respectivamente. El maquinista del automotor diésel tuvo un descanso de 24 horas antes del inicio del turno y un descanso breve en el puesto de trabajo de 8,1 horas.
 ### 2. Factores laborales
@@ -416,8 +439,8 @@ Para los mencionados empleados está prevista una semana laboral de 5 días, per
 El ejecutor de trabajos utilizó un soplador de hojas de gasolina Husqvarna 580BTS para limpiar el cambio de agujas de nieve (véase fig. 5).
 Fig. 5. Soplador de hojas de gasolina Husqvarna 580BTS
 
-
 ## Página 24
+
 
 Conforme a los requisitos del Manual de Usuario del Soplador, el usuario del soplador debe garantizar que no haya personas ni animales a menos de 15 metros del lugar de trabajo.
 En relación con esto, la Oficina de Investigación elaboró una recomendación de seguridad (véase sección 6, recomendación n.º 2024-2).
@@ -439,6 +462,7 @@ Otros documentos rectores del marco jurídico:
 • Reglamento de Ejecución (UE) 2020/572 de la Comisión, de 24 de abril de 2020, relativo a
 
 ## Página 25
+
 
 la estructura del informe que debe respetarse en los informes de investigación de accidentes e incidentes ferroviarios.
 2. Los procesos, métodos, contenido y resultados de las actividades de evaluación y supervisión de riesgos realizadas por los participantes implicados –empresas de transporte ferroviario, gestores de infraestructura–, y los informes de evaluación independiente mencionados en el artículo 6 del Reglamento de Ejecución (UE) n.º 402/2013 de la Comisión (1).
@@ -462,8 +486,8 @@ Para los empleados implicados en el accidente (montadores de vía), los posibles
 3.4. Factores químicos:
 3.4.1. Sustancias y mezclas químicas (contacto con la piel, irritación de otras partes del cuerpo).
 
-
 ## Página 26
+
 
 3.5. Factores psicológicos y emocionales:
 3.5.1. Tiempo de trabajo y descanso (el trabajo durante el período invernal está organizado en turnos).
@@ -476,6 +500,7 @@ c) en la preparación del VRS para la explotación, la realización de mantenimi
 
 ## Página 27
 
+
 d) en el mantenimiento del sistema de gestión de la seguridad – descripciones de los procesos tecnológicos; elaboración, actualización y perfeccionamiento de instrucciones, procedimientos, manuales, etc.;
 e) en el trabajo con el personal de AS „Pasažieru vilciens” – formación teórica y práctica de los empleados, instrucciones, verificación de conocimientos profesionales y competencias; medidas de protección laboral, incluida la comprobación del estado de salud de los empleados (aptitud para el puesto de trabajo); mantenimiento de los documentos que acreditan las competencias de los empleados; análisis de la organización del trabajo y de los factores humanos; entrevistas individuales y consultas con el personal, dando prioridad a los empleados que desempeñan funciones esenciales para la seguridad del tráfico;
 f) en la gestión de riesgos – identificación y evaluación de riesgos (amenazas);
@@ -483,8 +508,8 @@ g) en la investigación de incidentes y otros accidentes que afecten negativamen
 h) en la realización de informes, reportajes y auditorías – evaluación periódica del nivel de seguridad en comparación con los objetivos de seguridad establecidos por AS „Pasažieru vilciens” y/o a nivel de los Estados miembros; análisis de la eficacia de las nuevas medidas de seguridad introducidas; verificación del cumplimiento de los procesos definidos por el sistema de gestión de la seguridad y de su vigencia. Cada empleado de AS „Pasažieru vilciens” involucrado en la supervisión interna de la seguridad del tráfico debe detectar lo antes posible los casos relacionados con una aplicación inadecuada del sistema de gestión de la seguridad, como resultado de los cuales podrían producirse accidentes, infracciones de la seguridad del tráfico, incidentes, aproximaciones peligrosas u otras amenazas a la seguridad del tráfico. Si, al realizar la supervisión interna de la seguridad del tráfico, se detectan incumplimientos de los procesos establecidos por el Sistema, los empleados responsables de AS „Pasažieru vilciens” deben elaborar un plan de medidas e implementar acciones que eliminen los casos de incumplimiento y las amenazas a la seguridad del tráfico.
 Cualquier empleado de AS „Pasažieru vilciens” tiene la posibilidad de presentar un informe sobre una amenaza a la seguridad del tráfico, ya sea cometida por él mismo o por otro empleado. El empleado presenta este informe a su superior directo. Al recibir el informe, el superior evalúa si es competente para eliminar la amenaza y, si no lo es, transmite el informe para su posterior examen en el marco del proceso de gestión de riesgos. La amenaza se analiza, se evalúa y, si es necesario, se perfeccionan los procesos de gestión de la seguridad del tráfico y de supervisión interna. Al evaluar una amenaza a la seguridad del tráfico, se evalúa la conducta del empleado. Si se determina que el empleado ha infringido el reglamento laboral o el contrato de trabajo establecido, incluido el incumplimiento adecuado de sus obligaciones laborales, se le puede imponer una sanción disciplinaria conforme al procedimiento establecido en la Ley Laboral. Que el propio empleado haya informado sobre una amenaza a la seguridad del tráfico y/o haya intentado eliminar las consecuencias de dicha amenaza, se tendrá en cuenta al determinar el grado de responsabilidad del empleado.
 
-
 ## Página 28
+
 
 3.2. Para el gestor de infraestructura - existe un Sistema de Gestión de la Seguridad aprobado mediante la Orden n.º D-1.14./129-2020 de VAS „Latvijas dzelzceļš” de fecha 21 de abril de 2020.
 Para la supervisión del estado de la seguridad del tráfico, de conformidad con la «Política de Seguridad del Tráfico» del grupo empresarial „Latvijas dzelzceļš”, está aprobado el Sistema de Supervisión Interna de la Seguridad del Tráfico. Este sistema es un conjunto periódico de medidas preventivas para la supervisión y mejora del estado de la seguridad del tráfico. El Sistema de Supervisión Interna de la Seguridad del Tráfico se ha elaborado para definir los procedimientos mínimos de supervisión de la seguridad del tráfico y de elevación del nivel de seguridad, teniendo en cuenta el principio de asegurar controles multinivel, y distribuir la responsabilidad entre los directivos de LDZ de distintos niveles. Los principales instrumentos del sistema son: revisión del estado de la seguridad del tráfico, inspecciones de la infraestructura ferroviaria, diversas comprobaciones, auditorías técnicas de las estructuras establecidas de LDZ, formación técnica de especialistas ferroviarios, instrucciones de seguridad del tráfico. El Sistema de Supervisión Interna de la Seguridad del Tráfico define la importancia fundamental (objetivo), la periodicidad y las personas responsables (ejecutores) de la realización de los procedimientos. Todos los procedimientos del Sistema de Supervisión Interna de la Seguridad del Tráfico se documentan según el orden establecido.
@@ -503,6 +528,7 @@ material rodante bajo la propiedad de LDZ;
 distribución de deberes y funciones;
 
 ## Página 29
+
 
 - 
  Política de seguridad del tráfico de LDZ; 
@@ -532,10 +558,10 @@ Procedimientos que determinan la organización de los trabajos de eliminación d
 - Realización de auditorías internas periódicas del sistema de gestión de la seguridad. 
 De conformidad con el apartado 6 de este Sistema (extracto): 
 LDZ debe garantizar la seguridad del tráfico ferroviario conforme a los requisitos del artículo 36 de la Ley Ferroviaria. 
-LDZ lo garantiza respetando las Normas Técnicas de Explotación Ferroviaria, las especificaciones técnicas de interoperabilidad relativas a la provisión y dirección del tráfico, el método común de supervisión de la seguridad que deben aplicar las empresas de transporte ferroviario, los gestores de infraestructura tras la obtención del certificado de seguridad o de la autorización de seguridad y las unidades estructurales responsables del mantenimiento técnico, el método común de seguridad para la identificación y evaluación del riesgo, y el método común de seguridad para evaluar la conformidad con los requisitos para obtener la autorización de seguridad ferroviaria.  
-
+LDZ lo garantiza respetando las Normas Técnicas de Explotación Ferroviaria, las especificaciones técnicas de interoperabilidad relativas a la provisión y dirección del tráfico, el método común de supervisión de la seguridad que deben aplicar las empresas de transporte ferroviario, los gestores de infraestructura tras la obtención del certificado de seguridad o de la autorización de seguridad y las unidades estructurales responsables del mantenimiento técnico, el método común de seguridad para la identificación y evaluación del riesgo, y el método común de seguridad para evaluar la conformidad con los requisitos para obtener la autorización de seguridad ferroviaria.
 
 ## Página 30
+
 
 El objetivo fundamental de la seguridad del tráfico de LDZ es mejorar cada año la situación de la seguridad del tráfico y evitar su deterioro. Para garantizar el logro del objetivo, las estructuras implicadas en el proceso de gestión de la seguridad de LDZ elaboran y aprueban cada año planes de medidas para mejorar la situación de la seguridad del tráfico. Los planes de medidas se elaboran teniendo en cuenta la situación general de la seguridad del tráfico, los indicadores de rendimiento de LDZ, las causas de los accidentes ferroviarios ocurridos, las infracciones y deficiencias detectadas durante las revisiones e inspecciones, los indicadores técnicos del estado de la infraestructura ferroviaria, las previsiones de desarrollo y las posibilidades financieras. 
 4. Sistema de gestión de las unidades estructurales responsables del mantenimiento y de los talleres de mantenimiento, incluidas las funciones establecidas en el apartado 3 del artículo 14 y en el anexo III de la Directiva (UE) 2016/798 y en todos los actos de ejecución posteriores 
@@ -550,6 +576,7 @@ Para garantizar una supervisión adecuada, VDzTI ha definido su enfoque estraté
 
 ## Página 31
 
+
 constructores, reparadores y operadores de la infraestructura ferroviaria, constructores, reparadores y operadores del material rodante, así como empresas cuya actividad esté relacionada con el transporte de mercancías peligrosas.
 La VDzTI supervisa a los participantes del sistema ferroviario desde el momento en que se les ha otorgado el certificado único de seguridad, el certificado de la unidad organizativa responsable del mantenimiento técnico o se les ha expedido un permiso de seguridad. La VDzTI verifica cómo las organizaciones cumplen permanentemente sus obligaciones conforme al sistema de gestión de la seguridad mencionado en el artículo 36.5 de la Ley del Ferrocarril. En la supervisión del rendimiento y la eficacia de los sistemas de gestión de la seguridad, la VDzTI aplica los requisitos establecidos en el Reglamento (UE) 2018/762 de la Comisión. En la evaluación de los sistemas de gestión de la seguridad, la VDzTI aplica un modelo de madurez, mientras que en las inspecciones las evaluaciones se estructuran según las no conformidades, para ayudar a los participantes del sistema ferroviario a comprender qué acciones se esperan de ellos (incluido lo que deberían o no deberían hacer) y qué acciones pueden esperar de la VDzTI.
 En los procesos de supervisión, la VDzTI también aplica el análisis de accidentes de tráfico ferroviario y la identificación de riesgos. La VDzTI realiza una revisión anual de los informes de seguridad de las organizaciones.
@@ -559,8 +586,8 @@ Los datos agregados sobre accidentes graves indican una mejora de la seguridad e
 Al comparar los datos con años anteriores, durante el año del informe no se detectó ningún accidente grave en pasos a nivel ferroviarios. Al evaluar los indicadores estadísticos medios, en 2023 no se observa un aumento de los accidentes con consecuencias letales. Al igual que en 2022, tampoco en 2023 se registraron heridos entre los pasajeros. Se produjo un accidente con un trabajador ferroviario durante la circulación del tren. En general, en Letonia existe una proporción relativamente alta de heridos que se encontraban sobre las vías o en los andenes en estado de embriaguez (en el 47 % de los casos, los heridos estaban en estado de embriaguez).
 Para reducir el número de fallecidos y heridos en el ferrocarril, la VDzTI realiza continuamente un análisis del nivel de seguridad y supervisa la implementación de los planes de medidas de seguridad de los participantes del sistema ferroviario. El objetivo de la VDzTI hasta 2026 es reducir el número de heridos en un 10 %, es decir, no
 
-
 ## Página 32
+
 
 más de 14 personas heridas (excluidos los suicidios) al año, o bien que el número relativo de personas heridas no supere 1,305 (x10-6).
 6. Permisos y certificados otorgados por agencias, autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad, e informes de evaluación elaborados
@@ -577,8 +604,8 @@ No procede, ya que esta información no es vinculante en el contexto de la inves
 La Oficina de Investigación investigó en 2019 un accidente similar relacionado con el atropello por parte del material rodante de un empleado de SIA “LDZ apsardze”.
 El informe de investigación del accidente ferroviario grave mencionado, n.º 5-02/1-19 “Accidente con persona durante la circulación del material rodante el 8 de febrero de 2019 en el puente ferroviario de Riga sobre el Daugava”, está disponible en https://www.taiib.gov.lv/lv/dzelzcela-nobeiguma-parskati#2019
 
-
 ## Página 33
+
 
 ## 5. Conclusiones
 ### a) Resumen del análisis y conclusiones sobre las causas del accidente
@@ -596,6 +623,7 @@ No están directamente relacionados con acciones individuales, sino con problema
 *   deficiencias en los procedimientos e instrucciones de seguridad —las instrucciones carecen de indicaciones precisas sobre cómo actuar en situaciones concretas específicas (por ejemplo, no se establece que esté prohibido al señalero realizar trabajos adicionales que distraigan su atención del cumplimiento de sus funciones directas);
 
 ## Página 34
+
 
 - Control insuficiente del uso de los equipos de trabajo — el señalero no utilizó las herramientas manuales necesarias, lo que indica deficiencias en la organización y supervisión del trabajo de los empleados.
 De conformidad con el punto 3.2 del Sistema interno de supervisión de la seguridad del transporte, LDZ investiga cada accidente ferroviario conforme a los requisitos normativos, determina todas las causas del accidente ferroviario y elabora medidas de seguridad para prevenir accidentes similares.
@@ -617,8 +645,8 @@ Se determinaron las siguientes medidas a adoptar:
 4. La Dirección de Electrotecnia debe presentar propuestas para equipar los montadores de vías con sistemas de señalización de aviso (señalización luminosa y acústica) en las agujas de cambio de las vías principales.
 5. La Sección de Protección Laboral de la Inspección Técnica debe elaborar, tras recibir y analizar toda la información, recomendaciones para mejorar la situación de la protección laboral en LDZ.
 
-
 ## Página 35
+
 
 6. Dar a conocer el acta a todos los empleados de la Dirección de Vías cuya labor pueda realizarse sobre las vías o en otras zonas de riesgo elevado, recordándoles que está prohibido incumplir cualquier requisito de las instrucciones de seguridad.
 La Oficina de Investigación, al verificar el cumplimiento de las medidas, constató que las acciones indicadas en el acta de la reunión operativa del 6 de diciembre de 2023 de la Dirección de Vías de la S.A.E. “Latvijas dzelzceļš” han sido cumplidas.
@@ -629,8 +657,8 @@ Adicionalmente, se prohibió el uso de sopladores de hojas para limpiar agujas d
 ### c) Observaciones adicionales
 Durante la investigación también se estudió la situación respecto a la presencia de videoregistadores en los trenes de pasajeros en otros países europeos y en el Reino Unido. Con este fin, se envió una solicitud a oficinas de investigación europeas equivalentes. La distribución de las respuestas recibidas se muestra en la Tabla 1.
 
-
 ## Página 36
+
 
 Tabla 1
 Pregunta/respuesta
@@ -687,8 +715,8 @@ Ninguna
 Analizando lo anterior, se puede concluir que en la mayoría de los países europeos los trenes de pasajeros están equipados con videoregistadores orientados hacia la vía. La experiencia extranjera demuestra que el uso de la información de los videoregistadores permite facilitar significativamente la investigación de accidentes en varios casos, evitando la subjetividad en la evaluación de las situaciones surgidas.
 Además, esta información puede ser útil en los siguientes ámbitos:
 
-
 ## Página 37
+
 
 - Seguridad de pasajeros y empleados;
 - Documentación de infracciones de las normas de seguridad;
@@ -698,6 +726,7 @@ Los videoregistadores se han convertido en una herramienta tecnológica importan
 A este respecto, la Oficina de Investigación elaboró una recomendación de seguridad (véase sección 6, recomendación n.º 2024-3).
 
 ## Página 38
+
 
 ## 6. Recomendaciones de seguridad
 ### Recomendación 2024-1

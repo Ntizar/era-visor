@@ -27,11 +27,11 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [CH-5750 - 2018081602_SB_BaselRB_D.md](2018/CH-5750%20-%202018081602_SB_BaselRB_D.md) | — | 60844 | ok |
-| [CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md](2018/CH-5783%20-%202018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md) | — | 102812 | revisar |
+| [CH-5783 - 2018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md](2018/CH-5783%20-%202018070501_EB_SB_Eglisau_Entgleisung_V7_0_D_kuc.md) | — | 102812 | ok |
 
 ## 2017 (2)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [CH 22.03.2017 2017032201_SB_Luzern.md](2017/CH%2022.03.2017%202017032201_SB_Luzern.md) | — | 96192 | revisar |
-| [CH 29.11.2017 2017112902_SB_Basel.md](2017/CH%2029.11.2017%202017112902_SB_Basel.md) | — | 88570 | revisar |
+| [CH 29.11.2017 2017112902_SB_Basel.md](2017/CH%2029.11.2017%202017112902_SB_Basel.md) | — | 88570 | ok |

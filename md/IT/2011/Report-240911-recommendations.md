@@ -6,18 +6,85 @@ pdf: Report-240911-recommendations.pdf
 url_oficial: https://www.era.europa.eu/system/files/2023-07/Report-240911-recommendations.pdf
 md5_pdf: 7330b75ab2ceb54d5541d1bfb552c52d
 paginas: 2
-chars: 28
+chars: 3364
 tablas: 0
-cuerpo: "10.0pt; encabezados 0 niveles"
-rotulos_excluidos: "0 ()"
-verbatim_fallos: 0
+cuerpo: "ocr tesseract"
+verbatim_fallos: no_aplica (texto obtenido por OCR, no hay capa de texto contra la que verificar)
 escaneado: true
-paginas_sin_texto: 2
-fecha_proceso: 2026-11-19
-generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+texto: ocr
+ocr_motor: tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)
+ocr_idiomas: ita
+ocr_confianza_media: 94.5
+ocr_confianza_min: 94.0
+ocr_paginas: 2
+ocr_paginas_vacias: 0
+ocr_fecha: 2026-11-19
+generador: ocr_escaneados.py (Tesseract + PyMuPDF, 300 dpi)
 ---
 ## Página 1
 
+DIREZIONE GENERALE PER LE INVESTIGAZIONI FERROVIARIE
 
+Prot. DGIF/DIV2/3S3 /2012 /7.1-9/Uscita
+Roma, 06 -({. &1! 2
+
+All’ Agenzia Nazionale per la
+Sicurezza delle Ferrovie
+Piazza della Stazione, 45
+50123 FIRENZE
+
+Oggetto : Relazione finale d’indagine della Commissione ministeriale costituita con Decreto
+Dirigenziale del 26/09/2011, prot. n.44, relativa all’incidente ferroviario occorso il
+24/09/2011 sulla linea ferroviaria Verona-Brennero e consistente nello spezzamento del
+treno passeggeri EXP 13468. Raccomandazioni di sicurezza della Direzione Generale
+per le Investigazioni Ferroviarie.
+
+In riferimento all’oggetto, si avvisa che copia della Relazione d’indagine relativa all’accadimento in
+parola è disponibile alla pagina del sito internet istituzionale di questo Ministero, www.mit.gov.it,
+sezione “Ministero » Altri Organismi e Jstituzioni » Direzione Generale per le Investigazioni
+Ferroviarie » Link ai documenti della categoria”.
+
+Tenuto conto delle eventuali iniziative già opportunamente intraprese, in merito, dall’ ANSF e dalle
+Imprese Ferroviarie ovvero dai detentori dei carri, la scrivente Direzione Generale fornisce la
+seguente raccomandazione di sicurezza, ai sensi di quanto previsto dal D.Lgs. n.162/07. Codesta
+Agenzia vorrà, nel rispetto del dettato del medesimo D.Lgs., tenere informata questa Direzione
+Generale delle azioni che verranno, eventualmente, poste in essere, coerenti con detta
+raccomandazione.
+
+Raccomandazione unica:
+
+Si raccomanda all’ANSF di curare che vengano svolte indagini generalizzate dalle imprese
+ferroviarie e/o dai detentori di carri, intesa a verificare, sui rotabili di proprietà di tali enti, circolanti
+sul territorio nazionale, innanzitutto la consistenza numerica e la distribuzione delle aste di traino
+del tipo che ha subito sul rotabile incidentato la rottura fragile per disuniformità localizzata della
+caratteristica di “durezza” del materiale.
 
 ## Página 2
+
+Da tale indagine ricognitiva complessiva, sia sul piano strettamente numerico, che sul piano
+distributivo, dovrà prendere le mosse una analisi, a cura ed a carico dei soggetti medesimi, su un
+ristretto campione, ma significativo in senso statistico, tesa a misurare l’eventuale esistenza e
+consistenza del fenomeno della disuniformità localizzata di durezza su tali specifiche aste di traino.
+
+Quanto sopra, al fine di verificare, ancora in senso statistico, il potenziale rischio di rottura fragile
+
+del materiale, provocato dalla modifica del suo grado di duttilità nelle sezioni più critiche
+dell’organo.
+
+L’analisi dovrà mettere in evidenza - in particolare - se esistono significative correlazioni fra:
+
+"le eventuali evenienze negative che emergeranno dallo studio
+
+" l’utilizzo di tali dispositivi in convogli che viaggiano, come nel caso dell’incidente, in
+composizione bloccata con la compresenza di dispositivi di altro tipo sullo stesso convoglio.
+
+L’intero studio, coordinato dall’ANSF, dovrà anche evidenziare, sulla base dei risultati, se possa
+ricorrere la necessità di emanare norme tecniche più specifiche per l’attività manutentiva sui
+
+componenti di questa natura nei casi di convogli bloccati (sia per architettura progettuale che per
+costanza d’uso in tale forma).
+
+Per maggiori dettagli si rimanda alla Relazione disponibile all’indirizzo internet prima indicato.
+
+Il Direttore Generale
+(Ing. Marco Pitt

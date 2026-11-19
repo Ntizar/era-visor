@@ -10,10 +10,11 @@ chars: 131482
 ratio_longitud: 1.05
 tokens_in: 49058
 tokens_out: 35433
-verificacion: ok
-notas_cifras: ["bloque 4: cifras cortas: 2/156", "bloque 6: cifras cortas: 3/64", "bloque 10: cifras cortas: 1/92", "bloque 15: cifras cortas: 1/75"]
+verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 6: ratio 1.71"]
+notas_cifras: ["página 4: cifras cortas: 2/155", "página 9: cifras cortas: 3/18", "página 34: cifras cortas: 1/11", "página 65: cifras cortas: 1/14"]
 ---
 ## Página 1
 

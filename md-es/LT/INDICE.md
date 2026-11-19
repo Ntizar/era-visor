@@ -7,13 +7,13 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md](2022/LT-10288%20-%20Interim%20statement%20-%202024-08-20%20Tarpinis%20pranešimas%20G-22-52-1.md) | — | 11 | ok |
+| [LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md](2022/LT-10288%20-%20Interim%20statement%20-%202024-08-20%20Tarpinis%20pranešimas%20G-22-52-1.md) | — | 4029 | ok |
 
 ## 2018 (4)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [LT-5621 - Interim Statement 2019-03-05.md](2018/LT-5621%20-%20Interim%20Statement%202019-03-05.md) | — | 25 | ok |
+| [LT-5621 - Interim Statement 2019-03-05.md](2018/LT-5621%20-%20Interim%20Statement%202019-03-05.md) | — | 4312 | ok |
 | [LT-5621 - Interim Statement 2020-03-05.md](2018/LT-5621%20-%20Interim%20Statement%202020-03-05.md) | — | 1546 | ok |
 | [LT-5621 - Interim Statement 2021-03-08.md](2018/LT-5621%20-%20Interim%20Statement%202021-03-08.md) | — | 1395 | ok |
 | [LT-5621- interim Statement - 2022-03-21+Tarpinis+pranešimas.md](2018/LT-5621-%20interim%20Statement%20-%202022-03-21+Tarpinis+pranešimas.md) | — | 1412 | ok |

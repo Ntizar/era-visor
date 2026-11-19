@@ -1,0 +1,15 @@
+{
+ "md/SE/2012/SE 12.06.2012 RJ2014_01_Fagersta-Smedjebacken.md": {
+  "md": "md/SE/2012/SE 12.06.2012 RJ2014_01_Fagersta-Smedjebacken.md",
+  "pdf": "pdfs/SE/SE 12.06.2012 RJ2014_01_Fagersta-Smedjebacken.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "swe",
+  "paginas": 55,
+  "paginas_vacias": 0,
+  "confianza_media": 91.8,
+  "confianza_min": 57.5,
+  "chars": 122486,
+  "md5_pdf": "ccc65e1e4fdc7632c4f87bba29944774",
+  "fecha": "2026-11-19"
+ }
+}

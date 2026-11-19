@@ -1,0 +1,28 @@
+{
+ "md/LT/2018/LT-5621 - Interim Statement 2019-03-05.md": {
+  "md": "md/LT/2018/LT-5621 - Interim Statement 2019-03-05.md",
+  "pdf": "pdfs/LT/LT-5621 - Interim Statement 2019-03-05.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "lit",
+  "paginas": 2,
+  "paginas_vacias": 0,
+  "confianza_media": 93.7,
+  "confianza_min": 93.2,
+  "chars": 3601,
+  "md5_pdf": "fa5f8f1c22670ae414b0ff09fac78549",
+  "fecha": "2026-11-19"
+ },
+ "md/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md": {
+  "md": "md/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md",
+  "pdf": "pdfs/LT/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "lit",
+  "paginas": 1,
+  "paginas_vacias": 0,
+  "confianza_media": 95.6,
+  "confianza_min": 95.6,
+  "chars": 3251,
+  "md5_pdf": "e61cf18e20a8d5c05102665ac1dfc0e5",
+  "fecha": "2026-11-19"
+ }
+}

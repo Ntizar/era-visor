@@ -11,9 +11,9 @@ ratio_longitud: 1.06
 tokens_in: 21985
 tokens_out: 16184
 verificacion: ok
-notas_cifras: ["bloque 7: cifras cortas: 2/73"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+notas_cifras: ["página 22: cifras cortas: 2/24"]
 ---
 ## Página 1
 

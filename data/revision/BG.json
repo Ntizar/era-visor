@@ -1,0 +1,1522 @@
+{
+ "md-es/BG/2010/FR_BG_2010_03_07_Fire_in_RS_BG.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "la perforación de los válvulas avalancha (concordancia incorrecta; debería ser 'las válvulas avalancha')",
+   "EMV (sigla no normalizada; en español se usa 'unidad eléctrica múltiple' o 'UEM')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2010/FR_BG_2010_03_07_Fire_in_RS_BG.md"
+ },
+ "md-es/BG/2010/BG - Final_Report_Other_EZEROVO_09.06.2010.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "EMC (ЕМЦ) traducido como CTC: en el original se refiere al enclavamiento electromecánico, no al Control de Tráfico Centralizado",
+   "дежурният в ССТ traducido como 'vigilante del CTC': ССТ es el centro de señalización y telecomunicaciones, no un vigilante",
+   "«circulación sin identificación» no es la traducción normalizada de «обезличено движение»; debería ser «circulación sin personal» o «circulación desatendida»",
+   "«Célula de Investigación de Accidentes» no es la traducción normalizada de «Звено за разследване на произшествия»; debería ser «Unidad de Investigación de Accidentes»"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2010/BG - Final_Report_Other_EZEROVO_09.06.2010.md"
+ },
+ "md-es/BG/2011/Final_report-ENG-200711.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 95.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "train dispatcher radio communication traducido como 'comunicación por radio del jefe de circulación' en lugar de 'comunicación por radio del despachador de trenes'",
+   "carrying crews traducido como 'tripulaciones de conducción' en lugar de 'tripulaciones de acompañamiento' o 'personal de a bordo'",
+   "inter-repair cycle traducido como 'ciclo de reparación intermedia' en lugar de 'ciclo entre reparaciones'",
+   "automotores por 'train buses' (posible término normalizado: 'unidades de tren' o 'trenes autopropulsados')",
+   "cuarto clavo por 'fourth pin' (posible error: 'cuarto pasador' o 'cuarta clavija')",
+   "Pericia Técnico-Forenses de Incendios: traducción incorrecta de 'Fire-technical Expertise' (debería ser 'peritaje técnico de incendios' o 'informe técnico de incendios')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2011/Final_report-ENG-200711.md"
+ },
+ "md-es/BG/2010/Final_Report_LC_Vz_Bi__18.06.2010.md": {
+  "estado": "revisar",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 88.0,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 70,
+    "omisiones": [
+     "6.2: 'полуавтоматична блокировка (ПАБ)' traducido como 'bloqueo automático (PAB)' en lugar de 'bloqueo semiautomático'",
+     "6.3: omite 'предпрелезен светофор' (semáforo de paso a nivel), 'шосейни светофари' (semáforos de carretera) y 'звукова сигнализация' (señalización acústica)",
+     "6.4: omite 'ходова част' (parte de rodadura) y 'светлинни и звукови сигнални средства' (medios de señalización luminosos y acústicos)"
+    ],
+    "invenciones": [
+     "6.3: añade 'etc.' no presente en el original",
+     "6.4: añade 'sistema de frenos correcto' no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "6.2: 'полуавтоматична блокировка' traducido como 'bloqueo automático' en lugar de 'bloqueo semiautomático'",
+     "6.3: 'предпрелезен светофор' traducido como 'señales semafóricas' en lugar de 'semáforo de paso a nivel'"
+    ],
+    "comentario": "La traducción omite detalles técnicos importantes en los puntos 6.3 y 6.4, y traduce incorrectamente el tipo de bloqueo en 6.2."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 75,
+    "omisiones": [
+     "Falta la frase inicial 'това междугарие.'",
+     "En 10.2 b) se omite la edad '51 años' del conductor fallecido.",
+     "En 10.3 b) se omite 'en el trayecto Vratsa – Beli izvor'."
+    ],
+    "invenciones": [
+     "En 10.2 b) se añade 'en la ciudad de Vratsa' en lugar de indicar que era de Vratsa.",
+     "En 11 se añade 'desde el punto de vista del VM' que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "EMV no se traduce ni se explica (en el original es ЕМВ, vehículo de motor eléctrico).",
+     "'señales acústicas mediante el silbato' es redundante; el original dice 'señal sonora de Atención con el silbato'."
+    ],
+    "comentario": "La traducción omite datos relevantes como la edad del fallecido y el trayecto de interrupción, e introduce matices no presentes en el original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2010/Final_Report_LC_Vz_Bi__18.06.2010.md"
+ },
+ "md-es/BG/2012/Fire_in_RS_Shumen_19.12.2012.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 95.5,
+  "fidelidad_min": 90,
+  "sin_dictamen": [],
+  "terminos": [
+   "EMB traducido como UME (Unidad Múltiple Eléctrica) en lugar de mantener la sigla original o usar una equivalencia normalizada",
+   "PO traducido como UME en la última mención, cuando previamente se usó TP para el mismo término",
+   "fusions traducido como 'fusibles' en lugar de 'fusiones'",
+   "recovery train traducido como 'tren de rescate' en lugar de 'tren de recuperación'",
+   "recovery means traducido como 'medios de recuperación' (aceptable, pero 'tren de rescate' es inconsistente)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2012/Fire_in_RS_Shumen_19.12.2012.md"
+ },
+ "md-es/BG/2013/FR_Raduntzi_Derailment-030913.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 93.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "IFT traducido como TRR (debería mantenerse IFT o traducirse como Tren Internacional Rápido)",
+   "truck traducido como bogie (en contexto ferroviario español, 'truck' puede ser 'bogie' o 'carretón', pero 'primer truck' se refiere al primer bogie)",
+   "switch traducido como aparato de cambio (podría ser 'aguja' o 'cambio de agujas')",
+   "train car repair shed traducido como taller de reparación de material móvil (más preciso: taller de reparación de coches)",
+   "wheel-gauge traducido como 'ancho de rodadura' en lugar de 'trocha' o 'ancho de vía'",
+   "inner rail string traducido como 'hilo interior del riel' en lugar de 'hilo interior del carril'"
+  ],
+  "fallos": [
+   {
+    "pagina": 10,
+    "fidelidad": 85,
+    "omisiones": [
+     "En la tabla, la fila 'Direction of movement of derailed vehicle against tongue / in the direction of tongue' se ha desplazado de su posición original (entre las filas -3 y -4) a una posición posterior, alterando la estructura de la tabla.",
+     "En la última frase, se omite la continuación del título de la norma: 'Technical Standards for Planning and Maintenance of the...' (el original queda cortado, pero la traducción también lo deja incompleto sin indicar la omisión)."
+    ],
+    "invenciones": [
+     "Se añade la frase 'Dirección de movimiento del vehículo descarrilado contra la lengua / en la dirección de la lengua' en una posición distinta a la del original, lo que constituye una reubicación no justificada."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Traducción inconsistente de 'flesh gaps': se traduce como 'holgura' en la tabla y como 'holguras de la lengua' en el texto, cuando el original usa 'flesh gaps' (posiblemente 'flechas' o 'galgas de carne' en contexto ferroviario).",
+     "'railroad' se traduce como 'vía' en lugar de 'ferrocarril' o 'línea férrea', lo que puede ser ambiguo.",
+     "'benchmarked' se traduce como 'referenciada', pero en el contexto ferroviario podría ser 'replanteada' o 'marcada con hitos'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero presenta una reubicación de una fila de la tabla y algunas inconsistencias terminológicas que requieren revisión."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2013/FR_Raduntzi_Derailment-030913.md"
+ },
+ "md-es/BG/2014/BG 23.12.2014 FR_Derailment_BG_4690.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/BG 23.12.2014 FR_Derailment_BG_4690.md"
+ },
+ "md-es/BG/2014/BG 12.07.2014 FR_Derailment_BG_3959_Kaloyanovets_12.7.2014.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   12,
+   15,
+   19
+  ],
+  "fidelidad_media": 96.2,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'broken gauge' como 'ancho de vía roto' en lugar de 'rotura de ancho de vía' o 'galga rota'",
+   "Traducción de 'analogical' como 'analógica' en lugar de 'análoga'",
+   "Traducción de 'train dispatcher' como 'regulador de circulación' en lugar de 'jefe de circulación' o 'despachador de trenes'",
+   "El término 'warning (WS)' se traduce como 'aviso (WS)' en lugar de 'señal de aviso' o 'señal avanzada', que es la terminología ferroviaria normalizada en castellano.",
+   "El término 'entrance switch' se traduce como 'aguja de entrada', que es correcto, pero 'BS' (probablemente 'block signal' o 'braking signal') se deja sin traducir ni explicar.",
+   "ALS traducido como ASFA (sistema español) en lugar de mantener la sigla o usar un equivalente genérico"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/BG 12.07.2014 FR_Derailment_BG_3959_Kaloyanovets_12.7.2014.md"
+ },
+ "md-es/BG/2014/BG FR_Fire_in_RS_07.08.2014_en.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   8
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "dioxide (СО2) fire-extinguishers traducido como 'extintores de dióxido de carbono (СО2)' es correcto, pero el original usa 'dioxide' en lugar de 'carbon dioxide'",
+   "balance value traducido como 'valor contable neto' añade el matiz 'neto' no presente en el original",
+   "El original usa 'II-nd' y 'III-rd' (ordinales romanos) para los ventiladores, bombas y motores; la traducción usa 'segundo' y 'tercer', lo cual es aceptable pero pierde la notación técnica original.",
+   "El original usa 'feeders' (alimentadores) y la traducción añade 'conductores de línea' como aclaración, lo cual no es una traducción normalizada del término técnico."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/BG FR_Fire_in_RS_07.08.2014_en.md"
+ },
+ "md-es/BG/2014/FR_Derailment_28.03.2014_en.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 95.5,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "agujeros (switchmen)",
+   "cuello de llenado (filler neck)",
+   "cambios de salida (exit switches)",
+   "vía permanente (permanent way)",
+   "gálibo de la quinta vía (gauge clearance of the fifth track)",
+   "carril derecha (debería ser 'carril derecho')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/FR_Derailment_28.03.2014_en.md"
+ },
+ "md-es/BG/2014/FR_LC_07.05.2014_en_1.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 96.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "plough traducido como 'Quitanieves' (correcto, pero en el original es 'plough' sin especificar tipo)",
+   "3 D survey and body repair traducido como 'Inspección dimensional 3D y reparación de carrocería' (aceptable)",
+   "Restoring resistance traducido como 'Resistencia de recuperación' (posible error: 'restoring' podría referirse a 'restauración' o 'resistencia de restauración')",
+   "Corps reducer traducido como 'Reductor de cuerpo' (posible error: 'corps' podría ser 'corps' en francés o 'cuerpo', pero el término técnico podría ser 'reductor de carcasa')",
+   "carriage traducido como 'Carrocería' (posible error: 'carriage' en contexto ferroviario podría ser 'coche' o 'bastidor', no 'carrocería')",
+   "Right highway traffic light traducido como 'Semáforo de tráfico por carretera situado a la derecha' en lugar de 'Semáforo de carretera derecho'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/FR_LC_07.05.2014_en_1.md"
+ },
+ "md-es/BG/2014/FR_LC_at_Obelja_09.10.2014.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción inconsistente de 'Traffic manager/train dispatcher' y 'Traffic manager/station dispatcher' como 'Jefe de circulación/encargado de la circulación' y 'Jefe de circulación/jefe de estación' respectivamente, perdiendo la distinción entre 'train dispatcher' y 'station dispatcher'.",
+   "Uso de 'semáforo' para 'semaphore' en lugar del término ferroviario normalizado 'señal'.",
+   "El original usa 'duty traffic manager' y 'duty station master', traducidos como 'regulador de circulación' y 'jefe de estación', respectivamente. La traducción invierte los términos en algunos puntos: 'duty station master of Sofia station' se traduce como 'regulador de circulación de servicio' y 'duty traffic manager' como 'jefe de servicio', lo que puede alterar la correspondencia de funciones.",
+   "traducción de 'level-crossing guard' como 'guardaagujas de paso a nivel' en lugar de 'guardabarreras' o 'guarda de paso a nivel'",
+   "traducción de 'bld.' como 'edificio' en lugar de 'bulevar'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/FR_LC_at_Obelja_09.10.2014.md"
+ },
+ "md-es/BG/2015/BG 01.02.2015 FR_Derailment_BG_4713.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2015/BG 01.02.2015 FR_Derailment_BG_4713.md"
+ },
+ "md-es/BG/2015/BG 09.08.2015.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2015/BG 09.08.2015.md"
+ },
+ "md-es/BG/2015/BG 13.10.2015-4910.md": {
+  "estado": "sin_texto",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": null,
+  "fidelidad_min": null,
+  "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2015/BG 13.10.2015-4910.md"
+ },
+ "md-es/BG/2014/Fire_in_RS_01.02.2014_en.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Lift repair 2 (LR 2) traducido como 'Reparación mayor 2' (LR 2) cuando en la tabla se traduce 'Lift repair' como 'Reparación mayor' (LR), pero 'Overhaul' se traduce como 'Reparación general' (RG) y 'Midrepair' como 'Reparación media' (RM), lo que sugiere que 'Lift repair' debería ser 'Reparación de elevación' o similar, no 'Reparación mayor'",
+   "Repair in case of necessity (RN) traducido como 'Reparación por necesidad' (RN) en la tabla, pero en el texto se traduce 'repairs under necessity' como 'reparaciones por necesidad', lo cual es consistente, pero el término técnico normalizado podría ser 'Reparación por necesidad' o 'Reparación según necesidad'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2014/Fire_in_RS_01.02.2014_en.md"
+ },
+ "md-es/BG/2016/BG 03.09.2016 FR_BG-5161_Derailment.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 97.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 03.09.2016 FR_BG-5161_Derailment.md"
+ },
+ "md-es/BG/2016/BF 23.01.2016 FR_Derailment.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   16
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta 'On 22.01.2016' al inicio del párrafo de hechos.",
+     "Falta 'standed for I min. and departed againaccording' (la frase sobre la segunda parada irregular está incompleta).",
+     "Falta 'speedometer' en la frase 'to speedometer tape of the locomotive'."
+    ],
+    "invenciones": [
+     "Se añade 'en' al inicio de la traducción sin correspondencia en el original.",
+     "Se añade 'la' antes de 'estación de Delyan' en 'i.w.o. La temperatura ambiente en la estación de Delyan'."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Traducción inconsistente de 'speedometer tape' como 'cinta del velocímetro' (correcto) pero con omisión previa de 'speedometer'.",
+     "'switch point' traducido como 'punto de cambio' en lugar de 'aguja' o 'cambio de agujas'."
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene omisiones de frases y algunas adiciones menores que requieren corrección."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BF 23.01.2016 FR_Derailment.md"
+ },
+ "md-es/BG/2016/BG 10.12.2016 FR Derailment in Hitrino.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   14,
+   21,
+   27,
+   34
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "encaminamientos por 'points' (agujas/cambios)",
+   "compactación de balasto por 'tamping' (bateo)",
+   "tamaño medio por 'Average-size' (reparación media)",
+   "Drurzhba (debe ser Druzhba)",
+   "tubería general del aire (posible término no normalizado para 'main air duct'; en español ferroviario suele ser 'tubería principal de aire' o 'conducto principal de aire')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 10.12.2016 FR Derailment in Hitrino.md"
+ },
+ "md-es/BG/2016/BG 08.07.2016 Fire.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "traducción de 'fast train' como 'tren rápido (TR)' en lugar de 'tren rápido (FT)'",
+   "traducción de 'traffic manager on duty' como 'gestor de tráfico de turno' en lugar de 'jefe de circulación de turno'",
+   "traducción de 'train-master' como 'jefe de tren' en lugar de 'jefe de tren' (aceptable, pero 'conductor' como 'revisor' es correcto)",
+   "traducción de 'detention' como 'detención' en lugar de 'frenado' o 'aplicación de freno'"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 85,
+    "omisiones": [
+     "En el original, 'on grades' se refiere a 'en pendientes/rampas', no 'en las posiciones'.",
+     "En el original, 'broken chart of the apparatus switch' se refiere a 'diagrama/carta de funcionamiento rota del interruptor del aparato', no 'carta de funcionamiento rota del interruptor del aparato' (se pierde el matiz de 'diagrama').",
+     "En el original, 'displayed on (fig. 1)' se refiere a 'mostrado en (fig. 1)', no 'mostrada en (fig. 1)' (concordancia de género)."
+    ],
+    "invenciones": [
+     "En la traducción, 'en las posiciones' no aparece en el original, que dice 'on grades' (en pendientes/rampas).",
+     "En la traducción, 'e se encendió' contiene un error tipográfico ('e' en lugar de 'y'), que no está en el original.",
+     "En la traducción, 'la ocurrencia del brote de fuego' es una construcción que no refleja exactamente 'the occurred outbreak of fire' del original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El término 'draft gear' se traduce como 'equipo de tracción', pero en el contexto ferroviario se refiere al 'mecanismo de tracción' o 'aparato de tracción'.",
+     "El término 'underframe aggregates' se traduce como 'conjuntos del bastidor inferior', pero 'underframe' es el 'bastidor inferior' o 'chasis'.",
+     "El término 'body-shell' se traduce como 'carrocería', pero en el contexto ferroviario se refiere a la 'carcasa de la carrocería' o 'caja de la locomotora'."
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores de interpretación en términos técnicos y algunas omisiones menores que requieren revisión."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "[ilegible: ...]"
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es fiel, pero añade la marca '[ilegible: ...]' que no existe en el original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 08.07.2016 Fire.md"
+ },
+ "md-es/BG/2016/BG 14.09.2016 FR Fire in RS_BG-5167.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   8,
+   10
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción incorrecta de 'Conductor' como 'Revisor' (debe ser 'Conductor' o 'Maquinista')",
+   "Traducción incorrecta de 'Traffic manager' como 'Jefe de estación' (debe ser 'Responsable de circulación' o 'Gestor de tráfico')",
+   "Traducción incorrecta de 'Switchman level-crossing guard' como 'Guardagujas / Agujero de paso a nivel' (debe ser 'Guardagujas / Guardabarreras de paso a nivel')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 14.09.2016 FR Fire in RS_BG-5167.md"
+ },
+ "md-es/BG/2016/BG 16.06.2016 BG-2016-3_Fire.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   8
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "«Agujero – guarda de paso a nivel» y «Agujero de turno» son traducciones incorrectas de 'Switchman' (guardagujas).",
+   "«Jefe de circulación» es una traducción aceptable para 'Traffic manager', pero en el contexto ferroviario español es más normalizado 'Responsable de circulación' o 'Factor de circulación'.",
+   "running gear traducido como 'bogies' (el término original es más amplio, incluye suspensión, ejes, etc.)",
+   "inter-repair cycle traducido como 'ciclo de reparación intermedia' (debería ser 'ciclo entre reparaciones')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 16.06.2016 BG-2016-3_Fire.md"
+ },
+ "md-es/BG/2016/BG 13.04.2016 FR_Fire.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   12,
+   13,
+   15,
+   17,
+   19,
+   21
+  ],
+  "fidelidad_media": 73.3,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "La traducción de 'ɢɡɩɪɚɜɧɢ' como 'reparables' es incorrecta; debería ser 'en buen estado' o 'sin daños'.",
+   "La traducción de 'ɩɪɟɤɴɫɧɚɬɨ' como 'se interrumpió' es aceptable, pero 'interrupción' es más preciso.",
+   "La traducción de 'ɩɨɪɚɞɢ' como 'debido a' es correcta, pero el original usa 'debido a la reposición' sin paréntesis de cierre, lo cual se refleja en la traducción."
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la línea 'Ɋ ȿ ɉ ɍ Ȼ Ʌ ɂ Ʉ Ⱥ  Ȼ ɔ Ʌ Ƚ Ⱥ Ɋ ɂ ə' (probablemente 'REPÚBLICA DE BULGARIA')",
+     "Falta la línea 'ɆɂɇɂɋɌȿɊɋɌȼɈ ɇȺ ɌɊȺɇɋɉɈɊɌȺ,' (MINISTERIO DE TRANSPORTE) como línea separada"
+    ],
+    "invenciones": [
+     "Se repite 'INFORME FINAL' dos veces, mientras que en el original solo aparece una vez"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El topónimo 'Ⱥɣɬɨɫ' se traduce como 'Avtose', pero la transliteración correcta es 'Aytos'",
+     "El topónimo 'ɑɟɪɧɨɝɪɚɞ' se traduce como 'Chernomorets', pero la transliteración correcta es 'Chernograd'"
+    ],
+    "comentario": "La traducción omite la cabecera institucional y contiene errores en los topónimos, además de duplicar el título."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la última frase del original: 'Al recorrer' queda cortada en la traducción, no se traduce el contenido restante de la página 13.",
+     "Se omite la referencia 'PÁGINA 13' del encabezado."
+    ],
+    "invenciones": [
+     "Se añade 'PÁGINA 13' en el encabezado de la traducción, que no está en el original.",
+     "Se traduce 'Ⱥɣɬɨɫ' como 'Avtose' y 'ɑɟɪɧɨɝɪɚɞ' como 'Chernomorets', que no corresponden a los topónimos búlgaros Aytos y Chernomorets."
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "El topónimo 'Ⱥɣɬɨɫ' se traduce incorrectamente como 'Avtose' en lugar de 'Aytos'.",
+     "El topónimo 'ɑɟɪɧɨɝɪɚɞ' se traduce incorrectamente como 'Chernomorets' en lugar de 'Chernomorets' (debería ser 'Chernomorets' o 'Chernomorets', pero no 'Chernomorets' en el contexto búlgaro).",
+     "La abreviatura 'ɆɌɂɌɋ' se traduce como 'MTIC' en lugar de 'MTITC' (Ministerio de Transporte, Informática y Comunicaciones)."
+    ],
+    "comentario": "La traducción está incompleta y contiene errores en topónimos y números de locomotora, por lo que requiere revisión."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "Se añade 'se comprueba que' sin correspondencia en el original.",
+     "Se añade 'se produce un incendio y' sin correspondencia en el original.",
+     "Se añade 'tuvo que regresar' sin correspondencia en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "La estación 'Българово' se traduce como 'Blagoevgrad', cuando debería ser 'Balgarevo' o 'Bylgarovo'.",
+     "'РССМ' se traduce como 'RKS', cuando debería ser 'RSSM'.",
+     "'СМ-03' se traduce como 'KM-03', cuando debería ser 'SM-03'."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene invenciones menores y errores en nombres propios y siglas técnicas."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: 'Ʉɨɧɬɚɤɬɧɚ ɦɪɟɠɚ: ɢɡɩɪɚɜɧɚ ɢ ɧɹɦɚ ɨɬɧɨɲɟɧɢɟ ɤɴɦ ɞɨɩɭɫɧɚɬɨɬɨ ɠɟɥɟɡɨɩɴɬɧɨ ɩɪɨɢɡɲɟɫɬɜɢɟ.' (Red de contacto: en buen estado y sin relación con el accidente ferroviario ocurrido).",
+     "Falta la frase 'ɋɴɨɛɳɢɬɟɥɧɚ ɬɟɯɧɢɤɚ ɢ ɬɟɥɟɤɨɦɭɧɢɤɚɰɢɨɧɧɢ ɜɪɴɡɤɢ: ɬɟɯɧɢɱɟɫɤɢ ɢɡɩɪɚɜɧɢ.' (Técnica de comunicación y enlaces de telecomunicación: técnicamente en buen estado)."
+    ],
+    "invenciones": [
+     "La traducción dice 'Red de contacto: principal y en relación con el tráfico ferroviario permitido', lo cual no corresponde al original y es una invención.",
+     "La traducción dice 'Técnica especial y comunicaciones: técnica principal', lo cual no corresponde al original y es una invención."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El original dice 'ɜɥɚɤɨɨɛɪɚɡɭɜɚɳɚ ɝɚɪɚ: Ȼɭɪɝɚɫ' (estación de formación del tren: Burgas), la traducción dice 'Estación de formación del tren: Burgas', correcto.",
+     "El original dice 'ɜ ɩɪɚɜ ɭɱɚɫɬɴɤ' (en una curva a derechas), la traducción dice 'en una curva a derechas', correcto.",
+     "El original dice 'ɜ ɧɚɞɨɥɧɢɳɟ' (en un terraplén), la traducción dice 'en un terraplén', correcto."
+    ],
+    "comentario": "La traducción omite dos frases completas del original y las sustituye por contenido inventado, lo que reduce significativamente la fidelidad."
+   },
+   {
+    "pagina": 21,
+    "fidelidad": 75,
+    "omisiones": [
+     "Falta la referencia '10' al final de la página original.",
+     "Se omite la palabra 'ɜɪɟɦɟɜɢɹ' (tiempo) en la frase 'ɜɴɜ ɜɪɟɦɟɜɢɹ ɢɧɬɟɪɜɚɥ' (en el intervalo de tiempo)."
+    ],
+    "invenciones": [
+     "Se añade 'del depósito de trenes' en la frase 'en el parque de locomotoras del depósito de trenes de ,,Holdin BDŽ“ ED', que no está en el original.",
+     "Se añade 'la negligencia del personal de conducción respecto a la ignición' en la primera frase, que no está en el original.",
+     "Se añade 'el incendio' en 'del surgimiento del incendio en la locomotora', el original dice 'ɩɪɨɢɡɲɟɫɬɜɢɟɬɨ' (el accidente)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Se traduce 'ɩɨɠɚɪɨɢɡɜɟɫɬɢɬɟɥɧɚɬɚ ɢɧɫɬɚɥɚɰɢɹ' como 'instalación detectora de incendios' en lugar de 'instalación de alarma contra incendios'.",
+     "Se traduce 'ɩɨɠɚɪɨɝɚɫɢɬɟɥɧɚɬɚ ɢɧɫɬɚɥɚɰɢɹ' como 'instalación extintora de incendios' en lugar de 'instalación de extinción de incendios'.",
+     "Se traduce 'ɬɹɝɨɜɢɹ ɬɨɤɨɢɡɩɪɚɜɢɬɟɥ' como 'convertidor de corriente de tracción' en lugar de 'rectificador de corriente de tracción'."
+    ],
+    "comentario": "La traducción contiene varias invenciones y omisiones que alteran el significado del original, especialmente en la introducción del análisis de causas y en la descripción de los sistemas de frenado."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 13.04.2016 FR_Fire.md"
+ },
+ "md-es/BG/2016/BG 28.08.2016 Final Report_Train Derailment_BG-5150.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2016/BG 28.08.2016 Final Report_Train Derailment_BG-5150.md"
+ },
+ "md-es/BG/2017/BG 04.05.2017 FR Train Derailment_BG-5332.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   15
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "breaking system traducido como 'sistema automático de frenos' (correcto sería 'sistema de frenado')",
+   "breaking mass weight certificate traducido como 'certificado de peso de masa de frenado' (correcto sería 'certificado de masa de frenado')",
+   "descending derails traducido como 'en descenso, donde descarrila' (el original describe la pendiente en descenso, no el lugar donde descarrila)",
+   "breaking mass weight certificate traducido como 'certificado de masa frenante' (debería ser 'certificado de masa de frenado' o 'certificado de peso de frenado')",
+   "Nature List traducido como 'Lista de Naturaleza' (término no normalizado; debería ser 'Lista de Naturaleza del tren' o 'Relación de composición')",
+   "electric break traducido como 'freno eléctrico' (correcto sería 'freno eléctrico' o 'freno dinámico', pero no es un error grave)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2017/BG 04.05.2017 FR Train Derailment_BG-5332.md"
+ },
+ "md-es/BG/2017/BG 09.02.2017 FR_Derailment in Dalgopol-Komunari.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Route Relay Centralization System traducido como 'Sistema de Enclavamiento Electromecánico de Ruta' (debería ser 'Sistema de Enclavamiento por Relés de Ruta' o similar)",
+   "carts traducido como 'bogies' (en el original se refiere a 'carts', que podría ser 'carretones' o 'bogies', pero la distinción no es clara)",
+   "freights traducido como 'cargas' (en el contexto de recomendaciones de seguridad, 'freights' se refiere a 'mercancías' o 'transporte de mercancías')",
+   "cart traducido como 'bogie' en lugar de 'carretón' o 'carro' (término ferroviario normalizado en español)",
+   "sleeper' grid traducido como 'rejilla de traviesas' en lugar de 'parrilla de traviesas' o 'emparrillado de traviesas'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2017/BG 09.02.2017 FR_Derailment in Dalgopol-Komunari.md"
+ },
+ "md-es/BG/2017/BG 12.10.2017 FR_Fire in RS_12 10 2017.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   8,
+   11,
+   14
+  ],
+  "fidelidad_media": 97.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Art. 68, par. 1, item 2 traducido como 'letra b)' en lugar de 'punto 2' o 'apartado 2'",
+   "Art. 115k, par. 1, item 2 traducido como 'letra b)' en lugar de 'punto 2' o 'apartado 2'"
+  ],
+  "fallos": [
+   {
+    "pagina": 11,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción es completa y fiel, pero contiene un error en la hora de salida de la estación de Poduyane (15:26 en lugar de 13:26)."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2017/BG 12.10.2017 FR_Fire in RS_12 10 2017.md"
+ },
+ "md-es/BG/2019/BG 09.04.2019 Fire in RS_09.04.2019.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 98.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "RD of MoI traducido como MIA (Ministerio del Interior) en lugar de una traducción más literal como 'Departamento Regional del Ministerio del Interior'",
+   "strong compressor traducido como 'compresor robusto' en lugar de 'compresor intacto' o 'compresor en buen estado'",
+   "large plan overhaul traducido como 'gran revisión general programada' en lugar de 'gran revisión planificada'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2019/BG 09.04.2019 Fire in RS_09.04.2019.md"
+ },
+ "md-es/BG/2019/BG-6127-OKON. DOKLAD 19205_БС ENG.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   13,
+   17,
+   21
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "guardaagujas no es el término correcto para 'crossing guard'; debería ser 'guardabarrera' o 'guardavía'",
+   "RTMSA no se traduce ni se explica, se mantiene como sigla sin desarrollar"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2019/BG-6127-OKON. DOKLAD 19205_БС ENG.md"
+ },
+ "md-es/BG/2019/BG 26.01.2019 FR Derailment_26.01.2019.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   12,
+   16,
+   20
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "warning signal traducido como 'señal de advertencia' en lugar de 'señal de avance' o 'señal de anuncio'",
+   "railcrossing traducido como 'paso a nivel' en lugar de 'cruce de vías' o 'travesía de vías'",
+   "insurance equipment traducido como 'equipos de protección' en lugar de 'equipos de seguridad' o 'equipos de enclavamiento'",
+   "deflective -> de desvío (mejor: desviada)",
+   "deaf -> topera (mejor: vía muerta)",
+   "climbing -> rampa ascendente (mejor: pendiente ascendente)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2019/BG 26.01.2019 FR Derailment_26.01.2019.md"
+ },
+ "md-es/BG/2019/FR Collision of RS_14.10.2019.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   13,
+   17,
+   22
+  ],
+  "fidelidad_media": 93.3,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "post pointsman traducido como 'Agujero de puesto' en lugar de 'Guardagujas' o 'Cambiador de agujas'",
+   "Rail Maintenance Car traducido como 'Vagón de Mantenimiento de Vías' en lugar de 'Dresina de mantenimiento de vía' o 'Vehículo de mantenimiento de vía'",
+   "agujeros: traducción incorrecta de 'pointsmen' (guardagujas o cambiavías)",
+   "Punto de Aprovisionamiento: traducción de 'Outfit Point' no normalizada",
+   "Posible inconsistencia: 'Rail Maintenance Car-33' se traduce como 'Coche de Mantenimiento de Vías-33', pero en el original también aparece 'Rail Maintenance Car' sin el número en una ocasión; la traducción lo resuelve añadiendo el número, lo cual es aceptable.",
+   "'Senior dispatcher' se traduce como 'Jefe de Turno de la guardia diurna', lo cual es una interpretación libre; 'dispatcher' normalmente se traduce como 'regulador' o 'despachador'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2019/FR Collision of RS_14.10.2019.md"
+ },
+ "md-es/BG/2019/FR_Fire in RS_11.08.2019.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'LIFT REPAIR /LR/' como 'REPARACIÓN DE ELEVACIÓN /RE/' en lugar de 'REPARACIÓN DE LEVANTE' o 'REPARACIÓN DE IZADO'.",
+   "Traducción de 'REPAIR BY NECESSITY TI /RN/' como 'REPARACIÓN POR NECESIDAD TI /RNTI/' en lugar de 'REPARACIÓN POR NECESIDAD /RN/'.",
+   "Traducción de 'noise 3 reduction gear' como 'ruido 1ДК, engranaje de reducción 3' en lugar de 'ruido 3 engranaje reductor'.",
+   "electrometro (electrometer) no es el término normalizado; debería ser 'registrador' o 'medidor eléctrico'",
+   "análisis ciertos (certain analyzes) es una traducción literal; debería ser 'análisis fiables' o 'análisis concluyentes'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2019/FR_Fire in RS_11.08.2019.md"
+ },
+ "md-es/BG/2020/BG-10063-FINAL REPORT N. Z. _80561- ENG ERA.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   10,
+   19,
+   30,
+   40,
+   50
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "cambio de ancho de vía de 1530 mm: el original dice 'switch 1530 mm track gauge', que se refiere a un cambio con ancho de vía de 1530 mm, no a una zona de cambio de ancho",
+   "coches vs vagones: el original usa 'cars' y 'wagon' indistintamente; la traducción usa 'coches' para 'cars' y 'vagón' para 'wagon', lo cual es aceptable pero inconsistente",
+   "bogey/bogies en lugar de bogie/bogies",
+   "desgaste en el saliente en lugar de unrolling is found on the ledge"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2020/BG-10063-FINAL REPORT N. Z. _80561- ENG ERA.md"
+ },
+ "md-es/BG/2020/BG-10064-Final report 44094 20.04.21.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   12,
+   17,
+   22,
+   27
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2020/BG-10064-Final report 44094 20.04.21.md"
+ },
+ "md-es/BG/2020/BG-10068 - Final report_46041 (002).md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   12,
+   19,
+   25,
+   30
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "Break/rest traducido como 'Descanso/trabajo' en lugar de 'Descanso/reposo'"
+  ],
+  "fallos": [
+   {
+    "pagina": 19,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "antes de que fuera observado visualmente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "wheel-set traducido como 'bogie' en lugar de 'juego de ruedas' o 'eje montado'",
+     "rise point traducido como 'punto de elevación' en lugar de 'punto de peralte' o 'punto de levantamiento'"
+    ],
+    "comentario": "La traducción contiene una invención en la frase sobre la inspección visual y utiliza términos técnicos no normalizados para 'wheel-set' y 'rise point'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2020/BG-10068 - Final report_46041 (002).md"
+ },
+ "md-es/BG/2021/BG-10081 - Оконч. доклад 30602.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   13,
+   20,
+   30,
+   36
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 90,
+  "sin_dictamen": [],
+  "terminos": [
+   "draft gear traducido como 'enganche' en lugar de 'aparato de tracción' o 'equipo de tracción'",
+   "wheelsets traducido como 'ejes de ruedas' en lugar de 'juegos de ruedas' o 'ejes montados'",
+   "spring system traducido como 'sistema de suspensión' en lugar de 'sistema de muelles' o 'sistema de resortes'",
+   "DFT traducido como TMD (Tren de Mercancías Directo) en lugar de mantener la sigla original o usar una traducción normalizada",
+   "train dispatcher traducido como 'jefe de tráfico' en lugar de 'despachador de trenes' o 'jefe de circulación'",
+   "traffic manager on-duty traducido como 'jefe de circulación de turno' en lugar de 'responsable de circulación de turno'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2021/BG-10081 - Оконч. доклад 30602.md"
+ },
+ "md-es/BG/2021/BG-10089 - Final report 90593 NIB BG 3.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   10,
+   18,
+   29,
+   45,
+   54
+  ],
+  "fidelidad_media": 98.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'wheelbase transitions' como 'transiciones de la distancia entre ejes' en lugar de 'transiciones de batalla' o 'transiciones de distancia entre ejes'",
+   "Traducción de 'central bolts' como 'bulones centrales' en lugar de 'pernos centrales'",
+   "Traducción de 'joints under level' como 'juntas en el nivel transversal' en lugar de 'juntas bajo nivel'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2021/BG-10089 - Final report 90593 NIB BG 3.md"
+ },
+ "md-es/BG/2021/BG-10123 - FINAL REPORT 30610.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   14,
+   20,
+   26,
+   32
+  ],
+  "fidelidad_media": 95.5,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 32,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la fila 'Normativedifferenceinthewheelsload' con el valor 'до125' en la tabla original, aunque se incluye como 'Diferencia normativa en la carga de las ruedas: hasta 1,25'",
+     "Falta la nota al pie '1 The measurements were performed after change of the derailed bogie with regular one.' en la tabla original, aunque se incluye como nota al pie en la traducción"
+    ],
+    "invenciones": [
+     "Se añade 'durante maniobras de remolque y empuje con la locomotora n.º 52-119' que no aparece en el original",
+     "Se añade 'obteniéndose los siguientes resultados (Tabla 1)' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade información no presente en el original sobre maniobras y locomotora, y omite la fila normativa de la tabla original."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2021/BG-10123 - FINAL REPORT 30610.md"
+ },
+ "md-es/BG/2021/BG-10124 - Final report 50215 1.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   6,
+   11,
+   18,
+   23,
+   29
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "WD traducido como 'Depósito de Vagones' en lugar de 'Depósito de Locomotoras' o 'Depósito de Material Remolcado' (WD = Wagon Depot)",
+   "PT traducido como 'TP' en lugar de 'Tren de Pasajeros'",
+   "fireplace traducido como 'chimenea' en lugar de 'foco del incendio' o 'zona del incendio'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2021/BG-10124 - Final report 50215 1.md"
+ },
+ "md-es/BG/2022/BG-10235 - Final report 7623_NIB ENG.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   9,
+   16,
+   29,
+   36,
+   43
+  ],
+  "fidelidad_media": 96.3,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "procedimiento preprocesal",
+   "acciones restaurativas",
+   "trayecto entre estaciones",
+   "wheel-sets traducido como 'bogies' (debería ser 'ejes montados' o 'juegos de ruedas')",
+   "three-phase AC collector converter traducido como 'convertidor colector de CA trifásico' (debería ser 'convertidor-colector de corriente alterna trifásica')",
+   "mechanical speedometer synchronous electric motors traducido como 'motores eléctricos síncronos mecánicos del velocímetro' (debería ser 'motores eléctricos síncronos del velocímetro mecánico')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2022/BG-10235 - Final report 7623_NIB ENG.md"
+ },
+ "md-es/BG/2022/BG-10275 - Final report 30592 - Страница 1.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   10,
+   17,
+   24,
+   34,
+   40
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "wheel-sets traducido como 'bogies' en lugar de 'ejes montados' o 'juegos de ruedas'",
+   "rail crossing traducido como 'cruce de raíles' en lugar de 'paso a nivel' o 'cruce de vía'",
+   "trackman traducido como 'capataz de vía' en lugar de 'vigilante de vía' u 'operario de vía'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2022/BG-10275 - Final report 30592 - Страница 1.md"
+ },
+ "md-es/BG/2022/BG-10330 - Final report 2613_NIB BG.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   9,
+   17,
+   27,
+   38,
+   45
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 90,
+  "sin_dictamen": [],
+  "terminos": [
+   "SMS traducido como SGS en la última frase (original: 'listed in the SMS'; traducción: 'incluidos en el SGS')",
+   "Agujero de puesto (traducción incorrecta de 'Post switchman'; debería ser 'Guardagujas de puesto')",
+   "cruce de raíles (traducción incorrecta de 'rail crossing'; debería ser 'paso a nivel')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2022/BG-10330 - Final report 2613_NIB BG.md"
+ },
+ "md-es/BG/2023/BG-10353 - Final report 44169_NIB (01).md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   9,
+   17,
+   25,
+   38,
+   46
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "En 4.3.3.9, 'evaluation and assessment' se traduce como 'evaluación y valoración', cuando en el Reglamento (UE) n.º 402/2013 el término normalizado en español es 'evaluación y valoración del riesgo' (aunque la traducción añade 'del riesgos' con error gramatical).",
+   "En 4.3.3.6, 'powers related issues' se traduce como 'cuestiones relativas a competencias', cuando 'powers' en este contexto se refiere a 'facultades' o 'atribuciones', no a 'competencias'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2023/BG-10353 - Final report 44169_NIB (01).md"
+ },
+ "md-es/BG/2023/BG-10381 - Final report 40832 _NIB BG.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   17,
+   26,
+   34,
+   46
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "wheel-sets traducido como 'bogies' en lugar de 'ejes montados' o 'pares de ruedas'",
+   "RRS traducido como 'MR' en lugar de 'material rodante ferroviario'",
+   "trenched and layered flanges traducido como 'llantas ranuradas y estratificadas' en lugar de 'pestañas ranuradas y estratificadas'",
+   "Clearance gauge framework traducido como 'Marco de gálibo de espacio libre' en lugar de 'Gálibo de carga' o 'Gálibo de material rodante'",
+   "bogie less traducido como 'sin bogies' en lugar de 'sin bogie'",
+   "taller-free buffers traducido como 'topes libres más altos' en lugar de 'topes sin realce' o 'topes de altura libre'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2023/BG-10381 - Final report 40832 _NIB BG.md"
+ },
+ "md-es/BG/2023/BG-10433 - Final report 80132_NIB BG 2.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   16,
+   27,
+   34,
+   41
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "rail crossing traducido como 'paso a nivel' en lugar de 'cruce de vía' o 'travesía'",
+   "junction station traducido como 'estación nodal' en lugar de 'estación de empalme'",
+   "traffic managers on duty traducido como 'jefes de estación de servicio' en lugar de 'responsables de circulación de servicio'",
+   "train dispatcher traducido como 'jefe de circulación' en lugar de 'regulador de trenes' o 'despachador de trenes'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2023/BG-10433 - Final report 80132_NIB BG 2.md"
+ },
+ "md-es/BG/2023/BG-10485 - Final report 44202_NIB BG ENG 1.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   13,
+   21,
+   28,
+   35
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2023/BG-10485 - Final report 44202_NIB BG ENG 1.md"
+ },
+ "md-es/BG/2023/BG-10472 - Final report IP4IL_NIB BG.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   16,
+   24,
+   32,
+   39
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "ST traducido como TM (tren de maniobras) en lugar de mantener la abreviatura original o usar 'tren de servicio'",
+   "traffic manager on duty first person traducido como 'jefe de circulación de primera categoría' en lugar de 'jefe de circulación de primera persona'",
+   "traffic manager on duty second person traducido como 'jefe de circulación de segunda categoría' en lugar de 'jefe de circulación de segunda persona'",
+   "chainsaw traducido como 'motosierra' y 'desbrozadora' para el mismo término original 'chainsaw'",
+   "El original menciona 'a chainsaw, a chainsaw and two canisters' (repetición de 'chainsaw'), mientras que la traducción dice 'una motosierra, una desbrozadora y dos bidones', lo que corrige la repetición pero introduce 'desbrozadora' para el segundo 'chainsaw'.",
+   "El original dice 'motor mower' (segadora motorizada), traducido como 'desbrozadora', que es un término técnico diferente."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2023/BG-10472 - Final report IP4IL_NIB BG.md"
+ },
+ "md-es/BG/2024/bg-10561 - final report_nib bg_2654.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   9,
+   17,
+   25,
+   33,
+   41
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "interstation traducido como 'intersección' en lugar de 'trayecto' o 'interestación'",
+   "current track traducido como 'vía actual' en lugar de 'vía en curso' o 'vía actual de trabajo'",
+   "siding traducido como 'apartadero' en lugar de 'vía de apartado' o 'desvío'",
+   "broken gauge traducido como 'ancho de vía reducido' en lugar de 'rotura de ancho de vía' o 'ancho de vía roto'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2024/bg-10561 - final report_nib bg_2654.md"
+ },
+ "md-es/BG/2024/bg-10523 - final report_46660_eng стр.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   9,
+   17,
+   26,
+   35,
+   43
+  ],
+  "fidelidad_media": 94.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "estación de transmisión de Radnevo",
+   "wheel-set traducido como 'bogie' en lugar de 'eje montado' o 'juego de ruedas'",
+   "RRS traducido como 'SRR' en lugar de mantener la sigla o traducirla correctamente",
+   "wheelsets traducido como 'bogies' en lugar de 'juegos de ruedas' o 'ejes montados'",
+   "wagon traducido como 'coche' en un contexto de tren de mercancías, debería ser 'vagón'",
+   "разстояние между кръговете на търкаляне на колоосите на вагона sin traducir"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2024/bg-10523 - final report_46660_eng стр.md"
+ },
+ "md-es/BG/2024/bg-10562 - final report_30114_nib bg.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   14,
+   23,
+   29,
+   35
+  ],
+  "fidelidad_media": 97.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "SMS traducido como SGS (Sistema de Gestión de la Seguridad) en lugar de SMS (Safety Management System)",
+   "MR no traducido ni desarrollado (mantenimiento/reparación de vía)",
+   "PT traducido como TP en lugar de tren de pasajeros",
+   "interstation traducido como 'intersección' en lugar de 'interestación' o 'tramo entre estaciones'",
+   "sweeping traducido como 'barrido' en lugar de 'socavación' o 'desplazamiento'",
+   "hidden sags traducido como 'flechas ocultas' en lugar de 'asientos ocultos' o 'hundimientos ocultos'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2024/bg-10562 - final report_30114_nib bg.md"
+ },
+ "md-es/BG/2025/bg-10711 - final report_nib bg_ 80694 2.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   11,
+   22,
+   35,
+   46,
+   57
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "interstation traducido como 'sección entre estaciones' en lugar de 'trayecto intermedio' o 'vía entre estaciones'",
+   "Lyubenovo distributing no traducido (debería ser 'distribuidora')",
+   "Sistemas de protección de tren (debería ser 'Sistemas de protección del tren' o 'Sistemas de protección de trenes')",
+   "Conexión de radio para la regulación de trenes (TDRC) - traducción no normalizada de 'Train dispatching radio connection'",
+   "Purpose: highway traducido como 'Finalidad: línea principal' (debería ser 'línea' o 'servicio de línea', no 'línea principal')",
+   "Maximum voltage traducido como 'Potencia máxima' (debería ser 'Tensión máxima')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2025/bg-10711 - final report_nib bg_ 80694 2.md"
+ },
+ "md-es/BG/2025/bg-10748 - final report station eliseyna.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   13,
+   28,
+   40,
+   53,
+   65
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "GSM R traducido como GSM-R (normalización de sigla)",
+   "СУБ traducido como SGS (Sistema de Gestión de la Seguridad) en lugar de SMS (Sistema de Gestión de la Seguridad) según normativa ferroviaria española",
+   "ДП НКЖИ traducido como 'empresa pública NKZhI' en lugar de mantener la sigla original o usar 'DP NKZhI'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2025/bg-10748 - final report station eliseyna.md"
+ },
+ "md-es/BG/2025/bg-10749 - final report_ nib bg_91520044060-9 (1).md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   15,
+   26,
+   33,
+   41
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'switchman/posts' como 'aguja/maniobras' es imprecisa; debería ser 'guardagujas/puestos' o 'operador de agujas/puestos'.",
+   "Traducción de 'traffic manager on duty' como 'jefe de circulación de servicio' es aceptable, pero 'gestor de tráfico de servicio' sería más literal.",
+   "Traducción de 'cyclist' como 'cíclicas' es correcta en contexto, pero el original parece contener un error tipográfico ('cyclist' en lugar de 'cyclic')."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2025/bg-10749 - final report_ nib bg_91520044060-9 (1).md"
+ },
+ "md-es/BG/2025/final report_nib bg_sprm kmz-svch.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   13,
+   26,
+   46,
+   59,
+   73
+  ],
+  "fidelidad_media": 92.5,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [
+   "interstation traducido como 'intersección' en lugar de 'estación intermedia' o 'tramo entre estaciones'",
+   "National Railway Infrastructure traducido como nombre propio en lugar de 'Infraestructura Ferroviaria Nacional'",
+   "traffic controller -> controlador de tráfico (término no normalizado; se espera 'responsable de circulación' o 'gestor de tráfico')",
+   "traffic manager -> gestor de tráfico (inconsistente con 'controlador de tráfico' para el mismo rol)",
+   "dispatch interlocking -> enclavamiento centralizado (posible imprecisión; 'interlocking' es 'enclavamiento', pero 'dispatch interlocking' podría referirse a un puesto de mando específico)",
+   "switchman -> guardagujas (correcto, pero 'shunting switchman' se traduce como 'guardagujas de maniobras', aceptable)"
+  ],
+  "fallos": [
+   {
+    "pagina": 26,
+    "fidelidad": 70,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "Switchman/Level Controller traducido como 'Agujero/Controlador de Nivel' (debería ser 'Guardagujas/Controlador de Nivel' o similar)",
+     "shunting switchman traducido como 'Agujero de maniobras' (debería ser 'Guardagujas de maniobras')",
+     "DFT traducido como 'TM' (debería mantenerse 'DFT' o traducirse de forma normalizada)"
+    ],
+    "comentario": "La traducción contiene errores terminológicos graves en los puestos de personal ferroviario y en la traducción de 'block' como 'bloqueo' en lugar de 'bloque'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2025/final report_nib bg_sprm kmz-svch.md"
+ },
+ "md-es/BG/2026/bg-10799 - final_report_tsareva_livada_tryavna_eng.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   7,
+   14,
+   23,
+   30,
+   36
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "locomotor (debería ser locomotora)",
+   "bogies (debería ser ruedas o ejes montados; el original dice wheelsets)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2026/bg-10799 - final_report_tsareva_livada_tryavna_eng.md"
+ },
+ "md-es/BG/2026/bg-10803 - final report 44144.md": {
+  "estado": "ok",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   7,
+   15,
+   25,
+   32,
+   39
+  ],
+  "fidelidad_media": 98.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/BG/2026/bg-10803 - final report 44144.md"
+ }
+}

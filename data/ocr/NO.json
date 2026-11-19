@@ -1,0 +1,15 @@
+{
+ "md/NO/2009/kATTERAT2-250209.md": {
+  "md": "md/NO/2009/kATTERAT2-250209.md",
+  "pdf": "pdfs/NO/kATTERAT2-250209.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "nor",
+  "paginas": 1,
+  "paginas_vacias": 0,
+  "confianza_media": 70.0,
+  "confianza_min": 70.0,
+  "chars": 3003,
+  "md5_pdf": "7b5726697bfd0e52b2717784a4eaad3b",
+  "fecha": "2026-11-19"
+ }
+}

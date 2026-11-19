@@ -10,9 +10,10 @@ chars: 50511
 ratio_longitud: 1.05
 tokens_in: 17300
 tokens_out: 12912
-verificacion: ok
+verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 6: ratio 1.63"]
 ---
 ## Página 1
 

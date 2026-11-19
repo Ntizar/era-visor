@@ -10,19 +10,21 @@ chars: 474363
 ratio_longitud: 1.09
 tokens_in: 203182
 tokens_out: 136785
-verificacion: revisar
-notas_cifras: ["bloque 6: cifras cortas: 1/13", "bloque 9: cifras cortas: 3/24", "bloque 14: cifras cortas: 8/114", "bloque 15: cifras cortas: 7/80", "bloque 17: cifras cortas: 13/87", "bloque 23: cifras cortas: 16/27"]
-avisos: ["bloque 1: ratio 0.74", "bloque 29: cifras largas: faltan 4/10 (40%)", "bloque 32: cifras largas: faltan 5/20 (25%)", "bloque 36: marcadores de página: 2 vs 1", "bloque 58: cifras largas: faltan 5/14 (36%)", "bloque 65: cifras largas: faltan 19/69 (28%)"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 4: ratio 0.58", "página 59: cifras largas: faltan 2/4 (50%)", "página 83: cifras largas: faltan 2/8 (25%)", "página 134: cifras largas: faltan 4/9 (44%)"]
+notas_cifras: ["página 15: cifras cortas: 1/7", "página 17: original bilingüe: se compara contra el idioma principal (EN)", "página 23: cifras cortas: 1/8", "página 24: cifras cortas: 2/13", "página 28: cifras cortas: 3/22", "página 34: cifras cortas: 8/24"]
 ---
+
 ## Página 1
+
 
 Accidente ferroviario
 Voorschoten
 
-
 ## Página 2
+
 
 # Accidente ferroviario
 # Voorschoten
@@ -30,8 +32,8 @@ La Haya, mayo de 2024
 Los informes del Consejo de Seguridad son públicos y están disponibles en www.onderzoeksraad.nl. 
 Foto de portada: Fotografía aérea del descarrilamiento (fuente: Josh Walet Fotografie).
 
-
 ## Página 3
+
 
 ### El Consejo de Seguridad
 Cuando se produce un accidente o una catástrofe, el Consejo de Seguridad investiga cómo pudo haber ocurrido, con el objetivo de extraer lecciones de ello. De esta manera, el Consejo contribuye a mejorar la seguridad de los Países Bajos. El Consejo es independiente y decide por sí mismo qué incidentes investiga. En ello, el Consejo se centra especialmente en situaciones en las que las personas dependen de terceros para su seguridad, por ejemplo, del gobierno o de empresas. En algunos casos, el Consejo está obligado a realizar investigaciones. Las investigaciones no abordan la culpa ni la responsabilidad.
@@ -45,16 +47,15 @@ Teléfono: 070 333 7000
 Sitio web: www.onderzoeksraad.nl
 Correo electrónico: info@onderzoeksraad.nl
 
-
 ## Página 4
 
 ## ÍNDICE
 Resumen.............................................................................................................. 6
-Consideraciones..................................................................................................11
-Recomendaciones...............................................................................................15
-Lista de abreviaturas.........................................................................................17
-Glosario.............................................................................................................19
-1	 Introducción................................................................................................... 23
+Consideraciones..............................................................................................................11
+Recomendaciones........................................................................................................... 15
+Lista de abreviaturas.................................................................................................. 17
+Glosario de términos............................................................................................................. 19
+1	 Introducción............................................................................................................... 23
 1.1	
 Motivo de la investigación23
 1.2	
@@ -71,7 +72,7 @@ Otras investigaciones29
 Marco de referencia29
 1.8	
 Guía de lectura33
-2	 Desarrollo de los hechos y escenarios....................................................................... 34
+2	 Suceso y escenarios....................................................................................... 34
 2.1	
 Trabajos entre La Haya y Leiden34
 2.2	
@@ -79,18 +80,18 @@ Ejecución de los trabajos40
 2.3	
 Colisiones46
 2.4	
-Asistencia sanitaria y víctimas50
+Asistencia y víctimas50
 2.5	
 Escenarios51
 3	 Análisis................................................................................................................ 54
 3.1	
-Trabajos junto a vías por las que circulan trenes55
+Trabajos con paso de trenes55
 3.2	
-Aislamiento de la zona de trabajo y orientación64
+Protección de la zona de trabajo y orientación64
 3.3	
 Comunicación y acompañamiento76
 3.4	
-El trabajo nocturno como factor de aumento del riesgo86
+Los trabajos nocturnos como factor de aumento del riesgo86
 4	 Factores a nivel sistémico..................................................................................94
 4.1	
 Las partes aprenden limitadamente de los accidentes94
@@ -99,12 +100,12 @@ Riesgos identificados pero no seguidos96
 4.3	
 Presión del Ministerio de Infraestructura y Gestión del Agua (IenW) sobre ProRail como gestor98
 4.4	
-ProRail externaliza la responsabilidad de la seguridad99
+ProRail externaliza la responsabilidad en materia de seguridad99
 4.5	
-El mantenimiento de la vía tiene baja prioridad en la supervisión102
-
+El mantenimiento de vía tiene baja prioridad en la supervisión102
 
 ## Página 5
+
 
 5	 Conclusiones...........................................................................................................106
 6	 Recomendaciones....................................................................................................109
@@ -115,6 +116,7 @@ Anexo D Descripción detallada de los hechos....................................
 Anexo E Recursos auxiliares............................................................................................175
 
 ## Página 6
+
 
 ## Resumen
 En la noche del 4 de abril de 2023, a las 03:23 horas, un tren de mercancías colisionó con una grúa sobre camiones –una excavadora móvil– en la estación de Voorschoten. En el momento de la colisión, la grúa se encontraba en una vía en servicio por la que circulaba el tren de mercancías. El operador de la grúa falleció como consecuencia de la colisión con el tren de mercancías. El maquinista del tren de mercancías resultó herido y la locomotora sufrió daños graves.
@@ -130,8 +132,8 @@ Las preguntas de investigación que constituyen el eje central de esta investiga
 2.	 ¿Cómo se integran la seguridad laboral y la seguridad ferroviaria en la planificación y ejecución de los trabajos en la vía mientras el tráfico ferroviario continúa? ¿Cómo supervisan esto las partes ferroviarias responsables y los organismos de vigilancia?
 Para responder a estas preguntas, el Consejo de Investigación ha determinado la secuencia de los hechos. A continuación, se han analizado el accidente y el sistema de las partes implicadas. Para ello se ha utilizado, entre otros, información del lugar del accidente, entrevistas y documentos de las partes implicadas. Además, se han celebrado grupos de discusión y se han analizado un gran número de accidentes (casi-accidentes) comparables.
 
-
 ## Página 7
+
 
 Respuesta a la primera pregunta de investigación: causa del accidente
 El Consejo de Investigación no ha podido determinar la causa directa del accidente. No obstante, basándose en el análisis del accidente, el Consejo ha identificado los factores que (posiblemente) contribuyeron a la posibilidad de que ocurriera este accidente ferroviario y accidentes (casi-accidentes) comparables. Estos son:
@@ -149,6 +151,7 @@ Otro factor importante del accidente fue la manera en que estaban organizados lo
 
 ## Página 8
 
+
 De un análisis realizado por ProRail tras el accidente se desprende que la zona de trabajo sobre la vía en Voorschoten es una de las más riesgosas de los Países Bajos. Así, en el momento del accidente, los trabajadores dependían de períodos temporales breves durante los cuales se sacaban de servicio las vías para poder acceder a su lugar de trabajo y abandonarlo. Además, no era visible in situ para los trabajadores presentes en la vía si las vías estaban en servicio o fuera de servicio. En la actualidad, ProRail y los contratistas de mantenimiento apenas utilizan herramientas que permitan a las personas que ejecutan trabajos de mantenimiento sobre o junto a la vía orientarse por sí mismas o verificar si las vías están fuera de servicio. Se han desarrollado diversas herramientas –como talleres móviles y terminales portátiles–, pero no se aplican (a nivel nacional).
 
 Comunicación y supervisión
@@ -159,8 +162,8 @@ El accidente de Voorschoten y otros accidentes e incidentes graves muestran que 
 Trabajos nocturnos y exceso de turnos como factores que incrementan el riesgo
 Las tareas del operador de grúa, del jefe de protección de la zona de trabajo y del jefe de seguridad local se realizaban por la noche, en un período en el que, según investigaciones científicas, las personas están menos alerta. La probabilidad de errores y mala comunicación aumenta cuanto menos alerta estén las personas. En el caso del operador de grúa, no se encontraron indicios de fatiga basándose en el horario; sí se hallaron en el caso del jefe de protección de la zona de trabajo y del jefe de seguridad local. Ambos funcionarios habían trabajado (considerablemente) más horas de las permitidas según las normas de la Ley de Tiempo de Trabajo. Del registro de la comunicación de seguridad del jefe de protección de la zona de trabajo no se desprende que la fatiga desempeñara un papel en la comunicación. La comunicación del jefe de seguridad local con el operador de grúa no quedó registrada.
 
-
 ## Página 9
+
 
 En los trabajos de mantenimiento (ordinarios) de la vía, las personas trabajan principalmente por la noche. ProRail y los contratistas ferroviarios –también en su colaboración dentro de railAlert– prestan poca atención a las consecuencias de estos trabajos nocturnos para la seguridad de sus empleados. Además, no cumplen con la legislación y normativa vigentes.
 El sector está investigando actualmente cómo trasladar el mantenimiento de la noche al día.
@@ -175,6 +178,7 @@ Así, la Inspección Laboral Neerlandesa y la Inspección para el Medio Ambiente
 
 ## Página 10
 
+
 en caso de accidentes, los siniestros durante el mantenimiento ferroviario tienen poca prioridad en su supervisión. Una limitación adicional reside en las posibilidades que tiene la Inspección de Trabajo para exigir responsabilidades a ProRail en su calidad de comitente: la Inspección de Trabajo no puede imponer a ProRail la paralización de los trabajos, pero sí puede exigirle responsabilidad por su papel como comitente.
 En resumen
 El Consejo de Investigación no ha podido determinar cómo la grúa terminó sobre una vía en servicio. No obstante, el Consejo ha identificado factores del accidente que podrían haber contribuido a su ocurrencia: los trenes circulaban junto a los trabajos y las zonas de trabajo no se protegieron de forma robusta frente a los trenes en circulación, sino mediante comunicación verbal.
@@ -182,8 +186,8 @@ ProRail ha delegado en gran medida su responsabilidad de garantizar una circulac
 En la planificación y ejecución de los trabajos, la atención se centra en la seguridad laboral, no en los riesgos que los trabajos suponen para los trenes que pasan (seguridad ferroviaria).
 El riesgo de que las personas trabajen demasiadas horas y durante la noche aún no se ha reconocido en la normativa sectorial.
 
-
 ## Página 11
+
 
 ## CONSIDERACIONES
 La red ferroviaria neerlandesa es la más intensamente utilizada de Europa. En su plan de gestión 2022-2023, ProRail comunicó que se prepara para un aumento del 35 % en los trabajos de vía y estaciones durante los próximos tres años. La ambición asociada a ello es mantener la vía disponible para la circulación de trenes tanto como sea posible. Esta ambición entra en tensión con la seguridad de los trabajos, como se desprende claramente del análisis del accidente de Voorschoten.
@@ -196,6 +200,7 @@ En la práctica, la Secretaria de Estado dirige principalmente hacia la disponib
 
 ## Página 12
 
+
 como prioridad política para seguir esforzándose, durante la ejecución de los trabajos, por reducir los costes y las molestias por unidad de trabajo para el transporte de viajeros y de mercancías. Calificar la ejecución de la tarea de mantenimiento como una molestia y no relacionarla con el interés de la seguridad implica que la seguridad puede quedar subordinada a la disponibilidad de la vía férrea. Un cierto grado de molestia es inevitable para mantener una red ferroviaria segura y fiable para la sociedad en su conjunto. Sin embargo, el Secretario de Estado delega la responsabilidad en ProRail sin supervisar activamente cómo se ponderan mutuamente los diferentes intereses públicos restantes.
 Ejemplos de énfasis que el Secretario de Estado podría mencionar explícitamente (exigir) en la transferencia de responsabilidad a ProRail son: la recopilación, análisis y aprovechamiento de la información de seguridad a lo largo de toda la cadena (incluidos los operadores), trabajar sobre la base de un análisis integral de riesgos derivado de ello, introducir ciclos de planificar-hacer-verificar-actuar (PDCA) especialmente en los trabajos de alto riesgo y eliminar los obstáculos para estimular y aprovechar ampliamente las innovaciones en materia de seguridad.
 Mayor atención a la seguridad ferroviaria
@@ -206,8 +211,8 @@ La seguridad en y a lo largo de la red ferroviaria neerlandesa podría entrar en
 Del análisis de riesgos a un ciclo de aprendizaje cerrado
 ProRail, como gestor de la infraestructura y como cliente de los contratistas de mantenimiento, es legalmente responsable primario de dar contenido a la seguridad en el ferrocarril y a la seguridad durante los trabajos, tanto para quienes trabajan en la vía como
 
-
 ## Página 13
+
 
 para los pasajeros de los trenes y los residentes cercanos a la vía. Esta investigación muestra que también ProRail da un contenido limitado a esta responsabilidad. Así, destaca que ProRail deposita casi por completo esta responsabilidad en railAlert.
 En cuanto a la responsabilidad de ProRail como cliente, el Consejo de Investigación observa que ProRail transmite en gran medida, de uno a uno, el control de la seguridad de los trabajos a los contratistas de mantenimiento sin mantener ella misma el mando sobre la seguridad ni añadir información. Así, ProRail decide qué tramos de vía salen de servicio, pero en la preparación concreta y la operación no informan a los contratistas de mantenimiento sobre riesgos específicos, por ejemplo, en relación con los puntos de colocación de raíles.
@@ -221,11 +226,12 @@ En los trabajos de mantenimiento ordinarios en la vía, el énfasis recae actual
 
 ## Página 14
 
+
 los tiempos de descanso de todos los implicados deben cumplir, como límite absoluto inferior, la Ley de Tiempos de Trabajo (Arbeidstijdenwet) y aplicarse los principios de una programación saludable. Tanto desde el punto de vista del trabajador individual como desde el de las organizaciones implicadas, existen factores que conducen más bien a trabajar más horas y durante más tiempo en horario nocturno, en lugar de prestar atención a la protección del bienestar de los trabajadores ferroviarios individuales. Los trabajadores autónomos sin empleados (zzp’ers) son especialmente vulnerables en este aspecto, porque quedan fuera de la normativa de la Ley de Tiempos de Trabajo y porque es difícil obtener una visión compartida de su tiempo de trabajo. A menudo desempeñan funciones de seguridad, pero falta visibilidad sobre sus tiempos de trabajo y descanso debido a que la Ley de Tiempos de Trabajo no les es aplicable.
 El sector tiene la ambición, dada la problemática del mercado laboral, de trasladar los trabajos de mantenimiento de la noche al día. Este traslado conlleva nuevos riesgos, distintos, teniendo en cuenta también la creciente necesidad de mantenimiento. No solo pasarán trenes con mayor frecuencia junto a las zonas de trabajo durante el día, sino que también existe el riesgo de que la seguridad se vea comprometida durante el día en detrimento del mantenimiento de la disponibilidad de la red ferroviaria. En este contexto, es importante hacer visible la necesidad y la comprensión de las molestias causadas por los trabajos de mantenimiento en la red ferroviaria, tanto de noche como de día. Para la sociedad, para mantener un ferrocarril seguro y fiable, y para los trabajadores del ferrocarril, para crear un entorno de trabajo seguro y saludable.
 
-
 ## Página 15
+
 
 ## Recomendaciones
 El Consejo de Investigación ha detectado déficits estructurales en la gestión de los riesgos asociados a los trabajos en la vía férrea. El Consejo observa posibilidades para que las partes implicadas adopten conjuntamente medidas para subsanar estos déficits y contribuir así a un entorno de trabajo seguro, a la seguridad de los desplazamientos de los usuarios del ferrocarril y a un entorno vital seguro alrededor de la infraestructura ferroviaria.
@@ -238,8 +244,8 @@ A ProRail
 1	
 Conforme a la Decisión del Consejo de Seguridad, todas las recomendaciones van dirigidas también a la Inspección de Vivienda y Transporte (ILT). La ILT evaluará el seguimiento de las recomendaciones e informará al respecto al Consejo.
 
-
 ## Página 16
+
 
 4.	 Promover la seguridad de los trabajadores del ferrocarril. Si no es posible poner fuera de servicio todas las vías, garantizar al menos lo siguiente:
 a.	 Un resguardo físico robusto del puesto de trabajo.
@@ -252,70 +258,70 @@ mr. C.A.J.F. Verheij
 Presidente 
 Secretario-director
 
-
 ## Página 17
 
-## Lista de abreviaturas
+## LISTA DE ABREVIATURAS
 Abreviatura
 Descripción
 AHS
 Estrategia de higiene laboral
 ALARP
-As low as reasonably practicable (Tan bajo como sea razonablemente practicable)
+Tan bajo como sea razonablemente practicable
 ATW
-Ley de Tiempos de Trabajo (Arbeidstijdenwet)
+Ley de tiempos de trabajo
 BBD
-Guía de personal en servicio fuera de la estación (Begeleider buitendienstgesteld spoor)
+Supervisor de personal en servicio exterior
 BD
-Fuera de servicio (posicionamiento fuera de servicio)
+Fuera de servicio (servicio exterior)
 BVR
 Riesgo básico de seguridad
 BVS
-Reglamento de operación de instalaciones de señalización (Bedieningsvoorschrift seinwezeninstallatie)
+Reglamento de explotación de instalaciones de señalización
 CAO
-Convenio colectivo de trabajo (Collectieve arbeidsovereenkomst)
+Convenio colectivo de trabajo
 CSM
-Common Safety Methods (Métodos Comunes de Seguridad)
+Métodos comunes de seguridad
 DVP
-Pasaporte digital de seguridad (Digitaal veiligheidspaspoort)
+Pasaporte digital de seguridad
 EU
 Unión Europea
 ERTMS
-European Rail Traffic Management System (Sistema Europeo de Gestión del Tráfico Ferroviario)
+Sistema Europeo de Gestión del Tráfico Ferroviario
 GPS
-Global positioning system (Sistema de posicionamiento global)
+Sistema global de posicionamiento
 GRIP
-Procedimiento Coordinado Regional de Gestión de Incidentes (Gecoördineerde Regionale IncidentbestrijdingsProcedure)
+Procedimiento Regional Coordinado de Gestión de Incidentes
 GSM-R
-Global System for Mobile communications for Railways (Sistema Global para Comunicaciones Móviles para Ferrocarriles)
+Sistema Global para Comunicaciones Móviles para Ferrocarriles
 IAM
-Información al maquinista (Informatie aan machinist)
+Información al maquinista
 IenW
-Ministerio de Infraestructura y Gestión del Agua (Ministerie van Infrastructuur en Waterstaat)
+Ministerio de Infraestructura y Gestión del Agua
 ILT
-Inspección de Vivienda y Transporte (Inspectie Leefomgeving en Transport)
+Inspección de Medio Ambiente y Transporte
 KROL
-Grúa sobre camiones plataforma (Kraan op lorries)
+Grúa sobre camión
 LAE-borden
-Señales 325a (cartel L), 326a (cartel A) y 327a (cartel E)
+Señales 325a (señal L), 326a (señal A) y 327a (señal E)
 LLV
-Responsable local de seguridad (Leider lokale veiligheid)
+Jefe de seguridad local
 LWB
-Responsable de la seguridad del puesto de trabajo (Leider werkplekbeveiliging)
+Jefe de protección del lugar de trabajo
 MBV
-Notificación de incidente especial (Melding bijzonder voorval)
+Notificación de incidente especial
 NEN
-Instituto Neerlandés de Normalización (Nederlands Normalisatie-instituut)
+Instituto Neerlandés de Normalización
 NIPV
-Instituto Neerlandés de Seguridad Pública (Nederlands Instituut Publieke Veiligheid)
+Instituto Neerlandés de Seguridad Pública
 NLA
-Inspección Laboral Neerlandesa (Nederlandse Arbeidsinspectie)
+Inspección Laboral Neerlandesa
 NS
-Ferrocarriles Neerlandeses (Nederlandse Spoorwegen)
+Ferrocarriles Neerlandeses
 NVW
-Marco normativo de Trabajo Seguro (Normenkader Veilig Werken)
+Marco normativo de Trabajo Seguro
 
 ## Página 18
+
 
 Abreviatura
 Descripción
@@ -376,8 +382,8 @@ Lanza de cortocircuito autoseñalizante
 ZZP
 Trabajadores autónomos sin personal
 
-
 ## Página 19
+
 
 ## GLOSARIO DE TÉRMINOS
 Término
@@ -446,6 +452,7 @@ conforme al artículo 6 de la Directiva europea sobre seguridad ferroviaria
 
 ## Página 20
 
+
 Término
 Explicación
 Certificado digital de seguridad (DVP)
@@ -473,8 +480,8 @@ Funcionario de seguridad que, en nombre del responsable de la seguridad del pues
 Responsable de la seguridad del puesto de trabajo (LWB)
 Funcionario de seguridad responsable, dentro de la zona fuera de servicio, de la seguridad laboral de los trabajadores en lo que respecta al riesgo de atropello por parte de un tren y al riesgo de electrocución. El responsable de la seguridad del puesto de trabajo imparte instrucciones personales a cada responsable de la seguridad local.
 
-
 ## Página 21
+
 
 Término
 Explicación
@@ -503,6 +510,7 @@ En este expediente se incluyen los riesgos de seguridad y salud asociados al acc
 
 ## Página 22
 
+
 Concepto
 Explicación
 Plan de Seguridad y Salud (V&G-plan)
@@ -526,8 +534,8 @@ Un dispositivo con el que se cortocircuitan los dos carriles de la vía. Para la
 Zona de trabajo autosuficiente
 Una zona de trabajo en la que están presentes todos los elementos necesarios para realizar las actividades: material, herramientas, instalaciones de comedor y sanitarias.
 
-
 ## Página 23
+
 
 ## 1 INTRODUCCIÓN
 ## 1.1	
@@ -539,8 +547,8 @@ Una grúa sobre vagones plataforma (KROL) es una excavadora móvil o grúa pórt
 
 La grúa móvil utilizada en Voorschoten podía realizar diversas tareas mediante diferentes accesorios. Al circular por la vía, el vehículo sobre raíles debe cumplir requisitos específicos.
 
-
 ## Página 24
+
 
 A las 03.23 horas, un tren de mercancías embistió una grúa en la estación de Voorschoten. En el momento de la colisión, la grúa cruzaba una vía en servicio por la que circulaba el tren de mercancías a través de un punto de acceso a la vía³. El operador de la grúa falleció en la colisión con el tren de mercancías. El maquinista del tren de mercancías resultó herido y la locomotora sufrió daños graves.
 S Figura 2: Fotografía de una grúa sobre vagones plataforma del tipo implicado en el accidente.
@@ -557,6 +565,7 @@ Punto de acceso a la vía: una pavimentación construida entre y junto a las ví
 El Decreto OvV entiende por accidente grave relacionado con el ferrocarril: una colisión o descarrilamiento de trenes, en el que muere al menos una persona o cinco o más personas resultan gravemente heridas, o se causan grandes daños al material rodante, la infraestructura o el medio ambiente, o un accidente similar que tenga claras consecuencias para la normativa en materia de seguridad ferroviaria o la gestión de la seguridad, entendiéndose por «grandes daños» aquellos cuyos costes totales pueden ser estimados inmediatamente por el organismo investigador en al menos 2 millones de euros.
 
 ## Página 25
+
 
 continuar circulando, tanto en materia de seguridad laboral (peligro de atropello de operarios de vía) como en materia de seguridad ferroviaria (seguridad del tráfico ferroviario). A pesar de un extenso sistema de leyes y reglamentos, normas y procedimientos, se producen (casi-) accidentes. El incidente en Voorschoten plantea la pregunta de cómo se gestionan los riesgos de los trabajos en el ferrocarril en sentido amplio – es decir, desde el punto de vista tanto de la seguridad laboral como de la seguridad ferroviaria. El objetivo de esta investigación es determinar los factores subyacentes del accidente, para que puedan adoptarse medidas que impidan que estos factores vuelvan a provocar un accidente.
 ## 1.3	
@@ -582,10 +591,10 @@ por hora.
 El enfoque de esta investigación recae sobre el incidente donde el Consejo espera obtener la mayor ganancia en seguridad. Esto consiste en limitar el peligro de colisión y aumentar la seguridad ferroviaria durante las tareas de mantenimiento del ferrocarril. 
 
 Esto resulta en que la investigación se centre principalmente en los puntos 1 y 2 de los acontecimientos sucesivos mencionados anteriormente.
-Dado que el incidente en Voorschoten tuvo lugar durante trabajos de mantenimiento ordinarios, la investigación se centra al menos en el mantenimiento ordinario. Porque 
-
+Dado que el incidente en Voorschoten tuvo lugar durante trabajos de mantenimiento ordinarios, la investigación se centra al menos en el mantenimiento ordinario. Porque
 
 ## Página 26
+
 
 la normativa sectorial para el mantenimiento ordinario y los proyectos es igual, los hallazgos de esta investigación también son relevantes para los proyectos.5
 La investigación no solo se centra en los factores directos que condujeron a las colisiones, sino que tiene precisamente como objetivo determinar qué factores subyacentes están en la base de ello. Además, la investigación va más allá de este incidente porque existen más situaciones en las que puede ocurrir que el material de trabajo abandone la zona de trabajo y entre en contacto con el tráfico ferroviario. De este modo, además de este incidente, el Consejo ha solicitado y analizado incidentes y accidentes similares durante los trabajos en el ferrocarril durante el período de 2010 hasta la actualidad, obtenidos de ProRail, contratistas de mantenimiento, railAlert e ILT (esto incluye también los proyectos).
@@ -607,6 +616,7 @@ Por proyectos se entiende: mantenimiento a gran escala, nueva construcción y pr
 En el resto del informe, BAM Infra Rail se abrevia como BAM.
 
 ## Página 27
+
 
 Safelines
 Safelines es una empresa de seguridad en zona de trabajo certificada por railAlert. En el accidente de Voorschoten, Safelines se encargó de la seguridad en zona de trabajo por encargo de BAM.
@@ -632,8 +642,8 @@ railAlert, Normenkader Veilig Werken (NVW), mayo de 2019.
 11	
 railAlert, Voorschrift Veilig Werken - Trein (VVW), octubre de 2013.
 
-
 ## Página 28
+
 
 Ministerio de Infraestructura y Gestión del Agua15
 El Ministerio de Infraestructura y Gestión del Agua (IenW) es responsable, entre otras cosas, de la seguridad en y alrededor de la vía férrea. IenW es el organismo que otorga la concesión de gestión a ProRail y la concesión de transporte para la red ferroviaria principal a NS.
@@ -661,6 +671,7 @@ Ley Ferroviaria (Spoorwegwet), https://wetten.overheid.nl/BWBR0015007.
 
 ## Página 29
 
+
 ## 1.6	
 ### Otras investigaciones
 Investigación por parte de las partes implicadas
@@ -683,8 +694,8 @@ treinongeval-bij-voorschoten
 21	
 NIPV, Leeronderzoek treinincident Voorschoten, 19 september 2023.
 
-
 ## Página 30
+
 
 Gestión de riesgos
 Las empresas ferroviarias están obligadas, conforme al Método Común de Seguridad relativo a los Sistemas de Gestión de la Seguridad22, a la Directiva de Seguridad Ferroviaria23 y al Método Común de Seguridad relativo a la Evaluación y Valoración de Riesgos24, a disponer, entre otras cosas, de un sistema de gestión de la seguridad. En el sistema de gestión de la seguridad figuran los procedimientos para el transporte seguro por ferrocarril. Esto se aplica a los pasajeros, las mercancías y el personal, así como a evitar el desgaste o daño innecesarios de la infraestructura25. La reglamentación establece los requisitos sobre cómo deben demostrar las empresas ferroviarias estos aspectos. También se desarrollan aquí el tratamiento de los riesgos de seguridad y las responsabilidades. De los requisitos del sistema de gestión de la seguridad –como los recogidos en el Método Común de Seguridad relativo a la Evaluación y Valoración de Riesgos– se desprende, entre otras cosas, que las empresas ferroviarias y el administrador de infraestructuras ProRail (también en relación con sus contratistas) están obligados a inventariar y controlar los riesgos de seguridad. Esto 
@@ -709,6 +720,7 @@ Esto es especialmente relevante en los Países Bajos, donde el transporte y la g
 Reglamento UE 2018/762, apdo. 2.2.2.c): la política de seguridad incluye el compromiso de controlar los riesgos de seguridad derivados de las propias actividades o de las de otros. Reglamento UE 2018/762, apdo. 3.1.1.1.a) La organización inventaría y analiza los riesgos operativos, organizativos y técnicos relevantes para la naturaleza y alcance de las actividades de la organización y el área donde las realiza. Entre esos riesgos se incluyen los derivados de factores humanos y organizativos, como la carga de trabajo, el diseño de las tareas, la fatiga o la idoneidad de los procedimientos, y las actividades de otras partes interesadas (p. ej., organismos supervisores, autoridades, empresas ferroviarias, administradores de infraestructuras, contratistas, proveedores, socios).
 
 ## Página 31
+
 
 de trenes que pasan, protegidos frente a sucesos que puedan dañar su salud física o mental. La robustez y la simplicidad son características importantes de la gestión del riesgo.
 La Consejo de Investigación incluye en el estudio la normativa relevante, como la Ley Ferroviaria y la Ley sobre Condiciones de Trabajo, así como el Marco Normativo para un Trabajo Seguro de la normativa sectorial. La ley obliga a los empleadores a garantizar que se trabaje de tal manera que los trabajadores no sufran efectos adversos sobre su seguridad y salud, también durante las tareas de mantenimiento de la vía. Legalmente está prescrito que los empleadores sigan la estrategia higiénico-laboral al respecto.28 Según la estrategia higiénico-laboral, los empleadores deben abordar los peligros y riesgos en la medida de lo posible en su origen, previniéndolos o eliminándolos. Solo si esto no es posible, los empleadores deben adoptar medidas de control eficaces, dando prioridad a las medidas colectivas sobre las individuales. En cuanto al nivel de seguridad requerido, la normativa establece el principio de razonabilidad, según el cual solo se puede decidir un nivel inferior basándose en argumentos sólidos (técnicos, operativos o económicos).
@@ -739,8 +751,8 @@ X
 28	
 Artículo 3 de la Ley sobre Condiciones de Trabajo y artículo 4.4 del Decreto sobre Condiciones de Trabajo (Arbobesluit).
 
-
 ## Página 32
+
 
 4.	 Refinamiento del enfoque de seguridad. 
 
@@ -758,6 +770,7 @@ El Consejo considera el trabajo nocturno como una condición laboral gravosa a l
 
 ## Página 33
 
+
 Aprendizaje de (casi-)accidentes
 En los últimos años, Países Bajos ha registrado pocos accidentes ferroviarios mortales. Para mantener la alerta ante los riesgos de seguridad, el Consejo considera que el aprendizaje de los (casi-)accidentes es un elemento importante en el enfoque de seguridad. La disponibilidad de datos, el intercambio de información y la discusión conjunta de informes son aspectos clave en este proceso.
 
@@ -768,8 +781,8 @@ El capítulo 3 contiene el análisis de los factores del accidente. Este aborda 
 En el capítulo 5 figuran las conclusiones que responden a las preguntas de investigación. El capítulo ofrece puntos de apoyo para mejorar la forma en que está configurado el actual sistema de gestión de riesgos. Las recomendaciones derivadas de ello se formulan en el capítulo 6.
 El informe incluye varios textos enmarcados: los recuadros azules ofrecen ejemplos o información detallada ilustrativa, mientras que los recuadros amarillos contienen (sub)conclusiones. En el informe se incluye una lista de conceptos y abreviaturas. Además, el informe contiene diversos anexos, entre ellos la justificación de la investigación (anexo A) y una descripción detallada de la información relevante (anexos C y D).
 
-
 ## Página 34
+
 
 ## 2 SECUENCIA CAUSAL Y ESCENARIOS
 Este capítulo describe la secuencia causal del accidente desde el momento en que el equipo de trabajo recibe la instrucción de seguridad sobre las tareas realizadas en la noche del 4 de abril de 2023 hasta la asistencia sanitaria. La organización de los trabajos y la aplicación de la estrategia higiénico-laboral y del análisis de la seguridad ferroviaria se describen en el anexo D.
@@ -785,8 +798,8 @@ El mantenimiento menor del ferrocarril suele realizarse por la noche, entre las 
 ³¹ BAM, WOT/VTI (instrucción visual) correspondiente a la WBI 63769, 31 de marzo de 2023.
 ³² Originalmente, el plano de extracción del lugar de trabajo (WOT) y la instrucción de vehículo (VTI) solían ser planos separados; actualmente son planos combinados estándar para evitar discrepancias.
 
-
 ## Página 35
+
 
 en el tramo de cuatro vías La Haya – Leiden. Los trabajos fueron ejecutados por BAM. Esa noche, nueve equipos de trabajo estaban activos en distintas ubicaciones desde La Haya Mariahoeve hasta Leiden Centraal. La figura 3 muestra una cronología concisa de los acontecimientos principales de esa noche durante los trabajos; en este apartado se profundiza más en los hechos.
 
@@ -850,6 +863,7 @@ Figura 3: Cronología de los acontecimientos principales del 4 de abril de 2023.
 
 ## Página 36
 
+
 Uno de los equipos de trabajo debía sustituir un tramo de carril de 9 metros en la ubicación de trabajo 09, vía 4, entre el puente Vinkbrug y la estación De Vink.³⁴ Para estos trabajos eran necesarios una denominada caja de soldadura y una grúa sobre lorrys³⁵ (figura 4). Ambos son vehículos ferroviarios que pueden circular por la vía hasta la ubicación de trabajo mediante ruedas de ferrocarril. La grúa utilizada era una grúa móvil Liebherr del tipo: A 924 Rail Litronic, con un peso aproximado de 25 toneladas.³⁶ La grúa estaba equipada con unas pinzas de clasificación, con las que se podía transportar un nuevo carril de 9 metros de longitud hasta la ubicación de trabajo 09 para apoyar allí la sustitución del carril.³⁷
 S Figura 4: Ejemplo de una grúa sobre lorrys con herramienta auxiliar para la sustitución de traviesas y una caja de soldadura; ambos vehículos son vehículos ferroviarios (fotos: BAM).
 
@@ -868,8 +882,8 @@ El peso del carril de 9 metros a sustituir es de aproximadamente 500 kilos.
 38	
 Un vehículo ferroviario es un vehículo que puede circular tanto por carretera como por la vía mediante ruedas de ferrocarril.
 
-
 ## Página 37
+
 
 Otro equipo de trabajo debía realizar trabajos de soldadura en los carriles en la ubicación de trabajo 07, vía 3. La ubicación de trabajo se encuentra entre el puente Vinkbrug y la estación Den Haag Mariahoeve. Para estos trabajos se necesitaban dos cajas de soldadura. Estas dos cajas de soldadura fueron colocadas en la vía en la plataforma de acceso ferroviario Blauwe Tramstraat, entre la estación Leiden Centraal y la estación Leiden Lammenschans (figura 5). Las dos cajas de soldadura fueron conducidas posteriormente a través de la estación Leiden Centraal hasta la ubicación de trabajo 07. Desde el sentido de marcha de estas cajas de soldadura, la ubicación de trabajo 09 se encuentra al inicio de la ubicación de trabajo 07 (figura 7).
 
@@ -877,8 +891,8 @@ En el puente Vinkbrug, un equipo de trabajo realizaba tareas de mantenimiento. E
 S Figura 5: Representación esquemática de (fragmento) plano de sustracción de la zona de trabajo, desde Den Haag Mariahoeve hasta una parte de la estación Leiden Centraal, con las ubicaciones de trabajo 05, 07 y 09. Los rombos verdes indican las dos plataformas de acceso ferroviario (izquierda: la plataforma junto a Voorschoten; abajo a la derecha, la plataforma entre Leiden Lammenschans y Leiden Centraal).
 S Figura 6: Fotografía aérea de la plataforma de acceso ferroviario junto a Voorschoten (fuente: ProRail).
 
-
 ## Página 38
+
 
 S Figura 7: Fragmento del tramo de línea Leiden - Den Haag, con la plataforma de acceso junto a Voorschoten y las ubicaciones de trabajo 07 (longitud 6 km, con la plataforma de acceso Blauwe Tramstraat cerca de la dirección a Leiden), 09 (longitud 300 metros) y 05 (a la derecha de 07 y 09) en el puente Vinkbrug.
 2.1.1	 Configuración de la zona de trabajo
@@ -893,6 +907,7 @@ La puesta fuera de servicio para la zona de trabajo A abarca desde Den Haag Mari
 
 ## Página 39
 
+
 S Figura 9: Fragmento del tramo Leiden - Den Haag, con los puestos de trabajo A y B de la instrucción de protección del puesto de trabajo y las ubicaciones de trabajo 07, 09 y 05.
 2.1.2	 Protección del puesto de trabajo
 Para la ejecución de los trabajos, era necesario poner fuera de servicio las vías 3 y 4. En la instrucción de protección del puesto de trabajo se incluía un puesto de trabajo A que garantizaba que las vías 3 y 4 (figura 8) estuvieran fuera de servicio entre las 01.22 horas y las 05.15 horas. Para asegurar que el equipo de trabajo para la ubicación de trabajo 09 pudiera alcanzar la vía 4 a través del punto de despliegue en Voorschoten, se incluyó en la instrucción de protección del puesto de trabajo el puesto de trabajo B. En el puesto de trabajo B, las vías 1 y 2 se ponían fuera de servicio previa consulta con el jefe de circulación (figura 9). El jefe de circulación determinaba cuándo había margen en la programación horaria para poner este puesto de trabajo fuera de uso40; esto constituía la primera capa de seguridad. A continuación, el responsable de la protección del puesto de trabajo podía ordenar la adopción de las medidas de control para poner fuera de servicio las vías 1 y 2; esto formaba la segunda capa de seguridad.
@@ -902,8 +917,8 @@ El jefe de circulación coloca impedimentos en el sistema de encaminamientos, co
 41	
 Una lanza de cortocircuito autoindicadora es un dispositivo con el que se cortocircuitan mutuamente los dos carriles. Para la protección ferroviaria, esto simula la presencia de un tren en un tramo de vía. Para el usuario de la lanza de cortocircuito, hay una luz presente que indica que se ha establecido el cortocircuito.
 
-
 ## Página 40
+
 
 Lanza de cortocircuito autoindicadora
 Un responsable de la protección del puesto de trabajo utiliza una lanza de cortocircuito autoindicadora para adoptar sus medidas de control con el fin de impedir el tráfico ferroviario hacia el puesto de trabajo. Esto constituye la segunda capa de medidas de seguridad para garantizar la seguridad laboral de los trabajadores en la vía y se coloca físicamente en la misma. Esta segunda capa sigue a la primera capa de medidas de seguridad adoptadas por el jefe de circulación, que impiden el establecimiento de un encaminamiento hacia el puesto de trabajo.
@@ -918,6 +933,7 @@ La noche del lunes 3 de abril de 2023, alrededor de las 23.00 horas, cuatro de l
 Un operario de vía se dirigió directamente al punto de despliegue en Voorschoten y recibió allí la instrucción; este operario de vía no era el maquinista de la grúa.
 
 ## Página 41
+
 
 Alrededor de las 23.30 horas, el jefe de seguridad del lugar de trabajo instruyó a siete jefes de seguridad local para los distintos emplazamientos de trabajo basándose en la instrucción de seguridad del lugar de trabajo⁴³, el plano combinado de extracción del lugar de trabajo y el plano con la instrucción de vehículos.⁴⁴ La instrucción de vehículos es para los emplazamientos donde se trabaja con maquinaria mecánica pesada, como una grúa o un vagón taller de soldadura.
 Los jefes de seguridad local instruyeron posteriormente a cada uno de sus equipos de trabajo sobre el peligro específico de colisión y electrocución de las tareas que les correspondían. El jefe de seguridad local del emplazamiento de trabajo 09 instruyó a los cuatro trabajadores de vía presentes en el emplazamiento de trabajo 09, entre ellos al operador de la grúa. Una vez que estos cuatro trabajadores de vía recibieron la instrucción específica, el jefe de seguridad local escaneó a las 23.53 horas⁴⁵ el pasaporte digital de seguridad⁴⁶ de cada trabajador de vía, con el cual los trabajadores de vía confirmaron haber recibido la instrucción. El equipo de trabajo partió entonces hacia el punto de despliegue en Voorschoten.
@@ -943,8 +959,8 @@ Fuente: sistema de registro Pasaporte Digital de Seguridad.
 49	
 Fuente: sistema de registro de comunicaciones de seguridad del despachador de trenes.
 
-
 ## Página 42
+
 
 jefe de seguridad local recibió la orden de colocar las lanzas de cortocircuito en las vías 3 y 4 para el emplazamiento de trabajo A, lo cual hizo a las 01.24 horas.⁵⁰ A las 01.26 horas, el jefe de seguridad local llamó al jefe de seguridad del lugar de trabajo para informar que las dos lanzas de cortocircuito habían sido colocadas. A las 01.27 horas⁵¹, el emplazamiento de trabajo A estaba completamente fuera de servicio (figura 11). La zona del emplazamiento de trabajo A abarcaba desde Voorschoten hasta más allá de Leiden Centraal (véase anexo D.7).
 
@@ -968,6 +984,7 @@ En la visualización no se observa – retrospectivamente – ocupación de vía
 
 ## Página 43
 
+
 S Figura 12: Fragmento del tramo Leiden - La Haya, zonas de trabajo A y B activadas, por lo que las vías 1, 2, 3 y 4 están fuera de servicio; el equipo de trabajo puede cruzar en el punto de despliegue.
 Alrededor de las 01.48 horas se colocaron la máquina de soldadura y la grúa sobre la vía.56 Cuando la máquina de soldadura y la grúa estaban en la vía 4, el jefe técnico llamó al responsable local de seguridad para informar de que habían sido desplegadas.57 A continuación, el responsable local de seguridad retiró a las 01.48 horas58 los cortocircuitadores de las vías 1 y 2 y llamó al responsable de protección de la zona de trabajo para comunicar que dichas vías podían volver a entrar en servicio. El responsable de protección de la zona de trabajo comunicó a las 01.49 horas59 al regulador de circulación que la zona de trabajo B había finalizado y devolvió las vías al regulador de circulación. El regulador de circulación levantó entonces también sus impedimentos para las vías 1 y 2, con lo cual volvieron a estar disponibles para la circulación ferroviaria (figura 13).
 Los vehículos de vía del equipo de trabajo circularon desde el punto de despliegue (km 51.4) hacia 
@@ -982,8 +999,8 @@ Fuente: registro del sistema de protección de trenes.
 59	
 Fuente: sistema de registro de comunicaciones de seguridad del regulador de circulación.
 
-
 ## Página 44
+
 
 S Figura 13: Fragmento del tramo Leiden - La Haya, zona de trabajo A activada y zona de trabajo B desactivada, vías 1 y 2 en servicio.
 S Figura 14: Fragmento del tramo Leiden - La Haya, zona de trabajo A activada y zona de trabajo B desactivada, vías 1 y 2 en servicio. El equipo de trabajo 07 está trabajando en la vía 3 y en la ubicación de trabajo 09 el equipo de trabajo está en la vía 4.
@@ -994,8 +1011,8 @@ Durante los trabajos en las vías 3 y 4, varios trenes de NS pasaron por las ví
 60	
 La marca de tiempo de la imagen de cámara no está sincronizada.
 
-
 ## Página 45
+
 
 S Figura 15: Fragmento de imagen de cámara frontal del tren 1405, circulando desde Leiden en dirección a La Haya tras pasar el puente Vinkbrug; los tres puntos fuertemente iluminados (de izquierda a derecha) son la máquina de soldadura y la grúa de la ubicación de trabajo 09 trabajando en la vía 4, y en la vía 3 una de las máquinas de soldadura de la ubicación de trabajo 07 (fuente: NS). 
 2.2.5	 Finalización de los trabajos
@@ -1009,35 +1026,28 @@ Basado en datos telefónicos.
 ## Página 46
 
 2.2.6	 Cruce de la grúa
-Según la instrucción de seguridad del lugar de trabajo, las vías 1 y 2 debían ser retiradas nuevamente del servicio durante un breve periodo antes de que el equipo de trabajo pudiera abandonar la vía 4 a través del punto de acceso ferroviario. Esto debía realizarse de la misma manera que en el caso de la incorporación de los vehículos (figura 12).
-A la llegada de la grúa al punto de acceso ferroviario, las vías 3 y 4 (lugar de trabajo A) seguían aún fuera de servicio. Alrededor de las 03:21 horas63, el operador de la grúa conmutó, desde su cabina, la grúa del modo ferroviario al modo por carretera. Esto significaba que las ruedas ferroviarias se elevaban para que la grúa pudiera continuar circulando sobre neumáticos. En la grúa había instalado un módulo de registro con el que se registraron algunos movimientos de la grúa. Entre 
+Según la instrucción de seguridad del puesto de trabajo, las vías 1 y 2 debían volver a sacarse fuera de servicio durante un breve periodo antes de que el equipo de trabajo pudiera abandonar la vía 4 a través del punto de acceso ferroviario. Esto debía realizarse de la misma manera que en el despliegue de los vehículos (figura 12).
+A la llegada de la grúa al punto de acceso ferroviario, las vías 3 y 4 (puesto de trabajo A) seguían aún fuera de servicio. Aproximadamente a las 03:21 horas63, el maquinista de la grúa conmutó esta desde su cabina para pasar del modo ferroviario al modo carretera. Esto significaba que las ruedas de ferrocarril se elevaban para que la grúa pudiera seguir circulando sobre neumáticos. En la grúa había instalado un módulo de registro con el que quedaron grabados algunos movimientos de la grúa. Entre 
 
-la elevación de las ruedas ferroviarias y el último registro transcurrió aproximadamente un minuto. Durante este periodo se registró un movimiento lento de giro de la superestructura respecto a la base inferior. En los últimos seis segundos del registro, la parte superior de la grúa giró y la grúa comenzó a desplazarse desde el reposo hasta casi 3 km/h. A continuación, el registro cesó (véase anexo D.3.1).64
-A las 03:22 horas, partió el vehículo de soldadura desde el emplazamiento de trabajo 09. El responsable local de seguridad viajaba acompañando al vehículo de soldadura, ejerciendo la función de guía de vía fuera de servicio, dado que este debía regresar marcha atrás65 hacia el punto de acceso situado cerca de Voorschoten. El responsable local de seguridad llamó a las 03:22 horas al responsable de seguridad del lugar de trabajo para solicitar la retirada del servicio de las vías 1 y 2 (lugar de trabajo B). El responsable de seguridad del lugar de trabajo llamó a las 03:23 horas66 al jefe de circulación. El jefe de circulación indicó que aún debían esperar diez minutos. El jefe de circulación llamaría posteriormente al responsable de seguridad del lugar de trabajo para retirar conjuntamente el lugar de trabajo B del servicio. Tras la conversación con el jefe de circulación, el responsable de seguridad del lugar de trabajo llamó al responsable local de seguridad para comunicarle que el lugar de trabajo B aún no estaba liberado y que debían esperar hasta recibir la llamada confirmando la disponibilidad del lugar de trabajo B.
+el levantamiento de las ruedas de ferrocarril y el último registro transcurrió menos de un minuto. Durante este periodo se registró un suave movimiento de giro de la superestructura respecto a la base inferior. En los últimos seis segundos del registro, la parte superior de la grúa giró y la grúa pasó de estar parada a circular a casi 3 km/h. Después cesó el registro (véase anexo D.3.1).64
+A las 03:22 horas partió el vehículo de soldadura del emplazamiento de trabajo 09. El responsable local de seguridad viajaba acompañando al vehículo de soldadura, ejerciendo la función de acompañante de vía fuera de servicio, ya que este debía retroceder65 hasta el punto de acceso situado cerca de Voorschoten. El responsable local de seguridad llamó a las 03:22 horas al responsable de seguridad del puesto de trabajo para solicitar la puesta fuera de servicio de las vías 1 y 2 (puesto de trabajo B). El responsable de seguridad del puesto de trabajo llamó a las 03:23 horas66 al jefe de circulación. El jefe de circulación indicó que aún debían esperar diez minutos. Posteriormente, el jefe de circulación llamaría de vuelta al responsable de seguridad del puesto de trabajo para poner conjuntamente el puesto de trabajo B fuera de servicio. Tras la conversación con el jefe de circulación, el responsable de seguridad del puesto de trabajo llamó al responsable local de seguridad para comunicarle que el puesto de trabajo B no estaba aún liberado y que debían esperar hasta recibir la llamada confirmando la disponibilidad del puesto de trabajo B.
 ## 2.3	
 ### Colisiones
 2.3.1	 Colisión con el tren de mercancías
-Desde la dirección de La Haya, se aproximó por la vía 2 el tren de mercancías 47612 de DB Cargo a la estación de Voorschoten. El tren de mercancías procedía de Sittard y tenía como destino Beverwijk. El tren constaba de una locomotora eléctrica seguida de 26 vagones de mercancías. Inmediatamente detrás de la locomotora se encontraban cinco vagones cerrados de mercancías, seguidos de 12 vagones de mercancías sin carga destinados al transporte de bobinas de acero y nueve vagones de mercancías con 60 toneladas cada uno de cal viva. El tren de mercancías tenía un peso total de casi 1400 toneladas.67 El tren de mercancías había partido puntualmente de Sittard y, en el momento en que pasó por Róterdam, 
-
-había acumulado un retraso de 14 minutos debido a diversas causas.68 Para recuperar el retraso, el tren circulaba a una velocidad de aproximadamente 100 km/h, lo cual es más rápido que la velocidad programada del tren de 80 km/h.
-En Voorschoten, el maquinista del tren de mercancías vio una grúa cerca de la vía; en ese momento, el tren de mercancías circulaba a 97 km/h (figura 17). Al acercarse al punto de acceso, el maquinista del tren de mercancías observó que la grúa estaba situada en la vía 2, tocó el silbato («claxon») y aplicó un frenado de emergencia. A las 03:23 horas69 se produjo una colisión del tren de mercancías (a unos 91 km/h) con la grúa. El operador de la grúa falleció en la colisión. Como consecuencia de la colisión con la grúa, el extremo del andén de la estación de Voorschoten sufrió daños graves y, tras el impacto, la grúa y los restos del andén quedaron situados en la vía contigua (vía 1).
-El maquinista del tren de mercancías resultó herido y la locomotora sufrió daños graves (figura 18). El tren de mercancías se detuvo después de aproximadamente 360 metros, quedando la locomotora situada más allá de la estación de Voorschoten. El maquinista tuvo primero que recuperarse del impacto de la colisión. No logró establecer contacto con el jefe de circulación ni realizar una llamada de alarma debido a que los equipos habían resultado dañados. 
-
-El maquinista activó la señal de peligro de la locomotora. Debido a la posición seleccionada del botón con el que el maquinista ajustó esta configuración, las dos luces frontales inferiores emitían luz blanca y la luz frontal superior emitía luz roja.70 Sin embargo, la eficacia de la señal de peligro quedó anulada porque las dos luces frontales inferiores estaban dañadas y una pieza de la grúa cubría la luz frontal superior (figura 18). El maquinista del tren de mercancías llamó a las 03:25 horas71, mediante su teléfono móvil, al coordinador de transporte de DB Cargo para notificar la colisión.
-Figura 17: Fragmento del tramo Leiden - La Haya, lugar de trabajo A activado; las vías 3 y 4 están fuera de servicio y el lugar de trabajo B está desactivado, las vías 1 y 2 están en servicio. La grúa sobresale del punto de acceso (km 51,4) y es embestida por el tren de mercancías 47612 (gris) y posteriormente por el tren de pasajeros 1409 (amarillo).
+Desde la dirección de La Haya, por la vía 2, se aproximaba a la estación de Voorschoten el tren de mercancías 47612 de DB Cargo. El tren de mercancías procedía de Sittard y tenía como destino Beverwijk. El tren estaba compuesto por una locomotora eléctrica seguida de 26 vagones de mercancías. Inmediatamente detrás de la locomotora había cinco vagones cerrados de mercancías; detrás de estos, 12 vagones de mercancías vacíos destinados al transporte de bobinas de acero y nueve vagones de mercancías cargados cada uno con 60 toneladas de cal viva. El tren de mercancías tenía un peso total de casi 1400 toneladas.67 El tren de mercancías había salido de Sittard a tiempo y, en el momento en que pasó por Rotterdam, 
 63	
 Fuente: registro de la grúa.
 64	
 Fuente: registro de la grúa.
 65	
-El vehículo de soldadura había circulado en sentido de marcha hacia adelante hasta el emplazamiento de trabajo; dado que este vehículo de soldadura circulaba sobre ruedas ferroviarias, no podía invertir el sentido de marcha y debía regresar al punto de acceso en marcha atrás. Puesto que el conductor no tiene visibilidad directa sobre la vía, el guía de vía fuera de servicio debe acompañar a este vehículo de soldadura en dicha maniobra.
+El vehículo de soldadura había circulado hacia adelante en sentido de marcha hasta el emplazamiento de trabajo; dado que este vehículo de soldadura circula sobre ruedas de ferrocarril, no puede dar la vuelta y debe regresar al punto de acceso en marcha atrás. Como el conductor no tiene visibilidad directa sobre la vía, el acompañante de vía fuera de servicio debe guiar a este vehículo de soldadura en dicha maniobra.
 66	
 Fuente: sistema de registro de comunicaciones de seguridad del jefe de circulación.
 67	
-DB Cargo, Hoja de frenado del tren 47612, 3 de abril de 2023.
-
+DB Cargo, Ficha de frenado del tren 47612, 3 de abril de 2023.
 
 ## Página 47
+
 
 para recuperar el retraso, el tren circulaba a una velocidad de aproximadamente 100 km/h, lo cual es más rápido que la velocidad programada del tren de 80 km/h.
 En Voorschoten, el maquinista del tren de mercancías vio una grúa cerca de la vía; en ese momento, el tren de mercancías circulaba a 97 km/h (figura 17). Al acercarse al punto de acceso, el maquinista del tren de mercancías observó que la grúa estaba situada en la vía 2, tocó el silbato («claxon») y aplicó un frenado de emergencia. A las 03:23 horas69 se produjo una colisión del tren de mercancías (a unos 91 km/h) con la grúa. El operador de la grúa falleció en la colisión. Como consecuencia de la colisión con la grúa, el extremo del andén de la estación de Voorschoten sufrió daños graves y, tras el impacto, la grúa y los restos del andén quedaron situados en la vía contigua (vía 1).
@@ -1055,6 +1065,7 @@ Reglamento de tráfico ferroviario, anexo 4, señal 413: Dos luces rojas con una
 Basado en datos telefónicos.
 
 ## Página 48
+
 
 2.3.2	
 Colisión con el tren de pasajeros
@@ -1081,15 +1092,15 @@ Durante el paso por la estación de Voorschoten, el maquinista vio repentinament
 75	No ha quedado claro para el Consejo qué iluminación era exactamente esta.
 76	NS Reizigers, Registro de viaje del tren 1409, 4 de abril de 2023.
 
-
 ## Página 49
+
 
 se determinó que el primer vehículo rodó lateralmente sobre el techo. El maquinista del tren de pasajeros resultó gravemente herido. El maquinista no pudo establecer contacto con el jefe de circulación ni realizar una llamada de alarma debido al equipo a bordo dañado (incluido el GSM-R) (figura 21).
 S Figura 19: Imagen del tren de pasajeros descarrilado (de izquierda a derecha visibles, la última/cuarta caja de vehículo, la segunda caja de vehículo y la primera caja de vehículo).
 S Figura 20: Imágenes de dron de las consecuencias de la colisión de la grúa por parte del tren de mercancías 47612 (derecha, últimos 5 vagones) y posteriormente por parte del tren de pasajeros 1409 (izquierda). (fuente: policía)
 
-
 ## Página 50
+
 
 ## 2.4	
 ### Asistencia sanitaria y víctimas
@@ -1111,6 +1122,7 @@ El jueves 20 de abril de 2023 se reanudó el servicio de trenes entre La Haya y 
 
 ## Página 51
 
+
 ## 2.5	
 ### Escenarios
 Este apartado describe los puntos de partida y los posibles escenarios del accidente ferroviario de Voorschoten. Debido al fallecimiento del operador de la grúa, no es posible realizar una reconstrucción completa de los últimos minutos –y, por tanto, determinar un único escenario del accidente–. Comprender los puntos de partida y los posibles escenarios es necesario para proceder en el resto de este capítulo con el análisis de los factores de riesgo.
@@ -1122,8 +1134,8 @@ Pudieron haberse producido diversos escenarios en el ámbito técnico, médico y
 82	
 Para ello, el Consejo utilizó el marco HFACS, un método para inventariar sistemáticamente las causas de los accidentes. HFACS significa Human Factors Analysis and Classification System (Sistema de Análisis y Clasificación de Factores Humanos).
 
-
 ## Página 52
+
 
 Tabla 1: Posibles escenarios.
 Posibles escenarios
@@ -1158,6 +1170,7 @@ Además, el Consejo realizó una prueba práctica para familiarizarse con la for
 
 ## Página 53
 
+
 que ningún trabajador de vía cruzaría deliberadamente vías en servicio.
 Los escenarios restantes relacionados con el factor humano son el error, la mala comunicación o la mala interpretación. De estos escenarios, el Consejo no ha podido excluirlos, ni determinar que constituyan la causa de este accidente.
 2.5.3	 De los escenarios a los factores del accidente y del sistema
@@ -1167,8 +1180,8 @@ de un análisis del accidente y del sistema realizado por el Consejo de Investig
 85	
 Véase el anexo A.4.3 sobre el análisis del accidente (Tripod) y el anexo A.4.4 sobre el análisis del sistema (Accimap).
 
-
 ## Página 54
+
 
 ## 3  ANÁLISIS
 En el capítulo anterior se ha descrito la secuencia de hechos del accidente ferroviario en Voorschoten el 4 de abril de 2023. Este capítulo profundiza en los factores que (pudieron) haber desempeñado un papel en el accidente.
@@ -1202,8 +1215,8 @@ Figura 22: Estructura de los capítulos de análisis.
 86	
 El apartado A.4.5 contiene la justificación del análisis de anteriores accidentes e incidentes graves (casi-accidentes).
 
-
 ## Página 55
+
 
 ## 3.1	
 ### Trabajos donde circulan trenes junto a ellos
@@ -1249,6 +1262,7 @@ Una estación de clasificación es una zona de la infraestructura ferroviaria de
 
 ## Página 56
 
+
 una de las recomendaciones del Consejo de Investigación de Accidentes Ferroviarios (Spoorwegongevallenraad) era que la función de dirección de los trabajos debía separarse de la seguridad. De lo contrario, se acumulan demasiadas funciones simultáneamente que, además, pueden acarrear responsabilidades contradictorias.
 Los accidentes mortales de 1995 fueron también el detonante de la normativa sobre trabajo seguro en la vía férrea.⁹⁰ Como reacción al accidente, el entonces NS Railinfrabeheer (actualmente parte de ProRail) estableció en 1996 un nuevo Reglamento de Trabajo Seguro en Infraestructura Ferroviaria (*Reglement Veilig Werken aan Railinfra*). Asimismo, NS Railinfrabeheer encargó una investigación sobre cómo mejorar estructuralmente la seguridad de los trabajadores de vía, siendo el principio rector una separación absoluta entre los trabajadores de vía y el tráfico ferroviario.⁹¹ Esta investigación y diversos proyectos de inspección de la Inspección de Trabajo (*Arbeidsinspectie*)⁹², durante los cuales se detuvieron los trabajos y se impusieron requisitos, condujeron finalmente a un marco normativo con sus correspondientes directrices sectoriales, gestionadas actualmente por railAlert.⁹³
 El núcleo de la normativa desde ese momento es que solo se trabaja en vías donde no circulan trenes mediante una suspensión de servicio de vía única (*enkelsporige buitendienststelling*). Los responsables de seguridad, junto con los jefes de circulación, garantizan una doble capa de seguridad alrededor de esta zona de trabajo. La doble capa de seguridad debe impedir que los trenes puedan entrar en la zona suspendida de servicio.⁹⁴
@@ -1273,8 +1287,8 @@ ProRail (2012), OHR 2014: desarrollo de un nuevo modelo de mantenimiento, salto 
 ⁹⁶	
 Consejo de Seguridad (*Onderzoeksraad voor Veiligheid*), Colisión de trenes Amsterdam Westerpark, diciembre de 2012.
 
-
 ## Página 57
+
 
 del sistema. Esto se debió a que el jefe de circulación temía que el encaminamiento automático de rutas enviara trenes en sentido contrario a la vía. Existía un horario ajustado, lo que requería muchas señales en rojo durante todo el día. Antes del accidente, uno de los maquinistas pasó una señal en rojo y el tren no fue detenido ni por el sistema ni por el jefe de circulación.
 Estos hechos dieron lugar a recomendaciones del Consejo de Seguridad (*Onderzoeksraad voor Veiligheid*) y a exigencias de la Inspección de Vivienda y Transporte (*Inspectie Leefomgeving en Transport*) para evitar que los trenes tengan que detenerse en lugares inesperados y que los maquinistas pasen por alto la señal de parada. Además, en 2013 se publicó un nuevo Marco Normativo de Trabajo Seguro (*Normenkader Veilig Werken*).
@@ -1285,6 +1299,7 @@ ProRail deja los tramos de vía doble completamente fuera de servicio durante el
 La velocidad máxima que puede alcanzar un tren depende del tren y de la vía (tramo) por la que circula. Esta velocidad máxima se denomina velocidad de tramo (*baanvaksnelheid*) (fuente: sitio web de ProRail).
 
 ## Página 58
+
 
 Vuelta al servicio fuera de circulación en vía única
 Además de la cuestión de por qué no se retiran completamente del servicio los tramos de cuatro vías, existe también una tendencia a volver desde el servicio fuera de circulación en vía doble hacia el servicio fuera de circulación en vía única. En 2020, ProRail entregó el Manual para Trabajos y Circulación en Vía Única (Handleiding voor EnkelSporig Werken en Rijden). Con ello, ProRail puede determinar si es posible trabajar y circular en vía única y, en caso afirmativo, bajo qué condiciones. NS realizó en 2022 un análisis de riesgos sobre este tema. En dicho análisis, NS evaluó si consideraba aceptable circular por una vía adyacente a trabajos en curso. En el análisis se identificaron riesgos como una «colisión tren-tren debido a rutas de circulación no libres de conflictos» (una colisión entre trenes porque son dirigidos por la misma vía). Este es el riesgo que, por ejemplo, en 2012 condujo a una colisión frontal entre dos trenes de pasajeros de NS cerca de Amsterdam Singelgracht/Westerpark (véase el recuadro azul anterior). El siguiente apartado profundiza en los análisis de riesgos realizados por las empresas ferroviarias durante los trabajos en la infraestructura ferroviaria en relación con el accidente de Voorschoten.
@@ -1299,25 +1314,25 @@ El accidente de Voorschoten tuvo lugar en un tramo de cuatro vías. Dos de las c
 
 98 La ubicación de trabajo 07 era accesible para el equipo de trabajo sin necesidad de cruzar vías, ya que accedían a la ubicación de trabajo a través de otro punto de acceso a la vía.
 
-
 ## Página 59
 
-Ambigüedad sobre la vía de amortiguación (bufferspoor)
-En varias entrevistas realizadas por el Consejo de Investigación (Onderzoeksraad), los participantes del sector ferroviario hablaron del fenómeno de la «vía de amortiguación» (bufferspoor), también en relación con el accidente de Voorschoten. El sentido de los comentarios era que el trabajo seguro en un tramo de cuatro vías es posible porque las vías donde trabajan los operarios de vía no son contiguas a las vías por donde circulan los trenes, y que esto también sería el caso en Voorschoten. Un «bufferspoor» es un término que no tiene una definición unívoca y que no aparece en las directrices sectoriales para el trabajo seguro en la infraestructura ferroviaria. Al consultar, se entiende por bufferspoor: «una vía donde no se trabaja y por la que tampoco circulan trenes». Una vía de amortiguación de este tipo debería evitar que los operarios de vía terminen involuntariamente en la vía por donde circulan los trenes. En el accidente de Voorschoten no había una vía de amortiguación. En dos de las cuatro vías se realizaban trabajos y por las otras dos vías podían circular trenes.
+Ambigüedad sobre la vía de amortiguación
+En una serie de entrevistas realizadas por el Consejo de Investigación, los agentes del sector ferroviario han hablado del fenómeno de la «vía de amortiguación» (*bufferspoor*), también en relación con el accidente de Voorschoten. El sentido de las observaciones era que es posible trabajar con seguridad en un tramo de cuatro vías porque las vías en las que trabajan los operarios de infraestructura no son adyacentes a las vías por las que circulan los trenes, y que esto también sería el caso en Voorschoten. La expresión «vía de amortiguación» no está definida de manera unívoca y no figura en las directrices sectoriales para el trabajo seguro en la vía. Al consultar al respecto, se entiende por vía de amortiguación: «una vía en la que no se trabaja y por la que tampoco circulan trenes». Dicha vía de amortiguación debería evitar que los operarios de infraestructura accedan involuntariamente a la vía por la que circulan los trenes. En el accidente de Voorschoten no existía ninguna vía de amortiguación. En dos de las cuatro vías se realizaban trabajos y por las otras dos vías podían circular trenes.
 
 Velocidad de los trenes que pasan
 En el accidente de Voorschoten, como es habitual actualmente, los trenes podían circular a su velocidad máxima permitida en el tramo.⁹⁹ El tren de mercancías circulaba a unos 97 km/h en el momento de la colisión, y el tren de pasajeros a 140 km/h.
 
-Además de la ponderación sobre si circular o no junto a los trabajos, ProRail, los contratistas de mantenimiento y las empresas ferroviarias pueden decidir conjuntamente hacer circular los trenes a una velocidad reducida junto a la zona retirada del servicio. A pesar de una velocidad menor, una colisión con un operario de vía conducirá en muchos casos aun así a un accidente mortal. En una colisión de material rodante pesado con un tren de pasajeros o de mercancías (con o sin sustancias peligrosas), la escalada –debido a la menor energía– será menor. No obstante, existen actualmente varios factores que hacen que una velocidad reducida no sea algo evidente.
+Además de la decisión de circular o no junto a los trabajos, ProRail, los contratistas de mantenimiento y las empresas ferroviarias pueden decidir conjuntamente hacer circular los trenes a una velocidad reducida junto a la zona fuera de servicio. A pesar de la menor velocidad, una colisión con un operario de infraestructura seguirá siendo mortal en muchos casos. En caso de colisión de material pesado con un tren de pasajeros o de mercancías (con o sin sustancias peligrosas), la escalada será menor debido a la menor energía. No obstante, existen actualmente varios factores que hacen que una velocidad reducida no sea algo evidente en este momento.
 
-Una velocidad reducida va en detrimento de la capacidad, debido a los mayores tiempos de recorrido de un tren. El tren de mercancías implicado en Voorschoten circulaba desde Sittard hasta Beverwijk y pasó por varios trabajos en el trayecto. Las zonas retiradas del servicio para trabajos tienen a veces decenas de kilómetros de longitud y el tren deberá mantener una velocidad reducida a lo largo de toda la extensión de la zona retirada del servicio. La razón de esto es que el maquinista no sabe exactamente dónde están trabajando los operarios. Actualmente, con la protección convencional de trenes, no es posible imponer técnicamente una limitación de velocidad de corta duración.¹⁰⁰
+Una velocidad reducida consume capacidad debido a los mayores tiempos de recorrido de un tren. El tren de mercancías implicado en Voorschoten circulaba desde Sittard hasta Beverwijk y pasó junto a varios trabajos durante el trayecto. Las zonas fuera de servicio por trabajos tienen a veces decenas de kilómetros de longitud y el tren deberá mantener una velocidad reducida a lo largo de toda la extensión de la zona fuera de servicio. La razón es que el maquinista no sabe exactamente dónde están trabajando los operarios. Actualmente, con el sistema convencional de protección de trenes, no es posible imponer técnicamente una limitación de velocidad de forma breve.¹⁰⁰
 
-Asimismo, un jefe de circulación puede emitir una Instrucción Europea de «limitar velocidad» o «circular a vista», pero la aplicación de esto va en contra de la filosofía de dichas instrucciones. Las instrucciones están previstas, por ejemplo, para incidentes en un trayecto pequeño.
+Asimismo, un jefe de circulación puede emitir una instrucción europea («limitar la velocidad» o «circular a vista»), pero su aplicación va en contra de la filosofía de estas instrucciones. Estas instrucciones están previstas, por ejemplo, para incidentes en un tramo pequeño.
 
-99 Para los trenes implicados en este accidente regían otras velocidades máximas permitidas: 140 km/h (intercity) y 80 km/h (tren de mercancías). Véase anexo D.1.1.
-100 La limitación temporal de velocidad se indica - procedimentalmente - con señales, los llamados paneles LAE [Los paneles LAE son señales situadas en el lugar de una limitación temporal de velocidad. El panel L advierte que se aproxima una limitación de velocidad. La limitación de velocidad comienza donde está el panel A y termina donde está el panel E]. Para colocar estos paneles también son necesarias medidas de gestión de seguridad, lo que reducirá el tiempo efectivo de trabajo de la retirada del servicio y requerirá más personal.
+⁹⁹ Para los trenes implicados en este accidente regían otras velocidades máximas permitidas: 140 km/h (tren Intercity) y 80 km/h (tren de mercancías). Véase el anexo D.1.1.
+¹⁰⁰ La limitación temporal de velocidad se indica -procedimentalmente- mediante señales, las llamadas señales LAE [las señales LAE son señales situadas en el lugar de una limitación temporal de velocidad. La señal L advierte de que se aproxima una limitación de velocidad. La limitación de velocidad comienza donde está situada la señal A y termina donde está situada la señal E]. Para la instalación de estas señales también son necesarias medidas de gestión de la seguridad, lo que reducirá el tiempo efectivo de trabajo en la zona fuera de servicio y requerirá más personal.
 
 ## Página 60
+
 
 no para un tramo completo de decenas de kilómetros como en el caso de estas obras.
 A ello se añade que las limitaciones de velocidad de corta duración no pueden imponerse con la actual protección de trenes101. Por ello, en algunos casos los trenes circulan a una velocidad excesiva por una zona con una limitación temporal de velocidad o tras una instrucción europea «limitar velocidad» del jefe de circulación. Esto se debe a que la velocidad inferior no es impuesta por la técnica; esto podría ser posible en el futuro cuando esté desplegado el Sistema Europeo de Gestión del Tráfico Ferroviario (ERTMS).
@@ -1332,6 +1347,7 @@ Las empresas ferroviarias están obligadas –conforme al Método Común de Segu
 
 ## Página 61
 
+
 actualizado. De los requisitos del sistema de gestión de la seguridad –tal como se recogen en el Método Común de Seguridad para los Sistemas de Gestión de la Seguridad– se desprende, entre otras cosas, que las empresas ferroviarias están obligadas a identificar y gestionar los riesgos de seguridad. Esto concierne a los riesgos derivados no solo de sus propias actividades, sino también de las de otras personas y organizaciones.104 Los riesgos derivados de los trabajos en la vía férrea realizados por contratistas también están sujetos a esta obligación.105
 En el accidente de Voorschoten estaban implicadas dos empresas ferroviarias, DB Cargo y NS. DB Cargo no incluye el riesgo de colisión durante los trabajos en la vía férrea en sus análisis de riesgos. De las entrevistas se desprende que esto se debe a que DB Cargo no puede influir en los riesgos asociados a los trabajos en la vía; DB Cargo no tiene influencia sobre los trabajos, dónde y cuándo tienen lugar ni sobre qué medidas de control adoptan ProRail y los contratistas. Además, DB Cargo pasa por alto que sí tiene influencia sobre los riesgos al circular más despacio. El Anexo D.9.4 contiene una descripción detallada del análisis de riesgos de DB Cargo.
 NS aborda la gestión de los riesgos de seguridad mediante la realización de análisis de riesgos. Un componente de este análisis es que NS supervisa, a través de notificaciones de seguridad en bases de datos, si han surgido riesgos en un proceso determinado –incluido el proceso de circulación junto a trabajos en la vía férrea– y si las medidas de seguridad adoptadas siguen siendo eficaces. Desde hace cuatro años, NS ha pasado a una nueva base de datos, lo que hace que las notificaciones anteriores a esa fecha sean difíciles de acceder y que NS no las incluya en los actuales análisis de riesgos. Cuatro años constituyen una ventana temporal limitada para incidentes que ocurren raramente (menos de una vez cada 10 años). Sobre la base de análisis de riesgos periódicos, NS ha estimado que el riesgo de circular junto a trabajos de mantenimiento constituye un riesgo aceptable. Tras el accidente de Voorschoten, NS realizó nuevamente un análisis de riesgos sobre este tema y concluyó de nuevo que se trataba de un riesgo aceptable.106 El Anexo D.9.5 contiene una descripción detallada del análisis de riesgos de NS.
@@ -1343,6 +1359,7 @@ Los gestores de infraestructura, las empresas ferroviarias y los contratistas de
 
 ## Página 62
 
+
 superar, como los riesgos de circular junto a trabajos de mantenimiento en la vía.
 Debido a que los gestores de infraestructura, las empresas ferroviarias y los contratistas de mantenimiento no inventarían ni analizan los riesgos de forma integral y coherente, no se obtiene una imagen completa de los riesgos que las empresas ferroviarias experimentan debido a los trabajos de mantenimiento en la vía. ProRail y los contratistas orientan unidireccionalmente la gestión de riesgos de los trabajos en la vía hacia el riesgo para los trabajadores (seguridad laboral). En las empresas ferroviarias, las medidas mitigadoras de los riesgos de los trabajos para los trenes que pasan, sus ocupantes y los residentes cercanos, quedaron fuera del alcance de su análisis y evaluación de riesgos (seguridad ferroviaria). Por ello, falta una imagen integral y coherente de los riesgos.
 3.1.3	 Anteriores accidentes (casi)
@@ -1350,8 +1367,8 @@ En los accidentes (casi) analizados existen cierres totales con seis diferentes 
 El 30 de mayo de 2023107, un líder de seguridad del lugar de trabajo tomó el período equivocado fuera de servicio. El líder de seguridad del lugar de trabajo preguntó al jefe de circulación si el lugar de trabajo temporal G podía ponerse fuera de servicio, pero se le pidió esperar. Más tarde, el líder de seguridad del lugar de trabajo volvió a contactar al jefe de circulación, quien indicó que el lugar de trabajo temporal G podía ponerse fuera de servicio. El líder de seguridad del lugar de trabajo informó entonces al líder de seguridad local que el lugar de trabajo F estaba fuera de servicio y que las medidas de seguridad podían aplicarse in situ. Debido a que el período era demasiado corto para aplicar todas las medidas de seguridad, el responsable de seguridad optó por aplicar solo las medidas alrededor del paso a nivel y no colocar cortocircuitadores. Un tren en este tramo se detuvo a tiempo porque su señal pasó de amarillo a rojo. Recibió permiso del jefe de circulación para pasar la señal roja con la orden de vigilar. Antes de esta señal, el tren se detuvo. Esto fue a unos pocos decenas de metros de la ubicación donde poco antes se habían desplegado una grúa y una caja de soldadura.
 107	 Este accidente tuvo lugar poco más de un mes después del accidente en Voorschoten. En los subapartados 3.2.2 y 3.2.4 figuran una serie de acciones que ProRail y railAlert han puesto en marcha mientras tanto.
 
-
 ## Página 63
+
 
 El 4 de junio de 2019, se desplegó un vagón de medición sobre una vía en servicio. Previamente al despliegue del vagón de medición, el acompañante de vía fuera de servicio debía tener contacto con el líder de seguridad del lugar de trabajo. El líder de seguridad del lugar de trabajo podía entonces, en colaboración con el jefe de circulación, aplicar medidas de seguridad para poner la vía adyacente fuera de servicio. El acompañante de vía fuera de servicio contactó al líder de seguridad del lugar de trabajo para indicar que el vagón de medición había sido desplegado, sin haber solicitado permiso para ello. El acompañante de vía fuera de servicio declaró que estaba convencido de que también la vía adyacente estaba fuera de servicio.
 3.1.4	 Resumen
@@ -1361,6 +1378,7 @@ El análisis de anteriores accidentes (casi) muestra que ha ocurrido con mayor f
 Dado que actualmente es habitual que los trenes puedan circular junto a los trabajos, es relevante investigar qué medidas pueden evitar que los trabajadores, la maquinaria pesada y los trenes que pasan entren en contacto entre sí. Este factor de accidente se trata en el siguiente apartado.
 
 ## Página 64
+
 
 ## 3.2	
 ### Aislamiento del lugar de trabajo y orientación
@@ -1399,8 +1417,8 @@ Situaciones de riesgo durante el cruce
 El riesgo de encontrarse involuntariamente en la zona donde circulan trenes es especialmente relevante cuando los trabajadores de vía deben cruzar vías para ir y volver a su lugar de trabajo (puesta fuera de servicio tipo isla). Para la seguridad, importa mucho cómo deben cruzar los trabajadores de vía; en particular, la configuración
 108	 En esto se debe tener en cuenta posibles riesgos adicionales si el transporte por ferrocarril, por ejemplo, se desplaza a la carretera.
 
-
 ## Página 65
+
 
 del punto de acceso a la vía influye en ello. Estos dos temas se explican más adelante.
 Puesta fuera de servicio tipo isla
@@ -1419,57 +1437,52 @@ Como se describe en el capítulo 2, el equipo de trabajo debe acceder a su lugar
 
 ## Página 66
 
-Cruzar vías en servicio, como es necesario en una puesta fuera de servicio tipo isla, supone un riesgo para los trabajadores del ferrocarril y los trenes que pasan. El grado de riesgo viene determinado también por cómo esté configurado el emplazamiento de trabajo.
+Cruzar vías en servicio, como es necesario en una puesta fuera de servicio de vía central, entraña riesgos para los trabajadores de la vía y los trenes que pasan. El grado de riesgo viene determinado también por cómo esté configurado el lugar de despliegue.
 Medidas técnicas
-Para la circulación por vía férrea, la filosofía es que el sistema ferroviario garantiza una forma robusta y a prueba de fallos (*fail-safe*) para guiar el tráfico de trenes. Si la señal indica vía libre, el maquinista puede continuar su ruta con seguridad o el usuario de la vía puede utilizar el paso a nivel con seguridad. Cuando se realizan trabajos de mantenimiento en una zona donde el tren y los trabajadores de vía pueden entrar en contacto, la filosofía es que las medidas técnicas aíslen los trabajos del tráfico ferroviario. Y viceversa: el tráfico ferroviario está protegido frente a los trabajos en los que se utiliza maquinaria pesada. Antes de que alguien pueda cruzar, el jefe de circulación pone la sección de vía correspondiente fuera de servicio y el responsable de la protección del puesto de trabajo instala medios técnicos para poner la sección fuera de servicio. Ambas medidas evitan que los trenes entren inadvertidamente en el puesto de trabajo.
-La filosofía de ProRail es que el sistema ferroviario garantiza una forma robusta de evitar que los trenes puedan entrar en un puesto de trabajo. No existe una barrera física robusta para evitar que los trabajadores salgan inadvertidamente de su puesto de trabajo y entren en contacto con los trenes que pasan (y los trenes que pasan con maquinaria pesada de trabajo).
+Para la circulación ferroviaria, la filosofía es que el sistema de vía garantiza una forma robusta y a prueba de fallos (fail-safe) de guiar el tráfico ferroviario. Si la señal está en verde, el maquinista puede continuar su ruta con seguridad o el usuario de la vía puede cruzar el paso a nivel con seguridad. Cuando se realizan trabajos de mantenimiento en una zona donde el tren y los trabajadores de la vía pueden entrar en contacto, la filosofía es que las medidas técnicas aíslen los trabajos del tráfico ferroviario. Y viceversa: el tráfico ferroviario queda protegido frente a los trabajos en los que se utiliza maquinaria pesada. Antes de que alguien pueda cruzar, el jefe de circulación pone fuera de servicio el tramo de vía correspondiente y el responsable de la protección del puesto de trabajo instala medios técnicos auxiliares para poner el tramo fuera de servicio. Ambas medidas evitan que los trenes entren inadvertidamente en el puesto de trabajo.
+La filosofía de ProRail es que el sistema de vía garantiza una forma robusta de evitar que los trenes entren en un puesto de trabajo. No existe una barrera física robusta que impida que los trabajadores salgan inadvertidamente de su puesto de trabajo y entren en contacto con los trenes que pasan (y los trenes que pasan con maquinaria pesada de trabajo).
 Por otra parte, no solo ocurre que los trabajadores salgan inadvertidamente de su puesto de trabajo, sino también que los trenes entren en el puesto de trabajo, como ilustra el siguiente incidente.
-El 22 de diciembre de 2023, un jefe de circulación asigna un puesto de trabajo a un responsable de la protección del puesto de trabajo mientras dentro de dicho puesto aún circula un Intercity (Maastricht - Enkhuizen) de NS. El jefe de circulación y el responsable de la protección del puesto de trabajo habían tenido contacto previamente esa noche sobre este puesto de trabajo. A las 00.49 horas, el jefe de circulación instala los impedimentos (primera capa de seguridad) y luego contacta con el responsable de la protección del puesto de trabajo para transferirle el puesto de trabajo, de modo que el responsable de la protección del puesto de trabajo pueda colocar las lanzas cortocircuitantes autoindicadoras (segunda capa de seguridad). A las 00.51 horas, el jefe de circulación ve circular un tren de NS y contacta inmediatamente con el responsable de la protección del puesto de trabajo para informar de esta situación insegura. El responsable de la protección del puesto de trabajo aún no había colocado las lanzas cortocircuitantes y devuelve el puesto de trabajo al jefe de circulación.¹¹²
-¹¹² ProRail, Ficha informativa Aviso de seguridad Jefe de circulación asigna puesto de trabajo a un RPPW mientras aún hay un tren en marcha, 4 de enero de 2024.
-
+El 22 de diciembre de 2023, un jefe de circulación asigna un puesto de trabajo a un responsable de la protección del puesto de trabajo mientras aún circula un Intercity (Maastricht - Enkhuizen) de NS dentro de dicho puesto de trabajo. El jefe de circulación y el responsable de la protección del puesto de trabajo habían mantenido contactos durante la noche anterior sobre este puesto de trabajo. A las 00.49 horas, el jefe de circulación establece los impedimentos (primera capa de seguridad) y a continuación contacta con el responsable de la protección del puesto de trabajo para transferirle el puesto de trabajo, de modo que este pueda colocar las lanzas cortocircuitantes autoindicadoras (segunda capa de seguridad). A las 00.51 horas, el jefe de circulación ve circular un tren de NS e inmediatamente contacta con el responsable de la protección del puesto de trabajo para notificar esta situación insegura. El responsable de la protección del puesto de trabajo aún no había colocado las lanzas cortocircuitantes y devuelve el puesto de trabajo al jefe de circulación.112
+112	 ProRail, Ficha informativa Aviso de seguridad Jefe de circulación asigna un puesto de trabajo a un RPPW mientras aún hay un tren en marcha, 4 de enero de 2024.
 
 ## Página 67
 
-Medios auxiliares para el aislamiento y la orientación del puesto de trabajo
-Como se ha explicado en el apartado anterior, es importante para los trabajadores del ferrocarril saber si las vías que cruzan o junto a las cuales caminan están o no fuera de servicio, y si pisan las vías correctas en la ubicación adecuada. Ocasionalmente ocurre que los trabajadores pisan inadvertidamente vías en servicio, como se ilustra en el apartado 3.2.3.
-La jefatura de circulación puede ver dentro del sistema de protección de trenes qué impedimentos se han instalado y si hay ocupación de vía por parte de las lanzas cortocircuitantes autoindicadoras. ProRail y los contratistas de mantenimiento actualmente apenas utilizan medios auxiliares que puedan ayudar a las personas que realizan trabajos de mantenimiento sobre o junto a la vía a percibir si las vías están fuera de servicio.
-El material cartográfico que entrega ProRail no siempre es claro para los contratistas de mantenimiento y los planos de los contratistas de mantenimiento son a veces interpretables de múltiples formas para los trabajadores. Este y oeste no se indican de forma consistente a izquierda o derecha en los planos instructivos, faltando las flechas norte. La complejidad del plano y la falta de conocimiento local entre los trabajadores de vía y los responsables de seguridad también juegan un papel.
-En 2012, una nota interna sobre casi-atropellos de trabajadores de vía dentro de ProRail puso de manifiesto este riesgo.¹¹³ La motivación para esta nota fue que el número de casi-atropellos no disminuía. Entre estos casi-atropellos había muchos casos en los que los trabajadores de vía y los responsables de seguridad pisaban la vía equivocada, por ejemplo, para colocar una lanza cortocircuitante. La nota menciona una serie de medidas previstas para 2012/2013, de las cuales al menos las siguientes no estaban ejecutadas o no eran efectivas en el momento del accidente en Voorschoten:
-Estandarizar que en las puestas fuera de servicio ya no existan más puestas fuera de servicio tipo isla; X
-Introducción de un medio técnico auxiliar, con el cual los responsables de seguridad puedan orientarse sobre en qué vía se encuentran y dónde circulan los trenes; X
-Implantación de un interruptor móvil de zona de trabajo (para poder poner vías fuera de servicio desde fuera de la zona de peligro). X
-Antes y después de esta nota se desarrollaron diversos medios auxiliares para aislar mejor el puesto de trabajo y favorecer la orientación. Algunos de estos medios auxiliares son:
-Lanzas cortocircuitantes autoindicadoras de control remoto, que pueden activarse a distancia y cuyo estado activo es visible a distancia; X
-Taller móvil: un vagón de ferrocarril sin suelo, dentro del cual los trabajadores de vía pueden trabajar en la infraestructura ferroviaria como rieles y cambios, evitando así que los trabajadores de vía abandonen inadvertidamente el puesto de trabajo; X
-Interruptor de zona de trabajo: un medio auxiliar con el que los trabajadores pueden poner secciones de vía fuera de servicio ellos mismos; X
-Sistemas automáticos de advertencia, con o sin terminales portátiles; X
-¹¹³ Nota a LOPC/Plataforma Nacional de Consulta, Abordaje de casi-atropellos de trabajadores de vía (ProRail interno, 2012).
+Medios auxiliares para el aislamiento y la orientación en el lugar de trabajo
+Como se ha explicado en el apartado anterior, es importante para los trabajadores del ferrocarril saber si las vías que cruzan o junto a las cuales caminan están fuera de servicio o no, y si acceden a las vías correctas en la ubicación adecuada. Sucede con regularidad que los trabajadores accedan involuntariamente a vías en servicio, como se ilustra en el apartado 3.2.3.
+La dirección de operaciones ferroviarias puede ver dentro del sistema de protección de trenes qué impedimentos han sido instalados y si existen ocupaciones de vía por parte de las lanzas cortocircuitantes autoindicadoras. ProRail y los contratistas de mantenimiento actualmente apenas utilizan medios auxiliares que puedan ayudar a las personas que realizan trabajos de mantenimiento sobre o junto a la vía a percibir si las vías están fuera de servicio.
+El material cartográfico proporcionado por ProRail no siempre es claro para los contratistas de mantenimiento y los planos de estos últimos son a veces susceptibles de múltiples interpretaciones para los trabajadores. El este y el oeste no se indican de forma consistente a la izquierda o a la derecha en los planos instructivos, faltando las flechas norte. La complejidad del plano y la falta de conocimiento local entre los operarios de vía y los responsables de seguridad también desempeñan un papel.
+En 2012, una nota interna sobre casi-atropellos de operarios de vía dentro de ProRail puso de manifiesto este riesgo.113 La causa de esta nota fue que el número de casi-atropellos no disminuía. Entre estos casi-atropellos había muchos casos en los que operarios de vía y responsables de seguridad accedían a la vía incorrecta, por ejemplo, para colocar una lanza cortocircuitante. La nota menciona una serie de medidas previstas para 2012/2013, de las cuales al menos las siguientes no estaban ejecutadas o no eran efectivas en el momento del accidente en Voorschoten:
+X estandarizar que en los aislamientos de vía no existan más aislamientos de vía tipo isla;
+X introducción de un medio auxiliar técnico, mediante el cual los responsables de seguridad puedan orientarse sobre en qué vía se encuentran y dónde circulan los trenes;
+X implantación de un interruptor móvil de zona de trabajo (para poder poner vías fuera de servicio desde fuera de la zona de peligro).
+Antes de esta nota y también después, se desarrollaron diversos medios auxiliares para aislar mejor el lugar de trabajo y promover la orientación. Algunos de estos medios auxiliares son:
+X lanzas cortocircuitantes autoindicadoras de control remoto, que pueden activarse a distancia y cuya actividad es visible a distancia;
+X taller móvil: un vagón sin suelo, dentro del cual los operarios de vía pueden trabajar en la infraestructura ferroviaria como rieles y cambios, lo que evita que los operarios de vía abandonen involuntariamente el lugar de trabajo;
+X interruptor de zona de trabajo: un medio auxiliar con el cual los trabajadores pueden poner secciones de vía fuera de servicio por sí mismos;
+X sistemas automáticos de advertencia, ya sea en terminales portátiles o no;
+113 Nota a LOPC/Landelijk Platform Overleg, Aanpak bijna aanrijdingen baanwerkers (ProRail interno, 2012).
 
 ## Página 68
 
-paneles de orientación y paneles de nombres de vía.
+paneles de orientación y paneles de vía.
 X
-Véase el anexo E para una descripción más detallada de estos medios auxiliares. 
-Los medios auxiliares mencionados anteriormente no están en uso a nivel nacional en este momento. 
+Véase el anexo E para una descripción más detallada de estos medios auxiliares.
+Los medios auxiliares mencionados anteriormente no están en uso a nivel nacional en este momento.
 
-De las consultas realizadas a ProRail se desprende que no existe una ponderación explícita ni una toma de decisiones subyacente. 
-Subyacentemente e implícitamente, existen barreras dentro de la organización contra el desarrollo de medios auxiliares que intervienen en los sistemas existentes y que, por tanto, pueden afectar la integridad de dichos sistemas. Otro factor mencionado es que se lucha con la propiedad de estas innovaciones (ProRail o contratistas). Tampoco está claro quién paga el desarrollo y la implementación y quién determina que los diferentes contratistas utilizarán estos medios (lo cual es determinante para la justificación económico-empresarial de dicha innovación).
-Se han desarrollado diversos medios auxiliares para aumentar la seguridad laboral y la seguridad ferroviaria durante los trabajos. Sin embargo, estos no se han desplegado a nivel nacional. 
-La falta de claridad sobre si la propiedad y la financiación recaen en ProRail o en el contratista, así como la preocupación de ProRail de que las innovaciones afecten la integridad de los sistemas existentes, juegan un papel en ello.
-3.2.2	 Relación con el accidente en Voorschoten
-El lugar de trabajo era accesible únicamente cruzando dos vías, debido a la elección del punto de acceso a la vía, donde esa noche aún circulaban trenes. Estas vías debían ser sacadas de servicio temporalmente durante cortos periodos. Esta sección profundiza en estos factores del accidente.
-Saque de servicio tipo isla
-Según el Consejo, la ubicación de trabajo en Voorschoten era un saque de servicio tipo isla.114 
-Las directrices sectoriales establecen que un saque de servicio tipo isla con periodos de cruce temporales solo está permitido si el lugar de trabajo es autosuficiente. Ese no era el caso en Voorschoten (no había instalaciones de comedor ni sanitarias). De las conversaciones mantenidas por el Consejo se desprende que, en los trabajos de mantenimiento encargados por ProRail, ocurre con mayor frecuencia que se trate de un saque de servicio tipo isla (véase también el capítulo 4 con los accidentes (casi) investigados por el Consejo).
-ProRail indica que no tiene visibilidad sobre si los contratistas trabajan con un saque de servicio tipo isla, porque solo ven en qué tramo de vía se realizarán los trabajos, no qué puntos de acceso eligen los contratistas para alcanzar el lugar de trabajo dentro de esos tramos de vía. Lo que ProRail sí tiene visible es que el contratista solicita al controlador de tráfico ferroviario periodos (temporales) de corta duración para cruzar (véase más adelante en esta sección en el expediente V&G). Las solicitudes para estos periodos de cruce indican que el contratista trabajará con un saque de servicio tipo isla. Son precisamente estos periodos temporales en los que los trabajadores de vía y los responsables de seguridad dependen completamente de la comunicación para cruzar de forma segura. Durante la instrucción, se informa a los trabajadores de vía que el cruce tendrá lugar durante un periodo corto. No tienen otras señales visibles de que la vía vuelve a estar en servicio después del cruce (véase la sección 3.3 sobre comunicación).
-En el accidente de Voorschoten, los trabajadores no podían acceder de manera segura a su lugar de trabajo no autosuficiente (saque de servicio tipo isla): dependían de periodos temporales de corta duración en los que las otras vías eran sacadas de servicio para poder alcanzar y abandonar su lugar de trabajo. Además, la frontera entre vía fuera de servicio y vía en servicio no era visible. Tales lugares de trabajo no cumplen con las directrices sectoriales y son riesgosos para las personas que allí trabajan. 
-Cruce hacia y desde el lugar de trabajo (puntos de acceso a la vía)
-El punto de acceso a la vía en Voorschoten estaba configurado de tal manera que ofrecía acceso exclusivamente desde un lado a las cuatro vías del tramo de vía cuádruple. Cuando los equipos de trabajo deben trabajar en las dos vías más alejadas (vistas desde la carretera de acceso), primero deben cruzar dos vías en servicio (y por tanto, temporalmente sacadas de servicio). Al finalizar, deben recorrer el mismo camino de regreso, es decir, volver a cruzar dos vías en servicio para llegar a la carretera pública. Esto también era el caso en el momento del accidente en Voorschoten.115 El equipo de trabajo operaba en dos de las cuatro vías y solo esas dos vías estaban fuera de servicio durante todo el periodo de trabajo. A petición, las otras dos vías podían ser sacadas de servicio brevemente para permitir el cruce; el resto del tiempo, los trenes circulaban por ellas.
-También existen puntos de acceso desde los cuales solo se pueden alcanzar las dos vías más cercanas. Eso significa que el equipo de trabajo puede alcanzar el lugar de trabajo en la vía sin cruzar vías en servicio. En tales casos, también hay una valla (de prevención de riesgos laborales) entre el punto de acceso y las otras vías. La valla evita que los trabajadores de vía crucen accidentalmente vías en servicio (véase a la derecha en la figura 25). En el accidente de Voorschoten, el punto de acceso abarcaba las cuatro vías y no había ninguna valla de prevención de riesgos laborales entre las vías (imagen izquierda en la siguiente figura y véase el anexo D.1.2).
-114	 Según las partes involucradas, la situación en Voorschoten no era un saque de servicio tipo isla porque este término solo se refiere a una ruta segura de entrada y salida para las personas. Para alcanzar y abandonar el lugar de trabajo, se había elaborado para los trabajadores de vía de la ubicación de trabajo 09 que debían cruzarse vías, las cuales eran sacadas de servicio exclusivamente para el cruce. Desde la perspectiva de que debían cruzarse vías en servicio para llegar a la ubicación de trabajo 09 y abandonarla, no existiendo una ruta segura para el personal (elegida) y no siendo el lugar de trabajo autosuficiente, el Consejo considera la ubicación de trabajo 09 como un saque de servicio tipo isla. Para los trabajadores de vía en la vía 3 de la ubicación de trabajo 07, se eligió una alternativa más segura, concretamente el acceso desde Blauwe Tramstraat. Este punto de acceso también habría sido una alternativa más segura para la ubicación de trabajo 09.
+De las consultas realizadas a ProRail se desprende que no existe ninguna ponderación ni toma de decisiones explícita que sustente esta situación. De forma subyacente e implícita, existen dentro de la organización obstáculos al desarrollo de medios auxiliares que intervienen sobre los sistemas existentes y que, por tanto, pueden afectar a la integridad de dichos sistemas. Otro factor mencionado es la dificultad con la titularidad de estas innovaciones (ProRail o contratistas). Tampoco está claro quién paga el desarrollo y la implementación y quién determina que los distintos contratistas vayan a utilizarlos (lo cual es determinante para la justificación económico-empresarial de una innovación de este tipo).
+Se han desarrollado diversos medios auxiliares para aumentar la seguridad laboral y la seguridad ferroviaria durante los trabajos. Sin embargo, estos no se han desplegado a nivel nacional. La falta de claridad sobre si la titularidad y la financiación recae en ProRail o en el contratista, así como la preocupación de ProRail de que las innovaciones afecten a la integridad de los sistemas existentes, juegan un papel en ello.
 
+3.2.2 Relación con el accidente de Voorschoten
+La zona de trabajo era accesible únicamente cruzando dos vías donde aún circulaban trenes esa noche, debido a la elección del punto de inserción de los raíles. Estas vías debían quedar fuera de servicio durante breves periodos. Este apartado profundiza en estos factores del accidente.
+
+Puesta fuera de servicio tipo isla
+Según el Consejo, la ubicación de trabajo en Voorschoten constituía una puesta fuera de servicio tipo isla.114 Las directrices sectoriales establecen que una puesta fuera de servicio tipo isla con periodos temporales de cruce solo está permitida si la zona de trabajo es autosuficiente. Esto no era el caso en Voorschoten (por ejemplo, no había instalaciones de alimentación ni sanitarias). De las conversaciones mantenidas por el Consejo se desprende que, en los trabajos de mantenimiento encargados por ProRail, ocurre con mayor frecuencia que exista una puesta fuera de servicio tipo isla (véase también el capítulo 4 sobre los accidentes (casi) investigados por el Consejo).
+ProRail indica que no tiene visibilidad sobre si los contratistas trabajan con una puesta fuera de servicio tipo isla, ya que solo ven en qué tramo de vía van a tener lugar los trabajos, pero no qué puntos de inserción eligen los contratistas para acceder a la zona de trabajo dentro de
+
+114 Según las partes implicadas, la situación en Voorschoten no era una puesta fuera de servicio tipo isla porque este concepto solo se refiere a una ruta segura de acceso y salida para las personas. Para alcanzar y abandonar la zona de trabajo, los trabajadores de vía de la ubicación de trabajo 09 tenían que cruzar vías que quedaban fuera de servicio exclusivamente para el cruce. Desde la perspectiva de que era necesario cruzar vías en servicio para llegar a la ubicación de trabajo 09 y abandonarla, no existía una ruta segura para el personal (elegida) y la zona de trabajo no era autosuficiente; por ello, el Consejo considera la ubicación de trabajo 09 como una puesta fuera de servicio tipo isla. Para los trabajadores de vía en la vía 3 de la ubicación de trabajo 07 se optó por una alternativa más segura, concretamente la inserción en Blauwe Tramstraat. Este punto de inserción también habría sido una alternativa más segura para la ubicación de trabajo 09.
 
 ## Página 69
+
 
 deze baanvakken te bereiken. Waar ProRail wel zicht op heeft, is dat de aannemer bij 
 
@@ -1514,6 +1527,7 @@ drie sporen buiten dienst zijn, of alle vier sporen buiten dienst.
 
 ## Página 70
 
+
 Figura 25: Punto de entrada de material ferroviario sobre cuatro vías o sobre dos vías.
 El contratista de mantenimiento eligió el punto de entrada en Voorschoten porque, al elegir el otro posible punto de entrada, los vehículos ferroviarios habrían tenido que pasar por varios desvíos para llegar a la ubicación de trabajo 09.116 El contratista de mantenimiento no había recibido información específica de ProRail sobre los riesgos del punto de entrada en Voorschoten para los trabajadores y para los trenes que pasaban. También había otras ubicaciones de trabajo en Voorschoten dentro de la zona de trabajo A, como la ubicación de trabajo 07. Para la ubicación de trabajo 07 eran necesarios dos vagones de soldadura, que se desplegaron desde un punto de entrada diferente (Blauwe Tramstraat cerca de Leiden). La decisión de desplegar estos dos vagones de soldadura desde Blauwe Tramstraat parece estar motivada por razones logísticas, ya que si se hubieran desplegado desde Voorschoten, los vagones de soldadura podrían haber entrado en conflicto con la grúa y el otro vagón de soldadura. En el punto de entrada de Blauwe Tramstraat, además de los dos vagones de soldadura, también se desplegó un vehículo de montaje automático para trabajos de catenaria en la estación de Leiden Centraal.
 
@@ -1524,8 +1538,8 @@ El cliente ProRail otorga a los contratistas de mantenimiento acceso a un Expedi
 117	 En el expediente V&G se recogen los riesgos de seguridad y salud asociados al acceso a - y al trabajo en - terrenos gestionados por ProRail. Estos riesgos están agrupados en expedientes de riesgo: riesgos específicos y genéricos de objetos, riesgos de productos y capas cartográficas con información geográfica relevante.
 118	 Elektronweg Utrecht y Boekweitkamp Den Haag.
 
-
 ## Página 71
+
 
 El expediente V&G no indicaba esto, por lo que ProRail no alertó a los contratistas de mantenimiento sobre este riesgo.
 ProRail, según sus propias palabras, solo verificaba los límites de la puesta fuera de servicio al aprobarla, y dejaba la ejecución de los trabajos dentro de la puesta fuera de servicio al criterio del contratista de mantenimiento. Resulta llamativo que ProRail aprobara asimismo, en consulta con el jefe de circulación, la puesta fuera de servicio de los períodos cortos (y con ello, implícitamente, el surgimiento de una puesta fuera de servicio tipo isla).
@@ -1541,35 +1555,41 @@ Una de las recomendaciones que ProRail dirigió a sí misma tras el mencionado a
 
 ## Página 72
 
-cumplir todos los requisitos de calidad y ofrecer todas las instalaciones (pensemos en: interruptores de zona de trabajo¹²¹, iluminación y medios de orientación). ProRail también recomendó evaluar todas las zonas de acceso a la vía existentes contra esta norma de diseño a redactar y, si era necesario, adaptarlas. Además, ProRail quería abordar las diez zonas de acceso más riesgosas basándose en los incidentes por región.
-La recomendación de mejorar la seguridad de las zonas de acceso a la vía para los trabajadores y los trenes que pasaban había sido parcialmente seguida en el momento del accidente en Voorschoten. En 2016, ProRail estableció una norma de diseño para las zonas de acceso a la vía. Esta norma de diseño no contenía la distinción recomendada en clases de gravedad y no prescribía qué dispositivos de seguridad debían aplicarse para evitar el peligro de colisión. Las siguientes disposiciones de esta norma de diseño están relacionadas con los riesgos que desempeñaron un papel en el accidente de Voorschoten.
-Norma de diseño de zonas de acceso a la vía (ProRail)
-«18. Las zonas de acceso a la vía deben preferiblemente:
-a. Situarse donde se pueda desplegar material sin que sea necesaria una puesta fuera de servicio (adaptación en el servicio normal de línea).
-b. No instalarse en la vía principal.
-c. Limitarse a 1 vía en relación con la sustracción lo más baja posible y como máximo sobre 2 vías.
-19. Una zona de acceso a la vía debe ser accesible únicamente desde un lado desde la vía pública.
-20. Las zonas de acceso a la vía en tramos de vía múltiple que cada uno es accesible desde su propio lado a través de la vía pública no deben colocarse frente a frente.»
-Desde 2016, las nuevas zonas de acceso a la vía que se vayan a construir deben cumplir esta norma de diseño. Si una nueva zona de acceso a la vía no cumple esto, entonces es necesaria una notificación interna indicando las razones para desviarse y la forma de gestión del riesgo. No es conocido entre el personal de ProRail hasta qué punto esta disposición de «aplicar o justificar» se sigue durante la construcción de nuevas zonas de acceso a la vía.
-ProRail no evaluó las zonas de acceso a la vía que ya estaban en uso en ese momento contra la nueva norma de diseño, porque la nueva norma solo se aplicaba a las nuevas zonas de acceso a la vía. El Consejo no encontró si hubo una consideración explícita que fundamentara esto. Además, hasta ese momento no era visible en el sistema de información de ProRail qué zonas de acceso a la vía cumplían o no la norma de diseño, lo que habría hecho imposible la priorización. Dentro de ProRail, las zonas de acceso a la vía solo están marcadas como pavimentos; ProRail no las considera objetos que deban cumplir ciertos criterios. La zona de acceso a la vía en Voorschoten entró en servicio antes de 2016 y prácticamente no cumple¹²² los puntos mencionados anteriormente de la norma de diseño de 2016.
+cumplan todos los requisitos de calidad y ofrezcan todas las instalaciones (p. ej.: interruptores de zona de trabajo121, iluminación y medios de orientación). ProRail también recomendó evaluar todas las zonas de colocación de vías existentes conforme a este proyecto de norma que se iba a establecer y, si era necesario, adaptarlas. Además, ProRail quería abordar las diez zonas de colocación de vías más riesgosas basándose en los incidentes por región.
+La recomendación de mejorar la seguridad de las zonas de colocación de vías para los trabajadores y los trenes que pasaban había sido parcialmente seguida en el momento del accidente en Voorschoten. En 2016, ProRail estableció un proyecto de norma para las zonas de colocación de vías. Este proyecto de norma no contenía la distinción recomendada en clases de gravedad y no especificaba qué dispositivos de seguridad debían aplicarse para evitar el riesgo de colisión. Las siguientes disposiciones de este proyecto de norma están relacionadas con los riesgos que desempeñaron un papel en el accidente de Voorschoten.
+Proyecto de norma sobre zonas de colocación de vías (ProRail)
+«18. Las zonas de colocación de vías deben preferiblemente:
+a.	Situarse donde el material pueda ser colocado sin que sea necesaria una puesta fuera de servicio (adaptación en el servicio regular de línea).
+b.	No instalarse en la vía principal.
+c.	Limitarse a 1 vía en relación con la extracción lo más baja posible y máximo sobre 2 vías.
+19. Una zona de colocación de vías debe ser accesible desde la vía pública solo desde un lado.
+20. Las zonas de colocación de vías en tramos de vía múltiple que sean cada una accesibles desde la vía pública por su propio lado no deben situarse frente a frente.»
+Desde 2016, las nuevas zonas de colocación de vías que se vayan a construir deben cumplir este proyecto de norma. Si una nueva zona de colocación de vías no cumple esto, es necesaria una notificación interna indicando las razones para desviarse y la forma de gestión del riesgo. No se conoce entre el personal de ProRail hasta qué punto esta disposición de «aplicar o justificar» se sigue durante la construcción de nuevas zonas de colocación de vías.
+ProRail no evaluó las zonas de colocación de vías que ya estaban en uso en ese momento contra el nuevo proyecto de norma, porque la nueva norma solo se aplicaba a las nuevas zonas de colocación de vías. La Junta no ha encontrado si hubo una consideración explícita que fundamentara esto. Además, hasta ese momento no era visible en el sistema de información de ProRail qué zonas de colocación de vías cumplían o no el proyecto de norma, lo que impediría la priorización. Dentro de ProRail, las zonas de colocación de vías solo están marcadas como pavimentos; ProRail no las considera objetos que deban cumplir ciertos criterios. La zona de colocación de vías en Voorschoten entró en servicio antes de 2016 y prácticamente no122 cumple los puntos anteriormente mencionados del proyecto de norma de 2016.
 121	 Con un interruptor de zona de trabajo, un responsable de seguridad puede poner vías fuera de servicio in situ (véase subapartado 3.2.2).
-122	 Estrictamente hablando, la zona de acceso a la vía en Voorschoten sí cumple el punto 19 (accesible únicamente desde un lado desde la vía pública). En combinación con el hecho de que la zona de acceso a la vía fue construida sobre cuatro vías en contradicción con el punto 18c, eso fue precisamente un factor de aumento del riesgo en el diseño.
-
+122	 Estrictamente hablando, la zona de colocación de vías en Voorschoten sí cumple el punto 19 (accesible desde la vía pública solo desde un lado). En combinación con el hecho de que la zona de colocación de vías fue construida sobre cuatro vías, contraviniendo el punto 18c, eso fue precisamente un factor de aumento del riesgo en el diseño.
 
 ## Página 73
 
-A raíz del accidente en Voorschoten, ProRail inició un estudio nacional sobre zonas de acceso a la vía riesgosas. ProRail identificó qué zonas de acceso a la vía cruzan tres o más vías. Resultaron ser 34. ProRail luego evaluó esas 34 zonas de acceso a la vía basándose en la norma de diseño de 2016. De ello resultó que ProRail clasificó 7 de las 34 zonas de acceso a la vía como muy riesgosas. La zona de acceso a la vía en Voorschoten es una de las zonas de acceso a la vía más riesgosas. En el momento de la redacción de este informe, ProRail estaba deliberando sobre un enfoque.¹²³
-ProRail había tenido indicios desde 2012 de que ciertas zonas de acceso a la vía eran riesgosas. A raíz de esto, ProRail establece desde 2016 nuevos requisitos para nuevas zonas de acceso a la vía, pero no para las ya existentes. Los riesgos relacionados con las zonas de acceso existentes no salieron a la luz y persistieron.
-3.2.3 Accidentes (casi) anteriores
-De los incidentes analizados, la situación de una zona de acceso sobre cuatro vías, como era el caso en Voorschoten, no surge. La mayoría de los informes no describen la configuración de una zona de acceso. En dos incidentes se hicieron recomendaciones sobre la configuración de una zona de acceso para hacer su uso más seguro. En los incidentes estudiados, parece que principalmente el reconocimiento de una vía en servicio respecto a una vía fuera de servicio y la falta de medios físicos para la determinación de la posición (como placas de identificación de vía) influyen en el ingreso involuntario a una vía en servicio. La configuración de la zona de acceso influye en la orientación sobre qué vías están en servicio y cuáles fuera de servicio, pero los problemas de orientación y determinación de la posición no se limitan a las zonas de acceso.
-Accidente en zona de acceso a la vía en 2012¹²⁴
-El 10 de agosto de 2012, un jefe de seguridad local y un montador de vía fueron casi atropellados por un tren de pasajeros. El maquinista del tren usó su silbato (bocina de aire) como advertencia, tras lo cual las personas involucradas saltaron de la vía y huyeron. El tren pasó seis segundos después. Uno de los factores fue que el jefe de seguridad local y el montador se encontraban en la vía equivocada. En la zona de acceso a la vía donde habían ingresado a la vía, no había ayudas para orientarse ni para aislar la vía en servicio.¹²⁵
-De varios incidentes ha quedado demostrado que para los trabajadores de vía y los responsables de seguridad no siempre es claramente visible desde dónde hasta dónde las vías han sido puestas fuera de servicio. La consecuencia de esto es que los trabajadores pueden cometer errores durante la orientación y pasar inadvertidamente el límite de la puesta fuera de servicio. Según la normativa sectorial actual, es obligatorio marcar físicamente los límites de la puesta fuera de servicio, para evitar que vehículos ferroviarios involuntariamente
-123	 Lista de zonas de acceso a la vía (lista Excel), recibida de ProRail el 5 de septiembre de 2023.
-124	 Véase apartado 3.2.2 sobre zonas de acceso.
-125	 ProRail, Informe de investigación Casi colisión 2 trabajadores de vía Rotterdam Zuid, 10 de agosto de 2012, definitivo 1.0.
+Con motivo del accidente en Voorschoten, ProRail inició una investigación nacional sobre los puntos de acceso a la vía con riesgo elevado. ProRail ha identificado qué puntos de acceso a la vía cruzan tres o más vías. Resultaron ser 34. A continuación, ProRail evaluó esos 34 puntos de acceso a la vía basándose en el reglamento de diseño de 2016. De ello se desprende que ProRail clasificó 7 de los 34 puntos de acceso a la vía como de muy alto riesgo. El punto de acceso a la vía en Voorschoten es uno de los puntos de acceso a la vía más riesgosos. En el momento de redactar este informe, ProRail estaba deliberando sobre un enfoque.123
+ProRail disponía desde 2012 de indicios de que ciertos puntos de acceso a la vía eran riesgosos. Con motivo de esto, ProRail establece desde 2016 nuevos requisitos para los nuevos puntos de acceso a la vía, pero no para los ya existentes. Los riesgos relacionados con los puntos de acceso ya existentes no salieron a la luz y persistieron.
+
+3.2.3	 Accidentes (casi) anteriores
+
+De los incidentes analizados no surge la situación de un punto de acceso a la vía sobre cuatro vías, como era el caso en Voorschoten. La mayoría de las investigaciones no describen la configuración de un punto de acceso a la vía. En dos incidentes se formularon recomendaciones sobre la configuración de un punto de acceso a la vía para hacer su uso más seguro. En los incidentes estudiados, parece que principalmente la identificabilidad de una vía en servicio respecto a una vía fuera de servicio y la ausencia de medios físicos para la determinación de la posición (como señales de identificación de vía) influyen en el ingreso involuntario a una vía en servicio. La configuración del punto de acceso a la vía influye en la orientación sobre qué vías están en servicio y cuáles fuera de servicio, pero los problemas de orientación y determinación de la posición no se limitan a los puntos de acceso a la vía.
+
+Accidente en un punto de acceso a la vía en 2012124
+
+El 10 de agosto de 2012, un jefe de seguridad local y un operario de vía estuvieron a punto de ser atropellados por un tren de pasajeros. El maquinista del tren utilizó su silbato (trompa de aire) como advertencia, tras lo cual las personas implicadas saltaron de la vía y huyeron. El tren pasó seis segundos después. Uno de los factores fue que el jefe de seguridad local y el operario se encontraban en la vía equivocada. En el punto de acceso a la vía donde habían ingresado a la vía, no había ayudas para orientarse ni para aislar la vía en servicio.125
+
+De diversos incidentes se ha evidenciado que para los operarios de vía y los responsables de seguridad no siempre es claramente visible desde dónde hasta dónde las vías han sido declaradas fuera de servicio. Como consecuencia, los trabajadores pueden cometer errores durante la orientación y pasar inadvertidamente el límite de la declaración de fuera de servicio. Según la normativa sectorial vigente, es obligatorio marcar físicamente los límites de la declaración de fuera de servicio, para evitar que vehículos ferroviarios ingresen involuntariamente
+
+123	 Resumen de puntos de acceso a la vía (lista Excel), recibido de ProRail el 5 de septiembre de 2023.
+124	 Véase el apartado 3.2.2 sobre puntos de acceso a la vía.
+125	 ProRail, Informe de investigación Casi atropello de 2 operarios de vía Rotterdam Zuid, 10 de agosto de 2012, definitivo 1.0.
 
 ## Página 74
+
 
 abandonar la zona de trabajo. Sin embargo, esta señalización suele limitarse a marcar el inicio y el final de la zona de trabajo en la dirección longitudinal de las vías y no entre las vías.126 De los 30 incidentes en los que el Consejo pudo determinar cómo los trabajadores accedieron al exterior del tramo fuera de servicio, en doce casos se trató de un movimiento lateral, perpendicular a la vía. No obstante, también se producen incidentes en los que el límite en la prolongación de la vía no está adecuadamente indicado (incluso con una buena instrucción y señalización en el plano de extracción de la zona de trabajo).
 Incidente grave desde el punto de colocación de raíles en 2022127
@@ -1583,14 +1603,14 @@ De la sección anterior se desprende que cruzar vías en servicio es arriesgado 
 127	 Fuente: informe de accidente del contratista de mantenimiento correspondiente.
 128	 Una señal de cierre (también llamada placa de semáforo 513) tiene el mismo significado que un semáforo de parada. Fuente: Reglamento de tráfico ferroviario, anexo 4, semáforo 513 señal de cierre, https://wetten.overheid.nl/BWBR0017707.
 
-
 ## Página 75
+
 
 El accidente en Voorschoten y otros incidentes (graves) muestran que, aunque se toman medidas para evitar que los trenes entren en una zona de trabajo, no existe una barrera física robusta para evitar que los trabajadores salgan involuntariamente de su zona de trabajo y entren en contacto con los trenes que pasan (y los trenes que pasan con maquinaria pesada de obra). No obstante, ProRail ha introducido nuevas directrices para los puntos de colocación de raíles. Estas solo se aplican a los nuevos puntos de colocación de raíles, por lo que han seguido existiendo puntos de colocación de raíles arriesgados como el de Voorschoten.
 Se han desarrollado diversos recursos para aumentar la seguridad laboral y la seguridad ferroviaria durante las obras. Sin embargo, estos no se han desplegado a nivel nacional. Por ello, la protección de la zona de trabajo depende en gran medida de la comunicación verbal. La siguiente sección describe este factor de accidente.
 
-
 ## Página 76
+
 
 ## 3.3	
 ### Comunicación y supervisión
@@ -1637,6 +1657,7 @@ Con el Pasaporte Digital de Seguridad personal se pretende registrar que los tra
 
 ## Página 77
 
+
 no pueden garantizar que las personas se comuniquen sin errores; las personas seguirán cometiendo errores. También de los otros (casi) accidentes investigados por el Consejo de Investigación se desprende que la comunicación es un eslabón débil. En ello, la comunicación atraviesa muchos eslabones (tanto en la preparación como en la ejecución), lo cual es susceptible a errores. Además, puede ocurrir que las decisiones conscientes tomadas en la preparación no se comuniquen a la fase de ejecución.
 
 Preocupaciones del sector sobre la comunicación como eslabón débil
@@ -1655,8 +1676,8 @@ El registro de la comunicación puede ayudar entonces a reflexionar sobre cómo 
 131 Fuente: https://www.railalert.nl/nieuws/2023-04-20-aandacht-voor-regelgeving-rondom-in-en-uitzetten-van-railweg-voertuigen (consultado el 25 de mayo de 2023, actualizado el 4 de agosto de 2023).
 132 lwb-trdl significa jefe de seguridad del lugar de trabajo – despachador de trenes.
 
-
 ## Página 78
+
 
 de la comunicación de seguridad entre los funcionarios de seguridad y los trabajadores de vía no es obligatorio. Los medios técnicos para poder hacerlo están disponibles. En el pasado, un proveedor de seguridad del lugar de trabajo realizó por iniciativa propia un experimento con el registro de la comunicación de seguridad. De este experimento se desprende que la disciplina en la comunicación de seguridad era insuficiente. Sin embargo, el experimento no tuvo continuidad, en parte porque no fue adoptado por el resto del sector.133
 
@@ -1672,6 +1693,7 @@ El operador de la grúa dependía de la comunicación a través de varios eslabo
 133 Explicación oral sobre el experimento por parte del proveedor de seguridad del lugar de trabajo. No había documentación disponible de este experimento (fuente: Safelines).
 
 ## Página 79
+
 
 debía ser sacada de servicio. En las instrucciones de trabajo se indicaba que era necesario un breve corte de servicio de las otras dos vías para realizar el cruce.
 
@@ -1707,8 +1729,8 @@ Figura 27: Ejemplo de comunicación a través de nueve eslabones.
 En cada uno de estos eslabones, el emisor puede equivocarse o emitir un mensaje que deje margen para diferencias de interpretación. Además, el receptor puede entender mal el mensaje o dar involuntariamente, dentro del margen de interpretación, una explicación distinta a la pretendida.
 Para parte de los eslabones de la situación anterior, la comunicación queda registrada (la comunicación entre el jefe de protección de la zona de trabajo y el jefe de circulación); el resto de la comunicación no queda registrada. Esto hizo que, tras el accidente en Voorschoten, no fuera posible determinar hasta qué punto el operador de la grúa había escuchado y comprendido la instrucción del JSL, o si hubo
 
-
 ## Página 80
+
 
 comunicación errónea, interpretación incorrecta o un error por parte de uno o ambos.
 También en situaciones en las que no se produce ningún incidente (o casi-incidente), el registro de la comunicación ofrece posibilidades para mejorar la disciplina conversacional y la claridad de las instrucciones.
@@ -1728,45 +1750,56 @@ En todos los casos, la persona que opera un vehículo ferroviario debe estar ins
 ## Página 81
 
 Al circular con vehículos ferroviarios por vías fuera de servicio se establecen los siguientes requisitos:
-X Circular siempre a la vista con una velocidad máxima de 40 km/h;
+X Circular en todo momento a la vista, con una velocidad máxima de 40 km/h;
 X La velocidad máxima en las proximidades del personal en el lugar de trabajo es de 10 km/h;
 X Al pasar por un paso a nivel, este debe activarse para garantizar la separación segura entre el tráfico ferroviario y el vial;
 X Se debe detener la marcha si la seguridad de los trabajadores, las herramientas o la infraestructura lo requieren.’
-Para la marcha atrás de la grúa, conforme a estas directrices sectoriales y a las normas de su propia organización, se estimó que solo podía retroceder: avanzaba hacia delante y no tenía que pasar por elementos especiales como pasos a nivel o cambios de vía. El responsable local de seguridad debía permanecer junto al autobús de soldadura en su rol de acompañante fuera de servicio, ya que este retrocedería más tarde. En caso de marcha atrás, la Evaluación de Riesgos Laborales (RI&E) de los trabajos de mantenimiento prescribe que debe realizarse acompañamiento.
-Según las normas vigentes en el momento del accidente, el operador de la grúa no requería acompañamiento.
-La norma que exigía el acompañamiento permanente de los vehículos de trabajo durante las puestas fuera de servicio fue derogada en 2009. El Consejo de Seguridad desconoce cuáles fueron los argumentos para derogar dicha norma.
-Tras el accidente de Voorschoten, railAlert modificó temporalmente estas normas para la puesta en servicio y fuera de servicio en: “el vehículo debe ser acompañado in situ durante la puesta en servicio y fuera de servicio”. Esta medida será evaluada tras la publicación del informe del Consejo de Seguridad o después de 1 año.
-‘Atención a la normativa sobre la puesta en servicio y fuera de servicio de vehículos ferrocarril-carretera137
-Con mucha mayor frecuencia de la que ocurren accidentes, al trabajar sobre y alrededor de la vía casi se produce un incidente. Acceder y abandonar la vía es un ejemplo de situación potencialmente peligrosa. A la espera de los resultados de las investigaciones en curso sobre el accidente de Voorschoten, queremos evitar explícitamente especulaciones, pero sobre todo no quedarnos quietos. Por ello, pedimos al sector que esté especialmente alerta ante los peligros específicos relacionados con la puesta en servicio y fuera de servicio de vehículos ferrocarril-carretera. Esto se logra adoptando las medidas adecuadas en los ámbitos siguientes.
+
+Para el trayecto de regreso de la grúa, conforme a estas directrices sectoriales y a las normas de la propia organización, se estimó que solo podía regresar circulando hacia atrás: avanzaba hacia delante y no tenía que pasar por elementos especiales como pasos a nivel o desvíos. El jefe de seguridad local debía permanecer junto al vehículo mixto tren-carretera (lasbus) en su función de acompañante fuera de servicio, ya que este regresaría más tarde marcha atrás. En caso de circulación marcha atrás, la Evaluación de Riesgos Laborales (RI&E) de los trabajos de mantenimiento prescribe que debe realizarse acompañamiento.
+
+Según las normas vigentes en el momento del accidente, el maquinista de la grúa no requería acompañamiento.
+La norma que exigía que los vehículos de trabajo en situaciones de fuera de servicio siempre debían ser acompañados fue derogada en 2009. El Consejo de Seguridad desconoce cuáles fueron los argumentos para derogar dicha norma.
+
+Tras el accidente de Voorschoten, railAlert adaptó (temporalmente) estas normas sobre la entrada y salida de vía en: «el vehículo debe ser acompañado in situ durante la entrada y salida de vía». Esta medida será evaluada tras la publicación del informe del Consejo de Seguridad o transcurrido 1 año.
+
+«Atención a la normativa relativa a la entrada y salida de vía de vehículos mixtos tren-carretera137»
+
+Con mucha mayor frecuencia de la que ocurren accidentes, al trabajar sobre y alrededor de la vía casi se produce un incidente. Acceder y abandonar la vía es un ejemplo de situación potencialmente peligrosa. A la espera de los resultados de las investigaciones en curso sobre el accidente de Voorschoten, queremos evitar explícitamente las especulaciones, pero sobre todo no quedarnos quietos. Por ello, pedimos al sector que esté especialmente alerta ante los riesgos específicos relacionados con la entrada y salida de vía de los vehículos mixtos tren-carretera. Esto se logra adoptando las medidas adecuadas en los ámbitos siguientes.
 …
-Revisión de la normativa actual: Los vehículos ferrocarril-carretera deben ser acompañados in situ durante la puesta en servicio y fuera de servicio en un paso a nivel o punto de acceso ferroviario por el responsable de seguridad designado (bbd, llv o lwb).’
-Esta revisión no hacía distinción entre tramos donde todos los vías estaban fuera de servicio durante los trabajos, con la consecuencia de que también en situaciones donde no circulaban trenes, los vehículos ferrocarril-carretera debían ser acompañados. Esto condujo el 4 de agosto de 2023 a una actualización que incluía la siguiente excepción.
+Endurecimiento respecto a la normativa vigente: Los vehículos mixtos tren-carretera deben ser acompañados in situ durante la entrada y salida de vía en un paso a nivel o punto de acceso a la vía por parte del responsable de seguridad designado (bbd, llv o lwb).’
+
+Este endurecimiento no distinguía entre tramos de vía donde todos los carriles estaban fuera de servicio durante los trabajos, lo que provocaba que también en situaciones donde...
+
+137 Fuente: railAlert, Atención a la normativa relativa a la entrada y salida de vía de vehículos mixtos tren-carretera, 20 de abril de 2023.
+
+## Página 82
+
+no circulasen trenes, los vehículos mixtos ferrocarril-carretera debían ser escoltados. Esto condujo el 4 de agosto de 2023 a una actualización que mencionaba la siguiente excepción.
 Actualización138
-’Excepción al acompañamiento in situ de la puesta en servicio y fuera de servicio de un vehículo ferrocarril-carretera en un punto de acceso ferroviario o paso a nivel son las situaciones en las que se aplica lo siguiente y esto consta en la RI&E:
-1. Todas las vías presentes están completamente, simultáneamente y continuamente sin interrupción fuera de servicio,
+«Las excepciones a la escolta in situ durante la colocación y retirada de un vehículo mixto ferrocarril-carretera en un punto de acceso ferroviario o paso a nivel son las situaciones en las que se cumple lo siguiente y así consta también en la RI&E:
+1. Todas las vías presentes están completamente, simultáneamente y continuamente fuera de servicio sin interrupción,
 
 y
-2. Todo el punto de acceso ferroviario o paso a nivel está incluido dentro de esta puesta fuera de servicio.’
-El acompañamiento de vehículos ferrocarril-carretera fue obligatorio hasta 2009 y volvió a serlo in situ durante la puesta en servicio y fuera de servicio tras el accidente de Voorschoten. Esta medida será evaluada tras la publicación del informe del Consejo de Seguridad o después de 1 año.
-3.3.3	 Incidentes previos (casi-accidentes)
-Las ambigüedades en el envío y/o recepción de mensajes pueden llevar a suposiciones incorrectas. La comunicación entre el jefe de circulación y el responsable de seguridad del lugar de trabajo se graba y puede ser escuchada posteriormente. En la comunicación de seguridad entre los trabajadores no se realiza este registro. Esto dificulta el aprendizaje de los incidentes. Así se desprende también de incidentes en los que se ofrecen declaraciones contradictorias.
-El 1 de diciembre de 2022, un responsable local de seguridad informó a su equipo que la vía secundaria estaba fuera de servicio cuando aún no era así. La puesta fuera de servicio abarcaba lugares de trabajo que contenían varios emplazamientos de trabajo. A principios de la noche se puso fuera de servicio el lugar de trabajo A y luego también el lugar de trabajo B. El responsable de seguridad del lugar de trabajo compartió esta información en un grupo de Whatsapp con todos los responsables locales de seguridad. El responsable local de seguridad en el lugar de trabajo C supuso que él también podía comenzar ya con los trabajos. El responsable de seguridad del lugar de trabajo contactó también con todos los responsables locales de seguridad para confirmar verbalmente. Posteriormente, descubrieron conjuntamente que el lugar de trabajo C aún no estaba fuera de servicio. Ante esto, el responsable local de seguridad advirtió al equipo que estaba preparando la puesta en servicio de vehículos ferroviarios en la vía. Otra parte del equipo ya iba a pie hacia el emplazamiento de trabajo. El responsable local de seguridad no pudo contactar telefónicamente con estos miembros del equipo. Ellos mismos se dieron cuenta de que algo no cuadraba.
-El 23 de agosto de 2020, una grúa depositó materiales en una vía en servicio. La grúa tenía un lugar de trabajo temporal de 40 minutos para recoger accesorios que
-138	 Fuente: railAlert, ACTUALIZACIÓN: Atención a la normativa sobre la puesta en servicio y fuera de servicio de vehículos ferrocarril-carretera, 4 de agosto de 2023.
+2. Todo el punto de acceso ferroviario o paso a nivel está incluido dentro de esta puesta fuera de servicio.»
+La escolta de los vehículos mixtos ferrocarril-carretera fue obligatoria hasta 2009 y volvió a serlo tras el accidente de Voorschoten, exigiéndose in situ durante la colocación y retirada. Esta medida será evaluada tras la publicación del informe del Consejo de Seguridad (Onderzoeksraad) o al cabo de 1 año.
+3.3.3	 Anteriores incidentes (casi-)accidentes
+Las ambigüedades en el envío y/o recepción de mensajes pueden conducir a una suposición incorrecta. La comunicación entre el jefe de circulación y el responsable de seguridad de la zona de trabajo se graba y puede por tanto escucharse posteriormente. En el caso de la comunicación de seguridad entre los trabajadores entre sí, esto no ocurre. Esto dificulta el aprendizaje a partir de los incidentes. Así se desprende también de incidentes en los que se emiten declaraciones contradictorias.
+El 1 de diciembre de 2022, un responsable local de seguridad informó a su equipo de que la vía secundaria estaba fuera de servicio cuando aún no era así. La puesta fuera de servicio abarcaba zonas de trabajo que contenían varios emplazamientos de trabajo. A primera hora de la tarde se puso fuera de servicio la zona de trabajo A y después también la zona de trabajo B. El responsable de seguridad de la zona de trabajo compartió esta información en un grupo de Whatsapp con todos los responsables locales de seguridad. El responsable local de seguridad de la zona de trabajo C supuso que él también podía ya comenzar con los trabajos. El responsable de seguridad de la zona de trabajo contactó también con todos los responsables locales de seguridad para obtener confirmación verbal. Posteriormente, comprobaron conjuntamente que la zona de trabajo C aún no estaba fuera de servicio. Ante ello, el responsable local de seguridad advirtió al equipo que estaba preparando la colocación de vehículos ferroviarios en la vía. Otra parte del equipo ya iba a pie hacia el emplazamiento de trabajo. El responsable local de seguridad no pudo contactar telefónicamente con estos miembros del equipo. Ellos mismos se dieron cuenta de que algo no cuadraba.
+El 23 de agosto de 2020, una grúa depositó materiales sobre una vía en servicio. La grúa disponía de una zona de trabajo temporal de 40 minutos para recoger accesorios que
+138	 Fuente: railAlert, ACTUALIZACIÓN: Atención a la normativa relativa a la colocación y retirada de vehículos mixtos ferrocarril-carretera, 4 de agosto de 2023.
 
 ## Página 83
 
-se encontraban más adelante. Para ello, el operador de la grúa debía retirar la grúa de la vía en la ubicación de los materiales y recoger los accesorios. En el momento en que la grúa estaba retirada de la vía (aproximadamente 6 minutos antes del final de la zona de trabajo temporal), el jefe de seguridad de la zona de trabajo se puso en contacto con el jefe de seguridad local. El jefe de seguridad local indicó que la grúa estaba apagada y que la vía podía volver a entrar en servicio. También había comunicado esto al ejecutor. El ejecutor dijo al operador de la grúa que ya podía ir preparando las cosas. Esto fue interpretado por el operador de la grúa como que podía volver a acceder a la vía.
-El 29 de octubre de 2017, una grúa salió de la puesta fuera de servicio. El acompañante de la puesta fuera de servicio instruyó al operario de vehículos de herramientas para que avanzara hasta «el viaducto». Con esto, el acompañante de la puesta fuera de servicio se refería al paso superior (fly-over). El operario de vehículos de herramientas condujo por sí mismo hasta la zona de trabajo y pasó junto al paso superior buscando «el viaducto». En este trayecto, pasó varias señales que indicaban parada. El jefe de circulación vio una ocupación de vía en su pantalla y contactó con el jefe de seguridad de la zona de trabajo. El jefe de seguridad de la zona de trabajo llamó al acompañante de la puesta fuera de servicio, quien llamó al operario de vehículos de herramientas para corregir el error.
-Una suposición incorrecta conduce regularmente a situaciones inseguras. Un ejemplo de ello es la suposición de que una determinada vía ya está fuera de servicio, cuando aún no es así. Esto puede deberse, entre otras causas, a mala comunicación, un patrón de expectativas erróneo, un error al leer el plano de instrucciones de trabajo o porque el trabajador de vía o el responsable de seguridad cree estar en una ubicación diferente a la real.
-El 25 de agosto de 2022, se realizaron trabajos de mantenimiento de vegetación junto a la vía. Como el vigilante de límite¹³⁹ de estos trabajos no había visto tráfico ferroviario, llamó al jefe de seguridad de la zona de trabajo porque también quería realizar trabajos entre dos vías. El jefe de seguridad de la zona de trabajo no conocía previamente los trabajos de mantenimiento de vegetación junto a la vía. El vigilante de límite pidió permiso para realizar trabajos de mantenimiento de vegetación entre dos vías. El jefe de seguridad de la zona de trabajo indicó en ese momento que las vías estaban en servicio y que había pruebas de marcha programadas. El vigilante de límite indicó que no entraría en la vía, ante lo cual el jefe de seguridad de la zona de trabajo supuso que solo realizaban los trabajos desde el andén de inspección.¹⁴⁰ Basándose en esta suposición, el jefe de seguridad de la zona de trabajo dio permiso para los trabajos. Como consecuencia de ello, el vigilante de límite y su equipo realizaron trabajos en una vía en servicio. Dado que en ese momento no pasaba ningún tren, esto quedó sin consecuencias.
-El 9 de septiembre de 2018, se transportó un vagoneta (lorrie) sobre una vía en servicio. Un equipo de soldadura realizó trabajos en la vía. Tras finalizar los
-
-139	 Persona competente que vigila que los trabajadores y las herramientas no entren accidentalmente en una zona adyacente. Fuente: railAlert.
-140	 Un andén de inspección es un sendero peatonal directamente junto a la vía destinado a trabajos de inspección mientras la vía está en uso sin limitaciones de velocidad (fuente: ProRail Spoorse begrippen, 2011).
-
+se encontraban más adelante. Para ello, el operador de la grúa debía retirar la grúa del carril en la ubicación de los materiales y recoger las piezas auxiliares. En el momento en que la grúa fue retirada del carril (aproximadamente 6 minutos antes del final de la zona de trabajo temporal), el jefe de seguridad de la zona de trabajo se puso en contacto con el jefe de seguridad local. El jefe de seguridad local indicó que la grúa estaba apagada y que el carril podía volver a entrar en servicio. Esto también lo había comunicado al supervisor de ejecución. El supervisor de ejecución le dijo al operador de la grúa que ya podía preparar las cosas. El operador de la grúa interpretó esto como que podía volver a colocar la grúa sobre el carril.
+El 29 de octubre de 2017, una grúa salió de la puesta fuera de servicio. El acompañante de la puesta fuera de servicio instruyó al operador de maquinaria de herramientas para que avanzara hasta «el viaducto». Con esto, el acompañante de la puesta fuera de servicio se refería al paso superior (fly-over). El operador de maquinaria de herramientas condujo por sí mismo hasta la zona de trabajo y pasó junto al paso superior buscando «el viaducto». En el proceso, pasó varias señales de parada. El jefe de circulación ferroviaria vio una ocupación de vía en su pantalla y contactó con el jefe de seguridad de la zona de trabajo. El jefe de seguridad de la zona de trabajo llamó al acompañante de la puesta fuera de servicio, quien llamó al operador de maquinaria de herramientas para corregir el error.
+Una suposición incorrecta conduce regularmente a situaciones inseguras. Un ejemplo de ello es la suposición de que un determinado carril ya está fuera de servicio, cuando aún no es así. Esto puede deberse, entre otras causas, a una mala comunicación, un patrón de expectativas incorrecto, un error al leer el plano de instrucciones de trabajo o porque el trabajador de vía o el responsable de seguridad cree estar en una ubicación diferente a la real.
+El 25 de agosto de 2022 se realizaron trabajos de mantenimiento de zonas verdes junto al carril. Dado que el vigilante de límite¹³⁹ de estos trabajos no había visto tráfico ferroviario, llamó al jefe de seguridad de la zona de trabajo porque también quería realizar trabajos entre dos carriles. El jefe de seguridad de la zona de trabajo no había sido informado previamente sobre los trabajos de mantenimiento de zonas verdes junto al carril. El vigilante de límite solicitó permiso para realizar trabajos de mantenimiento de zonas verdes entre dos carriles. El jefe de seguridad de la zona de trabajo indicó que los carriles estaban en servicio y que había pruebas de marcha programadas. El vigilante de límite declaró que no entraría en el carril, ante lo cual el jefe de seguridad de la zona de trabajo supuso que solo realizaban los trabajos desde el sendero de inspección.¹⁴⁰ Basándose en esta suposición, el jefe de seguridad de la zona de trabajo dio permiso para los trabajos. Como resultado, el vigilante de límite y su equipo realizaron trabajos en el carril en servicio. Debido a que en ese momento no pasaba ningún tren, esto quedó sin consecuencias.
+El 9 de septiembre de 2018, se transportó una vagoneta (lorrie) sobre un carril en servicio. Un equipo de soldadura realizó trabajos en el carril. Tras finalizar los
+139	 Persona competente que vigila que los trabajadores y las herramientas no entren inadvertidamente en una zona adyacente. Fuente: railAlert.
+140	 Un sendero de inspección es un camino peatonal directo hacia el carril para realizar trabajos de inspección mientras el carril está en uso sin limitaciones de velocidad (fuente: ProRail Spoorse begrippen, 2011).
 
 ## Página 84
+
 
 trabajos, no pudieron recoger y retirar sus materiales porque otro equipo de soldadura estaba trabajando en el camino de regreso. Por lo tanto, eligieron una ruta de retirada alternativa. El jefe de seguridad local no era consciente de que esta vía no estaba fuera de servicio (se trata de un tramo de vía que estuvo fuera de servicio durante un período determinado, pero que en ese momento no lo estaba). El jefe de seguridad de la zona de trabajo sí lo sabía y notó a tiempo que el equipo se encontraba en una vía en servicio.
 En algunos (casi-)accidentes, los implicados indicaron haberse desviado de las instrucciones de trabajo para poder terminar la tarea. Se trata de una elección consciente, cuyas consecuencias y riesgos el implicado no siempre puede prever. En tales casos, no se trata de crear conscientemente una situación insegura. No siempre está claro qué lleva al implicado a tomar esta decisión y por qué le resulta lógica o comprensible. En la mayoría de los casos, el implicado se adapta a la situación en el lugar, a veces obligado porque los procedimientos simplemente no son aplicables en todos los casos, sin que el implicado pueda prever las consecuencias. El procedimiento consiste en presentar la situación al jefe de seguridad de la zona de trabajo, quien, junto con el coordinador de seguridad de la zona de trabajo de la fase de ejecución, puede llegar a un nuevo plan. Sin embargo, este procedimiento no siempre se sigue. En varios incidentes, el deseo y la presión percibida desde la organización influyeron en la toma de la decisión de completar sus trabajos a tiempo.
@@ -1777,13 +1810,14 @@ En lugares sin protección física, como en Voorschoten, la protección de la zo
 
 ## Página 85
 
+
 por lo tanto, grandes consecuencias. Los accidentes (casi) anteriores tratados en este párrafo demuestran que la mala comunicación conduce con mayor frecuencia a accidentes (casi).
 La autorización para cruzar la vía férrea, otorgada por el jefe de seguridad del lugar de trabajo a través del despachador de trenes al operador de la grúa, se realiza verbalmente y mediante varios intermediarios (despachador de trenes – jefe de seguridad del lugar de trabajo – jefe de seguridad local – maquinista). De este modo, la seguridad de los trabajadores de vía, los pasajeros, el personal de las empresas ferroviarias (maquinistas, conductores) y los residentes cercanos depende principalmente de una comunicación verbal propensa a errores. ProRail y los contratistas no registran la comunicación entre los trabajadores de vía y los responsables de seguridad, lo que elimina la posibilidad de mejorar la disciplina comunicativa y aprender de los accidentes.
 Según las normas vigentes en el momento del accidente, no era obligatorio que el operador de la grúa fuera escoltado. La escolta de vehículos rail-carretera fue obligatoria hasta 2009 y volvió a serlo tras el accidente de Voorschoten durante el despliegue y repliegue, permaneciendo vigente al menos hasta que se conozcan los resultados de la investigación de la OvV.
 El riesgo de errores aumenta cuanto menos alerta están las personas. La fatiga puede provocar una menor alerta. Por ello, el siguiente párrafo aborda el trabajo nocturno como factor de aumento del riesgo.
 
-
 ## Página 86
+
 
 ## 3.4	
 ### Trabajo nocturno como factor de aumento del riesgo
@@ -1806,8 +1840,8 @@ El turno del operador de la grúa muestra que estuvo libre los tres días previo
 142	 The development of a fatigue / risk index for shiftworkers; Spencer, Robertson & Folkard, Health and Safety executive, 2006.
 143	 Managing shiftwork, Directrices de salud y seguridad, Health and Saftey Executive, 2006.
 
-
 ## Página 87
+
 
 Dado el horario de los trabajos, según la literatura científica existe un mayor riesgo de disminución de la alerta (véase la figura 29). Se sabe que durante el periodo entre las 02.00 y las 06.00 horas144, debido a la baja temperatura corporal, la somnolencia es máxima y la alerta mínima.145
 Si la fatiga desempeñó un papel en el accidente, por ejemplo en la interpretación de las instrucciones, el Consejo no pudo determinarlo. Un análisis de fatiga146 para obtener una idea del grado de fatiga del operador de la grúa en el momento del accidente no fue posible adecuadamente. Debido a su fallecimiento, faltaba la información necesaria para un análisis responsable.
@@ -1840,6 +1874,7 @@ El turno del jefe de seguridad del lugar de trabajo muestra que en los 26 días 
 
 ## Página 88
 
+
 la carga durante el periodo de casi cuatro semanas puede tener como consecuencia riesgos para la alerta. Según el jefe de seguridad del lugar de trabajo, se registran ocho horas por noche, pero el número real de horas trabajadas es menor porque los horarios de fuera de servicio suelen situarse entre las 01.00 y las 05.00 horas.150 Del análisis de la comunicación de seguridad registrada entre el jefe de seguridad del lugar de trabajo y el jefe de circulación no se ha evidenciado que una disminución de la alerta debido a la fatiga haya desempeñado un papel en la aparición del accidente. La comunicación del jefe de circulación con el jefe de seguridad del lugar de trabajo transcurrió con cuidado y conforme al protocolo.
 
 Jefe de seguridad local
@@ -1864,8 +1899,8 @@ En el caso del operador de la grúa, el Consejo no ha encontrado indicios de fat
 151	 El jefe de seguridad local no estaba trabajando en nombre de NS en el momento del accidente. NS tampoco estaba al tanto de sus actividades como trabajador autónomo para UR Consultant. NS tiene normativa según la cual deben declararse las actividades secundarias.
 152	 Véase el anexo A para la justificación de la investigación.
 
-
 ## Página 89
+
 
 operaciones que el operador de la grúa realizó justo antes del accidente, es improbable que un micro-sueño haya desempeñado un papel directo en la aparición del accidente.
 
@@ -1888,6 +1923,7 @@ El punto de partida en cualquier consideración sobre el trabajo nocturno es la 
 
 ## Página 90
 
+
 de ProRail es que en el mantenimiento ordinario solo se asignan extracciones nocturnas. La presión ejercida sobre ProRail desde la política y la sociedad para mantener el horario diurno desempeña un papel en ello. También intervienen automatismos; según los implicados, a veces existen alternativas para realizar los trabajos durante el día.154
 La capa flexible de trabajadores autónomos (zzp’ers) como necesidad
 El énfasis en la ejecución del mantenimiento por la noche hace que los contratistas apenas tengan trabajo durante el día. Por ello, tienen pocas posibilidades de ofrecer a sus empleados turnos con una buena alternancia entre trabajo diurno, vespertino y nocturno. El énfasis en trabajar por la noche también provoca que casi no haya entrada de jóvenes empleados. Según los entrevistados, los jóvenes prefieren un empleo diurno antes que trabajar por la noche y durante los festivos. Debido a la escasez de trabajadores nocturnos, el sector depende de una capa flexible de personal. Esta capa consiste principalmente en trabajadores autónomos (zzp’ers). Son flexibles en su despliegue, en parte porque las normas de la Ley de Tiempo de Trabajo (Arbeidstijdenwet) no son aplicables a los zzp’ers.
@@ -1901,8 +1937,8 @@ Al inicio de los trabajos, el período obligatorio de descanso de ocho horas se 
 
 154	 En el simposio sobre trabajo nocturno de railAlert (17 de enero de 2024) se mencionaron, entre otros, la Ponlijn y Kijfhoek como ejemplos.
 
-
 ## Página 91
+
 
 trabajos se escanea el pasaporte sin que se cumplan los requisitos de descanso, la app lo indica y el pasaporte digital de seguridad no es válido en ese momento. Este control no es efectivo si se han realizado trabajos previos al turno para un cliente de otro sector.
 Falta visión completa de los tiempos de trabajo de los zzp’ers
@@ -1917,6 +1953,7 @@ La elaboración de Evaluaciones de Riesgos y Oportunidades específicas de la em
 
 ## Página 92
 
+
 El trabajo nocturno figura en la agenda de la organización sectorial railAlert. Esto se pone de manifiesto, por ejemplo, en el simposio organizado sobre el trabajo nocturno en enero de 2024.
 Simposio sobre el trabajo nocturno
 Durante el simposio sobre el trabajo nocturno celebrado el 17 de enero de 2024, railAlert y ProRail solicitaron atención para la necesidad de trasladar los trabajos de la noche al día. Ponentes de, entre otros, Rijkswaterstaat abordaron la cuestión de cómo organizar esto, mientras que el RIVM se centró en el trabajo seguro durante la noche. Se preguntó a los participantes cuáles eran las posibilidades para eliminar los obstáculos al mantenimiento diurno.
@@ -1929,16 +1966,16 @@ Las tareas del operador de grúa, del jefe de protección del lugar de trabajo y
 En el caso del operador de grúa, no se encontraron indicios de fatiga basándose en el horario; sí se hallaron en el caso del jefe de protección del lugar de trabajo y del jefe de seguridad local. Del registro de la comunicación de seguridad del jefe de protección del lugar de trabajo no se desprende que la fatiga desempeñara un papel en la comunicación. La comunicación del jefe de seguridad local con el operador de grúa no quedó registrada.
 En los trabajos de mantenimiento (ordinarios) de la vía férrea, las personas trabajan principalmente 
 
-por la noche. Hasta ahora, ProRail y los contratistas han prestado poca atención a las consecuencias de este intenso trabajo nocturno para su salud y seguridad. Este grado de 
-
+por la noche. Hasta ahora, ProRail y los contratistas han prestado poca atención a las consecuencias de este intenso trabajo nocturno para su salud y seguridad. Este grado de
 
 ## Página 93
+
 
 trabajo nocturno solo es responsable si se mantiene la Ley de Tiempos de Trabajo como límite inferior. El sector está analizando cómo pasar del mantenimiento nocturno al diurno.
 El siguiente capítulo aborda la forma en que los factores causantes del accidente descritos anteriormente y el trabajo nocturno como factor de aumento del riesgo son gestionados a nivel sistémico.
 
-
 ## Página 94
+
 
 ## 4	 FACTORES A NIVEL SISTÉMICO
 Este apartado profundiza en los factores a nivel sistémico, incluyendo cómo se aprende de los accidentes, la condición de cliente de ProRail como gestor de infraestructura y la forma en que está organizado el control de los trabajos de mantenimiento.
@@ -1955,6 +1992,7 @@ La Fundación railAlert se posiciona en el sector como plataforma de conocimient
 
 ## Página 95
 
+
 son, como ProRail o railAlert, una recomendación. En investigaciones recientes se observa una mejora al respecto.
 Es importante involucrar a todas las partes implicadas en el aprendizaje conjunto, por lo tanto también a las empresas ferroviarias. Las investigaciones suelen ser realizadas únicamente por el contratista y/o ProRail. Así, en el casi atropello del 2 de febrero de 2020 en Rotterdam Lombardijen, NS International tuvo que realizar grandes esfuerzos para obtener información del contratista (que en realidad no quería entregarla, pero que finalmente lo hizo gracias a la intervención de la ILT).
 4.1.3	 Base común de lecciones extraídas de accidentes
@@ -1969,8 +2007,8 @@ En los incidentes entregados por ProRail, falta un gran número de incidentes pa
 Que la forma en que las organizaciones registran y comparten los incidentes genera obstáculos para aprender de ellos ya fue señalado anteriormente, en una evaluación realizada por Horvat & Partners del Marco Normativo para el Trabajo Seguro.157 Parece que muchas de las mencionadas barreras aún existen actualmente.
 157	 Horvat & Partners, Evaluatie effect Normenkader Veilig Werken op aanrijdgevaar, 2015.
 
-
 ## Página 96
+
 
 Base de datos nacional
 En el Reino Unido existe una única parte del sistema que gestiona una base de datos nacional. Desde 1990, esta parte recopila de manera estandarizada datos sobre sucesos relacionados con la seguridad en el sector ferroviario (línea principal). 
@@ -1990,6 +2028,7 @@ X
 
 ## Página 97
 
+
 información. Esto supone un reto en caso de estatus cambiante, pero también una alta urgencia.’
 Diseño de los puntos de acceso ferroviario
 20 de septiembre de 2022, contratista de mantenimiento a ProRail: ‘Se recomienda diseñar los X puntos de acceso ferroviario de tal manera que puedan utilizarse sin tener que adoptar medidas adicionales para la vía contigua o vías contiguas. Para los vehículos sobre raíles debe haber disponible en todo momento una ruta segura de entrada y salida.’
@@ -2001,8 +2040,8 @@ septiembre de 2007 contratista de mantenimiento (a sí mismo): ‘No aceptar per
 A raíz de un casi colisión el 29 de agosto de 2008, ProRail realizó una investigación sobre 61 casi colisiones. En esta investigación, ProRail señala una serie de problemas que ya habían sido mencionados anteriormente como factor de riesgo. Esto incluye, entre otros, la propensión a errores en la transmisión de información entre los diferentes funcionarios y los errores en la determinación de la propia ubicación y qué vías están fuera de servicio. Varios cuellos de botella que constata la investigación de ProRail siguen vigentes.
 La pregunta es por qué el potencial de aprendizaje de las diferentes investigaciones no se ha aprovechado suficientemente. Esto plantea preguntas sobre el grado en que funciona el sistema de gestión de la seguridad, especialmente de ProRail. De las entrevistas con los implicados surge la imagen de que dentro de ProRail la implementación de mejoras procedentes de
 
-
 ## Página 98
+
 
 las investigaciones no estaba bien asegurada durante años. No solo ProRail160, sino también las empresas ferroviarias NS161 y DB Schenker162, así como los contratistas de mantenimiento163 fueron abordados en ese momento por la ILT en lo relativo a la implementación de medidas de mejora. Mientras tanto, los análisis de riesgos y las medidas de mejora han sido asignados a directivos responsables, pero el seguimiento de puntos específicos de mejora del pasado no es trazable. Una parte de los puntos de mejora habrían sido agrupados e incluidos en programas o trayectorias de mejora, perdiéndose la relación específica con la medida de mejora de un incidente.
 Las notificaciones, investigaciones y análisis de (casi-)accidentes han sacado a la luz riesgos en los últimos años (como mala comunicación, falta de orientación, puntos de acceso ferroviario peligrosos). Sin embargo, esto no ha llevado a ProRail, railAlert, contratistas de vía y empresas ferroviarias a un enfoque enérgico y compartido de las mejoras. Como resultado, los riesgos constatados han persistido.
@@ -2020,6 +2059,7 @@ En la carta de prioridades políticas del IenW a ProRail junto con el Plan de Ge
 
 ## Página 99
 
+
 la opción atractiva como medio de transporte (sostenible) se mantenga».166 El secretario de Estado califica las consecuencias de los trabajos de mantenimiento para la disponibilidad como «molestias» que deben reducirse continuamente (mientras que el reto del mantenimiento aumenta precisamente) y transmite esto como prioridad política a ProRail.
 El énfasis en la disponibilidad de la vía pone bajo presión la seguridad laboral y la seguridad ferroviaria durante los trabajos en la vía. Se producen sustracciones temporales durante los trabajos en los que los trenes siguen circulando por las vías que dan acceso al lugar de trabajo, así como trabajos riesgosos durante la noche. Este sistema surge de la prioridad que ProRail, desde su encargo del ministerio de IenW, otorga a la disponibilidad de la vía para las empresas ferroviarias.
 ## 4.4	
@@ -2035,8 +2075,8 @@ a todos los riesgos relevantes para los trabajos de mantenimiento.
 166	 Ministro de IenW, Carta de Prioridades Políticas 2022-2023.
 167	 Artículos 2.26 y 2.28 del Decreto sobre Condiciones de Trabajo.
 
-
 ## Página 100
+
 
 4.4.2	 Seguridad en los contratos de los contratistas y ProRail
 En un contrato PGO se establecen las expectativas sobre el mantenimiento a realizar. ProRail celebra esta forma contractual desde 2008. Un contrato PGO no prescribe lo que un contratista debe hacer, sino qué prestación espera ProRail del contratista. Esto significa que los contratistas pueden determinar por sí mismos cómo ejecutan el mantenimiento dentro de los marcos de la prestación requerida. Estos requisitos de prestación comprenden un amplio paquete de requisitos de calidad, que afectan entre otros a la disponibilidad y fiabilidad, la transitabilidad segura de la vía, la sostenibilidad y la gestión ambiental. La Junta investigó si –y de qué manera– el trabajo seguro forma parte del proceso de licitación PGO y del contrato PGO.
@@ -2053,6 +2093,7 @@ Las visitas a un lugar de trabajo por parte de la entidad certificadora son part
 
 ## Página 101
 
+
 (por ejemplo, «mucho conocimiento y profesionalidad», «buena instrucción») y no se abordan riesgos importantes en el mantenimiento de la vía. Por ejemplo, la elección del uso de un emplazamiento de colocación de raíles arriesgado o los trabajos en la vía mientras circulan trenes por las vías adyacentes.
 Criterios de adjudicación
 ProRail determina, sobre la base de criterios de adjudicación, qué contratista –reconocido– obtiene el contrato. El licitador que resulte con el precio de evaluación más bajo es el licitador económicamente más ventajoso. Además del precio, también se ponderan otros criterios como la gestión de la calidad y la sostenibilidad.
@@ -2066,8 +2107,8 @@ Así, si los trabajos se prolongan, ProRail impone contractualmente una penaliza
 171	 Se trata de un descuento que un contratista puede obtener sobre el importe de la oferta, haciendo que el importe de la oferta sea más barato en papel. Esto se hace para determinar la oferta económicamente más ventajosa; la oferta más baja ficticia es entonces la oferta económicamente más ventajosa.
 172	 Se establece que el contratista puede obtener como máximo 12 veces al año un período libre de circulación sin consecuencias económicas.
 
-
 ## Página 102
+
 
 Para el mantenimiento ordinario, los períodos libres de circulación se conceden normalmente solo durante la noche y, como se describe en el apartado 3.1, en tramos de cuatro vías generalmente solo se conceden para dos vías, de modo que los trenes puedan seguir circulando por las otras vías.
 ProRail es principalmente responsable de la seguridad en la vía y durante los trabajos, tanto para los trabajadores en la vía como para los pasajeros y residentes cercanos a los trenes. ProRail ha delegado parcialmente la gestión genérica de riesgos en railAlert y transmite la responsabilidad restante a los contratistas de mantenimiento sin asumir el control ni analizar riesgos específicos relevantes, informar a los contratistas de mantenimiento al respecto ni supervisar la ejecución.
@@ -2083,6 +2124,7 @@ Además de que la Inspección de Trabajo supervise el cumplimiento de la legisla
 176	 Fuente: https://www.ilent.nl/onderwerpen/spoorwegpersoneel/baanwerker.
 
 ## Página 103
+
 
 La Inspección de Trabajo realizaba hasta 2019 una llamada evaluación «marginal» de los catálogos de condiciones de trabajo.
 Esa era la política general de evaluación de la Inspección de Trabajo en aquel momento.177 Desde 2019 
@@ -2119,6 +2161,7 @@ La evaluación marginal consistía en comprobar si el contenido del catálogo er
 
 ## Página 104
 
+
 evaluación del catálogo de riesgos laborales con los interlocutores sociales. En ello, la Inspección de Trabajo no tiene ningún papel ni facultades de enforcement.
 El resultado de la evaluación de la versión de 2023 del Reglamento de Trabajo Seguro – colisión con tren (parte del catálogo de riesgos laborales) ha sido calificado negativamente por la Inspección de Trabajo, ya que contiene una serie de contradicciones con la legislación vigente. También se han constatado varios deterioros respecto al estado actual de la ciencia y de los servicios profesionales en comparación con el catálogo de riesgos laborales vigente. Un ejemplo de dicho deterioro es que, durante un cierre de vía, el jefe de seguridad del lugar de trabajo puede asumir personalmente una ubicación de trabajo – si hay varias ubicaciones de trabajo – en lugar de designar un jefe local de seguridad para cada ubicación de trabajo. Un cambio introducido en el catálogo de riesgos laborales de 2009 fue la eliminación de la norma que exigía que los vehículos de trabajo en cierres de vía debían ser siempre escoltados. En aquel momento, la Inspección de Trabajo determinaba mediante un análisis rápido («quickscan») si «se podía razonablemente suponer que, siguiendo el catálogo de riesgos laborales, se daba cumplimiento a las normas (de objetivo) establecidas por o en virtud de la Ley de Condiciones de Trabajo». Conforme a la política directriz, la Inspección de Trabajo no evaluó sustancialmente la modificación de la medida.
 4.5.2 Obstáculos para responsabilizar al comitente
@@ -2128,8 +2171,8 @@ Debido a la legislación vigente183, la Inspección de Trabajo solo puede impone
 Las inspecciones han recibido múltiples asignaciones de tareas en los últimos años y han tenido que reducir el número de empleados. Debido a la capacidad limitada dentro de la Inspección de Trabajo, esta debe tomar decisiones sobre los ámbitos en los que centra su supervisión. La Inspección de Trabajo sigue un enfoque basado en el riesgo. Los riesgos que aborda se basan en información sobre las organizaciones bajo su supervisión y en análisis de riesgos. Dado que la Inspección de Trabajo estima que el riesgo de accidentes ferroviarios es bajo, asigna poca capacidad al ámbito ferroviario, lo que hace que los inspectores acudan poco in situ a los trabajos de mantenimiento de la infraestructura ferroviaria. Así, en los últimos cuatro años se han realizado entre ocho y nueve inspecciones nocturnas durante trabajos de mantenimiento ordinarios. El peligro de colisión es el principal riesgo en el ámbito ferroviario que vigila la Inspección de Trabajo. Durante las inspecciones
 183 Artículo 28 de la Ley de Condiciones de Trabajo – «Paralización del trabajo» se dirige al empleador, no al comitente.
 
-
 ## Página 105
+
 
 observan que los planes de seguridad suelen ser de carácter general y no están bien adaptados a las características específicas de la ubicación ni a la actualidad de los trabajos.
 Los inspectores de la ILT (Inspección de Medio Ambiente y Transporte) también acuden poco in situ a los trabajos de mantenimiento ordinarios nocturnos. Esto se debe a que la ILT ya no realiza inspecciones separadas como co-supervisor en relación con el cumplimiento de la legislación sobre condiciones de trabajo, aspecto parcial del peligro de colisión.184 La ILT desempeña esta tarea durante sus inspecciones y auditorías ordinarias relativas a la seguridad ferroviaria.185 Estas inspecciones tienen lugar generalmente durante el día – mientras que el mantenimiento ordinario se realiza mayoritariamente durante la noche. Actúan cuando constatan peligro o peligro grave en materia de seguridad laboral durante una inspección preventiva o a raíz de un incidente/accidente, pero en la práctica esto no ha ocurrido en los últimos dos años.
@@ -2138,6 +2181,7 @@ La Inspección de Trabajo y la ILT, debido a su capacidad limitada, realizan una
 185 La asignación de recursos humanos y materiales por parte de la ILT se basa en su Análisis Amplio de Riesgos (IBRA), con el cual se identifican los riesgos sociales y se toman decisiones basadas en el riesgo.
 
 ## Página 106
+
 
 ## 5 CONCLUSIONES
 La Consejo de Seguridad utilizó las siguientes preguntas de investigación en su estudio:
@@ -2161,8 +2205,8 @@ Puntos de acceso a la vía
 No se eligió el punto de acceso más seguro
 La ubicación del puesto de trabajo y el diseño del punto de acceso a la vía determinan si es necesario cruzar vías en servicio para llegar al puesto de trabajo. El contratista de mantenimiento eligió por razones logísticas un punto de acceso a la vía donde los trabajadores debían cruzar vías en servicio para llegar a su puesto de trabajo. Por ello, existía una llamada puesta fuera de servicio tipo isla: los trabajadores dependían de períodos temporales breves durante los cuales las otras vías quedaban fuera de servicio
 
-
 ## Página 107
+
 
 para poder alcanzar y abandonar su lugar de trabajo. Una puesta fuera de servicio tipo isla de esta naturaleza no cumple con las directrices sectoriales.
 El punto de acceso a la vía no ofrecía una protección robusta contra el cruce involuntario
@@ -2177,6 +2221,7 @@ Actualmente, el sector está investigando cómo trasladar el mantenimiento de la
 
 ## Página 108
 
+
 Responsabilidad sistémica
 Presión del Ministerio de Infraestructura y Gestión del Agua sobre ProRail
 Según el Consejo, la Secretaria de Estado de Infraestructura y Gestión del Agua debería ser la guardiana de los valores públicos y responsable de la seguridad en el ferrocarril y en su entorno. En la práctica, dirige a ProRail principalmente hacia la disponibilidad de la infraestructura ferroviaria.
@@ -2185,8 +2230,8 @@ ProRail es responsable, en su rol de gestor de la infraestructura, de la segurid
 Poca prioridad para los riesgos del mantenimiento ferroviario por parte de los organismos supervisores
 La Inspección de Trabajo y la ILT realizan, debido a su capacidad limitada, una ponderación sobre cómo distribuir dicha capacidad entre diferentes sectores. Dado el escaso número de víctimas en accidentes, los accidentes durante el mantenimiento ferroviario tienen poca prioridad en la supervisión realizada por la Inspección de Trabajo neerlandesa y la Inspección de Vivienda y Transporte.
 
-
 ## Página 109
+
 
 ## 6 Recomendaciones
 El Consejo de Investigación ha encontrado deficiencias estructurales en la gestión de los riesgos durante los trabajos en el ferrocarril. El Consejo ve posibilidades para que las partes implicadas adopten conjuntamente medidas para subsanar estas deficiencias y contribuir así a un entorno laboral seguro, a un viaje seguro para los usuarios del ferrocarril y a un entorno residencial seguro alrededor del mismo.
@@ -2198,8 +2243,8 @@ A ProRail
 3.	 Utilice la provisión a establecer (véase la recomendación 2) para trabajar de forma dirigida en la seguridad basándose en análisis de riesgos. Mantenga usted mismo el control sobre la seguridad de los trabajos y la circulación del tráfico ferroviario en todas las fases de las tareas de mantenimiento, desde la estrategia y la innovación hasta la ejecución. Además de establecer normas, utilice especialmente la pericia profesional del sector para realizar ponderaciones situacionales.
 186	 De conformidad con el Decreto del Consejo de Seguridad, todas las recomendaciones van dirigidas también a la Inspección de Vivienda y Transporte (ILT). La ILT evaluará el seguimiento de las recomendaciones e informará al respecto al Consejo.
 
-
 ## Página 110
+
 
 4.	 Promueva la seguridad de los trabajadores en el ferrocarril. Si no es posible sacar todos los vías fuera de servicio, asegúrese al menos de lo siguiente:
 a.	 Una protección física robusta del lugar de trabajo.
@@ -2209,6 +2254,7 @@ d.	 Comunicación oral de seguridad que quede registrada para fomentar el aprend
 5.	 Reduzca las consecuencias negativas del trabajo nocturno y el exceso de trabajo para la seguridad y la salud sin que esto derive en un aumento de los riesgos de seguridad. Vigile que railAlert y los contratistas de mantenimiento tomen medidas para reducir los riesgos del trabajo nocturno. Asegúrese de que, durante los trabajos en el ferrocarril, los horarios de trabajo de los trabajadores autónomos (zzp’ers) cumplan como mínimo con la Ley de Horarios de Trabajo.
 
 ## Página 111
+
 
 ## ANEXO A 
 
@@ -2222,8 +2268,8 @@ Debido a la colisión con el tren de mercancías, partes de la grúa y escombros
 El accidente en Voorschoten tuvo lugar por la noche, durante trabajos de mantenimiento ordinarios. Los trabajos de mantenimiento ordinarios se llevan a cabo principalmente, aunque no exclusivamente, durante la noche. Además, existen (también durante el día) proyectos de nueva construcción y renovaciones de la infraestructura ferroviaria. También se realizan inspecciones y trabajos a pequeña escala, como el corte de hierba o el afilado y perfilado de carriles con trenes especiales.
 Para todos estos trabajos existe una tensión entre la cantidad de tráfico ferroviario y el nivel de seguridad durante la ejecución del mantenimiento. Surgen riesgos cuando el mantenimiento se realiza mientras los trenes siguen circulando junto a la zona de trabajo, tanto en materia de seguridad laboral (riesgo de atropello de los trabajadores de vía) como de seguridad ferroviaria (seguridad del tráfico ferroviario). A pesar de un extenso sistema de leyes y reglamentos, normas y procedimientos, ocurren incidentes (casi-accidentes). El suceso en Voorschoten plantea la pregunta de cómo se gestionan los riesgos de trabajar en la vía en sentido amplio –desde el punto de vista tanto de la seguridad laboral como de la seguridad ferroviaria. El objetivo de esta investigación es determinar los factores subyacentes
 
-
 ## Página 112
+
 
 del accidente, para poder adoptar medidas que eviten que dichos factores vuelvan a provocar un accidente.
 Las preguntas de investigación centrales en este estudio son:
@@ -2248,8 +2294,8 @@ Puesto que la normativa sectorial para el mantenimiento ordinario y los proyecto
 La investigación no solo se centra en los factores directos que condujeron a las colisiones, sino que tiene precisamente como objetivo determinar qué factores subyacentes están en la base de los mismos. Además, la investigación va más allá de este suceso porque existen más situaciones en las que el material de trabajo puede abandonar la zona de trabajo y entrar en contacto con el tráfico ferroviario. Por lo tanto, además de este suceso, 
 187	 Se entiende por proyectos: mantenimiento a gran escala, nueva construcción y proyectos de renovación. Las medidas de gestión de la seguridad son las mismas para el mantenimiento ordinario y los proyectos (se aplica el Marco Normativo Trabajo Seguro).
 
-
 ## Página 113
+
 
 también se han analizado incidentes y accidentes similares durante los trabajos en la vía en el período comprendido entre 2010 y la actualidad (esto incluye también los proyectos).
 Los acontecimientos que siguen al hecho de que una grúa termine sobre una vía en servicio quedan fuera del análisis de esta investigación (puntos 3 a 7 inclusive de los acontecimientos sucesivos). Estos acontecimientos sucesivos sí se describen en la reconstrucción de los hechos y han sido investigados por otras partes (véase apartado 1.6). Durante su investigación, el Consejo ha seguido en qué se centraban las otras investigaciones y cuáles eran sus resultados, en la medida en que dichas investigaciones ya habían finalizado.
@@ -2280,6 +2326,7 @@ La reconstrucción de los hechos en el capítulo 2 es una descripción literal d
 
 ## Página 114
 
+
 A.4.2	
 Escenarios
 Una parte de la causa no puede determinarse debido al fallecimiento del operador de la grúa y a que mucha información no ha sido registrada. Esto incluye, entre otros, la instrucción dada por el responsable de seguridad local al operador de la grúa sobre el regreso al lugar de trabajo y cómo dicha instrucción fue comprendida por el operador.188 Además de la comunicación, se han considerado otras posibilidades en el análisis de escenarios, como fallos técnicos y malestar físico. El análisis del accidente (Tripod) se basa en estos escenarios.
@@ -2295,8 +2342,8 @@ Incidentes como el de Voorschoten ocurren con mayor frecuencia, en la mayoría d
 188	 El responsable de seguridad local nos contó lo que recordaba sobre su comunicación con el operador de la grúa. No había nadie más presente durante la instrucción, por lo que no pudimos verificar esta declaración mediante otras fuentes.
 189	 La solicitud era entregar accidentes desde 2010. La Junta de Investigación recibió de algunas partes (casi-)accidentes correspondientes a un periodo más extenso hacia atrás.
 
-
 ## Página 115
+
 
 una selección de más de 1.500 incidentes. Posteriormente, se seleccionó según las siguientes características:
 1.	 ¿Está involucrado un lugar de trabajo ferroviario (o paso a nivel utilizado como tal)?
@@ -2322,6 +2369,7 @@ Para obtener una idea de a qué se enfrentan en la práctica los operadores de g
 
 ## Página 116
 
+
 personas lidan con ello en el día a día. Los Equipos de Aprendizaje (*Learning Teams*) son una técnica que las organizaciones pueden utilizar para reunir a un grupo de personas que estuvieron implicadas en un incidente de seguridad o que disponen de información útil al respecto. El objetivo es aprender y mejorar, tanto lo que salió bien como lo que no. Un Equipo de Aprendizaje también puede emplearse periódicamente para comprender mejor los procesos que llaman la atención y, posiblemente, mejorarlos.
 ## A.5	
 ### Información e informes de investigación
@@ -2339,10 +2387,10 @@ Las entrevistas tuvieron lugar con dos investigadores del Consejo de Seguridad y
 Informes
 El presente informe se ajusta a la naturaleza del suceso investigado y a la metodología del Consejo de Seguridad para la Investigación. Se ha optado por una estructura 
 
-que ofrece a las partes implicadas una visión óptima de los problemas de seguridad y de las recomendaciones para abordarlos. Dentro de este contexto, se ha ajustado tanto como sea posible 
-
+que ofrece a las partes implicadas una visión óptima de los problemas de seguridad y de las recomendaciones para abordarlos. Dentro de este contexto, se ha ajustado tanto como sea posible
 
 ## Página 117
+
 
 a la Metodología Común de Seguridad relativa a los Sistemas de Gestión de la Seguridad¹⁹¹ y a la estructura de informes para investigaciones de accidentes ferroviarios¹⁹².
 ## A.6	
@@ -2366,8 +2414,8 @@ En las reuniones del Consejo y en las reuniones con la comisión asesora, se dis
 ¹⁹¹ Reglamento Delegado (UE) 2018/762 de la Comisión, de 8 de marzo de 2018, por el que se establecen las metodologías comunes de seguridad relativas a los requisitos de los sistemas de gestión de la seguridad de conformidad con la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y por el que se derogan los Reglamentos (UE) n.º 1158/2010 y (UE) n.º 1169/2010, https://eur-lex.europa.eu/legal-content/nl/TXT/?uri=CELEX%3A32018R0762.
 ¹⁹² Reglamento de Ejecución (UE) 2020/572 de la Comisión, de 24 de abril de 2020, relativo a la estructura de informes que deben seguir los informes de investigación sobre accidentes e incidentes ferroviarios (Texto pertinente a efectos del EEE), https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32020R0572.
 
-
 ## Página 118
+
 
 ## A.7	
 ### Comisión asesora
@@ -2380,6 +2428,7 @@ X dr. C. van Gulijk, investigador senior de Seguridad Laboral en TNO, Profesor V
 X S. Smits, experto en organización laboral del Servicio Interno de Salud y Seguridad (Arbodienst) del Centro Médico Erasmus de Rotterdam y experto en trabajo nocturno/trabajo por turnos.
 
 ## Página 119
+
 
 ## ANEXO B REACCIONES AL BORRADOR DEL INFORME
 El borrador del informe (sin resumen, consideraciones ni recomendaciones) se presentó a las partes implicadas. Se solicitó a estas partes que revisaran el informe en busca de inexactitudes factuales y ambigüedades. Las siguientes partes han presentado una reacción al borrador del informe:
@@ -2419,8 +2468,8 @@ se tomó dicha decisión.
 Las reacciones y la explicación de la Onderzoeksraad se han incluido en una tabla que
 se puede encontrar en el sitio web de la Onderzoeksraad (www.onderzoeksraad.nl).
 
-
 ## Página 120
+
 
 ## ANEXO C TRABAJO NOCTURNO
 ## C.1	
@@ -2436,8 +2485,8 @@ La alteración del ritmo biológico también puede influir en la seguridad de la
 197	 Informe «Trabajo seguro y la noche. Una exploración de hechos, causas y oportunidades» (Informe RIVM 2021-0147 J. van Kampen | V. Sol | T. Jansen).
 198	 Informe «Trabajo seguro y la noche. Una exploración de hechos, causas y oportunidades» (Informe RIVM 2021-0147 J. van Kampen | V. Sol | T. Jansen)
 
-
 ## Página 121
+
 
 los análisis que realizaron basándose en la Encuesta Nacional sobre Condiciones de Trabajo (NEA) entre casi 400.000 empleados.199 Sin embargo, se desconoce si los accidentes ocurren durante un turno de día o de noche. Posiblemente otros factores también jueguen un papel.
 En un estudio200 de 2003 se examinó el número de errores y accidentes durante diferentes turnos. El número durante el turno de mañana se estableció en «1», de modo que se pudiera calcular el riesgo relativo durante el turno de tarde y el turno de noche. De la figura 26a se desprende que el riesgo de seguridad durante el turno de tarde aumentó un 18 por ciento en comparación con el turno de mañana. Para el turno de noche, se trató de un aumento del 32 por ciento. Del mismo estudio se desprende que el riesgo de seguridad aumenta a medida que incrementa el número de turnos de noche consecutivos. También aquí, el número de errores y accidentes durante el primer turno de noche se estableció en «1», tras lo cual el riesgo relativo en turnos de noche consecutivos aumenta (figura 31b). Este aumento se relaciona con la creciente fatiga que conlleva el trabajo en turnos de noche consecutivos.
@@ -2471,6 +2520,7 @@ De un estudio sobre lesiones relacionadas con el trabajo en función de la hora 
 201	 Cameron A. Mustard et al., Work injury risk by time of day in two population-based data sources; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3534259/ 2013 Jan; 70(1): 49–56.
 
 ## Página 122
+
 
 7
 Número por cada 200.000 horas trabajadas
@@ -2514,8 +2564,8 @@ En resumen, puede concluirse que existen fuertes indicios de una probabilidad re
 El análisis de la oficina Syntro puede consultarse en el sitio web del Consejo de Investigación de Seguridad (www.onderzoeksraad.nl).
 202 Folkard, Simon (2008) ‘Do Permanent Night Workers Show Circadian Adjustment? A Review Based on the Endogenous Melatonin Rhythm’, Chronobiology International, 25:2, 215 — 224.
 
-
 ## Página 123
+
 
 ## ANEXO D 
 
@@ -2532,8 +2582,8 @@ Los párrafos siguientes describen las características y el uso de la línea f�
 #### D.1.1 Línea férrea Rotterdam - Amsterdam
 La línea férrea Rotterdam - Amsterdam forma parte de la red mixta; tanto los trenes de pasajeros como los de mercancías utilizan esta línea. La línea es parcialmente de cuatro vías, entre otras, entre la estación Den Haag Laan van NOI y la estación Leiden Centraal. Entre Den Haag Laan van NOI y Leiden Centraal se encuentran las estaciones Den Haag Mariahoeve, Voorschoten y De Vink, véase la figura 33.
 
-
 ## Página 124
+
 
 Figura 33: Representación esquemática de la ubicación de la estación de Voorschoten.
 
@@ -2549,6 +2599,7 @@ Las vías entre Den Haag Mariahoeve y Leiden Centraal son aptas para trenes de m
 205 ProRail, Declaración de Red 2023, abril de 2022. Anexo 13 Clases de carga y pesos por eje del transporte de mercancías.
 
 ## Página 125
+
 
 Según el Registro Europeo de Infraestructura, en este tramo la velocidad máxima permitida para una carga por eje hasta 20 toneladas (C3 o C4) es de 100 km/h y para una carga por eje hasta 22,5 toneladas (D4) es de 80 km/h.206
 Estación de Voorschoten
@@ -2567,8 +2618,8 @@ para actualizar las situaciones existentes conforme a estos últimos criterios.
 208	 ProRail, Ontwerpvoorschrift Railinzetplaats, 1 maart 2016.
 209	 ProRail, Installatievoorschrift Railinzetplaats, 1 maart 2016.
 
-
 ## Página 126
+
 
 S Figura 35: Esquema extraído de la norma de diseño de una zona de acceso ferroviario en un tramo multivía (fuente: ProRail).
 La zona de acceso ferroviario de Voorschoten fue diseñada y realizada alrededor de 1995, cuando el tramo entre Den Haag Mariahoeve y Leiden se transformó de dos a cuatro vías. La Figura 36 muestra una fotografía aérea de la situación anterior al accidente. 
@@ -2577,8 +2628,8 @@ La Figura 37 muestra una sección transversal; la vía 2 está 15 cm más alta q
 S Figura 36: Fotografía aérea de la zona de acceso ferroviario de Voorschoten (fuente: ProRail).
 S Figura 37: Representación esquemática de la sección transversal de la zona de acceso ferroviario de Voorschoten. Vista en la dirección de marcha de la grúa, el riel exterior de la vía 2 está 15 cm más alto que el riel interior de la vía 3.
 
-
 ## Página 127
+
 
 ProRail realizó tras el accidente de Voorschoten un primer análisis de 34 zonas de acceso ferroviario. De ello resultó una lista de las siete más críticas, ocupando la zona de acceso de Voorschoten 
 
@@ -2586,10 +2637,10 @@ ProRail realizó tras el accidente de Voorschoten un primer análisis de 34 zona
 S Figura 38: Fotografía aérea de la zona de acceso ferroviario de Den Haag Spoorwijk. (tramo Den Haag – Schiedam, fuente: ProRail)
 Existen también ejemplos de zonas de acceso ferroviario que, al igual que la de Voorschoten, fueron diseñadas y construidas antes de 2016. En el tramo Utrecht – Den Haag, a la altura de Harmelen (figura 39), hay una zona de acceso accesible desde dos lados, con una valla presente entre las dos vías centrales en la zona de acceso.
 S Figura 39: Fotografía aérea de la zona de acceso ferroviario de Harmelen. (tramo Den Haag – Utrecht, fuente: ProRail)
-Del primer análisis de ProRail sobre zonas de acceso ferroviario destaca la zona de acceso de Lunetten (figura 40) como la mejor. Esta zona obtiene una puntuación elevada debido, entre otras cosas, a la calidad del doble acceso, el espacio de maniobra entre las vías y la calidad de las placas del paso a nivel. Del análisis de ProRail sobre zonas de acceso ferroviario en tramos de cuatro 
-
+Del primer análisis de ProRail sobre zonas de acceso ferroviario destaca la zona de acceso de Lunetten (figura 40) como la mejor. Esta zona obtiene una puntuación elevada debido, entre otras cosas, a la calidad del doble acceso, el espacio de maniobra entre las vías y la calidad de las placas del paso a nivel. Del análisis de ProRail sobre zonas de acceso ferroviario en tramos de cuatro
 
 ## Página 128
+
 
 vías, solo una pequeña parte cumple los requisitos de señalización horizontal o calidad de la iluminación; en las fotografías aéreas es visible la calidad de la señalización horizontal (figura 36 y figuras 38 a 40).
 S Figura 40: Fotografía aérea de la zona de acceso ferroviario de Utrecht Lunetten. (tramo Utrecht – Geldermalsen, fuente: ProRail)
@@ -2606,6 +2657,7 @@ W Figura 41: Ejemplo de una grúa sobre neumáticos y raíles con pinza selector
 
 ## Página 129
 
+
 D.2.2	
  Tren de mercancías
 El tren de mercancías 47612 de DB Cargo transportaba 26 vagones desde Sittard vía Rotterdam hasta Beverwijk. El tren constaba de una locomotora del tipo BR189 (véase la figura 42), seguida de cinco vagones cerrados del tipo Shimms (TTU), doce vagones sin carga del tipo Sahmms y nueve vagones cerrados del tipo Talns, cada uno cargado con 60 toneladas de cal no apagada.211,212,213
@@ -2621,8 +2673,8 @@ El tren de pasajeros 1409 de NS era del tipo VIRM (Material para servicios inter
 215	 DB Cargo, Itinerario del maquinista del tren 47612, 3 de abril de 2023.
 216	 Una unidad múltiple de cuatro coches es una unidad compuesta por una combinación fija de cuatro cajas de coche.
 
-
 ## Página 130
+
 
 S Figura 43: Ejemplo del tren de pasajeros, tipo VIRM. (fuente: NS)
 ## D.3	
@@ -2635,8 +2687,8 @@ Para los trabajos, el lunes por la tarde, 3 de abril de 2023, se trasladó una g
 La grúa estaba equipada con un sistema GPS y un sistema de registro. En los datos GPS se observa el movimiento de conducción desde la Papeweg, hacia el punto de despliegue y posteriormente sobre la vía 4 hasta la zona de trabajo y de vuelta (figura 44).217 Desde el punto de despliegue hasta la zona de trabajo había aproximadamente 3,5 km; la grúa circulaba a una velocidad de unos 20 km/h y tardó unos 10 minutos. En la figura 45 se muestra la información más relevante del sistema de registro, como la velocidad de la grúa, la posición de subida o bajada de las ruedas de los remolques y el accionamiento del freno. De las conversaciones con los operadores de grúas se desprende que suelen frenar con el motor y que durante el trabajo no siempre necesitan accionar el freno. En los datos también es visible la rotación de la superestructura de la grúa con la pluma y la pinza selectora respecto a la base inferior con las ruedas y el remolque.
 217	 BAM, Datos GPS.
 
-
 ## Página 131
+
 
 Desde el sistema de registro se puede deducir que, al acercarse al punto de despliegue, la superestructura de la grúa giró hacia la derecha respecto a la base inferior y luego se detuvo. A continuación, siguió la recogida de las ruedas de los remolques y movimientos de la superestructura, así como desplazamientos que muy probablemente son atribuibles a la extracción de la grúa de la vía. Un minuto después, la superestructura estaba alineada verticalmente sobre la base inferior y la grúa comenzó a moverse desde el reposo; tras seis segundos, la grúa alcanzó una velocidad de 2,66 km/h, momento en el cual el registro se detuvo abruptamente, véase la figura 45.218
 S Figura 44: Registro GPS de la grúa de la ruta recorrida, desde la Papeweg en Wassenaar, hasta el punto de despliegue, la zona de trabajo 09 y de vuelta al punto de despliegue. (fuente: BAM)
@@ -2646,6 +2698,7 @@ El lunes 3 de abril de 2023, el maquinista del tren de mercancías 47612 inició
 218	 Liebherr, Análisis de evaluación A924 89810 Liebherr.
 
 ## Página 132
+
 
 partir. Debido a los retrasos durante el trayecto hacia Sittard, la hora de salida en el horario de este tren se desplazó a las 00:21 horas.
 El tren de mercancías salió de Sittard el 4 de abril de 2023 a las 00:21 horas. Durante el viaje desde Sittard hasta Kijfhoek, el tren acumuló un retraso por diversas causas219. 
@@ -2726,8 +2779,8 @@ vio una grúa iluminada cerca de la vía, lo cual, según sus propias palabras, 
 221	 DB Cargo, registro de viaje tren 47612, 4 de abril de 2023.
 222	 Seis segundos antes del último registro del dispositivo de grabación de viaje de la locomotora.
 
-
 ## Página 133
+
 
 grúa. La velocidad en ese momento era de unos 91 km/h. El tren de mercancías se detuvo tras aproximadamente 360 metros; la locomotora quedó situada más allá de la estación de Voorschoten.
 El maquinista encendió la señal de peligro de la locomotora. Debido a la posición seleccionada del botón con el que el maquinista ajustó esto, los dos faros frontales inferiores emitían luz blanca y el faro frontal superior luz roja.223 Sin embargo, la eficacia de esta señalización se vio anulada porque los dos faros frontales inferiores estaban dañados y una parte de la grúa cubría el faro frontal superior, véase figura 46.
@@ -2744,69 +2797,38 @@ El tren de mercancías se acercaba a la estación de Voorschoten a una velocidad
 ## Página 134
 
 Daños en la infraestructura
-Solo es posible una indicación global de los daños en la infraestructura como consecuencia del impacto de la grúa contra el tren de mercancías, porque el segundo impacto dañó aún más la infraestructura. Durante la inspección in situ se constató que el andén (entre las vías 1 y 2) había sufrido daños graves. Es probable que esto fuera causado en gran medida por el hecho de que la grúa golpeó el andén cuando, tras el impacto con el tren de mercancías, se desplazó hacia la vía 1. No fue posible determinar con claridad los daños en los rieles y traviesas. En D.3.2 figura una breve descripción de los daños en la infraestructura en la situación final.
-D.3.2	
-Impacto grúa – tren de pasajeros
-Grúa
-Tras el impacto de la grúa provocado por el tren de mercancías, la grúa terminó en la vía 1. NS ha examinado el patrón de daños en el tren de pasajeros y llega a la conclusión de que es muy probable que la grúa haya sido impactada frontalmente por el tren de pasajeros. La grúa estaba situada en medio de la vía 1 – con la pluma y el agarrador de clasificación en la parte delantera – orientada en dirección al tren de pasajeros que se aproximaba.
-Tren de pasajeros
-El martes por la mañana, 4 de abril, el tren 1409 partió de Utrecht Centraal a las 02.15 horas. A bordo del tren había un maquinista y dos jefes de tren de NS presentes. En Utrecht subieron aproximadamente 275 viajeros; en Amsterdam Centraal bajó aproximadamente la mitad y posteriormente en Schiphol Airport y Leiden Centraal otra parte. El tren circuló desde Utrecht hasta Leiden Centraal completamente según el horario (tabla 3). Al partir de la estación de Leiden Centraal, había 39 viajeros a bordo del tren. Tras partir de Leiden Centraal, el tren pasó por la estación De Vink a las 03.25 horas y se aproximó a la estación de Voorschoten a una velocidad de aproximadamente 140 km/h.²²⁵
-T Tabla 3: Horario del tren de pasajeros 1409.
-Estación
-Llegada 
-Horario
-Tiempo de ejecución
-Número de viajeros al 
-/ salida
-salida²²⁶
-Utrecht Centraal
-salida
-02.16
-02.15
-89
-Amsterdam Centraal
-llegada
-02.44
-02.41
-celda vacía
-Amsterdam Centraal
-salida
-02.46
-02.45
-70
-Schiphol Airport
-llegada
-03.01
-03.01
-celda vacía
-Schiphol Airport
-salida
-03.05
-03.05
-46
-Leiden Centraal
-llegada
-03.21
-03.19
-celda vacía
-Leiden Centraal
-salida
-03.23
-03.22
-39
-²²⁵	 NS, Geplande en uitgevoerde dienstregeling 1409.xlsx.
-²²⁶	 Conteo basado en imágenes de vídeo.
+Solo es posible ofrecer una indicación global de los daños en la infraestructura como consecuencia del impacto de la grúa contra el tren de mercancías, dado que el segundo impacto dañó aún más la infraestructura. Durante la inspección in situ se constató que el andén (entre las vías 1 y 2) había sufrido daños graves. Es probable que estos fueran causados en gran parte por el hecho de que la grúa golpeó el andén cuando, tras el impacto con el tren de mercancías, se desplazó hacia la vía 1. No fue posible determinar con claridad los daños en los rieles y traviesas. En D.3.2 figura una breve descripción de los daños en la infraestructura en la situación final.
 
+D.3.2	Impacto grúa – tren de pasajeros
+
+Grúa
+Tras el impacto de la grúa por parte del tren de mercancías, la grúa quedó situada en la vía 1. NS examinó el patrón de daños en el tren de pasajeros y llegó a la conclusión de que es muy probable que la grúa fuera impactada frontalmente por el tren de pasajeros. La grúa estaba situada en el centro de la vía 1 – con la pluma y la pinza de clasificación en la parte delantera – orientada en dirección al tren de pasajeros que se aproximaba.
+
+Tren de pasajeros
+El martes por la mañana, 4 de abril, el tren 1409 salió de Utrecht Centraal a las 02.15 horas. En el tren se encontraban un maquinista y dos jefes de tren de NS. En Utrecht subieron aproximadamente 275 viajeros; en Amsterdam Centraal bajó alrededor de la mitad y, posteriormente, en Schiphol Airport y Leiden Centraal, otra parte. El tren circuló desde Utrecht hasta Leiden Centraal completamente según el horario (tabla 3). A la salida de la estación Leiden Centraal, había 39 viajeros en el tren. Tras salir de Leiden Centraal, el tren pasó por la estación De Vink a las 03.25 horas y se aproximó a la estación Voorschoten a una velocidad de aproximadamente 140 km/h.²²⁵
+
+Tabla 3: Horario del tren de pasajeros 1409.
+
+| Estación | Llegada / salida | Servicio previsto | Ejecución | Nº de viajeros a la salida²²⁶ |
+| :--- | :--- | :--- | :--- | :--- |
+| Utrecht Centraal | salida | 02.16 | 02.15 | 89 |
+| Amsterdam Centraal | llegada | 02.44 | 02.41 | celda vacía |
+| Amsterdam Centraal | salida | 02.46 | 02.45 | 70 |
+| Schiphol Airport | llegada | 03.01 | 03.01 | celda vacía |
+| Schiphol Airport | salida | 03.05 | 03.05 | 46 |
+| Leiden Centraal | llegada | 03.21 | 03.19 | celda vacía |
+| Leiden Centraal | salida | 03.23 | 03.22 | 39 |
+
+²²⁵ NS, Geplande en uitgevoerde dienstregeling 1409.xlsx.
+²²⁶ Recuento basado en imágenes de cámaras.
 
 ## Página 135
 
 Estación
-Llegada 
-Horario
-Tiempo de ejecución
-Número de viajeros al 
-/ salida
-salida²²⁶
+Llegada / Salida
+Horario de servicio
+Hora de ejecución
+Número de pasajeros a la salida226
 Voorschoten
 paso
 03.27
@@ -2827,15 +2849,16 @@ llegada
 03.58
 celda vacía
 celda vacía
-Al aproximarse a la estación de Voorschoten, el maquinista dejó de dar tracción, según sus propias palabras. El tren tenía suficiente velocidad para rodar libremente hasta Den Haag Hollands Spoor para una parada programada.
-El maquinista estaba al tanto de que había trabajos entre Leiden Centraal y Den Haag. El maquinista sabía que dos de las cuatro vías estaban disponibles para el tráfico ferroviario; esto lo había leído en la información al maquinista (IAM) (electrónica). Según sus propias palabras, el maquinista apenas prestó atención a los trabajos porque pasa por muchos trabajos. Para los trabajos en el trayecto Leiden Centraal - Den Haag Maria Hoeve no había restricciones de velocidad.
-El maquinista del tren de pasajeros todavía observó un equipo de trabajo antes de la colisión, porque la luz en esos trabajos casi cegó al maquinista. El maquinista ya no puede recordar si percibió el tren de mercancías (detenido).
-Entre el impacto de la grúa con el tren de mercancías y luego con el tren de pasajeros hay aproximadamente 02.24 minutos; este tiempo se deduce sobre la base de la grabación realizada por una cámara de timbre de puerta. En esta vídeo se escucha el sonido de un tren frenando y los impactos, y son perceptibles destellos de luz en el segundo impacto.
+Al acercarse a la estación de Voorschoten, el maquinista dejó de dar tracción según su propia declaración. El tren tenía suficiente velocidad para rodar libremente hasta Den Haag Hollands Spoor para una parada programada.
+El maquinista estaba al tanto de que había trabajos entre Leiden Centraal y Den Haag. El maquinista sabía que dos de las cuatro vías estaban disponibles para el tráfico ferroviario; esto lo había leído en el IAM (información al maquinista) (electrónico). Según su propia declaración, el maquinista apenas prestó atención a los trabajos porque pasa por muchos trabajos. No había limitaciones de velocidad para los trabajos en el trayecto Leiden Centraal - Den Haag Maria Hoeve.
+Antes de la colisión, el maquinista del tren de pasajeros observó un equipo de trabajo, porque la luz de esos trabajos casi cegó al maquinista. El maquinista no puede recordar si percibió el tren de mercancías (detenido).
+Entre la colisión de la grúa con el tren de mercancías y posteriormente con el tren de pasajeros hay aproximadamente 02.24 minutos; este tiempo se ha deducido sobre la base de la grabación realizada por una cámara de timbre de puerta. En esta video se oyen el sonido de un tren frenando y las colisiones, y son perceptibles destellos de luz en la segunda colisión.
 Daños en el tren de pasajeros
-El tren de pasajeros quedó gravemente dañado debido al impacto.
-La parte delantera del tren muestra un impacto casi frontal. La velocidad de impacto de la colisión fue de aproximadamente 132 km/h. La cabina del tren sufrió daños considerables. La parte delantera del tren descarriló hacia la derecha en la dirección de marcha, destruyó la valla adyacente y embistió una furgoneta aparcada junto a la vía. Esta furgoneta pertenecía a uno de los miembros del equipo que trabajaba en la ubicación de trabajo 09. La parte delantera del tren cayó en la cuneta, donde el coche delantero quedó perpendicular a la vía y se separó de los coches posteriores. El coche delantero terminó sobre su lado izquierdo y rodó sobre el techo hasta la posición donde finalmente se detuvo. Esto ocurrió a unos 140 metros después del impacto con la grúa. El coche delantero estaba perpendicular a la vía, con la parte trasera apoyada en la carretera adyacente a la vía y la parte delantera en el campo (véase la figura 47).
+El tren de pasajeros quedó gravemente dañado debido a la colisión.
+La parte delantera del tren muestra una colisión prácticamente frontal. La velocidad de impacto de la colisión fue de aproximadamente 132 km/h. La cabina del tren sufrió daños considerables. La parte delantera del tren descarriló hacia la derecha en dirección de marcha, destruyó la valla adyacente y embistió una furgoneta aparcada junto a la vía. Esta furgoneta pertenecía a uno de los miembros del equipo que trabajaba en la ubicación de trabajo 09. La parte delantera del tren terminó en la zanja, donde el primer coche quedó perpendicular a la vía y se separó de los coches restantes situados detrás. Al hacerlo, el primer coche cayó sobre su lado izquierdo y rodó sobre el techo hasta la posición donde finalmente se detuvo. Esto ocurrió a unos 140 metros después de la colisión con la grúa. El primer coche estaba perpendicular a la vía, con la parte trasera apoyada sobre la carretera adyacente a la vía y la parte delantera en el campo (véase la figura 47).
 
 ## Página 136
+
 
 En el impacto, los otros tres coches siguieron al primer coche hasta que este se desprendió. El segundo coche siguió al primero durante mucho tiempo en la escalada del impacto y también descarriló perpendicularmente a la dirección de marcha. La parte delantera de estos dos coches estaba también en el prado junto a la vía, mientras que la parte trasera se encontraba a la altura de la vía 2. El tercer coche descarriló y se inclinó fuertemente hacia la izquierda. El último coche no descarriló. Todos los coches sufrieron daños (considerables) debido a componentes de la grúa, elementos de la infraestructura o componentes de la infraestructura almacenados junto a la vía.
 S Figura 47: Foto panorámica del lugar del accidente con los cinco últimos vagones del tren de mercancías a la izquierda; a la altura del tercer vagón desde atrás se encuentra el punto de colocación de raíles, con el camino de acceso en primer plano. Los fragmentos de la grúa están dispersos por el lugar del accidente; a la derecha se encuentra el tren de pasajeros descarrilado y roto; entre ambos trenes está el chasis de la grúa. (fuente: policía)
@@ -2844,8 +2867,8 @@ Tras los daños producidos en el primer impacto de la grúa por parte del tren d
 Daños en la grúa
 Solo es posible ofrecer una indicación global de los daños sufridos por la grúa tras el impacto del tren de pasajeros. La grúa sufrió más daños como consecuencia del segundo impacto (figura 48). En el lugar del accidente se encontraron componentes de la grúa a lo largo de un área de aproximadamente 125 metros como resultado de ambos impactos. Esto es una indicación del enorme impacto de la colisión. Durante el segundo impacto con el tren de pasajeros y su posterior escalada, partes de la grúa volvieron a golpear la (parte trasera del) tren de mercancías y el tren de pasajeros.
 
-
 ## Página 137
+
 
 S Figura 48: Restos de la grúa sobre plataformas rodantes; también se observa que la catenaria sobre las vías 1 y 2 ha desaparecido en gran medida (foto: policía)
 Daños en la furgoneta del personal
@@ -2858,8 +2881,8 @@ Los daños en la infraestructura se concentran principalmente desde el punto de 
 
 de 400 metros en dirección a Leiden. Los principales daños son:
 
-
 ## Página 138
+
 
 daños en la vía (raíles y traviesas) a lo largo de 400 metros;
 X
@@ -2904,6 +2927,7 @@ La siguiente tabla ofrece un resumen de las lesiones sufridas por los pasajeros 
 227	 Lengkeek, Informe pericial 1, 5 de abril de 2023.
 
 ## Página 139
+
 
 por lo que resultaron heridos queda fuera del alcance de esta investigación. El Consejo investigó la gestión del riesgo de lesiones en la investigación sobre el choque de trenes en Amsterdam Singelgracht/Westerpark.228
 T Tabla 4: Resumen de las lesiones en el accidente ferroviario de Voorschoten, 4 de abril de 2023.229
@@ -2964,8 +2988,8 @@ La Inspección de Vivienda y Transporte no realiza ninguna investigación sobre 
 231	 Muerto (víctima mortal): cualquier persona que haya fallecido en un accidente o dentro de los 30 días siguientes a causa de sus consecuencias, con excepción de las personas que se hayan suicidado.
 232	 Cuadrilla de trabajo de la ubicación de obra 09, compuesta por el jefe de seguridad local/guía de personal externo en vía, jefe técnico, dos soldadores, montador de vía y el maquinista de la grúa.
 
-
 ## Página 140
+
 
 D.5.3	
 Investigación conjunta de BAM, DB Cargo, NS y ProRail
@@ -2987,6 +3011,7 @@ los servicios de emergencia operativos y los socios privados de la cadena asumie
 
 ## Página 141
 
+
 trabajado. La estructura principal de la organización de crisis ha funcionado correctamente. La Región de Seguridad Hollands Midden también ha constatado algunos puntos de aprendizaje.233
 ## D.6	
 ### Trabajos de mantenimiento
@@ -3001,8 +3026,8 @@ ProRail ha externalizado el mantenimiento a pequeña escala en la zona de trabaj
 235	 No todo el mantenimiento a pequeña escala está contratado mediante un contrato PGO. Un número de actividades de mantenimiento se contrata por separado. Un ejemplo de ello es el mantenimiento de zonas verdes.
 236	 ProRail, PGO Rijn en Gouwe2: acuerdo de prórroga a partir del 1 de febrero de 2023, 31 de marzo de 2023.
 
-
 ## Página 142
+
 
 D.6.2	
 Capacidad para el calendario de mantenimiento
@@ -3058,6 +3083,7 @@ vías 3 y 4
 237	 Segunda Cámara, periodo de sesiones 2007–2008, 29 893, n.º 65
 
 ## Página 143
+
 
 Trabajo
 Actividades
@@ -3123,8 +3149,8 @@ Período de entrada y salida en servicio, en coordinación con
 el jefe de circulación
 238	 ProRail, Instrucción/contrato de seguridad del puesto de trabajo, WBI 63769A, 15 de marzo de 2023.
 
-
 ## Página 144
+
 
 S Figura 51: Representación esquemática de las vías desde Den Haag Mariahoeve hasta Leiden Centraal, incluyendo las vías donde se realizan los trabajos, con el puesto de trabajo A (toda la puesta fuera de servicio en rojo), los puestos de trabajo B y C (en coordinación con el jefe de circulación, en azul y verde) y los lugares de trabajo 05 en Vinkbrug, los lugares de trabajo 07 y 09 (en azul claro).
 El responsable de la seguridad del puesto de trabajo es responsable de la gestión del riesgo de atropello y electrocución dentro de toda la puesta fuera de servicio y para los nueve lugares de trabajo. Para esta tarea, el responsable de la seguridad del puesto de trabajo cuenta con siete responsables de seguridad local.239 Estos responsables de seguridad local se encuentran en el lugar de trabajo y, si es necesario, colocan para el propio responsable de la seguridad del puesto de trabajo lanzas cortacircuitos autoseñalizantes 
@@ -3136,6 +3162,7 @@ El accidente ocurrió con un miembro de un equipo de trabajo que realizaba traba
 
 ## Página 145
 
+
 07 se sitúa en las vías 3 y 4, desde –visto desde Den Haag Mariahoeve– 5 km antes de la estación Voorschoten hasta el puente ferroviario: Vinkbrug. Los trabajos en las ubicaciones de trabajo 07 y 09 se iniciaron sobre la base de mediciones ultrasónicas anteriores en las que se detectaron defectos en los rieles.
 S Figura 52 representación esquemática del (fragmento) plano de extracción de la zona de trabajo, desde Den Haag Mariahoeve hasta una parte de la estación Leiden Centraal con las ubicaciones de trabajo 05, 07 y 09.
 En el capítulo 2 se describe la secuencia de hechos; como complemento a ello, a continuación se detalla con mayor precisión la puesta fuera de servicio de las vías para todas las ubicaciones de trabajo y qué trenes pasaron por encima de los trabajos realizados en las vías 1 y 2.
@@ -3145,8 +3172,8 @@ A las 01.22 horas, el jefe de protección de la zona de trabajo y el director de
 241	 En la vía MG entre la señal 1002 y la señal P 636 y en la vía NG entre la señal 1004 y la señal P 1990 y en el cambio 1007B/1009A.
 242	 En la vía 601 entre las señales 1130 y 1142 y en la vía 602 entre las señales 1132 y 1140.
 
-
 ## Página 146
+
 
 sur243 de la estación Leiden Centraal colocaron las lanzas de cortocircuito y a las 01.27 horas la zona de trabajo A estaba completamente fuera de servicio.
 A las 01.43 horas, el jefe de protección de la zona de trabajo recibió autorización del director de circulación para poner también fuera de servicio el periodo B. Para ello, el jefe de protección de la zona de trabajo contactó con el jefe de seguridad local de la ubicación de trabajo 09 y este jefe de seguridad local colocó posteriormente lanzas de cortocircuito en las vías 1 y 2.244 De la investigación se desprende que la lanza de cortocircuito autoindicadora en la vía 1 no genera ocupación de vía245, por lo que la zona de trabajo B no está garantizada como protegida porque la segunda capa de seguridad para esta vía no está garantizada (véase figura 53 y figura 54). En este caso, el jefe de seguridad local podía ver mediante una luz parpadeante si se había establecido el cortocircuito, lo cual, según esta persona, era así. El director de circulación puede ver una ocupación de vía en la pantalla de control y el jefe de protección de la zona de trabajo puede ver la ocupación de vía en la aplicación VIEW de ProRail, siempre que tenga acceso a dicha aplicación.
@@ -3156,8 +3183,8 @@ S Figura 54: Fragmento de la aplicación TOON con la que se pueden visualizar la
 244	 En la vía 1 (vía LF) y 2 (vía KF) en la estación Voorschoten.
 245	 En la aplicación TOON de ProRail no es visible ninguna ocupación de vía en la vía 1 (LF).
 
-
 ## Página 147
+
 
 Trenes que pasan
 La gestión del servicio ferroviario tuvo lugar por las vías 1 y 2. Entre el inicio de la puesta fuera de servicio (01.25 horas) y el accidente pasaron varios trenes (tabla 7).
@@ -3209,6 +3236,7 @@ S Figura 55: Fragmento de imagen de la cámara frontal del tren 1405, circulando
 
 ## Página 148
 
+
 S Figura 56: Fragmento de la imagen de la cámara frontal del tren 1405, circulando desde Leiden en dirección a La Haya tras el paso por el puente Vinkbrug; los tres puntos fuertemente iluminados (de izquierda a derecha) son la máquina soldadora y la grúa de la zona de trabajo 09 en la vía 4 trabajando, y en la vía 3 una de las máquinas soldadoras de la zona de trabajo 07. (fuente: NS)
 S Figura 57: Fragmento de la imagen de la cámara frontal del tren 1405, circulando desde Leiden en dirección a La Haya durante el paso por el puente Vinkbrug; el punto fuertemente iluminado es la segunda máquina soldadora de la zona de trabajo 07 en la vía 3 entre la estación De Vink y la estación Voorschoten. (fuente: NS)
 No se dispone de imágenes de las cámaras frontales del tren de mercancías (47612) ni del tren de pasajeros (1409). El tren de mercancías no tiene cámaras frontales y las imágenes de la cámara del tren de pasajeros quedaron tan dañadas por la colisión que no pudieron leerse.
@@ -3218,8 +3246,8 @@ Alerta y asistencia
 Varios residentes cercanos a la estación de Voorschoten se despertaron sobresaltados por la explosión debida a la colisión. Llamaron inmediatamente al 112. En el exterior oyeron gritos de personas. Por las notificaciones recibidas tanto de residentes como de pasajeros de la intercity que llegaron a la central de emergencias, quedó claro que había tenido lugar una colisión con un tren de pasajeros. Las ventanillas del tren estaban en gran parte rotas y en uno de los conjuntos de coches parecía haberse declarado un incendio (figura 58).
 En respuesta a las notificaciones recibidas, los servicios de emergencia acudieron al lugar. En pocos minutos, fueron los bomberos y la policía quienes llegaron primero. El lugar del accidente era difícil de alcanzar, ya que a ambos lados de la vía hay una zanja y en el lado este hay vallas junto a la vía.
 
-
 ## Página 149
+
 
 Tras aproximadamente 10 minutos, la Región de Seguridad escaló a GRIP-1.246 ProRail detuvo el tráfico ferroviario y los bomberos pudieron acceder a la vía. La catenaria había caído parcialmente y no estaba claro si estaba sin tensión. Se pidió a los pasajeros de los dos últimos conjuntos de coches –que aún estaban sobre la vía– que permanecieran dentro del tren.
 Llegaron las primeras ambulancias. En ese momento, el número posible de heridos era incierto. La central de emergencias partió inicialmente de 10 heridos (code-10247); a las 03.55 horas se escaló a code-30. Se informó a los hospitales de la zona de que podían esperar víctimas. A las 03.50 horas se decretó GRIP-2 y se informó al alcalde de Voorschoten.
@@ -3234,8 +3262,8 @@ S Figura 58: Imágenes del tren de pasajeros descarrilado; la nube de humo detr�
 247	 Code-10, estimación del número de víctimas, donde la cifra indica el número de heridos.
 248	 NIPV, Estudio de aprendizaje del incidente ferroviario de Voorschoten, 19 de septiembre de 2023.
 
-
 ## Página 150
+
 
 S Figura 59: Imágenes de la asistencia. (fuente: AD)
 Desconexión de la tensión de la catenaria
@@ -3249,6 +3277,7 @@ A continuación se describe, en grandes líneas, qué legislación y normativa e
 251	 Fuente: sistema de registro de comunicaciones de seguridad del despachador de trenes.
 
 ## Página 151
+
 
 D.8.1	
 Regulación europea
@@ -3266,22 +3295,32 @@ Para la circulación de trenes y la gestión de la infraestructura ferroviaria, 
 256	 Exposición de motivos de la Ley ferroviaria, https://zoek.officielebekendmakingen.nl/kst-27482-3.pdf.
 257	 Ley ferroviaria, https://wetten.overheid.nl/BWBR0015007.
 
-
 ## Página 152
 
-Bajo la Ley ferroviaria se incluyen varios decretos y reglamentos. Así, el Decreto sobre tráfico ferroviario y el Reglamento sobre tráfico ferroviario describen, entre otros, los requisitos para la circulación de trenes.258,259 La forma en que ProRail debe distribuir la capacidad está descrita en el Decreto sobre distribución de capacidad de la infraestructura ferroviaria principal.260
-La Ley sobre condiciones de trabajo y el Decreto sobre condiciones de trabajo contienen normas que tanto el empleador como el trabajador deben cumplir para controlar los riesgos laborales.261,262
-La Ley sobre tiempo de trabajo establece cuántas horas puede trabajar un empleado por día y por semana, y cuándo tiene derecho a pausas o descanso. Estas normas existen con miras a la salud, la seguridad y el bienestar, pero también para poder combinar el trabajo, la vida privada y las tareas de cuidado. En el Decreto sobre tiempo de trabajo se recogen excepciones y complementos a la Ley sobre tiempo de trabajo. Además de excepciones generales, existen normas adicionales para algunos sectores laborales.263,264
+Bajo la Ley de Ferrocarriles se incluyen varios decretos y reglamentos. Así, el Decreto sobre el tráfico ferroviario (*Besluit spoorverkeer*) y el Reglamento sobre el tráfico ferroviario (*Regeling spoorverkeer*) describen, entre otros aspectos, los requisitos para la circulación de trenes.258,259 La forma en que ProRail debe distribuir la capacidad está descrita en el Decreto sobre la distribución de capacidad de la infraestructura ferroviaria principal (*Besluit capaciteitsverdeling hoofdspoorweginfrastructuur*).260
+En la Ley de Condiciones de Trabajo (*Arbeidsomstandighedenwet*) y en el Decreto de Condiciones de Trabajo (*Arbeidsomstandighedenbesluit*) figuran normas que tanto el empleador como el trabajador deben cumplir para gestionar los riesgos laborales.261,262
+La Ley de Jornada Laboral (*Arbeidstijdenwet*) establece cuántas horas puede trabajar un empleado al día y a la semana, y cuándo tiene derecho a pausas o tiempo de descanso. Estas normas existen con miras a la salud, la seguridad y el bienestar, pero también para poder combinar el trabajo, la vida privada y las tareas de cuidado. En el Decreto de Jornada Laboral (*Arbeidstijdenbesluit*) figuran excepciones y complementos a la Ley de Jornada Laboral. Además de las excepciones generales, existen normas adicionales para algunos sectores laborales.263,264
 D.8.3	
 Organismos supervisores
-La supervisión del cumplimiento de la Ley ferroviaria recae en gran medida en la Inspección de Vivienda y Transporte.265 Una de las excepciones es la supervisión de la competencia entre servicios de transporte ferroviario, que recae en la Autoridad de Consumidores y Mercados.
-La Inspección de Vivienda y Transporte ha obtenido competencias de co-supervisión para algunas tareas específicas de ejecución de la Inspección Laboral Neerlandesa y también está encargada de supervisar los trabajos realizados en o junto a una vía férrea desde la perspectiva de la Ley sobre condiciones de trabajo. La supervisión del cumplimiento de la Ley sobre condiciones de trabajo y de la Ley sobre tiempo de trabajo recae en la Inspección Laboral Neerlandesa.266
+La supervisión del cumplimiento de la Ley de Ferrocarriles recae en gran medida en la Inspección de Medio Ambiente y Transporte (*Inspectie Leefomgeving en Transport*).265 Una de las excepciones es la supervisión de la competencia entre servicios de transporte ferroviario, que recae en la Autoridad de Consumidores y Mercados (*Autoriteit Consument en Markt*).
+La Inspección de Medio Ambiente y Transporte ha obtenido una autoridad de co-supervisión para algunas tareas específicas de ejecución de la Inspección de Trabajo de los Países Bajos (*Nederlandse Arbeidsinspectie*), y también está encargada de la supervisión de los trabajos realizados en o junto a una vía férrea desde la perspectiva de la Ley de Condiciones de Trabajo. La supervisión del cumplimiento de la Ley de Condiciones de Trabajo y de la Ley de Jornada Laboral recae en la Inspección de Trabajo de los Países Bajos.266
 D.8.4	
 Directrices sectoriales
-La Fundación railAlert es una plataforma de conocimiento sobre seguridad laboral en y alrededor de las vías de tren, tranvía y metro, donde las partes del sector ferroviario colaboran en su responsabilidad compartida por la seguridad laboral. railAlert desempeña un papel normativo mediante el establecimiento de regulaciones sectoriales y aportando insumos para la política de prevención de riesgos laborales de las partes de la infraestructura ferroviaria. railAlert describe además que tiene un papel impulsor e iniciador en el aumento de la conciencia sobre la seguridad laboral.
-Los riesgos de trabajar en las vías han sido descritos por railAlert en el Catálogo de Prevención de Riesgos Laborales.267 La Fundación railAlert es la entidad coordinadora del Marco Normativo de Seguridad
+La Fundación railAlert (*Stichting railAlert*) es una plataforma de conocimiento sobre seguridad laboral en y alrededor de las vías de tren, tranvía y metro, dentro de la cual las partes del sector ferroviario colaboran en su responsabilidad compartida por la seguridad laboral. railAlert desempeña un papel marco mediante el establecimiento de normativa sectorial y el suministro de insumos para la política de prevención de riesgos laborales de las entidades de infraestructura ferroviaria. railAlert describe que además tiene un papel impulsor e iniciador en el aumento de la conciencia sobre la seguridad laboral.
+Los riesgos de trabajar en las vías están descritos por railAlert en el Catálogo de Riesgos Laborales (*Arbocatalogus*).267 La Fundación railAlert es la entidad responsable del Marco Normativo de Seguridad (*Normenkader Veilig*
+258	 Decreto sobre el tráfico ferroviario, https://wetten.overheid.nl/BWBR0017624.
+259	 Reglamento sobre el tráfico ferroviario, https://wetten.overheid.nl/BWBR0017707.
+260	 Decreto sobre la distribución de capacidad de la infraestructura ferroviaria principal, https://wetten.overheid.nl/BWBR0017627.
+261	 Ley de Condiciones de Trabajo, https://wetten.overheid.nl/BWBR0010346.
+262	 Decreto de Condiciones de Trabajo, https://wetten.overheid.nl/BWBR0008498.
+263	 Ley de Jornada Laboral, https://wetten.overheid.nl/BWBR0007671.
+264	 Decreto de Jornada Laboral, https://wetten.overheid.nl/BWBR0007687.
+265	 Decreto de designación de organismos supervisores ferroviarios, https://wetten.overheid.nl/BWBR0018189.
+266	 Reglamento de designación de funcionarios supervisores y funcionarios con tareas específicas de ejecución en virtud de la legislación del Ministerio de Asuntos Sociales y Empleo (SZW), https://wetten.overheid.nl/BWBR0011673, artículo 3.3b.
+267	 Catálogo de Riesgos Laborales, https://arbo.railalert.nl/.
 
 ## Página 153
+
 
 Trabajos, el Reglamento de Trabajo Seguro y las directrices sectoriales subyacentes (véase anexo D.10).268,269
 El Marco Normativo de Trabajo Seguro es aplicable a todos los gestores de infraestructura ferroviaria, promotores, contratistas y empleadores que realicen o hagan realizar trabajos procesales y por proyectos en la infraestructura ferroviaria sujeta a la Ley Ferroviaria o a la Ley de Ferrocarriles Locales, durante todo el ciclo de vida del sistema. Los trabajos incluyen también la movilización y desmovilización y el despliegue de personas, medios y materiales. El Reglamento de Trabajo Seguro es aplicable a la infraestructura ferroviaria principal270, incluidas todas las instalaciones técnicas y electrotécnicas asociadas. El Reglamento de Trabajo Seguro distingue entre las líneas ferroviarias convencionales (gestor de infraestructura ProRail), la línea de alta velocidad (gestor de infraestructura Infraspeed) y la Betuweroute (gestor de infraestructura Keyrail; desde 2015, ProRail es el gestor de infraestructura de la Betuweroute).
@@ -3306,8 +3345,8 @@ vervoerders/netverklaring.
 276	 ProRail, EP19 Sector Empresas de Seguridad de Zona de Trabajo y Contadores de Personal, 16 de diciembre de 2021.
 277	 ProRail, Solicitud, elaboración y tramitación de la Instrucción de Seguridad de Zona de Trabajo (WBI), PRC00068, 1 de enero de 2023.
 
-
 ## Página 154
+
 
 en el mapa.278,279 Para la gestión de riesgos en los trabajos ferroviarios, railAlert (D.9.2) y BAM (D.9.3) han identificado los riesgos.
 D.9.1	
@@ -3335,6 +3374,7 @@ Reglamento de Ejecución (UE) n.º 402/2013 relativo al método común de seguri
 280	 Sistema de Información Geográfica.
 
 ## Página 155
+
 
 fuera de servicio. ProRail llega –una semana después del accidente ferroviario y anticipándose a los resultados de la investigación del accidente– a la conclusión:
 No es necesario adaptar el proceso de la organización de seguridad.
@@ -3366,8 +3406,8 @@ ProRail asume que un atropello de una persona por un tren, maniobras o vehículo
 282	 As low as reasonably practicable, el principio consiste en que las empresas/organizaciones responsables deben asegurarse de que se utilicen las medidas disponibles a menos que demuestren que una medida está asociada a costes y/o consecuencias irrazonables.
 283	 ProRail, ALARP-evaluatie Basisveiligheidsrisico Spoorwegsysteem, Arbeidsongeval, juli 2018.
 
-
 ## Página 156
+
 
 Según ProRail, los pasos indebidos de señales de parada sonora pertenecen al Riesgo básico de seguridad colisión. ProRail identifica los dos riesgos siguientes:
 Colisión tras paso de STS.
@@ -3403,6 +3443,7 @@ Peligro de atropello, tiempos de trabajo y comunicación están identificados co
 287	 railAlert, Branche RI&E railinfrabranche, juli 2022. https://www.railalert.nl/download/type/document/id/1286.
 
 ## Página 157
+
 
 T Tabla 8: Fragmento de la evaluación y análisis de riesgos del sector para el peligro de colisión, la carga psicosocial laboral y la comunicación. (fuente: railAlert)
 Punto de atención
@@ -3476,8 +3517,8 @@ Para la situación en Voorschoten, el operador de la grúa podía percibir bien 
 288	 El peligro, la consecuencia y la medida de control no están descritos.
 289	 railAlert, Voorschrift Veilig Werken – Trein, octubre de 2013.
 
-
 ## Página 158
+
 
 En noviembre de 2019, railAlert organizó una reunión sectorial sobre (casi-)colisiones. Esto surgió a raíz de un duplicado en el número de incidentes reportados de casi-accidentes, lo cual railAlert describe como «la punta del iceberg». Según railAlert, los asistentes aprendieron qué impacto puede tener un accidente. Durante la reunión se presentaron cuatro casos, uno de los cuales fue una casi-colisión de un vehículo de vía por un tren (véase el recuadro azul sobre el incidente con un vagón de medición el 4 de junio de 2019, apartado 3.1.3). Durante los trabajos de BAM en el tramo Hoofddorp – Leiden, se estableció una vía única fuera de servicio en un tramo de doble vía. Al final de los trabajos, el vehículo de vía se retiró en un punto de acceso a la vía cerca de Nieuw-Vennep. Según las declaraciones, unos segundos después de retirar el vehículo de vía, un tren de pasajeros pasó por el punto de acceso a la velocidad del tramo. Se trataba de un tren de NS (tren 1414, el tren nocturno de Rotterdam Centraal a Utrecht Centraal). El lugar de trabajo para sacar también de servicio la vía paralela no estaba activado. En el momento de retirar el vehículo de vía, había presente un supervisor de vía fuera de servicio.290 Este incidente – en Nieuw-Vennep – no ha dado lugar a un endurecimiento de la normativa.
 Tras el accidente ferroviario en Voorschoten, railAlert emite el 20 de abril de 2023 una Alerta de Seguridad sobre la colocación y retirada de vehículos de vía. La Fundación railAlert pide al sector que esté especialmente alerta ante los peligros específicos relacionados con la colocación y retirada de vehículos de vía, adoptando las medidas adecuadas en los siguientes ámbitos:
@@ -3506,6 +3547,7 @@ consultado el 3 de noviembre de 2023.
 
 ## Página 159
 
+
 vehículos ferroviarios puedan salir involuntariamente de la zona de trabajo. La colocación de la señalización es obligatoria entre la ubicación de trabajo y el límite de la zona de trabajo294, si:
 en la ubicación de trabajo se utilizan vehículos ferroviarios, y
 X
@@ -3531,8 +3573,8 @@ Para los trabajos en la ubicación de trabajo 09, estaba presente un jefe de seg
 297	 BAM, V&G RI&E / traspaso, diciembre de 2022.
 298	 El punto de estacionamiento de vía en Voorschoten no estaba disponible debido al accidente; se optó por retirar los carros de soldadura de la ubicación de trabajo 07, al igual que los otros, en el punto de estacionamiento de vía de la calle Blauwe Tramstraat en Leiden.
 
-
 ## Página 160
+
 
 servicio – hacer movimientos de transporte. Según la norma, la supervisión debe tener lugar siempre en las siguientes tres actividades:
 situaciones en las que la persona que opera el vehículo vinculado a la vía no puede percibir (bien) la ruta a recorrer;
@@ -3561,8 +3603,8 @@ seguridad ferroviaria
 • Instrucciones/normativa medioambiental
 Figura 61: Estructura de los planes parciales de seguridad, salud y medio ambiente. (fuente: BAM)
 
-
 ## Página 161
+
 
 Tabla 9: Fragmento del V&G RI&E. (fuente: BAM)
 Actividad / 
@@ -3616,33 +3658,27 @@ Tras el accidente ferroviario en Voorschoten, DB Cargo no ve necesidad de revisa
 
 D.9.5	
 NS
-NS dispone de un registro de peligros (Hazard-log) en el que se describen, entre otros, los riesgos asociados a la circulación de trenes junto a vías fuera de servicio. NS ha realizado para el Consejo una selección de riesgos que serían aplicables a la situación en Voorschoten; véase la tabla 10. NS reconoce diversas causas por las que personas o material pueden encontrarse en una vía en servicio; las medidas de control se sitúan en el ámbito del seguimiento de procedimientos o quedan fuera del alcance de NS. NS considera un objeto situado en una vía en servicio como una perturbación que debe notificarse al jefe de circulación.
+NS dispone de un registro de peligros (Hazard-log) en el que se describen, entre otros, los riesgos asociados a la circulación de trenes junto a vías fuera de servicio. NS ha realizado para la Junta una selección de riesgos que serían aplicables a la situación en Voorschoten; véase la tabla 10. NS reconoce diversas causas por las que personas o material pueden encontrarse en una vía en servicio; las medidas de control se centran en el seguimiento de procedimientos o quedan fuera del ámbito de competencia de NS. NS considera un objeto situado en una vía en servicio como una perturbación que debe notificarse al jefe de circulación.
 
 T Tabla 10: Selección del registro de peligros – colisión con objeto, atropello y descarrilamiento. (fuente: NS)
 
 | Causa | Medida de seguridad mitigadora |
 | :--- | :--- |
-| Velocidad excesiva al pasar junto a trabajos; objeto en la vía | Procedimiento de conducción según señalización y cumplimiento de la señalización (cumplimiento de limitaciones temporales de velocidad indicadas en la TSB300). |
-| Trabajadores de vía presentes en la vía durante el paso del tren | Diversas medidas – fuera del alcance de NS. |
+| Velocidad excesiva al pasar por trabajos; objeto en la vía | Procedimiento de conducción según la señalización y seguimiento de la señalización (seguimiento de limitaciones temporales de velocidad indicadas en la TSB300). |
+| Trabajadores de vía presentes en la vía en el momento del paso del tren | Diversas medidas – fuera del ámbito de competencia de NS. |
 | Objetos dentro del perfil de gálibo libre301 por diversas razones | Notificación de averías a la infraestructura |
-| Un tercero cruza la vía en un paso a nivel sin comprobar si es posible | Instalaciones seguras de cruce, iluminación, protección de patios de maniobras |
+| Un tercero cruza la vía por un paso a nivel sin comprobar si es posible hacerlo | Instalaciones seguras de cruce, iluminación, protección de patios de maniobras |
 
-En el análisis bow-tie recibido de NS, las barreras para el evento superior, atropello de persona, se encuentran principalmente en el ámbito preventivo. En este caso, ProRail es responsable de las medidas de control, como las especificaciones de diseño de los pasos a nivel, el acordonamiento de la zona de la vía fuera de servicio y la plataforma ferroviaria (mediante vallas). Para el evento superior, colisión con objeto, la medida de control consiste principalmente en detener la circulación de trenes durante tormentas extremas.
+En el análisis bow-tie recibido de NS, las barreras para el evento principal, atropello de persona, se sitúan principalmente en el ámbito preventivo. En este sentido, ProRail es responsable especialmente de las medidas de control, tales como las especificaciones de diseño de los pasos, el acordonamiento de la zona de la vía fuera de servicio y de la plataforma ferroviaria (mediante vallas). Para el evento principal, colisión con objeto, la medida de control consiste principalmente en la suspensión de la circulación de trenes durante tormentas extremas.
 
-En el capítulo 3 figuran también incidentes en los que NS, como empresa ferroviaria, estuvo implicada; no queda claro si el incidente se aborda como una perturbación del servicio de trenes o como un riesgo potencial de atropello de un trabajador de vía o de una (grúa sobre) vagón plataforma. Basándose en la información del siguiente párrafo, parece que los incidentes durante los trabajos se clasifican como perturbaciones del servicio de trenes, o bien no se detectan, como se desprende de un incidente similar al de Voorschoten ocurrido en Nieuw-Vennep (véase D.9.2). En el informe de calidad y seguridad de NS correspondiente al segundo trimestre de 2023, figura un ejemplo de incidente que confirma lo anterior: «El 6 de abril de 2023, trabajadores de vía se encontraban en Asd CS302 en la vía en servicio sin autorización, lo que generó una situación peligrosa que terminó felizmente. ProRail ha iniciado una investigación relativa a la claridad (o falta de ella) de la WBI (posible relación con Voorschoten)».
+En el capítulo 3 figuran también incidentes en los que NS estuvo implicada como empresa ferroviaria; no queda claro si el incidente se registra como una perturbación del servicio de trenes o como un riesgo potencial de atropello de un trabajador de vía o de un (grúa sobre) vagón plataforma. Según la información del siguiente párrafo, parece que los incidentes durante los trabajos se clasifican como perturbaciones del servicio de trenes, o bien no se detectan, como pone de manifiesto un incidente similar al de Voorschoten ocurrido en Nieuw-Vennep (véase D.9.2). En el informe de calidad y seguridad de NS correspondiente al segundo trimestre de 2023 figura un ejemplo de incidente que confirma lo anterior: «El 6 de abril de 2023, unos trabajadores de vía se encontraban en Asd CS302 en la vía en servicio sin autorización, lo que generó una situación peligrosa que...»
 
-Tras el accidente ferroviario en Voorschoten, NS se planteó si la imagen del riesgo de atropello de maquinaria pesada por parte de un tren no sería sustancialmente diferente de la estimada previamente. De ser así, las barreras de seguridad podrían resultar insuficientes. NS ha reevaluado la clasificación de riesgo en el peor de los casos para los riesgos superiores, colisión con objeto y descarrilamiento. Para esta evaluación, NS ha utilizado la información conocida actual procedente del proceso de Gestión del Cambio, los avisos de los maquinistas, el registro de peligros de NS y las bases de datos ProVat y de ProRail. La información evaluada se centraba específicamente en la circulación junto a una vía fuera de servicio, la circulación en un tramo de cuatro vías con una vía fuera de servicio, la presencia de un punto de colocación de raíles y la presencia de una grúa para los trabajos en la vía fuera de servicio. El objetivo era fundamentar si las clasificaciones de riesgo aceptadas en el peor de los casos permanecían invariables. Si el perfil de riesgo permanece igual, los trenes de NS pueden seguir circulando junto a los trabajos en la vía sin medidas adicionales. En el análisis surgió un incidente comparable. Para este análisis, se examinaron los últimos tres años buscando incidentes en los que estuvieron implicados una grúa sobre vagones plataforma y una empresa ferroviaria, investigados por NS o ProRail. El incidente encontrado tuvo lugar en un patio de maniobras, Watergraafsmeer, y a baja velocidad. NS llegó a la conclusión de que no era necesario modificar la clasificación de riesgo en el peor de los casos y que el riesgo era aceptable.
-
-En el capítulo 3 se han incluido anteriores (casi-)accidentes. En varios incidentes, maquinaria pesada no intencionada acaba en una vía en servicio. NS no identificó estos incidentes como potencialmente riesgosos porque el peligro había cesado antes de que un tren estuviera cerca. O porque el tren se detuvo ante una señal de parada después de que la maquinaria ocupara la vía, lo cual se clasifica como una perturbación del servicio de trenes.
-
-A finales de 2022, NS tenía una propuesta para la Circulación y Trabajo en Vía Única. En el análisis asociado, se evaluó si es aceptable circular por una vía junto a trabajos. En el análisis se identificaron riesgos como una colisión tren-tren debido a itinerarios de marcha no libres de conflictos, lo que, por ejemplo, condujo en 2012 a un choque frontal entre dos trenes de pasajeros de NS en Amsterdam Singelgracht/Westerpark303. Otro riesgo identificado fue el atropello de un trabajador de vía por un tren en tránsito. Que exista también un riesgo de colisión con material pesado no fue identificado por NS; el riesgo no es imposible, véase el capítulo 3. NS decide –debido a los riesgos residuales– no dar su conformidad a esta modificación propuesta.
-
-300	 TSB es un sistema diario de información para los maquinistas sobre ubicaciones con limitaciones temporales de velocidad, indicado a lo largo de la vía mediante señales (LAE).
+300	 La TSB es una información diaria facilitada a los maquinistas sobre ubicaciones con limitaciones temporales de velocidad, indicadas a lo largo de la vía mediante señales (LAE).
 301	 Perfil de gálibo libre, un espacio virtual exento de objetos fijos, como señales, carteles y muros de andén.
 302	 Amsterdam Centraal
 
-
 ## Página 163
+
 
 gelukkig goed afliep. Er is door ProRail onderzoek gestart i.r.t. de (on) duidelijkheid van 
 de WBI (mogelijke relatie met Voorschoten)’.
@@ -3688,6 +3724,7 @@ voorgestelde wijziging.
 
 ## Página 164
 
+
 ## D.10	
 ### Organización de la seguridad en los trabajos de infraestructura
 D.10.1	 Trabajo seguro en la infraestructura
@@ -3702,8 +3739,8 @@ El Marco Normativo de Trabajo Seguro está orientado al riesgo de atropello y al
 308	 railAlert, Voorschrift Veilig Werken – Trein, oktober 2013. Het voorschrift is van toepassing op binnen Nederland aanwezige hoofdsporen, lokaalsporen, spooraansluitingen, aan- en aftakkingen en raccordementen inclusief alle daartoe behorende technische en elektrotechnische installaties. Het voorschrift maakt onderscheidt naar conventioneel spoor (railinfrabeheerder ProRail), hogesnelheidslijn (railinfrabeheerder Infraspeed) en Betuweroute (railinfrabeheerder Keyrail, ProRail is sinds 2015 de infrabeheerder van de Betuweroute). Op 11 juli 2023 heeft railAlert een vernieuwd VVW-aanrijding trein uitgebracht, de Nederlandse Arbeidsinspectie heeft op deze versie geen goedkeuring gegeven omdat er een aantal strijdigheden met wet- en regelgeving in staan. Ook zijn een aantal verslechteringen van de huidige stand van de wetenschap en professionele dienstverlening ten opzichte van de huidige arbocatalogus.
 309	 Horvat & Partners, Evaluatie effect Normenkader, Veilig Werken op aanrijdgevaar, februari 2015. Gezamenlijke Inspecties Sociale Zaken en Werkgelegenheid en Leefomgeving en Transport, Factsheet inspectie baanwerken 2016, september 2017.
 
-
 ## Página 165
+
 
 nivel es la eliminación de la fuente, siendo el nivel más bajo la protección individual. 
 
@@ -3730,6 +3767,7 @@ El contratante es responsable de un puesto de trabajo seguro. El contratista
 
 ## Página 166
 
+
 determinadas sobre la base de las posibilidades desde el punto de vista de la higiene laboral (tabla 11) las medidas de control. A continuación se explican algunas de estas medidas312.
 Las medidas en origen para evitar el peligro de atropello son una retirada de servicio o una admisión controlada (tabla 11). Con una retirada de servicio se protege a los trabajadores de vía impidiendo que el tráfico ferroviario regular acceda al lugar de trabajo. En caso de admisión controlada, un tren regular es guiado a baja velocidad a través del lugar de trabajo y los trabajadores de vía son informados mediante señales visuales y acústicas313 sobre el paso del tren. Para realizar los trabajos durante la noche del 4 de abril, el contratista eligió en la fase de preparación una retirada de servicio.
 Para retirar una vía de servicio, el jefe de circulación y el responsable de seguridad del lugar de trabajo deben adoptar dos medidas que funcionen de forma independiente entre sí. El jefe de circulación adopta medidas técnicas de señalización (por ejemplo,
@@ -3744,8 +3782,8 @@ La marcación de los límites del lugar de trabajo se refiere únicamente a evit
 316	 railAlert, Directriz sectorial, marcación del límite del lugar de trabajo (pertenece al VVW-trein), diciembre de 2016.
 317	 Reglamento de tráfico ferroviario, anexo 4, señal 513 señal de cierre, https://wetten.overheid.nl/BWBR0017707.
 
-
 ## Página 167
+
 
 ubicaciones de trabajo 07 y 09 – entre Vinkburg y más allá de Voorschoten –, el límite de la retirada de servicio estaba a más de 150 metros de estos lugares de trabajo y no se habían colocado señales de cierre.
 Los trabajadores de vía deben poder acceder y abandonar el lugar de trabajo a través de una ruta segura. Esta ruta segura debe permanecer disponible durante toda la duración de los trabajos en dicho lugar de trabajo, lo que evita una retirada de servicio tipo isla318. Los trabajadores de vía de la ubicación de trabajo 09 cruzaron las vías 1, 2 y 3 a través del punto de acceso ferroviario de la carretera de acceso para llegar a la vía 4. Esto ocurrió después de que el jefe de circulación y el responsable de seguridad del lugar de trabajo hubieran retirado de servicio el lugar de trabajo A (para las vías 3 y 4, véase la figura 63) y el lugar de trabajo B (para las vías 1 y 2, véase la figura 64). Después de que la unidad móvil de soldadura y la grúa hubieran cruzado, las vías 1 y 2 volvieron a entrar en servicio para el resto del tráfico ferroviario (véase la figura 65). Con ello se creó una retirada de servicio tipo isla.
@@ -3755,6 +3793,7 @@ El peligro de atropello surge cuando personas y/o medios entran en la esfera de 
 320	 Con una distancia entre ejes de la vía 2 y la vía 3 de 4 metros, el límite de la zona de peligro se sitúa a 1,6 metros desde el eje de la vía 3, respectivamente 0,95 metros desde el carril exterior de la vía 3.
 
 ## Página 168
+
 
 T Tabla 11: Estrategia de higiene laboral en caso de riesgo de atropello por tren. (fuente: railAlert)
 Medida
@@ -3790,16 +3829,16 @@ S Figura 63: Fragmento del tramo Leiden - Den Haag, puesto de trabajo A activado
 railAlert, Buena práctica: uso de protección física como seguridad del puesto de trabajo, septiembre de 2019.
 322	 En la advertencia garantizada, durante el servicio normal de trenes, los trabajadores de vía son alertados sobre el tráfico ferroviario que se aproxima en la vía de trabajo y/o en la vía adyacente mediante equipos de advertencia certificados.
 
-
 ## Página 169
+
 
 S Figura 64: Fragmento del tramo Leiden - Den Haag, puestos de trabajo A y B activados, lo que provoca que las vías 1, 2, 3 y 4 estén fuera de servicio; el equipo de trabajo puede cruzar en el punto de despliegue para luego circular hacia la ubicación de trabajo 09 por la vía 4.
 S Figura 65: Fragmento del tramo Leiden - Den Haag, puesto de trabajo A activado y puesto de trabajo B desactivado; las vías 1 y 2 están en servicio.
 S Figura 66: Dimensiones de la zona de peligro (zona A) y de las zonas de proximidad (zonas B y C), para velocidades de línea hasta 140 km/h (velocidad de línea para las vías 1 y 4) y de 140 a 160 km/h (velocidad de línea para las vías 2 y 3).323
 323	 railAlert, Reglamento de Trabajo Seguro - Tren, octubre de 2013, apartado 3.2.1.1 zona de peligro (zona A).
 
-
 ## Página 170
+
 
 S Figura 67: Fotografía aérea del punto de despliegue ferroviario cerca de Voorschoten, con la zona de peligro A - riesgo de atropello dibujada (límite de la zona de peligro respecto al eje de la vía, para la vía 1: 2,25 metros y para la vía 2: 2,40 metros).324
 D.10.4	 Responsabilidades dentro de la organización de seguridad
@@ -3813,6 +3852,7 @@ Con el contrato de mantenimiento orientado al rendimiento, ProRail contrata la e
 327	 ProRail, Acuerdo de Mantenimiento Orientado al Rendimiento, área contractual «Rijn en Gouwe 2», 7 de marzo de 2017.
 
 ## Página 171
+
 
 T Tabla 12: Funcionarios en la cadena de seguridad para trabajos en la infraestructura ferroviaria.328
 Función ProRail
@@ -3834,8 +3874,8 @@ Lo anterior se realiza mediante las normas vigentes para ello, los medios de pro
 328 railAlert, Normativa Trabajo Seguro - tren, octubre de 2013.
 329 Sistemas de origen de ProRail, OBI: Plano general de vía y estación, BVS: Instrucciones de manejo de instalaciones de señalización.
 
-
 ## Página 172
+
 
 Función Contratista
 Descripción
@@ -3859,6 +3899,7 @@ El trabajador debe haber firmado antes del inicio de los trabajos (incluida la e
 
 ## Página 173
 
+
 Función Contratista
 Descripción
 Supervisión de la construcción/ejecución
@@ -3870,8 +3911,8 @@ D.10.6 Pruebas para permitir el paso de trenes por una zona fuera de servicio
 En noviembre y diciembre de 2023, ProRail realizó, junto con dos contratistas, pruebas para permitir el paso de trenes no operativos por una zona fuera de servicio. Los trabajos en la vía tienen un tiempo de duración tan prolongado que ProRail prevé reclamaciones de un taller de mantenimiento en Waalhaven o de la fábrica de amoníaco en Delfzijl, ya que estas empresas no son accesibles durante la interrupción del servicio. En la prueba realizada en el patio de maniobras de mercancías de Waalhaven, locomotoras sueltas circularon por la zona fuera de servicio, lo que implicó que los trabajadores del contratista tuvieran que tratar no solo con trenes de obra, sino también con locomotoras que circulaban por la zona fuera de servicio. En la prueba realizada en el tramo Stedum – Delfzijl se trató de trenes de mercancías con sustancias peligrosas (amoníaco). Durante la prueba en el tramo Stedum - Delfzijl, los trabajos en la vía se detuvieron durante el paso de los trenes de mercancías y la protección ferroviaria del tramo estaba desactivada.
 332 ProRail, Solicitud, elaboración y tramitación de la Instrucción de Seguridad del Puesto de Trabajo (WBI), PRC00068, enero de 2023.
 
-
 ## Página 174
+
 
 En el análisis de riesgos para ambas pruebas se presta atención al peligro de atropello de los trabajadores de vía y al riesgo de descarrilamiento debido a material abandonado o a una mala geometría de la vía. En la prueba realizada en el tramo Stedum - Delfzijl se pasaron por 16 pasos a nivel o caminos. Una parte de ellos estaba acordonada con vallas; en los demás casos, el acompañante de la vía fuera de servicio obtuvo permiso del jefe de seguridad del puesto de trabajo para pasar por el paso a nivel, tras haber activado manualmente dicho paso. En D.9.4 se describe que DB Cargo no ha incluido en su RI&E (Evaluación de Riesgos e Impacto Ambiental) el riesgo que surge de los trabajos en la infraestructura. Dado que la protección ferroviaria estaba desactivada, DB Cargo adoptó medidas mitigadoras adicionales para controlar los riesgos de seguridad ferroviaria. Estas incluían, por ejemplo, una velocidad máxima (de 40 km/h) y dos maquinistas en la locomotora.333,334
 ProRail llega, basándose en la prueba realizada en el patio de maniobras de Waalhaven, a las siguientes tres conclusiones:
@@ -3885,8 +3926,8 @@ ProRail llega, basándose en la prueba realizada en el tramo Stedum – Delfzijl
 335 ProRail, Evaluación de la prueba de circulación por zona fuera de servicio en Waalhaven en las semanas 47 a 49, diciembre de 2023.
 336 ProRail, Evaluación de los viajes de prueba «circulación operativa por BD» Delfzijl, diciembre de 2023.
 
-
 ## Página 175
+
 
 ## ANEXO E MEDIOS AUXILIARES
 Talleres móviles
@@ -3898,6 +3939,7 @@ La posición «trabajos» significa que ningún tren puede entrar en esa zona. T
 
 ## Página 176
 
+
 atropellados por el tráfico viario. Además, es importante que se aseguren de que no haya un tren circulando justo cerca del paso a nivel que no pueda frenar a tiempo.
 Sistemas automáticos de advertencia, ya sea en terminales portátiles
 Otro recurso para que los operarios de mantenimiento sepan si las vías cercanas están o no fuera de servicio, o si se acerca un tren, son los sistemas automáticos de advertencia337, o las terminales portátiles con las que se pueden poner vías fuera de servicio. Por cierto, las terminales portátiles solo están disponibles actualmente para los responsables de seguridad, no para los propios trabajadores de vía. Estos sistemas de advertencia ya figuran en normativas de 2006 y su aplicación tiene lugar en la Betuweroute y en la Línea de Alta Velocidad (HSL). La aplicación de sistemas similares corresponde a ProRail y a los contratistas, y depende de la existencia de condiciones técnicas previas.
@@ -3906,14 +3948,14 @@ ProRail dotó hace unos años las vías de señales de orientación. Los implica
 Figura 70: Señales de nombre de vía cerca del punto de acceso a la vía en Voorschoten. La designación MF (vía 4) corresponde al plano de instrucciones de trabajo.
 337	 Por ejemplo, ARW 5/2, MINIMEL 90 y MINIMEL 95.
 
-
 ## Página 177
+
 
 Figura 71: Señales de orientación en el túnel de Schiphol (Asd, Ámsterdam y Hfd, Hoofddorp).
 Figura 72: Señales de orientación en el túnel de Delft.
 
-
 ## Página 178
+
 
 El Consejo de Investigación de Seguridad
 Cuando ocurre un accidente o una catástrofe, el Consejo de Investigación de Seguridad investiga cómo pudo haber sucedido, con el objetivo de extraer lecciones de ello. De esta manera, el Consejo contribuye a mejorar la seguridad en los Países Bajos. El Consejo es independiente y decide por sí mismo qué incidentes investiga. En particular, se centra en situaciones en las que las personas dependen de terceros para su seguridad, por ejemplo, del gobierno o de empresas. En algunos casos, el Consejo está obligado a realizar investigaciones. Las investigaciones no abordan la culpa ni la responsabilidad legal.

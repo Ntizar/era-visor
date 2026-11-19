@@ -7,8 +7,8 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md](2024/nl-10606%20-%20intergo%20rapport%20'overweg%20hooge%20zwaluwe%20-%20expert%20beoordeling%20human%20factors'.md) | — | 66837 | ok |
-| [nl-10606 - overwegaanrijding hooge zwaluwe dt.md](2024/nl-10606%20-%20overwegaanrijding%20hooge%20zwaluwe%20dt.md) | — | 115520 | ok |
+| [nl-10606 - intergo rapport 'overweg hooge zwaluwe - expert beoordeling human factors'.md](2024/nl-10606%20-%20intergo%20rapport%20'overweg%20hooge%20zwaluwe%20-%20expert%20beoordeling%20human%20factors'.md) | — | 66837 | revisar |
+| [nl-10606 - overwegaanrijding hooge zwaluwe dt.md](2024/nl-10606%20-%20overwegaanrijding%20hooge%20zwaluwe%20dt.md) | — | 115520 | revisar |
 | [nl-10606 - summary 'level crossing collision hooge zwaluwe (the netherlands)' dt.md](2024/nl-10606%20-%20summary%20'level%20crossing%20collision%20hooge%20zwaluwe%20(the%20netherlands)'%20dt.md) | — | 9254 | ok |
 
 ## 2023 (2)
@@ -22,19 +22,19 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md](2016/NL%2023.02.2016%20d3090efc6a03rapport-botsing-dalfsen-en-interactief.md) | — | 260818 | ok |
+| [NL 23.02.2016 d3090efc6a03rapport-botsing-dalfsen-en-interactief.md](2016/NL%2023.02.2016%20d3090efc6a03rapport-botsing-dalfsen-en-interactief.md) | — | 260818 | revisar |
 
 ## 2015 (1)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md](2015/NL-4737%20-%20Eindrapport%20Treinbotsing%20Tilburg%20-%20ENG%20-%20DEF.md) | — | 248791 | ok |
+| [NL-4737 - Eindrapport Treinbotsing Tilburg - ENG - DEF.md](2015/NL-4737%20-%20Eindrapport%20Treinbotsing%20Tilburg%20-%20ENG%20-%20DEF.md) | — | 248791 | revisar |
 
 ## 2014 (2)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md](2014/15.01.2014%20Report_Dutch_Safetyboard_Derailment_Hilversum.md) | — | 248268 | ok |
+| [15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum.md](2014/15.01.2014%20Report_Dutch_Safetyboard_Derailment_Hilversum.md) | — | 248268 | revisar |
 | [15.01.2014 Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md](2014/15.01.2014%20Report_Dutch_Safetyboard_Derailment_Hilversum___summary.md) | — | 19408 | ok |
 
 ## 2012 (1)
@@ -47,21 +47,21 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [NL 20.02.2010 Rapport_metrobotsing.md](2010/NL%2020.02.2010%20Rapport_metrobotsing.md) | — | 233868 | revisar |
-| [UK_Eindrapport_Stavoren-250710.md](2010/UK_Eindrapport_Stavoren-250710.md) | — | 278138 | ok |
+| [NL 20.02.2010 Rapport_metrobotsing.md](2010/NL%2020.02.2010%20Rapport_metrobotsing.md) | — | 233868 | ok |
+| [UK_Eindrapport_Stavoren-250710.md](2010/UK_Eindrapport_Stavoren-250710.md) | — | 278138 | revisar |
 
 ## 2009 (2)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [rapport_Treinongeluk_Barendrecht_EN-240909.md](2009/rapport_Treinongeluk_Barendrecht_EN-240909.md) | — | 359878 | revisar |
-| [rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md](2009/rapport_Treinongeluk_Barendrecht_EN_%2024.09.2009.md) | — | 357790 | revisar |
+| [rapport_Treinongeluk_Barendrecht_EN_ 24.09.2009.md](2009/rapport_Treinongeluk_Barendrecht_EN_%2024.09.2009.md) | — | 357790 | ok |
 
 ## 2008 (1)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [OVV-Rapport-Muiderpoort-221108.md](2008/OVV-Rapport-Muiderpoort-221108.md) | — | 254638 | ok |
+| [OVV-Rapport-Muiderpoort-221108.md](2008/OVV-Rapport-Muiderpoort-221108.md) | — | 254638 | revisar |
 
 ## 2006 (2)
 

@@ -10,13 +10,14 @@ chars: 523196
 ratio_longitud: 1.08
 tokens_in: 217787
 tokens_out: 163456
-verificacion: revisar
-notas_cifras: ["bloque 6: cifras cortas: 1/40", "bloque 7: cifras cortas: 9/19", "bloque 8: cifras cortas: 12/25", "bloque 9: cifras cortas: 3/5", "bloque 12: cifras cortas: 8/36", "bloque 13: cifras cortas: 8/80"]
-avisos: ["bloque 26: cifras largas: faltan 8/18 (44%)", "bloque 28: cifras largas: faltan 4/19 (21%)", "bloque 31: cifras largas: faltan 9/23 (39%)", "bloque 35: cifras largas: faltan 11/14 (79%)", "bloque 36: cifras largas: faltan 10/13 (77%)", "bloque 38: cifras largas: faltan 3/7 (43%)"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 55: cifras largas: faltan 2/2 (100%)", "página 59: cifras largas: faltan 8/18 (44%)", "página 62: cifras largas: faltan 3/5 (60%)", "página 66: cifras largas: faltan 3/7 (43%)", "página 72: cifras largas: faltan 2/4 (50%)", "página 73: cifras largas: faltan 9/10 (90%)"]
 ---
+
 ## Página 1
+
 
 REPÚBLICA HELÉNICA
 Organismo Nacional de Investigación
@@ -28,11 +29,12 @@ Colisión frontal entre un tren de pasajeros y un tren de mercancías
 en Tempi, 28 de febrero de 2023
 RL01-2025, 27 de febrero de 2025
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ## IN MEMORIAM 
 En respeto a las víctimas y sus familiares, el equipo investigador enumera todos los nombres y edades de las personas que perdieron la vida en el accidente de Tempi.  
@@ -94,13 +96,14 @@ Giannis Kariotis, 63 años
 Evangelia Koukarioti, 63 años 
 Giorgos Kyriakides, 67 años 
 Foto extraída de un vídeo mediático 
-https://www.ertnews.gr 
-
+https://www.ertnews.gr
 
 ## Página 4
 
 
+
 ## Página 5
+
 
 Aviso legal 
 Esta investigación se ha llevado a cabo de conformidad con: 
@@ -115,10 +118,10 @@ El contexto judicial del enfoque sin atribución de culpa, apertura y mejora par
 - Los informes sobre investigaciones y cualquier hallazgo y recomendación proporcionan información crucial para la ulterior mejora de la seguridad ferroviaria y deberán estar disponibles públicamente a nivel de la Unión. Las recomendaciones de seguridad deberán ser atendidas por los destinatarios y las acciones reportadas de vuelta al organismo investigador.  
 - Las recomendaciones de seguridad no crearán en ningún caso presunción de culpa ni responsabilidad por un accidente o incidente. 
 El Reglamento (UE) 2020/572 ofrece la posibilidad de anonimizar los nombres de las personas y organizaciones que contribuyen a las investigaciones del NIB [Organismo Nacional de Investigación]. 
-Los hallazgos documentados de este informe constituyen la expresión de una opinión imparcial como resultado de evaluaciones científicas, técnicas y organizativas de todos los elementos y datos puestos a disposición. 
-
+Los hallazgos documentados de este informe constituyen la expresión de una opinión imparcial como resultado de evaluaciones científicas, técnicas y organizativas de todos los elementos y datos puestos a disposición.
 
 ## Página 6
+
 
 © RL01-2025/EODASAAM copyright 27/02/2025 
 Puede reutilizar esta publicación (excluyendo el logotipo de la agencia) gratuitamente en cualquier formato o medio. Debe reutilizarla con exactitud y no en un contexto engañoso. Se debe reconocer el material como copyright RL01-2025/EODASAAM y debe indicar el título de la publicación fuente. Donde hayamos identificado material sujeto a derechos de autor de terceros, deberá obtener permiso de los titulares de los derechos correspondientes.  
@@ -129,6 +132,7 @@ Cualquier consulta sobre esta publicación debe enviarse a: Email: info@harsia.g
 Vitinis Street, 14-18, Nea Philadelphia, 14342, Greece.
 
 ## Página 7
+
 
 # Colisión frontal entre un tren de pasajeros y un tren de mercancías en Tempi,
 # 28/02/2023  
@@ -191,6 +195,7 @@ Otra información relevante ....................................................
 
 ## Página 8
 
+
 3.8.2. Relativo al contexto más amplio del sistema ferroviario .......................................................................... 29 
 3.9. 
 Descripción fáctica de los acontecimientos: cadena inmediata de eventos que condujo al suceso ...... 33 
@@ -242,6 +247,7 @@ El sistema de gestión de la seguridad de Hellenic Train .......................
 
 ## Página 9
 
+
 4.2.14. Seguimiento del rendimiento de los maquinistas ...................................................................................... 81 
 4.2.15. Garantizar la seguridad y protección de las operaciones de carga ............................................................ 82 
 Aprendizaje a partir de eventos anteriores ............................................................................................................. 82 
@@ -290,6 +296,7 @@ El funcionamiento de los servicios de emergencia ...............................
 4.5.6. Coordinación estratégica .......................................................................................................................... 114
 
 ## Página 10
+
 
 4.5.7. Plan de gestión de la pérdida humana ....................................................................................... 115 
 4.5.8. Preparación ante catástrofes ............................................................................................................ 116 
@@ -345,13 +352,14 @@ Anexo G. Glosario y acrónimos .................................................
 
 ## Página 11
 
+
 Prólogo
 La Rama Ferroviaria de EODASAAM es el Organismo Nacional de Investigación independiente para Grecia. Es responsable de la investigación de accidentes e incidentes en la red ferroviaria nacional. EODASAAM fue establecida por la Parte D de la Ley 5014 en enero de 2023, con el fin de cumplir la obligación de Grecia de establecer un organismo independiente de investigación de accidentes ferroviarios según lo previsto en el Artículo 20 de la Directiva Europea sobre Seguridad Ferroviaria 2016/798/CE; confirmando la obligación que ya había sido introducida con la Directiva 2004/49/(CE). La Ley 5014/2023 ha sido modificada por la Ley 5167/2024.
 EODASAAM investiga todos los accidentes graves, definidos como cualquier colisión de trenes o descarrilamiento de trenes que resulte en: a) muerte de una persona, b) lesiones graves a cinco o más personas y c) daños extensos al material rodante, infraestructura o medio ambiente. EODASAAM también puede decidir investigar accidentes e incidentes que, bajo diferentes circunstancias, podrían haber conducido a accidentes graves.
 El propósito de las investigaciones realizadas por EODASAAM es mejorar la seguridad ferroviaria destacando las causas y factores contribuyentes y emitiendo recomendaciones para evitar accidentes similares en el futuro. Los objetivos de las investigaciones de EODASAAM y de los informes resultantes no consisten en atribuir culpas ni responsabilidades. Esto se refleja en los métodos utilizados para su elaboración, la elección de los hechos recopilados, la naturaleza de las preguntas planteadas y los conceptos que utiliza. Asimismo, cualquier recomendación de seguridad emitida refleja responsabilidades para mejorar el sistema ferroviario y no crea una presunción de culpa o responsabilidad por el accidente o incidente investigado.
 
-
 ## Página 12
+
 
 1. Resumen
 1.1. El accidente del 28 de febrero de 2023
@@ -380,6 +388,7 @@ En una secuencia siguiente, la autorización para que el tren IC-62 saliera de l
 
 ## Página 13
 
+
 Esta secuencia de actividades se vio muy afectada por una falta general de aplicación estricta de la metodología estructurada de comunicación prescrita.¹⁰ Además, la metodología prescrita por las normas griegas está desfasada en comparación con estándares internacionales más recientes y el uso de un canal de radio abierto, habitual en los ferrocarriles griegos, no permite comunicaciones directas e ininterrumpidas relacionadas con la seguridad entre los jefes de estación y los maquinistas.
 En última instancia, se perdió la barrera potencial donde los maquinistas del IC-62 podrían haber reaccionado ante la información contradictoria entre la posición de los cambios y la autorización de movimiento concedida.¹¹ Aunque se esperaba que detuvieran el tren frente a los cambios mal posicionados 118 A/B y contactaran al jefe de estación para recibir instrucciones claras, no hay indicios de que los maquinistas del tren IC-62 reaccionaran ante la incompatibilidad de la posición de los cambios con la orden recibida. El factor principal que puede explicar esto es que no era infrecuente que los maquinistas fueran dirigidos a la vía contraria. Esto también había ocurrido antes ese mismo día en el tramo en cuestión, entre Larissa y Neoi Poroi, e incluso en el tramo por el que circulaban para llegar a la estación de Larissa, desde Paleofarsalo, para los maquinistas implicados.
 1.2.2. Factores subyacentes
@@ -393,6 +402,7 @@ La mayoría de las víctimas de este accidente se deben a los impactos que tuvie
 Basándose en las observaciones que pudieron realizarse, no hay indicios de que el equipo técnico del material rodante utilizado diera lugar a la formación y expansión de la enorme bola de fuego que surgió tras el impacto, y que posteriormente resultó en los incendios secundarios. Con las pruebas existentes es imposible determinar qué
 
 ## Página 14
+
 
 causó exactamente el incidente, pero las simulaciones y los informes de expertos indican la posible presencia de un combustible hasta ahora desconocido.
 Aunque no existía una obligación legal explícita para hacerlo, queda por evaluar si dotar al material rodante con materiales ignífugos más eficaces podría haber desempeñado un papel en las probabilidades de supervivencia de las pocas víctimas que sobrevivieron a la colisión inicial y perdieron la vida a causa del incendio.
@@ -413,6 +423,7 @@ OSE necesita comprender mejor los riesgos relacionados con la realidad operativa
 
 ## Página 15
 
+
 la fiabilidad de sus activos físicos y gestionar los riesgos para la seguridad asociados a ellos a lo largo de su ciclo de vida. OSE debe evaluar periódicamente la competencia del personal que realiza tareas relacionadas con la seguridad y mantenerlas. Esto incluye el conjunto de competencias relacionadas con las habilidades no técnicas y las disposiciones relativas a la aptitud física y psicológica, no solo al contratar personal, sino también durante toda su carrera. OSE debería desarrollar un sistema de seguimiento del rendimiento, para detectar cualquier deterioro en el desempeño de las tareas relacionadas con la seguridad por parte de los jefes de estación u otro personal que realice tareas críticas para la seguridad. Además, es necesario crear el potencial para que OSE aprenda lecciones de incidentes y accidentes. Esto debería conducir a la implementación de medidas de mejora estructural que puedan crear un entorno que apoye el trabajo del personal operativo. Por último, OSE debería maximizar la disponibilidad de datos registrados que podrían ayudar en el análisis de accidentes e incidentes y debería reflexionar sobre la posibilidad de utilizar estas tecnologías para el seguimiento continuo del rendimiento en materia de seguridad en un contexto no punitivo.
 Se recomienda a Hellenic Train reforzar su sistema de gestión de competencias, con el fin de garantizar que los maquinistas de tren31 (y otro personal, cuando corresponda) que realizan tareas relacionadas con la seguridad estén preparados para ello, que su competencia se evalúe y mantenga periódicamente y que las tareas se lleven a cabo en consecuencia, incluido el conjunto de competencias relacionadas con las habilidades no técnicas y las disposiciones relativas a la aptitud física y psicológica. Además, se debería desarrollar un sistema para supervisar el rendimiento de los maquinistas, para crear la capacidad de detectar cualquier deterioro en el desempeño de las tareas relacionadas con la seguridad.
 Para reforzar el potencial del sector ferroviario griego para aprender de los sucesos adversos, la Autoridad Nacional de Seguridad, RAS, debería desarrollar un sistema de notificación de sucesos que proporcione la estructura y taxonomía necesarias para la notificación obligatoria de sucesos relacionados con la seguridad por parte del gestor de infraestructura y de todas las empresas ferroviarias que operan en la red griega. Al menos tan importante, e incluso más urgente, es la necesidad de que RAS refuerce su capacidad de supervisión con el objetivo de establecer una visión sobre el nivel de rendimiento en materia de seguridad del sistema ferroviario griego.
@@ -420,6 +431,7 @@ Se recomienda a la Agencia Ferroviaria de la Unión Europea adoptar medidas para
 Por último, se recomienda al Ministerio griego para la Crisis Climática y Protección Civil desarrollar, en colaboración con los diferentes servicios de emergencia (Bomberos, Apoyo Médico y Psicosocial, Policía, Protección Civil) y basándose en buenas prácticas reconocidas internacionalmente, instrucciones detalladas para un Plan de Respuesta ante Emergencias y Gestión de Crisis que permita una asistencia rápida y, sobre todo, coordinada durante una situación de emergencia. Este plan debe incluir instrucciones claras para la coordinación de situaciones de emergencia a nivel operativo y de gestión estratégica, para el establecimiento de perímetros, para el mapeo adecuado del lugar del accidente y para prevenir y reducir los riesgos del Trastorno de Estrés Postraumático.
 
 ## Página 16
+
 
 2. La investigación y su contexto 
 2.1. Decisión 
@@ -479,6 +491,7 @@ investigador, el mapeo es respecto al lugar del accidente lo que el patólogo fo
 
 ## Página 17
 
+
 Además, este accidente catastrófico ha tenido, comprensiblemente, un impacto social, dando lugar a un flujo continuo de medios de comunicación que ha generado un «modelo mental» del accidente y sus causas dado por sentado. No puede descartarse que esto haya influido en las declaraciones obtenidas e incluso en los recuerdos percibidos como verdaderos de algunas de las personas con las que nos hemos reunido y a las que hemos interrogado.
 42 
 Por último, aunque no debe extraerse presunción alguna de culpa de las recomendaciones de seguridad emitidas mediante este informe, cabe señalar que la investigación judicial en curso proyectó su sombra sobre la investigación, al llevar a varias de las partes implicadas a compartir algunos documentos solo tras un estricto examen por parte de su servicio jurídico y/o la alta dirección. Esta práctica podría dar lugar a una situación en la que el potencial de aprendizaje derivado del accidente a través de esta investigación no se aproveche plenamente, ya sea retrasando la entrega de información o incluso la retención de información importante. En cuanto a la cooperación, específicamente con las partes interesadas que estuvieron más directamente involucradas, debe señalarse que la investigación tuvo que hacer frente a largos retrasos (entre 2 y 4 meses en general) desde la solicitud formal de pruebas hasta su eventual liberación al equipo investigador. En algunos casos, las pruebas solicitadas no se pusieron a disposición en absoluto. Esta posible cultura defensiva es deplorable, habida cuenta del deber legal de mejora continua e investigación objetiva.
@@ -511,6 +524,7 @@ Al final del período de investigación, se organizó una consulta importante, c
 
 ## Página 18
 
+
 2.6. Niveles de cooperación  
 Desde noviembre de 2023 y durante toda la investigación, a solicitud de esta, el equipo investigador tuvo acceso a todas las 51 pruebas, documentos y declaraciones de testigos, así como de personas imputadas, que fueron obtenidos a través de la investigación judicial. 
 Además, durante la investigación, el equipo investigador contactó y consultó a las siguientes organizaciones 52 y entrevistó a más de 60 individuos o grupos de personas afectadas:  
@@ -536,13 +550,15 @@ Cabe señalar que el equipo investigador no ha podido entrevistar a una de las p
 Información importante para este informe también fue obtenida de los informes y hallazgos preexistentes que fueron elaborados inmediatamente después del accidente y durante esta investigación por diferentes expertos, autoridades (p. ej., RAS, Cuerpo de Bomberos, Policía), organizaciones operativas y representantes de las familias. 
 En cuanto a la cooperación interna, dentro del equipo de investigadores, se tomaron medidas de control de riesgos para garantizar la independencia de los miembros del comité, dado que todos ellos trabajaban en el sector ferroviario. Cada uno firmó una declaración de conflicto de intereses, para informar al Consejo de EODASAAM de sus cargos anteriores o actuales. 
 2.7. Descripción de los métodos de investigación 
-Esta investigación se basa principalmente en una extensa revisión documental, análisis de grabaciones existentes (datos, imágenes, vídeo y sonido), declaraciones existentes, entrevistas adicionales con todas las partes interesadas, observaciones in situ, visitas al lugar en Larissa, Tempi y Koulouri, sustituciones (que permiten comparar lo ocurrido en el accidente con lo que sucede en condiciones similares en otros lugares de la organización) para actividades relacionadas tanto con la operación de trenes como con la gestión del tráfico (viaje en cabina de conducción, salas de control de tráfico), cuestionarios y pericia externa sobre temas específicos. La lista de conjuntos de pruebas y su fuente figura en el Anexo E. 
+Esta investigación se basa principalmente en una extensa revisión documental, análisis de grabaciones existentes (datos, imágenes, vídeo y sonido), declaraciones existentes, entrevistas adicionales con todas las partes interesadas, observaciones in situ, visitas al lugar en Larissa, Tempi y Koulouri, sustituciones (que permiten comparar lo ocurrido en el accidente con lo que sucede en condiciones similares en otros lugares de la organización) para actividades relacionadas tanto con la operación de trenes como con la gestión del tráfico (viaje en cabina de conducción, salas de control de tráfico), cuestionarios y pericia externa sobre temas específicos. La lista de conjuntos de pruebas y su fuente figura en el Anexo E.
 
 ## Página 19
 
-Las técnicas de análisis aplicadas, siempre basadas en un sólido enfoque fundamentado en pruebas, permitieron profundizar aún más en la investigación con el objetivo de garantizar un análisis sistemático de todas las circunstancias influyentes en las acciones y/o decisiones, y un análisis sistemático de los mecanismos de retroalimentación y control, incluida la gestión de riesgos y seguridad, así como los procesos de seguimiento. 
+
+Las técnicas de análisis aplicadas, siempre basadas en un sólido enfoque fundamentado en pruebas, permitieron profundizar aún más en la investigación con el objetivo de garantizar un análisis sistemático de todas las circunstancias influyentes en las acciones y/o decisiones, y un análisis sistemático de los mecanismos de retroalimentación y control, incluida la gestión de riesgos y seguridad, así como los procesos de seguimiento.
 
 ## Página 20
+
 
 3. Descripción del suceso 
 3.1. Descripción del tipo de suceso 
@@ -550,14 +566,16 @@ El suceso objeto de investigación es una colisión frontal entre un tren de pas
 3.2. Fecha, hora exacta y ubicación 
 El 28/02/2023, poco después de las 23:18, el tren de pasajeros IC-62 colisionó frontalmente con el tren de mercancías 63503. Ambos circulaban en sentido contrario por la vía descendente entre la estación de Larissa y Neoi Poroi. 
 El punto estimado de colisión es el km 371+600 de la vía descendente (de Tesalónica a Atenas), aproximadamente 80 metros al norte del túnel que guía la Autopista del Egeo sobre las líneas ferroviarias.  
-Figura 1. Tempi situada en un mapa global de Grecia 
+Figura 1. Tempi situada en un mapa global de Grecia
 
 ## Página 21
+
 
 Figura 2. Ubicación del accidente de Tempi, cerca de Tempi, después de Larissa viniendo desde Atenas 
 Figura 3. Fotos de los túneles en el lugar del accidente (izquierda, satélite – derecha, desde la carretera adyacente)
 
 ## Página 22
+
 
 3.3. Descripción global del contexto local de la incidencia
 El punto de impacto se encuentra en el pk 371+600 de la vía descendente desde Tesalónica hacia Atenas. La vía fue
@@ -622,8 +640,8 @@ Tabla 2. Daños en el material rodante
 personal de limpieza, 2 pasajeros sin billete desde Larisa = 355 menos 1 que llamó para decir que no viajaba = 354 en ambos trenes o 352 personas en
 el tren de pasajeros + 2 personas en el tren de mercancías.
 
-
 ## Página 23
+
 
 68 Daños en la infraestructura eléctrica: Como resultado de la colisión, dos pilares de soporte de la catenaria quedaron
 completamente destruidos: el 371.19 en sentido normal de circulación (Atenas a Tesalónica) y el 371.20 (incluida la cimentación del poste) en sentido contrario de circulación. Las líneas aéreas de contacto (25.000 Voltios) en ambas vías fueron cortadas y también el equipo instalado correspondiente. La reparación de los daños fue realizada por equipos técnicos de OSE y se completó en ambas vías el 15/03/2023.
@@ -633,6 +651,7 @@ Todos los servicios de tren fueron interrumpidos durante un periodo de un mes. L
 El accidente ha suscitado críticas generalizadas por la gestión estatal de la investigación, planteando preocupaciones sobre la imparcialidad e integridad del sistema judicial. En Grecia, siguieron al accidente protestas, vigilias y disturbios, algunas de las mayores protestas en la historia griega, con los eslóganes "Πάρε με όταν φτάσεις" ("Llámame cuando llegues") y “Δεν έχω οξυγόνο” (“No tengo oxígeno”) ganando prominencia. La Asociación de Familiares de las Víctimas lanzó una petición en línea, reuniendo más de 1,3 millones de firmas para presionar por la abolición de la inmunidad ministerial e iniciar una investigación sobre los ministros responsables de la seguridad ferroviaria. Los medios de comunicación continúan enfocándose en el incidente y los procedimientos legales hasta el día de hoy, y un gran concierto celebrado el 11 de octubre de 2024 en memoria de las víctimas fue atendido por decenas de miles de personas y transmitido a aproximadamente 1,3 millones de espectadores únicos. El accidente sigue agitando las emociones públicas también en 2025, con manifestaciones masivas en Atenas y otras ciudades el 26 de enero.
 
 ## Página 24
+
 
 3.5 Identificación de todos los roles y entidades relevantes para la investigación  
 ΟRGANISATION OF RAILWAYS OF GREECE (OSE) es el único gestor de infraestructura griego, responsable de la 
@@ -693,10 +712,10 @@ La Secretaría General de Protección Civil es un departamento del Ministerio de
 y es responsable de la preparación e implementación del Plan de Gestión de Pérdidas Humanas, cuando ocurren grandes desastres que conducen a la pérdida de muchas vidas humanas. 
 El Centro Nacional de Emergencias (EKAV) es un organismo de rescate y opera bajo la responsabilidad del Ministerio de 
 81 
-Salud. Su propósito es enviar personal especializado al lugar de una emergencia para rescatar y proporcionar asistencia inmediata 
-
+Salud. Su propósito es enviar personal especializado al lugar de una emergencia para rescatar y proporcionar asistencia inmediata
 
 ## Página 25
+
 
 y luego trasladar a las personas a las instalaciones sanitarias adecuadas (hospitales, centros de salud). Las operaciones 
 se llevan a cabo mediante ambulancias u otros medios, como motocicletas, helicópteros, barcos y unidades especiales. 
@@ -712,6 +731,7 @@ La Dirección General de Movilidad y Transporte (DG MOVE) es una Dirección Gene
 Europea responsable del transporte dentro de la Unión Europea. DG MOVE es responsable de desarrollar e implementar políticas europeas en el ámbito del transporte y lleva a cabo estas tareas utilizando propuestas legislativas y gestión de programas, incluyendo la financiación de proyectos.
 
 ## Página 26
+
 
 3.6. Descripción e identificadores de todo el material rodante implicado
 El tren de mercancías 63503 (peso total 875 t) estaba configurado con dos locomotoras eléctricas idénticas en doble tracción acoplada (la locomotora 120-022 en primera posición y la locomotora 120-012 en segunda posición). Con 13 vehículos idénticos (plataformas): los 3 primeros cargados con chapas de acero, los 10 restantes cargados con contenedores, según la configuración descrita en el Anexo A.
@@ -737,16 +757,16 @@ El tren de pasajeros IC-62 (peso total aproximadamente 560 t) tenía la configur
 
 Tabla 3. Configuración del tren IC-62 y configuración del tren 63503
 
-
 ## Página 27
+
 
 3.7. Descripción de las partes relevantes de la infraestructura
 Figura 4. Mapa ferroviario con las estaciones de Paleofarsalo, Larissa y Neoi Poroi
 La estación de ferrocarril de Larissa está situada en el PK 345+407 (medido desde la Estación Central de Atenas). Durante el accidente, la estación anterior tripulada era Paleofarsalo (PK 303+105) y la siguiente estación tripulada era Neoi Poroi (PK 392+936).
 La estación de Larissa tiene un total de 6 vías (número 1 a número 6). Las vías 1 y 2 están dedicadas al tráfico principal (Atenas—Tesalónica). La vía 1 se utiliza normalmente en dirección geográficamente descendente, de Tesalónica a Atenas (denominada «vía descendente» más adelante en el texto), mientras que la vía 2 suele utilizarse para el tráfico en la otra dirección, ascendente, de Atenas a Tesalónica (denominada «vía ascendente» más adelante en el texto). La vía 3 se utiliza para el tráfico local hacia y desde Volos. La vía 4, una vía muerta situada entre las vías 2 y 3, también llamada «morta», se utiliza para el tren suburbano hacia y desde Tesalónica. La vía 5 se utiliza principalmente para el tráfico de mercancías y la vía 6 es una variante, utilizada habitualmente para maniobras.
 
-
 ## Página 28
+
 
 ## VÍA 3
 Figura 5. Esquema de las vías en la estación de Larissa tal como se representa en el panel de control de la Estación de Larissa
@@ -757,6 +777,7 @@ El tipo de vía es UIC 60, soldada continua. La línea es de doble vía con anch
 Figura 6. Mapa ferroviario de la Estación de Larissa (de Google Maps, 04/2023)
 
 ## Página 29
+
 
 La señalización a la salida de la estación de Larissa hacia Tesalónica no estaba operativa, porque las obras de renovación (cubiertas por el contrato 717) solo se habían realizado parcialmente. Como resultado, la señal LAR11 para salir de la estación de Larissa hacia el norte mostraba continuamente un aspecto de parada. En consecuencia, los jefes de estación que trabajaban en Larissa debían dar personalmente la orden al maquinista (mediante formulario escrito 1001 o telegrama³ vía radio VHF) de pasar la señalización en rojo para continuar hacia la siguiente estación atendida, Neoi Poroi.
 El día del accidente, a las 15:55, cuando el tren de pasajeros IC-56 (Atenas a Tesalónica por la vía ascendente) se detuvo en la estación de Paleofarsalo para desembarcar pasajeros, el cable aéreo de alimentación se rompió debido a un pantógrafo defectuoso y cayó sobre el tren y la vía situada delante de él. Como resultado, el tren quedó detenido y la vía ascendente estuvo bloqueada hasta que se restableció la línea aérea de contacto. Por esta razón, el tráfico entre Paleofarsalo y Larissa se operó por la única vía descendente, para ambas direcciones, entre las 16:15 del 28/02/2023 y las 01:05 del 01/03/2023.
@@ -774,6 +795,7 @@ Los documentos internos de OSE indican que en el primer semestre de 2021 se soli
 3 Un telegrama es una comunicación concisa y formal utilizada para transmitir mensajes operativos o críticos para la seguridad, entregada ya sea oralmente a través de sistemas de comunicación de voz o por escrito mediante la entrega de notas, cuya estructura está estrictamente definida por el Reglamento General de Movimiento (GKK) para garantizar la claridad y la estandarización. Los dos métodos (telegrama oral o entrega personal de la nota 1001) son equivalentes. La elección de uno u otro método queda a discreción del personal de tráfico. La entrega del telegrama oral es preferible en casos donde las condiciones hacen difícil la entrega personal (andén de difícil acceso desde la oficina de tráfico, longitud larga del tren).
 
 ## Página 30
+
 
 Durante el transcurso de 2022, tras comprender que el proceso estatal mencionado anteriormente no conduciría a contrataciones directas<sup>100</sup> y teniendo que hacer frente a las jubilaciones continuas, el Consejo de Administración de OSE decidió contratar a un número de empleados sobre la base de contratos laborales de duración determinada (renovables si se cumplían los requisitos). Este personal (aproximadamente más de 200 en total, de los cuales unos 70 eran jefes de estación) fue contratado durante el verano de 2022 y asumió sus funciones en enero de 2023 (tras un período de formación de aproximadamente seis o siete meses).
 Desde entonces, OSE ha seguido contratando empleados contractuales con contratos de seis meses, renovables, que a 30/09/2024 eran aproximadamente 400. Observamos que, con estos empleados contractuales, OSE opera actualmente con aproximadamente el 45 % del personal que debería tener según su organigrama.
@@ -802,8 +824,8 @@ Tabla 4. Evolución del número de personal permanente de OSE desde 2010 (Fuente
 No está claro si este número de 2.097 empleados, establecido por la ley L3891/2010 y cifra con la que OSE funcionaba en épocas anteriores, sigue siendo realista y refleja el uso actual restringido de la red ferroviaria<sup>102</sup>. Cabe señalar que el número de personal requerido para el gestor de infraestructura depende de una serie de factores dinámicos que podrían cambiar de un año para otro.
 Sin embargo, al comparar con la evolución en otros Estados miembros europeos, se observa una importante disminución en el número de empleados del gestor de infraestructura por kilómetro de línea entre 2015 y 2016, lo cual es coherente con las cifras de la UE. Pero mientras que estas últimas aumentan progresivamente tanto en 2018 como en 2020, los valores griegos permanecen constantes o incluso disminuyen<sup>103</sup>.
 
-
 ## Página 31
+
 
 Figura 7. Empleo en Gestores de Infraestructura en Europa y Grecia (fuente: ERA)
 
@@ -811,8 +833,8 @@ Además, a partir de 2016, Grecia presenta el nivel más bajo de gasto en manten
 
 Figura 8. Gasto en Mantenimiento en Europa y Grecia (fuente: ERA)
 
-
 ## Página 32
+
 
 Al comparar la inversión en infraestructura de los últimos 20 años, solo en el período 2003-2004 el gasto ferroviario fue superior al gasto viario. Los márgenes más amplios entre ambos valores se dan en 2013 y 2016-2017, donde hubo un aumento en la inversión viaria mientras disminuía la inversión ferroviaria (coincidiendo con los años más severos de la crisis)<sup>105</sup>.
 
@@ -823,6 +845,7 @@ En conclusión, puede afirmarse con seguridad que el sector ferroviario griego s
 <sup>4</sup> El eje vertical de esta figura indica 2e+09 etc., que es una notación para 2x10<sup>9</sup> o 2.000.000.000
 
 ## Página 33
+
 
 3.9. Descripción factual de los acontecimientos: cadena inmediata de sucesos que condujeron al incidente
 3.9.1. La regulación del tráfico ferroviario
@@ -856,9 +879,10 @@ Lo más probable es que el jefe de estación de Larisa manipule las teclas del p
 A las 22:53, el maquinista del tren IC-62, cuando se encuentra en la zona de Mezourlo, contacta con el jefe de estación de Larisa para anunciar su llegada a Larisa. Mientras el operador de agujas aún no ha terminado el ajuste in situ de la aguja 101 en la entrada de la estación de Larisa, el jefe de estación de Larisa pide al maquinista del tren IC-62 que espere.
 120 
 En reacción, alrededor de las 22:54, el maquinista del tren IC-62 reduce la velocidad del tren a menos de 20 km/h. A las 22:57 vuelve a acelerar, al recibir la autorización para entrar en la estación del jefe de estación de Larisa mediante el telegrama 45, para luego volver a reducir la velocidad para la entrada en la estación. El tren IC-62 finalmente se detiene en la vía 2 de la estación de Larisa a las 23:02.
-121 
+121
 
 ## Página 34
+
 
 A las 23:05, mediante el telegrama 47, el jefe de estación de Larisa da al tren IC-62 la autorización para pasar la señal LAR11, que muestra permanentemente un aspecto de parada, sin indicación de cambio de vía desde la vía ascendente.
 122 
@@ -876,6 +900,7 @@ Poco después de las 23:18 – Colisión frontal entre el IC-62 y el 63503.
 
 ## Página 35
 
+
 3.9.2. La colisión de los trenes  
 Debido a la falta de imágenes claras, una reconstrucción del curso de los acontecimientos y del mecanismo exacto de la colisión solo puede basarse en el movimiento direccional conocido de los trenes, su velocidad y masa, así como en la posición y los daños observados en los diferentes vehículos tras el accidente. Esta reconstrucción se ve además obstaculizada por la forma en que se trató la zona del accidente después de las operaciones de rescate (4.5.3).  
 128 
@@ -884,35 +909,36 @@ B3
 Figura 10. La posición final de las 3 locomotoras y algunos de los coches de pasajeros y vagones de mercancías (http://www.intime.gr/). 
 La 1ª fase involucró principalmente a los primeros 4 vehículos de los dos trenes: las locomotoras 120-022 (primera) y 120-012 (segunda) del tren de mercancías y la locomotora 120-023 con su coche A1 de primera clase. El impacto inicial es una colisión frontal entre la locomotora del tren de pasajeros 120-023 y la primera locomotora del tren de mercancías 120-022, lo que provoca que esta última, junto con la segunda locomotora 120-012, sea catapultada hacia su izquierda sobre la vía ascendente y estrellada contra el muro de la autopista, haciendo la segunda locomotora un giro en U y deslizándose su parte trasera sobre las placas de acero transportadas en la 3ª plataforma del tren de mercancías para detenerse con su parte delantera contra la primera locomotora y su parte trasera apoyada contra el primer contenedor de transporte situado encima de la 4ª plataforma del tren de mercancías (Figura 10, Figura 11, Figura 12). 
 Figura 11. Movimiento global de la colisión, con el impacto inicial y los efectos de catapulta.  
-(SP1,2,3 son Placas de Acero, y también fueron catapultadas) 
-
+(SP1,2,3 son Placas de Acero, y también fueron catapultadas)
 
 ## Página 36
+
 
 ## X 
 Figura 12. La zona del accidente. 
 Punto estimado de la 1ª colisión: X, Locomotora de mercancías 120-022: L1, y 120-012: L2, Locomotora del tren de pasajeros 120-023: Áreas de locomotoras, Coche A1 de primera clase: Áreas A1, Área del Coche Restaurante, Segunda clase B2 sobre cabeza B3, luego B3, B4, B5, B6, (B7 bajo el túnel), Plataformas del tren de mercancías P 1-2-3-4, y vagones de mercancías 4-7 (y otros 6 no mostrados en la figura).
 
-
 ## Página 37
+
 
 Figura 13. Locomotoras 120-022 y 120-012 del tren de mercancías 63503 tras el accidente. Vista frontal, desde la carretera. 
 Figura 14. La primera locomotora del tren de mercancías (120-022) mostrando daños extremos debido a la muy grave colisión frontal con la locomotora (120-023) del tren de pasajeros. 
 Del examen de los restos de la primera locomotora del tren de mercancías 120-022, está claro que la colisión frontal dobló el parachoques delantero hacia abajo y hacia dentro (Figura 14, Figura 15), doblando severamente las vigas pesadas del bastidor inferior de la locomotora, mientras que al mismo tiempo el hecho de que falte el techo (Figura 16) es una indicación de que la locomotora del tren de pasajeros 120-023 pasó por encima y a través del techo de esta locomotora 120-022.  
 131 
-Figura 15. Movimiento de la locomotora del tren de pasajeros 120-023 por encima y a través del techo de la locomotora del tren de mercancías 120-022. 
-
+Figura 15. Movimiento de la locomotora del tren de pasajeros 120-023 por encima y a través del techo de la locomotora del tren de mercancías 120-022.
 
 ## Página 38
+
 
 Figura 16. Vista frontal de la locomotora 120-022, sin techo. 
 La locomotora del tren de pasajeros 120-023 sigue una trayectoria ligeramente hacia la izquierda en su dirección de marcha hacia el talud inferior, donde golpea el suelo, seguida por el coche de pasajeros de primera clase. Debido al impacto inicial muy grave, esta locomotora 120-023 ha sido completamente destruida (Figura 17), y sus partes fueron encontradas en un ángulo de aproximadamente 20 grados a la izquierda y a una distancia de 30 a 45 metros. El coche A1 del tren de pasajeros fue completamente desintegrado debido a las cargas mecánicas extremas del impacto y sus partes más pesadas siguieron una trayectoria cercana a la trayectoria de las partes de la locomotora, en un ángulo aproximado de 25 a 30 grados a la izquierda. Sus partes más ligeras (asientos, paneles interiores y accesorios, equipaje, y todas las víctimas) quedaron dispersas en un área más amplia antes de la posición final del vehículo (véase la Figura 12 global). 
 Figura 17. Parte (bastidor) de la locomotora 120-023 del tren de pasajeros IC-62 completamente destruida. 
 Tras la colisión inicial que daña gravemente los primeros 4 vehículos implicados (las dos locomotoras del tren de mercancías y la locomotora y el coche de primera clase, A1, del tren de pasajeros), estos ya no están unidos mecánicamente a las partes restantes de sus respectivos trenes. Respecto al movimiento de los vehículos restantes de los dos trenes, no es posible calcular con precisión las velocidades de los dos trenes en la 2ª fase de la colisión. Pero sabemos que los trenes se mueven ahora más lentamente porque parte de su energía cinética se perdió debido al 1er impacto y también todos los frenos han sido activados (por activación manual del freno de emergencia en el tren de mercancías 1 segundo antes de la 1ª colisión, y por activación automática de los frenos mecánicos en el tren de pasajeros debido a la pérdida de presión de aire como resultado de la 1ª colisión).  
 132 
-133 
+133
 
 ## Página 39
+
 
 La segunda colisión es otra grave colisión frontal que tiene lugar entre el Coche Restaurante (es decir, el 3er vehículo) del tren IC-62 y un área entre la parte trasera de la locomotora 120-012 y el primero de los vagones que transportan placas de acero (Figura 18). El esfuerzo por localizar y examinar todos los restos de los vehículos correspondientes del tren de mercancías muestra que no es posible localizar e identificar todas estas partes. 
 Figura 18. Área estimada para la segunda colisión del tren de mercancías (imagen simulada detrás de una captura de vídeo). 
@@ -923,15 +949,17 @@ Figura 19. Restos de la primera plataforma que transportaba placas de acero.
 
 ## Página 40
 
+
 La cabina del conductor trasera de la locomotora 120-012 parece estar separada del resto del vehículo y no puede
 136 
 identificarse por completo en ningún lugar entre los restos, aparte de una pequeña parte de su techo y del faro superior (delante del primer contenedor). El resto de la cabina no puede identificarse como un todo y tampoco el panel frontal con el número pintado y los dos faros rojos son reconocibles entre los restos. Presumiblemente, la estructura que falta se encuentra entre los restos aplastados y quemados del Coche Restaurante, ya que este es el único lugar en toda la zona del accidente donde el fuego ardió con tanta intensidad que consumió totalmente la pintura industrial pesada de la locomotora azul, haciéndola irreconocible. 
 Figura 20. Extremo trasero ausente de la locomotora 120-012. 
 Esta segunda colisión causa daños muy graves al Coche Restaurante (Figura 21), que queda doblado en forma de S
 137 
-principalmente debido a este impacto inicial, pero también sufriendo daños mientras rodaba e impactaba contra el suelo en su camino hacia el talud inferior, para terminar casi encima de los restos de la locomotora 120-023 y del coche de primera clase A1 destruido. 
+principalmente debido a este impacto inicial, pero también sufriendo daños mientras rodaba e impactaba contra el suelo en su camino hacia el talud inferior, para terminar casi encima de los restos de la locomotora 120-023 y del coche de primera clase A1 destruido.
 
 ## Página 41
+
 
 Figura 21. Restos del Coche Restaurante, a la izquierda, en forma de S tal como fue hallado in situ, y a la derecha, su plataforma en el emplazamiento de Koulouri. 
 Al comparar los daños en las placas de acero y en el Coche Restaurante, puede considerarse como lo más probable que el
@@ -943,9 +971,10 @@ Durante la 3ª fase, hay algo de energía cinética restante en los otros vehíc
 momento lineal hacia adelante continúa con su centro de masa siguiendo el nuevo vector de velocidad que resultó después de las colisiones graves de la 1ª y 2ª fase. La energía cinética se disipa por la acción de frenado de todos los vagones y por los vagones descarrilados reduciendo velocidad al deslizarse contra la grava y la vegetación al lado de las vías. 
 Descarrilado por la colisión del Coche Restaurante, el vehículo B2 (un coche de pasajeros dividido en 11 compartimentos de 6 plazas)
 140 
-continúa recto hacia adelante con un ligero ángulo respecto a las vías del tren, picando hacia abajo y golpeando el suelo con su extremo delantero, doblando y rompiendo su sección delantera en medio del compartimento nº 2. Después del impacto frontal, la parte trasera del vagón se eleva alto y hacia la izquierda y baja para golpear el frente del coche de pasajeros B3. 
+continúa recto hacia adelante con un ligero ángulo respecto a las vías del tren, picando hacia abajo y golpeando el suelo con su extremo delantero, doblando y rompiendo su sección delantera en medio del compartimento nº 2. Después del impacto frontal, la parte trasera del vagón se eleva alto y hacia la izquierda y baja para golpear el frente del coche de pasajeros B3.
 
 ## Página 42
+
 
 Figura 23. Restos del coche B2 
 Este coche B3, mientras tanto, está descarrilado y virando hacia la izquierda, su extremo delantero moviéndose cuesta abajo y cortando pequeños árboles y arbustos, mientras su extremo trasero es empujado recto hacia adelante por el coche B4 (todavía acoplados entre sí),
@@ -957,20 +986,23 @@ del coche B2 se rompa y caiga hacia abajo, mientras que al mismo tiempo causa da
 Figura 24. Restos del coche B3 
 Mientras tanto, los 12 vehículos restantes del tren de mercancías 63503 y los 4 vehículos restantes del IC-62 continúan su
 143 
-última parte de su movimiento hacia adelante, donde además de la acción de frenado hay también impacto lateral entre las placas de acero y los laterales de la 2ª y 3ª plataforma y los laterales de los coches B3, B4 y B5 del tren de pasajeros (Figura 25).  
+última parte de su movimiento hacia adelante, donde además de la acción de frenado hay también impacto lateral entre las placas de acero y los laterales de la 2ª y 3ª plataforma y los laterales de los coches B3, B4 y B5 del tren de pasajeros (Figura 25).
 
 ## Página 43
+
 
 Figura 25. Impacto lineal de las placas de acero sobre el lateral del coche B4. 
 Finalmente, el cuarto vagón del tren de mercancías que transporta un contenedor marítimo, golpea la segunda locomotora de mercancías 120-
 144 
-012 y luego se detiene. En la página siguiente (Figura 26), un conjunto de imágenes extraídas de una secuencia animada propone una vista general de las colisiones con sus marcas de tiempo: imagen 2 mostrando el 1er impacto, imagen 4 el 2º impacto e imágenes 5 y 6 el movimiento hasta la parada.     
+012 y luego se detiene. En la página siguiente (Figura 26), un conjunto de imágenes extraídas de una secuencia animada propone una vista general de las colisiones con sus marcas de tiempo: imagen 2 mostrando el 1er impacto, imagen 4 el 2º impacto e imágenes 5 y 6 el movimiento hasta la parada.
 
 ## Página 44
+
 
 Figura 26. Vista general del mecanismo simulado del accidente con las marcas de tiempo: imagen 2 mostrando el 1er impacto, imagen 4 el 2º impacto e imágenes 5 y 6 el movimiento hasta la parada.
 
 ## Página 45
+
 
 3.9.3. Los arcos eléctricos, la bola de fuego y la propagación de los incendios  
 Las grabaciones de tres cámaras que han registrado el accidente parecen ser la única evidencia disponible en la 
@@ -996,10 +1028,10 @@ Aproximadamente 2 segundos después de la ignición inicial, comienza una segund
 148 
 moviéndose hacia el norte, alejándose de la bola de fuego de la 1ª etapa. Esta nueva pluma de fuego alimenta la bola de fuego original hasta que esta crece 
 casi al doble de su tamaño (80 metros) aproximadamente 4 segundos después de la ignición (Figura 28, Figura 29, Figura 
-30).  
-
+30).
 
 ## Página 46
+
 
 Figura 28. Primera (izquierda) y segunda etapa (derecha) de la bola de fuego. 
 Posteriormente, aproximadamente 6,5 segundos después de la ignición inicial, la bola de fuego entra en su fase de extinción por agotamiento y finalmente 
@@ -1013,10 +1045,10 @@ extinguido por sí solas, indicando el inicio de una nueva, tercera etapa.
 El incendio de charco #1 puede verse ardiendo intensamente, cerca de las locomotoras del tren de mercancías, durante aproximadamente 30 segundos. 
 151 
 Después de eso, continúa durante un período de tiempo desconocido ardiendo con llamas más pequeñas que pueden verse en vídeos de pasajeros pero no lo suficientemente grandes para ser registradas por las cámaras remotas que vigilan la escena. La evidencia de vídeo muestra llamas más fuertes durante 20 segundos y luego una disminución en el tamaño de la llama que oculta el fuego a la vista, por lo que 
-no es posible estimar con precisión la duración de este incendio de charco.  
-
+no es posible estimar con precisión la duración de este incendio de charco.
 
 ## Página 47
+
 
 Figura 30. Aclaración de la secuencia con su cronometraje. 
 Es muy probable que este incendio de charco #1 en algún momento caliente el aceite de silicona dentro del transformador de la primera 
@@ -1029,10 +1061,10 @@ El incendio de charco #2 arde con una llama muy fuerte durante al menos 60 segun
 (cambio de color de la llama), lo que hizo que el fuego continuara ardiendo con mayor intensidad durante al menos 60 minutos después de la colisión. 
 Este fuego ha crecido tan fuerte en los primeros 30 minutos que el primer esfuerzo de extinción de incendios a las 00:02 (43 minutos después del 
 inicio del fuego) desde un solo camión de bomberos bombeando agua desde las líneas ferroviarias hacia el fuego debajo, tuvo un efecto mínimo o insignificante.  
-Figura 31. Incendios de charco #1 y #2 
-
+Figura 31. Incendios de charco #1 y #2
 
 ## Página 48
+
 
 No hay suficientes fotos y vídeos para seguir la decadencia de este fuego hasta que a las 02:09 puede verse ardiendo con 
 154 
@@ -1049,6 +1081,7 @@ Figura 33. Otro fuego comenzó en la parte delantera del coche B2.
 
 ## Página 49
 
+
 A las 02:12, una fotografía (Figura 34) del lugar del accidente muestra cómo el intenso incendio en el Coche Restaurante está siendo sofocado, con
 156 
 aún fuego y humo denso saliendo de los restos del Coche Restaurante y con otras dos pequeñas llamas restantes en la parte delantera y trasera del coche B2. Un esfuerzo de extinción registrado a las 02:32 muestra espuma siendo bombeada hacia el vehículo, sin que quede claro si desempeñó un papel en la extinción real del incendio que ya había consumido la longitud total del vehículo.
@@ -1057,13 +1090,13 @@ Del trabajo del equipo de investigadores de la EDAPO, se dispone de más detalle
 157 
 con marcas de tiempo en las fotografías (Figura 35, página siguiente). Esta cronología describe el desarrollo y la disminución del incendio (fuente: EDAPO).
 
-
 ## Página 50
+
 
 Figura 35. Fotografías del desarrollo de los incendios y sus marcas de tiempo (fuente: EDAPO).
 
-
 ## Página 51
+
 
 3.10. Descripción factual de los acontecimientos: desde la ocurrencia hasta el final de los servicios de rescate
 A las 23:18, presumiblemente solo unos segundos después de la colisión, el maquinista del tren 2597, detenido y esperando en
@@ -1113,10 +1146,10 @@ la primera hora después de medianoche. De ellas, 4 ambulancias llegaron antes d
 A las 00:02, el primer vehículo de bomberos comienza a bombear agua hacia el incendio descontrolado desde el lado superior.
 172 
 A las 01:08, comienza la extinción desde el lado inferior.
-173 
-
+173
 
 ## Página 52
+
 
 Por la información proporcionada por los registros del Servicio de Ambulancias y mediante correlación con otras pruebas (fotos,
 174 
@@ -1137,6 +1170,7 @@ del accidente, enviando remotamente imágenes de vídeo en directo al Centro Nac
 
 ## Página 53
 
+
 4. Análisis del suceso
 El siguiente capítulo tiene como objetivo proporcionar un análisis sistemático de todos los roles (actividades) y deberes (tareas) de todos los actores que desempeñaron un papel en los acontecimientos que condujeron al accidente y su posterior gestión. Esto se realiza mediante el análisis sistemático de las circunstancias influyentes para las acciones y/o decisiones, así como de los mecanismos de retroalimentación y control relacionados, incluyendo la gestión de riesgos y seguridad, así como los procesos de supervisión.
 4.1. Funcionamiento de las instalaciones técnicas
@@ -1156,9 +1190,10 @@ No hay indicios de que el jefe de estación de Larissa tuviera la intención de 
 Además, en la comunicación a través de GSM-R con el jefe de estación en Neoi Poroi iniciada a las 23:05, hay un intercambio de telegramas entre los jefes de estación tanto para la salida del tren IC-62 en Larissa hacia Neoi Poroi como para la salida del tren 63503, enviado por el jefe de estación de Neoi Poroi a la Estación Larissa. Sin embargo, esto no ayudó a darse cuenta o detectar el error. Por el contrario, la lógica de enviar cada tren por una vía separada siendo fuerte (cada tren en su ruta normal, uno en la vía descendente, el otro en la vía ascendente), esto puede haber reforzado la creencia de que todo estaba bien.
 184 
 Olvidar un paso en una secuencia de una operación, y particularmente con un retraso de más de unos pocos minutos entre el ajuste inicial y su finalización, es un error humano común, más ligado al apoyo a la acción que al conocimiento de la persona.
-185 
+185
 
 ## Página 54
+
 
 Por definición, olvidar es una decisión no intencional. Su ejecución y su (no-) recuperación antes de cualquier consecuencia están influenciadas principalmente: por la carga de trabajo y la presión, por el nivel de apoyo dado por los colegas, por las herramientas de operación o supervisión (técnicas u organizacionales). Por lo tanto, es absolutamente necesario investigar el contexto de una (no-)acción con mayor profundidad, para entender las influencias en/de la situación y la organización.
 La ruta para que el tren IC-62 se desplazara desde la estación de Larissa hasta la estación de Neoi Poroi se realizó manualmente, y no a través de un procedimiento más automatizado. Esta violación de un procedimiento existente cae en una categoría llamada «violación rutinaria», siendo una fuente potencial de confusión mientras la experiencia aumenta. Para situarlo en el contexto de la sala de control de tráfico, como se analiza con mayor profundidad a través de los puntos siguientes, este procedimiento más automatizado -aunque considerado obligatorio- no era/no es la única forma de hacer el trabajo. En cambio, la manipulación manual de los desvíos todavía se necesita y se usa comúnmente cada día, por cada jefe de estación, según lo observado in situ y discutido durante varias entrevistas, incluidas con supervisores y dirección.
@@ -1171,15 +1206,14 @@ Figura 36. La sala de control de tráfico con los jefes de estación en la Estac
 
 ## Página 55
 
-Figura 37. El panel de control en la Estación de Larissa
-El método normal de funcionamiento del panel de control para el movimiento de los desvíos accionados eléctricamente y la apertura de las señales luminosas que permitirán el paso de un tren es el control simultáneo de dos botones que establecen automáticamente la ruta (Figura 38).
-188
+Figura 37. El panel de control en la estación de Larissa
+El método normal de funcionamiento del panel de control para el movimiento de los cambios accionados eléctricamente y la apertura de las señales luminosas que permitirán el paso de un tren es el mando simultáneo de dos botones que establecen automáticamente la ruta (Figura 38).
 Figura 38. «Establecimiento automático» de la ruta para un tren según se explica en el manual del Panel de Control5.
-Como puede observarse en la foto general del panel de control (Figura 37), se trata de una gran área con mucha información y comandos que no pueden considerarse de un vistazo. Para pasar de un modo al otro (modo manual a o desde modo automatizado), los jefes de estación deben girar una llave numerada (el número hace referencia al número del desvío) en la parte superior del panel de control (Figura 46), por separado para cada desvío. El área donde leer los números de los desvíos es pequeña y está parcialmente oculta por los anillos de llaves de plástico y metal (este punto se analiza más adelante en el capítulo 4.2.2). En la práctica real del uso de estas llaves, como se ha explicado y mostrado in situ, coexisten al menos dos formas de manipularlas, siendo una de ellas indicativa de falta de confianza en el sistema y/o falta de experiencia (4.2.1.3).
-5 Nótese que esta Figura 33 representa una situación genérica y no la situación específica para Larissa.
-
+Como puede observarse en la fotografía general del panel de control (Figura 37), se trata de una gran superficie con mucha información y comandos que no pueden considerarse de un vistazo. Para pasar de un modo a otro (del modo manual al automatizado o viceversa), los jefes de estación deben girar una llave numerada (el número hace referencia al número del cambio) en la parte superior del panel de control (Figura 46), individualmente para cada cambio. La zona donde leer los números de los cambios es pequeña y está parcialmente oculta por los anillos de llaves de plástico y metal (este punto se analiza más adelante en el capítulo 4.2.2). En la práctica real del uso de estas llaves, como se ha explicado y mostrado in situ, coexisten al menos dos formas de manipularlas, siendo una de ellas indicativa de falta de confianza en el sistema y/o falta de experiencia (4.2.1.3).
+5 Nótese que esta Figura 33 representa una situación genérica y no la situación específica de Larissa.
 
 ## Página 56
+
 
 Considerado como una herramienta global, el panel de control sigue siendo una representación compleja y parcial del mundo real del emplazamiento de la estación. En particular, como puede entenderse observando la manipulación del panel de control, las distancias y el tiempo se tratan de manera diferente: mientras que el espacio se esquematiza y contrae, la estimación del tiempo permanece implícita, siendo inferida por los jefes de estación sin conocer la velocidad real de los trenes. La posición y el movimiento de los trenes a lo largo de las líneas están representados por las luces (Figura 39), encendidas (al pasar) y apagadas (tras haber pasado). Mientras que a un jefe de estación experimentado le toma unos segundos procesar el paso de un tren, es diferente para los novatos (confirmado con varios de ellos). Está claro que esta herramienta genera momentos de incertidumbre y estrés (este punto se analiza más adelante en los párrafos siguientes, y 4.2.6) durante ambas etapas de sus acciones: «procesamiento de la información» y «ejecución de comandos».
 190
@@ -1190,8 +1224,8 @@ Figura 40. Trozos de información útil.
 Tomado junto con otra fuente de influencia, a saber, las numerosas comunicaciones (como se analiza en el punto 4.2.1.8), en el periodo de tiempo justo antes y mientras el panel de control mostraba el paso del tren IC-62 (240), debe señalarse que este panel y el área de comunicaciones están organizados y posicionados físicamente de tal manera que resulta muy difícil realizar ambas tareas al mismo momento. En los turnos de mañana y tarde, estas tareas son realizadas por dos jefes de estación para evitar una carga de trabajo excesiva. Cuando uno se concentra en las comunicaciones, está orientado lateralmente en relación con el panel de control y los LED que están iluminados en este caso quedan detrás (Figura 41. Posiciones de los jefes de estación cuando miran hacia el panel de control (arriba) y cuando
 192
 
-
 ## Página 57
+
 
 comunican (abajo) en la estación de Larissa.
 ). Esto explica directa, lógica y naturalmente cómo el jefe de estación de Larissa no «vio» ni «miró», y por tanto no «detectó» el paso del tren hacia la vía descendente (4.2.2). Durante la investigación, el equipo investigador identificó otras 2 situaciones: una en la que los jefes de estación se habían adaptado y añadido un escritorio justo delante del panel de control (Figura 42), y la otra, en Atenas, cuando un Gerente de Estación reportó esto como un problema y su gerente hizo la situación más adecuada.
@@ -1199,6 +1233,7 @@ comunican (abajo) en la estación de Larissa.
 Figura 41. Posiciones de los jefes de estación cuando miran hacia el panel de control (arriba) y cuando comunican (abajo) en la estación de Larissa.
 
 ## Página 58
+
 
 Figura 42. Posición de los jefes de estación que han adaptado su propio escritorio (Estación Afidnai).
 4.2.1.3. Preparación de los jefes de estación para el uso del panel de control de Larissa
@@ -1230,19 +1265,20 @@ siempre que fuera posible. Aunque esta instrucción apuntaba principalmente al u
 ## Página 59
 
 paneles que estaban previstos para entrar en servicio y, por lo tanto, también se aplicaba al uso del panel de control en Larissa.
-Tras esta modificación técnica, OSE emitió el 23/12/2022 una nueva instrucción para el uso del panel de control de Larissa, ordenando que: “Los jefes de estación de Larissa, necesariamente, formarán la ruta utilizando los botones de inicio y destino. Las señales luminosas de salida permanecerán mostrando un aspecto de parada y serán rebasadas por orden del jefe de estación, después de asegurarse de que ha formado la ruta adecuada y de que se cumplen las condiciones de libertad del tramo de bloqueo hasta la siguiente estación en servicio.”
-4.2.1.4. Práctica « normal/aceptada » de continuar utilizando la formación manual de rutas
-El jefe de estación de Larissa formó la ruta para que el IC-62 se desplazara hacia el norte de forma manual, girando las llaves correspondientes en el panel de control con este fin. Esta operación manual fue reconocida como más compleja y se emitieron varias instrucciones (198), por lo que se esperaba que esta ruta específica se estableciera automáticamente.
-Como se observó al analizar las grabaciones de las manipulaciones en los paneles de control durante las cuatro noches anteriores (es decir, del 24 al 27 de febrero), el mismo jefe de estación había utilizado la vía automatizada de formación de la ruta para el tren IC-62 todas las noches anteriores. El uso de la vía manual de formación de la ruta para el IC-62 la noche del día 28 supuso una ruptura de este patrón. Estos registros, sin embargo, al observar el panorama general de cómo se formaban las rutas para diferentes trenes, indican claramente que ambas vías de formación de la ruta, manual y automatizada, eran utilizadas indistintamente por este jefe de estación.
-Además, varios de los jefes de estación entrevistados, con distintos niveles de experiencia, declararon que en algunas situaciones (degradadas) o sistemáticamente para ciertos trenes (principalmente locales), la práctica normal y aceptada es la formación manual de rutas. Esto se combina con el hecho de que la formación automática de la ruta para los trenes que se desplazan al norte de Larissa solo era técnicamente posible tras la introducción del cambio solicitado el 23/12/2022 (198).
-De lo anterior, es casi inevitable que los jefes de estación recién incorporados hayan observado el uso indistinto del panel de control en Larissa. Especialmente para los nuevos jefes de estación, este punto de tener un conjunto parcial o condicional de normas y prácticas puede haber influido en un manejo inconsistente del panel de control.
+Tras esta modificación técnica, OSE emitió el 23/12/2022 una nueva instrucción para el uso del panel de control de Larissa, ordenando que: «Los jefes de estación de Larissa, necesariamente, formarán la ruta utilizando los botones de inicio y destino. Las señales de salida permanecerán mostrando un aspecto de parada y serán rebasadas por orden del jefe de estación, después de asegurarse de que ha formado la ruta adecuada y de que se cumplen las condiciones de libertad de la sección de bloqueo hasta la siguiente estación en servicio».
+4.2.1.4. Práctica «normal/aceptada» de seguir utilizando el establecimiento manual de rutas
+El jefe de estación de Larissa estableció la ruta para que el IC-62 se desplazara hacia el norte de forma manual, girando las llaves correspondientes en el panel de control con este fin. Esta operación manual fue reconocida como más compleja y se emitieron varias instrucciones (198), por lo que se esperaba que esta ruta específica se estableciera automáticamente.
+Como se observó al analizar las grabaciones de las manipulaciones en los paneles de control durante las cuatro noches anteriores (es decir, del 24 al 27 de febrero), el mismo jefe de estación había utilizado la vía automatizada de establecimiento de la ruta para el tren IC-62 todas las noches anteriores. El uso de la vía manual de establecimiento de la ruta para el IC-62 la noche del día 28 supuso una ruptura de este patrón. Estos registros, sin embargo, al observar el panorama general de cómo se establecían las rutas para diferentes trenes, indican claramente que ambas vías de establecimiento de la ruta, manual y automatizada, eran utilizadas indistintamente por este jefe de estación.
+Además, varios de los jefes de estación entrevistados, con distintos niveles de experiencia, declararon que en algunas situaciones (degradadas) o sistemáticamente para ciertos trenes (principalmente locales), la práctica normal y aceptada es el establecimiento manual de la ruta. Esto se combina con el hecho de que el establecimiento automático de la ruta para los trenes que se desplazan al norte de Larissa solo era técnicamente posible tras la introducción del cambio solicitado el 23/12/2022 (198).
+De lo anterior, resulta casi inevitable que los jefes de estación recién contratados hayan observado el uso indistinto del panel de control en Larissa. Especialmente para los nuevos jefes de estación, este punto de tener un conjunto parcial o condicional de normas y prácticas puede haber influido en un manejo inconsistente del panel de control.
 4.2.1.5. Competencias
-El jefe de estación que realizó el turno nocturno la noche del accidente fue reclutado a través de un proceso diferente al de los más de 200 empleados fijos nuevos (100). Como antiguo empleado de OSE, solicitó (junto con unos pocos más en ese momento) mediante una ley relativa al “movimiento interno” a diferentes puestos de los empleados del sector público en sentido amplio. Su solicitud y reingreso en OSE coincidieron cronológicamente con el reclutamiento de los empleados contractuales, reclutados durante el verano de 2022, y por lo tanto formó parte del mismo proceso de formación y educación de seis a siete meses. Pero su situación laboral era permanente.
-Poco más de un mes antes del accidente, a finales de enero de 2023, el jefe de estación de Larissa superó sin ninguna duda tanto los exámenes orales como los escritos, tras la formación básica. De las entrevistas y declaraciones oficiales podemos concluir que también era percibido por su supervisor en Larissa, por sus compañeros-formadores prácticos y por sus compañeros de formación como muy interesado en aprender y hacerlo bien, haciendo preguntas y buscando respuestas. En términos de Habilidades No Técnicas (NTS) o competencias conductuales, ha sido descrito como servicial y deseoso de trabajar, pero también teniendo un carácter bastante fuerte y algo excesivamente seguro de sí mismo. Cabe señalar que en esta profesión es necesario adquirir un buen nivel de autoconfianza, para poder dominar todas las influencias que pesan sobre ellos, como han mencionado varios de los últimos jefes de estación reclutados, quienes se refieren a un período para esto de uno a año y medio (301301). Esto contrasta con los contratos de 6 meses (renovables) realizados para la mayoría de estos jefes de estación recién reclutados.
-4.2.1.6. Trabajo en solitario, Diseño del puesto y Presión temporal
-El 28 de febrero de 2023, el jefe de estación de Larissa fue llamado a comenzar antes por los jefes de estación del turno de tarde, debido a su agotadora carga de trabajo del servicio, según el contenido de las comunicaciones y posteriores declaraciones. Por lo tanto, el jefe de estación del turno nocturno tomó su relevo alrededor de las 21:45 (es decir, involucrado en su primera comunicación registrada). Luego quedó solo alrededor de las 22:15 a 22:20 según él mismo y la última comunicación en la que estuvo involucrado el jefe de estación anterior (22:04).
+El jefe de estación que realizó el turno de noche la noche del accidente fue contratado mediante un proceso diferente al de los más de 200 nuevos empleados fijos a plazo determinado (100). Como antiguo empleado de OSE, solicitó (junto con unos pocos más en ese momento) mediante una ley relativa a la «movilidad interna» a diferentes puestos de empleados del sector público en sentido amplio. Su solicitud y reingreso en OSE coincidieron cronológicamente con la contratación de los empleados contractuales, reclutados durante el verano de 2022, y por lo tanto formó parte del mismo proceso de formación y educación de seis a siete meses. Pero su situación laboral era permanente.
+Poco más de un mes antes del accidente, a finales de enero de 2023, el jefe de estación de Larissa superó sin duda alguna tanto los exámenes orales como los escritos, tras la formación básica. A partir de entrevistas y declaraciones oficiales podemos concluir que también era percibido por su supervisor en Larissa, por sus compañeros-formadores prácticos y por sus compañeros de formación como muy interesado en aprender y hacerlo bien, haciendo preguntas y buscando respuestas. En términos de Habilidades No Técnicas (NTS) o competencias conductuales, ha sido descrito como servicial y deseoso de trabajar, pero también con un carácter bastante fuerte y algo excesivamente seguro de sí mismo. Cabe señalar que en esta profesión es necesario adquirir un buen nivel de autoconfianza, para poder dominar todas las influencias que pesan sobre ellos, como han mencionado varios de los últimos jefes de estación contratados, quienes hacen referencia a un período para esto de uno a año y medio (301301). Esto contrasta con los contratos de 6 meses (renovables) realizados para la mayoría de estos nuevos jefes de estación contratados.
+4.2.1.6. Trabajo en solitario, diseño del puesto y presión temporal
+El 28 de febrero de 2023, el jefe de estación de Larissa fue llamado a comenzar antes por los jefes de estación del turno de tarde, debido a su agotadora carga de trabajo del servicio, según el contenido de las comunicaciones y posteriores declaraciones. Por lo tanto, el jefe de estación del turno de noche tomó su relevo alrededor de las 21:45 (es decir, involucrado en su primera comunicación registrada). Luego quedó solo alrededor de las 22:15 a 22:20 según él mismo y la última comunicación en la que estaba involucrado el jefe de estación anterior (22:04).
 
 ## Página 60
+
 
 Existe cierta confusión respecto a la superposición obligatoria de horas entre los distintos turnos en Larisa. Aunque sobre el papel el turno de noche comienza a las 22:00 y el turno de tarde finaliza a las 23:00, puede concluirse a partir de declaraciones oficiales así como de entrevistas con diversas personas implicadas que la práctica actual y aceptada consiste en finalizar un turno tan pronto como el siguiente jefe de estación haya sido informado sobre la situación del tráfico ferroviario y haya asumido la responsabilidad del mismo. Por otro lado, existe una conversación registrada en la que un colega parece cuestionar la salida (inminente) del jefe de estación del turno de tarde, cuando su llamada ya es atendida a las 22:00 por el jefe de estación del turno de noche. Esta falta de un procedimiento y práctica claros, que deberían establecerse para toda la red, contrasta con la posible necesidad de asistencia en condiciones de alta carga de trabajo para los jefes de estación recién certificados, gestionándose estos riesgos de la organización de los turnos a nivel de líder de equipo, junto con la necesidad de un seguimiento estructurado del desempeño mediante compañeros más experimentados (4.2.7312).
 208 
@@ -1311,6 +1347,7 @@ Este tipo de interacciones entre el diseño del puesto, la carga de trabajo, la 
 
 ## Página 61
 
+
 4.2.1.7. Carga de trabajo estática/estructural adicional relacionada con las deficiencias técnicas
 Una serie de defectos técnicos y averías, algunos específicos de ese día pero otros ya presentes durante varias
 213
@@ -1329,18 +1366,16 @@ Una parte significativa de la carga de trabajo del jefe de estación de Larissa 
 218
 y cuantificable, estaba compuesta por las comunicaciones recibidas, dadas o monitorizadas. Todas las comunicaciones registradas (radio VHF, GSM-R, 2 líneas telefónicas fijas) desde las 21:45 en adelante, cuando el jefe de estación que servía el turno de tarde quedó a cargo de las comunicaciones, hasta las 23:15, han sido listadas en un único archivo (por tanto, con aproximadamente 90 min. de diferentes comunicaciones). El análisis muestra que este período fue muy intenso, con 97 comunicaciones de 23 segundos de media, 32 comunicaciones superpuestas entre ellas y solo 17
 
-
 ## Página 62
 
-comunicaciones donde el jefe de estación solo tenía que escuchar (monitorizar). Para el tercer medio hora, se intensifica aún más con 50 comunicaciones con una duración media comparable y superposición. La duración acumulada de las comunicaciones es un 25% mayor en este último medio hora, dejando menos tiempo para entender lo que estaba sucediendo, anticipar y razonar correctamente, o incluso compartir algunos temas con alguien.
-La variabilidad que reside en el error cometido por el jefe de estación de Larissa puede tener partes de sus fuentes de influencia en la cantidad, la duración y la diversidad de las comunicaciones que tuvo que tratar, procesar o hacer seguimiento, especialmente durante la última hora y aún más durante el último medio hora. De hecho, considerando el número de interlocutores (maquinistas, operador de aparatos de cambio, guarda de paso a nivel y residentes, policía, personal de estación, regulador de tráfico y otros jefes de estación), los temas, y la duración dejada para “pensar” o “escribir”, varios jefes de estación experimentados, incluido uno de sus responsables, admitieron que la carga de trabajo en este período de tiempo era más que crítica. Y con una combinación tan rara de factores de carga de trabajo, se puede considerar que esta situación ha sido una gran trampa para un jefe de estación insuficientemente preparado o inexperto.
-El análisis de solo las comunicaciones, sin ni siquiera tener en cuenta otras tareas, indica tres períodos pico (Figura
-220
-44) que parecen corresponder con los errores consecutivos cometidos por el jefe de estación: establecer las rutas respectivamente para el tren 2597 y el IC-62 y no detectar el error con el aparato de cambio 118. Esto indica que períodos de carga de trabajo demasiado pesada, en particular para operadores menos experimentados, pueden ser una causa directa de errores, equivocaciones y violación de la rutina, porque hay “no-time-to-think” [tiempo para pensar] o uno está “captured-by-the-flow-of-issues-to-contain” [capturado por el flujo de problemas a contener]. Este tipo de análisis de carga de trabajo, con resultados más allá de las capacidades humanas, muestra la importancia de integrar los factores humanos y organizacionales en las prácticas de gestión de riesgos (4.2.80).
-Figura 44. Análisis factual de la carga de trabajo de comunicaciones como un riesgo a tener en cuenta durante la integración HOF.
-Mientras analizábamos el número y la diversidad de las comunicaciones, también pudimos observar que a pesar de la frecuente mala calidad del sonido, la radio VHF es el medio de comunicación más utilizado, excepto entre Jefes de Estación que utilizaban tanto el GSM-R (con números de telegrama la mayoría de las veces) como el teléfono de línea fija.
+comunicaciones en las que el jefe de estación solo debía escuchar (monitorizar). Durante la tercera media hora, se intensifica aún más con 50 comunicaciones de una duración media comparable y solapadas. La duración acumulada de las comunicaciones es un 25 % mayor en esta última media hora, lo que deja menos tiempo para comprender lo que estaba sucediendo, anticipar y razonar correctamente, o incluso compartir algunos problemas con alguien.
+La variabilidad que reside en el error cometido por el jefe de estación de Larissa puede tener parte de sus fuentes de influencia en la cantidad, la duración y la diversidad de las comunicaciones que tuvo que tratar, procesar o hacer seguimiento, especialmente durante la última hora e incluso más durante la última media hora. De hecho, considerando el número de interlocutores (conductores de tren, operador de aguja, guarda del paso a nivel y residentes, policía, personal de estación, regulador de tráfico y otros jefes de estación), los temas y el tiempo restante para «pensar» o «escribir», varios jefes de estación experimentados, incluido uno de sus responsables, admitieron que la carga de trabajo en este periodo era más que crítica. Y dado que tal combinación de factores de carga de trabajo es muy rara, puede considerarse que esta situación fue una gran trampa para un jefe de estación insuficientemente preparado o sin experiencia.
+El análisis únicamente de las comunicaciones, sin ni siquiera tener en cuenta otras tareas, indica tres periodos pico (Figura 44) que parecen corresponderse con los errores consecutivos cometidos por el jefe de estación: el establecimiento de itinerarios respectivamente para el tren 2597 y el IC-62, y no detectar el error con la aguja 118. Esto indica que los periodos de carga de trabajo demasiado pesada, en particular para operadores con menos experiencia, pueden ser una causa directa de errores, equivocaciones y violación de procedimientos rutinarios, porque hay «tiempo para pensar» o uno está «capturado por el flujo de problemas a contener». Este tipo de análisis de carga de trabajo, con resultados que superan las capacidades humanas, muestra la importancia de integrar los factores humanos y organizativos en las prácticas de gestión de riesgos (4.2.80).
+Figura 44. Análisis factual de la carga de trabajo de comunicaciones como riesgo a tener en cuenta durante la integración de HOF.
+Al analizar el número y la diversidad de las comunicaciones, también pudimos observar que, a pesar de la frecuente mala calidad del sonido, la radio VHF es el medio de comunicación más utilizado, excepto entre los Jefes de Estación, que utilizaban tanto el GSM-R (con números de telegrama la mayoría de las veces) como el teléfono fijo.
 
 ## Página 63
+
 
 4.2.1.9. Carga de trabajo adicional dinámica
 Aproximadamente a las 22:35, tras haber recibido una llamada del maquinista del tren 2597 indicando que se aproximaba a la estación, el jefe de estación de Larissa estableció manualmente la ruta con la intención de que el tren 2597 entrara en la estación de Larissa desde el norte y fuera dirigido a la vía muerta situada entre las vías 2 y 3.
@@ -1355,6 +1390,7 @@ Asimismo, a las 23:00, el operador del Centro de Control de Tráfico de OSE llam
 A las 23:15, el jefe de estación de Larissa llama a su colega del turno de tarde, también responsable de informar sobre hallazgos e incidentes en el área de la estación, para hablar sobre el incidente de encaminamiento incorrecto del tren 2597 y, preocupado por el reporte del incidente por parte de los maquinistas, preguntarle qué hacer. Este último respondió que podían reportar el incidente juntos cuando estuvieran en la oficina a la mañana siguiente.
 
 ## Página 64
+
 
 Todo esto tiene lugar en un contexto de tensión general entre los maquinistas y el personal de estación. Apenas unos meses
 228
@@ -1389,8 +1425,8 @@ En la parte superior del panel de control, hay llaves de tres posiciones numerad
 236
 accionado eléctricamente que manejan. Estas llaves se utilizan para el control manual independiente de cualquier aparato de cambio accionado eléctricamente. Girar la llave desde la posición central 90 grados en sentido antihorario ordenará a los aparatos de cambio moverse a la posición «principal» (indicación «K»). De manera similar, girando la llave 90 grados en el sentido de las agujas del reloj, se ordena a los aparatos de cambio moverse a la posición de «desvío» (indicador «Π»). Cuando hay correspondencia entre la posición física de los aparatos de cambio y su llave de control, el diodo emisor de luz amarillo para la posición indicada de los aparatos de cambio permanece encendido de forma continua. Por encima de la llave de cada aparato de cambio, hay también un diodo emisor de luz rojo, en la posición central marcada «A». Esta es la posición en la que debe colocarse la llave para permitir el «establecimiento automático» de las rutas. (Figura 46).
 
-
 ## Página 65
+
 
 Figura 46. Detalle de la llave de tres posiciones para manejar los aparatos de cambio 118 en el Panel de Control de Larissa.
 Los aparatos de cambio se indican en el Panel de Control mediante la intersección de las líneas que muestran las vías férreas. Cada aparato de cambio
@@ -1400,29 +1436,41 @@ Figura 47. Detalle de los aparatos de cambio 118 en el Panel de Control de Laris
 
 ## Página 66
 
-Las líneas en las que la presencia de un tren es detectada por circuitos de vía o contadores de ejes se muestran en el Panel de Control mediante una secuencia de colores que delimita el circuito de vía o la zona controlada por cada contador de ejes. Las vías principales utilizan una secuencia de colores naranja/verde para las vías ascendentes y azul/marrón para las vías descendentes (Figura 48). Dentro de las líneas coloreadas que representan los circuitos de detección, se colocan fotodiodos que se iluminan para proporcionar información al operador del panel. La iluminación de la luz amarilla en un circuito de vía significa que se ha "encaminado" un tren para cruzar la sección de vía que está iluminada. La luz amarilla permanece encendida hasta que el tren alcanza el circuito, momento en el que se apaga y es sustituida por un grupo de luces rojas, lo que indica que hay un tren en el circuito de detección específico.
-Figura 48. Detalle del Panel de Control de Larissa con una ruta establecida para cruzar un cambio en posición desviada.
-El Panel de Control de la estación de Larissa fue puesto nuevamente en servicio el 01/11/2022 (194) hasta la sección EA1. La razón de esto es que la sección EA2 cubre parcialmente la estación de Larissa, pero también partes de la estación comercial de Larissa situadas más al norte. Esta sección estaba prevista para ser entregada posteriormente, como parte de las obras Larissa-Platy. Sin embargo, esto significó que el Panel de Control entrara en servicio sin que la sección EA2 del Panel de Control mostrara ninguna indicación. Este fue también el caso la noche del 28/02/2023, como puede concluirse de las “Conclusiones de la Comisión de expertos”, quienes informaron haber observado esto durante su visita in situ a la estación de Larissa el 20/03/2023.
+Las líneas en las que la presencia de un tren es detectada por circuitos de vía o contadores de ejes se muestran en el Panel de Control mediante una secuencia de colores que delimitan el circuito de vía o la zona controlada por cada contador de ejes. Las vías principales utilizan una secuencia de colores naranja/verde para las vías ascendentes y azul/marrón para las vías descendentes (Figura 48). Dentro de las líneas coloreadas que representan los circuitos de detección, se colocan fotodiodos que se iluminan para proporcionar información al operador del panel. La iluminación de la luz amarilla en un circuito de vía significa que se ha "encaminado" un tren para cruzar la sección de vía que está iluminada. La luz amarilla permanece encendida hasta que el tren alcanza el circuito, momento en el cual se apaga y es sustituida por un grupo de luces rojas, lo que indica que hay un tren en el circuito específico de detección.
+Figura 48. Detalle del Panel de Control de Larissa con una ruta establecida para cruzar un desvío en posición de desviación.
+El Panel de Control de la estación de Larissa fue puesto nuevamente en servicio el 01/11/2022 (194) hasta la sección EA1. La razón de esto es que la sección EA2 cubre parcialmente la estación de Larissa, pero también partes de la estación comercial de Larissa situadas más al norte. Esta sección estaba prevista para ser entregada posteriormente, como parte de las obras Larissa-Platy. Sin embargo, esto significó que el Panel de Control fue puesto en servicio sin que la sección EA2 del Panel de Control mostrara ninguna indicación. Este fue también el caso en la noche del 28/02/2023, como puede concluirse de las “Conclusiones de la Comisión de expertos”, quienes informaron haber observado esto durante su visita in situ a la estación de Larissa el 20/03/2023.
 En la sección EA3 (indicada como “EA” en el panel de control) había una indicación permanente de ocupación ya que la señalización hacia el norte de Larissa aún no se había completado. Esto significa que una de las luces en esa parte del panel de control mostrando un aspecto rojo, no sería percibida como excepcional ni preocupante y probablemente no atraería inmediatamente la atención del jefe de estación.
-
 
 ## Página 67
 
-Figura 49. Sección EA3 (indicada EA a la izquierda de EA2 en la imagen) del panel de control indicando incorrectamente una ocupación.
-En la práctica, esto significa que el encaminamiento erróneo del tren IC-62 era visible para el jefe de estación a través de las siguientes indicaciones:
+Figura 49. Sección EA3 (indicada como EA a la izquierda de EA2 en la imagen) del panel de control indicando incorrectamente una ocupación.
+En la práctica, esto significa que el encaminamiento erróneo del tren IC-62 era visible para el jefe de estación mediante las siguientes
+241 
+indicaciones:
 - 
-En la parte superior del Panel de Control, la pequeña luz situada en el lado derecho de la llave, encima de la indicación “P”, iluminándose. Nótese que, de esta forma, la diferencia entre la llave girada 90 grados en sentido horario o antihorario es difícil de distinguir, y por tanto no puede servir como indicación. Además, el anillo de llaves que está unido a cada llave puede obstaculizar una visión clara de la luz. Esta indicación estuvo presente continuamente en el Panel de Control desde el momento estimado de establecer la ruta para IC-62, alrededor de las 22:46.  
+En la parte superior del Panel de Control, la pequeña luz situada en el lado derecho de la llave, encima de la indicación «P», encendida. Nótese que, tal como está, es difícil distinguir la diferencia entre la llave girada 90 grados en sentido horario o antihorario, y por lo tanto no puede servir como indicación. Además, el anillo de llaves unido a cada llave puede obstaculizar una visión clara de la luz. Esta indicación estaba presente continuamente en el Panel de Control desde el momento estimado de establecimiento de la ruta para el IC-62, alrededor de las 22:46.  
 - 
-En la parte inferior izquierda del Panel de Control, la indicación de la posición del cambio era visible a través de 2 luces. También esta indicación debió haber sido visible continuamente desde el momento estimado de establecer la ruta para IC-62, alrededor de las 22:46.
+En la parte inferior izquierda del Panel de Control, la indicación de la posición del desvío era visible a través de 2 luces. También esta indicación debió ser visible continuamente desde el momento estimado de establecimiento de la ruta para el IC-62, alrededor de las 22:46.
 - 
-Cuando el tren IC-62 abandonaba la estación de Larissa, esto también era visible a través de la iluminación de las luces que representaban las secciones por las que pasaba el tren. En particular, la ocupación de la vía descendente por el tren IC-62 debió haber sido visible en 4 parejas consecutivas de dos luces durante un periodo que representa el tiempo transcurrido entre el paso de los cambios 118 (estimado a las 23:08) y la salida del tren IC-62 de la sección EA1, unos 1,7 km más allá del cambio 118 B (estimado alrededor de las 23:09-23:10, o 72 segundos después de pasar el cambio 118B). Con la dificultad adicional de que una de estas parejas mostraba una ocupación permanente (240).
-Estas indicaciones no son fácilmente “legibles” para un operador inexperto, y en cualquier caso no ayudaron al jefe de estación a identificar la posicionamiento incorrecto de los cambios 118 a tiempo para prevenir el accidente, lo cual puede entenderse por varios de los siguientes factores.
-Las indicaciones sobre la posición de los cambios 118 son pequeñas indicaciones, en dos posiciones distintas, en un Panel de Control más grande (la información de la Figura 47 entre las de toda la Figura 37).
-Desde alrededor de las 22:20, el jefe de estación trabajaba solo con una carga de trabajo considerable, que tenía componentes adicionales tanto estáticos (4.2.1.70) como dinámicos (4.2.1.9) de agravación, así como un alto número de comunicaciones (4.2.1.8).
-Además, la forma en que los medios de comunicación (consola VHF, GSM-R y teléfono) están posicionados a la derecha del panel de control y a un nivel inferior (Figura 41). Esto significa que, cuando estaba ocupado con cualquier comunicación y lógicamente dirigido hacia los medios de comunicación utilizados, las indicaciones relacionadas con la posición de los cambios 118 y la salida del tren IC-62 estaban situadas detrás del hombro izquierdo del jefe de estación en la esquina inferior izquierda del panel de control, y por tanto, en la práctica, invisibles (192).  
-Debido a la falta de aportación directa del jefe de estación afectado (54), la investigación no pudo identificar cuándo exactamente se dio cuenta de su fallo al posicionar correctamente los cambios 118. Muy probablemente, esto ocurrió después de las 23:18, el momento de la colisión fatal, y antes de las 23:40, cuando llega un colega jefe de estación a la sala de control de Larissa (después de su turno en otra Estación), encontrando – según sus declaraciones – la llave para comandar los cambios 118 en la posición “principal”, guiando el tráfico hacia la línea ascendente.
+Cuando el tren IC-62 abandonaba la estación de Larissa, esto también era visible a través del encendido de las luces que representaban las secciones por las que pasaba el tren. En particular, la ocupación de la vía descendente por el tren IC-62 debió ser visible en 4 parejas consecutivas de dos luces durante un periodo que representa el tiempo transcurrido entre el paso de los desvíos 118 (estimado a las 23:08) y la salida del tren IC-62 de la sección EA1, unos 1,7 km más allá del desvío 118 B (estimado alrededor de las 23:09-23:10, o 72 segundos después de pasar el desvío 118B). Con la dificultad adicional de que una de estas parejas mostraba una ocupación permanente (240).
+Estas indicaciones no son fácilmente «legibles» para un operador inexperto, y en cualquier caso no ayudaron al jefe de
+242 
+estación a identificar a tiempo la colocación incorrecta de los desvíos 118 para prevenir el accidente, lo cual puede entenderse por varios de los siguientes factores.
+Las indicaciones sobre la posición de los desvíos 118 son pequeñas indicaciones, en dos posiciones distintas, en un Panel de Control
+243 
+más grande (la información de la Figura 47 entre las de toda la Figura 37).
+Desde alrededor de las 22:20, el jefe de estación trabajaba solo con una carga de trabajo considerable, que tenía componentes adicionales tanto
+244 
+estáticos (4.2.1.70) como dinámicos (4.2.1.9) de agravamiento, así como un alto número de comunicaciones (4.2.1.8).
+Además, la forma en que los medios de comunicación (consola VHF, GSM-R y teléfono) están situados a la derecha
+245 
+del panel de control y a un nivel inferior (Figura 41). Esto significa que, cuando estaba ocupado con cualquier comunicación y lógicamente orientado hacia los medios de comunicación utilizados, las indicaciones relacionadas con la posición de los desvíos 118 y la salida del tren IC-62 estaban situadas detrás del hombro izquierdo del jefe de estación en la esquina inferior izquierda del panel de control y, por lo tanto, eran en la práctica invisibles (192).  
+Por falta de aportación directa del jefe de estación implicado (54), la investigación no pudo identificar cuándo exactamente
+246 
+se dio cuenta de su fallo al colocar correctamente los desvíos 118. Muy probablemente, esto ocurrió después de las 23:18, el momento de la colisión fatal, y antes de las 23:40, cuando un colega jefe de estación llega a la sala de control de Larissa (después de su servicio en otra Estación), encontrando – según sus declaraciones – la llave para comandar los desvíos 118 en la posición «principal», guiando el tráfico hacia la línea ascendente.
 
 ## Página 68
+
 
 4.2.3. Procedimiento de salida del tren IC-62
 Los mensajes procedimentales se utilizan para enviar instrucciones operativas asociadas a situaciones adecuadas al conductor de un tren
@@ -1453,6 +1501,7 @@ durante las comunicaciones, especialmente entre los jefes de estación y los no 
 Durante la investigación, no fuimos capaces de detectar ni observar ninguna herramienta práctica para apoyar la calidad de la comunicación relacionada con la seguridad por parte de los jefes de estación. En particular, los aprendices o los jefes de estación recién certificados se beneficiarían de dicho apoyo.
 
 ## Página 69
+
 
 Además, la metodología actual para las comunicaciones relacionadas con la seguridad, tal como se establece en las normas operativas
 257
@@ -1489,6 +1538,7 @@ práctica que quien da el mensaje verifique que el mensaje es recibido y repetid
 
 ## Página 70
 
+
 A pesar de que la comunicación para la salida del tren IC-62 se realizó sin ninguna repetición del mensaje
 267
 y sin la comunicación de un número de telegrama por parte del/de los maquinista(s), el jefe de estación no
@@ -1522,8 +1572,8 @@ La tripulación del tren IC-63 también pasó junto al tren 93506 (anteriormente
 6  Se ordenó un informe pericial de las grabaciones de voz antes y durante el accidente en el contexto de la investigación judicial. La Universidad Politécnica Nacional de Atenas concluyó el 14/01/2025 que: “queda establecido que no ha habido ningún cambio después de las 00:07:00 horas del 1 de marzo de 2023, ni en los contenidos … ni en el contenido de audio de los archivos de audio en cuestión, relativos a las grabaciones del 28/02/2023 y el intervalo de tiempo desde las 22:30' hasta las 23:55'”.
 7  Se reconoce que las grabaciones mediante GPS no siempre son precisas y que las paradas, si son solo de corta duración, no quedan reflejadas. Sin embargo, se considera que una parada para resolver el problema con la información contradictoria llevaría tiempo y conduciría a una comunicación registrada.
 
-
 ## Página 71
+
 
 El retraso de 48 minutos en el itinerario planificado también debe ser considerado: podría haber impactado la comprensión de los maquinistas sobre la situación de otros trenes, por lo que no esperaban que otro tren circulara en dirección contraria por la vía descendente.
 277
@@ -1544,63 +1594,65 @@ El registrador de datos TELOC muestra que ambas locomotoras, la 120-012 y la 120
 
 ## Página 72
 
-y llegando a la Estación de Mercancías de Tesalónica, permaneciendo después estacionaria durante aproximadamente 25 minutos (desde las 21:15 hasta las 21:40).
-La misma cronología de los hechos se ve respaldada por los datos GPS del movimiento de las locomotoras proporcionados por Hellenic Train. Una cronología similar se ve también respaldada por el libro de registro del jefe de estación en la Estación de Mercancías de Tesalónica (las locomotoras llegan a las 21:05, la prueba finaliza a las 21:35 y el tren sale a las 21:40).
-Figura 51. Cronología del movimiento del tren de mercancías 63503
-Tesalónica
-21:40
-ΤΧ1
-21:50
-Sindos
-21:57
-Platy
-22:13
-Aiginio
-22:25
-Katerini
-22:40
-Litochoro
-22:51
-Leptokarya
-22:59
-Neoi Poroi
-23:05
-Tabla 6. Tabla de la hora en cada estación intermedia antes de salir de Neoi Poroi según lo registrado por OSE.
-Faltan las imágenes de vídeo de la carga del tren de mercancías 63503, al igual que la mayoría de las imágenes de vídeo de su itinerario hasta el lugar del accidente.
+y llegando a la Estación de Mercancías de Tesalónica, permaneciendo luego estacionada durante aproximadamente 25 minutos (desde las 21:15 hasta las 21:40).  
+La misma cronología de los hechos está respaldada por los datos GPS del movimiento de las locomotoras proporcionados por Hellenic Train.²⁸⁴ Una cronología similar está también respaldada por el libro de registro del jefe de estación en la Estación de Mercancías de Tesalónica (las locomotoras llegan a las 21:05, la prueba finaliza a las 21:35 y el tren sale a las 21:40).  
+Figura 51. Cronología del movimiento del tren de mercancías 63503  
 
+| Tesalónica | 21:40 |
+| :--- | :--- |
+| ΤΧ1 | 21:50 |
+| Sindos | 21:57 |
+| Platy | 22:13 |
+| Aiginio | 22:25 |
+| Katerini | 22:40 |
+| Litochoro | 22:51 |
+| Leptokarya | 22:59 |
+| Neoi Poroi | 23:05 |
+
+Tabla 6. Tabla de la hora en cada estación intermedia antes de salir de Neoi Poroi según lo registrado por OSE.  
+Faltan las imágenes de vídeo de la carga del tren de mercancías 63503, al igual que la mayoría de las imágenes de vídeo de su itinerario²⁸⁵ hasta el lugar del accidente.
 
 ## Página 73
 
 Análisis adicional de los sistemas de gestión de la seguridad
-El marco legislativo europeo establece claramente que los operadores, el gestor de infraestructuras y los operadores ferroviarios son responsables de controlar los riesgos inherentes a sus actividades. Para controlar estos riesgos operativos, deben implementar un sistema de gestión de la seguridad. Por lo tanto, para comprender mejor qué elementos subyacentes pueden explicar los factores contribuyentes encontrados anteriormente, se analizaron más a fondo los procesos relevantes de estos sistemas de gestión de la seguridad, como se informa en los puntos siguientes (4.2.6 a 4.2.16).
+El marco legislativo europeo establece claramente que los operadores, el gestor de infraestructura y las empresas ferroviarias son responsables del control de los riesgos inherentes a sus actividades. Para controlar estos riesgos operacionales, deben implementar un sistema de gestión de la seguridad. Por lo tanto, para comprender mejor qué elementos subyacentes pueden explicar los factores contribuyentes identificados anteriormente, se analizaron en mayor detalle los procesos pertinentes de dichos sistemas de gestión de la seguridad, como se detalla en los puntos siguientes (4.2.6 a 4.2.16).
 El sistema de gestión de la seguridad de OSE
 4.2.6. Gestión de la competencia de los jefes de estación
-Un sistema de gestión de la competencia debe garantizar que el personal con una función que afecta a la seguridad sea competente en las tareas relacionadas con la seguridad de las que es responsable. Y esto significa incluir al menos: la identificación de las competencias (incluidos conocimientos, habilidades, comportamientos no técnicos y actitudes) requeridas para las tareas relacionadas con la seguridad, los principios de selección (nivel educativo básico, aptitud psicológica y física requerida); los detalles de la formación inicial, experiencia y cualificación; la formación continua y la actualización periódica de las competencias existentes; la evaluación periódica de la competencia y las comprobaciones de aptitud psicológica y física para garantizar que las cualificaciones y habilidades se mantengan con el tiempo; y cualquier formación específica en partes relevantes de las normas operativas, integradas en el sistema de gestión de la seguridad, para desempeñar sus tareas relacionadas con la seguridad. Además, la organización debe proporcionar un programa de formación cuya eficacia esté demostrada para alcanzar su objetivo y garantizar que el programa adecuado se imparta a la persona adecuada, a tiempo, con evidencia trazable, y sometido a control, revisión y mejora continua.
-Desde un punto de vista general, ha sido difícil obtener más que la lista de los puntos a cubrir durante la formación teórica, los nombres de los formadores, los períodos de tiempo dedicados a estas actividades de formación, el contenido de los exámenes y los resultados finales del grupo de aprendices que finalizaron la formación en enero de 2023.
-Para poder realizar un análisis completo, habríamos necesitado más información y al menos los siguientes puntos: la ruta de integración completa incluidos los puntos prácticos a cubrir, la formación de los formadores con sus capacidades formativas (las necesidades docentes requieren competencias específicas), el rol y la preparación de los formadores incluidos los compañeros-formadores prácticos, los vínculos establecidos con la evaluación de riesgos de situaciones degradadas (y emergencias) y/o incidentes anteriores, las listas formales de los participantes para cada formación, y algunos informes que muestren cómo se pusieron en práctica los controles o auditorías para mejorar la gestión de la competencia.
-El hecho de que estos elementos no pudieran ser transmitidos crea al menos la presunción de que no existen y, por lo tanto, nunca se pusieron en práctica para gestionar la competencia de los jefes de estación, ya sean experimentados o recién contratados.
+Un sistema de gestión de la competencia debe garantizar que el personal con una función que afecte a la seguridad sea competente en las tareas relacionadas con la seguridad por las que es responsable. Y esto significa incluir al menos: la identificación de las competencias (incluidos conocimientos, habilidades, comportamientos no técnicos y actitudes) requeridas para las tareas relacionadas con la seguridad, los principios de selección (nivel educativo básico, aptitud psicológica y física requerida); los detalles de la formación inicial, experiencia y cualificación; la formación continua y la actualización periódica de las competencias existentes; la evaluación periódica de la competencia y las comprobaciones de la aptitud psicológica y física para garantizar que las cualificaciones y habilidades se mantengan con el tiempo; y cualquier formación específica en las partes relevantes de las normas operativas, integradas en el sistema de gestión de la seguridad, para desempeñar sus tareas relacionadas con la seguridad. Además, la organización debe proporcionar un programa de formación cuya eficacia esté demostrada y garantizar que el programa adecuado se imparta a la persona adecuada, en el momento oportuno, con evidencia trazable, y que esté sujeto a control, revisión y mejora continua.
+Desde un punto de vista general, ha sido difícil obtener más que la lista de los temas a cubrir durante la formación teórica, los nombres de los formadores, los periodos de tiempo dedicados a estas actividades de formación, el contenido de los exámenes y los resultados finales del grupo de alumnos que finalizaron la formación en enero de 2023.
+Para poder realizar un análisis completo, habríamos necesitado más información y al menos los siguientes puntos: la ruta completa de integración incluyendo los aspectos prácticos a cubrir, la formación de los formadores con sus capacidades formativas (las necesidades docentes requieren competencias específicas), el rol y la preparación de los formadores incluidos los compañeros-formadores prácticos, los vínculos establecidos con la evaluación de riesgos de situaciones degradadas (y emergencias) y/o incidentes anteriores, las listas formales de los participantes para cada formación, y algunos informes que muestren cómo se pusieron en práctica los controles o auditorías para mejorar la gestión de la competencia.
+El hecho de que estos elementos no pudieran ser transmitidos crea al menos la presunción de que no existen y, por lo tanto, nunca se pusieron en práctica para gestionar la competencia de los jefes de estación, ya fueran experimentados o recién contratados.
 4.2.6.1. Integración de nuevos jefes de estación
-El contenido actual de la parte teórica de la formación se construye con una mentalidad de conocimiento. No está claro cómo los incidentes anteriores, y las situaciones clásicas o menos clásicas degradadas, se valoran mediante una evaluación de riesgos o una simulación (de mesa o in situ). La identificación de las competencias parece ser una correspondencia aproximativa entre importantes capítulos teóricos y la cronología del programa de formación.
-No hay ninguna dirección centralizada específica dada al desarrollo de las Habilidades No Técnicas críticas necesarias para realizar las actividades de un jefe de estación, ni a su evaluación o seguimiento.
-Una vez que los nuevos aprendices contratados han terminado los cursos teóricos impartidos en aulas, son distribuidos regionalmente e integrados en los servicios de turno de diferentes estaciones. No hay (o hay poca) supervisión y control trazable de quién hace qué, dónde, cuándo, con quién, y aprendiendo qué. Esto es especialmente cierto para la parte práctica de la formación (pero no solo).
-No hay ninguna dirección centralizada específica dada a esta integración, y no hay una evaluación dedicada de su practicidad y calidad.
-No hay una evaluación particular ni intercambio de información, entre la parte teórica y la práctica
+El contenido actual de la parte teórica de la formación se construye con una mentalidad basada en el conocimiento. No está claro cómo se valorizan los incidentes anteriores y las situaciones degradadas clásicas o menos clásicas mediante una evaluación de riesgos o una simulación (de mesa o in situ). La identificación de las competencias parece ser una correspondencia aproximativa entre importantes capítulos teóricos y el cronograma del programa de formación.
+No existe una dirección centralizada específica dada al desarrollo de las Habilidades No Técnicas críticas necesarias para realizar las actividades de un jefe de estación, ni a su evaluación o seguimiento.
+Una vez que los nuevos alumnos contratados han finalizado los cursos teóricos impartidos en aulas, son distribuidos regionalmente e integrados en los servicios de turnos de diferentes estaciones. No existe (o es deficiente) el seguimiento y el control trazable de quién hace qué, dónde, cuándo, con quién y aprendiendo qué. Esto es especialmente cierto para la parte práctica de la formación (pero no solo).
+No existe una dirección centralizada específica dada a esta integración, ni una evaluación dedicada de su practicidad y calidad.
+No existe una evaluación particular ni intercambio de información entre la parte teórica y la práctica
 
 ## Página 74
 
-parte de la formación. Por lo tanto, sigue siendo posible que un alumno se presente a la parte práctica poco preparado o insuficientemente preparado, en medio de las operaciones de tráfico que deben gestionar los compañeros-formadores experimentados en tiempo real.
-Específico de la parte práctica de la formación es la forma en que los alumnos son asignados y rotan por diferentes estaciones, con diferentes jefes de estación experimentados y con diferentes métodos de gestión del tráfico (hay distintos tipos de paneles de control y hay estaciones sin panel de control). Como tal, este enfoque puede considerarse bueno o válido; sin embargo, no existe garantía ni trazabilidad sobre lo que los alumnos hacen realmente como individuos, ni si su rotación es suficiente o no para adquirir las competencias necesarias para poder trabajar de forma segura en todas las condiciones.
-Aunque OSE presume que es una práctica conocida y estándar, los roles de los compañeros-formadores, dedicados a llevar a cabo la formación práctica de los nuevos jefes de estación (no certificados aún), no están definidos. No se conoce ni se explica cómo son elegidos o preparados para cumplir su misión formativa. No hay seguimiento de sus tareas específicas de formación, que por cierto pueden interferir con las de garantizar el tráfico. La retroalimentación distribuida a través de los compañeros-formadores a los alumnos no está explicada, compartida, consolidada, validada, estandarizada ni es trazable.
-Estos compañeros-formadores, que garantizan la parte práctica de la integración, no participan en el examen final ni en las evaluaciones intermedias, ya sean sumativas (mediante retroalimentación) o normativas (mediante puntuaciones). Parece que no son reconocidos en absoluto como formadores, o al menos así es como ellos perciben y comentan su situación.
-No existe o es pobre la garantía de que todos los puntos críticos de seguridad para la operación del tráfico estén integrados en la formación práctica y evaluados mediante la observación de la práctica o mediante una evaluación práctica relevante. Un ejemplo relevante es el ya descrito (195) que explicaba que, hasta donde pudimos identificar, no se elaboraron instrucciones de trabajo específicas que describieran las maniobras a realizar para cada tren (en modo automático o manual, en modo normal o degradado), por lo que esto pudo haber influido en un manejo inconsistente del panel de control.
-La evaluación global de la cohorte de agosto de 2022 muestra una fuerte consistencia hacia el éxito, indicando que todos los participantes obtuvieron notas entre 7 y 10 tanto en la parte oral como en la escrita. Esto pone en duda si el enfoque puede definir la capacidad operativa real de los nuevos jefes de estación.
-Una vez certificados, la dirección asume, e incluso algunos jefes de estación recién certificados también, que están listos para desempeñarse al nivel esperado, independientemente de las situaciones o los recursos puestos a disposición para dominarlas. Sin embargo, ha sido repetido varias veces por diferentes jefes de estación, nuevos y experimentados, que se tarda al menos entre un año y 1,5 años de práctica operativa para sentirse más cómodo, menos estresado y más seguro al realizar el trabajo de jefe de estación. Esta visión compartida no parece tenerse en cuenta en ningún momento, ni en la dirección dada a la práctica, ni en el plan de lecciones teóricas, ni en las Habilidades No Técnicas tal como actualmente se apoyan (o no), ni en la retroalimentación final dada después de la integración para eventualmente mejorar todo el contenido y enfoque de la formación.
-Incluso si la integración de un número tan alto de jefes de estación recién reclutados debería considerarse, desde una perspectiva de seguridad, como un cambio significativo, no hay indicación de que este cambio haya sido nunca objeto de ninguna evaluación específica de riesgos (4.2.12). Por el contrario, el enfoque presentado parece ser una copia de la forma en que se realizaba la formación de jefes de estación hace 20 años.
+parte de la formación. Por lo tanto, sigue siendo posible que un alumno se presente a la parte práctica poco preparado o con una preparación insuficiente, es decir, en medio de las operaciones de tráfico que deben gestionar los compañeros-formadores experimentados en tiempo real.
+295 
+Lo específico de la parte práctica de la formación es la forma en que los alumnos son asignados y rotan por diferentes estaciones, con diferentes jefes de estación experimentados y con diferentes métodos de gestión del tráfico (hay distintos tipos de paneles de control y hay estaciones sin panel de control). Como tal, este enfoque puede considerarse bueno o válido; sin embargo, no existe garantía ni trazabilidad sobre lo que hacen realmente los alumnos de forma individual, ni sobre si su rotación es suficiente o no para adquirir las competencias necesarias para poder trabajar de forma segura en todas las condiciones.
+Aunque OSE presume que es una práctica conocida y estándar, los roles de los compañeros-formadores, dedicados a llevar a cabo la formación práctica de los nuevos jefes de estación (no certificados aún), no están definidos. No se conoce ni se explica cómo son elegidos o preparados para cumplir su misión formativa. No hay seguimiento de sus tareas específicas de formación, que por cierto pueden interferir con las de garantizar el tráfico.
+296 
+La retroalimentación que se distribuye a través de los compañeros-formadores a los alumnos no está explicada, compartida, consolidada, validada, estandarizada ni es trazable.
+Estos compañeros-formadores, que garantizan la parte práctica de la integración, no participan en el examen final, ni en las evaluaciones intermedias, ya sean sumativas (mediante retroalimentación) o normativas (mediante puntuaciones). Parece que no son reconocidos en absoluto como formadores, o al menos así es como ellos perciben y comentan su situación.
+297 
+No existe o es deficiente la garantía de que todos los puntos críticos de seguridad para la operación del tráfico estén integrados en la formación práctica y evaluados mediante la observación de la práctica o mediante una evaluación práctica relevante. Un ejemplo relevante es el ya descrito (195), que explicaba que, según pudimos identificar, no se pusieron a disposición instrucciones de trabajo específicas que describieran las maniobras a realizar para cada tren (en modo automático o manual, en modo normal o degradado), por lo que esto pudo haber influido en un manejo inconsistente del panel de control.
+298 
+La evaluación global de la cohorte de agosto de 2022 muestra una fuerte consistencia en el éxito, indicando que todos los participantes obtuvieron notas entre 7 y 10 tanto en la parte oral como en la escrita. Esto pone en duda si el enfoque puede definir la capacidad operativa real de los nuevos jefes de estación.
+Una vez certificados, la dirección asume, e incluso algunos nuevos jefes de estación certificados podrían asumirlo, que están listos para desempeñarse al nivel esperado, independientemente de las situaciones o de los recursos puestos a su disposición para dominarlas. Sin embargo, ha sido repetido varias veces por diferentes jefes de estación, tanto nuevos como experimentados, que se tarda al menos entre un año y 1,5 años de práctica operativa para estar más cómodo, menos estresado y más seguro en el desempeño del trabajo de jefe de estación. Esta visión compartida no parece ser tenida en cuenta en ningún momento, ni en la orientación dada a la práctica, ni en el plan de lecciones teóricas, ni en las Habilidades No Técnicas tal como actualmente se apoyan (o no), ni en la retroalimentación final dada después de la integración para eventualmente mejorar todo el contenido y enfoque de la formación.
+299 
+Incluso si la integración de un número tan alto de nuevos jefes de estación reclutados debería considerarse, desde una perspectiva de seguridad, como un cambio significativo, no hay indicación de que este cambio haya sido nunca objeto de ninguna evaluación específica de riesgos (4.2.12). Por el contrario, el enfoque presentado parece ser una copia de la forma en que se realizaba la formación de jefes de estación hace 20 años.
+300 
 4.2.6.2. Planificación de turnos de los jefes de estación
-En esta investigación, en varias ocasiones durante varios meses, cuando se solicitó un informe sobre los turnos realmente realizados, los investigadores recibieron la planificación de turnos tal como estaba prevista. Sin embargo, informalmente e incluso en una declaración oficial, algunos trabajadores experimentados han compartido su agenda con períodos extendidos de tiempo trabajado, incluso de noche. Por ejemplo, 29 turnos de noche consecutivos. Por supuesto, esto debe vincularse con algunos desafíos de gestión como las reducciones brutales y progresivas de personal sin ninguna evaluación de riesgos. O vincularse con un mecanismo para compensar la reducción de salarios tras el recorte del 50% debido a la crisis socioeconómica de 2010 en adelante. No obstante, persisten serias dudas sobre la regularidad (incluso en relación con la legislación griega vigente en esta materia) de la organización de los turnos y su monitorización continua.
-De hecho, ha resultado imposible obtener de los departamentos operativos y centrales de OSE los turnos realmente realizados, con hora de inicio y fin registradas, para cada individuo y durante períodos de tiempo más largos. Esto
+En esta investigación, en varias ocasiones durante varios meses, cuando se solicitó un informe sobre los turnos realmente realizados, a los investigadores les fue proporcionada la planificación de turnos tal como estaba prevista. Sin embargo, informalmente e incluso en una declaración oficial, algunos trabajadores experimentados han compartido su agenda con períodos extendidos de tiempo trabajado, incluso de noche. Por ejemplo, 29 turnos de noche consecutivos. Por supuesto, esto debe vincularse con algunos desafíos de gestión como las reducciones de personal tanto brutales como progresivas sin ninguna evaluación de riesgos. O debe vincularse con un mecanismo para compensar la reducción de salarios tras el recorte del 50% debido a la crisis socioeconómica de 2010 en adelante. No obstante, permanecen serias dudas sobre la regularidad (incluso en relación con la legislación griega vigente en esta materia) de la organización de los turnos y su monitorización continua.
+301 
+De hecho, ha resultado imposible obtener de los Departamentos operativos y centrales de OSE los turnos realmente realizados, con hora de inicio y fin registradas, para cada individuo y para períodos de tiempo más largos. Esto
 
 ## Página 75
+
 
 El problema de trazabilidad sobre el trabajo realmente realizado no solo se detectó para las cuestiones planteadas por EODASAAM, sino que también se confirmó que constituía un obstáculo para que la RAS llevara a cabo sus actividades de supervisión, y así ha sido hasta hace poco. Dadas las conversaciones mantenidas sobre este tema tanto con OSE como con representantes de Hellenic Train, parece
 305
@@ -1625,13 +1677,14 @@ Por otro lado, el Reglamento Interno de OSE, publicado por decreto ministerial e
 
 ## Página 76
 
-establece que la División de Control de Tráfico de OSE es responsable de la coordinación central y del control del tráfico en tiempo real (en comunicación con las empresas ferroviarias), de conformidad con los reglamentos de circulación y seguridad, así como de las instrucciones para el traslado de personal siempre que sea necesario bajo condiciones de tiempo real. En la tarde y noche del 28 de febrero de 2023, la situación del tráfico no puede considerarse «normal»: cuatro trenes habían sufrido averías, había retrasos, congestión del tráfico y muchos problemas por resolver. Esta era claramente una situación irregular y, según este Reglamento Interno, correspondería a la División de Control de Tráfico tomar medidas para regular el tráfico de tal manera que se resolvieran las demandas conflictivas y se priorizaran las acciones, incluida la adopción de medidas para emplear personal de reserva o adicional hasta que el tráfico se normalizara nuevamente. Esto, sin embargo, no ocurrió.
-Además, la posibilidad de supervisar el desempeño de los jefes de estación, en particular el cumplimiento del requisito de establecer itinerarios automáticamente, se introdujo en la «Directriz urgente» publicada por OSE el 22/08/2022 (199): «La recepción o salida de un tren sin formación de itinerario pero con maniobra individual será objeto de control disciplinario mediante el examen de los equipos de registro de los sistemas de señalización». La falta de recursos y las dificultades técnicas para recuperar la información sobre el método aplicado para el establecimiento de itinerarios hicieron, no obstante, que esta actividad de supervisión nunca se pusiera en práctica.
-Otro nivel de supervisión del desempeño también es posible a través de las salas de control de tráfico digitalizadas (nótese que dicha sala de control no estaba operativa cuando ocurrió el accidente de Tempi), y esto concierne a la supervisión del tráfico en túneles, y también, como en el ejemplo siguiente, a la gestión del tráfico mismo. Como se observó durante las visitas in situ (Figura 52), en varias ocasiones durante la investigación, está claro que las decisiones tomadas a través del panel de control en la estación de Larisa, unas pocas decenas de metros más adelante (así como podría serlo a cincuenta o cien kilómetros), pueden observarse y supervisarse fácilmente. Sin embargo, actualmente no se utiliza de esa manera, y no está claro si existe alguna intención de hacerlo en el futuro. Se observó que ha habido un esfuerzo por poner en funcionamiento estas salas de control de tráfico allí donde la infraestructura (señalización) esté disponible. Su uso, no obstante, sigue limitado por la falta de mantenimiento de los desvíos. Como resultado, todavía grandes partes de la ruta Atenas-Tesalónica no están monitorizadas remotamente.
+establece que la División de Control de Tráfico de OSE es responsable de la coordinación central y el control del tráfico en tiempo real (en comunicación con las EIU), de conformidad con los reglamentos de tráfico y seguridad, y las instrucciones para la reubicación del personal siempre que sea necesario bajo condiciones de tiempo real. En la tarde y noche del 28 de febrero de 2023, la situación de tráfico no puede considerarse como «normal»: cuatro trenes habían sufrido averías, había retrasos, tráfico congestionado y muchos problemas por resolver. Esta era claramente una situación irregular y, según este Reglamento Interno, correspondería a la División de Control de Tráfico tomar medidas para regular el tráfico de manera que se resolvieran las demandas conflictivas y se priorizaran las acciones, incluyendo la adopción de medidas para emplear personal de reserva o adicional hasta que el tráfico se normalizara nuevamente. Esto, sin embargo, no ocurrió.
+Además, la posibilidad de supervisar el desempeño de los jefes de estación, en particular el cumplimiento del requisito de establecer rutas automáticamente, se introdujo en la «Directriz urgente» publicada por OSE el 22/08/2022 (199): «La recepción o salida de un tren sin formación de ruta pero con operación individual será objeto de control disciplinario mediante el examen del equipo de registro de los sistemas de señalización». La falta de recursos y las dificultades técnicas para recuperar la información sobre el método aplicado para el establecimiento de rutas hicieron, no obstante, que esta actividad de supervisión nunca se pusiera en práctica.
+Otro nivel de supervisión del desempeño también es posible a través de las salas de control de tráfico digitalizadas (nótese que tal sala de control no estaba operativa cuando ocurrió el accidente de Tempi), y esto concierne a la supervisión del tráfico en túneles, y también, como en el ejemplo siguiente, a la gestión del tráfico mismo. Como se observó durante las visitas in situ (Figura 52), en varias ocasiones durante la investigación, está claro que las decisiones tomadas mediante el panel de control en la estación de Larisa, unas pocas decenas de metros más adelante (así como podría ser cincuenta o cien kilómetros), pueden observarse y supervisarse fácilmente. Sin embargo, actualmente no se utiliza de esa manera, y no está claro si existe alguna intención de hacerlo en el futuro. Se observó que ha habido un esfuerzo por poner en funcionamiento estas salas de control de tráfico allí donde la infraestructura (señalización) esté disponible. Su uso, no obstante, sigue limitado por la falta de mantenimiento de los desvíos. Como resultado, aún grandes partes de la ruta Atenas-Tesalónica no están monitorizadas remotamente.
 Figura 52. Sala de control de tráfico digitalizada en la estación de Larisa, con personal experimentado, en 2025.
-Por último, pero no menos importante, está el papel «natural» del supervisor de los jefes de estación. Al igual que cualquier otro supervisor directo, el líder regional o local puede o podría asumir esta supervisión continua u ocasional. Sin embargo, no se pudo encontrar ninguna indicación ni iniciativa organizada centralmente que guiara esta iniciativa de supervisión. Predomina la percepción de que la supervisión del desempeño conduciría a detectar incumplimientos y al castigo consecutivo del personal. Considerando la falta de personal operativo, la supervisión del desempeño de los jefes de estación se consideró impracticable y, por lo tanto, fue abandonada.
+Por último, pero no menos importante, está el rol «natural» del supervisor de los jefes de estación. Al igual que cualquier otro supervisor directo, el líder regional o local puede o podría asumir esta supervisión continua u ocasional. Sin embargo, no se encontró ninguna indicación ni iniciativa organizada centralmente que guiara esta iniciativa de supervisión. Predomina la percepción de que la supervisión del desempeño conduciría a detectar incumplimientos y al castigo consecutivo del personal. Considerando la falta de personal operativo, la supervisión del desempeño de los jefes de estación se consideró impracticable y, por lo tanto, fue abandonada.
 
 ## Página 77
+
 
 4.2.8. Gestión de la integración de los factores humanos y organizativos (HOF)
 La comprensión y gestión de las interacciones entre los seres humanos y otros elementos de un sistema sociotécnico,
@@ -1672,34 +1725,35 @@ el Gestor de Infraestructura OSE y RAS asumió sus funciones en julio de 2019, i
 ## Página 78
 
 legislación como normas nacionales de seguridad. Tras la consulta mencionada, el 1 de julio de 2020 el Ministerio de Infraestructura y Transporte presentó las propuestas de normas nacionales en materia de seguridad ferroviaria a la ERA y a la Comisión Europea para su evaluación de conformidad con los artículos 25 y 26 del Reglamento de Ejecución (UE) 2016/796.
-Si bien el objetivo principal de este trabajo fue alinear el marco nacional con los requisitos modificados en el Reglamento (UE) 2019/773 (ETI OPE), no existen referencias específicas en el texto principal del GKK a la metodología de comunicación relacionada con la seguridad establecida por el Apéndice C del Reglamento de la UE (257). Los requisitos del Reglamento de la UE, en este caso el Apéndice C de la Decisión 2012/757/UE (ETI OPE 2012), se consideran directamente aplicables en los Estados miembros. Esto significa que se espera una aplicación estricta de la metodología por parte de los jefes de estación y los maquinistas, sin necesidad de especificaciones adicionales en la legislación nacional. Además, los elementos de comunicación relacionados con la seguridad no serían aceptados y recibirían un dictamen negativo durante la evaluación de las Normas Nacionales de Seguridad por la ERA (4.2.20.3).
-En este razonamiento, se requiere la integración de la metodología en diversos documentos relativos a las comunicaciones, como las reglas operativas y los procedimientos de comunicación que forman parte de los Sistemas de Gestión de la Seguridad del gestor de infraestructura y de las empresas ferroviarias, respectivamente, así como la formación continua y la aplicación fiel de la metodología por parte de los maquinistas y los gestores de estación. Tras la publicación del GKK modificado, la RAS, en dos cartas dirigidas al sector ferroviario, señaló explícitamente que «los procedimientos y procesos exigidos por la ETI OPE deben formar parte de las reglas y procedimientos operativos y deben integrarse en el Sistema de Gestión de la Seguridad (SGS) del GI y de las EF». Si bien estas cartas contienen una lista de temas a cubrir, correspondientes al Apéndice I, no obstante, no se hace mención explícita de la necesidad de integrar el apéndice C ni ningún otro elemento relacionado con la metodología de comunicación. En consecuencia, las organizaciones operativas no fueron alertadas explícitamente y probablemente no eran conscientes de la necesidad de actualizar también la metodología de comunicación.
-4.2.10. Proporcionar información en tiempo real a los maquinistas
-A los maquinistas, antes de la salida, se les proporciona información sobre restricciones relacionadas con la infraestructura mediante, por un lado, el horario, proporcionado a los maquinistas por Hellenic Train, y por otro lado, respecto a las restricciones temporales de velocidad, proporcionadas por OSE.
-Las restricciones adicionales y los cambios en tiempo real deben comunicarse a los maquinistas por los jefes de estación, ya sea mediante formularios específicos (p. ej., 1001) o mediante mensajes verbales por el canal VHF.
-Además, de conformidad con el Manual del Maquinista de Hellenic Train (SMS 052), los maquinistas deben contactar con el Centro de Monitorización de Tráfico de la empresa para informar de los problemas identificados en la infraestructura ferroviaria, el material rodante y los retrasos significativos en las rutas. La comunicación de los maquinistas con el Centro de Monitorización de Tráfico se realiza por teléfono. El papel del Centro de Monitorización de Tráfico es también alertar a los maquinistas, a través del mismo canal, de riesgos inminentes en la red, de los que haya sido informado a través del regulador de tráfico de OSE o a través de sus propias fuentes.
-De las comunicaciones grabadas del jefe de estación de Neoi Poroi, se confirma que los maquinistas del tren IC-63 (que posteriormente pasarían a estar a cargo del tren IC-62) fueron informados de que el servicio con operación de vía doble entre las estaciones de Neoi Poroi y Larissa había sido restablecido, al salir de la estación de Neoi Poroi desde la 1ª vía.
-Es importante recordar que deben existir medios de comunicación técnicos disponibles para poder contactar con los maquinistas en tiempo real con información urgente de seguridad.
-En la respuesta de OSE al Juez Instructor fechada el 02-08-2024, se explica que en 2013 se puso en marcha una red de enlaces de radio a través de la red TETRA existente, de modo que las comunicaciones locales simplex VHF procedentes de diferentes receptores analógicos acoplados con estaciones de retransmisión digitales a lo largo del trayecto, serían captadas desde el aire y retransmitidas digitalmente a un repetidor remoto que volvería a emitir las señales remotas a través de un transmisor VHF analógico.
-Este sistema se describe con un diagrama esquemático que muestra las diferentes estaciones, repetidores y enlaces, y se menciona que el sistema funcionaba correctamente sin ninguna queja de sus usuarios.
-Las grabaciones de las diversas estaciones del día del accidente (proporcionadas por OSE en la respuesta al Juez Instructor) muestran que el sistema de retransmisión no estaba funcionando según lo esperado el día del accidente. Como uno de los muchos ejemplos, la grabación CH1_00000459_90.wav de Rapsani muestra que no hay repetidor ni retransmisión digital de señal a lo largo de la línea, ya que se escucha muy claramente al jefe de estación de Neoi Poroi hablando con un tren que pasa por la zona, pero la respuesta del maquinista no se escucha en absoluto, porque es una transmisión de menor potencia
+Si bien el objetivo principal de este trabajo era alinear el marco nacional con los requisitos modificados del Reglamento (UE) 2019/773 (ETI OPE), no existen referencias específicas en el texto principal del GKK a la metodología de comunicación relacionada con la seguridad establecida por el Apéndice C del Reglamento de la UE (257). Los requisitos del Reglamento de la UE, en este caso el Apéndice C de la Decisión 2012/757/UE (ETI OPE 2012), se consideran directamente aplicables en los Estados miembros. Esto significa que se espera una aplicación estricta de la metodología por parte de los jefes de estación y los conductores de tren, sin necesidad de especificaciones adicionales en la legislación nacional. Además, los elementos de comunicación relacionados con la seguridad no serían aceptados y recibirían un dictamen negativo durante la evaluación de las Normas Nacionales de Seguridad por la ERA (4.2.20.3).
+En esta argumentación, se requiere la integración de la metodología en diversos documentos relativos a las comunicaciones, como las reglas operativas y los procedimientos de comunicación que forman parte de los Sistemas de Gestión de la Seguridad del gestor de infraestructura y de las empresas ferroviarias respectivamente, así como la formación continua y la aplicación fiel de la metodología por parte de los conductores de tren y los gestores de estación. Tras la publicación del GKK modificado, RAS, en dos cartas dirigidas al sector ferroviario, señaló explícitamente que «los procedimientos y procesos exigidos por la ETI OPE deben formar parte de las reglas y procedimientos operativos y deben integrarse en el Sistema de Gestión de la Seguridad (SGS) del GI y las EF». Si bien estas cartas contienen una lista de temas a cubrir, correspondientes al Apéndice I, no obstante, no se hace mención explícita de la necesidad de integrar el apéndice C ni ningún otro elemento relacionado con la metodología de comunicación. En consecuencia, las organizaciones operativas no fueron alertadas explícitamente y probablemente no eran conscientes de la necesidad de actualizar también la metodología de comunicación.
+4.2.10. Proporcionar información en tiempo real a los conductores de tren
+A los conductores de tren, antes de la salida, se les proporciona información sobre restricciones relacionadas con la infraestructura mediante, por una parte, el horario, proporcionado a los conductores de tren por Hellenic Train y, por otra parte, respecto a las restricciones temporales de velocidad, proporcionadas por OSE.
+Las restricciones adicionales y los cambios en tiempo real deben comunicarse a los conductores de tren por los jefes de estación, ya sea mediante formularios específicos (p. ej., 1001) o mediante mensajes verbales por el canal VHF.
+Además, de acuerdo con el Manual del conductor de tren de Hellenic (SMS 052), los conductores deben contactar con el Centro de Monitorización de Tráfico de la empresa para informar de problemas identificados en la infraestructura ferroviaria, el material rodante y los retrasos significativos en las rutas. La comunicación de los conductores de tren con el Centro de Monitorización de Tráfico se realiza por teléfono. El papel del Centro de Monitorización de Tráfico es también alertar a los conductores de tren, a través del mismo canal, de riesgos inminentes en la red, de los cuales fue informado a través del regulador de tráfico de OSE o a través de sus propias fuentes.
+De las comunicaciones grabadas del jefe de estación de Neoi Poroi, se confirma que los conductores de tren del tren IC-63 (que posteriormente pasarían a estar a cargo del tren IC-62) fueron informados de que el servicio con operación de vía doble entre las estaciones de Neoi Poroi y Larissa había sido restablecido, al salir de la estación de Neoi Poroi desde la 1ª vía.
+Es importante recordar que deben estar disponibles medios técnicos de comunicación para poder contactar con los conductores de tren en tiempo real con información urgente de seguridad.
+En la respuesta de OSE al Juez Instructor fechada el 02-08-2024, se explica que se puso en marcha en 2013 una red de enlaces de radio a través de la red TETRA existente, de modo que las comunicaciones locales simplex VHF desde diferentes receptores analógicos acoplados con estaciones de relevo digitales a lo largo del trayecto, serían captadas desde el aire y retransmitidas digitalmente a un repetidor remoto que volvería a emitir las señales remotas a través de un transmisor VHF analógico.
+Este sistema se describe con un diagrama esquemático que muestra las diferentes estaciones, repetidores y enlaces y se menciona que el sistema funcionaba correctamente sin ninguna queja de sus usuarios.
+Las grabaciones de las diversas estaciones del día del accidente (proporcionadas por OSE en la respuesta al Juez Instructor) muestran que el sistema de relevo no estaba funcionando según lo esperado el día del accidente. Como uno de los muchos ejemplos, la grabación CH1_00000459_90.wav de Rapsani muestra que no hay repetidor ni relevo digital de señal a lo largo de la línea, ya que se escucha muy claramente al jefe de estación de Neoi Poroi hablando con un tren que pasa por la zona, pero la respuesta del conductor de tren no se escucha en absoluto, porque es una transmisión de menor potencia
 
 ## Página 79
 
-que no es lo suficientemente fuerte para ser captado directamente por el receptor de Rapsani. Si un repetidor o enlace de radio hubiera funcionado correctamente, esta transmisión del maquinista debería haber sido captada por todas las estaciones receptoras en la zona y a lo largo de la ruta del tren. Sin embargo, es muy dudoso que esto pudiera haber influido en el curso del accidente.
+que no es lo suficientemente fuerte para ser captado directamente por el receptor de Rapsani. Si un repetidor o enlace de radio hubiera estado funcionando correctamente, esta transmisión del maquinista debería haber sido captada por todas las estaciones receptoras en la zona y a lo largo de la ruta del tren. Sin embargo, es altamente dudoso que esto pudiera haber influido en el curso del accidente.
 4.2.11. Gestión de instalaciones técnicas (activos)
-Corresponde al gestor de infraestructuras gestionar los riesgos de seguridad asociados con los activos físicos durante todo su ciclo de vida, desde el diseño hasta la eliminación, y cumplir los requisitos de factores humanos en todas las fases del ciclo de vida. Para garantizar esto, la organización debe asegurarse de que los activos se utilicen para el fin previsto manteniendo su estado operativo seguro y su nivel de rendimiento esperado. El gestor de infraestructuras debe gestionar los activos en operaciones normales y degradadas, y detectar tan pronto como sea razonablemente posible los casos de incumplimiento de los requisitos operativos antes o durante la operación del activo, incluida la aplicación de restricciones de uso según corresponda para garantizar un estado operativo seguro del activo. Además, para controlar los riesgos cuando sean relevantes para el suministro de mantenimiento, se debe identificar al menos la necesidad de mantenimiento para mantener el activo en un estado operativo seguro, basándose en el uso planificado y real del activo y sus características de diseño.
+Es función del gestor de infraestructura gestionar los riesgos de seguridad asociados con los activos físicos durante todo su ciclo de vida, desde el diseño hasta la eliminación, y cumplir los requisitos de factores humanos en todas las fases del ciclo de vida. Para garantizar esto, la organización debe asegurarse de que los activos se utilicen para el fin previsto manteniendo su estado operativo seguro y su nivel esperado de rendimiento. El gestor de infraestructura debe gestionar los activos en operaciones normales y degradadas, y detectar tan pronto como sea razonablemente posible los casos de incumplimiento de los requisitos operativos antes o durante la operación del activo, incluida la aplicación de restricciones de uso según corresponda para garantizar un estado operativo seguro del activo. Además, para controlar los riesgos cuando sea relevante para el suministro de mantenimiento, al menos se debe identificar la necesidad de mantenimiento para mantener el activo en un estado operativo seguro, basándose en el uso planificado y real del activo y sus características de diseño.
 En particular, la degradación de elementos relacionados con las instalaciones de control, mando y señalización pareció influir en la carga de trabajo y el rendimiento del jefe de estación en la estación de Larisa la noche del 28/02/2023 (3.8.10).
 En las entrevistas, los ingenieros implicados declararon que no existe monitorización del rendimiento ni mantenimiento preventivo planificado para estos activos. Por falta de personal competente, una intervención solo es posible cuando falla un activo (crítico).
 Mientras se completan incrementalmente, OSE pone en servicio partes de proyectos más grandes de renovación. Sin embargo, para los contratos celebrados para grandes proyectos de renovación (como el contrato 717), no hay disposición para mantenimiento (preventivo) porque contractualmente la propiedad por parte de OSE solo puede comenzar cuando se completa todo el proyecto. En caso de daño para dicha infraestructura, se debe seguir un procedimiento formal y engorroso según lo especificado por la ley griega que rige las obras públicas, lo que resulta en graves retrasos para la reparación (la Ley 3669/08 Artículo 58, vigente en el momento del contrato 717, ha sido ahora reemplazada por la Ley 4412/2016 Artículo 157).
-Los documentos internos de OSE muestran que la financiación para el mantenimiento preventivo a largo plazo, junto con la necesidad de modernización de la red y la contratación de personal adicional, fue identificada como una preocupación principal por la dirección de OSE y discutida con el Gobierno, al menos en el período 2021-2022. En ese momento, el requisito total para las obras de modernización a lo largo de la red principal se estimó en € 670 millones, mientras que un esquema de mantenimiento de 10 años se estimó en el orden de € 550 millones.
-A principios de febrero de 2023, esto resultó en la aprobación de la participación del Estado griego en la financiación, hasta un máximo de € 80 millones, para un proyecto de "Rehabilitación, Modernización y Mantenimiento del Eje Ferroviario del Norte de Grecia mediante una APP". No hay información disponible para el equipo de investigación sobre cómo se implementó posteriormente esta decisión.
+Documentos internos de OSE muestran que la financiación para el mantenimiento preventivo a largo plazo, junto con la necesidad de mejora de la red y la contratación de personal adicional, fue identificada como una preocupación principal por la dirección de OSE y discutida con el Gobierno, al menos en el período 2021-2022. En ese momento, el requisito total para las obras de mejora a lo largo de la red principal se estimó en € 670 millones, mientras que un esquema de mantenimiento a 10 años se estimó del orden de € 550 millones.
+A principios de febrero de 2023, esto resultó en la aprobación de la participación del Estado griego en la financiación, hasta un máximo de € 80 millones, para un proyecto de "Rehabilitación, Mejora y Mantenimiento del Eje Ferroviario del Norte de Grecia mediante una APP". No hay información disponible para el equipo de investigación sobre cómo se implementó posteriormente esta decisión.
 4.2.12. Gestión de riesgos
-La gestión dinámica de riesgos es el núcleo de un sistema de gestión de seguridad bien functioning. Los principales riesgos derivados de la actividad operativa de una organización se mapean, se identifican medidas de gestión de riesgos, cuya eficacia se monitorea continuamente y se evalúa el riesgo residual. También se evalúa sistemáticamente el impacto de los cambios en la organización que pueden tener un impacto en la seguridad.
-El Procedimiento D-07 del Sistema de Gestión de Seguridad del gestor de infraestructuras concierne a la identificación de amenazas y oportunidades derivadas de un posible cambio operativo u organizativo. Este procedimiento demuestra el cumplimiento de los requisitos de los puntos 2.1.1 (h), (i), 3.1.1.1 (a), (b) y 5.3.3 (a), (b) del Anexo II del Reglamento Delegado (UE) 2018/762 de la Comisión. El análisis y evaluación técnica de riesgos está cubierto por el procedimiento D-19 del SGS. El primer procedimiento estipula que el “proceso se utiliza principalmente … cuando se implementan cambios significativos tales como: nuevos recursos humanos, nuevos sistemas de información y comunicación, …”.
-En la medida en que pudo identificarse, el procedimiento D-07 no se aplicó en los casos de la integración de nuevos jefes de estación, ni para la introducción del panel de control en la estación de Larisa (4.2.1.3). El cumplimiento continuo y la implementación de los procedimientos del SGS de OSE son supervisados por la RAS sobre una base muestral. La aplicación de lo anterior
+La gestión dinámica de riesgos es el núcleo de un sistema de gestión de seguridad bien functioning. Los principales riesgos derivados de la actividad operativa de una organización son mapeados, se identifican medidas de gestión de riesgos, cuya eficacia es monitoreada continuamente y el riesgo residual es evaluado. El impacto de los cambios en la organización, que pueden tener un impacto en la seguridad, también es evaluado sistemáticamente.
+El Procedimiento D-07 del Sistema de Gestión de Seguridad del gestor de infraestructura concierne a la identificación de amenazas y oportunidades derivadas de un posible cambio operativo u organizativo. Este procedimiento demuestra cumplimiento con los requisitos de los puntos 2.1.1 (h), (i), 3.1.1.1 (a), (b) y 5.3.3 (a), (b) del Anexo II del Reglamento Delegado (UE) 2018/762 de la Comisión. El análisis y evaluación técnica de riesgos está cubierto por el procedimiento D-19 del SGS. El primer procedimiento estipula que el "proceso se utiliza principalmente... cuando se implementan cambios significativos tales como: nuevos recursos humanos, nuevos sistemas de información y comunicación,...".
+En la medida en que pudo identificarse, el procedimiento D-07 no fue aplicado en los casos de la integración de nuevos jefes de estación, ni para la introducción del panel de control en la estación de Larisa (4.2.1.3). La continua conformidad e implementación de los procedimientos del SGS de OSE es supervisada por la RAS sobre una base muestral. La aplicación de lo anterior
 
 ## Página 80
+
 
 procedimiento en lo que respecta a la integración de nuevos jefes de estación, así como para la reactivación del panel de control en la estación de Larisa, no fue objeto de supervisión por parte de RAS (4.2.19.3).
 Además, el registro de riesgos de OSE no parece estar adaptado a las principales misiones del Gestor de Infraestructura (es decir, construcción
@@ -1726,6 +1780,7 @@ En la respuesta, el equipo fue dirigido hacia la tutoría/mentoría de los maqui
 
 ## Página 81
 
+
 con comportamientos registrados (4.2.3.2) o comportamientos deducidos del contexto (4.2.4).
 Otra parte importante del sistema de gestión de competencias está relacionada con las habilidades no técnicas, los comportamientos y
 349
@@ -1746,6 +1801,7 @@ Además, el rendimiento y las actividades de los maquinistas se supervisan parci
 354
 
 ## Página 82
+
 
 sistema (TELOC). Desde Tempi, este recurso se ha utilizado en un enfoque mejorado, con el fin de detectar anomalías en el rendimiento de conducción de los maquinistas, con especial atención al exceso de velocidad. No solo se ha ampliado el equipo dedicado a esta supervisión, sino que también se han mejorado la frecuencia de las comprobaciones y la entrega de comentarios detallados a los maquinistas afectados.
 Las comunicaciones de los maquinistas con el Centro de Supervisión del Tráfico de Hellenic Train, que está en contacto directo
@@ -1795,6 +1851,7 @@ al operar remotamente los desvíos que ocurrieron antes del accidente descrito e
 
 ## Página 83
 
+
 revisados, con el objetivo de determinar qué lecciones se aprendieron de ellos. Dichos incidentes ocurrieron el
 11 y 22 de noviembre de 2022, y ambos informes concluyen que la causa del incidente es la actuación irregular del
 jefe de estación respectivo. No se realiza ningún intento de analizar y comprender el contexto en el que se cometieron estos errores.
@@ -1830,6 +1887,7 @@ Corresponde a la competencia de los Estados miembros individuales, como parte de
 
 ## Página 84
 
+
 La NIB debería disponer de la capacidad organizativa interna y externa necesaria en términos de recursos humanos y materiales, así como de acceso oportuno e inmediato a las pruebas y testigos.
 A pesar de estar legalmente establecida (por ejemplo, la Ley 4632/2019, que transpone la Directiva sobre Seguridad Ferroviaria, y la Ley 
 374 
@@ -1855,32 +1913,46 @@ en las numerosas cartas alarmantes enviadas por los Sindicatos en los años prev
 
 ## Página 85
 
-En conclusión, ante la ausencia de un NIB para realizar el análisis independiente de accidentes e incidentes, la capacidad del sector ferroviario griego para aprender de los sucesos adversos dependía exclusivamente de las investigaciones realizadas por los operadores como parte de su SMS. Estas investigaciones internas, sin embargo, al centrarse en los errores cometidos por el personal de primera línea individual, carecían sistemáticamente de la profundidad necesaria para introducir cambios sostenibles, limitando con ello el potencial de aprendizaje a un mínimo extremo. Una situación que se vio reforzada además por la forma en que la RAS centró sus investigaciones, análisis y recomendaciones en el incumplimiento normativo.
+En conclusión, ante la ausencia de un NIB para realizar el análisis independiente de accidentes e incidentes, la capacidad del sector ferroviario griego para aprender de los sucesos adversos dependía exclusivamente de las investigaciones realizadas por los operadores como parte de su SMS. Estas investigaciones internas, sin embargo, al centrarse en los errores cometidos por el personal de primera línea individual, carecían sistemáticamente de la profundidad necesaria para introducir cambios sostenibles, limitando así el potencial de aprendizaje a un mínimo extremo. Una situación que se vio reforzada además por la forma en que RAS se centraba en el incumplimiento normativo en sus investigaciones, análisis y recomendaciones.
 Análisis adicional de las capas de control
-Además de la obligación impuesta a los operadores de implantar un sistema de gestión de la seguridad, la legislación europea establece diversos niveles de control para verificar la correcta aplicación y funcionamiento de los principios de gestión de la seguridad. El análisis del funcionamiento de estas capas de control relevantes para esta investigación se expone en los puntos siguientes (4.2.19 a 4.2.21).
+Además de la obligación impuesta a los operadores de implementar un sistema de gestión de la seguridad, la legislación europea establece diversos niveles de control para verificar la correcta implementación y funcionamiento de los principios de gestión de la seguridad. El análisis del funcionamiento de estas capas de control relevantes para esta investigación se recoge en los puntos siguientes (4.2.19 a 4.2.21).
 4.2.19. Actividades de control realizadas por la Autoridad Nacional de Seguridad
-Una autoridad nacional de seguridad (NSA) debe supervisar el cumplimiento continuado de la obligación legal impuesta a una empresa ferroviaria o a un administrador de infraestructuras de establecer un sistema de gestión de la seguridad (SMS). La acreditación de dicho cumplimiento se basa principalmente en documentación en el momento de otorgar un certificado de seguridad o una autorización de seguridad, pero requerirá inspecciones in situ y otras tareas de supervisión para evaluar que los operadores siguen aplicando debidamente su SMS de forma continua.
+Una autoridad nacional de seguridad (NSA) debe supervisar el cumplimiento continuado de la obligación legal impuesta a una empresa ferroviaria o a un gestor de infraestructura de establecer un sistema de gestión de la seguridad (SMS). La acreditación de dicho cumplimiento se basa principalmente en documentación en el momento de otorgar un certificado de seguridad o una autorización de seguridad, pero requerirá inspecciones in situ y otras tareas de supervisión con el fin de evaluar que los operadores siguen aplicando debidamente su SMS de manera continua.
 4.2.19.1. Aprobación de maquinistas
-Según la especificación técnica de interoperabilidad relativa al subsistema «operación y gestión del tráfico» del sistema ferroviario de la Unión Europea, el personal que realiza tareas críticas para la seguridad debe poseer la aptitud adecuada para garantizar que se cumplen los estándares operativos y de seguridad generales. Tanto las empresas ferroviarias como el administrador de infraestructuras deben establecer sistemas para garantizar que se realicen los exámenes y evaluaciones adicionales apropiados para su respectivo personal afectado.
-Tanto los procedimientos para convertirse o mantenerse en el puesto de maquinista, como la licencia/certificación que debe poseer un maquinista, pueden ser verificados y supervisados por la Autoridad Nacional de Seguridad.
-En el contexto de este accidente, y debido al perfil de uno de los maquinistas del IC-62 (que tuvo que superar diferentes problemas de salud durante varios años), el equipo investigador intentó recopilar toda la información y los expedientes posibles sobre el caso. El expediente facilitado era particularmente vago, mencionando únicamente un dictamen final positivo. Para que la licencia de este maquinista siguiera siendo válida, los médicos enviaron certificados de aptitud física a la RAS correspondientes a 2021, 2022 y 2023, en los que se declara al maquinista apto para el trabajo. En su respuesta, la RAS señala que, a su juicio, los médicos reconocidos son plenamente responsables de emitir los certificados de aptitud física de los maquinistas, basándose en los reconocimientos médicos realizados. Sin embargo, a pesar de la aparente gravedad de las preocupaciones sanitarias, no se pudo encontrar ninguno de los reconocimientos médicos ni evaluaciones psicológicas relacionados con la función del maquinista.
-La falta de información en un caso tan grave llevó al equipo investigador a cuestionar los criterios médicos y psicológicos a utilizar, su comunicación a los centros de evaluación y especialistas pertinentes, su frecuencia y ocasiones de evaluación, así como la naturaleza y alcance de la retroalimentación útil compartida con los gestores correspondientes para que pudieran adoptar medidas adecuadas de gestión del riesgo. La capacidad de los operadores ferroviarios para gestionar estas cuestiones como parte de su sistema de gestión de la seguridad debería formar parte de las actividades de supervisión realizadas por la RAS.
-4.2.19.2. Autorización de Seguridad para el Administrador de Infraestructuras OSE
-Mediante su Decisión n.º 1940/20-10-2021, la RAS aprobó la renovación de la Autorización de Seguridad del administrador de infraestructuras OSE (EL 21 2021 0001), inicialmente emitida en 2015 (EL 21 2015 0001), con efectos desde el 4 de octubre de 2021 hasta el 3 de octubre de 2026. Esta Autorización de Seguridad fue actualizada nuevamente (EL 21 2022 0001), manteniendo la misma fecha de caducidad, mediante la Decisión n.º 1647/21-06-2022, con el fin de satisfacer el requisito para el administrador de infraestructuras OSE
+Según la especificación técnica de interoperabilidad relativa al subsistema «operación y gestión del tráfico» del sistema ferroviario de la Unión Europea, el personal que realiza tareas críticas para la seguridad debe poseer la aptitud adecuada para garantizar que se cumplen los estándares operativos y de seguridad generales. Tanto las empresas ferroviarias como el gestor de infraestructura deben establecer sistemas para garantizar que se realicen los exámenes y evaluaciones adicionales apropiados para su respectivo personal afectado.
+Tanto los procedimientos para convertirse o mantenerse en el rol de maquinista, como la licencia/certificación que debe poseer un maquinista, pueden ser verificados y supervisados por la Autoridad Nacional de Seguridad.
+En el contexto de este accidente, y debido al perfil de uno de los maquinistas del IC-62 (que tuvo que superar diferentes problemas de salud durante varios años), el equipo investigador intentó recuperar toda la información y los expedientes posibles sobre el caso. El expediente facilitado era particularmente vago, mencionando únicamente un dictamen positivo final. Para que la licencia de este maquinista siguiera siendo válida, los médicos enviaron certificados de aptitud física a la RAS correspondientes a 2021, 2022 y 2023, en los que se declara al maquinista apto para el trabajo. En su respuesta, la RAS señala que, a su juicio, los médicos reconocidos son plenamente responsables de emitir los certificados de aptitud física de los maquinistas, basándose en los exámenes médicos realizados. Sin embargo, a pesar de la aparente gravedad de las preocupaciones sanitarias, no se pudo encontrar ninguno de los exámenes médicos ni evaluaciones psicológicas relacionados con la función del maquinista.
+La falta de información en un caso tan grave llevó al equipo investigador a cuestionar los criterios médicos y psicológicos a utilizar, su comunicación a los centros de evaluación y especialistas pertinentes, su frecuencia y ocasiones de evaluación, así como la naturaleza y alcance de la retroalimentación útil compartida con los gestores afectados para que pudieran adoptar medidas adecuadas de gestión del riesgo. La capacidad de los operadores ferroviarios para gestionar estas cuestiones como parte de su sistema de gestión de la seguridad debería formar parte de las actividades de supervisión realizadas por la RAS.
+4.2.19.2. Autorización de Seguridad para el Gestor de Infraestructura OSE
+Mediante su Decisión No 1940/20-10-2021, la RAS aprobó la renovación de la Autorización de Seguridad del gestor de infraestructura OSE (EL 21 2021 0001), inicialmente emitida en 2015 (EL 21 2015 0001), con efectos desde el 4 de octubre de 2021 hasta el 3 de octubre de 2026. Esta Autorización de Seguridad fue actualizada nuevamente (EL 21 2022 0001), manteniendo la misma fecha de caducidad, mediante la Decisión No 1647/21-06-2022, con el fin de satisfacer el requisito para el gestor de infraestructura OSE
 
 ## Página 86
 
-para demostrar el cumplimiento del anexo II del Reglamento de Ejecución (UE) 2019/779 de la Comisión, en relación con el mantenimiento de los vehículos utilizados exclusivamente para sus propias operaciones.
-Ambas autorizaciones hacen mención a un número limitado de «puntos problemáticos», principalmente en relación con las observaciones realizadas durante actividades de supervisión anteriores, que sin embargo «no impiden la renovación de una Autorización de Seguridad y (para los cuales) la finalización de las acciones requeridas será verificada por la RAS durante la supervisión, tras la emisión de la Autorización de Seguridad renovada». Las graves deficiencias en el SMS de OSE respecto a procesos esenciales como el seguimiento del rendimiento (4.2.7), la capacidad de aprendizaje (4.2.16), la competencia (4.2.6), la gestión del riesgo y del cambio (4.2.12), que se han hecho evidentes a través de esta investigación, no fueron identificadas cuando se emitieron estas autorizaciones de seguridad.
-Una explicación parcial es que, durante la fase de evaluación de las solicitudes de autorización de seguridad de OSE, la evaluación solo llegó hasta la disponibilidad de la documentación y la verificación del cumplimiento de estos documentos, principalmente los procedimientos del SMS, frente a los requisitos del anexo II del Reglamento (UE) 2018/762, sin exigir la presentación de pruebas objetivas de la implementación de dichos procedimientos.
-Se supuso que las pruebas objetivas mencionadas anteriormente se buscarían durante la fase de supervisión y se identificaron varias deficiencias en la implementación del SMS de OSE (por ejemplo, 378, 341). Sin embargo, como también identificó la ERA mediante el seguimiento consecutivo de las actividades de la ANS en 2019 y 2022 respectivamente (4.2.20.2), las actividades de supervisión de la RAS están poco desarrolladas, lo que conduce al hallazgo de que «la RAS no ha desarrollado una visión sobre el nivel de rendimiento de seguridad del sistema ferroviario griego» (4.2.19.3).
-Además, aunque se observó e informó sobre la no aplicación de los Reglamentos (UE) 1078/2012 (método común de seguridad sobre el seguimiento del SMS) y (UE) 402/2013 (método común de seguridad sobre la evaluación y valoración del riesgo), la RAS implementó una estrategia para apoyar y asistir al gestor de infraestructura y al sector ferroviario en general, proporcionando asesoramiento sobre la comprensión de los requisitos para el SMS. Esta estrategia generó, en el mejor de los casos, solo un cambio muy lento.
-4.2.19.3. Supervisión de los Sistemas de Gestión de la Seguridad
-El Reglamento (UE) 2018/761 establece un objetivo común para la supervisión, a fin de garantizar que las Autoridades Nacionales de Seguridad otorguen el efecto adecuado a la vigilancia de que la empresa ferroviaria o el gestor de infraestructura disponga e implemente eficazmente su sistema de gestión de la seguridad para que el sistema ferroviario opere de manera segura. Tras los resultados de su supervisión, las ANS pueden tomar medidas coercitivas proporcionadas (por ejemplo, medidas temporales de seguridad) para asegurar el cumplimiento legal e informar a las partes interesadas sobre los cambios realizados en el marco regulatorio de seguridad, así como sobre cualquier riesgo emergente o aumento de riesgos en sus Estados miembros.
-Cuando se evalúa según los criterios de este reglamento, como también identificó previamente el seguimiento consecutivo de las actividades de la ANS por parte de la ERA en 2019 y 2022 respectivamente (4.2.20.2), las actividades de supervisión de la RAS mostraron deficiencias claras. Aunque se desarrolló una estrategia de supervisión, que tiene en cuenta elementos relevantes en relación con el rendimiento de seguridad observado del sistema ferroviario griego, entre las dos actividades de seguimiento, a la RAS todavía le falta una planificación estructurada y basada en el riesgo para sus actividades de supervisión. Además, no existe un análisis integrado y sistemático del rendimiento de seguridad de cada empresa ferroviaria y gestor de infraestructura, lo que resulta en la imposibilidad para la RAS de establecer una visión sobre el nivel de rendimiento del sistema ferroviario griego. Finalmente, el incumplimiento por parte de los operadores ferroviarios, incluso cuando persiste, solo se aborda mediante intercambio de cartas y comunicación limitada, sin hacer uso de los mecanismos sancionadores existentes.
-Varios elementos explican esta falta de supervisión efectiva por parte de la RAS. En primer lugar, existe un conocimiento evolutivo entre el personal que realiza la supervisión de los requisitos establecidos por la legislación europea. En segundo lugar, hay un desequilibrio entre las tareas requeridas para la supervisión de la seguridad y los recursos humanos disponibles. De los 20 empleados contratados por la RAS (sobre un número permitido de 35), solo 6 están disponibles para actividades de supervisión, de los cuales solo 4 trabajan en el Departamento de Seguridad. Finalmente, existe un reconocimiento limitado de la autoridad que la RAS puede y debe ejercer como ANS, principalmente por parte del gestor de infraestructura. Un ejemplo típico de esto es que, cuando, tras el accidente de Tempi, la RAS ordenó a OSE -bajo amenaza de sanciones financieras- dejar de utilizar a los jefes de estación mal formados que fueron reclutados en 2022, hasta que se tomaran las acciones correctivas acordadas, esta orden fue completamente ignorada por OSE, hasta ahora sin ninguna consecuencia. Desde el accidente de Tempi, la RAS ha comenzado a utilizar más eficazmente sus poderes legales, imponiendo, en varios casos, multas por incumplir disposiciones de la ley.
+para demostrar el cumplimiento del Anexo II del Reglamento de Ejecución (UE) 2019/779 de la Comisión, en relación
+con el mantenimiento de los vehículos utilizados exclusivamente para sus propias operaciones.   
+Ambas autorizaciones hacen mención de un número limitado de «puntos problemáticos», principalmente en relación con las observaciones
+388 
+realizadas durante actividades anteriores de supervisión, que sin embargo «no impiden la renovación de una Autorización de Seguridad y (para los cuales) la finalización de las acciones requeridas será verificada por la RAS durante la supervisión, tras la emisión de la Autorización de Seguridad renovada». Las graves deficiencias en el SMS de OSE respecto a procesos esenciales como el seguimiento del rendimiento (4.2.7), la capacidad de aprendizaje (4.2.16), la competencia (4.2.6), la gestión del riesgo y del cambio (4.2.12) que se han hecho evidentes mediante esta investigación no fueron identificadas cuando se emitieron estas autorizaciones de seguridad. 
+Una explicación parcial es que durante la fase de evaluación de las solicitudes de autorización de seguridad de OSE, la
+389 
+evaluación solo llegó hasta la disponibilidad de la documentación y la verificación del cumplimiento de estos documentos, principalmente los procedimientos del SMS, frente a los requisitos del Anexo II del Reglamento (UE) 2018/762, sin exigir la presentación de pruebas objetivas de la implementación de dichos procedimientos.  
+Se suponía que las pruebas objetivas anteriores se buscaban durante la fase de supervisión y se identificaron varias deficiencias en la
+390 
+implementación del SMS de OSE (p. ej. 378, 341). Sin embargo, como también identificó la ERA mediante la monitorización consecutiva de las actividades de las ANS en 2019 y 2022 respectivamente (4.2.20.2), las actividades de supervisión de la RAS están poco desarrolladas, lo que conduce al hallazgo de que «la RAS no ha desarrollado una visión sobre el nivel de rendimiento de seguridad del sistema ferroviario griego» (4.2.19.3).  
+Adicionalmente, aunque se observó e informó sobre la no aplicación de los Reglamentos (UE) 1078/2012 (método común de seguridad sobre el seguimiento del SMS) y (UE) 402/2013 (método común de seguridad sobre la evaluación y valoración del riesgo), la RAS implementó una estrategia para apoyar y asistir al gestor de infraestructura y al sector ferroviario en general, proporcionando asesoramiento sobre la comprensión de los requisitos para el SMS. Esta estrategia generó, en el mejor de los casos, solo un cambio muy lento. 
+4.2.19.3. Supervisión de los Sistemas de Gestión de la Seguridad  
+El Reglamento (UE) 2018/761 establece un propósito común para la supervisión con el fin de garantizar que las Autoridades Nacionales de Seguridad
+392 
+den un efecto adecuado a la supervisión de que la empresa ferroviaria o el gestor de infraestructura dispone e implementa eficazmente su sistema de gestión de la seguridad para que el sistema ferroviario opere de forma segura. Tras los resultados de su supervisión, las ANS pueden tomar medidas coercitivas proporcionadas (p. ej. medidas temporales de seguridad) para asegurar el cumplimiento legal e informar a las partes interesadas sobre los cambios realizados en el marco regulatorio de seguridad, así como sobre cualquier riesgo emergente o aumento de riesgos en sus Estados miembros. 
+Cuando se evalúa contra los criterios de este reglamento, como también identificó previamente la monitorización consecutiva de las
+393 
+actividades de las ANS por parte de la ERA en 2019 y 2022 respectivamente (4.2.20.2), las actividades de supervisión de la RAS mostraron claras deficiencias. Aunque se desarrolló una estrategia de supervisión, que tiene en cuenta elementos relevantes en relación con el rendimiento de seguridad observado del sistema ferroviario griego, entre las dos actividades de monitorización, a la RAS aún le falta una planificación estructurada y basada en el riesgo para sus actividades de supervisión. Además, no existe un análisis integrado y sistemático del rendimiento de seguridad de cada empresa ferroviaria y gestor de infraestructura, lo que resulta en la imposibilidad para la RAS de establecer una visión sobre el nivel de rendimiento del sistema ferroviario griego. Finalmente, el incumplimiento por parte de los operadores ferroviarios, incluso cuando persiste, solo se aborda mediante intercambio de cartas y comunicación limitada, sin hacer uso de los mecanismos sancionadores existentes. 
+Varios elementos explican esta falta de supervisión efectiva por parte de la RAS. En primer lugar, existe un conocimiento evolutivo
+394 
+entre el personal que realiza la supervisión, de los requisitos establecidos por la legislación europea. En segundo lugar, hay un desequilibrio entre las tareas requeridas para la supervisión de seguridad y los recursos humanos disponibles. De los 20 empleados contratados por la RAS (sobre un número permitido de 35), solo 6 están disponibles para actividades de supervisión, de los cuales solo 4 trabajan en el Departamento de Seguridad. Finalmente, existe un reconocimiento limitado de la autoridad que la RAS puede y debe ejercer como ANS, principalmente por parte del gestor de infraestructura. Un ejemplo típico de esto es que cuando, tras el accidente de Tempi, la RAS ordenó a OSE - bajo amenaza de sanciones financieras - dejar de utilizar a los jefes de estación mal formados que fueron reclutados en 2022, hasta que se tomaran las acciones correctivas acordadas, esta orden fue completamente ignorada por OSE, hasta ahora sin ninguna consecuencia. Desde el accidente de Tempi, la RAS ha comenzado a usar más eficazmente sus poderes legales, imponiendo, en varios casos, multas por incumplir disposiciones de la ley.
 
 ## Página 87
+
 
 4.2.20. Actividades de control realizadas por la Agencia Ferroviaria de la Unión Europea 
 Con la introducción del Cuarto Paquete Ferroviario, la Agencia Ferroviaria de la Unión Europea (ERA) adquirió una serie 
@@ -1911,6 +1983,7 @@ una parte, por el Art. 33 del Reglamento (UE) 2016/796, que define el ámbito y 
 
 ## Página 88
 
+
 clasificadas como observaciones o como deficiencias, siendo estas últimas las que impiden que la ANS desempeñe eficazmente algunas o todas sus tareas. Aunque se proporcionan criterios para identificar hallazgos que afectan a la capacidad de las ANS para cumplir con las tareas de seguridad/interoperabilidad, el método y el marco jurídico actual no contemplan plenamente la posibilidad de identificar aquellos hallazgos con un mayor impacto potencial en la seguridad ferroviaria.
 RAS, en su calidad de Autoridad Nacional de Seguridad de Grecia, fue objeto de dos auditorías por parte de la ERA bajo este régimen402 de seguimiento de las ANS. La primera de estas auditorías, realizada entre el 25/09/2019 y el 20/11/2019, dio lugar a 4 observaciones y 4 deficiencias en relación con el tema de la supervisión y, en cuanto al tema de las competencias, a 2 deficiencias y 2 observaciones. Tras las decisiones del Consejo de Administración de la ERA, el ámbito de las auditorías en el primer ciclo solo cubría los temas de competencias y supervisión. A pesar de existir un plan de acción acordado sobre cuya implementación se aportaron pruebas documentales periódicas, la segunda auditoría, que tuvo lugar entre el 19/02/2022 y el 04/11/2022, concluyó que: las 4 deficiencias no habían sido abordadas plenamente y seguían siendo deficiencias, y de las 4 observaciones, 1 pudo ser cerrada, 2 fueron abordadas solo parcialmente y se mantuvieron como observaciones, y 1 no fue abordada adecuadamente y pasó a ser una deficiencia (393).
 Aparentemente, el escaso progreso registrado entre ambas auditorías en lo relativo a la supervisión adecuada del sector ferroviario por parte de RAS403 no fue identificado como crítico durante el seguimiento intermedio, basado en la evaluación de documentos y explicaciones proporcionadas durante las reuniones de retroalimentación, y no se activaron medidas adicionales dado que la ANS griega aceptó los hallazgos y se comprometió a trabajar para lograr las mejoras requeridas mediante la aplicación de los planes de acción acordados.
@@ -1925,34 +1998,34 @@ Asimismo, no existe transparencia sobre qué ocurre con las normas nacionales no
 
 ## Página 89
 
-evaluación de la ERA, lo cual sería el caso con las normas operativas que especifican la metodología para la comunicación relacionada con la seguridad. Interrogada sobre el seguimiento de la aplicación práctica del derecho ferroviario de la UE, incluida la legislación directamente aplicable, como los Reglamentos y las Decisiones, la Comisión Europea respondió que se basa esencialmente en la información procedente de la supervisión por parte de la Agencia de las autoridades nacionales de seguridad y los organismos notificados, así como de las reclamaciones. En este contexto, la Comisión Europea también declaró que: «Los Estados miembros tienen la responsabilidad principal de aplicar e implementar correctamente el Derecho de la Unión. Las autoridades nacionales de seguridad fueron establecidas para supervisar la aplicación del acervo comunitario entre las partes interesadas, dada su experiencia técnica y la alta complejidad de los Reglamentos y Decisiones en el ámbito ferroviario, como la ETI OPE».
+evaluación de la ERA, lo cual sería el caso con las normas operativas que especifican la metodología para la comunicación relacionada con la seguridad. Cuestionada sobre el seguimiento de la aplicación práctica del Derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión Europea respondió que se basa esencialmente en la información procedente de la supervisión por parte de la Agencia de las autoridades nacionales de seguridad y los organismos notificados, así como de las denuncias. En este contexto, la Comisión Europea también declaró que: «Los Estados miembros tienen la responsabilidad principal de aplicar e implementar correctamente el Derecho de la Unión. Las autoridades nacionales de seguridad fueron establecidas para supervisar la aplicación del acervo comunitario entre las partes interesadas, dada su experiencia técnica y la alta complejidad de los Reglamentos y Decisiones en el ámbito ferroviario, como la ETI OPE».
 En el caso específico de Grecia, donde la necesidad de integrar la metodología de comunicación requerida en las instrucciones operativas no fue reconocida por todo el sector ferroviario (incluido el Ministerio y la Autoridad Nacional de Seguridad (4.2.9)), la falta de control puede resultar en una implementación inadecuada de las normas operativas especificadas por la UE que pueden tener un impacto directo en la seguridad.
 4.2.21. Aplicación de la legislación de la UE
-El marco jurídico de la UE aplicable al sistema ferroviario incluye Directivas, que requieren transposición por parte de los Estados miembros, así como Reglamentos y Decisiones, que son directamente aplicables y, por tanto, no necesitan ser transpuestas a la legislación nacional. Hasta ahora, los esfuerzos de la Comisión en materia de aplicación del marco jurídico de la UE se han centrado principalmente en los controles de transposición de las Directivas, que se llevan a cabo de oficio. Sin embargo, para dar seguimiento a la aplicación práctica del derecho ferroviario de la UE, incluida la legislación inmediatamente aplicable, como los Reglamentos y las Decisiones, la Comisión se basa esencialmente en la información procedente de la supervisión por parte de la Agencia de las autoridades nacionales de seguridad y los organismos notificados, así como de las reclamaciones.
-Cuando los hallazgos de las auditorías de supervisión de la ANS revelan incumplimientos del Derecho de la UE y las respuestas proporcionadas por el Estado miembro son insuficientes, la Comisión puede iniciar un procedimiento de infracción conforme al artículo 258 del Tratado de Funcionamiento de la Unión Europea. El procedimiento se dirige contra el Estado miembro y no contra organismos o autoridades individuales. Los casos formales de infracción pueden ir precedidos de un diálogo informal con el Estado miembro a través del llamado mecanismo EU Pilot, con el fin de recopilar información y pruebas adicionales y procurar resolver el asunto fuera de los procedimientos formales de infracción. En cuanto a Grecia, se abrió un EU Pilot en relación con la transposición de la Directiva (UE) 2016/798.
-Los hallazgos de la auditoría de supervisión de la ANS de 2019 (cuyo informe se entregó en enero de 2020) relativos a la falta de un ONB operativo fueron debidamente tenidos en cuenta e incorporados al proceso de verificación de conformidad de la transposición griega de la Directiva de Seguridad Ferroviaria, que se estaba llevando a cabo en paralelo en ese momento. En abril de 2021, en el marco de un caso EU Pilot, la Comisión contactó con las autoridades griegas para obtener explicaciones sobre la transposición y aplicación de algunas de las disposiciones de la Directiva de Seguridad Ferroviaria, incluido el artículo 20(1), que establece la obligación de investigar accidentes graves. En su respuesta, las autoridades griegas compartieron su intención de preparar una modificación legal que fusionara los organismos de investigación de accidentes para el transporte ferroviario y aéreo. Con este fin, la Ley 5014/2023 fue publicada el 21 de enero de 2023, estableciendo la Organización Nacional para la Investigación de Accidentes Aéreos y Ferroviarios y Seguridad del Transporte (EODASAAM). Transcurrieron otros 14 meses antes de que la parte ferroviaria de este organismo investigador se volviera operativa, con el traslado de un primer investigador responsable (44).
-Dado que el procedimiento de infracción (engorroso y lento) es el único instrumento formal a disposición de la Comisión para la aplicación cuando los contactos informales resultan insuficientes para resolver un asunto de cumplimiento del Derecho de la UE, se pierde tiempo valioso cada vez que los incumplimientos identificados están relacionados con elementos de la legislación que conciernen a la seguridad ferroviaria.
+El marco jurídico de la UE aplicable al sistema ferroviario incluye Directivas, que requieren transposición por parte de los Estados miembros, así como Reglamentos y Decisiones, que son de aplicación directa y, como tales, no necesitan ser transpuestos a la legislación nacional. Hasta la fecha, los esfuerzos de la Comisión en materia de aplicación del marco jurídico de la UE se han centrado principalmente en las comprobaciones de transposición de las Directivas, que se llevan a cabo de oficio. Sin embargo, para dar seguimiento a la aplicación práctica del Derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión se basa esencialmente en la información procedente de la supervisión por parte de la Agencia de las autoridades nacionales de seguridad y los organismos notificados, así como de las denuncias.
+Cuando los hallazgos de las auditorías de supervisión de la ANS revelan incumplimientos del Derecho de la UE y las respuestas proporcionadas por el Estado miembro son insuficientes, la Comisión puede iniciar un procedimiento de infracción conforme al artículo 258 del Tratado de Funcionamiento de la Unión Europea. El procedimiento se dirige contra el Estado miembro y no contra organismos o autoridades individuales. Los casos formales de infracción pueden ir precedidos de un diálogo informal con el Estado miembro a través del denominado mecanismo EU Pilot con el fin de recopilar información y pruebas adicionales y esforzarse por resolver el asunto fuera de los procedimientos formales de infracción. En cuanto a Grecia, se abrió un EU Pilot en relación con la transposición de la Directiva (UE) 2016/798.
+Los hallazgos de la auditoría de supervisión de la ANS de 2019 (cuyo informe se entregó en enero de 2020) relativos a la ausencia de un ONB operativo fueron debidamente tenidos en cuenta e incorporados al proceso de verificación de conformidad de la transposición griega de la Directiva de Seguridad Ferroviaria, que estaba en curso en paralelo en ese momento. En abril de 2021, en el marco de un caso EU Pilot, la Comisión contactó a las autoridades griegas para obtener explicaciones sobre la transposición y aplicación de algunas disposiciones de la Directiva de Seguridad Ferroviaria, incluido el artículo 20, apartado 1, que establece la obligación de investigar accidentes graves. En su respuesta, las autoridades griegas compartieron su intención de preparar una modificación legal que fusionara los organismos de investigación de accidentes para el transporte ferroviario y aéreo. Con este fin, la Ley 5014/2023 fue publicada el 21 de enero de 2023, estableciendo la Organización Nacional para la Investigación de Accidentes Aéreos y Ferroviarios y la Seguridad del Transporte (EODASAAM). Transcurrieron otros 14 meses antes de que la parte ferroviaria de este organismo investigador se volviera operativa, con el traslado de un primer investigador responsable (44).
+Dado que el procedimiento de infracción (engorroso y lento) es el único instrumento formal a disposición de la Comisión para la aplicación cuando los contactos informales resultan insuficientes para resolver un asunto de cumplimiento del Derecho de la UE, se pierde un tiempo valioso cada vez que los incumplimientos identificados están relacionados con elementos de la legislación que conciernen a la seguridad ferroviaria.
 
 ## Página 90
 
-4.3. La colisión de los trenes
-En el momento del primer impacto, según lo registrado por los datos TELOC embarcados recuperados del lugar del accidente, la velocidad del tren 63503 era de 89,91 km/h. Esto se encuentra dentro del límite de velocidad de 100 km/h para los trenes de mercancías en esta ubicación (4.2.4). Dado que los maquinistas del tren 63503 no pudieron identificar con antelación el peligro inminente del tren de pasajeros que salía del túnel, el frenado de emergencia se activó solo un segundo antes del impacto real.
-Figura 54. Grabador de datos TELOC embarcado, tren 63503, locomotora 120-022, recuperado por peritos judiciales el 05.03.2023.
-Con el grabador de datos TELOC del tren IC-62 dañado y sus componentes de almacenamiento de datos electrónicos destruidos por el incendio posterior a la colisión, no existe un registro directo de la velocidad del tren IC-62 en el momento del primer impacto. Sin embargo, elementos posteriores sugieren que la velocidad del tren de pasajeros también estaba dentro de los límites predeterminados de 160 km/h (4.2.4). Existe el último punto de datos registrado desde el módulo GPS embarcado mostrando una velocidad de 154 km/h 12 segundos antes del primer impacto. Además, EDAPO, utilizando las grabaciones disponibles de las cámaras de control de tráfico de autopista, también calculó la velocidad de este tren como aproximadamente 150 km/h en el momento del impacto.
-4.3.1. Mecanismos causantes de lesiones
-Los 4 maquinistas que estaban sentados en las cabinas de conducción murieron instantáneamente debido a las fuerzas extremas del impacto. Las fuerzas mecánicas extremas se extienden hacia atrás hasta incluir la cabina trasera de la locomotora IC-62 (1 víctima, maquinista de reserva como pasajero) y el coche de primera clase (12 pasajeros y 1 empleado ferroviario viajando como pasajero). Del estado de los vehículos totalmente destruidos y de los informes de autopsia de las víctimas, es claro que ninguna de estas 18 víctimas tuvo posibilidad alguna de supervivencia debido a la brutal deceleración y las fuerzas mecánicas de la colisión inicial.
-Otras 9 víctimas fueron debidas a trauma mecánico causado por choques secundarios de vehículos que siguieron al impacto inicial. Dos de ellos eran empleados del tren que casualmente se encontraban en la parte delantera del vagón Restaurante y otros 7 eran pasajeros que viajaban en los dos primeros compartimentos y en el último compartimento del coche B2. Los 7 fueron encontrados fuera del vagón: 3 en la parte delantera, posteriormente calcinados fuera de cualquier estructura cerrada, otros 2 en la parte delantera con heridas graves, y 2 en la parte trasera, expulsados de un compartimento desprendido. De los hallazgos de los informes de autopsia y otra información disponible, podemos concluir que estas 9 víctimas sobrevivieron al impacto inicial pero luego sufrieron heridas muy graves durante los siguientes 3-4 segundos durante los choques secundarios de los vehículos, sin ninguna posibilidad de supervivencia.
-Según la mejor estimación posible, otras 20 (+/- 2) víctimas fueron causadas por las estructuras que se cerraron sobre ellas y las aplastaron sin dejarles suficiente espacio de supervivencia. La causa real de la muerte sería trauma mecánico junto con asfixia debido a la compresión del tórax.
-
+4.3. La colisión de los trenes 
+En el momento del primer impacto, según lo registrado por los datos TELOC a bordo recuperados del lugar del accidente, la velocidad del tren 63503 era de 89,91 km/h. Esto se encuentra dentro del límite de velocidad de 100 km/h para los trenes de mercancías en esta ubicación (4.2.4). Dado que los maquinistas del tren 63503 no pudieron haber identificado con antelación el peligro inminente del tren de pasajeros que salía del túnel, el frenado de emergencia se activó solo un segundo antes del impacto real. 
+Figura 54. Grabador de datos TELOC a bordo, tren 63503, locomotora 120-022, recuperado por peritos judiciales el 05.03.2023. 
+Con el grabador de datos TELOC del tren IC-62 dañado y sus componentes de almacenamiento de datos electrónicos destruidos por el incendio posterior a la colisión, no existe registro directo de la velocidad del tren IC-62 en el momento del primer impacto. Sin embargo, elementos posteriores sugieren que la velocidad del tren de pasajeros también estaba dentro de los límites predeterminados de 160 km/h (4.2.4). Existe el último punto de datos registrado desde el módulo GPS a bordo que muestra una velocidad de 154 km/h 12 segundos antes del primer impacto. Además, EDAPO, utilizando las grabaciones disponibles de las cámaras de control de tráfico de autopistas, también calculó la velocidad de este tren como aproximadamente 150 km/h en el momento del impacto. 
+4.3.1. Mecanismos causantes de lesiones 
+Los 4 maquinistas que estaban sentados en las cabinas de conducción murieron instantáneamente debido a las fuerzas extremas del impacto. Las fuerzas mecánicas extremas se extienden hacia atrás hasta incluir la cabina trasera de la locomotora IC-62 (1 víctima, maquinista de reserva como pasajero) y el coche de primera clase (12 pasajeros y 1 empleado ferroviario viajando como pasajero). Del estado de los vehículos totalmente destruidos y de los informes de autopsia de las víctimas, está claro que ninguna de estas 18 víctimas tuvo posibilidad de supervivencia debido a la brutal deceleración y las fuerzas mecánicas de la colisión inicial. 
+Otras 9 víctimas fueron debidas a trauma mecánico causado por colisiones secundarias de vehículos que siguieron al impacto inicial. Dos de ellos eran empleados del tren que casualmente se encontraban en la parte delantera del vagón restaurante y otros 7 eran pasajeros que viajaban en los dos primeros compartimentos y en el último compartimento del coche B2. Los 7 fueron encontrados fuera del vagón: 3 en la parte delantera, posteriormente quemados fuera de cualquier estructura cerrada, otros 2 en la parte delantera con heridas graves, y 2 en la parte trasera, expulsados de un compartimento desprendido. De los hallazgos de los informes de autopsia y otra información disponible, podemos concluir que estas 9 víctimas sobrevivieron al impacto inicial pero luego resultaron muy gravemente heridas durante los siguientes 3-4 segundos durante las colisiones secundarias de los vehículos, sin ninguna posibilidad de supervivencia. 
+Según la mejor estimación posible, otras 20 (+/- 2) víctimas fueron causadas por las estructuras que se cerraban sobre ellas y las aplastaban sin dejarles suficiente espacio de supervivencia. La causa real de la muerte sería trauma mecánico junto con asfixia debido a la compresión del tórax.
 
 ## Página 91
 
-Durante su movimiento hacia su posición final de reposo, 2 de los 31 ocupantes del vagón Restaurante fueron expulsados con heridas compatibles con la supervivencia y fueron ayudados por otros pasajeros hasta las ambulancias que llegaron más tarde.
-De los 29 ocupantes restantes del vagón Restaurante, otros 4 lograron escapar por sus propios medios de las estructuras de acero ardientes y retorcidas durante el primer minuto después de la colisión. Los 4 sobrevivieron con diversas heridas que fueron tratadas posteriormente en los hospitales.
-El coche B3 del tren de pasajeros no fue sometido a fuerzas de deceleración intensas y era totalmente supervivible, si no hubiera sido por los impactos secundarios del coche B2 golpeando su techo y una sección de la locomotora impactando contra el lateral del coche B3. Hubo 2 víctimas que ambas sufrieron traumatismos craneales y espinales severos debido al impacto de escombros pesados que entraron a través de las ventanas laterales. Ambas víctimas murieron instantáneamente sin ninguna posibilidad de supervivencia, dada la desafortunada posición en la que se encontraban (otros pasajeros sentados junto a ellas resultaron prácticamente ilesos). Y 5 víctimas heridas fueron expulsadas durante el choque o saltaron desde una altura para salir del coche.
-Figura 55. Posiciones iniciales y finales estimadas de los fallecidos, visualizadas en el esquema de la parte impactada del IC-62, y en el lugar de los hechos.
+Durante su desplazamiento hacia su posición final de reposo, 2 de los 31 ocupantes del coche restaurante 421 fueron expulsados con lesiones compatibles con la supervivencia y recibieron ayuda por parte de otros pasajeros para llegar a las ambulancias que llegaron posteriormente.
+De los 29 ocupantes restantes del coche restaurante, otros 4 lograron escapar por sus propios medios 422 de las estructuras de acero en llamas y retorcidas durante el primer minuto tras la colisión. Los 4 sobrevivieron con diversas lesiones que fueron tratadas posteriormente en los hospitales.
+El coche B3 del tren de pasajeros no estuvo sometido a fuerzas de deceleración intensas y era totalmente compatible con la supervivencia, de no ser por los impactos secundarios del coche B2 contra su techo y una sección de la locomotora contra el lateral del coche B3. Hubo 2 víctimas que sufrieron ambos traumatismos craneales y espinales graves debido al impacto de escombros pesados que entraron a través de las ventanas laterales. Ambas víctimas fallecieron instantáneamente sin ninguna posibilidad de supervivencia, dada la desafortunada posición en la que se encontraban (otros pasajeros sentados junto a ellos resultaron prácticamente ilesos). Y 5 víctimas heridas fueron expulsadas durante el accidente o saltaron desde una altura para salir del vehículo.
+Figura 55. Posiciones iniciales y finales estimadas de las víctimas mortales, visualizadas sobre el esquema de la parte impactada del IC-62 y sobre el terreno.
 
 ## Página 92
+
 
 4.3.2. Autoevacuación de los pasajeros
 La siguiente tabla ofrece un detalle adicional de los pasajeros en cada uno de los coches del IC-62.
@@ -1993,6 +2066,7 @@ Figura 56. Rutas de autoevacuación de los pasajeros antes de que los servicios 
 
 ## Página 93
 
+
 Después de que todos los pasajeros ilesos se hubieran autoevacuado cruzando a pie las vías ferroviarias y subiendo hasta la carretera
 429 
 que domina el lugar del accidente, se utilizaron grandes autobuses turísticos (convocados por Hellenic Train, pertenecientes a la misma empresa que se utiliza habitualmente para trasladar a los pasajeros del tren hasta la estación final cuando un tren sufre una avería) para llevarlos a la estación de trenes de Tesalónica. La evacuación de los primeros 50 pasajeros fue muy rápida porque un autobús turístico vacío pasó casualmente por esta carretera y su conductor se detuvo a las 23:21 (dos minutos después del accidente), llamó a las autoridades para solicitar ayuda y esperó para recoger a los primeros evacuados, partiendo hacia Tesalónica a las 00:46 (1 hora y 20 minutos después del accidente).
@@ -2017,14 +2091,15 @@ Además, el Artículo 76 (punto 801) del Reglamento de Circulación (Parte B), i
 435 
 Asimismo, el punto 803 del mismo reglamento se refiere al «estado de la vía, la electrificación o la señalización» como justificaciones posibles para imponer restricciones temporales de velocidad. Existen instrucciones específicas para aplicar esto en casos ad hoc concretos de un enclavamiento desactivado y en el contexto de obras de vía.
 
-
 ## Página 94
+
 
 Para la sección al norte de Larisa, con una velocidad de diseño de 200 km/h, la velocidad permitida se estableció en 160 km/h
 438 
 para compensar el hecho de que no había disponible protección de tren. Sin embargo, no está claro qué criterios se utilizaron para definir este nuevo límite de velocidad y qué riesgos se consideraron al hacerlo. Además, esto no compensa el hecho de que esta sección no estaba equipada con señalización. No parecen existir criterios ni disposiciones que respalden dicha decisión en la práctica diaria. Esto debería formar parte del Sistema de Gestión de la Seguridad de OSE, y no sería aceptado como Norma Nacional Notificada conforme al Art. 8, §3c de la Directiva 2016/798.
 
 ## Página 95
+
 
 4.4. Bola de fuego, pluma de fuego y charcos de fuego  
 Como se ha descrito anteriormente (3.9.3), la observación de la evolución del incendio permite distinguir 3 etapas
@@ -2068,6 +2143,7 @@ Se informa que se utilizó un extintor de incendios para romper una ventana en l
 
 ## Página 96
 
+
 Este incendio secundario del coche B2 comenzó en la parte inferior y, con el tiempo (alrededor de las 23:35), ascendió hasta la
 449 
 parte frontal del coche B2 y consumió su longitud total, sin ninguna intervención activa de extinción de incendios hasta que el fuego
@@ -2092,10 +2168,10 @@ se solicite una autorización. No obstante, puede darse la situación de que veh
 de que se verificara el cumplimiento, por lo que, incluso con la normativa vigente sobre seguridad contra incendios, sigue siendo posible encontrar coches antiguos que no cumplan ninguno de estos requisitos. 
 Muestras de tres asientos diferentes procedentes de dos coches distintos fueron enviadas por EODASAAM a RST Labs en Alemania
 452 
-para ser ensayadas según la ISO 5660-1. Los resultados de estas pruebas no se conocen aún en el momento de redactar este informe. Queda por evaluar si materiales con mejor resistencia al fuego podrían haber desempeñado un papel en las probabilidades de supervivencia de las víctimas que sobrevivieron a la colisión inicial y posteriormente perdieron la vida a causa del incendio.  
-
+para ser ensayadas según la ISO 5660-1. Los resultados de estas pruebas no se conocen aún en el momento de redactar este informe. Queda por evaluar si materiales con mejor resistencia al fuego podrían haber desempeñado un papel en las probabilidades de supervivencia de las víctimas que sobrevivieron a la colisión inicial y posteriormente perdieron la vida a causa del incendio.
 
 ## Página 97
+
 
 4.4.3. Posibles causas de la bola de fuego y los incendios 
 4.4.3.1. Observaciones 
@@ -2115,10 +2191,10 @@ con análisis cinemático de la secuencia del choque) para localizar el punto ex
 Figura 58. Punto estimado de ignición inicial. 
 La siguiente secuencia de imágenes (fotogramas del vídeo de Aegean Motorway) comienza 2 segundos después de la deflagración
 458 
-inicial que comenzó en el lugar indicado por la flecha roja. Como puede observarse en estos fotogramas de vídeo, una forma oscura e irregular se mueve en dirección norte durante aproximadamente 4 segundos, tiempo durante el cual se pueden observar fuertes llamas saliendo. La distancia cubierta fue de aproximadamente 40 metros, lo que da una velocidad media de 10 m/s o 36 km/h para el coche hasta que se detiene. 
-
+inicial que comenzó en el lugar indicado por la flecha roja. Como puede observarse en estos fotogramas de vídeo, una forma oscura e irregular se mueve en dirección norte durante aproximadamente 4 segundos, tiempo durante el cual se pueden observar fuertes llamas saliendo. La distancia cubierta fue de aproximadamente 40 metros, lo que da una velocidad media de 10 m/s o 36 km/h para el coche hasta que se detiene.
 
 ## Página 98
+
 
 Figura 59. Secuencia del incendio desde el punto de colisión hasta la fase final. 
 La forma de la deflagración inicial y de la consiguiente bola de fuego es coherente con un combustible líquido volátil y no con gas licuado,
@@ -2130,20 +2206,19 @@ inicial. La duración de esta 2ª fase, la altura real de las columnas de fuego 
 
 ## Página 99
 
-fase. Dado el color de llama similar y las características de combustión similares, puede asumirse con seguridad que el tipo de combustible que arde es el mismo que en la Fase 1. Esto indica que: 1) un segundo volumen del mismo combustible está ardiendo mientras se desplaza hacia el norte, o 2) que el volumen original, tras haber derramado parte de su contenido durante la Fase 1 de la deflagración (0-2 segundos desde la ignición), se está desplazando ahora hacia el norte, siguiendo el movimiento del tren de pasajeros.
-Los fotogramas anteriores del vídeo de la autopista Aegean Motorway (Figura 59) no permiten identificar la forma oscura e irregular.
-461 
-Para poder identificar esta parte del tren de pasajeros que hacía que la bola de fuego se desplazara hacia el norte, se correlacionaron las pruebas del vídeo que registró el evento desde el lado sur ("cámara Maliakos-Kleidi") y otros vídeos disponibles recopilados por pasajeros unos minutos después del accidente.
-Los vídeos de los pasajeros muestran un fuego muy intenso pero muy concentrado que arde violentamente desde la parte inferior del Coche Restaurante (color amarillo añadido), mientras que los restos de la locomotora del tren de pasajeros (incluido el transformador lleno de aceite de silicona) pueden observarse a una distancia muy cercana pero claramente sin estar en llamas. Esta observación puede verificarse mediante el examen de los restos de los trenes al día siguiente (Figura 60, Figura 61), donde queda claro que la locomotora (color verde añadido) está mecánicamente destruida y, al igual que el transformador (color rojo añadido), solo presenta marcas de quemaduras en un lado, mientras que el Coche Restaurante (color azul añadido) ha sido totalmente consumido por el fuego.
-Figura 60. Incendio del restaurante junto a la locomotora del tren de pasajeros, con la posición del transformador en rojo.
-
+fase. Dado el color similar de la llama y las características de combustión similares, puede asumirse con seguridad que el tipo de combustible que arde es el mismo que en la Fase 1. Esto indica que: 1) un segundo volumen del mismo combustible está ardiendo mientras se desplaza hacia el norte, o 2) que el volumen original, tras haber derramado parte de su contenido durante la Fase 1 de la deflagración (0-2 segundos desde la ignición), se está desplazando ahora hacia el norte, siguiendo el movimiento del tren de pasajeros.
+Los fotogramas anteriores del vídeo de la autopista Aegean Motorway (Figura 59) no permiten identificar la forma irregular oscura.461
+Para poder identificar esta parte del tren de pasajeros que hacía que la bola de fuego se desplazara hacia el norte, se correlacionaron las evidencias del vídeo que grabó el evento desde el lado sur (cámara «Maliakos-Kleidi») y otros vídeos disponibles recopilados por los pasajeros unos minutos después del accidente.
+Los vídeos de los pasajeros muestran un fuego muy intenso pero muy concentrado que arde ferozmente desde la parte inferior del Coche Restaurante (color amarillo añadido), mientras que pueden observarse los restos de la locomotora del tren de pasajeros (incluido el transformador lleno de aceite de silicona) a una distancia muy cercana, pero claramente sin estar ardiendo. Esta observación puede verificarse mediante el examen de los restos de los trenes al día siguiente (Figura 60, Figura 61), donde queda claro que la locomotora (color verde añadido) está mecánicamente destruida y, al igual que el transformador (color rojo añadido), solo presenta marcas de quemaduras en un lado, mientras que el Coche Restaurante (color azul añadido) ha sido totalmente consumido por el fuego.
+Figura 60. Incendio en el restaurante junto a la locomotora del tren de pasajeros, con la posición del transformador en rojo.
 
 ## Página 100
 
+
 Figura 61. Imágenes adicionales de la ubicación del Coche Restaurante, la Locomotora de Pasajeros y su transformador.
 
-
 ## Página 101
+
 
 Siguiendo este fuego hacia atrás en el tiempo, es muy probable que el fuego que consumió el Coche Restaurante sea el mismo
 463 
@@ -2153,8 +2228,8 @@ Los dos incendios en charco pueden observarse consumiendo cualquier combustible 
 464 
 comparar la geometría de los fotogramas nocturnos del vídeo con las imágenes diurnas, se confirma que los dos incendios en charco están ubicados donde se encontraron evidencias de fuego por la mañana.
 
-
 ## Página 102
+
 
 Figura 63. Ubicación y tamaño aproximado de los incendios en charco nº 1 y nº 2.
 Al seguir la lógica de estas observaciones, es altamente improbable que la locomotora y su transformador lleno
@@ -2175,6 +2250,7 @@ b. Para estimar la duración de un incendio en charco secundario alimentado por 
 
 ## Página 103
 
+
 No está claro en qué punto el fuego comenzó a quemar los materiales de construcción del Coche Restaurante, pero del
 469 
 posterior examen de la disposición de los restos, existe una fuerte evidencia de que el aceite de silicona se drenaba lentamente desde el transformador del tren de pasajeros y alimentaba este fuego que continuó ardiendo durante al menos 90 minutos con llamas intensas.  
@@ -2190,10 +2266,10 @@ La cantidad no puede cuantificarse ya que no tenemos un registro del inicio y fi
 puede ser relativamente pequeña, dada la pequeña cantidad de residuo blanco encontrado en la escena. Además, la gran cantidad de aceite sin quemar que empapó el suelo debajo de las dos locomotoras y en el área circundante indica que el incendio de charco #1 se extinguió por sí mismo antes de quemar la cantidad total de aceite en el transformador y en el área. Este incendio no causó ninguna lesión a los pasajeros y no destruyó ningún coche ni parte de los trenes. 
 Además, el tren de mercancías 63503 no mostró ninguna interacción adicional con el fuego, aparte de un muy pequeño incendio local
 473 
-dentro del transformador roto de la primera locomotora 120-022 y un pequeño incendio de charco fuera de las dos locomotoras ardiendo en el suelo (Figura 65) y creando residuo en el lateral de ambas locomotoras sin llegar realmente a quemar ninguna parte de las locomotoras. El residuo blanco anterior indicando nuevamente la combustión de aceite de silicona. 
-
+dentro del transformador roto de la primera locomotora 120-022 y un pequeño incendio de charco fuera de las dos locomotoras ardiendo en el suelo (Figura 65) y creando residuo en el lateral de ambas locomotoras sin llegar realmente a quemar ninguna parte de las locomotoras. El residuo blanco anterior indicando nuevamente la combustión de aceite de silicona.
 
 ## Página 104
+
 
 Figura 65. Un incendio local dentro y fuera del transformador roto de la primera locomotora del tren de mercancías, 40 minutos después del
 accidente. 
@@ -2206,6 +2282,7 @@ Según el informe pericial del Prof. Konstandopoulos, “los 2400 kg de aceite d
 aproximadamente 1,94 toneladas métricas de dióxido de silicio (SiO₂) como residuo de combustión, que se dispersaría sobre todas las superficies y daría una textura blanca y polvorienta característica en todas partes. Esto no fue observado a escala, excepto en unas pocas áreas muy localizadas donde se quemó aceite del transformador.” (Figura 66, 485).
 
 ## Página 105
+
 
 No se tomaron muestras de suelo ni de materiales, ni hisopos de superficies, en el lugar del accidente antes de que los restos
 476 
@@ -2238,6 +2315,7 @@ que oscilan entre 0,5 y 4 mm de diámetro y que estas gotas se dispersaran en un
 
 ## Página 106
 
+
 Además, la EODASAAM se puso en contacto con el Sr. Konstandopoulos, Catedrático de Ingeniería Química del Laboratorio de Tecnología de Aerosoles y
 485
 Partículas de la Universidad Aristóteles, Tesalónica, Grecia, con preguntas relacionadas con la posibilidad de que la formación de una mezcla aerosólica combustible de aceite de silicona fuera la causa directa del accidente. El Prof. Konstandopoulos ofreció un breve informe técnico sobre las cuestiones planteadas, indicando que, dado el tiempo aproximado de 0,4 s para la ignición inicial y el desarrollo de la bola de fuego, no existe forma realista de sugerir que tal transferencia de energía e ignición y combustión del aceite de silicona pudieran ocurrir posiblemente dentro del plazo de tiempo y la tasa de desarrollo de la combustión de la bola de fuego dados. Además, el Prof. Konstandopoulos ha calculado la cantidad de polvo blanco (dióxido de silicio, SiO₂) que se habría formado tras la combustión de 2,4 toneladas métricas de aceite PDMS, hasta alcanzar la cantidad de 1,94 toneladas métricas que claramente no estaban presentes en el lugar del accidente.
@@ -2260,6 +2338,7 @@ d. Se estima además que una cantidad de 300 kg de combustible hidrocarburo pudo
 
 ## Página 107
 
+
 y los materiales de los accesorios interiores del coche. No es posible, sin embargo, calcular con precisión esta cantidad debido al desconocimiento del momento de ignición secundaria de los combustibles adicionales implicados, lo cual también ocurre con la cantidad de combustible que ardió en el otro incendio de charco.
 e. El examen de las imágenes de vídeo y el correspondiente análisis CFD para la 2ª fase del punto de deflagración hacia una única fuente para la 2ª fase de la deflagración. Aunque no es posible confirmar que el combustible para la 1ª fase de la deflagración tenga el mismo origen que el combustible para la 2ª fase, es muy probable que las 3 fases del fenómeno estén quemando la misma fuente de combustible.
 Utilizando las hipótesis de RI.SE (484), se ejecutó una simulación CFD adicional utilizando el diámetro de gota más pequeño mencionado (0,5 mm) y la atomización completa de toda la masa de combustible, lo que dio lugar a los siguientes hallazgos:
@@ -2267,9 +2346,10 @@ Utilizando las hipótesis de RI.SE (484), se ejecutó una simulación CFD adicio
 El aceite de silicona del tipo utilizado en los transformadores de potencia de las locomotoras no pudo ser hecho explotar ni crear una gran bola de fuego de ninguna manera. Incluso si se añadieran grandes fuentes de calor y llamas abiertas como posible fuente de ignición, e incluso si el aceite de silicona fuera pulverizado de diversas formas contra una pared para crear dispersión y gotas más pequeñas, el único resultado posible fue una ignición muy breve de 0,3-0,4 segundos que no se propagó al resto de la cantidad de aceite.  
 Esto se confirma además por el examen de la carcasa exterior de los tres transformadores, mostrando que la 490 cantidad de aceite de silicona que podría haber escapado durante los primeros 0,3-0,4 segundos no sería suficiente para la gran bola de fuego observada (Figura 67).
 Figura 67. Grandes grietas del transformador aún adherido bajo la locomotora 120-022 (Izquierda). Abolladuras, pliegues, desgarrones y grandes grietas del transformador restante de la locomotora 120-023 (derecha), véase también la Figura 61.
-La simulación anterior también corresponde con el hallazgo de que no existe un mecanismo para crear una niebla fina de gotas 491 en esta etapa, dado que el punto original de impacto se encuentra ahora hace 5-6 segundos, a 30 metros al sur y con el viento soplando en dirección opuesta. Este hecho por sí solo debería descartar cualquier combustible con características similares a los aceites de silicona. 
+La simulación anterior también corresponde con el hallazgo de que no existe un mecanismo para crear una niebla fina de gotas 491 en esta etapa, dado que el punto original de impacto se encuentra ahora hace 5-6 segundos, a 30 metros al sur y con el viento soplando en dirección opuesta. Este hecho por sí solo debería descartar cualquier combustible con características similares a los aceites de silicona.
 
 ## Página 108
+
 
 Incluso si la hipótesis de ignición y creación de la bola de fuego inicial pudiera aceptarse, la 2ª fase de la bola de fuego 492 es más difícil de explicar con aceite de silicona como combustible: se observa que la columna de fuego sale de una fuente de combustible que ya arde intensamente, obviamente sin ninguna fuente de calor adicional y a temperatura ambiente. Los supervivientes del coche restaurante no informaron de ningún cambio significativo de temperatura durante esta fase y no presentan quemaduras debidas a radiación. Estos elementos apuntan al hecho de que el combustible desconocido es volátil y muy inflamable.
 La información detallada sobre las condiciones iniciales CFD, parámetros técnicos y resultados de pruebas se puede encontrar en el Anexo 493 de este informe.  
@@ -2280,6 +2360,7 @@ La masa de este líquido volátil inflamable ha sido estimada, mediante la model
 A pesar de esta incertidumbre sobre la fuente del fenómeno observado, EODASAAM ha elegido explícitamente no 497 posponer la publicación de este informe. En primer lugar, la bola de fuego y el posterior incendio «solo» tuvieron un impacto en las consecuencias del accidente, sin contribuir a sus causas. Más importante aún, el sistema ferroviario griego necesita conocer y aceptar los resultados de esta investigación del accidente lo antes posible, para poder iniciar el proceso de mejora necesario.
 
 ## Página 109
+
 
 4.5. Funcionamiento de los servicios de emergencia
 4.5.1. Respuesta inmediata a la situación de emergencia
@@ -2341,6 +2422,7 @@ pasajeros hasta la carretera para ser admitidos en las primeras ambulancias que 
 
 ## Página 110
 
+
 hasta las 00:35. Muchos más sufrieron heridas leves y fueron trasladados a hospitales en ambulancia o por otros medios.
 No hubo (necesidad de) primeros auxilios en el lugar del accidente, ya que todos los pasajeros heridos fueron transferidos lo
 510
@@ -2388,6 +2470,7 @@ de una fase más administrativa y judicial. Esta fase contiene el análisis fore
 
 ## Página 111
 
+
 detección, localización, visualización, recogida, registro fotográfico y/o videográfico, numeración, embalaje, precintado y almacenamiento de todas las pruebas materiales, con vistas a su análisis y posterior uso. Esto incluye un registro preciso de la ubicación de los cuerpos, el marcado y la numeración con etiquetas adecuadas y con un número único para cada cuerpo o parte del mismo -y la toma de fotografías antes de cualquier movimiento.
 Para apoyar esta nueva fase, el servicio policial responsable de la intervención inicial deberá acordonar y proteger el lugar donde ocurrieron los hechos, así como, en su caso, los lugares donde se descubran objetos relacionados con los hechos, mediante el establecimiento de uno o más perímetros de exclusión judicial, con el objetivo de: 1) proteger las pruebas, rastros e indicios, 2) prevenir la contaminación de estos lugares por rastros exógenos, 3) permitir que las tareas de investigación técnica y científica sean realizadas por los servicios competentes. Nótese que estos perímetros podrían ser diferentes de la zona de intervención que fue necesaria para la intervención inmediata.
 519 
@@ -2413,6 +2496,7 @@ La delicada tarea de buscar cualquier rastro de las víctimas fue realizada por 
 528
 
 ## Página 112
+
 
 Los agentes de Protección Civil con base en Larisa fueron requeridos por el oficial al mando del Cuerpo de Bomberos para proporcionar grúas grandes y maquinaria de movimiento de tierras con el fin de iniciar la recuperación de cuerpos lo más rápidamente posible. Los agentes de Protección Civil contactaron a subcontratistas locales que habían trabajado anteriormente para la Prefectura de Larisa. Se solicitó ayuda adicional al Mando de Operaciones de la Autopista Egeo, que también disponía de sus propios subcontratistas, quienes fueron llamados para colaborar.
 529 
@@ -2442,6 +2526,7 @@ Asimismo, a solicitud del juez instructor, un equipo de perros cadáveres especi
 539
 
 ## Página 113
+
 
 escombros y grava, solo para asegurarse de que, incluso después de 9 meses, no quedara nada más.
 4.5.4.4. Examen post mortem y determinación de la causa de la muerte
@@ -2475,6 +2560,7 @@ En principio, cada situación de emergencia es gestionada por los servicios de e
 
 ## Página 114
 
+
 para seguir su plan de intervención monodisciplinar, es necesaria la colaboración y coordinación interdisciplinarias para garantizar la organización adecuada de las diferentes intervenciones sobre el terreno y, si es necesario, establecer y elevar la zona de intervención (4.5.2). En la mayoría de los casos, esta coordinación se asegura mediante el nombramiento de un Director de Operaciones en el lugar de la emergencia, responsable de la coordinación operativa y del liderazgo de la estructura de mando operativo compuesta, al menos, por los directores de las disciplinas implicadas sobre el terreno.
 En el caso del accidente de Tempi, parece que no hubo una coordinación operativa real de los distintos servicios
 553
@@ -2504,6 +2590,7 @@ que emitieron comunicados escritos y también realizaron breves transmisiones en
 
 ## Página 115
 
+
 televisión, actualizando la información sobre el número de víctimas mortales y pasajeros heridos y con datos de contacto para los familiares de los pasajeros. Emitieron 13 comunicados públicos en los primeros 3 días (9 en las primeras 24 horas, 2 el 2 de marzo y 2 el 3 de marzo). A finales del 3 de marzo, cuando el Servicio de Bomberos finalizó su fase de Búsqueda y Recuperación, no hubo más boletines ni transmisiones en directo por parte de las autoridades.
 Además, la decisión de finalizar la búsqueda al término del tercer día (3 de marzo) no está documentada de ninguna manera
 561
@@ -2525,6 +2612,7 @@ No obstante, queda claro por las actividades descritas anteriormente (en particu
 566
 
 ## Página 116
+
 
 el segundo, 2 horas después), todos los implicados en la escena del accidente asumieron que el Plan Especial para la Gestión de Pérdidas Humanas había sido activado. La tarde del 1 de marzo, hubo incluso un anuncio conjunto de los Servicios de Bomberos y de Policía en el que se mencionaba la activación del Plan de Gestión de Pérdidas Humanas. En sus entrevistas y declaraciones oficiales, todos los miembros de Protección Civil (incluido el propio Secretario General)567 afirman que el Plan de Gestión de Pérdidas Humanas nunca fue activado oficialmente, por lo que el mando y control real de la situación corresponde a la agencia investigadora, que en este caso sería la Policía. Esto, sin embargo, contradice el comunicado oficial de prensa del Ministerio de Crisis Climática y Protección Civil, publicado el 1 de marzo, que afirma que «…desde el primer momento el Plan de Gestión de Pérdidas Humanas fue activado por el Secretario General de Protección Civil».
 
@@ -2561,15 +2649,16 @@ En el contexto de la planificación de emergencias y la gestión de crisis, la o
 
 ## Página 117
 
-Para que la cooperación entre las partes implicadas funcione lo mejor posible, los participantes deben haber desarrollado una especie de rutina respecto al trabajo a realizar, con el fin de no verse desbordados por la situación de emergencia. Esta «rutina» solo puede adquirirse mediante la repetición de los ejercicios.
-Por tanto, se pueden organizar dos tipos de ejercicios: 1) Ejercicios de mesa, en los que los distintos servicios se reúnen alrededor de una mesa y deben reaccionar como lo harían en la realidad, y 2) Ejercicios sobre el terreno: en este caso, el ejercicio se simula donde tendría lugar la situación de emergencia y, en principio, se organiza un despliegue real de personal y recursos in situ.
+Para que la cooperación entre las partes implicadas se desarrolle de la mejor manera posible, los participantes deben haber desarrollado una especie de rutina respecto al trabajo a realizar, a fin de no verse desbordados por la situación de emergencia. Esta «rutina» solo puede adquirirse mediante la fuerza de la repetición de los ejercicios.
+Por lo tanto, pueden organizarse dos tipos de ejercicios: 1) Ejercicios de mesa, en los que los distintos servicios se reúnen alrededor de la mesa y deben reaccionar como lo harían en la realidad, y 2) Ejercicios sobre el terreno: en este caso, el ejercicio se escenifica donde tendría lugar la situación de emergencia y, en principio, se organiza un despliegue real de personal y recursos in situ.
 578 
-La Secretaría General de Protección Civil informó de que se impartieron formaciones a los PIA en todo el país
+La Secretaría General de Protección Civil informó de que se impartieron formaciones a los PIA en todo el país y que estos participan sistemáticamente en los ejercicios organizados por iniciativa de operadores de instalaciones como aeropuertos y puertos. No obstante, no está claro si alguno de los servicios y/o su personal específico implicado en el accidente de Tempi había participado alguna vez en un ejercicio de mesa o en un ejercicio real sobre el terreno, pero a partir de lo que informaron podemos concluir que no tuvo lugar ningún ejercicio de formación que entrenara conjuntamente a todos los diferentes servicios. El Servicio de Bomberos organiza ejercicios a gran escala para accidentes dentro de túneles. Sin embargo, no se ha facilitado a la investigación ninguna información sobre la realización de algún ejercicio relativo a un accidente ferroviario con consecuencias catastróficas.
 579 
-y de que participan sistemáticamente en los ejercicios organizados por iniciativa de operadores de instalaciones como aeropuertos y puertos. No obstante, no está claro si alguno de los servicios y/o su personal específico implicado en el accidente de Tempi había participado alguna vez en un ejercicio de mesa o en un ejercicio real sobre el terreno, pero a partir de lo que informaron podemos concluir que no tuvo lugar ningún ejercicio de formación que entrenara conjuntamente a todos los servicios diferentes. El Servicio de Bomberos organiza ejercicios a gran escala para accidentes dentro de túneles. Sin embargo, no se ha facilitado a la investigación ninguna información sobre la realización de algún ejercicio relativo a un accidente ferroviario con consecuencias catastróficas.
-La Dirección de Planificación de Respuesta ante Emergencias de la Secretaría General de Protección Civil es responsable de actualizar/revisar el «Plan Especial para la Gestión de Pérdidas Humanas» sobre la base de las lecciones aprendidas de hechos y ejercicios, pero también sobre la base de cambios administrativos o institucionales, en un esfuerzo por mejorar y actualizar continuamente este plan. Este plan, que data originalmente de 2011, se encuentra ahora en su 4ª versión. Sin embargo, parece que no se realizó ningún informe posterior (debriefing) de la experiencia del accidente de Tempi, con el fin de mejorar la coordinación de los servicios y los requisitos del plan.
+La Dirección de Planificación de Respuesta ante Emergencias de la Secretaría General de Protección Civil es responsable de actualizar/revisar el «Plan Especial para la Gestión de Pérdidas Humanas» sobre la base de las lecciones aprendidas de hechos y ejercicios, pero también sobre la base de cambios administrativos o institucionales, en un esfuerzo por mejorar y actualizar continuamente este plan. Este plan, que data originalmente de 2011, se encuentra ahora en su 4ª versión. Sin embargo, parece que no se realizó ningún informe posterior (debriefing) de la experiencia con el accidente de Tempi, con el fin de mejorar la coordinación de los servicios y los requisitos del plan.
+580
 
 ## Página 118
+
 
 4.6. Actividades posteriores a la emergencia  
 Inmediatamente después de un desastre tan caótico y durante semanas e incluso más tiempo, se debe estar preparado para hacer frente tanto a las obligaciones
@@ -2605,6 +2694,7 @@ juez instructor por OSE, supuestamente desde la Estación de Mercancías de Tesa
 
 ## Página 119
 
+
 La causa de todo ello es la falta general de conocimientos sobre cómo llevar a cabo la investigación de un accidente ferroviario tan grave.
 589 
 En particular, la ausencia de un organismo nacional de investigación operativo (4.2.17), exigido por la Directiva de Seguridad Ferroviaria (es decir, la 2004/49/CE, posteriormente sustituida por el Reglamento (UE) 2016/798) desde 2004, constituye aquí un factor crucial. 
@@ -2632,6 +2722,7 @@ Los principios generales de gestión de este riesgo que surgen del consenso prof
 597
 
 ## Página 120
+
 
 siguiente9:  
 - 
@@ -2671,85 +2762,139 @@ de apoyo psicosocial (Bomberos, Policía, OATHYK). En los Bomberos, se organizó
 
 ## Página 121
 
-4.6.3.2. Objetivos de la encuesta
-Más allá de las reacciones sociales y públicas mencionadas en el §71, para las víctimas afectadas y aquellas más directamente involucradas, existe posiblemente un riesgo residual de TEPT (Trastorno de Estrés Postraumático) —establecido, reducido o incluso superado, dado el tiempo transcurrido para iniciar y completar esta investigación—. Por lo tanto, EODASAAM decidió desarrollar, coordinar y lanzar una encuesta emocional y psicológica con el fin de comprender la naturaleza y la extensión de este riesgo específico.
-El primer objetivo de esta encuesta dedicada y limitada es estimar de forma menos subjetiva el nivel residual, pero quizás significativo, del impacto emocional y psicológico causado directa e indirectamente por el accidente de Tempi. Como tal, cualquier problema emocional o psicológico relacionado con un TEPT puede considerarse como una consecuencia del accidente. Esta consecuencia también puede amplificarse, y/o puede tener largos retrasos antes de reducirse o desaparecer, en función del esfuerzo realizado para considerarla y tratarla a tiempo, con los recursos adecuados.
-El riesgo de TEPT se materializa y se reconoce mediante reacciones inusuales y a menudo amplificadas de nuestro cuerpo, nuestros pensamientos, nuestras emociones, así como en nuestras relaciones con los demás y con nuestro entorno. Algunos dolores emocionales, como la pérdida de nuestros seres queridos, pueden permanecer agudos durante mucho tiempo, y esto es lamentablemente bastante normal. Sin embargo, este síndrome —o conjunto de síntomas—, a veces descrito como reacciones normales ante situaciones excepcionales, puede instalarse, disminuir, amplificarse, desaparecer e incluso reactivarse. Esto puede ocurrir incluso en personas que no han sido privadas de un ser querido, pero que han arriesgado su propia vida, o que fueron testigos de la muerte o del accidente, o que estuvieron involucradas en la escena del lugar tras el accidente, e incluso a distancia del accidente con un papel directo o supuesto.
-El segundo objetivo es estimar si este posible impacto psicológico pudo haber sido amplificado por la falta de apoyo proporcionado en el período siguiente. Al mismo tiempo, existe también un riesgo amplificado debido a las imágenes persistentes del accidente, a la información contradictoria o incluso infundada, que ha circulado y sigue circulando en todos los contextos privados y medios públicos.
-El cuestionario y los resultados detallados se describen en los apéndices B y C.
-La muestra, los hallazgos y los resultados de esta encuesta se describen a continuación.
-4.6.3.3. Muestra de la encuesta
-Tras haber entrevistado a varias personas y grupos de las partes interesadas y haber discutido con dos representantes de las víctimas y familias, decidimos difundir varias versiones idénticas de la encuesta a través de contactos clave que podrían incluso añadir o transmitir alguna información adicional.
-Los grupos de la encuesta son:
-1) Pasajeros heridos en el accidente (13) y pasajeros no heridos en el accidente (2). Este grupo se denomina posteriormente «Víctimas».
-2) Familiares de un pasajero fallecido (10). Este grupo se denomina posteriormente «Familiares de las Víctimas».
-3) Agentes de Policía, DVI (Identificación de Víctimas de Desastres) o Brigada de Bomberos (14). Este grupo se denomina «Profesionales de Emergencia».
-4) Miembros de las organizaciones ferroviarias (45), de los cuales
-a. (9) tuvieron alguna implicación en la escena del accidente esa noche y/o los días siguientes, y este grupo se denomina posteriormente «Profesionales Ferroviarios Implicados».
-b. (36) no tuvieron dicha implicación. Este grupo se denomina posteriormente «Profesionales Ferroviarios No Implicados».
-De las 84 personas que completaron la encuesta, 30 eligieron hacerlo de forma no anónima. Interpretamos este resultado como un indicador de su comprensión del enfoque y de su confianza en el tratamiento de los datos. Tras un análisis minucioso de la información recopilada, ninguna de las contribuciones pareció internamente contradictoria ni fantástica.
-Aproximadamente 15 explicaciones en texto plano, aclaraciones y/o elementos personales fueron compartidos también por los participantes de la encuesta junto con sus preguntas/respuestas más cuantitativas. Estos elementos adicionales permiten interpretar y comprender mejor tanto sus respuestas cuantitativas como sus puntos de vista personales o dificultades vitales.
-
+4.6.3.2. Objetivos de la encuesta 
+Más allá de las reacciones sociales y públicas mencionadas en el §71, para las víctimas afectadas y aquellas más directamente 
+606 
+involucradas, posiblemente persiste un riesgo de TEPT - establecido, reducido o incluso superado, dado el tiempo transcurrido para 
+iniciar y completar esta investigación. Por ello, EODASAAM decidió desarrollar, coordinar y lanzar una encuesta emocional y psicológica con el fin de comprender la naturaleza y la magnitud de este riesgo específico.   
+El primer objetivo de esta encuesta dedicada y limitada es estimar de forma menos subjetiva el nivel residual, pero quizás significativo, 
+607 
+de impacto emocional y psicológico causado directa e indirectamente por el accidente de Tempi. Como tal, cualquier problema emocional y psicológico relacionado con un TEPT puede considerarse como una consecuencia del accidente. Esta consecuencia también puede verse amplificada, y/o puede tener largos retrasos antes de reducirse o desaparecer, en función del esfuerzo realizado para considerarla y tratarla a tiempo, con los recursos adecuados. 
+El riesgo de TEPT se materializa y se reconoce mediante reacciones inusuales y a menudo amplificadas de nuestro cuerpo, nuestros pensamientos, 
+608 
+nuestras emociones, así como en nuestras relaciones con los demás y con nuestro entorno. Algunos dolores emocionales, como la pérdida de nuestros seres queridos, pueden permanecer agudos durante mucho tiempo, y esto es lamentablemente bastante normal. Sin embargo, este síndrome – o conjunto de síntomas – descrito a veces como reacciones normales ante situaciones excepcionales, puede instalarse, disminuir, amplificarse, desaparecer e incluso reactivarse. Esto puede ocurrir incluso en personas que no han sido privadas de un ser querido, pero que han arriesgado su propia vida, o que han presenciado la muerte o el accidente, o que estuvieron involucradas en la escena del lugar tras el accidente, e incluso a distancia del accidente con un papel directo o supuesto. 
+El segundo objetivo es estimar si este potencial impacto psicológico pudo haber sido amplificado por una falta de apoyo 
+609 
+proporcionado en el período posterior. Al mismo tiempo, existe también un riesgo amplificado debido a las imágenes persistentes del accidente, la información contradictoria o incluso infundada, que ha circulado y sigue circulando en todos los contextos privados y medios públicos. 
+El cuestionario y los resultados detallados se describen en los apéndices B y C. 
+610 
+La muestra, los hallazgos y los resultados de esta encuesta se describen a continuación. 
+611 
+4.6.3.3. Muestra de la encuesta  
+Tras haber entrevistado a varias personas y grupos de las partes interesadas y haber discutido con dos 
+612 
+representantes de las víctimas y familias, decidimos difundir varias versiones idénticas de la encuesta a través de 
+personas de contacto clave que podían incluso añadir o transmitir alguna información adicional. 
+Los grupos de la encuesta son:  
+613 
+1) Pasajeros heridos en el accidente (13) y pasajeros no heridos en el accidente (2). Este grupo se denomina posteriormente “Víctimas”. 
+2) Familiares de un pasajero fallecido (10). Este grupo se denomina posteriormente “Familiares de las Víctimas”. 
+3) Agentes de la Policía, DVI o Brigada de Bomberos (14). Este grupo se denomina “Profesionales de Emergencia”. 
+4) Miembros de las organizaciones ferroviarias (45), de los cuales  
+a. (9) tuvieron alguna implicación en la escena del accidente esa noche y/o los días siguientes, y este 
+grupo se denomina posteriormente “Profesionales Ferroviarios Involucrados”. 
+b. (36) no tuvieron dicha implicación. Este grupo se denomina posteriormente “Profesionales Ferroviarios No Involucrados”.  
+De las 84 personas que completaron la encuesta, 30 eligieron hacerlo de forma no anónima. Interpretamos este resultado como un 
+614 
+indicador de su comprensión del enfoque y de su confianza en el tratamiento de los datos. Tras un análisis escrupuloso de la información recopilada, ninguna de las contribuciones pareció internamente contradictoria ni fantástica. 
+Aproximadamente 15 explicaciones en texto plano, aclaraciones y/o elementos personales fueron compartidos también por los participantes de la encuesta 
+615 
+junto con sus preguntas/respuestas más cuantitativas. Estos elementos adicionales permiten interpretar y comprender mejor tanto sus respuestas cuantitativas como sus puntos de vista personales o dificultades vitales.
 
 ## Página 122
 
 4.6.3.4. Resultados de la encuesta
-Principales resultados sobre la gravedad actual del trauma (evaluado con la herramienta descrita previamente)
-Una visión general completa de las cifras de la encuesta se informa en los anexos. Insistimos en tratar los datos cuantitativos obtenidos con cautela, aunque los grupos puedan parecer representativos, suficientemente numerosos, confiables (no anónimos) o llenos de información cualitativa importante. Todavía es posible argumentar que otras personas en una situación aún más crítica no quisieron contribuir a la encuesta. Así como, inversamente, es posible argumentar que otras personas que se sentían muy bien no quisieron contribuir a la encuesta. Finalmente, también habría sido posible mejorar la forma en que se distribuyó la encuesta, pero los recursos limitados y el deseo de discreción y calidad eran igualmente importantes.
+Los principales resultados sobre la gravedad actual del trauma (evaluado con la herramienta descrita anteriormente)
+Se incluye una visión general completa de las cifras de la encuesta en los anexos. Insistimos en tratar con cautela los datos cuantitativos
+616
+obtenidos, aunque los grupos puedan parecer representativos, suficientemente numerosos, fiables (no anónimos) o ricos en información cualitativa importante. Sigue siendo posible argumentar que otras personas en una situación aún más crítica no quisieron contribuir a la encuesta. Del mismo modo, inversamente, es posible argumentar que otras personas que se sentían muy bien no quisieron contribuir a la encuesta. Por último, también habría sido posible mejorar la forma en que se distribuyó la encuesta, pero los recursos limitados y el deseo de discreción y calidad eran igualmente importantes.
 Figura 68. Visualización de algunos resultados de la Encuesta de Impacto Psicológico.
-Entre los grupos «Víctimas» y «Familiares de las Víctimas» tomados conjuntamente (25 personas), todavía hay 17 personas que siguen experimentando el trauma en un nivel «grave» de la escala de medición o superior (mediana de 19 y 20 para los dos grupos respectivos).
-El grupo «Víctimas» también puede describirse como enfrentando más síntomas residuales (y nadie sin ningún síntoma), con una mediana de 7 por persona (siendo 13 el número máximo de síntomas).
-El grupo «Familiares de las Víctimas» tiene un número mediano de síntomas igual a 4,5, que es el doble de los dos grupos de «Profesionales Ferroviarios» (mediana de 2) y, 4 veces el grupo de «Profesionales de Emergencia» (1).
-Dentro de los grupos de «Profesionales Ferroviarios» (45 personas en total), todavía hay un trauma grave para 5 personas, y un nivel moderado para 9, mientras que el grupo global permanece con un nivel actual de trauma evaluado como «leve» (superior al del grupo de «Profesionales de Emergencia»).
-Los Profesionales Ferroviarios Implicados y No Implicados son similares entre sí en todos los indicadores de síntomas actuales y trauma. Solo 3 de 45 personas informan no estar experimentando actualmente ningún síntoma.
-Entre el grupo de «Profesionales de Emergencia» (14 personas), no queda nadie con trauma grave o moderado. 3 personas informan permanecer sin ningún síntoma en absoluto. Una persona, con un nivel de trauma «leve», todavía tiene que enfrentar varios síntomas y no suficiente mejora a pesar del apoyo.
-Principales resultados sobre el apoyo Emocional / Psicológico
-El grupo de «Víctimas» también es similar al de «Familiares de las Víctimas» en términos del apoyo Emocional o Psicológico recibido. Aproximadamente 2/3 de los grupos recibieron este apoyo «suficientemente pronto» o «en los primeros días». Y aproximadamente 1/4 del grupo quedó sin este apoyo, fue «nunca propuesto» o definido como llegando «demasiado tarde».
+Entre los grupos «Víctimas» y «Familiares de las Víctimas», considerados conjuntamente (25 personas), todavía hay 17 personas
+617
+que siguen experimentando el trauma en un nivel «grave» de la escala de medición o superior (mediana de 19 y 20 para los dos grupos respectivos).
+El grupo «Víctimas» también puede describirse como enfrentado a más síntomas residuales (y nadie sin ningún síntoma),
+618
+con una mediana de 7 por persona (siendo 13 el número máximo de síntomas).
+El grupo «Familiares de las Víctimas» tiene un número mediano de síntomas igual a 4,5, que es el doble de los dos
+619
+grupos de «Profesionales Ferroviarios» (mediana de 2) y cuatro veces el grupo de «Profesionales de Emergencias» (1).
+Dentro de los grupos de «Profesionales Ferroviarios» (45 personas en total), todavía hay un trauma grave para 5 personas, y
+620
+un nivel moderado para 9, mientras que el grupo global permanece con un nivel actual de trauma evaluado como «leve»
+(superior al del grupo de «Profesionales de Emergencias»).
+Los Profesionales Ferroviarios Involucrados y No Involucrados son similares entre sí en todos los indicadores de síntomas actuales
+621
+y trauma. Solo 3 de las 45 personas informan de que actualmente no experimentan ningún síntoma.
+Dentro del grupo de «Profesionales de Emergencias» (14 personas), no queda nadie con trauma grave o moderado.
+622
+3 personas informan de que permanecen sin ningún síntoma. Una persona, con un nivel de trauma «leve», todavía tiene que enfrentar
+varios síntomas y no hay suficiente mejora a pesar del apoyo.
+Los principales resultados sobre el apoyo Emocional / Psicológico
+El grupo de «Víctimas» también es similar al de «Familiares de las Víctimas» en términos del apoyo
+623
+Emocional o Psicológico recibido. Aproximadamente 2/3 partes de los grupos recibieron este apoyo «a tiempo» o «en los primeros días». Y aproximadamente
+1/4 parte del grupo se quedó sin este apoyo, fue «nunca propuesto» o definido como llegando «demasiado tarde».
 
 ## Página 123
 
-En cuanto a la forma en que este apoyo «llega» a las personas dedicadas, debemos informar de que la vía más importante es por sus propios medios, a través de sus familiares o amigos o conocidos. Si existe una pequeña diferencia para el grupo «Víctimas», se observa una fuerte tendencia en el grupo «Familiares de las Víctimas», quienes informan dos veces más «por sus propios medios, sus familias, etc.» que a través de las «autoridades». Más importante desde el punto de vista del riesgo de TEPT, 6 personas de las 25 – identificadas con un nivel actual «grave» de trauma – siguen sin recibir ningún apoyo profesional.
-Dentro de los grupos de «Profesionales Ferroviarios» y del grupo de «Profesionales de Emergencia», esperábamos que pudieran declarar recibir el apoyo Emocional o Psicológico a través de su empleador o línea jerárquica, u otro servicio interno o externo. Se mencionó explícitamente en los «Profesionales de Emergencia» (coincidiendo con la mayoría de nuestras entrevistas con sus diferentes subgrupos). Nunca se mencionó para los «Profesionales Ferroviarios». Y, por el contrario, fueron 40 profesionales de entre 45 los que declararon no haberseles propuesto nunca dicho apoyo profesional (o no recordar tal propuesta). No obstante, para aquellos (12) que informaron beneficiarse de dicho apoyo, declararon sentirse mucho o muchísimo mejor. Desde el punto de vista del riesgo de TEPT, todavía 3 de estos «Profesionales Ferroviarios» – identificados con un nivel actual «grave» de trauma – no están recibiendo apoyo profesional.
+En cuanto a la forma en que esta ayuda «llega» a las personas dedicadas, debemos señalar que la vía más importante es por sus propios medios, a través de sus familiares, amigos o conocidos. Si bien existe una ligera diferencia para el grupo «Víctimas», se observa una fuerte tendencia en el grupo «Familiares de las Víctimas», quienes declaran recibir apoyo «por sus propios medios, sus familias, etc.» dos veces más que a través de las «autoridades». Más importante desde el punto de vista del riesgo de TEPT, 6 de las 25 personas identificadas con un nivel actual de trauma «grave» aún no reciben ningún apoyo profesional.
+624 
+Dentro de los grupos de «Profesionales ferroviarios» y «Profesionales de emergencias», esperábamos que pudieran declarar haber recibido apoyo emocional o psicológico a través de su empleador o línea jerárquica, u otro servicio interno o externo. Esto fue mencionado explícitamente en el caso de los «Profesionales de emergencias» (coincidiendo con la mayoría de nuestras entrevistas con sus diferentes subgrupos). Nunca fue mencionado para los «Profesionales ferroviarios». Y, por el contrario, 40 de los 45 profesionales declararon que nunca se les propuso dicho apoyo profesional (o que no recordaban tal propuesta). No obstante, entre aquellos (12) que informaron haberse beneficiado de dicho apoyo, declararon sentirse mucho o muy mejorados. Desde el punto de vista del riesgo de TEPT, todavía 3 de estos «Profesionales ferroviarios» –identificados con un nivel actual de trauma «grave»– no están recibiendo apoyo profesional.
+625 
+
 4.6.3.5. Resultados de la encuesta
-Un hallazgo importante, basado en los resultados de la encuesta, es el hecho de que hay personas que quedan sin ningún apoyo profesional – emocional o psicológico –. También es importante considerar el alto riesgo de trauma, aquí reportado con la ayuda de una escala reconocida. De hecho, al observar los grupos «Víctimas», «Familiares de las Víctimas» y «Profesionales Ferroviarios», todavía hay 22 personas en un nivel «grave» o superior (más de 1/4 parte de toda la muestra). Por el contrario, en el grupo «Profesionales de Emergencia», no se ha reportado ningún riesgo «grave» ni siquiera «moderado».
-Otro hallazgo está relacionado con las medidas de control de riesgos que no se toman (o no se toman suficientemente) para prevenir cualquier agravamiento del síndrome de estrés postraumático TEPT, siendo insuficientemente proactivas al considerar las necesidades emocionales o psicológicas, y esto, tanto para las «Víctimas», como para los «Familiares de las Víctimas» e incluso para los «Profesionales Ferroviarios». Dado el punto de vista humanista, dado el sistema estructurado de gestión de riesgos que se requiere tanto para la Seguridad Operativa como para la Seguridad Laboral, y dada la gestión de emergencias que debe organizarse y coordinarse, podríamos esperar una mayor implicación de las autoridades y de los empleadores ferroviarios.
-Finalmente, EODASAAM también decidió mantener esta encuesta abierta durante los próximos meses. De hecho, podemos entonces monitorear las entradas de vez en cuando y reevaluar si es necesario estos resultados específicos «potencialmente evolutivos».
+
+Un hallazgo importante, basado en los resultados de la encuesta, es el hecho de que hay personas que quedan sin ningún apoyo profesional –emocional o psicológico–. También es importante considerar el alto riesgo de trauma, reportado aquí mediante el uso de una escala reconocida. De hecho, al observar los grupos «Víctimas», «Familiares de las Víctimas» y «Profesionales ferroviarios», todavía hay 22 personas en un nivel «grave» o superior (más de 1/4 parte de toda la muestra). Por el contrario, en el grupo «Profesionales de emergencias», no se ha reportado ningún riesgo «grave» ni siquiera «moderado».
+626 
+
+Otro hallazgo está relacionado con las medidas de control de riesgos que no se adoptan (o no se adoptan suficientemente) para prevenir cualquier agravamiento del síndrome de estrés postraumático (TEPT), siendo insuficientemente proactivas al considerar las necesidades emocionales o psicológicas, y esto tanto para las «Víctimas», como para los «Familiares de las Víctimas» e incluso para los «Profesionales ferroviarios». Dado el punto de vista humanista, dada la gestión estructurada de riesgos requerida tanto para la Seguridad Operativa como para la Seguridad Laboral, y dada la gestión de emergencias que debe organizarse y coordinarse, podríamos esperar una mayor implicación de las autoridades y de los empleadores ferroviarios.
+627 
+
+Finalmente, EODASAAM también decidió mantener abierta esta encuesta durante los próximos meses. De este modo, podemos monitorear las entradas de vez en cuando y reevaluar si es necesario estos resultados específicos «potencialmente evolutivos».
 https://ec.europa.eu/eusurvey/runner/QuestionsToTempi-Victims-And-Involved-746388
-4.6.4. Otro apoyo
-Hellenic Train decidió proporcionar a todas las familias de las víctimas una compensación monetaria (42.000 euros por víctima) como primer pago a cuenta de la futura compensación que se les otorgará en su debido momento.
-Se aprobó la ley 5039/2023 (FEK A 83 - 03.04.2023) que cancelaba todas las deudas que las víctimas y sus familiares cercanos tenían contraídas con el gobierno (impuestos, multas, etc.), y preveía una pensión mensual a pagar a las familias de los familiares y a las víctimas heridas con una discapacidad de más del 67% causada por el accidente.
-Además, la ley proporcionaba a las víctimas heridas y a los familiares cercanos el derecho a ser nombrados en el sector público más amplio, a los heridos el derecho a ser compensados por los gastos de hospitalización y rehabilitación y proporcionaba apoyo psicológico individualizado gratuito a los miembros de la familia de los fallecidos y a los que estaban a bordo durante el accidente.
+628 
+
+4.6.4. Otra ayuda
+
+Hellenic Train decidió proporcionar a todas las familias de las víctimas una compensación monetaria (42.000 euros por víctima) como primer pago a cuenta de la futura indemnización que se les otorgará en su debido momento.
+629 
+
+La ley 5039/2023 (FEK A 83 - 03.04.2023) fue aprobada, lo que condonó todas las deudas que las víctimas y sus familiares cercanos tenían contraídas con el gobierno (impuestos, multas, etc.), y estableció una pensión mensual a pagar a las familias de los familiares fallecidos y a las víctimas lesionadas con una discapacidad superior al 67% causada por el accidente.
+630 
+
+Además, la ley proporcionó a las víctimas lesionadas y a los familiares cercanos el derecho a ser nombrados en el sector público más amplio, a los lesionados el derecho a ser compensados por los gastos de hospitalización y rehabilitación, y proporcionó apoyo psicológico individualizado gratuito a los miembros de la familia de los fallecidos y a los que estaban a bordo durante el accidente.
 
 ## Página 124
 
-5. Conclusiones  
-5.1. Resumen y conclusiones del análisis 
-El escenario más probable considerado para explicar la colisión frontal entre el tren de pasajeros IC-62 y el tren de mercancías 63503 es el olvido en la colocación de los desvíos 118 A/B por parte del jefe de estación inexperto, que trabajaba solo en la estación de Larissa esa noche, lo cual guió al tren de pasajeros hacia la vía descendente opuesta. La barrera potencial, donde los conductores de tren reaccionan ante la información contradictoria entre la posición de los desvíos y la autorización de movimiento concedida, fue omitida por los conductores de tren. 
-5.1.1. Causa inmediata 
-La colisión entre el tren de pasajeros IC-62 y el tren de mercancías 63503 pudo ocurrir porque ambos trenes circulaban en direcciones opuestas por la misma vía descendente entre las estaciones de Larissa y Neoi Poroi. 
-5.1.2. Factores causales 
-El jefe de estación no utilizó el método automatizado para establecer la ruta para que el tren IC-62 saliera de la estación de Larissa hacia el norte, en dirección a Neoi Poroi, lo cual habría posicionado correctamente todos los desvíos. En su lugar, ordenó los desvíos individuales manualmente y, al hacerlo, olvidó colocar los desvíos 118 A/B en la posición “principal”; con ello guiando el tren IC-62 hacia la línea descendente. Este error pasó desapercibido por el jefe de estación. 
-La investigación identificó una serie de factores que pueden haber influido en las acciones del jefe de estación al establecer la ruta para el tren IC-62: 
-a. 
-La información necesaria para controlar el tráfico de trenes que puede ser "leída" desde un panel de control es compleja, está dispersa en diferentes lugares y se complementa con notas manuscritas sobre puntos de interés temporales. Como confirmaron varios de ellos, descifrar toda la información no es obvio para jefes de estación novatos (4.2.1.2). Dado que no todas las secciones estaban ya incluidas en el panel de control y algunas de ellas estaban temporalmente fuera de servicio, no fue sencillo identificar la ruta del tren IC-62 pasando por los desvíos 118 A/B la tarde del accidente (4.2.2). 
-b. 
-Basándose en la información proporcionada, no está claro si los nuevos jefes de estación fueron formados y evaluados en la aplicación práctica de las instrucciones operativas locales de trabajo para los respectivos paneles de control que tendrían que utilizar (4.2.1.3). 
-c. 
-Mientras que varios de sus colegas que fueron reclutados junto con él, hacen referencia a un periodo de uno a año y medio antes de sentirse seguros con las tareas requeridas, el jefe de estación que estaba de turno en la estación de Larissa la noche del accidente tenía menos de un mes de experiencia (4.2.1.5). 
-d. 
-Aunque la operación manual de los desvíos se consideraba más compleja y se emitieron varias instrucciones para establecer sistemáticamente las rutas automáticamente, utilizando los botones de destino en el panel de control, todavía era una práctica común entre los jefes de estación usar ambos métodos (4.2.1.4). 
-e. 
-El turno de noche en la estación de Larissa está diseñado para ser realizado por un único jefe de estación. Esto se basa en una interpretación estática de las tareas y no tiene en cuenta el carácter dinámico de las actividades a realizar (4.2.1.6). 
-f. 
-Una serie de defectos técnicos y fallos de funcionamiento, algunos específicos de ese día pero otros presentes desde hacía varias semanas e incluso años, crearon una situación en la que los jefes de estación que operaban en Larissa estaban obligados a realizar una serie de actividades adicionales en comparación con la situación de referencia, sin incidentes (3.8.1). 
-g. 
-Una parte significativa de la carga de trabajo del jefe de estación de Larissa en el turno de tarde del 28/02/2023 consistía en un número excepcionalmente alto de comunicaciones, utilizando diferentes medios de comunicación y comunicándose con interlocutores muy diversos. El hecho de que una proporción significativa de las conversaciones mantenidas no se relacionen o solo indirectamente con la gestión del tráfico de trenes también contribuye a una mayor carga de trabajo (4.2.1.8). 
-h. 
-El panel de control en la estación de Larissa y el área con las instalaciones técnicas a utilizar para diferentes tipos de comunicación están organizados y físicamente posicionados de tal manera que hace imposible realizar ambas tareas al mismo tiempo (245). 
-i. 
-En la última media hora antes de establecer la ruta para el tren IC-62, el jefe de estación de Larissa cometió un error en
+5. Conclusiones
+5.1. Resumen y conclusiones del análisis
+El escenario más probable considerado para explicar la colisión frontal entre el tren de pasajeros IC-62 y el tren de mercancías 63503 es el olvido en la colocación de los desvíos 118 A/B por parte del jefe de estación inexperto, que trabajaba solo en la estación de Larisa esa noche, lo cual guió al tren de pasajeros por la vía descendente opuesta. La barrera potencial, donde los conductores de tren reaccionan ante la información contradictoria entre la posición de los desvíos y la autorización de movimiento concedida, fue pasada por alto por los conductores.
+5.1.1. Causa inmediata
+La colisión entre el tren de pasajeros IC-62 y el tren de mercancías 63503 pudo ocurrir porque ambos trenes circulaban en direcciones opuestas por la misma vía descendente entre las estaciones de Larisa y Neoi Poroi.
+5.1.2. Factores causales
+El jefe de estación no utilizó el método automatizado para establecer la ruta del tren IC-62 para salir de la estación de Larisa hacia el norte, dirección Neoi Poroi, lo cual habría posicionado correctamente todos los desvíos. En su lugar, ordenó los desvíos individuales manualmente y, al hacerlo, olvidó colocar los desvíos 118 A/B en la posición «principal»; con ello, guió el tren IC-62 hacia la línea descendente. Este error pasó inadvertido para el jefe de estación.
+La investigación identificó una serie de factores que pueden haber influido en las acciones del jefe de estación al establecer la ruta del tren IC-62:
+a.
+La información necesaria para controlar el tráfico ferroviario que puede «leerse» desde un panel de control es compleja, está dispersa en diferentes lugares y se complementa con notas manuscritas sobre puntos de interés temporales. Como confirmaron varios de ellos, descifrar toda la información no es obvio para jefes de estación novatos (4.2.1.2). Dado que no todas las secciones estaban ya incluidas en el panel de control y algunas de ellas estaban temporalmente fuera de servicio, no era sencillo identificar la ruta del tren IC-62 a través de los desvíos 118 A/B la tarde del accidente (4.2.2).
+b.
+Basándose en la información proporcionada, no está claro si los jefes de estación recién contratados fueron formados y evaluados en la aplicación práctica de las instrucciones operativas locales de trabajo para los respectivos paneles de control que tendrían que utilizar (4.2.1.3).
+c.
+Mientras que varios de sus colegas que fueron contratados junto con él hacen referencia a un periodo de uno a año y medio antes de sentirse seguros con las tareas requeridas, el jefe de estación que estaba de turno en la estación de Larisa la noche del accidente tenía menos de un mes de experiencia (4.2.1.5).
+d.
+Aunque la operación manual de los desvíos se consideraba más compleja y se emitieron varias instrucciones para establecer rutas automáticamente de forma sistemática, utilizando los botones de destino en el panel de control, seguía siendo una práctica común entre los jefes de estación utilizar ambos métodos (4.2.1.4).
+e.
+El turno de noche en la estación de Larisa está diseñado para ser realizado por un único jefe de estación. Esto se basa en una interpretación estática de las tareas y no tiene en cuenta el carácter dinámico de las actividades a realizar (4.2.1.6).
+f.
+Una serie de defectos técnicos y averías, algunos específicos de ese día pero otros presentes ya durante varias semanas e incluso años, crearon una situación en la que los jefes de estación que operaban en Larisa estaban obligados a realizar una serie de actividades adicionales en comparación con la situación de referencia, sin incidentes (3.8.1).
+g.
+Una parte significativa de la carga de trabajo del jefe de estación de Larisa en el turno de tarde del 28/02/2023 consistió en un número excepcionalmente alto de comunicaciones, utilizando diferentes medios de comunicación y comunicándose con interlocutores muy diversos. El hecho de que una proporción significativa de las conversaciones mantenidas no se relacionen o solo se relacionen indirectamente con la gestión del tráfico ferroviario también contribuye a una mayor carga de trabajo (4.2.1.8).
+h.
+El panel de control en la estación de Larisa y el área con las instalaciones técnicas a utilizar para diferentes tipos de comunicación están organizados y situados físicamente de manera que hace imposible realizar ambas tareas al mismo tiempo (245).
+i.
+En la última media hora antes de establecer la ruta para el tren IC-62, el jefe de estación de Larisa cometió un error en
 
 ## Página 125
+
 
 establecimiento de la ruta para la entrada del tren 2597. La corrección de este error requirió la plena atención del jefe de estación durante un periodo de al menos 6 minutos, sumándose a la carga de trabajo normal (224).
 j. 
@@ -2798,61 +2943,62 @@ OSE no proporciona ningún mantenimiento preventivo de sus activos principales p
 
 ## Página 126
 
-Las intervenciones solo se llevan a cabo cuando fallan los activos (críticos), incluso en el caso de proyectos de renovación que entran parcialmente en servicio (4.2.11).
-Para los maquinistas, que se enfrentan diariamente a cambios debido a obras en curso y/o activos defectuosos, esto
-642
-requiere una alerta continua y un alto nivel de resiliencia.
-La forma en que OSE gestiona la competencia de los jefes de estación no garantiza que sean competentes en las
-tareas relacionadas con la seguridad por las que son responsables:
-a.
-La formación inicial es teórica (290).
-b.
-No se aporta evidencia del desarrollo de las habilidades no técnicas necesarias (291).
-c.
-No existe garantía de que la formación práctica sea suficiente para adquirir las competencias necesarias para trabajar
-de forma segura en todas las condiciones (295).
-d.
-No existe ninguna iniciativa estructurada para garantizar la formación continua de los jefes de estación, con el fin de que
-mantengan y/o mejoren sus competencias (4.2.6.3).
-No se realizó ningún seguimiento estructurado del desempeño de ninguno de los jefes de estación a principios de
-644
-2023, lo que dejó a OSE desconocedor de cualquier deterioro en el desempeño de las tareas relacionadas con la seguridad (4.2.7).
-OSE no tiene en cuenta la necesidad de integrar los factores humanos y organizativos. Esto da como resultado que el equipo utilizado, las tareas exigidas, el entorno de trabajo proporcionado y los arreglos organizativos generales
-estiren los límites de su personal operativo más allá de lo humanamente aceptable de manera sostenible (4.2.8).
-La integración de un gran número de jefes de estación a mediados de 2022 nunca fue considerada, desde una perspectiva de seguridad,
-como un cambio significativo (4.2.6.1). Se hizo una observación similar respecto a la reintegración de los paneles de control. En general,
-la gestión de riesgos y cambios de OSE no está adaptada a las misiones principales de un gestor de infraestructura, y
-el vínculo con las actividades operativas está poco desarrollado y mal comprendido (4.2.12). Reinaba la firme creencia de que
-todos los riesgos operativos pueden controlarse aplicando estrictamente las normas, bajo todas las condiciones, y solo recientemente puede notarse un primer
-intento de gestión de riesgos.
-El potencial de OSE, y por extensión de todo el sector ferroviario griego, para aprender lecciones de incidentes y
-accidentes, y así implementar medidas de mejora estructural que puedan crear un entorno que apoye
-el trabajo del personal operativo, es limitado si no inexistente (4.2.16).
-Hellenic Train no pudo demostrar que hubiera establecido una formación continua, en particular para las comunicaciones relacionadas con la seguridad
-y las competencias no técnicas relevantes (habilidades, comportamientos o actitudes) (4.2.13).
-Hellenic Train no dispone de un proceso para monitorear sistemáticamente el desempeño de sus maquinistas en cuanto a la calidad
-de las comunicaciones relacionadas con la seguridad (4.2.14).
-5.1.4. Factores que afectan la gravedad de las consecuencias
-Los vehículos ferroviarios no están diseñados para una colisión a una velocidad superior a 36 km/h, por lo que deberían estar
-en vigor medidas de seguridad activa para reducir la gravedad de las consecuencias. A diferencia, por ejemplo, del estado de los elementos de vía, para los cuales
-se imponen restricciones temporales de velocidad, no existen criterios ni disposiciones dentro de OSE para adaptar la velocidad máxima
-permitida de la línea al estado del sistema de señalización (438).
-Basándose en las observaciones que pudieron realizarse, no hay indicio de que el equipo técnico del material rodante
-utilizado diera lugar a la formación y expansión de la enorme bola de fuego que surgió tras el impacto, y
-que posteriormente resultó en los incendios secundarios. Con la evidencia existente es imposible determinar qué causó exactamente
-esto, pero las simulaciones indican la posible presencia de un combustible hasta ahora desconocido.
-Queda por evaluar si materiales ignífugos mejores podrían haber desempeñado un papel en la probabilidad de supervivencia
-de las víctimas que sobrevivieron a la colisión inicial y subsequently perdieron la vida a causa del incendio.
-Considerando, por un lado, los resultados de la Encuesta de Impacto Psicológico (4.6.3.5), y por otro lado
-el nivel de preparación del Plan sobre este tema (575), concluimos que existió/existe un alto riesgo de agravamiento
-de las consecuencias iniciales relacionadas con el TEPT, especialmente para todos aquellos que no tuvieron la posibilidad de
-acceder a este apoyo a tiempo. Observamos que todavía hay 22 personas en un nivel 'grave' o superior (más de 1/4 parte
-de la muestra de la encuesta).
-5.1.5. Observaciones de seguridad
-Aunque no están vinculadas a las causas del accidente ni a la gravedad de las consecuencias, la investigación ha identificado
+Las intervenciones solo se llevan a cabo cuando fallan los activos (críticos), incluso en el caso de proyectos de renovación que entran parcialmente en servicio (4.2.11). 
+Para los maquinistas, que se enfrentan diariamente a cambios debido a obras en curso y/o fallos de activos, esto 
+642 
+requiere una alerta continua y un alto nivel de resiliencia. 
+La forma en que OSE gestiona la competencia de los jefes de estación no garantiza que sean competentes en las 
+643 
+tareas relacionadas con la seguridad por las que son responsables: 
+a. 
+La formación inicial es teórica (290). 
+b. 
+No se aporta evidencia del desarrollo de las habilidades no técnicas necesarias (291). 
+c. 
+No existe garantía de que la formación práctica sea suficiente para adquirir las competencias necesarias para trabajar 
+de forma segura en todas las condiciones (295). 
+d. 
+No existe ninguna iniciativa estructurada para garantizar la formación continua de los jefes de estación, con el fin de que 
+mantengan y/o mejoren sus competencias (4.2.6.3). 
+No se realizó ningún seguimiento estructurado del desempeño de ninguno de los jefes de estación a principios de 
+644 
+2023, lo que dejó a OSE sin conocimiento de cualquier deterioro en el desempeño de las tareas relacionadas con la seguridad (4.2.7). 
+OSE no tiene en cuenta la necesidad de integrar los factores humanos y organizativos. Esto resulta en que el equipo utilizado, las tareas exigidas, el entorno de trabajo proporcionado y los arreglos organizativos generales 
+extienden los límites de su personal operativo más allá de lo humanamente aceptable de manera sostenible (4.2.8). 
+La integración de un gran número de jefes de estación a mediados de 2022 nunca fue considerada, desde una perspectiva de seguridad, 
+646 
+como un cambio significativo (4.2.6.1). Se hizo un hallazgo similar para la reintegración de los paneles de control. En general, 
+la gestión de riesgos y cambios de OSE no está adaptada a las principales misiones de un gestor de infraestructura, y 
+el vínculo con las actividades operativas está poco desarrollado y mal comprendido (4.2.12). Reinaba la fuerte creencia de que 
+todos los riesgos operativos pueden controlarse aplicando estrictamente las normas, bajo todas las condiciones, y solo recientemente se puede notar un primer intento de gestión de riesgos. 
+El potencial de OSE, y por extensión de todo el sector ferroviario griego, para aprender lecciones de incidentes y 
+647 
+accidentes, y así implementar medidas de mejora estructural que puedan crear un entorno que apoye 
+el trabajo del personal operativo, es limitado si no inexistente (4.2.16). 
+Hellenic Train no pudo demostrar que hubiera establecido una formación continua, en particular para comunicaciones relacionadas con la seguridad 
+y competencias no técnicas relevantes (habilidades, comportamientos o actitudes) (4.2.13). 
+Hellenic Train no dispone de un proceso para monitorear sistemáticamente el desempeño de sus maquinistas respecto a la calidad 
+649 
+de las comunicaciones relacionadas con la seguridad (4.2.14). 
+5.1.4. Factores que afectan la gravedad de las consecuencias 
+Los vehículos ferroviarios no están diseñados para una colisión a una velocidad superior a 36 km/h, por lo que deberían estar en vigor medidas de seguridad activa para reducir la gravedad de las consecuencias. A diferencia, por ejemplo, del estado de los elementos de vía, para los cuales 
+se imponen restricciones temporales de velocidad, no existen criterios ni disposiciones dentro de OSE para adaptar la velocidad máxima permitida de línea al estado del sistema de señalización (438). 
+Basándose en las observaciones que pudieron realizarse, no hay indicio de que el equipo técnico del material rodante 
+utilizado diera lugar a la formación y expansión de la enorme bola de fuego que surgió tras el impacto, y 
+que posteriormente resultó en los incendios secundarios. Con la evidencia existente es imposible determinar qué causó exactamente esto, pero las simulaciones indican la posible presencia de un combustible hasta ahora desconocido. 
+Queda por evaluar si materiales ignífugos mejores podrían haber desempeñado un papel en la probabilidad de supervivencia 
+de las víctimas que sobrevivieron a la colisión inicial y posteriormente perdieron la vida a causa del incendio. 
+Considerando por un lado los resultados de la Encuesta de Impacto Psicológico (4.6.3.5), y por otro lado 
+653 
+el nivel de preparación del Plan sobre este tema (575), concluimos que existió/existe un alto riesgo de agravamiento 
+de las consecuencias iniciales relacionadas con el TEPT, especialmente para todos aquellos que no tuvieron la posibilidad de acceder a este apoyo a tiempo. Observamos que todavía hay 22 personas en un nivel 'grave' o superior (más de 1/4 parte 
+de la muestra de la encuesta). 
+5.1.5. Observaciones de seguridad 
+Aunque no están vinculadas a las causas del accidente ni a la gravedad de las consecuencias, la investigación ha identificado 
 654
 
 ## Página 127
+
 
 lo siguiente, elementos adicionales que son relevantes para una gestión segura de los incidentes en los ferrocarriles griegos.
 No existió una coordinación operativa real de los diferentes servicios en el lugar de la colisión: no había
@@ -2894,23 +3040,50 @@ Si bien el monitoreo de la NSA y/o la ejecución de tareas de autoridad podrían
 
 ## Página 128
 
-5.2. Medidas adoptadas desde el accidente y relacionadas con nuestras conclusiones y recomendaciones
-En la fase final de la investigación, se solicitó a los principales agentes interesados que proporcionaran una visión general de las medidas ya adoptadas desde el accidente en Tempi respecto a su propia contribución para mejorar el sistema ferroviario en Grecia. El Ministerio de Transporte e Infraestructura, RAS, OSE y Hellenic Train nos facilitaron una lista más o menos exhaustiva de las medidas adoptadas. A continuación se describen los elementos más importantes de dichas listas, directamente relacionados con la mejora de la gestión de los factores subyacentes identificados en este informe.
-El Ministerio de Transporte e Infraestructura ha puesto en marcha una amplia campaña para modernizar, renovar y, en algunos lugares, ampliar la infraestructura ferroviaria existente, lo que incluye la adaptación de los sistemas de señalización y telemando y la instalación del sistema automático de protección de trenes ETCS. Aunque transcurrirán varios años hasta que estos proyectos se materialicen plenamente, este esfuerzo -si se mantiene- ayudará a devolver la infraestructura ferroviaria griega a un estado que permita la operación normal.
-Además, en respuesta a los hallazgos de una auditoría sobre el estado de implementación y aplicación de la legislación de la Unión en materia de seguridad ferroviaria en Grecia¹⁰, y tras consultas y de acuerdo con la Comisión Europea, el Ministerio de Transporte e Infraestructura inició un Plan de Acción. La Comisión Europea, a la que Grecia presenta informes bimensuales, reconoce en su comunicado de prensa del 16/12/2024, que acompaña a una carta de emplazamiento formal dirigida a Grecia, que «existe un buen progreso en la implementación de este Plan de Acción», aunque «no obstante, persisten deficiencias en la implementación de la Directiva (de Seguridad)». Este mismo Plan de Acción aborda parcialmente algunos de los factores subyacentes también identificados en este informe:
-a. La creación de un nuevo organismo público unificado, que integre OSE, ERGOSE y parcialmente GAIAOSE, con el fin de abordar las lagunas y/o solapamientos de responsabilidades entre los organismos actualmente operativos, así como la falta de coordinación directa y eficaz.
-b. La firma de un contrato entre OSE y el Estado griego, aumentando la financiación anual de 45 a 75 millones de euros y definiendo las obligaciones y derechos de ambas partes.
-c. El refuerzo de la dotación de personal de la reformada OSE, RAS, EODASAAM y el Ministerio de Infraestructura y Transporte, aprobado en la Ley 5167, adoptada en diciembre de 2024.
-d. La elaboración de un Plan Estratégico y Operativo y un Plan de Inversión para el desarrollo del transporte ferroviario en Grecia, en colaboración con el Banco Europeo de Inversiones (BEI).
-e. La organización de una iniciativa sectorial de gestión de riesgos, con el objetivo de cartografiar los procesos de seguridad y destacar los problemas críticos.
-f. La creación de un organismo nacional de investigación (EODASAAM) con recursos humanos y financieros suficientes para investigar accidentes ferroviarios graves de manera completamente independiente.
-g. La clarificación de los roles complementarios y la responsabilidad por la seguridad entre RAS y el Ministerio de Infraestructura y Transporte.
-Todos los agentes interesados informaron de su participación activa en el anterior Plan de Acción del Ministerio de Transporte e Infraestructura. Además de reiterar las acciones anteriores, todos los agentes mencionaron también algunas iniciativas individuales que contribuyen a mejorar los factores subyacentes identificados para el accidente de Tempi en este informe.
-a. OSE está preparando nuevos procedimientos para la comunicación oral y escrita entre jefes de estación, así como los arreglos organizativos y técnicos para supervisar su correcta aplicación.
-b. Además, OSE informó sobre la instalación de 300 cámaras, para la monitorización continua de los trenes, en los túneles de Platamonas, Tempi, Orthrys, Kallidromos y Agioi Anargyroi. La grabación y la monitorización se llevan a cabo en tiempo real en los Centros de Control de Túneles (TCC) de Larissa y SKA.
-¹⁰ De conformidad con el artículo 35, apartado 5, del Reglamento (UE) 2016/796, la auditoría fue solicitada por la Comisión Europea y realizada por la Agencia Ferroviaria de la Unión Europea entre abril y octubre de 2023.
+5.2. Medidas adoptadas desde el accidente y relacionadas con nuestras conclusiones y 
+recomendaciones 
+En la fase final de la investigación, se solicitó a los principales agentes interesados que proporcionaran una visión general de las medidas 
+666 
+ya adoptadas desde el accidente en Tempi respecto a su propia contribución a la mejora del sistema ferroviario en 
+Grecia. Se nos facilitó una lista más o menos exhaustiva de las medidas adoptadas por parte del Ministerio de Transporte e 
+Infraestructura, RAS, OSE y Hellenic Train. Los elementos más importantes de estas listas, directamente relacionados con 
+la mejora de la gestión de los factores subyacentes identificados en este informe, se describen a continuación. 
+El Ministerio de Transporte e Infraestructura ha puesto en marcha una amplia campaña para mejorar, renovar y, en algunos 
+667 
+casos, ampliar la infraestructura ferroviaria existente, lo que incluye la modernización de los sistemas de señalización y telemando 
+y la instalación del sistema automático de protección de tren ETCS. Aunque estos proyectos tardarán varios años en completarse plenamente, este esfuerzo -si se mantiene- contribuirá a devolver la infraestructura ferroviaria griega a un estado que permita la operación normal. 
+Además, en respuesta a los hallazgos de una auditoría sobre el estado de implementación y aplicación de la legislación de la Unión 
+668 
+en materia de seguridad ferroviaria en Grecia10, y tras consultas y de acuerdo con la Comisión Europea, el Ministerio de Transporte e 
+Infraestructura inició un Plan de Acción. La Comisión Europea, a quien Grecia informa bimensualmente, reconoce en su comunicado de prensa de 16/12/2024, que acompaña a una carta de emplazamiento dirigida a Grecia, que “existe un buen progreso en la implementación de este Plan de Acción”, mientras 
+“no obstante, persisten deficiencias en la implementación de la Directiva (de Seguridad)”. El mismo Plan de Acción también aborda parcialmente algunos de los factores subyacentes identificados asimismo en este informe: 
+a. La creación de un nuevo organismo público unificado, que integre OSE, ERGOSE y parcialmente GAIAOSE, con el fin de abordar 
+las lagunas y/o solapamientos de responsabilidades entre los organismos actualmente operativos, así como la falta de 
+coordinación directa y eficaz. 
+b. La firma de un contrato entre OSE y el Estado griego, aumentando la financiación anual de 45 a 75 millones 
+de euros y definiendo las obligaciones y derechos de ambas partes. 
+c. El refuerzo de la dotación de personal de la reformada OSE, RAS, EODASAAM y el Ministerio de Infraestructura y 
+Transporte, según lo aprobado en la Ley 5167, adoptada en diciembre de 2024. 
+d. La elaboración de un Plan Estratégico y Operativo y un Plan de Inversiones para el desarrollo del transporte ferroviario 
+en Grecia, en colaboración con el Banco Europeo de Inversiones (BEI). 
+e. La organización de una iniciativa de gestión de riesgos sectorial, con el objetivo de cartografiar los procesos de seguridad y 
+destacar los problemas críticos. 
+f. La creación de un organismo nacional de investigación (EODASAAM) con recursos humanos y financieros suficientes para 
+investigar accidentes ferroviarios graves de manera completamente independiente. 
+g. La clarificación de los roles complementarios y la responsabilidad en materia de seguridad entre RAS y el Ministerio de 
+Infraestructura y Transporte. 
+Todos los agentes interesados informaron de su participación activa en el anterior Plan de Acción del Ministerio de Transporte e 
+669 
+Infraestructura. Además de reiterar las acciones anteriores, todos los agentes mencionaron también algunas iniciativas individuales 
+que contribuyen a mejorar los factores subyacentes identificados para el accidente de Tempi en este informe. 
+a. OSE está en proceso de preparar nuevos procedimientos para la comunicación oral y escrita entre jefes de estación, así como los 
+disposiciones organizativas y técnicas para supervisar su correcta aplicación. 
+b. Además, OSE informó sobre la instalación de 300 cámaras, para la monitorización continua de los trenes, en los túneles 
+de Platamonas, Tempi, Orthrys, Kallidromos y Agioi Anargyroi. La grabación y monitorización se realizan en tiempo real en los Centros de Control de Túneles (TCC) de Larissa y SKA. 
+10  De conformidad con el artículo 35, apartado 5, del Reglamento (UE) 2016/796, la auditoría fue solicitada por la Comisión Europea y realizada por la Agencia Ferroviaria de la Unión Europea entre abril y octubre de 2023.
 
 ## Página 129
+
 
 c. Hellenic Train proporcionó apoyo psicológico especializado para la reincorporación de su personal tras el accidente y celebró un contrato con un psicólogo especializado para la futura asistencia a los empleados.
 d. Además, Hellenic Train invirtió en la formación intensiva de maquinistas y auxiliares de tren, con el objetivo de reforzar sus competencias, y creó la figura del Tutor, estableciendo procedimientos de selección mediante entrevistas, orientación con manuales así como seguimiento continuo.
@@ -2928,6 +3101,7 @@ Además, debido a su único ámbito de cumplimiento legal, las actuales investig
 11 La Directiva específica (UE) 2019/1937 también aborda esta cuestión (considerando 9): «La importancia de la protección de los denunciantes en términos de prevención y disuasión de las infracciones de las normas de la Unión en materia de seguridad del transporte, que pueden poner en peligro vidas humanas, ya ha sido reconocida en actos sectoriales de la Unión en materia de seguridad aérea, concretamente en el Reglamento (UE) n.º 376/2014 del Parlamento Europeo y del Consejo (8), y de seguridad del transporte marítimo, concretamente en las Directivas 2013/54/UE (9) y 2009/16/CE (10) del Parlamento Europeo y del Consejo, que prevén medidas específicas de protección para los denunciantes así como canales de denuncia específicos. Dichos actos también prevén la protección de los trabajadores que denuncian sus propios errores honestos frente a represalias, la llamada ‘cultura justa’. Es necesario complementar los elementos existentes de protección de los denunciantes en esos dos sectores, así como proporcionar protección en otros modos de transporte, concretamente el transporte por vías navegables interiores, por carretera y ferroviario, para mejorar la aplicación de las normas de seguridad en relación con dichos modos de transporte.»
 
 ## Página 130
+
 
 6. Recomendaciones y puntos de aprendizaje
 6.1. Recomendaciones de seguridad
@@ -2967,8 +3141,8 @@ Una metodología de comunicación relacionada con la seguridad que respete los r
 2.
 Un medio de comunicación que permita el contacto directo uno a uno entre los jefes de estación y los conductores para todas las comunicaciones relacionadas con la seguridad.
 
-
 ## Página 131
+
 
 6.1.2. Recomendaciones bajo la iniciativa de OSE
 Las siguientes recomendaciones están bajo la iniciativa de OSE. Sin embargo, parece que otras partes interesadas pueden
@@ -3017,6 +3191,7 @@ Recomendación 2025-RL01-003. La intención de esta recomendación es garantizar
 
 ## Página 132
 
+
 se prepara para las tareas relacionadas, que su competencia se evalúa y mantiene periódicamente y que las tareas se llevan a cabo en consecuencia, incluido el conjunto de competencias relacionadas con las habilidades no técnicas y los acuerdos sobre la aptitud física y psicológica al ser contratados, pero también durante la carrera profesional.
 OSE debería reforzar su sistema de gestión de competencias, para cubrir al menos los siguientes elementos:
 a. La identificación de las competencias (incluidos conocimientos, habilidades, comportamientos y actitudes no técnicos) requeridas para las tareas relacionadas con la seguridad, prestando especial atención a la gestión de recursos de la tripulación.
@@ -3042,8 +3217,8 @@ b. Selección: Los eventos seleccionados para una investigación en profundidad 
 c. Investigación: Los procedimientos y metodologías para la investigación están construidos para proporcionar información que sea tan útil como sea posible para la prevención de futuros accidentes.
 d. Difusión de resultados: Los resultados de la investigación se distribuyen a todos aquellos que puedan usarlos para prevenir
 
-
 ## Página 133
+
 
 futuros accidentes.
 e. Medidas preventivas: La información de las investigaciones de eventos se utiliza para prevenir futuros accidentes, con un enfoque en apoyar al personal operativo en actividades críticas para la seguridad.
@@ -3054,6 +3229,7 @@ OSE debería revisar y, donde sea necesario, mejorar sus procesos para registrar
 En relación con la Recomendación 2025-RL01-004, OSE debería reflexionar sobre la posibilidad de utilizar estas tecnologías para la monitorización continua del desempeño en materia de seguridad en un contexto no punitivo.
 
 ## Página 134
+
 
 6.1.3. Recomendaciones bajo la iniciativa de Hellenic Train
 Las siguientes recomendaciones se encuentran bajo la iniciativa de Hellenic Train. No obstante, parece que otros
@@ -3089,8 +3265,8 @@ e. Establecer mecanismos de notificación: Crear un sistema sencillo para notifi
 f. Participar en la mejora continua: Solicitar retroalimentación del personal involucrado en tareas críticas para la seguridad para identificar
 áreas de mejora. Revisar y refinar periódicamente los protocolos, formaciones y procesos de monitorización.
 
-
 ## Página 135
+
 
 6.1.4. Recomendaciones bajo la iniciativa de RAS
 Las siguientes recomendaciones se formulan para su implementación por parte de RAS:
@@ -3110,6 +3286,7 @@ RAS debería desarrollar e implementar las actividades de supervisión necesaria
 
 ## Página 136
 
+
 6.1.5. Recomendaciones bajo la iniciativa del Ministerio de Transportes e Infraestructuras de Grecia
 La siguiente recomendación se formula para su implementación por el Ministerio de Transportes e
 689
@@ -3122,8 +3299,8 @@ a. En cooperación con las partes interesadas del sector ferroviario, el desarro
 b. Garantizar que la Autoridad Nacional de Seguridad (RAS) y el Organismo Nacional de Investigación (EODASAAM) dispongan, de forma continua, de la estructura organizativa, los recursos financieros y humanos necesarios para llevar a cabo eficazmente las tareas asignadas en la Directiva sobre Seguridad Ferroviaria, así como para crear un marco que les permita rendir cuentas periódicamente al respecto.
 c. Crear un contexto institucional que permita al sector ferroviario reclutar los perfiles adecuados de manera selectiva y dentro de un plazo limitado y competitivo, lo cual permitirá alcanzar rápidamente los objetivos anteriores.
 
-
 ## Página 137
+
 
 6.1.6. Recomendaciones bajo la iniciativa de la ERA
 Las siguientes recomendaciones se formulan para su implementación por la Agencia Ferroviaria de la Unión Europea:
@@ -3136,8 +3313,8 @@ Recomendación 2025-RL01-012. La intención de esta recomendación es generar un
 los planes de acción de las ANS en relación con las deficiencias identificadas que impiden a la ANS realizar eficazmente la supervisión de los Sistemas de Gestión de la Seguridad de los agentes ferroviarios.
 La Agencia Ferroviaria de la Unión Europea debe desarrollar e implementar en su método de auditoría un sistema que permita priorizar aquellas deficiencias que impiden a una Autoridad Nacional de Seguridad desempeñar eficazmente su tarea de supervisar el Sistema de Gestión de la Seguridad de los agentes ferroviarios y crear una visión general de su desempeño en materia de seguridad. El seguimiento de la implementación adecuada de los planes de acción relacionados con estas deficiencias debe ir más allá de la revisión documental y hacer uso de la posibilidad de realizar visitas, auditorías y/o inspecciones (previamente anunciadas) adicionales de manera oportuna.
 
-
 ## Página 138
+
 
 6.1.7. Recomendaciones bajo la iniciativa de la Comisión Europea
 Las siguientes recomendaciones se formulan para su implementación por la Comisión Europea:
@@ -3153,29 +3330,40 @@ La Comisión Europea debe definir e implementar un marco de evaluación ampliado
 
 ## Página 139
 
-6.1.8. Recomendaciones bajo la iniciativa del Ministerio griego de Crisis Climática y Protección Civil
+6.1.8. Recomendaciones bajo la iniciativa del Ministerio griego de Crisis Climática y Protección Civil 
 Las siguientes recomendaciones se formulan para su aplicación por parte del Ministerio griego de Crisis Climática y Protección Civil:
-Recomendación 2025-RL01-015. El objetivo de esta recomendación es permitir una asistencia rápida y coordinada durante una situación de emergencia.
-El Ministerio de Crisis Climática y Protección Civil debe desarrollar, en colaboración con los diferentes servicios de emergencia (Cuerpo de Bomberos, Apoyo Médico y Psicosocial, Policía, Protección Civil) y basándose en las buenas prácticas reconocidas internacionalmente, instrucciones detalladas para un Plan de Respuesta a Emergencias y Gestión de Crisis que describa en detalle al menos cómo:
-a. Además de la coordinación establecida dentro de cada disciplina, la colaboración interdisciplinar tiene lugar en dos niveles: a nivel operativo y a nivel de gestión estratégica.
-b. Cómo establecer los perímetros, delimitarlos físicamente, señalizarlos, monitorizarlos y garantizar el control de acceso a las zonas del lugar de intervención.
-c. Cómo realizar el mapeo del lugar del accidente, para preservar la máxima cantidad de pruebas para futuras investigaciones de seguridad.
-d. Cómo preparar los recursos competentes dedicados, organizar las actividades en función de las fases de necesidades psicológicas, y realizar y evaluar estas actividades, tanto a nivel colectivo como individual, con el fin de prevenir y reducir los riesgos de TEPT.
-Una vez establecido, el Ministerio de Crisis Climática y Protección Civil debe asumir la responsabilidad de la adecuada implementación de este Plan de Respuesta a Emergencias y Gestión de Crisis, para que la cooperación entre las partes implicadas funcione lo mejor posible. Esto debe lograrse mediante la organización sistemática de ejercicios tanto de mesa como sobre el terreno. La experiencia de estos ejercicios, así como las lecciones aprendidas de intervenciones reales, deben utilizarse para mejorar continuamente la coordinación en ambos niveles.
-Recomendación 2025-RL01-016. El objetivo de esta recomendación es garantizar la investigación adecuada de los accidentes ferroviarios.
-El Ministerio de Crisis Climática y Protección Civil debe tomar las medidas necesarias para incluir el papel de EODASAAM, en apoyo de la Autoridad Investigadora Preliminar, para todos los accidentes relacionados con el ferrocarril en una versión actualizada del Plan de Gestión de Pérdidas Humanas y eventuales otros Planes de Respuesta a Emergencias y Gestión de Crisis que deban desarrollarse en respuesta a la Recomendación 2025-RL01-014.
+697 
+Recomendación 2025-RL01-015. La finalidad de esta recomendación es permitir una asistencia rápida y coordinada durante una situación de emergencia.  
+El Ministerio de Crisis Climática y Protección Civil debe elaborar, en colaboración con los distintos servicios de emergencia (Cuerpo de Bomberos, Apoyo Médico y Psicosocial, Policía, Protección Civil) y basándose en las buenas prácticas reconocidas internacionalmente, instrucciones detalladas para un Plan de Respuesta ante Emergencias y Gestión de Crisis que describa en detalle al menos cómo: 
+a. Además de la coordinación establecida dentro de cada disciplina, la colaboración interdisciplinar tiene lugar en dos niveles: a nivel operativo y a nivel de gestión estratégica. 
+b. Cómo establecer los perímetros, delimitarlos físicamente, señalizarlos, vigilarlos y garantizar el control de acceso a las zonas del lugar de intervención. 
+c. Cómo realizar el mapeo del lugar del accidente, para preservar la máxima cantidad posible de pruebas para futuras investigaciones de seguridad.  
+d. Cómo preparar los recursos competentes dedicados, organizar las actividades en función de las fases de necesidades psicológicas, y llevar a cabo y evaluar dichas actividades, tanto a nivel colectivo como individual, con el fin de prevenir y reducir los riesgos de TEPT. 
+Una vez establecido, el Ministerio de Crisis Climática y Protección Civil debe asumir la responsabilidad de la adecuada implementación de este Plan de Respuesta ante Emergencias y Gestión de Crisis, para que la cooperación entre las partes implicadas funcione lo mejor posible. Esto debe lograrse mediante la organización sistemática de ejercicios sobre mesa (*Table-top*) y ejercicios de campo (*Field*). La experiencia obtenida de estos ejercicios, así como las lecciones aprendidas de intervenciones reales, deben utilizarse para mejorar continuamente la coordinación en ambos niveles. 
+Recomendación 2025-RL01-016. La finalidad de esta recomendación es garantizar la investigación adecuada de los accidentes ferroviarios.
+699 
+El Ministerio de Crisis Climática y Protección Civil debe tomar las medidas necesarias para incluir el papel de EODASAAM, en apoyo de la Autoridad Investigadora Preliminar, para todos los accidentes relacionados con el ferrocarril en una versión actualizada del Plan de Gestión de Pérdidas Humanas y otros eventuales Planes de Respuesta ante Emergencias y Gestión de Crisis que deban elaborarse en respuesta a la Recomendación 2025-RL01-014.
 
 ## Página 140
 
-6.2. Otras recomendaciones
-No se derivan otras recomendaciones de esta investigación.
-6.3. Puntos de aprendizaje
-El equipo de investigación observó un fuerte impacto de la prensa y los medios de comunicación en la investigación, las víctimas y las familias.
-El 28.02.2023, después de finalizar la búsqueda de supervivientes, evitar la intrusión de los medios y proteger las imágenes más graves y tristes de ser públicas se convirtió en un gran desafío en el lugar del accidente. La presión de los coordinadores para restablecer el lugar del accidente condujo a la pérdida de pruebas. El equipo de investigación subraya la necesidad de aprender de esta falta de respeto y orden.
-Si bien el interés mediático por el accidente de Tempi fue y sigue siendo intenso, el enfoque en la seguridad ferroviaria es mínimo, distorsionando a menudo incluso los hallazgos clave. Un ejemplo es el enfoque desequilibrado sobre la causa de la bola de fuego, que, si bien agravó las consecuencias, no fue un factor causal del accidente. Además, en general, la información filtrada se convierte en artículos de muy baja calidad, ya que la cobertura sensacionalista eclipsa elementos importantes de la investigación. Asimismo, los medios suelen priorizar la culpa legal sobre las mejoras de seguridad, condenando públicamente a individuos incluso antes de las conclusiones judiciales. Las filtraciones y el enfoque acusatorio de los medios están teniendo un gran impacto en el esfuerzo necesario por parte del equipo de investigación para mantener una buena relación de trabajo con todas las partes interesadas, al tiempo que deben perseguir un objetivo de investigación completamente diferente y orientado al futuro.
-A pesar de las desviaciones o drifts organizativos a largo plazo descritos, muchos empleados ferroviarios siguen estando comprometidos, como héroes trabajando en condiciones extremas. Sin embargo, se ven profundamente afectados por la representación negativa y simplificada de los problemas ferroviarios por parte de los medios, y por los riesgos diarios de ser procesados mientras realizan su trabajo normal en condiciones anormales.
+6.2. Otras recomendaciones 
+De esta investigación no se derivan otras recomendaciones. 
+700 
+6.3. Lecciones aprendidas 
+El equipo de investigación observó un fuerte impacto de la prensa y los medios de comunicación en la investigación, las víctimas y sus familias.  
+701 
+El 28.02.2023, tras finalizar la búsqueda de supervivientes, evitar la intromisión de los medios y proteger las imágenes 
+- 
+más graves y tristes para que no fueran públicas, se convirtió en un gran desafío en el lugar del accidente. La presión de los coordinadores para restablecer el lugar del accidente condujo a la pérdida de evidencias. El equipo de investigación subraya la necesidad de aprender de esta falta de respeto y orden. 
+Si bien el interés mediático por el accidente de Tempi fue y sigue siendo intenso, el enfoque en la seguridad ferroviaria es mínimo, a menudo incluso 
+- 
+distorsionando hallazgos clave. Un ejemplo es el sesgo desequilibrado centrado en la causa de la bola de fuego, que, si bien agravó las consecuencias, no fue un factor causal del accidente. Además, en general, la información filtrada se convierte en artículos de muy baja calidad, ya que la cobertura sensacionalista eclipsa elementos importantes de la investigación. Asimismo, los medios suelen priorizar la atribución legal de culpas sobre las mejoras en materia de seguridad, llegando incluso a condenar públicamente a individuos antes de que existan conclusiones judiciales. Las filtraciones y el enfoque acusatorio de los medios están teniendo un impacto significativo en el esfuerzo necesario por parte del equipo de investigación para mantener una buena relación laboral con todas las partes interesadas, al tiempo que deben perseguir un objetivo de investigación completamente distinto y orientado al futuro.  
+A pesar de las desviaciones o divergencias organizativas a largo plazo descritas, muchos empleados ferroviarios siguen dedicados, como 
+702 
+héroes trabajando bajo condiciones extremas. Sin embargo, se ven profundamente afectados por la representación negativa y simplista de los temas ferroviarios por parte de los medios, así como por el riesgo diario de ser procesados mientras desempeñan su trabajo normal en condiciones anormales.
 
 ## Página 141
+
 
 Anexo A. Descripción del Material Rodante de Ambos Trenes
 ### Material rodante del tren de mercancías 63503
@@ -3183,6 +3371,7 @@ Figura 69. Primera locomotora, Siemens Hellas Sprinter 120-022. Motor NVR: 91 73
 Figura 70. Segunda locomotora, Siemens Hellas Sprinter 120-012- Motor NVR: 91 73 212 0 012-8. Último mantenimiento “I1” 15/02/2023, Tesalónica. (https://www.railpictures.net/photo/832753/)
 
 ## Página 142
+
 
 Vagón 31 65 391 4097-0
 Mantenimiento por la empresa propietaria “MZ” (estado GCU_1/1/2023)
@@ -3206,6 +3395,7 @@ Vagón 31 73 362 2175-7
 mantenimiento cada 6 años
 
 ## Página 143
+
 
 Último mantenimiento 10/11/2022, revisión general (Taller Volos)
 Vagón 31 73 362 2247-4
@@ -3248,6 +3438,7 @@ NVR: 91 73 212 0 023-5
 
 ## Página 144
 
+
 Figura 74. Coche de pasajeros A1 primera clase. 
 https://upload.wikimedia.org/wikipedia/commons/0/0e/J26_432_Bf_Kalamb%C3%A1ka%2C_ADm_%28%C2%BBViaggio%C2%AB%29.jpg 
 https://hellas-express.eu/viewtopic.php?f=12&t=270#p2047 
@@ -3261,10 +3452,10 @@ Coche Wrmz 8896734, , NVR: 73 73
 mantenimiento 
 “F1” 
 889 6 734-8, vagón comedor sin numerar 
-19/01/2023, Mech. Renti 
-
+19/01/2023, Mech. Renti
 
 ## Página 145
+
 
 Figura 76. Coche de pasajeros segunda clase, modelo Pullman. 
 Foto que muestra el modelo Pullman B3-B7  
@@ -3316,10 +3507,10 @@ mantenimiento
 “F1” 
 73 209 6 507-9, clase B ‘Pullman’ 
 03/01/2023, Mech. Renti 
-vagón 
-
+vagón
 
 ## Página 146
+
 
 ### Daños en el material rodante del tren de mercancías 63503 
 Todos los materiales fotográficos de esta sección se basan en o han sido extraídos del informe de los peritos judiciales, 
@@ -3327,51 +3518,51 @@ Todos los materiales fotográficos de esta sección se basan en o han sido extra
 Figura 77. Posición 1) Siemens Hellas Sprinter 120-022- Motor NVR: 91 73 212 0 022-7 Daño extremo en la parte frontal, techo ausente, 
 y parte trasera gravemente dañada por la colisión trasera con la locomotora acoplada 120-012. Vista posterior en la Figura 14. 
 Figura 78. Posición 2) Locomotora 120 012, graves daños en la parte frontal (con la locomotora 120-022) y trasera, signos de impacto contra el 1er 
-contenedor en P4, sin la cabina trasera ausente. 
-
+contenedor en P4, sin la cabina trasera ausente.
 
 ## Página 147
+
 
 Figura 79. Posición 3) plataforma n.º 1 transportando placas de acero, mitad delantera totalmente destruida por fuerte impacto con el Coche Restaurante. 
 Figura 80. Posición 4) plataforma n.º 2 transportando placas de acero, perdió bogies por descarrilamiento pero muy ligeramente dañada, sin signos de 
 fuerte choque. 
 Figura 81. Posición 5) plataforma n.º 3 transportando placas de acero, perdió bogies por descarrilamiento, daño leve (torsión) debido al impacto desde 
-la parte trasera. 
-
+la parte trasera.
 
 ## Página 148
+
 
 Figura 82. Plataformas encontradas en el lugar del accidente. 
 Figura 83. Posiciones 6) y 7) – a la izquierda, la plataforma n.º 4 (dañada, perdió bogie delantero, no descarrilada) transportando el primer contenedor. 
 A la derecha, el primer contenedor (OOCL) está desplazado hacia atrás, dañando el siguiente contenedor (ZIMonitor). 
 Figura 84. Posiciones 8)-15) Las plataformas restantes transportando 8 contenedores, intactos y aún precintados (o permanecieron vacíos, para los 2 
-últimos), no descarrilados, detuvidos a lo largo de la línea y retirados normalmente. 
-
+últimos), no descarrilados, detuvidos a lo largo de la línea y retirados normalmente.
 
 ## Página 149
+
 
 ### Daños en el material rodante del tren de pasajeros IC 62 
 Figura 85. Posición 1) Locomotora 120 023, totalmente destruida, rota en grandes piezas. Pieza restante de la plataforma base. 
 Parte con transformador aún visible. Otro lado en la Figura 17. En la posición 2) el coche A1 de 1ª clase, totalmente destruido, ha 
 roto en pequeñas piezas, y no era reconocible como vehículo completo. 
 Figura 86. Posición 3) Coche Restaurante, muy gravemente dañado por el impacto inicial (plegado, doblado en forma de S) y calcinado. Aquí, 
-suspendido de los cables de la grúa. 
-
+suspendido de los cables de la grúa.
 
 ## Página 150
 
+
 Figura 87. Posición 4) Coche B2 de 2ª clase, graves daños por impacto en la parte delantera y trasera, el fuego lo consumió lentamente. 
 Figura 88. Posición 5) Coche B3 de 2ª clase, descarriló y bajó una pendiente, perdió bogies, ningún otro daño por descarrilamiento o choque, 
-daño específico por impacto del B2 cayendo desde arriba. 
-
+daño específico por impacto del B2 cayendo desde arriba.
 
 ## Página 151
 
-Figura 89. Posiciones 6-9) Coches B4-B7, B4 y B5 descarrilaron y fueron golpeados lateralmente por placas de acero, B6 y B7 no descarrilaron, sin 
-daños, B7 permaneció casi todo dentro del túnel. 
 
+Figura 89. Posiciones 6-9) Coches B4-B7, B4 y B5 descarrilaron y fueron golpeados lateralmente por placas de acero, B6 y B7 no descarrilaron, sin 
+daños, B7 permaneció casi todo dentro del túnel.
 
 ## Página 152
+
 
 Apéndice B. Variables y parámetros para las pruebas CFD  
 Fire Dynamics Simulator (FDS) (https://pages.nist.gov/fds-smv/) es un código de Dinámica de Fluidos Computacional (CFD) 
@@ -3387,10 +3578,11 @@ Se realizaron varias pruebas para simular la posibilidad de que el aceite de sil
 
 ## Página 153
 
+
 Los resultados de estas pruebas descartan la posibilidad de que los aceites de silicona PDMS generen una bola de fuego y un incendio en charco de tal magnitud, ya que el único resultado posible es una ignición localizada pequeña que no se propagará al resto del material, incluso si la cantidad total de aceite de silicona se atomiza y dispersa por toda la zona de manera irreal.
 
-
 ## Página 154
+
 
 Tarea n.º 2: estimación de la cantidad de combustible hidrocarbonado genérico que crearía una bola de fuego similar a la observada
 Para esta tarea, se eligió el N-PENTANO (C5H12) como combustible hidrocarbonado genérico, representando una mezcla típica de combustibles como la nafta, con el fin de estimar únicamente la cantidad de combustible implicado sin intentar identificar realmente el tipo exacto de combustible (una tarea que no se considera realísticamente posible mediante ingeniería inversa).
@@ -3408,23 +3600,24 @@ Humedad relativa: 94%
 Para esta tarea en particular, AIT=0 se consideró una elección razonable, ya que no era necesario confirmar el mecanismo inicial de ignición, sino más bien estimar la cantidad de combustible requerida para crear el resultado (tamaño, forma y duración) de la bola de fuego observado en las imágenes de vídeo del accidente. 
 La razón para el uso de la simulación CFD para esta tarea fue el hecho de que no se trataba de un evento BLEVE sencillo con una única liberación de combustible conocido desde una fuente única y estacionaria, sino más bien de un evento muy complejo con una liberación en cascada de al menos dos etapas distintas, lo que condujo a dos incendios en charco diferentes de duración y tamaño no claramente documentados.  
 En comparación con los modelos teóricos que estiman el diámetro máximo y la duración de una bola de fuego a partir de una única liberación de combustible conocido, se esperaba que la simulación CFD proporcionara una estimación que probablemente sería de mayor duración para el mismo tamaño máximo. Esto puede atribuirse al hecho de que una cantidad dada de combustible crearía un diámetro máximo correspondiente de la bola de fuego, pero probablemente con una duración ligeramente mayor de la bola de fuego debido al tiempo añadido por el retraso de la liberación en cascada. 
-Además, durante el desarrollo del modelo final, se llevaron a cabo diversos estudios de sensibilidad, utilizando varios modelos a pequeña escala con el fin de evaluar parámetros específicos y su efecto sobre el resultado de la simulación: 
-
+Además, durante el desarrollo del modelo final, se llevaron a cabo diversos estudios de sensibilidad, utilizando varios modelos a pequeña escala con el fin de evaluar parámetros específicos y su efecto sobre el resultado de la simulación:
 
 ## Página 155
 
+
 Se evaluó el tamaño de gota (diámetro de partícula) y se realizó una comparación entre diámetros de partícula de 5, 50, 500, 
 2000 μm en una liberación de partículas de características similares a la utilizada en el modelo final. Se observó que existía una diferencia considerable cuando el tamaño de gota era muy pequeño (5 y 50 nm) en comparación con el valor elegido de 500 nm, pero para el diámetro mayor de 2000 nm el efecto fue mucho menor, lo que indica que, para estudiar un evento con gotas de tamaño milimétrico, un diámetro de partícula de 500 nm se considera razonable. 
-Asimismo, se realizó una comparación entre diferentes cantidades de estado líquido, gaseoso y combinado líquido-gaseoso del mismo combustible, con el fin de validar la sensibilidad del software FDS a los cambios de estado del combustible. Debido a la falta de cualquier información relevante sobre los volúmenes de combustible y su espacio de cabeza, se decidió no realizar ninguna suposición sobre este tema y considerar la cantidad total de combustible como partículas líquidas. 
-
+Asimismo, se realizó una comparación entre diferentes cantidades de estado líquido, gaseoso y combinado líquido-gaseoso del mismo combustible, con el fin de validar la sensibilidad del software FDS a los cambios de estado del combustible. Debido a la falta de cualquier información relevante sobre los volúmenes de combustible y su espacio de cabeza, se decidió no realizar ninguna suposición sobre este tema y considerar la cantidad total de combustible como partículas líquidas.
 
 ## Página 156
+
 
 Las condiciones de contorno también se compararon en varias pruebas a pequeña escala que dieron una indicación de los efectos del perfil de viento sobre la forma de la bola de fuego. Se comprendió que pequeños cambios en el perfil de viento podían afectar a la forma pero no al diámetro máximo, a la tasa de desarrollo del fenómeno o a la duración total de la bola de fuego, por lo que se utilizó un perfil de viento realista lo más cercano posible a las condiciones meteorológicas de ese día, entendiendo el pequeño efecto sobre el resultado final. 
 Los tamaños de malla se compararon mediante un rápido estudio de sensibilidad que comparó tamaños de malla de 0,1 a 0,5 m y una forma cuadrada en comparación con la forma oblonga. En esta geometría y tipo de liberación particulares, se comprendió que el tamaño de malla solo desempeñaba un papel muy pequeño en la precisión y repetibilidad de la simulación, por lo que se eligió un tamaño de malla cuadrada razonable para el modelo final. 
 Una vez llegado a un conjunto aceptado de ajustes y condiciones iniciales, el desarrollo del modelo real para la simulación del accidente de Tempi fue un procedimiento muy largo y complejo que involucró diversas suposiciones elegidas como las más adecuadas para el evento que debe ser objeto de ingeniería inversa sin información sólida.
 
 ## Página 157
+
 
 Tras un análisis detallado de las observaciones procedentes de los tres vídeos que han grabado el accidente, es evidente que el suceso puede considerarse como una secuencia de tres etapas distintas:
 La Etapa 1 es la primera liberación durante 2 segundos que crea una bola de fuego de aproximadamente 40 m de diámetro.
@@ -3434,11 +3627,12 @@ Con el fin de modelar la secuencia de sucesos anterior, se eligió una liberaci�
 Se señala que no es posible simular una fuente móvil de liberación en FDS, por lo que la liberación de la Etapa 2 fue modelada con un soplador estático del mismo tamaño de abertura que la liberación de la primera etapa, pero situado a 10 m de distancia y soplando combustible en un ángulo y con una velocidad inicial que alimentarían la bola de fuego original de la manera más similar posible al vídeo objetivo.
 En cuanto a la liberación inicial de la Etapa 1, una comparación de diferentes geometrías posibles y velocidades iniciales de liberación de combustible mostró que los resultados más realistas se obtuvieron cuando las partículas de combustible eran sopladas hacia una obstrucción con una inclinación que desviaría parte de la pulverización de combustible hacia arriba y otra parte lateralmente. Tras probar 12 combinaciones diferentes de cantidades de combustible y velocidades de combustible para las dos liberaciones, la que más se asemejaba al vídeo grabado fue Case08_07, con cantidades respectivas de 800 kg para la Etapa 1, 1200 kg para la Etapa 2 y 300-500 kg para el incendio en charco de la Etapa 3. Obviamente, esto solo sirve para proporcionar un orden de magnitud y no un número exacto, ya que existen otras combinaciones de combustible, velocidades y geometrías que podrían posiblemente replicar el vídeo objetivo. No obstante, está claro que el orden de magnitud es correcto, ya que no es posible crear una bola de fuego de tamaño comparable sin al menos 2000 kg de combustible. Además, la ausencia de un gran incendio en charco #1 registrado por evidencia videográfica descarta la posibilidad de una mayor cantidad de combustible (p. ej., 10-15 t) que habría creado y mantenido un gran incendio en charco como consecuencia del choque.
 
-
 ## Página 158
 
 
+
 ## Página 159
+
 
 Anexo C. Encuesta sobre Impacto Psicológico: el cuestionario
 La herramienta de encuesta estaba compuesta por diferentes partes.
@@ -3452,8 +3646,8 @@ g. Con el fin de ahorrar tiempo de respuesta a los participantes, se introdujero
 Una vez construido, el cuestionario fue difundido en el equipo de investigación, mejorado, traducido, luego compartido con una de las víctimas directas del accidente y un representante de los familiares de las víctimas, luego mejorado nuevamente, y finalizado.
 12   Connor, K.M. and Davidson, J.R.T. (2001). SPRINT: a brief global assessment of post-traumatic stress disorder. International Clinical Psychopharmacology 2001, 16:279-284.
 
-
 ## Página 160
+
 
 Anexo D. Encuesta sobre Impacto Psicológico: las tablas de los resultados
 ### Los grupos de personas
@@ -3515,6 +3709,7 @@ Profesionales Ferroviarios No Implicados
 2
 
 ## Página 161
+
 
 ### Los grupos de personas
 ### Riesgo de TEPT
@@ -3618,31 +3813,35 @@ Profesionales ferroviarios no implicados
 1
 3
 
-
 ## Página 162
 
-La versión griega del Cuestionario de Impacto Psicológico  
 
+La versión griega del Cuestionario de Impacto Psicológico
 
 ## Página 163
+
 
 
 ## Página 164
 
 
+
 ## Página 165
 
-La versión en inglés  
-(no distribuida, pero útil en el contexto del informe) 
 
+La versión en inglés  
+(no distribuida, pero útil en el contexto del informe)
 
 ## Página 166
+
 
 
 ## Página 167
 
 
+
 ## Página 168
+
 
 Anexo E. Pruebas y su fuente 
 1. 
@@ -3663,10 +3862,10 @@ Pruebas complementarias y análisis específicos, solicitados por expertos de la
 Análisis específico complementario, solicitado por EODASAAM o recibido, de diferentes expertos o laboratorios 
 9. 
 Datos producidos por el público objetivo del Cuestionario de Impacto Psicológico (EODASAAM) 
-10. Referencias regulatorias griegas y de la UE 
-
+10. Referencias regulatorias griegas y de la UE
 
 ## Página 169
+
 
 Anexo F. Figuras y Tablas 
 Figura 1. Tempi ubicado en un mapa global de Grecia ............................................................................................... 20 
@@ -3692,6 +3891,7 @@ Figura 19. Restos de la primera plataforma que transportaba placas de acero. ...
 Figura 20. Extremo trasero faltante de la locomotora 120-012. ................................................................................ 40
 
 ## Página 170
+
 
 Figura 21. Restos del coche restaurante, a la izquierda, con forma de S tal como se halló en el lugar, y a la derecha, su plataforma en el emplazamiento de Koulouri. ...................................................................................................................... 41 
 Figura 22. Restos de las chapas superiores de acero y posición final de los 3 juegos de chapas de acero. ........................................ 41 
@@ -3719,6 +3919,7 @@ Figura 43. Agujas 101A/B .......................................................
 
 ## Página 171
 
+
 Figura 44. Análisis fáctico de la carga de comunicaciones como riesgo a tener en cuenta durante la integración HOF. ............................................................................................................................................ 62
 Figura 45. La ruta para la entrada del tren 2597. ............................................................................................ 63
 Figura 46. Detalle de la llave de tres posiciones para el manejo de los desvíos 118 en el Panel de Control de Larissa. ............. 65
@@ -3744,6 +3945,8 @@ Figura 64. Incendio dentro del transformador del tren de mercancías como result
 Figura 65. Un incendio local dentro y fuera del transformador roto de la primera locomotora del tren de mercancías, 40 minutos después del accidente. ............................................................................................................ 104
 
 ## Página 172
+
+
 Figura 66. Evidencia de dos combustibles diferentes ardiendo en el incendio de charco n.º 1, uno dejando residuo negro y el otro blanco. ...................................................................................................................... 104
 Figura 67. Grandes grietas del transformador aún adherido bajo la locomotora 120-022 (izquierda). Abolladuras, pliegues, desgarrones y grandes grietas del transformador restante de la locomotora 120-023 (derecha), véase también la Figura 61. ...... 107
 Figura 68. Visualización de algunos resultados de la Encuesta sobre Impacto Psicológico. .............................................. 122
@@ -3763,8 +3966,9 @@ Figura 81. Posición 5) Plataforma n.º 3 transportando placas de acero, perdió
 Figura 82. Plataformas tal como se encontraron en el lugar del accidente. ....................................................................................... 148
 Figura 83. Posiciones 6) y 7) – a la izquierda, la plataforma n.º 4 (dañada, perdió el bogie delantero, no descarriló) transportando el primer contenedor. A la derecha, el primer contenedor (OOCL) está desplazado hacia atrás, golpeando al siguiente contenedor (ZIMonitor). .......................................................................................................... 148
 
-
 ## Página 173
+
+
 Figura 84. Posiciones 8)-15) Las plataformas restantes transportando 8 contenedores, intactos y aún precintados (o permanecieron vacíos, para los 2 últimos), no descarrilaron, se detuvieron a lo largo de la línea y fueron retirados normalmente. ............................................................................................................................................. 148
 Figura 85. Posición 1) Locomotora 120 023, totalmente destruida, rota en grandes piezas. Pieza restante de la plataforma base. Parte con el transformador aún visible. Otro lado en la Figura 17. En la posición 2) el coche A1 de 1.ª clase, totalmente destruido, se ha roto en pequeñas piezas y no era reconocible como vehículo completo....................................................................................................................................... 149
 Figura 86. Posición 3) Coche Restaurante, muy gravemente dañado por el impacto inicial (plegado, doblado en forma de S) y calcinado. Aquí, suspendido de los cables de la grúa. ............................................................. 149
@@ -3780,6 +3984,7 @@ Tabla 6. Tabla de la hora en cada estación intermedia antes de salir de Neoi Po
 Tabla 7. Pasajeros para cada uno de los coches del IC-62. ........................................................................................... 92
 
 ## Página 174
+
 
 Anexo G. Glosario y acrónimos
 ## TÉRMINO  
@@ -3807,10 +4012,10 @@ Toda la ruta/red ferroviaria (incluye vías, estaciones, señales).
 Edificio que contiene aparatos para el control de las subestaciones alimentadoras, cabinas de seccionamiento de vía y equipos asociados al equipo de catenaria. 
 controlador de potencia 
 El trabajador a cargo de la sala de control eléctrico, que controla el suministro de energía al equipo de cableado de tracción aérea y es responsable de todas las operaciones de maniobra y aislamiento de equipos eléctricos. 
-A diferencia de una locomotora diésel, los motores de tracción obtienen energía de un cable suspendido sobre la vía. El contacto con este cable se realiza mediante un pantógrafo montado en el techo de la locomotora. 
-
+A diferencia de una locomotora diésel, los motores de tracción obtienen energía de un cable suspendido sobre la vía. El contacto con este cable se realiza mediante un pantógrafo montado en el techo de la locomotora.
 
 ## Página 175
+
 
 sistema europeo de gestión del tráfico ferroviario (ERTMS) 
 Un sistema para gestionar el tráfico ferroviario, permitiendo su operación en sistemas de señalización compatibles a través de las fronteras europeas. 
@@ -3846,6 +4051,7 @@ ruta
 El camino a lo largo de un tramo de vía entre una señal y la siguiente, por el cual debe realizarse un movimiento autorizado.
 
 ## Página 176
+
 
 Sistema mediante el cual se establece una ruta y se libera la señal que la precede por parte del agente de circulación accionando un botón o botones de establecimiento de rutas. Se utilizan dos tipos: uno es el tipo «Entrada-Salida» o «Push-Push», en el que el agente de circulación acciona un botón al inicio y un segundo al final del control de rutas. El otro es el tipo de «un interruptor de control» (OCS), en el que se dispone de un interruptor o botón independiente para cada ruta en una señal, y el agente de circulación acciona el interruptor o botón correspondiente a la ruta requerida. El enclavamiento entre rutas puede ser por relés o por enclavamiento basado en ordenador.
 enclavamiento
@@ -3887,6 +4093,7 @@ El jefe de tren es un empleado ferroviario responsable de la comodidad, segurida
 jefe de tren
 
 ## Página 177
+
 
 Sistema que supervisa la velocidad del tren y la velocidad objetivo, alerta al conductor sobre el equipo de frenado y aplica el frenado cuando es necesario.
 sistema de protección del tren
@@ -3986,6 +4193,7 @@ Greek National Safety Authority - Regulatory Authority for Railways (see EL)
 RAS
 
 ## Página 178
+
 
 Ερευνητικά Ινστιτούτα της Σουηδίας, "RISE
 RI.SE

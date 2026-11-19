@@ -11,9 +11,9 @@ ratio_longitud: 1.01
 tokens_in: 72915
 tokens_out: 42501
 verificacion: ok
-notas_cifras: ["bloque 1: cifras cortas: 1/84", "bloque 3: cifras cortas: 4/14", "bloque 4: cifras cortas: 2/10", "bloque 5: cifras cortas: 2/14", "bloque 6: cifras largas: 1/5; cifras cortas: 7/45", "bloque 7: cifras largas: 1/15; cifras cortas: 8/32"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+notas_cifras: ["página 3: cifras cortas: 1/59", "página 5: cifras cortas: 4/13", "página 6: cifras cortas: 2/8", "página 8: cifras cortas: 2/11", "página 10: cifras largas: 1/5; cifras cortas: 7/44", "página 11: cifras largas: 1/9; cifras cortas: 4/21"]
 ---
 ## Página 1
 
@@ -136,11 +136,16 @@ RECOMENDACIONES ................................................................
 ## 
 ## [ilegible: 6 )6	
 
-U
-8
-
+
+
+U
+8
+
+
+
 Q
- (((  ]
+
+ (((  ]
 
 ## Página 4
 
@@ -558,7 +563,8 @@ De estos 14 accidentes, 4 fueron accidentes en los que el establecimiento de la 
 De estas 14 colisiones, se conocen detalles precisos de las circunstancias en las que tuvieron lugar. Para los pasos STS que no han resultado en una colisión, se sabe mucho menos. Debido a que no todos los subitinerarios resultan en una colisión, pero debido a que se sabe que de los 14 pasos STS que sí resultaron en colisiones graves, más de la mitad implicaba el establecimiento de un subitinerario, parece muy probable que en muchos más de los aproximadamente 1300 pasos STS totales en el período 1999 – 2004, los subitinerarios desempeñaron un papel.
 ## $!!
 ### 8êààrüçåvçêhçvéüqrëvhçråsàéÇéyqâyhüå
-En 1988, los Ferrocarriles Neerlandeses lanzaron un plan, conocido como ‘Shvy! éüçàhpxséàhürÉprüçêàÆ’ (junio de 1988), destinado a elevar el transporte ferroviario a un nivel superior. Los Ferrocarriles Neerlandeses hicieron una oferta a la sociedad: en 20 años, el doble de pasajeros con 1,5 veces más trenes. La condición previa era que el gobierno asumiera la responsabilidad de la necesaria ampliación de la infraestructura ferroviaria (costes estimados en 'ivyyvéü7àéhqyÆåârhxvütShvy! !uhåvüshpçirrüvÇâyrÇrüçrq 
+En 1988, los Ferrocarriles Neerlandeses lanzaron un plan, conocido como ‘Shvy! éüçàhpxséàhürÉprüçêàÆ’ (junio de 1988), destinado a elevar el transporte ferroviario a un nivel superior. Los Ferrocarriles Neerlandeses hicieron una oferta a la sociedad: en 20 años, el doble de pasajeros con 1,5 veces más trenes. La condición previa era que el gobierno asumiera la responsabilidad de la necesaria ampliación de la infraestructura ferroviaria (costes estimados en 'ivyyvéü7àéhqyÆåârhxvüt
+Shvy! !uhåvüshpçirrüvÇâyrÇrüçrq 
 La propuesta y posteriormente implementada ampliación de la infraestructura no estuvo aislada. Para la infraestructura ferroviaria existente que en el futuro manejaría muchos más trenes, dos proyectos fueron iniciados ya en los años ochenta dentro de los Ferrocarriles Neerlandeses, destinados a garantizar el funcionamiento fluido de un tráfico de trenes más intensivo. El svàåçâàéwrpç concernía al desarrollo del sistema Transporte Por Tren (VPT), cuyo objetivo era mejorar la puntualidad de los trenes para lograr una utilización óptima de las vías. Resumido brevemente, esto significa mejorar el flujo. El resultado es más trenes circulando más juntos. 
 El årpéüqâàéwrpç fue el desarrollo e implementación de un nuevo sistema de control destinado a cubrir el riesgo incrementado derivado del uso del sistema VPT. El núcleo del nuevo sistema era el ATB Nueva Generación. Este sistema de control del tráfico de trenes, equipado con control automático continuo de velocidad, ofrece protección casi total contra los pasos STS, porque la velocidad del tren es monitorizada continuamente. En operación normal, con este sistema en uso, los pasos STS no pueden ocurrir (véase párrafo 5.1). 
 El punto de partida empleado por los Ferrocarriles Neerlandeses y posteriormente por ProRail respecto a la seguridad del tráfico ferroviario es simple. La infraestructura ferroviaria es tal que las rutas conflictivas están técnicamente excluidas. Dentro de este punto de partida, todas las posibilidades ofrecidas por la infraestructura están permitidas. La suposición subyacente es, no obstante, que los maquinistas siguen las instrucciones emitidas por las señales. Las posibilidades técnicas de los sistemas empleados tienen, sin embargo, límites. Con el punto de partida especificado de que todo lo que es técnicamente posible está permitido, un aumento constante de la frecuencia de trenes conduce automáticamente a una reducción continua de los márgenes de seguridad. 
@@ -592,14 +598,18 @@ El punto de partida para el control de proceso VPT es el horario. Este punto de 
 
 	
 
-
+
+
+
 
 
 
 
 	
 
-
+
+
+
 
 
 
@@ -630,8 +640,10 @@ de
 
 
 2 carriles
-
-
+
+
+
+
 < 300 metros
 
 

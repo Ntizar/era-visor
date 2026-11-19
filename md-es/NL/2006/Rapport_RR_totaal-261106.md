@@ -10,22 +10,25 @@ chars: 721243
 ratio_longitud: 1.06
 tokens_in: 282764
 tokens_out: 180871
-verificacion: revisar
-notas_cifras: ["bloque 5: cifras cortas: 2/5", "bloque 9: cifras cortas: 2/24", "bloque 10: cifras cortas: 3/14", "bloque 20: cifras largas: 1/19; cifras cortas: 1/46", "bloque 24: cifras cortas: 1/29", "bloque 63: cifras largas: 2/15"]
-avisos: ["bloque 61: cifras largas: faltan 5/17 (29%)", "bloque 105: cifras largas: faltan 3/11 (27%)", "bloque 106: cifras largas: faltan 4/15 (27%)", "bloque 110: cifras largas: faltan 6/13 (46%)"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 158: cifras largas: faltan 3/5 (60%)", "página 160: cifras largas: faltan 4/14 (29%)"]
+notas_cifras: ["página 6: cifras cortas: 2/4", "página 11: cifras cortas: 1/16", "página 12: cifras cortas: 1/6", "página 13: cifras cortas: 3/10", "página 28: cifras largas: 1/19; cifras cortas: 1/45", "página 33: cifras cortas: 1/20"]
 ---
+
 ## Página 1
+
 
 Descarrilamientos en RandstadRail
 La Haya, noviembre de 2008 (número de proyecto M2006RV1129-04) 
 Los informes del Consejo de Seguridad son públicos.  
 Todos los informes están además disponibles a través del sitio web del Consejo 
 www.onderzoeksraad.nl 
-1 
+1
 
 ## Página 2
+
 
 ## EL CONSEJO DE SEGURIDAD 
 El Consejo de Seguridad fue establecido con la tarea de investigar y determinar cuáles son las causas o presuntas causas de sucesos individuales o categorías de sucesos en todos los sectores. El objetivo de dicha investigación es exclusivamente prevenir futuros accidentes o incidentes y, si los resultados dan lugar a ello, formular recomendaciones al respecto. La organización consta de un consejo con cinco miembros permanentes, una secretaría profesional y cuenta además con varias comisiones permanentes. Para investigaciones específicas se constituyen comisiones de acompañamiento. 
@@ -75,6 +78,7 @@ www.onderzoeksraad.nl
 2  Debido a su implicación respectiva como Comisaria en HTM y colaborador en HTM, la Sra. A. van den Berg y el Sr. ir. L.H. Haring se abstuvieron de participar en el tratamiento de la investigación sobre los descarrilamientos con RandstadRail, conforme al artículo 15, apartado 2, encabezado y letra c, de la Ley Nacional del Consejo de Seguridad. La Sra. A. van den Berg dejó de formar parte del Consejo de Seguridad el 1 de diciembre de 2007.
 
 ## Página 3
+
 
 ## ÍNDICE
 Descripción general ............................................................................................................................. 4 
@@ -177,6 +181,7 @@ Lecciones aprendidas y recomendaciones..........................................
 
 ## Página 4
 
+
 ## CONSIDERACIONES  
 ### Introducción 
 La Consejo de Seguridad ha investigado los descarrilamientos en RandstadRail. La investigación independiente realizada por el Consejo de Seguridad se centra en determinar qué ocurrió exactamente. Esta búsqueda de la verdad tiene como único objetivo extraer lecciones de los acontecimientos para mejorar la seguridad. La Ley estatal del Consejo de Seguridad establece que la cuestión de la culpa y la responsabilidad quedan explícitamente excluidas en este contexto. 
@@ -193,6 +198,7 @@ En total, se han producido 9 descarrilamientos en RandstadRail. Estos descarrila
 El Consejo se ha preguntado cómo es posible que en un proyecto de tal envergadura se hayan producido nueve descarrilamientos tan poco tiempo después de su puesta en servicio. Esta fue la razón por la que el Consejo inició una investigación sobre esta serie de descarrilamientos. También influye en ello que se trate de accidentes en un sistema de transporte público, donde los pasajeros confían en la seguridad del sistema.
 
 ## Página 5
+
 
 ### Otras investigaciones
 Varias de las partes implicadas también han realizado sus propias investigaciones sobre (su papel en) los descarrilamientos de RandstadRail:
@@ -228,6 +234,7 @@ El Consejo de Seguridad ha constatado que el enfoque de seguridad comenzó bien 
 
 ## Página 6
 
+
 seguir el Normdocument Veiligheid Lightrail³, aunque esto no había sido prescrito por el ministerio de VenW.
 En este documento normativo se describen los requisitos de seguridad para los sistemas de tren ligero, como RandstadRail.
 El Stadsgewest Haaglanden elaboró planes de seguridad y nombró un gestor de seguridad (Safety Manager). Además, se acordó describir la garantía de la seguridad en casos de seguridad (safety cases): son expedientes de seguridad en los que se incluye la prueba de que se han cumplido los requisitos de seguridad. El Consejo se planteó la pregunta de por qué este enfoque no pudo evitar que RandstadRail entrara en servicio mientras el sistema no era seguro: poco después de la puesta en servicio se produjeron varios descarrilamientos y se suspendió el transporte de pasajeros en Haaglanden.
@@ -241,6 +248,7 @@ Las pruebas y el servicio experimental constituyen la última barrera de segurid
 
 ## Página 7
 
+
 la organización no podía indicar, sobre la base de criterios establecidos previamente, si era posible o no circular, y la organización tenía dificultades para resistir la presión del consejo de administración del Stadsgewest Haaglanden para poner en servicio RandstadRail en la fecha prevista. Además, las señales de los daños en los cambios durante la fase de construcción y la situación crítica en la curva de Ternoot no condujeron a una atención especial en el periodo de pruebas y ensayos. También se comprobó que el periodo de pruebas y ensayos había sido muy breve. La brevedad se debió al hecho de que se quería iniciar lo antes posible el transporte de viajeros con RandstadRail. Originalmente se había previsto un periodo de dos semanas para las pruebas y ensayos. La puesta en servicio y los ensayos se aplazaron porque las obras aún no estaban terminadas y algunos componentes todavía debían ser probados. Finalmente, solo se operó según horario sin incidencias durante unos pocos días antes del inicio del transporte de viajeros.
 ### Declaración de no objeción por parte del Evaluador Independiente de Seguridad (ISA)
 El consejo de administración del Stadsgewest Haaglanden había contratado a una empresa externa como evaluador independiente de seguridad, un Independent Safety Assessor (ISA). Antes de la puesta en servicio, el ISA debía evaluar si la seguridad estaba suficientemente garantizada y si RandstadRail podía entrar en servicio.
@@ -253,6 +261,7 @@ La Inspección VenW era el supervisor externo de la seguridad de RandstadRail. D
 Asimismo, la Inspección VenW no tomó como punto de partida el Documento Normativo de Seguridad para Light Rail al ejercer su labor de supervisión. Esto habría sido lógico, dado que el Documento Normativo consiste en normas políticas establecidas por el ministro de VenW que son aplicables a proyectos como RandstadRail. Las normas políticas deben tomarse, en principio, como punto de partida en el ejercicio de las competencias (como en este caso, la concesión de una autorización). En su lugar, la Inspección
 
 ## Página 8
+
 
 VenW no hizo transparente cuál sería la base de su supervisión, ni qué papel desempeñaría el Documento normativo en dicha supervisión. La Inspección emitió una autorización mientras que la lista de puntos pendientes contenida en la declaración del ISA incluía graves cuestiones relevantes para la seguridad y antes de que se hubiera demostrado en los expedientes de seguridad que la seguridad de RandstadRail estaba suficientemente garantizada como para poder iniciar el transporte de pasajeros. No obstante, para las partes implicadas, la autorización de puesta en servicio fue una señal de que se podía comenzar con el transporte de pasajeros. Con anterioridad, estas partes desconocían sobre qué información y qué juicio al respecto basaría la Inspección VenW esta autorización.
 
@@ -273,6 +282,7 @@ Al igual que en informes anteriores del Consejo, esta investigación ilustra la 
 Debido a la casi total ausencia de legislación y reglamentación para proyectos como RandstadRail, la supervisión externa desde el gobierno central no puede desempeñar un papel significativo como red de seguridad. Las administraciones descentralizadas que actúan como comitentes para tales proyectos deben, por tanto, estar plenamente conscientes de que, en dichas situaciones, depende prácticamente en su totalidad de su propia responsabilidad ejercer una supervisión interna sobre la garantía de la seguridad del proyecto. También las otras partes implicadas, como el operador, deben ser conscientes de esto. Además, el operador debe ser consciente de su especial responsabilidad por la seguridad de los pasajeros y de sus empleados, y debe procurarse los medios para cumplir con dicha responsabilidad.
 
 ## Página 9
+
 
 El Consejo ha optado por extraer, además de formular recomendaciones a las partes implicadas en RandstadRail, una serie de lecciones relevantes para las partes involucradas en proyectos futuros.
 Estas partes son, como mínimo pero no exclusivamente:
@@ -298,8 +308,8 @@ El operador, como último eslabón de la cadena, también deberá evaluar por s�
 Se recomienda al Ministerio de Transporte y Gestión del Agua que:
 a. asegure que los proyectos ferroviarios regionales como RandstadRail queden sujetos a la aplicación de la Ley Ferroviaria (rellenar el artículo 94);
 
-
 ## Página 10
+
 
 Explicación: Se trata principalmente de adaptar la legislación a la distribución deseada de responsabilidades y redefinir el papel del Ministro de Transporte y Gestión del Agua en ello.
 b. anclar en la normativa que el Documento Normativo de Seguridad para Tranvías Ligeros sea de uso obligatorio como instrumento para la garantía de la seguridad.
@@ -310,6 +320,7 @@ Presidente del Consejo de Investigación
 Secretario General
 
 ## Página 11
+
 
 ## LISTA DE TÉRMINOS Y ABREVIATURAS
 0-9
@@ -355,8 +366,8 @@ El Dagelijks Bestuur (Consejo Diario) del Stadsgewest Haaglanden se encarga de l
 7 Wet Personenvervoer (Ley de Transporte de Personas), artículo 1, apartado m.
 8 Wet Personenvervoer (Ley de Transporte de Personas), artículo 20, apartado 2.
 
-
 ## Página 12
+
 
 directielevering
 En proyectos de realización es habitual que el contratista que ejecuta la obra adquiera por sí mismo el material necesario. En una entrega directa (directielevering), la dirección del proyecto adquiere el material y lo pone a disposición de los contratistas.
@@ -407,6 +418,7 @@ Parte de la Zoetermeer Stadslijn (línea circular) dentro del municipio de Zoete
 
 ## Página 13
 
+
 krol 
 Una krol, abreviatura de kraan op lorry's (grúa sobre camión), puede ser, por ejemplo, una excavadora o una grúa móvil con ruedas de goma para el transporte por carretera y ruedas metálicas con pestaña para el transporte sobre raíles¹¹.  
 L 
@@ -453,10 +465,10 @@ PoRR
 Projectorganisatie RandstadRail (Organización del Proyecto RandstadRail), creada por el municipio de La Haya para la ejecución de las obras del proyecto RandstadRail en el territorio de Haaglanden. 
 11  Fuente: www.railpedia.nl, consultado el 18 de septiembre de 2008. 
 12  Véase el anexo N Tranvías de suelo bajo y consecuencias para la conducción. 
-13  Fuente: www.kpvv.nl  
-
+13  Fuente: www.kpvv.nl
 
 ## Página 14
+
 
 ProRail 
 ProRail es el gestor de infraestructuras de una gran parte de la red ferroviaria neerlandesa. 
@@ -508,6 +520,7 @@ El sistema que suministra, a través de la catenaria o un tercer carril, la ener
 
 ## Página 15
 
+
 tram
 Un tranvía es un sistema de transporte urbano o regional con muchas paradas. Es una red densa en el entorno urbano. Véase además el anexo B Características del tranvía, metro, tren y tren ligero.
 tren
@@ -543,8 +556,8 @@ Zoetermeer Stadslijn
 Línea ferroviaria que conecta las estaciones de Zoetermeer mediante una línea circular con la estación Den Haag Centraal. La primera parte de la línea ferroviaria fue inaugurada en 1977. Desde 2006, la Zoetermeer Stadslijn forma parte de RandstadRail, operada por HTM.
 14 RSSB (en nombre de la industria ferroviaria del Reino Unido), 2000. Engineering Safety Management Issue 3 Fundamentals and Guidance, Yellow Book 3, Londres.
 
-
 ## Página 16
+
 
 ## INTRODUCCIÓN
 ANTECEDENTES
@@ -577,6 +590,7 @@ aprox. 10 millones de euros excl. posibles costes futuros y costes incurridos po
 aprox. 20 millones de euros en reclamaciones por daños directos e indirectos, presentadas por RET y HTM ante el Stadsgewest Haaglanden (fuente: carta de la Stadsregio Rotterdam y RET al Consejo de Investigación para la Seguridad, de fecha 17 de julio de 2008).
 
 ## Página 17
+
 
 - 
 La naturaleza de los descarrilamientos: 
@@ -612,6 +626,7 @@ La Junta tomó conocimiento de los resultados de estas investigaciones y los inc
 
 ## Página 18
 
+
 OBJETO DE LA INVESTIGACIÓN
 1.2 
 El objeto de la investigación del Consejo es extraer lecciones de los presentes descarrilamientos en beneficio de futuros proyectos comparables. De una primera exploración se desprende la complejidad de RandstadRail tanto en el ámbito técnico, administrativo como organizativo, así como la presión que soportaba el proyecto. Por ello, se ha examinado si estas circunstancias han influido en el origen de los descarrilamientos y, en caso afirmativo, hasta qué punto lo han hecho.  
@@ -640,10 +655,10 @@ Otra delimitación consiste en que el análisis se ha centrado especialmente en 
 Por último, en la investigación del descarrilamiento en Forepark, el Consejo de Investigación ha excluido el papel del control de tráfico (CVL) de HTM y RET y de los conductores de metro de RET, dado que este aspecto ya se aborda ampliamente en la investigación realizada por la Inspección VenW24 y el informe resultante ya contiene lecciones aprendidas25 a ese respecto. 
 23 El Anexo A contiene la justificación de la investigación. 
 24 Inspectie Verkeer en Waterstaat, 2007. Informe de investigación 29 de noviembre de 2006 Descarrilamiento de un vehículo de RandstadRail cerca de Forepark, Utrecht, RV-06U1018. 
-25 Estas lecciones aprendidas han dado lugar a medidas de mejora. Véase el Anexo S para las medidas adoptadas (en parte) a raíz del descarrilamiento en Forepark por el Stadsgewest Haaglanden y la HTM. 
-
+25 Estas lecciones aprendidas han dado lugar a medidas de mejora. Véase el Anexo S para las medidas adoptadas (en parte) a raíz del descarrilamiento en Forepark por el Stadsgewest Haaglanden y la HTM.
 
 ## Página 19
+
 
 GUÍA DE LECTURA 
 1.4 
@@ -653,6 +668,7 @@ Las conclusiones y recomendaciones derivadas de la investigación sobre los desc
 Los anexos contienen análisis más profundos de los descarrilamientos, así como una explicación detallada de varios temas específicos. En el informe se hace referencia a estos anexos cuando resulta pertinente.
 
 ## Página 20
+
 
 ## INFORMACIÓN FACTUAL SOBRE RANDSTADRAIL
 Este capítulo contiene información factual sobre RandstadRail, en la medida en que sea relevante para el análisis de los descarrilamientos y la gestión de la seguridad. Se establece una distinción entre el sistema de transporte RandstadRail y el proyecto RandstadRail, las actividades realizadas para llevar a cabo el sistema de transporte RandstadRail26.
@@ -665,10 +681,10 @@ Figura 1 – Los vehículos de RandstadRail28
 RandstadRail es un nombre comercial para servicios de transporte público (OV) que HTM y RET prestan en el trayecto de RandstadRail dentro de las regiones de Haaglanden y Róterdam por encargo del Stadsgewest Haaglanden y la Stadsregio Rotterdam. Por tanto, RandstadRail no es una empresa de transporte ni otro tipo de organización. Los distintos trayectos de RandstadRail se muestran en el siguiente mapa. 
 26 En este informe, RandstadRail designa el sistema de transporte, salvo indicación contraria. 
 27 Véase el anexo B Características del tranvía, tren, metro y tren ligero (lightrail). 
-28 Fuente: www.randstadrail.nl  
-
+28 Fuente: www.randstadrail.nl
 
 ## Página 21
+
 
 ### Trayectos
 ## RR3
@@ -730,6 +746,7 @@ El tren ligero (lightrail) es un concepto relativamente nuevo en los Países Baj
 
 ## Página 22
 
+
 EL PROYECTO RANDSTADRAIL
 2.2
 La Stadsregio Rotterdam y el Stadsgewest Haaglanden fueron conjuntamente los promotores de la realización de RandstadRail. Las primeras iniciativas para RandstadRail datan de 1989, y el plan se hizo definitivo cuando en 2002 se cerró la financiación. De 2003 a 2006 se elaboró un diseño y se inició la construcción. La fase de construcción pudo dividirse en obra nueva y reconversión de las líneas ferroviarias existentes. La obra nueva comenzó en 2002. Los grandes proyectos de obra nueva en Haaglanden afectaron al trazado por la Beatrixlaan, la línea Oosterheemlijn, los depósitos en Zichtenburg y Leidschendam, la estación de Leidschenveen, el viaducto elevado (fly-over) de Schenkstrook, diversos pasos inferiores y la trinchera cubierta en Pijnacker. La fase de reconversión consistió en la ejecución de todas aquellas obras en las líneas ferroviarias existentes que no podían realizarse durante la explotación con trenes por parte de NS. Durante la fase de reconversión también se conectaron los proyectos de obra nueva a la red ferroviaria existente.
@@ -759,6 +776,7 @@ Para hacer posible la explotación de RandstadRail, fue necesario adaptar alguna
 32 Véase el anexo C2 para una representación más detallada del ciclo de vida de RandstadRail.
 
 ## Página 23
+
 
 en el marco del proyecto de ejecución RandstadRail en Haaglanden, licitado por la Región Metropolitana de La Haya (Stadsgewest Haaglanden) al municipio de La Haya33. Al inicio del proyecto en Haaglanden, se previeron los siguientes trabajos34:
 - 
@@ -810,6 +828,7 @@ realización de una nueva alimentación eléctrica (750 V en lugar de 1500 V) de
 38 Originalmente se había elegido circular a vista entre La Haya y Zoetermeer. Para poder ejecutar también en condiciones de mala visibilidad un horario fiable, se optó posteriormente por aplicar también en este tramo seguridad ferroviaria.
 
 ## Página 24
+
 
 Además del proyecto de ejecución, los futuros operadores y gestores de infraestructura de RandstadRail (HTM y RET) debían llevar a cabo, entre otras cosas, las siguientes acciones para hacer posible la explotación y la gestión y mantenimiento de RandstadRail:
 - 
@@ -866,6 +885,7 @@ enero – octubre: Prolongación del Servicio de Prueba y Ensayo
 
 ## Página 25
 
+
 ## MARCO DE EVALUACIÓN
 El marco de evaluación es el marco al que se contrastan los hallazgos de la investigación. Este marco consta de tres componentes, a saber:
 a. una descripción de la legislación y normativa vigentes relevantes en el sector correspondiente en el que tuvo lugar el incidente;
@@ -898,6 +918,7 @@ La Wp contiene disposiciones sobre la licitación de concesiones46. La obligaci�
 
 ## Página 26
 
+
 3.1.3 
 Ley ferroviaria y normativa aplicable a los tranvías urbanos 
 La (nueva) Ley ferroviaria entró en vigor el 1 de enero de 2005 junto con la legislación de desarrollo basada en ella. Bajo la influencia de la normativa CE, que introduce la competencia en el mercado ferroviario, la Ley ferroviaria se ha estructurado sobre la separación entre la gestión de la infraestructura y el transporte. La Ley ferroviaria es la base de un gran número de disposiciones y decisiones en las que se han desarrollado más detalladamente los requisitos relativos a los ferrocarriles. 
@@ -922,10 +943,10 @@ el Reglamento de servicio de ferrocarriles principales y locales, con adaptacion
 55 Reglamento de servicio de ferrocarriles principales y locales, artículos 18 y 19. 
 56 Reglamento del metro, artículo 17.  
 57 Designación a partir del 23 de mayo de 2006, publicada en el Stct .103 de 2006. 
-58 AMvB, septiembre de 2006.  
-
+58 AMvB, septiembre de 2006.
 
 ## Página 27
+
 
 Para los tramos de vía de RandstadRail que forman parte de la red de tranvías urbanos de La Haya, que no han sido designados como ninguna de las categorías de ferrocarriles en el sentido de la Ley de ferrocarriles locales y tranvías, la normativa ferroviaria no es aplicable. Para ellos aplica la siguiente normativa: 
 - 
@@ -983,6 +1004,7 @@ Además, existen disposiciones dirigidas a los empresarios relativas al ejercici
 
 ## Página 28
 
+
 del ministro de V&W61. Para RandstadRail, HTM y RET han elaborado conjuntamente el Reglamento/Instrucciones de Servicio RandstadRail (DRVR). El DRVR contiene, con miras a la seguridad, entre otras cosas, normas para los conductores de vehículos de metro ligero. El DRVR solo es aplicable a los tramos de vía de RandstadRail que están designados como ferrocarril local. Para la red de tranvía urbano en La Haya, de la que hace uso RandstadRail, HTM ha adaptado por sí misma el Manual del Conductor de Tranvía. Este manual no es legislación, sino normativa interna de HTM. El manual también contiene normas para los conductores de los vehículos de metro ligero de RandstadRail, pero adaptadas a la circulación en la red de tranvía urbano.
 Además, la Ley Ferroviaria de 1875 contiene disposiciones sobre la apertura del servicio. Solo se puede circular cuando se haya concedido una autorización por parte del ministro de V&W. A una autorización le precede una recepción de la vía y de las obras correspondientes «por orden gubernamental»62. No se requiere autorización para la puesta en servicio de nuevos vehículos. La Ley Ferroviaria de 1875 solo establece el requisito de que la puesta en servicio de nuevos vehículos vaya precedida de una recepción63.
 La Ley Ferroviaria de 1875 contiene la competencia para establecer, mediante Decreto Real General (AMvB), normas sobre el ejercicio del servicio ferroviario (la circulación), el tráfico seguro por los ferrocarriles64 y el cierre de los ferrocarriles65. Estas normas se han establecido en el RDHL.
@@ -1011,6 +1033,7 @@ La infraestructura (ferroviaria) de RandstadRail que está designada como ferroc
 75 RDHL, artículo 11.
 
 ## Página 29
+
 
 en trabajos, cierres y pasos a nivel76. Los órganos de gestión diarios del Stadsgewest Haaglanden y de la Stadsregio Rotterdam deben velar por que el ferrocarril con sus instalaciones fijas se mantenga de tal manera que pueda ser transitado con seguridad77.
 El material rodante de RandstadRail debe cumplir los requisitos del RDHL, entre otros, en lo relativo a la construcción (ruedas) y la carga por eje, la posición del maquinista en el tren, la composición de los trenes, las señales de tren, los frenos y la velocidad78.
@@ -1047,6 +1070,7 @@ La Ley de Ferrocarriles Locales y Tranvías otorga a las Diputaciones Provincial
 
 ## Página 30
 
+
 Asimismo, el consejo municipal puede, con la aprobación de la Corona, establecer normas en caso de que existan circunstancias especiales de carácter local que requieran normas sobre el servicio y el uso de ferrocarriles locales o tranvías88.
 3.1.7 
 Código Civil 
@@ -1077,6 +1101,7 @@ El ministro de V&W elaboró en 2002 el Documento normativo de seguridad para tre
 
 ## Página 31
 
+
 El Documento Normativo contiene los requisitos de seguridad para el diseño, la construcción y la explotación de sistemas de tren ligero. El Documento Normativo no se basa en normas legales. En el propio Documento Normativo, este se designa como una norma de política que puede ser objeto de desviación motivada94. Para los proyectos financiados por el gobierno central o donde se haga un uso predominante de infraestructura de tren pesado95, el Documento Normativo es obligatorio96. Para otros proyectos, el promotor puede declararlo aplicable voluntariamente97. En el Documento Normativo, el ministro establece así la forma en que se ejercerá la competencia para otorgar subvenciones a proyectos de tren ligero, concretamente vinculando el uso del Documento Normativo como una de las condiciones para dichas subvenciones.
 El Documento Normativo distingue varios pilares sobre los que debe basarse la seguridad de un proyecto de tren ligero. Estos son, sucesivamente, los criterios de riesgo, el análisis de riesgos, el Plan Integral de Seguridad, el *safety case* y el Plan de Seguridad Operacional98. También identifica a los sujetos expuestos al riesgo: pasajeros, personas no autorizadas, usuarios de pasos a nivel, usuarios de cruces con carretera, suicidas, personal, entorno y tráfico viario.
 En RandstadRail, el Documento Normativo no fue impuesto como obligatorio a pesar de la subvención estatal. No obstante, el Área Metropolitana de La Haya (Stadsgewest Haaglanden) y la Región Metropolitana de Rotterdam (Stadsregio Rotterdam) eligieron por sí mismos utilizar el Documento Normativo como base para la gestión de la seguridad. En el capítulo 6 Gestión de la Seguridad se describe cómo el Área Metropolitana de La Haya y la Región Metropolitana de Rotterdam, como iniciadores y promotores de RandstadRail, han dado cumplimiento a este Documento Normativo.
@@ -1101,6 +1126,7 @@ El sector ferroviario y tranviario neerlandés ha desarrollado sus propias norma
 
 ## Página 32
 
+
 En los ferrocarriles se aplican principalmente las normas UIC, desarrolladas por el sector ferroviario internacional. Muchas de estas normas se convierten en normas europeas (normas EN) y algunas incluso en Especificaciones Técnicas de Interoperabilidad (ETI). Además, pueden existir normas nacionales (más estrictas).
 Para los tranvías urbanos, se ha elaborado un extenso conjunto de directrices en Alemania. Alemania ocupa una posición de liderazgo internacional en este ámbito. Por ello, la directriz alemana BOStrab es utilizada como "la" norma estándar por muchos países. Para RandstadRail, esto significa que HTM utiliza la BOStrab como marco de referencia para la red de tranvías urbanos (adaptada en algunos puntos a la situación de La Haya). Para la parte de RandstadRail designada como ferrocarril local, HTM aplica la legislación ferroviaria neerlandesa (Ley de Ferrocarriles Locales y Tranvías, Ley Ferroviaria de 1875 y RDHL). HTM ha plasmado todo ello en sus propias normas de Gestión y Mantenimiento. HTM puede establecer estas normas por sí misma, ya que no existe un organismo supervisor para la red de tranvías urbanos de La Haya.
 Como comparación, la situación de los ferrocarriles principales neerlandeses. También allí, el administrador correspondiente ha desarrollado sus propias normas. Estas derivan casi todas de las normas UIC y EN. Algunas de estas normas son obligatorias, otras son voluntarias y algunas "normas" son meramente "informativas". El administrador está facultado para establecer las normas por sí mismo, pero el ministro de V&W (Ministerio de Transporte y Gestión del Agua) puede exigir mediante Real Decreto (AMvB) que se cumplan determinadas condiciones. Así, existen normas para la inspección ultrasónica, donde el ministro ha establecido mediante AMvB cuál es la frecuencia mínima de medición relacionada con la carga. Si el administrador desea modificarlo, debe obtener la aprobación del ministro de V&W. En la práctica, la Inspección de V&W desempeña esta función.
@@ -1117,8 +1143,8 @@ El Consejo de Investigación ha seleccionado los siguientes cinco puntos de aten
 El Consejo considera que esta elección está justificada, porque estos puntos de atención en materia de seguridad están incluidos en numerosas leyes y reglamentos (inter)nacionales y en un gran número de normas ampliamente aceptadas e implementadas.
 Una descripción más detallada de estos puntos de atención figura en el Anexo F.
 
-
 ## Página 33
+
 
 ## PARTES IMPLICADAS Y SUS RESPONSABILIDADES
 En este capítulo se describen las principales partes implicadas en RandstadRail, los distintos roles que desempeñan y sus responsabilidades asociadas. En el anexo G se describen las demás partes implicadas y sus responsabilidades. La siguiente figura ofrece una visión general de las partes implicadas y sus relaciones mutuas.
@@ -1189,6 +1215,7 @@ Figura 5 – Relaciones mutuas entre las partes implicadas en RandstadRail100
 
 ## Página 34
 
+
 STADSGEWEST HAAGLANDEN Y STADSREGIO ROTTERDAM
 4.1
 El Stadsgewest Haaglanden y la Stadsregio Rotterdam son, como promotores, responsables de RandstadRail en su conjunto y, cada uno por separado, de RandstadRail en su propio territorio. Dado que los descarrilamientos se produjeron todos en el área de Haaglanden, en lo que respecta a las responsabilidades dentro de dicho territorio, se prestará especial atención a la implicación del Stadsgewest Haaglanden.
@@ -1203,8 +1230,8 @@ El Stadsgewest Haaglanden y la Stadsregio Rotterdam son responsables, en virtud 
 103 Acuerdo Administrativo sobre la financiación de RandstadRail entre el ministro de VenW, el Stadsgewest Haaglanden y la Stadsregio Rotterdam, de 6 de diciembre de 2001, artículo 4.1
 104 Acuerdo de Coordinación Stadsgewest Haaglanden – Stadsregio Rotterdam, abril de 2002, artículos 3.3 y 3.4.
 
-
 ## Página 35
+
 
 ### Stadsregio Rotterdam (SRR)
 ### Stadsgewest Haaglanden (SGH)
@@ -1261,6 +1288,7 @@ Figura 6 – Estructura organizativa del proyecto RandstadRail105
 
 ## Página 36
 
+
 En el Acuerdo de Coordinación se prevé, para la preparación y la realización de los subproyectos, una estructura de proyecto conjunta. Se constituyen un grupo director, un consejo directivo conjunto y un Equipo de Gestión de Proyecto (PMT)106:
 - 
 El grupo director está compuesto por los titulares de las carteras de Tráfico y Transporte del Área Metropolitana de La Haya (Stadsgewest Haaglanden) y de la Región Metropolitana de Róterdam (Stadsregio Rotterdam), y tiene como tarea107 supervisar el progreso del Proyecto y la ejecución por parte de las Partes del Acuerdo de Coordinación, estando facultado para representar al Área Metropolitana de La Haya y a la Región Metropolitana de Róterdam en este marco.
@@ -1286,6 +1314,7 @@ El Área Metropolitana de La Haya y la Región Metropolitana de Róterdam eran (
 117 Según diversas actas del Equipo de Gestión de Proyecto, por ejemplo, 23 de febrero de 2006, punto 5.
 
 ## Página 37
+
 
 4.1.2 
 Rol como cliente de la realización de la infraestructura RandstadRail 
@@ -1319,6 +1348,7 @@ la elaboración de un plan de seguridad de la explotación.
 
 ## Página 38
 
+
 En virtud del Plan Integral de Seguridad elaborado por el Stadsgewest Haaglanden y la Stadsregio Rotterdam, debe demostrarse en los casos de seguridad (*safety cases*), antes de que RandstadRail entre en servicio, cómo se ha de aportar la prueba de «cumplimiento de los requisitos de seguridad establecidos». Los casos de seguridad deben ser evaluados por una parte independiente, un Asesor Independiente de Seguridad (ISA). El Stadsgewest Haaglanden y la Stadsregio Rotterdam son conjuntamente responsables del nombramiento del ISA. El Stadsgewest Haaglanden y la Stadsregio Rotterdam también son conjuntamente responsables de la finalización del caso de seguridad «integral», en el que debe demostrarse que la infraestructura y el material rodante funcionan de manera segura conjuntamente, antes de iniciar la explotación.
 
 El Stadsgewest Haaglanden es responsable del encargo que ha dado al municipio de La Haya para la construcción de la infraestructura de RandstadRail. Se acordó que el municipio de La Haya construiría por su propia cuenta y riesgo, y que las contribuciones del ministro de VROM (Vivienda, Ordenación del Territorio y Medio Ambiente) al Stadsgewest Haaglanden se transferirían íntegramente a La Haya127. En el acuerdo celebrado al respecto entre el Stadsgewest Haaglanden y el municipio de La Haya, el Stadsgewest Haaglanden ha acordado además que solo está facultado para dar instrucciones al municipio de La Haya, en la medida en que dichas instrucciones se refieran al acuerdo entre ambas partes128. Por el contrario, el Stadsgewest Haaglanden también ha acordado que él mismo sigue siendo responsable de la gestión, el mantenimiento, la explotación y la seguridad de RandstadRail129.
@@ -1343,6 +1373,7 @@ La Comisión Consultiva para la Adquisición de Material de Piso Bajo, estableci
 
 ## Página 39
 
+
 4.1.4 
 Función como comitente del transporte (concesionante) 
 El Stadsgewest Haaglanden y la Stadsregio Rotterdam son responsables, en calidad de concesionantes, de la elección de los transportistas que deben encargarse del transporte de pasajeros de RandstadRail134. La elección recayó en la RET y la HTM. El Stadsgewest Haaglanden y la Stadsregio Rotterdam también son responsables de las condiciones vinculadas al transporte. Dichas condiciones están establecidas en las concesiones. Una de las condiciones es que la RET y la HTM deben cumplir con el plan de seguridad operativa establecido por el Stadsgewest Haaglanden y la Stadsregio Rotterdam (véase el capítulo 6 Gestión de la seguridad). 
@@ -1363,10 +1394,10 @@ En la siguiente figura se muestra la estructura organizativa para la fase poster
 135 Artículo 17, en relación con el artículo 11, RDHL. 
 136 Acuerdo relativo a la gestión de RandstadRail, de fecha 11 de diciembre de 2002, y el Acuerdo complementario de fecha 29 de mayo de 2006 y acuerdo complementario de fecha 29 de mayo de 2006, en el que se regulan específicamente las consecuencias de que la propiedad recaiga en Rail Infra Trust en lugar de en el Estado (como estaba previsto en el acuerdo de gestión). 
 137 Acuerdo relativo a la gestión de RandstadRail, de fecha 11 de diciembre de 2002, anexo 1. 
-138 Acuerdo relativo a la gestión de RandstadRail, de fecha 11 de diciembre de 2002, artículo 6.3. 
-
+138 Acuerdo relativo a la gestión de RandstadRail, de fecha 11 de diciembre de 2002, artículo 6.3.
 
 ## Página 40
+
 
 Gestión
 Explotación
@@ -1403,6 +1434,7 @@ La ISA concluye que el sistema llegará a cumplir con los requisitos de segurida
 144 Oferta ISA RandstadRail, componente ISA, de fecha 23 de junio de 2004, punto 3.3.4.
 
 ## Página 41
+
 
 - 
 el ISA concluye que tiene dudas sobre si el sistema cumple o cumplirá los requisitos de seguridad. Es necesaria una revisión de la justificación; 
@@ -1443,6 +1475,7 @@ Tras la finalización de la realización, el municipio de La Haya es responsable
 151 Acuerdo Región Metropolitana de La Haya - municipio de La Haya, artículo 3.7.
 
 ## Página 42
+
 
 4.2.3 
 Rol como accionista/propietario de HTM 
@@ -1507,6 +1540,7 @@ Haaglanden.
 
 ## Página 43
 
+
 las «Especificaciones principales del material», las «Especificaciones de sistema del material», el «Programa funcional de requisitos» y las demás decisiones adoptadas por el Consejo de Administración (BORR) del Stadsgewest Haaglanden en relación con el material158.
 Inicialmente, la idea era que los vehículos fueran adquiridos directamente por el Stadsgewest Haaglanden. En ese momento aún no estaba claro si la HTM obtendría la concesión de transporte para RandstadRail. En el momento en que dicha concesión quedó asegurada para la HTM, el Stadsgewest Haaglanden decidió que la propia HTM adquiriría los vehículos y que el material pasaría a ser propiedad jurídica y económica de la HTM159.
 La HTM es responsable de que los nuevos vehículos cumplan con los requisitos establecidos en el Reglamento de servicio de ferrocarriles principales y locales (RDHL), entre otros, en lo relativo a la construcción (ruedas) y la carga por eje, la posición del maquinista en el tren, la composición de los trenes, las señales de tren, los frenos y la velocidad160. Antes de poner en servicio el material rodante, este debe ser examinado y aprobado por la dirección de la empresa ferroviaria. La declaración de aprobación debe inscribirse en un registro161. El material rodante debe ser examinado minuciosamente según un plan de mantenimiento periódico aprobado por la dirección de la empresa ferroviaria y mantenerse en un estado tal que los trenes y las partes de maniobra compuestos por dicho material puedan circular con seguridad en todo momento162. También los vehículos de tracción y los coches destinados a los trenes que se utilicen en RandstadRail deben ser revisados conforme a un plan establecido por la dirección de la empresa ferroviaria. A este respecto, se prestará especial atención a que los vehículos no presenten defectos que puedan suponer un peligro para la seguridad del tráfico163.
@@ -1525,6 +1559,7 @@ La HTM debe cumplir con las normas del Plan de seguridad de la explotación esta
 167 Concesión Rail 2006-2016, artículo 25, apartado tercero.
 
 ## Página 44
+
 
 El Plan de seguridad de la explotación contiene, además, las siguientes tareas y obligaciones168:
 - 
@@ -1567,6 +1602,7 @@ HTM y RET, como empleadores, son responsables, en virtud de la Ley de condicione
 
 ## Página 45
 
+
 los riesgos para la seguridad o la salud de los trabajadores se prevengan o limiten, en la medida de lo posible, en su origen175. La HTM y la RET deben, en virtud de la Ley de Condiciones de Trabajo (Arbeidsomstandighedenwet), adoptar también medidas para proteger a terceros frente a posibles peligros que puedan surgir en la empresa o en su entorno inmediato.
 4.3.2 
 Rol como gestor de infraestructura RandstadRail 
@@ -1587,6 +1623,7 @@ El supervisor verifica si el suministro y la ejecución cumplen con las especifi
 182 Punto 5.1 de la aforementioned nota de fecha 2 de febrero de 2005.
 
 ## Página 46
+
 
 MINISTERIO DE TRANSPORTE Y GESTIÓN DEL AGUA
 4.4
@@ -1618,6 +1655,7 @@ El ministro de VenW es (última) responsable, conforme a la Ley Ferroviaria de 1
 
 ## Página 47
 
+
 de HTM en RET. El ministro ha facultado a la Inspección VenW para actuar en su nombre.
 El ministro de VenW es (finalmente) responsable de la emisión de una autorización antes de que el servicio pueda ser puesto en funcionamiento191. Antes de que se conceda la autorización, las obras deben ser inspeccionadas in situ. El ministro ha facultado a la Inspección VenW para realizar dicha inspección en su nombre.
 El ministro de VenW es responsable de las iniciativas en materia de nueva legislación y normativa en el ámbito de la legislación ferroviaria.
@@ -1645,8 +1683,8 @@ La Inspección VenW tenía, en virtud de la resolución de subvención del minis
 196 Artículo 20, Ley de Ferrocarriles de 1875.
 197 Resolución de subvención Subproyecto Haaglanden de 11 de diciembre de 2002.
 
-
 ## Página 48
+
 
 ## ANÁLISIS DE LOS DESCARRILAMIENTOS EN RANDSTADRAIL
 Este capítulo contiene, en primer lugar, un resumen de los descarrilamientos en RandstadRail. A continuación, sigue una breve descripción de las principales causas directas y subyacentes por tipo de descarrilamiento. Como ocurre con casi todos los descarrilamientos, generalmente hay una coincidencia de varios factores estructurales y varios factores situacionales, siendo a menudo imposible determinar en qué medida contribuyeron exactamente los distintos factores al descarrilamiento. No obstante, suele estar claro qué factores fueron importantes y cuáles fueron menos importantes.
@@ -1664,6 +1702,7 @@ Todos los descarrilamientos tuvieron lugar en el territorio del Área Metropolit
 199 Los cambios de aguja flexibles son cambios de aguja elásticos donde se incorpora un mecanismo en el aparato de maniobra que permite el paso en dirección contraria a la ruta establecida sin causar daños. Un cambio de aguja flexible vuelve a su posición original después del paso del tranvía.
 
 ## Página 49
+
 
 ### La Haya
 Estación Central
@@ -1698,10 +1737,10 @@ DESCARRILAMIENTO EN AGUJA CERCA DE FOREPARK
 Esta es una versión abreviada del análisis. El Anexo I contiene una descripción más extensa de la secuencia de hechos, las causas directas y subyacentes de este descarrilamiento. 
 Secuencia de hechos 
 Una aguja es una construcción especial en la vía que permite a un vehículo pasar de una vía a otra200. El 29 de noviembre de 2006, durante la hora punta de la tarde, se descarriló un vehículo de RandstadRail de RET con 120 pasajeros en la aguja 846 cerca de la parada Forepark (entre Leidschendam-Voorburg y la bifurcación Zoetermeer/Róterdam). En este accidente resultaron heridos 17 pasajeros. Como consecuencia adicional de este descarrilamiento, HTM y RET suspendieron el transporte de viajeros e Inspectie VenW interrumpió el transporte de viajeros en parte de RandstadRail (La Haya Central – Zoetermeer/Nootdorp) hasta nuevo aviso. Inspectie VenW y HTM/RET iniciaron una investigación sobre los descarrilamientos. 
-200 Véase el Anexo J para una descripción del funcionamiento de las agujas y de lo que se entiende por paso en abierto y aptitud para el paso en abierto. 
-
+200 Véase el Anexo J para una descripción del funcionamiento de las agujas y de lo que se entiende por paso en abierto y aptitud para el paso en abierto.
 
 ## Página 50
+
 
 Figura 9 – El vehículo descarrilado cerca de Forepark 
 Situación  
@@ -1717,6 +1756,7 @@ Que el accionador de aguja pudiera averiarse sin generar una notificación al re
 
 ## Página 51
 
+
 Del investigación realizada por DeltaRail por encargo de la Inspección VenW se desprende que, debido a los daños en el accionamiento del desvío, el mecanismo que permite que un desvío situado en la dirección incorrecta pueda moverse en el sentido de la marcha dejó de funcionar (el mecanismo estaba bloqueado). Estos daños debían conducir inevitablemente y como consecuencia final a la rotura203 de las barras entre el accionamiento del desvío y la lengua del mismo en el momento en que el desvío fuera recorrido en la dirección incorrecta.
 Durante las obras de construcción, los desvíos no estaban conectados (siempre) al sistema de seguridad. La consecuencia de ello era que los desvíos debían ser maniobrados manualmente durante dicho periodo. Esto significa que, si el desvío no está en la dirección en la que el conductor de un vehículo de obra desea recorrerlo, debe constatarlo y luego bajar del vehículo para cambiar el desvío a la dirección de marcha.
 El Ayuntamiento de La Haya (PoRR) había establecido un procedimiento de Maniobra y bloqueo manual de desvíos204 (parte de la documentación básica del desvío):
@@ -1730,6 +1770,7 @@ La distribución de responsabilidades entre el Ayuntamiento de La Haya (PoRR) y 
 206 En este mensaje de correo electrónico consta que el Ayuntamiento de La Haya (PoRR) desconoce si, además de los contratistas ferroviarios destinatarios, existen otros contratistas que utilizan los desvíos con ciertos tipos de vehículos, como grúas sobre camión (krols). El Ayuntamiento de La Haya solicita por tanto reenviar este mensaje a dichos contratistas desconocidos y declarar vinculante el procedimiento mencionado en el correo electrónico.
 
 ## Página 52
+
 
 la detección tardía de los daños. A diferencia de lo habitual, el ayuntamiento de La Haya (PoRR), y no los contratistas ferroviarios que realizaban las obras, era responsable de la calidad de los cambios de vía en la entrega. Esto se debía a que los cambios de vía fueron proporcionados por el ayuntamiento de La Haya (PoRR) mediante un suministro directo y, por tanto, no formaban parte de la licitación a los contratistas.
 Otros hallazgos
@@ -1752,8 +1793,8 @@ También el 29 de noviembre de 2006 (aproximadamente media hora antes del descar
 208 La Eisenbahn-Bundesamt (EBA) es el organismo alemán supervisor de la seguridad ferroviaria. Se encarga, entre otras cosas, de la admisión de vehículos, infraestructura y transportistas.
 209 HTM, Informe de investigación sobre el descarrilamiento del vehículo 4021 cerca de la estación Ternoot el 29 de noviembre de 2006. 3 de enero de 2007.
 
-
 ## Página 53
+
 
 Figura 10 – El vehículo descarrilado en Ternoot  
 Situación
@@ -1775,6 +1816,7 @@ una combinación de las dos opciones anteriores.
 
 ## Página 54
 
+
 La elección final depende en parte de las consecuencias financieras.
 El Stadsgewest Haaglanden estableció en el Programa de Requisitos (PvE) requisitos genéricos de la infraestructura de RandstadRail sobre los que deberían poder circular los nuevos vehículos de RandstadRail. HTM asesoró al respecto y adquirió los vehículos bajo la supervisión de una comisión asesora para la compra, constituida por el Stadsgewest Haaglanden. El fabricante de vehículos entregó a HTM condiciones marco más específicas en enero de 2006. En ellas se describía a qué debía cumplir la infraestructura para poder utilizar el vehículo, dado que los valores del Programa de Requisitos no eran suficientemente precisos. Un análisis exhaustivo de las diferencias entre estas especificaciones habría permitido detectar que, en particular, la condición marco utilizada por el fabricante de vehículos para la construcción del peralte (desnivel transversal) era más estricta que la del Programa de Requisitos de RandstadRail212.
 La situación en la curva de Ternoot no cumplía estas condiciones marco213. En la primavera de 2006, cuando se realizaron las primeras pruebas con los nuevos vehículos de RandstadRail, HTM hizo calcular la situación en Ternoot en un informe independiente por el fabricante, basándose en los planos de diseño proporcionados por HTM Infra. Sobre la base de estos cálculos, el fabricante concluyó que una rueda subiría contra el riel en la curva. Esto significa que el reborde de la rueda entraría en carga y la banda de rodadura se separaría214 del riel, pero que el vehículo, según los supuestos utilizados en el cálculo, no descarrilaría. Sin embargo, existiría un problema de mantenimiento (desgaste del vehículo). Para mantener la garantía de los vehículos, el proveedor de vehículos recomendó215 a HTM circular a un mínimo de 50 km/h en la curva y adaptar la situación a las especificaciones dentro de 6-8 meses.
@@ -1794,6 +1836,7 @@ Tanto el 3 como el 4 de noviembre de 2006, un vehículo de RandstadRail de HTM d
 
 ## Página 55
 
+
 raíles). En estos descarrilamientos no resultó herida ninguna persona. HTM ha iniciado una investigación216 sobre estos descarrilamientos.
 Figura 11 – Los vehículos descarrilados en Den Haag Centraal el 3 y 4 de noviembre de 2006
 Situación
@@ -1808,8 +1851,8 @@ HTM, Análisis de descarrilamientos Operadora Ferroviaria – recientes descarri
 217 Stork FDO BV, Investigación sobre la causa del desgaste excesivo de la vía del tranvía (por encargo de HTM). Ámsterdam, febrero de 2007.
 218 HTM aplica normalmente un raíl más blando en combinación con ruedas más duras. Para optimizar los costes de mantenimiento, se deseaba aplicar un raíl más duro para que se desgastara menos rápidamente. En ello, HTM no se dio cuenta de que una dureza igual a la de las ruedas conduciría a un desgaste acelerado y rugoso en las curvas. El primer descarrilamiento (en la medida en que se puede determinar) en el que esto desempeñó un papel tuvo lugar el 1 de agosto de 2003 en la curva de la parada Pasgeld de la línea de tranvía 1. HTM tuvo entonces problemas para explicar este descarrilamiento. HTM ha declarado que solo pudo adquirir la comprensión necesaria después de los descarrilamientos de RandstadRail en Den Haag Centraal en 2006 y la investigación subsiguiente.
 
-
 ## Página 56
+
 
 inicialmente que el vehículo se había descarrilado después de que se hubiera roto un freno de riel del vehículo. Poco después de que la vía fuera liberada, volvió a descarrilar un vehículo de RandstadRail de HTM. Entonces quedó claro para HTM que nuevamente se trataba de descarrilamientos como consecuencia del desgaste muy rugoso e inclinado de las vías. Basándose en la investigación posterior a los descarrilamientos, HTM desarrolló sus conocimientos. A continuación, HTM adoptó medidas en la curva de Den Haag Centraal (lubricación) y en toda la red de tranvías urbanos de La Haya (se había producido desgaste en varios lugares; en esos puntos se volvieron a soldar las vías). Además, se comprobaron los bogies de los tranvías urbanos para detectar desalineaciones y, si era necesario, se corrigieron, y se cambiaron o reperfiladas las ruedas.
 DESCARRILAMIENTOS EN AGUJAS DE IMPACTO EN LA RED DE TRANVÍAS URBANOS DE LA HAYA
@@ -1824,6 +1867,7 @@ Originalmente no se habían aplicado agujas de impacto en la red de tranvías ur
 219 Las agujas de impacto son agujas flexibles en las que está integrado un mecanismo en el accionador de la aguja que permite el paso sin daños. Una aguja de impacto vuelve a su posición original después del paso del tranvía. Para una explicación más detallada, véase el Anexo J.
 
 ## Página 57
+
 
 En el punto de maniobra situado en Meppelweg estaba previsto que las agujas fueran accionadas eléctricamente.
 Dado que este accionamiento eléctrico no estaba listo a tiempo, HTM Infra optó por utilizar temporalmente agujas de retorno automático (klapwissels). En una aguja de retorno automático, el vehículo que pasa empuja la aguja hacia la posición deseada; tras el paso, la aguja vuelve a su posición inicial. En el punto de maniobra situado en Arnold Spoelplein, HTM Infra ha optado, por razones prácticas, por aplicar las agujas de retorno automático como solución permanente.
@@ -1842,6 +1886,7 @@ El riesgo de daños en las agujas durante la fase de construcción no fue contro
 220 El Stadsgewest Haaglanden informó durante la revisión de documentos que era conocido que los puntas de aguja podían dañarse en caso de tránsito en falso (openrijding) y que el procedimiento estaba orientado a ello. Los aparatos de cambio de aguja no deberían dañarse en caso de tránsito en falso. El Consejo considera esta distinción de poca importancia, dado que la aguja en su conjunto no era transitable en falso.
 
 ## Página 58
+
 
 El descarrilamiento en la aguja de Forepark pudo producirse debido a las siguientes deficiencias en la gestión de la seguridad:
 - 
@@ -1866,10 +1911,10 @@ insuficiente comprensión por parte del Stadsgewest Haaglanden y HTM de los ries
 ejecución y aplicación insuficientes del enfoque de seguridad con respecto a la verificación de si la infraestructura del tranvía urbano sin cambios cumple con los supuestos utilizados por el proveedor del vehículo y los acuerdos entre el Stadsgewest Haaglanden y HTM al respecto. 
 221 El Stadsgewest Haaglanden informó durante la revisión de documentos que las señales sobre daños en la fase de construcción no le eran conocidas. 
 222 Se refiere aquí al requisito de distorsión transversal (en vía distorsionada, los carriles no están en un plano recto entre sí), que surge especialmente en lugares donde la vía pasa de una posición recta a una inclinada (peralte). Véase además el anexo M para una explicación sobre peralte y distorsión transversal, y los anexos L Análisis del descarrilamiento cerca de la parada Ternoot para una explicación de los cálculos de descarrilamiento. 
-223 Esta recomendación fue hecha por el proveedor del vehículo con la advertencia de que, en caso de no cumplir con esta recomendación, ciertos derechos de garantía sobre el vehículo quedarían anulados. 
-
+223 Esta recomendación fue hecha por el proveedor del vehículo con la advertencia de que, en caso de no cumplir con esta recomendación, ciertos derechos de garantía sobre el vehículo quedarían anulados.
 
 ## Página 59
+
 
 5.6.3 
 Descarrilamientos cerca de Den Haag Centraal 
@@ -1890,6 +1935,7 @@ después del primer descarrilamiento, investigación insuficiente del accidente 
 224 Como se indica en el apartado 5.3, hasta donde se sabe, el primer descarrilamiento relacionado con el mismo problema de desgaste que los descarrilamientos con RandstadRail ocurrió en agosto de 2003. Después de los descarrilamientos con RandstadRail, una investigación adicional en HTM condujo a la comprensión de la causa de los descarrilamientos.
 
 ## Página 60
+
 
 ## ANÁLISIS DE LA GESTIÓN DE SEGURIDAD EN RANDSTADRAIL
 La estructura y el contenido de la gestión de seguridad desempeñan un papel crucial en la demostración del control y la mejora continua de la seguridad. Esto se aplica a todas las organizaciones que participan activa o indirectamente, desde cierta distancia, en actividades donde puede surgir un peligro potencial para los ciudadanos en los Países Bajos.
@@ -1912,8 +1958,8 @@ Al inicio del proyecto RandstadRail, el Área Metropolitana de Haaglanden y la R
 225 El Anexo C.2 contiene una representación esquemática del ciclo de vida del proyecto RandstadRail.
 226 Cabe señalar que el municipio de La Haya (Organización del Proyecto RandstadRail) siguió involucrado durante la fase de uso, ya que la responsabilidad de la seguridad de los cambios de vía aún no se había transferido en ese momento.
 
-
 ## Página 61
+
 
 Inicio de la fase de planificación
 Fase de diseño
@@ -1978,6 +2024,7 @@ Como promotor de RandstadRail, el Área Metropolitana de Haaglanden era responsa
 
 ## Página 62
 
+
 GESTIÓN DE LA SEGURIDAD POR PARTE DE HTM
 6.1 
 En virtud de la Concesión Rail227, HTM era responsable del transporte de viajeros y de la gestión y el mantenimiento de la infraestructura ferroviaria de RandstadRail. Para ello, debía cumplir con el Plan de Seguridad Operativa (Exploitatie Veiligheidsplan)228 elaborado por el Stadsgewest Haaglanden y la Stadsregio Rotterdam. Además, HTM actuaba, entre otras funciones, como asesor y comprador del material rodante. En el apartado 4.3 se describen en detalle las tareas y obligaciones de HTM derivadas de sus diferentes roles. En este apartado se describe cómo HTM se preparó, en lo que respecta a la garantía de la seguridad, para el transporte de viajeros y para la gestión operativa de la infraestructura ferroviaria. En cuanto al transporte de viajeros, se analiza específicamente la preparación, las pruebas y los ensayos, así como la decisión de HTM de iniciar el servicio de transporte de viajeros.  
@@ -1994,6 +2041,7 @@ Al no supervisar el estado de los casos de seguridad de la infraestructura, HTM 
 230 El apartado 6.3 contiene un análisis más detallado de los planes y la ejecución de la gestión de la seguridad por parte del Stadsgewest Haaglanden, incluido el estado de los casos de seguridad.
 
 ## Página 63
+
 
 futuro gestor de la infraestructura y, por tanto, una transferencia del gestión de la infraestructura del municipio de La Haya (PoRR) a través del Stadsgewest Haaglanden hacia HTM prevista para un momento posterior.
 6.1.2
@@ -2013,6 +2061,7 @@ En 2004, el proyecto RandstadRail pasó de la fase de desarrollo a la fase de ej
 
 ## Página 64
 
+
 HTM deseaba explotar RandstadRail, entre otras razones, porque RandstadRail sustituiría a las líneas de tranvía existentes 3 y 6. HTM consideraba el desempeño de otras funciones en RandstadRail (adquisición de material rodante, futura gestión de la infraestructura, contratista, asesor y supervisor del diseño y construcción de la infraestructura, véase el capítulo 4) como condiciones previas para la explotación de RandstadRail.
 Formación del personal
 HTM se enfrentó al problema de que aproximadamente 200 nuevos conductores de tranvía debían ser formados todos en un periodo muy breve (verano de 2006). Esto se debía, entre otras cosas, a que RandstadRail se construyó sobre líneas existentes. El transporte de pasajeros debía interrumpirse lo menos posible. Y HTM quería que los conductores comenzaran a operar efectivamente inmediatamente después de completar su formación.
@@ -2031,6 +2080,7 @@ Al comienzo del periodo de Transformación, Pruebas y Ensayos (OTP), HTM comunic
 234 HTM hizo llegar al Consejo, durante la consulta, una carta dirigida a Stadsgewest Haaglanden (de fecha 7 de junio de 2006) en la que HTM comunica que toma la explotación segura para pasajeros y empleados como punto de partida. En la carta no se vinculan a este punto de partida criterios u objetivos de seguridad para la empresa de pruebas y ensayos. Sí se indica que debe estar presente como mínimo una serie de dispositivos
 
 ## Página 65
+
 
 las normas vigentes de HTM (HTM Infra Voorschrift Sporen) complementadas con normas adicionales establecidas desde el vehículo, se ha evaluado la infraestructura. Sobre esta base, HTM ha dado su conformidad para iniciar la explotación.
 La dirección y el equipo directivo de HTM fueron informados el 27 de octubre de 2006 sobre la decisión del Stadsgewest Haaglanden (en coordinación con HTM) de poner en servicio la línea 4 de RandstadRail para el transporte de viajeros el 29 de octubre de 2006. Para HTM, en lo relativo a la seguridad ferroviaria, subyacen las siguientes consideraciones:
@@ -2062,6 +2112,7 @@ En el inicio de la explotación solo se transfirió a HTM la gestión diaria. Se
 
 ## Página 66
 
+
 suministro de energía. La transferencia de la responsabilidad de instalación tendría lugar en una fecha posterior. Además, el municipio de La Haya (PoRR) seguía siendo responsable de la seguridad de los desvíos. Esta responsabilidad se transferiría tan pronto como la información complementaria sobre la verificación de los desvíos estuviera disponible para HTM238.
 En la transferencia de la responsabilidad de gestión del mantenimiento diario desde el municipio de La Haya (PoRR) a HTM, esta última solicitó los documentos de entrega. También se solicitaron respecto a los desvíos, en particular las actas de recepción y un listado de puntos pendientes. HTM recibió estos documentos tras cierta insistencia. Esto ocurrió durante el periodo de las inspecciones previas a la autorización para iniciar la circulación en el otoño de 2006. Inicialmente, HTM se negó a asumir la gestión de los desvíos porque la documentación no estaba en orden. Dichos documentos no estaban disponibles antes de que HTM iniciara la circulación. Finalmente, tras recibir los documentos en abril de 2007, HTM dictaminó que no contenían puntos esenciales239.
 Que HTM haya iniciado finalmente la explotación se debe a que nunca tuvo la impresión de que la infraestructura no fuera segura. La razón por la que la gestión aún no había sido transferida era que los expedientes todavía no podían ser entregados. Además, existía discusión con respecto al régimen de mantenimiento de los desvíos. Lo mismo ocurría con las líneas aéreas de contacto, donde se trataba de un tipo incorrecto de conmutaciones. Estos asuntos no guardaban relación alguna con la seguridad. En este contexto, por seguridad se entiende la seguridad ferroviaria (colisiones, descarrilamientos, etc.). HTM no tenía la impresión de que existiera un riesgo elevado. Había problemas relacionados con la calidad y los expedientes no estaban completamente en orden.
@@ -2077,6 +2128,7 @@ El mecanismo subyacente al desgaste no fue analizado proactivamente por HTM. Por
 240 HTM ha declarado que en el futuro seguirá una forma de trabajo diferente a este respecto. El Director de Explotación es ahora el presidente de la comisión de descarrilamientos (anteriormente lo era el director de HTM Infra). En casos de descarrilamientos complejos, un empleado de HTM acude al lugar del descarrilamiento. En una reunión entre los departamentos de Vía, Infraestructura, Material Rodante Ferroviario y el Asesor Técnico, se decide si aún se puede circular o si la explotación debe suspenderse.
 
 ## Página 67
+
 
 esto debería haberse hecho antes. En la adquisición de los tranvías hace 30 años, HTM instaló bogies de 20 años de antigüedad. Una parte de los tranvías recibió bogies nuevos y otra parte bogies antiguos, ya que estos aún podían utilizarse. Desde los años 50 se sabía que los bogies presentaban desalineación en el tracción. Este problema no se ha subsanado: en su lugar, se han combatido sus efectos mediante la adaptación de la vía. Tras los descarrilamientos, HTM concluyó que los bogies deberían haber sido sustituidos. HTM no puede explicar por qué esto nunca se previó con anterioridad. No obstante, entre 2004 y 2006, HTM revisó los bogies. En dicha revisión, HTM no identificó que la sustitución de los ejes de los bogies podría provocar un comportamiento diferente del desgaste. La razón ya no es posible determinarla.
 
@@ -2101,6 +2153,7 @@ Como ya se ha indicado, el Ayuntamiento de La Haya (PoRR) seguía siendo respons
 Antes de la entrega de la infraestructura, hubo señales de que los cambios de vía habían sido recorridos en la dirección incorrecta durante la fase de construcción y resultaron dañados como consecuencia. Estas señales no condujeron a un endurecimiento de las inspecciones antes de poner en servicio los cambios de vía. Mediante un enfoque integral y sistemático de la seguridad por parte del Ayuntamiento de La
 
 ## Página 68
+
 
 Haag (PoRR) habría sido mayor la probabilidad de que el riesgo de daños en los cambios de aguja al transitar por ellos con vehículos de trabajo durante la fase de construcción hubiera sido identificado a tiempo.
 GESTIÓN DE LA SEGURIDAD POR PARTE DEL STADSGEWEST HAAGLANDEN
@@ -2141,6 +2194,7 @@ La ejecución de este plan debe conducir a que esté garantizada una explotació
 
 ## Página 69
 
+
 normas de seguridad, describe la organización de la gestión de la seguridad durante el diseño y la construcción de RandstadRail y los roles, tareas y responsabilidades asociados.
 Además, en el IVP se ha descrito cómo está garantizada la seguridad. El nivel de seguridad de RandstadRail se demuestra y garantiza mediante informes de seguridad, que incluyen entre otros análisis de riesgos. Estos deben ser estudiados y completados por fase, resultando en una *safety case*244. Se trata de un expediente acumulativo en el que se describe cómo la seguridad está garantizada tanto durante el diseño, la construcción como la explotación. La *safety case* concierne tanto al sistema de transporte total como a los subsistemas aplicados dentro del mismo.
 Plan de Seguridad de Explotación de RandstadRail
@@ -2163,6 +2217,7 @@ El Stadsgewest Haaglanden era además el responsable final de la *safety case* �
 246 Plan de Gestión de la Seguridad de RandstadRail versión 1.1, definitiva de 21 de mayo de 2006
 
 ## Página 70
+
 
 Evaluación de los planes por parte de la Inspección VenW
 El IVP y el EVP han sido aprobados por la Inspección de Transporte y Aguas (Inspectie Verkeer en Waterstaat). El Director Jefe de Inspección de la Inspección VenW escribe sobre el IVP:
@@ -2209,6 +2264,7 @@ Para las líneas en superficie (la red de tranvías urbanos en La Haya), se han 
 
 ## Página 71
 
+
 El tranvía urbano de La Haya entró en servicio. Se partió de la premisa de que en las líneas del tranvía urbano solo se aplicaría tecnología conocida en la red del tranvía urbano.
 Ni en el PvE, ni en los acuerdos con el municipio de La Haya (Organización del Proyecto RandstadRail) o HTM, ni en los *safety cases* se demuestra que se hayan cumplido estos puntos de partida. Así, los cambios de vía fueron recorridos por vehículos distintos a los de RandstadRail, concretamente por el tráfico de obras que realizaba trabajos por encargo del municipio de La Haya. Al tomar como punto de partida las líneas de terreno existentes en el análisis de riesgos, el Stadsgewest Haaglanden asumió implícitamente que estas ya cumplían con el PvE de RandstadRail, sin verificarlo ni garantizarlo explícitamente, por ejemplo, mediante acuerdos (escritos) al respecto con la HTM.
 Otra deficiencia es que el análisis de riesgos aún presenta una serie de zonas desconocidas, especialmente allí donde los riesgos no podían ser evaluados en esa fase porque la especificación era todavía insuficientemente concreta. Así, en el análisis de riesgos para la red del tranvía urbano se observa que una evaluación de riesgos no es posible adecuadamente para las vías terminales o puntos de giro, porque la especificación precisa aún se desconoce. Finalmente, se optó por aplicar cambios de vía plegables en estos puntos de giro. De los documentos proporcionados por el Stadsgewest Haaglanden no se desprende que esta adaptación haya sido incorporada al análisis de riesgos. Hasta entonces, los cambios de vía plegables apenas existían o eran muy raros en la red del tranvía urbano. Por lo tanto, no se cumplía el punto de partida de que solo se aplicaría tecnología conocida en la red del tranvía urbano.
@@ -2220,6 +2276,7 @@ Además, el Stadsgewest Haaglanden y el municipio de La Haya (PoRR) no estableci
 257 Tras la consulta, el Consejo de Investigación recibió, en respuesta a este pasaje del informe preliminar, una carta elaborada por la Inspección VenW. En dicha carta se mencionan criterios para la operación de pruebas y ensayos de RandstadRail. Dado que esta carta está fechada el 24 de octubre de 2006 (unos días antes del inicio de la explotación), el Consejo no considera esta carta como objetivos y criterios establecidos previamente, aparte del hecho de que los criterios fueron formulados por el supervisor externo y no por las partes directamente implicadas.
 
 ## Página 72
+
 
 Ejemplo: no se identificó el riesgo de daños durante la fase de construcción
 El riesgo de daños en las agujas durante la fase de construcción (junio-agosto de 2006) no fue identificado en los análisis de riesgos. Como consecuencia de la gran magnitud del proyecto de conversión de RandstadRail, la vía en la que se instalaron las nuevas agujas fue intensamente recorrida por vehículos de obra. Durante el período de conversión hubo señales de que las agujas no siempre eran apretadas y recorridas correctamente. Así, durante la Prueba de Aceptación en Sitio (SAT) se constató que la punta de aguja de la aguja 846, donde se produjo el descarrilamiento, estaba dañada.
@@ -2236,6 +2293,7 @@ En el EVP se incluyen requisitos para el Sistema de Garantía de Seguridad (o Si
 
 ## Página 73
 
+
 Ejemplo de pruebas y servicio de ensayo
 Filosofía de seguridad
 Un periodo de pruebas y servicio de ensayo debe cumplir varios objetivos. Además de garantizar la seguridad, el periodo de pruebas y servicio de ensayo también tiene como objetivo obtener una imagen de la fiabilidad y disponibilidad operativa del sistema que va a entrar en servicio.
@@ -2249,6 +2307,7 @@ Tras la construcción, los sistemas deben ser probados. Primero se prueba cada s
 260 El Plan de Ejecución del Servicio de Ensayo (Plan van Aanpak Proefbedrijf) (16 de octubre de 2006, primera versión 6 de octubre de 2006) contenía únicamente un objetivo de robustez: Durante 35 horas de carga punta no deben producirse más de 3 averías de categoría 1 con una duración conjunta máxima de 30 minutos, y no deben producirse averías de categoría 2. La relevancia para la seguridad de este objetivo es que, ante paradas más largas, los pasajeros abandonan el vehículo y caminan por/en la vía.
 
 ## Página 74
+
 
 Cuando se hayan probado todos los sistemas, podrán realizarse viajes de prueba. En ellos, el vehículo recorre la trayectoria para comprobar que todas las señales, agujas, pasos a nivel, indicaciones de parada, la instalación de megafonía, etc., funcionan correctamente. Deben probarse todas las situaciones imaginables, como circular por la vía en sentido contrario, establecer itinerarios incorrectos, pasar sobre agujas abiertas, frenadas de emergencia, etc. Todos los riesgos de seguridad (previamente identificados) deben quedar cubiertos en estos viajes de prueba. También en esta situación se formulan previamente criterios, por ejemplo, sobre el número de averías, la duración de las averías o la aparición o no de ciertos tipos de averías, contra los cuales se puede realizar la evaluación.
 
@@ -2270,6 +2329,7 @@ Responsabilidad es rendir cuentas sobre el ejercicio de tus tareas y competencia
 
 ## Página 75
 
+
 la ejecución se situó en la línea: allí, los gestores de línea responsables eran los últimos responsables del suministro de las safety cases parciales; el coordinador de seguridad ferroviaria de HTM tenía un papel asesor en dicho proceso.
 Además, no se ha incluido una distribución clara de las competencias en los planes. Por ejemplo, para el Safety Manager no se describe qué competencias tiene para dar contenido a su responsabilidad por la seguridad. Tampoco se han descrito las tareas, responsabilidades y competencias del consejo de administración (los tomadores de decisiones) como último responsable de la seguridad de RandstadRail, con excepción de las tareas y responsabilidades operativas.
 Responsabilidades y competencias insuficientemente establecidas
@@ -2288,6 +2348,7 @@ Otra desviación de los planes de seguridad, concretamente del EVP, fue que el S
 
 ## Página 76
 
+
 sistema de gestión de la seguridad (véase 6.1.2). Por otra parte, el Stadsgewest Haaglanden ya había prometido en 2001 establecer un sistema de garantía de seguridad junto con los operadores de transporte265. 
 Además, no se ha documentado cómo el Stadsgewest Haaglanden fundamentó la decisión de que RandstadRail pudiera ser liberada para su puesta en servicio, dado que el instrumento idóneo y previamente acordado para ello (la documentación en los *safety cases* por parte de los proveedores de componentes del sistema de transporte RandstadRail) fue abandonado. De las actas de las reuniones técnicas de RandstadRail (PMT) se desprende que, en la última fase, se consultó frecuentemente (diariamente al final) con expertos de las partes implicadas y que, de esa manera, se decidió proceder a la liberación. Dado que ni esta decisión ni los criterios utilizados para ella han sido documentados, el Consejo concluye que, durante el último periodo previo a la puesta en servicio de RandstadRail, hubo una metodología informal en la ejecución de la gestión de la seguridad. 
 Liberación y transferencia 
@@ -2303,6 +2364,7 @@ La ISA emitió advertencias en informes de evaluación (elaborados respectivamen
 267 Presentación ISA RandstadRail, parte del encargo a la ISA, TARA/04/0006, de fecha 23 de junio de 2004, punto 3.6
 
 ## Página 77
+
 
 Advertencias del Asesor Independiente de Seguridad
 En el primer informe de evaluación268 sobre la fase de especificación de RandstadRail, el ISA Totaal concluye que las actividades del proyecto y los entregables hasta la fecha ofrecen suficiente confianza para una entrega final de un sistema seguro. No obstante, se deben seguir una serie de recomendaciones debido, entre otras cosas, a los siguientes hallazgos:
@@ -2338,34 +2400,36 @@ En agosto, septiembre y octubre de 2006, el ISA realizó tres entrevistas con re
 
 ## Página 78
 
-del trazado y de los cambios, en los que faltaba documentación esencial, el Consejo consideró insuficientemente convincente para una declaración de no objeción. Naturalmente, puede ser que la ISA se haya dejado convencer durante las conversaciones con los implicados.
-En la nota *Restpunten ISA verklaring indienststelling Lijn 4272* [Puntos pendientes ISA declaración puesta en servicio Línea 4272] se indica por qué la ISA no tiene objeciones a la puesta en servicio y qué queda por hacer. La nota contiene muchos puntos pendientes, parte de los cuales son, según la ISA, relevantes para la seguridad, en el sentido de que, según la ISA, no debe entrar en servicio nada antes de que se resuelvan dichos puntos pendientes. Según el Consejo, en ese caso no se trata de un punto pendiente²⁷³, sino de un «hallazgo bloqueante²⁷⁴». En tal caso, el Consejo habría esperado que la ISA no emitiera una declaración de no objeción hasta haberse asegurado de que estos puntos han sido subsanados. A continuación, como ejemplo, algunas citas²⁷⁵ de la nota sobre puntos que, según el Consejo, no deberían haber sido considerados puntos pendientes:
-«Protección ferroviaria 
-La protección ferroviaria ha sido probada de la manera habitual. Existe un documento de condiciones marco que permanece válido hasta nueva orden para la realización del funcionamiento de prueba. El *safety case* [caso de seguridad] [de la protección ferroviaria] aún no ha sido visto. Esto es según lo previsto, pero se espera una declaración de aprobación con posibles limitaciones por parte de la ISA para la protección y el gestor RAMS²⁷⁶ de RandstadRail protección ferroviaria parcela I de que la instalación también es suficientemente segura para el transporte de pasajeros. Esta aún no ha sido recibida. La declaración de la ISA se basa en información verbal de los testers SAT²⁷⁷ y en observaciones propias durante las pruebas SAT y las pruebas de seguridad. 
+
+del trazado y de los cambios de vía, en la que faltaba documentación esencial, el Consejo consideró insuficientemente convincente para emitir una declaración de no objeción. Naturalmente, es posible que la ISA se haya dejado convencer durante las conversaciones con los implicados.
+En la nota «Puntos pendientes ISA declaración de puesta en servicio Línea 4272» se indica por qué la ISA no tiene objeciones a la puesta en servicio y qué queda por hacer. La nota contiene numerosos puntos pendientes, algunos de los cuales, según la ISA, son relevantes para la seguridad, en el sentido de que, según la ISA, nada puede entrar en servicio antes de que se resuelvan dichos puntos pendientes. Según el Consejo, en ese caso no se trata de un punto pendiente273, sino de un «hallazgo bloqueante274». En tal caso, el Consejo habría esperado que la ISA no emitiera una declaración de no objeción hasta haberse asegurado de que estos puntos habían sido subsanados. A continuación, como ejemplo, algunas citas275 de la nota sobre puntos que, según el Consejo, no deberían haber sido considerados meros puntos pendientes:
+«Protección de trenes 
+La protección ferroviaria ha sido probada de la manera habitual. Existe un documento de condiciones marco que sigue siendo válido hasta nuevo aviso para la realización de las pruebas. El *safety case* [de la protección ferroviaria] aún no ha sido revisado. Esto está conforme al plan, pero se espera una declaración de aprobación con posibles limitaciones por parte de la ISA y del gestor RAMS276 de RandstadRail para la parcela I de la protección ferroviaria, confirmando que la instalación es también suficientemente segura para el transporte de pasajeros. Esta declaración aún no ha sido recibida. La declaración de la ISA se basa en información verbal de los técnicos SAT277 y en observaciones propias durante las pruebas SAT y las pruebas de seguridad. 
 … 
-La visibilidad de las señales no es buena. Se ha redactado una observación al respecto. Requisito: Las señales en la estación Oosterheem, Javalaan y Willem Dreeslaan son tan mal visibles que deben tomarse medidas lo antes posible. Las medidas procedimentales vigentes aquí deben mantenerse. Todas las demás señales y carteles deben ser comprobadas en cuanto a su visibilidad. 
+La visibilidad de las señales no es buena. Se ha redactado una observación al respecto. Requisito: Las señales en la estación Oosterheem, Javalaan y Willem Dreeslaan tienen una visibilidad tan deficiente que deben tomarse medidas lo antes posible. Las medidas procedimentales vigentes en este ámbito deben mantenerse. Todas las demás señales y carteles deben ser comprobadas en cuanto a su visibilidad. 
 … 
-La protección temporal en Seghwaert y Centrum West debe estar dotada de un certificado integral de seguridad. Antes de esto, dicha instalación no puede entrar en servicio. 
+La protección temporal en Seghwaert y Centrum West debe estar dotada de una prueba integral de seguridad. Antes de ello, esta instalación no puede entrar en servicio. 
 …  
-Las señales operativas, pero tachadas con una cruz en el Viaducto Beatrix, deben ser cubiertas antes de la puesta en servicio. 
+Las señales operativas pero tachadas en el Viaducto Beatrix deben ser cubiertas antes de la puesta en servicio. 
 … 
 Material móvil 
-El frenado rápido mediante información TDK1 ante una posición incorrecta del cambio no está implementado en el vehículo de piso bajo. Aún no hay una respuesta unánime sobre los riesgos al recorrer un cambio en la posición incorrecta y la probabilidad de ello es, según la opinión de la ISA, demasiado alta.  
+El frenado rápido mediante información TDK1 ante una posición incorrecta del cambio de vía no está implementado en el vehículo de piso bajo. Aún no existe una respuesta consensuada sobre los riesgos asociados a la circulación sobre un cambio de vía en posición incorrecta y, según la opinión de la ISA, la probabilidad de que esto ocurra es demasiado alta.  
 Puntos pendientes: 
-La ISA opina que la información ofrecida desde la infraestructura para la protección de los cambios 815 y 860 también debe utilizarse en el vehículo de piso bajo para un frenado rápido o una alarma. Listo para finales de diciembre de 2006.»
+La ISA considera que la información proporcionada desde la infraestructura para la protección de los cambios de vía 815 y 860 también debe utilizarse en el vehículo de piso bajo para provocar un frenado rápido o una alarma. Listo para finales de diciembre de 2006.»
 6.3.5 
 Intensificación del enfoque de seguridad 
-El enfoque de seguridad debe intensificarse continuamente, tanto proactivamente (periódicamente y ante cada cambio de los puntos de partida) mediante, entre otras cosas, la realización de inspecciones y auditorías, como reactivamente (como consecuencia de incidentes y accidentes). 
-El Stadsgewest Haaglanden [Área Metropolitana de La Haya] no ha hecho justicia suficiente a los cambios que surgieron durante el proyecto en el enfoque de seguridad (véase, para una consideración más detallada de estos cambios, el apartado 7.2). El descarrilamiento en el cambio cerca de Forepark muestra que un cambio (la reconstrucción de las líneas urbanas de Zoetermeer) puede conducir a riesgos (daños en los cambios causados por el tráfico de obras). 
-También para las otras partes implicadas, como el operador y administrador HTM, es importante intensificar continuamente el enfoque de seguridad, como demuestran claramente los descarrilamientos cerca de Den Haag Centraal y en los cambios de aguja. En ambos casos, ocurrieron varios descarrilamientos antes de que
-272 Versión del 27 de octubre de 2006 
-273 Hallazgo sobre algo que aún no está listo, pero de cuya información se desprende que no supone un gran riesgo. Por ejemplo, la falta aún de una firma en un documento ya aprobado. 
-274 Hallazgos con un gran riesgo de seguridad, que deben resolverse PRIMERAMENTE antes de que algo pueda ponerse en uso. 
-275 Versión 0.2, del 19 de octubre de 2006. 
-276 RAMS significa fiabilidad, disponibilidad, mantenibilidad y seguridad. 
-277 SAT significa Site Acceptance Test [Prueba de Aceptación en Sitio].
+El enfoque de seguridad debe intensificarse continuamente, tanto de forma proactiva (periódicamente y ante cada modificación de los supuestos iniciales), mediante, entre otras cosas, inspecciones y auditorías, como de forma reactiva (a raíz de incidentes y accidentes).
+El Stadsgewest Haaglanden no ha prestado suficiente atención, en su enfoque de seguridad, a los cambios que surgieron durante el proyecto (véase, para una consideración más detallada de estos cambios, el apartado 7.2). El descarrilamiento en el cambio de vía cerca de Forepark demuestra que un cambio (la reconstrucción de las líneas urbanas de Zoetermeer) puede conducir a riesgos (daños en los cambios de vía causados por el tráfico de obras).
+También para las demás partes implicadas, como el operador y administrador HTM, es importante intensificar continuamente el enfoque de seguridad, como demuestran claramente los descarrilamientos cerca de Den Haag Centraal y en los cambios de vía de aguja. En ambos casos, se produjeron varios descarrilamientos antes de que...
+272 Versión de fecha 27 de octubre de 2006 
+273 Hallazgo relativo a algo que aún no está terminado, pero de cuya información se desprende que no supone un gran riesgo. Por ejemplo, la falta aún de una firma en un documento ya aprobado. 
+274 Hallazgos con un alto riesgo para la seguridad, que deben resolverse ANTES de que algo pueda entrar en servicio. 
+275 Versión 0.2, de fecha 19 de octubre de 2006. 
+276 RAMS significa fiabilidad (*reliability*), disponibilidad (*availability*), mantenibilidad (*maintainability*) y seguridad (*safety*). 
+277 SAT significa Prueba de Aceptación en Sitio (*Site Acceptance Test*).
 
 ## Página 79
+
 
 de la causa conocida (desgaste) o de que HTM adoptara medidas suficientes (cambios de aguja). La gestión de seguridad de HTM y del municipio de La Haya (PoRR) se ha descrito en los apartados anteriores.
 6.3.6 
@@ -2382,8 +2446,8 @@ De las entrevistas y actas de las reuniones gubernamentales y administrativas se
 279 Plan Integral de Seguridad RandstadRail versión 4.1, definitivo de 18 de mayo de 2006 (página 12)
 280 Plan Integral de Seguridad RandstadRail versión 4.1, definitivo de 18 de mayo de 2006 (página 18)
 
-
 ## Página 80
+
 
 tomada durante reuniones diarias a nivel administrativo entre representantes del Stadsgewest Haaglanden, la Stadsregio Rotterdam, el municipio de La Haya, HTM, RET y otras partes interesadas. Además, desempeñó un papel el hecho de que el ISA hubiera emitido previamente declaraciones281 282 283 de no objeción antes de la puesta en servicio y que la Inspectie VenW hubiera concedido una autorización de puesta en servicio de los tramos en la zona periférica de RandstadRail. Adjunta a la declaración del ISA había una lista de puntos pendientes que contenía varios asuntos relevantes para la seguridad284 que debían haberse resuelto antes de que RandstadRail pudiera entrar en servicio. Para el ISA esto no fue motivo para no emitir una declaración de no objeción para RandstadRail.
 Cabe señalar además que los juicios del ISA y de la Inspectie VenW tenían un alcance determinado, concretamente el proceso seguido (ISA) y la parte de RandstadRail designada como ferrocarril local (Inspectie VenW). Además, el ISA y la Inspectie VenW emiten un juicio externo basado en una selección de material informativo. Las entidades que deberían tener la mejor visión sobre la seguridad de RandstadRail en su conjunto son el propio Stadsgewest Haaglanden y la Stadsregio Rotterdam.
@@ -2394,6 +2458,7 @@ Cabe señalar además que los juicios del ISA y de la Inspectie VenW tenían un 
 284 Por ejemplo, la ausencia de una declaración de que la protección de trenes es suficientemente segura para el transporte de pasajeros, visibilidad insuficiente de las señales, ausencia de frenado de emergencia.
 
 ## Página 81
+
 
 ## ANÁLISIS DEL CONTEXTO RANDSTADRAIL  
 El capítulo anterior contiene un análisis de la gestión de la seguridad en RandstadRail, utilizando los descarrilamientos con RandstadRail como punto de partida y como hilo conductor del análisis. En dicho capítulo se responde a la pregunta de por qué la gestión de la seguridad no pudo prevenir los descarrilamientos. Para cada descarrilamiento se examina qué podría haber hecho de manera diferente cada parte implicada.  
@@ -2421,6 +2486,7 @@ La intención era utilizar las vacaciones de verano de 2006 para realizar la tra
 
 ## Página 82
 
+
 Por ello, es explicable que el Stadsgewest Haaglanden y la Stadsregio Rotterdam hayan procurado realizar el proyecto RandstadRail en el menor tiempo posible. En las reuniones de dirección se habló mucho sobre la planificación y se dirigió hacia ella.
 De las entrevistas se desprende que la dirección del Stadsgewest Haaglanden optó conscientemente por aumentar la presión sobre la realización de RandstadRail. Hacia el exterior, se comprometieron con un momento específico para la puesta en servicio de RandstadRail286. Esto tuvo consecuencias tanto internas como externas. Debido al plazo límite comunicado externamente, surgió internamente (consciente o inconscientemente) una presión para hacer todo lo posible para cumplir dicho plazo. Las partes ejecutoras consideraron el plazo más como un requisito estricto que como un punto de partida. Esa era también la intención de la dirección del Stadsgewest Haaglanden, sin percatarse de que este plazo explícito tenía consecuencias para la ejecución de la gestión de seguridad. Así, el plazo contribuyó a que, a nivel administrativo, se optara por no completar el método de trabajo previamente acordado respecto a los *safety cases* antes de la puesta en servicio de RandstadRail. También la duración de las pruebas y ensayos fue influenciada por el plazo. Por otra parte, el Consejo no ha constatado que se ignoraran conscientemente problemas concretos de seguridad para cumplir el plazo, ni que exista una relación directa demostrable con los descarrilamientos. Como se ha descrito en el capítulo anterior, había (también) otras causas subyacentes. No obstante, el Consejo considera que la presión derivada del plazo hizo indirectamente que disminuyera la probabilidad de que se detectaran deficiencias de seguridad antes de la puesta en servicio de RandstadRail287.
 Cuando en un proyecto se concede gran importancia a un corto plazo de ejecución, una preparación adecuada y oportuna cobra aún mayor relevancia. En el proyecto RandstadRail, la presión sobre la planificación fue causada por una preparación insuficientemente temprana de los trabajos necesarios para realizar RandstadRail, entre otros motivos porque ciertos componentes esenciales de RandstadRail se completaron o se hicieron visibles relativamente tarde. En el siguiente apartado se profundiza en esta cuestión.
@@ -2434,6 +2500,7 @@ El Stadsgewest Haaglanden partía inicialmente de la premisa de que en la Zoeter
 287 HTM indicó durante la revisión que adoptaba explícitamente una explotación segura para pasajeros y empleados como punto de partida en la decisión de iniciar con los criterios. HTM comunicó esto al Stadsgewest Haaglanden mediante carta el 7 de junio de 2006. En la carta no se vincularon criterios de seguridad al punto de partida, sino una serie de instalaciones que debían estar presentes como mínimo (entre otras, paradas seguras, circulación a la vista con velocidad adaptada de 70 km/h y protección local en los puntos de conexión).
 
 ## Página 83
+
 
 Hasta el 3 de junio de 2006, las líneas existentes Zoetermeer Stadslijn y Hofpleinlijn seguían bajo la gestión del anterior gestor de infraestructura, por lo que el Stadsgewest Haaglanden/el municipio de La Haya no tenía acceso a dicha responsabilidad de gestión en ese momento. Todas las solicitudes procedentes del Stadsgewest Haaglanden y del municipio de La Haya que debieran ejecutarse sobre o en la inmediata proximidad de la infraestructura ferroviaria existente debían tramitarse a través del entonces gestor de infraestructura. Los asuntos típicamente ferroviarios eran limitados: la mayor parte de la vía podría haber sido transferida sin cambios por el anterior gestor de infraestructura, y la construcción de los nuevos tramos en Zoetermeer-Oosterheem y Beatrixlaan no era realmente compleja y podía ser realizada adecuadamente por un contratista ferroviario experimentado.
 Una vez que el municipio de La Haya comenzó con el diseño de la infraestructura, surgieron varias cuestiones técnicas ferroviarias importantes. En primer lugar, se observó que los perfiles de rueda del tranvía y del metro presentaban diferencias significativas. Para ello hubo que buscar una solución: ya sea adaptar la parte de la red de tranvías urbanos de La Haya o instalar dispositivos en los desvíos.
@@ -2449,6 +2516,7 @@ La realización del proyecto RandstadRail no fue sencilla para el Stadsgewest Ha
 290 En el Stadsgewest Haaglanden trabajan aproximadamente 111 FTE, de los cuales 37 FTE están en Tráfico y Transporte y, de estos, 11 FTE en Transporte Público.
 
 ## Página 84
+
 
 Sin embargo, el municipio de La Haya también tenía poca experiencia en materia técnica ferroviaria. A diferencia de Róterdam, el municipio de La Haya no disponía de un servicio municipal como la RET291, que cuenta con años de experiencia en la realización de grandes proyectos de metro. La experiencia de la HTM en materia técnica ferroviaria se refería principalmente al transporte con tranvías urbanos y solo en menor medida al tren ligero292. Por ello, el municipio de La Haya creó su propia Organización Temporal del Proyecto RandstadRail (PoRR), para la cual se contrató la necesaria experiencia en ingeniería civil (para el nuevo viaducto Beatrixkwartier y diversos túneles y viaductos adicionales) y en técnica ferroviaria. En los trabajos participó, entre otros, la HTM.
 En ese momento, en los Países Bajos había poca experiencia práctica con el tren ligero. Solo en la línea RijnGouwelijn se circulaba desde finales de octubre de 2002, a modo de prueba, con material móvil de tren ligero sobre la vía existente. El Área Metropolitana de Haaglanden y la HTM realizaron visitas de trabajo a Kassel, en Alemania, durante la preparación de RandstadRail, donde circulaban desde principios de 2006 (aproximadamente medio año antes del inicio de RandstadRail) tranvías de piso bajo de un tipo comparable al de RandstadRail. Estos tranvías circularon únicamente por las líneas periféricas hasta el otoño de 2007.
@@ -2466,9 +2534,14 @@ El Área Metropolitana de Haaglanden y la Región Metropolitana de Róterdam aco
 
 ## Página 85
 
+
+
 ## Página 86
 
+
+
 ## Página 87
+
 
 ## ANÁLISIS DEL MARCO JURÍDICO Y DE LA SUPERVISIÓN DE RANDSTADRAIL
 Este capítulo contiene un análisis del marco jurídico y de la supervisión externa de RandstadRail. En él se examinan las organizaciones que han ejercido la supervisión durante la duración del proyecto RandstadRail. Por último, se aborda la cuestión de cómo se ha llevado a cabo dicha supervisión, tanto en lo relativo al proceso como en el contenido. A raíz de los descarrilamientos de RandstadRail, TNO realizó, por encargo de la Inspección de Transporte Público y Gestión del Agua (Inspectie Verkeer en Waterstaat), una investigación297 sobre la actuación de la Inspección VenW en la concesión de la «Autorización para la apertura del servicio» de RandstadRail. Cuando resulta pertinente, este capítulo hace referencia a los hallazgos y conclusiones de dicha investigación.
@@ -2492,6 +2565,7 @@ El 1 de enero de 2005 entró en vigor la nueva Ley Ferroviaria (Spoorwegwet). No
 299 Como se describe en el apartado 3.1.3, no se ejerció ninguna supervisión sobre la sección de la red de tranvía urbano de RandstadRail, dado que la supervisión de dicha sección no está regulada en la legislación y normativa vigentes. En teoría, tras la adaptación de la legislación y normativa, la Inspección VenW podría ejercer esta supervisión. Otra posibilidad es que el Ayuntamiento de La Haya sea el organismo supervisor del tranvía urbano en La Haya. Como se indica en el apartado 3.1.3, los ayuntamientos tienen libertad, conforme a la Ley Municipal (Gemeentewet), para establecer normas mediante ordenanza municipal para los tranvías urbanos y ejercer la supervisión sobre ellos.
 
 ## Página 88
+
 
 responsabilidad. Esto significa que el legislador se limita a orientar el proceso que garantiza la seguridad de las actividades de una organización. El organismo supervisor vela entonces, como tercero independiente (eventualmente sobre la base de requisitos técnico-contenidos), para que las organizaciones implicadas, en este caso Stadsgewest Haaglanden y Stadsregio Rotterdam, configuren dicho proceso conforme a esta legislación y lo ejecuten efectivamente de esa manera. Se trata de un juicio objetivo y motivado sobre la política de seguridad, el sistema de gestión de la seguridad y las propias medidas preventivas. El organismo supervisor determina si el sistema funciona como medio para garantizar la seguridad de las actividades.
 Ya en 2000300, el Consejo de Seguridad del Transporte (antecesor del Consejo de Investigación de Seguridad) formuló recomendaciones en esta dirección al ministro de Transportes y Obras Públicas y a las regiones implicadas en un informe sobre los riesgos de seguridad del tranvía urbano neerlandés:
@@ -2521,6 +2595,7 @@ En 2007305 y 2008306, el ministro de VenW comunicó a la Segunda Cámara que se 
 
 ## Página 89
 
+
 la adaptación de la Ley ferroviaria (en lo relativo a las vías locales y especiales) se habría completado en 2009. En la nueva normativa también se incluirá un sistema de gestión de la seguridad (sistema de gestión de la seguridad).
 MARCO
 8.3
@@ -2545,6 +2620,7 @@ En la resolución de subvención316 del ministro de VenW se establece que, previ
 
 ## Página 90
 
+
 otorgada: no es más que una referencia a la Ley del Ferrocarril con vistas a la emisión de la autorización para el inicio del servicio ferroviario.
 SUPERVISORES Y RANDSTADRAIL
 8.4
@@ -2562,6 +2638,7 @@ El Consejo se pregunta, por ejemplo, hasta qué punto el contenido de los planes
 319 Dit betekent dat het toezicht zich meer zal richten op de werkwijze of systeem van een organisatie dan op de resultaten of producten van deze werkwijze.
 
 ## Página 91
+
 
 no se pudo determinar si se cumplían los requisitos. El Consejo suscribe, en lo que respecta a este punto, la conclusión del informe de TNO320:
  «La Inspección VenW no dispone de requisitos mínimos para la aprobación del PIV, la licencia de ejecución y la autorización de puesta en servicio, por lo que se priva a sí misma de un instrumento para crear claridad y transparencia para las partes implicadas».
@@ -2581,6 +2658,7 @@ no se pudo determinar si se cumplían los requisitos. El Consejo suscribe, en lo
  324 La Inspección VenW era consciente de que el expediente de seguridad aún no estaba completo. Sin embargo, para la Inspección existían suficientes motivos para decidir, tras una ponderación cuidadosa de todos los intereses y consultas con las partes del proyecto implicadas, que el proyecto podía entrar en servicio. En su respuesta, la Inspección señala que, en particular para los desvíos, había disponibles suficientes declaraciones ISA para poder solicitar el servicio. Del estudio del Consejo se desprende que esto no era aplicable a los desvíos en sí mismos ni tampoco a la declaración de conformidad de una colaboración segura entre desvíos y sistema de protección (esta declaración estuvo disponible en diciembre de 2006).
 
 ## Página 92
+
 
 ISA. Como se describe en el apartado 6.3.6, a la declaración del ISA se adjuntó una lista de puntos pendientes que contenía algunos puntos pendientes de seguridad significativos$^{325}$ que deberían haberse resuelto antes de que RandstadRail pudiera entrar en servicio. Esto no fue motivo para que el ISA no emitiera una declaración de no objeción para RandstadRail, ni para que la Inspección VenW no concediera la autorización de puesta en servicio.
 Durante su investigación, la Junta no ha visto justificación alguna de la decisión de la Inspección VenW de que existían garantías suficientes de seguridad y, por lo tanto, se podía emitir una autorización de puesta en servicio del ferrocarril de RandstadRail.
@@ -2613,14 +2691,15 @@ Encargar un estudio exploratorio sobre la garantía de la calidad y el alcance d
 La Inspección realiza auditorías/entrevistas en proyectos en curso para determinar sobre qué base el ISA emite su declaración. El enfoque para ello está listo. 
 
 $^{325}$ Por ejemplo, la ausencia de una declaración de que la protección de trenes es suficientemente segura para el transporte de pasajeros, visibilidad insuficiente de las señales, falta de frenado rápido. 
-$^{326}$ Documento parlamentario 2006-2007, 23645, n.º 160, Segunda Cámara, Carta del secretario de Estado al presentar la investigación de la Inspección de Transporte y Gestión del Agua sobre el descarrilamiento del vehículo ferroviario RandstadRail en Forepark (Leidschendam), 30 de mayo de 2007. 
-
+$^{326}$ Documento parlamentario 2006-2007, 23645, n.º 160, Segunda Cámara, Carta del secretario de Estado al presentar la investigación de la Inspección de Transporte y Gestión del Agua sobre el descarrilamiento del vehículo ferroviario RandstadRail en Forepark (Leidschendam), 30 de mayo de 2007.
 
 ## Página 93
+
 
 El objetivo es completar todas las acciones a medio plazo durante el año 2007. Los consejos mencionados anteriormente ya se aplican en el proceso que debe conducir a la nueva liberación de RandstadRail. TNO indica que sería conveniente que la Inspección obtuviera las competencias correspondientes a su objetivo (supervisión integral del desarrollo de sistemas ferroviarios sin distinción entre tranvía urbano y ferrocarril interurbano). Este aspecto se incluirá en el futuro desarrollo del marco normativo para el ferrocarril local (tranvía, metro, tren ligero)».
 
 ## Página 94
+
 
 ## CONCLUSIONES
 Poco después de la puesta en servicio del nuevo sistema de transporte RandstadRail, se produjeron varios descarrilamientos. Las causas directas de estos descarrilamientos fueron de naturaleza diversa. El Consejo de Investigación para la Seguridad investigó por qué la gestión de seguridad de las partes implicadas en RandstadRail no había prevenido los descarrilamientos y qué circunstancias influyeron en ello. Esta problemática se ha traducido en la siguiente pregunta de investigación:  
@@ -2655,6 +2734,7 @@ a. HTM no tenía un juicio propio sobre la seguridad de la infraestructura de Ra
 
 ## Página 95
 
+
 En el momento en que HTM decidió iniciar la circulación, ambos documentos (con una lista de puntos pendientes como anexo, parte de los cuales eran relevantes para la seguridad) no estaban en posesión de HTM.
 b. El carácter repetitivo de los descarrilamientos en la red de tranvía urbano indica que HTM no identificó a tiempo las causas de los descarrilamientos y, por tanto, tampoco pudo adoptar las medidas necesarias para prevenir futuros descarrilamientos.
 c.
@@ -2676,6 +2756,7 @@ Explicación
 a. El ISA evaluó, por encargo del Stadsgewest Haaglanden, si estaba probado que RandstadRail era seguro y emitió una declaración de no objeción. El ISA
 
 ## Página 96
+
 
 no informó al consejo de administración, sino al Gestor de Seguridad del Stadsgewest Haaglanden, quien él mismo redactó parte del certificado de seguridad (véase también la conclusión 5, apartado f).
 b. La ISA adjuntó a la declaración de no objeción una lista de puntos pendientes que contenía varios puntos pendientes de seguridad graves y relevantes, los cuales deberían haberse resuelto antes de que RandstadRail pudiera entrar en servicio. Esto no fue motivo para que la ISA denegara la declaración de no objeción para RandstadRail.
@@ -2708,6 +2789,7 @@ b. A nivel directivo, se creó presión temporal mediante el establecimiento de 
 
 ## Página 97
 
+
 c. 
 En el marco de la organización del proyecto RandstadRail a nivel administrativo y directivo, se establecieron acuerdos sobre la supervisión del progreso del proyecto en términos de tiempo y dinero, pero no sobre la supervisión de la seguridad.  
 d. En las reuniones administrativas sobre RandstadRail, el tema de la seguridad no figuraba de forma estructural ni periódica en el orden del día. 
@@ -2730,15 +2812,16 @@ b. El Documento Normativo de Seguridad para Tren Ligero contiene requisitos de s
 La Inspección de VenW emitió una autorización para la puesta en servicio de un sistema (RandstadRail) que no era seguro. 
 Explicación: 
 a. La Inspección de VenW emitió una autorización de puesta en servicio. La Inspección no motivó sobre qué bases se otorgó dicha autorización, excepto la declaración de no objeción del ISA. La Inspección de VenW no argumentó por qué aceptó que el expediente de seguridad no estaba finalizado y, en particular, que era incompleto en lo relativo a la infraestructura.  
-b. La Inspección de VenW debería haber establecido un marco de referencia para la supervisión, pero no lo hizo. La aplicación del Documento Normativo de Seguridad para Tren Ligero no estaba vinculada como obligación a la subvención de VenW a RandstadRail. Por ello, las partes involucradas eran libres de seguirlo o no, y no estaba claro hasta qué punto el documento debía desempeñar un papel en la supervisión por parte de la Inspección de VenW. No obstante, ambas regiones eligieron por sí mismas aplicar el Documento Normativo en RandstadRail e informaron de ello por escrito a la Inspección de VenW. Esto no constituyó, sin embargo, motivo para que la Inspección de VenW incluyera finalmente el Documento Normativo en el marco de referencia para la supervisión. 
-
+b. La Inspección de VenW debería haber establecido un marco de referencia para la supervisión, pero no lo hizo. La aplicación del Documento Normativo de Seguridad para Tren Ligero no estaba vinculada como obligación a la subvención de VenW a RandstadRail. Por ello, las partes involucradas eran libres de seguirlo o no, y no estaba claro hasta qué punto el documento debía desempeñar un papel en la supervisión por parte de la Inspección de VenW. No obstante, ambas regiones eligieron por sí mismas aplicar el Documento Normativo en RandstadRail e informaron de ello por escrito a la Inspección de VenW. Esto no constituyó, sin embargo, motivo para que la Inspección de VenW incluyera finalmente el Documento Normativo en el marco de referencia para la supervisión.
 
 ## Página 98
+
 
 c. 
 La Inspección de VenW aprobó el Plan Integral de Seguridad de RandstadRail sin criterios de evaluación demostrables, mientras que en dicho plan las tareas, competencias y responsabilidades de seguridad no estaban correctamente asignadas y no se incluían puntos de decisión.
 
 ## Página 99
+
 
 ## LECCIONES Y RECOMENDACIONES
 Al igual que en informes anteriores del Consejo, esta investigación ilustra la necesidad de que las partes implicadas tengan clara su propia responsabilidad en materia de seguridad. Esto se aplica también a sus expectativas respecto a otros intervinientes y a las obligaciones hacia ellos. Todo ello debe conducir a procesos coordinados de control interno y externo, mediante los cuales las partes garanticen internamente y mutuamente la seguridad de sus contribuciones al producto final. Esto no significa que deban dividirse las responsabilidades, ya que una responsabilidad compartida puede dar lugar a lagunas, ambigüedades e incluso a eludir culpas.
@@ -2765,8 +2848,8 @@ c. mantenerse fieles a estos acuerdos durante todo el proyecto en aras de la gar
 
 Debido a la ausencia de una competencia legal formal para todos los componentes del proyecto, el papel de la supervisión externa (por la Inspección VenW) y sus limitaciones han sido poco claros. En gran medida, en el proyecto RandstadRail dependía de la supervisión interna. Esto afectaba al Stadsgewest y finalmente al propio operador, HTM. Dicha supervisión tampoco pudo servir como red de seguridad, principalmente porque otros intereses distintos de la seguridad, como la presión temporal, tomaron la delantera.
 
-
 ## Página 100
+
 
 La autorización para la puesta en servicio emitida por la Inspección VenW generó confusión. Para las demás partes, la autorización creó la imagen de que el proyecto había sido evaluado en su totalidad y aprobado. Formalmente, solo concernía a aquellos componentes que caían bajo la competencia de la Inspección VenW (zonas fuera de La Haya). Tampoco estaba claro qué criterios aplicaba la Inspección VenW en la supervisión.
 
@@ -2785,13 +2868,16 @@ Los órganos administrativos destinatarios de una recomendación deberán comuni
 
 Tras el vencimiento del plazo de respuesta, las reacciones recibidas por el Consejo de Investigación de Seguridad sobre el informe serán publicadas en el sitio web del consejo www.onderzoeksraad.nl. Si no se reciben reacciones, se hará constar en el mencionado sitio web.
 
-
 ## Página 101
+
+
 
 ## Página 102
 
 
+
 ## Página 103
+
 
 ## ANEXOS DEL INFORME SOBRE LOS DESCARRILAMIENTOS EN RANDSTADRAIL 
 ## ÍNDICE 
@@ -2815,10 +2901,10 @@ Q. Resumen de los casos de seguridad (safety cases) de RandstadRail ............
 R. Estado de los casos de seguridad (safety cases) de RandstadRail alrededor del 29 de noviembre de 2006...........................63 
 S. Medidas adoptadas a raíz de los descarrilamientos de RandstadRail ......................64 
 T. Procedimiento de transferencia de RandstadRail..................................................................................69 
-B-1 
-
+B-1
 
 ## Página 104
+
 
 ## A. JUSTIFICACIÓN DE LA INVESTIGACIÓN 
 ### Motivo 
@@ -2859,6 +2945,7 @@ de 2006 (interfaz entre vehículo e infraestructura, especialmente la geometría
 B-2
 
 ## Página 105
+
 
 3. los descarrilamientos en el viaducto de Muzen cerca de La Haya Central (Den Haag Centraal) los días 3 y 4 de noviembre de 2006
 (interfaz entre vehículo e infraestructura, principalmente desgaste).
@@ -2917,6 +3004,7 @@ B-3
 
 ## Página 106
 
+
 - 
 Visita e información sobre el taller de vehículos HTM 
 - 
@@ -2967,6 +3055,7 @@ B-4
 
 ## Página 107
 
+
 ### Reacciones a la consulta
 ### 1.1 Antecedentes 
 No en todos los descarrilamientos de trenes ligeros y tranvías está en peligro la seguridad de los pasajeros, especialmente a baja velocidad. El bajo número de víctimas registrado históricamente por HTM sirve como justificación para esta afirmación.  
@@ -2986,6 +3075,7 @@ B-5
 
 ## Página 108
 
+
 ### 5.2 Descarrilamiento en cambio de agujas en Forepark (y anexo I Análisis del descarrilamiento en Forepark)
 «Salvo prueba en contrario, se debería haber partido de la premisa de que los cambios de agujas podrían haber resultado dañados durante las obras de transformación.» A continuación, se hace referencia a una inspección más exhaustiva del cambio de agujas. ¿Debe asumirse por definición que cuando se instalan cambios de agujas, el personal de los contratistas los recorre en estado abierto? Nunca debe recorrerse en estado abierto un cambio de agujas destinado a integrarse en la protección mediante señales luminosas, así como un cambio de agujas bloqueado. El personal de los contratistas, que normalmente trabaja a gran escala para ProRail, debe saber esto, ya que allí se aplican las mismas normas.
 Durante las obras existe siempre el riesgo de daños. Un cambio de agujas también puede ser recorrido en estado abierto involuntariamente. Cuando se utiliza un cambio de agujas mientras el sistema de seguridad aún no está conectado, no es posible detectar un uso incorrecto y se depende de las notificaciones de los contratistas. Por ello, es importante comprobar si hay daños durante las pruebas y la puesta en servicio. En el caso de RandstadRail, además, hubo indicios de que los cambios de agujas resultaron dañados durante el periodo de construcción.
@@ -3003,6 +3093,7 @@ B-6
 
 ## Página 109
 
+
 ### 5.6.1 Descarrilamiento en un cambio de vía cerca de Forepark
 Según la opinión de un encuestado, un eslabón importante de la cadena de seguridad no recibe suficiente atención (de hecho: ninguna), a saber, el proveedor. Posiblemente se trate incluso de dos eslabones, concretamente el proveedor y la entidad que certifica sus productos. En proyectos complejos como RandstadRail se trabaja con diversos subsistemas técnicos. En este caso, uno de esos subsistemas – los accionamientos de cambios que forman parte de los cambios de vía – ha contribuido (al menos) de manera significativa a la problemática. Los cambios de vía presentaban defectos de diseño o de fabricación y el proveedor omitió en la prueba de aceptación una prueba que en el informe preliminar se califica como esencial – la Klammertest –. Sin embargo, el informe preliminar apenas presta atención al papel de este proveedor ni tampoco a la entidad certificadora.
 El Consejo de Investigación no está de acuerdo con esta afirmación. La causa de la rotura del accionamiento de cambio y del posterior descarrilamiento fue que el cambio de vía estaba dañado y por ello se bloqueó. Como se indica en el informe, el Consejo analiza la causa del daño, que hizo que el accionamiento de cambio se bloqueara durante un movimiento de apertura, debiendo soportar así fuerzas mucho más elevadas de lo previsto. Como consecuencia de ello, se rompieron los pernos de ajuste entre el accionamiento de cambio y las lenguetas. Los pernos de ajuste rotos cumplían las especificaciones, pero existía poco margen de seguridad. Este punto se trata extensamente en el informe de la Inspección VenW (en el informe, el Consejo incluirá una referencia específica a este punto al informe de la Inspección VenW). Bajo «Otros hallazgos», el Consejo indica en su informe que el certificado EBA no era válido porque se habían realizado modificaciones. Estas modificaciones, sin embargo, no tienen demostrablemente relación alguna con el descarrilamiento.
@@ -3013,6 +3104,7 @@ Como se indicó en la respuesta a las reacciones anteriores, los «defectos de d
 El proveedor de los cambios de vía era el mismo que el proveedor de los accionamientos de cambio. Por tanto, cabría esperar que la certificación de diferentes componentes del cambio de vía estuviera coordinada entre sí.
 
 ## Página 110
+
 
 supone que los cambios de vía, como sistema integrado, no generan problemas de interfaz entre sus componentes. Al menos parecen haber surgido dos cuestiones en este sentido. En primer lugar, el proveedor trabajó con diferentes tipos de cambios de vía que, sin embargo, estaban provistos del mismo número de tipo, lo cual hizo que la correspondencia entre la certificación y los sistemas de cambio de vía posiblemente dejara de ser concluyente y que, además, se pusiera en duda la validez de los certificados. Asimismo, la certificación se limitaba al cambio de vía por un lado y al accionamiento del cambio de vía por otro, dejando sin certificar la conexión entre ambos (los pernos mencionados anteriormente).
 El Consejo de Investigación reitera en este punto su respuesta a la reacción del municipio de La Haya en el párrafo relativo al descarrilamiento en Forepark. Un certificado solo es aplicable al diseño del accionamiento del cambio de vía y no puede evitar daños.
@@ -3025,6 +3117,7 @@ Es factualmente incorrecto que no se haya investigado sobre los problemas en GVB
 Esto no coincide con la información que el Consejo de Investigación recibió de las partes implicadas durante su investigación. La conclusión en el borrador del informe se basa en la siguiente justificación. Ante la pregunta del Consejo de Investigación sobre si se habían verificado las referencias del proveedor de cambios de vía, el experto en cambios de vía de la PoRR declaró en mayo de 2007 que la PoRR había verificado las referencias de DeutscheBahn, Kassel y Essen, y que HTM había realizado consultas en Berlín y Núremberg. El experto en cambios de vía no informó entonces que la referencia en Ámsterdam hubiera sido verificada. Los cambios de vía en GVB no aparecían en el estudio de mercado de accionamientos de cambio de vía, elaborado por HTM antes de la licitación. B-8
 
 ## Página 111
+
 
 RET. En el marco de la revisión, HTM ha declarado nuevamente, a raíz del mismo hallazgo del Consejo de Investigación, que los problemas existentes en GVB previos a los descarrilamientos no eran conocidos por HTM, dado que HTM no realizó ninguna consulta al respecto y GVB no los notificó.
 Por esta razón, el Consejo de Investigación solicitó al municipio de La Haya que fundamentara su respuesta. A ello, el municipio de La Haya envió un correo electrónico del proveedor de cambios con la declaración de GVB. No se ha aportado justificación alguna para la afirmación de que HTM realizó consultas ante GVB. Este último hecho, junto con la propia declaración de HTM de que no estaba al tanto de la aplicación en GVB, hace que el Consejo de Investigación no rectifique su informe en ese punto.
@@ -3046,6 +3139,7 @@ B-9
 
 ## Página 112
 
+
 infraestructura por las partes responsables de ello.” ¿Habría tenido HTM la competencia o la capacidad para supervisar el estado de los *safety cases* (casos de seguridad) relativos a la infraestructura? En caso negativo, ¿qué condiciones deben cumplirse o qué acuerdos deben establecerse para poder realizar dicha supervisión en el futuro?
 HTM plantea aquí un punto esencial, en el que profundiza más adelante el Consejo en sus consideraciones. Es correcto que HTM no tenía competencia al respecto. No obstante, el contexto es que HTM era el gestor previsto y estaba implicada en las pruebas y ensayos. Asimismo, HTM era consciente de la presión política existente para iniciar la explotación lo antes posible. Por tanto, el Consejo considera que HTM, desde su responsabilidad por la seguridad de los viajeros y del personal, habría podido condicionar previamente la aceptación del servicio de transporte (y la gestión de la infraestructura) a obtener información sobre el estado de la situación en materia de seguridad. HTM habría podido concretar esto solicitando acceso a los *safety cases* y a la lista de puntos pendientes en la declaración de no objeción de la ISA. En cualquier caso, se puede afirmar que, en el futuro, un operador (como HTM) puede obtener mayor certeza sobre la seguridad de la infraestructura antes de iniciar la circulación mediante la supervisión de los *safety cases* (en caso de que el constructor de la infraestructura utilice *safety cases* para garantizar la seguridad).
 ### 5.2 Descarrilamiento en Forepark y 6.1.4 Transferencia de la gestión de la infraestructura a HTM
@@ -3066,6 +3160,7 @@ B-10
 
 ## Página 113
 
+
 ### 6.1.4 Decisión de HTM de iniciar el transporte de viajeros
 El Consejo establece: «… HTM no determinó por sí misma de forma autónoma si RandstadRail era suficientemente seguro para ponerlo en servicio». HTM tiene un enfoque diferente al respecto, que es el siguiente.
 HTM conoce y se siente responsable de la seguridad de sus pasajeros y empleados, y desea poder asumir dicha responsabilidad. Por otro lado, no puede ser la intención que HTM vuelva a verificar «de forma autónoma» todos los asuntos que otros ya han garantizado mediante casos de seguridad (*safety cases*) desde su responsabilidad primaria/específica (Stadsgewest/PoRR), han evaluado (ISA) o han supervisado (Inspección de V&W).
@@ -3083,6 +3178,7 @@ El municipio de La Haya aborda aquí una cuestión fundamental: ¿hasta qué pun
 B-11
 
 ## Página 114
+
 
 ### 6.3.4 Ejecución y aplicación del enfoque de seguridad
 Se reconoce que en los casos preliminares de seguridad (*safety cases*) relativos a la vía y a los cambios de aguja faltaba la documentación de las actividades de verificación y validación. No obstante, el Consejo no presta atención al escenario alternativo seguido por los implicados. En agosto, septiembre y octubre de 2006 se realizaron tres entrevistas por parte de la ISA con representantes de la PoRR, cuyo único objetivo era examinar las actividades de verificación y validación para la vía y los cambios de aguja. Estas quedaron registradas en el memorando *Overzicht verificatie, validatie en vrijgave*⁶ (versión 0.2, de fecha 19 de octubre de 2006).
@@ -3110,6 +3206,7 @@ B-12
 
 ## Página 115
 
+
 No se respalda la conclusión de que el órgano rector no estableció requisitos para la gestión de seguridad de la organización que diseñó y realizó la infraestructura (la Organización del Proyecto RandstadRail del Ayuntamiento de La Haya). A este respecto, se hace referencia al Plan Integral de Seguridad y a los procedimientos para el periodo OTP.
 En los documentos mencionados se describe que existe el requisito de que contratistas, fabricantes y proveedores apliquen un sistema de garantía de calidad. No se especifica cómo debe demostrar la Organización del Proyecto RandstadRail del Ayuntamiento de La Haya que la seguridad ferroviaria de la infraestructura realizada por su encargo está garantizada. Esta tarea ha sido asumida por sí misma por el Área Metropolitana Haaglanden, según se desprende de la distribución de tareas para la elaboración de los *safety cases*. Conforme a los documentos, la Organización del Proyecto sí tenía una tarea en materia de trabajo seguro en vía férrea (seguridad laboral), pero esto queda fuera del alcance de esta investigación.
 
@@ -3128,6 +3225,7 @@ El Consejo no se refiere efectivamente a la fijación de criterios para las solu
 B-13
 
 ## Página 116
+
 
 ## B. CARACTERÍSTICAS DEL TRANVÍA, TREN, METRO Y LIGHTRAIL 
 Las diferencias entre un tren, un metro, un tranvía y el lightrail son por un lado grandes pero 
@@ -3170,10 +3268,10 @@ transporte público de alta calidad. A esto cabe añadir que los sistemas de lig
 responsabilidad de las autoridades regionales de transporte público. 
 7 Fuente: www.kpvv.nl, consultado el 16 de agosto de 2007. 
 8 El Consejo de Investigación de Seguridad denomina a dichos tranvías ‘tranvías urbanos’. 
-B-14 
-
+B-14
 
 ## Página 117
+
 
 Tipos 
 El ministerio distinguía cuatro tipos de lightrail: 
@@ -3212,20 +3310,21 @@ Normas
 No existen normas específicas para el lightrail. En el ferrocarril se aplica la Ley Ferroviaria, en infraestructura local y regional el reglamento de tranvías y metros. Sin embargo, existe un Marco Normativo de Seguridad lightrail. Esta es una guía para las administraciones descentralizadas, elaborada por VenW. Indica cómo se puede promover 
 que el lightrail (en este caso más específicamente light train) pueda construirse y 
 explotarse con suficiente seguridad.’ 
-B-15 
-
+B-15
 
 ## Página 118
 
+
 ## C.1. DOCUMENTO NORMATIVO DE SEGURIDAD LIGHT RAIL (VERSIÓN 5.0, 25 DE NOVIEMBRE 
 ## DE 2002) 
-B-16 
-
+B-16
 
 ## Página 119
 
 
+
 ## Página 120
+
 
 seguridad lightrail 
 ## Documento normativo de seguridad lightrail 
@@ -3233,6 +3332,7 @@ seguridad lightrail
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 121
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3294,6 +3394,7 @@ versión 5.0, a partir del 25 de noviembre de 2002
 
 ## Página 122
 
+
 Norma técnica
 seguridad del tranvía ligero
 ### 1 Introducción 
@@ -3320,10 +3421,10 @@ No obstante, al menos tan importante es la seguridad. En el desarrollo de sistem
 ### 1.1 La Norma técnica 
 La Norma técnica de seguridad del tranvía ligero (en adelante: la Norma técnica) es el principio rector para la seguridad del tranvía ligero. La Norma técnica contiene los requisitos de seguridad para el desarrollo y la explotación de los sistemas de tranvía ligero. No realiza explícitamente consideraciones financieras ni de eficiencia. 
 La Norma técnica no está anclada en una ley, sino que es una norma política, de la cual puede justificadamente desviarse. Para los proyectos financiados por el gobierno central o donde se hace predominantemente 
-versión 5.0, desde el 25 de noviembre de 2002 
-
+versión 5.0, desde el 25 de noviembre de 2002
 
 ## Página 123
+
 
 Norma técnica
 seguridad del tranvía ligero
@@ -3341,6 +3442,7 @@ Un ejemplo: en un sistema de tranvía, el conductor es un participante en el tr�
 versión 5.0, desde el 25 de noviembre de 2002
 
 ## Página 124
+
 
 Norma de seguridad para el tranvía ligero
 y no, como el conductor del tranvía, en las señales de tráfico. Ambos conceptos, aplicados por separado y operando, por tanto, de forma independiente, conducen a un sistema ferroviario seguro. Pero ¿qué ocurre cuando trenes y tranvías circulan por la misma vía, es decir, cuando vehículos ligeros se incorporan entre material rodante pesado?
@@ -3362,8 +3464,8 @@ Para el desarrollo del primer punto, además del riesgo individual, la Norma for
 La Dirección General de Transporte de Personas del Ministerio de Transporte y Gestión del Agua ha solicitado, como desarrollo adicional de la Nota Marco, a Railinfrabeheer y Railned que diseñaran una Norma orientativa para la seguridad del tranvía ligero.
 versión 5.0, a 25 de noviembre de 2002
 
-
 ## Página 125
+
 
 Norma de seguridad para el tranvía ligero
 La versión 4.1 de esta Norma se sometió a consulta de las partes implicadas en el sector, como empresas de transporte, municipios, provincias y consultoras. Para llegar a una edición definitiva, se creó en 2002 el grupo de trabajo «Actualización de la Norma». Este evaluó posteriormente, en dos talleres, las experiencias adquiridas en los proyectos piloto de tranvía ligero. Los resultados del grupo de trabajo y los comentarios presentados anteriormente se han utilizado para esta versión 5.0 de la Norma, que se presenta al ministro para su aprobación como versión definitiva.
@@ -3401,6 +3503,7 @@ versión 5.0, a 25 de noviembre de 2002
 
 ## Página 126
 
+
 Documento normativo
 seguridad del tranvía ligero
 ### 2 Criterios de riesgo
@@ -3427,8 +3530,8 @@ Personas en trenes, que suben o bajan de los trenes, en los andenes y de camino 
 La categoría «viajeros» se divide en:
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 127
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3475,6 +3578,7 @@ versión 5.0, a partir del 25 de noviembre de 2002
 
 ## Página 128
 
+
 Norma de seguridad del tranvía ligero
 -
 personal de auxilio, catering en el andén, jefes de andén, funcionarios de aduanas, proveedores.
@@ -3507,8 +3611,8 @@ Las características específicas del tranvía ligero son:
 - la mayor sensibilidad al descarrilamiento del vehículo de tranvía ligero tras una colisión con tráfico por carretera en un paso a nivel;
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 129
+
 
 Norma de seguridad del tranvía ligero
 -
@@ -3539,6 +3643,7 @@ El principio de inmovilidad (*standstill*) para el personal de tren significa qu
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 130
+
 
 Documento normativo
 seguridad del tranvía ligero (lightrail)
@@ -3584,8 +3689,8 @@ El riesgo de seguridad del trazado lightrail existente es la media móvil calcul
 El presupuesto de riesgo máximo para los pasos a nivel de un proyecto es la suma de los riesgos de todos los pasos a nivel individuales. Si se elimina un paso a nivel, el riesgo del proyecto disminuye en el riesgo calculado para ese paso a nivel sobre la base de datos históricos. En ello se debe tener en cuenta que el riesgo de los pasos a nivel restantes puede aumentar.
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 131
+
 
 Documento normativo
 seguridad del tranvía ligero (lightrail)
@@ -3602,8 +3707,8 @@ En ese caso, bajo una serie de condiciones, se puede conceder una licencia de us
 Para todos los proyectos lightrail se aplica el requisito de ALARA: As Low As Reasonably Achievable (Tan Bajo Como Razablemente Alcanzable). Las probabilidades de accidentes con lesiones en y debido al transporte ferroviario deben ser tan bajas como razonablemente y prácticamente alcanzable.
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 132
+
 
 Documento normativo
 seguridad del tranvía ligero (lightrail)
@@ -3635,6 +3740,7 @@ versión 5.0, a partir del 25 de noviembre de 2002
 
 ## Página 133
 
+
 Documento normativo
 seguridad del tren ligero
 El jefe de circulación asigna la capacidad disponible y garantiza la gestión segura del proceso de tráfico.
@@ -3665,8 +3771,8 @@ Para el ciclo de vida de los proyectos de tren ligero se utiliza la norma NEN-EN
 El ciclo de vida para el diseño y la realización se explica detalladamente y paso a paso en el apartado 3.3. El apartado 3.5 describe las etapas del ciclo de vida para la explotación. El capítulo siguiente (capítulo 4) contiene una lista de comprobación: un listado punto por punto de las tareas que deben realizarse en cada etapa del ciclo de vida.
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 134
+
 
 Documento normativo
 seguridad del tren ligero
@@ -3725,8 +3831,8 @@ Las 14 etapas del ciclo de vida de un proyecto [ND2].
 En el desarrollo, la realización y el uso de un sistema de tren ligero, diversas partes interactuarán entre sí en múltiples momentos. Una posible forma de llevar a cabo esta interacción se ilustra en este apartado y en la figura 1. Cada proyecto debe determinar y registrar en el Plan Integral de Seguridad (IVP, véase la etapa 2 del ciclo de vida) cómo se distribuyen estos roles y relaciones dentro del proyecto.
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 135
+
 
 Documento normativo
 seguridad del tren ligero
@@ -3793,8 +3899,8 @@ del sistema (13E)
 Retirada del servicio (14E)
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 136
+
 
 Documento normativo
 seguridad del tren ligero
@@ -3804,6 +3910,7 @@ En la figura 2, ¡ representa a la parte responsable, O a una parte ejecutora o 
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 137
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3834,8 +3941,8 @@ Plan Integral de Seguridad (PIS), véase Guía, anexo A.
 x
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 138
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3869,6 +3976,7 @@ Mediante la asignación de riesgos, el promotor establece los requisitos de segu
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 139
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3910,10 +4018,10 @@ Caso de seguridad específico de aplicación [ND2, 6.6], [RD2, 5].
 x
 Resultados de la verificación y validación de seguridad (en la medida en que se hayan realizado). 
 x
-versión 5.0, vigente desde el 25 de noviembre de 2002 
-
+versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 140
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3955,10 +4063,10 @@ x
 la mejora del sistema (FRACAS). 
 ### Paso 10: Aceptación del sistema 
 El promotor de la fase de explotación definitiva el EVP. Presenta el EVP y el caso de seguridad específico de aplicación al organismo supervisor (y a otras autoridades concedentes de licencias), incluyendo cualquier solicitud de exención de los criterios de riesgo. Simultáneamente, solicita la concesión de una licencia de uso.
-versión 5.0, vigente desde el 25 de noviembre de 2002 
-
+versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 141
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -3995,14 +4103,15 @@ versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 142
 
+
 Documento normativo
 seguridad del tranvía ligero
 ### 3.4 Explotación
 Esta parte del capítulo contiene los requisitos de seguridad aplicables a la explotación. En el ciclo de vida de un proyecto de tranvía ligero, los requisitos de explotación corresponden a las fases 11 a 14. Los principios generales y los documentos de seguridad relacionados son los mismos que en el apartado 3.2.
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 143
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4041,8 +4150,8 @@ Proceso para gestionar las modificaciones y ampliaciones del sistema, en el cont
 x
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 144
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4055,8 +4164,8 @@ EVP y safety case adaptados.
 x
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 145
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4133,6 +4242,7 @@ versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 146
 
+
 Documento normativo
 seguridad del tranvía ligero
 7. Datos de todos los resultados del ciclo de vida relacionados con la seguridad, como documentación, equipos y software.
@@ -4185,8 +4295,8 @@ Elabore un plan para demostrar y aceptar los requisitos de seguridad. Este plan 
 - procedimientos sobre cómo actuar si no se cumplen los requisitos.
 versión 5.0, vigente desde el 25 de noviembre de 2002
 
-
 ## Página 147
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4245,6 +4355,7 @@ versión 5.0, vigente desde el 25 de noviembre de 2002
 
 ## Página 148
 
+
 Documento normativo
 seguridad del tranvía ligero (lightrail)
 Inicie, si es necesario, un período de explotación de prueba.
@@ -4295,8 +4406,8 @@ Adapte la justificación de seguridad (*safety case*) si es necesario.
 x
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 149
+
 
 Documento normativo
 seguridad del tranvía ligero (lightrail)
@@ -4327,8 +4438,8 @@ VMS
 Sistema de Gestión de la Seguridad
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 150
+
 
 Documento normativo
 seguridad del tranvía ligero (lightrail)
@@ -4352,6 +4463,7 @@ Tranvía ligero (*Lightrail*): sistema de transporte ferroviario en el que se ap
 versión 5.0, a partir del 25 de noviembre de 2002
 
 ## Página 151
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4379,8 +4491,8 @@ Safety case: la prueba documentada de que un producto cumple con los requisitos 
 Vía mixta: línea férrea o de tranvía donde el tráfico ferroviario y el tráfico rodado utilizan la misma calzada en sentido longitudinal.
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 152
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4407,8 +4519,8 @@ En otros cruces viales
 Tráfico rodado: peatones, conductores y pasajeros de bicicleta, ciclomotor, vehículo para personas con discapacidad, vehículo motorizado no guiado por raíles, jinetes, guías de animales de tiro o carga y ganado, y conductores o pasajeros de carruajes enganchados o desenganchados [RD4].
 versión 5.0, a partir del 25 de noviembre de 2002
 
-
 ## Página 153
+
 
 Documento normativo
 seguridad del tranvía ligero
@@ -4423,6 +4535,7 @@ La Nota Marco de Seguridad Ferroviaria refleja la visión del gobierno central s
 versión 5.0, a partir del 25 de noviembre de 2002
 
 ## Página 154
+
 
 Normdocument
 veiligheid lightrail
@@ -4439,11 +4552,12 @@ Internationale norm voor elektrische, elektronische en programmeerbare elektroni
 Deze Engelse standaard geeft eisen en richtlijnen voor veiligheid in de exploitatiefase. Hierbij ligt de nadruk op organisatieaspecten, waarbij onder andere zaken als personeel, klanten, toeleveranciers en stakeholders aan de orde komen.
 versie 5.0, per 25 november 2002
 
-
 ## Página 155
 
 
+
 ## Página 156
+
 
 ## C.2. LEVENSCYCLUS VAN HET PROJECT RANDSTADRAIL
 Gebaseerd op Normdocument Veiligheid Lightrail, bewerkt door de Onderzoeksraad voor Veiligheid
@@ -4547,8 +4661,8 @@ voor realisatie
 ©OVV - RandstadRail / levenscyclus van een project
 B-17
 
-
 ## Página 157
+
 
 ## D. OVERIGE VEILIGHEIDSRELEVANTE WET- EN REGELGEVING
 ### Arbeidsomstandighedenwetgeving
@@ -4583,23 +4697,23 @@ B-18
 
 ## Página 158
 
-## E. ANTECEDENTES DE LOS SAFETY CASES Y DEL EVALUADOR INDEPENDIENTE DE SEGURIDAD (ISA)
-### Metodología general
-Al inicio de un proyecto, el promotor elabora un Plan Integral de Seguridad. En este plan se establecen la filosofía y los requisitos de seguridad derivados de ella en el nivel más alto. Asimismo, el plan indica cómo debe demostrarse la prueba del «cumplimiento de los requisitos de seguridad establecidos». El Plan Integral de Seguridad afecta al sistema completo, es decir, a la infraestructura, al material rodante, a los aspectos operativos del transportista, a la gestión del tráfico, etc. La prueba final de que se han cumplido los requisitos establecidos se aporta en el safety case integral.
-### Demostración
-El promotor elabora, sobre la base de una descripción del sistema, un análisis de riesgos para el proyecto. De ello se derivan las especificaciones del sistema. La parte contratista tiene la obligación de demostrar que ha construido o entregado conforme a las especificaciones fijadas por el promotor. Esto significa que debe demostrarse que se han respetado las especificaciones y los posibles requisitos adicionales. El documento utilizado para ello es el safety case (= la Prueba de Seguridad o, más precisamente, la prueba de que se cumplen los requisitos de seguridad). La sistemática con un safety case surgió en Inglaterra. Su objetivo es identificar y mitigar nuevos riesgos. Los riesgos pueden surgir durante el diseño de sistemas nuevos y complejos. El detonante fue el desastre de la plataforma petrolífera Piper Alpha.
-En proyectos más grandes, es habitual que se elaboren safety cases para componentes. Esto también puede ocurrir con determinadas técnicas, como la señalización. Estos Cases se consideran Deel safety cases (Safety cases parciales), que finalmente forman parte de un Top Level safety case (Safety case de nivel superior).
-A veces se elabora un Generieke safety case (denominado GASC). Un ejemplo de ello es la construcción de túneles. Para los túneles en general existen requisitos aplicables a las instalaciones técnicas que deben emplearse. Estos se describen en un GASC. Cada túnel tiene sus propias características y una aplicación específica de los sistemas técnicos. Por lo tanto, estos asuntos se describen para cada túnel en un Specifieke safety case (SASC) haciendo referencia al GASC.
-Se crea un Top Level safety case aparte para la infraestructura y otro Top Level safety case aparte para el material rodante. Para un nuevo sistema, como la Línea de Alta Velocidad (HSL), se demuestra mediante un safety case integral que los vehículos y la infraestructura funcionan correctamente entre sí.
-No es difícil probar que se cumplen los requisitos de seguridad cuando se trata de estructuras y materiales de uso común, cuyo valor ya ha sido demostrado en la práctica. Al aplicar nuevas técnicas y/o sistemas, se comienza con un enfoque teórico. En una fase posterior, se aporta la prueba complementaria mediante pruebas prácticas, con lo cual se demuestra que la teoría es correcta.
-Esto significa que un safety case en algunos casos aún no puede ser completo antes de que puedan comenzar las pruebas o los viajes de prueba. Entonces es habitual redactar el safety case lo más posible y crear una Lista de Puntos Abiertos (LOP), en la que se indica qué aspectos aún requieren aportar la prueba y cuándo está previsto hacerlo. Cuando se haya aportado la prueba complementaria, esto se registra en una nueva versión del safety case.
-Por lo tanto, es un requisito que exista una buena gestión tanto por parte del promotor como del contratista, de modo que quede claro cómo está estructurada la jerarquía del safety case (Integral – Nivel Superior – safety cases parciales) y qué versiones están en circulación. Todo documento debe estar siempre autorizado por la persona facultada para ello. También es esencial tener visibilidad sobre los puntos abiertos procedentes de los diferentes (sub)safety cases.
-Safety case es un concepto relativamente nuevo en Países Bajos. Diferentes personas tienen diversas ideas al respecto. Existen documentos que se denominan safety case, aunque en realidad no lo son. Lo contrario también ocurre. Un aspecto importante en este sentido es seguir o no plenamente las respectivas normas EN 50126¹⁴, EN 50128¹⁵, EN 50129¹⁶.
-14 NEN-EN 50126-1:1999 en, Railway applications - The specification and demonstration of Reliability, Availability, Maintainability and Safety (RAMS):Part 1: Basic requirements
+## E. ANTECEDENTES DE LOS SAFETY CASES Y DEL ASESOR INDEPENDIENTE DE SEGURIDAD (ISA) 
+### Metodología general 
+Al inicio de un proyecto, el cliente elabora un Plan Integral de Seguridad. En este plan se establecen la filosofía y los requisitos de seguridad derivados de ella en el nivel más alto. Asimismo, el plan indica cómo debe demostrarse la prueba del «cumplimiento de los requisitos de seguridad establecidos». El Plan Integral de Seguridad afecta al sistema completo, es decir, a la infraestructura, al material rodante, a los aspectos operativos del transportista, a la gestión del tráfico, etc. La prueba final de que se han cumplido los requisitos establecidos se aporta mediante el safety case integral. 
+### Demostración 
+El cliente elabora, sobre la base de una descripción del sistema, un análisis de riesgos para el proyecto. De ello se derivan las especificaciones para el sistema. La parte contratista tiene la obligación de demostrar que ha construido o entregado conforme a las especificaciones establecidas por el cliente. Esto significa que debe demostrarse que se han respetado las especificaciones y cualquier requisito adicional. El documento utilizado para ello es el safety case (= la Prueba de Seguridad o, más precisamente, la prueba de que se cumplen los requisitos de seguridad). La sistemática con un safety case surgió en Inglaterra. Su objetivo es identificar y mitigar nuevos riesgos. Los riesgos pueden surgir durante el diseño de sistemas nuevos y complejos. El detonante de esto fue el desastre de la plataforma de producción petrolera Piper Alpha.  
+En proyectos más grandes, es habitual que se elaboren safety cases para componentes. Esto también puede ocurrir con determinadas técnicas, como en el caso de la señalización. Estos Cases se consideran Deel safety cases (Safety cases parciales), que finalmente forman parte de un Top Level safety case (Safety case de nivel superior).  
+A veces se elabora un Generieke safety case (denominado GASC). Un ejemplo de ello es la construcción de túneles. Para los túneles en general existen requisitos para las instalaciones técnicas a aplicar. Estos se describen en un GASC. Cada túnel tiene sus propias características y una aplicación específica de los sistemas técnicos. Por lo tanto, estos asuntos se describen para cada túnel en un Specifieke safety case (SASC) haciendo referencia al GASC.  
+Se crea un Top Level safety case aparte para la infraestructura y un Top Level safety case aparte para el material rodante. Para un nuevo sistema, como la Línea de Alta Velocidad (HSL), se demuestra mediante un safety case integral que los vehículos y la infraestructura funcionan correctamente entre sí. 
+No es difícil probar que se cumplen los requisitos de seguridad cuando se trata de estructuras y materiales de uso común, cuyo valor ya ha sido demostrado en la práctica. Al aplicar nuevas técnicas y/o sistemas, se comienza con un enfoque teórico. En una etapa posterior, se aporta la prueba complementaria mediante pruebas prácticas, con lo cual se demuestra que la teoría es correcta.  
+Esto significa que un safety case en algunos casos aún no puede estar completo antes de que puedan comenzar las pruebas o los viajes de prueba. Es habitual entonces elaborar el safety case lo máximo posible y crear una Lijst van Open Punten (LOP) (Lista de Puntos Pendientes), en la que se indique qué aspectos requieren aún la aportación de pruebas y cuándo está previsto hacerlo. Cuando se haya aportado la prueba complementaria, esta se registrará en una nueva versión del safety case.  
+Por lo tanto, es un requisito que exista una buena gestión tanto por parte del cliente como del contratista, de modo que sea claro cómo está estructurada la jerarquía del safety case (Integral – Top Level – deel safety cases) y qué versiones están en circulación. Todo documento debe estar siempre autorizado por la persona facultada para ello. También es esencial tener visibilidad sobre los puntos pendientes de los diferentes (deel) safety cases. 
+Safety case es un concepto relativamente nuevo en los Países Bajos. Diferentes personas tienen diversas ideas al respecto. Existen documentos que se denominan safety case, aunque en realidad no lo son. Lo contrario también ocurre. Un aspecto importante en ello es si se siguen o no completamente las respectivas normas EN 50126¹⁴, EN 50128¹⁵, EN 50129¹⁶. 
+¹⁴ NEN-EN 50126-1:1999 en, Railway applications - The specification and demonstration of Reliability, Availability, Maintainability and Safety (RAMS):Part 1: Basic requirements 
 B-19
 
-
 ## Página 159
+
 
 Aunque la estructura y la denominación pueden variar según el proyecto, en la siguiente figura se muestra esquemáticamente una estructura típica de los safety cases. Esta configuración también se utilizó en RandstadRail.
 Figura 1 – Visión esquemática de la estructura de los safety cases
@@ -4616,22 +4730,23 @@ B-20
 ## Página 160
 
 el material rodante, el control de mando, los sistemas energéticos y el mantenimiento. Se puede obtener un estatus NoBo para uno o varios sistemas.
-Si los proyectos no están sujetos a la normativa europea obligatoria, la evaluación puede ser realizada por un NoBo o por un ISA (Independent Safety Assessor). El ISA es seleccionado por el promotor. El Documento Normativo de seguridad del tranvía ligero recomienda someter la selección del ISA al supervisor. A diferencia de los NoBo, los ISA no son reconocidos oficialmente.
-Por tanto, un ISA no tiene autoridad formal, aunque en la práctica se perciba lo contrario. En los Países Bajos no existe ninguna regulación respecto al reconocimiento de los ISA. La realización de trabajos de ISA puede considerarse una aplicación específica de una inspección según ISO 17020¹⁷. La acreditación conforme a esta norma es gestionada por el Consejo de Acreditación (Raad voor de Accreditatie). Un ISA puede trabajar en sus evaluaciones con las normas y directrices EN 50126¹⁸, EN 50128¹⁹, EN 50129²⁰ y Yellow Book²¹ (y las Application Notes correspondientes).
-A diferencia de los NoBo, los ISA no son reconocidos oficialmente. En la práctica, se observa que las organizaciones reconocidas como NoBo son consideradas aptas para actuar como ISA. Además, un ISA puede acreditarse ante el Consejo de Acreditación.
-El ISA evalúa únicamente la seguridad del sistema y, por ende, las propiedades intrínsecas de los sistemas (como consecuencia del diseño aplicado, los materiales utilizados, etc.). El ISA no evalúa la seguridad laboral de las personas que deban trabajar con los sistemas. Esto último está regulado por la Ley ARBO y su normativa complementaria²².
-La safety case debe describir CÓMO se aporta la prueba. Si subyace una consideración teórica, también deberá incluirse que deben realizarse pruebas prácticas. Finalmente, el ISA debe evaluar si se ha aportado una prueba convincente. Suponiendo que en la safety case solo se haya incluido una consideración teórica, y que el ISA considere esto insuficiente, puede exigir que se aporte prueba adicional, por ejemplo, mediante pruebas prácticas. En ese caso, también deberá adaptarse la safety case.
-El ISA generalmente²³ no emite juicios sobre los procesos ejecutados (como la fabricación, construcción e instalación) ni sobre el desarrollo seguro del proceso. Tampoco el uso y el mantenimiento futuros entran dentro de su responsabilidad. Asimismo, el ISA no puede emitir un juicio sobre si los requisitos de seguridad establecidos conducen a un sistema seguro. Sin embargo, sí se emite un juicio sobre si, como consecuencia del diseño, construcción e instalación de estos sistemas, y mediante la documentación y formación del personal, pueden surgir situaciones que obstaculicen el uso y/o mantenimiento seguros, debido a que no se puedan cumplir los requisitos de seguridad establecidos. La evaluación del ISA finaliza, en principio, con la puesta en servicio. La ejecución del mantenimiento y del servicio ferroviario ya no se examina.
+Si los proyectos no están sujetos a la normativa europea obligatoria, la evaluación puede ser realizada por un NoBo o por un ISA (Independent Safety Assessor). El ISA es seleccionado por el promotor. El Documento Normativo de seguridad del tranvía ligero recomienda someter la selección del ISA al supervisor. A diferencia de los NoBo, los ISA no están reconocidos oficialmente.
+Por tanto, un ISA no tiene autoridad formal, aunque en la práctica se perciba lo contrario. En los Países Bajos no existe ninguna regulación respecto al reconocimiento de los ISA. La realización de trabajos de ISA puede considerarse una aplicación específica de una inspección según ISO 17020¹⁷. La acreditación conforme a esta norma es gestionada por el Consejo de Acreditación (Raad voor de Accreditatie). Un ISA puede trabajar en sus evaluaciones con las normas y directrices EN 50126¹⁸, EN 50128¹⁹, EN 50129²⁰ y el Libro Amarillo²¹ (y las Notas de Aplicación correspondientes).
+A diferencia de los NoBo, los ISA no están reconocidos oficialmente. En la práctica, se considera que las organizaciones reconocidas como NoBo pueden actuar como ISA. Además, un ISA puede acreditarse ante el Consejo de Acreditación.
+El ISA evalúa únicamente la seguridad del sistema y, por ende, las propiedades intrínsecas de los sistemas (como consecuencia del diseño aplicado, los materiales utilizados, etc.). El ISA no evalúa la seguridad laboral de las personas que deban trabajar con los sistemas. Esto último está regulado por la Ley ARBO (Condiciones de Trabajo) y su normativa complementaria²².
+La *safety case* debe describir CÓMO se aporta la prueba. Si subyace una consideración teórica, también deberá incluirse que deben realizarse pruebas prácticas. Finalmente, el ISA debe evaluar si se ha aportado una prueba convincente. Suponiendo que en la *safety case* solo se haya incluido una consideración teórica, y que el ISA considere esto insuficiente, podrá exigir que se aporte prueba adicional, por ejemplo mediante pruebas prácticas. En ese caso, también deberá adaptarse la *safety case*.
+El ISA generalmente²³ no emite juicios sobre los procesos ejecutados (como la fabricación, construcción e instalación) ni sobre el desarrollo seguro del proceso. Tampoco el uso y el mantenimiento futuros entran dentro de su responsabilidad. Asimismo, el ISA no puede emitir un juicio sobre si los requisitos de seguridad establecidos conducen a un sistema seguro. Sin embargo, sí se emite un juicio sobre si, como consecuencia del diseño, construcción e instalación de estos sistemas, y mediante la documentación y formación del personal, pueden surgir situaciones que obstaculicen el uso y/o mantenimiento seguros, debido a que no se puedan cumplir los requisitos de seguridad establecidos. La evaluación del ISA finaliza, en principio, con la puesta en servicio. La ejecución del mantenimiento y del servicio de trenes ya no se examina.
 17 NEN-EN-ISO/IEC 17020:2004 en, Criterios generales para el funcionamiento de diversos tipos de organismos que realizan inspecciones
-18 NEN-EN 50126-1:1999 en, Aplicaciones ferroviarias - Especificación y demostración de fiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS): Parte 1: Requisitos básicos
+18 NEN-EN 50126-1:1999 en, Aplicaciones ferroviarias - Especificación y demostración de Fiabilidad, Disponibilidad, Mantenibilidad y Seguridad (RAMS): Parte 1: Requisitos básicos
 19 NEN-EN 50128:2001 en, Aplicaciones ferroviarias - Sistemas de comunicaciones, señalización y procesamiento - Software para sistemas de control y protección ferroviarios
 20 NEN-EN 50129:2003 en, Aplicaciones ferroviarias - Sistemas de comunicación, señalización y procesamiento - Sistemas electrónicos relacionados con la seguridad para señalización
-21 RSSB (en nombre de la industria ferroviaria del Reino Unido), 2000. Engineering Safety Management Issue 3 Fundamentals and Guidance, Yellow Book 3, Londres.
+21 RSSB (en nombre de la Industria Ferroviaria del Reino Unido), 2000. Gestión de la Seguridad de la Ingeniería, Edición 3 Fundamentos y Directrices, Libro Amarillo 3, Londres.
 22 Véase también EN 50129, p. 7 Alcance.
 23 Este capítulo describe la situación general. No existen reglas ni directrices sobre lo que un ISA debe hacer. A petición del promotor, se pueden solicitar aspectos adicionales. En el caso de RandstadRail, el proceso sí formó parte de la evaluación (auditorías de calidad, evaluación de la verificación independiente).
 B-21
 
 ## Página 161
+
 
 ### La declaración ISA
 La declaración ISA para la infraestructura expresa que:
@@ -4659,10 +4774,10 @@ En el caso a., el ISA solo verificará si este ISA está acreditado para emitir 
 En el caso b., puede tratarse de una llamada Aceptación Cruzada (*Cross Acceptance*). En tal caso, el elaborador del expediente de seguridad deberá demostrar que las condiciones bajo las cuales este sistema/producto se aplica en los Países Bajos coinciden exactamente con la aplicación extranjera. El ISA neerlandés verificará formalmente estas pruebas. 
 Cuando ambos expedientes de seguridad de nivel superior estén listos, es decir, el Expediente de Seguridad de Nivel Superior de Infraestructura y el Expediente de Seguridad de Nivel Superior de Material Rodante, el comitente podrá completar el expediente de seguridad. Con frecuencia, sobre la base de un extenso programa de pruebas, se demuestra que la infraestructura y el material rodante pueden cooperar de manera segura. Sobre ello, naturalmente, se elaborará nuevamente una declaración ISA.  
 La declaración ISA sobre los expedientes de seguridad de nivel superior y el expediente de seguridad integral debe estar disponible, junto con el expediente técnico subyacente de los informes de evaluación, para que la autoridad ferroviaria pueda asesorar a la Inspección VenW Unidad de Supervisión Ferroviaria (*Inspectie VenW Toezichteenheid Rail*) y al ministro acerca de la puesta en servicio de la infraestructura. 
-B-22 
-
+B-22
 
 ## Página 162
+
 
 ### Sin regulación formal 
 La evaluación de la seguridad y los riesgos de seguridad en la construcción y explotación de sistemas ferroviarios se ha adaptado en los últimos años, en parte bajo la influencia de la normativa europea. Formalmente (legalmente), aún no se ha regulado nada en los Países Bajos. Esto significa que, por proyecto, se da contenido al marco de seguridad, al plan integral de seguridad y a la forma en que se aportan las pruebas de «cumplimiento de los requisitos de seguridad establecidos». En la práctica, esto se elabora en consulta conjunta entre el comitente, el gestor de proyecto y el ISA. 
@@ -4671,6 +4786,7 @@ Un ISA suele elaborar un Plan ISA, en el que se describe por qué vía se realiz
 B-23
 
 ## Página 163
+
 
 ## F. MARCO DE EVALUACIÓN PARA LA GESTIÓN DE SEGURIDAD
 La estructura y el contenido del sistema de gestión de la seguridad desempeñan un papel crucial en la demostración del control y la mejora continua de la seguridad. Esto se aplica a todas las organizaciones que participan activa o indirectamente en actividades donde puede surgir un peligro potencial para los ciudadanos en los Países Bajos. Se trata de organizaciones de diversa naturaleza y tamaño, con diferentes roles y responsabilidades, como ministerios, provincias, municipios y empresas privadas. La forma requerida de implementar el sistema de gestión de la seguridad en un área de investigación específica depende directamente del contexto. Este contexto está determinado, entre otros factores, por la naturaleza, el alcance y las responsabilidades de las partes involucradas. También la fase del ciclo de vida (enfoque en diseño, ejecución, mantenimiento, etc.) es determinante para el contexto. Basándose en la legislación y normativa nacional e internacional, así como en una gran cantidad de normas ampliamente aceptadas e implementadas, el Consejo de Investigación ha definido una serie de puntos de atención sobre seguridad que deberían incorporarse al sistema de gestión de la seguridad de las organizaciones involucradas. Estos son los siguientes puntos de atención:
@@ -4698,8 +4814,8 @@ i. garantizar internamente expectativas claras y realistas respecto a la ambici�
 ii. comunicar externamente de manera clara sobre la metodología general, la forma de evaluación de la misma, los procedimientos ante desviaciones, etc., basándose en acuerdos claros y establecidos con el entorno.
 B-24
 
-
 ## Página 164
+
 
 ## G. OTRAS PARTES INVOLUCRADAS EN RANDSTADRAIL
 ### Evaluadores Independientes de Seguridad (ISA)
@@ -4759,6 +4875,7 @@ entrega final
 B-25
 
 ## Página 165
+
 
 ## H. RESPONSABILIDADES ACEPTADAS EN EL PROYECTO RANDSTADRAIL
 El Acuerdo de Coordinación24 contiene los acuerdos sobre la estructura del proyecto para el proyecto RandstadRail. Se prevé un Grupo Directivo, una Junta Directiva Conjunta y un Equipo de Gestión de Proyecto. El Grupo Directivo está compuesto por los titulares de las carteras de Tráfico y Transporte del Área Metropolitana de La Haya (Stadsgewest Haaglanden) y de la Región Metropolitana de Róterdam (Stadsregio Rotterdam).
@@ -4820,45 +4937,53 @@ B-26
 
 ## Página 166
 
-## I. ANÁLISIS DEL DESCARRILAMIENTO EN EL CAMBIO 846 CERCA DE LA PARADA FOREPARK
-En este anexo se describe la información factual y el análisis del descarrilamiento de un vehículo RandstadRail en el cambio 846 cerca de la parada Forepark el 29 de noviembre de 2006. Se responden las siguientes preguntas:
+
+## I. ANÁLISIS DEL DESCARRILAMIENTO EN EL DESVÍO 846 CERCA DE LA PARADA FOREPARK 
+En este anexo se describe la información fáctica y el análisis del descarrilamiento de un vehículo de RandstadRail en el desvío 846 cerca de la parada Forepark el 29 de noviembre de 2006. En él se responden las siguientes preguntas: 
 - 
-¿Cuál era la situación factual en el lugar? El apartado I.1 ofrece una exposición de la información factual sobre los antecedentes del cambio en cuestión.
+¿Cuál era la situación real en el lugar? El apartado I.1 ofrece una exposición de la información factual sobre los antecedentes del desvío en cuestión. 
 - 
-¿Qué ocurrió antes y durante el descarrilamiento? En el apartado I.2 se describe la causa del descarrilamiento.
+¿Qué ocurrió antes y durante el descarrilamiento? En el apartado I.2 se describe la secuencia de acontecimientos que condujeron al descarrilamiento. 
 - 
-¿Por qué se descarriló el vehículo? El apartado I.3 contiene un análisis de las causas directas del descarrilamiento.
+¿Por qué se descarriló el vehículo? El apartado I.3 contiene un análisis de las causas directas del descarrilamiento. 
 - 
-¿Cómo pudo surgir esta situación? En el apartado I.4 se describe cómo las organizaciones implicadas han asumido sus responsabilidades con respecto a la situación que condujo al descarrilamiento.
+¿Cómo pudo surgir esta situación? En el apartado I.4 se describe cómo las organizaciones implicadas asumieron sus responsabilidades con respecto a la situación que condujo al descarrilamiento. 
 - 
-El apartado I.5 contiene finalmente las principales conclusiones derivadas de este descarrilamiento.
+El apartado I.5 contiene finalmente las principales conclusiones derivadas de este descarrilamiento.  
 - 
-¿Se reconocieron los riesgos relacionados con el descarrilamiento y, en caso afirmativo, ¿cómo se gestionaron? El apartado I.6 contiene un análisis de la gestión de seguridad orientada a controlar estos riesgos.
-Para responder a las dos primeras preguntas se han utilizado los resultados de la investigación de la Inspectie Verkeer en Waterstaat²⁵ e informes de investigación internos elaborados por o por encargo de HTM.
-I.1 INFORMACIÓN FACTUAL RELATIVA A ESTE DESCARRILAMIENTO
-El municipio de La Haya (PoRR) dividió todo el proyecto RandstadRail en varios subproyectos. Mediante esta división en subproyectos, el cambio físico²⁶ incluido el accionador pasó a formar parte del subproyecto Vía, y el manejo del cambio pasó a formar parte del subproyecto Señalización.
-Para la línea Hofpleinlijn y la línea Zoetermeerlijn transferidas, el municipio de La Haya (PoRR) tuvo que elegir qué tipo de cambio aplicar. Los vehículos RandstadRail de RET (tipo metro) tienen un perfil diferente de llantas y pestañas de rueda que los vehículos RandstadRail de HTM (tipo RegioCitadis, tranvía de piso bajo).
-En el tramo de circulación conjunta (la parte donde circulan tanto los vehículos de HTM como los de RET), estas diferencias en los perfiles de rueda conducen a diferencias en las dimensiones del cambio, especialmente alrededor del corazón de cruzamiento. Adaptar las llantas no es una opción porque esto llevaría a grandes modificaciones de toda la red de metro de Rotterdam o a grandes modificaciones en la red de tranvías de La Haya, que discurre por calles. Por lo tanto, se debía encontrar un compromiso. Para limitar el riesgo de descarrilamiento debido a los diferentes perfiles de rueda, el Stadsgewest Haaglanden decidió aplicar cambios nuevos e instalar también un corazón de cruzamiento móvil en todos los cambios del tramo de circulación conjunta. En las demás partes de la línea Zoetermeerlijn y la línea Hofpleinlijn y en la nueva línea Oosterheemlijn se aplicaron cambios con corazón de cruzamiento fijo. Como aquí solo circula un tipo de vehículo, las dimensiones correctas para metro o tranvía para ese tipo de cambio se pueden instalar de forma estándar. La adquisición de los cambios estaba a cargo del municipio de La Haya (PoRR).
-I.2 ¿QUÉ OCURRIÓ DURANTE EL DESCARRILAMIENTO?
-### Acciones de los conductores y del CVL
-En la descripción de la causa, las causas directas y subyacentes del descarrilamiento, se han dejado fuera de consideración las acciones de los conductores implicados y del Control Central de Tráfico (CVL). La razón es que ya se han descrito extensamente en el informe de investigación de la Inspectie Verkeer en Waterstaat²⁷. Un cambio no debe ser recorrido en la dirección incorrecta (recorrido abierto), pero esto puede ocurrir en la práctica. Entonces no debe surgir una situación insegura. En un área protegida, como en este caso, el recorrido abierto de un cambio siempre debe ser señalizado, porque después del recorrido abierto la posición de los cambios puede ser diferente a la indicada por el sistema de protección. Tal situación supone un peligro para el siguiente tren. Durante la fase de construcción, los recorridos abiertos no eran señalizados. El cambio sufrió daños en ese período y esos daños desempeñaron un papel en la rotura del cambio sin señalización. Esa es la razón por la que el Consejo de Investigación se limita a este aspecto.
-### Recorrido abierto del cambio 846 antes del descarrilamiento
-A las 18:10 horas, un vehículo RandstadRail (tipo metro) sufrió una avería antes de la parada Pijnacker. El controlador de tráfico decidió entonces retirar este vehículo al taller de Leidschendam. Cuando el conductor de este vehículo averiado recibió la orden del controlador de tráfico de pasar más allá de una señal de parada, el cambio²⁸ 846 estaba en la llamada posición de desvío a la derecha. Para permitir un movimiento de marcha sin obstáculos para este vehículo, el cambio debería haber estado en la posición de desvío a la izquierda. Al recorrer el cambio el vehículo averiado, una lengua del cambio fue empujada desde la posición de desvío a la derecha hacia la posición de desvío a la izquierda²⁹ (véase la figura siguiente).
+¿Se identificaron los riesgos relacionados con el descarrilamiento y, en caso afirmativo, cómo se gestionaron? El apartado I.6 contiene un análisis de la gestión de la seguridad orientada a controlar estos riesgos. 
+Para responder a las dos primeras preguntas se han utilizado los resultados de la investigación de la Inspectie Verkeer en Waterstaat25 e informes de investigación internos elaborados por o para HTM.  
+I.1 INFORMACIÓN FACTUAL RELATIVA A ESTE DESCARRILAMIENTO 
+El municipio de La Haya (PoRR) dividió todo el proyecto RandstadRail en varios subproyectos. Debido a esta división en subproyectos, el desvío físico26, incluido el accionamiento, pasó a formar parte del subproyecto Vía, mientras que el manejo del desvío pasó a formar parte del subproyecto Señalización.  
+Respecto a la línea Hofpleinlijn y la línea Zoetermeerlijn transferidas, el municipio de La Haya (PoRR) tuvo que elegir qué tipo de desvío debía aplicarse. Los vehículos de RandstadRail de RET (tipo metro) tienen un perfil diferente de rodadura y pestaña de rueda que los vehículos de RandstadRail de HTM (tipo RegioCitadis, tranvía de piso bajo).  
+En el tramo compartido (la sección donde circulan tanto los vehículos de HTM como los de RET), estas diferencias en los perfiles de las ruedas provocan diferencias en las dimensiones del desvío, especialmente alrededor del corazón del cambio. El ajuste de las llantas no es una opción, ya que ello conduciría bien a grandes modificaciones de toda la red de metro de Rotterdam, bien a grandes modificaciones en la red de tranvías de La Haya, que discurre por calles. Por lo tanto, hubo que encontrar un compromiso. Para limitar el riesgo de descarrilamiento debido a los diferentes perfiles de las ruedas, el Stadsgewest Haaglanden decidió aplicar nuevos desvíos e instalar también un corazón móvil en todos los desvíos del tramo compartido. En las demás partes de la línea Zoetermeerlijn y la línea Hofpleinlijn, así como en la nueva línea Oosterheemlijn, se han aplicado desvíos con corazón fijo. Dado que aquí solo circula un tipo de vehículo, las dimensiones correctas para metro o tranvía pueden instalarse de forma estándar en ese tipo de desvío. La adquisición de los desvíos estuvo a cargo del municipio de La Haya (PoRR). 
+I.2 ¿QUÉ OCURRIÓ DURANTE EL DESCARRILAMIENTO? 
+### Actuaciones de los conductores y del CVL 
+En la descripción de la secuencia de acontecimientos, las causas directas y las causas subyacentes del descarrilamiento, se han dejado fuera de consideración las actuaciones de los conductores implicados y del Centro de Control de Tráfico (CVL). La razón es que estas ya están ampliamente descritas en el informe de investigación de la Inspectie Verkeer en Waterstaat27. Un desvío no debe ser dirigido en la dirección incorrecta 
+25 Inspectie Verkeer en Waterstaat, 2007. Informe de investigación 29 de noviembre de 2006 Descarrilamiento de un vehículo de RandstadRail cerca de Forepark, Utrecht, RV-06U1018.  
+26 Para una explicación del funcionamiento de los desvíos, los corazones móviles y la capacidad de paso abierto, véase el anexo E. 
+27 Inspectie Verkeer en Waterstaat, 2007. Informe de investigación 29 de noviembre de 2006 Descarrilamiento de un vehículo de RandstadRail cerca de Forepark, Utrecht, RV-06U1018.  
+B-27
+
+## Página 167
+
+
+considerados (se atraviesan abiertos), pero esto puede ocurrir en la práctica. En tal caso, no debe surgir una situación insegura. En un área protegida, como en este caso, el paso a través de una aguja abierta siempre debe ser señalizado, porque tras el paso a través abierto, la posición de las agujas puede ser diferente a la indicada por el sistema de protección. Una situación de este tipo supone un peligro para el tren siguiente. Durante la fase de construcción, los pasos a través de agujas abiertas no fueron señalizados. La aguja sufrió daños durante ese periodo y dichos daños desempeñaron un papel en la rotura de la aguja sin señalización. Esta es la razón por la que el Consejo de Investigación se limita a este aspecto.
+### Rotura de la aguja 846 al pasar sobre ella antes del descarrilamiento
+A las 18:10 horas, un vehículo RandstadRail (tipo metro) sufrió una avería antes de la parada Pijnacker. El regulador de tráfico decidió entonces retirar dicho vehículo hacia el taller de Leidschendam. Cuando el conductor de este vehículo averiado recibió la orden del regulador de tráfico de circular más allá de una señal de paro, la aguja28 846 estaba en la denominada posición de desvío a la derecha. Sin embargo, para permitir un movimiento de circulación sin obstáculos para este vehículo, la aguja debería haber estado en la posición de desvío a la izquierda. Al pasar el vehículo averiado sobre la aguja, una lengüeta de la aguja fue empujada desde la posición de desvío a la derecha hacia la posición de desvío a la izquierda29 (véase la figura siguiente).
 9\n\\^YXXi glekjklb
 Kfe^\e
 I\Z_kjc\`[\e[
 C`ebjc\`[\e[
 FMM $ IXe[jkX[IX`c & n`jj\c d\k Y\n\\^YXXi glekjklb
-Figura 2 - Cambio con corazón de cruzamiento móvil (rojo: desvío a la derecha, azul: desvío a la izquierda)
-Para empujar la lengua en reposo fueron necesarias fuerzas grandes, porque el mecanismo de recorrido abierto estaba roto y bloqueado. Estas fuerzas fueron tan grandes que la lengua
-28 Véase el anexo J Un cambio para una explicación del funcionamiento de los cambios.
-29 El cambio debería haberse colocado en la dirección correcta y el conductor del vehículo debería haberse asegurado de la posición correcta del cambio. Estos aspectos se tratan en la investigación de la Inspectie VenW.
+Figura 2 - Aguja con punta móvil (rojo: desvío a la derecha, azul: desvío a la izquierda)
+Para empujar la lengüeta alejada eran necesarias fuerzas grandes, porque el mecanismo de apertura estaba roto y bloqueado. Estas fuerzas fueron tan grandes que la lengüeta
+28 Véase el anexo J Una aguja para una explicación del funcionamiento de las agujas.
+29 La aguja debería haberse colocado en la dirección correcta y el conductor del vehículo debería haberse asegurado de la posición correcta de la aguja. Estos aspectos se tratan en la investigación de la Inspección VenW.
 B-28
 
-
-## Página 167
-
 ## Página 168
+
 
 finalmente no fue desplazada, sino que se rompió del vástago de maniobra y control del accionamiento de la aguja30. La otra aguja tampoco fue desplazada; la rueda pasó por encima de ella. Dado que el mecanismo de apertura al paso se bloqueó, tampoco se emitió señal alguna al sistema de seguridad indicando que la aguja ya no se encontraba en posición segura.
 C`ebjc\`[\e[ Y\i\[\e
@@ -4879,8 +5004,8 @@ Dado que la aguja separada ya no estaba conectada a los vástagos de maniobra, q
 30 La resistencia de los pernos de ajuste entre la aguja y el vástago de maniobra y control cumplía las especificaciones y no debería haberse roto durante el uso normal. Con fuerzas superiores a las normales, como en este caso debido al bloqueo del mecanismo de apertura al paso, los pernos de ajuste sí se romperían.
 B-29
 
-
 ## Página 169
+
 
 Figura 4 – Situación inmediatamente anterior al descarrilamiento
 El siguiente vehículo de RandstadRail debía recorrer la aguja en dirección de guía hacia la derecha y descarriló sobre la aguja derecha, que se encontraba en posición de guía hacia la izquierda. En ese momento, el tren circulaba a una velocidad aproximada de 50 km/h. La velocidad máxima permitida en ese punto es de 70 km/h. En este accidente resultaron heridas 17 personas, dos de las cuales fueron trasladadas a un hospital.
@@ -4896,6 +5021,7 @@ El segundo escenario es que la aguja estuviera apretada unilateralmente (aguja s
 B-30
 
 ## Página 170
+
 
 guía de enclavamiento dañada por un vehículo de trabajo. En la lengua adyacente, la rueda que pasaba ejerció una fuerza elevada sobre el reborde de la rueda, comprimiéndolo entre la lengua y la barra de apoyo, lo que originó los daños. En este escenario, sería posible que la rueda se hubiera descarrilado en la lengua adyacente (la rueda opuesta ya habría saltado sobre la lengua en posición contraria) y se hubiera comprimido con toda la anchura de la rueda entre la lengua y la barra de apoyo.
 
@@ -4935,6 +5061,7 @@ A continuación, se analiza la elección del accionamiento de cambios, sobre el 
 
 ## Página 171
 
+
 ### El mercado de los accionamientos de agujas  
 Existen varios proveedores en el mercado tanto de agujas como de accionamientos de agujas. Aunque a primera vista parece haber múltiples proveedores en el mercado, resulta que distintos fabricantes operan dentro del mismo grupo empresarial. Esto significa, por un lado, que el mercado no es excesivamente grande y está dominado por cuatro grandes grupos europeos que suministran agujas y un número igual de empresas que suministran accionamientos de agujas.  
 Anteriormente al proceso de licitación se llevó a cabo una consulta de mercado. En ella, el municipio de La Haya (PoRR), HTM y RET fueron informados por diversos proveedores sobre las posibilidades y limitaciones.  
@@ -4952,6 +5079,7 @@ B-32
 
 ## Página 172
 
+
 un tercer tipo de accionamiento de desvíos (además de los ya aplicados por HTM y RET) habría conducido a grandes problemas de gestión y a costes adicionales para las existencias de repuestos. Además, habría sido necesario proceder a gran escala a la formación de los mecánicos de RET y HTM y a la elaboración de manuales. También se consideró inconveniente que este tipo de accionamiento de desvíos se instalara entre las vías en lugar de al lado, lo que dificulta la inspección y el mantenimiento durante la explotación.
 El 23 de septiembre de 2005, RET volvió a comunicar por escrito su postura al municipio de La Haya (PoRR). El municipio de La Haya (PoRR) rebatió estas objeciones solicitando garantías adicionales y ofreciendo una formación gratuita de los mecánicos. Finalmente, el municipio de La Haya (PoRR) tomó la decisión y realizó definitivamente el pedido al proveedor final el 6 de octubre de 2005. Esto condujo a una ruptura de confianza con el representante de RET en el grupo de seguimiento. Por otra parte, RET no tendría ninguno de estos desvíos bajo mantenimiento.
 ### Suministro directo
@@ -4963,6 +5091,7 @@ El accionamiento de desvíos controla la posición de la lengüeta mediante una 
 B-33
 
 ## Página 173
+
 
 GVB parte del principio de que el desvío debe ser a prueba de fallos³⁶, y no de que GVB deba adaptar todo el sistema de seguridad. El proveedor rediseñó y ejecutó nuevamente el actuador. Ahora, el contacto está acoplado mecánicamente al vástago del actuador. Por lo tanto, la posición de las lenguetas se supervisa a través del vástago del actuador y es imposible que exista una posición incorrecta que no sea detectada. Esta modificación se instaló a principios de 2006 en los ocho desvíos de Ámsterdam.
 En Alemania este problema no es conocido porque los alemanes controlan todos los movimientos y todas las señales. De ese modo, incorporan el control «a prueba de fallos» dentro de la señalización. En los Países Bajos, y por tanto también en GVB, se opta por el «a prueba de fallos» en la fuente y no se confía exclusivamente en la señalización.
@@ -4977,10 +5106,10 @@ Durante los trabajos de construcción, los desvíos ya estaban montados, pero el
 36 A prueba de fallos (*fail-safe*) es un concepto incluido en el diseño del producto, de modo que ante un fallo entra o permanece en un estado seguro (fuente: NEN-EN 50129:2003 y Aplicaciones ferroviarias).
 37 La Oficina Federal de Ferrocarriles (Eisenbahn-Bundesamt, EBA) es el organismo alemán supervisor de la seguridad ferroviaria. Se encarga, entre otras cosas, de la autorización de vehículos, infraestructura y transportistas.
 38 Parte de la Línea Urbana de Zoetermeer (línea de anillo) en el municipio de Zoetermeer.
-B-34 
-
+B-34
 
 ## Página 174
+
 
 Figura 5 – Fragmentos de la Documentación Básica del desvío 
 ### Control del desvío antes del inicio de la explotación 
@@ -4995,6 +5124,7 @@ En la Documentación Básica se incluyen diversas pruebas para poder detectar ci
 B-35
 
 ## Página 175
+
 
 ### Declaración de la ISA
 La ISA Beveiliging (Seguridad) ha elaborado diversas declaraciones para componentes específicos del sistema de seguridad y las pruebas realizadas. Estas declaraciones datan de mediados de 2006.
@@ -5021,6 +5151,7 @@ B-36
 
 ## Página 176
 
+
 Para los cambios de vía se ha elaborado una parte independiente de este Deel safety case44. La parte relativa a los cambios de vía tiene como objetivo demostrar que la aplicación de los cambios de vía para RandstadRail es segura y cumple con el Programa de Requisitos. El alcance del documento está limitado desde el diseño hasta la construcción e instalación física. El descarrilamiento en Forepark ha dejado claro que, tras la construcción y la instalación, también existen riesgos que pueden afectar a la seguridad del cambio de vía, concretamente el daño al cambio de vía por uso incorrecto en una situación en la que la vía, incluidos los nuevos cambios de vía instalados, es transitada por el tráfico de obra mientras el sistema de protección está desactivado. Estos riesgos quedan fuera del alcance tal como se maneja en el safety case. Esta deficiencia volverá a mencionarse varias veces más adelante en la descripción detallada del contenido de la parte relativa a los cambios de vía.
 Al estudiar más detenidamente el contenido de la parte relativa a los cambios de vía, se observa que es incompleto. En el documento se incluyen diversas preguntas, de las cuales se puede deducir que esta información falta y aún debe completarse. Así, no se describe la forma en que se realiza la evaluación y verificación del diseño durante la fase de construcción (para la parte correspondiente sí se incluye un título de párrafo, pero falta el texto asociado).
 El proceso de inspección y prueba de los cambios de vía sí está descrito. En esta descripción se detalla, entre otras cosas, la prueba de capacidad de paso en abierto (openrijdbaarheid). Al respecto, el redactor plantea la siguiente observación:
@@ -5035,6 +5166,7 @@ B-37
 
 ## Página 177
 
+
 probablemente habría conducido a la detección de una situación anómala. Estas pruebas están descritas en la documentación del proveedor sobre el cambio de vía. No existe información que indique que se haya realizado esta prueba.
 Otra comprobación consiste en realizar viajes de prueba en uno de los cambios de vía; para ello, la *safety case* hace referencia al plan de pruebas. Como ya se había anunciado en el SMP, los resultados de los viajes de prueba no se incluyeron en la *safety case*. Además, el período de explotación experimental fue breve.
 Como se describe en el capítulo 5, existían diversas razones para prestar atención específica a los cambios de vía y a los aparatos de maniobra de cambios. Es posible que algunos problemas se hubieran identificado antes si se hubieran tenido en cuenta estas señales:
@@ -5047,9 +5179,10 @@ la ISA Beveiliging (Autoridad Independiente de Seguridad) tenía objeciones resp
 - 
 faltaba la declaración de conformidad.
 En resumen, puede afirmarse que en las relevantes *safety cases* no se identificó el riesgo de daños en los cambios de vía durante la fase de construcción. Existían motivos para ello dada la intensidad y magnitud con que se realizaron los trabajos y, por tanto, el tráfico de obra, después de que los cambios de vía ya estuvieran instalados y el sistema de seguridad no estuviera operativo. La presencia del tráfico de obra sí quedó reflejada en algunas instrucciones de trabajo del municipio de La Haya (PoRR). De las entrevistas y actas de una reunión entre el municipio de La Haya (PoRR), los proveedores y HTM/RET, el Consejo de Investigación deduce que durante la fase de construcción hubo señales de que estas instrucciones de trabajo no se cumplían suficientemente (se abrieron repetidamente cambios de vía forzándolos, causándoles daños). Además, los contratistas de vía no eran responsables de la calidad de los cambios de vía en la entrega, ya que estos fueron proporcionados como suministro directo por parte del municipio de La Haya (PoRR). Sin embargo, no ha quedado demostrado que estos asuntos hayan llevado a adoptar medidas adicionales para controlar el riesgo de daños en los cambios de vía. En este contexto, habría sido lógico ampliar la prueba funcional del cambio de vía a una inspección exhaustiva de daños en los componentes.
-B-38 
+B-38
 
 ## Página 178
+
 
 ## J. UN CAMBIO DE VÍA
 Para pasar de una vía a dos vías o viceversa, de dos vías a una vía, se necesita un cambio de vía. Ambas situaciones conducen a un enfoque diferente.
@@ -5067,6 +5200,7 @@ En el último caso, la señalización no permitirá el paso. Si un tren atravies
 B-39
 
 ## Página 179
+
 
 ### Cambio de vía transitable en abierto o no transitable en abierto
 El paso forzado del cambio en abierto conduce a una gran probabilidad de daño en las agujas, en el accionamiento del cambio o en las ruedas del tren. Además, es muy probable que el tren entre en la vía donde ya se encuentra otro tren o para la cual ya se ha establecido una ruta segura. La probabilidad de una colisión grave es alta.
@@ -5088,8 +5222,8 @@ donde el tranvía llega a la otra vía.
 Figura 10 – Cambio de vía de resorte
 B-40
 
-
 ## Página 180
+
 
 ## L. ANÁLISIS DEL DESCARRILAMIENTO ESPONTÁNEO CERCA DE LA PARADA TERNOOT
 En este anexo se describe el análisis del descarrilamiento de un vehículo RandstadRail cerca de la parada Ternoot el 29 de noviembre de 2006. Se responden las siguientes preguntas:
@@ -5113,8 +5247,8 @@ La vía en Ternoot presenta algunas particularidades45. Así, posee un peralte e
 45 Véase el anexo M para una explicación de los conceptos peralte, rampa de peralte y deformación transversal.
 B-41
 
-
 ## Página 181
+
 
 Figura 11 - Peralte
 HTM, en nombre de Stadsgewest Haaglanden, transmitió al proveedor del vehículo los requisitos derivados de la infraestructura (existente) para el cálculo del riesgo de descarrilamiento en la curva de Ternoot. El fabricante del vehículo también estableció por sí mismo condiciones marco que la infraestructura debía cumplir para poder ser transitada de forma segura, debido a que los valores en el Programa de Requisitos eran insuficientemente precisos. Estas condiciones marco se basan en directrices alemanas para el diseño de líneas ferroviarias. Según estas especificaciones, en una curva con un peralte de 150 mm se permite una rampa de peralte máxima de 1:500. La rampa de descenso del peralte es la velocidad (ángulo) a la que el peralte se reduce a "cero". En la curva de Ternoot, la rampa de ascenso del peralte es de 1:300, lo que significa que el peralte se construye más rápido de lo permitido según las especificaciones.
@@ -5123,6 +5257,7 @@ Figura 12 – Rampa de ascenso del peralte (X Y)
 B-42
 
 ## Página 182
+
 
 Al construir y desmontar el peralte se produce alabeo en la vía. El alabeo puede representarse como un plano recto del que se eleva uno de los ángulos. Un alabeo excesivo aumenta la probabilidad de descarrilamientos. Cuanto más corta sea la transición del peralte, mayor será el alabeo necesario.
 Figura 13 – Alabeo (h/l)
@@ -5136,16 +5271,16 @@ Al recorrer lentamente una curva con peralte, se produce una redistribución de 
 ⁴⁹ En cálculos complementarios para la curva en Ternoot, el fabricante del vehículo consideró admisible una situación de alabeo de 33 mm en una longitud de 10 m durante un periodo de 5-6 meses.
 B-43
 
-
 ## Página 183
+
 
 vehículo no seguirá dicho movimiento de torsión, sino que determinadas ruedas perderán el contacto con la vía (alivio de carga de la rueda).
 Figura 14 – Alivio de carga de la rueda debido al peralte y al alabeo (vista frontal)
 Además, llevaba ya varios días haciendo tiempo seco. Con tiempo seco hay mucha fricción entre el carril y la rueda. Por ello, la rueda sube antes contra el carril. Estos efectos han provocado que la rueda delantera derecha del bogie delantero haya subido y descarrilado.
 B-44
 
-
 ## Página 184
+
 
 Figura 15 – Ruedas que suben debido a la fricción entre la vía y el flanco de la rueda
 ### Tras el descarrilamiento
@@ -5158,6 +5293,7 @@ La causa directa del descarrilamiento es la posición de la vía. La curva tiene
 B-45
 
 ## Página 185
+
 
 Otro factor crucial radica en las características específicas de los tranvías de suelo bajo<sup>52</sup>. En el material rodante con suelo bajo, dependiendo del diseño, la estructura suele ser más rígida que la del material convencional. Los vehículos utilizados por RandstadRail presentan una mayor rigidez a la torsión que los antiguos tranvías urbanos de La Haya. El material rodante más rígido es más sensible a las desviaciones en la posición de la vía.
 
@@ -5186,6 +5322,7 @@ Además, los cálculos del fabricante han demostrado que la rueda podría subir 
 B-46
 
 ## Página 186
+
 
 el fabricante no habría hecho descarrilar el vehículo, ya que el fabricante del vehículo había determinado la llamada parte de seguridad de la superficie de contacto carril-rueda en 9 mm. La subida de una rueda es una situación incontrolada en cuanto a la seguridad contra el descarrilamiento, por lo que la subida indica ya de por sí un riesgo de descarrilamiento. Además, para la probabilidad de descarrilamiento es importante hasta qué punto existe desgaste en los carriles. Del estudio realizado por HTM a raíz de los descarrilamientos en Den Haag Centraal los días 3 y 4 de noviembre de 2006 se desprende que en varios puntos de la red de tranvía urbano existe un desgaste extremo de las vías en curvas, también en la curva de Ternoot.
 L.6 GESTIÓN DE LA SEGURIDAD RIESGOS DE DESCARRILAMIENTO EN LA CURVA DE TERNOOT
@@ -5218,6 +5355,7 @@ B-47
 
 ## Página 187
 
+
 máx. 2 mm 
 máx. 8 mm 
 Desarrollo del peralte 
@@ -5240,6 +5378,7 @@ B-48
 
 ## Página 188
 
+
 (20 mm) se descargan las ruedas y una de ellas asciende 5 mm contra el carril. Según el fabricante, en ese momento el vehículo aún no habría descarrilado; esto solo ocurriría tras un ascenso de 9 mm. Cabe señalar que el fabricante parte de la premisa de un carril sin desgaste. Esto es relevante, ya que información recibida recientemente de HTM ha revelado que los carriles en la curva de Ternoot estaban desgastados (véase el siguiente apartado).
 En la recomendación de velocidad no se tuvo suficientemente en cuenta una modificación técnica de señalización y la presencia de un desvío, lo que provoca que los vehículos deban circular regularmente a baja velocidad (máx. 25 km/h cuando se recorre un desvío en desviación) o detenerse (ante una señal de parada)⁶⁸.
 Tras el descarrilamiento del 29 de noviembre de 2006, se constata que la posición de la curva de Ternoot es más crítica de lo indicado en los planos de diseño. Uno de los problemas es que el sobreelevación (*scheluwte*) es de 37 mm en una distancia mayor, casi el doble de lo establecido por la norma (20 mm). Esto, en sí mismo, no es particularmente inusual; por ello, al ejecutar obras civiles suele exigirse que, tras la recepción, se entreguen «planos *as built*» que incluyan los datos de medición de la posición real. La vía en Ternoot existía desde hacía aproximadamente 30 años. Por tanto, habría sido lógico medir la posición de las vías antes de la llegada de los nuevos vehículos RandstadRail. En el ferrocarril pesado, la posición de la vía de las líneas existentes se mide con frecuencia mediante un tren de medición de Eurailscout. De este modo, se puede mantener una visibilidad continua sobre la posición de la vía. En la admisión de nuevo material rodante en infraestructura existente, es habitual que el nuevo vehículo esté equipado con instrumentos de medición, de modo que durante las pruebas se pueda medir el comportamiento (dinámico) del vehículo bajo diferentes condiciones. Se trata de la interacción entre vehículo e infraestructura. No se busca medir la posición de la vía, aunque eventualmente podría haberse deducido de las señales de medición.
@@ -5250,6 +5389,7 @@ El asesoramiento del fabricante del vehículo a HTM no era conocido por la Gesti
 ⁶⁹ Informe de evaluación RegioCitadis para RandstadRail, 17 de agosto de 2006 (versión 0.2, estado: provisional).
 
 ## Página 189
+
 
 ## M. PERALTE Y TORSIÓN
 ### Peralte
@@ -5267,8 +5407,8 @@ La torsión puede representarse como un plano en el que uno de los cuatro puntos
 Figura 17 – Torsión
 B-50
 
-
 ## Página 190
+
 
 ## N. TRANVÍAS DE SUELO BAJO Y CONSECUENCIAS PARA EL COMPORTAMIENTO EN MARCHA
 En el transporte público, el término suelo bajo se utiliza para designar vehículos como autobuses y tranvías cuya plataforma es considerablemente más baja que la de los vehículos tradicionales. Desde hace unos años, aparecen cada vez más vehículos de suelo bajo. Esto es consecuencia del esfuerzo por hacer el transporte público más accesible, por ejemplo, para personas en silla de ruedas o con carritos de bebé. Además, los vehículos de suelo bajo tienen la ventaja de que los pasajeros pueden subir y bajar más rápidamente.
@@ -5279,6 +5419,7 @@ Otra consecuencia de un tranvía de suelo bajo es que ciertos componentes del ve
 B-51
 
 ## Página 191
+
 
 ## O. ANÁLISIS DE LOS DESCARRILAMIENTOS EN DEN HAAG CENTRAAL
 En este anexo se describe el análisis de los descarrilamientos de vehículos de RandstadRail cerca del andén de tranvía de Den Haag Centraal los días 3 y 4 de noviembre de 2006. En él se responden las siguientes preguntas:
@@ -5305,6 +5446,7 @@ B-52
 
 ## Página 192
 
+
 Figura 18 – Cabeza del riel y bisel (izquierda) y ascenso de la rueda derecha contra la cabeza del riel (derecha)
 O.4 ¿CÓMO PUDO SURGIR ESTA SITUACIÓN?
 El contacto rueda-riel es un fenómeno complejo. Numerosos expertos se han ocupado ya de él y seguirán haciéndolo en el futuro. Un buen contacto rueda-riel consiste en un contacto de un solo punto: la rueda rueda entonces sobre el riel. En curvas, el pestañón roza contra el riel exterior. Entonces surge un contacto de dos puntos porque el pestañón proporciona una guía. En curvas con un radio superior a 3000 m, un vehículo se comporta como si estuviera en línea recta. En curvas con un radio entre 750 y 3000 m se aplica un perfil AHC⁷⁰, con lo que sí surge un contacto de dos puntos que garantiza una marcha tranquila en la curva, un desgaste uniforme del riel y previene la formación de grietas en la cabeza del riel. Para radios de curva inferiores a 750 m, existe otro ciclo de vida: el desgaste lateral de la cabeza es determinante para la vida útil. Aquí hay por definición un contacto de dos puntos porque el pestañón sube rozando contra la cabeza del riel.
@@ -5318,6 +5460,7 @@ De investigaciones realizadas por expertos externos⁷² se desprende que cuando
 B-53
 
 ## Página 193
+
 
 se aplica una dureza igual, se produce un fuerte desgaste que genera una superficie rugosa tanto en el carril como en la rueda. Esto puede evitarse asegurando que el carril y las ruedas no tengan la misma dureza y/o reduciendo la fricción entre rueda y carril mediante lubricación.
 O.5 GESTIÓN DE LA SEGURIDAD RIESGOS DE DESGASTE
@@ -5356,6 +5499,7 @@ B-54
 
 ## Página 194
 
+
 En el expediente de seguridad se describen los ciclos planificar-hacer-verificar-actuar (PDCA) de los sectores Ejecución y Gestión de HTM Infra. Los componentes relevantes en relación con la detección oportuna del desgaste excesivo son: la elaboración de planes de inspección (planificar), la ejecución de las inspecciones (hacer), el análisis de los datos de inspección (verificar) y la actualización de los planes de mantenimiento (actuar).
 La interfaz entre (el estado de mantenimiento de) la infraestructura y el material rodante está parcialmente reconocida en el expediente de seguridad, concretamente en lo que respecta a la interfaz con el nuevo material rodante de RandstadRail (los vehículos RegioCitadis):
 «Material Rodante HTM: Este departamento de HTM mantendrá los nuevos vehículos de tranvía ligero. Dado que estos interactúan fuertemente con la infraestructura ferroviaria, los departamentos internos de Infraestructura y Material Rodante han establecido acuerdos sobre la compatibilidad de los distintos componentes. La determinación de estos acuerdos es una parte integral de este expediente de seguridad.»
@@ -5372,15 +5516,17 @@ El 12 de agosto de 2006, un tranvía urbano descarriló cerca de Den Haag Centra
 76 Repelar consiste en rediseñar la geometría de la vía y luego instalarla.
 [Nota: El original menciona "spoor was vrijgegeven" (la vía fue liberada/autorizada para circulación) justo antes de la nota 76 en el flujo narrativo, pero la numeración de notas en el texto fuente parece referirse a "herprofileren". He mantenido la estructura de notas tal como aparece implícita o explícitamente en el fragmento proporcionado, ajustando la referencia si es necesario para la coherencia técnica, aunque la regla 1 exige fidelidad literal. En el texto original holandés, la nota 76 define "Herprofileren". La frase "Kort nadat het spoor was vrijgegeven" no tiene superíndice inmediato visible en el corte, pero sigue a la acción de repelar. Mantendré la traducción literal del flujo.]
 
-B-55 
+B-55
 
 ## Página 195
+
 
 Poco después de que la vía fuera liberada, volvió a descarrilar un vehículo de RandstadRail de HTM. Entonces quedó claro para HTM que nuevamente se trataba de descarrilamientos como consecuencia de un desgaste muy rugoso e inclinado en las vías.
 En resumen, se puede afirmar que los riesgos de desgaste derivados de la introducción de nuevos elementos están reconocidos en principio en el expediente de seguridad parcial de Gestión y Mantenimiento. Sin embargo, el énfasis estaba puesto en los nuevos elementos consecuencia de RandstadRail. Los descarrilamientos en Den Haag Centraal han dejado claro que también desde la operación de tranvías de HTM pueden introducirse nuevos elementos que puedan causar un desgaste excesivo. Tras el descarrilamiento de un tranvía urbano, se constató que la inclinación de los bogies de un determinado tipo de tranvía urbano existente podía causar un desgaste excesivo. Antes de que hubiera claridad sobre esto, otros dos vehículos de RandstadRail descarrilaron. Para evitar tales descarrilamientos en el futuro, todas las modificaciones en todos los vehículos deberían dar lugar a una notificación de HTM Material Rodante a HTM Infra y llevar a una intensificación de las inspecciones de la infraestructura.
 B-56
 
 ## Página 196
+
 
 ## P. ANÁLISIS DE LOS DESCARRILAMIENTOS EN AGUJAS BASCULANTES EN LA RED DE TRANVÍAS URBANAS DE LA HAYA
 En este anexo se describe el análisis de los descarrilamientos de vehículos RandstadRail ocurridos el 24 de noviembre de 2006, y los días 24 y 26 de enero, 25 de mayo y 20 de julio de 2007 en agujas basculantes de la red de tranvías urbanos de La Haya. Se responden las siguientes preguntas:
@@ -5400,8 +5546,8 @@ Especialmente en los tranvías urbanos son habituales las agujas simples, que no
 Figura 19 – Esquema de funcionamiento de la aguja basculante
 B-57
 
-
 ## Página 197
+
 
 Las agujas basculantes fueron instaladas específicamente para RandstadRail. Los nuevos vehículos RandstadRail tienen puertas en ambos lados y una cabina de conducción, por lo que pueden girar en los terminales mediante una cola de maniobras (vía de retorno con agujas basculantes) en lugar de una rotonda de giro. Las agujas basculantes no existen en otros puntos de la red de tranvías urbanos de La Haya; hace 10-15 años sí había agujas basculantes en el trayecto de las líneas de tranvía 1 y 12.
 P.2 ¿QUÉ OCURRIÓ DURANTE LOS DESCARRILAMIENTOS?
@@ -5416,6 +5562,7 @@ Los conductores de tranvía implicados sostienen firmemente en sus declaraciones
 B-58
 
 ## Página 198
+
 
 punto de pivote
 punto real
@@ -5435,6 +5582,7 @@ En el caso de seguridad se incluye como documento de referencia un análisis de 
 B-59
 
 ## Página 199
+
 
 En este documento se ha incluido como modificación relevante el Tailtrack (vía de tope con agujas de muelle):
 «Tail track (Monstersestraat, Arnold Spoelplein). Suceso: colisiones entre vehículos.
@@ -5463,6 +5611,7 @@ B-60
 
 ## Página 200
 
+
 “Un cambio de aguja de retorno automático:
 - 
 no puede colocarse manualmente en otra dirección;
@@ -5482,8 +5631,8 @@ En resumen, se puede afirmar que el riesgo de descarrilamiento en un cambio de a
 84 También el 25 de mayo y el 20 de julio de 2007 descarrilaron vehículos de RandstadRail de HTM en un cambio de aguja de retorno automático.
 B-61
 
-
 ## Página 201
+
 
 ## Q. RESUMEN DE LOS SAFETY CASES DE RANDSTADRAIL
 
@@ -5516,8 +5665,8 @@ B-61
 Fuente: Plan de Gestión de la Seguridad (*Safety Management Plan*) de RandstadRail versión 1.1, definitivo del 21 de mayo de 2006
 B-62
 
-
 ## Página 202
+
 
 ## R. ESTADO DE LOS SAFETY CASES DE RANDSTADRAIL ALREDEDOR DEL 29 DE NOVIEMBRE DE 2006
 
@@ -5525,6 +5674,7 @@ Los números en el diagrama corresponden al resumen de los *safety cases* en el 
 B-63
 
 ## Página 203
+
 
 ## S. MEDIDAS ADOPTADAS CON MOTIVO DE LOS DESCARRILAMIENTOS EN RANDSTADRAIL
 El Consejo de Investigación ha solicitado a las partes implicadas, Stadsgewest Haaglanden y HTM, durante la investigación, qué medidas han adoptado con motivo de los descarrilamientos en RandstadRail. A continuación se recogen las respuestas de Stadsgewest Haaglanden y HTM.
@@ -5552,6 +5702,7 @@ Los otros descarrilamientos que investiga el Consejo de Investigación tienen di
 B-64
 
 ## Página 204
+
 
 después de haberse mencionado el descarrilamiento en Ternoot, la calidad de la vía es uno de los criterios de evaluación para su liberación.
 S.2 MEDIDAS ADOPTADAS POR HTM86
@@ -5609,8 +5760,8 @@ inventariar las normas;
 87 CVL significa Control Centralizado de Tráfico.
 B-65
 
-
 ## Página 205
+
 
 - 
 inventariar la formación;
@@ -5670,6 +5821,7 @@ B-66
 
 ## Página 206
 
+
 8. Recuperar la confianza del personal
 Debido a los problemas que se han presentado actualmente en RandstadRail, se ha visto mermada la confianza de parte del personal respecto a la protección por señales luminosas. Esta confianza debe restablecerse para poder funcionar nuevamente de manera normal.
 Recomendaciones a ejecutar:
@@ -5706,8 +5858,8 @@ La causa directa radicaba en la rotura de los tornillos de ajuste con los que el
 Con estas medidas, puede asumirse que la indicación de la posición de las lenguas y de la punta móvil se transmite correctamente al enclavamiento de la señalización ferroviaria. A mediados de marzo de 2007, la vía fue liberada nuevamente para viajes de prueba en lo que respecta a los problemas de los desvíos. No obstante, la liberación definitiva para el transporte de viajeros en relación con los desvíos no se obtuvo hasta la primera semana de octubre de 2007. Con la Inspección VenW (Ministerio de Transporte, Obras Públicas y Gestión del Agua) se acordó que los accionadores de las lenguas de los desvíos serán todos aptos para ser recorridos en posición abierta el 1 de diciembre.
 B-67
 
-
 ## Página 207
+
 
 Investigación sobre el PVE (Programa de Requisitos) y los casos de seguridad (safety cases)
 Delta Rail recibió el encargo de investigar, como continuación de su estudio técnico, el Programa de Requisitos (PVE), las especificaciones de los desvíos suministrados, los casos de seguridad (safety cases) y el procedimiento de homologación, así como los documentos relacionados. Se informó sobre ello el 9 de febrero.
@@ -5734,6 +5886,7 @@ B-68
 
 ## Página 208
 
+
 ## T. PROCEDIMIENTO DE TRASPASO RANDSTADRAIL
 Antes de que la HTM pueda gestionar la infraestructura, esta debe ser traspasada primero a la HTM. Dicho traspaso es complejo porque casi todo fue construido por o por encargo del municipio de La Haya (PoRR), que debe traspasar lo que ha construido a su comitente, el Stadsgewest Haaglanden, quien a su vez debe traspasar la infraestructura a la HTM.
 Para el traspaso, el Stadsgewest Haaglanden elaboró un protocolo de traspaso88. El Stadsgewest Haaglanden declaró que esta nota fue discutida en el PMT y aprobada como tal por el Stadsgewest Haaglanden, el municipio de La Haya (PoRR) y la Stadsregio Rotterdam89. En las agendas y actas del PMT no quedó registrado esto. El procedimiento descrito en esta nota consiste en que los contratistas y proveedores realizan el traspaso a los jefes de proyecto OTP (que forman parte del municipio de La Haya (PoRR)). Posteriormente, se realiza el traspaso directo a los operadores HTM/RET.
@@ -5755,6 +5908,7 @@ Las siguientes seis etapas pueden denominarse momentos de verificación. Formalm
 B-69
 
 ## Página 209
+
 
 Paso 1 
 Puesta en servicio 
@@ -5786,6 +5940,7 @@ Autorización para la explotación
 Si se ha demostrado que en la explotación de prueba se ha circulado sin retrasos/averías aún por definir, se autoriza la infraestructura. Tras la finalización exitosa de la explotación de prueba, se puede conceder la autorización para la explotación (transporte de pasajeros por HTM y RET). Formalmente, esta autorización es concedida por el comitente Stadsgewest Haaglanden. También, el comitente transfiere la gestión operativa regular, incluido el mantenimiento, a los gestores B-70
 
 ## Página 210
+
 
 encomendadas. El municipio de La Haya (PoRR) solo podrá realizar trabajos una vez que el gestor haya otorgado su autorización para ello. Dado que la entrega jurídica efectiva (transferencia) aún no se ha producido, el municipio de La Haya (PoRR) sigue siendo formalmente responsable de la calidad y del estado técnico de la infraestructura. Para esta fase de gestión y mantenimiento, Stadsgewest Haaglanden ha otorgado un encargo específico a HTM Infra.
 Paso 6

@@ -1,0 +1,41 @@
+{
+ "md/FR/2021/FR-10138 - BEATT-2021-11_Ciboure_Fiche_Synthétique.md": {
+  "md": "md/FR/2021/FR-10138 - BEATT-2021-11_Ciboure_Fiche_Synthétique.md",
+  "pdf": "pdfs/FR/FR-10138 - BEATT-2021-11_Ciboure_Fiche_Synthétique.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "fra",
+  "paginas": 1,
+  "paginas_vacias": 0,
+  "confianza_media": 93.5,
+  "confianza_min": 93.5,
+  "chars": 2688,
+  "md5_pdf": "6871eb5e8ef38b267dfb64701ce19dda",
+  "fecha": "2026-11-19"
+ },
+ "md/FR/2022/FR-10354 - Joint investigation Decision_DIGIFEM_762_15-02-2023.md": {
+  "md": "md/FR/2022/FR-10354 - Joint investigation Decision_DIGIFEM_762_15-02-2023.md",
+  "pdf": "pdfs/FR/FR-10354 - Joint investigation Decision_DIGIFEM_762_15-02-2023.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "fra",
+  "paginas": 2,
+  "paginas_vacias": 0,
+  "confianza_media": 89.9,
+  "confianza_min": 88.4,
+  "chars": 2972,
+  "md5_pdf": "d7b2514d5288a372202909c76d2d1c1a",
+  "fecha": "2026-11-19"
+ },
+ "md/FR/2005/Rapport d'enquête technique Longueville 16-02-05 1sur4.md": {
+  "md": "md/FR/2005/Rapport d'enquête technique Longueville 16-02-05 1sur4.md",
+  "pdf": "pdfs/FR/Rapport d'enquête technique Longueville 16-02-05 1sur4.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "fra",
+  "paginas": 20,
+  "paginas_vacias": 0,
+  "confianza_media": 86.8,
+  "confianza_min": 26.2,
+  "chars": 51186,
+  "md5_pdf": "724f232f12056d08e20484b188fdfc69",
+  "fecha": "2026-11-19"
+ }
+}

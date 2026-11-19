@@ -1,0 +1,41 @@
+{
+ "md/PT/2006/PN_LSul_27112006.md": {
+  "md": "md/PT/2006/PN_LSul_27112006.md",
+  "pdf": "pdfs/PT/PN_LSul_27112006.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "por",
+  "paginas": 12,
+  "paginas_vacias": 0,
+  "confianza_media": 90.9,
+  "confianza_min": 80.8,
+  "chars": 21129,
+  "md5_pdf": "25ede6213020af8a9c2bb7e95746fd52",
+  "fecha": "2026-11-19"
+ },
+ "md/PT/2008/Despacho-22082008.md": {
+  "md": "md/PT/2008/Despacho-22082008.md",
+  "pdf": "pdfs/PT/Despacho-22082008.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "por",
+  "paginas": 5,
+  "paginas_vacias": 0,
+  "confianza_media": 93.3,
+  "confianza_min": 92.0,
+  "chars": 7472,
+  "md5_pdf": "5b9ee4ea8c59790bb0d99c5478ed2b90",
+  "fecha": "2026-11-19"
+ },
+ "md/PT/2009/PT_Baião_010909_compressed.md": {
+  "md": "md/PT/2009/PT_Baião_010909_compressed.md",
+  "pdf": "pdfs/PT/PT_Baião_010909_compressed.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "por",
+  "paginas": 21,
+  "paginas_vacias": 0,
+  "confianza_media": 92.4,
+  "confianza_min": 75.4,
+  "chars": 31933,
+  "md5_pdf": "eadbcebbccc8bef79e749079667b4dfc",
+  "fecha": "2026-11-19"
+ }
+}

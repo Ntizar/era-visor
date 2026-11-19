@@ -1,0 +1,54 @@
+{
+ "md/HR/2017/HR-5577 - decision to close the investigation.md": {
+  "md": "md/HR/2017/HR-5577 - decision to close the investigation.md",
+  "pdf": "pdfs/HR/HR-5577 - decision to close the investigation.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "hrv",
+  "paginas": 1,
+  "paginas_vacias": 0,
+  "confianza_media": 94.8,
+  "confianza_min": 94.8,
+  "chars": 1807,
+  "md5_pdf": "7a2a7d531ae40d23d2cde0f7ed1d1fae",
+  "fecha": "2026-11-19"
+ },
+ "md/HR/2022/HR-10214- interim statement_2022-03-28.md": {
+  "md": "md/HR/2022/HR-10214- interim statement_2022-03-28.md",
+  "pdf": "pdfs/HR/HR-10214- interim statement_2022-03-28.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "hrv",
+  "paginas": 8,
+  "paginas_vacias": 0,
+  "confianza_media": 93.3,
+  "confianza_min": 83.9,
+  "chars": 12638,
+  "md5_pdf": "ae21646090b27c6640ed2bfd084c21ed",
+  "fecha": "2026-11-19"
+ },
+ "md/HR/2023/HR-10410 - Interim Statement 341-09_23-03_189_privremena_izjava.md": {
+  "md": "md/HR/2023/HR-10410 - Interim Statement 341-09_23-03_189_privremena_izjava.md",
+  "pdf": "pdfs/HR/HR-10410 - Interim Statement  341-09_23-03_189_privremena_izjava.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "hrv",
+  "paginas": 8,
+  "paginas_vacias": 0,
+  "confianza_media": 93.1,
+  "confianza_min": 87.3,
+  "chars": 14000,
+  "md5_pdf": "ce0d182222d567d2f4d774d54aebdb16",
+  "fecha": "2026-11-19"
+ },
+ "md/HR/2022/HR-10302 - Konačno izvješće.md": {
+  "md": "md/HR/2022/HR-10302 - Konačno izvješće.md",
+  "pdf": "pdfs/HR/HR-10302 - Konačno izvješće.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "hrv",
+  "paginas": 56,
+  "paginas_vacias": 0,
+  "confianza_media": 92.8,
+  "confianza_min": 62.1,
+  "chars": 144950,
+  "md5_pdf": "508181c41ab76d311f8d56cf76db53bb",
+  "fecha": "2026-11-19"
+ }
+}

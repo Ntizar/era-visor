@@ -54,4 +54,4 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [Hertu.14.04.07[1].md](2007/Hertu.14.04.07[1].md) | — | 50663 | ok |
 | [Manniku.24.06.07.md](2007/Manniku.24.06.07.md) | — | 50950 | ok |
 | [Paldiski.08.09.07.md](2007/Paldiski.08.09.07.md) | — | 57648 | ok |
-| [Toila.10.07.07.md](2007/Toila.10.07.07.md) | — | 56853 | revisar |
+| [Toila.10.07.07.md](2007/Toila.10.07.07.md) | — | 56853 | ok |

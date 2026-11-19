@@ -1,68 +1,26 @@
 {
  "md/LT/2018/LT-5621 - Interim Statement 2019-03-05.md": {
   "fichero": "md/LT/2018/LT-5621 - Interim Statement 2019-03-05.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 25,
-  "ratio": 0.93,
-  "avisos": [],
-  "tokens_in": 553,
-  "tokens_out": 9,
-  "destino": "md-es/LT/2018/LT-5621 - Interim Statement 2019-03-05.md"
+  "estado": "ya"
  },
  "md/LT/2018/LT-5621 - Interim Statement 2021-03-08.md": {
   "fichero": "md/LT/2018/LT-5621 - Interim Statement 2021-03-08.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 1395,
-  "ratio": 1.13,
-  "avisos": [],
-  "tokens_in": 1104,
-  "tokens_out": 497,
-  "destino": "md-es/LT/2018/LT-5621 - Interim Statement 2021-03-08.md"
+  "estado": "ya"
  },
  "md/LT/2018/LT-5621 - Interim Statement 2020-03-05.md": {
   "fichero": "md/LT/2018/LT-5621 - Interim Statement 2020-03-05.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 1546,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 1117,
-  "tokens_out": 518,
-  "destino": "md-es/LT/2018/LT-5621 - Interim Statement 2020-03-05.md"
+  "estado": "ya"
  },
  "md/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md": {
   "fichero": "md/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 11,
-  "ratio": 0.92,
-  "avisos": [],
-  "tokens_in": 548,
-  "tokens_out": 4,
-  "destino": "md-es/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md"
+  "estado": "ya"
  },
  "md/LT/2018/LT-5621- interim Statement - 2022-03-21+Tarpinis+pranešimas.md": {
   "fichero": "md/LT/2018/LT-5621- interim Statement - 2022-03-21+Tarpinis+pranešimas.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 1412,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 1111,
-  "tokens_out": 503,
-  "destino": "md-es/LT/2018/LT-5621- interim Statement - 2022-03-21+Tarpinis+pranešimas.md"
+  "estado": "ya"
  },
  "md/LT/2016/LT 18.10.2016 Gelezinkelio transporto eismo ivykio faktine ataskaita-1.md": {
   "fichero": "md/LT/2016/LT 18.10.2016 Gelezinkelio transporto eismo ivykio faktine ataskaita-1.md",
-  "estado": "ok",
-  "idioma": "LT",
-  "chars": 17343,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 7677,
-  "tokens_out": 5020,
-  "destino": "md-es/LT/2016/LT 18.10.2016 Gelezinkelio transporto eismo ivykio faktine ataskaita-1.md"
+  "estado": "ya"
  }
 }

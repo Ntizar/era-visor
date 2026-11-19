@@ -10,13 +10,15 @@ chars: 160773
 ratio_longitud: 1.08
 tokens_in: 50549
 tokens_out: 36730
-verificacion: revisar
-notas_cifras: ["bloque 8: cifras cortas: 4/24", "bloque 12: cifras cortas: 2/49"]
-avisos: ["bloque 8: cifras largas: faltan 3/6 (50%)"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 13: cifras largas: faltan 3/6 (50%)"]
+notas_cifras: ["página 20: cifras cortas: 2/8"]
 ---
+
 ## Página 1
+
 
 Los descarrilamientos en la Estación Central de Ámsterdam
 el 6 y el 10 de junio de 2005
@@ -25,8 +27,8 @@ Los informes del Consejo de Seguridad de los Países Bajos [De Onderzoeksraad vo
 Todos los informes están también disponibles a través del sitio web del Consejo de Seguridad www.safetyboard.nl.
 1
 
-
 ## Página 2
+
 
 ### EL CONSEJO DE SEGURIDAD DE LOS PAÍSES BAJOS
 El Consejo de Seguridad de los Países Bajos [Onderzoeksraad voor Veiligheid] se constituyó para investigar y determinar las causas o posibles causas de incidentes individuales o de categoría en todos los sectores. El objetivo de la investigación era exclusivamente prevenir futuros accidentes o incidentes y formular recomendaciones vinculantes si los resultados daban lugar a ello. La organización consta de un Consejo con cinco miembros permanentes más un número determinado de comités permanentes. Se constituyen comités supervisores especiales para llevar a cabo investigaciones específicas. El Consejo de Seguridad de los Países Bajos cuenta con el apoyo de una secretaría técnica cuyos miembros incluyen investigadores, secretarios-redactores y personal de apoyo.
@@ -41,6 +43,7 @@ El Consejo de Seguridad de los Países Bajos es el sucesor legal de la Junta de 
 | Teléfono: Internet: | +31 (0)70 333 7000 www safetyboard nl . . | Fax: | +31 (0)70 333 7077 |
 
 ## Página 3
+
 
 ### ÍNDICE
 Consideraciones generales ...................................................................................................... 5 
@@ -124,12 +127,14 @@ Recomendaciones relativas al descarrilamiento del 10 de junio ..................
 Anexo 1 Explicación de la investigación ....................................................................... 45 
 Anexo 2 Marco de evaluación .................................................................................... 47 
 Anexo 3 Anexo del Reglamento de Tráfico Ferroviario .......................................................................... 48 
-Anexo 4 Organigramas de ProRail .............................................................................. 51 
-
+Anexo 4 Organigramas de ProRail .............................................................................. 51
 
 ## Página 4
 
+
+
 ## Página 5
+
 
 ### CONSIDERACIONES GENERALES  
 El 6 de junio, el 10 de junio y el 15 de agosto de 2005, se produjeron descarrilamientos de trenes en la instalación occidental de la Estación Central de Ámsterdam. Inicialmente, la Junta no tenía intención de llevar a cabo una investigación separada sobre los descarrilamientos ocurridos el 6 y el 10 de junio, sino que deseaba esperar hasta recibir los informes pertinentes de la Inspección de Transporte, Obras Públicas y Gestión del Agua [Inspectie V&W]. No obstante, tras el tercer descarrilamiento el 15 de agosto, la Junta de Seguridad decidió iniciar su propia investigación sobre estos accidentes debido a la conciencia del grado de inquietud que habían causado tres descarrilamientos en un corto periodo de tiempo en una misma instalación. Por lo tanto, la cuestión principal en la que se centró la investigación fue hasta qué punto podía encontrarse una causa común para los tres descarrilamientos en la infraestructura local.  
@@ -144,6 +149,7 @@ El propietario del vagón, Voestalpine Railpro, encargó a AEA Technology (AEAT)
 
 ## Página 6
 
+
 Mantenimiento del conjunto de ruedas
 Durante el mantenimiento a gran escala realizado en 2003, se probó el conjunto de ruedas y se ajustó el perfil derecho a la banda de rodadura. Antes del acabado (rectificado para volver a redondear la rueda tras el desgaste unilateral), el espesor de la llanta era de 43 mm según la medición realizada por NedTrain WBD. Tras el acabado, era de 35 mm. Aunque una llanta de 35 mm de espesor cumplía los requisitos legales, no cumplía la norma de calidad de 38 mm de espesor de llanta tras la revisión, acordada entre las partes de la industria ferroviaria. NedTrain no ha podido proporcionar una explicación satisfactoria del hecho de que se montara el conjunto de ruedas a pesar de no cumplir el requisito de calidad acordado (de 38 mm). Tampoco Voestalpine Railpro observó este defecto.
 El sistema de mantenimiento está cambiando. Se asigna más responsabilidad a los propietarios del material. Como propietario, Voestalpine Railpro no estaba suficientemente preparado para esta responsabilidad, aunque actualmente se están implementando mejoras. Otro cambio es la privatización e internacionalización del transporte de mercancías por ferrocarril, acompañadas de una intensificación en el uso del material (de mercancías). Sin embargo, el régimen de mantenimiento y las normas aplicables aún se basan en experiencias adquiridas en el pasado. Aunque estos desarrollos son reconocidos en el documento de política ferroviaria emitido por el Ministerio de Transporte, Obras Públicas y Gestión del Agua, esto no ha dado lugar hasta la fecha a ninguna mejora concreta en el sistema de mantenimiento.
@@ -156,6 +162,7 @@ La lengüeta del desvío se dobló después de que uno o más trenes hubieran pa
 
 ## Página 7
 
+
 Sin embargo, el controlador de tráfico ferroviario seguía sin poder encaminar la circulación sobre el desvío bloqueado porque el sistema operativo continuaba reportando un fallo debido a los cables rotos. Para eliminar esta señal de fallo, el contratista decidió «puentear» las señales de fallo y crear así una señal artificial sobre la posición del desvío, bloqueando al mismo tiempo la señal correspondiente a la posición real del desvío. Mientras la señal artificial («el desvío está en control a mano derecha») coincidiera con la posición en la que el desvío estaba bloqueado, no podía surgir ninguna situación peligrosa. El peligro surgió en el momento en que se retiró el equipo de bloqueo del desvío sin retirar el elemento de puenteo. A partir de ese momento, el desvío podía moverse a una posición diferente mientras la señal (aún artificial) en el sistema operativo seguía reportando la misma posición. El controlador de tráfico ferroviario dejó de recibir información correcta sobre la posición del desvío.
 Causa subyacente: Toma de decisiones defectuosa
 La instalación de un elemento de puenteo en el sistema de seguridad de una vía «activa» puede considerarse una medida arriesgada. En situaciones «normales», esta medida no se utiliza con mucha frecuencia. No obstante, se optó por ella en esta situación excepcional. La Junta de Seguridad entiende que las situaciones excepcionales a veces requieren medidas excepcionales. Sin embargo, una medida excepcional debe ir acompañada de salvaguardias suficientes y la decisión debe tomarse a un nivel suficientemente alto. Esto no fue así en este caso.
@@ -167,6 +174,7 @@ Los puntos débiles en los procedimientos de calamidad pueden designarse como un
 La falta de claridad referida es parcialmente una consecuencia del hecho de que las autoridades y responsabilidades cambian cuando los controles se escalan en caso de calamidades a gran escala. El escalado no ocurre en la gran mayoría de las calamidades. Esto significa, sin embargo, que el procedimiento operativo, y las expectativas del contratista en particular, están regidos por la rutina en tales
 
 ## Página 8
+
 
 situaciones. Si no se produce una escalada, el contratista tiene un considerable poder de decisión y realiza la comprobación final por sí mismo sin que ningún representante del gestor esté presente en el lugar. Si se produce una escalada, ProRail desempeña un papel de control más directo a través del «subgestor de aspectos para reparaciones de infraestructura». No obstante, no se asumió suficiente responsabilidad en los preparativos previos al segundo descarrilamiento. Los responsables de ProRail no tenían una visión suficientemente clara del trabajo crítico para la seguridad que realizaba el contratista.
 Falta estructural de seguridad: Regulación insuficiente
@@ -183,8 +191,8 @@ Sobre la base de la investigación realizada, la Junta de Seguridad recomienda e
 *   la seguridad de la vía sea evaluada, comunicada y registrada explícitamente siempre que se transfiera la responsabilidad de la infraestructura;
 *   el aspecto del SMS relativo a la «calidad, control, comunicación e implementación de regulaciones técnicas y generales de seguridad» se adapte y ejecute de tal manera que las regulaciones poco claras y obsoletas no puedan (volver a) aplicar;
 
-
 ## Página 9
+
 
 *   el Plan de Emergencia Ferroviaria se implemente y comunique de tal manera que quede claro para todas las partes involucradas en catástrofes qué responsabilidades y autoridades implica la situación surgida (dependiendo del nivel de escalada).
 4. Se recomienda a la Inspección de Transporte, Obras Públicas y Gestión del Agua evaluar el funcionamiento del sistema de gestión de la seguridad de ProRail en la práctica.
@@ -193,8 +201,8 @@ M. Visser
 Presidente de la Junta de Seguridad de los Países Bajos
 Secretario General
 
-
 ## Página 10
+
 
 ### LISTA DE ABREVIATURAS
 AEAT
@@ -203,6 +211,7 @@ AEA Technology Rail B.V.
 | IM Inspectie VenW VenW WSM PC RPT SRC PTC SMS VR WOCO | Inframanagement) ProRail Inframanagement Inspección de Transporte, Obras Públicas y Gestión del Agua Ministerio de Transporte, Obras Públicas y Gestión del Agua Gestor de Seguridad Laboral Contratista de proceso Equipo de Política Ferroviaria Centro de Conmutación y Notificación Control de Tráfico de ProRail Sistema de Gestión de la Seguridad Voestalpine Railpro Contrato de obra |
 
 ## Página 11
+
 
 ### INTRODUCCIÓN 
 ### LOS DESCARRILAMIENTOS 
@@ -213,10 +222,10 @@ Ilustración 1 Ilustración que muestra la posición de los vagones tras el desc
 Trabajos los días 7, 8 y 9 de junio 
 Los trabajos de reparación duraron hasta la tarde del jueves 9 de junio de 2005. Durante este período, los servicios ferroviarios alrededor de Ámsterdam sufrieron graves interrupciones. Se cometieron errores durante los trabajos. La vía fue puesta de nuevo en servicio con un sistema de seguridad defectuoso para aparatos de vía y señales. Esto finalmente resultó en un aparato de vía orientado en una dirección diferente a la indicada por el sistema. Como consecuencia, los trenes pasaron sobre este aparato de vía y lo dañaron. 
 Descarrilamiento del 10 de junio 
-A las doce minutos pasadas de las tres de la madrugada del viernes 10 de junio de 2005, un tren vacío de carbón descarriló sobre el aparato de vía dañado. El tren consistía en una locomotora y 36 vagones vacíos de carbón. Los tres últimos vagones descarrilaron y uno volcó sobre su costado. No hubo víctimas. Sin embargo, hubo daños al material y a la infraestructura. También se dañaron varios aparatos de vía.  
-
+A las doce minutos pasadas de las tres de la madrugada del viernes 10 de junio de 2005, un tren vacío de carbón descarriló sobre el aparato de vía dañado. El tren consistía en una locomotora y 36 vagones vacíos de carbón. Los tres últimos vagones descarrilaron y uno volcó sobre su costado. No hubo víctimas. Sin embargo, hubo daños al material y a la infraestructura. También se dañaron varios aparatos de vía.
 
 ## Página 12
+
 
 Ilustración 2 
 Aparato de vía 63 defectuoso, vía y posición final de los vagones descarrilados 
@@ -230,19 +239,20 @@ Cada descarrilamiento fue investigado para establecer en qué medida la infraest
 
 ## Página 13
 
-Además, se llevaron a cabo investigaciones independientes sobre las causas directas y subyacentes de los descarrilamientos. En lo que respecta al descarrilamiento del 6 de junio, también se tuvo en cuenta el hecho de que los descarrilamientos como resultado de una rueda rota pueden tener consecuencias muy graves dependiendo de la velocidad del tren y su ubicación en el momento del descarrilamiento. Un ejemplo trágico es el descarrilamiento de un tren de alta velocidad en Eschede (en Alemania en 1998), que fue consecuencia de una rueda rota y que resultó en la pérdida de 100 vidas. Otro descarrilamiento causado por una rueda rota, felizmente con menos graves consecuencias, ocurrió el 20 de agosto de 1999 en Baarn. Este incidente fue investigado por la Junta de Seguridad del Transporte de ese entonces2.  
-Relación con los informes de la inspección  
-Como se mencionó anteriormente, la Junta de Seguridad no tenía, en principio, la intención de investigar los descarrilamientos que tuvieron lugar el 6 y el 10 de junio. Fue el tercer descarrilamiento el 15 de agosto el que llevó a la decisión de investigar los tres incidentes conjuntamente. Con respecto a los descarrilamientos del 6 y el 10 de junio, se decidió entonces realizar un estudio inicial de los informes de la Inspección para el Transporte, Obras Públicas y Gestión del Agua sobre los dos primeros descarrilamientos para que pudieran utilizarse como base para evaluar la necesidad y conveniencia de una investigación adicional por parte de la Junta de Seguridad.  
-Tras la publicación de los informes de la Inspección, la Junta de Seguridad verificó varios aspectos esenciales de las circunstancias que describían. Sobre esta base, la Junta concluye que las circunstancias y las causas directas de los descarrilamientos en los informes de la Inspección están descritas de manera suficientemente completa y transparente. La descripción de las circunstancias y las causas directas de los descarrilamientos en este informe se ha derivado en gran medida de dichos informes de la Inspección. La única diferencia sustancial en la descripción de las circunstancias concierne al papel que desempeñó una llanta excesivamente delgada en el descarrilamiento del 6 de junio. Este aspecto aún no había salido a la luz en el momento en que se publicó el informe de la Inspección sobre este descarrilamiento. Sin embargo, ha sido incluido en este informe por la Junta de Seguridad.  
-Los resultados de las investigaciones de la Inspección plantearon varias preguntas por parte de la Junta de Seguridad relacionadas con las causas subyacentes de ambos descarrilamientos. Por eso, la Junta de Seguridad investigó varios aspectos con más detalle, con el fin de establecer si existen deficiencias estructurales en la seguridad ferroviaria. Esta investigación más detallada se centró particularmente en el segundo descarrilamiento (el 10 de junio) y también en las causas subyacentes en la organización relacionadas con las calamidades en general y la reparación de la infraestructura en particular. La investigación sobre las causas subyacentes del primer descarrilamiento (el 6 de junio) se limitó a un breve análisis del sistema de controles técnicos realizados antes de la salida del tren y las responsabilidades relativas al mantenimiento del material rodante de mercancías. Se detectaron varias deficiencias. Dentro del marco de esta investigación, se tomó la decisión de limitar estos análisis y el informe no especifica en todos los casos hasta qué punto estas deficiencias son de naturaleza estructural. Sin embargo, la Junta de Seguridad va a supervisar estos aspectos y volverá a ellos si hay motivo para hacerlo.  
-El tercer descarrilamiento  
-En contraste con la investigación sobre los dos primeros descarrilamientos, fue necesaria una investigación más detallada sobre las causas directas para el tercer descarrilamiento (el 15 de agosto). Tanto la investigación de la Inspección para el Transporte, Obras Públicas y Gestión del Agua como la investigación realizada por las partes involucradas no proporcionaron claridad alguna sobre las circunstancias. Las causas son tan complejas que la Junta de Seguridad necesita tiempo adicional para la investigación. Un informe separado sobre este descarrilamiento será publicado en una etapa posterior. El informe presente trata por lo tanto solo de los descarrilamientos del 6 y el 10 de junio.  
-### LAS ORGANIZACIONES INVOLUCRADAS 
+Además, se llevaron a cabo investigaciones independientes sobre las causas directas y subyacentes de los descarrilamientos. En lo que respecta al descarrilamiento del 6 de junio, también se tuvo en cuenta el hecho de que los descarrilamientos como resultado de una rueda rota pueden tener consecuencias muy graves dependiendo de la velocidad del tren y su ubicación en el momento del descarrilamiento. Un ejemplo trágico es el descarrilamiento de un tren de alta velocidad en Eschede (en Alemania en 1998), que fue consecuencia de una rueda rota y que resultó en la pérdida de 100 vidas. Otro descarrilamiento causado por una rueda rota, afortunadamente con consecuencias menos graves, ocurrió el 20 de agosto de 1999 en Baarn. Este incidente fue investigado por la Junta de Seguridad del Transporte de aquel entonces².  
+Relación con los informes de la inspección 
+Como se ha mencionado anteriormente, la Junta de Seguridad no tenía, en principio, la intención de investigar los descarrilamientos que tuvieron lugar el 6 y el 10 de junio. Fue el tercer descarrilamiento, el 15 de agosto, el que condujo a la decisión de investigar los tres incidentes conjuntamente. Con respecto a los descarrilamientos del 6 y el 10 de junio, se decidió entonces realizar un estudio inicial de los informes de la Inspección para el Transporte, Obras Públicas y Gestión del Agua sobre los dos primeros descarrilamientos, para que pudieran utilizarse como base para evaluar la necesidad y conveniencia de una investigación adicional por parte de la Junta de Seguridad. 
+Tras la publicación de los informes de la Inspección, la Junta de Seguridad verificó varios aspectos esenciales de las circunstancias descritas en ellos. Sobre esta base, la Junta concluye que las circunstancias y las causas directas de los descarrilamientos están representadas en los informes de la Inspección de manera suficientemente completa y transparente. La descripción de las circunstancias y las causas directas de los descarrilamientos en este informe se ha derivado, por tanto, en gran medida de dichos informes de la Inspección. La única diferencia sustancial en la descripción de las circunstancias concierne al papel que desempeñó una llanta excesivamente delgada en el descarrilamiento del 6 de junio. Este aspecto aún no había salido a la luz en el momento en que se publicó el informe de la Inspección sobre este descarrilamiento. Sin embargo, ha sido incluido en este informe por la Junta de Seguridad. 
+Los resultados de las investigaciones de la Inspección plantearon a la Junta de Seguridad una serie de dudas relacionadas con las causas subyacentes de ambos descarrilamientos. Por ello, la Junta de Seguridad investigó con más detalle varios aspectos, con el fin de establecer si existen deficiencias estructurales en la seguridad ferroviaria. Esta investigación más detallada se centró en particular en el segundo descarrilamiento (el 10 de junio) y también en las causas subyacentes dentro de la organización relativas a los siniestros en general y a la reparación de la infraestructura en particular. La investigación sobre las causas subyacentes del primer descarrilamiento (el 6 de junio) se limitó a un breve análisis del sistema de controles técnicos realizados antes de la salida del tren y de las responsabilidades relativas al mantenimiento del material rodante de mercancías. Se detectaron varias deficiencias. En el marco de esta investigación, se tomó la decisión de limitar estos análisis y el informe no especifica en todos los casos hasta qué punto estas deficiencias son de naturaleza estructural. No obstante, la Junta de Seguridad va a supervisar estos aspectos y volverá a tratarlos si hay motivo para ello. 
+El tercer descarrilamiento 
+A diferencia de la investigación sobre los dos primeros descarrilamientos, fue necesaria una investigación más detallada sobre las causas directas del tercer descarrilamiento (el 15 de agosto). Tanto la investigación realizada por la Inspección para el Transporte, Obras Públicas y Gestión del Agua como la investigación llevada a cabo por las partes implicadas no lograron arrojar claridad sobre las circunstancias. Las causas son tan complejas que la Junta de Seguridad necesita tiempo adicional para la investigación. Se publicará un informe independiente sobre este descarrilamiento en una fase posterior. El informe presente trata, por tanto, únicamente de los descarrilamientos del 6 y el 10 de junio.  
+### LAS ORGANIZACIONES IMPLICADAS 
 1.3 
 Railion (descarrilamientos del 6 y 10 de junio) 
-Railion Nederland era la empresa de transporte ferroviario involucrada y, como tal, es responsable del proceso de transporte utilizado para ambos trenes de mercancías. Railion es el propietario de las locomotoras y Railion Germany es el propietario de los 36 vagones de mercancías de doble eje (tipo Fcp) que se utilizaron para transportar carbón. El maquinista estaba empleado por Railion. Antes de que se permita la salida de un tren, el ferro
+Railion Nederland era la empresa de transporte ferroviario implicada y, como tal, es responsable del proceso de transporte utilizado para ambos trenes de mercancías. Railion es la propietaria de las locomotoras y Railion Germany es la propietaria de los 36 vagones de mercancías de doble eje (tipo Fcp) que se utilizaron para transportar carbón. El maquinista estaba empleado por Railion. Antes de que se permita la salida de un tren, el
 
 ## Página 14
+
 
 la empresa de transporte realiza una inspección técnica del tren. Las empresas de transporte ferroviario solo pueden utilizar la vía si el Ministro ha otorgado un llamado certificado de seguridad tras una evaluación del sistema de gestión de la seguridad.
 Voestalpine Railpro (descarrilamiento del 6 de junio)
@@ -267,6 +277,7 @@ La responsabilidad del subaspecto de reparación de la infraestructura cubre, en
 El GM es responsable de la gestión general y coordinación de los subaspectos. La responsabilidad del GM incluye la coordinación clave de los subaspectos y la garantía de la seguridad de los presentes. Se nombra a un gestor de seguridad laboral para encargarse de esto último. Esto
 
 ## Página 15
+
 
 suele ser un empleado del contratista en cuestión. Véase también el organigrama general de los procedimientos de catástrofe en el Anexo 3.
 Strukton Railinfra (descarrilamiento del 10 de junio)
@@ -293,6 +304,7 @@ Los artículos 47 y 48 de la Ley de Ferrocarriles son especialmente importantes 
 
 ## Página 16
 
+
 especificados con mayor detalle). El artículo 48, apartado 1, establece: «queda prohibido que los trabajos de mantenimiento y reparación de vehículos ferroviarios que utilicen las vías principales sean realizados por partes distintas de las personas físicas o jurídicas autorizadas por nuestro ministro». Según el apartado 2, «se concede una autorización a petición si c. se cumplen los requisitos (adicionales) especificados mediante orden administrativa general, o si se cumplen otros requisitos», que, según el apartado 3, se refieren al espacio disponible y al equipo utilizado, a la competencia de las personas y al proceso seguido para los trabajos de mantenimiento o reparación.
 La Ley Ferroviaria se desarrolla en forma de varios decretos reales y reglamentos ministeriales. El Decreto de Tráfico Ferroviario [Besluit Spoorverkeer] es importante en relación con el descarrilamiento del 6 de junio. Según el artículo 2, «la empresa ferroviaria garantiza que un tren que, a su instancia, se utiliza para participar en el tráfico de la vía principal sea examinado por un experto en busca de defectos que puedan comprometer el uso seguro e ininterrumpido de dicha vía principal». El Reglamento de Tráfico Ferroviario [Regeling Spoorverkeer] también es relevante, ya que establece normas adicionales para las inspecciones técnicas. El Anexo 1 incluye una lista de los puntos que deben comprobarse, junto con una especificación que indica que el espesor mínimo de la llanta para vagones con una velocidad máxima de 120 km/hora es de 35 milímetros. Los vagones implicados en los descarrilamientos podían ser remolcados (en estado vacío) a una velocidad máxima de 120 km/hora.
 Además de la concesión de gestión, las decisiones sobre la gestión de la infraestructura son particularmente relevantes para el descarrilamiento del 10 de junio.
@@ -314,6 +326,7 @@ Las normas y directrices relativas a los trabajos en la infraestructura y su uso
 
 ## Página 17
 
+
 infraestructura reparada. De conformidad con este procedimiento, debe realizarse una comprobación de la aptitud para el servicio seguro si los trabajos o las calamidades han tenido un efecto, o podrían haberlo tenido, sobre la aptitud para el servicio seguro de la vía.
 •	Reglamento IF6102: disposiciones temporales en instalaciones técnicas de señalización y seguridad con vistas a las operaciones y pruebas. Estos reglamentos se refieren al montaje de elementos de puenteo. Los enlaces (elementos de puenteo) solo pueden montarse, en principio, en (partes de) instalaciones técnicas de señalización que no estén en servicio o que hayan sido retiradas del servicio. Son posibles excepciones en determinadas circunstancias.
 •	Plan de Emergencia Ferroviaria. Este plan establece el marco dentro del cual se configuran los procedimientos de calamidad del Control de Tráfico de ProRail. Por ejemplo, fija la división de tareas entre las partes implicadas, la responsabilidad de coordinación del director general, etc.
@@ -329,13 +342,13 @@ La Junta de Seguridad reconoce que la evaluación de la forma en que las organiz
 ### RESUMEN DEL DOCUMENTO
 1.5	El resto de este informe consta de dos partes. La primera parte examina el descarrilamiento del 6 de junio y la segunda parte el descarrilamiento del 10 de junio. Ambas partes tienen la misma estructura de tres capítulos con los encabezados «circunstancias», «análisis» y «conclusiones». Para el descarrilamiento del 6 de junio, estos son los capítulos 2 a 4 y para el descarrilamiento del 10 de junio estos son los capítulos 5 a 7. Ambas partes pueden leerse individualmente. El capítulo 8 incluye las recomendaciones sobre ambos descarrilamientos.
 
-
 ## Página 18
+
 
 ### PARTE I : DESCARRILAMIENTO DEL TREN QUE TRANSPORTABA GRAVA EL 6 DE JUNIO DE 2005
 
-
 ## Página 19
+
 
 ### LAS CIRCUNSTANCIAS
 ### EL DESCARRILAMIENTO
@@ -344,8 +357,8 @@ Ilustración 3
 Foto de los restos
 La Inspección de Transporte, Obras Públicas y Gestión del Agua concluye en su informe que el descarrilamiento fue la consecuencia directa de la llanta suelta y desplazada de la rueda izquierda del bogie trasero del vagón 22. La Inspección no determinó la causa subyacente del aflojamiento repentino de la llanta. Los otros daños observados en el equipo y la infraestructura pueden designarse como daños consecutivos. Según la Inspección, una comprobación de los datos de mediciones tomadas poco después del descarrilamiento y de los datos de la base de datos de mantenimiento muestra que no se ha encontrado evidencia en la infraestructura que pudiera haber sido la causa del descarrilamiento.
 
-
 ## Página 20
+
 
 Ilustración 4 El eje trasero del vagón 22 (Fuente: Inspección de Transporte, Obras Públicas y Gestión del Agua)
 ### LA CONSTRUCCIÓN DE LA RUEDA
@@ -355,6 +368,7 @@ Una segunda salvaguarda contra el aflojamiento de la llanta, y que específicame
 ³ Según información proporcionada por la Inspección de Transporte, Obras Públicas y Gestión del Agua, alrededor de 50.000 vagones de mercancías se utilizan para movimientos de trenes cada semana. De estos, alrededor del 1% están equipados con ruedas con llanta.
 
 ## Página 21
+
 
 Ilustración 5 Estructura de la llanta: rueda interior y sistema de pinza de llanta (foto de origen: Inspección de Transporte, Obras Públicas y Gestión del Agua)
 En términos generales, una llanta puede comenzar a aflojarse como resultado de una combinación de factores, a saber, la carga sobre la rueda, una llanta fina y un aumento considerable de la temperatura causado por el contacto entre los frenos y la llanta.
@@ -366,8 +380,8 @@ La Inspección de Transporte, Obras Públicas y Gestión del Agua concluyó, bas
 Según la declaración del maquinista y los datos de registro del trayecto, el tren de mercancías circulaba a una velocidad de aproximadamente 30 km/h en el momento del descarrilamiento. Según la Inspección de Transporte, Obras Públicas y Gestión del Agua, la velocidad y el comportamiento de frenado del tren de mercancías no afectaron al descarrilamiento. Según la Inspección, una comprobación
 4 Informe de investigación RV-05U0012 de fecha 12 de septiembre de 2005, Inspección de Transporte, Obras Públicas y Gestión del Agua, TE Rail; también informe de 24 horas RV-05U0012 de fecha 7 de junio de 2005.
 
-
 ## Página 22
+
 
 de los datos de las mediciones tomadas poco después del descarrilamiento y de los datos de la base de datos de mantenimiento muestra que no se ha encontrado evidencia en la infraestructura que pudiera haber sido la causa del descarrilamiento. La Inspección no pudo determinar durante su investigación qué había causado que la llanta se aflojara y por qué esto ocurrió en la playa de vías de Ámsterdam Oeste.
 ### INVESTIGACIÓN ADICIONAL DE AEA SOBRE EL AFLOJAMIENTO DE LA LLANTA
@@ -382,6 +396,7 @@ El movimiento de la llanta en comparación con la rueda interior (es decir, el m
 8 Según AEAT, el doble centrado (marcar la posición de la llanta en comparación con la rueda interior) en la rueda opuesta indica que la llanta podría haberse desplazado una vez y luego haber sido recentrada. Basándose en la apariencia, los puntos centrales fueron ajustados hace mucho tiempo.
 
 ## Página 23
+
 
 ### ANÁLISIS 
 ### INTRODUCCIÓN 
@@ -405,6 +420,7 @@ Según la Junta, es plausible que durante la revisión general menor del 13 de j
 
 ## Página 24
 
+
 el espesor de la llanta era de aproximadamente 34 mm. Sin embargo, un espesor de llanta inferior a 35 mm no se menciona en el protocolo final redactado tras la reparación general. Por cierto, dichos protocolos finales no hacen referencia habitual al espesor medido de la llanta, sino únicamente cuando el espesor de la llanta difiere de la norma. Ya no es posible comprobar si el espesor de la llanta fue verificado o no durante esta reparación general de menor envergadura.
 Supervisión del mantenimiento por parte de la Inspección de Transportes, Obras Públicas y Gestión del Agua
 La Inspección de Transportes, Obras Públicas y Gestión del Agua supervisa la calidad de las empresas de mantenimiento. El Segundo Documento Marco de Política sobre Seguridad Ferroviaria en los Países Bajos, publicado por el Ministro de Transportes, Obras Públicas y Gestión del Agua en 2004, establece que el mantenimiento del material rodante para mercancías requiere más atención que en el pasado. La razón fue el mayor número de kilómetros recorridos por el material rodante para mercancías dentro de un periodo determinado, el creciente número de partes implicadas en el uso efectivo, el arrendamiento y la propiedad de vagones de mercancías, y la creciente internacionalización del transporte ferroviario de mercancías en general. En respuesta a esto, el Ministro de Transportes, Obras Públicas y Gestión del Agua anunció una supervisión más estricta por parte de la Inspección para el periodo 2004-2010 en lo que respecta al mantenimiento, los procesos de mantenimiento y las empresas involucradas en el material rodante ferroviario, y en particular el material rodante para mercancías.
@@ -414,6 +430,7 @@ En el momento del descarrilamiento, el sistema de mantenimiento estaba en transi
 14 En este contexto, también cabe señalar que la ratificación del COTIF a partir del 1 de julio de 2006 condujo a que una cantidad significativa de legislación y reglamentos (principalmente RIV/RIC y la tarjeta UIC) fueran incorporados a la legislación y los reglamentos europeos. Como consecuencia, la Inspección de Transportes, Obras Públicas y Gestión del Agua ha obtenido mejor acceso a los transportistas ferroviarios reales y a la identidad de las partes responsables del mantenimiento de los vehículos ferroviarios.
 
 ## Página 25
+
 
 ### LA INSPECCIÓN TÉCNICA PREVIA A LA SALIDA
 3.3 
@@ -436,6 +453,7 @@ Espesor de la llanta
 
 ## Página 26
 
+
 Tampoco se observó durante la inspección técnica que la llanta fuera demasiado delgada. En principio, debería ser posible para un ojo entrenado comprobar el espesor de la llanta. Si surgen dudas durante esta comprobación visual sobre si la llanta posee el espesor requerido, el jefe de vagones puede utilizar un instrumento de medición que indique el número exacto de milímetros. Dado que una llanta no cambia su espesor de 35 a 33 mm de la noche a la mañana, debe suponerse que las comprobaciones del espesor de la llanta no se realizan, o ya no se realizan, de la manera correcta durante las inspecciones técnicas.
 Pinza de retención de la llanta
 La ausencia de la pinza de retención de la llanta tampoco fue observada durante la inspección técnica. La pinza de retención es también una parte obligatoria de la comprobación. Una pinza de retención ausente en el caso de los vagones Fccpps puede detectarse en principio –aunque con dificultad– durante una comprobación visual. Sin embargo, según Railion, la inspección técnica regular no cubre este punto. La comprobación de la presencia de una pinza de retención de la llanta intacta solo se realiza si otros defectos (marcas de control desplazadas, prueba acústica, rastros de óxido) dan motivo para ello. Dado que, en este caso, no se observaron otros defectos, no se comprobó la pinza de retención.
@@ -449,10 +467,12 @@ Tanto las marcas de control faltantes como la llanta excesivamente delgada son e
 18 En el Plan de Trabajo Anual 2005 de la Inspección de Transporte, Obras Públicas y Gestión del Agua (pág. 37), la inspección técnica de los trenes de mercancías se menciona como un área que requiere atención especial.
 19 Según información de la Inspección, en 2005 se encontraron defectos de marcado de ruedas en 10 de los 1090 vagones inspeccionados (que eran transportados por ferrocarril). En 2006, hasta el momento de la redacción, se ha encontrado un vagón con marcado defectuoso. Este vagón no era propiedad de VR.
 
-
 ## Página 27
 
+
+
 ## Página 28
+
 
 ### CONCLUSIONES 
 ### CAUSA DIRECTA 
@@ -463,15 +483,15 @@ La causa directa del descarrilamiento fue una banda de rodadura suelta que se ha
 Mantenimiento del conjunto de ruedas 
 En el momento del descarrilamiento, el sistema de mantenimiento estaba en transición como consecuencia de la entrada en vigor de la Ley Ferroviaria en 2005. La responsabilidad del mantenimiento se estaba trasladando de la empresa de mantenimiento al propietario del vagón, en este caso Voestalpine Railpro (VR). Aunque VR había tomado medidas para convertir esta nueva responsabilidad en acciones, este proceso aún se encontraba en una fase inicial en el momento del descarrilamiento. El descarrilamiento provocó una aceleración del proceso. VR está trabajando para convertir su responsabilidad en acciones mediante el establecimiento de un sistema de mantenimiento para su material ferroviario, incluyendo el seguimiento del estado de reparación de los vagones y controles aleatorios sobre el trabajo realizado por las empresas de mantenimiento. Los hallazgos de VR hasta la fecha indican que un sistema de calidad para el mantenimiento de los vagones de mercancías (y su supervisión) es esencial.  
 El control técnico antes de la salida 
-Se ha establecido que faltaban las marcas de control en las ruedas. Estas marcas (cuatro franjas pintadas de blanco en la banda de rodadura y la rueda) permiten detectar una banda de rodadura suelta. Las marcas de control ausentes, la banda de rodadura excesivamente fina y la grapa de la banda de rodadura faltante debieron pasar desapercibidas durante los controles técnicos antes de la salida y durante inspecciones anteriores, porque los defectos en cuestión no aparecen de la noche a la mañana. El sistema de controles técnicos antes de la salida y su supervisión está evidentemente organizado de tal manera que dichos aspectos pueden pasar desapercibidos de forma estructural. 
-
+Se ha establecido que faltaban las marcas de control en las ruedas. Estas marcas (cuatro franjas pintadas de blanco en la banda de rodadura y la rueda) permiten detectar una banda de rodadura suelta. Las marcas de control ausentes, la banda de rodadura excesivamente fina y la grapa de la banda de rodadura faltante debieron pasar desapercibidas durante los controles técnicos antes de la salida y durante inspecciones anteriores, porque los defectos en cuestión no aparecen de la noche a la mañana. El sistema de controles técnicos antes de la salida y su supervisión está evidentemente organizado de tal manera que dichos aspectos pueden pasar desapercibidos de forma estructural.
 
 ## Página 29
 
-### PARTE II: DESCARRILAMIENTO DEL TREN DE CARBÓN EL 10 DE JUNIO DE 2005 
 
+### PARTE II: DESCARRILAMIENTO DEL TREN DE CARBÓN EL 10 DE JUNIO DE 2005
 
 ## Página 30
+
 
 ### CIRCUNSTANCIAS  
 Este capítulo describe las circunstancias que rodearon el descarrilamiento del tren de carbón vacío. 
@@ -487,6 +507,7 @@ No obstante, para permitir el uso de un cambio de agujas en dicha situación, es
 
 ## Página 31
 
+
 Ilustración 2 Las conexiones temporales se instalan en la carcasa del relé utilizando cables negros largos (Fuente de la foto: Inspección de Transporte, Obras Públicas y Gestión del Agua).
 Puesta en servicio de un cambio con elemento puenteado
 En la noche del 7 al 8 de junio, el cambio 63 fue bloqueado físicamente en una posición (a derecha) y luego puenteado de la manera mencionada anteriormente para que el regulador de circulación pudiera permitir el paso de trenes por este cambio. Como era habitual, el regulador de circulación también instaló una función de bloqueo en su sistema para que el cambio solo pudiera utilizarse en la posición bloqueada.
@@ -494,8 +515,8 @@ Después de que la vía con el cambio 63 bloqueado y «puenteado» hubiera sido 
 Después de eso, el regulador de circulación permitió que varios trenes pasaran por el cambio 63. Cuando el regulador de circulación movió el cambio a la posición izquierda, el cambio exterior se movió realmente a la izquierda. Sin embargo, debido al elemento puenteado, el sistema operativo del regulador de circulación continuó indicando que el cambio estaba controlado en posición derecha. El regulador de circulación, que no tenía conocimiento del elemento puenteado, interpretó esto como un fallo. Dado que el regulador de circulación no era consciente de la existencia del elemento puenteado y dado que se podía suponer que el sistema no había fallado20, concluyó que el cambio podía utilizarse en la posición derecha pero no en la posición izquierda. En relación con este fallo, el regulador de circulación generó una señal de avería (no urgente).
 20 Debido a que el regulador de circulación no tiene visibilidad sobre la posición real de los cambios, debe confiar en las posiciones de los cambios que indica el sistema de control. En caso de avería, el sistema de control indica que existe una avería, pero no lo hizo en este caso debido al mecanismo de puenteo.
 
-
 ## Página 32
+
 
 El regulador de circulación permitió que varios trenes pasaran por este cambio asumiendo que estaban en la posición derecha (como indicaba el sistema), mientras que el cambio estaba realmente en la posición izquierda. Como resultado, el cambio fue abierto y dañado por los trenes que pasaban (véase la siguiente ilustración).
 Ilustración 3 Cambio 63B en la posición encontrada inmediatamente después del descarrilamiento. Se pueden ver claramente las agujas abiertas.
@@ -505,6 +526,7 @@ El 10 de junio de 2005, el tren vacío de carbón salió de Emmerich a las 2:04 
 El tren pasó por la Estación Central de Ámsterdam a través de la vía 3 hacia la vía 21 a las 3:12. La tubería de aire se rompió en la vía 21, tras lo cual el maquinista notó que el tren perdía aire. El tren se detuvo entonces automáticamente. Resultó que los tres últimos vagones habían descarrilado. Uno volcó sobre su costado. Se comprobó que el segundo vagón desde el extremo posterior había descarrilado en el cambio que, según se describe en el párrafo anterior, había sido dañado. Debido a que estos estaban abiertos, una de las ruedas del vagón fue guiada en la dirección incorrecta, provocando el descarrilamiento del vagón.
 
 ## Página 33
+
 
 ### ANÁLISIS
 ### INTRODUCCIÓN
@@ -527,6 +549,7 @@ La decisión de poner en servicio las vías 1 a 4 lo más rápidamente posible f
 
 ## Página 34
 
+
 (en ese momento) en ProRail IM, concretamente el gestor de subaspecto para reparaciones de infraestructura, desconocía los problemas que finalmente surgieron cuando las vías se pusieron en servicio y la decisión final de puentear el aparato de agujas 63. La falta de claridad respecto a las responsabilidades de un gestor de subaspecto frente al contratista (véase también el apartado 6.4) también desempeñó un papel relevante.
 La decisión final de instalar el elemento de puente se tomó a nivel del contratista operativo. El ingeniero jefe elaboró un plan que indicaba que el aparato de agujas 63 debía ser puenteado porque seguía generando informes de averías en el sistema de explotación. Al tomar decisiones relacionadas con este plan, los responsables de la implementación por parte de Strukton se conformaron con la autorización implícita del inspector de ProRail (lo que implicaba su presencia durante la instalación del elemento de puente) y no involucraron a un gestor en la toma de decisiones que hubiera propuesto dicha decisión al funcionario competente de ProRail (el gestor de subaspecto para reparaciones de infraestructura, véase el apartado 6.4). No hubo coordinación formal entre los gestores de Strukton y ProRail respecto a los trabajos que realizaban.
 Registro y comunicación sobre el elemento de puente
@@ -539,6 +562,7 @@ De este análisis sobre el uso del elemento de puente se pueden extraer las sigu
 1. Durante el proceso de reparación de la infraestructura, se tomó la decisión de instalar un elemento de puente como solución excepcional para facilitar el tráfico ferroviario.
 
 ## Página 35
+
 
 2. La normativa relativa al uso de elementos de puente no era clara y no estaba adaptada a una situación de calamidad.
 3. Las partes responsables implicadas (RCT) decidieron poner en servicio las vías 1 a 4 a pesar de saber que existían problemas con la señalización técnica. El hecho de que se tratara de un problema crítico para la seguridad debería haber sido motivo suficiente para mantener contactos estrechos con el contratista. Esto no ocurrió.
@@ -553,6 +577,7 @@ ProRail es responsable de la aptitud para el servicio seguro de la vía. La orga
 21 El WOCO no está previsto para este fin. ProRail está trabajando en la implementación de una nueva directriz con el fin de mejorar esta situación.
 
 ## Página 36
+
 
 ProRail Inframanagement utiliza dos tipos de pruebas/inspecciones que pueden realizarse después de reparar la infraestructura dañada y antes de ponerla de nuevo en servicio:
 - 
@@ -583,6 +608,7 @@ ProRail no ha podido explicar por qué no se realizó esta inspección. En su in
 
 ## Página 37
 
+
 trabajos de reparación tras catástrofes. Como se ha indicado anteriormente, el procedimiento establece que el inspector de aptitud para el servicio seguro debe declarar la vía segura para su uso en nombre del gestor de infraestructura. Sin embargo, esto no ocurrió en este caso. En un momento determinado, la responsabilidad sobre la infraestructura fue transferida por el WSM o el contratista al Centro de Control de Tráfico de ProRail sin ninguna declaración formal de aptitud para el servicio seguro por parte de ProRail Inframanagement. Este enfoque es habitual en el caso de trabajos a pequeña escala que no implican ningún incremento de recursos y que, por tanto, no requieren la presencia de representantes de ProRail. Los informes han demostrado que los representantes de ProRail en el RCT (como el gestor de subaspecto para reparaciones de infraestructura) se sorprendieron cuando se enteraron de que el WSM ya había puesto la vía de nuevo en servicio.
 ProRail ha indicado que el procedimiento mencionado fue la razón para revisar los procedimientos relativos a garantizar la aptitud para el servicio seguro. El Manual de Aptitud para el Servicio Seguro será sustituido por el procedimiento revisado 00036, que también es aplicable tras catástrofes (el antiguo procedimiento 00036 solo se refería a nuevas obras de construcción). La versión definitiva de este procedimiento aún tiene que ser finalizada. Por ejemplo, todavía no está claro qué criterios van a aplicarse para la aptitud para el servicio seguro.
 Por otra parte, es discutible si el elemento puente habría sido detectado durante una comprobación de aptitud para el servicio seguro como la prescrita en el manual, ya que esta comprobación es principalmente una inspección visual de la vía. Esto pone de manifiesto otra deficiencia en el manual, ya que una comprobación final antes de poner la vía de nuevo en servicio debería permitir detectar tales defectos; con mayor razón si se considera que el Centro de Control de Tráfico de ProRail asume que las vías que se ponen de nuevo en servicio son seguras para su uso si el sistema no genera ninguna avería.
@@ -607,6 +633,7 @@ Dentro del marco de los procedimientos para catástrofes, el director general (G
 
 ## Página 38
 
+
 Si parece probable que la fase de rescate y control vaya a durar más de 90 minutos, el GM convoca a un gestor de seguridad laboral (WSM), quien está obligado a adoptar medidas en el lugar para garantizar la seguridad de los presentes y asume la responsabilidad de la vía del controlador de tráfico ferroviario.
 Planes de emergencia
 En caso de calamidades, ProRail Inframanagement es responsable de la operatividad segura de la vía. Los trabajos de reparación son realizados por el contratista de procesos y pueden ser verificados por ProRail. En lo que respecta a los acuerdos de trabajo aplicables al tratar con calamidades, ProRail Inframanagement ha incluido el Manual de Gestión de Averías como parte de los contratos con los contratistas de procesos. Además, Strukton ha elaborado su propio borrador de plan para reparaciones de infraestructura.
@@ -625,6 +652,7 @@ La Junta de Seguridad no ha adquirido una comprensión clara de las tareas y com
 24 Esta descripción de las responsabilidades se toma del perfil del puesto para inspectores.
 
 ## Página 39
+
 
 Un factor que contribuye a la falta de claridad mencionada anteriormente es el hecho de que las autoridades y responsabilidades aplicables a calamidades menores sin escalado son diferentes de las que se aplican a calamidades de gran escala cuando sí se produce un escalado de la supervisión. Dentro del sector ferroviario, todas las incidencias, ya sean pequeñas (por ejemplo, un desvío defectuoso) o grandes (como el descarrilamiento actual), están cubiertas por el término «calamidad». La mayoría de las calamidades son de pequeña escala. Esto significa, no obstante, que el procedimiento operativo, y en particular las expectativas del contratista de proceso, están orientados por rutina hacia incidencias de pequeña escala. Esto también se evidencia en el contenido del borrador de plan de Strukton y en los métodos del contratista (véase el apartado 6.2). En caso de una incidencia de pequeña escala, el contratista dispone de un considerable poder de decisión, realiza él mismo la verificación final e incluso representa al gestor en la ubicación. Un representante de ProRail Inframanagement está presente en la ubicación de trabajo, como máximo, ocasionalmente. La situación cambia por completo cuando se escala la supervisión. ProRail debe entonces desempeñar un papel supervisor más directo a través del «gestor de subaspecto para reparaciones de infraestructura» en la ubicación. Sin embargo, en el periodo previo al segundo descarrilamiento, dicho rol no se cumplía adecuadamente. El funcionario de ProRail no tenía una visión suficiente del trabajo crítico para la seguridad realizado por el contratista y no era consciente de que se había instalado el elemento de puente.
 4. Responsabilidad última
@@ -646,6 +674,7 @@ Cuando se gestionó el primer descarrilamiento (donde se escaló la supervisión
 
 ## Página 40
 
+
 Los párrafos anteriores describieron el descarrilamiento como resultado de una falta de claridad bajo diversas formas, disposiciones obsoletas y contradicciones en la normativa (sectorial).
 El sector ferroviario neerlandés se caracteriza por un gran número de normativas y procedimientos sectoriales detallados. Muchas reglas y procedimientos también eran aplicables a los diversos aspectos de este descarrilamiento, por ejemplo, al uso de elementos de puente, los procedimientos y criterios para declarar la aptitud para el servicio seguro de la infraestructura reparada, la división de responsabilidades en caso de trabajos de reparación, etc. Tras el descarrilamiento, las distintas partes implicadas, a saber, ProRail y Strukton Railinfra, también defendieron sus acciones basándose en diferentes aspectos de la normativa sectorial.
 En vista de la falta de claridad, las disposiciones obsoletas y las contradicciones en la normativa, puede concluirse que existía una deficiencia estructural de seguridad.
@@ -660,6 +689,7 @@ En cuanto a la inspección, cabe señalar que los resultados se obtuvieron sobre
 
 ## Página 41
 
+
 la primera inspección de ProRail (la Inspección la denomina una inspección «inicial»). Sin embargo, la Junta de Seguridad se sorprende de que, dada la profundidad limitada de la investigación y la gravedad de las deficiencias, la Inspección todavía concluya que el SMS de ProRail es operativo y adecuado.
 Respuesta de ProRail
 En una respuesta (incluida como Anexo al informe de la Inspección), ProRail sostiene que se está trabajando en la actualización y mejora del SMS, la mejora de los perfiles de puesto, la aclaración del estado de los requisitos y condiciones en la normativa para los contratistas de procesos y la auditoría de los procesos críticos.
@@ -670,6 +700,7 @@ Conclusiones
 *   La Inspección de Transporte, Obras Públicas y Gestión del Agua realizó una inspección inicial del SMS utilizado por ProRail Inframanagement, pero no evaluó su funcionamiento en la práctica.
 
 ## Página 42
+
 
 ### CONCLUSIONES
 ### CAUSA DIRECTA
@@ -702,10 +733,10 @@ La relación entre ProRail y el contratista de procesos está orientada principa
 * 
 Los distintos niveles de los planes de calamidades están insuficientemente coordinados.  
 25 El WOCO no está previsto para este fin. ProRail está trabajando en la implementación de una nueva directriz con el fin de mejorar esta situación. 
-26 ProRail está trabajando actualmente en mejoras de estos procedimientos. 
-
+26 ProRail está trabajando actualmente en mejoras de estos procedimientos.
 
 ## Página 43
+
 
 * 
 Cuando se gestionó el primer descarrilamiento (donde se incrementó la supervisión), las organizaciones y funcionarios implicados no tenían una visión clara de sus tareas y responsabilidades. 
@@ -718,6 +749,7 @@ El sistema de gestión de la seguridad de ProRail aún requiere mejoras en cuant
 La Inspección de Transporte, Obras Públicas y Gestión del Agua realizó una inspección inicial del SMS utilizado por ProRail Inframanagement pero no evaluó su funcionamiento en la práctica.
 
 ## Página 44
+
 
 ### RECOMENDACIONES
 Los capítulos anteriores describieron los descarrilamientos del 6 y el 10 de junio. Dado que las causas (subyacentes) difieren, se decidió presentar las circunstancias, el análisis y las conclusiones de los dos descarrilamientos en dos partes separadas. Este capítulo contiene las recomendaciones de la Junta de Seguridad basadas en sus hallazgos. En aras de la claridad, la Junta de Seguridad ha optado por combinar las recomendaciones en un único capítulo.
@@ -745,6 +777,7 @@ Los organismos administrativos destinatarios de una recomendación están obliga
 
 ## Página 45
 
+
 ### ANEXO 1 EXPLICACIÓN DE LA INVESTIGACIÓN
 Inicio de la investigación
 El 6 de junio, el 10 de junio y el 15 de agosto de 2005, se produjeron descarrilamientos de trenes en la zona de maniobras occidental de la Estación Central de Ámsterdam. En un primer momento, se llevó a cabo una investigación exploratoria sobre los dos primeros descarrilamientos. Tras el tercer descarrilamiento, la Junta de Seguridad decidió realizar una investigación sobre los tres descarrilamientos. El 14 de septiembre, se aprobó el plan de actuación de la investigación, tras lo cual pudo iniciarse esta.
@@ -771,8 +804,8 @@ En el caso del segundo descarrilamiento (el 10 de junio), la investigación se c
 Métodos y técnicas
 La investigación comenzó con la recopilación y el análisis de los informes de las partes implicadas sobre los descarrilamientos y el equipamiento. Se realizó un análisis Tripod para cada uno de los dos descarrilamientos para apoyar el análisis. Se elaboró un análisis cronológico del trabajo realizado después del primer descarrilamiento. A continuación, se mantuvieron entrevistas y se organizaron visitas a las empresas para verificar los detalles y plantear preguntas adicionales. Los informes de las entrevistas se enviaron a los entrevistados para que pudieran añadir sus comentarios.
 
-
 ## Página 46
+
 
 Revisión
 Tras recibir la aprobación del Comité de Tráfico Ferroviario y de la Junta de Seguridad, se envió un borrador del informe a las siguientes partes para su revisión:
@@ -788,6 +821,7 @@ Todas las partes proporcionaron comentarios. Se incluyeron los comentarios basad
 El período de revisión duró desde principios de julio hasta principios de agosto. A principios de septiembre, el Comité de Tráfico Ferroviario aprobó la publicación del informe final modificado. La Junta de Seguridad dio luz verde para la publicación a finales de octubre.
 
 ## Página 47
+
 
 ### ANEXO 2 MARCO DE EVALUACIÓN 
 En principio, la forma en que una organización interpreta su propia responsabilidad en materia de seguridad puede ser probada y evaluada desde diferentes perspectivas. Por lo tanto, no existe un manual universal que se aplique en todas las situaciones, a pesar de que se ha hecho mayor hincapié en la responsabilidad individual por la seguridad desde la década de 1990. Es por esta razón que la Junta de Seguridad seleccionó ella misma cinco puntos de atención en materia de seguridad que ofrecen una visión sobre qué aspectos pueden desempeñar un papel (en distintos grados). La Junta de Seguridad considera que esta elección está justificada dado que estos puntos de atención en materia de seguridad están incluidos en numerosas leyes y reglamentos nacionales e internacionales y en un gran número de normas ampliamente aceptadas e implementadas. Estos puntos de atención son los siguientes: 
@@ -814,10 +848,10 @@ Lo anterior se utiliza como base para las evaluaciones con la dirección y para 
 5. Control de gestión, implicación y comunicación 
 La dirección de las partes/organización involucradas debe: 
 *   Crear expectativas internas claras y realistas relacionadas con la ambición de seguridad, generar un clima de mejora continua de la seguridad en el terreno operativo mediante, en cualquier caso, dar buen ejemplo y también proporcionando suficiente personal y recursos. 
-*   Proporcionar una comunicación externa clara sobre el procedimiento operativo general, el método de evaluación del mismo, los procedimientos en caso de discrepancias, etc., sobre la base de acuerdos claros y documentados con las diversas partes interesadas. 
-
+*   Proporcionar una comunicación externa clara sobre el procedimiento operativo general, el método de evaluación del mismo, los procedimientos en caso de discrepancias, etc., sobre la base de acuerdos claros y documentados con las diversas partes interesadas.
 
 ## Página 48
+
 
 ### ANEXO 3 REGLAMENTO DE TRÁFICO FERROVIARIO 
 ### Artículo 5 del Reglamento de Tráfico Ferroviario, Anexo 1 
@@ -833,19 +867,20 @@ Se interrumpe el viaje y el vagón puede ser transferido a un taller con una dis
 6. Medida D (vagón cargado a taller / reparación tras descarga) 
 El viaje puede continuar sin reparaciones (provisionales) y el vagón puede ser transportado a un taller en estado cargado. Las reparaciones se realizan después de la descarga. Se fija una factura/documento al vagón defectuoso que indica la naturaleza del defecto y cómo debe tratarse. 
 7. Medida E (reparaciones no inmediatamente necesarias) 
-El vagón puede ser descargado y recargado. Se notifica el defecto cuando el vagón es transferido a otra empresa ferroviaria. El calendario incluido en este anexo se aplica plenamente a la verificación técnica y a la comprobación segura del bucle (SLC) en la medida en que esto esté indicado para la unidad correspondiente utilizando «SLC». 
-
+El vagón puede ser descargado y recargado. Se notifica el defecto cuando el vagón es transferido a otra empresa ferroviaria. El calendario incluido en este anexo se aplica plenamente a la verificación técnica y a la comprobación segura del bucle (SLC) en la medida en que esto esté indicado para la unidad correspondiente utilizando «SLC».
 
 ## Página 49
+
 
 | Componente | No . | Defectos/criterios/instrucciones | SLC | Medidas |
 | Ruedas con llantas | 1 1 . 1 1 1 . . 1 1 2 . . 1 1 3 . . 1 1 4 . . 1 1 5 . . 1 1 6 . . | Espesor inferior a − para vagones de 120 km/h (vagones que llevan la inscripción «SS' o «**‟ ) 35 mm .... − otros vagones .................30 mm Llanta rota − desgarro longitudinal y transversal − Llanta suelta − comprobar desplazamiento de marcas o − sonido poco claro o − pinza/cierre de llanta suelto o rastros de óxido entre llanta y aro en − exceso de 1/3 de la circunferencia Marcas de comprobación no presentes − no claramente visibles − Llanta desplazada lateralmente − pinza/cierre de llanta suelto o distorsión visible Daño en la pinza de llanta desgarrada − rota − faltante − pasador de bloqueo faltante (si − prescrito) | SLC SLC SLC | B A A B A A |
 
-
 ## Página 50
 
 
+
 ## Página 51
+
 
 ### ANEXO 4 ORGANIGRAMAS DE PRORAIL 
 Gestión de infraestructura 
@@ -860,6 +895,7 @@ Organigrama 1 Organigrama que muestra la organización regional de ProRail
 Gestión de infraestructura
 
 ## Página 52
+
 
 Equipo de Política Ferroviaria 
 (RPT) 

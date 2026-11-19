@@ -6,5 +6,421 @@
  "md/BG/2010/FR_BG_2010_03_07_Fire_in_RS_BG.md": {
   "fichero": "md/BG/2010/FR_BG_2010_03_07_Fire_in_RS_BG.md",
   "estado": "ya"
+ },
+ "md/BG/2010/Final_Report_LC_Vz_Bi__18.06.2010.md": {
+  "fichero": "md/BG/2010/Final_Report_LC_Vz_Bi__18.06.2010.md",
+  "estado": "ya"
+ },
+ "md/BG/2011/Final_report-ENG-200711.md": {
+  "fichero": "md/BG/2011/Final_report-ENG-200711.md",
+  "estado": "ya"
+ },
+ "md/BG/2012/Fire_in_RS_Shumen_19.12.2012.md": {
+  "fichero": "md/BG/2012/Fire_in_RS_Shumen_19.12.2012.md",
+  "estado": "ya"
+ },
+ "md/BG/2013/FR_Raduntzi_Derailment-030913.md": {
+  "fichero": "md/BG/2013/FR_Raduntzi_Derailment-030913.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/BG 12.07.2014 FR_Derailment_BG_3959_Kaloyanovets_12.7.2014.md": {
+  "fichero": "md/BG/2014/BG 12.07.2014 FR_Derailment_BG_3959_Kaloyanovets_12.7.2014.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/BG 23.12.2014 FR_Derailment_BG_4690.md": {
+  "fichero": "md/BG/2014/BG 23.12.2014 FR_Derailment_BG_4690.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/FR_LC_07.05.2014_en_1.md": {
+  "fichero": "md/BG/2014/FR_LC_07.05.2014_en_1.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/FR_LC_at_Obelja_09.10.2014.md": {
+  "fichero": "md/BG/2014/FR_LC_at_Obelja_09.10.2014.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/FR_Derailment_28.03.2014_en.md": {
+  "fichero": "md/BG/2014/FR_Derailment_28.03.2014_en.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/Fire_in_RS_01.02.2014_en.md": {
+  "fichero": "md/BG/2014/Fire_in_RS_01.02.2014_en.md",
+  "estado": "ya"
+ },
+ "md/BG/2015/BG 13.10.2015-4910.md": {
+  "fichero": "md/BG/2015/BG 13.10.2015-4910.md",
+  "estado": "ya"
+ },
+ "md/BG/2015/BG 09.08.2015.md": {
+  "fichero": "md/BG/2015/BG 09.08.2015.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 03.09.2016 FR_BG-5161_Derailment.md": {
+  "fichero": "md/BG/2016/BG 03.09.2016 FR_BG-5161_Derailment.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 10.12.2016 FR Derailment in Hitrino.md": {
+  "fichero": "md/BG/2016/BG 10.12.2016 FR Derailment in Hitrino.md",
+  "estado": "ya"
+ },
+ "md/BG/2015/BG 01.02.2015 FR_Derailment_BG_4713.md": {
+  "fichero": "md/BG/2015/BG 01.02.2015 FR_Derailment_BG_4713.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 13.04.2016 FR_Fire.md": {
+  "fichero": "md/BG/2016/BG 13.04.2016 FR_Fire.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 08.07.2016 Fire.md": {
+  "fichero": "md/BG/2016/BG 08.07.2016 Fire.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BF 23.01.2016 FR_Derailment.md": {
+  "fichero": "md/BG/2016/BF 23.01.2016 FR_Derailment.md",
+  "estado": "ya"
+ },
+ "md/BG/2017/BG 04.05.2017 FR Train Derailment_BG-5332.md": {
+  "fichero": "md/BG/2017/BG 04.05.2017 FR Train Derailment_BG-5332.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 16.06.2016 BG-2016-3_Fire.md": {
+  "fichero": "md/BG/2016/BG 16.06.2016 BG-2016-3_Fire.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 28.08.2016 Final Report_Train Derailment_BG-5150.md": {
+  "fichero": "md/BG/2016/BG 28.08.2016 Final Report_Train Derailment_BG-5150.md",
+  "estado": "ya"
+ },
+ "md/BG/2019/BG 09.04.2019 Fire in RS_09.04.2019.md": {
+  "fichero": "md/BG/2019/BG 09.04.2019 Fire in RS_09.04.2019.md",
+  "estado": "ya"
+ },
+ "md/BG/2016/BG 14.09.2016 FR Fire in RS_BG-5167.md": {
+  "fichero": "md/BG/2016/BG 14.09.2016 FR Fire in RS_BG-5167.md",
+  "estado": "ya"
+ },
+ "md/BG/2017/BG 09.02.2017 FR_Derailment in Dalgopol-Komunari.md": {
+  "fichero": "md/BG/2017/BG 09.02.2017 FR_Derailment in Dalgopol-Komunari.md",
+  "estado": "ya"
+ },
+ "md/BG/2017/BG 12.10.2017 FR_Fire in RS_12 10 2017.md": {
+  "fichero": "md/BG/2017/BG 12.10.2017 FR_Fire in RS_12 10 2017.md",
+  "estado": "ya"
+ },
+ "md/BG/2014/BG FR_Fire_in_RS_07.08.2014_en.md": {
+  "fichero": "md/BG/2014/BG FR_Fire_in_RS_07.08.2014_en.md",
+  "estado": "ya"
+ },
+ "md/BG/2019/BG-6127-OKON. DOKLAD 19205_БС ENG.md": {
+  "fichero": "md/BG/2019/BG-6127-OKON. DOKLAD 19205_БС ENG.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 59378,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 20756,
+  "tokens_out": 16402,
+  "destino": "md-es/BG/2019/BG-6127-OKON. DOKLAD 19205_БС ENG.md"
+ },
+ "md/BG/2019/BG 26.01.2019 FR Derailment_26.01.2019.md": {
+  "fichero": "md/BG/2019/BG 26.01.2019 FR Derailment_26.01.2019.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 65855,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 23046,
+  "tokens_out": 19331,
+  "destino": "md-es/BG/2019/BG 26.01.2019 FR Derailment_26.01.2019.md"
+ },
+ "md/BG/2019/FR Collision of RS_14.10.2019.md": {
+  "fichero": "md/BG/2019/FR Collision of RS_14.10.2019.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 60372,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 21156,
+  "tokens_out": 17631,
+  "destino": "md-es/BG/2019/FR Collision of RS_14.10.2019.md"
+ },
+ "md/BG/2019/FR_Fire in RS_11.08.2019.md": {
+  "fichero": "md/BG/2019/FR_Fire in RS_11.08.2019.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 62782,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 22250,
+  "tokens_out": 18494,
+  "destino": "md-es/BG/2019/FR_Fire in RS_11.08.2019.md"
+ },
+ "md/BG/2020/BG-10064-Final report 44094 20.04.21.md": {
+  "fichero": "md/BG/2020/BG-10064-Final report 44094 20.04.21.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 75192,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 25475,
+  "tokens_out": 21293,
+  "destino": "md-es/BG/2020/BG-10064-Final report 44094 20.04.21.md"
+ },
+ "md/BG/2020/BG-10068 - Final report_46041 (002).md": {
+  "fichero": "md/BG/2020/BG-10068 - Final report_46041 (002).md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 71189,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 24702,
+  "tokens_out": 20173,
+  "destino": "md-es/BG/2020/BG-10068 - Final report_46041 (002).md"
+ },
+ "md/BG/2021/BG-10081 - Оконч. доклад 30602.md": {
+  "fichero": "md/BG/2021/BG-10081 - Оконч. доклад 30602.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 74180,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 25965,
+  "tokens_out": 21815,
+  "destino": "md-es/BG/2021/BG-10081 - Оконч. доклад 30602.md"
+ },
+ "md/BG/2021/BG-10124 - Final report 50215 1.md": {
+  "fichero": "md/BG/2021/BG-10124 - Final report 50215 1.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 61347,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 23402,
+  "tokens_out": 19717,
+  "destino": "md-es/BG/2021/BG-10124 - Final report 50215 1.md"
+ },
+ "md/BG/2020/BG-10063-FINAL REPORT N. Z. _80561- ENG ERA.md": {
+  "fichero": "md/BG/2020/BG-10063-FINAL REPORT N. Z. _80561- ENG ERA.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 135224,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 19: cifras largas: faltan 14/43 (33%)"
+  ],
+  "tokens_in": 50983,
+  "tokens_out": 42118,
+  "destino": "md-es/BG/2020/BG-10063-FINAL REPORT N. Z. _80561- ENG ERA.md"
+ },
+ "md/BG/2021/BG-10123 - FINAL REPORT 30610.md": {
+  "fichero": "md/BG/2021/BG-10123 - FINAL REPORT 30610.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 74878,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 27748,
+  "tokens_out": 23568,
+  "destino": "md-es/BG/2021/BG-10123 - FINAL REPORT 30610.md"
+ },
+ "md/BG/2021/BG-10089 - Final report 90593 NIB BG 3.md": {
+  "fichero": "md/BG/2021/BG-10089 - Final report 90593 NIB BG 3.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 107054,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 39296,
+  "tokens_out": 33356,
+  "destino": "md-es/BG/2021/BG-10089 - Final report 90593 NIB BG 3.md"
+ },
+ "md/BG/2022/BG-10275 - Final report 30592 - Страница 1.md": {
+  "fichero": "md/BG/2022/BG-10275 - Final report 30592 - Страница 1.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 98498,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 35063,
+  "tokens_out": 29263,
+  "destino": "md-es/BG/2022/BG-10275 - Final report 30592 - Страница 1.md"
+ },
+ "md/BG/2023/BG-10353 - Final report 44169_NIB (01).md": {
+  "fichero": "md/BG/2023/BG-10353 - Final report 44169_NIB (01).md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 106252,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 36198,
+  "tokens_out": 30858,
+  "destino": "md-es/BG/2023/BG-10353 - Final report 44169_NIB (01).md"
+ },
+ "md/BG/2022/BG-10330 - Final report 2613_NIB BG.md": {
+  "fichero": "md/BG/2022/BG-10330 - Final report 2613_NIB BG.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 110787,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 41482,
+  "tokens_out": 33953,
+  "destino": "md-es/BG/2022/BG-10330 - Final report 2613_NIB BG.md"
+ },
+ "md/BG/2022/BG-10235 - Final report 7623_NIB ENG.md": {
+  "fichero": "md/BG/2022/BG-10235 - Final report 7623_NIB ENG.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 124880,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 43735,
+  "tokens_out": 36090,
+  "destino": "md-es/BG/2022/BG-10235 - Final report 7623_NIB ENG.md"
+ },
+ "md/BG/2023/BG-10433 - Final report 80132_NIB BG 2.md": {
+  "fichero": "md/BG/2023/BG-10433 - Final report 80132_NIB BG 2.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 106490,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 36161,
+  "tokens_out": 30302,
+  "destino": "md-es/BG/2023/BG-10433 - Final report 80132_NIB BG 2.md"
+ },
+ "md/BG/2023/BG-10381 - Final report 40832 _NIB BG.md": {
+  "fichero": "md/BG/2023/BG-10381 - Final report 40832 _NIB BG.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 114609,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 41895,
+  "tokens_out": 35621,
+  "destino": "md-es/BG/2023/BG-10381 - Final report 40832 _NIB BG.md"
+ },
+ "md/BG/2023/BG-10472 - Final report IP4IL_NIB BG.md": {
+  "fichero": "md/BG/2023/BG-10472 - Final report IP4IL_NIB BG.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 122715,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 43199,
+  "tokens_out": 35360,
+  "destino": "md-es/BG/2023/BG-10472 - Final report IP4IL_NIB BG.md"
+ },
+ "md/BG/2023/BG-10485 - Final report 44202_NIB BG ENG 1.md": {
+  "fichero": "md/BG/2023/BG-10485 - Final report 44202_NIB BG ENG 1.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 95478,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 34731,
+  "tokens_out": 29640,
+  "destino": "md-es/BG/2023/BG-10485 - Final report 44202_NIB BG ENG 1.md"
+ },
+ "md/BG/2024/bg-10562 - final report_30114_nib bg.md": {
+  "fichero": "md/BG/2024/bg-10562 - final report_30114_nib bg.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 90327,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 31502,
+  "tokens_out": 26542,
+  "destino": "md-es/BG/2024/bg-10562 - final report_30114_nib bg.md"
+ },
+ "md/BG/2024/bg-10523 - final report_46660_eng стр.md": {
+  "fichero": "md/BG/2024/bg-10523 - final report_46660_eng стр.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 124608,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 44254,
+  "tokens_out": 36448,
+  "destino": "md-es/BG/2024/bg-10523 - final report_46660_eng стр.md"
+ },
+ "md/BG/2024/bg-10561 - final report_nib bg_2654.md": {
+  "fichero": "md/BG/2024/bg-10561 - final report_nib bg_2654.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 124651,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 42363,
+  "tokens_out": 35913,
+  "destino": "md-es/BG/2024/bg-10561 - final report_nib bg_2654.md"
+ },
+ "md/BG/2025/bg-10711 - final report_nib bg_ 80694 2.md": {
+  "fichero": "md/BG/2025/bg-10711 - final report_nib bg_ 80694 2.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 183468,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 67056,
+  "tokens_out": 55385,
+  "destino": "md-es/BG/2025/bg-10711 - final report_nib bg_ 80694 2.md"
+ },
+ "md/BG/2025/bg-10749 - final report_ nib bg_91520044060-9 (1).md": {
+  "fichero": "md/BG/2025/bg-10749 - final report_ nib bg_91520044060-9 (1).md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 126653,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 42703,
+  "tokens_out": 35575,
+  "destino": "md-es/BG/2025/bg-10749 - final report_ nib bg_91520044060-9 (1).md"
+ },
+ "md/BG/2026/bg-10799 - final_report_tsareva_livada_tryavna_eng.md": {
+  "fichero": "md/BG/2026/bg-10799 - final_report_tsareva_livada_tryavna_eng.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 102974,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 42669,
+  "tokens_out": 28655,
+  "destino": "md-es/BG/2026/bg-10799 - final_report_tsareva_livada_tryavna_eng.md"
+ },
+ "md/BG/2026/bg-10803 - final report 44144.md": {
+  "fichero": "md/BG/2026/bg-10803 - final report 44144.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 105787,
+  "ratio": 1.1,
+  "avisos": [
+   "bloque 13: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 46330,
+  "tokens_out": 31291,
+  "destino": "md-es/BG/2026/bg-10803 - final report 44144.md"
+ },
+ "md/BG/2025/bg-10748 - final report station eliseyna.md": {
+  "fichero": "md/BG/2025/bg-10748 - final report station eliseyna.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 198100,
+  "ratio": 1.11,
+  "avisos": [],
+  "tokens_in": 83414,
+  "tokens_out": 57637,
+  "destino": "md-es/BG/2025/bg-10748 - final report station eliseyna.md"
+ },
+ "md/BG/2025/final report_nib bg_sprm kmz-svch.md": {
+  "fichero": "md/BG/2025/final report_nib bg_sprm kmz-svch.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 241791,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 91877,
+  "tokens_out": 72955,
+  "destino": "md-es/BG/2025/final report_nib bg_sprm kmz-svch.md"
  }
 }

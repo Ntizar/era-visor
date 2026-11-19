@@ -1,0 +1,28 @@
+{
+ "md/SK/2006/A3 DNV-260506.md": {
+  "md": "md/SK/2006/A3 DNV-260506.md",
+  "pdf": "pdfs/SK/A3 DNV-260506.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "slk",
+  "paginas": 5,
+  "paginas_vacias": 0,
+  "confianza_media": 89.5,
+  "confianza_min": 77.1,
+  "chars": 9801,
+  "md5_pdf": "4b05ed4cff050f9f94f95c3982f31ddb",
+  "fecha": "2026-11-19"
+ },
+ "md/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md": {
+  "md": "md/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md",
+  "pdf": "pdfs/SK/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "slk",
+  "paginas": 28,
+  "paginas_vacias": 1,
+  "confianza_media": 86.3,
+  "confianza_min": 0.0,
+  "chars": 67923,
+  "md5_pdf": "3de45728d2297894d7c1967e2a74ad73",
+  "fecha": "2026-11-19"
+ }
+}

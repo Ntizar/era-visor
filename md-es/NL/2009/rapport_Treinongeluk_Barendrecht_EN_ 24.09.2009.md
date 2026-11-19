@@ -10,19 +10,20 @@ chars: 357790
 ratio_longitud: 1.06
 tokens_in: 121045
 tokens_out: 86463
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 2/12", "bloque 5: cifras cortas: 1/13", "bloque 7: cifras cortas: 5/18", "bloque 8: cifras largas: 1/16; cifras cortas: 2/15", "bloque 16: cifras cortas: 4/27", "bloque 23: cifras cortas: 5/17"]
-avisos: ["bloque 53: cifras largas: faltan 4/8 (50%)"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 8: cifras cortas: 2/8", "página 11: cifras cortas: 1/12", "página 13: cifras cortas: 5/17", "página 14: cifras largas: 1/16; cifras cortas: 2/14", "página 27: cifras cortas: 4/26", "página 40: cifras cortas: 5/16"]
 ---
+
 ## Página 1
+
 
 Colisión de trenes en Barendrecht,
 24 de septiembre de 2009
 
-
 ## Página 2
+
 
 COLISIÓN DE TRENES EN BARENDRECHT,
 24 DE SEPTIEMBRE DE 2009
@@ -30,8 +31,8 @@ La Haya, enero de 2011
 Los informes de la Junta de Seguridad de los Países Bajos son de dominio público. 
 Todos los informes están también disponibles en el sitio web de la Junta de Seguridad de los Países Bajos, www.onderzoeksraad.nl/en
 
-
 ## Página 3
+
 
 ## LA JUNTA DE SEGURIDAD DE LOS PAÍSES BAJOS
 La Junta de Seguridad de los Países Bajos se constituyó para llevar a cabo la tarea de investigar y determinar las causas o posibles causas de incidentes individuales o categorías de incidentes en todos los sectores. El objetivo de estas investigaciones es exclusivamente prevenir futuros accidentes o incidentes y, cuando los resultados lo justifiquen, emitir recomendaciones. La organización consta de una Junta con cinco miembros permanentes y un equipo profesional. La Junta de Seguridad de los Países Bajos designa comités asesores para investigaciones específicas.
@@ -69,8 +70,8 @@ Fax:
 Internet:
 www.onderzoeksraad.nl/en
 
-
 ## Página 4
+
 
 ## ÍNDICE
 Lista de abreviaturas......................................................................................................... 5
@@ -112,10 +113,12 @@ Anexo 6: El problema de los SPAD en los Países Bajos...........................
 Anexo 7: Desarrollo del ERTMS.......................................................................................103
 Anexo 8: Colisiones de trenes relacionadas con SPAD........................................................................... 107
 
-
 ## Página 5
 
+
+
 ## Página 6
+
 
 ## LISTA DE ABREVIATURAS
 ALARP
@@ -149,11 +152,12 @@ As Low As Reasonably Practicable (Tan bajo como sea razonablemente practicable)
 ### Explicación de términos (técnicos)
 El Anexo 3 contiene una explicación de varios términos técnicos utilizados en este informe.
 
-
 ## Página 7
 
 
+
 ## Página 8
+
 
 ## CONSIDERACIÓN
 El primer tren neerlandés viajó de Ámsterdam a Haarlem el 20 de septiembre de 1839. En 2010, unos 170 años después, más de un millón de pasajeros viajan diariamente en los trenes neerlandeses. Muchos trenes de mercancías también circulan a diario por la red ferroviaria, algunos de ellos transportando materiales peligrosos. No hará falta mucha imaginación para comprender que las consecuencias de pasar una señal en rojo pueden ser catastróficas.
@@ -168,6 +172,7 @@ La colisión real ocurrió en la Conexión de Barendrecht. Esta ubicación se ab
 Un tren de mercancías mixto es un tren compuesto por vagones separados cargados con mercancías de diversos transportistas que se acoplan en una estación de clasificación. Los trenes de mercancías mixtos también se conocen como trenes de carga unitarios y trenes de carga de mercancías.
 
 ## Página 9
+
 
 solo dos o tres segundos antes de la colisión, mientras que el tren había pasado una señal muy visible situada en peligro poco antes de la colisión y había pasado por encima de desvíos que no estaban colocados en la posición correcta para el tren. Los conductores de tren suelen responder entonces aplicando los frenos. En este caso, no hay indicios de que el conductor del tren mixto de mercancías respondiera a la situación. En conclusión, la autopsia reveló que el conductor del tren padecía un trastorno cardíaco hereditario que puede provocar muerte súbita y que puede estar asociado con arritmias cardíacas, mareos y/o desmayos. Las quejas de esta naturaleza podrían explicar tanto las dos intervenciones del sistema del hombre muerto como el SPAD (paso de señal en peligro).
 Medidas para controlar el problema de los SPAD
@@ -185,6 +190,7 @@ Un itinerario de tren es la sección de la planificación que especifica las ví
 
 ## Página 10
 
+
 protección de trenes - primera generación (ATB-EG). Este tipo de sistema automático de protección de trenes presenta una serie de limitaciones funcionales que impidieron al sistema evitar la colisión: cuando el tren se aproxima a una señal en peligro. El ATB-EG interviene únicamente si el maquinista no aplica los frenos o el tren circula a más de 40 km/hora. El sistema no interviene en el caso de que el maquinista aplique los frenos pero con una fuerza de frenado insuficiente o el tren circule a menos de 40 km/hora. Un sistema (como el ATB-NG, protección automática de trenes - nueva generación) que no tuviera esta limitación funcional habría evitado la colisión. Sin embargo, ni la señal correspondiente ni la locomotora estaban equipadas con este sistema en el momento del accidente. La mayor parte de la red ferroviaria neerlandesa está equipada con la protección ATP limitada que se aplicaba en Barendrecht. Más detalles sobre el desarrollo y la implementación de los diversos tipos de sistemas ATP en los Países Bajos se incluyen posteriormente en este análisis.
 En segundo lugar, el maquinista del tren mixto de mercancías no recibió un recordatorio explícito de que se aproximaba a una señal que podía estar en peligro. Esto habría sido posible, ya que existía un sistema para este fin en el pasado, conocido como la «función de cancelación». Se trataba de un sistema técnico de advertencia que no solo podía llamar la atención del maquinista sobre la posibilidad de que el tren se aproximara a una señal que podía estar en peligro (en una zona de 40 km/hora), sino que también podía detener el tren si el maquinista no respondía. A mediados de la década de 1990, la función de cancelación fue desactivada en el material rodante existente y dejó de instalarse en nuevo material rodante. Esto se debió a varias razones. En primer lugar, se introdujo un nuevo tipo de sistema de hombre muerto que tenía un objetivo diferente6 al de la función de cancelación, pero que debía operarse de manera similar. La segunda razón era que la cancelación era una acción rutinaria que se consideraba ineficaz. La Junta considera que la función de cancelación no debería haberse retirado hasta que pudiera ser sustituida por un mejor sistema de advertencia.
 En conclusión, la probabilidad de un SPAD puede reducirse disminuyendo el riesgo de que los maquinistas enfermen durante el trayecto o continúen el viaje estando enfermos. La Junta, como se ha indicado anteriormente, considera plausible que el tren mixto de mercancías pasara la señal en peligro en Barendrecht porque el maquinista había enfermado. Las siguientes opciones para reducir este riesgo estaban disponibles en Barendrecht:
@@ -194,6 +200,7 @@ Prevención de un accidente tras un SPAD. Existen diversas opciones para evitar 
 El objetivo del sistema de hombre muerto es iniciar una parada de emergencia en caso de que el maquinista enferme o no responda por otra causa, mientras que el objetivo de la función de cancelación es recordar al maquinista que el tren se aproxima a una señal que puede estar en peligro.
 
 ## Página 11
+
 
 •	
 Señal opuesta puesta automáticamente en peligro: Es técnicamente factible responder al paso de un tren por una señal puesta en peligro mediante la colocación inmediata de la señal opuesta correspondiente en peligro. Aunque esta medida no será efectiva en todas las situaciones, colocar automáticamente una señal opuesta en peligro puede dar lugar a una iniciación más temprana de una parada de emergencia y, a su vez, evitar una colisión o al menos reducir las consecuencias de la misma. Si esta medida se hubiera implementado en Barendrecht, la señal para el tren de contenedores que se aproximaba podría haberse puesto en peligro unos 15 segundos antes y el maquinista del tren podría haber frenado unos 15 segundos antes. Sin embargo, este no fue el caso: la señal opuesta correspondiente se puso en peligro solo cuando el tren mixto de mercancías había entrado realmente en la ruta del tren de contenedores.
@@ -216,6 +223,7 @@ La Ley Ferroviaria establece que el Ministro puede conceder la gestión de la in
 
 ## Página 12
 
+
 •	
 asignar la operación del tráfico ferroviario a empresas ferroviarias que cumplan los requisitos, incluida la posesión del certificado de seguridad pertinente. 
 La concesión de gestión es otorgada por el Ministro y el certificado de seguridad es emitido por la Inspección de Transporte, Obras Públicas y Gestión del Agua en nombre del Ministro. Ambos imponen condiciones para garantizar que los trenes puedan circular por la infraestructura con seguridad y que las empresas ferroviarias estén en condiciones de hacer un uso seguro de los ferrocarriles. La Inspección de Transporte, Obras Públicas y Gestión del Agua supervisa el cumplimiento de estas condiciones en nombre del Ministro. 
@@ -226,6 +234,7 @@ Sin embargo, la introducción del ATP - primera generación (ATB-EG) llevó much
 As Low As Reasonably Practicable
 
 ## Página 13
+
 
 2027, pero que, en caso de una introducción acelerada del sistema, sería factible para 2005.¹²
 El hecho de que NS Nederlandse Spoorwegen (Ferrocarriles Neerlandeses) hubiera estado trabajando durante varios años en el desarrollo del ATB-NG se desprende de documentos como el informe Rail 21¹³, en el que NS Nederlandse Spoorwegen presentaba su visión sobre el futuro del ferrocarril. Este informe se basaba en el concepto subyacente de que la capacidad de transporte del ferrocarril debería duplicarse para ofrecer una alternativa al volumen de tráfico por carretera en continuo aumento. El informe Rail 21 de NS Nederlandse Spoorwegen contenía la siguiente afirmación sobre el ATB-NG: «El sistema automático de protección de trenes de segunda generación (ATP) mejorará la calidad del proceso de circulación de trenes¹⁴». NS Nederlandse Spoorwegen utilizaba el término «segunda generación» para referirse al ATB-NG.
@@ -246,6 +255,7 @@ La investigación de este choque, «Paso de una señal en rojo en la Estación C
 
 ## Página 14
 
+
 de un grupo directivo sobre los SPAD compuesto por representantes de las mayores empresas ferroviarias y observadores del Ministerio de Transporte, Obras Públicas y Gestión del Agua y de la Inspección de Transporte, Obras Públicas y Gestión del Agua. Este grupo directivo elaboró un plan para la reducción de los SPAD que contenía medidas para el control de esta problemática. El objetivo era completar el plan antes de finales de 2008, estimándose que el número de SPAD se reduciría en un 50% y el riesgo de SPAD en un 75%. El Ministro de Transporte, Obras Públicas y Gestión del Agua adoptó las medidas y objetivos del plan, que desde entonces han servido como base de la política gubernamental respecto a la cuestión de los SPAD. En virtud de la medida más importante del plan, 1.000 señales estarían equipadas con protección «adicional» en forma de protección automática de tren - versión mejorada (ATB-VV). La ATB-VV es un complemento de una señal equipada con ATB-EG que puede detener automáticamente un tren también equipado con ATB-VV en caso de amenaza de un SPAD. Se asumió entonces que equipar el 20% de las señales que presentaban mayor riesgo (1.000 de las 5.000¹⁷) con ATB-VV reduciría el riesgo de SPAD en un 80%. En consecuencia, esto permitiría alcanzar el objetivo de reducción del riesgo.
 Sin embargo, a finales de 2008 quedó claro que los objetivos del plan de reducción de SPAD no se lograrían mediante la implementación de las medidas establecidas en el plan, ya que la decisión de equipar 1.000 señales con ATB-VV se basaba en la suposición de que la mayoría de los SPAD ocurrían en un número limitado de señales, una suposición que resultó ser incorrecta. Se decidió entonces equipar aproximadamente 260 señales adicionales, además de las 1.000 originales, con ATB-VV. En 2010, el Ministro de Transporte, Obras Públicas y Gestión del Agua también decidió, en parte sobre la base de una investigación realizada por el Ministro sobre el accidente de Barendrecht, equipar 350 señales adicionales en la red ferroviaria básica de mercancías peligrosas¹⁸ con ATB-VV. Esto se debió a que la selección inicial de las señales a equipar con ATB-VV no había tenido en cuenta los riesgos asociados al transporte de mercancías peligrosas (seguridad externa). El Ministro prometió tomar una decisión sobre un número adicional de señales a equipar con ATB-VV sobre la base del número de SPAD ocurridos en 2010.
 Como se ha indicado anteriormente, la introducción general de la ATB-NG se pospuso debido a la llegada prevista de un sistema europeo de seguridad (ERTMS¹⁹). El ERTMS fue desarrollado e implementado alrededor de 2007. Sin embargo, en la actualidad el sistema solo está operativo en las líneas ferroviarias de mercancías Betuweroute y de alta velocidad HSL-Zuid. Aún no está claro cuándo se introducirá el ERTMS en otras partes de la red ferroviaria neerlandesa ni a qué escala. Las empresas ferroviarias presentarán una propuesta para la implementación continua del ERTMS al Ministro en 2013. No obstante, el Consejo considera que el Ministro debería proporcionar aclaraciones sobre la introducción del ERTMS lo antes posible (y no esperar hasta la presentación de la propuesta en 2013). Esto es necesario para permitir que el sector ferroviario tome decisiones sobre la implementación de medidas de control alternativas en otras partes de la red ferroviaria que no estarán equipadas con ERTMS o no estarán equipadas con el sistema en un futuro próximo. Esto se debe a que el Consejo está preocupado por el largo período de tiempo requerido para introducir el ERTMS en la mayoría de la red ferroviaria neerlandesa, ya que la experiencia adquirida en el pasado ha revelado que se requieren varias décadas para el desarrollo y la introducción de nuevos sistemas de protección en la mayoría de la red ferroviaria. Además, existe incertidumbre sobre los costes y beneficios precisos del ERTMS en los Países Bajos, hay incertidumbre sobre la financiación del ERTMS y aún no existe un plan específico para la introducción del sistema. En conclusión, el Ministro ha declarado que tiene la intención de esperar a las primeras experiencias en otros Estados miembros y a la disponibilidad de una nueva funcionalidad. En consecuencia, el Consejo considera que, con la política actual, el ERTMS no hará una gran contribución a la reducción de los SPAD en la red ferroviaria neerlandesa en un futuro próximo.
@@ -257,6 +267,7 @@ Sistema Europeo de Gestión del Tráfico Ferroviario.
 
 ## Página 15
 
+
 pasando señales en peligro. Se espera que esta situación continúe durante años. Por este motivo, la Junta ha investigado hasta qué punto se han implementado otras medidas para controlar los SPAD. Resulta llamativo observar que los trabajos de desarrollo e implementación de estas medidas comenzaron solo alrededor de 2004, como demuestra el plan de reducción de SPAD formulado en 2004, que complementa el desarrollo y la introducción del ATB-VV con medidas centradas en la mejora de (a) la alerta del conductor; (b) la visibilidad de las señales en los patios de maniobras; y (c) los sistemas de seguridad de las señales que han sido pasadas cuando estaban en peligro más de dos veces en los últimos cinco años.
 Como se indicó anteriormente, en 2008 quedó claro que no se alcanzarían los objetivos del plan de reducción de SPAD. El grupo directivo de SPAD anunció entonces medidas adicionales, incluidas investigaciones complementarias de las señales pasadas cuando estaban en peligro más de dos veces en los últimos cinco años. Además, las empresas ferroviarias están trabajando en el desarrollo e introducción de nuevas funcionalidades para el diseño de horarios y para la identificación de conflictos en los horarios. Sin embargo, lamentablemente, las empresas ferroviarias no han indicado cuándo se completará esta nueva funcionalidad. En conclusión, en 2010 el Ministro de Transporte, Obras Públicas y Gestión del Agua solicitó a las empresas ferroviarias que realizaran nuevos estudios sobre medidas complementarias, incluida una alternativa para la función de cancelación desactivada.
 Conclusiones sobre el enfoque del problema de los SPAD
@@ -267,6 +278,7 @@ Cada sistema, incluido el ERTMS, tiene sus limitaciones. Por ejemplo, el ERTMS n
 
 ## Página 16
 
+
 Durante las últimas décadas, el foco se centró en el sistema ATP, y los trabajos para el desarrollo conjunto y la introducción de otras medidas —como un programa para mejorar la alerta del maquinista— no comenzaron hasta aproximadamente 2004. Estos trabajos se iniciaron tras otro grave accidente ocurrido ese mismo año (la colisión de trenes en la Estación Central de Ámsterdam a la que se ha hecho referencia anteriormente). En aquel momento, se buscó una solución mediante la creación del grupo directivo SPAD, un acuerdo de colaboración entre las distintas partes interesadas del sector ferroviario. El grupo directivo SPAD elaboró un «plan de reducción de SPAD» que contenía medidas destinadas a controlar el problema de los SPAD. Sin embargo, en general, las medidas establecidas en dicho plan apenas prestan atención a la reducción de situaciones en las que son necesarios señales en peligro o a la limitación de las consecuencias de los SPAD: se centran en la prevención de los SPAD, en particular equipando con ATB-VV un número determinado de señales existentes. Solo se ha realizado una estimación aproximada de los efectos de las medidas establecidas en el plan de reducción de SPAD y no se han llevado a cabo cálculos precisos. Como se revisó anteriormente en este análisis, se asumió que equipar el 20 % de las señales con ATB-VV resultaría en una reducción del 80 % del riesgo de SPAD, supuesto que se demostró incorrecto. Además, no se han considerado las medidas razonables que podrían implementarse para controlar el problema de los SPAD. Medidas que podrían contribuir a este control —como la reducción de conflictos en los horarios, la revocación de una señal por parte del gestor de tráfico ferroviario (alarma de paso de señal en peligro) y el establecimiento automático en peligro de la señal opuesta— fueron omitidas del plan de reducción sin una justificación adecuada para su omisión. Tampoco el grupo directivo SPAD ha proporcionado información sobre qué medidas son viables a costes aceptables. Las actividades del grupo directivo no han resuelto el aforementioned problema de la falta de una planificación estructural.
 Cerrar
 La privatización y división de la antigua empresa estatal NS Nederlandse Spoorwegen en los años noventa cambió las relaciones mutuas en el sector ferroviario. Mientras que antes el Ministro trataba únicamente con NS Nederlandse Spoorwegen, responsable tanto de la infraestructura como del transporte ferroviario, ahora intervienen diversas partes en el ferrocarril. La gestión de la infraestructura recae en ProRail; las operaciones de transporte, incluido el uso del material rodante, recaen en los transportistas. El Gobierno es responsable del sistema.
@@ -274,6 +286,7 @@ Las distintas partes implicadas asumen sus responsabilidades individuales en las
 Al gestor de infraestructura, ProRail, se le asigna un deber especial dado que esta parte actúa como nodo dentro de la cadena para toda la información sobre el estado y la seguridad del ferrocarril. En esta posición, ProRail puede identificar cuellos de botella e implementar cambios. Además de la gestión del ferrocarril, ProRail también es responsable de la gestión del tráfico ferroviario. Se espera que ProRail haga uso de esta posición para recopilar y analizar los riesgos de seguridad ferroviarios existentes y nuevos y, sobre la base de estos análisis, considerar las medidas necesarias para garantizar el uso seguro del ferrocarril. Cuando los recursos disponibles no sean suficientes para reducir los riesgos a un nivel aceptable, ProRail debe considerar la reasignación de dichos recursos. Cuando las medidas que deben implementarse sean de tal naturaleza que la reasignación no sea suficiente, ProRail debe advertir al Ministro para que este pueda considerar las necesidades y, cuando proceda, decidir poner a disposición recursos adicionales. Esta es la responsabilidad personal de ProRail, una responsabilidad que no depende de las quejas de los transportistas. ProRail también debe exigir a los usuarios del ferrocarril la implementación de las medidas necesarias.
 
 ## Página 17
+
 
 Además, los transportistas deben asumir su responsabilidad personal al decidir si la circulación de un tren para el transporte de pasajeros o mercancías es segura o no.20 Las decisiones de NS Reizigers relativas al transporte de pasajeros por ferrocarril deberían ir precedidas, idealmente, de una evaluación sobre si los riesgos están controlados en una medida adecuada. Esto también es aplicable, por ejemplo, a los transportistas que toman la decisión de transportar materiales peligrosos por ferrocarril. Cuando consideren que los riesgos no están controlados en una medida adecuada, se espera que actúen en consecuencia. Estas partes dependen principalmente de sus recursos disponibles.
 Por otra parte, el gestor de infraestructura y los transportistas deben -cada uno por su parte conjuntamente- proporcionar una visión de los costes asociados a cada una de las medidas potenciales y del nivel de seguridad que puede alcanzarse con cada una de dichas medidas. La Junta espera entonces que el gestor de infraestructura desempeñe el papel principal. El Ministro, que ostenta la responsabilidad sistémica del sistema ferroviario, debe evaluar las medidas propuestas en términos del nivel de seguridad requerido. Cuando se alcance un acuerdo sobre las medidas propuestas, el Ministro debe, cuando sea relevante, asignar los recursos financieros necesarios para implementar las medidas si así lo requiere la reasignación de prioridades dentro del ámbito político. Cuando no se pueda alcanzar un acuerdo, todas las partes tienen la obligación de proporcionar una visión de las consecuencias resultantes para la seguridad de los usuarios del ferrocarril y actuar en consecuencia. Una vez más, el gestor de infraestructura, en vista de su papel como experto ferroviario, puede esperarse que tenga una visión más clara de las consecuencias que los transportistas.
@@ -290,6 +303,7 @@ Acuerdo de Coalición de Libertad y Responsabilidad VVD-CDA, 30 de septiembre de
 
 ## Página 18
 
+
 Nota explicativa: En opinión de la Junta, la manera adecuada de adoptar esta recomendación es elaborar un plan de acción específico para la implementación de todas estas medidas. Es deseable que una parte asuma el liderazgo en la preparación de este plan: en opinión de la Junta, esta debe ser ProRail, ya que esta parte cumple el papel de nodo para toda la información sobre la seguridad ferroviaria. Cuando las medidas específicas sean demostrablemente inviables para las empresas ferroviarias, la Junta espera que las empresas ferroviarias inicien consultas con el Ministro de Infraestructura y Medio Ambiente para examinar las oportunidades disponibles para resolver estos problemas.
 2.	 Desarrollar, en un futuro próximo, un sistema (técnico u organizativo) que asigne la potestad de decidir sobre la continuación del viaje por parte del maquinista tras una intervención del dispositivo hombre muerto a un funcionario distinto del conductor.
 Al Ministro de Infraestructura y Medio Ambiente
@@ -302,11 +316,12 @@ M. Visser (mr.)
 Presidente de la Junta de Seguridad de los Países Bajos	
 Secretario General
 
-
 ## Página 19
 
 
+
 ## Página 20
+
 
 ## 1 INTRODUCCIÓN
 1.1	
@@ -329,6 +344,7 @@ Artículo 8, letra a, del Besluit Onderzoeksraad voor veiligheid («Decreto de c
 
 ## Página 21
 
+
 1.3	
 Alcance de la investigación
 La colisión de trenes en Barendrecht motivó la decisión del Consejo de llevar a cabo una investigación sobre las deficiencias de seguridad que dieron lugar al SPAD en Barendrecht y la posterior colisión. Dado que se producen más de 200 SPAD cada año en los Países Bajos y las consecuencias de dichos SPAD pueden ser extremadamente graves, el Consejo también decidió prestar atención a la cuestión de los SPAD en general. El Consejo ha investigado si las deficiencias de seguridad que desempeñaron un papel en la colisión de trenes en Barendrecht son exclusivas de dicha colisión o si las deficiencias establecidas también desempeñan un papel en la cuestión de los SPAD en general. Las deficiencias de seguridad que no desempeñaron un papel en la colisión de Barendrecht no se abordan en este informe.
@@ -337,8 +353,8 @@ La colisión de trenes en Barendrecht motivó la decisión del Consejo de llevar
 Guía para el lector
 La Sección 2 revisa los hechos de la colisión en Barendrecht y contiene información factual sobre la cuestión de los SPAD en los Países Bajos. La Sección 3 explica el marco de referencia, el marco que utiliza el Consejo para revisar sus hallazgos. Este marco de referencia está compuesto por la legislación y normativa pertinentes, los reglamentos internos de las empresas pertinentes y los principios adoptados por el Consejo de Seguridad de los Países Bajos para una gestión adecuada de la seguridad. La Sección 4 revisa las partes implicadas y sus responsabilidades. La Sección 5 contiene un análisis de las circunstancias que permitieron que ocurriera la colisión de trenes en Barendrecht, así como de las opciones disponibles para prevenir el accidente y el grado en que se hicieron uso de ellas. Esta sección también establece si las circunstancias en las que ocurrió la colisión se encuentran también en otras ubicaciones de la red ferroviaria neerlandesa. La Sección 6 contiene un análisis de las razones por las que, cuando procede, no se utilizan opciones para el control de la cuestión de los SPAD, y el grado en que las partes implicadas cumplen sus responsabilidades de manera adecuada. La Sección 7 enumera las conclusiones de la investigación. El informe concluye con la Sección 8, en la que el Consejo emite recomendaciones para el control de la cuestión de los SPAD y, en última instancia, la mejora de la seguridad ferroviaria.
 
-
 ## Página 22
+
 
 ## 2	 INFORMACIÓN FACTUAL: LA COLISIÓN EN BARENDRECHT Y LA CUESTIÓN DE LOS SPAD 
 ## EN LOS PAÍSES BAJOS 
@@ -362,15 +378,15 @@ Un patio de mercancías es una instalación equipada con varias vías que pueden
 Un tren mixto de mercancías es un tren compuesto por vagones separados cargados con mercancías de varios transportistas que se acoplan en un patio de maniobras. Los trenes mixtos de mercancías también se conocen como trenes de carga unitarios y trenes de carga de mercancías.
 NS HiSpeed es la marca comercial para los trenes internacionales que circulan bajo el certificado de NS Reizigers o High Speed Alliance (el operador de trenes en la línea ferroviaria HSL-Zuid).
 
-
 ## Página 23
+
 
 de la colisión. Las subsecciones también revisan los sucesos en los gestores de tráfico ferroviario pertinentes durante el periodo alrededor de la colisión.27 Las rutas seguidas por los trenes se muestran en la Figura 2.
 
-Los gestores de tráfico ferroviario son funcionarios que garantizan que los trenes en la sección de la red ferroviaria de la que son responsables puedan circular de forma segura y conforme al horario en la medida de lo posible. 
-
+Los gestores de tráfico ferroviario son funcionarios que garantizan que los trenes en la sección de la red ferroviaria de la que son responsables puedan circular de forma segura y conforme al horario en la medida de lo posible.
 
 ## Página 24
+
 
 VÍAS PARA TRENES DE PASAJEROS
 VÍAS PARA TRENES DE MERCANCÍAS
@@ -422,6 +438,7 @@ Figura 2: Diagrama de las vías ferroviarias en Barendrecht
 
 ## Página 25
 
+
 2.1.1	
 El tren mixto de mercancías
 El maquinista del tren mixto de mercancías comenzó su turno en su base de Onnen, cerca de Groningen, a las 17:45 aproximadamente del 24 de septiembre de 2009. El turno incluía la conducción del tren mixto de mercancías desde Beilen hasta el patio de mercancías de Kijfhoek en Barendrecht. El maquinista se reunió con dos colegas cuando se presentó al servicio en Onnen. Estos habían preparado el tren mixto de mercancías para la salida. El maquinista, en consulta con un colega, no inició su turno en Beilen, que estaba más lejos, sino desde Onnen.
@@ -437,6 +454,7 @@ No se observaron otros detalles para el trayecto desde Kijfhoek hasta Barendrech
 Los trenes están equipados con un registrador automático de viajes. Este sistema, que es aproximadamente comparable a la caja negra instalada en las aeronaves, almacena los datos más importantes sobre los viajes recientes del tren. Los datos almacenados en el sistema pueden leerse tras un accidente y dichos datos pueden proporcionar una visión sobre la causa del accidente.
 
 ## Página 26
+
 
 El hecho de que el sistema de hombre muerto no iniciara una acción de frenado revela que el maquinista del tren debió haber operado dicho sistema por última vez dentro de los 65 segundos previos a la colisión (60 segundos y luego dos períodos sucesivos de 2,5 segundos). La señal 328, que posteriormente se observó en posición de peligro (véase el recuadro 2) y que fue rebasada sin autorización, era claramente visible.
 ### Recuadro 2: Señal en posición de peligro
@@ -455,6 +473,7 @@ Esto se desprende del análisis del archivo de registro del sistema electrónico
 Un maquinista con autorización completa ha sido formado para conducir trenes y unidades de maniobra independientemente de la velocidad y las distancias en los Países Bajos. Se distinguen de los maquinistas con autorización limitada, que están formados para conducir trenes y unidades de maniobra a una velocidad máxima de 40 km/hora y dentro de un radio de 25 kilómetros desde el punto de partida.
 
 ## Página 27
+
 
 Tras presentarse a su turno, el maquinista del tren de contenedores en la estación de mercancías de Rotterdam Waalhaven preparó la locomotora para la salida, lo que incluyó el llenado de los depósitos de combustible y la realización de una inspección técnica. A continuación, el maquinista condujo la locomotora hasta la estación de mercancías de Kijfhoek, donde la acopló al tren de contenedores listo para la salida. El destino final del tren de contenedores, que había sido conducido desde la estación de salida de Maasvlakte West hasta Kijfhoek ese mismo día, era Varsovia, en Polonia. En su salida de Kijfhoek, el tren de contenedores estaba compuesto por una locomotora y 22 vagones portacontenedores, el vigésimo primero de los cuales transportaba un compuesto peligroso (un líquido alcalino corrosivo). El tren de mercancías pesaba 1200 toneladas y medía 600 metros de longitud.
 A las 22:13, el maquinista del tren de contenedores se puso en contacto telefónico con el gestor de tráfico ferroviario para informarle de que el tren estaba listo para la salida. El gestor de tráfico ferroviario liberó una ruta³¹ para el tren de contenedores, que partió a las 22:25. Cuando el tren se aproximaba a Barendrecht, circulaba un minuto por delante del horario previsto.³²
@@ -475,6 +494,7 @@ Una llamada de emergencia es una llamada recibida por todos los maquinistas de t
 
 ## Página 28
 
+
 destellos de luz y caminó hacia el maquinista para informarle. El maquinista y el guarda sospecharon que el tren internacional de pasajeros había dañado la catenaria. El maquinista partió de la estación, pero permaneció alerta ante posibles problemas. Cuando el maquinista escuchó posteriormente dos llamadas de emergencia ininteligibles con poco tiempo de separación entre sí, aplicó inmediatamente los frenos. Poco después, el maquinista detuvo su tren con la cabina del conductor justo al lado de la cabina del tren internacional de pasajeros.
 El maquinista del tren exprés, sentado en su cabina, discutió brevemente la situación con el maquinista del tren internacional de pasajeros. A continuación, el maquinista del tren exprés bajó y fue a investigar. Vio que dos trenes de mercancías habían colisionado frontalmente bajo el viaducto que soporta la autopista A15. Llamó a los maquinistas de ambos trenes, pero solo obtuvo respuesta de la locomotora del tren de contenedores. Cuando el guarda del tren exprés se reunió con su maquinista, este le informó de que el maquinista del tren de contenedores estaba gravemente herido y le pidió que avisara a los servicios de emergencia. El maquinista del tren exprés vio entonces que comenzaban dos pequeños incendios bajo un vagón cisterna cercano al viaducto. Él y el maquinista del tren internacional de pasajeros extinguieron los incendios. A continuación, el maquinista del tren exprés regresó a la locomotora del tren de contenedores para hablar con el maquinista herido. La policía y los bomberos llegaron al lugar del accidente poco después.
 2.1.5	
@@ -489,8 +509,8 @@ Tras la introducción del sistema ARI a mediados de la década de 1990, los gest
 El gestor de tráfico ferroviario vio en su monitor que solo unos pocos trenes estaban circulando en ese momento. Estos trenes incluían el tren mixto de mercancías y el tren de contenedores. El gestor de tráfico ferroviario abandonó entonces su puesto. Cuando el gestor de tráfico ferroviario regresó tras unos dos minutos, miró su monitor y vio un mensaje de ocupación de vía mostrado aguas abajo de la señal 328 en el patio de maniobras de Barendrecht que no debería haberse transmitido. Además, el monitor también mostraba alarmas de avería para los desvíos 323 y 317B. El gestor de tráfico ferroviario sospechó inmediatamente que había ocurrido un accidente. Intentó entonces contactar con los maquinistas de los dos trenes de mercancías mediante GSM-R34. Ningún maquinista respondió. El gestor de tráfico ferroviario envió entonces una llamada de emergencia a la zona de Barendrecht.
 GSM-R es el sistema de comunicación entre la gestión del tráfico ferroviario y los maquinistas.
 
-
 ## Página 29
+
 
 El gestor de tráfico ferroviario «Rotterdam-Oost» en el centro de gestión del tráfico ferroviario de Rotterdam comenzó su turno nocturno alrededor de las 22:30. Poco después de las 22:30, toda la zona de control35 del gestor de tráfico ferroviario mostraba mensajes de ocupación de vía.36 Inmediatamente después, el centro de gestión del tráfico ferroviario recibió dos llamadas de emergencia. Una llamada de emergencia provenía del maquinista del tren internacional de pasajeros, quien reportó una colisión con un vagón de mercancías, y la otra provenía del gestor de tráfico ferroviario «IJsselmonde». 
 2.1.6	
@@ -518,6 +538,7 @@ Un mensaje de ocupación de vía es una señal mostrada en la pantalla para info
 Un paso elevado es un viaducto para el tráfico rodado o ferroviario diseñado para evitar que dos vehículos se encuentren accidentalmente («liberar de conflictos dos direcciones de circulación más conflictivas»).
 
 ## Página 30
+
 
 2.2	
 Las consecuencias de la colisión de trenes en Barendrecht
@@ -558,8 +579,8 @@ TREN MIXTO DE MERCANCÍAS
 Figura 4: Diagrama de la situación tras la colisión
 Además de los considerables daños a la vía, a la catenaria y a la carga transportada por uno de los trenes de mercancías, también resultó dañado el viaducto que soporta la autopista A15. Dado que las consecuencias de estos daños no estaban claras inicialmente, el tráfico rodado por el viaducto se detuvo durante varias horas. Tras una evaluación de los daños al viaducto, se reabrió al tráfico rodado. Prácticamente no fue posible ningún tráfico ferroviario entre Kijfhoek y el Puerto de Rotterdam durante los cuatro días posteriores al accidente. Esto tuvo graves consecuencias para el transporte internacional de mercancías, pero el tráfico de pasajeros apenas sufrió molestias.
 
-
 ## Página 31
+
 
 Figura 5: Los daños a las locomotoras de los dos trenes de mercancías (a plena luz del día)
 2.3	
@@ -577,6 +598,7 @@ Las cifras citadas en este informe se refieren al número total de SPAD, es deci
 
 ## Página 32
 
+
 los SPAD registrados se produjeron en una señal en vía libre, un bloque de vía o una sección de paso de vía, generalmente entre dos estaciones.40
 Los SPAD ocurren en algunas señales más que en otras. Una señal con SPAD repetido es aquella en la que se pasa una señal en peligro tres o más veces dentro de un periodo de cinco años.41 Existen más de ochenta señales con SPAD repetidos. La composición de este grupo varía en cierta medida a lo largo del tiempo. Aproximadamente tres cuartas partes de los SPAD involucraron una señal sin SPAD repetido. La mitad de esa cuarta parte de los SPAD que involucraban una señal con SPAD repetido correspondía a señales con tres SPAD en cinco años y la otra mitad a señales con cuatro o más SPAD en cinco años.
 La Figura 16 muestra la evolución del número de SPAD desde 1981. No se dispone de datos fiables para el periodo anterior a 1981. La figura revela que el número de SPAD registrados aumentó durante la segunda mitad de los años noventa, pasando de entre 125 y 150 anuales antes de 1995 a entre 250 y 275 anuales al comienzo del siglo actual. Al examinar estas cifras, es importante tener en cuenta que el número de movimientos de trenes ha cambiado a lo largo de los años y que pueden existir cambios en el grado de notificación de los SPAD y en el número de señales en peligro que encuentran los conductores de tren durante sus trayectos. Por consiguiente, aunque las cifras ofrecen una indicación del número de SPAD, deben interpretarse con la debida cautela. Además, no se registran automáticamente las intervenciones de los sistemas ATP y, por lo tanto, estas no se incluyen en las estadísticas. Estas últimas cifras se refieren al número de SPAD que se habrían producido si los sistemas ATP no hubieran intervenido.
@@ -589,8 +611,8 @@ Figura 6: Número de SPAD en el periodo 1981-2009
 Es importante señalar entonces que los SPAD que implican señales automáticas (señales P) en vía libre no se registran automáticamente y que puede suponerse que no todos estos SPAD son notificados o conocidos de otro modo. El riesgo de pasar una señal automática en vía libre suele ser menor que en una estación de clasificación, ya que no hay aparatos de cambio aguas abajo de estas señales y los trenes circulan en la misma dirección.
 En vista del número de señales (aproximadamente 10.000) y del número medio de SPAD cada año (aproximadamente 250), «dos SPAD en un periodo de cinco años» que involucren la misma señal pueden explicarse, desde una perspectiva estadística, en términos de «casualidad».
 
-
 ## Página 33
+
 
 La Figura 7 muestra que el número de SPAD que resultaron en víctimas mortales ha disminuido drásticamente desde 1980:
 •	Durante el periodo de 1950 a 1980, hubo una colisión con resultado de muerte como media una vez cada dos años y una colisión con cinco o más víctimas mortales como media una vez cada cinco años;
@@ -602,19 +624,20 @@ La Figura 7 muestra que el número de SPAD que resultaron en víctimas mortales 
 Figura 7: SPAD que resultaron en accidentes mortales (número de colisiones en diez años)
 La Figura 8 muestra la evolución del número de accidentes (colisiones y descarrilamientos) relacionados con SPAD en los últimos veinte años. La figura revela claramente que hace veinte años la media a cinco años fluctuaba alrededor de uno a dos accidentes anuales y luego se duplicó en los años noventa hasta alcanzar unos tres a cuatro accidentes anuales.
 
-
 ## Página 34
+
 
 # ACCIDENTES SPAD
 media a 5 años
 accidente SPAD
 Figura 8: Accidentes relacionados con SPAD
 
-
 ## Página 35
 
 
+
 ## Página 36
+
 
 ## 3	MARCO DE REFERENCIA
 El marco de referencia para esta investigación comprende tres secciones. La primera sección revisa la legislación y la normativa destinadas a promover la seguridad ferroviaria. La segunda sección contiene una breve revisión de las normas e instrucciones elaboradas por las partes interesadas del sector ferroviario. La tercera sección explica las expectativas de la Junta respecto a la forma en que las partes implicadas cumplen su responsabilidad personal en materia de seguridad.
@@ -646,6 +669,7 @@ acuerdo de acceso
 Figura 9: Legislación y normativa pertinentes
 
 ## Página 37
+
 
 3.1.1	
 Directivas europeas
@@ -681,6 +705,7 @@ Artículo 27, apartado 2, letra b, de la Ley de Ferrocarriles.
 
 ## Página 38
 
+
 Gestión del Agua (IVW). Una condición adjunta a la expedición de este certificado de seguridad establece que la empresa ferroviaria debe demostrar que está en condiciones —mediante la implementación de un sistema de gestión de la seguridad (SGS) adecuado— de hacer un uso seguro de los ferrocarriles.52 La Ley impone una serie de requisitos funcionales a los SGS de las empresas ferroviarias.53 El contenido del SGS debe incluir garantías de que la empresa ferroviaria:
 •	
 «no cause daños ni obstaculice innecesariamente a otros durante sus operaciones normales y desviaciones previsibles de las operaciones normales, y garantice que el tráfico ferroviario pueda llevarse a cabo sin interrupciones siempre que sea posible;
@@ -712,6 +737,7 @@ Ministerio de Transportes, Obras Públicas y Gestión del Agua, Seguridad en los
 Tan bajo como sea razonablemente practicable.
 
 ## Página 39
+
 
 Las disposiciones del Reglamento incluyen la estipulación de que el sistema de protección de la infraestructura ferroviaria principal58 debe proporcionar garantías para la segregación de las rutas de los trenes.59 El Reglamento también estipula que la transitabilidad segura de las rutas debe ser conocida por los maquinistas mediante señales o señales en cabina.60 El Reglamento también estipula que la parte correspondiente de la red ferroviaria principal debe estar equipada con un sistema de protección de trenes que transmita los aspectos de señal vigentes al material rodante (dividido en incrementos de velocidad de, como mínimo, 40-60-80-130-140 km/h).61
 
@@ -751,6 +777,7 @@ Artículo 3 del Regeling spoorverkeer. Este tipo de instrucciones solo pueden em
 
 ## Página 40
 
+
 Besluit spoorwegpersoneel (‘Decreto sobre el personal ferroviario’) y Regeling spoorwegpersoneel (‘Reglamento sobre el personal ferroviario’)
 El Decreto establece que los maquinistas deben cumplir una serie de requisitos en cuanto a sus conocimientos generales y su competencia.66 El Decreto también estipula que los empleados con funciones de seguridad (incluidos los maquinistas) deben cumplir los requisitos de aptitud médica y psicológica.67 Se les exige someterse a un examen médico y a un examen psicológico. Su aptitud médica y psicológica debe estar confirmada mediante declaraciones al respecto. Estas declaraciones tienen un periodo de validez limitado. El periodo de validez depende de la edad del maquinista.68 Además de adquirir los conocimientos profesionales necesarios para el desempeño de las correspondientes funciones de seguridad, dichos conocimientos deben mantenerse al mismo nivel y el desempeño profesional de los empleados con funciones de seguridad debe evaluarse a intervalos regulares.69
 El Reglamento especifica en detalle cuatro cuestiones abordadas por el Decreto Besluit spoorwegpersoneel, a saber: el procedimiento de examen, los requisitos médicos y psicológicos y el programa de formación para los maquinistas en prácticas.
@@ -767,6 +794,7 @@ La Junta de Seguridad de los Países Bajos ha especificado un marco de referenci
 2.	 Enfoque de seguridad demostrable y realista: La ocurrencia de incidentes indeseables debe prevenirse y controlarse estableciendo una política de seguridad realista y practicable junto con los principios en los que se basa dicha política. Este enfoque de seguridad debe definirse y controlarse a nivel directivo. Este enfoque de seguridad se basa en: (a) la normativa vigente
 
 ## Página 41
+
 
 legislación y reglamentación, y (b) las normas, directrices y mejores prácticas disponibles del sector, los conocimientos y experiencias de la organización y los objetivos de seguridad definidos específicamente para la organización;70
 3.	 Aplicación y cumplimiento del enfoque de seguridad: La aplicación y el cumplimiento del enfoque de seguridad y el control de los riesgos identificados se llevan a cabo mediante:
@@ -803,6 +831,7 @@ Esta cuestión también se aborda en la Ley de Ferrocarriles: el artículo 33, a
 
 ## Página 42
 
+
 ## 4	LAS PARTES IMPLICADAS Y SUS RESPONSABILIDADES
 Esta sección examina las partes implicadas en la cuestión de los SPAD en general y en la colisión de trenes en Barendrecht en particular.
 Un número de partes están implicadas en el logro de la seguridad ferroviaria. Tras la promulgación de la Ley de Ferrocarriles, la tarea del gobierno ha sido principalmente especificar los marcos: la responsabilidad principal de la implementación diaria se ha asignado a las partes ferroviarias, siendo el gestor de infraestructura y las empresas ferroviarias partes iguales. La Inspección de Transporte, Obras Públicas y Gestión del Agua (IVW) supervisa el cumplimiento por parte de las partes de las diversas disposiciones de la Ley de Ferrocarriles.
@@ -826,6 +855,7 @@ Ministerio de Transporte, Obras Públicas y Gestión del Agua, Los ferrocarriles
 Artículo 2 de la Regeling Inspectie Verkeer en Waterstaat ('Reglamento de la Inspección de Transporte, Obras Públicas y Gestión del Agua') de 2002.
 
 ## Página 43
+
 
 la legislación y los reglamentos mediante tres métodos, a saber: la prestación de servicios, la supervisión y las investigaciones. Las funciones de supervisión de la Inspección son de especial relevancia para esta investigación. La Inspección de Transporte, Obras Públicas y Gestión del Agua asume la responsabilidad de la expedición y renovación de los certificados de seguridad a las empresas ferroviarias en nombre del Ministro de Transporte, Obras Públicas y Gestión del Agua. La Inspección también evalúa si los sistemas de gestión de la seguridad de las empresas ferroviarias y del gestor de infraestructura son adecuados. En conclusión, la Inspección también lleva a cabo investigaciones de accidentes, incidentes e irregularidades.
 4.2	
@@ -854,6 +884,7 @@ Keyrail fue constituida por la Autoridad Portuaria de Róterdam, el Puerto de Á
 Artículo 3 de la concesión de gestión de la red ferroviaria principal.
 
 ## Página 44
+
 
 Ley de Ferrocarriles.78 Estos requisitos establecen que ProRail debe establecer disposiciones que incluyan lo siguiente:
 •	
@@ -902,6 +933,7 @@ Artículo 7, Regeling veiligheidsattest hoofdspoorwegen («Reglamento sobre el c
 
 ## Página 45
 
+
 En consecuencia, la Ley de Ferrocarriles establece que los riesgos para la seguridad deben controlarse adecuadamente mediante medidas apropiadas.84 Estos riesgos también pueden referirse a riesgos que surgen por causas ajenas al ámbito de influencia directa del transportista. El transportista debe tener en cuenta estos riesgos en sus evaluaciones y, cuando proceda, aplicar medidas para reducirlos.
 La empresa ferroviaria debe velar por que los conductores de vehículos ferroviarios cumplan los requisitos establecidos relativos a su aptitud, conocimientos, competencia y experiencia, y que se les haya expedido una declaración sobre su aptitud médica y psicológica. Los empleados con funciones de seguridad (incluidos los maquinistas) deben someterse a reconocimientos médicos y psicológicos. Su aptitud médica y psicológica debe confirmarse mediante declaraciones al efecto. Estas declaraciones tienen un periodo de validez limitado. El periodo de validez depende de la edad del empleado.85
 4.3	Cooperación entre las partes implicadas
@@ -925,6 +957,7 @@ Artículo 31 y Artículo 32 del Besluit spoorwegpersoneel.
 Cámara de Representantes de los Estados Generales, sesiones 2008–2009, 31 987, número 1, parte 6.3.
 
 ## Página 46
+
 
 ## 5	 ANÁLISIS: UTILIZACIÓN DE LAS MEDIDAS DE CONTROL
 Dado que los SPAD pueden tener consecuencias extremadamente graves, la Junta de Seguridad de los Países Bajos considera que deben implementarse todas las medidas razonables para reducir el número de SPAD y limitar las consecuencias de aquellos SPAD que, no obstante, se produzcan. Esto implica que debe hacerse el máximo uso posible de las medidas disponibles.
@@ -962,6 +995,7 @@ Objetivo. El horario, también denominado «plan», especifica qué tren hará u
 
 ## Página 47
 
+
 como ERS Railways, solicitan a ProRail y Keyrail la programación de sus trenes. El gestor de infraestructura examina la viabilidad de la programación (por ejemplo, una evaluación sobre si las solicitudes presentadas están en conflicto) y luego formaliza la programación. Los planificadores se esfuerzan por diseñar las programaciones de manera que eviten la necesidad de que los trenes utilicen la misma vía al mismo tiempo y minimicen la necesidad de que los trenes frenen o se detengan durante el trayecto. «Programación» (*Schedule*) se refiere al horario de un solo tren y «programaciones» (*schedules*) a los horarios de todos los trenes.
 Barendrecht. La Junta de Seguridad Neerlandesa ha examinado las programaciones de los trenes implicados. Los trenes que viajan desde Rotterdam IJsselmonde hasta Kijfhoek, como era el caso del tren mixto de mercancías, deben cruzar en algún momento la vía utilizada por los trenes que viajan desde Kijfhoek hacia la línea de mercancías Havenspoorlijn o hacia Rotterdam, como era el caso del tren de contenedores (véase la Figura 2 en la Sección 2). Las Tablas 1 y 2 enumeran información sobre (parte de) las programaciones del tren mixto de mercancías y del tren de contenedores. 
 | Programación del tren mixto de mercancías que viaja desde IJsselmonde hasta Kijfhoek, número de tren 61300, de lunes a viernes , |  |  |  |  |
@@ -984,6 +1018,7 @@ Estas normas de programación están incluidas en la Declaración de Red del ges
 
 ## Página 48
 
+
 La resolución de este conflicto entre los dos trenes habría requerido programar uno de los dos trenes unos minutos antes o después para que ambos pudieran utilizar la misma vía de forma sucesiva. Además, tanto el tren mixto de mercancías como el tren de contenedores podrían haber sido desviados a una vía adyacente para evitar el uso simultáneo de la misma vía. En conclusión, el tren de contenedores podría haber utilizado un viaducto (fly-over) para desplazarse directamente desde la línea ferroviaria de mercancías Havenspoorlijn hasta Rotterdam.88 No se especifican normas de programación para la ruta de los trenes en una estación de clasificación. La decisión de proceder a la resolución de un conflicto depende de la percepción individual del planificador sobre sus funciones.
 
 La investigación ha revelado que las diversas partes implicadas tienen opiniones diferentes sobre el uso de las vías entre Kijfhoek y el enlace de Barendrecht. Estas tres vías ofrecen una oportunidad para el uso flexible de las mismas, permitiendo que los trenes utilicen todas las vías en ambas direcciones y puedan cambiar entre dos de las tres vías tanto en Barendrecht como en Kijfhoek a velocidad máxima. Los planificadores podrían haber hecho uso de esta flexibilidad para reducir la probabilidad de que los trenes encontraran señales en peligro.
@@ -1005,6 +1040,7 @@ Programma van Eisen – Barendrecht eindplan goederensporen, railverkeerstechnis
 
 ## Página 49
 
+
 la eficacia de la medida se reduce en caso de retrasos. Las entrevistas han revelado que muchos planificadores consideran que su responsabilidad no abarca el diseño de horarios de manera que las perturbaciones menores no provoquen inmediatamente paradas no programadas. Como se ilustra anteriormente, esto es ciertamente factible en algunos casos.
 ### El actual sistema de planificación no identifica los conflictos en los horarios.
 •	
@@ -1021,6 +1057,7 @@ El ‘Werkwijze Treindienstleider’ no incluye un procedimiento para esta situa
 
 ## Página 50
 
+
 En este procedimiento se establece lo siguiente: «Un tren que circula con retraso puede provocar un conflicto. Actúe de la siguiente manera: “Busque una solución que satisfaga a todas las partes interesadas, siempre que sea posible, dentro de los 15 minutos90 anteriores al tiempo de ejecución (…).”»
 
 En principio, los gestores de tráfico ferroviario pueden optar por las mismas medidas que el planificador para la resolución de conflictos de esta naturaleza, como reprogramar un tren en otra vía o en otro horario (véase la subsección 5.2.1). Los gestores de tráfico ferroviario, al igual que los planificadores, no disponen de sistemas de apoyo que visualicen los conflictos con antelación. Esto limita el tiempo disponible para resolver los conflictos, por lo que algunas medidas (como desviar un tren a otra vía) ya no son viables cuando el tren ha pasado la señal correspondiente. La resolución de conflictos también se complica debido a la implicación de más de un gestor de tráfico ferroviario. Por ejemplo, si el gestor de tráfico ferroviario de Barendrecht hubiera deseado resolver el conflicto desviando el tren de contenedores a la vía adyacente, habría sido necesario que el gestor de tráfico ferroviario de Kijfhoek aplicara dicha medida. Sin embargo, este último no habría podido ver el conflicto en Barendrecht y habría permitido que el tren partiera por la vía programada. En consecuencia, es necesario contactar con el gestor de tráfico ferroviario de Kijfhoek en caso de que deba reprogramarse la vía prevista para uno de los dos trenes de mercancías.
@@ -1036,6 +1073,7 @@ La intención es: desde ahora hasta 15 minutos antes del tiempo de ejecución.
 Una excepción son las señales con lo que se denomina «instrucciones de configuración». Esto no es una forma de instrucción formal, sino una configuración de software del sistema automático de establecimiento de rutas (ARI) que responde a una señal situada en peligro colocando la señal precedente en peligro. Este método es eficaz únicamente cuando la ruta está configurada con ARI y se ha instalado solo en un número limitado de señales.
 
 ## Página 51
+
 
 5.2.3	
 Subconclusión:
@@ -1077,6 +1115,7 @@ DB Schenker ha declarado que, a partir de ahora, monitorizará la activación (r
 
 ## Página 52
 
+
 transmisión de un mensaje que notifique una intervención del sistema de hombre muerto a, por ejemplo, el gestor de tráfico ferroviario. En consecuencia, el maquinista es la única persona consciente de una intervención durante el trayecto.
 •	
 El maquinista fallecido en el accidente inició una acción de frenado solo dos o tres segundos antes de la colisión. El maquinista no realizó ninguna otra acción distinta del inicio de esta acción de frenado durante el último minuto previo a la colisión, a pesar de que existían varias indicaciones de que había una amenaza de accidente. Estas indicaciones eran:
@@ -1109,6 +1148,7 @@ Los accidentes de Maastricht y Enkhuizen no fueron causados por pasar una señal
 
 ## Página 53
 
+
 estas medidas se refieren al desarrollo de un sistema (técnico u organizativo) que haga imposible que los maquinistas continúen su viaje tras una primera o segunda intervención del sistema de hombre muerto. Por ejemplo, se puede obligar a los maquinistas a notificar una intervención del sistema de hombre muerto, por ejemplo, a la gestión del tráfico ferroviario antes de continuar su viaje. Esta notificación también podría transmitirse automáticamente.
 5.3.2	
 El sistema automático de protección de trenes
@@ -1127,6 +1167,7 @@ Aproximadamente 500 con ATB-NG, aproximadamente 300 con ERTMS y aproximadamente 
 
 ## Página 54
 
+
 Aunque el ATB-VV no presenta las limitaciones funcionales del ATB-EG, las señales equipadas con ATB-VV no ofrecen, no obstante, una protección completa frente a los SPAD: esto se debe a que el ATB-VV solo puede prevenir un SPAD cuando el tren se aproxima a una señal en peligro a una velocidad no mucho superior a 40 km/hora, ya que la distancia de frenado más larga necesaria para detener los trenes que circulan a velocidades superiores excede la distancia disponible (120 metros). También es posible que los trenes de mercancías largos que circulan a velocidades de 40 km/hora o menos no puedan detenerse a tiempo debido al menor poder de frenado de estos trenes. En consecuencia, el diseño del ATB-VV —con una distancia relativamente corta entre la señal y la baliza ATB-VV— no ha tenido suficientemente en cuenta la distancia de frenado requerida por los trenes de mercancías largos.100
 5.3.3	
 La función de cancelación
@@ -1137,6 +1178,7 @@ La Junta de Seguridad de los Países Bajos considera que un sistema de protecci�
 Los trenes de mercancías largos tienen una mayor distancia de frenado para evitar problemas de inestabilidad.
 
 ## Página 55
+
 
 5.3.4	
 Subconclusión:
@@ -1169,6 +1211,7 @@ Una señal opuesta es la última señal que encuentra un tren que se aproxima an
 
 ## Página 56
 
+
 Países Bajos. Existen numerosas ubicaciones en la red ferroviaria neerlandesa donde, de forma análoga a Barendrecht, el paso de un tren por una señal en peligro no provoca que las señales opuestas para los trenes que se aproximan se pongan inmediatamente en peligro. El diseño de la infraestructura ferroviaria es tal que las señales opuestas se ponen en peligro solo cuando un tren entra realmente en la ruta de otro tren.
 5.4.2	
 Revocación de la señal 
@@ -1182,8 +1225,8 @@ Objetivo. Tanto los gestores del tráfico ferroviario como los conductores de tr
 Barendrecht. El gestor del tráfico ferroviario de «IJsselmonde» no envió una llamada de emergencia después de que el tren pasara una señal en peligro en Barendrecht porque no estaba en su puesto de trabajo en ese momento. Si hubiera enviado una llamada de emergencia, todos los conductores de tren de la zona habrían tenido que reducir inmediatamente su velocidad y continuar bajo «reglas visuales». Cuando el gestor del tráfico ferroviario quiso enviar una llamada de emergencia poco después, no pudo establecer la conexión en el primer intento. Se desconoce por qué falló este intento. La conexión se estableció en el segundo intento.
 El conductor del tren internacional de pasajeros también realizó un intento de enviar una llamada de emergencia, que tampoco tuvo éxito en el primer intento. El segundo intento de establecer la conexión fue exitoso, aunque la llamada fue atendida por otro gestor del tráfico ferroviario en Róterdam que pensaba que el tren aún se encontraba en su zona. Los gestores del tráfico ferroviario no pueden visualizar las zonas de control de otros compañeros. Transport Safety Board, Botsing tussen twee reizigerstreinen in Dordrecht op 28 november 1999 («Colisión entre dos trenes de pasajeros en Dordrecht el 28 de noviembre de 1999»), publicado en mayo de 2001.
 
-
 ## Página 57
+
 
 Como resultado, el gestor del tráfico ferroviario de «Rotterdam-Oost» no podía ver lo que ocurría en las vías adyacentes dentro de la zona de control del gestor del tráfico ferroviario de «IJsselmonde». 
 Países Bajos. Es conocido que pueden existir problemas para establecer conexiones a través de la red GSM-R. Se encontraron problemas similares con GSM-R en otro incidente ferroviario (Barneveld, 12 de febrero de 2008), como consecuencia de los cuales el conductor de tren afectado fue conectado al gestor del tráfico ferroviario equivocado. En emergencias, se puede perder tiempo valioso cuando los conductores de tren son conectados al gestor del tráfico ferroviario incorrecto.
@@ -1216,6 +1259,7 @@ Los problemas para realizar una llamada de emergencia -debidos a problemas de co
 
 ## Página 58
 
+
 ## 6 ANÁLISIS: EVALUACIÓN DE LA POLÍTICA DE REDUCCIÓN DE SPAD
 La Sección 5 reveló que algunas de las opciones disponibles para controlar el problema de los SPAD no se utilizan o no se utilizan plenamente. Esta sección examina por qué ha surgido esta situación y analiza hasta qué punto las partes implicadas cumplen sus responsabilidades.
 6.1	
@@ -1233,6 +1277,7 @@ El ERTMS es un sistema de control y señalización ferroviaria desarrollado a ni
 ERTMS son las siglas de ‘European Rail Traffic Management System’ (Sistema Europeo de Gestión del Tráfico Ferroviario).
 
 ## Página 59
+
 
 comandos. El sistema hace uso de la supervisión completa de la curva de frenado104, que está configurada para la potencia de frenado específica del tren. Por esta razón, ERTMS no presenta las limitaciones funcionales del sistema ATB instalado en la mayoría de las líneas ferroviarias principales (ATB-EG).
 La Junta de Seguridad de los Países Bajos ha observado que aún no está claro cuándo se instalará ERTMS en la red ferroviaria neerlandesa y a qué escala. En opinión de la Junta, basándose en la política actual, sería poco realista esperar que ERTMS se instale en grandes secciones de la red ferroviaria antes de 2025. La Junta basa esta opinión en los siguientes hallazgos:
@@ -1262,6 +1307,7 @@ Véase el Anexo 6.
 
 ## Página 60
 
+
 ### Recuadro 4: ATB-NG frente a ERTMS
 A principios de la década de 1990 se decidió sustituir el ATB-EG por el ATB-NG en toda la red ferroviaria principal.112 Sin embargo, poco después surgió el ERTMS y se asumió que el tráfico ferroviario internacional europeo solo podría tener éxito si todos los Estados miembros introducían el mismo sistema de protección. Dado que el ERTMS está destinado precisamente al tráfico ferroviario internacional y conlleva elevados costes, no es lógico presumir que el ERTMS se introduciría en toda la red ferroviaria. El Ministerio de Transporte, Obras Públicas y Gestión del Agua decidió, anticipándose a la introducción del ERTMS, poner fin a las inversiones en ATB-NG, ya que dichas inversiones constituirían una destrucción de capital cuando se sabía que el ERTMS era el sistema del futuro. NS Dutch Railways decidió centrarse en el ERTMS e instalar el ATB-NG únicamente en un número de líneas ferroviarias regionales que aún no estaban equipadas con ATB-EG.
 
@@ -1280,6 +1326,7 @@ El Anexo 7 contiene más información sobre el ERTMS.
 El hecho de que la Junta Directiva de NS Dutch Railways tuviera la intención de llevar a cabo una migración de esta naturaleza se desprende de la declaración realizada por el miembro pertinente de la Junta Directiva de NS Dutch Railways durante las audiencias celebradas por la Junta de Accidentes Ferroviarios sobre la colisión de trenes de 1992 en Eindhoven, así como de la carta enviada por la Junta Directiva de NS Dutch Railways al Ministerio de Transporte, Obras Públicas y Gestión del Agua a finales de 1993, en la que indicaba que la Junta había decidido posponer la introducción nacional del ATB-NG (carta de 21-09-1993 del Director Gerente de NS Dutch Railways a la Dirección de Transporte del Ministerio de Transporte, Obras Públicas y Gestión del Agua).
 
 ## Página 61
+
 
 6.1.2	
 Otras medidas de control
@@ -1308,6 +1355,7 @@ Una señal equipada con instrucciones de configuración tiene instalado un softw
 
 ## Página 62
 
+
 También se decidió en 2008-2009 que aproximadamente 100 señales de la línea ferroviaria BrabantRoute estarían equipadas con ATB-VV, teniendo en cuenta el transporte de mercancías peligrosas por esta línea ferroviaria (como resultado, el número de señales a equipar con ATB-VV aumentó a aproximadamente 1.260).
 ### Medidas como consecuencia del accidente de Barendrecht
 Como consecuencia del accidente de Barendrecht, el Ministerio de Transporte, Obras Públicas y Gestión del Agua solicitó a Oranjewoud/SAVE la realización de un estudio centrado en las siguientes cuestiones:116 
@@ -1327,6 +1375,7 @@ El grupo de trabajo de la red ferroviaria básica de mercancías peligrosas ya h
 Carta de 28 de junio de 2010 del Ministro de Transporte, Obras Públicas y Gestión del Agua a la Cámara de Representantes de los Estados Generales (ref. n.º VenW/DGMo-2010/5266 y Documento Parlamentario 29283, número 103).
 
 ## Página 63
+
 
 •	
 Se solicitará a las partes ferroviarias que realicen estudios sobre: (a) la viabilidad de introducir distancias de sobrepaso más largas para nuevas señales; y (b) la viabilidad de aumentar la eficacia del ATB-VV mediante la modificación de lo que se denomina el «criterio de frenado»;119
@@ -1356,6 +1405,7 @@ Esta información fue emitida por el Subdirector de Ferrocarriles del Ministerio
 
 ## Página 64
 
+
 solo cuando se realizan evaluaciones continuas para determinar si surgen nuevos riesgos o si existen nuevas opciones para el control del riesgo. Diversas partes manifestaron durante las entrevistas que se está creando lo que se denomina un «Centro de Expertos Ferroviarios» (*Railway Centre of Expertise*), que podría cumplir esta función. No obstante, las opiniones sobre las funciones de un centro de esta naturaleza varían enormemente.
 6.1.3	Recomendaciones anteriores de la Junta y de sus predecesores legales
 La Junta de Seguridad de los Países Bajos ha enumerado las recomendaciones emitidas en el pasado por la Junta y sus predecesores legales para el control de la problemática SPAD, así como la respuesta de las partes a quienes fueron dirigidas dichas recomendaciones. La investigación de la Junta sobre la colisión en Barendrecht también ha incluido una evaluación del grado en que estas recomendaciones anteriores han sido adoptadas. Esta evaluación se incluye en el Anexo 5. 
@@ -1367,6 +1417,7 @@ Tras una colisión entre dos trenes de pasajeros en Dordrecht el 28 de noviembre
 Las partes ferroviarias generalmente han implementado medidas en respuesta a incidentes graves. El desastre ferroviario de Harmelen de 1962 dio lugar a la implementación acelerada del ATP en los Países Bajos, la colisión de trenes de Eindhoven de 1992 impulsó el desarrollo posterior del ATB-NG, y la colisión de trenes de Ámsterdam de 2004 dio lugar a la formalización del grupo directivo SPAD por parte del Ministro de Transportes, Obras Públicas y Gestión del Agua, así como a la especificación de objetivos de reducción de los SPAD en los Países Bajos. Una revisión de lo anterior indica que el Ministerio de Transportes, Obras Públicas y Gestión del Agua adopta un «enfoque pragmático» en el que las medidas centradas en el control de la problemática SPAD suelen implementarse después de un incidente grave y en respuesta a la consiguiente conmoción en los medios de comunicación y/o en el ámbito político. Prácticamente no existe una política proactiva basada en un inventario sistemático de los riesgos y en el control de los riesgos identificados.
 
 ## Página 65
+
 
 6.1.4	
 Subconclusión:
@@ -1396,6 +1447,7 @@ La Junta observa que el control del problema de los SPAD requiere tanto la imple
 
 ## Página 66
 
+
 6.2.2	
 Cumplimiento de las responsabilidades
 ### Empresas ferroviarias
@@ -1407,6 +1459,7 @@ La Junta observa que el grupo directivo de SPAD, constituido en 2004, funciona e
 La Junta opina que el Ministro debería, como elemento de su responsabilidad sobre el sistema, intervenir cuando las empresas ferroviarias no cumplan su deber de diligencia para la seguridad ferroviaria en una medida adecuada. Como se explicó anteriormente, la esencia de la política adoptada desde 2004 para el control del problema de los SPAD es que se exige a las empresas ferroviarias alcanzar los objetivos establecidos en el plan de reducción de SPAD, a saber, la reducción del 50% del número de SPAD y la reducción del 75% del riesgo de SPAD en comparación con 2003. La Junta opina que el logro de estos objetivos de reducción no implicará automáticamente un ‘control adecuado’ según lo requerido por la Ley Ferroviaria, dado que este nivel de seguridad no se define en términos de un número específico de SPAD o accidentes causados por SPAD, sino más bien en términos de la implementación de todas las medidas de control que sean razonablemente posibles (ALARP). La subsección 6.1 indicó que los actuales objetivos de reducción se basan en una estimación global del efecto que puede lograrse mediante la implementación del paquete original de medidas. Por esta razón, la Junta opina que el Ministro se satisface injustificadamente con el logro de un nivel de seguridad para el control de los SPAD cuya conformidad con el principio ALARP no ha sido demostrada.
 
 ## Página 67
+
 
 ### Inspección de Transporte, Obras Públicas y Gestión del Agua (IVW)
 La Junta de Seguridad de los Países Bajos ha investigado122 cómo la IVW, en su papel de supervisor, ha abordado la incorporación del control de la problemática SPAD en los sistemas de gestión de la seguridad (SMS) de las empresas ferroviarias. Se ha puesto de manifiesto que los SMS han sido evaluados a nivel sistémico, sin que se haya verificado ni que se haya realizado un inventario de todos los riesgos pertinentes ni que dichos riesgos estén controlados.123
@@ -1428,6 +1481,7 @@ Véanse también los hallazgos del informe de la Junta sobre la investigación d
 
 ## Página 68
 
+
 ## 7 CONCLUSIONES
 Esta investigación se centró en la cuestión de cómo las partes implicadas controlan el riesgo de colisión causado por un SPAD y las medidas que pueden implementarse para mejorar el control del problema de los SPAD.
 Esta cuestión se desglosa en las siguientes cinco preguntas a las que debía responder la investigación:
@@ -1444,6 +1498,7 @@ Conclusión 1.b) Las opciones disponibles para reducir el riesgo de que los maqu
 Conclusión 2.a) Los horarios fueron diseñados de tal manera que el tren mixto de mercancías y el tren de contenedores tendrían que circular por la misma sección de vía al mismo tiempo. Como resultado, la señal para el tren mixto de mercancías estaba situada en peligro. Los planificadores y los gestores de tráfico ferroviario no identificaron el conflicto y, en consecuencia, no lo corrigieron. Era posible diseñar los horarios para Barendrecht de manera que se evitaran conflictos o modificar posteriormente los horarios para garantizar que los trenes no se enfrentaran a señales situadas en peligro. Esto no ocurrió. Esto se debió en parte a la ausencia de «instrucciones de uso» para el despliegue de las vías en Barendrecht para los planificadores y los gestores de tráfico ferroviario, a la incapacidad del sistema de planificación para identificar conflictos y a la dependencia total de los planificadores y gestores de tráfico ferroviario en las señales situadas en peligro como medio adecuado para corregir conflictos. Las
 
 ## Página 69
+
 
 no se utilizaron las opciones para evitar que uno de los trenes en Barendrecht se enfrentara a una señal en peligro.
 Conclusión 2.b) Las diversas opciones disponibles para el control del problema de la SPAD no se utilizaron en el caso de la colisión de Barendrecht o se utilizaron en grado insuficiente.
@@ -1463,16 +1518,18 @@ Conclusión 3. La colisión en Barendrecht se produjo en circunstancias que tamb
 Conclusión 4. El enfoque adoptado respecto al problema de la SPAD durante las últimas décadas no ha dado lugar a un control adecuado de los riesgos de seguridad mediante medidas idóneas. Hasta 2004, el enfoque del problema de la SPAD se limitó a la introducción de ATB-EG en las líneas principales y ATB-NG en las líneas regionales. Desde entonces, la política ha consistido en la implementación del plan de reducción de SPAD (siendo la dotación de algunas de las señales operadas con ATB-VV la medida más importante) a corto plazo y la introducción de ERTMS a largo plazo. El tratamiento del problema de la SPAD se ha retrasado debido a la injustificada expectativa de que ERTMS, considerado como solución para el problema de la SPAD, se introduciría en toda la red ferroviaria en un futuro próximo. Como resultado, no se ha producido la generalización de ATB-NG y otras medidas de control se han abordado demasiado tarde y solo en grado limitado. La reducción de SPAD no se basa en un análisis exhaustivo del problema de la SPAD. No se ha realizado ninguna evaluación sobre la base del principio ALARP para determinar si las medidas de control disponibles deben o no implementarse.
 Conclusión 5.a) Las empresas ferroviarias no cumplen su responsabilidad de controlar el problema de la SPAD en grado suficiente. De conformidad con la Ley de Ferrocarriles, se espera que las empresas ferroviarias implementen todas las medidas posibles para controlar el problema de la SPAD, salvo que puedan demostrar que los costes de una medida son desproporcionados y/o que una medida tendrá otras consecuencias perjudiciales. Sin embargo, en la práctica ha quedado de manifiesto que las empresas ferroviarias no implementan todas las medidas posibles para controlar el problema de la SPAD y que las decisiones sobre la posible implementación
 
-
 ## Página 70
+
 
 de medidas no se basan en una evaluación ALARP. El control del problema de la SPAD está integrado de manera deficiente en la gestión (sistemas) de seguridad de las empresas ferroviarias. La Junta observa que la legislación y la normativa son satisfactorias, pero que las empresas ferroviarias no cumplen sus responsabilidades (legales) de manera adecuada.
 Conclusión 5.b) El Ministro no cumple la responsabilidad del Ministro de controlar el problema de la SPAD en grado suficiente. Las responsabilidades del Ministro están establecidas en la Ley de Ferrocarriles. Se requiere que el Ministro supervise el cumplimiento por parte de las empresas ferroviarias de su obligación ALARP. La Inspección de Transporte, Obras Públicas y Gestión del Agua lleva a cabo esta función en nombre del Ministro. Sin embargo, el Ministro (y la Inspección) no imponen a las empresas una coerción adecuada para cumplir esta obligación. Esto se ilustra por el hecho de que el Ministro ha adoptado los objetivos de reducción especificados en el plan de reducción de SPAD y no ha exigido además a las empresas ferroviarias que cumplan su obligación ALARP. En consecuencia, la Junta observa que la legislación y la normativa son satisfactorias, pero que el Ministro no cumple las responsabilidades (legales) del Ministro de manera adecuada.
 
-
 ## Página 71
 
+
+
 ## Página 72
+
 
 ## 8 RECOMENDACIONES
 
@@ -1496,14 +1553,15 @@ Nota explicativa: el Consejo espera que, al adoptar esta recomendación, el Mini
 
 Se solicita a los organismos administrativos destinatarios de una recomendación que comuniquen su posición respecto a esta recomendación al ministro competente dentro de los seis meses siguientes a la publicación del presente informe. Se solicita a los organismos no administrativos o personas destinatarios de una recomendación que
 
-
 ## Página 73
+
 
 comuniquen su posición respecto al seguimiento de esta recomendación al ministro competente dentro de un año. Deberán emitirse simultáneamente copias de dichas respuestas al Presidente del Consejo de Seguridad de los Países Bajos y al Ministro de Seguridad Pública y Justicia.
 
 Al expirar el plazo de respuesta, el Consejo de Seguridad de los Países Bajos publicará las respuestas al informe en el sitio web del Consejo, www.onderzoeksraad.nl. Si no se reciben respuestas, el Consejo también notificará dicho hecho en el aforementioned website [sitio web anteriormente mencionado].
 
 ## Página 74
+
 
 ## ANEXO 1: JUSTIFICACIÓN DE LA INVESTIGACIÓN
 ### Investigación por la Junta de Seguridad de los Países Bajos
@@ -1525,20 +1583,38 @@ La Junta de Seguridad solicitó a DeltaRail que realizara una investigación adi
 ### Método de investigación 
 La investigación abarcó: una investigación in situ, un estudio de los documentos pertinentes y entrevistas. Las entrevistas se mantuvieron con oficiales de las diversas partes involucradas, en este caso DB Schenker, ERS Railways, NS Reizigers, ProRail, Keyrail, la Inspección de Transporte, Obras Públicas y Gestión del Agua y el Ministerio de Transporte, Obras Públicas y Gestión del Agua. El objetivo de estas entrevistas era obtener una visión de la causa de la colisión y de la manera en que las diversas partes cumplen su responsabilidad en el control del problema del SPAD.
 
-
 ## Página 75
 
 ### Análisis Tripod
-Esta investigación incluyó un análisis realizado utilizando Tripod Beta (en adelante denominado «Tripod»). Tripod ofrece un marco para la recopilación sistemática de los hallazgos sobre la causa de los incidentes. El modelo Tripod asume que las barreras normalmente previenen los incidentes. Los accidentes pueden ocurrir cuando las barreras no están presentes o no funcionan correctamente. Tripod asume que las barreras fallan debido a fallos activos. El modelo ayuda a las investigaciones en la identificación de fallos de esta naturaleza.
-El análisis Tripod se basó en un modelo causal de colisiones relacionadas con SPADs. Este modelo se preparó utilizando conocimientos generales sobre operaciones ferroviarias y datos de investigaciones anteriores realizadas por la Junta de Seguridad de los Países Bajos. El modelo revela que una colisión relacionada con un SPAD ocurre en un proceso de tres fases y que las medidas de control de riesgos pueden implementarse en cada una de esas fases (véase la Sección 5). 
-La Figura 11 muestra el modelo causal y las barreras relevantes para esta investigación.124 
-Estas fueron luego investigadas más a fondo utilizando el método Tripod. Esta investigación reveló una serie de precondiciones125 y causas subyacentes126 que dieron lugar a los fallos activos que ocurrieron. Estas se muestran en la Figura 12. 
-124	
-La información sobre la notación utilizada en los diagramas de Tripod Beta se incluye en la Guía del Usuario de Tripod Beta: http://www.tripodfoundation.com/documenten/Tripod%20Beta_User%20guide_02a.pdf. Los diagramas Tripod elaborados por la Junta de Seguridad de los Países Bajos pueden presentar variaciones menores respecto a las convenciones prescritas para el modelo Tripod. Estas variaciones resultan del marcado enfoque operativo de Tripod Beta, que no es totalmente compatible con el enfoque de la Junta de Seguridad de los Países Bajos.
+Esta investigación incluyó un análisis realizado mediante Tripod Beta (en adelante, «Tripod»). Tripod ofrece un marco para la recopilación sistemática de los hallazgos sobre la causa de los incidentes. El modelo Tripod asume que las barreras normalmente previenen los incidentes. Los accidentes pueden ocurrir cuando las barreras no están presentes o no funcionan correctamente. Tripod asume que las barreras fallan debido a fallos activos. El modelo ayuda a las investigaciones en la identificación de fallos de esta naturaleza.
+
+El análisis Tripod se basó en un modelo causal de colisiones relacionadas con SPAD. Este modelo fue preparado utilizando conocimientos generales sobre operaciones ferroviarias y datos de investigaciones anteriores realizadas por la Junta de Seguridad de los Países Bajos. El modelo revela que una colisión relacionada con un SPAD ocurre en un proceso de tres fases y que las medidas de control de riesgos pueden implementarse en cada una de esas fases (véase la Sección 5).
+
+La Figura 11 muestra el modelo causal y las barreras relevantes para esta investigación.124
+
+**Figura 11: Modelo causal de colisiones relacionadas con SPAD**
+
+| Causa inmediata | Evento | Precondición | Objeto | Barrera fallida | Causa subyacente | Agente de cambio | Explicación | Leyenda |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | | | | |
+| **Necesidad de tren** | **Rutas conflictivas** | **SPAD: 1 fatalidad y daños al material rodante e infraestructura** | **Tren mixto de mercancías pasa la señal 328 situada en peligro** | **Movimientos dentro y alrededor de Barendrecht** | **Tren mixto de mercancías se acerca a la señal 328** | **Conexión** | | |
+| #3. | #5. | #1. | Puntos de desvío en cola | Longitud de sobrepaso | RTMgt envía llamada de emergencia | Previene colisión | Previene colisión | |
+| #4. Señal opuesta (322) | #9. | #2. | #11. | #10. | Situadas automáticamente en peligro | La programación proporciona | La programación está formulada | La ruta está configurada libre de conflictos |
+| | | | | | | Tren de contenedores en la misma sección de vía | Tren mixto de mercancías | Para segregación espacial | Libre de conflictos |
+| | | | | | | | | Cuando el tren mixto de mercancías pasa la señal 328 situada en peligro | Para el tren de contenedores |
+| #7. | #8. | #6. | ATB-EG obliga a acción de frenado | El conductor actúa conforme a los aspectos de la señal | ATB-VV obliga a acción de frenado | | | |
+| Medidas de control dirigidas a una colisión después de pasar una señal roja | Medidas de control dirigidas al paso de una señal roja | Medidas de control dirigidas a prevenir señales rojas | | | | | | |
+
+Estos fueron investigados posteriormente utilizando el método Tripod. Esta investigación reveló un número de precondiciones125 y causas subyacentes126 que dieron lugar a los fallos activos que ocurrieron. Estos se muestran en la Figura 12.
+
+124	La información sobre la notación utilizada en los diagramas de Tripod Beta se incluye en la Guía del usuario de Tripod Beta: http://www.tripodfoundation.com/documenten/Tripod%20Beta_User%20guide_02a.pdf. Los diagramas Tripod elaborados por la Junta de Seguridad de los Países Bajos pueden presentar variaciones menores respecto a las convenciones prescritas para el modelo Tripod. Estas variaciones resultan del marcado enfoque operativo de Tripod Beta, que no es totalmente compatible con el enfoque de la Junta de Seguridad de los Países Bajos.
+
 El modelo Tripod entiende «precondiciones» como: los hechos y circunstancias subyacentes de un fallo activo.
+
 El modelo Tripod entiende «causas subyacentes» como: deficiencias estructurales de seguridad que crean las precondiciones asociadas al fallo activo.
 
 ## Página 76
+
 
 La Junta de Seguridad de los Países Bajos no ha realizado investigaciones sobre medidas de control específicas que se determinó que habían funcionado correctamente en el accidente de Barendrecht (como las señales y el efecto de frenado del ATB-VV del tren) para determinar si su funcionamiento correcto es generalizado en los Países Bajos. Tampoco, por razones de claridad, se han incluido estas medidas en el análisis del Trípode.
 
@@ -1639,11 +1715,12 @@ El departamento de programación VPT no facilita la detección temprana de posib
 
 Figura 12: Modelo causal de colisiones relacionadas con SPADs (incluyendo precondiciones y fallos latentes [causas subyacentes])
 
-
 ## Página 77
 
 
+
 ## Página 78
+
 
 ## ANEXO 2: RESPUESTAS TRAS LA INSPECCIÓN
 Una versión de comentarios de este informe fue presentada a las partes involucradas, de conformidad con la Rijkswet Onderzoeksraad voor Veiligheid ('Ley del Reino sobre la Junta de Seguridad de los Países Bajos'). Se solicitó a estas partes que revisaran el informe en busca de errores y puntos poco claros. La versión de comentarios de este informe fue presentada a las siguientes partes:
@@ -1662,10 +1739,12 @@ Los comentarios recibidos tras las inspecciones fueron procesados de la siguient
 •	La Junta ha adoptado suplementos, correcciones a nivel de detalle y comentarios editoriales. El informe ha sido modificado en consecuencia y los comentarios de las formas aforementioned no se enumeran individualmente.
 •	La Junta ha respondido a los comentarios sustanciales. En algunos casos esto ha resultado en una modificación del informe, pero en otros no. Estas respuestas se enumeran en una tabla publicada en el sitio web de la Junta de Seguridad de los Países Bajos: www.onderzoeksraad.nl. Cada comentario va acompañado de una indicación de la subsección a la que se refiere el comentario, la parte que presentó el comentario y si el comentario ha sido o no adoptado. Los comentarios que han sido adoptados se complementan con una explicación de la manera en que fueron incorporados en el informe; los comentarios que no son adoptados se complementan con la razón de la Junta para su decisión de no adoptar el comentario.
 
-
 ## Página 79
 
+
+
 ## Página 80
+
 
 ## ANEXO 3: EXPLICACIÓN DE TÉRMINOS Y PROCESOS TÉCNICOS
 Las siguientes subsecciones contienen una breve explicación de los términos ferroviarios de uso frecuente y sus relaciones mutuas.
@@ -1681,9 +1760,11 @@ Uno de los principios de diseño de la ingeniería de seguridad establece que el
 
 ## Página 81
 
+
 (como un corte de corriente o una fuga de aire) suelen provocar que el sistema revierta a la condición segura. Sin embargo, no es factible diseñar una solución fail-safe para toda forma de fallo concebible.
 
 ## Página 82
+
 
 ## ANEXO 4: EXPLICACIÓN DE LOS HALLAZGOS DE LA INSPECCIÓN TÉCNICA
 La Junta de Seguridad de los Países Bajos ha llevado a cabo una investigación sobre las causas de la colisión de trenes en Barendrecht. Las causas que desempeñaron un papel en el accidente se tratan en el texto principal de este informe. El presente anexo revisa una serie de otras posibles causas que fueron descartadas por la investigación.
@@ -1706,6 +1787,7 @@ El ATB-VV, instalado en un número creciente de señales, sí incluye esta infor
 
 ## Página 83
 
+
 por las dos locomotoras y los dos primeros vagones (con un peso combinado de 202 toneladas, mientras que el peso total del tren era de 1088 toneladas). La deceleración de frenado no habría superado entonces aproximadamente 0,2 m/s². Una inspección reveló que la deceleración de frenado durante la primera parte del trayecto había sido suficiente (0,74 y 0,82 m/s² respectivamente durante dos acciones de frenado de emergencia), niveles normales para un tren de mercancías. La Junta de Seguridad de los Países Bajos concluye que la deceleración de frenado del tren fue normal.129
 Fallo de alimentación: Inicialmente se consideró un fallo de alimentación que podría haber contribuido a la colisión. Es necesario distinguir entre las fuentes de alimentación para los equipos de protección y la fuente de alimentación para las unidades de tracción de los trenes a través de las catenarias. En caso de interrupción del suministro eléctrico a los equipos de protección, las señales se apagan, el sistema pasa al modo seguro en el que todos los bloques de vía envían un mensaje de «ocupado» y las señales ATP para los trenes en la zona relevante desaparecen. Sin embargo, no se registraron síntomas de esta naturaleza en la ubicación del accidente, aunque sí ocurrieron en las estaciones de Rotterdam Zuid, Rotterdam Stadion, Rotterdam Lombardijen e IJsselmonde en el momento de la colisión, ya que uno de los vagones descarrilados separó un cable de alimentación. Se puede concluir que el fallo de las fuentes de alimentación de los equipos de protección fue causado por la colisión.
 La catenaria resultó dañada en la colisión y la subestación que suministra energía a la catenaria desconectó automáticamente el suministro eléctrico. La subestación habrá intentado entonces reconectar periódicamente el suministro eléctrico a la catenaria, lo que también puede haber dado lugar a la indicación de un mal funcionamiento. El daño a la catenaria también fue causado por la colisión. La impresión de los gestores de tráfico ferroviario de que se había producido un fallo de alimentación antes de la colisión se explica porque la colisión causó el fallo de alimentación. El fallo de alimentación era visible inmediatamente en los monitores de los gestores de tráfico ferroviario, mientras que recibieron información sobre la colisión solo unos minutos después.
@@ -1716,6 +1798,7 @@ La interferencia también podría haber causado una interrupción del sistema de
 Si la deceleración de frenado limitada del tren hubiera contribuido a la colisión, el sistema de registro habría incluido un registro de que los frenos habían sido aplicados pero que el tren no obstante no logró reducir la velocidad hasta un grado suficiente. Dado que el maquinista aplicó los frenos solo 2 segundos antes de la colisión, este no es el caso.
 
 ## Página 84
+
 
 •	
 En primer lugar, no existen campos eléctricos fluctuantes en este tramo de la línea de alta velocidad HSL-Zuid y, por consiguiente, no hay problemas de interferencia causados por la línea de alta velocidad. Corrientes de esta naturaleza pueden generarse mediante el uso de corrientes alternas o la conmutación frecuente de entrada y salida de corrientes continuas. Ninguna de estas situaciones se dio en Barendrecht:
@@ -1733,8 +1816,8 @@ Tren mixto de mercancías. El registro automático del viaje (ARR) del tren mixt
 Cabe señalar que los registros horarios en el ARR no concuerdan con la hora según el sistema de seguimiento de números de tren (TNTS), que utiliza la hora real. La diferencia horaria entre el TNTS y el ARR se determinó sobre la base de la hora en la que ambos sistemas indicaron que había ocurrido la colisión. La hora de la colisión indicada por el ARR se basa en la última hora registrada, a saber: 21:30:02. La hora de la colisión indicada por el TNTS se determinó como 22:32:35. Aparte del hecho de que el ARR estaba configurado en hora de invierno, la hora del ARR iba retrasada respecto a la del TNTS en 2 minutos y 33 segundos. Para evitar confusiones, los siguientes gráficos del ARR han sido corregidos a la hora del TNTS.
 La Figura 13 muestra la velocidad del tren mixto de mercancías en los últimos minutos antes del accidente. El conductor redujo la velocidad a poco menos de 40 km/h alrededor de las 22:27 ya que el tren necesitaba pasar sobre el conjunto de agujas en el patio de IJsselmonde en posición desviada. La velocidad del tren permaneció posteriormente aproximadamente constante. El código ATP cambió de amarillo a amarillo 6 alrededor de las 22:29:40 y el conductor aumentó ligeramente la velocidad del tren. El código ATP cambió de nuevo de amarillo 6 a amarillo alrededor de las 22:31:00, cuando el tren pasó la señal P-852 situada en precaución. El conductor mantuvo la velocidad constante en unos 39 km/h. El conductor operó la palanca de freno del tren poco antes de la colisión, y también se aplicaron los frenos de la locomotora.
 
-
 ## Página 85
+
 
 Movimientos y acción de frenado del tren mixto de mercancías en los últimos minutos antes de la colisión
 velocidad [km/h]
@@ -1748,8 +1831,8 @@ Tracción/freno eléctrico [+/- 100%]
 Figura 13: Movimientos y acciones de frenado del tren mixto de mercancías en los minutos previos a la colisión
 El tren mixto de mercancías viajaba entre Nunspeet y Harderwijk alrededor de las 19:50 a una velocidad de aproximadamente 80 km/h cuando la presión de aire del sistema de frenado cayó: se aplicaron los frenos del tren y los frenos electrodinámicos de la locomotora se aplicaron completamente (véase la Figura 14). Esta acción de frenado no fue iniciada por el conductor: él operó la palanca de freno más de 10 segundos después. El tren continuó frenando hasta detenerse por completo.
 
-
 ## Página 86
+
 
 Primer parada no programada del tren mixto de mercancías
 velocidad [km/h]
@@ -1777,6 +1860,7 @@ Figura 15: Movimientos y acciones de frenado del tren mixto de mercancías alred
 
 ## Página 87
 
+
 No se superó la velocidad máxima y no hubo ningún fallo de código ATP en ninguno de estos casos. Dado que no se envió ningún mensaje sobre un fallo, la causa más probable de estas acciones de frenado fue una intervención del sistema de hombre muerto. El registro automático de disparo (ARR) no incluye registros de una intervención del sistema de hombre muerto como tal. Cualquier intervención de este tipo puede deducirse únicamente a partir de los otros datos.
 Tren de contenedores. El registro automático de disparo (ARR) del tren de contenedores (locomotora número 6616) fue leído en Rotterdam el 29 de septiembre de 2009 en presencia de la Junta de Seguridad de los Países Bajos, la Inspección de Transporte, Obras Públicas y Gestión del Agua, ProRail y DeltaRail. El archivo de registro de disparo, en forma de archivo de texto en tabla, se puso a disposición de DeltaRail para su análisis posterior.
 Cabe señalar que los registros horarios del ARR no coinciden con la hora según el sistema de seguimiento de números de tren (TNTS), que utiliza la hora real. La diferencia horaria entre el TNTS y el ARR se determinó sobre la base de la hora en la que ambos sistemas indicaron que había ocurrido la colisión. La hora de la colisión indicada por el ARR se basa en la última hora registrada, a saber: 21.30:46. La hora de la colisión indicada por el TNTS se determinó como 22:32:35. Aparte del hecho de que el ARR estaba configurado en hora de invierno, la hora del ARR iba retrasada respecto a la del TNTS en 1 minuto y 49 segundos. Para evitar confusiones, los siguientes gráficos del ARR han sido corregidos a la hora del TNTS.
@@ -1790,8 +1874,8 @@ Palanca de freno en posición de emergencia (1 = sí)
 Hora [hh:mm:ss]
 Figura 16: Movimientos y acciones de frenado del tren de contenedores en los minutos previos a la colisión
 
-
 ## Página 88
+
 
 ## ANEXO 5: RECOMENDACIONES PERTINENTES DE LA JUNTA DE SEGURIDAD DE LOS PAÍSES BAJOS Y SUS PREDECESORES LEGALES
 Esta investigación reveló una serie de cuestiones que requieren atención y que son conocidas desde hace mucho tiempo: la Junta de Seguridad de los Países Bajos ya había solicitado atención para estas cuestiones en investigaciones anteriores. Las recomendaciones pertinentes de dichas investigaciones se enumeran a continuación, junto con un resumen de la respuesta de la parte a la que se dirigió la recomendación e información sobre la adopción de la recomendación revelada durante el curso de la presente investigación («lecciones de Barendrecht»).
@@ -1805,6 +1889,7 @@ Colisión entre un tren expreso y un tren lento, informe de la Junta de Accident
 | Lecciones de Barendrecht | Como se ha demostrado en la Sección 5, aún existen otras medidas disponibles para la reducción del riesgo de SPAD. |
 
 ## Página 89
+
 
 ### Dordrecht, 28 de noviembre de 1999
 ### Colisión 
@@ -1840,6 +1925,7 @@ Los trabajos sobre la funcionalidad «tren ha pasado una señal en peligro» est
 
 ## Página 90
 
+
 ### Apeldoorn, 30 de abril de 2003
 Descarrilamiento de un tren de mercancías cerca de Apeldoorn, 30 de abril de 2003, Consejo de Seguridad de los Países Bajos, 
 
@@ -1866,6 +1952,7 @@ evaluación de las actividades más importantes críticas para la seguridad en e
 
 ## Página 91
 
+
 ### Ámsterdam, 21 de mayo de 2004
 ### Paso de una señal en rojo en la Estación Central de Ámsterdam, Consejo Holandés de Seguridad, 5 de julio de 2005
 Recomendación 1: Se recomienda al Ministro de Transportes, Obras Públicas y Gestión del Agua, a ProRail, a los operadores y a la Inspección de Transportes y Gestión del Agua que supervisen la aplicación del plan de reducción de SPAD (paso de señales en rojo), elaborado por el grupo de trabajo sobre SPAD, mediante el seguimiento crítico y la evaluación del progreso y los resultados, así como trabajando a largo plazo en un sistema ATB europeo renovado, en el que la velocidad de los trenes esté controlada continua y automáticamente.
@@ -1885,6 +1972,7 @@ Lección(es) de Barendrecht
 El Ministerio de Transportes, Obras Públicas y Gestión del Agua supervisa la labor del comité directivo sobre SPAD. Sin embargo, la implementación del plan de reducción de SPAD está tardando más de lo previsto y los objetivos del plan no se han alcanzado hasta la fecha.
 
 ## Página 92
+
 
 •	
 ProRail participa en el grupo de dirección de SPAD, pero los objetivos del plan no se han alcanzado hasta la fecha. Aunque, como indica ProRail, se han adoptado planes específicos para la introducción de ERTMS en el contexto de los proyectos de construcción mencionados anteriormente, esto no es así para toda la red ferroviaria. 
@@ -1908,6 +1996,7 @@ Los puntos de riesgo de la infraestructura han sido efectivamente modificados y 
 
 ## Página 93
 
+
 Recomendación 3: Se recomienda a ProRail y a los operadores asumir y poner en práctica su propia responsabilidad en materia de seguridad, demostrando que operan con la máxima seguridad posible (ALARP) dentro de las limitaciones de seguridad posibles del sistema ferroviario (ATB, visibilidad de las señales, características de la vía, etc.). No obstante, deben trabajar de forma progresiva y creativa para resolver estos problemas. A este respecto, no deben excluir de antemano medidas drásticas (por ejemplo, reducir las frecuencias de tren), y deben comunicar claramente estas cuestiones al Ministerio de Transporte, Obras Públicas y Gestión del Agua, como organismo responsable del sistema.
 Respuesta(s)
 •	
@@ -1918,6 +2007,7 @@ Railion: La política de seguridad de Railion se basa en el principio ALARP. El 
 NSR: La Inspección de Transporte, Obras Públicas y Gestión del Agua evaluó el SMS de NSR en 2006. Tras esta evaluación, el certificado de seguridad de NSR fue renovado por el período máximo de tres años. NSR desea llamar la atención sobre el hecho de que esto implica que NSR ha implementado procedimientos seguros y trabaja de manera segura, esforzándose continuamente por realizar mejoras. NSR también desea señalar que se han implementado y se están implementando diversas medidas en el marco del plan de reducción de SPAD, medidas que se refieren a cuestiones técnicas, a la gestión del proceso de transporte y a mejoras en el comportamiento humano: la empresa no puede excluir la implementación de medidas drásticas en el futuro.
 
 ## Página 94
+
 
 Lección(es) de
 •	
@@ -1943,8 +2033,8 @@ En virtud de la concesión de transporte otorgada a la empresa, NS Dutch Railway
 
 Aunque la recomendación no va dirigida a ProRail, la empresa ha respondido no obstante a la recomendación. En esencia, la respuesta de la empresa indica que ProRail está consultando con los transportistas sobre la forma en que puede medirse la puntualidad de las salidas.
 
-
 ## Página 95
+
 
 Lección(es) de
 •	
@@ -1954,6 +2044,7 @@ Barendrecht
 El enfoque de la Inspección de Transporte, Obras Públicas y Gestión del Agua respecto a la cuestión de los SPAD se basa en la sustancia de sus inspecciones/auditorías realizadas en el contexto de las concesiones y los certificados de seguridad, más que explícitamente en la calidad de la implementación del SMS en la práctica cotidiana.
 
 ## Página 96
+
 
 ## ANEXO 6: EL PROBLEMA DE LOS SPAD EN LOS PAÍSES BAJOS
 Este anexo examina la política que los Países Bajos han llevado a cabo en las últimas décadas para el control del problema de los SPAD. 
@@ -1969,6 +2060,7 @@ El sistema se denominó originalmente ATP, posteriormente cambió a ATB-EG cuand
 Originalmente se decidió instalar el equipo únicamente en el material rodante entonces relativamente nuevo en lugar de en todo el material rodante. Como resultado, dado el prolongado servicio útil de algunos tipos
 
 ## Página 97
+
 
 del material rodante (aproximadamente 40 años), todos los tipos de trenes fueron equipados únicamente con ATB-EG durante la década de los noventa;130
 •	
@@ -1997,6 +2089,7 @@ La Unión Europea emitió una Directiva en 1991 que estipulaba que todos los est
 
 ## Página 98
 
+
 navegación, promover la competencia y, como resultado, aumentar la eficiencia. En este contexto, se decidió que los diversos sistemas nacionales de ATP serían sustituidos por un nuevo sistema a desarrollar a nivel europeo, conocido como el sistema ‘ERTMS/ETCS’;
 •	
 Se produjo una colisión entre dos trenes de pasajeros en las instalaciones de Eindhoven en 1992, que causó 48 heridos y que, en circunstancias ligeramente diferentes, habría causado con toda seguridad un número considerable de víctimas mortales. La Junta de Investigación de Accidentes Ferroviarios investigó este accidente y concluyó que podría haberse evitado si se hubiera instalado un sistema de ATP que no presentara las limitaciones funcionales del ATB-EG. Durante las vistas de la Junta de Investigación de Accidentes Ferroviarios, el Consejo de Administración de NS (Ferrocarriles Neerlandeses) declaró que los trabajos de desarrollo del ATB-NG estaban casi completados y que el Consejo tenía la intención de equipar toda la red ferroviaria principal con dicho sistema. Según este calendario, los trabajos finalizarían en el periodo comprendido entre 2017 y 2027, mientras que se consideraba factible su finalización en 2005 si los trabajos se llevaban a cabo a un ritmo acelerado. La recomendación más importante del informe de la Junta de Investigación de Accidentes Ferroviarios, publicado en 1993, fue que toda la red ferroviaria debía estar equipada con ATP de segunda generación lo antes posible. En este contexto, la Junta de Investigación de Accidentes Ferroviarios, en consonancia con la declaración realizada por el Consejo de Administración de NS (Ferrocarriles Neerlandeses), preveía la finalización en 2005;
@@ -2022,6 +2115,7 @@ En la segunda mitad de la década de 1990, el número de SPAD aumentó de aproxi
 
 ## Página 99
 
+
 participaron representantes de NS (Ferrocarriles Neerlandeses) y ProRail. Las actividades de este grupo de trabajo fueron continuadas por el «grupo director de SPAD».
 ### Plan de reducción de SPAD
 El 21 de mayo de 2004 se produjo una colisión frontal en la estación de clasificación de Ámsterdam Central que causó 19 heridos. El accidente provocó una gran conmoción en los medios de comunicación y en el ámbito político. En los meses posteriores al accidente, el aforementioned «grupo de trabajo de SPAD» realizó un inventario de medidas potenciales para el control del problema de los SPAD. Este inventario sirvió de base para lo que se denomina el «plan de reducción de SPAD», compuesto por cuatro categorías de medidas relativas a:
@@ -2043,6 +2137,7 @@ Durante el transcurso de los estudios del proyecto, llevados a cabo por la Inspe
 Tras el accidente de Barendrecht, el Ministro de Transporte, Obras Públicas y Gestión del Agua solicitó un estudio independiente para determinar el número total de señales adicionales y las señales específicas que necesitarían estar equipadas con ATB-VV para alcanzar los objetivos de reducción de
 
 ## Página 100
+
 
 cuestión. El mandato del estudio también se extendió a un estudio comparativo de las medidas de control de SPAD implementadas por los países vecinos de los Países Bajos y a una revisión de las alternativas potenciales para la función de cancelación que había sido retirada en la década de 1990.132 El estudio fue realizado por Oranjewoud/Save y el informe se publicó en mayo de 2010.
 El mandato del estudio abarcaba los siguientes tres elementos:
@@ -2083,8 +2178,8 @@ El Ministro de Transporte, Obras Públicas y Gestión del Agua ha declarado que 
 •	La eficacia del ATB-VV será evaluada en 2011 y los resultados de esta evaluación se utilizarán para determinar el número de señales adicionales y qué señales adicionales deberán equiparse también con ATB-VV;
 Cuando los trenes circulan en una zona de 40 km/h con los frenos liberados, los conductores deben indicar su vigilancia al sistema ATP pulsando un botón una vez cada 20 segundos para anular (cancelar) un zumbador. La función de cancelación fue retirada de prácticamente todo el material rodante a finales de la década de 1990.
 
-
 ## Página 101
+
 
 •	Se solicitará al sector ferroviario que estudie la viabilidad de aumentar la eficacia del ATB-VV mediante la modificación de lo que se denomina el «criterio de frenado».133
 •	Se solicitará a las empresas ferroviarias que informen al Ministro de Transporte, Obras Públicas y Gestión del Agua sobre la viabilidad de implementar alternativas para la función de cancelación.
@@ -2092,6 +2187,7 @@ Cuando los trenes circulan en una zona de 40 km/h con los frenos liberados, los 
 El diseño del ATB-VV asume que la velocidad de un tren que se aproxima a una señal en peligro no será (mucho) superior a 40 km/h: el ATB-VV no garantiza que los trenes que circulan a velocidades superiores sean detenidos antes de la señal en peligro. La «modificación del criterio de frenado» se refiere a la configuración del ATB-EG de modo que también se inicie una acción de frenado automática en el caso de que el conductor aplique solo una fuerza de frenado baja después de pasar una señal en precaución. Esta modificación aumenta la probabilidad de que la velocidad del tren cuando se aproxima a la señal en peligro no sea (mucho) superior a 40 km/h y de que el sistema ATB-VV pueda detener el tren antes de la señal en peligro.
 
 ## Página 102
+
 
 ## ANEXO 7: DESARROLLO DEL ERTMS
 ### Introducción
@@ -2118,6 +2214,7 @@ Esto se refiere al proyecto BB21; el elemento del proyecto que fue terminado est
 
 ## Página 103
 
+
 En el período intermedio se han llevado a cabo tres estudios de implementación más:138
 •	Un estudio realizado por ProRail en 2003;
 •	Un plan de implementación del ERTMS elaborado por ProRail y NS Dutch Railways en 2006, para cumplir con el requisito de que todos los Estados miembros debían presentar este plan a la Comisión Europea en 2007;
@@ -2138,6 +2235,7 @@ ProRail, Beleidstransitie treinbeveiliging en –beheersing («Transición polí
 Carta del Ministro de Transportes, Obras Públicas y Gestión del Agua a la Cámara de Representantes de los Estados Generales, 21 de septiembre de 2007; Carta de NS Dutch Railways, ProRail y BRG al Ministro de Transportes, Obras Públicas y Gestión del Agua, 19 de junio de 2008; Carta de NS Dutch Railways, ProRail y BRG al Ministro de Transportes, Obras Públicas y Gestión del Agua, 9 de abril de 2010.
 
 ## Página 104
+
 
 aproximadamente entre ocho y diez años140, pero también adopta una postura de «esperar y ver» con respecto al ERTMS, ya que el Ministerio presume que los Países Bajos están a la vanguardia en la introducción del ERTMS y que avanzar demasiado podría dar lugar a riesgos excesivos.141 El Ministerio considera que la versión actual de las especificaciones del ERTMS (2.3.0d) no es suficientemente resistente a futuro para su introducción en la red ferroviaria neerlandesa. El Ministro tiene la intención de esperar hasta que esté disponible equipo con la funcionalidad de la versión 3.0.0, cuya publicación se espera para 2015.142 En vista de la estrategia adoptada de comenzar con el material rodante y luego proceder a la modernización de la infraestructura, no será posible iniciar los trabajos sobre la infraestructura antes de 2018.143 La experiencia adquirida en el pasado144 indica que un despliegue en grandes partes de la red requiere un período de varias décadas y que la velocidad de la implementación se subestima estructuralmente. Por esta razón, en vista de la política actual, no es realista esperar que grandes partes de la red ferroviaria estén equipadas con ERTMS antes de 2025.
 ### Introducción del ERTMS fuera de los Países Bajos
@@ -2161,6 +2259,7 @@ Las modificaciones de la versión 3.0.0 se refieren a cambios en el equipo para 
 Véase el Anexo 6.
 
 ## Página 105
+
 
 Se conocen las siguientes experiencias con ERTMS fuera de los Países Bajos:
 •	
@@ -2202,10 +2301,10 @@ El Reino Unido ha optado por Nivel 2 y planea introducir el nuevo sistema cuando
 –
 Alemania también ha optado por Nivel 2 en vista de los beneficios de capacidad. Nivel 1 LS puede instalarse como medida provisional. Donde sea posible, se realizarán preparaciones técnicas pendientes de la llegada de ERTMS. Alemania apoya el desarrollo, pero afirma que en vista de las limitadas opciones de financiación y el tamaño de la red ferroviaria, el país se ve obligado a introducir ERTMS a un ritmo lento.
 Aparte de Luxemburgo, ningún otro país parece haber introducido ERTMS en grandes estaciones existentes.
-Los niveles de ETCS se refieren a la manera en que la información sobre la ruta configurada del sistema de protección de bloque se transmite al tren. El Nivel 1 transmite esta información utilizando balizas en la vía y el Nivel 2 transmite esta información por teléfono a través de la red GSM-R. 
-
+Los niveles de ETCS se refieren a la manera en que la información sobre la ruta configurada del sistema de protección de bloque se transmite al tren. El Nivel 1 transmite esta información utilizando balizas en la vía y el Nivel 2 transmite esta información por teléfono a través de la red GSM-R.
 
 ## Página 106
+
 
 ## ANEXO 8: COLISIONES DE TRENES RELACIONADAS CON SPADS146147
 nº
@@ -2370,8 +2469,8 @@ tren de pasajeros
 **	
 tren de mercancías
 
-
 ## Página 107
+
 
 nº
 año
@@ -2515,8 +2614,8 @@ x
 1
 tren g / tren g
 
-
 ## Página 108
+
 
 ### Consejo de Seguridad de los Países Bajos
 teléfono +31(0)70 333 70 00 • correo electrónico info@safetyboard.nl  • sitio web www.safetyboard.nl 

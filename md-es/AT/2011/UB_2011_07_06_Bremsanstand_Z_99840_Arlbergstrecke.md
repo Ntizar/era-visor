@@ -10,10 +10,11 @@ chars: 51418
 ratio_longitud: 1.07
 tokens_in: 17975
 tokens_out: 13471
-verificacion: ok
-notas_cifras: ["bloque 8: cifras largas: 2/34"]
+verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 7: ratio 1.65"]
+notas_cifras: ["página 42: cifras largas: 2/11"]
 ---
 ## Página 1
 

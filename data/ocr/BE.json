@@ -1,0 +1,15 @@
+{
+ "md/BE/2007/I32 LaHuple bijlage-29112007.md": {
+  "md": "md/BE/2007/I32 LaHuple bijlage-29112007.md",
+  "pdf": "pdfs/BE/I32 LaHuple bijlage-29112007.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "fra+nld",
+  "paginas": 18,
+  "paginas_vacias": 0,
+  "confianza_media": 82.3,
+  "confianza_min": 39.6,
+  "chars": 21641,
+  "md5_pdf": "e723a9b439ac728ffeae70047930d909",
+  "fecha": "2026-11-19"
+ }
+}

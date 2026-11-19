@@ -10,12 +10,14 @@ chars: 35410
 ratio_longitud: 1.08
 tokens_in: 14117
 tokens_out: 11780
-verificacion: revisar
-avisos: ["bloque 4: cifras largas: faltan 3/50 (6.0%)"]
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 8: cifras largas: 2/12", "página 9: cifras largas: 1/38"]
 ---
+
 ## Página 1
+
 
 Traducción del idioma búlgaro
 REPÚBLICA DE BULGARIA
@@ -35,8 +37,8 @@ investigación técnica del accidente ferroviario que tuvo lugar el 19.12.2012
 alrededor de las 11:38 horas en la estación de ferrocarril de Shumen - incendio de la locomotora eléctrica n.º 42081.0 del tren de pasajeros n.º 90101
 Mayo de 2013
 
-
 ## Página 2
+
 
 APRUEBA:
 AL SR. KRISTIAN KRASTEV
@@ -52,8 +54,8 @@ La comisión de investigación celebró una confrontación en el depósito de lo
 ### 1. Hechos y circunstancias establecidos por la investigación.
 El 19.12.2012, el tren de pasajeros (TP) n.º 90101 es atendido por la locomotora eléctrica n.º 42081.0 (entra en la estación de Kaspichan con la cabina I como frontal; en la estación, el tren cambia de dirección y la cabina II de la locomotora pasa a ser frontal), con una dotación de locomotora compuesta por un maquinista con 23 años de servicio y un ayudante de maquinista con 5 años de servicio del depósito de locomotoras de Gorna Oryahovitsa, "BDZ - Passenger services" EOOD, y una dotación de vagones compuesta por un jefe de tren con 19 años de servicio y un revisor con 17 años de servicio del Servicio de Transporte de Ruse de "BDZ - Passenger services" EOOD. El tren circula según el Horario de Circulación de Trenes (HCT) desde el patio de maniobras de Ruse hasta la estación de Shumen. Durante el trayecto en el tramo Samuil - Kaspichan, debido a las malas condiciones meteorológicas (ventisqueros), el tiempo de viaje del tren se incrementa en +22'. El tren llega a la estación de Kaspichan a las 10:45 con un retraso de +11'. A continuación, permanece 23' para invertir la marcha de la locomotora, acoplar, señalizar el tren y realizar la prueba "D" (prueba abreviada del
 
-
 ## Página 3
+
 
 freno automático del tren), así como para dar paso al tren rápido n.º 9620, que sale de la estación de Kaspichan a las 11:08 con un retraso de +22'.
 El TP n.º 90101 llega a la estación de Shumen a las 11:33 horas y es recibido en la segunda vía de recepción-expedición (VRE) conforme al Plan II-24 de la estación, finalizando la circulación con un retraso de 23'. Cinco minutos después del desembarque de los pasajeros del tren, mientras se espera la maniobra de composición del tren, el ayudante de maquinista percibió un olor a quemado, miró alrededor de la cabina y luego observó desde la ventanilla lateral del ayudante la parte trasera de la locomotora. Observó humo procedente de la sección inferior trasera de la locomotora. Inmediatamente desconecta el Interruptor Principal de Aire (IPA), notifica al maquinista sobre la observación y ambos proceden inmediatamente a inspeccionar la locomotora eléctrica. Cuando el maquinista accede a la cabina trasera, un humo denso y asfixiante junto con llamas salen del pasillo intermedio desde el lado del conductor. El humo denso y asfixiante impide el acceso a la cabina y el maquinista intentó entrar a través del paso transversal desde la segunda cabina, pero resultó imposible. El maquinista desconecta la batería y activa el sistema fijo de extinción de incendios de la locomotora, tras lo cual la dotación de la locomotora comienza a extinguir el fuego desde ambas puertas de la cabina en llamas utilizando los extintores portátiles disponibles de la cabina delantera de la locomotora.
@@ -61,6 +63,7 @@ El jefe de tren también observó que salía humo de la cabina trasera de la loc
 El jefe de circulación notificó primero al regulador de trenes y adoptó medidas para cortar la tensión de la catenaria mediante el procedimiento establecido. Hasta la llegada del vehículo de bomberos a las 11:47 horas, todos los extintores habían sido utilizados. No obstante, el fuego seguía creciendo y, como resultado, la alta temperatura encendió los fuelles de goma del coche de pasajeros n.º 315220479403 contiguo a la locomotora. La fuerte llama quemó también el hilo de contacto de la red aérea. A las 11:55 horas llegó el camión de bomberos del Servicio de Seguridad contra Incendios y Protección de la Población (SSIPP) - Shumen y, tras la confirmación por parte del jefe de estación de que la tensión de la red aérea estaba desconectada a las 11:56 horas, comenzaron los trabajos de extinción. A las 12:50 horas el fuego fue extinguido y se otorgó permiso por parte del SSIPP - Shumen y del oficial de policía investigador del Ministerio del Interior para iniciar los trabajos de reparación de emergencia. A las 14:08 horas llega la locomotora diésel n.º 07066.4 con un tren local de mercancías (TLM) n.º 20731, con el cual se trasladó la UME n.º 90101 de la segunda a la quinta vía. De 16:00 a 19:00 horas se autorizó una ventana de emergencia para restablecer la red aérea de la segunda vía. A las 19:06 se restableció la circulación de trenes en la segunda vía.
 
 ## Página 4
+
 
 ### 2. Personal implicado en el caso.
 ### 2.1 Dotación de la locomotora:
@@ -81,8 +84,8 @@ Todo el personal implicado en el accidente posee certificados válidos de recono
 ### Antes de iniciar el trabajo, la dotación de la locomotora no realizó una prueba de consumo de alcohol conforme a los requisitos del Art. 24, apdo. 4 y Art. 28, apdos. 2
 ### y 3 de la Ordenanza n.º 54 de 02.06.2003 del Ministro de Transportes y Comunicaciones (promulgada, SG, núm. 55 de 17.06.2003) relativa a los requisitos médicos y psicológicos del personal que realiza el transporte ferroviario de pasajeros y mercancías y actividades conexas para llevar a cabo reconocimientos médicos previos al viaje (previos al turno). En el curso de la investigación en el depósito de locomotoras de Gorna Oryahovitsa se constató que es una práctica generalizada permitir trabajar a las dotaciones de locomotoras únicamente mediante una declaración firmada por ellas mismas en la que afirman estar alerta, descansadas y no haber utilizado alcohol u otras drogas, sin que se realice la comprobación de la cantidad
 
-
 ## Página 5
+
 
 ### de alcohol en el aliento con el equipo necesario. Se desprende de los controles realizados por el Departamento de «Seguridad» de «BDZ - Servicios de Pasajeros» EOOD y de las prescripciones n.º 02-05/23.11.2012, n.º 02-04/26.10.2012, n.º 18-04827.11.2012, mediante las cuales se detectaron incumplimientos de los requisitos del Art. 24, apdo. 4 y Art. 28, apdos. 2 y 3 de la Ordenanza n.º 54 de 02.06.2003 relativos a los requisitos médicos y psicológicos del personal, debido a la ausencia de aparatos íntegros y que hayan superado la correspondiente inspección metrológica para el control de la cantidad de alcohol en el aire espirado en el depósito de locomotoras de Gorna Oryahovitsa y en los puntos operativos adyacentes de Ruse y Levski, así como en el depósito de locomotoras de Varna, sin que se hayan subsanado estos requisitos hasta el momento.
 ### 4. Documentos de cualificación y nombramiento.
@@ -101,6 +104,7 @@ Vagones - 2 unidades, tipo B4, número de ejes - 8, tonelaje del tren - 78 tonel
 Estación de formación del tren: patio de clasificación de Ruse.
 
 ## Página 6
+
 
 Los equipos de comunicación y las conexiones móviles han sido técnicamente aptos.
 El tren se detuvo en un tramo con perfil de la 2ª vía - 0 ‰.
@@ -121,8 +125,8 @@ Durante la reparación capital en abril de 1991 en la Fábrica Ferroviaria «Geo
 ### Al revisar la documentación técnica se encontró que, de conformidad con PLS 100/09 «Prescripción para los recorridos entre reparaciones y ciclos de inspecciones y reparaciones planificadas de las locomotoras eléctricas y ELT de BDZ EAD», el ciclo entre reparaciones de la locomotora eléctrica se incrementa para RE en un 58,67 % respecto a RPG, es decir, de 357.000 km a 600.000 km, y para RE en un 33,33 %. Todas las demás inspecciones y reparaciones de las locomotoras eléctricas se llevan a cabo de acuerdo con el ciclo entre reparaciones aprobado.
 Al comprobar el «Pasaporte técnico del tren n.º 42081.0» (LS 005-1) y el «Registro de reparaciones necesarias del material rodante de tracción» (Formulario LP - 9), no se detectaron ni registraron violaciones de los reglamentos vigentes sobre las reparaciones de fábrica y depósito
 
-
 ## Página 7
+
 
 y el mantenimiento de las locomotoras eléctricas, ni sobre la organización, procedimientos y tecnologías de los trabajos de reparación relacionados con la ocurrencia del incendio.
 ### 9. Estado de la infraestructura ferroviaria y del material rodante antes, durante y después del accidente.
@@ -152,6 +156,7 @@ Locomotora eléctrica n.º 42081.0 - propiedad de «BDZ - Servicios de Pasajeros
 
 ## Página 8
 
+
 faltante. Su cable de alimentación principal presenta un aislamiento casi intacto. Se ha realizado una inspección del aislamiento dañado de los calentadores de caloríferos y se ha comprobado que están intactos;
 - se han producido daños en la pared del pasillo intermedio desde el lado de la sección del motor;
 - los daños causados en el panel neumático son significativamente menores que en la cabina de control;
@@ -170,8 +175,8 @@ Tras el accidente, conforme al § 18 y al Anexo № 3 de las "Normas para la rep
 10.7. Retrasos causados en los trenes:
 - Tren № 2611, operador "BDZ - PS" EOOD - permanencia en la Estación Han Krum +34' por cruce con el tren № 2612;
 
-
 ## Página 9
+
 
 - Tren № 2612, operador "BDZ - PS" EOOD - permanencia en la Estación Matnitsa +2' debido a la falta de tensión en la CN en la Estación Shumen;
 - Tren № 20153, operador "BDZ - PS" EOOD - permanencia en la Estación Han Krum +55' debido a la falta de vía libre en la Estación Shumen;
@@ -194,6 +199,7 @@ De las inspecciones realizadas y los materiales presentados se desprende clarame
 
 ## Página 10
 
+
 interruptores para encender el equipo de la cabina 612, botones para encender y apagar los calentadores para calefacción y desempañado de las ventanas - 757 y 756, instrumentos de medición, controlador de operación;
 - se encuentran colillas de cigarrillos en la segunda cabina no quemada de la locomotora eléctrica;
 - se constata que tuvo lugar un accidente de incendio previo en el compartimento del motor de la locomotora eléctrica (en la Estación Dabovo el 26.06.2012, en el cual se activó el sistema fijo de extinción de incendios y se utilizaron 2 extintores portátiles para combatir el fuego);
@@ -201,8 +207,8 @@ interruptores para encender el equipo de la cabina 612, botones para encender y 
 Los cortocircuitos eléctricos son eventos aleatorios y son el resultado de defectos en el aislamiento de cables y conductores eléctricos. Una característica distintiva del cortocircuito eléctrico es la fusión de los conductores por el arco eléctrico que se produce, cuya temperatura puede alcanzar entre 1500° y 4000° C, y en la cual se forman características «gotas solidificadas, perlas» de metal fundido. Las corrientes del cortocircuito eléctrico incurrido en el momento inicial han sido comparables a las corrientes eléctricas nominales de funcionamiento en los circuitos operativos, sin provocar la actuación de ninguna protección eléctrica. Posteriormente, el calor excesivo y la fusión del aislamiento de los cables operativos resultaron en un cortocircuito eléctrico permanente, lo que condujo a la aparición de un arco eléctrico y a la ignición de materiales combustibles en la cabina de la locomotora eléctrica. El trozo de cable sólido de cobre multicapa tomado de la parte superior izquierda del panel de control y del suelo de la cabina quemada en la locomotora eléctrica tiene el aislamiento completamente quemado en un extremo, donde es visible una fusión típica de la producida como resultado de un cortocircuito eléctrico, y otro trozo de cable sólido de cobre multicapa con el aislamiento completamente quemado, uno de cuyos extremos está conectado mediante tuercas y arandelas al espárrago y en el otro es visible una fusión típica de la producida como resultado de un cortocircuito. Tras la realización de una triple pericia judicial de bomberos por parte del «Centro de Investigación y Pericias» de la Dirección General «FSPP» del Ministerio del Interior y un análisis estructural por rayos X, se ha establecido inequívocamente que el cortocircuito en los dos trozos de cable es «primario». De las pruebas incautadas para la preparación de la pericia de bomberos se obtienen datos sobre el rápido desarrollo del incendio, lo que sugiere la presencia de una fuente de ignición de alta potencia.
 La combustión se extendió desde el centro del incendio - el interruptor de control 370 a lo largo del aislamiento combustible de los cables eléctricos y otros materiales combustibles - madera, plástico, etc., en todas direcciones en forma de esfera. Verticalmente hacia arriba bajo la influencia de los flujos de convección y verticalmente hacia abajo por la acción del material fundido y horizontalmente en todas direcciones bajo la influencia primaria de la conductividad térmica y el flujo radiante de calor. Posteriormente, tras cubrir el volumen de la cabina y elevar la temperatura en su interior y tras romper sus ventanas, bajo la influencia del viento que soplaba en dirección desde la locomotora eléctrica hacia los coches de pasajeros, el fuego se propagó al primer coche de pasajeros, destruyendo parte de la pintura y las juntas de goma (faldones) del coche n.º 515220479403. Bajo la influencia de la alta temperatura sobre la cabina en llamas, también se quemó la catenaria de la vía 2, lo que indica que se alcanzó una temperatura superior a 1085° C.
 
-
 ## Página 11
+
 
 Las circunstancias que contribuyen a la aparición y propagación del incendio son:
 - La presencia de materiales combustibles en la cabina de la locomotora eléctrica - aislamiento de cables y conductores eléctricos, elementos de madera, partes tapizadas de los asientos, depósitos de polvo, equipaje personal de la tripulación de la locomotora y otros;
@@ -221,6 +227,7 @@ Plazo: 28.06.2013
 
 ## Página 12
 
+
 Plazo: 28.06.2013
 1.3. Realizar una inspección puntual de todas las locomotoras eléctricas de «Holding BDZ» ЕАD conforme a los requisitos del art. 623, art. 624, art. 625 y art. 626 de las «Normas para la reparación y mantenimiento en depósito de locomotoras eléctricas en BDZ» (LS 0103) de 1979 y del art. 743 y art. 748 de las «Normas para la reparación en fábrica de locomotoras eléctricas series 41000, 42000, 43000» de 1991.
 Plazo: 30.08.2013
@@ -237,8 +244,8 @@ Anexos: 1. Fotografías - 6 uds.
          2. CD con fotos de la escena del accidente.
          3. Copias del «Libro de comprobaciones de explotación» y del «Registro de trenes llegados y salidos y de aquellos en los que se haya realizado una revisión, audición y prueba del freno automático».
 
-
 ## Página 13
+
 
 Presidente:
 ……………………………….…... (Boicho Skrobanski)

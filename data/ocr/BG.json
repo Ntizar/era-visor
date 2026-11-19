@@ -1,0 +1,54 @@
+{
+ "md/BG/2014/BG 23.12.2014 FR_Derailment_BG_4690.md": {
+  "md": "md/BG/2014/BG 23.12.2014 FR_Derailment_BG_4690.md",
+  "pdf": "pdfs/BG/BG 23.12.2014 FR_Derailment_BG_4690.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "bul",
+  "paginas": 10,
+  "paginas_vacias": 0,
+  "confianza_media": 59.8,
+  "confianza_min": 54.9,
+  "chars": 27687,
+  "md5_pdf": "2062825e770452cc0aa4f87349441712",
+  "fecha": "2026-11-19"
+ },
+ "md/BG/2015/BG 01.02.2015 FR_Derailment_BG_4713.md": {
+  "md": "md/BG/2015/BG 01.02.2015 FR_Derailment_BG_4713.md",
+  "pdf": "pdfs/BG/BG 01.02.2015 FR_Derailment_BG_4713.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "bul",
+  "paginas": 12,
+  "paginas_vacias": 0,
+  "confianza_media": 60.7,
+  "confianza_min": 55.9,
+  "chars": 32882,
+  "md5_pdf": "f69700e7c94b4ca1dbb50d27d7e2ff90",
+  "fecha": "2026-11-19"
+ },
+ "md/BG/2015/BG 09.08.2015.md": {
+  "md": "md/BG/2015/BG 09.08.2015.md",
+  "pdf": "pdfs/BG/BG 09.08.2015.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "bul",
+  "paginas": 22,
+  "paginas_vacias": 0,
+  "confianza_media": 75.9,
+  "confianza_min": 49.9,
+  "chars": 51981,
+  "md5_pdf": "df3d986b12d76c1590105828d841cd22",
+  "fecha": "2026-11-19"
+ },
+ "md/BG/2015/BG 13.10.2015-4910.md": {
+  "md": "md/BG/2015/BG 13.10.2015-4910.md",
+  "pdf": "pdfs/BG/BG 13.10.2015-4910.pdf",
+  "motor": "tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)",
+  "idiomas": "bul",
+  "paginas": 16,
+  "paginas_vacias": 0,
+  "confianza_media": 76.3,
+  "confianza_min": 53.9,
+  "chars": 37864,
+  "md5_pdf": "5264d84871fd7003c3ba33450d0093c9",
+  "fecha": "2026-11-19"
+ }
+}

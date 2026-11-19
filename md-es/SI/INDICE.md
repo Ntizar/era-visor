@@ -45,7 +45,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [si-10870 - final report, med postajama poljčane in slovenska bistrica, 23. 3. 2018_era.md](2018/si-10870%20-%20final%20report,%20med%20postajama%20poljčane%20in%20slovenska%20bistrica,%2023.%203.%202018_era.md) | — | 573 | ok |
+| [si-10870 - final report, med postajama poljčane in slovenska bistrica, 23. 3. 2018_era.md](2018/si-10870%20-%20final%20report,%20med%20postajama%20poljčane%20in%20slovenska%20bistrica,%2023.%203.%202018_era.md) | — | 95618 | revisar |
 | [si-10871 - final report, postaja celje, 18. 4. 2018_era.md](2018/si-10871%20-%20final%20report,%20postaja%20celje,%2018.%204.%202018_era.md) | — | 483 | ok |
 | [si-10872 - final report, med postajama ljubljana vižmarje in ljubljana šiška, 15. 5. 2018_era.md](2018/si-10872%20-%20final%20report,%20med%20postajama%20ljubljana%20vižmarje%20in%20ljubljana%20šiška,%2015.%205.%202018_era.md) | — | 333 | ok |
 | [si-10873 - final report, med postajama ljubljana in ljubljana zalog, 25. 5. 2018_era.md](2018/si-10873%20-%20final%20report,%20med%20postajama%20ljubljana%20in%20ljubljana%20zalog,%2025.%205.%202018_era.md) | — | 303 | ok |

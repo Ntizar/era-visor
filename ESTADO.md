@@ -17,8 +17,8 @@ No editar a mano: se regenera.
 | PDFs en manifiesto | 4015 |
 | PDFs descargados | 4014 |
 | MD originales | 3963 |
-| MD en castellano | 603 |
-| Informes revisados por IA | 120 (ok 18) |
+| MD en castellano | 770 |
+| Informes revisados por IA | 266 (ok 34) |
 
 ## Tabla por país
 
@@ -39,12 +39,12 @@ No editar a mano: se regenera.
 | **HR** | Croacia | 107 | 107 | 106 | 0 | 0 | 0 | — | 4 | 2014-2025 |
 | **IT** | Italia | 94 | 94 | 94 | 0 | 0 | 0 | — | 20 | 2005-2024 |
 | **SE** | Suecia | 88 | 88 | 88 | 0 | 0 | 0 | — | 1 | 2005-2025 |
+| **PT** | Portugal | 57 | 57 | 57 | 57 | 0 | 0 | — | 3 | 2006-2022 |
 | **RS** | Serbia | 57 | 57 | 56 | 0 | 0 | 0 | — | 0 | 2016-2025 |
-| **PT** | Portugal | 57 | 57 | 57 | 0 | 0 | 0 | — | 3 | 2006-2022 |
-| **BG** | Bulgaria | 56 | 56 | 56 | 28 | 0 | 0 | — | 4 | 2010-2026 |
-| **IE** | Irlanda | 51 | 51 | 51 | 0 | 0 | 0 | — | 0 | 2007-2023 |
-| **SK** | Eslovaquia | 39 | 39 | 39 | 8 | 0 | 0 | — | 3 | 2006-2025 |
+| **BG** | Bulgaria | 56 | 56 | 56 | 56 | 56 | 5 | 95.6 | 4 | 2010-2026 |
+| **IE** | Irlanda | 51 | 51 | 51 | 51 | 51 | 11 | 96.6 | 0 | 2007-2023 |
 | **SI** | Eslovenia | 39 | 39 | 39 | 39 | 39 | 3 | 98.4 | 28 | 2008-2023 |
+| **SK** | Eslovaquia | 39 | 39 | 39 | 39 | 39 | 0 | 92.2 | 3 | 2006-2025 |
 | **LV** | Letonia | 26 | 26 | 26 | 26 | 26 | 6 | 96.2 | 0 | 2008-2025 |
 | **NL** | Países Bajos | 21 | 21 | 21 | 21 | 21 | 3 | 94.2 | 0 | 2003-2024 |
 | **EE** | Estonia | 13 | 13 | 13 | 13 | 13 | 0 | 95.2 | 0 | 2007-2022 |

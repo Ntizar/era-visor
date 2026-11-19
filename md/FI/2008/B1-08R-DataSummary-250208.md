@@ -6,14 +6,94 @@ pdf: B1-08R-DataSummary-250208.pdf
 url_oficial: https://www.era.europa.eu/system/files/2023-07/B1-08R-DataSummary-250208.pdf
 md5_pdf: b5ad3a783dae09c97dbc49aace2e3f89
 paginas: 1
-chars: 13
+chars: 1905
 tablas: 0
-cuerpo: "10.0pt; encabezados 0 niveles"
-rotulos_excluidos: "0 ()"
-verbatim_fallos: 0
+cuerpo: "ocr tesseract"
+verbatim_fallos: no_aplica (texto obtenido por OCR, no hay capa de texto contra la que verificar)
 escaneado: true
-paginas_sin_texto: 1
-fecha_proceso: 2026-11-18
-generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+texto: ocr
+ocr_motor: tesseract v5.4.0.20240606 (tessdata_best, 300 dpi)
+ocr_idiomas: fin
+ocr_confianza_media: 92.7
+ocr_confianza_min: 92.7
+ocr_paginas: 1
+ocr_paginas_vacias: 0
+ocr_fecha: 2026-11-19
+generador: ocr_escaneados.py (Tesseract + PyMuPDF, 300 dpi)
 ---
 ## Página 1
+
+YHTEENVETOTAULUKKO — SAMMANDRIFTNING — DATA SUMMARY
+
+Aika:
+
+Tidpunkt för händelsen: 25.2.2008, 9.53
+
+Date and time:
+
+Paikka: Laukaa, Notkotie / Kauramaan tasoristeys, vartioimaton
+Plats: Laukas, Notkotie / Kauramaa plankorsning, obevakad
+
+Location: Laukaa, Notkotie / Kauramaa level crossing, unprotected
+Onnettomuustyyppi: Tasoristeysonnettomuus, tavarajuna — traktori
+
+Typ av olycka: Olycka i plankorsning, godstäg — traktor
+
+Type of accident: Level crossing accident, freight train — tractor
+
+Junan tyyppi ja numero:
+Tägtyp och tägnummer:
+Train type and number:
+
+Tavarajuna 3359, Dv12-dieselveturi + 27 vaunua
+
+Godstäg 3359, Dv12-diesellok + 27 vagnar
+
+Freight train 3359, Dv12 diesel locomotive and 27 wagons
+
+Ajoneuvo: Traktori Case IH 4240, käyttöönottovuosi 1997
+Fordon: Traktor Case IH 4240, ärsmodel 1997
+Road vehicle: Tractor Case IH 4240, 1997 model
+Junassa, | täget, /n the Ajoneuvossa, | fordonet,
+train In the road vehicle
+Junassa ja ajoneuvossa: |Henkilökuntaa:
+Antalet personer ombord: Personal: 1 1
+Persons on board: Crew:
+Matkustajia:
+Passagerare: 0 0
+Passengers:
+Kuollut: Henkilökuntaa:
+Dödsfall: Personal: 0 1
+Fatally injured: Crew:
+Matkustajia:
+Passagerare: 0 0
+Passengers:
+Vakavasti loukkaantunut: | Henkilökuntaa:
+Allvarligt skadats: Personal: 0 0
+Seriously injured: Crew:
+Matkustajia:
+Passagerare: 0 0
+Passengers:
+Lievästi loukkaantunut: |Henkilökuntaa:
+Lindrigt skadats: Personal: 0 0
+Slightly injured: Crew:
+Matkustajia:
+Passagerare: 0 0
+Passengers:
+
+Kalustovauriot:
+Skador pä fordon:
+Damages of rollingstock:
+
+Veturin keulaan tuli vähäiset vauriot, traktori romuttui täysin.
+
+Lokets frontparti fick smärre skador, traktorn blev totalt.
+
+The front of the locomotive sustained some damage, the tractor was totally wrecked.
+
+Ratavauriot: Ei.
+Skador pä späranläggning: Inga.
+Damages on track eguipment: | None
+Muut vauriot: Ei.
+Övriga skador: Inga.
+Other damages: None.

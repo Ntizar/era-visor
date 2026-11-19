@@ -10,13 +10,14 @@ chars: 102812
 ratio_longitud: 1.06
 tokens_in: 39777
 tokens_out: 28993
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 35: cifras largas: faltan 2/6 (33%)"]
+verificacion: ok
 notas_cifras: ["página 14: cifras cortas: 1/33", "página 17: cifras cortas: 3/48", "página 18: cifras cortas: 3/56", "página 20: cifras cortas: 2/106", "página 34: cifras cortas: 1/33", "página 45: cifras cortas: 3/27"]
 ---
+
 ## Página 1
+
 
 Schweizerische Sicherheitsuntersuchungsstelle SUST 
 Service suisse d’enquête de sécurité SESE 
@@ -36,18 +37,18 @@ Schweizerische Sicherheitsuntersuchungsstelle SUST
 3003 Berna 
 Tel. +41 58 466 33 00, Fax +41 58 466 33 01 
 info@sust.admin.ch 
-www.sust.admin.ch 
-
+www.sust.admin.ch
 
 ## Página 2
+
 
 ## Observaciones generales sobre este informe 
 Este informe ha sido elaborado exclusivamente con el fin de prevenir accidentes e incidentes graves en la operación de ferrocarriles, funiculares y embarcaciones. Conforme al artículo 15 de la Ley Federal sobre Ferrocarriles (EBG, SR 742.101) del 20 de diciembre de 1957 (versión vigente a 1 de enero de 2022), la culpabilidad y la responsabilidad no son objeto de la investigación. 
 Por consiguiente, tampoco es objetivo de este informe aclarar cuestiones relativas a la culpabilidad y la responsabilidad. 
-Todas las designaciones de personas en este informe están redactadas en forma masculina y se refieren a la persona que ejerce la función, independientemente de su sexo. 
-
+Todas las designaciones de personas en este informe están redactadas en forma masculina y se refieren a la persona que ejerce la función, independientemente de su sexo.
 
 ## Página 3
+
 
 ## Índice 
 Resumen ................................................................................................................. 5 
@@ -118,6 +119,7 @@ Investigación realizada sobre los vagones cisterna ............................
 
 ## Página 4
 
+
 1.10.3 
 Bogies de repuesto ......................................................................................... 27 
 1.10.4 
@@ -182,10 +184,10 @@ Certificación ECM de los proveedores de mantenimiento .........................
 4.2 
 Avisos de seguridad .................................................................................................. 45 
 4.3 
-Medidas adoptadas desde el accidente .................................................................. 45 
-
+Medidas adoptadas desde el accidente .................................................................. 45
 
 ## Página 5
+
 
 ## Resumen 
 ### Visión general 
@@ -221,10 +223,10 @@ Para la investigación estuvieron disponibles:
 *   Planos de vías; 
 *   Entrevistas a los intervinientes y afectados. 
 ### Descripción breve 
-El 5 de julio de 2018, aproximadamente a las 20:20 horas, entre Glattfelden y Eglisau, el bogie delantero del quinto vehículo de un tren de mercancías compuesto por vagones cisterna descarriló hacia la derecha en sentido de marcha. Aproximadamente 1,5 km después del descarrilamiento, el maquinista detuvo el tren antes de la primera aguja en Eglisau. Los vagones cisterna se utilizaban para el transporte de pizarra bituminosa y estaban vacíos según la lista de composición del tren. Se produjeron importantes daños materiales en la vía y en el bogie del vagón cisterna. No hubo heridos. 
-
+El 5 de julio de 2018, aproximadamente a las 20:20 horas, entre Glattfelden y Eglisau, el bogie delantero del quinto vehículo de un tren de mercancías compuesto por vagones cisterna descarriló hacia la derecha en sentido de marcha. Aproximadamente 1,5 km después del descarrilamiento, el maquinista detuvo el tren antes de la primera aguja en Eglisau. Los vagones cisterna se utilizaban para el transporte de pizarra bituminosa y estaban vacíos según la lista de composición del tren. Se produjeron importantes daños materiales en la vía y en el bogie del vagón cisterna. No hubo heridos.
 
 ## Página 6
+
 
 ### Causa 
 El descarrilamiento del quinto vagón cisterna del tren de mercancías 47044 entre Bülach y Eglisau en una curva suave a la izquierda se debe a que, como consecuencia de una carga asimétrica de las ruedas debido al vaciado incompleto de la mercancía transportada, la rueda derecha del bogie delantero fue descargada, levantándose posteriormente y provocando el descarrilamiento. 
@@ -235,6 +237,7 @@ Contribuyeron al accidente:
 Con este informe no se emiten ni recomendaciones de seguridad ni avisos de seguridad.
 
 ## Página 7
+
 
 ## Glosario 
 ### Normas 
@@ -289,10 +292,10 @@ G-Bremse: Freno de actuación lenta. Este modo de operación se utiliza en trene
 G 4.8 
 Según la guía VPI 01 Mantenimiento de vagones de mercancías editada por el VPI; Parte general de una etapa de mantenimiento que prescribe una revisión simplificada según el plan de mantenimiento cada 4 o 5 años. 
 HFO 
-Instalaciones de detección de ejes calientes y frenos pegados; sistema de la ZKE. 
-
+Instalaciones de detección de ejes calientes y frenos pegados; sistema de la ZKE.
 
 ## Página 8
+
 
 Iltis 
 Sistema integral de dirección e información. El sistema permite una gestión operativa altamente automatizada de un proceso de explotación ferroviaria. Esto incluye, entre otros, el control remoto de varios enclavamientos, la supervisión de la explotación y la gestión de los sistemas de información al viajero en las estaciones. 
@@ -351,18 +354,20 @@ Guía «Mantenimiento de vagones de mercancías, Ejerés de ruedas»
 ZKE 
 Equipos de control de trenes 
 ZUB 
-Sistemas de protección automática del tren (Zugbeeinflussung) 
+Sistemas de protección automática del tren (Zugbeeinflussung)
 
 ## Página 9
+
 
 ## 1 
 ## Hechos 
 ### 1.1 
 ### Lugar del incidente 
 Figuras 1 y 2: Mapas de situación del lugar del accidente. 
-Fuente de los mapas base: Oficina Federal de Topografía Nacional. 
+Fuente de los mapas base: Oficina Federal de Topografía Nacional.
 
 ## Página 10
+
 
 ### 1.2 
 ### Antecedentes 
@@ -377,6 +382,7 @@ Las primeras actuaciones de investigación mostraron que, además del quinto, el
 Figura 3: Bogie descarrilado del quinto vagón cisterna (Fuente: Policía Cantonal de Zúrich).
 
 ## Página 11
+
 
 ### 1.4 
 ### Daños 
@@ -419,10 +425,10 @@ Vagones cisterna
 Nacco SAS (Nacco), París (FR) 
 Uacs 37 80 9325 549-5 (Vagón 5) 
 Uacs 37 80 9325 529-7 (Vagón 7) 
-La empresa Nacco era responsable como propietario de los vagones de la designación del ECM relativa a cada vagón de mercancías según el Reglamento (UE) n.º 445/2011 y, por tanto, asumía la responsabilidad global. El mantenimiento (función d) fue delegado a distintos talleres de mantenimiento. 
-
+La empresa Nacco era responsable como propietario de los vagones de la designación del ECM relativa a cada vagón de mercancías según el Reglamento (UE) n.º 445/2011 y, por tanto, asumía la responsabilidad global. El mantenimiento (función d) fue delegado a distintos talleres de mantenimiento.
 
 ## Página 12
+
 
 ## 1.6.5 
 ### Talleres de mantenimiento 
@@ -445,10 +451,10 @@ Descripción
 Desde Bülach parte una línea de doble vía con curvas suaves alternantes y una pendiente máxima del 9 ‰ hacia Eglisau. La distancia entre las dos estaciones de Bülach y Eglisau es de 6,116 km. Entre ellas se encuentra la parada de Glattfelden. La línea está dividida en tres tramos de bloqueo. La velocidad máxima permitida en la línea entre Glattfelden y Eglisau para el tren de mercancías era de 95 km/h según la tabla de la línea. 
 Figura 4: Representación esquemática de la vía izquierda de la línea entre Bülach y Eglisau con los datos relevantes para el incidente (véase también Anexo 3, Tabla 5). 
 X: Lugar del descarrilamiento; 
- I: Frente del tren tras la detención. 
-
+ I: Frente del tren tras la detención.
 
 ## Página 13
+
 
 1.7.1.2 
 Observaciones 
@@ -478,6 +484,7 @@ El centro de intervención en Erstfeld tiene la tarea de analizar los mensajes r
 Los datos electrónicos recopilados se almacenan y pueden analizarse en detalle si es necesario tras un incidente.
 
 ## Página 14
+
 
 1.7.3.2 
 Sistemas de detección de rodamientos calientes y frenos pegados (HFO) 
@@ -516,10 +523,10 @@ Con los RLC se obtienen las siguientes mediciones y beneficios:
     Prevención de sobrecargas de la infraestructura o de descarrilamientos debido a daños en ruedas o bogies (muelles rotos o desplazados, pernos faltantes, planos de aplastamiento críticos para la seguridad). Además, los planos de aplastamiento suponen una pérdida sensible de confort para los viajeros y, en su caso, una fuerte contaminación acústica para los residentes cercanos. También las vibraciones en empresas situadas cerca de la vía pueden resultar muy molestas. 
 *   ### Peso total del tren, cotejo con los datos correspondientes en CIS-Infra 
     Prevención de caídas de señal o colisiones debidas a cálculos de frenado erróneos. 
-1 Fuente: Normativa SBB, I-50099, IB 50/18, Manual de dispositivos de control de trenes, versión 7-0, vigente desde el 01.07.2018 
-
+1 Fuente: Normativa SBB, I-50099, IB 50/18, Manual de dispositivos de control de trenes, versión 7-0, vigente desde el 01.07.2018
 
 ## Página 15
+
 
 1.7.3.3.2 
 Valores de intervención de alarma, o bien, valores de aviso 
@@ -553,10 +560,10 @@ Alarmas
 Los objetos colgantes que violan el gálibo de carga por debajo del tren provocan una alarma «Exceso de gálibo inferior». 
 1.7.3.5 
 Constatación sobre las instalaciones ZKE 
-Las instalaciones ZKE funcionaron correctamente. Los datos solicitados para la investigación fueron remitidos a la SUST. 
-
+Las instalaciones ZKE funcionaron correctamente. Los datos solicitados para la investigación fueron remitidos a la SUST.
 
 ## Página 16
+
 
 ### 1.8 
 ### Vehículos 
@@ -590,6 +597,7 @@ El 6 de julio de 2018, al día siguiente del descarrilamiento, se inspeccionaron
 
 ## Página 17
 
+
 ## 1.8.2 
 ### Vagones cisterna Uacs de Nacco 
 1.8.2.1 
@@ -610,10 +618,10 @@ Según los datos facilitados por el arrendatario del vagón, Holcim, los vagones
 Incidentes anteriores 
 Según sus propias declaraciones, Holcim tenía en servicio desde principios de 2011 22 vagones cisterna del tipo Uacns de 84 m³ (con 4 tapas de domo) adquiridos a la empresa Nacco. Estos operaron primero en tráfico de carga parcial con cemento y luego, durante los últimos dos años, en tráfico de tren completo con cenizas volantes desde Herne (DE) hasta Münchenstein. 
 El único incidente conocido por Holcim son desplazamientos de carga (en los extremos) en el tráfico de cemento desde Eclépens hasta Giubiasco. La suposición era que fuertes frenadas o impactos podrían haber causado esto. Los materiales pulverulentos se distribuyen casi como el agua al cargar los vagones, por lo que se puede excluir una carga unilateral en una sola cámara. 
-De 2011 a principios de 2018, Holcim transportó pizarra bituminosa sin incidentes utilizando sus propios vagones cisterna del tipo Uacns de 70 m³ desde la fábrica de cemento en Dotternhausen (DE) hasta Suiza. Los vagones eran cargados respectivamente por un maquinista de SWEG en la fábrica de cemento en Dotternhausen y descargados por personal propio de Holcim en la fábrica de cemento en Suiza. 
-
+De 2011 a principios de 2018, Holcim transportó pizarra bituminosa sin incidentes utilizando sus propios vagones cisterna del tipo Uacns de 70 m³ desde la fábrica de cemento en Dotternhausen (DE) hasta Suiza. Los vagones eran cargados respectivamente por un maquinista de SWEG en la fábrica de cemento en Dotternhausen y descargados por personal propio de Holcim en la fábrica de cemento en Suiza.
 
 ## Página 18
+
 
 A principios de 2018, Holcim alquiló adicionalmente a Nacco 30 vagones cisterna del tipo Uacs de 84 m³ (con 3 tapas de domo) para sustituir a sus propios vagones cisterna Uacns de 70 m³ para el tráfico de pizarra bituminosa. Los vagones se dividieron en dos composiciones. Durante la primera descarga de los vagones de la primera composición, se constató que el tiempo de descarga era mucho más largo que en el caso de sus propios vagones cisterna. A raíz de ello, se ordenó controlar la presencia de humedad en los vagones de la segunda composición antes de la carga. Se constató que había agua en la cisterna. Como consecuencia, Holcim retiró del servicio todos los 30 vagones cisterna y los envió al taller por mediación del propietario y responsable ECM, Nacco. Los vagones fueron reparados, inspeccionados y posteriormente puestos de nuevo en servicio. Los vagones 5 y 7 son dos de esos 30 vagones cisterna. 
 ### 1.9 
@@ -630,6 +638,7 @@ En Eglisau, un tren de cercanías procedente de Bülach entró en la vía 3 a la
 2 Diagrama espacio-velocidad
 
 ## Página 19
+
 
 Alrededor de las 20:18 h, un tren S-Bahn procedente de Hüntwangen entró en la vía 1 de Eglisau. A continuación, se estableció la salida para el tren completo desde la vía 2 en dirección a Hüntwangen. El tren S-Bahn partió de Eglisau hacia Bülach alrededor de las 20:20 h.
 Aproximadamente al mismo tiempo que el paso del tren 47044 por la señal de entrada en Eglisau, que indicaba «Vía libre» en la señal principal y «Atención» en la señal anticipadora de salida, la señal de salida cambió de «Parada» a «Vía libre».
@@ -664,6 +673,7 @@ Del resumen anterior del recorrido y del análisis detallado de las tres última
     - Las instalaciones DED transitadas no detectaron ninguna infracción del perfil inferior de gálibo. En el Anexo 4, Figuras 33 a 36, se muestran las imágenes de la grabación de la instalación DED en Dietikon el 5 de julio de 2018 a las 19:02 h desde el lado izquierdo del
 
 ## Página 20
+
 
 vagón 5 en sentido de marcha. Las imágenes no muestran daños en los ejes ni en la suspensión de los ejes.
 *   La instalación HFO en Eglisau, situada después del punto de descarrilamiento y transitada a las 20:22 h, contó 56 ejes. Los dos ejes del bogie descarrilado ya no fueron detectados. La medición de la velocidad muestra que el tren frenaba. Como consecuencia del descarrilamiento, la instalación resultó dañada y los valores medidos dejaron de ser fiables. La alarma «Rodadura caliente subordinada» fue degradada por el sistema y evaluada por el especialista técnico en el centro de intervención como no relevante para la seguridad. La alarma no provocó ninguna medida. Simultáneamente, la instalación fue indicada al especialista técnico como averiada.
@@ -700,6 +710,7 @@ Para el transporte y manipulación de pizarra bituminosa, Holcim redactó un man
 
 ## Página 21
 
+
 para la descarga de los vagones (Anexo 5, Figura 37) así como una guía breve para la carga de los vagones.
 Según la información facilitada por Holcim, el proceso de descarga de los 13 vagones cisterna se llevó a cabo entre el 3 y el 5 de julio de 2018 en la fábrica de cemento de Untervaz conforme al manual. Tras la operación de descarga, durante la cual no se detectaron particularidades ni desviaciones, se golpearon los vagones para detectar restos de material. En la fábrica de cemento de Untervaz no había medición de caudal ni báscula mediante las cuales se pudiera verificar el vaciado completo de los vagones cisterna.
 El 28 de noviembre de 2018 se inspeccionó en Aarau el transvase de un vagón cisterna ferroviario a un contenedor silo de camión en la zona de carga/descarga libre. El vagón cisterna ferroviario estaba equipado con dos cámaras. Tras conectar las mangueras, se generó la presión necesaria mediante el compresor del camión y acto seguido se inició el transvase. El conductor veía en su smartphone la cantidad de mercancía que debía trasvasar por cámara a su contenedor silo de camión. Tras la caída de presión y el cambio de posición de la válvula de fluidificación en el vagón cisterna ferroviario, finalizó el transvase. En un indicador del contenedor silo de camión, el conductor pudo comprobar que la cantidad cargada coincidía con la indicada en el smartphone.
@@ -715,8 +726,8 @@ Constataciones en el vagón 5 (37 80 9325 549-5, descarrilado)
 Durante el mantenimiento G 4.8 el 22.12.2017 se instalaron dos nuevos pivotes centrales. Para ello, se sustituyeron todos los tornillos de fijación antiguos de ambos pivotes centrales por otros nuevos.
 El pivote central delantero correspondiente al bogie 1 (BG 1) estaba en estado casi nuevo y no presentaba huellas de desgaste. El pivote central trasero correspondiente al bogie 2 (BG 2) presentaba en la parte superior estrías hasta una profundidad de aprox. 1 mm (Figura 6 y Figura 7).
 
-
 ## Página 22
+
 
 Figura 6: Pivote central del bogie 2 con huellas de fricción exteriores.
 Figura 7: Foto detallada de la Figura 6.
@@ -731,8 +742,8 @@ La inserción deslizante de plástico de la cazoleta de giro del bogie delantero
 Figura 9: Inserción deslizante de plástico dañada de las cazoletas de giro y marcas metálicas de rozamiento en la parte superior de la cazoleta de giro.
 Figura 10: Vista detallada de la Figura 9.
 
-
 ## Página 23
+
 
 *   Bogie trasero, bogie 2
 La inserción deslizante de plástico de la cazoleta de giro del bogie trasero BG 2 estaba en estado casi nuevo (Figura 11).
@@ -749,8 +760,8 @@ Los cuatro ejes fueron sometidos a un mantenimiento de nivel IL en noviembre de 
 Carcasas de cojinete de eje
 En la carcasa de cojinete de eje 2 derecha, los cuatro tornillos pudieron aflojarse a mano. La tapa no ajustaba herméticamente contra la carcasa del cojinete. En la parte superior era visible una separación de aprox. 2 mm (Figura 14).
 
-
 ## Página 24
+
 
 Figura 14: Tapa del cojinete de eje 2 derecha.
 Con las piezas recogidas en el lugar del accidente, el bogie delantero descarrilado estaba completo.
@@ -765,6 +776,7 @@ Constataciones en el vagón 7 (37 80 9325 529-7, no descarrilado)
 Los dos pivotes centrales estaban en estado casi nuevo. Las cuatro placas deslizantes de acero del chasis del vagón estaban correctas. De los cuatro tornillos de fijación del pivote central trasero del bogie 2, uno estaba suelto (Figura 17), dos presentaban un par de apriete de 100 Nm y el cuarto tornillo presentaba
 
 ## Página 25
+
 
 un par de apriete de 900 Nm. El par de apriete prescrito para estos tornillos es de 500 Nm.
 Figura 17: Perno central 2, tornillo de fijación suelto. Extracto de un vídeo.
@@ -785,8 +797,8 @@ Perfiles de rueda
 Todos los ocho perfiles de rueda se encontraban dentro de los límites operativos de desgaste.
 4 Guía del VPI para el mantenimiento de ruedas, versión del 15.11.2017.
 
-
 ## Página 26
+
 
 1.10.2.2.2.5
 Carcasas de cojinetes de eje
@@ -800,8 +812,8 @@ Figura 21: Cuello del eje del vehículo del
 derecha.
 eje 2, derecha.
 
-
 ## Página 27
+
 
 El eje 4, derecha, presentaba fuga de aceite en la parte inferior de la tapa del cojinete de eje (Figura 22).
 Figura 22: Eje 4, derecha, fuga de aceite, detalle en la parte inferior de la carcasa del cojinete de eje tras la apertura de la tapa.
@@ -817,8 +829,8 @@ Constatación
 Los pasadores de la transmisión de freno no fueron lubricados durante el montaje (Figura 23). Todas las chavetas eran nuevas.
 Los 32 tornillos de la tapa del cojinete de eje presentaban un par de apriete de 320 Nm (Figura 25). El par de apriete prescrito para dichos tornillos es de 128 Nm.
 
-
 ## Página 28
+
 
 Figura 23: Pasadores de la transmisión de freno sin lubricación.
 Figura 24: Comprobación del par de
@@ -838,8 +850,8 @@ Los resultados de la medición se resumen en las siguientes tablas:
 | Δ | 0 5 mm . | 5 5 mm . | 0 030 t . |
 Tabla 3: Resultados de la medición del vehículo 5.
 
-
 ## Página 29
+
 
 | Punto de medición | Posición viga interior | Posición viga exterior | Peso |
 | Delantera derecha , | 630 0 mm . | 672 5 mm . | 2 645 t . |
@@ -871,6 +883,7 @@ Tras el mantenimiento, se elabora un protocolo de mantenimiento y se entrega al 
 
 ## Página 30
 
+
 1.10.7.2 
 Hallazgos
 1.10.7.2.1 Certificación ECM, evaluación técnica especializada VPI, certificación SNCF
@@ -895,8 +908,8 @@ La empresa Inveho UFO posee un Manual de Seguridad que regula las competencias.
 *   Función de la Dirección
 La Dirección es responsable de la coordinación de las actividades y establece los objetivos de calidad.
 
-
 ## Página 31
+
 
 *   Función de los responsables de calidad y medio ambiente
 Los empleados responsables de la calidad son competentes en:
@@ -927,6 +940,7 @@ La organización de producción del taller de ejes está estructurada como produ
 
 ## Página 32
 
+
 Figura 26: Montaje de los cojinetes de eje y las carcasas.
 La única grasa utilizada para las carcasas de los cojinetes de eje es del tipo Schell Gadus-Rail S3 EUFR (color marrón claro). Esta se introduce directamente en los cojinetes al final de la cadena de montaje mediante una instalación centralizada de engrase. El sistema está diseñado para que la cantidad correcta de grasa se dosifique automáticamente y fluya hacia el rodamiento. La boquilla de distribución gira para garantizar que la grasa se distribuya uniformemente en el rodamiento.
 A ambos lados de la cadena de montaje de las carcasas de los cojinetes de eje hay varias llaves dinamométricas. Cada llave tiene un par de apriete específico y está identificada con un color propio. De este modo, se minimiza un error en la configuración del par de apriete. Al final de la cadena de montaje de las carcasas de los cojinetes de eje, los dos empleados verifican mutuamente sus trabajos. Las llaves dinamométricas se comprueban una vez al día en un dispositivo de control fijo.
@@ -941,8 +955,8 @@ Las competencias y cualificaciones de los empleados también se mencionan en el 
 Entre Nacco e Inveho Ferifos (UFF) se definieron los procesos para el mantenimiento de los ejes.
 Cuando un eje llegaba a Inveho Ferifos (UFF), primero se registraba su estado. En función de los resultados, el empleado de Inveho Ferifos
 
-
 ## Página 33
+
 
 (UFF) decidía bajo qué nivel de mantenimiento del VPI 04 (IL-IS1-IS2-IS3) debía tratarse dicho eje. Los trabajos realizados se facturaban a Nacco por cada eje.
 Se revisaron los cuatro protocolos «Fiche de suivi des essieux» del vehículo 7. En este caso, los cuatro ejes del vehículo 7 se clasificaron según los niveles de mantenimiento de la siguiente manera:
@@ -967,6 +981,7 @@ Este documento incluye y describe, entre otras cosas, las tareas relevantes para
 Nacco había firmado contratos con diversos talleres de mantenimiento (capítulo 1.6.5) para el mantenimiento de sus vehículos y ejes.
 
 ## Página 34
+
 
 Cada taller fue sometido a una inspección antes de la celebración del contrato.
 Estos talleres eran auditados anualmente por Nacco.
@@ -994,28 +1009,31 @@ Las entidades responsables del mantenimiento de vagones de mercancías estaban s
 Conforme al artículo 10 del Reglamento (UE) n.º 445/2011, la certificación de las entidades de mantenimiento la realiza un organismo de certificación acreditado. Estos pueden ser designados por las autoridades nacionales de supervisión o acreditados por organismos estatales, como el Servicio Suizo de Acreditación SAS. Los talleres encargados del mantenimiento se certifican voluntariamente. Con este certificado pueden prestar servicios de mantenimiento como entidad de mantenimiento conforme a la UE 445/2011.
 5 Índice PQ: Medida de partículas ferrosas totales presentes en la muestra
 
-
 ## Página 35
 
+Los talleres encargados del mantenimiento pueden certificarse voluntariamente. Con este certificado, pueden prestar servicios de mantenimiento como entidad de mantenimiento conforme al Reglamento (UE) 445/2011.
 1.11.1.2
-Sistema de mantenimiento de vagones de mercancías, funciones y certificado ECM
-El sistema de mantenimiento ECM para vagones de mercancías conforme al Reglamento (UE) n.º 445/2011 abarca las siguientes cuatro funciones:
+Sistema de mantenimiento de los vagones de mercancías, funciones y certificado ECM
+El sistema de mantenimiento ECM para vagones de mercancías, conforme al Reglamento (UE) n.º 445/2011, abarca las cuatro funciones siguientes:
 a. La función de gestión para la supervisión y coordinación de las funciones de mantenimiento mencionadas en las letras b) a d) y para garantizar el estado seguro de los vagones de mercancías en el sistema ferroviario.
-b. La función de desarrollo del mantenimiento con competencia para la gestión de la documentación de mantenimiento, incluida la gestión de configuraciones, sobre la base de datos de diseño y operación, así como de valores de rendimiento y experiencia.
-c. La función de gestión del mantenimiento de la flota para la administración de la retirada de los vagones de mercancías para su mantenimiento y su puesta en servicio nuevamente tras el mantenimiento.
-d. La función de ejecución del mantenimiento para llevar a cabo el mantenimiento técnico de un vagón de mercancías o de partes del mismo, incluida la documentación de autorización de servicio.
+b. La función de desarrollo del mantenimiento con competencia para la gestión de la documentación de mantenimiento, incluido el control de configuración, sobre la base de datos de diseño y explotación, así como de valores de rendimiento y experiencia.
+c. La función de gestión del mantenimiento del parque móvil para administrar la retirada de servicio de los vagones de mercancías para su mantenimiento y su puesta en servicio nuevamente tras el mantenimiento.
+d. La función de ejecución del mantenimiento para realizar el mantenimiento técnico de un vagón de mercancías o de partes del mismo, incluida la documentación de autorización para la circulación.
 ## 1.11.2
-### Catálogo de defectos para el control de trenes y vagones
-En Suiza, los controles de seguridad en el acceso libre a la red son realizados por las autoridades y las empresas gestoras de infraestructura. En el documento «Catálogo de defectos para el control de trenes, vagones de mercancías, coches de viajeros y vagones cisterna para mercancías peligrosas» de la BAV (Versión 9.0 del 01.01.2018) se describe lo siguiente:
-La BAV, SBB Infraestructura y BLS Infraestructura han desarrollado conjuntamente un catálogo uniforme de defectos para el control de trenes, así como de vagones de mercancías, coches de viajeros y vagones para mercancías peligrosas. Esto afecta especialmente a los Controles Técnicos (TKI) en vagones de mercancías y coches de viajeros y a los controles de mercancías peligrosas del Equipo Móvil de Mercancías Peligrosas (MGE) de SBB, los Controles Técnicos (TKI) en vagones de mercancías y coches de viajeros y los controles de mercancías peligrosas de BLS, así como los controles operativos de la BAV en estos ámbitos.
-La base del catálogo de defectos son las leyes, normas internacionales ya existentes y el Convenio AVV, Anexo 9. El catálogo de defectos constituye, por tanto, una recopilación de la práctica aplicada actualmente.
-Las irregularidades y omisiones detectadas se clasifican en las clases de defecto 1 a 5 siguiendo el modelo del Convenio AVV y del folleto UIC 471-3. Las clases de defecto 1 y 2 no se tienen en cuenta, ya que no tienen ningún impacto sobre la seguridad. Las clases de defecto 3 a 5 significan:
-*   ### Clase de defecto 3: Defecto secundario
-    Defectos con efectos considerables sobre la aptitud para circular, así como defectos con efectos sobre la tramitación operativa.
-*   ### Clase de defecto 4: Defecto principal
-    Defectos en los que no se garantiza la aptitud para circular o que pueden conducir a un peligro operativo, así como defectos que pueden provocar daños personales (personal de maniobra de vagones de mercancías).
+### Catálogo de defectos para el control de trenes y vehículos
+En Suiza, los controles de seguridad en el acceso libre a la red son realizados por las autoridades y los gestores de infraestructura. En el documento «Catálogo de defectos para el control de trenes, vagones de mercancías, coches de viajeros y vagones cisterna para mercancías peligrosas» de la OFTV (versión 9.0 del 01.01.2018) se describe lo siguiente:
+La OFTV, SBB Infraestructura y BLS Infraestructura han desarrollado conjuntamente un catálogo uniforme de defectos para el control de trenes, así como de vagones de mercancías, coches de viajeros y vagones cisterna para mercancías peligrosas. Esto afecta especialmente a los Controles Técnicos (TKI) en vagones de mercancías y coches de viajeros y a los controles de mercancías peligrosas del Equipo Móvil de Mercancías Peligrosas (MGE) de SBB, a los Controles Técnicos (TKI) en vagones de mercancías y coches de viajeros y a los controles de mercancías peligrosas de BLS, así como a los controles operativos de la OFTV en estos ámbitos.
+La base del catálogo de defectos son las leyes internacionales, normas y el contrato AIVT ya existentes, Anexo 9. El catálogo de defectos constituye, por tanto, una recopilación de la práctica aplicada actualmente.
+Las irregularidades y omisiones detectadas se clasifican en las clases de defecto 1 a 5 siguiendo el modelo del AIVT y del folleto UIC 471-3. Las clases de defecto 1 y 2 no se tienen en cuenta, ya que no tienen ninguna repercusión sobre la seguridad. Las clases de defecto 3 a 5 significan:
+ 
+### Clase de defecto 3: Defectos secundarios
+Defectos con efectos considerables sobre la aptitud para circular, así como defectos con efectos sobre el desarrollo de la explotación.
+ 
+### Clase de defecto 4: Defectos principales
+Defectos en los que no está garantizada la aptitud para circular o que pueden dar lugar a un peligro para la explotación, así como defectos que pueden causar daños personales (personal de maniobra de vagones de mercancías).
 
 ## Página 36
+
 
 ### Clase de defecto 5: Defectos críticos
 Defectos con efectos significativos sobre la seguridad operativa y defectos que pueden provocar un peligro agudo para el transporte.
@@ -1036,8 +1054,8 @@ En esta investigación, la SUST constató, entre otros, defectos de seguridad en
 La SUST recomienda a la OFT (BAV) que adapte la normativa ECM en lo relativo a la certificación de los organismos encargados del mantenimiento, de modo que las certificaciones y auditorías de los talleres responsables del mantenimiento (función «d» del sistema ECM) no puedan ser delegadas a terceros, sino que recaigan bajo la competencia de las autoridades nacionales de supervisión.
 6 Enlace Informe SUST Daillens: https://www.sust.admin.ch/inhalte/BS/2015042501_Sb_d.pdf
 
-
 ## Página 37
+
 
 ## 2
 ## Análisis
@@ -1065,6 +1083,7 @@ De los cuatro tornillos de fijación del pivote central trasero (bogie 2), uno e
 
 ## Página 38
 
+
 Las ocho cajas de cojinetes de eje presentaban huellas de calentamiento y oxidación. Dichas huellas indican que todos los cojinetes de eje se sobrecalentaron. Durante el desmontaje de los cojinetes, se pudo constatar que la grasa se había descompuesto parcialmente en aceite. Además, la grasa mostraba una diferencia de color entre el rodamiento de rodillos delantero y trasero. El análisis de la grasa reveló un alto índice PQ teniendo en cuenta el contenido de hierro, lo que indica un desgaste intenso de origen no oxidativo. Asimismo, la consistencia de la grasa no coincidía con la designación de la grasa impresa en las placas del juego de ruedas. En Inveho Ferifos (UFF) se utiliza únicamente grasa del tipo «Schell GadusRail S3 EUFR» para las cajas de cojinetes de eje. El color de esta grasa es marrón claro.
 En este vagón, una tapa del cojinete de eje no asentaba correctamente sobre la caja del cojinete tras el montaje. Durante el desmontaje de las tapas, no se detectaron huellas de pintura entre la tapa y la caja del cojinete. Esta observación demuestra que la tapa del cojinete estaba aún ajustada a la caja del cojinete en el momento en que se aplicó la capa de protección anticorrosiva al eje tras la reparación de noviembre de 2016. Esto apunta a una rectificación posterior con relubricación de los cojinetes de eje.
 A partir del historial de los cuatro ejes no se puede determinar cuándo se produjo el sobrecalentamiento ni cuándo tuvo lugar la rectificación posterior.
@@ -1080,9 +1099,10 @@ Durante la primera descarga del mismo tipo de vagón a principios de 2018, se ob
 Los incidentes ocurridos en el plazo de un año demuestran que la verificación del vaciado completo de un vagón cisterna es importante para detectar a tiempo cantidades residuales y posibles cargas excéntricas, así como la entrada de humedad. 
 ## 2.2.2 
 ### Propietario del vagón 
-Partiendo de los requisitos ECM, es necesario que el propietario del vagón pueda demostrar en todo momento la trazabilidad de los componentes y de los trabajos de mantenimiento realizados en el vagón. 
+Partiendo de los requisitos ECM, es necesario que el propietario del vagón pueda demostrar en todo momento la trazabilidad de los componentes y de los trabajos de mantenimiento realizados en el vagón.
 
 ## Página 39
+
 
 Los cuatro ejes del vagón 7 fueron puestos nuevamente en servicio en marzo de 2015 tras un mantenimiento de nivel IS3. 
 Tras un kilometraje de estos ejes de aprox. 90 000 km, se realizó nuevamente un mantenimiento en las cajas de los cojinetes de eje en noviembre de 2016. Según la guía VPI 04 «Mantenimiento de juegos de ruedas», debe realizarse una inspección de los rodamientos cada 12 años o cada 600 000 km. No se pudo justificar por qué estos ejes fueron sometidos a un nuevo mantenimiento transcurrido tan poco tiempo. 
@@ -1105,6 +1125,7 @@ Con un kilometraje del vagón 7 de aprox. 2400 km en territorio suizo entre ener
 
 ## Página 40
 
+
 2.3.2.2 
 Punto de control de carga por rueda 
 Debido a la especificación para los valores de advertencia y los valores de intervención de alarma para las instalaciones RLC, que solo considera los valores medidos superiores a 10 t, no se activó ninguna alarma en Dietikon durante el paso del tren 47044, aunque la relación de carga por rueda izquierda-derecha de los vagones 5 y 7 era notable. Asimismo, debido a la diferencia de 66,4 t entre el peso nominal y el peso real del tren, tampoco se activó ninguna alarma ni se detuvo el tren, ya que la desviación del 17,9 % estaba por debajo del 20 %. 
@@ -1115,10 +1136,10 @@ El incidente demuestra que, con la directriz de golpear el tanque después de la
 
 ## 2.3.3 
 ### Control técnico de los vagones por parte de la EIU 
-Entre enero de 2018 y el día del accidente, el vagón 7 fue inspeccionado varias veces durante la formación del tren por los inspectores técnicos de la EIU SBB Cargo. Los «rodamientos calientes» en la carcasa del rodamiento de eje son claramente visibles a simple vista. No es comprensible que el vagón fuera inspeccionado siete veces en diferentes ubicaciones durante la formación del tren sin que se detectara ninguna irregularidad. En cambio, es comprensible que el estado de descarga no pudiera ser verificado por los inspectores técnicos. 
-
+Entre enero de 2018 y el día del accidente, el vagón 7 fue inspeccionado varias veces durante la formación del tren por los inspectores técnicos de la EIU SBB Cargo. Los «rodamientos calientes» en la carcasa del rodamiento de eje son claramente visibles a simple vista. No es comprensible que el vagón fuera inspeccionado siete veces en diferentes ubicaciones durante la formación del tren sin que se detectara ninguna irregularidad. En cambio, es comprensible que el estado de descarga no pudiera ser verificado por los inspectores técnicos.
 
 ## Página 41
+
 
 ## 3 
 ## Conclusiones 
@@ -1151,10 +1172,10 @@ Vagón 7 no descarrilado
 *   Tres de los cuatro tornillos del pivote central hacia el bogie trasero no estaban suficientemente apretados y el cuarto estaba excesivamente apretado. 
 *   El vagón presentaba marcas de calentamiento y oxidación en todas las carcasas de los rodamientos de eje. 
 *   La tapa del rodamiento de eje derecha del eje 4 presentaba marcas de fuga de aceite en la zona inferior. 
-*   La grasa se había descompuesto en aceite y mostraba una diferencia de color entre el rodamiento de rodillos trasero y el delantero. 
-
+*   La grasa se había descompuesto en aceite y mostraba una diferencia de color entre el rodamiento de rodillos trasero y el delantero.
 
 ## Página 42
+
 
 *   La grasa amarillo-blanca en la carcasa del rodamiento de eje no corresponde a la grasa indicada en la placa identificativa del conjunto de ruedas. 
 *   El alto índice PQ de la grasa indica un desgaste intenso de origen no oxidativo. 
@@ -1184,10 +1205,10 @@ Proceso ECM
 ## 3.1.3 
 ### Aspectos operativos o de proceso 
 *   El desarrollo de la marcha no tuvo influencia en el descarrilamiento. 
-*   Debido al concepto del sistema de medición RLC (carga por eje < 10 t y desviación de la diferencia de peso del tren entre la medición y los datos CIS < 20 %) 
-
+*   Debido al concepto del sistema de medición RLC (carga por eje < 10 t y desviación de la diferencia de peso del tren entre la medición y los datos CIS < 20 %)
 
 ## Página 43
+
 
 no se activó ninguna alarma ZKE durante el paso del tren 47044 en Dietikon. Se envió una notificación sobre la diferencia de peso del tren a la EIU. 
 *   Entre enero de 2018 y el día del accidente, ninguno de los ejes del vagón 7 fue registrado por el sistema de detección de rodamientos calientes de la infraestructura de SBB con una temperatura superior a 50 °C. 
@@ -1201,6 +1222,7 @@ Contribuyeron al accidente:
 *   La resistencia al giro aumentada del bogie delantero debido a daños en el pivote central y en la copa del bogie.
 
 ## Página 44
+
 
 ## 4 
 ## Recomendaciones de seguridad, observaciones de seguridad y medidas adoptadas desde el accidente 
@@ -1223,10 +1245,10 @@ Con la certificación de un organismo encargado del mantenimiento, debería demo
 *   todas las instalaciones, equipos y herramientas relacionados con actividades relevantes para la seguridad sean aptos para la correcta ejecución del mantenimiento y estén disponibles, así como  
 - los procedimientos para la inspección y el control de calidad de los trabajos realizados estén definidos. 
 - los trabajos de mantenimiento estén documentados. 
-En última instancia, todos estos procesos deben garantizar los requisitos de calidad de los trabajos realizados para asegurar la prestación segura del mantenimiento. 
-
+En última instancia, todos estos procesos deben garantizar los requisitos de calidad de los trabajos realizados para asegurar la prestación segura del mantenimiento.
 
 ## Página 45
+
 
 Entre otros elementos, los ejes y los bogies son de importancia crucial para la seguridad del material rodante. Estos componentes deben soportar las cargas límite especificadas durante toda su vida útil operativa. 
 El elevado número de defectos descubiertos poco después del mantenimiento de los vagones, que tienen una influencia crítica en la seguridad operativa y representan por tanto un peligro agudo, demuestra que no se cumplieron los requisitos de calidad para el mantenimiento de componentes relevantes para la seguridad. 
@@ -1245,25 +1267,26 @@ Tras el accidente, Holcim inició las siguientes medidas:
 *   Se rescindió el contrato de arrendamiento de los 30 vagones cisterna (84 m³ con tres tapas de domo) con Nacco. 
 *   La circulación de los 30 vagones cisterna (84 m³) solo se realizaba tras una inspección previa de los residuos de carga y la distribución de la carga. 
 *   Limpieza interior de la cisterna y devolución al arrendador Nacco. 
-*   Para los 22 vagones cisterna (84 m³ con cuatro tapas de domo) se estableció lo siguiente: Los descargadores deben pasar por la báscula in situ aquellos vagones donde se sospechen residuos tras el golpeo; si el residuo es superior a 3 t, debe garantizarse una distribución uniforme del material restante (debe estar distribuido uniformemente a izquierda y derecha para no superar el límite 1:1.25). Si se supera el límite 1:1.25, el vagón debe volver a descargarse y posteriormente trasladarse al 
+*   Para los 22 vagones cisterna (84 m³ con cuatro tapas de domo) se estableció lo siguiente: Los descargadores deben pasar por la báscula in situ aquellos vagones donde se sospechen residuos tras el golpeo; si el residuo es superior a 3 t, debe garantizarse una distribución uniforme del material restante (debe estar distribuido uniformemente a izquierda y derecha para no superar el límite 1:1.25). Si se supera el límite 1:1.25, el vagón debe volver a descargarse y posteriormente trasladarse al
 
 ## Página 46
+
 
 taller para su reparación, ya que debe asumirse que existe un problema. 
 Tras la adquisición de Nacco por parte de VTG a finales de 2018, los vagones cisterna afectados pasaron a ser propiedad de ECM VTG Rail Europe GmbH. VTG menciona que estos vagones cisterna se gestionan ahora según el sistema de gestión de calidad, mantenimiento y seguridad de VTG. 
 Este informe final fue aprobado por la Comisión de la Oficina Suiza de Investigación de Seguridad (SUST) (Art. 10 lit. h de la Ordenanza sobre la investigación de seguridad de incidentes en el sector de los transportes de 17 de diciembre de 2014). 
 Berna, 30 de agosto de 2022 
-Oficina Suiza de Investigación de Seguridad 
-
+Oficina Suiza de Investigación de Seguridad
 
 ## Página 47
 
+
 ## Anexo 1 
 ### Talleres ECM implicados 
-Figura 27: Trabajos de mantenimiento en vagones y bogies realizados por los distintos talleres ECM. 
-
+Figura 27: Trabajos de mantenimiento en vagones y bogies realizados por los distintos talleres ECM.
 
 ## Página 48
+
 
 ## Anexo 2 
 ### Fotografías interiores de los vagones cisterna 5 y 7 
@@ -1271,6 +1294,7 @@ Figura 28: Fotografías interiores del quinto vagón cisterna descarrilado 37 80
 Figura 29: Fotografía interior del séptimo vagón cisterna no descarrilado 37 80 9325 529-7.
 
 ## Página 49
+
 
 ## Anexo 3
 ### Datos de marcha
@@ -1287,8 +1311,8 @@ Figura 30: Datos de marcha del tren 47044.
 | A821 | H/1/2/3 | 21604 . | 25 | 95 | 20:22:07 |
 Tabla 5: Datos de diagnóstico ZUB.
 
-
 ## Página 50
+
 
 ## Anexo 4
 ### Datos de la instalación RLC en Dietikon
@@ -1304,8 +1328,8 @@ Leyenda:
 2 Cargas de los ejes 1-4 así como carga total (34,0 t)
 3 Peso nominal del vagón (peso en vacío 19,2 t así como carga 0 t)
 
-
 ## Página 51
+
 
 ### Imágenes de la instalación DED en Dietikon
 Figura 33: Vagón 5, eje 1 izquierdo.
@@ -1313,23 +1337,23 @@ Figura 34: Vagón 5, eje 2 izquierdo.
 Figura 35: Vagón 5, eje 3 izquierdo.
 Figura 36: Vagón 5, eje 4 izquierdo.
 
-
 ## Página 52
+
 
 ## Anexo 5
 ### Extracto del manual para conductores y personal de terminal
 Figura 37: Extracto del manual para conductores y personal de terminal de Holcim.
 
-
 ## Página 53
+
 
 ## Anexo 6
 ### Resumen de los resultados de la investigación de los vagones 5 y 7
 Figura 38: Resumen de los resultados de la investigación de los vagones 5 y 7.
 Leyenda:
 
-
 ## Página 54
+
 
 ## Anexo 7
 ### Historial de los cuatro ejes del vagón 7
