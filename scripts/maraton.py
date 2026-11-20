@@ -105,6 +105,7 @@ def orden(manual=None):
 def una_pasada(paises):
     trabajo = 0
     for code in paises:
+        antes = pendientes(code)
         sin_md, sin_es, sin_rev = pendientes(code)
         if not (sin_md or sin_es or sin_rev):
             continue
@@ -119,7 +120,7 @@ def una_pasada(paises):
         if sin_es:
             t0 = time.time()
             rc, cola = corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code,
-                              "--workers", "2", "--workers-noche", "3"])
+                              "--workers", "1", "--workers-noche", "1"])
             # las vacías/truncadas se rehacen siempre antes de dar el país por traducido
             corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--vacios", "--rehacer"])
             log(f"[{code}] traducción ({int((time.time()-t0)/60)} min, rc {rc}): " + " | ".join(cola))
@@ -141,7 +142,7 @@ def una_pasada(paises):
             t0 = time.time()
             h = datetime.datetime.now().hour
             rc, cola = corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code,
-                              "--workers", "3" if 0 <= h < 6 else "2",
+                              "--workers", "1",
                               "--muestras", "6", "--solo-nuevos", "--limite", str(faltan_rev)])
             log(f"[{code}] revisión {faltan_rev}/{objetivo_rev} ({int((time.time()-t0)/60)} min, rc {rc}): "
                 + " | ".join(cola))
@@ -152,13 +153,18 @@ def una_pasada(paises):
         medias = [v["fidelidad_media"] for v in d.values()
                   if isinstance(v.get("fidelidad_media"), (int, float))]
         media = round(sum(medias) / len(medias), 1) if medias else None
-        if media is not None and media < 92:
+        if media is not None and media < 85:
             log(f"[{code}] calidad baja ({media}) → reparación y re-revisión")
             corre([os.path.join(SCRIPTS, "traducir_md_es.py"), code, "--reparar"])
             corre([os.path.join(SCRIPTS, "revisar_md_es.py"), code, "--workers",
-                   "3" if 0 <= datetime.datetime.now().hour < 6 else "2",
+                   "1",
                    "--muestras", "6", "--marcados"])
         sin_md, sin_es, sin_rev = pendientes(code)
+        if (sin_md, sin_es, sin_rev) == antes:
+            # una pasada completa sin mover ni un número: el país está atascado
+            # (PDF que no se puede convertir, 429 persistente...). Se declara y se sigue.
+            log(f"[{code}] SIN PROGRESO ({sin_md}/{sin_es}/{sin_rev}) — se deja para revisar a mano")
+            return trabajo
         log(f"[{code}] {'CERRADO' if not (sin_md or sin_es or sin_rev) else 'queda algo'} "
             f"({sin_md}/{sin_es}/{sin_rev})")
         corre([os.path.join(SCRIPTS, "estado_paises.py")])

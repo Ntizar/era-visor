@@ -64,44 +64,55 @@ def hay_trabajo(code):
     try:
         import maraton
         a, b, c = maraton.pendientes(code)
-        return (a + b + c) > 0
+        return (b + c) > 0
     except Exception:
         return False
 
 
 def orden():
-    tam = {}
+    sys.path.insert(0, os.path.join(RAIZ, "scripts"))
+    import maraton
+    queda = {}
     for f in os.listdir(MAN):
-        if f.endswith(".json"):
-            try:
-                tam[f[:-5]] = len(json.load(open(os.path.join(MAN, f), encoding="utf-8")))
-            except Exception:
-                tam[f[:-5]] = 0
-    tam.pop("ES", None)                     # España ya está cerrada
-    return sorted(tam, key=lambda c: tam[c])   # de menor a mayor volumen
+        if not f.endswith(".json"):
+            continue
+        code = f[:-5]
+        if code == "ES":                    # España ya está cerrada
+            continue
+        try:
+            queda[code] = maraton.pendientes(code)[1]     # traducciones pendientes
+        except Exception:
+            queda[code] = 0
+    # el más gordo primero: así los 4 obreros atacan los países que mandan en el total
+    return sorted(queda, key=lambda c: -queda[c])
 
 
 def obrero(n, paises, nombre):
-    while True:
+    # cada país se procesa UNA vez por ronda: si queda un PDF que no se deja convertir,
+    # el país no debe volver a la cola en bucle (se hace cargo otro paso posterior).
+    restantes = list(paises)
+    while restantes:
         elegido = None
-        for code in paises:
+        for code in list(restantes):
             if reclama(nombre, code):
                 if hay_trabajo(code):
                     elegido = code
                     break
+                restantes.remove(code)
                 libera(code, "sin_pendientes")
         if not elegido:
             log(f"{nombre}: no queda nada que reclamar. Fin.")
             return
         log(f"{nombre}: se queda con {elegido}")
         t0 = time.time()
-        salida = subprocess.run([PY, os.path.join(RAIZ, "scripts", "maraton.py"), "--pais", elegido],
+        salida = subprocess.run([PY, os.path.join(RAIZ, "scripts", "maraton.py"), "--pais", elegido, "--max-pasadas", "2"],
                                 cwd=RAIZ, capture_output=True, text=True,
                                 encoding="utf-8", errors="replace")
         dur = int((time.time() - t0) / 60)
         cola = [l for l in (salida.stdout or "").splitlines() if "CERRADO" in l or "queda algo" in l]
         log(f"{nombre}: {elegido} terminado en {dur} min (rc {salida.returncode}) {' | '.join(cola)}")
-        libera(elegido)
+        restantes.remove(elegido)
+        libera(elegido, "hecho")
 
 
 def main():

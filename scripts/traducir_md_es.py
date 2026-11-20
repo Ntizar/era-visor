@@ -45,7 +45,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MD = os.path.join(RAIZ, "md")
 MD_ES = os.path.join(RAIZ, "md-es")
 ESTADO = os.path.join(RAIZ, "data", "traduccion")
-MODELO_DEF = "qwen3.6"
+MODELO_DEF = "mimo-v2.6-flash"
 
 # Reutiliza el detector de idioma del conversor (mismas listas de palabras función).
 from convertir_md_pais import _STOP  # noqa: E402
@@ -190,6 +190,13 @@ def llamar(base, key, modelo, mensajes, max_tokens=8000, intentos=4):
                      "User-Agent": "era-visor/traductor"})
         try:
             r = json.loads(urllib.request.urlopen(req, timeout=600).read())
+            if "choices" not in r:
+                # el proveedor devuelve {"error": ...} con 200: límite de concurrencia,
+                # modelo no disponible, etc. Se trata como reintentable si es de límite.
+                msg = str(r.get("error", r))[:200]
+                if "concurren" in msg or "rate" in msg or "limit" in msg:
+                    raise RuntimeError("LIMITE: " + msg)
+                raise RuntimeError("API: " + msg)
             txt = r["choices"][0]["message"]["content"] or ""
             uso = r.get("usage", {})
             return txt, uso
@@ -201,7 +208,7 @@ def llamar(base, key, modelo, mensajes, max_tokens=8000, intentos=4):
             raise RuntimeError(f"HTTP {e.code}: {detalle}")
         except Exception as e:
             if i < intentos - 1:
-                time.sleep(5 * (i + 1))
+                time.sleep(4 * (i + 1) if "LIMITE" in str(e) else 5 * (i + 1))
                 continue
             raise RuntimeError(f"{type(e).__name__}: {e}")
 
