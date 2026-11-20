@@ -49,7 +49,7 @@ MODELO_DEF = "mimo-v2.6-flash"
 
 # Reutiliza el detector de idioma del conversor (mismas listas de palabras función).
 from convertir_md_pais import _STOP  # noqa: E402
-BLOQUE = 7000          # caracteres por llamada
+BLOQUE = 12000         # caracteres por llamada (menos viajes = más ritmo)
 RATIO_MIN, RATIO_MAX = 0.75, 1.60
 TOL_NUMEROS = 0.02
 
