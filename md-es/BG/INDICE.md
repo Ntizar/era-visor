@@ -15,7 +15,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [bg-10711 - final report_nib bg_ 80694 2.md](2025/bg-10711%20-%20final%20report_nib%20bg_%2080694%202.md) | — | 183468 | ok |
-| [bg-10748 - final report station eliseyna.md](2025/bg-10748%20-%20final%20report%20station%20eliseyna.md) | — | 198100 | revisar |
+| [bg-10748 - final report station eliseyna.md](2025/bg-10748%20-%20final%20report%20station%20eliseyna.md) | — | 198100 | ok |
 | [bg-10749 - final report_ nib bg_91520044060-9 (1).md](2025/bg-10749%20-%20final%20report_%20nib%20bg_91520044060-9%20(1).md) | — | 126653 | ok |
 | [final report_nib bg_sprm kmz-svch.md](2025/final%20report_nib%20bg_sprm%20kmz-svch.md) | — | 241791 | ok |
 
@@ -49,9 +49,9 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [BG-10081 - Оконч. доклад 30602.md](2021/BG-10081%20-%20Оконч.%20доклад%2030602.md) | — | 74180 | revisar |
+| [BG-10081 - Оконч. доклад 30602.md](2021/BG-10081%20-%20Оконч.%20доклад%2030602.md) | — | 74180 | ok |
 | [BG-10089 - Final report 90593 NIB BG 3.md](2021/BG-10089%20-%20Final%20report%2090593%20NIB%20BG%203.md) | — | 107054 | ok |
-| [BG-10123 - FINAL REPORT 30610.md](2021/BG-10123%20-%20FINAL%20REPORT%2030610.md) | — | 74878 | revisar |
+| [BG-10123 - FINAL REPORT 30610.md](2021/BG-10123%20-%20FINAL%20REPORT%2030610.md) | — | 74878 | ok |
 | [BG-10124 - Final report 50215 1.md](2021/BG-10124%20-%20Final%20report%2050215%201.md) | — | 61347 | ok |
 
 ## 2020 (3)
@@ -97,16 +97,16 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [BG 01.02.2015 FR_Derailment_BG_4713.md](2015/BG%2001.02.2015%20FR_Derailment_BG_4713.md) | — | 168 | revisar |
-| [BG 09.08.2015.md](2015/BG%2009.08.2015.md) | — | 318 | revisar |
-| [BG 13.10.2015-4910.md](2015/BG%2013.10.2015-4910.md) | — | 228 | revisar |
+| [BG 01.02.2015 FR_Derailment_BG_4713.md](2015/BG%2001.02.2015%20FR_Derailment_BG_4713.md) | — | 35837 | revisar |
+| [BG 09.08.2015.md](2015/BG%2009.08.2015.md) | — | 57449 | revisar |
+| [BG 13.10.2015-4910.md](2015/BG%2013.10.2015-4910.md) | — | 41421 | revisar |
 
 ## 2014 (7)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [BG 12.07.2014 FR_Derailment_BG_3959_Kaloyanovets_12.7.2014.md](2014/BG%2012.07.2014%20FR_Derailment_BG_3959_Kaloyanovets_12.7.2014.md) | — | 81665 | ok |
-| [BG 23.12.2014 FR_Derailment_BG_4690.md](2014/BG%2023.12.2014%20FR_Derailment_BG_4690.md) | — | 138 | revisar |
+| [BG 23.12.2014 FR_Derailment_BG_4690.md](2014/BG%2023.12.2014%20FR_Derailment_BG_4690.md) | — | 29464 | revisar |
 | [BG FR_Fire_in_RS_07.08.2014_en.md](2014/BG%20FR_Fire_in_RS_07.08.2014_en.md) | — | 35982 | ok |
 | [FR_Derailment_28.03.2014_en.md](2014/FR_Derailment_28.03.2014_en.md) | — | 42561 | ok |
 | [FR_LC_07.05.2014_en_1.md](2014/FR_LC_07.05.2014_en_1.md) | — | 27416 | ok |

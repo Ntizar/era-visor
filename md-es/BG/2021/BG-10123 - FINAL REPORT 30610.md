@@ -10,13 +10,13 @@ chars: 74878
 ratio_longitud: 1.08
 tokens_in: 27748
 tokens_out: 23568
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 18: cifras largas: faltan 2/5 (40%)", "página 33: cifras largas: faltan 2/6 (33%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: cifras cortas: 1/39", "página 6: cifras cortas: 1/17", "página 7: cifras cortas: 1/6", "página 9: cifras cortas: 3/35", "página 10: cifras cortas: 2/19"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 R E P Ú B L I C A   D E   B U L G A R I A 
 CONSEJO NACIONAL DE INVESTIGACIÓN DE ACCIDENTES EN EL TRANSPORTE AÉREO, MARÍTIMO Y FERROVIARIO 
@@ -29,10 +29,10 @@ INFORME FINAL
 sobre la 
 Investigación del accidente ferroviario – descarrilamiento del tren de mercancías directo  
 № 30610 entre las estaciones Shivatchevo – Tvarditsa el 12.03.2021 
-2021 
-
+2021
 
 ## Página 2
+
 
 ## OBJETIVO DE LA INVESTIGACIÓN Y ÁMBITO DE RESPONSABILIDAD 
 ## El Consejo Nacional de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario (NAMRTAIB), que es un organismo independiente, realiza la investigación de accidentes e incidentes graves. El Consejo Nacional depende del Consejo de Ministros (CM) de la República de Bulgaria, y tiene como objetivo determinar las circunstancias y causas que condujeron a la ocurrencia de los accidentes e incidentes con el fin de mejorar la seguridad y evitar tales sucesos en el futuro, sin buscar la culpa ni la responsabilidad personal. 
@@ -40,10 +40,10 @@ Investigación del accidente ferroviario – descarrilamiento del tren de mercan
 ## la Ordenanza № 59, de fecha 5.12.2006, sobre la gestión de la seguridad del transporte ferroviario, y 
 ## la Ordenanza № Н-32, de fecha 19.09.2007, sobre la coordinación de actividades e intercambio de información durante la investigación de accidentes e incidentes ferroviarios, así como según el Acuerdo, de fecha 17.04.2018, sobre la interacción durante la investigación de accidentes e incidentes en el transporte aéreo, marítimo y ferroviario entre la 
 ## Fiscalía de la República de Bulgaria, el Ministerio del Interior y el 
-## Ministerio de Transportes, Tecnologías de la Información y Comunicaciones. Los Informes cumplen los requisitos del Reglamento (UE) 2020/572, de 24 de abril de 2020, relativo a la estructura de notificación de los informes de investigación de accidentes e incidentes ferroviarios.  
-
+## Ministerio de Transportes, Tecnologías de la Información y Comunicaciones. Los Informes cumplen los requisitos del Reglamento (UE) 2020/572, de 24 de abril de 2020, relativo a la estructura de notificación de los informes de investigación de accidentes e incidentes ferroviarios.
 
 ## Página 3
+
 
 # ÍNDICE DE CONTENIDOS 
 | № |  | Título de la sección | Pág. |
@@ -54,8 +54,8 @@ Investigación del accidente ferroviario – descarrilamiento del tren de mercan
 | 5 . | Conclusiones |  | 33 |
 | 6 . | Recomendaciones de seguridad |  | 38 |
 
-
 ## Página 4
+
 
 ## ABREVIACIONES UTILIZADAS EN EL INFORME 
 ABS – Sistema de Bloqueo Automático 
@@ -81,10 +81,10 @@ WIS – Sección de inspección de vagones
 DCCM – Dispositivo para comunicaciones, conexiones y mensajes 
 MRTO – Gestión y reporte de la operación de trenes 
 RTA – Ley de Transporte Ferroviario 
-Ordenanza № 59 – Ordenanza sobre la gestión de la seguridad del transporte ferroviario 
-
+Ordenanza № 59 – Ordenanza sobre la gestión de la seguridad del transporte ferroviario
 
 ## Página 5
+
 
 ## 1. Resumen 
 1.1. Breve descripción del suceso. 
@@ -114,10 +114,10 @@ infraestructura ferroviaria y daños al vagón descarrilado.
 ### Fig. 1.1. Primer bogie descarrilado del vagón № 31525400845-3 en el tramo 
 ### entre estaciones Shivatchevo – Tvarditsa 
 El descarrilamiento del vagón del DFT № 30610 ocurrió entre las estaciones 
-Shivatchevo y Tvarditsa a las 17:04 h en el km 260+302, donde primero se produjo el descarrilamiento del lado izquierdo 
-
+Shivatchevo y Tvarditsa a las 17:04 h en el km 260+302, donde primero se produjo el descarrilamiento del lado izquierdo
 
 ## Página 6
+
 
 del segundo eje, y posteriormente del primer eje del primer bogie del decimosexto vagón del tren 
 (fig. 1.2). 
@@ -133,14 +133,15 @@ carga asimétrica de los vagones y baja velocidad del tren en la curva.
 
 ## Página 7
 
+
 La causa directa de la ocurrencia del accidente fue la distribución desigual de la carga a granel en el cuerpo de la vagón, lo que provocó el descarrilamiento del segundo eje del primer bogie del decimosexto vagón del tren, siguiendo la siguiente secuencia: elevación de la rueda izquierda del segundo eje sobre el carril izquierdo, colapso de la rueda derecha en el ancho de vía y posterior colapso de la rueda izquierda en la parte exterior del carril.
 1.5. Recomendaciones de seguridad y destinatarios.
 La Recomendación 1 propone que SE NRIC y BDZ-Cargo Ltd. den a conocer al personal interesado el contenido del presente informe.
 La Recomendación 2 propone que SE NRIC organice formaciones periódicas con el fin de actualizar los conocimientos del personal técnico, del controlador de vía y estructuras, del jefe de sección de mantenimiento de vía y estructuras/RRS conjunto, del gerente técnico del grupo RRS y del técnico de construcción de transporte, respecto a los requisitos de las «Instrucciones para la construcción y el mantenimiento de la vía y los cambios».
 La Recomendación 3 propone que BDZ-Cargo Ltd. controle el proceso de carga de los vagones durante el transporte de mercancías a granel.
 
-
 ## Página 8
+
 
 ## 2. Investigación
 2.1. Decisión de iniciar la investigación.
@@ -162,6 +163,7 @@ Tras recibir una notificación de SE NRIC a las 17:30 h del 12.03.2021 sobre el 
 
 ## Página 9
 
+
 Tras las inspecciones in situ realizadas, se tomó la decisión de emprender una investigación, de la cual se informó a las entidades implicadas en el accidente. Se acordó la propuesta del SE NRIC de que los primeros 15 vagones no descarrilados junto con la locomotora del tren fueran remolcados hasta la estación de Tvarditsa. El decimosexto vagón descarrilado y el decimoséptimo vagón no descarrilado acoplado a él fueron dejados en el lugar. Las primeras entrevistas se realizaron con el personal implicado en el accidente por parte de ambas entidades. Se llevaron a cabo inspecciones iniciales del vagón descarrilado del DFT n.º 30610 y de la zona del descarrilamiento, así como del tramo dañado en la sección interestación Shivatchevo - Tvarditsa. Se realizó una inspección exhaustiva de la infraestructura ferroviaria dañada a lo largo de la sección interestación. Fue necesario descargar los registros del dispositivo grabador de la locomotora para ser descifrados.
 El 13.03.2021, el gestor de la infraestructura ferroviaria solicitó la documentación de la estación y los documentos sobre la gestión operativa del movimiento del DFT n.º 30610 desde la estación de Sliven hasta el lugar del descarrilamiento del tren, así como los documentos de reparación y mantenimiento de la vía entre las estaciones de Shivatchevo y Tvarditsa. Se exigió a la empresa ferroviaria BDZ-Cargo Ltd. que proporcionara el pasaporte con la documentación de reparación y mantenimiento del vagón descarrilado n.º 31 52 540 0845-3.
 El 17.03.2021, la Comisión de Investigación se desplazó al Depósito de Locomotoras de Stara Zagora, donde, en presencia de representantes de las dos entidades y de un representante de la empresa que cargó los vagones en la estación de Sliven, se elaboró un acta de hallazgos sobre el estado técnico del vagón descarrilado. Se realizaron mediciones de control de la carga estática y de la distribución de la carga sobre ruedas y ejes. Se llevó a cabo una inspección visual de la distribución de la carga en la caja-cubierta del vagón descarrilado.
@@ -173,8 +175,8 @@ Durante la investigación, la comunicación entre la Comisión de Investigación
 2.9. Interacción con las autoridades judiciales.
 De conformidad con el Acuerdo de Interacción con las autoridades judiciales, tras sus inspecciones de la infraestructura ferroviaria y del material rodante (RRS) descarrilado, este fue liberado de la supervisión y la Comisión de Investigación inició su investigación independiente.
 
-
 ## Página 10
+
 
 2.10. Otra información importante para el contexto de la investigación.
 Tras desacoplar y remolcar los vagones no descarrilados del DFT n.º 30610, el decimosexto vagón descarrilado y el decimoséptimo vagón no descarrilado permanecieron en el lugar. El vagón n.º 16, número 31525400845-3, estaba colocado sobre la vía férrea. A la llegada de la locomotora para remolcar los dos vagones hasta la estación de Tvarditsa, se produjo su autodeslizamiento en dirección a la estación de Shivatchevo. El perfil de la vía presenta una pendiente descendente del 14 ‰, debido a la cual su velocidad aumentó significativamente, seguido del re-descarrilamiento del vagón n.º 16, número 31525400845-3, en el pk 271+050 en la sección interestación Shivatchevo - Gavrailovo. Como resultado del re-descarrilamiento del vagón, quedó destruida la vía férrea en una longitud de 440 metros (Figs. 2.1 y 2.2).
@@ -184,8 +186,8 @@ re-descarrilamiento del vagón n.º 16
 tras el re-descarrilamiento del
 vagón n.º 16
 
-
 ## Página 11
+
 
 ## 3. Descripción del evento
 3.1. Información sobre el evento y el contexto.
@@ -198,6 +200,7 @@ El descarrilamiento del DFT n.º 30610 ocurrió el 12.03.2021 a las 17:04 h dura
 ### Fig. 3.1. Mapa de la dirección de movimiento del DFT n.º 30610
 
 ## Página 12
+
 
 3.1.3. Descripción de la ubicación del suceso:
 3.1.3.1. Ubicación del accidente ocurrido.
@@ -220,8 +223,8 @@ El accidente ferroviario ocurrió entre las estaciones Shivatchevo y Tvarditsa; 
 ### Fig. 3.3. Cuadernillo-horario de circulación en la línea ferroviaria n.º 3
 .
 
-
 ## Página 13
+
 
 Zimnitsa – Tulovo – Karlovo – Pirdop. La línea ferroviaria es convencional con velocidad de marcha hasta 130 km/h (fig. 3.2).
 El DFT n.º 30610 circula según el horario mostrado en las figuras 3.3 y 3.4.
@@ -247,8 +250,8 @@ Ninguno.
 3.1.4.6. Medio ambiente.
 Ninguno.
 
-
 ## Página 14
+
 
 3.1.4.7. Material rodante.
 Daños causados al equipo de rodaje del vagón descarrilado n.º 31 52 5400845-3. Valor contabilizado que la empresa ferroviaria presentó por los daños – 35 409,00 BGN.
@@ -287,8 +290,8 @@ Personal de BDZ-Cargo Ltd. implicado en el accidente:
 3.1.7. Descripción de las partes respectivas de la infraestructura ferroviaria y del sistema de señalización:
 3.1.7.1. Tipo de vía, cambio de vía, cruce de raíles, etc.
 
-
 ## Página 15
+
 
 Vía única en tramo interestacional, situada en curva circular a derechas en sentido de marcha del tren con radio R=300 m.
 3.1.7.2. Sistema de bloqueo interestacional, instalación de estación, tipo de señalización.
@@ -300,8 +303,8 @@ La locomotora n.º 46032 está equipada con dispositivo de aviso de tipo activo,
 Los documentos del tren „Hoja de ruta“, „Ficha de naturaleza“ y „Autorización de masa de frenado“ (fig. 3.5, 3.6, 3.7) corresponden a las horas del movimiento real del DFT n.º 30610 según los datos presentados por ROVR y la cinta del velocímetro de la locomotora.
 ### Fig. 3.5. Hoja de ruta de la locomotora 46032
 
-
 ## Página 16
+
 
 3.2. Descripción fáctica de lo ocurrido.
 ### Fig. 3.6. Ficha de naturaleza del DFT n.º 30610
@@ -311,6 +314,7 @@ Los documentos del tren „Hoja de ruta“, „Ficha de naturaleza“ y „Autor
 El DFT n.º 30610 pasó por la estación de Shivatchevo a las 16:54 h. sin detenerse. El jefe de circulación de turno monitorizó el paso del tren por la estación y no observó ningún daño en el material rodante. Alrededor de las 17:02 h., el tren circulaba a una velocidad de aproximadamente 37 km/h. En ese momento, la presión en el conducto principal de aire disminuyó de 5 bar a 0 bar, la velocidad cayó bruscamente a 0 km/h y el tren se detuvo en el tramo interestacional Shivatchevo - Tvarditsa a las 17:04 h.
 
 ## Página 17
+
 
 Tras la detención del tren, el maquinista ordenó al ayudante de maquinista inspeccionar el tren, quien constató que el decimosexto vagón del tren había descarrilado con los dos ejes del primer bogie.
 3.2.1.2. Funcionamiento del material rodante y las instalaciones técnicas.
@@ -332,15 +336,18 @@ No fueron necesarias/requeridas actuaciones de los servicios de emergencia y res
 *   A las 13:39 h, el DFT n.º 30610 con la locomotora de tren n.º 43551 partió de la estación de Tvarditsa en su ruta hacia la estación de Pirdop.
 *   La operación del tren se restableció el 25.03.2021 a las 17:36 h con una velocidad de 25 km/h desde el kilómetro 257+250 hasta el kilómetro 260+650, con una longitud de 3400 metros.
 
-
 ## Página 18
 
 ## 4. Análisis del suceso
 4.1. Participación y responsabilidades de las entidades implicadas en el suceso:
 4.1.1. Empresa ferroviaria.
-La locomotora n.º 46032 realiza sus primeras maniobras en el depósito de locomotoras de Karnobat a las 14:11 h con una velocidad de hasta 10 km/h, y luego aumenta a 20 km/h, y tras varias maniobras más a 20 km/h, a las 14:25 h se coloca en una vía de la estación de Karnobat Western District (fig. 4.1, pos. 1). Tras detenerse durante un minuto, partió a las 14:26 h de la estación de Karnobat Western District, desarrollando 22 km/h, luego disminuye a 12 km/h, pasa por los cambios de aguja de salida de la estación de Karnobat, y luego aumenta a 70 km/h. Así,
-circulando a una velocidad de hasta 77-78 km/h, la locomotora recorre 31,7
-km, donde a las 14:52 h comienza a disminuir la velocidad de 73 km/h
+La locomotora n.º 46032 realiza sus primeros movimientos en el depósito de locomotoras de Karnobat a las 14:11 h con una velocidad de hasta 10 km/h, que luego aumenta a 20 km/h, y tras varios movimientos de maniobra más a 20 km/h, se coloca en la vía de estación de la estación de Karnobat Western District (fig. 4.1, pos. 1) a las 14:25 h. Tras detenerse durante un minuto, parte a las 14:26 h de la estación de Karnobat Western District, desarrolla 22 km/h, luego disminuye a 12 km/h, atraviesa los aparatos de salida de la estación de Karnobat y después aumenta a 70 km/h. Así, desplazándose a una velocidad de hasta 77-78 km/h, la locomotora recorre 31,7 km, donde a las 14:52 h comienza a disminuir la velocidad de 73 km/h.
+
+гара
+## 2
+## 1
+### Fig. 4.1. Registro del movimiento de la locomotora n.º 46032 (como DFT n.º 30610) desde Karnobat hasta la estación de Zimnitsa.
+
 гара
 ## 5
 ## 3
@@ -361,8 +368,8 @@ km, donde a las 14:52 h comienza a disminuir la velocidad de 73 km/h
 ### Fig. 4.3
 ### Fig. 4.2. Registro del movimiento de la locomotora n.º 46032 (como DFT 30610) desde Zimnitsa hasta la estación de Sliven.
 
-
 ## Página 19
+
 
 suavemente y después de 1800 metros, a las 14:54 h alcanza 47 km/h (fig. 4.1, pos. 2). El lugar corresponde a la estación de Zimnitsa.
 Luego la velocidad comienza a aumentar nuevamente hasta 64 km/h (Fig. 4.2, pos. 1). Cambia suavemente entre 64 km/h y 50 km/h, y así la locomotora se desplaza hasta la estación de Zhelyo Voyvoda. Después de recorrer 8900 metros, a las 15:03 h, la velocidad es de 56 km/h y comienza a disminuir - inicialmente a un ritmo más rápido para alcanzar un valor de 40 km/h, tras lo cual la tasa de descenso se vuelve más lenta y alcanza 28 km/h, intensificándose de nuevo hasta la parada completa de la locomotora en la estación de Zhelyo Voyvoda a las 15:04 h (Fig. 4.2, pos. 2). Aparentemente, el maquinista mantuvo inicialmente la locomotora con el freno directo de la locomotora hasta que alcanzó una velocidad de 40 km/h, luego lo aflojó, la reducción continúa debido a la resistencia natural en su movimiento y cuando alcanza 28 km/h, la retiene de nuevo hasta que llega a 0 km/h. Tras la parada de la locomotora a las 15:05 h, hay una parada de unos 30 segundos (Fig. 4.2, pos. 3). Sigue una partida, en la que la locomotora desarrolla 11-
@@ -375,6 +382,7 @@ de hasta 18 km/h.
 ### Fig. 4.4. Registro del movimiento del DFT 30610 desde la estación de Sliven hasta la estación de Shivatchevo.
 
 ## Página 20
+
 
 El tren de mercancías DFT n.º 30610, remolcado por la locomotora n.º 46032, sale de la estación de Sliven a las 16:14 h (hora del velocímetro). La velocidad oscila entre 42 y 78 km/h, recorriendo así el tren 21,4 km (Fig. 4.4). En este punto (Fig. 4.4, pos. 1), a las 16:40 h, la velocidad disminuye hasta 16 km/h y durante 1000 metros en 2,5 minutos varía entre 16 y 22 km/h. Tras recorrer esta sección, la velocidad aumenta y su valor máximo alcanza los 63 km/h (Fig. 4.4, pos. 2).
 A las 16:57 h, el tren de mercancías DFT n.º 30610 pasa
@@ -393,6 +401,7 @@ y el tren se detiene (Fig. 4.6, pos. 2). Los topes frontales de la locomotora se
 
 ## Página 21
 
+
 4.1.2. Gestor de infraestructura ferroviaria.
 ## 2
 ## 1
@@ -403,7 +412,9 @@ Para aclarar las causas del accidente, es necesario realizar un análisis comple
 La buena interacción entre las ruedas del material rodante y los raíles de la vía es una garantía para la circulación segura de los trenes.
 4.1.2.1. Análisis del estado de la vía férrea en la curva circular, en el punto y alrededor del punto de elevación y descarrilamiento del decimosexto vagón de la composición del tren.
 El accidente ocurrió en una curva circular con un radio de 300 metros. Los raíles son del tipo 49 con una longitud de 25 metros. Están conectados entre sí en las juntas mediante conexiones de acero con cuatro pernos de ajuste para evitar la divergencia vertical y horizontal de los raíles entre ellos. En una unidad de 25 metros de longitud hay 40 traviesas de hormigón armado
+
 ## Página 22
+
 
 y una traviesa doble de madera, que sirve como soporte en las juntas. La fijación es elástica SKL-14.
 Para realizar una descripción completa de la vía férrea, es necesario determinar todos sus parámetros, a saber:
@@ -476,6 +487,7 @@ Transiciones calculadas basadas en la distancia entre ejes del bogie - 1800 mm:
 
 ## Página 23
 
+
 ࡷ= ࡸ
 ࡴ= ૚ૡ૙૙
 =
@@ -502,10 +514,10 @@ A partir de los valores medidos del nivel en un total de 21 puntos desde +20 has
 
 Se cumplen los requisitos del apartado 3.2.4.10 (Tolerancias permisibles en la sobreelevación) de la "Instrucción para el mantenimiento corriente de la vía férrea y los cambios de aguja". 
 
-Debido al levantamiento de la vía férrea para su renovación, el gestor de la infraestructura ferroviaria no permitió que el grupo de trabajo realizara mediciones de defectos ocultos/torsiones de la vía férrea en la zona de descarrilamiento del vagón; por lo tanto, no se reflejan registros de defectos ocultos/torsiones medidos en la Declaración de hallazgos (Fig. 4.7, Diagrama de medición de la vía bajo nivel). 
-
+Debido al levantamiento de la vía férrea para su renovación, el gestor de la infraestructura ferroviaria no permitió que el grupo de trabajo realizara mediciones de defectos ocultos/torsiones de la vía férrea en la zona de descarrilamiento del vagón; por lo tanto, no se reflejan registros de defectos ocultos/torsiones medidos en la Declaración de hallazgos (Fig. 4.7, Diagrama de medición de la vía bajo nivel).
 
 ## Página 24
+
 
 4.1.2.3. Análisis de la vía férrea según el ancho de vía. 
 De los valores medidos de este parámetro, registrados en la Declaración de Hallazgos sobre la condición de la vía férrea, es evidente que el ancho de vía máximo registrado se encuentra en el punto n.º 9 con un valor de 1460 mm y no viola los requisitos descritos en las "Instrucciones para la construcción y mantenimiento de la superestructura de la vía férrea y los cambios de aguja", donde el ancho de vía máximo permisible es de 1465 mm para líneas ferroviarias de primera y segunda clase (Fig. 4.7, Diagrama de medición de la vía bajo ancho de vía). 
@@ -548,6 +560,7 @@ Reparación media, incluyendo cribado y apisonado con TM en 2016.
 
 ## Página 25
 
+
 4.1.3. Entidades responsables del mantenimiento técnico.
 No aplicable.
 4.1.4. Fabricantes o proveedores de material rodante y productos ferroviarios.
@@ -576,8 +589,8 @@ No aplicable.
 4.2.6.1. Carga de los vagones.
 Se detectó una carga desigual del vagón n.º 31525400845-3, decimosexto en fila en la composición del tren DFT n.º 30610, mediante básculas móviles sobre ruedas y ejes, lo que provocó el desplazamiento del centro de gravedad
 
-
 ## Página 26
+
 
 del vagón. Por consiguiente, la carga está distribuida de forma desigual sobre las ruedas y ejes individuales, es decir, las ruedas izquierdas en el sentido de la marcha están menos cargadas que las derechas. Esto causó que la rueda izquierda subiera sobre el carril exterior izquierdo.
 4.3. Factor humano:
@@ -608,6 +621,7 @@ Tarjeta de reconocimiento médico fechada el 26.02.2020, expedida por el Hospita
 Conclusión: apto para maquinista auxiliar.
 
 ## Página 27
+
 
 Reconocimiento fisiológico n.º 129/04.02.2019 expedido por el Laboratorio de pericia fisiológica del Hospital Multidisciplinar de Transporte de Plovdiv para el ayudante de maquinista.
 Conclusión: apto durante un periodo de 3 años.
@@ -645,8 +659,8 @@ No aplicable.
 4.3.2.2. Particularidades constructivas de las instalaciones que influyen en la conexión humano-máquina.
 No aplicable.
 
-
 ## Página 28
+
 
 4.3.2.3. Medios de comunicación.
 No aplicable.
@@ -685,6 +699,7 @@ Empresa ferroviaria.
 
 ## Página 29
 
+
 2016/798 del Parlamento Europeo y del Consejo y por la que se derogan los Reglamentos (UE) n.º 1158/2010 y (UE) n.º 1169/2010 de la Comisión;
 • REGLAMENTO DE EJECUCIÓN (UE) 2019/779 DE LA COMISIÓN, de 16 de mayo de 2019, por el que se establecen disposiciones detalladas sobre un sistema de certificación de las entidades encargadas del mantenimiento de vehículos con arreglo a la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo y se deroga el Reglamento (UE) n.º 445/2011 de la Comisión;
 • REGLAMENTO DE EJECUCIÓN (UE) N.º 402/2013 DE LA COMISIÓN, de 30 de abril de 2013, relativo al método común de seguridad para la evaluación y valoración de riesgos y por el que se deroga el Reglamento (CE) n.º 352/2009;
@@ -713,8 +728,8 @@ No aplicable.
 Reglamento Delegado (UE) 2018/761 de la Comisión, de 16 de febrero de 2018, por el que se establecen métodos comunes de seguridad para la supervisión por parte de las autoridades nacionales de seguridad tras la expedición de un certificado único de seguridad o de una autorización de seguridad con arreglo a la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo y se deroga el Reglamento (UE) n.º 1077/2012 de la Comisión;
 ORDEN N.º 59, de fecha 5.12.2006, relativa a la gestión de la seguridad del transporte ferroviario.
 
-
 ## Página 30
+
 
 4.4.2. Procesos, métodos y resultados de las actividades de evaluación y seguimiento de riesgos realizadas por las entidades implicadas:
 4.4.2.1. Empresas ferroviarias.
@@ -745,8 +760,8 @@ Autorización de Seguridad n.º BG 21/2018/0001, válida desde el 01.07.2018 has
 Certificado de Seguridad Parte A BG 11 2017 0008, válido hasta el 30.12.2022;
 Certificado de Seguridad Parte B BG 12 2017 0008, válido hasta el 30.12.2022;
 
-
 ## Página 31
+
 
 4.4.6.3. Autorizaciones para la puesta en servicio de equipos fijos permanentes y permisos para la comercialización de vehículos.
 No aplicable.
@@ -759,6 +774,7 @@ No aplicable.
 Se investigaron casos similares en circunstancias análogas e idénticas, que fueron objeto de informes adecuados al tipo y gravedad del accidente, en los que se formularon recomendaciones de seguridad.
 
 ## Página 32
+
 
 ## 5. Conclusiones
 5.1. Resumen del análisis de las causas del suceso.
@@ -793,20 +809,19 @@ El 24.03.2021, en la estación de Stara Zagora, se realizaron mediciones mediant
 
 ## Página 33
 
-Los requisitos relativos a las diferencias admisibles en las cargas verticales de las ruedas y ejes de los vagones están descritos en el Sistema de Gestión de la Seguridad, FP - 4.10 Procedimiento de trabajo "Instrucción para la carga y transporte de sobredimensionados y cargas pesadas en la red ferroviaria de la República de Bulgaria", NRIC, Fecha de emisión: 1 de octubre de 2018.
-
-"SECCIÓN I REQUISITOS GENERALES PARA LA CARGA DE VAGONES
-Artículo 46, apartado 3. La carga debe distribuirse de la manera más uniforme posible, respetando las siguientes proporciones:
-1. La proporción de la carga de las ruedas del mismo eje en dirección transversal es como máximo de 1,25:1 (desplazamiento lateral de la carga);
-2. La proporción de las cargas de los ejes (bogies) en dirección longitudinal es:
-a) para vagones de dos ejes - máximo 2:1;
-б) para vagones con bogies – máximo 3:1."
-
-Basándose en los datos numéricos de la medición de la carga en las ruedas mediante una báscula móvil (Protocolo de servicio n.º 2000000010 de 24.03.2021 de la empresa "BALANCE SYSTEMS" Ltd.), se ha elaborado la Tabla 1.
-
-### Fig. 5.2. Esquema de disposición de la carga en el 16.º vagón n.º 31525400845-3
+82525938331-3 tras el descarrilamiento durante las maniobras de remolque y empuje con la locomotora n.º 52-119, obteniéndose los siguientes resultados (Tabla 1):
+Los requisitos relativos a las diferencias admisibles en las cargas verticales de ruedas y ejes de los vagones se describen en el Sistema de Gestión de la Seguridad, FP - 4.10 Procedimiento operativo «Instrucción para la carga y el transporte de cargas sobredimensionadas y pesadas en la red ferroviaria de la República de Bulgaria», NRIC, Fecha de emisión: 1 de octubre de 2018.
+«SECCIÓN I REQUISITOS GENERALES PARA LA CARGA DE VAGONES
+Artículo 46, apartado 3 La carga debe distribuirse lo más uniformemente posible, respetando las siguientes proporciones:
+1. la proporción de la carga de las ruedas del mismo eje en dirección transversal es como máximo de 1,25:1 (desplazamiento lateral de la carga);
+2. la proporción de las cargas por eje (bogies) en dirección longitudinal es:
+a) para vagones de dos ejes: como máximo 2:1;
+б) para vagones con bogies: como máximo 3:1.»
+Sobre la base de los datos numéricos procedentes de la medición de la carga en las ruedas mediante una báscula móvil (Protocolo de servicio n.º 2000000010 de 24.03.2021 de la empresa «BALANCE SYSTEMS» Ltd.), se ha elaborado la Tabla 1.
+### Fig. 5.2. Esquema de distribución de la carga en el vagón n.º 16, n.º 31525400845-3
 
 ## Página 34
+
 
 Por tanto, se detectaron incumplimientos de los requisitos del Art. 46, apartado 3, punto 1, en los ejes 2.º y 3.º del 15.º vagón; en los ejes 2.º, 3.º y 4.º del 16.º vagón (descarrilado) y en todas las ruedas del 17.º vagón.
 
@@ -821,6 +836,7 @@ El vagón puede volverse inestable debido a factores adicionales que influyen en
 ### Fig. 5.3. Distribución de las fuerzas actuantes sobre el segundo eje del primer bogie del vagón n.º 31525400845-3
 
 ## Página 35
+
 
 se encuentra el segundo eje (Fig. 5.3). El centro de masas está desplazado hacia la derecha del eje longitudinal del vagón en la dirección de marcha del tren, lo cual es lógico dados los resultados obtenidos al medir la carga sobre las ruedas individuales (Tabla 1). Las mediciones también muestran que la rueda derecha soporta una carga un 49 % superior a la izquierda.
 Con el fin de determinar la condición bajo la cual el vagón presenta un movimiento estable, se asume que, al pasar por tramos curvos, actúan sobre el reborde una cierta fuerza horizontal ### Hц y una fuerza vertical Q1, cuyas proyecciones sobre la tangente y la normal en el punto de contacto entre el reborde y la cabeza del raíl serán (Fig. 5.4):  
@@ -842,9 +858,10 @@ A su vez, la fuerza centrífuga que carga la rueda en un plano horizontal transv
 ૛ࡿቇ 
 La velocidad del tren en el momento del descarrilamiento es de 37 km/h, el centro de masas se encuentra a una altura de 0,92 m desde el nivel del suelo del vagón y el radio de la curva es de 300 m. Según estos valores, la fuerza centrífuga es de 71,182 kN. 
 La velocidad del tren en el momento del descarrilamiento es de 37 km / h, el centro de masas se encuentra a una altura de 0,92 m desde el nivel del suelo del vagón y el radio de la curva es de 300 m. Según estos valores, la fuerza centrífuga es de 71,182 kN. 
-Suponiendo que β=70° y Q2=1,49Q1, se obtiene Hц/Q1=0,93. Para un movimiento estable es necesario cumplir la condición Hц/Q1≤0,8. Por lo tanto, la fuerza horizontal transversa causada por la fuerza centrífuga en el movimiento del tren en la curva tiene una influencia mayor que la carga vertical que actúa sobre la rueda, lo que viola la condición de movimiento estable de la rueda y conduce al descarrilamiento de la rueda correspondiente. Estos resultados, combinados con el valor inferior del nivel de la vía (que se encuentra dentro de los límites admisibles) en el punto de elevación (Fig. 5.5: 0,128 m (Fig. 5.5, pos. 1) en comparación con la primera rueda - 0,13 m (Fig. 5.5, pos. 2) y el tercer eje - 0,144 
+Suponiendo que β=70° y Q2=1,49Q1, se obtiene Hц/Q1=0,93. Para un movimiento estable es necesario cumplir la condición Hц/Q1≤0,8. Por lo tanto, la fuerza horizontal transversa causada por la fuerza centrífuga en el movimiento del tren en la curva tiene una influencia mayor que la carga vertical que actúa sobre la rueda, lo que viola la condición de movimiento estable de la rueda y conduce al descarrilamiento de la rueda correspondiente. Estos resultados, combinados con el valor inferior del nivel de la vía (que se encuentra dentro de los límites admisibles) en el punto de elevación (Fig. 5.5: 0,128 m (Fig. 5.5, pos. 1) en comparación con la primera rueda - 0,13 m (Fig. 5.5, pos. 2) y el tercer eje - 0,144
 
 ## Página 36
+
 
 m (Fig. 5.5, pos. 3), han contribuido a la elevación del vagón sobre la cabeza del raíl en el punto especificado y a su posterior descarrilamiento. 
 En conclusión, la Comisión de Investigación considera que la causa principal del descarrilamiento del segundo eje del vagón n.º 31525400845-3, decimosexto en fila en la composición del DFT n.º 30610 a lo largo de la sección interestacional Shivatchevo – Tvarditsa, es la carga desigual del vagón. Esto ha provocado un desplazamiento de su centro de masas, ya que la carga estaba distribuida de manera desigual sobre las ruedas individuales (la carga en la izquierda en la dirección de marcha era menor que la carga en la derecha). La combinación de movimiento en curva a derechas de radio pequeño, baja velocidad y desviaciones en el nivel de la vía, ha contribuido a la elevación de la rueda izquierda del segundo eje del primer bogie del vagón sobre la corona del raíl exterior y a su posterior 
@@ -856,9 +873,10 @@ descarrilamiento.
 5.2. Medidas adoptadas tras la ocurrencia del evento. 
 No procede. 
 5.3. Hallazgos adicionales. 
-No hay ninguno. 
+No hay ninguno.
 
 ## Página 37
+
 
 ## 6. Recomendaciones de seguridad 
 Con el fin de mejorar la seguridad en el transporte ferroviario, la Comisión de Investigación de NAMRATIB propone a la Agencia Ejecutiva de Administración Ferroviaria las siguientes recomendaciones de seguridad adaptadas a SE NRIC y «BDZ-Cargo» Ltd. 

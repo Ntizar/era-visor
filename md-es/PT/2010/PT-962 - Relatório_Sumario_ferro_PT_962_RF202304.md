@@ -10,13 +10,14 @@ chars: 24148
 ratio_longitud: 0.84
 tokens_in: 17136
 tokens_out: 9055
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 2: ratio 1.61", "página 4: cifras largas: faltan 3/6 (50%)", "página 5: ratio 1.66", "página 8: ratio 1.66", "página 9: cifras largas: faltan 2/4 (50%); ratio 0.73", "página 10: cifras largas: faltan 2/2 (100%); ratio 0.73"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/9; cifras cortas: 6/15", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)"]
+verificacion: revisar
+avisos: ["página 4: ratio 1.69", "página 5: ratio 1.68", "página 9: cifras largas: faltan 1/4 (25%)"]
 ---
+
 ## Página 1
+
 
 RFR
 TRANSPORTE FERROVIÁRIO
@@ -154,33 +155,27 @@ Cost of damage:
 1/10
 RELATÓRIO FACTUAL || INFORME FACTUAL F2023/04
 
-
 ## Página 2
 
-## 2- NOTA SOBRE A INVESTIGAÇÃO
+
 ## 2- NOTA SOBRE LA INVESTIGACIÓN
-O processo de investigação foi aberto pelo extinto Gabinete de Investigação de Segurança e de Acidentes Ferroviários (GISAF), tendo o acidente sido notificado à Agência Ferroviária Europeia e aberta a correspondente entrada na base de dados ERAIL.
-El proceso de investigación fue abierto por el ya desaparecido Gabinete de Investigación de Seguridad y Accidentes Ferroviarios (GISAF), habiéndose notificado el accidente a la Agencia Ferroviaria Europea y abierto la correspondiente entrada en la base de datos ERAIL.
-Não estando, à data, dotado de meios humanos, o ex-GISAF constituiu uma comissão de investigação composta por representantes das empresas envolvidas, os quais elaboraram o respetivo relatório, mas partes do qual mereceram a discordância de alguns dos elementos da comissão, que inclusivamente objetaram à composição da referida comissão, anexando uma declaração de voto de discordância. Nestes termos, não estava o referido relatório em condições de ser submetido a audição das empresas e, muito menos, de ser homologado pelos diretores do ex-GISAF e do GPIAAF.
-Al no disponer, en esa fecha, de medios humanos, el antiguo GISAF constituyó una comisión de investigación compuesta por representantes de las empresas implicadas, quienes elaboraron el informe correspondiente, pero algunas partes del mismo suscitaron la discrepancia de algunos miembros de la comisión, que incluso objetaron a la composición de dicha comisión, adjuntando una declaración de voto particular discrepante. En estos términos, el mencionado informe no estaba en condiciones de ser sometido a audiencia de las empresas y, mucho menos, de ser aprobado por los directores del antiguo GISAF y del GPIAAF.
-Assim e tendo em conta:
+El proceso de investigación fue iniciado por el extinto Gabinete de Investigación de Seguridad y Accidentes Ferroviarios (GISAF), habiéndose notificado el accidente a la Agencia Ferroviaria Europea y abierto la correspondiente entrada en la base de datos ERAIL.
+
+Al no disponer, en esa fecha, de medios humanos, el ex-GISAF constituyó una comisión de investigación compuesta por representantes de las empresas implicadas, quienes elaboraron el informe pertinente, pero partes del mismo suscitaron discrepancias entre algunos miembros de la comisión, que incluso objetaron a la composición de dicha comisión, adjuntando una declaración de voto de discordancia. En estos términos, el referido informe no estaba en condiciones de ser sometido a audiencia de las empresas y, mucho menos, de ser homologado por los directores del ex-GISAF y del GPIAAF.
+
 Por tanto, y teniendo en cuenta:
-― O facto de a ocorrência não configurar um “acidente grave”, nos termos do n.º 2 do Decreto-Lei n.º 393/2007, de 31 de dezembro, logo não ser de investigação obrigatória,
-― El hecho de que el suceso no constituya un «accidente grave», conforme al apartado 2 del Decreto-Ley n.º 393/2007, de 31 de diciembre, por lo que no es de investigación obligatoria,
-― Lacunas no processo existente para dar satisfação aos requisitos do Manual de Investigação do GPIAAF e às atuais boas práticas neste domínio, que não se mostra viável colmatar,
-― Las lagunas existentes en el proceso actual para satisfacer los requisitos del Manual de Investigación del GPIAAF y las buenas prácticas actuales en este ámbito, que no resulta viable subsanar,
-― O tempo entretanto decorrido desde a ocorrência,
-― El tiempo transcurrido desde el suceso,
-― As circunstâncias da ocorrência,
-― Las circunstancias del suceso,
-― O facto de não existirem novos ensinamentos de segurança a retirar da realização da investigação,
-― El hecho de que no existan nuevas lecciones de seguridad que extraer de la realización de la investigación,
-o GPIAAF decidiu encerrar o processo com a publicação do presente relatório dando conta dos factos apurados disponíveis, para memória futura, não fazendo qualquer análise ou apresentação de conclusões quanto às causas.
-el GPIAAF ha decidido cerrar el expediente con la publicación del presente informe, dando cuenta de los hechos establecidos disponibles, para memoria futura, sin realizar ningún análisis ni presentar conclusiones sobre las causas.
-Esta metodologia tem o acordo da Agência Ferroviária da União Europeia.
+― El hecho de que la incidencia no configure un «accidente grave», conforme al apartado 2 del Decreto-Ley n.º 393/2007, de 31 de diciembre, por lo que no es objeto de investigación obligatoria;
+― Las lagunas en el proceso existente para satisfacer los requisitos del Manual de Investigación del GPIAAF y las actuales buenas prácticas en este ámbito, que no se muestra viable subsanar;
+― El tiempo transcurrido desde la incidencia;
+― Las circunstancias de la incidencia;
+― El hecho de que no existan nuevos enseñamientos de seguridad que extraer de la realización de la investigación,
+
+el GPIAAF decidió cerrar el proceso con la publicación del presente informe dando cuenta de los hechos averiguados disponibles, para memoria futura, sin realizar análisis alguno ni presentar conclusiones sobre las causas del accidente.
+
 Esta metodología cuenta con el acuerdo de la Agencia Ferroviaria de la Unión Europea.
 
 ## Página 3
+
 
 ## 3- HECHOS INMEDIATOS DEL SUCESO
 El día 16-07-2017, el tren de mercancías n.º 51335 circulaba por la Línea del Norte en sentido sur-norte, habiendo partido de Entroncamento con destino a Gaia.
@@ -189,12 +184,84 @@ A las 17:29, cuando el tren pasaba por el apeadero de Avanca, el operador de apo
 Dicho reporte había sido realizado a las 07:17 por el maquinista del tren urbano N.º 15637 al CCO-Porto, órgano que a continuación contactó con el maquinista del tren intercity N.º 528, el siguiente en pasar por el lugar aunque en la vía contraria, para informar si observaba alguna anomalía, lo cual tuvo resultado negativo. Tras algunas dificultades para obtener el número de teléfono de servicio del operador de apoyo del tren de mercancías n.º 51335, el CCO-Porto procedió entonces a contactar con este.
 Ante el aviso recibido, la tripulación de dicho tren redobló la atención a la vía, manteniendo la velocidad ya que la instrucción del CCO-Porto no incluía ninguna indicación específica para reducir la velocidad, ni la tripulación entendió que existiera dicha necesidad ante la información recibida.
 
-
 ## Página 4
 
-Poco después de entrar en la curva que sigue a la estación de Válega, cuando circulaban a 99 km/h, la tripulación del tren visualizó a poca distancia una significativa deformación lateral de la vía («garrote»), habiendo aplicado el maquinista un golpe de freno, pero que naturalmente no tuvo ningún efecto en la reducción de la velocidad del tren hasta alcanzar el referido defecto.
-La tripulación sintió fuertes sacudidas laterales en la locomotora, que atravesó el defecto de la vía sin descarrilar, así como los cinco vagones siguientes. Sin embargo, debido a las fuerzas laterales y longitudinales impuestas a los rodados por la geometría de la vía y la dinámica del tren, descarrilaron el bogie delantero de los vagones que seguían en 6.ª y 8.ª posición y el descarrilamiento total de todos los vagones a partir del 10.º, tras lo cual el grupo de los últimos seis de estos se separó de la composición y se inmovilizó. La parte principal del tren se inmovilizó con la cabeza de la locomotiva al pk 297,596, sensiblemente 416 metros después del inicio del descarrilamiento. Entre esta parte del tren y el grupo de vagones que se separó distaban cerca de 70 metros.
-Tras la inmovilización a las 17:32, la tripulación constató inmediatamente el descarrilamiento y que un vagón invadía la vía descendente, habiendo activado de inmediato el maquinista la alarma de la radio suelo-tren, la cual no tuvo efecto por no estar disponible el sistema. Inmediatamente el operador de apoyo contactó con el CCO-Porto a través de su teléfono móvil de servicio informando del accidente, habiendo determinado dicho Centro parada inmediata a los trenes en aquella zona.
+Poco después de entrar en la curva que sigue a la
+Shortly after entering the turn following Válega
+estación de Válega, cuando circulaban a 99 km/h, la
+station at 99 km/h, the train crew visualised at short
+tripulación del tren visualizó a corta distancia
+distance a significant lateral deformation of the
+una
+significativa
+deformación
+lateral
+de
+la
+track ("buckle"), and the driver applied the brakes,
+vía
+("garrote"), habiendo el maquinista aplicado un golpe
+but which of course had no effect on reducing the
+de freno, pero que naturalmente no tuvo ningún
+train’s speed until it reached this defect.
+efecto en la reducción de la velocidad del tren hasta
+alcanzar dicho defecto.
+La tripulación sintió fuertes sacudidas laterales en
+The crew felt strong side bumps in the locomotive,
+la locomotora, que atravesó el defecto de la vía sin
+which went through the track buckle without
+descarrilarse, así como los cinco vagones siguientes. No
+derailing as well as the next five wagons. However,
+obstante, debido a las fuerzas laterales y longitudinales
+due to the lateral and longitudinal forces imposed
+impuestas a los rodados por la geometría de la vía y
+on the wheels by the track geometry and train
+dinámica del tren, descarrilaron el bogie de la
+dynamics, the front bogie of the wagons in 6th and
+parte delantera de los vagones que se encontraban en
+8th positions derailed and all wagons from 10th
+6.ª y 8.ª posición y el descarrilamiento total de todos
+completely derailed, after which the group of the
+los vagones a partir del 10.º, tras lo cual el grupo de
+last six of these separated from the train and
+los últimos seis de estos se separó del tren y se
+stopped. The main part of the train stopped with the
+inmovilizó. La parte principal del tren se inmovilizó con
+head
+of
+the
+locomotive
+at
+km
+297,596,
+la cabeza de la locomotora en el pk 297,596,
+approximately 416 meters after the initial point of
+aproximadamente 416 metros después del punto inicial
+derailment. Between this part of the train and the
+del descarrilamiento. Entre esta parte del tren y el
+group of wagons that separated there were about 70
+grupo de vagones que se separó había unos 70
+meters.
+metros.
+Tras la inmovilización a las 17:32, la tripulación
+After halting at 17:32, the crew immediately
+constató inmediatamente el descarrilamiento y que un
+realised the derailment and that one wagon
+vagón invadía la vía descendente, habiendo el
+invaded the down track, the driver immediately
+maquinista activado inmediatamente la alarma de radio
+triggering the ground-to-train radio alarm, which had
+suelo-tren, la cual no tuvo efecto porque el sistema no
+no effect because the system was not available.
+estaba disponible. Inmediatamente el segundo hombre
+Immediately the second-man contacted the CCO-Porto
+se puso en contacto con el CCO-Porto a través de su
+through his duty mobile phone informing of the
+teléfono móvil de servicio informando del accidente, y
+accident, and that Centre determined immediate stop
+dicho Centro determinó la parada inmediata a los trenes
+to the trains in that area.
+en esa zona.
 
 ## Página 5
 
@@ -208,14 +275,14 @@ Aveiro
 Salamanca
 PK 297,180 – Local 
 Guarda
-da deformação na 
+de la deformación en 
 Coimbra
-via e ponto de 
+la vía y punto de 
 Castelo 
 Leiria
-início do 
+inicio del 
 Branco
-descarrilamento 
+descarrilamiento 
 Elvas
 Badajoz
 LISBOA
@@ -229,55 +296,55 @@ Figura 1
 || 
 Figure 1 
 || 
-Localização do acidente e aspetos pós-evento 
+Localización del accidente y aspectos post-evento 
 Accident location and post-event scenery 
-Não houve danos pessoais nem na carga perigosa 
+No hubo daños personales ni en la carga peligrosa 
 There was no personal injury or damage to the 
-transportada. Houve uma perda marginal de estilha 
+transportada. Hubo una pérdida marginal de astillas 
 dangerous cargo carried. There was a marginal loss 
-de alguns vagões que se inclinaram. Na infraestrutura 
+de algunos vagones que se inclinaron. En la infraestructura 
 of wood chip from some wagons that leaned. About 
-foram danificados cerca de 250 metros da via 
+se dañaron aproximadamente 250 metros de la vía 
 250 meters of the up track, signalling equipment and 
 ascendente, 
-equipamentos 
+equipos 
 de 
-sinalização 
+señalización 
 e 
 catenary installations were damaged in the 
-instalações de catenária. A via descendente foi 
+instalaciones de catenaria. La vía descendente fue 
 infrastructure. The down track was also marginally 
-também marginalmente afetada. 
+también afectada marginalmente. 
 affected. 
-De imediato foram mobilizados os meios de socorro 
+Inmediatamente se movilizaron los medios de socorro 
 Immediately, the railway rescue services were 
-ferroviário para o local, nomeadamente dois veículos 
+ferroviario para el lugar, concretamente dos vehículos 
 deployed to the site, including two catenary 
-de conservação de catenária e um comboio de 
+de conservación de catenaria y un tren de 
 maintenance vehicles and a rescue train that arrived 
-socorro que chegou ao local às 19:19. 
+socorro que llegó al lugar a las 19:19. 
 at the site at 19:19. 
-A locomotiva e os cinco primeiros vagões foram 
+La locomotora y los cinco primeros vagones fueron 
 The locomotive and the first five wagons were towed 
-rebocados do local por uma locomotiva diesel, cerca 
+remolcados del lugar por una locomotora diésel, alrededor 
 from the site by a diesel locomotive, about 20:50. 
-das 20:50. 
-Entretanto, pelas 21:40 a via descendente foi aberta 
+de las 20:50. 
+Mientras tanto, a las 21:40 la vía descendente fue abierta 
 Meanwhile, at 21:40 the down track was opened to 
-à circulação, com restrição de velocidade a 10 km/h, 
+al tráfico, con restricción de velocidad a 10 km/h, 
 traffic, with a speed restriction of 10 km/h, allowing 
-processando-se o tráfego em via única temporária 
+procesándose el tráfico en vía única temporal 
 to establish temporary single-line working. 
 (VUT). 
-O vagão-guindaste Gy21 chegou ao local dos vagões 
+El vagón grúa Gy21 llegó al lugar de los vagones 
 The Gy21 crane wagon arrived at the site of the 
-descarrilados pelas 02:01 do dia 17, tendo o seu 
+descarrilados a las 02:01 del día 17, habiendo su 
 derailed wagons at 02:01 on the following day, and 
-carrilamento ficado concluído às 21:22. 
-rerailing was completed at 21:22. 
-
+encaje concluido a las 21:22. 
+rerailing was completed at 21:22.
 
 ## Página 6
+
 
 Os trabalhos de reparação da via ficaram concluídos 
 Track repair work was completed at 04:30 on the 
@@ -373,6 +440,7 @@ follows:
 1 sleeper not replaced
 
 ## Página 7
+
 
 ― 
 4 
@@ -501,109 +569,125 @@ barra larga soldada tras el fin de los trabajos, con
 particular atenção durante o período de maior 
 especial atención durante el periodo de mayor 
 calor. 
-calor. 
+calor.
 
 ## Página 8
 
-## 5- MATERIAL CIRCULANTE 
-## 5- MATERIAL RODANTE 
-Feita a peritagem ao material circulante, não foram 
-Realizada la inspección técnica del material rodante, no se 
-encontradas anomalias que possam ter causado ou 
-encontraron anomalías que puedan haber causado o 
-contribuído para o acidente. 
-contribuido al accidente.  
-### Registos taquimétricos 
-### Registros taquimétricos 
-O CONVEL encontrava-se em serviço, sendo possível 
-El ATP estaba en servicio, siendo posible la 
-a posterior leitura das ações efetuadas nos 
-lectura posterior de las acciones efectuadas en los 
-momentos que precederam o descarrilamento, 
-momentos que precedieron al descarrilamiento, y se 
-tendo sido constatado que as velocidades máximas 
-constató que las velocidades máximas admitidas 
-admitidas não foram excedidas. 
-no fueron superadas. 
-### Sistema rádio solo-comboio 
-### Sistema radio tierra-tren 
-A peritagem ao sistema revelou que o posto móvel 
-La inspección técnica del sistema reveló que el equipo móvil 
-instalado na locomotiva 4706 não se encontrava 
-instalado en la locomotora 4706 no estaba 
-registado na infraestrutura fixa do sistema na altura 
-registrado en la infraestructura fija del sistema en el momento 
-da ocorrência. Desta forma a locomotiva não 
-del suceso. De esta forma, la locomotora no 
-conseguia estabelecer comunicação com o CCO nem 
-podía establecer comunicación con el CCO ni 
-enviar ou receber alarmes ou mensagens de estado.  
-enviar o recibir alarmes o mensajes de estado.  
-Os ensaios efetuados detetaram que o problema teve 
-Los ensayos realizados detectaron que el problema tuvo 
-origem num erro de software do posto móvel, tendo 
-su origen en un error de software del equipo móvil, habiéndose 
-sido apurado que nessa data existiam 34 postos 
-determinado que en esa fecha existían 34 equipos 
-móveis com a mesma versão errada do software. 
-móviles con la misma versión incorrecta del software. 
-## 6- AÇÕES RELEVANTES TOMADAS 
-## 6- ACCIONES RELEVANTES TOMADAS 
-Para apuramento de causas e responsabilidades 
-Para el esclarecimiento de causas y responsabilidades 
-quanto ao descarrilamento ocorrido, foi nomeada a 
-respecto al descarrilamiento ocurrido, fue nombrada el 
-19-06-2010, pelo Gestor da Infraestrutura, uma 
-19-06-2010, por el Gestor de la Infraestructura, una 
-Comissão de Inquérito constituída por técnicos das 
-Comisión de Investigación compuesta por técnicos de las 
-empresas envolvidas, que emitiu relatório final a 
-empresas involucradas, que emitió informe final el 
-04-10-2010. 
-Este 
-revelava 
-discordâncias 
-nas 
-04-10-2010. Este revelaba discrepancias en las 
-conclusões e recomendações entre os seus membros 
-conclusiones y recomendaciones entre sus miembros 
-no que respeita ao entendimento ou não de haver 
-respecto a si había o no procedimientos erróneos por parte de las 
-procedimentos errados pelas tripulações e agentes 
-tripulaciones y agentes del CCO en lo relativo a los reportes de las 
-do CCO no que respeita aos reportes das anomalias 
-anomalías percibidas en la vía y las acciones correspondientes. 
-na via sentidas e ações correspondentes. 
-Como 
-causa 
-direta 
-do 
-descarrilamento, 
-foi 
-Como causa directa del descarrilamiento, fue 
-incontroversa a existência do defeito na geometria 
-incontrovertida la existencia del defecto en la geometría 
-da via, sem mais considerações quanto à sua origem. 
-de la vía, sin más consideraciones respecto a su origen.
+
+## 5- MATERIAL RODANTE
+## 5- ROLLING STOCK
+De la inspección al material rodante, no se
+From the inspection to the rolling stock, no defects
+encontraron anomalías que pudieran haber causado o
+were found that could have caused or contributed to
+contribuido al accidente.
+the accident.
+
+### Registros taquimétricos
+### Tachymetric registers
+El sistema ATP se encontraba en servicio, siendo posible
+The ATP system was in service, being possible the
+la lectura posterior de las acciones realizadas en los
+subsequent reading of the actions carried out in the
+momentos que precedieron al descarrilamiento, y se
+moments that preceded the derailment, and it was
+constató que no se excedieron las velocidades máximas
+found that the maximum allowed speeds were not
+admitidas.
+exceeded.
+
+### Sistema de radio tren-tierra
+### Ground-to-train radio system
+La peritaje del sistema reveló que la estación móvil
+The expertise to the system revealed that the mobile
+instalada en la locomotora 4706 no se encontraba
+station installed in locomotive 4706 was not
+registrada en la infraestructura fija del sistema en el
+registered in the fixed infrastructure of the system
+momento de la ocurrencia. Por ello, la locomotora
+at the time of occurrence. Thus, the locomotive
+no podía establecer comunicación con el CCO ni
+could not establish communication with the CCO nor
+enviar ni recibir alarmas ni mensajes de estado.
+send or receive alarms or status messages.
+
+Las pruebas realizadas detectaron que el problema
+The tests carried out found that the problem
+tuvo su origen en un error de software de la estación
+originated in a software error on the mobile station
+móvil, y se determinó que en esa fecha existían 34
+and that on that date there were 34 mobile stations
+estaciones móviles con la misma versión incorrecta del
+with the same wrong version of the software.
+software.
+
+## 6- ACCIONES RELEVANTES TOMADAS
+## 6- RELEVANT ACTIONS TAKEN
+
+Para la determinación de las causas y responsabilidades
+For the inquiry into the causes and responsibilities of
+del descarrilamiento ocurrido, el 19-06-2010, el Gestor
+the accident, on 19-06-2010 the Infrastructure
+de la Infraestructura nombró una Comisión de
+Manager set up a commission composed of
+Investigación constituida por técnicos de las empresas
+technicians from the involved companies, which
+involucradas, que emitió su informe final el
+issued its report on 04-10-2010. This revealed
+04-10-2010. Este
+revelaba
+discordancias
+en
+disagreements
+in
+the
+conclusions
+and
+las conclusiones y recomendaciones entre sus miembros
+recommendations among its members as to whether
+en lo que respecta a la existencia o no de procedimientos
+or not there were wrong procedures by the trains’
+errados por las tripulaciones y los agentes del CCO
+crews and CCO agents with regard to reporting of
+en lo que respecta a la notificación de las anomalías
+perceived anomalies on the track and corresponding
+percibidas en la vía y las acciones correspondientes.
+actions.
+
+Como causa directa del descarrilamiento, fue
+As the direct cause of the derailment, it was
+incontroversa la existencia del defecto en la geometría
+uncontroversial the existence of the defect in the
+de la vía, sin más consideraciones sobre su origen.
+track’s geometry, without further consideration as
+to its origin.
 
 ## Página 9
 
-En lo que respecta al defecto en la vía, la comisión de investigación acordó y propuso las siguientes recomendaciones en su informe:
-1. Al contratista:
-― Asegurar y garantizar la competencia técnica para la realización de la actividad de mantenimiento;
-― Garantizar que todo el personal con responsabilidades en los trabajos conozca y cumpla las condiciones técnicas y normativas para el desarrollo de la actividad de mantenimiento.
-2. Al gestor de infraestructura:
-― Adecuar el seguimiento técnico de las acciones de mantenimiento en lo que respecta a la forma en que se elaboran y aprueban los programas de trabajo, en particular en el análisis riguroso de la naturaleza de las acciones y sus respectivas medidas de seguridad;
-― Dotación de recursos humanos para la estructura de “Supervisión de obras”;
-― Análisis de las competencias de los recursos humanos para la actividad de mantenimiento;
-― Implementación de un documento que acredite la aptitud para el desarrollo de la actividad de mantenimiento, aplicable también al prestador de servicios;
-― Verificar la necesidad de una eventual actualización de la normativa relativa al mantenimiento de vía, su compilación y difusión.
-No hay información en el expediente sobre si estas propuestas fueron aceptadas.
-En lo que respecta al error de software en el sistema de radio tierra-tren, la situación fue corregida con la instalación de la nueva versión de software en los 34 puestos móviles afectados, trabajo que quedó concluido en octubre de 2010.
-Lisboa, diciembre de 2023
+En lo que respecta al defecto de la vía, el comité de investigación acordó y propuso las siguientes recomendaciones en su informe:
 
+1. Al contratista:
+   - Asegurar y garantizar la competencia técnica para la realización de la actividad de mantenimiento;
+   - Garantizar que todo el personal con responsabilidades en los trabajos tenga conocimiento y cumpla con las condiciones técnicas y normativas para la ejecución de las labores de mantenimiento.
+
+2. Al gestor de la infraestructura:
+   - Ajustar el seguimiento técnico de las acciones de mantenimiento en lo que respecta a la forma en que se elaboran y aprueban los programas de trabajo, en particular en el análisis riguroso de la naturaleza de las acciones y de sus medidas de seguridad;
+   - Asignación de recursos humanos para la estructura "Supervisión de los trabajos";
+   - Análisis de las competencias del personal para la actividad de mantenimiento;
+   - Implementación de un documento que acredite la aptitud para el desarrollo de la actividad de mantenimiento, que se aplicará también al prestador de servicios;
+   - Verificar la necesidad de cualquier actualización de la normativa relativa al mantenimiento de la vía, así como su compilación y difusión.
+
+No hay información en el expediente sobre si estas propuestas fueron acogidas.
+
+En lo que respecta al error de software en el sistema de radio entre tierra y tren, la situación se corrigió mediante la instalación de una nueva versión de software en las 34 estaciones móviles afectadas, trabajo que se completó en octubre de 2010.
+
+Lisboa, diciembre de 2023
+Lisboa, diciembre de 2023
 
 ## Página 10
 
-De conformidad con el Decreto-ley n.º 394/2007, la investigación de seguridad y los informes correspondientes no tienen por objeto el esclarecimiento de culpas ni la determinación de responsabilidades.
-### Este informe factual ha sido preparado, únicamente, a efectos de prevención de accidentes. Su uso para otro fin puede conducir a conclusiones erróneas.
+
+De conformidad con el Decreto-ley n.º 394/2007, la investigación de seguridad y los informes correspondientes no tienen por objeto determinar culpas ni establecer responsabilidades.
+### Este informe factual se ha elaborado únicamente a efectos de prevención de accidentes. Su uso para otros fines puede conducir a conclusiones erróneas.
+De conformidad con la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y la legislación nacional, no es el objetivo de ninguna investigación de seguridad ni de los informes asociados atribuir culpas o responsabilidades.
+### El único objetivo de este informe es difundir lecciones que puedan ayudar a prevenir futuros accidentes. Su uso para otros fines puede conducir a conclusiones incorrectas.

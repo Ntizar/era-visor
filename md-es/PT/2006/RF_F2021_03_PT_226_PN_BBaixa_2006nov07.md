@@ -10,13 +10,13 @@ chars: 14528
 ratio_longitud: 0.78
 tokens_in: 11227
 tokens_out: 5472
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 2: ratio 1.60", "página 6: cifras largas: faltan 1/3 (33%)", "página 7: ratio 1.61"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/7; cifras cortas: 3/10", "página 4: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 3/11", "página 5: original bilingüe: se compara contra el idioma principal (EN)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 RFR 
 TRANSPORTE FERROVIÁRIO 
@@ -159,95 +159,24 @@ Valor dos danos materiais:
 Cost of damage: 
 Social cost of delays and suppressions: 
 1/7 
-RELATÓRIO FACTUAL || INFORME FACTUAL F2021/03     
-
+RELATÓRIO FACTUAL || INFORME FACTUAL F2021/03
 
 ## Página 2
 
-## 2- NOTA SOBRE A INVESTIGAÇÃO 
-## 2- NOTA SOBRE LA INVESTIGACIÓN 
-O processo de investigação foi aberto pelo extinto 
-El proceso de investigación fue abierto por el ya 
-Instituto Nacional do Transporte Ferroviário (INTF), 
-desaparecido Instituto Nacional del Transporte 
-tendo o acidente sido notificado à Agência 
-Ferroviario (INTF), habiéndose notificado el 
-Ferroviária Europeia e aberta a correspondente 
-accidente a la Agencia Ferroviaria Europea y 
-entrada na base de dados ERAIL. 
-habiendo abierto la entrada correspondiente en la 
-base de datos ERAIL. 
-O INTF procedeu à investigação, tendo produzido 
-El INTF llevó a cabo la investigación, produciendo 
-um relatório que transitou para o ex-GISAF, 
-un informe que fue transferido al antiguo GISAF, 
-entretanto constituído em 2008. Considerando que 
-constituido entre tanto en 2008. Considerando que 
-a investigação não havia sido realizada por uma 
-la investigación no había sido realizada por un 
-entidade independente, conforme requerido pela 
-organismo independiente, según lo requerido por la 
-Diretiva Europeia relativa à segurança ferroviária, 
-Directiva europea relativa a la seguridad ferroviaria, 
-e que o referido relatório não estava em 
-y que dicho informe no cumplía los requisitos 
-conformidade com os requisitos legais e boas 
-legales ni las buenas prácticas en esta materia, no 
-práticas nesta matéria, o referido relatório não 
-estaba en condiciones de ser homologado por el 
-estava em condições de ser homologado pelo 
-director del antiguo GISAF, ni aquel Gabinete 
-diretor do ex-GISAF, nem aquele Gabinete 
-disponía de los medios necesarios para la realización 
-dispunha dos meios necessários para a realização 
-de una nueva investigación. 
-de nova investigação. 
-Assim e tendo em conta: 
-Por lo tanto, y teniendo en cuenta: 
-― O facto de a ocorrência não configurar um 
-― El hecho de que el suceso no constituya un 
-“acidente grave”, nos termos do n.º 2 do 
-“accidente grave”, en los términos del apartado 2 
-Decreto-Lei n.º 393/2007, de 31 de dezembro, 
-del Decreto-Ley n.º 393/2007, de 31 de diciembre, 
-logo não ser de investigação obrigatória, 
-por lo que no es de investigación obligatoria, 
-― Lacunas no processo existente para dar satisfação 
-― La existencia de lagunas en el proceso existente 
-aos requisitos do Manual de Investigação do 
-para satisfacer los requisitos del Manual de 
-GPIAAF e às atuais boas práticas neste domínio, 
-Investigación del GPIAAF y las actuales buenas 
-que não se mostra viável colmatar, 
-prácticas en este ámbito, que no resulta viable 
-subsanar, 
-― O tempo entretanto decorrido desde a 
-― El tiempo transcurrido desde el 
-ocorrência, 
-suceso, 
-― O facto de não existirem novos ensinamentos 
-― El hecho de que no existan nuevos 
-relevantes de segurança a retirar da realização 
-enseñamientos relevantes de seguridad que extraer 
-da investigação, 
-de la realización de la investigación, 
-o GPIAAF decidiu encerrar o processo com a 
-el GPIAAF ha decidido cerrar el expediente con la 
-publicação do presente relatório dando conta dos 
-publicación del presente informe dando cuenta de 
-factos apurados disponíveis e das medidas tomadas, 
-los hechos establecidos disponibles y de las 
-para memória futura, não fazendo qualquer análise 
-medidas adoptadas, para memoria futura, sin 
-ou apresentação de conclusões quanto às causas. 
-realizar análisis alguno ni presentar conclusiones 
-respecto a las causas. 
-Esta metodologia tem o acordo da Agência 
-Esta metodología cuenta con el acuerdo de la 
-Ferroviária da União Europeia. 
-Agencia Ferroviaria de la Unión Europea.
+
+## 2- NOTA SOBRE LA INVESTIGACIÓN
+El proceso de investigación fue iniciado por el extinto Instituto Nacional del Transporte Ferroviario (INTF), habiéndose notificado el accidente a la Agencia Ferroviaria Europea y abierto la correspondiente entrada en la base de datos ERAIL.
+El INTF procedió a la investigación, elaborando un informe que fue remitido al ex-GISAF, constituido entre tanto en 2008. Considerando que la investigación no había sido realizada por una entidad independiente, conforme a lo requerido por la Directiva Europea relativa a la seguridad ferroviaria, y que dicho informe no cumplía con los requisitos legales ni con las buenas prácticas en esta materia, el referido informe no estaba en condiciones de ser homologado por el director del ex-GISAF, ni aquel Gabinete disponía de los medios necesarios para la realización de una nueva investigación.
+Así pues, y teniendo en cuenta:
+― El hecho de que la incidencia no constituya un «accidente grave», según lo dispuesto en el apartado 2 del Decreto-Ley n.º 393/2007, de 31 de diciembre, por lo que no es de investigación obligatoria;
+― Las lagunas existentes en el expediente actual para dar satisfacción a los requisitos del Manual de Investigación del GPIAAF y a las actuales buenas prácticas en este ámbito, que no se muestran viables de subsanar;
+― El tiempo transcurrido desde la incidencia;
+― El hecho de que no existan nuevos aprendizajes relevantes en materia de seguridad que extraer de la realización de la investigación,
+el GPIAAF decidió cerrar el expediente mediante la publicación del presente informe, dando cuenta de los hechos averiguados disponibles y de las medidas adoptadas, para memoria futura, sin realizar ningún análisis ni presentar conclusiones respecto a las causas.
+Esta metodología cuenta con el acuerdo de la Agencia Ferroviaria de la Unión Europea.
 
 ## Página 3
+
 
 ## 3- HECHOS INMEDIATOS DEL SUCESO
 El día 6 de noviembre de 2006 a las 05:26, en el paso a nivel automatizado situado en el pk 62,542 de la Linha da Beira Baixa, entre las estaciones de Fratel y Rodão, el tren regional de pasajeros n.º 25625 con destino a Castelo Branco colisionó con un vehículo automóvil ligero de mercancías.
@@ -286,6 +215,7 @@ La colisión se produjo en el lateral izquierdo del automóvil, habiendo sido ar
 
 ## Página 4
 
+
 Tras el accidente, la tripulación comunicó la incidencia a la gestión de tráfico vía radio suelo-tren, contactó por teléfono móvil con el 112 solicitando los medios de emergencia y tomó las demás acciones de su competencia. En concreto, el ORV hizo encaminar a los pasajeros hacia el último vehículo de la UTE, único fuera del túnel, de modo a permitir su transbordo.
 
 Estuvieron presentes en el lugar los Bomberos Voluntarios y la Guarda Nacional Republicana de Vila Velha de Rodão, así como el INEM de Castelo Branco.
@@ -306,6 +236,7 @@ La carretera municipal 1373 atraviesa la vía férrea a través del PN formando 
 
 ## Página 5
 
+
 El pavimento del paso a nivel estaba constituido por traviesas de madera en buen estado de conservación, formando un cruce con una anchura no inferior a la de las vías de acceso.
 El paso a nivel estaba equipado con semibarreras, señalización luminosa y acústica (luces rojas intermitentes y campanillas), así como con dos carteles de aviso con las inscripciones "PARE ao sinal vermelho" [PARE ante la luz roja] e indicación del número de teléfono para utilizar en caso de espera prolongada.
 En este tipo de paso a nivel automatizado, al aproximarse una circulación ferroviaria y con la antelación fijada en la legislación, los focos luminosos del paso a nivel se encienden con luz roja intermitente, las campanillas comienzan a sonar, y las semibarreras bajan, imponiendo a los usuarios de la vía rodoviaria la prohibición absoluta de cruzar el paso a nivel.
@@ -322,28 +253,86 @@ Del lado de aproximación del tren no existía placa indicadora de aviso sonoro 
 
 ## Página 6
 
-## 5- FUNCIONAMIENTO DE LOS EQUIPOS ## 5- FUNCTIONING OF THE EQUIPMENT
-### Sistemas del paso a nivel ### Level crossing systems
-El informe del sistema remoto de monitorización del paso a nivel indicó que no se registró ninguna anomalía en los equipos previa al accidente.
-En el análisis del registrador de eventos del paso a nivel se verificó que los sistemas funcionaron conforme a lo esperado en el momento de la ocurrencia, habiéndose desencadenado normalmente el anuncio a la aproximación del tren, estando, por tanto, activadas las señales luminosas y acústicas, así como las semibarreras bajadas, prohibiendo el cruce del paso a nivel a los vehículos rodoviarios.
-### Material rodante ### Rolling stock
-El informe de la unidad de registro de la UTE 2261 evidencia que el vehículo ferroviario se comportó conforme a lo esperado.
-La bocina fue accionada durante dos segundos a unos 77 m del paso a nivel. En ese mismo instante, a una velocidad de 72 km/h, se aplicó el freno hasta el apriete máximo. Tras la colisión, el tren recorrió unos 80 m hasta inmovilizarse.
-La velocidad de aproximación y cruce del paso a nivel fue inferior a la máxima permitida por el tipo de tren (T-120) y por la infraestructura (90 km/h).
-### Vehículo rodoviario ### Road vehicle
-No existen en el expediente elementos que permitan identificar el motivo por el cual el vehículo se encontraba inmovilizado sobre el paso a nivel.
-## 6- OCURRENCIAS ANTERIORES ## 6- PREVIOUS OCCURRENCES
-De acuerdo con la información del gestor de la infraestructura, no se registró en los cinco años anteriores al accidente ningún otro accidente en el paso a nivel.
-## 7- ACCIONES RELEVANTES TOMADAS ## 7- RELEVANT ACTIONS TAKEN
-Considerando las circunstancias del accidente, de él no derivó ninguna acción directa.
+## 5- FUNCIONAMIENTO DE LOS EQUIPOS
+## 5- FUNCTIONING OF THE EQUIPMENT
+### Sistemas del paso a nivel
+### Level crossing systems
+El registro del sistema de monitorización remota del
+The log of the LC's remote monitoring system
+PN indicó que no se registró ninguna anomalía
+indicated that there was no anomaly in the
+en los equipos, previa al accidente.
+equipment, prior to the accident.
+En el análisis del registrador de eventos del PN
+The LC event recorder evidenced that the systems
+se verificó que los sistemas funcionaron conforme
+worked as expected at the time of the occurrence,
+a lo esperado en el momento de la ocurrencia, y que
+and that the announcement was normally triggered
+el anuncio se activó normalmente al aproximarse el
+when the train approached, and therefore the light
+tren, activándose por tanto las señales luminosa y
+and acoustic signals were activated, as well as the
+acústica, así como las barreras semibarreras,
+half barriers lowered, banning the crossing of the LC
+prohibiendo el cruce del PN a los vehículos
+to road vehicles.
+rodoviários.
+### Material rodante
+### Rolling stock
+El registro del registrador de eventos de la UTE 2261
+EMU 2261 event recorder log shows that it behaved
+evidencia que el vehículo ferroviario se comportó
+as expected.
+conforme a lo esperado.
+La bocina se activó durante dos segundos a unos
+The horn was sounded for two seconds 77 m before
+77 m del PN. En ese mismo instante, a una
+the LC. At the same time, at a speed of 72 km/h, the
+velocidad de 72 km/h, se aplicó el freno hasta el
+brakes were fully applied. The train stopped 80 m
+apriete máximo. Tras la colisión, el tren recorrió
+further away.
+unos 80 m hasta detenerse.
+La velocidad de aproximación y cruce del PN fue
+The speed of approach and crossing the LC was below
+inferior a la máxima permitida para el tipo de tren
+the maximum allowed, both for the type of train
+(T-120) y para la infraestructura (80 km/h).
+(T-120) and for the infrastructure (90 km/h).
+### Vehículo rodoviário
+### Road vehicle
+No existen en el expediente elementos que permitan
+There is no information in the file that allows to
+identificar el motivo por el cual el vehículo se
+identify the reason why the vehicle was stopped over
+encontraba inmovilizado sobre la vía.
+the track.
+## 6- OCURRENCIAS PREVIAS
+## 6- PREVIOUS OCCURRENCES
+De acuerdo con la información del gestor de la
+According to information from the infrastructure
+infraestructura, no se registró en los cinco años
+manager, there was no accident at the LC in the five
+anteriores al accidente ningún otro accidente en el
+years prior to this accident.
+PN.
+## 7- ACCIONES RELEVANTES TOMADAS
+## 7- RELEVANT ACTIONS TAKEN
+Considerando las circunstancias del accidente, de él
+Considering the circumstances of the event, no
+no se derivó ninguna acción directa.
+direct action resulted from it.
 
 ## Página 7
 
-Entretanto, o estrado em travessas de madeira foi substituído por material sintético com melhores características de aderência. Também a via rodoviária foi beneficiada, mantendo-se a passagem de nível em operação.
-In the meantime, the LC pavement was changed from wood sleepers to synthetic boards giving better adhesion. Also the road approaches were improved. The level crossing is kept active.
-Lisboa, dezembro de 2021
-Lisbon, December 2021
-Em conformidade com o Decreto-lei n.º 394/2007, a investigação de segurança e os relatórios correspondentes não têm por objetivo o apuramento de culpas ou a determinação de responsabilidades.
-In accordance with Directive (EU) 2016/798 of the European Parliament and of the Council, and national legislation, it is not the purpose of any safety investigation and associated reports to apportion blame or liability.
-### Este relatório factual foi preparado, somente, para efeitos de prevenção de acidentes. O seu uso para outro fim pode conduzir a conclusões erradas.
-### The only aim of this report is to disseminate lessons which may help to prevent future accidents. Its use for other purposes may lead to incorrect conclusions.
+
+Mientras tanto, el firme de la LC se sustituyó por tableros sintéticos con mejores características de adherencia. También se mejoraron los accesos a la vía. El paso a nivel se mantiene en servicio.
+Lisboa, diciembre de 2021
+Lisboa, diciembre de 2021
+
+De conformidad con el Decreto-ley n.º 394/2007, la investigación de seguridad y los informes correspondientes no tienen por objeto determinar culpas ni establecer responsabilidades.
+De conformidad con la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y la legislación nacional, no es objetivo de ninguna investigación de seguridad ni de los informes asociados determinar culpas ni establecer responsabilidades.
+
+### Este informe fáctico se ha elaborado únicamente a efectos de prevención de accidentes. Su uso para otros fines puede llevar a conclusiones erróneas.
+### El único objetivo de este informe es difundir las lecciones que puedan ayudar a prevenir futuros accidentes. Su uso para otros fines puede llevar a conclusiones erróneas.

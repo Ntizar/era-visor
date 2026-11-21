@@ -1,0 +1,1002 @@
+{
+ "md/IT/2005/RELAZIONE-031205.md": {
+  "fichero": "md/IT/2005/RELAZIONE-031205.md",
+  "estado": "ya"
+ },
+ "md/IT/2008/Potenza 08.08.08 SENZA nomi.md": {
+  "fichero": "md/IT/2008/Potenza 08.08.08 SENZA nomi.md",
+  "estado": "ya"
+ },
+ "md/IT/2008/RELAZIONE MOTTA S.ANASTASIA.md": {
+  "fichero": "md/IT/2008/RELAZIONE MOTTA S.ANASTASIA.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 69306,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 24275,
+  "tokens_out": 17160,
+  "destino": "md-es/IT/2008/RELAZIONE MOTTA S.ANASTASIA.md"
+ },
+ "md/IT/2008/Recommendations-EN-01092008.md": {
+  "fichero": "md/IT/2008/Recommendations-EN-01092008.md",
+  "estado": "ya"
+ },
+ "md/IT/2008/Report-080808.md": {
+  "fichero": "md/IT/2008/Report-080808.md",
+  "estado": "ya"
+ },
+ "md/IT/2008/Report-Ancona-030608.md": {
+  "fichero": "md/IT/2008/Report-Ancona-030608.md",
+  "estado": "ya"
+ },
+ "md/IT/2009/Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md": {
+  "fichero": "md/IT/2009/Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 119932,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 41727,
+  "tokens_out": 30542,
+  "destino": "md-es/IT/2009/Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md"
+ },
+ "md/IT/2009/Report Anagni-24012009.md": {
+  "fichero": "md/IT/2009/Report Anagni-24012009.md",
+  "estado": "ya"
+ },
+ "md/IT/2009/Viareggio_accident-29062009.md": {
+  "fichero": "md/IT/2009/Viareggio_accident-29062009.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 290468,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 101888,
+  "tokens_out": 73392,
+  "destino": "md-es/IT/2009/Viareggio_accident-29062009.md"
+ },
+ "md/IT/2009/Viareggio_accident_29.06.09___Final_report.md": {
+  "fichero": "md/IT/2009/Viareggio_accident_29.06.09___Final_report.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 290219,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 104043,
+  "tokens_out": 74914,
+  "destino": "md-es/IT/2009/Viareggio_accident_29.06.09___Final_report.md"
+ },
+ "md/IT/2010/IT 04.11.2010 Relazione pubblicata.md": {
+  "fichero": "md/IT/2010/IT 04.11.2010 Relazione pubblicata.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 24936,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 9333,
+  "tokens_out": 7097,
+  "destino": "md-es/IT/2010/IT 04.11.2010 Relazione pubblicata.md"
+ },
+ "md/IT/2010/IT 12.06.2010 RELAZIONE.md": {
+  "fichero": "md/IT/2010/IT 12.06.2010 RELAZIONE.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 47961,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 18363,
+  "tokens_out": 13347,
+  "destino": "md-es/IT/2010/IT 12.06.2010 RELAZIONE.md"
+ },
+ "md/IT/2010/Relazione finale d'indagine sull'incidente di Vipiteno-04112010.md": {
+  "fichero": "md/IT/2010/Relazione finale d'indagine sull'incidente di Vipiteno-04112010.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 123705,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 53406,
+  "tokens_out": 41813,
+  "destino": "md-es/IT/2010/Relazione finale d'indagine sull'incidente di Vipiteno-04112010.md"
+ },
+ "md/IT/2011/Final_report-150111.md": {
+  "fichero": "md/IT/2011/Final_report-150111.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 49414,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 17670,
+  "tokens_out": 13186,
+  "destino": "md-es/IT/2011/Final_report-150111.md"
+ },
+ "md/IT/2011/NAPOLI_CLE-310711.md": {
+  "fichero": "md/IT/2011/NAPOLI_CLE-310711.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 45483,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 16699,
+  "tokens_out": 11132,
+  "destino": "md-es/IT/2011/NAPOLI_CLE-310711.md"
+ },
+ "md/IT/2011/RELAZIONE_finale-221111.md": {
+  "fichero": "md/IT/2011/RELAZIONE_finale-221111.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 128153,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 45298,
+  "tokens_out": 31512,
+  "destino": "md-es/IT/2011/RELAZIONE_finale-221111.md"
+ },
+ "md/IT/2011/Relazione-090611.md": {
+  "fichero": "md/IT/2011/Relazione-090611.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 66955,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 25821,
+  "tokens_out": 18341,
+  "destino": "md-es/IT/2011/Relazione-090611.md"
+ },
+ "md/IT/2011/Relazione_incidente_ferroviario_linea_M_i_del_27_01_2011.md": {
+  "fichero": "md/IT/2011/Relazione_incidente_ferroviario_linea_M_i_del_27_01_2011.md",
+  "estado": "revisar",
+  "idioma": "??",
+  "chars": 31203,
+  "ratio": 1.02,
+  "avisos": [
+   "bloque 5: cifras largas: faltan 4/16 (25%)"
+  ],
+  "tokens_in": 13423,
+  "tokens_out": 9761,
+  "destino": "md-es/IT/2011/Relazione_incidente_ferroviario_linea_M_i_del_27_01_2011.md"
+ },
+ "md/IT/2011/Relazione_indagine_Roma-Firenze-070611.md": {
+  "fichero": "md/IT/2011/Relazione_indagine_Roma-Firenze-070611.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 28998,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 9468,
+  "tokens_out": 6527,
+  "destino": "md-es/IT/2011/Relazione_indagine_Roma-Firenze-070611.md"
+ },
+ "md/IT/2011/Report-080511.md": {
+  "fichero": "md/IT/2011/Report-080511.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 30666,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 11287,
+  "tokens_out": 8379,
+  "destino": "md-es/IT/2011/Report-080511.md"
+ },
+ "md/IT/2011/Report-240911-recommendations.md": {
+  "fichero": "md/IT/2011/Report-240911-recommendations.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 3365,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 1396,
+  "tokens_out": 853,
+  "destino": "md-es/IT/2011/Report-240911-recommendations.md"
+ },
+ "md/IT/2011/Report-240911.md": {
+  "fichero": "md/IT/2011/Report-240911.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 60390,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 21239,
+  "tokens_out": 15320,
+  "destino": "md-es/IT/2011/Report-240911.md"
+ },
+ "md/IT/2011/raccomandazioni-221111.md": {
+  "fichero": "md/IT/2011/raccomandazioni-221111.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 3630,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 1481,
+  "tokens_out": 938,
+  "destino": "md-es/IT/2011/raccomandazioni-221111.md"
+ },
+ "md/IT/2012/BRESSA~1.md": {
+  "fichero": "md/IT/2012/BRESSA~1.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 168112,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 68272,
+  "tokens_out": 52473,
+  "destino": "md-es/IT/2012/BRESSA~1.md"
+ },
+ "md/IT/2012/Final_report-310312.md": {
+  "fichero": "md/IT/2012/Final_report-310312.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 80568,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 29929,
+  "tokens_out": 22451,
+  "destino": "md-es/IT/2012/Final_report-310312.md"
+ },
+ "md/IT/2012/RELAZIONE_INDAGINE-260412.md": {
+  "fichero": "md/IT/2012/RELAZIONE_INDAGINE-260412.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 84307,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 32757,
+  "tokens_out": 25079,
+  "destino": "md-es/IT/2012/RELAZIONE_INDAGINE-260412.md"
+ },
+ "md/IT/2012/Raccomandazione_DGIF_n1-260412.md": {
+  "fichero": "md/IT/2012/Raccomandazione_DGIF_n1-260412.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 3861,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 1604,
+  "tokens_out": 1052,
+  "destino": "md-es/IT/2012/Raccomandazione_DGIF_n1-260412.md"
+ },
+ "md/IT/2012/Raccomandazioni_DGIF-260412.md": {
+  "fichero": "md/IT/2012/Raccomandazioni_DGIF-260412.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 3378,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 1391,
+  "tokens_out": 813,
+  "destino": "md-es/IT/2012/Raccomandazioni_DGIF-260412.md"
+ },
+ "md/IT/2012/Recommendations-290212.md": {
+  "fichero": "md/IT/2012/Recommendations-290212.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 2054,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 1070,
+  "tokens_out": 504,
+  "destino": "md-es/IT/2012/Recommendations-290212.md"
+ },
+ "md/IT/2012/Recommendations-310312.md": {
+  "fichero": "md/IT/2012/Recommendations-310312.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 4358,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 1650,
+  "tokens_out": 1042,
+  "destino": "md-es/IT/2012/Recommendations-310312.md"
+ },
+ "md/IT/2012/Relazione_Indagine_Ravenna-290212.md": {
+  "fichero": "md/IT/2012/Relazione_Indagine_Ravenna-290212.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 61677,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 21073,
+  "tokens_out": 15118,
+  "destino": "md-es/IT/2012/Relazione_Indagine_Ravenna-290212.md"
+ },
+ "md/IT/2012/Relazione_incidente_Rossano_241112.md": {
+  "fichero": "md/IT/2012/Relazione_incidente_Rossano_241112.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 46828,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 19482,
+  "tokens_out": 13401,
+  "destino": "md-es/IT/2012/Relazione_incidente_Rossano_241112.md"
+ },
+ "md/IT/2012/Relazione_incidente_ferroviario_Bari-210912.md": {
+  "fichero": "md/IT/2012/Relazione_incidente_ferroviario_Bari-210912.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 103868,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 37306,
+  "tokens_out": 25639,
+  "destino": "md-es/IT/2012/Relazione_incidente_ferroviario_Bari-210912.md"
+ },
+ "md/IT/2012/Relazione_incidente_ferroviario_Cisterno-240912.md": {
+  "fichero": "md/IT/2012/Relazione_incidente_ferroviario_Cisterno-240912.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 114425,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 44886,
+  "tokens_out": 31249,
+  "destino": "md-es/IT/2012/Relazione_incidente_ferroviario_Cisterno-240912.md"
+ },
+ "md/IT/2013/2013.01.07 AREZZO.md": {
+  "fichero": "md/IT/2013/2013.01.07 AREZZO.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 107538,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 45013,
+  "tokens_out": 33762,
+  "destino": "md-es/IT/2013/2013.01.07 AREZZO.md"
+ },
+ "md/IT/2013/Final_repor stazione di Napoli Centrale 12 05 2013t.md": {
+  "fichero": "md/IT/2013/Final_repor stazione di Napoli Centrale 12 05 2013t.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 91263,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 34536,
+  "tokens_out": 25182,
+  "destino": "md-es/IT/2013/Final_repor stazione di Napoli Centrale 12 05 2013t.md"
+ },
+ "md/IT/2013/IT 01.12.2013 Relazione_finale_d___indagine_relativa__azioni_Tecniche_.md": {
+  "fichero": "md/IT/2013/IT 01.12.2013 Relazione_finale_d___indagine_relativa__azioni_Tecniche_.md",
+  "estado": "revisar",
+  "idioma": "IT",
+  "chars": 55195,
+  "ratio": 1.03,
+  "avisos": [
+   "bloque 9: cifras largas: faltan 1/1 (100%)"
+  ],
+  "tokens_in": 21803,
+  "tokens_out": 14890,
+  "destino": "md-es/IT/2013/IT 01.12.2013 Relazione_finale_d___indagine_relativa__azioni_Tecniche_.md"
+ },
+ "md/IT/2013/IT 07.11.2013 RELAZIONE_FINALE-1.md": {
+  "fichero": "md/IT/2013/IT 07.11.2013 RELAZIONE_FINALE-1.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 130708,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 51358,
+  "tokens_out": 39071,
+  "destino": "md-es/IT/2013/IT 07.11.2013 RELAZIONE_FINALE-1.md"
+ },
+ "md/IT/2013/IT 2013.01.07 AREZZO.md": {
+  "fichero": "md/IT/2013/IT 2013.01.07 AREZZO.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 110380,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 45317,
+  "tokens_out": 34724,
+  "destino": "md-es/IT/2013/IT 2013.01.07 AREZZO.md"
+ },
+ "md/IT/2013/IT 24.10.2013 FINAL_REPORT-2.md": {
+  "fichero": "md/IT/2013/IT 24.10.2013 FINAL_REPORT-2.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 5971,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 2150,
+  "tokens_out": 1557,
+  "destino": "md-es/IT/2013/IT 24.10.2013 FINAL_REPORT-2.md"
+ },
+ "md/IT/2013/IT 25.06.2013 RELAZIONE_INDAGINE_17.02.2015.md": {
+  "fichero": "md/IT/2013/IT 25.06.2013 RELAZIONE_INDAGINE_17.02.2015.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 128997,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 48601,
+  "tokens_out": 35373,
+  "destino": "md-es/IT/2013/IT 25.06.2013 RELAZIONE_INDAGINE_17.02.2015.md"
+ },
+ "md/IT/2013/Raccomandazioni_Firenze_Cascine-270313.md": {
+  "fichero": "md/IT/2013/Raccomandazioni_Firenze_Cascine-270313.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 3918,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 1511,
+  "tokens_out": 905,
+  "destino": "md-es/IT/2013/Raccomandazioni_Firenze_Cascine-270313.md"
+ },
+ "md/IT/2013/Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md": {
+  "fichero": "md/IT/2013/Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 35905,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 12408,
+  "tokens_out": 8908,
+  "destino": "md-es/IT/2013/Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md"
+ },
+ "md/IT/2013/Relazione_d'inchiesta_sull'incidente_di_SESTO_SAN_GIOVANNI_del_31_05_2013.md": {
+  "fichero": "md/IT/2013/Relazione_d'inchiesta_sull'incidente_di_SESTO_SAN_GIOVANNI_del_31_05_2013.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 44729,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 15728,
+  "tokens_out": 11231,
+  "destino": "md-es/IT/2013/Relazione_d'inchiesta_sull'incidente_di_SESTO_SAN_GIOVANNI_del_31_05_2013.md"
+ },
+ "md/IT/2014/IT 01.07.2014 RELAZIONE-1.md": {
+  "fichero": "md/IT/2014/IT 01.07.2014 RELAZIONE-1.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 263835,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 103861,
+  "tokens_out": 76561,
+  "destino": "md-es/IT/2014/IT 01.07.2014 RELAZIONE-1.md"
+ },
+ "md/IT/2014/IT 12.01.2014 Final_report-1.md": {
+  "fichero": "md/IT/2014/IT 12.01.2014 Final_report-1.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 151745,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 55260,
+  "tokens_out": 39693,
+  "destino": "md-es/IT/2014/IT 12.01.2014 Final_report-1.md"
+ },
+ "md/IT/2014/IT 15.07.2014 investigazioni_ferroviarie_relazione_in_alia_n__7961_pdf.md": {
+  "fichero": "md/IT/2014/IT 15.07.2014 investigazioni_ferroviarie_relazione_in_alia_n__7961_pdf.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 71265,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 27638,
+  "tokens_out": 20468,
+  "destino": "md-es/IT/2014/IT 15.07.2014 investigazioni_ferroviarie_relazione_in_alia_n__7961_pdf.md"
+ },
+ "md/IT/2014/IT 17.01.2014 FINAL_REPORT.md": {
+  "fichero": "md/IT/2014/IT 17.01.2014 FINAL_REPORT.md",
+  "estado": "revisar",
+  "idioma": "IT",
+  "chars": 67236,
+  "ratio": 1.04,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 3/7 (43%)"
+  ],
+  "tokens_in": 24961,
+  "tokens_out": 18188,
+  "destino": "md-es/IT/2014/IT 17.01.2014 FINAL_REPORT.md"
+ },
+ "md/IT/2014/IT 17.07.2014 Final_report-3.md": {
+  "fichero": "md/IT/2014/IT 17.07.2014 Final_report-3.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 73332,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 29113,
+  "tokens_out": 21852,
+  "destino": "md-es/IT/2014/IT 17.07.2014 Final_report-3.md"
+ },
+ "md/IT/2014/IT 17.12.2014 FINAL_REPORT.md": {
+  "fichero": "md/IT/2014/IT 17.12.2014 FINAL_REPORT.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 104957,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 42001,
+  "tokens_out": 30298,
+  "destino": "md-es/IT/2014/IT 17.12.2014 FINAL_REPORT.md"
+ },
+ "md/IT/2014/IT 24.06.2014 RELAZIONE_FINALE.md": {
+  "fichero": "md/IT/2014/IT 24.06.2014 RELAZIONE_FINALE.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 18300,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 6290,
+  "tokens_out": 4705,
+  "destino": "md-es/IT/2014/IT 24.06.2014 RELAZIONE_FINALE.md"
+ },
+ "md/IT/2014/Relazione_finale_Bozzolo_Marcaria 25.02.2014.md": {
+  "fichero": "md/IT/2014/Relazione_finale_Bozzolo_Marcaria 25.02.2014.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 45483,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 16174,
+  "tokens_out": 11838,
+  "destino": "md-es/IT/2014/Relazione_finale_Bozzolo_Marcaria 25.02.2014.md"
+ },
+ "md/IT/2014/relazione_incidentIT IT 07.04.2014 e_castelfranco_dopo_incontro_trenitaia_.md": {
+  "fichero": "md/IT/2014/relazione_incidentIT IT 07.04.2014 e_castelfranco_dopo_incontro_trenitaia_.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 43433,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 15426,
+  "tokens_out": 10953,
+  "destino": "md-es/IT/2014/relazione_incidentIT IT 07.04.2014 e_castelfranco_dopo_incontro_trenitaia_.md"
+ },
+ "md/IT/2015/IT 16.02.2015 Final.md": {
+  "fichero": "md/IT/2015/IT 16.02.2015 Final.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 189019,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 71154,
+  "tokens_out": 52677,
+  "destino": "md-es/IT/2015/IT 16.02.2015 Final.md"
+ },
+ "md/IT/2015/IT 20.07.2015 relazione evento del 20.07.2015.md": {
+  "fichero": "md/IT/2015/IT 20.07.2015 relazione evento del 20.07.2015.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 134631,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 50450,
+  "tokens_out": 34780,
+  "destino": "md-es/IT/2015/IT 20.07.2015 relazione evento del 20.07.2015.md"
+ },
+ "md/IT/2015/IT 30.06.2015 RELAZIONE.md": {
+  "fichero": "md/IT/2015/IT 30.06.2015 RELAZIONE.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 95036,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 33381,
+  "tokens_out": 23952,
+  "destino": "md-es/IT/2015/IT 30.06.2015 RELAZIONE.md"
+ },
+ "md/IT/2016/IT 12.07.2016 relazione-Andria-Corato-06.12.2017.md": {
+  "fichero": "md/IT/2016/IT 12.07.2016 relazione-Andria-Corato-06.12.2017.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 224115,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 78957,
+  "tokens_out": 55510,
+  "destino": "md-es/IT/2016/IT 12.07.2016 relazione-Andria-Corato-06.12.2017.md"
+ },
+ "md/IT/2016/RELAZIONE INDAGINE INVESTIMENTI IN STAZIONE 23.05.2016.md": {
+  "fichero": "md/IT/2016/RELAZIONE INDAGINE INVESTIMENTI IN STAZIONE 23.05.2016.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 263879,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 103861,
+  "tokens_out": 76619,
+  "destino": "md-es/IT/2016/RELAZIONE INDAGINE INVESTIMENTI IN STAZIONE 23.05.2016.md"
+ },
+ "md/IT/2017/IT 02.03.2017 Relazione Bivio D'Aurisina.md": {
+  "fichero": "md/IT/2017/IT 02.03.2017 Relazione Bivio D'Aurisina.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 60538,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 21597,
+  "tokens_out": 16096,
+  "destino": "md-es/IT/2017/IT 02.03.2017 Relazione Bivio D'Aurisina.md"
+ },
+ "md/IT/2017/IT 05.06.2017 RELAZIONE inconveniente IC603 Brindisi.md": {
+  "fichero": "md/IT/2017/IT 05.06.2017 RELAZIONE inconveniente IC603 Brindisi.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 130221,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 45372,
+  "tokens_out": 32293,
+  "destino": "md-es/IT/2017/IT 05.06.2017 RELAZIONE inconveniente IC603 Brindisi.md"
+ },
+ "md/IT/2017/IT 06.07.2017 relazione_indagine_torino-modane_06_07_2017_def.md": {
+  "fichero": "md/IT/2017/IT 06.07.2017 relazione_indagine_torino-modane_06_07_2017_def.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 104123,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 46838,
+  "tokens_out": 36176,
+  "destino": "md-es/IT/2017/IT 06.07.2017 relazione_indagine_torino-modane_06_07_2017_def.md"
+ },
+ "md/IT/2017/IT 06.12.2017 RELAZIONE INDAGINE PM Santomarco 05.10.18.md": {
+  "fichero": "md/IT/2017/IT 06.12.2017 RELAZIONE INDAGINE PM Santomarco 05.10.18.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 301942,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 114715,
+  "tokens_out": 84030,
+  "destino": "md-es/IT/2017/IT 06.12.2017 RELAZIONE INDAGINE PM Santomarco 05.10.18.md"
+ },
+ "md/IT/2017/IT 13.06.2017 IT-5363_relazione collisione treni staz.Galugnano_2017.md": {
+  "fichero": "md/IT/2017/IT 13.06.2017 IT-5363_relazione collisione treni staz.Galugnano_2017.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 145096,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 48916,
+  "tokens_out": 35470,
+  "destino": "md-es/IT/2017/IT 13.06.2017 IT-5363_relazione collisione treni staz.Galugnano_2017.md"
+ },
+ "md/IT/2017/IT 25.04.2017 Relazione-Bressanone-14.12.2017.md": {
+  "fichero": "md/IT/2017/IT 25.04.2017 Relazione-Bressanone-14.12.2017.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 61026,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 23597,
+  "tokens_out": 17154,
+  "destino": "md-es/IT/2017/IT 25.04.2017 Relazione-Bressanone-14.12.2017.md"
+ },
+ "md/IT/2017/IT-5363_relazione collisione treni staz.Galugnano_2017.md": {
+  "fichero": "md/IT/2017/IT-5363_relazione collisione treni staz.Galugnano_2017.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 144890,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 48916,
+  "tokens_out": 35572,
+  "destino": "md-es/IT/2017/IT-5363_relazione collisione treni staz.Galugnano_2017.md"
+ },
+ "md/IT/2017/IT-5482 - Relazione-finale-Asti_24.06.2019 incendio Asti.md": {
+  "fichero": "md/IT/2017/IT-5482 - Relazione-finale-Asti_24.06.2019 incendio Asti.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 132347,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 47843,
+  "tokens_out": 33926,
+  "destino": "md-es/IT/2017/IT-5482 - Relazione-finale-Asti_24.06.2019 incendio Asti.md"
+ },
+ "md/IT/2017/IT-5510 - Relazione-Finale-Svio-Fi-Castello-20181220.md": {
+  "fichero": "md/IT/2017/IT-5510 - Relazione-Finale-Svio-Fi-Castello-20181220.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 176093,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 62131,
+  "tokens_out": 44619,
+  "destino": "md-es/IT/2017/IT-5510 - Relazione-Finale-Svio-Fi-Castello-20181220.md"
+ },
+ "md/IT/2017/IT-5551-RELAZIONE INDAGINE PM Santomarco 05.10.18.md": {
+  "fichero": "md/IT/2017/IT-5551-RELAZIONE INDAGINE PM Santomarco 05.10.18.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 302543,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 114715,
+  "tokens_out": 84078,
+  "destino": "md-es/IT/2017/IT-5551-RELAZIONE INDAGINE PM Santomarco 05.10.18.md"
+ },
+ "md/IT/2017/Relazione-Novara_Boschetto-25.09.2017 (1).md": {
+  "fichero": "md/IT/2017/Relazione-Novara_Boschetto-25.09.2017 (1).md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 50002,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 17569,
+  "tokens_out": 13596,
+  "destino": "md-es/IT/2017/Relazione-Novara_Boschetto-25.09.2017 (1).md"
+ },
+ "md/IT/2017/relazione finale_Ceglie_Francavilla_10072018.md": {
+  "fichero": "md/IT/2017/relazione finale_Ceglie_Francavilla_10072018.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 198349,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 74541,
+  "tokens_out": 53678,
+  "destino": "md-es/IT/2017/relazione finale_Ceglie_Francavilla_10072018.md"
+ },
+ "md/IT/2018/IT 23.05.2018 RELAZIONE 2019.05.13 definitiva.md": {
+  "fichero": "md/IT/2018/IT 23.05.2018 RELAZIONE 2019.05.13 definitiva.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 362819,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 131040,
+  "tokens_out": 96022,
+  "destino": "md-es/IT/2018/IT 23.05.2018 RELAZIONE 2019.05.13 definitiva.md"
+ },
+ "md/IT/2018/IT-5970 - Relazione-finale-incendio-Lomello.md": {
+  "fichero": "md/IT/2018/IT-5970 - Relazione-finale-incendio-Lomello.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 127607,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 45074,
+  "tokens_out": 32410,
+  "destino": "md-es/IT/2018/IT-5970 - Relazione-finale-incendio-Lomello.md"
+ },
+ "md/IT/2018/IT-5977 - 2021.04.12 Rel._finale_Collisione_treno-mezzo_d'opera_del_07.12.2018.md": {
+  "fichero": "md/IT/2018/IT-5977 - 2021.04.12 Rel._finale_Collisione_treno-mezzo_d'opera_del_07.12.2018.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 87765,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 30475,
+  "tokens_out": 21574,
+  "destino": "md-es/IT/2018/IT-5977 - 2021.04.12 Rel._finale_Collisione_treno-mezzo_d'opera_del_07.12.2018.md"
+ },
+ "md/IT/2018/Relazione Indagine Svio Portomaggiore 02-07-2018 FINALE.md": {
+  "fichero": "md/IT/2018/Relazione Indagine Svio Portomaggiore 02-07-2018 FINALE.md",
+  "estado": "revisar",
+  "idioma": "IT",
+  "chars": 200242,
+  "ratio": 1.04,
+  "avisos": [
+   "bloque 14: cifras largas: faltan 10/32 (31%)"
+  ],
+  "tokens_in": 72981,
+  "tokens_out": 51128,
+  "destino": "md-es/IT/2018/Relazione Indagine Svio Portomaggiore 02-07-2018 FINALE.md"
+ },
+ "md/IT/2018/Relazione-finale_Pioltello_25.01.2018 (1).md": {
+  "fichero": "md/IT/2018/Relazione-finale_Pioltello_25.01.2018 (1).md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 448394,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 176965,
+  "tokens_out": 132110,
+  "destino": "md-es/IT/2018/Relazione-finale_Pioltello_25.01.2018 (1).md"
+ },
+ "md/IT/2019/RELAZIONE INDAGINE SVIO Benevento IT-6040_Definitiva.md": {
+  "fichero": "md/IT/2019/RELAZIONE INDAGINE SVIO Benevento IT-6040_Definitiva.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 95790,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 32961,
+  "tokens_out": 23339,
+  "destino": "md-es/IT/2019/RELAZIONE INDAGINE SVIO Benevento IT-6040_Definitiva.md"
+ },
+ "md/IT/2019/RELAZIONE-2020.02.24_Finale-inverigo-28-03-2019.md": {
+  "fichero": "md/IT/2019/RELAZIONE-2020.02.24_Finale-inverigo-28-03-2019.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 221296,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 82382,
+  "tokens_out": 57034,
+  "destino": "md-es/IT/2019/RELAZIONE-2020.02.24_Finale-inverigo-28-03-2019.md"
+ },
+ "md/IT/2020/IT-6182 - RELAZIONE INDAGINE SVIO PM LIVRAGA_2022-01-28_Finale_pubblica.md": {
+  "fichero": "md/IT/2020/IT-6182 - RELAZIONE INDAGINE SVIO PM LIVRAGA_2022-01-28_Finale_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 211154,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 80638,
+  "tokens_out": 58430,
+  "destino": "md-es/IT/2020/IT-6182 - RELAZIONE INDAGINE SVIO PM LIVRAGA_2022-01-28_Finale_pubblica.md"
+ },
+ "md/IT/2020/IT-6349 - Relazione finale Carnate_2022-07-20_sito.md": {
+  "fichero": "md/IT/2020/IT-6349 - Relazione finale Carnate_2022-07-20_sito.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 156396,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 58923,
+  "tokens_out": 42940,
+  "destino": "md-es/IT/2020/IT-6349 - Relazione finale Carnate_2022-07-20_sito.md"
+ },
+ "md/IT/2020/relazione finale indagine PL Casabianca.md": {
+  "fichero": "md/IT/2020/relazione finale indagine PL Casabianca.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 46231,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 16857,
+  "tokens_out": 11717,
+  "destino": "md-es/IT/2020/relazione finale indagine PL Casabianca.md"
+ },
+ "md/IT/2021/IT-10072 - RELAZIONE DEFINITIVA INDAGINE_BIVIO ADDA_16-06-2022_pubblicazione.md": {
+  "fichero": "md/IT/2021/IT-10072 - RELAZIONE DEFINITIVA INDAGINE_BIVIO ADDA_16-06-2022_pubblicazione.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 134112,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 51960,
+  "tokens_out": 36348,
+  "destino": "md-es/IT/2021/IT-10072 - RELAZIONE DEFINITIVA INDAGINE_BIVIO ADDA_16-06-2022_pubblicazione.md"
+ },
+ "md/IT/2021/IT-10073 - Relazione-di-indagine_Roma-Lido_finale.md": {
+  "fichero": "md/IT/2021/IT-10073 - Relazione-di-indagine_Roma-Lido_finale.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 119577,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 43332,
+  "tokens_out": 33187,
+  "destino": "md-es/IT/2021/IT-10073 - Relazione-di-indagine_Roma-Lido_finale.md"
+ },
+ "md/IT/2021/IT-10167 - Relazione finale Orbassano_2023-03-17_sito.md": {
+  "fichero": "md/IT/2021/IT-10167 - Relazione finale Orbassano_2023-03-17_sito.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 170956,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 62100,
+  "tokens_out": 43167,
+  "destino": "md-es/IT/2021/IT-10167 - Relazione finale Orbassano_2023-03-17_sito.md"
+ },
+ "md/IT/2021/IT-10168 - Relazione finale_Cedegolo_23-11-2022_pubblicazione.md": {
+  "fichero": "md/IT/2021/IT-10168 - Relazione finale_Cedegolo_23-11-2022_pubblicazione.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 85308,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 30460,
+  "tokens_out": 22162,
+  "destino": "md-es/IT/2021/IT-10168 - Relazione finale_Cedegolo_23-11-2022_pubblicazione.md"
+ },
+ "md/IT/2022/IT-10253 - Relazione finale_Barletta_04-01-2022_pubblica.md": {
+  "fichero": "md/IT/2022/IT-10253 - Relazione finale_Barletta_04-01-2022_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 41819,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 14932,
+  "tokens_out": 10452,
+  "destino": "md-es/IT/2022/IT-10253 - Relazione finale_Barletta_04-01-2022_pubblica.md"
+ },
+ "md/IT/2022/IT-10270 -Relazione finale_Prenestina_03-06-2022_pubblica.md": {
+  "fichero": "md/IT/2022/IT-10270 -Relazione finale_Prenestina_03-06-2022_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 54581,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 19217,
+  "tokens_out": 13192,
+  "destino": "md-es/IT/2022/IT-10270 -Relazione finale_Prenestina_03-06-2022_pubblica.md"
+ },
+ "md/IT/2022/IT-10276 - Relazione Finale_Rastignano_19-03-2022.md": {
+  "fichero": "md/IT/2022/IT-10276 - Relazione Finale_Rastignano_19-03-2022.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 197856,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 74467,
+  "tokens_out": 52674,
+  "destino": "md-es/IT/2022/IT-10276 - Relazione Finale_Rastignano_19-03-2022.md"
+ },
+ "md/IT/2022/IT-10311 - Relazione_finale_indagine_Trani_21-07-2022_pubblica.md": {
+  "fichero": "md/IT/2022/IT-10311 - Relazione_finale_indagine_Trani_21-07-2022_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 106288,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 38011,
+  "tokens_out": 25266,
+  "destino": "md-es/IT/2022/IT-10311 - Relazione_finale_indagine_Trani_21-07-2022_pubblica.md"
+ },
+ "md/IT/2022/IT-10312 - RELAZIONE-INDAGINE_FSE_22.07.2022-pubblica_ok.md": {
+  "fichero": "md/IT/2022/IT-10312 - RELAZIONE-INDAGINE_FSE_22.07.2022-pubblica_ok.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 79035,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 27849,
+  "tokens_out": 19723,
+  "destino": "md-es/IT/2022/IT-10312 - RELAZIONE-INDAGINE_FSE_22.07.2022-pubblica_ok.md"
+ },
+ "md/IT/2022/IT-10335 - Relazione finale_Pompei_07-11-2022_pubblica.md": {
+  "fichero": "md/IT/2022/IT-10335 - Relazione finale_Pompei_07-11-2022_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 114866,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 42608,
+  "tokens_out": 30448,
+  "destino": "md-es/IT/2022/IT-10335 - Relazione finale_Pompei_07-11-2022_pubblica.md"
+ },
+ "md/IT/2022/IT-10351 - Relazione finale_Iseo_10-12-2022_pubblica.md": {
+  "fichero": "md/IT/2022/IT-10351 - Relazione finale_Iseo_10-12-2022_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 90366,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 33479,
+  "tokens_out": 23758,
+  "destino": "md-es/IT/2022/IT-10351 - Relazione finale_Iseo_10-12-2022_pubblica.md"
+ },
+ "md/IT/2023/IT-10368 - Relazione finale_Pozzano_26-01-2023_pubblica.md": {
+  "fichero": "md/IT/2023/IT-10368 - Relazione finale_Pozzano_26-01-2023_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 114369,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 40285,
+  "tokens_out": 27443,
+  "destino": "md-es/IT/2023/IT-10368 - Relazione finale_Pozzano_26-01-2023_pubblica.md"
+ },
+ "md/IT/2024/relazione di indagine_parma_11-07-2024.md": {
+  "fichero": "md/IT/2024/relazione di indagine_parma_11-07-2024.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 108959,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 38740,
+  "tokens_out": 27594,
+  "destino": "md-es/IT/2024/relazione di indagine_parma_11-07-2024.md"
+ },
+ "md/IT/2024/relazione_finale_centola_09-07-2024_pubblica.md": {
+  "fichero": "md/IT/2024/relazione_finale_centola_09-07-2024_pubblica.md",
+  "estado": "ok",
+  "idioma": "IT",
+  "chars": 132202,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 46258,
+  "tokens_out": 33478,
+  "destino": "md-es/IT/2024/relazione_finale_centola_09-07-2024_pubblica.md"
+ }
+}

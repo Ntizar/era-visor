@@ -4,373 +4,492 @@ anio: 2018
 idioma_origen: FI
 md_origen: md/EE/2018/Kulna 20.02.18 EE avalik.md
 md5_origen: 9a8327fc97c912800dab30f8cf31565e
-modelo: qwen3.8-flash
+modelo: qwen3.6
 bloques: 15
-chars: 104445
-ratio_longitud: 1.26
-tokens_in: 43343
-tokens_out: 26697
+chars: 106461
+ratio_longitud: 1.28
+tokens_in: 40288
+tokens_out: 26176
 verificacion: ok
-notas_cifras: ["bloque 1: cifras cortas: 3/62", "bloque 3: cifras cortas: 2/51", "bloque 10: cifras largas: 2/24; cifras cortas: 4/74", "bloque 12: cifras largas: 2/12", "bloque 14: cifras largas: 1/16"]
-fecha_proceso: 2026-11-18
+notas_cifras: ["bloque 1: cifras cortas: 6/62", "bloque 2: cifras cortas: 4/82", "bloque 3: cifras cortas: 2/51", "bloque 5: original bilingüe: se compara contra el idioma principal (FI)", "bloque 6: cifras cortas: 1/52", "bloque 9: original bilingüe: se compara contra el idioma principal (HU)"]
+fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 ---
 ## Página 1
 
-   Accidente ferroviario
-En el paso a nivel de Kulna
-Condado de Harju
-20 de febrero de 2018
-Accidente en paso a nivel
-Tallin, 11 de octubre de 2018
-R200218
-ERA No EE-5609
+   Accidente 
+   en el paso a nivel de Kulna 
+   en el condado de Harju 
+   el 20 de febrero de 2018 
+   Informe de investigación del accidente en el paso a nivel 
+   Tallin, 11 de octubre de 2018 
+   R200218 
+   ERA No EE-5609 
 
 
 ## Página 2
 
-# 1. Resumen
-1. Un camión Scania con un semirremolque Kraker cargado con turba invadió la vía del tren de pasajeros n.º 0522 Riisipere – Tallin en el paso a nivel pasivo no automatizado de Kulna, situado fuera de una zona urbana, en el condado de Harju, el martes 20 de febrero de 2018 a las 08:29. Las coordenadas GPS son 59˚17’8,7’’ N y 24˚21’9,7’’ E.
-2. El camión circulaba lentamente durante el día por una carretera compactada por la nieve y equipada con dispositivos de regulación del tráfico, hasta que, inmediatamente antes del paso a nivel, al mejorar las condiciones de la calzada tras el tratamiento antiheladas, aceleró en una fina capa de mezcla de nieve y cloruro conforme a las normas, colisionando con el tren.
-3. El vehículo colisionó con el coche motor situado en la cabecera del tren eléctrico Stadler Flirt de tres coches, lo que provocó el descarrilamiento del tren. El último bogie del tren permaneció sobre las vías.
-4. El conductor del camión sufrió lesiones corporales graves; dos empleados ferroviarios y seis pasajeros sufrieron lesiones corporales leves. El camión y el semirremolque quedaron inservibles (chatarra). En la composición ferroviaria resultaron dañados los bogies, el acoplador automático, el motor de tracción y los tres coches, presentando deformaciones y arañazos. También resultó dañado el paso a nivel junto con las vías.
-5. El tráfico ferroviario se interrumpió durante 52 horas y 36 minutos. Se suprimieron 54 trenes. El servicio de viajeros fue sustituido por autobuses.
-6. La causa directa del accidente es un error humano, ya que el conductor del camión, en estado de embriaguez confirmado médicamente, no logró desplazar su atención a tiempo hacia el tren que se aproximaba y colisionó con él.
-7. Los hábitos de trabajo y la experiencia del maquinista eran competentes. Sus actuaciones al acercarse al paso a nivel fueron correctas y conforme a la normativa. El paso a nivel está equipado con dispositivos de regulación del tráfico cuyo cumplimiento garantiza la seguridad vial. No existen causas raíz en este accidente.
-8. No existen relaciones causales entre la ocurrencia del accidente y la aplicación del sistema de gestión de la seguridad ni de las regulaciones jurídicas. No existen causas intrínsecas del accidente.
-9. Para aumentar la seguridad vial, se presentan recomendaciones al final del informe de investigación para configurar el paso a nivel como activo mediante señalización automática con semáforos, ampliar las competencias de la comisión de inspección de pasos a nivel, ordenar la gestión documental de la empresa de infraestructura ferroviaria e instalar dispositivos adicionales de regulación del tráfico.
-10. El informe de investigación del Centro de Investigación de Seguridad sobre el accidente en el paso a nivel de Kulna se remitirá para la tramitación de las recomendaciones a la Agencia Técnica de Supervisión, a AS Eesti Raudtee y a la Administración de Carreteras. Para conocimiento, el informe de investigación se remitirá al Departamento de Carreteras y Ferrocarriles del Ministerio de Asuntos Económicos y Comunicaciones, a AS
+# 1. RESUMEN 
+1. El camión Scania con remolque semirremolque Kraker cargado con musgo circulaba 
+por el condado de Harju, invadiendo la vía del tren de pasajeros n.º 0522 en la línea 
+Riisipere – Tallin, en el paso a nivel rural Kulna pasivo no ajustado automáticamente 
+el martes 20 de febrero de 2018 a las 08:29. Las coordenadas GPS son 
+59˚17’8,7’’ N y 24˚21’9,7’’ E. 
+2. El vehículo circulaba a baja velocidad durante el día por una carretera cubierta de 
+nieve compactada y con grumos, equipada con dispositivos de regulación del tráfico, 
+hasta que, inmediatamente antes del paso a nivel, las condiciones de la carretera 
+mejoraron tras el tratamiento antideslizante; el vehículo aceleró en una mezcla fina 
+de nieve y cloruro conforme a las normas, hasta colisionar con el tren. 
+3. El vehículo colisionó con la locomotora del tren eléctrico Stadler Flirt de tres vagones, 
+provocando el descarrilamiento del tren. El último bogie del tren permaneció sobre 
+las vías. 
+4. El conductor del vehículo sufrió lesiones corporales graves; dos trabajadores de la 
+ferrocarril y seis pasajeros sufrieron lesiones corporales leves. El vehículo y el 
+remolque semirremolque quedaron destrozados. El conjunto de material rodante 
+presentó daños en los bogies, el embrague automático, el motor de tracción y los 
+tres vagones, manifestados como deformaciones y arañazos. 
+Se dañó el paso a nivel junto con las vías. 
+5. El tráfico ferroviario se detuvo durante 52 horas y 36 minutos. Se cancelaron 54 
+trenes. El tráfico de viajeros se sustituyó por autobuses. 
+6. La causa directa del accidente fue un error humano, en el que el conductor, en estado 
+de embriaguez confirmado médicamente, no pudo dirigir su atención a tiempo hacia 
+el tren que se aproximaba y colisionó con él. 
+7. Las prácticas laborales y la experiencia del conductor del material rodante eran 
+competentes. Sus actuaciones al aproximarse al paso a nivel fueron correctas y 
+conformes a la normativa. El paso a nivel estaba equipado con dispositivos de 
+regulación del tráfico, cuyo cumplimiento garantiza la seguridad del tráfico. El 
+accidente no presenta causas raíz. 
+8. No existen relaciones causales entre la ocurrencia del accidente y la aplicación del 
+sistema de gestión de la seguridad ni de las disposiciones jurídicas. El accidente no 
+presenta causas raíz. 
+9. Con el fin de aumentar la seguridad del tráfico, al final del informe de investigación 
+se formulan recomendaciones para la conversión del paso a nivel pasivo en un paso 
+a nivel activo mediante la instalación de semáforos de señalización automática; para 
+el aumento de las competencias de la comisión de supervisión de los pasos a nivel; 
+para la normalización de la gestión documental de la empresa de infraestructura 
+ferroviaria y para la instalación de dispositivos adicionales de regulación del tráfico. 
+10. El informe de investigación del Centro de Investigación de Seguridad sobre el 
+accidente en el paso a nivel de Kulna se remitirá para su tramitación a la Autoridad 
+de Vigilancia, a AS Eesti Raudtee y a la Administración de Carreteras. 
+Se remitirá para su conocimiento el informe de investigación a la División de 
+Carreteras y Ferrocarriles del Ministerio de Economía y Comunicaciones, a AS 
 
 
 ## Página 3
 
-Eesti Liinirongid (Elron), a MTÜ Operation Lifesaver Estonia, a la Agencia Ferroviaria Europea, al Departamento de Policía y Guardia Fronteriza, al Centro de Emergencias, a OÜ Duo Auto, a Swedbank Liising y a los heridos.
-# 1.1 Conclusion
-1. Vehicle Scania with the moss loaded semi trailer Kraker drove in the Harju County before the Riisipere – Tallinn passenger train No 0522 on the automatically unadjusted passive rural Kulna level crossing on Tuesday, February 20198 at 08:29 a.m. The GPS-co-ordinates are on 59˚17’8,7’’ N and 24˚21’9,7’’ E.
-2. The vehicle was driving slowly in daytime on the road, covered with stamped down cloggy snow and equipped with traffic regulation devices until directly before the level crossing the road conditions improved due to de-icing it speeded up in the regular thin mixture of snow and cloride it collided with the train.    
-3. The vehicle collided with master wagon, located at the head of the 3-wagon Stadler Flirt electric train, causing derailment of the train. The last bogie of the train remained on the rails.     
-4. The driver of the vehicle received more serious bodily injuries, 2 railway operators and 6 passengers received minor bodily injuries. The vehicle and the semi trailer were wracked. The bogies, the automatic clutch, the traction motor and all three wagons of the rolling stock unit were damaged by deformations and scratches. The level crossing together with rails were also damaged  
-5. The rail traffic was stopped for 52 hours and 36 minutes. 54 trains were out of operation. Passenger traffic was substituted with buses.   
-6. The direct cause of the accident was human error, where a driver, being in medically established condition of intoxication could not in due time pay attention to the approaching train and collided with it.  
-7. The working practice and experience of the driver of the rolling stock unit were competent. His operations upon approaching the level crossing were correct and in compliance with regulations. The level crossing was equipped with traffic regulation devices, following of which secures traffic security. The accident has no root causes.    
-8. There are no cause-and effect relationships between the accident and the application of safety management system and legal regulations. The accident has no root causes.   
-9. In order to increase traffic safety we have presented at the end of the investigation report recommendations for installation of automatic traffic light signalisation for the active level crossing; for increasing of authority of the level crossing supervision commission; for organisation of document management system of the railway infrastructure manager and for installation of additional traffic regulation devices.     
-10. The investigation report of the National Safety Investigation Bureau on the Kulna level crossing accident will be forwarded for proceeding of recommendations to the Surveillance Authority, to the Estonian Railway PLC and to the Estonian Road Administration.  
-The investigation report will be forwarded for information to the 
+Eesti Liinirongid (Elron), a la Fundación Operation Lifesaver Estonian, a la Agencia 
+Ferroviaria Europea, a la Policía y Guardia de Fronteras, al Centro de Alertas, a OÜ 
+Duo Auto, a Swedbank Leasing y a las personas lesionadas. 
+# 1.1 Conclusión 
+1. El camión Scania con remolque semirremolque Kraker cargado con musgo circulaba 
+por el condado de Harju, invadiendo la vía del tren de pasajeros n.º 0522 en la línea 
+Riisipere – Tallin, en el paso a nivel rural Kulna pasivo no ajustado automáticamente 
+el martes de febrero de 20198 a las 08:29 a. m. Las coordenadas GPS son 
+59˚17’8,7’’ N y 24˚21’9,7’’ E. 
+2. El vehículo circulaba a baja velocidad durante el día por una carretera cubierta de 
+nieve compactada y con grumos, equipada con dispositivos de regulación del tráfico, 
+hasta que, inmediatamente antes del paso a nivel, las condiciones de la carretera 
+mejoraron tras el tratamiento antideslizante; el vehículo aceleró en una mezcla fina 
+de nieve y cloruro conforme a las normas, hasta colisionar con el tren. 
+3. El vehículo colisionó con la locomotora del tren eléctrico Stadler Flirt de tres vagones, 
+provocando el descarrilamiento del tren. El último bogie del tren permaneció sobre 
+las vías. 
+4. El conductor del vehículo sufrió lesiones corporales graves; dos trabajadores de la 
+ferrocarril y seis pasajeros sufrieron lesiones corporales leves. El vehículo y el 
+remolque semirremolque quedaron destrozados. El conjunto de material rodante 
+presentó daños en los bogies, el embrague automático, el motor de tracción y los 
+tres vagones, manifestados como deformaciones y arañazos. 
+Se dañó el paso a nivel junto con las vías. 
+5. El tráfico ferroviario se detuvo durante 52 horas y 36 minutos. Se cancelaron 54 
+trenes. El tráfico de viajeros se sustituyó por autobuses. 
+6. La causa directa del accidente fue un error humano, en el que el conductor, en estado 
+de embriaguez confirmado médicamente, no pudo dirigir su atención a tiempo hacia 
+el tren que se aproximaba y colisionó con él. 
+7. Las prácticas laborales y la experiencia del conductor del material rodante eran 
+competentes. Sus actuaciones al aproximarse al paso a nivel fueron correctas y 
+conformes a la normativa. El paso a nivel estaba equipado con dispositivos de 
+regulación del tráfico, cuyo cumplimiento garantiza la seguridad del tráfico. El 
+accidente no presenta causas raíz. 
+8. No existen relaciones causales entre la ocurrencia del accidente y la aplicación del 
+sistema de gestión de la seguridad ni de las disposiciones jurídicas. El accidente no 
+presenta causas raíz. 
+9. Con el fin de aumentar la seguridad del tráfico, al final del informe de investigación 
+se formulan recomendaciones para la instalación de semáforos de señalización 
+automática para la conversión del paso a nivel en activo; para el aumento de las 
+competencias de la comisión de supervisión de los pasos a nivel; para la organización 
+del sistema de gestión documental del gestor de la infraestructura ferroviaria y para 
+la instalación de dispositivos adicionales de regulación del tráfico. 
+10. El informe de investigación del Centro Nacional de Investigación de Seguridad 
+sobre el accidente en el paso a nivel de Kulna se remitirá para su tramitación a la 
+Autoridad de Vigilancia, a la Empresa Pública Ferroviaria Estonia y a la Administración 
+de Carreteras Estonia. 
+Se remitirá para su conocimiento el informe de investigación a la 
 
 
 ## Página 4
 
-Road and Rail Department of the Ministry of Economic Affairs and Communications, The PLC Estonian Regular Trains (Elron), to the NGO Operation Lifesaver Estonia, to the European Railway Agency, to the Police and Border Guard Board, to the Alarm Centre, Duo Auto, Swedbank Leasing Ltd and to the damaged parties.
+División de Carreteras y Ferrocarriles del Ministerio de Economía y Comunicaciones, a 
+la Empresa Pública Trenes Regulares Estonios (Elron), a la ONG Operation Lifesaver 
+Estonia, a la Agencia Ferroviaria Europea, a la Policía y Guardia de Fronteras, al 
+Centro de Alertas, a Duo Auto, a Swedbank Leasing Ltd y a las partes dañadas.
 
 ## Página 5
 
-# 2. HECHOS RELATIVOS AL ACCIDENTE
-# 2.1 El accidente
-El martes, 20 de febrero de 2018, a las 08:29, se produjo una colisión entre un camión y un tren de pasajeros en el paso a nivel no automatizado (pasivo) de Kulna, situado entre las estaciones de Keila y Vasalemma, fuera del área urbana (km 73,208). Como resultado de la colisión, el conductor del camión sufrió lesiones corporales graves, mientras que 2 miembros del personal ferroviario y 6 pasajeros sufrieron lesiones corporales leves. Las coordenadas GPS del paso a nivel son 59˚17’8,7’’ N y 24˚21’9,7’’ E, con una altitud de 28 m sobre el nivel del mar.
-Figura 1. Movimiento del camión y del tren hacia la colisión en el paso a nivel de Kulna.
-La Agencia de Investigación de Accidentes estimó inmediatamente los daños causados tras el accidente por valor de hasta 2 millones de euros.
-Conforme al apartado 2 del artículo 40 de la «Ley Ferroviaria» de la República de Estonia, la colisión entre un camión y un tren ocurrida en el paso a nivel de Kulna forma parte de los accidentes producidos en pasos a nivel.
-Conforme a la «Directiva sobre seguridad ferroviaria» 2004/49/CE del Parlamento Europeo y del Consejo, el suceso forma parte de los incidentes.
-La notificación del incidente llegó al Centro de Emergencias a las 08:30. Según los datos preliminares, el camión cruzó por delante del tren de pasajeros; el conductor del camión estaba dentro del vehículo y el maquinista estaba consciente a las 08:32. A las 08:32 y durante los minutos siguientes, llegaron al lugar de los hechos vehículos de ambulancia, policía y servicios de rescate. El último equipo que realizó las operaciones necesarias en el lugar de los hechos regresó a casa a las 13:04.
-Como consecuencia de la colisión, tres vagones del tren de pasajeros descarrilaron. Tras producirse el incidente, la esquina derecha de la parte delantera del tren quedó a 17,3 m del carril derecho restante y a 24,2 m de distancia del cruce entre la carretera y el carril ferroviario. La parte trasera del tren quedó a 21,5 m del borde de la calzada. Solo el bogie final de la composición de tres vagones permaneció sobre los raíles.
-
+# 2. HECHOS DEL INCIDENTE
+# 2.1 Incidente
+El martes 20 de febrero de 2018, a las 08:29, se produjo una colisión entre un camión y un tren de pasajeros en el paso a nivel no automatizado (pasivo) de Kulna, situado entre las estaciones de Keila y Vasalemma (pk 73,208). Como resultado de la colisión, el conductor del camión sufrió lesiones corporales graves, mientras que dos viajeros ferroviarios y seis pasajeros resultaron con lesiones corporales leves. Las coordenadas GPS del punto de colisión son 59°17’8,7’’ N y 24°21’9,7’’ E, a una altitud de 28 m sobre el nivel del mar.
+Figura 1. Movimiento del camión y del tren hasta la colisión en el paso a nivel de Kulna.
+El Centro de Investigación de Seguridad evaluó inmediatamente las daños resultantes del accidente por un importe de hasta 2 millones de euros.
+De conformidad con el apartado 2 del artículo 40 de la «Ley de Ferrocarriles» de la República de Estonia, la colisión entre el camión y el tren en el paso a nivel de Kulna se clasifica como un accidente en paso a nivel.
+De conformidad con la Directiva 2004/49/CE del Parlamento Europeo y del Consejo relativa a la seguridad ferroviaria, el incidente se clasifica como un accidente.
+La central de emergencias recibió la notificación del accidente a las 08:30. Según los datos iniciales, el camión se había interpuesto en la vía del tren de pasajeros; el conductor del camión permaneció dentro del vehículo y el maquinista del tren recuperó la conciencia a las 08:32. Entre las 08:32 y los minutos siguientes, llegaron al lugar del incidente ambulancias, vehículos de la policía y del servicio de rescate. El último equipo que realizó las operaciones necesarias en el lugar del incidente regresó a su base a las 13:04.
+Como consecuencia de la colisión, tres vagones del tren de pasajeros descarrilaron. Tras el accidente, la esquina derecha delantera del tren se encontraba a 17,3 m de la vía férrea derecha y a 24,2 m del punto de cruce entre la carretera y la vía férrea. La parte trasera del tren quedó a 21,5 m del borde de la carretera. Solo el último vagón de la composición de tres vagones permaneció sobre las vías.
 
 ## Página 6
 
-El camión Scania se encontraba entre el tren y la vía. La esquina trasera derecha del vehículo estaba a 1,7 m del borde derecho de la carretera y a 0,7 m del punto de cruce entre la calzada y el carril ferroviario. La parte delantera del vehículo estaba en contacto con un poste metálico. En el carril derecho había una marca de arrastre de 0,3 m de longitud.
-Debido a la colisión, cayó turba desde la carga del remolque junto a la parte central del tren y la parte trasera del camión Scania. Alrededor de la parte delantera del camión Scania había piezas rotas del vehículo desprendidas durante la colisión con el tren.
-Los primeros vehículos de bomberos llegaron al lugar de los hechos ya un cuarto de hora después del suceso. Los servicios de emergencia atendieron a las víctimas y trasladaron al hospital al conductor del camión y al miembro del personal del material rodante. La policía bloqueó el acceso al lugar de los hechos. Los servicios de rescate llevaron a cabo las operaciones de salvamento. Tras finalizar estas, el jefe de operaciones de rescate entregó el lugar de los hechos al jefe del grupo de liquidación de consecuencias de emergencias de AS Eesti Raudtee (EVR). Se organizó una vigilancia permanente en el lugar del accidente.
-A las 8:33, el correo electrónico de la Agencia de Investigación de Accidentes recibió una notificación desde el Centro de Emergencias sobre el camión que cruzó por delante del tren cerca del paso a nivel de Kulna. El operador de infraestructura ferroviaria transmitió una primera notificación verbal telefónica del suceso a las 9:01, cuando ya se habían precisado los datos iniciales y se señaló el descarrilamiento del tren y las lesiones sufridas por el miembro del personal del material rodante.
-La notificación fue recibida por el especialista principal en investigación de accidentes ferroviarios, quien la transmitió al director de la Agencia de Investigación de Accidentes. El especialista principal en investigación de accidentes ferroviarios acudió al lugar de los hechos para conocer las circunstancias.
-El 22 de febrero, el operador de infraestructura ferroviaria envió a la Agencia de Investigación de Accidentes una notificación escrita conforme al formulario establecido. El 26 de febrero, la Agencia de Investigación de Accidentes adoptó la decisión de iniciar la investigación de seguridad del suceso conforme al apartado 5 del artículo 42 de la «Ley Ferroviaria» y al artículo 21 de la Directiva sobre seguridad ferroviaria 2004/49/CE, y notificó ello a las empresas ferroviarias. El 27 de febrero, se introdujeron los datos correspondientes en la base de datos ERA. Tras obtener información más precisa sobre las víctimas, se les informó por escrito del inicio de la investigación de seguridad y sus objetivos, así como de la disposición a utilizar su información en la investigación de seguridad.
-La investigación de seguridad es llevada a cabo por el especialista principal en investigación de accidentes ferroviarios de la Agencia de Investigación de Accidentes, quien cumple las funciones de investigador principal. El investigador principal elaboró un plan para llevar a cabo la investigación de seguridad y actuó conforme a él.
-La reunión general sobre la investigación de seguridad tuvo lugar el 02 de octubre de 2018.
-# 2.2 Antecedentes del suceso
-El paso a nivel de Kulna está situado en Harjumaa, en la infraestructura de AS Eesti Raudtee (EVR) (km 73,208), entre las estaciones de Vasalemma y Keila. El paso a nivel no está equipado con señalización automática de semáforos y, por tanto, pertenece a los denominados pasos a nivel pasivos.
-Para los trenes de pasajeros se ha establecido una velocidad máxima permitida de 120 km/h. Desde la cabina del maquinista, la visibilidad hacia el paso a nivel es de 1200 m de distancia. AS Eesti Raudtee presentó mediante carta n.º 1-5.6/592-1 de fecha 06.04.2018 los datos del paso a nivel de Kulna, según los cuales el conductor del vehículo de carretera implicado en la colisión, estando a 50 m de los raíles, tiene posibilidad de ver el tren que se aproxima a la colisión si este está a 170 m del paso a nivel.
-
+El camión Scania quedó situado entre el tren y la vía férrea. La esquina trasera derecha del vehículo estaba a 1,7 m del borde derecho de la carretera y a 0,7 m del punto de cruce entre la carretera y la vía férrea. La parte delantera del vehículo estaba en contacto con un poste metálico. En la vía derecha se observó una marca de arañazo de 0,3 m de longitud.
+Como consecuencia de la colisión, parte de la carga de turba del remolque cayó sobre la carretera, junto a la parte central del tren y la parte trasera del camión Scania. Alrededor de la parte delantera del camión Scania cayeron como consecuencia de la colisión con el tren piezas rotas del vehículo.
+Los primeros vehículos de rescate llegaron al lugar del incidente ya un cuarto de hora después del suceso. La ambulancia prestó asistencia a las víctimas y trasladó al conductor del camión y al conductor del material rodante al hospital. La policía bloqueó el acceso al lugar del incidente. El servicio de rescate llevó a cabo las operaciones de rescate. Una vez finalizadas, el responsable de las operaciones de rescate entregó el lugar del incidente al responsable del grupo de liquidación de las consecuencias del accidente de AS Eesti Raudtee (EVR). Se estableció una guardia las 24 horas en el lugar del accidente.
+A las 8:33, el Centro de Investigación de Seguridad recibió por correo electrónico una notificación procedente de la central de emergencias sobre la colisión del camión con el tren cerca de la parada de Kulna. A las 9:01, el gestor de la infraestructura ferroviaria transmitió por teléfono un aviso oral inicial del incidente, cuando ya se habían precisado los datos iniciales y se había indicado el descarrilamiento del tren y las lesiones del conductor del material rodante.
+El aviso fue recibido por el especialista principal en investigación de accidentes ferroviarios, quien lo remitió al director del Centro de Investigación de Seguridad. El especialista principal en investigación de accidentes ferroviarios se desplazó al lugar del incidente para familiarizarse con las circunstancias del caso.
+El 22 de febrero, el gestor de la infraestructura ferroviaria remitió al Centro de Investigación de Seguridad un aviso escrito formal. El 26 de febrero, el Centro de Investigación de Seguridad adoptó la decisión de iniciar una investigación de seguridad del incidente con arreglo al apartado 5 del artículo 42 de la «Ley de Ferrocarriles» y al artículo 21 de la Directiva de seguridad ferroviaria 2004/49/CE, y remitió la correspondiente notificación a las empresas ferroviarias. El 27 de febrero, se introdujeron los datos pertinentes en la base de datos de ERA. Tras obtener información más precisa sobre las víctimas, se les notificó por escrito el inicio de la investigación de seguridad, sus objetivos y la disposición a utilizar la información proporcionada por ellos en dicha investigación.
+La investigación de seguridad la lleva a cabo el especialista principal del Centro de Investigación de Seguridad en investigación de accidentes ferroviarios, quien cumple las funciones de investigador principal.
+El investigador principal elaboró un plan para la realización de la investigación de seguridad y procedió a actuar de acuerdo con el mismo.
+La reunión de síntesis sobre la investigación de seguridad se celebró el 2 de octubre de 2018.
+# 2.2 Antecedentes del incidente
+El paso a nivel de Kulna se encuentra en el territorio de la infraestructura de AS Eesti Raudtee (EVR) en el condado de Harju (pk 73,208), entre las estaciones de Vasalemma y Keila. El paso a nivel no está equipado con señalización automática de semáforos y, por tanto, se clasifica entre los denominados pasos a nivel pasivos.
+Para los trenes de pasajeros está establecida una velocidad máxima permitida de 120 km/h. Desde la cabina del maquinista, la visibilidad hacia el paso a nivel es de 1200 m. El 6 de abril de 2018, AS Eesti Raudtee remitió por escrito, con el número 1-5.6/592-1, los datos del paso a nivel de Kulna, según los cuales, el conductor del vehículo de carretera que colisionó, encontrándose a 50 m de las vías, tiene la posibilidad de detectar el tren que se acerca a la colisión,
 
 ## Página 7
 
-En el paso a nivel, la vía férrea y la carretera se encuentran perpendiculares entre sí. El paso a nivel dispone de pavimento de hormigón. La frecuencia de tráfico de trenes es de 24 trenes diarios y, según los últimos datos de conteo, la frecuencia de tráfico de vehículos de carretera es de 432 coches diarios.
-El 28.09.2018, EVR presentó nuevos datos, según los cuales en el acta de inspección del paso a nivel del 6 de mayo de 2014 figura «triángulo de visibilidad – OK». También se adjuntaron los datos del paso a nivel, donde la visibilidad desde el primer carril a 50 m de distancia está indicada reglamentariamente como 400 m.
-El tramo ferroviario Vasalemma – Keila se encuentra en la zona de bloqueo semiautomático. Para el material rodante ferroviario, antes del paso a nivel hay una señal de aviso. En el tren viajaban el miembro del personal del material rodante, dos asistentes de atención al cliente y 37 pasajeros.
-Para el usuario de la carretera, en el sentido de marcha del camión Scania que colisionó con el tren, existen las siguientes señales de tráfico:
-A 243,3 m del carril extremo, en un mismo poste, se encuentran la señal de advertencia 112 «Paso a nivel sin barreras», la advertencia adicional 123 «Hay un paso a nivel adelante» y, entre ellas, el panel informativo adicional 886 «Altura segura bajo la línea eléctrica».
-A 112,3 m del carril extremo se encuentra la señal de advertencia con advertencia adicional 124 «Hay un paso a nivel adelante».
-A 43,3 m del carril extremo se encuentra la señal de advertencia con advertencia adicional 125 «Hay un paso a nivel adelante».
-A 7,7 m del carril extremo se encuentra la señal de advertencia 121 «Vía única».
-La aproximación al paso a nivel se realiza por una carretera recta y llana, con firme permanente en buen estado, sin puntos elevados ni baches. La velocidad máxima permitida para los usuarios de la carretera es de 90 km/h.
-Foto 1. Vía de aproximación del camión Scania al paso a nivel.
+si este se encuentra a 170 m del paso a nivel. La vía férrea y la carretera se cruzan en el paso a nivel en ángulo recto. El paso a nivel cuenta con un revestimiento de hormigón.
+La frecuencia de circulación de los trenes es de 24 trenes al día y, según los últimos datos de recuento, la frecuencia de circulación de vehículos de carretera es de 432 vehículos al día.
+El 28 de septiembre de 2018, EVR remitió nuevos datos, según los cuales, en el acta de inspección del paso a nivel ferroviario del 6 de mayo de 2014 se indica «triángulo de visibilidad – OK». Se adjuntaron también los datos del paso a nivel, donde se indica que la visibilidad a 50 m de la primera vía es de 400 m, lo cual se considera conforme a la normativa.
+El tramo de vía Vasalemma – Keila se encuentra dentro de una zona de bloqueo semiautomático. Para el material rodante existe una señal de advertencia previa al paso a nivel para el uso de la bocina.
+A bordo del tren había un conductor de material rodante, dos atendentes de clientes y 37 pasajeros.
+Para el usuario de la carretera, en la dirección de circulación del camión Scania que colisionó con el tren, existen las siguientes señales de tráfico:
+A 243,3 m de la vía exterior, en la parte superior de un poste común, se encuentra la señal de advertencia 112 «Paso a nivel sin barrera», la advertencia adicional 123 «Paso a nivel adelante» y, entre ellas, un panel informativo adicional 886 «Altura libre bajo línea eléctrica».
+A 112,3 m de la vía exterior se encuentra la señal de advertencia con la advertencia adicional 124 «Paso a nivel adelante».
+A 43,3 m de la vía exterior se encuentra la señal de advertencia con la advertencia adicional 125 «Paso a nivel adelante».
+A 7,7 m de la vía exterior se encuentra la señal de advertencia 121 «Vía única».
+El acceso al paso a nivel se realiza por una carretera recta y plana, con un firme continuo en buen estado, sin desniveles ni baches. La velocidad máxima permitida para los usuarios de la carretera es de 90 km/h.
+Foto 1. Acceso del camión Scania al paso a nivel.
 
 ## Página 8
 
-El accidente involucró al camión Scania R500, matrícula 941MPK, junto con su remolque Kraker CF-200, matrícula 348GT, ambos cedidos en uso por Swedbank Liising AS a OÜ Duo Auto. El conductor del camión posee un permiso de conducción vigente para las categorías B1; B; C1; CD; C1E; CE y ha trabajado para dicho empleador desde el 03.09.2012. El remolque estaba cargado con entre 22 y 24 toneladas de turba. La tara del camión Scania es de 8274 kg y la del remolque Kraker es de 7520 kg, con una capacidad de carga de 28480 kg.
-Foto 2. Lugar de los hechos tras el accidente.
-El camión Scania colisionó con el coche motor del tren de pasajeros n.º 0522 de AS Eesti Liinirongid (Elron). Como consecuencia del impacto, el Scania cambió bruscamente de dirección, de modo que el siguiente golpe fue propinado al tren por el semirremolque Kraker cerca del primer eje, el cual no estaba rígidamente acoplado al Scania y, por tanto, mantuvo su trayectoria inicial hasta la colisión.
-El tren circulaba por la línea Riisipere – Tallinn. El servicio lo prestaba una composición de tren eléctrico Stadler Flirt EMU n.º 1309 de tres coches. La composición está equipada con un sistema de control y señalización tipo ALSN de clase B, VEPS.
-El maquinista del material rodante ferroviario posee una licencia de conducción y un certificado vigentes hasta el 12.10.2025, según los cuales tiene derecho a conducir trenes eléctricos en el tramo ferroviario Riisipere – Tallinn desde 1991.
-El maquinista del tren de pasajeros de Elron que circulaba por la infraestructura de EVR notificó inmediatamente el incidente al despachador de trenes de la zona correspondiente en el centro de gestión de EVR, conforme a los requisitos del reglamento operativo y del sistema de gestión de seguridad de EVR. El despachador introdujo los datos en el sistema de información digital Pony, que generó inmediatamente la información y la transmitió automáticamente mediante SMS y correos electrónicos a todos los empleados necesarios de la empresa. Con ello se iniciaron los procesos para resolver el incidente y restablecer la situación normal. Se interrumpió el tráfico ferroviario en la vía principal Keila – Vasalemma. El centro de gestión de EVR notificó el incidente al Centro de Emergencias (Häirekeskus).
+El accidente se produjo con el camión Scania R500, matrícula 941MPK, cedido en uso a OÜ Duo Auto por Swedbank Liising AS, junto con el remolque Kraker CF-200, matrícula 348GT, de OÜ Duo Auto. El conductor del camión posee un permiso de conducir válido de las categorías B1, B, C1, CD, C1E y CE, y trabaja para el mencionado empleador desde el 03.09.2012. El remolque estaba cargado con 22-24 toneladas de turba. La masa en vacío del camión Scania es de 8274 kg y la del remolque Kraker es de 7520 kg, con una capacidad de carga de 28480 kg.
+Foto 2. Escena del accidente tras el siniestro.
+El camión Scania chocó contra la locomotora del tren de pasajeros n.º 0522 de AS Eesti Liinirongid (Elron). Como consecuencia del impacto, el Scania cambió bruscamente de dirección de movimiento, de tal manera que el siguiente impacto contra el tren lo produjo el semirremolque Kraker cerca del primer par de ruedas, el cual no estaba unido rígidamente al Scania y, por tanto, mantuvo su dirección de movimiento inicial hasta el momento de la colisión.
+El tren circulaba por la línea Riisipere – Tallinn. El servicio de viajeros fue prestado por un tren eléctrico de tres vagones Stadler Flirt EMU n.º 1309. La composición del tren está equipada con el sistema de señalización, control y conducción VEPS de tipo ALSN de clase B.
+El conductor del material rodante ferroviario posee una licencia de conductor de locomotora y un certificado válidos hasta el 12.10.2025, que le autorizan a conducir trenes eléctricos en el tramo ferroviario Riisipere – Tallinn desde 1991.
+El conductor del tren de pasajeros Elron que circulaba por la infraestructura de EVR notificó inmediatamente al despachador de trenes de la zona asignada por el centro de control de EVR el accidente ocurrido, conforme a las normas de operación de EVR y a los requisitos del sistema de gestión de la seguridad. El despachador introdujo los datos en el sistema de información digital Pony, que generó inmediatamente la información y la transmitió automáticamente por SMS y correo electrónico a todos los empleados de la empresa pertinentes. Con ello se activaron los procesos para resolver el incidente y restablecer la situación normal. Se interrumpió el tráfico ferroviario en la estación principal de Keila – Vasalemma. El centro de control de EVR notificó el accidente al Centro de Emergencias.
 
 
 ## Página 9
 
-El administrador de la infraestructura ferroviaria de EVR activó el grupo de liquidación de consecuencias de accidentes de EVR, cuyos miembros (incluidos los equipos de trabajo del tren de rescate, el departamento de redes eléctricas, el departamento de vías, el departamento de telecomunicaciones y el departamento de sistemas de seguridad) se desplazaron al lugar de los hechos.
-El maquinista del material rodante sufrió lesiones corporales, pero pudo cumplir con sus obligaciones hasta ser trasladado al hospital en ambulancia. Al lugar de los hechos también se desplazó el grupo de emergencias de Elron.
-En el módulo de riesgos del sistema de información digital Pony de AS Eesti Raudtee están definidos los riesgos, habiéndose materializado con este incidente el riesgo n.º 36 con código O4-OH009: accidente en paso a nivel. Los factores de dicho riesgo son: pasos a nivel que no cumplen los requisitos o la situación real, conductores de vehículos que ignoran los requisitos de seguridad en el paso a nivel, fallo de la señalización automática de barrera del paso a nivel o defecto de diseño tecnológico, falta de recopilación de información sobre seguridad o inadecuación de esta para aplicar las medidas de seguridad necesarias, ausencia de limpieza de nieve y hielo en el paso a nivel o realización negligente o tardía de dicha limpieza. Mediante la evaluación de riesgos, EVR ha considerado factor crítico que los conductores de vehículos ignoren los requisitos de seguridad en el paso a nivel.
-Como resultado de la reevaluación del riesgo materializado, sus factores, las medidas de mitigación y las actividades de control, EVR estima que, además de lo establecido por la legislación vigente, es necesario implementar en el paso a nivel de Kulna, como medidas para mejorar el nivel de seguridad, equipar el paso a nivel con dispositivos de seguridad y reducir la velocidad límite establecida por el titular de la vía a 90 km/h.
+EVR, como administrador de la red ferroviaria, activó el grupo de EVR para la eliminación de las consecuencias del accidente, cuyos miembros (incluidos los equipos de trabajo del tren de rescate, del departamento de redes eléctricas, del departamento de vías, del departamento de telecomunicaciones y del departamento de sistemas de seguridad) se desplazaron a la escena del incidente.
+El conductor del material rodante ferroviario sufrió lesiones corporales, pero pudo cumplir sus obligaciones hasta que fue trasladado al hospital en ambulancia. También se desplazó a la escena del incidente el grupo de emergencia de Elron.
+En el módulo de riesgos del sistema de información digital Pony de AS Eesti Raudtee se definen los riesgos, entre los cuales se materializó, con el presente accidente, el riesgo n.º 36 con la codificación O4-OH009: accidente en un paso a nivel. Los factores de este riesgo son: los pasos a nivel no cumplen los requisitos o no se corresponden con la situación real; el conductor del vehículo infringe las normas de seguridad en el paso a nivel; avería de la señalización luminosa automática del paso a nivel o error de diseño tecnológico; no se recopila la información sobre la seguridad o esta no es adecuada para aplicar las medidas de seguridad necesarias; no se ha realizado o no se ha realizado con la debida diligencia o puntualidad la eliminación de la nieve y el hielo en el paso a nivel. En la evaluación de riesgos, EVR ha considerado crítico el factor de que el conductor del vehículo infringe las normas de seguridad en el paso a nivel.
+Como resultado de la reevaluación del riesgo materializado y de sus factores, así como de las medidas de mitigación y las actividades de control, EVR considera que, además de lo establecido por la normativa vigente, es necesario aplicar en el paso a nivel de Kulna medidas para mejorar el nivel de seguridad, consistentes en dotar al paso a nivel de dispositivos de seguridad y reducir el límite de velocidad establecido por el titular de la vía a 90 km/h.
 # 2.3 Lesiones y daños materiales
-Como consecuencia del accidente no hubo fallecidos.
-El conductor del camión Scania sufrió lesiones corporales graves consistentes en fracturas óseas y contusiones. Según los datos de las instituciones médicas, dos trabajadores ferroviarios sufrieron lesiones corporales leves: el maquinista del material rodante y el agente de atención al cliente. Cabe destacar que el tratamiento de las lesiones del maquinista duró más tiempo. Además de ellos, seis pasajeros sufrieron lesiones corporales leves, principalmente rasguños y conmociones cerebrales.
-Los daños a la infraestructura ferroviaria se manifestaron después de retirar la composición del tren eléctrico del lugar de los hechos. La vía en el paso a nivel sufrió daños peligrosos para la circulación, por lo que fue necesario sustituir el carril y la placa de revestimiento del paso a nivel. Los daños totales para AS Eesti Raudtee ascendieron a más de 40 mil euros.
-La composición de tren eléctrico Stadler Flirt EMU 1309 de AS Eesti Liinirongid sufrió daños peligrosos para la circulación. Se realizó una pericia del tren por parte del fabricante, para lo cual el tren fue enviado a la empresa Stadler situada en Minsk, Bielorrusia. Los tres coches resultaron dañados, siendo el último coche del tren el menos afectado. Las paredes laterales, techos, zonas de puertas y ventanas y otras partes de los coches presentaban deformaciones, desgarrones, arañazos, defectos de fricción, daños en la pintura y piezas desprendidas en forma de esquirlas. También resultaron dañados los bogies, el enganche automático y el motor de tracción. En total, los daños para la empresa operadora ascendieron a 2,844 millones de euros.
+No hubo fallecidos como consecuencia del accidente.
+El conductor del camión Scania sufrió lesiones corporales graves, concretamente fracturas óseas y aplastamientos. Según los datos de los centros médicos, dos personas vinculadas al ferrocarril sufrieron lesiones corporales leves: el conductor del material rodante ferroviario y el agente de atención al cliente. El tratamiento de las lesiones del conductor del material rodante ferroviario requirió más tiempo. Además, seis viajeros sufrieron lesiones corporales leves, principalmente arañazos y contusiones.
+Los daños a la infraestructura ferroviaria se hicieron evidentes después de que la composición del tren eléctrico fuera retirada de la escena del incidente. La vía férrea en el paso a nivel sufrió daños que constituían un peligro para la circulación, por lo que hubo que sustituir los raíles y la placa de cobertura del paso a nivel. Los daños causados a AS Eesti Raudtee ascendieron a más de 40 000 euros.
+La composición del tren eléctrico Stadler Flirt EMU 1309 de AS Eesti Liinirongid sufrió daños que constituían un peligro para la circulación. Se realizó una peritaje por parte del fabricante, para lo cual el tren fue trasladado a la empresa Stadler en Minsk (Bielorrusia). Los tres vagones habían sufrido daños, siendo el último vagón del tren el que menos daños había sufrido. Los paneles laterales de los vagones, los techos, las zonas de las puertas y las ventanas, así como otras piezas, presentaban deformaciones, roturas, arañazos, defectos por fricción, daños en la pintura y piezas desprendidas en fragmentos. También resultaron dañados los bogies, el acoplamiento automático y el motor de tracción. Los daños ascendieron en total a 2,844 millones de euros para la empresa de transporte.
 
 
 ## Página 10
 
 Foto 3. Parte delantera del tren EMU1309 tras el accidente.
-El motor y la cabina del camión Scania, así como la caja de cambios, estaban rotos, y el chasis estaba partido, lo que hizo que el vehículo quedara inutilizable como consecuencia del accidente. Las múltiples deformaciones del remolque Kraker lo habían convertido en chatarra.
+El motor y la cabina del camión Scania, así como la caja de cambios, estaban destrozados, el chasis estaba roto, por lo que el vehículo quedó inservible como consecuencia del accidente. Las numerosas deformaciones del remolque Kraker lo habían convertido en chatarra.
 # 2.4 Circunstancias externas
-El paso a nivel de Kulna se encuentra en terreno llano, donde el ferrocarril discurre de suroeste a noreste y la carretera que lo cruza lo hace de sureste a noroeste.
-Antes del accidente, el cielo estaba nublado y caían algunos copos de nieve aislados. Entre las 07:30 y las 08:30, la intensidad de la nevada era de 0,1 mm/h. Antes de esto, durante las horas nocturnas, alternaban nevadas similares con periodos sin precipitación. Solo entre las 03:00 y las 03:10 la intensidad de la precipitación fue de 0,3 mm/h, entre las 05:10 y las 05:20 de 0,2 mm/h y entre las 05:40 y las 05:50 de 0,4 mm/h. En el momento de la colisión entre el coche y el tren, la calzada en los alrededores inmediatos del lugar del accidente (hasta 60 m de distancia del punto de colisión) estaba cubierta por una fina mezcla de aguanieve y nieve salina. La calzada cumplía con las normas y estaba en buen estado.
-Durante la ocurrencia del accidente, el tiempo mejoró, cesó la caída de copos aislados, la nubosidad se aclaró, salió el sol detrás de las nubes y el tiempo se volvió despejado. El sol había amanecido tres cuartos de hora antes de que ocurriera el incidente.
-El coche se acercó a unos 60 m del lugar del accidente por una carretera plana, recta y compactada por la nieve. Para el conductor del coche, el sol que aparecía detrás de las nubes daba por detrás.
+El paso a nivel de Kulna se encuentra en un terreno llano, por donde la vía férrea discurre de suroeste a noreste y la carretera que lo cruza lo hace de sureste a noroeste.
+Antes del accidente, el tiempo estaba nublado y caían algunos copos de nieve aislados. Entre las 07:30 y las 08:30, la intensidad de la nevada fue de 0,1 mm/h. Antes de ello, durante las horas nocturnas, esta nevada intermitente alternaba con periodos sin precipitaciones. Solo entre las 03:00 y las 03:10 la intensidad de la precipitación fue de 0,3 mm/h, entre las 05:10 y las 05:20 de 0,2 mm/h y entre las 05:40 y las 05:50 de 0,4 mm/h. En el momento de la colisión entre el vehículo y el tren, la calzada en las inmediaciones de la escena del accidente (hasta una distancia de 60 m del punto de colisión) estaba cubierta por una fina capa de una mezcla de nieve sucia y sal. La calzada cumplía las normas y se encontraba en buen estado.
+Durante el momento del accidente, el cielo se despejó, cesó la caída de copos aislados, la nubosidad se aclaró, el sol salió detrás de las nubes y el tiempo se volvió claro. El sol había salido tres cuartos de hora antes de que se produjera el accidente.
+El vehículo se acercaba a la escena del accidente a una distancia de aproximadamente 60 m por una carretera recta, pavimentada, llana y cubierta de nieve. El sol, que salía detrás de las nubes, se reflejaba en la espalda del conductor del vehículo.
 
 ## Página 11
 
-# 3. DATOS DE LA INVESTIGACIÓN Y LAS ENTREVISTAS
+# 3. DATOS DE LAS INVESTIGACIONES Y DECLARACIONES
 # 3.1 Resumen de las declaraciones
-El conductor del vehículo Scania ha declarado respecto a su implicación en el accidente que comenzó su jornada laboral la mañana del 20 de febrero de 2018, aproximadamente a las 6:00 horas. Había finalizado su turno anterior el último, por lo que fue a cargar turba al pantano después de los demás y comenzó a circular con la carga de turba freesturba probablemente poco después de las 7:45 horas. El peso del camión junto con la turba freesturba podía ser de casi 40 toneladas. Hasta el paso a nivel de Kulna hay unos 5-6 kilómetros. Al salir del pantano se circula por una carretera de grava, pero a unos 2 km antes del paso a nivel hay asfalto. La carretera estaba completamente deslizante por la mañana. No se había utilizado arena ni sal para reducir la peligrosidad del firme.
-Justo antes de la vía férrea, es decir, considerando la dirección de marcha del tren, a la izquierda de la carretera, a unos 250 metros antes de la vía, hay un pequeño bosque, luego un espacio más abierto, casas y una zona para caballos. La velocidad del vehículo era de aproximadamente 50 – 55 km/h. El conductor vio el tren cuando este empezó a aparecer detrás del pequeño bosque. En ese momento quedaban unos 200 metros hasta la vía. El conductor hizo todo lo posible para detener el vehículo, pero debido a la gran superficie deslizante no fue posible frenar el camión. Intentó girar el vehículo hacia la derecha, es decir, hacia la explanada vacía situada justo antes de la vía, pero el coche no obedeció a la voluntad del conductor y continuó avanzando en línea recta. Justo antes de la vía logró girar la parte delantera del vehículo hacia la derecha, lo que hizo que la colisión fuera ligeramente menos grave. Desde la colisión hasta el momento en que empezaron a cortar la cabina para sacar al conductor, no recuerda nada.
-El vehículo tenía ambas ventanillas laterales abiertas parcialmente desde arriba, específicamente antes del paso a nivel, pero este tren tiene luces débiles y no se oía ninguna señal ni ruido, por lo que el tren apareció inesperadamente para el conductor.
-En este paso a nivel no hay semáforo. No hay luces de peligro encendidas. Justo antes de la vía solo hay una señal de advertencia «Vía única» a unos 4-5 metros antes de los raíles. Según recuerda el conductor, allí no hay límites de velocidad. Sin duda, dificulta también ver el tren el hecho de que la vía tenga una curva antes de este paso a nivel, donde el tren queda oculto tras el pequeño bosque.
-Según la afirmación del conductor del vehículo, totalmente inesperado, en la prensa se ha indicado que el conductor del camión estaba ebrio. El conductor del vehículo no puede estar de acuerdo con esto. Terminó de trabajar tarde, se lavó y comió, y ya estaba en la cama antes de las 24:00 horas. No consumió ningún alcohol.
-El maquinista del tren de pasajeros n.º 0522 dijo que el 20.02.2018 trabajaba en la composición de tren n.º 1309 V en el segundo turno. El tren se acercaba al paso a nivel de Kulna con velocidad decreciente, preparado para detenerse en la estación. El paso a nivel estaba libre de tráfico. No había vehículos acercándose en las inmediaciones. Al entrar en el paso a nivel, notó una sombra gris en la ventanilla derecha y sintió un fuerte impacto. El tren saltó y el maquinista fue lanzado fuera de su asiento. Se encontró tumbado en el lado derecho de la cabina. Durante un tiempo intentó ponerse de pie. El jefe de material rodante logró informar al despachador sobre el descarrilamiento del tren y la necesidad de llamar a una ambulancia y a la policía. A continuación, llamó al supervisor del depósito. Abrió la puerta del salón y se interesó por si todos estaban vivos. Visiblemente, debido al estado de shock y al malestar físico, intentó no moverse. El revisor informó, tras recorrer la composición del tren, de que todos estaban vivos. Después
 
+El conductor del camión Scania declaró en relación con el accidente que comenzó su jornada laboral la mañana del 20 de febrero de 2018, sobre las 6:00. Fue el último en finalizar la jornada laboral anterior y, por ello, cargó turba del pantano después que los demás, y comenzó a circular con la carga de turba extraída probablemente poco después de las 7:45. El peso del vehículo, junto con la turba extraída, podía ser de aproximadamente 40 toneladas. Hasta el paso a nivel de Kulna hay unos 5-6 kilómetros. Al salir del pantano, el camino es de grava, pero a unos 2 km del paso a nivel se convierte en asfalto. La carretera estaba completamente resbaladiza por la mañana. No se utilizó arena ni sal para combatir la resbaladiza.
+
+Inmediatamente antes de la vía férrea, es decir, teniendo en cuenta la dirección de circulación del tren, a la izquierda de la carretera hay un trozo de bosque a unos 250 metros de la vía, luego una zona más despejada, casas y alguna explanada para caballos. La velocidad del vehículo era de unos 50-55 km/h. El conductor vio el tren cuando este comenzó a asomar tras el trozo de bosque. En ese momento, quedaban unos 200 metros por recorrer hasta la vía. El conductor hizo todo lo posible por detener el vehículo, pero debido a la gran resbaladiza no fue posible frenar el camión. Intentó girar el vehículo a la derecha, es decir, hacia la explanada vacía que hay inmediatamente antes de la vía, pero el vehículo no obedeció a la voluntad del conductor y siguió recto. Inmediatamente antes de la vía, logró girar la parte delantera del vehículo hacia la derecha y, por ello, el impacto fue un poco menos grave. No recuerda nada desde el momento del impacto hasta que comenzaron a sacarlo del vehículo.
+
+Los cristales laterales del vehículo estaban ligeramente abiertos por arriba, específicamente antes del paso a nivel, pero este tren tenía luces débiles y no se oía ninguna señal ni ruido, por lo que el tren apareció para el conductor de forma inesperada.
+
+En este paso a nivel no hay semáforos. No hay luces de advertencia encendidas. Inmediatamente antes de la vía solo hay una señal de advertencia de «Vía única» a unos 4-5 metros de los raíles. Según el recuerdo del conductor, no hay limitaciones de velocidad allí. Sin duda, la presencia de una curva en la vía antes de este paso a nivel dificulta ver el tren, ya que el tren queda oculto tras el trozo de bosque.
+
+Según la declaración del conductor del vehículo, la prensa señaló de forma totalmente inesperada que el conductor del camión estaba bajo los efectos del alcohol. El conductor del vehículo no está de acuerdo con ello. Terminó el trabajo tarde, fue a ducharse y comer, y ya estaba en la cama antes de las 24:00. No consumió ningún tipo de alcohol.
+
+El conductor del tren de pasajeros n.º 0522 declaró que el 20.02.2018 trabajaba en la composición de tren n.º 1309, en la segunda mitad del recorrido. El tren se acercaba al paso a nivel de Kulna a velocidad decreciente y con disposición para detenerse en la parada. El paso a nivel estaba libre de tráfico. No había vehículos cercanos que se acercaran. Al llegar al lugar del paso a nivel, observó una sombra gris en el cristal lateral derecho y sintió un fuerte golpe. El tren saltó de los raíles y el conductor del tren fue expulsado de su asiento. Se encontró tendido en el lado derecho de la cabina. Durante un tiempo intentó incorporarse. El conductor del material rodante logró informar al despachador del incidente de salida de vía del material rodante y de la necesidad de solicitar la ambulancia y la policía. Posteriormente, llamó al encargado del depósito. Abrió la puerta del salón y se interesó por si todos estaban con vida. Probablemente, debido al estado de shock y a la mala sensación física, intentó no moverse. Tras recorrer la composición del tren, el revisor declaró que todos estaban con vida. Posteriormente
 
 ## Página 12
 
-el maquinista esperó a los bomberos, la ambulancia y la policía. Fue trasladado al Hospital Regional de Estonia del Norte (Põhja-Eesti Regionaalhaigla).
-El personal de atención al cliente del tren de pasajeros n.º 522 recuerda que estaba en el primer vagón cuando se dio cuenta de que algo había ocurrido. No recuerda haberse caído, pero sí recuerda levantarse y tener un fuerte dolor de cabeza y un bulto en la cabeza. El personal de atención al cliente fue a la cabina de conducción y vio al maquinista con sangre en la cara. Entonces le vinieron inmediatamente a la mente sus obligaciones profesionales y comenzó a cumplirlas. Algunos pasajeros habían resultado heridos. Nadie entró en pánico. En un momento dado, los bomberos estaban en el tren y los pasajeros heridos y el maquinista fueron evacuados. Pronto llegó el responsable de seguridad de Elron, a quien el personal de atención al cliente entregó las llaves y él mismo subió a la ambulancia.
-Un pasajero herido en el incidente ha proporcionado testimonios en los que indica que estaba sentado cerca del almacén de bicicletas, en el centro del tren. Como resultado del golpe recibido por el vagón durante la colisión, cayó al suelo y, unos momentos después, recibió otro impacto. En el accidente sufrió contusiones, hematomas y un diente roto junto con una lesión en el labio. Tras el accidente, salió del tren por la puerta que quedó alineada con la carretera.
+el conductor del tren esperó a la llegada de los equipos de rescate, la ambulancia y la policía. Fue trasladado al Hospital Regional del Norte de Estonia.
+
+El auxiliar de viaje del tren de pasajeros n.º 522 recuerda que estaba en el primer vagón cuando se dio cuenta de que había ocurrido algo. No recuerda haber caído, pero sí recuerda incorporarse y sentir un fuerte dolor de cabeza y un golpe en la cabeza. El auxiliar de viaje fue a la cabina de conducción y vio al conductor del tren con la cara ensangrentada. Acto seguido, recordaron sus obligaciones profesionales y el auxiliar de viaje comenzó a cumplirlas. Algunos viajeros habían sufrido lesiones. Nadie estaba en pánico. En un momento dado, los equipos de rescate estaban en el tren y los viajeros heridos, así como el conductor del tren, fueron trasladados. Poco después llegó el director de seguridad de Elron, al cual el auxiliar de viaje le entregó las llaves y se marchó él mismo en la ambulancia.
+
+El viajero que resultó herido en el incidente declaró que estaba sentado cerca del portabicicletas en el centro del tren. Como resultado del golpe recibido por el vagón tras el impacto, cayó al suelo y, unos instantes después, recibió otro golpe. En el accidente sufrió contusiones, hematomas y un diente roto junto con una lesión en el labio. Tras el accidente, salió del tren por la puerta que quedaba alineada con la carretera.
+
 # 3.2 Sistema de gestión de la seguridad
-AS Eesti Liinirongid. Documento organizativo del trabajo. «Manual del sistema de gestión de la seguridad. Ver.01»
-Fecha de entrada en vigor del documento: 01.07.2015
+
+AS Eesti Liinirongid. Documento de organización del trabajo. «Manual del sistema de gestión de la seguridad. Vers.01»
+
+Fecha de inicio de validez del documento: 01.07.2015
+
 1. Objetivo y ámbito de aplicación
-2. Sobre la empresa
+2. De la empresa
 3. Gestión de la seguridad
-La gestión de la seguridad firme y eficaz de la empresa garantiza que se establezcan y ordenen según su importancia los objetivos de seguridad, se apliquen las actividades necesarias para alcanzar dichos objetivos, se controle continuamente la eficacia del sistema y se apliquen, si es necesario, medidas correctivas y/o preventivas.
+
+La gestión firme y eficaz de la seguridad de la empresa garantiza que se establecen y priorizan los objetivos de seguridad, se llevan a cabo las actividades necesarias para alcanzar los objetivos de seguridad, se controla continuamente la eficacia del sistema y se aplican, si es necesario, medidas de mejora y/o preventivas.
+
 4. Política de seguridad
 5. Objetivos de seguridad
-6. Medidas garantizadas para el cumplimiento de los requisitos de seguridad ferroviaria
-La aplicación de los requisitos establecidos en la legislación está organizada en la empresa junto con la implementación del sistema de gestión de la calidad y del sistema de gestión de la seguridad. En la empresa están integradas la gestión de la seguridad ferroviaria, la gestión de la calidad, la gestión ambiental y la gestión de la salud ocupacional y la seguridad laboral. Todos los documentos organizativos del trabajo utilizados en la empresa forman parte del sistema integrado de gestión. Los documentos organizativos del trabajo relacionados con la garantía de la seguridad se enumeran en el Anexo 1 del presente manual – Documentos organizativos del trabajo relacionados con la seguridad.
-7. Distribución de responsabilidades en materia de seguridad
+6. Medidas para garantizar el cumplimiento de los requisitos de seguridad ferroviaria
+
+La aplicación de los requisitos establecidos en la legislación se organiza en la empresa junto con la implementación del sistema de gestión de la calidad y del sistema de gestión de la seguridad.
+
+En la empresa se han integrado la gestión de la seguridad ferroviaria, la gestión de la calidad, la gestión ambiental y la gestión de la salud y seguridad en el trabajo.
+
+Todos los documentos de organización del trabajo utilizados en la empresa forman parte del sistema de gestión integrado. Los documentos de organización del trabajo relacionados con la garantía de la seguridad se enumeran en el Anexo 1 del presente manual – Documentos de organización del trabajo relacionados con la seguridad.
+
+7. Distribución de las responsabilidades en materia de seguridad
+
 Los servicios responsables de garantizar la seguridad, junto con la descripción de sus actividades, en la empresa son:
-Servicio de Material Rodante - …
-Servicio de Tráfico - …
-Servicio de Personal - …
+
+Servicio de material rodante - ...
+Servicio de tráfico - ...
+Servicio de personal - ...
 
 ## Página 13
 
-Servicio de Seguridad - … 
-Jefe de Seguridad - … 
+Servicio jurídico - … 
+Responsable de seguridad - … 
 8. Procedimiento de evaluación de riesgos 
 9. Organización de la formación y capacitación 
-10. Procedimiento de documentación y transmisión de información sobre seguridad 
+10. Procedimiento de documentación y transmisión de la información de seguridad 
 11. Notificación de accidentes e incidentes 
 12. Plan de actuación en caso de accidente o incidente 
-13. Métodos de implementación y evaluación del sistema de gestión de la seguridad 
-Anexo 1 – Documentos organizativos relacionados con la seguridad 
+13. Métodos de aplicación y evaluación del sistema de gestión de la seguridad 
+Anexo 1 – Documentos de organización del trabajo relacionados con la seguridad 
 Anexo 2 – Evaluación de los riesgos del tráfico 
-Anexo 3 – Personas que ocupan puestos oficiales 
-
-Mediante la Orden n.º 1-3.1/23, de fecha 06.06.2013, del Presidente del Consejo de Administración y Director General de AS Eesti Raudtee, se ha establecido el «Sistema de gestión de la seguridad para la explotación de la infraestructura ferroviaria de AS Eesti Raudtee», en el que se estipula: 
-
-6. Evaluación de riesgos en el sector del transporte. 
-Determinación del marco del análisis de riesgos del transporte. 
+Anexo 3 – Personas que ocupan puestos de trabajo 
+Mediante la orden de fecha 06.06.2013 n.º 1-3.1/23 del Presidente del Consejo de Administración y Director General de AS Eesti Raudtee se estableció el «Sistema de gestión de la seguridad para la explotación de la infraestructura ferroviaria de AS Eesti Raudtee», en el que se establece 
+6. Evaluación de los riesgos del sector del transporte. 
+Determinación del marco de análisis de riesgos de transporte. 
 En primer lugar, se determinan el objetivo del estudio, las tareas y la forma de presentación del sistema de medidas de riesgo. A continuación, teniendo en cuenta los objetivos y las tareas del análisis, se determina la profundidad de los estudios. 
 Descripción de los transportes. 
 Peligros y eventos iniciales. 
 Lista de incidentes. 
-Selección de incidentes y factores de peligro. 
+Selección de incidentes y factores de riesgo. 
 Evaluación de las consecuencias. 
 Evaluación de la probabilidad. 
 Evaluación de los riesgos. 
-Durante la evaluación de los riesgos, se evalúa el riesgo asociado al factor de peligro de cada incidente, evaluándose de forma independiente el riesgo de cada incidente seleccionado. 
+Durante la evaluación de los riesgos, se evalúa el riesgo asociado a cada factor de seguridad de cada incidente, evaluándose de forma independiente el riesgo de cada incidente seleccionado. 
 Uso de los resultados. 
-Los resultados de la evaluación de riesgos se utilizan para la toma de decisiones en AS Eesti Raudtee. El riesgo general es tolerable o intolerable. En el primer caso, se evalúan los posibles daños asociados al riesgo y las posibilidades de reducirlos. En el segundo caso, se evalúan las estrategias para reducir los riesgos posibles y se seleccionan las medidas necesarias para hacer tolerables los riesgos. Tras la selección de las medidas, se vuelven a realizar la evaluación de las consecuencias, la probabilidad y los riesgos. 
-
+Los resultados de la evaluación de los riesgos se utilizan para la toma de decisiones en AS Eesti Raudtee. El riesgo general es aceptable o inaceptable. En el primer caso, se evalúan las posibles pérdidas asociadas al riesgo y las posibilidades de reducirlo. En el segundo caso, se evalúan las estrategias de reducción de los posibles riesgos y se seleccionan las medidas necesarias para hacer que los riesgos sean aceptables. Tras la selección de las medidas, se realiza de nuevo la evaluación de las consecuencias, la probabilidad y los riesgos. 
 10. Actuación en caso de accidente ferroviario. 
-La tarea principal del plan de resolución de situaciones de emergencia del transporte ferroviario de AS Eesti Raudtee es detener la escalada de la situación peligrosa y normalizar la situación lo más rápidamente posible, restableciendo el funcionamiento de la empresa. 
+La tarea principal del plan de gestión de emergencias del transporte ferroviario de AS Eesti Raudtee es detener la escalada de la situación peligrosa y normalizar la situación lo más rápidamente posible, así como restablecer el funcionamiento de la empresa. 
 … 
-La notificación oportuna y la actuación ante situaciones de emergencia, accidentes, incidentes, casos técnicos y otros casos que supongan una amenaza para el tráfico ferroviario se llevan a cabo conforme al procedimiento establecido por AS Eesti Raudtee. 
+La notificación oportuna y la actuación ante una emergencia, un accidente, incidentes, sucesos técnicos y otros sucesos que amenazan el tráfico ferroviario se realizan conforme al procedimiento establecido por AS Eesti Raudtee. 
 … 
-Para la actuación operativa en caso de situación de emergencia, accidente, incidente, caso técnico y otros casos que supongan una amenaza para el tráfico ferroviario, se han determinado la composición del grupo interno de liquidación de las consecuencias de averías de AS Eesti Raudtee, así como la distribución del trabajo y las competencias de sus miembros. … 
+En caso de emergencia, accidente, incidente, suceso técnico y otros sucesos que amenazan el tráfico ferroviario, para la actuación operativa se ha determinado la composición del grupo interno de liquidación de consecuencias de accidentes de AS Eesti Raudtee, así como la distribución del trabajo y las competencias de sus miembros. … 
+
 
 ## Página 14
 
-Se ha establecido el procedimiento de convocatoria del grupo de liquidación de las consecuencias de averías para diversos casos. 
-Para la resolución operativa de accidentes ferroviarios o situaciones que supongan una amenaza para el tráfico ferroviario, garantizar el envío de personal competente al lugar de los hechos y aplicar oportunamente las medidas necesarias, además del grupo de liquidación de las consecuencias de averías, se han constituido grupos de respuesta rápida permanentes formados por especialistas de AS Eesti Raudtee sobre la base de un principio regional (…, Tallinn-Paldiski-Riisipere, …). … El jefe del grupo de respuesta rápida decide sobre la necesidad de que las personas convocadas acudan al lugar de los hechos. Transmite al jefe del grupo de averías información sobre la situación en el terreno y formula propuestas para la resolución de la situación de avería y la liquidación de sus consecuencias. Hasta la llegada del jefe del grupo de averías al lugar de los hechos y la asunción del mando, dirige la actuación en el lugar de los hechos, resuelve las cuestiones surgidas relativas a la seguridad ferroviaria y colabora con las instituciones estatales implicadas (servicio de bomberos, policía, ambulancia, etc.). 
-
-Anexo 5. Causas raíz, eventos iniciales, fuentes de riesgo, factores de riesgo y salidas peligrosas de los accidentes ferroviarios que pueden derivar en una situación de emergencia, identificados mediante el análisis de los riesgos del transporte de AS Eesti Raudtee. 
-Causas raíz. 
+Se ha establecido el procedimiento de convocatoria del grupo de liquidación de consecuencias de accidentes para diferentes tipos de sucesos. 
+Para la resolución operativa de accidentes ferroviarios o situaciones que amenazan el tráfico ferroviario, garantizar el envío de personal competente al lugar del suceso y aplicar oportunamente las medidas necesarias, además del grupo de liquidación de consecuencias de accidentes, se han formado grupos de respuesta rápida que operan de forma permanente sobre la base del principio regional, compuestos por especialistas de AS Eesti Raudtee (…, Tallinn-Paldiski-Riisipere, …). … El jefe del grupo de respuesta rápida decide la necesidad de que el personal designado se desplace al lugar del suceso. Transmite al jefe del grupo de accidentes información sobre la situación en el lugar y formula propuestas para la resolución de la situación de accidente y la liquidación de las consecuencias del accidente. 
+Hasta la llegada del jefe del grupo de accidentes al lugar del suceso y la asunción del mando, dirige las actuaciones en el lugar del suceso, resuelve las cuestiones de seguridad ferroviaria surgidas y colabora con las autoridades nacionales participantes (cuerpo de rescate, policía, servicios de emergencia médica, etc.). 
+Anexo 
+5. 
+Causas iniciales, eventos iniciales, fuentes de riesgo, factores de riesgo y resultados peligrosos de los accidentes ferroviarios que pueden conducir a una emergencia, aclarados mediante el análisis de riesgos de transporte de AS Eesti Raudtee. 
+Causas iniciales. 
 …, errores de los conductores de vehículos, … 
 Eventos iniciales. 
-…, colisión del material rodante ferroviario con un vehículo, … 
+…, colisión entre un vehículo ferroviario y un vehículo, … 
 Fuentes de riesgo. 
 …, vagón de pasajeros. 
 Factores de riesgo. 
 …, pasajeros que viajan en un tren de pasajeros. 
-Salidas peligrosas (consecuencias). 
-…, daño mecánico de los tejidos del cuerpo humano. 
-
-# 3.3 Normas jurídicas 
-
-La «Ley de Tráfico» establece: 
-
-§ 19. Obligaciones de los usuarios de la vía al cruzar la línea férrea. 
-(1) Al cruzar la línea férrea, el usuario de la vía debe prestar especial atención. Al ver u oír aproximarse un vehículo ferroviario, debe cederle el paso. El usuario de la vía debe tener en cuenta las señales de tráfico, las señales sonoras y luminosas, la posición de la barrera y las instrucciones del regulador. 
-
-§ 50. Elección de la velocidad del vehículo. 
-(3) El conductor debe adaptar la velocidad de su vehículo a las circunstancias, pero no debe superar la velocidad máxima permitida. El conductor debe: 
-1) al elegir la velocidad del vehículo, tener en cuenta su experiencia como conductor, las condiciones de la carretera, el estado de la carretera y del vehículo, las características de la carga, las condiciones meteorológicas, la densidad del tráfico y otras circunstancias del tráfico, de modo que pueda detenerse dentro del alcance de visibilidad delante del vehículo y ante cualquier obstáculo presente en la carretera que el conductor debiera haber previsto; 
-2) reducir la velocidad y, si es necesario, detenerse, cuando las condiciones lo exijan, especialmente cuando la visibilidad sea deficiente. 
-
-§ 59. Cruce de la línea férrea 
-(1) Al acercarse al paso a nivel, el conductor debe prestar especial atención. El conductor debe circular a una velocidad que le permita, si es necesario, detener el vehículo suavemente en el lugar previsto en el apartado 2 del presente artículo.
+Resultados peligrosos (consecuencias). 
+…, lesión mecánica de los tejidos del cuerpo humano. 
+# 3.3 Normativa jurídica 
+La «Ley de Tráfico» establece 
+Artículo 19. Obligaciones de los usuarios al cruzar la vía férrea. 
+(1) Al cruzar la vía férrea, el usuario debe prestar especial atención. Al ver u oír un vehículo ferroviario que se acerca, debe ceder el paso. El usuario debe tener en cuenta las señales de tráfico, las señales acústicas y luminosas, la posición de las barreras y las instrucciones del regulador. 
+Artículo 50. Elección de la velocidad de circulación. 
+(3) El conductor debe adaptar la velocidad de su vehículo a la situación, sin exceder nunca la velocidad máxima permitida. El conductor debe 
+1) al elegir la velocidad de circulación, tener en cuenta su experiencia de conducción, las condiciones de la calzada, el estado de la carretera y del vehículo, las particularidades de la carga, las condiciones meteorológicas, la densidad del tráfico y otras condiciones de tráfico, de modo que pueda detener el vehículo dentro del tramo de visibilidad delante del vehículo y delante de cualquier obstáculo en la vía que el conductor debiera haber previsto; 
+2) reducir la velocidad y, si es necesario, detenerse, cuando las condiciones lo exijan, especialmente cuando la visibilidad es deficiente. 
+Artículo 59. Cruce de la vía férrea 
+(1) Al acercarse a un paso a nivel, el conductor debe prestar especial atención. 
+El conductor debe circular a una velocidad que le permita, si es necesario, detener el vehículo de forma fluida en el lugar previsto en el apartado 2 del presente artículo.
 
 ## Página 15
 
-(2) Para dar preferencia de paso a un vehículo ferroviario que se aproxime y en los casos enumerados en el § 60 de la presente ley, el conductor debe detenerse delante de la barrera; en su ausencia, al menos a cinco metros del primer raíl, o delante de la señal de tráfico correspondiente si existe.
-El anexo 1 «Guía de señalización ferroviaria» del Reglamento n.º 39 del Ministro de Carreteras y Comunicaciones «Aprobación del Reglamento técnico de explotación ferroviaria» establece:
+(2) Para ceder el paso a una circulación ferroviaria que se aproxime, el conductor deberá detenerse antes de la barrera; en caso de ausencia de esta, a una distancia mínima de cinco metros del primer carril, y, si existe la señalización de tráfico correspondiente, antes de la misma.
+El anexo 1 «Manual de señalización ferroviaria» del Reglamento n.º 39 del Ministro de Transporte y Comunicaciones «Aprobación del Reglamento de uso técnico de las vías férreas» establece:
 66. Señales de advertencia:
-1) El punto para emitir la señal acústica se coloca antes de un túnel, puente, paso a nivel u otra instalación de vía, ante cuya aproximación el maquinista debe emitir una señal de atención (pitido largo de la locomotora).
-El anexo 4 «Guía para la construcción, mantenimiento y uso de pasos a nivel y pasos peatonales sobre vías férreas» del Reglamento n.º 39 del Ministro de Carreteras y Comunicaciones «Aprobación del Reglamento técnico de explotación ferroviaria» establece:
+1) El punto de emisión de la bocina se situará antes del túnel, el puente, el paso a nivel u otra infraestructura, ante la aproximación a la cual el maquinista deberá emitir una señal de atención (sonido largo de la bocina de la locomotora).
+El anexo 4 «Guía para la construcción, mantenimiento y uso de pasos a nivel y pasos peatonales» del Reglamento n.º 39 del Ministro de Transporte y Comunicaciones «Aprobación del Reglamento de uso técnico de las vías férreas» establece:
 § 4. Inspección del paso a nivel.
-4.1 El propietario de la infraestructura ferroviaria organiza periódicamente una inspección por comisión de los pasos a nivel de uso público pertenecientes a su propiedad o posesión, así como de sus equipos y de las instalaciones de ordenación del tráfico de las carreteras que desembocan en el paso a nivel.
-4.3 Se incluye en la comisión de inspección al propietario o poseedor de la infraestructura ferroviaria, al propietario o poseedor de la carretera, a representantes de la Agencia de Supervisión Técnica y de la Oficina de Policía y Guardia Fronteriza, o a cualquier otra persona con un interés justificado y/o competencia.
-4.4 La comisión de inspección evalúa si el paso a nivel cumple los requisitos establecidos y es seguro para su uso. La comisión de inspección formula propuestas y observaciones sobre la situación técnica del paso a nivel y de los equipos utilizados en él, así como sobre el cumplimiento de los requisitos en las carreteras que desembocan en el paso a nivel. Si no se siguen las propuestas de la comisión de inspección, el propietario o poseedor del paso a nivel debe demostrar mediante otra documentación técnica y/o cálculos que el paso a nivel cumple los requisitos y es seguro para su uso.
+4.1 El propietario de la infraestructura ferroviaria organizará inspecciones comisionadas periódicas de los pasos a nivel de uso público que sean de su propiedad o estén bajo su custodia, así como de sus dispositivos y de los medios de regulación del tráfico de las vías que desembocan en el paso a nivel.
+4.3. En la comisión de inspección participarán el propietario de la infraestructura ferroviaria u otro titular, el propietario o titular de la vía, representantes de la Agencia de Supervisión Técnica y de la Agencia de Policía y Guardia Fronteriza, o cualquier otra persona con un interés legítimo y/o competencia.
+4.4 La comisión de inspección evaluará si el paso a nivel cumple con los requisitos establecidos y es seguro para su uso. La comisión de inspección formulará sugerencias y observaciones sobre la situación técnica y el cumplimiento de los requisitos del paso a nivel, de los dispositivos utilizados en él y de las vías que desembocan en el paso a nivel. Si no se siguen las sugerencias de la comisión de inspección, el propietario o titular del paso a nivel deberá demostrar, mediante otra documentación técnica y/o cálculos, que el paso a nivel cumple con los requisitos y es seguro para su uso.
 § 6. Categorías de pasos a nivel.
-Tabla 1 – Categorías de pasos a nivel de uso público
-Categoría del paso a nivel | Producto (por día) entre material rodante ferroviario que atraviesa el paso a nivel y vehículos que lo cruzan
-II | 30 000 – 300 000
-III | Menos de 30 000
-§ 7. Equipamiento de los pasos a nivel de uso público según la categoría del paso a nivel.
-7.2 Un paso a nivel de categoría II es un paso a nivel regulado sin vigilancia, que debe estar equipado con señalización luminosa automática del paso a nivel.
-7.3 Un paso a nivel de categoría III es un paso a nivel no regulado, equipado únicamente con las instalaciones obligatorias de ordenación del tráfico previstas conforme al Reglamento n.º 12 del Ministro de Economía y Comunicaciones, de 22 de febrero de 2011, «Significado de las señales de tráfico y marcas viales y requisitos para los semáforos». En un paso a nivel de categoría III debe garantizarse al conductor del vehículo, desde una distancia de 50 metros del raíl extremo, la visibilidad de un tren a 400 metros de distancia (en adelante, triángulo de visibilidad).
-
+Tabla 1 – Categorías de los pasos a nivel de uso público
+Categoría del paso a nivel
+Producto del material rodante que circula por el paso a nivel y de los vehículos que lo cruzan
+(por día)
+II
+30 000 – 300 000
+III
+Menos de 30 000
+§ 7. Equipamiento de los pasos a nivel de uso público en función de la categoría del paso a nivel.
+7.2 El paso a nivel de categoría II es un paso a nivel regulado sin vigilancia, que debe estar equipado con señalización luminosa automática del paso a nivel.
+7.3 El paso a nivel de categoría III es un paso a nivel no regulado, que únicamente cuenta con los medios de regulación del tráfico obligatorios previstos en virtud del Reglamento n.º 12 del Ministro de Economía y Comunicaciones de 22 de febrero de 2011 «Significados de las señales de tráfico y marcas viales, y requisitos para los semáforos». En el paso a nivel de categoría III debe garantizarse al conductor del vehículo una visibilidad del tren a 400 metros de distancia, a una distancia de 50 metros desde el carril más extremo (en adelante, triángulo de visibilidad).
 
 ## Página 16
 
-Si en un paso a nivel de categoría III no está garantizado el triángulo de visibilidad reglamentario, la velocidad de circulación del material rodante es superior a 25 km/h y el producto diario entre el material rodante ferroviario que atraviesa el paso a nivel y los vehículos que lo cruzan supera los 800, el paso a nivel debe equiparse conforme a los requisitos vigentes para los pasos a nivel de categoría II.
-§ 9. Requisitos generales para el paso a nivel.
-          9.1 El ancho del pavimento del paso a nivel debe ser igual al ancho total de la carretera.
-Requisitos mínimos para la señalización de los pasos a nivel ferroviarios de categoría III.
-La secuencia de señales al acercarse a la vía, conforme al Reglamento «Significado de las señales de tráfico y marcas viales y requisitos para los semáforos», es la siguiente:
-señal 123 y 112 en el poste común,
-señal 124 en el poste común,
-señal 125 y 112 en el poste común,
-señal 121 en poste propio.
-El Reglamento n.º 92 del Ministro de Economía e Infraestructuras «Requisitos de estado de las carreteras» establece:
-§ 6. Requisitos generales de estado
-(1) Los requisitos generales de estado son:
-14) En el paso a nivel se deben realizar trabajos de limpieza de nieve y antideslizantes conforme a los requisitos de nivel de servicio establecidos para la carretera.
+Si en un paso a nivel de categoría III no se garantiza el triángulo de visibilidad adecuado, la velocidad de circulación del material rodante es superior a 25 km/h y el producto del material rodante que circula por el paso a nivel y de los vehículos que lo cruzan por día supera las 800 unidades, el paso a nivel debe equiparse conforme a los requisitos aplicables a los pasos a nivel de categoría II.
+§ 9. Requisitos generales para los pasos a nivel.
+9.1 La anchura del pavimento del paso a nivel debe ser igual a la anchura total de la vía.
+Requisitos mínimos para la señalización de un paso a nivel ferroviario de categoría III.
+El orden de las señales al aproximarse a las vías, conforme al Reglamento «Significados de las señales de tráfico y marcas viales, y requisitos para los semáforos», es el siguiente:
+en el poste común, señal 123 y 112,
+en el poste común, señal 124,
+en el poste común, señal 125 y 112,
+en el poste independiente, señal 121.
+El Reglamento n.º 92 del Ministro de Economía e Infraestructuras «Condiciones de estado de las vías» establece:
+§ 6. Condiciones generales de estado
+(1) Las condiciones generales de estado son:
+14) en el paso a nivel debe realizarse la lucha contra la nieve y el hielo conforme a los requisitos del nivel de estado establecido para la vía.
 § 17. Conceptos utilizados en el mantenimiento invernal
-En el presente capítulo se utilizan los conceptos con el siguiente significado:
-1) Condiciones meteorológicas adversas – condiciones climáticas en las que se da al menos una de las siguientes circunstancias: nevada ininterrumpida durante la cual caen al menos 10 cm de nieve en cuatro horas, nevada durante la cual caen al menos 5 cm de nieve en cuatro horas si simultáneamente hay viento fuerte con ráfagas superiores a 12 m/s y la nieve forma ventisqueros peligrosos por encima del espesor crítico de la capa de nieve, u otra situación derivada de las condiciones meteorológicas en la que garantizar los requisitos de estado establecidos puede verse gravemente dificultada;
-2) Espesor crítico de la capa de nieve – máximo espesor permitido de la capa de nieve, incluyendo nieve suelta, nieve derretida, aguanieve y mezcla de sal y nieve, en la calzada entre las huellas de los neumáticos durante la nevada o el ventisquero. Los valores permitidos del espesor crítico de la capa de nieve figuran en el anexo 8 del presente Reglamento;
-3) Hielo negro – capa densa de hielo formada sobre la superficie de la carretera, cuya temperatura es inferior a 0 ˚C, debido a la lluvia o a una alta humedad ambiental;
-4) Tratamiento antideslizante – aumento del coeficiente de fricción del pavimento mediante la dispersión de cloruros, materiales abrasivos o sus mezclas, o soluciones acuosas de cloruros sobre el pavimento, así como el aumento del coeficiente de fricción del pavimento mediante escarificado mecánico, o la eliminación de baches e irregularidades con la misma tecnología;
-5) Limpieza de nieve – retirada de la nieve de la carretera;
-6) Punto peligroso - …, así como el paso a nivel en un radio de 50 metros desde el eje del raíl, ….
-7) Material de dispersión – materiales de tratamiento antideslizante: materiales abrasivos, sus mezclas con cloruros y soluciones acuosas de cloruros;
-8) Periodo de validez del nivel de servicio – intervalo de tiempo durante el cual las condiciones de la carretera deben cumplir el nivel de servicio requerido;
+En el presente capítulo se utilizan los conceptos en el siguiente sentido:
+1) condiciones meteorológicas adversas – condiciones climáticas en las que se produce al menos uno de los siguientes factores: nieve continua que provoca la caída de al menos 10 cm de nieve en cuatro horas, o nieve que provoca la caída de al menos 5 cm de nieve en cuatro horas, si simultáneamente hay viento fuerte con ráfagas superiores a 12 m/s y la nieve forma dunas de nieve peligrosas por encima del espesor crítico de la capa de nieve, u otra situación provocada por las condiciones meteorológicas en la que la garantía de los requisitos de estado establecidos puede verse considerablemente dificultada;
+2) espesor crítico de la capa de nieve – el espesor máximo permitido de la capa de nieve, incluida la nieve suelta, la nieve mojada, la aguanieve y la mezcla de sal y nieve, en la calzada entre las huellas de los vehículos durante la nevada o la ventisca. Los valores permitidos del espesor crítico de la capa de nieve se indican en el anexo 8 del presente Reglamento;
+3) hielo – capa de hielo densa formada sobre la superficie de la vía debido a la lluvia o a la alta humedad ambiental, cuya temperatura es inferior a 0 °C;
+4) lucha contra el hielo – aumento del coeficiente de adherencia del firme mediante la aplicación de cloruros, materiales abrasivos o sus mezclas, o soluciones acuosas de cloruros sobre el firme, así como el aumento del coeficiente de adherencia del firme mediante el escarificado mecánico, o la eliminación de las mismas tecnologías de las vías y de las irregularidades;
+5) lucha contra la nieve – eliminación de la nieve de la vía;
+6) lugar peligroso - ..., así como el paso a nivel en un radio de 50 metros desde el eje del carril, ....
+7) material de grava – materiales para la lucha contra el hielo: materiales abrasivos, sus mezclas con cloruros y soluciones acuosas de cloruros;
+8) período de validez del nivel de estado – el período durante el cual las condiciones de la vía deben cumplir con el nivel de estado requerido;
 
 ## Página 17
 
-9) mantenimiento invernal – eliminación de hielo, limpieza de nieve, nivelado y rugosidad de la nieve compactada y las crestas de hielo, retirada de nieve y mantenimiento de los dispositivos de regulación del tráfico;
-10) coeficiente de adherencia – parámetro del estado de la superficie de la carretera que caracteriza la adherencia entre la rueda del vehículo y la superficie de la carretera;
-Reglamento n.º 92 del Ministro de Economía e Infraestructura, de 14.07.2015, Anexo 6 «Nivel invernal de servicio de las carreteras»
-Intensidad de tráfico hasta 1000 vehículos al día. Carretera secundaria: nivel de servicio requerido 1.
-El Reglamento n.º 92 del Ministro de Economía e Infraestructura, de 14.07.2015, Anexo 8 «Requisitos invernales para el estado de las carreteras», establece lo siguiente:
-Indicadores: Requisitos del nivel de servicio – 1.
+9) mantenimiento de la vía: aplicación de antideslizantes, eliminación de la nieve, nivelación y arenado de la nieve compactada y de los baches de hielo, evacuación de la nieve y mantenimiento de los dispositivos de regulación del tráfico;
+10) coeficiente de adherencia: parámetro del estado de la superficie de la carretera que describe la adherencia entre la rueda del vehículo y la superficie de la carretera;
+
+Orden del Ministro de Economía y Comunicaciones n.º 92, de 14.07.2015, Anexo 6 «Nivel de estado invernal de la carretera»
+
+Frecuencia del tráfico:
+hasta 1000 vehículos por día.
+Carretera secundaria, nivel de estado requerido: 1.
+
+El Orden del Ministro de Economía y Comunicaciones n.º 92, de 14.07.2015, Anexo 8 «Requisitos de estado invernal de la carretera» establece
+
+Indicadores: Requisitos del nivel de estado – 1.
 Requisitos generales
-Estado requerido de la carretera: Nieve compactada o carretera helada, tratamiento antideslizante en lugares peligrosos.
-Coeficiente mínimo de adherencia requerido en la carretera: 0,20 y en lugares peligrosos 0,25.
-Distancia entre los montones de nieve en la carretera, medida desde la superficie de la calzada, m: 6 o, en carreteras más estrechas, al menos el ancho de la calzada.
+Estado requerido de la carretera: Nieve compactada o carretera helada, aplicación de antideslizantes en puntos peligrosos.
+Coeficiente de adherencia mínimo requerido en la carretera: 0,20 y en puntos peligrosos 0,25.
+Distancia entre los montículos de nieve en la carretera, medida desde la superficie de la carretera, m: 6 o, en carreteras más estrechas, al menos la anchura del carril.
 Planitud.
-Surcos o irregularidades máximos permitidos en nieve compactada o hielo rugoso, cm: 4.
-Espesor crítico de la capa de nieve.
+Mayor profundidad de las huellas o irregularidades en la nieve compactada o en hielo rugoso, cm: 4.
+Grosor crítico de la capa de nieve.
 Nieve suelta, cm: 10.
-Nieve húmeda, aguanieve o mezcla de sal y nieve, cm: 5.
-El Reglamento n.º 92 del Ministro de Economía e Infraestructura, de 14.07.2015, Anexo 9 «Tiempo del ciclo de mantenimiento en horas», establece lo siguiente:
-Requisitos del nivel de servicio 1.
-Eliminación de nieve y aguanieve de la calzada: 24.
-Tiempo para garantizar el coeficiente de adherencia requerido: 12.
-AS Eesti Liinirongid (Elron). Documento organizativo de trabajo «Procedimiento de información en caso de situaciones de emergencia y retrasos relacionados con los trenes. Ver 06»
+Nieve húmeda, lodo o mezcla de sal y nieve, cm: 5.
+
+El Orden del Ministro de Economía y Comunicaciones n.º 92, de 14.07.2015, Anexo 9 «Plazo del ciclo de mantenimiento en horas» establece
+
+Requisitos del nivel de estado 1.
+Eliminación de la nieve y el lodo de la calzada: 24.
+Plazo para garantizar el coeficiente de adherencia requerido: 12.
+
+AS Eesti Liinirongid (Elron). Documento de organización del trabajo «Procedimiento de información en caso de situaciones de emergencia y retrasos relacionados con los trenes. Ver 06»
 Fecha de entrada en vigor del documento: 07.03.2015.
+
 3. Disposiciones generales
-3.1. En cuestiones relacionadas con la circulación, el personal de a bordo está subordinado al despachador de trenes de infraestructura de la zona en cuyo ámbito de servicio se encuentren.
-4. Planes de notificación al personal de a bordo
-4.1. En caso de detención del tren por una situación de emergencia, el jefe de material rodante informa inmediatamente al despachador de trenes, selecciona posteriormente el mensaje correspondiente del sistema de información a pasajeros MITRON y lo transmite al interior del tren. A continuación, el jefe de material rodante informa al regulador de tráfico mediante otros medios de comunicación y coordina, si es necesario, las acciones posteriores. Si procede, informa adicionalmente al agente de atención al cliente sobre las causas del accidente y comunica la hora de transmisión del siguiente mensaje.
-4.6. Cuando sea posible, el jefe de material rodante proporciona información adicional, como la duración del retraso, a través del sistema de megafonía del tren.
-5. Transmisión de información dentro de la empresa y gestión operativa de situaciones de emergencia
+3.1. El equipo del tren se somete, en las cuestiones relacionadas con el tráfico, al despachador de infraestructura de la región en cuyo área de servicio se encuentre.
+
+4. Planes de información del equipo del tren
+4.1. Cuando el tren se detenga debido a una situación de emergencia, el conductor del tren informará inmediatamente al despachador de trenes, seleccionará a continuación un mensaje adecuado del sistema de información a los pasajeros MITRON y lo transmitirá al vagón del tren. A continuación, el conductor del tren informará al regulador del tráfico mediante otros medios de comunicación y, si es necesario, coordinará las acciones posteriores. Si es necesario, informará adicionalmente al agente de atención al cliente sobre las causas del accidente y comunicará la hora de transmisión del próximo mensaje.
+
+4.6. Siempre que sea posible, el conductor del tren proporcionará información adicional, como la duración del retraso, a través del sistema de aviso sonoro del tren.
+
+5. Transmisión de información en la empresa y resolución operativa de situaciones de emergencia
 
 ## Página 18
 
-5.1. El jefe de material rodante facilita al regulador de tráfico, tras determinar las consecuencias del incidente, información sobre el mismo, datos adicionales sobre la posibilidad de continuar la marcha por sus propios medios o la necesidad de asistencia y su magnitud.
-5.2. El regulador de tráfico transmite inmediatamente la información por teléfono al especialista en tráfico.
-5.3. El regulador de tráfico emite, a más tardar en un plazo de 10 minutos, una notificación SMS sobre el incidente conforme a la tabla de transmisión de mensajes de notificación.
-5.4. El regulador de tráfico contacta, según la situación, por teléfono, con el regulador de tráfico superior, el logístico, el supervisor de atención al cliente, el jefe del grupo de mantenimiento y emergencias y el jefe instructor.
-5.5. Todos los puestos implicados en la resolución del incidente informan inmediatamente al regulador de tráfico sobre sus actuaciones, las decisiones adoptadas y los resultados.
-5.6. Sobre la resolución de la situación, el regulador de tráfico envía un SMS correspondiente conforme a la tabla de transmisión de mensajes de notificación.
-5.7. El regulador de tráfico registra todas las notificaciones recibidas.
-AS Eesti Liinirongid (Elron). Documento organizativo de trabajo «Guía de actuación en situaciones de emergencia. Ver.03.»
+5.1. El conductor del tren proporcionará al regulador del tráfico, tras determinar las consecuencias del incidente, información sobre el incidente, así como información adicional sobre las posibilidades de continuar el viaje por sus propios medios o sobre la necesidad de asistencia y su magnitud.
+
+5.2. El regulador del tráfico transmitirá inmediatamente la información por teléfono al especialista de tráfico.
+
+5.3. El regulador del tráfico enviará como máximo en 10 minutos una notificación por SMS sobre el incidente, de acuerdo con la tabla de transmisión de mensajes de información.
+
+5.4. El regulador del tráfico, según la situación y por teléfono, se pondrá en contacto con el regulador de tráfico superior, el responsable de logística, el responsable de atención al cliente superior, el jefe del grupo de mantenimiento y averías y el jefe instructor.
+
+5.5. Todos los puestos de trabajo relacionados con la resolución del incidente informarán inmediatamente al regulador del tráfico sobre sus acciones, las decisiones adoptadas y los resultados.
+
+5.6. El regulador del tráfico enviará un mensaje SMS adecuado sobre la resolución de la situación, de acuerdo con la tabla de transmisión de mensajes de información.
+
+5.7. El regulador del tráfico registrará todas las notificaciones recibidas.
+
+AS Eesti Liinirongid (Elron). Documento de organización del trabajo «Guía de actuación en situaciones de emergencia. Ver.03.»
 Fecha de entrada en vigor del documento: 07.04.2017
+
 3. Disposiciones generales
-3.1. En caso de situación de emergencia, todos los empleados de AS Eesti Liinirongid que atienden el tren obedecen y cumplen las órdenes del jefe de material rodante hasta la llegada de los equipos de rescate, la policía o los servicios de urgencias médicas.
-3.13. En caso de accidente enumerado en el apartado 3 del artículo 40 de la Ley Ferroviaria, si ha provocado la destrucción del material rodante y/o el descarrilamiento del mismo, acuden al lugar del suceso, según proceda, un miembro del consejo de administración y el responsable de seguridad. Se incorporan también, según las necesidades, los servicios relacionados con el caso.
-4. Plan de notificación en casos diversos que afectan a la seguridad ferroviaria (Ley Ferroviaria, art. 40, apdos. 1-4)
-Plan de notificación
-4.1. De todas las situaciones de emergencia, accidentes graves, accidentes, incidentes, casos técnicos u otros sucesos que supongan un peligro para la circulación ferroviaria, así como de las perturbaciones del tráfico, el jefe de material rodante informa inmediatamente al regulador de tráfico competente, selecciona el mensaje correspondiente del sistema de información MITRON del tren y lo transmite al interior del vagón, e informa al regulador de tráfico y coordina, si es necesario, las acciones posteriores. Si procede, informa adicionalmente al agente de atención al cliente sobre las causas del retraso y transmite un nuevo mensaje a través del sistema de información a pasajeros del tren a más tardar 10 minutos después.
-7. Actuaciones en caso de accidentes
-Colisión del tren con un medio de transporte
+3.1. En caso de situación de emergencia, todo el personal de AS Eesti Liinirongid que atienda al tren se someterá a las órdenes del conductor del tren y las cumplirá hasta la llegada del equipo de rescate, la policía o la ambulancia.
+
+3.13 En caso de accidente de tráfico ferroviario enumerado en el apartado 3 del artículo 40 de la Ley del Ferrocarril, si ha provocado la destrucción del material rodante y/o el descarrilamiento del material rodante, el miembro del consejo de administración y el responsable de seguridad se desplazarán al lugar del incidente según sea necesario. Según las necesidades, se incorporarán también los servicios relacionados con el incidente.
+
+4. Plan de información en caso de diferentes incidentes que afectan a la seguridad ferroviaria (artículo 40, apartados 1-4 de la Ley de Seguridad Ferroviaria)
+
+Plan de información
+4.1. El conductor del tren informará inmediatamente al regulador del tráfico competente de todas las situaciones de emergencia, accidentes graves, accidentes, incidentes, incidentes técnicos u otros eventos que amenacen el tráfico ferroviario, así como de las interrupciones del tráfico, seleccionará un mensaje adecuado del sistema de información MITRON del tren y lo transmitirá al vagón del tren, informará al regulador del tráfico y, si es necesario, coordinará las acciones posteriores. Si es necesario, informará adicionalmente al agente de atención al cliente sobre las causas del retraso y transmitirá un nuevo mensaje a través del sistema de información a los pasajeros del tren como máximo 10 minutos después.
+
+7. Acciones en caso de accidente
+
+Colisión del tren con un vehículo de tráfico
 Descarrilamiento del tren
-7.9. Para evitar una colisión frontal con una persona, un animal, un vehículo u objeto presente en la vía, el jefe de material rodante aplica inmediatamente el freno de emergencia del tren y, si es necesario, da señal acústica con el tren.
-7.10. El jefe de material rodante informa sobre lo ocurrido (incluidos los pasajeros) conforme al «plan de notificación de accidentes» del punto 4.1.
-7.11. El regulador de tráfico competente solicita la presencia de la policía, los servicios de urgencias médicas y los bomberos, e informa al responsable de seguridad de la empresa de infraestructura ferroviaria sobre el caso.
+
+7.9. Para evitar una colisión con una persona, un animal, un vehículo o un objeto en la vía, el conductor del tren aplicará inmediatamente el freno de emergencia del tren y, si es necesario, emitirá la señal acústica del tren.
+
+7.10. El conductor del tren informará del incidente (excluidos los pasajeros) de acuerdo con el «plan de notificación de accidentes del punto 4.1».
+
+7.11. El regulador del tráfico competente convocará a la policía, a la ambulancia y al servicio de rescate, e informará al responsable de seguridad de la empresa de infraestructura ferroviaria del incidente.
 
 ## Página 19
 
-7.12. El jefe de material rodante ferroviario organiza, junto con el agente de atención al cliente, si es necesario, la evacuación de los pasajeros del tren. El jefe de material rodante ferroviario o el agente de atención al cliente presta los primeros auxilios a las personas que lo requieran.
-7.13. El jefe de material rodante ferroviario evalúa el estado técnico del tren y su capacidad futura para circular, e informa de ello al regulador de tráfico competente y al regulador de tráfico.
-7.14. El jefe de material rodante ferroviario desconecta, si es necesario, las baterías del tren y aplica medidas para prevenir daños adicionales y contaminación ambiental.
-7.15. El regulador de tráfico se pone en contacto con el jefe del grupo de mantenimiento y emergencias. El jefe del grupo de emergencias y averías decide sobre el desplazamiento al lugar de los hechos, la composición del grupo y la inclusión de las herramientas necesarias para la operación de rescate.
-7.16. El grupo de emergencias y averías organiza, si es necesario, en el lugar de los hechos, la eliminación de la sobrecarga dimensional del tren, la revisión de los frenos, la instalación de carros auxiliares, la posible desacoplamiento de los vagones del tren, etc. En caso de posible desacoplamiento de los vagones del tren, se actuará conforme a la documentación del fabricante del tren.
-7.17. El director técnico, o en su ausencia el jefe del grupo de mantenimiento y emergencias, dirige en el lugar de los hechos las operaciones de rescate por parte de AS Eesti Liinirongid; hasta su llegada, dirige las actividades en el lugar de los hechos el jefe de material rodante ferroviario. El director técnico, junto con el representante de la infraestructura ferroviaria y otras partes, acuerdan un plan de acción preciso para las operaciones de rescate, incluyendo la recolocación del tren sobre las vías y su traslado mediante otro tren de pasajeros o una locomotora de alguna empresa de transporte ferroviario.
-10. Desembarque de pasajeros fuera de la plataforma de espera de pasajeros
-10.1. Fuera de la plataforma de espera de pasajeros, donde un tren con retraso permanece detenido debido a una situación de emergencia o incidente durante más de 30 minutos previsiblemente, el jefe de material rodante ferroviario verifica que el desembarque de los pasajeros del tren en dicho lugar sea seguro. Tras esto, el jefe de material rodante ferroviario solicita permiso al regulador de tráfico competente para el desembarque de los pasajeros del tren fuera de la plataforma de espera de pasajeros.
-10.2. Basándose, entre otros, en la información recibida por parte del jefe de material rodante ferroviario, el regulador de tráfico competente toma la decisión sobre el desembarque de los pasajeros del tren e informa de ello al jefe de material rodante ferroviario.
-10.3. Para el desembarque de los pasajeros del tren fuera de la plataforma de espera de pasajeros, el equipo del tren debe utilizar como medio auxiliar la escalera existente en el inventario del tren para garantizar una seguridad adicional.
-10.4. El jefe de material rodante ferroviario abre únicamente una puerta de la composición del tren con llave (preferiblemente la puerta derecha del vagón en la dirección de marcha del tren) y garantiza, junto con el agente de atención al cliente, un desembarque seguro de los pasajeros del tren.
-10.5. El agente de atención al cliente dirige a los pasajeros lejos de la vía férrea y verifica que todos los pasajeros estén fuera de la zona de peligro ferroviaria, informando inmediatamente de ello al jefe de material rodante ferroviario.
-10.6. El jefe de material rodante ferroviario informa al regulador de tráfico competente sobre la finalización de la actividad de desembarque de los pasajeros del tren y espera instrucciones posteriores.
+7.12. El conductor del material rodante organiza, junto con el agente de atención al cliente, si fuera necesario, la evacuación de los pasajeros del tren. El conductor del material rodante o el agente de atención al cliente prestan los primeros auxilios a las personas que los necesiten.
+7.13. El conductor del material rodante evalúa el estado técnico del tren y su capacidad de circulación posterior, e informa al responsable de tráfico competente y al responsable de tráfico.
+7.14. El conductor del material rodante desconecta, si fuera necesario, las baterías del tren y aplica medidas para prevenir daños adicionales y contaminación medioambiental.
+7.15. El responsable de tráfico se pone en contacto con el jefe del grupo de mantenimiento y emergencias. El jefe del grupo de emergencias y averías decide el desplazamiento al lugar de los hechos, la composición del grupo y la inclusión de las herramientas necesarias para las operaciones de rescate.
+7.16. El grupo de emergencias y averías organiza, si fuera necesario en el lugar de los hechos, la eliminación de las dimensiones excesivas del tren, la avería de los frenos, la instalación de ruedas de apoyo, la posible desconexión de los vagones del tren, etc. En caso de posible desconexión de los vagones del tren, se actuará de conformidad con la documentación del fabricante del tren.
+7.17. El director técnico, o en su ausencia el jefe del grupo de mantenimiento y emergencias, dirige las operaciones de rescate llevadas a cabo por AS Eesti Liinironges en el lugar de los hechos, hasta su llegada, momento en el cual el conductor del material rodante dirige las actividades en el lugar de los hechos. El director técnico, junto con el representante de la infraestructura ferroviaria y otras partes interesadas, acuerdan un plan de actuación preciso para las operaciones de rescate, incluida la reposición del tren sobre las vías y su traslado a otro tren de viajeros o a la locomotora de algún operador de transporte ferroviario.
 
-# 3.4 Funcionamiento del material rodante y equipos técnicos
+10. Autorización para que los pasajeros abandonen el tren en zonas exteriores a la plataforma de espera
+10.1. En las zonas exteriores a la plataforma de espera, donde se espera que el tren retrasado permanezca detenido debido a una situación de emergencia o incidente durante más de 30 minutos, el conductor del material rodante se asegura de que la salida de los pasajeros del tren en dicho lugar sea segura. Tras ello, el conductor del material rodante solicita al responsable de tráfico competente la autorización para que los pasajeros abandonen el tren en las zonas exteriores a la plataforma de espera.
+10.2. Basándose, entre otros aspectos, en la información recibida del conductor del material rodante, el responsable de tráfico competente toma la decisión de autorizar la salida de los pasajeros del tren e informa al conductor del material rodante de dicha decisión.
+10.3. Para autorizar la salida de los pasajeros del tren en zonas exteriores a la plataforma de espera, la tripulación del tren debe utilizar, como medida de seguridad adicional, la escalera incluida en el equipamiento del tren.
+10.4. El conductor del material rodante abre con llave únicamente una puerta de la composición del tren (preferiblemente la puerta derecha del vagón en la dirección de marcha del tren) y, junto con el agente de atención al cliente, garantiza la salida segura de los pasajeros del tren.
+10.5. El agente de atención al cliente dirige a los pasajeros alejándose de las vías y se asegura de que todos los pasajeros se encuentren fuera de la zona de peligro de las vías, informando de ello inmediatamente al conductor del material rodante.
+10.6. El conductor del material rodante informa al responsable de tráfico competente de la finalización de la operación de salida de los pasajeros del tren y espera instrucciones adicionales.
 
-La mezcla de material abrasivo esparcida durante el mantenimiento invernal de la carretera estatal n.º 11171 que cruza la vía férrea, con cloruros o sus soluciones acuosas, se realizó en el paso a nivel de Kulna antes del accidente de la siguiente manera:
-17.02.2018 a las 14:23; 19.02.2018 a las 12:42; 20.02.2018 a las 07:49.
-
+# 3.4 Funcionamiento del material rodante y de los equipos técnicos
+Durante el mantenimiento invernal de la carretera estatal n.º 11171 que cruza la vía férrea, la mezcla de material abrasivo esparcida con cloruros o sus disoluciones acuosas se realizó en el paso a nivel de Kulna antes del accidente de la siguiente manera:
+el 17.02.2018 a las 14:23; el 19.02.2018 a las 12:42; el 20.02.2018 a las 07:49.
 
 ## Página 20
 
-Figura 2. Extracto de la aplicación cartográfica Ecofleet del mantenimiento invernal del paso a nivel ferroviario de Kulna el 20.02.2018 a las 07:49.
-El vehículo Scania 941MPK finalizó su movimiento según los datos de los dispositivos GPS el 19.02.2018 a las 19:40. Desde Rabast, comenzó su movimiento hacia el Puerto Sur de Paldiski el 20.02.2018 a las 07:55.
-De los registros del tacógrafo del camión se pueden obtener los siguientes datos correspondientes a los últimos cinco minutos antes del accidente:
-Entre las 08:28.51 y las 08:29:26, la velocidad del vehículo cambió de 1,00 km/h a 9,00 km/h.
-Entre las 08:30:02 y las 08:30:49, la velocidad del vehículo cambió de 40,00 km/h a 46,00 km/h.
-Entre las 08:32:26 y las 08:33:09, la velocidad del vehículo cambió de 10,00 km/h a 19,00 km/h.
+Figura 2. Extracto de la aplicación de mapas Ecofleet correspondiente al mantenimiento invernal del paso a nivel de Kulna el 20.02.2018 a las 07:49.
+Según los datos de los dispositivos GPS, el camión Scania 941MPK detuvo su movimiento el 19.02.2018 a las 19:40. El 20.02.2018 reanudó el movimiento a las 07:55 en dirección al puerto sur de Paldiski.
+De los registros del tacógrafo del camión se pueden obtener los siguientes datos correspondientes a los cinco últimos minutos anteriores al accidente:
+A las 08:28:51 hasta las 08:29:26, la velocidad del vehículo cambió de 1,00 km/h a 9,00 km/h.
+A las 08:30:02 hasta las 08:30:49, la velocidad del vehículo cambió de 40,00 km/h a 46,00 km/h.
+A las 08:32:26 hasta las 08:33:09, la velocidad del vehículo cambió de 10,00 km/h a 19,00 km/h.
 A las 08:33:10, la velocidad del vehículo era de 20,00 km/h, la aceleración de 0,28 m/s² y la distancia de 5,42 m.
 A las 08:33:11, la velocidad del vehículo era de 21,00 km/h, la aceleración de 0,28 m/s² y la distancia de 5,69 m.
 A las 08:33:12, la velocidad del vehículo era de 22,00 km/h, la aceleración de 0,28 m/s² y la distancia de 5,97 m.
@@ -379,213 +498,228 @@ A las 08:33:14, la velocidad del vehículo era de 26,00 km/h, la aceleración de
 A las 08:33:15, la velocidad del vehículo era de 27,00 km/h, la aceleración de 0,28 m/s² y la distancia de 7,36 m.
 A las 08:33:16, la velocidad del vehículo era de 28,00 km/h, la aceleración de 0,28 m/s² y la distancia de 7,64 m.
 A las 08:33:17, la velocidad del vehículo era de 28,00 km/h, la aceleración de 0,00 m/s² y la distancia de 7,78 m.
-A las 08:33:18, la velocidad del vehículo era de 29.00 km/h, la aceleración de 0,28 m/s² y la distancia de 7,92 m.
-Durante los últimos 9 segundos antes de la colisión con el tren de pasajeros, el camión recorrió 61,11 m.
-Durante los últimos 5 minutos y 18 segundos antes de la colisión, la velocidad máxima del vehículo fue de 46,00 km/h, la velocidad media de 29,36 km/h, la aceleración máxima de 0,56 m/s², la deceleración máxima de -1,39 m/s² y la distancia recorrida hasta la colisión de 2,46 km.
-Las horas futuras de los registros del tacógrafo están fijadas según la hora del velocímetro. La hora del velocímetro no corresponde a la zona horaria vigente en Estonia y no sirve de base para determinar el momento exacto de ocurrencia del accidente.
-Según los datos de circulación de la composición de tren EMU n.º 1309 VEPS de Elron, la iluminación exterior del tren estaba configurada en modo «marcha normal». El dispositivo de control de vigilancia del conductor funcionaba y el conductor ha respondido a las prealertas durante todo el trayecto en un plazo de 1-3 s. La última comprobación de vigilancia fue 3 s antes del frenado.
+A las 08:33:18, la velocidad del vehículo era de 29,00 km/h, la aceleración de 0,28 m/s² y la distancia de 7,92 m.
+En los últimos 9 segundos antes de la colisión con el tren de viajeros, el camión recorrió 61,11 m.
+En los últimos 5 minutos y 18 segundos antes de la colisión, la velocidad máxima del vehículo fue de 46,00 km/h, la velocidad media de 29,36 km/h, la aceleración máxima de 0,56 m/s², la desaceleración máxima de -1,39 m/s² y la distancia recorrida hasta la colisión fue de 2,46 km.
+Las horas anteriores procedentes de los registros del tacógrafo están fijadas según la hora del cuentakilómetros. La hora del cuentakilómetros no corresponde a la hora de la zona horaria vigente en Estonia y no sirve como base para determinar el momento de producción del accidente.
+Según los datos de conducción del tren EMU n.º 1309 de Elron, la iluminación exterior del tren estaba configurada en el modo «servicio normal». El dispositivo de control de la vigilancia del maquinista estaba en funcionamiento y el maquinista respondió a las señales de advertencia durante todo el viaje en un plazo de 1-3 s.
+El último control de vigilancia se realizó 3 s antes del frenado.
 
 ## Página 21
 
-La señal de salida era blanca (zona de bloqueo semiautomático).
-La presión en la línea de freno principal era de 5,0 bar según lo normal.
-La velocidad del tren antes del frenado de emergencia era de 43,1 km/h (velocidad GPS 45,0 km/h) y la tendencia era decreciente. El tren se acercaba a la parada prevista junto al andén de espera de Kulna.
-La palanca del conductor estaba en "posición de frenado" -15%.
-En la escala temporal, los datos VEPS son los siguientes:
-A las 08:28:39, al acercarse a la parada de Kulna, el conductor del tren comenzó a frenar suavemente. Posición de la palanca de marcha -17% y velocidad del tren 100,2 km/h.
-El sensor de velocidad del tren mostró una disminución uniforme de la velocidad durante toda la fase de frenado; asimismo, no entró en funcionamiento el dispositivo antideslizamiento ABS del tren.
-A las 08:29:25, el conductor del tren emitió una señal acústica con una duración de 2 s.
-A las 08:29:32, el conductor del tren se levantó del asiento del conductor y emitió por segunda vez una señal acústica con una duración de 2 s.
-A las 08:29:33, el conductor aplicó el frenado de emergencia desde una velocidad de 37,2 km/h (velocidad GPS 43,3 km/h).
-A las 08:29:34, la lectura del sensor de velocidad del tren era de 28,0 km/h (velocidad GPS 41,5 km/h). La presión en el cilindro de freno era de 2,8 bar.
-A las 08:29:36, los frenos de muelle del tren estaban aplicados (presión 0 bar). La lectura del sensor de velocidad del tren era de 10,5 km/h (velocidad GPS 29,8 km/h).
-A las 08:29:37, los datos del sensor de velocidad del tren se interrumpen a una velocidad de 6,2 km/h (velocidad GPS 29,8 km/h).
-A las 08:29:41, velocidad GPS 0,0 km/h.
+En la zona de bloqueo semiautomático, la señal mostraba luz blanca.  
+La presión en la tubería de frenado era de 5,0 bar, dentro de los valores normales.  
+La velocidad del tren antes de aplicar el frenado de emergencia era de 43,1 km/h (velocidad GPS 45,0 km/h) y presentaba una tendencia decreciente. El tren se aproximaba a la parada prevista junto al andén de Kulna.  
+La palanca del conductor estaba en la posición «de frenado» -15 %.  
+Según los datos del VEPS en la escala temporal:  
+A las 08:28:39, al aproximarse a la parada de Kulna, el maquinista inició un frenado progresivo. La posición de la palanca de tracción era -17 % y la velocidad del tren era de 100,2 km/h.  
+El sensor de velocidad del tren mostró una disminución constante de la velocidad durante toda la distancia de frenado; asimismo, no entró en funcionamiento el dispositivo antideslizamiento del tren (ABS).  
+A las 08:29:25, el maquinista emitió una señal acústica de 2 s de duración.  
+A las 08:29:32, el maquinista se levantó de su asiento y emitió una segunda señal acústica de 2 s de duración.  
+A las 08:29:33, el maquinista aplicó el frenado de emergencia a una velocidad de 37,2 km/h (velocidad GPS 43,3 km/h).  
+A las 08:29:34, la indicación del sensor de velocidad del tren era de 28,0 km/h (velocidad GPS 41,5 km/h).  
+La presión en el cilindro de freno era de 2,8 bar.  
+A las 08:29:36, los frenos de resorte del tren se habían aplicado (presión 0 bar). La indicación del sensor de velocidad del tren era de 10,5 km/h (velocidad GPS 29,8 km/h).  
+A las 08:29:37, se interrumpieron los datos del sensor de velocidad del tren a una velocidad de 6,2 km/h (velocidad GPS 29,8 km/h).  
+A las 08:29:41, la velocidad GPS era de 0,0 km/h.  
+# 3.5 Documentación relativa a la organización del trabajo  
+Para subsanar las consecuencias del accidente, el tráfico de trenes entre las estaciones de Keila y Vasalemma quedó cerrado desde las 08:35 del 20.02.2018 hasta las 13:09 del 22.02.2018, es decir, un total de 52 h y 36 min. Se cancelaron 54 trenes y el retraso acumulado de los trenes de viajeros fue de 39 minutos.  
+Tras el incidente, en la empresa AS Eesti Liinirongid se iniciaron actuaciones organizativas, de las que se presentan a continuación algunas de las acciones llevadas a cabo:  
+El 20 de febrero de 2018, a las 08:30, el conductor del material rodante llamó al responsable de la circulación del depósito de Pääsküla para comunicar el accidente y su mal estado de salud, lo que descartaba inicialmente un intercambio de información más detallado.  
+A las 08:31, el especialista en circulación publicó en la web un aviso sobre la interrupción del tráfico ferroviario y los autobuses de sustitución. Posteriormente, procedió a solicitar el tren n.º 0522 para el transporte de viajeros y autobuses para sustituir los siguientes trenes.  
+A las 08:32 se informó al jefe de circulación del incidente y se solicitó, en relación con la cancelación del tren, el transporte del personal de atención al cliente hasta el punto de origen del nuevo viaje.  
+El responsable de la circulación del depósito investigó los esquemas de circulación para determinar a qué conductores de material rodante había que notificar el incidente.  
+A las 08:40, el jefe de atención al cliente preguntó cómo se había organizado el tráfico de trenes tras el accidente y cómo llevar al personal de atención a los viajeros hasta el punto de origen del viaje, la estación de Tallinn-Balti.  
+A las 08:42, la empresa AS Eesti Raudtee informó de que, para subsanar las consecuencias del accidente, la empresa de infraestructura necesitaría al menos 12 horas.  
+A las 08:45, el jefe de circulación llamó al responsable de seguridad para asegurarse de que este estaba informado del incidente. El responsable de seguridad informó de que se dirigía al lugar del incidente junto a un miembro del consejo de administración de la empresa.  
 
-# 3.5 Documentación relativa a la organización del trabajo
-
-Para liquidar las consecuencias del accidente, el tráfico ferroviario entre las estaciones de Keila y Vasalemma estuvo cerrado desde las 08:35 del 20.02.2018 hasta las 13:09 del 22.02.2018, es decir, un total de 52 horas y 36 minutos. Se suprimieron 54 trenes y el tiempo total de retraso de los trenes de pasajeros fue de 39 minutos.
-En AS Eesti Liinirongid, tras el incidente, se inició una actividad organizativa laboral, de la cual se presentan a continuación una selección de actuaciones:
-El 20 de febrero de 2018, a las 08:30, el jefe de material rodante llamó al gestor de tráfico del depósito de Pääsküla e informó sobre el accidente y su mal estado de salud, lo que impedía inicialmente un intercambio más detallado de información.
-08:31 El especialista en tráfico publicó en la web un aviso sobre la perturbación del tráfico ferroviario y los autobuses sustitutivos. A continuación, procedió a solicitar transporte para los pasajeros del tren n.º 0522 y autobuses para sustituir los trenes siguientes.
-08:32 Se informó del incidente al gestor de tráfico senior y se solicitó, debido a la supresión del tren, el transporte para llevar a los agentes de atención al cliente al nuevo punto de inicio del viaje. El gestor de tráfico del depósito consulta los esquemas de circulación para determinar qué jefes de material rodante deben ser informados del incidente.
-08:40 La agente de atención al cliente senior preguntó cómo está organizado el tráfico de los trenes tras el accidente y cómo llevar a los asistentes de viaje al punto de inicio de los viajes en la estación Tallinn-Balti.
-08:42 AS Eesti Raudtee informó que la infraestructura necesitaría como mínimo 12 horas para liquidar las consecuencias del accidente.
-08:45 El gestor de tráfico senior llamó al director de seguridad para asegurarse de que este estaba al tanto del incidente. El director de seguridad informó que se dirigía al lugar de los hechos junto con un miembro del consejo de administración de la empresa.
 
 ## Página 22
 
-09:32 El director de seguridad llamó desde el lugar de los hechos al gestor de tráfico senior y exigió información sobre los autobuses.
-09:33 El especialista en tráfico informó que el autobús había salido hacia el lugar de los hechos, pero se desconocía la hora de llegada.
-09:36 El gestor de tráfico senior informó al director de seguridad que el autobús debería estar allí en 5 minutos.
-11:08 El gestor de tráfico senior envió una carta a AS Eesti Raudtee indicando que los trenes de Riisipere están suprimidos desde Keila.
-11:16 El gestor de tráfico senior informó que los autobuses que salen de Riisipere siguen el horario del tren. Dado que el autobús llega a Keila más tarde que el tren, ese tren ya ha salido según su plan, pero los pasajeros pueden continuar hacia Tallinn con el siguiente tren.
-15:32 Se solicitó organizar el transporte de la composición de tren n.º 1309 desde el lugar de los hechos al depósito de Tallinn-Väike el 21.02.2018.
-16:22 AS Eesti Raudtee informó que habría que continuar con los autobuses sustitutivos también el 21.02.2018. No se descarta que sea hasta la noche, ya que el tren comenzará a ser izado sobre las vías recién por la mañana del 21.02.2018. Además, hay que remontar la catenaria, inspeccionar y reparar la vía férrea y el paso a nivel.
-16:38 El jefe de gestión del tráfico decidió encargarse personalmente de elaborar el horario de los autobuses sustitutivos para el día siguiente.
-17:04 Se comenzó a descifrar los datos VEPS de la composición de tren desde la tarjeta de memoria, donde aparecían como números en lugar de gráficos de tendencias habituales.
-22:00 El especialista en tráfico publica en la web un aviso sobre los autobuses sustitutivos del día siguiente.
-El 21 de febrero de 2018, el tráfico ferroviario entre las estaciones de Vasalemma y Keila está cerrado.
-09:59 El jefe de gestión del tráfico conversa telefónicamente con el gestor de tráfico senior sobre VEPS, vídeo y autobuses sustitutivos.
-11:55 El gestor de tráfico senior comienza a organizar el transporte de la composición de tren.
-14:09 El jefe de gestión del tráfico precisa con AS Eesti Raudtee el proceso de transporte del tren accidentado a Keila y las estimaciones de los trabajos de reparación de la vía.
-16:30 Está listo el extracto primario de los datos VEPS.
-16:39 El especialista en tráfico se encarga de buscar autobuses sustitutivos para el día siguiente.
-20:00 El jefe de gestión del tráfico coordina el traslado de la composición de tren desde Keila al depósito.
-El 22 de febrero de 2018, a las 10:58, AS Eesti Raudtee informa al gestor de tráfico senior que se planea abrir el tráfico a partir del mediodía.
-12:20 AS Eesti Raudtee informó que se planea abrir el tráfico a las 13:30.
-
-# 3.6 Cooperación persona-máquina-organización
-
-Según los datos GPS, el conductor del vehículo Scania terminó su jornada laboral el 19 de febrero de 2018 a las 19:40. El conductor tomó la carga por la mañana en Ohtu y comenzó a circular según los datos GPS a las 07:55. En el momento de producirse el accidente, el vehículo había circulado durante 34 minutos.
-Según los datos del tacógrafo:
-Del 19.02.2018 a las 20:21 al 20.02.2018 a las 08:00 fue tiempo de reposo, es decir, 11:39.
-Del 20.02.2018 a las 08:00 al 20.02.2018 a las 08:07 fue tiempo de conducción, es decir, 00:07.
-Del 20.02.2018 a las 08:07 al 20.02.2018 a las 08:21 fue tiempo de reposo, es decir, 00:14.
-Del 20.02.2018 a las 08:21 al 20.02.2018 a las 08:23 fue tiempo de conducción, es decir, 00:02.
+A las 09:32, el responsable de seguridad llamó desde el lugar del incidente al jefe de circulación y solicitó información sobre los autobuses.  
+A las 09:33, el especialista en circulación informó de que el autobús había salido con destino al lugar del incidente, pero no se conocía la hora de llegada.  
+A las 09:36, el jefe de circulación informó al responsable de seguridad de que el autobús debería estar presente en 5 minutos.  
+A las 11:08, el jefe de circulación envió un correo electrónico a la empresa AS Eesti Raudtee informando de que los trenes de Riisipere se habían cancelado desde Keila.  
+A las 11:16, el jefe de circulación informó de que los autobuses que salían de Riisipere circulaban según el horario del tren. Dado que el autobús llegaba a Keila más tarde que el tren, este ya había salido según su horario, pero los viajeros podían continuar su viaje hacia Tallinn en el siguiente tren.  
+A las 15:32 se solicitó organizar el transporte del tren n.º 1309 del 21.02.2018 desde el lugar del incidente hasta el depósito de Tallinn-Väike.  
+A las 16:22, la empresa AS Eesti Raudtee informó de que se debía continuar con los autobuses de sustitución también el 21.02.2018. No se descartaba que se prolongaran hasta el final de la jornada, ya que el tren solo se comenzaría a recuperar de las vías la mañana del 21.02.2018. Además, había que volver a montar la catenaria, así como inspeccionar y reparar la vía férrea y el paso a nivel.  
+A las 16:38, el responsable de la circulación decidió elaborar él mismo el horario de los autobuses de sustitución para el día siguiente.  
+A las 17:04, se comenzó a descifrar los datos del VEPS del tren de la tarjeta de memoria, donde aparecían en forma de números en lugar de los gráficos de tendencias habituales.  
+A las 22:00, el especialista en circulación publicó en la web un aviso sobre los autobuses de sustitución del día siguiente.  
+El 21 de febrero de 2018, el tráfico ferroviario entre las estaciones de Vasalemma y Keila quedó cerrado.  
+A las 09:59, el responsable de la circulación habló por teléfono con el jefe de circulación sobre el VEPS, el vídeo y los autobuses de sustitución.  
+A las 11:55, el jefe de circulación comenzó a organizar el transporte del tren.  
+A las 14:09, el responsable de la circulación aclaró con la empresa AS Eesti Raudtee el proceso de transporte del tren accidentado hasta Keila y las estimaciones de los trabajos de restauración de la vía férrea.  
+A las 16:30, estaba listo el extracto preliminar de los datos del VEPS.  
+A las 16:39, el especialista en circulación se ocupaba de buscar autobuses de sustitución para el día siguiente.  
+A las 20:00, el responsable de la circulación coordinó el traslado del tren desde Keila hasta el depósito.  
+El 22 de febrero de 2018, a las 10:58, la empresa AS Eesti Raudtee informó al jefe de circulación de que se planeaba abrir el tráfico a mediodía.  
+A las 12:20, la empresa AS Eesti Raudtee informó de que se planeaba abrir el tráfico a las 13:30.  
+# 3.6 Interacción hombre-máquina-organización  
+El conductor del camión Scania finalizó su jornada laboral el 19 de febrero de 2018 a las 19:40, según los datos del GPS. En el pantano de Ohtu, el vehículo cargó mercancía por la mañana y, según los datos del GPS, comenzó a desplazarse a las 07:55. Hasta el momento del accidente, el vehículo había estado en movimiento durante 34 minutos.  
+Según los datos del tacógrafo:  
+Entre las 20:21 del 19.02.2018 y las 08:00 del 20.02.2018 hubo un periodo de inactividad, es decir, 11 h 39 min.  
+Entre las 08:00 del 20.02.2018 y las 08:07 del 20.02.2018 hubo un periodo de conducción, es decir, 00 h 07 min.  
+Entre las 08:07 del 20.02.2018 y las 08:21 del 20.02.2018 hubo un periodo de inactividad, es decir, 00 h 14 min.  
+Entre las 08:21 del 20.02.2018 y las 08:23 del 20.02.2018 hubo un periodo de conducción, es decir, 00 h 02 min.
 
 ## Página 23
 
-El periodo de trabajo comprendido entre las 08:23 y las 08:27 del 20.02.2018 tuvo una duración de 00:04.
-El tiempo de conducción comprendido entre las 08:27 y las 15:16 del 20.02.2018 fue de 06:49.
-Las indicaciones horarias del tacógrafo no se ajustan exactamente a la hora oficial en huso horario de Estonia.
-En el momento del ingreso hospitalario del conductor del vehículo pesado, no se observaron signos externos de embriaguez. En los análisis realizados para determinar el estado de ebriedad del conductor, basados en muestras de sangre, se detectó un contenido de etanol de (1,00±0,05) mg/g. La sangre no contenía sustancias narcóticas ni psicotrópicas.
-El maquinista realizó un servicio programado con la composición de tren EMU 1309. Había iniciado su jornada laboral a las 11:10 del 19.02.2018 en el depósito de Pääsküla. El turno constaba de dos servicios, el primero de los cuales finalizó ese mismo día a las 23:20 en Paldiski. Inició el segundo servicio del turno a las 5:20 del 20.02.2018 en Paldiski y debía finalizarlo según el plan a las 10:50 en Pääsküla. El descanso entre ambos servicios fue de 6,0 horas.
+El periodo comprendido entre las 08:23 del 20.02.2018 y las 08:27 del 20.02.2018 fue tiempo de trabajo, es decir, 00:04. 
+El periodo comprendido entre las 08:27 del 20.02.2018 y las 15:16 del 20.02.2018 fue tiempo de conducción, es decir, 06:49. 
+Las indicaciones del tacógrafo no coinciden exactamente con la hora oficial de la zona horaria de Estonia.   
+En la admisión del conductor del vehículo en el hospital no se observaron signos externos de embriaguez. En los análisis realizados para determinar el estado de embriaguez del conductor, basados en muestras de sangre extraídas, se detectó la presencia de etanol (1,00±0,05) mg/g. La sangre no contenía sustancias narcóticas ni psicotrópicas. 
+El conductor del material rodante ferroviario realizó un viaje planificado con el conjunto de tren EMU 1309. 
+Había comenzado su jornada laboral el 19.02.2018 a las 11:10 en el depósito de Pääsküla. La jornada laboral constaba de dos turnos, el primero de los cuales finalizó el mismo día a las 23:20 en Paldiski. El segundo turno de la jornada laboral lo inició el 20.02.2018 a las 5:20 en Paldiski y debía finalizar según el plan a las 10:50 en Pääsküla. El descanso entre los dos turnos fue de 6,0 horas. 
+# 3.7 Incidentes anteriores de carácter similar 
+El 28.11.2017 a las 17:36 se produjo una colisión entre el tren de viajeros Tallinn – Riisipere n.º 0571 y un automóvil particular en el paso a nivel de Kulna, entre las estaciones de Keila y Vasalemma (pk 73,208). Las condiciones meteorológicas eran de oscuridad, sin precipitaciones y con buena visibilidad. El tren de viajeros había alcanzado una velocidad de 39,2 km/h cuando comenzó a moverse desde la plataforma de espera antes de la colisión. Las luces delanteras del tren estaban encendidas y el maquinista emitió señales acústicas. Según la documentación de AS Eesti Raudtee, el automóvil superó sin detenerse y sin reducir la velocidad la señal de tráfico 222 «Deténgase y ceda el paso» situada a la izquierda con respecto al tren, lo que provocó la colisión con el tren de viajeros. El conductor del automóvil consideraba que el tren aún estaba detenido en la parada. El maquinista aplicó el freno de emergencia. El automóvil recibió un golpe en la parte trasera por parte del tren. 
+El 28.09.2018, AS Eesti Raudtee presentó a la OJK imágenes procedentes de las grabaciones de vídeo del vagón de medición de perfil de 2015, 2016 y 2017, según las cuales se observa la señal de advertencia 121 «Ferrocarril de vía única» antes del paso a nivel de Kulna, pero falta la señal de prioridad 222 «Deténgase y ceda el paso». 
 
-# 3.7 Casos anteriores de naturaleza similar
-En el paso a nivel de Kulna, situado en el trayecto entre las estaciones de Keila y Vasalemma (km 73,208), ocurrió a las 17:36 del 28.11.2017 una colisión entre el tren de pasajeros n.º 0571 Tallinn – Riisipere y un turismo. Era de noche, con condiciones meteorológicas sin precipitaciones y buena visibilidad. Antes de la colisión, el tren había alcanzado una velocidad de 39,2 km/h al iniciar la marcha desde la plataforma de espera. Las luces frontales del tren estaban encendidas y el maquinista emitió señal acústica. Según los materiales de AS Eesti Raudtee, el turismo entró en la colisión sin detenerse ni reducir la velocidad ante la señal de tráfico 222 «Ceda el paso», procedente de la izquierda respecto al tren. El conductor del turismo creía que el tren aún estaba detenido en la estación. El maquinista aplicó el freno de emergencia. El turismo recibió el impacto en la parte trasera por parte del tren.
-AS Eesti Raudtee presentó a la OJK el 28.09.2018 fotografías de grabaciones de vídeo realizadas por el vagón de medición de gálibo en los años 2015, 2016 y 2017, según las cuales antes del paso a nivel de Kulna es visible la señal de advertencia 121 «Paso a nivel de vía única», pero falta la señal de prioridad 222 «Ceda el paso».
 
 ## Página 24
 
-# 4. ANÁLISIS Y CONCLUSIONES
-# 4.1 Descripción final de la cadena de sucesos
-Según los datos del tacógrafo, el conductor del camión Scania terminó su jornada la noche anterior a las 20:21 e inició la conducción del vehículo a las 08:00 de la mañana. Dispuso de un tiempo de descanso de 11 horas y 39 minutos, suficiente para recuperarse. Por la mañana, el conductor inició el trayecto habitual para transportar turba desde el pantano de Ohtu hasta el puerto sur de Paldiski. Conocía bien la ruta, habiéndola recorrido en numerosas ocasiones. El tiempo era invernal y la carretera estaba cubierta de nieve compactada. El conductor contaba con amplia experiencia de conducción. Seleccionó una velocidad adecuada, muy inferior a la permitida de 90 km/h. El vehículo pasó junto a la señal de advertencia 112 «Paso a nivel sin barreras» situada al final del tramo común, junto a la señal adicional de advertencia 123 «Paso a nivel delante» y la placa informativa adicional 886 «Altura segura bajo línea eléctrica», seguidas por las señales adicionales de advertencia 124 «Paso a nivel delante» y también 125 «Paso a nivel superior delante». Durante los últimos minutos, la velocidad máxima durante un breve intervalo de 7 segundos fue solo de 46 km/h. Cuando las condiciones de la vía lo requerían, el conductor reducía significativamente la velocidad del vehículo, incluso hasta 10 km/h. A continuación, la velocidad comenzó a aumentar muy lentamente durante tres cuartos de minuto, pasando de 10 km/h a 19 km/h, antes de salir del bosque. Al acercarse al paso a nivel, el conductor llegó a unos 60 m de distancia de la vía, donde se había realizado tratamiento antideslizante como resultado de trabajos de mantenimiento invernal tres cuartos de hora antes. El conductor comenzó a aumentar la velocidad de forma más intensa que en el tramo anterior, aunque moderadamente, hasta alcanzar 29 km/h en el momento de la colisión. Antes de llegar al paso a nivel, pasó junto a la última señal de advertencia 121 «Paso a nivel de vía única», situada a 7,7 m de la vía más cercana.
-Según la declaración del conductor, al aproximarse al paso a nivel mantenía las ventanillas laterales abiertas para poder escuchar mejor la posible aproximación del tren. El conductor confiaba en su audición, pero probablemente estaba concentrado en seguir la trayectoria de la carretera durante la conducción y, debido a su estado psicológico, no era capaz de reorientar su atención. Justo antes de la colisión, el conductor percibió el tren y giró el volante hacia la derecha. La distancia hasta el tren era muy pequeña, por lo que no fue posible cambiar notablemente la dirección del vehículo antes de alcanzar la vía. Como resultado, la primera parte del lado del conductor del vehículo impactó contra el tren. La zona del conductor del vehículo sufrió daños graves. El conductor sufrió múltiples lesiones corporales y no pudo salir del vehículo deformado. Parte de la carga de turba cayó. El vehículo se detuvo al otro lado de la vía ferroviaria y había desplazado al tren fuera de las vías.
-El tren de pasajeros de tres coches n.º 0522 Riisipere – Tallinn circulaba en modo de «marcha normal» en el trayecto entre las estaciones de Vasalemma y Keila. El tren comenzó a reducir suavemente la velocidad al aproximarse a la parada de Kulna. El maquinista respondió correctamente a la comprobación de vigilancia y, al observar el vehículo que se aproximaba al paso a nivel, emitió repetidamente señal acústica con intervalos de unos segundos. Justo antes de aplicar el freno de emergencia, el maquinista se puso de pie. Durante la duración de la última señal acústica, el maquinista aplicó el freno de emergencia desde la velocidad reducida hasta ese momento de 37,2 km/h. La colisión se produjo, según la lectura del velocímetro del tren, a una velocidad de 28,0
+# 4. ANÁLISIS Y CONCLUSIONES 
+# 4.1 Descripción final de la cadena de eventos 
+Según los datos del tacógrafo, el conductor del camión Scania finalizó su trabajo la tarde anterior a las 20:21 y comenzó a conducir el automóvil a las 08:00 de la mañana. El tiempo de descanso fue de 11 horas y 39 minutos, lo cual es suficiente para el descanso. Por la mañana, el conductor inició su habitual trayecto para el transporte de turba desde el pantano de Ohtu hasta el puerto sur de Paldiski. La ruta le era conocida, ya que la había recorrido muchas veces. El clima era invernal y la carretera estaba cubierta de nieve pisada. El conductor tenía una amplia experiencia al volante. Elegió una velocidad de conducción adecuada, que era considerablemente inferior a los 90 km/h permitidos. El automóvil superó la señal de advertencia 112 «Paso a nivel sin barreras» situada en el poste de correo común, así como la advertencia adicional 123 «Paso a nivel adelante» y el panel informativo adicional 886 «Altura libre bajo la línea eléctrica», seguidos de las advertencias adicionales 124 «Paso a nivel adelante» y también 125 «Cruce ferroviario adelante». Durante los últimos minutos, la velocidad máxima durante un breve periodo de 7 segundos fue de solo 46 km/h. Cuando las condiciones de la carretera lo exigían, el conductor reducía considerablemente la velocidad del automóvil, incluso hasta 10 km/h. A continuación, la velocidad del automóvil comenzó a aumentar muy lentamente en un periodo de tres cuartos de minuto, desde 10 km/h hasta 19 km/h, antes de salir del bosque. Al acercarse al cruce ferroviario, el conductor llegó a un punto situado a unos 60 m de los raíles, donde se había realizado un tratamiento antideslizante como resultado de los trabajos de mantenimiento de la carretera hace tres cuartos de hora. El conductor comenzó a acelerar de forma más intensa, aunque aún moderada, en comparación con el tramo anterior, hasta alcanzar 29 km/h en el momento de la colisión. Antes de llegar al paso a nivel, superó la última señal de advertencia 121 «Ferrocarril de vía única», que quedó a 7,7 m del raíl más cercano. 
+Según la declaración del conductor, al acercarse al paso a nivel, mantenía las ventanillas laterales del automóvil abiertas para poder escuchar mejor la posible aproximación del tren. El conductor confiaba en su oído, pero probablemente estaba más concentrado en seguir la trayectoria de conducción y, debido a su estado psicológico, no fue capaz de cambiar su atención. Inmediatamente antes de la colisión, el conductor vio el tren y giró el volante hacia la derecha. La distancia al tren era muy pequeña, por lo que no fue posible cambiar significativamente la dirección del automóvil antes de llegar a las vías. Como resultado, la parte delantera izquierda del automóvil golpeó al tren. La parte delantera izquierda del automóvil sufrió graves daños. El conductor sufrió múltiples lesiones y no pudo salir del automóvil deformado. Parte de la turba que transportaba cayó al suelo. El automóvil se detuvo al otro lado de la vía y había empujado al tren fuera de las vías. 
+El tren de viajeros de tres vagones Riisipere – Tallinn n.º 0522 circuló en modo de «conducción normal» entre las estaciones de Vasalemma y Keila. El tren comenzó a reducir la velocidad de forma continua al acercarse a la parada de Kulna. El conductor del material rodante respondió a la prueba de vigilancia prevista y, al detectar el camión que se acercaba al paso a nivel, emitió señales acústicas repetidas con intervalos de unos segundos. Inmediatamente antes de activar el freno de emergencia, el conductor del material rodante se puso de pie. Durante la duración de la última señal acústica, el conductor del material rodante aplicó el freno de emergencia desde la velocidad reducida hasta ese momento de 37,2 km/h. La colisión se produjo, según la indicación del sensor de velocidad del tren, a una velocidad de 28,0
 
 ## Página 25
 
-km/h. El tren descarriló y, 3 segundos después de la colisión, se interrumpen los datos del sensor de velocidad del tren.
+km/h. El tren descarriló y los datos del sensor de velocidad del tren se interrumpieron 3 segundos después de la colisión.
 # 4.2 Discusión
-La carretera secundaria estatal n.º 11171 que cruza el paso a nivel ferroviario de Kulna pertenece a la categoría de carreteras de nivel de mantenimiento 1 (ST1), lo que significa que el ciclo de mantenimiento para la eliminación de nieve y aguanieve de la calzada es de 24 horas, siendo el espesor crítico de la capa de nieve en caso de nieve fresca de 10 cm y en caso de nieve derretida de 5 cm.
-Antes del accidente, la capa de nieve no había alcanzado el espesor crítico. Durante el mantenimiento invernal de la calzada, está previsto esparcir una mezcla para combatir la nieve y las condiciones resbaladizas en el lugar peligroso, definido como un radio de 50 m desde el eje de la vía.
-Debido a una nevada ligera, las dos últimas operaciones de mantenimiento invernal se realizaron el 19 de febrero a las 12:42 y el 20 de febrero a las 07:49.
-El mantenimiento invernal de la carretera secundaria n.º 11171 se realizó conforme a la normativa. La colisión entre el vehículo y el tren tuvo lugar el 20 de febrero a las 08:29. El estado de la carretera secundaria cumplía con el reglamento. En el paso a nivel se había realizado una operación antideslizante hacía menos de una hora, pero el resto de la aproximación del vehículo al cruce estaba cubierto por nieve compactada. Las condiciones de la vía eran invernales y la carretera era resbaladiza en algunos tramos.
-Basándose en los datos del tacógrafo, se puede afirmar que el conductor estaba concentrado en el tráfico bajo condiciones invernales. Había circulado por esa carretera muchas veces y, por tanto, había desarrollado un hábito que probablemente le impedía fijarse conscientemente en las señales de advertencia que informan sobre el paso a nivel previo. Centrarse en mantener una velocidad adecuada sobre la nieve compactada fue aparentemente una decisión basada en la experiencia del conductor, dado que durante un periodo prolongado de conducción esto tenía importancia determinante. Según la valoración del propio conductor, no prestó atención a las señales e información más importantes, llegando incluso a negar parcialmente la existencia de dispositivos de regulación del tráfico. El conductor no pudo desviar su atención debido al estado de embriaguez determinado por la institución médica o por otra causa. El conductor sabía, por su experiencia previa, la existencia del próximo paso a nivel y también que, al acercarse a dicho paso a nivel, debe tenerse en cuenta obligatoriamente los requisitos establecidos por la ley de tráfico y las señales de advertencia.
-El camión Scania se acercó al paso a nivel a una velocidad adecuada para las condiciones de la vía, entre 20 km/h y 29 km/h. Al acercarse más al paso a nivel, donde acababa de realizarse el mantenimiento invernal y las condiciones eran mejores, la velocidad comenzó a aumentar gradualmente. Si hubiera frenado a tiempo antes de iniciar la aceleración, la colisión con el tren habría sido evitable.
-Según su declaración, el conductor abrió las ventanillas de la cabina al acercarse al paso a nivel. El estado del vehículo tras el accidente confirma que la ventanilla derecha estaba abierta. La puerta y la ventanilla del lado izquierdo del conductor estaban deformadas hasta el punto de rotura. Si el conductor no temía corrientes de aire debido al frío invierno, deseaba mantener la cabina fresca o permanecer más alerta al volante por otras circunstancias, entonces la ventanilla izquierda, orientada hacia la dirección de llegada del tren, podría haber estado abierta también. Debido al estado psicológico del conductor, el peligro del paso a nivel no llegó a centrar su atención antes de que el tren y el coche hubieran llegado inmediatamente antes de la colisión al paso a nivel. Ya no era posible evitar la colisión ni cambiar la dirección del coche, aunque el conductor intentó hacerlo. Existen discrepancias entre la ubicación real de los dispositivos de regulación del tráfico antes del paso a nivel, así como la información contenida en las grabaciones de los dispositivos registradores del coche y del tren, y los recuerdos declarados por el conductor del coche.
+La carretera estatal secundaria n.º 11171 que cruza el paso a nivel de Kulna pertenece a las carreteras de nivel de estado 1 (ST1), lo que significa que el ciclo de mantenimiento para la eliminación de nieve y barro de la calzada es de 24 horas, siendo el espesor crítico de la capa de nieve de 10 cm para nieve seca y de 5 cm para nieve húmeda. Antes del accidente, la capa de nieve no había alcanzado el espesor crítico. Durante el mantenimiento invernal de la calzada, se prevé la aplicación de una mezcla para combatir la nieve y el hielo en el punto peligroso, cuya distancia establecida es de 50 m respecto al eje de la vía.
+Debido a la ligera nevada, las dos últimas intervenciones de mantenimiento invernal se realizaron el 19 de febrero a las 12:42 y el 20 de febrero a las 07:49.
+El mantenimiento invernal en la carretera secundaria n.º 11171 se realizó conforme a las normas. La colisión entre el camión y el tren tuvo lugar el 20 de febrero a las 08:29. El estado de la carretera secundaria cumplía la normativa. En el paso a nivel se había realizado el tratamiento antideslizante hacía menos de una hora, pero el resto del tramo de la carretera por el que se aproximaba el camión hacia el cruce estaba cubierto de nieve compactada. Las condiciones de la carretera eran invernales; la calzada estaba resbaladiza en algunos tramos.
+Basándose en los datos del tacógrafo, puede afirmarse que el conductor del automóvil estaba centrado en la circulación en condiciones invernales de la carretera. Había recorrido esa carretera muchas veces y, por tanto, se había creado un hábito, debido al cual probablemente ya no fijaba conscientemente las señales de tráfico de advertencia situadas antes del cruce. La concentración en la conducción a una velocidad adecuada sobre la nieve compactada era claramente una decisión empírica del conductor, dado que era de importancia decisiva para la continuidad de la marcha durante un período prolongado. Según la propia valoración del conductor, no prestó atención a las señales e información que para él eran potencialmente importantes, e incluso niega parcialmente la existencia de los dispositivos de regulación del tráfico. El conductor no pudo desviar la atención debido a la embriaguez, determinada por el centro médico, ni por ninguna otra causa. El conductor sabía por experiencia previa la existencia del cruce inminente y también sabía que, al acercarse a dicho cruce, debía tener necesariamente en cuenta los requisitos establecidos por la ley de tráfico y las señales de advertencia.
+El camión Scania se aproximó al cruce a una velocidad adecuada a las condiciones de la carretera, entre 20 km/h y 29 km/h. Al acercarse más al cruce, donde se había realizado recientemente el mantenimiento invernal y las condiciones de la carretera eran mejores, la velocidad comenzó a aumentar gradualmente. Si hubiera frenado a tiempo antes de comenzar a acelerar, la colisión con el tren habría podido evitarse.
+Según su declaración, el conductor abrió las ventanillas de la cabina al aproximarse al cruce. El estado del automóvil tras el accidente confirma la apertura de la ventanilla derecha. La puerta del conductor y la ventanilla izquierda del automóvil estaban deformadas hasta el punto de rotura. Si el conductor, debido al frío invernal, no temía las corrientes de aire y deseaba mantener la cabina fresca o, por otras circunstancias, permanecer más alerta al volante, es posible que la ventanilla izquierda, que daba hacia la dirección de llegada del tren, también estuviera abierta. Debido al estado psicológico del conductor, la peligrosidad del cruce no llegó al centro de su atención hasta que el tren y el automóvil llegaron al cruce inmediatamente antes de la colisión. Ya no era posible evitar la colisión ni cambiar la dirección de marcha del automóvil, aunque el conductor intentó hacerlo. Existen discrepancias entre la ubicación real de los dispositivos de regulación del tráfico antes del cruce, así como la información registrada en las grabadoras del automóvil y del tren, y las declaraciones mnemónicas del conductor del automóvil.
+
 
 ## Página 26
 
-Utilizando los datos del tacógrafo, es posible caracterizar mediante cálculos las condiciones de circulación del camión Scania. El vehículo se encontraba 8 segundos antes de la colisión con el tren a una distancia de 53,19 m del punto de impacto. Su velocidad era de 21 km/h. En ese momento, el coche estaba justo llegando delante de la señal adicional de advertencia 125 «Paso a nivel por delante», situada a 43,3 m de la vía más cercana. Mirando a la izquierda, el conductor del coche habría visto el tren que se aproximaba. Tras detectar el tren a una velocidad de 21 km/h, habría sido posible aplicar una frenada con una deceleración (o aceleración negativa) de -1,39 m/s². Esta ha sido la máxima deceleración aplicada por el conductor del vehículo en un tramo de unos 2,5 km inmediatamente antes del incidente. Frenando desde 21 km/h con una aceleración de -1,39 m/s², la distancia de frenado hasta la parada completa del coche es de 12,23 m. El coche habría detenido antes de colisionar con el tren, ya que la frenada se habría iniciado casi 50 m antes de la vía. El incidente habría sido evitable si el conductor del coche hubiera desviado conscientemente su atención de la calzada hacia la dirección de aproximación del tren y hubiera extraído las conclusiones necesarias.
-El tren se acercaba al paso a nivel frenando. La iluminación exterior del tren estaba encendida. El sol, emergiendo de detrás de las nubes, iluminaba el lado derecho del tren, es decir, iluminaba bien el lado del tren correspondiente al conductor del vehículo. Los últimos 4 segundos antes de la colisión, el tren circulaba con freno de emergencia y recorrió 24,10 m en ese tiempo. Antes de esos 4 segundos, el tren circulaba con freno de servicio normal y recorrió 43,88 m en ese tiempo. En total, el tren recorrió 67,98 m en los 8 segundos previos a la colisión. El conductor del coche podía ver la parte delantera del tren 8 segundos antes de la colisión a una distancia de 68 m del punto de impacto. El coche había salido de entre los árboles y se encontraba en ese momento a 53 m de la vía más cercana. El tren era claramente visible para el conductor del coche. Cuando faltaban 8 segundos para la colisión, la parte delantera del tren estaba a menos de 100 m del paso a nivel. El conductor del material rodante ferroviario, situado a 68 m del paso a nivel, esperaba una conducta adecuada por parte del conductor del coche para detener el vehículo ante la situación.
-En el paso a nivel de Kulna, el tren y el vehículo se aproximaban mutuamente en direcciones de marcha perpendiculares. En este caso, la velocidad relativa entre el tren y el vehículo es mayor que la velocidad individual de cada uno respecto al suelo. Las personas presentes en cualquiera de los vehículos perciben la velocidad del otro vehículo como mayor que la velocidad real respecto al suelo del vehículo que se mueve más rápido. El tren se acercaba al paso a nivel a una velocidad superior a la del coche, aunque dicha velocidad disminuía. La velocidad del coche al salir de entre los árboles era menor que la del tren, pero aumentaba. Las personas dentro del tren percibían la velocidad del coche que se aproximaba como mayor que la velocidad del tren. Los valores de velocidad tratados en la investigación de seguridad están registrados por separado mediante los dispositivos grabadores tanto para el tren como para el vehículo respecto al suelo.
-Para desviar involuntariamente la atención del conductor del coche de un objeto a otro, el segundo objeto debe afectar sus sensaciones de manera significativamente más intensa que el objeto en el que la atención estaba centrada hasta ese momento. En este caso, la sensación visual más intensa surgió solo inmediatamente antes de la colisión, cuando no existía posibilidad de cambiar la situación debido a la inercia del coche. Incluso una leve intoxicación alcohólica inhibe las distracciones y la rapidez de cambio de atención. A pesar de los resultados de la prueba médica de alcohol, el conductor lo niega.
+Utilizando los datos del tacógrafo, es posible caracterizar mediante cálculos las condiciones de circulación del camión Scania. El camión se encontraba a 53,19 m del punto de colisión 8 segundos antes de la colisión con el tren. Su velocidad era de 21 km/h. En ese momento, el automóvil estaba a punto de llegar a la señal de advertición adicional 125 «Paso a nivel adelante», que se encuentra a 43,3 m de la vía más cercana. Si el conductor hubiera mirado a la izquierda, habría visto el tren acercándose. Tras detectar el tren, a partir de una velocidad de 21 km/h habría sido posible aplicar el frenado con una desaceleración (es decir, una aceleración negativa) de -1,39 m/s². Dicha desaceleración máxima fue la que aplicó el conductor del camión en un tramo de carretera de aproximadamente 2,5 km inmediatamente antes del accidente. Frenando desde una velocidad de 21 km/h con una aceleración de -1,39 m/s², la distancia de frenado hasta que el automóvil se detiene es de 12,23 m. El automóvil se habría detenido antes de la colisión con el tren, ya que el frenado se habría iniciado a unos 50 m antes de la vía. El accidente habría podido evitarse si el conductor hubiera desviado conscientemente y voluntariamente su atención de la carretera hacia la dirección de aproximación del tren y hubiera extraído las conclusiones necesarias.
+El tren se aproximaba al cruce frenando. Las luces exteriores del tren estaban encendidas. El sol, que salía detrás de las nubes, iluminaba el lado derecho del tren, es decir, iluminaba bien el lado del tren correspondiente al conductor del camión. En los últimos 4 segundos antes de la colisión, el tren circuló con frenado de emergencia y recorrió 24,10 m durante ese tiempo. Antes de esos 4 segundos, el tren circuló con frenado de servicio normal y recorrió 43,88 m durante ese período. En total, el tren recorrió 67,98 m en los 8 segundos anteriores a la colisión. El conductor del automóvil tenía visibilidad de la cabeza del tren a 8 segundos de la colisión, a una distancia de 68 m del punto de colisión. El automóvil había salido entre los árboles y se encontraba en ese momento a 53 m de la vía más cercana. El tren era claramente visible para el conductor del automóvil. Si faltaban 8 segundos para la colisión, la cabeza del tren se encontraba a menos de 100 m del cruce. El conductor del material rodante ferroviario esperaba que el conductor del automóvil, situado a 68 m del cruce, adoptara un comportamiento adecuado a la situación para detener el automóvil.
+En el paso a nivel de Kulna, el tren y el camión se aproximaban el uno al otro en direcciones de circulación cruzadas. En tal caso, la velocidad relativa del tren y del camión es mayor que la velocidad de cada uno de ellos tomada individualmente respecto al suelo. Las personas que se encuentran en cualquiera de los medios de transporte perciben la velocidad del otro medio de transporte como mayor que la velocidad del medio de transporte que se mueve a mayor velocidad respecto al suelo. El tren se aproximaba al cruce a mayor velocidad que el automóvil, aunque dicha velocidad disminuía. La velocidad del automóvil al salir entre los árboles era menor que la del tren, pero aumentaba. Las personas que viajaban en el tren percibían la velocidad del automóvil acercándose como mayor que la velocidad del tren. Los valores de velocidad tratados en la investigación de seguridad están registrados por separado para el tren y para el camión mediante las respectivas grabadoras, respecto al suelo.
+Para desviar involuntariamente la atención del conductor de un objeto a otro, el segundo objeto debe afectar a sus sentidos de manera significativamente más intensa que el objeto al que la atención estaba centrada hasta entonces. En el presente caso, una percepción visual más intensa se produjo únicamente inmediatamente antes de la colisión, cuando ya no había posibilidad de cambiar la situación debido a la inercia del automóvil. Las distracciones de la concentración y la velocidad de desvío de la atención se ven perjudicadas incluso por una leve embriaguez alcohólica. A pesar de los resultados de la prueba médica de alcohol, el conductor lo niega.
 
 ## Página 27
 
-La intensidad de las condiciones visuales está influenciada por los objetos visuales. El reglamento ministerial establece que, antes del paso a nivel, en el mismo poste se encuentran la señal de advertencia 112 «Paso a nivel sin barreras» y la señal adicional de advertencia 125 «Paso a nivel adelante».
-En el presente caso, a una distancia de 43,3 m del raíl extremo, además de la señal adicional de advertencia 125 «Paso a nivel adelante», falta la señal de advertencia 112 «Paso a nivel sin barreras». La posibilidad de configurar las percepciones visuales prevista mediante los dispositivos de ordenación del tráfico quedó parcialmente desaprovechada debido a la ausencia de dicha señal. Los demás dispositivos de ordenación del tráfico eran claramente visibles y, desde una distancia de 243,3 m antes del paso a nivel, informaban al conductor sobre el próximo paso a nivel y el posible peligro existente en él.
-Foto 4. Vista del paso a nivel de Kulna desde la ubicación de la señal 125 «Paso a nivel adelante», situada a 43,3 m de distancia.
-El paso a nivel de Kulna está equipado con los dispositivos de ordenación del tráfico previstos para un paso a nivel de categoría III. El producto entre los 432 vehículos de carretera y los 24 trenes que cruzan diariamente el paso a nivel de Kulna es de 10 368, cifra inferior a 30 000. Según los datos de densidad de tráfico, al paso a nivel de Kulna se le ha asignado la tercera categoría, lo cual es conforme a la normativa.
-El usuario de la carretera sale del bosque a menos de 100 m del raíl más cercano. Al llegar a 50 m de distancia de la vía, el conductor del automóvil puede ver hasta 400 metros en la dirección de aproximación del tren, lo cual cumple con las normas.
-El camión Scania con semirremolque Kraker estaba cargado con turba y su masa total era de aprox. 40 t. El vehículo circulaba a una velocidad de 29 km/h cuando colisionó lateralmente contra el frontal del tren, como resultado de lo cual resultó dañado el acoplador automático del coche motor. El tren se desplazaba casi perpendicularmente a la dirección de movimiento del vehículo y no existía impulso lateral del tren. El camión había iniciado un giro a la derecha, pero la dirección de marcha no había cambiado significativamente en el momento de la colisión. La fuerza de impacto y el impulso del automóvil fueron suficientemente grandes para
-
+La intensidad de las percepciones visuales está influenciada por los objetos visuales. El Reglamento del Ministro establece que, antes del paso a nivel, en el mismo poste debe haber una señal de advertencia 112 «Paso a nivel sin barreras» y una advertencia adicional 125 «Paso a nivel adelante».
+En el presente caso, a una distancia de 43,3 m del carril más extremo, además de la advertencia adicional 125 «Paso a nivel adelante», falta la señal de advertencia 112 «Paso a nivel sin barreras». Debido a la falta de la señal, la posibilidad prevista por los dispositivos de regulación del tráfico de influir en las percepciones visuales quedó parcialmente sin utilizar. El resto de los dispositivos de regulación del tráfico eran claramente visibles y, a partir de una distancia de 243,3 m antes del cruce, advertían al conductor sobre el paso a nivel inminente y el posible peligro que allí existía.
+Foto 4. Vista del cruce de Kulna desde la señal 125 «Paso a nivel adelante», situada a una distancia de 43,3 m.
+El paso a nivel de Kulna está equipado con los dispositivos de regulación del tráfico previstos para un paso a nivel de categoría III.
+El producto del número medio diario de 432 vehículos de carretera y 24 trenes que cruzan el paso a nivel de Kulna es 10368, lo cual es inferior a 30000. Según los datos de densidad del tráfico, al paso a nivel de Kulna se le ha asignado la tercera categoría, lo cual es conforme a las normas.
+Un usuario de la carretera sale del bosque a menos de 100 m del carril más cercano. Al alcanzar una distancia de 50 m de las vías, el conductor del automóvil puede ver hacia la dirección de aproximación del tren a una distancia de 400 metros, lo cual cumple con las normas.
+El camión Scania con semirremolque Kraker estaba cargado con turba y su masa total era de aproximadamente 40 t. El automóvil chocó de lado contra la parte frontal del tren a una velocidad de 29 km/h, como resultado de lo cual resultó herido el maquinista de la locomotora. El tren se movía casi perpendicularmente a la dirección de movimiento del automóvil y el tren carecía de impulso lateral. El camión había iniciado un giro a la derecha, pero la dirección de marcha no había cambiado significativamente en el momento del choque. La fuerza de impacto y el impulso del automóvil eran suficientemente grandes como para
 
 ## Página 28
 
-que el frontal del tren, con un impulso lateral nulo, comenzara a moverse lateralmente. El tren continuó moviéndose por inercia. El camión Scania giró bruscamente hacia la derecha bajo el efecto del impacto recibido durante la colisión, de modo que su semirremolque, continuando en la anterior dirección de movimiento, golpeó al tren cerca del primer eje. Bajo el efecto de este golpe lateral, la resultante de la dirección de movimiento del tren, que hasta entonces había circulado sobre los raíles, se desvió diagonalmente fuera de la vía. Como consecuencia, descarrilaron tanto el primer bogie como los siguientes. El tren se detuvo cuando solo quedaba sobre los raíles el último bogie.
-En un paso a nivel no regulado, el conductor del automóvil debe asegurarse, mirando en ambas direcciones del ferrocarril, de que ningún tren se aproxima desde ninguna de ellas. Circulando a la velocidad permitida de 90 km/h (es decir, 25 m/s) y saliendo del bosque 3-4 segundos antes de llegar a la vía, un conductor que recorra esta ruta por primera vez podría esperar dominar la situación y ser capaz de detener el vehículo dentro del alcance de visibilidad disponible.
-En realidad, la visibilidad lateral es limitada y, circulando a la velocidad permitida, el conductor no necesariamente puede reaccionar adecuadamente en ese breve tiempo ante un peligro que aparece repentinamente desde el lado a menos de 100 m de distancia al salir del bosque, ni evitar el tren.
-Un conductor más prudente tiene en cuenta el significado de las señales de advertencia instaladas ya a varios cientos de metros del paso a nivel y reduce la velocidad para no poner a prueba su tiempo de reacción en el último momento. La elección de la velocidad del automóvil es una cuestión de cultura vial del conductor.
-Destellos luminosos intermitentes de colores vivos, distintos del fondo, favorecerían intensamente el cambio de atención. Para lograr el dominio de las percepciones auditivas, sería favorable generar un sonido discontinuo dentro del alcance auditivo. Un semáforo de paso a nivel que informe sobre la aproximación del tren ayuda a aumentar la atención del usuario de la carretera y, por tanto, la seguridad vial.
-El propietario o poseedor de la infraestructura ferroviaria organiza una inspección del paso a nivel mediante una comisión de inspección compuesta por representantes de las distintas partes interesadas. Durante la inspección, se evalúa la conformidad del paso a nivel con los requisitos y su seguridad.
-Los requisitos legalmente establecidos para los pasos a nivel son necesarios para garantizar la seguridad. Incluso pequeñas diferencias en las condiciones del entorno natural y artificial cerca del paso a nivel tienen efectos diferentes sobre la psique del usuario de la vía y sobre la percepción del posible peligro.
-La evaluación de la seguridad por parte de la comisión de inspección basándose únicamente en la conformidad con los requisitos no siempre es suficiente. Asimismo, las facultades de la comisión son bastante limitadas para tramitar sus propuestas con plena rigurosidad. Los miembros de la comisión, procedentes de diversas instituciones, poseen experiencias diferentes, lo que permite evaluar la seguridad desde distintos puntos de vista.
-El aprovechamiento de la sinergia de la cooperación mutua entre los miembros de la comisión de inspección permite y favorece la presentación de evaluaciones y opiniones sobre la seguridad de cada paso a nivel concreto, así como la aplicación de medidas específicas.
-No está definido legalmente bajo qué condiciones es importante limitar razonablemente la velocidad de circulación al acercarse al paso a nivel para el usuario de la carretera, ni tampoco cuánto reducirla. Esto podría decidirse en cada caso individual por la comisión de inspección si se ampliaran sus facultades.
-Con el aumento de las facultades de la comisión de inspección de pasos a nivel, es posible aprovechar óptimamente el potencial de los especialistas de diversos campos como resultado de su trabajo conjunto para hacer más seguros los pasos a nivel.
+que la cabeza del tren, con un impulso lateral de valor nulo, comenzara a moverse lateralmente. El tren continuó avanzando por inercia. El camión Scania giró bruscamente hacia la derecha como resultado del golpe recibido en la colisión, de tal manera que su semirremolque, al continuar en la dirección de movimiento anterior, golpeó al tren cerca del primer par de ruedas.
+Como resultado del golpe lateral recibido, la dirección de movimiento del tren, que hasta entonces se había desplazado sobre las vías, resultó ser diagonalmente alejada de las vías. Como consecuencia, tanto el primer bogie como los bogies posteriores salieron de las vías. El tren se detuvo cuando solo el último bogie permanecía sobre las vías.
+En un paso a nivel no regulado, el conductor del automóvil, al mirar en ambas direcciones de la vía férrea, debe asegurarse de que ningún tren se aproxime desde ninguna de las direcciones. Con una velocidad permitida de 90 km/h, es decir, 25 m/s, y saliendo del bosque a los 3-4 segundos antes de llegar a las vías, un conductor que circula por esa carretera por primera vez puede confiar en que domina la situación y es capaz de detener el automóvil dentro del alcance de visibilidad disponible.
+En realidad, la visibilidad lateral está limitada y, al circular a la velocidad permitida, el conductor del automóvil, al salir del bosque, puede no reaccionar de manera adecuada en ese breve tiempo ante un peligro repentino que se aproxime lateralmente a menos de 100 m de distancia, ni evitar el tren.
+Un conductor más cauteloso tiene en cuenta el significado de las señales de advertencia instaladas a varias centenas de metros del paso a nivel y reduce la velocidad para no poner a prueba su tiempo de reacción en el último momento. La elección de la velocidad del automóvil es una cuestión de cultura vial del conductor.
+Destellos de luz intermitentes de colores vivos que contrasten con el fondo favorecerían más intensamente el cambio de atención. Para lograr la dominancia de las percepciones auditivas, sería beneficioso generar un sonido intermitente dentro del alcance auditivo.
+El semáforo de paso a nivel que indica la aproximación del tren ayuda a aumentar la atención del usuario de la carretera y, por tanto, la seguridad vial.
+El propietario o titular de la infraestructura ferroviaria organiza la inspección del paso a nivel mediante una comisión de inspección formada por representantes de las distintas partes interesadas. Durante la inspección se evalúa la conformidad del paso a nivel con los requisitos y su seguridad.
+Los requisitos legalmente establecidos para los pasos a nivel son necesarios para garantizar la seguridad. Incluso pequeñas diferencias en las condiciones del entorno natural y artificial en las inmediaciones de un paso a nivel ejercen una influencia diferente sobre la psique del usuario de la vía y la percepción del posible peligro.
+No siempre es suficiente evaluar la seguridad basándose únicamente en la conformidad con los requisitos según el criterio de la comisión de inspección. Asimismo, las competencias de la comisión son bastante limitadas para tramitar sus propuestas con toda la rigurosidad. Los miembros de la comisión procedentes de diferentes instituciones poseen experiencias diversas, lo que permite evaluar la seguridad desde diferentes perspectivas.
+La sinergia derivada de la cooperación entre los miembros de la comisión de inspección permite y fomenta la presentación de evaluaciones y opiniones sobre la seguridad de cada paso a nivel concreto y la aplicación de medidas específicas.
+No está legalmente definido bajo qué condiciones es razonable para el usuario de la carretera limitar la velocidad al aproximarse a un paso a nivel, ni en qué medida debe limitarla. Esto podría decidirse en cada caso individual mediante la ampliación de las competencias de la comisión de inspección.
+Con el aumento de las competencias de la comisión de inspección del paso a nivel, es posible aprovechar óptimamente el potencial de especialistas de diferentes ámbitos para, como resultado del trabajo conjunto, hacer más seguros los pasos a nivel.
 
 ## Página 29
 
-El tren n.º 0522 circulaba por la línea a una velocidad de 100,2 km/h antes de frenar, cuando la velocidad permitida era de 120 km/h. El conductor había utilizado la señal acústica del tren en el lugar previsto, su vigilancia fue buena y reaccionó adecuadamente a la señal de control de vigilancia. Antes de aplicar el freno de emergencia, además de la señal acústica obligatoria prescrita para el paso a nivel, el conductor activó al detectar un peligro una señal acústica repetitiva para llamar la atención del usuario de la carretera. El tren se acercaba a la parada de Kulna con una velocidad decreciente uniforme. El dispositivo ABS antideslizamiento no entró en funcionamiento. Por lo tanto, las condiciones meteorológicas antes y en el paso a nivel de Kulna eran normales para la circulación ferroviaria durante el accidente. Estaba previsto que el tren hiciera una parada junto al andén de Kulna. A las 08:29:33, el conductor se levantó del asiento de conducción y aplicó el freno de emergencia desde una velocidad de 37,2 km/h. Debido a la construcción del tren, sentado en el asiento de conducción no es posible ver unos metros hacia adelante desde la parte frontal del tren. Al ponerse de pie, el conductor amplía su campo de visión al objeto inmediatamente delante del tren. El campo de visión del conductor era suficiente para tener una visión general del tráfico en su conjunto y reaccionar en consecuencia ante el peligro. El coche no apareció en la carretera en la zona de visibilidad limitada del conductor. El coche se acercaba allí circulando por la carretera. La aplicación del freno de emergencia no era necesaria para detenerse en la parada de Kulna, sino antes del paso a nivel situado aproximadamente 90 m antes de la parada, donde existía una situación peligrosa para el tráfico. A las 08:29:34, cuando la presión en los cilindros de freno alcanzó 2,8 bar, según la lectura del sensor de velocidad del tren, se produjo la colisión entre el tren y el camión en el paso a nivel a una velocidad de 28,0 km/h (velocidad GPS 41,5 km/h). Tras el accidente, se procedió a la notificación del incidente, a la movilización de los empleados responsables de la ejecución, a la organización de la cooperación con la empresa de infraestructura ferroviaria, los servicios de rescate y terceros, y a la provisión de recursos conforme al sistema de gestión de la seguridad vigente en AS Eesti Liinirongid. Asimismo, se realizó la gestión de riesgos de seguridad ferroviaria y el seguimiento de las acciones correctivas. Como primeras actividades del servicio de tráfico de la empresa, en el transcurso de 15 minutos se transmitió información a todas las partes interesadas, se realizaron cambios en la organización del tráfico en 10 minutos, se respondió operativamente trasladando a la tripulación del tren a la estación de salida Tallinn-Balti, la llegada del autobús sustituto al lugar de los hechos a las 9:48 y la colocación de los pasajeros en el autobús en 10 minutos, así como la coordinación de los cambios en la organización del tráfico con AS Eesti Raudtee a las 10:52. La organización del trabajo y la notificación a los pasajeros se llevaron a cabo a través de la comunicación, incluyendo la notificación al centro de contacto a las 9:13. Como gestión de las consecuencias en el lugar de los hechos, se procedió al relevo de la tripulación del tren, a la cooperación con el servicio de rescate, a garantizar la seguridad de los pasajeros, a garantizar la seguridad de los trabajadores y a solicitar un servicio de vigilancia nocturna en el lugar de los hechos. El papel del servicio de material rodante en la eliminación de las consecuencias consistió en la llamada al tren de rescate EVR a las 8:51, la llegada del equipo de emergencia al lugar de los hechos a las 9:59, la evaluación técnica del material rodante accidentado a las 10:52, la solicitud de una grúa de elevación a las 11:16, la organización del transporte de bogies de repuesto a las 12:06, la notificación a la empresa fabricante y la presentación de una consulta sobre la pericia a las 12:40. En la empresa se revisaron los manuales organizativos y el análisis de riesgos, y se evaluaron sus necesidades de actualización. No existen vínculos en el caso de accidente que sean causados por deficiencias en los documentos organizativos y en el sistema de gestión de la seguridad de AS Eesti Liinirongid o por su aplicación.
+El tren de viajeros n.º 0522 circulaba a una velocidad de 100,2 km/h antes de aplicar el frenado de emergencia, cuando la velocidad permitida era de 120 km/h. El maquinista activó la señal acústica del tren en el lugar previsto; su estado de alerta era bueno y respondió de manera adecuada a la señal de control de vigilancia. Antes de aplicar el frenado de emergencia, el maquinista, además de la señal acústica obligatoria prevista para la aproximación al paso a nivel, activó una señal acústica intermitente al detectar un peligro, con el fin de atraer la atención del usuario de la carretera. El tren se aproximaba a la parada de Kulna a una velocidad decreciente de forma uniforme. El dispositivo antideslizante ABS no se activó. Por lo tanto, las condiciones meteorológicas durante el accidente eran normales para la circulación ferroviaria antes y en el lugar del paso a nivel de Kulna. El tren tenía previsto detenerse oficialmente junto al andén de Kulna. El maquinista se levantó del asiento de conducción a las 08:29:33 y aplicó el frenado de emergencia a una velocidad de 37,2 km/h. Debido a la construcción del tren, no es posible ver hacia adelante más allá de unos metros desde el asiento de conducción. Al levantarse, el maquinista amplía su campo visual hacia el objeto situado inmediatamente delante del tren. El campo visual del maquinista era suficiente para tener una visión general del tráfico y reaccionar en consecuencia según el peligro. El coche no apareció en la carretera en la zona de visibilidad limitada del maquinista. El coche se acercó allí circulando por la carretera.
 
+La aplicación del frenado de emergencia no era necesaria para detenerse en la parada de Kulna, sino para evitar una situación de peligro para el tráfico en el paso a nivel situado aproximadamente a 90 m antes de la parada. A las 08:29:34, cuando la presión en el cilindro de freno alcanzó los 2,8 bar, se produjo una colisión entre el tren y el remolque en el paso a nivel, a una velocidad de 28,0 km/h (velocidad GPS 41,5 km/h), según la indicación del sensor de velocidad del tren.
+
+Tras el accidente, se notificó el incidente, se activó al personal responsable de su ejecución, se coordinó la colaboración con el gestor de infraestructura ferroviaria, los servicios de rescate, las terceras partes y se garantizó el recurso según el sistema de gestión de la seguridad establecido en la empresa AS Eesti Liinirongid. Asimismo, se gestionaron los riesgos de seguridad ferroviaria y se siguieron las actividades de mejora. Como primeras acciones del servicio de tráfico de la empresa, se transmitió la información a todas las partes interesadas en un plazo de 15 minutos, se realizaron cambios en la regulación del tráfico en un plazo de 10 minutos, se reaccionó operativamente para llevar a la tripulación del tren a la estación de origen Tallinn-Balti, llegó el autobús de sustitución al lugar del incidente a las 9:48 y se colocó a los pasajeros en el autobús en un plazo de 10 minutos, coordinando los cambios en la regulación del tráfico con AS Eesti Raudteed a las 10:52. La organización del trabajo y la información a los pasajeros se realizó a través de la comunicación, notificándose al centro de contacto a las 9:13. Como medida de control de las consecuencias, en el lugar del incidente se procedió a relevar a la tripulación del tren, colaborar con el servicio de rescate, garantizar la seguridad de los pasajeros, garantizar la seguridad del personal y contratar un servicio de vigilancia nocturna en el lugar del incidente. El papel del servicio de material rodante en la eliminación de las consecuencias se manifestó en la solicitud a las 8:51 del tren de rescate de EVR, la llegada a las 9:59 del equipo de intervención al lugar del incidente, la evaluación técnica del material rodante accidentado a las 10:52, la solicitud de la grúa de elevación a las 11:16, la organización del transporte de los bogies de reserva a las 12:06, la notificación a la empresa fabricante y la solicitud de peritaje a las 12:40. En la empresa se revisaron las instrucciones de organización del trabajo y el análisis de riesgos, y se evaluó la necesidad de actualizarlos.
+
+No existen vínculos con el accidente que sean causados por las deficiencias en los documentos de organización del trabajo y el sistema de gestión de la seguridad de AS Eesti Liinirongid o por su aplicación.
 
 ## Página 30
 
-Tras recibir información del conductor del material rodante sobre el caso de accidente al despachador de trenes de la región de AS Eesti Raudtee (EVR), se interrumpió la circulación ferroviaria entre las estaciones de Keila y Vasalemma. El centro de control de EVR notificó el incidente al Centro de Emergencias, como resultado de lo cual respondieron en el lugar de los hechos la ambulancia, la policía y el servicio de rescate. El operador ferroviario de EVR activó el grupo de liquidación de las consecuencias del accidente, cuyos equipos pertenecientes al tren de rescate, al departamento de redes eléctricas, al departamento de carreteras, a telecomunicaciones y al departamento de sistemas de seguridad circularon hacia el lugar de los hechos. Se llevó a cabo el intercambio de información y una cooperación eficaz con Elron. Por parte de AS Eesti Raudtee, no existen vínculos entre la gestión del tráfico y las causas del accidente. El centro de control de EVR no dio motivo alguno para la ocurrencia del caso de accidente. La respuesta al incidente y la liquidación de sus consecuencias se llevaron a cabo conforme al sistema de gestión de la seguridad de EVR, fueron competentes, sistemáticamente planificadas y eficaces. Tras el accidente, el gestor de riesgos de la empresa realizó un análisis y evaluación de los riesgos de seguridad ferroviaria relacionados con el incidente, así como el seguimiento del nivel de riesgo mediante el módulo de riesgos del sistema de información Pony. Se produjo el intercambio de información con los propietarios de los riesgos y las actividades para mitigar el riesgo, implementar medidas y hacer seguimiento de su eficacia. El propietario del riesgo garantizó la implementación y funcionamiento de las medidas de control necesarias. No existen indicios que apunten a deficiencias en los documentos organizativos y en el sistema de gestión de la seguridad de AS Eesti Raudtee, incluida la evaluación de los riesgos y su realización en la práctica.
+Tras recibir el despachador de trenes de la zona de AS Eesti Raudtee (EVR) la información del accidente por parte del maquinista del material rodante, se interrumpió la circulación ferroviaria entre las estaciones de Keila y Vasalemma. El centro de control de EVR notificó el incidente al Centro de Emergencias, lo que provocó la respuesta de la ambulancia, la policía y el servicio de rescate en el lugar del incidente. El gestor de tráfico ferroviario de EVR activó el grupo de eliminación de las consecuencias del accidente, al cual pertenecían los equipos del tren de rescate, del departamento de redes eléctricas, del departamento de vías, del departamento de telecomunicaciones y del departamento de sistemas de seguridad, que se desplazaron al lugar del incidente. Se produjo un intercambio de información y una colaboración eficaz con Elron.
+
+Por parte de AS Eesti Raudtee no existen vínculos entre la gestión del tráfico y las causas del accidente. El centro de control de EVR no dio ninguna razón para que se produjera el accidente. La respuesta al incidente y la eliminación de sus consecuencias se realizaron conforme al sistema de gestión de la seguridad de EVR, fueron competentes, sistemáticamente bien planificadas y funcionaron de manera eficaz.
+
+Tras el accidente, el gestor de riesgos de la empresa realizó un análisis y evaluación de los riesgos de seguridad ferroviaria relacionados con el incidente, así como el seguimiento del nivel de riesgo a través del módulo de riesgos del sistema de información Pony. Se realizó un intercambio de información con los tomadores de riesgos y se llevaron a cabo actividades para mitigar el riesgo, aplicar medidas y seguir su eficacia. El tomador de riesgos garantizó la aplicación y el funcionamiento de las medidas de control necesarias.
+
+No se observaron indicios que indiquen deficiencias en los documentos de organización del trabajo y el sistema de gestión de la seguridad de AS Eesti Raudtee, incluida la evaluación de riesgos y su implementación práctica.
+
 # 4.3 Conclusiones
-1. La composición de tren eléctrico EMU Stadler Flirt n.º 1309, de 3 vagones, que circulaba como tren de pasajeros n.º 0522 de AS Eesti Liinirongid (Elron), se acercaba al paso a nivel ferroviario de Kulna el 20 de febrero de 2018 en régimen de marcha normal.
-2. La composición del tren y la tripulación estaban autorizadas para trabajar conforme a las normas vigentes en Elron. El conductor del material rodante posee la calificación necesaria y el derecho de conducción en la línea Riisipere – Tallinn.
-3. El paso a nivel ferroviario de categoría III situado en la infraestructura de AS Eesti Raudtee pertenece a los pasos pasivos y está equipado para el usuario de la carretera con señales de advertencia «Ferrocarril de vía única», «Paso a nivel sin barreras», con advertencias adicionales duplicadas «Hay un paso a nivel delante» y con un panel informativo adicional «Altura segura bajo la línea eléctrica».
-4. El paso a nivel de Kulna no está equipado, en la dirección de aproximación del camión que colisionó con el tren, a 43,3 m de distancia del riel más cercano, con la señal de advertencia 112 «Paso a nivel sin barreras» prevista en el poste de la advertencia adicional 125 «Hay un paso a nivel delante».
-5. El camión Scania con semirremolque Kraker era conducido por un automovilista con licencia de conducir válida. El camión se acercaba al paso a nivel acelerando, considerando las condiciones de la carretera que mejoraban en los últimos segundos, desde 20 km/h hasta 29 km/h, cuando la velocidad permitida es de 90 km/h.
-6. Tres cuartos de hora antes del caso de accidente, se había realizado el mantenimiento invernal de la calzada en el paso a nivel. La calidad de la calzada cumplía con las normas. La velocidad del camión comenzó a aumentar en la zona donde se había realizado el mantenimiento invernal.
+
+1. El tren de viajeros n.º 0522 de AS Eesti Liinirongid (Elron), compuesto por el tren eléctrico Stadler Flirt EMR n.º 1309 de tres vagones, se aproximó el 20 de febrero de 2018 al paso a nivel ferroviario de Kulna en modo de conducción normal.
+2. El tren y la tripulación estaban autorizados para trabajar conforme al procedimiento establecido en Elron. El maquinista del material rodante posee la cualificación y el permiso de conducción necesarios para la línea Riisipere – Tallinn.
+3. El paso a nivel de categoría III situado en la infraestructura de AS Eesti Raudtee pertenece a los pasos pasivos y está equipado para los usuarios de la carretera con señales de advertencia de «Ferrocarril de vía única», «Paso a nivel sin barreras», señales de advertencia adicionales duplicadas de «Paso a nivel adelante» y un panel de información adicional de «Altura segura bajo la línea eléctrica».
+4. El paso a nivel de Kulna no está equipado con la señal de advertencia adicional 125 «Paso a nivel adelante» en el poste de la señal de advertencia 112 «Paso a nivel sin barreras», situada a 43,3 m del carril más cercano en la dirección de aproximación del remolque que colisionó con el tren.
+5. El remolque Scania con semirremolque Kraker era conducido por un conductor de automóvil con licencia de conducir válida. El remolque se acercó al paso a nivel acelerando, teniendo en cuenta las condiciones de la carretera mejoradas en los últimos segundos, de 20 km/h a 29 km/h, cuando la velocidad permitida es de 90 km/h.
+6. Cuarenta y cinco minutos antes del accidente, se había realizado el mantenimiento invernal de la calzada en el paso a nivel. La calidad de la calzada cumplía las normas. La velocidad del remolque comenzó a aumentar en la zona donde se había realizado el mantenimiento invernal.
 
 ## Página 31
 
-7. Al aproximarse el vehículo al paso a nivel, el conductor tenía la posibilidad de observar la dirección de aproximación del tren hasta una distancia normativa de 400 m desde el carril más cercano situado a 50 m.
-8. En el momento en que el coche llegó a los 50 m del carril más cercano del paso a nivel, el tren se encontraba a menos de 100 m del paso a nivel, estaba bien iluminado y era visible para el conductor del coche.
-9. El conductor del coche probablemente estaba concentrado en las condiciones viales directas. No vio el tren que se aproximaba. En lugar de cambiar intencionadamente su atención para fijar la aproximación del tren y detenerse en el punto previsto para dejarlo pasar, el conductor del coche evaluó la calidad de la calzada en la zona de mantenimiento invernal como mejor que la del tramo anterior y comenzó a acelerar gradualmente el vehículo.
-10. La causa directa (direct causes) del accidente es un error humano, donde el conductor del coche, conduciendo con precaución, estaba centrado en las condiciones invernales de la vía y no pudo redirigir su atención a tiempo hacia el tren que se aproximaba. El conductor del coche inició tarde el giro a la derecha para evitar la colisión, cuando el tren ya había llegado al paso a nivel. Inmediatamente después se produjo la colisión con el tren.
-11. La ausencia de la señal de advertencia 112 "Paso a nivel sin barreras" situada a 43,3 m del carril más cercano antes del paso a nivel no es la causa del accidente. La falta de esta señal no impide que el conductor perciba otros dispositivos de regulación del tráfico situados antes del paso a nivel, que también le advierten sobre el posible peligro en dicho paso. La señal de advertencia es un elemento adicional entre otras señales de tráfico para llamar la atención del conductor del vehículo. La ausencia de la señal de advertencia 112 "Paso a nivel sin barreras" es una circunstancia complementaria del incidente.
-12. Durante el examen médico se detectó intoxicación etílica en el conductor del coche. El estado de embriaguez inhibe la capacidad de cambiar la atención. El conductor niega su estado de embriaguez.
-13. El maquinista del material rodante ferroviario circulaba por la línea a la velocidad permitida en el paso a nivel Kulna antes de la colisión; la iluminación exterior del tren estaba encendida correctamente; al acercarse a la parada programada aplicó el freno de servicio; al notar que el vehículo se aproximaba al paso a nivel por la derecha, dio repetidamente la señal acústica y activó el freno de emergencia. El maquinista empleó todos los medios a su disposición para evitar el accidente. Le resultaba imposible evitar la colisión.
-14. La frenada del tren se realizó de forma estable y uniforme. No hubo deslizamiento, dado que el sistema ABS no se activó. Las condiciones de circulación ferroviaria eran normales.
-15. El maquinista cumplió todas las normas previstas durante el servicio al aproximarse al paso a nivel pasivo de Kulna. Sus habilidades y hábitos laborales eran competentes y no favorecieron de ninguna manera la ocurrencia del accidente. En este caso no existen causas subyacentes (underlying causes).
-16. Dado que tanto el vehículo como el tren se aproximaban mutuamente a velocidades bajas, lo que permitía al conductor del vehículo ver el tren a tiempo y detenerse en el punto previsto para dejarlo pasar, no existe
-
+7. Al acercarse el vehículo a la intersección, el conductor tenía visibilidad hacia la dirección de aproximación del tren a una distancia de 50 m del carril más cercano, cuando la normativa establece una distancia de 400 m.
+8. En el momento en que el tren se encontraba a 50 m del carril más cercano al vehículo, estaba a menos de 100 m de la intersección, bien iluminado y visible para el conductor del vehículo.
+9. El conductor del vehículo estaba probablemente centrado en la observación directa de las condiciones de la vía. No percibió la aproximación del tren. En lugar de cambiar intencionadamente el foco de atención para fijar la aproximación del tren y detenerse en el lugar previsto para su paso, el conductor del vehículo valoró la calidad de la calzada en la zona de mantenimiento invernal como mejor que en la zona de conducción anterior y comenzó a aumentar gradualmente la velocidad del vehículo.
+10. La causa directa (direct causes) del accidente es el error humano, en el que el conductor del vehículo, conduciendo con precaución, se centró en las condiciones invernales de la vía y no pudo cambiar a tiempo la atención hacia el tren que se aproximaba. El conductor del vehículo inició tarde un giro a la derecha para evitar la colisión, cuando el tren ya había llegado a la intersección. Inmediatamente después se produjo la colisión con el tren.
+11. La ausencia de la señal de advertencia 112 «Cruce ferroviario sin barreras» a 43,3 m del carril más cercano antes de la intersección no es la causa del accidente. La ausencia de la señal de advertencia 112 «Cruce ferroviario sin barreras» no impide al conductor percibir otros dispositivos de regulación del tráfico situados antes de la intersección, que también le advierten de un posible peligro en la intersección. La señal de advertencia es un medio adicional para captar la atención del conductor del vehículo entre las demás señales de tráfico. La ausencia de la señal de advertencia 112 «Cruce ferroviario sin barreras» es un hecho circunstancial adicional del incidente.
+12. Durante la revisión médica se detectó que el conductor del vehículo presentaba embriaguez. El estado de embriaguez dificulta el cambio de atención. El conductor niega su estado de embriaguez.
+13. El conductor del material rodante ferroviario circulaba a la velocidad permitida en la línea antes de la colisión en el cruce ferroviario de Kulna, la iluminación exterior del tren estaba encendida correctamente, al acercarse a la parada prevista aplicó el freno de servicio, al detectar que el vehículo se aproximaba a la intersección por la derecha emitió señales acústicas repetidas y activó el freno de emergencia. El conductor del material rodante ferroviario aplicó todos los medios a su disposición para evitar el accidente. No estaba en su poder evitar la colisión.
+14. La frenada del tren se realizó de forma estable y uniforme. No hubo derrape, ya que el sistema ABS no se activó. Las condiciones de circulación ferroviaria eran normales.
+15. El conductor del material rodante ferroviario cumplió todas las normas de comportamiento previstas para el acercamiento a la intersección pasiva de Kulna. Sus habilidades y hábitos de trabajo eran competentes y no favorecieron en absoluto la producción del accidente. No existen causas subyacentes (underlying causes) en este incidente.
+16. Dado que tanto el vehículo como el tren se acercaban el uno al otro a bajas velocidades, lo que permitía al conductor del vehículo percibir a tiempo el tren y detenerse en el lugar previsto para su paso, no existe
 
 ## Página 32
 
-relación causal entre la ocurrencia del accidente y la dotación del paso a nivel con señalización luminosa.
-17. Las competencias de la comisión de inspección del paso a nivel están demasiado limitadas para evaluar adecuadamente todos los factores que influyen en la seguridad del paso y aplicar las medidas correspondientes. La actuación de la comisión de inspección bajo las competencias vigentes no ha causado el accidente.
-18. Los documentos organizativos del trabajo, el sistema de gestión de la seguridad y su aplicación en el tratamiento del accidente por parte de AS Eesti Liinirongid son competentes.
-19. Los documentos organizativos del trabajo y el sistema de gestión de la seguridad de AS Eesti Raudtee, junto con la realización de operaciones prácticas basadas en ellos, son correctos.
-20. El accidente carece de causas esenciales (root causes), es decir, no existen relaciones causales entre la ocurrencia del incidente y la aplicación de regulaciones y sistemas de gestión de la seguridad.
-21. AS Eesti Raudtee ha implementado un sistema funcional de gestión de riesgos, cuyo efecto está registrado en el módulo de riesgo del sistema informático Pony.
-22. La gestión documental de AS Eesti Raudtee no garantiza que el material factual actualizado llegue a todos los soportes de información relacionados dentro de un plazo razonable.
+relación causal entre la producción del accidente y la dotación de señalización luminosa en la intersección.
+17. Las competencias de la comisión de inspección de los cruces ferroviarios son demasiado limitadas para poder evaluar y aplicar las medidas adecuadas teniendo en cuenta de manera suficiente todos los factores que influyen en la seguridad del cruce. El funcionamiento de la comisión de inspección con base en las competencias vigentes no ha provocado el accidente.
+18. Los documentos de organización del trabajo, el sistema de gestión de la seguridad y su aplicación de AS Eesti Liinirongid en el tratamiento del incidente son competentes.
+19. Los documentos de organización del trabajo y el sistema de gestión de la seguridad de AS Eesti Raudtee, junto con la realización de las operaciones prácticas con base en ellos, son correctos.
+20. El incidente carece de causas raíz (root causes), es decir, no existen relaciones causales entre la producción del incidente y la aplicación de las normativas y del sistema de gestión de la seguridad.
+21. AS Eesti Raudtee ha implementado un sistema de gestión de riesgos eficaz, cuya eficacia está registrada en el módulo de riesgos del sistema Pony.
+22. La gestión documental de AS Eesti Raudtee no garantiza que el material factual actual llegue a todos los soportes de información asociados en un plazo de tiempo razonable.
 # 4.4 Observaciones adicionales
-En la gestión documental de AS Eesti Raudtee existen inconsistencias puntuales, donde para un mismo objeto los documentos vigentes contienen datos diferentes y mutuamente excluyentes. Por ejemplo, hay discrepancias en los materiales presentados al Centro de Investigación de Accidentes sobre el mismo incidente el 06.04.2018 y el 28.09.2018. Parece faltar un sistema firme en la gestión documental de la empresa sobre cómo, cuándo y quién actualiza los datos obsoletos. La investigación de seguridad del accidente ocurrido en el paso a nivel de Kulna el 20.02.2018 se inició el 26.02.2018 tras estimar los daños potenciales hasta 2 millones de euros.
-Según el análisis experto del fabricante de la composición de tren Stadler y el cálculo de daños de Elron, en el verano de 2018 los daños fueron valorados en más de 2 millones de euros, lo que sitúa este caso entre los accidentes graves.
-Conforme a las regulaciones vigentes, se sigue la decisión tomada hasta el final de la investigación de seguridad el 26.02.2018 sobre el accidente en el paso a nivel.
-
+En la gestión documental de AS Eesti Raudtee se producen a veces inconsistencias, donde para un mismo objeto existen en los documentos actualmente vigentes datos diferentes y mutuamente excluyentes. Por ejemplo, existe una divergencia entre los materiales presentados al Centro de Investigación de la Seguridad (Ohutusjuurdluse Keskus) sobre el mismo incidente el 06.04.2018 y el 28.09.2018. Parece faltar en la gestión documental de la empresa un sistema claro sobre cómo, cuándo y por quién se actualizan los datos obsoletos. La investigación de seguridad del incidente ocurrido en el cruce ferroviario de Kulna el 20.02.2018 se inició el 26.02.2018 tras la estimación de los daños presuntamente hasta 2 millones de euros.
+Con base en el análisis experto del fabricante del tren, Stadler, y en el cálculo de daños de Elron, en el verano de 2018 se estimaron los daños como superiores a 2 millones de euros, lo que hace que este incidente se clasifique como un accidente grave.
+Con arreglo a la normativa vigente, se sigue la decisión tomada el 26.02.2018 sobre el incidente en el cruce ferroviario hasta el final de la investigación de seguridad.
 
 ## Página 33
 
 # 5. MEDIDAS ADOPTADAS
-El 20.02.2018 se dedicó a realizar los preparativos previstos necesarios para llevar a cabo los trabajos de restauración. La brigada de trabajo de la oficina de redes eléctricas de EVR desmontó la catenaria, un soporte y un poste. Simultáneamente, la grúa ferroviaria del tren de rescate del grupo de emergencias de Tallin se desplazó a la estación de Keila, mientras que el equipo del grupo de emergencias de Elron solicitó una grúa móvil y realizó los trabajos necesarios con la composición del tren eléctrico. A las 19:50, mediante la grúa ferroviaria del tren de rescate y la locomotora de maniobras solicitada, se retiraron el vehículo y su semirremolque del gálibo de construcción ferroviaria.
-Para la mañana del 21.02.2018, el grupo de emergencias de Elron había organizado el traslado de dos bogies del tren de pasajeros al lugar del suceso y su elevación sobre los rieles, para que la grúa ferroviaria del tren de rescate de EVR y la grúa móvil solicitada pudieran colaborar en elevar de nuevo sobre los rieles la composición del tren de pasajeros descarrilada. Primero se liberó la composición del tren de sus bogies mediante elevaciones simultáneas de las grúas. El proceso de elevación fue laborioso debido a la necesidad de modificar la posición de las líneas de contacto durante el funcionamiento de las grúas y cambiar los traversinos y puntos de fijación de la grúa móvil. A las 17:00 se elevaron sobre los rieles los coches de la composición del tren de pasajeros descarrilada y a las 19:31 se trasladaron a la estación de Keila con la composición del tren de rescate. Con el tren auxiliar de Elron, el tren eléctrico dañado fue transportado a la estación de Pääsküla a las 01:05 del 22.02.2018 y desde allí al territorio del depósito de Pääsküla.
-El 22.02.2018 se reinstaló la línea aérea de 10 kV de la catenaria, 1 poste y 1 soporte desmontados para los trabajos de restauración. Se sustituyó el riel dañado y se reparó el pavimento del paso a nivel. Para la sustitución del riel fue necesario desmontar completamente el pavimento del paso a nivel. Finalmente, se retiraron todos los objetos extraños del gálibo de construcción ferroviaria y el 22.02.2018 a las 13:09 se reabrió la circulación de trenes a la velocidad permitida de 40 km/h.
-Elron organizó el transporte de los pasajeros a sus destinos mediante autobuses. La composición del tren implicada en el accidente fue llevada al depósito.
+El 20.02.2018 se realizaron las preparaciones necesarias para llevar a cabo las obras de restauración. La brigada de trabajo del servicio de redes eléctricas de EVR desmontó la catenaria, un soporte y un mástil. Al mismo tiempo, el tren de rescate del grupo de emergencias de Tallinn se desplazaba con la grúa ferroviaria hacia la estación de Keila, el equipo del grupo de emergencias de Elron solicitó una grúa móvil y realizó las obras necesarias con el tren eléctrico. Para las 19:50 h se retiró la grúa ferroviaria del tren de rescate y, con la ayuda del remolcador solicitado, se retiró el vehículo y su semirremolque del gabarito de construcción ferroviario.
+El 21.02.2018 por la mañana, el grupo de emergencias de Elron organizó el traslado a la escena del accidente de dos bogies de inversión del tren de viajeros y su colocación sobre los raíles, para que la grúa ferroviaria del tren de rescate de EVR y la grúa móvil solicitada pudieran colocar de nuevo sobre los raíles, en colaboración, el tren de viajeros descarrilado. En primer lugar, se liberó el tren de los bogies de inversión mediante la elevación simultánea de las grúas. El proceso de elevación se hizo más laborioso debido a la necesidad de modificar la posición de los cables de contacto durante el trabajo de las grúas y de cambiar las barras transversales y los puntos de fijación de la grúa móvil. Para las 17:00 h se colocaron sobre los raíles los vagones del tren de viajeros descarrilado y para las 19:31 h se trasladó el tren de rescate a la estación de Keila. El tren averiado con los heridos fue trasladado mediante el tren de asistencia de Elron a la estación de Pääsküla para las 01:05 h del 22.02.2018 y de allí al recinto del depósito de Pääsküla.
+El 22.02.2018 se reinstalaron la línea aérea de 10 kV de la catenaria desmontada para las obras de restauración, 1 mástil y 1 poste. Se sustituyó el raíl dañado y se reparó el pavimento del cruce ferroviario. Para la sustitución del raíl fue necesario desmontar completamente el pavimento del cruce. Finalmente, se retiraron todos los objetos extraños del gabarito de construcción ferroviario y el 22.02.2018 a las 13:09 h se reanudó la circulación ferroviaria con una velocidad permitida de 40 km/h.
+Elron organizó el transporte de los viajeros a su destino mediante autobuses. El tren de viajeros implicado en el accidente fue trasladado al depósito.
 
 ## Página 34
 
-# 6. MEDIDAS PARA MEJORAR LA SEGURIDAD FERROVIARIA
-Maanteeametil (Administración de Carreteras)
-1. Instalar, junto con la señal de advertencia adicional 125 „Ees on raudteeülesõidukoht“ (Paso a nivel por delante), en el mismo poste la señal de advertencia 112 „Tõkkepuuta raudteeülesõidukoht“ (Paso a nivel sin barrera).
-2. Instalar en el paso a nivel de Kulna, al salir del camino forestal, una señal de tráfico obligatoria que limite la velocidad permitida.
-Tehnilise Järelevalve Ametil (Agencia de Supervisión Técnica)
-3. Elaborar propuestas para el Majandus- ja Kommunikatsiooniministeeriumile (Ministerio de Asuntos Económicos y Comunicaciones) destinadas a elevar la categoría de la comisión de inspección de pasos a nivel mediante el aumento de sus funciones y competencias.
-4. Instar a AS Eesti Raudteed (Ferrocarriles Estonios S.A.) a considerar prioritaria la instalación de señalización automática por semáforos en el paso a nivel de Kulna.
-5. Instruir a AS Eesti Raudteed (Ferrocarriles Estonios S.A.) para que revise los principios de gestión documental, con el fin de garantizar la armonización del contenido de los distintos conjuntos de datos en un plazo razonable.
-# 6.1 Recomendaciones
-Estonian Road Administration (Administración de Carreteras de Estonia)
-1. To install together with the additional warning sign 125 “Level crossing ahead of you” on the same pole the warning sign 112 “Level crossing without barrier”.   
-2. To install at the Kulna level crossing upon exiting forest road the compulsory speed restriction traffic sign. 
-The Technical surveillance Authority (Autoridad de Supervisión Técnica)
-3. To Plan proposals to the Ministry of Economic Affairs and Communications that enable to increase the status of the level crossing supervison commission by enhancing its authority and working tasks. 
-4. To advice the Estonian Railway PLC to take the installation of automatic traffic signalization of the Kulna level crossing into its priority list.     
+# 6. RECOMENDACIONES PARA LA MEJORA DE LA SEGURIDAD FERROVIARIA
+A la Administración de Carreteras
+1. Instalar, junto con la señal de advertición adicional 125 «Cruce ferroviario a la vista», en el mismo poste, la señal de advertición 112 «Cruce ferroviario sin barrera».
+2. Instalar, en el cruce ferroviario de Kulna, al salir del camino forestal, la señal de tráfico de restricción de velocidad obligatoria.
+A la Autoridad de Supervisión Técnica
+3. Elaborar propuestas dirigidas al Ministerio de Economía y Comunicaciones que permitan elevar el estatus de la comisión de supervisión de los cruces ferroviarios mediante el aumento de sus competencias y funciones.
+4. Recomendar a AS Eesti Raudteed que incluya en su lista de prioridades la instalación de señalización luminosa automática para el cruce ferroviario de Kulna.
+5. Instruir a AS Eesti Raudteed para que revise los principios de gestión documental, a fin de garantizar la armonización del contenido de los distintos sistemas de datos en un plazo razonable.
 
+# 6.1 Recomendaciones
+Administración de Carreteras de Estonia
+1. Instalar, junto con la señal de advertición adicional 125 «Cruce ferroviario a la vista», en el mismo poste, la señal de advertición 112 «Cruce ferroviario sin barrera».
+2. Instalar, en el cruce ferroviario de Kulna, al salir del camino forestal, la señal de tráfico de restricción de velocidad obligatoria.
+La Autoridad de Supervisión Técnica
+3. Elaborar propuestas dirigidas al Ministerio de Economía y Comunicaciones que permitan elevar el estatus de la comisión de supervisión de los cruces ferroviarios mediante el aumento de sus competencias y funciones.
+4. Recomendar a Estonian Railway PLC que incluya en su lista de prioridades la instalación de señalización luminosa automática para el cruce ferroviario de Kulna.
 
 ## Página 35
 
-5. To instruct the Estonia Railway PLC to revise the principles of document management system in order to secure the harmonisation of substance of different data systems in reasonable time.   
-La investigación se finalizó el 11 de octubre de 2018. 
-Realizó la investigación: 
-Aprobó: 
- /Allkiri/ (Firma) 
- /Allkiri/ (Firma) 
- Ees- ja perekonnanimi (Nombre y apellidos)  
-Ees- ja perekonnanimi (Nombre y apellidos)
+5. Instruir a Estonia Railway PLC para que revise los principios del sistema de gestión documental, a fin de garantizar la armonización del contenido de los distintos sistemas de datos en un plazo razonable.
+
+La investigación se finalizó el 11 de octubre de 2018.
+La investigación fue realizada por:
+Aprobado por:
+ /Firma/
+/Firma/
+ Nombre y apellidos
+ Nombre y apellidos

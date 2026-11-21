@@ -1,0 +1,120 @@
+---
+pais: DK
+anio: 2006
+idioma_origen: DA
+md_origen: md/DK/2006/20060914_lyntog_63_abne_dore.md
+md5_origen: 6e9a5278fe14a24d3ae00632f8364fc4
+modelo: mimo-v2.6-flash
+bloques: 1
+chars: 9670
+ratio_longitud: 1.25
+tokens_in: 3561
+tokens_out: 2812
+verificacion: ok
+fecha_proceso: 2026-11-21
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Comisión de Investigación de Accidentes
+Informe
+16.03.2007
+Gestor del expediente:
+N.º de expediente:
+SGR
+611-000103
+Puertas de un tren rápido abiertas por la fuerza el 14 de septiembre de 2006
+Las investigaciones han sido realizadas por la Comisión de Investigación de Accidentes de la Aviación Civil y los Ferrocarriles (Comisión de Investigación de Accidentes) de conformidad con la Ley de Ferrocarriles, según el decreto n.º 1171 de 2 de diciembre de 2004 de la ley de ferrocarriles, con las modificaciones posteriores, así como el decreto n.º 1169 de 29 de diciembre de 1999 sobre la investigación de incidentes de seguridad en el ferrocarril.
+Tras la realización de las investigaciones preliminares y la evaluación de los datos disponibles relativos al incidente ferroviario siguiente, la Comisión de Investigación de Accidentes ha llegado a la conclusión de que investigaciones adicionales no conducirán a recomendaciones adicionales de carácter preventivo, ni pondrán de manifiesto circunstancias de importancia significativa para la seguridad ferroviaria.
+1
+Incidente e investigaciones
+1.1
+Incidente
+El jueves 14 de septiembre de 2006 a las aprox. 19.30 h, las puertas del tren rápido 63 se abrieron por la fuerza en el primer tren de la composición en dirección a Århus. Esto ocurrió al pasar un tren de mercancías (número de tren 38510) que circulaba en el sentido de circulación opuesto en el tramo entre Langeskov y la estación de Odense.
+Los dos trenes se cruzaron con una velocidad para el tren rápido 63 de 178 km/h y el tren de mercancías (número de tren 38510) a una velocidad de 119,6 km/h. Ambas velocidades se han extraído del registro de averías (havarilog) de los trenes.
+El maquinista se encontraba cerca cuando las puertas se abrieron por la fuerza y tiró inmediatamente después de la manija del freno de emergencia (la lectura del registro de averías ha confirmado que se activó un freno de emergencia) y detuvo así el tren.
+El maquinista del locomotor se percató por primera vez en ese momento de que había algo mal en el tren. El maquinista le dijo al maquinista del locomotor que una o varias puertas del tren se habían abierto por la fuerza.
+Tras haberse cerrado las puertas abiertas por la fuerza a una posición que el maquinista y el maquinista del locomotor valoraron como segura, el tren rápido circuló a una velocidad máx. de 35 km/h (lo que el registro de averías también ha confirmado) hasta la estación de Odense, con el maquinista de pie junto a las puertas dañadas.
+El tren de composición MF 5033 con las puertas dañadas fue desacoplado en la estación de Odense y estacionado para su posterior investigación.
+El tren de mercancías 38510, que cruzó el tren rápido 63, fue detenido posteriormente en Høje Tåstrup y se le realizó una inspección visual para comprobar el sobrepaso de perfil. No se detectó nada anormal en el tren.
+SGR@havarikommissionen.dk
+Teléfono
+Telefax
+Comisión de Investigación de Accidentes de la Aviación Civil y los Ferrocarriles
+uheld@havarikommissionen.dk
++45 38 76 00 40
++45 33 38 14 22
+www.havarikommissionen.dk
+Langebjergvænget 21
+DK-4000 Roskilde
+
+
+## Página 2
+
+1.2
+Investigaciones
+El tren de composición MF 5033 estacionado fue investigado por la Comisión de Investigación de Accidentes el viernes 15 de septiembre de 2006 en la vía 21 de Odense.
+Aquí se constató que una hoja de puerta en el lado izquierdo del sentido de circulación del juego de puertas (véase la figura 1) en MFB 5233 presentaba una abertura de aprox. 15 cm medida desde el borde posterior de la puerta hasta el lado del vagón (véase la foto 1).
+Hoja de puerta abierta por la fuerza
+Véanse las fotos 1-2
+Figura 1. MFB 5233 sentido de circulación hacia el oeste (hacia Århus)
+Hojas de puerta superpuestas y daño en el escalón exterior de la puerta
+Véanse las fotos 3-5-6
+Perno no enganchado en el trinquete de seguridad.
+Véase la foto 4
+Figura 2. MFA 5033 sentido de circulación hacia el oeste (hacia Århus)
+Foto 1. Hoja de puerta "abierta por la fuerza" en MFB 5233
+En el paso interior por el mismo juego de puertas se constató que en la hoja de puerta abierta por la fuerza en el sentido de circulación había varias rebabas en el borde del trinquete de seguridad en el
+
+
+## Página 3
+
+área donde el perno de bloqueo debía enganchar. En la misma zona del trinquete se encontraron residuos/polvo (véase la foto 2).
+Foto 2: Trinquete de seguridad en la hoja de puerta abierta por la fuerza.
+Además, se constató que había otro juego de puertas en MFB 5233 (véase la figura 1) y un juego de puertas en MFA 5033 (véase la figura 2) que también presentaban el mismo defecto, es decir, que el perno de bloqueo no estaba enganchado en el trinquete de seguridad. (véanse las fotos 3-4).
+Foto 3: Hoja de puerta en el lado derecho en el sentido de circulación vista desde el interior en MFB 5233
+Foto 4: Juego de puertas (hoja de puerta trasera en el lado derecho en el sentido de circulación) en MFA 5033
+En MFB 5233, el juego de puertas en el lado derecho del sentido de circulación presentaba una superposición de las hojas de puerta en las juntas de goma de la abertura de la puerta, lo que provocaba que la hoja de puerta trasera no se abriera al activar el "botón de liberación" para la operación de las puertas (véase la foto 5).
+
+
+## Página 4
+
+Asimismo, la hoja de puerta en el sentido de circulación no podía cerrarse por completo y, por tanto, no podía ser asegurada con el perno de bloqueo en el trinquete de seguridad (véase la foto 6).
+Foto 5: Juego de puertas en el lado derecho en el sentido de circulación en MFB 5233, hoja de puerta superpuesta
+Foto 6: Juego de puertas en el lado derecho en el sentido de circulación en MFB 5233. Además, se constató que un trinquete de seguridad se había desplazado de los orificios de tornillo originales, lo que se valoró que, a posteriori, habría influido en el enganche del perno de bloqueo. (véase la foto 7)
+Foto 7: Trinquete de seguridad desplazado a nuevos orificios de tornillo (observar que el perno de bloqueo no está enganchado)
+
+
+## Página 5
+
+Foto 8: muestra un trinquete de seguridad y perno de bloqueo correctamente bloqueados
+## 2
+### Valoración
+Las rebabas y los residuos/polvo encontrados indican que existe una alta probabilidad de que el perno de bloqueo de la hoja de puerta abierta por la fuerza no hubiera estado enganchado y de que no hubiera funcionado correctamente durante un período prolongado. No se han encontrado residuos ni polvo en las demás hojas de puerta del tren de composición.
+En general, el aseguramiento de las puertas no ha funcionado en los trenes de composición MF 5033 y MF 5233; 6 hojas de puerta de 8 no estaban correctamente aseguradas durante el paso por el tren de composición el viernes 15 de septiembre de 2006.
+La Comisión de Investigación de Accidentes valora que, al pasar el tren de mercancías, se han producido condiciones de viento/presión que una construcción de puerta sin defectos normalmente debería poder soportar.
+2.2
+Medidas ya adoptadas
+En la inspección del 15 de septiembre, la Comisión de Investigación de Accidentes encontró circunstancias que motivaron que se contactara con la Autoridad de Transporte (Trafikstyrelsen).
+Tras este contacto, la Autoridad de Transporte emitió a DSB las siguientes órdenes:
+• Que DSB procediera de inmediato a realizar una revisión y un control posterior del sistema de aseguramiento de puertas de todos los trenes de composición IC3.
+DSB ha cumplido esta orden y, en dicha revisión, se encontraron además 2 trenes de composición IC3 que tuvieron que ser retirados del servicio para ajustes del sistema de aseguramiento de puertas.
+DSB Producción Trenes de Composición Diésel ha implantado asimismo las siguientes medidas preventivas:
+• En relación con las revisiones, se realizará una revisión completa de las puertas de entrada y salida y de su sistema de aseguramiento.
+• Se ha implantado de inmediato un esquema de control para su uso en esta revisión.
+• Todo el personal de mantenimiento que trabaje con las puertas de entrada y salida y su sistema de aseguramiento deberá recibir una formación complementaria.
+
+
+## Página 6
+
+• Una investigación sobre la posibilidad de simplificar y estandarizar el sistema de puertas en el IC 3.
+## 3
+### Conclusión
+A la vista de los defectos constatados en la hoja de puerta de MFB 5233, debe concluirse que la hoja de puerta abierta por la fuerza, con alta probabilidad, no estaba asegurada en el trinquete de seguridad inferior y, como consecuencia, la hoja de puerta se abrió por la fuerza al pasar el tren de mercancías en la vía opuesta durante la circulación.
+Los demás defectos del sistema de puertas del tren de composición indican que el mantenimiento, los ajustes y las reparaciones no han sido suficientemente garantizados en calidad para prevenir el incidente descrito.
+### Recomendaciones1
+## 4
+La Comisión de Investigación de Accidentes recomienda que:
+1. La Autoridad de Transporte (Trafikstyrelsen) promueva que los operadores ferroviarios que utilicen vagones y trenes de composición de distintos tipos revisen y evalúen el nivel de seguridad de las funciones de las puertas, el aseguramiento y los sistemas de supervisión.
+2. La Autoridad de Transporte (Trafikstyrelsen) deberá, de acuerdo con el resultado de lo anterior, evaluar la necesidad de requisitos generales de aseguramiento para evitar que los trenes circulen con puertas abiertas.
+1 Dado que el informe parte de la situación en el momento del incidente, en la elaboración de las recomendaciones no se ha tenido generalmente en cuenta si algunas de las circunstancias han sido corregidas o están en proceso de corrección. El orden no expresa una priorización.

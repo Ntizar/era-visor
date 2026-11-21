@@ -1,0 +1,416 @@
+{
+ "md-es/PT/2006/PT-240 - Relatório_Sumario_ferro_PT_240_RF202303.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 63.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la fila 'Estação de Vale de Figueira' en el original (aparece solo en la traducción, no en el original)",
+     "Falta la etiqueta 'Damage to rolling stock' en el original aparece como 'Danos no material circulante:' y en la traducción se duplica 'Daños en el material móvil' sin la etiqueta inglesa correspondiente",
+     "Se omite la etiqueta inglesa 'Damage to infrastructure' en la traducción (solo queda 'Daños en la infraestructura')"
+    ],
+    "invenciones": [
+     "Se añade 'Estación de Vale de Figueira' en la sección de localización, que no figura en el original",
+     "Se añade 'Daños en el material móvil' como línea duplicada sin correspondencia en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'caixa de eixo' traducido como 'caja de eje' es aceptable, pero 'rodado' se traduce como 'bogie' cuando el original distingue 'rodado' (rueda/ejes) de bogie",
+     "'Gripagem' traducido como 'Bloqueo' podría ser 'agarrotamiento' o 'gripado'",
+     "'Avaria de material circulante' como 'Avería en material móvil' es aceptable"
+    ],
+    "comentario": "La traducción es mayormente fiel pero introduce una localización no presente en el original, duplica una etiqueta de daños y omite varias etiquetas bilingües del original."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 62,
+    "omisiones": [
+     "Frase 'National Railway Transport Institute (INTF) – NSA' (denominación inglesa y sigla NSA)",
+     "Referencia a que el expediente fue transferido al NIB (el antiguo GISAF)",
+     "Mención de que el informe no cumplía los requisitos y que el Gabinete no tenía medios para una nueva investigación (parcialmente recogido, pero se omite la referencia al NIB)"
+    ],
+    "invenciones": [
+     "Se añade 'apartado 2 del Decreto-Ley n.º 393/2007, de 31 de diciembre' que no aparece en el original",
+     "Se añade 'ex-GISAF' donde el original dice 'NIB (the former GISAF)'",
+     "Se añade 'creado entretanto en 2008' (el original dice 'created in 2008')"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'occurrence' traducido como 'incidencia' en lugar de 'suceso' u 'ocurrencia'",
+     "'homologado' por 'approved' (debería ser 'aprobado')",
+     "'expediente' por 'file' es aceptable pero se pierde la distinción con 'process'"
+    ],
+    "comentario": "La traducción omite referencias clave (NIB, NSA) e introduce una referencia legal inexistente en el original, además de alterar cifras y términos técnicos."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase original 'technician to disembark.' (fragmento en inglés) y su contexto de parada extraordinaria",
+     "Falta la frase original 'proceed to Entroncamento, after performing all' (fragmento en inglés)",
+     "Falta la mención 'Localização do incidente / Incident location' como par bilingüe completo (solo se conserva una versión)"
+    ],
+    "invenciones": [
+     "'siendo necesario movilizar al lugar el tren de rescate' no aparece en el original; el original dice 'sendo necessário' sin completar la frase en el fragmento"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Imobilização' traducido como 'Inmovilización' en el mapa: término de señalización ferroviaria portugués que debería normalizarse (p. ej. 'inmovilización' es aceptable, pero se pierde la referencia al 'local de imobilização' como punto técnico)",
+     "'Operador de Revisión de Material' se mantiene, correcto",
+     "'PCL' se mantiene sin desarrollar, aceptable"
+    ],
+    "comentario": "La traducción es mayormente fiel pero omite fragmentos en inglés del original e inventa la mención al 'tren de rescate' que no consta en el texto fuente."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la traducción al castellano del bloque en inglés 'A fire near to the track... before the train was stopped.'",
+     "Falta la traducción al castellano del bloque en inglés 'The failed wagon'",
+     "Falta la traducción al castellano del bloque en inglés 'Wagon 83 94 933 0 037-1 was held by Tejo Energia... to be performed annually.'"
+    ],
+    "invenciones": [
+     "Se añade una traducción al castellano de los párrafos en portugués que no aparece en el original (el original solo da la versión inglesa de esos pasajes)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'bogie' por 'rodado' (el original dice 'wheelset', no bogie)",
+     "'era propiedad de' por 'era detido' (el original indica retenido/poseído por la empresa, no propiedad)"
+    ],
+    "comentario": "La traducción omite los pasajes en inglés del original e introduce versiones en castellano de los párrafos portugueses, además de traducir 'wheelset' como 'bogie'."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial: 'a verificação do rolamento das caixas de eixo fosse realizada anualmente'",
+     "Falta el encabezado '### Inspeção à composição do comboio n.º 66951' en portugués (solo aparece la versión inglesa)",
+     "Falta la mención de que la composición era 'constituída pelas locomotivas elétricas 5627 e 5628 e por 22 vagões n.º 66951' en su formulación original"
+    ],
+    "invenciones": [
+     "Se introduce 'Since the date of this overhaul' que no está en el original",
+     "Se traduce 'gripagem' como 'failure' en lugar de gripado/agarrotamiento",
+     "Se añade 'complete brake test' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'gripagem' traducido como 'failure' en vez de gripado/agarrotamiento",
+     "CONVEL traducido como 'ATP system' (término no equivalente)",
+     "'caixas de eixo' omitido en la primera frase"
+    ],
+    "comentario": "La traducción está en inglés, no en castellano, y omite frases clave del original además de introducir términos y contenidos no presentes."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la traducción de la frase 'acompanhamento do tráfego, relativamente situações de emergência' (solo aparece parcialmente como 'seguimiento del tráfico, en relación con los procedimientos a adoptar en caso de situaciones de emergencia', añadiendo contenido)",
+     "Falta la traducción al castellano de la recomendación 'Que se promuevan acciones de formación y simulacros...' (se deja el original portugués y luego el inglés sin traducir)",
+     "Falta la traducción al castellano de la recomendación 'Que proceda a la instalación en la vía férrea de equipos de detección de cajas de eje y de ruedas calientes...' (queda en portugués e inglés)"
+    ],
+    "invenciones": [
+     "'en relación con los procedimientos a adoptar en caso de' no aparece en el original",
+     "'a fin de mejorar procesos y prácticas' añade matiz no presente en el original",
+     "'en la vía férrea' añadido respecto al original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'cajas de eje' por 'axle boxes' es aceptable, pero se mezcla con 'rodamientos' (bearings) sin distinguir",
+     "'Planes de Emergencia' vs 'Emergency Plans' vs 'contingency plans' inconsistente",
+     "'perturbación de la circulación' vs 'traffic disturbance' correcto"
+    ],
+    "comentario": "La traducción está gravemente incompleta: deja párrafos enteros en portugués e inglés sin traducir al castellano y añade contenido no presente en el original."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/PT/2006/PT-240 - Relatório_Sumario_ferro_PT_240_RF202303.md"
+ },
+ "md-es/PT/2006/PT-75 - F_RF_202202_Colhida_trabalhador_Cacela_20060711 (002).md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 64.8,
+  "fidelidad_min": 35,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la traducción de 'Nada a assinalar.' tras 'Valor dos danos materiais: Coste de los daños:' (queda 'Nothing of note.' sin traducir)"
+    ],
+    "invenciones": [
+     "'Colhida fatal de trabalhador' / 'Atropello mortal de un trabajador': el original no dice 'fatal' ni 'mortal' en el asunto ni en la descripción sumaria",
+     "'Bloqueo telefónico' aparece duplicado en la traducción (una vez por 'Regime de exploração' y otra por 'Cantonamento telefónico')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Colhida de trabalhador' traducido como 'Atropello' en lugar de 'Arrollamiento' (término normalizado ferroviario)",
+     "'Tipo de vía' para 'Tipologia' (line type) en lugar de 'Tipo de línea'",
+     "'Personal de conducción' para 'Tripulação' (crew) en lugar de 'Tripulación'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con invención de 'fatal/mortal', duplicación de 'Bloqueo telefónico', una frase sin traducir y terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'The train was made up of DMUs 616 and 636' en su versión inglesa (aunque se traduce el contenido, se omite la mención de que el original está en inglés)",
+     "Falta la traducción de 'The fatally injured worker' (se traduce como 'El trabajador atropellado', omitiendo 'fatalmente herido/mortalmente')",
+     "Falta la traducción de 'track foreman from the IM' como 'encargado de vía del GI' (se traduce como 'trabajador del GI, con la categoría de encargado de vía', añadiendo contenido)"
+    ],
+    "invenciones": [
+     "Se añade 'n.º' antes de 5705, que no está en el original",
+     "Se añade 'UTD' antes de 636, que no está en el original (el original dice 'DMUs 616 and 636')",
+     "Se añade 'procedía de Faro y tenía como destino Vila Real de Santo António', que no está explícito en el original (el original dice 'performing a service from Faro to Vila Real de Santo António')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'DMUs' traducido como 'automotoras UTD' (el original distingue DMUs, no UTD)",
+     "'halt' traducido como 'apeadero' (correcto, pero se omite en la versión inglesa)",
+     "'track foreman' traducido como 'encargado de vía' (correcto, pero se añade 'trabajador del GI' que no está en el original)"
+    ],
+    "comentario": "La traducción omite partes del original, añade contenido no presente y presenta inconsistencias en la traducción de términos técnicos como DMUs y track foreman."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase original 'álcool no sangue.' (fragmento en portugués) en la traducción",
+     "Falta el fragmento original 'sendo penalizados 12 comboios, totalizando' (duplicado en el original)",
+     "Falta el fragmento original 'visibilidade' y 'condicionada pela existência de' en portugués"
+    ],
+    "invenciones": [
+     "Se añade 'PSP' en la traducción, que no aparece en el original (el original dice 'the police')",
+     "Se añade 'sin presentar ningún resultado de presencia de alcohol en sangre' como interpretación de 'negative result'",
+     "Se añade 'Un UTD pilotada' donde el original dice 'The train'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'UTD' (Unidade Tripla Diesel) no normalizado; el original usa 'DMU' (Diesel Multiple Unit)",
+     "'apeadero' por 'halt' es aceptable, pero 'instalaciones' por 'premises' puede ser impreciso",
+     "'señales de aviso sonoro \"S\"' por 'S warning signals for trains to horn' es una interpretación ampliada"
+    ],
+    "comentario": "La traducción cubre el contenido esencial pero omite numerosos fragmentos en portugués del original y añade interpretaciones no presentes (PSP, UTD), además de no normalizar términos como DMU."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 78,
+    "omisiones": [
+     "Frase final del original: 'concluding' (la traducción añade contenido y corta de forma distinta)",
+     "Encabezado 'Knowledge of rule IET 77' no se traduce como tal (solo queda 'Conocimiento de la IET 77', aceptable, pero se omite la referencia 'rule')"
+    ],
+    "invenciones": [
+     "'equipo de desbroce' donde el original dice 'service provider's team' (equipo del proveedor de servicios)",
+     "'INTF' como sigla del organismo que nombra la CI, cuando el original dice 'NSA'",
+     "Se añade 'que no fue posible determinar el motivo por el cual el' al final, que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'GI' por 'IM' (Infraestruturas de Portugal) no normalizado",
+     "'apeadero' por 'halt' aceptable, pero 'cess' se traduce como 'banqueta' de forma discutible",
+     "'máquina cortacésped' por 'pasture cutting machine' (desbrozadora) es término incorrecto"
+    ],
+    "comentario": "La traducción omite y añade contenido al final, cambia siglas (IM→GI, NSA→INTF) y usa términos técnicos imprecisos, aunque las cifras se mantienen."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la traducción al castellano: el fragmento entregado como 'TRADUCCIÓN' contiene el texto original portugués junto con el inglés, sin verter al castellano",
+     "No se traduce el contenido portugués (p. ej. 'obrigatórias para as diversas categorias', 'Até 2007 a formação em IET 77 centrava-se...', 'Passa então a ser determinante e obrigatória a frequência de cursos em Segurança ferroviária...', 'Entre 2013 e 2020...', 'Em 2020, com a publicação de procedimento relativo a Qualificação de Trabalhadores...')"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'GI' se mantiene sin normalizar (original inglés usa 'IM'; en portugués 'GI'), sin equivalencia en castellano",
+     "'COSS' sin desarrollar ni normalizar",
+     "'Look-out Coordinator and Look-outs' sin traducir (castellano: coordinador de vigilancia y vigilantes)"
+    ],
+    "comentario": "El fragmento etiquetado como traducción no está en castellano: reproduce el original portugués e inglés sin traducir, por lo que la fidelidad al castellano es baja pese a que las cifras y fechas coinciden."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 35,
+    "omisiones": [
+     "Se omite la traducción al castellano: el fragmento 'traducido' está mayoritariamente en portugués e inglés, no en castellano",
+     "Falta la traducción del primer párrafo portugués (documentos normativos, IET 77, planeamiento, programación, operacionalización)",
+     "Falta la traducción del segundo párrafo portugués (aplicação informática, documento normativo, programação obrigatória MS1-MS7)"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "IET 77 se mantiene sin traducir",
+     "MS1-MS7 se mantiene sin traducir",
+     "ODT (Daily Work Order / Ordem Diária de Trabalho) sin normalizar en castellano"
+    ],
+    "comentario": "La traducción no está en castellano: reproduce párrafos en portugués y en inglés sin traducir, por lo que la fidelidad es muy baja pese a no alterar cifras."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/PT/2006/PT-75 - F_RF_202202_Colhida_trabalhador_Cacela_20060711 (002).md"
+ },
+ "md-es/PT/2006/PT-77 - F_RF2022_01_PN_Minho_2006mai18_final.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 64.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la traducción de la frase 'Sistemas de aviso e proteção da PN automatizada com meias barreiras não foram ativados à aproximação de comboio' en el campo de descripción sumaria (solo aparece en inglés)",
+     "Falta la traducción de 'Nada a assinalar.' en los campos de daños (material circulante, infraestructura, ambiental, otros) — solo aparece en inglés",
+     "Falta la traducción de 'Custo social dos atrasos e supressões:' (solo aparece en inglés al final)"
+    ],
+    "invenciones": [
+     "Se añade 'Warning and protection systems of AHB level crossing were not activated when train approached.' que no está en el original portugués (es traducción al inglés, no al castellano)",
+     "Se añade 'Social cost of delays and suppressions:' en inglés al final, no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'PK' traducido como 'KM' en el asunto (el original usa PK 100,762; se pierde la referencia PK)",
+     "'Linha do Minho' traducido como 'Línea del Miño' en el asunto pero mantenido como 'Linha do Minho' en la tabla — inconsistencia",
+     "'OCORRÊNCIA' traducido como 'HECHOS' en lugar de 'OCURRENCIA'"
+    ],
+    "comentario": "La traducción deja sin traducir al castellano varios campos (descripción sumaria, daños, coste social) y mezcla inglés, portugués y castellano, además de cambiar PK por KM."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la traducción al castellano de todo el cuerpo del informe: el texto permanece en portugués e inglés, sin verter al castellano",
+     "No se traduce 'Decreto-Lei n.º 394/2007, de 31 de dezembro' ni la referencia al n.º 2",
+     "No se traduce 'Manual de Investigação do GPIAAF'"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'acidente grave' sin traducir como 'accidente grave'",
+     "'ocorrência' sin traducir como 'suceso/ocurrencia'",
+     "'GPIAAF' sin glosa"
+    ],
+    "comentario": "La traducción no traduce el cuerpo: reproduce el original bilingüe portugués-inglés sin verter al castellano, por lo que la fidelidad al encargo es baja."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 55,
+    "omisiones": [
+     "No se menciona que el tren procedía de Viana do Castelo y se destinaba a Valença en la forma original (se reformula y añade 'circulaba como tren regional de pasajeros 3205')",
+     "Se omite la frase sobre la reducción de velocidad del tren tras accionar el freno (el original dice 'que reduziu a' sin completar, pero la traducción inventa 'a unos 40 km/h')",
+     "Se omite la referencia a 'Linha do Minho'"
+    ],
+    "invenciones": [
+     "Se añade la hora 'A las 16:12' que no aparece en el original",
+     "Se añade 'reduciendo la velocidad a unos 40 km/h' que no está en el original",
+     "Se añade 'circulaba como tren regional de pasajeros 3205' que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'UDD 462' traducido como 'DMU 462' (unidad diésel múltiple) en lugar de mantener la sigla original",
+     "'operador de revisão e venda (ORV)' traducido como 'gestor de tren', término no equivalente",
+     "'apeadeiro' traducido como 'apeadero' es aceptable, pero 'passagem de nível' se traduce como 'paso a nivel' y luego 'LC' sin normalizar"
+    ],
+    "comentario": "La traducción contiene omisiones, invenciones y errores numéricos graves, además de duplicaciones y terminología no normalizada."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase 'The LC was and is still equipped with half barriers' en su forma completa (se traduce pero se pierde el matiz 'was and is still')",
+     "Falta la mención de que las inscripciones están 'in Portuguese'",
+     "Falta el texto de la figura: 'Distance necessary to allow the triggering of the LC with the delay required by Law' aparece duplicado en el original y solo una vez en la traducción"
+    ],
+    "invenciones": [
+     "'en el sentido ascendente' no aparece en el original",
+     "'los cuales están destinados a desencadenar inmediatamente que los focos luminosos de la PN enciendan' añade contenido no presente",
+     "'prohibición absoluta del cruce del paso a nivel' amplía 'absolute stop to road users'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'secondary circuit' traducido como 'sistema de recurso' en lugar de 'circuito secundario'",
+     "'half barriers' como 'semibarreras' (aceptable pero no normalizado)",
+     "'road users' como 'usuarios de la vía rodoviaria' (mezcla registros)"
+    ],
+    "comentario": "La traducción omite etiquetas de figura y añade contenido no presente en el original, además de traducir 'secondary circuit' de forma inexacta."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 62,
+    "omisiones": [
+     "Frase original: 'The LC malfunction lineside signalling, for information to train drivers, was not signalling any malfunction' (el indicador de línea no señalizaba la avería) no aparece en la traducción",
+     "En el original el testigo describe el sistema principal de detección ('main detection system'); la traducción omite el matiz de detección",
+     "El original indica que el proveedor verificó 'assembly tolerances of the track equipment and associated cabling'; la traducción añade 'al anuncio' y omite parte del alcance"
+    ],
+    "invenciones": [
+     "'El indicador de alarma localizado en la PN (IAL) se encontraba apagado' no está en el original",
+     "'para el sentido ascendente' no aparece en el original",
+     "'motivo subyacente' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'main detection system' traducido como 'sistema principal de actuación' en lugar de 'sistema principal de detección'",
+     "'processing units' traducido como 'Bloques de tratamiento' (término no normalizado)",
+     "'whistle sign' traducido como 'placa indicadora de aviso sonoro' (aceptable, pero se pierde 'trackside')"
+    ],
+    "comentario": "La traducción omite una frase completa sobre la señalización de línea y añade contenido no presente (IAL apagado, sentido ascendente), además de alterar términos técnicos clave."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la traducción del párrafo en inglés 'According to information from the infrastructure manager, there were several previous records in the SATA system referring to anomalies in this LC.'",
+     "Falta la traducción de 'The report was completed on 17-09-2007 and concluded that, despite no failure in the LC components having been found...' en su versión inglesa (aunque aparece parcialmente en la parte portuguesa)",
+     "Falta la traducción de 'Therefore, the Commission recommended the following:' como frase independiente"
+    ],
+    "invenciones": [
+     "Se añade 'El paso a nivel automático tipo B en el PK 100,762 de la Línea del Miño entró en servicio el 24-02-1994', datos que no aparecen en el original",
+     "Se añade 'sin que estuviera instalado en la fecha del incidente el «filtro CEM» adoptado posteriormente por la SNCF o similar', contenido no presente en el original",
+     "Se añade 'referentes a anomalías en este paso a nivel' donde el original dice 'referring to anomalies in this LC' (LC no especificado como paso a nivel en ese punto)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'LC' (level crossing) traducido como 'paso a nivel' en algunos casos pero no normalizado consistentemente",
+     "'IM' (infrastructure manager) traducido como 'GI' sin normalizar",
+     "'EFACEC service provider' traducido como 'prestador de servicios EFACEC' (aceptable)"
+    ],
+    "comentario": "La traducción mezcla fragmentos, omite partes del original inglés y añade datos no presentes (PK, fecha de entrada en servicio), además de alterar cifras y referencias."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/PT/2006/PT-77 - F_RF2022_01_PN_Minho_2006mai18_final.md"
+ }
+}

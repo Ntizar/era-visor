@@ -1,0 +1,1238 @@
+{
+ "md/BE/2007/BE 02.09.2007 414410707.md": {
+  "fichero": "md/BE/2007/BE 02.09.2007 414410707.md",
+  "estado": "ya"
+ },
+ "md/BE/2007/BE 14.12.2007 Mortsel.md": {
+  "fichero": "md/BE/2007/BE 14.12.2007 Mortsel.md",
+  "estado": "ya"
+ },
+ "md/BE/2007/BE 17.12.2007 AED.md": {
+  "fichero": "md/BE/2007/BE 17.12.2007 AED.md",
+  "estado": "ya"
+ },
+ "md/BE/2007/BE 26.04.2007 onderzoekdsverslag.md": {
+  "fichero": "md/BE/2007/BE 26.04.2007 onderzoekdsverslag.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 61004,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 25232,
+  "tokens_out": 17100,
+  "destino": "md-es/BE/2007/BE 26.04.2007 onderzoekdsverslag.md"
+ },
+ "md/BE/2007/BE 29.11.2007 LA.md": {
+  "fichero": "md/BE/2007/BE 29.11.2007 LA.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 83341,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 29862,
+  "tokens_out": 21324,
+  "destino": "md-es/BE/2007/BE 29.11.2007 LA.md"
+ },
+ "md/BE/2007/BE 29.112007 I32.md": {
+  "fichero": "md/BE/2007/BE 29.112007 I32.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 25862,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 14092,
+  "tokens_out": 10557,
+  "destino": "md-es/BE/2007/BE 29.112007 I32.md"
+ },
+ "md/BE/2007/Final report Ede-17122007.md": {
+  "fichero": "md/BE/2007/Final report Ede-17122007.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 46655,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 17991,
+  "tokens_out": 11536,
+  "destino": "md-es/BE/2007/Final report Ede-17122007.md"
+ },
+ "md/BE/2007/Final report Genk-19062007.md": {
+  "fichero": "md/BE/2007/Final report Genk-19062007.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 137303,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 53606,
+  "tokens_out": 34887,
+  "destino": "md-es/BE/2007/Final report Genk-19062007.md"
+ },
+ "md/BE/2007/Final report Houyet-02092007.md": {
+  "fichero": "md/BE/2007/Final report Houyet-02092007.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 67833,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 27054,
+  "tokens_out": 20658,
+  "destino": "md-es/BE/2007/Final report Houyet-02092007.md"
+ },
+ "md/BE/2007/Final report Izegem-26042007.md": {
+  "fichero": "md/BE/2007/Final report Izegem-26042007.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 61369,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 25232,
+  "tokens_out": 17232,
+  "destino": "md-es/BE/2007/Final report Izegem-26042007.md"
+ },
+ "md/BE/2007/Final report La Hulpe-29112007.md": {
+  "fichero": "md/BE/2007/Final report La Hulpe-29112007.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 81936,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 29862,
+  "tokens_out": 21085,
+  "destino": "md-es/BE/2007/Final report La Hulpe-29112007.md"
+ },
+ "md/BE/2007/Final report Mortsel-14122007.md": {
+  "fichero": "md/BE/2007/Final report Mortsel-14122007.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 85587,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 32929,
+  "tokens_out": 21842,
+  "destino": "md-es/BE/2007/Final report Mortsel-14122007.md"
+ },
+ "md/BE/2007/I32 LaHuple bijlage-29112007.md": {
+  "fichero": "md/BE/2007/I32 LaHuple bijlage-29112007.md",
+  "estado": "revisar",
+  "idioma": "??",
+  "chars": 21263,
+  "ratio": 0.98,
+  "avisos": [
+   "bloque 3: cifras largas: faltan 4/9 (44%)"
+  ],
+  "tokens_in": 11872,
+  "tokens_out": 8416,
+  "destino": "md-es/BE/2007/I32 LaHuple bijlage-29112007.md"
+ },
+ "md/BE/2008/BE 03.03.2008 4.145.024.08-SPFversion.md": {
+  "fichero": "md/BE/2008/BE 03.03.2008 4.145.024.08-SPFversion.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 75433,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 29234,
+  "tokens_out": 20834,
+  "destino": "md-es/BE/2008/BE 03.03.2008 4.145.024.08-SPFversion.md"
+ },
+ "md/BE/2008/BE 03.07.2008 FINAL.md": {
+  "fichero": "md/BE/2008/BE 03.07.2008 FINAL.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 63119,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 23324,
+  "tokens_out": 17022,
+  "destino": "md-es/BE/2008/BE 03.07.2008 FINAL.md"
+ },
+ "md/BE/2008/BE 14.11.2008 rapport_Diegem_fr.md": {
+  "fichero": "md/BE/2008/BE 14.11.2008 rapport_Diegem_fr.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 7824,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 3606,
+  "tokens_out": 2369,
+  "destino": "md-es/BE/2008/BE 14.11.2008 rapport_Diegem_fr.md"
+ },
+ "md/BE/2008/BE 14.11.2008 verslag_Diegem_nl.md": {
+  "fichero": "md/BE/2008/BE 14.11.2008 verslag_Diegem_nl.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 7302,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 3450,
+  "tokens_out": 2159,
+  "destino": "md-es/BE/2008/BE 14.11.2008 verslag_Diegem_nl.md"
+ },
+ "md/BE/2008/BE 25.10.2008 5.191.248.08.md": {
+  "fichero": "md/BE/2008/BE 25.10.2008 5.191.248.08.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 72228,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 29002,
+  "tokens_out": 22058,
+  "destino": "md-es/BE/2008/BE 25.10.2008 5.191.248.08.md"
+ },
+ "md/BE/2008/Final report Chapelle Dieu-03032008.md": {
+  "fichero": "md/BE/2008/Final report Chapelle Dieu-03032008.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 75417,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 29234,
+  "tokens_out": 20837,
+  "destino": "md-es/BE/2008/Final report Chapelle Dieu-03032008.md"
+ },
+ "md/BE/2008/Final report Hermalle-03072008.md": {
+  "fichero": "md/BE/2008/Final report Hermalle-03072008.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 63455,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 23324,
+  "tokens_out": 17093,
+  "destino": "md-es/BE/2008/Final report Hermalle-03072008.md"
+ },
+ "md/BE/2008/Final report Walcourt-25102008.md": {
+  "fichero": "md/BE/2008/Final report Walcourt-25102008.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 72248,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 29002,
+  "tokens_out": 22101,
+  "destino": "md-es/BE/2008/Final report Walcourt-25102008.md"
+ },
+ "md/BE/2009/BE 15.11.2009 rapport_Jemelle_FR.md": {
+  "fichero": "md/BE/2009/BE 15.11.2009 rapport_Jemelle_FR.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 25075,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 9634,
+  "tokens_out": 6594,
+  "destino": "md-es/BE/2009/BE 15.11.2009 rapport_Jemelle_FR.md"
+ },
+ "md/BE/2009/BE 15.11.2009 rapport_Jemelle_NL.md": {
+  "fichero": "md/BE/2009/BE 15.11.2009 rapport_Jemelle_NL.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 24439,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 10273,
+  "tokens_out": 6639,
+  "destino": "md-es/BE/2009/BE 15.11.2009 rapport_Jemelle_NL.md"
+ },
+ "md/BE/2009/BE 19.11.2009 rapport_Mons.md": {
+  "fichero": "md/BE/2009/BE 19.11.2009 rapport_Mons.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 43892,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 16205,
+  "tokens_out": 10867,
+  "destino": "md-es/BE/2009/BE 19.11.2009 rapport_Mons.md"
+ },
+ "md/BE/2009/BE 23.05.2009 RAPPORT_enquête_Dinant_version_31_01_2013.md": {
+  "fichero": "md/BE/2009/BE 23.05.2009 RAPPORT_enquête_Dinant_version_31_01_2013.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 95439,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 39545,
+  "tokens_out": 29092,
+  "destino": "md-es/BE/2009/BE 23.05.2009 RAPPORT_enquête_Dinant_version_31_01_2013.md"
+ },
+ "md/BE/2009/RAPPORT_enquête_Dinant_version_31_01_2013-230509.md": {
+  "fichero": "md/BE/2009/RAPPORT_enquête_Dinant_version_31_01_2013-230509.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 95346,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 41963,
+  "tokens_out": 30822,
+  "destino": "md-es/BE/2009/RAPPORT_enquête_Dinant_version_31_01_2013-230509.md"
+ },
+ "md/BE/2010/BE 15 02 2010 Summary_and_recommendations-150212-EN.md": {
+  "fichero": "md/BE/2010/BE 15 02 2010 Summary_and_recommendations-150212-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 20337,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 6506,
+  "tokens_out": 4662,
+  "destino": "md-es/BE/2010/BE 15 02 2010 Summary_and_recommendations-150212-EN.md"
+ },
+ "md/BE/2010/BE 15 02 2010 rapport_NL.md": {
+  "fichero": "md/BE/2010/BE 15 02 2010 rapport_NL.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 399604,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 159302,
+  "tokens_out": 101187,
+  "destino": "md-es/BE/2010/BE 15 02 2010 rapport_NL.md"
+ },
+ "md/BE/2010/BE 15 09 2010 Arlon_NL.md": {
+  "fichero": "md/BE/2010/BE 15 09 2010 Arlon_NL.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 16115,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 6226,
+  "tokens_out": 3923,
+  "destino": "md-es/BE/2010/BE 15 09 2010 Arlon_NL.md"
+ },
+ "md/BE/2010/BE 15.02.2010 rapport_FR.md": {
+  "fichero": "md/BE/2010/BE 15.02.2010 rapport_FR.md",
+  "estado": "revisar",
+  "idioma": "FR",
+  "chars": 393634,
+  "ratio": 1.02,
+  "avisos": [
+   "bloque 70: ratio 1.65"
+  ],
+  "tokens_in": 148443,
+  "tokens_out": 101398,
+  "destino": "md-es/BE/2010/BE 15.02.2010 rapport_FR.md"
+ },
+ "md/BE/2010/BE 15.09.2010 Arlon_FR.md": {
+  "fichero": "md/BE/2010/BE 15.09.2010 Arlon_FR.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 15407,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 5732,
+  "tokens_out": 3761,
+  "destino": "md-es/BE/2010/BE 15.09.2010 Arlon_FR.md"
+ },
+ "md/BE/2010/Summary_and_recommendations-150212-EN.md": {
+  "fichero": "md/BE/2010/Summary_and_recommendations-150212-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 20593,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 6506,
+  "tokens_out": 4687,
+  "destino": "md-es/BE/2010/Summary_and_recommendations-150212-EN.md"
+ },
+ "md/BE/2010/rapport_Buizingen-150210-FR.md": {
+  "fichero": "md/BE/2010/rapport_Buizingen-150210-FR.md",
+  "estado": "revisar",
+  "idioma": "FR",
+  "chars": 393535,
+  "ratio": 1.02,
+  "avisos": [
+   "bloque 70: ratio 1.63"
+  ],
+  "tokens_in": 148443,
+  "tokens_out": 101421,
+  "destino": "md-es/BE/2010/rapport_Buizingen-150210-FR.md"
+ },
+ "md/BE/2010/rapport_Buizingen-150210-NL.md": {
+  "fichero": "md/BE/2010/rapport_Buizingen-150210-NL.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 399831,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 159302,
+  "tokens_out": 101282,
+  "destino": "md-es/BE/2010/rapport_Buizingen-150210-NL.md"
+ },
+ "md/BE/2011/BE 28.01.2011 rapport_Pepinster.md": {
+  "fichero": "md/BE/2011/BE 28.01.2011 rapport_Pepinster.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 199004,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 75143,
+  "tokens_out": 56403,
+  "destino": "md-es/BE/2011/BE 28.01.2011 rapport_Pepinster.md"
+ },
+ "md/BE/2011/BE 28.01.2011 resume_Pepinster.md": {
+  "fichero": "md/BE/2011/BE 28.01.2011 resume_Pepinster.md",
+  "estado": "revisar",
+  "idioma": "FR",
+  "chars": 7599,
+  "ratio": 0.8,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 5/11 (45%); ratio 0.72"
+  ],
+  "tokens_in": 7291,
+  "tokens_out": 3327,
+  "destino": "md-es/BE/2011/BE 28.01.2011 resume_Pepinster.md"
+ },
+ "md/BE/2011/BE 30 06 2011 rapport_Charleroi.md": {
+  "fichero": "md/BE/2011/BE 30 06 2011 rapport_Charleroi.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 90201,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 33868,
+  "tokens_out": 23350,
+  "destino": "md-es/BE/2011/BE 30 06 2011 rapport_Charleroi.md"
+ },
+ "md/BE/2011/rapport_Charleroi-300611.md": {
+  "fichero": "md/BE/2011/rapport_Charleroi-300611.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 92369,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 33868,
+  "tokens_out": 24124,
+  "destino": "md-es/BE/2011/rapport_Charleroi-300611.md"
+ },
+ "md/BE/2011/rapport_Feluy-020911.md": {
+  "fichero": "md/BE/2011/rapport_Feluy-020911.md",
+  "estado": "revisar",
+  "idioma": "FR",
+  "chars": 53693,
+  "ratio": 1.0,
+  "avisos": [
+   "bloque 10: cifras largas: faltan 1/3 (33%)"
+  ],
+  "tokens_in": 28489,
+  "tokens_out": 18537,
+  "destino": "md-es/BE/2011/rapport_Feluy-020911.md"
+ },
+ "md/BE/2011/rapport_Pepinster.md": {
+  "fichero": "md/BE/2011/rapport_Pepinster.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 195900,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 75143,
+  "tokens_out": 55480,
+  "destino": "md-es/BE/2011/rapport_Pepinster.md"
+ },
+ "md/BE/2011/resume_Pepinster.md": {
+  "fichero": "md/BE/2011/resume_Pepinster.md",
+  "estado": "revisar",
+  "idioma": "FR",
+  "chars": 8492,
+  "ratio": 0.89,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 3/11 (27%)"
+  ],
+  "tokens_in": 7283,
+  "tokens_out": 3573,
+  "destino": "md-es/BE/2011/resume_Pepinster.md"
+ },
+ "md/BE/2012/BE 04 05 2012 rapport_Tintigny.md": {
+  "fichero": "md/BE/2012/BE 04 05 2012 rapport_Tintigny.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 174435,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 63334,
+  "tokens_out": 45326,
+  "destino": "md-es/BE/2012/BE 04 05 2012 rapport_Tintigny.md"
+ },
+ "md/BE/2012/BE 04.05.2012 Summary_Tintigny.md": {
+  "fichero": "md/BE/2012/BE 04.05.2012 Summary_Tintigny.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 9321,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 3091,
+  "tokens_out": 2192,
+  "destino": "md-es/BE/2012/BE 04.05.2012 Summary_Tintigny.md"
+ },
+ "md/BE/2012/BE 04.05.2012 rapport_Tintigny.md": {
+  "fichero": "md/BE/2012/BE 04.05.2012 rapport_Tintigny.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 174442,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 63334,
+  "tokens_out": 45352,
+  "destino": "md-es/BE/2012/BE 04.05.2012 rapport_Tintigny.md"
+ },
+ "md/BE/2012/BE 04.05.2012 resume_Tintigny.md": {
+  "fichero": "md/BE/2012/BE 04.05.2012 resume_Tintigny.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 9679,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 3525,
+  "tokens_out": 2273,
+  "destino": "md-es/BE/2012/BE 04.05.2012 resume_Tintigny.md"
+ },
+ "md/BE/2012/BE 04.05.2012 samenvatting_Tintigny.md": {
+  "fichero": "md/BE/2012/BE 04.05.2012 samenvatting_Tintigny.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 9714,
+  "ratio": 0.97,
+  "avisos": [],
+  "tokens_in": 3828,
+  "tokens_out": 2280,
+  "destino": "md-es/BE/2012/BE 04.05.2012 samenvatting_Tintigny.md"
+ },
+ "md/BE/2012/BE 11 05 2012 rapport_Godinne.md": {
+  "fichero": "md/BE/2012/BE 11 05 2012 rapport_Godinne.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 261367,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 94352,
+  "tokens_out": 63926,
+  "destino": "md-es/BE/2012/BE 11 05 2012 rapport_Godinne.md"
+ },
+ "md/BE/2012/BE 14 06 2012 rapport_Duffel.md": {
+  "fichero": "md/BE/2012/BE 14 06 2012 rapport_Duffel.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 203744,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 78942,
+  "tokens_out": 51013,
+  "destino": "md-es/BE/2012/BE 14 06 2012 rapport_Duffel.md"
+ },
+ "md/BE/2012/BE 25.01.2012 resume_Remersdael_2012.md": {
+  "fichero": "md/BE/2012/BE 25.01.2012 resume_Remersdael_2012.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 9028,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 3415,
+  "tokens_out": 2135,
+  "destino": "md-es/BE/2012/BE 25.01.2012 resume_Remersdael_2012.md"
+ },
+ "md/BE/2012/BE 25.01.2012 verslag_Remersdaal_2012.md": {
+  "fichero": "md/BE/2012/BE 25.01.2012 verslag_Remersdaal_2012.md",
+  "estado": "revisar",
+  "idioma": "NL",
+  "chars": 170019,
+  "ratio": 1.04,
+  "avisos": [
+   "bloque 18: ratio 1.86",
+   "bloque 23: ratio 1.67"
+  ],
+  "tokens_in": 70913,
+  "tokens_out": 49295,
+  "destino": "md-es/BE/2012/BE 25.01.2012 verslag_Remersdaal_2012.md"
+ },
+ "md/BE/2012/rapport_Duffel_14062012.md": {
+  "fichero": "md/BE/2012/rapport_Duffel_14062012.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 204001,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 76789,
+  "tokens_out": 49924,
+  "destino": "md-es/BE/2012/rapport_Duffel_14062012.md"
+ },
+ "md/BE/2012/rapport_Godinne-110512.md": {
+  "fichero": "md/BE/2012/rapport_Godinne-110512.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 261644,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 94352,
+  "tokens_out": 63836,
+  "destino": "md-es/BE/2012/rapport_Godinne-110512.md"
+ },
+ "md/BE/2012/rapport_Melsele2012.md": {
+  "fichero": "md/BE/2012/rapport_Melsele2012.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 71203,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 25713,
+  "tokens_out": 18608,
+  "destino": "md-es/BE/2012/rapport_Melsele2012.md"
+ },
+ "md/BE/2012/résumé_Duffel_14062012FR.md": {
+  "fichero": "md/BE/2012/résumé_Duffel_14062012FR.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 6378,
+  "ratio": 0.97,
+  "avisos": [],
+  "tokens_in": 2261,
+  "tokens_out": 1509,
+  "destino": "md-es/BE/2012/résumé_Duffel_14062012FR.md"
+ },
+ "md/BE/2012/résumé_rapport_Godinne-110512.md": {
+  "fichero": "md/BE/2012/résumé_rapport_Godinne-110512.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 14284,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 5092,
+  "tokens_out": 3278,
+  "destino": "md-es/BE/2012/résumé_rapport_Godinne-110512.md"
+ },
+ "md/BE/2012/samenvatting_verslag_Godinne-110512.md": {
+  "fichero": "md/BE/2012/samenvatting_verslag_Godinne-110512.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 14925,
+  "ratio": 0.98,
+  "avisos": [],
+  "tokens_in": 5713,
+  "tokens_out": 3309,
+  "destino": "md-es/BE/2012/samenvatting_verslag_Godinne-110512.md"
+ },
+ "md/BE/2012/summary_Melsele2012.md": {
+  "fichero": "md/BE/2012/summary_Melsele2012.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 7816,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 2814,
+  "tokens_out": 1962,
+  "destino": "md-es/BE/2012/summary_Melsele2012.md"
+ },
+ "md/BE/2012/verslag_Melsele2012.md": {
+  "fichero": "md/BE/2012/verslag_Melsele2012.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 69469,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 25961,
+  "tokens_out": 18084,
+  "destino": "md-es/BE/2012/verslag_Melsele2012.md"
+ },
+ "md/BE/2013/BE 01.10.2013 rapport_Remersdaal_2013.md": {
+  "fichero": "md/BE/2013/BE 01.10.2013 rapport_Remersdaal_2013.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 99720,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 38016,
+  "tokens_out": 26560,
+  "destino": "md-es/BE/2013/BE 01.10.2013 rapport_Remersdaal_2013.md"
+ },
+ "md/BE/2013/BE 01.10.2013 resume_Remersdaal_2013.md": {
+  "fichero": "md/BE/2013/BE 01.10.2013 resume_Remersdaal_2013.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 7951,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 3086,
+  "tokens_out": 1896,
+  "destino": "md-es/BE/2013/BE 01.10.2013 resume_Remersdaal_2013.md"
+ },
+ "md/BE/2013/BE 01.10.2013 samenvatting_Remersdaal_2013.md": {
+  "fichero": "md/BE/2013/BE 01.10.2013 samenvatting_Remersdaal_2013.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 8337,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 3370,
+  "tokens_out": 1965,
+  "destino": "md-es/BE/2013/BE 01.10.2013 samenvatting_Remersdaal_2013.md"
+ },
+ "md/BE/2013/BE 01.10.2013 summary_Remersdaal_2013.md": {
+  "fichero": "md/BE/2013/BE 01.10.2013 summary_Remersdaal_2013.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 7858,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 2679,
+  "tokens_out": 1786,
+  "destino": "md-es/BE/2013/BE 01.10.2013 summary_Remersdaal_2013.md"
+ },
+ "md/BE/2013/BE 01.10.2013 verslag_Remersdaal_2013.md": {
+  "fichero": "md/BE/2013/BE 01.10.2013 verslag_Remersdaal_2013.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 104383,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 41131,
+  "tokens_out": 26979,
+  "destino": "md-es/BE/2013/BE 01.10.2013 verslag_Remersdaal_2013.md"
+ },
+ "md/BE/2013/DÃ©raillement_d'un_train_de_marchandises.md": {
+  "fichero": "md/BE/2013/DÃ©raillement_d'un_train_de_marchandises.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 181584,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 70775,
+  "tokens_out": 50560,
+  "destino": "md-es/BE/2013/DÃ©raillement_d'un_train_de_marchandises.md"
+ },
+ "md/BE/2013/DÃ©raillement_d'un_train_de_marchandises19.02.2013.md": {
+  "fichero": "md/BE/2013/DÃ©raillement_d'un_train_de_marchandises19.02.2013.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 181187,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 70775,
+  "tokens_out": 50318,
+  "destino": "md-es/BE/2013/DÃ©raillement_d'un_train_de_marchandises19.02.2013.md"
+ },
+ "md/BE/2013/Déraillement_d'un_train_de_marchandises 19.02.2013.md": {
+  "fichero": "md/BE/2013/Déraillement_d'un_train_de_marchandises 19.02.2013.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 181626,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 70775,
+  "tokens_out": 50480,
+  "destino": "md-es/BE/2013/Déraillement_d'un_train_de_marchandises 19.02.2013.md"
+ },
+ "md/BE/2013/Ontsporing_van_een_goederentrein.md": {
+  "fichero": "md/BE/2013/Ontsporing_van_een_goederentrein.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 178078,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 70222,
+  "tokens_out": 49732,
+  "destino": "md-es/BE/2013/Ontsporing_van_een_goederentrein.md"
+ },
+ "md/BE/2013/rapport_Remersdaal_2013-1.md": {
+  "fichero": "md/BE/2013/rapport_Remersdaal_2013-1.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 99323,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 38016,
+  "tokens_out": 26386,
+  "destino": "md-es/BE/2013/rapport_Remersdaal_2013-1.md"
+ },
+ "md/BE/2013/recommendations_Wetteren 04.05.2013.md": {
+  "fichero": "md/BE/2013/recommendations_Wetteren 04.05.2013.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 11547,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 3481,
+  "tokens_out": 2561,
+  "destino": "md-es/BE/2013/recommendations_Wetteren 04.05.2013.md"
+ },
+ "md/BE/2013/samenvatting_Wetteren 04.05.2013.md": {
+  "fichero": "md/BE/2013/samenvatting_Wetteren 04.05.2013.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 19400,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 7460,
+  "tokens_out": 4281,
+  "destino": "md-es/BE/2013/samenvatting_Wetteren 04.05.2013.md"
+ },
+ "md/BE/2013/summary_Wetteren 04.05.2013.md": {
+  "fichero": "md/BE/2013/summary_Wetteren 04.05.2013.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 18648,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 5966,
+  "tokens_out": 4152,
+  "destino": "md-es/BE/2013/summary_Wetteren 04.05.2013.md"
+ },
+ "md/BE/2013/verslag_Wetteren 04.05.2013.md": {
+  "fichero": "md/BE/2013/verslag_Wetteren 04.05.2013.md",
+  "estado": "revisar",
+  "idioma": "NL",
+  "chars": 560433,
+  "ratio": 1.03,
+  "avisos": [
+   "bloque 96: ratio 1.76"
+  ],
+  "tokens_in": 220729,
+  "tokens_out": 147007,
+  "destino": "md-es/BE/2013/verslag_Wetteren 04.05.2013.md"
+ },
+ "md/BE/2014/BE 03.11.2014 FR Resume_Linkebeek.md": {
+  "fichero": "md/BE/2014/BE 03.11.2014 FR Resume_Linkebeek.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 13080,
+  "ratio": 0.98,
+  "avisos": [],
+  "tokens_in": 5091,
+  "tokens_out": 3043,
+  "destino": "md-es/BE/2014/BE 03.11.2014 FR Resume_Linkebeek.md"
+ },
+ "md/BE/2014/BE 03.11.2014 NL verslag_linkebeek.md": {
+  "fichero": "md/BE/2014/BE 03.11.2014 NL verslag_linkebeek.md",
+  "estado": "revisar",
+  "idioma": "NL",
+  "chars": 313918,
+  "ratio": 1.05,
+  "avisos": [
+   "bloque 28: cifras largas: faltan 14/16 (88%)"
+  ],
+  "tokens_in": 122318,
+  "tokens_out": 83174,
+  "destino": "md-es/BE/2014/BE 03.11.2014 NL verslag_linkebeek.md"
+ },
+ "md/BE/2014/BE 10.10.2014 rapport_Schaerbeek.md": {
+  "fichero": "md/BE/2014/BE 10.10.2014 rapport_Schaerbeek.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 192656,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 70445,
+  "tokens_out": 47534,
+  "destino": "md-es/BE/2014/BE 10.10.2014 rapport_Schaerbeek.md"
+ },
+ "md/BE/2014/BE 10.10.2014 samenvatting_Schaerbeek.md": {
+  "fichero": "md/BE/2014/BE 10.10.2014 samenvatting_Schaerbeek.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 14288,
+  "ratio": 0.98,
+  "avisos": [],
+  "tokens_in": 5781,
+  "tokens_out": 3383,
+  "destino": "md-es/BE/2014/BE 10.10.2014 samenvatting_Schaerbeek.md"
+ },
+ "md/BE/2014/BE 28.07.2014 rapport_Ottignies.md": {
+  "fichero": "md/BE/2014/BE 28.07.2014 rapport_Ottignies.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 71454,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 25859,
+  "tokens_out": 17778,
+  "destino": "md-es/BE/2014/BE 28.07.2014 rapport_Ottignies.md"
+ },
+ "md/BE/2015/BE 10.09.2015 rapport_Buizingen_2015.md": {
+  "fichero": "md/BE/2015/BE 10.09.2015 rapport_Buizingen_2015.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 98856,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 34808,
+  "tokens_out": 24399,
+  "destino": "md-es/BE/2015/BE 10.09.2015 rapport_Buizingen_2015.md"
+ },
+ "md/BE/2015/BE 10.09.2015 summary_Buizingen_2015.md": {
+  "fichero": "md/BE/2015/BE 10.09.2015 summary_Buizingen_2015.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 15257,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 4767,
+  "tokens_out": 3505,
+  "destino": "md-es/BE/2015/BE 10.09.2015 summary_Buizingen_2015.md"
+ },
+ "md/BE/2015/BE 10.09.2015 verslag_Buizingen_2015.md": {
+  "fichero": "md/BE/2015/BE 10.09.2015 verslag_Buizingen_2015.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 95495,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 36932,
+  "tokens_out": 23727,
+  "destino": "md-es/BE/2015/BE 10.09.2015 verslag_Buizingen_2015.md"
+ },
+ "md/BE/2015/BE 25.11.2015 rapport_Pittem.md": {
+  "fichero": "md/BE/2015/BE 25.11.2015 rapport_Pittem.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 67439,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 24785,
+  "tokens_out": 16099,
+  "destino": "md-es/BE/2015/BE 25.11.2015 rapport_Pittem.md"
+ },
+ "md/BE/2015/BE 25.11.2015 summary_Pittem.md": {
+  "fichero": "md/BE/2015/BE 25.11.2015 summary_Pittem.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 3144,
+  "ratio": 1.11,
+  "avisos": [],
+  "tokens_in": 1225,
+  "tokens_out": 801,
+  "destino": "md-es/BE/2015/BE 25.11.2015 summary_Pittem.md"
+ },
+ "md/BE/2015/BE 25.11.2015 verslag_Pittem.md": {
+  "fichero": "md/BE/2015/BE 25.11.2015 verslag_Pittem.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 68148,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 24529,
+  "tokens_out": 16113,
+  "destino": "md-es/BE/2015/BE 25.11.2015 verslag_Pittem.md"
+ },
+ "md/BE/2016/BE 13.01.2016 rapport_Binche.md": {
+  "fichero": "md/BE/2016/BE 13.01.2016 rapport_Binche.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 19726,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 8028,
+  "tokens_out": 5534,
+  "destino": "md-es/BE/2016/BE 13.01.2016 rapport_Binche.md"
+ },
+ "md/BE/2016/BE 13.01.2016summary_Binche.md": {
+  "fichero": "md/BE/2016/BE 13.01.2016summary_Binche.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 4624,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 1591,
+  "tokens_out": 1176,
+  "destino": "md-es/BE/2016/BE 13.01.2016summary_Binche.md"
+ },
+ "md/BE/2016/BE 18.02.2016 rapport_Landen.md": {
+  "fichero": "md/BE/2016/BE 18.02.2016 rapport_Landen.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 18512,
+  "ratio": 1.01,
+  "avisos": [],
+  "tokens_in": 7091,
+  "tokens_out": 5089,
+  "destino": "md-es/BE/2016/BE 18.02.2016 rapport_Landen.md"
+ },
+ "md/BE/2016/BE 18.02.2016 verslag_Landen.md": {
+  "fichero": "md/BE/2016/BE 18.02.2016 verslag_Landen.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 19789,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 7621,
+  "tokens_out": 5378,
+  "destino": "md-es/BE/2016/BE 18.02.2016 verslag_Landen.md"
+ },
+ "md/BE/2016/Zusammenfassung melsele.md": {
+  "fichero": "md/BE/2016/Zusammenfassung melsele.md",
+  "estado": "revisar",
+  "idioma": "DE",
+  "chars": 13722,
+  "ratio": 0.81,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 2/7 (29%)",
+   "bloque 2: cifras largas: faltan 3/4 (75%); ratio 0.66"
+  ],
+  "tokens_in": 10256,
+  "tokens_out": 5399,
+  "destino": "md-es/BE/2016/Zusammenfassung melsele.md"
+ },
+ "md/BE/2016/résumé melsele.md": {
+  "fichero": "md/BE/2016/résumé melsele.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 15484,
+  "ratio": 0.95,
+  "avisos": [],
+  "tokens_in": 6448,
+  "tokens_out": 3843,
+  "destino": "md-es/BE/2016/résumé melsele.md"
+ },
+ "md/BE/2016/summary melsele.md": {
+  "fichero": "md/BE/2016/summary melsele.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 16340,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 7167,
+  "tokens_out": 4814,
+  "destino": "md-es/BE/2016/summary melsele.md"
+ },
+ "md/BE/2016/verslag melsele.md": {
+  "fichero": "md/BE/2016/verslag melsele.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 194061,
+  "ratio": 0.98,
+  "avisos": [],
+  "tokens_in": 87300,
+  "tokens_out": 53993,
+  "destino": "md-es/BE/2016/verslag melsele.md"
+ },
+ "md/BE/2017/BE 21.09.2017 samenvatting Oostende.md": {
+  "fichero": "md/BE/2017/BE 21.09.2017 samenvatting Oostende.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 7397,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 3184,
+  "tokens_out": 1756,
+  "destino": "md-es/BE/2017/BE 21.09.2017 samenvatting Oostende.md"
+ },
+ "md/BE/2017/BE 21.09.2017 verslag Oostende.md": {
+  "fichero": "md/BE/2017/BE 21.09.2017 verslag Oostende.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 84199,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 32611,
+  "tokens_out": 20989,
+  "destino": "md-es/BE/2017/BE 21.09.2017 verslag Oostende.md"
+ },
+ "md/BE/2019/BE-6205 - rapport intermédiaire liège v2.0.md": {
+  "fichero": "md/BE/2019/BE-6205 - rapport intermédiaire liège v2.0.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 26896,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 11020,
+  "tokens_out": 8020,
+  "destino": "md-es/BE/2019/BE-6205 - rapport intermédiaire liège v2.0.md"
+ },
+ "md/BE/2019/BE-6205 - rapport-Liege-Guillemins.md": {
+  "fichero": "md/BE/2019/BE-6205 - rapport-Liege-Guillemins.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 169533,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 61988,
+  "tokens_out": 46702,
+  "destino": "md-es/BE/2019/BE-6205 - rapport-Liege-Guillemins.md"
+ },
+ "md/BE/2019/BE-6205 - resume-Liege-Guillemins.md": {
+  "fichero": "md/BE/2019/BE-6205 - resume-Liege-Guillemins.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 21535,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 8220,
+  "tokens_out": 5386,
+  "destino": "md-es/BE/2019/BE-6205 - resume-Liege-Guillemins.md"
+ },
+ "md/BE/2019/BE-6206 - Report aarschot (NL).md": {
+  "fichero": "md/BE/2019/BE-6206 - Report aarschot (NL).md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 48724,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 19723,
+  "tokens_out": 13805,
+  "destino": "md-es/BE/2019/BE-6206 - Report aarschot (NL).md"
+ },
+ "md/BE/2019/BE-6206 - english summary aarschot (1).md": {
+  "fichero": "md/BE/2019/BE-6206 - english summary aarschot (1).md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 4888,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 1704,
+  "tokens_out": 1363,
+  "destino": "md-es/BE/2019/BE-6206 - english summary aarschot (1).md"
+ },
+ "md/BE/2020/BE-6195 - summary-walenhoek.md": {
+  "fichero": "md/BE/2020/BE-6195 - summary-walenhoek.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 5343,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 1819,
+  "tokens_out": 1499,
+  "destino": "md-es/BE/2020/BE-6195 - summary-walenhoek.md"
+ },
+ "md/BE/2020/BE-6195 - verslag walenhoek.md": {
+  "fichero": "md/BE/2020/BE-6195 - verslag walenhoek.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 145296,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 56190,
+  "tokens_out": 38955,
+  "destino": "md-es/BE/2020/BE-6195 - verslag walenhoek.md"
+ },
+ "md/BE/2020/BE-6236 - Report Moelingen (NL).md": {
+  "fichero": "md/BE/2020/BE-6236 - Report Moelingen (NL).md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 148795,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 56767,
+  "tokens_out": 39880,
+  "destino": "md-es/BE/2020/BE-6236 - Report Moelingen (NL).md"
+ },
+ "md/BE/2020/BE-6236 - notice-de-securite-Moelingen-french.md": {
+  "fichero": "md/BE/2020/BE-6236 - notice-de-securite-Moelingen-french.md",
+  "estado": "revisar",
+  "idioma": "FR",
+  "chars": 151672,
+  "ratio": 1.0,
+  "avisos": [
+   "bloque 25: ratio 1.61",
+   "bloque 27: ratio 1.81"
+  ],
+  "tokens_in": 62481,
+  "tokens_out": 44219,
+  "destino": "md-es/BE/2020/BE-6236 - notice-de-securite-Moelingen-french.md"
+ },
+ "md/BE/2020/BE-6273 - Report Tubize (FR).md": {
+  "fichero": "md/BE/2020/BE-6273 - Report Tubize (FR).md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 42074,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 16092,
+  "tokens_out": 11753,
+  "destino": "md-es/BE/2020/BE-6273 - Report Tubize (FR).md"
+ },
+ "md/BE/2021/BE-10031 - rapport germoir.md": {
+  "fichero": "md/BE/2021/BE-10031 - rapport germoir.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 59517,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 22415,
+  "tokens_out": 16251,
+  "destino": "md-es/BE/2021/BE-10031 - rapport germoir.md"
+ },
+ "md/BE/2024/be-10629 - samenvatting zeebrugge.md": {
+  "fichero": "md/BE/2024/be-10629 - samenvatting zeebrugge.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 6047,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 2220,
+  "tokens_out": 1434,
+  "destino": "md-es/BE/2024/be-10629 - samenvatting zeebrugge.md"
+ },
+ "md/BE/2024/be-10629 - verslag zeebrugge.md": {
+  "fichero": "md/BE/2024/be-10629 - verslag zeebrugge.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 91363,
+  "ratio": 1.04,
+  "avisos": [],
+  "tokens_in": 35534,
+  "tokens_out": 22900,
+  "destino": "md-es/BE/2024/be-10629 - verslag zeebrugge.md"
+ },
+ "md/BE/2024/be-10637 - rapport-antwerpen-noord-c2.md": {
+  "fichero": "md/BE/2024/be-10637 - rapport-antwerpen-noord-c2.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 43269,
+  "ratio": 1.03,
+  "avisos": [],
+  "tokens_in": 15959,
+  "tokens_out": 11448,
+  "destino": "md-es/BE/2024/be-10637 - rapport-antwerpen-noord-c2.md"
+ },
+ "md/BE/2024/be-10637 - resume-antwerpen-noord-c2.md": {
+  "fichero": "md/BE/2024/be-10637 - resume-antwerpen-noord-c2.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 6303,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 2178,
+  "tokens_out": 1543,
+  "destino": "md-es/BE/2024/be-10637 - resume-antwerpen-noord-c2.md"
+ },
+ "md/BE/2024/samenvatting schaerbeek.md": {
+  "fichero": "md/BE/2024/samenvatting schaerbeek.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 7146,
+  "ratio": 0.99,
+  "avisos": [],
+  "tokens_in": 3124,
+  "tokens_out": 1718,
+  "destino": "md-es/BE/2024/samenvatting schaerbeek.md"
+ },
+ "md/BE/2024/verslag schaerbeek.md": {
+  "fichero": "md/BE/2024/verslag schaerbeek.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 73682,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 31335,
+  "tokens_out": 20359,
+  "destino": "md-es/BE/2024/verslag schaerbeek.md"
+ },
+ "md/BE/2025/be-10718 - samenvatting verrebroek.md": {
+  "fichero": "md/BE/2025/be-10718 - samenvatting verrebroek.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 4927,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 1886,
+  "tokens_out": 1142,
+  "destino": "md-es/BE/2025/be-10718 - samenvatting verrebroek.md"
+ },
+ "md/BE/2025/be-10718 - verslag verrebroek.md": {
+  "fichero": "md/BE/2025/be-10718 - verslag verrebroek.md",
+  "estado": "ok",
+  "idioma": "NL",
+  "chars": 112742,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 42513,
+  "tokens_out": 28571,
+  "destino": "md-es/BE/2025/be-10718 - verslag verrebroek.md"
+ }
+}

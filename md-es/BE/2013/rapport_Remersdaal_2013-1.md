@@ -1,0 +1,1292 @@
+---
+pais: BE
+anio: 2013
+idioma_origen: FR
+md_origen: md/BE/2013/rapport_Remersdaal_2013-1.md
+md5_origen: 9b3d4fc846878e7571045fc2a5ac28af
+modelo: qwen3.6
+bloques: 18
+chars: 99323
+ratio_longitud: 1.01
+tokens_in: 38016
+tokens_out: 26386
+verificacion: ok
+notas_cifras: ["bloque 3: cifras cortas: 1/29", "bloque 4: cifras cortas: 1/38", "bloque 6: cifras cortas: 1/55"]
+fecha_proceso: 2026-11-20
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Organismo de Investigación de Accidentes e Incidentes Ferroviarios
+Informe de investigación de seguridad
+Informe de investigación de seguridad
+COLISIÓN ENTRE 2 TRENES DE MERCANCÍAS
+COLISIÓN ENTRE 2 TRENES DE MERCANCÍAS
+REMERSDAAL - 1 DE OCTUBRE DE 2013
+REMERSDAAL - 1 DE OCTUBRE DE 2013
+Diciembre de 2014
+
+
+## Página 2
+
+Cualquier uso de este informe con un propósito distinto al de la prevención de accidentes
+- por ejemplo, el de determinar responsabilidades, y mucho más el de establecer culpabilidades individuales o colec­
+tivas - se realizaría en una distorsión total con los objetivos de este informe, los métodos utilizados para su elaboración, la selección de los hechos recogidos, la naturaleza de las preguntas planteadas y los conceptos que moviliza, a los cuales la noción de responsabilidad es ajena. Las conclusiones que pudieran derivarse de ello serían, por tanto, abusivas en el sentido literal del término.
+
+
+## Página 3
+
+## ÍNDICE
+1.	
+RESUMEN	
+6
+2.	
+LOS HECHOS INMEDIATOS	
+8
+2.1.	 El acontecimiento	
+8
+2.1.1.	 Descripción del acontecimiento	
+8
+2.1.2.	 Descripción del lugar	
+9
+2.1.3.	 La decisión de abrir una investigación	
+10
+2.1.4.	 Composición del equipo	
+10
+2.1.5.	 Desarrollo de la investigación	
+10
+2.2.	 Las circunstancias del acontecimiento	
+12
+2.2.1.	 Empresas y personal implicado	
+12
+2.2.2.	 Composición de los trenes	
+13
+2.2.3.	 Descripción de la infraestructura y del sistema de señalización	
+15
+2.2.4.	 Trabajos realizados en el lugar o en las proximidades del lugar del accidente	
+16
+2.2.5.	 Activación del plan de emergencia ferroviario y su cadena de acontecimientos	
+18
+2.2.6.	 Activación del plan de emergencia de los servicios públicos de socorro, de la policía y 
+
+de los servicios médicos y su cadena de acontecimientos	
+19
+2.3.	 Víctimas mortales, heridos y daños materiales	
+20
+2.3.1.	 Pasajeros y terceros, personal, incluidos los contratistas	
+20
+2.3.2.	 Mercancías, equipajes y otros bienes,	
+20
+2.3.3.	 Material rodante, infraestructura y entorno	
+20
+2.3.4.	 Otros	
+20
+2.4.	 Circunstancias externas	
+21
+2.4.1.	 Condiciones meteorológicas	
+21
+2.4.2.	 Referencias geográficas	
+21
+3.	
+INFORME DE LAS INVESTIGACIONES Y LAS INVESTIGACIONES	
+22
+3.1.	 Resumen de los testimonios	
+22
+3.2.	 Sistema de gestión de la seguridad	
+23
+3.2.1.	 SGS Infrabel 	
+23
+3.2.2.	 SGS de la empresa CROSSRAIL	
+25
+3.2.3.	 SGS SNCB Logistics	
+27
+3.3.	 Normas y reglamentación	
+29
+3.3.1.	 Normas y reglamentación pública comunitaria y nacional aplicables	
+29
+3.3.2.	 Otras normas, tales como las normas de explotación, las instrucciones locales, los requisitos 
+
+aplicables al personal, las prescripciones de mantenimiento y las normas aplicables	
+31
+3.4.	 Funcionamiento del material rodante y de las instalaciones técnicas	
+33
+3.4.1.	 Sistema de señalización y de control-comando, incluidos los registros 
+
+de los registradores automáticos de datos	
+33
+3.4.2.	 Infraestructura	
+33
+3.4.3.	 Material rodante, incluidos los registros de los registradores automáticos 
+
+de datos	
+34
+3.5.	 Documentación del sistema operativo	
+37
+3.5.1.	 Medidas adoptadas por el personal para el control del tráfico y la señalización	
+37
+3.5.2.	 Intercambio de mensajes verbales en relación con el acontecimiento, incluida la documentación 
+
+procedente de los registros	
+37
+3.5.3.	 Medidas adoptadas para proteger y salvaguardar el lugar del acontecimiento	
+37
+3.6.	 Interfaz hombre-máquina-operación	
+38
+3.6.1.	 Formación/experiencia	
+38
+3.6.2.	 Condiciones ambientales	
+3.6.3.	 Diseño	
+3.6.4.	 Procedimientos	
+3.6.5.	 Disponibilidad técnica	
+3.6.6.	 Comunicaciones	
+3.7.	 Acontecimientos anteriores de naturaleza comparable	
+
+
+## Página 4
+
+4.	
+ANÁLISIS Y CONCLUSIONES	
+42
+4.1.	 Informe final de la cadena de acontecimientos	
+42
+4.2.	 Discusión	
+43
+4.2.1.	 Barrera de control	
+44
+4.2.2.	 Barrera de recuperación	
+46
+4.2.3.	 Barreras de mitigación	
+48
+4.3.	 Conclusiones	
+49
+5.	
+MEDIDAS ADOPTADAS	
+50
+5.1.	 Crossrail	
+50
+6.	
+RECOMENDACIONES	
+52
+7.	
+ ANEXOS	
+54
+
+
+## Página 5
+
+## DEFINICIONES
+AR	
+: 	
+Decreto Real 
+AM 	
+: 	
+Decreto Ministerial
+Draft	
+:	
+Primera versión del informe de investigación de la OE enviada a las partes interesadas 
+para que puedan aportar sus comentarios y las posibles precisiones 
+necesarias.
+EBP	
+:	
+Puesto de control electrónico 
+EF	
+:	
+Empresa Ferroviaria
+ERA	
+: 	
+Agencia Ferroviaria Europea
+GI	
+:	
+Gestor de Infraestructura
+OE	
+:	
+Organismo de Investigación 
+RGE	
+:	
+Reglamento General de Explotación
+RGUIF	 :	
+Reglamento General de los Usuarios de la Infraestructura Ferroviaria
+RSEIF	
+:	
+Reglamento de Seguridad para la explotación de la infraestructura Ferroviaria
+SGS	
+:	
+Sistema de Gestión de la Seguridad
+SSICF	 :	
+Servicio de Seguridad e Interoperabilidad de los Ferrocarriles
+
+## Página 6
+
+## 1. RESUMEN
+El viernes 1 de octubre de 2013, un primer tren de mercancías (tren E47540), procedente de Montzen, circula por la vía B de la línea 24 en dirección a Genk.
+Un segundo tren de mercancías (tren Z65292), procedente de Aachen West en dirección a Amberes, circula por la misma vía B de la misma línea.
+Alrededor de las 4 h, el primer tren se encuentra detenido ante una señal servida poco antes de la estación de Remersdaal. El segundo tren llega ante la señal cerrada (en rojo) que protege el tramo en el que se encuentra el primer tren. El maquinista detiene su tren al pie de esta señal cerrada. En virtud del carácter permisivo de esta señal cerrada, el maquinista rellena su documento de a bordo y cruza la señal a vista, es decir, a velocidad reducida, de conformidad con el procedimiento.
+Alrededor de las 4 h 07, el maquinista del primer tren pone su tren en movimiento tras la apertura de la señal (verde) ante la que se encuentra detenido; en ese momento percibe un golpe: el segundo tren acaba de impactar contra la parte trasera de su tren.
+Se activa una alarma GSM-R y se adoptan medidas de protección. Se interrumpe la circulación de los trenes por la línea 24.
+El accidente ha causado importantes daños a la infraestructura y al material rodante, pero no se ha de lamentar ninguna víctima.
+Un investigador del Organismo de Investigación se desplazó al lugar del accidente para recabar información sobre las circunstancias de la colisión, tras lo cual se abrió una investigación.
+El análisis del accidente por parte del Organismo de Investigación tiene como objetivo determinar el escenario más probable, así como las causas directas, indirectas y subyacentes del accidente.
+Un accidente puede explicarse como una pérdida de control sobre la dinámica de una situación: el curso de los eventos se bifurca debido a la ocurrencia de un evento clave o iniciador. Los principios de seguridad destinados a impedir la ocurrencia del evento clave se denominan principios de control. Tras el evento iniciador, el proceso cambia a un estado de seguridad inestable, volviéndose intrínsecamente inseguro. Se ha abierto una puerta hacia el accidente, y el curso de los eventos conducirá inexorablemente al accidente si no se realiza a tiempo una acción de recuperación voluntaria y eficaz.
+Si esta recuperación falla, se produce el accidente. Las consecuencias pueden atenuarse amortiguando el impacto mediante los principios de mitigación.
+El análisis de la dinámica del accidente permitió situar el evento clave en el cruce de la señal cerrada permisiva por parte del segundo tren.
+El maquinista no dispone de información sobre el motivo del cierre de la señal B335: las razones pueden ser múltiples y la representación mental que el maquinista se hace de la situación podría verse afectada. La normativa no prevé contacto entre el maquinista del tren y el puesto de señalización durante el cruce de una señal cerrada permisiva no servida: el puesto de señalización no tiene visibilidad sobre las señales no servidas.
+Una vez cruzada la señal B335, diversas barreras de recuperación podrían aún impedir la ocurrencia del accidente: el éxito de la marcha a vista del segundo tren y las barreras tecnológicas.
+De noche, a vista, una de las maniobras profesionales de los maquinistas consiste en buscar la luz de cola luminosa de otro tren.
+El primer tren está bien equipado con una luz de cola, pero, al ser asegurada por la policía, no se probó inmediatamente: la investigación no pudo determinar si funcionaba en el momento del accidente.
+
+## Página 7
+
+Además, tras la recepción de comentarios contradictorios durante el envío del borrador de su informe de investigación, el OE decidió organizar una reconstrucción. El OE constató así problemas de compatibilidad entre las luces y los soportes de luz presentes en algunos tipos de vagones. Estas incompatibilidades darían lugar, entre otras cosas, a la falta de encendido de la luz. El último vagón del primer tren se ve afectado por esta problemática.
+
+Durante la marcha a la vista del segundo tren, la señal junto a la cual se detiene el primer tren se conmuta al paso. Es posible que el cambio a verde de esta señal, que no está destinada al segundo tren, haya actuado como un elemento desencadenante intempestivo y automático del abandono de una rutina más excepcional (la marcha a la vista) en favor de una rutina considerada por el cerebro humano como más normal (una vía libre manifestada por la señal al paso).
+
+Se trata de un error de captura que provocó, en el conductor y de forma automática, una representación mental errónea, reforzada por la falta de visibilidad de la señal trasera.
+
+Las barreras tecnológicas podrían constituir otro principio de recuperación.
+
+El análisis del Organismo de Investigación mostró la insuficiencia de eficacia, en las circunstancias del accidente, del sistema de ayuda a la conducción TBL1+ así como del sistema de señalización de cabina ETCS (niveles 1 y 2): estos dos sistemas permiten franquear una señal permisiva cerrada a baja velocidad y, dado que la detección de los trenes se realiza mediante circuitos de vía, no aportan apoyo tecnológico al conductor que debe gestionar la marcha a la vista.
+
+El ETCS de nivel 3 (sistema aún en estudio actualmente) prevería que el espaciado entre los trenes ya no se realizaría sobre la base de una detección de los trenes mediante circuitos de vía (fijos), sino mediante la información proporcionada por los propios trenes. El ETCS de nivel 3 podría constituir una barrera de recuperación.
+
+Otros dispositivos tecnológicos que permiten advertir al conductor de la presencia de otro tren circulando por la misma vía que el suyo (Railway Collision Avoidance System (RCAS) desarrollado por el Centro Aeroespacial Alemán) también están aún en estudio: el conductor del segundo tren no pudo, por tanto, beneficiarse de este tipo de ayuda tecnológica.
+
+La representación mental errónea del conductor y la ausencia de barreras tecnológicas han contribuido, según nuestro escenario, a que el conductor del segundo tren activara el freno de emergencia de forma demasiado tardía, provocando la colisión.
+
+Las barreras de mitigación permitieron atenuar las consecuencias del accidente: la alarma GSM-R activada y la interrupción de la circulación permitieron evitar el sobreaccidente.
+
+Las conclusiones de la investigación coinciden con las del accidente de Tintigny ocurrido en mayo de 2012: el franqueo en marcha a la vista de una señal permisiva cerrada también había provocado una colisión por alcance de un tren presente en el tramo inferior por parte de un segundo tren. Una recomendación del OE concierne la reflexión que deben llevar a cabo los actores del sector ferroviario sobre los riesgos de colisión tras el alcance de un tren por otro, con el fin de identificar los diversos elementos que intervienen a nivel organizativo, técnico u operativo y con el fin de identificar las medidas de control y recuperación que deben emprenderse.
+
+Otras recomendaciones conciernen las medidas que deben adoptarse para paliar los riesgos identificados de una falla de la batería de la luz y de la inadecuación entre las luces traseras y los soportes en los vagones.
+
+El OE recomienda también que se adopten las medidas necesarias para sensibilizar al personal sobre la transmisión de la información y la aplicación de los procedimientos descritos en el SGS.
+
+
+## Página 8
+
+## 2.	LOS HECHOS INMEDIATOS
+## 2.1.	 EL EVENTO
+## 2.1.1.	 DESCRIPCIÓN DEL EVENTO
+
+El martes 1 de octubre de 2013, un tren de mercancías de la empresa ferroviaria Crossrail chocó contra un tren de mercancías de la empresa ferroviaria SNCB Logistics en el viaducto de la Galoppe, situado en el territorio del municipio de Remersdaal, en el punto kilométrico 32.790 de la línea 24.
+
+El tren de mercancías E47540 de la sociedad SNCB Logistics, procedente de la estación de Montzen, circulaba por la vía normal en la vía B de la línea 24 en dirección a Genk-Goederen.
+
+El tren de mercancías Z65292 de la sociedad Crossrail, procedente de Aachen y con destino a Antwerpen, circulaba por la vía normal en la vía B de la línea 24.
+
+Alrededor de las 4:07, el tren Z65292 chocó contra la parte trasera del tren E47540, y el conductor del tren activó una alarma GSM-R.
+
+En el momento de la colisión, el tren E47540 estaba reanudando la marcha tras el cambio a verde de la señal K.12 junto a la cual había debido detenerse. El segundo tren, Z65292, circulaba a velocidad reducida tras haber franqueado en marcha a la vista la señal permisiva cerrada B335. Los conductores no resultaron heridos.
+
+El primer tren, E47540, está compuesto por 20 vagones de perfiles de acero. Algunos vagones sufrieron un choque durante la colisión pero no descarrilaron.
+
+El segundo tren, Z65292, está compuesto por 19 vagones que transportan vehículos. Varios vagones descarrilaron y uno de ellos cayó por el viaducto de la Galoppe.
+
+
+## Página 9
+
+## 2.1.2.	 DESCRIPCIÓN DEL LUGAR
+
+El accidente se produjo en la línea 24, en el viaducto de la Galoppe, en el territorio del municipio de Remersdaal.
+
+Viaducto de la Galoppe
+Lugar de la colisión
+
+## Página 10
+
+## 2.1.3.	 LA DECISIÓN DE ABRIR UNA INVESTIGACIÓN
+El accidente fue notificado por el TC al investigador de guardia hacia las 5h15. Este se desplazó al lugar de los hechos.
+Este accidente no cumple con la definición de accidente grave conforme a la definición del artículo 5 de la ley del 19 de diciembre de 2006: no hay fallecidos ni heridos y los daños materiales son de poca importancia.
+Sin embargo, cierta similitud de las circunstancias de este accidente con las del accidente de Tintigny de mayo de 2012 impulsa a la OE a abrir una investigación, de conformidad con el artículo 451 de la ley del 19 de diciembre de 2006.
+Conforme a la misión del organismo de investigación definida en la ley del 19 de diciembre de 2006 en su artículo 522, la investigación no tiene como objetivo determinar las responsabilidades, sino las causas directas, indirectas o subyacentes que pudieron haber desempeñado un papel en el accidente.
+Cualquier uso de este informe con una perspectiva distinta a la de la prevención de accidentes —por ejemplo, la de definir responsabilidades, y mucho más las de determinar culpabilidades individuales o colectivas— se realizaría en una distorsión total con los objetivos de este informe, los métodos utilizados para elaborarlo, la selección de los hechos recabados, la naturaleza de las preguntas planteadas y los conceptos que moviliza, a los que la noción de responsabilidad es ajena. Las conclusiones que pudieran derivarse de ello serían, por tanto, abusivas en el sentido literal del término.
+## 2.1.4.	 COMPOSICIÓN DEL EQUIPO
+| Rol | Organismo de pertenencia |
+| --- | --- |
+| Investigador principal | SPF Movilidad y Transportes/Organismo de Investigación |
+| Investigadores | SPF Movilidad y Transportes/Organismo de Investigación |
+| Expertise técnica banda Teloc | SPF Movilidad y Transportes/Organismo de Investigación |
+| Asistencia documental logística, técnica | Servicio de investigación de Infrabel |
+| Asistencia documental logística, técnica | Servicio de investigación de SNCB Logistics |
+| Asistencia documental logística, técnica | Servicio de investigación de Crossrail Belgium |
+## 2.1.5.	 DESARROLLO DE LA INVESTIGACIÓN
+## 2.1.5.1.	
+## GENERAL
+El investigador se desplazó al lugar del accidente, pero no pudo acceder directamente debido al perímetro de seguridad establecido. Una vez levantado el perímetro de seguridad, se pudieron realizar las primeras constataciones, tomas de medidas y recogida de testimonios.
+¹ Ley del 19 de diciembre de 2006. - Ley relativa a la seguridad de la explotación ferroviaria. Art. 45. Además de los accidentes graves, el organismo de investigación puede realizar investigaciones sobre los accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas a nivel de los subsistemas estructurales o de los componentes de interoperabilidad del sistema ferroviario de alta velocidad o convencional. El organismo de investigación puede analizar cada accidente e incidente de explotación o que afecte a esta última no contemplados en el primer párrafo, según las modalidades fijadas por el Rey.
+² Ley del 19 de diciembre de 2006. - Ley relativa a la seguridad de la explotación ferroviaria. Art. 52. La investigación se realiza independientemente de cualquier información e instrucción judicial y no puede en ningún caso tener como objetivo la determinación de la falta o de la responsabilidad.
+
+
+## Página 11
+
+## 2.1.5.2.	 ESTUDIO TÉCNICO
+El estudio técnico tiene como objetivo establecer el escenario más probable en función de los elementos a disposición de la OE.
+La OE trabajó a partir de:
+• las constataciones realizadas en el lugar del accidente por el investigador de la OE,
+• los informes de los maquinistas,
+• las solicitudes de información,
+• la normativa y la documentación técnica aplicables,
+• las solicitudes de información al gestor de la infraestructura y a las empresas ferroviarias.
+## 2.1.5.3.	 ESTUDIO DE LOS FACTORES HUMANOS Y LAS ACTIVIDADES OPERATIVAS 
+Por lo general, el origen del accidente resulta de la asociación más o menos compleja de las especificaciones, las prescripciones y las expectativas del comportamiento por una parte, y del comportamiento real de un individuo por otra.
+Se presta atención a las desviaciones entre los comportamientos constatados y los comportamientos esperados de los actores de primera línea como condición de seguridad.
+En la mayoría de los casos, las desviaciones son constitutivas de las prácticas habituales. Traducen, entre otras cosas, ajustes de las prescripciones a la variación de las condiciones reales. Se trata de ajustes «eficaces», e incluso necesarios para el cumplimiento de la misión operativa. También pueden resultar de una deriva lenta de las prácticas medias, por razones de utilidad percibida (p. ej., abandono de una verificación por experiencia,...) o por razones de comodidad (p. ej., ahorro de tiempo).
+La identificación de medidas eficaces de corrección de las fragilidades detectadas por el accidente en el modelo de seguridad presupone una buena comprensión de estas desviaciones. Esta explicación debe realizarse a dos niveles: el nivel de causalidad directa y el nivel de causalidad indirecta.
+La causalidad indirecta consiste en buscar lo que, en las modalidades de organización, de gestión, de formación, la cultura profesional,... puede explicar las causas directas.
+La actividad de una persona es la movilización de su cuerpo y de su inteligencia para alcanzar objetivos sucesivos en condiciones determinadas.
+La actividad comporta una dimensión visible (el comportamiento) y dimensiones no visibles (las percepciones, la memoria, los conocimientos, el razonamiento, las tomas de posición).
+Mediante su actividad, un operador busca alcanzar los objetivos fijados, pero teniendo en cuenta las variabilidades que surgen:
+• variación del contexto, del estado del proceso y del material, de los medios disponibles, de los recursos colectivos,
+• variación de su propio estado (día/noche, fatigas, dolores,...).
+La OE ha analizado estas actividades humanas de forma limitada, en relación con las barreras de seguridad del esquema del accidente.
+## 2.1.5.4.	 ESTUDIO DEL SISTEMA DE GESTIÓN DE LA SEGURIDAD
+Se ha llevado a cabo un análisis limitado de los SGS de las partes implicadas, con el fin de aportar una perspectiva organizativa y operativa al análisis del accidente.
+
+## Página 12
+
+## 2.2.	 LAS CIRCUNSTANCIAS DEL INCIDENTE
+## 2.2.1.	 EMPRESAS Y PERSONAL INVOLUCRADOS
+## 2.2.1.1.	
+## EL GESTOR DE INFRAESTRUCTURA: INFRABEL
+Con arreglo al Real Decreto de 14 de junio de 2004, Infrabel es el gestor de infraestructura.
+El gestor garantiza:
+• 
+la adquisición, la construcción, la renovación, el mantenimiento y la gestión de la infraestructura;
+• 
+la gestión de los sistemas de regulación y de seguridad de dicha infraestructura;
+• 
+la prestación a las empresas ferroviarias de servicios relativos a la infraestructura ferroviaria;
+• 
+la repartición de las capacidades de la infraestructura ferroviaria disponibles (horarios y franjas);
+• 
+la tarificación, la facturación y el cobro de las tasas de uso de la infraestructura ferroviaria y de los servicios.
+El gestor de la infraestructura debe velar por la aplicación correcta de las normas técnicas y de las reglas relativas a la seguridad de la infraestructura ferroviaria y a su uso.
+El gestor se divide en tres direcciones principales: Dirección de Infraestructura, Dirección de Red, Dirección de Acceso a la Red.
+Las direcciones de Infrabel particularmente afectadas por el accidente son:
+• 
+La Dirección de Infraestructura, que gestiona la infraestructura ferroviaria en el terreno, así como los centros de señalización;
+• 
+La Dirección de Red, que gestiona la explotación de los centros de señalización y la regulación del tráfico.
+## 2.2.1.2.	 LA EMPRESA FERROVIARIA: SNCB LOGISTICS
+SNCB Logistics garantiza:
+• el transporte ferroviario de mercancías;
+• los servicios logísticos relacionados con el transporte de mercancías;
+• la adquisición, el mantenimiento, la gestión y la financiación del material rodante.
+Dispone de un certificado de seguridad emitido por la Autoridad Nacional de Seguridad belga, el SSICF:
+• Parte A: parte general relativa a los sistemas de seguridad desde el 10/12/2010;
+• Parte B: parte específica relacionada con las condiciones específicas de la red ferroviaria desde el 
+21/12/2010 y válida hasta el 20/12/20133.
+## 2.2.1.3.	 LA EMPRESA FERROVIARIA: CROSSRAIL BELGIUM
+Crossrail Belgium garantiza:
+• el transporte ferroviario de mercancías;
+• los servicios logísticos relacionados con el transporte de mercancías;
+• la adquisición, el mantenimiento, la gestión y la financiación del material rodante.
+Dispone de un certificado de seguridad emitido por la Autoridad Nacional de Seguridad belga, el SSICF:
+• Parte A: parte general relativa a los sistemas de seguridad desde el 20/10/2011;
+• Parte B: parte específica relacionada con las condiciones específicas de la red ferroviaria desde el 
+10/01/2012 y válida hasta el 09/01/2015.
+El maquinista del tren Z65292:
+• había finalizado recientemente su formación como maquinista de trenes.
+La parte B del certificado de seguridad de SNCB Logistics ha sido renovada desde entonces.
+
+
+## Página 13
+
+## 2.2.2.	 COMPOSICIÓN DE LOS TRENES
+## 2.2.2.1.	 TREN E47540
+El convoy está compuesto por una locomotora eléctrica de tipo 28 y 20 vagones. El tren tiene una longitud de 328 m y un peso de 1561 toneladas; el régimen de frenado previsto es P100.
+| N.º | N.º de vagón | Masa total (toneladas) | Longitud (metros) |
+| 1 | 318053753667 | 742 , | 157 , |
+| 2 | 318053766859 | 743 , | 157 , |
+| 3 | 318053777781 | 751 , | 157 , |
+| 4 | 318053761793 | 753 , | 157 , |
+| 5 | 318053752701 | 739 , | 157 , |
+| 6 | 318053766545 | 741 , | 157 , |
+| 7 | 318053779662 | 742 , | 157 , |
+| 8 | 318053777120 | 752 , | 157 , |
+| 9 | 318053753253 | 745 , | 157 , |
+| 10 | 318053681751 | 734 , | 14 , |
+| 11 | 318053585176 | 717 , | 142 , |
+| 12 | 318053760761 | 739 , | 157 , |
+| 13 | 318053756108 | 736 , | 157 , |
+| 14 | 318053753196 | 742 , | 157 , |
+| 15 | 318053752982 | 742 , | 157 , |
+| 16 | 318053607665 | 724 , | 14 , |
+| 17 | 318053754962 | 741 , | 157 , |
+| 18 | 318053753816 | 739 , | 157 , |
+| 19 | 318053682908 | 736 , | 14 , |
+| 20 | 318054009572 | 731 , | 14 , |
+### Equipamiento
+La locomotora estaba equipada con los siguientes sistemas de ayuda a la conducción:
+• Sistema de control de vigilancia mediante pedal de vigilancia automática (pedal de hombre muerto);
+• Aparejo de registro (velocidad, impulsos de raíles de alimentación, tiempo);
+• Equipo Memor;
+• GSM-R.
+
+
+## Página 14
+
+## 2.2.2.2.	 TREN Z65292
+### Composición
+El convoy está compuesto por una locomotora diésel y 19 vagones. El tren tiene una longitud de 599 m y un peso de 1299 toneladas; el régimen de frenado previsto es P100.
+| N.º | N.º de vagón | Masa total (toneladas) | Longitud (metros) |
+| 1 | 278043638099 | 5316 , | 31 , |
+| 2 | 278043638156 | 4732 , | 31 , |
+| 3 | 278043638123 | 5298 , | 31 , |
+| 4 | 278043637877 | 5355 , | 31 , |
+| 5 | 278043637687 | 5380 , | 31 , |
+| 6 | 278042637836 | 5348 , | 31 , |
+| 7 | 278043638545 | 5362 , | 31 , |
+| 8 | 278043638057 | 5327 , | 31 , |
+| 9 | 278043637737 | 5331 , | 31 , |
+| 10 | 278043637620 | 4736 , | 31 , |
+| 11 | 278043637992 | 5344 , | 31 , |
+| 12 | 278043638081 | 5304 , | 31 , |
+| 13 | 278043638222 | 5320 , | 31 , |
+| 14 | 278043638552 | 5338 , | 31 , |
+| 15 | 278043637901 | 4738 , | 31 , |
+| 16 | 278043638016 | 5382 , | 31 , |
+| 17 | 278043638206 | 5373 , | 31 , |
+| 18 | 278043638404 | 5400 , | 31 , |
+| 19 | 278042637778 | 4814 , | 31 , |
+### Equipamiento
+La locomotora de cabeza estaba equipada con los siguientes sistemas de ayuda a la conducción:
+• Sistema de control de vigilancia mediante pedal de vigilancia automática (pedal de hombre muerto);
+• Aparejo de registro (velocidad, impulsos de raíles de alimentación, tiempo);
+• Equipo Memor;
+• GSM-R.
+
+## Página 15
+
+## 2.2.3.	 DESCRIPCIÓN DE LA INFRAESTRUCTURA Y DEL SISTEMA DE SEÑALIZACIÓN
+Sentido de circulación durante el accidente
+Vía B
+La señalización de la línea 24 está constituida por señales luminosas y paneles. Estos se instalan a la izquierda de la vía cuando se dirigen al régimen de circulación en vía normal y a la derecha para las circulaciones en contra-vía.
+El accidente se produjo en el tramo comprendido entre la señal de parada no servida B.335 y la señal de parada servida K.12 (señal de entrada de la estación de Remersdaal). La estación de Remersdaal es gestionada por el bloque 12 de Remersdaal de tecnología «todo relés», telemandado por el bloque 5 de Visé, también de tecnología «todo relés».
+
+## 2.2.3.1.	 SISTEMA DE BLOQUEO EN VÍA ABIERTA
+La vía se divide en porciones, denominadas secciones de bloqueo. En una sección solo se admite un solo tren. Una sección es la parte de vía comprendida entre dos señales de parada sucesivas.
+La automatización de la señalización ha permitido concebir el siguiente funcionamiento: las señales están abiertas salvo si la sección está ocupada por un tren o si se produce una avería de CV o si hay un paso a nivel (PN) presente y está en GA, etc.
+Así, si dos trenes se siguen en un tramo de vía abierta, el segundo verá cómo las señales se van abriendo a medida que el primero va liberando las secciones aguas abajo, y esto gracias al sistema de detección de trenes en la sección (circuitos de vía – ver más adelante), es decir, sin la intervención de un operador de un puesto de señalización.
+
+## 2.2.3.2.	 CIRCUITOS DE VÍA
+El control de «vía libre» se realiza mediante dispositivos de detección instalados en la vía.
+Un circuito de vía emite la información de «vía libre» si la sección de vía correspondiente está libre de cualquier vehículo pesado o de cualquier impedimento.
+
+## 2.2.3.3.	 SEÑAL B335
+La señal B335 es una gran señal de parada permisible permanente provista de una corona de paso.
+La señal está instalada a la izquierda de la vía B en el PK 33,518.
+Puede presentar:
+• el rojo
+• el verde
+• el doble amarillo
+• el amarillo-verde horizontal
+
+
+## Página 16
+
+## 2.2.3.4.	 SEÑAL K.12
+La señal K.12 es una gran señal de parada combinada. La señal está instalada a la izquierda de la vía B en el PK 32,462.
+Esta señal está servida por el bloque 12 de Remersdaal telemandado por el bloque 5 de Visé.
+Combina las funciones de la gran señal de parada y la función de aviso de la siguiente señal, la señal B312.
+Está equipada con:
+• un panel superior que puede presentar una flecha (en caso de cambio de régimen: paso a contra-vía)
+• un panel inferior que puede presentar el número 6 (limitación de velocidad a 60 km/h en caso de paso por los desvíos para pasar a contra-vía)
+• una corona luminosa de paso
+• un armario con luz roja con un teléfono de comunicación con el puesto de señalización
+Puede presentar:
+• el rojo
+• el verde
+• el doble amarillo
+
+## 2.2.3.5.	 PUESTO DE SEÑALIZACIÓN
+Los puestos son instalaciones desde las cuales se controlan los equipos de señalización y donde puede seguirse la evolución de los movimientos en la zona controlada por el puesto de señalización en pantallas de control.
+El lugar donde se produjo el accidente se encuentra entre una señal no servida y una señal servida: esta sección, por tanto, no está controlada por un puesto de señalización.
+
+## 2.2.3.6.	 MEDIOS DE COMUNICACIÓN
+Un conductor puede establecer una comunicación directa desde su puesto de conducción con el Control de Tráfico a través de GSM-R.
+El GSM for Railways (GSM-R) es un estándar internacional para la red de radio digital paneuropea de comunicaciones.
+El GSM-R soporta servicios de voz y de datos (proporcionará a este efecto el soporte de radio para el sistema de señalización europeo ERTMS (European Rail Traffic Management System)).
+La red de radio digital GSM-R funciona en bandas de frecuencias asignadas por la Comunidad Europea idénticas en Europa.
+Permite realizar llamadas por grupo, gestionar la prioridad de las llamadas y grabar todas las conversaciones (a través del sistema ETRALI).
+Los dos trenes, así como el tramo de línea, estaban equipados con GSM-R y las conversaciones han sido grabadas.
+Además, los conductores disponen también de un GSM de servicio.
+
+## 2.2.4.	 TRABAJOS REALIZADOS EN EL LUGAR O EN LAS PROXIMIDADES DEL LUGAR DEL ACCIDENTE
+N.A.
+
+
+## Página 17
+
+
+## Página 18
+
+## 2.2.5.	 ACTIVACIÓN DEL PLAN DE EMERGENCIA FERROVIARIO Y SU CADENA DE EVENTOS
+
+## 2.2.5.1.	 PLAN PREVISTO
+Infrabel ha definido tareas prioritarias en su plan de Urgencia:
+• alarma y medidas de protección inmediatas
+• cobertura
+• socorro a las víctimas
+• información
+Para facilitar la tarea del personal, hay fichas de alarma disponibles para los puestos de señalización, el regulador de línea y el distribuidor ES.
+Según las tecnologías (Todo relés, EBP) y el tipo de tramo afectado por el accidente (tramo donde se aplica o no el bloqueo automático), el responsable del puesto de señalización tiene la posibilidad de:
+• cerrar las señales servidas;
+• utilizar el mando de parada de emergencia de la señalización en un tramo de vía afectado para bloquear las circulaciones.
+La aplicación y levantamiento de las coberturas de los «casos del cuadro 1», a petición del distribuidor ES, anula el mando:
+• automático del trazado de las rutas;
+• de apertura de las señales en el sector;
+• de apertura de las señales que dan acceso o autorizan la salida del sector correspondiente.
+Esto provoca directamente el cierre o el mantenimiento en parada de estas señales.
+El regulador de línea:
+• emite el mensaje de alarma por GSM-R (en el caso de que los conductores no lo hayan hecho),
+• emite la alarma a los puestos de señalización, al distribuidor ES y a los otros reguladores de línea.
+El Distribuidor ES corta la tensión y solicita a continuación la aplicación del caso de catenaria afectado a los bloques concernidos.
+
+## Página 19
+
+## 2.2.5.2.	 DESARROLLO EFECTIVO
+### El 01/10/2013
+Hacia las 4h07	
+el maquinista del tren E47540 activó una alarma GSM-R relativa a un problema en la línea aérea de contacto.
+De 4h07 a 4h18	el distribuidor corriente de tracción y el TC adoptaron medidas para tratar el problema de la línea aérea de contacto señalado (prohibición de enviar otros trenes hacia la zona y aplicación de un caso de línea aérea de contacto del cuadro I en Visé y en Montzen).
+Hacia las 4h09	
+el maquinista del tren Z65292 se puso en contacto con el bloque 44 para informarle del accidente.
+Hacia las 4h11	
+el bloque 44 se puso en contacto con el bloque 5 para informarle de que el maquinista del Z65292 le había advertido de un problema.
+Hacia las 4h18	
+el distribuidor corriente de tracción y el TC fueron informados por el maquinista del tren E47540 de que el maquinista del tren Z65292 acababa de advertirle de la colisión.
+Hacia las 4h26	
+el bloque 5 de Visé, tras haberse puesto en contacto con el maquinista del tren Z65292, informó al TC de la colisión. En ese momento, el TC ya había sido informado
+04h41	
+Se aplican los casos 24460 y 24462 del Cuadro II.
+05h35	
+Llegan los bomberos de Fourons al lugar.
+05h40	
+Llega al lugar el funcionario del Área SE Lieja.
+06h20	
+Llega al lugar el funcionario de la PSG Lieja.
+09h40	
+Los servicios de socorro autorizan el acceso a las zonas del accidente.
+11h00	
+El inspector de material autoriza la evacuación del tren E47540 a velocidad reducida (60 km/h).
+14h35	
+Llega al lugar el tren de recuperación.
+22h00	
+Se restablece el servicio de la vía A de la línea 24 entre Remersdaal y Montzen.
+### El 02/10/2013
+00h44	
+El distribuidor CT Namur, lado Lieja, levanta las coberturas del caso 24460 TII Línea 24.
+10h10	
+Se aplican las coberturas para los casos 24451 y 24453.
+14h55	
+Se pone fuera de servicio la vía B entre Monzen (señal CX 14) y Remersdaal (señal K.12) (el caso 24462 TII sigue siendo aplicado) para los trabajos de reparación de la vía y retirada de los escombros.
+15h37	
+El distribuidor CT Namur levanta las coberturas de los casos 24451 + 24453 TII de la línea 24.
+### El 05/10/2013
+01h02	
+Restablecimiento del servicio de la vía B.
+
+## 2.2.6.	 ACTIVACIÓN DEL PLAN DE EMERGENCIA DE LOS SERVICIOS PÚBLICOS DE SOCORRO, DE LA POLICÍA Y DE LOS SERVICIOS MÉDICOS Y SU CADENA DE EVENTOS
+N.A.
+
+
+## Página 20
+
+## 2.3.	 VÍCTIMAS MORTALES, HERIDOS Y DAÑOS MATERIALES
+## 2.3.1.	 PASAJEROS Y TERCEROS, PERSONAL, INCLUIDOS LOS CONTRATISTAS
+No se lamentan víctimas ni heridos.
+2.3.2.	 MERCANCÍAS, EQUIPAJE Y OTROS BIENES,
+La carga del segundo tren sufrió diversos daños: 
+• el primer vagón descarriló y se volcó por debajo del viaducto de la Galoppe: se estrelló con su carga al pie del viaducto en una zona arbolada;
+• los vagones segundo y tercero se estrellaron contra los vagones que les precedían, sufriendo y provocando graves daños tanto al material rodante como a las cargas transportadas;
+• una parte del segundo vagón (plataforma superior) y de su carga también fue arrastrada por debajo del viaducto de la Galoppe;
+• los vehículos transportados por los vagones siguientes se desplazaron (principalmente en sentido longitudinal).
+
+## 2.3.3.	 MATERIAL RODANTE, INFRAESTRUCTURA Y ENTORNO
+## 2.3.3.1.	 TREN E47540
+Tras la colisión, algunos vagones del primer tren sufrieron daños leves: pudieron ser evacuados a velocidad reducida.
+## 2.3.3.2.	 TREN Z65292
+La locomotora que impactó contra el último vagón del primer tren sufrió diversos daños, en particular:
+• en los topes,
+• en la parte frontal de la locomotora (daños en la pintura y en la carrocería),
+• en un faro,
+• en la manilla y en el peldaño.
+El bloque motor sufrió un desplazamiento.
+Las consecuencias del choque son importantes en los vagones 1 a 6, vagones que sufrieron los mayores daños. El vagón 1 fue empujado fuera de la vía y precipitado por debajo del viaducto de la Galoppe.
+Las cargas de los vagones 2 a 4, de vehículos, sufrieron desplazamientos y los propios vagones resultaron dañados (daños diversos en los chasis y en los topes) y una parte del segundo vagón se volcó por debajo del viaducto.
+## 2.3.3.3.	 INFRAESTRUCTURA
+En sus movimientos consecutivos al choque, algunos vagones del segundo tren causaron daños, tanto a las líneas aéreas de contacto como a las vías mismas (traviesas, raíles, etc.) y a las infraestructuras del viaducto de la Galoppe. Las vías A y B están obstruidas.
+## 2.3.4.	 OTROS
+La circulación de los trenes está interrumpida en las vías A y B: 
+• la vía B se puso fuera de servicio el 1/10 hacia las 4h10 hasta el 5/10 a las 01h02.
+• la vía A se puso fuera de servicio el 1/10 hacia las 4h10 hasta las 22h00, y posteriormente para la continuación de las operaciones de recuperación y los trabajos en la vía y en la línea aérea de contacto, el 2/10 de 8h00 a 16h15 y el 4/10 de 11h45 a 16h15.
+
+
+## Página 21
+
+## 2.4.	 CIRCUNSTANCIAS EXTERNAS
+## 2.4.1.	 CONDICIONES METEOROLÓGICAS
+La noche del accidente, el cielo estaba ligeramente nublado y la luna presentaba un cuarto creciente fino.
+## 2.4.2.	 REFERENCIAS GEOGRÁFICAS
+
+
+## Página 22
+
+## 3.	 INFORME DE LAS INVESTIGACIONES Y ENQUISTAS
+## 3.1.	 RESUMEN DE LOS TESTIMONIOS
+De los testimonios e información reunidos se desprenden los siguientes elementos: 
+• la noche era oscura;
+• los procedimientos relacionados con el cruce de la señal permisiva cerrada B335 se respetaron correctamente;
+• durante el choque, el primer tren (tren impactado) volvía a arrancar tras la apertura al paso (verde) de la señal K.12 delante de la cual se había detenido;
+• el Traffic Control recibió una alarma a través del GSM-R del maquinista del primer tren;
+• el bloque 44 de Montzen fue informado del accidente a través del GSM de servicio del maquinista del segundo tren, tras lo cual el bloque 44 se puso en contacto con el bloque 5 de Visé;
+• el bloque 5 de Visé se puso en contacto con el maquinista del segundo tren para obtener más detalles y posteriormente informó al Traffic Control; los operadores de los puestos de señalización aplicaron medidas de protección para evitar un nuevo accidente.
+
+## Página 23
+
+## 3.2. SISTEMA DE GESTIÓN DE LA SEGURIDAD
+El análisis de un sistema de gestión de la seguridad puede realizarse según tres dimensiones: el componente técnico, el componente humano y el componente organizativo. Esto permite poner de manifiesto, a diferentes niveles, las posibles deficiencias y/o inadecuaciones del sistema y, en particular, en la gestión de los riesgos, con el fin de prevenir los accidentes.
+El presente informe presenta los análisis de las diferentes barreras de control desde la perspectiva de los SGS:
+• el componente técnico en el capítulo 3.4;
+• el componente humano en el capítulo 3.6;
+• el componente organizativo a continuación.
+## 3.2.1. SGS INFRABEL
+## 3.2.1.1.
+## CONTROL DE LOS RIESGOS
+Infrabel gestiona los riesgos vinculados a sus propias actividades, así como los riesgos vinculados a las actividades de las empresas ferroviarias en su red: se trata de los riesgos propios, los riesgos compartidos y los riesgos transferidos.
+En diciembre de 2007, se realizó una evaluación de los riesgos: Infrabel analizó entonces los riesgos de forma semicuantitativa basándose en el historial disponible de datos de SNCB-Holding.
+El objetivo de este análisis era determinar:
+• los principales riesgos de explotación de Infrabel;
+• las causas y los factores que contribuyen al peligro;
+• los riesgos de los que Infrabel tiene el control.
+### Riesgos de explotación – Tareas de coordinación del GI
+A nivel de la explotación de la infraestructura ferroviaria y de la circulación de los trenes, existe el riesgo de colisión por alcance de un tren por otro, riesgo que el sector ferroviario ha identificado claramente desde hace varias décadas.
+Este riesgo se ha controlado mediante la adopción del sistema de bloques para la circulación de los trenes: las líneas se dividen en partes sucesivas, de longitudes variables, denominadas secciones de bloqueo, en las cuales no pueden estar simultáneamente dos trenes. El acceso a una sección de bloqueo está controlado por una señal fija de parada principal o, en algunos casos excepcionales, por una señal móvil.
+Como Gestor de la Infraestructura, la gestión de la señalización corresponde a Infrabel.
+Dentro del conjunto de la normativa de Infrabel, es el RSEIF el que establece las prescripciones de seguridad para la explotación de la infraestructura ferroviaria (RSEIF = Reglamento de Seguridad para la Explotación de la Infraestructura Ferroviaria). Se basa, por una parte, en la experiencia, así como en los conocimientos técnicos y operativos del sector ferroviario, y tiene en cuenta, por otra parte, las normas (UIC, RID, etc.) y las normas y legislaciones (belgas o internacionales).
+Es dentro del RSEIF donde se encuentra la normativa relativa a la señalización que deben seguir los maquinistas para ejecutar, con toda seguridad, las maniobras de sus trenes. El RSEIF debe, de hecho:
+• permitir a las EF utilizar la red ferroviaria belga con toda seguridad;
+• ser utilizado por Infrabel y las EF como hilo conductor para establecer sus propias prescripciones de seguridad.
+
+
+## Página 24
+
+El RSEIF especifica (RSEIF 6.1) que una señal principal de parada permisible provista de una corona de franqueo en posición cerrada puede ser franqueada por el maquinista sin orden de franqueo. No hay comunicación entre el maquinista y el puesto de señalización. El franqueo va seguido de una marcha a la vista hasta el pie de la siguiente señal principal de parada.
+Este procedimiento no ha sido objeto de una modificación reciente.
+### Gestión del cambio
+Infrabel realiza también parte de estos análisis de riesgo en colaboración y con el acuerdo de las empresas ferroviarias afectadas. Si se determina que un análisis de riesgo implica a una o varias empresas ferroviarias, se les invita a participar en el análisis. Estos riesgos pueden ser tratados durante las reuniones de la Safety Desk.
+Estas reuniones son también una oportunidad ofrecida a las empresas ferroviarias para discutir y desarrollar la identificación de un riesgo compartido. La necesidad de realizar un análisis de riesgo es entonces evaluada por las empresas ferroviarias y por el gestor de la infraestructura.
+El procedimiento de aceptación sigue el ciclo de gestión de los riesgos.
+Los análisis de riesgos se utilizan para evaluar los peligros teniendo en cuenta su probabilidad y su gravedad.
+## 3.2.1.2. SEGUIMIENTO
+### Investigación e informe de investigación de un accidente
+Una investigación interna de un accidente permite a la organización examinar la eficacia de las medidas de control de los riesgos, así como los procesos conexos del sistema de gestión de la seguridad.
+Por consiguiente, no solo las causas inmediatas, sino también las causas subyacentes de un accidente pueden ser fuente de enseñanzas y deben analizarse de forma sistemática.
+El accidente fue objeto de una investigación interna en Infrabel: el 14 de octubre de 2014, la OE recibió el informe de investigación del gestor de la infraestructura.
+## 3.2.1.3. RIESGOS PROCEDENTES DE LAS ACTIVIDADES DE OTRAS PARTES
+En la situación del día del accidente, estaban principalmente afectados tres riesgos:
+### El riesgo vinculado al respeto de la señalización
+El riesgo está identificado: el maquinista está obligado a respetar la señalización.
+En el marco del accidente, una vez franqueada la señal, no hay ya ningún elemento de señalización perteneciente a Infrabel para imponer la parada del tren.
+### El riesgo vinculado al franqueo de una señal permisible cerrada
+El riesgo está identificado: es la razón por la cual el maquinista está sujeto al respeto de una marcha a la vista hasta el pie de la siguiente señal principal de parada (RSEIF 6.1).
+### El riesgo de colisión
+Se han previsto varias medidas para paliar el riesgo identificado de colisión una vez franqueada la señal permisible cerrada:
+• la velocidad de la marcha a la vista está limitada: 40 km/h de forma general, 20 km/h de noche y cuando la visibilidad es inferior a 200 m, e incluso 5 km/h durante el cruce de ciertos túneles (RSEIF 1.1 y RSEIF 7.1);
+• el último vagón de un tren de mercancías debe estar equipado con una señal de cola, constituida por una linterna eléctrica de cola extraíble que presenta, cuando está encendida, una luz roja (RSEIF 4.1). Una linterna roja tiene el mismo significado que una bandera roja (RSEIF 3.1, punto 7.3.2.3) e impone a los maquinistas que circulan por la vía concernida detenerse antes.
+
+## Página 25
+
+## 3.2.2.	 SGS DE LA SOCIÉTÉ CROSSRAIL
+## 3.2.2.1.	 SISTEMA DE GESTIÓN DE COMPETENCIAS: FORMACIÓN DEL CONDUCTOR
+La ley del 19 de diciembre de 2006 determina los requisitos aplicables a los conductores según diferentes ejes: 
+• requisitos médicos;
+• método de formación;
+• conocimientos profesionales generales y requisitos relativos a la licencia;
+• conocimientos profesionales relativos al material rodante y requisitos relativos a la certificación;
+• conocimientos profesionales relativos a la infraestructura y requisitos relativos a la certificación;
+• frecuencia de los exámenes.
+Crossrail cumple con estos diferentes requisitos.
+• La sociedad anónima Crossrail Benelux está autorizada como organismo de formación encargado de prestar servicios de formación a los conductores de tren, a tenor del artículo 34 de la ley del 19 de diciembre de 2006 relativa a la seguridad de la explotación ferroviaria (Decreto Real de fecha 14 de noviembre de 2008). La autorización es válida para las formaciones para los títulos de las categorías A1, A2, A3, A4 y B2 descritas en el anexo 1 del Decreto Real de fecha 18 de enero de 2008 relativo a la prestación de servicios de formación a los conductores de tren y al personal de a bordo.	
+Crossrail imparte una formación adecuada a los conductores de tren y los somete a exámenes: esto le permite asegurarse de que sus conductores disponen de los conocimientos necesarios para hacer circular trenes en la red ferroviaria. Al término de la formación, Crossrail entrega un certificado al conductor evaluado, así como los anexos a dicho certificado (certificado de conocimiento de líneas y de material rodante).
+• Crossrail asegura una formación continua de los conductores de tren mediante: 
+• formaciones planificadas;
+• la edición de un documento periódico que difunde información relacionada con la seguridad, la señalización y los procedimientos.
+• Crossrail asegura el seguimiento de los circuitos de formación, así como de los exámenes médicos y psicológicos de su personal a través de registros. Esto permite cumplir con el requisito de validez de la licencia, que establece que su titular debe someterse a exámenes periódicos sobre su aptitud física y sobre su aptitud psicológica a nivel profesional cada tres años como mínimo hasta la edad de 55 años y, a continuación, anualmente.
+## 3.2.2.2.	 GESTIÓN DEL RIESGO
+### El riesgo relacionado con el respeto de la señalización
+Mediante la formación impartida por Crossrail a sus conductores, la sociedad se asegura de que respeten la señalización ferroviaria.
+La formación básica va acompañada de formación continua y de exámenes de las competencias.
+### El riesgo de colisión 
+Existen normas internas para paliar el riesgo identificado de colisión una vez superado el señal de permiso cerrado: 
+• en el marco de una marcha a la vista, el conductor debe hacer circular su tren a una velocidad tal que pueda detenerlo de forma segura ante cualquier obstáculo previsible en el tramo de vía que distingue claramente delante de él;
+• la velocidad en marcha a la vista no puede superar los 40 km/h, y se limita a 20 km/h de noche y cuando la visibilidad sea inferior a 200 m;
+
+
+## Página 26
+
+## 3.2.2.3.	 MONITORIZACIÓN
+### Recopilación de datos y análisis
+A fin de asegurarse de que los riesgos están controlados, una organización necesita medir el nivel de aplicación de estos controles y evaluar sus resultados. La recopilación de datos de seguridad y el análisis subsiguiente permiten a la organización medir su rendimiento global y detectar las posibles lagunas en su SGS. Establecer indicadores sobre la conformidad de las operaciones con respecto a la norma y a las reglas es esencial si la empresa quiere detectar las desviaciones.
+Para una empresa ferroviaria, verificar la conformidad de las tareas realizadas por sus conductores es uno de estos indicadores. El análisis de los datos registrados por el material rodante es una de las herramientas a su disposición.
+La sociedad Crossrail dispone de indicadores de accidentes e incidentes (KPI). Crossrail realiza dos veces al año y por conductor una lectura no planificada de los datos registrados durante un trayecto.
+### Investigación e informe de investigación sobre un accidente
+Los análisis realizados por una organización en el marco de una investigación tras un accidente deben estructurarse dentro de un informe de investigación, que ponga de manifiesto su análisis sistémico y organizativo, con el fin de intentar determinar no solo las causas inmediatas, sino también las causas subyacentes de un accidente.
+La sociedad Crossrail transmitió en fecha 10 de septiembre de 2014 su informe de investigación a la OE. 
+Los elementos sobre los que se centró la investigación se recogen en los documentos del informe, pero este no está estructurado de manera que ponga de manifiesto los análisis sistémicos y organizativos.
+
+## Página 27
+
+## 3.2.3.	 SGS SNCB LOGISTICS
+## 3.2.3.1.	 UTILIZACIÓN DE CONTRATISTAS – CONTROL DE LOS PROVEEDORES
+Cuando se utilicen proveedores, socios y/o subcontratistas para llevar a cabo actividades relacionadas con la seguridad de la explotación, la empresa ferroviaria debe controlar la entrega de los suministros y los servicios de seguridad proporcionados por dichos contratistas.
+El tren de SNCB Logistics implicado en el accidente había realizado una inversión de marcha (cambio de frente) en Aquisgrán. En el marco de una colaboración SNCB Logistics/DB Schenker DE, esta operación fue realizada y supervisada por personal de DB Schenker DE.
+En el marco de su Sistema de Gestión de la Seguridad, SNCB Logistics realiza auditorías a sus contratistas.
+## 3.2.3.2.	 CONFORMIDAD CON LAS NORMAS APLICABLES
+Para un funcionamiento seguro, una empresa ferroviaria debe garantizar que todas las operaciones se realicen respetando las normas aplicables, tanto en cuanto a la adecuación de los equipos y del material rodante como a la competencia del personal afectado.
+Estas operaciones afectan, de forma no exhaustiva, a la formación y circulación de los trenes, los controles del material rodante antes de la salida, la gestión de los equipos, etc.
+El cumplimiento del RSEIF 4.1 y del RGE 511 impone que se coloque una linterna por parte del personal de la UI en el último vagón durante la formación del tren. 
+Las especificaciones de la linterna, así como las del soporte de linterna que equipa el vagón, se describen en las fichas UIC correspondientes.
+El RIV4 definía las especificaciones técnicas (recogidas en las fichas UIC) a las que debían satisfacer los vagones para garantizar un servicio internacional. Los vagones utilizados en el tren de SNCB Logistics estaban inscritos en el RIV: pueden utilizarse en servicio internacional sin autorización particular.
+## 3.2.3.3.	 COMUNICACIÓN
+Las organizaciones no pueden funcionar sin comunicación, lo que implica, entre otras cosas, la transferencia de información dentro de la propia empresa. El intercambio de información pertinente sobre la seguridad es esencial para un funcionamiento eficaz del SGS.
+La falta de remonte de información desde los operadores de campo hacia la línea directiva no permite una consideración y una resolución global de los problemas eventualmente encontrados.
+## 3.2.3.4.	 AUDITORÍA INTERNA
+Por regla general, la auditoría interna tiene por objeto examinar periódicamente los sistemas de gestión.
+En particular, la auditoría de seguridad interna debe evaluar si los procedimientos aplicados son conformes a los requisitos descritos en el SGS.
+RIV : Regolamento Internazionale dei Veicoli es un reglamento para el uso recíproco de los vagones en tráfico internacional, derivado de un acuerdo entre países europeos de 1922. Este acuerdo fue sustituido el 1 de julio de 2006 por el Contrato Uniforme de Utilización de los vagones.
+
+
+## Página 28
+
+## 3.2.3.5.	 GESTIÓN DEL RIESGO DE LAS ACTIVIDADES
+Tal como se prevé en el RGE 511, la linterna se controla antes de su utilización, pero: 
+• no existe información registrada respecto al número de horas de encendido de la linterna;
+• no existe información disponible respecto a la carga de la batería de la linterna.
+Si se agotara la carga de la batería principal, la batería de reserva toma el relevo y garantiza el encendido de la lámpara durante 50 horas. Un control de la linterna mediante el botón de prueba permite detectar que está alimentada por la batería de reserva. 
+Durante el trayecto del tren, no se prevé nada para asegurar el buen funcionamiento de la linterna: no existe ningún medio técnico para informar al maquinillo del tren de un funcionamiento anómalo de la linterna durante el trayecto.
+El apagado de la linterna constituye un riesgo identificable: con su ocurrencia, pone en peligro la seguridad de la explotación ferroviaria.
+## 3.2.3.6.	 SEGUIMIENTO
+Tal como se exige en su Sistema de Gestión de la Seguridad, una investigación de la empresa ferroviaria tras un accidente debería realizar un análisis sistémico y operativo. El informe de investigación debería indicar, entre otras cosas, la adecuación del material (como la linterna de cola) y los procedimientos de trabajo.
+El informe de investigación de SNCB Logistics fue transmitido a la OE: incluye una parte de análisis de los elementos de los que dispone la empresa ferroviaria, así como un análisis sucinto de la disposición reglamentaria y operativa que es el cruce de una señal permisible cerrada.
+
+
+## Página 29
+
+## 3.3.	 NORMAS Y NORMATIVA
+## 3.3.1.	 NORMAS Y NORMATIVA PÚBLICA COMUNITARIA Y NACIONAL APLICABLES
+## 3.3.1.1.	
+## LEY DEL 19 DE DICIEMBRE DE 2006 RELATIVA A LA SEGURIDAD DE LA EXPLOTACIÓN FERROVIARIA
+Extractos de la ley:
+[…]
+Art. 36 Todo conductor de tren debe poseer la aptitud y las cualificaciones necesarias para asegurar la conducción de trenes y estar en posesión de una licencia y de una o varias attestations. Las attestations pueden estar contenidas en un documento único
+[…]
+  Art. 37/9. Condiciones de obtención
+   Una attestation solo se expide al titular de una licencia.
+   El titular de la attestation se conforma a las condiciones lingüísticas en la (o las) lengua(s) indicada(s) por el gestor de la infraestructura ferroviaria según la ubicación de la infraestructura para la cual se solicita la attestation.
+   El candidato ha superado un examen sobre sus conocimientos y sus competencias profesionales relativas a las infraestructuras para las cuales se solicita la attestation, así como sobre sus conocimientos lingüísticos.
+   El candidato ha superado un examen sobre sus conocimientos y sus competencias profesionales relativas a los vehículos para los cuales se solicita la attestation.
+   La empresa ferroviaria o el gestor de la infraestructura ferroviaria imparte al candidato una formación en lo que respecta a su sistema de gestión de la seguridad.
+[…]
+
+## Página 30
+
+## 3.3.1.2.	 DECISIÓN 2006/861/CE
+Esta Decisión de la Comisión es de fecha 28 de julio de 2006 y se refiere a la especificación técnica de interoperabilidad relativa al subsistema «Material rodante - vagones para mercancías» del sistema ferroviario transeuropeo convencional.
+### 4.   Caracterización del subsistema
+### 4.2.   Especificaciones funcionales y técnicas a nivel del subsistema
+### 4.2.2.   Estructuras y partes mecánicas
+### 4.2.2.2.   Seguridad de acceso y salida del material rodante
+[…]
+En el extremo de cada vagón, posible cola de tren, se han dispuesto soportes destinados a recibir una señal de cola de tren. Se ponen a disposición escalones y barandillas, si es necesario, para facilitar el acceso.
+[…]
+## 4.2.7.   SISTEMAS DE PROTECCIÓN
+### 4.2.7.4.   Fijación de los soportes de señales
+### 4.2.7.4.1.   Generalidades
+Todos los vehículos remolcados deben disponer de dos soportes de señales en cada extremo.
+### 4.2.7.4.2.   Especificaciones funcionales y técnicas
+### 4.2.7.4.2.1.   Características principales
+El soporte de señales debe tener un punto de fijación, tal como se define en la figura BB1 del anexo BB.
+
+
+## Página 31
+
+## 3.3.2.	 OTRAS NORMAS, TALES COMO LAS NORMAS DE EXPLOTACIÓN, LAS INSTRUCCIONES 
+## LOCALES, LOS REQUISITOS APLICABLES AL PERSONAL, LAS PRESCRIPCIONES 
+## DE MANTENIMIENTO Y LAS NORMAS APLICABLES
+## 3.3.2.1.	 NORMATIVA DEL GESTOR DE LA INFRAESTRUCTURA
+## RSEIF 1 – INFRAESTRUCTURA
+2. NOCIONES VARIAS RELATIVAS A LA SEÑALIZACIÓN
+2.2.1.2 Señal de parada
+Se denomina señal de parada a una señal fija o móvil que puede prohibir el desplazamiento de un movimiento.
+Se distingue:
+• la señal de parada atendida; su cruce en posición cerrada requiere en algunos casos 
+la autorización del encargado del puesto;
+• la señal de parada no atendida; su cruce en posición cerrada nunca requiere 
+la autorización del encargado del puesto.
+En el momento de su cruce en posición cerrada, la señal de parada es:
+• permisiva cuando no requiere la autorización del encargado del puesto;
+• no permisiva cuando requiere la autorización del encargado del puesto.
+2.6 CIRCULACIÓN A VELOCIDAD NORMAL Y CIRCULACIÓN A VISTA
+La circulación a vista se realiza a una velocidad tal que el agente responsable pueda provocar con seguridad 
+la parada ante un obstáculo previsible, en el tramo de vía que ve claramente libre 
+delante de él. En todos los casos, la velocidad máxima está limitada a 40 km/h.
+### RSEIF 3.1 - Gran señal de parada no atendida
+Un gran señal de parada:
+simple: nunca garantiza la advertencia 
+o combinado garantiza siempre la advertencia
+se dirige tanto a los grandes como a los pequeños movimientos y determina o transforma el tipo y el 
+régimen de los movimientos.
+La corona de cruce colocada en la parte delantera del mástil de un gran señal de parada indica al 
+conductor que el gran señal de parada es permisivo.
+El gran señal de parada no atendida es siempre permisivo.
+
+
+## Página 32
+
+### RSEIF 6.1 - Medidas particulares en las líneas con señalización lateral
+2. CRUCE DE LAS GRANDES SEÑALES DE PARADA PERMISIVAS CERRADAS
+2.1. PROCEDIMIENTOS
+2.1.1. LA SEÑAL ESTÁ EQUIPADA CON UNA CORONA DE CRUCE O CON UN OJILLO ILUMINADO
+Después de detenerse en la señal, el conductor la cruza sin orden de cruce. Continúa luego su ruta en gran movimiento a vista hasta el pie del 
+gran señal de parada siguiente, incluso si esta última señal está abierta.
+### RSEIF 7.1 - Explotación y gestión del tráfico - Parte «diversos» - La conducción
+4.15. VELOCIDADES MÁXIMAS A VISTA
+4.15.1. CIRCULACIÓN A VISTA EN GRAN MOVIMIENTO
+4.15.1.1. DE DÍA, CUANDO LA VISIBILIDAD ES INFERIOR A 200 M O DE NOCHE
+20 km/h.
+### RSEIF 4.1 – Las reglas relativas a los trenes
+8. SEÑALES LLEVADAS POR LOS TRENES
+8.2. SEÑALES DE COLA
+8.2.1. TIPOS DE SEÑALES DE COLA
+La señal de cola de los trenes está constituida bien sea:
+[…]
+a los trenes de mercancías que circulan, únicamente de día, bien sea entre un punto atendido (empalme, línea de explotación simplificada) y la primera estación, bien sea en las instalaciones importantes (zonas portuarias, estaciones de clasificación), de una placa circular roja desmontable con borde blanco.
+[…]
+8.2.3. LINTERNA ELÉCTRICA DE COLA DESMONTABLE
+[…]
+La linterna eléctrica de cola desmontable de encendido manual se enciende cuando al menos una 
+parte del recorrido se efectúa mientras las señales nocturnas son obligatorias o cuando el tren circula 
+por la línea 0 / Bruselas-Mediodía – Bruselas-Norte.
+[…]
+3.3.2.2.	 NORMATIVA DE LA EMPRESA FERROVIARIA CROSSRAIL: HANDBOEK BESTUURDER
+El documento solo existe en neerlandés y se encuentra en el anexo.
+
+
+## Página 33
+
+## 3.4.	 FUNCIONAMIENTO DEL MATERIAL RODANTE Y DE LAS INSTALA­
+## CIONES TÉCNICAS
+## 3.4.1.	 SISTEMA DE SEÑALIZACIÓN Y CONTROL-CONDUCCIÓN, INCLUIDOS LOS REGIS­
+## TROS DE LOS REGISTRADORES AUTOMÁTICOS DE DATOS
+El accidente se produjo en el tramo comprendido entre la señal de parada no atendida B.335 y la 
+señal de parada atendida K.12 (señal de entrada de la estación de Remersdaal). La estación de Remersdaal es 
+gestionada por el bloque 12 de Remersdaal de tecnología «todo relés», telecontrolado por el bloque 5 de 
+Visé también de tecnología «todo relés»: por lo tanto, no existen datos EBP para analizar.
+La señal B335 es un gran señal de parada permisivo permanente dotado de una corona de fran­
+queo.
+La señal es automática y, por tanto, no es controlada por un puesto de señalización, sino por la 
+detección de los trenes en el tramo que protege. 
+En el momento en que el segundo tren se acerca a la señal B335, presenta el rojo debido a la presencia 
+del tren E47540 en el tramo aguas abajo.
+Esta señal es permisiva, es decir, que el conductor, mediante los trámites correspondientes, puede cruzarla incluso 
+si presenta el rojo: debe detener su tren al pie de la señal, rellenar su documento de a bordo y 
+a continuación volver a arrancar y circular a vista hasta el pie del gran señal de parada siguiente.
+## 3.4.2.	 INFRAESTRUCTURA
+El OE no observó nada anormal en lo que respecta a la infraestructura.
+
+
+## Página 34
+
+## 3.4.3.	 MATERIAL RODANTE, INCLUIDOS LOS REGIS­
+## TROS DE LOS REGISTRADORES AUTOMÁTICOS DE DATOS
+Los registradores permiten grabar automáticamente diversos datos de un tren durante 
+un recorrido: velocidad, tracción, frenado, vigilancia del conductor, información MEMOR,… 
+La locomotora estaba equipada con un registrador DATACORD 6100.
+## 3.4.3.1.	 REGISTROS DEL TREN Z65292 (TREN IMPACTADOR)
+El gráfico presenta la información registrada por el registrador a bordo de la locomotora del 
+tren impactador: 
+• en azul, la velocidad (escala a la izquierda del gráfico);
+• en verde, la posición de la palanca de velocidad manipulada por el conductor del tren;
+• en rojo, la presión en la conducción general de los frenos.
+
+## Página 35
+
+Hasta poco después de las 4:03, se observa el acercamiento a la señal cerrada B335:
+• desaceleración observada, hasta alcanzar una velocidad nula;
+• la presión en la tubería general desciende hasta 4 bares.
+A las 04:03:14, el tren está detenido.
+Alrededor de las 4:04, el maquinista pone en movimiento su tren:
+• la palanca de velocidad se eleva del nivel 0 al nivel 2 a las 04:03:57
+• el tren acelera
+A las 4:06:21, el tren alcanza una velocidad de 22 km/h.
+En ese momento, el maquinista devuelve la palanca de velocidad a 0 e inicia un frenado de emergencia (la presión en la tubería general alcanza 3,5 bares).
+
+## 3.4.3.2. SEÑAL DE COLA DEL TREN E47540
+
+La linterna de cola del tren E47540 fue recuperada y asegurada por los servicios del SPC el día del accidente. Se encontraba en el balasto, detrás de la locomotora del tren Z65292, probablemente expulsada del vagón de cola durante la colisión.
+
+Se trata de una linterna de cola de tipo SNCF, puesta en servicio en octubre de 2011 y cuya vida útil es de 2 años. Está equipada con una batería principal de una vida útil de 2600 horas y con una batería de reserva de una vida útil de 50 horas.
+
+El interruptor de mando permite el encendido automático tan pronto como la linterna se desliza en el soporte de linterna que se encuentra en el vagón de cola del tren. El vagón de cola del tren E47540 era de tipo EANOS y estaba inscrito en el registro RIV. La inscripción en el registro RIV presupone la conformidad del vagón con las normas UIC.
+
+Asegurada por la Justicia, el funcionamiento de la linterna no pudo ser verificado por la OE.
+
+Foto: Tipo de linterna utilizada en el vagón de cola del tren E45740
+
+
+## Página 36
+
+## 3.4.3.3. COMPATIBILIDAD "LINTERNA DE COLA ↔ VAGÓN"
+
+Durante su investigación, la OE verificó la colocación de las linternas en los soportes previstos a tal efecto en diferentes tipos de vagón.
+
+En situación normal y funcional, la linterna debe introducirse en el soporte para mantenerse correctamente y para que el interruptor de encendido de la linterna se active.
+
+Linterna introducida correctamente en el soporte ("estribo" blanco)
+
+En situación degradada, la linterna no se introduce suficientemente en el soporte:
+• no se mantiene de forma suficiente y por lo tanto podría caer;
+• el interruptor de encendido no se activa.
+
+La linterna no se introduce completamente en el soporte
+
+La OE verificó la colocación de una linterna (del mismo tipo que la del accidente) en un vagón de la misma serie que el vagón de cola del tren E47540. De ello se desprende que la linterna no se introduce suficientemente en el soporte.
+
+Según los testimonios recogidos por la OE, algunos agentes de campo subsanan el problema de sujeción forzando la linterna en el soporte mediante golpes de martillo: esta colocación forzada aumenta el riesgo de daños mecánicos y no garantiza el encendido de la linterna.
+
+
+## Página 37
+
+## 3.5. DOCUMENTACIÓN DEL SISTEMA OPERATIVO
+
+## 3.5.1. MEDIDAS TOMADAS POR EL PERSONAL PARA EL CONTROL DEL TRÁFICO Y LA SEÑALIZACIÓN
+
+La señal B335 es una señal no servida: es la detección de los trenes en la sección aguas abajo la que provoca el cambio del aspecto de la señal, y no un mando desde un puesto de señalización.
+
+La señal K.12 junto a la cual está detenido el tren E47540 es una señal servida. Está controlada por el puesto de señalización de Visé: el señalizador del puesto de Visé había trazado el itinerario del tren E47540 y puso esta señal en paso para autorizar al tren E47540 a continuar su trayecto después del paso de un tren en sentido contrario.
+
+## 3.5.2. INTERCAMBIO DE MENSAJES VERBALES EN RELACIÓN CON EL INCIDENTE, INCLUIDA LA DOCUMENTACIÓN PROCEDENTE DE LAS GRABACIONES
+
+• Alrededor de las 4:06, el maquinista del tren E47540 lanzó una alarma GSM-R relativa a un problema en la catenaria.
+• Alrededor de las 4:07, el maquinista del tren E47540 estaba en contacto con el TC respecto a un problema en la catenaria.
+• Alrededor de las 4:09, el maquinista del tren Z65292 se puso en contacto con el bloque 44 de Montzen para notificarle un accidente.
+• Alrededor de las 4:11, el bloque 44 se puso en contacto con el bloque 5 de Visé para notificarle que el maquinista del Z65292 le había advertido de un problema.
+• Alrededor de las 4:18, el TC fue informado por el maquinista del tren E47540 de que el maquinista del tren Z65292 acababa de advertirle de la colisión.
+• Alrededor de las 4:26, el bloque 5 de Visé, tras haberse puesto en contacto con el maquinista del tren Z65292,
+
+informó al TC de la colisión.
+
+## 3.5.3. MEDIDAS TOMADAS PARA PROTEGER Y PRESERVAR EL LUGAR DEL INCIDENTE
+
+Cuando el accidente fue notificado por el maquinista del segundo tren,
+• los puestos de señalización de Visé y de Montzen tomaron disposiciones para impedir cualquier circulación hacia Remersdaal;
+• el distribuidor ES hizo aplicar el caso 14408 de la línea 24 inicialmente. Posteriormente, se aplicaron los casos 24460 y 24462.
+
+
+## Página 38
+
+## 3.6. INTERFAZ HUMANO-MÁQUINA-OPERACIÓN
+
+## 3.6.1. FORMACIÓN/EXPERIENCIA
+
+El maquinista del tren Z65292 había recibido su formación en Crossrail, siendo Crossrail reconocido como centro de formación (véase punto 3.2.2).
+
+## 3.6.2. CONDICIONES AMBIENTALES
+
+La noche del accidente, la luna presentaba un pequeño cuarto menguante oculto por una ligera capa nubosa y la temperatura era de 10 °C. No había precipitaciones.
+
+## 3.6.3. DISEÑO
+
+Según las especificaciones, la batería de la linterna presente en el vagón de cola permite un encendido con una duración de 2.600 horas.
+
+Por otra parte, la vida útil de la linterna se fija en 2 años.
+
+Si la linterna permanece encendida permanentemente durante 2 años, el número de horas de encendido asciende a:
+24 h/día x 365 días/año x 2 años = 17.520 horas.
+
+Si se agotara la carga de la batería principal, la batería de reserva toma el relevo y asegura el encendido de la lámpara durante 50 horas. Un control de la linterna mediante el botón de prueba permite detectar que está alimentada por la batería de reserva.
+
+No existe, en la linterna, ningún medio técnico para conocer el número de horas durante las cuales la linterna ha estado encendida.
+
+No existe ningún medio técnico que permita al maquinista saber que la linterna situada en el vagón de cola de su tren se habría apagado durante un trayecto.
+
+## 3.6.4. PROCEDIMIENTOS
+
+3.6.4.1. PROCEDIMIENTOS DE VERIFICACIÓN DEL ESTADO DE CARGA DE LA BATERÍA DE LA LINTERNA
+
+Durante las intervenciones de mantenimiento previstas para el mantenimiento, los talleres de tracción controlan, entre otras cosas, el estado de carga (luz encendida) de las 2 linternas presentes a bordo de las locomotoras.
+
+Esta verificación mediante el indicador de carga proporciona una indicación de tipo booleano (cargada/no cargada), y no una indicación valorada del número de horas de funcionamiento o de la carga de la batería (voltaje).
+
+## 3.6.4.2. PROCEDIMIENTO DE COLOCACIÓN DE LA LINTERNA EN EL VAGÓN DE COLA
+
+La linterna debe colocarse en el soporte de linterna situado a la derecha cuando uno se coloca detrás del último vehículo del tren y mira hacia la cabeza del tren.
+
+## Página 39
+
+## 3.6.4.3.	 PROCEDIMIENTOS DE CRUCE DE UNA SEÑAL PERMISIVA CERRADA
+Al cruzar una señal permisiva cerrada como la señal B335, el maquinista desconoce la razón de su cierre. La normativa no prevé que el maquinista se ponga en contacto con el centro de señalización para este tipo de cruce.
+Existen dos posibilidades para el cierre de la señal:
+• un problema técnico de la señalización,
+• la presencia de otro convoy en la sección precedente.
+El maquinista del tren Z65292 no conocía la presencia del tren E47540 en la sección protegida por la señal B335.
+El maquinista debe y ha cumplimentado su informe antes de cruzar la señal de parada permisiva.
+Este cruce debe realizarse a vista hasta la siguiente gran señal de parada; por la noche, la velocidad máxima a vista es de 20 km/h.
+Estos procedimientos son bien conocidos por los maquinistas y forman parte de su formación.
+El análisis de las grabaciones del tren Z65292 muestra
+• la parada al pie de la señal B335;
+• el cruce de la señal;
+• la evolución a una velocidad de marcha a vista nocturna.
+## 3.6.5.	 DISPONIBILIDAD TÉCNICA
+El botón y el testigo de prueba de la linterna permiten verificar el funcionamiento de la linterna:
+• cuando el maquinista verifica el material a bordo de su locomotora;
+• cuando el personal de los talleres realiza el mantenimiento de la locomotora;
+• cuando el operario coloca la linterna en el vagón de cola.
+No existe ningún medio tecnológico que permita verificar el encendido de la linterna durante el recorrido.
+La linterna no fue probada directamente cuando fue recuperada por el SPC: no fue posible para el OE pronunciarse sobre el estado mecánico y funcional de la linterna.
+## 3.6.6.	 COMUNICACIONES
+Los operarios/encargados de señalización no intervienen para la apertura y el cierre de las señales en un sistema de bloqueo automático como el que afecta a la señal B335. El cruce de esta señal permisiva cerrada no requiere que el maquinista se ponga en contacto con el centro de señalización: por lo tanto, no hay ninguna comunicación en este procedimiento de cruce.
+
+
+## Página 40
+
+## 3.7.	 ANTECEDENTES DE NATURALEZA COMPARABLE
+### Tintigny – 04/05/2012
+El 4 de mayo de 2012, se produjo una colisión entre dos trenes de mercancías en la línea 165 en Tintigny.
+Un tren cruzó una señal permisiva cerrada no vigilada y entró a vista en una sección ocupada por un primer tren. Las difíciles condiciones de circulación y la visibilidad reducida debido a la curvatura de la vía y la presencia de un túnel no permitieron al maquinista del segundo tren detener su tren: su tren colisionó con la cola del primer tren en la sección, detenido debido a dificultades técnicas.
+
+
+## Página 41
+
+
+## Página 42
+
+## 4.	ANÁLISIS Y CONCLUSIONES
+## 4.1.	 INFORME FINAL DE LA CADENA DE EVENTOS
+La noche del 1 de octubre de 2013, poco antes de las 4 h, un primer tren, el tren E47540, está detenido delante de la señal vigilada K.12 de la vía B de la línea 24; la parte trasera del tren ocupa parcialmente el viaducto de la Galoppe.
+La sección que ocupa el tren E47540 está protegida por la señal automática B335: es un circuito de vía que asegura la detección del tren en la sección y que comanda la señal B335. El tren E47540 es detectado por el circuito de vía, lo que comanda la señal B335 en rojo.
+Un segundo tren, el tren Z65292, circula por la vía B de la línea 24. El maquinista avista la señal B335 presentando la luz roja: conforme a la normativa, lleva su tren a la parada al pie de la señal B335.
+La señal B335 presenta una corona de cruce: es cruceable mediante el cumplimiento de ciertos trámites.
+El maquinista del tren Z65292, gracias a su formación, conoce estos trámites y los cumple:
+• cumplimenta su documento de a bordo;
+• pone en marcha su tren a vista hasta el pie de la siguiente gran señal de parada, la señal K.12.
+La marcha a vista se realiza a una velocidad tal que el maquinista pueda provocar con seguridad la parada de su tren delante de un obstáculo previsible, sobre el tramo de vía que avista claramente libre delante de él.
+La velocidad autorizada para la marcha a vista nocturna es de 20 km/h.
+En este punto de la línea, no hay iluminación pública, y la fase de la luna está velada por nubes: la visibilidad no es, por tanto, óptima para la marcha a vista que debe realizar el maquinista del segundo tren.
+Los datos captados por los registradores de a bordo de la locomotora muestran que la velocidad máxima del segundo tren entre el cruce de la señal B335 y la colisión es de aproximadamente 22 km/h.
+Poco después de las 4 h, el operario del centro de señalización de Visé comanda el paso por la señal K.12: el maquinista del tren E47540 pone en marcha su tren. En ese momento, percibe un golpe en su tren y observa movimientos en la catenaria. Inmoviliza su tren y activa una alarma GSM-R. No resultó herido por el golpe.
+El maquinista del segundo tren no avistó el primer tren con suficiente antelación y no pudo evitar la colisión con la parte trasera del primer tren. Tras el golpe, algunos vagones de su tren descarrilaron y el primer vagón y una parte del segundo vagón (la plataforma superior) y su carga cayeron por el viaducto. El maquinista no resultó herido.
+Se pone en contacto con su teléfono móvil de servicio con el centro de señalización de Montzen. Dado que este centro de señalización no gestiona la zona del accidente, el centro de Montzen contacta con el centro de señalización de Visé para obtener más información. Este último llama entonces al maquinista del segundo tren y, tras recibir la información, toma las medidas de seguridad e informa al Traffic Control así como al servicio de guardia de Lieja.
+
+## Página 43
+
+Se interrumpen las circulaciones hacia Remersdaal y el distribuidor ES aplica un caso de protección del cuadro 1 de la línea 24. Posteriormente, se levanta el caso del cuadro 1 y se aplican casos del cuadro 2, más localizados.
+Los servicios de bomberos de Voeren se desplazan al lugar, al igual que la Policía de los Ferrocarriles.
+## 4.2.	 DISCUSIÓN
+Un accidente puede explicarse como una pérdida de control sobre la dinámica de una situación: el curso de los eventos se bifurca por la ocurrencia de un evento pivot o iniciador.
+Antes del evento iniciador, el proceso es intrínsecamente estable en seguridad. Se desarrollan operaciones "normales", lo que no significa que todo sea estándar o conforme a las anticipaciones: se producen averías, se cometen errores e incluso desviaciones de las normas y procedimientos, pueden encontrarse eventos imprevistos, pero todo ello es amortiguado y mantenido bajo control por mecanismos homeostáticos de defensa y seguridad del sistema, de modo que no se desarrolla ninguna amenaza seria.
+Después del evento iniciador, el proceso cambia a un estado inestable en seguridad, volviéndose intrínsecamente inseguro. Se ha abierto una puerta hacia el accidente, y el curso de los eventos conducirá inexorablemente al accidente si no se realiza a tiempo una acción de recuperación voluntaria y eficaz.
+Si esta recuperación falla, se produce el accidente. Las consecuencias pueden atenuarse amortiguando el impacto.
+Los principios de seguridad destinados a impedir la ocurrencia del evento pivot se denominan principios de control, o de prevención.
+Los principios de seguridad destinados a recuperar el evento pivot se denominan de recuperación.
+Los principios de seguridad destinados a atenuar las consecuencias del accidente se denominan de mitigación.
+El conjunto de los principios de seguridad, o bien el conjunto de todo lo que se supone que debe impedir la ocurrencia del evento iniciador, y posteriormente del accidente, constituyen el "modelo de seguridad" asociado al evento iniciador o al accidente. Este conjunto comprende zonas explícitas: disposiciones reglamentarias, procedimientos a seguir, características de diseño, limitaciones operativas, etc., que han sido diseñadas para mantener y conservar el sistema en seguridad.
+Comprende también zonas implícitas, más o menos claras: "buenas prácticas", "expectativas razonables" respecto a los comportamientos, e incluso supuestos o hipótesis totalmente implícitos sobre los comportamientos de los diferentes actores.
+
+
+## Página 44
+
+## 4.2.1.	 BARRERA DE CONTROL
+## 4.2.1.1.	
+## FORMACIÓN DEL CONDUCTOR
+El conductor del tren Z65292 realizó su formación en la sociedad que lo emplea, la sociedad Crossrail. El centro de formación de Crossrail está reconocido por el SSICF.
+El conductor había finalizado su formación y el trayecto realizado el 1 de octubre constituía su primer trayecto no acompañado. Su certificado de conocimiento de línea menciona la línea 24.
+## 4.2.1.2.	
+## FRACASO DE SEÑAL PERMISIVA CERRADA CON VISUALIZACIÓN
+El sistema de bloques se emplea para garantizar el espaciado de los trenes que circulan en el mismo sentido sobre una misma vía. La vía se divide en secciones de bloqueo en cada una de las cuales solo se admite un tren. Cada sección está protegida por una señal. En un sistema de bloques automático, es la detección de un tren por un circuito de vía en la sección la que comanda esta señal.
+En el caso de una señal permisible no atendida (como la señal B335), la reglamentación prevé que el conductor pueda, tras cumplimentar su documento de a bordo, franquear la señal cerrada y circular con visualización hasta el pie de la gran señal de parada siguiente.
+La visualización se realiza a una velocidad tal que el conductor pueda provocar con seguridad la parada ante un obstáculo previsible, en el tramo de vía que ve claramente libre delante de él.
+El franqueo de la señal B335 constituye, según nuestro análisis, el elemento pivot, iniciador del accidente.
+## 4.2.1.3.	
+## REPRESENTACIÓN MENTAL DE LA SITUACIÓN
+El conductor no tiene información sobre la razón del cierre de la señal B335: las razones pueden ser múltiples y la representación mental que se hace el conductor de la situación podría verse afectada, fragilizada.
+Según los elementos de los que dispone la OE y los análisis que de ello se derivan, el escenario probable podría haber seguido la siguiente secuencia: 
+• El franqueo de la señal B335 en rojo desencadena, en el conductor, la rutina mental de una visualización tras la ocupación de la sección por un tren. Esta rutina mental o gesto profesional consiste en buscar la señal de cola de este otro tren.
+• Esta representación mental del conductor pudo verse afectada por dos elementos: 
+• la saliencia de la señal de cola no era suficiente;
+• la señal K.12, gran señal de parada que sigue a la señal B335, pasa a verde.
+El primer elemento pudo fragilizar la representación mental del conductor, mientras que el segundo elemento pudo favorecer intempestivamente el desencadenamiento automático de otra rutina mental de "sección liberada", provocando de forma errónea el desencadenamiento de un "fin de visualización". 
+La rutina "visualización" desencadenada al franquear la señal B335 constituye un modo "excepcional". En estas condiciones, es alta la probabilidad de observar automáticamente el retorno al modo "normal" cuando se produce el elemento "paso a verde de la señal K.12".
+Este último actúa como un desencadenante intempestivo, provocando el automatismo "sección libre = puedo circular". Se trata de un "error de captura", en el que una rutina dominante más frecuentemente utilizada (verde = autorización para circular) toma incorrectamente el relevo de la rutina más excepcional activada (visualización).
+
+## Página 45
+
+Según la normativa, el maquinista debe continuar la marcha a la vista hasta el pie de la gran señal de parada siguiente (es decir, el K.12), incluso si dicha señal se encuentra autorizada para el paso.
+En el caso del cruce de una señal no vigilada, permisiva y cerrada, la normativa interna del GI no prevé ningún contacto con el centro de señalización: el maquinista ha cruzado la señal B335, permisiva y cerrada, sin tener una representación mental clara de la situación real.
+## 4.2.1.4.	
+## CUMPLIMIENTO DE LA SEÑALIZACIÓN POR PARTE DEL MAQUINISTA
+La circulación de los trenes está sujeta al cumplimiento por parte del maquinista de la señalización ferroviaria, así como al cumplimiento de la normativa.
+Corresponde principalmente a la señalización la tarea de prevenir los riesgos de colisión.
+Las señales, al igual que la normativa que regula su cruce, deberían garantizar el espaciado entre los trenes y, por tanto, ser garantes de la no colisión por alcance.
+En las circunstancias del accidente, ya no quedaban elementos de señalización de Infrabel capaces de detener el tren: el maquinista del tren Z65292 ha cruzado de forma reglamentaria la última señal (B335) que le separaba del tren E47540. 
+La señal de cola del primer tren constituye también un elemento de la señalización: su falta de visibilidad no ha permitido que garantizara la no colisión por alcance.
+
+
+## Página 46
+
+## 4.2.2.	BARRERA DE RECUPERACIÓN
+## 4.2.2.1.	
+## EL MAQUINISTA CIRCULA A LA VISTA PARA PROVOCAR LA PARADA ANTE UN OBSTÁCULO
+La marcha a la vista se efectúa a una velocidad tal que el maquinista pueda provocar con seguridad la parada ante un obstáculo previsible, en el tramo de vía que ve claramente libre delante de él (ej. material rodante, señal móvil …). De noche, la velocidad del tren en marcha a la vista no puede superar los 20 km/h. No hay nada que indique que el maquinista del tren Z65292 desconociera la normativa de la marcha a la vista.
+La velocidad máxima registrada por el sistema de grabación a bordo durante la marcha a la vista es de aproximadamente 22 km/h.
+4.2.2.2.	 EL MAQUINISTA VE LA SEÑAL DE COLA DEL TREN PRECEDENTE Y EFECTÚA UN FRENADO
+El lugar donde se produjo la colisión se encuentra en plena campiña, lejos de cualquier alumbrado público. Además, la noche del 1 de octubre es ligeramente nublada y la luna presenta solo un fino cuarto.
+Estas condiciones no iluminan, por tanto, ni natural ni artificialmente las vías.
+Por el contrario, la luminosidad de la señal de cola habría debido destacarse en la penumbra de la noche (visibilidad de esta señal de cola) y haber sido percibida por el maquinista del segundo tren.
+Los servicios del SPC recuperaron la linterna en las vías en el lugar de la colisión y procedieron a su incautación judicial. Esta localización permite suponer que una linterna sí fue colocada en el vagón de cola durante el cambio de dirección del tren E47540 efectuado en Aquisgrán, pero la incautación judicial de la linterna no permitió a la OE (Organismo de Investigación) probar su funcionamiento. 
+Se trata de una linterna de cola de tipo SNCF, puesta en servicio en octubre de 2011 y cuya vida útil es de 2 años. Está equipada con una batería principal de una vida útil de 2600 horas, y con una batería de reserva de una vida útil de 50 horas. 
+Evaluar la vida útil de la batería mediante el recuento de las horas de servicio es difícil.
+De hecho, la linterna se encuentra a veces en la cabina de conducción de la locomotora: por lo tanto, está en servicio pero no encendida. Solo cuando la linterna se introduce en el soporte de linterna del vagón de cola del tren se activa automáticamente el interruptor de mando y se enciende la lámpara.
+Una vez agotada la batería principal, la batería de reserva asume automáticamente el relevo gracias a la gestión electrónica de la linterna. Mediante el botón de prueba de la linterna, es posible verificar que funciona con la batería de reserva (la linterna se enciende, pero no la luz indicadora de prueba). Esta verificación se efectúa por principio antes de la utilización de la linterna, pero esta operación no queda registrada.
+Además, el problema de compatibilidad entre la linterna y el vagón, constatado por la OE durante la investigación, podría haber provocado la falta de encendido de la linterna: es posible que la linterna no estuviera lo suficientemente insertada en el soporte para que el interruptor pudiera activarse.
+De estos dos elementos se deduce que, durante la marcha a la vista, el maquinista del segundo tren no vio la señal de cola.
+En ausencia de este elemento, había pocas posibilidades de que el maquinista modificara su representación mental, se diera cuenta de la situación real y activara una rutina mental adecuada. No vio el primer tren con suficiente antelación y no pudo evitar la colisión a pesar del frenado de emergencia iniciado. 
+Ni el sistema de auditoría interna ni el informe de investigación de SNCB Logistics mencionan el problema de compatibilidad entre ciertos tipos de vagones y ciertos tipos de linternas. Es posible que el personal de tierra, confrontado a esta situación a diario, no esté suficientemente sensibilizado sobre la necesidad de comunicar este problema: el sistema de comunicación interna de SNCB Logistics no permitió transmitir esta información a los responsables de "Calidad" y "Seguridad".
+
+## Página 47
+
+## 4.2.2.3. UN SISTEMA TÉCNICO IMPIDE LA COLISIÓN ENTRE LOS DOS TRENES
+## TBL1+
+Para franquear una señal permisible cerrada, el maquinista debe desactivar el sistema TBL1+ mediante el pulsador previsto a tal efecto. Una vez franqueada, el sistema TBL1+ se reactiva, pero no permite una supervisión de la velocidad.
+El sistema TBL1+ no habría podido, por tanto, desempeñar un papel de barrera de recuperación.
+### ETCS nivel 1 y 2
+En ETCS (nivel 1 y 2), la detección de trenes está asegurada por los circuitos de vía.
+El interlocking del nivel 1 gestiona entonces las eurobalizas y el LEU, mientras que el interlocking del nivel 2 gestiona el RBC, que comunicará con el tren.
+### Franqueo de balizas y señales permisible cerradas
+En ETCS, el franqueo de balizas y señales permisible cerradas puede realizarse pasando del modo FS (Supervisión Completa) al modo OS (A la Vista). El modo OS es el que impone a un tren circular a alta velocidad a la vista.
+• En nivel 1, la señal es franqueable a una velocidad inferior a la velocidad de liberación. La transición de modo FS/OS tiene lugar al pasar sobre la baliza de la señal y es automática. El maquinista debe acuse de recibo de la transición.
+• En nivel 2, cuando un tren se acerca a una señal o a una baliza de parada permisible cerrada, el RBC envía al equipo a bordo una solicitud de acuse de recibo del modo OS si el tren se encuentra a una distancia igual o inferior a 150 metros aguas arriba de la señal o de la baliza de parada. En cuanto el maquinista acuse de recibo de esta información, el modo OS está autorizado. El maquinista no está entonces obligado a detenerse. La transición de modo FS/OS es transmitida por el RBC y es automática.
+### Velocidad máxima tras el franqueo de balizas y señales permisible cerradas
+La velocidad máxima (= velocidad de liberación) en modo OS forma parte de los «valores nacionales»: en Bélgica, esta velocidad es de 30 km/h, es decir, superior a la velocidad del segundo tren justo antes de la colisión (22 km/h).
+El sistema ETCS (nivel 1 y 2) no constituye una barrera de recuperación que pueda impedir el accidente una vez ocurrido el acontecimiento clave (el franqueo de la señal permisible cerrada).
+### ETCS nivel 3
+Según las primeras especificaciones del ETCS de nivel 3 (aún en desarrollo), el espaciado entre los trenes ya no se realizaría sobre la base de una detección de los trenes mediante circuitos de vía (fijos), sino mediante la información proporcionada por los propios trenes. Los bloques (sección de vía libre para el tren) pueden, por tanto, ser móviles.
+El ETCS de nivel 3 podría quizás constituir una barrera de control y/o de recuperación.
+### Sistema anticolisión
+Proyectos de dispositivos tecnológicos que permiten evitar colisiones de trenes se están estudiando actualmente, especialmente en Alemania, donde el Centro Aeroespacial Alemán desarrolla el Railway Collision Avoidance System (RCAS).
+La idea básica del RCAS sería que un tren difunda información a todos los demás trenes de la región mediante comunicaciones tren-a-tren ad hoc. Esta información emitida por un tren incluiría su posición y la vía por la que circula, así como datos adicionales como las dimensiones del tren. Esto permite a los maquinistas tener un conocimiento preciso y actualizado de la situación del tráfico en las proximidades de su tren, y actuar en consecuencia. El análisis informático de la información recibida, la posición y el movimiento del
+
+## Página 48
+
+tren, situados sobre una versión informatizada del mapa de la red, permite detectar posibles colisiones, mostrar una señal de alerta y aconsejar al maquinista la estrategia más adecuada a seguir para evitar el peligro.
+El maquinista del tren Z65292 no pudo beneficiarse de este tipo de ayuda tecnológica.
+## 4.2.3. BARRERAS DE MITIGACIÓN
+## 4.2.3.1.	
+## COMUNICACIONES
+Tras la colisión, observando movimientos en la catenaria, el maquinista del primer tren lanzó una alarma vía GSM-R.
+El sistema GSM-R funcionaba correctamente en el momento del accidente y permitió tomar las medidas de emergencia necesarias.
+## 4.2.3.2. INTERRUPCIÓN DE LA CIRCULACIÓN
+Una vez informados, los centros de control de tráfico tomaron medidas: las circulaciones hacia Remersdaal fueron interrumpidas y el distribuidor ES interrumpió el suministro eléctrico según los procedimientos definidos.
+Estas medidas permitieron que ningún tren fuera enviado hacia el lugar del accidente.
+
+
+## Página 49
+
+## 4.3. CONCLUSIONES
+Según el escenario más probable establecido por el OE tras su investigación, la causa directa de la colisión por alcance del primer tren por el segundo es el frenado tardío del segundo tren.
+Diversos factores actuaron como causas indirectas:
+• la representación mental de la situación por parte del maquinista:
+el maquinista no tiene información sobre la razón de la cierre de la señal permisible cerrada que franquea a la vista: las razones pueden ser múltiples y su representación mental podría verse afectada, debilitada.
+• la ausencia de visibilidad de la señal de cola del primer tren.
+a la vista de noche, uno de los gestos profesionales de los maquinistas consiste en buscar la señal de cola luminosa de otro tren: ante la ausencia de visibilidad de esta señal, había pocas posibilidades de que el maquinista del segundo tren adaptara su representación mental y adaptara su rutina mental.
+• la ausencia de sistema de recuperación:
+el análisis del Organismo de Investigación mostró la insuficiencia de eficacia, en las circunstancias del accidente, del sistema de ayuda a la conducción TBL1+ así como del sistema de señalización de cabina ETCS (niveles 1 y 2): estos 2 sistemas permiten franquear una señal permisible cerrada a baja velocidad y la detección de los trenes se realiza mediante circuitos de vía, por lo que no aportan apoyo tecnológico al maquinista que debe gestionar la marcha a la vista. Otros sistemas, como el ETCS de nivel 3 o el RCAS imaginado por el Centro Aeroespacial Alemán, podrían constituir sistemas de recuperación, pero actualmente siguen en fase de desarrollo.
+El OE ha identificado 2 causas subyacentes durante su investigación:
+• la insuficiente concienciación del personal de campo respecto a la transmisión de información:
+
+la incompatibilidad entre las linternas y ciertos tipos de vagones era conocida por los operadores de campo, pero estos problemas no fueron comunicados a la línea jerárquica de SNCB Logistics. El intercambio de información pertinente para la seguridad es esencial para el funcionamiento eficaz del SMS.
+• el riesgo de colisión por alcance tras el franqueo a la vista de una señal permisible cerrada.
+
+## Página 50
+
+## 5. MEDIDAS ADOPTADAS
+## 5.1. CROSSRAIL
+Crossrail ha prolongado la formación práctica de los maquineros en dos semanas, con el objetivo de una mejor preparación.
+Además del boletín mensual "In the picture", en el que se abordan aspectos de la seguridad y de la normativa, se ha creado un nuevo boletín titulado "Safety in the picture" tras este accidente. Este boletín informa a los maquineros y a los lectores sobre incidentes importantes y explica las medidas que deben adoptarse para evitar la ocurrencia de accidentes similares en el futuro.
+Crossrail también ha adaptado su normativa interna: esta prevé que, en caso de rebasar una señal de permiso cerrado durante la noche o cuando la visibilidad sea inferior a 200 metros, el maquinero se pondrá en contacto con el puesto de señalización, a menos que la razón del cierre de la señal sea clara.
+
+
+## Página 51
+
+
+## Página 52
+
+## 6. RECOMENDACIONES
+En términos generales, las recomendaciones de los organismos de investigación deben dirigirse a la Autoridad de Seguridad (el SSICF) y redactarse «orientadas a objetivos».
+Corresponde al SSICF verificar la tenida en cuenta de estas recomendaciones cuando son traducidas en recomendaciones «orientadas a soluciones» por el gestor de infraestructura y las empresas ferroviarias.
+N.º
+Hechos y conclusiones del análisis
+Recomendación
+1
+Cuando un maquinero de tren rebasa la señal cerrada de permiso que le separa del tren que le precede, y avanza a la vista en un tramo ocupado por otro tren, no hay ningún otro dispositivo técnico que tome el relevo para asistir al maquinero:
+• excepto la señal de cola, ya no existe ningún elemento de señalización que garantice el espaciado entre los trenes y su no colisión.
+• la normativa del gestor de infraestructura no prevé ningún contacto entre el puesto de señalización y el maquinero: el puesto de señalización no tiene visibilidad de las señales no servidas.
+La Autoridad de Seguridad debería velar por que se lleve a cabo una reflexión sobre los riesgos de colisión debidos al alcance de un tren por otro entre los actores del sector ferroviario:
+• con el fin de identificar los diversos elementos que intervienen, ya sea a nivel organizativo, técnico u operativo;
+• y con el fin de identificar medidas de control y recuperación que emprender.
+2
+La vida útil de la linterna es de 2 años.
+Está equipada con una batería principal de una vida útil de 2600 horas, y con una batería de reserva de una vida útil de 50 horas.
+Evaluar la vida útil de la batería mediante el recuento de las horas de servicio es difícil: solo cuando la linterna se desliza en el soporte de la linterna en el vagón de cola del tren se activa automáticamente el interruptor de mando y se enciende la lámpara.
+Mediante el botón de prueba de la linterna, es posible verificar que funciona con la batería de reserva. Esta verificación se realiza en principio antes de la utilización de la linterna, pero esta operación no se registra
+La Autoridad de Seguridad debería velar por que la empresa ferroviaria adopte las medidas necesarias para paliar el riesgo identificado de una avería de la batería de la linterna colocada en el vagón de cola. La Autoridad de Seguridad debería verificar la necesidad de extender esta recomendación a otras empresas ferroviarias.
+
+
+## Página 53
+
+N.º
+Hechos y conclusiones del análisis
+Recomendación
+3
+Durante su investigación, la OE ha verificado la colocación de una linterna en diferentes tipos de vagones en circulación en la red ferroviaria belga. Se han puesto de manifiesto problemas de compatibilidad: la linterna no se introduce suficientemente en el soporte de algunos tipos de vagones:
+• no se mantiene de forma suficiente y, por tanto, podría caer;
+• el interruptor de encendido no se activa.
+Esta situación parece ser conocida por los agentes de campo, que han adaptado sus métodos de trabajo: pallian al problema de sujeción forzando la linterna en el soporte con golpes de martillo, sin poder resolver el problema de encendido.
+Estas incompatibilidades y la desviación de los métodos de trabajo no se han transmitido a la dirección de la empresa ferroviaria.
+La Autoridad de Seguridad debería velar por que la empresa ferroviaria adopte las medidas necesarias para paliar el riesgo identificado de una inadecuación entre las linternas de cola y los soportes de los vagones en los que deben colocarse.
+La Autoridad de Seguridad debería verificar la necesidad de extender estas medidas a todo el sector ferroviario.
+La Autoridad de Seguridad debería velar por que la empresa ferroviaria SNCB Logistics adopte las medidas necesarias para:
+• sensibilizar al personal sobre la transmisión de la información a la dirección (por ejemplo, mediante la implicación de la dirección en los controles en campo);
+• hacer cumplir los procedimientos descritos en su SSG y aplicar las eventuales adaptaciones.
+
+## Página 54
+
+## 7.	 ANEXOS
+## 7.1.	 "HANDBOEK BESTUURDER" DE CROSSRAIL - EXTRACOS
+## CAPÍTULO 2 – CONTROL Y SEÑALIZACIÓN 
+Extracostes de la normativa de Crossrail
+2.1.11 CONDUCIR A VELOCIDAD NORMAL Y CONDUCIR A VISTA
+"Conducir a vista – ROZ" se realiza a una velocidad tal que el responsable del control pueda detener el movimiento con certeza antes de un obstáculo previsto dentro del tramo de vía que puede observar claramente delante de sí.
+2.1.11.1 VELOCIDADES DE LA CIRCULACIÓN A VISTA
+2.1.11.1.2 En circulación general
+MÁXIMO: 20 km/h de noche
+2.2.1.5 CONTROLADA / NO CONTROLADA
+Las señales de parada controladas son señales de parada para las cuales el operario de la señalización o el conmutador debe, en casos determinados, dar una autorización para el cruce en posición cerrada.
+Una señal controlada es y sigue siendo siempre controlada. Puede ser permisiva o no permisiva.
+Las señales de parada no controladas son señales de parada para las cuales el operario de la señalización o el conmutador nunca debe dar una autorización para el cruce en posición cerrada.
+2.2.1.6 PERMISIVA / NO PERMISIVA
+Una señal de parada es permisiva si el conductor puede, por iniciativa propia, cruzar la señal cerrada. Por lo tanto, no se requiere comunicación para poder cruzar la señal.
+Una señal de parada es no permisiva si el conductor necesita una autorización para poder cruzar la señal en posición cerrada. Dicha autorización se entrega en principio por el operario de la señal que controla la señal.
+## CAPÍTULO 3 – AVERÍAS DE INFRAESTRUCTURA Y MATERIAL RODANTE
+1.3.1.2 LA SEÑAL ESTÁ EQUIPADA CON UNA CORONA DE CRUCE O UNA LUZ DE CRUCE ENCENDIDA
+Después de detenerse ante la señal, el conductor cruza la señal sin orden de cruce. Continúa luego su circulación en circulación general y conduce a vista hasta la base de la siguiente señal de parada, incluso si esta última está abierta.
+
+
+## Página 55
+
+
+## Página 56
+
+### Organismo de Investigación de Accidentes e Incidentes Ferroviarios
+http://www.mobilit.belgium.be

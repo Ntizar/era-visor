@@ -10,13 +10,14 @@ chars: 16991
 ratio_longitud: 0.89
 tokens_in: 9427
 tokens_out: 5492
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 2: ratio 1.61", "página 5: ratio 1.66", "página 6: ratio 1.65"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (PT); cifras largas: 1/11", "página 4: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/5; cifras cortas: 2/9", "página 7: original bilingüe: se compara contra el idioma principal (EN)"]
+verificacion: revisar
+avisos: ["página 5: ratio 1.77"]
 ---
+
 ## Página 1
+
 
 RFR 
 TRANSPORTE FERROVIÁRIO 
@@ -158,89 +159,24 @@ n/d || n/a
 Coste de los daños: 
 Coste social de los retrasos y supresiones: 
 1/7 
-RELATÓRIO FACTUAL || INFORME FACTUAL F2021/01     
-
+RELATÓRIO FACTUAL || INFORME FACTUAL F2021/01
 
 ## Página 2
 
-## 2- NOTA SOBRE A INVESTIGAÇÃO 
-## 2- NOTA SOBRE LA INVESTIGACIÓN 
-O processo de investigação foi aberto pelo extinto 
-El proceso de investigación fue abierto por el desaparecido 
-Instituto Nacional do Transporte Ferroviário (INTF), 
-Instituto Nacional del Transporte Ferroviario (INTF), habiéndose 
-tendo o acidente sido notificado à Agência 
-notificado el accidente a la Agencia Ferroviaria Europea y 
-Ferroviária Europeia e aberta a correspondente 
-abierto la entrada correspondiente en la base de datos ERAIL. 
-entrada na base de dados ERAIL. 
-O INTF procedeu à investigação, tendo produzido 
-El INTF llevó a cabo la investigación, produciendo un informe 
-um relatório que transitou para o ex-GISAF, 
-que pasó al antiguo GISAF, constituido entre tanto en 2008. 
-entretanto constituído em 2008. Considerando que 
-Considerando que la investigación no había sido realizada por una 
-a investigação não havia sido realizada por uma 
-entidad independiente, conforme requerido por la Directiva 
-entidade independente, conforme requerido pela 
-Europea relativa a la seguridad ferroviaria, y que el referido 
-Diretiva Europeia relativa à segurança ferroviária, 
-informe no estaba en conformidad con los requisitos legales y las 
-e que o referido relatório não estava em 
-buenas prácticas en esta materia, el dicho informe no estaba en 
-conformidade com os requisitos legais e boas 
-condiciones de ser homologado por el director del antiguo GISAF, 
-práticas nesta matéria, o referido relatório não 
-ni aquel Gabinete disponía de los medios necesarios para la 
-estava em condições de ser homologado pelo 
-realización de una nueva investigación. 
-diretor do ex-GISAF, nem aquele Gabinete dispunha 
-dos meios necessários para a realização de nova 
-investigação. 
-Assim e tendo em conta: 
-Por lo tanto, y teniendo en cuenta: 
-― O facto de a ocorrência não configurar um 
-― El hecho de que el suceso no constituya un 
-“acidente grave”, nos termos do n.º 2 do 
-«accidente grave», en los términos del apartado 2 del 
-Decreto-Lei n.º 393/2007, de 31 de dezembro, 
-Real Decreto-Ley n.º 393/2007, de 31 de diciembre, 
-logo não ser de investigação obrigatória, 
-por lo que no es de investigación obligatoria, 
-― Lacunas no processo existente para dar satisfação 
-― Lagunas en el proceso existente para satisfacer 
-aos requisitos do Manual de Investigação do 
-los requisitos del Manual de Investigación del 
-GPIAAF e às atuais boas práticas neste domínio, 
-GPIAAF y las actuales buenas prácticas en este ámbito, 
-que não se mostra viável colmatar, 
-que no parece viable subsanar, 
-― O tempo entretanto decorrido desde a 
-― El tiempo transcurrido desde el 
-ocorrência, 
-suceso, 
-― O facto de não existirem novos ensinamentos de 
-― El hecho de que no existan nuevos aprendizajes de 
-segurança relevantes a retirar da realização da 
-seguridad relevantes que extraer de la realización de la 
-investigação, 
-investigación, 
-o GPIAAF decidiu encerrar o processo com a 
-el GPIAAF ha decidido cerrar el proceso con la 
-publicação do presente relatório dando conta dos 
-publicación del presente informe dando cuenta de los 
-factos apurados disponíveis e das medidas tomadas, 
-hechos establecidos disponibles y de las medidas adoptadas, 
-para memória futura, não fazendo qualquer análise 
-para memoria futura, sin realizar ningún análisis 
-ou apresentação de conclusões quanto às causas. 
-ni presentación de conclusiones respecto a las causas. 
-Esta metodologia tem o acordo da Agência 
-Esta metodología cuenta con el acuerdo de la Agencia 
-Ferroviária da União Europeia. 
-Ferroviaria de la Unión Europea.
+
+## 2- NOTA SOBRE LA INVESTIGACIÓN
+El proceso de investigación fue iniciado por el desaparecido Instituto Nacional del Transporte Ferroviario (INTF), habiéndose notificado el accidente a la Agencia Ferroviaria Europea y abierto la correspondiente entrada en la base de datos ERAIL.
+El INTF procedió a la investigación, habiendo producido un informe que fue transferido al ex-GISAF, constituido entre tanto en 2008. Considerando que la investigación no había sido realizada por una entidad independiente, conforme requerido por la Directiva Europea relativa a la seguridad ferroviaria, y que el referido informe no estaba en conformidad con los requisitos legales y las buenas prácticas en esta materia, dicho informe no estaba en condiciones de ser homologado por el director del ex-GISAF, ni aquel Gabinete disponía de los medios necesarios para la realización de una nueva investigación.
+Así pues, y teniendo en cuenta:
+― El hecho de que la incidencia no configure un «accidente grave», según lo dispuesto en el apartado 2 del Decreto-Ley n.º 393/2007, de 31 de diciembre, por lo que no es objeto de investigación obligatoria;
+― Las lagunas existentes en el expediente para dar satisfacción a los requisitos del Manual de Investigación del GPIAAF y a las actuales buenas prácticas en este ámbito, que no se muestran viables de subsanar;
+― El tiempo transcurrido desde la incidencia;
+― El hecho de que no existan nuevos aprendizajes relevantes en materia de seguridad que extraer de la realización de la investigación,
+el GPIAAF decidió cerrar el expediente mediante la publicación del presente informe, dando cuenta de los hechos averiguados disponibles y de las medidas adoptadas, para memoria futura, sin realizar ningún análisis ni presentar conclusiones sobre las causas.
+Esta metodología ha contado con el acuerdo de la Agencia Ferroviaria de la Unión Europea.
 
 ## Página 3
+
 
 ## 3- HECHOS INMEDIATOS DEL SUCESO
 ## 3- IMMEDIATE FACTS OF THE OCCURRENCE 
@@ -276,10 +212,10 @@ Figure 1
 Localización del accidente 
 Accident location 
 Ese día el tren n.º 6472 estaba constituido por las Unidades Dobles Diésel (UDD) n.o 459 y 469, formando una composición de cuatro vehículos, y tripulado por un maquinista y dos operadores de revisión y venta (ORV), uno de ellos desempeñando también las funciones de jefe de tren. 
-Según las evidencias recopiladas por la investigación, cuando el tren se aproximaba al PN, el vehículo automóvil cruzaba el PN tras haber rodeado la semibarrera de entrada, que estaba bajada en su posición horizontal, indicando prohibición de cruce.  
-
+Según las evidencias recopiladas por la investigación, cuando el tren se aproximaba al PN, el vehículo automóvil cruzaba el PN tras haber rodeado la semibarrera de entrada, que estaba bajada en su posición horizontal, indicando prohibición de cruce.
 
 ## Página 4
+
 
 Cuando, a unos 60 metros del PN y circulando a 104 km/h, avistó el automóvil cruzando el PN, el maquinista accionó la frenada de emergencia y utilizó el silbato del tren. 
 La colisión se produjo en el lateral derecho del automóvil, habiendo quedado este debajo de la zona de la cabina de conducción del tren y siendo arrastrado por delante hasta la inmovilización, unos 450 metros después del PN. 
@@ -294,164 +230,107 @@ De acuerdo con la información contenida en la ficha de caracterización realiza
 
 ## Página 5
 
-de proteção, a legislação não prevê diferenças entre
-os dois tipos.
-### Lado rodoviário
-### Road side
-O caminho municipal (rua de S. Miguel) atravessa a
-The country road that crosses the LC forms a crossing
-via-férrea através da PN formando um ângulo de
-angle of 90º. Accesses to the railway from both sides
-cruzamento de 90º. De ambos os lados da PN, a via
-are on a short ascending gradient of about 3%. The
-rodoviária sobe ligeiramente em direção à via férrea
-carriageway
-was
-around
-5,00 m
-wide
-with
-formando declive, com cerca de 3% de inclinação. A
-bituminous pavement in a fair to good condition.
-faixa de rodagem tinha cerca de 5,00 m de largura,
-com
-pavimento
-betuminoso
-em
-estado
-de
-conservação razoável a bom.
-O pavimento da PN era constituído por placas de
-The LC's pavement consisted of rubber boards in
-borracha em bom estado de conservação, formando
-good condition, with a width of 6,00 m.
-uma passagem com 6,00 m largura.
-A PN estava equipada com meias barreiras,
-The LC was equipped with half barriers, light and
-sinalização luminosa e acústica (luzes vermelhas
-acoustic signalling (flashing red lights and bells), as
-intermitentes e campainhas), assim como com duas
-well as two warning signs with the inscriptions "STOP
-tabuletas de aviso com as inscrições "PARE ao sinal
-at the red light" (in Portuguese) and indication of the
-vermelho” e indicação de número de telefone para
-phone number to call in case of prolonged wait.
-utilizar em caso de espera prolongada.
-Cada meia barreira estende-se por um pouco mais de
-Each half barrier occupies a little over half of the
-metade da faixa de rodagem da estrada, de forma a
-carriageway, so as to obstruct entrance from the
-constituir obstáculo à entrada na PN pela via de
-running lane. It does not obstruct the opposite lane
-trânsito. Não bloqueia a via do sentido oposto para
-so that vehicles are free to leave the LC and not
-que os veículos não fiquem bloqueados entre
-become trapped inside it.
-barreiras, permitindo assim a sua escapatória.
-Neste tipo de PN automatizada, à aproximação de
-In this type of automated LC, when a train
-uma circulação ferroviária e com a antecedência
-approaches, red flashing lights are turned on, the
-fixada na legislação, os focos luminosos da PN
-bells start ringing, and the half barriers go down
-acendem-se com luz vermelha intermitente, as
-within the delay determined by legislation, imposing
-campainhas começam a tocar, bem como as meias
-an absolute stop to road users.
-barreiras baixam, impondo aos utilizadores da via
-rodoviária a proibição absoluta do atravessamento
-da passagem de nível.
-Distance necessary to allow the triggering of the LC with
-the delay required by Law
-Detectors triggered by the
-Level crossing
-train wheels
-Figura 2
-||
-Figure 2
-Princípio de acionamento da PN
-||
+de protección, la legislación no prevé diferencias entre 
+los dos tipos. 
+### Lado viario 
+### Road side 
+El camino municipal (calle de S. Miguel) atraviesa la 
+The country road that crosses the LC forms a crossing 
+vía férrea a través del PC formando un ángulo de 
+angle of 90º. Accesses to the railway from both sides 
+cruce de 90º. De ambos lados del PC, la vía 
+are on a short ascending gradient of about 3%. The 
+rodoviária sube ligeramente en dirección a la vía férrea 
+carriageway 
+was 
+around 
+5,00 m 
+wide 
+with 
+formando pendiente, con cerca del 3% de inclinación. La 
+bituminous pavement in a fair to good condition. 
+carril tenía cerca de 5,00 m de anchura, 
+con 
+pavimento 
+betuminoso 
+en 
+estado 
+de 
+conservación razonable a bueno. 
+El pavimento del PC estaba constituido por placas de 
+The LC's pavement consisted of rubber boards in 
+goma en buen estado de conservación, formando 
+good condition, with a width of 6,00 m. 
+un paso con 6,00 m de anchura. 
+El PC estaba equipado con medias barreras, 
+The LC was equipped with half barriers, light and 
+señalización luminosa y acústica (luces rojas 
+acoustic signalling (flashing red lights and bells), as 
+intermitentes y timbres), así como con dos 
+well as two warning signs with the inscriptions "STOP 
+señales de aviso con las inscripciones "PARE a la luz 
+at the red light" (in Portuguese) and indication of the 
+roja" e indicación del número de teléfono para 
+phone number to call in case of prolonged wait. 
+utilizar en caso de espera prolongada.  
+Cada media barrera se extiende por un poco más de 
+Each half barrier occupies a little over half of the 
+la mitad del carril de la carretera, de forma que 
+carriageway, so as to obstruct entrance from the 
+constituya un obstáculo para la entrada en el PC por el 
+running lane. It does not obstruct the opposite lane 
+carril de circulación. No bloquea el carril del sentido 
+so that vehicles are free to leave the LC and not 
+opuesto para que los vehículos no queden bloqueados entre 
+become trapped inside it. 
+barreras, permitiendo así su escape. 
+En este tipo de PC automatizada, al aproximarse un 
+In this type of automated LC, when a train 
+tren y con la antelación fijada en la legislación, las 
+approaches, red flashing lights are turned on, the 
+luces del PC se encienden con luz roja intermitente, los 
+bells start ringing, and the half barriers go down 
+timbres comienzan a sonar, así como las medias 
+within the delay determined by legislation, imposing 
+barreras bajan, imponiendo a los usuarios de la vía 
+an absolute stop to road users. 
+rodoviária la prohibición absoluta de cruzar el 
+passage level. 
+Distance necessary to allow the triggering of the LC with 
+Distance necessary to allow the triggering of the LC with 
+the delay required by Law 
+the delay required by Law 
+Detectors triggered by the 
+Level crossing 
+Detectors triggered by the 
+train wheels 
+train wheels 
+Figura 2 
+|| 
+Figure 2 
+Principio de activación del PC 
+|| 
 LC triggering principle
-
 
 ## Página 6
 
-Do lado de onde o veículo rodoviário se havia
-From the side where the car approached there was
-aproximado da PN, existia a sinalização rodoviária de
-the required road signs for approaching the level
-aviso de aproximação a passagem de nível.
-crossing.
-### Lado ferroviário
-### Rail side
-Do lado de aproximação do comboio existia placa
-The trackside whistle sign “S” to the approaching
-indicadora de aviso sonoro “S”.
-train was installed.
-## 5- FUNCIONAMENTO DOS EQUIPAMENTOS
-## 5- FUNCTIONING OF THE EQUIPMENT
-### Sistemas da passagem de nível
-### Level crossing systems
-O relatório do sistema remoto de monitorização da
-The log of the LC's remote monitoring system
-PN, indicou que não foi registada qualquer anomalia
-indicated that there was no anomaly in the
-nos equipamentos, prévia ou posterior ao acidente.
-equipment, prior to the accident.
-Na análise do registador de eventos da PN
-The LC event recorder evidenced that the systems
-verificou-se que os sistemas funcionaram conforme
-worked as expected at the time of the occurrence,
-esperado na altura da ocorrência, tendo o anúncio
-and that the announcement was normally triggered
-sido desencadeado normalmente à aproximação do
-when the train approached, and therefore the light
-comboio, estando, por isso, ativadas as sinalizações
-and acoustic signals were activated, as well as the
-luminosa e acústica, bem como as meias barreiras,
-half barriers lowered, banning the crossing of the LC
-interditando o atravessamento da PN aos veículos
-to road vehicles.
-rodoviários.
-### Material circulante
-### Rolling stock
-O relatório da unidade de registo da UDD 459
-DMU 459 event recorder log shows that it behaved as
-evidencia que o comboio se comportou conforme
-expected.
-esperado.
-A buzina foi atuada durante dois segundos a cerca de
-The horn was sounded for two seconds 58 m before
-58 m da PN. Nesse mesmo instante, a uma
-the LC. At the same instant, at a speed of 104 km/h,
-velocidade de 104 km/h, foi aplicado o freio até ao
-the brakes were fully applied. The train stopped
-aperto máximo. Após a colisão o comboio percorreu
-450 m from the collision.
-cerca de 450 m até se imobilizar.
-A velocidade de aproximação e atravessamento da
-The speed of approach and crossing the LC was below
-PN foi inferior à máxima permitida pelo tipo do
-the maximum allowed, both for the type of train
-comboio (T-120) e pela infraestrutura (110 km/h).
-(T-120) and for the infrastructure (90 km/h).
-## 6- OCORRÊNCIAS ANTERIORES
-## 6- PREVIOUS OCCURRENCES
-De
-acordo
-com
-informação
-do
-gestor
-da
-According to information from the infrastructure
-infraestrutura não se registou nos cinco anos
-manager, there was no accident at the LC in the five
-anteriores ao acidente, nenhum outro acidente na
-years prior to this accident.
-PN.
+
+Del lado por donde el vehículo de carretera se había aproximado al paso a nivel, existía la señalización vial de aviso de aproximación a paso a nivel.
+### Lado ferroviario
+Del lado de aproximación del tren existía placa indicadora de aviso sonoro “S”.
+## 5- FUNCIONAMIENTO DE LOS EQUIPOS
+### Sistemas del paso a nivel
+El informe del sistema remoto de monitorización del paso a nivel indicó que no se registró ninguna anomalía en los equipos, previa o posterior al accidente.
+En el análisis del registrador de eventos del paso a nivel se verificó que los sistemas funcionaron conforme a lo esperado en el momento de la incidencia, habiéndose activado normalmente el anuncio a la aproximación del tren, estando, por tanto, activadas las señalizaciones luminosa y acústica, así como las semibarreras bajadas, prohibiendo el cruce del paso a nivel a los vehículos de carretera.
+### Material rodante
+El informe de la unidad de registro de la UDD 459 evidencia que el tren se comportó conforme a lo esperado.
+La bocina fue accionada durante dos segundos a unos 58 m antes del paso a nivel. En ese mismo instante, a una velocidad de 104 km/h, se aplicó el freno hasta el máximo apriete. Tras la colisión, el tren recorrió unos 450 m hasta inmovilizarse.
+La velocidad de aproximación y de cruce del paso a nivel fue inferior a la máxima permitida por el tipo de tren (T-120) y por la infraestructura (110 km/h).
+## 6- INCIDENCIAS ANTERIORES
+Según información del gestor de la infraestructura, no se registró ningún otro accidente en el paso a nivel en los cinco años anteriores al accidente.
 
 ## Página 7
+
 
 ## 7- MEDIDAS RELEVANTES ADOPTADAS
 ## 7- RELEVANT ACTIONS TAKEN

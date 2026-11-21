@@ -1,6 +1,6 @@
 {
  "md-es/EE/2007/Manniku.24.06.07.md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FI",
   "paginas_revisadas": [
    1,
@@ -10,23 +10,82 @@
    11,
    14
   ],
-  "fidelidad_media": 94.7,
-  "fidelidad_min": 85,
+  "fidelidad_media": 89.0,
+  "fidelidad_min": 78,
   "sin_dictamen": [],
   "terminos": [
-   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'",
-   "Señal 121 traducida como «Vía única» en lugar de «Monorraíl» (original: 'Monorail')",
-   "Señal 222 traducida como «Ceda el paso» en lugar de «Deténgase y ceda el paso» (original: 'Stop and Give Way')",
-   "koljulae- ja põhimikluude hulgimurdudega traducido como 'fracturas múltiples de los huesos frontal y occipital' - 'põhimikluud' es 'hueso esfenoides', no 'occipital'",
-   "pehmekelmealuse verevalumitega traducido como 'hematomas subdurales' - 'pehmekelmealune' se refiere a 'bajo las meninges blandas' (subaracnoideo/subdural), pero la traducción es imprecisa",
-   "Señal 222: 'Peatu ja anna teed' se traduce como 'Ceda el paso', pero la equivalencia normalizada en castellano es 'Deténgase y ceda el paso' o 'Stop y ceda el paso'."
+   "«Directivo sobre la seguridad ferroviaria» debería ser «Directiva sobre la seguridad ferroviaria»",
+   "«tipo de accidente» por «categoría» (kategooria) en la clasificación de la Directiva 2004/49/CE",
+   "'puksitõmbe muljutused' traducido como 'contusiones en los ejes de las ruedas' (debería ser 'aplastamientos/abolladuras del manguito de tracción' o similar, no contusiones)",
+   "'pehmekelmealuse verevalumitega' traducido como 'hematomas subdurales' (el original dice 'subaracnoideos' o 'bajo la duramadre blanda', no subdurales)",
+   "'lumeraua' como 'arado de nieve' es aceptable, pero 'lumeraua kinnituskohad' se traduce de forma redundante",
+   "'vagón motor' por 'juhtvagun' (vagón de cabeza/motor) es aceptable, pero conviene normalizar"
   ],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el punto 7 se omite la referencia a que las categorías y medios de regulación se asignan 'in accordance with the intensity of rail and road traffic' como criterio normativo (la traducción lo reformula como dependencia, no como conformidad con la intensidad)",
+     "En el punto 4 se omite 'motorcar' como término del original al traducirse por 'locomotora' en lugar de automotor"
+    ],
+    "invenciones": [
+     "En el punto 3 se traduce 'passenger' por 'acompañante', añadiendo un rol no presente en el original",
+     "En el punto 4 se introduce 'locomotora' donde el original dice 'motorcar' (automotor)",
+     "En el punto 7 se añade 'de tráfico' en 'accidentes de tráfico' donde el original solo dice 'accidents'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'passenger' traducido como 'acompañante' en lugar de 'pasajero'",
+     "'motorcar' traducido como 'locomotora' en lugar de 'automotor'",
+     "'Monorail' traducido como 'Ferrocarril de vía única' (término no normalizado para la señal 121)"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero con invenciones y errores terminológicos en 'passenger'/'acompañante' y 'motorcar'/'locomotora' que alteran el contenido técnico."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el punto 2) de la lista de categorías de pasos a nivel (el original salta del 1) al 3), pero la traducción también lo omite; no obstante, se indica por completitud de la estructura)",
+     "Se omite la referencia a que el punto 2) existe en la numeración original (aunque no su contenido)"
+    ],
+    "invenciones": [
+     "'se equipara con señalización automática' traduce 'seadistatakse' (se instala/equipa), no 'se equipara'",
+     "'distancia de frenado de emergencia máxima' añade 'de emergencia' no presente en 'pidurdusmaaga' (distancia de frenado)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'se equipara' por 'seadistatakse' (debería ser 'se instala/equipa')",
+     "'mecánico de locomotora' por 'vedurijuht' (maquinista/conducto de locomotora)",
+     "'señalización automática de paso a nivel' por 'ülesõidukoha automaatsignalisatsioon' (correcto pero no normalizado)"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene invenciones ('de emergencia', 'se equipara') y omite la numeración del punto 2) de la lista original."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'Liiklusohutuse seisukohalt on vastavalt varustatud ülesõitu kasutades' (uso de un paso a nivel debidamente equipado) y se sustituye por contenido no presente",
+     "Falta la mención de que el número de accidentes repetidos a lo largo de los años se refiere a 'Aastate jooksul korduvalt toimunud raudteeõnnetuste arv' — presente parcialmente"
+    ],
+    "invenciones": [
+     "'resulta conveniente cerrar algunos de ellos y organizar el tráfico utilizando un paso a nivel construido de forma más segura y dotado en consecuencia' no aparece en el original",
+     "'En el Bosque de Anija' como encabezado de propuestas (el original dice 'Anija metskonnal' como destinatario, no como lugar)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Teadmatus' traducido como 'La desconocimiento' (error de concordancia de género, debería ser 'El desconocimiento')",
+     "'metskond' traducido como 'Bosque' en lugar de 'distrito forestal'",
+     "'Anija metskonnal' mal interpretado como lugar en vez de destinatario de las propuestas"
+    ],
+    "comentario": "La traducción omite una frase clave sobre el uso de pasos a nivel equipados, añade contenido sobre cierre de pasos y confunde 'metskond' (distrito forestal) con 'bosque'."
+   }
+  ],
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2007/Manniku.24.06.07.md"
  },
  "md-es/EE/2007/Hertu.14.04.07[1].md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FI",
   "paginas_revisadas": [
    1,
@@ -36,20 +95,227 @@
    11,
    14
   ],
-  "fidelidad_media": 95.8,
-  "fidelidad_min": 95,
+  "fidelidad_media": 82.5,
+  "fidelidad_min": 55,
   "sin_dictamen": [],
   "terminos": [
-   "Traducción de 'raudteeõnnetus' como 'incidente' en la categoría de la Directiva 2004/49/CE, cuando el original la clasifica como 'õnnetusjuhtum' (accidente), no como 'intsident' (incidente).",
-   "motorcar traducido como 'locomotora' en lugar de 'coche motor' o 'automotor'",
-   "boogie traducido como 'bogie' (correcto en español, pero el original usa 'boogie' que es una variante; no es un error de traducción)",
-   "OTSESED FAKTID JUHTUMI KOHTA traducido como 'Hechos' en lugar de 'Hechos directos sobre el incidente'",
-   "raudteeavariid / rongiõnnetused traducido como 'accidentes ferroviarios / accidentes de trenes' sin distinguir claramente entre 'accidente ferroviario' y 'accidente de tren'",
-   "Liiklushäire traducido como 'Incidencia en la circulación' en lugar de 'Perturbación del tráfico'"
+   "'Tallinn' traducido como 'Tallin' (topónimo no normalizado en castellano; se prefiere 'Tallin' o 'Tallinn' de forma consistente)"
   ],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 78,
+    "omisiones": [
+     "En el punto 8 se omite la mención a la Dependencia de Rapla de la Administración Regional de Carreteras del Norte en el original inglés (aunque aparece en la traducción, no está en el original inglés)",
+     "El original inglés del punto 8 no menciona 'Dependencia de Rapla de la Administración Regional de Carreteras del Norte'; la traducción la añade"
+    ],
+    "invenciones": [
+     "Se añade 'Dependencia de Rapla de la Administración Regional de Carreteras del Norte' en el punto 8, que no figura en el original inglés",
+     "Se traduce 'locomotive trunk' como 'caja del vagón motor' en lugar de mantener la referencia a la locomotora",
+     "Se traduce 'boogie' como 'bogie' (normalización aceptable)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'locomotive trunk' traducido como 'caja del vagón motor' en vez de 'caja de la locomotora'",
+     "'class lights case' como 'caja de luces de clase' (poco normalizado)",
+     "'end cock brackets of the power and brake main' como 'soportes de las llaves de cierre de la tubería principal de alimentación y de frenado' (interpretación dudosa)"
+    ],
+    "comentario": "La traducción es mayormente fiel pero añade una entidad no presente en el original inglés y presenta terminología técnica dudosa en la descripción de daños."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el encabezado 'Mootorvaguni DR1B3711 välisvigastused' (identificación de la unidad motriz DR1B3711)",
+     "Falta el párrafo final del original que comienza 'kui auto hakkas vahetult ülesõidule lähenema, tundus vedurijuhile, et auto hoog' (corte del texto original)",
+     "Falta la referencia 'DR1B3711' como designación del vehículo"
+    ],
+    "invenciones": [
+     "Se añade un extenso relato del maquinista (bocinazo, freno de emergencia a 30-40 m, masa de 158 toneladas, 3 vagones, distancia de frenado de 200 m, inspección del tren, ayudante, asistente de atención al cliente, daños en la locomotora, cable del velocímetro, pérdidas de pintura a 165 cm, bolsa de plástico, 25-30 minutos, etc.) que no aparece en el fragmento original proporcionado",
+     "Se añade 'El tren había salido de Pärnu a las 16.42' — presente en el original, pero se inserta junto a datos no presentes",
+     "Se añade la frase 'ya no perdía velocidad y que el conductor no tenía intención de frenar' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mootorvagun' traducido como 'unidad motriz' en lugar de 'coche motor' o 'automotor'",
+     "'vagunikere' traducido como 'carrocería del vagón' cuando se refiere a la carrocería del coche motor",
+     "'vedurivile' traducido como 'bocina de la locomotora' en un contexto de tren diésel (automotor), no locomotora"
+    ],
+    "comentario": "La traducción incluye un bloque extenso ausente en el original y omite el encabezado identificativo y el final del fragmento, por lo que requiere revisión."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el punto 3.1.6 del original (no existe en el original; la traducción lo añade)",
+     "El original no incluye 3.1.6; la numeración salta de 3.1.5 a 3.1.7"
+    ],
+    "invenciones": [
+     "Se añade el punto 3.1.6 'si se necesita asistencia urgente y de qué tipo', que no figura en el original",
+     "Se completa 3.1.9 con '[texto ilegible/cortado]' donde el original dice 'milliste' (cuáles)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'raudteeavariid' y 'rongiõnnetused' se traducen como 'accidentes ferroviarios' y 'accidentes de trenes', perdiendo la distinción técnica del original",
+     "'liiklushäire' como 'interrupción del tráfico' y 'liiklusseisak' como 'parada del tráfico' no están normalizados; el original distingue matices",
+     "'vedurimeeskond' como 'equipo de conducción' es aceptable, pero 'vedurijuht' como 'maquinista' y 'vedurijuhi abi' como 'ayudante de maquinista' podrían requerir normalización"
+    ],
+    "comentario": "La traducción es fiel en general, pero añade un punto inexistente (3.1.6) y deja incompleto 3.1.9, además de perder matices terminológicos en la distinción de accidentes e interrupciones."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el tramo final de la frase: 'Faktiline pidurdusmaa ei ole kiirusmeeriku ajami...' (la traducción se corta en 'no es la del mecanismo del registrador de')",
+     "Falta la indicación 'km 59' junto a 'pk 2' (la traducción solo dice 'en el pk 59', omitiendo el km y el pk 2)"
+    ],
+    "invenciones": [
+     "'frenada de emergencia' no aparece en el original; el original dice 'kiirpidurdus' (frenada rápida/brusca), no emergencia"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'kiirpidurdus' traducido como 'frenada de emergencia' en lugar de 'frenada rápida/brusca'",
+     "'vagón motor' por 'mootorvagun' es aceptable, pero 'vagun' se traduce como 'vagón' cuando en contexto ferroviario estonio puede ser 'coche'/'unidad'",
+     "'pk' (punto kilométrico) mantenido sin normalizar junto a 'km'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero omite el km 59/pk 2, corta la última frase e introduce 'emergencia' no presente en el original."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase inicial del fragmento original: 'hetkel neist mööda sõites' (al pasar junto a ellos en ese momento) se traduce parcialmente, pero se omite el contexto 'neist' (junto a ellos) en la primera frase",
+     "Falta la frase 'Edelaraudtee AS ha elaborado varias instrucciones y documentos internos' que no aparece en el original; en realidad es una invención, no una omisión",
+     "En el punto 5 se omite la referencia a 'hooldamata heinamaa' (pradera sin mantener) que sí aparece, pero se traduce como 'pradera sin mantener' correctamente"
+    ],
+    "invenciones": [
+     "Se añade 'Edelaraudtee AS ha elaborado varias instrucciones y documentos internos' que no está en el original",
+     "Se añade 'que forman parte del sistema de gestión de la seguridad' como parte de esa frase inventada, aunque el original solo dice 'mis moodustavad osa ohutusjuhtimise süsteemist' sin sujeto explícito"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'liiklusohutuse seisukohalt' traducido como 'desde el punto de vista de la seguridad del tráfico' es aceptable, pero 'liiklusohutus' se normaliza mejor como 'seguridad vial'",
+     "'hoiatusmärkidega' traducido como 'señales de advertencia' correcto",
+     "'Tõkkepuuta raudteeülesõidukoht' traducido como 'Paso a nivel sin barreras' correcto"
+    ],
+    "comentario": "La traducción es en general fiel, pero incluye una frase inventada sobre Edelaraudtee AS y omite el sujeto explícito del original en el último párrafo; las cifras y términos técnicos son correctos."
+   }
+  ],
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2007/Hertu.14.04.07[1].md"
+ },
+ "md-es/EE/2007/Paldiski.08.09.07.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 85.7,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el fragmento sobre el lugar donde se encontraban los objetos: el original dice 'Ülesõidukohale viiva tee ja õnnetuses osalenud veoauto vahelisel alal paiknesid mitmed õnnetusega sinna sattunud esemed' (entre la carretera que lleva al paso a nivel y el camión), la traducción omite la referencia a la carretera y dice 'en el área entre el paso a nivel y el camión'"
+    ],
+    "invenciones": [
+     "'habían sido arrojados allí' no está en el original (original: 'sinna sattunud' = que habían ido a parar allí)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'rescalle' es una errata/invención por 'rescate' (servicio de rescate)",
+     "'conductor de trenes eléctricos' por 'elektrirongijuht' podría normalizarse como 'maquinista de trenes eléctricos'",
+     "'permiso de conducción de locomotoras' por 'vedurijuhiluba' es aceptable pero conviene uniformar con 'licencia de maquinista'"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero contiene una errata ('rescalle'), una invención ('arrojados') y una omisión en la descripción del área de los objetos."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 7' (irrelevante)",
+     "El original menciona 'vagunitevaheliste ühenduste pistikud' y la traducción lo recoge, pero se omite la palabra inicial 'veovõll' como término aislado (se mantiene sin traducir)"
+    ],
+    "invenciones": [
+     "Se añade '(kronsteinid)' entre paréntesis, que no aparece en el original",
+     "Se añade 'laterales' en 'cajas de puertas laterales' cuando el original dice 'parempoolsete uksekarpide' (lado derecho)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'bogías' por 'alusvankrid' (debería ser 'bogies' o 'bogíes', no 'bogías')",
+     "'fusibles automáticos' por 'automaatsidureid' (debería ser 'frenos automáticos' o 'acopladores automáticos', no fusibles)",
+     "'dispositivos de alivio' por 'leevendusaparaate' (término impreciso)"
+    ],
+    "comentario": "La traducción es mayoritariamente fiel y conserva las cifras, pero contiene invenciones menores, términos técnicos mal normalizados y alguna omisión de matiz."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase original 'kiirreageerimisgruppide moodustamine.' como cierre del párrafo inicial",
+     "Falta el encabezado/nombre completo del documento citado en el original antes de 'mis sätestab' (parte del título y referencia de la norma)",
+     "Falta la referencia a la fecha/versión del documento en el punto donde el original menciona 'Ver.03' junto al título (se traslada pero se omite parte del contexto)"
+    ],
+    "invenciones": [
+     "'Mediante la disposición n.º 2.1/23, de 28.05.2003' no aparece en el original",
+     "'desde el 04.09.2006' no aparece en el original",
+     "'el representante de EVR tiene derecho a emitir órdenes obligatorias para su cumplimiento a la tripulación del tren de Elektriraudtee AS' no está en el original (el original solo dice que hay órdenes obligatorias, sin sujeto ni destinatario explícito)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'raudteeliiklusõnnetustest' traducido como 'colisiones de trenes' en lugar de 'accidentes de tráfico ferroviario'",
+     "'rongiliini ärajäämine' traducido como 'cancelación de la línea de trenes' (podría ser 'supresión del servicio de la línea')",
+     "'liikluskorralduse juhiga' traducido como 'jefe de la organización del tráfico' (término no normalizado)"
+    ],
+    "comentario": "La traducción inserta fechas y referencias normativas ausentes, omite frases del original y altera el sentido de varios puntos técnicos, por lo que requiere revisión."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el original: 'Vagunite rööbastele tõstmises osalesid tõstmiseks kasutati Eesti Raudtee 125 t tõstejõuga raudteekraanat' (frase incompleta en el original, pero la traducción añade participantes no mencionados y omite la mención de que la frase original está truncada)",
+     "El original no menciona 'pk 18,091' ni la fecha '30 de enero de 2005 a las 09.11' en el fragmento del incidente anterior; la traducción los introduce"
+    ],
+    "invenciones": [
+     "'empleados del tren de rescate de AS Eesti Raudtee, de las redes eléctricas y de Elektriraudtee AS' no aparece en el original",
+     "'en un paso a nivel de ferrocarril no regulado de categoría III de Paldiski (pk 18,091) el 30 de enero de 2005 a las 09.11' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'tripulación de la locomotora' por 'vedurimeeskond' (equipo de tracción) es aceptable, pero 'maquinista' y 'ayudante de conducción' podrían normalizarse",
+     "'bogie giratorio' por 'pöördvankriga' (bogie orientable) es discutible"
+    ],
+    "comentario": "La traducción añade datos no presentes en el original (pk, fecha y hora del incidente anterior, participantes en la elevación) y omite la mención de la frase truncada sobre la grúa."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta la mención a Elektriraudtee AS en el original (solo aparece AS Eesti Raudtee)",
+     "Falta la frase 'eeskirju ja juhendmaterajale, mis on aluseks ohutusjuhtimise süsteemi loomisele' tal como está redactada (se reformula y se añade contenido)"
+    ],
+    "invenciones": [
+     "Se añade 'Elektriraudtee AS' que no está en el original",
+     "Se añade 'normas internas y documentos de orientación individuales' como sujeto de la frase, cuando el original solo menciona 'eeskirju ja juhendmaterajale'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'raudteeülesõidukoht' traducido como 'paso a nivel' es correcto, pero 'passiandmed' como 'datos del pasaporte' es una traducción literal mejorable (ficha técnica del paso a nivel)",
+     "'ülesõidufooridega' como 'semáforos de paso' es aceptable pero no normalizado"
+    ],
+    "comentario": "La traducción omite el sujeto Elektriraudtee AS del original y añade contenido no presente, además de reformular la frase sobre normas y guías."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/EE/2007/Paldiski.08.09.07.md"
  },
  "md-es/EE/2007/Toila.10.07.07.md": {
   "estado": "revisar",
@@ -62,61 +328,101 @@
    12,
    15
   ],
-  "fidelidad_media": 94.2,
-  "fidelidad_min": 85,
+  "fidelidad_media": 69.3,
+  "fidelidad_min": 0,
   "sin_dictamen": [],
   "terminos": [
-   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'",
-   "reguleerimata raudteeülesõidukohal traducido como 'paso a nivel regulado' en lugar de 'paso a nivel no regulado'",
-   "auto traducido como 'coche' en lugar de 'camión' o 'vehículo'",
-   "raudteekorraldajale traducido como 'coordinador ferroviario' en lugar de un término más normalizado como 'regulador ferroviario' o 'despachador ferroviario'",
-   "rongidispetšerile traducido como 'regulador de trenes' en lugar de 'despachador de trenes'"
+   "'el locomotora TEP-70' (concordancia de género incorrecta)",
+   "'señal de prioridad 222' por 'eesõigusmärk' (señal de prioridad/preferencia; aceptable pero no normalizado)",
+   "'Westagate Transport OÜ' en la traducción frente a 'Westgate Transport OÜ' en el original (nombre propio alterado)"
   ],
   "fallos": [
    {
-    "pagina": 6,
-    "fidelidad": 95,
+    "pagina": 1,
+    "fidelidad": 92,
     "omisiones": [],
     "invenciones": [
-     "La traducción incluye un párrafo adicional con cifras de gastos (751403, 1694727, 19475, 7871 coronas) que no aparece en el fragmento original proporcionado.",
-     "La traducción incluye una sección adicional con la Foto 2 y la descripción de los daños de la locomotora que no aparece en el fragmento original proporcionado."
+     "«Directiva 2004/49/CE del Parlamento Europeo y del Consejo relativa a la seguridad ferroviaria»: el original cita solo «Raudteede ohutuse direktiivi» 2004/49/EÜ, sin mencionar al Parlamento Europeo y al Consejo"
     ],
     "numeros_ok": true,
+    "terminos": [
+     "«Ley del Ferrocarril» por «Raudteeseadus»: término no normalizado; se suele traducir como «Ley de Ferrocarriles»"
+    ],
+    "comentario": "Traducción fiel en cifras y estructura, pero añade una referencia institucional ausente en el original y usa un término legal no normalizado."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 88,
+    "omisiones": [
+     "La traducción no incluye la última frase del original estonio, que queda cortada: 'Trapetsikujulise ala rööbasteega paralleelse haara pikkus' (longitud del lado paralelo a la vía de la zona trapezoidal), aunque el original también está truncado",
+     "No se traduce el encabezado estonio '# 2. OTSESED FAKTID JUHTUMI KOHTA' como tal, sino que se reformula; se pierde la referencia al original estonio"
+    ],
+    "invenciones": [
+     "'colificación' no existe en el original; el original dice 'kokkupõrge' (colisión), no un término inventado",
+     "Se añade 'de tipo Scania' donde el original dice 'Scania tüüpi veoki' (vehículo tipo Scania), lo cual es aceptable, pero 'semirremolque de un camión' introduce 'camión' no explícito en 'veoki poolhaagisega' (semirremolque de vehículo)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'semáforos de tráfico automáticos' por 'automatic traffic lights' / 'reguleerimata' — término no normalizado; en ferrocarril se usa 'señales luminosas automáticas' o 'semáforos automáticos'",
+     "'paso a nivel no regulado' es correcto para 'reguleerimata raudteeülesõidukohal', pero 'semáforos de tráfico automáticos' no es término ferroviario normalizado",
+     "'Delegación de Viru' por 'Viru Department' — 'department' en este contexto es 'departamento' o 'sección', no 'delegación'"
+    ],
+    "comentario": "La traducción es en general fiel y conserva todas las cifras y referencias, pero contiene un término inventado ('colificación'), omite el encabezado estonio y presenta terminología ferroviaria no normalizada en señales y departamentos."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta el inicio del original: 'liiklusintensiivsuseks saadud 2160 sõidukit ööpäevas' aparece reformulado pero se omite el censo de tráfico de 2006 de la Dirección de Carreteras de Viru (introducido en la traducción sin estar en el fragmento original)",
+     "Falta la velocidad máxima de trenes de mercancías 80 km/h y los datos de AS Eesti Raudtee sobre 90 km/h (introducidos en la traducción sin estar en el original)",
+     "Falta el tramo final del original: 'transporditeenistuse kulud õnnetuse tagajärgede' (cortado)"
+    ],
+    "invenciones": [
+     "Se añade 'Según los resultados del censo de tráfico de 2006 de la Dirección de Carreteras de Viru'",
+     "Se añade 'La velocidad máxima permitida para los trenes de mercancías es de 80 km/h y, según los datos de AS Eesti Raudtee'",
+     "Se añade el desglose de gastos: 751403 coronas por suspensión del transporte de mercancías, 1694727 coronas por materiales y mano de obra, 19475 coronas por coordinación y 7871 coronas por gastos administrativos"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'hüdrobreigiga' traducido como 'tratamiento hidrológico' en lugar de 'hidrobrecha/hidrofracturación'",
+     "'rööbastee' traducido como 'vías' cuando debería ser 'vía férrea'",
+     "'klambrid' traducido como 'abrazaderas' (aceptable) pero 'rööpaid ja liipreid ühendavad klambrid' se simplifica"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (censo de 2006, velocidades de trenes, desglose de gastos, párrafo de la locomotora 2TE116) y omite el cierre del original, además de alterar cifras y términos técnicos."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
     "terminos": [],
-    "comentario": "La traducción añade contenido no presente en el fragmento original, probablemente de la página siguiente."
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el punto 3 del original (señales 222, 112 y 121 y la frase sobre el paso a nivel seguro) tal como aparece numerado; en la traducción se fusiona y se renumera como punto 3, pero se omite el fragmento inicial 'varustatud maanteesõidukile eesõigusmärgiga' y la mención de que el paso está en la infraestructura de AS Eesti Raudtee no figura en el original de forma explícita en ese punto",
+     "Falta la frase inicial del párrafo sobre normas internas: 'ettevõttesisesid eeskirju ja sätteid, mis kujunevad ohutusjuhtimise süsteemi osadeks' aparece incompleta en el original y la traducción añade sujeto no presente"
+    ],
+    "invenciones": [
+     "Se añade 'situado en la infraestructura de AS Eesti Raudtee' en el punto 3, que no está en el original",
+     "Se añade 'AS Eesti Raudtee y Westgate Transport OÜ' como sujeto de las normas internas, cuando el original solo dice 'ettevõttesisesid eeskirju'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'semáforos de paso a nivel' por 'ülesõidufoorid' es aceptable, pero 'señal de ceda el paso' para 'eesõigusmärgiga' (señal de prioridad) no es preciso",
+     "'descarrilada' por 'rööbastelt mahaläinud' es correcto, pero se pierde el matiz de 'locomotora que se salió de las vías'"
+    ],
+    "comentario": "La traducción es en general fiel, pero omite parte del punto 3 y añade contenido no presente en el original sobre la infraestructura y los sujetos de las normas internas."
    }
   ],
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2007/Toila.10.07.07.md"
  },
- "md-es/EE/2007/Paldiski.08.09.07.md": {
-  "estado": "aviso",
-  "idioma_origen": "FI",
-  "paginas_revisadas": [
-   1,
-   4,
-   7,
-   10,
-   13,
-   16
-  ],
-  "fidelidad_media": 93.4,
-  "fidelidad_min": 85,
-  "sin_dictamen": [
-   13
-  ],
-  "terminos": [
-   "Traducción incorrecta de 'õnnetusjuhtum' como 'incidente' en lugar de 'accidente' en la clasificación de la Directiva 2004/49/CE.",
-   "raudteetupikute võrgustik traducido como 'red de postes de catenaria' en lugar de 'red de vías muertas' o 'red de toperas ferroviarias'",
-   "Traducción de 'raudteeliiklusõnnetustest' como 'accidentes de circulación ferroviaria' en lugar de 'accidentes de tráfico ferroviario' o 'accidentes ferroviarios'.",
-   "Traducción de 'rongiveeremi vigastustest' como 'daños al material rodante' en lugar de 'daños al material rodante del tren' o 'averías del material rodante'."
-  ],
-  "fallos": [],
-  "fecha": "2026-11-18",
-  "md_es": "md-es/EE/2007/Paldiski.08.09.07.md"
- },
  "md-es/EE/2008/Suigu.03.06.08[1].md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FI",
   "paginas_revisadas": [
    1,
@@ -126,17 +432,117 @@
    12,
    15
   ],
-  "fidelidad_media": 96.6,
-  "fidelidad_min": 95,
-  "sin_dictamen": [
-   12
-  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
   "terminos": [
-   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'"
+   "'Tallin' debería ser 'Tallinn' (nombre oficial de la capital)",
+   "'juhtvagun' traducido como 'vagón piloto' en lugar de 'coche motor/cabina'",
+   "'otsavoolikud' traducido como 'mangueras extremas' (término ambiguo)",
+   "'puhvrilatern' traducido como 'linterna del parachoques' (podría ser 'faro del parachoques')",
+   "'Otsasõit' traducido como 'colisión frontal' cuando el original no especifica frontal",
+   "'liikleja' traducido como 'conductor' en § 170 y § 172, cuando el original distingue 'liikleja' (usuario de la vía) de 'juht' (conductor); en § 174 sí se usa 'juht'/'conductor'"
   ],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la primera frase del original: 'as the end hosepipes and buffer lanterns were smashed.'",
+     "Falta la frase inicial del punto 5 en el original: 'The damages of the master wagon of the passenger train made it impossible to continue the scheduled run.' se traduce parcialmente, pero se omite la referencia a que el tren no pudo continuar el viaje programado (se reformula, no se omite del todo); no obstante, se omite la mención de que el autobús fue llamado al lugar del accidente (se traduce como 'convocado expresamente para ello', equivalente)."
+    ],
+    "invenciones": [
+     "'convocado expresamente para ello' añade 'expresamente', no presente en el original ('called to the place of accident')."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'master wagon' traducido como 'locomotora motriz' en lugar de 'vagón principal' o 'vehículo motor'",
+     "'AVS code reception coil core' traducido como 'viga de la bobina de recepción de códigos AVS' (core = núcleo, no viga)",
+     "'snowplough' traducido como 'arado de nieve' en lugar de 'quitanieves'"
+    ],
+    "comentario": "La traducción omite la primera frase del original y presenta imprecisiones terminológicas en 'master wagon', 'core' y 'snowplough', aunque las cifras y datos esenciales se mantienen."
+   }
+  ],
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2008/Suigu.03.06.08[1].md"
+ },
+ "md-es/EE/2010/Aegviidu.23.12.2010.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   11,
+   21,
+   31,
+   41,
+   51
+  ],
+  "fidelidad_media": 94.8,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'choque' por 'kokkupõrge' (colisión) es aceptable, pero 'descarrilados' para 'rööbastelt maas' podría normalizarse como 'fuera de la vía'",
+   "'oficial operativo' por 'operatiivkorrapidaja' podría normalizarse como 'jefe de operaciones'",
+   "'raudteekorraldaja' traducido como 'gestor de la red ferroviaria' podría no ser el término normalizado; en el original se distingue de 'jaamakorraldaja' (encargado de estación) y 'rongidispetšer' (despachador de trenes)",
+   "'kiirreageerimisgrupid' como 'grupos de respuesta rápida' es aceptable, pero 'kiirregeerimise grupijuht' aparece como 'director regional del grupo de respuesta rápida' añadiendo 'regional' no presente en el original"
+  ],
+  "fallos": [
+   {
+    "pagina": 31,
+    "fidelidad": 96,
+    "omisiones": [],
+    "invenciones": [
+     "Ambas composiciones del tren disponían de equipos de comunicación por radio (el original dice 'Rongikoosseisu mõlemad juhtvagunid' = ambos vagones piloto de la composición, no 'ambas composiciones')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vagón piloto' por 'juhtvagun' (vagón motor/cabina) es aceptable pero no normalizado",
+     "'válvula electoneumática' por 'elektropneumaatiline klapp' (EPK) — traducción laxa del término técnico",
+     "'registrador de eventos' por 'ajamõõtja' (cronómetro/medidor de tiempo) — término no equivalente"
+    ],
+    "comentario": "Traducción fiel en cifras y estructura, pero con una invención sobre 'ambas composiciones' y términos técnicos no normalizados."
+   },
+   {
+    "pagina": 41,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el nombre propio del operador 'Tšehhi Raudtee AS' (se mantiene en estonio, aceptable, pero no se indica equivalencia)",
+     "Se omite la mención de que el tren 6487 realizó la salida 'ettevalmistamata matkaga' como 'sin la maniobra de preparación adecuada' (matk = viaje/marcha, no maniobra)"
+    ],
+    "invenciones": [
+     "'señal de entrada' añadido en la descripción del tren 6482 (el original solo dice 'foorisignaali lubava näiduga')",
+     "'aplicaron el freno de emergencia' cuando el original dice 'kiirpidurdus' (frenado rápido/de emergencia, aceptable pero no literal)",
+     "'PKP Polskie Linie Kolejowe AS' traduce 'Poola Raudteeliinide PKP AS' (equivalencia correcta pero no literal)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'kiirpidurdus' traducido como 'freno de emergencia' en lugar de 'frenado rápido'",
+     "'juhtvagun' traducido como 'coche piloto' (correcto)",
+     "'pöörang' traducido como 'desvío' (correcto)"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero con alguna invención menor ('señal de entrada') y ligera imprecisión terminológica en 'kiirpidurdus'."
+   },
+   {
+    "pagina": 51,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el encabezado 'PÁGINA 51'",
+     "La última frase queda truncada: no se traduce el final 'katkemise' (rotura/desconexión) ni se completa la idea del original"
+    ],
+    "invenciones": [
+     "'estudio de viabilidad' por 'eelprojekt' (proyecto preliminar/anteproyecto), no es lo mismo"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'eelprojekt' traducido como 'estudio de viabilidad' en lugar de 'proyecto preliminar/anteproyecto'",
+     "'liiklusjuhtimissüsteem' como 'sistema de gestión del tráfico' (aceptable) frente a 'sistema de control de tráfico' usado para ETCS, posible inconsistencia",
+     "'vedurifoor' como 'semáforo de locomotora' (término no normalizado; sería 'señal de cabina' o 'indicador de locomotora')"
+    ],
+    "comentario": "Traducción mayormente fiel, pero omite el encabezado y trunca la última frase, además de introducir 'estudio de viabilidad' donde el original dice 'proyecto preliminar'."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/EE/2010/Aegviidu.23.12.2010.md"
  },
  "md-es/EE/2010/Pikkjarve.21.01.10.md": {
   "estado": "revisar",
@@ -149,106 +555,96 @@
    13,
    16
   ],
-  "fidelidad_media": 96.7,
-  "fidelidad_min": 95,
+  "fidelidad_media": 88.0,
+  "fidelidad_min": 78,
   "sin_dictamen": [],
   "terminos": [
-   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'"
+   "'guardafango delantero derecho' y 'guardabarros delantero derecho' traducen ambos 'parem esitiib'/'parem esivelg' sin distinguir tiib (aleta) de velg (llanta/rin), duplicando un término"
   ],
   "fallos": [
    {
-    "pagina": 10,
-    "fidelidad": 95,
-    "omisiones": [],
+    "pagina": 4,
+    "fidelidad": 78,
+    "omisiones": [
+     "No se menciona que el tren de pasajeros n.º 0010 había quedado detenido tras el accidente cerca del siguiente paso a nivel, Ausi (km 394,261), con la parte delantera 6 m más allá del paso a nivel en el lado de Tartu (el original dice 'peatunud 6 m üle ülesõidu Tartu pool', es decir, 6 m pasado el paso a nivel, no 'a 6 m del paso a nivel')",
+     "Se omite la referencia a que el aviso se recibió en la unidad de investigación de accidentes ferroviarios del Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones (la traducción atribuye la remisión al Departamento de Supervisión Técnica sin mencionar la unidad de investigación como destinataria)"
+    ],
     "invenciones": [
-     "La traducción añade 'ante los accidentes ferroviarios ocurridos' al final del texto, mientras que el original termina abruptamente en 'AS EVR Infra infrastruktuuril' sin especificar el tipo de suceso."
+     "Se añade 'El jueves 21 de enero de 2010, a las 09:55' y 'paso a nivel regulado', datos que no aparecen en el original",
+     "Se añade 'de conformidad con la Directiva 2004/49/CE' cuando el original dice '2004/49/EÜ' (referencia correcta pero con formato distinto; no es invención sustantiva)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'semáforo del paso a nivel' por 'foor' (en el original es la señal luminosa del paso a nivel; aceptable, pero conviene normalizar)",
+     "'terraplenes de nieve' por 'lumevallid' (montones de nieve, no terraplenes)",
+     "'marcas de frenado' por 'pidurdusjäljed' (huellas de frenada; aceptable)"
+    ],
+    "comentario": "La traducción añade fecha y hora inexistentes en el original, omite la ubicación exacta del tren respecto al paso a nivel y altera la referencia numérica '6 m üle' por 'a 6 m del'."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "El original dice 'raudteeveerumi otsasõidust raudteel viibinud inimesele' (atropello de una persona que se encontraba en la vía férrea); la traducción lo convierte en 'atropello de un peatón', omitiendo que se trata de cualquier persona presente en la vía",
+     "En el último párrafo el original termina 'reageerimiseks AS EVR Infra infrastruktuuril' sin completar la frase; la traducción añade 'ante los accidentes ferroviarios ocurridos', contenido no presente en el original"
+    ],
+    "invenciones": [
+     "'ante los accidentes ferroviarios ocurridos' en la frase final, no presente en el original",
+     "'peatón' como especificación del tipo de persona atropellada, no presente en el original"
     ],
     "numeros_ok": true,
-    "terminos": [],
-    "comentario": "La traducción es muy completa y fiel, pero añade una especificación al final que no está presente en el fragmento original."
+    "terminos": [
+     "'jaamakorraldaja' traducido como 'regulador de la estación' en lugar de 'jefe de estación' o 'encargado de estación'",
+     "'raudteekorraldaja' traducido como 'gestor de la red ferroviaria' cuando el original distingue el gestor de la infraestructura (raudteeinfrastruktuur) del gestor/coordinador del tráfico ferroviario",
+     "'Päästeamet' traducido como 'Cuerpo de Rescate' en lugar de 'Departamento de Bomberos y Rescate' (nombre oficial estonio)"
+    ],
+    "comentario": "La traducción es mayoritariamente fiel, pero introduce 'peatón' y una coletilla final no presentes en el original y usa términos no normalizados para cargos ferroviarios y organismos estonios."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'Dispetšer teatas, et tee Tartusse on vaba.' en su posición original (aparece fusionada/alterada en el párrafo de las 11:02:56)",
+     "Falta la línea 'hilineb 1 tunni ja 5 minutit.' como línea independiente del original",
+     "Falta el párrafo completo de las 11:02:56 y 11:03:42 en el original (el original no contiene esas horas ni el aviso al representante de AS Edelaraudtee sobre la salida a las 11.02)"
+    ],
+    "invenciones": [
+     "Se añade 'A las 11:02:56, el despachador recibe del maquinista la información de que el tren comenzó a moverse a las 11.02.'",
+     "Se añade 'A las 11:03:42, el despachador informa al representante de AS Edelaraudtee de que el tren salió a las 11.02 y tiene un retraso de 1 hora y 5 minutos.'",
+     "Se añade 'El 01 de febrero de 2007 a las 10.02' y 'tren de pasajeros nº 0210 Tallinn – Valga' y 'Ford' que no figuran en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'haakevagun' (vagón remolcado) traducido como 'vagón de tracción'",
+     "'teekarp' traducido como 'caja de la vía' (término no normalizado; debería ser 'caja de vía' o 'arqueta de vía')",
+     "'gabariit' traducido como 'perfil de carga' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción añade dos párrafos horarios (11:02:56 y 11:03:42) ausentes del original, omite la línea de retraso y altera datos del incidente anterior, además de un error terminológico en 'haakevagun'."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 88,
+    "omisiones": [
+     "Frase del original: 'Seejuures jääb liiklusohutuse seisukohalt oluliseks, et peale otseselt viaduktiga asendatava ülesõidu likvideerimisega on mõttekas lahendada liiklusohutuse probleemid ka mõne kilomeetri kaugusele jäävate teiste ülesõitude sulgemise küsimus.' aparece reformulada y fusionada, perdiendo la estructura original",
+     "En el original, tras 'Raudtee- ja õnnetusjuhtumite ajal koostöö partnerite ja teiste asjaosalistega' hay una frase sobre el sistema de gestión de la seguridad que en la traducción se introduce con 'AS EVR Infra ha establecido...', añadiendo sujeto no presente"
+    ],
+    "invenciones": [
+     "'AS EVR Infra ha establecido un sistema de gestión de la seguridad en la empresa.' no aparece en el original",
+     "'El tráfico ferroviario y el tráfico por carretera son más seguros cuanto menores sean sus puntos de contacto comunes.' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'estado psicosocial' por 'psühho-füsioloogilisest seisundist' (debería ser 'estado psicofisiológico')",
+     "'señalización semafórica automática' por 'automaatse foorisignalisatsiooni' (aceptable, pero no normalizado)"
+    ],
+    "comentario": "La traducción omite y añade contenido en el párrafo sobre el sistema de gestión de la seguridad y altera la estructura de una frase clave, aunque las cifras y referencias se mantienen."
    }
   ],
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2010/Pikkjarve.21.01.10.md"
  },
- "md-es/EE/2013/Raasiku_23.08.13_EE.md": {
-  "estado": "aviso",
-  "idioma_origen": "FI",
-  "paginas_revisadas": [
-   2,
-   6,
-   10,
-   14,
-   18,
-   22
-  ],
-  "fidelidad_media": 94.2,
-  "fidelidad_min": 85,
-  "sin_dictamen": [],
-  "terminos": [
-   "El término 'jätkumuhv' se traduce como 'junta de dilatación', cuando en el contexto ferroviario se refiere a un 'manguito de empalme' o 'manguito de unión' para cables.",
-   "El término 'mootorvagun' se traduce como 'coche motor', que es correcto, pero en el punto 2 se omite la precisión de que el tren estaba 'de paso' (läbisõidul) por la estación, traduciéndose como 'transitaba'.",
-   "jätkumuhv → base de balasto (debería ser 'manguito de empalme' o 'manguito de continuación')",
-   "lumeraua → faldón antiniebla (debería ser 'quitanieves' o 'faldón quitanieves')",
-   "rooliseadmed → dispositivos de dirección (debería ser 'mecanismo de dirección')",
-   "jalgpidur → pedal de freno de servicio (debería ser 'freno de pie')"
-  ],
-  "fallos": [],
-  "fecha": "2026-11-18",
-  "md_es": "md-es/EE/2013/Raasiku_23.08.13_EE.md"
- },
- "md-es/EE/2010/Aegviidu.23.12.2010.md": {
-  "estado": "aviso",
-  "idioma_origen": "FI",
-  "paginas_revisadas": [
-   1,
-   11,
-   21,
-   31,
-   41,
-   51
-  ],
-  "fidelidad_media": 98.2,
-  "fidelidad_min": 95,
-  "sin_dictamen": [
-   31,
-   51
-  ],
-  "terminos": [],
-  "fallos": [],
-  "fecha": "2026-11-18",
-  "md_es": "md-es/EE/2010/Aegviidu.23.12.2010.md"
- },
- "md-es/EE/2014/Raasiku_16.04.14_EE.md": {
-  "estado": "aviso",
-  "idioma_origen": "FI",
-  "paginas_revisadas": [
-   2,
-   7,
-   12,
-   17,
-   22,
-   27
-  ],
-  "fidelidad_media": 91.4,
-  "fidelidad_min": 85,
-  "sin_dictamen": [
-   27
-  ],
-  "terminos": [
-   "urvad suured traducido como 'las ramas gruesas' en lugar de 'amentos grandes' o 'amentos desarrollados'",
-   "autojuhi traducido como 'conductor del coche' en lugar de 'conductor del camión' (el original se refiere al conductor del camión MAN)",
-   "Teede- ja sideministr: traducido como 'Ministro de Carreteras e Infraestructuras' en lugar de 'Ministro de Transportes y Comunicaciones'",
-   "raudteeülesõidu- ja ülekäigukoha: traducido como 'pasos a nivel y pasos elevados ferroviarios' en lugar de 'pasos a nivel y pasos peatonales ferroviarios'",
-   "remondipukile: traducido como 'taller de reparación' en lugar de 'pórtico de reparación' o 'caballete de reparación'",
-   "teerullikule: traducido como 'rodillo de vía' en lugar de 'rodillo compactador de vía' o 'apisonadora de vía'"
-  ],
-  "fallos": [],
-  "fecha": "2026-11-18",
-  "md_es": "md-es/EE/2014/Raasiku_16.04.14_EE.md"
- },
  "md-es/EE/2010/Manniku.16.04.2010.md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FI",
   "paginas_revisadas": [
    1,
@@ -258,18 +654,277 @@
    14,
    17
   ],
-  "fidelidad_media": 95.0,
-  "fidelidad_min": 95,
-  "sin_dictamen": [
-   11,
-   17
+  "fidelidad_media": 89.0,
+  "fidelidad_min": 82,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta la frase sobre la llegada del aviso al Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones dirigido a la unidad de investigación de accidentes ferroviarios (el original dice que el aviso llegó a la unidad de investigación, no solo al departamento)",
+     "Falta la mención de que el contenedor está en la zona verde del lado de las canteras de Liiva (se traduce 'zona ajardinada' pero se omite 'del lado de las canteras')"
+    ],
+    "invenciones": [
+     "'El camión MAN se encuentra bajo las ruedas delanteras del tren diésel' no aparece en el original",
+     "'La longitud del tren diésel es de 127,3 m' no aparece en el original",
+     "'marcas de frenado' (el original dice 'kraapejäljed' = marcas de arañazo/raspado, no de frenado)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'paso a nivel no automatizado' por 'automaatselt seadistamata raudteeülesõidukohal' (paso a nivel sin barreras automáticas) es aceptable pero 'no automatizado' es ambiguo",
+     "'marcas de frenado' por 'kraapejäljed' (marcas de raspado/arañazo) es término incorrecto",
+     "'zona ajardinada' por 'haljasala' (zona verde) es aceptable"
+    ],
+    "comentario": "La traducción omite parte del párrafo sobre la notificación y añade dos frases inexistentes sobre la posición del camión y la longitud del tren, además de traducir erróneamente 'kraapejäljed' como marcas de frenado."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase original 'Raudteeinfrastruktuur ja sõidutee jäid õnnetuse tagajärjel terveks' — sí aparece traducida, no es omisión real; revisar: no hay omisiones de contenido sustantivo detectadas salvo matices"
+    ],
+    "invenciones": [
+     "No se detectan invenciones relevantes; 'auxiliares de viaje' es traducción de 'reisiteenindajat'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vedurimeeskonnale' traducido como 'tripulación de la locomotora' en lugar de 'tripulación de la locomotora' es aceptable, pero 'hingelise tasakaalu saavutamiseks' → 'para recuperar el equilibrio psicológico' añade matiz no literal ('psicológico' por 'espiritual/anímico')",
+     "'veoauto' traducido como 'camión' correcto; 'kabiin ja raam' → 'cabina y chasis' (raam = bastidor/chasis, aceptable)",
+     "'lumeraua' → 'arado de nieve' (correcto)"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero con terminología técnica mejorable y algún matiz añadido en la primera frase."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase original 'Kell 08.16. Teade vedurijuhilt veoauto ettesõidust reisirongile' en su sentido exacto: el original dice 'aviso del maquinista sobre el adelantamiento/irrupción del camión al tren de viajeros', no 'comunicación del conductor del camión sobre la colisión del camión con el tren de viajeros'",
+     "Se omite la indicación de que el tren nº 0042 procedente de Viljandi no pudo continuar y que los pasajeros fueron llevados en autobús a Kiisa; la traducción lo recoge parcialmente pero altera la secuencia"
+    ],
+    "invenciones": [
+     "'Comunicación del conductor del camión sobre la colisión del camión con el tren de viajeros': el original atribuye el aviso al maquinista (vedurijuht) y habla de 'ettesõit' (irrupción/adelantamiento), no de una colisión relatada por el conductor del camión",
+     "'desde Kiisa a Tallin en los trenes nº 0042 y 0230': el original dice que los pasajeros son llevados en autobuses desde Kiisa a Tallin, no 'en los trenes'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vagón motor' por 'mootorvagun' es aceptable, pero conviene normalizar 'automotor' o 'unidad de tren'",
+     "'técnicos de vía' por 'teemehed' es una interpretación; el original se refiere a operarios de vía/mantenimiento",
+     "'pk15' y 'pk 16.02' correctos, pero el original usa 'km15' y 'km 16.02'; no hay cambio de cifra"
+    ],
+    "comentario": "La traducción es en general fiel, pero invierte el sujeto del aviso de las 08.16 y altera la descripción del transporte de pasajeros; requiere revisión."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "El original dice 'vaatamata eesõigusmärgile' (a pesar de la señal de prioridad) y la traducción añade 'señal de prioridad' donde el original solo dice 'eesõigusmärk' en el segundo caso, pero no es omisión grave",
+     "En el original: 'ei olnud peatunud eesõigusmärgi 222 ees' — la traducción mantiene, ok",
+     "Falta la frase final del original: 'Vahetult peale pööret segasid läheneva rongi...' está truncada en el original, pero la traducción añade 'las partes cerradas de la cabina del automóvil dificultaban la visión del tren que se acercaba' que no está en el fragmento original (invención)"
+    ],
+    "invenciones": [
+     "'las partes cerradas de la cabina del automóvil dificultaban la visión del tren que se acercaba' — el original está truncado en 'segasid läheneva rongi' y no contiene ese contenido",
+     "'Carretera de acceso al paso a nivel por parte del camión MAN' — el original solo dice 'Sõidutee veoauto MAN lähenemisel ülesõidukohale' (calzada del camión MAN en la aproximación al paso a nivel), la traducción añade 'de acceso'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'veerand üheksat' traducido como 'antes de las 8:45' — en estonio 'veerand üheksat' significa las 8:45, correcto",
+     "'rööbasteeni' traducido como 'sobre los raíles' — aceptable",
+     "'prožektorite valgusvihk' traducido como 'haz de luz de los faros' — aceptable"
+    ],
+    "comentario": "La traducción es en general fiel, pero añade contenido no presente en el original truncado al final y en el pie de foto, y omite la mención exacta del texto cortado."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el punto 6 se omite la palabra 'veoauto' (camión) en la segunda mención: el original dice 'suuremate gabariitidega veoauto' y la traducción solo dice 'el camión de mayores dimensiones', lo cual es aceptable, pero en la frase siguiente el original especifica 'Auto ja raudtee pikitelg' (eje longitudinal del automóvil/camión) y la traducción usa 'automóvil' en lugar de camión, alterando el referente",
+     "En el punto 7 el original dice 'sõitis ... ülesõidukohale' (circuló hacia el paso a nivel) y la traducción usa 'intersección a nivel', término no normalizado para paso a nivel ferroviario",
+     "En el punto 9 el original dice 'automaatselt seadistamata ülesõidukoht' (paso a nivel no automatizado/no equipado automáticamente) y la traducción dice 'no automatizada', omitiendo el matiz de 'seadistamata' (sin configurar/equipar)"
+    ],
+    "invenciones": [
+     "En el punto 6 la traducción añade 'del tren que se acerca por la derecha' donde el original dice 'paremalt lähenevale rongile' (al tren que se acerca por la derecha), es fiel",
+     "En el punto 7 la traducción dice 'intersección a nivel' donde el original dice 'ülesõidukohale' (paso a nivel), no es invención sino término"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "ülesõidukoht / ülesõidukoht raudteega traducido como 'intersección a nivel' en lugar de 'paso a nivel' (término ferroviario normalizado)",
+     "raudteeülesõidukoht traducido como 'intersección a nivel' en lugar de 'paso a nivel ferroviario'",
+     "automaatselt seadistatud traducido como 'automatizada' en lugar de 'equipado/configurado automáticamente'"
+    ],
+    "comentario": "La traducción es en general fiel pero presenta imprecisiones terminológicas graves en 'ülesõidukoht' (paso a nivel vs intersección a nivel) y en la distinción entre 'seadistatud' y 'reguleeritud', además de alguna omisión menor de matices."
+   }
   ],
-  "terminos": [
-   "Traducción de 'õnnetusjuhtum' como 'incidente' en lugar de 'accidente'"
-  ],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2010/Manniku.16.04.2010.md"
+ },
+ "md-es/EE/2013/Raasiku_23.08.13_EE.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 87.5,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'jätkumuhv' (riel de continuidad/riel de unión) traducido como 'riel de nieve', que corresponde a 'lumerada' (quitanieves/deflector de nieve); se confunde con el quitanieves del tren",
+   "'suruõhu otsavoolik' (manguera de aire comprimido del extremo/acoplamiento frontal) traducido como 'manguera de alimentación de aire comprimido de la parte trasera'",
+   "'lumeraua kohalt' (a la altura del quitanieves) traducido como 'por encima del riel de nieve'",
+   "'vedurimeeskond' traducido como 'La tripulación' en lugar de 'La tripulación de la locomotora'",
+   "'ülesõidu ületaja' traducido como 'infractor del paso a nivel' (añade connotación de infracción no presente en el original)",
+   "'üle täristite' traducido como 'sobre las balatas' (término dudoso; el original se refiere a los resaltes/relieves de la calzada)"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 78,
+    "omisiones": [
+     "En el punto 9 se omite el destinatario 'omastele' (a los propios) y se añaden destinatarios inexistentes; el original no menciona a la Agencia Ferroviaria Europea ni a los familiares de la persona fallecida",
+     "El original dice 'kiirrongi' (tren rápido) y la traducción lo mantiene, pero en el punto 2 el original dice 'diiselrongi mootorvaguni' (coche motor del tren diésel) y la traducción lo convierte en 'locomotora'"
+    ],
+    "invenciones": [
+     "Se añade 'a la Agencia Ferroviaria Europea' como destinatario del informe",
+     "Se añade 'a los familiares de la persona fallecida' como destinatario del informe",
+     "Se añade 'AS' a Edelaraudtee y 'Eesti Liinirongid AS' que no aparecen en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'laugest kurvist' traducido como 'curva pronunciada' cuando significa 'curva suave'",
+     "'mootorvaguni' traducido como 'locomotora' en lugar de 'coche motor'",
+     "'gálibo de construcción' por 'gálibo de construcción' (error ortográfico)"
+    ],
+    "comentario": "La traducción es en general fiel pero contiene invenciones en la lista de destinatarios del punto 9 y errores terminológicos como 'curva pronunciada' por 'curva suave' y 'locomotora' por 'coche motor'."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la fecha de expedición de la licencia de maquinista (18.12.1981) en la frase sobre la prórroga: el original dice 'alates 18.12.1981 ... ja seda on ... pikendatud kuni 21.01.2016', la traducción omite la fecha inicial en la segunda parte",
+     "Falta la mención de que el permiso fue prorrogado por la Oficina de Supervisión Técnica el 21.01.2011 (la traducción solo dice 'hasta el 21.01.2016', omitiendo la fecha de prórroga 21.01.2011)"
+    ],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "'Ohutusjuurdluse Keskus' traducido como 'Agencia de Investigación de Seguridad' en lugar de 'Centro de Investigación de Seguridad' (nombre propio de la institución)",
+     "'Kutsekoda' traducido como 'Cámara de Comercio' en lugar de 'Cámara de Cualificaciones' o 'Cámara Profesional'",
+     "'vedurijuht' traducido como 'maquinista' es aceptable, pero 'vedurijuhi abi' como 'ayudante del maquinista' podría normalizarse como 'ayudante de maquinista'"
+    ],
+    "comentario": "La traducción es fiel en general, pero omite la fecha de prórroga 21.01.2011 y la fecha inicial 18.12.1981 en la frase del permiso, y usa términos institucionales no normalizados."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el nombre propio 'Edelaraudtee AS' presente en el original (la traducción añade 'del grupo Edelaraudtee AS' sin que aparezca en el original)"
+    ],
+    "invenciones": [
+     "'del grupo Edelaraudtee AS' no figura en el original",
+     "'procedimiento común a todas las empresas' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'liiklushäirete' traducido como 'interrupciones del tráfico' es aceptable, pero 'õnnetuste ja rikkumiste' como 'accidentes e infracciones' podría requerir 'incidentes' según la distinción del original",
+     "'avarii' y 'õnnetus' se traducen ambos como 'accidente/incidente' de forma inconsistente: en el apartado V se usa 'accidentes y incidentes' donde el original distingue 'avariide ja õnnetuste'"
+    ],
+    "comentario": "La traducción es en general fiel, pero introduce contenido no presente en el original ('grupo Edelaraudtee AS', 'procedimiento común a todas las empresas') y no normaliza la distinción entre 'avarii' y 'õnnetus'."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta el fragmento inicial del original: '16:27 tagasi Tallinna. Raasikult reisijate edasitoimetamise bussidega dispetšer veel täpsustab.'",
+     "Falta la frase 'Kell 15:23:27' como encabezado independiente (se integra en el párrafo, pero el contenido está)."
+    ],
+    "invenciones": [
+     "'La patrulla de policía está presente, se esperan a los criminalistas. El tren está listo para continuar.' no aparece en el original en ese punto."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'organizador de tráfico de la estación' por 'jaamakorraldaja' (jefe de estación/regulador de estación) es aceptable pero no normalizado",
+     "'centralita' por 'dispetšer' (despachador) es una traducción imprecisa y no uniforme",
+     "'traviesas' (femenino) debería ser 'traviesas' correcto, pero 'entre los traviesas' es error de género"
+    ],
+    "comentario": "Traducción mayormente fiel pero con una omisión inicial, una invención sobre la policía y términos técnicos imprecisos (centralita/dispetšer, gálibo)."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/EE/2013/Raasiku_23.08.13_EE.md"
+ },
+ "md-es/EE/2014/Raasiku_16.04.14_EE.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   17,
+   22,
+   27
+  ],
+  "fidelidad_media": 89.8,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
+  "terminos": [
+   "'raudteeinfrastruktuuri ettevõtjalt' traducido como 'gestor de infraestructura ferroviaria' en lugar de 'empresa de infraestructura ferroviaria'",
+   "'vedurimeeskond' traducido como 'tripulación de locomotora' cuando se refiere a la tripulación del tren diésel",
+   "'vedurijuhile' traducido como 'al maquinista' en la última frase, pero como 'conductor del camión MAN' se confunde el referente: el original distingue conductor de camión (veoauto juht) y maquinista (vedurijuht); la traducción de la penúltima frase atribuye la perspectiva al conductor del camión correctamente, pero la última frase cambia 'auto tuleku suunalt' (dirección de llegada del coche) por 'dirección de aproximación del tren'",
+   "'foor' traducido como 'semáforo' en lugar de 'señal luminosa ferroviaria' (término no normalizado en el contexto de señalización ferroviaria)",
+   "'draisina' sin adaptar al castellano (dresina)",
+   "'señal de mando' para 'signaalmärk' podría ser 'señal indicadora'"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'kolmeteelisel' (de tres vías) en el punto 1: el original dice 'kolmeteelisel aktiivsel asulavälisel Raasiku jaama raudteeülesõidukohal' y la traducción omite 'de tres vías'",
+     "En el punto 7 se omite la palabra 'peateel' en la primera frase: el original dice 'katkes mõlemal peateel täielikult' (en ambas vías principales) y la traducción dice 'en ambas vías principales' pero luego omite la referencia a 'peateel' en la segunda parte",
+     "En el punto 7 se omite 'Reisironge jäi käigust ära 33' se traduce como 'Se cancelaron 33 trenes de pasajeros' pero el original no especifica 'de pasajeros' en esa frase, aunque es inferible"
+    ],
+    "invenciones": [
+     "En el punto 2 se añade 'pronunciada' para 'laugest kurvist' que significa 'curva suave', no pronunciada",
+     "En el punto 5 se traduce 'taastamine ei ole otstarbekas' como 'su reparación no resultaba rentable' cuando significa 'su restauración no es conveniente/razonable'",
+     "En el punto 7 se traduce 'recolocar las vías de los vagones' cuando el original dice 'vagunite rööbastele tõstmiseks' (para volver a poner los vagones sobre las vías)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'laugest kurvist' traducido como 'curva pronunciada' cuando significa 'curva suave'",
+     "'taastamine ei ole otstarbekas' traducido como 'no resultaba rentable' cuando significa 'no es conveniente/razonable'",
+     "'rööbastele tõstmiseks' traducido como 'recolocar las vías de los vagones' cuando significa 'volver a poner los vagones sobre las vías'"
+    ],
+    "comentario": "La traducción es en general fiel pero contiene errores de matiz en términos clave (curva suave/pronunciada, restauración/rentabilidad) y alguna omisión menor de adjetivos descriptivos."
+   },
+   {
+    "pagina": 22,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la fecha, hora y lugar del segundo accidente (domingo, 24 de mayo de 2009 a las 18:35, Vägeva) que no aparecen en el original",
+     "Falta la indicación de que el paso a nivel del segundo accidente era de tres vías y activo (kolmeteelisel aktiivsel)",
+     "Falta la mención de que el segundo accidente ocurrió en un paso a nivel sin barreras automáticas (no se especifica en el original, pero la traducción añade 'regulado automáticamente' que no está)"
+    ],
+    "invenciones": [
+     "Añade 'domingo 24 de mayo de 2009 a las 18:35' y 'Vägeva' que no están en el original",
+     "Añade 'regulado automáticamente' para el segundo paso a nivel, no presente en el original",
+     "Añade 'en zona rural' para el segundo accidente, no indicado en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'mootorvagun' traducido como 'locomotora' en lugar de 'coche motor'",
+     "'haakevagun' traducido como 'vagón de enganche' en lugar de 'vagón remolque'",
+     "'laugest kurvist' traducido como 'curva pronunciada' en lugar de 'curva suave'"
+    ],
+    "comentario": "La traducción añade datos inexistentes (fecha, hora y lugar del segundo accidente) y omite detalles del original, además de cambiar cifras y términos técnicos."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/EE/2014/Raasiku_16.04.14_EE.md"
  },
  "md-es/EE/2017/EE 12.03.2017 Sompa 12.03.17 EE OJK.md": {
   "estado": "revisar",
@@ -282,47 +937,111 @@
    15,
    19
   ],
-  "fidelidad_media": 93.6,
-  "fidelidad_min": 85,
-  "sin_dictamen": [
-   8
-  ],
+  "fidelidad_media": 89.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
   "terminos": [
-   "vedurifooris põleb kollane tuli traducido como 'faro delantero de la locomotora brilla la luz amarilla' en lugar de 'señal de la locomotora' o 'semáforo de la locomotora'"
+   "'Välised asjaolud' traducido como 'Factores externos' en lugar de 'Circunstancias externas'",
+   "'rong' traducido como 'tren' cuando en el contexto estonio se refiere a la locomotora/ferrocarril; 'vedurijuht' como 'maquinista' es aceptable"
   ],
   "fallos": [
    {
-    "pagina": 12,
-    "fidelidad": 85,
+    "pagina": 2,
+    "fidelidad": 88,
     "omisiones": [
-     "En la Tabla 1 falta la columna/valores de la categoría y el producto (solo se traduce el encabezado, no los datos)."
+     "Falta la traducción del fragmento final del original en inglés: 'In' (corte de página, pero el original incluye el inicio de la frase siguiente)"
     ],
     "invenciones": [
-     "Se traduce 'Teede- ja sideministri' como 'Ministro de Carreteras e Infraestructuras', cuando el original dice Ministro de Transportes y Comunicaciones."
+     "'El conductor automático del tren resultó herido' — el original dice 'Rong sai automaatsiduri vigastusi' (el tren sufrió daños en el acoplador automático), no que un conductor resultara herido"
     ],
     "numeros_ok": true,
     "terminos": [
-     "'barreras' debería ser 'barrera' o 'semibarreras' según normativa ferroviaria en castellano.",
-     "'regulador' es ambiguo; en contexto ferroviario se refiere a 'agente de circulación' o 'guardabarrera'.",
-     "'semáforos de paso a nivel' es aceptable, pero 'señales de paso a nivel' sería más normalizado."
+     "'automaatsiduri vigastusi' traducido como 'el conductor automático del tren resultó herido' en lugar de 'daños en el acoplador automático'",
+     "'liikluskorraldusvahenditega' como 'dispositivos de regulación del tráfico' es aceptable, pero se pierde el matiz de 'señalización viaria'"
     ],
-    "comentario": "La traducción es mayormente completa, pero contiene un error institucional y varios términos técnicos ferroviarios no normalizados."
+    "comentario": "La traducción es en general fiel, pero contiene una invención grave sobre daños/heridas en el tren y omite el fragmento final en inglés."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la fecha '15. märtsil' completa en el original (aparece truncada, pero la traducción añade '2017' que no consta en el original)",
+     "No se traduce la frase sobre el estado del tren y la infraestructura de forma fiel: el original dice 'Rong jäi rööbastele, raudteeinfrastruktuur ja signalisatsioonisüsteem töökorda' (el tren permaneció en las vías, la infraestructura y el sistema de señalización en orden), la traducción lo reformula"
+    ],
+    "invenciones": [
+     "'A bordo del tren había dos atendentes de clientes y 56 pasajeros' no aparece en el original",
+     "'2017' añadido a la fecha del 15 de marzo que en el original está incompleta"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'raudteeületuskoht' traducido como 'paso a nivel' es aceptable, pero 'Sompa raudteeületuskohal' se mantiene",
+     "'vedurijuhiluba' como 'licencia de conductor de locomotora' es correcto",
+     "'rongikoosseis nr 2313' traducido como 'tres unidades n.º 2313' altera el sentido (es un tren de tres vagones numerado 2313)"
+    ],
+    "comentario": "La traducción añade una frase inexistente sobre pasajeros y atendentes y altera la fecha del 15 de marzo, además de reformular la frase sobre el estado de las vías."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 12' (irrelevante) ni se omite contenido sustantivo, pero la tabla final queda incompleta: falta el desarrollo de las filas de categorías (no se incluyen los valores numéricos de la tabla, aunque el original tampoco los muestra completos)."
+    ],
+    "invenciones": [
+     "'poste de kilómetro' por 'teepostile' (poste de vía/señal de vía, no necesariamente kilométrico)",
+     "'refugio' por 'süvendile' (depresión/trinchera, no refugio)",
+     "'rodillo de vía' por 'teerullikule' (apisonadora/compactadora, no rodillo de vía)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'ülesõidufoorid' traducido como 'semáforos de paso a nivel' es aceptable, pero se pierde la distinción entre foor (semáforo) y ülesõidufoor (señal luminosa de paso a nivel)",
+     "'teepostile' mal traducido como 'poste de kilómetro'",
+     "'süvendile' mal traducido como 'refugio'"
+    ],
+    "comentario": "La traducción es mayormente fiel y conserva cifras y referencias, pero contiene varios errores terminológicos ferroviarios y alguna invención léxica que afectan a la precisión técnica."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el matiz 'kolmanda' (tercera) señal acústica: la traducción dice 'una tercera señal acústica'... revisar: sí aparece 'tercera'.",
+     "Se omite la coletilla 'vastavalt ettevõttesiseselt sätestatud juhtumite korral' en su estructura exacta: la traducción la reformula como 'procedimientos establecidos internamente para los casos correspondientes', lo que altera el sentido (no es 'procedimientos' sino 'notificación SMS a los destinatarios según lo estipulado internamente para los casos')."
+    ],
+    "invenciones": [
+     "'el operador de tráfico del depósito de Pääsküla ... activó en la empresa la organización del trabajo interna ... mediante la transmisión de la primera notificación por SMS al especialista de tráfico a las 17:38' — el original dice que la primera notificación se transmite al especialista de tráfico a las 17:38 y que con ello se activa la organización interna; la traducción invierte la relación y añade 'por SMS' a la primera notificación, que en el original no se especifica como SMS (el SMS es la notificación a los destinatarios)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tubería principal de freno' por 'pidurimagistraal' (tubería de freno principal / conducto principal de freno): aceptable pero no normalizado.",
+     "'válvula de frenado de emergencia' por 'avariipidurdusklapp': término no normalizado (válvula de freno de emergencia).",
+     "'señal del locomotor' por 'vedurifoor' (semáforo de la locomotora / señal luminosa de la locomotora): 'locomotor' no es el término habitual en castellano ferroviario."
+    ],
+    "comentario": "La traducción es en general fiel y conserva todas las cifras y horas, pero reformula el párrafo final de organización del trabajo invirtiendo la relación causal y añadiendo 'por SMS' a la primera notificación, además de usar varios términos técnicos no normalizados."
    },
    {
     "pagina": 19,
-    "fidelidad": 95,
-    "omisiones": [],
-    "invenciones": [],
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase original 'A las 17:29:40, el maquinista del material rodante redujo la tracción del tren a cero' (17.29.40 annab veeremijuht ... tõukejõu nulli) que no aparece en el original",
+     "Falta la frase '17.29.40 annab veeremijuht ...' no, revisar: el original no contiene esa frase; la traducción la añade"
+    ],
+    "invenciones": [
+     "Se añade 'A las 17:29:40, el maquinista del material rodante redujo la tracción del tren a cero', contenido inexistente en el original",
+     "Se añade 'con un retraso de cinco segundos' donde el original dice 'viiteajaga' (con el tiempo de aviso/retardo habitual), sin especificar cinco segundos"
+    ],
     "numeros_ok": false,
-    "terminos": [],
-    "comentario": "La traducción es completa y fiel, pero contiene un error numérico: 'veerandi kilomeetri' (un cuarto de kilómetro) se tradujo como 'medio kilómetro'."
+    "terminos": [
+     "'veo' o 'salón' para 'salong' (habitáculo del automóvil) es incorrecto; debería ser 'habitáculo'",
+     "'redujo la tracción del tren a cero' no corresponde a ningún término del original",
+     "'freno de emergencia' por 'kiirpidurdus' es aceptable, pero conviene normalizar como 'frenado de emergencia'"
+    ],
+    "comentario": "La traducción es en general fiel, pero introduce una frase inexistente sobre la tracción a las 17:29:40 y añade 'cinco segundos' no presente en el original, además de un término erróneo para 'salong'."
    }
   ],
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2017/EE 12.03.2017 Sompa 12.03.17 EE OJK.md"
  },
  "md-es/EE/2018/Kulna 20.02.18 EE avalik.md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FI",
   "paginas_revisadas": [
    2,
@@ -332,21 +1051,120 @@
    24,
    29
   ],
-  "fidelidad_media": 95.4,
-  "fidelidad_min": 92,
-  "sin_dictamen": [
-   8
-  ],
+  "fidelidad_media": 83.3,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
   "terminos": [
-   "«Paso a nivel superior delante» para la señal 125 no es una traducción normalizada; el original dice 'Ees on raudteeületuskoht' (Paso a nivel delante), no 'superior'.",
-   "«situada al final del tramo común» no refleja fielmente 'ühise posti otsas asuvatest' (situadas en el extremo de un poste común)."
+   "'pidurite defekteerimise' traducido como 'la avería de los frenos' (debería ser 'verificación/inspección de los frenos')",
+   "'ebagabariitsuse kõrvaldamise' traducido como 'eliminación de las dimensiones excesivas' (término no normalizado; mejor 'gálibo excedido')",
+   "'raudteeveeremijuht' traducido como 'conductor del material rodante' en lugar de 'maquinista'"
   ],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 72,
+    "omisiones": [
+     "En el punto 1 se omite la palabra 'raudteeületuskohal' (paso a nivel) como parte de la descripción del lugar, aunque se menciona 'paso a nivel rural Kulna'",
+     "En el punto 2 se omite 'kinnisõidetud lumega' como 'nieve compactada' se mantiene, pero se omite la mención de que el camión circulaba 'aeglaselt' (lentamente) se mantiene; sin embargo se omite 'valgel ajal' (de día) se mantiene",
+     "En el punto 3 se omite 'peas asuva juhtvaguniga' (vagón de cabeza) y se traduce como 'locomotora', omitiendo que es un vagón de mando"
+    ],
+    "invenciones": [
+     "En el punto 1 se añade 'invadiendo la vía' que no está en el original (el original dice 'sõitis ... ette' = se puso delante)",
+     "En el punto 1 se añade 'línea' antes de Riisipere – Tallin, no está en el original",
+     "En el punto 2 se añade 'con grumos' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'juhtvagun' traducido como 'locomotora' en lugar de 'vagón de mando' o 'coche motor', error técnico",
+     "'raudteelast' traducido como 'trabajadores de la ferrocarril' en lugar de 'ferroviarios'",
+     "'aluspõhjused' y 'olemuslikud põhjused' ambos traducidos como 'causas raíz', perdiendo la distinción entre 'causas subyacentes' y 'causas esenciales'"
+    ],
+    "comentario": "La traducción es comprensible pero contiene errores técnicos graves (locomotora por vagón de mando), omisiones de matices y adiciones que alteran el contenido del informe."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se traduce la frase 'Raudteeveeremi juht omab kuni 12.10.2025 kehtivat vedurijuhiluba ja Riisipere – Tallinn raudteelõigul' en su forma original: se añade 'desde 1991' que no aparece",
+     "Se omite la mención de que el permiso es válido 'kuni 12.10.2025' para el tramo Riisipere–Tallinn (se reformula de forma confusa)"
+    ],
+    "invenciones": [
+     "'desde 1991' no aparece en el original",
+     "'locomotora del tren de pasajeros' cuando el original dice 'juhtvaguniga' (coche de cabeza / coche motor)",
+     "'estación principal de Keila – Vasalemma' cuando el original dice 'Keila – Vasalemma peateel' (carretera principal / línea principal, no estación)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'juhtvagun' traducido como 'locomotora' en lugar de coche de cabeza/coche motor",
+     "'peateel' traducido como 'estación principal' en lugar de línea principal o carretera principal",
+     "'semirremolque' para 'haagis' (remolque), aunque el original usa 'haagis' y luego 'poolhaagis'"
+    ],
+    "comentario": "La traducción añade 'desde 1991' inexistente, confunde 'juhtvagun' con locomotora y 'peatee' con estación, y altera la vigencia del permiso."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'Los resultados de la evaluación de los riesgos se utilizan para la toma de decisiones en AS Eesti Raudtee' en el original (aparece solo 'tegemiseks.' truncado)",
+     "Falta el fragmento 'ohutusjuhtimise süsteem' del título de la orden (solo se traduce parcialmente como «Sistema de gestión de la seguridad...»)"
+    ],
+    "invenciones": [
+     "Se añade 'para la explotación de la infraestructura ferroviaria de AS Eesti Raudtee' en el título del sistema, que no aparece en el original",
+     "Se añade 'Los resultados de la evaluación de los riesgos se utilizan para la toma de decisiones en AS Eesti Raudtee', que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'vahejuhtum' traducido como 'incidente' y 'õnnetus' como 'accidente', pero en el original se distingue 'vahejuhtum' (incidente) de 'tehniline juhtum' (suceso técnico); la traducción mezcla 'incidentes' y 'sucesos técnicos' de forma inconsistente",
+     "'ohutegur' traducido como 'factor de seguridad' cuando debería ser 'factor de riesgo/peligro'",
+     "'riskide hindamise' como 'evaluación de riesgos' es correcto, pero 'ohutusjuhtimissüsteem' se traduce como 'sistema de gestión de la seguridad' omitiendo parte del título"
+    ],
+    "comentario": "La traducción es mayormente fiel pero omite e inventa contenido en el título de la orden y en la sección de uso de resultados, además de alterar el número de la orden (1-3.1/23 frente a 1- del original) y confundir términos de incidentes."
+   },
+   {
+    "pagina": 24,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el fragmento 'ühise posti otsas asuvatest hoiatusmärgist' con precisión: se omite 'ühise' (común/compartido) y se traduce 'posti' como 'poste de correo' en lugar de poste de señalización",
+     "Se omite la mención de que el conductor 'valis sobiva sõidukiiruse' (eligió una velocidad adecuada) se mantiene, pero se pierde el matiz de 'tunduvalt väiksem lubatavast' ya incluido; no hay omisión grave de contenido"
+    ],
+    "invenciones": [
+     "'poste de correo común' no está en el original; el original dice 'ühise posti otsas' (en el extremo de un poste común), no un poste de correo"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'poste de correo' por 'post' (poste de señalización) es una traducción errónea",
+     "'Cruce ferroviario adelante' para 125 podría no distinguir 'raudteeületuskoht' de 'raudteeülesõidukoht'",
+     "'parte delantera izquierda' por 'juhipoolse esimese osaga' (parte delantera del lado del conductor) es aceptable pero pierde el matiz de lado del conductor"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero contiene una invención ('poste de correo') y algún término técnico impreciso que requiere revisión."
+   },
+   {
+    "pagina": 29,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'Juht on rongi helisignaali rakendanud ettenähtud ... reageerinud adekvaatselt' en su forma original (el original menciona que el maquinista activó la señal acústica y reaccionó adecuadamente; la traducción añade 'estado de alerta' no presente)",
+     "Falta la mención de que el tren circulaba 'liinil' (en la línea) antes del frenado",
+     "Falta la frase sobre la señal acústica repetida: el original dice 'lülitanud ohu märgates sisse korduva helisignaali'; la traducción lo recoge parcialmente pero omite matices"
+    ],
+    "invenciones": [
+     "'El maquinista activó la señal acústica del tren en el lugar previsto; su estado de alerta era bueno y respondió de manera adecuada a la señal de control de vigilancia' — el original no menciona 'estado de alerta' ni 'señal de control de vigilancia'",
+     "'El tren tenía previsto detenerse oficialmente junto al andén de Kulna' — 'oficialmente' no está en el original; el original dice 'plaaniliselt' (de forma planificada)",
+     "'se produjo una colisión entre el tren y el remolque' — el original dice 'veoki' (camión), no remolque"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'veoki' traducido como 'remolque' en lugar de 'camión'",
+     "'plaaniliselt' traducido como 'oficialmente' en lugar de 'de forma planificada'",
+     "'korduva helisignaali' traducido como 'señal acústica intermitente' — el original se refiere a una señal acústica repetida, no intermitente"
+    ],
+    "comentario": "La traducción omite varias frases del original, inventa datos horarios y técnicos no presentes (horas 9:59, 10:52, 11:16, 12:06; evaluación técnica; bogies), y traduce 'veoki' como 'remolque' en lugar de 'camión', además de alterar cifras y términos clave."
+   }
+  ],
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2018/Kulna 20.02.18 EE avalik.md"
  },
  "md-es/EE/2022/EE-10203 - Ropka 11.03.22 juurdlusaruanne.md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FI",
   "paginas_revisadas": [
    2,
@@ -356,14 +1174,80 @@
    31,
    37
   ],
-  "fidelidad_media": 99.0,
-  "fidelidad_min": 95,
-  "sin_dictamen": [
-   37
+  "fidelidad_media": 90.8,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'signaalimissüteemi' (sistema de señalización) traducido como 'sistema de señalización' es correcto, pero el original contiene una errata; no es defecto de traducción",
+   "'juhtum' traducido como 'incidente' es aceptable, aunque en contextos ferroviarios podría normalizarse como 'suceso'",
+   "'despachador de trenes' por 'train dispatcher' es aceptable, pero 'gestores del tráfico ferroviario' por 'railway traffic managers' no está normalizado; debería ser 'responsables/gestores del tráfico ferroviario' de forma consistente",
+   "'señales de la locomotora' por 'locomotive signal' (señal de la locomotora) puede inducir a error al pluralizar; el original distingue 'locomotive signal' (singular) de 'locomotive traffic light reading'",
+   "Ohutusjuurdluse Keskus traducido como 'Centro de Investigación de Seguridad' en lugar de 'Centro de Investigación de Seguridad Ferroviaria' (término oficial)",
+   "vedurifoor traducido como 'semáforo de cabina' en lugar de 'señal de locomotora'"
   ],
-  "terminos": [],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fallos": [
+   {
+    "pagina": 17,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'Reisiteenindaja' como revisor de viajeros (se usa 'Revisador')",
+     "Se omite la frase 'Rong on ette nähtud' en la descripción de la conformidad (no relevante)",
+     "No se especifica que el bloque automático es de 'läbisõidufooridega' (señales de paso) de forma explícita en algunos matices"
+    ],
+    "invenciones": [
+     "'Conductor' para 'Veokijuht' (en estonio es jefe de tren/maquinista, no conductor de autobús)",
+     "'señales de paso' podría ser una interpretación no literal de 'läbisõidufooridega'",
+     "'señal de la locomotora' en lugar de 'faro de locomotora' (vedurifoor)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Reisiteenindaja' traducido como 'Revisador' en lugar de 'revisor de tren' o 'interventor'",
+     "'Veokijuht' traducido como 'Conductor' cuando debería ser 'jefe de tren' o 'maquinista'",
+     "'vedurifoor' traducido como 'señal de la locomotora' en lugar de 'faro de locomotora'"
+    ],
+    "comentario": "La traducción es mayormente fiel en cifras y estructura, pero contiene imprecisiones terminológicas en roles ferroviarios y señales, y alguna omisión menor."
+   },
+   {
+    "pagina": 24,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea inicial 'Liinirongidele ohutusloa.' (licencia de seguridad para Liinirongid) tal como aparece al comienzo del original",
+     "Falta la línea 'väljastatud ohutusluba.' tras la mención de Kutsekoda",
+     "Falta la fila de tabla 'Ropka ülesõidukoha juurdepääsutee Ülenurme - Külitse' como fila independiente (se integra en prosa, pero se pierde la estructura tabular)"
+    ],
+    "invenciones": [
+     "Se añade 'La Agencia de Protección al Consumidor y Supervisión Técnica' como sujeto que expide la licencia, cuando el original solo dice 'Liinirongidele ohutusloa' sin mencionar dicha agencia",
+     "Se añade una segunda frase 'La Agencia de Protección al Consumidor y Supervisión Técnica ha expedido a AS Eesti Raudtee la licencia de seguridad' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'raudteeseaduse ja kutseseaduse' traducido como 'Ley Ferroviaria y Ley Profesional' (kutseseadus es la Ley de Cualificaciones Profesionales)",
+     "'Sihtasutus Kutsekoda' traducido como 'Fundación Kutsekoda' (aceptable, pero no normalizado)",
+     "'ülesõidukoht' como 'paso a nivel' es correcto; 'kõrvalmaantee' como 'carretera secundaria' es aceptable"
+    ],
+    "comentario": "La traducción es fiel en el cuerpo técnico, pero omite las líneas iniciales sobre la licencia de Liinirongid y añade una frase inexistente atribuyendo la licencia a la Agencia de Protección al Consumidor."
+   },
+   {
+    "pagina": 37,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la mención a las fuentes de datos 'sistemas de gestión del tráfico de AS Eesti Raudtee y de VEPS de AS Eesti Liinirongid' que no aparecen en el original (aunque es invención, no omisión)",
+     "El original dice 'andmete põhjal järeldub' sin especificar sistemas; la traducción añade fuentes"
+    ],
+    "invenciones": [
+     "Se añade 'Sobre la base de los datos de los sistemas de gestión del tráfico de AS Eesti Raudtee y de VEPS de AS Eesti Liinirongid' que no está en el original",
+     "Se traduce 'teefooride' como 'semáforos de carretera' cuando debería ser 'semáforos de vía'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'rööbasahelate šunteerimine' traducido como 'circuito de vía de las vías' (redundante e impreciso; debería ser 'derivación de circuitos de vía' o 'shuntado')",
+     "'vedurifoor' traducido como 'semáforo de cabina' (aceptable) pero 'teefoorid' como 'semáforos de carretera' es incorrecto; debería ser 'semáforos de vía'",
+     "'mootori veo välja' traducido como 'cortó el tracción del motor' (error gramatical y de término; debería ser 'cortó la tracción del motor')"
+    ],
+    "comentario": "La traducción es mayormente fiel pero introduce una fuente de datos no mencionada en el original y confunde 'teefoorid' (semáforos de vía) con 'semáforos de carretera'."
+   }
+  ],
+  "fecha": "2026-11-20",
   "md_es": "md-es/EE/2022/EE-10203 - Ropka 11.03.22 juurdlusaruanne.md"
  }
 }

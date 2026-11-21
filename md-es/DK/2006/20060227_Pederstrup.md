@@ -1,0 +1,181 @@
+---
+pais: DK
+anio: 2006
+idioma_origen: DA
+md_origen: md/DK/2006/20060227_Pederstrup.md
+md5_origen: a852f4ea7a728c4d820bdcdbf666e44e
+modelo: mimo-v2.6-flash
+bloques: 2
+chars: 15947
+ratio_longitud: 1.19
+tokens_in: 6195
+tokens_out: 4507
+verificacion: ok
+fecha_proceso: 2026-11-21
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Comisión de Investigación de Accidentes
+Informe
+22 de enero de 2007
+Expediente:
+N.º de registro:
+610-000032
+DDS
+Colisión entre un tren y un camión en Pederstrup el 27 de febrero de 2006
+Las investigaciones han sido realizadas por la Comisión de Investigación de Accidentes de la Aviación Civil y los Ferrocarriles (Comisión de Investigación de Accidentes) de acuerdo con la Ley de Ferrocarriles, según el Decreto n.º 1171 de 2 de diciembre de 2004 de la Ley de Ferrocarriles, con las modificaciones posteriores, así como el Decreto n.º 1169 de 29 de diciembre de 1999 sobre la investigación de incidentes de seguridad en los ferrocarriles.
+Tras la realización de las investigaciones preliminares y la evaluación de los datos disponibles relativos al accidente ferroviario mencionado a continuación, la Comisión de Investigación de Accidentes ha llegado a la conclusión de que investigaciones adicionales no conducirán a recomendaciones adicionales de carácter preventivo ni revelarán circunstancias de importancia significativa para la seguridad ferroviaria.
+1
+Investigaciones
+1.1
+El incidente
+El lunes 27 de febrero de 2006 a las 13.23 h, el tren 2840 de DSB salió puntualmente de Årslev con destino desde Odense hacia Svendborg. Al mismo tiempo, un camión con remolque estaba realizando un giro a la izquierda en Pederstrup. El acceso por el que el camión debía subir discurría paralelo a la vía férrea a pocos metros del paso a nivel 39, lo que significaba que el conductor debía iniciar el giro a la izquierda antes de que el camión quedara completamente libre del paso a nivel.
+El conductor tenía problemas para girar en movimiento. Antes de que el conductor maniobrara el conjunto de vehículos en el acceso, el equipo del paso a nivel (luces intermitentes y barreras) se activó, y una de las barreras cayó sobre el techo del remolque del camión. Al conductor y a su ayudante les quedó rápidamente claro que no podían retirar el camión de la vía [la parte trasera del remolque estaba en medio del paso a nivel] de inmediato, por lo que salieron corriendo y agitaron las manos advirtiendo del paso del tren. El maquinista vio a las personas y frenó de emergencia; sin embargo, no pudo evitarse la colisión.
+Tras la colisión, el tren continuó aproximadamente una longitud de tren y se detuvo con la parte trasera libre de la carretera. El remolque del camión yacía volcado de lado junto a la parte trasera del tren. El tren había descarrilado en el primer bogie opuesto al camión.
+1.2
+Datos
+El tren 2840 estaba compuesto por el MQ 4922, propiedad de DSB (empresa ferroviaria). El maquinista estaba empleado en DSB.
+La línea —incluidas las señales y el equipo del paso a nivel— es propiedad de y está operada por Banedanmark (gestor de la infraestructura ferroviaria).
+La Dirección de Carreteras es responsable de las señales orientadas a la carretera. Después del accidente, se ha instalado un cartel de prohibición (n.º C11,2) que prohíbe los giros a la izquierda de los camiones por el acceso por el que el camión no pudo subir.
+El camión era de propiedad alemana con conductor alemán. El conductor del camión no conocía la zona.
+Le seguía un turismo con un ayudante que conocía la zona.
+En el momento del suceso el tiempo estaba despejado con sol, que podía molestar al maquinista al conducir en dirección sur. Por ello, había bajado el toldo solar 1/3.
+
+
+## Página 2
+
+### 1.2.1 
+### Daños
+Un pasajero del tren resultó levemente herido. Además, no se produjeron daños personales en la colisión.
+Se produjeron daños considerables en el remolque del camión.
+El MQ 4922 resultó gravemente dañado. Todo el lado izquierdo del tren fue aplastado por el remolque, por lo que, entre otras cosas, se destruyeron los cristales.
+Se produjeron daños considerables en el equipo del paso a nivel; entre otras cosas, se destruyeron un accionamiento de barrera, una señal de carretera y equipo de relés.
+### 1.2.2 
+### Registro de averías del MQ 4922
+La revisión del registro del tren muestra, entre otras cosas, que el tren circulaba a una velocidad de 97 km/h hasta que se inició la frenada de emergencia unos 180 metros antes del paso a nivel.
+La velocidad del tren en el momento de la colisión se estima en 55 km/h.   
+### 1.3 
+### Paso a nivel 39
+El paso a nivel n.º 39 se encuentra en el punto kilométrico 17,466 de la línea, en el municipio de Pederstrup, entre Årslev y Ringe. El paso a nivel está protegido con un sistema automático de señal de aviso con barreras a media altura y señales luminosas hacia la carretera; hacia el tráfico rodado se ha instalado además la señal de tráfico A 74.1 en el lado derecho de la carretera vista en la dirección de circulación y la señal de carretera Z III en ambos lados de la carretera.
+El sistema es un sistema de relés.
+Hacia el tren se han instalado una señal de anomalía, la señal del paso a nivel y una marca de flecha. El paso a nivel es un sistema de vía libre sin dependencia del sistema de enclavamiento o similar.
+La señal SR 11.5 («marca de flecha») está situada a 1.050 m del paso a nivel. La visibilidad de la señal del paso a nivel desde la marca de flecha es de más de 450 m, lo que está en consonancia con la normativa vigente.
+No se han instalado detectores de espacio libre en el paso a nivel. Dichos detectores podrían evitar que las barreras bajen mientras se detecta un vehículo en el paso a nivel.
+### 1.3.1 
+### Funcionamiento
+Cuando un tren, al pasar por el punto de activación, activa el equipo del paso a nivel (aquí al pasar por el punto de activación en el km 15.016, a 2450 metros del paso a nivel frente a los 1850 m requeridos), comienzan a sonar las campanas y se encienden las luces intermitentes de aviso a los automovilistas; a los 7 segundos comienza el descenso de las barreras. Solo cuando ambas barreras están en posición horizontal, la señal del paso a nivel puede mostrar «paso a nivel protegido».
+### 1.4 
+### Testigos
+Los testigos han declarado haber observado que una de las barreras estaba bajada y había un destello rojo hacia el tráfico rodado —la otra barrera colgaba del techo del remolque— antes de que llegara el tren.
+
+
+## Página 3
+
+### 1.5 
+### Registro
+El registro de información sobre el estado del equipo del paso a nivel del sistema de mando a distancia muestra, entre otras cosas, que el paso a nivel 39 salió de la posición normal inmediatamente después de que el tren abandonara la estación de Årslev (se activó de acuerdo con la ubicación del contacto de activación en el km 15.016).
+### 1.6 
+### Dirección de Carreteras
+El tipo de remolque con el que circulaba el camión alemán era de un tipo prácticamente desconocido en Dinamarca1. Tenía una disposición especial de doble eje que afecta a la necesidad de espacio para el giro.
+La Dirección de Carreteras, después del accidente, ha medido las líneas de la carretera y ha realizado un cálculo de necesidad de superficie que demostró que, con la configuración actual del vehículo, en ningún caso podía realizarse un giro a la izquierda desde la carretera nacional y bajar por la carretera privada compartida en un solo movimiento de giro. Se requieren al menos dos movimientos de giro.
+Según la Dirección de Carreteras, la carretera paralela con su correspondiente salida se encuentra en terreno de Banedanmark, y la salida no está inscrita en el registro de la propiedad. Esto significa, entre otras cosas, que los responsables de la carretera no han tenido ocasión de evaluar la conexión carretera, incluidas las curvas de necesidad de superficie.
+El paso a nivel fue reformado por última vez en 2002 – 2003. En esa ocasión se actualizó de 100 km/h a una velocidad de línea (ferrocarril) de 120 km/h. La Dirección de Carreteras informa de que no se ha realizado una evaluación de seguridad respecto a las condiciones de tráfico modificadas (lado del tren respecto al lado de la carretera), ya que la Dirección de Carreteras solo tuvo conocimiento del proyecto después de que se hubiera ejecutado.  
+Señales y marcas
+Å Dirección de circulación de derecha a izquierda Å
+Elementos
+AM-3181
+MQ
+Ovk-39
+Anomalía
+Parada
+Frenada de emergencia
+Marca de distancia
+Señal F
+Señal Ovk Inicio móvil Marca de flecha Punto de activación
+Pto. kilom. de la línea 18.071
+17.508
+17.466
+17.451
+17.328
+17.246
+16.866
+16.416
+15.016
+Pto. kilom. del registro H
+246.670
+246.628
+246.613
+246.490
+245.060
+246.028
+245.910
+245.578
+Hora del registro H
+13:27:29
+13:26:59
+Resumen cronológico orientativo
+Al circular de Årslev a Pederstrup, el maquinista debe observar y reaccionar a:
+1. Marca de flecha (marca 11.5) 
+2. Señal del paso a nivel  
+3. Señal F 
+1 La Dirección de Carreteras, por esa razón, no dispone de curvas de necesidad de superficie para este tipo de conjunto de vehículos. La necesidad de superficie en el giro se ha calculado a partir de valores intermedios entre un tren de remolques y un camión con remolque. 
+
+
+## Página 4
+
+4. Marca de distancia (marca 17.1.2) 
+5. «Andén en la parada» (marca 17.7) 
+6. Señal de anomalía. 
+La señal F, que preseñaliza la señal AM 3181 (entre Pederstrup y Ringe), está situada a la izquierda de la vía entre la señal del paso a nivel y el propio paso a nivel. La señal es visible inmediatamente antes de que el tren pase la señal del paso a nivel. Es decir, el maquinista puede ver la señal del paso a nivel al mismo tiempo que puede ver la señal F.
+Cuando el tren 2840 pasó la señal del paso a nivel, esta mostraba, según el registro del sistema de mando a distancia, «paso a nivel no protegido»; al mismo tiempo, la señal F mostraba destello verde, lo que significaba que la AM 3181 mostraba «circule» a alta velocidad o «circule sin detenerse», lo que informaba al maquinista de que había paso libre hasta la siguiente señal principal (la señal AM al otro lado del paso a nivel).   
+A la derecha de la vía —frente a la señal F— hay una marca de distancia que, para el maquinista, indica que faltan 800 m para la AM 3181, e inmediatamente después hay una marca para «andén en la parada». A 15 m antes del paso a nivel hay una señal de anomalía que es visible para el maquinista cuando sale de la curva.
+Es decir, que el maquinista, después de haber pasado la señal del paso a nivel, debería observar y atender a 2 marcas y 2 señales antes de llegar al paso a nivel.
+Señal F antes de la parada de Pederstrup, poco después de la señal del paso a nivel
+### 1.7 
+### Teléfono móvil
+Hasta poco antes del accidente, el maquinista hablaba por teléfono móvil. Según las normas de DSB, estaba permitido que el maquinista hablara por teléfono móvil bajo su propia responsabilidad, según se indica a continuación. La Comisión de Investigación de Accidentes no se ha pronunciado sobre si la conversación era profesional o privada, ni sobre qué teléfono móvil se utilizó. En esta investigación se ha evaluado exclusivamente en qué medida estaba permitido, y qué carga puede suponer una conversación respecto a la concentración y la observación de señales.
+
+
+## Página 5
+
+### Normas de DSB2  
+### 1.7.1 
+«En las cabinas de conducción vigiladas, el teléfono móvil solo puede utilizarse cuando pueda hacerse sin riesgo para la seguridad, y el maquinista es el único responsable de que su uso sea seguro y justificado. Los mensajes de texto e imágenes solo pueden leerse, escribirse y enviarse cuando el tren está detenido.»
+### 1.7.2 
+### Uso del teléfono móvil
+La política de DSB para el uso del teléfono móvil se basa en una evaluación de riesgos realizada internamente en DSB. No está documentado si y en qué medida DSB ha evaluado cómo las conversaciones telefónicas afectan a la capacidad de los maquinistas para conducir trenes de forma segura simultáneamente (observación, tratamiento y reacción ante señales).  
+### 1.8 
+### ATC/Parada de trenes ATC
+La línea está equipada con un sistema de parada de trenes ATC. Se estableció en relación con la actualización de velocidad mencionada anteriormente. La parada de trenes ATC es un sistema para —especialmente— evitar colisiones entre trenes. No se conocen planes actuales de ampliar la parada de trenes ATC para que también esté conectada al equipo del paso a nivel con el fin de evitar colisiones entre automóviles y trenes en los pasos a nivel cuando estos no estén protegidos durante el paso de un tren.
+Un sistema de parada de trenes conectado al paso a nivel podría, con cierta probabilidad, haber evitado el accidente.
+### 2 
+### Evaluación de la Comisión de Investigación de Accidentes
+La Comisión de Investigación de Accidentes, en el marco de las investigaciones, ha recorrido la línea, entre otras cosas, y considera que el sol intenso y el toldo solar bajado no influyeron en el accidente.  
+La Comisión de Investigación de Accidentes evalúa además que no se ha realizado una evaluación suficiente de la carga cognitiva como para permitir el uso del teléfono móvil simultáneamente a la conducción del tren. Además, cabe señalar que la formación de maquinista no incluye contenido que permita a un maquinista evaluar cuándo puede tener lugar una conversación telefónica «sin riesgo para la seguridad».
+La evaluación debe contemplarse desde la perspectiva de la carga visual a la que está sometido un maquinista cuando, a velocidades de, por ejemplo, 120 km/h, observa marcas y señales con información disponible simultánea que no concuerda —luz amarilla fija en la señal del paso a nivel (donde podría esperarse blanco intermitente) simultáneamente con verde intermitente en la señal F.  
+Simultáneamente a cierta atención a la conversación telefónica, no puede descartarse que el maquinista también pudiera haberse visto distraído por la indicación «positiva» de la señal F, lo que significaba que la señal principal correspondiente —la señal AM 3181— debía presumirse que mostraría «circule» a alta velocidad o «circule sin detenerse» (señal SR 7.2.3.).   
+2 En el momento del accidente. Las normas han sido modificadas posteriormente, de modo que está prohibido hablar por teléfono móvil durante la conducción.
+
+## Página 6
+
+### 3
+### Conclusión
+La Comisión de Investigación de Accidentes concluye, sobre la base de los elementos disponibles, que, entre otros, los siguientes hechos han tenido o pueden haber tenido influencia en la ocurrencia y el desarrollo del accidente (no en orden de prioridad):
+−
+No se había realizado una evaluación de qué tipos de trenes con vehículos de giro a la izquierda podía manejar la geometría de la entrada.
+−
+El maquinista hablaba por teléfono móvil al tiempo que debía realizarse la observación de señales.
+−
+La observación del maquinista de la luz amarilla fija en la señal de paso a nivel quedó distraída por la indicación "positiva" de la señal F.
+−
+El paso a nivel no estaba conectado a un sistema de detención de trenes.
+### Recomendaciones de seguridad3
+### 4
+### 4.1
+### Recomendaciones
+La Comisión de Investigación de Accidentes recomienda:
+1. que la Autoridad de Transporte (Trafikstyrelsen) analice si es defendible permitir el uso del teléfono móvil al tiempo que deba realizarse la observación de señales y/o otras funciones de conducción relacionadas con la seguridad – y que, posteriormente, se adopten medidas que correspondan al resultado del análisis.
+2. que la Autoridad de Transporte (Trafikstyrelsen) analice las ventajas en materia de seguridad ferroviaria de que los pasos a nivel en tramos con sistemas de detención de trenes se incorporen generalmente4 a dichos sistemas – y que, posteriormente, se adopten medidas que correspondan al resultado del análisis de la Autoridad de Transporte (Trafikstyrelsen).
+3 Dado que el informe parte de la situación en el momento del suceso, en la elaboración de las recomendaciones no se ha tenido en cuenta, en general, si determinados hechos han sido corregidos o se encuentran en proceso de corrección. El orden no expresa una priorización.
+4 Actualmente, solo los pasos a nivel con marca O son supervisados – indirectamente –, siempre que se encuentren en dependencia de una señal principal cubierta por ATC.

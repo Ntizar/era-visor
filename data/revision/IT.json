@@ -1,0 +1,504 @@
+{
+ "md-es/IT/2005/RELAZIONE-031205.md": {
+  "estado": "aviso",
+  "idioma_origen": "IT",
+  "paginas_revisadas": [
+   2,
+   8,
+   15,
+   22,
+   29,
+   36
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "Raccordamento: término italiano no traducido; debería ser 'Conexión' o 'Enlace'",
+   "rodado: 'material rodante' traducido de forma inconsistente ('rodado' en 5.3 y 5.4 frente a 'material rodante' en 2.1.4 y 5)",
+   "Premesse traducido como 'Antecedentes' en lugar de 'Premisas'",
+   "'rilievi celerimetrici' traducido como 'mediciones topográficas' en lugar de 'nivelaciones taquimétricas' o 'mediciones celerimétricas'",
+   "'segnale basso' traducido como 'señal baja' (aceptable pero no normalizado; término técnico ferroviario: 'señal baja'/'señal de salida')",
+   "'Consultores Técnicos de Oficina' por 'Consulenti Tecnici di Ufficio' (perito judicial) — aceptable pero no normalizado"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2005/RELAZIONE-031205.md"
+ },
+ "md-es/IT/2008/Potenza 08.08.08 SENZA nomi.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   3,
+   5,
+   7,
+   9,
+   11,
+   13
+  ],
+  "fidelidad_media": 87.7,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "manovratore/manovratori traducido como 'manipulador' en lugar de 'encargado de maniobras'",
+   "manovrata traducido como 'manipulado' en lugar de 'maniobrado'",
+   "manovra traducido como 'maniobra' (correcto) pero 'operazione di manovra' como 'operación de maniobra' (aceptable)",
+   "tradotta traducido como 'tren' en lugar de 'tren de maniobras'",
+   "P.M. traducido como 'Juez de Instrucción' en lugar de 'Ministerio Fiscal' (Pubblico Ministero)",
+   "dr.ssa Piccininni traducido como 'dra. Piccininni' cuando el original usa 'dr.ssa' (abreviatura de dottoressa)"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 78,
+    "omisiones": [
+     "El texto original queda truncado en 'personale comandato allo sblocco della' y la traducción añade una frase completa que no aparece en el original",
+     "No se recoge la línea final ilegible del original ('Ì', 'ni iz azz cai ——_—a—— ET', 'de ai')"
+    ],
+    "invenciones": [
+     "'dispositivo de frenado de vagones que protege la vía del sistema de ramal' no aparece en el original",
+     "'andén' como traducción de 'piazzale' (se inventa un matiz de plataforma de viajeros)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'piazzale' traducido como 'andén' en lugar de 'playa de vías' o 'recinto de maniobras'",
+     "'Dirigente Movimento' traducido como 'Responsable de Movimientos' (no normalizado; habitual 'Jefe de Movimiento')",
+     "'raccordo ferroviario' como 'ramal ferroviario' es aceptable, pero 'sistema de ramal' es una invención terminológica"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura, pero inventa una frase final ausente en el original y usa terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el punto 5, la traducción omite la coletilla 'atteso che la' que introduce la explicación de la clave 19 (queda como 'dado que la llave 19 era...', pero se pierde la estructura 'atteso che' del original)",
+     "En el punto 7 se omite 'invece' ('cosa che avrebbe dovuto invece fare'), matiz de contraste presente en el original"
+    ],
+    "invenciones": [
+     "En el punto 5 se añade 'de todos modos' ('inició de todos modos el traslado') que no aparece en el original ('ha comunque iniziato')",
+     "En el punto 5 se traduce 'non ha sicuramente effettuato' como 'no efectuó definitivamente', introduciendo un matiz de 'definitivamente' no presente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'punto de cambio' por 'deviatoio': término no normalizado; en castellano ferroviario se usa 'desvío' o 'aguja'",
+     "'bloqueo de puntos' por 'fermascambi': término incorrecto; debería ser 'cerrojo de aguja' o 'bloqueo de aguja'",
+     "'masa bruta' por 'massa lorda': se normaliza como 'masa bruta' o 'peso bruto', aceptable pero 'massa lorda' suele ser 'masa bruta total'"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero presenta omisiones de matices, alguna invención y terminología ferroviaria no normalizada ('punto de cambio', 'bloqueo de puntos')."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2008/Potenza 08.08.08 SENZA nomi.md"
+ },
+ "md-es/IT/2008/RELAZIONE MOTTA S.ANASTASIA.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   2,
+   7,
+   14,
+   20,
+   26,
+   32
+  ],
+  "fidelidad_media": 92.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'bloeco automatico' del original aparece como 'bloqueo automático' (corrección ortográfica, no defecto)",
+   "'agente avvisatore' traducido como 'agente avisador' en lugar de 'avistador' o término normalizado",
+   "'rincalzatura' traducido como 'relleno' en lugar de 'bateo' o 'nivelación de traviesas'",
+   "'deviatoio' traducido como 'aguja' cuando en el original se distingue 'deviatoio' (desvío) de 'scambi' (agujas)",
+   "'travata metallica' traducido como 'tramo metálico' en lugar de 'traviesa metálica'",
+   "'frenatura rapida' traducido como 'frenado de emergencia' en lugar de 'frenado rápido'"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la línea '4 ANÁLISIS Y CONCLUSIONES' en el original (el original no la incluye; la traducción la añade, no es omisión sino invención)"
+    ],
+    "invenciones": [
+     "Se añade la línea de encabezado 'A ANÁLISIS Y CONCLUSIONES' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'SINTESI DELL'EVENTO' traducido como 'RESUMEN DEL HECHO' en lugar de 'RESUMEN DEL SUCESO/ACCIDENTE'",
+     "'FATTI IN IMMEDIATA RELAZIONE ALL'EVENTO' como 'HECHOS EN INMEDIATA RELACIÓN CON EL HECHO' (calco poco normalizado)",
+     "'RESOCONTO DELL'INDAGINE' como 'INFORME DE LA INVESTIGACIÓN' (aceptable, pero 'resoconto' suele ser 'relación/reseña')"
+    ],
+    "comentario": "La traducción es casi completa y conserva cifras, pero añade un encabezado inexistente y usa calcos en la terminología de 'evento/hecho'."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 7' del original",
+     "Se omite la coletilla final 'Pagina 6 di 37' del original (sustituida por 'Página 6 de 37')"
+    ],
+    "invenciones": [
+     "Se añade 'de construcción' en 'Organización de la protección de las obras de construcción' (segundo operador), no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'squadra lavori' traducido como 'equipo de obras' en lugar de 'equipo de trabajo'",
+     "'Tronco Lavori' como 'Tronco de Obras' (posible calco; término no normalizado)",
+     "'Capo Reparto Esercizio' como 'Jefe de Sección de Explotación' (reparto→sección, no normalizado)"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras y referencias correctas, pero presenta una invención ('de construcción'), omisión del encabezado de página y varios términos técnicos no normalizados."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 14' del original",
+     "Se omite la referencia 'AL 7' correcta (aparece 'AlL 7')",
+     "Se omite 'Istruzione Protezione Lantieri' como nombre propio (se traduce como 'Instrucción Protección de los Cantieres')"
+    ],
+    "invenciones": [
+     "'seguidos' al final, que no corresponde a 'seguito' (debería ser 'se dirá más adelante')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Rincalzo traverse di giunzioni' traducido como 'Rincalzo de traviesas en uniones' (aceptable pero 'traverse' es traviesa, no 'traviesas en uniones')",
+     "'organi di attacco deviatoi' traducido como 'órganos de sujeción de puntos de aguja' (impreciso: 'attacco' es enganche/acoplamiento, no sujeción)",
+     "'rischio di investimento' traducido como 'riesgo de atropello' (correcto en contexto ferroviario)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con calcos del italiano ('cantieres', 'laboración'), algún término técnico impreciso y una invención al final ('seguidos')."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2008/RELAZIONE MOTTA S.ANASTASIA.md"
+ },
+ "md-es/IT/2008/Recommendations-EN-01092008.md": {
+  "estado": "ok",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 98,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2008/Recommendations-EN-01092008.md"
+ },
+ "md-es/IT/2008/Report-080808.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 92.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Ministero delle Infrastrutture e dei Trasporti",
+     "E IL TRASPORTO INTERMODALE",
+     "Direzione Generale per il Trasporto Ferroviario"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'trucks' traducido como 'vagones' en lugar de 'camiones'/'vagones de mercancías' según contexto",
+     "'tirón' por 'esfuerzo de tracción'",
+     "'derivaciones ferroviarias' por 'empalmes/conexiones ferroviarias con zonas industriales'"
+    ],
+    "comentario": "La traducción añade encabezados institucionales ausentes del original y usa terminología imprecisa, aunque cifras y datos coinciden."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2008/Report-080808.md"
+ },
+ "md-es/IT/2008/Report-Ancona-030608.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   11,
+   14,
+   18
+  ],
+  "fidelidad_media": 90.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Istamotore' traducido como 'locomotora' en lugar de término normalizado (locomotora/locomotore)",
+   "'località Ancona' traducido como 'el lugar Ancona' en vez de 'la localidad de Ancona'",
+   "'señal baja' por 'segnale basso' (término técnico no normalizado en castellano; se suele usar 'señal baja de maniobra')",
+   "'vía impedida' por 'via impedita' (calco aceptable pero no normalizado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 88,
+    "omisiones": [
+     "El original dice 'locomotore del tipo E 832' (posible error del original, pero la traducción lo cambia a E 632 sin indicarlo)",
+     "El original menciona 'due istradamenti lato Sud' con texto parcialmente corrupto; la traducción añade comillas «lado Sur» no presentes"
+    ],
+    "invenciones": [
+     "Comillas angulares «lado Sur» y «lado Norte» no presentes en el original",
+     "Se añade 'in situ' tras 'inspección'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "E 832 del original traducido como E 632 (cambio de código de locomotora)",
+     "El original 'marovra'/'marovra' corrupto se normaliza como 'maniobra' sin nota"
+    ],
+    "comentario": "La traducción es fiel en general pero altera el código de locomotora E 832→E 632 y añade comillas y 'in situ' no presentes en el original."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'affettuato' (sic) como 'efectuado' correctamente, pero se omite la errata; no hay omisión grave de contenido",
+     "Se omite la errata 'rnsanche' del original, pero el contenido se mantiene"
+    ],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "'Dingente di Manovra Operatore' traducido como 'Jefe de Maniobras Operador' en lugar de 'Dirigente de Maniobras Operador'",
+     "'segnale basso luminoso' traducido como 'señal baja luminosa' (debería ser 'señal baja luminosa' o 'señal luminosa baja')",
+     "'circuiti di binario' traducido como 'circuitos de vía' (aceptable, pero no normalizado)"
+    ],
+    "comentario": "La traducción es fiel en general, pero contiene un error numérico en la fecha de inspección (168.07.2008 en lugar de 16.07.2008 o 18.07.2008) y algún término técnico mejorable."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la palabra 'ijocomotiva' (locomotora) en el original: 'cambio posizione ijocomotiva' aparece como 'cambio de posición de la locomotora' — no es omisión real, pero el original tiene errata; no se omite contenido sustantivo",
+     "No se omite ninguna frase completa; el texto se traduce íntegro"
+    ],
+    "invenciones": [
+     "'puntos de cruce' por 'deviatoi' (desvíos) — invención terminológica, no literal",
+     "'vía muerta' por 'binario tronco' — interpretación, no invención de contenido"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'deviatoi' traducido como 'puntos de cruce' en lugar de 'desvíos'",
+     "'binario tronco' traducido como 'vía muerta' en lugar de 'vía en fondo de saco' o 'vía terminal'",
+     "'Conmutador' por 'Deviatore' (debería ser 'Cambiador' o 'Encargado de desvíos')"
+    ],
+    "comentario": "Traducción casi completa y con cifras correctas, pero con términos técnicos ferroviarios mal normalizados ('puntos de cruce' por desvíos, 'vía muerta' por vía tronco) que afectan la precisión."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'che prevedeva...' no, está; falta el fragmento 'sicurezza del sistema ferroviario nel suo complesso' está; falta la línea 'A corollario... che' está incompleta en original igual",
+     "No se omite contenido sustantivo, pero se pierde la frase introductoria de la lista de criticidades ('che' queda colgando igual que en original)"
+    ],
+    "invenciones": [
+     "'en el vía V' (concordancia inventada, pero no contenido nuevo)",
+     "No hay invenciones de contenido sustantivo"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "E 6832 040 traducido como 'E 6832 2040' (cifra alterada)",
+     "E 832 040 y E 632 040 mantenidos pero inconsistentes con el original (original alterna E 6832/E 832/E 632)",
+     "'señal baja de maniobra' correcto"
+    ],
+    "comentario": "La traducción es fiel en general pero altera el código de locomotora E 6832 040 a E 6832 2040 y reproduce erratas del original; requiere revisión por el número cambiado."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2008/Report-Ancona-030608.md"
+ },
+ "md-es/IT/2009/Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md": {
+  "estado": "revisar",
+  "idioma_origen": "IT",
+  "paginas_revisadas": [
+   4,
+   17,
+   50,
+   70,
+   85,
+   101
+  ],
+  "fidelidad_media": 87.8,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [
+   "'aleja' por 'lega' (error ortográfico que altera el término)",
+   "'esfuerzo τ (sigma)' cuando el original dice 'sforzo σ (sigma)': se cambia el símbolo σ por τ",
+   "fórmula H 3HS / D/2 / σλ = 2.5 / 3040/2 / (0.75·460) transcrita de forma confusa y con '3PE' en lugar de '3Pep'",
+   "'piegata a zampa di lepre' traducido como 'pieza doblada en forma de pata de liebre' (aceptable, pero 'piegata' es 'plegada/doblada' y se pierde la referencia a la pieza plegada del carril)",
+   "'convoglio' traducido como 'tren' en lugar de 'convoglio'/'composición ferroviaria'",
+   "contrarriel: término aceptado, aunque 'contra-riel' o 'contracarril' son más habituales en castellano; 'pata de cabra' traduce 'zampa di lepre' pero pierde la imagen literal (garra de liebre) usada en el original"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta la línea '50' suelta tras 2.4.4.1 en el índice",
+     "Falta el título completo de la Figura 6 en el original: '(dispositivo di...' queda truncado igualmente, pero se omite el texto 'cruce con corazón monoblocco cambio simple tg. 0,0939 S.60 UNI/400/0.094/ d.o.s.' que sí aparece en la traducción; en el original la Figura 6 solo dice '(dispositivo di'",
+     "Falta la línea '61' suelta antes de '1. Organi di aggancio'"
+    ],
+    "invenciones": [
+     "Figura 4 - Esquema del corazón del desvío extraído del plano FS 9712 (no está en el original)",
+     "Hipótesis n.º 1 – Impacto del vagón cisterna contra el contrariel derecho del desvío 13B (no está en el original)",
+     "Ampliación del título de Figura 5 con 'cambio simple tg.00939 S.60 UNI/400/0.094/ d.o.s. con corazón monoblocco de acero fundido al manganeso' (el original solo dice 'scambio manganese')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'picchetto' traducido como 'riel' en 2.4.3 y 2.4.4.2 (picchetto di regolazione = estaca/piquete de regulación, no riel)",
+     "'piegata a zampa di lepre' traducido como 'doblado en forma de pata de liebre' (aceptable pero no normalizado)",
+     "'squarcio' traducido como 'corte' (debería ser 'desgarro/abertura')"
+    ],
+    "comentario": "La traducción añade títulos de figuras e hipótesis ausentes en el original y omite líneas del índice, además de traducir 'picchetto' y 'controrotaia' de forma incorrecta."
+   },
+   {
+    "pagina": 101,
+    "fidelidad": 70,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'squarcio' traducido como 'desvío' en lugar de 'desgarro/rotura'",
+     "'zampa di lepre' traducido como 'desvío en forma de pata de liebre' cuando el original se refiere a la pieza/pliegue, no a un desvío",
+     "'cisterna' traducido como 'vagón cisterna' (añade 'vagón')"
+    ],
+    "comentario": "La traducción confunde 'squarcio' (desgarro) con 'desvío' y añade 'vagón', alterando el sentido técnico del informe."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2009/Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md"
+ },
+ "md-es/IT/2009/Report Anagni-24012009.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   15
+  ],
+  "fidelidad_media": 91.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'conducto' por 'condotta' (conducto general) debería ser 'conducción general' o 'tubería general'",
+   "'tuerca del tensor' por 'vite del tenditore' (tornillo del tensor, no tuerca)",
+   "'topes' por 'respingenti' es aceptable pero conviene normalizar",
+   "'placas en contacto' por 'piatti in contatto' (platos en contacto)",
+   "'desgarros' para 'spezzamenti': en contexto ferroviario se refiere a roturas/separaciones de la composición, no a desgarros",
+   "'tubería general' para 'condotta generale': término normalizado es 'conducción general' o 'tubería de freno'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se omite contenido sustantivo; se mantienen cifras, nombres y estructura."
+    ],
+    "invenciones": [
+     "Se traduce 'PM' como 'PK' en el encabezado ('PRESSO IL PM ANAGNI' → 'EN EL PK ANAGNI'), introduciendo una referencia de punto kilométrico inexistente."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'PM' (Posto di Manovra) traducido como 'PK' en el título, cuando en el cuerpo se traduce correctamente como 'Punto de Maniobras'",
+     "'Dirigente' traducido como 'funcionario' en el caso de Vallone, perdiendo la distinción de cargo respecto a 'Funzionario'",
+     "'condotta principale/generale' traducido como 'línea principal/general' en lugar de 'conducción principal/general' (término ferroviario de freno)"
+    ],
+    "comentario": "Traducción mayormente fiel, pero el encabezado introduce un 'PK' inexistente y varios términos técnicos ferroviarios no están normalizados."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la palabra 'rubrica' como 'contrato rubrica' (se traduce como 'contrato de la rúbrica', aceptable)",
+     "No se omite contenido sustantivo relevante"
+    ],
+    "invenciones": [
+     "Se añade '(pista de alta velocidad)' como glosa de 'traccia fascia alta', que no está en el original",
+     "Se traduce 'depannage' como 'desenclave', que no es su significado (depannage = reparación/auxilio)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'locomotive' traducido como 'locomotoras' cuando en el contexto ETR 500 son unidades motrices; el original distingue 'motrici'",
+     "'personale viaggiante' traducido como 'personal de conducción' cuando significa personal de a bordo/viajeros",
+     "'tenditori' traducido como 'tensoros' (término no normalizado; debería ser 'tensores')"
+    ],
+    "comentario": "Traducción mayormente fiel, pero con glosas inventadas y algún término técnico mal normalizado que conviene corregir."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la fila 'Eventos sobre las carì' con la anotación '(annotazioni)' tal como aparece en el original (se traduce como 'vagones' pero se omite la estructura de tabla)",
+     "Falta la línea 'I} treno si arresta' como evento diferenciado en la columna correspondiente (se traduce solo una vez 'El tren se detiene')"
+    ],
+    "invenciones": [
+     "'vagones' para 'carì' (término no presente; el original usa 'carì' con anotación)",
+     "No hay invenciones relevantes de contenido"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'desgarro' por 'spezzamento': término técnico incorrecto; debería ser 'rotura' o 'fractura'",
+     "'tacógrafo' por 'tachigrafica': se mantiene pero conviene normalizar como 'zona tacográfica'",
+     "'reset' no traducido (aceptable como tecnicismo, pero no normalizado)"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero 'spezzamento' mal traducido como 'desgarro' y algunas omisiones menores en la tabla de eventos."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 9' del original (aunque aparece 'página 9 de 17' al final)"
+    ],
+    "invenciones": [
+     "Se añade 'T.G. (Tubería General)' como aclaración no presente en el original, que solo dice 'C.G.'",
+     "Se añade 'conjunto de vehículos' como interpretación de 'convoglio'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'spezzamento' traducido como 'separación' en lugar de 'rotura/partición del tren'",
+     "'segnalazione' traducido como 'señalización' cuando en contexto es 'señal/aviso'",
+     "'micro a tre contatti' traducido como 'microinterruptor de tres contactos' (aceptable pero no normalizado)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión del encabezado, invenciones aclaratorias no presentes en el original y varios términos técnicos mal normalizados."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2009/Report Anagni-24012009.md"
+ },
+ "md-es/IT/2009/Viareggio_accident-29062009.md": {
+  "estado": "aviso",
+  "idioma_origen": "IT",
+  "paginas_revisadas": [
+   1,
+   28,
+   47,
+   66,
+   87,
+   105
+  ],
+  "fidelidad_media": 97.2,
+  "fidelidad_min": 97,
+  "sin_dictamen": [],
+  "terminos": [
+   "'prefacio' por 'prefazione' (en castellano: 'prefacio' es aceptable, pero 'prefazione' se traduce mejor como 'prefacio' o 'prólogo'; no es error grave)",
+   "'Informe Técnico Integrador' por 'Relazione tecnica Integrativa' (aceptable, aunque 'Integrativa' se mantiene en el original)",
+   "'Depósito de Tracción Cargo' por 'Impianto Trazione Cargo' (impianto = instalación/depósito de tracción; aceptable pero no normalizado)",
+   "'Jefe de Movimiento' por 'Dirigente Movimento' (cargo italiano; traducción plausible)",
+   "'descarrilamiento' por 'svio' (correcto; el original no especifica causa en el término)",
+   "'sale montate' traducido como 'ruedas montadas' en lugar de 'ejes montados' (término normalizado ferroviario)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/IT/2009/Viareggio_accident-29062009.md"
+ }
+}

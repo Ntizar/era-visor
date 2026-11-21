@@ -1,0 +1,2494 @@
+---
+pais: BE
+anio: 2009
+idioma_origen: FR
+md_origen: md/BE/2009/RAPPORT_enquête_Dinant_version_31_01_2013-230509.md
+md5_origen: f9c8a915766241c2aaad2cc0cbbbd7a4
+modelo: qwen3.6
+bloques: 17
+chars: 95346
+ratio_longitud: 1.01
+tokens_in: 41963
+tokens_out: 30822
+verificacion: ok
+notas_cifras: ["bloque 12: cifras largas: 1/5", "bloque 15: cifras cortas: 7/120"]
+fecha_proceso: 2026-11-20
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Organismo de Investigación de Accidentes e Incidentes Ferroviarios
+INFORME DE INVESTIGACIÓN DE SEGURIDAD
+INFORME DE INVESTIGACIÓN DE SEGURIDAD
+ACCIDENTE DE CAÍDA DE UN VIAJERO DURANTE EL EMBARQUE
+ACCIDENTE DE CAÍDA DE UN VIAJERO DURANTE EL EMBARQUE
+OCURRIDO EL 23 DE MAYO DE 2009
+OCURRIDO EL 23 DE MAYO DE 2009
+EN DINANT
+EN DINANT
+Enero de 2013
+Enero de 2013
+
+
+## Página 2
+
+
+## Página 3
+
+Cualquier uso de este informe con un propósito distinto al de la prevención de accidentes
+- por ejemplo, el de definir responsabilidades, y mucho menos culpabilidades individuales o colectivas - se realizaría en una distorsión total con los objetivos de este informe, los métodos utilizados para elaborarlo, la selección de los hechos recogidos, la naturaleza de las preguntas planteadas y los conceptos que moviliza, a los que la noción de responsabilidad es ajena. Las conclusiones que de él se pudieran derivar serían, por tanto, abusivas en el sentido literal del término.
+
+
+## Página 4
+
+## ÍNDICE
+1.	
+Resumen	
+8
+2.	
+Los hechos inmediatos	
+10
+2.1	
+El acontecimiento	
+10
+2.1.1	 Descripción del acontecimiento	
+10
+2.1.2	 Descripción del lugar	
+10
+2.1.3	 Los servicios de socorro	
+12
+2.1.4	 La decisión de abrir una investigación	
+12
+2.1.6	 Desarrollo de la investigación	
+12
+2.2	
+Las circunstancias del acontecimiento	
+13
+2.2.1	 Empresas y personal implicado	
+13
+2.2.2	 Composición de los trenes	
+14
+2.2.3	 Descripción de la infraestructura: estación de Dinant	
+15
+2.2.4	 Trabajos realizados en el lugar o en las proximidades del lugar del accidente	
+16
+2.2.5	 Activación del plan de emergencia ferroviario y su cadena de acontecimientos	
+16
+2.2.6	 Activación del plan de emergencia de los servicios públicos de socorro, de la policía 
+
+y de los servicios médicos y su cadena de acontecimientos	
+16
+2.3	
+Pérdidas humanas, heridos y daños materiales	
+16
+2.3.1	 Pasajeros y terceros, personal, incluidos los contratistas	
+16
+2.3.2	 Mercancías, equipajes y otros bienes	
+16
+2.3.3	 Material rodante, infraestructura y entorno	
+17
+2.3.4	 Otros	
+17
+2.4	
+Circunstancias externas	
+17
+2.4.1	 Condiciones meteorológicas	
+17
+2.4.2	 Referencias geográficas	
+17
+3.	
+Informe de las investigaciones y ensayos	
+18
+3.1	
+Resumen de los testimonios	
+18
+3.2	
+Sistema de gestión de la seguridad	
+18
+3.3	
+Normas y reglamentación	
+19
+3.3.1	 Normas y reglamentación pública comunitaria y nacional aplicables	
+19
+3.3.2	 Otras normas, tales como las normas de explotación, las instrucciones locales, los requisitos 
+aplicables al personal, las prescripciones de mantenimiento y las normas aplicables	
+21
+3.4	
+Funcionamiento del material rodante y de las instalaciones técnicas	
+27
+3.4.1	 Sistema de señalización y de control-comando, incluidos los registros 
+
+de las grabadoras automáticas de datos,	
+27
+3.4.2	 Material rodante, incluidos los registros de las grabadoras automáticas 
+
+de datos	
+27
+3.4.3	 Otros	
+28
+3.5	
+Documentación del sistema operativo	
+29
+3.5.1	 Intercambio de mensajes verbales en relación con el acontecimiento, incluida la 
+
+documentación procedente de las grabaciones	
+29
+3.6	
+Interfaz hombre-máquina-operación	
+30
+3.6.1	 Datos relativos al maquinista	
+30
+3.6.2	 Datos relativos al acompañante	
+30
+3.6.3	 Formación de los acompañantes de tren 	
+30
+3.6.4	 Diseño de los equipos que tienen impacto en la interfaz hombre-máquina	
+3.7	 Acontecimientos anteriores de naturaleza comparable	
+3.7.1	 Incidentes comunicados por los acompañantes de tren	
+
+
+## Página 5
+
+4.	
+Análisis y Conclusiones	
+34
+4.1	
+Informe final de la cadena de acontecimientos	
+34
+4.2	
+Discusión 	
+36
+4.2.1	 Principio de control	
+36
+4.2.2	 Principio de recuperación	
+40
+4.2.3	 Principio de mitigación 	
+41
+4.3	
+Conclusiones	
+42
+5	
+Medidas adoptadas	
+44
+5.1	
+Medida común Infrabel / SNCB 	
+44
+5.2	
+SNCB	
+44
+5.2.1	 Campaña de concienciación dirigida a los viajeros	
+44
+5.2.2	 Extracto del sitio web 	
+44
+5.3	
+Medidas de Infrabel	
+45
+6	
+Recomendaciones	
+46
+7	
+Anexos	
+48
+7.1	
+Requisitos mínimos en materia de formación fundamental de otros agentes 
+
+del personal de a bordo	
+48
+7.2	
+Lista de incidentes facilitados por la SNCB	
+49
+7.3	 Calendario del escolar	
+57
+
+
+## Página 6
+
+## GLOSARIO
+A R	
+: 	
+Decreto Real 
+AM	
+: 	
+Decreto Ministerial
+ATP	
+:	
+Protección Automática del Tren
+AW	
+:	
+Conmutación
+Chsta	
+:	
+Jefe de estación adjunto
+EBP	
+:	
+Puesto de control electrónico 
+EMT 	
+:	
+Terminal de Gestión del EBP
+EF	
+:	
+ Empresa Ferroviaria
+ERA	
+: 	
+Agencia Ferroviaria Europea
+ERTMS :	
+Sistema Europeo de Gestión del Tráfico Ferroviario
+ETCS 	
+:	
+Sistema Europeo de Control del Tren 
+ETRALI	
+:	
+Sistema de grabación de las conversaciones RST
+GI	
+:	
+Gestor de la Infraestructura
+GPRS	
+:	
+Servicio General de Paquetes de Radio
+GSM-R :	
+GSM para Ferrocarriles
+IOT 	
+:	
+Indicador Operaciones Finalizadas
+IBG	
+:	
+Grupo de balizas de relleno
+MEMOR	 :	
+Sistema de ayuda a la conducción incluido como sistema nacional de tipo B en la ETS CCS
+NSA	
+:	
+Autoridad Nacional de Seguridad - Autorité Nationale de Sécurité 
+OE	
+: 	
+Organismo de Investigación
+PANG 	
+:	
+Punto de Parada No Vigilado
+PN	
+:	 	
+Paso a nivel
+RGE	
+:	
+Reglamento General de Explotación
+RGUIF	
+:	
+Reglamento General de los Usuarios de la Infraestructura Ferroviaria
+RST	
+:	
+Radio Suelo-Tren
+RSEIF	
+:	
+Reglamento de Seguridad para la Explotación de la Infraestructura Ferroviaria
+SBG	
+:	
+Baliza de Grupo de Señales
+Schst	
+:	
+Subjefe de estación
+SGS	
+:	
+Sistema de Gestión de la Seguridad
+SIL	
+:	
+Nivel de Integridad de Seguridad
+SNCB 	
+:	
+Société Nationale des Chemins de fer Belges
+SSICF	
+:	
+Servicio de Seguridad e Interoperabilidad de los Ferrocarriles
+STI	
+:	
+Especificaciones Técnicas de Interoperabilidad 
+TBL	
+:	
+Transmisión Baliza-Locomotora
+TBL1+	
+:	
+Transmisión Baliza-Locomotora con control de velocidad parcial
+TELOC	
+ :	
+Sistema de registro de parámetros en cintas de papel a bordo de los trenes
+VCAW	
+:	
+Verwarming/Chauffage Aiguillage/Wissel
+
+
+## Página 7
+
+## Página 8
+
+## 1. RESUMEN
+El escenario más probable del accidente ocurrido en Dinant el 23 de mayo de 2009, que causó graves mutilaciones al acompañante de tren y a un viajero, es, según la información disponible en la fecha de hoy, la pérdida de equilibrio durante la puesta en movimiento del tren. El viajero habría intentado sacar a su hija por la última puerta que permanecía abierta a pesar de la prohibición verbal del acompañante, mientras el tren arrancaba.
+
+El objetivo de nuestra investigación es recopilar los hechos relacionados con los elementos de una situación que condujo al accidente y, más allá de la causa directa, determinar las causas indirectas para permitir extraer líneas de prevención.
+
+El acompañante de tren silba para señalar que las operaciones de embarque y desembarque han finalizado. Cierra las puertas colectivas excepto una puerta para su acceso. El acompañante acciona el interruptor de control del IOT.
+
+Una vez realizada esta acción, se dirige hacia su tren, sube a bordo y se asegura de que no haya ningún otro movimiento de viajeros. El plazo entre el momento en que el acompañante acciona el IOT y el momento en que el maquinista recibe la información «Operaciones finalizadas» y arranca, no es conocido. Al acompañante de tren solo se le autoriza a cerrar esta puerta después de la primera vuelta de las ruedas del convoy.
+
+El problema surge cuando el acompañante acciona el IOT y debe impedir el embarque de los viajeros a pesar de que la señal permanece cerrada. Este procedimiento, establecido para garantizar la seguridad de los pasajeros, es fuente de numerosos incidentes entre acompañantes y viajeros. La última puerta «invita» a los viajeros retrasados, que ignoran la prohibición verbal de los acompañantes, a precipitarse hacia el tren, inconscientes de los riesgos para su seguridad.
+
+La problemática de la salida de los trenes y la «zona gris» es conocida por el gestor de la infraestructura INFRABEL y por la empresa ferroviaria SNCB. Desde 2009, se han realizado varios estudios y análisis de riesgo para encontrar un procedimiento eficaz que reduzca los riesgos, pero también el número de procedimientos diferentes para dar la información Operación Finalizada por parte del acompañante. Se ha llegado a un acuerdo y se llevará a cabo un proyecto piloto en 2013.
+
+La puesta en aplicación está prevista a lo largo del año 2015.
+
+El análisis sistémico de las diversas barreras de control y protección que condujo al accidente ha permitido a la OE extraer líneas de prevención: seis recomendaciones orientan a los actores interesados en sus decisiones sobre medidas de atenuación de los riesgos.
+
+## Página 9
+
+## Página 10
+
+## 2. LOS HECHOS INMEDIATOS
+
+## 2.1 EL EVENTO
+
+## 2.1.1
+## DESCRIPCIÓN DEL EVENTO
+
+El 23 de mayo de 2009, el tren Inter-City 2411 procedente de Bruselas vía Namur entra en la estación de Dinant en el vía 1 a las 12h40. Una familia de 4 personas baja de este tren y se dirige para tomar el tren IC 6948 anunciado con destino a Houyet, estacionado en el vía 3. Este, según el horario previsto, debe salir de la estación de Dinant a las 12h42.
+
+Al mismo tiempo, el jefe de tren del IC 6948 inicia el procedimiento de salida y maneja la caja IOT «Indicador Operación Finalizada». Luego regresa hacia el tren para embarcar a través de la última puerta que permanecía abierta. El tren arranca.
+
+El 23 de mayo de 2009 a las 12h45, el servicio 100 informa a Traffic Control de que se ha producido un accidente durante la salida del tren 6948 Dinant – Houyet.
+
+A las 12h46, el subjefe de estación confirma que un viajero y el acompañante han caído entre el tren y el andén mientras el convoy arrancaba y que están gravemente heridos.
+
+## 2.1.2 DESCRIPCIÓN DEL LUGAR
+
+## TREN E 2411
+
+Representado en azul en el esquema siguiente es el tren que acaba de llegar de Bruselas y que está estacionado en el vía 1 justo antes del cruce de los vías 1/2.
+
+## TREN Z 6062
+
+Representado en verde en el esquema siguiente es un tren que está estacionado en el vía 1B y cuyo destino es Libramont, hora de salida prevista 12h51.
+
+## TREN Z6948
+
+Representado en rojo en el esquema siguiente es un tren que está estacionado en el vía 3, cuyo destino es Houyet, hora de salida prevista 12h42.
+
+## Página 11
+
+## Página 12
+
+## 2.1.3 LOS SERVICIOS DE EMERGENCIA
+
+No aplicable
+
+## 2.1.4 LA DECISIÓN DE ABRIR UNA INVESTIGACIÓN
+
+Esta investigación no cumple con la definición de accidente grave conforme al artículo 44 de la ley del 19 de diciembre de 2006.
+
+La investigación no tiene como objetivo determinar las responsabilidades, sino las causas directas, indirectas o subyacentes que pudieron jugar un papel en el accidente tal como se define en la ley del 19 de diciembre de 2006 en su artículo 52.
+
+Cualquier uso de este informe con una perspectiva diferente a la de la prevención de accidentes -por ejemplo, la de definir responsabilidades, y mucho más las de culpabilidades individuales o colectivas- se realizaría en una distorsión total con los objetivos de este informe, los métodos utilizados para elaborarlo, la selección de los hechos recopilados, la naturaleza de las preguntas planteadas y los conceptos que moviliza, a los que la noción de responsabilidad es ajena. Las conclusiones que pudieran derivarse de ello serían, por tanto, abusivas en el sentido literal del término.
+
+## 2.1.6 DESARROLLO DE LA INVESTIGACIÓN
+
+El informe se basa en:
+
+• los resultados de las investigaciones llevadas a cabo por SNCB Holding, encargada en aquel entonces,
+• el informe de la SNCB,
+• los resultados de las investigaciones complementarias llevadas a cabo por los investigadores actuales de la OE para obtener ciertos elementos.
+
+En el momento del accidente, el Organismo de Investigación había sufrido un rechazo por parte de las Autoridades Judiciales para obtener el nombre de las víctimas y poder proceder a las entrevistas tal como prevé la ley del 19 de diciembre de 2006.
+
+El informe se redacta en función de los elementos disponibles de la época y de los complementos de investigación realizados por el equipo actual:
+
+• Visita y procedimiento de salida de un tren automotor
+• Visita en la estación de Dinant
+• Diversas entrevistas
+• Estudios complementarios de documentación y reglamentación
+
+## Página 13
+
+## 2.2	 LAS CIRCUNSTANCIAS DEL INCIDENTE
+## 2.2.1	 EMPRESAS Y PERSONAL INVOLUCRADO
+## 2.2.1.1	
+## EL GESTOR DE LA INFRAESTRUCTURA: INFRABEL
+Con arreglo al Real Decreto de 14 de junio de 2004, Infrabel es el gestor de la infraestructura.
+El gestor es responsable de:
+•  La adquisición, construcción, renovación, mantenimiento y gestión de la infraestructura
+•  La gestión de los sistemas de regulación y seguridad de dicha infraestructura
+•  La prestación a las empresas ferroviarias de servicios relativos a la infraestructura ferroviaria
+•  La asignación de las capacidades de la infraestructura ferroviaria disponibles (horarios y franjas horarias)
+•  La tarificación, facturación y cobro de las tasas de uso de la infraestructura ferroviaria y de los servicios.
+El gestor cuenta con una autorización de seguridad desde el 22 de mayo de 2008. Dicha autorización sigue siendo válida por un período de 5 años.
+El gestor de la infraestructura debe velar por la correcta aplicación de las normas técnicas y las reglas relativas a la seguridad de la infraestructura ferroviaria y a su uso.
+El gestor se divide en tres direcciones principales:
+•  Dirección de Infraestructura
+•  Dirección de Red
+•  Dirección de Acceso a la Red
+La dirección de Infrabel más directamente relacionada con el accidente es la Dirección de Red, que gestiona la explotación de los centros de control de señalización y la regulación del tráfico.
+## 2.2.1.2	
+## LA EMPRESA FERROVIARIA: SNCB
+El tren de viajeros implicado en el accidente era operado por la empresa ferroviaria SNCB.
+Con arreglo al Real Decreto de 18 de octubre de 2004, la SNCB es la empresa ferroviaria resultante de la escisión de la SNCB unificada.
+Es responsable
+•  del transporte ferroviario de viajeros y mercancías
+•  de los servicios logísticos relacionados con el transporte de mercancías
+•  de la adquisición, construcción, mantenimiento, gestión y financiación del material rodante
+Cuenta con un certificado de seguridad emitido por la Autoridad Nacional de Seguridad belga, el SSICF:
+Parte A: parte general relativa a los sistemas de seguridad desde el 30 de junio de 2008
+Parte B: parte específica relacionada con las condiciones específicas de la red ferroviaria desde el 13 de mayo de 2009, válida hasta el 12 de mayo de 2012 en el momento de los hechos (desde entonces, el certificado ha sido renovado).
+Según la estructura actual, la empresa ferroviaria se divide en 4 direcciones principales, dentro de cada una de las cuales se encuentra adscrita una división de «seguridad» que se ocupa tanto de la seguridad laboral como de la seguridad de explotación:
+•  SNCB Mobility
+•  SNCB Europe
+•  SNCB Technics
+•  SNCB Fret Services
+
+
+## Página 14
+
+A las anteriores se suman 3 servicios de apoyo:
+•  Compras y Logística
+•  Finanzas
+•  Recursos Humanos
+y 3 servicios del Administrador Delegado:
+•  Asuntos estratégicos y jurídicos, que incluyen auditoría interna, asuntos estratégicos, jurídicos y «seguridad corporativa»
+•  Relaciones públicas y asuntos corporativos
+•  Secretaría general
+La división B-CF.24 es responsable de la gestión de los asuntos relacionados con la seguridad de explotación a nivel «corporativo» y no interviene en el ámbito de la seguridad laboral.
+## Personal de la SNCB implicado en el accidente
+Un maquinista del depósito de Bertrix con 29 años de experiencia en el momento del accidente.
+Un acompañante de tren del depósito de Bertrix con 30 años de experiencia en el momento del accidente.
+## 2.2.2	 COMPOSICIÓN DE LOS TRENES
+## 2.2.2.1	
+## TREN Z6948
+El tren 6948 está compuesto por dos automotores 4164 y 4159.
+Los automotores de la serie fueron fabricados por Alstom; las primeras entregas se produjeron en abril de 2000.
+La entrega del automotor 4159 se realizó a finales del mes de diciembre de 2001 y la del automotor 4164 a finales del mes de enero de 2002.
+Los automotores de la serie 41 disponen de todas las comodidades de los trenes modernos: aire acondicionado, suspensión neumática, asientos individuales, aseos en circuito cerrado, paneles informativos exteriores electrónicos, etc.
+Cada unidad se compone de dos elementos (AB + B) y ofrece 207 plazas sentadas.
+Varios automotores pueden acoplarse entre sí.
+Este tipo de automotor diésel se utiliza en líneas no electrificadas, parcialmente electrificadas a 3 kV o electrificadas a 25 kV.
+## 2.2.2.1	
+## TREN Z6062
+El tren está compuesto por uno o varios automotores de tipo 41.
+## 2.2.2.1	
+## TREN E 2411
+No hay información disponible
+
+
+## Página 15
+
+## 2.2.3	 DESCRIPCIÓN DE LA INFRAESTRUCTURA: ESTACIÓN DE DINANT
+La estación dispone de un edificio para viajeros con taquilla, abierto todos los días.
+Cuenta, en particular, con instalaciones, equipos y servicios para personas con movilidad reducida y con un servicio de consigna de equipajes automática.
+La estación de Dinant está constituida por 2 andenes y 3 vías + una vía de servicio. No hay subterráneo ni puente elevado que permita el acceso al andén central.
+Los pasajeros acceden a los andenes 2 y 3 a través del andén central, cruzando las vías bajo la supervisión de un agente que posee las funciones de seguridad adecuadas.
+
+## Página 16
+
+## 2.2.4	 TRABAJO REALIZADO EN EL LUGAR O EN LAS PROXIMIDADES DEL LUGAR DEL ACCIDENTE
+No aplicable
+## 2.2.5	 ACTIVACIÓN DEL PLAN DE EMERGENCIA FERROVIARIO Y SU CADENA DE EVENTOS
+12:45 	 el servicio 100 informa a TC de un accidente ocurrido durante la salida del 6948 (Dinant - Houyet, 
+AR 4164+4159, personal de Bertrix).
+12:46 	 schst B.7 Dinant confirma que un viajero y un acompañante cayeron entre el 
+tren y el andén mientras el tren arrancaba. Resultan gravemente heridos. 
+12:47 	 6948 se detiene en Anseremme sin acompañante 
+12:47	
+Se avisa a PSG Namur
+12:50	
+Se alerta a SOC y la policía local se desplaza al lugar. TC informa a CTC Namur y Arlon 
+13:05 	 un buddy ya está en el lugar.
+13:12 	 PSG en el lugar 
+13:15 	 SPC Namur en el lugar
+13:57	
+el viajero es trasladado en ambulancia al hospital de Mont-Godinne y el acompaña-
+nte es evacuado en helicóptero al hospital Notre-Dame de Charleroi. 
+13:58	
+llegada de un buddy adicional solicitado por CPA Arlon. 
+14:00	
+las vías I y II se restablecen al servicio. 
+14:30	
+Llega el Ministerio Fiscal al lugar
+14:52	
+El médico de la administración es informado por TC del accidente
+14:54 	 salida ZM 6948 hacia Bertrix 
+15:57 	 llegada a Bertrix donde los AR se ponen a disposición a petición del Ministerio Fiscal
+16:00 	 La policía científica llega al lugar
+17:50 	 La policía científica abandona el lugar
+18:00 	 La vía III se restablece al servicio y se restablece la situación normal. 
+De 12:47 a 14:54 	
+HK circulan en contra-vía por la vía B entre Anseremme y Gendron. 
+De 13:25 a 14:00 	
+las vías I, II y III se ponen fuera de servicio para la evacuación de los heridos.
+## 2.2.6	 ACTIVACIÓN DEL PLAN DE EMERGENCIA DE LOS SERVICIOS PÚBLICOS DE SOCORRO, DE LA 
+## POLICÍA Y DE LOS SERVICIOS MÉDICOS Y SU CADENA DE EVENTOS
+No aplicable
+## 2.3	 VÍCTIMAS MORTALES, HERIDOS Y DAÑOS MATERIALES
+1 viajero gravemente herido
+1 agente SNCB, el acompañante del tren, gravemente herido.
+## 2.3.1	 PASAJEROS Y TERCEROS, PERSONAL, INCLUIDOS LOS CONTRATISTAS
+## 2.3.2	 MERCANCÍAS, EQUIPAJES Y OTROS BIENES
+No hay daños de equipajes
+
+
+## Página 17
+
+## 2.3.3	 MATERIAL RODANTE, INFRAESTRUCTURA Y MEDIO AMBIENTE
+No hay daños en la infraestructura, el material rodante ni en el medio ambiente.
+## 2.3.4	 OTROS
+El accidente provocó diversas perturbaciones en el tráfico ferroviario.
+## 2.4	 CIRCUNSTANCIAS EXTERNAS
+## 2.4.1	 CONDICIONES METEOROLÓGICAS
+El tiempo estaba soleado con una temperatura de 22°C y una visibilidad muy buena con un viento débil.
+## 2.4.2	 REFERENCIAS GEOGRÁFICAS
+Situada a 107 m de altitud, la estación de Dinant se encuentra en el punto kilométrico (PK) 88.938 de la línea 
+154, de Namur a Dinant, entre las estaciones abiertas de Yvoir y Anseremme
+
+
+## Página 18
+
+## 3.	ACTA DE LAS INVESTI­
+## GACIONES Y ENQUISTAS
+## 3.1	 RESUMEN DE LOS TESTIMONIOS
+1. Resumen de la declaración del acompañante del tren
+Declara « hicieron correspondencia con el tren procedente de Namur. En el momento de la salida, 4 per-
+sonas se presentaron para subir al tren, que ya había cerrado las puertas y había accionado el IOT y 
+que invitó a las personas a tomar el tren siguiente que estaba estacionado en la estación. »
+2. Resumen de la declaración de un testigo
+El testigo declara: « haber visto que todas las puertas del ICT 6948, vía III estaban cerradas, quedando 
+una sola abierta para el acompañante. 
+El acompañante acciona la llave IOT y viene a situarse en el segundo escalón del tren a 
+nivel de una de las puertas situadas en medio del tren.
+Llegan dos jóvenes al andén. El acompañante les hace señas para que no intenten subir 
+al tren. El tren aún no está en marcha en ese momento.
+Una de ellas logra colarse pasando junto al acompañante. El testigo retoma 
+luego su trabajo y ya no mira hacia el acompañante. Su atención será atraída de nuevo 
+por los gritos provocados por el accidente. »
+## 3.2	 SISTEMA DE GESTIÓN DE LA SEGURIDAD
+No se aplica.
+
+
+## Página 19
+
+## 3.3	 NORMAS Y REGULACIÓN
+A continuación se recogen únicamente los fragmentos seleccionados en el marco del accidente.
+## 3.3.1	 NORMAS Y REGULACIÓN PÚBLICA COMUNITARIA Y NACIONAL APLICABLES
+25 AGOSTO 1891 - LEY POR LA QUE SE REVISAN EL TÍTULO DEL CÓDIGO DE COMERCIO RELATIVO A LOS CONTRATOS DE TRANSPORTE
+Entrada en vigor: 05-09-1891 - Última actualización el 16-06-2010
+CAPÍTULO II. - DE LOS TRANSPORTES POR FERROCARRIL.
+  Art. 16. Un reglamento determina las condiciones de admisión de los viajeros al transporte. Enume-
+ra a los viajeros que no pueden ser admitidos en los trenes.
+4 ABRIL 1895. - DECRETO REAL QUE CONTIENE EL REGLAMENTO RELATIVO A LAS MEDIDAS QUE DEBEN OBSERVARSE PARA EL TRANSPORTE 
+## DE LOS VIAJEROS EN LOS FERROCARRILES DEL ESTADO Y EN LOS FERROCARRILES CONCEDIDOS
+Entrada en vigor: 29-04-1895 - Derogado por el Decreto real del 13-06-2008
+ Art. 6. Queda prohibido subir a los vagones y bajar de ellos:
+A. Cuando el tren ya está en marcha, o antes de su parada completa;
+B. Cuando los vagones, después de haber sido desacoplados de un tren, se ponen en marcha para la ejecu-
+ción de una maniobra;
+C. En lugares distintos a las estaciones, paradas o puntos de parada, designados para el embarque o el desem-
+barque de los viajeros;
+D. Por el lado derecho del tren, en el sentido de la marcha, salvo disposiciones contrarias adoptadas por 
+la administración;
+E. Por otras salidas que las destinadas a la entrada o salida de los viajeros;
+F. Cuando las puertas automáticas están en proceso de apertura o cierre o durante la 
+maniobra de los peldaños.
+## 13 JUNIO 2008. — DECRETO REAL POR EL QUE SE DEROGA EL DECRETO REAL DEL 4 DE ABRIL DE 1895
+Reglamento relativo a las medidas que deben observarse para el transporte de los viajeros en los ferrocarriles 
+del Estado y en los ferrocarriles concedidos.
+Art. 2. El presente decreto entrará en vigor en la fecha de entrada en vigor del decreto real del 20 de di-
+ciembre de 2007 por el que se establece el reglamento de policía sobre los ferrocarriles
+
+## Página 20
+
+20 DE DICIEMBRE DE 2007. - DECRETO REAL POR EL QUE SE ESTABLECE EL REGLAMENTO DE POLICÍA FERROVIARIA
+### CAPÍTULO II. - Obligaciones del público en general
+ Art. 5. Queda prohibido a toda persona que no forme parte del personal de la empresa ferroviaria, del gestor de la infraestructura o del gestor de la estación, designado a tal efecto: 
+1° entrar en los edificios de la estación o permanecer en ellos fuera del horario de apertura al público;
+2° entrar en las partes de las estaciones no accesibles al público o permanecer en ellas, salvo autorización escrita y previa del gestor de la estación; 
+3° entrar en las partes de la infraestructura ferroviaria no accesibles al público o permanecer en ellas, salvo autorización escrita y previa del gestor de la infraestructura
+### CAPÍTULO III. - Obligaciones de los viajeros en particular
+  Art. 11. Queda prohibido a los viajeros subir o bajar del tren:
+  1° cuando el tren ya esté en marcha o antes de su parada completa;
+  2° durante la apertura y el cierre de las puertas;
+  3° cuando el personal de la empresa ferroviaria concernida lo prohíba;
+  4° fuera de las andenas y de las paradas, salvo petición expresa del personal de la empresa ferroviaria concernida o del gestor de la infraestructura ferroviaria;
+  5° junto a otras entradas o salidas que no sean las previstas para la subida o la bajada de los viajeros, salvo petición expresa del personal de la empresa ferroviaria concernida o del gestor de la infraestructura ferroviaria;
+18 DE ENERO DE 2008 - DECRETO REAL RELATIVO A LA PRESTACIÓN DE SERVICIOS DE FORMACIÓN PARA LOS CONDUCTORES DE TREN 
+## Y EL PERSONAL DE A BORDO 
+### CAPÍTULO I. - Principios.
+ Art. 4. La formación básica y la formación complementaria de los conductores de tren y del personal de a bordo, que circulen por la infraestructura ferroviaria belga, serán prestadas exclusivamente por organismos autorizados.
+### CAPÍTULO II. - Contenido de la formación.
+ Art. 14. El organismo prestará servicios de formación de calidad y elaborará un programa de formación básica respetando los requisitos recogidos en los anexos 2 y 31.  
+Art. 35. El artículo 3 no se aplicará a los conductores o acompañantes de tren que hayan iniciado su formación antes del día de entrada en vigor del presente decreto real.
+el anexo 3, al que se hace referencia en la ley relativa al personal de a bordo, se adjunta como anexo 7.1 del presente informe
+
+
+## Página 21
+
+## 3.3.2	 OTRAS NORMAS, COMO LAS NORMAS DE EXPLOTACIÓN, LAS INSTRUCCIONES LOCALES, LOS REQUISITOS APLICABLES AL PERSONAL, LAS PRESCRIPCIONES DE MANTENIMIENTO Y LAS NORMAS APLICABLES.
+## 3.3.2.1	
+## RECOPILACIÓN OFICIAL DE TARIFAS FASCÍCULO I
+Este documento constituye el reglamento adoptado en aplicación de los artículos 16 y 18 de la ley del 25/08/1891 
+y del D.R. del 04/04/1895. El día del accidente, estaba en vigor la edición del 01/02/2007.
+Esta recopilación recoge las Condiciones Generales para el transporte de viajeros, del equipaje acompañado y para otras prestaciones en servicio interior.
+Artículo 5: Obligaciones generales del viajero y de toda persona presente en las instalaciones y los trenes de la SNCB.
+§ 1.	
+Toda persona presente en las instalaciones y los trenes de la SNCB está obligada a cumplir las leyes, los decretos reales, las Condiciones Generales y las tarifas, y a acatar las órdenes del per­
+sonal de estación o de acompañamiento. Deberá presentar su documento de identidad, si se le requiriera, 
+a cualquier agente autorizado para ello.
+§ 2.	
+Queda especialmente prohibido:
+•  ensuciar o deteriorar el material destinado al transporte, los bienes muebles e inmo­
+bles;
+•  fumar en todos los compartimentos de los trenes;
+•  utilizar de manera no justificada la señal de alarma en los trenes, salvo en caso de emergencia tal 
+como incendio, situación peligrosa, etc...;
+•  dedicarse a actos no justificables que provoquen retrasos en el servicio de los trenes;
+•  ocupar más de un asiento por viajero.
+•  embarcar y desembarcar después de que el acompañante de tren haya dado la señal de par­
+tida.
+§ 3. En caso de infracción del § 2, se aplicarán las disposiciones de la Parte V. Además, estos hechos 
+pueden dar lugar a acciones penales.
+## 3.3.2.2	 RGUIF 5.1.2
+El Reglamento General para la Utilización de la Infraestructura Ferroviaria (RGUIF) 5.1.2 trata en el punto 4 
+de las correspondencias. El plazo de transbordo se define como sigue:
+“Tiempo mínimo necesario para recorrer la distancia que separa las dos andenas de una estación más alejadas entre sí. Este tiempo es determinado por el GI y varía entre un mínimo de 1 
+minuto y un máximo de 3 minutos en función de las instalaciones”.
+El plazo de correspondencia óptimo se define como sigue:
+“Tiempo mínimo indispensable entre la hora obligada (es decir, prevista en el horario) de llegada del 
+tren en correspondencia y la hora obligada de salida del tren que asume la correspondencia para 
+que los viajeros puedan pasar de un tren a otro. Se obtiene para una estación determinada, 
+añadiendo una “reserva” de 2 minutos (tiempo indispensable para neutralizar pequeños retrasos) al 
+plazo de transbordo calculado para dicha estación”.
+
+## Página 22
+
+## 3.3.2.3	 RSEIF 4.1 - HORARIO DE LOS TRENES
+En el § 7.1. PRINCIPIO
+Un tren circula por un itinerario respetando un horario. El maquinista y el personal a bordo deben estar en posesión del horario del tren antes de abandonar la instalación situada en el origen del itinerario que debe seguir dicho tren (estación de origen).
+En el § 7.3. NOTIFICACIÓN DEL HORARIO AL PERSONAL DE LOS TRENES: regla general
+El GI comunica los horarios de los trenes a las UI, que establecen un procedimiento de distribución interna para asegurar ellas mismas, en el momento oportuno, la información de su personal afectado.
+## 3.3.2.4	 RSEIF 4.1 SALIDA DE LOS TRENES DE PASAJEROS ESCORTADOS
+### Principios de apertura y cierre de las puertas
+Los trenes de viajeros circulan con los estribos retraídos o recogidos y con las puertas de acceso y extremos cerradas y aseguradas, conforme a las disposiciones recogidas en las fichas UIC 560 OR y 660 OR. La UI comunica a su personal las medidas que deben adoptarse en caso de funcionamiento anormal de las puertas y los estribos.
+Esta disposición es también de aplicación para las maniobras en andén (desacoplamiento, acoplamiento…). No obstante, las unidades equipadas con un dispositivo propio que permita limitar la velocidad a 1,5 km/h pueden realizar estas maniobras con las puertas abiertas, siempre que dicho desplazamiento no exceda de dos metros.
+### Apertura de las puertas de acceso
+Las puertas de cierre automático, cuyo desbloqueo se realiza mediante la intervención del maquinista o del jefe de tren, no se desbloquean antes de la parada completa del tren ni durante una maniobra si los vagones están ocupados.
+### Cierre de las puertas de acceso
+La UI determina los procedimientos que deben aplicar su personal y equipa eventualmente su material con dispositivos para:
+• 	atraer la atención de los viajeros antes del cierre de las puertas;
+• 	realizar y controlar el cierre y el aseguramiento de las puertas;
+• 	realizar y controlar la retracción de los estribos removibles;
+• 	verificar que ningún viajero queda atrapado entre las puertas o permanece en un estribo y, si fuera el caso, intervenir de forma segura.
+Estas operaciones las realiza el jefe de tren o se efectúan bajo su responsabilidad cuando este es ayudado por otros agentes de la UI.
+El agente de movimiento o el personal de tierra de la UI puede prescribir al jefe de tren que someta a su aprobación el cierre de las puertas y la transmisión de la información OT cuando la medida sea necesaria para garantizar una correspondencia o para cualquier otra misión de explotación. La orden de retrasar estas operaciones se da por altavoces únicamente en caso de urgencia.
+
+
+## Página 23
+
+### Condiciones de salida
+La salida de los trenes de viajeros escortados está supeditada a las condiciones siguientes:
+• 	recepción por parte del maquinista de una información «Operaciones Terminadas» (OT);
+• 	respeto por parte del maquinista de las indicaciones dadas por la señalización, por una orden de franqueo o por una de las autorizaciones previstas.
+### La información OT (Operaciones Terminadas)
+### Definición
+Información que indica al maquinista que las operaciones relacionadas con la inmovilización del tren han terminado.
+Esta información no constituye una orden de salida.
+### Condiciones de transmisión de la información OT
+La transmisión de la información OT está supeditada a las condiciones siguientes:
+• 	se ha realizado una prueba satisfactoria de los frenos en los casos en que esté prescrita.
+• 	el agente de movimiento ha dado su autorización en los casos prescritos;
+• 	han terminado las operaciones por las que el tren se ha inmovilizado;
+• 	se ha alcanzado o superado la hora de salida;
+• 	el proceso de cierre de las puertas ha sido satisfactorio.
+### Consecuencias de la transmisión de la información OT
+Tras la transmisión de la información OT, el personal de la UI prohíbe cualquier movimiento de viajeros (subida o bajada).
+### Agente autorizado para transmitir la información OT
+La información OT se transmite al maquinista por el jefe de tren.
+Cuando la naturaleza del material impida al jefe de tren abandonar la unidad, tras el cierre de las puertas, para accionar los «Indicadores de Operaciones Terminadas» (IOT), esta maniobra corresponderá a un agente en andén designado por la UI.
+### Medios autorizados para transmitir la información OT
+En la salida de vías equipadas con IOT
+La información OT se da mediante los IOT. Queda entonces prohibido utilizar, conjuntamente con los IOT, el dispositivo de transmisión de la información OT propio del material servido o cualquier otro procedimiento determinado por la UI que pueda ser interpretado por el maquinista como una transmisión de la información OT.
+La UI da las directrices necesarias a su personal para evitar que una mala interpretación del funcionamiento normal o un uso indebido del equipo propio del material servido sea considerado como una información OT por el maquinista.
+
+## Página 24
+
+Cuando los IOT no estén operativos o no se utilicen (avería, salida con orden de franqueo, salida con el testigo de franqueo de la señal servida, ciertas salidas en pequeño movimiento, etc.), o cuando el maquinista no tenga la posibilidad de observar un IOT, la información OT se transmite, tras acuerdo entre el maquinista y el jefe de tren, como en las salidas de vías no equipadas con IOT.
+Cuando un agente de maniobras que da servicio a una instalación adopta una disposición o tiene conocimiento de una situación que impida la utilización de los IOT en la salida del tren, informará al jefe de tren lo antes posible.
+### IOT (Indicador de Operaciones Finalizadas)
+Dispositivo luminoso utilizado en ciertas vías para transmitir la información OT al
+maquinista. Las instalaciones equipadas con IOT se detallan en el Tomo III del LST. 
+### Control de la presencia del jefe de tren
+En las salidas de vías equipadas con IOT, el UI establece un procedimiento que permite al maquinista 
+asegurarse de la presencia del jefe de tren justo después de la puesta en movimiento de su tren. 
+## 3.3.2.5	 MANUAL DEL ACOMPAÑANTE DE TRENES
+Parte III Servicio de trenes – parte 7: salida de trenes
+### Cierre de las puertas
+El jefe de tren:
+•  cierra las puertas y controla su cierre correcto
+•  da pitidos de silbato breves y repetidos para atraer la atención de los viajeros sobre la inminencia del cierre de las puertas
+•  ordena el cierre de las puertas, excepto la desde la cual opera.
+•  baja al andén para asegurarse de que ningún viajero queda atrapado entre las puertas o 
+ha permanecido en un peldaño y de que todas las puertas están cerradas
+•  transmite la información OT
+•  después de la transmisión de la información OT, prohíbe verbalmente y sin coacción física 
+el embarque o desembarque de viajeros
+•  mantiene abierta la puerta desde la cual opera, continúa asegurando la vigilancia del 
+tren y cierra la última puerta en el momento de la puesta en movimiento del tren.
+### Salida de trenes
+### IOT (indicadores de Operaciones Finalizadas)
+Dispositivo luminoso utilizado en ciertas vías para transmitir la información OT al 
+maquinista.
+La OT es la información que indica al maquinista que las operaciones relacionadas con la detención del tren 
+han finalizado. Esta información no constituye una orden de salida.
+
+
+## Página 25
+
+### Condiciones de transmisión de la información OT
+La transmisión de la información OT está sujeta a las siguientes condiciones:
+•  las operaciones por las que el tren ha permanecido detenido han finalizado
+•  el cierre de las puertas de acceso se ha realizado. El proceso de cierre de las puertas debe 
+comenzarse aproximadamente 10 segundos antes de la hora de salida en las vías no equipadas con IOT y 20 
+segundos en las vías con IOT.
+•  se ha alcanzado o superado la hora de salida (menos 10 segundos para las vías equipadas con IOT)
+### Transmisión de la información OT mediante los IOT
+### Descripción y proceso de funcionamiento de los IOT
+Los indicadores luminosos son:
+•  constituidos por una caja que presenta una corona de seis luces blancas o amarillas rodeando una 
+luz roja;
+•  normalmente apagados;
+•  accionados desde una de las cajas de control escalonadas a lo largo del andén. 
+Los indicadores luminosos - Proceso de funcionamiento
+La luz roja se enciende nada más accionar una caja de control.
+Las luces blancas o amarillas sustituyen a la luz roja bajo la doble condición de que:
+•  haya transcurrido un intervalo de 10 segundos desde el accionamiento de la caja de control
+•  la señal de salida autorice la salida en gran movimiento.
+Las luces blancas se apagan automáticamente al cerrar la señal de salida.
+El encendido de las luces blancas constituye la información OT.
+### Cancelación de la orden
+Se obtiene:
+•  girando un octavo de vuelta hacia la izquierda hasta que se extinga la lámpara roja
+•  devolviendo a continuación la llave a su posición inicial antes de retirarla de su alojamiento.
+La cancelación no tiene efecto cuando las luces blancas o las luces amarillas están encendidas.
+
+
+## Página 26
+
+### Control de la presencia del jefe de tren en las salidas de vías equipadas con IOT
+En las unidades múltiples y automotores, el maquinista debe asegurarse de la presencia del jefe de tren 
+verificando, inmediatamente después de la salida, el encendido de la lámpara de control de cierre de las « 
+puertas ».
+Si, tras recorrer 30 metros, la lámpara de control no se ha encendido/no se ha apagado 1, el 
+maquinista debe detenerse y contactar con el jefe de tren.
+El jefe de tren está en el tren: entra en contacto con el maquinista.
+## 3.3.2.6	 ANUNCIOS DE TRENES
+El principio de anuncios de trenes se establece mediante una instrucción local 10/1 título 9 «Organiza­
+ción y vigilancia de las correspondencias trenes y trenes/autobuses» en aplicación desde el 15 de mayo de 2007.
+Es el Chsta «Regulador» el que:
+•  decide y planifica lo antes posible los posibles cambios de vías para correspondencia con el fin de limitar las molestias causadas a la clientela ya presente en el andén.
+•  informa lo antes posible, por radio, a los schst «andenes» de las correspondencias 
+previstas en función de los retrasos anunciados.
+Los schst «andenes» vigilan estrechamente la realización de las correspondencias con el fin de determinar al 
+mejor los tiempos de espera.
+Los schst «andenes» deben informar a los acompañantes de los trenes en correspondencia sobre la 
+existencia de la correspondencia y la duración de la espera para que dicho agente pueda transmitir la 
+información de salida retrasada a la clientela ya presente en el tren.
+Si el schst «andenes» no puede prevenir al acompañante, lo informará al Chsta 
+«Regulador» o al schst del Bloqueo. El acompañante es entonces avisado de la correspondencia por GSM.
+En último recurso, si las otras soluciones son inaplicables; se utiliza la sonorización de 
+la o las vía(s) concernida(s).
+3.3.2.7	 NORMAS UIC 560: PUERTAS, ESCALONES, VENTANAS, Peldaños, MANGOS Y PASAMANOS DE 
+## LOS VAGONES Y DE LOS FURGONES
+(12ª edición enero de 2002)
+Capítulo 1.2 Disposiciones de aplicación general para las puertas de acceso provistas de un mando 
+de apertura automática
+« 1.2.5 Cuando el tren supera una velocidad de aproximadamente 5 km/h, las puertas de acceso deben cerrarse 
+automáticamente. »
+El principio del autorial 41 es diferente del de las automotoras: la lámpara está encendida y debe apagarse cuando todas las puertas están cerradas
+
+## Página 27
+
+## 3.4	 FUNCIONAMIENTO DEL MATERIAL RODANTE Y DE LAS INSTALACIONES TÉCNICAS
+## 3.4.1	 SISTEMA DE SEÑALIZACIÓN Y CONTROL-CONDUCCIÓN, INCLUIDOS LOS REGISTROS DE LOS REGISTRADORES AUTOMÁTICOS DE DATOS,
+No aplicable
+## 3.4.2	 MATERIAL RODANTE, INCLUIDOS LOS REGISTROS DE LOS REGISTRADORES AUTOMÁTICOS DE DATOS.
+Los automotores de tipo 41 que componían el
+tren del 6062 están equipados con paneles de indi­
+cación de destino. Al parecer, ese día, a esa hora, el indicador indicaba como
+destino Dinant y no Libramont según un testigo.
+No existe registro de estas indicaciones.
+La presencia de SIV (Sistema de Información a los Viajeros) a bordo del material utilizado no
+exime al jefe de tren de realizar las anu­
+ncias previstas.
+El jefe de tren vela por la inicialización y el correcto
+funcionamiento de este sistema a lo largo del trayecto.
+El sistema SIV es particular, solo se indica en el exterior del
+tren la estación terminal o el tipo de tren.
+Está compuesto por:
+• 	un ordenador de control situado en cada
+cabina de conducción,
+• 	4 indicadores situados en el exterior, uno en cada
+extremo y en cada pared del automotor.
+Un sistema de bloqueo impide que se puedan introducir datos simultáneamente desde los
+dos ordenadores de un mismo automotor.
+
+
+## Página 28
+
+## 3.4.3	 OTROS
+## 3.4.3.1	
+## PLANIFICADOR DE VIAJE EN LÍNEA
+Un planificador de viaje en línea está a disposición de los viajeros en el sitio web para
+preparar sus desplazamientos. Introduciendo las estaciones de origen y destino, así como las
+fechas y horas de viaje, aparecen en la pantalla las diferentes alternativas.
+Cuando se opta por un trayecto entre Bruselas y Houyet con una salida hacia las 11h, el indica­
+dor propone, con fecha del 05 de septiembre de 2009:
+La salida está prevista a las 11h03 de la estación de Bruselas Midi, es decir, a las 11h20 en la estación de Bruselas Schuman para llegar a las 12h39 en la estación de Dinant.
+Un cambio es obligatorio en la estación de Dinant. El tren propuesto es el tren 6062 cuya salida
+está prevista a las 12h51. El tren 6948, cuya salida está prevista a las 12h42, no se propone como alterna­
+tiva.
+## 3.4.3.2	 ACCESO A LAS ANDENAS
+### Extracto de la instrucción local 10/1
+El acceso a la andana I (vía A) se realiza por la sala de espera, por el paso lateral a la derecha de la estación o a través del aparcamiento situado a 200 metros al final de la estación, lado Namur.
+El acceso a la andana II (vía B) se realiza a través del paso situado frente a la puerta de salida de la sala de espera.
+El acceso a la andana III (andana central vía B y Vía 3) se realiza a través del paso situado frente a la puerta de
+salida de la sala de espera.
+El acceso a las andanas II y III está prohibido a los viajeros mediante la señal C3 implantada en el intermedio de vías en el paso.
+El paso por los viajeros solo está autorizado en presencia del personal de la estación.
+La seguridad del cruce de vías por los viajeros es competencia del gestor de infraestructura.
+
+
+## Página 29
+
+## 3.5	 DOCUMENTACIÓN DEL SISTEMA OPERATIVO
+## 3.5.1	 INTERCAMBIO DE MENSAJES VERBALES EN RELACIÓN CON EL INCIDENTE, INCLUIDA LA
+## DOCUMENTACIÓN PROCEDENTE DE LOS REGISTROS
+ANUNCIOS EN LAS ANDENAS
+Los anuncios se realizan por el Blok 7 en la estación de Dinant.
+Llega el tren 2411 a la vía 1.
+Una vez detenido el tren 2411, los viajeros bajan y habrían oído un anuncio poco pero
+suficientemente audible, difundido respecto al tren con destino a Houyet que sale por la vía 3.
+Al parecer, no se realiza ningún anuncio respecto al tren 6062 estacionado en la vía 1 B con destino
+a Libramont que realiza una parada en la estación de Houyet.
+Los anuncios no se registran.
+## ANUNCIOS EN LOS TRENES
+Instrucción PAT 3.14.1 Comunicación con los clientes: trata de los anuncios a realizar en los trenes
+por el personal de acompañamiento tanto en situación normal como en situaciones perturbadas.
+## INTERCAMBIOS ENTRE LOS ACTORES
+La empresa ferroviaria debe comunicar inmediatamente al gestor de infraestructura todas las modificaciones en el desarrollo de sus actividades con respecto al esquema normal:
+retrasos, cambios,... Todas las modificaciones a las particularidades locales gestionadas por el gestor
+se repercuten a la empresa ferroviaria. La información figura en el extracto diario.
+Prestaciones eventuales de Infrabel por cuenta de la empresa ferroviaria
+Una lista se define en el protocolo local Dinant 001/08/020 Parte 3
+• 	Supervisión de las correspondencias por el personal I-R
+• 	Información verbal a los acompañantes de trenes en caso de correspondencia
+• 	Gestión de las correspondencias tren/tren: aplicación de la lista de tiempos de espera
+## SUPERVISIÓN DE LA ANDANA POR EL PERSONAL I-R
+• 	Supervisión general de las andanas, canalización de los viajeros.
+• 	Interrupción para salida irregular: avería del material, avería IOT, salida diferida.
+• 	...
+Este protocolo local celebrado entre el GI y la UI es un complemento al acuerdo para la utilización de la infras­
+tructura ferroviaria. Regula las modalidades prácticas relativas a la utilización de la infraestructura.
+
+## Página 30
+
+## 3.6	 INTERFAZ HUMANO-MÁQUINA-OPERACIÓN
+## 3.6.1	 DATOS RELATIVOS AL CONDUCTOR
+El conductor del tren estaba en posesión de una licencia válida en el momento del accidente.
+## 3.6.2	 DATOS RELATIVOS AL ACOMPAÑANTE
+El acompañante del tren estaba debidamente en posesión, a la fecha del accidente, de un título de acompañante de tren, que era válido hasta el 31/10/2010.
+## 3.6.3	 FORMACIÓN DE LOS ACOMPAÑANTES DE TREN 
+En 2009, la formación de los acompañantes de tren preveía un módulo «comercial» seguido de un módulo «explotación». Los alumnos debían aprobar el primer módulo para acceder al segundo. 
+Los alumnos recibían formación únicamente para la red limítrofe que les correspondía, en función del depósito de asignación.
+El plan de formación fue revisado para responder a los requisitos de la legislación belga vigente.
+La SNCB está reconocida como organismo de formación para los acompañantes de tren. El organismo de formación asegura: 
+• 	la formación fundamental;
+• 	formaciones complementarias.
+## EXÁMENES
+El organismo de formación organiza exámenes en los siguientes casos:
+• 	al término de una sesión de formación fundamental o complementaria;
+• 	durante el control trianual de las competencias profesionales;
+• 	durante una solicitud puntual y motivada de control de la aptitud profesional.
+El acceso a las formaciones está garantizado para el personal de todas las empresas ferroviarias activas en la infraestructura ferroviaria belga.
+## OBJETIVO PEDAGÓGICO 
+Al final de la formación, el alumno puede reaccionar de manera eficaz y segura ante las situaciones profesionales gracias a: 
+• 	el conocimiento reglamentario necesario;
+• 	los conocimientos de línea y de material requeridos;
+• 	aptitudes específicas.
+Una situación profesional es un conjunto integrado de tareas a realizar, de normas a respetar y de decisiones que tomar.
+## LOS TRAYECTOS DE FORMACIÓN 
+Los trayectos de formación se basan en: 
+• 	una formación orientada a las «tareas» haciendo uso de las situaciones profesionales;
+• 	una complejidad progresiva enseñada en diferentes fases;
+• 	una integración de la teoría y la práctica.
+Al final de la formación, el candidato se somete a la prueba de certificación. En caso de aprobar esta prueba, el candidato obtiene su certificado.
+
+
+## Página 31
+
+## LA FORMACIÓN FUNDAMENTAL 
+### Objetivo
+Preparación para la prueba de certificación con vistas a la obtención del certificado de acompañante de tren de viajeros en la red ferroviaria belga.
+### Programa
+• 	organización del trabajo; 
+• 	comunicación con los socios de seguridad;
+• 	frenado;
+• 	electrificación;
+• 	señalización y circulación;
+• 	procedimiento de salida;
+• 	acoplamiento y desacoplamiento;
+• 	situaciones anormales;
+• 	incidente, en peligro, obstáculo, accidente.
+## LA FORMACIÓN COMPLEMENTARIA 
+### Objetivo
+Ampliación de las competencias profesionales del candidato.
+### Programa
+• 	Líneas de alta velocidad;
+• 	Novedades.
+## FORMACIÓN PERMANENTE
+La formación permanente de los acompañantes de tren comprende diversas materias, de las cuales una parte se refiere a la explotación.
+Se imparten nueve módulos en un período de 3 años:
+• 	Salida de los trenes
+• 	Frenado de los trenes
+• 	Preparación de los trenes
+• 	Trajecto de los trenes
+• 	Seguridad de los viajeros
+• 	Deberes y responsabilidades del personal de acompañamiento
+• 	Intervención en caso de peligro, incidente o accidente
+• 	Uso de los medios de comunicación relacionados con la seguridad
+• 	Funcionamiento de las puertas de acceso
+Los módulos son objeto de adaptación en función de la evolución de la reglamentación.
+Ciertos módulos e-learning se han integrado en el sistema de venta Ibis y refuerzan el aprendizaje de estos módulos.
+El acompañante había finalizado su formación de acompañante el 1 de noviembre de 1993, por lo que no siguió el plan actual, sino que siguió las formaciones permanentes necesarias para la obtención de la renovación de su título de acompañante de tren.
+
+
+## Página 32
+
+## 3.6.4	 DISEÑO DE LOS EQUIPOS QUE TIENEN IMPACTO EN LA INTERFAZ HUMANO-MÁQUINA
+Según el RSEIF 4.1, al salir de las vías equipadas con IOT, la UI prevé un procedimiento que permite al conductor asegurarse de la presencia del jefe de tren justo después de la puesta en movimiento de su tren.
+## 3.6.4.1	
+## LAS PUERTAS 
+### Las puertas de acceso
+Las puertas son de tipo «corrediza oscilante» alimentadas por el mando electro-neumático.
+### Mando de apertura
+El mando de desbloqueo colectivo de las puertas es realizado por el conductor.
+Cuando la velocidad es inferior a 5 km/h, cada puerta del lado en el que el conductor ha mandado el desbloqueo puede abrirse:
+• 	presionando el botón pulsador verde en el interior;
+• 	presionando el botón de apertura en el exterior.
+### Cierre colectivo
+El conmutador debe estar posicionado en el sentido de la marcha.
+El personal de acompañamiento de tren lanza la orden de cierre colectivo accionando el interruptor triangular en sentido horario mediante la llave de Berna.
+El diodo verde se apaga y el diodo amarillo se enciende:
+• 	suena una señal acústica en cada puerta hasta su cierre y su bloqueo. La puerta desde la cual se ha realizado la orden de cierre se cierra dando una nueva orden de cierre mediante un gesto profesional.
+• 	durante la parada, cada puerta puede cerrarse individualmente mediante un gesto profesional.
+### Apertura de emergencia
+Cada puerta de acceso está equipada con una manija de apertura de emergencia sellada de color rojo.
+Girar la manija roja hacia abajo provoca la activación de la señal acústica.
+A una velocidad inferior a 5 km/h, la puerta puede abrirse manualmente.
+### Mando de las puertas
+El desbloqueo y el cierre de las puertas solo pueden ser mandados si la palanca de inversión ocupa, durante la parada, una posición de marcha en la cabina de conducción puesta en servicio. 
+Cuando la velocidad de puesta en marcha del tren es superior a 5 km/h, las puertas se cierran y se bloquean automáticamente.
+### Instalación OT propia del material AR41
+El párrafo del manual del acompañante descrito a continuación debe considerarse inexistente para este tipo de material:
+«una activación repetida del botón pulsador de color negro provoca una repetición de la señal acústica en la cabina de conducción e impone al conductor:
+• 	la prohibición de tomar la salida si aún está parado;
+• 	un frenado de emergencia si ya está en movimiento.
+Los impulsos repetidos sobre el botón pulsador negro situado en el panel de mando de las puertas de acceso de los AR 41 no se consideran como una emisión de alarma y/o de solicitud de puesta en parada inmediata del tren.»
+Esta opción disponible en los automotores no se instaló en el material rodante de la SNCB.
+
+## Página 33
+
+## 3.7	 INCIDENTES ANTERIORES DE NATURALEZA COMPARABLE
+## 3.7.1	 INCIDENTES COMUNICADOS POR LOS ACOMPAÑANTES DE TREN
+Numerosos incidentes de embarque y desembarque son comunicados por los acompañantes de tren.
+Se añade una lista facilitada por la SNCB en el anexo 7.2
+|  | 2010 | 2011 | Hasta el 24/05/2012 |
+| Número de incidentes registrados por la SNCB | 183 | 111 | 36 |
+Se constata una tendencia a la baja.
+Las diversas campañas de concienciación de los viajeros parecen empezar a dar sus frutos:
+•  cartelización en las estaciones 
+•  folleto explicativo
+•  artículo en el periódico Metro distribuido gratuitamente en las estaciones
+
+
+## Página 34
+
+## 4.	 ANÁLISIS Y CONCLUSIONES
+## 4.1	 INFORME FINAL DE LA CADENA DE EVENTOS
+El 23/05/2009, una familia de Bruselas se desplaza de Bruselas Schuman a Houyet en tren. Esta fa­
+milia está compuesta por el padre, la madre y sus dos hijas.
+Durante la planificación del viaje, el padre de familia constata que tendrán que tomar el tren E2411 
+con destino a Dinant. 
+En Dinant está previsto un cambio de tren. Para ello, disponen de varios minutos para efectuar el 
+cambio de tren. 
+La llegada del E2411 a Dinant está prevista a las 12h39. La salida de la correspondencia está prevista a las 12h51, 
+es decir, 12 minutos de tiempo para efectuar el cambio de trenes. 
+La familia embarca en el tren E2411 en Bruselas Schuman a las 11:20 con destino a Dinant. El 
+tren E2411 llega a Dinant al andén 1, son las 12h41.
+En este momento, en la estación de Dinant se encuentran 3 trenes:
+•  El tren E2411 que acaba de llegar de Bruselas y que permanece estacionado en el andén 1 justo antes del cruce 
+de los andenes 1/2. Este tren será reutilizado para efectuar el trayecto de vuelta hacia Bruselas Midi.
+•  El tren Z6062 que permanece estacionado en el andén 1B y que tiene como destino Libramont, hora de salida 
+prevista 12h51.
+•  El tren turístico Z6948 que permanece estacionado en el andén 3, tiene como destino Houyet, hora de salida 
+prevista 12h42.
+Durante la llegada a la estación de Dinant del tren E2411, se difunde una comunicación a los viajeros 
+informándoles de que el tren con destino a Houyet, es decir, el Z6948, está en salida por el andén 3. Dado que Houyet es la estación 
+de destino de la familia de Bruselas, estos se dirigen al andén 3 utilizando el cruce de servicio previsto sin que ello haya sido 
+indicado por el personal del gestor de la infraestructura. El acompa­
+ñante de tren silba para señalar que las operaciones de embarque y desembarque han 
+finalizado.
+La información OT (operaciones finalizadas) es dada por el agente de acompañamiento (jefe de tren) 
+al maquinista a través del equipo IOT y le indica que las operaciones en andén (desembarque y em­
+barque de viajeros, cierre de puertas, ...) han concluido y que, en lo que respecta 
+al jefe de tren, nada se opone a la salida del tren.
+Una vez realizada esta acción, el acompañante se dirige hacia su tren, sube a bordo y se asegura de que no se produzca 
+ningún otro movimiento de viajeros. 
+Cuando se cumplen las dos condiciones de salida siguientes, el maquinista puede poner su tren 
+en movimiento:
+•  recepción por parte del maquinista de una información «Operaciones Finalizadas» (OT) mediante el encendido 
+de las luces blancas del IOT;
+•  respeto por parte del maquinista de las indicaciones dadas por la señalización, por una orden de fran­
+queo o por una de las autorizaciones previstas.
+
+
+## Página 35
+
+El acompañante acciona el conmutador de mando del IOT y sube al tren por la 
+puerta que permanecía abierta.
+Las dos jóvenes se desplazan más rápidamente que sus padres, una de ellas logra 
+acceder a bordo del tren, a través de esta última puerta que permanecía abierta, a pesar de la prohibición verbal 
+del acompañante.
+La familia se separa, una hija se encuentra en el tren, los otros tres miembros han permanecido en el 
+andén.
+El acompañante del tren 6948 se encuentra en la abertura de la puerta, en el lado exterior, la joven 
+detrás de él, impide cualquier movimiento ante la inminente salida del tren. El padre intenta sacar 
+a su hija mientras el tren arranca. El arranque del tren provoca el desequilibrio del padre 
+que había colocado un pie en el peldaño. El acompañante de tren no ha tirado de la señal de alarma. 
+Él también pierde el equilibrio y los dos hombres caen entre el borde del andén y el tren. 
+El maquinista del tren 6948, que no ha percibido nada anormal, arranca.
+La joven que se encontraba en el tren salta al andén.
+Los testigos llaman a los servicios de emergencia mientras el tren 6948 continúa su trayecto.
+El cierre de las puertas es automático tan pronto como la velocidad alcanza los 5 km/h.
+El maquinista no se ha percatado de la ausencia del acompañante de tren.
+
+## Página 36
+
+## 4.2	 DISCUSIÓN 
+## 4.2.1	 PRINCIPIO DE CONTROL
+## 4.2.1.1	
+## PLANIFICADOR DE VIAJE EN LÍNEA
+El tren 2411 procedente de Bruselas llegó con aproximadamente dos minutos de retraso respecto al horario previsto en Dinant, es decir, a las 12h41. Según el indicador de horarios de trenes, los viajeros disponían de 12 minutos para cambiar de tren en la estación de Dinant. El sistema de horarios no indica ninguna alternativa. 
+A pesar del retraso de dos minutos, los viajeros disponían de un tiempo suficiente, diez minutos, para embarcar en un tren que se encontraba estacionado en el mismo andén. 
+Si se hubiera decidido hacer coincidir el tren procedente de Bruselas con el tren de salida por la vía 3, el acompañante del tren habría debido ser informado, lo cual no parece ser el caso en función de los elementos disponibles a la fecha de hoy.
+## 4.2.1.2	
+## ANUNCIO DE LOS TRENES DE VIAJEROS
+El tren 6948 que se encuentra en la vía 3 está compuesto por 2 automotores de tipo 41 (4164 y 4159) en lugar de 3 automotores según la composición inicial prevista. El tren 6948 es un tren ICT, circula únicamente durante la temporada turística. El tren turístico 6948 es uno de los trenes que realizan la lanzadera entre Dinant y Houyet y está destinado principalmente a los kayakistas que realizan el descenso del río Lesse. 
+Los aficionados a este deporte se desplazan a Dinant en tren, en coche u otros medios de transporte. Posteriormente, se desplazan en tren hacia las estaciones de alquiler de kayaks en Houyet, realizan el descenso del río y luego van a recoger el medio de transporte con el que llegaron a Dinant. 
+Durante las vacaciones y con buen tiempo, el número de viajeros es muy elevado. No está previsto que el tren turístico 6948, vía 3, haga la correspondencia con el tren 2411 procedente de Bruselas.
+Un anuncio de salida inmediata del tren hacia Houyet parece haberse realizado en atención a los viajeros que se encontraban en el andén 3. A pesar de la aglomeración reinante en los andenes, numerosos viajeros del andén 1 habrían oído el anuncio y se habrían dirigido rápidamente hacia el andén 3 para tomar este tren, incluida la familia de Bruselas. No había ninguna otra razón para que los viajeros procedentes de Bruselas se dirigieran a la vía 3, salvo haber oído dicho anuncio.
+El anuncio habría sido un anuncio clásico que indica a los viajeros del andén 3 que el tren está a punto de salir. El anuncio probablemente provocó estrés en los viajeros, incitándoles a cambiar de vía precipitadamente, mientras el acompañante del tren turístico iniciaba su procedimiento de salida, recayendo sobre este último la responsabilidad de gestionar tanto el procedimiento de salida del tren del que era responsable como el flujo de viajeros convencidos de perder su tren.
+Resultaba materialmente imposible para los viajeros procedentes de Bruselas acceder aún a este tren sin comprometer su propia seguridad. Sin embargo, no todos los usuarios son habituales y no interpretan el mensaje de la misma manera.
+Parece ser que no se realizó ningún anuncio para indicar a los viajeros que un tren con destino a Libramont, con parada en la estación de Houyet, estaba estacionado en la vía 1, lado B, en la estación durante la llegada del tren. No existe un sistema de grabación de estos anuncios.
+Parece ser que no se realizó ningún anuncio en el tren durante su llegada a la estación para indicar a los viajeros que un tren con destino a Libramont, con parada en la estación de Houyet, estaba estacionado en la misma vía, lado B. Esto no parece estar previsto en la instrucción « PAT 3.14.1 Comunicación con la clientela ». No existe un sistema de grabación de estos anuncios.
+
+
+## Página 37
+
+Además, el tren que la familia habría debido tomar, así como los demás viajeros procedentes de Bruselas, se encontraba en la vía 1B en Dinant. Este tren, constituido por un automotor tipo 41, estaba estacionado en la vía 1B desde hace aproximadamente 40 minutos. Parece ser que el indicador del tren mostraba como destino Dinant y no Libramont. 
+El procedimiento no especifica el momento en que debe modificarse el display. Durante este periodo, el personal realiza su descanso.
+El display se encuentra en la cabina de conducción y la modificación se realiza poco antes de la salida del tren e indica la estación de destino final. Un tren con dirección a Libramont no indica claramente a los viajeros que el tren se detiene en la estación de Houyet.
+Una mejor comunicación y, por tanto, información, habría permitido probablemente canalizar mejor a los viajeros.
+## 4.2.1.3	
+## EL PERSONAL DE LA ESTACIÓN
+La misión del jefe de estación puede resumirse en una sola palabra: coordinar. 
+El jefe de estación supervisa todas las actividades que tienen lugar en la estación: coordinación de los diferentes agentes, cumplimiento de los horarios de los trenes, información a los usuarios en tiempo real,...
+En la estación de Dinant, el jefe de estación es también el jefe de andén; asume ambas funciones; el día del accidente, intentaba canalizar a los numerosos viajeros y guiarlos hacia el tren estacionado en la vía 1B.
+## 4.2.1.4	
+## ESTACIÓN DE DINANT
+Una particularidad de la estación de Dinant es que los viajeros se desplazan de un andén a otro a través de las pasarelas de servicio; no hay puente peatonal ni paso subterráneo. El cruce solo puede realizarse en presencia del personal de Infrabel autorizado.
+No había nada que indicara la prohibición de cruzar las vías a los viajeros. Actualmente, un panel E5 está dibujado en la pasarela, pero nada materializa la prohibición (por ejemplo: barrera, cadena) y nada indica que el cruce solo pueda realizarse bajo la supervisión y autorización del jefe de estación. 
+El día del accidente, varios viajeros cruzaron las vías, a pesar de la ausencia de personal para autorizarlo y de los riesgos asociados al cruce de las vías. No se prevía ninguna salida inminente en las vías I y II en dirección a la pasarela de servicio en el momento del accidente.
+Cada año, numerosas personas « apresuradas » consideran que cruzar las vías es poco peligroso y no dudan en franquear las vías férreas. 
+Cruzar las vías férreas no solo es peligroso, sino ilegal. Esta actitud provoca cada año numerosos retrasos, accidentes y muertes. Los trenes son cada vez más rápidos, cada vez menos ruidosos; además, un tren puede ocultar a otro.
+
+## Página 38
+
+## 4.2.1.5	
+## PROCEDIMIENTO DE SALIDA DE LOS TRENES DE VIAJEROS
+Con tres pitidos cortos, el acompañante advierte a los pasajeros de que el desembarque y el embarque han finalizado. En ese momento, todo movimiento de viajeros debe cesar, ya que la cierre de las puertas es inminente. En las andenas equipadas con IOT, el maquinista no hace caso a los pitidos.
+Acciona el cierre automático de las puertas, con la excepción de una sola. Verifica el cierre correcto de las puertas y procede a accionar el conmutador del IOT mediante uno de los cuadros previstos y dispuestos a intervalos regulares en la andén. A continuación, dispone de 10 segundos para subir a bordo del tren.
+El acompañante regresa a la plataforma, de la cual no está autorizado a cerrar la puerta hasta después de la primera media vuelta de las ruedas del convoy. El acompañante del tren debe, por tanto, encontrarse en el peldañopara realizar correctamente su tarea.
+Este procedimiento se estableció para garantizar la seguridad de los usuarios: permite al acompañante echar un último vistazo a la andén para asegurarse de la seguridad de los viajeros.
+Durante esta «zona gris», está prohibido a los viajeros subir al tren, ya que el riesgo de caída durante el embarque y el arranque es demasiado elevado. A partir de ese momento, el maquinista del tren puede arrancar en cualquier momento con la encendida de las seis luces blancas o amarillas del IOT. En cuanto la información OT se transmite al maquinista, el desplazamiento del convoy está autorizado, respetando la señalización. Es frecuente que un retrasatario intente colarse en el tren por esa única puerta que permanece abierta.
+Durante esta «zona gris», el plazo entre el momento en que el acompañante acciona el IOT y el momento en que el maquinista recibe la información «Operación Terminada» y arranca, no es conocido por el personal, ni por el maquinista, ni por el acompañante. Plazo durante el cual el acompañante debe mantener la última puerta abierta e impedir, sin intervención física, que los viajeros suban a bordo. Surgen problemas cuando el acompañante acciona el IOT y debe impedir el embarque de los viajeros mientras la señal permanece cerrada y el maquinista no recibe la información «Operaciones Terminadas» mediante las seis luces blancas del IOT. Los acompañantes son, además, víctimas regularmente de diversas agresiones.
+Durante sus formaciones continuas, los acompañantes reciben instrucciones, entre otras cosas, sobre el procedimiento de salida.
+No es el primer incidente entre un viajero y un acompañante; los viajeros son testigos regularmente de escenas en las que viajeros intentan subir a un tren mientras el acompañante del tren intenta hacer respetar la prohibición.
+El procedimiento de mantener la última puerta abierta es muy antiguo y su origen se explica por el hecho de que:
+• 	a principios del siglo pasado, los acompañantes debían cerrar ellos mismos las puertas de los viajeros,
+• 	antes de los años 70, las puertas del material rodante podían abrirse en cualquier momento por los viajeros mediante la simple presión de los botones situados en el interior y en el exterior del material rodante.
+En la actualidad, una vez que las puertas han sido cerradas por el acompañante, ya no es posible abrirlas salvo accionando la apertura de emergencia automática. Está prohibido accionar la apertura de emergencia sin una urgencia real; este acto también es sancionable.
+El procedimiento se conserva, entre otras razones, porque cuando las andenas no están equipadas con IOT, la información «Operación Terminada» se transmite mediante la encendida de la lámpara de mano.
+La encendida de la lámpara de mano, durante el cierre de todas las puertas en una andén equipada con IOT, es un riesgo identificado por la empresa ferroviaria, que puede inducir a error al maquinista.
+
+
+## Página 39
+
+Si, tras accionar el conmutador del IOT, el acompañante hubiera regresado al tren y cerrado inmediatamente la última puerta, el accidente probablemente no se habría producido.
+Un nuevo procedimiento está en estudio desde junio de 2009.
+Un proyecto piloto verá la luz en 2013, mientras que el sistema debería ser aprobado y obtener los certificados necesarios antes de finales de 2014. Desde 2015, comenzará la implementación de las herramientas informáticas y las adaptaciones técnicas en las andenas y a bordo de los trenes.
+## 4.2.1.6	
+## DERECHOS Y OBLIGACIONES DE LOS VIAJEROS
+Toda persona presente en las instalaciones y los trenes de la SNCB está obligada a cumplir las leyes, decretos, condiciones generales y tarifas, y a acatar las órdenes del personal de estación o de acompañamiento.
+«Prohíbese, en particular, subir al tren y bajar del tren, ya sea antes de la parada completa del mismo, ya sea después de que el acompañante del tren haya dado la señal de salida. Está prohibido a los viajeros subir o bajar del tren cuando el personal de la empresa ferroviaria concernida lo prohíba.»
+«los viajeros no pueden cruzar las vías sin la presencia de un agente»
+«¿Nadie se exime de ignorar la ley?»
+Este famoso adagio no significa que se considere que todo ciudadano conoce el conjunto de los textos legislativos y reglamentarios (decretos, circulares...) existentes en el orden jurídico.
+Este adagio representa en realidad una ficción jurídica, es decir, un principio del cual se sabe que su realización es imposible, pero que es necesario para el funcionamiento del orden jurídico. Aquí, la ficción es evidente: nadie puede conocer el conjunto de las leyes, pero al mismo tiempo, esta ficción es necesaria.
+De hecho, si no existiera, bastaría con que toda persona perseguida sobre la base de una ley invocara (e incluso demostrara) su ignorancia del texto en cuestión para eludir cualquier sanción. Se comprende que las reglas perderían toda eficacia ante la facilidad con la que se podría sustraer a su aplicación.
+
+
+## Página 40
+
+## 4.2.2	 PRINCIPIO DE RECUPERACIÓN
+## 4.2.2.1	
+## SEÑAL DE ALARMA
+Los impulsos repetidos en el pulsador negro situado en el panel de control de las puertas de acceso de los AR 41 no se consideran como una emisión de alarma y/o de solicitud de parada inmediata del tren. Es una opción que no se instaló en el material rodante de la SNCB.
+La señal de parada de emergencia no se encuentra a la altura de las plataformas de acceso al automotor, sino en el interior de los compartimentos de viajeros separados por puertas interiores correderas. La señal provoca la purga de la conducción y provoca un frenado de emergencia.
+El acompañante del tren no pudo accionar la señal de parada de emergencia.
+
+## Página 41
+
+## 4.2.2.2	
+## SALIDA DEL TREN DE VIAJEROS
+En el caso de andenes de estación equipados con IOT, el acompañante de tren no debe tener contacto visual con el maquinista.
+El acompañante de tren no pudo accionar la señal de alarma, debido a su posicionamiento en el interior del vagón de viajeros y a la particularidad de este tipo de automotor, que no permite alertar al maquinista mediante el botón negro.
+Si, tras recorrer 30 metros, la luz de la puerta no se enciende, el maquinista debe detenerse y ponerse en contacto con el jefe de tren. Esto significa que hay un problema durante el cierre de las puertas. Dada la particularidad del automotor, en el presente caso, la luz de la puerta debe apagarse en la cabina de conducción.
+La norma UIC 560 prevé para la seguridad de los pasajeros y del personal que:
+« el estado de las puertas bloqueadas y aseguradas debe ser confirmado por una orden de bloqueo emanada de un criterio de velocidad del orden de 5 km/h, incluida la puerta desde la cual emana el comando de bloqueo del agente de tren si esta no hubiera sido asegurada » (§7.1.3.2.3) .
+« debe preverse una señalización en cada cabina de conducción y en cada vehículo de viajeros para indicar cualquier defecto de cierre. » (§7.1.3.2.4)
+El diseño del automotor es conforme a las normas UIC.
+Debido al cierre automático de las puertas, tan pronto como la velocidad alcanza los 5 km/h, la presencia del acompañante no puede garantizarse mediante el apagado o el encendido de una luz piloto en la cabina de conducción. Una salida con todas las puertas cerradas podría garantizar la presencia del acompañante a bordo del tren.
+El accidente demuestra que el procedimiento actual no responde totalmente a los requisitos del RSEIF 4.1 del gestor de la infraestructura, que estipula que el maquinista debe asegurarse de la presencia del acompañante a bordo.
+De hecho, el día del accidente, cuando se cumplen las dos condiciones, el maquinista, al no haber observado nada anormal, arranca. 
+## 4.2.3	 PRINCIPIO DE MITIGACIÓN 
+El viajero es trasladado en ambulancia al hospital de Mont-Godinne.
+El acompañante es evacuado en helicóptero hacia el hospital Notre-Dame de Charleroi. 
+
+
+## Página 42
+
+## 4.3	 CONCLUSIONES
+El 23/05/2009, una familia de Bruselas viaja de Bruselas-Schuman a Houyet en tren. Esta fa­
+milia está compuesta por el padre, la madre y sus dos hijas.
+Durante la planificación del viaje, se constata que deberán tomar el tren E2411 con destino a Dinant, donde está previsto un cambio de tren. La familia dispone del tiempo necesario (12 
+minutos) para efectuar el cambio de trenes. 
+Al llegar a la estación de Dinant el tren E2411, se habría difundido una comunicación a los viaje­
+ros informándoles de que el tren Z6948 con destino a Houyet está a punto de salir por el andén 3. Al ser Houyet la estación de destino de la familia de Bruselas, esta se dirige hacia el andén 3 utilizando el paso de servicio previsto sin que el personal autorizado se lo haya indicado.
+El acompañante de tren silba para señalar que las operaciones de embarque y desembarque han terminado. Cierra las puertas colectivas excepto una para su acceso. 
+El acompañante acciona el conmutador de mando del IOT. 
+Una vez realizada esta acción, se dirige hacia su tren, sube a bordo y se asegura de que no haya ningún movimiento más de viajeros. Las dos jóvenes se desplazan más rápidamente que sus padres; una de ellas logra acceder a bordo del tren a través de la última puerta que permanecía abierta. La familia queda separada: una hija en el tren, los otros tres miembros permanecen en el andén.
+El acompañante del tren 6948 se encuentra en la abertura de la puerta, en el lado exterior, con la joven detrás de él; prohíbe cualquier movimiento, ante la inminente salida del tren. El padre intenta sacar a su hija mientras el tren arranca. El arranque del tren provoca el desequilibrio del padre, que había colocado un pie en el peldaño. El acompañante del tren también pierde el equilibrio y ambos hombres caen entre el borde del andén y el tren.
+El maquinista del tren 6948 no observó nada anormal y arranca.
+Sobre la base de los elementos en nuestro poder, la causa del accidente, que ocasionó graves mutilaciones a las víctimas, es la disputa intervenida entre un viajero y un acompañante, seguida de una pérdida de equilibrio tras un intento de embarque/desembarque por la última puerta dejada abierta. El plazo entre el momento en que el acompañante acciona el IOT y el momento en que el maquinista recibe la información « Operación Terminada » y arranca, denominado comúnmente « zona gris », no es conocido por el personal de la estación, ni por el maquinista, ni por el acompañante.
+La última puerta dejada abierta « invita » a los viajeros retrasados, que generalmente no son conscientes de los riesgos de seguridad, a querer precipitarse hacia el tren e incluso, a veces, a ignorar la prohibición (por vía oral) del acompañante. La empresa ferroviaria publica artículos y carteles para informar al gran público sobre el respeto de las prohibiciones formuladas por los acompañantes de tren.
+En concertación, las dos empresas Infrabel y SNCB han previsto, analizado y evaluado en términos de riesgo diversas procedimientos de salida. Algunos procedimientos han sido probados en el terreno.
+El procedimiento seleccionado utiliza el método de comunicación por GSM-R y la salida de los trenes se realizará con las puertas cerradas. Un proyecto piloto debería ver la luz en 2013.
+El nuevo procedimiento ha sido aprobado por los órganos de gestión (Comité de Dirección y Consejo de Administración) de la SNCB y de Infrabel a lo largo de este año.
+
+
+## Página 43
+
+El análisis sistémico de las diversas barreras de control y protección que condujeron al accidente 
+ha permitido a la OE identificar líneas de prevención relativas a:
+•  La falta de información de los viajeros a bordo del tren y al llegar al andén de 
+Dinant, más aún, el anuncio de la salida inminente de un tren por el andén 3 con destino a Houyet 
+que habría sido escuchado. Lo cual provocó un movimiento no autorizado de viajeros hacia la 
+dicha vía. 
+•  El problema del cruce no autorizado de vías por parte de los viajeros no es único y consti­
+tuye un riesgo real para su seguridad. El gestor de infraestructura realiza varias campañas para recordar el peligro de cruzar las vías y los riesgos que corren los viajeros. La materialización de la prohibición de cruzar las vías indicaría de forma más clara a los viajeros que infringen las normas previstas para su seguridad.
+•  El acompañante de tren no pudo accionar la señal de alarma de emergencia.
+•  La presencia a bordo del acompañante de tren no puede garantizarse con el procedimiento actual.
+Lo importante desde el punto de vista de la seguridad es que, en caso de no poder eliminar un riesgo, se debe atenuar dicho riesgo y minimizar sus consecuencias.
+
+## Página 44
+
+## 5 MEDIDAS ADOPTADAS
+## 5.1 MEDIDA COMÚN INFRABEL / SNCB 
+Para subsanarlo, Infrabel y la SNCB han desarrollado, por tanto, un nuevo procedimiento, más seguro, más 
+eficaz y más sencillo, pero también más comprensible para los viajeros. Con este sistema futuro, 
+los trenes no saldrán hasta que estén cerradas todas sus puertas. El acompañante estará absolutamente 
+seguro de que, tras el cierre de la última puerta, el tren abandonará el andén unos 
+segundos más tarde. De este modo, se eliminará el peligro potencial de esta situación entre viajeros y acompa­
+ñantes, no dejando ya lugar a discusiones. Será más claro y transparente 
+para todas las partes. 
+Un proyecto piloto debería ver la luz en 2013, mientras que el sistema debería ser aprobado y obtener los 
+certificados necesarios antes de finales de 2014. Desde 2015, la implementación de las herramientas informáticas y de las 
+adaptaciones técnicas comenzará en los andenes y a bordo de los trenes.
+La SNCB e Infrabel invertirán 8,6 millones de euros en este proyecto. 
+Este nuevo procedimiento cumplirá con la legislación europea que impone, para el 1 de junio de 2017, 
+el cierre de todas las puertas antes de la salida de un tren. 
+## 5.2 SNCB
+## 5.2.1	
+## CAMPAÑA DE SENSIBILIZACIÓN DIRIGIDA A LOS VIAJEROS
+Carteles, pegatinas en las puertas del material rodante, folletos explicativos sobre la 
+pertinencia y el cumplimiento del procedimiento de salida, artículo en el periódico gratuito METRO (octubre de 2012).
+Una comunicación dirigida a la clientela en los andenes de las 
+estaciones: visualización del mensaje «dejar de embarcar» a través de los 
+aparatos de anuncios de los trenes. Esta comunicación se realiza 
+en las estaciones equipadas con la tecnología adecuada denominada 
+PIDAAS. Esta tecnología, disponible en algunas grandes 
+estaciones del país, se implantará progresivamente con las renovaciones 
+de las estaciones.
+Una sensibilización de los acompañantes de trenes sobre el estricto cumplimiento del procedimiento de salida: 
+folleto que recuerda el procedimiento de salida realizado en octubre de 2009.
+## 5.2.2 EXTRACCIÓN DEL SITIO WEB 
+Condiciones de transporte 
+Cuando viaja con SNCB Mobility, se establece un vínculo entre el viajero que usted es y el 
+transportista que somos. Tenga conocimiento de todos los aspectos legales de nuestros compromisos.
+Folleto disponible:
+Carta del viajero - Sus derechos. Nuestros compromisos - Versión clásica (PDF)
+
+
+## Página 45
+
+## 5.3 MEDIDAS DE INFRABEL
+Para recordar a los viajeros la prohibición de cruzar las vías, Infrabel invierte y
+• se realizan campañas de sensibilización (véase el anexo 7.4)
+• se ponen a disposición de los viajeros folletos de sensibilización a través de su sitio web.
+• Por cuarto año consecutivo, Infrabel publica su «calendario escolar». Esta herramienta 
+única, útil y educativa tiene como objetivo sensibilizar a los escolares sobre la seguridad en las vías y en sus 
+proximidades, así como en los pasos a nivel (véase el anexo 7.3)
+• Para garantizar la seguridad en las estaciones o en los puntos de parada, Infrabel eleva progresivamente 
+la altura de los andenes para disuadir de cruzar las vías
+
+
+## Página 46
+
+## 6 RECOMENDACIONES
+En términos generales, las recomendaciones de los organismos de investigación deben dirigirse a la 
+Autoridad de Seguridad (el SSICF) y redactarse «orientadas a los objetivos». 
+Corresponde al SSICF, en concertación con el gestor de infraestructura y las empresas ferroviarias, traducirlas en recomendaciones «orientadas a la solución». 
+Un control eficaz de los riesgos solo es posible si ponen en marcha un proceso centrado en 
+tres dimensiones fundamentales:
+• componente técnica: herramientas y equipos
+• componente humana: competencias, formación, motivación del personal
+• componente organizativa: procedimientos y métodos que permiten definir las relaciones 
+entre las distintas tareas.
+N.º
+Hechos y conclusiones del análisis
+Recomendaciones
+Principio de control
+1
+El acompañante regresa a la plataforma 
+El Autoridad de Seguridad debería velar por que
+de la que no se le autoriza a cerrar la puerta 
+la empresa ferroviaria y el gestor
+hasta después de la primera media vuelta de rueda del 
+de infraestructura pongan en marcha el
+tren.
+nuevo procedimiento de salida, incluida la
+Este procedimiento se estableció para garantizar 
+fase de transición entre el procedimiento
+la seguridad de los usuarios: permite al 
+actual y el procedimiento futuro.
+acompañante echar un último vistazo al andén para 
+asegurarse de la seguridad de los viajeros.
+Durante esta «zona gris», el acompa­
+ñante debe mantener la última puerta 
+abierta y evitar, sin intervención física, 
+que los viajeros que intenten subir al tren.
+2
+Parece que no se realizó ningún anuncio en el 
+El Autoridad de Seguridad debería asegurarse de que
+tren durante su llegada a la estación para 
+la empresa ferroviaria proponga medidas 
+indicar a los viajeros que un tren con destino 
+para paliar los riesgos de confusión
+a Libramont, con parada en la estación de 
+inducida por la falta de información
+Houyet, estaba detenido en la vía 1 del lado B.
+sobre las conexiones posibles durante la llegada
+del tren a la «estación» y llevar a cabo una
+supervisión más estricta.
+
+## Página 47
+
+N.º
+Hechos y conclusiones del análisis
+Recomendaciones
+Principio de control
+3
+Parece que no se realizó ningún anuncio en la estación para indicar a los
+La Autoridad de Seguridad debería asegurarse de que
+viajeros que un tren con destino a
+el gestor de infraestructura proponga
+Libramont, con parada en la estación de Houyet,
+medidas para paliar los riesgos de confusión
+permanecía en la vía 1 del lado B. Por ello,
+provocada por la falta de información sobre las conexiones posibles durante
+un anuncio de salida inminente de la
+la llegada del tren a la «estación» y lleve a cabo una supervisión más estrecha.
+vía 3 habría sido oído por los viajeros y provocado el movimiento hacia la
+vía 3.
+4
+Nada indicaba la prohibición de cruzar
+La Autoridad de Seguridad debe asegurarse de que el
+las vías a los viajeros. Actualmente,
+gestor de infraestructura proponga
+hay un panel E5 dibujado en el traviesa,
+medidas para paliar los riesgos de que los
+pero nada materializa la prohibición (p. ej.: barrera, cadena) y nada indica que el
+viajeros crucen las vías a través de las
+cruce no pueda realizarse únicamente bajo la supervisión, autorización del personal
+travesas de servicio sin estar invitados por
+cualificado.
+personal cualificado y garantice un control intensificado.
+Principio de recuperación
+5
+El señal de parada de emergencia no se encuentra
+La Autoridad de Seguridad debería asegurarse de que
+a la altura de las puertas de acceso, sino a la
+la empresa ferroviaria proponga medidas para paliar esta disposición
+entrada de los compartimentos de viajeros.
+particular del material rodante en lo que respecta al
+El acompañante del tren no pudo acceder
+señal de parada de emergencia.
+al señal de alarma.
+6
+El día del accidente, cuando se cumplen las dos
+La Autoridad de Seguridad debería asegurarse
+condiciones, el conductor, al no notar nada anormal,
+de que la empresa ferroviaria proponga
+parte.
+medidas para garantizar la presencia a bordo
+El accidente demuestra que el procedimiento
+del tren del acompañante.
+actual no responde completamente a los
+requisitos del RSEIF 4.1 del gestor de la
+infraestructura que estipulan que el conductor debe asegurarse de la presencia del
+acompañante a bordo
+
+
+## Página 48
+
+## 7	 ANEXOS
+## 7.1	 REQUISITOS MÍNIMOS EN MATERIA DE FORMACIÓN BÁSICA DE OTROS AGENTES DEL PERSONAL DE A BORDO
+ Las formaciones básicas para el personal de a bordo encargado del acompañamiento de trenes de
+ viajeros abordan las siguientes materias:
+protección personal de un agente que se encuentra en la infraestructura ferroviaria;
+definición de la misión asignada y de las particularidades de esta última (horario, itinerario,
+particularidades temporales y locales...);
+verificaciones e intervenciones en el material en lo que respecta a:
+  o la señalización de cola del convoy;
+  o el bloqueo de las puertas de extremo;
+  o los equipos de frenado;
+  o el funcionamiento y el puesta fuera de servicio de las puertas de acceso;
+  o la constitución correcta de los enganches, fuelles y acoplamientos diversos.
+ participación en la realización de las pruebas de frenos en colaboración con el conductor;
+participación en las maniobras de enganche y desenganche del material;
+lectura de las indicaciones portadas por los vehículos para permitir la comunicación con el
+conductor:
+  o de la velocidad máxima de circulación;
+  o de la carga y de la potencia de frenado del tren remolcado;
+  o del número y del tipo de vehículos que componen el tren.
+significado de las etiquetas de peligro adheridas en el material y las cargas y, en su caso, las medidas de seguridad previstas en caso de incidentes con los vehículos concernidos;
+constatación de las averías en el material y adopción de las medidas adecuadas para subsanarlas;
+apertura de una puerta de acceso mediante el dispositivo de emergencia;
+procedimientos requeridos para:
+  o registrarse en la aplicación prevista por el gestor de la infraestructura ferroviaria con el fin de permitir una identificación y un contacto inmediato por y/o con el personal de regulación del
+tráfico;
+  o garantizar la protección de un obstáculo en la (las) vía(s) o del convoy en caso de emergencia (medidas
+de primera urgencia, cobertura temporal a distancia y cobertura cercana);
+  o enviar un mensaje de emergencia y solicitar un corte de tensión de la catenaria;
+  o impedir el movimiento intempestivo del convoy o de una parte del convoy;
+  o informar de las constataciones realizadas durante la misión;
+  o evacuar un tren;
+  o rearmar un señal de alarma;
+  o combatir un incendio a bordo del tren;
+  o provocar la parada de emergencia;
+  o la salida del tren incluyendo el cierre de las puertas y la transmisión de la OT al conductor (dónde,
+cuándo, cómo).
+relaciones con el gestor de la infraestructura ferroviaria;
+conocimiento elemental de la señalización concerniente al acompañamiento (localización y
+significado de las señales acústicas, fijas y móviles).
+
+
+## Página 49
+
+## 7.2	 LISTA DE INCIDENTES SUMINISTRADOS POR LA SNCB
+## 2010
+### Fecha
+### N.º de tren
+### Línea
+### Estación
+06/01/2010
+3430
+15
+Mechelen
+12/01/2010
+2040
+25
+Antwerpen-Centraal
+13/01/2010
+3028
+59
+Gent-Sint-Pieters
+23/01/2010
+3273
+25
+Mechelen
+25/01/2010
+3225
+15
+Lier
+27/01/2010
+2082
+0
+Brussel-Centraal
+28/01/2010
+1519
+50
+Brugge
+28/01/2010
+2010
+124
+Charleroi-Zuid
+01/02/2010
+2031
+25
+Antwerpen-Centraal
+03/02/2010
+3017
+59
+Gent-Dampoort
+10/02/2010
+1732
+36
+Leuven
+12/02/2010
+4521
+0
+Brussel-Centraal
+15/02/2010
+3541
+50
+Brussel-Zuid
+18/02/2010
+713
+59
+Antwerpen-Centraal
+18/02/2010
+3328
+25
+Mechelen
+18/02/2010
+2818
+0
+Brussel-Centraal
+19/02/2010
+3317
+25
+Mechelen
+19/02/2010
+4517
+124
+Charleroi-Zuid
+22/02/2010
+3635
+50
+Brussel-Zuid
+23/02/2010
+2017
+0
+Brussel-Zuid
+25/02/2010
+2017
+25
+Antwerpen-Berchem
+26/02/2010
+1865
+122
+Zottegem
+28/02/2010
+2040
+25
+Mechelen
+04/03/2010
+5657
+125
+Hoei
+04/03/2010
+3120
+25
+Brussel-Noord
+12/03/2010
+4238
+0
+Brussel-Centraal
+14/03/2010
+545
+36
+Luik-Guillemins
+15/03/2010
+6588
+161
+Louvain-La-Neuve-Universite
+17/03/2010
+1509
+50 A
+Brugge
+17/03/2010
+3916
+161
+Brussel-Luxemburg
+22/03/2010
+8600
+161
+Brussel-Luxemburg
+30/03/2010
+2662
+25
+Antwerpen-Centraal
+31/03/2010
+4521
+124
+Charleroi-Zuid
+03/04/2010
+533
+36
+Luik-Guillemins
+07/04/2010
+Brussel-Zuid
+14/04/2010
+Brussel-Noord
+23/04/2010
+Brussel-Luxemburg
+30/04/2010
+Ath
+
+## Página 50
+
+30/04/2010
+50 A
+Brujas
+30/04/2010
+1707
+97
+Thulin
+3/05/2010
+1864
+122
+Gante-San Pedro
+6/05/2010
+4517
+124
+Luttre
+6/05/2010
+1918
+94
+Tournai
+9/05/2010
+1512
+50
+Gante-San Pedro
+12/05/2010
+3756
+96
+Tubeke
+13/05/2010
+565
+50
+Gante-San Pedro
+14/05/2010
+2722
+53
+Lovaina
+19/05/2010
+1840
+59
+Gante-San Pedro
+20/05/2010
+613
+4
+25/05/2010
+2106
+0
+Bruselas-Sur
+31/05/2010
+2009
+124
+Charleroi-Sur
+7/06/2010
+3307
+25
+Mecelen
+11/06/2010
+3860
+139
+Ottignies
+12/06/2010
+1509
+50 A
+Gante-San Pedro
+17/06/2010
+2856
+15
+Amberes-Berchem
+18/06/2010
+2238
+50
+Bruselas-Sur
+20/06/2010
+2037
+124
+Bruselas-Sur
+23/06/2010
+511
+50
+Brujas
+28/06/2010
+2009
+124
+Charleroi-Sur
+29/06/2010
+3908
+161
+Ottignies
+2/07/2010
+3336
+0
+Bruselas-Norte
+3/07/2010
+4336
+36
+Bruselas-Nacional-Aeropuerto
+13/07/2010
+4532
+25
+Mecelen
+14/07/2010
+2432
+161
+Namur
+15/07/2010
+6578
+161
+Etterbeek
+16/07/2010
+2773
+12
+Amberes-Central
+17/07/2010
+3280
+25
+Amberes-Berchem
+22/07/2010
+3328
+25
+Amberes-Berchem
+25/07/2010
+2031
+0
+Bruselas-Sur
+26/07/2010
+2238
+0
+Bruselas-Sur
+29/07/2010
+2227
+36
+Lovaina
+6/08/2010
+719
+59
+Amberes-Berchem
+9/08/2010
+4505
+124
+Egmont-Bodegraeven
+17/08/2010
+714
+59
+Sint-Niklaas
+26/08/2010
+1620
+50
+Blankenberge
+26/08/2010
+3013
+50
+Gante-San Pedro
+29/08/2010
+6559
+161
+Genval
+1/09/2010
+Mecelen
+1/09/2010
+Bruselas-Sur
+1/09/2010
+Charleroi-Sur
+9/09/2010
+Amberes-Central
+
+
+## Página 51
+
+10/09/2010
+Amberes-Central
+10/09/2010
+7014
+50
+Gante-San Pedro
+14/09/2010
+4235
+0
+Bruselas-Sur
+14/09/2010
+2215
+0
+Bruselas-Central
+20/09/2010
+1907
+94
+Tournai
+20/09/2010
+2442
+125
+Lieja-Guillemins
+23/09/2010
+482
+36
+Lieja-Guillemins
+26/09/2010
+3679
+96
+Bruselas-Sur
+27/09/2010
+3428
+25
+Mecelen
+30/09/2010
+3541
+0
+Bruselas-Central
+3/10/2010
+3338
+25
+Amberes-Berchem
+4/10/2010
+8005
+0
+Bruselas-Central
+9/10/2010
+1535
+36
+Landen
+10/10/2010
+3328
+0
+Bruselas-Central
+16/10/2010
+1733
+36
+Lieja-Guillemins
+17/10/2010
+91
+0
+Bruselas-Sur
+23/10/2010
+1507
+50
+Gante-San Pedro
+26/10/2010
+2207
+50
+Aalst
+28/10/2010
+2321
+89
+Audenarde
+30/10/2010
+2729
+53 A
+Mecelen
+1/11/2010
+2040
+0
+Bruselas-Central
+2/11/2010
+3310
+0
+Bruselas-Norte
+4/11/2010
+3141
+25
+Mecelen-Nekkerspoel
+11/11/2010
+2015
+124
+Charleroi-Sur
+11/11/2010
+789
+86
+Gante-San Pedro
+13/11/2010
+4334
+0
+Bruselas-Central
+14/11/2010
+4206
+0
+Bruselas-Central
+19/11/2010
+1817
+59
+Sint-Niklaas
+19/11/2010
+468
+36
+Lieja-Guillemins
+20/11/2010
+2039
+0
+Bruselas-Central
+23/11/2010
+2010
+124
+Charleroi-Sur
+1/12/2010
+2716
+54
+Mecelen
+2/12/2010
+2817
+0
+Bruselas-Sur
+2/12/2010
+757
+58
+Gante-Dampoort
+2/12/2010
+4140
+50
+Gante-San Pedro
+7/12/2010
+6567
+161
+Bruselas-Sur
+8/12/2010
+6580
+161 D
+Louvain-La-Nueva-Universidad
+9/12/2010
+484
+36
+Lieja-Guillemins
+13/12/2010
+2032
+0
+Bruselas-Sur
+15/12/2010
+15/12/2010
+Namur
+16/12/2010
+Amberes-Central
+22/12/2010
+Charleroi-Sur
+
+
+## Página 52
+
+24/12/2010
+Bruselas-Norte
+28/12/2010
+6361
+0
+Bruselas-Sur
+30/12/2010
+3134
+25
+Vilvoorde
+30/12/2010
+3139
+25
+Vilvoorde
+30/12/2010
+2233
+21
+Sint-Truiden
+## 2011
+2/01/2011
+91
+162
+Namur
+3/01/2011
+2018
+0
+Bruselas-Sur
+9/01/2011
+6556
+161
+Etterbeek
+12/01/2011
+1537
+0
+Bruselas-Central
+18/01/2011
+733
+75
+Gante-San Pedro
+21/01/2011
+3307
+0
+Bruselas-Norte
+24/01/2011
+4528
+0
+Bruselas-Sur
+25/01/2011
+2013
+124
+Egmont-Bodegraeven
+25/01/2011
+1909
+94
+Tournai
+28/01/2011
+4116
+53
+Mecelen
+31/01/2011
+2581
+52
+Amberes-Berchem
+2/02/2011
+2568
+59
+Amberes-Berchem
+6/02/2011
+1528
+50
+Heist
+8/02/2011
+2439
+125
+Namur
+10/02/2011
+4507
+12
+Amberes-Central
+17/02/2011
+4505
+12
+Amberes-Central
+18/02/2011
+3416
+0
+Bruselas-Norte
+19/02/2011
+3086
+0
+Bruselas-Norte
+24/02/2011
+1839
+50
+Brujas
+27/02/2011
+96
+0
+Bruselas-Central
+28/02/2011
+8004
+0
+Bruselas-Sur
+1/03/2011
+2238
+0
+Bruselas-Sur
+9/03/2011
+5267
+37
+Lieja-Guillemins
+11/03/2011
+3434
+15
+Turnhout
+11/03/2011
+2809
+0
+Bruselas-Central
+18/03/2011
+619
+LGV 4
+25/03/2011
+5710
+60
+Dendermonde
+27/03/2011
+2036
+0
+Bruselas-Sur
+31/03/2011
+3738
+36
+Bruselas-Norte
+1/04/2011
+480
+36
+Lieja-Guillemins
+4/04/2011
+1777
+90
+Denderleeuw
+4/04/2011
+4542
+0
+Bruselas-Sur
+5/04/2011
+2041
+124
+Bruselas-Sur
+5/04/2011
+Bruselas-Luxemburgo
+6/04/2011
+Bergen
+7/04/2011
+Hal
+8/04/2011
+Bergen
+
+
+## Página 53
+
+11/04/2011
+Amberes-Berchem
+12/04/2011
+97
+0
+Bruselas-Sur
+13/04/2011
+1840
+59
+Amberes-Central
+27/04/2011
+617
+4
+27/04/2011
+6372
+0
+Bruselas-Norte
+29/04/2011
+2039
+25
+Amberes-Central
+1/05/2011
+3263
+0
+Bruselas-Sur
+3/05/2011
+504
+36
+Bruselas-Norte
+4/05/2011
+3318
+25
+Mecelen
+14/05/2011
+96
+0
+Bruselas-Central
+16/05/2011
+3442
+25
+Vilvoorde
+17/05/2011
+3437
+0
+Bruselas-Central
+18/05/2011
+2407
+161
+Bruselas-Luxemburgo
+20/05/2011
+2817
+124
+Egmont-Bodegraeven
+21/05/2011
+2336
+0
+Bruselas-Sur
+26/05/2011
+2012
+0
+Bruselas-Sur
+27/05/2011
+4486
+118
+Bergen
+31/05/2011
+3128
+0
+Bruselas-Sur
+1/06/2011
+506
+37
+Lieja-Guillemins
+4/06/2011
+3620
+0
+Bruselas-Central
+7/06/2011
+2231
+36
+Lovaina
+12/06/2011
+519
+0
+Bruselas-Norte
+14/06/2011
+2166
+50
+16/06/2011
+5263
+37
+Lieja-Guillemins
+17/06/2011
+767
+58
+Gante-San Pedro
+17/06/2011
+6589
+161
+Louvain-La-Nueva-Universidad
+20/06/2011
+2439
+125
+Lieja-Guillemins
+21/06/2011
+1525
+50
+Brujas
+24/06/2011
+3115
+96
+Hal
+26/06/2011
+585
+50
+Gante-San Pedro
+5/07/2011
+535
+0
+Bruselas-Central
+7/07/2011
+2112
+0
+Bruselas-Sur
+12/07/2011
+608
+4
+22/07/2011
+1860
+122
+Gante-San Pedro
+23/07/2011
+2023
+0
+Bruselas-Sur
+23/07/2011
+3294
+0
+Bruselas-Norte
+7/08/2011
+2038
+124
+Bruselas-Sur
+7/08/2011
+6708
+50
+Gante-San Pedro
+10/08/2011
+6564
+0
+Bruselas-Central
+10/08/2011
+Ostende
+13/08/2011
+Lovaina
+20/08/2011
+Bruselas-Sur
+21/08/2011
+Namur
+
+
+## Página 54
+
+22/08/2011
+Bruselas-Sur
+25/08/2011
+617
+LGV 4
+27/08/2011
+913
+130
+Châtelet
+3/09/2011
+3327
+25
+Amberes-Berchem
+4/09/2011
+2039
+0
+Bruselas-Norte
+7/09/2011
+1583
+0
+Bruselas-Central
+22/09/2011
+6388
+25
+Vilvoorde
+23/09/2011
+2386
+15
+Amberes-Berchem
+1/10/2011
+531
+0
+Bruselas-Sur
+4/10/2011
+3639
+0
+Bruselas-Sur
+10/10/2011
+3541
+50
+Bruselas-Sur
+19/10/2011
+3326
+25
+Mecelen
+21/10/2011
+7211
+27
+Mecelen
+23/10/2011
+3289
+25
+Amberes-Central
+24/10/2011
+2067
+50
+Denderleeuw
+29/10/2011
+4216
+0
+Bruselas-Central
+7/11/2011
+3820
+130
+Charleroi-Sur
+9/11/2011
+4379
+124
+Luttre
+15/11/2011
+2085
+0
+Bruselas-Norte
+21/11/2011
+2313
+89
+Courtrai
+25/11/2011
+1840
+59
+Amberes-Central
+29/11/2011
+2237
+36
+Lovaina
+30/11/2011
+618
+4
+2/12/2011
+5315
+0
+Bruselas-Sur
+3/12/2011
+1537
+0
+Bruselas-Sur
+8/12/2011
+2086
+0
+Bruselas-Central
+13/12/2011
+8008
+0
+Bruselas-Central
+13/12/2011
+8954
+90
+Denderleeuw
+16/12/2011
+19714
+75
+19/12/2011
+2036
+124
+Nivelles
+20/12/2011
+4215
+0
+Bruselas-Norte
+## 2012
+10/01/2012
+1536
+36
+Lovaina
+12/01/2012
+4957
+125
+Lieja-Guillemins
+17/01/2012
+7252
+59
+Amberes-Sur
+23/01/2012
+1507
+50
+Gante-San Pedro
+27/01/2012
+2340
+0
+Bruselas-Norte
+31/01/2012
+2027
+25
+Amberes-Berchem
+1/02/2012
+2036
+0
+Bruselas-Sur
+3/02/2012
+Bruselas-Sur
+8/02/2012
+Geraardsbergen
+8/02/2012
+Bruselas-Luxemburgo
+9/02/2012
+Bergen
+
+## Página 55
+
+12/02/2012
+Brussel-Centraal
+15/02/2012
+6283
+161
+Gembloux
+16/02/2012
+3120
+0
+Brussel-Zuid
+16/02/2012
+1513
+35
+Hasselt
+24/02/2012
+3512
+36
+Brussel-Noord
+27/02/2012
+8002
+0
+Brussel-Noord
+28/02/2012
+4086
+96
+Bergen
+5/03/2012
+8005
+0
+Brussel-Noord
+5/03/2012
+2229
+21
+7/03/2012
+2039
+0
+Brussel-Centraal
+16/03/2012
+1587
+0
+Brussel-Noord
+21/03/2012
+515
+36
+Ans
+23/03/2012
+3323
+0
+Brussel-Zuid
+24/03/2012
+819
+66
+Brugge
+3/04/2012
+2219
+50
+Gent-Sint-Pieters
+13/04/2012
+4533
+25
+Antwerpen-Berchem
+18/04/2012
+2039
+0
+Brussel-Noord
+25/04/2012
+2031
+25
+Antwerpen-Centraal
+25/04/2012
+2408
+161
+Brussel-Schuman
+8/05/2012
+716
+25
+Antwerpen-Centraal
+9/05/2012
+5567
+43
+Luik-Guillemins
+10/05/2012
+1540
+36
+Brussel-Noord
+14/05/2012
+2036
+25
+Antwerpen-Centraal
+14/05/2012
+2229
+36
+Leuven
+24/05/2012
+534
+36
+Luik-Guillemins
+
+
+## Página 56
+
+
+## Página 57
+
+## 7.3 CALENDARIO DEL ALUMNO
+
+
+## Página 58
+
+### Organismo de Investigación de Accidentes e Incidentes Ferroviarios
+www.mobilit.fgov.be

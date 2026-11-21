@@ -1,0 +1,718 @@
+{
+ "md-es/HR/2014/HR 02.06.2014 KI_Kuka&.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 92.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'SUMARY' del original se mantiene como 'SUMMARY' (aceptable, es encabezado en inglés)",
+   "'Partes e implicados en el accidente' por 'Strane i sudionici nesreće' podría precisarse como 'partes y participantes del accidente'",
+   "'Procedimientos de auditoría interna' por 'Postupci unutarnje provjere' — 'provjera' es control/verificación interna, no necesariamente auditoría",
+   "'trolley' traducido como 'carrito' y 'truck' como 'vagón' (podría ser 'plataforma'/'dresina' y 'camión'/'vehículo'; el original distingue trolley/truck)",
+   "'headmen' traducido como 'capataz' (aceptable, pero el original usa plural 'headmen')",
+   "'Infarstruktura' (error del original) normalizado a 'Infrastruktura' en la traducción"
+  ],
+  "fallos": [
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'Sukladno sustavu upravljanja sigurnošću' como sujeto explícito en la traducción: se traduce 'Conforme al sistema...' pero se pierde la estructura 'Upravitelj Infrastrukture je s tvrtkom ... je formirao' (duplicación del auxiliar en original, no relevante)",
+     "El original termina en 'Pravilnik o' (frase truncada); la traducción añade 'sobre' sin contenido, pero no omite nada sustantivo"
+    ],
+    "invenciones": [
+     "'Boletín Oficial de la República de Croacia' para 'Narodne novine' (equivalencia aceptable pero añade 'República de Croacia' no presente en el original)",
+     "'Construcciones de Vías' como traducción de 'Pružne građevine' (nombre de empresa traducido, no transliterado)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'despachador de guardia' por 'dežurni prometnik' (término normalizado sería 'jefe de circulación' o 'factor de circulación')",
+     "'inspección ocular' por 'očevid' (aceptable)",
+     "'criterio diferenciado' por 'izdvojeno mišljenje' (mejor 'voto particular' o 'opinión separada')"
+    ],
+    "comentario": "Traducción fiel en contenido y cifras, con ligeras invenciones en nombres propios y terminología mejorable en cargos ferroviarios."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 02.06.2014 KI_Kuka&.md"
+ },
+ "md-es/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona& (2).md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   18
+  ],
+  "fidelidad_media": 87.7,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'PODUZETE MJERE' traducido como 'MEDIDAS TOMADAS' en lugar de 'MEDIDAS ADOPTADAS/EMPRENDIDAS'",
+   "'PROPISI' traducido como 'PROPÓSITOS' en lugar de 'NORMATIVA/REGLAMENTO'",
+   "'DMG' no se traduce ni se glosa (unidad múltiple diésel); en el original es término técnico específico",
+   "'reparación media (mantenimiento)' para 'srednji popravak (servisu)' aceptable, pero 'servisu' se vierte como 'mantenimiento' en lugar de 'servicio'"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea inicial '=== ORIGINAL ===' y el encabezado 'PÁGINA 8'",
+     "Falta la mención de que la denuncia fue recibida del despachador principal del Administrador de la Infraestructura (se menciona pero se omite la referencia a la Directiva en ese punto)",
+     "Falta la fila de fuentes de datos 'Informe pericial sobre la causa determinada del incendio por parte de la Inspección de Protección contra Incendios' en el original (aparece en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "Se añade un párrafo completo sobre la recomendación de seguridad SP 2/15 con cámaras térmicas y capítulo 8.5 que no existe en el original",
+     "Se añade 'Con el fin de mejorar el sistema de seguridad ferroviaria (reduciendo el riesgo de incendio...)' que no está en el original",
+     "Se añade 'Sobre la base de la información recopilada, se decidió que los investigadores de la AIA se desplazaran al lugar del suceso' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'dizel-motorne garniture' traducido como 'unidades diésel-eléctricas' cuando debería ser 'unidades diésel-motoras'",
+     "'četvrtom kolosijeku' traducido como 'cuarto vía' (error de concordancia de género, debería ser 'cuarta vía')",
+     "'stražnjoj upravljačnici' traducido como 'cabina de mando trasera' aceptable"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (párrafo completo sobre recomendación de seguridad SP 2/15 y referencias legales ausentes del original) y omite el encabezado de página, además de un error de término en 'diésel-eléctricas' por 'diésel-motoras'."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el final del original: 'stražnja garnitura predmetnog vlaka je tijekom požara' queda cortado; la traducción añade 'se desacopló' que no aparece en el fragmento original."
+    ],
+    "invenciones": [
+     "'se desacopló' (la parte trasera del conjunto se desacopló) no está en el original, que solo dice 'la parte trasera del conjunto del tren en cuestión durante el incendio'."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tren diésel-motor' / 'conjunto diésel-motor (CDM)' por 'dizel-motorni vlak' / 'dizel-motorna garnitura (DMG)': se traduce la sigla DMG como CDM, no normalizada",
+     "'cuarto vía' por 'četvrti kolosijek': error de concordancia y término ('cuarta vía')",
+     "'cuadro de distribución principal (QDP)' por 'glavni razvodni ormar (GRO)': sigla cambiada"
+    ],
+    "comentario": "Traducción mayormente fiel, pero inventa el desacoplamiento final, omite el cierre del original y altera siglas técnicas (DMG→CDM, GRO→QDP)."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "En Varaždin, otra DMG fue asumida por otro maquinista (el original dice que el maquinista toma la DMG, no que la DMG sea asumida)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'gađenje' del original es errata por 'gašenje'; la traducción 'extinción' es correcta",
+     "'incidentes similares anteriores' por 'prethodni slični događaji' aceptable"
+    ],
+    "comentario": "Traducción fiel en cifras y contenido técnico, pero la frase sobre la toma de la DMG por el maquinista invierte la estructura del original."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona& (2).md"
+ },
+ "md-es/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona&.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   18
+  ],
+  "fidelidad_media": 89.5,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
+  "terminos": [
+   "'PROPISI' traducido como 'PROPÓSITOS' (podría ser 'PROPÓSITOS' o 'OBJETIVOS' según contexto, pero no es término técnico crítico)",
+   "'PODUZETE MJERE' traducido como 'MEDIDAS TOMADAS' (adecuado, aunque 'medidas adoptadas' sería más normalizado)",
+   "'ovlaštenog servisera' traducido como 'mantenedor autorizado' en lugar de 'servisador/taller autorizado'",
+   "'srednji popravak (servis)' traducido como 'reparación media (mantenimiento)', difumina la distinción entre reparación y mantenimiento"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la mención de que la denuncia fue recibida del 'glavni dispečer Direktive' tal como figura en el original (el original menciona al despachador principal y la Directiva en el mismo párrafo)",
+     "Falta la referencia a la Ley sobre seguridad e interoperabilidad (Boletín Oficial 82/13, artículo 110, apartado 2) que no aparece en el original",
+     "Falta la fila de fuente de datos 'Peritaje sobre la causa del incendio' que no está en el original"
+    ],
+    "invenciones": [
+     "Se añade el párrafo completo de la recomendación de seguridad SP 2/15 con contenido sobre cámaras térmicas e inspecciones eléctricas que no está en el original",
+     "Se añade 'Con el fin de mejorar el sistema de seguridad ferroviaria...' que no figura en el original",
+     "Se añade la referencia a la Ley sobre seguridad e interoperabilidad (Boletín Oficial 82/13), artículo 110, apartado 2, ausente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'glavni dispečer' traducido como 'despachador principal del Administrador de la Infraestructura' cuando el original dice 'glavni dispečer Direktive' (despachador principal de la Dirección)",
+     "'četvrtom kolosijeku' traducido como 'cuarto vía' (concordancia incorrecta; debería ser 'cuarta vía')",
+     "'dizel-motorne garniture' traducido como 'unidades diésel-acopladas' en lugar de 'unidades diésel-motoras'"
+    ],
+    "comentario": "La traducción inserta un párrafo completo de recomendación de seguridad y referencias legales ausentes en el original, y omite/duplica elementos de la lista de fuentes de datos."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el final truncado del original: 'stražnja garnitura predmetnog vlaka je tijekom požara' se traduce como 'se desacopló durante el incendio', añadiendo contenido no presente"
+    ],
+    "invenciones": [
+     "'se desacopló' no aparece en el original; el original queda truncado en 'je tijekom požara'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'dizel-motorna garnitura (DMG)' traducido como 'conjunto diésel-motor (CDM)'; se acepta pero conviene normalizar",
+     "'glavni razvodni ormar (GRO)' traducido como 'cuadro de distribución principal (QDP)'",
+     "'četvrti kolosijek' traducido como 'cuarto vía' (concordancia incorrecta, debería ser 'cuarta vía')"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura, pero añade 'se desacopló' donde el original está truncado y presenta algún error de concordancia."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "En Varaždin, otra DMG fue tomada por otro maquinista"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'sistema de detección de incendios para el maquinista' traduce 'sustav za detekciju požara strojovođi' de forma ambigua; el original indica detección de incendios para el maquinista (cabina), no un sistema 'para el maquinista'",
+     "'cabina de control trasera' por 'stražnja upravljačnica' es aceptable, pero 'upravljačnica' se normaliza como 'cabina de conducción'"
+    ],
+    "comentario": "La traducción es casi fiel, pero introduce una inversión de sujeto en el acoplamiento en Varaždin y presenta una formulación ambigua del sistema de detección de incendios."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona&.md"
+ },
+ "md-es/HR/2014/HR 10.04.2014 Kona&.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 85.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'estación intermedia' por 'međukolodvor' es aceptable, pero 'estaciones de clasificación' para 'rasporednih kolodvora' no es precisa (serían estaciones de ordenación/regulación)",
+   "'pk' por 'km' no normalizado en castellano ferroviario",
+   "'kolodvor' traducido como 'apeadero' cuando corresponde 'estación'",
+   "'prostorni signal' traducido como 'señal espacial' en lugar de 'señal de avanzada/intermedia'",
+   "'predsignalne opomenice' traducido como 'balizas de preseñalización' (término no normalizado)",
+   "'put proklizavanja' traducido como 'camino de deslizamiento' en lugar de 'ruta de deslizamiento/derrape'"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la primera frase del SAŽETAK croata: 'predviđenog zatvora lijevog (južnog) kolosijeka Nova Kapela Batrina – Oriovac – Sibinj i odvijanja preporuka vezanih za ovaj incident'",
+     "Falta la indicación de que el tren de pasajeros circulaba por la vía irregular (norte) en el primer resumen traducido",
+     "Falta la mención de que el tren de mercancías circulaba hacia el oeste en el primer resumen"
+    ],
+    "invenciones": [
+     "Se añaden números de tren 741 y 45520 que no aparecen en el original",
+     "Se añade 'en la 3. vía' en el primer resumen",
+     "Se añade 'circulación de trenes por la vía derecha'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'evitación de colisión' por 'near miss' (debería ser 'casi colisión' o 'incidente sin consecuencias')",
+     "'vía irregular (norte)' no normalizado frente a 'vía izquierda (sur)'",
+     "Uso inconsistente de 'incidente' frente a 'accidente' para el mismo hecho"
+    ],
+    "comentario": "La traducción duplica el resumen con contenido divergente, introduce números de tren y detalles ausentes, y omite frases clave del original."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 10.04.2014 Kona&.md"
+ },
+ "md-es/HR/2014/HR 10.11.2014 KI-2.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   21
+  ],
+  "fidelidad_media": 92.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'skretnica' traducido como 'punto de cruce' en lugar de 'desvío/aguja'",
+   "'iskliznuće' traducido como 'descarriló' en lugar de 'descarrilamiento'",
+   "'kolosiječne građe' omitido/parafraseado como 'su mal estado' en lugar de 'estado del material de vía'",
+   "'puntos de desvío' por 'skretnice' (desvíos/aparatos de vía) es aceptable pero no normalizado",
+   "'cierres' por 'zastora' (debería ser 'cerrojos/cierres de aguja' o 'juntas')",
+   "'barras de unión' por 'međnika' (debería ser 'tirantes/piezas de unión')"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el término 'skretnička građa' con precisión (se omite el concepto de 'material de desvío' y se sustituye por 'maquinaria')",
+     "Se omite la mención de que la vía 16t es propiedad de HŽ Infrastruktura en el contexto de la gestión (se mantiene pero se pierde matiz de 'upravlja' como 'gestiona' vs 'administra')"
+    ],
+    "invenciones": [
+     "Se añade 'en curso' en 'no había trabajos en curso' que no está en el original ('nije bilo radova')",
+     "Se traduce 'Pristanište i skladište' como nombre propio sin traducir, pero se añade 'd.d.' correctamente; no es invención"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'skretnice' traducido como 'puntos de cruce' en lugar de 'desvíos' o 'agujas' (término técnico ferroviario normalizado)",
+     "'skretnička građa' traducido como 'maquinaria de los puntos de cruce' en lugar de 'material de desvío'",
+     "'kolosijek' traducido como 'vía' es aceptable, pero 'kolosiječna područja' como 'zonas de vías' es impreciso"
+    ],
+    "comentario": "La traducción es fiel en general, pero contiene imprecisiones terminológicas en 'skretnice' y 'skretnička građa', y una pequeña invención ('en curso')."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el término 'Nesreći' con mayúscula como concepto definido (Accidente) de forma consistente",
+     "Falta la coletilla final 'U' del original (frase truncada)"
+    ],
+    "invenciones": [
+     "'Centro de Control' para 'PC' (puesto de control) no aparece explícito en el original",
+     "Se añade 'de la infraestructura' donde el original dice 'kolosiječne građe' (material/estructura de vía)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'punto de aguja' por 'skretnica' (desvío) no es término normalizado en castellano ferroviario; debería ser 'desvío'",
+     "'asegurada/zakovana' traducido como 'asegurado' pierde el matiz de 'clavado/bloqueado'",
+     "'derrape' por 'iskliznuće' debe ser 'descarrilamiento'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con terminología ferroviaria no normalizada y algún error de sentido (derrape por descarrilamiento, ložiona)."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 10.11.2014 KI-2.md"
+ },
+ "md-es/HR/2014/HR 10.11.2014 KI.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   14,
+   21
+  ],
+  "fidelidad_media": 93.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu' traducida como 'Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario' — aceptable, pero 'promet' es 'tráfico/transporte', no estrictamente 'accidentes'",
+   "'skretnica' traducido como 'punto de desvío' en lugar de 'desvío' o 'aguja'",
+   "'kolosiječna građa' (infraestructura/vía) traducido como 'mal estado' sin especificar el elemento, perdiendo precisión técnica",
+   "'Signo' para 'Oznaka' podría normalizarse como 'código' o 'referencia'",
+   "'puntos de desvío' por 'skretnice' (desvíos/agujas) es aceptable pero no normalizado; 'maquinaria de los puntos de desvío' por 'skretnička građa' (aparatos de vía) es impreciso",
+   "'hacia la vía principal' por 'u pravac' (en dirección recta/directa) es una interpretación no literal"
+  ],
+  "fallos": [
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la frase final truncada 'U' del original (aunque el original también está truncado)",
+     "Se omite la mención de que el punto de desvío 36 fue clavado por el responsable del grupo de supervisión de Sisak en el contexto de las vías 21, 26, 37 y 40a/b (parcialmente presente)"
+    ],
+    "invenciones": [
+     "Se añade 'Centro de Control' como traducción de 'PC', que no aparece en el original",
+     "Se traduce 'ložionu' como 'casa de calderas', término no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'punto de desvío' por 'skretnica' es aceptable, pero 'derrape' por 'iskliznuće' es incorrecto: debe ser 'descarrilamiento'",
+     "'infraestructura de vía' por 'kolosiječne građe' no es preciso; debería ser 'material de vía' o 'superestructura'",
+     "'mantenimiento' por 'remont' es impreciso; 'remont' implica renovación/rehabilitación mayor"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene errores terminológicos graves como 'derrape' por 'descarrilamiento' y omite matices del original."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 10.11.2014 KI.md"
+ },
+ "md-es/HR/2014/HR 11.07.2014 KI_Ma&.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   8,
+   10
+  ],
+  "fidelidad_media": 88.7,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ozbiljnih nezgoda' traducido como 'accidentes graves' en lugar de 'incidentes graves' o 'sucesos graves'",
+   "'izvanrednih događaja' traducido como 'incidentes extraordinarios' (aceptable pero no normalizado)",
+   "'iskliznuće vlaka' traducido como 'descarrilamiento de tren' (correcto)",
+   "'avería' por 'oštećenje' (daño) en el pie de imagen",
+   "'Conductor' por 'Strojovođa' (maquinista)",
+   "'vučno vozilo posebne namjene' traducido como 'vehículo de tracción de uso especial' en lugar de 'vehículo tractor de uso especial'"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 72,
+    "omisiones": [
+     "En el original croata falta la frase sobre el descarrilamiento de un vagón de usos especiales y el número de tren n.º 79151 (presente solo en la traducción)",
+     "El original croata no incluye el pk 068+720 ni la estación de Budinšćina (presentes solo en la traducción)",
+     "El original croata omite la mención a la Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario (AIA) en la recomendación de seguridad"
+    ],
+    "invenciones": [
+     "Se añade en la traducción el número de tren n.º 79151, ausente en el original",
+     "Se añade el pk 068+720, ausente en el original",
+     "Se añade la estación de Budinšćina como destino del remolque, ausente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'muelle de hojas' (singular) frente a 'muelles de hojas' (plural) en el original inglés 'leaf springs'",
+     "'segundo eje' frente a 'second axis' (eje) — aceptable",
+     "'empresa ferroviaria' frente a 'Railway Undertaking' — aceptable"
+    ],
+    "comentario": "La traducción añade datos (n.º de tren, PK, estación de Budinšćina, nombre completo de la AIA) ausentes en el original y omite parte del texto croata, además de alterar cifras y detalles técnicos."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta el párrafo inicial: 'održavanje vozila odnose i na željeznička vozila tvrtki koje sudjeluju u željezničkom prometu a nisu registirrane za obavljenje željezničkog prijevoza.'"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'lisnata opruga' traducido como 'muelle de hojas' en lugar de 'ballesta' (término normalizado en ferrocarril)",
+     "'druga osovina' traducido como 'segunda rueda' en lugar de 'segundo eje'"
+    ],
+    "comentario": "Se omite el párrafo inicial y hay terminología ferroviaria no normalizada (ballesta, eje), aunque cifras y referencias se mantienen."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 11.07.2014 KI_Ma&.md"
+ },
+ "md-es/HR/2014/HR 11.09.2014 KI_Graba_11_09_2014_za_web.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 82.7,
+  "fidelidad_min": 35,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu' traducido como 'Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario' es aceptable",
+   "'Zakon o osnivaju Agencije' traducido como 'Ley por la que se crea la Agencia' correcto",
+   "'Direktiva o sigurnosti željeznice' como 'Directiva sobre la seguridad ferroviaria' correcto",
+   "'puntos de aguja' por 'skretnice' (desvíos/agujas) es aceptable pero no normalizado",
+   "'fugas o autodesplazamiento' por 'odbjegnuća ili samopokretanja' (fuga/escape de vagones) podría precisarse como 'escape o autodesplazamiento'",
+   "'bruto' (conjunto de vagones) traducido como 'conjunto fijo' en lugar de término normalizado como 'conjunto estacionario' o 'bruto'"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el título 'SADRŽAJ' traducido como encabezado (se usa 'ÍNDICE', aceptable)",
+     "Falta el punto 9 'SIGURNOSNE PREPORUKE' completo: se corta tras 'RECOMENDACIONES DE SEGURIDAD' sin el número de página 18",
+     "Falta el contenido de la sección 3 'REPORT SUMMARY' como título original (se añade '(EN INGLÉS)' no presente)"
+    ],
+    "invenciones": [
+     "Se añade '(EN INGLÉS)' al título 'REPORT SUMMARY'",
+     "Se traduce 'DOGAĐAJ' como 'INCIDENTE' en varios epígrafes (4, 4.1, 4.3, 4.3.4) cuando el original usa 'DOGAĐAJ' (evento/suceso) y en 4.2 usa 'NESREĆE' (accidente), mezclando términos"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'DOGAĐAJ' traducido como 'INCIDENTE' en lugar de 'EVENTO/SUCESO'; el original distingue 'DOGAĐAJ' (evento) de 'NESREĆA' (accidente) en 4.2",
+     "'SMRTNO STRADALI, OZLIJEĐENI' traducido como 'FALLECIDOS, HERIDOS' (aceptable) pero 'smrtno stradali' sería 'víctimas mortales'",
+     "'SUDIONICI' traducido como 'implicados' en 6.3 (typo 'IMPPLICADOS') en lugar de 'participantes'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión del cierre de la sección 9, invención '(EN INGLÉS)', error tipográfico y mezcla terminológica entre 'evento' e 'incidente'."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 35,
+    "omisiones": [
+     "Falta la fecha y hora del accidente en el original (no aparecen en el fragmento original)",
+     "Falta la frase sobre el tren de maniobras 50-78 27 - 70 001-7 que colisionó",
+     "Falta la mención de que el vagón estaba sobre vretenastim dizalicama (elevadores de husillo) en el original"
+    ],
+    "invenciones": [
+     "Se añade fecha y hora: 11.09.2014, aproximadamente a las 13.00 h",
+     "Se añade el taller «Graba»",
+     "Se añade locomotora de maniobras número 2 123-322"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "«DODACI O DOGAĐAJU» traducido como «ADICIONES AL INCIDENTE» en lugar de «DATOS DEL EVENTO»",
+     "«nalet» traducido como «colisión» cuando el original implica «embestida/choque»",
+     "«iskliznuća» traducido como «descarrilamiento» pero el original habla de caída de elevadores, no descarrilamiento"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones que alteran sustancialmente el contenido del original."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se omite contenido sustantivo; la lista de documentos y el relato se traducen completos."
+    ],
+    "invenciones": [
+     "No hay invenciones relevantes; 'gatos hidráulicos' es una concreción razonable de 'dizalice'."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'proklijavanja kotača' se traduce como 'bloqueo de las ruedas'; sería más preciso 'deslizamiento/patinaje de las ruedas'",
+     "'manevristi' como 'maniobreros' es aceptable, pero conviene normalizar 'encargado de maniobras' para 'voditelj manevre'"
+    ],
+    "comentario": "Traducción fiel y completa, con cifras correctas; solo cabe revisar la terminología de frenado y maniobras."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 11.09.2014 KI_Graba_11_09_2014_za_web.md"
+ },
+ "md-es/HR/2014/HR 11.09.2014 Labin.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   14,
+   21,
+   25
+  ],
+  "fidelidad_media": 89.3,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'pk 301+294' debería normalizarse como 'PK 301+294' (punto kilométrico)",
+   "'Larga período' error de concordancia de género (debe ser 'Largo período')",
+   "'la reducción de las consecuencias del accidente contribuyó el hecho' construcción incorrecta (debe ser 'contribuyó a la reducción... el hecho')",
+   "'se incurrieron en costes adicionales' construcción incorrecta (debe ser 'se incurrió en costes adicionales')",
+   "'iskliznuće' traducido como 'descarrilamiento' sin especificar el tipo (descarrilamiento de la locomotora)",
+   "'Teret' traducido como 'Terreno' en lugar de 'Carga'"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 96,
+    "omisiones": [],
+    "invenciones": [
+     "Gaceta Oficial de la República de Croacia (añadido explicativo no presente en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Ley de Creación de la Agencia: el original dice 'Zakon o osnivaju' (Ley de creación/establecimiento), aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción muy fiel; única desviación relevante es la adición explicativa 'Gaceta Oficial de la República de Croacia' junto a Narodne novine."
+   },
+   {
+    "pagina": 25,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la primera frase del original sobre el problema de los desprendimientos en los ferrocarriles croatas (frase inicial truncada en el original, pero la traducción añade contenido no presente)",
+     "Falta la referencia a que las vías son mantenidas por las Unidades Regionales de Mantenimiento en el contexto correcto (se traslada a otro párrafo)",
+     "Falta el fragmento 'koje prolazi željeznička pruga protežu se kroz područje' (texto original incompleto)"
+    ],
+    "invenciones": [
+     "Figura 11 Mecanismos posibles de desplazamiento de los bloques por la pendiente en relación con su pendiente media (no está en el original)",
+     "Se añade 'de importancia internacional, regional y local por las que circula el tráfico convencional (es decir, de pasajeros y mercancías)' que no aparece en el original",
+     "Se añade 'presentando grietas visibles y cavidades, discontinuidades y fallas, situados posicionalmente muy a menudo perpendiculares al eje de la vía' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'predusjeci tunela' traducido como 'anteproyectos de los túneles' cuando debería ser 'desmontes previos/trincheras de acceso a túneles'",
+     "'usjeci, zasjeci' traducidos de forma inconsistente como 'desmontes, taludes excavados'",
+     "'torkret' mantenido sin normalizar (debería ser 'hormigón proyectado' ya indicado)"
+    ],
+    "comentario": "La traducción inserta una figura y frases completas ausentes del original, omite el arranque del texto y confunde términos técnicos clave como 'predusjeci tunela'."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 11.09.2014 Labin.md"
+ },
+ "md-es/HR/2014/HR 11.11.2014 Konačno_.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   5,
+   9,
+   12,
+   16,
+   22
+  ],
+  "fidelidad_media": 88.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Podgrbina' no traducido/normalizado (zona bajo el montículo de clasificación)",
+   "'arnjeve' traducido como 'arneses' en lugar de un término normalizado como 'soportes/arcos'",
+   "'kolodovorski' (typo del original por 'kolodvorski') traducido como 'de la estación', aceptable",
+   "'documento de transporte' por 'teretni list' (carta de porte) no normalizado",
+   "'piezas que puedan desprenderse' por 'dijelove koje je moguće otuđiti' (partes susceptibles de sustracción/robo) cambia el sentido",
+   "'auto-desplazamiento' por 'samopokretanja' (autodesplazamiento/desplazamiento propio) forma no normalizada"
+  ],
+  "fallos": [
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase original 'dolazi do nestanka napona u kontaktnoj' (corte de tensión en la red de contacto) que en el original queda incompleta pero presente; la traducción la reformula como 'interrupción del suministro eléctrico en la línea de contacto del tramo entre los puntos kilométricos (PK) Horvati - Zdenčina', añadiendo el tramo PK no explicitado"
+    ],
+    "invenciones": [
+     "Se añade '(línea internacional Zagreb – Rijeka)' que no aparece en el original",
+     "Se añade 'del tramo entre los puntos kilométricos (PK) Horvati - Zdenčina' no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'encargado de tráfico' para 'dežurni prometnik' y 'prometnik vlakova' podría normalizarse como 'jefe de circulación'/'factor de circulación'",
+     "'línea de contacto' es aceptable pero 'contact wire/red de contacto' sería más preciso"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero introduce la línea internacional Zagreb–Rijeka y el tramo PK no presentes en el original, y reformula la frase del corte de tensión."
+   },
+   {
+    "pagina": 22,
+    "fidelidad": 55,
+    "omisiones": [
+     "En 5.2 falta la frase original 'U 6:13 blokirao kolosijek' (a las 6:13 bloqueó la vía) y su contenido se sustituye por texto no presente",
+     "Falta la mención de que el tren circulaba por la línea Zagreb RK-Split Predgrađe en el original (no aparece en el original; ver invenciones)",
+     "El original no incluye 'tras el paso del tren por el lugar Mavračići' ni 'El maquinista del tren decidió arrastrar el tren...'"
+    ],
+    "invenciones": [
+     "'tras el paso del tren por el lugar Mavračići' no está en el original",
+     "'El maquinista del tren decidió arrastrar el tren hasta la estación de Zdenčina para no bloquear la vía con el tren' no está en el original",
+     "'daños visibles en los vagones' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'red de contacto' por 'kontaktna mreža' es aceptable, pero 'falta de tensión' traduce 'nestanak napona' (corte de tensión) de forma imprecisa",
+     "'agente de tráfico ferroviario' por 'prometnik vlakova' (jefe de circulación/regulador de tráfico) no es término normalizado",
+     "'Salida del tren' por 'Otpremanje' (expedición/despacho) es aceptable pero no uniforme"
+    ],
+    "comentario": "La traducción altera el relato de 5.2 con invenciones y omite el bloqueo de vía, aunque las cifras y tablas se mantienen."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 11.11.2014 Konačno_.md"
+ },
+ "md-es/HR/2014/HR 17.07.2014 KI_Varaždin_17_07_2014_za_objavu_na_WEB.md": {
+  "estado": "revisar",
+  "idioma_origen": "HR",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   6,
+   8,
+   11
+  ],
+  "fidelidad_media": 84.3,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'incidentes graves' en la traducción del primer párrafo del Departamento corresponde a 'izvanrednih događaja' (acontecimientos extraordinarios/incidentes), no a 'incidentes graves'",
+   "'todos los incidentes que impliquen' traduce 'svi događaji' (todos los acontecimientos/sucesos), no 'incidentes'",
+   "'averías técnicas' traduce 'tehničke otkaze' (fallos técnicos), término no normalizado",
+   "'pritvrdna kočnica' traducido como 'freno de estacionamiento'; debería ser 'freno de retención' o 'freno de mano'",
+   "'skretnica boj 31' traducido como 'desvío 31' omitiendo el número de identificación 'boj'"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 70,
+    "omisiones": [
+     "No se traduce el bloque en inglés 'REPORT SUMMARY' (se deja sin traducir, aunque el original croata ya lo incluye como resumen en inglés)",
+     "Se omite la mención de que el descarrilamiento afectó a 'ambos ejes' en la frase de causa (el original dice 's obje osovine' en el hecho, traducido, pero el resumen inglés se mantiene)"
+    ],
+    "invenciones": [
+     "Se añade 'locomotora' antes de 'TMD' (el original solo dice 'vučen TMD-om', sin especificar locomotora)",
+     "Se traduce 'Garažnom kolosijeku' como 'vía de garaje' cuando el original croata es 'Garažni kolosijek' (vía de garaje), pero en el bloque inglés se dice 'siding' (vía de apartadero), creando una discrepancia no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'pritvrdna kočnica' traducido como 'freno de estacionamiento' es aceptable, pero el original inglés dice 'parking brake'; no hay error grave",
+     "'auto tune walk axle' se mantiene en inglés sin traducir en el bloque REPORT SUMMARY, lo que es una omisión de traducción",
+     "'iskliznuće' traducido como 'descarrilamiento' es correcto"
+    ],
+    "comentario": "La traducción del resumen croata es fiel, pero se deja sin traducir el bloque inglés 'REPORT SUMMARY' y se añade 'locomotora' no presente en el original."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el título de la sección 2 como 'Datos del suceso' sino 'Anexos al suceso' (cambio de sentido, no omisión de contenido)",
+     "Se omite la indicación de que el descarrilamiento afectó a 'ambos ejes' del vagón (sí aparece, ok)",
+     "No se especifica que la maniobra fue en la vía de garaje (sí aparece)"
+    ],
+    "invenciones": [
+     "'Anexos al suceso' no corresponde a 'DODACI O DOGAĐAJU' (Datos del suceso)",
+     "Se traduce 'TMD' como 'locomotora' cuando el original usa 'TMD' (vehículo motor de vía) sin especificar locomotora"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'DODACI O DOGAĐAJU' traducido como 'ANEXOS AL SUCESO' en lugar de 'Datos del suceso'",
+     "'TMD' traducido como 'locomotora' en vez de mantener la sigla o 'vehículo motor de vía'",
+     "'motorno pružno vozilo' traducido como 'locomotora de vía' en lugar de 'vehículo motor de vía'"
+    ],
+    "comentario": "La traducción es en general fiel y conserva cifras y PK, pero introduce 'Anexos' por 'Datos' y convierte TMD en 'locomotora', alterando términos técnicos."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase inicial del original: 'pregleda da je sposoban za rad' (reconocimiento médico de aptitud para el trabajo) tal como aparece encadenada al encabezado 3.4",
+     "Falta en 3.5 el contexto previo a los cuatro viajes: no se menciona en el original la inspección ocular, la recolocación del vagón, el freno de estacionamiento ni el enganche a la locomotora de maniobras (TMD)"
+    ],
+    "invenciones": [
+     "'El maquinista del tren de maniobras A trabajaba dentro de su turno habitual y poseía una evaluación médica vigente' — no aparece en el original",
+     "En 3.5: 'Tras la inspección ocular del lugar, el vagón en cuestión fue recolocado sobre las vías. Una vez recolocado el vagón, se soltó el freno de estacionamiento y el vagón fue enganchado a la locomotora de maniobras (TMD). Por orden del investigador...' — contenido ausente del original",
+     "'participantes en el incidente' por 'sudionika događaja' (participantes en el evento/suceso), cambio de término"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'iskliznuće'/'iskakanje' traducido como 'descarrilamiento' sin distinguir el matiz de 'salida de la vía' del original",
+     "'Garažni kolosijek' traducido como 'vía de estacionamiento' cuando el original dice 'vía de garaje'",
+     "'Narodne novine' se deja sin traducir (Boletín Oficial), aceptable pero no normalizado"
+    ],
+    "comentario": "La traducción añade un párrafo entero ausente del original en 3.5 y omite la frase inicial de 3.4, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/HR/2014/HR 17.07.2014 KI_Varaždin_17_07_2014_za_objavu_na_WEB.md"
+ }
+}

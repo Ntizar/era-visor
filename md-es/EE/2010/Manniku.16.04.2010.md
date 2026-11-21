@@ -4,380 +4,517 @@ anio: 2010
 idioma_origen: FI
 md_origen: md/EE/2010/Manniku.16.04.2010.md
 md5_origen: c15794348ef4cc5b3a79ec25bbc7e6cd
-modelo: qwen3.8-flash
+modelo: qwen3.6
 bloques: 9
-chars: 64978
-ratio_longitud: 1.26
+chars: 66149
+ratio_longitud: 1.28
 tokens_in: 24925
-tokens_out: 16562
+tokens_out: 16993
 verificacion: ok
-notas_cifras: ["bloque 1: cifras cortas: 3/46", "bloque 2: cifras cortas: 1/58", "bloque 3: cifras cortas: 2/61"]
-fecha_proceso: 2026-11-18
+notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (FI); cifras cortas: 1/56", "bloque 3: original bilingüe: se compara contra el idioma principal (FI)", "bloque 4: original bilingüe: se compara contra el idioma principal (FI)", "bloque 6: cifras largas: 1/19; cifras cortas: 1/40", "bloque 8: original bilingüe: se compara contra el idioma principal (FI)", "bloque 9: cifras cortas: 1/154"]
+fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 ---
 ## Página 1
 
-INFORME DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS
+INFORME DE INVESTIGACIÓN DE ACCIDENTE FERROVIARIO
 Accidente ferroviario
-Conforme a la clasificación del «Directiva sobre seguridad de los ferrocarriles» 2004/49/CE: incidente – categoría: accidente en paso a nivel
-Conforme a la clasificación de la «Ley del Ferrocarril»: accidente ferroviario de primer grado (colisión de material rodante ferroviario con otro medio de transporte, con resultado de víctima mortal)
-Lugar y fecha del accidente ferroviario: Paso a nivel de Männiku (Condado de Harju), 16 de abril de 2010.
+según la clasificación de la
+«Directiva sobre la seguridad
+ferroviaria» 2004/49/CE:
+accidente de paso a nivel
+Accidente ferroviario
+según la clasificación de la
+«Ley de Ferrocarriles»:
+accidente ferroviario de primer grado
+(colisión de un vehículo ferroviario con otro medio de transporte, con resultado de víctima mortal)
+Lugar y fecha del accidente ferroviario: en el paso a nivel de Männiku (condado de Harju) el 16 de
+abril de 2010.
 Tallin
 2010
 
 
 ## Página 2
 
-# 1. Resumen
-1. La colisión entre el tren de pasajeros n.º 0041 y un camión MAN tuvo lugar en el paso a nivel no automatizado de Männiku, situado fuera de zona urbanizada, en el tramo entre las estaciones de Liiva y Kiisa (km 14,599), el 16 de abril de 2010 a las 08.13.
-2. En el accidente ocurrido en el paso a nivel de Männiku falleció el conductor del camión y un pasajero que viajaba en el tren sufrió lesiones corporales leves.
-3. Se dañaron la parte frontal de la carrocería del coche motor DR1B 3703, que encabezaba el tren diésel de cinco vagones, el quitanieves, el soporte de las bobinas receptoras del sistema AVS, el accionamiento del registrador de velocidad y la tubería del sistema de aire comprimido; se rompió el parabrisas delantero de la cabina del maquinista. La infraestructura ferroviaria quedó intacta.
-4. El camión MAN se dividió en tres partes separadas: el contenedor, la cabina y el chasis. La cabina y el chasis quedaron totalmente deformados e inutilizables.
-5. Los daños sufridos por el tren impidieron la continuación del servicio según horario. Tras la inspección del tren, este regresó al depósito utilizando el coche motor situado en el extremo opuesto.
-6. Se realizaron cambios en la organización del tráfico para trasladar a los pasajeros a sus destinos. Los pasajeros del tren afectado por el accidente fueron transportados en autobuses hasta el tren sustituto que esperaba en la siguiente estación. La interrupción del tráfico duró 4 h y 17 min.
-7. La causa directa del accidente fue un error humano del conductor del vehículo. El conductor no evaluó adecuadamente los requisitos establecidos por la señal de advertencia «Vía única» y la señal de prioridad «Ceda el paso». Accedió al paso a nivel sin detenerse, a baja velocidad, y recibió el impacto del tren en el lateral derecho del vehículo.
-8. Para mejorar la seguridad del tráfico ferroviario, se formularon 2 recomendaciones al gestor de la infraestructura ferroviaria: poner en servicio un nuevo paso a nivel moderno y cerrar al tráfico el paso a nivel existente de Männiku simultáneamente a la finalización de la reparación integral de la carretera adyacente.
-9. Se formularon 3 recomendaciones a la administración local: transmitir información sobre el peligro del paso a nivel de Männiku a las instituciones y empresas que lo utilizan con frecuencia, coordinar posiciones para conectar la vía de acceso desde la cantera con la red viaria local y aplicar medidas temporales para mejorar la visibilidad para los conductores que se aproximan al paso a nivel.
-10. El informe de investigación se remite para tramitar las recomendaciones formuladas al final del informe a Edelaraudtee Infrastruktuuri AS y al Gobierno Municipal de Saku. El informe de investigación se envía para su conocimiento a Edelaraudtee AS, a la Agencia Ferroviaria Europea, al Centro Forestal del Condado de Harju, a la viuda de la víctima, al Centro de Emergencias de Estonia Septentrional, a Insait Projekt OÜ, a la Prefectura Septentrional, a la Dirección Regional de Carreteras de Estonia Septentrional y a la Inspección Técnica.
+# 1. RESUMEN
+1. La colisión entre el tren de pasajeros n.º 0041 y el camión MAN tuvo lugar en el paso a nivel de Männiku, no automatizado ni regulado, situado en zona no urbanizada, entre las estaciones de Liiva y Kiisa (km 14,599), el 16 de abril de 2010 a las 08.13.
+2. En el accidente del paso a nivel de Männiku falleció el conductor del camión y un pasajero del tren sufrió lesiones corporales leves.
+3. Se dañaron la parte delantera de la carrocería de la locomotora motora DR1B 3703, situada en la cabeza del tren diésel de 5 vagones, el arado de nieve, la viga de las bobinas receptoras del sistema de señalización automática, el accionamiento del tacógrafo y la tubería del sistema de aire comprimido. Se rompió el parabrisas de la cabina del maquinista. La infraestructura ferroviaria no sufrió daños.
+4. El camión MAN se fragmentó en tres piezas separadas, que eran el contenedor, la cabina y el chasis del camión. La cabina y el chasis quedaron totalmente deformados e inutilizables.
+5. Los daños del tren impidieron que este pudiera continuar su viaje según el horario. Tras la inspección del tren, este regresó al depósito ayudado por la locomotora motora situada en el otro extremo del tren.
+6. Se realizaron modificaciones en la organización del tráfico para llevar a los pasajeros a su destino. Los pasajeros del tren afectado por el accidente fueron trasladados en autobús hasta el tren de sustitución que esperaba en la siguiente estación. La interrupción del tráfico duró 4 h y 17 min.
+7. La causa directa del accidente fue un error humano del conductor del vehículo. El conductor no evaluó adecuadamente las exigencias establecidas por la señal de advertencia «Vía única» y la señal de prioridad «Deténgase y ceda el paso». Condujo sin detenerse a baja velocidad hacia el paso a nivel y recibió el impacto del tren por el lado derecho del vehículo.
+8. Para aumentar la seguridad del tráfico ferroviario se formularon 2 propuestas al gestor de la infraestructura ferroviaria para poner en servicio un nuevo paso a nivel moderno y cerrar el paso a nivel existente de Männiku al tráfico simultáneamente con la finalización de las obras de reparación y reconstrucción de la vía de acceso adyacente.
+9. Se formularon 3 propuestas al municipio local para que transmitiera la información sobre la peligrosidad del paso a nivel de Männiku a las instituciones y empresas que utilizan con mayor frecuencia el paso a nivel, consolidara las posturas relativas a la integración de la vía de acceso al lado de la cantera con la red de carreteras local y aplicara medidas temporales para mejorar la visibilidad de los conductores que se acercan al paso a nivel.
+10. El informe de investigación se remitirá para su tramitación de las propuestas formuladas al final del informe a Edelaraudtee Infrastruktuuri AS y al Ayuntamiento de Saku. Se remitirá para su conocimiento el informe de investigación a Edelaraudtee AS, a la Agencia Ferroviaria Europea, a la Dirección Forestal del condado de Harju, a la esposa del fallecido, al Centro de Alertas de Estonia del Norte, a Insait Projekt OÜ, a la Prefectura del Norte, a la Administración Regional de Carreteras del Norte y a la Autoridad de Supervisión Técnica.
 
 
 ## Página 3
 
 # 1.1 Conclusión
-1. La colisión entre el tren de pasajeros n.º 0041 y un camión MAN tuvo lugar en el paso a nivel no automatizado de Männiku, situado fuera de zona urbanizada, en el tramo entre las estaciones de Liiva y Kiisa (km 14,599), el 16 de abril de 2010 a las 08.13.
-2. En el accidente ocurrido en el paso a nivel de Männiku falleció el conductor del camión y un pasajero que viajaba en el tren sufrió lesiones corporales leves.
-3. Se dañaron la parte frontal de la carrocería del coche motor DR1B-3703, que encabezaba el tren diésel de cinco vagones, el quitanieves, el soporte de las bobinas receptoras del sistema automático de señalización, el accionamiento del registrador de velocidad y la tubería del sistema de aire comprimido; se rompió el parabrisas delantero de la cabina del maquinista. La infraestructura ferroviaria no sufrió daños.
-4. El camión MAN se dividió en tres partes separadas: el contenedor, la cabina y el chasis. La cabina y el chasis quedaron totalmente deformados e inutilizables.
-5. Los daños sufridos por el tren impidieron la continuación del servicio según horario. Tras la inspección del tren, este regresó al depósito utilizando el segundo coche motor, situado en el extremo opuesto del tren.
-6. Se realizaron cambios en la organización del tráfico para trasladar a los pasajeros a sus destinos. Los pasajeros del tren afectado por el accidente fueron transportados en autobuses hasta el tren sustituto que esperaba en la siguiente estación. La interrupción del tráfico duró 4 horas y 17 minutos.
-7. La causa directa del accidente fue un error humano del conductor del camión, quien no evaluó adecuadamente los requisitos impuestos por la señal de advertencia «Vía única» y la señal de prioridad «Ceda el paso». Accedió al paso a nivel sin detenerse, a baja velocidad, y recibió el impacto del tren en el lateral derecho del camión.
-8. Se formularon dos recomendaciones al gestor de la infraestructura ferroviaria para aumentar la seguridad ferroviaria: organizar la puesta en servicio de un nuevo paso a nivel moderno y cerrar al tráfico el actual paso a nivel de Männiku simultáneamente a la finalización de las obras de reconstrucción y reparación de la carretera de acceso adyacente.
-9. Se formularon tres sugerencias a la administración local: transmitir información sobre los peligros del paso a nivel de Männiku a las instituciones y empresas que utilizan frecuentemente dicho paso a nivel, coordinar posiciones para conectar la vía de acceso desde la cantera con la red viaria local y aplicar medidas temporales para mejorar la visibilidad de los conductores que se aproximan al paso a nivel.
-10. El informe de investigación será remitido para la tramitación de las propuestas presentadas al final del informe a Edelaraudtee AS (Ferrocarriles del Suroeste) Infrastructure PLC y al Gobierno Municipal de Saku. El informe de investigación será enviado para su conocimiento a Edelaraudtee AS (Ferrocarriles del Suroeste PLC), a la Agencia Ferroviaria Europea, al Distrito Forestal del Condado de Harju, a la esposa del fallecido, al Centro de Alarmas de Estonia Septentrional, a Insait Project Ltd, a la Prefectura Septentrional, a la Administración Regional de Carreteras de Estonia Septentrional y a la Autoridad Nacional de Supervisión.
+1. La colisión entre el tren de pasajeros n.º 0041 y el camión MAN tuvo lugar en el paso a nivel de Männiku, no automatizado ni regulado, situado en zona no urbanizada, entre las estaciones de Liiva y Kiisa (km 14,599), el 16 de abril de 2010 a las 8.13 a. m.
+2. En el accidente del paso a nivel de Männiku falleció el conductor del camión y uno de los pasajeros del tren de pasajeros sufrió lesiones corporales leves.
+3. Se dañaron la parte delantera de la carrocería de la locomotora motora DR1B-3703, situada en la cabeza del tren diésel de 5 vagones, el arado de nieve, la viga de las bobinas receptoras del sistema de señalización automática, el engranaje del tacógrafo y la tubería del aire comprimido. Se hizo añicos la pantalla frontal de la cabina del conductor. La infraestructura ferroviaria no sufrió daños.
+4. El camión MAN se rompió en tres piezas separadas, compuestas por el contenedor, la cabina y el chasis. La cabina y el chasis quedaron totalmente deformados e inutilizables.
+5. Los daños del tren hicieron imposible que este pudiera continuar su viaje programado. Tras la inspección del tren, este regresó al depósito, con la ayuda de la segunda locomotora motora, situada en el otro extremo del tren.
+6. Se realizaron cambios en la organización del tráfico para llevar a los pasajeros a su destino. Los pasajeros del tren dañado por el accidente fueron trasladados en autobús hasta el tren de sustitución que esperaba en la siguiente estación. La interrupción del tráfico duró 4 horas y 17 minutos.
+7. La causa directa del accidente fue el error humano del conductor del camión, quien no pudo evaluar adecuadamente las exigencias impuestas por la señal de advertencia «Vía única» y la señal de prioridad «Deténgase y ceda el paso». Condujo sin detenerse a baja velocidad hacia el paso a nivel y fue alcanzado por el tren por el lado derecho del camión.
+8. Se formularon dos propuestas al gestor de la infraestructura ferroviaria para aumentar la seguridad ferroviaria: organizar la apertura de un nuevo paso a nivel moderno y cerrar el actual paso a nivel de Männiku al tráfico al mismo tiempo que finalicen las obras de reconstrucción y reparación de la vía de acceso cercana.
+9. Se formularon tres sugerencias al municipio local: transmitir la información sobre los peligros del paso a nivel de Männiku a las instituciones y empresas que utilizan con frecuencia el mencionado paso a nivel, consolidar las posiciones para la integración de la vía de acceso al lado de la cantera con la red de carreteras local y aplicar medidas temporales para mejorar la visibilidad de los conductores que se acercan al paso a nivel.
+10. El informe de investigación se remitirá para la tramitación de las propuestas presentadas al final del informe a Edelaraudtee AS (Ferrocarriles del Suroeste) Infraestructura PLC y al Municipio Local de Saku. El informe de investigación se remitirá para su conocimiento a Edelaraudtee AS (Ferrocarriles del Suroeste PLC), a la Agencia Ferroviaria Europea, a la Dirección Forestal del condado de Harju, a la esposa del fallecido, al Centro de Alertas de Estonia del Norte, a Insait Project Ltd, a la Prefectura del Norte, a la Administración Regional de Carreteras del Norte y a la Autoridad Nacional de Supervisión.
 
 ## Página 4
 
-# 2. HECHOS DEL ACCIDENTE
-# 2.1 El accidente
-El viernes, 16 de abril de 2010, a las 08:13, se produjo una colisión entre un tren de pasajeros y un camión en el paso a nivel no automatizado de Männiku, situado fuera de la zona densamente poblada, en el tramo Liiva – Kiisa (punto kilométrico 14,599).
-De conformidad con la «Ley del Ferrocarril» de la República de Estonia, este caso se clasifica como un accidente ferroviario de primer grado (colisión de material rodante ferroviario con otro medio de transporte que causó una o más víctimas mortales). Según la «Directiva sobre seguridad de los ferrocarriles» 2004/49/CE del Parlamento Europeo y del Consejo, el incidente ocurrido pertenece a la categoría de accidentes en pasos a nivel.
-El paso a nivel de Männiku tiene 8 m de ancho y es cruzado por una calzada asfáltica bidireccional con un ancho total de 5,9 m. El camión MAN, matrícula 141 AXB, cuyo contenedor se encuentra en la explanada verde situada al lado de las canteras de Liiva, paralela a la vía férrea, está a 10,4 m de la vía y a 25,1 m de la calzada. Sobre el pavimento del paso a nivel hay marcas de arrastre de 1,3 m de longitud, tanto transversales como longitudinales respecto a la vía. Antes del paso a nivel, en la dirección de aproximación del vehículo, hay grava. El tren diésel quedó detenido a 528,5 m del borde del paso a nivel en el lado de Saku. Bajo las ruedas delanteras del tren diésel se encuentra el camión MAN. La longitud del tren diésel es de 127,3 m.
-Foto 1. Tren de pasajeros n.º 0041 y camión MAN tras la colisión.
-La Unidad de Investigación de Accidentes Ferroviarios del Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones recibió una notificación sobre el accidente ferroviario procedente del Departamento de Transporte Ferroviario de la Agencia de Supervisión Técnica en la mañana del 20 de abril de 2010. La unidad de investigación precisó las circunstancias del incidente consultando con la empresa ferroviaria y con la Agencia de Supervisión Técnica. Ese mismo día, la unidad de investigación adoptó la decisión de llevar a cabo una investigación de seguridad sobre el accidente. En cuanto al inicio de la investigación del accidente, la unidad de investigación introdujo los datos correspondientes en la base de datos de la ERA el 20 de abril de 2010.
-La decisión de iniciar la investigación de seguridad se basa en el apartado 4 del artículo 42 de la «Ley del Ferrocarril», que establece la obligación de la unidad de investigación de investigar los accidentes ferroviarios de primer grado. De conformidad con el Derecho de la Unión Europea, la investigación del caso se inició conforme al apartado 6 del artículo 21 de la «Directiva sobre seguridad de los ferrocarriles» 2004/49/CE del Parlamento Europeo y del Consejo, que regula la investigación de otros accidentes e incidentes ferroviarios que no sean accidentes graves.
+# 2. HECHOS DEL INCIDENTE
+# 2.1 Incidente
+El viernes 16 de abril de 2010 a las 08:13 se produjo una colisión entre un tren de pasajeros y un camión en un paso a nivel no automatizado de la línea principal entre las estaciones de Liiva y Kiisa (km 14,599), fuera de una zona densamente poblada.
+De conformidad con la «Ley de Ferrocarriles» de la República de Estonia, el presente incidente se clasifica como un accidente ferroviario de primer grado (colisión de material rodante ferroviario con otro medio de transporte, que provocó una o varias víctimas mortales). De acuerdo con la «Directiva sobre la seguridad ferroviaria» 2004/49/CE del Parlamento Europeo y del Consejo, el incidente ocurrido se clasifica como un accidente de paso a nivel.
+El paso a nivel de Männiku tiene un ancho de 8 m y lo cruza una calzada de asfalto de doble sentido con un ancho total de 5,9 m. El camión MAN, con matrícula 141 AXB, con el contenedor, se encuentra en la zona ajardinada del lado de la cantera de Liiva, paralelo a la vía férrea, a 10,4 m de la vía y a 25,1 m de la calzada. En la superficie del paso a nivel hay marcas de frenado de 1,3 m de longitud, perpendiculares y paralelas a la vía. Hay escombros antes del paso a nivel, en el sentido de aproximación del vehículo. El tren diésel se detuvo a 528,5 m del borde del paso a nivel, lado de Saku. El camión MAN se encuentra bajo las ruedas delanteras del tren diésel. La longitud del tren diésel es de 127,3 m.
+Foto 1. Tren de pasajeros n.º 0041
+y
+camión
+MAN
+tras la colisión
+El Ministerio de Economía y Comunicaciones, Departamento de Gestión de Crisis, recibió del Departamento de Transporte Ferroviario de la Agencia de Vigilancia Técnica un aviso sobre el accidente ferroviario ocurrido la mañana del 20 de abril de 2010. La Unidad de Investigación aclaró las circunstancias del incidente consultando con la empresa ferroviaria y con la Agencia de Vigilancia Técnica. El mismo día, la Unidad de Investigación adoptó la decisión de realizar una investigación de seguridad del accidente ocurrido. La Unidad de Investigación introdujo los datos correspondientes en la base de datos ERA el 20 de abril de 2010.
+La decisión de iniciar la investigación de seguridad se basa en el apartado (4) del artículo 42 de la «Ley de Ferrocarriles», que establece la obligación de la Unidad de Investigación de investigar los accidentes ferroviarios de primer grado. De conformidad con el Derecho de la Unión Europea, se inició la investigación del incidente de acuerdo con el apartado (6) del artículo 21 de la «Directiva sobre la seguridad ferroviaria» 2004/49/CE del Parlamento Europeo y del Consejo, que establece la investigación de otros accidentes ferroviarios e incidentes que no sean accidentes graves.
 
 
 ## Página 5
 
-La investigación del accidente la lleva a cabo Jüri Olde, especialista principal del Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones, quien ejerce las funciones de investigador jefe. El investigador jefe examina los daños en el material rodante y visita el lugar de los hechos. Recopila información sobre el incidente ocurrido de AS Edelaraudtee, Edelaraudtee Infrastruktuuri AS, la policía, el centro de emergencias y los servicios médicos. Como resultado del análisis de la información recopilada, el investigador jefe elabora un informe de investigación en el que formula propuestas para mejorar la seguridad ferroviaria con el fin de evitar futuros casos similares.
-El investigador jefe organizó una reunión con las partes interesadas el 4 de noviembre de 2010, para que los participantes pudieran expresar sus puntos de vista y emitir opiniones sobre el caso y su investigación.
-# 2.2 Antecedentes del caso
-En el paso a nivel de Männiku se vio implicado en el accidente el tren de pasajeros n.º 0041 de Edelaraudtee AS, conducido por una tripulación de locomotora compuesta por dos miembros de dicha empresa. El tren diésel que operaba como servicio de pasajeros era conducido por un maquinista que poseía licencia para conducir trenes diésel desde el 17.08.1978; su licencia de maquinista, expedida por la Inspección de Ferrocarriles, fue prorrogada el 20.01.2006 y estaba vigente en el momento del accidente. El ayudante de maquinista poseía un certificado profesional expedido por Eesti Raudtee y la Cámara de Oficios, según el cual le fueron otorgadas el 05.09.2008 las cualificaciones profesionales de ayudante de maquinista de segundo nivel, ayudante de maquinista diésel y ayudante de conductor de tren diésel, válidas hasta el 05.09.2013.
-Como tren de pasajeros n.º 0041 circulaba un tren diésel DR1B 3703/3704 de cinco coches y 127,3 m de longitud, cuyo coche motor DR1B 3703 sufrió la colisión con el camión. El tren está equipado con un sistema de control y conducción de tipo ALSN de clase B.
-El tren de pasajeros circulaba por la línea principal de Edelaraudtee Infrastruktuuri AS, dotada de bloqueo semiautomático, en el tramo Liiva – Kiisa.
-El paso a nivel de Männiku, km 15 pk 6, pertenece a los denominados pasos a nivel pasivos. Se le ha asignado la tercera categoría. La frecuencia de tráfico de trenes es de 26 trenes diarios y la frecuencia de tráfico de vehículos de carretera es inferior a 50 unidades diarias. La velocidad máxima permitida para los trenes de pasajeros es de 90 km/h y también de 90 km/h para los usuarios de la carretera. El paso a nivel tiene 7 m de ancho y posee un pavimento de madera en estado aceptable. Desde la dirección de aproximación del vehículo accidentado, a 50 m de distancia, no hay visibilidad hacia el paso a nivel, mientras que a 8 m de distancia la visibilidad es de 600 m. El maquinista tiene visibilidad hacia el paso a nivel desde 800 m de distancia; las señales acústicas de ferrocarril están instaladas en el lugar previsto. Para los usuarios de la carretera, el paso a nivel está equipado con la señal de prioridad 222 «Ceda el paso» y la señal de advertencia 121 «Vía única». Ambas señales se encuentran en el poste común en la dirección de aproximación del vehículo, a 7,9 m del raíl más cercano.
-El titular de la calzada es el Distrito Forestal de Harjumaa.
-Por delante del tren circulaba un camión MAN de Insait Projekt OÜ, matrícula 141 AXB. El conductor del vehículo poseía un carné de conducir válido de categoría BC.
-Tras producirse el accidente, el maquinista informó al despachador mediante la radio del tren. La notificación se transmitió al jefe de operaciones y al coordinador del depósito mediante telefonía móvil.
-Por parte de Edelaraudtee AS y Edelaraudtee Infrastruktuuri AS, acudieron al lugar de los hechos un mecánico de vías para inspeccionar el estado de la infraestructura ferroviaria, así como un supervisor de operaciones y un instructor principal de maquinistas para evaluar las posibilidades de restablecer la circulación y ayudar a organizar la retirada del vehículo dañado que había invadido el gálibo ferroviario.
-El centro de emergencias recibió la notificación del accidente ferroviario el 16.04 a las 08:19. Inmediatamente después, el centro de emergencias envió la alerta al equipo de ambulancias de Mustamäe, que llegó
+La investigación del accidente la lleva a cabo el especialista principal del Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones, Jüri Olde, que cumple las funciones de investigador principal. El investigador principal examina las averías del material rodante ferroviario y se familiariza con el lugar del suceso. Recopila información sobre el incidente ocurrido de AS Edelaraudtee, Edelaraudtee Infrastruktuuri AS, la policía, el centro de emergencias y el centro médico. Como resultado del análisis de la información recopilada, el investigador principal elabora un informe de investigación en el que formula propuestas para aumentar la seguridad ferroviaria con el fin de evitar futuros incidentes de este tipo.
+El investigador principal organizó el 4 de noviembre de 2010 una reunión con las partes interesadas para que los participantes pudieran expresar sus puntos de vista y emitir opiniones sobre el incidente y su investigación.
+# 2.2 Antecedentes del incidente
+En el paso a nivel de Männiku se vio involucrado en un accidente el tren de pasajeros n.º 0041 de Edelaraudtee AS, conducido por una tripulación de dos miembros de la misma empresa. El tren diésel, que circulaba como tren de pasajeros, fue conducido por un maquinista con derecho a conducir trenes diésel desde el 17.08.1978, cuya licencia de maquinista ferroviario expedida por la Inspección Ferroviaria fue prorrogada el 20.01.2006 y que era válida en el momento del accidente. El ayudante de maquinista estaba en posesión de un certificado profesional expedido por Eesti Raudtee y la Cámara de Comercio y Artesanía, según el cual se le había otorgado la cualificación profesional de ayudante de maquinista II, ayudante de maquinista de locomotoras diésel, ayudante de conductor de trenes diésel el 05.09.2008, válida hasta el 05.09.2013.
+El tren de pasajeros n.º 0041 era un tren diésel de cinco vagones DR1B 3703/3704, de 127,3 m de longitud, cuya locomotora diésel DR1B 3703 colisionó con el camión. El tren está equipado con un sistema de control y conducción de tipo ALSN de clase B.
+El tren de pasajeros circulaba por la línea principal de Edelaraudtee Infrastruktuuri AS entre las estaciones de Liiva y Kiisa con bloqueo semiautomático.
+El paso a nivel de Männiku, km 15 pk 6, pertenece a los llamados pasos a nivel pasivos. Al paso a nivel se le asigna la tercera categoría. La frecuencia de circulación de trenes es de 26 trenes por día y la frecuencia de circulación de vehículos de transporte por carretera es inferior a 50 unidades por día. La velocidad máxima permitida para los trenes de pasajeros es de 90 km/h y para los usuarios de la carretera también es de 90 km/h. El paso a nivel tiene un ancho de 7 m y presenta un revestimiento de madera en buen estado. La visibilidad hacia el paso a nivel desde una distancia de 50 m en el sentido de aproximación del vehículo que sufrió el accidente es nula y a 8 m de distancia la visibilidad es de 600 m. La visibilidad del maquinista hacia el paso a nivel es de 800 m, y las señales acústicas de la vía férrea están en el lugar previsto. Para los usuarios de la carretera, el paso a nivel está equipado con la señal de prioridad 222 «Deténgase y ceda el paso» y la señal de advertencia 121 «Vía férrea de un solo carril». Ambas señales se encuentran en el extremo de un poste común, en el sentido de aproximación del vehículo, a 7,9 m de la vía más cercana.
+El titular de la calzada es el Bosque de Harjumaa.
+El camión MAN de Insait Projekt OÜ, con matrícula 141 AXB, entró en la vía. El conductor del vehículo estaba en posesión de una licencia de conducir de categoría BC válida.
+Tras producirse el accidente, el maquinista informó del incidente al despachador mediante la radio del tren.
+Se transmitió un aviso al jefe de explotación y al encargado del depósito mediante la telefonía móvil.
+El Departamento de Mecánica Ferroviaria de Edelaraudtee AS y Edelaraudtee Infrastruktuuri AS acudió al lugar del suceso para inspeccionar el estado de la vía férrea, el jefe de explotación y el instructor jefe de maquinistas para evaluar las posibilidades de restablecer el tráfico y ayudar a liberar el vehículo dañado de la vía férrea.
+El centro de emergencias recibió el aviso del accidente ferroviario ocurrido el 16.04 a las 08:19. Inmediatamente después, el centro de emergencias transmitió el aviso al equipo de ambulancias de Mustamäe, que llegó
 
 ## Página 6
 
-lugar de los hechos a las 08:33, recogió allí al afectado y condujo a las 09:44 al Hospital Regional de Estonia del Norte. El vehículo quedó libre a las 10:00. El camión de bomberos de Nõmme salió a las 08:22, llegó al lugar de los hechos a las 08:33 y abandonó el lugar de los hechos a las 09:19. La ambulancia de reanimación se dirigió al lugar de los hechos a las 08:25, llegó a las 08.33 y abandonó el lugar de los hechos a las 09.05. El centro de emergencias informó al operador de guardia del servicio de rescate sobre lo ocurrido a las 08:24. Se notificó a la brigada de rescate de Lääne-Harju la necesidad de salida a las 08:30. Llegó al lugar de los hechos a las 08:42 y lo abandonó a las 09:13. El centro de emergencias contactó con la policía a las 08:23. La policía tramitó el incidente en el lugar de los hechos.
+llegó al lugar del suceso a las 08:33, recogió a la víctima y se dirigió al Hospital Regional del Norte de Estonia a las 09:44. El vehículo quedó libre a las 10:00. El camión de bomberos de Nõmme salió a las 08:22, llegó al lugar del suceso a las 08:33 y se retiró del lugar del suceso a las 09:19. La ambulancia de reanimación llegó al lugar del suceso a las 08:25, llegó al lugar a las 08:33 y se retiró del lugar del suceso a las 09:05. La central de emergencias informó al operador de guardia del servicio de rescate sobre el incidente a las 08:24. Se notificó a la brigada de rescate de Lääne-Harju la necesidad de la salida a las 08:30. Llegó al lugar del suceso a las 08:42 y se retiró de allí a las 09:13. La central de emergencias contactó con la policía a las 08:23. La policía investigó el incidente en el lugar del suceso.
 # 2.3 Fallecimientos, lesiones y daños materiales
-Como consecuencia de la colisión entre el tren de pasajeros y el camión, falleció el conductor del camión. El conductor del automóvil había sufrido traumatismos cerrados potencialmente mortales en la cabeza, el tronco y las extremidades, con múltiples fracturas craneales y óseas del esqueleto, así como lesiones en los órganos internos y el cerebro.
-El personal ferroviario, compuesto por una tripulación de locomotora de dos miembros y dos acompañantes de viaje, no sufrió lesiones.
-En el tren viajaban 81 pasajeros. De ellos, una mujer de 69 años sufrió lesiones leves y fue trasladada por la unidad de ambulancias al Hospital Regional. El estado del paciente era estable. Su problema consistía en trastornos cardiovasculares como reacción a la situación. Ese mismo día, el paciente fue dado de alta para tratamiento domiciliario, con la recomendación de acudir a su médico de cabecera.
-En el coche motor diésel DR1B 3703, la cuchilla quitanieves estaba rota y el montaje de la cuchilla quitanieves parcialmente deformado como resultado de la colisión. La parte frontal de la carrocería del vagón estaba abollada y rota en un área de 2,5 m². Estaba abollado el soporte de los limpiaparabrisas y la manija. Cuatro faros de señalización estaban rotos y las cajas de los faros de señalización estaban abolladas. Los tubos de aire situados debajo de la cabina de conducción estaban dañados. Estaba abollado el eje de los receptores de códigos AVS y el lado izquierdo estaba roto. Las escaleras de la sala de máquinas estaban abolladas tanto en el lado izquierdo como en el derecho, y los soportes de fijación de las escaleras estaban dañados. La transmisión del reductor del velocímetro estaba rota. Ambos parabrisas delanteros del coche motor estaban rotos y los marcos de los parabrisas estaban abollados.
-Foto 2. Daños en la parte frontal del tren de pasajeros n.º 0041
-La magnitud de los daños causados al tren diésel es de 381502 EEK. La preparación para el transporte del tren desde el lugar de los hechos costó 6240 EEK. Además, se causaron daños adicionales al operador ferroviario por valor de 6696 EEK por el traslado de los pasajeros en autobús hasta su destino y
+Como consecuencia de la colisión entre el tren de pasajeros y el camión de mercancías, el conductor del camión falleció. El conductor del automóvil había sufrido traumatismos graves y potencialmente mortales en la cabeza, el tronco y las extremidades, acompañados de múltiples fracturas de los huesos del cráneo y del esqueleto, así como lesiones en los órganos internos y en el cerebro.
+Los ferroviarios, que eran una tripulación de locomotoras de dos miembros y dos auxiliares de viaje, no sufrieron lesiones.
+Había 81 pasajeros en el tren. De ellos, una mujer de 69 años sufrió lesiones leves y fue trasladada al Hospital Regional por la brigada de ambulancias. El estado del paciente era estable. Su problema consistía en alteraciones del sistema cardiovascular como reacción a la situación.
+El mismo día, el paciente fue dado de alta para tratamiento domiciliario, con la recomendación de acudir a su médico de cabecera.
+En el vagón motor del tren diésel DR1B 3703, como consecuencia de la colisión, se rompió el arado de nieve y se deformó parcialmente el soporte del arado de nieve. La parte delantera de la carrocería del vagón estaba aplastada y rota en una superficie de 2,5 m². Estaban aplastados el reposapiés del limpiaparabrisas y la manija.
+Se habían roto 4 luces de señalización y las cajas de las luces de señalización estaban aplastadas. Los tubos de aire situados debajo de la cabina de conducción estaban dañados. Estaba aplastada la viga de las unidades receptoras de códigos AVS y la mitad izquierda estaba rota. Las escaleras del compartimento de máquinas estaban aplastadas tanto a la izquierda como a la derecha, y los soportes de fijación de las escaleras estaban dañados. El accionamiento del reductor del velocímetro estaba roto. Ambos parabrisas delanteros del vagón motor estaban rotos y los marcos de los parabrisas delanteros aplastados.
+Foto 2. Daños en la parte delantera del tren de pasajeros n.º 0041
+El importe de los daños causados al tren diésel es de 381502 EEK. La preparación para el transporte del tren desde el lugar del suceso costó 6240 EEK. Al operador de transporte ferroviario se le causaron daños adicionales por valor de 6696 EEK en el traslado de los pasajeros a su destino en autobús y
 
 
 ## Página 7
 
-por conceder días libres remunerados a la tripulación de la locomotora para restablecer su equilibrio psicológico, por valor de 5625,05 EEK. En total, los daños directos ascendieron a 400063,05 EEK (25568,69 EUR) para Edelaraudtee AS.
-La infraestructura ferroviaria y la vía quedaron intactas como consecuencia del accidente.
-Resultó dañado el camión MAN con número de matrícula 141 AXB. La cabina y el chasis del vehículo estaban separados entre sí, y el contenedor estaba separado del chasis. En la cabina, todos los cristales, espejos, tablero de instrumentos y dispositivo de control estaban rotos. La carrocería del vehículo estaba deformada, y el contenedor presentaba marcas de deformación. Debido a la deformación, no es posible verificar el estado de los dispositivos de dirección, el sistema de frenos, las luces y los limpiaparabrisas. Los neumáticos cumplían los requisitos.
-# 2.4 Circunstancias externas
+para conceder días libres remunerados a la tripulación de la locomotora para recuperar el equilibrio psicológico, 5625,05 EEK. En total, los daños directos ascendieron a 400063,05 EEK (25568,69 EUR) para Edelaraudtee AS.
+La infraestructura ferroviaria y la vía permanecieron intactas como consecuencia del accidente.
+Resultó lesionada la camión MAN con matrícula 141 AXB. La cabina y el chasis del automóvil se habían separado, y el contenedor se había separado del chasis. En la cabina estaban rotos todos los cristales, los espejos, el salpicadero y el dispositivo de control. La carrocería del vehículo estaba deformada, y el contenedor presentaba marcas de deformación. Debido a la deformación, no es posible comprobar el estado de los mandos de dirección, las luces del sistema de frenado y los limpiaparabrisas. Los neumáticos cumplían las normas.
+# 2.4 Factores externos
 El accidente ocurrió durante el día, con visibilidad muy buena. El tiempo estaba nublado y la vía estaba seca.
-La vía formaba una curva en ángulo recto 20 m antes del paso a nivel.
-# 3. DATOS DE INVESTIGACIÓN Y CUESTIONARIOS
+La vía formaba una curva de 90 grados a 20 m antes del cruce.
+# 3. DATOS DE LAS INVESTIGACIONES Y DECLARACIONES
 # 3.1 Resumen de las declaraciones
-El maquinista ha proporcionado declaraciones sobre el incidente, en las que señala que, mientras operaba el tren 0041 el 16 de abril de 2010, se produjo una colisión con un camión MAN en el paso a nivel del km 15.7 entre las estaciones de Liiva y Kiisa. El automóvil entró en el paso a nivel desde el lado izquierdo, procedente de una carretera que discurría paralela a la vía férrea. El conductor del automóvil no reaccionó ante el silbato fuerte ni ante la luz de los focos. El maquinista aplicó el freno de emergencia. Se produjo una colisión con el camión MAN con número de matrícula 141AXB. El automóvil quedó atrapado bajo la parte delantera y arrastrado hasta que el tren se detuvo. La tripulación de la locomotora informó del incidente al despachador, al jefe de operaciones y al coordinador del depósito. El despachador solicitó la intervención de la ambulancia, el servicio de rescate y la policía. En el automóvil había una persona, que falleció como consecuencia del accidente.
-El tren tenía rota la cuchilla quitanieves, roto el eje de los receptores AVS, la parte frontal deformada, los parabrisas rotos y la transmisión del velocímetro averiada.
-Se inició el movimiento con permiso del despachador de vuelta a la estación de Liiva a una velocidad de 40 km/h a las 12.08. En el momento del accidente, el ayudante de maquinista se encontraba en el coche motor trasero.
-El ayudante de maquinista ha proporcionado declaraciones en las que informa que, con el tren diésel DR1B 3703/4 entre las estaciones de Liiva y Kiisa el 16 de abril de 2010, se produjo una colisión con un camión MAN con número de matrícula 141 AXB en el paso a nivel del km 15.7.
-El ayudante de maquinista se encontraba en ese momento en la sala de máquinas del coche motor trasero para cerrar la válvula electro-neumática de las cortinas de lamas, ya que la temperatura del agua había subido demasiado. En ese instante se produjo la colisión. Mirando por la ventana, el ayudante de maquinista vio una nube de polvo y humo de los frenos. El ayudante corrió a través de los vagones hasta la parte delantera del tren para hacerse una idea de la situación. Durante el accidente, trabajaban en el tren 2 asistentes de pasajeros, uno de los cuales se encontraba en el vagón de primera clase y el otro en uno de los vagones de segunda clase. El asistente de pasajeros que estaba en el segundo vagón, o vagón de clase estándar, vendía billetes allí. Después del accidente, recorrió todos los vagones de clase estándar y comprobó si alguien había resultado herido. Los pasajeros del tren no resultaron heridos.
+El maquinista ha prestado declaraciones sobre el incidente, en las que señala que, mientras atendía el tren 0041 el 16 de abril de 2010, se produjo una colisión con el camión MAN en el cruce del tramo entre las estaciones de Liiva y Kiisa, en el pk 15,7. El automóvil circulaba por una carretera paralela a la vía por el lado izquierdo y se dirigió hacia el cruce. El conductor del automóvil no reaccionó ante la fuerte bocina ni a la luz de los faros.
+El maquinista
+realizó
+un frenado de emergencia.
+Se produjo
+una colisión
+con el
+camión MAN
+con matrícula 141AXB. El automóvil se enganchó por la parte delantera y fue arrastrado hasta que el tren se detuvo.
+La tripulación de la locomotora
+informó del
+incidente al
+despachador, al jefe de explotación y al
+responsable del depósito. El despachador solicitó la salida de una ambulancia, del servicio de rescate y de la policía.
+En el automóvil había una persona, que falleció como consecuencia del accidente.
+El tren tenía el arado de nieve roto, 2 vigas de las unidades receptoras de AVS, la parte delantera deformada, los parabrisas rotos y el accionamiento del velocímetro dañado.
+Se reanudó la marcha con permiso del despachador de vuelta a la estación de Liiva a una velocidad de 40 km/h a las 12:08.
+En el momento del accidente, el ayudante del maquinista se encontraba en el vagón motor trasero.
+El ayudante del maquinista ha prestado declaraciones en las que informa de que el 16 de abril de 2010, en el tramo entre las estaciones de Liiva y Kiisa, se produjo una colisión con el camión MAN con matrícula 141 AXB en el cruce del pk 15,7 con el tren diésel DR1B 3703/4.
+El ayudante del maquinista se encontraba en ese momento en el compartimento de máquinas del vagón motor trasero para cerrar la electroválvula de las cortinas de barras, ya que la temperatura del agua había aumentado demasiado. En ese momento se produjo la colisión. Al mirar por la ventana, el ayudante del maquinista vio una nube de polvo y el humo de los frenos. El ayudante del maquinista corrió hacia la parte delantera del tren, atravesando los vagones, para hacerse una idea de la situación.
+Durante el accidente, trabajaban en el tren 2 auxiliares de viaje, uno de los cuales se encontraba en el vagón de primera clase y el otro en uno de los vagones de segunda clase. El auxiliar de viaje que se encontraba en el vagón de segunda clase, es decir, de clase estándar, vendía billetes allí. Tras el accidente, recorrió todos los vagones de clase estándar y comprobó que nadie hubiera resultado herido. Los pasajeros del tren no sufrieron lesiones.
 
 ## Página 8
 
-Nadie requirió atención individual. La información sobre el accidente y las posibilidades de continuar la marcha, recibida a través del teléfono móvil, fue comunicada a los pasajeros.
-La esposa del conductor fallecido declaró que el conductor poseía una larga experiencia como tal. Había trabajado en el servicio de tráfico. Para su esposa resultó incomprensible cómo el conductor pudo verse envuelto en una situación que terminó con su muerte.
-# 3.2 Sistema de gestión de la seguridad 
-Edelaraudtee AS ha establecido el «Manual del sistema de gestión de la seguridad para el transporte ferroviario de viajeros», donde 
-7. El procedimiento de documentación y transmisión de información sobre la seguridad dentro de la empresa, así como el procedimiento de intercambio de información con las autoridades competentes y otras empresas ferroviarias, establece que todas las desviaciones se registran y analizan, y sobre esta base, teniendo en cuenta la existencia de posibles peligros, se evalúan los riesgos. Este ámbito se organiza cumpliendo los requisitos de los siguientes documentos: 
-descripción del proceso EÜ03 «Seguimiento y medición de productos, servicios y procesos de Edelaraudtee» (anexo 3), 
-guía EÜ03-J02 «Evaluación de riesgos de Edelaraudtee» (anexo 42), 
-guía EÜ03 J01 «Auditoría del sistema de gestión» (anexo 43). 
-9. Plan de actuación de la empresa en caso de accidente o incidente, que garantiza asimismo la cooperación necesaria con los servicios de rescate, otras autoridades competentes y las empresas ferroviarias. 
-En caso de accidentes ocurridos u otras desviaciones, la empresa ha desarrollado un procedimiento común para todas las empresas del grupo Edelaraudtee AS y sus empleados, que también aborda la cooperación con el Estado u otras empresas; estos son: 
-descripción del proceso EÜ04 «Notificación de accidentes y eliminación de consecuencias» (anexo 4), 
-guía EV08-J16 «Actuación de la tripulación de locomotora en caso de accidentes e incidencias de tráfico» (anexo 38), 
-guía EÜ04-J03 «Atención a los pasajeros en caso de incidencias de tráfico» (anexo 46), 
-guía EÜ04-J04 «Situación de crisis en un tren de viajeros o con un tren de viajeros» (anexo 47), 
-guía EÜ04-J06 «Investigación de las causas de los accidentes y determinación de los daños causados» (anexo 48). 
-EÜ04. Notificación de accidentes y eliminación de consecuencias. Anexo 4. 
-IV. Actuación al tener conocimiento de un accidente. 
-1. Procedimiento de actuación de los empleados en caso de accidente (Anexo 1) 
-1.1. El empleado que reciba la notificación del accidente debe decidir, basándose en la información recibida, si es necesario transmitir la notificación inmediatamente o si puede hacerlo durante el trabajo, y debe decidir a quién transmitir la notificación. 
-2. Medios de comunicación para notificar el accidente 
-2.1. Para notificar el accidente se utiliza el primer medio de comunicación disponible. 
-3. Contenido de la notificación. 
-3.1. La notificación del accidente debe ser breve y clara, y contener la siguiente información: 
-3.1.1. nombre del emisor de la notificación, puesto de trabajo, número de teléfono, fax, 
-3.1.2. qué ocurrió (descripción del suceso), 
-3.1.3. dónde ocurrió y cómo llegar al lugar del suceso, 
-3.1.4. a qué hora ocurrió, 
-3.1.5. si hay víctimas, 
+No se requirió atención individualizada. La información recibida por teléfono móvil sobre el accidente y las posibilidades de continuación del viaje se comunicó a los viajeros.
+El cónyuge del conductor fallecido declaró que el conductor contaba con amplia experiencia al volante. Había trabajado cumpliendo las normas de tráfico. Para el cónyuge resultaba incomprensible cómo el conductor pudo verse envuelto en una situación que terminó con su fallecimiento.
+# 3.2 Sistema de gestión de la seguridad
+Edelaraudtee AS ha establecido el «Manual del sistema de gestión de la seguridad del transporte de viajeros por ferrocarril», en el cual
+7. El procedimiento de documentación y transmisión de información sobre la seguridad en la empresa, así como el procedimiento de intercambio de información con las autoridades competentes y otros gestores de infraestructura ferroviaria, establece que todas las desviaciones se registran y analizan, y sobre la base de ellas, teniendo en cuenta la existencia de posibles peligros, se evalúan los riesgos. Esta área se regula cumpliendo los requisitos de los siguientes documentos:
+descripción del proceso EÜ03 «Seguimiento y medición de los productos, servicios y procesos de Edelaraudtee» (anexo 3),
+guía EÜ03-J02 «Evaluación de riesgos de Edelaraudtee» (anexo 42),
+guía EÜ03 J01 «Auditoría del sistema de gestión» (anexo 43).
+9. El plan de actuación de la empresa en caso de accidente o incidente, que garantiza asimismo la colaboración en la medida necesaria con los servicios de emergencia, otras autoridades competentes y gestores de infraestructura ferroviaria.
+En caso de producirse accidentes u otras desviaciones, la empresa ha desarrollado un procedimiento común a todas las empresas del grupo Edelaraudtee AS, a sus empleados y que también aborda la colaboración con el Estado u otras empresas, entre los cuales se encuentran la descripción del proceso EÜ04 «Comunicación del accidente y eliminación de las consecuencias» (anexo 4),
+la guía EV08-J16 «Actuación de la tripulación en caso de accidentes e interrupciones del tráfico» (anexo 38),
+la guía EÜ04-J03 «Atención a los viajeros en caso de interrupciones del tráfico» (anexo 46),
+la guía EÜ04-J04 «Situación de crisis en un tren de viajeros o con un tren de viajeros» (anexo 47),
+la guía EÜ04-J06 «Investigación de las causas del accidente y determinación de los daños producidos» (anexo 48).
+EÜ04. Comunicación del accidente y eliminación de las consecuencias. Anexo 4.
+IV. Actuación al tener conocimiento del accidente.
+1. Procedimiento de actuación del personal en caso de accidente (Anexo 1)
+1.1. El empleado que reciba la notificación del accidente deberá, sobre la base de la información recibida, decidir si la notificación debe transmitirse de inmediato o puede hacerse durante la jornada laboral, y deberá decidir a quién se transmite la notificación.
+2. Medios de comunicación para la notificación del accidente
+2.1. Para notificar el accidente se utilizará el primer medio de comunicación disponible.
+3. Contenido de la notificación.
+3.1. La notificación del accidente deberá ser breve y clara, e incluir la siguiente información:
+3.1.1. nombre del remitente de la notificación, puesto de trabajo, número de teléfono, fax,
+3.1.2. qué ha ocurrido (descripción de lo sucedido),
+3.1.3. dónde ha ocurrido y cómo desplazarse hasta el lugar del suceso,
+3.1.4. a qué hora ha ocurrido,
+3.1.5. si hay víctimas,
+
 
 ## Página 9
 
-3.1.6. si se necesita ayuda urgente y de qué tipo, 
-3.1.7. si existe necesidad de evacuación de personas, 
-3.1.8. alcance del accidente, evaluación del riesgo y medidas adoptadas, 
-3.1.9. peligro de contaminación ambiental, presencia de cargas tóxicas y cuáles, 
-3.1.10. a quién se ha informado previamente del suceso, 
-3.1.11. comunicaciones con el lugar del suceso. 
-V. Eliminación de las consecuencias de averías y accidentes. 
-1. La eliminación de las consecuencias de averías y accidentes y la implicación de organizaciones externas a la empresa se llevan a cabo según el esquema adjunto al presente documento (Anexo 5) Esquema de eliminación de las consecuencias del accidente e implicación de organizaciones externas a la empresa. 
-2. Si una avería o un accidente ha detenido el tráfico ferroviario, deben tomarse todas las medidas necesarias para restablecer el tráfico ferroviario lo antes posible. 
-3. Instrucciones organizativas para la eliminación de las consecuencias de averías y accidentes. 
-3.1. Dirección de las operaciones de rescate. 
-En el lugar del suceso, todos los empleados están subordinados al director de las operaciones de rescate designado, independientemente de su posición laboral. 
-Si llega al lugar del suceso el servicio nacional de rescate, este tiene derecho a asumir la dirección general. 
-3.5. El tráfico de trenes puede reanudarse tras la inspección del punto peligroso y la decisión del director de las operaciones de rescate de abrir el tráfico de trenes. 
-3.7. Todas las propuestas y órdenes relacionadas con el accidente y la organización del tráfico de trenes se registran en el libro de tráfico de trenes de la estación y en el libro de órdenes del despachador de trenes. 
-3.8. Todas las órdenes que regulen el tráfico de trenes deben darse únicamente a través del despachador de trenes. 
-3.10. Reparación de averías de los trenes. 
-3.10.1. Si el tren no presenta daños o presenta daños que pueden ser reparados por los miembros de la tripulación del tren, el tren continúa su marcha tras obtener la autorización del despachador de trenes. 
-3.10.2. Si la avería del tren no puede ser reparada por la tripulación del tren en el lugar, el jefe de circulación del material rodante ordena la salida de un equipo de reparación del depósito al lugar del suceso. El equipo de reparación restablece la operatividad del tren hasta el grado que permita su salida autónoma desde la sección entre estaciones, o hasta el grado que permita su retirada mediante una locomotora auxiliar solicitada para ello.  
-EÜ04-J03. Atención a los pasajeros en caso de incidencias de tráfico de los trenes de viajeros. Anexo 46. 
-6. Agente de atención al cliente: 
-6.1. proporciona, si es necesario y/o cuando se recibe información adicional, datos complementarios sobre la duración de la incidencia de tráfico y/o el nuevo horario previsto a todos los pasajeros presentes en el tren, garantizando su información sobre la organización posterior del transporte de viajeros; 
-6.2. determina el número de pasajeros presentes en el tren y sus necesidades de transbordo a otros trenes o medios de transporte en caso de que el tren atendido tenga un retraso superior a quince (15) minutos. En caso de que no sea posible utilizar el teléfono móvil existente en el tren, transmite la información mencionada anteriormente a la tripulación de la locomotora para que informe al despachador de trenes de Edelaraudtee Infrastruktuuri AS; 
-6.3. organiza el transbordo seguro de los pasajeros a otros medios de transporte; 
-EÜ04-J04. Situación de crisis en un tren de viajeros o con un tren de viajeros. 
-V. Gestión de la crisis. 
-2.1. Agente de atención al cliente.
+3.1.6. si se necesita asistencia urgente y de qué tipo,
+3.1.7. si existe necesidad de evacuar a las personas,
+3.1.8. magnitud del accidente, evaluación de riesgos y medidas adoptadas,
+3.1.9. riesgo de contaminación medioambiental, existencia de mercancías peligrosas y cuáles,
+3.1.10. a quién se ha informado previamente de lo sucedido,
+3.1.11. medios de comunicación con el lugar del suceso.
+V. Eliminación de las consecuencias de los accidentes e incidentes.
+1. 
+La 
+eliminación 
+de 
+las 
+consecuencias 
+de 
+los 
+accidentes 
+e 
+incidentes 
+y 
+la 
+participación 
+de 
+organizaciones 
+externas 
+a 
+la 
+empresa 
+se 
+realizará 
+de 
+conformidad 
+con 
+el 
+esquema 
+adjunto 
+al 
+presente 
+documento 
+(Anexo 5) Esquema de eliminación de las consecuencias del accidente y participación de organizaciones externas a la empresa.
+2. Si un accidente o incidente ha interrumpido el tráfico ferroviario, deberán adoptarse todas las medidas necesarias para restablecer el tráfico ferroviario lo antes posible.
+3. Instrucciones organizativas para la eliminación de las consecuencias de accidentes e incidentes.
+3.1. Dirección de las operaciones de rescate.
+En el lugar del suceso, todos los empleados estarán subordinados al director de las operaciones de rescate designado, independientemente de su posición laboral.
+Si llega al lugar del suceso el servicio nacional de rescate, este tendrá derecho a asumir el mando general.
+3.5. El tráfico ferroviario podrá reanudarse tras la inspección del lugar peligroso y la decisión del director de las operaciones de rescate de abrir el tráfico ferroviario.
+3.7. Todos los informes y órdenes relacionados con el accidente y la organización del tráfico ferroviario se registrarán en el libro de tráfico de la estación y en el libro de órdenes del despachador de trenes.
+3.8. Todas las órdenes relativas a la organización del tráfico ferroviario deberán impartirse únicamente a través del despachador de trenes.
+3.10. Eliminación de averías en los trenes.
+3.10.1. Si el tren no presenta daños o los daños pueden ser subsanados por los miembros de la tripulación del tren, el tren continuará su viaje tras obtener la autorización del despachador de trenes.
+3.10.2. Si no es posible subsanar la avería del tren por parte de la tripulación en el lugar, el responsable de la circulación del material rodante solicitará la presencia de la brigada de reparaciones del depósito en el lugar del suceso. La brigada de reparaciones restaurará la capacidad operativa del tren en la medida que permita la salida autónoma del tren entre estaciones o en la medida que permita el arrastre del tren por una locomotora de maniobras contratada para ello.
+EÜ04-J03. Atención a los viajeros en caso de interrupciones del tráfico de trenes de viajeros. Anexo 46.
+6. Atendente de clientes:
+6.1. proporcionará, si es necesario y/o a medida que se reciba información adicional, información complementaria sobre la duración de la interrupción del tráfico y/o el nuevo horario previsto a todos los viajeros presentes en el tren, garantizando su información sobre la organización posterior del transporte de viajeros;
+6.2. determinará el número de viajeros presentes en el tren y sus necesidades de transbordo a otros trenes o medios de transporte en caso de que el tren atendido tenga más de quince (15) minutos de retraso. En caso de que no sea posible utilizar el teléfono móvil presente en el tren, transmitirá la información anteriormente mencionada a la tripulación para que la comunique al despachador de trenes de Edelaraudtee Infrastruktuuri AS;
+6.3. organizará el transbordo seguro de los viajeros a otros medios de transporte;
+EÜ04-J04. Situación de crisis en un tren de viajeros o con un tren de viajeros.
+V. Dirección de la crisis.
+2.1. Atendente de clientes.
 
 ## Página 10
 
-2.1.1. Se debe determinar cuántos heridos pueden necesitar asistencia médica.
-Si hay muchos heridos, se establece una estimación aproximada del número de personas.
-# 3.3 Normativa jurídica
-El Reglamento de Tráfico establece:
-§ 170. Al cruzar la vía férrea, el usuario de la vía debe prestar especial atención. Al ver o escuchar un vehículo ferroviario que se aproxima, debe cederle el paso. El conductor debe circular a una velocidad que le permita detener el vehículo de forma fluida en el lugar previsto en el § 174 del presente reglamento, si fuera necesario. El usuario de la vía debe tener en cuenta las señales de tráfico, los avisos acústicos y luminosos, la posición de la barrera y las instrucciones del regulador del tráfico.
-§ 171. No se debe cruzar la vía férrea:
-4) si el conductor se viera obligado a detenerse sobre los raíles.
-§ 172. En pasos a nivel sin barreras ni semáforos, el conductor no debe acceder al mismo sin asegurarse de que no se aproximan vehículos ferroviarios.
-§ 174. Para ceder el paso a un vehículo ferroviario que se aproxima y en otros casos en los que no se permite cruzar la vía férrea, el conductor debe detenerse delante de la barrera; en su ausencia, al menos a 10 m del primer raíl; y, si existe la señal de tráfico «Alto y ceda el paso», delante de dicha señal.
-La Instrucción sobre la construcción, mantenimiento y uso de los pasos a nivel establece:
-§ 5. Requisitos para el diseño y la construcción de nuevos pasos a nivel.
-(1) No está permitido abrir un nuevo:
-3) paso a nivel a menos de 2 km de un viaducto sobre una línea ferroviaria de uso público y otras vías principales.
-(4) El paso a nivel y sus dispositivos deben cumplir el proyecto de construcción, las normas de edificación, el «Reglamento técnico de explotación ferroviaria» y los requisitos de la presente instrucción.
-(5) El paso a nivel se construirá en un tramo recto de la vía y en un lugar donde estén garantizadas las condiciones adecuadas de visibilidad.
-# 3.4 Funcionamiento del material rodante y de los equipos técnicos
-El tren diésel DR1B 3703/3704 estaba en buen estado técnico antes del accidente de tráfico y autorizado para circular conforme a la normativa vigente de Edelaraudtee AS. Los mantenimientos técnicos del coche motor resultante dañado se realizaron como sigue: H1 – 15.04.2010, H2 – no fue necesario, ya que el tren había salido de reparación 3 días antes, H3 – 07.04.2010, dado de alta tras la reparación KTR el 22.01.2010 y habiendo recorrido desde entonces 24676 km.
-La tripulación de la locomotora estaba equipada con medios funcionales de radio de tren y telefonía móvil.
-Como resultado de la decodificación de la cinta del velocímetro SL2M n.º 82098 del tren diésel DR1B 3703, se ha determinado que durante el servicio del tren n.º 0041 entre las estaciones de Liiva y Kiisa, en el punto kilométrico 15 pk7 a una velocidad de 85 km/h, a las 08.13 se registró un frenado de emergencia. La distancia real de frenado no es determinable debido a la rotura del mecanismo del velocímetro. Según el nomograma de determinación de la distancia de frenado, la distancia máxima permitida de frenado en dichas condiciones es de 563 m.
-En el lugar de los hechos, según la estimación basada en los hitos kilométricos y de pikete, la distancia desde el punto de colisión hasta la cabeza del tren detenido oscilaba entre 520 y 540 metros.
+2.1.1. Se determina cuántos son los heridos que pueden necesitar asistencia médica. 
+Si hay muchos heridos, se estima el número aproximado de personas. 
+# 3.3 Normativa jurídica 
+El reglamento de circulación establece 
+§ 170. Al cruzar la vía férrea, el usuario debe prestar especial atención. Al ver u oír 
+acercarse un vehículo ferroviario, debe cederle el paso. El conductor debe circular a una 
+velocidad tal que, si fuera necesario, esté en condiciones de detener el vehículo 
+suavemente en el lugar previsto en el artículo 174 del presente reglamento. El usuario 
+debe tener en cuenta las señales de tráfico, las señales acústicas y luminosas, la posición 
+de las barreras y las instrucciones del regulador. 
+§ 171. No se debe cruzar la vía férrea 
+4) si el conductor se viera obligado a detenerse sobre los raíles. 
+§ 172. En un paso a nivel sin barreras ni semáforos, el conductor no debe circular sin 
+asegurarse de que no se acerca ningún vehículo ferroviario. 
+§ 174. Para ceder el paso a un vehículo ferroviario que se acerca y en cualquier otro 
+caso en el que no se deba cruzar la vía férrea, el conductor debe detenerse delante de la 
+barrera; en su ausencia, a una distancia de al menos 10 m del primer raíl, y, si existe la 
+señal de tráfico «Deténgase y ceda el paso», delante de dicha señal. 
+La guía para la construcción, el mantenimiento y el uso de los pasos a nivel establece 
+§ 5. Requisitos para el diseño y la construcción de nuevos pasos a nivel. 
+(1) No se permitirá abrir un nuevo: 
+3) paso a nivel a menos de 2 km de un viaducto. 
+(4) El paso a nivel y sus equipos deben cumplir con el proyecto de construcción y las 
+normas de construcción, las «Normas técnicas de explotación ferroviaria» y los requisitos 
+de la presente guía. 
+(5) El paso a nivel se construye en un tramo recto de vía y en un lugar donde se 
+garanticen las condiciones de visibilidad adecuadas.   
+# 3.4 Funcionamiento del material rodante y de los equipos técnicos 
+El tren diésel DR1B 3703/3704 estaba técnicamente en orden y autorizado para la 
+circulación, Edelaraudtee AS, de acuerdo con el reglamento vigente. Las revisiones 
+técnicas del vagón motor dañado se realizaron de la siguiente manera: H1 – 15.04.2010, H2 – 
+no fue necesario, ya que el tren había regresado del taller 3 días antes, H3 – 07.04.2010, 
+salida del taller KTR el 22.01.2010 y el kilometraje acumulado desde entonces fue de 
+24676 km. 
+La tripulación estaba equipada con medios de comunicación de radio y teléfono móvil 
+funcionales en el tren. 
+A raíz de la descodificación de la cinta del registrador de velocidad SL2M nº 82098 del 
+tren diésel DR1B 3703, se ha determinado que, durante el servicio del tren nº 0041 entre 
+las estaciones de Liiva y Kiisa, en el pk15, punto 7, a una velocidad de 85 km/h, se registró 
+un frenado de emergencia a las 08.13. La distancia real de frenado no puede determinarse 
+debido a la rotura del mecanismo del registrador de velocidad. Según la nomograma para 
+el cálculo de la distancia de frenado, la distancia de frenado máxima permitida en las 
+circunstancias dadas es de 563 m. 
+Evaluando la distancia en función de los postes kilométricos y de los hitos en el lugar de 
+los hechos, la distancia desde el lugar de la colisión hasta la cabeza del tren detenido 
+oscilaba entre 520 y 540 metros.   
 
 
 ## Página 11
 
-# 3.5 Documentación relativa a la organización del trabajo
-Tras la colisión, la tripulación de la locomotora informó al jefe de circulación, al despachador de trenes y al coordinador del depósito.
-Los avisos relacionados con el incidente extraídos del libro de órdenes del despachador de trenes de Edelaraudtee son los siguientes:
-A las 08.16. Aviso del maquinista sobre el cruce por delante de un camión ante el tren de pasajeros. Necesidad de solicitar ambulancia y policía. El despachador transmitió el aviso al número de emergencias 112 y a los responsables correspondientes de Edelaraudtee.
-A las 08.21. Aviso sobre la rotura del parabrisas del coche motor, lo cual probablemente impide continuar la marcha del tren.
-A las 09.00. Aviso sobre el fallecimiento del hombre que iba en el automóvil. Ambulancia y policía en el lugar de los hechos. El coche atrapado bajo el coche motor, se intenta recuperarlo.
-A las 09.01. Aviso sobre cambios en la organización del tráfico de Edelaraudtee. El tren n.º 0042 es enviado como tren n.º 0041 desde Kiisa a Viljandi, y el tren n.º 0230 desde Kiisa como tren n.º 0233 a Rapla. Los pasajeros son trasladados desde Kiisa a Tallinn en autobuses desde los trenes n.º 0042 y 0230. Los pasajeros del tren n.º 0041 son traídos en autobuses desde el trayecto entre las estaciones de Liiva y Kiisa hasta Kiisa, y los pasajeros del tren n.º 0233 desde Liiva hasta Kiisa. El tren n.º 0041 regresa a la estación de Liiva.
-A las 09.29. Aviso sobre la necesidad de enviar personal de vía al lugar de los hechos para inspeccionar la zona. El camión ha arrastrado a lo largo de la vía.
-A las 09.50. Aviso sobre el estado correcto de la vía en el km 15. El camión aún permanece en la calzada.
-A las 09.54. Aviso del despachador de trenes sobre el cambio en la organización del tráfico en las estaciones de Kiisa, Kohila, Rapla, Lelle, Türi, Võhma y Viljandi.
-A las 10.10. Aviso sobre el enganche de piezas metálicas del camión al costado del tren y la necesidad de realizar soldadura.
-A las 10.24. Aviso sobre la supresión de la marcha del tren n.º 0235 en las estaciones de Tallinn-Balti, Tallinn-Väike, Liiva, Kiisa, Kohila y Rapla.
-A las 11.28. Aviso sobre la separación del camión del costado del tren, necesidad de grúa para retirar el coche de la vía.
-A las 11.53. Aviso sobre la retirada del coche del gálibo ferroviario mediante el tren diésel. Necesidad de que el personal de vía evalúe el estado de la vía.
-A las 12.29. El personal de vía comunicó que el trayecto entre las estaciones de Liiva y Kiisa, en el km 16.02, estaba despejado y libre de obstáculos en cuanto a gálibo. Necesidad de establecer una advertencia temporal desde las 12.30 hasta las 22.00 con una velocidad máxima de 25 km/h en la cabeza del tren. Se puede reabrir el trayecto entre las estaciones de Liiva y Kiisa al tráfico de trenes.
-El tren de pasajeros n.º 0041 Tallinn – Viljandi, implicado en el accidente, permaneció en el lugar de los hechos 3 h 50 min y regresó por sus propios medios a Tallinn a las 12.08. Los pasajeros que iban en el tren fueron trasladados en autobuses a la estación de Kiisa, donde para ese momento había llegado el tren n.º 0042 procedente de Viljandi, el cual no podía continuar su marcha debido a la ocupación de la vía. El tren procedente de Viljandi recogió a los pasajeros del tren implicado en el accidente y salió de Kiisa a las 10.04 como tren n.º 0041, llegando a Viljandi con 1 h y 51 min de retraso.
-Los pasajeros del tren n.º 0042 Viljandi - Tallinn fueron llevados a su destino en autobuses y llegaron con aproximadamente 2 horas de retraso.
-Los pasajeros del tren n.º 0230 Pärnu – Tallinn que subieron a los autobuses en Kiisa fueron trasladados en autobuses a las estaciones de su destino. Llegaron con aproximadamente 1 h 30 min de retraso.
-Quedaron suprimidos los trenes n.º 0235 Tallinn – Rapla con salida de Tallinn a las 08.37 y n.º 0234 Rapla – Tallinn con salida de Rapla a las 10.40.
-Debido a la ocupación de la vía, el tren de pasajeros n.º 0230 que llegó a Kiisa regresó como tren n.º 0233 Tallinn – Rapla, llegando a su destino con 1 h y 55 min de retraso.
+# 3.5 Documentación relativa a la organización del trabajo 
+Tras la colisión, la tripulación informó al responsable de explotación, al despachador de 
+trenes y al encargado del depósito del incidente. 
+Las comunicaciones relacionadas con el incidente registradas en el libro de órdenes del 
+despachador de trenes de Edelaraudtee son las siguientes: 
+A las 08.16. Comunicación del conductor del camión sobre la colisión del camión con el 
+tren de viajeros. Necesidad de llamar a la ambulancia y a la policía. El despachador 
+transmitió la comunicación al número de emergencias 112 y a los funcionarios 
+correspondientes de Edelaraudtee. 
+A las 08.21. Comunicación sobre la rotura del parabrisas del vagón motor, lo que 
+probablemente impide la continuación del viaje del tren. 
+A las 09.00. Comunicación sobre el fallecimiento del hombre que viajaba en el coche. 
+Ambulancia y policía en el lugar de los hechos. El coche está atrapado debajo del vagón 
+motor y se intenta liberarlo.  
+A las 09.01. Comunicación sobre los cambios en la organización del tráfico de 
+Edelaraudtee. El tren nº 0042 se envía como tren nº 0041 desde Kiisa a Viljandi; el tren 
+nº 0230 desde Kiisa se convierte en el tren nº 0233 hacia Rapla. Los pasajeros se 
+transportan en autobús desde Kiisa a Tallin en los trenes nº 0042 y 0230. Los pasajeros 
+del tren nº 0041 se transportan en autobús desde el tramo entre las estaciones de Liiva y 
+Kiisa hasta Kiisa, y los pasajeros del tren nº 0233 desde Liiva hasta Kiisa. El tren nº 0041 
+regresa a la estación de Liiva. 
+A las 09.29. Comunicación sobre la necesidad de que los técnicos de vía inspeccionen 
+el lugar del accidente. El camión ha quedado arrastrado a lo largo de la vía férrea. 
+A las 09.50. Comunicación sobre el estado de la vía en el pk15. El camión aún está 
+abandonado en la vía. 
+A las 09.54. Comunicación del despachador de trenes sobre los cambios en la 
+organización del tráfico en las estaciones de Kiisa, Kohila, Rapla, Lelle, Türi, Võhma y 
+Viljandi. 
+A las 10.10. Comunicación sobre el enganche de piezas metálicas del camión al tren y la 
+necesidad de soldadura. 
+A las 10.24. Comunicación sobre la supresión del servicio del tren nº 0235 en las 
+estaciones de Tallin-Balti, Tallin-Väike, Liiva, Kiisa, Kohila y Rapla. 
+A las 11.28. Comunicación sobre la separación del camión del tren y la necesidad de una 
+grúa para levantar el coche de la vía férrea. 
+A las 11.53. Comunicación sobre la retirada del coche de los límites de vía férrea 
+mediante el tren diésel. Necesidad de que los técnicos de vía evalúen la aptitud de la vía 
+para la circulación. 
+A las 12.29. Los técnicos de vía informaron de que la vía del tramo entre las estaciones 
+de Liiva y Kiisa, pk 16.02, estaba en orden y libre de límites. Necesidad de establecer una 
+advertencia temporal de las 12.30 a las 22.00 con una velocidad máxima de los trenes de 
+25 km/h. El tramo entre las estaciones de Liiva y Kiisa puede abrirse al tráfico de trenes. 
+El tren de viajeros nº 0041 Tallin – Viljandi, implicado en el accidente, permaneció en el 
+lugar de los hechos durante 3 h 50 m y regresó por sus propios medios a Tallin a las 
+12.08. Los pasajeros del tren se transportaron en autobús hasta la estación de Kiisa, a la 
+que había llegado para entonces el tren nº 0042 procedente de Viljandi, que no podía 
+continuar su viaje debido a la ocupación de la vía. El tren procedente de Viljandi recogió 
+a los pasajeros del tren implicado en el accidente y salió de Kiisa a las 10.04 como tren 
+nº 0041, llegando a Viljandi con 1 h y 51 m de retraso.  
+Los pasajeros del tren nº 0042 Viljandi - Tallin fueron transportados a su destino en 
+autobuses, con un retraso de aproximadamente 2 horas. 
+Los pasajeros del tren nº 0230 Pärnu – Tallin que subieron a los autobuses en Kiisa fueron 
+transportados en autobús hasta las estaciones de su destino. Tuvieron un retraso de 
+aproximadamente 1 h 30 m. 
+Se suprimieron los servicios de los trenes nº 0235 Tallin – Rapla, con salida de Tallin a 
+las 08.37, y nº 0234 Rapla – Tallin, con salida de Rapla a las 10.40. 
+Debido a la ocupación de la vía, el tren de viajeros nº 0230 que llegó a Kiisa regresó 
+como el tren nº 0233 Tallin – Rapla, llegando a su destino con 1 h y 55 m de retraso.
 
 ## Página 12
 
-El tráfico se restableció completamente a las 12.30 con una limitación de velocidad de 25 km/h hasta las 22.00.
-La interrupción del tráfico entre las estaciones de Liiva y Kiisa había durado 4 h y 17 min.
-# 3.6 Colaboración persona-máquina-organización
-La tripulación de la locomotora fue autorizada para trabajar conforme al procedimiento vigente de Edelaraudtee AS y llevaba 2 horas y 04 minutos trabajando antes del accidente ferroviario. El turno comenzó a las 06.09 y, antes de ello, el tiempo de descanso entre turnos de la tripulación de la locomotora había sido de 35 horas y 08 minutos.
-Inmediatamente después del accidente, se realizó un control del contenido de alcohol en sangre del conductor de la locomotora mediante dispositivo indicador. Como resultado del control, el conductor de la locomotora resultó estar sobrio.
-En el análisis toxicológico del conductor del automóvil no se encontraron etanol ni sustancias narcóticas en su sangre.
-# 3.7 Casos anteriores de naturaleza similar
-El 21 de noviembre de 2009 tuvo lugar un choque entre el tren de pasajeros n.º 0041 y un camión MAZ en el paso a nivel no regulado automáticamente de Männiku (km 14,599), situado entre las estaciones de Liiva y Kiisa.
-En el accidente ocurrido en el paso a nivel ferroviario falleció el conductor del camión y el conductor de la locomotora sufrió lesiones corporales leves, siendo trasladado al hospital para recibir asistencia.
-El camión MAZ recibió un impacto en el lado derecho por parte del tren. Como consecuencia, el vehículo quedó torcido y roto, lo que hizo imposible su uso posterior.
-Se habían producido daños en la parte frontal de la carrocería, el quitanieves, el soporte de los receptores AVS, la tubería del sistema de aire comprimido y el parabrisas izquierdo roto del coche motor DR1B-3713 situado en la cabecera del tren. La infraestructura ferroviaria permaneció intacta.
-Los daños del tren impidieron continuar el viaje según horario. Tras llamar a un conductor de locomotora sustituto, el tren fue dirigido al depósito.
-Para llevar a los pasajeros a su destino se utilizaron autobuses, con los cuales fueron transportados al tren sustituto situado en la siguiente estación. La interrupción del tráfico duró 2 h y 13 minutos.
-La causa directa del accidente fue el error humano del conductor del automóvil, quien perdió la sensación de seguridad y, al acercarse al paso a nivel a baja velocidad, no cumplió la obligación de detenerse en el lugar prescrito señalizado con la señal de tráfico «Alto y ceda el paso» para asegurarse de la llegada del tren al paso a nivel.
-Para aumentar la seguridad ferroviaria, se propuso a la empresa de infraestructura ferroviaria dar prioridad a la construcción de un nuevo paso a nivel equipado con tecnología moderna en las proximidades, en lugar del paso a nivel existente.
-El choque entre el tren de pasajeros Rapla – Tallinn y el turismo Alfa Romeo tuvo lugar el 24 de junio de 2007 a las 20.30 en el paso a nivel no regulado automáticamente de Männiku (km 14,599).
-Como consecuencia del choque, el tren de 125 m de longitud se detuvo a unos 200 m de distancia al otro lado del paso a nivel. El turismo fue lanzado hacia el campo, fuertemente deformado e inutilizable.
-En el accidente fallecieron inmediatamente el acompañante que estaba en el coche y el conductor murió ese mismo día en el hospital como consecuencia de las heridas.
-El tren diésel había sufrido daños. Las soldaduras del quitanieves del coche motor estaban abiertas y el quitanieves había sido empujado bajo el tren; la tubería de aire del colector principal de frenos estaba rota. La parte frontal de la carrocería del coche motor había sufrido daños.
-El conductor del turismo había circulado sin comprobar la aproximación del tren al paso a nivel. La causa directa del accidente fue el cruce por delante del tren debido a la falta de atención del conductor del turismo como usuario del paso a nivel ferroviario. El conductor del turismo, debido a un error humano, giró
+El tráfico se restableció completamente a las 12:30 con una limitación de velocidad de 25 km/h hasta las 22:00.
+La interrupción del tráfico duró 4 h y 17 min entre las estaciones de Liiva y Kiisa.
+# 3.6 Colaboración hombre-máquina-organización
+La tripulación de la locomotora estaba autorizada para trabajar conforme al reglamento vigente de Edelaraudtee AS y había estado trabajando 2 horas y 04 minutos antes del accidente ferroviario. El turno de trabajo comenzó a las 06:09 y, antes de ello, la tripulación de la locomotora había disfrutado de un periodo de descanso entre turnos de 35 horas y 08 minutos.
+Inmediatamente después del accidente se realizó un control de la concentración de alcohol en el conductor de la locomotora mediante un dispositivo indicador. Como resultado del control, el conductor de la locomotora resultó estar sobrio.
+En el examen toxicológico del conductor del automóvil no se encontraron etanol ni sustancias narcóticas en su sangre.
+# 3.7 Incidentes anteriores de carácter similar
+El 21 de noviembre de 2009 se produjo una colisión entre el tren de pasajeros n.º 0041 y un camión MAZ en el paso a nivel no regulado automáticamente de Männiku (pk 14,599), situado entre las estaciones de Liiva y Kiisa.
+En el accidente ocurrido en el paso a nivel, falleció el conductor del camión y el conductor de la locomotora sufrió heridas leves, por lo que fue trasladado al hospital para recibir asistencia.
+El camión MAZ recibió un impacto en el lado derecho procedente del tren. Como resultado, el automóvil quedó retorcido y destrozado, lo que hizo imposible su uso posterior.
+El tren sufrió daños en la parte delantera de la carrocería del vagón motor principal, en el raíles de nieve, en la viga de las secciones receptoras del AVS, en la tubería del sistema de aire comprimido, y el parabrisas izquierdo quedó destrozado. La infraestructura ferroviaria permaneció intacta.
+Los daños del tren no permitieron que el tren continuara su viaje conforme al horario.
+Tras la convocatoria de un conductor de locomotora de relevo, el tren fue dirigido al depósito.
+Para el transporte de los pasajeros a su destino se utilizaron autobuses, con los que fueron trasladados al tren de relevo situado en la siguiente estación. La interrupción del tráfico duró 2 h y 13 minutos.
+La causa directa del accidente fue el error humano del conductor del automóvil, quien perdió el sentido de la seguridad y, al acercarse al paso a nivel a baja velocidad, no cumplió la obligación de detenerse en el lugar previsto marcado con la señal de tráfico «Deténgase y ceda el paso», para asegurarse de que el tren no había llegado al paso a nivel.
+Para aumentar la seguridad ferroviaria, se formuló la recomendación de que las empresas de infraestructura ferroviaria consideren prioritario construir una nueva posición de paso a nivel, equipada con tecnología moderna, cerca de la posición de paso a nivel existente.
+La colisión entre el tren de pasajeros Rapla – Tallinn y un turismo Alfa Romeo se produjo el 24 de junio de 2007 a las 20:30 en el paso a nivel no regulado automáticamente de Männiku (pk 14,599).
+Como consecuencia de la colisión, el tren de 125 m de longitud se detuvo a unos 200 m de distancia, al otro lado del paso a nivel. El turismo quedó proyectado fuera de la calzada, severamente deformado e inutilizado.
+En el accidente falleció en el acto el acompañante que viajaba en el automóvil y el conductor del automóvil murió en el hospital como consecuencia de las heridas sufridas el mismo día.
+El tren diésel sufrió daños. Las soldaduras del raíles de nieve del vagón motor estaban rotas y el raíles de nieve había sido empujado bajo el tren; la tubería de aire de la línea de frenado quedó destrozada. La parte delantera de la carrocería del vagón motor sufrió daños.
+El conductor del automóvil había circulado sin asegurarse de la aproximación del tren al paso a nivel. La causa directa del accidente fue el adelantamiento al tren provocado por la falta de atención del conductor del automóvil como usuario del paso a nivel. Debido a un error humano, el conductor del automóvil había prestado
 
 
 ## Página 13
 
-prestando insuficiente atención a la señal de advertencia 121 «Vía única» situada antes del paso a nivel.
-El paso a nivel ferroviario de Männiku tiene visibilidad limitada, pero no está equipado para los usuarios de la vía con la señal de preferencia 222 «Alto y ceda el paso». El paso a nivel no está señalizado con dispositivos de organización del tráfico que informen al usuario sobre la visibilidad limitada. La ausencia de la señal de preferencia 222 «Alto y ceda el paso» es un factor contribuyente a la ocurrencia del accidente.
-El accidente ferroviario de grado II en el que participaron el turismo Nissan y el tren de pasajeros n.º 0235 tuvo lugar el 17.03.2005 a las 14.03 en la infraestructura de Edelaraudtee AS, en el paso a nivel no regulado de categoría III de Männiku (km 14,599).
-El coche motor del tren diésel implicado en el choque sufrió múltiples daños que no eran peligrosos para la circulación. El turismo Nissan quedó tendido junto a la carretera fuertemente deformado.
-El conductor del turismo no había circulado a una velocidad adecuada para detenerse ante la señal de advertencia 121 «Vía única» situada antes del paso a nivel para dejar pasar al tren que se aproximaba.
-El conductor del turismo no percibió la aproximación del tren tras realizar un giro a la derecha. La calzada estaba resbaladiza; a pesar de la visibilidad limitada, el paso a nivel no está equipado con la señal de preferencia 222 «Alto y ceda el paso».
-El paso a nivel tiene una intensidad de tráfico rodado relativamente baja, por lo que vale la pena considerar la posibilidad de cerrarlo y organizar el tráfico rodado a través de otro paso a nivel cercano.
-El paso a nivel abierto al tráfico debe equiparse con los dispositivos de organización del tráfico necesarios.
+insuficiente atención a la señal de advertencia 121 «Vía única» situada antes del paso a nivel.
+El paso a nivel de Männiku tiene visibilidad limitada, pero no está equipado para los usuarios de la vía con la señal de prioridad 222 «Deténgase y ceda el paso». El paso a nivel no está señalizado con dispositivos de regulación del tráfico que informen al usuario de la vía sobre la visibilidad limitada.
+La ausencia de la señal de prioridad 222 «Deténgase y ceda el paso» es un factor contribuyente a la ocurrencia del accidente.
+El accidente ferroviario de segundo grado que involucró al turismo Nissan y al tren de pasajeros n.º 0235 se produjo el 17.03.2005 a las 14:03 en la infraestructura de Edelaraudtee AS, en el paso a nivel no regulado de categoría III de Männiku (pk 14,599).
+El vagón de mando del tren diésel que participó en la colisión sufrió varios daños que no suponían peligro para el tráfico. El turismo Nissan quedó inmóvil fuera de la calzada, severamente deformado.
+El conductor del automóvil no había circulado a una velocidad adecuada para detenerse ante la señal de advertencia 121 «Vía única» situada antes del paso a nivel, con el fin de permitir el paso del tren que se aproximaba.
+El conductor del automóvil no percibió la aproximación del tren después de realizar el giro a la derecha.
+La calzada estaba resbaladiza y, a pesar de la visibilidad limitada, el paso a nivel no estaba equipado con la señal de prioridad 222 «Deténgase y ceda el paso».
+El paso a nivel tiene una intensidad de tráfico rodado relativamente baja, por lo que cabe plantearse la posibilidad de cerrarlo y regular el tráfico rodado mediante otro paso a nivel situado en las proximidades.
+El paso a nivel abierto al tráfico debe estar equipado con los dispositivos de regulación del tráfico necesarios.
 # 4. ANÁLISIS Y CONCLUSIONES
-# 4.1 Descripción final de la cadena de sucesos
-El tren de pasajeros n.º 0041 realizaba su viaje programado y, por la mañana, poco antes de las nueve, había llegado cerca del paso a nivel de Männiku entre las estaciones de Liiva y Kiisa.
-En el primer coche motor del tren diésel de cinco coches se encontraba el conductor de la locomotora y en el último coche motor el ayudante del conductor. Ambos cumplían sus tareas laborales conforme a las normas.
-La iluminación exterior del tren estaba encendida. El tren circulaba a una velocidad menor de 85 km/h, dentro del límite de velocidad permitido de 90 km/h. En el lugar prescrito antes del paso a nivel, el conductor de la locomotora dio una señal acústica de atención.
-Mirando en la dirección de marcha del tren, a la izquierda discurría paralelamente a la vía una carretera por la que circulaba, ligeramente por delante del tren, un camión MAN con matrícula 141 AXB. Junto al paso a nivel de Männiku, la carretera realiza un giro de 90⁰ a la derecha a 20 m de la vía y se dirige al paso a nivel. El coche circulaba a una velocidad menor que el tren y, tras realizar el giro a la derecha, cuando el coche no se detuvo ante la señal de preferencia 222 «Alto y ceda el paso», el conductor de la locomotora volvió a dar una señal acústica de atención. Ya había alcanzado la vía y le embistió lateralmente el coche motor del tren. El conductor de la locomotora realizó un frenado de emergencia. El coche quedó enganchado a la parte frontal del tren. El tren empujó al coche por la vía hasta detenerse.
-Tras la parada, el ayudante del conductor entró en el primer coche motor. El conductor de la locomotora informó al despachador de trenes, al coordinador del depósito y al jefe de operaciones de lo sucedido. Los acompañantes de tren permanecieron junto a los pasajeros y actuaron conforme al procedimiento establecido.
+# 4.1 Descripción final de la secuencia de eventos
+El tren de pasajeros n.º 0041 realizó su viaje previsto y, por la mañana, antes de las 8:45, había llegado a las proximidades del paso a nivel de Männiku, situado entre las estaciones de Liiva y Kiisa.
+En el primer vagón motor del tren diésel de cinco vagones viajaba el conductor de la locomotora y en el vagón motor trasero viajaba el ayudante del conductor de la locomotora. Ambos cumplían las funciones laborales reglamentarias.
+La iluminación exterior del tren estaba encendida. El tren circulaba a una velocidad inferior de 85 km/h, dentro del límite permitido de 90 km/h. En el lugar previsto antes del paso a nivel, el conductor de la locomotora emitió una señal acústica de advertencia.
+Al observar en la dirección de marcha del tren, a la izquierda circulaba paralelamente a las vías una carretera por la que circulaba un camión MAN con matrícula 141 AXB, ligeramente por delante del tren. En las proximidades del paso a nivel de Männiku, la carretera realiza un giro de 90° a la derecha a 20 m de las vías y se dirige hacia el paso a nivel. El automóvil circulaba a menor velocidad que el tren y, después de realizar el giro a la derecha, cuando el automóvil no se detuvo ante la señal de prioridad 222 «Deténgase y ceda el paso», el conductor de la locomotora emitió de nuevo una señal acústica de advertencia. El automóvil ya había entrado en las vías y el vagón motor del tren impactó lateralmente contra él. El conductor de la locomotora aplicó el freno de emergencia. El automóvil se enganchó a la parte delantera del tren. El tren empujó el automóvil por las vías hasta detenerse.
+Tras la detención, el ayudante del conductor de la locomotora entró en el primer vagón motor. El conductor de la locomotora informó al despachador de trenes, al encargado del depósito y al jefe de circulación. Los acompañantes de viaje permanecieron con los pasajeros y actuaron conforme al reglamento previsto.
 
 ## Página 14
 
-El camión MAN, con número de matrícula 141 AXB, había iniciado la marcha alrededor de las 8:00 horas y llegó a las inmediaciones del paso a nivel ferroviario de Männiku antes de las 8:45. Era por la mañana y había luz diurna. La calzada estaba seca y discurría paralela a la vía férrea a una distancia de unas decenas de metros. La velocidad máxima permitida para los automóviles en dicha vía era de 90 km/h. La calidad de la calzada no permitía circular a esa velocidad. El vehículo circulaba considerablemente más despacio. El conductor ya había circulado anteriormente por esta vía. Para realizar el giro a la derecha, el conductor redujo la velocidad, pero, a pesar de la señal de ceda el paso 222 «Alto y ceda el paso», decidió continuar avanzando lentamente. Estaba absorto en sus pensamientos. El vehículo entró en el paso a nivel y en ese momento recibió un impacto en el lateral derecho, entre las ruedas delanteras y traseras.
-El vehículo quedó enganchado al tren y se deformó gravemente al deslizarse sobre los raíles. La cabina del vehículo, junto con las ruedas delanteras, quedó a un lado del tren, mientras que la parte del chasis con las ruedas traseras quedó al otro lado. El conductor del vehículo falleció.
+El camión MAN, con número de registro 141 AXB, había iniciado su viaje aproximadamente a las 8:00 y llegó a las proximidades del paso a nivel de Männiku antes de las 8:45. Era la mañana y había luz blanca en el exterior. La calzada estaba seca y discurría paralela a la vía férrea a unos veinte metros de distancia. La velocidad permitida para los vehículos en esta carretera era de 90 km/h. La calidad de la calzada no permitía circular a dicha velocidad. El automóvil circulaba a una velocidad considerablemente inferior. El conductor ya había circulado anteriormente por esta carretera. Para realizar el giro a la derecha, el conductor redujo la velocidad, pero a pesar de la señal de prioridad 222 «Deténgase y ceda el paso», el conductor decidió continuar avanzando lentamente. Estaba absorto en sus pensamientos. El automóvil entró en el paso a nivel y, en ese momento, recibió un golpe por el lado derecho en la zona comprendida entre las ruedas delanteras y traseras del vehículo.
+
+El automóvil se enganchó al tren y se deformó gravemente al deslizarse a lo largo de las vías. La cabina del automóvil, junto con las ruedas delanteras, quedó desplazada hacia un lado del tren, mientras que la parte del chasis con las ruedas traseras quedó hacia el otro lado. El conductor del automóvil falleció.
 
 # 4.2 Discusión
 
-El maquinista del tren n.º 0041 pudo emitir una valoración adecuada sobre el comportamiento del conductor del vehículo solo después de que este hubiera realizado el giro a la derecha y no se hubiera detenido ante la señal de ceda el paso 222 «Alto y ceda el paso». La señal se encuentra a 7,9 m de distancia del primer raíl. Al evaluar la reciente salida del vehículo de una curva de 90⁰, su velocidad debía ser tal que no le permitiera recorrer la distancia desde la señal de tráfico prevista hasta los raíles en más de 1-2 segundos.
-Durante el mismo intervalo de tiempo, el tren se desplazaba a una velocidad de 85 km/h, es decir, 23,6 m/s, y se encontraba a no más de 50 m del punto de colisión. La distancia de frenado permitida del tren a esta velocidad es de 563 m, y la distancia de frenado real se sitúa en el mismo orden de magnitud que la permitida. El maquinista no tuvo posibilidad de detener el tren antes de la colisión.
-El conductor del vehículo se aproximaba al paso a nivel a una velocidad considerablemente inferior a la permitida. Su velocidad también era muy inferior a la del tren. El tren se desplazaba detrás del vehículo. Gracias a la luz diurna, el haz de luz de los faros del tren no deslumbró al conductor del vehículo. El conductor no oyó la bocina del tren. El vehículo transportaba un contenedor que limitaba la visibilidad hacia atrás desde la cabina y reflejaba los sonidos generados por el tren. El conductor estaba sentado a la izquierda de la cabina; la vía férrea, con el tren acercándose, se encontraba a la derecha de la cabina.
+El maquinista del tren n.º 0041 solo pudo emitir una valoración adecuada del comportamiento del conductor del automóvil después de que este hubiera realizado el giro a la derecha y no se hubiera detenido ante la señal de prioridad 222 «Deténgase y ceda el paso». La señal se encuentra a 7,9 m de la primera vía. Al valorar la reciente salida del automóvil de una curva de 90°, su velocidad debía ser tal que no le permitiera circular sobre los raíles durante más de 1-2 segundos tras la señal de tráfico prevista.
 
-Foto 3. Aproximación del camión MAN al paso a nivel
+Durante el mismo intervalo de tiempo, el tren se desplazaba a una velocidad de 85 km/h, es decir, 23,6 m/s, y se encontraba a no más de 50 m del punto de colisión. La distancia de frenado permitida para el tren a esta velocidad es de 563 m, y la distancia de frenado real se encuentra dentro de la misma magnitud que la permitida. El maquinista no tenía posibilidad de detener el tren antes de la colisión.
 
-Tras la curva situada a unos 20 m de los raíles, el conductor no tenía intención de detenerse ante la señal de ceda el paso, sino que continuó la marcha. Inmediatamente después de la curva, las partes cerradas de la cabina del vehículo obstaculizaron la visión del tren que se acercaba.
+El conductor del automóvil circulaba a una velocidad considerablemente inferior a la permitida al aproximarse al paso a nivel. Su velocidad era también muy inferior a la del tren. El tren circulaba detrás del automóvil. El haz de luz de los faros del tren no llamó la atención del conductor del automóvil debido a la luz blanca del entorno. El conductor del automóvil no oyó la bocina del tren. El automóvil transportaba un contenedor que limitaba la visibilidad hacia atrás desde la cabina y reflejaba los sonidos generados por el tren. El conductor del automóvil estaba sentado a la izquierda de la cabina, y la vía férrea se encontraba a la derecha de la cabina, con el tren acercándose por ese lado.
+
+Foto 3. Carretera de acceso al paso a nivel por parte del camión MAN
+
+Tras la curva situada a unos 20 m de la vía, el conductor del automóvil no tenía intención de detenerse ante la señal de prioridad, sino que continuaba su marcha. Inmediatamente después del giro, las partes cerradas de la cabina del automóvil dificultaban la visión del tren que se acercaba.
 
 ## Página 15
 
-Es probable que el vehículo no llegara a situarse, antes de la señal de ceda el paso, alineado longitudinalmente con el eje de la calzada y perpendicular a la vía férrea respecto a su eje longitudinal. Los camiones de mayor tamaño forman, tras realizar un giro a la derecha, un ángulo agudo entre su eje longitudinal y la dirección de circulación del tren que se aproxima por la derecha, lo que impide al conductor emitir una valoración adecuada de las condiciones del tráfico. En dicha posición del vehículo en la calzada, el conductor puede identificar un posible tren que se aproxime por la derecha si detiene el vehículo ante la señal de ceda el paso y cambia su posición dentro de la cabina para abarcar con su campo visual toda la vía férrea situada a su derecha. El conductor del camión MAN implicado en el accidente no hizo esto.
-Es probable que el conductor pudiera haber avistado el tren después de pasar junto a la señal de ceda el paso, cuando el tren era visible a través de la ventana derecha de la cabina. Para ello, habría tenido que mirar hacia la derecha. El maquinista no observó cambios en el movimiento del vehículo inmediatamente antes de la colisión entre el tren y el vehículo.
-El vehículo entró en el paso a nivel, logró cruzar los raíles con la parte de la cabina, pero recibió un impacto del tren en la zona comprendida entre las ruedas delanteras y traseras. El contenedor salió disparado de la calzada debido al impacto recibido. El vehículo quedó enganchado al costado del tren y fue arrastrado lateralmente a lo largo de unos 0,5 km sobre la vía. Como consecuencia, el conductor que se encontraba en la cabina sufrió golpes y aplastamientos que provocaron su fallecimiento.
-Edelaraudtee AS ha establecido en la empresa un sistema de gestión de la seguridad que estipula las obligaciones de los empleados de la empresa en caso de accidentes. El sistema de gestión de la seguridad de la empresa permite aplicar medidas adecuadas, recopilar la información necesaria y extraer conclusiones pertinentes sobre la seguridad vial tras el accidente ocurrido en el paso a nivel de Männiku el 16.04.2010.
-En el paso a nivel ferroviario de Männiku han ocurrido varios accidentes en los últimos años. El anterior tuvo lugar el 21.11.2009. Durante la investigación de dicho accidente, se estaba proyectando un nuevo paso a nivel moderno en Männiku. Está previsto construir el nuevo paso a nivel en un lugar donde sea posible garantizar la construcción de un paso a nivel conforme a las normas vigentes y de su acceso correspondiente.
-Para reconstruir el paso a nivel existente de Männiku (km 14,599) habría sido necesario encargar un proyecto sujeto a los mismos requisitos que la construcción de un nuevo paso a nivel. La modernización del actual paso a nivel ferroviario de Männiku no sería posible sin realizar modificaciones en la red viaria.
-Como alternativa, mediante la construcción de una nueva red viaria, sería posible desviar el tráfico hacia un viaducto cercano y cerrar el paso a nivel de Männiku. En lugar de esta opción, se ha diseñado una solución más racional: la construcción de un nuevo paso a nivel más alejado del viaducto. Como solución provisional, no se descarta desviar parte del tráfico hacia el viaducto desde ahora mismo.
-Está previsto equipar el nuevo paso a nivel (km 13,2) con señalización automática por semáforos. Las señales de tráfico transmiten al conductor que se acerca al paso a nivel la misma información. Esta información no depende de la situación de peligro real. Las señales indican que hay un paso a nivel ferroviario por delante y que debe detenerse ante la señal de ceda el paso. Al acercarse a un paso a nivel equipado con semáforos automáticos, el conductor obtiene información más precisa sobre un posible peligro. La luz roja intermitente del semáforo indica la aproximación de material rodante ferroviario y el estado cerrado del paso a nivel. Con otras señales del semáforo en funcionamiento, no existe peligro para el vehículo. Un paso a nivel configurado automáticamente es más seguro para los usuarios que uno equipado únicamente con señales de tráfico.
-El tráfico ferroviario es tanto más seguro cuanto menor sea el número de pasos a nivel en las proximidades. La puesta en servicio del nuevo paso a nivel proyectado permitirá cerrar, además del paso a nivel de Männiku, el situado en el km 11,789. El nuevo paso a nivel de configuración automática que se va a construir quedará entre los dos pasos a nivel que se van a cerrar, lo
+Probablemente, el automóvil no logró posicionarse en la calzada a lo largo del eje de la carretera y perpendicularmente a la vía férrea antes de llegar a la señal de prioridad. Los camiones de mayor tamaño forman, tras realizar el giro a la derecha, un ángulo agudo entre su eje longitudinal y la dirección de movimiento del tren que se acerca por la derecha, lo que impide al conductor del automóvil realizar una valoración adecuada de las condiciones de tráfico. En la situación del camión en la calzada, el conductor del automóvil puede determinar la posible presencia de un tren que se acerque por la derecha si detiene el automóvil ante la señal de prioridad y cambia de posición en la cabina para abarcar con su campo de visión toda la vía férrea situada a su derecha. El conductor del camión MAN implicado en el accidente no lo hizo.
+
+Probablemente, el conductor del automóvil pudo detectar el tren después de pasar la señal de prioridad, cuando el tren era visible por la ventana derecha de la cabina. Para ello, habría tenido que mirar hacia la derecha. El maquinista no observó cambios en el movimiento del automóvil inmediatamente antes de la colisión entre el tren y el automóvil.
+
+El automóvil entró en el paso a nivel, logró cruzar las vías con la parte de la cabina, pero recibió el impacto del tren en la zona comprendida entre las ruedas delanteras y traseras. El contenedor salió despedido de la carretera debido al impacto recibido. El automóvil se enganchó al tren y se arrastró lateralmente a lo largo de las vías durante aproximadamente 0,5 km. Como consecuencia de ello, el conductor del automóvil, que se encontraba en la cabina, sufrió golpes y aplastamientos que le provocaron la muerte.
+
+El grupo empresarial Edelaraudtee AS ha establecido en la empresa un sistema de gestión de la seguridad que establece las obligaciones del personal de la empresa en caso de accidentes. El sistema de gestión de la seguridad de la empresa permite aplicar medidas adecuadas, recopilar la información necesaria y realizar conclusiones pertinentes sobre la seguridad del tráfico tras el accidente ocurrido en el paso a nivel de Männiku el 16.04.2010.
+
+En el paso a nivel de Männiku se han producido varios accidentes en los últimos años. El anterior tuvo lugar el 21.11.2009. Durante la investigación de dicho accidente, se estaba llevando a cabo el proyecto de un nuevo paso a nivel moderno en Männiku. Se prevé construir el nuevo paso a nivel en un lugar donde sea posible garantizar la construcción de un paso a nivel y su acceso conforme a las normas vigentes.
+
+Para la reconstrucción del paso a nivel existente de Männiku (km 14,599) habría sido necesario encargar un proyecto que cumpliera los mismos requisitos que los aplicables a la construcción del nuevo paso a nivel. La modernización del paso a nivel ferroviario de Männiku actual no habría sido posible sin realizar modificaciones en la red viaria.
+
+Como alternativa, sería posible dirigir el tráfico hacia el viaducto cercano mediante la construcción de una nueva red viaria y cerrar el paso a nivel de Männiku. En lugar de esta opción, se ha previsto una solución más racional consistente en la construcción de un nuevo paso a nivel más alejado del viaducto. No se descarta, como solución temporal, dirigir parte del tráfico al viaducto ya en la actualidad.
+
+Se prevé que el nuevo paso a nivel (km 13,2) esté equipado con semáforos automáticos. Las señales de tráfico transmiten al conductor del automóvil que se acerca al paso a nivel la misma información. Esta información no depende de la situación de riesgo real. Las señales indican que se aproxima un paso a nivel ferroviario y que es necesario detenerse ante la señal de prioridad. Al aproximarse a un paso a nivel equipado con semáforos automáticos, el conductor del automóvil puede obtener información más precisa sobre el posible peligro. La luz roja del semáforo parpadeante indica la aproximación del material rodante ferroviario y el estado cerrado del paso a nivel. No existe peligro para el automóvil cuando funcionan las demás señales del semáforo. Un paso a nivel equipado automáticamente es más seguro para los usuarios de la vía que un paso a nivel únicamente equipado con señales de tráfico.
+
+El tráfico ferroviario es tanto más seguro cuanto menor sea el número de pasos a nivel en las inmediaciones. La entrada en servicio del nuevo paso a nivel proyectado permitirá cerrar, además del paso a nivel de Männiku, el paso a nivel situado en el km 11,789. El nuevo paso a nivel automático que se construirá quedará comprendido entre los dos pasos a nivel que se cerrarán, los
 
 ## Página 16
 
-Desde el punto de vista de la organización del tráfico, es racional y conforme a los requisitos modernos, aumentando considerablemente la seguridad vial.
-La construcción del acceso al nuevo paso a nivel desde las canteras y su conexión con la red viaria local puede realizarse, si es necesario, por fases. La mejora progresiva de la calidad de la vía de acceso puede ser conveniente teniendo en cuenta los recursos financieros limitados y la presencia de un tráfico por carretera muy escaso (menos de 50 unidades diarias). Los usuarios de la carretera son principalmente vehículos pesados de gran capacidad de carga.
-Durante la investigación del accidente ocurrido en el paso a nivel de Männiku el 16.04.2010, se emitió una licencia de construcción para un nuevo paso a nivel a Edelaraudtee Infrastruktuuri AS. La vía de acceso al nuevo paso a nivel desde la carretera Tallinn-Saku se construirá durante la reparación integral de la carretera Tallinn-Saku. Esto lo organiza la Dirección Regional Norte de Carreteras. La reparación integral de la carretera Tallinn-Saku se realiza principalmente durante el año 2010. El asfaltado de la vía depende de las condiciones meteorológicas y se prolongará hasta el año siguiente.
-Se considera conveniente finalizar la construcción del paso a nivel ferroviario aproximadamente al mismo tiempo que se finalicen los trabajos de asfaltado de la carretera Tallinn-Saku. La puesta en servicio del nuevo paso a nivel y el cierre al tráfico rodado de los dos pasos a nivel existentes en las proximidades ayudan a aumentar considerablemente la seguridad vial en dicha zona.
-Los accidentes ocurridos en el paso a nivel ferroviario de Männiku han tenido lugar a lo largo de los años con automóviles cuyos conductores no circulan por dicho paso a nivel por primera vez. Con mayor frecuencia utilizan el paso a nivel los camiones de alguna empresa, cuyos conductores han perdido la vigilancia al cruzar la vía férrea y han perdido el sentido de la seguridad.
-El gobierno local tiene la posibilidad de dirigirse a instituciones y empresas para que presten atención al comportamiento adecuado de sus empleados al cruzar la vía férrea. La instrucción directa de los conductores de vehículos por parte de instituciones y empresas sobre la situación de peligro en el paso a nivel de Männiku ayuda a aumentar la seguridad vial hasta la finalización del nuevo paso a nivel.
+La reorganización del tráfico desde la posición actual es racional y, al ajustarse a las exigencias contemporáneas, aumenta considerablemente la seguridad del tráfico.  
+La construcción del acceso a la nueva intersección a nivel por parte de las canteras y su conexión con la red viaria local podrá realizarse, si fuera necesario, de forma escalonada. La mejora escalonada de la calidad de la vía de acceso puede ser adecuada teniendo en cuenta los recursos financieros limitados y la existencia de un tráfico rodado muy escaso (menos de 50 unidades por día). Los usuarios de la carretera son en su mayoría camiones de gran capacidad.  
+Durante la investigación del accidente ocurrido en la intersección a nivel de Männiku el 16.04.2010, se otorgó a Edelaraudtee Infrastruktuuri AS el permiso de construcción para la nueva intersección a nivel. La vía de acceso a la nueva intersección desde la carretera Tallinn-Saku se construirá durante las obras de reparación de la carretera Tallinn-Saku. Esto lo gestiona la Oficina Regional del Norte de Carreteras. Las obras de reparación de la carretera Tallinn-Saku se realizan principalmente durante el año 2010. El asfaltado de la carretera depende de las condiciones meteorológicas y se pospone para el año siguiente.  
+Debe considerarse adecuado completar la construcción de la intersección a nivel de la línea férrea de forma aproximadamente simultánea a la finalización de las obras de asfaltado de la carretera Tallinn-Saku. La entrada en servicio de la nueva intersección a nivel y el cierre al tráfico rodado de las dos intersecciones a nivel existentes en las inmediaciones contribuirá considerablemente a aumentar la seguridad del tráfico en dicha zona.  
+Los accidentes ocurridos en la intersección a nivel de Männiku se han producido a lo largo de los años con vehículos de pasajeros, cuyos conductores no circulaban por primera vez por dicha intersección. Con mayor frecuencia, la intersección es utilizada por camiones de alguna empresa, cuyos conductores han perdido la vigilancia al cruzar la vía férrea y han perdido el sentido de la seguridad.  
+El municipio local tiene la posibilidad de dirigirse a las instituciones y empresas para que presten atención a la conducta adecuada de sus empleados al cruzar la vía férrea. La instrucción directa de los conductores de las instituciones y empresas sobre la situación de peligro en la intersección a nivel de Männiku ayudará a aumentar la seguridad del tráfico hasta que se complete la nueva intersección a nivel.  
+# 4.3 Conclusiones 
+1. El tren de pasajeros n.º 0041 circulaba regularmente por la ruta de Tallin a Viljandi. Las luces de los faros y las luces de los parachoques del tren estaban encendidas. De acuerdo con las normas, el maquinero se encontraba en la primera cabina y el ayudante de maquinero en la cabina trasera. Dos asistentes de servicio al cliente cumplían con las tareas correspondientes en los vagones de primera y segunda clase. Al circular entre las estaciones de Liiva y Kiisa a las 8.13 h y al acercarse a la intersección a nivel de Männiku, la velocidad del tren era de 85 km/h, lo cual estaba dentro del límite permitido. 
+2. Delante del tren circulaba un camión MAN en la misma dirección que el tren, por una calzada paralela a la vía férrea, a una velocidad considerablemente inferior. El vehículo transportaba un contenedor vacío. El conductor del automóvil estaba sentado a la izquierda de la cabina y el tren se acercaba por la derecha desde atrás. 
+3. Antes de la intersección a nivel, el automóvil realizó un giro a la derecha de 90⁰ a baja velocidad y llegó al tramo recto de 20 metros que quedaba antes de la intersección. 
+4. Inmediatamente después del giro, el conductor no se aseguró de que se acercaba un tren de pasajeros por la derecha. A 7,9 m de la vía más cercana se encuentran la señal de advertencia 121 «Vía única» y la señal de prioridad 222 «Deténgase y ceda el paso». El conductor continuó circulando a baja velocidad sin tener en cuenta las exigencias establecidas por las señales de tráfico. 
+5. Las señales de tráfico colocadas antes de la intersección advierten al conductor del posible peligro y presuponen una conducta voluntaria del conductor respecto al cumplimiento de las exigencias establecidas por las señales de tráfico. Dado que la intersección está abierta a los vehículos durante la mayor parte del tiempo, la obediencia al tráfico del conductor puede verse reducida por su experiencia al respecto. 
 
-# 4.3 Conclusiones
-
-1. El tren de pasajeros n.º 0041 circulaba según el horario previsto en la ruta de Tallin a Viljandi. El faro del tren y las luces de parachoques estaban encendidos. De conformidad con las normas, el maquinista se encontraba en el primer coche motor y el ayudante de maquinista en el segundo coche motor. Dos asistentes de clientes cumplían funciones reglamentarias en los coches de primera y segunda clase. Al circular entre las estaciones de Liiva y Kiisa a las 8.13 horas y al acercarse al paso a nivel de Männiku, la velocidad del tren era de 85 km/h, dentro de los límites permitidos.
-2. Delante del tren circulaba, en la misma dirección que este, un camión MAN por una calzada paralela a la vía férrea, a una velocidad sensiblemente inferior a la del tren. El camión llevaba un contenedor vacío. El conductor estaba sentado en la cabina a la izquierda y el tren se le acercaba por detrás y por la derecha.
-3. Antes del paso a nivel de Männiku, el camión realizó un giro a la derecha de 90⁰ a baja velocidad y llegó a un tramo recto de 20 metros antes del paso a nivel.
-4. Inmediatamente después del giro, el conductor no se cercioró de que un tren de pasajeros se acercaba por la derecha. A 7,9 m de distancia del carril más cercano se encuentran la señal de advertencia 121 «Vía única» y la señal de prioridad 222 «Deténgase y ceda el paso». El conductor continuó circulando a baja velocidad sin tener en cuenta los requisitos establecidos por las señales de tráfico.
-5. Las señales de tráfico situadas delante del paso a nivel advierten al conductor del posible peligro y presuponen una conducta voluntaria del conductor para cumplir los requisitos establecidos por las señales de tráfico. Dado que la mayor parte del tiempo el paso a nivel está abierto al tránsito de automóviles, la experiencia del conductor en este aspecto puede reducir su obediencia a las normas de tráfico.
 
 ## Página 17
 
-6. Circulando hacia el interior de la curva según la dirección de marcha del camión accidentado y realizando un giro a la derecha, el camión de grandes dimensiones no se sitúa perpendicular a la vía férrea antes de la señal de prioridad, donde el conductor tendría desde la cabina una visión despejada del tren que se acerca por la derecha al entrar en el paso a nivel. Los ejes longitudinales del vehículo y de la vía forman un ángulo agudo. Partes de la cabina del camión limitan la visibilidad del conductor hacia la dirección de llegada del tren.
-7. El accidente fue causado por un error humano del conductor. El conductor no evaluó adecuadamente el peligro real y sus posibles consecuencias. El conductor entró en el paso a nivel ignorando los requisitos establecidos por las señales de tráfico y recibió un impacto del tren en el lateral derecho del vehículo.
-8. Como consecuencia de la colisión con el tren, el camión quedó inutilizable y el conductor falleció.
-9. El paso a nivel de Männiku (km 14,599) está equipado con medios de ordenación del tráfico conforme a las normas, teniendo en cuenta la intensidad real del tráfico. En los últimos años han ocurrido repetidamente accidentes mortales de tráfico en el paso a nivel. El paso a nivel de Männiku se ha convertido en más peligroso que cualquier otro paso a nivel no automatizado.
-10. Desde el punto de vista de la mejora de la seguridad vial, es importante el cierre del paso a nivel de Männiku, escenario de múltiples accidentes hasta ahora, desde el momento de la apertura del nuevo paso a nivel.
-11. La construcción de un nuevo paso a nivel ferroviario moderno en Männiku es posible mediante la creación de una vía de acceso al paso a nivel desde la carretera Männiku – Saku. La vía de acceso, o sea, la rampa de entrada y salida, se construye durante la reparación integral de la carretera Männiku – Saku por encargo de la Dirección Regional Norte de Carreteras.
-12. La calidad del acceso desde las canteras al nuevo paso a nivel ferroviario de Männiku propuesto (km 13,2), dotado de automatización, puede realizarse por etapas considerando el ahorro de recursos y las particularidades de los vehículos.
-13. La construcción del nuevo paso a nivel regulado automáticamente de Männiku propuesto aumenta la seguridad vial. Es conveniente abrir el nuevo paso a nivel al tráfico simultáneamente con la concesión de la licencia de uso de las vías de acceso.
-14. Antes de la puesta en servicio del nuevo paso a nivel, la seguridad del paso a nivel de Männiku, de baja intensidad de tráfico, se ve favorecida por la instrucción adicional de los conductores de vehículos de instituciones y empresas que utilizan frecuentemente el paso a nivel, a petición del gobierno local.
-15. Edelaraudtee AS ha establecido un sistema de gestión de la seguridad en el grupo empresarial. El sistema de gestión de la seguridad en vigor permite aplicar adecuadamente medidas para eliminar las consecuencias del accidente ocurrido en el paso a nivel de Männiku, conservar la información correspondiente, realizar análisis y desarrollar medidas de seguridad prospectivas.
-
-# 4.4 Observaciones adicionales
-
-La Dirección Regional Norte de Carreteras finalizará este año la reparación integral de la carretera Tallinn-Saku, que discurre paralela a la vía férrea cerca del paso a nivel de Männiku. Los trabajos de asfaltado finalizarán en el primer semestre del año siguiente. Edelaraudtee Infrastruktuuri AS dispone de una licencia de construcción para un nuevo paso a nivel ferroviario.
-No existe una postura unificada respecto a la construcción de la vía de acceso desde las canteras al nuevo paso a nivel ferroviario propuesto, dotado de semáforos. Con el objetivo de mantener la seguridad vial y preservar vidas humanas, es conveniente que, por iniciativa del gobierno local
+6. En la dirección de movimiento del camión implicado en el accidente, al circular por la curva interior y realizar un giro a la derecha, el camión de mayores dimensiones no se coloca perpendicularmente a la vía férrea antes de la señal de prioridad, donde el conductor tendría una vista despejada desde la cabina del tren que se acerca por la derecha. El eje longitudinal del automóvil y el de la vía férrea forman un ángulo agudo. Las partes de la cabina del camión limitan la visibilidad del conductor hacia la dirección de llegada del tren. 
+7. La causa del accidente fue un error humano del conductor del automóvil. El conductor no valoró adecuadamente el peligro real y sus posibles consecuencias. El conductor circuló hacia la intersección a nivel haciendo caso omiso de las exigencias establecidas por las señales de tráfico y recibió el impacto del tren en el lado derecho del automóvil. 
+8. Como resultado de la colisión con el tren, el automóvil quedó inservible y el conductor falleció. 
+9. La intersección a nivel de Männiku (km 14,599) está equipada, teniendo en cuenta la intensidad real del tráfico, con medios de regulación del tráfico que cumplen las normas. En los últimos años se han producido repetidamente accidentes de tráfico mortales en la intersección a nivel. La intersección a nivel de Männiku se ha convertido en una más peligrosa que cualquier otra intersección a nivel no automatizada. 
+10. Desde el punto de vista del aumento de la seguridad del tráfico, es importante el cierre de la intersección a nivel de Männiku, que ha sido el lugar de múltiples accidentes, a partir del momento de la apertura de la nueva intersección a nivel. 
+11. La construcción de una nueva intersección a nivel moderna en Männiku es posible mediante la construcción de una vía de acceso a la intersección a nivel desde la carretera Männiku-Saku. El acceso, es decir, la vía de entrada y salida, se construirá durante las obras de reparación de la carretera Männiku-Saku por encargo de la Oficina Regional del Norte de Carreteras. 
+12. La calidad del acceso a la nueva intersección a nivel de Männiku automatizada proyectada (km 13,2) por parte de las canteras podrá realizarse por fases, teniendo en cuenta el ahorro de recursos y las particularidades de los vehículos. 
+13. La construcción de la nueva intersección a nivel de Männiku automatizada proyectada aumentará la seguridad del tráfico. Es adecuado abrir la nueva intersección a nivel al tráfico simultáneamente con la concesión de licencias de uso a las vías de acceso. 
+14. La seguridad de la intersección a nivel de Männiku, de baja intensidad de tráfico, podrá aumentarse antes de la puesta en servicio de la nueva intersección a nivel mediante la instrucción adicional de los conductores de las instituciones y empresas que utilizan con mayor frecuencia la intersección, a petición del municipio local. 
+15. Edelaraudtee AS ha establecido un sistema de gestión de la seguridad en el grupo. El sistema de gestión de la seguridad entrado en vigor permite aplicar adecuadamente las medidas para eliminar las consecuencias del accidente ocurrido en la intersección a nivel de Männiku, conservar la información correspondiente, realizar análisis y desarrollar medidas de seguridad prospectivas.  
+# 4.4 Observaciones adicionales 
+La Oficina Regional del Norte de Carreteras finalizará este año las obras de reparación de la carretera Tallinn-Saku, que transcurre paralela a la vía férrea cerca de la intersección a nivel de Männiku. Las obras de asfaltado se finalizarán en el primer semestre del año siguiente. Edelaraudtee Infrastruktuuri AS dispone del permiso de construcción para la nueva intersección a nivel.  
+No existe una posición unificada sobre la construcción de la vía de acceso a la nueva intersección a nivel proyectada, equipada con semáforos, por parte de las canteras. Con el fin de aumentar la seguridad del tráfico y preservar las vidas humanas, es adecuado, por iniciativa del municipio local
 
 ## Página 18
 
-consolidar las posturas de las empresas que utilizan principalmente la carretera consolidada y de otras instituciones y empresas interesadas en cuanto a la construcción del acceso.
+las posiciones de las empresas que utilizan principalmente la vía consolidada y de otros organismos y empresas implicados en la construcción de la vía de acceso.
 # 5. MEDIDAS ADOPTADAS
-Se concedieron cuatro días libres remunerados a la tripulación de la locomotora para recuperar el equilibrio emocional.
-Se verificó el estado del paso a nivel. Se reparó el material rodante ferroviario dañado como consecuencia del accidente.
-# 6. RECOMENDACIONES PARA LA MEJORA DE LA SEGURIDAD DEL TRÁFICO FERROVIARIO
-A Edelaraudtee Infrastruktuuri AS:
-1. Coordinar la finalización de la construcción del nuevo paso a nivel de Männiku con la conclusión de los trabajos de asfaltado de las vías de acceso organizados por la Dirección Regional Norte de Carreteras.
-2. Organizar el cierre del paso a nivel existente de Männiku desde el mismo momento en que se abra al tráfico el nuevo paso a nivel.
-Al Gobierno Municipal de Saku:
-3. Informar a las instituciones y empresas que más utilizan el paso a nivel de Männiku sobre los accidentes ocurridos en dicho paso a nivel en los últimos años, solicitando que instruyan adicionalmente a los conductores de automóviles sobre el peligro del paso a nivel.
-4. Consolidar las posturas y los recursos de las partes interesadas para la construcción de una vía de acceso al moderno paso a nivel de Männiku que se está construyendo, por parte de las canteras.
-5. Aplicar medidas temporales hasta el cierre del paso a nivel de Männiku, para evitar que los automóviles crucen la curva interior al girar a la derecha desde las canteras, lo que garantizaría al conductor una mejor visibilidad en la señal de prioridad de paso.
-La investigación finalizó el 15 de noviembre de 2010.
-Investigación realizada por:
+Se concedieron al equipo de conducción cuatro días libres remunerados para recuperar el equilibrio psicológico.
+Se verificó el estado de conservación del paso a nivel. Se reparó el material rodante que había sufrido daños como consecuencia del accidente.
+# 6. RECOMENDACIONES PARA MEJORAR LA SEGURIDAD DEL TRÁFICO FERROVIARIO
+A Edelaraudtee Infrastruktuuri AS
+1. Coordinar la finalización de la construcción del nuevo paso a nivel de Männiku con la finalización de las obras de asfaltado de las vías de acceso organizadas por la Oficina Regional de Carreteras del Norte.
+2. Proceder al cierre del paso a nivel existente de Männiku a partir del mismo momento en que se abra al tráfico el nuevo paso a nivel.
+Al Ayuntamiento del Municipio de Saku
+3. Informar a los organismos y empresas que más utilizan el paso a nivel de Männiku de los accidentes ocurridos en los últimos años en dicho paso, solicitando que instruyan adicionalmente a los conductores sobre la peligrosidad del paso a nivel.
+4. Consolidar las posiciones y los recursos de las partes interesadas para la construcción de una vía de acceso por parte de las canteras al nuevo paso a nivel ferroviario de Männiku.
+5. Aplicar medidas temporales hasta el cierre del paso a nivel de Männiku para evitar que los vehículos que realicen un giro a la derecha procedentes de las canteras recorran la curva interior, lo que garantizaría una mejor visibilidad para el conductor del vehículo en el punto de prioridad.
+
+La investigación se finalizó el 15 de noviembre de 2010.
+La investigación fue realizada por:
 Jüri Olde
 
 
 ## Página 19
 
 ### Anexos:
-1. Notificación de accidente ferroviario de grado I en el paso a nivel de Männiku el 16.04.10. Agencia de Supervisión Técnica, 20.04.2010 – 3 páginas.
-2. Accidente ocurrido en un paso a nivel. Centro de Emergencias Estonia del Norte, 22.04.2010 – 3 páginas.
-3. Trabajo práctico, resumen de la investigación de un accidente o siniestro. Edelaraudtee AS. Türi, 23.04.2010 – 3 páginas.
-4. Declaración escrita. Edelaraudtee AS. Conductor de tren diésel, 16.04.2010 – 1 página.
-5. Licencia de maquinista RI 002294. Copia – 1 página.
-6. Declaración escrita. Edelaraudtee AS. Ayudante del conductor de tren diésel, 16.04.2010 – 1 página.
-7. Certificado de competencia profesional 034996. Copia – 1 página.
-8. Certificación de descifrado de la cinta del registrador de velocidad n.º 5/10. Edelaraudtee AS, 16.04.2010 – 1 página.
-9. Extracto del libro de órdenes del despachador de trenes. Accidente 16.04.2010, a las 08.13 – 5 páginas.
-10. Investigación del accidente de tráfico ocurrido el 16.04.2010 en el paso a nivel km 15 pk 7 entre las estaciones de Liiva y Kiisa. Jefe de operaciones, 19.04.2010 – 2 páginas.
-11. Acta inicial sobre los daños en el coche motor 3703 del tren diésel DR1B 3703/04 tras el accidente de tráfico del 16.04.2010 en el paso a nivel entre las estaciones de Liiva y Kiisa, km 15 pk 7, colisión con un automóvil. Tallin, 16.04.2010 – 1 página.
-12. Ficha técnica del paso a nivel. 14,599 Männiku. Edelaraudtee Infrastruktuuri AS – 3 páginas.
-13. Esquema del lugar del accidente. Paso a nivel de Männiku 14,599 km, tramo Liiva – Kiisa, 16.04.2010 – 1 página.
-14. Oficina de Delitos Comunes de la Brigada Criminal de la Prefectura Norte. Resolución de archivo del procedimiento penal con autorización de la Fiscalía. Tallin, 03.06.2010 – 1 página.
-15. Circunstancias del accidente de tráfico. Material LÕ 754; caso 2302100081285, 16.04.2010 – 1 página.
-16. Tabla fotográfica. LÕ n.º 754, caso 2302100081285. Departamento de Policía y Guardia Fronteriza – 6 páginas.
-17. Protocolo de inspección del vehículo en la causa penal n.º 10230105773, 16.04.2010 – 2 páginas.
-18. Certificado de registro del vehículo EB 905501. Copia – 1 página.
-19. Acta de autopsia del fallecido n.º 244. Tallin, Narva mnt 46, 01.06.2010 – 3 páginas.
-20. Protocolo de interrogatorio de testigo. PP KRB, 16.04.2010 – 1 página.
-21. Protocolo de uso del instrumento indicador. Prefectura Norte. Oficina de Protección del Orden. Servicio de Accidentes, 16.04.2010 – 1 página.
-22. Tabla fotográfica. LÕ n.º 754. Caso 2302100081285. Departamento de Policía y Guardia Fronteriza – 4 páginas.
-23. Protocolo de inspección del lugar de los hechos en la causa penal n.º 10230105773. Prefectura Norte – 2 páginas.
-24. Esquema del lugar de los hechos. LÕ n.º 754. Prefectura Norte – 2 páginas.
-25. Carpeta fotográfica de la TJA sobre el accidente de tráfico ferroviario ocurrido el 16.04.2010 en el paso a nivel de Männiku – 36 páginas.
-26. Accidente de tráfico el 16.04.2010 en el paso a nivel de Männiku, en el camino de salida de la cantera de arena de Männiku hacia la carretera de Männiku. Fotos. Servicio de Accidentes de la Oficina de Protección del Orden de la Prefectura Norte – 91 páginas.
+1. Notificación de accidente ferroviario de primer grado en el paso a nivel de Männiku el 16.04.10. Agencia de Supervisión Técnica, 20.04.2010 – 3 páginas.
+2. Accidente ocurrido en el paso a nivel. Centro de Alertas del Norte de Estonia, 22.04.2010 – 3 páginas.
+3. Informe de investigación de accidente o incidente. Edelaraudtee AS. Türi, 23.04.2010 – 3 páginas.
+4. Memoria explicativa. Edelaraudtee AS. Conductor de tren diésel, 16.04.2010 – 1 página.
+5. Licencia de conductor de locomotora RI 002294. Copia – 1 página.
+6. Memoria explicativa. Edelaraudtee AS. Ayudante de conductor de tren diésel, 16.04.2010 – 1 página.
+7. Certificado profesional 034996. Copia – 1 página.
+8. Certificado de descifrado de la cinta del registrador de velocidad n.º 5/10. Edelaraudtee AS, 16.04.2010 – 1 página.
+9. Extracto del libro de órdenes del despachador de trenes. Accidente del 16.04.2010, a las 08.13 – 5 páginas.
+10. Investigación del accidente de tráfico ocurrido en el paso a nivel del punto kilométrico 15 pk 7 entre las estaciones de Liiva y Kiisa el 16.04.2010. Jefe de maniobras, 19.04.2010 – 2 páginas.
+11. Acta inicial de los daños sufridos por el vagón motor 3703 del tren diésel DR1B 3703/04 tras el accidente de tráfico del 16.04.2010 en el paso a nivel entre las estaciones de Liiva y Kiisa, pk 15, colisión con un vehículo. Tallin, 16.04.2010 – 1 página.
+12. Pasaporte del paso a nivel. 14,599 Männiku. Edelaraudtee Infrastruktuuri AS – 3 páginas.
+13. Esquema del lugar del accidente. Paso a nivel de Männiku 14,599 km, tramo entre las estaciones de Liiva y Kiisa, 16.04.2010 – 1 página.
+14. Dirección de Delitos Comunes de la Oficina de Investigación Criminal de la Prefectura del Norte. Resolución de finalización del procedimiento penal con autorización de la Fiscalía. Tallin, 03.06.2010 – 1 página.
+15. Circunstancias del accidente de tráfico. Expediente LÕ 754; caso 2302100081285, 16.04.2010 – 1 página.
+16. Tabla fotográfica. LÕ n.º 754, caso 2302100081285. Agencia de Policía y Guardia Fronteriza – 6 páginas.
+17. Acta de inspección del vehículo de transporte en el caso penal n.º 10230105773, 16.04.2010 – 2 páginas.
+18. Certificado de matriculación del vehículo EB 905501. Copia – 1 página.
+19. Acta de autopsia n.º 244. Tallin, Narva mnt 46, 01.06.2010 – 3 páginas.
+20. Acta de declaración del testigo. PP KRB, 16.04.2010 – 1 página.
+21. Acta de uso del dispositivo indicador. Prefectura del Norte. Oficina de Orden Público. Departamento de Accidentes, 16.04.2010 – 1 página.
+22. Tabla fotográfica. LÕ n.º 754. Caso 2302100081285. Agencia de Policía y Guardia Fronteriza – 4 páginas.
+23. Acta de inspección del lugar de los hechos en el caso penal n.º 10230105773. Prefectura del Norte – 2 páginas.
+24. Esquema del lugar de los hechos. LÕ n.º 754. Prefectura del Norte – 2 páginas.
+25. Álbum fotográfico de la TJA del accidente ferroviario ocurrido en el paso a nivel de Männiku el 16.04.2010 – 36 páginas.
+26. Accidente de tráfico en el paso a nivel de Männiku en la vía de salida de la cantera de arena de Männiku hacia la carretera de Männiku el 16.04.2010. Fotografías. Departamento de Accidentes de la Oficina de Orden Público de la Prefectura del Norte – 91 páginas.
 
 
 ## Página 20
 
-27. Paso a nivel de Männiku y accidente de tráfico ferroviario ocurrido el 16.04.2010. Fotos. Edelaraudtee AS – 18 páginas.
+27. Paso a nivel de Männiku y accidente ferroviario ocurrido el 16.04.2010. Fotografías. Edelaraudtee AS – 18 páginas.
 28. Respuesta a la solicitud de información sobre la víctima del accidente ferroviario. Carta del Hospital Regional n.º 2-3/528-1, 08.09.2010 – 1 página.
-29. Preguntas a Edelaraudtee AS sobre el accidente de Männiku del 16.04. Inspector ferroviario de Edelaraudtee, 09.09.2010 – 2 páginas.
-30. Reclamación de indemnización por daños materiales en el tráfico. Carta de Edelaraudtee AS n.º Ü-20/305, 03.06.2010 – 1 página.
-31. Oferta de precios. Ühinenud Depood, carta n.º Ü4-2/399, 25.05.2010 – 3 páginas.
+29. Preguntas sobre el accidente de Männiku del 16.04 de Edelaraudtee AS. Inspector ferroviario de Edelaraudtee, 09.09.2010 – 2 páginas.
+30. Reclamación de indemnización por daños al tráfico. Carta de Edelaraudtee AS n.º Ü-20/305, 03.06.2010 – 1 página.
+31. Presupuesto. Ühinenud Depood, carta n.º Ü4-2/399, 25.05.2010 – 3 páginas.
 32. Factura n.º 10100074. Tallinna Autobussikoondise AS, 22.04.2010 – 1 página.
-33. Proyecto del paso a nivel de Männiku en la línea ferroviaria Tallinn – Lelle – Pärnu. II Memoria descriptiva. 1. Parte general – 1 página.
+33. Proyecto del tramo ferroviario Tallinn – Lelle – Pärnu en el paso a nivel de Männiku. II Memoria explicativa. 1. Parte general – 1 página.

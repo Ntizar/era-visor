@@ -1,0 +1,656 @@
+{
+ "md/RS/2016/Annual Report 2016_eng (2).md": {
+  "fichero": "md/RS/2016/Annual Report 2016_eng (2).md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 17425,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 4914,
+  "tokens_out": 3778,
+  "destino": "md-es/RS/2016/Annual Report 2016_eng (2).md"
+ },
+ "md/RS/2016/Godisnji Izvestaj 2016.md": {
+  "fichero": "md/RS/2016/Godisnji Izvestaj 2016.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 17734,
+  "ratio": 1.23,
+  "avisos": [],
+  "tokens_in": 7084,
+  "tokens_out": 3771,
+  "destino": "md-es/RS/2016/Godisnji Izvestaj 2016.md"
+ },
+ "md/RS/2017/2017-08-21_Nalet 4905 na PP_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2017/2017-08-21_Nalet 4905 na PP_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 71849,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 31162,
+  "tokens_out": 17766,
+  "destino": "md-es/RS/2017/2017-08-21_Nalet 4905 na PP_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2017/2017-08-21_Serious accident at level crossing_final report.md": {
+  "fichero": "md/RS/2017/2017-08-21_Serious accident at level crossing_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 68785,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 22422,
+  "tokens_out": 17623,
+  "destino": "md-es/RS/2017/2017-08-21_Serious accident at level crossing_final report.md"
+ },
+ "md/RS/2017/2017-08-03_Train decoupling eng_final.md": {
+  "fichero": "md/RS/2017/2017-08-03_Train decoupling eng_final.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 100426,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 34075,
+  "tokens_out": 27059,
+  "destino": "md-es/RS/2017/2017-08-03_Train decoupling eng_final.md"
+ },
+ "md/RS/2017/2017-08-03_Raskinuce 8011_Konacan_izvestaj_Konacno.md": {
+  "fichero": "md/RS/2017/2017-08-03_Raskinuce 8011_Konacan_izvestaj_Konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 98192,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 41984,
+  "tokens_out": 25997,
+  "destino": "md-es/RS/2017/2017-08-03_Raskinuce 8011_Konacan_izvestaj_Konacno.md"
+ },
+ "md/RS/2017/2017-08-16_Final report derailment 16 August 2017_ENG_final.md": {
+  "fichero": "md/RS/2017/2017-08-16_Final report derailment 16 August 2017_ENG_final.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 99248,
+  "ratio": 1.06,
+  "avisos": [
+   "bloque 16: cifras largas: faltan 12/18 (67%)"
+  ],
+  "tokens_in": 36367,
+  "tokens_out": 29227,
+  "destino": "md-es/RS/2017/2017-08-16_Final report derailment 16 August 2017_ENG_final.md"
+ },
+ "md/RS/2017/2017-09-17_Derailment_Arbel_final report.md": {
+  "fichero": "md/RS/2017/2017-09-17_Derailment_Arbel_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 99076,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 32493,
+  "tokens_out": 26649,
+  "destino": "md-es/RS/2017/2017-09-17_Derailment_Arbel_final report.md"
+ },
+ "md/RS/2017/2017-09-17_Iskliznuce Arbel_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2017/2017-09-17_Iskliznuce Arbel_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 102279,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 43516,
+  "tokens_out": 26985,
+  "destino": "md-es/RS/2017/2017-09-17_Iskliznuce Arbel_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2017/2017-10-09_Nalet 4905 na PP_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2017/2017-10-09_Nalet 4905 na PP_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 96760,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 45813,
+  "tokens_out": 26759,
+  "destino": "md-es/RS/2017/2017-10-09_Nalet 4905 na PP_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2017/2017-10-09_Serious accident at level crossing_final report.md": {
+  "fichero": "md/RS/2017/2017-10-09_Serious accident at level crossing_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 94042,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 32839,
+  "tokens_out": 25650,
+  "destino": "md-es/RS/2017/2017-10-09_Serious accident at level crossing_final report.md"
+ },
+ "md/RS/2017/2017-11-03_Derailment_56990_final report.md": {
+  "fichero": "md/RS/2017/2017-11-03_Derailment_56990_final report.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 100175,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 5/20 (25%)"
+  ],
+  "tokens_in": 36436,
+  "tokens_out": 29394,
+  "destino": "md-es/RS/2017/2017-11-03_Derailment_56990_final report.md"
+ },
+ "md/RS/2017/Annual Report 2017_eng.md": {
+  "fichero": "md/RS/2017/Annual Report 2017_eng.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 47688,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 17072,
+  "tokens_out": 13472,
+  "destino": "md-es/RS/2017/Annual Report 2017_eng.md"
+ },
+ "md/RS/2017/Godisnji Izvestaj 2017_konacno.md": {
+  "fichero": "md/RS/2017/Godisnji Izvestaj 2017_konacno.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 47134,
+  "ratio": 1.15,
+  "avisos": [
+   "bloque 3: cifras largas: faltan 4/17 (24%)"
+  ],
+  "tokens_in": 24506,
+  "tokens_out": 15820,
+  "destino": "md-es/RS/2017/Godisnji Izvestaj 2017_konacno.md"
+ },
+ "md/RS/2017/2017-11-03_Iskliznuce 56990_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2017/2017-11-03_Iskliznuce 56990_Konacan_izvestaj_konacno.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 101968,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 5/18 (28%)"
+  ],
+  "tokens_in": 52956,
+  "tokens_out": 33349,
+  "destino": "md-es/RS/2017/2017-11-03_Iskliznuce 56990_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2017/2017-12-23_Derailment_53527_final report.md": {
+  "fichero": "md/RS/2017/2017-12-23_Derailment_53527_final report.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 98015,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 25/52 (48%)",
+   "bloque 8: marcadores de página: 3 vs 2"
+  ],
+  "tokens_in": 39351,
+  "tokens_out": 32610,
+  "destino": "md-es/RS/2017/2017-12-23_Derailment_53527_final report.md"
+ },
+ "md/RS/2017/2017-12-23_Iskliznuce 53527_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2017/2017-12-23_Iskliznuce 53527_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 106153,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 50713,
+  "tokens_out": 31003,
+  "destino": "md-es/RS/2017/2017-12-23_Iskliznuce 53527_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2018/2018-03-30_Fire on the train_2746_final report.md": {
+  "fichero": "md/RS/2018/2018-03-30_Fire on the train_2746_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 95776,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 33782,
+  "tokens_out": 25392,
+  "destino": "md-es/RS/2018/2018-03-30_Fire on the train_2746_final report.md"
+ },
+ "md/RS/2018/2018-03-30_pozar_2746_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2018/2018-03-30_pozar_2746_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 97240,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 41172,
+  "tokens_out": 25576,
+  "destino": "md-es/RS/2018/2018-03-30_pozar_2746_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2018/2018-04-13_Overtaking CEM-7 on the worker_final report.md": {
+  "fichero": "md/RS/2018/2018-04-13_Overtaking CEM-7 on the worker_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 145245,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 48166,
+  "tokens_out": 37586,
+  "destino": "md-es/RS/2018/2018-04-13_Overtaking CEM-7 on the worker_final report.md"
+ },
+ "md/RS/2018/2018-04-13_Nalet CEM-7 na radnika_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2018/2018-04-13_Nalet CEM-7 na radnika_Konacan_izvestaj_konacno.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 147477,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 20: marcadores de página: 4 vs 3"
+  ],
+  "tokens_in": 65732,
+  "tokens_out": 40170,
+  "destino": "md-es/RS/2018/2018-04-13_Nalet CEM-7 na radnika_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2018/2018-12-21_ na PP nalet 7821 na autobus_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2018/2018-12-21_ na PP nalet 7821 na autobus_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 154695,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 68776,
+  "tokens_out": 41737,
+  "destino": "md-es/RS/2018/2018-12-21_ na PP nalet 7821 na autobus_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2018/2018-08-01_Collision of trains 2990 and 70922_final report.md": {
+  "fichero": "md/RS/2018/2018-08-01_Collision of trains 2990 and 70922_final report.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 237922,
+  "ratio": 1.06,
+  "avisos": [
+   "bloque 31: cifras largas: faltan 13/40 (32%)"
+  ],
+  "tokens_in": 88051,
+  "tokens_out": 66750,
+  "destino": "md-es/RS/2018/2018-08-01_Collision of trains 2990 and 70922_final report.md"
+ },
+ "md/RS/2018/Annual report for 2018.md": {
+  "fichero": "md/RS/2018/Annual report for 2018.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 113785,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 41029,
+  "tokens_out": 33011,
+  "destino": "md-es/RS/2018/Annual report for 2018.md"
+ },
+ "md/RS/2018/2018-08-01_Sudar_2990 i 70922_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2018/2018-08-01_Sudar_2990 i 70922_Konacan_izvestaj_konacno.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 241048,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 34: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 121601,
+  "tokens_out": 68310,
+  "destino": "md-es/RS/2018/2018-08-01_Sudar_2990 i 70922_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2018/2018-12-21_on LC overtaking 7821 on bus_final.md": {
+  "fichero": "md/RS/2018/2018-12-21_on LC overtaking 7821 on bus_final.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 155602,
+  "ratio": 1.06,
+  "avisos": [
+   "bloque 10: marcadores de página: 2 vs 1",
+   "bloque 11: cifras largas: faltan 10/38 (26%)"
+  ],
+  "tokens_in": 57564,
+  "tokens_out": 45583,
+  "destino": "md-es/RS/2018/2018-12-21_on LC overtaking 7821 on bus_final.md"
+ },
+ "md/RS/2019/2019-06-25_Resnik_Jumping from the train in motion_final.md": {
+  "fichero": "md/RS/2019/2019-06-25_Resnik_Jumping from the train in motion_final.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 105111,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 37688,
+  "tokens_out": 28775,
+  "destino": "md-es/RS/2019/2019-06-25_Resnik_Jumping from the train in motion_final.md"
+ },
+ "md/RS/2018/Godisnji Izvestaj za 2018.md": {
+  "fichero": "md/RS/2018/Godisnji Izvestaj za 2018.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 115367,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 55075,
+  "tokens_out": 34829,
+  "destino": "md-es/RS/2018/Godisnji Izvestaj za 2018.md"
+ },
+ "md/RS/2019/2019-06-25_Resnik_Usmrcen radnik_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2019/2019-06-25_Resnik_Usmrcen radnik_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 107494,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 47954,
+  "tokens_out": 29379,
+  "destino": "md-es/RS/2019/2019-06-25_Resnik_Usmrcen radnik_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2019/Annual report for 2019.md": {
+  "fichero": "md/RS/2019/Annual report for 2019.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 128555,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 47975,
+  "tokens_out": 38249,
+  "destino": "md-es/RS/2019/Annual report for 2019.md"
+ },
+ "md/RS/2019/Godisnji Izvestaj za 2019.md": {
+  "fichero": "md/RS/2019/Godisnji Izvestaj za 2019.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 131471,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 4: cifras largas: faltan 3/13 (23%)"
+  ],
+  "tokens_in": 65557,
+  "tokens_out": 40443,
+  "destino": "md-es/RS/2019/Godisnji Izvestaj za 2019.md"
+ },
+ "md/RS/2020/2020-01-09_ on LC overtaking MS4 on road vehicle_final.md": {
+  "fichero": "md/RS/2020/2020-01-09_ on LC overtaking MS4 on road vehicle_final.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 218251,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 72915,
+  "tokens_out": 59116,
+  "destino": "md-es/RS/2020/2020-01-09_ on LC overtaking MS4 on road vehicle_final.md"
+ },
+ "md/RS/2020/2020-01-09_ na PP nalet MS4 na drumsko vozilo_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2020/2020-01-09_ na PP nalet MS4 na drumsko vozilo_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 218909,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 99434,
+  "tokens_out": 60530,
+  "destino": "md-es/RS/2020/2020-01-09_ na PP nalet MS4 na drumsko vozilo_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2020/2020-07-25_ na PP nalet 45403 na automobil_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2020/2020-07-25_ na PP nalet 45403 na automobil_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 188537,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 88896,
+  "tokens_out": 54919,
+  "destino": "md-es/RS/2020/2020-07-25_ na PP nalet 45403 na automobil_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2020/2020-07-25_on LC overtaking 45403 on road vehicle_final.md": {
+  "fichero": "md/RS/2020/2020-07-25_on LC overtaking 45403 on road vehicle_final.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 192601,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 65485,
+  "tokens_out": 51778,
+  "destino": "md-es/RS/2020/2020-07-25_on LC overtaking 45403 on road vehicle_final.md"
+ },
+ "md/RS/2020/2020-11-28_Bagrdan_Derailment_45022_final report_final.md": {
+  "fichero": "md/RS/2020/2020-11-28_Bagrdan_Derailment_45022_final report_final.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 229482,
+  "ratio": 1.07,
+  "avisos": [
+   "bloque 11: cifras largas: faltan 36/62 (58%)"
+  ],
+  "tokens_in": 84825,
+  "tokens_out": 69629,
+  "destino": "md-es/RS/2020/2020-11-28_Bagrdan_Derailment_45022_final report_final.md"
+ },
+ "md/RS/2020/2020-12-02_na PP nalet 6431 na automobil_final report_final.md": {
+  "fichero": "md/RS/2020/2020-12-02_na PP nalet 6431 na automobil_final report_final.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 206537,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 71959,
+  "tokens_out": 57873,
+  "destino": "md-es/RS/2020/2020-12-02_na PP nalet 6431 na automobil_final report_final.md"
+ },
+ "md/RS/2020/2020-12-02_na PP nalet 6431 na automobil_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2020/2020-12-02_na PP nalet 6431 na automobil_Konacan_izvestaj_konacno.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 209668,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 21: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 100845,
+  "tokens_out": 61468,
+  "destino": "md-es/RS/2020/2020-12-02_na PP nalet 6431 na automobil_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2020/2020-11-28_Bagrdan_Iskliznuce 45022_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2020/2020-11-28_Bagrdan_Iskliznuce 45022_Konacan_izvestaj_konacno.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 233251,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 106975,
+  "tokens_out": 70507,
+  "destino": "md-es/RS/2020/2020-11-28_Bagrdan_Iskliznuce 45022_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2020/2020-12-02_on LC overteking train 6431 on road vehicle_final report.md": {
+  "fichero": "md/RS/2020/2020-12-02_on LC overteking train 6431 on road vehicle_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 206820,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 70097,
+  "tokens_out": 57171,
+  "destino": "md-es/RS/2020/2020-12-02_on LC overteking train 6431 on road vehicle_final report.md"
+ },
+ "md/RS/2020/Annual Report for 2020.md": {
+  "fichero": "md/RS/2020/Annual Report for 2020.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 130412,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 51332,
+  "tokens_out": 40846,
+  "destino": "md-es/RS/2020/Annual Report for 2020.md"
+ },
+ "md/RS/2021/2021-02-03_Mala Krsna_Usmrcen radnik_Konacan_izvestaj.md": {
+  "fichero": "md/RS/2021/2021-02-03_Mala Krsna_Usmrcen radnik_Konacan_izvestaj.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 144181,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 48588,
+  "tokens_out": 39371,
+  "destino": "md-es/RS/2021/2021-02-03_Mala Krsna_Usmrcen radnik_Konacan_izvestaj.md"
+ },
+ "md/RS/2020/Godisnji Izvestaj za 2020.md": {
+  "fichero": "md/RS/2020/Godisnji Izvestaj za 2020.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 132166,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 4: cifras largas: faltan 3/12 (25%)"
+  ],
+  "tokens_in": 65028,
+  "tokens_out": 40895,
+  "destino": "md-es/RS/2020/Godisnji Izvestaj za 2020.md"
+ },
+ "md/RS/2021/2021-07-12_Obrenovac_TENT_Nalet MS na radnika_кonacan izvestaj.md": {
+  "fichero": "md/RS/2021/2021-07-12_Obrenovac_TENT_Nalet MS na radnika_кonacan izvestaj.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 156306,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 68120,
+  "tokens_out": 41861,
+  "destino": "md-es/RS/2021/2021-07-12_Obrenovac_TENT_Nalet MS na radnika_кonacan izvestaj.md"
+ },
+ "md/RS/2021/2021-0~4.md": {
+  "fichero": "md/RS/2021/2021-0~4.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 153705,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 50952,
+  "tokens_out": 41377,
+  "destino": "md-es/RS/2021/2021-0~4.md"
+ },
+ "md/RS/2021/Annual Report for 2021.md": {
+  "fichero": "md/RS/2021/Annual Report for 2021.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 192680,
+  "ratio": 1.06,
+  "avisos": [
+   "bloque 13: marcadores de página: 2 vs 1; cifras largas: faltan 31/60 (52%)"
+  ],
+  "tokens_in": 72367,
+  "tokens_out": 59566,
+  "destino": "md-es/RS/2021/Annual Report for 2021.md"
+ },
+ "md/RS/2023/annual report for 2023.md": {
+  "fichero": "md/RS/2023/annual report for 2023.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 126546,
+  "ratio": 1.06,
+  "avisos": [],
+  "tokens_in": 45910,
+  "tokens_out": 38283,
+  "destino": "md-es/RS/2023/annual report for 2023.md"
+ },
+ "md/RS/2021/Godisnji Izvestaj za 2021.md": {
+  "fichero": "md/RS/2021/Godisnji Izvestaj za 2021.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 196231,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 11: cifras largas: faltan 42/78 (54%)"
+  ],
+  "tokens_in": 94329,
+  "tokens_out": 60167,
+  "destino": "md-es/RS/2021/Godisnji Izvestaj za 2021.md"
+ },
+ "md/RS/2023/2023-11-17_Collision of trains 25412 and 49028_final report.md": {
+  "fichero": "md/RS/2023/2023-11-17_Collision of trains 25412 and 49028_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 267629,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 93400,
+  "tokens_out": 75928,
+  "destino": "md-es/RS/2023/2023-11-17_Collision of trains 25412 and 49028_final report.md"
+ },
+ "md/RS/2023/godisnji izvestaj za 2023.md": {
+  "fichero": "md/RS/2023/godisnji izvestaj za 2023.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 126308,
+  "ratio": 1.15,
+  "avisos": [
+   "bloque 4: cifras largas: faltan 2/9 (22%)"
+  ],
+  "tokens_in": 70682,
+  "tokens_out": 43997,
+  "destino": "md-es/RS/2023/godisnji izvestaj za 2023.md"
+ },
+ "md/RS/2023/2023-11-17_Sudar_25412 i 49028_Konacan_izvestaj.md": {
+  "fichero": "md/RS/2023/2023-11-17_Sudar_25412 i 49028_Konacan_izvestaj.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 280257,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 21: cifras largas: faltan 4/6 (67%)"
+  ],
+  "tokens_in": 126108,
+  "tokens_out": 79576,
+  "destino": "md-es/RS/2023/2023-11-17_Sudar_25412 i 49028_Konacan_izvestaj.md"
+ },
+ "md/RS/2017/2017-08-16_Iskliznuce 62946_Konacan_izvestaj_konacno.md": {
+  "fichero": "md/RS/2017/2017-08-16_Iskliznuce 62946_Konacan_izvestaj_konacno.md",
+  "estado": "revisar",
+  "idioma": "BG",
+  "chars": 91027,
+  "ratio": 1.16,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 20/41 (49%)"
+  ],
+  "tokens_in": 58221,
+  "tokens_out": 32126,
+  "destino": "md-es/RS/2017/2017-08-16_Iskliznuce 62946_Konacan_izvestaj_konacno.md"
+ },
+ "md/RS/2024/collision_7112 and 52601_final_report.md": {
+  "fichero": "md/RS/2024/collision_7112 and 52601_final_report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 280181,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 107672,
+  "tokens_out": 86103,
+  "destino": "md-es/RS/2024/collision_7112 and 52601_final_report.md"
+ },
+ "md/RS/2025/11.02.2025 - lipe-vrcin_iskliznuce 51202_konacan_izvestaj.md": {
+  "fichero": "md/RS/2025/11.02.2025 - lipe-vrcin_iskliznuce 51202_konacan_izvestaj.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 204779,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 94432,
+  "tokens_out": 62601,
+  "destino": "md-es/RS/2025/11.02.2025 - lipe-vrcin_iskliznuce 51202_konacan_izvestaj.md"
+ },
+ "md/RS/2025/11.02.2025 - lipe-vrcin_derailment 51202_final report.md": {
+  "fichero": "md/RS/2025/11.02.2025 - lipe-vrcin_derailment 51202_final report.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 207581,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 80990,
+  "tokens_out": 68544,
+  "destino": "md-es/RS/2025/11.02.2025 - lipe-vrcin_derailment 51202_final report.md"
+ },
+ "md/RS/2024/sudar_7112 i 52601_konacan_izvestaj.md": {
+  "fichero": "md/RS/2024/sudar_7112 i 52601_konacan_izvestaj.md",
+  "estado": "ok",
+  "idioma": "BG",
+  "chars": 284826,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 139894,
+  "tokens_out": 91204,
+  "destino": "md-es/RS/2024/sudar_7112 i 52601_konacan_izvestaj.md"
+ }
+}

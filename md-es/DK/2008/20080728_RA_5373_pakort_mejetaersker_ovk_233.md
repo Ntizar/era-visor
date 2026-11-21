@@ -1,0 +1,196 @@
+---
+pais: DK
+anio: 2008
+idioma_origen: DA
+md_origen: md/DK/2008/20080728_RA_5373_pakort_mejetaersker_ovk_233.md
+md5_origen: 927acfccd8e349b1a039f4bc339d6036
+modelo: mimo-v2.6-flash
+bloques: 2
+chars: 19280
+ratio_longitud: 1.19
+tokens_in: 7552
+tokens_out: 5684
+verificacion: ok
+notas_cifras: ["bloque 1: cifras cortas: 8/127"]
+fecha_proceso: 2026-11-21
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Comisión de Investigación de Accidentes
+Informe
+08.01.2009
+Investigador responsable:
+Expediente n.º.:
+YBB
+610-000043
+El tren RA 5373 atropella una cosechadora en el paso a nivel 233 entre Kibæk y Borris
+Las investigaciones han sido realizadas por la Comisión de Investigación de Accidentes de la Aviación Civil y los Ferrocarriles (Comisión de Investigación de Accidentes) de conformidad con la Ley de Ferrocarriles, según el Decreto n.º 567 de 9 de junio de 2008 de la Ley de Ferrocarriles, con las modificaciones posteriores.
+Tras la realización de las investigaciones preliminares y la evaluación de los datos disponibles relativos al accidente ferroviario mencionado a continuación, la Comisión de Investigación de Accidentes ha llegado a la conclusión de que investigaciones adicionales no conducirán a más recomendaciones de carácter preventivo, ni revelarán circunstancias de importancia significativa para la seguridad ferroviaria.
+1
+Hechos, datos e investigaciones
+1.1
+Hechos
+El 28 de julio de 2008, a las aproximadamente 18:40, el tren RA 5373 de Arriva atropelló una cosechadora en el paso a nivel 233 entre Kibæk y Borris. La cosechadora fue lanzada por el impacto hacia un campo, donde cayó sobre su techo y se incendió.
+1.2
+Datos e investigaciones
+1.2.1
+El tren
+El tren RA 5373, que circulaba en dirección desde Kibæk hacia Borris, estaba compuesto por dos conjuntos de trenes Lint, AR 1010 y AR 1013, propiedad y operados por Arriva.
+El tren circulaba a una velocidad de 101 km/h en el momento en que la cosechadora fue probablemente observada en/el paso a nivel, y se inició la frenada. El tren se detuvo tras 278 m, con el frente del tren a 236 m del paso a nivel.
+Con una anchura de carretera de 5,8 m, esto significa que la deceleración se inició unos 36 m antes de que la cosechadora fuera alcanzada en el paso a nivel a unos 99 km/h.
+1.2.2
+Infraestructura
+La infraestructura es propiedad de Banedanmark. La velocidad máxima permitida en el tramo es de 100 km/t. El tramo no está equipado con un sistema de control de trenes.
+El paso a nivel 233 (p.k. 100,6) está situado en la vía libre a 400 m al este de la señal de entrada a Borris. El paso a nivel es un paso a nivel protegido automáticamente con sistema de señal de advertencia.
+En el sentido de la vía, la instalación del paso a nivel estaba equipada con una «flecha» (señal SR n.º 11.5), señal de paso a nivel (señal SR n.º 11.1) así como señal de avería (señal SR n.º 11.2).
+No se ha realizado la prueba funcional e inspección de la instalación del paso a nivel, ya que el equipo de relés en el armario técnico de la instalación del paso a nivel fue completamente destruido en relación con el accidente.
+YBB@havarikommissionen.dk
+Teléfono
+Telefax
+Comisión de Investigación de Accidentes de la Aviación Civil y los Ferrocarriles
+uheld@havarikommissionen.dk
++45 38 76 00 40
++45 33 38 14 22
+www.havarikommissionen.dk
+Langebjergvænget 21
+DK-4000 Roskilde
+
+
+## Página 2
+
+El paso a nivel está indicado a distancia a través de RMS 2000 en el centro de control a distancia de Esbjerg. Se ha realizado una lectura manual del registro de RMS 2000 en FC Esbjerg. Esta lectura mostró que la instalación del paso a nivel (ovk 233) se activó a las 18.39.40 y comunicó «paso a nivel protegido» hacia el tren. A las 18:40:20 se comunicó «avería menor»¹ desde el paso a nivel 231a, que se encuentra en el p.k. 100,1, 400 m antes del paso a nivel 233 en dirección desde Kibæk hacia Borris, y simultáneamente «avería mayor»² desde el paso a nivel 233.
+| Hora |  |
+| 182953 . . | UdkfraKæ |
+| 183042 . . | Blok BS -Kæ belagt |
+| 18:39 .04 | Ovk231audeafnormalstilling |
+| 18:39 .40 | Ovk233udeafnormalstilling |
+| 183946 . . | IndkørselBs |
+| 184014 . . | Ovk231ainormalstilling |
+| 184020 . . | Ovk231afejl |
+| 184020 . . | Ovk233fejl |
+En el lado de la carretera, el paso a nivel 233 al norte de Kirkevej, a 10,8 m antes del paso a nivel, estaba equipado con una línea de detención en toda la anchura de la carretera. Entre la línea de detención y el paso a nivel, en ambos lados de la carretera, se había instalado la señal luminosa Z72.2 (denominación de la Ley de Tráfico), que en el lado derecho de la carretera estaba complementada con la señal de advertencia A74.1 (denominación de la Ley de Tráfico) y campana. Las señales de carretera estaban equipadas con «pantalla antisol».
+La altura de la linterna de la señal de carretera fue medida en colaboración con la policía y, debido a los daños en el mástil de la señal, se estimó que estaba instalada a una altura máxima de 2,40 m (borde superior de la abertura de la luz) sobre la calzada, con «pantalla antisol» montada (véase la figura 5). La Dirección de Carreteras informa de que el requisito es de 2,5 m hasta el centro de la linterna (En una carretera recta, las señales de carretera se ajustan de modo que el eje de referencia apunte hacia un punto a 150 m de la señal, 1,2 m sobre la calzada y 2 metros del borde derecho de la calzada visto en la dirección de la circulación)³.
+La altura de los ojos del conductor en la cosechadora era, según el informe de la policía, de unos 3,55 m sobre la calzada.
+La carretera (Kirkevej) estaba asfaltada a ambos lados del paso a nivel y tenía unos 4,7 m de ancho, si bien la carretera era más ancha en el propio paso a nivel, donde la anchura de la carretera era de 5,8 m.
+La velocidad permitida en la carretera era de 80 km/t. (carretera fuera de zona urbana)
+¹ La avería menor se indica mediante una lámpara de panel de color ámbar en una consola de control situada en un centro de control a distancia que muestra luz fija. La luz se enciende cuando la instalación puede funcionar, pero está afectada por una avería menor sin importancia para la circulación de trenes.
+² La avería mayor se indica mediante una lámpara de panel de color ámbar que parpadea en una consola de control en un centro de control a distancia. La lámpara parpadea cuando la instalación está afectada por una avería de tal naturaleza que no puede funcionar.
+³ Fuente: Reglas para la protección de pasos a nivel ferroviarios abiertos al tráfico general
+
+
+## Página 3
+
+1.2.3
+Condiciones de visibilidad
+A lo largo del lado este de Kirkevej al norte del paso a nivel y hasta el mismo, había vegetación de arbustos y árboles que hacía imposible ver un tren que se aproximara desde este lado con antelación, sino justo antes de la línea de detención.
+Figura 1. La cosechadora dañada trasladada al día siguiente, observar la vegetación en el lado este de la carretera
+No había alumbrado en el tramo de carretera junto al paso a nivel.
+El tiempo en el momento del accidente era cálido y soleado. El sol entraba oblicuamente de lado en la carretera y, por tanto, no directamente a la cara del conductor de la cosechadora, ni en la señal de carretera. Para el maquinista de locomotora, esto significaba que la dirección del sol era la misma que la dirección de circulación del tren.
+1.2.4
+Cosechadora
+La cosechadora era de tipo Claas Lexion 600 con plataforma de corte acoplada. La velocidad máxima de la cosechadora era de 30 km/t y, de acuerdo con la Ley de Tráfico, debe circular como máximo a 30 km/t. Según el informe de la policía, no ha sido posible realizar una prueba de conducción y frenado de la cosechadora después del accidente debido a los daños por incendio.
+La cosechadora circulaba por Kirkevej hacia el paso a nivel en dirección desde el norte hacia el sur.
+
+
+## Página 4
+
+Figura 2. Fotografía aérea del paso a nivel 233 en Borris. Las flechas en la imagen indican la dirección de circulación del tren / respectivamente de la cosechadora.
+Campo visual⁴
+1.2.5
+El campo visual (lo que se ve sin mover la mirada ni girar la cabeza) se estructura de modo que cada ojo tiene un campo visual monocular que se extiende unos 90° hacia los lados, unos 60° hacia la nariz (limitado por la nariz), unos 60° hacia arriba y unos 70° hacia abajo. Si ambos ojos fijan un mismo punto, los dos campos visuales se superponen y crean un campo visual binocular con una extensión de unos 120°.
+La capacidad de ver con claridad y distinguir diferentes objetos entre sí disminuye cuanto más rápido se conduce. El campo visual también se estrecha notablemente a mayor velocidad:
+o 20 km/t campo visual 125°
+o 35 km/t campo visual 104°
+o 50 km/t campo visual 96°
+o 70 km/t campo visual 70°
+o 100 km/t campo visual 42°
+Si se mira directamente al frente, el campo visual será de unos 180° en el mismo plano que la superficie sobre la que se está de pie. En el centro de este campo, unos 3-5°, se tiene lo que se denomina visión central o visión fina. La visión fina se utiliza al leer. En el campo visual fuera de la visión fina, que se denomina visión periférica, tanto la agudeza visual como la percepción del color están reducidas. Si se mira al frente y de repente hay algo en el área de la visión periférica que se mueve, el cerebro dará la orden de dirigir la mirada hacia lo que se ha movido. Esto se denomina reflejo de aviso.
+⁴ Fuente: Wikipedia, la enciclopedia libre, http://www.thiele.dk/syn/syn_i_trafikken.html, http://www.tryggtrafikk.no/filestore/synsfeltetitrafikken.pdf
+
+
+## Página 5
+
+1.3
+Daños
+El maquinista de locomotora resultó gravemente herido y tres pasajeros del tren sufrieron heridas leves.
+El conductor de la cosechadora resultó gravemente herido y posteriormente falleció como consecuencia del accidente.
+El tren sufrió daños extensos como resultado del impacto. El frontal del primer conjunto de tren estaba fuertemente deformado y también se habían producido daños en el lado derecho del tren en la dirección de circulación, donde, entre otras cosas, se habían roto ventanas.
+Figura 3. Los daños en el frontal y el lado del tren
+Figura 4. La cosechadora después del impacto, observar el armario técnico completamente dañado del paso a nivel en la esquina inferior derecha de la imagen, así como la plataforma de corte de la cosechadora en la carretera
+
+
+## Página 6
+
+El armario técnico de la instalación del paso a nivel fue completamente destruido y dos señales de carretera adyacentes resultaron dañadas.
+Figura 5. Daños en el paso a nivel 233
+La cosechadora fue fuertemente deformada por el impacto y el posterior incendio que se originó en ella causó daños adicionales.
+Un campo de trigo no cosechado, donde yacía la cosechadora después del impacto, se incendió, quemándose unos 500 m2.
+
+
+## Página 7
+
+Figura 6. El paso a nivel dañado, observar el armario técnico a la derecha en la imagen justo debajo del bogie del tren
+1.4
+Otra información
+Un testigo (conductor de un tractor que circulaba detrás) ha informado a la Policía de que la instalación del paso a nivel estaba en funcionamiento y de que el testigo había observado el destello rojo en las señales de carretera, así como que destellaban en el paso a nivel al este del lugar del accidente. El testigo no podía oír las campanas debido al ruido del motor (de su propio tractor). El testigo observó que las luces de freno de la cosechadora se activaron cuando se aproximaba al paso a nivel. La cosechadora redujo la velocidad y continuó hacia el paso a nivel al paso de una marcha. La cosechadora no se detuvo en ningún momento. El conductor de la cosechadora probablemente detectó el tren inmediatamente antes del impacto, ya que el testigo vio que las ruedas de la cosechadora se bloquearon.
+Con motivo de la inspección de una cosechadora Claas Lexion 600 y la posterior conversación con un empleado de una estación de máquinas, se ha informado a la Comisión de Investigación de Accidentes de que la velocidad de la cosechadora se controla con un joystick y que normalmente no se utiliza el freno en este tipo de vehículo.
+A partir del registro de llamadas del teléfono móvil del conductor de la cosechadora, que fue encontrado en el lugar del accidente, se ha podido constatar que ha sido utilizado para llamadas y SMS 6-7 minutos antes de que se produjera la colisión. Además, se recibió un SMS de respuesta en el teléfono móvil poco después del accidente.
+El análisis de la muestra de sangre del maquinista de locomotora el día del accidente mostró 0,0 milésimas de alcohol en sangre.
+No consta declaración de milésimas para el conductor de la cosechadora.
+
+## Página 8
+
+1.5 
+Otros sucesos similares 
+El 13 de mayo de 2002, el tren 3439 (MR 4004) fue embestido por un coche en ovk. 233 (el mismo paso a nivel que aquel en el que la cosechadora fue atropellada el 28 de julio de 2008). El coche irrumpió entonces en el lateral del tren. El tren llegaba en el accidente de 2002 desde la misma dirección que en el accidente de 2008, pero el coche venía de la dirección contraria. 
+El 05 de agosto de 2008 se produjo casi un atropello de una cosechadora en un paso a nivel sin vigilancia en el km. 31.2 entre Rejsby y Brøns en Tønderbanen. 
+## 2 
+### Análisis y evaluaciones 
+2.1 
+El paso a nivel 
+A partir de los datos de registro leídos manualmente del RMS 2000 en FC Esbjerg, que muestran que simultáneamente se produce una señal de fallo de ovk. 231a y ovk. 233 a las 18:40:20, se considera probable que este sea el momento del accidente. 
+Los 40 segundos transcurridos entre la activación de la instalación del paso a nivel 233 y que la instalación señale un fallo mayor significan que el tren RA 5373 con la velocidad indicada en el registro de averías ha recorrido unos 1100 m desde que el paso a nivel fue puesto en marcha hasta que la cosechadora fue alcanzada. 
+La exigencia de distancia desde el paso a nivel a partir de la cual el maquinista debe poder observar como máximo que el paso a nivel está en funcionamiento es, en un tramo con 100 km/h como velocidad máxima, de 750 m.  
+Por tanto, puede evaluarse con certeza que la instalación en el paso a nivel 233 funcionó correctamente. 
+Esto se ve reforzado por el hecho de que los testigos han visto la instalación parpadeando y no han indicado que hubiera dejado de parpadear antes del atropellamiento. 
+El tramo de Kirkevej desde Arnborgvej hasta el paso a nivel 233 tiene unos 250 m de longitud, lo que significa que la instalación del paso a nivel había sido puesta en marcha antes de que la cosechadora girara hacia Kirkevej, a menos que la velocidad media de la cosechadora haya sido inferior a unos 20 km/h. 
+Hay unos 530 m entre los pasos a nivel 231a y 233, lo que significa que el tren RA 5373 habría tardado unos 17 segundos desde haber pasado el paso a nivel 231a hasta estar en el paso a nivel 233. 
+Han transcurrido 6 segundos desde que el paso a nivel 231a está en posición normal, es decir, ya no parpadea, hasta que la instalación del paso a nivel 233 queda destruida, lo que significa que el tren AR 5373 se encontraba a unos 150 m delante del paso a nivel 233 cuando 231a pasó a posición normal. 
+El paso a nivel 231a se señala primero en «posición normal» cuando ambas barreras están completamente levantadas, a diferencia de las instalaciones de aviso, que se señalan en posición normal inmediatamente cuando se produce la liberación. 
+
+
+## Página 9
+
+2.2 
+Observación de las señales del paso a nivel 
+La Comisión de Investigación de Accidentes evalúa que la causa de que el conductor de la cosechadora no observara el destello rojo en las señales viales puede deberse a las siguientes circunstancias (no en ningún orden de prioridad): 
+• 
+Se trataba de un paso a nivel sin vigilancia, es decir, sin barreras que pudieran haber acentuado la atención y, por tanto, mejorado la probabilidad de que los coches, etc., no salieran al paso a nivel cuando este estuviera en funcionamiento. 
+• 
+La posición de conducción de la cosechadora (la altura de los ojos del conductor en la cosechadora) estaba al menos (en todo caso dependiente del peso y la estatura del conductor, que no se conocen) a 3,55 m sobre la calzada, mientras que las señales viales del paso a nivel (del lado por el que venía la cosechadora) estaban como máximo a 2,40 m (borde superior de la abertura de la luz) sobre la calzada. Además, la orientación de los faros está ligeramente hacia abajo respecto al plano horizontal, lo que, en combinación con el «antiparásol» montado en la señal vial, puede dificultar la observación de la señal (cuanto más cerca haya estado la cosechadora del paso a nivel, más difícil resultará observar la señal luminosa intermitente). 
+• 
+El conductor de la cosechadora puede haber tenido simultáneamente la mirada dirigida hacia algo distinto al tráfico (el teléfono móvil), y haberse centrado así, con la vista aguda, en algo distinto al tráfico.  
+2.3 
+Condiciones de visibilidad 
+La visibilidad hacia el este estaba limitada por la vegetación de arbustos y árboles, lo que significa que no ha sido posible ver la vía férrea y, por tanto, un tren que se aproximaba hasta justo antes del paso a nivel, lo que significa que el reflejo de aviso mencionado en el apartado 1.2.5 no ha podido activarse hasta que ya era demasiado tarde. 
+2.4 
+Capacidad de frenado del tren 
+El tren se detuvo en 278 m desde una velocidad de 101 km/h, lo que corresponde a una deceleración de 1,42 m/s2, lo que significa que no hay indicación de que los frenos del tren no hayan funcionado como debían.  
+## 3 
+### Conclusión 
+A partir del equipo de registro RMS 2000 en FC Esbjerg y las declaraciones de los testigos, se considera probable que la instalación del paso a nivel en el paso a nivel 233 estuviera activada y hubiera funcionado correctamente en el momento del accidente. 
+El conductor de la cosechadora no se detuvo en la línea de detención delante del paso a nivel puesto en funcionamiento. 
+El conductor de la cosechadora probablemente no observó los destellos rojos en las señales viales y, por tanto, salió al paso a nivel, mientras el tren RA 5373 con 101 km/h se encontraba a unos 36 m delante del paso a nivel y, por tanto, no tenía ninguna posibilidad de evitar la colisión. 
+La Comisión de Investigación de Accidentes concluye que la causa de que el conductor de la cosechadora no observara el destello rojo en las señales viales puede deberse bien a la posición elevada de conducción de la cosechadora en combinación con la señalización del paso a nivel hacia la señal
+
+
+## Página 10
+
+vial, o a que el conductor de la cosechadora se distrayera, posiblemente por el uso del teléfono móvil, o a una combinación de estas dos circunstancias. 
+La Comisión de Investigación de Accidentes concluye además que, de haber estado el paso a nivel equipado con barreras (barreras de un solo brazo), esto habría generado una mayor atención y posiblemente habría evitado el accidente.  
+## 4 
+### Recomendaciones 
+Con base en lo anterior, la Comisión de Investigación de Accidentes debe formular las siguientes recomendaciones. 
+1. La Trafikstyrelat, junto con el Vejdirektoratet, realizará una evaluación de la prudencia de la circulación por ferrocarriles de vehículos altos de circulación lenta, así como evaluar la posibilidad de crear mayor visibilidad para los vehículos con posición de conducción elevada, de las señales viales en los pasos a nivel. 
+2. La Trafikstyrelat, en colaboración con el Vejdirektoratet, evaluará el ritmo de implantación de pasos a nivel sin vigilancia a pasos a nivel vigilados, posiblemente su supresión, incluida la evaluación de las normas para el equipamiento de las líneas con instalaciones de pasos a nivel sin vigilancia y vigilados respectivamente.

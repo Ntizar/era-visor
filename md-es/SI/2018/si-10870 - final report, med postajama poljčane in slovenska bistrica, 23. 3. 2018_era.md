@@ -10,13 +10,14 @@ chars: 95618
 ratio_longitud: 1.23
 tokens_in: 59928
 tokens_out: 42298
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (SL)", "bloque 2: original bilingüe: se compara contra el idioma principal (SL)", "bloque 3: original bilingüe: se compara contra el idioma principal (SL)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (SL)"]
-avisos: ["bloque 2: ratio 1.65", "bloque 3: ratio 1.77", "bloque 5: ratio 1.81", "bloque 6: ratio 1.68", "bloque 7: ratio 1.91", "bloque 9: ratio 1.96"]
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 3: ratio 1.98", "página 7: ratio 1.76", "página 8: ratio 1.82", "página 11: ratio 1.66", "página 13: ratio 2.02", "página 14: ratio 1.86"]
 ---
+
 ## Página 1
+
 
 REPÚBLICA DE ESLOVENIA
 MINISTERIO DE INFRAESTRUCTURAS
@@ -38,8 +39,8 @@ A LAS 13.32 HORAS
 
 LIUBLIANA, 19.03.2019
 
-
 ## Página 2
+
 
 ÍNDICE
 
@@ -105,25 +106,24 @@ Medidas adoptadas ...................<<.< 36
 Recomendaciones ................ 37
 BIBLIOGRAFÍA ..........0000 en 38
 
-
 ## Página 3
 
 1 RESUMEN
 
-Entre las estaciones de Poljčane y Slovenska Bistrica, en el momento del suceso del 23.3.2018, estaba vigente un cierre de la vía izquierda según la Orden 041/18, y en la estación de Poljčane un cierre de las vías de estación n.º 1, 2, 5, 101, 105, 201, 202 y 302 según la Orden 063/18.
+Entre las estaciones de Poljčane y Slovenska Bistrica, en el momento del suceso acaecido el 23.3.2018, se estaba ejecutando el cierre de la vía izquierda conforme a la Orden 041/18, y en la estación de Poljčane el cierre de las vías de estación n.º 1, 2, 5, 101, 105, 201, 202 y 302 conforme a la Orden 063/18.
 
-Durante el cierre de la vía izquierda, el tráfico de trenes entre las estaciones de Poljčane y Slovenska Bistrica, en la línea principal n.º 30 Zidani Most - Šentilj d.m., se desarrollaba, conforme a lo establecido en el Aviso n.º 278.3-20/2017, únicamente por la vía derecha.
+Durante el periodo de cierre de la vía izquierda, el tráfico de trenes entre las estaciones de Poljčane y Slovenska Bistrica, en la línea principal n.º 30 Zidani Most - Šentilj d.m., se desarrollaba, según lo establecido en el Aviso n.º 278.3-20/2017, únicamente por la vía derecha.
 
-El 23.3.2018, con un minuto de diferencia, fueron despachados hacia la misma vía derecha, entre las estaciones de Poljčane y Slovenska Bistrica, dos trenes procedentes de direcciones opuestas. Desde la estación de Slovenska Bistrica, el tren de mercancías n.º 93785, a las 13.33 horas, y desde la estación de Poljčane, el tren de mercancías n.º 45790, a las 13.32 horas.
+El día 23.3.2018, con un minuto de diferencia, fueron despachados por la misma vía derecha, entre las estaciones de Poljčane y Slovenska Bistrica, dos trenes en direcciones opuestas. Desde la estación de Slovenska Bistrica, el tren de mercancías n.º 93785, a las 13.33 horas, y desde la estación de Poljčane, el tren de mercancías n.º 45790, a las 13.32 horas.
 
-Tras la entrada del tren de pasajeros n.º 4436 en la estación de Slovenska Bistrica, que circulaba desde la dirección de la estación de Poljčane, el jefe de circulación de la estación de Slovenska Bistrica despachó el tren contrario n.º 93785. Previamente, el regulador de circulación de la operativa de tráfico de Maribor había ordenado el cruce del tren n.º 93785 con el tren n.º 45790 en la estación de Slovenska Bistrica. El jefe de circulación de la estación de Slovenska Bistrica despachó el tren de mercancías n.º 93785 desde la estación sin ejecutar el cruce con el tren n.º 45790 en la estación de Slovenska Bistrica.
+Tras la entrada del tren de pasajeros n.º 4436 en la estación de Slovenska Bistrica, que circulaba procedente de la dirección de la estación de Poljčane, el jefe de circulación de la estación de Slovenska Bistrica despachó el tren contrario n.º 93785. Previamente, el regulador de circulación de la operación de tráfico de Maribor había ordenado el cruce del tren n.º 93785 con el tren n.º 45790 en la estación de Slovenska Bistrica. El jefe de circulación de la estación de Slovenska Bistrica despachó el tren de mercancías n.º 93785 desde la estación sin haber realizado el cruce con el tren n.º 45790 en la estación de Slovenska Bistrica.
 
-El jefe de circulación de la estación de Poljčane despachó el tren n.º 45790 hacia la estación de Slovenska Bistrica sin haber solicitado ni recibido previamente la autorización del jefe de circulación de la estación de Slovenska Bistrica. El tren n.º 45790 partió de la estación de Poljčane hacia la estación de Slovenska Bistrica a las 13 horas y 32 minutos. Tras recibir el aviso de circulación del tren n.º 93785 desde la estación de Slovenska Bistrica, el vigilante del equipo de trabajo advirtió al jefe de circulación de la estación de Slovenska Bistrica de que, antes de dicho aviso de circulación, ya había sido despachado un tren de mercancías desde la estación de Poljčane hacia la misma vía. El jefe de circulación de la estación de Slovenska Bistrica llamó inmediatamente al jefe de circulación de la estación de Poljčane, quien le confirmó que dos trenes procedentes de direcciones opuestas habían sido despachados hacia la misma vía. El jefe de circulación de la estación de Poljčane informó inmediatamente de ello al regulador de circulación y solicitó la detención inmediata de ambos trenes. El regulador de circulación contactó por radio-regulación a los maquinistas de los trenes n.º 45790 y 93785 y les exigió una detención inmediata. Tras la parada de ambos trenes, el jefe de circulación de la estación de Slovenska Bistrica, mediante la retransmisión de la comunicación del regulador de circulación por el canal de radio-regulación (RD), ordenó la retirada del tren n.º 93785 de vuelta a la estación de Slovenska Bistrica.
+El jefe de circulación de la estación de Poljčane despachó el tren n.º 45790 hacia la estación de Slovenska Bistrica sin haber solicitado ni recibido previamente la autorización del jefe de circulación de la estación de Slovenska Bistrica. El tren n.º 45790 partió de la estación de Poljčane hacia la estación de Slovenska Bistrica a las 13 horas 32 minutos. Tras recibir la notificación —aviso de circulación del tren n.º 93785 desde la estación de Slovenska Bistrica, el vigilante del grupo de trabajo advirtió al jefe de circulación de la estación de Slovenska Bistrica de que, antes de dicha notificación de circulación del tren —aviso, ya había sido despachado un tren de mercancías desde la estación de Poljčane por la misma vía. El jefe de circulación de la estación de Slovenska Bistrica llamó inmediatamente al jefe de circulación de la estación de Poljčane, quien le confirmó que dos trenes habían sido despachados por la misma vía en direcciones opuestas. El jefe de circulación de la estación de Poljčane informó inmediatamente de ello al regulador de circulación y solicitó la detención inmediata de ambos trenes. El regulador de circulación llamó por radio-enlace de regulación a los maquinistas de los trenes n.º 45790 y 93785 y les exigió una detención inmediata. Tras la parada de ambos trenes, el jefe de circulación de la estación de Slovenska Bistrica, mediante la intermediación del enlace del regulador de circulación por el canal de radio-regulación (RD), ordenó la retirada del tren n.º 93785 de vuelta a la estación de Slovenska Bistrica.
 
-La dirección del tráfico ferroviario entre las estaciones de Poljčane y Slovenska Bistrica la ejercen los jefes de circulación de dichas dos estaciones; durante el cierre de una de las dos vías del tramo intermedio, también interviene el regulador de circulación, que ordena los cruces y adelantamientos de trenes durante el periodo de cierre.
-
+La gestión del tráfico ferroviario entre las estaciones de Poljčane y Slovenska Bistrica es realizada por los jefes de circulación de estas dos estaciones; durante el periodo de cierre de una de las dos vías del tramo intermedio, también interviene el regulador de circulación, que ordena los cruces y adelantamientos de trenes durante el cierre.
 
 ## Página 4
+
 
 Figura n.º 1: Muestra la ruta de circulación del tren n.º 93785, en la mesa de maniobras del dispositivo ERSV de la estación de Slovenska Bistrica, indicada con una flecha roja
 
@@ -142,6 +142,7 @@ jej d
 Figura n.º 2: Muestra la ruta de circulación del tren n.º 45790, en la mesa de maniobras del dispositivo ERSV de la estación de Poljčane, indicada con una flecha roja
 
 ## Página 5
+
 
 Causas:
 
@@ -171,8 +172,8 @@ SŽ — Infrastruktura d.o.o.
 Kolodvorska ulica 11
 1000 Ljubljana
 
-
 ## Página 6
+
 
 SŽ — Tovorni promet d.o.o.
 Kolodvorska ulica 11
@@ -206,51 +207,48 @@ BP 20392
 
 F-59307 VALENCIENNES Cedex
 
-
 ## Página 7
 
-2 HECHOS DIRECTOS RELACIONADOS CON EL INCIDENTE
+2 ACCIONES DIRECTAS RELACIONADAS CON EL SUCESO
 
-El día 23.3.2018 se llevaba a cabo el cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, implementado mediante la Orden n.º 041/18, de fecha 06.03.2018. El cierre comenzó a las 07.10 horas, después del paso del tren n.º 2800, y su finalización estaba prevista inicialmente para el día 30.04.2018 a las 15.00 horas. Ese mismo día, en la estación de Poljčane también se realizaba el cierre de las vías de estación n.º 1, 2, 5, 101, 105, 201, 202 y 302 según la Orden 063/18.
+El 23.03.2018 se llevaba a cabo el cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, establecido mediante la Orden n.º 041/18, de fecha 06.03.2018. El cierre comenzó a las 07.10 horas, después del paso del tren n.º 2800, y estaba previsto que finalizara el 30.04.2018 a las 15.00 horas. Ese mismo día, en la estación de Poljčane, también se realizaba el cierre de las vías de estación n.os 1, 2, 5, 101, 105, 201, 202 y 302 conforme a la Orden 063/18.
 
-Durante el cierre de la vía izquierda, el tráfico de trenes entre las estaciones de Poljčane y Slovenska Bistrica, en la línea principal n.º 30 Zidani Most - Šentilj d.m., se desarrollaba, conforme a lo dispuesto en el Aviso n.º 278.3-20/2017, únicamente por la vía derecha.
+Durante el periodo de cierre de la vía izquierda, el tráfico de trenes entre las estaciones de Poljčane y Slovenska Bistrica, en la línea principal n.º 30 Zidani Most - Šentilj d.m., se desarrolló únicamente por la vía derecha, según lo dispuesto en el Aviso n.º 278.3-20/2017.
 
-La gestión del tráfico ferroviario entre las estaciones de Poljčane y Slovenska Bistrica la realizan los jefes de estas dos estaciones; durante el cierre de una de las dos vías del tramo intermedio, también interviene el regulador de trenes, que ordena los cruces y adelantamientos de trenes durante el cierre.
+La gestión del tráfico ferroviario entre las estaciones de Poljčane y Slovenska Bistrica es realizada por los jefes de circulación de dichas dos estaciones; durante el periodo de cierre de una de las dos vías del tramo intermedio, interviene además el despachador de trenes, quien ordena los cruces y adelantamientos de trenes durante el cierre.
 
-El día 23.3.2018 salieron por la vía derecha, entre las estaciones de Poljčane y Slovenska Bistrica, dos trenes, cada uno desde su dirección de la línea. Desde la estación de Slovenska Bistrica salió el tren de mercancías n.º 93785 a las 13.33 horas y desde la estación de Poljčane salió el tren de mercancías n.º 45790 a las 13.32 horas.
+El 23.03.2018 fueron despachados por la vía derecha, entre las estaciones de Poljčane y Slovenska Bistrica, dos trenes desde direcciones opuestas de la línea. Desde la estación de Slovenska Bistrica salió el tren de mercancías n.º 93785 a las 13.33 horas, y desde la estación de Poljčane salió el tren de mercancías n.º 45790 a las 13.32 horas.
 
-Tras la entrada del tren de pasajeros n.º 4436 en la estación de Slovenska Bistrica, que circulaba desde la dirección de Poljčane, el jefe de estación de Slovenska Bistrica despachó el tren contrario n.º 93785. El regulador de trenes ordenó el cruce de los trenes contrarios n.º 2910, 4436 y 45790 con el cruce del n.º 93785 en la estación de Slovenska Bistrica. Los jefes de estación de Poljčane y Slovenska Bistrica se informaron del cruce acordado y lo confirmaron.
+Tras la entrada del tren de pasajeros n.º 4436 en la estación de Slovenska Bistrica, procedente de la dirección de Poljčane, el jefe de circulación de la estación de Slovenska Bistrica despachó el tren contrario n.º 93785. El despachador de trenes ordenó el cruce de los trenes contrarios n.os 2910, 4436 y 45790 con el tren n.º 93785 en la estación de Slovenska Bistrica. Los jefes de circulación de las estaciones de Poljčane y Slovenska Bistrica tomaron conocimiento del cruce acordado y lo confirmaron.
 
-El jefe de estación de Slovenska Bistrica despachó el tren de mercancías n.º 93785 desde la estación antes de que se ejecutara el cruce acordado con el tren n.º 45790 en la estación de Slovenska Bistrica. El jefe de estación de Poljčane despachó el tren n.º 45790 hacia la estación de Slovenska Bistrica conforme al cruce ordenado que había recibido del regulador de trenes. El jefe de estación de Poljčane despachó el tren n.º 45790 hacia la estación de Slovenska Bistrica sin haber solicitado ni recibido previamente la autorización del jefe de estación de Slovenska Bistrica. El contenido de las grabaciones telefónicas relativo a la ordenación de los cruces, así como a las cancelaciones y autorizaciones de circulación de trenes, no se transmitió entre los jefes de estación de Poljčane y Slovenska Bistrica y el regulador de trenes tal como está prescrito por el Reglamento de Tráfico.
+El jefe de circulación de la estación de Slovenska Bistrica despachó el tren de mercancías n.º 93785 fuera de la estación antes de que se ejecutara el cruce acordado con el tren n.º 45790 en la estación de Slovenska Bistrica. El jefe de circulación de la estación de Poljčane despachó el tren n.º 45790 hacia la estación de Slovenska Bistrica conforme al cruce ordenado, que había recibido del despachador de trenes. El jefe de circulación de la estación de Poljčane despachó el tren n.º 45790 hacia la estación de Slovenska Bistrica sin haber solicitado ni recibido previamente la autorización del jefe de circulación de la estación de Slovenska Bistrica. El contenido de las grabaciones telefónicas relativas a la ordenación de los cruces, así como a las cancelaciones y autorizaciones de marcha de los trenes, no fue transmitido entre los jefes de circulación de las estaciones de Poljčane y Slovenska Bistrica y el despachador de trenes tal como está prescrito por el Reglamento de Tráfico.
 
 El tren n.º 45790 partió de la estación de Poljčane hacia la estación de Slovenska Bistrica a las 13 horas 32 minutos.
 
-El vigilante del grupo de trabajo informó al jefe de estación de Slovenska Bistrica, tras recibir el aviso (notificación de circulación del tren) n.º 93785 desde la estación de Slovenska Bistrica, de que antes de dicha notificación - aviso, ya había sido despachado desde la estación de Poljčane un tren de mercancías por la misma vía.
+El vigilante del grupo de trabajo informó al jefe de circulación de la estación de Slovenska Bistrica, tras recibir el aviso (notificación de marcha del tren) n.º 93785 desde la estación de Slovenska Bistrica a las [hora ilegible], que antes de dicha notificación ya había sido despachado un tren de mercancías desde la estación de Poljčane por la misma vía.
 
 ## Página 8
 
-El jefe de estación de Poljčane, inmediatamente después de comprobar que dos trenes habían sido despachados desde extremos opuestos por la misma vía, notificó al despachador de trenes y solicitó la detención inmediata de ambos trenes.
+El jefe de estación de Poljčane, inmediatamente después de constatar que dos trenes habían sido despachados desde extremos opuestos por la misma vía, notificó al regulador de circulación y solicitó la detención inmediata de ambos trenes.
 
-El despachador de trenes llamó por radio — enlace de despacho a los maquinistas de los trenes n.º 45790 y 93785 y les exigió la detención inmediata de los trenes.
+El regulador de circulación llamó por radio-enlace de regulación a los maquinistas de los trenes n.º 45790 y 93785 y les exigió la detención inmediata de los trenes.
 
-La hora registrada del paso del tren n.º 45790 en el diario de tráfico del jefe de estación de Poljčane no coincide con la hora registrada en el dispositivo grabador sobre la marcha del tren en la locomotora 342-001. La hora en la locomotora está registrada 2 min y 48 segundos más tarde que la registrada en el diario de tráfico.
+La hora registrada del paso del tren n.º 45790 en el diario de circulación del jefe de estación de Poljčane no coincide con la hora registrada en el dispositivo grabador de marcha de la locomotora 342-001. La hora en la locomotora está registrada 2 minutos y 48 segundos más tarde que la registrada en el diario de circulación.
 
-La hora registrada de salida del tren n.º 93785 en el diario de tráfico del jefe de estación de Slovenska Bistrica no coincide con la hora registrada en el dispositivo grabador sobre la marcha del tren en la locomotora 2016-082. La hora en la locomotora está registrada 1 hora 6 min y 21 segundos antes de la hora registrada de salida en el diario de tráfico. La diferencia de 1 hora se debe al tiempo sistémico, que en las locomotoras propiedad de OBB no cambia durante la transición del horario de invierno al de verano; la diferencia restante en minutos y segundos surge debido a la falta de ajuste de la hora en las locomotoras, ya que la hora no se ajusta automáticamente a distancia mediante el sistema GMT.
+La hora registrada de salida del tren n.º 93785 en el diario de circulación del jefe de estación de Slovenska Bistrica no coincide con la hora registrada en el dispositivo grabador de marcha de la locomotora 2016-082. La hora en la locomotora está registrada 1 hora, 6 minutos y 21 segundos antes de la hora de salida registrada en el diario de circulación. La diferencia de 1 hora se debe al horario sistémico, que en las locomotoras propiedad de ÖBB no cambia durante la transición del horario de invierno al de verano; la diferencia restante en minutos y segundos surge debido a la falta de ajuste horario en las locomotoras, ya que la hora no se ajusta automáticamente a distancia mediante el sistema GMT.
 
-Tras la detención de ambos trenes, el jefe de estación de Slovenska Bistrica, mediante la intermediación del enlace del despachador de trenes por canal radio-despacho (RD), ordenó la retirada del tren
-
-n.º 93785 de vuelta a la estación de Slovenska Bistrica.
+Tras la detención de ambos trenes, el jefe de estación de Slovenska Bistrica, mediante la retransmisión del enlace del regulador de circulación por el canal de radio-regulación (RD), ordenó la retirada del tren n.º 93785 hacia atrás hasta la estación de Slovenska Bistrica.
 
 2.1 Fecha, hora exacta y lugar del suceso
-El paso de la estación de Poljčane del tren internacional de mercancías n.º 45790 fue registrado en el diario de tráfico a las 13.32 horas. El tren se detuvo entre las estaciones de Poljčane y Slovenska Bistrica en la vía derecha, tras recorrer 1702 m, en el pk 563.548, después de 4 min y 40 s de marcha, desde la señal de salida 1S-22 de la Estación de Poljčane.
+El paso de la estación de Poljčane del tren internacional de mercancías n.º 45790 fue registrado en el diario de circulación a las 13:32 horas. El tren se detuvo entre las estaciones de Poljčane y Slovenska Bistrica sobre la vía derecha, tras recorrer 1702 m, en el pk 563.548, después de 4 minutos y 40 segundos de marcha, desde la señal de salida 1S-22 de la Estación de Poljčane.
 
-La salida del tren n.º 93785 fue registrada en el diario de tráfico de la estación de Slovenska Bistrica a las 13.33 horas. El tren se detuvo en el pk 567.977, lo que supone 151 m desde la señal de entrada A-2 de la estación de Slovenska Bistrica. El tren recorrió 530 m desde el punto de partida en el pk 568.507 hasta la detención en vía abierta en el pk 567.977.
+La salida del tren n.º 93785 fue registrada en el diario de circulación de la estación de Slovenska Bistrica a las 13:33 horas. El tren se detuvo en el pk 567.977, lo que corresponde a 151 m detrás de la señal de entrada A-2 de la estación de Slovenska Bistrica. El tren recorrió 530 m desde el punto de partida en el pk 568.507 hasta la detención en vía libre en el pk 567.977.
 
 2.2 Descripción del suceso y del lugar del accidente o incidente
-El día 23.03.2018, a las 13.32 horas, el jefe de estación de Poljčane despachó por la vía derecha hacia la estación de Slovenska Bistrica el tren internacional de mercancías n.º 45790, y a las 13.33 horas, el jefe de dicha estación despachó por esta misma vía, desde la dirección opuesta, desde la estación de Slovenska Bistrica, el tren de mercancías n.º 93785. El tren n.º 45790 pertenecía al operador SŽ — Tovorni promet, d.o.o., y el tren n.º 93785 al operador RCC, d.o.o..
-
+El día 23.03.2018, a las 13:32 horas, el jefe de estación de Poljčane despachó por la vía derecha hacia la estación de Slovenska Bistrica el tren internacional de mercancías n.º 45790; a las 13:33 horas, el jefe de dicha estación despachó por esa misma vía, desde la dirección opuesta, desde la estación de Slovenska Bistrica, el tren de mercancías n.º 93785. El tren n.º 45790 pertenecía al operador SŽ — Tovorni promet, d.o.o., y el tren n.º 93785 al operador RCC, d.o.o.
 
 ## Página 9
+
 
 El día 23.3.2018 se llevaba a cabo entre las estaciones de Poljčane y Slovenska Bistrica un cierre de la vía izquierda, establecido mediante la Orden n.º 041/18, del 06.03.2018, con inicio a las 07.10 horas, tras el tren n.º 2800, y cuya finalización estaba prevista para el día 30.04.2018 a las 15.00 horas. Ese mismo día, en la estación de Poljčane también se realizaba un cierre de las vías de estación n.º 1, 2, 5, 101, 105, 201, 202 y 302 según la Orden 063/18.
 
@@ -264,8 +262,8 @@ Tras recibir el aviso — aviso previo sobre la marcha del tren n.º 93785 desde
 
 ordenó la retirada del tren n.º 93785 de vuelta a la estación de Slovenska Bistrica.
 
-
 ## Página 10
+
 
 Línea Poljčane - Slo. Bistrica
 
@@ -314,24 +312,22 @@ tare DA
 
 Figura n.º 5: La flecha azul muestra la circulación del tren n.º 93785 por la vía entre las estaciones de Slovenska Bistrica y Poljčane, a través de la zona de aparatos en el lado «A» de la estación de Slovenska Bistrica.
 
-2.3 Órgano que inició el procedimiento de investigación
+2.3 Organismo que inició el procedimiento de investigación
 
-El procedimiento de investigación de seguridad fue iniciado por el investigador principal de accidentes ferroviarios, del Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios, del Ministerio de Infraestructuras de la República de Eslovenia.
+El procedimiento de investigación de seguridad fue iniciado por el investigador principal de accidentes ferroviarios del Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios, del Ministerio de Infraestructuras de la República de Eslovenia.
 
-Slovenske železnice - Infrastruktura, d.o.o. inició un procedimiento de investigación mediante una comisión para determinar las causas y responsabilidades del accidente.
+Slovenske železnice - Infrastruktura, d.o.o. inició un procedimiento de investigación en forma de comisión para determinar las causas y responsabilidades del accidente.
 
-Conforme a lo establecido en la Ley de Procedimiento Penal, los agentes de la Comisaría de Policía de Slovenska Bistrica llevaron a cabo una investigación.
+Conforme a lo establecido en la Ley de Procedimiento Penal, la investigación fue llevada a cabo por agentes de la Comisaría de Policía de Slovenska Bistrica.
 
-Los procedimientos de investigación se dirigieron de forma separada.
+Los procedimientos de investigación se llevaron a cabo de forma separada.
 
 2.4 Decisión sobre la apertura de la investigación, composición del grupo de investigadores y dirección de la investigación
 
-El Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios, del Ministerio de Infraestructuras, abrió una investigación sobre el incidente —colisión evitada entre los trenes de mercancías internacionales n.º 45790 y 93785 en la vía derecha entre las estaciones de Poljčane y Slovenska Bistrica el 23.03.2018, basándose en el artículo 20 de la Ley de Seguridad en el Transporte Ferroviario, con el fin de determinar todas las causas directas e indirectas para proporcionar información relevante para la creación de recomendaciones de seguridad, para
-
-10
-
+El Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios del Ministerio de Infraestructuras abrió una investigación sobre el incidente —colisión evitada entre los trenes de mercancías internacionales n.º 45790 y 93785 en la vía derecha entre las estaciones de Poljčane y Slovenska Bistrica el 23.03.2018—, basándose en el artículo 20 de la Ley de Seguridad en el Transporte Ferroviario, con el fin de determinar todas las causas directas e indirectas para proporcionar información relevante destinada a formular recomendaciones de seguridad,
 
 ## Página 12
+
 
 aumentar la seguridad en la circulación de trenes durante los cierres diarios de la vía intermedia de líneas de doble vía.
 El investigador principal de accidentes e incidentes ferroviarios, del Ministerio de Infraestructuras de la República de Eslovenia, realizó y dirigió personalmente la investigación de seguridad.
@@ -358,102 +354,97 @@ Todos los participantes poseen la formación profesional reglamentaria requerida
 
 11
 
-
 ## Página 13
 
-2.5.2 Trenes y su composición, incluidos los números de registro de las unidades móviles implicadas
+2.5.2 Trenes y su composición, incluidos los números de registro de las unidades individuales de los vehículos implicados
 
-El tren de mercancías internacional n.º 45790 circulaba con una composición de 22 vagones y la locomotora 91 79 1 342001-7, con una masa total de 655 t, 92 ejes y una longitud de 349 m.
+El tren internacional de mercancías n.º 45790 circulaba con una composición de 22 vagones y la locomotora 91 79 1 342001-7, con una masa total de 655 t, 92 ejes y una longitud de 349 m.
 
 El tren de mercancías n.º 93785 circulaba con una composición de 16 vagones, 48 ejes y la locomotora 92812016082-7, con una masa total de 712 t, 48 ejes y una longitud de 452 m.
 
-2.5.3 Descripción de la infraestructura y del sistema de señalización (tipo de vías, aparatos de cambio, barreras, señales, protección de trenes)
-Equipo de señalización y seguridad de la estación de Poljčane
+2.5.3 Descripción de la infraestructura y del sistema de señalización (tipo de vías, agujas, barreras, señales, protección de trenes)
+Dispositivo de seguridad por señales de la estación de Poljčane
 
-La estación de Poljčane está protegida por un equipo electro-relé de señalización y seguridad (en adelante ERSVn) del sistema de técnica de seguimiento ISKRA Sl-Te-l-30, que permite la protección, inspección y control de las rutas de trenes y maniobras desde un único punto mediante una mesa de encaminamiento instalada en la oficina de tráfico. El equipo incluye todas las vías principales con sus aparatos de cambio, señales principales, semáforos previos, señales límite de vía, señales de maniobra y dispositivos para la protección de pasos a nivel. El ERSVn está complementado con el sistema ISKRA TRIS CTC (sistema de gestión del tráfico ferroviario que permite la gestión del tráfico en la estación de Poljčane y la gestión remota de estaciones y puestos de servicio integrados en el sistema TRIS).
+La estación de Poljčane está protegida por un dispositivo electromecánico de seguridad por señales (en adelante ERSVn) del sistema de técnica de seguimiento ISKRA Sl-Te-l-30, que permite la protección, inspección y control de las rutas de circulación y maniobra desde un único punto mediante una mesa de enclavamiento instalada en la oficina de tráfico. El dispositivo incluye todas las vías principales con sus agujas, señales principales, semáforos previos, señales de límite de vía, señales de maniobra y dispositivos para la protección de pasos a nivel. El ERSVn está complementado con el sistema ISKRA TRIS CTC (sistema de gestión del tráfico ferroviario que permite la dirección del tráfico en la estación de Poljčane y la dirección remota de estaciones y puestos de servicio integrados en el sistema TRIS).
 
-Todas las señales principales de la estación de Poljčane son luminosas. Las señales vuelven automáticamente a su posición normal cuando la cabecera del tren sobrepasa la señal aproximadamente entre 50 y 100 m (circuitos de ocupación en el siguiente aislador tras la señal en sentido de marcha). La intensidad luminosa de las luces de señal en todas las señales puede ajustarse según las condiciones de luz (día o noche).
+Todas las señales principales de la estación de Poljčane son luminosas. Las señales vuelven automáticamente a su posición normal cuando la cabecera del tren recorre aproximadamente entre 50 y 100 m tras pasar la señal (cruzando otro aislador situado detrás de la señal en sentido de marcha). La intensidad luminosa de las luces de las señales en todas las señales puede ajustarse según las condiciones de luz (día o noche).
 
 SEÑALES DE ENTRADA Y SEMÁFOROS PREVIOS
 
-- La señal de entrada A1 se encuentra en el pk 560.007, en el lado izquierdo de la línea. Está situada a 564 m del aparato de cambio de entrada n.º 2 y permite la entrada a las vías 1, 2, 303 y 4;
+- La señal de entrada A1 se encuentra en el pk 560.007, al lado izquierdo de la línea. Está situada a 564 m de la aguja de entrada n.º 2 y permite la entrada a las vías 1, 2, 303 y 4;
 
-- El semáforo previo PA1 se encuentra en el lado izquierdo de la línea en el pk 559.007, a 1000 m de la señal de entrada A1;
+- El semáforo previo PA1 se encuentra al lado izquierdo de la línea en el pk 559.007, a 1000 m de la señal de entrada A1;
 
-- La señal de entrada A2 se encuentra en el pk 560.007, en el lado derecho de la línea. Está situada a 491 m del aparato de cambio de entrada n.º 1 y permite la entrada desde la vía derecha incorrecta a las vías 1, 2, 303 y 4;
+- La señal de entrada A2 se encuentra en el pk 560.007, al lado derecho de la línea. Está situada a 491 m de la aguja de entrada 1 y permite la entrada desde la vía derecha contraria a las vías 1, 2, 303 y 4;
 
-- El semáforo previo PA 2 se encuentra en el lado derecho de la línea en el pk 559.007. Está situado a 1000 m de la señal de entrada A2;
+- El semáforo previo PA 2 se encuentra al lado derecho de la línea en el pk 559.007. Está situado a 1000 m de la señal de entrada A2;
 
-- La señal de entrada B1 se encuentra en el pk 562.470, en el lado derecho de la línea. Está situada a 545 m del aparato de cambio de entrada n.º 16 y permite la entrada a las vías 1, 2 y 302. La señal de entrada está equipada con un indicador para la entrada hasta la señal límite de vía;
+- La señal de entrada B1 se encuentra en el pk 562.470, al lado derecho de la línea. Está situada a 545 m de la aguja de entrada n.º 16 y permite la entrada a las vías 1, 2 y 302. La señal de entrada está equipada con un indicador para la entrada hasta la señal de límite de vía;
 
-- La señal de entrada B2 se encuentra en el pk 562.470, en el lado izquierdo de la línea. Está situada a 471 m del aparato de cambio de entrada n.º 17 y permite la entrada desde la vía izquierda incorrecta a las vías 1, 2, 302, 303, 3 y 4; la señal de entrada está equipada con un indicador para la entrada hasta la señal límite de vía;
+- La señal de entrada B2 se encuentra en el pk 562.470, al lado izquierdo de la línea. Está situada a 471 m de la aguja de entrada n.º 17 y permite la entrada desde la vía izquierda contraria a las vías 1, 2, 302, 303, 3 y 4; la señal de entrada está equipada con un indicador para la entrada hasta la señal de límite de vía;
 
 12
 
 ## Página 14
 
-- el presignal PB1 se encuentra en el lado derecho de la vía en el km 563.425. Está situado a 955 m del señal de entrada B1;
+- el presensor PB1 se encuentra en el lado derecho de la vía en el pk 563.425. Está situado a 955 m del sensor de entrada B1;
 
-- el presignal PB2 se encuentra en el lado izquierdo de la vía en el km 563.474. Está situado a 1004 m del señal de entrada B2.
+- el presensor PB2 se encuentra en el lado izquierdo de la vía en el pk 563.474. Está situado a 1004 m del sensor de entrada B2.
 
-En todas las señales de entrada es posible activar la indicación luminosa 9: «Marcha prudente».
+En todos los sensores de entrada es posible activar la señalización 9: «Marcha prudente».
 
-Los presignales están equipados con indicadores de presignalización que muestran la indicación luminosa 25:
+Los presensores están equipados con indicadores de presensor, que muestran la señalización 25: «Identificación del presensor», y anunciadores de presensor, que muestran la señalización 27: «Atención al presensor».
 
-«Identificación del presignal» e indicadores de presignal que muestran la indicación luminosa 27:
+SENSORES DE SALIDA
 
-«Espere un presignal».
+Sensores de salida para la dirección Zidani most:
 
-SEÑALES DE SALIDA
+- el sensor de salida colectivo S-21 se encuentra en el pk 560.712, sobre la estructura del puente, y se utiliza para las salidas de trenes desde la vía 1 y la 2/302,
 
-Señales de salida para dirección Zidani most:
+- el sensor de salida colectivo S-31 se encuentra en el pk 560.712, sobre la estructura del puente, y se utiliza para las salidas de trenes desde las vías 3 y 4.
 
-- la señal de salida colectiva S-21 se encuentra en el km 560.712, sobre la estructura del puente y se utiliza para las salidas de trenes desde la vía 1 y 2/302,
+Sensores de salida para la dirección Maribor:
 
-- la señal de salida colectiva S-31 se encuentra en el km 560.712, sobre la estructura del puente y se utiliza para las salidas de trenes desde las vías 3 y 4.
+- el sensor de salida 12 se encuentra en el pk 561.781, en el lado derecho de la vía n.º 1, y se utiliza para las salidas de trenes desde la vía 1;
 
-Señales de salida para dirección Maribor:
+- el sensor de salida 22 se encuentra en el pk 561.846, en el lado derecho de la vía n.º 2, y se utiliza para las salidas de trenes desde la vía 2;
 
-- la señal de salida 12 se encuentra en el km 561.781, en el lado derecho de la vía n.º 1 y se utiliza para las salidas de trenes desde la vía 1;
+- el sensor de salida 32 se encuentra en el pk 561,745, en el lado derecho de la vía n.º 3, y se utiliza para las salidas de trenes desde la vía n.º 3;
 
-- la señal de salida 22 se encuentra en el km 561.846, en el lado derecho de la vía n.º 2 y se utiliza para las salidas de trenes desde la vía 2;
+- el sensor de salida 42 se encuentra en el pk 561.734, en el lado derecho de la vía n.º 4, y se utiliza para las salidas de trenes desde la vía n.º 4.
 
-- la señal de salida 32 se encuentra en el km 561,745, en el lado derecho de la vía n.º 3 y se utiliza para las salidas de trenes desde la vía n.º 3;
+En todos los sensores de salida es posible activar la señalización 9: «Marcha prudente».
 
-- la señal de salida 42 se encuentra en el km 561.734, en el lado derecho de la vía n.º 4 y se utiliza para las salidas de trenes desde la vía n.º 4.
+REPETIDORES DE PRESEÑALIZACIÓN
 
-En todas las señales de salida es posible activar la indicación luminosa 9: «Marcha prudente».
+- El repetidor de preseñalización PPS-21 se encuentra en el pk 561.108,
 
-REPETIDORES DE PRESIGNALIZACIÓN
+- El repetidor de preseñalización PPS-31 se encuentra en el pk 561.108.
 
-- El repetidor de presignalización PPS-21 se encuentra en el km 561.108,
+SENSORES DE LÍMITE DE VÍA
 
-- El repetidor de presignalización PPS-31 se encuentra en el km 561.108.
+- El sensor de límite de vía M11 se encuentra en el lado derecho de la vía 1, en el pk 561.208.
 
-SEÑALES LÍMITE DE VÍA
+- El sensor de límite de vía M21 se encuentra en el lado derecho de la vía 2, en el pk 561.186.
 
-- La señal límite de vía M11 se encuentra en el lado derecho de la vía 1, en el km 561.208.
+- El sensor de límite de vía M3031 se encuentra en el lado derecho de la vía 303, en el pk 561.349.
 
-- La señal límite de vía M21 se encuentra en el lado derecho de la vía 2, en el km 561.186.
+- El sensor de límite de vía M41 se encuentra en el lado derecho de la vía 4, en el pk 561.349.
 
-- La señal límite de vía M3031 se encuentra en el lado derecho de la vía 303, en el km 561.349.
+- El sensor de límite de vía M32 se encuentra en el lado derecho de la vía 3, en el pk 561.281.
 
-- La señal límite de vía M41 se encuentra en el lado derecho de la vía 4, en el km 561.349.
+SENSORES DE MANIOBRA
 
-- La señal límite de vía M32 se encuentra en el lado derecho de la vía 3, en el km 561.281.
+En la estación de Poljčane están instalados los siguientes sensores de maniobra:
 
-SEÑALES DE MANIOBRA
+- 1V en el pk 560.490, -2D en el pk 560.511,
 
-En la estación de Poljčane están instaladas las siguientes señales de maniobra:
-
-- 1V en el km 560.490, -2D en el km 560.511,
-
-- 3L en el km 560.713, -4V en el km 560.713,
+- 3L en el pk 560.713, -4V en el pk 560.713,
 
 13
 
-
 ## Página 15
+
 
 - 5V en el km 561.116; -6L en el km 561.112;
 
@@ -485,85 +476,84 @@ Las cerraduras portátiles están fundidas en el armario de instalación, en la 
 Dos palancas para accionar agujas con accionamiento hidráulico se guardan en el armario de instalación en la oficina de tráfico.
 14
 
-
 ## Página 16
 
-Dispositivo de seguridad señalética de la estación de Slovenska Bistrica
+Dispositivo de seguridad de señales de la estación de Slovenska Bistrica
 
-La estación está protegida por un dispositivo de seguridad señalético electro-relé (en adelante ERSVn) del sistema SL-Te-l-30, que funciona según el sistema de técnica de seguimiento. El dispositivo es central; la mesa de enclavamiento está instalada en la oficina de tráfico.
+La estación está protegida por un dispositivo eléctrico de relés para señales y seguridad (en adelante, ERSVn) del sistema SL-Te-l-30, que funciona según el sistema de técnica de seguimiento. El dispositivo es una mesa central de enclavamiento instalada en la oficina de tráfico.
 
-Están integrados en el dispositivo todas las vías principales con sus agujas, las señales principales, los presignales, las señales de maniobra y los dispositivos de protección de los pasos a nivel.
+En el dispositivo están incluidos todos los desvíos principales con sus agujas, las señales principales, las señales de aviso, las señales de maniobra y los dispositivos de protección de los pasos a nivel.
 
-Todas las señales principales de la estación de Slovenska Bistrica son luminosas. Las señales vuelven automáticamente a su posición normal inmediatamente después de que la cabeza del tren haya recorrido una distancia de 50 a 100 m desde la señal (se refieren al siguiente aislador tras la señal en sentido de marcha). La intensidad luminosa de las luces de señal en todas las señales puede adaptarse a las condiciones lumínicas (día, noche).
+Todas las señales principales de la estación de Slovenska Bistrica son luminosas. Las señales vuelven automáticamente a su posición normal inmediatamente después de que la cabecera del tren haya recorrido una distancia de 50 a 100 m desde la señal (se refiere al siguiente aislador situado detrás de la señal en sentido de marcha). La intensidad luminosa de las luces de señal en todas las señales puede ajustarse a las condiciones de luz (día, noche).
 
-SEÑALES DE ENTRADA Y PRESIGNALES
+SEÑALES DE ENTRADA Y SEÑALES DE AVISO
 
-- La señal de entrada A1 se encuentra en el km 568.128, en el lado izquierdo de la vía. Está situada a 287 m de la aguja de entrada n.º 2 y permite las entradas a las vías 2 y 3;
+- la señal de entrada A1 se encuentra en el pk 568.128, en el lado izquierdo de la vía. Está situada a 287 m del desvío de entrada n.º 2 y permite las entradas a las vías 2 y 3;
 
-- El presignal PA1 se encuentra en el lado izquierdo de la vía en el km 567.113. Está situado a 1015 m de la señal de entrada A1;
+- la señal de aviso PA1 se encuentra en el lado izquierdo de la vía en el pk 567.113. Está situada a 1015 m de la señal de entrada A1;
 
-- La señal de entrada A2 se encuentra en el km 568.128, en el lado derecho de la vía. Está situada a 212 m de la aguja de entrada n.º 1 y permite las entradas desde la falsa vía derecha a las vías n.º 2, 3 y 4;
+- la señal de entrada A2 se encuentra en el pk 568.128, en el lado derecho de la vía. Está situada a 212 m del desvío de entrada n.º 1 y permite las entradas desde la vía contraria derecha a las vías n.º 2, 3 y 4;
 
-- El presignal PA2 se encuentra en el lado derecho de la vía en el km 567.113. Está situado a 1015 m de la señal de entrada A2;
+- la señal de aviso PA2 se encuentra en el lado derecho de la vía en el pk 567.113. Está situada a 1015 m de la señal de entrada A2;
 
-- La señal de entrada B1 se encuentra en el km 569.541, en el lado derecho de la vía. Está situada a 230 m de la aguja de entrada n.º 10 y permite las entradas a las vías 2, 3 y 4;
+- la señal de entrada B1 se encuentra en el pk 569.541, en el lado derecho de la vía. Está situada a 230 m del desvío de entrada n.º 10 y permite las entradas a las vías 2, 3 y 4;
 
-- La señal de entrada B2 se encuentra en el km 569.541, en el lado izquierdo de la vía. Está situada a 301 m de la aguja de entrada n.º 9 y permite las entradas desde la falsa vía a las vías n.º 2 y 3;
+- la señal de entrada B2 se encuentra en el pk 569.541, en el lado izquierdo de la vía. Está situada a 301 m del desvío de entrada n.º 9 y permite las entradas desde la vía contraria a las vías n.º 2 y 3;
 
-- El presignal PB1 se encuentra en el lado derecho de la vía en el km 570.957. Está situado a 1416 m de la señal de entrada B1;
+- la señal de aviso PB1 se encuentra en el lado derecho de la vía en el pk 570.957. Está situada a 1416 m de la señal de entrada B1;
 
-- El presignal PB2 se encuentra en el lado izquierdo de la vía en el km 570.957. Está situado a 1416 m de la señal de entrada B2.
+- la señal de aviso PB2 se encuentra en el lado izquierdo de la vía en el pk 570.957. Está situada a 1416 m de la señal de entrada B2.
 
-En todas las señales de entrada principales es posible activar la indicación luminosa 9: «Marcha prudente».
+En todas las señales principales de entrada es posible activar la indicación de señal n.º 9: «Marcha prudente».
 
-SEÑALES DE SALIDA Señales de salida para dirección Zidani most:
+SEÑALES DE SALIDA Señales de salida en dirección a Zidani most:
 
-- La señal de salida 21 se encuentra en el km 568.562, en el lado derecho de la vía n.º 2 y es válida para las salidas de trenes desde la vía n.º 2,
+- la señal de salida 21 se encuentra en el pk 568.562, en el lado derecho de la vía n.º 2 y es válida para las salidas de trenes desde la vía n.º 2,
 
-- La señal de salida 31 se encuentra en el km 568.502, en el lado derecho de la vía 3 y es válida para las salidas de trenes desde la vía n.º 3,
+- la señal de salida 31 se encuentra en el pk 568.502, en el lado derecho de la vía 3 y es válida para las salidas de trenes desde la vía n.º 3,
 
-- La señal de salida 41 se encuentra en el km 568.450 en el lado derecho de la vía 4 y es válida para las salidas de trenes desde la vía n.º 4.
+- la señal de salida 41 se encuentra en el pk 568.450, en el lado derecho de la vía 4 y es válida para las salidas de trenes desde la vía n.º 4.
 
-Señales de salida para dirección Maribor:
+Señales de salida en dirección a Maribor:
 
 15
 
 ## Página 17
 
-- la señal de salida 22 se encuentra en el km 569.159, al lado derecho de la vía 2 y es válida para las salidas de trenes desde la vía n.º 2;
-- la señal de salida 32 se encuentra en el km 569.159, al lado derecho de la vía 3 y es válida para las salidas de trenes desde la vía n.º 3
-- la señal de salida 42 se encuentra en el km 569.246, al lado derecho de la vía 4 y es válida para las salidas de trenes desde la vía n.º 4, sobre la vía derecha incorrecta.
+- la señal de salida 22 se encuentra en el punto kilométrico 569.159, al lado derecho de la vía 2 y es válida para las salidas de trenes desde la vía n.º 2;
+- la señal de salida 32 se encuentra en el punto kilométrico 569.159, al lado derecho de la vía 3 y es válida para las salidas de trenes desde la vía n.º 3
+- la señal de salida 42 se encuentra en el punto kilométrico 569.246, al lado derecho de la vía 4 y es válida para las salidas de trenes desde la vía n.º 4, sobre la vía derecha incorrecta.
 
 En todas las señales de salida es posible activar la señalización 9: «Marcha prudente».
 SEÑALES DE MANIOBRA
-Las agujas n.º 1, 2, 3, 8, 9 y 10 así como los desvíos R1 y R2 están protegidos por señales de maniobra. Las señales se designan según los números de las agujas que protegen y según el lado de protección de la aguja (L - hoja izquierda, D - hoja derecha, V - punta).
-Las señales de maniobra son: 1V en el km 568.318, 2D en el km 568.355, 1D en el km 568.451, 3D en el km 568.503, 4D en el km 568.564, 5D en el km 568.567, 5L en el km 568.591, 8L en el km 569.157, 8D en el km 569.157, 9L en el km 569.299, 10L en el km 569.244 y 10V en el km 569.320.
+Los cambios de aguja n.º 1, 2, 3, 8, 9 y 10 así como los apartaderos R1 y R2 están protegidos por señales de maniobra. Las señales se identifican según los números de los cambios de aguja que protegen y según el lado de protección del cambio de aguja (L - rama izquierda, D - rama derecha, V - punta).
+Las señales de maniobra son: 1V en el p.k. 568.318, 2D en el p.k. 568.355, 1D en el p.k. 568.451, 3D en el p.k. 568.503, 4D en el p.k. 568.564, 5D en el p.k. 568.567, 5L en el p.k. 568.591, 8L en el p.k. 569.157, 8D en el p.k. 569.157, 9L en el p.k. 569.299, 10L en el p.k. 569.244 y 10V en el p.k. 569.320.
 El límite de maniobra está instalado en:
 
-A lado de la estación, en el km 568.268, junto a la vía izquierda y
+A lado de la estación, en el p.k. 568.268, junto a la vía izquierda y
 
-B lado de la estación, en el km 569.396, junto a la vía derecha e izquierda.
+B lado de la estación, en el p.k. 569.396, junto a la vía derecha e izquierda.
 
-Todas las agujas en las vías principales de circulación están integradas en el ERSVn, se accionan centralmente y están en dependencia con las señales principales.
+Todos los cambios de aguja en las vías principales de circulación están integrados en el ERSVn, se conmutan de forma centralizada y están en dependencia con las señales principales.
 
-Las agujas 1, 2, 3, 8, 9 y 10 están equipadas con accionamiento hidráulico, mientras que las agujas 4 y 5 están equipadas con accionamientos electromecánicos.
+Los cambios de aguja 1, 2, 3, 8, 9 y 10 están equipados con accionamiento hidráulico, mientras que los cambios de aguja 4 y 5 están equipados con accionamientos electromecánicos.
 
-Las agujas Z 6 y 7 son agujas manuales que se disponen in situ.
+Los cambios de aguja Z 6 y 7 son cambios de aguja manuales que se disponen in situ.
 
-La posición normal de las agujas Z y 6 es desviada, mientras que la de la aguja 7 es directa.
+La posición normal de los cambios de aguja Z y 6 es desviada, mientras que la del cambio de aguja 7 es directa.
 
-La aguja Z está en dependencia de llave con el desvío RZ. La llave del desvío RZ se encuentra en un armario en la oficina de tráfico.
+El cambio de aguja Z está en dependencia de llave con el apartadero RZ. La llave del apartadero RZ se encuentra en un armario en la oficina de tráfico.
 
-La aguja n.º 6 no está protegida y está equipada con una señal de aguja que no está iluminada durante la noche.
+El cambio de aguja n.º 6 no está protegido y está equipado con una señal de cambio de aguja que no está iluminada durante la noche.
 
-La aguja n.º 7 está protegida por un cerrojo de aguja y está en dependencia con el dispositivo de seguridad mediante el cerrojo eléctrico EK 7 y en dependencia con el desvío R3. La llave del desvío R3 se encuentra en el cerrojo eléctrico EK 7 junto al desvío.
+El cambio de aguja n.º 7 está protegido por un cerrojo de cambio de aguja y está en dependencia con el dispositivo de seguridad mediante el cerrojo eléctrico EK 7 y en dependencia con el apartadero R3. La llave del apartadero R3 se encuentra en el cerrojo eléctrico EK 7 junto al apartadero.
 
-La aguja n.º 7 está equipada con una señal de aguja recubierta con material reflectante. Asimismo, el desvío R3 está equipado con una señal de forma recubierta con material reflectante. Los desvíos R1 y R2 están equipados con accionamiento eléctrico y se maniobran desde la mesa de enclavamiento, pulsando las teclas correspondientes. Los desvíos R1 y R2 están en dependencia con el ERSVn.
+El cambio de aguja n.º 7 está equipado con una señal de cambio de aguja recubierta con material reflectante. Asimismo, el apartadero R3 está equipado con una señal de perfil recubierta con material reflectante. Los apartaderos R1 y R2 están equipados con accionamiento eléctrico y se conmutan desde la mesa de enclavamiento, pulsando las teclas correspondientes. Los apartaderos R1 y R2 están en dependencia con el ERSVn.
 
 16
 
-
 ## Página 18
+
 
 Las agujas 1, 2, 3, 4, 5, 7, 8, 9 y 10 se calientan eléctricamente. El manejo de los dispositivos de calentamiento está regulado en la Instrucción para el manejo de dispositivos eléctricos de calentamiento de agujas.
 
@@ -612,13 +602,14 @@ Sobre la mesa del agente de circulación hay una consola digital TK SIEMENS NEUM
 - conexión para el control remoto de la megafonía de servicio en el apeadero Dolga Gora.
 17
 
-
 ## Página 19
 
-En la oficina de tráfico hay en la pared un teléfono auxiliar SD1 (teléfono inductivo) para la comunicación con el personal en la línea con las siguientes conexiones:
-- línea de tráfico (de guardia) Ponikva — Poljčane;
+En la oficina de tráfico, en la pared, hay un teléfono auxiliar SD1 (teléfono inductivo) para
 
-- línea de tráfico (de guardia) Poljčane - Slovenska Bistrica;
+la comunicación con el personal en vía, con las siguientes conexiones:
+- línea de tráfico (guardagujas) Ponikva — Poljčane;
+
+- línea de tráfico (guardagujas) Poljčane - Slovenska Bistrica;
 
 - línea operativa OV 364 Zidani most — Maribor;
 
@@ -630,35 +621,34 @@ En la oficina de tráfico hay en la pared un teléfono auxiliar SD1 (teléfono i
 
 - línea eléctrica;
 
-- línea de señalización y
+- línea de señales y
 
 línea de accidentes.
 
-Las líneas de guardia y de entrada tienen, además de la llamada luminosa en la consola TK, una señal acústica en el teléfono auxiliar de pared.
+Las líneas de guardagujas y de entrada tienen, además de la llamada luminosa en el panel TK, una señal acústica en el teléfono auxiliar de pared.
 
-En la oficina de tráfico, en el puesto de trabajo del agente de circulación, hay un ordenador personal conectado a la red informática de Slovenske železnice. Al ordenador está conectado un aparato impresora/fax con el número 25473. El ordenador está equipado con un programa para recibir y enviar correo electrónico. El agente de circulación puede conectarse al ISSŽP a través de la aplicación MPC.
+En la oficina de tráfico, en el puesto del agente de circulación, hay un ordenador personal conectado a la red informática de los Ferrocarriles Eslovenos. Al ordenador está conectado un aparato impresora/fax con el número 25473. El ordenador está equipado con un programa para recibir y enviar correo electrónico. El agente de circulación puede conectarse al ISSŽP mediante la aplicación MPC.
 
 En el ordenador personal son posibles las aplicaciones:
 
 MS Office con correo electrónico;
 
 - cliente para Maper (MPC);
-
 - programa Roman Anywhere para visualizar el gráfico electrónico del tráfico de trenes;
 - intranet;
-
 - editor - Adobe reader para archivos pdf;
-
 - sistema GES - envío de telegramas, notificación de averías, etc.
-El agente de circulación utiliza su tarjeta de identificación y código PIN al desempeñar sus funciones y tareas.
+El agente de circulación utiliza su tarjeta de identificación y código PIN al realizar sus trabajos y tareas.
 
 APARATOS DE RADIO POR TIPOS Y FINALIDAD
-La línea Zidani most — Šentilj, d.m., está equipada con aparatos RDZ en modo A canal 63. La conexión entre el agente de circulación y el maquinista la establece el jefe de circulación PO Maribor.
+La línea Zidani most — Šentilj, d.m., está equipada con aparatos RDZ en modo A canal
+
+63. La conexión entre el agente de circulación y el maquinista la establece el despachador de trenes PO Maribor.
 
 APARATOS DE GRABACIÓN DE CONVERSACIONES
-En la estación de Poljčane hay un registrador de marca ATIS MDR 2000 y dispone de 8 canales de grabación:
+En la estación de Poljčane hay un aparato registrador designado ATIS MDR 2000 que tiene 8 canales de grabación:
 
-- canal 1 consola PTS Poljčane;
+- canal 1 PTS panel Poljčane;
 
 18
 
@@ -667,27 +657,27 @@ En la estación de Poljčane hay un registrador de marca ATIS MDR 2000 y dispone
 - canal 2 PTS consola Ponikva;
 - canal 3 PTS consola Dolga Gora y
 
-- canal 5 guardagujas Poljčane - Ponikva.
+- canal 5 vigilante de paso a nivel Poljčane - Ponikva.
 
-El control del funcionamiento del registrador de voz lo ejerce el agente de estación de Poljčane a través de la unidad de alarma del registrador de voz.
+El control del funcionamiento del registrador de voz lo tiene el agente de estación de Poljčane a través de la unidad de alarma del registrador de voz.
 
 En caso de interrupción de la grabación, se enciende un diodo LED rojo en la unidad de alarma del registrador de voz y suena un pitido acústico continuo. El agente puede silenciar el pitido pulsando la tecla correspondiente en la unidad de alarma, pero la luz roja permanece encendida mientras la grabación esté interrumpida.
 
-El agente debe notificar inmediatamente cualquier avería del registrador de voz al técnico de mantenimiento competente y a todos los puestos de servicio cuyos teléfonos estén conectados a las líneas telefónicas incluidas en el registrador. El tiempo de conservación de las conversaciones grabadas es de un mínimo de 48 horas.
+El agente debe notificar inmediatamente al técnico de mantenimiento competente y a todos los puestos de servicio cuyos teléfonos estén conectados a las líneas telefónicas incluidas en el registrador de voz sobre cualquier avería del mismo. El tiempo de conservación de las conversaciones grabadas es de un mínimo de 48 horas.
 
-La reproducción de las conversaciones grabadas la realizan los empleados autorizados de la inspección interna. La central ŽAT se encuentra en la estación de Pragersko. El puesto de trabajo del agente en la estación de Poljčane está equipado con un teléfono ŽAT, que está integrado en la red ŽAT. El puesto de trabajo de la taquilla de pasajeros está equipado con un teléfono ŽAT, que está integrado en la red ŽAT. Los números de teléfono están registrados en la guía telefónica interna de SŽ.
+La reproducción de las conversaciones grabadas la realizan los trabajadores autorizados del control interno. La centralita ŽAT se encuentra en la estación de Pragersko. El puesto de trabajo del agente en la estación de Poljčane está equipado con un teléfono ŽAT conectado a la red ŽAT. El puesto de trabajo de la taquilla de pasajeros está equipado con un teléfono ŽAT conectado a la red ŽAT. Los números de teléfono están registrados en la guía telefónica interna de SŽ.
 
-ANUNCIA PÚBLICO
+SONORIZACIÓN PÚBLICA
 
-Lo utiliza el agente y está destinado a informar a los pasajeros sobre llegadas, salidas y retrasos de trenes, así como otras noticias relacionadas con desviaciones respecto al horario o la seguridad de los pasajeros.
+La utiliza el agente y está destinada a informar a los pasajeros sobre llegadas, salidas y retrasos de trenes, así como otras comunicaciones relacionadas con desviaciones respecto al horario o la seguridad de los pasajeros.
 
-Para la megafonía pública se han instalado doce altavoces: 4 altavoces en el poste de iluminación eléctrica del andén isla n.º 2, 2 altavoces en el edificio de la estación y 3 altavoces en el almacén de mercancías para el andén 1. En los espacios interiores hay instalados altavoces en el vestíbulo, la sala de espera y la taquilla de pasajeros.
+Para la sonorización pública se han instalado doce altavoces: 4 altavoces en el poste de iluminación eléctrica del andén isla n.º 2, 2 altavoces en el edificio de la estación y 3 altavoces en el almacén de mercancías para el andén 1. En los espacios interiores hay instalados altavoces en el vestíbulo, la sala de espera y la taquilla de pasajeros.
 
-ANUNCIA DE SERVICIO
+SONORIZACIÓN DE SERVICIO
 
-La utiliza el agente y está destinada a informar al personal de estación y de tren, así como al personal de otros servicios durante la realización de sus tareas en el área de la estación. Las noticias transmitidas de esta forma no se consideran un método fiable de comunicación, ya que no existe retroalimentación sobre la recepción de la noticia.
+La utiliza el agente y está destinada a informar al personal de estación y de tren, así como al personal de otros servicios durante la realización de sus trabajos en el ámbito de la estación. Dichas comunicaciones no se consideran un medio fiable de información, ya que no existe confirmación de recepción por parte del destinatario.
 
-Los altavoces para la megafonía de servicio se encuentran:
+Los altavoces para la sonorización de servicio se encuentran:
 
 lado A de la estación:
 
@@ -696,35 +686,36 @@ lado A de la estación:
 lado B de la estación:
 - junto a la rampa de carga de la vía 105;
 
-- junto al cambio n.º 9;
+- junto al desvío número 9;
 19
-
 
 ## Página 21
 
-- junto a la señal de salida 42;
-- junto al cambio 12 y
+- en la señal de salida 42;
+- en el desvío 12 y
 
-- junto al cambio 17.
+- en el desvío 17.
 
-La megafonía pública y de servicio debe estar siempre ajustada a la intensidad adecuada (especialmente durante la noche) y no debe utilizarse para otros fines si no ha sido especificado expresamente.
+La megafonía pública y de servicio debe estar siempre ajustada a un volumen adecuado (especialmente durante el horario nocturno) y no puede utilizarse para otros fines, salvo que esté expresamente autorizado.
 
 En la estación de Slovenska Bistrica están instalados los siguientes dispositivos — telefónicos
 
 de telecomunicaciones (TK):
 
-- Consola TK del agente tipo NEUMANN, en la oficina de tráfico con megafonía para la comunicación en el sistema de los Ferrocarriles Eslovenos y posibilidad de conexión a la red Telekom,
-- Panel telefónico mural para conexiones SLB - teléfonos auxiliares,
+- Consola TK del agente de circulación tipo NEUMANN, en la oficina de tráfico con megafonía para las comunicaciones en el sistema de los Ferrocarriles Eslovenos (Slovenske železnice) y posibilidad de conexión a la red
+
+Telekom,
+- Panel telefónico mural para S LB conexiones - teléfonos auxiliares,
 
 - Teléfonos en armarios telefónicos junto a las señales de entrada y salida y en la vía.
 
-Están integrados en la consola de telecomunicaciones:
+Están conectados a la consola de telecomunicaciones:
 
-- Línea de tráfico (guardagujas) Slovenska Bistrica — Poljčane;
-- Línea de tráfico (guardagujas) Slovenska Bistrica — Pragersko;
+- Línea de tráfico (guarda) Slovenska Bistrica — Poljčane;
+- Línea de tráfico (guarda) Slovenska Bistrica — Pragersko;
 - Línea de despacho;
 
-- Línea operativa 364;
+- Línea de maniobras 364;
 
 - Señal de entrada A1;
 
@@ -740,99 +731,119 @@ Están integrados en la consola de telecomunicaciones:
 
 - ŽAT 25401.
 
-Las líneas de guardagujas y de entrada disponen, además de la llamada luminosa en la consola TK, de una señal acústica en el panel telefónico mural.
+Las líneas de guarda y de entrada disponen, además de la llamada luminosa en la consola TK, de una señal acústica en el panel telefónico mural,
 
-En la estación de Slovenska Bistrica es posible establecer comunicaciones telefónicas hacia redes fijas en el territorio de la República de Eslovenia y hacia redes móviles.
+En la estación de Slovenska Bistrica es posible establecer comunicaciones telefónicas con redes fijas en el territorio de la República de Eslovenia y con redes móviles.
 
 El establecimiento de comunicaciones telefónicas está destinado exclusivamente al uso oficial.
 
-Los dispositivos para la difusión de la hora exacta (relojes de servicio) se encuentran en la oficina de tráfico, en la sala de espera y en el exterior del edificio de la estación junto al andén.
+Los dispositivos de difusión de la hora exacta (relojes de servicio) se encuentran en la oficina de tráfico, en la sala de espera y en la parte exterior del edificio de la estación junto al andén.
 
 20
 
-
 ## Página 22
 
-En la oficina de tráfico, en el puesto de trabajo del agente, hay un ordenador personal conectado a la red informática de los Ferrocarriles Eslovenos. Al ordenador está conectado un dispositivo impresora/fax con el número 24570. El ordenador está equipado con un programa para recibir y enviar correo electrónico. El agente puede conectarse al ISSŽP a través de la aplicación MPC.
+En el puesto de trabajo del agente de circulación en la estación se encuentra un ordenador personal conectado a la red informática de los Ferrocarriles Eslovenos (SŽ). Al ordenador está conectado un aparato de fax/impresora con el número 24570. El ordenador dispone de un programa para recibir y enviar correo electrónico. El agente de circulación puede conectarse al ISSŽP mediante la aplicación MPC.
 
-En el ordenador personal son posibles las siguientes aplicaciones:
+Las aplicaciones disponibles en el ordenador personal son:
 
 - MS Office con correo electrónico,
-
 - Cliente para Maper (MPC),
-
-- Programa Roman Anywhere para visualizar el gráfico electrónico del tráfico de trenes,
+- Programa Roman Anywhere para visualizar el gráfico horario electrónico de los trenes,
 - Intranet,
+- Editor - Adobe Reader para archivos PDF,
+- Sistema GES - envío de telegramas, notificación de incidencias, etc.
 
-- Editor Adobe Reader para archivos pdf
+Los agentes de circulación utilizan su tarjeta de identificación y código PIN para realizar sus funciones y tareas.
 
-- Sistema GES - envío de telegramas, notificación de fallos, etc.
-Los agentes utilizan su tarjeta de identificación y código PIN al realizar sus funciones y tareas.
+La línea Zidani most — Šentilj, d.m., está equipada con equipos RDZ en modo A, canal G3. La comunicación entre el agente de circulación y el maquinista es establecida por el despachador de trenes del Puesto de Operaciones (PO) Maribor.
 
-La línea Zidani most — Šentilj, d.m., está equipada con dispositivos RDZ en modo A canal G3. La conexión entre el agente y el maquinista la establece el despachador de trenes PO Maribor.
+EQUIPOS DE GRABACIÓN DE CONVERSACIONES
 
-DISPOSITIVOS DE GRABACIÓN DE CONVERSACIONES
+La grabación de todas las comunicaciones en el panel TK del agente de circulación de Slovenska Bistrica, incluida la megafonía, se realiza en la estación de Pragersko en el canal 5. El control del funcionamiento del registrador de voz lo ejerce el agente de circulación interno de la estación de Pragersko, a través de la unidad de alarma del registrador. El tiempo de conservación de las conversaciones grabadas es de un mínimo de 48 horas.
 
-La grabación de todas las conexiones en la consola TK del agente de Slovenska Bistrica, incluida la megafonía, se realiza en la estación de Pragersko en el canal 5. El control del funcionamiento del registrador de voz lo ejerce el agente interno de la estación de Pragersko, a través de la unidad de alarma del registrador de voz. El tiempo de conservación de las conversaciones grabadas es de un mínimo de 48 horas.
+La reproducción de las conversaciones grabadas la realiza el inspector de supervisión interna.
 
-La reproducción de las conversaciones grabadas la realiza el inspector de la inspección interna.
+El agente de circulación de la estación de Pragersko tiene la obligación de informar sobre cualquier interrupción del funcionamiento del registrador al técnico de mantenimiento competente de los equipos TK y a todos los puestos de servicio incluidos en el sistema de registro.
 
-Es obligación del agente de la estación de Pragersko notificar cada interrupción del funcionamiento del registrador de voz al técnico de mantenimiento competente de los dispositivos TK y a todos los puestos de servicio incluidos en el registrador.
+La centralita ŽAT se encuentra en la estación de Pragersko. El puesto de trabajo del agente de circulación en la estación de Slovenska Bistrica está equipado con un teléfono ŽAT, conectado a la red ŽAT. El número de teléfono figura en el directorio telefónico interno de SŽ.
 
-La central ŽAT se encuentra en la estación de Pragersko. El puesto de trabajo del agente en la estación de Slovenska Bistrica está equipado con un teléfono ŽAT, que está integrado en la red ŽAT. El número de teléfono está registrado en la guía telefónica interna de SŽ.
+MEGAFONÍA PÚBLICA
 
-ANUNCIA PÚBLICO
+La utiliza el agente de circulación y está destinada a informar a los pasajeros sobre llegadas, salidas y retrasos de los trenes, así como otras noticias relacionadas con desviaciones respecto al horario o la seguridad de los pasajeros.
 
-La utiliza el agente y está destinada a informar a los pasajeros sobre llegadas, salidas y retrasos de trenes, así como otras noticias relacionadas con desviaciones respecto al horario o la seguridad de los pasajeros.
+Para la megafonía pública hay instalados tres altavoces: 2 altavoces en el poste de iluminación eléctrica en el andén isla y 1 altavoz en la sala de espera.
 
-Para la megafonía pública se han instalado tres altavoces: 2 altavoces en el poste de iluminación eléctrica del andén isla y 1 altavoz en la sala de espera.
+MEGAFONÍA DE SERVICIO
 
-ANUNCIA DE SERVICIO
-
-La utiliza el agente y está destinada a informar al personal de estación y de tren, así como al personal de otros servicios durante la realización de sus tareas en el área de la estación. Las noticias transmitidas de esta forma
-21
+La utiliza el agente de circulación y está destinada a informar al personal de estación y de tren, así como al personal de otros servicios durante la realización de trabajos en el área de la estación. Dichas noticias transmitidas
 
 ## Página 23
 
-no se consideró un método fiable de comunicación, ya que no se obtiene retroalimentación.
-Para la megafonía oficial, en los postes de VM y en los mástiles de iluminación a lo largo de toda
+no se consideró un método fiable de notificación, ya que no se obtiene retroalimentación.
+Para la megafonía oficial, en los postes VM y en los mástiles de iluminación a lo largo de toda
+
 la zona de la estación, están instalados 8 altavoces:
 
 2 altavoces en el poste de la farola eléctrica situado en el centro del andén isla,
 
-2 altavoces en el poste de V M junto al desvío 4,
+2 altavoces en el poste VM junto al desvío 4,
 
-- 2 altavoces en el poste de VM junto al desvío 7,
+- 2 altavoces en el poste VM junto al desvío 7,
 
-2 altavoces en el poste de VM junto al desvío 9.
+2 altavoces en el poste VM junto al desvío 9.
 La megafonía pública y oficial debe ajustarse siempre a una intensidad adecuada (especialmente
 
-durante la noche) y no debe utilizarse para otros fines, salvo que esté expresamente autorizado.
+durante las horas nocturnas) y no debe utilizarse para otros fines, salvo que esté específicamente autorizado.
 
 2.5.5 Obras en el lugar del accidente o en sus proximidades
 En el momento de producirse el incidente, se estaban realizando trabajos de mantenimiento de inversión en la vía izquierda entre
 
-las estaciones de Poljčane y Slovenska Bistrica. También se estaba renovando la zona de las vías de la estación
-en la estación de Poljčane. Debido a los trabajos de mantenimiento de inversión en la vía izquierda, se implantó tráfico en vía única entre
+las estaciones de Poljčane y Slovenska Bistrica. También se estaba renovando la zona de vías de la estación
+
+en la estación de Poljčane. Debido a los trabajos de mantenimiento de inversión en la vía izquierda, se implantó tráfico ferroviario por vía única entre
+
 las estaciones. Los trenes circulaban en ambos sentidos por la vía derecha.
 
-Durante los trabajos de mantenimiento de inversión en la vía izquierda, el día 06.03.2018, a las 07.10 horas, tras el paso del tren n.º 2800, se estableció un cierre de la
-vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica mediante la Orden n.º 041/18. El cierre debía durar previsiblemente hasta el día 30.04.2018
+Durante los trabajos de mantenimiento de inversión en la vía izquierda, entre las estaciones de Poljčane y
+
+Slovenska Bistrica, el día 06.03.2018, a las 07.10 horas, tras el tren n.º 2800, se estableció un bloqueo de la
+
+vía izquierda mediante la Orden n.º 041/18. El bloqueo debía durar previsiblemente hasta el día 30.04.2018
+
 a las 15.00 horas.
 
-Ese mismo día, en la estación de Poljčane, también se produjo el cierre de las vías de estación n.os 1, 2, 5, 101,
+Ese mismo día, también tuvo lugar en la estación de Poljčane un bloqueo de las vías de estación n.º 1, 2, 5, 101,
+
 105, 201, 202 y 302 mediante la Orden 063/18.
 
 2.5.6 Activación del plan de medidas para casos de accidente o incidente y de los eventos previstos en él
-El jefe de circulación de la estación de Slovenska Bistrica despachó el tren de mercancías hacia la línea con tráfico en vía única hacia la estación de Poljčane y notificó ello al vigilante del equipo de trabajo en la vía mediante aviso. El vigilante del equipo de trabajo en la vía informó al jefe de circulación de la estación de Slovenska
-Bistrica de que, previamente, el jefe de circulación de la estación de Poljčane había despachado un tren de mercancías que ya circulaba por la vía única hacia la estación de Slovenska Bistrica. Tras recibir la información por parte del vigilante del equipo de trabajo en la vía, el jefe de circulación de la estación de Slovenska Bistrica llamó al jefe de circulación de la estación de Poljčane, quien le confirmó la información del vigilante del equipo de trabajo. El jefe de circulación de la estación de Poljčane llamó inmediatamente al regulador de trenes de la operación de tráfico de Maribor y le exigió la parada inmediata de ambos trenes.
+El jefe de circulación de la estación de Slovenska Bistrica despachó el tren de mercancías hacia la línea con tráfico
 
-Tras recibir la notificación de que los dos trenes se habían detenido en la vía antes de la colisión, el jefe de circulación de la estación de Poljčane informó del incidente al regulador principal de Slovenske železnice d.o.o., quien asumió posteriormente la responsabilidad de la difusión de la información. Transmitió la información sobre el incidente directamente a los responsables de la gestión del tráfico y a los trabajadores encargados de la inspección e investigación del incidente.
+por vía única en dirección a la estación de Poljčane y notificó ello mediante aviso al vigilante del grupo de trabajo en la vía.
+El vigilante del grupo de trabajo en la vía informó al jefe de circulación de la estación de Slovenska
+
+Bistrica de que, previamente, el jefe de circulación de la estación de Poljčane había despachado un tren de mercancías que ya
+
+circulaba por la vía única en dirección a la estación de Slovenska Bistrica. Tras recibir la información, por parte del
+
+vigilante del grupo de trabajo en la vía, el jefe de circulación de la estación de Slovenska Bistrica llamó al
+
+jefe de circulación de la estación de Poljčane, quien le confirmó la información del vigilante del grupo de trabajo.
+El jefe de circulación de la estación de Poljčane llamó inmediatamente al regulador de trenes de la operación de tráfico de Maribor y le exigió la parada inmediata de ambos trenes.
+
+Tras recibir la notificación de que ambos trenes se habían detenido en la vía antes de la colisión, el jefe de circulación
+
+de la estación de Poljčane informó sobre el incidente al regulador principal de Slovenske železnice d.o.o., quien
+
+asumió posteriormente la continuación de las comunicaciones. La información sobre el incidente fue transmitida
+
+a los responsables directos de la gestión del tráfico y a los trabajadores encargados de la inspección e investigación del incidente.
 
 22
 
-
 ## Página 24
+
 
 2.5.7 Activación del plan de medidas para casos de accidente de los servicios públicos de rescate, policía y asistencia sanitaria, y de los eventos previstos en el plan
 
@@ -846,8 +857,8 @@ Condiciones meteorológicas en el momento de producirse el incidente: despejado,
 
 23
 
-
 ## Página 25
+
 
 3 REGISTRO DE INVESTIGACIONES Y AVERIGUACIONES
 
@@ -876,22 +887,22 @@ El día 17.05.2018, se recibió el Informe Colegiado sobre la Investigación del
 
 ## Página 26
 
-El 13.07.2018, el investigador principal de accidentes e incidentes ferroviarios del Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios, remitió datos a la Comisaría de Policía de Slovenska Bistrica (Referencia: Oficio n.º 2300-229/2018/4 (3F694-23)).
+El 13.07.2018, el investigador principal de accidentes e incidentes ferroviarios del Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios remitió datos a la Comisaría de Policía de Slovenska Bistrica (Referencia: Oficio n.º 2300-229/2018/4 (3F694-23)).
 
-El 25.07.2018, el investigador principal de accidentes e incidentes ferroviarios del Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios, remitió datos complementarios a la Comisaría de Policía de Slovenska Bistrica (Referencia: Oficio n.º 2300-229/2018/4 (3F694-23)).
+El 25.07.2018, el investigador principal de accidentes e incidentes ferroviarios del Servicio de Investigación de Accidentes e Incidentes Aéreos, Marítimos y Ferroviarios remitió datos complementarios a la Comisaría de Policía de Slovenska Bistrica (Referencia: Oficio n.º 2300-229/2018/4 (3F694-23)).
 
 3.1 Resumen de testimonios
-El maquinista del tren n.º 45790 presentó una declaración escrita en el Informe Diario sobre Incidencias EV-49 n.º 40/4.
+El maquinista del tren n.º 45790 presentó una declaración escrita en el Informe diario sobre incidencias EV-49 n.º 40/4.
 
-Indicó que, durante la marcha, recibió una llamada por RDZ del despachador de trenes ordenándole detener el tren inmediatamente, lo cual hizo de inmediato. A las 13.35 obtuvo autorización para continuar la marcha.
+Indicó que, durante la marcha, recibió una llamada por radio (RDZ) del despachador de trenes ordenándole detener inmediatamente el tren, lo cual hizo de inmediato. A las 13.35 obtuvo autorización para continuar la marcha.
 
 El agente de circulación de la estación de Poljčane declaró durante su interrogatorio:
 
 - el cruce de trenes fue pospuesto a la estación de Slovenska Bistrica, lo cual se escucha claramente en la grabación, pero no quedó registrado;
 
-- nos pusimos de acuerdo por teléfono mediante el intercambio de confirmaciones de recepción y salida;
+- nos coordinamos por teléfono mediante el intercambio de confirmaciones de recepción y salida;
 
-- dado que se había asignado el cruce de los trenes 4436 y 45790 con los trenes 93785 y 2805 en la estación de Slovenska Bistrica, entendí que la estación vecina me daría vía libre para el tren 93785 cuando llegara el tren 45790 a Slovenska Bistrica, y
+- dado que se había programado el cruce de los trenes 4436 y 45790 con los trenes 93785 y 2805 en la estación de Slovenska Bistrica, entendí que la estación vecina me entregaría el tren 93785 cuando llegara el tren 45790 a Slovenska Bistrica, y
 
 - obtuve la autorización para el tren 45790, pero como hubo un cambio en la situación del tráfico, dicha autorización caducó. Estaba convencido de haber obtenido la autorización.
 
@@ -899,56 +910,56 @@ El agente de circulación de la estación de Slovenska Bistrica declaró durante
 
 - el cruce de los siguientes trenes se acordó únicamente por teléfono. No obstante, no quedó registrado oficialmente;
 
-- con el agente de circulación de la estación de Poljčane nos pusimos de acuerdo por teléfono. Algunos fonogramas de recepción y salida no estaban completos;
+- me coordiné con el agente de circulación de la estación de Poljčane por teléfono. Algunos fonogramas de recepción y salida no estaban completos;
 
 - el número 20 se interpretó como la recepción del tren 93785, y
 
-- acepté la salida del tren 45790 al recibir la notificación de llegada del tren 4436. La autorización para el tren 45790 era válida.
+- acepté la salida del tren 45790 al recibir el tren 4436. La autorización para el tren 45790 era válida.
 
 3.2 Sistema de gestión de la seguridad
-En el tramo entre estaciones comprendido entre las estaciones de Slovenska Bistrica - Poljčane y Dolga Gora Ponikva, las autorizaciones se solicitan y otorgan mediante consentimientos a través de los equipos de enclavamiento MO.
+En el tramo entre estaciones comprendido entre las estaciones de Slovenska Bistrica - Poljčane y Dolga Gora Ponikva, las autorizaciones se solicitan y otorgan mediante consentimientos a través de los equipos de bloqueo MO.
 
 25
 
-
 ## Página 27
 
-Para la circulación de trenes por la vía normal o adyacente entre las estaciones de Poljčane - Dolga Gora, las autorizaciones se solicitan y otorgan mediante consentimientos a través de los equipos de enclavamiento MO.
+Para la circulación de trenes por la vía normal o la vía contigua entre las estaciones de Poljčane y Dolga Gora, los permisos se solicitan y otorgan mediante autorizaciones a través de los dispositivos de señalización y seguridad MO.
 
-Mediante acuerdo, las autorizaciones se solicitan y otorgan:
+Mediante acuerdo, los permisos se solicitan y otorgan:
 
-- en el tráfico de trenes en líneas de doble vía donde no existe tráfico bidireccional, en el tráfico de trenes en ambos sentidos por la misma vía;
+- en el tráfico de trenes en líneas de doble vía donde no existe tráfico bidireccional, en el tráfico;
+de trenes en ambos sentidos por la misma vía;
 - para la circulación de un tren de intervención;
-- para un tren que transporta una carga extraordinaria;
-- para un tren con locomotora de refuerzo desacoplada;
+- para un tren que transporta un envío extraordinario;
+- para un tren con locomotora de maniobra no acoplada;
 
-- para un tren que circula hasta un punto determinado en la línea abierta;
+- para un tren que circula hasta un punto determinado en la vía libre;
 
 para vehículos de vía.
-Autorización de circulación
+Permiso de circulación
 
-La autorización de circulación del tren en la estación de Poljčane la otorga el agente de circulación colocando la señal de salida en posición de vía libre.
+El permiso de circulación del tren en la estación de Poljčane lo otorga el agente de circulación mediante la colocación de la señal de salida en posición de vía libre.
 
-Si la señal principal está inoperativa o, debido a las condiciones meteorológicas, la señal principal no es visible desde el lugar donde se encuentra detenido el tren, el agente de circulación otorga la autorización de circulación mediante la señal manual 68: "Autorización de salida" o verbalmente (directamente o a través de comunicaciones telefónicas) conforme a las disposiciones del Reglamento de Tráfico y Señalización.
+Si la señal principal está inoperativa o, debido a las condiciones meteorológicas, la señal principal no es visible desde el lugar donde se encuentra detenido el tren, el agente de circulación otorga el permiso de circulación mediante la señal manual 68: "Permiso de salida" o verbalmente (directamente o a través de telecomunicaciones) conforme a las disposiciones del Reglamento de Tráfico y Señalización.
 
-Antes de la salida de un tren de pasajeros desde puestos de servicio en la línea abierta, es necesario obtener la autorización de circulación.
+Antes de la salida de un tren de pasajeros desde un puesto de servicio en la vía libre, es necesario obtener el permiso de circulación.
 
-Como máximo 10 minutos antes de la salida del tren desde un puesto de servicio en la línea abierta, el maquinista informa al agente de circulación de la siguiente estación de que el tren está preparado para salir.
+Máximo 10 minutos antes de la salida del tren desde el puesto de servicio en la vía libre, el maquinista informa al agente de circulación de la siguiente estación de que el tren está preparado para salir.
 
-El agente de circulación otorga la autorización de circulación del tren mediante fonograma: «Tren n.º [número] circulación autorizada.» (apellido del agente de circulación).
+El agente de circulación otorga el permiso de circulación del tren mediante fonograma: «Tren n.º [ilegible: número de tren] circulación permitida.» (apellido del agente de circulación).
 
-La estación de Poljčane es una estación bajo mando local.
+La estación de Poljčane es una estación controlada localmente.
 
-Entre las estaciones de Ponikva - apartadero de Dolga Gora - Poljčane - Slovenska Bistrica, los trenes circulan en intervalo de bloqueo bajo dependencia entre estaciones (MO).
+Entre las estaciones de Ponikva - aviso Dolga Gora - Poljčane - Slovenska Bistrica, los trenes circulan en intervalo de bloqueo bajo dependencia interestacional (MO).
 
-Las notificaciones de salida se dan para todos los trenes que circulan hasta un punto determinado en la línea abierta y regresan a la estación, para todos los trenes que circulan dentro del intervalo del tramo entre estaciones y para todos los vehículos de vía, independientemente del estado de los equipos MO. En caso de avería del MO entre las estaciones de Dolga Gora y Poljčane, donde se ha implantado el tráfico bidireccional, también se otorgan autorizaciones mediante acuerdo. Las notificaciones de salida mediante acuerdo se dan igualmente para todos los trenes que circulan por la vía contraria y para los trenes que circulan en intervalo de bloqueo antes del cambio de sentido de la marcha.
+Se dan avisos para todos los trenes que circulan hasta un punto determinado en la vía libre y regresan a la estación, para todos los trenes que circulan en el intervalo de la sección interestacional y para todos los vehículos de vía, independientemente del estado de los dispositivos MO. En caso de avería de los dispositivos MO entre las estaciones de Dolga Gora y Poljčane, donde se ha implantado el tráfico bidireccional, también se otorgan permisos mediante acuerdo. Los avisos mediante acuerdo se dan igualmente para todos los trenes que circulan por la vía contraria y para los trenes que circulan en intervalo de bloqueo antes del cambio de sentido de marcha.
 
-El intervalo entre trenes consecutivos en bloqueo automático desde la estación de Poljčane hacia la estación de Slovenska Bistrica es:
+El intervalo de trenes consecutivos en el intervalo de bloqueo desde la estación de Poljčane hacia la estación de Slovenska Bistrica es:
 
 26
 
-
 ## Página 28
+
 
 - para trenes de pasajeros: 6 minutos;
 - para trenes de mercancías: 7 minutos.
@@ -990,21 +1001,21 @@ Las notificaciones de salida mediante acuerdo se dan igualmente para todos los t
 
 La organización del tráfico entre las estaciones de Poljčane y Slovenska Bistrica durante el cierre de la vía izquierda en la línea principal n.º 30 Zidani most - Šentilj d.m. fue prescrita mediante el aviso n.º 278.3 - 20/2017, emitido por el Servicio de Planificación, Tecnología e Ingeniería de SŽ - Infrastruktura, d.o.o., bajo el número 404-5/2015-219, con fecha 16.10.2017.
 
-En el marco de la ejecución de las obras en el proyecto «Modernización de la estación ferroviaria de Slovenska Bistrica», se llevó a cabo un cierre diario (permanente) de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica y de las vías en la estación de Slovenska Bistrica. La fecha de ejecución del cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica y de las vías en la estación de Slovenska Bistrica fue publicada mediante la Orden de cierre de vía.
+En el marco de la ejecución de las obras en el proyecto «Mejora de la estación ferroviaria de Slovenska Bistrica», se llevó a cabo un cierre diario (permanente) de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, así como de las vías de la estación de Slovenska Bistrica. La fecha de ejecución del cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica y de las vías de la estación de Slovenska Bistrica fue publicada mediante la Orden de cierre de vía.
 
-Durante el periodo de cierre diario (permanente) de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, la vía derecha entre dichas estaciones fue reconfigurada como una línea de vía única conforme a las disposiciones del artículo 165 del Reglamento de Tráfico.
+Durante el periodo de cierre diario (permanente) de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, la vía derecha entre dichas estaciones se reconfiguró como una línea de vía única, conforme a lo establecido en el artículo 165 del Reglamento de Tráfico.
 
-Para el periodo de cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, se elaboró para este tramo un horario operativo (especial) que fue entregado en formato electrónico («pdf») y en papel a los puestos de trabajo de los agentes de circulación de las estaciones de Poljčane, Slovenska Bistrica y Pragersko, así como al Puesto de Operaciones (PO) de Maribor.
+Para el periodo de cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, se elaboró para este tramo un horario operativo especial, que fue entregado en los puestos de trabajo de los agentes de circulación de las estaciones de Poljčane, Slovenska Bistrica y Pragersko, así como del Puesto de Operaciones (PO) de Maribor, en formato electrónico («pdf») y en papel.
 
-Antes del inicio del cierre diario (permanente) de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, el Servicio de EE y SVTK, Oficina SVTK Celje, reconfiguró el dispositivo ERSV en la estación de Poljčane para permitir la circulación por la vía derecha incorrecta (tramo de línea de vía única), de modo que las señales de salida de vía 12 y 22 mostraban indicaciones de vía libre para circular por la vía derecha incorrecta (y no por la vía izquierda correcta).
+Antes del inicio del cierre diario (permanente) de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, el Servicio de EE y SVTK, Oficina SVTK de Celje, reconfiguró el equipo ERSV en la estación de Poljčane para permitir la circulación por la vía derecha incorrecta (tramo de línea de vía única), de modo que las señales de salida de vía 12 y 22 mostraban indicaciones de vía libre para circular por la vía derecha incorrecta (pero no por la vía izquierda correcta).
 
-Tras finalizar el cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, el Servicio de EE y SVTK reconfiguró el dispositivo ERSV de la estación de Poljčane para restablecer la circulación de trenes por la vía izquierda correcta en dirección a la estación de Slovenska Bistrica.
+Tras finalizar el cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, el Servicio de EE y SVTK reconfiguró el equipo ERSV de la estación de Poljčane para restablecer la circulación de trenes por la vía izquierda correcta en dirección a la estación de Slovenska Bistrica.
 
-3.3 Normativas y disposiciones
+3.3 Normativa y disposiciones
 
-Reglamento de Tráfico, Aviso n.º 278.3-3/2018 Organización del tráfico entre las estaciones de Poljčane y Slovenska Bistrica durante el cierre de la vía izquierda en la línea principal n.º 30 Zidani Most - Šentilj d.m. y Manual 002.62 para la planificación, aprobación y ejecución del cierre o exclusión de vías y equipos EE, SV y TK.
+Reglamento de Tráfico, Aviso n.º 278.3-3/2018 Organización del tráfico entre las estaciones de Poljčane y Slovenska Bistrica durante el cierre de la vía izquierda en la línea principal n.º 30 Zidani Most - Šentilj d.m. y Manual 002.62 para la planificación, aprobación y ejecución del cierre de vía o de instalaciones EE, SV y TK.
 
-Incumplimiento de las disposiciones:
+Incumplimiento de las siguientes disposiciones:
 - Punto 6 del artículo 5 del Reglamento de Tráfico;
 - Punto 3 del artículo 106 del Reglamento de Tráfico;
 - Punto 6 del artículo 106 del Reglamento de Tráfico;
@@ -1012,35 +1023,32 @@ Incumplimiento de las disposiciones:
 - Punto 1 del artículo 108 del Reglamento de Tráfico;
 - Punto 7 del artículo 148 del Reglamento de Tráfico;
 - Punto 12 del artículo 148 del Reglamento de Tráfico y
-
 28
-
 
 ## Página 30
 
 - Aviso n.º 278.3-3/2018 - Organización del tráfico entre las estaciones de Poljčane y Slovenska Bistrica durante el cierre de la vía izquierda en la línea principal n.º 30 Zidani Most — Šentilj, frontera estatal.
 
-3.4 Funcionamiento de los medios de transporte y de los objetos técnicos e instalaciones
+3.4 Funcionamiento de los medios rodantes y de las instalaciones y equipos técnicos
+Los equipos de seguridad señalización de las estaciones de Poljčane y Slovenska Bistrica funcionaron sin defectos durante el incidente ocurrido. Ambos equipos fueron adaptados a las necesidades de la organización de la conducción del tráfico por una única vía entre las estaciones de Poljčane y Slovenska Bistrica. Los señales de salida, como señales de autorización de marcha, de las estaciones de Poljčane y Slovenska Bistrica solo podían situarse en la vía adaptada; asimismo, solo era posible autorizar la circulación de trenes mediante señales de entrada desde la vía única adaptada.
 
-Los dispositivos de seguridad señalética de las estaciones de Poljčane y Slovenska Bistrica funcionaron sin defectos durante el incidente ocurrido. Ambos dispositivos fueron reconfigurados según las necesidades de la organización de la gestión del tráfico por una línea de vía única entre las estaciones de Poljčane y Slovenska Bistrica. Las señales de salida podían mostrar indicaciones de vía libre en las estaciones de Poljčane y Slovenska Bistrica únicamente en la línea reconfigurada; asimismo, era posible autorizar la circulación de trenes mediante indicaciones de vía libre en las señales de entrada solo desde la línea de vía única reconfigurada.
+El sistema de frenado de la locomotora de tren 342-001, del tren n.º 45790 y de todos los vagones incluidos en el tren funcionó sin defectos, al igual que el dispositivo de seguridad AS y el dispositivo de vigilancia en la locomotora.
 
-El sistema de frenos de la locomotora de tren 342-001, del tren n.º 45790 y de todos los vagones incluidos en el tren funcionó sin defectos, al igual que el dispositivo de seguridad AS y el vigilante automático en la locomotora.
-
-El sistema de frenos de la locomotora de tren 16082, del tren n.º 93785 y de todos los vagones incluidos en el tren funcionó sin defectos, al igual que el dispositivo de seguridad AS y el vigilante automático en la locomotora.
+El sistema de frenado de la locomotora de tren 16082, del tren n.º 93785 y de todos los vagones incluidos en el tren funcionó sin defectos, al igual que el dispositivo de seguridad AS y el dispositivo de vigilancia en la locomotora.
 
 3.5 Documentación sobre el sistema operativo
+Los equipos de seguridad señalización de las estaciones de Poljčane y Slovenska Bistrica, SŽ-Infrastruktura, d.o.o., disponen de toda la documentación necesaria sobre el sistema operativo en forma de registros escritos.
 
-Los dispositivos de seguridad señalética de las estaciones de Poljčane y Slovenska Bistrica, pertenecientes a SŽ-Infrastruktura, d.o.o., disponen de toda la documentación necesaria sobre el sistema operativo en forma de registros escritos.
+La estación de Poljčane está protegida por un equipo electro-relé de seguridad señalización del sistema de técnica de seguimiento ISKRA Sl-Te-l-30, que permite la protección, inspección y control de las rutas de trenes y de maniobras desde un único punto mediante una mesa de enclavamiento instalada en la oficina de tráfico. En el equipo están integradas todas las vías principales con sus cambios de aguja, señales principales, señales previas, señales límite de vía, señales de maniobra y dispositivos para la protección de pasos a nivel. El ERSVn está ampliado con el sistema ISKRA TRIS CTC (sistema de gestión del tráfico ferroviario que permite la conducción del tráfico en la estación de Poljčane y la gestión remota de estaciones y puestos de servicio integrados en el sistema TRIS).
 
-La estación de Poljčane está protegida por un dispositivo electro-relé de seguridad señalética del sistema de técnica de seguimiento ISKRA Sl-Te-l-30, que permite la protección, inspección y control de las rutas de trenes y de maniobras desde un único punto mediante una mesa de enclavamiento instalada en la oficina de circulación. El dispositivo incluye todas las vías principales con sus agujas, señales principales, señales previas, señales límite de vía, señales de maniobra y dispositivos para la protección de pasos a nivel. El dispositivo ERSVn está actualizado con el sistema ISKRA TRIS CTC (sistema de gestión del tráfico ferroviario que permite la gestión del tráfico en la estación de Poljčane y la gestión remota de estaciones y puestos de servicio integrados en el sistema TRIS).
+Todas las señales principales de la estación de Poljčane son luminosas. Las señales vuelven automáticamente a su posición normal cuando la cabecera del tren sobrepasa la señal aproximadamente 50 a 100 m (referencia a la segunda aislación tras la señal en sentido de marcha). La intensidad luminosa de las luces de señal en todas las señales puede ajustarse según las condiciones de iluminación (día o noche).
 
-Todas las señales principales de la estación de Poljčane son luminosas. Las señales vuelven automáticamente a su posición normal cuando la cabecera del tren ha recorrido aproximadamente entre 50 y 100 m más allá de la señal (pasando sobre el segundo aislador situado detrás de la señal en sentido de marcha). La potencia luminosa de las luces de señal en todas las señales puede ajustarse a las condiciones de iluminación (día o noche).
-
-La estación de Slovenska Bistrica está protegida por un dispositivo electro-relé de seguridad señalética Iskra Lorenz, del sistema SL-Te-l-30, que funciona según el sistema de técnica de seguimiento. El dispositivo es centralizado; la mesa de enclavamiento para accionar los aparatos de vía y gestionar los elementos de seguridad señalética está integrada en la oficina de circulación.
+La estación de Slovenska Bistrica está protegida por un equipo electro-relé de seguridad señalización Iskra Lorenz, del sistema SL-Te-l-30, que funciona según el sistema de técnica de seguimiento. El equipo es centralizado; la mesa de enclavamiento para la disposición de los aparatos de vía y para el manejo de los elementos de seguridad señalización está integrada en la oficina de tráfico.
 
 29
 
 ## Página 31
+
 
 En el lado derecho se incluyen todas las vías principales con sus aparatos de vía, señales principales, señales previas, señales de maniobra y dispositivos de protección de los pasos a nivel.
 
@@ -1065,41 +1073,43 @@ El tramo entre estaciones de la línea Poljčane - Slovenska Bistrica y el tramo
 
 En la estación de Slovenska Bistrica, en todas las señales de entrada A1, A2, B1 y B2 están instalados contactos magnéticos de vía de los dispositivos AS con frecuencia 1000/2000 Hz. En las señales de salida 21, 31, 30
 
-
 ## Página 32
 
-41, 22, 32 y 42 están instalados contactos magnéticos de vía de los dispositivos AS con frecuencia 2000 Hz. En las señales previas PA-1, PA-2, PB-1 y PB2 están instalados contactos magnéticos de vía de los dispositivos AS con frecuencia 1000 Hz. Aproximadamente 250 m antes de las señales de entrada están instalados contactos magnéticos de vía con frecuencia 500 Hz. Todos ellos están vinculados a la indicación de la señal correspondiente a la señal de salida o de entrada asociada.
+En los puntos kilométricos 41, 22, 32 y 42 están instalados contactos magnéticos de vía del sistema AS con frecuencia de 2000 Hz. En las señales de aviso PA-1, PA-2, PB-1 y PB-2 están instalados contactos magnéticos de vía del sistema AS con frecuencia de 1000 Hz. Aproximadamente 250 m antes de las señales de entrada están instalados contactos magnéticos de vía con frecuencia de 500 Hz. Todos ellos dependen de la indicación de la señal correspondiente de salida o de entrada.
 
-En la estación de Slovenska Bistrica y en el tramo de línea Poljčane - Slovenska Bistrica - Pragersko está instalado el sistema ETCS Nivel 1, que funciona sobre la base de la transmisión puntual de información desde la vía a través de EURO-BALIZAS (fijas y transparentes) instaladas en las vías y en los vehículos tractores. Mediante unidades electrónicas instaladas junto a la vía (LEU), las balizas transparentes están conectadas a las señales y transmiten datos sobre la indicación de cada señal, permitiendo o prohibiendo la circulación del vehículo tractor o del tren. Las LEU, mediante el envío de telegramas a través de las balizas transparentes, comunican al tren las condiciones de la vía mediante ETCS.
+En la estación de Slovenska Bistrica y en el tramo de vía Poljčane - Slovenska Bistrica - Pragersko está instalado el sistema ETCS Nivel 1, que funciona sobre la base de la transmisión puntual de información desde la vía a través de EURO BALIZAS (fijas y transparentes) instaladas en las vías y en los vehículos tractores. Mediante unidades electrónicas instaladas junto a la vía (LEU), las balizas transparentes están conectadas a las señales y transmiten datos sobre la indicación de cada señal, permitiendo o prohibiendo la circulación del vehículo tractor o del tren. Las LEU, mediante el envío de telegramas a través de las balizas transparentes, comunican al tren las condiciones de la vía mediante el sistema ETCS.
 
-El tramo entre estaciones Slovenska Bistrica - Poljčane está equipado con dispositivos de dependencia entre estaciones (MO).
+El tramo entre estaciones de Slovenska Bistrica - Poljčane está equipado con dispositivos de enclavamiento entre estaciones (MO).
 
-El tramo entre estaciones Slovenska Bistrica - Pragersko está equipado con dispositivos para tráfico bidireccional por la vía derecha (vía D30) y la vía izquierda (vía L30). En la gestión del tráfico, cada vía (tramo) se considera como una vía única. En el tráfico bidireccional, para la circulación de trenes en sentido Slovenska Bistrica - Pragersko, la vía izquierda (vía L30) es la vía principal y la vía derecha (vía D30) es la vía adyacente.
+El tramo entre estaciones de Slovenska Bistrica - Pragersko está equipado con dispositivos para tráfico bidireccional por la vía derecha (vía D30) y la vía izquierda (vía L30). En la gestión del tráfico, cada vía (tramo) se considera como una vía única. En caso de tráfico bidireccional, para las circulaciones de trenes en dirección Slovenska Bistrica - Pragersko, la vía izquierda (vía L30) es la vía normal y la vía derecha (vía D30) es la vía adyacente.
 
-Durante la renovación de las vías entre estaciones de líneas de doble vía, existe durante el período en que está implantado el tráfico en vía única un riesgo aumentado para la gestión segura del tráfico ferroviario. En casos de tráfico en vía única en líneas de doble vía, determinados elementos de seguridad, en la regulación del tráfico, se trasladan de los medios técnicos al factor humano. Durante el período de renovación de la línea o de la vía, la gestión del tráfico está adicionalmente sobrecargada también por numerosas tareas que surgen continuamente debido a las necesidades de los ejecutores de la obra en la vía cerrada.
+Durante la renovación de las vías intermedias de líneas de doble vía, existe un riesgo aumentado para la gestión segura del tráfico ferroviario durante el período en que se establece el tráfico por vía única. En casos de tráfico por vía única en líneas de doble vía, determinados elementos de seguridad en la regulación del tráfico se transfieren de los medios técnicos al factor humano. Durante la renovación de la línea o de la vía, la gestión del tráfico se ve adicionalmente sobrecargada por numerosas tareas que surgen constantemente debido a las necesidades de los ejecutores de la obra en la vía cerrada.
 
-Durante el período de ejecución del cierre de la vía izquierda, todos los trenes en sentido Zidani Most - Maribor circularon desde la estación de Poljčane hasta la estación de Slovenska Bistrica por la vía derecha incorrecta, que había sido reconfigurada como vía única. La regulación de la gestión del tráfico ferroviario durante la renovación de las vías entre estaciones entre las estaciones de Poljčane y Slovenska Bistrica fue prescrita de tal manera que los jefes de circulación de las estaciones adyacentes despachaban los trenes hacia la vía única previa coordinación.
+Durante el período de ejecución del cierre de la vía izquierda, todos los trenes en dirección Zidani Most - Maribor circularon desde la estación de Poljčane hasta la estación de Slovenska Bistrica por la vía derecha incorrecta, que había sido reconfigurada como vía única. La regulación de la gestión del tráfico ferroviario durante la renovación de las vías intermedias entre las estaciones de Poljčane y Slovenska Bistrica estaba prescrita de tal manera que los jefes de circulación de las estaciones adyacentes despachaban los trenes hacia la vía única tras acuerdo previo.
 
-Se elaboró y adjuntó un horario especial de circulación para el tráfico en vía única; los cruces fueron ordenados por el despachador de trenes PO Maribor.
+Se elaboró y adjuntó un horario especial para el tráfico por vía única; los cruces fueron ordenados por el despachador de trenes PO Maribor.
 
-Las señales de salida en la estación de Poljčane se colocaban y eran válidas para la circulación de trenes por la vía derecha incorrecta (hacia el tramo de vía única).
-
+Las señales de salida en la estación de Poljčane se colocaban y eran válidas para las circulaciones de trenes hacia la vía derecha incorrecta (hacia el tramo de vía única).
+31
 
 ## Página 33
 
-Para la entrada de trenes desde la vía derecha incorrecta a la estación de Slovenska Bistrica, se tenían en cuenta las indicaciones de la señal de entrada A2, que está precedida por la señal previa PA2.
+Para la entrada de trenes desde el carril derecho irregular en la estación de Slovenska Bistrica, se tuvieron en cuenta las señales del indicador de entrada A2, preindicado por el indicador previo PA2.
 
-Durante el período de ejecución del cierre de la vía izquierda desde la estación de Poljčane hasta la estación de Slovenska Bistrica, solo se permitía circular por la zona cerrada a la maquinaria de trabajo del contratista de las obras. Todas las demás circulaciones estaban prohibidas.
+Durante el periodo de cierre del carril izquierdo entre la estación de Poljčane y la estación de Slovenska Bistrica, solo se permitía circular por la zona cerrada a la maquinaria de trabajo del contratista. Quedaba prohibido todo otro movimiento.
 
-Durante el período de ejecución del cierre de la vía izquierda desde la estación de Poljčane hasta la estación de Slovenska Bistrica, mediante orden se prescribió que simultáneamente tendrían lugar cierres también de las vías de estación en la estación de Poljčane y en la estación de Slovenska Bistrica, lo cual fue prescrito oportunamente mediante órdenes especiales emitidas sobre el cierre de dichas vías.
+Durante el periodo de cierre del carril izquierdo entre la estación de Poljčane y la estación de Slovenska Bistrica, estaba prescrito mediante orden que los cierres también afectarían simultáneamente a los carriles de estación en la estación de Poljčane y en la estación de Slovenska Bistrica, lo cual fue regulado progresivamente mediante órdenes específicas emitidas para el cierre de dichos carriles.
 
-La organización del tráfico de pasajeros fue publicada mediante telegrama de SŽ - Potniški promet d.o.o., Servicio de Planificación y Gestión de Recursos, y fue entregada a las unidades operativas de la manera habitual.
+La organización del tráfico de pasajeros fue publicada mediante telegrama de SŽ - Potniški promet d.o.o., Servicio de Planificación y Gestión de Recursos, y fue entregada a las unidades operativas por el procedimiento habitual.
 
 3.7 Antecedentes de sucesos similares
 
-En el decenio anterior, no se produjeron incidentes similares —circulación de trenes de mercancías desde el sentido contrario, hacia una vía única reconfigurada, durante la renovación de una de las vías de una línea de doble vía—.
+En el decenio anterior, no se registraron incidentes similares —circulación de trenes de mercancías en sentido contrario sobre una vía única reconfigurada, durante la renovación de uno de los carriles de una línea de doble vía—.
+
+32
 
 ## Página 34
+
 
 4 ANÁLISIS Y CONCLUSIONES
 
@@ -1154,8 +1164,8 @@ Transcripción de datos desde el medio de almacenamiento de la locomotora partic
 
 33
 
-
 ## Página 35
+
 
 - Al salir de la estación de Poljčane, la velocidad aumenta a 38 km/h.
 
@@ -1205,30 +1215,31 @@ Durante la investigación del incidente se determinó que, debido al incumplimie
 
 ## Página 36
 
-inexperiencia, confió instintivamente y, al mismo tiempo, introdujo confusión en la gestión del tráfico mediante fonogramas deficientes que a menudo no contenían ni los números de tren ni las estaciones.
+inexperiencia, confió instintivamente; al mismo tiempo, con fonogramas deficientes que a menudo no contenían ni los números de tren ni las estaciones, introdujeron confusión en la gestión del tráfico.
 
-En este contexto, es necesario destacar que la serenidad del vigilante de grupo de trabajo, quien siguió diligentemente el recorrido de los trenes y no se confundió en la situación dada, contribuyó en gran medida a evitar una colisión de trenes en la vía. El vigilante de grupo de trabajo advirtió al jefe de estación
+En este punto es necesario destacar que la sobriedad del vigilante del grupo de trabajo, quien siguió diligentemente el recorrido de los trenes y no se confundió en la situación dada, contribuyó en gran medida a que no se produjera una colisión de trenes en la vía. El vigilante del grupo de trabajo advirtió al agente de circulación
 
-que había dos trenes procedentes de direcciones opuestas en la vía única habilitada.
+que en la vía única había dos trenes procedentes de direcciones opuestas.
 
 4.2 Discusión
 
-Respecto al incidente ocurrido el 23.03.2018, cuando a las 13:33 horas se encontraban dos trenes de mercancías circulando uno contra otro en la vía única habilitada entre las estaciones de Poljčane y Slovenska Bistrica, se llevaron a cabo diversas discusiones. Durante dichas discusiones, se emitieron múltiples opiniones y propuestas para reducir el riesgo durante la implantación del tráfico en vía única en líneas de doble vía debido a la renovación de una de las vías.
+En relación con el incidente del 23.03.2018, cuando a las 13:33 horas se encontraban en la vía única habilitada entre las estaciones de Poljčane y Slovenska Bistrica dos trenes de mercancías que circulaban uno hacia el otro, se llevaron a cabo diversas discusiones. Durante dichas discusiones se emitieron numerosas opiniones y propuestas para reducir el riesgo durante la implantación del tráfico en vía única en vías dobles debido a la renovación de una de las vías.
 
-Antes del inicio de las obras de renovación, es necesario estudiar exhaustivamente todos los riesgos que surgirán en la gestión del tráfico. Los elaboradores de la organización de la gestión del tráfico deben analizar todas las influencias derivadas del aumento de la dinámica en los procesos de trabajo relacionados con la gestión del tráfico. Debido al incremento de la carga de trabajo, consecuencia de la dinámica de los procesos durante la ejecución de las obras y el régimen modificado de regulación del tráfico, es necesario estudiar todas las opciones disponibles para excluir lo más posible la influencia del factor humano en la gestión del tráfico durante ese periodo. El factor humano debe ser sustituido por soluciones técnicas.
+Antes del inicio de las obras de renovación es necesario estudiar exhaustivamente todos los riesgos que surgirán en la gestión del tráfico. Los elaboradores de la organización de la gestión del tráfico deben estudiar todas las influencias derivadas del aumento de la dinámica en los procesos de trabajo relacionados con la gestión del tráfico. Debido al incremento de la carga de trabajo, consecuencia de la dinámica de los procesos durante la ejecución de las obras y el régimen modificado de regulación del tráfico, es necesario estudiar todas las opciones disponibles para excluir lo más posible la influencia del factor humano en la gestión del tráfico durante ese periodo. El factor humano debe ser sustituido por soluciones técnicas.
 
-Dado que las renovaciones de las vías se llevan a cabo en intervalos prolongados, aproximadamente cada 20 años o incluso más, es necesario preparar al personal que participará en el proceso de gestión del tráfico
+Dado que las renovaciones de vías se llevan a cabo en intervalos temporales prolongados, aproximadamente cada 20 años o incluso más, antes del inicio de las obras es necesario preparar al personal que participará en el proceso de gestión
 
-para los riesgos antes del inicio de las obras.
+del tráfico frente a los riesgos.
 
-4.3 Análisis
+4.3 Evaluación
 
-Durante la investigación del incidente, se determinó que la causa directa de la salida simultánea de los trenes de mercancías desde direcciones opuestas, con un desfase de un minuto, hacia la misma vía derecha, desde la estación de Poljčane del tren internacional de mercancías n.º 45790 a las 13:32 horas y desde la estación de Slovenska Bistrica del tren de mercancías n.º 93785 a las 13:33 horas, el día 23.3.2018, fue el incumplimiento de los protocolos prescritos para la circulación de trenes por vía única por parte de los jefes de estación de Poljčane y Slovenska Bistrica.
+Durante la investigación del incidente se determinó que la causa directa de la salida de los trenes de mercancías desde direcciones opuestas, con un desfase de un minuto, por la misma vía derecha, desde la estación de Poljčane del tren internacional de mercancías n.º 45790, a las 13:32 horas, y desde la estación de Slovenska Bistrica del tren de mercancías n.º 93785, a las 13:33 horas, el día 23.3.2018, fue el incumplimiento de los protocolos prescritos para la circulación de trenes por vía única por parte de los agentes de circulación de las estaciones de Poljčane y Slovenska Bistrica.
 La causa indirecta puede atribuirse a la organización de la gestión del tráfico ferroviario por la vía derecha durante el cierre de la vía izquierda entre las estaciones de Poljčane y Slovenska Bistrica, sin protección técnica para la salida simultánea de trenes desde direcciones opuestas.
-La causa indirecta radica en la ejecución del trabajo del despachador de trenes de la operativa de tráfico de Maribor, quien transmitía a los jefes de estación de Poljčane y Slovenska Bistrica órdenes deficientes sobre los cruces de trenes.
-La causa indirecta es la inexperiencia del jefe de estación, empleado en la estación de Slovenska Bistrica desde el 28.06.2016; previamente, desde el 14.10.2010, había sido jefe de estación en diversas estaciones
+La causa indirecta reside en la ejecución del trabajo del despachador de trenes de la unidad operativa de tráfico de Maribor, quien transmitía a los agentes de circulación de las estaciones de Poljčane y Slovenska Bistrica órdenes deficientes sobre los cruces de trenes.
+La causa indirecta radica en la inexperiencia del agente de circulación, que estaba empleado en la estación de Slovenska Bistrica desde el 28.06.2016; previamente, desde el 14.10.2010, había sido agente de circulación en diversas estaciones
 
 ## Página 37
+
 
 de la línea de Carintia. La conclusión de que el trabajador tenía poca experiencia se basa en el contenido de las conversaciones relativas al incidente ocurrido.
 
@@ -1260,16 +1271,19 @@ Inmediatamente después del incidente, el gestor de la infraestructura ferroviar
 
 ## Página 38
 
-los protocolos prescritos relativos a la circulación de trenes entre estaciones con tráfico en vía única habilitado.
+de los protocolos reglamentarios que se refieren a la circulación de trenes entre estaciones con implantación de tráfico en vía única.
 
 4.6 Recomendaciones
 Debido al riesgo de repetición del incidente o incluso de un accidente, se recomienda al gestor de la infraestructura ferroviaria pública, SŽ-Infrastruktura, d.o.o.:
 
-- — Que los trabajadores que participan en la gestión del tráfico en líneas de doble vía, durante el cierre de una vía, reciban formación específica antes de la implantación del cierre sobre los protocolos prescritos relativos a la circulación de trenes entre estaciones con tráfico en vía única habilitado;
+- — formar específicamente, antes de la implantación del cierre, a los trabajadores que participan en la gestión del tráfico en líneas de doble vía durante el periodo de cierre de una vía, sobre los protocolos reglamentarios que se refieren a la circulación de trenes entre estaciones con implantación de tráfico en vía única;
 
-- Que el dispositivo de seguridad sea actualizado durante el periodo de tráfico en vía única habilitado de modo que requiera una autorización direccional para la circulación de trenes.
+- mejorar el dispositivo de seguridad durante el tiempo que esté implantado el tráfico en vía única, de modo que exija una autorización direccional para la circulación de los trenes.
+
+37
 
 ## Página 39
+
 
 5 BIBLIOGRAFÍA
 

@@ -1,32 +1,6 @@
 {
- "md-es/LU/2013/Heisdorf_230513_rapport_final.md": {
-  "estado": "aviso",
-  "idioma_origen": "FR",
-  "paginas_revisadas": [
-   2,
-   3,
-   5,
-   7,
-   9,
-   11
-  ],
-  "fidelidad_media": 97.2,
-  "fidelidad_min": 95,
-  "sin_dictamen": [],
-  "terminos": [
-   "Compte rendu des investigations et enquêtes traducido como 'Relato de las investigaciones y pesquisas' en lugar de 'Informe de las investigaciones y encuestas'",
-   "Compte rendu final de la chaîne des évènements traducido como 'Relato final de la cadena de sucesos' en lugar de 'Informe final de la cadena de sucesos'",
-   "Règles et réglementations traducido como 'Reglas y normativas' en lugar de 'Reglas y reglamentaciones'",
-   "boucles d'annonce traducido como 'bobinas de aproximación' en lugar de 'bucles de anuncio' o 'circuitos de anuncio'",
-   "lisses traducido como 'barreras' en lugar de 'brazos' o 'barreras móviles' (término menos específico)",
-   "gong électronique traducido como 'campana electrónica' en lugar de 'gong electrónico'"
-  ],
-  "fallos": [],
-  "fecha": "2026-11-18",
-  "md_es": "md-es/LU/2013/Heisdorf_230513_rapport_final.md"
- },
  "md-es/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md": {
-  "estado": "aviso",
+  "estado": "revisar",
   "idioma_origen": "FR",
   "paginas_revisadas": [
    3,
@@ -36,46 +10,41 @@
    83,
    105
   ],
-  "fidelidad_media": 97.5,
-  "fidelidad_min": 95,
+  "fidelidad_media": 93.7,
+  "fidelidad_min": 88,
   "sin_dictamen": [],
   "terminos": [
-   "poste d'aiguillage traducido como 'puesto de encaminamiento' en lugar de 'puesto de agujas' o 'puesto de enclavamiento'",
-   "aiguilleur traducido como 'encaminador' en lugar de 'guardagujas' o 'agente de agujas'",
-   "voie banalisée traducido como 'vía banalizada' en lugar de 'vía banalizada' (aceptable, pero podría normalizarse como 'vía de doble sentido banalizado')",
-   "analyse des risques traducido como 'evaluación de riesgos' en la primera aparición, cuando debería ser 'análisis de riesgos' para mantener la coherencia terminológica",
-   "disfuncionamientos (no es un término normalizado en castellano; debería ser 'disfunciones' o 'fallos de funcionamiento')",
-   "puesto de aguja (traducción literal de 'poste d'aiguillage'; el término normalizado es 'puesto de enclavamiento')"
+   "'Bureau d'enquêtes sur les accidents de transport terrestre' se traduce de forma fragmentada e inconsistente: 'Oficina de Investigación de accidentes de transporte terrestre' aparece partido por el encabezado 'Técnicas'",
+   "'Administration des Enquêtes Techniques' traducido como 'Administración de Investigaciones Técnicas' es aceptable, pero el orden de las líneas del encabezado queda desalineado respecto al original",
+   "'management de proximité' traducido como 'gestión de proximidad' (aceptable, pero podría normalizarse como 'gestión de cercanía')",
+   "'consistance' traducido como 'redacción' en lugar de 'consistencia/coherencia' de la reglamentación",
+   "'arrêt par coupure tension' traducido como 'parada por corte de tensión' (aceptable, aunque 'corte de catenaria' sería más preciso)",
+   "'choc' traducido como 'impacto' (correcto)"
   ],
-  "fallos": [],
-  "fecha": "2026-11-18",
+  "fallos": [
+   {
+    "pagina": 23,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el original: 'Le poste d'aiguillage de Bettembourg est un poste tout relais à transit souple de technologie DrS fourni par Siemens' — la traducción reordena y omite parte de la frase (el sujeto 'Le poste d'aiguillage' se traduce como 'El centro de maniobras' pero se pierde la estructura original)",
+     "En el original: 'Les commandes d'itinéraire et de protection ne sont pas informatisées' — traducido correctamente, pero se omite el asterisco que en el original marca notas al pie"
+    ],
+    "invenciones": [
+     "'centro de conmutación' para 'poste d'aiguillage' — el original dice 'poste d'aiguillage' (puesto de enclavamiento), no 'centro de conmutación'",
+     "'vías normalizadas' para 'voies banalisées' — el original dice 'banalisées' (vías banalizadas), no 'normalizadas'",
+     "'bloqueo automático' para 'block automatique' — aceptable, pero el original usa 'block' como término técnico"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'poste d'aiguillage' traducido como 'centro de maniobras' en 3.2.3, pero como 'centro de conmutación' en 3.2.2 — inconsistencia y error: debería ser 'puesto de enclavamiento'",
+     "'voies banalisées' traducido como 'vías normalizadas' — debería ser 'vías banalizadas'",
+     "'aiguilleur' traducido como 'maniobrista' — término no normalizado; en ferrocarril español se usa 'guardagujas' o 'enclavador'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene errores terminológicos graves ('poste d'aiguillage' como 'centro de conmutación/maniobras', 'voies banalisées' como 'vías normalizadas') y alguna omisión menor de marcadores."
+   }
+  ],
+  "fecha": "2026-11-19",
   "md_es": "md-es/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md"
- },
- "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md": {
-  "estado": "aviso",
-  "idioma_origen": "FR",
-  "paginas_revisadas": [
-   3,
-   17,
-   32,
-   48,
-   62,
-   77
-  ],
-  "fidelidad_media": 97.0,
-  "fidelidad_min": 92,
-  "sin_dictamen": [],
-  "terminos": [
-   "«Réglementation» traducido como «Normativa» en lugar de «Reglamentación»",
-   "«repères» traducido como «marcas» en lugar de «referencias» o «señales de referencia»",
-   "«lignes de contact» traducido como «líneas aéreas de contacto» (añade «aéreas» no presente en el original)",
-   "«commandement» traducido como «mando» en lugar de «orden» o «mandato»",
-   "«engins moteurs» traducido como «locomotoras» en lugar de «unidades motrices» o «vehículos motores»",
-   "Triage traducido como 'Clasificación' en lugar de 'Puesto de clasificación' o 'Estación de clasificación'"
-  ],
-  "fallos": [],
-  "fecha": "2026-11-18",
-  "md_es": "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md"
  },
  "md-es/LU/2006/ERA-2009-0007-00-00-EN.md": {
   "estado": "revisar",
@@ -88,44 +57,141 @@
    87,
    107
   ],
-  "fidelidad_media": 86.6,
-  "fidelidad_min": 55,
-  "sin_dictamen": [
-   2
-  ],
+  "fidelidad_media": 93.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
   "terminos": [
-   "Traducción incorrecta de 'Switch Tender': 'Agujero' no es un término ferroviario normalizado; debería ser 'Guardagujas' o 'Operador de Agujas'.",
-   "Traducción incorrecta de 'Switch Post': 'Puesto de Enclavamiento' no es el término más preciso para 'Switch Post'; debería ser 'Puesto de Agujas' o 'Puesto de Maniobras'."
+   "'Land Transport Accident Technical Investigation Investigation Bureau (BEA-TT)' se fragmenta y reordena en la traducción, alterando la denominación oficial del organismo",
+   "'Land Transport Accident' traducido como 'Accidentes de Transporte Terrestre' pierde el matiz de 'Land Transport Accident Investigation Bureau' como nombre propio",
+   "'Switch Tenders' traducido como 'Conmutadores de Agujas' (debería ser 'Guardagujas' o 'Agujeros')",
+   "'Train Announcer' como 'Anunciador de Trenes' (poco normalizado; 'Locutor/Anunciador de trenes')",
+   "'route' traducido como 'vía' en '293 vías de trenes' y '919 vías de maniobras' (debería ser 'itinerarios' o 'rutas')",
+   "'sectional route-releasing' como 'liberación de vías seccionales' (debería ser 'liberación de itinerarios por secciones')"
   ],
   "fallos": [
    {
-    "pagina": 2,
-    "fidelidad": null,
-    "omisiones": [],
-    "invenciones": [],
-    "numeros_ok": null,
-    "terminos": [],
-    "comentario": "respuesta no parseable"
-   },
-   {
     "pagina": 45,
-    "fidelidad": 55,
+    "fidelidad": 88,
     "omisiones": [
-     "Falta la frase final del original: 'the middle of the CCP Traffic Controller's desk' (la traducción corta en 'la hoja de papel en')."
+     "Falta la frase inicial 'from Berchem and that its approach route had been plotted on track 2' en su contexto completo (la traducción empieza a mitad de frase sin el sujeto original)",
+     "No se traduce la nota al pie 1 en su posición original (aparece al final, pero se mantiene)"
     ],
     "invenciones": [
-     "Traducción de 'Switch Tender' como 'Agujero' (invención terminológica sin sentido en castellano)."
+     "'se habían producido dos colisiones de trenes' — el original dice 'two trains had collided' (dos trenes habían colisionado), no dos colisiones",
+     "'Conmutador Nocturno 1' y 'Conmutador 1' — el original usa 'Evening Switch Tender 1' y luego 'Switch Tender 1'; la traducción introduce 'Conmutador' como término para switch tender, que no es normalizado"
     ],
     "numeros_ok": true,
     "terminos": [
-     "'Switch Tender' traducido como 'Agujero' en lugar de 'Guardagujas' o 'Operador de agujas'.",
-     "'track circuit' traducido como 'contador de eje' en lugar de 'circuito de vía'.",
-     "'GTR Exchange' traducido como 'Intercambiador de GTR' en lugar de 'Central de GTR' o 'Puesto de GTR'."
+     "'Switch Tender' traducido como 'Conmutador' (debería ser 'guardagujas' o 'cambiador')",
+     "'Train Announcer' traducido como 'Anunciador de Trenes' (aceptable pero no normalizado)",
+     "'wrong-track working' traducido como 'vía equivocada' (debería ser 'circulación en vía contraria' o 'sentido contrario')"
     ],
-    "comentario": "La traducción contiene errores terminológicos graves y una omisión al final del fragmento."
+    "comentario": "La traducción es mayoritariamente fiel pero contiene invenciones ('dos colisiones'), terminología no normalizada para 'switch tender' y 'wrong-track working', y omite el inicio contextual de la frase."
    }
   ],
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "md_es": "md-es/LU/2006/ERA-2009-0007-00-00-EN.md"
+ },
+ "md-es/LU/2013/Heisdorf_230513_rapport_final.md": {
+  "estado": "revisar",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 95.2,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'règlement grand-ducal' traducido como 'gran-ducal reglamentario' (orden incorrecto y calco); debería ser 'reglamento gran-ducal'",
+   "'cruce a nivel' por 'passage à niveau' es aceptable, pero el término normalizado en España es 'paso a nivel'",
+   "'aguas arriba' por 'en amont' es traducción literal; en contexto ferroviario se prefiere 'antes de' o 'anterior a'",
+   "'conductor de locomotoras' por 'conducteur d'engin moteur' (maquinista de tren motor)",
+   "'automotoras eléctricas de dos unidades' por 'automotrices électriques à deux caisses' (de dos coches/cajas)",
+   "'boucles d'annonce' traducido como 'bobinas de aproximación' en lugar de 'bucles de anuncio'"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta el título de la sección 1.2.7 en el original (aparece vacío en el original, pero la traducción añade contenido)"
+    ],
+    "invenciones": [
+     "Se añade 'Datos del registrador de la instalación técnica' en 1.2.7, que no aparece en el original",
+     "Se traduce 'Compte rendu des investigations et enquêtes' como 'Informe de las investigaciones y las investigaciones judiciales', añadiendo 'judiciales'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'passage à niveau' traducido como 'cruce a nivel' en lugar de 'paso a nivel' (término normalizado en España)",
+     "'conducteur' traducido como 'maquinista' (aceptable, pero el original no especifica)"
+    ],
+    "comentario": "La traducción es casi completa, pero añade contenido no presente en el original en 1.2.7 y en el título de la sección 2, y usa 'cruce a nivel' en vez de 'paso a nivel'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LU/2013/Heisdorf_230513_rapport_final.md"
+ },
+ "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md": {
+  "estado": "revisar",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   3,
+   17,
+   32,
+   48,
+   62,
+   77
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'engins moteurs' traducido como 'locomotoras' en lugar de 'vehículos motores' o 'máquinas de tracción'",
+   "'repères' traducido como 'balizas' cuando en el contexto de señalización ferroviaria francesa suele corresponder a 'señales de referencia' o 'marcas'",
+   "'pédale de contresens' traducido como 'pedal de marcha atrás' en lugar de un término normalizado como 'pedal de contravía' o 'pedal de sentido contrario'",
+   "'cosse' traducido como 'terminal' podría precisarse como 'terminal de cable' o 'grapa'"
+  ],
+  "fallos": [
+   {
+    "pagina": 17,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el título '2 Compte rendu des investigations et enquêtes' con precisión: se repite 'investigaciones' y se omite 'enquêtes' como término diferenciado",
+     "Se omite la nota de que el conductor 'est secoué lors du passage de la première aiguille' se mantiene, pero se pierde el matiz de que cae 'au milieu du couloir' antes de ser herido (se fusiona en 'Caído en medio del pasillo, herido')"
+    ],
+    "invenciones": [
+     "'abandina la cabina' es una errata/invención léxica; el original dice 'quitte la cabine' (abandona la cabina)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'sección' por 'sectionnement' (seccionamiento eléctrico) es una mala traducción técnica",
+     "'punto de aguja' por 'aiguillage' no es la denominación normalizada; debería ser 'aparato de vía' o 'desvío'",
+     "'hojas de aguja' por 'lames d'aiguilles' no es término normalizado (debería ser 'agujas' o 'lengüetas')"
+    ],
+    "comentario": "La traducción es mayormente fiel y conserva cifras y referencias, pero contiene errores técnicos ('sección' por seccionamiento, 'punto de aguja') y una errata ('abandina'), además de un título redundante."
+   },
+   {
+    "pagina": 48,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se omite ninguna frase completa, pero se pierde la maquetación de la tabla (columnas vacías y separadores)"
+    ],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "'superación «cocodrilo»' por 'franchissement «crocodile»' (franchissement = paso/cruce, no superación)",
+     "'Representación de las vías' por 'Représentation des itinéraires' (itinéraire = itinerario/ruta, no vía)",
+     "'Triaje' por 'Triage' (triage = clasificación/estación de clasificación)"
+    ],
+    "comentario": "La traducción es mayormente fiel, pero altera el código TRM 49800 a TM 49800 y traduce imprecisamente términos técnicos ferroviarios."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md"
  }
 }

@@ -4,302 +4,377 @@ anio: 2007
 idioma_origen: FI
 md_origen: md/EE/2007/Manniku.24.06.07.md
 md5_origen: 8b936ffa502ea287f2da00e946d18bb6
-modelo: qwen3.8-flash
+modelo: qwen3.6
 bloques: 7
-chars: 50950
+chars: 51159
 ratio_longitud: 1.26
-tokens_in: 19721
-tokens_out: 12955
-verificacion: ok
-notas_cifras: ["bloque 5: cifras largas: 1/26; cifras cortas: 4/55", "bloque 7: cifras cortas: 1/126"]
-fecha_proceso: 2026-11-18
+tokens_in: 22140
+tokens_out: 14794
+verificacion: revisar
+notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (FI)", "bloque 4: cifras cortas: 1/94", "bloque 5: cifras largas: 1/26; cifras cortas: 2/55", "bloque 6: original bilingüe: se compara contra el idioma principal (FI)", "bloque 7: original bilingüe: se compara contra el idioma principal (EN)"]
+avisos: ["bloque 3: cifras largas: faltan 3/9 (33%)"]
+fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 ---
 ## Página 1
 
-INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS
-INFORME DE INVESTIGACIÓN
+INFORME DE INVESTIGACIÓN DE ACCIDENTE FERROVIARIO
 Accidente ferroviario
-Según la clasificación de la «Directiva sobre seguridad ferroviaria» 2004/49/CE: incidente – categoría: accidente en paso a nivel
-Accidente ferroviario según la clasificación de la «Ley del Ferrocarril»: accidente ferroviario de primer grado (colisión de material móvil ferroviario con otro medio de transporte, que causó una o más víctimas mortales)
-Lugar y fecha del accidente ferroviario: Paso a nivel de Männiku (Condado de Harju), 24 de junio de 2007.
+de conformidad con la clasificación del
+«Directivo sobre la seguridad ferroviaria»
+2004/49/CE:
+tipo de accidente: accidente en un paso a nivel
+Accidente ferroviario
+de conformidad con la clasificación de la «Ley de Ferrocarriles»:
+accidente ferroviario de primer grado
+(colisión de un vehículo ferroviario con otro medio de transporte, que causó una o más víctimas mortales)
+Lugar y fecha del accidente ferroviario: Paso a nivel de Männiku (condado de Harju) el 24 de junio de 2007.
 Tallin
 2007
 
 
 ## Página 2
 
-# 1. Resumen
-1. La colisión entre el tren de pasajeros Rapla – Tallinn y un turismo Alfa Romeo tuvo lugar el 24 de junio de 2007 a las 20.30 horas en el paso a nivel no regulado automáticamente de Männiku (km 14,599).
-2. Como consecuencia de la colisión, el tren, de 125 m de longitud, se detuvo a unos 200 m al otro lado del paso a nivel. El turismo fue proyectado hacia el campo exterior, quedó fuertemente deformado e inutilizado.
-3. En el accidente falleció instantáneamente el acompañante que viajaba en el coche y el conductor murió ese mismo día en el hospital a causa de las lesiones sufridas.
-4. El tren diésel sufrió daños. Las soldaduras del quitanieves del coche motor se rompieron y el quitanieves fue empujado bajo el tren; se rompió el tubo de aire del circuito principal de frenos. La parte frontal de la carrocería del coche motor también sufrió daños.
-5. El conductor accedió al paso a nivel sin cerciorarse de la aproximación del tren. La causa directa del accidente fue el cruce por delante del tren debido a la falta de atención del conductor como usuario del paso a nivel. El error humano del conductor consistió en prestar insuficiente atención a la señal de advertencia 121 «Vía única» situada antes del paso a nivel.
-6. El paso a nivel de Männiku tiene visibilidad limitada, pero no está equipado para los usuarios de la vía con la señal de prioridad 222 «Ceda el paso». El paso a nivel no está señalizado con dispositivos de regulación del tráfico que informen al usuario de la visibilidad limitada. La ausencia de la señal de prioridad 222 «Ceda el paso» es un factor contribuyente a la ocurrencia del accidente.
-7. La asignación de categorías a los pasos a nivel y su equipamiento con dispositivos de regulación del tráfico que aumentan la seguridad vial dependen tanto de la intensidad del tráfico ferroviario como del viario. La intensidad del tráfico viario se ha determinado mediante estimaciones. El desconocimiento de la necesidad real de equipar el paso a nivel con dispositivos de regulación del tráfico conforme a la normativa es, a largo plazo, un hecho que aumenta el riesgo vial y favorece la ocurrencia de accidentes de tráfico.
-8. Se solicita al titular de la carretera que equipe el paso a nivel con señales de prioridad 222 «Ceda el paso» y que organice la determinación de la intensidad del tráfico.
-9. Debe preverse la reordenación del tráfico viario que cruza la línea férrea cerca del paso a nivel de Männiku hacia un único paso a nivel seleccionado racionalmente, y el cierre permanente de los restantes pasos a nivel.
-10. El informe de investigación se remitirá para tramitar las propuestas formuladas al final del informe al Distrito Forestal de Anija y a Edelaraudtee AS. Para su conocimiento, se remite el informe de investigación a la Agencia Ferroviaria Europea, al Centro de Emergencias de Estonia Septentrional, al Departamento de Vigilancia del Tráfico de la Prefectura de Policía Septentrional, al Gobierno Municipal de Saku y a la Inspección Ferroviaria.
+# 1. RESUMEN
+1. La colisión entre el tren de viajeros Rapla-Tallin y el vehículo de motor Alfa Romeo tuvo lugar el 24 de junio de 2007 a las 20.30 en el paso a nivel de Männiku no regulado automáticamente (pk 14,599).
+2. Como resultado de la colisión, el tren de 125 m de longitud se detuvo a unos 200 m del otro lado del paso a nivel. El vehículo de motor fue proyectado hacia el campo, presentaba una deformación grave y resultó inutilizable.
+3. En el accidente, el acompañante que se encontraba en el vehículo de motor falleció en el acto y el conductor murió el mismo día en el hospital a causa de las lesiones sufridas.
+4. El tren diésel sufrió daños. Las soldaduras del arado de nieve de la locomotora se rompieron y el arado de nieve quedó presionado bajo el tren; se dañó el conducto de aire de la línea de frenos. También se dañó la parte delantera del chasis de la locomotora.
+5. El conductor circuló sin asegurarse de la aproximación del tren al paso a nivel. La causa directa del accidente fue la falta de atención del conductor como usuario del paso a nivel, lo que provocó que el conductor se interpusiera en la trayectoria del tren. El error humano del conductor se debió a una atención insuficiente a la señal de advertencia 121 «Ferrocarril de vía única» situada antes del paso a nivel.
+6. El paso a nivel de Männiku tiene visibilidad limitada, pero no está dotado para los usuarios de la carretera de la señal de prioridad 222 «Deténgase y ceda el paso». El paso a nivel no está señalizado con medios de regulación del tráfico que informaran al usuario de la visibilidad limitada. La ausencia de la señal de prioridad 222 «Deténgase y ceda el paso» es un factor contribuyente a la ocurrencia del accidente.
+7. La atribución de categoría a los pasos a nivel y su dotación con medios de regulación del tráfico que aumenten la seguridad vial dependen tanto de la intensidad del tráfico ferroviario como del tráfico por carretera. La intensidad del tráfico por carretera se ha determinado mediante estimaciones. La ignorancia de la necesidad real de dotar al paso a nivel de medios de regulación del tráfico conforme a las normas es, a largo plazo, un factor que aumenta los riesgos de tráfico y favorece la ocurrencia de accidentes de tráfico.
+8. Se solicita al titular de la carretera que doten el paso a nivel de las señales de prioridad 222 «Deténgase y ceda el paso» y que organicen la determinación de la intensidad del tráfico.
+9. Debe planificarse la desviación del tráfico por carretera que cruza la vía férrea cerca del paso a nivel de Männiku hacia un único paso a nivel seleccionado racionalmente, y el cierre permanente del resto de los pasos a nivel.
+10. El informe de investigación se remitirá para su tramitación de las propuestas formuladas al final del mismo a la Dirección Forestal de Anija y a Edelaraudtee AS. Se remitirá el informe de investigación para su conocimiento a la Agencia Ferroviaria Europea, al Centro de Alertas del Norte de Estonia, al Departamento de Control de Tráfico de la Prefectura de Policía del Norte, a la Administración Municipal de Saku y a la Inspección de Ferrocarriles.
 
 
 ## Página 3
 
 # 1.1 Conclusión
-1. La colisión entre el tren de pasajeros Rapla-Tallinn y el turismo Alfa Romeo tuvo lugar el 24 de junio de 2007 a las 20.30 horas en el paso a nivel de Männiku sin regulación automática (km 14,599).
-2. Como resultado de la colisión, el tren, de 125 m de longitud, se había detenido a unos 200 metros al otro lado del paso a nivel. El turismo había sido proyectado hacia el campo, estaba gravemente deformado y había quedado inutilizable.
-3. El pasajero que iba en el turismo durante el accidente pereció inmediatamente y el conductor falleció ese mismo día en el hospital a causa de las lesiones recibidas.
-4. El tren diésel sufrió daños. Las soldaduras del quitanieves del coche motor se habían roto y el quitanieves había sido empujado bajo el tren; el conducto de aire de la línea de frenos estaba destrozado. También se dañó la parte frontal de la estructura del coche motor.
-5. El conductor había accedido al paso a nivel sin asegurarse de la aproximación del tren al mismo. La causa directa del accidente fue la falta de atención del conductor como usuario del paso a nivel, como resultado de la cual había cruzado por delante del tren. El error humano del conductor se debió a la atención insuficiente prestada a la señal de advertencia 121 «Vía única» situada frente al paso a nivel.
-6. El paso a nivel de Männiku tiene visibilidad limitada, pero no está provisto para los usuarios de la vía con la señal de prioridad 222 «Ceda el paso». El paso a nivel no está señalizado con dispositivos de regulación del tráfico que informen al usuario de la visibilidad limitada. La ausencia de la señal de prioridad 222 «Ceda el paso» es un factor subordinado a la ocurrencia del accidente.
-7. Los pasos a nivel son clasificados en determinadas categorías y equipados con dispositivos de regulación del tráfico que aumentan la seguridad vial de acuerdo con la intensidad del tráfico ferroviario y viario. La intensidad del tráfico viario se ha determinado mediante evaluaciones. La ignorancia de la necesidad real de equipar el paso a nivel con dispositivos de regulación del tráfico conformes a las normas es, a largo plazo, un hecho que incrementa los riesgos viales y es instrumental en la ocurrencia de accidentes.
-8. Se solicita al propietario de la carretera que equipe el paso a nivel con señales de prioridad 222 «Ceda el paso» y que organice la evaluación de la intensidad del tráfico.
-9. Es necesario planificar la dirección del tráfico viario que cruza la línea férrea cerca del paso a nivel de Männiku hacia un único paso a nivel seleccionado racionalmente y cerrar permanentemente los otros pasos a nivel.
-10. El informe de investigación será remitido para la tramitación de las propuestas presentadas al final del informe al distrito forestal de Anija y a Edelaraudtee AS (Ferrocarriles del Suroeste PLC). El informe de investigación será remitido para su conocimiento a la Agencia Ferroviaria Europea, al Centro de Alarmas de Estonia Septentrional, al Departamento de Control del Tráfico de la Prefectura de Policía Septentrional, a la Administración Comunal de Saku y a la Inspección Ferroviaria.
+1. La colisión entre el tren de viajeros Rapla-Tallin y el vehículo de motor Alfa Romeo tuvo lugar el 24 de junio de 2007 a las 20.30 en el paso a nivel de Männiku no regulado automáticamente (pk 14,599).
+2. Como resultado de la colisión, el tren de 125 m de longitud se detuvo a unos 200 m del otro lado del paso a nivel. El vehículo de motor fue proyectado hacia el campo, presentaba una deformación grave y resultaba inutilizable.
+3. El acompañante que se encontraba en el vehículo de motor falleció en el acto y el conductor murió el mismo día en el hospital a causa de las lesiones sufridas.
+4. El tren diésel sufrió daños. Las soldaduras del arado de nieve de la locomotora se rompieron y el arado de nieve quedó presionado bajo el tren; se dañó el conducto de aire de la línea de frenos. También se dañó la parte delantera del chasis de la locomotora.
+5. El conductor circuló sin asegurarse de la aproximación del tren al paso a nivel. La causa directa del accidente fue la falta de atención del conductor como usuario del paso a nivel, lo que provocó que el conductor se interpusiera en la trayectoria del tren. El error humano del conductor se debió a una atención insuficiente a la señal de advertencia 121 «Ferrocarril de vía única» situada antes del paso a nivel.
+6. El paso a nivel de Männiku tiene visibilidad limitada, pero no está dotado para los usuarios de la carretera de la señal de prioridad 222 «Deténgase y ceda el paso». El paso a nivel no está señalizado con medios de regulación del tráfico que informaran al usuario de la visibilidad limitada. La ausencia de la señal de prioridad 222 «Deténgase y ceda el paso» es un factor contribuyente a la ocurrencia del accidente.
+7. La atribución de categoría a los pasos a nivel y su dotación con medios de regulación del tráfico que aumenten la seguridad vial dependen tanto de la intensidad del tráfico ferroviario como del tráfico por carretera. La intensidad del tráfico por carretera se ha determinado mediante estimaciones. La ignorancia de la necesidad real de dotar al paso a nivel de medios de regulación del tráfico conforme a las normas es, a largo plazo, un factor que aumenta los riesgos de tráfico y favorece la ocurrencia de accidentes de tráfico.
+8. Se solicita al titular de la carretera que doten el paso a nivel de las señales de prioridad 222 «Deténgase y ceda el paso» y que organicen la determinación de la intensidad del tráfico.
+9. Debe planificarse la desviación del tráfico por carretera que cruza la vía férrea cerca del paso a nivel de Männiku hacia un único paso a nivel seleccionado racionalmente, y el cierre permanente del resto de los pasos a nivel.
+10. El informe de investigación se remitirá para su tramitación de las propuestas formuladas al final del mismo a la Dirección Forestal de Anija y a Edelaraudtee AS (Sudoeste de Ferrocarriles PLC). Se remitirá el informe de investigación para su conocimiento a la Agencia Ferroviaria Europea, al Centro de Alertas del Norte de Estonia, al Departamento de Control de Tráfico de la Prefectura de Policía del Norte, a la Administración Municipal de Saku y a la Inspección de Ferrocarriles.
 
 ## Página 4
 
-# 2. HECHOS DEL ACCIDENTE
-# El accidente
-El domingo, 24 de junio de 2007, a las 20:30, se produjo una colisión entre un tren de pasajeros y un automóvil Alfa Romeo en el paso a nivel automático no regulado de Männiku (km 14,599), situado entre las estaciones de Liiva y Kiisa.
-Según la «Ley del Ferrocarril» de la República de Estonia, esta colisión se clasifica como un accidente ferroviario de grado I (colisión de material rodante ferroviario con otro medio de transporte que causó una o más víctimas mortales). Según la «Directiva sobre seguridad de los ferrocarriles» 2004/49/CE del Parlamento Europeo y del Consejo, el suceso pertenece a la categoría de accidentes en pasos a nivel.
-Tras el accidente, el tren quedó detenido después del paso a nivel. El automóvil Alfa Romeo, que había quedado delante del tren, fue desplazado hacia fuera del gálibo ferroviario en la dirección de marcha del tren y se encontraba en diagonal con la parte delantera orientada hacia la procedencia del tren. El coche quedó a 6,4 m de distancia del carril más cercano con la rueda delantera y a una distancia de 3,1 m a 3,5 m de la carretera paralela al ferrocarril. Entre el automóvil, la carretera que conduce al paso a nivel y la carretera paralela al ferrocarril había diversos objetos que quedaron allí como consecuencia del accidente. El cuerpo de la víctima mortal del accidente estaba colocado en diagonal hacia la vía, quedando la cabeza a 2,7 m de distancia del carril más cercano y a 17,5 m de la carretera que conduce al paso a nivel. Junto al cuerpo había un zapato del pie izquierdo separado del mismo y, cerca de la cabeza, una motosierra. Entre el cuerpo y la carretera paralela al ferrocarril se encontraba el parabrisas delantero del coche. Desde el parabrisas hacia la carretera que conduce al paso a nivel quedaron el acolchado de la puerta delantera derecha y el reposacabezas del asiento delantero derecho. Entre los carriles había caído una junta de goma. En los pasos a nivel ferroviarios, entre los carriles y justo después de ellos desde la dirección de llegada del coche, eran visibles marcas de arrastre. Desde la dirección de llegada del coche hasta el paso a nivel había un tramo de carretera de 68,8 m de longitud con un pavimento permanente de 5,3 m de ancho. Justo antes de la vía había una señal de tráfico 121 «Ferrocarril de un solo carril».
-El Centro de Alerta de Estonia del Norte recibió una llamada de emergencia accidentalmente por parte de un transeúnte sobre el accidente ocurrido el 24.06.2007 a las 20:31. Se dio orden de salida al lugar de los hechos a la primera unidad principal del equipo de rescate de Nõmme a las 20:32:15. El vehículo llegó al lugar de los hechos a las 20:41:21. Se dio orden de salida a la segunda unidad principal del equipo de rescate de Nõmme a las 20:32:16 y también llegó al lugar de los hechos a las 20:41:21. Ambos vehículos se liberaron del lugar de los hechos a las 21:00:22. Se dio orden de salida a la ambulancia de cuidados intensivos a las 20:33:25. La ambulancia de cuidados intensivos llegó al lugar de los hechos a las 20:42:08. Con la víctima se llegó al hospital de Mustamäe a las 21:00:16 y el vehículo se liberó a las 21:25:31. Se dio orden de salida a la ambulancia de Saku a las 20:33:47, se llegó al lugar de los hechos a las 20:37:26 y se abandonó el lugar del accidente a las 21:01:50. El oficial operativo del Centro de Rescate del Norte recibió orden de acudir al lugar de los hechos a las 20:45:06. El oficial operativo llegó al lugar de los hechos a las 20:53:34 y se liberó de allí a las 21:01:56.
-El Centro de Alerta informó a la policía sobre lo sucedido a las 20:32 y al oficial operativo responsable del centro de rescate a las 20:33. Según la información preliminar, se había producido una colisión entre un tren y un coche, no se podía precisar el número de víctimas, alguien estaba fuera del coche. El Centro de Alerta recibió información del primer equipo de rescate de Nõmme a las 20:43 de que se había producido una colisión de un automóvil con un tren, que había dos personas en el coche, una fallecida, otra gravemente herida, que la ambulancia atendía a la víctima, que el coche estaba volcado, que había fuga de combustible y que los bomberos eliminaban el riesgo de incendio. A las 20:45, el Centro de Alerta transmitió la información necesaria a las personas pertinentes de los servicios internos y al mismo tiempo se obtuvo del jefe del primer equipo de rescate de Nõmme...
+# 2. HECHOS DEL INCIDENTE
+# Incidente
+El domingo, 24 de junio de 2007, a las 20:30, se produjo una colisión entre un tren de pasajeros y un turismo Alfa Romeo en el paso a nivel no regulado de Männiku, situado entre las estaciones de Liiva y Kiisa (pk 14,599).
+De conformidad con la «Ley de Ferrocarriles» de la República de Estonia, la presente colisión se clasifica como un accidente ferroviario de primer grado (colisión del material rodante ferroviario con otro medio de transporte, que provocó una o varias víctimas mortales). De conformidad con la Directiva 2004/49/CE del Parlamento Europeo y del Consejo relativa a la seguridad ferroviaria, el incidente se encuadra en la categoría de accidentes en pasos a nivel.
+Tras el accidente, el tren se detuvo después de cruzar el paso a nivel. El turismo Alfa Romeo, situado delante del tren, había sido proyectado fuera del ancho de vía ferroviario, en la dirección de circulación del tren, y quedó posicionado en diagonal, con la parte delantera orientada hacia la dirección de llegada del vehículo. El vehículo quedó a una distancia de 6,4 m de la vía más próxima con la rueda delantera, y a una distancia de 3,1 m a 3,5 m de la carretera que discurre paralela a la vía férrea.
+Entre el turismo, la carretera que conduce al paso a nivel y la carretera paralela a la vía férrea se encontraban diversos objetos que habían quedado allí como consecuencia del accidente. El cadáver de la persona fallecida yacía en diagonal orientado hacia la vía férrea, con la cabeza a una distancia de 2,7 m de la vía más próxima y a 17,5 m de la carretera que conduce al paso a nivel. Junto al cadáver, separado de este, se encontraba el calzado de la pierna izquierda y, cerca de la cabeza, una sierra circular. Entre el cadáver y la carretera paralela a la vía férrea se hallaba el parabrisas del automóvil. Del parabrisas hacia la carretera que conduce al paso a nivel quedaban el forro de la puerta delantera derecha y el reposacabezas del asiento delantero derecho. Un sello de goma había quedado entre los raíles. En el interior de las vías del paso a nivel y, inmediatamente después de los raíles en la dirección de llegada del automóvil, se observaban marcas de arrastre. Desde la dirección de llegada del automóvil, un tramo de carretera de 68,8 m de longitud y 5,3 m de anchura con firme continuo conducía al paso a nivel. Inmediatamente antes de la vía férrea se encontraba la señal de tráfico 121 «Vía única».
+A las 20:31 del 24.06.2007, el Centro de Emergencias del Norte de Estonia recibió una llamada de un transeúnte que informaba del accidente ocurrido. A las 20:32:15 se ordenó la salida del primer vehículo principal del equipo de rescate de Nõmme hacia el lugar del incidente. El vehículo llegó al lugar del incidente a las 20:41:21. A las 20:32:16 se ordenó la salida del segundo vehículo principal del equipo de rescate de Nõmme, el cual también llegó al lugar del incidente a las 20:41:21. Ambos vehículos abandonaron el lugar del incidente a las 21:00:22. A las 20:33:25 se ordenó la salida de la ambulancia de reanimación. La ambulancia llegó al lugar del incidente a las 20:42:08. Con el herido se llegó al Hospital de Mustamäe a las 21:00:16, y el vehículo abandonó el lugar a las 21:25:31. A las 20:33:47 se ordenó la salida de la ambulancia de Saku; se llegó al lugar del incidente a las 20:37:26 y se abandonó la zona del accidente a las 21:01:50. A las 20:45:06 se ordenó al coordinador operativo del Centro de Rescate del Norte que se desplazara al lugar del incidente. El coordinador operativo llegó al lugar del incidente a las 20:53:34 y lo abandonó a las 21:01:56.
+El Centro de Emergencias informó a la policía a las 20:32 y al coordinador operativo responsable del Centro de Rescate a las 20:33. Según la información inicial, se había producido una colisión entre un tren y un automóvil; no se podía indicar el número de heridos, pero una persona había salido del vehículo. A las 20:43, el Centro de Emergencias recibió información del primer equipo de rescate de Nõmme de que se había producido la colisión de un automóvil con un tren; había dos personas en el automóvil, una fallecida y otra gravemente herida; la ambulancia atendía al herido; el automóvil estaba boca arriba; había una fuga de combustible; los rescatadores eliminaban el riesgo de incendio. A las 20:45, el Centro de Emergencias transmitió la información necesaria a las personas competentes de los servicios internos y, al mismo tiempo, se recibió del jefe del primer equipo de rescate de Nõmme
+
 
 ## Página 5
 
-...información de que el coche había sido girado sobre sus ruedas, que los cables de la batería estaban desconectados y que se asistía a la ambulancia. En el lugar de los hechos había un herido y un fallecido.
-La Unidad de Investigación de Accidentes Ferroviarios del Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones recibió aviso del accidente de tráfico ocurrido en el paso a nivel de Männiku por parte del jefe de la sección de supervisión de infraestructura del departamento de supervisión de la Inspección Ferroviaria en la tarde del 25 de junio de 2007.
-La Unidad de Investigación tomó la decisión el 26 de junio de llevar a cabo la investigación de un accidente de tráfico ferroviario de grado I. Ese mismo día, la Unidad de Investigación notificó el inicio de la investigación a la Agencia Ferroviaria Europea según la forma prevista. La investigación es realizada por el especialista principal Jüri Olde del Departamento de Gestión de Crisis, quien cumple las funciones de investigador responsable. El investigador responsable examina todas las circunstancias importantes que reflejan el suceso. Recoge la información correspondiente, la selecciona y la compara. Durante la investigación, el investigador responsable elabora un informe de investigación en el que determina la causa del accidente y planifica medidas para reducir futuros accidentes similares.
-# Antecedentes del suceso
-El tren de pasajeros n.º 0262 de Edelaraudtee AS era operado por la tripulación de locomotora de la misma empresa, compuesta por dos miembros. El maquinista posee una licencia de maquinista expedida por la Inspección Ferroviaria el 16.01.2001, según la cual se le ha otorgado el derecho a conducir trenes diésel el 27.03.1998. La validez de la licencia de maquinista ha sido prorrogada el 26.01.2006 y actualmente está vigente. El ayudante de maquinista posee un certificado profesional emitido por Eesti Raudtee y la Cámara Profesional, que acredita su conformidad con los requisitos de calificación profesional de ayudante de maquinista I, ayudante de conductor de tren diésel. El certificado profesional fue emitido el 01.06.2006 y es válido hasta el 01.06.2011.
-El conductor del automóvil Alfa Romeo con matrícula nacional de registro 156MCP poseía un permiso de conducción B vigente.
-El tren de pasajeros n.º 0262 de Edelaraudtee AS circulaba en la ruta Rapla – Tallinn. Lo operaba el tren diésel de cinco vagones DR1B 3707/3708 de la filial de la misma empresa, Edelaraudtee Veeremi OÜ, cuya longitud total era de 125 m. En el accidente resultó dañado el vagón motor n.º 3707 del tren diésel.
-El paso a nivel de Männiku (km 14,599) se encuentra en la infraestructura de Edelaraudtee Infrastruktuuri AS, en la línea principal de vía única Tallinn – Pärnu, en el trayecto entre las estaciones de Liiva y Kiisa. El paso a nivel está situado en el territorio del municipio de Saku. El tráfico por carretera en el paso a nivel tiene lugar en una calzada propiedad del distrito forestal de Anija. La frecuencia de circulación de trenes es de 23 trenes diarios y la frecuencia de tráfico de automóviles, según la estimación de Edelaraudtee AS, es inferior a 50 unidades diarias. El propietario de la calzada, el distrito forestal de Anija, no ha realizado recuentos de intensidad de tráfico. La velocidad máxima permitida para los trenes de pasajeros es de 90 km/h y para el tráfico automovilístico también es de 90 km/h. La visibilidad desde la dirección de llegada del coche implicado en el accidente hacia la dirección de aproximación del tren, a 50 m de distancia del carril más cercano, es de 150 m. Una granja adyacente al ferrocarril obstaculiza una mayor visibilidad. A 8 m de la vía, la visibilidad hacia la dirección de aproximación del tren implicado en el accidente es de 400 m. Al acercarse al paso a nivel desde el otro lado del ferrocarril, a 50 m de distancia del carril más cercano, no existe en absoluto visibilidad hacia la dirección de aproximación del tren al ferrocarril. El ancho del paso a nivel es de 7 m y está cubierto con un asfalto en condiciones satisfactorias. Según los datos del pasaporte del paso a nivel de Edelaraudtee AS, la señal de tráfico 222 «Ceda el paso» no está prevista. El paso a nivel está equipado con la señal de advertencia 121 «Ferrocarril de un solo carril». La visibilidad del paso a nivel para el maquinista es de 800 m. Existen señales acústicas de ferrocarril. El paso a nivel no está regulado por señalización automática. Al paso a nivel se le ha asignado la categoría III.
+la información de que el automóvil estaba boca arriba, los cables de la batería estaban desconectados y se prestaba asistencia a la ambulancia. En el lugar del incidente había un herido y un fallecido.
+A mediodía del 25 de junio de 2007, la Dirección de Gestión de Crisis del Ministerio de Economía y Comunicaciones recibió, a través de la Unidad de Investigación de Accidentes Ferroviarios, la notificación del accidente de tráfico ocurrido en el paso a nivel de Männiku, por parte del Jefe del Departamento de Supervisión de Infraestructuras de la Dirección de Supervisión de la Inspección Ferroviaria.
+El 26 de junio, la Unidad de Investigación adoptó la decisión de llevar a cabo la investigación de un accidente de tráfico ferroviario de primer grado. El mismo día, la Unidad de Investigación notificó a la Agencia Ferroviaria Europea, mediante el formulario previsto, el inicio de la investigación. La investigación la realiza el especialista principal de la Dirección de Gestión de Crisis, Jüri Olde, quien cumple las funciones de investigador responsable. El investigador responsable se familiariza con todos los hechos relevantes que reflejan el incidente. Recopila la información correspondiente, la selecciona y la compara. Durante la investigación, el investigador responsable elabora el informe de investigación, en el que determina la causa del accidente y planifica las medidas para reducir la ocurrencia de accidentes similares en el futuro.
+# Antecedentes del incidente
+El tren de pasajeros n.º 0262 de Edelaraudtee AS fue atendido por la misma tripulación de locomotoras de la empresa, compuesta por dos miembros. El maquinista posee un permiso de conducción de locomotoras expedido por la Inspección Ferroviaria el 16.01.2001, según el cual se le otorgó el derecho a conducir trenes diésel el 27.03.1998. La validez del permiso de maquinista fue prorrogada el 26.01.2006 y, en la actualidad, el permiso es válido. El ayudante de maquinista posee un certificado profesional expedido por Eesti Raudtee y la Cámara de Profesiones, que acredita su cumplimiento de los requisitos de la cualificación profesional de ayudante de maquinista de trenes diésel de categoría I. El certificado profesional fue expedido el 01.06.2006 y es válido hasta el 01.06.2011.
+El conductor del turismo Alfa Romeo con matrícula nacional 156MCP poseía un permiso de conducción de categoría B válido.
+El tren de pasajeros n.º 0262 de Edelaraudtee AS circulaba por la ruta Rapla – Tallinn. Era atendido por un tren diésel de cinco vagones DR1B 3707/3708 de la sociedad filial de la misma empresa, Edelaraudtee Veeremi OÜ, cuya longitud total era de 125 m. El vagón motor del tren diésel n.º 3707 resultó dañado en el accidente.
+El paso a nivel de Männiku (pk 14,599) se encuentra en la infraestructura de Edelaraudtee Infrastruktuuri AS, en la línea principal de vía única Tallinn – Pärnu, entre las estaciones de Liiva y Kiisa.
+El paso a nivel se sitúa en el territorio del municipio de Saku. El tráfico rodado en el paso a nivel se desarrolla en una carretera propiedad del Bosque de Anija. La frecuencia de circulación de los trenes es de 23 trenes diarios y, según la estimación de Edelaraudtee AS, la frecuencia de circulación del tráfico de automoción es inferior a 50 unidades diarias. El titular de la carretera, el Bosque de Anija, no ha realizado recuentos de la intensidad del tráfico. La velocidad máxima permitida para los trenes de pasajeros es de 90 km/h y para el tráfico de automoción también es de 90 km/h. La visibilidad desde la dirección de llegada del automóvil participante en el accidente, a 50 m de la vía más próxima hacia la dirección de aproximación del tren, es de 150 m. Una finca colindante con la vía férrea dificulta una mayor visibilidad. A 8 m de la vía férrea, la visibilidad hacia la dirección de aproximación del tren participante en el accidente es de 400 m. Desde el otro lado de la vía férrea, al aproximarse al paso a nivel a 50 m de la vía más próxima, no existe visibilidad alguna hacia la vía férrea en la dirección de aproximación del tren. La anchura del paso a nivel es de 7 m y está cubierto por un firme de asfalto en estado aceptable. Según los datos del pasaporte del paso a nivel de Edelaraudtee AS, la señal de tráfico 222 «Deténgase y ceda el paso» no está prevista. El paso a nivel está equipado con la señal de advertencia 121 «Vía única». La visibilidad del maquinista hacia el paso a nivel es de 800 m. Las señales de silbato de la vía férrea están presentes. El paso a nivel no está regulado por señalización automática. Al paso a nivel se le ha asignado la categoría III.
 
 ## Página 6
 
-El transporte de los pasajeros que viajaban en el tren hasta su destino se organizó mediante autobuses por parte de la empresa ferroviaria. El tren fue enviado al depósito tras el accidente. Se convocó a la policía en el lugar del suceso, quien instruyó las diligencias del caso. A través del centro de emergencias se convocaron servicios de ambulancia y bomberos en el lugar del suceso. Los equipos de rescate adoptaron medidas para evitar consecuencias graves adicionales.
+El transporte de los pasajeros que se encontraban en el tren durante el accidente hasta su destino se organizó mediante autobuses por parte de la empresa ferroviaria. El tren fue enviado a los talleres tras el accidente. Se llamó a la policía al lugar del suceso, que instruyó el caso. A través del centro de emergencias se solicitó la presencia de la ambulancia y del servicio de rescate en el lugar del suceso. Los equipos de rescate aplicaron medidas para evitar consecuencias graves adicionales.
+# Muertes, lesiones y daños materiales
+Como consecuencia del accidente, falleció en el lugar del suceso un acompañante que se encontraba en el coche particular. La causa de su muerte fue un traumatismo craneoencefálico cerrado provocado por un accidente de tráfico, con fracturas múltiples de los huesos del cráneo y de la base del cráneo, conmoción cerebral, hematomas subdurales, así como contusiones y heridas incisas, abrasiones cutáneas y hematomas subcutáneos en la frente. El conductor del coche particular fue trasladado en estado muy grave al cuerpo de Mustamäe del Hospital Regional del Norte de Estonia (SA Põhja-Eesti Regionaalhaigla), donde falleció a las 22:20. Al conductor del vehículo se le diagnosticaron inmediatamente contusión pulmonar, lesión de la arteria pulmonar y estado de shock.
+Los ferroviarios y los pasajeros del tren no sufrieron lesiones.
+El coche particular Alfa Romeo con matrícula 156MCP se deformó completamente y quedó irreparable.
+Tras la colisión con el coche particular Alfa Romeo, el vagón motor DR1B 3707
+En el vagón motor del tren diésel DR1B 3707/08 se detectaron tras el accidente daños en el arado de nieve, desgarro del metal de la carrocería del vagón en los puntos de fijación del arado de nieve, contusiones en los ejes de las ruedas, rotura de la tubería de aire de la línea de frenos, hundimiento de la esquina delantera derecha de la carrocería del vagón en un área de 1 m², y daños en la pintura exterior de la parte delantera de la carrocería del vagón en un área de 3 m². Los costes necesarios para la eliminación de los daños ascienden a 173.410 coronas. Además, se incurrió en gastos por valor de 1.600 coronas para el transporte de los pasajeros en autobuses desde el lugar del accidente, y por valor de 6.024,15 coronas para conceder días libres adicionales al maquinista y al ayudante.
+La infraestructura ferroviaria y el paso a nivel permanieron intactos.
+# Condiciones externas
+El accidente ocurrió con tiempo despejado durante el día. La vía era recta y seca, y se encontraba en una ligera pendiente ascendente.
 
-# Fallecimientos, lesiones y daños materiales
-
-Como consecuencia del accidente, falleció en el lugar de los hechos un pasajero que iba en el turismo. La causa de su muerte fue un traumatismo cerrado contuso craneoencefálico sufrido en el accidente de tráfico, con fracturas múltiples de los huesos frontal y occipital, conmoción cerebral, hematomas subdurales, así como heridas contusas y cortadas, abrasiones cutáneas y hematoma subcutáneo en la frente. El conductor del turismo fue trasladado en estado extremadamente grave al pabellón Mustamäe del Hospital Regional Norte de Estonia (SA Põhja-Eesti Regionaalhaigla), donde falleció a las 22:20 horas. Al conductor del vehículo se le diagnosticaron inmediatamente una contusión pulmonar, una lesión de la arteria pulmonar y un estado de shock. Ni el personal ferroviario ni los pasajeros del tren sufrieron lesiones.
-
-El turismo Alfa Romeo, con matrícula 156MCP, quedó completamente deformado e irreparable.
-
-Tras la colisión con el turismo Alfa Romeo, en el coche motor DR1B 3707 del tren diésel DR1B 3707/08 se detectaron daños en el quitanieves, desgarro del metal de la carrocería del vagón desde los puntos de fijación del quitanieves, abolladuras causadas por el enganche, rotura del tubo de aire de la línea principal de frenos, abolladura de la esquina delantera derecha de la carrocería del vagón en una superficie de 1 m² y daños en la pintura exterior de la parte frontal de la carrocería del vagón en una superficie de 3 m². Los costes necesarios para reparar los daños ascienden a 173410 coronas. Además, se incurrió en gastos por valor de 1600 coronas para el traslado de los pasajeros desde el lugar del accidente en autobuses, y en 6024,15 coronas por la concesión de días libres adicionales al maquinista y al ayudante.
-
-La infraestructura ferroviaria y el paso a nivel quedaron intactos.
-
-# Circunstancias externas
-
-El accidente se produjo con tiempo despejado durante horas de luz diurna. La vía era recta y seca, y se encontraba en una ligera pendiente ascendente.
 
 ## Página 7
 
-# 3. DATOS DE LAS INVESTIGACIONES Y DECLARACIONES
-
+# 3. DATOS DE LAS INVESTIGACIONES Y CUESTIONARIOS
 # Resumen de las declaraciones
-
-El conductor del tren diésel ha proporcionado explicaciones y testimonios sobre el incidente, en los que señala que, al salir de la parada de Saku con las luces de posición y el foco encendidos, y al aproximarse al paso a nivel situado en el km 15 pk 7, vio cómo un Audi cruzaba el paso a nivel a gran velocidad. El maquinista emitió una señal acústica fuerte. Al acercarse más al paso a nivel, vio otro vehículo que se aproximaba al mismo a gran velocidad. La tripulación de la locomotora emitió una señal acústica fuerte. El vehículo comenzó a reducir la velocidad y, casi deteniéndose antes del paso a nivel, entró lenta y suavemente en la vía justo delante del tren. El maquinista aplicó el freno de emergencia, pero resultó imposible evitar la colisión. El impacto del tren se produjo en la zona central del vehículo (en el asiento del pasajero junto al conductor). Como resultado del golpe, el vehículo salió despedido unos 20 metros desde el paso a nivel fuera de la carretera.
-
-Tras la detención del tren, la tripulación de la locomotora corrió hacia el vehículo y encontró el cuerpo sin vida de una mujer tendido en el suelo y a un hombre inconsciente pero con signos vitales. La tripulación solicitó una ambulancia y la policía, e informó al despachador y al coordinador del depósito sobre lo ocurrido.
-
-Como consecuencia de la colisión, resultaron dañados el quitanieves del tren y la tubería de aire comprimido de la línea principal. Tras prestar declaración ante la policía, la tripulación de la locomotora regresó al tren sin pasajeros (quienes fueron evacuados en autobuses), eliminó la fuga de aire, cargó los frenos, realizó una prueba e informó al despachador de que estaban listos para continuar la marcha. El despachador autorizó la circulación hasta la estación de Liiva, donde ya les esperaba el tren n.º 0373, Tallinn – Türi, con pasajeros. Una vez llegado a la estación de Liiva, el maquinista pasó al tren n.º 0373 y continuó su viaje hasta la estación de Türi.
-
-El ayudante del conductor del tren diésel ha proporcionado testimonios y explicaciones en los que informa que, entre las estaciones de Kiisa y Liiva, entre las paradas de Saku y Männiku, un turismo negro cruzó el paso a nivel situado en el km 15 pk 7 sin detenerse mientras se aproximaba. El maquinista emitió una señal acústica fuerte. Al aproximarse al paso a nivel, la tripulación de la locomotora observó que un segundo vehículo seguía al coche negro, circulando muy rápido hacia el paso a nivel. El vehículo frenó ligeramente, pero continuó avanzando. El maquinista volvió a emitir una señal acústica fuerte. La joven que ocupaba el asiento del pasajero vio el tren que se aproximaba. El impacto del tren se produjo en el lugar donde estaba sentada la joven. El maquinista aplicó el freno de emergencia.
-
-Tras la detención completa del tren, la tripulación de la locomotora corrió para ver qué había sido de las personas dentro del vehículo. Las personas yacían en el suelo fuera del coche. La joven estaba inmóvil y el hombre mostraba signos vitales. Ya habían sido convocadas la policía y la ambulancia. El foco estaba encendido.
-
-# Sistema de gestión de seguridad
-
-Edelaraudtee AS ha establecido, desde el 21.11.2005, el documento «Notificación de accidentes y eliminación de sus consecuencias» (EÜ04). La Parte III del documento EÜ04, «Accidentes en Edelaraudtee», establece:
-
-1. Se considera accidente:
-1.1. Un siniestro ferroviario o un accidente de tren que implique incendios, contaminación ambiental o víctimas humanas, o la interrupción del tráfico ferroviario.
+El maquinista del tren diésel ha proporcionado explicaciones y declaraciones sobre el incidente, en las que indica que, al salir de la parada de Saku con las luces de advertencia y el faro encendidos, y al acercarse al paso a nivel en el pk 7 del km 15, vio que un Audi cruzaba el paso a nivel a alta velocidad. El maquinista emitió una señal acústica fuerte. Al acercarse más al paso a nivel, vio otro coche que se acercaba al paso a nivel a alta velocidad. La tripulación emitió una señal acústica fuerte. El coche comenzó a reducir la velocidad y, casi deteniéndose antes del paso a nivel, entró lentamente y sin problemas en la vía directamente delante del tren. El maquinista aplicó el freno de emergencia, pero resultó imposible evitar la colisión. El impacto contra el coche se produjo en el centro del mismo (el asiento del acompañante al lado del conductor). Como consecuencia del impacto, el coche fue lanzado fuera de la vía a unos 20 metros del paso a nivel.
+Tras la detención del tren, la tripulación corrió hacia el coche y encontró el cadáver de una mujer tendida en el suelo y a un hombre inconsciente con signos vitales.
+La tripulación llamó a la ambulancia y a la policía, e informó del incidente al despachador y al encargado del taller.
+Como consecuencia de la colisión, resultaron dañados el arado de nieve del tren y la tubería maestra de aire comprimido. Tras prestar declaración ante la policía sobre el incidente, la tripulación se acercó al tren (sin pasajeros, ya que habían sido trasladados en autobuses), eliminó la fuga de aire, cargó los frenos, realizó una prueba e informó al despachador de su disposición para continuar el viaje. El despachador autorizó el desplazamiento hasta la estación de Liiva, donde ya les esperaba el tren n.º 0373 con pasajeros, procedente de Tallinn y con destino a Türi. Al llegar a la estación de Liiva, el maquinista se incorporó al tren n.º 0373 y continuó el viaje hasta la estación de Türi.
+El ayudante del maquinista del tren diésel ha proporcionado declaraciones y explicaciones, en las que informa de que, entre las estaciones de Kiisa y Liiva, al acercarse al paso a nivel en el pk 7 del km 15 entre las paradas de Saku y Männiku, un coche particular negro cruzó el paso a nivel sin detenerse. El maquinista emitió una señal acústica fuerte. Al acercarse al paso a nivel, la tripulación observó que a otro coche le seguía otro vehículo que se acercaba al paso a nivel a gran velocidad. El coche frenó un poco, pero continuó avanzando. El maquinista emitió de nuevo una señal acústica fuerte. La joven que ocupaba el asiento del acompañante vio acercarse el tren. El impacto contra el coche se produjo en el lugar donde estaba sentada la joven. El maquinista aplicó el freno de emergencia.
+Tras la detención completa del tren, la tripulación corrió para ver qué le había ocurrido a las personas del coche. Las personas yacían en el suelo fuera del coche. La joven yacía sin vida y el hombre mostraba signos vitales. Se había llamado a la policía y a la ambulancia. El faro estaba encendido.
+# Sistema de gestión de la seguridad
+Edelaraudtee AS ha establecido desde el 21.11.2005 la norma «Comunicación de accidentes y eliminación de las consecuencias» (EÜ04). La parte III del documento EÜ04, «Accidentes en Edelaraudtee», establece
+1. Se considerará accidente:
+1.1. 
+accidentes ferroviarios 
+o 
+accidentes de tren, 
+que vayan acompañados de 
+incendios, 
+contaminaciones ambientales o víctimas mortales o interrupción del tráfico ferroviario.
 
 ## Página 8
 
-2. Medios de comunicación para notificar el accidente
-2.1. Para notificar el accidente se utiliza el primer medio de comunicación disponible.
-3. Contenido del aviso
-3.1 El aviso del accidente debe ser breve y claro, y contener la siguiente información:
-3.1.1. Nombre del emisor del aviso, puesto de trabajo, número de teléfono, fax
-3.1.2. Qué ocurrió (descripción del suceso)
-3.1.3. Dónde ocurrió y cómo llegar al lugar de los hechos
-3.1.4. A qué hora ocurrió
-3.1.5. Si hay víctimas
-3.1.6. Si se requiere asistencia urgente y de qué tipo
-3.1.7. Si existe necesidad de evacuación de personas
-3.1.8. Alcance del accidente, evaluación de riesgos y medidas adoptadas
-3.1.9. Riesgo de contaminación ambiental, presencia de cargas tóxicas y cuáles
-3.1.10. A quién se ha informado previamente del suceso
-3.1.11. Comunicaciones con el lugar de los hechos.
-Anexo 1 «Procedimiento de actuación de los trabajadores en caso de accidente»
-Maquinista y ayudante de maquinista. Suceso que debe notificarse: accidentes con participación de trenes o con trenes. A quién se transmite el aviso y plazo: inmediatamente al jefe de estación o al despachador de trenes. Instrucciones del jefe de estación y del despachador de trenes al personal de atención al cliente inmediatamente. Qué hace el trabajador por sí mismo: presta primeros auxilios a las personas utilizando los medios disponibles en el tren. En caso de avería o fallo mayor, determina la magnitud del fallo y los posibles métodos de reparación, e informa al despachador de trenes. Debe mantener comunicaciones por radio desde el lugar de los hechos hasta la llegada de la ayuda.
-Jefe de servicios a bordo. Suceso que debe notificarse: todos los accidentes ferroviarios. A quién se transmite el aviso y plazo: inmediatamente al despachador de trenes de Edelaraudtee, al director de la empresa de transporte de pasajeros. Qué hace el trabajador por sí mismo: investiga las circunstancias del suceso, organiza si es necesario el transporte de pasajeros en autobuses, el trabajo del personal de atención al cliente y la facilitación de la información necesaria a dicho personal.
-Edelaraudtee AS ha entrado en vigor, desde el 01.06.2006, «Investigación de las causas de accidentes e incidencias. Determinación de daños» (EÜ04-J06).
-La EÜ04-J06 establece
+2. Medios de comunicación para la notificación del accidente
+2.1. Para la notificación del accidente se utiliza el medio de comunicación disponible en primer lugar.
+3. Contenido de la notificación
+3.1 La notificación del accidente debe ser breve y clara, y contener la siguiente
+información:
+3.1.1. nombre del remitente de la notificación, puesto de trabajo, número de teléfono, fax
+3.1.2. qué ha ocurrido (descripción de lo sucedido)
+3.1.3. dónde ha ocurrido y cómo desplazarse hasta el lugar del suceso
+3.1.4. a qué hora ha ocurrido
+3.1.5. si hay víctimas
+3.1.6. si se necesita ayuda urgente y de qué tipo
+3.1.7. si existe necesidad de evacuación de personas
+3.1.8. magnitud del accidente, evaluación de riesgos y medidas adoptadas
+3.1.9. peligro de contaminación ambiental, existencia de mercancías tóxicas y de qué tipo
+3.1.10. a quién se ha notificado previamente lo sucedido
+3.1.11. comunicación con el lugar del suceso.
+Anexo 1 «Procedimiento de actuación del personal en caso de accidente»
+Mecánico de locomotora y ayudante de mecánico de locomotora. Suceso del que se debe transmitir la notificación: accidentes con participación de trenes o causados por trenes. A quién transmite la notificación y plazo: inmediatamente al encargado de la estación o al despachador de trenes. El encargado de la estación y el despachador de trenes transmiten las órdenes al personal de atención al cliente inmediatamente. Qué hace el empleado por su cuenta: presta primeros auxilios a las personas a bordo del tren con los medios disponibles en el mismo. En caso de un accidente mayor o de una avería, determina la magnitud de la avería y las posibles formas de subsanarla, y lo notifica al despachador de trenes. Debe mantener la comunicación por radio desde el lugar del suceso hasta la llegada de la ayuda.
+Responsable del servicio de transporte de viajeros.
+Suceso del que se debe transmitir la notificación: todos los accidentes ferroviarios. A quién transmite la notificación y plazo: inmediatamente al despachador de trenes de Edelaraudtee y al director de la empresa de transporte de viajeros. Qué hace el empleado por su cuenta: aclara las circunstancias de lo sucedido, organiza, si fuera necesario, el transporte de viajeros mediante autobuses, la labor del personal de atención al cliente y la prestación de la información necesaria a dicho personal.
+Edelaraudtee AS ha hecho efectiva desde el 01.06.2006 la «Investigación de las causas de accidentes e infracciones. Determinación de daños» (EÜ04-J06).
+EÜ04-J06 establece
 1. Disposiciones generales
 Objetivo
-Determinar las causas, los responsables y las consecuencias del suceso.
-2. Investigación de las causas de accidentes e incidencias.
-2.4. La investigación de las operaciones defectuosas que causaron el accidente, así como del accidente y la avería, puede ser realizada de forma independiente por los jefes de las unidades estructurales o bien por el departamento de calidad y seguridad. El método de investigación depende de la naturaleza del suceso y se realiza conforme al anexo de la presente instrucción. (Anexo 1) «Organizadores y plazos de la investigación de las causas de los accidentes».
-2.8. Si la obligación de realizar la investigación final del incidente recae en el Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones, al organizar la investigación interna de la empresa se deben cumplir obligatoriamente los requisitos de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo.
-La comisión de inspección periódica del paso a nivel de Männiku no encontró el 13 de junio de 2007 ninguna no conformidad que supusiera un peligro para quienes cumplen las normas de circulación.
+Aclarar las causas, los responsables y las consecuencias del suceso.
+2. Investigación de las causas de accidentes e infracciones.
+2.4. La investigación de la actividad práctica que causó el accidente, así como la investigación del accidente y del siniestro, pueden ser llevadas a cabo por los jefes de las unidades estructurales de forma independiente o por el departamento de calidad y seguridad.
+El método de investigación depende de la naturaleza de lo sucedido y se realiza de conformidad con el anexo de la presente guía. (Anexo 1) «Responsables y plazos de la organización de la investigación de las causas de accidentes».
+2.8. Si la obligación de realizar la investigación final del suceso recae en el Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones, al organizar la investigación interna de la empresa se debe tener necesariamente en cuenta las exigencias de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo.
+La comisión de inspección periódica del paso a nivel de Männiku no encontró el 13 de junio
+de 2007 incumplimientos que constituyeran un peligro para quienes deben cumplir las normas de circulación.
 
 
 ## Página 9
 
-# Normativa jurídica
-La «Instrucción sobre la construcción, mantenimiento y uso de pasos a nivel» establece
-§ 3. Categorías de los pasos a nivel.
-(4) Un paso a nivel puede ser regulado o no regulado. Los pasos a nivel se clasifican de la siguiente manera:
-1) 
-paso a nivel regulado con barreras se equipa con señalización automática del paso a nivel y barreras automáticas o semiautomáticas. El paso a nivel es atendido por un operador de paso a nivel. Aquí se incluyen los pasos a nivel existentes de categoría I donde no está garantizada la visibilidad del tren para un automóvil situado a 50 m del borde más cercano de la vía según lo siguiente:
-a velocidad de tren de 25 km/h y por debajo de esta, 100 m;
-a velocidad de tren de 26-40 km/h, 150 m;
-a velocidad de tren de 41-80 km/h, 250 m;
-a velocidad de tren de 81-120 km/h, 400 m;
-asimismo, los pasos a nivel sobre 3 o más vías principales.
-3) 
-paso a nivel regulado sin barreras se equipa con señalización automática del paso a nivel y, si es necesario, también con barreras automáticas, siendo la necesidad de barreras determinada por la comisión mencionada en el apartado (1) del § 3. Aquí se incluyen todos los pasos a nivel de categoría II y aquellos pasos a nivel de categoría III donde no está garantizada la distancia de visibilidad del tren indicada en el punto 1) del apartado (4) y cuya intensidad de tráfico supera los 50 automóviles y los 16 trenes diarios;
-4) paso a nivel no regulado se señala únicamente con las señales de tráfico obligatorias previstas en la LE. La seguridad de la circulación de vehículos y peatones sobre la vía en este tipo de paso a nivel es responsabilidad del conductor del vehículo y del propio usuario de la vía. Aquí se incluyen los pasos a nivel no mencionados en los puntos 1), 2) y 3) del presente apartado y, excepcionalmente, previa coordinación con el titular de la carretera, la prefectura de policía correspondiente al emplazamiento del paso a nivel, la administración local y la Inspección Ferroviaria, los pasos a nivel existentes mencionados en el punto 3).
-§ 4. Requisitos para los pasos a nivel existentes.
-(5) 
-Se asigna una categoría al paso a nivel basándose en los volúmenes de tráfico registrados durante el control de la intensidad del tráfico ferroviario previsto en el horario de trenes del titular de la línea férrea y del tráfico por carretera, siendo el titular de la carretera quien controla la intensidad del tráfico por carretera y el titular de la línea férrea quien controla la intensidad del tráfico ferroviario.
-§ 5. Requisitos para el diseño y la construcción de nuevos pasos a nivel.
-(7) Al maquinista que circula en línea con un tren se le debe garantizar la visibilidad del paso a nivel desde una distancia igual a la distancia máxima de frenado teórica de un tren de mercancías según la tabla 4 +50 m, debiendo el maquinista ver el paso a nivel no regulado desde al menos 1000 m de distancia.
-La Norma Estándar Estonia EVS 613:2001 «Señales de tráfico y su uso» establece
+# Normas jurídicas
+La «Guía para la construcción, mantenimiento y uso de pasos a nivel» establece
+§ 3. Categorías de pasos a nivel.
+(4) Un paso a nivel puede estar regulado o no regulado. Los pasos a nivel se dividen de la
+siguiente manera:
+1)
+paso a nivel regulado con vigilancia
+se equipara con señalización automática de paso a nivel y barreras automáticas o semiautomáticas.
+El paso a nivel es atendido por un encargado del paso a nivel. A esta categoría pertenecen los pasos a nivel de categoría I existentes, donde no se garantiza la visibilidad del tren para un vehículo situado a 50 m del carril más extremo, de la siguiente manera:
+a una velocidad del tren de 25 km/h y menos, 100 m;
+a una velocidad del tren de 26-40 km/h, 150 m;
+a una velocidad del tren de 41-80 km/h, 250 m;
+a una velocidad del tren de 81-120 km/h, 400 m;
+así como los pasos a nivel que cruzan tres o más vías principales.
+3)
+paso a nivel regulado sin vigilancia
+se equipara con señalización automática de paso a nivel y, si es necesario, con barreras automáticas, donde la necesidad de las barreras la determina la comisión mencionada en el apartado (1) del § 3. A esta categoría pertenecen todos los pasos a nivel de categoría II y los pasos a nivel de categoría III donde no se garantiza la distancia de visibilidad del tren indicada en el punto 1) del apartado (4) y cuya intensidad de tráfico es superior a 50 vehículos y a 16 trenes por día;
+4) paso a nivel no regulado se marca únicamente con las señales de tráfico obligatorias previstas en LE. La conducción segura y la circulación de peatones en el paso a nivel de este tipo la garantiza el conductor del vehículo y el usuario de la vía. A esta categoría pertenecen los pasos a nivel que no se mencionan en los puntos 1), 2) y 3) del presente apartado y, excepcionalmente, los pasos a nivel existentes mencionados en el punto 3), coordinados con el propietario de la vía, la prefectura de policía correspondiente a la ubicación del paso a nivel, la administración local y la Inspección Ferroviaria.
+§ 4. Exigencias para los pasos a nivel existentes.
+(5)
+Se asigna una categoría al paso a nivel en función del volumen de tráfico fijo registrado al controlar el tráfico de trenes previsto en el horario de circulación de trenes del titular de la vía férrea y la intensidad del tráfico por carretera, donde la intensidad del tráfico por carretera la controla el titular de la vía y la intensidad del tráfico ferroviario la controla el titular de la vía férrea.
+§ 5. Exigencias para el diseño y construcción de nuevos pasos a nivel.
+(7) Al mecánico de locomotora que viaja en el tren con mercancías se le debe garantizar la visibilidad del paso a nivel desde una distancia igual a la distancia de frenado de emergencia máxima calculada para un tren de mercancías según la tabla 4 +50 m, donde el paso a nivel no regulado debe ser visible para el mecánico de locomotora desde al menos 1000 m de distancia.
+La norma estonia EVS 613:2001 «Señales de tráfico y su uso» establece
 7. Señales de prioridad.
-7.5 Señal 222. Ceda el paso.
-Ante un paso a nivel se puede colocar la señal 222 en casos de visibilidad limitada, cuando no haya barrera ni semáforo 72 o 73. La señal se coloca en un lugar donde exista suficiente visibilidad hacia la vía férrea, pero no más cerca de 3 m de la vía. En este caso no se coloca la señal previa 221.
-La «Ley de modificación de la Ley del Ferrocarril y de la Ley de Carreteras» establece
-§ 6. Se complementa la ley con el § 34¹ con la siguiente redacción:
+7.5 Señal 222. Deténgase y ceda el paso.
+Antes del paso a nivel puede colocarse la señal 222 en caso de visibilidad limitada, si no hay barreras ni semáforos 72 o 73. La señal se coloca en un lugar donde haya suficiente visibilidad hacia la vía férrea, pero no a menos de 3 m del carril. La señal previa 221 no se coloca en este caso.
+La «Ley de modificación de la Ley Ferroviaria y de la Ley de Carreteras» establece
+§ 6. La Ley se completa con el § 34¹ en la siguiente redacción:
 
 ## Página 10
 
-(1) La empresa ferroviaria debe establecer en su empresa un sistema de gestión de la seguridad y garantizar su aplicación. El sistema de gestión de la seguridad se establece por escrito, asimismo, la aplicación del sistema de gestión de la seguridad debe estar documentada en todas sus partes esenciales.
-§ 30. Los apartados § 2, § 5 punto 1 y § 6 de la presente ley entrarán en vigor el 1 de enero de 2008.
-# Material móvil y funcionamiento de equipos técnicos
-El tren diésel DR1B 3707/3708 estaba técnicamente en buen estado antes del accidente de tráfico y autorizado para circular según las normas vigentes de Edelaraudtee Veeremi OÜ. Se realizó el mantenimiento técnico H1 el 24.06.2007, el mantenimiento técnico H2 el 18.06.2007 y el H3 el 05.06.2007; el tren fue entregado tras la reparación R5 en agosto de 2006 y el kilometraje recorrido desde entonces hasta el accidente de tráfico fue de 99724 kilómetros.
-Como resultado de la decodificación de la cinta del velocímetro SL2M n.º 23988 del tren diésel DR1B 3707, se ha determinado que, durante el servicio del tren n.º 0262 entre las estaciones de Kiisa – Liiva, en el km 15 pk 6, a una velocidad de 61 km/h, a las 20.30 horas, se registró un frenado de emergencia. El tren estuvo detenido 67 minutos. La distancia de frenado real fue de 200 m; según el nomograma de determinación de la distancia de frenado, la distancia de frenado máxima permitida era de 225 m.
+(1) La empresa ferroviaria debe establecer en su empresa un sistema de gestión de la seguridad y garantizar su aplicación. El sistema de gestión de la seguridad se establece por escrito, y asimismo la aplicación del sistema de gestión de la seguridad debe estar documentada en todas sus partes esenciales.
+§ 30. Los artículos 2, 5 punto 1 y 6 de la presente ley entran en vigor el 1 de enero de 2008.
+# Funcionamiento del material rodante y de los equipos técnicos
+El tren diésel DR1B 3707/3708 estaba técnicamente en orden y autorizado para la circulación, conforme a la normativa vigente de Edelaraudtee Veeremi OÜ. El mantenimiento técnico H1 del tren diésel se realizó el 24.06.2007, el mantenimiento técnico H2 el 18.06.2007 y el H3 el 05.06.2007; el tren fue dado de alta tras la reparación R5 en agosto de 2006, y la distancia recorrida desde entonces hasta el accidente de tráfico fue de 99 724 kilómetros.
+Como resultado de la descodificación de la cinta del registrador de velocidad SL2M n.º 23988 del tren diésel DR1B 3707, se ha determinado que el 24 de junio de 2007, al prestar servicio al tren n.º 0262 entre las estaciones de Kiisa y Liiva, en el punto kilométrico 15 pk 6, a una velocidad de 61 km/h, a las 20.30 h se registró un frenado de emergencia. El tren permaneció detenido durante 67 minutos. La distancia de frenado real fue de 200 m; según el nomograma para la determinación de la distancia de frenado, la distancia de frenado máxima permitida era de 225 m.
 # Documentación relativa a la organización del trabajo
-Tras la colisión, la tripulación de locomotora transmitió correctamente la información sobre lo ocurrido. El tren permaneció en el lugar de los hechos 1 hora y 7 minutos. La tripulación de locomotora inspeccionó el tren y, tras prestar declaración ante la policía, procedió a subsanar las averías en la medida necesaria para permitir que el tren vacío pudiera desplazarse sin locomotora auxiliar. Con autorización obtenida de la policía y del despachador de trenes, el tren sin pasajeros se dirigió a la estación de Liiva y desde allí al depósito.
-Se estima que había aproximadamente 130 pasajeros en el tren. Los pasajeros fueron trasladados a sus destinos mediante dos autobuses contratados.
-La misma composición de tren debía partir de Tallin hacia Türi como tren de pasajeros n.º 0373. Se envió un tren sustituto, pero debido a que la vía estaba ocupada, el tren n.º 0373 salió con 38 minutos de retraso de la estación de Liiva y llegó con 33 minutos de retraso a la estación terminal de Türi. No se produjeron otras alteraciones del tráfico.
-# Interacción persona-máquina-organización
-La tripulación de locomotora estaba autorizada para trabajar según las normas vigentes de Edelaraudtee Veeremi OÜ y llevaba 4 horas y 23 minutos trabajando antes del accidente de tráfico. El turno comenzó a las 16.07 horas y, previamente, el tiempo de descanso entre turnos de la tripulación de locomotora había sido de 22 horas y 2 minutos.
-Tras el accidente, el maquinista estaba sobrio y el conductor del automóvil implicado en el accidente también estaba sobrio.
-Edelaraudtee Veeremi OÜ concedió al maquinista y al ayudante de maquinista 5 días libres remunerados para restablecer el equilibrio emocional.
+Tras la colisión, la tripulación del tren informó adecuadamente de lo ocurrido. El tren permaneció en el lugar del suceso durante 1 hora y 7 minutos. La tripulación inspeccionó el tren y, tras prestar declaración ante la policía, procedió a subsanar las averías en la medida necesaria para permitir que el tren vacío circulase sin locomotora de socorro. Con la autorización de la policía y del despachador de trenes, el tren sin pasajeros se desplazó hasta la estación de Liiva y desde allí hasta el depósito.
+Se estima que en el tren viajaban aproximadamente 130 pasajeros. Los pasajeros fueron trasladados a sus destinos en dos autobuses contratados.
+El mismo tren debía partir de Tallin hacia Türi como tren de pasajeros n.º 0373. Se envió un tren de sustitución, pero dado que la vía estaba ocupada, el tren n.º 0373 salió de la estación de Liiva con 38 minutos de retraso y llegó a la estación final de Türi con 33 minutos de retraso. No se produjeron otras perturbaciones en el tráfico.
+# Interacción hombre-máquina-organización
+La tripulación estaba autorizada para trabajar conforme a la normativa vigente de Edelaraudtee Veeremi OÜ y había estado trabajando durante 4 horas y 23 minutos antes del accidente de tráfico. El turno de trabajo comenzó a las 16.07 h y, antes de ello, la tripulación había disfrutado de un periodo de descanso entre turnos de 22 horas y 02 minutos.
+Tras el accidente, el maquinista se encontraba sobrio y el conductor del automóvil implicado en el accidente también estaba sobrio.
+Edelaraudtee Veeremi OÜ concedió al maquinista y al ayudante de maquinista 5 días de vacaciones pagados para recuperar el equilibrio psicológico.
 
 
 ## Página 11
 
-# Casos anteriores de naturaleza similar
-Un accidente de tráfico ferroviario de nivel II, en el que participaron un automóvil Nissan y el tren de pasajeros n.º 0235, tuvo lugar el 17.03.2005 a las 14.03 horas en infraestructura de Edelaraudtee Infrastruktuuri AS, en el paso a nivel no regulado de categoría III de Männiku (km 14,599).
-El coche motor del tren diésel involucrado en la colisión sufrió múltiples daños que no representaban peligro para la circulación. El automóvil Nissan quedó tendido junto a la carretera fuertemente deformado. El conductor del automóvil no circulaba a una velocidad adecuada para detenerse frente al paso a nivel, donde la señal de advertencia 121 "Ferrocarril de vía única" indicaba la necesidad de ceder el paso al tren que se acercaba. El conductor del automóvil no percibió la aproximación del tren tras realizar una curva a derecha.
-El domingo, 25 de julio de 2004, a las 19.23 horas, se produjo una colisión entre el tren de pasajeros n.º 0232 Pärnu-Tallinn y un automóvil Mercedes Benz 160D en el paso a nivel de Männiku (km 15 pk 6), situado entre las estaciones de Kiisa - Liiva, perteneciente a Edelaraudtee Infrastruktuuri AS. Como consecuencia de la colisión, ni los pasajeros del tren ni el conductor y acompañantes del automóvil sufrieron lesiones corporales. El automóvil y, en menor medida, el coche motor del tren diésel sufrieron daños técnicos. Se convocó a la policía y al servicio de rescate al lugar de los hechos. El tren permaneció en el lugar de los hechos 1 hora y 19 minutos.
-El paso a nivel pertenece a la categoría de pasos a nivel no vigilados y no regulados. El firme del paso a nivel está en buen estado.
+# Incidentes anteriores de carácter similar
+Un accidente de tráfico ferroviario de segundo grado con participación de un automóvil Nissan y del tren de pasajeros n.º 0235 se produjo el 17.03.2005 a las 14.03 h en la infraestructura de Edelaraudtee Infrastruktuuri AS, en el paso a nivel no regulado de la tercera categoría de Männiku (km 14,599).
+El vagón motor del tren diésel implicado en la colisión sufrió varias averías que no suponían peligro para la circulación. El automóvil Nissan quedó inmovilizado en la cuneta con una deformación grave. El conductor del automóvil no había circulado a una velocidad adecuada para detenerse antes de permitir el paso del tren que se acercaba, en la señal de advertencia 121 «Vía única» situada antes del paso a nivel. El conductor del automóvil no percibió la aproximación del tren tras realizar un giro a la derecha.
+El domingo 25 de julio de 2004 a las 19.23 h se produjo una colisión entre el tren de pasajeros Pärnu-Tallin n.º 0232 y un automóvil Mercedes Benz 160D en el paso a nivel de Männiku de Edelaraudtee Infrastruktuuri AS, situado entre las estaciones de Kiisa y Liiva (km 15 pk 6).
+Como consecuencia de la colisión, los pasajeros del tren, el conductor del automóvil y los acompañantes no sufrieron lesiones. El automóvil sufrió daños técnicos y el vagón motor del tren diésel sufrió daños menores.
+Se llamó a la policía y a los servicios de rescate al lugar del suceso. El tren permaneció en el lugar del suceso durante 1 hora y 19 minutos.
+El paso a nivel forma parte de los pasos a nivel no regulados y no vigilados. El firme del paso a nivel está en buen estado.
 # 4. ANÁLISIS Y CONCLUSIONES
-# Descripción final de la secuencia de acontecimientos
-El tren de pasajeros n.º 0262 Rapla – Tallinn realizaba su trayecto habitual. El tren había hecho parada en la parada de Saku y se aproximaba a la parada de Männiku. El faro del coche motor estaba encendido. En el lugar previsto, la tripulación de locomotora dio la señal acústica de atención y se aproximó al paso a nivel ferroviario de Männiku. La velocidad del tren al aproximarse al paso a nivel era superior a 60 km/h, inferior a los 90 km/h permitidos. La tripulación de locomotora vio el paso a nivel y lo que ocurría en él desde una distancia de 800 m. La visibilidad cerca del paso a nivel era menor para la tripulación de locomotora. La visibilidad de los vehículos de carretera que se aproximaban al paso a nivel desde la izquierda estaba limitada por una granja. De repente, un automóvil Audi negro cruzó el paso a nivel de izquierda a derecha por delante del tren. El maquinista dio la señal acústica de atención y continuó la marcha. Poco después, un automóvil Alfa Romeo entró en el paso a nivel, que aunque redujo ligeramente la velocidad, no se detuvo antes de las vías. La tripulación de locomotora volvió a dar la señal acústica de atención; el automóvil entró en el paso a nivel relativamente lento y suavemente. La tripulación de locomotora aplicó inmediatamente el freno de emergencia. El automóvil estaba tan cerca que el ayudante de maquinista observó cómo el acompañante en el interior del vehículo percibía la aproximación del tren. El tren, mientras frenaba, impactó contra el lateral derecho del automóvil, a la altura de la puerta delantera, donde estaba sentado el acompañante. El automóvil fue expulsado fuera del gálibo ferroviario como resultado del impacto recibido y quedó volcado sobre el techo. La tripulación de locomotora acudió al lugar de los hechos tras detener el tren para determinar qué asistencia podía prestarse a las personas. Ambas personas que estaban en el automóvil habían salido despedidas; una de ellas había fallecido y la otra estaba gravemente herida. La tripulación de locomotora informó al despachador de trenes, al jefe de depósito, al servicio de rescate y a la policía sobre lo ocurrido.
+# Descripción final de la secuencia de eventos
+El tren de pasajeros Rapla-Tallin n.º 0262 realizó su viaje habitual. El tren se había detenido en la parada de Saku y se acercaba a la parada de Männiku. El faro del vagón motor estaba encendido. En el lugar previsto, la tripulación emitió la señal acústica de advertencia y se acercó al paso a nivel de Männiku. La velocidad del tren al acercarse al paso a nivel era superior a 60 km/h, lo cual era inferior a los 90 km/h permitidos. La tripulación vio el paso a nivel y lo que ocurría en él a una distancia de 800 m. La visibilidad cerca del paso a nivel era menor para la tripulación. La visibilidad de los vehículos de carretera que se acercaban al paso a nivel desde la izquierda estaba limitada por una granja. De repente, un automóvil Audi de color negro cruzó el paso a nivel de izquierda a derecha delante del tren. El maquinista emitió la señal acústica de advertencia y continuó la marcha. Poco después, un automóvil Alfa Romeo llegó al paso a nivel; aunque redujo ligeramente la velocidad, no se detuvo antes de las vías. La tripulación emitió de nuevo la señal acústica de advertencia; el automóvil cruzó el paso a nivel a una velocidad relativamente lenta y fluida. La tripulación aplicó inmediatamente el frenado de emergencia. El automóvil estaba tan cerca que el ayudante de maquinista se dio cuenta de que el acompañante del automóvil había percibido la aproximación del tren. El tren frenante golpeó el lado derecho del automóvil, justo encima de la puerta delantera, donde iba sentado el acompañante. Como consecuencia del golpe, el automóvil salió del perfil de gálibo de la vía y quedó boca arriba. Tras detener el tren, la tripulación se dirigió al lugar del suceso para determinar qué ayuda podía prestarse a las personas.
+Ambas personas que iban en el automóvil habían sido expulsadas; una de ellas había fallecido y la otra había sufrido lesiones graves. La tripulación informó de lo ocurrido al despachador de trenes, al encargado del depósito, a los servicios de rescate y a la policía.
 
 ## Página 12
 
-El conductor del automóvil Alfa Romeo realizó un giro para cruzar el paso a nivel tras recorrer 68,8 m. Delante de él circulaba un automóvil Audi que acababa de cruzar la vía férrea. Antes del paso a nivel se encontraba la señal de advertencia 121 «Vía única». Tras realizar el giro, el tren no era perceptible para el conductor, ya que lo ocultaba una granja situada a menos de 150 m de distancia. El conductor del automóvil aumentó inicialmente la velocidad, pero frenó ligeramente antes de llegar al paso a nivel, continuó la marcha y accedió a la vía. En ese momento, el acompañante, que iba sentado en el lado del vehículo por el que se aproximaba el tren, advirtió la llegada del mismo. Para entonces, el tren de pasajeros ya había alcanzado el paso a nivel y golpeó al automóvil desde la posición del acompañante. Como consecuencia del impacto, el acompañante falleció inmediatamente, mientras que el conductor murió en el hospital menos de 2 horas después.
-
+El conductor del vehículo Alfa Romeo realizó un giro para cruzar el paso a nivel tras haber recorrido 68,8 m. Delante de él circulaba un vehículo Audi, que acababa de cruzar la vía férrea. Antes del paso a nivel se encontraba la señal de advertencia 121 «Vía única». Tras realizar el giro, el tren no era visible para el conductor, ya que estaba oculto por una granja situada a menos de 150 m de distancia. El conductor del automóvil aumentó inicialmente la velocidad, pero frenó ligeramente antes de llegar al paso a nivel, continuó la marcha y se adentró en la vía. En ese momento, el acompañante, que iba sentado en el lado del vehículo hacia el que se acercaba el tren, percibió la aproximación del mismo. Para entonces, el tren de viajeros ya había llegado al paso a nivel y golpeó al automóvil en la posición del acompañante. Como consecuencia del impacto, el acompañante falleció en el acto, mientras que el conductor falleció en el hospital menos de 2 horas después.
 # Discusión
-
-La tripulación de conducción del tren de pasajeros n.º 0262 se aproximó al paso a nivel situado cerca de la parada de Männiku a una velocidad inferior a la permitida de 90 km/h. La tripulación estaba atenta y cumplía los requisitos establecidos para la circulación. Cuando el automóvil Alfa Romeo apareció justo delante del tren en el paso a nivel, la tripulación aplicó el freno de emergencia. El tren, en proceso de frenado, golpeó al automóvil, que salió despedido fuera del gálibo del tren. Para detenerse, el tren recorrió una distancia de 200 m, inferior a la permitida de 225 m. No fue posible para la tripulación evitar la colisión.
-
-El conductor del automóvil realizó un giro y comenzó a desplazarse hacia el paso a nivel, situado a 68,8 m de distancia, acelerando. Realizó el giro sin duda alguna a una velocidad considerablemente menor que la del tren que se aproximaba. Justo delante del Alfa Romeo circulaba un automóvil Audi que cruzó el paso a nivel. Se había instalado antes del paso a nivel la señal de advertencia 121 «Vía única». El conductor del automóvil implicado en el accidente aumentó la velocidad; a 50 m del paso a nivel, la visibilidad hacia la vía en la dirección de aproximación del tren era de 150 m. Al acercarse a la señal de advertencia, el conductor redujo la velocidad y entró suavemente en la vía. El conductor no eligió una velocidad adecuada al acercarse al paso a nivel para asegurarse de que este estuviera libre. El conductor no prestó la atención suficiente para ceder el paso al tren en el paso a nivel.
-
-Al acercarse a la parada de Männiku, la tripulación reduce la velocidad del tren. En el momento de iniciar el frenado de emergencia, esta es de 61 km/h. Circulando uniformemente a esta velocidad, el tren alcanzaría el paso a nivel tras recorrer 150 m en 9 segundos. Si el tren circulara a la velocidad permitida de 90 km/h, tardaría 6 segundos en recorrer esos 150 m. La distancia de 150 m correspondía al alcance de visibilidad desde la vía a 50 m de distancia en la dirección de llegada del tren y viceversa.
-
-El automóvil que realizó el giro acelera en el tramo de 68,8 m y luego frena. Su velocidad media fue presumiblemente menor que la del tren en el momento de frenar. En tal caso, cuando el automóvil se encontraba a 50 m de la vía más cercana, el tren aún podía no ser perceptible.
-
-La tripulación ve el paso a nivel de Männiku desde una distancia de 800 m, aunque la visibilidad normativa para un paso a nivel no regulado es de 1000 m. Un mayor alcance de visibilidad desde la locomotora hasta el paso a nivel es importante para detectar obstáculos situados en el paso, pero menos relevante para percibir vehículos de carretera que se aproximan al mismo.
-
-La tripulación observa el automóvil que se aproxima al paso a nivel bajo las mismas condiciones de visibilidad que el conductor observa el tren. La tripulación tiene ventaja visual, pues, sentado en la cabina del coche motor y mirando hacia adelante en la dirección de marcha, percibe inmediatamente cualquier vehículo que aparezca en su campo de visión. El conductor debe mirar lateralmente, fuera de su dirección de marcha, para obtener información sobre la aproximación del material rodante ferroviario. Sin saber desde qué lado puede aproximarse el material rodante, el conductor debe mirar tanto a la izquierda como a la derecha. Con visibilidad limitada, al mirar lateralmente...
+La tripulación del tren de viajeros n.º 0262 se aproximó al paso a nivel situado cerca de la parada de Männiku a una velocidad inferior a la permitida de 90 km/h. La tripulación estaba alerta y cumplió los requisitos establecidos para la circulación. Cuando el vehículo Alfa Romeo apareció repentinamente frente al tren en el paso a nivel, la tripulación aplicó el freno de emergencia. El tren frenado golpeó al automóvil, que fue proyectado fuera del perfil de la locomotora. El tren recorrió una distancia de 200 m hasta detenerse, lo cual es inferior a los 225 m permitidos. La tripulación no tuvo posibilidad de evitar la colisión.
+El conductor del automóvil realizó un giro y comenzó a acelerar dirigiéndose hacia el paso a nivel, situado a 68,8 m de distancia. Sin duda, realizó el giro a una velocidad considerablemente inferior a la del tren que se acercaba. Justo delante del Alfa Romeo circulaba un vehículo Audi, que cruzaba el paso a nivel. Antes del paso a nivel se había instalado la señal de advertencia 121 «Vía única». El conductor del automóvil implicado en el accidente aceleró; a 50 m del paso a nivel, la visibilidad hacia la vía en dirección de aproximación del tren era de 150 m. Al acercarse a la señal de advertencia, el conductor del automóvil redujo la velocidad y entró suavemente en la vía. El conductor del automóvil no eligió la velocidad adecuada al acercarse al paso a nivel para poder asegurarse de que este estaba libre. El conductor del automóvil no fue suficientemente atento para ceder el paso al tren en el paso a nivel.
+Al acercarse a la parada de Männiku, la tripulación reduce la velocidad del tren. En el momento de iniciar el freno de emergencia, la velocidad era de 61 km/h. A esta velocidad, circulando de forma uniforme, el tren alcanzaría el paso a nivel en 9 segundos tras recorrer los 150 m. Si el tren hubiera circulado a la velocidad permitida de 90 km/h, habría recorrido los 150 m en 6 segundos. La distancia de 150 m correspondía al alcance visual desde la vía a 50 m de distancia en dirección de llegada del tren y viceversa.
+El automóvil que realizó el giro aceleró en el tramo de 68,8 m y posteriormente frenó. Su velocidad media se estimó probablemente inferior a la del tren en el momento del frenado. En tal caso, cuando el automóvil se encontraba a 50 m de la vía más cercana, el tren aún podría no haber sido visible.
+La tripulación ve el paso a nivel de Männiku a una distancia de 800 m, aunque la visibilidad normativa para un paso a nivel no regulado es de 1000 m. Una mayor visibilidad desde la locomotora hasta el paso a nivel es importante para determinar los obstáculos presentes en el paso a nivel, pero menos importante para percibir los vehículos de carretera que se acercan al paso a nivel.
+La tripulación percibe el automóvil que se acerca al paso a nivel en las mismas condiciones de visibilidad que el conductor del automóvil percibe al tren. La tripulación tiene ventaja en la visión, ya que, al estar sentada en la cabina del motorcoche y mirar hacia adelante en la dirección de marcha, percibe inmediatamente el vehículo que se acerca en el campo visual. El conductor del automóvil debe mirar hacia los lados para obtener información sobre la aproximación del material rodante. Sin saber por qué lado puede acercarse el material rodante, el conductor del automóvil debe mirar hacia la izquierda y hacia la derecha. Con visibilidad limitada, al mirar hacia los lados
 
 ## Página 13
 
-...la percepción del material rodante ferroviario que se aproxima y la reacción adecuada a ello dependen del momento en que se realiza la observación y de la velocidad de aproximación de ambos medios de transporte al paso a nivel.
-
-El paso a nivel ferroviario de Männiku presenta visibilidad limitada tanto para el conductor del automóvil como para la tripulación de conducción, según lo definido en la «Guía para la construcción, mantenimiento y uso de pasos a nivel ferroviarios». Un paso a nivel sin la señal de prioridad 222 «Ceda el paso» instalada en el lugar adecuado resulta más peligroso para los usuarios de la vía que un paso a nivel con visibilidad normativa. Un valor significativo para la intensidad del tráfico viario es de 50 unidades diarias. En la ficha del paso a nivel ferroviario de Männiku de Edelaraudtee AS, la frecuencia del tráfico automovilístico está estimada oficialmente en menos de 50. El gestor de la calzada, Anija metskond, no ha organizado recuentos de intensidad de tráfico. El paso a nivel de Männiku registra un uso más activo durante el período estival, cuando debería realizarse el recuento de intensidad de tráfico conforme a la guía metodológica de Maanteeamet (Dirección General de Carreteras). En la actualidad, no existen datos fiables sobre la intensidad del tráfico. La intensidad del tráfico es la base para determinar la categoría del paso a nivel y equiparlo adecuadamente.
-
-En la ficha del paso a nivel ferroviario de Männiku de Edelaraudtee Infrastruktuuri AS consta que no está prevista la instalación de la señal de tráfico 222 «Ceda el paso» en dicho paso a nivel. La norma estonia EVS 613:2001 establece la posibilidad de equipar un paso a nivel ferroviario con visibilidad limitada con la señal de prioridad 222 «Ceda el paso». En este paso a nivel concreto, la visibilidad para los usuarios de la vía está limitada y, en dicha situación, se han producido múltiples colisiones entre trenes y automóviles en los últimos años. La señal de prioridad 222 «Ceda el paso» impone al conductor la obligación de detenerse. Durante la parada, el usuario de la vía tiene el deber de asegurarse de que el paso a nivel está libre antes de reanudar la marcha. Ante la ausencia de la mencionada señal de tráfico, el conductor no puede saber si la visibilidad hacia la vía es normal o limitada.
-
+la detección del material rodante que se acerca y la respuesta adecuada dependen del momento de la mirada y de la velocidad de aproximación de ambos medios de transporte al paso a nivel.
+El paso a nivel de Männiku presenta visibilidad limitada tanto para el conductor del automóvil como para la tripulación, según lo definido en las «Instrucciones para la construcción, mantenimiento y uso de los pasos a nivel». Un paso a nivel sin la señal de prioridad 222 «Deténgase y ceda el paso» instalada en el lugar adecuado es más peligroso para los usuarios que un paso a nivel con visibilidad normativa.
+El valor significativo de la intensidad del tráfico rodado es de 50 unidades diarias. En el pasaporte del paso a nivel de Männiku de Edelaraudtee AS se indica estimadamente que la frecuencia del tráfico de automóviles es inferior a 50. El titular de la vía, el Bosque de Anija, no ha realizado recuentos de intensidad de tráfico. El paso a nivel de Männiku tiene un uso más activo durante el periodo estival, momento en el que, según la guía metodológica de la Agencia de Carreteras, deben realizarse los recuentos de intensidad de tráfico. En la actualidad, no existen datos fiables sobre la intensidad del tráfico. La intensidad del tráfico es la base para determinar la categoría del paso a nivel y su equipamiento.
+En el pasaporte del paso a nivel de Männiku de Edelaraudtee Infrastruktuuri AS se indica que no está previsto instalar la señal de tráfico 222 «Deténgase y ceda el paso» en el paso a nivel. La norma estonia EVS 613:2001 establece la posibilidad de equipar los pasos a nivel con visibilidad limitada con la señal de prioridad 222 «Deténgase y ceda el paso». En este paso a nivel la visibilidad para los usuarios de la carretera está limitada y, en esta situación, se han producido en los últimos años varios choques entre trenes y automóviles. La señal de prioridad 222 «Deténgase y ceda el paso» impone al conductor del automóvil la obligación de detenerse. Durante la detención, el usuario de la carretera tiene la obligación de asegurarse de que el paso a nivel está libre antes de volver a iniciar la marcha. Ante la ausencia de la señal de tráfico mencionada anteriormente, el conductor del automóvil no puede saber si la visibilidad hacia la vía es normal o limitada.
 # Conclusiones
-
-1. La tripulación de conducción del tren de pasajeros n.º 0262 dirigió el tren diésel conforme al procedimiento establecido. Al acercarse al paso a nivel de Männiku, la velocidad del tren estaba dentro de los límites permitidos, el faro del coche motor estaba encendido, se emitió la señal acústica de atención en el lugar previsto y, al surgir una situación de peligro, se duplicó dicha señal. Al ver el automóvil que apareció inesperadamente delante del tren, se aplicó el freno de emergencia. No fue posible para la tripulación evitar la colisión.
-
-2. El conductor del automóvil Alfa Romeo no eligió una velocidad adecuada al acercarse al paso a nivel de Männiku para obtener información sobre el material rodante ferroviario que se aproximaba, concentrándose en el posible peligro. El conductor no se detuvo ante la vía para dejar pasar al tren, sino que pasó por delante del tren que se aproximaba. La falta de atención del conductor al entrar en el paso a nivel es la causa directa del accidente y constituye un hecho derivado de un error humano.
-
-3. El paso a nivel ferroviario de Männiku presenta visibilidad limitada para los usuarios de la vía. Nada informa al usuario que se acerca al paso a nivel de dicha limitación de visibilidad. El paso a nivel no está equipado con la señal de prioridad 222 «Ceda el paso», lo cual es un factor concurrente y favorecedor de la ocurrencia del accidente.
-
-4. La información sobre la intensidad del tráfico viario es estimativa. No se han realizado mediciones al respecto por orden del propietario de la vía. Falta información suficiente sobre el número real de usuarios del paso a nivel y, en consecuencia,...
+1. La tripulación del tren de viajeros n.º 0262 condujo el tren diésel conforme a lo prescrito. Al acercarse al paso a nivel de Männiku, la velocidad del tren estaba dentro de los límites permitidos, el faro del motorcoche estaba encendido, se emitió la señal acústica de atención en el lugar previsto y, en caso de situación peligrosa, se duplicó dicha señal. Al ver el automóvil que entró repentinamente frente al tren, se aplicó el freno de emergencia. La tripulación no tuvo posibilidad de evitar la colisión.
+2. El conductor del vehículo Alfa Romeo no eligió la velocidad adecuada al acercarse al paso a nivel de Männiku para poder obtener información sobre el material rodante que se acercaba, centrándose en posibles peligros. El conductor del automóvil no se detuvo antes de la vía para permitir el paso del tren, sino que se adentró en la vía frente al tren que se acercaba. La distracción del conductor del automóvil al entrar en el paso a nivel es la causa directa del accidente y constituye una circunstancia de accidente provocada por un error humano.
+3. El paso a nivel de Männiku presenta visibilidad limitada para los usuarios. Ningún elemento informa a los usuarios que se acercan al paso a nivel sobre la visibilidad limitada. El paso a nivel no está equipado con la señal de prioridad 222 «Deténgase y ceda el paso», lo cual es una circunstancia y un factor que favoreció la ocurrencia del accidente.
+4. La información sobre la intensidad del tráfico rodado es estimativa. No se han realizado mediciones al respecto por disposición del titular de la carretera. Existe una falta de información suficiente sobre el número real de usuarios del paso a nivel y, como consecuencia de ello,
 
 ## Página 14
 
-necesarios para equipar el paso a nivel con los medios de regulación del tráfico requeridos. El desconocimiento de la conformidad del equipamiento del paso a nivel con las normas establecidas es un factor que favorece la ocurrencia de este tipo de accidentes.
-
+la real necesidad
+de dotar el paso a nivel
+de los medios de regulación del tráfico necesarios. La desconocimiento de la adecuación de la dotación del paso a nivel a las normas establecidas es un factor que favorece la ocurrencia de este tipo de accidentes.
 # Observaciones adicionales
-
-En las proximidades del paso a nivel ferroviario de Männiku se encuentran otros pasos a nivel con baja intensidad de tráfico vial. Desde el punto de vista de la seguridad vial, resulta conveniente cerrar alguno de ellos y organizar el tráfico utilizando un paso a nivel mejor construido y equipado adecuadamente.
-
-En los datos del pasaporte del paso a nivel ferroviario de Männiku, Edelaraudtee Infrastruktuuri AS ha designado como propietario de la calzada al distrito forestal de Viimsi. Como resultado de los cambios estructurales, el distrito forestal de Viimsi ya no existe. La anotación de la empresa en el pasaporte del paso a nivel, «no está previsto», respecto a la instalación de la señal de tráfico 222 «Deténgase y ceda el paso», entra dentro de lo legalmente admisible, pero no refleja adecuadamente la situación de la seguridad del tráfico ferroviario en dicho paso a nivel en el año 2007. El número de accidentes ferroviarios ocurridos repetidamente a lo largo de los años indica el peligro del paso a nivel ferroviario de Männiku y la insuficiente organización de la notificación del riesgo.
-
-Edelaraudtee AS ha establecido reglamentos e instrucciones en la empresa que, al entrar en vigor el sistema de gestión de la seguridad, pasarán a formar parte de sus componentes. El legislador estonio ha establecido la obligación de las empresas ferroviarias de implantar un sistema de gestión de la seguridad para el 1 de enero de 2008.
-
+En las inmediaciones del
+paso a nivel de
+Männiku
+se encuentran otros
+pasos a nivel con
+bajo volumen de tráfico.
+Desde el punto de vista de la seguridad del tráfico,
+resulta conveniente cerrar algunos de ellos y organizar el tráfico utilizando un paso a nivel construido de forma más segura y
+dotado en consecuencia.
+En los datos del pasaporte del paso a nivel de Männiku de Edelaraudtee Infrastruktuuri AS
+se indica como titular de la vía de circulación el Bosque de Viimsi. Como resultado de los cambios estructurales, el Bosque de Viimsi ya no existe. La anotación de la empresa en el pasaporte del paso a nivel, «no está previsto» la instalación de la señal de tráfico 222 «Deténgase y ceda el paso», aunque se ajusta a la legalidad, no refleja adecuadamente la situación de la seguridad del tráfico ferroviario en dicho paso a nivel en 2007. El número de accidentes ferroviarios que se produjeron repetidamente a lo largo de los años indica la peligrosidad del paso a nivel de Männiku y la insuficiente organización de la información sobre el peligro.
+Edelaraudtee AS ha establecido en la empresa normas y directrices que, con la entrada en vigor del sistema de gestión de la seguridad, se convertirán en sus componentes.
+La legislación estonia ha establecido la obligación de las empresas ferroviarias de implantar un sistema de gestión de la seguridad antes del 01 de enero de 2008.
 # 5. MEDIDAS ADOPTADAS
-
-Tras el accidente, se organizó el transporte de los pasajeros a su destino mediante autobuses, se retiró del servicio el tren diésel averiado y se reabrió el paso a nivel al tráfico ferroviario y viario.
-
+Tras el accidente, se organizó el transporte de los viajeros a su destino en autobuses,
+se retiró de la circulación el tren diésel averiado. Se reabrió el paso a nivel al tráfico ferroviario y al tráfico por carretera.
 # 6. PROPUESTAS PARA MEJORAR LA SEGURIDAD DEL TRÁFICO FERROVIARIO
+En el Bosque de Anija
+1. Instalar en el
+paso a nivel de Männiku
+utilizado las señales de prioridad 222 «Deténgase y ceda el paso».
+2. Organizar
+en los pasos a nivel
+que se encuentran bajo la jurisdicción del bosque
+la determinación del volumen de tráfico por carretera
+de acuerdo con la metodología elaborada por la Agencia de Carreteras.
 
-Al distrito forestal de Anija:
-1. Instalar señales de prioridad 222 «Deténgase y ceda el paso» en el paso a nivel ferroviario de Männiku en uso.
-2. Organizar la determinación de la intensidad del tráfico vial en los pasos a nivel ferroviarios situados en el área de gestión del distrito forestal, conforme a la metodología elaborada por la Dirección General de Carreteras (Maanteeamet).
 
 ## Página 15
 
-A Edelaraudtee AS:
-3. Definir una postura para la organización del tráfico vial hacia un paso a nivel racionalmente seleccionado y debidamente equipado, cuyo resultado sea, conforme a la norma establecida en la «Instrucción sobre la construcción, mantenimiento y uso de los pasos a nivel ferroviarios», el cierre permanente de otros pasos a nivel ferroviarios menos utilizados situados en las proximidades.
-4. Corregir los datos del pasaporte del paso a nivel ferroviario de Männiku en uso con información actualizada.
-
-La investigación finalizó el 16 de octubre de 2007.
-Investigación realizada por:
+       En Edelaraudtee AS
+3. Elaborar
+una posición
+para la organización del tráfico
+a través de un paso a nivel seleccionado racionalmente y dotado en consecuencia,
+cuyo resultado sea, de acuerdo con la «Guía para la construcción, mantenimiento y uso de pasos a nivel», cerrar
+permanentemente
+otros
+pasos a nivel poco utilizados situados en las inmediaciones.
+4. Corregir
+los datos del pasaporte del
+paso a nivel de Männiku
+utilizado con los datos actualizados.
+La investigación se finalizó el 16 de octubre de 2007.
+La investigación fue realizada por:
 Jüri Olde
-
 ### Anexos:
-1. Información sobre el incidente. Jefe del departamento de infraestructura de la sección de supervisión de la Inspección Ferroviaria, 25.06.2007 – 1 página.
-2. Protocolo-hoja de registro de la salida de los equipos de bomberos-rescate y brigadas de urgencias al lugar de los hechos. Centro de Emergencias de Estonia del Norte, 26.06.2007 – 2 páginas.
-3. Trabajo práctico, resumen de la investigación del accidente o siniestro. Edelaraudtee AS. Türi, 28.06.2007 – 2 páginas.
-4. Declaración escrita al director de Edelaraudtee Veeremi OÜ. Conductor del tren diésel, 25.06.2007 – 3 páginas.
-5. Licencia de conductor de locomotora RI002334. Inspección Ferroviaria. Copia – 1 página.
-6. Declaración escrita al director de Edelaraudtee Veeremi OÜ. Ayudante del conductor del tren diésel, 24.06.2007 – 2 páginas.
-7. Certificado de cualificación profesional 013547. Eesti Raudtee. Cámara de Oficios – 1 página.
-8. Certificación de descifrado de la cinta del velocímetro n.º 15/07. Edelaraudtee Veeremi OÜ, 26.06.2007 – 1 página.
-9. Acta sobre los daños en el coche motor 3707 del tren diésel DR1BJ 3707/08 tras el accidente de tráfico del 24.06.2007 entre las estaciones de Kiisa y Liiva, en el paso a nivel km 15 pk 7 – colisión con un automóvil. Tallin, 25.06.2007 – 1 página.
-10. Oferta de precios. Carta n.º Ü4-2/23 de AS Ühinenud Depood, 26.06.2007 – 2 páginas.
-11. Investigación del accidente de tráfico ocurrido el 24.06.2007 en el paso a nivel km 15 pk 7 entre las estaciones de Kiisa y Liiva. Edelaraudtee Veeremi OÜ, 25.06.2007 – 2 páginas.
+1.
+Información
+sobre el accidente.
+Jefe del Departamento de Infraestructura del Departamento de Supervisión de la Inspección Ferroviaria, 25.06.2007 – 1 página.
+2.
+Registro de salida a la escena del equipo de lucha contra incendios y rescate y de las brigadas de ambulancias. Centro de Emergencias del Norte de Estonia, 26.06.2007 – 2
+páginas.
+3.
+Informe de investigación de accidente o incidente. Edelaraudtee AS. Türi,
+28.06.2007 – 2 páginas.
+4.
+Memorándum
+dirigido al director de
+Edelaraudtee Veeremi OÜ.
+Conductor del tren diésel,
+25.06.2007 – 3 páginas.
+5.
+Licencia de conductor de locomotora RI002334. Inspección Ferroviaria. Copia – 1 página.
+6.
+Memorándum dirigido al director de Edelaraudtee Veeremi OÜ. Ayudante del conductor del tren diésel,
+24.06.2007 – 2 páginas.
+7.
+Certificado profesional 013547. Ferrocarriles Estonios. Cámara Profesional – 1 página.
+8.
+Certificado de descodificación de la cinta del registrador de velocidad nº 15/07. Edelaraudtee Veeremi
+OÜ, 26.06.2007 – 1 página.
+9.
+Acta sobre las averías del vagón motor 3707 del tren diésel DR1BJ 3707/08 tras el
+accidente de tráfico el 24.06.2007.a. Entre las estaciones de Kiisa y Liiva, en el paso a nivel
+km 15 pk 7 – colisión con un automóvil. Tallinn, 25.06.2007 – 1 página.
+10.
+Presupuesto. Carta de AS Ühinenud Depood nº Ü4-2/23, 26.06.2007 – 2
+páginas.
+11.
+Investigación del accidente de tráfico ocurrido el 24.06.2007 entre las estaciones de Kiisa y Liiva, en el paso a nivel km 15 pk 7. Edelaraudtee Veeremi OÜ, 25.06.2007 –
+2 páginas.
+
 
 ## Página 16
 
-12. Notificación de accidente ferroviario de primer grado. Edelaraudtee Infrastruktuuri AS, 25.06.2007 – 2 páginas.
-13. Esquema del lugar del accidente. Edelaraudtee AS, 24.06.2007 – 1 página.
-14. Pasaporte del paso a nivel ferroviario. Männiku 14,599. Edelaraudtee Infrastruktuuri AS – 3 páginas.
-15. Factura n.º 7100180. Tallinna Autobussikoondise AS, 26.06.2007 – 1 página.
-16. Tabla fotográfica. Accidente ferroviario ocurrido en el paso a nivel de Männiku (km 14,599). Edelaraudtee AS, 24.06.2007 – 8 páginas.
-17. Acta de accidente de tráfico. LÕ n.º 1708. Departamento de Vigilancia del Tráfico de la Policía del Norte (Põhja PP LVJO), 24.06.2007 – 1 página.
-18. Protocolo de interrogatorio de testigo. Conductor del tren diésel. 24.06.2007 – 1 página.
-19. Protocolo de interrogatorio de testigo. Ayudante del conductor del tren diésel. 24.06.2007 – 1 página.
-20. Protocolo de detección de intoxicación etílica mediante dispositivo indicador o instrumento de medición. Sección de vigilancia del tráfico de la Prefectura de Policía del Norte. Conductor de locomotora, 24.06.2007 – 1 página.
-21. Notificación de ingreso de persona afectada en el accidente de tráfico. Hospital Regional de Estonia del Norte (SA Põhja-Eesti Regionaalhaigla), 24.06.2007 – 1 página.
-22. LÕ 1708; POLIS 64564, 25.06.2007 – 1 página.
-23. Notificación al Fondo Estonio de Seguro de Tráfico. Prefectura de Policía del Norte, 02.07.2007 – 1 página.
-24. Autopsia médico-forense del fallecido. Acta n.º 570. Oficina de Pericias Médico-Forenses de Estonia, Sección de Estonia del Norte, 05.07.2007 – 5 páginas.
-25. Factura por los costes de la autopsia médico-forense. Oficina de Pericias Médico-Forenses de Estonia – 1 página.
-26. Männiku 24.06.2007. Guarda forestal del distrito forestal de Anija, 01.10.2007 – 1 página.
+12.
+Aviso sobre accidente ferroviario de primer grado. Edelaraudtee Infrastruktuuri
+AS, 25.06.2007 – 2 páginas.
+13.
+Esquema del lugar del accidente. Edelaraudtee AS, 24.06.2007 – 1 página.
+14.
+Pasaporte del paso a nivel. Männiku 14,599. Edelaraudtee Infrastruktuuri
+AS – 3 páginas.
+15.
+Factura nº 7100180. Tallinna Autobussikoondise AS, 26.06.2007 – 1 página.
+16.
+Tabla fotográfica.
+Accidente ferroviario ocurrido en el
+paso a nivel de Männiku (km
+14,599). Edelaraudtee AS, 24.06.2007 – 8 páginas.
+17.
+Acta de accidente de tráfico. LÕ nº 1708. Dirección de Policía del Norte, Departamento de Supervisión del Tráfico, 24.06.2007 – 1 página.
+18.
+Acta de declaración del testigo. Conductor del tren diésel. 24.06.2007 – 1 página.
+19.
+Acta de declaración del testigo. Ayudante del conductor del tren diésel. 24.06.2007 – 1
+página.
+20.
+Acta de detección de intoxicación alcohólica mediante el uso de un dispositivo indicador o instrumento de medición.
+Departamento de Supervisión del Tráfico de la
+Prefectura de Policía del Norte.
+Conductor de locomotora, 24.06.2007 – 1 página.
+21.
+Comunicación de la llegada de la persona afectada en el accidente de tráfico. Fundación Hospital Regional del Norte de Estonia, 24.06.2007 – 1 página.
+22.
+LÕ 1708; POLIS 64564, 25.06.2007 – 1 página.
+23.
+Comunicación
+al Fondo de Seguro de Tráfico de Estonia.
+Prefectura de Policía del Norte,
+02.07.2007 – 1 página.
+24.
+Autopsia forense del fallecido. Acta nº 570. Oficina de Peritajes Forenses de Estonia
+Oficina del Norte de Estonia, 05.07.2007 – 5 páginas.
+25.
+Nota sobre el coste de la autopsia forense. Oficina de Peritajes Forenses de Estonia – 1 página.
+26.
+Männiku 24.06.2007. Jefe forestal del Bosque de Anija, 01.10.2007 – 1 página.

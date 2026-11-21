@@ -1,0 +1,581 @@
+{
+ "md-es/BE/2007/BE 02.09.2007 414410707.md": {
+  "estado": "revisar",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   2,
+   9,
+   19,
+   33,
+   41,
+   50
+  ],
+  "fidelidad_media": 87.5,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Réseau INFRABEL' traducido como 'Red INFRABEL' (aceptable, pero no normalizado)",
+   "'Réseau rff' traducido como 'Red rff' (aceptable, pero no normalizado)",
+   "'relais conducteur' traducido como 'relevo maquinista' (matiz: conductor/maquinista)",
+   "'BK 121.280' traducido como 'PK 121.280' (cambio de designación técnica: BK vs PK)",
+   "'aiguillage' traducido como 'aguja' en lugar de 'desvío' o 'cambio' (término ferroviario normalizado)",
+   "orden alterado en el bloque del 4.º vagón: el original dice 'le 1r bogie du 4e wagon déraillé depuis Ottignies heurte la branche déviée ce qui l'entraîne vers la gauche' y la traducción reordena fragmentos"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta el ítem 'Chapitre II : Les faits' como capítulo independiente con su numeración (en la traducción aparece como Capítulo II pero el original lo lista antes de los subpuntos 1-4, que en la traducción quedan bajo Capítulo I)",
+     "Falta el ítem 'Chapitre I : Résumé' con su contenido correcto: en la traducción los subpuntos 1-4 de 'Les faits' aparecen bajo 'Capítulo I : Resumen'"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'tren croiseur' traducido como 'tren cruzador' (término no normalizado; debería ser 'tren cruce' o 'tren que cruza')",
+     "'bandage lâché' traducido como 'desprendimiento de llanta' (aceptable, pero 'bandage' es 'llanta' y 'lâché' implica 'suelta/floja'; conviene normalizar)",
+     "'roues bandagées' traducido como 'ruedas con llantas montadas' (impreciso; 'bandagées' = 'con llantas' o 'llantas de acero')"
+    ],
+    "comentario": "La estructura de capítulos está desordenada (los hechos aparecen bajo el resumen) y hay términos técnicos no normalizados, aunque las cifras y referencias se mantienen."
+   },
+   {
+    "pagina": 33,
+    "fidelidad": 78,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "surécartement traduit par 'sobreenchavetado' (término incorrecto; debería ser 'sobreancho de vía' o 'exceso de separación')",
+     "bandage traduit par 'llanta' et jante par 'pestaña' (inversión: bandage=llanta, jante=rueda/pestaña según contexto)",
+     "contre-rail de guidage traduit par 'contra-carril de guía' (forma no normalizada; 'contracarril' es lo habitual)"
+    ],
+    "comentario": "La estructura y las cifras se mantienen, pero hay errores terminológicos graves en 'surécartement' y en la pareja bandage/jante que alteran el sentido técnico."
+   },
+   {
+    "pagina": 50,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "se añade el adverbio 'correctamente' en 'la revisión se llevó a cabo correctamente en Creutzwald', matiz ausente en el original ('la visite a bien été menée')"
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "Traducción fiel en cifras y estructura, pero introduce un matiz valorativo ('correctamente') no presente en el original."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/BE 02.09.2007 414410707.md"
+ },
+ "md-es/BE/2007/BE 14.12.2007 Mortsel.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   16,
+   24,
+   38,
+   46,
+   57
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'automotriz' por 'motorstel' (automotor) no es término normalizado en español ferroviario; se prefiere 'automotor' o 'unidad eléctrica múltiple'",
+   "'tripartita' por 'drieledig' (de tres partes/coches) es calco poco natural",
+   "'maniobra de formación' por 'rangering' (maniobra de maniobras/clasificación) — acepción dudosa",
+   "'jefe de tren' por 'boordchef' (jefe de a bordo) — término no normalizado",
+   "'driewegsleutel' traducido como 'llave de tres posiciones' en lugar de 'llave de tres vías'",
+   "'pal' traducido como 'palanca' cuando en el contexto es 'trinquete/palanca de retención'"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el epígrafe 'Spoorwegongevallen' (Accidentes ferroviarios) que en el original precede a los puntos 1 y 2 del Capítulo III"
+    ],
+    "invenciones": [
+     "Se añade 'de Accidentes Ferroviarios' al nombre del órgano investigador, que el original no especifica"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Onderzoeksorgaan' traducido como 'Órgano de Investigación de Accidentes Ferroviarios' en lugar de 'Órgano de Investigación'",
+     "'Bediening van de deuren' como 'maniobra de las puertas' podría ser 'accionamiento de las puertas'"
+    ],
+    "comentario": "La traducción es fiel en general, pero omite el epígrafe 'Spoorwegongevallen' y añade precisión no presente en el original al nombre del órgano investigador."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/BE 14.12.2007 Mortsel.md"
+ },
+ "md-es/BE/2007/BE 17.12.2007 AED.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   7,
+   15,
+   27,
+   32,
+   39
+  ],
+  "fidelidad_media": 95.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'pakwagen' traducido como 'furgón de carga' en lugar de 'furgón de equipajes' (término ferroviario normalizado)",
+   "'treinbegeleider' como 'acompañante del tren' en vez de 'interventor' o 'jefe de tren'",
+   "«Trainsurfing» frente a \"Trainsurfen\" (término original no normalizado)",
+   "«Central de Meldkamer»: nombre propio neerlandés sin traducir ni aclarar (Central de avisos/denuncias)",
+   "'voettrede' traducido como 'estribo' en lugar de 'peldaño' o 'estribo de pie' (término ferroviario normalizado)",
+   "'handgreep' como 'asidero' es aceptable, pero se pierde la distinción entre asidero vertical y asidero de mano"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "La traducción se interrumpe en 'debido a su incautación...' y no recoge el final del original 'wegens de in-' (por la inmovilización/incautación, frase incompleta en el original)",
+     "No se traduce el topónimo 'Ede' de forma consistente (aparece como Ede, correcto, pero se omite la referencia 'spoorlijn 89' como 'línea ferroviaria 89' sí está)"
+    ],
+    "invenciones": [
+     "'Central de Meldkamer (Centro de Control)' añade glosa explicativa no presente en el original",
+     "'Traffic Control (Control de Tráfico)' añade glosa no presente",
+     "'debido a su incautación' introduce un término ('incautación') que no aparece en el original, que dice 'in-' (inmovilización)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'treinbegeleider' traducido como 'jefe de tren' en lugar de 'interventor' o 'agente de acompañamiento' (término no normalizado)",
+     "'rijtuig' traducido como 'vehículo' en lugar de 'coche' o 'vagón'",
+     "'motorstellen' traducido como 'unidades motrices' (aceptable) pero 'MS' se mantiene sin normalizar"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión del cierre del original, glosas inventadas y terminología ferroviaria no normalizada."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/BE 17.12.2007 AED.md"
+ },
+ "md-es/BE/2007/BE 26.04.2007 onderzoekdsverslag.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   8,
+   15,
+   23,
+   29,
+   36
+  ],
+  "fidelidad_media": 91.2,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'seinen die waargenomen zijn door beide treinen' traducido como 'señales sucesivas de las señales' (redundante, pero fiel al original 'seinbeelden' = imágenes/señales)",
+   "'seinbeelden' traducido como 'indicaciones de las señales' en lugar de 'aspectos/imágenes de señal'",
+   "'spoorstroomkringen' traducido como 'circuitos de vía' (aceptable) pero 'SK19K' se convierte en 'circuito de vía SK19K' añadiendo categoría no explícita",
+   "'botsing' traducido como 'accidente' en lugar de 'colisión'",
+   "'BESLUIT' traducido como 'CONCLUSIÓN' en lugar de 'DECISIÓN'",
+   "'tegenspoorsein' traducido como 'señal de vía contraria' es aceptable, pero 'sein kleine beweging' como 'señal de movimiento reducido' podría normalizarse como 'señal de maniobra'"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 78,
+    "omisiones": [
+     "No se traduce 'de beveiliging gevallen' como 'se activa la protección de los casos' (se invierte el sentido: 'se anulan las medidas de protección')",
+     "Se omite la distinción 'hoofdgeneesheer' (médico jefe principal) frente a 'leidend geneesheer' (médico jefe) en la misma frase"
+    ],
+    "invenciones": [
+     "'se anulan las medidas de protección' no está en el original; el original dice que la protección entra en vigor"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'de beveiliging gevallen ... wordt van kracht' traducido como 'se anulan las medidas de protección' (error de sentido, no de término)",
+     "'hoofdgeneesheer' y 'leidend geneesheer' no se distinguen"
+    ],
+    "comentario": "La traducción invierte el sentido de la última medida (protección activada vs. anulada) y pierde matices de términos médicos."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 82,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'stuurrijtuig' traducido como 'locomotora piloto' (debería ser 'coche piloto' o 'furgón de mando')",
+     "'trek-duw stel' traducido como 'conjunto tracción-pushing' (debería ser 'tren push-pull' o 'tren reversible')",
+     "'rijtuigen' traducido como 'vagones' (debería ser 'coches' de viajeros)"
+    ],
+    "comentario": "La traducción conserva cifras y estructura, pero confunde 'stuurrijtuig' con locomotora y usa terminología ferroviaria no normalizada."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/BE 26.04.2007 onderzoekdsverslag.md"
+ },
+ "md-es/BE/2007/BE 29.11.2007 LA.md": {
+  "estado": "aviso",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   3,
+   10,
+   20,
+   33,
+   41,
+   48
+  ],
+  "fidelidad_media": 91.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'factionnaire' traducido como 'vigilante' en lugar de 'factor' o 'señalista' (término ferroviario normalizado)",
+   "'cumulée 21.100' traducido como 'punto kilométrico 21,100' cuando el original no usa 'PK'",
+   "'quai' traducido como 'andén' en contexto ferroviario belga (francés) debería ser 'andén' o 'muelle', pero se mantiene 'chantier' sin traducir",
+   "'chantier' no traducido (debería ser 'obra' u 'obra ferroviaria')",
+   "'meulage' traducido como 'rectificado' en lugar de 'esmerilado'/'amolado' (término técnico ferroviario)",
+   "'files de rail' traducido como 'vías de la vía B' en lugar de 'hilos del carril'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/BE 29.11.2007 LA.md"
+ },
+ "md-es/BE/2007/BE 29.112007 I32.md": {
+  "estado": "revisar",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   12,
+   16
+  ],
+  "fidelidad_media": 95.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'factionnaires' traducido como 'agentes de protección' en lugar de un término normalizado como 'vigías' o 'guardas'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el párrafo sobre el sistema radio con cobertura, la traducción omite parte de la frase: 'les équipes de factionnaires sont ... radio' queda como 'equipados de agentes están radio', perdiendo 'factionnaires' y la estructura 'sont équipées de radio'",
+     "Se omite la palabra 'factionnaires' en el segundo sistema (agentes/factionnaires)"
+    ],
+    "invenciones": [
+     "'trabajando en brigada' como traducción de 'travaillant en brigade' en el encabezado de tabla, que no aparece claramente en el original",
+     "'equipados de agentes' invierte el orden original 'équipes de factionnaires sont équipées'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'factionnaires' traducido de forma inconsistente: a veces omitido, a veces 'agentes'; debería normalizarse (p. ej. 'agentes de guardia' o 'faccionarios')",
+     "'système de protection radio sans couverture' → 'sistema de protección radio sin cobertura' aceptable, pero 'supplémentaire' mal resuelto como 'suplementario' sin concordancia",
+     "'a savoir' traducido como 'a saber:' correcto"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras y referencias intactas, pero con omisiones e invenciones en la frase clave sobre equipos de factionnaires y términos técnicos no normalizados."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 88,
+    "omisiones": [
+     "La traducción omite la segunda viñeta del original: '• 0 foctlonnaire avec radio' (guardavía con radio), que aparece como '• 0 guardavía con radio' pero pierde el segundo elemento 'i;i Guardavía con radio y señal acústica' que no figura en el original"
+    ],
+    "invenciones": [
+     "Se añade 'i;i Guardavía con radio y señal acústica', elemento que no aparece en el original",
+     "Se añade 'proporciona a continuación' donde el original solo dice 'donne ci-dessous'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'factionnaire' traducido como 'guardavía' es aceptable, pero se pierde la distinción de la viñeta con radio frente a la de radio y señal acústica",
+     "'visibilite retablie' traducido como 'visibilidad restablecida' es correcto"
+    ],
+    "comentario": "La traducción es fiel en lo esencial pero inventa una viñeta con 'señal acústica' ausente del original y omite/duplica la viñeta del guardavía con radio."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/BE 29.112007 I32.md"
+ },
+ "md-es/BE/2007/Final report Ede-17122007.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   7,
+   15,
+   27,
+   32,
+   39
+  ],
+  "fidelidad_media": 96.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'treinbegeleider' traducido como 'acompañante de tren' en lugar de 'interventor/agente de tren' (término no normalizado)",
+   "'conjunto motor' por 'motorstel' (unidad motriz) es aceptable pero no normalizado; 'vagón' por 'rijtuigkast' (caja del coche) puede inducir a error"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 97,
+    "omisiones": [],
+    "invenciones": [
+     "AVG (Sistema Automático de Vigilancia): la sigla AVG no se desarrolla en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'pakwagen' traducido como 'furgoneta de equipajes' (furgón de equipajes) y 'voettrede' como 'escalón'"
+    ],
+    "comentario": "Traducción fiel y completa, con una glosa inventada de AVG y alguna imprecisión terminológica menor en 'pakwagen'."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la hora '7 u 57' (7:57) en la que el maquinista cree haber visto el cuerpo",
+     "Falta la coletilla 'dan wel' (o bien) en 'uit, dan wel van de rijdende trein gevallen'",
+     "El texto original queda truncado en 'wegens de in-' y la traducción añade 'debido a la incautación' sin respaldo"
+    ],
+    "invenciones": [
+     "'debido a la incautación': el original está cortado ('wegens de in-') y no menciona incautación alguna"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'acompañante' por 'treinbegeleider' (interventor/revisor de tren) no es término normalizado",
+     "'Sala Central de Mensajes' por 'Centrale Meldkamer' (central de alarmas/emergencias)",
+     "'tren de cercanías' por 'cityrail' (CR) podría requerir normalización"
+    ],
+    "comentario": "Se omite la hora 7:57 y se inventa una causa de inmovilización por un truncamiento del original; además hay terminología no normalizada."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/Final report Ede-17122007.md"
+ },
+ "md-es/BE/2007/Final report Genk-19062007.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   3,
+   24,
+   37,
+   48,
+   59,
+   71
+  ],
+  "fidelidad_media": 93.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'spitsvoeg' traducido como 'punta de aguja' en lugar de 'junta de punta' o 'junta de aguja'",
+   "'lopend spoor' traducido como 'vía libre' cuando significa 'vía de circulación'",
+   "'bundelspoor' traducido como 'vía del conjunto' en lugar de 'vía de haz' o 'vía de grupo'",
+   "'spoortoestel' traducido como 'material de vía' cuando se refiere a 'aparato de vía' (desvío)",
+   "'bestuurder' traducido como 'maquinillo' (diminutivo no normalizado; debería ser 'maquinista')",
+   "'baanlocomotief' traducido como 'locomotora de vía libre' (debería ser 'locomotora de maniobras')"
+  ],
+  "fallos": [
+   {
+    "pagina": 59,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el inciso 'bv.' como 'por ejemplo' en la hipótesis 2 (se traduce como 'por ejemplo' sí, pero se omite la abreviatura original; en realidad se omite 'bv.' -> 'por ejemplo' está presente)",
+     "Se omite la palabra 'maniobras' tras 'maquinista' en el último párrafo: 'bestuurder bij de rangeringen' se traduce como 'maquinista durante las maniobras' pero aparece 'de maniobra' duplicado"
+    ],
+    "invenciones": [
+     "Se añade 'de maniobra' al final del último párrafo, que no está en el original",
+     "Se traduce 'bestuurder rangeringen' como 'maquinista de maniobras' (aceptable) pero en el último párrafo se añade 'de maniobra' tras 'maniobras'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'bestuurder rangeringen' se traduce como 'maquinista de maniobras' en lugar de un término más normalizado como 'maquinista de maniobras' (aceptable)",
+     "'operator terrein' se traduce como 'operador de superficie', término no normalizado; podría ser 'operador de campo'"
+    ],
+    "comentario": "La traducción es fiel en general, pero hay una omisión/duplicación en el último párrafo ('de maniobra') y algún término mejorable."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/Final report Genk-19062007.md"
+ },
+ "md-es/BE/2007/Final report Houyet-02092007.md": {
+  "estado": "revisar",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   2,
+   9,
+   19,
+   33,
+   41,
+   50
+  ],
+  "fidelidad_media": 84.7,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'bandage lâché' traducido como 'aflojamiento de un rodamiento' en lugar de 'flojedad/suelta de un neumático/banda de rodadura'",
+   "'roues bandagées' traducido como 'ruedas con rodamiento' en lugar de 'ruedas con banda de rodadura/neumático'",
+   "'bandages des roues' traducido como 'rodamientos de las ruedas' en lugar de 'bandas de rodadura/neumáticos de las ruedas'",
+   "'train croiseur' traducido como 'tren cruzador' (no normalizado; debería ser 'tren que se cruza')",
+   "'relais conducteur' traducido como 'relé conductor' en lugar de 'relevo de conductor' o 'cambio de conductor'"
+  ],
+  "fallos": [
+   {
+    "pagina": 19,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'Discussion sur les traces relevées' con precisión: 'relevées' (registradas/levantadas) se omite matiz",
+     "Falta la palabra 'conducteur' traducida como 'maquinista' es aceptable, pero se omite 'convoi' como 'tren' (aceptable)",
+     "En el diagrama se omite 'VIDANGE DE LA CONDUITE DU FREIN' se traduce parcialmente como 'VACIADO DEL FRENO DE MANEJO DEL FRENO', omitiendo 'conduite' (conducción/tubería)"
+    ],
+    "invenciones": [
+     "'andillo' no es término normalizado; debería ser 'andén'",
+     "Se añade 'MANEJO DEL FRENO' que no aparece en el original en esa posición"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'borde de andillo' por 'bordure de quai' (debería ser 'borde de andén')",
+     "'aparato 4AC' por 'aiguillage 4AC' (debería ser 'desvío 4AC' o 'cambio 4AC')",
+     "'corazón de cruce' por 'coeur de croisement' (aceptable, pero 'corazón del cruce' más normalizado)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con término no normalizado 'andillo' y omisión parcial en la etiqueta del diagrama sobre la conducción del freno."
+   },
+   {
+    "pagina": 33,
+    "fidelidad": 82,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "surécartement traducido como 'sobrecalentamiento' (debería ser 'sobreancho' o 'exceso de ancho')",
+     "contre-rail de guidage traducido como 'carril de guía' (más preciso: 'contracarril de guía')",
+     "bandage traducido como 'neumático' (debería ser 'bandaje' o 'llanta')"
+    ],
+    "comentario": "La traducción invierte el sentido técnico clave: 'surécartement' (sobreancho) se traduce como 'sobrecalentamiento', lo que altera la causa del descarrilamiento."
+   },
+   {
+    "pagina": 41,
+    "fidelidad": 55,
+    "omisiones": [
+     "La fila de tabla con el valor de medida de diámetros/alésage y serrages residuales no se reproduce (solo queda el encabezado 'Espesor del bandaje 34 mm')"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "bandage traducido como 'rodamiento' (debe ser 'bandaje' o 'llanta')",
+     "désembattage traducido como 'desmontaje del rodamiento' (debe ser 'desmontaje del bandaje')",
+     "boudin traducido como 'flange' (debe ser 'pestaña')"
+    ],
+    "comentario": "Traducción con errores graves de terminología ferroviaria (bandage→rodamiento) y omisión de la fila de medidas, aunque las cifras conservadas son correctas."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/Final report Houyet-02092007.md"
+ },
+ "md-es/BE/2007/Final report Izegem-26042007.md": {
+  "estado": "revisar",
+  "idioma_origen": "NL",
+  "paginas_revisadas": [
+   2,
+   8,
+   15,
+   23,
+   29,
+   36
+  ],
+  "fidelidad_media": 90.0,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'seinen die waargenomen zijn door beide treinen' traducido como 'señales sucesivas de las señales' (redundante, pero fiel al original neerlandés)",
+   "'spoorstroomkringen' como 'circuitos de vía' es aceptable; 'circuitos de vía' es término normalizado",
+   "'de beveiliging gevallen' traducido como 'se anulan las protecciones' invierte el sentido: el original indica que la protección (señalización/consignación) de los casos 29351-29355 entra en vigor ('wordt van kracht'), no que se anule",
+   "'hoofdgeneesheer' y 'leidend geneesheer' ambos como 'médico jefe'/'médico jefe principal' difumina la distinción entre jefe de servicio y médico jefe principal",
+   "'Medisch Urgentieplan' como 'Plan de Urgencia Médica' es aceptable pero no normalizado",
+   "'seinbeelden' traducido como 'indicaciones de los semáforos' en lugar de 'aspectos/imágenes de señal'"
+  ],
+  "fallos": [
+   {
+    "pagina": 15,
+    "fidelidad": 78,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'stuurrijtuig' traducido como 'locomotora piloto' (debería ser 'coche de cabina' o 'furgón de mando')",
+     "'trek-duw stel' traducido como 'conjunto tracción-pushed (push-pull)' (mezcla de idiomas, no normalizado)",
+     "'rijtuig' traducido como 'vagón' (en ferrocarril de viajeros es 'coche')"
+    ],
+    "comentario": "La traducción conserva todas las cifras y referencias, pero contiene términos técnicos mal normalizados ('locomotora piloto' por coche de cabina, 'vagón' por coche, 'tracción-pushed') y un error de género en 'la andén'."
+   },
+   {
+    "pagina": 36,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'Nachtdienst' como servicio nocturno en el título (se omite 'Toezicht Blok 1.10 Izegem Nachtdienst' como encabezado completo)",
+     "Se omite la frase 'Er werd gestart met de aanpassingen spoor A' en su forma pasiva original (se traduce como 'Se inició con las adaptaciones de la vía A', aceptable)",
+     "Se omite 'Op een bepaald ogenblik' matiz temporal en 'En un determinado momento' (aceptable)"
+    ],
+    "invenciones": [
+     "'centralita de bloqueo (OKB) de Bord' añade 'de Bord' no presente en el original",
+     "'Departamento de Formación de ETS' añade 'Departamento' no explícito",
+     "'punto kilométrico' se usa para traducir 'KP' (aceptable pero no literal)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tegenspoorsein' traducido como 'señal de vía contraria' (correcto)",
+     "'sein kleine beweging' traducido como 'señal de movimiento reducido' (correcto)",
+     "'seininrichting' traducido como 'instalaciones de señales' (aceptable)"
+    ],
+    "comentario": "Traducción mayormente fiel con omisiones menores en el encabezado y alguna invención leve en términos de infraestructura."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/Final report Izegem-26042007.md"
+ },
+ "md-es/BE/2007/Final report La Hulpe-29112007.md": {
+  "estado": "revisar",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   3,
+   10,
+   20,
+   33,
+   41,
+   48
+  ],
+  "fidelidad_media": 92.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'factionnaire' traducido como 'vigilante' en lugar de un término normalizado como 'señalista' o 'guardabarrera'",
+   "'cumulée 21.100' traducido como 'punto kilométrico 21,100' (adaptación aceptable pero no literal)",
+   "'chantier' no traducido (debería ser 'obra' o 'tajo')",
+   "'quai' traducido como 'andén' en contexto ferroviario belga podría ser 'muelle'/'andén', aceptable",
+   "'meulage' traducido como 'rectificado' en lugar de 'amolado'/'esmerilado'",
+   "'files de rail' traducido como 'vías de la vía B' en lugar de 'hilos del carril'"
+  ],
+  "fallos": [
+   {
+    "pagina": 20,
+    "fidelidad": 88,
+    "omisiones": [
+     "En la tabla, la columna 'Tous les points de détection sont-ils visibles par la mise en place de plusieurs factionnaires?' se traduce de forma confusa y desplazada ('Todos los puntos de detección son visibles por la puesta en práctica de varias agentes de guardia?'), alterando la estructura de la tabla",
+     "Se omite la fila/columna 'Les factionnires se voient' como opción independiente en la tabla de visibilidad"
+    ],
+    "invenciones": [
+     "'Todos los puntos de detección son visibles de los agentes de guardia?' no corresponde literalmente a la columna original",
+     "Se añade 'de los agentes de guardia' donde el original dice 'du chantier' (del lugar de trabajo)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'factionnaire' traducido como 'agente de guardia' en lugar del término normalizado 'vigía' o 'guardagujas/centinela' según contexto",
+     "'meulages' traducido como 'esmerilados' (aceptable) pero 'travaux' como 'trabajo' en singular en varios lugares",
+     "'chantier' traducido como 'lugar de trabajo' en lugar de 'obra' u 'emplazamiento de trabajo' de forma consistente"
+    ],
+    "comentario": "La traducción es mayormente fiel pero la tabla de decisión presenta desplazamientos de columnas y el término 'factionnaire' no se normaliza de forma consistente."
+   }
+  ],
+  "fecha": "2026-11-20",
+  "md_es": "md-es/BE/2007/Final report La Hulpe-29112007.md"
+ }
+}

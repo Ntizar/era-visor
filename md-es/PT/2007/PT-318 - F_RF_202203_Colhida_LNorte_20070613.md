@@ -10,13 +10,13 @@ chars: 29388
 ratio_longitud: 0.92
 tokens_in: 21117
 tokens_out: 10794
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: ratio 1.64", "página 5: ratio 1.67", "página 6: ratio 1.85", "página 10: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 2: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 2/6"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 RFR 
 TRANSPORTE FERROVIÁRIO 
@@ -158,10 +158,10 @@ Valor dos danos materiais:
 Nada que señalar. 
 Coste de los daños: 
 1/10 
-RELATÓRIO FACTUAL || INFORME FACTUAL F2022/03     
-
+RELATÓRIO FACTUAL || INFORME FACTUAL F2022/03
 
 ## Página 2
+
 
 ## 2- NOTA SOBRE A INVESTIGAÇÃO 
 ## 2- NOTA SOBRE LA INVESTIGACIÓN 
@@ -259,12 +259,13 @@ la cual se encontraba prohibida a la circulación de
 
 ## Página 3
 
-comboios. O trabalhador tinha a categoria de
+
+trenes. El trabajador tenía la categoría de
 worker had the category of track foreman and was
 encarregado de via e desempenhava a função de
 performing the role of Owner of the Work.
 Dono da Obra.
-O comboio era constituído pelas locomotivas 1437
+El tren estaba constituido por las locomotoras 1437
 The train consisted of locomotives 1437 (leading)
 (tripulada) e 1408, em múltipla tração, que
 and 1408, in multiple unit, hauling nine loaded
@@ -300,14 +301,12 @@ Figure 1
 ||
 Localização do acidente
 Accident location
-Não foram encontradas eventuais testemunhas do
 No witnesses to the accident were found, nor did the
 acidente, nem a tripulação do comboio se apercebeu
 train crew notice any anomaly during the march.
 de qualquer anomalia durante a marcha.
-Das evidências recolhidas pela investigação foi
 From the evidence collected by the investigation, it
-possível estabelecer que às 00:30 o material
+Das evidências recolhidas pela investigação foi
 was possible to establish that at 00:30 the trach
 circulante para os trabalhos deu entrada na via
 machines for the work entered the track possession,
@@ -317,25 +316,24 @@ veículos. O primeiro veículo a entrar foi uma
 The first vehicle to enter was a track tamping
 atacadeira.
 machine.
-Depois de posicionadas as máquinas e cerca de cinco
 After the machines were positioned and about five
-minutos após o início dos trabalhos, surgiram algumas
+Depois de posicionadas as máquinas e cerca de cinco
 minutes after starting the work, some doubts arose
-dúvidas ao operador da atacadeira sobre o trabalho a
+minutos após o início dos trabalhos, surgiram algumas
 to the tamper operator about the work to be carried
-realizar, tendo parado os motores e saído para o
+dúvidas ao operador da atacadeira sobre o trabalho a
 out, thus stopping the engine and exiting the cab. A
-exterior. Foi efetuada uma pequena reunião entre
+realizar, tendo parado os motores e saído para o
 small briefing was held between workers from the
-trabalhadores da empresa prestadora de serviços do
+exterior. Foi efetuada uma pequena reunião entre
 IM’s service provider and the Owner of the Work,
-GI e o Dono da Obra, que se realizou em frente à
+trabalhadores da empresa prestadora de serviços do
 which took place in front of the tamping machine,
-atacadeira, sobre a VA. Esclarecidas as dúvidas, o
+GI e o Dono da Obra, que se realizou em frente à
 on the VA track. Having cleared the doubts, the
 
-
 ## Página 4
+
 
 operador regressou ao seu posto e reiniciou os
 tamper operator returned to the cab and restarted
@@ -417,65 +415,37 @@ department, police (PSP), the medical emergency
 
 ## Página 5
 
-Voluntários Sapadores de Coimbra, a PSP, o INEM e a Polícia Judiciária.
-Foram penalizados 39 comboios, totalizando um atraso de 67 horas e 29 minutos.
 
-La Brigada de Bomberos Voluntarios de Coimbra, la PSP, el INEM y la Policía Judicial acudieron al lugar del suceso.
-En total, se vieron afectados 39 trenes, acumulando un retraso de 67 horas y 29 minutos.
+Los Voluntarios de Bomberos de Coimbra, la PSP, el INEM y la Policía Judicial acudieron al lugar.
+Se penalizaron 39 trenes, acumulando un retraso total de 67 horas y 29 minutos.
 
 ## 4- LA INFRAESTRUCTURA
 
-No local onde aconteceu a colhida, a via transita de curva à direita (no sentido da marcha do comboio) para alinhamento reto, em ligeira rampa. A velocidade máxima admitida para comboios convencionais era de 110 km/h, por definição do traçado de via.
-
-En el lugar donde tuvo lugar el atropello, la vía pasa de una curva hacia la derecha (en el sentido de marcha del tren) a una alineación recta, en ligera rampa ascendente. La velocidad máxima admitida para los trenes convencionales era de 110 km/h, según la definición del trazado de la vía.
+En el lugar donde se produjo la colisión, la vía pasa de una curva a la derecha (en el sentido de marcha del tren) a una alineación recta, en una ligera rampa ascendente. La velocidad máxima admitida para los trenes convencionales era de 110 km/h, por definición del trazado de la vía.
 
 ## 5- EL TREN
 
-A comboio n.º 77631 circulava com quatro minutos de atraso e com o sistema CONVEL ao serviço, permitindo a posterior recolha e análise dos dados taquimétricos.
-
-El tren n.º 77631 circulaba con cuatro minutos de retraso y con el sistema ATP (CONVEL) en servicio, lo que permitía la posterior recogida y análisis de los datos taquimétricos.
-
-A locomotiva titular era do tipo monocabina com visibilidade limitada, especialmente por circular com a parte do motor virada para a frente. Tinha o farol ligado.
-
-La locomotora principal era del tipo monocabina con visibilidad limitada, especialmente por circular con la parte del motor orientada hacia delante. Tenía el faro encendido.
-
-O maquinista era portador de ordem de serviço que informava a interdição da VA entre as estações de Coimbra-B e Souselas e de um modelo de limitação de velocidade de 60 km/h, de acordo com a regulamentação em vigor. À passagem pelo sinal S2, local da colhida, a velocidade era de 27 km/h, abaixo da velocidade máxima permitida.
-
-El maquinista llevaba una orden de servicio que informaba sobre la prohibición de circulación en la vía VA entre las estaciones de Coimbra-B y Souselas, así como un formulario de limitación de velocidad de 60 km/h, de acuerdo con la normativa vigente. Al pasar por la señal S2, lugar del atropello, la velocidad era de 27 km/h, muy por debajo de la velocidad máxima permitida.
-
-Nos depoimentos recolhidos, o operador de apoio refere que se encontrava posicionado no lado direito da locomotiva, no sentido da marcha, não tendo uma visão franca para a zona de trabalhos na VA, que se desenvolvia do lado esquerdo do comboio. O maquinista, posicionado do lado esquerdo da cabina, refere que viu a iluminação intensa da zona de trabalhos, as máquinas em funcionamento e pessoal junto das mesmas. Fez uso da buzina no local dos trabalhos, mas menciona que não viu ninguém na VD.
-
-En las declaraciones recogidas, el operador auxiliar indica que se encontraba situado en el lado derecho de la locomotora, en el sentido de la marcha, sin tener una visión despejada de la zona de trabajos en la vía VA, que se desarrollaba en el lado izquierdo del tren. El maquinista, situado en el lado izquierdo de la cabina, declara que vio la iluminación intensa de la zona de trabajos, las máquinas en funcionamiento y personal junto a ellas. Hizo uso del silbato en el lugar de los trabajos, pero menciona que no vio a nadie en la vía VD.
+El tren n.º 77631 circulaba con cuatro minutos de retraso y con el sistema CONVEL en servicio, lo que permitía la posterior recogida y análisis de los datos taquimétricos.
+La locomotora titular era del tipo monocabina con visibilidad limitada, especialmente por circular con la parte del motor orientada hacia delante. Tenía el faro encendido.
+El maquinista portaba una orden de servicio que informaba de la interdicción de la VA entre las estaciones de Coimbra-B y Souselas, así como un modelo de limitación de velocidad de 60 km/h, de acuerdo con la normativa vigente. Al paso por la señal S2, lugar de la colisión, la velocidad era de 27 km/h, muy por debajo de la velocidad máxima permitida.
+En las declaraciones recogidas, el operador de apoyo manifiesta que se encontraba posicionado en el lado derecho de la locomotora, en el sentido de la marcha, no teniendo una visión franca de la zona de trabajos en la VA, que se desarrollaba en el lado izquierdo del tren. El maquinista, posicionado en el lado izquierdo de la cabina, declara que vio la iluminación intensa de la zona de trabajos, las máquinas en funcionamiento y personal junto a las mismas. Hizo uso del silbato en el lugar de los trabajos, pero menciona que no vio a nadie en la VD.
 
 ## Página 6
 
-À aproximação do sinal de entrada da Pampilhosa, cerca das 01:55, foi contactado pelo CCO através do rádio solo-comboio que informou da colhida na zona de trabalhos. Após a paragem na Pampilhosa, e com a ajuda de agentes da estação munidos com lanternas, verificou a presença de diversos vestígios da colhida na timonaria de freio junto ao primeiro rodado e por baixo dos motores de tração do segundo bogie da locomotiva, factos que comunicou ao controlador de circulação do GI.
 
-Al acercarse a la señal de entrada de Pampilhosa, alrededor de las 01:55, fue contactado por el CCO a través de la radio tierra-tren, que le informó del atropello en la zona de trabajos. Tras detenerse en Pampilhosa, y con la ayuda de agentes de la estación provistos de linternas, comprobó la presencia de diversos vestigios del atropello en la timonería de freno junto al primer eje y por debajo de los motores de tracción del segundo bogie de la locomotora, hechos que comunicó al controlador de circulación del GI.
-
-## 6- EL TRABAJO EN EJECUCIÓN
-
-Os trabalhos a desenvolver na via interdita eram de ataque mecânico pesado, a serem efetuados entre as 00:30 e as 05:30. Para o efeito, a VA foi interdita entre as estações de Coimbra-B e Souselas. A VD encontrava-se aberta à exploração ferroviária e era considerada linha de categoria de risco I, segundo a regulamentação então em vigor1. A velocidade das circulações encontrava-se limitada a 60 km/h entre os PK 217,900 e 218,900, local não sinalizado e sem CONVEL.
-
-Los trabajos a desarrollar en la vía prohibida eran de compactación mecánica pesada, a realizar entre las 00:30 y las 05:30. Para ello, la vía VA fue cerrada al tráfico entre las estaciones de Coimbra-B y Souselas. La vía VD estaba abierta a la explotación ferroviaria y era considerada línea de categoría de riesgo I, según la normativa entonces vigente1. La velocidad de las circulaciones estaba limitada a 60 km/h entre los PK 217,900 y 218,900, lugar no señalizado y sin CONVEL.
-
-Todas as medidas de segurança estabelecidas na IET 77 (na sua versão em vigor à data) referentes ao trabalho a realizar encontravam-se implementadas, assim como todos os trabalhadores envolvidos nos trabalhos usavam roupa de alta visibilidade.
-
-Todas las medidas de seguridad establecidas en la norma IET 77 (en su versión vigente en la fecha) relativas al trabajo a realizar estaban implementadas, así como todos los trabajadores involucrados en los trabajos llevaban ropa de alta visibilidad.
-
-## 7- ACCIONES RELEVANTES TOMADAS
-
-Considerando as circunstâncias do acidente, o GI nomeou uma Comissão de Inquérito (CI) para apuramento das circunstâncias, a qual formulou as seguintes recomendações:
-
-Teniendo en cuenta las circunstancias del accidente, el GI nombró una Comisión de Investigación (CI) para el esclarecimiento de las circunstancias, la cual formuló las siguientes recomendaciones:
-
-a) Para realização de trabalhos de ataque mecânico pesado, devem ser introduzidas nas vias adjacentes à via em que decorrem os trabalhos limitações de velocidade máxima de circulação de 30 km/h;
-
-a) Para la realización de trabajos de compactación mecánica pesada, deben introducirse en las vías adyacentes a aquella en la que se llevan a cabo los trabajos limitaciones de velocidad máxima de circulación de 30 km/h;
-
+Al aproximarse a la señal de entrada de Pampilhosa, sobre las 01:55, fue contactado por el CCO mediante radio tren-tierra, que le informó del atropello en la zona de trabajos. Tras detenerse en Pampilhosa, y con la ayuda de agentes de la estación provistos de linternas, verificó la presencia de diversos vestigios del atropello en la timonera de freno junto al primer eje y por debajo de los motores de tracción del segundo bogie de la locomotora, hechos que comunicó al controlador de circulación del GI.
+## 6- O TRABALHO EM EXECUÇÃO
+## 6- LOS TRABAJOS EN EJECUCIÓN
+Los trabajos a desarrollar en la vía interdita eran de ataque mecánico pesado, a realizarse entre las 00:30 y las 05:30. Para ello, la VA fue interdita entre las estaciones de Coimbra-B y Souselas. La VD se encontraba abierta a la explotación ferroviaria y era considerada línea de categoría de riesgo I, según la normativa entonces vigente1. La velocidad de las circulaciones estaba limitada a 60 km/h entre los PK 217,900 y 218,900, local no señalizado y sin CONVEL.
+Todas las medidas de seguridad establecidas en la IET 77 (en su versión vigente a la fecha) referentes al trabajo a realizar estaban implementadas, así como todos los trabajadores involucrados en los trabajos usaban ropa de alta visibilidad.
+## 7- AÇÕES RELEVANTES TOMADAS
+## 7- ACCIONES RELEVANTES ADOPTADAS
+Considerando las circunstancias del accidente, el GI nombró una Comisión de Investigación (CI) para el esclarecimiento de las circunstancias, la cual formuló las siguientes recomendaciones:
+a) Para la realización de trabajos de ataque mecánico pesado, deben introducirse en las vías adyacentes a la vía en la que se desarrollan los trabajos limitaciones de velocidad máxima de circulación de 30 km/h;
 1 IET 77 – Normas e Procedimentos de Segurança em Trabalhos de Infra-estruturas (01-06-2004).
 
 ## Página 7
+
 
 b) Em 
 trabalhos 
@@ -565,6 +535,7 @@ sistematización y amplitud en el proceso formativo.
 
 ## Página 8
 
+
 Em 2008, a categoria profissional assume importância em termos de organização da formação, pelo que as ações de formação passam a ser definidas de forma a abranger as diversas especialidades.
 In 2008, the professional category assumes importance in terms of the organization of training, so that training actions are defined in order to cover the various specialties.
 Em 2009, para além da importância da categoria profissional, é introduzida a exigência da certificação, passando a considerar-se como requisito central o reconhecimento e a aferição dos conhecimentos adquiridos, considerados como críticos para o desempenho de determinada função.
@@ -580,6 +551,7 @@ In 2020, with the publication of a procedure on the “Qualification of Workers 
 
 ## Página 9
 
+
 La publicación de este procedimiento resultó de la necesidad de desarrollar un sistema de reconocimiento de la formación, riguroso y exigente, tanto en lo que respecta al proceso formativo como al resultado del aprendizaje.
 Este proceso es gestionado por Academia IP, tanto para sus trabajadores como para los de los prestadores de servicios.
 ### Perspectiva de seguridad
@@ -590,9 +562,15 @@ Desde 2007 se ha registrado una evolución de las medidas de seguridad ferroviar
 
 ## Página 10
 
-trabajos, concretamente si las medidas de seguridad programadas son las adecuadas y han tenido en cuenta las condiciones del terreno.
-― Se asegura de forma periódica, sistemática y aleatoria la verificación de la programación de trabajos y medidas de seguridad en Orden Diaria de Trabajo (ODT). Estas verificaciones tienen como objetivo promover la correcta programación de trabajos y de medidas de seguridad ferroviarias.
-― Se reforzó el seguimiento de las visitas de ámbito de la seguridad del trabajo a los equipos internos. Estas visitas tienen como principales objetivos promover las medidas de prevención / seguridad definidas para la actividad, sensibilizar al equipo sobre los aspectos relacionados con la seguridad laboral, promover la participación y, eventualmente, identificar oportunidades de mejora en el ámbito de la seguridad laboral.
+cuestionar los requisitos asociados a la ejecución de las obras, a saber, si las medidas de seguridad programadas son adecuadas y han tenido en cuenta las condiciones del lugar.
+― Se garantiza de forma periódica, sistemática y aleatoria la verificación de la planificación de las obras y de las medidas de seguridad en la Orden de Trabajo Diaria (OTD). Estas verificaciones tienen como objetivo promover la correcta planificación de las obras y de las medidas de seguridad ferroviarias.
+― Se ha reforzado el seguimiento de las visitas de seguridad laboral a los equipos internos que trabajan en el lugar. Estas visitas tienen como principales objetivos promover las medidas de prevención/seguridad definidas para la actividad, concienciar al equipo sobre los aspectos relacionados con la seguridad laboral, promover la participación y, eventualmente, identificar oportunidades de mejora en el ámbito de la seguridad laboral.
+
 Lisboa, noviembre de 2022
-En conformidad con el Decreto-lei n.º 394/2007, la investigación de seguridad y los informes correspondientes no tienen por objeto el esclarecimiento de culpas ni la determinación de responsabilidades.
-### Este informe factual fue preparado, únicamente, a efectos de prevención de accidentes. Su uso para otro fin puede conducir a conclusiones erróneas.
+Lisboa, noviembre de 2022
+
+De conformidad con el Decreto-ley n.º 394/2007, la investigación de seguridad y los informes correspondientes no tienen como objetivo la determinación de culpas o la atribución de responsabilidades.
+De conformidad con la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y la legislación nacional, no es objetivo de ninguna investigación de seguridad ni de los informes asociados la atribución de culpas o responsabilidades.
+
+### Este informe factual ha sido preparado únicamente para efectos de prevención de accidentes. Su uso para otros fines puede conducir a conclusiones erróneas.
+### El único objetivo de este informe es difundir las lecciones que puedan ayudar a prevenir futuros accidentes. Su uso para otros fines puede conducir a conclusiones incorrectas.

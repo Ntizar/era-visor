@@ -10,13 +10,13 @@ chars: 165087
 ratio_longitud: 1.04
 tokens_in: 64221
 tokens_out: 47026
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 29: ratio 0.69", "página 35: cifras largas: faltan 1/4 (25%)", "página 41: cifras largas: faltan 2/2 (100%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 2: cifras largas: 2/18", "página 3: cifras cortas: 2/7", "página 12: cifras cortas: 1/21", "página 13: cifras cortas: 1/10", "página 25: cifras largas: 1/16; cifras cortas: 1/39"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 TRANSPORTE FERROVIARIO
 Descarrilamiento de vagón del tren n.º 51232
@@ -33,8 +33,8 @@ FINAL REPORT
 (English summary on page 9)
 [Relatório F_RI2022/03]
 
-
 ## Página 2
+
 
 ### Ficha Técnica
 Editor:
@@ -68,8 +68,8 @@ Fecha
 Resumen de los cambios
 Informe n.º F_RI2022/03
 
-
 ## Página 3
+
 
 ### Introducción
 ### Marco general
@@ -84,6 +84,7 @@ La identidad de las personas involucradas en los accidentes o incidentes está p
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 4
+
 
 ### Despacho de homologación (transcripción)
 Considerando que:
@@ -102,8 +103,8 @@ Nelson Oliveira
 (firmado en el original)
 Informe n.º F_RI2022/03
 
-
 ## Página 5
+
 
 ### Introducción
 ### Resumen
@@ -125,8 +126,8 @@ Por estos motivos, el n.º 3 del artículo 11.º-A del Decreto-Lei n.º 394/2007
 Del mismo modo, el n.º 2 del artículo 12.º determina que las recomendaciones contenidas en el presente informe no deberán constituir, en ningún caso, presunción de culpa o responsabilidad de alguna entidad o persona, respecto a un accidente o incidente.
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
-
 ## Página 6
+
 
 ### Nota previa para el lector
 En este informe, la representación de unidades y números se realiza conforme al Sistema Internacional de Unidades (SI), a lo dispuesto en las normas de la serie ISO/IEC 80000 y a la norma portuguesa NP 9:1960. En los casos especiales en que otra unidad sea corrientemente utilizada en el medio ferroviario, esta será indicada acompañada de su equivalencia en el SI.
@@ -137,6 +138,7 @@ Tren de mercancías; sistema de gestión de la seguridad; suspensión; muelle de
 Informe n.º F_RI2022/03
 
 ## Página 7
+
 
 ### Índice 
 ## ÍNDICE GENERAL 
@@ -281,10 +283,10 @@ Verificación de la aptitud de un vagón para integrar un tren
 Verificación en origen de las condiciones para la circulación de un tren 
 4.5. 
 Mantenimiento de los muelles 
-Descarrilamiento de un vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019 
-
+Descarrilamiento de un vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 8
+
 
 4.5.1. 
 Componentes relevantes del SGS de EF referentes al mantenimiento de los vagones 
@@ -391,10 +393,10 @@ Cuadro 10: Valor total excedido entre 2013 y 2017
 Cuadro 11: Comparación de las medias de las pesajes por eje (meses con mayor índice de pluviosidad y restantes 
 48 
 meses del año) 
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 9
+
 
 ### Índice 
 ## ÍNDICE DE FIGURAS 
@@ -467,15 +469,16 @@ Figura 32: Ejemplos de resguardos de carga de arena
 Figura 33: Ejemplo de pesaje de vagón cumpliendo el límite de peso de la carga total, pero excediendo el peso 
 53 
 máximo por eje 
-Descarrilamiento de un vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019 
-
+Descarrilamiento de un vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 10
+
 
 Página dejada intencionadamente en blanco 
 Informe n.º F_RI2022/03
 
 ## Página 11
+
 
 ### Resumen en inglés
 ### RESUMEN EN INGLÉS
@@ -592,8 +595,8 @@ Criterios de daño:
 ― Daño leve: cuando un vehículo o componente de infraestructura, a pesar del daño, puede continuar en servicio, incluso si es con restricciones.
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
-
 ## Página 12
+
 
 ### b) Breve descripción del incidente
 El 17 de julio de 2019, el tren de mercancías n.º 51232 realizaba su ruta programada desde Ermesinde-A hasta la estación de Entroncamento.
@@ -619,6 +622,7 @@ Informe n.º F_RI2022/03
 
 ## Página 13
 
+
 ### Resumen en inglés
 ### c) Conclusiones
 El análisis realizado por la investigación sobre los hechos y otra información recopilada determinó que el descarrilamiento se produjo, de forma inmediata, como consecuencia de la pérdida de guía del primer bogie del vagón n.º 40 94 970 7 007-1 al circular por una curva a derecha.
@@ -634,8 +638,8 @@ Control efectivo del peso por eje de los vehículos cargados
 Recomendación de Seguridad 2022/06: Se recomienda que MEDWAY – Operador Ferroviário de Mercadorias, S.A., en un plazo aceptado por la NSA, tome las medidas necesarias para que los procedimientos de su SGS relativos al control del peso de los vehículos rodantes cargados sean debidamente eficaces para detectar, antes del tránsito y dentro de las tolerancias permitidas, la superación de cualquiera de los respectivos parámetros límite, y para impedir que los vehículos circulen bajo estas condiciones. Entre otros aspectos que la RU considere relevantes, estas medidas deben tener en cuenta el tipo de mercancía y la posible variabilidad de su densidad durante la carga y en tránsito, los medios de control disponibles en cada ubicación de carga y su respectiva fiabilidad, así como los factores humanos aplicados en este control.
 Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019
 
-
 ## Página 14
+
 
 Procesos internos de seguimiento de procedimientos operativos relevantes para la seguridad
 Recomendación de Seguridad 2022/07: Se recomienda que MEDWAY – Operador Ferroviário de Mercadorias, S.A., en un plazo aceptado por el IMT, revise su proceso de SGS para el seguimiento de la aplicación práctica de los procedimientos operativos, en particular mediante el establecimiento de un programa de auditorías periódicas para identificar y corregir desviaciones entre el trabajo planificado y el trabajo realizado, en especial, aunque sin limitarse a ellos, los procedimientos relativos al control de pesos de los vehículos rodantes cargados.
@@ -646,6 +650,7 @@ Además, la investigación también destaca algunos puntos de aprendizaje que de
 Relatório n.º F_RI2022/03
 
 ## Página 15
+
 
 ### Resumen 
 ## 1. RESUMEN 
@@ -659,10 +664,10 @@ Poco después de las 15:16, cuando el tren acababa de pasar por el apeadero de C
 También se reportaron daños leves en propiedad de terceros junto a la vía. 
 La circulación quedó interrumpida en la vía donde circulaba el tren desde el momento del descarrilamiento hasta las 22:10, en un total de 6h52m. La circulación en vía doble fue restablecida, mediante la aplicación de una restricción de velocidad a 60 km/h en la zona de la vía afectada. 
 Debido a las restricciones resultantes del descarrilamiento y respectivas acciones para el restablecimiento normal de la circulación, fueron penalizados 88 trenes, totalizando 2866 minutos de retraso, lo que se tradujo en un coste social convencional de cerca de 128 mil euros. 
-Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo a Cortegaça, el 17-07-2019 
-
+Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo a Cortegaça, el 17-07-2019
 
 ## Página 16
+
 
 ### 1.2. Conclusiones 
 El análisis realizado por la investigación a los hechos y demás información recogida, determinó que el descarrilamiento resultó, de forma inmediata, de la pérdida de guía del primer bogie del vagón n.º 40 94 970 7 007-1 cuando circulaba en una curva hacia la derecha. 
@@ -684,6 +689,7 @@ Informe n.º F_RI2022/03
 
 ## Página 17
 
+
 ### Resumen
 Supervisión interna de los procedimientos operativos relevantes para la seguridad mediante el establecimiento de un programa eficaz de auditorías periódicas para identificar y corregir las desviaciones entre el trabajo prescrito y el trabajo realizado.
 Además de las recomendaciones formuladas, la investigación presenta algunos puntos de aprendizaje que deben retenerse, a saber:
@@ -692,14 +698,14 @@ Además de las recomendaciones formuladas, la investigación presenta algunos pu
 3) La importancia de un control riguroso del peso por eje de los vehículos, debiéndose tener también en cuenta la variabilidad de peso a la que pueda estar sujeta la carga durante el transporte debido a las condiciones atmosféricas.
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
-
 ## Página 18
+
 
 Página dejada intencionadamente en blanco
 Informe n.º F_RI2022/03
 
-
 ## Página 19
+
 
 ### La investigación y su contexto
 ## 2. LA INVESTIGACIÓN Y SU CONTEXTO
@@ -727,6 +733,7 @@ Causas profundas relacionadas con el régimen regulatorio y la supervisión real
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 20
+
 
 Se señala que la investigación en cuestión tiene un ámbito meramente técnico, no ocupándose, en ningún caso, de cualquier atribución de culpa o de responsabilidades, teniendo como único y exclusivo objetivo contribuir a la mejora de la seguridad y a la prevención de accidentes ferroviarios.
 ### 2.4. Equipo de investigación
@@ -785,8 +792,8 @@ Análisis estadístico;
 Las empresas ferroviarias y las restantes entidades mostraron siempre cooperación a lo largo de la investigación, respondiendo a todas las cuestiones formuladas y facilitando toda la información solicitada.
 Informe n.º F_RI2022/03
 
-
 ## Página 21
+
 
 ### La investigación y su contexto
 El tiempo de respuesta de las entidades implicadas a las solicitudes de información y documentación realizadas en el marco de la investigación varió entre 1 y 772 días, según se indica en el siguiente cuadro.
@@ -823,13 +830,14 @@ La audiencia previa se desarrolló hasta el 11 de septiembre de 2022 y los comen
 Los comentarios no incorporados y demás observaciones figuran en anexo, conforme a lo determinado en el apartado 4 del artículo 10.o del Decreto-Lei n.º 394/2007, así como los eventuales comentarios justificativos del GPIAAF.
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
-
 ## Página 22
+
 
 Página dejada intencionadamente en blanco
 Informe n.º F_RI2022/03
 
 ## Página 23
+
 
 ### Descrição del suceso
 ## 3. 
@@ -948,10 +956,10 @@ necesita reparación.
 ― Daños leves: cuando un vehículo o componente de la infraestructura, a pesar de estar dañado, puede continuar asegurando su función sin intervención en taller, eventualmente 
 con restricciones. 
 Coste social: Según los criterios para la determinación de Indicadores Comunes de Seguridad (IMT). 
-Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019 
-
+Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 24
+
 
 ### 3.1.2. Descripción del lugar 
 ### 3.1.2.1. Características físicas 
@@ -1002,6 +1010,7 @@ Informe n.º F_RI2022/03
 
 ## Página 25
 
+
 ### Descripción del suceso
 ### 3.1.2.2. Meteorología
 El día 17 de julio, a la hora del descarrilamiento, los registros indicaban una temperatura de 23 °C, una humedad del 69 % y un viento que soplaba a una velocidad de 19 km/h desde el NNW. No hubo precipitación durante todo el día.
@@ -1027,6 +1036,7 @@ ii) El Centro de Mando Operacional de Porto (CCO), órgano local de la estructur
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
 ## Página 26
+
 
 • 
 La empresa ferroviaria MEDWAY – Operador Ferroviário de Mercadorias, S.A., responsable del material rodante y de la tripulación en servicio en el tren. 
@@ -1055,10 +1065,10 @@ Cuadro 2: Lista de vehículos que componen el tren n.º 51232 5
 4 La “Parte A” del Certificado de Seguridad confirma la aceptación del Sistema de Gestión de la Seguridad de acuerdo con la legislación aplicable, mientras que la “Parte B” confirma la aceptación de las disposiciones adoptadas por la EF para cumplir los requisitos necesarios para la seguridad de la explotación. 
 5 Se hace constar que, a fecha del accidente, la indicación existente en el “registro virtual de vehículos” europeo, respecto al detentor y entidad responsable del mantenimiento, no coincidía con la realidad. En dichos documentos, figuraba CP Carga, S.A. como detentora y ERM de los 
 (continúa) 
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 27
+
 
 ### Descripción del suceso 
 El orden de los vehículos se lista tal como aparece en el boletín de composición y frenado (BCF) del tren, no siendo el orden secuencial por el que efectivamente seguía en la formación, lo cual constituye una discrepancia respecto a los requisitos6. En realidad, el vagón que descarriló ocupaba la 12.ª posición entre los vehículos remolcados.  
@@ -1076,6 +1086,7 @@ vagones. La EF informó a la investigación que, a fecha del accidente, ya habí
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
 ## Página 28
+
 
 ### 3.1.5.2. Material rodante remolcado
 Dos 15 vagones remolcados e incorporados en la composición del tren n.º 51232, dos eran del tipo Kls y 13 eran del tipo Us, incluido el vagón que descarriló.
@@ -1103,11 +1114,12 @@ En el lugar del accidente, la investigación verificó que el vagón 40 94 970 7
 7 Ficha 517, edición 1979, anexo 1.
 Informe n.º F_RI2022/03
 
-
 ## Página 29
 
+
 ### Descripción del suceso
-Sentido de la marcha
+La suspensión de la caja de ejes de la rueda 4 estaba partida y fuera de su posición, dividida en dos partes, cada una colgada por sus respectivos orejetas, encontrándose la correspondiente ballesta maestra fracturada aproximadamente a mitad de su longitud, bajo la cincha.
+Sentido del movimiento
 Rueda 7
 Rueda 5
 Rueda 3
@@ -1117,13 +1129,13 @@ Rueda 6
 Rueda 4
 Rueda 2
 Figura 7: Numeración de las ruedas del vagón
-Figura 8: Las dos partes del muelle en la posición encontrada tras la parada del tren
+Figura 8: Las dos partes del muelle en la posición hallada tras la detención del tren
 Figura 9: Bogie descarrilado e inscripción de la última revisión efectuada al vagón
-No se hallaron otros indicios relevantes para la investigación relacionados con el material rodante.
-Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo a Cortegaça, el 17-07-2019
-
+No se encontró ningún otro indicio relevante para la investigación relacionado con el material circulante.
+Descarrilamiento de un vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 30
+
 
 ### 3.1.6. Infraestructura
 ### 3.1.6.1. Vía
@@ -1250,6 +1262,7 @@ Figura 10: Nivelación longitudinal – mediciones con equipo pesado (07-06-2019
 Informe n.º F_RI2022/03
 
 ## Página 31
+
 
 ### Descripción del suceso
 Nivelación transversal
@@ -1478,10 +1491,10 @@ Además de este sistema, el agente acompañante dispone de un teléfono móvil d
 red pública GSM, el cual permite comunicarse con diversos órganos de EF y del GI.  
 En las actuaciones que siguieron al descarrilamiento, ambos sistemas de comunicación fueron utilizados, 
 encontrándose funcionando normalmente. 
-Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019 
-
+Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 32
+
 
 ### 3.2. Descripción factual de los eventos 
 ### 3.2.1. Cadena de acontecimientos hasta el suceso  
@@ -1514,10 +1527,10 @@ Unos 40 metros después, en el PK 308,823 la rueda 2 cayó hacia el interior de 
 total del bogie 1-2, prosiguiendo el vagón su marcha, acomodado entre los vehículos adyacentes. 
 Poco después de las 15:16, cuando el tren acababa de pasar por el apeadero de Carvalheira-Maceda en dirección a Ovar y tras el vagón recorrer aproximadamente 2300 metros con el bogie 1-2 descarrilado y las dos partes del muelle arrastrando en el balasto, la tripulación se percató de que la parte trasera de la composición levantaba polvo, habiendo ejecutado inmediatamente las acciones necesarias para la parada del tren, el cual se inmovilizó cerca del PK 306,100. En total, el vagón circuló descarrilado 2,5 km. 
 Realizada la verificación de la composición, la tripulación constató que el vagón que circulaba en la 12.ª posición se encontraba parcialmente descarrilado e informó al CCO. 
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 33
+
 
 ### Descripción del suceso 
 Figura 14: Puntos notables en la zona del descarrilamiento 
@@ -1525,6 +1538,7 @@ Figura 15: Posición del muelle fracturado, tras la parada de la composición
 Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 34
+
 
 ### 3.2.2. Cadena de acontecimientos tras la incidencia
 ### 3.2.2.1. Activación del plan de emergencia ferroviario
@@ -1563,39 +1577,47 @@ Informe n.º F_RI2022/03
 
 ## Página 35
 
-### Análisis
-## 4. ANÁLISIS
-En la investigación de los hechos y de las constataciones relativas al accidente y la determinación de los factores causales, se identificaron los siguientes aspectos principales, en torno a los cuales se organiza este capítulo:
-1. Interacción entre el vehículo y la geometría de la vía;
-2. Eventos del tren;
-3. La rotura del muelle;
-4. Inspección del vagón a la salida del tren;
-5. Mantenimiento de los muelles;
-6. Control de las cargas de los vagones.
-
-### 4.1. Interacción entre el vehículo y la geometría de la vía - mecanismo del descarrilamiento
-Considerando la consistencia entre las mediciones realizadas con el equipo ligero tras el accidente y aquellas realizadas 40 días antes con el vehículo pesado, la investigación consideró estas últimas para el análisis de la contribución de los parámetros geométricos de la vía.
-La experiencia y los estudios teóricos desarrollados a lo largo de más de un siglo han demostrado que prácticamente todos los parámetros geométricos de la vía tienen influencia en la respuesta de los vehículos ferroviarios, en particular algunas combinaciones. La norma EN 13848-5¹¹ sistematiza la influencia predominante de cada parámetro en este dominio, según se expone a continuación.
-
-| Parámetros de vía | Respuesta del vehículo | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| | Fuerzas transversales (Y) | Fuerzas verticales (Q) | Aceleraciones transversales | Aceleraciones verticales | Relación Y/Q |
-| Ancho de vía | X | | | | X |
-| Nivelación longitudinal | | X | | X | X |
-| Curvatura/Escala | | X | X | | X |
-| Alineación | X | X | X | | X |
-
-Cuadro 4: Relación entre los parámetros geométricos de la vía y la respuesta de un vehículo
-
-El relativamente largo recorrido efectuado sobre la cabeza del carril por la rueda 1 del vagón, por donde se inició el descarrilamiento, evidencia una ausencia de fuerzas transversales significativas que hayan intervenido en el descarrilamiento. De esta forma, interesa comprender en qué medida se vio afectada la fuerza vertical en dicha rueda, lo que condujo a su pérdida de guiado.
-Cerca de 15 metros antes del punto donde existían las primeras marcas francas de que el verdugo de la rueda 1 circulaba sobre la cabeza del carril, existía una configuración en la geometría de la vía (dentro de los límites de operación sin restricciones, cabe subrayar) favorable al alivio de la carga sobre esa rueda.
-Las imágenes siguientes procuran ilustrar de forma cualitativa la influencia de la nivelación longitudinal de los carriles y de la nivelación transversal existentes en la vía en las inmediaciones del punto de descarrilamiento, frente a la configuración del vehículo.
-
-¹¹ Aplicaciones ferroviarias - Vía - Calidad de la geometría de la vía - Parte 5: Niveles de calidad geométrica - Línea recta.
-
-Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
+### Análisis 
+## 4. ANÁLISIS 
+En la investigación de los hechos y de las constataciones relativas al accidente y la determinación de los factores causales, 
+se han identificado los siguientes aspectos principales, en los que se organiza este capítulo: 
+1. Interacción entre el vehículo y la geometría de la vía; 
+2. Eventos del tren; 
+3. La rotura del muelle; 
+4. Inspección del vagón a la salida del tren; 
+5. Mantenimiento de los muelles; 
+6. Control de las cargas de los vagones. 
+### 4.1. Interacción entre el vehículo y la geometría de la vía - mecanismo del 
+descarrilamiento 
+Considerando la coherencia entre las mediciones realizadas con el equipo ligero tras el accidente y 
+aquellas realizadas 40 días antes con el vehículo pesado, la investigación consideró estas últimas para el análisis 
+de la contribución de los parámetros geométricos de la vía. 
+La experiencia y los estudios teóricos desarrollados a lo largo de más de un siglo han demostrado que 
+prácticamente todos los parámetros geométricos de la vía tienen influencia en la respuesta de los vehículos 
+ferroviarios, en particular ciertas combinaciones. La EN 13848-511 sistematiza la influencia predominante 
+de cada parámetro en este ámbito, como se sigue. 
+| Parámetros de la vía | Respuesta del vehículo |  |  |  |  |
+|  | Fuerzas transversales (Y) | Fuerzas verticales (Q) | Aceleraciones transversales | Aceleraciones verticales | Relación Y/Q |
+| Ancho de vía | X |  |  |  | X |
+| Nivelación longitudinal |  | X |  | X | X |
+| Desnivel/Escalado |  | X | X |  | X |
+| Alineación | X | X | X |  | X |
+Cuadro 4: Relación entre los parámetros geométricos de la vía y la respuesta de un vehículo 
+El relativamente largo recorrido realizado sobre la cabeza del riel por la rueda 1 del vagón, por donde se 
+inició el descarrilamiento, evidencia una ausencia de fuerzas transversales significativas que hayan 
+intervenido en el descarrilamiento. De esta forma, interesa comprender en qué medida se vio afectada la fuerza 
+vertical en esa rueda que condujo a su pérdida de guiado.  
+Aproximadamente 15 metros antes del punto donde existían las primeras marcas claras de la rueda 1 
+circular sobre la cabeza del riel, existía una configuración en la geometría de la vía (dentro de los límites de 
+operación sin restricciones, cabe subrayarlo) favorable al alivio de la carga sobre esa rueda.  
+Las imágenes siguientes intentan ilustrar de forma cualitativa la influencia de la nivelación longitudinal de los 
+rieles y del nivelado transversal existentes en la vía en las inmediaciones del punto de descarrilamiento, en relación 
+con la configuración del vehículo. 
+11 Railway applications - Track - Track geometry quality - Part 5: Geometric quality levels - Plain line. 
+Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 36
+
 
 Nivelación longitudinal de los carriles
 [mm]
@@ -1702,10 +1724,10 @@ En el caso del vagón en cuestión, la situación anómala en la que se encontra
 El relativamente largo camino recorrido sobre el carril es consistente con la guía residual proporcionada por la conexión a los vehículos adyacentes y la ausencia de otros efectos significativos frente al mecanismo descrito. 
 ### 4.2. Eventos del tren 
 Según el informe taquimétrico, el tren n.º 51232 realizó su marcha desde la estación de Vila Nova de Gaia sin ningún incidente. Se superó puntualmente la velocidad máxima en 6 km/h y el descarrilamiento se produce 2 km/h por encima de la velocidad máxima. Los puntos notables de la marcha del tren se encuentran en la siguiente figura. 
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 37
+
 
 ### Análisis 
 Figura 17: Puntos notables de la marcha del tren n.º 51232 
@@ -1715,18 +1737,18 @@ La investigación no considera relevante para el descarrilamiento la superación
 La parte de la hoja maestra separada del muelle y el conjunto que permaneció íntegro quedaron bajo la custodia del GPIAAF, garantizando su inalterabilidad tras el accidente.  
 En las siguientes imágenes se ilustra la superficie de fractura de la parte de la hoja maestra que se separó del resto del muelle, tal como fue recogida por el GPIAAF en el lugar. 
 Figura 18: Cara superior de una de las superficies de fractura de la hoja maestra 
-Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019 
-
+Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 38
+
 
 Figura 19: Cara inferior de una de las superficies de fractura de la hoja maestra, mostrando la deformación resultante del arrastre en el balasto 
 Figura 20: Superficie de fractura completa de una de las partes de la hoja maestra 
 Figura 21: Inspección visual de la superficie de fractura con detalle del lado izquierdo 
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 39
+
 
 ### Análisis 
 Figura 22: Inspección visual de la superficie de fractura con detalle del lado derecho 
@@ -1738,6 +1760,7 @@ No obstante, en coordinación con EF, se decidió que la hoja fracturada fuera s
 Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, cerca de Cortegaça, el 17-07-2019
 
 ## Página 40
+
 
 ### 4.3.1. Exámenes de laboratorio de la lámina fracturada
 La pericia realizada se centró en los siguientes puntos:
@@ -1760,21 +1783,24 @@ En el marco de la pericia realizada, fue posible extraer las siguientes conclusi
 Figura 24: Ejemplo del alargamiento de la probeta tras el ensayo de tracción [DEM/IST] 
 Cuadro 5: Valores de fuerza y tensión máximas obtenidos en los ensayos de tracción [DEM/IST] 
 4. La variación del perfil de durezas mostró que no hay diferencia evidente entre los valores de dureza en la zona donde se verificó la fractura del muelle. La dureza varió desde 42,3 HRC hasta 47,5 HRC (valor medio = 45,89HRC) a lo largo del ancho de la lámina y desde 429HV5 hasta 502HV5 (valor medio 482HV5) a lo largo del espesor de la lámina;
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 41
 
-### Análisis 
+
+### Análisis
 Figura 25: Medición de durezas Rockwell C a lo largo del espesor de la lámina [DEM/IST] 
-5. La fractura de la lámina tuvo inicio en la zona central junto a la zona de contacto con la abrazadera del muelle; son perfectamente visibles las características de una superficie de fractura donde existió una propagación de grietas por fatiga, concretamente la existencia de varias zonas de iniciación y la existencia de marcas alrededor de los focos, denominadas en la literatura como líneas de parada y que corresponden a diversos estadios de propagación de las grietas por fatiga a lo largo del tiempo en que ocurrió la carga;  
+5. La fractura de la lámina se inició en la zona central, junto a la zona de contacto con la abrazadera del muelle; son perfectamente visibles las características de una superficie de fractura donde existió una propagación de grietas por fatiga, concretamente la existencia de varias zonas de iniciación y la presencia de marcas alrededor de los focos, denominadas en la literatura como líneas de parada, que corresponden a diversos estadios de propagación de las grietas por fatiga a lo largo del tiempo durante el cual se produjo la carga;  
 Figura 26: Microscopía electrónica de barrido [DEM/IST] 
 6. No se observó ningún defecto de fabricación ni en la superficie ni en el interior del material que pudiera estar en el origen de la fisuración y posterior rotura final del componente;  
-7. La fractura del componente se debió a un proceso de fatiga pudiéndose verificar que la zona fracturada por fatiga corresponde prácticamente a la totalidad de la superficie de fractura del componente. 
-Así, de las pericias realizadas a la lámina, quedó inequívocamente establecido que la fractura de la lámina ocurrió por fatiga del metal, no relacionada con la calidad del material ni con defectos, y que la propagación de las grietas tuvo un período prolongado de desarrollo, siendo la fractura preexistente al descarrilamiento. 
-Ante los resultados, en términos simplificados puede afirmarse que la rotura ocurrió porque la lámina del muelle había agotado su vida útil como consecuencia del número de ciclos de carga y descarga a los que fue sometida, lo que
+7. La fractura del componente se debió a un proceso de fatiga, pudiéndose verificar que la zona fracturada por fatiga corresponde prácticamente a la totalidad de la superficie de fractura del componente. 
+
+Así pues, de las periciales realizadas sobre la lámina, quedó establecido inequívocamente que la fractura de la lámina se produjo por fatiga del metal, no relacionada con la calidad del material ni con defectos, y que la propagación de las grietas tuvo un largo período de desarrollo, siendo la fractura preexistente al descarrilamiento. 
+
+Ante los resultados, en términos simplificados puede afirmarse que la rotura se produjo porque la lámina del muelle había agotado su vida útil como consecuencia del número de ciclos de carga y descarga a los que fue sometida, lo que Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
 ## Página 42
+
 
 está directamente relacionado con la carga transportada y con el estado de conservación de la suspensión y de los bogies de los vehículos a los que estuvo asociada, así como con el estado de conservación de la vía. 
 ### 4.4. Inspección del estado del vagón a la salida del tren 
@@ -1791,10 +1817,10 @@ El día del descarrilamiento, las verificaciones constantes de la respectiva che
 Este tipo de inspecciones no permite, ni se espera que permita, la identificación de anomalías como la que tenía la suspensión de la rueda 4, en concreto fisuración en la hoja maestra oculta dentro de la abrazadera del muelle, situación que debe ser prevenida a través del régimen de mantenimiento. 
 12 Procedimiento del sistema de gestión integrado – SGI MED PO 007 (Formación de trenes). 
 13 Orden de servicio n.º 04/18 – Check-List de verificación de la preparación del tren.  
-Informe n.º F_RI2022/03 
-
+Informe n.º F_RI2022/03
 
 ## Página 43
+
 
 ### Análisis 
 ### 4.5. Mantenimiento de los muelles 
@@ -1825,6 +1851,7 @@ Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a 
 
 ## Página 44
 
+
 Cada seis años (más tres meses de tolerancia), en la revisión de seguridad primaria (RSP) y ya con los vagones en taller, se repiten las verificaciones correspondientes a las inspecciones operativas, añadiéndose las comprobaciones de las cotas de los anillos, datos y muñones, así como las verificaciones de los soportes de suspensión.
 En las revisiones primarias (RP), cada 12 años (más 3 meses de tolerancia), se realiza la verificación de la flexibilidad de los muelles, así como su pintura. En la RP, o en los casos que se juzgue conveniente, como situaciones posteriores a accidentes o por detección de anomalías durante los ciclos de mantenimiento, se efectúa el proceso de desmontaje de los muelles, con el fin de verificar su estado y poder volver a utilizarlos.
 Este proceso de reacondicionamiento de los muelles era realizado por un proveedor de servicios de ERM y se desarrollaba de la siguiente manera:
@@ -1845,8 +1872,8 @@ Los muelles ensayados eran identificados localmente en la abrazadera mediante un
 16 Extraído del procedimiento IT MED MR 012 – (documento MEDWAY).
 Informe n.º F_RI2022/03
 
-
 ## Página 45
+
 
 ### Análisis
 El proceso de reacondicionamiento de los muelles, tal como se llevaba a cabo, únicamente mediante inspección visual, no garantizaba la detección de fisuras por fatiga que estuvieran en desarrollo.
@@ -1862,6 +1889,7 @@ Descarrilamiento de un vagón del tren n.º 51232 en la Linha do Norte, cerca de
 
 ## Página 46
 
+
 componentes críticos para la seguridad, ya que su fallo único puede poner en peligro la seguridad del uso del vehículo y provocar un accidente.
 La ERM (y su proveedor de servicios para el mantenimiento de los muelles) no disponía de medios para conocer el lote de acero ni la fecha de fabricación de las hojas, ni siquiera su tiempo de uso anterior. La selección de las hojas usadas para reacondicionar los muelles se basaba únicamente en una inspección visual, sin medios auxiliares (por ejemplo, ultrasónicos o magnéticos), y descansaba esencialmente en la amplia experiencia de los técnicos que realizan dicho trabajo, pero que no permite identificar fisuras incipientes u otros daños microscópicos que faciliten roturas por fatiga.
 El proceso de revisión contemplaba también la reposición de la flecha, hoja a hoja, donde era previsible que las grietas/fisuras, de existir, se revelaran.
@@ -1876,8 +1904,8 @@ La EF informó a la investigación de que existe una tolerancia de pesada en las
 Del análisis de los datos realizado por la investigación, se verificaron numerosas incidencias de peso por eje superando el límite máximo permitido, en diversos vagones incluidos en los trenes de transporte de arena. La distribución por diversas categorías de excedencia se presenta en la imagen siguiente, considerando naturalmente solo aquellas que exceden el límite de 400 kg por eje, para tener en cuenta el error máximo en la pesada.
 Informe n.º F_RI2022/03
 
-
 ## Página 47
+
 
 ### Análisis
 67%
@@ -1918,6 +1946,7 @@ Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a 
 
 ## Página 48
 
+
 Los valores del peso excedido transportado en los meses de mayor precipitación18 y en el resto de meses del año se presentan en la siguiente tabla. 
 Eje 1
 Eje 2
@@ -1952,9 +1981,10 @@ Ante lo constatado por la investigación, las evidencias muestran que los muelle
 23 Hasta 2018, el límite para vaciar y enviar inmediatamente al taller era del 5% para bogies con peso por eje máximo de 20 t o inferior. En esa fecha fue alterado para armonizarse con las disposiciones de la EN 15313-2016 aplicables a la sobrecarga de ruedas. 
 24 CGU, anexo 10, Sección B.3. 
 (continúa) 
-Informe n.º F_RI2022/03 
+Informe n.º F_RI2022/03
 
 ## Página 49
+
 
 ### Análisis 
 influyen negativamente en su comportamiento a la fatiga, en particular de la hoja maestra, aquella más solicitada. 
@@ -1974,6 +2004,7 @@ e) El tonelaje máximo admitido a transporte por cada vagón de la serie 970 es 
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
 ## Página 50
+
 
 f) Una vez realizado el cargamento, el material rodante se entrega para la expedición tras la limpieza de las zonas exteriores circundantes a la caja de contención, retirando las partículas sueltas que existan;
 g) La vía donde se realiza el cargamento debe mantenerse en perfectas condiciones de limpieza.
@@ -1995,6 +2026,7 @@ Relatório n.º F_RI2022/03
 
 ## Página 51
 
+
 ### Análisis
 
 Los sistemas de la báscula miden el peso en cada eje y la velocidad de paso. De las mediciones de la primera magnitud, el software de control de la báscula calcula el peso total de cada vagón y la diferencia de peso entre sus respectivos ejes. A pesar de ello, la investigación determinó que, desde una fecha que no fue posible determinar, pero anterior a 2012, la interfaz de presentación de las lecturas de la báscula para el operador solo indica los pesos totales de los vagones y alertas en caso de que haya desequilibrio de carga entre ejes del mismo vehículo que esté fuera de las normas.
@@ -2011,6 +2043,7 @@ Paralelamente a la decisión de suspender la pesada en la báscula, la máquina 
 Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, próximo a Cortegaça, el 17-07-2019
 
 ## Página 52
+
 
 Figura 32: Ejemplos de tickets de carga de arena
 Así, la EF declaró a la investigación haber prescindido del pesaje de sus trenes, acreditando el peso transportado mediante los tickets emitidos por la máquina cargadora, los cuales se consideran para determinar la conformidad de la carga en cuanto al peso. A partir de 2020, las pesadas en la báscula ferroviaria dinámica de Louriçal pasaron a ser utilizadas aleatoriamente por la EF, únicamente como referencia comparativa y control por muestreo de las pesadas de la cargadora.
@@ -2030,8 +2063,8 @@ La siguiente figura ilustra un ejemplo que demuestra claramente este hecho, corr
 27 “Tras la carga se facilitan los tickets de pesada de la carga” - Procedimiento de carga (Louriçal – arena). Louriçal: 2017.
 Informe n.º F_RI2022/03
 
-
 ## Página 53
+
 
 ### Análisis
 por debajo de su carga máxima, mientras que la otra estaba cargada aproximadamente 2 t por encima, por lo que en el cómputo total el vagón no acusaba sobrecarga, a pesar de que dos de sus ejes excedían el peso máximo (uno de ellos significativamente).
@@ -2058,6 +2091,7 @@ Descarrilamiento de vagón del tren n.º 51232 en la Linha do Norte, cerca de Co
 
 ## Página 54
 
+
 ### 4.6.3. Mecanismos de monitorización en la EF
 El procedimiento de la EF aplicable al control del peso por eje vigente en la fecha del accidente estaba en aplicación desde 2009³⁰. No obstante, no especificaba concretamente qué controles debían ejecutar los trabajadores sobre el terreno para efectivar dicha verificación. En particular, considerando que la interfaz para el usuario de la báscula no presentaba la indicación de los valores medidos de dicho parámetro, no se daba ninguna indicación sobre este asunto.
 
@@ -2081,8 +2115,8 @@ Dichos eventos no aportan información adicional relevante para la investigació
 ³⁰ Orden de Servicio n.º 02/09 - CP Carga: Pesada de Trenes de Mercancías. 1 de mayo de 2009.
 Informe n.º F_RI2022/03
 
-
 ## Página 55
+
 
 ### Conclusiones
 ## 5. CONCLUSIONES
@@ -2128,6 +2162,7 @@ Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo 
 
 ## Página 56
 
+
 Por estos motivos, es esencial que dicho componente sea debidamente monitorizado, crítico para la seguridad dado que su fallo único puede provocar un descarrilamiento.
 Esto se realiza de forma más eficaz a través del régimen de mantenimiento que debe aplicársele, el cual debe dar garantías de que un muelle nunca alcanza su límite de vida útil, teniendo en cuenta las acciones cíclicas a las que está sujeto, lo que hace que el metal de dicho componente esté especialmente expuesto a la fatiga.
 No obstante, siempre existe alguna probabilidad residual de fallo que escapa a la posibilidad de control mediante el mantenimiento del material rodante, motivo por el cual el proyecto D-RAIL identifica como útil la existencia de detectores dinámicos de carga32 espaciados regularmente en la infraestructura, de acuerdo con su respectiva utilización, tal como existen en algunas redes europeas. Tratándose de un sistema de control puntual, naturalmente su eficacia para identificar un muelle roto en un vehículo en circulación está lejos de ser total; no obstante, asociado a otros usos que resultan de su existencia en lo que respecta a la monitorización y contabilización de las cargas a las que está sometida la infraestructura, incluida la prevención de daños debidos a averías en las ruedas, el balance global de su existencia tiende a ser positivo, reduciendo también la probabilidad de descarrilamientos debidos a otras causas y de averías en la infraestructura.
@@ -2155,6 +2190,7 @@ Relatório n.º F_RI2022/03
 
 ## Página 57
 
+
 ### Conclusiones
 6) Desde agosto de 2020, la pesada realizada por el equipo del cargador se verifica periódicamente y de forma aleatoria mediante pesada en la báscula dinámica de la estación de Louriçal. Las evidencias existentes de dicho control aleatorio confirman que los vagones estaban siempre por debajo de su carga máxima, aunque sin que se realizara el control del peso por cada eje.
 7) En sede de audiencia sobre el proyecto de informe, la EF declaró que:
@@ -2178,16 +2214,16 @@ Estas medidas fueron comunicadas al GI que, al margen de los procedimientos adop
 34 Febrero de 2019.
 Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo a Cortegaça, el 17-07-2019
 
-
 ## Página 58
+
 
 Durante la redacción de este informe, el GI informó a la investigación que había interactuado igualmente con la EF, señalando otros lugares con el mismo tipo de restricciones, habiéndose realizado acciones puntuales de limpieza superficial de la vía, siendo necesario realizar el saneamiento de las capas de balasto para reponer el comportamiento dinámico adecuado.
 Esto evidencia que la situación no se encuentra aún totalmente resuelta.
 Este asunto debe merecer atención conjunta de la EF y del GI con el fin de ser subsanado de forma considerada aceptable.
 Informe n.º F_RI2022/03
 
-
 ## Página 59
+
 
 ### Recomendaciones de seguridad
 ## 6. RECOMENDACIONES DE SEGURIDAD
@@ -2209,14 +2245,15 @@ Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo 
 
 ## Página 60
 
+
 Además de las recomendaciones de seguridad formuladas, como ya se ha indicado a lo largo del texto, la presente investigación presenta algunos puntos de aprendizaje que deben retenerse y que aquí se sistematizan:
 1) La necesidad de una monitorización adecuada y trazabilidad de los componentes de la suspensión de los vehículos, evitando procesos que resulten en componentes cuya calidad y fiabilidad sea imposible de garantizar.
 2) La necesidad de adecuar los procesos de mantenimiento para minimizar la probabilidad de fallo catastrófico de la suspensión de los vehículos. En particular, la importancia de una ponderación adecuada por parte de la ERM respecto a la eficacia de los medios visuales para detectar el desarrollo de fisuras por fatiga en muelles de láminas cuando están montados en los vehículos, teniendo presente que se han producido roturas en lugares de la lámina principal imposibles de visualizar en dichas condiciones.
 3) La importancia de un control riguroso del peso por eje (y por tanto de la solicitación de los componentes de suspensión de los vehículos), debiéndose tener también en consideración la variabilidad de peso a la que pueda estar sujeta la carga durante el transporte debido a las condiciones atmosféricas.
 Informe n.º F_RI2022/03
 
-
 ## Página 61
+
 
 ### Información adicional 
 ## 7. INFORMACIÓN ADICIONAL 
@@ -2303,6 +2340,7 @@ Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo 
 
 ## Página 62
 
+
 ### 7.2. Glosario 
 Agencia Ferroviaria de la Unión Europea (ERA): Organismo de la Unión Europea que, entre otros objetivos, tiene como finalidad contribuir al desarrollo y funcionamiento eficaz de un espacio ferroviario europeo único sin fronteras, garantizando un elevado nivel de seguridad e interoperabilidad ferroviarias y reforzando simultáneamente la posición competitiva del sector ferroviario. 
 Agente de seguimiento: Persona habilitada y autorizada para realizar el seguimiento de trenes. 
@@ -2322,6 +2360,7 @@ Empresa ferroviaria (EF): Empresa titular de licencia cuya actividad principal c
 Informe n.º F_RI2022/03
 
 ## Página 63
+
 
 ### Información adicional
 Estación: Desde una perspectiva meramente comercial, es un lugar de parada de las circulaciones ferroviarias. En términos de explotación, es el conjunto de instalaciones fijas que posee al menos dos agujas insertadas en las líneas generales y dispone de equipos de seguridad que permiten al agente responsable de la seguridad de circulación intervenir en el bloqueo de los trenes y donde se pueden realizar operaciones relativas a la recepción, formación y expedición de trenes. Está limitada por las señales principales de entrada, si las tiene, o por las agujas de entrada y salida.
@@ -2350,6 +2389,7 @@ Descarrilamiento de vagón del tren n.º 51232 en la Línea del Norte, próximo 
 
 ## Página 64
 
+
 Verdugo: Rebordo saliente, típico de las ruedas ferroviarias, que impide el descarrilamiento de los vehículos en condiciones normales, reforzando la guía sobre los carriles.
 Vía ascendente: Vía por la que los trenes circulan desde el origen hacia el final de la línea. Así, el kilometraje, las señales, los aparatos de vía y la catenaria presentan una numeración creciente en el sentido de la circulación. Se designa abreviadamente como VA.
 Vía descendente: Vía por la que los trenes circulan desde el final de la línea hacia su origen. Así, el kilometraje, las señales, los aparatos de vía y la catenaria presentan una numeración decreciente en el sentido de la circulación. Se designa abreviadamente como VD.
@@ -2371,10 +2411,10 @@ INSTITUTO DA MOBILIDADE E DOS TRANSPORTES, I.P. - Regulamento Geral de Seguranç
 INSTITUTO DA MOBILIDADE E DOS TRANSPORTES, I.P. – Regulamento Geral de Segurança I (Princípios fundamentais). Lisboa: 2017 
 INTERNATIONAL UNION OF RAILWAYS - Loading Guidelines - Code of practice for the loading and securing of goods on railway wagons (6.ª edição). 2 vols. Abril de 2022 
 INTERNATIONAL UNION OF RAILWAYS - UIC 510-1 - Wagons - Running gear – Normalisation (9.ª edição). Janeiro de 1978 
-Relatório n.º F_RI2022/03 
-
+Relatório n.º F_RI2022/03
 
 ## Página 65
+
 
 ### Información adicional 
 INTERNATIONAL UNION OF RAILWAYS - UIC 517 - Wagons - Suspension gear – Standardisation (7.ª edição). Maio de 2007 
@@ -2386,45 +2426,46 @@ MEDWAY – Ordem de serviço n.º 04/18 (Check-list de verificação da prepara�
 MEDWAY – Procedimento de carga (Louriçal – areia). Louriçal: 2017 
 MEDWAY – Procedimento do Sistema de Gestão Integrado (Formação de comboios). Lisboa: 2017 
 PRINCIPE, Evaristo – Nozioni sui veicoli FS per transporto merci. Italia: Editrice Veneta: 2004 
-Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019 
-
+Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019
 
 ## Página 66
 
-Página dejada intencionadamente en blanco 
-Relatório n.º F_RI2022/03 
 
+Página dejada intencionadamente en blanco 
+Relatório n.º F_RI2022/03
 
 ## Página 67
+
 
 ### Anexos 
 ## 8. ANEXOS 
 • 
 ### ANEXO 1 – Comentarios de las partes interesadas no acogidos por la investigación 
-Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019 
-
+Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019
 
 ## Página 68
 
-Página dejada intencionadamente en blanco 
-Relatório n.º F_RI2022/03 
 
+Página dejada intencionadamente en blanco 
+Relatório n.º F_RI2022/03
 
 ## Página 69
+
 
 ### Anexos 
 # ANEXO 1 
 ### Comentarios de las partes interesadas 
 no acogidos por la investigación 
-Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019 
-
+Descarrilamento de vagão do comboio n.º 51232 na Linha do Norte, próximo de Cortegaça, em 17-07-2019
 
 ## Página 70
+
 
 Página dejada intencionadamente en blanco 
 Relatório n.º F_RI2022/03
 
 ## Página 71
+
 
 ### Pronúncia de MEDWAY – Operador Ferroviário de Mercadorias, S.A.
 Nota: Solo se presentan los comentarios no totalmente acogidos en el informe final.
@@ -2452,10 +2493,10 @@ La EF evidenció registros de pesajes, antes de la salida del tren, en la báscu
 ### Respuesta GPIAAF 
 No aceptado. 
 En el ámbito del apartado 4.6.1, el texto adicional propuesto o ya consta en dicha sección o no es relevante a tal efecto y genera confusión al lector. La información sobre los tickets de pesaje de la máquina de carga está explícita en el apartado 4.6.2. 
-Anexo 1 – pág. 1 
-
+Anexo 1 – pág. 1
 
 ## Página 72
+
 
 Praça Duque de Saldanha, 31, 4.º - 1050-094 Lisboa 
 www.gpiaaf.gov.pt – geral@gpiaaf.gov.pt

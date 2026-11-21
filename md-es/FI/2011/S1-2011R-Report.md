@@ -1,0 +1,10247 @@
+---
+pais: FI
+anio: 2011
+idioma_origen: EN
+md_origen: md/FI/2011/S1-2011R-Report.md
+md5_origen: 2ebbf04b6c0449558a717560ee366d9e
+modelo: mimo-v2.6-flash
+bloques: 53
+chars: 642558
+ratio_longitud: 1.15
+tokens_in: 276167
+tokens_out: 214867
+verificacion: revisar
+notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (SV)", "bloque 5: original bilingüe: se compara contra el idioma principal (FI)", "bloque 6: cifras cortas: 4/34", "bloque 11: original bilingüe: se compara contra el idioma principal (FI)", "bloque 12: cifras cortas: 4/67", "bloque 14: original bilingüe: se compara contra el idioma principal (FI)"]
+avisos: ["bloque 2: ratio 1.90", "bloque 29: ratio 1.68", "bloque 33: ratio 1.65"]
+fecha_proceso: 2026-11-21
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Informe de investigación
+S1/2011R
+Investigación temática sobre accidentes en pasos a nivel
+Este informe de investigación se ha elaborado para mejorar la seguridad y prevenir nuevos accidentes.
+Aquí no se aborda la posible responsabilidad derivada del accidente ni la obligación de indemnización. Debe evitarse el uso del informe de investigación para cualquier finalidad distinta de la mejora de la seguridad.
+
+
+## Página 2
+
+### Centro de Investigación de Accidentes
+### Olycksutredningscentralen
+### Safety Investigation Authority, Finland
+Dirección / Address:
+Sörnäisten rantatie 33 C
+Adress:
+Sörnäs strandväg 33 C
+FI-00500 HELSINKI
+00500 HELSINGFORS
+Teléfono / Telefon:
+09 1606 7643
+Telephone:
++358 9 1606 7643
+Fax:
+09 1606 7811
+Fax:
++358 9 1606 7811
+Correo electrónico:
+onnettomuustutkinta@om.fi  tai  etunimi.sukunimi@om.fi
+E-post:
+onnettomuustutkinta@om.fi  eller  förnamn.släktnamn@om.fi
+Email:
+onnettomuustutkinta@om.fi  or  first name.last name@om.fi
+Internet:
+www.onnettomuustutkinta.fi
+Personal / Personal / Personnel:
+Director / Direktör / Director
+Veli-Pekka Nurmi
+Director Administrativo / Förvaltningsdirektör / Administrative Director
+Pirjo Valkama-Joutsen
+Oficial Superior / Specialplanerare / Senior Officer
+Mari Haapalainen
+Secretario de Sección / Avdelningssekreterare / Assistant
+Sini Järvi
+Secretario de Oficina / Byråsekreterare / Assistant
+Leena Leskelä
+Accidentes de aviación / Flygolyckor / Aviation accidents
+Investigador Jefe / Ledande utredare / Chief Air Safety Investigator
+Ismo Aaltonen
+Investigador / Utredare / Air Safety Investigator
+Tii-Maria Siitonen
+Accidentes de ferrocarril / Spårtrafikolyckor / Rail accidents
+Investigador Jefe / Ledande utredare / Chief Rail Safety Investigator
+Esko Värttiö
+Investigador / Utredare / Rail Safety Investigator
+Reijo Mynttinen
+Accidentes marítimos / Sjöfartsolyckor / Marine accidents
+Investigador Jefe / Ledande utredare / Chief Marine Safety Investigator
+Martti Heikkilä
+Investigador / Utredare / Marine Safety Investigator
+Risto Repo
+Otros accidentes / Övriga olyckor / Other accidents
+Investigador Jefe / Ledande utredare / Chief Safety Investigator
+Kai Valonen
+____________________________________________________
+ISBN 978-951-836-320-3 (enc.)
+ISBN 978-951-836-321-0 (PDF)
+ISSN 1797-2108
+Multiprint Oy, Vantaa 2012
+
+
+## Página 3
+
+## RESUMEN
+El número de accidentes en pasos a nivel en Finlandia disminuyó considerablemente entre 1991 y 1998, pero a partir de entonces el número se ha mantenido estable e incluso ha aumentado ligeramente en ocasiones. Durante los dos últimos años, el número ha disminuido. Sin embargo, la disminución del número de accidentes no se refleja en el número de fallecidos en accidentes en pasos a nivel. Desde 1993, unas diez personas han muerto cada año en accidentes en pasos a nivel. En las comparaciones europeas, la seguridad en los pasos a nivel de Finlandia es inferior a la media.
+El 78 % de los accidentes en pasos a nivel que condujeron a la muerte ocurrieron en pasos a nivel sin dispositivos de señalización de aviso. Los accidentes en pasos a nivel sin dispositivos de señalización de aviso se produjeron típicamente debido a un error de percepción del conductor del vehículo, y generalmente no conllevaban un riesgo especial por parte del conductor. El límite de velocidad de la carretera era típicamente 80 km/h y el de la vía 120 km/h. La gran mayoría de los pasos a nivel sin dispositivos de señalización de aviso se encuentran en carreteras privadas, y la mayor parte de los accidentes que condujeron a la muerte también ocurrieron en pasos a nivel de carreteras privadas. En casi todos los pasos a nivel sin dispositivos de señalización de aviso existen deficiencias en comparación con las directrices técnicas de la vía. Los gestores de carreteras privadas no disponen de información suficiente sobre sus obligaciones relacionadas con el mantenimiento de los pasos a nivel.
+Sobre la base del análisis estadístico, un paso a nivel peligroso es aquel en el que no hay dispositivos de señalización de aviso, el límite de velocidad de la carretera es bajo y el tráfico medio diario es elevado. Estos pasos a nivel se encuentran típicamente en zonas urbanas.
+Se han suprimido pasos a nivel en Finlandia en el período 1991–2010 a una media de 140 al año. Entre 2004 y 2009, el número de pasos a nivel ha disminuido en un 10 %, más que la media europea. Sin embargo, la supresión no se ha centrado especialmente en los pasos a nivel peligrosos, ya que se ha realizado principalmente por tramos de vía para permitir la elevación de la velocidad de la vía. Tampoco en los proyectos de mejora básica de las vías la mejora de la seguridad de los pasos a nivel forma siempre parte del proyecto básico, sino que se lleva a cabo solo con financiación específica.
+El tiempo de gestión de las llamadas de emergencia relacionadas con accidentes en pasos a nivel en los centros de emergencia ha aumentado durante el período de observación 2003–2010. Los directores de tráfico y los operadores de los centros de emergencia no tienen un método uniforme para localizar el paso a nivel del accidente. En los archivos de datos utilizados por los directores de tráfico no se menciona el municipio, y los operadores de los centros de emergencia no pueden localizar por el dato del punto kilométrico de la vía en todos los centros de emergencia. La directriz de evaluación de riesgos del servicio de salvamento no orienta la elección del operador de la mejor manera posible. La directriz no ha sido actualizada y nadie es responsable de ella a escala nacional.
+Existen varias bases de datos que tratan datos de pasos a nivel, cuya información es parcialmente incompleta. Los operadores ferroviarios tampoco disponen de una base de datos común para el registro de accidentes y situaciones de peligro, sino que cada operador tiene su propia base de datos, y no existe actualización automática entre los sistemas hacia el otro sistema.
+Tras la finalización de la anterior investigación sobre la seguridad en los pasos a nivel, se han realizado en Finlandia numerosas investigaciones relacionadas con la seguridad en los pasos a nivel, financiadas por el Ministerio de Transportes y Comunicaciones, el Centro de Administración Ferroviaria (actualmente parte de la Agencia de Transportes y de la Agencia de Seguridad del Transporte), la Agencia de Transportes y la Agencia de Seguridad del Transporte. En las investigaciones también se han propuesto mejoras concretas de seguridad, pero solo se ha implementado una parte de ellas.
+I
+
+
+## Página 4
+Como una de las medidas implementadas tras la anterior investigación sobre la seguridad en los pasos a nivel, los distintos operadores realizaron conjuntamente una campaña dirigida a los usuarios de los pasos a nivel, que incluía, entre otros, tres anuncios de radio diferentes sobre la situación de cruzar un paso a nivel. Los anuncios de radio de la campaña de pasos a nivel fueron elegidos como los mejores anuncios sociales en la radio del año 2009. Entre las medidas en curso, cabe mencionar el proyecto de mejora básica del tramo Seinäjoki–Oulu, durante el cual se suprimirán todos los pasos a nivel del tramo.
+De las 61 recomendaciones emitidas anteriormente relacionadas con los pasos a nivel, se han implementado 21. Nueve de las recomendaciones no implementadas ya no son pertinentes o son demasiado amplias, por lo que la Junta de Investigación decidió eliminarlas.
+Para mejorar la seguridad en los pasos a nivel, el Centro de Investigación de Accidentes recomienda:
+1.
+Para mejorar la seguridad en los pasos a nivel, debería elaborarse una nueva estrategia y, sobre esa base, un plan que incluya acuerdos de financiación concretos.
+2.
+La peligrosidad de los pasos a nivel individuales debería evaluarse con nuevos análisis estadísticos, para poder determinar mejor el orden de supresión o protección de los pasos a nivel.
+3.
+Las bases de datos sobre los pasos a nivel y sus condiciones deberían fusionarse y la base de datos debería mantenerse actualizada.
+4.
+Debería crearse en Finlandia una base de datos común de accidentes e incidencias relativas al ferrocarril.
+5.
+Los planes de seguridad del transporte de las regiones y los municipios deberían tener en cuenta también la seguridad en los pasos a nivel.
+6.
+Los municipios, al planificar el transporte escolar, deberían mejorar la seguridad evitando los pasos a nivel sin dispositivos de señalización de aviso.
+7.
+Deberían elaborarse directrices claras sobre los límites de velocidad del tráfico por carretera y el uso de la señal STOP en los pasos a nivel.
+8.
+Deberían definirse los medios para mejorar la visibilidad de los pasos a nivel sin dispositivos de señalización de aviso, así como sus condiciones de uso y características técnicas.
+9.
+Deberían elaborarse directrices para los gestores de carreteras sobre los asuntos de los pasos a nivel.
+10. Debería mejorarse la visibilidad del frontal de las locomotoras y de las unidades de tren.
+11. Itella, al planificar las rutas de distribución, debería mejorar la seguridad evitando los pasos a nivel sin dispositivos de señalización de aviso.
+12. Las directrices de evaluación de riesgos de los centros de emergencia, responsabilidad del servicio de salvamento, deberían mantenerse continuamente actualizadas y deberían contar con un responsable a escala nacional.
+El Centro de Investigación de Accidentes desea destacar especialmente dos recomendaciones, porque en esta investigación han surgido nuevos aspectos que apoyan su implementación:
+- Para mejorar la visibilidad de los postes y de las unidades de luz del paso a nivel de Suurisuo y de otros pasos a nivel similares en los que se ha constatado el deslumbramiento del sol, las lámparas incandescentes rojas intermitentes de los postes y de las unidades de luz del paso a nivel deberían sustituirse por luces LED intermitentes o destellantes. [B6/08R/S256]
+- Los distintos operadores deberían desarrollar sistemas y utilizar dispositivos que faciliten la localización. [B1/09R/S277]
+II
+
+## Página 5
+
+## RESUMEN
+## ESTUDIO TEMÁTICO SOBRE ACCIDENTES EN PASOS A NIVEL
+El número de accidentes en pasos a nivel en Finlandia disminuyó considerablemente de 1991 a 1998, pero a partir de entonces el número se ha mantenido estable e incluso ha aumentado ligeramente en ocasiones. Durante los dos últimos años, el número de accidentes ha disminuido. Sin embargo, la reducción en el número de accidentes no se refleja en el número de personas fallecidas en accidentes en pasos a nivel. Desde 1993, han fallecido unas diez personas cada año en accidentes en pasos a nivel. En comparación con el resto de Europa, la seguridad en los pasos a nivel de Finlandia es inferior a la media. Un total del 78 % de los accidentes en pasos a nivel con desenlace mortal se produjo en pasos a nivel sin dispositivos de aviso. Los accidentes en pasos a nivel sin dispositivos de aviso se debieron normalmente a una observación errónea por parte del conductor del vehículo y no a una asunción de riesgos especiales por parte de este. El límite de velocidad en la carretera era normalmente de 80 km/h y en la vía de 120 km/h. La mayor parte de los pasos a nivel sin dispositivos de aviso se encuentran en carreteras privadas, y también la mayor parte de los accidentes mortales se produjo en pasos a nivel situados en carreteras privadas. Casi todos los pasos a nivel sin dispositivos de aviso presentan deficiencias en comparación con las prescripciones técnicas ferroviarias. Los gestores de carreteras privadas carecen de información sobre sus obligaciones en relación con el mantenimiento de los pasos a nivel. Según el análisis estadístico, el paso a nivel más peligroso es aquel que carece de dispositivos de aviso, que tiene un límite de velocidad bajo en la carretera y un volumen medio de tráfico elevado por día. Tales pasos a nivel suelen encontrarse en zonas urbanas.
+Entre los años 1991–2010, el número de pasos a nivel en Finlandia disminuyó en 140 unidades por año de media. De 2004 a 2009, el número de pasos a nivel descendió un 10 %, lo que fue superior a la media europea. Sin embargo, la reducción no se ha centrado en los pasos a nivel especialmente peligrosos, ya que los pasos a nivel se han suprimido principalmente por tramos de línea para posibilitar una mayor velocidad en la vía. La mejora de la seguridad en los pasos a nivel tampoco ha formado siempre parte de los proyectos de renovación de las vías, sino que las mejoras de seguridad solo se han llevado a cabo con financiación separada.
+El tiempo de gestión de las llamadas de emergencia relacionadas con accidentes en pasos a nivel aumentó durante el periodo de examen 2003–2010. Los reguladores de tráfico y los operadores de los centros de emergencia carecen de un método uniforme para localizar el paso a nivel en el que se ha producido un accidente. En los sistemas utilizados por los reguladores de tráfico no se mencionan los municipios, mientras que no todos los operadores de los centros de emergencia pueden localizar el lugar del accidente a partir de la información del kilómetro ferroviario indicado. La instrucción de evaluación de riesgos de los Servicios de Rescate no guía de la mejor manera posible las acciones del operador. Dicha instrucción no se ha actualizado y nadie se responsabiliza de ella a nivel nacional.
+Existen varias bases de datos con información parcialmente deficiente sobre los pasos a nivel. Los agentes ferroviarios tampoco disponen de una base de datos común para el registro de accidentes e incidentes, sino que cada agente tiene sus propias bases de datos. Los sistemas no se actualizan automáticamente entre sí.
+Tras el estudio anterior sobre la seguridad en los pasos a nivel, se han realizado en Finlandia varias investigaciones sobre la seguridad en los pasos a nivel financiadas por el Ministerio de Comunicaciones, la Central de Administración Ferroviaria (recientemente parte de la Agencia de Transporte y de la Agencia Finlandesa de Seguridad del Transporte), la Agencia de Transporte y la Agencia Finlandesa de Seguridad del Transporte. En estas investigaciones también se han formulado propuestas concretas para mejorar la seguridad, pero solo se ha llevado a cabo una parte de ellas.
+III
+
+## Página 6
+
+Una medida adoptada conjuntamente por los distintos agentes tras el estudio anterior sobre la seguridad en los pasos a nivel fue una campaña dirigida a los usuarios de los pasos a nivel, que incluyó, entre otras cosas, tres piezas radiofónicas sobre situaciones de riesgo en los pasos a nivel. Las piezas radiofónicas de la campaña sobre los pasos a nivel fueron elegidas como una de las mejores piezas publicitarias de interés general en la radio en 2009. Otras medidas que se están llevando a cabo incluyen, entre otras, el proyecto de renovación del tramo de línea Seinäjoki–Uleåborg, donde se derriban todos los pasos a nivel.
+De las 61 recomendaciones formuladas anteriormente sobre pasos a nivel, se han implementado 21. Nueve recomendaciones no implementadas ya no son pertinentes o son demasiado extensas. Por ello, la comisión de investigación decidió suprimirlas.
+Para mejorar la seguridad en los pasos a nivel, el Centro de Investigación de Accidentes recomienda lo siguiente:
+1. Debería elaborarse una nueva estrategia para mejorar la seguridad en los pasos a nivel y, sobre la base de la misma, un plan concreto con un arreglo de financiación.
+2. La peligrosidad de los pasos a nivel individuales debería evaluarse con la ayuda de nuevos análisis estadísticos para poder determinar mejor el orden de prioridad para eliminar los pasos a nivel o mejorar su seguridad.
+3. Las bases de datos sobre los pasos a nivel y las condiciones en los mismos deberían unificarse y mantenerse actualizadas.
+4. Debería crearse en Finlandia una base de datos común de accidentes e incidentes para los ferrocarriles.
+5. Los planes de seguridad vial de las regiones y los municipios también deberían tener en cuenta la seguridad en los pasos a nivel.
+6. En la planificación del transporte escolar, los municipios deberían mejorar la seguridad evitando los pasos a nivel sin dispositivos de seguridad.
+7. Deberían establecerse instrucciones claras sobre los límites de velocidad y el uso de las señales STOP para el tráfico por carretera.
+8. Deberían determinarse métodos para mejorar la visibilidad en los pasos a nivel sin dispositivos de aviso, así como sus condiciones de uso y características técnicas.
+9. Deberían elaborarse instrucciones sobre pasos a nivel para los gestores de carreteras.
+10. Debería mejorarse la visibilidad frontal de las locomotoras y las unidades de tren.
+11. En la planificación de las rutas de reparto, Itella debería mejorar la seguridad evitando los pasos a nivel sin dispositivos de seguridad.
+12. Las instrucciones de evaluación de riesgos de las que se responsabilizan los Servicios de Rescate deberían actualizarse continuamente y contar con una instancia nacional responsable de las mismas.
+El Centro de Investigación de Accidentes desea destacar especialmente dos recomendaciones, ya que en el marco de este estudio han surgido nuevos aspectos que respaldan su implementación:
+- Que, para mejorar la visibilidad, se sustituyan las bombillas rojas intermitentes de las barreras y las unidades de luz por luces LED intermitentes o destellantes en el paso a nivel de Suurisuo y en otros pasos a nivel equivalentes donde se ha constatado que el sol deslumbra. [B6/08R/S256]
+- Los distintos agentes deberían desarrollar sistemas y utilizar dispositivos que faciliten la localización. [B1/09R/S277]
+IV
+
+## Página 7
+
+## RESUMEN
+## ESTUDIO DE SEGURIDAD SOBRE ACCIDENTES EN PASOS A NIVEL
+Si bien el número de accidentes en pasos a nivel en Finlandia se redujo significativamente entre 1991 y 1998, desde entonces el número se ha mantenido constante e, en ocasiones, incluso ha aumentado ligeramente. El número de accidentes ha disminuido en los dos últimos años. Sin embargo, esto no ha influido en el número de muertes. Desde 1993, se ha producido una media de 10 fallecimientos al año en accidentes en pasos a nivel. En comparación con otros países europeos, la seguridad en los pasos a nivel de Finlandia está por debajo de la media.
+Alrededor del 78 por ciento de todos los accidentes mortales se produjo en pasos a nivel sin dispositivos de aviso. Los accidentes en pasos a nivel de este tipo fueron causados generalmente por la mala valoración de la situación por parte del conductor del vehículo, y no por la asunción de riesgos innecesarios por parte de este. El límite de velocidad en la carretera era normalmente de 80 km/h y el límite de velocidad ferroviario de 120 km/h. La mayoría de los pasos a nivel sin dispositivos de aviso se encuentran en carreteras privadas y la mayoría de los accidentes mortales se produjo en pasos a nivel situados en dichas carreteras. Casi todos los pasos a nivel sin dispositivos de aviso no cumplen la normativa ferroviaria correspondiente. Los gestores de carreteras privadas no disponen de información suficiente sobre sus obligaciones de mantenimiento de los pasos a nivel.
+Según el análisis estadístico, un paso a nivel peligroso es aquel sin dispositivos de aviso, con un límite de velocidad bajo en la carretera y con un volumen elevado de tráfico medio diario. Tales pasos a nivel se encuentran normalmente en zonas residenciales.
+De media, se eliminaron unos 140 pasos a nivel en Finlandia entre 1991–2010. El número de pasos a nivel ha disminuido en un 10 % entre 2004–2009, lo que es superior a la media europea. La eliminación de pasos a nivel no se ha dirigido a los pasos a nivel peligrosos, ya que las eliminaciones se han realizado principalmente para facilitar un aumento del límite de velocidad en el tramo de línea. La mejora de la seguridad en los pasos a nivel no siempre forma parte de los proyectos de mejora de las vías, sino que se lleva a cabo con financiación separada.
+El tiempo medio de gestión de las llamadas de emergencia por accidentes en pasos a nivel aumentó en los centros de respuesta a emergencias durante el periodo de referencia 2003–2010. Los reguladores de tráfico y los operadores de los centros de respuesta a emergencias (ERC) no disponen de un método uniforme para localizar el paso a nivel en cuestión. La información de los municipios no está incluida en los archivos utilizados por los reguladores de tráfico, y los operadores de los ERC de algunos centros de respuesta a emergencias no pueden localizar el paso a nivel a partir de la información del kilómetro ferroviario. Las instrucciones de evaluación de riesgos de los Servicios de Rescate no orientan las acciones del operador de la mejor manera posible. Estas instrucciones no se han actualizado y nadie es responsable a nivel nacional de los trabajos de actualización.
+Se utilizan varias bases de datos de información sobre pasos a nivel, pero la información que contienen es, en cierta medida, parcial. Los agentes ferroviarios no disponen de una base de datos común para el registro de accidentes e incidentes, pero todos los agentes tienen sus propias bases de datos y no existe una actualización automática de un sistema a otro.
+Se han realizado en Finlandia varias investigaciones sobre la seguridad en los pasos a nivel desde la finalización del estudio anterior sobre la seguridad en los pasos a nivel. Estas han sido financiadas por el Ministerio de Transportes y Comunicaciones, la Administración Ferroviaria (ahora parte de la Agencia Finlandesa de Transporte y de la Agencia Finlandesa de Seguridad del Transporte), la Agencia Finlandesa de Transporte y la Agencia Finlandesa de Seguridad del Transporte.
+V
+
+## Página 8
+
+Agencia de Seguridad. Estas investigaciones han esbozado sugerencias concretas para mejorar la seguridad, pero solo se han implementado algunas.
+Una medida implementada tras el estudio anterior de seguridad en pasos a nivel fue una campaña dirigida a los usuarios de los pasos a nivel, que incluyó, por ejemplo, tres distintos anuncios de radio sobre el uso del paso a nivel.
+Estos anuncios de radio de la campaña de pasos a nivel fueron seleccionados como los mejores anuncios sociales de radio en 2009.
+Una medida en curso es el proyecto de mejora del tramo de línea Seinäjoki–Oulu, donde se eliminarán todos los pasos a nivel.
+21 de las 61 recomendaciones de seguridad existentes sobre pasos a nivel se han implementado. Nueve de las recomendaciones no implementadas ya no son válidas o son demasiado extensas, y la comisión de investigación decidió eliminarlas.
+La Autoridad de Investigación de Seguridad de Finlandia recomienda lo siguiente para mejorar la seguridad en los pasos a nivel:
+1. Debe elaborarse una nueva estrategia para mejorar la seguridad en los pasos a nivel, y sobre la base de la estrategia debe redactarse un plan concreto con acuerdos de financiación.
+2. La seguridad de cada paso a nivel debe evaluarse mediante nuevos análisis estadísticos, a fin de especificar mejor el orden en el que los pasos a nivel deben asegurarse o eliminarse.
+3. Las bases de datos sobre pasos a nivel y sus condiciones deben fusionarse en una sola y la base de datos debe mantenerse actualizada.
+4. Debe crearse una base de datos única y común de accidentes y desviaciones para todos aquellos que operan el sistema ferroviario en Finlandia.
+5. La seguridad en los pasos a nivel debe incluirse también en los planes de seguridad vial provinciales y municipales.
+6. Al planificar el transporte escolar, los municipios deben mejorar la seguridad evitando los pasos a nivel sin dispositivos de aviso a lo largo de las rutas.
+7. Deben redactarse instrucciones claras sobre los límites de velocidad del tráfico rodado y el uso de la señal STOP en los pasos a nivel.
+8. Deben especificarse las formas de mejorar la perceptibilidad de los pasos a nivel y sus condiciones de uso y propiedades técnicas.
+9. Deben redactarse instrucciones sobre pasos a nivel para los mantenedores de carreteras.
+10. Debe mejorarse la visibilidad de los frentes de las locomotoras y las unidades de tren.
+11. Al planificar las rutas de reparto, Itella debe mejorar la seguridad evitando los pasos a nivel sin dispositivos de aviso.
+12. Las instrucciones de evaluación de riesgos del Centro de Respuesta a Emergencias deben actualizarse continuamente y debe designarse un cuartel nacional responsable de las instrucciones.
+La Autoridad de Investigación de Seguridad desea destacar dos recomendaciones para su ulterior consideración, ya que la investigación reveló factores que favorecen su implementación:
+- En el paso a nivel de Suurisuo y pasos a nivel similares, donde se ha observado que la luz solar dificulta la visibilidad, la visibilidad de las barreras y las señales de aviso debe mejorarse sustituyendo las lámparas de filamento parpadeantes rojas por luces LED parpadeantes o intermitentes. [B6/08R/S256]
+- Una variedad de operadores debe desarrollar sistemas e implementar equipos que faciliten la localización del lugar de un accidente. [B1/09R/S277]
+VI
+
+
+## Página 9
+
+## ALKUSANAT
+Onnettomuustutkintakeskus (OTKES) decidió el 12.1.2011, con arreglo al 5 § de la Ley sobre investigación de accidentes (373/1985), iniciar una investigación temática sobre accidentes en pasos a nivel. Como presidente de la comisión de investigación encargada de la investigación temática fue designado el investigador principal Esko Värttiö de OTKES, y como miembros el investigador especial Reijo Mynttinen de OTKES, así como los expertos de OTKES, el maestro en ciencias políticas Kari Ylönen, el investigador especial, doctor en psicología Sirkku Laapotti y el investigador Veli-Jussi Kangasmaa. La comisión de investigación designó como su experto, para la realización del análisis estadístico, al fil. yo. Kalle Brusi. En asuntos del Centro de Respuesta a Emergencias se escuchó como experto al director de operaciones Veli-Matti Aaltonen.
+La investigación temática es continuación del estudio de seguridad S1/2005R, finalizado en 2007, y el material objeto de investigación se extiende en su mayor parte hasta finales del año 2010. La tarea de la comisión de investigación era continuar la investigación estadística iniciada en el estudio de seguridad y realizada sobre la base del material de investigación del Comité de Seguridad Vial de las Compañías de Seguros (VALT) y del material de los operadores ferroviarios. La comisión debía revisar además todos los accidentes en pasos a nivel investigados por el Onnettomuustutkintakeskus en los años 2005–2010. Asimismo, la comisión debía examinar las investigaciones relacionadas con la seguridad en los pasos a nivel y las estrategias de pasos a nivel de los operadores ferroviarios, y evaluar las recomendaciones emitidas previamente por las comisiones de investigación del Onnettomuustutkintakeskus.
+El resumen de investigación ha estado a información del Ministerio de Transportes y Comunicaciones, de la Autoridad de Seguridad del Tráfico, de la Autoridad de Transporte, de VR-Yhtymä Oy, de los centros de desarrollo económico, transporte y medio ambiente, del departamento de rescate del Ministerio del Interior, de la Junta Nacional de Educación, del Comité de Seguridad Vial de las Compañías de Seguros, de la Asociación de Municipios de Finlandia, de la Asociación de Autoescuelas de Finlandia, de la Asociación de Carreteras de Finlandia, de Liikenneturva y del Instituto del Centro de Respuesta a Emergencias. Los dictámenes se encuentran en el anexo 1 del resumen de investigación. Además, las partes interesadas han podido comentar el resumen de investigación.
+El material de investigación se lista al final de este resumen de investigación. El material de origen se conserva en el Onnettomuustutkintakeskus.
+Este resumen de investigación se encuentra también en las páginas web del Onnettomuustutkintakeskus en la dirección www.onnettomuustutkinta.fi.
+El resumen del resumen de investigación, las palabras preliminares, la tabla de resumen, las conclusiones, las medidas adoptadas y las recomendaciones de seguridad, así como los textos de los encabezados de las imágenes, esquemas y tablas, están disponibles además del finés también en sueco e inglés.
+## FÖRORD
+Olycksutredningscentralen (OTKES) decidió el 12.1.2011 iniciar una investigación temática sobre accidentes en pasos a nivel con arreglo al 5 § de la Ley sobre investigación de accidentes (373/1985). Como presidente de la comisión de investigación de la investigación temática fue designado el investigador principal Esko Värttiö y como miembros el investigador especial Reijo Mynttinen, así como el maestro en ciencias políticas Kari Ylönen, el investigador especial, doctor en psicología Sirkku Laapotti y el investigador Veli-Jussi Kangasmaa, que son expertos del Olycksutredningscentralen. Para la realización del análisis estadístico, la comisión de investigación designó como su experto al fil.stud. Kalle Brusi. En asuntos del Centro de Respuesta a Emergencias se escuchó el dictamen de experto del director de operaciones Veli-Matti Aaltonen.
+VII
+
+
+## Página 10
+
+La investigación temática es continuación del estudio de seguridad S1/2005R, publicado en 2007. La mayor parte del material de investigación se extiende hasta finales de 2010. La comisión de investigación tenía el encargo de continuar la investigación estadística iniciada en el estudio de seguridad sobre la base del material de investigación del Comité de Seguridad Vial de las Compañías de Seguros (VALT) y del material de los operadores ferroviarios. La comisión debía revisar además todos los accidentes en pasos a nivel de 2005–2010 investigados por el Olycksutredningscentralen. Asimismo, la comisión debía examinar las investigaciones sobre la seguridad en los pasos a nivel y las estrategias de pasos a nivel de los operadores ferroviarios, y evaluar las recomendaciones emitidas previamente por las comisiones de investigación designadas por el Olycksutredningscentralen.
+El informe de investigación ha estado a información del Ministerio de Comunicaciones, de la Autoridad de Seguridad del Tráfico, de la Autoridad de Transporte, de VR-Group Ab, de los centros de desarrollo económico, transporte y medio ambiente, del departamento de rescate del Ministerio del Interior, de la Junta Nacional de Educación, del Comité de Seguridad Vial de las Compañías de Seguros, de la Asociación de Municipios de Finlandia, de la Asociación de Autoescuelas de Finlandia, de la Asociación de Carreteras de Finlandia, de Trafikskyddet y del Instituto del Centro de Respuesta a Emergencias. Los dictámenes se encuentran en el anexo 1 del informe de investigación. Además, las partes han podido comentar el informe de investigación.
+Una lista del material de investigación se encuentra al final de este informe de investigación. El material de origen se conserva en el Olycksutredningscentralen.
+Este informe de investigación se encuentra también en las páginas web mantenidas por el Olycksutredningscentralen, www.onnettomuustutkinta.fi.
+El resumen del informe de investigación, las palabras preliminares, la tabla de resumen, las conclusiones, las medidas adoptadas y las recomendaciones de seguridad, así como los encabezados de las imágenes, esquemas y tablas, están disponibles además del finés también en sueco e inglés.
+## PREFACE
+De conformidad con el 5 § de la Ley sobre investigación de accidentes (373/1985), la Autoridad de Investigación de Seguridad (OTKES) inició un estudio de seguridad sobre accidentes en pasos a nivel. El investigador principal de seguridad ferroviaria Esko Värttiö fue designado investigador responsable, y el investigador de seguridad ferroviaria Reijo Mynttinen y los expertos de la Autoridad de Investigación de Seguridad, el maestro en ciencias sociales Kari Ylönen, el investigador especial en psicología Sirkku Laapotti, Psy.D., y el investigador Veli-Jussi Kangasmaa, miembros de la comisión. El estudiante de filosofía Kalle Brusi fue convocado para actuar como experto de la Comisión en análisis estadístico. El director de operaciones Veli-Matti Aaltonen fue escuchado como experto en asuntos del Centro de Respuesta a Emergencias.
+Este estudio de seguridad es continuación del estudio de seguridad S1/2005R finalizado en 2007. La mayor parte del material investigado cubre el periodo hasta finales de 2010. La tarea de la comisión de investigación era continuar el análisis estadístico, iniciado en el estudio de seguridad y realizado sobre la base del material obtenido del Comité de Seguridad Vial de las Compañías de Seguros (VALT) y de los operadores ferroviarios. A la comisión de investigación se le encomendó también revisar todos los accidentes en pasos a nivel investigados por la Autoridad de Investigación de Seguridad entre 2005–2010. Además, era responsable de revisar los estudios sobre seguridad en los pasos a nivel y las estrategias de pasos a nivel de los operadores ferroviarios, y de evaluar las recomendaciones emitidas previamente por la Autoridad de Investigación de Seguridad.
+VIII
+
+
+## Página 11
+Este estudio de seguridad ha estado a información del Ministerio de Transportes y Comunicaciones, de la Autoridad Finlandesa de Seguridad del Transporte, de la Autoridad de Transporte de Finlandia, de VR Group, de los centros de desarrollo económico, transporte y medio ambiente, del departamento de rescate del Ministerio del Interior, de la Junta Nacional de Educación de Finlandia, del Comité de Seguridad Vial de las Compañías de Seguros, de la Asociación de Municipios y Regiones de Finlandia, de la Asociación de Autoescuelas de Finlandia, de la Asociación de Carreteras de Finlandia, de Liikenneturva y de la Administración del Centro de Respuesta a Emergencias. Estos dictámenes se encuentran en el anexo 1 del informe de investigación. Las partes interesadas han tenido la oportunidad de comentar el informe de investigación.
+Se facilita una lista del material de origen al final de este informe. El material de origen se conserva en las instalaciones de la Autoridad de Investigación de Seguridad.
+Este estudio de seguridad se encuentra también en la página web de la Autoridad de Investigación de Seguridad en www.onnettomuustutkinta.fi.
+El resumen del informe de investigación, las palabras preliminares, la tabla de resumen, las conclusiones, las medidas adoptadas y las recomendaciones de seguridad, así como los textos de los encabezados de las imágenes, gráficos y tablas, se facilitan en finés, sueco e inglés.
+IX
+
+## Página 12
+
+## ÍNDICE
+RESUMEN .................................................................................................................................. I
+SÁNTESIS ............................................................................................................................ III
+SUMMARY.....................................................................................................................................V
+PALABRAS PRELIMINARES........................................................................................................VII
+FÖRORD......................................................................................................................................VII
+PREFACE ...................................................................................................................................VIII
+1 NORMATIVA E INSTRUCCIONES.............................................................................................. 1
+1.1 Directivas de la Unión Europea y especificaciones técnicas de interoperabilidad................. 1
+1.2 Ley de ordenación del territorio y edificación ...................................................................... 3
+1.3 Ley de la vía férrea.............................................................................................................. 3
+1.4 Ley de carreteras................................................................................................................. 4
+1.5 Ley de tráfico por carretera ................................................................................................ 4
+1.6 Reglamento de tráfico por carretera ..................................................................................... 4
+1.7 Reglamento de visibilidad...................................................................................................5
+1.8 Disposición de la Agencia de Seguridad del Tráfico sobre la estructura y el mantenimiento de la vía férrea............... 6
+1.9 Instrucciones técnicas de la vía férrea (RATO)....................................................................... 8
+1.9.1 Parte 6 de RATO Dispositivos de seguridad..................................................................... 8
+1.9.2 Parte 9 de RATO Pasos a nivel ........................................................................................ 9
+1.10 Condiciones técnicas de suministro de los dispositivos de seguridad de pasos a nivel................................ 12
+1.11 Instrucciones generales sobre el uso de señales de tráfico ............................................................................. 12
+1.12 Limitaciones de velocidad .................................................................................................... 13
+1.13 Transportes escolares...............................................................................................................13
+2 REVISIÓN DE PLANES E INVESTIGACIONES.................................................................... 15
+2.1 Planes .................................................................................................................... 15
+2.1.1 Programa de seguridad de pasos a nivel del Ministerio de Transportes y Comunicaciones (2001).......... 15
+2.1.2 Estrategia de protección y eliminación de pasos a nivel ferroviarios 2020 (2002)........................ 15
+2.1.3 Tráfico ferroviario 2030 – Plan a largo plazo del mantenimiento de la vía férrea (2006)........... 18
+2.1.4 Estrategia de pasos a nivel 2007 .................................................................................... 19
+2.1.5 Planes de seguridad del tráfico.......................................................................... 21
+2.2 Estudios e investigaciones ................................................................................................. 22
+2.2.1 Seguridad de los pasos a nivel sin vigilancia (2002) ............................................. 22
+X 
+
+
+## Página 13
+
+2.2.2 Seguridad de los pasos a nivel con barrera (2002) .....................................................23 
+2.2.3 Efecto del portal en las velocidades de circulación en el paso a nivel sin vigilancia de Kyläjoentie 
+....................................................................................................................................................24 
+2.2.4 Velocidades de circulación en los pasos a nivel de carreteras con poco tráfico (2006)........................25 
+2.2.5 Velocidades del tráfico rodado en un paso a nivel vigilado (2007) ..............................26 
+2.2.6 Reducción de las velocidades del tráfico rodado en los pasos a nivel (2007)..........................26 
+2.2.7 Efectos de las medidas de mejora de la seguridad de los pasos a nivel – 
+encuesta en la sección de vía Savonlinna–Parikkala (2007) .......................................27 
+2.2.8 El cruce de un paso a nivel sin vigilancia – Percepciones y percepción del riesgo de los conductores de automóvil (2009).................................................................................................27 
+2.2.9 Uso de la señal STOP y de la limitación de velocidad de 20 km/h en los pasos a nivel (2009) .......28 
+2.2.10 Efecto de los badenes en las velocidades de circulación en los pasos a nivel sin vigilancia de carreteras de tierra (2009).........................................................................................28 
+2.2.11 Comportamiento del tráfico rodado en seis pasos a nivel con barrera parcial  
+(2009) ...................................................................................................................29 
+2.2.12 Seguridad de los pasos a nivel en los transportes escolares y de autobuses de línea en la línea Hanko–Hyvinkää (2010) ...................................................................................................................29 
+2.2.13 Previsión del tráfico de mercancías de la red ferroviaria 2030 (2010)..................................30 
+2.2.14 Estadística de accidentes de los distintos modos de transporte – Estudio previo (2011).................31 
+2.2.15 Atropellos en el ferrocarril – Estadística y análisis (2011)...............................32 
+2.2.16 Sistema de aviso de trenes instalado en el automóvil...............................................................32 
+3 INFORMACIÓN BÁSICA SOBRE EL TRÁFICO FERROVIARIO Y POR CARRETERA 1991–2010............................................33 
+3.1 Desarrollo general del tráfico ferroviario ....................................................................................33 
+3.2 Desarrollo general del tráfico por carretera.....................................................................................34 
+3.3 Número de automóviles..................................................................................................35 
+3.4 Número de pasos a nivel y tipos de dispositivos de aviso.......................................................................36 
+3.5 Muertos y heridos en accidentes de tráfico ferroviario y por carretera...............................37 
+4 ACCIDENTES EN PASOS A NIVEL.......................................................................................38 
+4.1 Estadísticas generales de los accidentes en pasos a nivel 1991–2010.................................................38 
+4.1.1 Número de accidentes en pasos a nivel.....................................................................38 
+4.1.2 Daños personales en los accidentes en pasos a nivel .....................................................39 
+4.1.3 Accidentes en pasos a nivel con y sin dispositivos de aviso 
+....................................................................................................40 
+4.1.4 Vehículo del tráfico por carretera en el accidente en el paso a nivel ...............................................40 
+4.2 Accidentes en pasos a nivel de vehículos a motor que causaron la muerte 1991–2009 .........41 
+4.3 Accidentes en pasos a nivel ocurridos en los años 2002–2010............................................55 
+4.3.1 Parte implicada del tráfico por carretera y tipo de vía férrea...................................................................55 
+4.3.2 Accidentes de vehículos a motor en líneas principales..................................................56 
+XI
+
+## Página 14
+
+4.3.3 Daños a personas.................................................................................................... 59 
+4.4 Análisis estadístico........................................................................................................ 60 
+4.5 Daños en barreras de paso a nivel................................................................................ 67 
+4.6 Exámenes regionales..................................................................................................... 69 
+4.6.1 Satakunta............................................................................................................. 69 
+4.6.2 Línea Hyvinkää–Hanko........................................................................................... 74 
+4.6.3 Determinadas secciones de línea de tráfico escaso.................................................. 76 
+4.6.4 Sección de línea Seinäjoki–Oulu............................................................................... 79 
+4.7 Funcionamiento de los centros de emergencia en los accidentes en pasos a nivel........ 79 
+4.7.1 Tratamiento de la misión y evaluación de riesgos................................................... 79 
+4.7.2 Despachos de las unidades de rescate 2003–2010.................................................... 81 
+4.7.3 Tiempo de tratamiento de la misión........................................................................ 82 
+4.7.4 Contenido del tratamiento de la misión.................................................................... 84 
+5 EXAMEN DE LA SEGURIDAD EN PASOS A NIVEL DE OTROS PAÍSES.............................. 88 
+5.1 Datos estadísticos del tráfico ferroviario y por carretera y de los accidentes.............. 88 
+5.2 Estudios y proyectos de desarrollo para mejorar la seguridad en pasos a nivel............ 92 
+6 RECOMENDACIONES EMITIDAS ANTERIORMENTE..................................................... 96 
+6.1 Recomendaciones del estudio de seguridad S1/2005R................................................... 96 
+6.2 Otras recomendaciones relacionadas con los accidentes en pasos a nivel...................... 96 
+7 ANÁLISIS............................................................................................................................... 98 
+7.1 Evolución del número de pasos a nivel y de accidentes en pasos a nivel...................... 98 
+7.2 Registros de pasos a nivel y de accidentes...................................................................... 99 
+7.3 Instrucciones sobre señales de tráfico y otras señales relacionadas con los pasos a nivel 100 
+7.4 Observaciones............................................................................................................ 101 
+7.5 Instrucciones del gestor de la vía.................................................................................. 101 
+7.6 Accidentes en pasos a nivel de vehículos a motor con resultado de muerte.................. 102 
+7.7 Evaluación de la peligrosidad de un paso a nivel individual.......................................... 105 
+7.8 Transportes escolares..................................................................................................... 106 
+7.9 Plan de seguridad del tráfico........................................................................................ 106 
+7.10 Comparación de Finlandia con la situación de otros países......................................... 107 
+7.10.1 Comparación de los datos estadísticos de los años 2004 y 2009........................... 107 
+7.10.2 Cambio en el número total de accidentes en pasos a nivel en los países nórdicos y en Gran-
+Bretaña 1991–2010..................................................................................................... 111 
+7.10.3 Estudios y proyectos de desarrollo para mejorar la seguridad en pasos a nivel.......... 111 
+7.11 Funcionamiento de los centros de emergencia.................................................................. 112 
+7.12 Recomendaciones emitidas anteriormente sobre accidentes en pasos a nivel............. 113 
+7.13 Actualización de la estrategia de pasos a nivel............................................................................... 115 
+XII
+
+
+## Página 15
+
+8 CONCLUSIONES.............................................................................................................117 
+8 SLUTSATSER.......................................................................................................................118 
+8 CONCLUSIONS.....................................................................................................................119 
+9 MEDIDAS ADOPTADAS............................................................................................122 
+9 VIDTAGNA ÅTGÄRDER........................................................................................................122 
+9 MEASURES THAT HAVE BEEN TAKEN..............................................................................123 
+10 RECOMENDACIONES DE SEGURIDAD...................................................................125 
+10.1 Recomendaciones a eliminar..........................................................................................125 
+10.2 Nuevas recomendaciones...........................................................................................126 
+10.3 Repetición de las recomendaciones emitidas en informes de investigación anteriores......131 
+10 SÄKERHETSREKOMMENDATIONER..................................................................................132 
+10.1 Rekommendationer som ska slopas..............................................................................132 
+10.2 Nya rekommendationer..................................................................................................133 
+10.3 Upprepning av rekommendationer i tidigare undersökningsrapporter............................138 
+10 SAFETY RECOMMENDATIONS...........................................................................................139 
+10.1 Recommendations to be removed.................................................................................140 
+10.2 New recommendations...................................................................................................140 
+10.3 Reiteration of recommendations given in previous investigation reports........................146 
+LÄHDELUETTELO.....................................................................................................................148 
+LÄHTEET...................................................................................................................................149 
+ANEXOS 
+Anexo 1. Dictámenes 
+Anexo 2. Reglamentos e instrucciones relativos a los pasos a nivel 
+Anexo 3. Recomendaciones emitidas sobre accidentes en pasos a nivel y su estado 
+Anexo 4. Datos estadísticos 
+Anexo 5. Resumen de los distintos métodos para mejorar la seguridad en pasos a nivel 
+XIII
+
+
+## Página 16
+
+
+## Página 17
+
+## 1 
+## REGLAMENTOS E INSTRUCCIONES 
+En este apartado se describen los reglamentos e instrucciones relacionados con los pasos a nivel y, en particular, los cambios producidos en ellos después del año 2005. Los reglamentos e instrucciones vigentes se presentan con más detalle en el anexo 2. 
+## 1.1 
+### Directivas de la Unión Europea y especificaciones técnicas de interoperabilidad 
+La Directiva de seguridad ferroviaria (2004/49/CE) tiene por objeto garantizar el desarrollo y la mejora de la seguridad de los ferrocarriles de la Comunidad, así como mejorar el acceso a los mercados de los servicios ferroviarios:  
+a) armonizando los marcos regulatorios de los Estados miembros  
+b) definiendo las obligaciones de los distintos agentes  
+c) estableciendo objetivos comunes de seguridad y métodos comunes de seguridad, con el fin de mejorar la armonización de las normas nacionales,  
+d) exigiendo que en cada Estado miembro se cree una autoridad de seguridad y un organismo para la investigación de accidentes y situaciones de peligro,  
+e) definiendo principios comunes relativos a la gestión, la regulación y la supervisión de la seguridad ferroviaria.  
+Los titulares de la red ferroviaria y las empresas ferroviarias deben implantar un sistema de gestión de la seguridad. El sistema de gestión de la seguridad debe cumplir determinados requisitos e incluir los subelementos establecidos específicamente, que se han adaptado a la naturaleza, el alcance y demás condiciones de la actividad realizada. En el anexo III de la directiva se describen de forma general los requisitos del sistema de gestión de la seguridad.  
+La Directiva de seguridad ferroviaria se ha implementado en Finlandia en la ley de ferrocarriles en 2006, en la ley de la vía en 2007 y en la ley de investigación de seguridad en 2011. 
+En Finlandia, el único titular de la red ferroviaria es Liikennevirasto. Liikennevirasto dispone de un sistema de gestión de la seguridad que se está desarrollando en la actualidad para cumplir los nuevos requisitos. La intención es que la Autoridad de Seguridad del Tráfico Trafi apruebe el nuevo sistema de gestión de la seguridad en la primavera de 2012. Según el nuevo sistema, la autoridad no dispondrá de una única gran unidad de seguridad, sino que la gestión de la seguridad se distribuirá entre los distintos departamentos de Liikennevirasto. En el sistema se han desarrollado, entre otros aspectos, la división del trabajo, es decir, las áreas de responsabilidad, y el seguimiento de la seguridad. 
+Por la Decisión 2009/460/CE se aprobó, de conformidad con el artículo 6, apartado 1, de la Directiva 2004/49/CE, un método común de seguridad que la Agencia Ferroviaria Europea (ERA) utiliza para calcular los objetivos comunes de seguridad y evaluar su cumplimiento. En la decisión se describen, entre otros aspectos, el método utilizado para el cálculo de los valores de referencia nacionales y la gestión de los objetivos comunes de seguridad, así como un marco para la evaluación del cumplimiento de los valores de referencia nacionales y de los objetivos comunes de seguridad. 
+En la Decisión de la Comisión 2010/409/UE se publican los valores de referencia nacionales de los Estados miembros. El valor de referencia nacional se utiliza para determinar el nivel de riesgo máximo aceptable de los Estados miembros. El método utilizado para el seguimiento de los pasos a nivel se está desarrollando.
+
+## Página 18
+
+La Directiva 2008/57/CE (sobre la interoperabilidad del sistema ferroviario en la Comunidad) tiene por objeto establecer los requisitos esenciales que deben cumplirse para la puesta en práctica de la interoperabilidad del sistema ferroviario, de modo que sean compatibles con las normas de la Directiva 2004/49/CE. Estos requisitos se refieren al diseño, construcción, puesta en servicio, mejora, renovación, explotación y mantenimiento de las partes del sistema, así como a la cualificación profesional del personal que participa en la explotación y el mantenimiento del sistema y a las condiciones de salud y seguridad en el trabajo.
+En el capítulo II de la Directiva se describen las Especificaciones Técnicas de Interoperabilidad (ETI). Se entiende por ETI las especificaciones que se emiten para cada subsistema o elemento de subsistema, a fin de garantizar que cumplan los requisitos esenciales y de asegurar la interoperabilidad del sistema ferroviario europeo de alta velocidad definido en la Directiva 96/48/CE y del sistema ferroviario europeo convencional definido en la Directiva 2001/16/CE.
+Los subsistemas se describen en el anexo II de la Directiva 2008/57/CE. Por ejemplo, el sistema ferroviario se divide en los siguientes subsistemas, ya sea:
+a) por criterios estructurales
+- infraestructura
+- energía
+- mando, control y señalización
+- material rodante o
+b) por criterios funcionales
+- explotación y gestión del tráfico
+- mantenimiento
+- aplicaciones telemáticas del transporte de pasajeros y mercancías.
+Se entiende por elemento de infraestructura las vías, los desvíos, las estructuras técnicas (puentes, túneles, etc.), las estructuras básicas de las estaciones (andenes, conexiones de circulación, incluidas las necesidades de las personas con movilidad reducida, etc.), así como los dispositivos de seguridad y protección. Este elemento incluye también los pasos a nivel.
+No se han publicado ETI relativas a la infraestructura del sistema ferroviario convencional, por lo que las ETI no se refieren a los pasos a nivel. Las ETI son de naturaleza más detallada que las directivas y las leyes nacionales y entran en vigor mediante disposiciones nacionales. Las publicaciones de las ETI están disponibles, por ejemplo, en las páginas web de la Agencia de Seguridad Ferroviaria.
+### Investigación de accidentes y situaciones de peligro
+Los Estados miembros deben garantizar que el organismo de investigación¹ lleve a cabo, tras los accidentes graves ocurridos en el sistema ferroviario, una investigación cuyo objetivo sea la posible mejora de la seguridad ferroviaria y la prevención de accidentes. Además de los accidentes graves, el organismo de investigación puede investigar aquellos accidentes y situaciones de peligro que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves.
+¹ En Finlandia, la Ley sobre investigación de accidentes (525/2011) designa como organismo de investigación al Centro de Investigación de Accidentes.
+
+## Página 19
+
+### Obligación de estadística
+La autoridad de seguridad² debe publicar un informe anual sobre su actividad del año anterior. El informe anual debe contener información sobre
+a) el desarrollo de la seguridad ferroviaria, incluido un resumen por Estado miembro de los indicadores de seguridad comunes
+b) los cambios significativos en la legislación y la regulación en materia de seguridad ferroviaria
+c) el desarrollo relativo a los certificados de seguridad y las autorizaciones de seguridad
+d) los resultados y las experiencias obtenidos de la supervisión de los titulares de infraestructura y de las empresas ferroviarias
+e) las excepciones.
+## 1.2
+### Ley de ordenación del territorio y construcción
+En la planificación, construcción y uso de las zonas se deben cumplir las disposiciones de la Ley de ordenación del territorio y construcción (132/1999), salvo que se disponga expresamente lo contrario.
+Para organizar y dirigir el uso de las zonas del municipio se elaboran planes generales de ordenación y planes parciales de ordenación. En el plan general de ordenación se indican las características principales del uso de las zonas en el municipio. En el plan parcial de ordenación se indica la organización del uso y la construcción de una subzona del municipio. El plan de la región contiene un plan general del uso de las zonas en la región o en una subzona de la misma.
+El objetivo de la planificación del uso de las zonas es promover, entre otros aspectos, la creación de un entorno vital y funcional seguro, así como la organización adecuada del tráfico y, en particular, las condiciones de funcionamiento del transporte colectivo y del transporte ligero.
+## 1.3
+### Ley de la vía
+En la Ley de la vía (110/2007) se regulan, entre otros aspectos, el diseño de las vías férreas, la creación de un nuevo paso a nivel y la supresión de un paso a nivel.
+Los planes de un proyecto ferroviario, desde el más general hasta el más detallado, pueden dividirse en cuatro fases de la siguiente manera:
+- estudio de necesidades, cuyo punto de partida puede ser, por ejemplo, el desarrollo estratégico de la red ferroviaria
+- plan general, regulado en los apartados 11–13 de la Ley de la vía
+- plan de la vía, regulado en los apartados 14–15 de la Ley de la vía
+- planes de construcción.
+Al elaborar los planes, el gestor de la vía actúa en colaboración con las asociaciones regionales, los municipios, los centros de desarrollo económico, de transporte y de medio ambiente (centros ELY) y otras autoridades
+² En Finlandia, la autoridad de seguridad es la Agencia de Seguridad Ferroviaria, en virtud de la Ley sobre la Agencia de Seguridad Ferroviaria (863/2009).
+
+## Página 20
+La planificación debe basarse en las necesidades de desarrollo de la vía férrea, en los objetivos nacionales de ordenación del territorio y en la demás planificación del uso de las zonas.
+En el plan general debe figurar, entre otros aspectos, un informe sobre la necesidad de construir la vía férrea o de desarrollar la red ferroviaria, las alternativas estudiadas y los efectos estimados de la zona ferroviaria y del tráfico ferroviario en las condiciones de las carreteras y el tráfico y en la seguridad vial.
+Solo se podrá construir un nuevo paso a nivel permanente en la parte de baja densidad de tráfico de la red ferroviaria distinta de la red troncal. La ubicación de un paso a nivel de la red troncal podrá trasladarse si con el traslado se puede mejorar significativamente la seguridad del paso a nivel o por otra razón especial. Para construir o trasladar un paso a nivel se requiere la autorización del gestor de la vía.
+Para mejorar la seguridad vial y hacer más eficiente el tráfico ferroviario, en el plan de la vía puede indicarse que un paso a nivel debe suprimirse o que los pasos a nivel deben reorganizarse, así como indicar restricciones de uso para un paso a nivel o sistemas y dispositivos relacionados con la seguridad de los pasos a nivel. Si en el plan de la vía se indica que un paso a nivel debe suprimirse, en el plan de la vía debe indicarse la organización de una nueva conexión. El gestor de la vía construye la nueva carretera y el paso a nivel necesarios o adquiere el derecho a una carretera ya existente.
+## 1.4
+### Ley de carreteras
+En la Ley de carreteras (503/2005) se regulan las zonas de visibilidad de las carreteras. La definición de las zonas de visibilidad de las carreteras se regula por decreto del Ministerio de Transportes y Comunicaciones (65/2011).
+## 1.5
+### Ley de tráfico por carretera
+Conforme a la Ley de tráfico por carretera (267/1981), se debe dar paso libre al tren. Se entiende por tren, en este contexto, todo vehículo que circule sobre raíles ferroviarios.
+El usuario de la carretera que se aproxime a un paso a nivel de una vía férrea debe observar una precaución especial y, a pesar de los posibles dispositivos de protección, vigilar si se acerca un tren. El conductor debe entonces circular a una velocidad que permita detener el vehículo, si es necesario, antes de la vía.
+No se debe iniciar el cruce de la vía férrea si se acerca un tren, o si la señal luminosa obliga a detenerse, suena una señal sonora especial, o la barrera está abajo o en movimiento. En tal caso, hay que detenerse a una distancia segura de la vía, antes de la señal o la barrera. Cuando se pueda cruzar la vía férrea, se debe hacer sin demora.
+## 1.6
+### Reglamento de tráfico por carretera
+Conforme al Reglamento de tráfico por carretera (182/1982), la señal de advertencia debe situarse a una distancia de al menos 150 y como máximo 250 metros antes del punto de peligro. En un núcleo de población y por una razón especial en cualquier otro lugar, la señal de advertencia también puede situarse más cerca del punto de peligro.
+
+## Página 21
+Antes del paso a nivel debe haber la señal 171 Paso a nivel de vía férrea sin barreras o 172 Paso a nivel de vía férrea, con barreras, así como las señales de aproximación al paso a nivel de vía férrea 173, 174 y 175. Además, inmediatamente antes del raíl más próximo debe haber la señal 176 Paso a nivel de vía férrea de una sola vía o 177 Paso a nivel de vía férrea de dos o más vías.
+Las señales de prioridad y de cesión se colocan en el lado derecho de la calzada. Por una razón especial, una señal similar puede colocarse además en un resalte de la calzada, en el lado izquierdo de la calzada o por encima de la calzada. La señal de tráfico 232 Parada obligatoria (STOP) indica que el vehículo que se aproxima a un cruce o a una carretera siempre debe detenerse en la línea de detención. Donde no haya línea de detención, el vehículo debe detenerse inmediatamente antes de la carretera transversal en un punto desde el que se tenga la mejor visibilidad posible de la carretera transversal. En el paso a nivel de vía férrea, la señal indica que el vehículo debe detenerse en el punto de la señal antes de cruzar el paso a nivel.
+## 1.7
+### Reglamento de visibilidad
+El reglamento del Ministerio de Transportes y Comunicaciones sobre zonas de visibilidad (65/2011) se ha dictado en virtud de la Ley de carreteras y de la Ley de la vía. El objetivo del reglamento es que las carreteras y los pasos a nivel de vía férrea se diseñen y las zonas de visibilidad se determinen de manera que se alcancen las visibilidades suficientes desde el punto de vista de la seguridad vial, la flexibilidad del tráfico y la capacidad de transporte del tráfico.
+El reglamento se aplica a los pasos a nivel entre una vía férrea y una carretera o entre una vía férrea y una vía privada.
+Las disposiciones del reglamento se refieren a las carreteras nuevas y a mejorar, así como a los pasos a nivel de vía férrea nuevos y a mejorar, excluidas las vías privadas.
+En el reglamento se entiende por:
+- visibilidad del paso a nivel, en el caso de la vía férrea, la distancia a partir de la cual el usuario de la carretera que se aproxima al paso a nivel de vía férrea debe poder ver en la dirección de la vía para poder evaluar la situación de tal manera que pueda cruzar la vía o detener su vehículo antes del raíl
+- visibilidad de detención, en el caso de la vía férrea, la distancia en el paso a nivel de vía férrea a partir de la cual el conductor del vehículo debe poder ver la zona del paso a nivel y la señal de paso a nivel de vía férrea para poder detener su vehículo, en condiciones normales, antes del obstáculo
+- dispositivo de advertencia, en el caso de la vía férrea, el dispositivo con el que se advierte al tráfico por carretera de las unidades que circulan por la vía en el paso a nivel de vía férrea.
+En el paso a nivel de vía férrea debe haber una visibilidad del paso a nivel desde ambos lados de la vía en ambas direcciones. Si no se alcanza la visibilidad, deben instalarse dispositivos de advertencia en el paso a nivel. La instalación de un dispositivo de advertencia no justifica el empeoramiento de una visibilidad existente.
+Antes de la entrada en vigor del reglamento, estaba en vigor la instrucción del Ministerio de Transportes y Comunicaciones sobre las zonas de visibilidad de las carreteras generales. Conforme a la instrucción, la zona de visibilidad de un paso a nivel sin vigilancia (equivalente a la visibilidad del paso a nivel del reglamento) a 8 metros del raíl más próximo se calculaba con la fórmula zona de visibilidad [m] = 6 x velocidad máxima de la vía [km/h]. Si no se podía alcanzar la visibilidad, debían instalarse en el paso a nivel, en la medida de lo posible, semáforos, barreras o dispositivos de advertencia.
+
+## Página 22
+
+## 1.8 
+### Reglamento de la Autoridad de Seguridad del Tráfico sobre la estructura y el mantenimiento de la vía
+El reglamento de la Autoridad de Seguridad del Tráfico sobre la estructura y el mantenimiento de la vía (TRA-FI/14473/03.04.02.00/2010) se aplica a un nuevo paso a nivel ferroviario que vaya a renovarse o mejorarse, así como al registro de un paso a nivel ferroviario. El reglamento no se aplica a un paso a nivel ferroviario en el que esté prohibida la circulación de las vías relacionadas con dicho paso a nivel, o en el que la velocidad máxima de la vía o vías sea de 20 km/h como máximo, ni a un paso a nivel de obra ferroviaria, ni a un paso a nivel ferroviario situado en una zona en la que esté prohibido el acceso y la permanencia sin permiso del titular de la zona, y cuyo acceso esté bloqueado por una valla u otro obstáculo estructural, y en la que las restricciones de acceso y permanencia estén claramente señalizadas.
+Un paso a nivel ferroviario situado en la red TEN a que se refiere la Decisión del Parlamento Europeo y del Consejo n.º 1692/96/CE (Decisión sobre la red TEN) sobre las orientaciones de la Comunidad para el desarrollo de la red de transporte paneuropea, que no cumpla el presente reglamento, deberá adaptarse al mismo antes de finalizar el año 2030, salvo que la vía relacionada con el paso a nivel ferroviario se renueve o mejore con anterioridad. Un paso a nivel ferroviario situado en la red TEN a que se refiere la Decisión sobre la red TEN que no cumpla el presente reglamento a más tardar antes de finalizar el año 2030 deberá ser suprimido.
+El reglamento establece, entre otras cosas, lo siguiente sobre los pasos a nivel:
+- El ángulo agudo formado entre el paso a nivel ferroviario y la carretera o vía de acceso debe ser de al menos 70 grados.
+- El paso a nivel ferroviario debe disponer de barrera automática cuando la velocidad máxima de la vía relacionada con el paso a nivel sea superior a 100 km/h y el tráfico medio diario (TMD) sea superior a 2 000 vehículos.
+- La carretera o vía de acceso al paso a nivel ferroviario debe ser recta durante al menos 30 m antes del paso a nivel ferroviario (medido desde el borde exterior del canto del raíl más próximo a la carretera que conduce al paso a nivel ferroviario, hasta el centro de la carretera). La Autoridad de Seguridad del Tráfico puede conceder una excepción a este requisito si no es posible modificar la carretera o vía de acceso. No obstante, la carretera debe ser recta durante al menos 8 metros. El requisito de rectitud de la carretera o vía de acceso al paso a nivel ferroviario no se aplica a los pasos a nivel de andenes o caminos de servicio.
+- La pendiente longitudinal de la carretera que conduce al paso a nivel ferroviario no puede superar el 0,2 % durante los 5 m anteriores al paso del paso a nivel ferroviario. En los 25 m anteriores a este tramo, la pendiente longitudinal de la carretera no puede superar el 1,5 %, si se permite el paso de vehículos articulados. Si no se permite el paso de vehículos articulados, la pendiente longitudinal no puede superar el 1,5 % durante los 5–15 m anteriores al paso a nivel.
+### Red TEN
+En Europa se ha definido la red TEN, o Trans European Network (Red Transeuropea). Esta comprende, además de las carreteras, las principales conexiones ferroviarias y marítimas. La red TEN de los ferrocarriles finlandeses se muestra en la figura 1.
+
+
+## Página 23
+
+Figura 1. 
+Red ferroviaria a escala europea en Finlandia (red TEN, fuente: Informe de Red 2011). 
+Bild 1. 
+Europeiska bannätet i Finland (TEN-nätet, källa: Verkkoselostus 2011). 
+Figure 1. 
+Trans-European Transport Network in Finland (the TEN network, Source: Network Report 
+2011). 
+
+
+## Página 24
+
+## 1.9 
+### Directrices técnicas de la vía (RATO)
+Las normas y directrices técnicas de la vía (RAMO) entraron en vigor en 1983 como documento de la entonces Dirección de Ferrocarriles.
+El Centro de Gestión Ferroviaria (Ratahallintokeskus) transformó en 2008 las Normas y directrices técnicas de la vía (RAMO) en Directrices técnicas de la vía (RATO). Las normas se han derogado gradualmente y convertido en directrices. La Autoridad Ferroviaria (Rautatievirasto) derogó las últimas normas de las RAMO el 31.12.2009, momento en el que, entre otras, la RAMO 9 Pasos a nivel se derogó como norma, pero sigue vigente como directriz.
+En este apartado se tratan brevemente las partes 6 Dispositivos de seguridad y 9 Pasos a nivel de las RATO. Se tratan con mayor amplitud en el apartado 9 del anexo 2.
+## 1.9.1 
+### Parte 6 Dispositivos de seguridad de las RATO
+En la parte 6 Dispositivos de seguridad de las directrices técnicas de la vía (RATO) se presentan, entre otras cosas, las definiciones de los dispositivos de aviso, su principio de funcionamiento y los estados de avería y de fallo. Las directrices son aplicables a los encargos de diseño y mantenimiento de los dispositivos de seguridad encargados por la Autoridad de Tráfico (Liikennevirasto) a partir del 1.1.2010. Las directrices son aplicables a los encargos de construcción de dispositivos de seguridad encargados después del 1.1.2010.
+En el apartado 6.5.3 Dispositivo de aviso se define el dispositivo de aviso como un sistema relacionado con un paso a nivel o un andén que advierte de la unidad que circula por los raíles. El funcionamiento del dispositivo de aviso depende del funcionamiento del aparato de enclavamiento o el dispositivo de aviso es de línea.
+El apartado 6.5.3.1.1 Dispositivo de barrera establece que el dispositivo de barrera debe estar equipado con barreras, señales de carretera y campanas de aviso. Las barreras pueden ser completas, semiautomaticas o dobles. El dispositivo de barrera debe utilizarse en el paso a nivel determinado en los criterios de diseño.
+El apartado 6.5.3.2.2 Alarma trata los tiempos de funcionamiento del dispositivo de aviso. El dispositivo de aviso debe emitir la alarma al menos durante el tiempo requerido según el tipo de dispositivo de aviso antes de la llegada al paso a nivel de una unidad que circule a la velocidad correspondiente a la limitación de velocidad o a las limitaciones de velocidad de la sección de alarma.
+La duración de la alarma en un dispositivo de aviso que no esté equipado con barreras debe ser de al menos 20 segundos antes de la llegada al paso a nivel de una unidad que circule a la velocidad correspondiente a la limitación de velocidad o a las limitaciones de velocidad de la sección de alarma.
+En el apartado 6.5.3.2.6 Averías y avisos de avería del dispositivo de aviso se definen las averías críticas y las notificaciones de las mismas. Una avería crítica del dispositivo de aviso debe provocar la visualización de la señal DE (SEIS) de la señal que protege el paso a nivel o la señal Acérquese con precaución de la señal del paso a nivel. Una avería crítica del dispositivo de aviso debe impedir que se cumpla el tiempo de alarma requerido. El cálculo del tiempo de alarma requerido debe reiniciarse desde el principio cuando el dispositivo de aviso emita la alarma, una vez eliminada la avería crítica. Las averías del dispositivo de aviso conectado al aparato de enclavamiento deben comunicarse a través del aparato de enclavamiento al control de tráfico. Las averías del dispositivo de
+
+
+## Página 25
+
+de línea deben comunicarse al control de tráfico que gestiona la línea o al lugar designado por la Sección de Ferrocarriles de la Autoridad de Tráfico. Las averías críticas del dispositivo de aviso se definen como sigue: avería de seguridad, avería de sistema, avería de barrera, avería de supervisión de la posición de la barrera y avería de señal de carretera.
+## 1.9.2 
+### Parte 9 Pasos a nivel de las RATO
+Las bases para el diseño, la construcción y el mantenimiento de los pasos a nivel se encuentran en la parte 9 Pasos a nivel de las RATO. Desde el punto de vista de la seguridad, los apartados más importantes son la visibilidad, la alineación de la carretera y el ángulo de cruce, la línea de nivel de la carretera, la sección transversal de la carretera, las señales de tráfico y su ubicación, el mantenimiento del paso a nivel y la mejora de la seguridad del paso a nivel. (Véase también el apartado 9 del anexo 2.)
+El predecesor de las RATO, las RAMO, entró en vigor en 1983. En ellas, los Pasos a nivel figuraban en el apartado 9.1 de la parte 9 ESTRUCTURAS Y DISPOSITIVOS ESPECIALES. La parte 9 de las RAMO fue sustituida íntegramente en el año 2000 por la parte 9 Pasos a nivel de las RAMO elaborada por el Centro de Gestión Ferroviaria, lo que redujo significativamente el contenido de la norma. A continuación se trata el apartado 9.1 de las RAMO que entraron en vigor en 1983, en la medida en que presentaba diferencias con la parte 9 de las RATO vigente. (Véase también el apartado 10 del anexo 2.)
+En el apartado 9.112 Conceptos y definiciones figuraban, entre otros:
+Visibilidad
+La distancia de visibilidad del conductor del vehículo, medida a lo largo de la superficie de la carretera siguiendo la huella normal de circulación o a una determinada altura sobre la superficie de la carretera, cuando no haya otros vehículos que obstaculicen la visibilidad.
+La visibilidad en la dirección de la vía es la distancia de visibilidad del conductor del vehículo medida desde el punto de intersección de las líneas medias de la carretera y de la vía, a lo largo de la vía.
+La visibilidad del paso a nivel es la visibilidad desde la carretera hacia la línea de la vía.
+- La visibilidad del paso a nivel de 8 m es la distancia medida a lo largo de la vía hasta un objeto situado a 1,1 metros de altura sobre el canto del raíl, cuando la altura del punto ocular sobre la superficie de la carretera es de 1,1 m y la distancia al raíl más próximo es de 8 m.
+- La visibilidad del paso a nivel correspondiente a la distancia de parada es la distancia medida a lo largo de la vía hasta un objeto situado a 1,1 m de altura sobre el canto del raíl, cuando la altura del punto ocular sobre la superficie de la carretera es de 1,1 m y la distancia desde la señal de cruce es la distancia de visibilidad de parada correspondiente a la velocidad utilizada en la carretera.
+La visibilidad de parada es la distancia a partir de la cual el conductor del vehículo puede ver un obstáculo en la carretera de modo que pueda detener su vehículo, que circula a la velocidad de conducción, antes de dicho obstáculo en condiciones normales.
+Zona de visibilidad
+Zona formada por dos triángulos de visibilidad en cada cuadrante del paso a nivel, en cuyo interior no debe haber obstáculos que dificulten la visibilidad. Los triángulos de visibilidad son zonas delimitadas por las líneas que unen los puntos finales de la carretera, del ferrocarril y de las visibilidades del paso a nivel mencionadas anteriormente.
+Medida de protección
+Medida aplicada a las condiciones del paso a nivel, a la carretera o a la vía, cuyo objetivo es mejorar la seguridad vial en los pasos a nivel.
+
+
+## Página 26
+
+En el apartado 9.1313 Requisitos de visibilidad figuraban, entre otros:
+La zona de visibilidad en el paso a nivel de la carretera y la vía se muestra en la figura 9.131:3. En la tabla asociada a la figura se indica la longitud L del lado del triángulo de visibilidad correspondiente a la distancia de parada en el lado de la carretera para carreteras de diferentes categorías. En las calles y carreteras de planeamiento, L se elige en función de la naturaleza de la vía y de la importancia del tráfico; en general, pueden utilizarse los mismos valores que en las carreteras regionales y colectoras.
+En las carreteras agrícolas y en las carreteras privadas que dan servicio a una sola vivienda se exige únicamente una visibilidad de 8 metros, y en las demás carreteras una visibilidad de 8 metros y una visibilidad correspondiente a la distancia de parada.
+Si los requisitos de visibilidad anteriores no pueden cumplirse con costes razonables, deberán instalarse dispositivos de seguridad en el paso a nivel.
+Categoría de carretera 
+Longitud L [m] del lado del triángulo de visibilidad en el lado de la carretera 
+Carreteras principales y troncales 
+65 
+Carreteras regionales      TMD ≥ 100 veh/día 
+50 
+y colectoras               TMD < 100 veh/día 
+40 
+Carreteras secundarias y carreteras privadas con importancia vial 
+30 
+Carreteras privadas con poco tráfico 
+20 
+Carreteras forestales 
+20 
+Carreteras agrícolas 
+- 
+L = Longitud del lado del triángulo de visibilidad en el lado de la carretera
+v = Velocidad máxima utilizada en la vía en el punto en cuestión (km/h)
+n = Distancia entre las líneas medias de las vías exteriores (m) medida a lo largo de la carretera
+Figura 9.131:3 Zona de visibilidad en el paso a nivel de la carretera y el ferrocarril. Altura del punto ocular 1,1 m sobre la superficie de la carretera y altura del objeto 1,1 m sobre el canto del raíl.
+
+## Página 27
+
+En la sección 9.1351 Tieliikennemerkit se indicaba, entre otras cosas: 
+La limitación de velocidad para el tráfico rodado puede establecerse en un paso a nivel cuando se considere necesario, por ejemplo, cuando las velocidades utilizadas en el paso a nivel superen los 50 km/h según las mediciones. Si la zona de visión indicada en la sección 9.1313 no puede despejarse con costes razonables, la zona de visión requerida puede reducirse en la dirección de la carretera estableciendo una limitación de velocidad en la carretera. 
+En los pasos a nivel equipados con dispositivos de seguridad se utiliza una limitación de velocidad de 50 km/h. En un paso a nivel sin dispositivo de seguridad puede utilizarse la limitación de velocidad de la siguiente manera: 
+- 
+en carreteras públicas y en carreteras privadas de importancia para el tráfico, la limitación de velocidad es de 30 km/h 
+- 
+si en el paso a nivel hay una señal STOP, la limitación de velocidad es de 50 km/h. 
+Las señales de limitación de velocidad se colocan a una distancia de 200 m de la señal de paso a nivel. La limitación de velocidad puntual del paso a nivel se marca como finalizada colocando una señal que indique la limitación general o la limitación de velocidad específica de la carretera después del paso a nivel, en el límite de la zona de visión. 
+Si la velocidad máxima permitida en otras partes de la carretera es mayor que en el paso a nivel, la limitación de velocidad debe escalonarse. En el escalonamiento se utilizan los valores de limitación de velocidad de 80, 50 y 30 km/h. Las señales de limitación de velocidad se colocan cada 200 m. 
+En la sección 9.141 Turvaamistoimenpiteet se indicaba, entre otras cosas: 
+El peligro en los pasos a nivel entre la vía y la carretera puede reducirse, entre otras cosas, mediante las siguientes medidas: 
+Reducción del número de cruces a nivel: 
+- 
+eliminación de pasos a nivel innecesarios 
+- 
+eliminación de un paso a nivel mediante reorganización de la carretera 
+- 
+construcción de un paso a nivel separado 
+- 
+reducción de la necesidad de cruzar la vía mediante reorganización de parcelas 
+- 
+reducción de la necesidad de cruzar la vía mediante la planificación del uso del suelo. 
+Instalación o mejora de dispositivos de seguridad: 
+- 
+dispositivos de barrera (barreras semiautomáticas, barreras automáticas, barreras cerradas con llave) 
+- 
+semáforos y señales de vía interconectados 
+- 
+dispositivos de aviso luminoso y sonoro 
+- 
+dispositivos de aviso acústico 
+- 
+señales de silbato y avisos de silbato. 
+Mejora de las condiciones de la carretera en el entorno del paso a nivel: 
+- 
+mejora del ángulo de cruce 
+- 
+suavización de la pendiente longitudinal de la carretera 
+- 
+mejora de la visibilidad 
+- 
+mejora de la curva pronunciada 
+- 
+mejora de la estructura de la carretera 
+- 
+traslado de los accesos más lejos del paso a nivel 
+- 
+mejora de la sección transversal de la carretera 
+- 
+construcción de un carril independiente para el tráfico ligero en el paso a nivel. 
+Otras medidas: 
+- 
+restricciones de uso de los pasos a nivel 
+- 
+aumento de la información de advertencia de peligro 
+- 
+mejora de la visibilidad de las señales de advertencia 
+
+
+## Página 28
+
+- 
+limitación de velocidad local 
+- 
+señal de tráfico que indica la obligación de detenerse 
+- 
+vallado de la vía para impedir los cruces fuera del paso a nivel. 
+## 1.10 
+### Condiciones técnicas de suministro de los dispositivos de seguridad de paso a nivel 
+Las condiciones técnicas de suministro de los dispositivos de seguridad de paso a nivel (1035/732/99, 27.7.1999) se aplican a la adquisición, inspección e instalación de los equipos. 
+En la sección 2.1.2 Varoitus se establece que la advertencia del tren se da a quienes circulan por la carretera mediante las luces rojas parpadeantes rápidas de las señales de carretera Tl, T2, etc., y mediante una señal sonora simultánea. Después del tiempo de aviso previo necesario (7–9 s), las barreras comienzan a descender. El tiempo de descenso es de aproximadamente 8 s. Al mismo tiempo, se enciende una luz parpadeante en las unidades luminosas del brazo de la barrera. Una vez descendidas las barreras, si se desea, también puede detenerse el sonido de la campana de advertencia. 
+En la sección 2.2 Tasoristeysturvalaitteiden toimintavaatimukset se exige, entre otras cosas, que la advertencia comience, con las velocidades máximas de los trenes, aproximadamente 20–30 segundos antes de la llegada del tren al paso, y que la advertencia termine cuando el tren haya cruzado completamente el paso a nivel. 
+En la sección 2.4 Puolipuomilaitos se ha definido el funcionamiento de la barrera semiautomática y la estructura de la barrera. Las barreras semiautomáticas impiden el acceso a la vía desde el carril derecho, pero no impiden la salida de la vía. A las barreras semiautomáticas se les incorporan siempre también señales luminosas y campanas de advertencia. La luz de la señal luminosa se pone en rojo cuando comienza la advertencia y las campanas comienzan a sonar. El descenso de las barreras comienza después del llamado tiempo de aviso previo y al mismo tiempo se enciende una luz parpadeante en las unidades luminosas del brazo de la barrera. El tiempo de descenso de la barrera es de aproximadamente 8 s y el tiempo de aviso previo de 7–9 s. El sonido de las campanas se detiene cuando la parte delantera del tren llega al paso a nivel. Las barreras semiautomáticas comienzan a subir cuando el tren deja el tramo de carretera. Las señales luminosas y las luces del brazo de la barrera permanecen en rojo hasta que las barreras, al subir, alcanzan un ángulo de aproximadamente 60 grados. 
+En el brazo de la barrera se instalan unidades luminosas que muestran hacia la carretera una luz roja parpadeante cuando las barreras están en movimiento o descendidas. En el extremo del brazo de la barrera se instala además una unidad luminosa que muestra una luz amarilla parpadeante hacia la vía cuando las barreras están descendidas. El brazo de la barrera se recubre con una película reflectante con franjas alternas rojas y amarillas de 500 mm de ancho. La barrera semiautomática se fabrica de tal manera que no cause una gran resistencia al vehículo que colisiona con ella, sino que ceda, por ejemplo, cuando se rompe el pasador de rotura. El dispositivo de barrera tiene un acoplamiento de fricción que patina si la barrera ha descendido, por ejemplo, sobre un vehículo. 
+## 1.11 
+### Instrucciones generales sobre el uso de señales de tráfico 
+Las Instrucciones generales sobre el uso de señales de tráfico (2003) de la Dirección de Carreteras (Agencia de Transporte) contienen instrucciones de uso y ubicación de las señales de tráfico conforme al reglamento de tráfico rodado, así como de los paneles de texto más comunes y de otros dispositivos de control de tráfico reforzados. La instrucción está destinada a utilizarse para la planificación del uso de señales de tráfico en carreteras públicas, pero puede aplicarse también a las calles. 
+
+
+## Página 29
+
+En la instrucción se determinan, entre otras cosas, las distancias de las señales de tráfico a la vía más próxima de la siguiente manera: 
+- 
+señales que advierten de un paso a nivel ferroviario a 150–250 m antes de la vía o de las barreras 
+- 
+la señal de aproximación a un paso a nivel ferroviario 173 se coloca debajo de la señal 171 o 172 en el mismo poste, la señal 174 a aproximadamente 2/3 de la distancia y la señal 175 a aproximadamente 1/3 de la distancia del paso a nivel 
+- 
+la señal de paso a nivel ferroviario se coloca a una distancia de 5–7 metros del riel más próximo. 
+La señal de parada obligatoria (STOP) puede utilizarse también en pasos a nivel ferroviarios sin dispositivos de seguridad o en los que los dispositivos de seguridad hayan sido retirados temporalmente del servicio. La señal puede utilizarse en carreteras públicas principalmente en los siguientes casos: 
+- 
+al aproximarse al paso a nivel no hay visibilidad suficiente, pero la visibilidad en el paso a nivel es suficiente 
+- 
+en el paso a nivel se han producido accidentes o se dan situaciones de peligro 
+- 
+el ángulo de cruce es oblicuo (menor que 58,5°) 
+- 
+debido a las condiciones locales es difícil detectar el tren en aproximación sin detenerse, y el propio conductor es consciente de la necesidad de detenerse. 
+La frecuencia del tráfico ferroviario y el bajo tráfico de la carretera no son por sí solos un motivo para el uso de la señal. 
+La señal no se utiliza si la pendiente longitudinal de la carretera es tan pronunciada que la puesta en marcha de los vehículos pesados se ve esencialmente dificultada. 
+## 1.12 
+### Limitaciones de velocidad 
+La instrucción de la Dirección de Carreteras (Agencia de Transporte) Limitaciones de velocidad (2009) contiene los principios para el establecimiento de limitaciones de velocidad en carreteras. 
+Según la instrucción, al aproximarse a un paso a nivel ferroviario, la limitación de velocidad es de máximo 60 km/h en un paso a nivel vigilado y de 50 km/h en uno no vigilado. La limitación puntual en la dirección de aproximación se extiende para que comience antes de las señales de advertencia del paso a nivel. 
+## 1.13 
+### Transportes escolares 
+En el reglamento del Ministerio de Transportes y Comunicaciones sobre la carga y las disposiciones de seguridad de los transportes escolares y de atención infantil (553/2006) se establece la seguridad del transporte escolar. En cuanto a la ruta, el reglamento solo dispone que la ruta de conducción debe planificarse de manera que el alumno no tenga que cruzar la calzada innecesariamente. 
+Según la Guía del transporte escolar (Opetushallitus ym 2010), las rutas del transporte escolar son definidas por el contratante, el operador del transporte o las partes conjuntamente. El conductor no tiene derecho a modificar la ruta sin las instrucciones del contratante. 
+El programa Koululiitu (Ramboll Finland Oy 2010) está destinado a ser una herramienta más en la evaluación de los tramos de carretera clasificados como peligrosos. En Koululiitu se utilizan los datos de características de la red viaria y del tráfico disponibles en el registro de carreteras de la Dirección de Carreteras. Koululiitu no tiene en cuenta 
+
+
+## Página 30
+
+la influencia de los pasos a nivel ferroviarios en la seguridad de la ruta escolar, ni estos datos se encuentran en la información del registro de carreteras. Si es necesario, la seguridad de los pasos a nivel debe evaluarse caso por caso teniendo en cuenta las condiciones locales.  
+
+
+## Página 31
+
+## 2 
+## EXAMEN DE LOS PLANES Y ESTUDIOS 
+## 2.1 
+### Planes 
+## 2.1.1 
+### Programa de seguridad de pasos a nivel del Ministerio de Transportes y Comunicaciones (2001) 
+El grupo de trabajo designado por el Ministerio de Transportes y Comunicaciones elaboró en 2001 un programa de seguridad de pasos a nivel, en el que se establece que la eliminación de pasos a nivel previene eficazmente los accidentes en pasos a nivel. Sin embargo, no es posible eliminar los pasos a nivel de toda la red ferroviaria ni siquiera a largo plazo. Por ello se necesitan criterios en base a los cuales se seleccionen las secciones ferroviarias de las que se eliminarán los pasos a nivel. Debido a la escasez de recursos, también es necesario poder determinar el orden de eliminación de los pasos a nivel por sección ferroviaria. El grupo de trabajo ha utilizado como criterios la peligrosidad de los cruces, los objetivos de velocidad del tráfico de pasajeros, el transporte de sustancias peligrosas y los beneficios socioeconómicos. 
+En el programa de eliminación se propusieron para eliminar durante los años 2002–2006 los pasos a nivel clasificados como peligrosos, los pasos a nivel de ciertas secciones ferroviarias muy transitadas y parte de los cruces del tráfico de pasajeros de alta velocidad. El orden y el calendario de eliminación de los pasos a nivel se propusieron en el programa de seguridad. 
+La implementación de las medidas de protección de pasos a nivel3 en toda la red ferroviaria se consideró, junto con la eliminación de pasos a nivel, una tarea importante y urgente. El énfasis principal de las medidas se centró en la eliminación de los obstáculos a la visibilidad en los cruces y en la adición de equipos de seguridad. Se propuso aumentar el volumen de las medidas de seguridad a cinco veces. 
+El programa de seguridad de pasos a nivel debía someterse a revisión aproximadamente cinco años después. 
+## 2.1.2 
+### Estrategia de protección y eliminación de pasos a nivel ferroviarios 2020 (2002) 
+VTT (Kallberg & Hytönen 2002) elaboró en los años 2000–2002 por encargo del Centro de Gestión Ferroviaria la estrategia de protección y eliminación de pasos a nivel. El informe se basó en las inspecciones de pasos a nivel realizadas hasta el año 2002, en las bases de datos relacionadas con los pasos a nivel y en las estadísticas de accidentes. Como recomendaciones se propusieron la eliminación y la protección de pasos a nivel en el orden de importancia presentado en el informe. 
+### Eliminación de pasos a nivel por sección ferroviaria 
+Según el informe, desde el punto de vista de la seguridad no existe un beneficio especial en eliminar los pasos a nivel por sección ferroviaria. La excepción son las secciones ferroviarias en las que un accidente en un paso a nivel puede causar daños personales o medioambientales muy grandes. Tales son las secciones ferroviarias con transporte regular de sustancias peligrosas. 
+3  Con medida de protección se entiende en este contexto una medida relativa a las condiciones del paso a nivel, dirigida a la carretera o a la vía, cuyo objetivo es mejorar la seguridad del tráfico en el paso a nivel.
+
+## Página 32
+
+La eliminación de pasos a nivel por tramo de vía está justificada especialmente en los tramos ferroviarios en los que su eliminación permite aumentar significativamente la velocidad de los trenes. El beneficio se concreta en el ahorro de tiempo y en la mejora de la competitividad del transporte ferroviario. Los tramos sin pasos a nivel eran entonces ya Jämsä–Jyväskylä, Tampere–Seinäjoki y Karjaa–Turku. En el informe se plantearon dos grupos de tramos ferroviarios en los que deberían eliminarse por completo los pasos a nivel. Para el primer grupo de tramos se propuso eliminar los pasos a nivel antes de 2007 y para el segundo grupo de tramos antes de 2020.
+Tabla 1. Tramos ferroviarios previstos sin pasos a nivel mencionados en la estrategia de protección y eliminación.
+Tabell 1.
+Banavsnitt som enligt strategin för säkerhetsfunktioner och rivning inte ska ha plankorsningar.
+Table 1.
+Sections of line with no level crossings according to the securing and removal strategy.
+Tramo
+Grupo
+Número de pasos a nivel (fecha límite de eliminación)
+Nota
+(estado en junio de 20111)
+2000)
+Helsinki–Tampere
+I (2003)
+8
+1
+vía para tráfico ligero, instalación de barrera semiautomática (ppl)
+Vainikkala–Kouvola–
+I (2003)
+23
+2
+ppl
+Kotka/Hamina
+Tampere–Orivesi
+I (2004)
+2
+0
+Riihimäki–Kouvola
+I (2006)
+38
+0
+Luumäki–Imatra
+I (2006)
+11
+3
+ppl
+Helsinki–Turku
+I (2007)
+8
+4
+3 ppl, 1 sin dispositivo de aviso
+Seinäjoki–Oulu
+II (2020)
+105
+63
+proyecto ferroviario en curso
+Kouvola–Pieksämäki
+II (2020)
+57
+22
+1 vía para tráfico ligero
+Pieksämäki–Kuopio
+II (2020)
+28
+9
+Turku–Toijala
+II (2020)
+90
+49
+1 vía para tráfico ligero
+Imatra–Joensuu
+II (2020)
+114
+26
+1 vía para tráfico ligero
+Jyväskylä–Pieksämäki
+II (2020)
+29
+16
+1 vía para tráfico ligero
+Tampere–Pori
+II (2020)
+71
+54
+3 vías para tráfico ligero
+Orivesi–Jämsä
+II (2020)
+13
+4
+Total
+I
+90
+10
+II
+507
+247
+1) Fuente: www.tasoristeys.fi. En las cifras no se incluyen los andenes ni las vías de mantenimiento.
+En el año 2000, en los tramos del primer grupo había 90 pasos a nivel, por lo que en diez años la situación ha mejorado considerablemente.
+En los tramos del segundo grupo, los pasos a nivel deberían eliminarse antes de 2020. Uno de los objetivos de la eliminación de pasos a nivel es elevar el nivel de velocidad de la vía a 160 km/h. Antes de 2010, el objetivo era eliminar los pasos a nivel de los tramos largos y continuos. En el transcurso de diez años, el número de pasos a nivel de los tramos del segundo grupo se ha reducido aproximadamente a la mitad.
+
+
+## Página 33
+
+En el tramo Seinäjoki–Oulu se está llevando a cabo un proyecto ferroviario, en cuyo marco se eliminarán todos los pasos a nivel del tramo antes de 2015.
+Además de los tramos del segundo grupo, se consideró necesario eliminar todos los pasos a nivel en el tramo Kerava–Sköldvik. El motivo no era el objetivo de aumento de velocidad, sino la intensidad del transporte de sustancias peligrosas.
+### Protección de los pasos a nivel por tramo
+En el informe también se plantean medidas de protección de los pasos a nivel para aquellos tramos en los que no podía presumirse que los pasos a nivel se eliminarían antes de 2020. Serían los siguientes:
+- Karjaa–Hanko
+- Joensuu–Viinijärvi
+- Turku–Uusikaupunki
+- Kokemäki–Rauma
+- Oulu–(Kemi–)Rovaniemi.
+### Mejora de la seguridad de los pasos a nivel individuales
+Desde el punto de vista de la seguridad en los pasos a nivel, el punto de partida debería ser dirigir las medidas de mejora principalmente a aquellos pasos a nivel individuales en los que el valor esperado del número de accidentes es mayor. Como método más eficaz para evaluar la seguridad de un paso a nivel, en el informe se menciona la combinación de información sobre accidentes y condiciones. Sin embargo, alcanzar la precisión suficiente resulta difícil, dado que los datos sobre las condiciones de los pasos a nivel y sobre los accidentes son demasiado incompletos.
+VTT inició la recopilación sistemática de datos sobre las condiciones de los pasos a nivel en 1999 por encargo de RHK. En 2002, al completarse el informe, se habían realizado estos inventarios/inspecciones de seguridad en siete tramos ferroviarios, con un total de unos 400 pasos a nivel.
+Para mejorar la seguridad de los pasos a nivel individuales, se propusieron las siguientes medidas:
+- Deberían continuarse los inventarios de pasos a nivel de los tramos iniciados. La cantidad anual de inspecciones podría ser de 300–500 pasos a nivel. En la inspección deberían evaluarse las medidas urgentes exigidas por los requisitos mínimos y cartografiarse las medidas de mejora de la seguridad a más largo plazo.
+- En los pasos a nivel no vigilados en los que no se llegue a realizar la inspección de seguridad mencionada en el punto anterior, debería medirse urgentemente la visibilidad.
+- Debería desarrollarse el contenido y el mantenimiento de los registros de pasos a nivel y de accidentes de modo que se disponga de datos con los que poder determinar la seguridad de los pasos a nivel individuales.
+### Eficacia del programa de protección
+El número de pasos a nivel de las líneas principales pasaría de 3 600 en el año 2000 a 1 600 en 2020. El número de pasos a nivel sin dispositivo de aviso en las líneas principales pasaría de
+
+
+## Página 34
+
+2 900 a 500. Se supone que la estrategia tendrá un efecto en la seguridad que reduciría el número de accidentes en pasos a nivel a la mitad respecto al nivel del inicio de la década de 2000, aunque se preveía que el volumen de tráfico aumentara incluso un 80 % antes de 2020.
+### Diversos medios para mejorar la seguridad de los pasos a nivel
+El informe contiene una lista de los distintos medios posibles de protección de los pasos a nivel (elaborada originalmente por Pajunen y Katajisto). Además de la eliminación del paso a nivel, pueden dividirse de forma aproximada en los siguientes grupos:
+- dispositivos de aviso activos
+- medidas dirigidas a la carretera
+- señales y marcas
+- normas y reglamentos y la supervisión de su cumplimiento
+- divulgación y formación
+- otras medidas.
+La lista actualizada de la comisión de investigación figura en el anexo 5.
+## 2.1.3
+### Tráfico ferroviario 2030 – Plan a largo plazo del mantenimiento de la vía (2006)
+El plan Tráfico ferroviario 2030 del Centro de Gestión Ferroviaria (Ratahallintokeskus) define los puntos de partida, los desafíos, la orientación de los objetivos y la necesidad de medidas y financiación del mantenimiento de la vía desde la situación actual hasta 2030. El plan sienta las bases para una planificación y programación más detallada del mantenimiento de la vía en los próximos años. El plan sirve también como uno de los puntos de partida para la elaboración de programas de inversión de política de corredores de transporte, programas regionales y sus planes de ejecución, así como para la elaboración de planes de sistemas de transporte regionales y para la ordenación territorial de las regiones y municipios.
+Como desafíos del transporte ferroviario y del mantenimiento de la vía se señalan los siguientes:
+- el nivel de servicio debería poder elevarse continuamente para satisfacer las exigencias del mercado
+- la mejora del nivel de servicio del transporte de pasajeros se logra principalmente mediante grandes proyectos que aumenten el nivel de velocidad
+- en el transporte de mercancías no se han podido implementar rutas que permitan ejes de 25 toneladas en el calendario exigido por el uso eficiente del material rodante
+- desde el punto de vista de la seguridad y de los impactos ambientales de todo el sistema de transporte, es deseable que la cuota de mercado del transporte ferroviario sea lo más alta posible tanto en mercancías como en pasajeros
+- en Finlandia, en el ámbito de la seguridad, el problema del transporte ferroviario ha sido un mayor número de accidentes en pasos a nivel que en otros países
+- en el mantenimiento de la vía se han empleado, por ejemplo en comparación con otros países nórdicos, relativamente menos fondos, por lo que se han acumulado las necesidades de reparación básica de las vías.
+En el plan, la red ferroviaria, las estaciones de clasificación y los terminales se han clasificado en distintas categorías, y para cada categoría se han definido niveles objetivo de servicio y equipamiento. La red troncal de vías no tiene pasos a nivel y el nivel de velocidad del transporte de pasajeros es de 160–200 km/h. En el transporte de
+
+
+## Página 35
+
+mercancías, la red de transporte principal tiene un eje de 25 toneladas a un nivel de velocidad de 80–100 km/h.
+En las demás vías de importancia nacional se ofrece un buen nivel de servicio. Esto implica exigencias tanto para el transporte de pasajeros como para el de mercancías. De la red ferroviaria se exige un buen estado y pasos a nivel seguros.
+### En las demás vías se ofrece un nivel de calidad acorde con la demanda.
+Las vías de tráfico reducido pertenecen a la categoría «otras vías» mencionada anteriormente. Sobre su futuro se ha realizado un estudio separado y se ha mantenido un diálogo con las partes interesadas. En base al estudio, se ha presentado una propuesta de mantener toda la red ferroviaria en explotación para preservar la funcionalidad del sistema de transporte y el atractivo de las regiones. La propuesta incluye también la supresión de determinados tramos de vía de menor uso.
+Sin embargo, el futuro de las vías de tráfico reducido depende directamente de la suficiencia de la financiación del mantenimiento de la vía. En las vías de tráfico reducido se realizan inversiones de sustitución en el orden determinado por su antigüedad, siempre que la financiación del mantenimiento básico de la vía sea suficiente.
+Como ejemplo de las perspectivas de futuro de las vías de tráfico reducido, en la tabla 2 se examinan tres tramos ferroviarios.
+Tabla 2. Estimación del futuro de tres tramos ferroviarios de tráfico reducido en el plan de 2006.
+Tabell 2.
+Bedömning av framtiden för tre banavsnitt med liten trafik i planen från 2006.
+Table 2.
+Prospective future of three sections of line with low traffic volumes presented in the 2006 plan.
+Perspectivas de futuro
+Seinäjoki–
+Lahti–
+Lahti–
+Loviisa1)
+Kaskinen
+Heinola
+sí
+sí
+sí
+El tramo pertenece a la categoría de otras vías (en explotación); para el estado objetivo de 2030 no se han fijado objetivos de velocidad ni de carga
+El tramo requiere inversiones antes de 2015
+sí
+sí
+sí
+no
+sí
+sí
+RHK ha propuesto en el plan una inversión de sustitución antes de 2015
+Efecto en el tramo de la insuficiencia de la financiación del mantenimiento básico de la vía
+tráfico
+tráfico
+tráfico
+se
+se
+se
+suspende
+suspende
+suspende
+1) Del tramo Lahti–Loviisan satama se ha utilizado en esta descripción la forma Lahti–Loviisa.
+## 2.1.4
+### Estrategia de pasos a nivel 2007
+Según la estrategia de pasos a nivel aprobada en 2007 por el Centro de Gestión Ferroviaria (Ratahallintokeskus, actualmente Liikennevirasto), el objetivo más importante del gestor de la vía relacionado con los pasos a nivel es mejorar la seguridad en los pasos a nivel. Los medios son la eliminación de los pasos a nivel y la mejora de sus condiciones.
+El objetivo principal es eliminar todos los pasos a nivel de la red troncal de alta velocidad y los demás pasos a nivel calificados como peligrosos del resto de la red ferroviaria. La red troncal de alta
+
+## Página 36
+
+El objetivo de velocidad de la vía de Koverko es de al menos 160 km/h, lo que exige la eliminación de los pasos a nivel. Se consideran pasos a nivel peligrosos los estadísticamente más peligrosos y los que en la inventariación se han determinado como peligrosos por sus condiciones de terreno. La probabilidad de accidente de un paso a nivel estadísticamente peligroso se calcula con el índice de condiciones de RATO.
+
+En segundo lugar, se eliminan los pasos a nivel de la red troncal de tráfico pesado. Simultámente, se reduce el número de pasos a nivel en el resto de la red ferroviaria en el marco de proyectos de inversión y como proyectos propios en colaboración con los municipios y la Dirección de Carreteras (Tiehallinto).
+
+La seguridad en los pasos a nivel se mejora también mediante la mejora de las condiciones de los mismos. Como medida continua está el mantenimiento de las visibilidades. Se corrigen y mejoran las superficies de espera y se mejora la visibilidad del paso a nivel, entre otras medidas, mediante la adición de señales de dirección del tráfico por carretera. Las medidas abarcan toda la red ferroviaria. Se añaden dispositivos de aviso en la red troncal de tráfico pesado y en el resto de la red ferroviaria, teniendo en cuenta especialmente los tramos por los que circula tráfico de pasajeros con material de motor o por los que se transportan sustancias peligrosas.
+
+Además, en la estrategia se señala, entre otras cosas, lo siguiente:
+
+- El Centro de Gestión Ferroviaria (RHK) realiza actividades de investigación y desarrollo relacionadas con los pasos a nivel. La actividad de investigación relacionada con los pasos a nivel se ha centrado en el comportamiento de los usuarios de la carretera y en el estudio de las características técnicas de los pasos a nivel. La actividad de desarrollo se ha relacionado con el desarrollo de nuevos tipos de dispositivos y sistemas de aviso.
+
+- Las estadísticas de pasos a nivel se han mantenido en dos sistemas de registro distintos. El registro de pasos a nivel mantenido por Oy VR-Rata Ab (actualmente VR Track Oy) contiene los datos técnicos de los pasos a nivel. Los datos de visibilidad, de carretera, de inspección de seguridad y de mantenimiento se mantienen en la base de datos pública de pasos a nivel (www.tasoristeys.fi). El objetivo es la unificación de estos sistemas en el marco de la actualización de los registros.
+
+- La estadística de accidentes en pasos a nivel se incorporará al sistema de gestión de seguridad de RHK.
+
+En la estrategia de pasos a nivel se ha registrado la situación del año 2007 de los pasos a nivel estadísticamente más peligrosos. En el momento de la finalización de la estrategia, la peligrosidad de los pasos a nivel se evaluó con el índice de condiciones definido por RAMO, en el que las variables eran el dispositivo de aviso, la velocidad máxima permitida del tren, el número de vías, el tráfico medio diario de la carretera (KVL), el límite de velocidad de la carretera, el ángulo entre la carretera y la vía, la pendiente de la superficie de espera, la cantidad de tráfico ferroviario y las visibilidades. Los índices de condiciones y la situación de eliminación de estos pasos a nivel se presentan en la tabla 3.
+
+
+## Página 37
+
+Tabla 3. Pasos a nivel estadísticamente más peligrosos en 2007.
+Tabell 3.
+De statistiskt farligaste plankorsningarna 2007.
+Table 3.
+The statistically most dangerous level crossings in 2007.
+
+| Paso a nivel | Tramo | Índice de condiciones1) | Situación verano 20112) | Accidentes 2002–103) |
+|---|---|---|---|---|
+| Tampereentie | Toijala–Turku | 25,5 | restante | 2 |
+| Ruutikellarintie | Seinäjoki–Vaasa | 19,1 | restante | 2 |
+| Hyttimestarintie | Pasila–Karjaa | 18,8 | eliminado | 1 |
+| Pappila | Seinäjoki–Vaasa | 18,1 | restante | 0 |
+| Wahlforssinkatu | Joensuu–Viinijärvi | 10,1 | restante | 0 |
+| Härskinniemi | Parikkala–Joensuu | 9,9 | eliminado | 0 |
+| Murto | Seinäjoki–Vaasa | 9,6 | restante | 0 |
+| Peipohja as. | Kokemäki–Pori | 7,2 | restante | 0 |
+| Ilottula | Luumäki–Parikkala | 6,7 | eliminado | 0 |
+| Maksjoentie | Hyvinkää–Karjaa | 6,4 | restante | 0 |
+| Matelanperä | Ylivieska–Oulu | 6,3 | restante4) | 0 |
+| Jukolankatu | Joensuu–Uimaharju | 6,1 | restante | 0 |
+| Pikiruukki | Seinäjoki–Vaasa | 5,9 | restante | 0 |
+
+Fuente: 1) Estrategia de pasos a nivel 2007, 2) www.tasoristeys.fi, 3) Autoridad de Transporte (Liikennevirasto).
+4) El paso a nivel se eliminará antes de 2015 durante el proyecto de la vía Seinäjoki–Oulu.
+
+## 2.1.5
+### Planes de seguridad del transporte
+
+El Ministerio de Transporte y Comunicaciones tiene en preparación el Plan Nacional de Seguridad del Transporte 2011–2014. En el informe de fondo del plan (Ministerio de Transporte y Comunicaciones 2010) se presentan las bases de la planificación y una visión general del desarrollo de la seguridad del transporte y del cambio del entorno operativo. Los documentos que guían la planificación son la decisión de principio del Consejo de Estado sobre la mejora de la seguridad del transporte, el Programa de Seguridad Interior y las directrices estratégicas de política de transporte del Ministerio de Transporte y Comunicaciones.
+
+La seguridad del transporte es transversal y afecta a diferentes ámbitos de la administración. Entre los programas y estrategias elaborados en los distintos ámbitos de la administración se encuentran los siguientes:
+
+- Directrices estratégicas de política de transporte del Ministerio de Transporte y Comunicaciones: La seguridad se ha establecido como el factor de calidad más importante de los viajes y los transportes.
+
+- Estrategia Nacional de Tráfico Inteligente: Por tráfico inteligente se entiende el uso de la tecnología de la información y las comunicaciones en beneficio del sistema de transporte. El tráfico inteligente, entre otras funciones, ayuda y guía para elegir y optimizar la forma más ventajosa de desplazarse desde el punto de vista del conjunto. En un sistema de transporte inteligente, por ejemplo, el conductor de un vehículo recibe información sobre las condiciones.
+
+- Objetivos nacionales relativos al uso del territorio: Los objetivos ponen especial énfasis en la cohesión de las estructuras sociales y en la adecuación del sistema de transporte y la ordenación del territorio.
+
+- Programa de Seguridad Interior: Uno de los ámbitos de desarrollo del programa es el desarrollo del sistema de transporte en su conjunto, en el que en las soluciones de ordenación del territorio y la planificación urbanística deberían tenerse en cuenta las necesidades de seguridad del transporte y la promoción del transporte público.
+
+
+## Página 38
+
+El Consejo de Estado ha llevado a cabo un trabajo planificado de seguridad del transporte desde 1993 mediante sus decisiones de principio, la más reciente de las cuales es de 2006. A finales de 2008, la mayoría (62 %) de las medidas presentadas en la decisión de principio ya se habían implementado y aproximadamente un tercio de las medidas se habían iniciado. Como medida totalmente no iniciada, el informe menciona, entre otras, el proyecto temático relativo a la eliminación de pasos a nivel.
+
+El Consejo de Estado presentó al Parlamento en 2008 una declaración sobre la política de transporte. En la declaración se señala, entre otras cosas, que los pasos a nivel se han eliminado dentro de los límites que permiten los recursos, lo que sin embargo no ha sido suficiente.
+
+Además del Plan Nacional de Seguridad del Transporte, cada centro ELY elabora un plan regional. También varios municipios han elaborado sus propios planes, ya sea individualmente o en colaboración comarcal.
+
+## 2.2
+### Estudios e investigaciones
+
+En esta sección se citan las investigaciones y estudios relacionados con la seguridad en los pasos a nivel publicados en Finlandia desde 2002.
+
+## 2.2.1
+### Seguridad de los pasos a nivel sin vigilancia (2002)
+
+En el estudio encargado por RHK al VTT (Pajunen 2002) se examinó la seguridad de los pasos a nivel sin vigilancia sobre la base de las estadísticas de accidentes de VR y VALT y de algunos datos internacionales. En el informe se presentaron cuestiones relacionadas con la seguridad de los pasos a nivel sin vigilancia y se comparó la situación de seguridad en los pasos a nivel de Finlandia, entre otros, con la situación de Irlanda.
+
+El material contenía 505 accidentes ocurridos en pasos a nivel sin vigilancia en la década de 1990. De estos, 221 (46 %) causaron daños personales y 79 (16 %) muertes. Ocurrieron especialmente muchos accidentes en el tramo Seinäjoki–Kaskinen.
+
+En el informe se presentaron 15 recomendaciones de carácter general para la mejora de la seguridad en los pasos a nivel:
+
+- desarrollo de la estadística de accidentes y su contenido, así como del método de cálculo del riesgo
+- eliminación de pasos a nivel innecesarios
+- instalación de dispositivos de aviso
+- mejora de la visibilidad del paso a nivel (por ejemplo, portal)
+- deben asignarse identificadores a los pasos a nivel y las señales de tráfico deben repararse y trasladarse a los lugares correctos
+- inspección y mantenimiento de las visibilidades, señalización en la carretera de un tramo de visibilidad de longitud suficiente y desarrollo de los requisitos de visibilidad
+- investigación más detallada de la seguridad de los pasos a nivel equipados con señales STOP y de los factores que la influyen
+- reducción de la velocidad del tráfico por carretera al aproximarse a un paso a nivel (límites de velocidad, bandas rugosas)
+- experimentación y desarrollo técnico de las luces de paso a nivel
+
+
+## Página 39
+
+- posibilidad de confirmar por teléfono la seguridad del cruce para vehículos largos/pesados
+- experimentación con barreras operadas por los usuarios de la carretera en pasos a nivel de uso poco frecuente
+- mejora de la visibilidad de la locomotora (luces, colores, señales acústicas)
+- vigilancia por cámaras realizada por la policía en los pasos a nivel
+- divulgación general e información sobre el comportamiento en los pasos a nivel en la formación de las autoescuelas
+- mapeo de las percepciones de riesgo de los usuarios de los pasos a nivel.
+
+## 2.2.2
+### Seguridad de los pasos a nivel con barrera (2002)
+
+El objetivo del estudio encargado por RHK al VTT (Hytönen 2002) fue aclarar la seguridad de los pasos a nivel con barrera y las características típicas relacionadas con los accidentes, entre otros medios, con la ayuda de los datos de VALT y de los datos de accidentes en pasos a nivel de VR.
+
+El material contenía 77 accidentes ocurridos en cruces equipados con barreras en la década de 1990. De estos, 41 (53 %) causaron daños personales. El número total de atravesamientos de barreras en los años 1990–1999 fue de 1 254. Los tramos con más atravesamientos fueron Seinäjoki–Kaskinen y Seinäjoki–Vaasa.
+
+Como medios para mejorar la seguridad, en lo que respecta a las medidas relacionadas con los vehículos y los usuarios de la carretera, se propusieron soluciones con las que se pudiera influir en los conductores de vehículos de modo que las velocidades en los pasos a nivel se redujeran. Estas son los límites de velocidad, las bandas rugosas y los resaltos. Otras medidas relativas a los vehículos y los usuarios de la carretera son los separadores centrales, que dificultan el rodeo de las barreras, y la mejora de la prevención de la superficie resbaladiza.
+
+Como medidas dirigidas a los trenes, se propuso el diseño de la parte delantera de los trenes de manera que al menos no aumentaran las consecuencias de un posible accidente, como suelen hacer, por ejemplo, los enganches centrales.
+
+Los dispositivos de barrera podrían mejorarse, por ejemplo, alargando las barreras o completando las instalaciones de barrera de media altura con instalaciones de barrera completa. Esto reduciría la posibilidad de rodear las barreras. Las extensiones que se añadirían a las barreras, las redes colgantes en ellas y los colores más actuales de las barreras podrían, según el informe, mejorar también la seguridad de diferentes maneras.
+
+Otras recomendaciones para mejorar la seguridad fueron la armonización del funcionamiento de los dispositivos de aviso, la mejora de su visibilidad, la prevención del rodeo de las barreras, los dispositivos que advierten de la llegada simultánea de dos trenes y la formación de los usuarios de la carretera.
+
+En el momento de la finalización del estudio, la peligrosidad de los pasos a nivel se evaluó con el índice de riesgo definido por RAMO, en el que las variables eran el dispositivo de aviso, la velocidad máxima permitida del tren, el número de vías, el tráfico medio diario de la carretera (KVL) y la cantidad de tráfico ferroviario. Los pasos a nivel con barrera estadísticamente más peligrosos en 2002 se presentan en la tabla 4.
+
+## Página 40
+
+Tabla 4. Cruces de nivel con barreras estadísticamente más peligrosos en 2002.
+Tabel 4.
+De statistiskt farligaste plankorsningarna med bommar 2002.
+Table 4.
+The statistically most dangerous level crossings with barriers in 2002.
+Cruce de nivel
+Tramo
+Índice de riesgo
+Accidentes 2002–102)
+verano 20111)
+Hyttimestarintie
+Pasila–Karjaa
+73
+eliminado
+1
+Tampereentie
+Toijala–Turku
+47
+restante
+2
+Villähde
+Lahti–Kouvola
+26
+eliminado
+0
+Luumäki
+Kouvola–Luumäki
+20
+eliminado
+0
+Peipohja as.
+Kokemäki–Pori
+17
+restante
+0
+Härskinniemi
+Parikkala–Joensuu
+15
+eliminado
+0
+Murto
+Seinäjoki–Vaasa
+13
+restante
+0
+Tampella Oy
+Kouvola–Kotka
+13
+eliminado
+0
+Vaalantie
+Karjaa–Turku
+13
+1
+restante
+Wahlforssinkatu
+Joensuu–Viinijärvi
+11
+restante
+0
+Kyrö
+Toijala–Turku
+10
+restante
+2
+Paimala
+Toijala–Turku
+8,1
+eliminado
+0
+Utti As.
+Kouvola–Luumäki
+7,7
+eliminado
+0
+Pilkko
+Joensuu–Viinijärvi
+6,4
+eliminado
+0
+Urjalantie
+Toijala–Turku
+6,2
+0
+restante
+  restante3)
+Kunnari
+Seinäjoki–Ylivieska
+6,0
+0
+Mellilä
+Toijala–Turku
+5,9
+restante
+0
+  restante3)
+Teppo
+Seinäjoki–Ylivieska
+5,9
+0
+Pappila
+Seinäjoki–Vaasa
+5,8
+restante
+0
+1) Fuente: www.tasoristeys.fi.
+2) Fuente: Liikennevirasto.
+3) El cruce de nivel se eliminará antes de 2015 durante el proyecto de la línea Seinäjoki–Oulu.
+## 2.2.3
+### Efecto del portal en las velocidades de circulación en el cruce de nivel sin vigilancia de Kyläjoentie
+En la investigación de VTT (Räsänen & Alppivuori 2004) se examinaron los efectos de la instalación de un portal en las velocidades de aproximación de los vehículos en un cruce de nivel sin vigilancia. Las velocidades se midieron en tres puntos a 60, 30 y 10 metros antes del cruce de nivel.
+Las mediciones se realizaron durante la vigencia de las señales STOP, después de su retirada y después de la instalación del portal. También se observó la parada de los conductores antes del cruce de nivel en diferentes situaciones.
+La retirada de la señal STOP aumentó las velocidades de los vehículos en una media de 2 km/h a 10 metros antes del cruce de nivel, pero no se observó efecto en los puntos de medición más alejados. Durante la vigencia de la señal STOP, el 38 % de los automovilistas se detuvo en la señal y, tras la retirada de las señales, el 24 %.
+Los cambios entre las velocidades medias durante la vigencia de las señales STOP y después de la construcción del portal fueron escasos. La instalación del portal redujo la velocidad en una media de 1 km/h a 30 metros antes del cruce de nivel. Las mediciones de visibilidad indican que la posibilidad del conductor de realizar un cruce seguro depende en gran medida de la velocidad en este punto, en función de
+
+
+## Página 41
+
+la base. Esto requiere que mire en ambas direcciones. Las mediciones repetidas los veranos siguientes indicaron que la reducción de velocidad se mantuvo casi igual.
+En la investigación se propone examinar el efecto de los portales en dos situaciones diferentes de la siguiente manera:
+- 
+efecto en las velocidades de los vehículos cuando las condiciones de visibilidad son buenas y la velocidad de aproximación típica es alta
+- 
+efecto en la orientación de la atención del conductor cuando la velocidad de aproximación típica es baja.
+## 2.2.4
+### Velocidades de circulación en cruces de nivel de carreteras de escaso tráfico (2006)
+En la investigación de VTT (Poutanen 2006) se examinaron las velocidades de circulación en cruces de nivel sin vigilancia de carreteras de gravilla de escaso tráfico, el efecto de la visibilidad en las velocidades de circulación y cuál es la proporción de aquellos vehículos que no logran detenerse antes de la vía. Las velocidades se midieron en cuatro cruces de nivel en ambas direcciones de aproximación a 70, 40 y 10 metros de la vía. Las condiciones de visibilidad entre los lugares de estudio se distribuyen de modo que, de las ocho direcciones de aproximación, en cinco las visibilidades solo se abren cerca de la vía y en tres ya más lejos de la vía.
+En las carreteras de gravilla de escaso tráfico se circula bastante despacio en los cruces de nivel, ya que las velocidades medias en los puntos de medición más alejados eran inferiores a 50 km/h. La detección de la vía no parece ser un problema, ya que al aproximarse al cruce de nivel se reduce la velocidad en todos los lugares de estudio en la misma medida, independientemente de las condiciones de visibilidad. Sin embargo, la reducción es bastante pequeña entre los dos puntos de medición más alejados y las velocidades de circulación solo caen claramente cerca de la vía. Cerca de la vía, las velocidades medias eran de unos 20 km/h, independientemente de las condiciones de visibilidad.
+Las velocidades de circulación eran menores en una de las direcciones de aproximación de un lugar de estudio, en la que las visibilidades hacia la vía solo se abren cerca de la vía. En los demás lugares de estudio, las condiciones de visibilidad eran las mismas en ambas direcciones de aproximación y no había diferencias en las velocidades medias entre ellas.
+Cuando las visibilidades se abren cerca de la vía, entre el 20 y el 60 % de los vehículos circulaba en el punto de medición más próximo a la vía tan rápido que no habría sido posible detenerse antes de la vía. La proporción de los que logran detenerse depende muy poco de las condiciones de visibilidad del cruce de nivel, ya que los porcentajes eran casi los mismos también en las direcciones de aproximación en las que las visibilidades se abren ya más lejos de la vía.
+El problema de los cruces de nivel de carreteras de escaso tráfico es que, al aproximarse a la vía, muchos vehículos circulan a una velocidad demasiado alta desde el punto de vista de la posibilidad de detenerse. Para evitar este problema, deberían utilizarse medios eficaces (coercitivos) para reducir las velocidades, especialmente cuando las visibilidades hacia la vía solo se abren cerca de la vía. Estas medidas estructurales que conducen a una frenada coercitiva podrían ser diversas actuaciones que afecten a la geometría horizontal o vertical de la carretera justo en las inmediaciones de la vía.
+
+
+## Página 42
+
+## 2.2.5
+### Velocidades del tráfico automovilístico en un cruce de nivel vigilado (2007)
+La investigación de VTT (Peltola 2007a) se realizó en un cruce de nivel con barreras semiautomáticas con un diseño antes–después. En la investigación se examinaron los efectos de la posición y el diseño de las barreras en las velocidades de circulación de la siguiente manera:
+- 
+se desplazaron las barreras más lejos de la vía
+- 
+se añadieron cadenas de plástico blancas en la cara inferior de las barreras con el propósito de dar una apariencia de valla en la posición inferior
+- 
+se fijó una cinta de luz LED en las barreras con el propósito de mejorar la visibilidad de la barrera.
+La configuración del estudio sufrió un cambio no previsto cuando Tiehallinto modificó el límite de velocidad del cruce de nivel a mitad del estudio de 80 km/h a 60 km/h.
+Las velocidades de los vehículos se midieron en ambos lados del cruce de nivel a distancias de unos 25, 50 y 80 metros. En el estudio se registraron una media de 44 000 vehículos/punto de medición. Con base en las mediciones se elaboró, entre otros, el perfil de velocidad media de los vehículos en diferentes condiciones meteorológicas y condiciones de prueba.
+En el informe de investigación se pone de manifiesto una contradicción relacionada con la velocidad de los vehículos vigente en la época del estudio. En las entradas de carreteras con semáforo, el límite de velocidad máximo permitido es de 70 km/h. No se ha definido el límite de velocidad máximo permitido para los cruces de nivel, por lo que en un cruce de nivel con barreras puede haber un límite de velocidad de 80 km/h para los automóviles. Por ello, en la investigación se recomendó reducir el límite de velocidad de los cruces de nivel a 60 km/h.
+La reducción del límite de velocidad aumenta el tiempo del que dispone el conductor del automóvil para reaccionar a la alarma del sistema de barreras semiautomáticas y, por tanto, se presume que reduce los impactos contra las barreras.
+No fue posible determinar de forma inequívoca el efecto del desplazamiento de la barrera y la adición de cadenas debido a cambios ajenos a la configuración de prueba. Con base en las pruebas realizadas en las fases antes y después, puede estimarse que el desplazamiento y el diseño de las barreras por sí solos apenas reducen la velocidad de circulación. Se sigue recomendando que se investigue el desplazamiento de las barreras para mejorar la seguridad del cruce de nivel.
+De la influencia de las cintas de luz LED se obtuvieron dos resultados. Disminuyó la proporción de los que circulaban hacia la luz roja en la fase inicial de la alarma. Los conductores que antes circulaban despacio hacia el cruce de nivel aumentaron ligeramente su velocidad de circulación con la introducción de las luces LED. Es posible que crean que, con la introducción de las luces LED, percibirán mejor una posible alarma del sistema de barreras semiautomáticas. En la investigación se recomiendan investigaciones adicionales para confirmar las observaciones anteriores y determinar los efectos a largo plazo.
+## 2.2.6
+### Reducción de las velocidades del tráfico automovilístico en los cruces de nivel (2007)
+La investigación de VTT (Peltola 2007b) se realizó en un cruce de nivel con barreras semiautomáticas con un diseño antes–después. El objetivo era determinar los cambios en las velocidades de circulación de una carretera con tráfico intenso después de la reducción del límite de velocidad y la introducción del control automático de velocidad.
+
+
+## Página 43
+
+Como consecuencia de la reducción del límite de velocidad (80 60 km/h), las velocidades de circulación de los turismos y furgonetas que se aproximaban al cruce de nivel se redujeron en una media de 10,4 km/h. El control automático de velocidad redujo las velocidades en otros 6,7 km/h. Como consecuencia de ambas medidas, las velocidades se redujeron más justo antes del cruce de la vía.
+Como efecto combinado, la velocidad media de 79,0 km/h se redujo a 61,9 km/h. Con base en los modelos de accidentes, puede preverse que la reducción de la velocidad disminuya en una media del 39 % los accidentes que provocan lesiones personales e incluso en un 62 % los accidentes mortales.
+En la investigación se repitió la recomendación planteada en la investigación anterior de limitar los límites de velocidad de los cruces de nivel equipados con dispositivos de aviso a un máximo de 60 km/h. Además, en los cruces de nivel más graves se recomendó utilizar control automático.
+## 2.2.7
+Efectos de las medidas para mejorar la seguridad de los cruces de nivel – investigación
+### de encuesta en el tramo Savonlinna–Parikkala (2007)
+En el tramo Savonlinna–Parikkala se inauguró a principios de 2006 el servicio de autobuses sobre raíles, lo que multiplicó por 2,5 la cantidad de trenes en el tramo. En parte por esta razón, se llevaron a cabo medidas para mejorar la seguridad en los cruces de nivel sin dispositivos de aviso del tramo, que incluían, entre otras, semipórtales, la adición de señales de cruce también en el lado izquierdo de la carretera y la adición de señales STOP. Las medidas variaban según el cruce de nivel.
+El objetivo de la investigación de encuesta de VTT (Poutanen 2007) era conocer las experiencias de los residentes en las inmediaciones de los cruces de nivel del tramo respecto a las medidas adoptadas. Participaron en la investigación 120 personas.
+Los encuestados consideraron que era más difícil detectar los autobuses sobre raíles que detectar un tren con locomotora. Los principales problemas eran el sonido bajo y la alta velocidad.
+Casi el 20 % de los encuestados había creído en algún momento que los semipórtales eran barreras semiautomáticas abiertas y había conducido sin detenerse o de otra forma imprudentemente por encima del cruce de nivel.
+La mayoría (72 %) de los encuestados afirmó que las medidas no habían tenido ningún efecto en su comportamiento al cruzar el «cruce de nivel de casa». El resto afirmó que se habían vuelto más atentos y más prudentes e incluso habían empezado a detenerse antes del cruce de nivel.
+En el informe se recomienda que se elaboren instrucciones uniformes para todas las medidas de mejora de la seguridad de los cruces de nivel, en las que se definan sus características técnicas y condiciones de uso.
+## 2.2.8
+Cruce de un cruce de nivel sin vigilancia – Percepciones de los conductores de
+### automóviles y percepción del riesgo (2009)
+En la investigación de VTT (Poutanen & Luoma 2009) se entrevistó a 56 conductores de turismos o furgonetas después de cruzar un cruce de nivel de escaso tráfico. Se pidió a los conductores que explicaran con sus propias palabras cómo se debe actuar al cruzar un cruce de nivel sin vigilancia. Pe-
+
+## Página 44
+
+de las exigencias, el 79 % mencionó la vigilancia de los trenes y, dependiendo de la interpretación de las respuestas sobre la reducción de velocidad, entre el 41 % y el 91 %. Ambas exigencias las mencionó, dependiendo de la interpretación, entre el 29 % y el 70 % de los conductores. Por tanto, una parte considerable de los conductores no tiene una concepción muy estructurada de lo que es un cruce seguro de un paso a nivel sin vigilancia.
+Otro resultado clave fue que los conductores consideraban más difícil cruzar las carreteras principales que cruzar un paso a nivel sin vigilancia, aunque el cruce del paso a nivel se consideraba más peligroso. Esto se interpretó como indicativo de que los conductores evalúan el riesgo de accidente asociado al cruce del paso a nivel como relativamente bajo, aunque saben que generalmente es peligroso. Según los conductores, la visibilidad de los pasos a nivel con poco tráfico podría mejorarse, en particular despejando la visión en la dirección de la vía en una fase anterior y utilizando señales de aproximación. Además, los conductores sugirieron que la precaución en el cruce del paso a nivel podría aumentarse mediante el uso de la señal STOP, señales más visibles y mejorando la visión.
+## 2.2.9
+### Uso de la señal STOP y del límite de velocidad de 20 km/h en los pasos a nivel (2009)
+En la investigación de VTT (Kallberg 2009) se examinaron, entre otros aspectos, resultados de investigaciones anteriores, se aclaró el alcance del uso de la señal STOP y se realizó un análisis teórico de la idoneidad de la señal STOP y del límite de 20 km/h para distintos tipos de pasos a nivel.
+Según investigaciones anteriores, las señales STOP en los pasos a nivel ferroviarios aumentan la conducta segura de los conductores, aunque se cumplen en menor medida que en los cruces del tráfico por carretera. Los resultados de investigaciones anteriores sobre los efectos en los accidentes son variables, pero apuntan en la dirección de que, en determinadas condiciones, los accidentes pueden reducirse incluso en un 30 %.
+No existen instrucciones claras sobre el uso de la señal STOP en los pasos a nivel ferroviarios. La señal STOP está en unos 350 pasos a nivel, es decir, en aproximadamente el 14 % de los pasos a nivel sin dispositivos de aviso, y el uso de la señal varía según los tramos de vía. En los pasos a nivel equipados con señal STOP se han producido aproximadamente un 20 % menos de accidentes, en relación con los volúmenes de tráfico de la carretera y la vía, que en otros pasos a nivel sin dispositivos de aviso.
+Según las recomendaciones de la investigación, la señal STOP solo debería utilizarse en los pasos a nivel y en los sentidos de aproximación en los que cruzar el paso a nivel de forma segura requiera detenerse o, al menos, una velocidad claramente inferior a 20 km/h. Por otro lado, se propone utilizar el límite de velocidad de 20 km/h en lugar de la señal STOP cuando el cruce seguro sea posible, dentro de los límites de la visión, a una velocidad de 20–30 km/h, pero no a velocidades superiores.
+Las recomendaciones destacan la aplicación sistemática de las medidas, de modo que la señal STOP y el límite de velocidad de 20 km/h se utilicen en aquellos y solo en aquellos pasos a nivel y sentidos de aproximación en los que se cumplan los criterios de uso.
+## 2.2.10
+### Efecto de los badenes en las velocidades de circulación en los pasos a nivel sin vigilancia de las carreteras de tierra (2009)
+La investigación de VTT (Seise et al. 2009) se realizó en dos pasos a nivel con mediciones antes-después. Según los resultados, las badenes redujeron las velocidades de los vehículos que se acercaban al paso a nivel.
+
+
+## Página 45
+
+A una distancia de diez metros del raíl más cercano, las velocidades medias eran unos 8–12 km/h inferiores a las anteriores a la instalación de las badenes. Las posibilidades de los conductores de detenerse antes del paso a nivel cuando fuera necesario mejoraron claramente.
+En invierno, la nieve y el hielo suavizan las badenes, y en verano se acumula material terrestre junto a ellas. En estos casos, el efecto de las badenes es menor que el resultado presentado anteriormente. En la investigación, mediante investigaciones complementarias, se plantea aclarar para qué tipos de pasos a nivel son más adecuadas las badenes y cómo deben dimensionarse.
+## 2.2.11
+### Comportamiento del tráfico por carretera en seis pasos a nivel con barrera semiautomática
+## (2009)
+En la investigación de VTT (Kallberg, Kallio & Wuolijoki 2009) se estudió el comportamiento de los usuarios de la carretera mediante grabaciones en vídeo durante 15–16 días en seis pasos a nivel con barrera semiautomática. En dos pasos a nivel había también barreras completas para el tráfico de peatones y ciclistas. Los pasos a nivel se situaban cerca de la estación y era característico de ellos un largo intervalo desde la activación de la barrera hasta la llegada del tren, cuando el tren que había provocado la activación se detenía en la estación.
+En los datos había 2 027 activaciones de la barrera y durante ellas se aproximaron al paso a nivel 1 960 vehículos a motor, 621 ciclistas y 410 peatones, que tenían la posibilidad de entrar en el paso a nivel durante la activación.
+Durante la activación entró en el paso a nivel, es decir, incurrió en la infracción, el 7 % de los vehículos a motor, el 10 % de los ciclistas y el 14 % de los peatones. De los vehículos a motor que incurrieron en la infracción, el 60 % cruzó la barrera estando esta aún levantada o mientras se bajaba, y el 40 % rodeó la barrera ya bajada. Los porcentajes de los ciclistas eran de magnitud similar. De los peatones, el 60 % cruzó la barrera una vez ya completamente bajada. En los dos pasos a nivel equipados con barreras completas para el tráfico de peatones y ciclistas, las infracciones de este tráfico no fueron más frecuentes que en los demás pasos a nivel.
+Según una investigación realizada en Estados Unidos, el número de barreras rodeadas aumenta cuando el intervalo desde el inicio de la activación hasta la llegada del tren supera los 50 segundos. Si los usuarios de la carretera estuvieran relativamente seguros de que el tren llegará siempre, por ejemplo, 30–60 segundos después del inicio de la activación, la tentación de circular hacia el cruce mucho después del inicio de la activación disminuiría. El riesgo percibido relacionado con el comportamiento aumentaría y el ahorro de tiempo esperado disminuiría.
+## 2.2.12
+## Seguridad de los pasos a nivel en los transportes escolares y de autobuses en la línea Hanko–Hyvinkää (2010)
+El propósito de la investigación realizada por Ramboll Finland Oy por encargo de la Autoridad de Transporte (Laine 2010) era presentar recomendaciones de medidas para las rutas y los pasos a nivel de los transportes de autobuses y escolares. El tema no había sido estudiado anteriormente en Finlandia. La investigación se limitó a la línea Hanko–Hyvinkää. Se recabaron datos de las empresas de transporte de autobuses y escolares de la zona mediante cuestionarios y entrevistas.
+
+
+## Página 46
+
+Hay tráfico de autobuses y transportes escolares en 38 de los 94 pasos a nivel de la línea Hanko–Hyvinkää, además de en dos pasos a nivel de vía de apartadero. El tráfico de autobuses circula por 18 pasos a nivel. De estos, tres no tienen dispositivo de aviso. Del mismo modo, los transportes escolares circulan por 35 pasos a nivel y de estos 12 no tienen dispositivo de aviso. Los operadores de transporte consideraron peligrosos 18 pasos a nivel, de los cuales nueve carecen de dispositivo de aviso.
+En la investigación se dieron varias recomendaciones de seguridad. Se propuso trasladar los transportes escolares fuera de cinco y el tráfico de autobuses fuera de un paso a nivel. Estos pasos a nivel se propusieron eliminar por completo. Además, se dieron directrices para la planificación de rutas en algunos pasos a nivel. En general, se recomendó tener en cuenta la seguridad vial ya en la adjudicación de los transportes escolares, así como la cooperación entre municipios en los transportes escolares. Como ejemplo de tener en cuenta la seguridad de los pasos a nivel en los transportes escolares se menciona el municipio de Urjala. De acuerdo con la decisión adoptada en 2009 por la junta de educación del municipio, en los transportes escolares no se utilizan pasos a nivel sin vigilancia.
+## 2.2.13
+## Previsión del tráfico de mercancías de la red ferroviaria 2030 (2010)
+En el informe elaborado por Ramboll Finland Oy por encargo de la Autoridad de Transporte (Iikkanen & Mukula 2010) se analizó la realización de la previsión elaborada en 2002 y se elaboró una previsión del tráfico de mercancías hasta 2030.
+La cantidad de transporte ferroviario realizada en 2008 fue de unos 42 toneladas, un 14 % inferior a la prevista en 2002. En 2009, los transportes disminuyeron a 33 millones de toneladas como consecuencia de la recesión de la economía mundial. Según la previsión, los transportes ferroviarios aumentarán hasta unos 46 millones de toneladas en 2020 debido a la recuperación de la economía mundial, al favorable desarrollo de la producción industrial y minera de Finlandia y a los transportes de tránsito. Por otro lado, los mayores factores de incertidumbre de la previsión se relacionan con los mismos sectores (industria forestal y minera, tránsito).
+Se estima que los transportes de la red ferroviaria aumentarán, medido por el número de trenes, en los siguientes tramos de vía con mayor crecimiento:
+- Kouvola–Riihimäki
+- Tampere–Seinäjoki–Kokkola
+- Siilinjärvi–Iisalmi–Talvivaara
+- Iisalmi-Ylivieska
+- Kajaani–Oulu
+- Oulu–Kokkola
+- (Sokli–)Kemijärvi–Kemi.
+Puede haber un pequeño crecimiento, entre otros, en los siguientes tramos de vía:
+- Imatra–Joensuu
+- Parikkala–Savonlinna
+- Hyvinkää–Hanko
+- Oulu–Kemi.
+
+
+## Página 47
+
+En la mayoría de los tramos de vía se espera que los transportes se mantengan aproximadamente al mismo nivel o disminuyan ligeramente.
+## 2.2.14
+## Estadística de accidentes de los distintos modos de transporte – Estudio preliminar (2011)
+En la investigación encargada conjuntamente por la Autoridad de Seguridad del Transporte Trafi y la Autoridad de Transporte a VTT (Kallberg 2010) se compararon las estadísticas de los distintos modos de transporte. El estudio preliminar partía de la necesidad de desarrollar la estadística de accidentes de los distintos modos de transporte de modo que sirviera lo mejor posible para mejorar la seguridad vial a nivel de sistema, en todos los modos de transporte.
+Había un total de 18 estadísticas de accidentes de tráfico. Seis se referían al tráfico por carretera, cinco al tráfico ferroviario, cuatro a la navegación marítima y tres a la aviación. Las estadísticas del tráfico ferroviario eran las siguientes:
+### VR-Yhtymä Oy: La empresa tiene su propio sistema de información PORA⁴, del cual la Autoridad de Transporte recibe
+- informes mensuales y la Autoridad de Seguridad del Transporte los datos de accidentes conforme a la directiva de la UE. El sistema contiene tanto los accidentes como las desviaciones de seguridad.
+- Autoridad de Transporte: El Centro de Tráfico Ferroviario de la Autoridad registra en el sistema JUHA⁵ los eventos que perturban la circulación de trenes de los que tiene conocimiento, el cual tiene un código propio también para los accidentes. La Autoridad de Transporte recibe además los informes mensuales de VR y, de sus contratistas que realizan trabajos en la vía, información sobre, entre otros aspectos, desviaciones de seguridad.
+- Autoridad de Seguridad del Transporte Trafi: La Autoridad recibe en tiempo real información del sistema JUHA utilizado por la Autoridad de Transporte, así como los informes mensuales de VR. Además, llega información de los operadores de tráfico de museo, de las empresas que realizan mantenimiento de vía que circulan por la red ferroviaria y de los titulares de vías privadas. Los datos de accidentes se almacenan en el sistema de información Synergi.
+- ### Oficina de Estadística de la Unión Europea Eurostat: La Oficina publica en línea información basada en las estadísticas remitidas por los Estados miembros sobre accidentes del tráfico ferroviario. Los datos de Finlandia los remite la Autoridad de Transporte. La cobertura de los datos varía según los países. Las series temporales más largas comienzan en 1990.
+- ### Agencia Ferroviaria de la Unión Europea ERA: La base de datos de ERA, ERADIS, contiene, además de los datos de accidentes, entre otros aspectos, licencias de explotación y normas de seguridad nacionales. Los datos de Finlandia los remite la Autoridad de Seguridad del Transporte. Los datos remitidos en los años 2006–2010 se basaron en definiciones nacionales. A partir de 2010 deben utilizarse las definiciones de ERA, lo que mejora la fiabilidad y la comparabilidad de la estadística.
+Las necesidades de desarrollo de las estadísticas que surgieron en el estudio preliminar se referían, entre otros aspectos, a lo siguiente:
+- mejora de la disponibilidad de los datos de accidentes del tráfico por carretera para los municipios
+- integración de las estadísticas de accidentes específicas de cada modo de transporte mantenidas por distintas organizaciones, especialmente en el tráfico ferroviario
+- corrección de las deficiencias de la información geográfica de la estadística oficial de accidentes del tráfico por carretera.
+⁴ VR puso en servicio en el verano de 2011 una nueva y mejorada versión de PORA. El sistema se denomina sistema de información de seguridad TUTTI. En él se mejoró, entre otros aspectos, el tratamiento y la notificación de las desviaciones de seguridad laboral.
+⁵ JUHA = Sistema de notificación de incidencias del tráfico de trenes de VR.
+
+## Página 48
+
+Además, habría que examinar las necesidades y posibilidades de crear, por ejemplo, un centro de información sobre tráfico y accidentes común a Trafi y a la Dirección de Transporte (Liikenneviraston) que abarque todos los modos de transporte, en el que un personal especializado analizara la información y la produjera para distintas necesidades. También se debería prestar atención a la utilización de los datos sobre casi accidentes y situaciones de peligro, lo que en la actualidad no se lleva a cabo de la mejor manera posible en todos los modos de transporte.
+## 2.2.15
+### Víctimas bajo el tren en el tráfico ferroviario – Estadísticas y análisis (2011)
+El objetivo del estudio encargado por la Autoridad de Seguridad del Tráfico (Liikenteen turvallisuusvirasto) al VTT (Silla 2011) era recopilar y analizar información relativa a peatones atropellados por trenes en el período 2005–2009. En particular, se compararon las cifras de víctimas bajo el tren existentes en distintas estadísticas y la información de fondo.
+En el estudio se contó con los datos del Instituto de Estadística (Tilastokeskus), de la policía, del servicio de rescate (Pronto), de VR-Yhtymä Oy (PORA) y de la Dirección de Transporte (Liikenneviraston) (JUHA).
+Al combinar los datos se obtuvo como resultado un total de 311 víctimas bajo el tren, de las cuales 264 (85 %) eran, según el análisis, suicidios y 35 (11 %) accidentes. De los casos, 12 (4 %) no pudieron clasificarse de forma fiable en ninguna de las dos categorías. El conjunto de datos más completo procedía de PORA.
+## 2.2.16
+### Sistema de aviso de trenes instalado en el vehículo
+En los pasos a nivel sin instalaciones de aviso se producen anualmente una cantidad significativa de accidentes que causan la muerte o lesiones graves. No es posible equipar todos los pasos a nivel con instalaciones de aviso fijas por motivos económicos. Existe una demanda global de medidas de seguridad rentables. Un sistema de aviso de trenes instalado en el vehículo basado en posicionamiento por satélite y transmisión de datos inalámbrica responde a esta demanda.
+El sistema de aviso de trenes instalado en el vehículo se desarrolló y se probó en la primavera de 2006 como parte del programa AINO del Ministerio de Transporte y Comunicaciones (Öörni & Virtanen 2006). En pruebas de campo realizadas con un solo vehículo en un solo día en dos pasos a nivel, el sistema funcionó según lo previsto. En el informe de investigación se propuso como medida de seguimiento la implantación del sistema de prueba en una zona geográfica delimitada, a fin de que el concepto del sistema pueda verificarse y de que se pueda obtener información investigada sobre la usabilidad y los efectos del sistema.
+El VTT ha realizado una investigación posterior sobre el sistema. El informe estará terminado a finales de 2011. La comisión de investigación ha tenido a su disposición borradores del informe, pero la comisión decidió volver a los resultados de la investigación posterior en las siguientes investigaciones temáticas sobre la seguridad en los pasos a nivel, que se realizarán anualmente. En las investigaciones temáticas se tratan los accidentes en pasos a nivel ocurridos durante el año en cuestión y se hace seguimiento de la evolución de la seguridad, de los planes, de la ejecución de los planes y de las investigaciones.
+
+
+## Página 49
+
+## 3
+## INFORMACIÓN BÁSICA SOBRE EL TRÁFICO FERROVIARIO Y POR CARRETERA 1991–2010
+## 3.1
+### Desarrollo general del tráfico ferroviario
+El tráfico ferroviario ha aumentado y ha cambiado en Finlandia durante el período de observación. Las velocidades máximas del tráfico ferroviario y las velocidades medias del tráfico han aumentado. La cantidad de tráfico, medida en kilómetros-tren, ha crecido de unos 40 millones a unos 50 millones de kilómetros. El año pico fue 2008, antes de la recesión mundial. La flota, y en particular el número de vagones de mercancías, ha disminuido.
+Tabla 5. Cifras clave que describen el desarrollo general del tráfico ferroviario.
+Tabell 5.
+Nyckeltal som beskriver den allmänna utvecklingen inom järnvägstrafiken.
+Table 5.
+Key indicators referring to the overall development of rail traffic.
+Año
+Tráfico de pasajeros
+Tráfico de mercancías
+Kiló-
+Longitud de la
+Número de
+[millones de pasajeros-km]
+[millones de toneladas-km]
+metros-tren
+red ferroviaria
+vehículos
+[millones de km]
+[km]
+3 230
+7 634
+40,1
+5 853
+17 299
+1991
+1992
+3 057
+7 848
+40,2
+5 853
+17 102
+1993
+3 007
+8 737
+40,9
+5 864
+16 482
+3 037
+9 413
+41,3
+5 859
+16 442
+1994
+1995
+3 184
+9 293
+41,0
+5 859
+16 384
+1996
+3 254
+8 806
+40,6
+5 860
+16 092
+3 376
+9 856
+44,1
+5 865
+15 089
+1997
+1998
+3 377
+9 885
+44,5
+5 867
+14 501
+1999
+3 415
+9 753
+44,3
+5 836
+14 436
+3 405
+10 107
+44,8
+5 854
+14 092
+2000
+2001
+3 282
+9 857
+45,5
+5 850
+13 731
+2002
+3 318
+9 664
+47,2
+5 850
+13 353
+3 338
+10 047
+48,1
+5 851
+13 133
+2003
+2004
+3 352
+10 105
+48,7
+5 741
+13 234
+2005
+3 478
+9 706
+48,2
+5 732
+12 948
+3 540
+11 060
+50,9
+5 905
+12 759
+2006
+2007
+3 778
+10 434
+52,6
+5 899
+12 508
+2008
+4 052
+10 777
+53,3
+5 919
+12 631
+3 876
+8 872
+50,0
+5 919
+12 198
+2009
+2010
+3 959
+9 750
+51,0
+5 919
+12 083
+Fuente: Dirección de Transporte (Liikennevirasto).
+
+
+## Página 50
+
+## 3.2
+### Desarrollo general del tráfico por carretera
+La cantidad de tráfico por carretera ha aumentado en Finlandia durante el período de observación. El máximo en la cantidad de toneladas-kilómetro brutas transportadas se alcanzó en 2002. La variación anual de las toneladas-kilómetro es mayor que la de los kilómetros recorridos.
+Tabla 6. Cifras clave que describen el desarrollo general del tráfico por carretera.
+Tabell 6.
+Nyckeltal som beskriver den allmänna utvecklingen inom landsvägstrafiken.
+Table 6.
+Key indicators referring to the overall development of road traffic.
+Red viaria2)
+Año
+Kilómetros
+Toneladas-
+recorridos por
+kilómetros
+carretera
+transportadas
+[km]
+[millones de km]
+[millones de toneladas-km]
+1991
+42 450
+23 800
+77 080
+1992
+42 350
+-
+77 283
+41 830
+24 100
+77 409
+1993
+1994
+41 730
+24 800
+77 499
+  23 1741)
+1995
+42 575
+77 644
+42 894
+24 511
+77 722
+1996
+1997
+43 913
+24 511
+77 782
+1998
+45 200
+25 611
+77 796
+46 421
+25 575
+77 894
+1999
+2000
+47 126
+27 716
+77 900
+2001
+48 023
+26 677
+77 993
+49 164
+28 069
+78 059
+2002
+2003
+50 183
+26 895
+78 137
+2004
+51 282
+27 330
+78 197
+51 675
+27 800
+78 168
+2005
+2006
+52 150
+25 500
+78 189
+2007
+53 250
+26 000
+78 189
+52 920
+27 600
+78 161
+2008
+2009
+53 350
+24 300
+78 141
+- 6
+2010
+53 815
+78 162
+1) Los criterios estadísticos cambiaron en 1994
+2) Datos generales sin rampas y sin tramos de transbordador
+Fuente: Dirección de Transporte (Liikennevirasto).
+6  En las tablas, los datos marcados con un guion (-) significan que la información no está disponible.
+
+
+## Página 51
+
+## 3.3
+### Número de vehículos
+El número de vehículos en Finlandia ha aumentado prácticamente durante todo el período de observación. El crecimiento ha sido de aproximadamente un 50 % en 20 años. El crecimiento anual ha sido, durante el período de observación, de una media del 2,6 % y del 3,5 %/año entre 2008 y 2010.
+Tabla 7. Número de vehículos y proporciones de los distintos tipos de vehículos.
+Tabell 7.
+Antalet bilar och andelen bilar av olika typer.
+Table 7.
+Number of road vehicles and shares of different types of road vehicles.
+Año
+Vehículos
+Turismos
+Furgonetas
+Camiones
+totales
+1991
+2 218 067
+1 922 541
+212 499
+51 891
+2 230 516
+1 936 345
+214 703
+47 862
+1992
+1993
+2 156 009
+1 872 933
+207 662
+45 487
+1994
+2 150 950
+1 872 588
+202 614
+46 786
+2 181 239
+1 900 855
+203 476
+48 556
+1995
+1996
+2 229 222
+1 942 752
+207 864
+50 883
+1997
+2 242 318
+1 948 126
+212 727
+54 217
+2 328 990
+2 021 116
+223 149
+57 461
+1998
+1999
+2 403 327
+2 082 580
+232 680
+61 027
+2000
+2 465 822
+2 134 728
+239 095
+65 223
+2 499 154
+2 160 603
+243 988
+68 569
+2001
+2002
+2 539 953
+2 194 683
+247 230
+72 469
+2003
+2 626 999
+2 274 577
+250 107
+77 015
+2 727 160
+2 346 726
+272 672
+82 492
+2004
+2005
+2 818 965
+2 430 345
+276 453
+87 191
+2006
+2 906 415
+2 505 543
+284 627
+91 465
+2 989 881
+2 570 356
+297 531
+97 187
+2007
+2008
+3 150 296
+2 700 492
+318 797
+105 701
+2009
+3 246 414
+2 776 664
+332 645
+111 267
+3 368 188
+2 877 484
+347 258
+117 150
+2010
+Fuente: Instituto de Estadística (Tilastokeskus).
+
+
+## Página 52
+
+## 3.4
+### Número de pasos a nivel y tipos de instalaciones de aviso
+A finales de 2010 había en Finlandia 3 833 pasos a nivel, de los cuales 3 171 se encontraban en la red ferroviaria estatal. De los pasos a nivel, 727 estaban equipados con barrera y 90 con instalación de aviso luminoso y sonoro. Había 3 016 pasos a nivel sin instalación de aviso, lo que representa el 79 % de todos los pasos a nivel.
+El número de pasos a nivel ha disminuido en 808 entre 2004 y 2010, es decir, una media de 133 al año. La disminución del número entre 1991 y 2004 fue de una media de 154 al año.
+El número de barreras semiautomáticas ha disminuido entre 2004 y 2010 en una media de unos 8 al año; la cifra correspondiente para 1991–2004 es de 4.
+El número de instalaciones de aviso luminoso y sonoro ha disminuido entre 1991 y 2010 en una media de 3 al año.
+A finales de 2010, 817 pasos a nivel estaban equipados con instalaciones de aviso, y los 3 016 restantes no tenían instalación de aviso. Después de 2004, el número de pasos a nivel sin instalación de aviso ha disminuido en 733, es decir, una media de 122 al año.
+Tabla 8. Número de pasos a nivel.
+Tabell 8.
+Antalet plankorsningar.
+Table 8.
+Number of level crossings.
+Pasos a nivel
+Pasos a nivel
+Barrera
+Instalación de
+Sin instala-
+Año
+totales
+en vías privadas
+aviso luminoso
+ciones de aviso
+y sonoro
+6 634
+-
+821
+154
+5 659
+1991
+1992
+6 200
+-
+825
+142
+5 233
+1993
+6 161
+-
+833
+139
+5 189
+5 967
+-
+834
+137
+4 999
+1994
+1995
+5 761
+1 109
+821
+138
+4 802
+1996
+5 497
+1 027
+815
+140
+4 545
+5 395
+990
+814
+138
+4 446
+1997
+1998
+5 280
+977
+823
+140
+4 320
+1999
+5 207
+956
+809
+139
+4 262
+5 160
+933
+805
+138
+4 219
+2000
+2001
+5 107
+915
+805
+135
+4 167
+2002
+4 956
+870
+797
+136
+4 023
+4 846
+825
+790
+135
+3 921
+2003
+2004
+4 635
+-
+772
+114
+3 749
+2005
+4 510
+-
+744
+104
+3 662
+4 430
+-
+737
+96
+3 597
+2006
+2007
+4 334
+-
+747
+95
+3 492
+2008
+4 218
+-
+749
+100
+3 369
+4 061
+685
+740
+95
+3 226
+2009
+3 833
+3 016
+Fuente: VR-Yhtymä Oy, Instituto de Estadística (Tilastokeskus), Dirección de Transporte (Liikennevirasto).
+
+
+## Página 53
+
+## 3.5
+### Muertos y heridos en accidentes ferroviarios y por carretera
+El número de muertos en accidentes ferroviarios no ha disminuido durante el período de observación (1991–2010) y ha sido de una media de 20 al año. Aproximadamente la mitad de las muertes se han producido en pasos a nivel y aproximadamente la mitad han sido víctimas bajo el tren en otros lugares que no son pasos a nivel. Unos pocos casos de muerte al año se deben a caídas de trenes o a accidentes del personal.
+Durante el período de observación, el número de muertos en el tráfico por carretera ha descendido claramente, en una media de 18 al año.
+Tabla 9. Daños personales en accidentes ferroviarios y por carretera.
+Tabell 9.
+Personskador i järnvägs- och vägtrafikolyckor.
+Table 9.
+Personal injuries in railway and road traffic accidents.
+Accidentes ferroviarios(1
+Año
+Accidentes por carretera
+Muertos
+Heridos
+Muertos
+Heridos
+graves
+graves
+34
+22
+632
+11 547
+1991
+1992
+31
+15
+601
+9 899
+1993
+20
+20
+484
+7 806
+30
+11
+480
+8 080
+1994
+ 10 191(2
+1995
+17
+15
+441
+1996
+12
+9
+404
+9 299
+21
+16
+438
+8 957
+1997
+1998
+24
+14
+400
+9 097
+1999
+16
+16
+431
+9 052
+20
+25
+396
+8 508
+2000
+2001
+20
+27
+433
+8 411
+2002
+14
+13
+415
+8 156
+ 9 088(2
+17
+17
+379
+2003
+2004
+24
+7
+375
+8 791
+2005
+22
+13
+379
+8 983
+23
+13
+336
+8 580
+2006
+2007
+18
+3
+380
+8 446
+2008
+21
+6
+344
+8 513
+14
+10
+279
+8 057
+2009
+2010
+13
+8
+270
+7 670
+411
+280
+8 297
+177 131
+Total
+media
+21
+14
+415
+8 857
+1) Incluye víctimas bajo el tren y accidentes en pasos a nivel.
+2) La estadística ha cambiado
+Fuente: VR-Yhtymä Oy, Liikenneturva, Instituto de Estadística (Tilastokeskus).
+
+## Página 54
+
+## 4 
+## ACCIDENTES EN PASOS A NIVEL 
+## 4.1 
+### Estadísticas generales de los accidentes en pasos a nivel 1991–2010 
+## 4.1.1 
+### Número de accidentes en pasos a nivel 
+El número de accidentes en pasos a nivel varía mucho anualmente en Finlandia. El número más bajo se ha registrado en los años 1998, 2009 y 2010, cuando ocurrieron menos de 40 accidentes anuales. El mayor número de accidentes ocurrió en 1991, con un total de 97. El número de accidentes puede, por tanto, variar en varios porcentajes entre años consecutivos. Al examinar la media móvil de tres años del número de accidentes, se observa que en la década de 1990 el número de accidentes disminuyó en más de un tercio. No hay una tendencia clara en el número en la década de 2000. 
+El número de otros accidentes ferroviarios7 ha disminuido claramente durante el período de examen. Por ejemplo, durante los últimos siete años ha habido una media de menos de un accidente al año.  
+El número anual de accidentes de tráfico por carretera con víctimas mortales o heridos graves que llegan a conocimiento de la policía ha sido de 6 000–7 000 en la década de 2000. La tendencia desde 2005 ha sido descendente. 
+Tabla 10. Número anual de accidentes en pasos a nivel y su evolución, así como el número de accidentes ferroviarios y de accidentes de tráfico. 
+Tabell 10. 
+Det årliga antalet plankorsningsolyckor och utvecklingen av antalet och antalet järnvägs-
+olyckor och trafikolyckor. 
+Table 10. 
+Annual number of level crossing accidents and its development. Number of railway acci-
+dents and traffic accidents. 
+Año 
+Accidentes en 
+Media móvil de 
+Otros accidentes 
+Accidentes de 
+pasos a nivel1) 
+3 años 
+ferroviarios2) 
+tráfico 
+97 
+- 
+34 
+8 804 
+1991 
+85 
+32 
+- 
+7 341 
+1992 
+  173) 
+76 
+86 
+5 713 
+1993 
+  5 8223) 
+66 
+17 
+76 
+1994 
+50 
+13 
+64 
+7 812 
+1995 
+47 
+5 
+7 274 
+54 
+1996 
+52 
+8 
+6 980 
+50 
+1997 
+39 
+8 
+6 902 
+46 
+1998 
+48 
+9 
+6 997 
+46 
+1999 
+52 
+3 
+6 633 
+46 
+2000 
+60 
+3 
+6 451 
+53 
+2001 
+42 
+6 
+6 196 
+51 
+2002 
+  6 9073) 
+52 
+7 
+51 
+2003 
+52 
+49 
+2 
+6 767 
+2004 
+64 
+56 
+0 
+7 022 
+2005 
+60 
+59 
+0 
+6 740 
+2006 
+47 
+57 
+0 
+6 657 
+2007 
+7  Se entiende por accidente ferroviario, en este contexto, los accidentes significativos ocurridos en el tráfico ferroviario, excluidos los accidentes en pasos a nivel. 
+
+
+## Página 55
+
+6 881 
+34 
+46 
+2 
+6 414 
+2009 
+33 
+42 
+1 
+6 067 
+2010 
+Total 
+1 114 
+- 
+168 
+136 380 
+56 
+8 
+6 819 
+media 
+1) Incluye los accidentes significativos ocurridos en el tráfico ferroviario y estadificados por VR, excluidos los acci-
+dentes en pasos a nivel. 
+2) Incluye los accidentes que han provocado víctimas mortales o heridos. 
+3) Estadística modificada. 
+Fuente: VR-Yhtymä Oy, Liikenneturva, Tilastokeskus, Liikennevirasto. 
+## 4.1.2 
+### Víctimas en los accidentes en pasos a nivel 
+En los accidentes en pasos a nivel murieron un total de 191 personas y resultaron gravemente heridas 97 personas entre 1991 y 2010. En las estadísticas utilizadas (VR) no se han estadificado los heridos leves. El número de muertos y heridos en los accidentes en pasos a nivel varía considerablemente de un año a otro. La estadificación del número de heridos conlleva incertidumbre debido a la variabilidad en la estadificación de las lesiones de distinta gravedad. 
+Tabla 11. Víctimas en los accidentes en pasos a nivel. 
+Tabell 11. 
+Personskador i plankorsningsolyckor. 
+Table 11. 
+Personal injuries in level crossing accidents. 
+Año 
+Muertos 
+Gravemente 
+Total 
+heridos
+20 
+8 
+28 
+1991 
+16 
+9 
+25 
+1992 
+8 
+9 
+17 
+1993 
+12 
+6 
+18 
+1994 
+8 
+7 
+15 
+1995 
+5 
+3 
+8 
+1996 
+13 
+6 
+19 
+1997 
+11 
+2 
+13 
+1998 
+10 
+4 
+14 
+1999 
+10 
+5 
+15 
+2000 
+12 
+6 
+18 
+2001 
+4 
+3 
+7 
+2002 
+6 
+6 
+12 
+2003 
+7 
+3 
+10 
+2004 
+8 
+5 
+13 
+2005 
+5 
+5 
+10 
+2006 
+10 
+2 
+12 
+2007 
+8 
+2 
+10 
+2008 
+10 
+3 
+13 
+2009 
+8 
+3 
+11 
+2010 
+191 
+97 
+288 
+Total 
+media 
+9,5 
+5 
+14,5 
+Los datos incluyen también a peatones. Fuente: VR-Yhtymä Oy. 
+
+
+## Página 56
+
+## 4.1.3 
+Accidentes en pasos a nivel con y sin dispositivos de aviso 
+La mayoría de los accidentes (aproximadamente el 80 %) ocurrieron en pasos a nivel sin dispositivos de aviso. En los pasos a nivel equipados con barreras semiautomáticas ocurrieron 133 accidentes (12 %) durante el período de examen, y en los equipados con dispositivos de aviso lumínico y acústico, 100 accidentes (9 %). 
+Tabla 12. Número de accidentes en pasos a nivel de distintos tipos. 
+Tabell 12. 
+Antalet plankorsningsolyckor med olika typ av utrustning. 
+Table 12. 
+Number of accidents on level crossings with different kind of equipment. 
+Año 
+Accidentes en 
+Barrera 
+Dispositivo de 
+Sin dispositivos 
+pasos a nivel 
+semiautomática 
+aviso lumínico 
+de aviso 
+y acústico 
+97 
+12 
+5 
+80 
+1991 
+1992 
+85 
+8 
+11 
+66 
+1993 
+76 
+12 
+6 
+58 
+66 
+8 
+7 
+51 
+1994 
+1995 
+50 
+6 
+3 
+41 
+1996 
+47 
+8 
+4 
+35 
+52 
+9 
+5 
+38 
+1997 
+1998 
+39 
+3 
+8 
+28 
+1999 
+48 
+10 
+4 
+34 
+52 
+4 
+4 
+44 
+2000 
+2001 
+60 
+8 
+3 
+49 
+2002 
+42 
+4 
+5 
+33 
+52 
+7 
+5 
+40 
+2003 
+2004 
+52 
+7 
+4 
+41 
+2005 
+64 
+3 
+6 
+55 
+60 
+4 
+5 
+51 
+2006 
+2007 
+47 
+6 
+4 
+37 
+2008 
+58 
+7 
+6 
+45 
+34 
+2 
+4 
+28 
+2009 
+2010 
+33 
+5 
+1 
+27 
+1 114 
+133 
+100 
+881 
+Total 
+56 
+7 
+5 
+44 
+media 
+Fuente: VR-Yhtymä Oy. 
+## 4.1.4 
+### Vehículo de carretera implicado en el accidente en el paso a nivel 
+La mayoría de los accidentes en pasos a nivel con vehículos a motor ocurrieron con turismos (una media de aproximadamente el 60 %). También la proporción de camiones es significativa, en torno al 30 %. Las proporciones de tractores, motocicletas, ciclomotores y autobuses son reducidas. Sin embargo, con los tractores ocurren accidentes prácticamente todos los años, en algunos años más de 5. El autobús ha estado implicado en un accidente en un total de 9 ocasiones y la motocicleta o el ciclomotor en 29 ocasiones.  
+
+
+## Página 57
+
+Tabla 13. Accidentes en pasos a nivel con distintos vehículos de carretera. 
+Tabell 13. 
+Plankorsningsolyckor som olika vägtrafikfordon råkat ut för. 
+Table 13. 
+Different road vehicles in level crossing accidents. 
+Año 
+Turismo 
+Camión 
+Autobús 
+Tractor 
+Motocicleta 
+o maquinaria 
+o ciclomotor 
+65 
+20 
+1 
+2 
+4 
+1991 
+1992 
+58 
+17 
+1 
+4 
+4 
+1993 
+46 
+22 
+0 
+5 
+0 
+41 
+14 
+1 
+5 
+2 
+1994 
+1995 
+23 
+19 
+1 
+2 
+3 
+1996 
+27 
+12 
+0 
+4 
+4 
+32 
+11 
+0 
+3 
+3 
+1997 
+1998 
+17 
+15 
+1 
+2 
+1 
+1999 
+32 
+12 
+1 
+1 
+1 
+23 
+23 
+0 
+5 
+0 
+2000 
+2001 
+33 
+18 
+0 
+5 
+0 
+2002 
+20 
+12 
+0 
+6 
+1 
+27 
+23 
+1 
+1 
+0 
+2003 
+2004 
+26 
+20 
+0 
+6 
+0 
+2005 
+36 
+19 
+0 
+5 
+0 
+33 
+20 
+0 
+4 
+1 
+2006 
+2007 
+32 
+9 
+1 
+2 
+0 
+2008 
+21 
+28 
+0 
+4 
+2 
+23 
+7 
+1 
+2 
+1 
+2009 
+2010 
+16 
+6 
+0 
+5 
+2 
+631 
+327 
+9 
+73 
+29 
+Total 
+32 
+16 
+0,5 
+3,5 
+1,5 
+media 
+Fuente: VR-Yhtymä Oy. 
+## 4.2 
+### Accidentes en pasos a nivel con vehículos a motor que han provocado víctimas mortales 1991–2009 
+El material de investigación estaba constituido por el material de los comités de investigación de los accidentes en pasos a nivel con vehículos a motor que habían provocado víctimas mortales y por el registro de información sobre accidentes de los años 1991–2009 (LVK, 1991–2009).  
+Al material del registro de información sobre accidentes se le añadieron algunos datos adicionales relativos a pasos a nivel. Los datos adicionales se recogieron del material de los comités de investigación (expedientes de investigación de accidentes). Estos datos adicionales —que, por tanto, faltan en el registro de información sobre accidentes— eran, entre otros, el tipo de paso a nivel y el tipo de tren. Por tipo de paso a nivel se entiende en este caso la clasificación en pasos a nivel con y sin dispositivos de aviso. De los pasos a nivel con dispositivos de aviso se registró también la clase del dispositivo de aviso: barrera semiautomática o dispositivo de aviso lumínico y acústico. Además, se registró si en el paso a nivel sin dispositivos de aviso, en el momento del accidente, estaba instalado o no el señal STOP. El tipo de tren se dividió de forma aproximada en tres clases: trenes de pasajeros, trenes de mercancías y maquinaria de vía. Los datos anteriores se recogieron de todos los accidentes en pasos a nivel que habían provocado víctimas mortales en los años 1991–2009. Los datos pueden considerarse fiables, ya que pudieron extraerse directamente de los expedientes de investigación de accidentes sin necesidad de una evaluación especial. 
+
+
+## Página 58
+
+Se intentó evaluar las características de los pasos a nivel en relación con las directrices de RATA para los accidentes de la década de 2000. Como características se examinaron la suficiencia de la visibilidad, el ángulo de encuentro entre la carretera y el paso a nivel, la longitud del tramo recto de la carretera antes del paso a nivel y el estado de la plataforma de espera. Entre 2007 y 2010, el Centro de Investigación de Accidentes (OTKES) investigó todos los accidentes en pasos a nivel que habían provocado víctimas mortales, y de los informes de investigación de estos accidentes se obtuvo información fiable sobre estas características. Para los años 2000–2006 se revisó el material de los comités de investigación (expedientes de investigación de accidentes) y a partir de él se intentó evaluar si el paso a nivel cumplía las directrices de RATA en relación con los factores mencionados anteriormente o no. Dado que los comités de investigación de accidentes de tráfico no se han centrado de la misma manera en el esclarecimiento de las características de los pasos a nivel como las investigaciones de OTKES, no siempre se obtuvo del material de los comités de investigación información suficiente sobre las características de los pasos a nivel. La suficiencia de la visibilidad, el ángulo de encuentro entre la carretera y el paso a nivel, la longitud del tramo recto de la carretera y el estado de la plataforma de espera se evaluaron, entre otros, sobre la base de los resultados de medición, el informe de investigación, las imágenes y las declaraciones de testigos. Para los años 2000-2006 las evaluaciones solo pueden considerarse orientativas. En los casos dudosos se consideró que la característica del paso a nivel cumplía las directrices de RATA. 
+En un estudio previo de seguridad en pasos a nivel (S1/2005R) se describieron de forma exhaustiva los factores relacionados con el vehículo y el conductor de la locomotora, los vehículos y el entorno de la carretera. Aquí no se repiten las descripciones correspondientes. En su lugar, este examen se centra en describir los tipos de pasos a nivel y sus características, y en intentar encontrar aquellos factores relacionados con el conductor, el vehículo y las condiciones que están conectados con los accidentes en pasos a nivel de distintos tipos. Un posible cambio temporal se examinó dividiendo el período de examen en dos: los accidentes en pasos a nivel de la década de 1990 y los de la década de 2000. 
+Durante los 19 años en total que se examinaron habían ocurrido 138 accidentes en pasos a nivel que habían provocado víctimas mortales (gráfico 1, tabla en el anexo 4). En los accidentes murieron 170 personas.  
+
+
+## Página 59
+
+Accidentes de tráfico/10
+50
+Muertos en accidentes de tráfico/10
+Accidentes en pasos a nivel
+Muertos en accidentes en pasos a nivel
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+1997
+2004
+1991
+1992
+1993
+1994
+1995
+1996
+1998
+1999
+2000
+2001
+2002
+2003
+2005
+2006
+2007
+2008
+2009
+Gráfico 1. Número anual de accidentes en pasos a nivel y de otros accidentes de tráfico con vehículos a motor que han provocado víctimas mortales, y número de personas fallecidas en los accidentes. En el gráfico, el número de accidentes de tráfico y el de fallecidos se han dividido entre diez. Datos: registro de datos del material de los comités de investigación de los accidentes con vehículos a motor que han provocado víctimas mortales (LVK, 1991–2009). 
+Schema 1. Antalet av plankorsningsolyckor och övriga trafikolyckor av motorfordon samt antalet omkomna 
+i olyckor per år. I schemat har antalet trafikolyckor och omkomna dividerats med tio. Material: 
+dataregister med undersökningskommissionens material över motorfordonsolyckor med dödlig 
+utgång (LVK, 1991–2009). 
+Diagram 1. Annual numbers of level crossing and other fatal motor vehicle road accidents, and the number 
+of deaths. In the diagram, the numbers of traffic accidents and the fatalities are divided by ten. 
+Data: data register of investigation team material on fatal motor vehicle accidents (Finnish Mo-
+tor Insurers’ Centre, 1991–2009). 
+### Tipo de paso a nivel 
+De los 133 accidentes examinados (de cinco accidentes faltaba la información), el 78 % (104 accidentes) ocurrió en un paso a nivel sin dispositivos de aviso y el 22 % (29 accidentes) en un paso a nivel con dispositivos de aviso. Durante los 19 años examinados no se produjeron cambios en la distribución de los accidentes entre los distintos tipos de pasos a nivel. 
+En 39 de los pasos a nivel sin dispositivos de aviso en los que ocurrieron accidentes había señal STOP (el 38 % de todos los accidentes ocurridos en pasos a nivel sin dispositivos de aviso). En la proporción de pasos a nivel equipados con señal STOP en los accidentes no se habían producido cambios durante el período de seguimiento. Aproximadamente el 14 % de todos los pasos a nivel sin dispositivos de aviso de Finlandia están equipados con señal STOP (Kallberg 2009). 
+En 24 de los pasos a nivel con dispositivos de aviso en los que ocurrieron accidentes (83 %) había barrera semiautomática y en cinco (17 %) había control lumínico y acústico.
+
+## Página 60
+
+### Tipo de paso a nivel y momento del accidente
+Los accidentes en pasos a nivel suelen ocurrir típicamente por la mañana y durante el día, y en las distribuciones de accidentes por tipo de paso a nivel no había diferencias estadísticamente significativas según la hora del día. En los pasos a nivel con dispositivo de aviso, el accidente ocurrió con mayor frecuencia por la mañana (41 % de los casos) y en los pasos a nivel sin dispositivo de aviso, el momento más frecuente fue por la tarde (44 % de los casos). Tampoco según la época del año las distribuciones de accidentes por tipo de paso a nivel se diferenciaban entre sí. Los accidentes en pasos a nivel con dispositivo de aviso ocurrieron con mayor frecuencia en primavera (34 %) y los de pasos a nivel sin dispositivo de aviso en verano (37 %).
+### Tipo de paso a nivel y conductores de vehículos
+El 79 % de los accidentes en pasos a nivel ocurrieron a hombres y el 21 % a mujeres. De los accidentes a hombres, una proporción considerablemente mayor ocurrió en pasos a nivel con dispositivo de aviso (26 %) que en los de mujeres (7 %) (diferencia estadísticamente significativa; df=1, ²=4.83, p<.05). La edad media de los conductores de vehículos afectados por accidentes en pasos a nivel fue de 43,3 años en los pasos a nivel con dispositivo de aviso y de 45,7 años en los pasos a nivel sin dispositivo de aviso (diferencia no estadísticamente significativa; df=131, t=-0.58). El conductor de vehículo más joven afectado por un accidente en paso a nivel tenía 13 años y el de mayor edad 90 años. Por su profesión, los conductores eran en su mayoría trabajadores. Sin embargo, la proporción de jubilados era grande, aproximadamente una cuarta parte de todos los conductores eran jubilados. Del mismo período de tiempo, entre los principales causantes de accidentes de colisión de vehículos a motor que no conducían a la muerte en pasos a nivel, casi una quinta parte eran jubilados. El 8 % de los conductores estaba en ejercicio profesional en el momento del accidente. El trayecto laboral u otra conducción relacionada con la profesión fue el caso en el 18 % de los casos.
+### Tipo de paso a nivel y factor de riesgo inmediato
+Por factor de riesgo inmediato del accidente se entiende el factor de riesgo que ha actuado activamente en el suceso del accidente y que temporalmente ha influido más directamente en el suceso del accidente. El factor de riesgo inmediato es, por ejemplo, el error de acción o la forma de actuar de la persona afectada por el accidente que conduce al accidente. También puede ser un cambio repentino en el vehículo (por ejemplo, la explosión de una rueda) o en el entorno (por ejemplo, la caída de un árbol), pero estos son considerablemente más raros que los factores de riesgo humanos. El factor de riesgo inmediato del accidente se determina siempre caso por caso sobre la base del transcurso externo del accidente investigado por la junta de investigación y de los factores de fondo. (Plan de investigación VALT 2003).
+El factor de riesgo inmediato más típico de los accidentes en pasos a nivel es el error de percepción del conductor del vehículo. Era especialmente típico en los pasos a nivel sin dispositivo de aviso; en el 70 % de todos los accidentes en pasos a nivel sin dispositivo de aviso, el factor de riesgo inmediato del accidente fue el error de percepción del conductor. En los accidentes en pasos a nivel con dispositivo de aviso, la asunción de riesgo del conductor del vehículo (conducir sin prestar atención a un peligro posible) o el acto deliberado (conducir conscientemente hacia la situación, es decir, suicidio) era más frecuente (35 %) que en los accidentes en pasos a nivel sin dispositivo de aviso (3 %) (diferencia estadísticamente muy significativa; df=17, ²=59.8, p<.001). En los accidentes ocurridos en pasos a nivel con dispositivo de aviso, la proporción de asunción de riesgo era del 17 % y la proporción de suicidios también era del 17 %.
+
+
+## Página 61
+
+Codificar el accidente en la categoría "conducir conscientemente hacia la situación" requiere información precisa sobre el transcurso del accidente, así como también que en los antecedentes del conductor se encuentre alguna información que apoye la presunción de suicidio, por ejemplo, un mensaje de suicidio. Sin embargo, no siempre es posible investigar el transcurso de los accidentes y los factores de fondo del conductor con la suficiente fiabilidad como para poder concluir que se trató de un acto deliberado. Por ejemplo, si el vehículo queda bajo el tren en un paso a nivel con dispositivo de aviso de tal manera que no hay ningún testigo del caso y las observaciones del maquinista sobre el caso son incompletas. ¿Se trató del intento del conductor de llegar a tiempo en el último momento antes del tren, se había quedado el vehículo sin combustible en el paso a nivel o se había detenido intencionadamente el conductor en el paso a nivel?
+En los conductores varones, como factor de riesgo inmediato en los accidentes ocurridos en pasos a nivel con dispositivo de aviso, a menudo era conducir sin prestar atención a un peligro posible (a la aventura, con riesgo, conducir a través de rojo) o la intencionalidad. Su proporción era del 37 % de todos los factores de riesgo inmediatos de los hombres en pasos a nivel con dispositivo de aviso. Los errores de percepción constituían el 33 % y los errores de previsión y evaluación el 30 % de todos los factores de riesgo inmediatos de los hombres en pasos a nivel con dispositivo de aviso. De los accidentes de mujeres, solo dos ocurrieron en pasos a nivel con dispositivo de aviso. En uno, como riesgo inmediato, hubo un error en el uso del acelerador y en el otro, otro factor humano.
+Entre los sexos no había diferencia estadísticamente significativa en los riesgos inmediatos cuando se examinaban los accidentes en pasos a nivel sin dispositivo de aviso.
+100
+Sin dispositivo de aviso
+Con dispositivo de aviso
+90
+80
+70
+60
+50
+%
+40
+30
+20
+10
+0
+Error de percepción
+Errores de previsión y
+Conducción con
+Manejo del
+evaluación
+riesgo, intencionalidad
+vehículo
+Gráfico 2.
+Factor de riesgo inmediato del accidente en pasos a nivel sin y con dispositivos de aviso.
+Schema 2.
+Direkt riskfaktor vid plankorsning utan varningsanordningar respektive med varningsanordningar.
+Diagram 2.
+The immediate risk factor of an accident occurring at level crossings without and with warning devices.
+
+
+## Página 62
+
+### Tipo de paso a nivel y riesgos de fondo del conductor
+El paso a nivel era habitualmente conocido por el conductor del vehículo y en esto no había diferencia según el tipo de paso a nivel. Aproximadamente la mitad de los conductores se había desplazado por el lugar casi a diario y al menos mensualmente más del 80 % de los conductores.
+La velocidad de conducción utilizada por el conductor no difería en los accidentes en pasos a nivel sin y con dispositivo de aviso. La gran mayoría de los conductores había conducido a una velocidad máxima de 30 km/h (gráfico 3).
+Sin dispositivo de aviso
+50
+45
+Con dispositivo de aviso
+40
+35
+30
+%
+25
+20
+15
+10
+5
+0
+<11 km/h
+11-20
+21-30
+31-40
+41-50
+51-60
+61-80
+km/h
+km/h
+km/h
+km/h
+km/h
+km/h
+Gráfico 3.
+Velocidad de conducción del conductor del vehículo en accidentes con resultado de muerte en pasos a nivel sin y con dispositivos de aviso.
+Schema 3.
+Den hastighet som fordonets förare hållit i dödsolyckor vid plankorsningar utan respektive med varningsanordningar.
+Diagram 3.
+The vehicle driving speed in accidents resulting in deaths at level crossings without and with warning devices.
+El conductor había conducido con exceso de velocidad local más frecuentemente en los accidentes ocurridos en pasos a nivel con dispositivo de aviso (13 % de los conductores) que en los pasos a nivel sin dispositivo de aviso (2 %) (diferencia estadísticamente significativa; df=1, ²=5.07, p<.05). El exceso de velocidad local era como máximo de 10 km/h. Dado que los excesos de velocidad son más probables en pasos a nivel con límite de velocidad bajo, el examen se realizó por separado para las carreteras cuyo límite de velocidad era como máximo de 60 km/h. Había 19 de tales carreteras en los accidentes en pasos a nivel con dispositivo de aviso y 48 en los accidentes en pasos a nivel sin dispositivo de aviso.
+Cuando se excluyeron del examen los vehículos detenidos y aquellos cuya velocidad no pudo determinarse, habían conducido con exceso de velocidad 3 conductores en los accidentes en pasos a nivel con dispositivo de aviso (19 %) y 2 conductores en los accidentes en pasos a nivel sin dispositivo de aviso (5 %). Sin embargo, la diferencia no es estadísticamente significativa.
+
+
+## Página 63
+
+En los pasos a nivel sin dispositivo de aviso, la velocidad de conducción del conductor del vehículo antes de la situación de peligro había sido como máximo de 20 km/h en el 36 % y en los con dispositivo de aviso en el 29 % de los casos.
+El conductor estaba bajo la influencia del alcohol más frecuentemente en los accidentes ocurridos en pasos a nivel con dispositivo de aviso (22 %) que en los sin dispositivo de aviso (7 %) (diferencia estadísticamente significativa; df=1, ²=4.97, p<.05).
+El propósito del viaje había sido típicamente hacer gestiones o un viaje de ocio. El trayecto laboral o un viaje relacionado con la profesión había sido el caso en el 31 % de los conductores en pasos a nivel sin dispositivo de aviso y en el 22 % en pasos a nivel con dispositivo de aviso. La información sobre si el conductor tenía prisa estaba disponible para aproximadamente el 70 % de los conductores. En los accidentes ocurridos en pasos a nivel con dispositivo de aviso, aproximadamente un tercio tenía prisa (6 conductores de 19), en los sin dispositivo de aviso aproximadamente el 18 % (13 conductores de 73) (diferencia no estadísticamente significativa).
+Aproximadamente a la mitad de los conductores cuyo accidente ocurrió en un paso a nivel sin dispositivo de aviso les había sido diagnosticada alguna enfermedad crónica. La proporción correspondiente entre los conductores de pasos a nivel con dispositivo de aviso era del 36 %. Sin embargo, la diferencia no es estadísticamente significativa.
+El conductor tenía un permiso de conducir vigente y suficiente más frecuentemente en los accidentes ocurridos en pasos a nivel sin dispositivo de aviso (91 %) que en los con dispositivo de aviso (69 %) (diferencia estadísticamente muy significativa; df=5, ²=23.3, p<.001). El 21 % de los conductores de pasos a nivel con dispositivo de aviso estaba en prohibición de conducir o su permiso de conducir había caducado. El 10 % de los conductores de pasos a nivel con dispositivo de aviso y el 9 % de los de pasos a nivel sin dispositivo de aviso nunca habían tenido permiso de conducir. Conducían habitualmente un ciclomotor en el momento del accidente. De los once ciclomotoristas de todo el material, a diez nunca les había sido expedido un permiso de conducir.
+### Participante del tráfico ferroviario y del tráfico por carretera
+En algo más de la mitad de los accidentes (52 %, 69 casos) el participante del tráfico ferroviario era un tren de pasajeros, en el 42 % un tren de mercancías (56 casos) y en un seis por ciento una máquina de trabajo en vía o una locomotora (8 casos). En el período de tiempo examinado, la proporción de trenes de pasajeros había disminuido y la de trenes de mercancías y de máquinas de trabajo en vía y locomotoras había aumentado. En la década de 1990, en el 61 % de los accidentes en pasos a nivel el participante del tráfico ferroviario era un tren de pasajeros, mientras que en la década de 2000 la proporción era ya del 39 % (diferencia estadísticamente significativa; df=2, ²=8.23, p<.05).
+En los accidentes ocurridos en pasos a nivel con dispositivo de aviso, el participante del tráfico ferroviario era típicamente un tren de pasajeros (79 %) y en los accidentes en pasos a nivel sin dispositivo de aviso un tren de mercancías (48 %) (diferencia estadísticamente muy significativa; df=2, ²=11.7, p<.01).
+El participante del tráfico por carretera era un automóvil de turismo en el 67 % de los casos. La proporción de furgonetas era del 12 % y la de ciclomotores del 8 %. El 5 % de los participantes del tráfico por carretera eran vehículos pesados, camiones, autobuses y combinaciones de vehículos pesados. Las proporciones relativas de furgonetas, ciclomotores y tractores eran mayores en los accidentes en pasos a nivel con resultado de muerte que en otros accidentes de colisión con resultado de muerte.
+En las distribuciones globales de los participantes no se habían producido cambios durante el período de seguimiento, pero al comparar la proporción de ciclomotores con la de otros vehículos en las décadas de 1990 y 2000, era
+
+## Página 64
+
+se observa que la proporción de ciclomotores ha disminuido (diferencia estadísticamente significativa; df=1, ²=4.53, p<.05). En los accidentes a nivel de carretera de la década de 1990, un ciclomotor estaba implicado en el tráfico por carretera en el 12 % de los casos, pero en la década de 2000 solo en el 2 %. Si se examinan los demás accidentes de colisión que han provocado muertes en el mismo período, se observa que la proporción de ciclomotores entre los principales responsables era del 6 % en la década de 1990 y del 4 % en la década de 2000. Al mismo tiempo, el uso de ciclomotores ha aumentado, medido por el número de registros de ciclomotores, y también ha aumentado el número de accidentes que han provocado lesiones a los conductores de ciclomotores.
+Tabla 14. Tipo de vehículo en accidentes a nivel de carretera con víctimas mortales y en otros accidentes de colisión con víctimas mortales en los años 1991–1999 y 2000–2009. Vehículos principales responsables de los accidentes.
+Tabell 14.
+Typ av fordon i dödsolyckor vid plankorsningar och andra dödsolyckor vid kollisioner 1991–1999 och 2000–2009. Typ av fordon som orsakade olyckan.
+Table 14.
+Vehicle type in level crossing accidents and other collision accidents resulting in deaths between 1991–1999 and 2000–2009. The type of vehicle primarily responsible for the accidents.
+Vehículo
+Accidentes a nivel de carretera
+Otros accidentes de colisión con víctimas mortales
+1991–1999
+2000–2009
+1991–1999
+2000–2009
+f
+%
+f
+%
+f
+%
+f
+%
+Turismo
+53
+63,1
+41
+75,9
+1 109
+75,7
+1 058
+76,1
+Furgoneta
+11
+13,1
+5
+9,2
+92
+6,3
+60
+4,3
+Camión
+  3
+3,5
+1
+1,9
+29
+2,0
+46
+3,3
+Autobús
+  1
+1,2
+0
+-
+8
+0,5
+6
+0,4
+Motocicleta
+  1
+1,2
+0
+-
+36
+2,5
+69
+5,0
+Ciclomotor
+10
+11,9
+1
+1,9
+89
+6,1
+55
+4,0
+Tractor
+  2
+2,4
+4
+7,4
+12
+0,8
+9
+0,6
+Conjunto de vehículos pesados
+  1
+1,2
+1
+1,9
+73
+5,0
+75
+5,4
+Otros
+  2
+2,4
+1
+1,9
+17
+1,1
+12
+0,9
+Total
+84
+100,0
+54
+100,0
+1 465
+100,0
+1 390
+100,0
+Nota. En la tabla, los vehículos con remolque se incluyen en la categoría principal, excepto en el caso de los camiones, que se examinan por separado. La categoría «Otros» incluye, entre otros, vehículos especiales, motos de nieve y máquinas de trabajo.
+### Uso de la señal acústica y frenado del maquinista antes de la colisión
+Se dispone de información sobre las acciones del maquinista para prevenir el accidente en 128 accidentes. De estos, en el 41 % el maquinista había emitido la señal acústica y en el 33 % había frenado. El maquinista ha podido tanto emitir la señal acústica como frenar, pero solo se ha registrado una de las dos acciones. En el 26 %, el maquinista no tuvo tiempo de hacer nada para prevenir el accidente. La emisión de la señal acústica o el frenado no estaban relacionados con el tipo de paso a nivel. Tampoco hubo diferencias entre los accidentes de la década de 1990 y los de la década de 2000 en cuanto a las acciones del maquinista.
+Por el contrario, sí importaba para las acciones del maquinista si la locomotora diésel circulaba con el motor principal, es decir, la llamada «nariz larga», por delante. Cuando la locomotora circula con la nariz larga por delante, la protección de la sala de motores obstaculiza la visión del maquinista hacia delante y a la izquierda. De los accidentes de la década de 2000 examinados, se pudo deducir de 41 que en 12 accidentes (29 %) la locomotora había circulado con la nariz larga por delante. En estos, el maquinista no tuvo tiempo de hacer nada antes de la colisión
+
+
+## Página 65
+
+significativamente más a menudo (58 %) que en las situaciones en las que la nariz de la locomotora no obstaculizaba la visión (14 %).
+### Tipo de paso a nivel y factores de fondo relacionados con el entorno
+Los accidentes en pasos a nivel sin dispositivos de aviso se produjeron la mayoría de las veces en carreteras privadas (77 %) y los de pasos a nivel con dispositivos de aviso en carreteras regionales o de enlace (66 %) (diferencia estadísticamente muy significativa; df=6, ²=60.2, p<.001).
+Sin dispositivo de aviso
+100
+Con dispositivo de aviso
+90
+80
+70
+60
+%
+50
+40
+30
+20
+10
+0
+Carretera
+Carretera
+Carretera privada
+Otra
+regional o de
+urbana
+o zona
+enlace
+Gráfico 4.
+Tipo de carretera en accidentes con víctimas mortales en pasos a nivel sin y con dispositivos de aviso.
+Schema 4.
+Typ av väg i dödsolyckor vid plankorsningar utan respektive med varningsanordningar.
+Diagram 4.
+The road type in accidents resulting in deaths at level crossings without and with warning devices.
+Los accidentes en pasos a nivel con dispositivos de aviso se situaron más a menudo en zonas urbanas (47 %) que los de pasos a nivel sin dispositivos de aviso (12 %). La zona de baja densidad de población era un emplazamiento más típico en los accidentes en pasos a nivel sin dispositivos de aviso (72 %) que en los de pasos a nivel con dispositivos de aviso (42 %) (diferencia estadísticamente muy significativa; df=3, ²=12.9, p<.01). En las áreas periféricas de las zonas urbanas se produjo el 14 % de los accidentes en pasos a nivel sin dispositivos de aviso y el 11 % de los de pasos a nivel con dispositivos de aviso.
+El límite de velocidad de la carretera era típicamente de 80 km/h en los pasos a nivel sin dispositivos de aviso y de 50 km/h en los con dispositivos de aviso (gráfico 5). No había diferencias estadísticamente significativas en la distribución de los límites de velocidad. Tampoco había diferencias estadísticamente significativas en la distribución de los límites de velocidad de la vía en los accidentes producidos en pasos a nivel sin y con dispositivos de aviso (gráfico 7). El límite de velocidad de la vía más típico era de 120 km/h en ambos tipos de paso a nivel. El límite de 80 km/h también era común en los pasos a nivel sin dispositivos de aviso.
+En la mayoría de todos los pasos a nivel, el límite de velocidad de la carretera era el límite general de 80 km/h: en el 66 % de los pasos a nivel con dispositivos de aviso y en el 79 % de los sin dispositivos de aviso (gráfico 6). El límite de velocidad de la vía
+
+
+## Página 66
+
+era típicamente de 100 (sin dispositivo de aviso 22 %, con dispositivo de aviso 26 %) o de 140 km/h (sin dispositivo de aviso 14 %, con dispositivo de aviso 29 %), y en los pasos a nivel sin dispositivos de aviso también de 60 km/h (19 %) (gráfico 8).
+100 %
+Sin dispositivo de aviso
+90 %
+Con dispositivo de aviso
+80 %
+70 %
+60 %
+50 %
+40 %
+30 %
+20 %
+10 %
+0 %
+< 40 km/h
+40 km/h
+50 km/h
+60 km/h
+80 km/h
+Gráfico 5.
+Límite de velocidad de la carretera en accidentes con víctimas mortales en pasos a nivel sin y con dispositivos de aviso.
+Schema 5.
+Hastighetsbegränsning på vägen i dödsolyckor vid plankorsningar utan respektive med varningsanordningar.
+Diagram 5.
+The road speed limit in fatal accidents at level crossings without and with warning devices.
+100 %
+Sin dispositivo de aviso
+Con dispositivo de aviso
+90 %
+80 %
+70 %
+60 %
+50 %
+40 %
+30 %
+20 %
+10 %
+0 %
+< 40 km/h
+40 km/h
+50 km/h
+60 km/h
+80 km/h
+Gráfico 6.
+Límite de velocidad de la carretera en todos los pasos a nivel sin y con dispositivos de aviso.
+Schema 6.
+Hastighetsbegränsning på vägen vid alla plankorsningar utan respektive med varningsanordningar.
+Diagram 6.
+The road speed limit at all level crossings without and with warning devices.
+
+
+## Página 67
+
+100 %
+Sin dispositivo de aviso
+90 %
+Con dispositivo de aviso
+80 %
+70 %
+60 %
+50 %
+40 %
+30 %
+20 %
+10 %
+0 %
+<60 km/h
+60 km/h
+70 km/h
+80 km/h
+100  km/h
+110 km/h
+120 km/h
+140 km/h
+Gráfico 7.
+Límite de velocidad de la vía en accidentes con víctimas mortales en pasos a nivel sin y con dispositivos de aviso.
+Schema 7.
+Hastighetsbegränsning på banan i dödsolyckor vid plankorsningar utan respektive med varningsanordningar.
+Diagram 7.
+The speed limit of the track in fatal accidents at level crossings without and with warning devices.
+100 %
+Sin dispositivo de aviso
+Con dispositivo de aviso
+90 %
+80 %
+70 %
+60 %
+50 %
+40 %
+30 %
+20 %
+10 %
+0 %
+< 60 km/h 60 km/h
+70 km/h
+80 km/h
+100 km/h 110 km/h 120 km/h 140 km/h
+Gráfico 8.
+Límite de velocidad de la vía en todos los pasos a nivel sin y con dispositivos de aviso.
+Schema 8.
+Hastighetsbegränsning på banan vid alla plankorsningar utan respektive med varningsanordningar.
+Diagram 8.
+The speed limit of the track at all level crossings without and with warning devices.
+
+
+## Página 68
+
+A partir del año 2002, también se ha codificado en los datos VALT el volumen de tráfico medio diario estimado (KVL) de los implicados en el accidente según su dirección de procedencia. Los datos se han codificado para 26 implicados en el tráfico por carretera en pasos a nivel sin dispositivos de aviso y para tres en pasos a nivel con dispositivos de aviso. El KVL de los pasos a nivel con dispositivos de aviso era considerablemente mayor que el de los sin dispositivos de aviso: en un accidente era de 500 y en dos superaba los 1000.
+En la Tabla 15 se recopilan los datos del KVL de los pasos a nivel sin dispositivos de aviso con víctimas mortales y, como valor de referencia, la distribución del KVL recogida en el llamado proyecto INVE en 2 455 pasos a nivel sin dispositivos de aviso (Kallberg 2009). Aunque el número de casos es pequeño en el caso de los accidentes, puede constatarse la relación entre los volúmenes de tráfico y la probabilidad de accidentes. El 65 % de los accidentes se produjo en un paso a nivel en el que el KVL del tráfico por carretera superaba los 20 vehículos, mientras que al mismo tiempo la proporción de tales pasos a nivel entre todos los pasos a nivel sin dispositivos de aviso incluidos en el inventario era solo del 19 %.
+En los datos de accidentes, el KVL medio era de 120 vehículos en las clases 2– más de 100 y, cuando se eliminó un valor atípico (KVL 500), el KVL medio era de 91 vehículos.
+Del mismo modo, solo aproximadamente un tercio de los accidentes se produjo en pasos a nivel cuyo KVL era inferior a 20 vehículos (una media de 13). Sin embargo, al mismo tiempo, la proporción de estos pasos a nivel con poco tráfico entre todos los pasos a nivel sin dispositivos de aviso era, según el inventario, del 81 %.
+Tabla 15. Volumen de tráfico medio diario estimado del tráfico por carretera (KVL) en accidentes con víctimas mortales en pasos a nivel sin dispositivos de aviso y distribución de los pasos a nivel sin dispositivos de aviso según el KVL en Finlandia (datos INVE, Kallberg 2009).
+Tabell 15.
+Uppskattad genomsnittlig dygnstrafik (ÅMD) för vägtrafik vid plankorsningar utan varningsanordningar där dödsolyckor inträffat samt fördelning av plankorsningar utan varningsanordningar enligt ÅMD i Finland (INVE-material, Kallberg 2009).
+Table 15.
+The estimated average daily road traffic (KVL) in fatal accidents at level crossings without warning devices and the distribution of level crossings without warning devices in Finland in accordance with the KVL (INVE material, Kallberg 2009).
+KVL de la carretera
+Accidentes en pasos a nivel sin dispositivos de aviso
+Distribución de los pasos a nivel sin dispositivos de aviso
+f
+%
+f
+%
+ 10
+4
+15,4
+1 748
+71,2
+11–20
+5
+19,2
+   238
+  9,7
+9
+34,6
+   284
+11,6
+21–50
+3
+11,5
+   135
+  5,5
+51–100
+más de 100
+5
+19,2
+     50
+  2,0
+Total
+26
+100,0
+2 455
+100,0
+El volumen de tráfico medio diario también se había codificado para el implicado en el tráfico ferroviario en 14 de los accidentes en pasos a nivel sin dispositivos de aviso. En la Tabla 16 se combinan los datos de los volúmenes de tráfico por carretera y ferroviario. El KVL del tráfico ferroviario era como máximo de 10 en la mitad de los casos.
+
+
+## Página 69
+
+Tabla 16. Volumen de tráfico medio diario estimado del tráfico por carretera y ferroviario (KVL) en accidentes con víctimas mortales en pasos a nivel sin dispositivos de aviso.
+Tabell 16.
+Uppskattad genomsnittlig dygnstrafik (ÅMD) för vägtrafik och rälstrafik vid plankorsningar utan varningsanordningar där dödsolyckor inträffat.
+Table 16.
+The estimated average daily road and railway traffic (KVL) in fatal accidents at level crossings without warning devices.
+KVL de la carretera
+KVL del tráfico ferroviario
+ 10
+11–20
+21–30
+32
+300
+ 10
+1
+1
+1
+11–20
+2
+1
+21–30
+1
+3
+31–100
+2
+101–300
+1
+500
+1
+La existencia de la señal STOP en el paso a nivel sin dispositivos de aviso no estaba relacionada con el volumen de tráfico medio diario de la carretera. La señal STOP tampoco estaba relacionada con la conformidad de las instrucciones RATO del paso a nivel.
+En cuanto a la nivelación de la carretera, los accidentes en pasos a nivel se diferenciaban en que la carretera estaba más a menudo en pendiente ascendente en los pasos a nivel sin dispositivos de aviso (69 %) que en los con dispositivos de aviso (45 %). La carretera era horizontal (31 %) o en pendiente descendente (21 %) más a menudo en los pasos a nivel con dispositivos de aviso (diferencia estadísticamente significativa; df=3, ²=9.53, p<.05).
+Sin dispositivo de aviso
+100
+Con dispositivo de aviso
+90
+80
+70
+%
+60
+50
+40
+30
+20
+10
+0
+Horizontal
+Ascendente
+Descendente
+Cresta de
+colina u
+otra
+Gráfico 9.
+Nivelación de la carretera en accidentes con víctimas mortales en pasos a nivel sin y con dispositivos de aviso.
+Schema 9.
+Utjämning av vägen i dödsolyckor vid plankorsningar utan respektive med varningsanordningar.
+Diagram 9.
+The road levelling in fatal accidents at level crossings without and with warning devices.
+
+## Página 70
+
+El tipo de tiempo fue habitualmente tiempo seco de verano, el tipo de tiempo despejado o con nubes dispersas, y los accidentes se produjeron típicamente a la luz del día. El tipo de tiempo o el tipo de tiempo y las condiciones de iluminación no difirieron en los accidentes de los distintos tipos de paso a nivel.
+Sin dispositivo de aviso
+100
+Con dispositivo de aviso
+90
+80
+70
+60
+%
+50
+40
+30
+20
+10
+0
+Seco
+Húmedo
+Nevado
+Helado
+Zanjas
+al descubierto
+Gráfico 10. Condiciones meteorológicas en accidentes mortales en pasos a nivel sin y con dispositivos de aviso.
+Schema 10. Väglag i dödsolyckor vid plankorsningar utan respektive med varningsanordningar.
+Diagram 10. The driving conditions in fatal accidents at level crossings without and with warning devices.
+### Cumplimiento de las instrucciones de RATA en pasos a nivel sin dispositivo de aviso en el siglo XXI en accidentes mortales en pasos a nivel
+De los 54 accidentes mortales en pasos a nivel ocurridos en el siglo XXI, 11 se produjeron en pasos a nivel con dispositivo de aviso y 43 en pasos a nivel sin dispositivo de aviso. Aquí se examinaron las visibilidades, los niveles de expectativa y los ángulos de cruce de los pasos a nivel sin dispositivo de aviso en relación con las instrucciones de RATA. El cumplimiento se evaluó con los datos obtenidos de los expedientes de investigación VALT (casos de los años 2000–2006) y de los informes de investigación de OTKES (casos de los años 2007–2009). De todos los casos no se obtuvo una evaluación fiable y por ello faltan algunos datos.
+Las visibilidades de los pasos a nivel sin dispositivo de aviso en todas las direcciones eran conformes a las instrucciones de RATA en 17 pasos a nivel de 40 (42 %) e insuficientes en al menos alguna dirección en 20 pasos a nivel de 40 (58 %). El nivel de expectativa era insuficiente en 22 pasos a nivel de 37 (59 %) y el ángulo de cruce del paso a nivel estaba por debajo de lo indicado en las instrucciones (58,5 grados) en seis accidentes de 32 (16 %).
+La proporción de aquellos accidentes en los que al menos alguno de los factores mencionados anteriormente que influyen en la seguridad del paso a nivel era insuficiente respecto a las instrucciones de RATA fue del 80 % (32 cruces de 40).
+
+## Página 71
+
+## 4.3
+### Accidentes en pasos a nivel ocurridos en los años 2002–2010
+En esta sección se tratan los accidentes en pasos a nivel ocurridos en Finlandia en los años 2002–2010 sobre la base de los informes de desviación de accidentes de VR recopilados por la Autoridad de Transporte. De estos años, la junta de investigación dispuso de forma completa de los informes de desviación. Del material se han eliminado aquellos casos de los que la Autoridad de Transporte ha obtenido información fiable de que se trataba de un suicidio. Los casos inciertos se han dejado incluidos en el material.
+## 4.3.1
+### Parte de la circulación por carretera y tipo de vía
+En los años 2002–2010, sobre la base de la información de los informes de desviación de VR recopilados por la Autoridad de Transporte, se produjeron 440 accidentes en pasos a nivel, de los cuales 55 (13 %) fueron mortales. En la tabla 17 se clasifican los accidentes en función de la parte de la circulación por carretera y del tipo de vía (vía principal/vía secundaria). En esta clasificación, como vía secundaria se han considerado las instalaciones de clasificación, los puertos y las vías industriales.
+Tabla 17. Accidentes en pasos a nivel 2002–2010 clasificados en función de la parte de la circulación por carretera y del tipo de vía.
+Tabell 17.
+Plankorsningsolyckor 2002–2010 klassificerade enligt vägtrafikpart och typ av bana.
+Table 17.
+Level crossing accidents between 2002–2010, categorised by road traffic party and track type.
+Parte de la circulación por carretera
+Total
+Vía principal
+Vía secundaria
+Total
+Mortales
+Total
+Mortales
+Total
+Mortales
+245
+33
+174
+33
+71
+0
+Turismo
+Camión
+94
+1
+24
+1
+70
+0
+34
+3
+27
+3
+7
+0
+Furgoneta
+19
+2
+12
+2
+7
+0
+Tractor
+Máquina de trabajo
+19
+1
+5
+0
+14
+1
+10
+7
+10
+7
+0
+0
+Peatón
+8
+5
+4
+4
+4
+1
+Bicicleta
+Ciclomotor
+6
+1
+5
+1
+1
+0
+3
+2
+3
+2
+0
+0
+Caballo o
+tiro de perros
+2
+0
+0
+0
+2
+0
+Autobús
+440
+55
+264
+53
+176
+2
+Total
+Fuente: Autoridad de Transporte.
+En las vías principales, aproximadamente cada quinto accidente ha sido mortal y en las vías secundarias, respectivamente, aproximadamente cada centésimo. La proporción de accidentes mortales es menor cuanto mayor ha sido el vehículo de la parte de la circulación por carretera implicada. La proporción de accidentes mortales con camiones y autobuses es de aproximadamente el 1 %, con tractores y otras máquinas de trabajo de aproximadamente el 8 %, y con turismos y furgonetas de aproximadamente el 13 %. Con peatones, vehículos de tracción animal, tiro de perros y bicicletas, la proporción es del 67 % de media.
+
+## Página 72
+
+## 4.3.2
+### Accidentes de vehículos a motor en vías principales
+En el gráfico 11 se muestra el número de accidentes en pasos a nivel de vehículos a motor en los años 2002–2010 en vías principales, clasificados según el tipo de carretera (n=247).
+Vía privada
+Calle
+Carretera
+Otra
+Total
+35
+30
+25
+20
+15
+10
+5
+0
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+Gráfico 11. Accidentes en pasos a nivel de vehículos a motor en vías principales según el tipo de carretera 2002–2010.
+Schema 11. Plankorsningsolyckor för motorfordon vid huvudbanorna enligt vägtyp 2002–2010.
+Diagram 11. Level crossing accidents of motor vehicles on the main lines, categorised by road type, between 2002–2010.
+Desde el año 2003 la tendencia ha sido ligeramente descendente. De los accidentes del período de examen, aproximadamente el 60 % se produjo en pasos a nivel de vías privadas.
+En la tabla 18 se presentan los accidentes en pasos a nivel de vehículos a motor en determinados tramos de la vía principal. La tabla incluye solo aquellos tramos de vía en los que el número total de accidentes en los años 2002–2010 fue de al menos seis.
+
+## Página 73
+
+Tabla 18. Número de accidentes en pasos a nivel en 19 tramos de vía de las vías principales.
+Tabell 18.
+Antal plankorsningsolyckor vid banavsnitt 19 på huvudbanorna.
+Table 18.
+Numbers of level crossing accidents on the 19 main line sections.
+Tramo de vía
+Accidentes en pasos a nivel de vehículos a motor 2002–20101)
+Todos los accidentes en pasos a nivel
+[ud./año]
+Total
+Mortales
+[ud.]
+[ud.]
+[%]
+1990–
+2002–
+19992)
+20101)
+Seinäjoki–Kaskinen
+28
+5
+18 %
+3,6
+3,0
+Lahti–Loviisa
+15
+3
+20 %
+1,0
+1,7
+Laurila–Kolari
+14
+2
+14 %
+1,4
+1,6
+Lahti–Heinola
+14
+1
+  7 %
+1,4
+1,6
+Jyväskylä–Haapajärvi
+12
+2
+17 %
+1,1
+1,3
+Haapamäki–Seinäjoki
+11
+0
+  0 %
+1,6
+1,2
+Hyvinkää–Karjaa
+10
+5
+50 %
+0,8
+1,2
+Iisalmi–Ylivieska
+10
+4
+40 %
+2,3
+1,1
+Seinäjoki–Vaasa
+10
+1
+10 %
+1,0
+1,3
+Toijala–Turku
+10
+0
+  0 %
+1,8
+1,6
+Joensuu–Kontiomäki
+9
+0
+  0 %
+2,0
+1,0
+Huutokoski–Parikkala
+9
+1
+11 %
+1,8
+1,0
+Pori–Mäntyluoto
+7
+2
+29 %
+1,0
+0,8
+Siilinjärvi–Viinijärvi
+7
+1
+14 %
+0,6
+0,9
+Orivesi–Haapamäki
+7
+0
+  0 %
+0,9
+0,8
+Kokemäki–Rauma
+6
+2
+33 %
+0,5
+0,7
+Huutokoski–Joensuu
+6
+2
+33 %
+0,9
+0,7
+Karjaa–Hanko
+6
+1
+17 %
+0,6
+0,7
+Turku–Uusikaupunki
+6
+0
+  0 %
+1,2
+0,7
+Total
+195
+32
+16 %
+25,5
+22,7
+Fuente: 1) Autoridad de Transporte, 2) Estrategia de protección y eliminación de pasos a nivel de vías férreas 2020 (2002).
+Según los datos, aproximadamente cada sexto accidente en pasos a nivel con vehículo a motor en vía principal es mortal.
+En la figura 2 se presentan en un mapa los accidentes de vehículos a motor de la tabla 18 (n=195). Los accidentes se han clasificado temporalmente en tres grupos de tres años. En la figura 3 se presentan en un mapa los accidentes en pasos a nivel mortales ocurridos en vías principales en los años 2002–2010 (n=39).
+
+## Página 74
+
+Figura 2.
+Accidentes en pasos a nivel de vehículos a motor en determinados tramos de vía en los años 2002–2010. Los accidentes se han clasificado temporalmente en grupos de tres años. En el mapa se muestran solo los tramos de vía en los que el número total de accidentes es de al menos seis.
+Bild 2.
+Plankorsningsolyckor för motorfordon på vissa banavsnitt 2002–2010. Olyckorna har indelats tidsmässigt i perioder om tre år. På kartan visas endast de banavsnitt där antalet olyckor är minst sex.
+Figure 2.
+Level crossing accidents of motor vehicles on some sections of line between 2002–2010. Accidents are categorised, by time, into periods of three years. Sections of line with more than five accidents are shown on the map.
+
+## Página 75
+
+Figura 3.
+Accidentes en pasos a nivel mortales de vehículos a motor en vías principales 2002–2010 (n=39).
+Bild 3.
+Dödsolyckor för motorfordon vid plankorsningar längs huvudbanorna 2002–2010 (n=39).
+Figure 3.
+Fatal level crossing accidents of motor vehicles on the main lines between 2002–2010 (n=39).
+## 4.3.3
+### Daños personales
+Los daños personales de los 440 accidentes se han registrado de la siguiente manera:
+- hubo 55 accidentes mortales en total (13 %), en los que fallecieron 68 personas
+- se registraron 31 personas gravemente heridas y 101 personas levemente heridas
+- hubo un total de 77 accidentes que condujeron a la muerte o a lesiones graves (18 %)
+- se salvaron sin daños personales en 291 accidentes (66 %) y hubo daños personales en 149 accidentes (34 %)
+
+## Página 76
+
+- en 72 accidentes (16 %) hubo daños personales, pero solo de personas levemente heridas.
+A los grados de lesión mencionados anteriormente (grave/leve) debe prestárseles atención crítica por ser información preliminar obtenida inmediatamente después del accidente, pero sobre su base podrían evaluarse los órdenes de magnitud. En los accidentes en pasos a nivel, el número de fallecidos es elevado en comparación con el número de personas gravemente heridas.
+## 4.4
+### Análisis estadístico
+En este apartado se presentan dos métodos para evaluar la peligrosidad de los pasos a nivel.
+El accidente en un paso a nivel es un suceso muy raro en relación con los volúmenes de tráfico. Aunque es posible clasificar los factores que han influido en el accidente, su relación con la frecuencia de accidentes es muy débil. En esta sección se examina cómo pueden ordenarse los pasos a nivel según su peligrosidad en relación con la frecuencia de accidentes.
+El material de investigación estaba formado por los datos de accidentes y de condiciones de los pasos a nivel obtenidos de la Autoridad de Transporte. Entre las variables se encontraban, entre otras, las visibilidades y las velocidades de los pasos a nivel. El material de accidentes correspondía a los años 2000–2010. El número de pasos a nivel ha disminuido de más de cinco mil en el año 2000 a menos de cuatro mil en el año 2010.
+Los datos no eran totalmente compatibles, ya que había diferencias en los métodos de identificación de los pasos a nivel y las condiciones de los pasos a nivel habían cambiado con el tiempo, por ejemplo, se habían eliminado pasos a nivel y se habían mejorado las visibilidades. Del material se eliminaron pasos a nivel cuyos datos de condiciones presentaban deficiencias. También se detectaron deficiencias en el material de accidentes, pero aparentemente el número de accidentes faltantes es escaso.
+El material contenía 2 585 pasos a nivel. El número de pasos a nivel clasificados según el número de accidentes era el siguiente:
+- 0 accidentes en 2 378 pasos a nivel (92,0 %)
+- 1 accidente en 169 pasos a nivel (6,5 %)
+- 2 accidentes en 31 pasos a nivel (1,2 %)
+- 3–5 accidentes en 7 pasos a nivel (0,3 %).
+Las variables se modificaron para el análisis de regresión aprovechando la partición recursiva, convirtiéndolas en variables de dos o varias clases. Algunas variables ya eran de dos clases, por ejemplo la variable de señal STOP es de este tipo.
+Según el examen de correlación, ninguna de las variables estaba relacionada con la frecuencia de accidentes. Esto se debe probablemente a que los accidentes son, por su naturaleza, muy raros.
+### Método 1: Partición recursiva
+En la partición recursiva (recursive partitioning), el material se clasifica en partes en función de las diferencias de las observaciones respecto a alguna variable. En este examen, la variable a explicar...
+
+## Página 77
+
+tura sobre la frecuencia de accidentes. Con el método se obtiene un árbol de variables con el que el material puede dividirse en partes, es decir, en clases. El número máximo de clases se determina de forma calculada. El problema de la partición recursiva es que, en ciertos casos, algunas variables pueden sobrevalorarse. Además, el número máximo de clases puede cambiar incluso por pequeños cambios. Con el modelo se puede predecir la pertenencia de los pasos a nivel a alguna clase de riesgo (figura 4). (Breiman ym. 1984)
+Se ha utilizado un método similar para el estudio de los pasos a nivel sin aparatos de aviso en Estados Unidos (Yan ym. 2010).
+En el examen, las variables son:
+- 
+### Frecuencia de accidentes: Número de accidentes ocurridos en pasos a nivel en los años 2000–2010. No fue posible localizar todos los accidentes. Esto se debe, entre otras cosas, a que se han suprimido pasos a nivel.
+- 
+### Velocidad máxima permitida (Sn): Velocidad máxima permitida del tren indicada en el horario.
+- 
+### Suma de la conformidad de las señales de stop. El valor mínimo de la variable es cero (= ninguna de las cuatro señales de stop cumple las normas) y el máximo cuatro (= todas las señales de stop son conformes a las disposiciones).
+- 
+### Tráfico medio diario de vehículos a motor en la carretera (KVL).
+- 
+### Velocidad máxima permitida en la carretera.
+- 
+Ángulo de cruce: Ángulo en grados entre las tangentes trazadas en el punto de intersección de las líneas medias de la carretera y la vía (véase anexo 2, punto 9, figura 2).
+- 
+### Línea de nivelación: Variación de la altura de la superficie de la carretera a lo largo de su longitud.
+- 
+### Tráfico medio de trenes al día.
+- 
+### Señal STOP en la cruce.
+- 
+### Barrera como dispositivo de aviso en la cruce: En esta variable se han incluido todos los tipos de barrera.
+- 
+### Cruce sin dispositivo de aviso.
+- 
+### Dispositivos de aviso luminoso y sonoro.
+
+## Página 78
+
+Figura 4. Árbol formado mediante partición recursiva. (ka = media, n = número de pasos a nivel)
+Bild 4.
+Trädschema som bildats genom rekursiv gruppering. (ka = medeltal, n = antal plankorsningar).
+Figure 4. Tree diagram made using recursive categorisation. (ka = average, n = number of level crossings).
+Al modelo se seleccionaron las siguientes variables:
+- 
+tráfico medio diario de vehículos a motor en la carretera (KVL)
+- 
+barrera como dispositivo de aviso en la cruce
+- 
+límite de velocidad de la carretera
+- 
+velocidad máxima permitida de los trenes (Sn)
+- 
+tráfico medio de trenes al día
+- 
+ángulo de cruce.
+
+## Página 79
+
+Algunas variables dividen el material en varias ocasiones. Las demás variables no fueron lo bastante significativas según el modelo para formar una partición.
+En la rama superior del árbol se encuentra la media de accidentes de todos los pasos a nivel durante un período de diez años (0,10). Debajo se encuentra el número de pasos a nivel (n=2 585). En las ramas del árbol se encuentran las condiciones de las variables que dividieron el material. Los extremos de las ramas son las clases. En cada rama y clase se indica la media de accidentes (ka) y el número de pasos a nivel (n). Hay un total de doce clases.
+Como primer criterio de división del material se encuentra el tráfico medio diario de vehículos (KVL). El material se divide en dos partes de modo que a la izquierda el KVL es inferior a 19 y a la derecha al menos 19. La parte dividida a la izquierda es la primera clase, que con este modelo no puede dividirse de forma fiable en más partes. La media de esta clase es 0,03 y la clase contiene 1 500 pasos a nivel. El resto de las clases se forman después de la primera división de modo que deben cumplirse las condiciones de todas las ramas anteriores.
+Según el modelo, la media de accidentes de la clase más peligrosa (clase 12) es 2.
+La clase se forma de modo que
+- 
+el KVL es al menos 19
+- 
+no hay barrera en la cruce.
+- 
+el KVL es al menos 219 (la misma variable aparece por segunda vez)
+- 
+circulan al menos 3 trenes al día
+- 
+el límite de velocidad de la carretera es inferior a 55 kilómetros por hora.
+En la práctica, en un paso a nivel de este tipo el límite de velocidad de la carretera es como máximo 50 km/h, lo que corresponde al límite de velocidad general en localidades. En otras palabras, la peligrosidad de la cruce está relacionada con los volúmenes de tráfico, el límite de velocidad de la carretera y con si la cruce está equipada con barrera.
+El modelo es una predicción. Por ejemplo, en Pohjolankadulla (tabla 19), que se encuentra en la clase 12, no se han producido accidentes, aunque según el modelo la cruce pertenece a la clase más peligrosa. Los pasos a nivel presentan también diferencias que no estaban incluidas en este material, por lo que para evaluar la peligrosidad es necesario un examen cualitativo.
+### Método 2: Regresión logística
+Con la regresión se puede calcular un índice propio para cada paso a nivel. La regresión logística multiclase es un caso especial del modelo lineal generalizado. El modelo de enlace acumulativo es una función de enlace determinada con la que se combinan la variable a explicar y las variables explicativas. Simplificando, con el método se pretende calcular coeficientes para las variables. Por ejemplo, si el coeficiente es negativo, la variable explicativa afecta negativamente a la variable a explicar. El método utilizado para calcular los índices fue la regresión logística multiclase con modelo de enlace acumulativo. (Agresti 1996, Isotalo 2010)
+El propósito del modelo es predecir con qué probabilidad una observación pertenece a una clase determinada. En este estudio se formaron tres clases a partir de la frecuencia de accidentes: sin accidentes durante el período de observación, un accidente durante el período de observación y al menos dos accidentes durante el período de observación. Las variables explicativas se han clasificado utilizando la partición recursiva
+
+## Página 80
+
+En la regresión, a menudo se eligen las variables más fiables para crear el mejor modelo, pero en este estudio se han utilizado todas las variables. Al final, las clases uno y dos se combinaron. De este modo se pudo formar un índice para cada paso a nivel que describe la peligrosidad del paso a nivel en relación con el número de accidentes. Exactamente, el valor del índice describe la probabilidad del evento "al menos un accidente durante un período de diez años", pero a este valor conviene tratarlo con cautela. El índice puede adquirir valores desde al menos cero hasta como máximo uno.
+En el método 2, las variables más significativas fueron el KVL, el número de trenes y el tipo de dispositivo de aviso. Menos influyeron en el modelo las señales de stop y el límite de velocidad de la vía.
+En la tabla 19 se combina la información obtenida con dos métodos diferentes sobre los pasos a nivel más peligrosos. La tabla incluye los pasos a nivel de las tres clases más peligrosas (12, 11 y 10) según la media.
+Tabla 19. Lista de los pasos a nivel más peligrosos obtenida con dos métodos.
+Tabell 19.
+Förteckning över de farligaste plankorsningarna som upprättats med två metoder.
+Table 19.
+List of the most dangerous level crossings compiled using two methods.
+Posición
+Paso a nivel
+Tramo
+Acci-
+Método
+dentes
+1: clase
+2: índice
+1.
+Kuusakoski Oy
+Lahti–Heinola
+2
+12
+0,84
+2.
+Mäki
+Pännäinen–Pietarsaari
+1
+12
+0,84
+3.
+Saha
+Seinäjoki–Kaskinen
+3
+12
+0,84
+4.
+Skinnarbyntie
+Lahti–Loviisa
+1
+10
+0,83
+5.
+Ristikarinkatu
+Pännäinen–Pietarsaari
+2
+12
+0,83
+6.
+Kaukkarintie
+Lahti–Heinola
+2
+10
+0,78
+7.
+Vehkatie
+Iisalmi–Ylivieska
+2
+12
+0,75
+8.
+Enontie
+Seinäjoki–Kaskinen
+4
+12
+0,74
+9.
+Urheiluopisto
+Lahti–Heinola
+1
+10
+0,69
+10.
+Luomankylä
+Seinäjoki–Kaskinen
+1
+10
+0,69
+11.
+Lankila
+Lahti–Loviisa
+1
+10
+0,69
+12.
+Ohrapääntie
+Lahti–Heinola
+2
+12
+0,66
+13.
+Alaniitynkatu
+Lahti–Heinola
+2
+10
+0,66
+17.
+Seppälänpuistotie
+Vilppula–Mänttä
+1
+12
+0,60
+18.
+Kyläjoentie
+Hyvinkää–Karjaa
+0
+10
+0,55
+19.
+Viking 1
+Karjaa–Turun satama
+5
+12
+0,55
+21.
+Mt 18471
+0
+10
+0,50
+Pyhäkumpu
+vh
+–
+Pyhäkumpu
+28.
+Pahaoja
+Iisalmi–Ylivieska
+1
+11
+0,48
+29.
+Ollonen
+Lahti–Loviisa
+0
+10
+0,48
+30.
+Hannuksela
+Seinäjoki–Kaskinen
+1
+10
+0,47
+32.
+Pohjolankatu
+Huutokoski–Parikkala
+0
+12
+0,46
+35.
+Valko-Läntinen
+Lahti–Loviisa
+0
+12
+0,45
+54.
+Suurijärvi
+Lahti–Heinola
+1
+11
+0,41
+58.
+Metsäkorventie
+Hyvinkää–Karjaa
+2
+11
+0,41
+62.
+Korpi
+Hyvinkää–Karjaa
+0,41
+
+## Página 81
+
+67.
+Jyrä
+Oulu–Kontiomäki
+0,40
+69.
+Kortelainen
+Laurila–Kolari
+1
+11
+0,39
+85.
+Suksi
+Seinäjoki–Kaskinen
+1
+11
+0,34
+98.
+Joutjärvi
+Lahti–Heinola
+2
+11
+0,30
+115.
+Hirvelä
+Seinäjoki–Kaskinen
+1
+11
+0,29
+140.
+Skyttä
+Seinäjoki–Kaskinen
+2
+11
+0,28
+141.
+Pyhän Eskilinkatu
+Seinäjoki–Kaskinen
+2
+11
+0,28
+261.
+Käkelä
+Lahti–Loviisa
+3
+11
+0,22
+337.
+Teollisuuskatu
+Jyväskylä–Haapajärvi
+2
+11
+0,19
+352.
+Skogby seisake
+Karjaa–Hanko
+0
+11
+0,19
+657.
+Paloniemi
+Jyväskylä–Haapajärvi
+2
+11
+0,10
+Sobre la base del índice del método 2 también se pueden examinar diferencias por tramo. Las medias de los índices de los pasos a nivel fueron mayores en los siguientes tramos:
+- 
+Suonenjoki–Iisvesi
+0,40
+- 
+Kokkola–Ykspihlaja
+0,29
+- 
+Pyhäsalmi–Pyhäkumpu
+0,26
+- 
+Vilppula–Mänttä
+0,26
+- 
+Pännäinen–Pietarsaari
+0,25.
+En la parte superior de la lista hay abundantes vías industriales y otras vías secundarias. Entre las vías principales que se encuentran por encima de la media se encuentran, entre otras, Lahti–Heinola (posición en la lista 6./valor del índice 0,23), Kouvola–Kotka (7./0,23), Karjaa–Turun satama (8./0,22), Hyvinkää–Karjaa (15./0,14), Haapamäki–Jyväskylä (16./0,14) y Pori–Mäntyluoto (19./0,14). La media de los índices de todos los tramos es 0,10.
+La media no es en este contexto la mejor medida posible, por lo que los resultados solo pueden considerarse orientativos.
+### Evaluación
+Las medias de accidentes de las clases más peligrosas de la partición recursiva (método 1), 2,0, 1,47 y 0,9, son considerablemente mayores que la media de todos los pasos a nivel, por lo que con el método se pudo clasificar bien el material.
+Según la regresión logística (método 2), las cruces más peligrosas se distinguían claramente del gran grupo de cruces más seguros (gráfico 12). Los coeficientes más altos de la regresión logística fueron el KVL, el número de trenes, la barrera y los dispositivos luminosos y sonoros.
+
+## Página 82
+
+0,9
+0,8
+0,7
+0,6
+Índice
+0,5
+0,4
+0,3
+0,2
+0,1
+0
+1
+401
+801
+1201
+1601
+2001
+2401
+Gráfico 12. Pasos a nivel en orden según el índice.
+Schema 12. Plankorsningarna i ordningsföljd enligt indexet.
+Diagram 12. Level crossings in index-based order.
+Con ninguno de los dos métodos se formaron grandes diferencias en la tabla de las cruces "más seguras". El número de accidentes en relación con el número de pasos a nivel era muy pequeño. Con base en eventos muy raros es difícil sacar conclusiones. Las clases más peligrosas eran muy pequeñas. Los resultados de ambos métodos fueron similares.
+En el material y en la información sobre los pasos a nivel más peligrosos obtenida de otras fuentes había contradicciones de la siguiente manera:
+- 
+Mäki: Según el material, el paso a nivel no tenía dispositivo de aviso. En el paso a nivel se ha instalado una barrera parcial después de 2008, por lo que actualmente es más seguro que según el material.
+- 
+Vehkatie: Según el material, el paso a nivel no tenía dispositivo de aviso. El paso a nivel se ha convertido después de 2007 en un paso para tráfico ligero con puertas enlazadas, por lo que actualmente es más seguro que según el material. Del material no fue posible distinguir los pasos para tráfico ligero.
+- 
+Kyläjoentie: Según el material, el paso a nivel no tenía dispositivo de aviso. En el paso a nivel se ha instalado una barrera parcial en 2010, por lo que actualmente es más seguro que según el material.
+- 
+Pohjolankatu: Según el material, el paso a nivel no tenía dispositivo de aviso. En el paso a nivel se ha instalado una barrera parcial en 2007, por lo que actualmente es más seguro que según el material.
+- 
+Jyrä: Según el material, el paso a nivel no tenía dispositivo de aviso. En el paso a nivel se ha instalado una barrera parcial después de 2009, por lo que actualmente es más seguro que según el material.
+Entre los quince pasos a nivel más peligrosos había ocho carreteras, cinco calles, un paso para tráfico ligero y una carretera privada. La única carretera privada era el paso a nivel de Kuusakoski Oy en la línea Lahti–Heinola. A través del paso a nivel circula todo el tráfico de Kuusa-
+
+## Página 83
+
+kosken teollisuuslaitokseen. La carretera hace una curva en el paso a nivel, y los ángulos de cruce son excepcionalmente desfavorables. 
+### Resumen 
+Los pasos a nivel más peligrosos son estadísticamente más fáciles de distinguir entre sí que los seguros. Por ejemplo, según lo previsto, los mil pasos a nivel más peligrosos se distinguen con más facilidad entre sí que los restantes aproximadamente mil quinientos pasos a nivel. En particular, unos 20 pasos a nivel más peligrosos se distinguen claramente. 
+Un paso a nivel peligroso es un paso a nivel que no tiene dispositivo de aviso, el límite de velocidad de la carretera es bajo, el tráfico medio diario del paso a nivel es de al menos 210 vehículos y pasan al menos 4 trenes al día. Un paso a nivel seguro está equipado con barrera o pasan menos de 19 vehículos al día. 
+El bajo límite de velocidad de la carretera y el KVL relativamente alto indican que los pasos a nivel peligrosos se sitúan en localidades. Por ejemplo, los datos del comité de investigación de accidentes de vehículos a motor con resultado de muerte (véase más arriba el apartado 4.2) arrojan resultados de la misma tendencia. 
+## 4.5 
+### Daños en barreras 
+Con el examen de los daños en barreras se pretende determinar los lugares de ocurrencia más habituales y clasificar los vehículos que dañan las barreras según el tipo de vehículo. Además, con el examen se pretende determinar si existe relación entre los daños en barreras y los accidentes. 
+Un daño en barrera se produce con frecuencia cuando un vehículo embiste la barrera o cuando la barrera se cierra aún estando el vehículo por debajo. La luz de aviso advierte antes del cierre de la barrera, pero la luz no siempre se percibe. Muchas veces, al circular con conjuntos de remolque, la barrera se ha desprendido al quedar atrapada entre el conjunto de vehículos o al cerrarse sobre la carrocería. 
+Los datos de investigación se han recogido de los informes de desviación de VR (PORA) de los años 2003–2010. En estos datos hubo un total de 1 704 daños en barreras. La base de datos original contiene una descripción del suceso redactada libremente, a partir de la cual se constituyó el conjunto de datos de daños en barreras. Las variables son la fecha, el lugar y el tipo de vehículo. La información geográfica era la localidad. Los datos del paso a nivel se habían escrito de forma libre y en base a ellos no siempre fue posible determinar el lugar exacto del suceso. La localidad no se definió en 12 casos, la fecha estaba indicada en todos los casos y el tipo de vehículo estaba claramente indicado en el 43,4 % de los sucesos. En muchos casos de daños no resueltos el tipo de vehículo era conocido, pero no se registró en dicha base de datos. El propósito de la base de datos original es la comunicación de averías y mantenimiento, pero el mismo sistema es la mejor manera de estudiar los daños en barreras a escala nacional. 
+En la Tabla 20 se presentan las diez localidades donde se han producido más daños en barreras. Los daños ocurridos en estas localidades representan algo menos de la mitad de todos los daños ocurridos en Finlandia contenidos en los datos. En la Tabla 21 se muestran las cantidades de daños según el tipo de vehículo. 
+
+
+## Página 84
+
+Tabla 20. Daños en barreras en diez localidades en los años 2003–2010. 
+Tabell 20. 
+Bomskador på tio orter 2003–2010. 
+Table 20. 
+Barrier damage at ten localities between 2003–2010. 
+Localidad 
+Daños en barreras 
+Accidentes 
+[ud.] 
+[ud.] 
+[porcentaje %] 
+Kotka 
+246 
+14,4 
+0 
+Turku 
+142 
+8,3 
+5 
+Helsinki 
+103 
+6,0 
+1 
+Pori 
+65 
+3,8 
+1 
+Oulu 
+52 
+3,1 
+0 
+Kemi 
+45 
+2,6 
+0 
+Pöytyä (Kyrö) 
+42 
+2,5 
+3 
+Pietarsaari 
+40 
+2,4 
+1 
+Kokkola 
+32 
+1,9 
+0 
+Vilppula 
+25 
+1,5 
+0 
+Total 
+792 
+46,5 
+11 
+Tabla 21. Daños en barreras en los años 2003–2010 clasificados según el tipo de vehículo. 
+Tabell 21. 
+Bomskador 2003–2010 enligt fordonstyp. 
+Table 21. 
+Barrier damage between 2003–2010, categorised by vehicle type. 
+### Vehículo 
+### Cantidad de daños 
+### Porcentaje [%] 
+no registrado 
+965 
+56,6 
+camión 
+367 
+21,5 
+turismo 
+242 
+14,2 
+maquinaria de obra 
+42 
+2,5 
+tractor 
+39 
+2,3 
+autobús 
+28 
+1,6 
+ciclomotor 
+9 
+0,5 
+bicicleta 
+9 
+0,5 
+motocicleta 
+3 
+0,2 
+Tabla 22. Distribución de los daños en barreras según el tipo de vehículo en distintas localidades. 
+Tabell 22. 
+Fördelning av bomskador enligt fordonstyp på olika orter. 
+Table 22. 
+Barrier damage distribution, categorised by vehicle type at different localities. 
+Vehículo 
+Kokko-
+Vilppu-
+Helsin-
+Todos 
+Pietar-
+Kotka 
+Turku 
+Kemi 
+saari 
+Kyrö 
+Oulu 
+Pori 
+los 
+ki 
+la 
+la 
+Camión 
+367 
+35 
+46 
+4 
+10 
+24 
+10 
+14 
+25 
+12 
+13 
+Turismo 
+242 
+2 
+15 
+3 
+15 
+9 
+18 
+1 
+3 
+6 
+7 
+Maquinaria de obra 
+42 
+16 
+0 
+1 
+1 
+2 
+1 
+0 
+4 
+0 
+0 
+Tractor 
+39 
+0 
+0 
+0 
+0 
+0 
+0 
+4 
+0 
+0 
+0 
+Autobús 
+28 
+0 
+10 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Ciclomotor 
+9 
+0 
+2 
+0 
+1 
+0 
+0 
+0 
+0 
+1 
+0 
+Bicicleta 
+9 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+1 
+0 
+Motocicleta 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Total 
+
+
+## Página 85
+
+En la estadística de localidades hay varias ciudades portuarias. Por ejemplo, en el puerto de Mussalo de Kotka se han producido muchos daños. Allí faltan los datos del causante del daño en muchos de los daños, pero según los datos registrados hay una cantidad notable de camiones y maquinaria de obra. 
+En Kyrö, Pietarsaari y Vilppula hay industria maderera, cuyos transportes pueden tener influencia en la aparición de daños en barreras. 
+Los numerosos atravesamientos de barreras sufridos por material pesado pueden explicarse en parte por las condiciones problemáticas del paso a nivel y del entorno de carretera que lo rodea. Por ejemplo, en el paso a nivel situado cerca de la sierra en Kyrö, la proximidad de las conexiones de carretera y de parcelas al paso a nivel es propicia para la creación de situaciones de peligro. Una situación de peligro puede surgir, por ejemplo, de que el conductor de un vehículo que ha cruzado el paso a nivel tome la decisión de girar en el último momento a la izquierda hacia el patio de la tienda, pero no pueda girar inmediatamente debido al tráfico en sentido contrario. En ese momento, el conjunto de vehículos pesado que ha llegado por detrás se ve obligado, debido a la situación imprevista y repentina, a detenerse de manera que el remolque queda en el paso a nivel, creando una situación de peligro y, al barse las barreras, su atravesamiento. 
+En Turku se ha producido aproximadamente un tercio (10) de todos los daños en barreras causados por autobuses contenidos en los datos: siete en Ruissalontie, dos en Pansiontie y uno en Ihala. 
+En el apartado 4.4 se ha examinado la peligrosidad de los pasos a nivel en base a los indicadores. El paso a nivel de Ruissalontie se sitúa, según el indicador, en la posición 342 y Pansiontie en la posición 345. En total se examinan 2 585 pasos a nivel. La sección de línea Karjaa–Turku, donde se sitúan ambos pasos a nivel, ocupa la posición 8 en el examen de indicadores por sección de línea. Se examinan un total de 76 secciones de línea. 
+En Helsinki los daños en barreras se produjeron especialmente en Sörnäinen, pero después de la finalización del puerto de Vuosaari ya no se han producido daños en barreras en el centro de Helsinki. En Kyrö los daños los causaron con más frecuencia conjuntos de vehículos pesados y tractores. En Pietarsaari los conjuntos de vehículos pesados causaron la mayor parte de los daños. Las distribuciones de daños y accidentes de los diez municipios difieren entre sí (diferencia estadísticamente muy significativa; W=100, p<0,001). Por otro lado, existen pasos a nivel en los que se han producido tanto daños como accidentes. No se pudo demostrar, en base a estos datos, la existencia de relación entre los accidentes y los daños en barreras comparando las localidades. 
+## 4.6 
+### Exámenes regionales 
+## 4.6.1 
+### Satakunta 
+En Satakunta se han producido en los últimos dos años cuatro accidentes de paso a nivel con resultado de muerte, en los que fallecieron un total de siete personas. En Satakunta, entre otros, la ciudad de Pori y la asociación regional han activado la mejora de la seguridad en los pasos a nivel. 
+
+
+## Página 86
+
+### Sección de línea Kokemäki–Rauma 
+La sección de línea Kokemäki–Rauma tiene una longitud de 47 kilómetros. En la sección de línea hay 30 pasos a nivel, de los cuales 17 carecen de dispositivos de aviso, 12 están equipados con instalación de barrera semiautomática y uno es un paso para tráfico ligero equipado con puertas. En la sección de línea hay únicamente tráfico de mercancías. La cantidad de tráfico ferroviario se ha mantenido casi constante en los años 2001–2010, circulan por la sección de línea unos 16 trenes de mercancías al día. En los pasos a nivel de la sección de línea, según el compendio de accidentes elaborado por la Autoridad de Transporte, se produjeron en los años 2002–2010 seis accidentes de paso a nivel, de los cuales dos tuvieron resultado de muerte. 
+Figura 5. 
+Accidentes de paso a nivel ocurridos en la sección de línea Kokemäki–Rauma en 2002–2010. Los que tuvieron resultado de muerte están señalados con flechas rojas. 
+Bild 5. 
+Plankorsningsolyckor på banavsnittet Kumo–Raumo 2002–2010. Dödsolyckorna har märkts ut med röda pilar. 
+Figure 5. 
+Level crossing accidents on the Kokemäki–Rauma section of line during 2002–2010. Fatal accidents are indicated by red arrows. 
+En 2009 falleció el conductor de un turismo al haberse adentrado en Eurajoki en el paso a nivel sin dispositivos de aviso de Köykäntie, por delante de un tren de mercancías que llegaba desde la dirección de Rauma. En el mismo paso a nivel de Köykäntie se produjo un accidente también en 2005, cuando un turismo embistió el lateral de la locomotora de un tren de mercancías. La seguridad del paso a nivel se mejoró en 2011, cuando se instaló en el paso a nivel una instalación de barrera semiautomática. 
+En 2010 fallecieron el conductor de un turismo y un pasajero sentado en el asiento trasero, cuando el turismo se adentró en Kokemäki en el paso a nivel sin dispositivos de aviso de Koskinen, por delante de una locomotora que circulaba como tren en la dirección de Rauma. 
+El Centro de Gestión Ferroviaria (actual Autoridad de Transporte) encargó a VTT en 2001 un inventario de los pasos a nivel de la sección de línea, que se actualizó en 2008. En el inventario realizado en 2001 la cantidad de pasos a nivel en la sección de línea era de 53, de los cuales 11 estaban equipados con dispositivos de aviso. En la parte de propuestas de medidas del inventario, en casi todos los pasos a nivel se había propuesto como medida inmediata la limpieza de la visibilidad, y en siete casos la supresión del paso a nivel. En la actualización del inventario realizado en 2008 la sección de línea tenía 30 
+
+
+## Página 87
+
+pasos a nivel, es decir, se habían suprimido 23 pasos a nivel de la sección de línea. Se propuso la limpieza de la visibilidad en 26 pasos a nivel (87 %). 
+En el verano de 2011 la cantidad de pasos a nivel era, según la base de datos Tasoristeys.fi, de 30. De los pasos a nivel, 12 estaban equipados con instalación de barrera semiautomática. 
+Según el pronóstico de tráfico de mercancías de 2030 (Iikkanen & Mukula 2010), las cantidades de tráfico de mercancías de la sección de línea disminuirán ligeramente hasta 2030. Medido por la cantidad de trenes, se prevé que el tráfico baje de los 22 trenes de 2008 a 18 trenes. 
+### Sección de línea Pori–Mäntyluoto 
+La sección de línea Pori–Mäntyluoto tiene una longitud de 20 kilómetros. En la sección de línea hay 27 pasos a nivel, de los cuales 17 carecen de dispositivos de aviso. En la sección de línea hay únicamente tráfico de mercancías. 
+En los pasos a nivel de la sección de línea se produjeron en los años 2002–2010 siete accidentes, de los cuales dos tuvieron resultado de muerte. En 2009 fallecieron dos pasajeros de un turismo al quedar el vehículo bajo una locomotora que circulaba como tren desde Mäntyluoto hacia Pori, en el paso a nivel sin dispositivos de aviso de Teurastamo. En 2010 fallecieron el conductor y un pasajero de un turismo al quedar el vehículo bajo un tren de mercancías que circulaba desde Mäntyluoto hacia Pori.
+
+## Página 88
+
+Figura 6. 
+Accidentes en pasos a nivel en el tramo Pori–Mäntyluoto durante 2002–2010. 
+Los que han provocado la muerte están señalados con flechas rojas. 
+Bild 6. 
+Plankorsningsolyckor på banavsnittet Björneborg–Mäntyluoto 2002–2010. Dödsolyckorna 
+har märkts ut med röda pilar. 
+Figure 6. 
+Level crossing accidents on the Pori - Mäntyluoto section of line during 2002–2010. Fatal ac-
+cidents are indicated by red arrows. 
+VTT realizó en 2003 un inventario de los pasos a nivel de los tramos ferroviarios del entorno de Pori. 
+En el inventario, el número de pasos a nivel en el tramo Pori–Mäntyluoto era de 29, de los cuales 11 es-
+taban equipados con barrera semiautomática. En el inventario se constató que las visibilidades eran 
+deficientes en todos los pasos a nivel. En 11 pasos a nivel había que corregir las plataformas de espe-
+ra. 
+En parte de los pasos a nivel, su adecuación a la normativa era prácticamente imposible debido a que 
+la carretera discurría demasiado cerca y en el mismo sentido junto a la vía. Por ello, en las propuestas 
+de medidas del inventario se planteó, entre otras cosas, la eliminación de ocho pasos a nivel. 
+En el verano de 2011 había 27 pasos a nivel en el tramo, de los cuales 10 estaban equipados con ba-
+rrera semiautomática, es decir, se han eliminado dos pasos a nivel del tramo tras el inventario.  
+La ciudad de Pori investigó en 2009 qué posibilidades tenía de eliminar pasos a nivel del tramo Pori–
+Mäntyluoto y elaboró, a partir de los resultados, un plan de ejecución. La mejora de la seguridad en los 
+pasos a nivel también está recogida en el Plan de seguridad vial de Pori (2010). El proyecto se dividió 
+en dos fases. La ciudad celebró en el otoño de 2010 una sesión pública en la que se presentaron las 
+soluciones para la eliminación de pasos a nivel de la primera fase del tramo Pori–Mäntyluoto. Las so-
+luciones de la primera fase se concretaron tras la sesión. En abril de 2011, Liikennevirasto, Maanmit-
+tauslaitos y la ciudad de Pori centraron
+
+
+## Página 89
+
+sus conversaciones sobre las soluciones de paso privado, y Maanmittauslaitos llevó a cabo los actos 
+de paso privado en mayo de 2011. Los actos de paso privado, cuyo objetivo era conseguir el cierre de 
+los pasos a nivel, se realizaron en 10 pasos a nivel. 
+Según el pronóstico de tráfico de mercancías de 2030 (Iikkanen & Mukula 2010), las cantidades de 
+tráfico de mercancías del tramo disminuirán ligeramente antes de 2030.  
+### Estudio de necesidades Tampere–Pori/Rauma 
+Los municipios del área de influencia de la conexión ferroviaria Tampere–Pori/Rauma, los represen-
+tantes de la vida económica, así como Satakuntaliitto, Pirkanmaan liitto y los diputados fundaron en 
+la primavera de 2010 un grupo ferroviario cuyo propósito es desarrollar dicha conexión ferroviaria. A 
+iniciativa del grupo ferroviario se puso en marcha un estudio de necesidades sobre el desarrollo de 
+los tramos ferroviarios que conducen desde Tampere a Pori y Rauma, en colaboración con Liikenne-
+virasto. El propósito del trabajo era investigar las posibilidades de desarrollo del tráfico de pasajeros 
+y de mercancías y de la seguridad en los pasos a nivel de los tramos ferroviarios. A partir de ellos se 
+determinaron las medidas de mejora de la infraestructura y sus costes. 
+El estudio de necesidades terminado en mayo de 2011 (Nyby, Kiuru, Ruokanen 2011) tenía como 
+objetivo, entre otros, la mejora y el desarrollo de la seguridad vial y en los pasos a nivel, la produc-
+ción de propuestas concretas de medidas para los tres próximos períodos de planificación de activi-
+dad y economía de Liikennevirasto, así como la producción de datos de fondo para la Informe de po-
+lítica de transportes. 
+En los tramos ferroviarios del área de estudio se han eliminado pasos a nivel en las décadas de 1990 
+y 2000. Dado que en la región, a escala de toda la red ferroviaria, ya se han realizado eliminaciones 
+de pasos a nivel hace muy poco tiempo, las posibilidades de poner en marcha un programa de elimi-
+nación a gran escala y diferente son muy escasas. Por ello, en el futuro los pasos a nivel se elimina-
+rán generalmente solo en el marco de otros proyectos. Según el estudio de necesidades, es posible 
+acelerar las eliminaciones de pasos a nivel con la financiación propia de los municipios. Así ha actua-
+do la ciudad de Pori en relación con las eliminaciones de pasos a nivel del tramo Pori–Mäntyluoto, y 
+antes la ciudad de Harjavalta. 
+Según el estudio de necesidades, debido a la pendiente y curvatura de la vía, ni siquiera con la elimi-
+nación de todos los pasos a nivel se puede acelerar significativamente la velocidad máxima del tráfi-
+co de pasajeros y, por tanto, el tiempo de viaje entre Tampere y Pori. Por ejemplo, en el tramo Ko-
+kemäki–Pori se llegaría a una velocidad de 160 km/h con material rodante convencional mediante la 
+eliminación de todos los pasos a nivel, lo que tendría un efecto de 1–2 minutos en el tiempo de viaje. 
+En el tramo ya ha comenzado la mejora básica del tramo ferroviario que va desde Lielahde, al oeste 
+de Tampere, hasta Kokemäki. El proyecto es el piloto de Liikennevirasto para la ejecución en forma de 
+alianza. La alianza inicia el diseño con la elaboración del plan de trazado en el otoño de 2011 y la 
+construcción en 2012. 
+El proyecto de reparación general incluye la renovación de las estructuras de los pasos a nivel y la 
+corrección de las plataformas de espera de la manera exigida por los cambios en la línea de nivel de 
+la vía. Como parte independiente del proyecto existen necesidades de desarrollo, entre las que se 
+encuentra la eliminación de pasos a nivel de determinados lugares y la instalación de barreras semi-
+automáticas. Su realización depende de la obtención de financiación. 
+
+
+## Página 90
+
+La seguridad en los pasos a nivel de los tramos ferroviarios queda al margen de la mejora básica, ya 
+que con las eliminaciones no se obtiene un beneficio temporal significativo. Con la eliminación de pa-
+sos a nivel en el tramo Kokemäki–Rauma se mejoraría la seguridad vial y de los trenes. 
+El tramo forma parte de la red TEN, a la que le aplica la mejora de la seguridad en los pasos a nivel 
+de acuerdo con la orden de la Autoridad de Seguridad del Transporte antes de 2030. En el plan del 
+proyecto no se mencionan las obligaciones de la orden. 
+## 4.6.2 
+### Línea Hyvinkää–Hanko 
+La línea Hyvinkää–Hanko consta de dos tramos ferroviarios, Hyvinkää–Karjaa y Karjaa–Hanko.  
+El tramo Hyvinkää–Karjaa es de vía única y tiene una longitud de 98 kilómetros. En el tramo hay 70 
+pasos a nivel, de los cuales 26 están equipados con barrera semiautomática (37 %). En el tramo solo 
+hay tráfico de mercancías. El número de trenes es de 12 trenes al día y la velocidad permitida en la 
+línea (Sn) es de 80 km/h. Desde el año 2000 se han eliminado 14 pasos a nivel del tramo. 
+El tramo Karjaa–Hanko es de vía única y tiene una longitud de 50 kilómetros. Tiene 24 pasos a nivel, 
+de los cuales ocho tienen barrera semiautomática (33 %) y uno tiene dispositivo de aviso lumíni-
+co y acústico. En el tramo hay tanto tráfico de pasajeros como de mercancías. El número de trenes es 
+de 12 trenes de pasajeros y 14 trenes de mercancías al día. La velocidad permitida en la línea (Sn) es 
+de 120 km/h. Desde el año 2000 se han eliminado siete pasos a nivel del tramo. 
+En total, aproximadamente el 37 % de los pasos a nivel de la línea está equipado con dispositivo de 
+aviso, mientras que de media hay dispositivos de aviso en el 22 % de los pasos a nivel. 
+En la Estrategia de protección y eliminación de pasos a nivel ferroviarios 2020 (2002) se mencionó 
+el tramo Karjaa–Hanko como un tramo del que no se podía suponer que se eliminarían pasos a nivel 
+antes de 2020, pero para el que se propusieron medidas de protección de pasos a nivel. 
+En la línea Hyvinkää–Hanko se han producido entre 2002 y 2010 un total de 16 accidentes en pasos 
+a nivel con vehículos a motor, de los cuales diez en el tramo Hyvinkää–Karjaa y seis en el tramo 
+Karjaa–Hanko. De los accidentes, seis fueron mortales. En ellos murieron un total de siete personas. 
+
+
+## Página 91
+
+Figura 7. 
+Accidentes en pasos a nivel en la línea Hyvinkää–Hanko durante 2002–2010. 
+Los que han provocado la muerte están señalados con flechas rojas. 
+Bild 7. 
+Plankorsningsolyckor på banan Hyvinge–Hangö 2002–2010. Dödsolyckorna har märkts ut 
+med röda pilar. 
+Figure 7. 
+Level crossing accidents on the Hyvinkää–Hanko section of line during 2002–2010. Fatal ac-
+cidents are indicated by red arrows. 
+VTT realizó por primera vez en el año 2000 una evaluación del nivel de seguridad de los pasos a nivel 
+de ambos tramos ferroviarios y se actualizó en 2009. En las propuestas de medidas de la evaluación 
+del nivel de seguridad realizada en el año 2000, como medida inmediata para mejorar la seguridad en 
+los pasos a nivel se propuso la limpieza de visibilidades en casi todos los pasos a nivel. Como pro-
+puestas de medidas también se mencionó la eliminación de 28 pasos a nivel. En las propuestas de me-
+didas de la Actualización de datos de seguridad en pasos a nivel realizada en 2009, como medida in-
+mediata se propuso la limpieza de visibilidades en 60 de los 76 pasos a nivel (79 %). Además, en la 
+propuesta de medidas se planteó la eliminación de tres pasos a nivel. 
+No se conoce la causa explicativa de la proporción excepcionalmente alta de accidentes mortales.  
+Uusimaa es una zona con saldo migratorio positivo. Los municipios de la zona han hecho constar en 
+los casos estudiados que los municipios planifican nuevas zonas también junto a las vías. El tráfico 
+sobre la vía seguirá creciendo continuamente. 
+Según el pronóstico de tráfico de mercancías de 2030 (Iikkanen & Mukula 2010), las cantidades de 
+tráfico de mercancías del tramo disminuirán ligeramente antes de 2030. Medido por el número de 
+trenes, se prevé que el tráfico de mercancías baje de 22 trenes en 2008 a 18 trenes. 
+
+
+## Página 92
+
+### El estudio piloto de seguridad en pasos a nivel del transporte escolar y en autobús (Laine 
+2010) se realizó en el tramo Hyvinkää–Hanko. Una de las ciudades del tramo se negó a facilitar 
+datos de transporte escolar para su uso en la investigación. En la investigación se constata, entre 
+otras cosas, lo siguiente: 
+- 
+en el tramo, el transporte escolar circula en total por 35 pasos a nivel 
+- 
+de estos, 12 carecen de dispositivo de aviso 
+- 
+los operadores de transporte escolar consideraron peligrosos 16 pasos a nivel, de los 
+cuales la mitad tiene dispositivo de aviso y la mitad no lo tiene 
+- 
+el mayor número de cruces de pasos a nivel con transporte escolar era de diez cruces al día 
+- 
+el mayor número de escolares era de 150 escolares a transportar al día. 
+- 
+el mayor número de escolares en un paso a nivel sin dispositivo de aviso era de 60 escolares 
+a transportar al día. 
+En la investigación se identificaron los pasos a nivel más peligrosos para el transporte escolar y en 
+autobús determinando la peligrosidad calculada con la ayuda de las cantidades de transporte escolar 
+y en autobús. Los datos pueden utilizarse en la planificación de las rutas de transporte. 
+En la investigación se insta a considerar la realización de una investigación similar también en otros 
+tramos ferroviarios. 
+## 4.6.3 
+### Determinados tramos ferroviarios de poco tráfico 
+### Tramo Lahti–Heinola 
+El tramo Lahti–Heinola tiene una longitud de 37 kilómetros. En el tramo hay 35 pasos a nivel, todos 
+ellos sin dispositivo de aviso. En el tramo solo hay tráfico de mercancías, según los horarios un tren 
+en cada sentido en días laborables.  
+VTT ha realizado el inventario de los pasos a nivel del tramo en 2005. Según el inventario, en el 
+tramo había entonces 39 pasos a nivel, de los cuales 
+- 
+las visibilidades de dos eran conformes a las directrices de RATO y era posible limpiar las visi-
+bilidades de otros nueve eliminando la vegetación para hacerlas conformes a las directrices; en 
+28 pasos a nivel no es posible hacer las visibilidades conformes a las directrices solo con la lim-
+pieza 
+- 
+en 29 pasos a nivel las plataformas de espera no estaban en condiciones conformes a las direc-
+trices de RATO 
+- 
+en diez pasos a nivel la cruzar la vía no era segura con ningún vehículo a motor, además, en 
+nueve la cruzar era segura solo con turismo. 
+En el plan a largo plazo del mantenimiento de la vía (RHK 2006) se afirma que el tramo requiere una 
+inversión de sustitución antes de 2015. La inversión de sustitución no está en la lista de proyectos de 
+Liikennevirasto. 
+
+
+## Página 93
+
+Figura 8. 
+Accidentes en pasos a nivel en el tramo Lahti–Heinola durante 2002–2010. 
+El que ha provocado la muerte está señalado con una flecha roja. 
+Bild 8. 
+Plankorsningsolyckor på banavsnittet Lahtis–Heinola 2002–2010. Dödsolyckan har märkts ut 
+med röd pil. 
+Figure 8. 
+Level crossing accidents on the Lahti–Heinola section of line during 2002–2010. The fatal 
+accident is indicated by the red arrow. 
+Según el compendio de accidentes elaborado por Liikennevirasto, en los pasos a nivel del tramo se 
+han producido entre 2002 y 2010 14 accidentes en pasos a nivel (1,6/año). De estos, uno fue mortal 
+(informe de investigación de OTKES B7/2007R). Según la figura 8, los accidentes se han concentra-
+do principalmente en la cercanía de las localidades. 
+La seguridad de la línea no ha mejorado sustancialmente a lo largo de los años, ya que entre 1990 y 
+1999 hubo 1,4 accidentes anuales (tabla 18). 
+Según el pronóstico de tráfico de mercancías de 2030 (Iikkanen & Mukula 2010), las cantidades de 
+tráfico de mercancías del tramo disminuirán ligeramente antes de 2030.
+
+## Página 94
+
+De acuerdo con el examen del apartado 4.4, la sección ferroviaria Lahti–Heinola es más peligrosa que la media. Según los cálculos (tabla 19), la sección ferroviaria tiene varios pasos a nivel peligrosos. El paso a nivel considerado más peligroso de todo el material de Finlandia, Kuusakoski Oy, es el más septentrional de los marcados en el mapa con flechas de accidentes (tres accidentes en los años 2002–2010).
+Si se desea mejorar la seguridad de los pasos a nivel de la sección ferroviaria Lahti–Heinola, pero solo se dispone de recursos para parte de la sección, las medidas deberían dirigirse a la sección de forma selectiva. De acuerdo con las estadísticas de accidentes (figura 8) y el apartado 4.4, el mayor beneficio se obtendría asegurando los pasos a nivel del extremo sur de la vía en el área de la localidad de la ciudad de Lahti y, además, como paso a nivel individual, el paso a nivel de Kuusakoski Oy.
+### Lahti–Loviisa
+La sección ferroviaria Lahti–Loviisa tiene 77 kilómetros de longitud. La sección ferroviaria tiene 121 pasos a nivel. En la sección ferroviaria solo hay tráfico de mercancías. Según el compendio de accidentes elaborado por la Autoridad de Transporte, en los pasos a nivel se produjeron en los años 2002–2010 15 accidentes en pasos a nivel (1,7/año), de los cuales tres fueron mortales. Del último accidente mortal, OTKES ha elaborado el informe de investigación B7/2009R. En los años 1990–1999 hubo una media de 1,0 accidentes al año (tabla 18), por lo que, según las estadísticas de accidentes, la seguridad de la sección ferroviaria ha empeorado.
+En el plan a largo plazo del mantenimiento de la vía (RHK 2006) se afirma que la sección ferroviaria requiere una inversión de reposición antes del año 2015. En la Autoridad de Transporte no se ha iniciado la planificación de la inversión.
+Según el pronóstico del tráfico de mercancías de 2030 (Iikkanen & Mukula 2010), los volúmenes de tráfico de mercancías de la sección ferroviaria disminuirán ligeramente antes de 2030.
+De acuerdo con el apartado 4.4, la sección ferroviaria Lahti–Loviisa es más peligrosa que la media. Según los cálculos (tabla 19), la sección ferroviaria tiene muchos pasos a nivel peligrosos, por ejemplo, Skinnarbyntie, considerado el tercero más peligroso.
+### Seinäjoki–Kaskinen
+La sección ferroviaria Seinäjoki–Kaskinen tiene 112 kilómetros de longitud. Hay 165 pasos a nivel. En la sección ferroviaria solo hay tráfico de mercancías. Según el compendio de accidentes elaborado por la Autoridad de Transporte, en los pasos a nivel se produjeron en los años 2002–2010 28 accidentes, de los cuales cinco fueron mortales. Del último accidente mortal, OTKES ha elaborado el informe de investigación B1/2007R.
+Medido por el número de accidentes, la sección ferroviaria ha sido la más peligrosa tanto en las estadísticas de la década de 1990 (3,6 accidentes/año) como en las de la década de 2000 (3,0 accidentes/año) (tabla 18).
+En el plan a largo plazo del mantenimiento de la vía (RHK 2006) se afirma que la sección ferroviaria requiere una inversión de reposición antes del año 2015. La Autoridad de Transporte ha iniciado la planificación del proyecto, pero el plan aún no ha estado a disposición de la junta de investigación.
+
+## Página 95
+
+Según el examen calculado del apartado 4.4 (tabla 19), la sección ferroviaria tiene muchos pasos a nivel peligrosos, por ejemplo, Saha y Enontie, considerados el segundo y el sexto más peligrosos.
+Según el pronóstico del tráfico de mercancías de 2030 (Iikkanen & Mukula 2010), el volumen de tráfico de mercancías de la sección ferroviaria disminuirá antes de 2030 en un tren diario de ida y vuelta.
+## 4.6.4
+### Sección ferroviaria Seinäjoki–Oulu
+En la sección ferroviaria Seinäjoki–Oulu se está llevando a cabo un proyecto de mejora básica, con el que la velocidad del tráfico de pasajeros se eleva, según el tipo de tren, a 160–200 km/h. Los tramos de vía doble y los cambios de estaciones permiten el crecimiento del tráfico de mercancías y reducen la sensibilidad a las interrupciones del tráfico de mercancías y de pasajeros. Los tiempos de viaje del tráfico de pasajeros en el norte de Finlandia se reducen con la elevación de la velocidad.
+La competitividad del tráfico de mercancías se mejora con la elevación del peso por eje y se garantiza la suficiencia de la potencia eléctrica a medida que aumenta el peso del tren. La seguridad se incrementa eliminando los pasos a nivel en toda la sección ferroviaria. En el verano de 2011 quedaban 63 pasos a nivel en la sección ferroviaria.
+La estimación del coste total del proyecto es de 860 M€. Se completará en 2015.
+## 4.7
+### Funcionamiento de los centros de emergencia en los accidentes en pasos a nivel
+## 4.7.1
+### Tratamiento de la tarea y evaluación de riesgos
+De acuerdo con la Ley sobre el funcionamiento de los centros de emergencia (692/2010), la tarea del operador del centro de emergencia es recibir y evaluar la llamada de emergencia. El operador debe transmitir la llamada o la tarea a la autoridad competente de acuerdo con las instrucciones dadas por la autoridad.
+El tratamiento de la llamada de emergencia incluye, entre otras cosas, la localización y la selección de la clase de tarea. En la selección de la clase de tarea se realiza una evaluación de riesgos, durante la cual se determina, entre otras cosas, la naturaleza y el alcance del accidente, el riesgo de su propagación y si hay personas en peligro. La localización con una determinada precisión y la selección de la clase de tarea son requisitos previos para la alerta de la unidad. Además, durante la llamada de emergencia, el operador puede dar instrucciones de actuación a las personas en el lugar.
+No existe una clase de tarea propia para los accidentes en pasos a nivel, sino que pertenece a la clase de accidentes de tráfico ferroviario, cuya instrucción de evaluación de riesgos (figura 9) corresponde a la responsabilidad del servicio de rescate. En los accidentes de tráfico ferroviario hay tres niveles de alcance:
+- 
+212 accidente de tráfico ferroviario: pequeño
+- 
+213 accidente de tráfico ferroviario: mediano
+- 
+214 accidente de tráfico ferroviario: grande.
+
+## Página 96
+
+Figura 9.
+Instrucción de evaluación de riesgos de accidentes de tráfico ferroviario utilizada por los centros de emergencia.
+Bild 9.
+Nödcentralernas riskbedömningsanvisning för spårtrafikolyckor.
+Figure 9.
+Railway accident risk evaluation instructions used by the Emergency Response Centers.
+Según la instrucción de evaluación de riesgos, a la clase 212 pertenecen los accidentes en los que no hay peligro de un accidente secundario ni personas que rescatar. Como ejemplos, la instrucción menciona el
+
+## Página 97
+
+despiste a pie de marcha y la tarea de inspección. A la clase 213 pertenecen las colisiones entre un vehículo y un vehículo de tráfico ferroviario, la persona atrapada bajo un vehículo o un accidente no aclarado. El número de personas a rescatar en esta clase se ha definido en 1–3. A la clase 214 pertenecen los accidentes en los que hay 3–10 personas que rescatar.
+Según la información recibida del organismo de centros de emergencia, las instrucciones de evaluación de riesgos del servicio de rescate se elaboraron hace unos años como colaboración entre el organismo de centros de emergencia y la Escuela de Rescate. Las instrucciones no se han actualizado sistemáticamente. Según la ley, las instrucciones las da la autoridad competente, es decir, en este caso la autoridad de rescate, por lo que en cada área del servicio de rescate la responsabilidad del contenido de la instrucción corresponde al servicio de rescate de esa área.
+## 4.7.2
+### Alertas a las unidades de rescate 2003–2010
+Según el sistema de información Pronto del servicio de rescate, los centros de emergencia alertaron a las unidades de rescate por accidentes en pasos a nivel en los años 2003–2010 en 253 ocasiones. Hubo un total de 401 accidentes, en algunos de los cuales no se realizó ninguna llamada de emergencia y en otros la llamada de emergencia no dio lugar a la alerta del servicio de rescate.
+Los datos anuales se presentan en la tabla 23.
+Tabla 23. Alertas a las unidades de rescate por accidentes en pasos a nivel en los años 2003–2010.
+Tabell 23.
+Larmning av räddningsenheter till följd av plankorsningsolyckor 2003–2010.
+Table 23.
+Alarm notices to rescue units because of level crossing accidents between 2003–2010.
+Año
+Accidentes
+Unidades de rescate alertadas
+Urgente, cuyo tiempo de tratamiento de la tarea
+[ud.]
+[n.º]
+[%]
+se conoce [ud.]
+2003
+53
+36
+68
+28
+2004
+52
+29
+56
+25
+64
+33
+52
+31
+2005
+2006
+60
+37
+62
+36
+2007
+47
+36
+77
+36
+58
+34
+59
+33
+2008
+2009
+34
+26
+76
+24
+2010
+33
+22
+66
+22
+TOTAL
+401
+253
+63
+235
+Fuente: Pronto.
+Para evaluar el tiempo de tratamiento de la tarea del centro de emergencia, se revisaron todos los resúmenes de alertas y accidentes de Pronto. En el resumen de Pronto de junio de 2003 no se habían registrado datos sobre la alerta de las unidades, aparentemente debido a las diferencias entre los sistemas de información, y de estos no se pudo obtener el tiempo de tratamiento de la tarea. De doce resúmenes se pudo deducir que un tiempo de tratamiento de la tarea excepcionalmente largo se debió a que la tarea se clasificó como no urgente y la alerta se dio, por ejemplo, solo cuando la unidad de rescate se había liberado de la tarea anterior. En el conjunto de datos final quedaron 235 casos.
+
+## Página 98
+
+## 4.7.3
+### Tiempo de tratamiento de la tarea
+Desde el sistema de información del centro de emergencia se transfiere al sistema Pronto del servicio de rescate, entre otras cosas, la hora de inicio de la llamada de emergencia y la hora en que la unidad de la autoridad recibe la alerta. El tiempo de tratamiento de la tarea del centro de emergencia se entiende generalmente como el tiempo desde el inicio de la llamada de emergencia hasta el momento en que el operador da la orden al sistema de información de realizar la alerta. Debido a las características del sistema de información, hay un retraso (retraso técnico) entre esta orden y la hora de alerta registrada en Pronto. En este contexto, el tiempo de tratamiento de la tarea se refiere principalmente al tiempo que se obtiene de Pronto, que incluye el retraso técnico. La importancia del retraso es aparentemente bastante pequeña, por ejemplo, en las 22 llamadas de emergencia examinadas el retraso fue de solo unos cinco segundos de media.
+### Objetivos
+En los últimos años, en los acuerdos de resultados del organismo de centros de emergencia, en el apartado Capacidad de servicio y calidad, uno de los objetivos ha sido que el centro de emergencia alerte la ayuda necesaria sin demora. El indicador ha sido, en los casos urgentes, el tiempo desde la llamada de emergencia hasta la asignación de la tarea. Según la información recibida del organismo de centros de emergencia, en sus estadísticas este tiempo incluye el retraso técnico.
+El indicador no se ha medido en todas las tareas, sino que para evaluarlo se han seguido anualmente tipos de tarea seleccionados por separado. Los tipos de tarea han variado ligeramente a medida que se desarrollaba el indicador, pero el accidente de tráfico por carretera – mediano, incendio de edificio – mediano, incendio de vehículo de transporte – pequeño y sin vida han estado incluidos durante varios años. Según el acuerdo de resultados de 2010, estos tipos de tarea se seleccionaron porque en ellos era relativamente fácil obtener la información requerida para la evaluación de riesgos del servicio de rescate y la atención sanitaria. El tiempo objetivo para el tratamiento de las tareas urgentes se fijó en 90 segundos. El objetivo establecido fue del 90 %.
+Según las estadísticas del organismo de centros de emergencia, por ejemplo, el tiempo objetivo del tipo de tarea accidente de tráfico por carretera – mediano se ha alcanzado de la siguiente manera: en 2007 el 28 %, en 2008 el 33 % y en 2009 el 36 %.
+En el acuerdo de resultados de 2011 se ha modificado el objetivo. Por ejemplo, en las tareas urgentes del servicio de rescate, el objetivo es asignar la tarea en el 70 % de los casos en el tiempo requerido por la tarea. En el acuerdo de resultados no se han definido los tiempos requeridos por la tarea.
+### Distribución
+En el diagrama 13 se presentan los tiempos de tratamiento de la tarea de los accidentes en pasos a nivel que dieron lugar a la alerta de las unidades del servicio de rescate en los años 2003–2010. El retraso técnico está incluido. Del conjunto de datos se han eliminado los 12 casos claramente evaluados como no urgentes.
+
+## Página 99
+
+50
+45
+Número de tareas [ud.]
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0,5
+1
+1,5
+2
+2,5
+3
+3,5
+4
+4,5
+5
+5,5
+6
+6,5
+7
+7,5
+8
+8+
+Tiempo de tratamiento de la tarea [min]
+Diagrama 13. Distribución de los tiempos de tratamiento de la tarea (n= 235).
+Schema 13. Fördelning av uppgiftshanteringstider (n= 235).
+Diagram13.
+Task processing time distribution (n= 235).
+### Serie temporal
+En la tabla 24 se presentan los indicadores de los tiempos de tratamiento de la tarea por años.
+Tabla 24. Indicadores de los tiempos de tratamiento de la tarea por años.
+Tabell 24.
+Årliga nyckeltal för uppgiftshanteringstider.
+Table 24.
+Key parameters of annual task processing times.
+Año
+Media
+Mediana
+Tiempo de tratamiento de la tarea
+[m.ss]
+[m.ss]
+menos de 90 s [%]
+2.30
+2.08
+18
+2003
+2.19
+2.00
+16
+2004
+2.39
+1.53
+29
+2005
+2.59
+2.25
+17
+2006
+2.22
+2.19
+19
+2007
+2.53
+2.42
+12
+2008
+2.50
+2.39
+17
+2009
+2.50
+2.49
+9
+2010
+2.41
+2.22
+17
+Todos
+### Sistema de información y transición a áreas de emergencia más amplias
+Al comienzo del período de examen 2003–2010, la transición a las actuales áreas de emergencia estaba en curso. Las áreas de actuación de los centros de emergencia anteriores eran más pequeñas. Como sistemas de información se utilizaban los sistemas Merlot, Häke y Stratus. El sistema de información ELS, utilizado actualmente en todas partes, se puso en uso entre 2005 y 2008, un centro de emergencia cada vez.
+No se investigó la magnitud del retraso técnico en los diferentes sistemas de información.
+
+## Página 100
+
+El tiempo medio de procesamiento de tareas antes de la puesta en marcha del sistema de información ELS (n=112) fue de 2.30 y la mediana de 2.00. En el sistema de información ELS (n=123) las cifras correspondientes han sido de 2.50 y 2.42.
+## 4.7.4
+### Contenido del procesamiento de tareas
+Según el informe de actividades del Servicio de Emergencias del año 2009, el resultado en relación con el objetivo de la alarma sin retrasos ha mejorado de forma constante, pero lenta. La variación entre centros según el tipo de tarea es menor en el caso de la parada cardíaca (64–80 %) y mayor en el accidente de tráfico por carretera (8–56 %). El desafío para acelerar la alarma está relacionado con la localización; en los accidentes de tráfico por carretera, a menudo el informante no es capaz de localizarse a sí mismo en la carretera. Según el informe de actividades, esta es la razón principal de la duración de los tiempos de procesamiento de tareas.
+Para evaluar el contenido del procesamiento de tareas, el grupo de investigación escuchó las grabaciones de las llamadas de emergencia de los accidentes a nivel de cruce del año 2010 (n=22) y comparó los datos de registro de las llamadas. Los datos de registro de dos llamadas ya no estaban disponibles por motivos relacionados con los trabajos de modificación del sistema de información.
+### Duración de la llamada, llamante y clase de tarea
+La duración de las llamadas de emergencia varió desde menos de un minuto hasta casi siete minutos, con una media de 2.44. En todos los casos, las alarmas se realizaron en función de la primera llamada de emergencia.
+El llamante de la primera llamada de emergencia fue
+- 
+controlador de tráfico
+11
+- 
+maquinista
+  2
+- 
+persona que viajaba en el vehículo de accidente
+  1
+- 
+testigo presencial
+  8 veces.
+Se entiende por controlador de tráfico a quienes desempeñan funciones de control de tráfico ferroviario, como los controladores de área y los controladores de tráfico.
+En varios casos también se recibieron notificaciones superpuestas sobre el accidente, pero su cantidad y contenido no se evaluaron sistemáticamente en este contexto.
+En siete casos, la alarma se realizó durante la llamada.
+
+
+## Página 101
+
+7:00
+6:00
+5:00
+4:00
+3:00
+2:00
+1:00
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+tiempo de procesamiento de tareas
+duración de la llamada
+Gráfico 14. Tiempos de procesamiento de tareas de las notificaciones de emergencia sin retraso técnico y duración de las llamadas. En dos casos no se pudo determinar el retraso técnico, y en ellos se ha estimado un retraso de 5 segundos.
+Schema 14. Hanteringstider för nödanmälan utan teknisk fördröjning och samtalslängd. I två fall kunde den tekniska fördröjningen inte redas ut, för dessa har den uppskattats till 5 sekunder.
+Diagram 14. Task processing times of emergency calls without technical delays and call durations. In two instances, the length of the technical delay was unavailable, and the delay was estimated at 5 seconds.
+Las clases de tarea se seleccionaron de la siguiente manera:
+- 
+202 accidente de tráfico: pequeño
+  1
+- 
+212 accidente ferroviario: pequeño
+11
+- 
+213 accidente ferroviario: mediano-grande
+10.
+En todos los casos, la clase de tarea conforme a la instrucción de evaluación de riesgos habría sido 213. En la llamada de emergencia que condujo a la clase de tarea 202, el informante describió el suceso como "accidente de cruce en el que un automóvil se ha salido de la calzada". Durante la llamada, la palabra "tren" solo se menciona al final de la llamada, por lo que la selección de la clase de tarea es comprensible. No tuvo importancia en este caso. No se entrevistó a los operadores del centro de emergencias, por lo que no se tiene certeza de si utilizaron la instrucción de evaluación de riesgos.
+### Estructura del procesamiento de tareas
+Para evaluar la estructura de los procesamientos de tareas, se compararon entre sí los datos de registro del sistema de información ELS. Debido a las características del sistema de información, la localización con la precisión requerida debe realizarse primero. Al localizar, en los datos de registro debe añadirse la marca de área a la tarea; el tiempo transcurrido en esta fase está indicado en el gráfico 15 en azul.
+
+
+## Página 102
+
+6:00
+5:00
+4:00
+3:00
+2:00
+1:00
+0:00
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+localización
+selección de la clase de tarea
+"verificación"
+retraso técnico
+sin información
+Gráfico 15. Estructura de los procesamientos de tareas según los datos de registro. Los datos de registro de dos llamadas ya no estaban disponibles.
+Schema 15. Uppgiftshanteringens struktur enligt logguppgifter. För två samtal var logguppgifterna inte längre tillgängliga.
+Diagram 15. Structure of task processing according to the log data. Log data on two calls was no longer available.
+Al seleccionar la clase de tarea, en el archivo de registro debe añadirse la marca de tarea creada. El tiempo empleado en la creación de la tarea en el gráfico 15 está indicado en rojo. Después de crear la tarea, en este material parece transcurrir todavía desde unos pocos segundos hasta un minuto y medio antes de que se realice la alarma. Según los datos de registro, el retraso técnico es de 3–11 segundos, con una media de poco más de 5 segundos.
+### Localización
+Según los datos de registro y el contenido de las llamadas, parecía haber problemas evidentes de localización en aproximadamente cada tercera llamada. Según los datos de registro, en ocho de los 20 casos el área se añadió a la tarea más de un minuto después del inicio de la llamada.
+Se proporcionó información de punto kilométrico para la localización cuatro veces. En todos estos casos el llamante era un controlador de tráfico. En tres casos el operador también utilizó la información de punto kilométrico como herramienta auxiliar para la localización. En una llamada que condujo a una alarma y en otra llamada realizada por un controlador de tráfico con un pequeño retraso, el operador informó al controlador de tráfico de que no podía localizar con la información de punto kilométrico.
+Según las llamadas, parece que la capacidad de localizar con información de punto kilométrico varía entre los centros de emergencias.
+El llamante no supo decir el lugar del suceso en tres casos. Todos estos casos eran llamadas realizadas por un controlador de tráfico, en las que el controlador de tráfico proporcionó información de punto kilométrico. En un caso, el operador interpretó erróneamente como lugar del suceso el extremo final del tramo de vía comunicado por el controlador de tráfico.
+
+
+## Página 103
+
+El operador preguntó la dirección postal en casi todos los casos. Si no se podía proporcionar, la localización llevaba tiempo. En un caso, el controlador de tráfico informó en unos 15 segundos de que "un automóvil ha chocado por debajo de un tren de mercancías a unos 2 km de la localidad X en dirección a la ciudad Y", pero el área se añadió a la tarea solo un minuto después. Se empleó tiempo en la selección entre dos cruces a nivel posibles y adyacentes. El controlador de tráfico no pudo precisar el lugar porque el maquinista no supo indicar el lugar exacto antes de haber caminado desde la locomotora detenida hasta el lugar.
+Los aspectos relacionados con la localización se podrían haber estudiado con más detalle entrevistando a los operadores que recibieron las llamadas y familiarizándose con las herramientas de trabajo específicas de cada centro de emergencias, pero se prescindió de ello porque desde el inicio de la investigación ya había transcurrido mucho tiempo desde los casos.
+### Evaluación de riesgos
+En muchas llamadas se empleó tiempo en aclarar asuntos que no eran necesarios ni para la localización ni para la selección de la clase de tarea conforme a la instrucción de evaluación de riesgos.
+La instrucción del centro de emergencias debería mejorarse de modo que la clase de tarea más probable sea fácilmente deducible de la instrucción. Por ejemplo, en los 22 accidentes a nivel de cruce investigados, en todos los casos la clase de tarea correcta conforme a la instrucción habría sido 213.
+Según la información obtenida del Servicio de Emergencias, el Servicio de Emergencias está implantando la guía de evaluación de riesgos multiautoridad (MORA). La guía es una herramienta técnica en la que se recogen las instrucciones de evaluación de riesgos sectoriales de las autoridades.
+
+
+## Página 104
+
+## 5
+## EXAMEN DE LA SEGURIDAD DE LOS CRUCES A NIVEL EN OTROS PAÍSES
+## 5.1
+### Información estadística sobre el tráfico ferroviario y por carretera y sobre los accidentes
+Para comparar el desarrollo de la seguridad de los cruces a nivel entre diferentes países, se ha recopilado información estadística sobre el tráfico ferroviario de distintos países. Las cifras del año 2004 proceden del estudio de seguridad S1/2005R de OTKES y las cifras del año 2009 de las estadísticas de la Agencia Ferroviaria Europea (ERA). Las tablas que contienen información estadística se encuentran en el anexo 4 de este informe. La información estadística recopilada por ERA y los fundamentos y la información recopilada para el estudio de seguridad S1/2005R difieren parcialmente entre sí. Por ello, el examen es ahora más limitado que en el estudio anterior.
+Las estadísticas de ERA se basan en los indicadores de seguridad comunes mencionados en el anexo I de la Directiva de seguridad ferroviaria, cuya información deben declarar las autoridades nacionales de seguridad ferroviaria a ERA en sus informes anuales. Entre los indicadores se incluyen, entre otros, los accidentes a nivel de cruce, incluidos los accidentes en los que participan peatones, así como el número total de heridos graves y fallecidos y el número por tipo de accidente en relación con los kilómetros recorridos por trenes.
+En las tablas se ha recopilado en primer lugar información básica sobre las vías férreas: longitud de las redes ferroviarias, volúmenes de tráfico ferroviario y número de cruces a nivel de distintos tipos. Sobre los accidentes se han recopilado las cifras de todos los accidentes ferroviarios y de accidentes a nivel de cruce, así como de los que han provocado fallecimientos. Además, en las estadísticas se han recopilado datos sobre el número de fallecidos en accidentes ferroviarios y a nivel de cruce. Las estadísticas de los distintos países se comparan en el apartado de análisis.
+En los diagramas de barras de las páginas siguientes se ha intentado presentar la evolución de la situación en los distintos países de la UE.
+
+
+## Página 105
+
+### Información básica sobre las vías férreas
+El número de cruces a nivel se ha reducido ligeramente en Finlandia. La situación parece ser la misma en la mayoría de países. Las excepciones son Francia, Italia y Suecia, donde el número de cruces a nivel ha aumentado. Sin embargo, puede tratarse de un cambio en el método de estadística.
+Con dispositivos de aviso
+Sin dispositivos de aviso
+24 000
+20 000
+16 000
+12 000
+8 000
+4 000
+0
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+FI AT BE BG CZ DE DK EE EL ES FR HU IE
+IT
+LT LV NL NO PL PT RO SE SI SK UK
+Gráfico 16. Número de cruces a nivel en los años 2004 y 2009.
+Schema 16. Antal plankorsningar 2004 och 2009.
+Diagram 16. Number of level crossings in 2004 and 2009.
+
+
+## Página 106
+
+### Accidentes ferroviarios y a nivel de cruce
+Las cifras del año 2004 representan el número total de accidentes. En cambio, en las estadísticas de ERA los accidentes incluyen solo una parte de todos los accidentes ferroviarios y a nivel de cruce. Esto se refleja en el gráfico como caídas bruscas del número de accidentes en algunos países. Por ejemplo, en Finlandia se estadistificaron en 2004 un total de 109 accidentes ferroviarios y en 2009 solo 26 accidentes. Las cifras correspondientes en el caso de los accidentes a nivel de cruce fueron 52 y 12. Sin embargo, el número total de accidentes a nivel de cruce en la estadística interna de Finlandia fue de 37. Las diferencias en las cifras en Finlandia se deben a que a ERA solo se le declaran, conforme a la Directiva de seguridad ferroviaria, los accidentes significativos.
+2004
+2009
+1200
+1000
+800
+600
+400
+200
+0
+Austria
+Letonia
+Eslovenia
+Eslovaquia
+Dinamarca
+Italia
+República Checa
+Irlanda
+Bélgica
+Bulgaria
+Alemania
+Estonia
+Grecia
+España
+Francia
+Lituania
+Noruega
+Polonia
+Rumanía
+Finlandia
+Hungría
+Países Bajos
+Portugal
+Suecia
+Reino Unido
+Gráfico 17. Número de accidentes ferroviarios en los años 2004 y 2009. (Se ha eliminado la cifra excepcionalmente alta de Hungría del año 2004.)
+Schema 17. Antal järnvägsolyckor 2004 och 2009. (Den exceptionellt stora siffran för Ungern från 2004 har raderats.)
+Diagram 17. Number of level crossing accidents in 2004 and 2009. (The exceptionally high number for Hungary in 2004 has been removed.)
+
+## Página 107
+
+450
+2004
+2009
+400
+350
+300
+250
+200
+150
+100
+50
+0
+Austria
+Letonia
+Eslovenia
+Eslovaquia
+Dinamarca
+Italia
+Chequia
+Irlanda
+Bélgica
+Bulgaria
+Alemania
+Estonia
+Grecia
+España
+Francia
+Lituania
+Noruega
+Polonia
+Rumanía
+Finlandia
+Hungría
+Países Bajos
+Portugal
+Suecia
+RU
+Diagrama 18. Número de accidentes en pasos a nivel en los años 2004 y 2009. (Se ha eliminado la cifra excepcionalmente alta de Grecia del año 2004.)
+Schema 18. Antal plankorsningsolyckor 2004 och 2009. (Den exceptionellt stora siffran för Grekland från 2004 har raderats.)
+Diagram 18. Number of level crossing accidents in 2004 and 2009. (The exceptionally high number for Greece in 2004 has been removed.)
+
+### Fallecidos en accidentes ferroviarios y en pasos a nivel
+El número de fallecidos en accidentes ferroviarios incluye a los pasajeros, trabajadores, usuarios de pasos a nivel, personas que circulaban sin autorización por la vía y otros. En lo que respecta al número de fallecidos, no se han producido grandes cambios en la estadística y, por tanto, las cifras pueden considerarse bastante fiables. En la mayoría de los países, según las estadísticas, el número de fallecidos en accidentes ferroviarios ha disminuido. El número de fallecidos en accidentes en pasos a nivel ha disminuido en aproximadamente la mitad de los países y aumentado en la otra mitad.
+
+400
+2004
+2009
+350
+300
+250
+200
+150
+100
+50
+0
+Austria
+Letonia
+Eslovenia
+Eslovaquia
+Dinamarca
+Italia
+Bélgica
+Bulgaria
+Alemania
+Estonia
+Grecia
+España
+Francia
+Irlanda
+Lituania
+Noruega
+Polonia
+Rumanía
+Chequia
+RU
+Finlandia
+Hungría
+Países Bajos
+Portugal
+Suecia
+Diagrama 19. Fallecidos en accidentes ferroviarios en los años 2004 y 2009.
+Schema 19. Antal omkomna i järnvägsolyckor 2004 och 2009.
+Diagram 19. The number of fatalities in railway accidents in 2004 and 2009.
+
+
+## Página 108
+
+80
+2004
+2009
+70
+60
+50
+40
+30
+20
+10
+0
+Austria
+Letonia
+Eslovenia
+Eslovaquia
+Dinamarca
+Italia
+Irlanda
+Chequia
+Bélgica
+Bulgaria
+Alemania
+Estonia
+Grecia
+España
+Francia
+Lituania
+Noruega
+Polonia
+Rumanía
+RU
+Finlandia
+Hungría
+Países Bajos
+Portugal
+Suecia
+Diagrama 20. Fallecidos en accidentes en pasos a nivel en los años 2004 y 2009.
+Schema 20. Antal omkomna i plankorsningsolyckor 2004 och 2009.
+Diagram 20. The number of fatalities in level crossing accidents in 2004 and 2009.
+
+## 5.2
+### Estudios y proyectos de desarrollo para mejorar la seguridad en los pasos a nivel
+### Informe de investigación del organismo de investigación de accidentes del Reino Unido sobre la seguridad de los pasos a nivel equipados con señales luminosas y acústicas⁸
+Tras el accidente que provocó una muerte en 2009 en un paso a nivel con señal luminosa en Halkirk, el organismo de investigación de accidentes del Reino Unido, Rail Accident Investigation Branch (RAIB), decidió investigar más ampliamente la situación de seguridad de los pasos a nivel con señal luminosa. Anteriormente también se habían producido varios accidentes y situaciones de peligro en pasos a nivel similares.
+En el Reino Unido hay 114 pasos a nivel equipados únicamente con señal luminosa (Automatic Open Crossing = AOCL), en los que dos luces rojas parpadean como advertencia de la aproximación de un tren. En estos pasos a nivel, la velocidad de los trenes es como máximo 88 km/h y, en el caso más típico, 16–32 km/h.
+La investigación determinó que en los pasos a nivel con señal luminosa se producían más accidentes que en los pasos a nivel de otro tipo, en relación con el número de pasos a nivel. En relación con el volumen de tráfico, con la señal luminosa se alcanzaba un nivel de seguridad aproximadamente un 50 % mejor que en los pasos a nivel que no contaban en absoluto con un dispositivo de advertencia.
+
+Investigation into the safety of automatic open level crossings on Network Rail’s managed infrastructure, RAIB 12/2011
+
+
+## Página 109
+
+Diagrama 21. Colisiones entre vehículos y trenes en relación con el volumen de tráfico. En la figura: OC = sin dispositivo de advertencia, AOCL = instalación automática de señal luminosa, AHB = instalación automática de semibarrera, ABCL = instalación automática de barrera. Las siglas que empiezan por M corresponden a puertas o barreras manuales. Vehicle-train moment = número de usuarios de la carretera por día x número de trenes por día.
+Schema 21. Kollisioner mellan fordon och tåg i relation till trafikvolymen. På bilden: OC = utan varningsanordning, AOCL = automatisk ljusvarningsanläggning, AHB = automatisk halvbomsanläggning, ABCL = automatisk bomanläggning. Förkortningar som börjar på M är manuella portar eller bommar. Vehicle-train moment = antal väganvändare per dygn x antal tåg per dygn.
+Diagram 21. Collisions of vehicles and trains in proportion to traffic moment. In the figure: OC = open crossing, AOCL = automatic open crossing (locally monitored), AHB = automatic half barrier, ABCL = automatic barrier crossing (locally monitored). Those beginning with M are manually controlled gates or barriers. Vehicle-train moment = number of road vehicles x daily number of trains.
+
+La mayoría de los accidentes y situaciones de peligro se debieron a que el conductor del vehículo embistió la luz roja parpadeante de advertencia. Algunos lo hicieron intencionadamente, mientras que otros lo hicieron de forma involuntaria debido a un error de atención o a factores de distracción. Algunos conductores pueden haber interpretado erróneamente la indicación del señalizador.
+En el informe de investigación se analizan las razones por las que los conductores embisten a menudo, incluso intencionadamente, la luz roja de advertencia, y se proponen medidas para mejorar la seguridad. Además, la investigación ha determinado los factores que influyen en la gravedad de las consecuencias.
+
+
+## Página 110
+
+Diagrama 22. Riesgo de muerte para los ocupantes de turismos o furgonetas en una colisión en relación con la velocidad del tren.
+Schema 22. Risk för dödlig utgång för person- eller paketbilsförare i kollision med tåg i förhållande till tågets hastighet.
+Diagram 22. Fatality risk to occupants of car/van occupants in collision, in relation to the train speed.
+
+Como recomendaciones de seguridad, el informe propone equipar los pasos a nivel con señal luminosa más peligrosos con barreras o mejorar de otro modo su seguridad. Al mismo tiempo, debería determinarse si se han identificado todos los factores de riesgo humanos y medioambientales esenciales y si se han adoptado las medidas de mejora de seguridad necesarias.
+
+Nuevas soluciones más económicas para mejorar la seguridad de los pasos a nivel en líneas con poco tráfico
+En varios países europeos están en marcha proyectos cuyo objetivo es encontrar sistemas de advertencia para pasos a nivel que puedan implantarse con el menor coste posible. Los dispositivos de advertencia se pretenden destinar especialmente a las líneas con poco tráfico, cuyos pasos a nivel también presentan poco tráfico de vehículos.
+En Suiza está en marcha desde 2006 un proyecto (Micro) en el que se han equipado pasos a nivel con una señal luminosa para el tráfico por carretera. La luz verde fija de la señal luminosa indica que el paso a nivel está libre. La luz roja fija indica que el paso a nivel está ocupado. La luz amarilla parpadeante indica que el sistema está fuera de servicio. El coste del sistema por paso a nivel es de 55 000 €. En este momento se está solicitando la aprobación del sistema.
+En Francia se puso en marcha en 2007 un proyecto (SAL0) en el que se buscaban nuevos sistemas de advertencia para los pasos a nivel de líneas con poco tráfico. En el ensayo relacionado con el proyecto
+
+
+## Página 111
+
+en 2009 se probaron varios sistemas de advertencia diferentes, que tenían en cuenta la velocidad del tren, la densidad del tráfico por carretera, la visibilidad, etc. Entre los sistemas de advertencia probados se encontraba, entre otros, la equipación de la señal de paso a nivel con dos luces rojas que parpadeaban a diferentes ritmos cuando el tren se aproximaba al paso a nivel. El coste del sistema es de 15 000 € por paso a nivel.
+En Austria se puso en marcha en 2008 un proyecto (ISIS) en el que se probó en los pasos a nivel un sistema de advertencia alimentado por células solares. El principio de funcionamiento del sistema de advertencia consiste en identificar tanto al usuario de la vía como al tren que se aproxima al paso a nivel. Cuando el tren se aproxima, se advierte al usuario de la vía mediante una señal LED situada a 50 metros antes del paso a nivel, con el texto adicional «50 metros» y «paso a nivel sin barreras». El paso a nivel está equipado además con luces amarillas parpadeantes. El coste del sistema es de 25 000 €.
+
+### Otros proyectos europeos según el informe de investigación del organismo de investigación de accidentes del Reino Unido (RAIB)
+El Estado neerlandés concedió al gestor nacional de la infraestructura 194 millones de euros durante el período 2005–2009 para convertir los pasos a nivel equipados con señales luminosas y acústicas en pasos a nivel equipados con barreras. El número de pasos a nivel a convertir era de unos 600.
+Según el Convenio de Viena sobre señales de tráfico internacionales, para advertir de la llegada de un tren en un paso a nivel deberían utilizarse dos luces rojas parpadeantes. Sin embargo, en Alemania y Austria las luces de los pasos a nivel se han venido modificando durante varios años, a diferencia de lo establecido en el convenio, para que sean del mismo estilo que las luces de tráfico convencionales. Las luces tienen una luz amarilla abajo y una roja arriba, pero carecen de la luz verde de un semáforo convencional. Aún no se conocen los efectos de las nuevas luces sobre el número de accidentes.
+En Noruega los pasos a nivel están equipados con semáforos que incorporan una luz parpadeante. En la parte superior hay una luz roja parpadeante que obliga al usuario de la vía a detenerse antes de la línea de detención cuando un tren se está aproximando. Debajo hay una luz blanca parpadeante que indica cuándo es seguro cruzar la vía.
+
+
+## Página 112
+
+## 6
+## RECOMENDACIONES EMITIDAS ANTERIORMENTE
+Todas las recomendaciones del Centro de Investigación de Accidentes relacionadas con los accidentes en pasos a nivel, así como la información sobre su cumplimiento, figuran en el Anexo 3.
+
+## 6.1
+### Recomendaciones del estudio de seguridad S1/2005R
+La comisión de investigación del estudio de seguridad realizado en los años 2005–2007 consideró los siguientes puntos como principios básicos:
+- la eliminación de un paso a nivel es siempre la medida principal de mejora de la seguridad
+- el número de pasos a nivel se reducirá de forma significativa a largo plazo
+- la eliminación de pasos a nivel es planificada y las autoridades mantienen una estrategia al respecto
+- en el trabajo de eliminación se prioriza la seguridad
+- se destinan fondos suficientes por parte de la sociedad a la eliminación de pasos a nivel y a la mejora de la seguridad.
+El Centro de Investigación de Accidentes emitió, con base en el estudio de seguridad realizado, 10 recomendaciones de seguridad. Las recomendaciones se distribuyeron de la siguiente manera:
+- 2 se refieren al mantenimiento de los pasos a nivel o a las instrucciones de su mantenimiento
+- 3 se refieren a la modificación de los requisitos de visibilidad de los pasos a nivel, a la reducción de la velocidad máxima en la carretera antes del paso a nivel o a la limitación del tráfico de vehículos en los pasos a nivel
+- 2 se refieren a la divulgación, formación e información de los usuarios del tráfico por carretera y a la consideración de los pasos a nivel en la planificación de itinerarios
+- 2 se refieren a la mejora de la visibilidad del tren o del paso a nivel
+- 1 se refiere a la consideración de los pasos a nivel en la planificación urbanística.
+Además de las recomendaciones mencionadas anteriormente, el Centro de Investigación de Accidentes repitió, en el marco del estudio de seguridad, tres recomendaciones emitidas en investigaciones anteriores. Las recomendaciones repetidas se referían a la verificación de la información de identificación de los pasos a nivel, a la realización de avisos de emergencia en accidentes ferroviarios y a la transmisión de la información del punto kilométrico a los sistemas de información de los centros de emergencia.
+
+## 6.2
+### Otras recomendaciones relacionadas con los accidentes en pasos a nivel
+Con base en los accidentes individuales en pasos a nivel investigados por las comisiones de investigación designadas por el Centro de Investigación de Accidentes en los años 2000–2010, el Centro de Investigación de Accidentes ha emitido un total de 51 recomendaciones de seguridad. Las recomendaciones de seguridad emitidas se distribuyen de la siguiente manera:
+- 12 se refieren a la eliminación de un paso a nivel individual o a su sustitución por un enlace a distinto nivel
+- 5 se refieren a la equipación de un paso a nivel individual con una instalación de semibarrera
+- 11 se refieren a disposiciones e instrucciones relativas a los pasos a nivel
+- 9 se refieren a la alerta/operaciones de rescate
+- 6 se refieren a la actuación de los usuarios del tráfico por carretera
+- 4 se refieren al mantenimiento de los pasos a nivel
+- 3 se refieren al material rodante
+- 1 se refiere a la reducción de la velocidad máxima en la vía.
+
+## Página 113
+
+Las recomendaciones relativas a la eliminación o sustitución de pasos a nivel se han dirigido a la Autoridad de Transporte y a los municipios o ciudades donde se encuentran los emplazamientos. Las recomendaciones relativas al equipamiento de pasos a nivel con barreras semiautomáticas, las disposiciones y directrices sobre pasos a nivel y el mantenimiento de pasos a nivel se han dirigido a la Autoridad de Transporte y, en algunos casos, a la Autoridad de Seguridad del Transporte. Las recomendaciones relativas a las funciones de alerta y salvamento se han dirigido al Departamento de Salvamento del Ministerio del Interior, al Centro de Emergencias y a VR-Yhtymä Oy. La recomendación relativa a la limitación de velocidad en la vía se ha dirigido a la Autoridad de Seguridad del Transporte. Las recomendaciones relativas al material rodante se han dirigido a VR-Yhtymä Oy.
+El Centro de Investigación de Accidentes Ferroviarios da seguimiento a la aplicación de las recomendaciones mediante reuniones de seguimiento de recomendaciones celebradas a intervalos regulares. En dichas reuniones se examina el estado de las recomendaciones pendientes y se intenta recopilar información actualizada de las partes a las que se han dirigido las recomendaciones. Según la información recibida, de un total de 61 recomendaciones, 21 se han implementado, ocho se han decidido no implementar y 32 siguen pendientes o no se ha obtenido información sobre su estado.
+De las recomendaciones implementadas:
+- 4 afectaban a múltiples o a todos los pasos a nivel
+- 4 afectaban a pasos a nivel individuales
+- 2 afectaban al material rodante
+- 5 afectaban a las funciones de salvamento
+- 4 afectaban a directrices o disposiciones para los usuarios de pasos a nivel
+- 2 afectaban a la notificación de accidentes.
+
+
+## Página 114
+
+## 7 
+## ANÁLISIS
+En términos generales, puede afirmarse que el número de accidentes en pasos a nivel ha disminuido de forma significativa durante los dos últimos años. Sin embargo, esto no se refleja en el número de fallecidos en accidentes en pasos a nivel, que se ha mantenido en torno a diez personas al año desde 1993. También se han realizado diversos planes, estudios e investigaciones para mejorar la seguridad en los pasos a nivel.
+## 7.1 
+### Evolución del número de pasos a nivel y de accidentes en pasos a nivel
+Durante los últimos 20 años, tanto el número de pasos a nivel como el de accidentes en pasos a nivel se han reducido (gráfico 23). No obstante, en los años 2005, 2006 y 2008 se produjo un número de accidentes claramente desviado de la tendencia descendente. La reducción de pasos a nivel ha sido constante. En los últimos años, los pasos a nivel se han eliminado principalmente en el contexto de la elevación de la velocidad de las vías.
+Accidentes en pasos a nivel
+Pasos a nivel/100
+Tendencia (accidentes en pasos a nivel)
+120
+100
+80
+60
+40
+20
+0
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+Gráfico 23. Evolución del número de pasos a nivel y de accidentes en pasos a nivel, así como la tendencia de los accidentes (exponencial).
+Schema 23. Utveckling i antalet plankorsningar och plankorsningsolyckor samt olyckstrend (exponentiell).
+Diagram 23. Development in the number of level crossings and level crossing accidents and the accident trend (exponential).
+La disminución del número de accidentes probablemente se haya visto influida tanto por la eliminación de pasos a nivel en vías con tráfico intenso, como por las campañas de concienciación dirigidas a los usuarios de los pasos a nivel y por la investigación de accidentes. En los últimos años no se ha realizado nada significativo en materia de seguridad de los pasos a nivel existentes. Las visibilidades se han despejado regularmente, pero las visibilidades inherentemente deficientes no se han mejorado ni, en general, se han mejorado sistemáticamente las condiciones de los pasos a nivel.
+
+
+## Página 115
+
+## 7.2 
+### Registros de pasos a nivel y de accidentes
+En la estrategia de protección y eliminación de pasos a nivel de 2002 se indicó que el contenido y el mantenimiento de los registros de pasos a nivel y de accidentes deberían desarrollarse de modo que en el futuro se disponga de datos con los que pueda determinarse la seguridad de pasos a nivel individuales.
+Según la estrategia de pasos a nivel de 2007, las estadísticas de pasos a nivel se han mantenido en dos sistemas de registro distintos: 1) El registro de pasos a nivel mantenido por Oy VR-Rata Ab (actualmente VR Track Oy) contiene los datos técnicos de los pasos a nivel. 2) Los datos de visibilidad, de carretera, de inspección de seguridad y de mantenimiento se mantienen en una base de datos pública de pasos a nivel (www.tasoristeys.fi). La estrategia fija como objetivo la unión de estos sistemas en el contexto de la actualización de los registros. El propósito es vincular la estadística de accidentes en pasos a nivel al sistema de gestión de seguridad del Centro de Gestión Ferroviaria (actualmente la Autoridad de Transporte).
+Según el estudio preliminar realizado por VTT (Kallberg 2010), los datos de accidentes se estadifican en el sistema de información de la empresa ferroviaria (antiguo PORA, actual TUTTI), en el sistema utilizado por la Autoridad de Transporte (JUHA) y en el sistema de información de la Autoridad de Seguridad del Transporte (Synergi). En el estudio se consideró como una de las necesidades de desarrollo la unión de estas estadísticas de accidentes. Debería investigarse la necesidad y la posibilidad de crear, por ejemplo, un centro común de información sobre tráfico y accidentes que abarque todos los modos de transporte y que sea compartido por la Autoridad de Seguridad del Transporte y la Autoridad de Transporte, en el que el personal especializado en la materia analizara la información y la produjera para distintas necesidades.
+En las estadísticas de accidentes, los suicidios deberían intentarse distinguir de los accidentes, ya que las medidas para prevenir los accidentes son en parte distintas de las medidas para prevenir los actos intencionados. Según el estudio sobre las víctimas de salto (Silla 2011), en las distintas estadísticas los suicidios se habían podido distinguir de los datos de forma variable. Al combinar la información de distintas estadísticas se logró reducir el número de casos ambiguos. En el conjunto de datos combinado quedó un 4 % de casos en los que no se pudo determinar si se trataba de un suicidio o de un accidente.
+De las víctimas de salto, aproximadamente el 85 % se ha determinado que fueron suicidios (Silla 2011). También una parte bastante grande de los accidentes con vehículos a motor que dieron lugar a la muerte en pasos a nivel con dispositivos de aviso fueron suicidios (véase el punto 4.2, Tipo de paso a nivel y factor de riesgo inmediato).
+Para esta investigación se dispuso del registro de pasos a nivel mantenido por VR Track Oy y del registro de accidentes mantenido por la Autoridad de Transporte. Los datos del registro de pasos a nivel presentaban diferencias con respecto a la información de los pasos a nivel reales. El registro no contenía datos de dirección más precisos de los pasos a nivel. Además, las variables presentaban valores faltantes. Los valores de la variable KVL son orientativos, ya que en la realidad una medición fiable es muy difícil.
+El registro de accidentes contenía los datos de 440 accidentes en pasos a nivel desde el año 2002. Los datos estaban registrados en un programa de hoja de cálculo.
+Debería completarse la tarea de renovación de los registros. El registro público de pasos a nivel disponible en Internet en la dirección www.tasoristeys.fi debería desarrollarse y mantenerse de modo que los datos de ubicación y de condiciones actualizados al momento del paso a nivel estén disponibles para todos. Al registro debería
+
+
+## Página 116
+
+añadirse el municipio, el nombre de la carretera transversal y los datos de dirección del paso a nivel con una precisión tal que el paso a nivel pueda localizarse con un navegador. De este modo, también, por ejemplo, el centro de emergencias y el servicio de salvamento podrían utilizar mejor el registro en su propia actividad.
+## 7.3 
+### Directrices sobre señales de tráfico y otras señales relacionadas con los pasos a nivel
+### Límites de velocidad en carretera y uso de la señal STOP
+En RATO no hay directrices sobre los límites de velocidad en carretera. Sobre la señal STOP se ha mencionado que puede utilizarse cuando sea necesario.
+En el antiguo RAMO elaborado por los Ferrocarriles del Estado, a partir del cual se ha modificado el actual RATO mantenido por la Autoridad de Transporte, había directrices sobre el uso de los límites de velocidad y de la señal STOP. Entre otras cosas, la disposición establecía que en los pasos a nivel equipados con dispositivos de seguridad se aplica un límite de velocidad de 50 km/h y en los pasos a nivel sin dispositivo de seguridad un límite de velocidad de 30 km/h. Sin embargo, si en el paso a nivel hay una señal STOP, el límite de velocidad es de 50 km/h. En el paso a nivel en el que se coloca la señal de tráfico STOP que indica la obligación de detenerse, la pendiente longitudinal de la carretera debería ajustarse a las directrices. Especialmente en los casos en los que la carretera asciende en pendiente pronunciada hacia la vía, debe mejorarse la pendiente longitudinal antes de colocar la señal.
+Peltola (2007a, 2007b) propuso en sus estudios reducir el límite de velocidad en carretera a 60 km/h en los pasos a nivel con dispositivos de aviso.
+Según la directriz de la Administración de Carreteras (2009), en las carreteras públicas debe haber un límite de velocidad de 60 km/h en los pasos a nivel con dispositivos de aviso y un límite de velocidad de 50 km/h en los pasos a nivel sin dispositivos de aviso. Según la directriz, puede aplicarse también a las calles.
+Según la directriz de la Administración de Carreteras (2003), en los pasos a nivel sin dispositivos de aviso de los ferrocarriles puede utilizarse la señal STOP. En las carreteras públicas la señal puede utilizarse, por ejemplo, cuando al aproximarse al paso a nivel no hay visibilidad suficiente, pero la visibilidad en el paso a nivel es suficiente, el ángulo de cruce del paso a nivel es oblicuo o en el paso a nivel se han producido accidentes.
+En el estudio de VTT (Kallberg 2009) se exponen de forma fundamentada las condiciones en las que debería utilizarse la señal STOP o, alternativamente, un límite de velocidad de 20 km/h en los pasos a nivel sin dispositivos de aviso. En el estudio se recomienda que en el uso de las señales de tráfico debería llegarse a una práctica uniforme que abarque todos los pasos a nivel.
+Con base en lo expuesto anteriormente, deberían elaborarse directrices claras sobre los límites de velocidad del tráfico por carretera y el uso de la señal STOP en los pasos a nivel.
+### Portales y otros métodos similares para mejorar la seguridad de los pasos a nivel
+En los últimos años se ha intentado mejorar la visibilidad de los pasos a nivel sin dispositivos de aviso de diversas maneras. Por ejemplo, las señales de paso a nivel también se han instalado en el lado izquierdo de la carretera y en los pasos a nivel se han instalado portales, semportales, postes de detención y espejos.
+
+## Página 117
+
+La eficacia de estas medidas ha sido estudiada al menos en la investigación de Poutanen (2007), pero no se han elaborado instrucciones uniformes para ellas. Poutanen recomienda en su investigación que se definieran las condiciones de uso y los requisitos técnicos de las medidas.
+Al elaborar los requisitos técnicos debería tenerse en cuenta el aspecto señalado en determinados estudios, de que en un paso a nivel atípico la semibarrera puede confundirse con una barrera abierta.
+### Práctica uniforme en los pasos a nivel de distintos tipos de carretera
+El usuario de la carretera no distingue la carretera según su calidad o su titular. Le es indiferente si la carretera es una carretera pública, una calle o una carretera privada, o si el titular es el Estado, un municipio o un particular. Lo esencial es que las reglas del juego relacionadas con la seguridad sean uniformes, de modo que, por ejemplo, un usuario de la carretera que se aproxime a un paso a nivel pueda confiar en que las señales de tráfico y demás indicaciones orientan su comportamiento hacia la opción más segura.
+Deberían estar en vigor prácticas justificadas y buenas en relación con los límites de velocidad, las señales STOP y otras indicaciones, de manera uniforme en todos los pasos a nivel.
+## 7.4
+### Visibilidad
+En el reglamento de visibilidad, las visibilidades en el paso a nivel (visibilidad a la vía 8 m antes del raíl más próximo) se indican en una tabla. Según el reglamento, por ejemplo, con una velocidad de la vía de 100 km/h la visibilidad es de 600 m (540 m).
+Según la RATO, la visibilidad en el paso a nivel se calcula con la fórmula 6 x V, es decir, con una velocidad de 100 km/h la visibilidad sería de 600 m.
+En el antiguo RAMO se definía la visibilidad en el paso a nivel tanto a una distancia de 8 m como la visibilidad correspondiente a la distancia de detención. La visibilidad de 8 m se calculaba con la fórmula 6 x V, como en la RATO, y el lado de la vía del triángulo de visibilidad correspondiente a la distancia de detención con la fórmula 2,5 x V (con una velocidad de 100 km/h, 250 m), siendo el lado de la carretera de 20–60 m en función del tipo de carretera.
+En el nuevo reglamento de visibilidad se ha definido en los cruces de carreteras una visibilidad de detención, que depende de la velocidad de diseño de la carretera. Combinando la visibilidad correspondiente a la distancia de detención del antiguo RAMO con las visibilidades de detención del nuevo reglamento de visibilidad, que dependen de la velocidad de diseño de la carretera, se podría mejorar la seguridad en situaciones en las que no sea necesario detenerse antes del paso a nivel, a menos que un tren se esté aproximando dentro del área de la visibilidad de detención.
+El reglamento de visibilidad debería también modificarse para que abarque todos los pasos a nivel.
+## 7.5
+### Instrucciones al titular de la carretera
+Según los datos del grupo de investigación de accidentes de vehículos a motor que condujeron a la muerte, la gran mayoría (77 %) de los accidentes mortales en pasos a nivel sin dispositivos de aviso se produjeron en pasos a nivel de carreteras privadas.
+
+
+## Página 118
+
+En los accidentes en pasos a nivel investigados por el Centro de Investigación de Accidentes se ha observado de forma general que, en las carreteras privadas, el uso de los límites de velocidad y de la señal STOP ha sido variable. Los niveles de expectativa y las visibilidades han sido a menudo inferiores al nivel conforme a las directrices de la RATO. Los representantes de las entidades de mantenimiento de carreteras privadas y los representantes correspondientes de los titulares de carreteras han declarado que no disponían de información sobre las obligaciones de los titulares de carreteras en relación con los pasos a nivel.
+El Centro de Investigación de Accidentes emitió en 2009 una recomendación al RHK (actualmente Liikennevirasto), según la cual el Centro de Administración Ferroviaria (Ratahallintokeskus) debería informar a los titulares de carreteras de sus obligaciones en cuanto a la realización y el mantenimiento de la parte de la carretera relacionada con el paso a nivel conforme a las directrices. La ejecución de la recomendación está en curso.
+La finalidad del reglamento del Ministerio de Transportes y Comunicaciones sobre las zonas de visibilidad (65/2011) es que los pasos a nivel entre carreteras y ferrocarriles se diseñen y las zonas de visibilidad se determinen de modo que se alcancen las visibilidades suficientes desde el punto de vista de la seguridad vial, la flexibilidad del tráfico y la capacidad de transporte del tráfico. El reglamento se aplica al paso a nivel entre ferrocarril y carretera o entre ferrocarril y carretera privada. Sin embargo, las disposiciones del reglamento en materia de pasos a nivel se refieren únicamente a los pasos a nivel ferroviarios nuevos y a mejorar. El reglamento no se aplica, por ejemplo, a los pasos a nivel de vías a mejorar, si las mejoras no afectan a los pasos a nivel.
+En una investigación del Centro de Investigación de Accidentes se puso de manifiesto que el titular de la vía y la ciudad responsable del mantenimiento de la calle tenían concepciones completamente distintas sobre la responsabilidad de despeje de la visibilidad del paso a nivel. La cuestión de la responsabilidad no se aclaró de manera inequívoca durante la investigación. Tampoco el reglamento de visibilidad promulgado posteriormente habría aportado en este caso respuesta a las cuestiones de responsabilidad. Aunque la falta de conocimiento de los titulares de carreteras sobre las prácticas y responsabilidades adecuadas se refiere especialmente a las carreteras privadas, el ejemplo anterior demuestra que las instrucciones son necesarias también para otros titulares de carreteras.
+No existe una única fuente de buenas prácticas relativas al mantenimiento de carreteras en los pasos a nivel. La información a los titulares de carreteras debería mejorarse, por ejemplo, elaborando una Guía del titular de carretera para pasos a nivel, en la que se recogen en una misma publicación las disposiciones, las directrices, las responsabilidades y las buenas prácticas. La guía debería distribuirse ampliamente a todos los titulares de carreteras de pasos a nivel. La información correspondería mejor a la tarea de Liikennevirasto.
+## 7.6
+### Accidentes mortales en pasos a nivel de vehículos a motor
+### El número de accidentes no ha disminuido en la década de 2000
+En los últimos 19 años se han producido accidentes mortales en pasos a nivel con una media de 7 al año, y en ellos han muerto una media de 9 personas al año.
+El número de accidentes mortales en pasos a nivel ha disminuido –al igual que el número de otros accidentes mortales de vehículos a motor– al pasar de la década de 1990 a la de 2000. Sin embargo, desde mediados de la década de 2000 el número de accidentes mortales en pasos a nivel ha ido en aumento, a diferencia del número de accidentes mortales del resto del tráfico de vehículos a motor. En el primer quinquenio de la década de 2000 (años 2001–2005) se produjeron un total de 21 accidentes mortales
+
+
+## Página 119
+
+en pasos a nivel, mientras que la cifra en el segundo semestre fue de 28 (años 2006–2010). El aumento fue de un tercio. En todos los accidentes mortales de vehículos a motor la cifra descendió de 1 336 accidentes en la primera mitad de la década de 2000 a 1 235 accidentes en la segunda mitad (VALT-Vuosiraportti 2005 y VALT-Ennakkoraportti año 2010). La reducción en el número de accidentes fue del 8 %.
+La proporción de trenes de pasajeros en los accidentes disminuyó durante el período de seguimiento de 19 años. En la década de 1990 fue del 61 %, pero en la década de 2000 apenas del 40 %. Esto está muy probablemente relacionado con el hecho de que en los tramos ferroviarios con tráfico de trenes de pasajeros se han eliminado sistemáticamente pasos a nivel y, en particular, pasos a nivel sin dispositivos de aviso.
+### Los accidentes se producen en pasos a nivel sin dispositivos de aviso
+La gran mayoría de los accidentes mortales en pasos a nivel (78 %) se produjo en pasos a nivel sin dispositivos de aviso. En más de un tercio de ellos había señal STOP. La señal STOP se instala típicamente en un paso a nivel con mala visibilidad o que se ha considerado peligroso por otra razón. Sin embargo, no existen instrucciones claras sobre el uso de la señal STOP.
+Las colisiones mortales estaban claramente sobrerrepresentadas en los pasos a nivel con señal STOP, ya que, según la investigación de Kallberg (2009), solo en aproximadamente el 14 % de todos los pasos a nivel sin dispositivos de aviso hay señal STOP. Según Kallberg, la señal STOP aumenta sin embargo la seguridad del paso a nivel cuando el número de accidentes se relaciona con el tránsito. En los pasos a nivel sin dispositivos de aviso con señal STOP los volúmenes de tráfico son, en promedio, mayores que en los pasos a nivel con dispositivos de aviso sin señal STOP. En este material de accidentes se pudo examinar el tráfico medio diario en relación con los accidentes producidos en la década de 2000. En este conjunto de datos de 26 accidentes, la existencia de la señal STOP no guardaba relación con la cantidad de tráfico medio diario del paso a nivel.
+### Límites de velocidad elevados en la carretera y en la vía
+Los tipos de paso a nivel no se diferenciaban entre sí en cuanto al límite de velocidad de la carretera o de la vía. Tanto en los pasos a nivel con dispositivos de aviso como en los sin ellos, el límite de velocidad más habitual de la vía era de 120 km/h. Los accidentes mortales en pasos a nivel con un límite de velocidad de la vía de 120 km/h estaban sobrerrepresentados en comparación con la proporción de pasos a nivel con límite de velocidad de 120 km/h sobre el total de pasos a nivel.
+La exigencia de la tarea de cruzar el paso a nivel desde el punto de vista del conductor del vehículo es, sin embargo, considerablemente mayor en un paso a nivel sin dispositivos de aviso que en uno con dispositivos de aviso. Ningún factor del sistema ayuda al conductor a superar la tarea, sino que la tarea es responsabilidad exclusiva del conductor. En el tráfico por carretera no se permite en ningún caso una situación en la que se pueda cruzar a nivel una carretera con límite de velocidad de 120 km/h.
+El límite de velocidad más habitual de 80 km/h en los pasos a nivel sin dispositivos de aviso se relaciona a menudo con el límite de velocidad general de las carreteras privadas y, en la práctica, casi todos los que cruzan el paso a nivel circulan a una velocidad considerablemente inferior. En este conjunto de datos, el 63 % de los conductores que se vieron implicados en un accidente en un paso a nivel sin dispositivos de aviso circulaban a 30 km/h como máximo, y solo el 4 % a una velocidad de 61–80 km/h. El propósito de los 120 km/h de la vía...
+
+## Página 120
+
+taa, sin embargo, normalmente justo 120 km/h. Por lo tanto, la simple reducción del límite de velocidad de la carretera no tiene por qué lograr una gran mejora de la seguridad.
+### Los pasos a nivel sin dispositivos de advertencia no cumplen las directrices de RATO
+El paso por un paso a nivel sin dispositivo de advertencia se ve dificultado a menudo también por visibilidades deficientes, la rampa hacia la vía y la ausencia de un nivel de espera. De los pasos a nivel accidentales sin dispositivo de advertencia examinados en este material, el 80 % no cumplía las directrices de RATO.
+### El tráfico medio diario (KVL) está relacionado con los sucesos accidentales
+Cuando se examinaron todos los accidentes en pasos a nivel, se pudo constatar que el volumen tiene una importancia fundamental para la probabilidad de que ocurra el accidente. Lo mismo se aplica también a los accidentes que han conducido a la muerte en pasos a nivel sin dispositivo de advertencia. El examen de las magnitudes del tráfico medio diario solo pudo realizarse, en el caso de los accidentes mortales, para los accidentes ocurridos a partir del año 2001, porque con anterioridad la información sobre el KVL no estaba codificada en la base de datos del material del comité de investigación. Entraron en el examen 26 accidentes ocurridos en pasos a nivel sin dispositivo de advertencia. De estos, el 65 % había ocurrido en pasos a nivel en los que el KVL del tráfico por carretera era superior a 20 vehículos. Sin embargo, según Kallberg (2009), en los pasos a nivel sin dispositivo de advertencia solo en aproximadamente un quinto el KVL del tráfico por carretera supera las 20. En la mayor parte de los pasos a nivel sin dispositivo de advertencia el KVL es extremadamente bajo. Por debajo de 1 era casi la mitad (46 %) de los pasos a nivel sin dispositivo de advertencia. Del KVL del tráfico ferroviario en los pasos a nivel accidentales solo se obtuvo información en 14 casos y, con base en este material, no parecía guardar una relación tan clara con la probabilidad de accidente como el KVL del tráfico por carretera.
+### Los dispositivos de advertencia previenen accidentes
+Los dispositivos de advertencia se han instalado normalmente en los pasos a nivel de grandes volúmenes. Son capaces de prevenir bastante bien los accidentes mortales. Previenen especialmente los llamados accidentes «limpios», en los que no se incluye la asunción de riesgo o la intencionalidad del conductor.
+Los factores relacionados con el conductor que subyacen a los accidentes mortales diferencian los accidentes en pasos a nivel sin y con dispositivos de advertencia (tabla 25). Puede constatarse que se incluye un grado considerable de intencionalidad y asunción de riesgo en una cantidad notable de accidentes en pasos a nivel con dispositivos de advertencia, pero prácticamente no en los accidentes en pasos a nivel sin dispositivos de advertencia. Esto resalta la importancia de los dispositivos de seguridad como preventores de errores humanos. Los llamados accidentes «limpios», en los que no ha sido posible constatar una asunción de riesgo relacionada con el conductor, son raros en los pasos a nivel con dispositivos de advertencia, pero muy comunes en los pasos a nivel sin dispositivos de advertencia. Desde el punto de vista de la visión cero de la seguridad ferroviaria (nadie tiene que morir ni resultar herido en el tráfico), los dispositivos de advertencia de los pasos a nivel funcionan, por tanto, bastante bien.
+
+
+## Página 121
+
+Tabla 25. Factores de fondo relacionados con los conductores en accidentes en pasos a nivel sin y con dispositivos de advertencia. Sombreado en las proporciones más altas.
+Tabel 25.
+Bakgrundsfaktorer som hänfört sig till förarna vid olyckor i plankorsningar utan varningsanordningar och vid olyckor i plankorsningar med varningsanordningar. De största delarna är skuggade.
+Table 25.
+Driver-related background factors in accidents at level crossings without and with warning devices. The highest percentages are shaded.
+Pasos a nivel sin dispositivo de advertencia (n=104)
+Pasos a nivel con dispositivo de advertencia (n=29)
+f
+%
+f
+%
+Sexo del conductor: hombre
+77
+74,0
+27
+93,1
+Factor de riesgo inmediato: error de percepción
+73
+70,7
+9
+31,0
+Factor de riesgo inmediato: asunción de riesgo, intencionalidad
+3
+2,9
+11
+37,9
+Exceso de velocidad en el tramo de carretera
+2
+2,1
+3
+12,5
+Bajo los efectos del alcohol
+7
+7,3
+6
+22,2
+Permiso de conducir no válido
+9
+8,8
+9
+31,0
+Nota: Debido a los datos faltantes, el tamaño del conjunto examinado puede variar ligeramente de una fila a otra.
+## 7.7
+### Evaluación de la peligrosidad de un paso a nivel individual
+La peligrosidad de un paso a nivel individual se evaluó a principios de la década de 2000 mediante cálculo con el índice de riesgo presentado en RATO. Posteriormente se puso en uso un índice de condiciones, en el que como variable nueva se incluyó también, entre otros, la visibilidad. VTT tiene en desarrollo un nuevo sistema (RautaTARVA), en el que se evalúa el riesgo de los pasos a nivel y los efectos en la seguridad de las medidas que inciden en el mismo. Una vez finalizado, con el sistema se podrá estudiar la seguridad de pasos a nivel individuales, la evolución de la seguridad y su mejora.
+El índice de condiciones conforme a RATO 9 puede distorsionar la peligrosidad de los pasos a nivel equipados con barreras. Según el índice de condiciones, el 97 % de los pasos a nivel clasificados como más peligrosos estaban equipados con barreras (RHK 2007). En los pasos a nivel equipados con barreras, las cifras de accidentes son bajas. Por esta razón, la relación del índice de condiciones en uso con las cifras de accidentes es débil.
+En el punto 4.4 se han calculado, mediante métodos estadísticos conocidos, los indicadores que describen la peligrosidad de pasos a nivel individuales. Con base en los indicadores, la lista de los pasos a nivel más peligrosos difiere considerablemente de la lista obtenida con el índice de condiciones. Los indicadores obtenidos mediante métodos estadísticos guardan una mejor relación con las cifras de accidentes.
+Según los resultados del punto 4.4, un paso a nivel peligroso carece de dispositivo de advertencia, el límite de velocidad de la carretera es bajo y el tráfico medio diario es elevado. El límite de velocidad de la carretera no describe la velocidad real del automóvil, sino más bien la ubicación del paso a nivel. Los resultados apuntan a que los pasos a nivel peligrosos se sitúan en zonas urbanas, donde el límite de velocidad de la carretera es como máximo de 50 km/h. Los pasos a nivel en los que el límite de velocidad es, por ejemplo, de 80 km/h se sitúan siempre fuera de las zonas urbanas.
+
+
+## Página 122
+
+Con base en todos los accidentes y en los accidentes mortales, parece que el KVL, la ausencia de dispositivo de advertencia en el paso a nivel y las velocidades son factores significativos para los accidentes (puntos 4.2 y 4.4). De los accidentes mortales ocurridos en pasos a nivel sin dispositivo de advertencia, el límite de velocidad de la vía era de 120 km/h en el 40 % de los casos y en los con dispositivo de advertencia era superior al 60 % de los casos. Al mismo tiempo, sin embargo, la proporción de pasos a nivel con límite de velocidad de 120 km/h sobre el total de los sin dispositivo de advertencia era solo ligeramente superior al 10 % y en los con dispositivo de advertencia aproximadamente el 15 %. La alta velocidad del tren está relacionada con la gravedad de las consecuencias. Además, también queda menos tiempo para la observación y la evitación del accidente cuando las velocidades son elevadas.
+Los pasos a nivel con dispositivos de advertencia son claramente más seguros que los sin dispositivo de advertencia en cuanto a cifras de accidentes. Los autobuses y el tráfico pesado utilizan algunos pasos a nivel con dispositivos de advertencia de manera especialmente frecuente. Aunque la probabilidad de accidente es baja, en estos pasos a nivel existe un mayor riesgo de accidentes muy graves. En caso de colisión con material pesado, el tren puede descarrilar o la colisión con un autobús puede ser muy fatal incluso a velocidades bajas.
+La importancia del límite de velocidad de la vía para el origen del accidente y la gravedad de las consecuencias se ha examinado en el informe RAIB (2011). En los pasos a nivel completamente sin dispositivos de advertencia existe en Inglaterra siempre una velocidad baja en la vía y también en los pasos a nivel con dispositivos de advertencia luminosos la velocidad máxima de la vía es de 88 km/h.
+## 7.8
+### Transportes escolares
+En el reglamento de transporte escolar y en la Guía de transporte escolar elaborada con base en el mismo, la única disposición relacionada con la ruta del transporte escolar es la planificación de la ruta de modo que los pasajeros no tengan que cruzar la calzada innecesariamente al subir o bajar del vehículo.
+El Centro de Investigación de Accidentes Ferroviarios emitió en 2007 una recomendación sobre la planificación de las rutas de transporte de modo que se minimicen los cruces de la vía y se dirijan por un punto de cruce más seguro. En el estudio piloto de Laine (2010) sobre transportes escolares y de autobuses en los pasos a nivel de la línea Hyvinkää–Hanko se cartografiaron y evaluaron los pasos a nivel de las rutas de transporte escolar. Mediante el levantamiento se pudieron identificar los pasos a nivel más peligrosos y planificar rutas de transporte alternativas más seguras.
+En el estudio se recomendó la realización de estudios similares también en otras líneas.
+El programa Koululiitu, que evalúa la peligrosidad del trayecto escolar, no tiene en cuenta en absoluto los pasos a nivel, porque la información del registro de carreteras que utiliza el programa no contiene datos sobre pasos a nivel. El programa debería desarrollarse de modo que también estuvieran disponibles los datos sobre pasos a nivel.
+## 7.9
+### Plan de seguridad ferroviaria
+En el informe de fondo del Plan de seguridad ferroviaria de ámbito nacional, el término paso a nivel se menciona en tres puntos:
+
+
+## Página 123
+
+- 
+en el seguimiento de la decisión de principios del Consejo de Ministros se constata que la aceleración de la ejecución del tema relativo a la eliminación de pasos a nivel ha quedado totalmente sin realizar
+- 
+en la declaración de política de transporte del Gobierno al Parlamento se afirma que, para reducir los accidentes en pasos a nivel, se han eliminado pasos a nivel dentro de los límites que permiten los recursos, lo cual no ha sido suficiente
+- 
+con la tecnología inteligente se puede distribuir información de manera eficiente al conductor del vehículo y guiarle hacia las opciones correctas; por ejemplo, el navegador de un vehículo terrestre que se aproxima a un paso a nivel puede advertir de un tren que se aproxima.
+Los planes de seguridad ferroviaria elaborados por los centros ELY y los municipios no han sido examinados de forma específica en este momento, pero en las investigaciones de los accidentes en pasos a nivel que han conducido a la muerte, realizadas por OTKES, se ha observado que la seguridad en los pasos a nivel no suele estar incluida en absoluto en los planes.
+Como excepción se encuentra al menos el plan de seguridad ferroviaria de la ciudad de Pori, en el que la seguridad del cruce de la vía está muy bien considerada.
+En los documentos que orientan la planificación se enfatiza la interadministratividad. En la seguridad de los pasos a nivel, los actores locales son los municipios, las entidades de mantenimiento de carreteras y los centros ELY. Sin embargo, en los centros ELY no hay representantes del titular de la vía. El nivel regional del mantenimiento de la vía lo representan los administradores regionales, cuyos servicios se contratan a un tercero.
+En la normativa relacionada con la planificación de la seguridad ferroviaria debería incorporarse con mayor fuerza la seguridad de los pasos a nivel. En particular, los centros ELY deberían encargarse de que en los planes regionales y locales se tengan en cuenta también los pasos a nivel.
+## 7.10
+### Comparación de Finlandia con la situación de otros países
+## 7.10.1
+### Comparación de los datos estadísticos de los años 2004 y 2009
+Los datos tratados en este punto se refieren a los países de la UE y a Noruega. Para el año 2009, los datos proceden de las estadísticas de la ERA. Los datos del diagrama 24 y otros relativos al año 2004 proceden del estudio de seguridad S1/2005R.
+### Número de pasos a nivel
+Con excepción de tres países, el número de pasos a nivel disminuyó desde el año 2004 hasta el año 2009. La reducción fue del 8,5 % de media, en Finlandia la reducción fue del 10 %. Del cálculo de la media se ha excluido el valor anómalo de Suecia, probablemente debido a un cambio en la estadística.
+
+## Página 124
+
+Nivelristeyksiä raiteekilometrillä
+1,4
+1,2
+1,0
+0,8
+0,6
+0,4
+0,2
+0,0
+USA
+Itävalta
+Viro
+Slovakia
+Alankomaat
+Norja
+Britannia
+Italia
+Irlanti
+Unkari
+Kanada
+Suomi
+Tanska
+Saksa
+Ranska
+Espanja
+Ruotsi
+Iso-
+Gráfico 24. Número de pasos a nivel por kilómetro de línea en 2004.
+Schema 24. Antal plankorsningar per bankilometer 2004.
+Diagram 24. Number of level crossings per line kilometre in 2004.
+Según la estadística del año 2004, el número de pasos a nivel por kilómetro de línea varió entre 0,17 y 1,03, con una media de 0,73 (sin la cifra de España, 0,17). En Finlandia había 0,79 pasos a nivel por kilómetro de línea. No se aparta significativamente de la media. En Finlandia, la distancia media entre pasos a nivel era por tanto de unos 1,3 kilómetros. En las estadísticas de la ERA no se dispone de kilómetros de línea, sino de kilómetros de vía, por lo que la comparación ya no es posible de la manera que mejor describe la situación. Las líneas de varios carriles modifican la comparación, ya que entonces ya no se puede decir con qué densidad se encuentran los pasos a nivel. Además, esto dificulta las comparaciones entre países, ya que la proporción de líneas de varios carriles varía según el país.
+2004
+2009
+1,0
+0,9
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+0,0
+Hollanti
+Itävalta
+Slovenia
+Irlanti
+Bulgaria
+Tanska
+Espanja
+Ranska
+Italia
+Norja
+Puola
+Romania
+Slovakia
+Unkari
+Portugali
+Ruotsi
+Belgia
+Liettua
+Latvia
+Suomi
+Tsekki
+UK
+Saksa
+Viro
+Kreikka
+Gráfico 25. Número de pasos a nivel por kilómetro de vía en los años 2004 y 2009.
+Schema 25. Antal plankorsningar per bankilometer 2004 och 2009.
+Diagram 25. Number of level crossings per track kilometre in 2004 and 2009.
+Desde 2004 hasta 2009 la densidad de pasos a nivel ha disminuido en casi todos los países. En Finlandia la densidad de pasos a nivel disminuyó un 10,1 % y en los demás países la reducción fue de media
+
+
+## Página 125
+
+12,7 %. Del cálculo de la media se ha eliminado el valor atípico de Suecia, probablemente debido a un cambio en la estadística.
+### Pasos a nivel de tipos especiales
+En la clasificación de los pasos a nivel se han producido cambios a lo largo de los años, por lo que la evolución de la cantidad no puede estimarse con certeza a nivel europeo. En Finlandia, la proporción de pasos a nivel sin dispositivo de aviso sobre el total de pasos a nivel ha disminuido del 81 % al 79 %. Al mismo tiempo, la cantidad de pasos a nivel sin dispositivo de aviso ha disminuido un 12 %.
+### Número de accidentes en pasos a nivel
+La evolución del número total de accidentes en pasos a nivel en los distintos países no puede estimarse de forma fiable, ya que las bases estadísticas han cambiado significativamente al pasar a la estadística de la ERA.
+### Número de fallecidos en accidentes en pasos a nivel
+Aunque el número de fallecidos en accidentes en pasos a nivel ha disminuido en la mitad de los países al comparar las cifras de 2004 y 2009, sin embargo, la relación entre el número de fallecidos en accidentes en pasos a nivel y el número de pasos a nivel ha aumentado en todos los países excepto en la República Checa y los Países Bajos. La relación entre el número de fallecidos en accidentes en pasos a nivel y el tráfico ferroviario se ha mantenido de media igual. El número total de fallecidos en accidentes en pasos a nivel ha disminuido un 8,3 %, mientras que al mismo tiempo la relación de fallecidos respecto al número de pasos a nivel ha aumentado de media a tres veces (0,005->0,015). En Finlandia el número de fallecidos en accidentes en pasos a nivel aumentó un 57 %, la cantidad de fallecidos en relación con el número de pasos a nivel aumentó significativamente menos que la media, es decir, un 74 %. La proporción en Finlandia es también significativamente inferior a la media (en 2004: 0,0016 y en 2009: 0,0027). El número de fallecidos por millón de kilómetros de tren ha aumentado de media un 3,7 % (0,21->0,22) y en Finlandia un 53 % (0,14->0,22).
+
+
+## Página 126
+
+0,07
+2004
+2009
+0,06
+0,05
+0,04
+0,03
+0,02
+0,01
+0,00
+Itävalta
+Latvia
+Slovenia
+Slovakia
+Tanska
+Italia
+Tsekki
+Irlanti
+Belgia
+Bulgaria
+Saksa
+Viro
+Kreikka
+Espanja
+Ranska
+Liettua
+Norja
+Puola
+Romania
+Suomi
+Unkari
+Hollanti
+Portugali
+Ruotsi
+UK
+Gráfico 26. Relación entre el número de fallecidos en accidentes en pasos a nivel y el número de pasos a nivel en los años 2004 y 2009.
+Schema 26. Antal omkomna i plankorsningsolyckor i förhållande till antalet plankorsningar 2004 och 2009.
+Diagram 26. The relation of the number of fatalities in level crossing accidents to the number of level crossings in 2004 and 2009.
+0,80
+2004
+2009
+0,70
+0,60
+0,50
+0,40
+0,30
+0,20
+0,10
+0,00
+Itävalta
+Latvia
+Slovenia
+Slovakia
+Tanska
+Italia
+Tsekki
+Irlanti
+Belgia
+Bulgaria
+Saksa
+Viro
+Kreikka
+Espanja
+Ranska
+Liettua
+Norja
+Puola
+Romania
+Suomi
+Hollanti
+Portugali
+Ruotsi
+Unkari
+UK
+Gráfico 27. Número de fallecidos en accidentes en pasos a nivel por millón de kilómetros de tren en los años 2004 y 2009.
+Schema 27. Antal omkomna i plankorsningsolyckor per en miljon tågkilometer 2004 och 2009.
+Diagram 27. Number of fatalities in level crossing accidents per one million train kilometres in 2004 and 2009.
+
+
+## Página 127
+
+## 7.10.2
+### Cambio en el número total de accidentes en pasos a nivel en los países nórdicos y en Gran Bretaña 1991–2010
+En Finlandia y Suecia, donde el número de accidentes en pasos a nivel ha sido y sigue siendo relativamente alto, se produjo entre 1991 y 1998 un fuerte descenso en las cifras, pero después la cantidad se ha mantenido estable e incluso ha aumentado ligeramente en algunos momentos. Después de 2008, el número de accidentes ha vuelto a disminuir. Esto afecta además de a Finlandia y Suecia también a Gran Bretaña.
+En Dinamarca y Noruega, el número de accidentes en pasos a nivel ha sido siempre bajo. Después de 2004, las cifras han seguido disminuyendo.
+Suomi
+Ruotsi
+Tanska
+Norja
+Iso-Britannia
+Finland
+Sverige
+Danmark
+Norge
+Storbritannien
+100
+Sweden
+Denmark
+Norway
+UK
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+Gráfico 28. Evolución del número de accidentes en pasos a nivel en los países nórdicos y en Gran Bretaña entre 1991–2010.
+Schema 28. Utveckling i antalet plankorsningsolyckor i de nordiska länderna och Storbritannien 1991–2010.
+Diagram 28. Development of the number of level crossing accidents in the Nordic Countries and in Great Britain between 1991–2010.
+## 7.10.3
+### Estudios y proyectos de desarrollo para mejorar la seguridad en los pasos a nivel
+El organismo de investigación de accidentes de Gran Bretaña, RAIB, ha constatado que en los pasos a nivel equipados únicamente con dispositivo de aviso luminoso se produjeron más accidentes que en los pasos a nivel de otro tipo en relación con el número de pasos a nivel, aunque en relación con el volumen de tráfico se alcanza con el dispositivo de aviso luminoso un mejor nivel de seguridad que en los pasos a nivel sin dispositivo de aviso. En el informe de investigación se añade además que equipar los pasos a nivel con dispositivo de aviso luminoso con barreras reduce significativamente los
+
+
+## Página 128
+
+accidentes debidos especialmente a acciones no intencionadas y también a acciones intencionadas. Las barreras dificultan la conducción intencionada e incluso impiden la no intencionada hacia la señal en rojo. Se recomienda equipar los pasos a nivel con dispositivo de aviso luminoso con barreras, así como otras medidas que afecten a los usuarios de los pasos a nivel. De esto podría tomarse ejemplo también en Finlandia.
+En varios países europeos están en marcha proyectos cuyo objetivo es buscar sistemas de aviso de pasos a nivel que puedan implementarse con los menores costes posibles. Estos dispositivos de aviso se desearían especialmente para líneas con poco tráfico, cuyos pasos a nivel tienen también poco tráfico de vehículos y en los que la seguridad quedaría sin mejorar de otro modo. En Suiza, Francia y Austria están en marcha proyectos para desarrollar soluciones de señalización lumínica de tráfico más sencillas y más baratas. No se tiene aún información sobre su eficacia, por lo que su implantación en Finlandia no puede recomendarse al menos por ahora.
+En los Países Bajos se ha promovido intensamente la seguridad en los pasos a nivel instalando barreras en 600 pasos a nivel entre 2005 y 2009. El número de accidentes en pasos a nivel ha disminuido en los Países Bajos desde la cifra de 59 del año 2004 según la estadística de la ERA a 12, después de lo cual el número de accidentes se ha mantenido casi igual, con una cifra de 13 en 2009. Al mismo tiempo, el número de fallecidos en accidentes en pasos a nivel se mantuvo aproximadamente igual de un año a otro, por lo que no se puede afirmar con certeza si el número de accidentes ha disminuido realmente o si el cambio se debe solo a un cambio en el método estadístico.
+Además, en Alemania, Austria y Noruega se han empezado a desarrollar soluciones que se apartan del Convenio de Viena, en las que las luces de aviso del tráfico por carretera se asemejan más a las luces de tráfico por carretera habituales. Tampoco se tiene aún información sobre su eficacia.
+## 7.11
+### Funcionamiento de los centros de emergencias
+### Localización
+Según las llamadas de emergencia, existen problemas en la localización de los pasos a nivel. En las llamadas de emergencia realizadas por los reguladores de tráfico, el tiempo de gestión de la tarea fue de media medio minuto más largo que en otras llamadas de emergencia. Desde el punto de vista del operador del centro de emergencias, el método más fácil de localizar se basa en el nombre del municipio y de la carretera. En tres de los 11 casos, el regulador de tráfico no pudo indicar el municipio del suceso. En el registro de pasos a nivel del que dispone el regulador de tráfico no están anotados los municipios.
+El regulador de tráfico ofreció información de kilómetro de línea para la localización en cinco casos. En dos casos, el operador indicó que no puede utilizar la información de kilómetro de línea para la localizar.
+Tanto las herramientas de trabajo del regulador de tráfico como las del operador del centro de emergencias deberían desarrollarse de modo que se disponga de métodos uniformes para localizar el lugar del accidente.
+
+
+## Página 129
+
+### Guía de evaluación de riesgos
+La guía de evaluación de riesgos del servicio de rescate no se ha modificado de forma sustancial desde su finalización. La responsabilidad de la guía corresponde al servicio de bomberos del área de cada servicio de rescate, pero a escala nacional no se han coordinado las necesidades de modificación de la guía.
+La guía debería modificarse de modo que oriente más fácilmente hacia la selección de la clase de tarea más probable en el tipo de accidente en cuestión. Por ejemplo, en este material, en todos los casos la clase de tarea correcta habría sido la 213. Debería ser visualmente más dominante en la guía de accidentes de tráfico ferroviario, para que la selección se facilite.
+### Tiempo de gestión de la tarea
+Durante el período de observación, el tiempo medio de gestión de la tarea de los accidentes en pasos a nivel en los centros de emergencias ha aumentado ligeramente. Durante ese período, a partir de los centros de alerta de áreas anteriores se han formado centros de emergencias de áreas más grandes. Los sistemas de información han cambiado al sistema de información ELS actual.
+Gráfico 29. Indicadores anuales de los tiempos de gestión de la tarea. Tanto la tendencia de la media como la de la mediana es ligeramente ascendente.
+Schema 29. Årliga nyckeltal för uppgiftshanteringstider. Trenden i både medeltalet och medianen stiger svagt.
+Diagram 29. Annual key parameters of task processing times. Both the average and median trends have grown slightly.
+Con la armonización de las prácticas de localización y el desarrollo de la guía de evaluación de riesgos podría acortarse el tiempo de gestión de la tarea.
+## 7.12
+### Recomendaciones emitidas anteriormente sobre accidentes en pasos a nivel
+De las 61 recomendaciones emitidas sobre accidentes en pasos a nivel, se han implementado 21. En las reuniones de seguimiento de las recomendaciones se ha decidido que ocho de las recomendaciones no se implementarán. La implementación de 32 recomendaciones está en curso.
+
+## Página 130
+
+De las recomendaciones implementadas, seis se referían a la labor de salvamento, diez a disposiciones e instrucciones, tres a la eliminación de pasos a nivel o a la dotación de aparatos de aviso, y dos al material rodante. La decisión de dejar ocho recomendaciones sin implementar se debe a su obsolescencia, a su inaplicabilidad o a que son imposibles de llevar a la práctica.
+
+Todavía no se ha obtenido información sobre el estado de todas las recomendaciones. Parte de la incompletitud de algunas recomendaciones también puede deberse a que son demasiado amplias para ser implementadas. En la práctica, su formulación puede ser tal que resulte imposible realizar el seguimiento y la focalización de su implementación.
+
+A continuación se tratan las recomendaciones que deberían eliminarse o cuya formulación debería mejorarse o modificarse:
+
+### S215 Debería mejorarse la visibilidad del tren y del paso a nivel
+La recomendación sigue siendo vigente, pero por razones de utilidad debería dividirse en recomendaciones separadas relativas al material rodante y al paso a nivel. La recomendación relativa al material rodante debería centrarse en la visibilidad del morro de la locomotora, del tren eléctrico o del autobús sobre raíles. La visibilidad del paso a nivel puede mejorarse mediante pasarelas y métodos similares.
+
+### S216 El límite de velocidad de la carretera en el paso a nivel debería ser como máximo de 50 km/h
+o aún menor en función de las características del paso a nivel según el lugar.
+
+La recomendación sigue siendo vigente, ya que en la mayoría de los pasos a nivel existe un límite de velocidad general de 80 km/h. Según el estudio realizado por VTT *Velocidades de circulación en pasos a nivel de carreteras de escaso tráfico* (Poutanen 2006), las velocidades medias cerca de la vía eran de aproximadamente 20 km/h independientemente de las condiciones de visibilidad. Cuando la visibilidad se abre cerca de la vía, entre el 20 y el 60 % de los vehículos circulaba en el punto de medición más próximo a la vía a una velocidad tal que no habría sido posible detenerse antes de alcanzar la vía. Según la instrucción de la Dirección de Carreteras, en un paso a nivel sin vigilancia el límite de velocidad de la carretera debe ser de 50 km/h y en uno vigilado de 60 km/h. La recomendación debería reformularse.
+
+### S217 Los andenes de espera de los pasos a nivel en mal estado deberían rehabilitarse conforme a los requisitos de RAMO
+La recomendación en su forma actual está obsoleta, ya que RAMO ya no está en vigor. La recomendación es además demasiado amplia y por ello difícil de implementar. La recomendación debería eliminarse en su forma actual.
+
+S224 Itella y demás empresas públicas que realizan actividades de distribución pueden mejorar la seguridad al planificar las rutas de distribución evitando los pasos a nivel sin vigilancia.
+
+La recomendación sigue siendo vigente, pero debería modificarse para que se refiera únicamente a Itella. En lo que respecta a la restante actividad de distribución, el seguimiento de la implementación es imposible de realizar.
+
+
+## Página 131
+
+S225 Entre el correo a repartir podría colocarse una señal que advierta de un lugar peligroso, lo que alertaría al repartidor de correo cuando se acercara a un punto de la ruta detectado como peligroso.
+
+La recomendación se propuso eliminar en el borrador del informe de investigación, pero Itella Posti Oy propuso en su dictamen mantenerla. El término "señal" contenido en la recomendación debe interpretarse, por ejemplo, como un aviso basado en información geográfica o en un dispositivo de navegación, posibilitado por la tecnología actual.
+
+### S226 Al navegador/dispositivo GPS del vehículo debería instalársele una advertencia de lugares peligrosos como los pasos a nivel.
+La recomendación es demasiado amplia y no está focalizada. En los navegadores puede cargarse desde internet una base de datos de pasos a nivel y el navegador puede configurarse para advertir de los pasos a nivel. La recomendación debería eliminarse.
+
+S235 El Centro de Gestión de la Vía debería realizar un mapeo sistemático de aquellos pasos a nivel que tengan un puente en sus proximidades o cuyo tráfico pueda desviarse por otra ruta más segura y, por tanto, eliminarlos, aunque su volumen de tráfico y su nivel de riesgo sean bajos.
+
+La recomendación sigue siendo vigente. El contenido de la recomendación debería integrarse en la recomendación relativa a la actualización de la estrategia de pasos a nivel.
+
+S258 El Centro de Gestión de la Vía debería informar a los gestores de carreteras de sus obligaciones en relación con la realización y el mantenimiento de la sección de carretera correspondiente al paso a nivel conforme a las instrucciones. También debería informarse de las modificaciones realizadas en la vía y de las deficiencias detectadas en las inspecciones.
+
+La recomendación sigue siendo vigente. El contenido de la recomendación debería integrarse en la recomendación relativa a la instrucción de los gestores de carreteras.
+
+S281 El Ministerio de Transportes y Comunicaciones debería asegurarse de que se llegue a una instrucción uniforme y aceptada por todas las partes sobre la responsabilidad de la limpieza de la visibilidad en los pasos a nivel.
+
+La recomendación sigue siendo vigente, ya que la normativa sobre visibilidad no dio respuesta a todas las cuestiones de responsabilidad. El contenido de la recomendación debería integrarse en la recomendación relativa a la instrucción de los gestores de carreteras.
+
+## 7.13
+### Actualización de la estrategia de pasos a nivel
+
+En la década de 2000 se han realizado múltiples estudios e investigaciones relacionados con la seguridad en los pasos a nivel. Los resultados y conclusiones son coincidentes. Estos resultados no se han podido aprovechar de la mejor manera posible.
+
+La estrategia de pasos a nivel actual fue elaborada por el Centro de Gestión de la Vía en 2007.
+
+
+## Página 132
+
+Los pasos a nivel se han eliminado y asegurado conforme a los principios de la estrategia dentro de los márgenes permitidos por los recursos asignados. Las eliminaciones se han realizado principalmente por tramos de vía para posibilizar el aumento de la velocidad de la vía.
+
+En el seguimiento de la decisión de principio del Consejo de Estado, a finales de 2008, se constata que la aceleración de la implementación del tema relativo a la eliminación de pasos a nivel ha quedado totalmente sin realizar.
+
+En el informe de política de transportes del Gobierno al Parlamento en la primavera de 2008 se afirma que, para reducir los accidentes en pasos a nivel, se han eliminado pasos a nivel dentro de los límites de los recursos disponibles, lo cual no ha sido suficiente.
+
+Según la disposición de la Autoridad de Seguridad del Transporte (Trafi), los pasos a nivel de la red TEN deberán estar en un determinado estado antes del final de 2030 o deberán entonces retirarse del servicio. En la estrategia actual no se ha tenido en cuenta esta disposición.
+
+En los proyectos de vía de la Autoridad de Transportes en los que no se persigue el aumento de la velocidad, la seguridad en los pasos a nivel es un proyecto independiente del proyecto de renovación básica, que solo se lleva a cabo si se le asigna una asignación presupuestaria específica.
+
+El objetivo debería ser que, siempre en el contexto de la renovación básica de la vía, los pasos a nivel se rehabiliten de forma segura como parte de la renovación básica.
+
+El desarrollo tecnológico ha traído consigo, entre otros, dispositivos de aviso técnicamente más ligeros y más económicos. En la estrategia debería definirse cómo podrían adoptarse estas soluciones. Con una solución económica no se alcanza el mismo nivel de seguridad que con una barrera semiautomática tradicional, pero por el precio de una barrera semiautomática se podrían obtener muchas más alternativas de dispositivos de aviso.
+
+La práctica ha demostrado que el ritmo de la eliminación y el aseguramiento de los pasos a nivel lo determinan las asignaciones presupuestarias otorgadas por el Parlamento. Debería aumentarse el peso de la estrategia de pasos a nivel transfiriéndola a la responsabilidad del Ministerio de Transportes y Comunicaciones, con lo que la obtención de recursos podría resultar más fácil.
+
+
+## Página 133
+
+## 8
+## CONCLUSIONES
+
+1.
+El número de accidentes en pasos a nivel ha disminuido de forma prometedora durante los dos últimos años.
+
+2.
+En la comparación internacional, la seguridad en los pasos a nivel de Finlandia es inferior a la media.
+
+3.
+Se ha logrado reducir el número de pasos a nivel de forma constante. Entre 2004 y 2009 el número de pasos a nivel ha disminuido un 10 %, más que la media europea.
+
+4.
+El número de fallecidos en accidentes en pasos a nivel se ha mantenido estable en Finlandia. En Europa el número ha disminuido una media del 8,5 % entre 2004 y 2009.
+
+5.
+Se han realizado múltiples planes, estudios e investigaciones para mejorar la seguridad en los pasos a nivel. Las propuestas de mejora en ellos no se han podido aprovechar en su totalidad.
+
+6.
+La mayoría de los accidentes mortales en pasos a nivel se producen en pasos a nivel sin dispositivos de aviso.
+
+7.
+La mayoría de los accidentes mortales en pasos a nivel sin dispositivos de aviso se producen en pasos a nivel de carreteras privadas.
+
+8.
+Casi todos los pasos a nivel sin dispositivos de aviso en los que se produjeron accidentes presentaban deficiencias en relación con las instrucciones de la vía (RATO). Según un estudio de VTT, existen deficiencias de forma similar también en otros pasos a nivel sin dispositivos de aviso.
+
+9.
+Los gestores de carreteras privadas no disponen de información suficiente sobre sus obligaciones relacionadas con los pasos a nivel.
+
+10. Según el análisis estadístico, un paso a nivel peligroso carece de dispositivos de aviso, el límite de velocidad de la carretera es bajo y el tráfico medio diario es elevado. Estos pasos a nivel se sitúan en zonas urbanas.
+
+11. Una barrera semiautomática aumenta la seguridad del paso a nivel.
+
+12. La mayoría de los daños en las barreras se producen en localidades con puertos e industria y con tráfico pesado que conduce a las mismas. Debería investigarse más la importancia de las condiciones de los pasos a nivel propensos a daños en las barreras en la producción de dichos daños.
+
+13. No existe un único registro de pasos a nivel actualizado, sino varios registros cuyos datos son parcialmente incompletos.
+
+14. Los operadores ferroviarios no disponen de una base de datos común para el registro de accidentes y situaciones de peligro.
+
+
+## Página 134
+
+15. Los datos registrados en las estadísticas de la Agencia Ferroviaria Europea (ERA) difieren según los países. La ERA ha instruido mejor a las autoridades nacionales de seguridad en materia de estadística para que los datos sean comparables. Las definiciones comunes entraron en vigor en los países de la UE a partir de 2010.
+
+16. En los proyectos de mejora básica de las vías, la mejora de la seguridad de los pasos a nivel no siempre forma parte del proyecto básico, sino que se lleva a cabo solo con financiación específica.
+
+17. De las 61 recomendaciones relativas a accidentes en pasos a nivel presentadas en las investigaciones de accidentes, se han implementado 21. Parte de las recomendaciones no implementadas ya no son relevantes y deberían eliminarse o reformularse.
+
+18. El tiempo de gestión de las llamadas de emergencia relacionadas con accidentes en pasos a nivel en los centros de emergencia ha aumentado durante el período de observación.
+
+19. Los directores de tráfico y los operadores de los centros de emergencia no disponen de un método uniforme para localizar un paso a nivel concreto. En los archivos utilizados por los directores de tráfico no se menciona el municipio, y los operadores de los centros de emergencia no pueden localizar por información de kilómetro ferroviario en todos los centros de emergencia.
+
+20. La instrucción de evaluación de riesgos de la labor de salvamento no guía la selección del operador de la mejor manera posible. La instrucción no ha sido actualizada y no hay nadie a nivel nacional que responda de ella.
+
+## 8
+## SLUTSATSER
+
+1. Antalet plankorsningsolyckor har minskat positivt under de två senaste åren.
+2. I en internationell jämförelse är plankorsningssäkerheten i Finland sämre än i genomsnitt.
+3. Antalet plankorsningar har minskat hela tiden. Från 2004 till 2009 sjönk antalet plankorsningar med 10 %, vilket var mer än i Europa i genomsnitt.
+4. Antalet omkomna i plankorsningsolyckor har varit oförändrat i Finland. I Europa har antalet sjunkit med 8,5 % i genomsnitt från 2004 till 2009.
+5. Flera planer, utredningar och undersökningar har gjorts för att förbättra plankorsningssäkerheten. Förbättringsförslagen i dem har inte utnyttjats till fullo.
+6. Största delen av dödsolyckorna vid plankorsningar sker vid plankorsningar utan säkerhetsanordningar.
+7. Största delen av dödsolyckorna vid plankorsningar utan varningsanordningar sker vid plankorsningar på enskilda vägar.
+8. Nästan alla plankorsningar utan varningsanordningar där olyckor inträffat hade brister enligt Järnvägtekniska anvisningar (RATO). Enligt en utredning av VTT har även andra plankorsningar utan varningsanordningar motsvarande brister.
+
+## Página 135
+
+9. Los propietarios de carreteras privadas no tienen suficiente conocimiento de sus obligaciones en relación con los pasos a nivel.
+10. Según el análisis estadístico, un paso a nivel peligroso es un paso a nivel que carece de dispositivos de aviso y en el que el límite de velocidad en la carretera es bajo y el volumen medio de tráfico por día es alto. Dichos pasos a nivel se encuentran en zonas urbanas.
+11. Una instalación de semibarrera aumenta la seguridad de los pasos a nivel.
+12. La mayor parte de los daños en las barreras se produce en localidades con puertos e industrias y tráfico pesado hacia ellos. Debería aclararse en mayor medida la relevancia de las condiciones en los pasos a nivel expuestos a daños en las barreras.
+13. No existe un registro de pasos a nivel actualizado, sino varios registros con datos parcialmente incompletos.
+14. Los agentes ferroviarios no disponen de una base de datos común para el registro de accidentes e incidentes.
+15. Los criterios para el registro de datos en la estadística elaborada por la Agencia Ferroviaria Europea (ERA) difieren entre los países. La ERA ha instruido a las autoridades nacionales de seguridad para poder elaborar una estadística más uniforme. Se introdujeron definiciones comunes en los países de la UE a principios de 2010.
+16. Mejorar la seguridad de los pasos a nivel tampoco ha formado siempre parte de los proyectos de mejora de la vía, sino que solo se ha llevado a cabo con financiación separada.
+17. De las 61 recomendaciones emitidas anteriormente para pasos a nivel con motivo de accidentes en pasos a nivel, se han implementado 21. Algunas de las recomendaciones no realizadas ya no son pertinentes y, por lo tanto, deberían eliminarse o reformularse.
+18. El tiempo de gestión de las llamadas de emergencia en relación con accidentes en pasos a nivel aumentó durante el periodo de revisión.
+19. Los despachantes de tráfico y los operadores de los centros de emergencia carecen de un método uniforme para localizar un paso a nivel concreto. En los sistemas de los despachantes de tráfico no se mencionan los municipios, mientras que los operadores de todos los centros de emergencia no pueden localizar el lugar del accidente a partir del punto kilométrico ferroviario indicado.
+20. La instrucción de evaluación de riesgos de los servicios de rescate no guía de la mejor manera posible la elección del operador del centro de emergencia. La instrucción no ha sido actualizada y nadie se responsabiliza de ella a escala nacional.
+
+## 8
+## CONCLUSIONES
+1. El número de accidentes en pasos a nivel ha disminuido en los dos últimos años.
+2. En las comparaciones internacionales, la seguridad en los pasos a nivel de Finlandia está por debajo de la media.
+
+
+## Página 136
+
+3. El número de pasos a nivel ha disminuido de forma constante. El número de pasos a nivel cayó un 10% entre 2004–2009, lo que es superior a la media en Europa.
+4. El número de víctimas mortales en accidentes en pasos a nivel se ha mantenido constante en Finlandia. De media, la cifra bajó un 8,5% en Europa entre 2004 y 2009.
+5. Se han realizado varios planes, investigaciones y numerosos estudios para mejorar la seguridad de los pasos a nivel. Las sugerencias de mejora resultantes no se han implementado en su totalidad.
+6. La mayoría de los accidentes mortales en pasos a nivel se producen en pasos a nivel sin dispositivos de aviso.
+7. La mayoría de los accidentes mortales en pasos a nivel sin dispositivos de aviso se producen en pasos a nivel en carreteras privadas.
+8. Casi todos los pasos a nivel sin dispositivos de aviso, en los que se han producido accidentes, presentan deficiencias en comparación con las normas de las instrucciones técnicas ferroviarias (RATO). El informe de VTT muestra que otros pasos a nivel sin dispositivos de aviso también presentan dichas deficiencias.
+9. Los mantenedores de carreteras privadas no disponen de información suficiente en relación con sus obligaciones de mantenimiento de los pasos a nivel.
+10. Según el análisis estadístico, los pasos a nivel peligrosos carecen de dispositivos de aviso, el límite de velocidad de la carretera es bajo y el volumen medio de tráfico es elevado. Dichos pasos a nivel se sitúan típicamente en zonas residenciales.
+11. Una instalación de semibarrera mejora la seguridad de los pasos a nivel.
+12. La mayor parte de los daños en las barreras se produce en localidades con puertos, industrias y tráfico pesado hacia y desde dichos lugares. Debería investigarse con mayor detalle la relevancia del estado de los pasos a nivel vulnerables a daños en las barreras.
+13. No existe una única base de datos de pasos a nivel actualizada, sino que hay varias bases de datos con información parcialmente incompleta.
+14. Los agentes ferroviarios no disponen de una base de datos común que abarque accidentes e incidentes.
+15. Los criterios de la información registrada en las bases de datos de la Agencia Ferroviaria Europea varían según el país. La ERA ha proporcionado a las autoridades nacionales de seguridad instrucciones para mejorar la uniformidad de la información. Las especificaciones comunes entraron en vigor en los países de la UE en 2010.
+16. Mejorar la seguridad de los pasos a nivel no siempre forma parte de los proyectos de mejora de la vía, sino que se basa en financiación separada.
+
+
+## Página 137
+
+17. 21 de las 61 recomendaciones de seguridad existentes que se han emitido se han implementado. Algunas de las recomendaciones no implementadas ya no son válidas, pero deberían eliminarse o reformularse.
+18. El tiempo medio de gestión de las tareas de las llamadas de emergencia por accidentes en pasos a nivel aumentó en los centros de respuesta a emergencias durante el periodo de referencia.
+19. Los despachantes de tráfico y los operadores de los centros de respuesta a emergencias (ERC) no disponen de un método uniforme para localizar el paso a nivel en cuestión. La información de los municipios no está incluida en la información utilizada por los despachantes de tráfico, y los operadores de los ERC de algunos centros de respuesta a emergencias no pueden localizar el paso a nivel a partir de la información de distancia ferroviaria kilométrica.
+20. Las instrucciones de evaluación de riesgos de los Servicios de Rescate no guían las acciones del operador de la mejor manera posible. Dichas instrucciones no han sido actualizadas y nadie es responsable a nivel nacional de las tareas de actualización.
+
+
+## Página 138
+
+## 9 
+## MEDIDAS ADOPTADAS
+Se han eliminado pasos a nivel en Finlandia en los años 1991–2010 una media de 140 al año. La cifra correspondiente para los años 2004–2010 es de 134. En los años 1991–2010 se eliminaron una media de 5 pasos a nivel equipados con semibarreras, 3 equipados con dispositivo de aviso luminoso y sonoro y 132 sin dispositivo de aviso al año. Las cifras correspondientes para los años 2004–2010 fueron 8, 4 y 122. En 2010 se eliminaron 228 pasos a nivel, de los cuales 13 estaban equipados con barreras, 5 con dispositivo de aviso luminoso y sonoro y 210 sin dispositivo de aviso.
+El Centro de Gestión Ferroviaria elaboró en 2007 una estrategia de pasos a nivel. Según la misma, el objetivo más importante del gestor de la infraestructura relacionado con los pasos a nivel es la mejora de la seguridad en los pasos a nivel. Los medios son la eliminación de los pasos a nivel y la mejora de sus condiciones.
+Tras la finalización del anterior estudio de seguridad de pasos a nivel, se llevó a cabo, en colaboración entre diferentes agentes, una campaña dirigida a los usuarios de los pasos a nivel, que incluía, entre otros, tres anuncios de radio sobre el mismo tema. Los anuncios de radio de la campaña de pasos a nivel fueron elegidos como los mejores anuncios sociales en la radio en 2009.
+Trafi advierte en sus páginas web sobre los pasos a nivel, en especial sobre el más conocido. El último comunicado de Trafi relacionado con la campaña se publicó el 9.6.2011. Se titula Paso a nivel – ¡el tren no se detiene, detente tú!
+Tras la finalización del anterior estudio de seguridad de pasos a nivel, la Agencia de Transporte y la Agencia de Seguridad del Transporte han encargado numerosos estudios que conciernen a los pasos a nivel y su seguridad.
+De las 61 recomendaciones de seguridad sobre pasos a nivel emitidas por el Centro de Investigación de Accidentes con motivo de accidentes en pasos a nivel, se han implementado 21.
+En la sección de línea Seinäjoki–Oulu está en marcha un proyecto de mejora básica, durante el cual se eliminarán todos los pasos a nivel de la sección de línea. El proyecto se completará antes de 2015.
+## 9 
+## MEDIDAS ADOPTADAS
+En los años 1991–2010, el número de pasos a nivel en Finlandia disminuyó en 140 unidades por año de media. La cifra correspondiente para 2004–2010 fue de 134. En los años 1991–2010 se suprimieron de media 5 pasos a nivel con semibarreras, 3 pasos a nivel con instalaciones de luz y sonido y 132 pasos a nivel sin dispositivos de aviso al año. Las cifras correspondientes para 2004–2010 fueron 8, 4 y 122. En 2010 se suprimieron 228 pasos a nivel, de los cuales 13 tenían barreras, 5 instalaciones de luz y sonido y 210 sin dispositivos de aviso.
+El Centro de Gestión Ferroviaria elaboró una estrategia de pasos a nivel en 2007. Según la misma, el objetivo más importante del gestor de la vía es mejorar la seguridad de los pasos a nivel. Los métodos consisten en la supresión de pasos a nivel y la mejora de las condiciones en los mismos.
+Tras la publicación del anterior estudio de seguridad de pasos a nivel, diferentes agentes llevaron a cabo una campaña conjunta dirigida a quienes utilizan los pasos a nivel
+
+
+## Página 139
+
+y que, entre otras cosas, incluía tres anuncios de radio sobre este tema. Los anuncios de radio de la campaña de pasos a nivel fueron elegidos como los mejores anuncios de interés social en la radio en 2009.
+En su página web, la Agencia de Seguridad del Transporte advierte sobre los pasos a nivel, en especial sobre el más conocido. El último comunicado de la Agencia de Seguridad del Transporte en relación con la campaña es del 9.6.2011. El titular es Paso a nivel – ¡el tren no se detiene, detente tú!
+Tras la publicación del anterior estudio de seguridad de pasos a nivel, la Agencia de Transporte y la Agencia de Seguridad del Transporte han encargado numerosas investigaciones sobre los pasos a nivel y su seguridad.
+De las 61 recomendaciones de seguridad sobre pasos a nivel emitidas por el Centro de Investigación de Accidentes con motivo de accidentes en pasos a nivel, se han abordado 21.
+Actualmente está en marcha un proyecto de rehabilitación en la sección de vía Seinäjoki–Uleåborg donde, entre otras cosas, se suprimen todos los pasos a nivel. El proyecto estará terminado antes de 2015.
+## 9 
+## MEDIDAS ADOPTADAS
+De media, se eliminaron unos 140 pasos a nivel en Finlandia entre 1991–2010. La cifra correspondiente entre 2004–2010 fue de 134. Entre 1991–2010 se eliminaron de media 5 pasos a nivel con semibarreras, 3 con dispositivos de aviso audible y visual, y 132 sin dispositivos de aviso. La cifra correspondiente entre 2004–2010 es de 8, 4 y 122. En 2010 se eliminaron 228 pasos a nivel, de los cuales 13 estaban equipados con barreras, un total de 5 estaban equipados con dispositivos de aviso audible y visual, y 210 no tenían dispositivos de aviso.
+La Administración Ferroviaria publicó su estrategia de pasos a nivel en 2007. Según la misma, la tarea más importante del gestor de la infraestructura es mejorar la seguridad de los pasos a nivel. Los medios para lograrlo implican eliminar pasos a nivel y mejorar las condiciones de los pasos a nivel.
+Tras la finalización del anterior estudio de seguridad de pasos a nivel, una campaña de diversas partes se dirigió a los usuarios de los pasos a nivel. Esta campaña incluyó, p. ej., tres anuncios de radio diferentes sobre el uso de los pasos a nivel. Estos anuncios de radio de la campaña de pasos a nivel fueron elegidos como los mejores anuncios sociales de radio en 2009.
+Trafi ha publicado advertencias sobre los pasos a nivel en su página web, en particular sobre los peligros del paso a nivel más conocido. El último comunicado de Trafi sobre pasos a nivel se publicó el 9 de junio de 2011. Se titula Paso a nivel – ¡el tren no se detiene, detente tú!
+Desde la finalización del anterior estudio de seguridad de pasos a nivel, la Agencia de Transporte de Finlandia y la Agencia de Seguridad del Transporte de Finlandia han realizado numerosas evaluaciones relacionadas con los pasos a nivel y su seguridad.
+Se han implementado unas 21 de las 61 recomendaciones de seguridad emitidas por la Autoridad de Investigación de Accidentes.
+
+
+## Página 140
+
+El proyecto de mejora de la sección de línea Seinäjoki–Oulu está en marcha, y se eliminarán todos los pasos a nivel de la sección de línea. Este proyecto se completará antes de 2015.
+
+## Página 141
+
+## 10 
+## RECOMENDACIONES DE SEGURIDAD 
+En esta parte se presentan la eliminación de recomendaciones demasiado amplias o ahora obsoletas dadas en accidentes anteriores en pasos a nivel, su actualización, así como recomendaciones de seguridad completamente nuevas.  
+## 10.1 
+### Recomendaciones a eliminar 
+Al evaluar las recomendaciones dadas anteriormente, se observó que algunas de ellas son demasiado amplias, su seguimiento es imposible o ya no están vigentes. Se eliminan las siguientes recomendaciones: 
+S215 Debería mejorarse la visibilidad del tren y del paso a nivel. (Sustituida por dos nuevas recomendaciones S316 y S318.) 
+S216 El límite de velocidad de la carretera en el paso a nivel debería ser como máximo de 50 km/h o aún más bajo localmente, en función de las características del paso a nivel. (Sustituida por la nueva recomendación S315.) 
+S217 Las plataformas de espera de los pasos a nivel en mal estado deberían rehabilitarse de acuerdo con los requisitos de RAMO. (Obsoleta, ya que RAMO ya no está en vigor. Demasiado amplia.) 
+S224 Itella y demás entidades empresariales que realizan actividades de distribución pueden mejorar la seguridad al planificar las rutas de distribución evitando los pasos a nivel sin vigilancia. (Sustituida por la nueva recomendación S319.) 
+S226 Al navegador/dispositivo GPS del automóvil debería instalársele una advertencia sobre lugares peligrosos como los pasos a nivel. (Demasiado amplia e inespecífica.) 
+S235 El Centro de Gestión Ferroviaria debería cartografiar sistemáticamente aquellos pasos a nivel que tengan un puente cerca o cuyo tráfico pueda redirigirse por otra ruta más segura y, por tanto, eliminarse, aunque su volumen de tráfico y nivel de riesgo sean bajos. (El contenido de la recomendación se tiene en cuenta en la nueva recomendación S309.) 
+S258 El Centro de Gestión Ferroviaria debería informar a los mantenedores de carreteras sobre sus obligaciones en cuanto a la realización y rehabilitación de la parte de la carretera relacionada con el paso a nivel, de acuerdo con las directrices. También debería informar sobre los cambios realizados en la vía y las deficiencias detectadas en las inspecciones. (El contenido de la recomendación se tiene en cuenta en la nueva recomendación S317.) 
+S281 El Ministerio de Transportes y Comunicaciones debería velar por que se llegue a una directriz coherente y aceptada por todas las partes sobre la responsabilidad de despeje de los pasos a nivel. (El contenido de la recomendación se tiene en cuenta en la nueva recomendación S317.) 
+
+
+## Página 142
+
+## 10.2 
+### Nuevas recomendaciones 
+### S309 Estrategia de pasos a nivel 
+La recomendación dada anteriormente S235 El Centro de Gestión Ferroviaria debería cartografiar sistemáticamente aquellos pasos a nivel que tengan un puente cerca o cuyo tráfico pueda redirigirse por otra ruta más segura y, por tanto, eliminarse, aunque su volumen de tráfico y nivel de riesgo sean bajos, es conveniente integrarla en un conjunto más amplio. 
+La estrategia actual de pasos a nivel es la elaborada por el Centro de Gestión Ferroviaria en 2007. Los pasos a nivel se han eliminado y asegurado de acuerdo con los principios de la estrategia, dentro de los límites permitidos por los recursos asignados. Los pasos a nivel se han eliminado principalmente por tramos de vía para permitir el aumento de la velocidad de la vía. En el seguimiento de la decisión de principio del Gobierno y en el informe de política de transporte del Gobierno al Eduskunta, las medidas adoptadas se consideran insuficientes. 
+La práctica ha demostrado que el ritmo de eliminación y aseguramiento de los pasos a nivel lo determinan las asignaciones presupuestarias del Eduskunta. Debería aumentarse la importancia de la estrategia de pasos a nivel transfiriéndola a la responsabilidad del Ministerio de Transportes y Comunicaciones, con lo que la obtención de recursos podría ser más fácil. 
+El Centro de Investigación de Accidentes recomienda que el Ministerio de Transportes y Comunicaciones adopte medidas para la implementación de la siguiente recomendación: 
+Para mejorar la seguridad de los pasos a nivel debería elaborarse una nueva estrategia y, sobre esa base, un plan que contenga acuerdos concretos de financiación. [S1/11R/S309] 
+La estrategia debería incluir la orden de Trafi sobre la rehabilitación de los pasos a nivel de la red TEN y la posibilidad de utilizar dispositivos de advertencia técnicamente más ligeros y más económicos que trae consigo el desarrollo tecnológico. 
+### S310 Evaluación de la seguridad de los pasos a nivel 
+Sobre la base del análisis estadístico realizado por la Junta de Investigación, un paso a nivel peligroso carece de dispositivo de advertencia, el límite de velocidad de la carretera es bajo y el tráfico medio diario es elevado. Estos pasos a nivel se sitúan en núcleos urbanos. Para que la Agencia de Transporte disponga de los mejores indicadores posibles que describan la peligrosidad de los pasos a nivel individuales, el Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Transporte que se asegure de que la Agencia de Transporte adopte medidas para la implementación de la siguiente recomendación: 
+La peligrosidad de los pasos a nivel individuales debería evaluarse con nuevos análisis estadísticos para poder determinar mejor el orden de eliminación o aseguramiento de los pasos a nivel. [S1/11R/S310] 
+
+
+## Página 143
+
+La evaluación de la seguridad debería ser un proceso continuo y requiere en la práctica la actualización del registro de pasos a nivel. 
+### S311 Bases de datos de pasos a nivel 
+No existe una única base de datos actualizada sobre los pasos a nivel, sino varias, cuyos datos son parcialmente incompletos. El Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Transporte que se asegure de que la Agencia de Transporte adopte medidas para la implementación de la siguiente recomendación: 
+Las bases de datos sobre los pasos a nivel y sus condiciones deberían fusionarse y la base de datos debería mantenerse actualizada. [S1/11R/S311] 
+El trabajo de renovación de las bases de datos ya iniciado debería completarse. La base de datos pública de pasos a nivel en Internet en la dirección www.tasoristeys.fi debería desarrollarse y mantenerse de modo que la información de ubicación y condiciones actualizada del paso a nivel esté disponible para todos. A la base de datos debería añadirse el municipio, el nombre de la carretera que cruza y la dirección del paso a nivel con la precisión necesaria para localizar el paso a nivel con un navegador. De este modo, por ejemplo, el centro de emergencias y los servicios de rescate también podrían utilizar mejor la base de datos en su propia actividad. 
+### S312 Base de datos de accidentes y situaciones de peligro 
+Los operadores ferroviarios no disponen de una base de datos común para el registro de accidentes y situaciones de peligro. Según el estudio preliminar realizado por VTT, los datos de accidentes se estadifican en el sistema de información de la empresa ferroviaria, en el sistema de información de la Agencia de Transporte y en el sistema de información de la Agencia de Seguridad del Transporte. Sería conveniente fusionar estas estadísticas de accidentes. Para que el proyecto se lleve a cabo, el Centro de Investigación de Accidentes recomienda que la Agencia de Seguridad del Transporte adopte medidas para la implementación de la siguiente recomendación: 
+En Finlandia debería crearse una única base de datos común de accidentes y desviaciones relativas al ferrocarril. [S1/11R/S312] 
+Según la investigación de VTT, habría que explorar las necesidades y posibilidades de crear, por ejemplo, un centro común de información sobre transporte y accidentes que abarque todos los modos de transporte, entre la Agencia de Seguridad del Transporte y la Agencia de Transporte, en el que el personal especializado analizara la información y la produjera para distintas necesidades. La Agencia de Seguridad del Transporte afirma en su dictamen que sería bueno que cada modo de transporte tuviera su propia base de datos completa. 
+Según la Junta de Investigación, la base de datos debería ser de tal naturaleza que todos los interesados tuvieran acceso a ella y que determinadas partes tuvieran el derecho y la obligación de introducir datos en ella y completar la información existente. 
+
+
+## Página 144
+
+### S313 Planes de seguridad del transporte de los municipios 
+En los planes de seguridad del transporte elaborados por los centros ELY y los municipios, la seguridad de los pasos a nivel se ha tenido en cuenta parcialmente y de forma deficiente. 
+En las directrices relacionadas con la planificación de la seguridad del transporte debería incorporarse con más fuerza la seguridad de los pasos a nivel. El Centro de Investigación de Accidentes recomienda que los centros ELY adopten medidas para la implementación de la siguiente recomendación: 
+En los planes de seguridad del transporte de las regiones y los municipios debería tenerse en cuenta también la seguridad de los pasos a nivel. [S1/11R/S313] 
+Por ejemplo, en el plan de la ciudad de Pori la seguridad de la cruzada de la vía se ha tenido en cuenta bien. 
+Según el dictamen emitido sobre el borrador de informe de investigación del Ministerio de Transportes y Comunicaciones, los municipios y los centros ELY utilizan como herramienta de planificación de la seguridad del transporte un programa de planificación que contiene, sobre una base cartográfica, todos los accidentes de tráfico por carretera con detalle de ubicación. Sin embargo, el programa no incluye los accidentes en pasos a nivel, que, según la opinión del ministerio, deberían incluirse en él en el marco del desarrollo del programa. 
+### S314 Planificación de rutas de transporte escolar 
+En el estudio piloto realizado por Ramboll Finland Oy sobre los pasos a nivel de la línea Hyvinkää–Hanko en relación con los transportes escolares y de autobús, se cartografiaron y evaluaron los pasos a nivel de las rutas de transporte escolar. Mediante la cartografía se pudieron identificar los pasos a nivel más peligrosos y planificar rutas de transporte alternativas más seguras. En el estudio se recomendó realizar estudios similares también en otras líneas. 
+El programa Koululiitu, que evalúa la peligrosidad del trayecto escolar, no tiene en cuenta en absoluto los pasos a nivel, porque los datos del registro de carreteras que utiliza el programa no contienen información sobre pasos a nivel. 
+El Centro de Investigación de Accidentes recomienda que la Agencia de Educación adopte medidas para la implementación de la siguiente recomendación: 
+Los municipios deberían mejorar la seguridad al planificar los transportes escolares evitando los pasos a nivel sin dispositivos de advertencia. [S1/11R/S314] 
+En el dictamen emitido por la Asociación de Municipios sobre el informe de investigación se afirma: "En la planificación de rutas de los transportes escolares se pueden intentar evitar los pasos a nivel si se pueden encontrar rutas alternativas. En las sesiones de formación relacionadas con los transportes se puede prestar atención a este tema, por ejemplo, presentando el estudio realizado en el tramo Hyvinkää–Hanko". 
+Según la información recibida de Ramboll Finland Oy, el estudio de seguridad de los transportes escolares continuará en 2012 en la línea Seinäjoki–Kaskinen debido a los buenos resultados del estudio piloto.
+
+## Página 145
+
+### S315 Limitación de la velocidad en la carretera y uso de la señal STOP en los pasos a nivel
+La recomendación S216 emitida anteriormente, "La limitación de la velocidad en la carretera en un paso a nivel debería ser como máximo de 50 km/h o, según el caso, aún más baja en función de las características del paso a nivel", debería reformularse.
+La recomendación sigue siendo pertinente, ya que en la mayoría de los pasos a nivel existe una limitación de velocidad general de 80 km/h. En la investigación realizada por VTT, "Velocidades de circulación en los pasos a nivel de carreteras de poco tráfico" (Poutanen 2006), se concluye que, cuando las visuales se abren cerca de la vía, entre el 20 y el 60 % de los vehículos circulaba en el punto de medición más próximo a la vía tan rápido que no habría sido posible detenerse antes de la vía. Según la norma de la Dirección de Carreteras, en un paso a nivel sin vigilancia la limitación de velocidad de la carretera debería ser como máximo de 50 km/h y de 60 km/h en uno vigilado.
+El Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Tráfico que asegure que la Agencia de Transporte adopte medidas para implementar la siguiente recomendación:
+Deberían elaborarse instrucciones claras sobre las limitaciones de velocidad del tráfico por carretera y el uso de la señal STOP en los pasos a nivel. [S1/11R/S315]
+Las instrucciones deberían abarcar, además de las carreteras interurbanas, también las calles y las carreteras privadas.
+### S316 Mejora de la visibilidad de los pasos a nivel
+La recomendación S215 emitida anteriormente, "Debería mejorarse la visibilidad del tren y del paso a nivel", era demasiado amplia y debería dividirse en recomendaciones relativas al material rodante y a los pasos a nivel.
+La mayoría de los accidentes en pasos a nivel con resultado de muerte se producen en pasos a nivel sin dispositivos de señalización. También en las investigaciones realizadas por VTT se ha prestado atención a la visibilidad de los pasos a nivel. Para que los usuarios de la carretera detecten los pasos a nivel a tiempo y sepan actuar correctamente en ellos, el Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Tráfico que asegure que la Agencia de Transporte adopte medidas para implementar la siguiente recomendación:
+Deberían definirse los medios para mejorar la visibilidad de los pasos a nivel sin dispositivos de señalización, así como sus condiciones de uso y características técnicas. [S1/11R/S316]
+La visibilidad de un paso a nivel puede mejorarse mediante pórticos y medios similares, así como instalando en los pasos a nivel las señales de paso a nivel y de aproximación conforme a las instrucciones. El estado y la visibilidad de las señales de tráfico también deberían mantenerse en buen estado.
+### S317 Instrucciones para los titulares de carreteras
+Anteriormente se emitió la recomendación S258: "El Centro de Gestión Ferroviaria debería informar a los titulares de carreteras de sus obligaciones en cuanto a la realización y el mantenimiento de la sección de carretera relacionada con el paso a nivel, de acuerdo con las instrucciones. También debería informarse de las modificaciones realizadas en la vía y de las deficiencias detectadas en las inspecciones". Conviene reformularla.
+
+
+## Página 146
+
+Los titulares de carreteras privadas no disponen de información suficiente sobre sus obligaciones relacionadas con los pasos a nivel. En una investigación del OTKES se constató que el titular de la vía y el municipio tenían concepciones completamente opuestas sobre la responsabilidad de despeje de la zona visual.
+El Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Tráfico que asegure que la Agencia de Transporte adopte medidas para implementar la siguiente recomendación:
+Deberían elaborarse instrucciones para los titulares de carreteras sobre cuestiones de pasos a nivel. [S1/11R/S317]
+Las instrucciones deberían incluir apartados relativos a la realización y el mantenimiento de la sección de carretera relacionada con el paso a nivel, las obligaciones del titular de la carretera y las prácticas adecuadas en materia de limitaciones de velocidad y uso de la señal STOP.
+La Agencia de Transporte debería utilizar a sus propios agentes locales y a la Asociación Finlandesa de Carreteras para la distribución de las instrucciones y la organización de la formación para las comunidades de carreteras y demás titulares de derechos de paso.
+### S318 Mejora de la visibilidad del morro del tren
+La recomendación S215 emitida anteriormente, "Debería mejorarse la visibilidad del tren y del paso a nivel", era demasiado amplia y debería dividirse en recomendaciones relativas al material rodante y a los pasos a nivel.
+El Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Tráfico que asegure que los titulares del material rodante adopten medidas para implementar la siguiente recomendación:
+Debería mejorarse la visibilidad del morro de las locomotoras y de las unidades de tren. [S1/11R/S318]
+Para mejorar la visibilidad podría utilizarse, por ejemplo, una pintura fluorescente similar a la del tren Allegro.
+### S319 Planificación de las rutas de reparto de Itella
+La recomendación S224 emitida anteriormente, "Itella y demás empresas que realizan actividades de reparto pueden mejorar la seguridad al planificar sus rutas de reparto evitando los pasos a nivel sin vigilancia", estaba dirigida de forma demasiado amplia y su seguimiento es imposible. Para que la recomendación esté dirigida de forma precisa y su cumplimiento pueda supervisarse, el Centro de Investigación de Accidentes recomienda:
+Itella debería mejorar la seguridad al planificar sus rutas de reparto evitando los pasos a nivel sin dispositivos de señalización. [S1/11R/S319]
+### S320 Instrucción de evaluación de riesgos del servicio de emergencias
+La instrucción de evaluación de riesgos del servicio de emergencias utilizada por el Centro de Emergencias parece estar "sin propietario". La instrucción de evaluación de riesgos del servicio de emergencias no ha sido modificada de forma sustancial desde su
+
+
+## Página 147
+
+finalización. La responsabilidad de la instrucción corresponde al servicio de bomberos del área de cada servicio de emergencias, pero a nivel nacional no se han coordinado las necesidades de modificación de la instrucción.
+El Centro de Investigación de Accidentes recomienda que el Ministerio del Interior adopte medidas para implementar la siguiente recomendación:
+Las instrucciones de evaluación de riesgos de los centros de emergencias, responsabilidad del servicio de emergencias, deberían mantenerse permanentemente actualizadas y contar con un responsable a nivel nacional. [S1/11R/S320]
+La instrucción debería modificarse de modo que facilite la selección de la clase de misión más probable en el tipo de accidente en cuestión.
+## 10.3
+### Repetición de las recomendaciones emitidas en informes de investigación anteriores
+Las recomendaciones emitidas en informes de investigación anteriores, cuya implementación está incompleta y que no se han decidido retirar, siguen siendo pertinentes.
+El Centro de Investigación de Accidentes desea destacar especialmente las siguientes recomendaciones incompletas, porque en esta investigación han surgido nuevos aspectos que respaldan su implementación.
+### S256 Mejora de la visibilidad de las barreras
+En los pasos a nivel equipados con dispositivos de señalización en los que un sol brillante y de frente dificulta la visibilidad de los dispositivos de señalización del paso a nivel, debería mejorarse la visibilidad de las luces intermitentes rojas respecto a la actual. Esto se ha probado con luces LED en la sección de la línea Turku–Toijala y los conductores han considerado buena su visibilidad. Cada año se produce una gran cantidad de atropellos de barreras, en los que uno de los factores explicativos es que las luces de señalización no se detectan. El Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Tráfico que asegure que la Agencia de Transporte adopte medidas para implementar la siguiente recomendación:
+Para mejorar la visibilidad de las barreras y las unidades de luz del paso a nivel de Suuruso y de otros pasos a nivel similares en los que se ha constatado el deslumbramiento solar, las lámparas incandescentes intermitentes rojas de las barreras y las unidades de luz del paso a nivel deberían sustituirse por luces LED intermitentes o destellantes. [B6/08R/S256]
+Las luces de las barreras podrían sustituirse por tiras de LED, como se ha propuesto en la investigación de VTT.
+### S277 Facilitación de la localización del lugar del accidente
+Transcurrió tiempo entre el regulador de tráfico y el centro de emergencias para localizar el paso a nivel. En algunos casos, el regulador de tráfico no pudo indicar el municipio del suceso. En algunos casos, el centro de emergencias no pudo utilizar la información del punto kilométrico de la vía. El Centro de Investigación de Accidentes recomienda a la Agencia de Seguridad del Tráfico que asegure que la Agencia de
+
+
+## Página 148
+
+Transporte y VR-Yhtymä Oy adopten medidas para implementar la siguiente recomendación:
+Los distintos operadores deberían desarrollar sistemas y utilizar equipos que faciliten la localización. [B1/09R/S277]
+Entre los posibles medios para ello podrían figurar:
+- El maquinista, el regulador de tráfico y el centro de emergencias deberían disponer de una base de datos de pasos a nivel común.
+- Todos los centros de emergencias deberían tener la capacidad de localizar mediante la información del punto kilométrico de la vía.
+- Una forma alternativa y más rápida de localización en la actualidad sería utilizar la información de posición del dispositivo GPS instalado en las locomotoras.
+El Ministerio de Transporte y Comunicaciones, la Agencia de Seguridad del Tráfico, la Agencia de Transporte, VR-Yhtymä Oy, los Centros de Economía, Transporte y Medio Ambiente de Uusimaa, Pirkanmaa, Ostrobothnia del Norte y Finlandia Propia, la Sección de Bomberos del Ministerio del Interior, la Comisión de Seguridad Vial de las Empresas de Seguros, la Asociación Finlandesa de Municipios, la Asociación Finlandesa de Autoescuelas, la Asociación Finlandesa de Carreteras, Liikenneturva y el Instituto de Centros de Emergencias han emitido sus declaraciones sobre las recomendaciones. Se han realizado correcciones y adiciones al informe en función de las declaraciones y comentarios. Las declaraciones se presentan en el anexo 1.
+## 10
+## RECOMENDACIONES DE SEGURIDAD
+En este capítulo se propone que las recomendaciones emitidas con ocasión de accidentes en pasos a nivel anteriores y que son demasiado amplias o que en la actualidad están obsoletas, se retiren, actualicen o sustituyan por nuevas recomendaciones de seguridad.
+## 10.1
+### Recomendaciones que deben retirarse
+Al evaluar las recomendaciones anteriores se descubrió que algunas de ellas eran demasiado amplias, imposibles de supervisar o ya no pertinentes. Se retiran las siguientes recomendaciones:
+S215 La visibilidad del tren y del paso a nivel debería mejorarse. (Sustituida por las dos nuevas recomendaciones S316 y S318.)
+### S216 En los pasos a nivel, la limitación de velocidad de la carretera debería ser como máximo de 50 km/h o, según el caso, aún más baja en función de las características del paso a nivel. (Sustituida por la nueva recomendación S315.)
+S217 Los pasos a nivel con vías en mal estado deberían rehabilitarse para que cumplan los requisitos de las Instrucciones de Ingeniería Ferroviaria (RAMO). (Obsoleta, ya que RAMO ya no está vigente. Demasiado amplia.)
+
+## Página 149
+
+S224 Itella y otras empresas con actividad de reparto de dividendos pueden, en la planificación de las rutas de reparto, mejorar la seguridad evitando los pasos a nivel sin vigilancia. (Sustituida por la nueva recomendación S319.)
+S226 Deberían instalarse avisos de lugares peligrosos, como los pasos a nivel, en el navegador/GPS del vehículo. (Demasiado amplia y inespecífica.)
+S235 El Centro de Gestión Ferroviaria debería cartografiar sistemáticamente los pasos a nivel próximos a un puente o cuyo tráfico pueda dirigirse por otra vía más segura, y eliminarlos posteriormente, incluso si el volumen de tráfico y el nivel de riesgo fueran bajos. (El contenido de la recomendación se tiene en cuenta en la nueva recomendación S309.)
+S258 El Centro de Gestión Ferroviaria debería informar a los titulares de las carreteras sobre las obligaciones que les corresponden, según las directrices, de establecer y mantener los tramos de carretera en conexión con un paso a nivel. También debería facilitarse información sobre las modificaciones que deben realizarse en la vía y las deficiencias detectadas en las inspecciones. (El contenido de la recomendación se tiene en cuenta en la nueva recomendación S317.)
+S281 El Ministerio de Transportes y Comunicaciones debería asegurar la elaboración de directrices uniformes sobre la responsabilidad de la limpieza de nieve en las zonas libres de nieve, aprobadas por todas las partes. (El contenido de la recomendación se tiene en cuenta en la nueva recomendación S317.)
+## 10.2
+### Nuevas recomendaciones
+### S309 Estrategia de pasos a nivel
+Es conveniente incorporar la recomendación anterior S235 El Centro de Gestión Ferroviaria debería cartografiar sistemáticamente los pasos a nivel próximos a un puente o cuyo tráfico pueda dirigirse por otra vía más segura, y eliminarlos posteriormente, incluso si el volumen de tráfico y el nivel de riesgo fueran bajos, en un marco más amplio y completo.
+La estrategia actual de pasos a nivel fue elaborada por el Centro de Gestión Ferroviaria en 2007. Se han eliminado pasos a nivel y mejorado la seguridad según los principios de la estrategia, dentro de los límites de los recursos asignados. Los pasos a nivel se han eliminado principalmente por tramos de vía para poder aumentar la velocidad en la vía. En el seguimiento de la decisión de principio del ministro y de la exposición de política de transportes del Gobierno al Riksdag, se considera que las medidas adoptadas son insuficientes.
+En la práctica, se ha comprobado que el ritmo de eliminación de pasos a nivel y de mejora de su seguridad viene determinado por las asignaciones que concede el Riksdag. La importancia de la estrategia de pasos a nivel debería destacarse transfiriéndola al Ministerio de Comunicaciones, lo que podría aumentar la disponibilidad de recursos.
+El Centro de Investigación de Accidentes recomienda que el Ministerio de Comunicaciones adopte medidas para llevar a cabo la siguiente recomendación:
+
+
+## Página 150
+
+Debería elaborarse una nueva estrategia para mejorar la seguridad en los pasos a nivel y, sobre la base de la misma, un plan concreto con un arreglo de financiación. [S1/11R/S309]
+La estrategia debería incluir la normativa de la Agencia de Seguridad del Tráfico sobre la eliminación de pasos a nivel de la red TEN y la posibilidad de utilizar dispositivos de aviso técnicamente más sencillos y ventajosos que el desarrollo técnico hace posible.
+### S310 Evaluación de la seguridad de los pasos a nivel
+Según el análisis estadístico de la comisión de investigación, un paso a nivel peligroso es un paso a nivel que carece de dispositivos de aviso y en el que el límite de velocidad en la carretera es bajo y el volumen medio de tráfico por día es alto. Estos pasos a nivel se encuentran en zonas urbanas. Para que Trafikverket disponga de indicadores lo más precisos posible sobre la peligrosidad de los pasos a nivel individuales, el Centro de Investigación de Accidentes recomienda que la Agencia de Seguridad del Tráfico se asegure de que Trafikverket adopte medidas para materializar la siguiente recomendación:
+La peligrosidad de los pasos a nivel individuales debería evaluarse con la ayuda de nuevos análisis estadísticos para poder determinar mejor el orden de prioridad para eliminar los pasos a nivel o mejorar su seguridad. [S1/11R/S310]
+La evaluación de la seguridad debería ser un proceso continuo que, en la práctica, requiera la actualización del registro de pasos a nivel.
+### S311 Bases de datos de pasos a nivel
+No existe una base de datos de pasos a nivel actualizada, sino varias bases de datos con datos parcialmente deficientes. El Centro de Investigación de Accidentes recomienda que la Agencia de Seguridad del Tráfico se asegure de que Trafikverket adopte medidas para llevar a cabo la siguiente recomendación:
+Las bases de datos sobre los pasos a nivel y las condiciones en los mismos deberían unificarse y mantenerse actualizadas. [S1/11R/S311]
+El trabajo iniciado para renovar las bases de datos debería completarse. La base de datos de pasos a nivel en la dirección web www.tasoristeys.fi debería desarrollarse y administrarse de modo que los datos actualizados sobre la ubicación y las condiciones de los pasos a nivel estén disponibles para todos. La base de datos debería completarse con el nombre del municipio y la carretera que cruza, así como la dirección del paso a nivel, con la precisión suficiente para que un navegador encuentre el paso a nivel. Así, por ejemplo, el centro de emergencias y los servicios de rescate podrán utilizar la base de datos de forma más eficaz en su actividad.
+### S312 Base de datos de accidentes e incidentes
+Los agentes ferroviarios no disponen de una base de datos común para el registro de accidentes e incidentes. Según un estudio preliminar de VTT, las estadísticas de accidentes se registran en el sistema de datos de la empresa ferroviaria, en el sistema de datos de Trafikverket y en el sistema de datos de la Agencia de Seguridad del Tráfico. Sería
+
+
+## Página 151
+
+conveniente unificar estas estadísticas de accidentes. Para llevar a cabo el proyecto, el Centro de Investigación de Accidentes recomienda que la Agencia de Seguridad del Tráfico adopte medidas para llevar a cabo la siguiente recomendación:
+Debería crearse en Finlandia una base de datos común de accidentes y desviaciones para el ferrocarril. [S1/11R/S312]
+Según un estudio de VTT, deberían aclararse las necesidades y posibilidades de crear, por ejemplo, un centro común de información sobre tráfico y accidentes entre la Agencia de Seguridad del Tráfico y Trafikverket, que abarcaría todos los modos de transporte y en el que la información se analizaría atendiendo a distintas necesidades, con personal especializado. Trafi constata en su dictamen que cada modo de transporte debería tener su propia base de datos completa.
+Según la comisión de investigación, todos los implicados deberían tener acceso a la base de datos, mientras que determinadas instancias tendrían derecho y responsabilidad de introducir información y completar la información existente en la misma.
+### S313 Planes de seguridad vial de los municipios
+En los planes de seguridad vial de los centros NTM y de los municipios, la seguridad en los pasos a nivel se ha considerado a veces de forma deficiente.
+Según las directrices de planificación de la seguridad vial, la seguridad en los pasos a nivel debería considerarse en mayor medida. El Centro de Investigación de Accidentes recomienda que los centros NTM adopten medidas para llevar a cabo la siguiente recomendación:
+Los planes de seguridad vial de las regiones y de los municipios deberían tener en cuenta también la seguridad en los pasos a nivel. [S1/11R/S313]
+Por ejemplo, en el plan de la ciudad de Björneborg, la seguridad en los pasos a nivel se ha considerado adecuadamente.
+Según el dictamen del Ministerio de Comunicaciones sobre el borrador del informe de investigación, los municipios y los centros NTM utilizan un programa de planificación para la planificación de la seguridad vial que abarca todos los accidentes del tráfico por carretera en un fondo cartográfico según la ubicación. Sin embargo, el programa no incluye los accidentes en pasos a nivel, que, según los comentarios del ministerio, deberían incorporarse al programa cuando se desarrolle más.
+### S314 Planificación de rutas para el transporte escolar
+En el estudio piloto de Ramboll Finland Oy sobre el transporte escolar y por autobús en los pasos a nivel a lo largo de la línea Hyvinge–Hangö, se cartografiaron y evaluaron los pasos a nivel a lo largo de las rutas de transporte escolar. Gracias a la cartografía, se pudieron identificar los pasos a nivel más peligrosos y planificar rutas de transporte alternativas y más seguras. En el estudio se recomiendan estudios similares para otros tramos de vía.
+El programa Koululiitu, que evalúa los riesgos durante el trayecto escolar, no tiene en cuenta en absoluto los pasos a nivel, ya que los datos de registro que utiliza el programa no contienen información sobre pasos a nivel.
+
+
+## Página 152
+
+El Centro de Investigación de Accidentes recomienda que la Consejería de Educación adopte medidas para llevar a cabo la siguiente recomendación:
+En la planificación del transporte escolar, los municipios deberían mejorar la seguridad evitando los pasos a nivel sin dispositivos de seguridad. [S1/11R/S314]
+En su dictamen, la Asociación de Municipios constata: «En la planificación de rutas del transporte escolar se puede procurar evitar los pasos a nivel si se encuentran rutas alternativas. En las formaciones relacionadas con el transporte escolar se puede prestar atención a este asunto, por ejemplo, presentando el estudio sobre el tramo de vía Hyvinge–Hangö».
+Según Ramboll Finland Oy, el estudio sobre la seguridad del transporte escolar continúa en 2012 con el tramo de vía Seinäjoki–Kaskö, gracias a los buenos resultados del estudio piloto.
+### S315 Límite de velocidad en las carreteras y uso de la señal STOP en los pasos a nivel
+La recomendación anterior S216 En los pasos a nivel, el límite de velocidad en la carretera debería ser como máximo de 50 km/h o, en determinados puntos, aún menor en función de las características del paso a nivel. debería reformularse.
+La recomendación sigue siendo pertinente, ya que el límite de velocidad general de 80 km/h sigue vigente en la mayor parte de los pasos a nivel. Según el estudio de VTT sobre las velocidades en los pasos a nivel (Ajonopeudet vähäliikenteisten teiden tasoristeyksissä, Poutanen 2006), se constata que, cuando se abre la zona libre de nieve cerca de la vía, entre el 20 y el 60 % de los vehículos circulaba a una velocidad tan alta en el punto de medición más próximo a la vía que los conductores no habrían podido detener el vehículo antes de la vía. Según la directriz de la administración de carreteras, el límite de velocidad en un paso a nivel sin vigilancia debería ser como máximo de 50 km/h y en uno vigilado de 60 km/h.
+El Centro de Investigación de Accidentes recomienda que la Agencia de Seguridad del Tráfico se asegure de que Trafikverket adopte medidas para llevar a cabo la siguiente recomendación:
+Deberían establecerse directrices claras sobre los límites de velocidad y el uso de las señales STOP para el tráfico por carretera. [S1/11R/S315]
+Además de las carreteras interurbanas, las directrices deberían aplicarse también a las calles y a las carreteras privadas.
+### S316 Mejora de la visibilidad en los pasos a nivel
+La recomendación anterior S215 La visibilidad del tren y del paso a nivel debería mejorarse. era demasiado amplia y debería desglosarse en recomendaciones para el material rodante y para los pasos a nivel.
+La mayor parte de los accidentes mortales se produce en pasos a nivel sin dispositivos de aviso. También VTT ha prestado atención en sus estudios a la visibilidad de los pasos a nivel. Para que los usuarios de la carretera detecten los pasos a nivel a tiempo y actúen correctamente en los mismos, se recomien-
+
+## Página 153
+
+considera el Centro de Investigación de Accidentes que la Autoridad de Seguridad del Tráfico debe garantizar que la Autoridad de Tráfico adopte medidas para materializar la siguiente recomendación:
+Deberían establecerse métodos para mejorar la visibilidad en los pasos a nivel sin dispositivos de advertencia, así como sus condiciones de uso y características técnicas. [S1/11R/S316]
+La visibilidad de los pasos a nivel puede mejorarse con portales y de manera análoga, así como dotando a los pasos a nivel de señales de paso a nivel y de distancia según las instrucciones. El estado y la visibilidad de las señales de tráfico también deberían preservarse.
+### S317 Instrucción para los titulares de la vía
+La recomendación anterior S258 El Centro de Gestión Ferroviaria debe informar a los titulares de la vía sobre qué obligaciones tienen según las instrucciones para construir y mantener los tramos de vía en conexión con un paso a nivel. También debería facilitarse información sobre los cambios que deben realizarse en la vía y las deficiencias detectadas durante las inspecciones. Debería reformularse.
+Los titulares de la vía de carreteras individuales carecen de información sobre sus obligaciones en conexión con los pasos a nivel. En una investigación de OTKES se constató que el gestor ferroviario y la ciudad tenían opiniones diametralmente opuestas sobre la responsabilidad de la limpieza en el área de visión.
+El Centro de Investigación de Accidentes recomienda que la Autoridad de Seguridad del Tráfico debe garantizar que la Autoridad de Tráfico adopte medidas para llevar a cabo la siguiente recomendación:
+Deberían elaborarse instrucciones sobre pasos a nivel para los titulares de la vía. [S1/11R/S317]
+Las instrucciones deberían contener secciones sobre la construcción y el mantenimiento de los tramos de vía en los pasos a nivel, las obligaciones del titular de la vía, así como una práctica adecuada para las limitaciones de velocidad y las señales STOP.
+La Autoridad de Tráfico debería recurrir a sus actores locales y a la Asociación de Carreteras de Finlandia en la distribución de la instrucción y la organización de la formación para las asociaciones de carreteras y otros titulares del derecho de paso.
+### S318 Mejora de la visibilidad del frontal del tren
+La recomendación anterior S215 La visibilidad del tren y del paso a nivel debería mejorarse. era demasiado amplia y debería dividirse en recomendaciones para el material rodante y los pasos a nivel.
+El Centro de Investigación de Accidentes recomienda que la Autoridad de Seguridad del Tráfico debe garantizar que los titulares del material rodante adopten medidas para llevar a cabo la siguiente recomendación:
+Debería mejorarse la visibilidad de la locomotora y de las unidades de tren desde el frente. [S1/11R/S318]
+
+
+## Página 154
+
+Para mejorar la visibilidad, podría utilizarse, por ejemplo, el mismo color de blanco brillante que en el tren Allegro.
+### S319 Planificación de las rutas de reparto de Itella
+La recomendación anterior S224 Itella y otras empresas con actividad de reparto pueden mejorar la seguridad al planificar sus rutas de reparto evitando los pasos a nivel sin vigilancia. era demasiado general y es imposible dar seguimiento a su materialización. Para concretar la recomendación y hacer seguimiento de su materialización, el Centro de Investigación de Accidentes recomienda lo siguiente:
+Al planificar las rutas de reparto, Itella debería mejorar la seguridad evitando los pasos a nivel sin dispositivos de seguridad. [S1/11R/S319]
+### S320 Instrucción de evaluación de riesgos del servicio de emergencias
+No parece que nadie asuma la responsabilidad de la instrucción de evaluación de riesgos del centro de emergencias para el servicio de emergencias. La instrucción de evaluación de riesgos del servicio de emergencias no ha sido modificada en aspectos esenciales desde su elaboración. Los servicios de rescate de cada área de rescate son responsables de la instrucción, pero la necesidad de cambios en la instrucción no se ha coordinado a escala nacional.
+El Centro de Investigación de Accidentes recomienda que el Ministerio del Interior adopte medidas para hacer efectiva la siguiente recomendación:
+Las instrucciones de evaluación de riesgos de las que es responsable el servicio de emergencias deberían actualizarse continuamente y contar con una instancia nacional responsable de las mismas. [S1/11R/S320]
+La instrucción debería modificarse de modo que dirija de manera más inequívoca la elección de la categoría de misión más probable en accidentes de este tipo.
+## 10.3 
+### Repetición de recomendaciones en informes de investigación anteriores
+Las recomendaciones emitidas en informes de investigación anteriores, que aún no se han hecho efectivas en su totalidad y que no deben suprimirse, siguen siendo pertinentes.
+El Centro de Investigación de Accidentes desea destacar especialmente las siguientes recomendaciones, ya que en el curso de esta investigación surgieron nuevos aspectos que respaldan su aplicación:
+### S256 Mejora de la visibilidad de las barreras
+Mejora de la visibilidad de las barreras en los pasos a nivel vigilados donde la luz solar intensa dificulta la observación de las señales del dispositivo de advertencia, debería mejorarse la visibilidad de las luces intermitentes rojas. Esto se ha probado con luces LED en el tramo ferroviario Åbo–Toijala y los automovilistas han experimentado que las luces LED se ven bien. Cada año se producen una gran cantidad de colisiones con las barreras, siendo una de las causas de los accidentes que no se detectan las luces de
+
+
+## Página 155
+
+advertencia. El Centro de Investigación de Accidentes recomienda que la Autoridad de Seguridad del Tráfico debe garantizar que la Autoridad de Tráfico adopte medidas para hacer efectiva la siguiente recomendación:
+Que se sustituyan, para mejorar la visibilidad, las bombillas incandescentes intermitentes rojas de las barreras y las unidades de luces por luces LED intermitentes o destellantes en el paso a nivel de Suurisuo y otros pasos a nivel análogos donde se ha constatado que el sol deslumbra. [B6/08R/S256]
+Las luces de las barreras podrían sustituirse por tiras de LED de acuerdo con la propuesta de la investigación del VTT.
+### S277 Facilitación de la localización del lugar del accidente
+Según la investigación, la localización del paso a nivel en la comunicación entre el jefe de tren y el centro de emergencias llevó tiempo. En algunos casos, el jefe de tren no pudo indicar el municipio donde ocurrió el accidente. En otros casos, el centro de emergencias no pudo interpretar los datos de kilómetro ferroviario.
+El Centro de Investigación de Accidentes recomienda que la Autoridad de Seguridad del Tráfico debe garantizar que la Autoridad de Tráfico y VR Group Ab adopten medidas para llevar a cabo la siguiente recomendación:
+Los distintos actores deberían desarrollar sistemas y utilizar dispositivos que faciliten la localización. [B1/09R/S277]
+Las posibles medidas podrían ser, por ejemplo:
+- 
+El maquinista, el jefe de tren y el centro de emergencias deberían disponer de una base de datos de pasos a nivel unificada.  
+- 
+Todos los centros de emergencias deberían poder localizar el lugar del accidente a partir de los datos de kilómetro ferroviario.  
+- 
+Un método de localización alternativo y más rápido basaría los datos geográficos en el dispositivo GPS de la locomotora.  
+El Ministerio de Comunicaciones, la Autoridad de Seguridad del Tráfico, la Autoridad de Tráfico, VR Group Ab, los centros de negocios, tráfico y medio ambiente de Nyland, Birkaland, Norra Österbotten y Egentliga Finland, la división de rescate del Ministerio del Interior, el Comité de Seguridad del Tráfico de las Compañías de Seguro (VALT), la Asociación de Municipios de Finlandia, la Asociación de Autoescuelas de Finlandia, la Asociación de Carreteras de Finlandia, Trafikskyddet y el Centro de Emergencias han emitido dictámenes sobre las recomendaciones. Los dictámenes completos se encuentran en el anexo 1. Se han realizado cambios y precisiones en el informe de investigación de acuerdo con los dictámenes y comentarios.
+## 10 
+## RECOMENDACIONES DE SEGURIDAD
+Esta sección presenta la eliminación de recomendaciones de seguridad obsoletas o demasiado amplias en su alcance, emitidas tras accidentes anteriores en pasos a nivel, la actualización de dichas recomendaciones y recomendaciones de seguridad totalmente nuevas.
+
+
+## Página 156
+
+## 10.1 
+### Recomendaciones que deben eliminarse
+Durante la evaluación de las recomendaciones emitidas anteriormente, se descubrió que algunas son demasiado amplias, que el seguimiento de algunas es imposible y que algunas ya no son válidas.
+Se han eliminado las siguientes recomendaciones:
+S215 Los requisitos de línea de visión para los pasos a nivel deberían modificarse de modo que también se tenga en cuenta el paso de un paso a nivel sin detenerse en caso de que se alcance una línea de visión suficiente a lo largo de la vía férrea sustancialmente antes de 8 metros de la vía férrea. (Sustituida por dos nuevas recomendaciones S316 y S318.)
+S216 En un paso a nivel, la velocidad máxima permitida en la carretera debería ser de 50 km/h o inferior, en función de la localidad y las características del paso a nivel. (Sustituida por una nueva recomendación S315.)
+S217 Aquellas plataformas de espera de pasos a nivel que presenten un mal estado deberían actualizarse para cumplir las especificaciones de las instrucciones técnicas ferroviarias pertinentes (RAMO). (Obsoleta, porque RAMO ya no es válida. Demasiado amplia.)
+S224 Itella y otras empresas que realizan entregas pueden mejorar la seguridad evitando los pasos a nivel sin vigilancia al planificar sus rutas de entrega. (Sustituida por una nueva recomendación S319.)
+S226 Debería instalarse en el vehículo un dispositivo de navegación/GPS que advierta sobre ubicaciones peligrosas como los pasos a nivel. (Demasiado amplia y sin destinatario concreto.)
+S235 La Administración Ferroviaria de Finlandia debería localizar sistemáticamente los pasos a nivel que tengan un puente cercano o cuyo tráfico pueda redirigirse por una ruta más segura, suprimiéndolos aunque su volumen y nivel de riesgo puedan ser bajos. (El contenido de esta recomendación está incluido en la nueva recomendación S309.)
+S258 La Administración Ferroviaria de Finlandia debe informar a las partes responsables del mantenimiento de la carretera sobre su obligación de construir y mantener los tramos de carretera que conducen a los pasos a nivel, tal como se establece en la normativa pertinente. La Administración Ferroviaria de Finlandia también debe informar adecuadamente sobre cualquier cambio en la vía que deba realizarse y sobre las deficiencias detectadas durante las rondas de inspección. (El contenido de esta recomendación está incluido en la nueva recomendación S317.)
+S281 El Ministerio de Transportes y Comunicaciones debe garantizar que se emitan directrices coherentes sobre la obligación de despejar las líneas de visión que sean aceptables para todas las partes. (El contenido de esta recomendación está incluido en la nueva recomendación S317.)
+## 10.2 
+### Nuevas recomendaciones
+### S309 Estrategia de pasos a nivel
+Sería apropiado combinar la recomendación emitida anteriormente S235 La Administración Ferroviaria de Finlandia debería localizar sistemáticamente los pasos a nivel que tengan un puente
+
+## Página 157
+
+cercanas o cuyo tráfico pueda desviarse por otra ruta más segura, retirándolas
+aunque su volumen y nivel de riesgo puedan ser bajos. en una estructura mayor.
+La Administración Ferroviaria publicó la estrategia actual de pasos a nivel en 2007. Los pasos a nivel
+se han retirado y asegurado de acuerdo con los principios de la estrategia, según
+lo permitido por los recursos disponibles. Las retiradas de pasos a nivel se han realizado principalmente
+para permitir la aplicación de mayores velocidades al tramo de línea.
+En seguimiento de la decisión de principio del Gobierno y en el informe de política de transporte
+del Gobierno al Parlamento, se consideran insuficientes las medidas adoptadas.
+La práctica ha demostrado que la tasa de retirada y aseguramiento de pasos a nivel está regida por
+las asignaciones concedidas por el Parlamento. Debería otorgarse mayor importancia a la estrategia de pasos a nivel
+trasladándola al Ministerio de Transporte y Comunicaciones,
+lo que podría facilitar la obtención de los recursos necesarios.
+La Autoridad de Investigación de Seguridad recomienda que el Ministerio de Transporte y Com-
+unicaciones adopte las acciones necesarias para implementar la siguiente recomendación:
+Debería elaborarse una nueva estrategia para mejorar la seguridad de los pasos a nivel, y sobre la base de
+esta estrategia debería redactarse un plan concreto con disposiciones de financiación. [S1/11R/S309]
+La estrategia debería incluir la orden de Trafi de reparar los pasos a nivel de la red RTE-T y
+la posibilidad de utilizar dispositivos de aviso técnicamente más simples y más baratos puestos a
+disposición por los avances tecnológicos.
+### S310 Evaluación de la seguridad de los pasos a nivel
+Basándose en el análisis estadístico realizado por la comisión de investigación, los pasos a nivel
+peligrosos no tienen dispositivos de aviso, el límite de velocidad en la carretera es bajo y el
+volumen medio de tráfico es grande. Tales pasos a nivel se sitúan típicamente en zonas residenciales.
+Para proporcionar a la Agencia Finlandesa de Transporte los mejores criterios posibles para describir el
+peligro que representa cada paso a nivel, la Autoridad de Investigación de Seguridad recomienda
+que la Agencia Finlandesa de Seguridad del Transporte se asegure de que la Agencia Finlandesa de Transporte
+adopte las acciones necesarias para implementar la siguiente recomendación:
+La seguridad de cada paso a nivel debería evaluarse mediante nuevos análisis estadísticos,
+a fin de especificar mejor el orden en el que los pasos a nivel deberían asegurarse o retirarse.
+[S1/11R/S310]
+La evaluación de seguridad debería ser un proceso continuo y, en la práctica, requiere la actualización de la
+base de datos de pasos a nivel.
+### S311 Bases de datos de pasos a nivel
+No existe una única base de datos actualizada de pasos a nivel, pero existen varias bases de datos
+con información parcialmente incompleta. La Autoridad de Investigación de Seguridad recomienda
+
+
+## Página 158
+
+que la Agencia Finlandesa de Seguridad del Transporte se asegure de que la Agencia Finlandesa de Transporte
+adopte las acciones necesarias para implementar la siguiente recomendación:
+Las bases de datos sobre pasos a nivel y sus condiciones deberían fusionarse en una sola y la
+base de datos debería mantenerse actualizada. [S1/11R/S311]
+El trabajo de actualización continuo de la base de datos debería completarse. La base de datos pública de pasos a nivel
+situada en www.tasoristeys.fi debería desarrollarse y mantenerse para poner a disposición de todos
+información actualizada de localización y condición. Deberían añadirse a la base de datos
+la información de municipio, nombre de la carretera cruzada y dirección del paso a nivel,
+con una precisión suficiente para localizar el paso a nivel con un navegador.
+Esto permitiría a los centros de respuesta a emergencias y a los servicios de rescate hacer mejor
+uso de la base de datos en sus operaciones.
+### S312 Base de datos de accidentes e incidentes
+Los agentes ferroviarios no disponen de una base de datos común para accidentes y situaciones peligrosas.
+Según la investigación de VTT, la información sobre accidentes se guarda en los sistemas de información
+de la empresa ferroviaria, la Agencia Finlandesa de Transporte y la Agencia Finlandesa de
+Seguridad del Transporte. Se recomienda fusionar estas bases de datos de accidentes. Para este fin,
+la Autoridad de Investigación de Seguridad recomienda que la Agencia Finlandesa de Seguridad del Transporte
+adopte las acciones necesarias para implementar la siguiente recomendación:
+Debería crearse una base de datos única y común de accidentes y desviaciones para todos aquellos
+que operan el sistema ferroviario en Finlandia. [S1/11R/S312]
+La investigación de VTT demuestra que deberían investigarse las necesidades y requisitos para crear un centro
+de información de tráfico y accidentes común a, por ejemplo, la Agencia Finlandesa de Transporte y la
+Agencia Finlandesa de Seguridad del Transporte. Este centro cubriría todas las formas de
+transporte y la información sería analizada y producida para distintas necesidades por
+personal especializado. La Agencia Finlandesa de Seguridad del Transporte declara en su informe que
+sería bueno disponer de una base de datos propia y completa sobre cada forma de tráfico.
+La comisión de investigación señala que todas las partes deberían tener acceso a la base de datos
+y que determinadas partes tendrían el derecho y la obligación de añadir y actualizar la información
+de la base de datos.
+### S313 Planes de seguridad vial de los municipios
+En algunos casos, no se tiene suficientemente en cuenta la seguridad de los pasos a nivel en los planes de
+seguridad vial elaborados por los Centros de Desarrollo Económico, Transporte y Medio
+Ambiente (Centros ELY) y los municipios.
+Debería tenerse más en cuenta la seguridad de los pasos a nivel en las instrucciones de planificación de
+seguridad vial. La Autoridad de Investigación de Seguridad recomienda que los Centros ELY adopten
+las acciones necesarias para implementar la siguiente recomendación:
+
+
+## Página 159
+
+La seguridad de los pasos a nivel debería incluirse también en los planes de seguridad vial
+provinciales y municipales. [S1/11R/S313]
+Por ejemplo, en el plan de la ciudad de Pori se tiene fuertemente en cuenta la seguridad de los pasos a nivel.
+Según los comentarios del Ministerio de Transporte y Comunicaciones sobre el borrador del
+informe de investigación, los municipios y los Centros ELY utilizan software de diseño como herramienta
+de planificación de seguridad vial. Este software muestra información sobre todos los accidentes de
+tráfico por carretera, basándose en información de localización. Sin embargo, el software no incluye
+los accidentes en pasos a nivel y el Ministerio considera que deberían añadirse.
+### S314 Planificación de rutas de transporte escolar
+Una evaluación piloto realizada por Ramboll Finland Oy investigó y evaluó los pasos a nivel del tramo de línea
+Hyvinkää–Hanko utilizados por las rutas de transporte escolar y de autobús.
+La investigación permitió identificar los pasos a nivel más peligrosos y planificar rutas de transporte
+alternativas y más seguras. La evaluación recomendó la realización de evaluaciones similares
+para otros tramos de línea.
+El software Koululiitu, que evalúa los peligros de las rutas escolares, no incluye los pasos a nivel,
+porque la información de la base de datos de carreteras utilizada por el software no contiene
+información sobre pasos a nivel.
+La Autoridad de Investigación de Seguridad recomienda que la Junta Nacional de Educación
+adopte las acciones necesarias para implementar la siguiente recomendación:
+Al planificar el transporte escolar, los municipios deberían mejorar la seguridad evitando
+los pasos a nivel sin dispositivos de aviso a lo largo de las rutas. [S1/11R/S314]
+En sus comentarios sobre el informe de investigación, la Asociación de Autoridades Locales y
+Regionales Finlandesas declara lo siguiente: »Los pasos a nivel pueden evitarse en la planificación de
+rutas de transporte escolar si existen posibilidades de rutas alternativas. Puede llamarse la atención
+sobre esto en los eventos de formación de transporte escolar, presentando la evaluación del tramo de
+línea Hyvinkää–Hanko.»
+Según Ramboll Finland Oy, la evaluación piloto obtuvo buenos resultados y la evaluación de seguridad
+del transporte escolar continuará en 2012 para el tramo de línea Seinäjoki–Kaskinen.
+### S315 El límite de velocidad en la carretera y el uso de la señal STOP en los pasos a nivel
+La recomendación emitida anteriormente S216 En un paso a nivel la velocidad máxima permitida en la
+carretera debería ser de 50 km/h o inferior en función de la localidad y las características del paso a nivel.
+debería reformularse.
+La recomendación sigue siendo válida, ya que la mayoría de los pasos a nivel tienen un límite de velocidad
+general de 80 km/h. El estudio de VTT Ajonopeudet vähäliikenteisten teiden tasoristeyksissä
+
+
+## Página 160
+
+(Velocidades de circulación en pasos a nivel de carreteras con bajo volumen de tráfico) (Poutanen 2006)
+declara que cuando la visibilidad se despeja a solo una corta distancia de la vía,
+en el punto de medición más cercano el 20–60 % de los vehículos circulaba demasiado rápido para que
+el vehículo pudiera detenerse antes de cruzar la vía. Según las instrucciones de la Administración de
+Caminos, el límite de velocidad no debería superar los 50 km/h en un paso a nivel sin dispositivos de
+aviso, o 60 km/h en un paso a nivel con dispositivos de aviso.
+La Autoridad de Investigación de Seguridad recomienda que la Agencia Finlandesa de Seguridad del
+Transporte se asegure de que la Agencia Finlandesa de Transporte adopte las acciones necesarias para
+implementar la siguiente recomendación:
+Deberían elaborarse instrucciones claras sobre los límites de velocidad del tráfico por carretera y el uso
+de la señal STOP en los pasos a nivel. [S1/11R/S315]
+Además de las carreteras públicas, estas instrucciones deberían referirse también a las calles y
+caminos privados.
+### S316 Mejora de la perceptibilidad del paso a nivel
+La recomendación emitida anteriormente S215 Debería mejorarse la perceptibilidad de un tren y de un
+paso a nivel. era demasiado amplia y debería dividirse en recomendaciones relativas al equipo móvil
+y al paso a nivel.
+La mayoría de los accidentes mortales en pasos a nivel se produjeron en pasos a nivel sin dispositivos de
+aviso. La perceptibilidad de los pasos a nivel también fue señalada en la investigación de VTT. Para hacer
+los pasos a nivel perceptibles con la suficiente antelación para los usuarios de la carretera y asegurar el
+uso correcto del paso a nivel, la Autoridad de Investigación de Seguridad recomienda que la Agencia
+Finlandesa de Seguridad del Transporte se asegure de que la Agencia Finlandesa de Transporte adopte
+las acciones necesarias para implementar la siguiente recomendación:
+Deberían especificarse las formas de mejorar la perceptibilidad de los pasos a nivel y sus condiciones de
+uso y propiedades técnicas. [S1/11R/S316]
+La perceptibilidad de los pasos a nivel puede mejorarse mediante el uso de pórticos y medios similares,
+así como mediante la instalación de señales de paso a nivel y señales de aproximación tal como se
+describe en las instrucciones. Además, el estado de las señales debería mantenerse y asegurarse su
+visibilidad.
+### S317 Instrucciones para los mantenedores de carreteras
+La recomendación S258 La Administración Ferroviaria Finlandesa debería informar a las partes responsables
+del mantenimiento de carreteras sobre su obligación de construir y mantener los tramos de carretera que
+conducen a los pasos a nivel tal como se establece en la normativa correspondiente. La Administración
+Ferroviaria Finlandesa también debería informar adecuadamente sobre cualquier cambio de vía que deba
+realizarse y cualquier deficiencia detectada durante las rondas de inspección. se emitió en una ocasión
+anterior. Debería reformularse.
+
+## Página 161
+
+Los mantenedores de carreteras privadas carecen de información suficiente sobre sus obligaciones de mantenimiento de los pasos a nivel. Una investigación de la Autoridad de Investigación de Seguridad reveló que el gestor de la infraestructura y una ciudad tenían visiones completamente diferentes sobre la obligación de mantener la visibilidad en el paso a nivel.
+La Autoridad de Investigación de Seguridad recomienda que la Agencia Finlandesa de Seguridad del Transporte garantice que la Agencia Finlandesa de Transporte adopte las medidas necesarias para implementar la siguiente recomendación:
+Deben elaborarse instrucciones sobre pasos a nivel para los mantenedores de carreteras. [S1/11R/S317]
+Estas instrucciones deben contener secciones sobre la construcción y mejora de la carretera relacionada con el paso a nivel, las obligaciones del mantenedor de la carretera, y las prácticas adecuadas de límite de velocidad y señal de STOP.
+La Agencia Finlandesa de Transporte debe utilizar sus propios actores locales y la Asociación Finlandesa de Carreteras para distribuir instrucciones y organizar formación para los mantenedores de carreteras y otros responsables del mantenimiento de las carreteras.
+### S318 Mejora de la visibilidad del frente del tren
+La recomendación emitida anteriormente S215 La perceptibilidad de un tren y un paso a nivel debe mejorarse. era demasiado extensa y debe dividirse en recomendaciones relativas al equipo móvil y al paso a nivel.
+La Autoridad de Investigación de Seguridad recomienda que la Agencia Finlandesa de Seguridad del Transporte garantice que los operadores de equipo móvil adopten las medidas necesarias para implementar la siguiente recomendación:
+Debe mejorarse la visibilidad de los frentes de las locomotoras y las unidades de tren. [S1/11R/S318]
+Se podría utilizar pintura luminiscente, como la empleada en el tren Allegro, para mejorar la visibilidad.
+### S319 Planificación de las rutas de reparto de Itella
+La recomendación emitida anteriormente S224 Itella y otras empresas que realizan repartos pueden mejorar la seguridad evitando los pasos a nivel sin vigilancia al planificar sus rutas de reparto. estaba dirigida de forma demasiado amplia y el seguimiento de su implementación era imposible. Para dirigir la recomendación con precisión y facilitar el seguimiento de su implementación, la Autoridad de Investigación de Seguridad recomienda lo siguiente:
+Al planificar las rutas de reparto, Itella debe mejorar la seguridad evitando los pasos a nivel sin dispositivos de aviso. [S1/11R/S319]
+### S320 Las instrucciones de evaluación de riesgos de los Servicios de Rescate
+Parece que nadie es responsable de las instrucciones de evaluación de riesgos de los Servicios de Rescate utilizadas por los Centros de Respuesta a Emergencias. Estas instrucciones no han sido modificadas
+
+
+## Página 162
+
+desde su publicación. Cada departamento de rescate del área de los Servicios de Rescate es responsable de estas instrucciones, pero las necesidades de cambio relacionadas no han sido coordinadas a nivel nacional.
+La Autoridad de Investigación de Seguridad recomienda que el Ministerio del Interior adopte las medidas necesarias para implementar la siguiente recomendación:
+Las instrucciones de evaluación de riesgos de los Centros de Respuesta a Emergencias deben actualizarse continuamente y debe designarse un operador nacional responsable de las instrucciones. [S1/11R/S320]
+Las instrucciones deben modificarse para apoyar mejor la selección de la clase de tarea más probablemente adecuada para el tipo de accidente en cuestión.
+## 10.3
+### Reiteración de recomendaciones formuladas en informes de investigación anteriores
+Las recomendaciones aún no implementadas por completo, formuladas en informes de investigación anteriores y para las que no se ha adoptado decisión de retirada, siguen siendo válidas.
+La Autoridad de Investigación de Seguridad desea destacar las siguientes recomendaciones para su ulterior consideración, porque en la investigación se han revelado factores que favorecen su implementación:
+### S256 Mejora de la perceptibilidad de las barreras
+Cuando el resplandor del sol reduce la visibilidad en los pasos a nivel con dispositivos de aviso, debe mejorarse la perceptibilidad de las luces rojas intermitentes existentes. Se han probado luces LED en el tramo Turku–Toijala de la línea y los conductores de vehículos evaluaron su perceptibilidad como buena. Cada año, un gran número de barreras son rotas por vehículos, porque las luces de aviso pasan desapercibidas. La Autoridad de Investigación de Seguridad recomienda que la Agencia Finlandesa de Seguridad del Transporte garantice que la Agencia Finlandesa de Transporte adopte las medidas necesarias para implementar la siguiente recomendación:
+En el paso a nivel de Suurisuo y pasos a nivel similares, donde se ha constatado que la luz solar obstaculiza la visibilidad, debe mejorarse la visibilidad de las barreras y las señales de aviso sustituyendo las lámparas de filamento rojas intermitentes por luces LED intermitentes o destellantes.
+[B6/08R/S256]
+Las luces de las barreras podrían sustituirse por tiras de luces LED, como se sugiere en los informes de investigación de VTT.
+### S277 Facilitación de la localización del lugar de un accidente
+Se consumió tiempo entre el regulador de tráfico y el CER en la localización del paso a nivel. En algunos casos, el regulador de tráfico no pudo informar del municipio del accidente. En algunos casos, el centro de respuesta a emergencias no pudo utilizar la información de distancia ferroviaria kilométrica. La Autoridad de Investigación de Seguridad recomienda que la
+
+
+## Página 163
+
+Agencia Finlandesa de Seguridad del Transporte garantice que la Agencia Finlandesa de Tráfico y el Grupo VR adopten las medidas necesarias para implementar la siguiente recomendación:
+Diversos operadores deben desarrollar sistemas e implementar equipos para facilitar la localización del lugar de un accidente. [B1/09R/S277]
+Los medios podrían ser los siguientes:
+- 
+El maquinista, el regulador de tráfico y el Centro de Respuesta a Emergencias deberían utilizar una base de datos uniforme de pasos a nivel.
+- 
+Todos los Centros de Respuesta a Emergencias deberían poder utilizar la información de distancia ferroviaria kilométrica para la localización.
+- 
+Una forma alternativa y más rápida de localizar locomotoras sería utilizar la información de ubicación proporcionada por la unidad GPS de la locomotora.
+El Ministerio de Transporte y Comunicaciones, la Agencia Finlandesa de Seguridad del Transporte, la Agencia Finlandesa de Transporte, el Grupo VR, los Centros de Desarrollo Económico, Transporte y Medio Ambiente de Uusimaa, Pirkanmaa, Pohjois-Pohjanmaa y Varsinais-Suomi, el Departamento de Rescate del Ministerio del Interior, el Comité de Seguridad del Tráfico de las Compañías de Seguros (VALT), la Asociación de Autoridades Locales y Regionales Finlandesas, la Asociación Finlandesa de Autoescuelas, la Asociación Finlandesa de Carreteras, Liikenneturva y la Administración de los Centros de Respuesta a Emergencias han emitido sus dictámenes sobre las recomendaciones. Los dictámenes se reproducen íntegramente en el Apéndice 1. Se han realizado especificaciones y cambios en el texto de este informe de investigación basándose en los dictámenes y comentarios recibidos.
+
+Helsingissä 13.2.2012
+Esko Värttiö
+Reijo Mynttinen
+Sirkku Laapotti
+Veli-Jussi Kangasmaa
+Kari Ylönen
+
+
+## Página 164
+
+## LÄHDELUETTELO
+Seuraavat lähdeliitteet on taltioituna Onnettomuustutkintakeskuksessa:
+1. 
+Päätös tutkinnan aloittamisesta S1/2011R, kirje 11/5R, 12.1.2011
+2. 
+Lausunnot tutkintaselostusluonnoksesta:
+Liikenne- ja viestintäministeriön lausunto
+Liikenteen turvallisuusviraston lausunto
+Liikenneviraston lausunto
+VR-Yhtymä Oy:n lausunto
+Sisäasianministeriön pelastusosaston lausunto
+Hätäkeskuslaitoksen lausunto
+Uudenmaan ELY-keskuksen lausunto
+Pohjois-Pohjanmaan ELY-keskuksen lausunto
+Varsinais-Suomen ELY-keskuksen lausunto
+Autokoululiiton lausunto
+Kuntaliiton lausunto
+Liikenneturvan lausunto
+Liikennevakuutuskeskuksen lausunto
+Suomen Tieyhdistyksen lausunto
+Itella Posti Oy:n lausunto
+
+
+## Página 165
+
+## LÄHTEET
+Tutkinnassa on käytetty lisäksi seuraavia lähteitä:
+### Agresti, A. 1996. An Introduction to Categorical Data Analysis.
+### Breiman, Friedman, Ohlsen & Stone. 1984. Classification and Regression Trees.
+Hytönen, J. 2002. Puomillisten tasoristeysten turvallisuus. RHK:n VTT:ltä tilaama tutkimus. Ra-
+tahallintokeskuksen julkaisuja A 8/2002.
+Iikkanen, P. & Mukula, M. 2010. Rataverkon tavaraliikenne-ennuste 2030. Liikenneviraston
+Ramboll Finland Oy:ltä tilaama selvitys. Liikenneviraston tutkimuksia ja selvityksiä 37/2010.
+### Isotalo, J. 2010. Luentomonisteet. http://www.uta.fi/~jarkko.isotalo/YLM1.pdf ja
+http://www.uta.fi/~jarkko.isotalo/YLM2.pdf
+Kallberg, V.-P. & Hytönen, J. 2002. Rautatietasoristeysten turvaamis- ja poistostrategia 2020.
+RHK:n VTT:ltä tilaama selvitys. Ratahallintokeskuksen julkaisuja A 3/2002.
+Kallberg, V.-P. 2009. Stop-merkin ja 20 km/h-nopeusrajoituksen käyttö tasoristeyksissä. VTT
+Tiedotteita 2519. RHK:n tilaama tutkimus,
+http://www.vtt.fi/inf/pdf/tiedotteet/2009/T2519.pdf
+Kallberg, V-P. 2011. Eri liikennemuotojen onnettomuuksien tilastointi. Trafin julkaisu 1/2011. Lii-
+kenteen turvallisuusviraston ja Liikenneviraston yhdessä VTT:ltä tilaama esitutkimus,
+http://www.trafi.fi/filebank/647-Eri_liikennemuotojen_onnettomuuksien_tilastointi_12011.pdf
+Kallberg, V.-P. Kallio, M & Wuolijoki, A. 2009. Tieliikenteen käyttäytyminen kuudessa puoli-
+puomillisessa tasoristeyksessä. RHK:n VTT:ltä tilaama tutkimus. VTT-R-09859-09.
+Laine, M. 2010. Koulu- ja linja-autokuljetusten tasoristeysturvallisuus Hanko–Hyvinkää-radalla.
+Liikenneviraston Ramboll Finland Oy:ltä tilaama tutkimus. Liikenneviraston tutkimuksia ja selvi-
+tyksiä 49/2010.
+Laki hätäkeskustoiminnasta (692/2010)
+Liikenne- ja viestintäministeriö. 2001. Tasoristeysten turvallisuusohjelma. Liikenne- ja viestin-
+täministeriön julkaisuja 26/2001.
+Liikenne- ja viestintäministeriö. 2010. Tieliikenteen turvallisuus - Liikenneturvallisuussuunni-
+telman 2011–2014 taustaraportti. Liikenne- ja viestintäministeriön julkaisuja 35/2010.
+Liikenne- ja viestintäministeriön asetus koulu- ja päivähoitokuljetusten kuormituksesta ja turvalli-
+suusjärjestelyistä (553/2006)
+Liikenne- ja viestintäministeriön asetus näkemäalueista (65/2011)
+
+## Página 166
+
+### Liikennevirasto. 2010. Accidentes en pasos a nivel 2002–2010. Tabla. 
+Autoridad de Seguridad del Tráfico. 2010. Disposición sobre la estructura y el mantenimiento de la vía. TRA-FI/14473/03.04.02.00/2010. 
+LVK, 1991–2009. Registro de datos del material de las juntas de investigación de accidentes de vehículos a motor mortales. Centro de Seguros de Tráfico, Comisión de Seguridad del Tráfico de las Compañías de Seguros, VALT Espoo. 
+Ley de Uso del Suelo y Construcción (132/1999) 
+Ley de Carreteras (503/2005) 
+Nyby, M. Kiuru, T. & Ruokanen, S. 2011. Estudio de necesidades Tampere–Pori/Rauma. Liikennevirasto. 
+Opetushallitus. Kuntaliitto. Liikenne- ja viestintäministeriö. Liikenneturva. Linja-autoliitto. 
+Suomen Taksiliitto ry. 2011. Guía del transporte escolar. 136702_Koulukuljetus_opas_2011.pdf 
+Pajunen, K. 2002. Seguridad de los pasos a nivel no vigilados. Estudio encargado por RHK a VTT. 
+Publicaciones de la Autoridad Gestora de la Vía A 9/2002. 
+Peltola, H. 2007a. Velocidad del tráfico rodado en un paso a nivel vigilado. VTT-R-4209-07. 
+Estudio encargado por RHK. 
+Peltola, H. 2007b. Reducción de la velocidad del tráfico rodado en los pasos a nivel. VTT-R-4866-07. 
+Estudio encargado por RHK. 
+Ciudad de Pori. 2010. Plan de seguridad del tráfico de Pori 2010. Serie de informes, Ciudad de Pori 
+C65/2010. 
+http://www.pori.fi/material/attachments/tekninenpalvelukeskus/ajankohtaistaliikenteesta/porinliike
+nneturvallisuussuunnitelma2010/5u5SNCMWn/liitu2010-12032010web.pdf 
+Poutanen, M. 2006. Velocidad de circulación en los pasos a nivel de carreteras de escaso tráfico. VTT-R-10530-06. 
+Poutanen, M. 2007. Efectos de las medidas de mejora de la seguridad de los pasos a nivel – encuesta en el tramo de vía Savonlinna–Parikkala. VTT-R-09522-07. 
+Poutanen, M. & Luoma, J. 2009. El paso de un paso a nivel no vigilado – Percepciones y experiencia del riesgo de los conductores de automóvil. VTT Notas 2474. El estudio pertenece al programa de investigación Tráfico Seguro 2025, http://www.vtt.fi/inf/pdf/tiedotteet/2009/T2474.pdf 
+RAIB. 2011. Investigation into the safety of automatic open level crossings on Network Rail’s managed infrastructure. Rail Accident Investigation Branch, Department for Transport, UK. 
+Ramboll Finland Oy. 2010. Programa Koululiitu. Herramienta de apoyo para la evaluación de tramos de carretera clasificados como peligrosos. http://maps.ramboll.fi/koululiitu2010/ 
+Autoridad Gestora de la Vía. 2006. Ferrocarril 2030 – Plan a largo plazo para el mantenimiento de la vía. 
+Publicación de la Autoridad Gestora de la Vía 2/2006. 
+
+
+## Página 167
+
+### Autoridad Gestora de la Vía. 2007. Estrategia de pasos a nivel 2007. 998/011/2007. 
+Räsänen, M. & Alppivuori J.-P. 2004. Efecto del portal sobre las velocidades de circulación en el paso a nivel no vigilado de Kyläjoentie. Estudio encargado por RHK a VTT. Informe de investigación VTT RTE603/04 
+Seise, A., Poutanen, M. & Kallberg, V.-P. 2009. Efecto de los tope de velocidad sobre las velocidades de circulación en los pasos a nivel no vigilados de carreteras de grava. VTT Notas 2520. Estudio encargado por RHK, 
+http://www.vtt.fi/inf/pdf/tiedotteet/2009/T2520.pdf 
+Silla, A. 2011. Atropelamientos por tren – Estadística y análisis. Publicaciones de Trafi 9/2011. 
+http://www.trafi.fi/filebank/715-Trafin_julkaisuja_09-2011_-_Rautatieliikenteen_allejaannit_-
+_netti.pdf 
+Dirección de Carreteras. 2003. Instrucciones generales sobre la señalización de tráfico. Instrucción de la Dirección de Carreteras 521/2002/20/3. 
+http://alk.tiehallinto.fi/thohje/pdf/2000006-v-03liikennemerkkiohje.pdf 
+### Dirección de Carreteras. 2009. Límites de velocidad. Instrucción de la Dirección de Carreteras 10346/2009/30/3. 
+http://alk.tiehallinto.fi/thohje/pdf/2100063-v-09-nopeusrajotukset.pdf 
+Reglamento del Tráfico Rodado (182/1982) 
+Ley del Tráfico Rodado (267/1981) 
+Informe anual VALT 2005. Accidentes de tráfico mortales investigados por las juntas de investigación de accidentes de tráfico. Centro de Seguros de Tráfico, Comisión de Seguridad del Tráfico de las Compañías de Seguros, VALT. Espoo, 2007. 
+Informe previo VALT año 2010. Accidentes investigados por las juntas de investigación. Centro de Seguros de Tráfico, Comisión de Seguridad del Tráfico de las Compañías de Seguros, VALT, 2011. 
+Yan, X. Richards, S. & Su, X. 2010. Using hierarchical tree-based regression model to predict train–vehicle crashes at passive highway-rail grade crossings. Accident Analysis & Prevention, Volume 42, Issue 1, January 2010, Pages 64-74. 
+Öörni, R. & Virtanen, A. (2006). Sistema de aviso de tren en el automóvil. Pruebas de la implementación técnica. Publicaciones AINO 31. Helsinki: Ministerio de Transportes y Comunicaciones. 
+Además, se han utilizado como fuentes los resúmenes de investigación de accidentes en pasos a nivel del Centro de Investigación de Accidentes, el material de las juntas de investigación del Centro de Seguros de Tráfico sobre accidentes de vehículos a motor mortales de los años 2000–2009, así como los informes de inventario realizados por VTT. 
+
+
+## Página 168
+
+
+## Página 169
+
+## Anexo 1/1 (24) 
+## INFORMES 
+
+
+## Página 170
+
+## Anexo 1/2 (24) 
+
+
+## Página 171
+
+## Anexo 1/3 (24) 
+
+
+## Página 172
+
+## Anexo 1/4 (24) 
+
+
+## Página 173
+
+## Anexo 1/5 (24) 
+
+
+## Página 174
+
+## Anexo 1/6 (24) 
+
+
+## Página 175
+
+## Anexo 1/7 (24) 
+
+
+## Página 176
+
+## Anexo 1/8 (24) 
+
+
+## Página 177
+
+## Anexo 1/9 (24) 
+
+
+## Página 178
+
+## Anexo 1/10 (24) 
+
+
+## Página 179
+
+## Anexo 1/11 (24) 
+
+
+## Página 180
+
+## Anexo 1/12 (24) 
+
+
+## Página 181
+
+## Anexo 1/13 (24) 
+
+
+## Página 182
+
+## Anexo 1/14 (24) 
+
+
+## Página 183
+
+## Anexo 1/15 (24) 
+
+
+## Página 184
+
+## Anexo 1/16 (24) 
+
+
+## Página 185
+
+## Anexo 1/17 (24) 
+
+
+## Página 186
+
+## Anexo 1/18 (24) 
+
+
+## Página 187
+
+## Anexo 1/19 (24) 
+
+
+## Página 188
+
+## Anexo 1/20 (24) 
+
+
+## Página 189
+
+## Anexo 1/21 (24) 
+
+
+## Página 190
+
+## Anexo 1/22 (24) 
+
+
+## Página 191
+
+## Anexo 1/23 (24) 
+
+
+## Página 192
+
+## Anexo 1/24 (24) 
+## Informe de Itella Posti Oy 
+(El informe siguiente ha sido extraído del informe original enviado por correo electrónico.) 
+S224: Itella u otras entidades comerciales que realicen actividades de distribución pueden mejorar la seguridad al planificar las rutas de distribución evitando los pasos a nivel no vigilados. (Se sustituye por la nueva recomendación S11.) La recomendación sigue siendo pertinente, pero debería modificarse para que se refiera únicamente a Itella. En lo que respecta a otras actividades de distribución, el seguimiento es imposible de llevar a cabo. 
+S11: Itella debería mejorar la seguridad al planificar las rutas de distribución evitando los pasos a nivel no vigilados. 
+Informe de Itella: La misma práctica debe aplicarse a todos los titulares de licencias de actividad de distribución. El seguimiento puede ser difícil de llevar a cabo, pero incluso en un seguimiento realizado mediante pruebas de muestreo, cada operador debe poder demostrar cómo ha tenido en cuenta la cuestión en la planificación de las rutas. 
+En el nuevo escenario competitivo, no se puede situar a Itella en una posición desigual entre los demás operadores. 
+Al planificar las rutas de distribución, ya se procura evitar los pasos a nivel cuando es razonablemente viable hacerlo desde el punto de vista del desarrollo de la distribución. No obstante, si resulta justificado cruzar un paso a nivel desde el punto de vista de la realización de la distribución, se puede advertir al repartidor de forma separada de la manera presentada en la sección S223. 
+S225: Entre el correo a distribuir se podría colocar una señal que advierta sobre un lugar peligroso, lo que despertaría al repartidor de correo cuando se acercara al punto de la ruta identificado como peligroso. (Obsoleto.) 
+La recomendación es buena en su concepto, pero ya no es aplicable a la práctica actual. La recomendación debería eliminarse. 
+Esto ha sido aparentemente propuesto para su eliminación también por iniciativa de Itella, pero no se dispone de información sobre quién lo ha hecho ni con qué justificación. 
+Informe de Itella: Como recomendación, sería bueno ofrecer a la persona que realiza la distribución una "alerta" a lo largo de la ruta que indique al repartidor que se aproxima a un punto de peligro identificable. Esta podría ser, por ejemplo, una señal independiente colocada entre los envíos o, posiblemente, una señal basada en información geoespacial y en el dispositivo de navegación, o una marca en el mapa de la ruta cuando este se utilice. 
+Estos informes han sido elaborados por iniciativa del jefe de protección laboral y del jefe de desarrollo del proceso de distribución básica. 
+Jyri-Jukka Laitinen 
+Jefe de protección laboral 
+Itella Posti Oy 
+
+
+## Página 193
+
+## Anexo 2/1 (37) 
+## Reglamentos e instrucciones relativos a los pasos a nivel 
+En este anexo se tratan los reglamentos e instrucciones en la medida en que se refieren a los pasos a nivel. 
+Contenido del anexo: 
+1 Directivas de la UE y especificaciones técnicas de interoperabilidad 
+2 Ley de Uso del Suelo y Construcción 
+3 Ley de la Vía 
+4 Ley de Carreteras 
+5 Ley del Tráfico Rodado 
+6 Reglamento del Tráfico Rodado 
+7 Reglamento del Ministerio de Transportes y Comunicaciones sobre áreas de visibilidad 
+8 Disposición de la Autoridad de Seguridad del Tráfico sobre la estructura y el mantenimiento de la vía 
+9 Instrucciones técnicas de la vía (RATO) 
+10 Disposiciones e instrucciones técnicas de la vía (RAMO)  
+11 Instrucciones generales sobre la señalización de tráfico 
+12 Límites de velocidad 
+## 1 
+### Directivas de la UE y especificaciones técnicas de interoperabilidad 
+### 1.1 Directiva Ferroviaria de Seguridad de la UE (2004/49/CE) 
+Artículo 1 
+### Objeto 
+El objeto de la presente directiva es garantizar el desarrollo y la mejora de la seguridad de los ferrocarriles de la Comunidad y mejorar el acceso al mercado de los servicios ferroviarios: 
+a) armonizando los marcos regulatorios de los Estados miembros, 
+b) definiendo las obligaciones de los distintos operadores, 
+c) estableciendo objetivos de seguridad comunes y métodos de seguridad comunes, con el fin de mejorar la armonización de las normas nacionales, 
+d) exigiendo que en cada Estado miembro se establezca una autoridad de seguridad y un organismo para la investigación de accidentes y situaciones de peligro, 
+e) definiendo principios comunes para la gestión, la regulación y la supervisión de la seguridad ferroviaria. 
+Artículo 9 
+### Sistemas de gestión de la seguridad 
+1. Los titulares de infraestructuras y las empresas ferroviarias deberán implantar un sistema de gestión de la seguridad para garantizar que el sistema ferroviario pueda alcanzar al menos los objetivos de seguridad comunes, que cumpla las normas nacionales de seguridad previstas en el artículo 8 y en el anexo II y los requisitos de seguridad establecidos en las EIS, y que se apliquen las partes pertinentes de los métodos de seguridad comunes. 
+2. El sistema de gestión de la seguridad deberá cumplir los requisitos establecidos en el anexo III e incluir los elementos previstos en el anexo III, adaptados a la naturaleza, el alcance y otros requisitos de la actividad ejercida. Deberá garantizarse la gestión de los riesgos relacionados con la actividad del titular de la infraestructura o de la empresa ferroviaria, incluidos el mantenimiento y el suministro de material, así como la utilización de subcontratistas. Sin perjuicio de las normas nacionales e internacionales de responsabilidad, el sistema de gestión de la seguridad deberá tener en cuenta, cuando sea necesario y cuando sea razonable, los riesgos derivados de las actividades realizadas por otras partes. 
+3. El sistema de gestión de la seguridad del titular de la infraestructura deberá tener en cuenta los efectos de las actividades de las distintas empresas ferroviarias en la red y deberá velar por que todas las empresas ferro-
+
+## Página 194
+
+## Anexo 2/2 (37)
+los requisitos pueden funcionar de acuerdo con las RTE y las normas de seguridad nacionales, así como con las condiciones confirmadas en su certificado de seguridad. Asimismo, el sistema de gestión de la seguridad debe desarrollarse para armonizar los procedimientos de emergencia del gestor de la infraestructura y de todas las empresas ferroviarias que utilicen dicha infraestructura.
+4. Todos los gestores de infraestructura y las empresas ferroviarias deben remitir a la autoridad de seguridad un informe anual de seguridad relativo al año natural anterior, anualmente antes del 30 de junio. El informe de seguridad debe contener:
+a) información sobre cómo se han alcanzado los objetivos de seguridad de la organización y los resultados de los planes de seguridad,
+b) el desarrollo de los indicadores de seguridad nacionales y de los indicadores de seguridad comunes establecidos en el anexo I, en la medida en que sea relevante para la organización que presenta el informe,
+c) los resultados de las auditorías internas de seguridad,
+d) las deficiencias e incidencias detectadas en el tráfico ferroviario y en la gestión de la infraestructura que puedan ser relevantes para la autoridad de seguridad.
+### Artículo 19 Obligación de investigación
+1. Los Estados miembros deben garantizar que el organismo de investigación previsto en el artículo 21 lleve a cabo, tras accidentes graves ocurridos en el sistema ferroviario, una investigación cuyo objetivo sea la posible mejora de la seguridad ferroviaria y la prevención de accidentes.
+2. Además de los accidentes graves, el organismo de investigación previsto en el artículo 21 podrá investigar aquellos accidentes y situaciones de peligro que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidos los defectos técnicos de los subsistemas estructurales o de los factores de interoperabilidad de los sistemas ferroviarios europeos de alta velocidad o convencionales.
+El organismo de investigación decidirá, a su discreción, si debe iniciarse la investigación de un accidente o situación de peligro de este tipo. En su decisión deberá tener en cuenta los siguientes aspectos:
+a) la gravedad del accidente o de la situación de peligro;
+b) si el accidente o la situación de peligro forma parte de una serie de accidentes o situaciones de peligro que sean relevantes para todo el sistema;
+c) el impacto de la situación de peligro en la seguridad ferroviaria a nivel de la Comunidad;
+d) las solicitudes presentadas por los gestores de infraestructura, las empresas ferroviarias, la autoridad de seguridad o los Estados miembros.
+3. El organismo de investigación determinará el alcance de la investigación y el procedimiento a seguir en la misma, teniendo en cuenta los principios y objetivos establecidos en los artículos 20 y 22, así como la información que prevea obtener del accidente o de la situación de peligro para mejorar la seguridad.
+4. En ningún caso la investigación podrá tener por objeto determinar la culpa o la responsabilidad civil.
+Artículo 20
+### Estatus de la investigación
+1. Los Estados miembros deberán definir en su ordenamiento jurídico interno el estatus jurídico de la investigación de modo que los responsables de la investigación puedan desempeñar su tarea de la manera más eficaz y rápida posible.
+2. De conformidad con la legislación vigente en los Estados miembros y, cuando proceda, en cooperación con las autoridades responsables de la investigación judicial, deberá permitirse a los responsables de la investigación, lo antes posible:
+
+
+## Página 195
+
+## Anexo 2/3 (37)
+a) acceder al lugar del accidente o de la situación de peligro e inspeccionar el material rodante correspondiente, la infraestructura relacionada y los equipos de señalización y de control de la circulación;
+b) inventariar sin demora las pruebas y realizar un muestreo supervisado de restos, equipos o piezas de la infraestructura para su examen y análisis;
+c) acceder a la información contenida en los registradores de a bordo de los trenes y en los dispositivos destinados al registro de las comunicaciones verbales y del funcionamiento de los sistemas de señalización y de control de la circulación, así como utilizarla;
+d) acceder a los resultados de los exámenes practicados sobre los cuerpos de las víctimas;
+e) acceder a los resultados de los exámenes practicados al personal del tren y a otro personal ferroviario implicado en el accidente o en la situación de peligro;
+f) interrogar al personal ferroviario implicado y a otros testigos;
+g) acceder a la información pertinente en poder del gestor de la infraestructura, de las empresas ferroviarias interesadas y de la autoridad de seguridad.
+3. La investigación deberá llevarse a cabo con independencia de la investigación judicial.
+Artículo 21
+### Organismo de investigación
+1. Cada Estado miembro deberá garantizar que la investigación de los accidentes y situaciones de peligro previstos en el artículo 19 corra a cargo de un organismo permanente, que deberá contar con al menos una persona que pueda actuar como responsable de la investigación si se produce un accidente o una situación de peligro. Dicho organismo deberá ser independiente, desde el punto de vista organizativo, jurídico y decisorio, de los gestores de infraestructura, de las empresas ferroviarias, de los organismos de recaudación de peajes, de los organismos de concesión de derechos de uso, de las instalaciones notificadas y de todas las partes cuyos intereses puedan entrar en conflicto con la misión encomendada al organismo de investigación. Asimismo, deberá ser funcionalmente independiente de la autoridad de seguridad y de todos los organismos reguladores de los ferrocarriles.
+2. El organismo de investigación desempeñará su misión con independencia de las partes mencionadas en el apartado 1 y dispondrá de los recursos suficientes para este fin. Sus investigadores deberán ostentar una posición que les garantice la independencia necesaria.
+3. Los Estados miembros legislarán para que las empresas ferroviarias, los gestores de infraestructura y, cuando proceda, la autoridad de seguridad estén obligados a notificar inmediatamente al organismo de investigación los accidentes y situaciones de peligro previstos en el artículo 19. El organismo de investigación deberá ser capaz de responder a dichas notificaciones y deberá adoptar las medidas necesarias para iniciar la investigación a más tardar una semana después de la recepción de la notificación de un accidente o de una situación de peligro.
+4. El organismo de investigación podrá combinar las misiones que le incumben en virtud de la presente directiva con actividades de investigación de otros casos distintos de los accidentes y situaciones de peligro ferroviarios, siempre que dicha investigación no comprometa la independencia del organismo.
+5. Cuando proceda, el organismo de investigación podrá solicitar a los organismos de investigación de otros Estados miembros o a la Agencia que aporten conocimientos especializados o realicen inspecciones técnicas, análisis o evaluaciones.
+6. Los Estados miembros podrán encomendar a los organismos de investigación la realización de investigaciones sobre accidentes y situaciones de peligro ferroviarios distintos de los previstos en el artículo 19.
+7. Los organismos de investigación intercambiarán activamente opiniones y experiencias con el fin de desarrollar métodos de investigación comunes, elaborar principios comunes para el seguimiento de las recomendaciones relacionadas con la seguridad y tener en cuenta el desarrollo técnico y científico. La Agencia apoyará a los organismos de investigación en esta tarea.
+
+
+## Página 196
+
+## Anexo 2/4 (37)
+Artículo 22
+### Procedimientos de investigación
+1. El organismo de investigación del Estado miembro en cuyo territorio se haya producido el accidente o la situación de peligro previstos en el artículo 19 deberá investigar dicho accidente o situación de peligro. Si no pudiera determinarse en qué Estado miembro se ha producido el accidente o la situación de peligro, o si se ha producido en la frontera entre dos Estados miembros o en sus inmediaciones, los organismos interesados acordarán cuál de ellos llevará a cabo la investigación, o acordarán llevar a cabo la investigación de forma conjunta. El otro organismo podrá, en el primer supuesto, participar en la investigación y tener acceso a todos los resultados de la misma. Deberá solicitarse a los organismos de investigación de otro Estado miembro que participen en la investigación siempre que, en el accidente o en la situación de peligro, esté implicada una empresa ferroviaria con sede en dicho Estado miembro y autorizada para operar en él. El presente apartado no impedirá a los Estados miembros acordar que los organismos interesados lleven a cabo la investigación de forma conjunta también en otros casos.
+2. El organismo responsable de la investigación de cada accidente o situación de peligro deberá disponer de los medios necesarios para llevarla a cabo, incluidos conocimientos especializados de carácter operativo y técnico. En función de la naturaleza del accidente o de la situación de peligro que se investigue, podrán utilizarse conocimientos especializados procedentes del propio organismo o de fuera del mismo.
+3. La investigación deberá llevarse a cabo con la mayor transparencia posible, de modo que todas las partes puedan ser oídas y los resultados puedan ponerse a su disposición. Se informará regularmente de la investigación y de su progreso a los gestores de infraestructura y a las empresas ferroviarias interesadas, a la autoridad de seguridad, a las víctimas y a sus familiares, a los propietarios de los bienes dañados, a los fabricantes, a los servicios de emergencia implicados y a los representantes del personal y de los usuarios de los servicios, y se les dará, en la medida de lo posible, la oportunidad de presentar sus posiciones y puntos de vista en relación con la investigación, y deberán poder formular observaciones sobre la información presentada en los borradores de informe.
+4. El organismo de investigación deberá concluir sus investigaciones en el lugar del accidente lo antes posible, a fin de que el gestor de la infraestructura pueda reparar la infraestructura y abrirla al tráfico ferroviario lo antes posible.
+Artículo 23
+### Informes de investigación
+1. Deberá elaborarse un informe sobre la investigación del accidente o de la situación de peligro previstos en el artículo 19, en un formato adecuado en función de la naturaleza y gravedad del accidente o de la situación de peligro y de la importancia de los resultados. El informe de investigación deberá indicar los objetivos de la investigación previstos en el artículo 19, apartado 1, y deberá incluir, cuando proceda, recomendaciones relacionadas con la seguridad.
+2. El organismo de investigación publicará el informe final de investigación lo antes posible y, en general, en un plazo de doce meses a partir de la fecha del suceso. El informe de investigación deberá seguir, en la medida de lo posible, la estructura del anexo V. El informe de investigación, incluidas las recomendaciones relacionadas con la seguridad, deberá remitirse a las partes interesadas mencionadas en el artículo 22, apartado 3, así como a los organismos y partes interesadas de otros Estados miembros.
+3. El organismo de investigación publicará anualmente, a más tardar el 30 de septiembre, un informe anual en el que se expongan las investigaciones realizadas durante el año anterior, las recomendaciones relativas a la seguridad formuladas y las medidas adoptadas en cumplimiento de las recomendaciones formuladas anteriormente.
+Artículo 24
+### Información que debe facilitarse a la Agencia
+1. El organismo de investigación notificará a la Agencia la decisión de iniciar una investigación en el plazo de una semana a partir de la adopción de dicha decisión. En dicha notificación se indicará la fecha del suceso, la
+
+## Página 197
+
+## Anexo 2/5 (37) 
+y lugar, así como su tipo y consecuencias desde el punto de vista de las pérdidas de vidas humanas, lesiones y daños materiales. 
+2. El órgano de investigación deberá remitir a la autoridad los informes finales de investigación a que se refiere el apartado 2 del artículo 23 y el informe anual a que se refiere el apartado 3 del artículo 23. 
+Artículo 25 
+### Recomendaciones de seguridad 
+1. Una recomendación de seguridad emitida por el órgano de investigación no creará en ningún caso una presunción de culpa o responsabilidad en relación con un accidente o situación de peligro. 
+2. Las recomendaciones deberán dirigirse a la autoridad de seguridad y, si la naturaleza de la recomendación lo requiere, a otros órganos o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad deberán adoptar las medidas necesarias para garantizar que las recomendaciones de seguridad emitidas por los órganos de investigación se tengan debidamente en cuenta y que, en su caso, se adopten medidas en función de las mismas. 
+3. La autoridad de seguridad y las demás autoridades u órganos, o, en su caso, los demás Estados miembros a los que se hayan dirigido las recomendaciones, deberán remitir al órgano de investigación, al menos una vez al año, un informe sobre las medidas adoptadas o previstas en función de la recomendación. 
+## ANEXO III 
+## SISTEMAS DE GESTIÓN DE LA SEGURIDAD 
+1. Requisitos relativos a los sistemas de gestión de la seguridad 
+El sistema de gestión de la seguridad deberá estar documentado en todos sus aspectos esenciales y describir en particular la distribución de responsabilidades en la organización del titular de la infraestructura o de la empresa ferroviaria. Deberá indicar cómo se garantiza la supervisión en todos los niveles de la gestión, cómo participan el personal y sus representantes en todos los niveles y cómo se garantiza la mejora continua del sistema de gestión de la seguridad. 
+2. Elementos básicos del sistema de seguridad 
+Los elementos básicos del sistema de seguridad son los siguientes: 
+a) una política de seguridad aprobada por el director general de la organización y puesta en conocimiento de todo el personal; 
+b) objetivos cualitativos y cuantitativos para organizar el mantenimiento y la mejora de la seguridad, así como planes y procedimientos para alcanzar dichos objetivos; 
+c) procedimientos para el cumplimiento de los requisitos técnicos y operativos vigentes, nuevos o modificados, o de otras condiciones determinantes, que hayan sido establecidos 
+– en las ETSI, o 
+– en el artículo 8 y en el Anexo II, en lo que se refiere a las normas nacionales de seguridad, o 
+– en otras normas pertinentes, o 
+– en decisiones de las autoridades, 
+así como procedimientos relativos a la verificación del cumplimiento de los requisitos y de otras condiciones determinantes durante todo el ciclo de vida de los equipos y de la explotación; 
+d) procedimientos y métodos para la evaluación de riesgos y la aplicación de medidas de gestión de riesgos siempre que los cambios en las condiciones de explotación o un nuevo material den lugar a nuevos riesgos para la infraestructura o la explotación; 
+e) la prestación de programas y sistemas de formación del personal que garanticen el mantenimiento de la cualificación del personal y la realización adecuada de las tareas; 
+f) disposiciones relativas a la provisión de información suficiente dentro de la organización y, cuando proceda, entre las organizaciones que utilizan la misma infraestructura; 
+
+
+## Página 198
+
+## Anexo 2/6 (37) 
+g) procedimientos y modelos relativos a la forma de documentar la información sobre seguridad y a la definición del procedimiento para la supervisión de la presentación de la información esencial sobre seguridad; 
+h) procedimientos para garantizar la notificación, investigación y evaluación de los accidentes, las situaciones de peligro, las situaciones de "casi accidente" y otros sucesos peligrosos, así como la adopción de las medidas preventivas necesarias; 
+i) planes de actuación en caso de emergencia y planes de alerta y de información, acordados con las autoridades competentes; 
+j) disposiciones relativas a la auditoría interna periódica del sistema de gestión de la seguridad. 
+1.2 Decisión de la Comisión sobre los objetivos comunes de seguridad (Decisión CST 2009/460/CE) 
+Artículo 1 
+### Objeto 
+Por la presente Decisión se establece, de conformidad con el artículo 6, apartado 1, de la Directiva 2004/49/CE, un método común de seguridad que aplicará la Agencia Ferroviaria Europea, en adelante "la Agencia", al calcular los objetivos comunes de seguridad y al evaluar su cumplimiento. 
+### 1.3 Decisión de la Comisión 1 del conjunto CST (2010/409/EU) 
+## ANEXO 
+1.3 Valores de referencia nacionales del riesgo para los usuarios de los pasos a nivel (VRA 3.1 y 3.2)  
+Estado miembro 
+VRA 3.1 (× 10 – 9 ) (*) 
+VRA 3.2 (**) 
+Bélgica (BE) 
+143,0 
+n.d. 
+Bulgaria (BG) 
+124,0 
+n.d. 
+Chequia (CZ) 
+302,0 
+n.d. 
+Dinamarca (DK) 
+55,9 
+n.d. 
+Alemania (DE) 
+69,9 
+n.d. 
+Estonia (EE) 
+168,0 
+n.d. 
+Irlanda (IE) 
+31,4 
+n.d. 
+Grecia (EL) 
+743,0 
+n.d. 
+España (ES) 
+131,0 
+n.d. 
+Francia (FR) 
+78,9 
+n.d. 
+Italia (IT) 
+50,7 
+n.d. 
+Letonia (LV) 
+240,0 
+n.d. 
+Lituania (LT) 
+530,0 
+n.d. 
+Luxemburgo (LU) 
+97,3 
+n.d. 
+Hungría (HU) 
+244,0 
+n.d. 
+Países Bajos (NL) 
+128,0 
+n.d. 
+Austria (AT) 
+181,0 
+n.d. 
+Polonia (PL) 
+264,0 
+n.d. 
+Portugal (PT) 
+508,0 
+n.d. 
+Rumanía (RO) 
+124,0 
+n.d. 
+Eslovenia (SI) 
+365,0 
+n.d. 
+Eslovaquia (SK) 
+249,0 
+n.d. 
+Finlandia (FI) 
+151,0 
+n.d. 
+Suecia (SE) 
+74,2 
+n.d. 
+23,0 
+n.d. 
+Reino Unido (UK) 
+(*) VRA 3.1: número ponderado anual de usuarios de pasos a nivel muertos y gravemente heridos en accidentes significativos / número anual de kilómetros-tren. (**) VRA 3.2: número ponderado anual de usuarios de pasos a nivel muertos y gravemente heridos en accidentes significativos
+
+
+## Página 199
+
+## Anexo 2/7 (37) 
+/ [(número anual de kilómetros-tren × número de pasos a nivel) / número de kilómetros de vía]. Los datos sobre el número de pasos a nivel y de kilómetros de vía no eran fiables en el momento de la recogida de datos (la mayoría de los Estados miembros informaron de los datos relacionados con los indicadores comunes de seguridad en kilómetros de vía en lugar de en kilómetros de vía férrea). En los apartados (*) y (**), número ponderado de muertos y gravemente heridos tal como se define en el apartado d) del artículo 3 de la Decisión 2009/460/CE. 
+### 1.4 Directiva de interoperabilidad (2008/57/CE) 
+## CAPÍTULO I DISPOSICIONES GENERALES 
+### Artículo 1 Objeto y ámbito de aplicación 
+1. El presente directivo tiene por objeto establecer los requisitos que deben cumplirse para lograr la interoperabilidad del sistema ferroviario de modo que sean compatibles con las disposiciones de la Directiva 2004/49/CE. Dichos requisitos se refieren al diseño, construcción, puesta en servicio, mejora, renovación, explotación y mantenimiento de las partes del sistema, así como a la cualificación profesional del personal que participa en la explotación y el mantenimiento del sistema y a las condiciones de salud y seguridad en el trabajo. 
+## ANEXO II SUBSISTEMAS 
+### 1. Lista de subsistemas 
+En lo que se refiere a las cuestiones contempladas en la presente directiva, el sistema ferroviario se divide en los siguientes subsistemas, ya sea: 
+a) por criterios estructurales: 
+— infraestructura, 
+— energía, 
+— mando, control y señalización 
+— material rodante; 
+o 
+b) por criterios operativos: 
+— explotación y gestión del tráfico, 
+— mantenimiento, 
+— aplicaciones telemáticas del transporte de pasajeros y de mercancías. 
+### 2. Descripción de los subsistemas 
+Al elaborar las ETSI relativas a cada subsistema o parte de subsistema, la Agencia presentará una lista de los elementos y aspectos de interoperabilidad. Los subsistemas incluyen en particular los siguientes aspectos o elementos, sin que ello limite la definición de dichos aspectos o elementos de interoperabilidad ni el orden en que se elaboran las ETSI de los subsistemas: 
+2.1 Infraestructura 
+Vías, desvíos, estructuras técnicas (puentes, túneles, etc.), estructuras básicas de las estaciones (andenes, pasos, incluidas las necesidades de las personas con movilidad reducida, etc.) y dispositivos de seguridad y protección. 
+2.2 Energía 
+Sistema de electrificación, incluidos los equipos relacionados con las líneas aéreas y las partes instaladas en las unidades de material rodante de los dispositivos de medición del consumo eléctrico. 
+
+
+## Página 200
+
+## Anexo 2/8 (37) 
+2.3 Mando, control y señalización 
+Todos los equipos necesarios para garantizar la seguridad, el mando y la supervisión de los trenes autorizados a circular en la red. 
+2.4 Explotación y gestión del tráfico 
+Procedimientos y equipos relacionados que permitan garantizar la utilización coherente de los distintos subsistemas estructurales, tanto en condiciones normales como de funcionamiento deficiente, incluidos en particular la conducción de trenes de formación y la planificación y gestión del tráfico.  
+La aptitud profesional requerida para la prestación transfronteriza de servicios en todos sus aspectos. 
+2.5 Aplicaciones telemáticas 
+De conformidad con el Anexo I, este subsistema se compone de dos partes: 
+a) aplicaciones al transporte de pasajeros, incluidos los sistemas de información para los pasajeros antes y durante el viaje, los sistemas de reserva, los sistemas de pago, el equipaje y la organización de conexiones entre trenes y con otros modos de transporte; y 
+b) aplicaciones al transporte de mercancías, incluidos los sistemas de información (seguimiento en tiempo real de mercancías y trenes), los sistemas de clasificación y distribución, los sistemas de reserva, pago y facturación, la organización de conexiones con otros modos de transporte y la emisión de documentos de acompañamiento en formato electrónico. 
+2.6 Material rodante 
+Estructuras, sistema de mando y supervisión de todos los equipos del tren, equipos de captación de corriente, equipos de tracción, equipos de conversión de energía, equipos de frenado, equipos de enganche, equipos de bogies (bogies, ejes) y suspensión, puertas, interfaces hombre-máquina (conductor, personal del tren, pasajeros, incluidas las necesidades de las personas con movilidad reducida), dispositivos de seguridad pasivos y activos y dispositivos de protección de la salud de los pasajeros y del personal del tren. 
+2.7 Mantenimiento 
+Procedimientos, medios relacionados, instalaciones logísticas de trabajo de mantenimiento y almacenes que permitan la realización de las acciones de mantenimiento correctivo o preventivo obligatorias 
+## 2 
+### Ley de ordenación del territorio y de la construcción (132/1999) 
+### § 2 Ámbito de aplicación de la ley 
+En la planificación, construcción y uso de las zonas se cumplirán las disposiciones de la Ley de ordenación del territorio y de la construcción, salvo disposición en contrario. 
+### § 4 Sistema de planificación del uso de las zonas 
+Para la ordenación y el uso de las zonas del municipio se elaborarán planes generales y planes parciales. El plan general indicará las líneas generales del uso de las zonas en el municipio. El plan parcial indicará la ordenación del uso y la construcción de la subzona del municipio. … 
+El plan regional contiene un plan de carácter general sobre el uso de las zonas en la región o en una subzona de la misma. 
+### § 5 Objetivos de la planificación del uso de las zonas 
+El objetivo de la planificación del uso de las zonas es promover, sobre la base de la planificación interactiva y de una evaluación de impacto suficiente:
+
+## Página 201
+
+## Liite 2/9 (37)
+1) creación de un entorno de vida y actividad que sea seguro, saludable, agradable, socialmente funcional y que satisfaga las necesidades de diferentes grupos de población, como niños, ancianos y personas con discapacidad;
+11) organización adecuada del tráfico y, en particular, las condiciones de funcionamiento del transporte público y del tráfico ligero.
+## 3
+### Ley del ferrocarril (110/2007)
+### 17 § Establecimiento de pasos a nivel y cruce de la vía férrea
+Solo se podrá construir un nuevo paso a nivel permanente en la parte de baja densidad de tráfico de la red ferroviaria distinta de la red troncal. La ubicación de un paso a nivel existente en la red troncal podrá trasladarse si con el traslado se puede mejorar significativamente la seguridad del paso a nivel o por otra razón especial. Para la construcción o el traslado de un paso a nivel se requiere el permiso del titular de la vía.
+El permiso para construir un nuevo paso a nivel podrá concederse al titular de la carretera o al propietario del inmueble si la construcción de un nuevo paso a nivel es necesaria para el acceso obligatorio a los inmuebles y la seguridad del paso a nivel se garantiza mediante dispositivos de seguridad u otros arreglos.
+Si el uso del paso a nivel aumenta sustancialmente o cambia su finalidad, el titular de la carretera o el propietario del inmueble deberá solicitar el permiso del titular de la vía que justifique el uso incrementado o modificado.
+El titular de la vía puede incluir en el permiso relativo a la construcción o a un nuevo uso de un paso a nivel condiciones relativas a la construcción y el mantenimiento.
+Se podrá conceder permiso para un paso a nivel temporal de obra si el paso a nivel no supone un peligro para la seguridad del tráfico.
+El titular de la vía podrá conceder permiso para cruzar la vía férrea con motonieve durante el período de cobertura de nieve en un paso a nivel situado en un camino forestal cerrado al tráfico de motor distinto del de las motonieves. El permiso podrá concederse para un tramo de vía de baja densidad de tráfico fuera de la red troncal por un plazo máximo de cinco años y solo si, mediante las condiciones del permiso, se puede garantizar que el uso de la motonieve no dañe la vía ni la funcionalidad de las estructuras del área ferroviaria, no perjudique el mantenimiento de la vía y no ponga en peligro la seguridad del tráfico.
+La policía, la aduana y el servicio de guardia fronteriza podrán obtener del titular de la vía, por un plazo determinado, permiso para cruzar el paso a nivel de la vía férrea con motonieve y otros vehículos todoterreno también en otros lugares distintos del tramo de vía mencionado en el apartado 6 anterior, en las condiciones definidas con mayor precisión en el permiso.
+### 18 § Supresión de pasos a nivel
+Para mejorar la seguridad del tráfico y aumentar la eficiencia del tráfico ferroviario, el plan ferroviario puede designar un paso a nivel para su supresión o los pasos a nivel para su reorganización, así como designar restricciones de uso para el paso a nivel o sistemas y dispositivos relacionados con la seguridad de los pasos a nivel. Si en el plan ferroviario se designa un paso a nivel para su supresión, el plan ferroviario deberá designar la organización de un nuevo acceso. El titular de la vía realizará la nueva carretera y el paso a nivel necesarios o adquirirá el derecho a una carretera ya existente.
+El titular de la vía podrá suprimir el paso a nivel de una carretera privada designado para su supresión en el plan ferroviario, cuando se haya organizado un acceso sustitutivo aprobado y conforme al plan.
+El titular de la vía suprimirá el paso a nivel contrario al plan de ordenación urbanística, cuando se haya construido el acceso sustitutivo aprobado y se haya adoptado la decisión de mantenimiento de la calle.
+Si de un paso a nivel existente de una carretera privada se deriva un peligro inmediato para la seguridad de los trenes o del tráfico, el titular de la vía podrá, por decisión propia, ordenar su cierre, supresión
+
+
+## Página 202
+
+## Liite 2/10 (37)
+o traslado, así como imponer restricciones al tráfico de vehículos en el paso a nivel. El titular de la vía deberá notificar con antelación suficiente al titular de la carretera o al propietario del inmueble el cambio previsto en este apartado. Tras adoptar la decisión, el titular de la vía deberá solicitar una actuación de propiedad privada en la que se organicen los accesos sustitutivos necesarios y se traten las cuestiones relativas a las indemnizaciones.
+### 34 § Realización, modificación y mantenimiento del paso a nivel y de la carretera que conduce al mismo
+El titular de la carretera o el propietario del inmueble estará obligado a realizar el tramo de carretera relacionado con el paso a nivel y a mantenerlo de conformidad con las instrucciones de la Agencia de Transporte de tal manera que no suponga un peligro para el tráfico ni para la seguridad de los trenes, ni perjudique el mantenimiento de la vía.
+El titular de la carretera o el propietario del inmueble realizará el paso a nivel a su costa.
+El titular de la carretera o el propietario del inmueble estará obligado a eliminar o reducir el peligro para el tráfico o el perjuicio para el mantenimiento de la vía derivados del uso significativamente aumentado o modificado del paso a nivel, modificando la carretera o realizando disposiciones de cruce de la manera prevista en las disposiciones de la Agencia de Seguridad del Tráfico. Si el titular de la carretera o el propietario del inmueble incumple su obligación, la Agencia de Transporte podrá ejecutar o hacer ejecutar las medidas previstas en este apartado a costa del titular de la carretera o del propietario del inmueble, de la manera establecida en la Ley de multas coercitivas (1113/1990).
+### 35 § Efecto de los trabajos ferroviarios en los pasos a nivel
+Si una carretera se interrumpe debido a la construcción de la vía férrea, el titular de la vía deberá realizar a su costa los trabajos y ejecutar los dispositivos necesarios para conducir la carretera a través del área ferroviaria.
+Si con motivo de la construcción de la vía férrea las condiciones del paso a nivel se deterioran poniendo en peligro la seguridad del tráfico o cambian en aspectos esenciales de manera contraria a las disposiciones de la Agencia de Seguridad del Tráfico, el titular de la vía estará obligado a adecuar la carretera relacionada con el paso a nivel a las disposiciones de la Agencia de Seguridad del Tráfico o a dejarla como antes, o a suprimir el paso a nivel.
+### 38 § Zona de visibilidad
+En el plan ferroviario podrá designarse una zona de visibilidad. En el paso a nivel entre la vía férrea y otra carretera distinta de la carretera nacional, está prohibido mantener edificaciones también fuera de la zona de protección en un área en la que sea necesario mantener libre de obstáculos que la limiten la zona de visibilidad por razones de seguridad del tráfico.
+El titular de la vía tiene derecho a eliminar de la zona de visibilidad aquella vegetación o aquellos obstáculos naturales que, al limitar la zona de visibilidad necesaria, supongan un peligro para la seguridad del tráfico.
+La zona de visibilidad del paso a nivel entre la carretera nacional y la vía férrea se regula en la sección 45 de la Ley de carreteras.
+### 89 § Mantenimiento del paso a nivel, de la carretera relacionada y de los puentes
+El titular de la vía mantendrá la carretera y el paso a nivel de la vía férrea en cuanto a la anchura de su superficie. El titular de la carretera es responsable del mantenimiento invernal de la carretera.
+El titular de la vía instalará y mantendrá a su costa en la carretera los dispositivos de aviso y las señales de paso a nivel situados en el paso a nivel de la vía férrea, salvo que se acuerde de otra manera en cuanto a la responsabilidad de los costes.
+Cuando se construya una nueva carretera por iniciativa del titular de la carretera en el área ferroviaria, el titular de la carretera o de la calle se encargará a su costa de la instalación de los dispositivos de aviso y las señales de paso a nivel.
+El titular de la carretera instalará y mantendrá a su costa las señales de tráfico que adviertan sobre la vía férrea.
+
+
+## Página 203
+
+## Liite 2/11 (37)
+El mantenimiento de los puentes de cruce entre la carretera y la vía férrea corresponderá a aquel titular de la vía cuya vía bajo su responsabilidad cruce la otra vía, salvo que se acuerde de otra manera. El mantenimiento de los puentes comunes entre la carretera y la vía férrea se acordará entre las partes.
+En esta sección, lo dicho sobre el titular de la carretera es aplicable, en la medida pertinente, también al titular de la calle.
+## 4
+### Ley de carreteras (503/2005)
+### 45 § Zona de visibilidad
+En una curva de la carretera nacional o donde a la carretera se una otra carretera nacional o una carretera privada importante, o donde una vía férrea cruce la carretera nacional, está prohibido mantener edificaciones también fuera de la zona de protección en un área en la que sea necesario mantener libre de obstáculos que la limiten la zona de visibilidad por razones de seguridad del tráfico (zona de visibilidad).
+La autoridad de mantenimiento de carreteras tiene derecho a eliminar de la zona de visibilidad aquella vegetación o aquellos obstáculos naturales que, al limitar la zona de visibilidad necesaria, supongan un peligro para la seguridad del tráfico.
+### 46 § Estructuras y dispositivos fuera del área de la carretera
+En la zona de protección y de visibilidad de la carretera nacional no se podrá mantener ningún almacén, valla u otra estructura o dispositivo del que o cuyo uso se derive un peligro para la seguridad del tráfico o un perjuicio para el mantenimiento de la carretera.
+### 47 § Facultad de excepción
+Por razones especiales, la autoridad de mantenimiento de carreteras podrá conceder una excepción a las prohibiciones previstas en las secciones 44–46 si considera que la seguridad del tráfico no se verá amenazada y que para el mantenimiento de la carretera no se derivará ningún perjuicio distinto de, como máximo, un leve perjuicio. A la decisión de excepción podrán adjuntarse las condiciones necesarias.
+### 48 § Excepciones a las restricciones
+Las disposiciones de las secciones 44–47 anteriores no serán aplicables si la vegetación se ha plantado o sometido a un cuidado especial, o si el edificio, almacén, valla u otra estructura o dispositivo se ha construido antes de que el derecho de uso del área quedara sujeto a las restricciones establecidas en las secciones mencionadas o a las correspondientes previstas en una ley anterior.
+Si la vegetación mencionada en el apartado 1, o el edificio, estructura o dispositivo, supone un peligro para la seguridad del tráfico o un perjuicio para el mantenimiento de la carretera, la autoridad de mantenimiento de carreteras podrá, por decisión propia, ordenar su supresión o traslado, así como ordenar la modificación necesaria que deba realizarse en el mismo. Si el propietario no ejecuta la medida en el plazo razonable establecido al efecto, la autoridad de mantenimiento de carreteras tendrá derecho a ejecutarla a su costa.
+Lo dispuesto en las secciones 44–47 y en los apartados 1 y 2 de la presente sección no se aplicará al mantenimiento de edificaciones en el área del plan de ordenación urbanística ni a la eliminación de aquella vegetación que tenga una especial importancia desde el punto de vista del medio ambiente.
+### 49 § Procedimiento relativo a la eliminación de vegetación y obstáculos naturales
+Antes de que la autoridad de mantenimiento de carreteras proceda a eliminar la vegetación prevista en el apartado 2 de la sección 44 y en el apartado 2 de la sección 45, o los obstáculos naturales previstos en esta última disposición, deberá notificarlo al propietario o poseedor del inmueble correspondiente o citarlo con antelación suficiente antes de proceder a la medida. El propietario del inmueble podrá, si lo desea, encargarse personalmente de las medidas de acuerdo con las indicaciones de la autoridad de mantenimiento de carreteras.
+
+## Página 204
+
+## Anexo 2/12 (37)
+### 109 § Normas y disposiciones más detalladas
+… La definición de las zonas de visibilidad de las carreteras se establece por decreto del Ministerio de Transportes y Comunicaciones. (22.12.2009/1242) …
+## 5
+### Ley de Tráfico por Carretera (267/1981)
+### 7 § Paso sin obstáculos para los trenes. Cruce de la vía férrea
+Debe concederse al tren un paso sin obstáculos. En esta sección, por tren se entiende todo vehículo que circula sobre raíles ferroviarios.
+El usuario de la vía que se aproxime a un paso a nivel de la vía férrea debe observar especial precaución y, a pesar de las posibles instalaciones de protección, vigilar si se aproxima un tren. En tal caso, el conductor debe circular a una velocidad que permita detener el vehículo antes de la vía si es necesario.
+No se debe iniciar el cruce de la vía férrea si se aproxima un tren, o si la señal luminosa obliga a detenerse, suena una señal sonora especial, o la barrera está abajo o en movimiento. En tal caso, hay que detenerse a una distancia segura de la vía, antes de la señal o la barrera. Cuando se tenga permiso para cruzar la vía férrea, el cruce debe realizarse sin demora.
+## 6
+### Reglamento de Tráfico por Carretera (182/1982)
+### 13 § Señales de advertencia
+La señal de advertencia se coloca, salvo que se disponga lo contrario más adelante, en el lado derecho de la calzada o por encima de la calzada. Cuando la señal se coloca en el lado derecho de la calzada, una señal similar puede colocarse, por un motivo especial, además en el resalte de la calzada, en el lado izquierdo de la calzada o por encima de la calzada.
+Salvo que se disponga lo contrario más adelante, la señal de advertencia se coloca a una distancia de al menos 150 y como máximo 250 metros antes del punto de peligro. ... En núcleos urbanos y, por un motivo especial, también en otros lugares, la señal de advertencia puede colocarse más cerca del punto de peligro de lo dispuesto anteriormente. Si la señal de advertencia se coloca más lejos del objeto de lo dispuesto anteriormente, debe utilizarse en la señal el panel complementario 815. La señal de advertencia puede repetirse si es necesario.
+Las señales de advertencia son … 171 Paso a nivel de la vía férrea sin barreras, 172 Paso a nivel de la vía férrea con barreras, 173–175 Señales de aproximación al paso a nivel de la vía férrea: las señales se sitúan a intervalos iguales antes del paso a nivel, de modo que la señal 173 está más lejos del paso a nivel, bajo la señal 171 o 172 en el mismo poste.
+176 Paso a nivel de la vía férrea de vía única, 177 Paso a nivel de la vía férrea de dos o más vías: la señal está inmediatamente antes de la vía más próxima.
+171. Paso a nivel de la
+172. Paso a nivel de la
+173.       174.      .175.
+176. Paso a nivel de la
+177. Paso a nivel de la
+vía férrea sin barreras
+vía férrea con barreras
+Señales de aproximación al
+vía férrea de vía única
+vía férrea de dos o más
+paso a nivel de la vía férrea
+vías
+
+
+## Página 205
+
+## Anexo 2/13 (37)
+### 14 § Prioridad y señales de ceda el paso
+Las señales de prioridad y de ceda el paso se colocan en el lado derecho de la calzada. Por un motivo especial, una señal similar puede colocarse además en el resalte de la calzada, en el lado izquierdo de la calzada o por encima de la calzada.
+Señal 232 Detención obligatoria: la señal indica que el vehículo que llega a un cruce o a una vía siempre debe detenerse en la línea de detención. Donde no haya línea de detención, el vehículo debe detenerse inmediatamente antes de la vía transversal en un punto que ofrezca la mejor visibilidad posible de la vía transversal. La señal indica también que el vehículo debe ceder el paso a los vehículos y tranvías que llegan al cruce desde la vía transversal o desde la dirección con prioridad. … En el paso a nivel de la vía férrea, la señal indica que el vehículo debe detenerse en el punto de la señal antes de cruzar el paso a nivel.
+## 7
+### Decreto del Ministerio de Transportes y Comunicaciones sobre zonas de visibilidad (65/2011)
+### 1 § Objeto y ámbito de aplicación
+Las carreteras y los pasos a nivel de la vía férrea se diseñan y las zonas de visibilidad se definen de modo que se alcancen las visibilidades suficientes desde el punto de vista de la seguridad vial, la flexibilidad del tráfico y la capacidad de transporte. Las zonas de visibilidad se definen de conformidad con este decreto:
+1) en la curva de la carretera;
+2) en la intersección de carreteras y en la intersección de una carretera con una vía privada significativa; y
+3) en el paso a nivel entre la vía férrea y las carreteras o entre la vía férrea y las vías privadas.
+Las disposiciones del decreto se refieren a carreteras nuevas y a mejorar, y a pasos a nivel de la vía férrea nuevos y a mejorar. Las disposiciones del decreto no se refieren a vías privadas.
+### 2 § Definiciones
+En este decreto se entiende por carretera:
+1) visibilidad de detención: la distancia desde la que el conductor del vehículo debe ver el obstáculo de la vía para poder detener su vehículo antes del obstáculo en condiciones normales;
+2) visibilidad de cruce: la distancia desde la que los conductores de dos vehículos que circulan en direcciones opuestas deben avistarse mutuamente para poder detenerse en condiciones normales y evitar una colisión;
+3) visibilidad de adelantamiento: la distancia que el conductor del vehículo debe ver en la dirección de la vía para poder adelantar en condiciones normales al vehículo que circula por delante sin que el vehículo que circula en dirección opuesta y que se haga visible en el momento de iniciar el adelantamiento tenga que reducir su velocidad;
+4) visibilidad de incorporación: la distancia desde la que el conductor del vehículo que tiene la obligación de ceder el paso en un enlace a nivel debe ver en la dirección de la vía con prioridad para poder valorar la situación de tal manera que pueda girar hacia la vía con prioridad o cruzarla; y
+5) velocidad de cálculo: la velocidad de circulación utilizada en el dimensionamiento de la carretera.
+En este decreto se entiende por vía férrea:
+1) visibilidad de paso a nivel: la distancia desde la que el usuario de la vía que se aproxima a un paso a nivel de la vía férrea debe ver en la dirección de la vía para poder valorar la situación de tal manera que pueda cruzar la vía o detener su vehículo antes de la vía;
+2) visibilidad de detención en el paso a nivel de la vía férrea: la distancia desde la que el conductor del vehículo debe ver la zona del paso a nivel y la señal de paso a nivel de la vía férrea para poder detener su vehículo antes del obstáculo en condiciones normales; y
+3) aparato de advertencia: el dispositivo con el que se advierte al tráfico por carretera de la presencia de unidades circulando por la vía en el paso a nivel de la vía férrea.
+
+
+## Página 206
+
+## Anexo 2/14 (37)
+### 3 § Principios básicos de las zonas de visibilidad
+En la carretera debe existir la visibilidad necesaria para detener el vehículo de forma segura. En las carreteras de dos carriles con tráfico en ambos sentidos deben establecerse suficientes tramos con posibilidad de adelantamiento. En las carreteras de carril ancho con tráfico en ambos sentidos, en las que se puede adelantar en el propio carril, y en las carreteras de un solo carril con tráfico en ambos sentidos, debe haber en cada punto al menos visibilidad de cruce.
+En los enlaces a nivel de las carreteras, la zona de visibilidad se define de modo que el conductor del vehículo que llega desde la dirección con obligación de ceder el paso y se ha detenido en ella pueda cruzar la carretera de forma segura o girar hacia ella desde otra vía. En el paso a nivel de la vía férrea debe haber visibilidad de paso a nivel en ambos sentidos de la vía desde ambos lados de la misma.
+### 4 § Longitudes mínimas de visibilidad en la carretera
+Las longitudes mínimas de visibilidad son las siguientes: Entre los motivos especiales a que se refieren la tabla y lo dispuesto más adelante se encuentran, por ejemplo, los costes desproporcionados derivados de la acondicionamiento de la zona de visibilidad y la ubicación, dentro de la zona de visibilidad, de un objeto que deba protegerse por su paisaje, valores naturales, entorno construido, valores históricos y culturales u otros valores ambientales especiales. El gestor de la vía define el límite de la zona de visibilidad y la necesidad de desbroces y cortes en función de las longitudes mínimas definidas en el apartado 1, teniendo en cuenta la forma de la alineación y la línea de nivel, la sección transversal, el terreno y la magnitud de la capa de nieve.
+
+
+## Página 207
+
+## Anexo 2/15 (37)
+### 6 § Visibilidades de paso a nivel de la vía férrea
+La señal de paso a nivel debe ser visible en un trayecto de al menos la visibilidad de detención. La visibilidad de detención se define como en las intersecciones de carreteras de conformidad con el artículo 4. La zona de visibilidad del paso a nivel de la vía férrea se define de conformidad con la figura 5.
+Figura 5. Visibilidades de paso a nivel de la vía férrea.
+Los valores indicados en la tabla son las longitudes mínimas de la visibilidad de paso a nivel. Los valores entre paréntesis pueden utilizarse si la obtención de la visibilidad de paso a nivel causa costes desproporcionados. Los valores también pueden utilizarse si en la zona de visibilidad hay objetos que deban protegerse por su paisaje, valores naturales, entorno construido, valores históricos y culturales u otros valores ambientales especiales. Las demás condiciones de la vía en el paso a nivel deben ser buenas en tal caso. Si no se alcanza la visibilidad, deben instalarse aparatos de advertencia en el paso a nivel. La instalación de un aparato de advertencia no autoriza la degradación de la visibilidad existente.
+
+
+## Página 208
+
+## Anexo 2/16 (37)
+### Disposición de la Agencia de Seguridad Ferroviaria Estructuras y mantenimiento de la vía (TRA-
+## FI/14473/03.04.02.00/2010)
+### 1 Ámbito de aplicación y entrada en vigor de la disposición
+La disposición se aplica a la vía nueva, a renovar y a mejorar que pertenece al sistema ferroviario convencional, en la que la medida nominal del ancho de vía es de 1524 mm, así como al mantenimiento de la vía.
+La disposición se aplica al paso a nivel de la vía férrea nuevo, a renovar y a mejorar y al registro del paso a nivel de la vía férrea.
+Esta disposición no se aplica al paso a nivel de la vía férrea en el que esté impedida la circulación de las vías relacionadas con el paso a nivel de la vía férrea, o en el que la velocidad máxima de la vía o vías sea como máximo de 20 km/h, o al paso a nivel de las obras de vía, o al paso a nivel de la vía férrea situado en una zona en la que esté prohibido el acceso y la permanencia sin permiso del titular de la zona, al que se acceda por una valla o esté impedido estructuralmente de otro modo, y en la que las restricciones de acceso y permanencia estén claramente señalizadas.
+Un paso a nivel de la vía férrea situado en la red TEN a que se refiere la Decisión del Parlamento Europeo y del Consejo N° 1692/96/CE, en lo sucesivo Decisión de la red TEN, sobre las directrices para el desarrollo de la red de transporte paneuropea, que no sea conforme a esta disposición, deberá adaptarse a esta disposición antes del final del año 2030, salvo que la vía relacionada con el paso a nivel de la vía férrea se renueve o mejore antes.
+Un paso a nivel de la vía férrea situado en la red TEN a que se refiere la Decisión de la red TEN que no sea conforme a esta disposición a más tardar antes del final del año 2030, deberá retirarse del servicio.
+### 3 General
+No se puede construir en el paso a nivel de la vía férrea una nueva aguja ni un cierre de vía.
+### 8 Pasos a nivel de la vía férrea
+### 8.1 Disposiciones de construcción
+La longitud del paso a nivel de la vía férrea en la dirección de la carretera o del paso peatonal puede ser como máximo de 60 m, medida desde el borde exterior de los raíles exteriores de las vías exteriores hasta el centro de la carretera o del paso peatonal. El ángulo agudo entre el paso a nivel de la vía férrea y la carretera o el paso peatonal debe ser de al menos 70 grados. En el paso a nivel de la vía férrea debe haber una instalación de barreras cuando la velocidad máxima de la vía relacionada con el paso a nivel sea superior a 100 km/h y cuando el tráfico medio diario (TMD) sea superior a 2000 vehículos.
+El paso a nivel de la vía de servicio debe estar equipado con una barrera/puerta con cerradura.
+La velocidad máxima de la vía con paso a nivel de la vía férrea puede ser como máximo de 140 km/h en un trayecto de al menos 800 m antes del paso a nivel de la vía férrea, salvo que el cruce del paso a nivel de la vía férrea esté impedido por una barrera o puerta con cerradura. La barrera o puerta con cerradura debe estar bajo la supervisión del control de tráfico y conectada de modo que se impida la autorización de la ruta de circulación del tren si la barrera o la puerta no está cerrada con llave y bajo la supervisión del control de tráfico.
+En el paso a nivel de la vía férrea en el que la vía tenga un raíl acanalado o una estructura similar, la velocidad máxima de la vía puede ser como máximo de 50 km/h.
+La carretera o el paso peatonal que conduce al paso a nivel de la vía férrea debe ser recto en un trayecto de al menos 30 m antes del paso a nivel de la vía férrea (medido desde el borde exterior de la cabeza del raíl más próximo de la carretera que conduce al paso a nivel de la vía férrea hasta el centro de la carretera). La Agencia de Seguridad Ferroviaria puede conc-
+
+## Página 209
+
+## Anexo 2/17 (37) 
+de la excepción exigida, si no es posible modificar la carretera o el paso a nivel. La carretera 
+debe, sin embargo, ser recta durante un tramo de al menos 8 metros. El requisito de rectitud de 
+la carretera o el paso a nivel que conduce a un cruce a nivel de ferrocarril no se aplica a los 
+caminos de andén o a los cruces a nivel de carreteras de mantenimiento. 
+La pendiente longitudinal de la carretera que conduce a un cruce a nivel de ferrocarril, en un 
+tramo de 5 m antes del tablero del cruce a nivel de ferrocarril, no puede superar el 0,2 %. En 
+los 25 m anteriores, la pendiente longitudinal de la carretera no puede superar el 1,5 %, si el 
+cruce del ferrocarril está permitido para vehículos articulados. Si el cruce no está permitido 
+para vehículos articulados, la pendiente longitudinal puede ser de hasta el 1,5 % en un tramo 
+de 5-15 m antes del cruce a nivel. 
+La inclinación de la vía en el cruce a nivel de ferrocarril no puede superar los 100 mm. 
+La pendiente longitudinal de la carretera entre las vías puede desviarse de la pendiente 
+longitudinal del tablero del cruce a nivel de ferrocarril en un máximo del 0,2 %. 
+El tablero del cruce a nivel de ferrocarril debe estar fijado de modo que, cuando esté cargado, 
+pueda desplazarse verticalmente un máximo de 20 mm en comparación con la situación sin 
+carga. El movimiento longitudinal debe impedirse. 
+El tablero del cruce a nivel de ferrocarril debe corresponder a la inclinación de la vía. 
+El tablero del cruce a nivel de ferrocarril debe sobresalir, en una carretera o paso a nivel 
+con revestimiento, al menos 0,5 m a ambos lados fuera del borde del revestimiento y, en una 
+carretera o paso a nivel sin revestimiento, al menos 0,5 m a ambos lados fuera del ancho total 
+de la carretera o paso a nivel. 
+El tablero del cruce a nivel de ferrocarril debe extenderse, fuera de la vía, al menos a una 
+distancia de 450 mm desde el borde exterior de la cabeza del raíl. 
+En el cruce a nivel de ferrocarril, en el lado del borde de rodadura del raíl, debe existir un 
+espacio para la pestaña de la rueda, cuya profundidad debe ser de al menos 38 mm. El ancho 
+de este espacio debe ser de al menos 45 mm (+posible ensanchamiento de la ranura de la 
+pestaña) y de como máximo 90 mm. En raíles de canal o en estructuras fijas equivalentes, el 
+ancho de este espacio debe ser de al menos 41 mm. Este espacio puede rellenarse con un 
+material elástico que la pestaña de la rueda con un peso por eje de 3 toneladas del material 
+rodante que circula por la vía sea capaz de desplazar. 
+En el cruce a nivel de ferrocarril, con excepción del cruce a nivel de ferrocarril al que se le 
+haya concedido permiso de cruce para el tráfico de motos de nieve, el tablero del cruce a nivel 
+situado entre los raíles de la vía debe estar a la altura de la cabeza del raíl más cercano o a 
+como máximo 25 mm por encima de la altura de la cabeza del raíl más cercano. 
+En el cruce a nivel de ferrocarril, con excepción del cruce a nivel de ferrocarril al que se le 
+haya concedido permiso de cruce para el tráfico de motos de nieve: 
+- la distancia entre el tablero del cruce a nivel de ferrocarril situado fuera de la vía y el raíl 
+puede ser de como máximo 20 mm 
+- el tablero del cruce a nivel de ferrocarril situado fuera de la vía debe estar a una distancia 
+de al menos 100 mm desde el borde exterior de la cabeza del raíl más cercano, a como 
+máximo la altura de la cabeza del raíl o a como máximo 15 mm por debajo de la altura de la 
+cabeza del raíl (teniendo en cuenta la inclinación de la vía) 
+- la parte del tablero del cruce a nivel de ferrocarril situado fuera de la vía distinta de la 
+establecida en el punto anterior debe estar a la altura de la cabeza del raíl más cercano o a 
+como máximo 25 mm por encima de la altura de la cabeza del raíl más cercano (teniendo en 
+cuenta la inclinación de la vía). 
+En el cruce a nivel de ferrocarril al que se le haya concedido permiso de cruce para el tráfico 
+de motos de nieve, el tablero del cruce a nivel de ferrocarril situado fuera de la vía debe estar 
+a una distancia de al menos 100 mm desde el raíl, a como máximo la altura de la cabeza del 
+raíl más cercano. Entre los raíles y a partir de una distancia de 100 mm
+
+
+## Página 210
+
+## Anexo 2/18 (37) 
+fuera de la vía, el tablero del cruce a nivel de ferrocarril (teniendo en cuenta la inclinación 
+de la vía) debe estar a una altura de al menos 20 mm y como máximo 50 mm por encima de la 
+altura de la cabeza del raíl. 
+### 8.2 Registro 
+El titular de la red ferroviaria debe llevar un registro de los cruces a nivel de ferrocarril, que 
+debe estar a disposición del Centro de Investigación de Accidentes, la policía, la autoridad de 
+rescate y la Agencia de Seguridad del Transporte. 
+## 9 
+### Instrucciones técnicas de la vía (RATO) 
+### RATO Parte 9, Cruces a nivel 
+Las bases para el diseño, la construcción y el mantenimiento de los cruces a nivel se exponen 
+en la parte 9 de RATO, Cruces a nivel. 
+### Visibilidades 
+La visibilidad del cruce a nivel es la distancia medida desde la carretera hasta la línea de la 
+vía a lo largo de la vía, a una altura de 1,1 m desde la cabeza del raíl, hasta un objeto que 
+puede ver el conductor del vehículo detenido frente al cruce a nivel, cuando la altura del punto 
+ocular desde la superficie de la carretera es de 1,1 m y la distancia desde el raíl más cercano 
+es de 8 m. En el punto 9.2.1.3 de RATO se define la zona de visibilidad en el cruce a nivel de 
+carretera y ferrocarril. La zona de visibilidad en una vía única a una distancia de 8 m desde el 
+raíl más alejado debe ser 6 x V, donde V es la mayor velocidad utilizada en la vía en cuestión 
+en km/h y la distancia se obtiene directamente en metros. Si el requisito anterior no puede 
+cumplirse, debe instalarse en el cruce a nivel un dispositivo de aviso o la velocidad del tren 
+debe ajustarse de acuerdo con las visibilidades. 
+Figura 1. Zona de visibilidad cuando la vía tiene una sola vía. 
+### Trazado de la carretera y ángulo de cruce 
+El ángulo de cruce del cruce a nivel debe ser de al menos 65 gon9 (58,5 °), pero generalmente 
+de 80–100 gon. En las carreteras públicas, la carretera debe ser recta durante 60 metros antes 
+del cruce. En este tramo recto no puede haber enlaces de carretera. 
+9 Gon = porcentaje del ángulo recto (ángulo recto = 90 °). 
+
+
+## Página 211
+
+## Anexo 2/19 (37) 
+Figura 2. Ángulo de cruce del cruce a nivel y trazado de la carretera. En el dibujo: Ls = 
+distancia que la carretera debe ser recta a ambos lados del cruce a nivel; en las carreteras 
+públicas 60 m, en las calles 35 m, en las carreteras privadas (10...) 20 m, en las carreteras 
+forestales 35 m y en las carreteras agrícolas. 
+### Línea de nivelación de la carretera10 
+El valor máximo de la pendiente longitudinal de la carretera es del 1,5 % a ambos lados del 
+cruce a nivel durante un tramo tan largo que la plataforma de espera11 sea suficiente para la 
+detención del vehículo de diseño. En la medida de lo posible, la carretera debe tener 
+pendiente hacia fuera de la vía. La longitud mínima de la plataforma de espera es de 30 m en 
+las carreteras públicas, 10 m en las carreteras privadas, 30 m en las carreteras forestales y 
+15 m en las carreteras agrícolas. 
+### Sección transversal de la carretera 
+En el cruce a nivel, la carretera debe ser al menos tan ancha como en cualquier otro punto, 
+pero de al menos 3,0 m. En los cruces a nivel equipados con barrera de medio o doble 
+barrera, la anchura mínima de la superficie de la carretera es de 6,5 m. 
+### Señales de tráfico del cruce a nivel y su colocación 
+En la parte 17 de RATO, Señales de la vía, se exponen los requisitos de las señales de la vía. 
+En el punto 17.16 se establece que, en la colocación y el uso de las señales de cruce a nivel, 
+debe cumplirse la parte 9 de RATO, Cruces a nivel. En el punto 17.16.1 de RATO se indica 
+que las señales de cruce 176 y 177, con sus posibles placas complementarias, las coloca el 
+titular de la vía de acuerdo con el artículo 51 de la Ley de Tráfico y las demás señales de 
+tráfico con placas complementarias las coloca el titular de la carretera. En las carreteras 
+privadas, el titular de la vía puede colocar las señales de tráfico con el permiso del titular de 
+la carretera (punto 9.2.5.1 de RATO). 
+De acuerdo con el punto 9.2.5.1 de RATO, para la señalización del cruce a nivel se utilizan 
+las señales de aproximación al cruce a nivel (173, 174 y 175) y las señales de cruce (171 o 
+172 y 176 o 177). En el cruce a nivel de una vía electrificada se utiliza además la placa 
+complementaria 823 Altura de la línea aérea que advierte de la vía electrificada. 
+### Mantenimiento del cruce a nivel 
+De acuerdo con el punto 9.2.7.2 de RATO, el mantenimiento del tablero del cruce a nivel (que 
+se extiende más allá del raíl más externo) corresponde al titular de la vía. El límite de las áreas 
+de responsabilidad de los mantenedores de la vía y de la carretera es el borde del tablero del 
+cruce a nivel. La limpieza de nieve en el cruce a nivel corresponde al titular de la carretera. 
+Los montones de nieve generados por el despeje y el rastrillado invernal de las carreteras 
+deben ser retirados por el mantenedor de la carretera a una distancia lo suficientemente 
+10 La línea de nivelación se refiere a la variación de la altura de la superficie de la carretera en la dirección 
+longitudinal de la carretera. 
+11 La plataforma de espera es el área de carretera delimitada en nivelación a ambos lados del cruce a nivel. 
+
+
+## Página 212
+
+## Anexo 2/20 (37) 
+grande para que no causen perjuicios al material rodante que circula por la vía ni a los 
+dispositivos fijos de la vía, y para que no formen un obstáculo a la visibilidad. 
+### Mejora de la seguridad del cruce a nivel 
+En el punto 9.3 de RATO, MEJORA DE LA SEGURIDAD DE LOS CRUCES A NIVEL, se 
+exponen la evaluación de la peligrosidad del cruce a nivel, los factores que influyen en la 
+seguridad de los cruces a nivel, las medidas de mejora de la seguridad y la selección de las 
+medidas de aviso. 
+En el punto 9.3.4 de RATO se dan instrucciones sobre la selección de las medidas de aviso. En 
+los cruces a nivel debería utilizarse un dispositivo de aviso si se cumple alguna de las 
+siguientes condiciones: 
+1. La velocidad local de la vía en el cruce a nivel puede superar los 120 km/h. 
+2. La carretera que cruza la vía es una carretera pública. 
+3. Las visibilidades del cruce a nivel no pueden ajustarse razonablemente a lo indicado en las 
+instrucciones. 
+4. El volumen de tráfico rodado supera los 50 vehículos a motor al día. 
+5. El ángulo de cruce es inferior a 80 gon (100 gon = 90°). 
+6. El enlace de carretera está demasiado cerca del cruce a nivel o la carretera en la dirección 
+de la vía está demasiado cerca de la vía. 
+### RATO Parte 6, Dispositivos de seguridad 
+Las instrucciones son válidas en los encargos de diseño de dispositivos de seguridad 
+solicitados por la Agencia de Transporte y en el mantenimiento a partir del 1.1.2010. Las 
+instrucciones son válidas en los encargos de construcción de dispositivos de seguridad 
+solicitados después del 1.1.2010. 
+### 6.5.3 Dispositivo de aviso 
+El dispositivo de aviso es un sistema asociado a un cruce a nivel o a un camino de andén con 
+el que se advierte a la unidad que circula por los raíles. El funcionamiento del dispositivo de 
+aviso depende del funcionamiento del aparato de enclavamiento o el dispositivo de aviso es un 
+dispositivo de línea. 
+Los requisitos para el equipamiento del dispositivo de aviso con una señal de cruce a nivel se 
+exponen en el punto 6.4.8.2. 
+### 6.5.3.1 Tipos de dispositivos de aviso 
+### 6.5.3.1.1 Dispositivo de barrera 
+El dispositivo de barrera debe estar equipado con barreras, señales de carretera y campanas de 
+aviso. Las barreras pueden ser de barrera completa, de medio o de doble barrera. 
+El dispositivo de barrera debe utilizarse en el cruce a nivel determinado en los criterios de 
+diseño. 
+### 6.5.3.2 Funcionamiento del dispositivo de aviso 
+La alarma del dispositivo de aviso puede iniciarse bajo la dirección de varias condiciones 
+diferentes. La alarma no debe cesar si alguna de las condiciones que la requieren está vigente. 
+La alarma del dispositivo de aviso de un cruce a nivel de varias vías no debe cesar si alguna de 
+las condiciones que la requieren está vigente en alguna de las vías. 
+### 6.5.3.2.1 Estado normal 
+El dispositivo de aviso no debe emitir alarma cuando el dispositivo de aviso se encuentra en 
+estado normal. 
+Cuando el dispositivo de aviso no emite alarma, las barreras del dispositivo de aviso distinto 
+del del camino de andén deben estar levantadas, las señales de carretera deben mostrar una 
+luz blanca parpadeante lentamente y las campanas de aviso no deben sonar. 
+Cuando el dispositivo de aviso no emite alarma, las señales de carretera del dispositivo de aviso 
+del camino de andén no deben mostrar ninguna luz.
+
+## Página 213
+
+## Anexo 2/21 (37)
+### 6.5.3.2.2 Alarma
+La señal de aviso debe al menos emitir alarma durante el tiempo requerido según el tipo de señal de aviso, antes de la llegada a la intersección a nivel de la unidad que circule a la velocidad de la limitación de velocidad o de las limitaciones de velocidad de la sección de alarma.
+La duración de la alarma y el orden de las funciones de la señal de aviso deben ser los establecidos en la tabla 6.5:1 para la señal de barreras. Al tiempo de aviso previo debe añadirse 1 s por cada metro en el que la distancia direccional a la vía entre barreras situadas en lados diferentes de la vía supere los 14 m.
+Tabla 6.5:1 Duración de la alarma y orden de las funciones de la señal de barreras antes de la llegada a la intersección a nivel de la unidad que circule a la velocidad de la limitación de velocidad de la vía.
+| Función | Tiempo requerido | Observación |
+|---|---|---|
+| 1. | Tiempo de aviso previo | ≥ 10 s | Debe tenerse en cuenta la distancia entre barreras |
+| 2. | Tiempo reservado para el descenso de las barreras | 10 s | |
+| 3. | Tiempo reservado para el descenso de la barrera que cierra la vía que sale de la intersección a nivel | 8 s | Solo con señal de aviso equipada con barreras |
+| 4. | Tiempo de aviso | 10 s | |
+
+La señal de aviso equipada con barreras debe hacer que las barreras de las vías que conducen a la intersección a nivel comiencen a descender después del tiempo de aviso previo, y las barreras de las vías que salen de la intersección a nivel deben comenzar a descender 10 s después de que las barreras de las vías que conducen a la intersección a nivel hayan comenzado a descender.
+La duración de la alarma en una señal de aviso no equipada con barreras debe ser de al menos 20 s antes de la llegada a la intersección a nivel de la unidad que circule a la velocidad de la limitación de velocidad o de las limitaciones de velocidad de la sección de alarma.
+Las señales de vía deben mostrar una luz roja parpadeante rápidamente durante la alarma. Las señales de vía deben mostrar una luz blanca parpadeante lentamente al finalizar la alarma o, en una señal de aviso equipada con barreras, cuando las barreras hayan subido más de 60° respecto al plano horizontal.
+Las barreras deben comenzar a descender al finalizar el tiempo de aviso previo y deben permanecer abajo durante la alarma. Las barreras deben comenzar a subir al finalizar la alarma. Las luces de las barreras deben mostrar una luz parpadeante lentamente cuando las barreras comiencen a descender y deben mostrarla hasta que las barreras hayan subido, después de finalizar la alarma, al menos 60° respecto al plano horizontal.
+La campana de aviso debe comenzar a sonar cuando la señal de aviso comience a emitir alarma. La campana de aviso de la señal de barreras debe interrumpirse cuando la sección de vía se prepare.
+### 6.5.3.2.3 Funcionamiento automático
+La señal de aviso se encuentra en estado de funcionamiento automático cuando
+- las secciones de vía y la sección de vía en las secciones de alarma controlan la alarma de acuerdo con las condiciones definidas en la tabla de funciones de la señal de aviso,
+- la señal de aviso no ha sido configurada para emitir alarma de forma manual,
+- el funcionamiento automático de la señal de aviso no ha sido bloqueado mediante una orden del aparato de enclavamiento para una o varias vías y
+- la señal de aviso no presenta una avería que impida su funcionamiento automático.
+La señal de aviso debe emitir alarma cuando la sección de alarma se prepare, si se cumplen las condiciones para iniciar la alarma.
+
+
+## Página 214
+
+## Anexo 2/22 (37)
+El inicio de la alarma puede retrasarse si los tiempos requeridos para la alarma de la señal de aviso en la tabla 6.5:1 se superan antes de la llegada a la intersección a nivel de la unidad que circule a la velocidad de la limitación de velocidad o de las limitaciones de velocidad de la sección de alarma.
+El inicio de la alarma debe retrasarse si los tiempos requeridos para la alarma de la señal de aviso en la tabla 6.5:1 se superan en más de 10 s antes de la llegada a la intersección a nivel de la unidad que circule a la velocidad de la limitación de velocidad o de las limitaciones de velocidad de la sección de alarma.
+El tiempo de retardo de la alarma debe determinarse de modo que la alarma iniciada por la unidad que circule a la velocidad de la limitación de velocidad o de las limitaciones de velocidad de la sección de alarma cumpla los requisitos de duración del tiempo de alarma establecidos en la tabla 6.5:1.
+La alarma debe continuar durante 40 s después de la liberación de la sección de alarma, si la sección de alarma ha estado reservada y las secciones de vía y la sección de vía en las secciones de alarma no se preparan y liberan en el orden correspondiente a la dirección de circulación de la unidad.
+La alarma no debe finalizar si alguna condición que requiera alarma entra en vigor durante el tiempo de retardo de 40 s.
+La alarma causada por la preparación de la sección de alarma debe finalizar cuando las secciones de vía y la sección de vía de la sección de alarma se preparen y liberen en el orden correspondiente a la dirección de circulación de la unidad.
+La alarma debe finalizar en una señal de aviso que no tenga sección de vía, 5 s después de la liberación de las secciones de vía de la primera sección de alarma con respecto a la dirección de circulación de la unidad.
+La señal de aviso debe emitir alarma de nuevo si la sección de alarma posterior a la intersección a nivel con respecto a la dirección de circulación de la unidad que ha cruzado la intersección a nivel no se libera en un plazo de 5 min. El reinicio de la alarma debe impedirse mediante la señal de línea para aquellas secciones de vía pertenecientes a la sección de alarma que puedan permanecer reservadas después de que la unidad que ha cruzado la intersección a nivel se detenga en la señal.
+El efecto de la preparación de las secciones de alarma sobre el funcionamiento de la señal de aviso puede controlarse con la información del itinerario asegurado o de la posición de la aguja.
+### 6.5.3.2.4 Funcionamiento manual
+El uso del conmutador de aviso (TK) debe iniciar la alarma.
+La alarma causada por el uso del conmutador de aviso situado en la sala de aparatos o en la pared exterior de la sala de aparatos solo puede finalizar mediante el uso repetido de dicho conmutador de aviso. La alarma causada por el uso de un conmutador de aviso distinto del situado en la sala de aparatos o en la pared exterior de la sala de aparatos debe finalizar mediante cualquier otro conmutador de aviso distinto del situado en la sala de aparatos o en la pared exterior de la sala de aparatos.
+El uso del botón de aviso específico de vía (TR ON) debe iniciar la alarma.
+La alarma causada por el uso del botón de aviso debe finalizar mediante el uso del botón TR EI de la vía correspondiente, que es el botón específico de vía que finaliza la alarma causada por el uso del botón de aviso. Además de finalizar mediante el uso del botón TR EI de la vía correspondiente, la alarma causada por el uso del botón de aviso debe finalizar de acuerdo con los principios del funcionamiento automático de la señal de aviso para la vía correspondiente.
+La señal de aviso debe poder retirarse de servicio mediante el conmutador de uso (KK). Al retirar la señal de aviso de servicio, las luces de las señales de vía deben apagarse, las barreras de vía deben subir y la campana de aviso debe dejar de sonar.
+
+
+## Página 215
+
+## Anexo 2/23 (37)
+El uso del conmutador de uso impide o finaliza la alarma. La señal de aviso debe emitir alarma si se cumple alguna condición para iniciar la alarma al devolver la señal de aviso al servicio mediante el conmutador de uso.
+El uso del botón de restablecimiento (PAL) debe eliminar la avería de alarma prolongada.
+La señal de aviso puede equiparse con un mando remoto específico de vía que inicie la alarma. Una intersección a nivel equipada con mando remoto debe equiparse con señales de intersección a nivel.
+La alarma específica de vía iniciada mediante mando remoto debe finalizar cuando la sección de vía se haya preparado y liberado, o mediante la orden de mando remoto específico de vía que finalice la alarma.
+### 6.5.3.2.5 Funcionamiento de anulación
+El uso del botón de anulación (PP) debe impedir o finalizar la alarma causada por la preparación de una sección de vía o secciones de vía determinadas, salvo que alguna otra condición que requiera iniciar o continuar la alarma esté vigente o entre en vigor.
+No debe realizarse la función de anulación en una sección de vía perteneciente a la sección de alarma que se encuentre situada delante de la señal que protege la intersección a nivel equipada con señal de aviso.
+La señal de aviso debe disponer de la función de anulación en las secciones de vía en las que sea necesario estacionar material rodante o realizar maniobras de cambio que no alcancen la intersección a nivel sin que la señal de aviso emita alarma. En la figura 6.5:2, la función de anulación debe existir en las secciones de vía Er501, ErV512 y Er5411, si pertenecen a la sección de alarma. La función de anulación debe permitir la realización de maniobras de cambio que no alcancen la intersección a nivel sin que la señal de aviso emita alarma.
+Figura 6.5:2 Función de anulación en las secciones de vía.
+La señal de aviso debe disponer de la función de anulación en aquellas secciones de vía pertenecientes a la sección de alarma en las que la unidad que haya cruzado la intersección a nivel y se haya detenido en la sección de alarma necesite detenerse más de 5 min sin reiniciar la alarma, si la necesidad de detención no se debe a la detención de la unidad en una señal. En la figura 6.5:3, la sección de vía Er6513 debe disponer de la función de anulación para que la unidad pueda detenerse junto al andén de pasajeros durante más de 5 minutos sin reiniciar la alarma.
+Figura 6.5:3 Función de anulación en las secciones de vía.
+La función de anulación debe finalizar si
+- se utiliza el botón TR EI,
+- se asegura un itinerario a través de la sección de vía con la función de anulación activada y la intersección a nivel,
+
+
+## Página 216
+
+## Anexo 2/24 (37)
+- se libera la sección de vía con la función de anulación activada o
+- la sección de vía con la función de anulación activada y que estaba libre al comenzar la función de anulación no se prepara en un plazo de 5 min desde el inicio del uso de la función de anulación.
+Una intersección a nivel de varias vías puede equiparse con un conmutador de anulación específico de vía. El uso del conmutador de anulación debe eliminar el efecto de las secciones de alarma y de la sección de vía de la vía correspondiente sobre el funcionamiento de la señal de aviso.
+### 6.5.3.2.6 Averías y avisos de avería de la señal de aviso
+Las averías de la señal de aviso se dividen en averías críticas y averías no críticas.
+Una avería crítica de la señal de aviso debe causar la indicación de la indicación "Detener" en la señal que protege la intersección a nivel o la indicación "Aproxímese con precaución" en la señal de intersección a nivel.
+Una avería crítica de la señal de aviso debe impedir la realización del tiempo de alarma requerido. El cálculo del tiempo de alarma requerido debe iniciarse desde el principio cuando la señal de aviso emita alarma, una vez eliminada la avería crítica.
+Las averías de la señal de aviso conectada al aparato de enclavamiento deben comunicarse a través del aparato de enclavamiento al control de tráfico. Las averías de la señal de línea deben comunicarse al control de tráfico que dirige la línea o al lugar designado por la Sección Ferroviaria de la Agencia de Transporte.
+Las averías críticas de la señal de aviso son
+- avería de seguridad,
+- avería de sistema,
+- avería de barrera,
+- avería de supervisión de la posición de la barrera y
+- avería de señal de vía.
+Las averías de la señal de aviso que no son críticas son
+- alarma de subtensión,
+- avería de lámpara,
+- avería de alarma prolongada y
+- avería de uso.
+### Avería de seguridad
+La señal de aviso tiene una avería de seguridad cuando no emite alarma o las barreras no descienden a la posición inferior cuando se cumplen las condiciones para la alarma o el descenso de las barreras.
+### Avería de sistema
+La avería de sistema es la situación en la que una avería en el sistema de control de la señal de aviso impide el funcionamiento de la señal de aviso.
+### Avería de barrera
+La avería de barrera es la situación en la que la supervisión de la permanencia de la barrera en su posición no se realiza debido a una avería detectada por el circuito de supervisión de la barrera.
+### Avería de supervisión de la posición de la barrera
+La avería de supervisión de la posición de la barrera es la situación en la que la barrera no alcanza la posición inferior en un tiempo determinado desde que se ha ordenado a la barrera que descienda.
+### Avería de señal de vía
+La avería de señal de vía es la situación en la que no se puede mostrar la luz roja en la señal de vía.
+
+## Página 217
+
+## Anexo 2/25 (37) 
+### Alarma de tensión baja
+La alarma de tensión baja es una situación en la que la tensión de las baterías del aparato de señalización es baja. 
+### Avería de lámpara
+La avería de lámpara es una situación en la que 
+- 
+el señalizador de vía tiene una avería en el cable principal o de reserva, 
+- 
+el señalizador de vía tiene una avería que impide la indicación de la luz blanca, 
+- 
+el señalizador de vía tiene una avería que impide la indicación de la luz roja con una luz roja 
+pero la luz roja puede indicarse con la otra luz roja del señalizador de vía, o 
+- 
+el señalizador de paso a nivel tiene una avería en el cable principal y/o de reserva. 
+### Avería de alarma larga
+La avería de alarma larga es una situación en la que el aparato de señalización alarma en modo de funcionamiento automático durante más de 10 min de modo que la sección de vía no se ha preparado después del inicio de la alarma o la sección de vía está reservada mientras las secciones de alarma están libres. La avería de alarma larga no se supervisa si el aparato de señalización está configurado para alarcar manualmente. La supervisión temporal de la alarma larga debe iniciarse desde el principio si una segunda unidad que llega a la sección de alarma del aparato de señalización provoca que continúe una alarma iniciada previamente debido a otra unidad.
+En la avería de alarma larga, las barreras de la instalación de barreras deben subir a la posición correspondiente al estado sin corriente del motor de barrera, con la excepción de la instalación de barreras dobles, en las que las barreras de los carriles utilizados por el tráfico de vehículos deben permanecer abajo.
+Las barreras de un aparato de señalización de varios carriles que se encuentra en estado de avería de alarma larga deben bajar si se cumplen las condiciones de la alarma para un carril distinto del causado por la avería de alarma larga. El aparato de señalización debe volver al estado de avería de alarma larga si las condiciones de la avería de alarma larga están vigentes cuando finaliza una alarma causada por un carril distinto del causado por la alarma larga.
+El señalizador de paso a nivel debe configurarse para indicar la señal Acérquese con precaución cuando el aparato de señalización tenga una avería de alarma larga. La alarma del aparato de señalización equipado con un señalizador de paso a nivel debe finalizar 20 s después de que el señalizador de paso a nivel haya sido configurado para indicar la señal Acérquese con precaución debido a la avería de alarma larga.
+### Avería de funcionamiento
+La avería de funcionamiento es una situación en la que el aparato de señalización alarma sin que se cumpla ninguna condición que requiera alarma.
+### 6.5.3.3 Dependencia del funcionamiento del aparato de señalización de otros aparatos de seguridad
+El aparato de señalización debe conectarse al funcionamiento del aparato de enclavamiento o del sistema de bloqueo automático si en la sección de alarma hay un señalizador principal, de bloqueo automático o de vía de modo que el paso a nivel se encuentre detrás de dicho señalizador.
+El aparato de señalización conectado al aparato de enclavamiento debe transmitir al aparato de enclavamiento información 
+- 
+sobre la alarma y la acción que la ha causado, 
+- 
+sobre el estado de los señalizadores de vía y las barreras, 
+- 
+sobre averías críticas y no críticas y 
+- 
+sobre el uso del conmutador de funcionamiento. 
+### 6.5.3.3.1 Señalizador que protege el paso a nivel
+El señalizador que protege el paso a nivel es un señalizador principal, de bloqueo automático o de vía que se encuentra en la sección de alarma del aparato de señalización y que indica señales a las unidades que se dirigen hacia el paso a nivel.
+
+
+## Página 218
+
+## Anexo 2/26 (37) 
+Un señalizador principal, de bloqueo automático o de vía situado en el límite de la sección de alarma es un señalizador que protege el paso a nivel si la sección de vía comienza en la sección de vía situada detrás del señalizador. Un señalizador principal, de bloqueo automático o de vía situado en el límite de la sección de alarma no es un señalizador que protege el paso a nivel si la sección de alarma comienza en la sección de vía situada detrás del señalizador.
+No se puede utilizar un señalizador de vía como señalizador que protege el paso a nivel si desde el señalizador no se puede verificar la ruta de maniobra a través del paso a nivel.
+El efecto de la preparación de la sección de vía situada en el trayecto entre el señalizador que protege el paso a nivel y el aparato de señalización sobre el funcionamiento del aparato de señalización debe determinarse de acuerdo con los requisitos establecidos en el punto 6.5.3.2.2 utilizando como velocidad la velocidad de la restricción de velocidad de la sección de alarma y como máximo la velocidad de 50 km/h.
+La alarma del aparato de señalización no debe iniciarse cuando se prepare la sección de vía situada en la sección de alarma, si entre dicha sección de vía y la sección de vía hay un señalizador que protege el paso a nivel que indica la señal Alto.
+En la figura 6.5:4, el señalizador E651 es un señalizador que protege el paso a nivel, ya que se encuentra en la sección de alarma del aparato de señalización de modo que el aparato de señalización está detrás del señalizador. La preparación de la sección de vía Er6713 debe iniciar la alarma cuando el aparato de señalización esté en modo de funcionamiento automático, si la función de liberación no está activada en dicha sección de vía. La sección de vía Er6511 solo debe iniciar la alarma cuando el aparato de señalización esté en modo de funcionamiento automático y el señalizador E651 indique la señal que permite la circulación.
+Figura 6.5:4 Señalizador que protege el paso a nivel.
+La indicación de la señal que permite la circulación de un señalizador que protege el paso a nivel que indica la señal Alto debe retrasarse si 
+- 
+la sección de vía precedente situada delante del señalizador está reservada, 
+- 
+no hay otro señalizador que protege el paso a nivel que indique la señal Alto entre el señalizador que protege el paso a nivel y el paso a nivel y 
+- 
+la fórmula 6.5.1 da un resultado positivo.
+El retraso debe implementarse de modo que el aparato de señalización tenga tiempo de alarcar durante el tiempo requerido de acuerdo con el punto 6.5.3.2.2 después de la verificación de la ruta antes de que se indique la señal que permite la circulación.  
+El tiempo de retraso debe calcularse con la fórmula 6.5.1.
+, donde 
+thid  
+tiempo de retraso [s] 
+thäl  tiempo requerido de acuerdo con el punto 6.5.3.2.2, durante el cual el aparato de señalización debe alarcar antes de la llegada al paso a nivel de una unidad que utilice la velocidad correspondiente a la restricción de velocidad del carril [s] 
+s  
+distancia del señalizador al paso a nivel [m] 
+aceleración máxima del tren, cuyo valor debe ser 1,0 m/s2 [m/s2] 
+a  
+
+
+## Página 219
+
+## Anexo 2/27 (37) 
+Un tiempo de retraso inferior a 5 s debe implementarse como tiempo de retraso de 5 s. La alarma del aparato de señalización debe supervisarse en las condiciones de la señal que permite la circulación del señalizador que protege el paso a nivel de modo que una avería crítica en el aparato de señalización provoque la indicación de la señal Alto.
+La posición abajo de las barreras debe supervisarse continuamente en las condiciones de la señal que permite la circulación del señalizador que protege el paso a nivel, a partir de 12 s antes del final del tiempo de aproximación.
+### 6.5.3.3.2 Condiciones de la alarma del aparato de señalización
+La alarma del aparato de señalización no debe iniciarse cuando se prepare la sección de vía situada en la sección de alarma, si entre dicha sección de vía y la sección de vía hay un señalizador que protege el paso a nivel que indica la señal Alto y la ruta no se ha verificado a través del paso a nivel.
+La preparación de la sección de vía perteneciente a la sección de alarma en la ruta verificada a través del paso a nivel debe configurar el aparato de señalización para que alarque de modo que el aparato de señalización alarque durante el tiempo requerido de acuerdo con el punto 6.5.3.2.2 antes de la llegada al paso a nivel de una unidad que circule a la velocidad máxima correspondiente a la ruta. Para dimensionar el tiempo de alarma requerido, como velocidad correspondiente a la ruta debe utilizarse la velocidad correspondiente a la restricción de velocidad o restricciones de velocidad de la sección de alarma, en la ruta de maniobra no obstante como máximo la velocidad de 50 km/h.
+Al inicio de la alarma debida a la preparación de la sección de vía situada en la sección de alarma, pueden establecerse las siguientes condiciones adicionales: 
+- 
+El aparato de señalización debe configurarse para alarcar después de un tiempo de retraso determinado a partir de la preparación de la sección de vía. 
+- 
+El aparato de señalización debe alarcar cuando la sección de vía esté reservada y la ruta del tren esté verificada entre dicha sección de vía y el paso a nivel. 
+- 
+El aparato de señalización debe alarcar cuando la sección de vía esté reservada y la ruta de maniobra esté verificada entre dicha sección de vía y el paso a nivel. 
+- 
+El aparato de señalización debe alarcar cuando la sección de vía esté reservada, salvo que se haya concedido el permiso local al que pertenece la sección de vía. 
+- 
+El aparato de señalización debe alarcar cuando la sección de vía esté reservada, salvo que el desvío situado en la sección de alarma esté en una posición que no conduzca desde la sección de vía reservada al paso a nivel. 
+- 
+El aparato de señalización no debe alarcar cuando la sección de vía esté reservada, si se utiliza la función de liberación de dicha sección de vía. 
+- 
+El aparato de señalización no debe alarcar cuando la sección de vía esté reservada, si se ha concedido el permiso local relacionado con dicha sección de vía. 
+El aparato de señalización debe pasar al estado base cuando se utilice el conmutador de sustitución. El conmutador de sustitución debe retirarse de servicio cuando se cumplan las condiciones del aparato de enclavamiento relacionadas con el funcionamiento del aparato de señalización.
+### 10 Reglamentos e instrucciones de la vía férrea (RAMO) 
+### RAMO Parte 9, Pasos a nivel
+Los Reglamentos e instrucciones de la vía férrea RAMO 9 Pasos a nivel se derogaron como reglamento, pero sigue vigente como instrucción (RATO).
+El RAMO entró en vigor en 1983. Los pasos a nivel se encontraban en el RAMO parte 9 ESTRUCTURAS Y APARATOS ESPECIALES, punto 9.1, que contenía, entre otros:
+Punto 9.111 Objeto de los reglamentos e instrucciones relativos a los pasos a nivel
+En este punto del RAMO se establecen los reglamentos e instrucciones normales que se refieren a la disposición de las carreteras relacionadas con la zona ferroviaria, así como a la construcción, seguridad y mantenimiento de los pasos a nivel.
+
+
+## Página 220
+
+## Anexo 2/28 (37) 
+En cuanto a las instrucciones técnicas y las instrucciones de seguridad de los pasos a nivel, estos reglamentos e instrucciones se aplican y se cumplen en la construcción de nuevos pasos a nivel en vías de ancho normal. En la mejora y el mantenimiento de los pasos a nivel existentes, las instrucciones se cumplen en la medida en que, teniendo en cuenta las condiciones locales y la importancia tráfico de la vía y la carretera, sea posible con costes razonables.
+En particular, al mejorar carreteras en mal estado, puede prescindirse de las instrucciones para evitar costes desproporcionados. Las medidas se llevan a cabo en colaboración con los mantenedores de carreteras dentro de los límites permitidos por las asignaciones presupuestarias. La autorización para desviarse de las instrucciones debe obtenerse caso por caso de la Dirección de Ferrocarriles. Entre TVL y VR se sigue el procedimiento normal de dictamen en el tratamiento de asuntos de pasos a nivel.
+En el punto 9.112 Conceptos y definiciones figuraba, entre otros:
+Visibilidad
+Distancia visible medida para el conductor del vehículo a lo largo de la superficie de la carretera siguiendo la huella normal de la carretera o a una determinada altura sobre la superficie de la carretera, cuando el resto del tráfico no constituye un obstáculo a la visibilidad.
+En el paso a nivel, la visibilidad en la dirección de la carretera es conforme a la definición anterior. La visibilidad en la dirección de la vía es la distancia visible medida para el conductor del vehículo, partiendo del punto de intersección de las líneas medias de la carretera y la vía, a lo largo de la vía a una determinada altura sobre la vía, cuando el resto del tráfico no constituye un obstáculo a la visibilidad.
+La visibilidad del paso a nivel es la visibilidad desde la carretera hacia la línea de la vía (véase la figura 9.132:1). 
+- 
+La visibilidad del paso a nivel de 8 m es la distancia medida a lo largo de la vía hasta un objeto situado a una altura de 1,1 metros sobre la superficie del riel, que el conductor del vehículo detenido delante del paso a nivel puede ver, cuando la altura del punto del ojo sobre la superficie de la carretera es de 1,1 m y la distancia al riel más próximo es de 8 m. 
+- 
+La visibilidad del paso a nivel correspondiente a la distancia de detención es la distancia medida a lo largo de la vía hasta un objeto situado a una altura de 1,1 m sobre la superficie del riel, que el conductor del vehículo que se aproxima al paso a nivel puede ver, cuando la altura del punto del ojo sobre la superficie de la carretera es de 1,1 m y la distancia a la señal de cruce es la distancia de visibilidad de detención correspondiente a la velocidad utilizada en la carretera. 
+La visibilidad de detención es la distancia a partir de la cual el conductor del vehículo puede ver un obstáculo en la carretera para poder detener su vehículo que circula a la velocidad de conducción antes de dicho obstáculo en condiciones normales.
+Área de visibilidad
+Área formada por dos triángulos de visibilidad en cada cuadrante del paso a nivel, en cuyo interior no debe haber obstáculos que perjudiquen la visibilidad. Los triángulos de visibilidad son áreas delimitadas por las líneas que unen los puntos finales de la carretera, del ferrocarril y de las visibilidades del paso a nivel mencionadas anteriormente. (véase también la figura 9.131:3.)
+Medida de seguridad
+Medida dirigida a las condiciones del paso a nivel, a la carretera o a la vía, cuyo objeto es la mejora de la seguridad vial en los pasos a nivel.
+En el punto 9.1312 Velocidad del tren figuraba, entre otros:
+La velocidad del tren influye esencialmente en el dimensionado de las áreas de visibilidad (véase la figura 9.131:3). Como velocidad del tren se considera generalmente la velocidad de dimensionado establecida para dicha sección de vía.
+En los casos excepcionales, p. ej. cuando la curva de la vía limita la velocidad segura del tren a un valor inferior a la velocidad de dimensionado, en el dimensionado del área de visibilidad debe utilizarse la velocidad máxima permitida. La ubicación del paso a nivel debería elegirse de modo que sea posible despejar el área de visibilidad correspondiente a la velocidad del tren con costes razonables.
+
+## Página 221
+
+## Anexo 2/29 (37)
+La selección del dispositivo de seguridad se basa parcialmente en la velocidad del tren. El paso a nivel debe dimensionarse de modo que la aplicación de la medida de protección exigida por la velocidad del tren sea estructuralmente posible.
+
+En el apartado 9.1313 Requisitos de visibilidad figuraban, entre otros:
+
+El área de visibilidad en el paso a nivel de la carretera y la vía se muestra en la figura 9.131:3. En la tabla asociada a la figura se indica la longitud L del lado de la carretera del triángulo de visibilidad correspondiente a la distancia de detención para carreteras de distintas clases. En calles y carreteras de planeamiento, L se elige en función de la naturaleza de la vía y de la importancia del tráfico; en general, pueden utilizarse los mismos valores que para las carreteras regionales y colectoras.
+
+En las carreteras agrícolas y en las carreteras privadas que dan servicio a una sola finca se exige únicamente una visibilidad de 8 metros; en las demás carreteras, una visibilidad de 8 metros y una visibilidad correspondiente a la distancia de detención. Las distancias se miden desde el riel más próximo a la vía.
+
+Si los requisitos de visibilidad anteriores no pueden cumplirse con costes razonables, deberán instalarse dispositivos de seguridad en el paso a nivel.
+
+Los límites del área de visibilidad deberán señalarse en el plano de diseño y podrán delimitarse con hitos en el terreno.
+
+| Clase de carretera | Longitud L del lado de la carretera del triángulo de visibilidad [m] |
+|---|---|
+| Carreteras principales y troncales | 65 |
+| Carreteras regionales y colectoras | KLV ≥ 100 veh/día: 50 |
+| | KLV < 100 veh/día: 40 |
+| Carreteras de enlace y carreteras privadas de importancia para el tráfico | 30 |
+| Carreteras privadas de escaso tráfico | 20 |
+| Carreteras forestales | 20 |
+| Carreteras agrícolas | - |
+
+L = Longitud del lado de la carretera del triángulo de visibilidad
+v = Velocidad máxima a emplear en la vía en el punto correspondiente (km/h)
+n = Distancia entre los ejes de las vías extremas (m), medida a lo largo de la carretera
+
+Figura 9.131:3 Área de visibilidad en el paso a nivel de la carretera y el ferrocarril. Altura del punto ocular 1,1 m sobre la superficie de la carretera y altura del objeto 1,1 m sobre el lomo del riel.
+
+
+## Página 222
+
+## Anexo 2/30 (37)
+En el apartado 9.1341 Línea de la carretera y línea de nivelación figuraban, entre otros:
+
+Por razones de seguridad ferroviaria, en cada punto de la carretera, en su tramo de un solo carril, debe haber al menos visibilidad de cruce, y en el de dos carriles al menos visibilidad de detención (véase la tabla 9.134:1). Si en una carretera de un solo carril es necesario apartarse de esta norma por razones económicas, la carretera deberá disponer en todo caso de al menos visibilidad de detención. Dicho tramo de carretera deberá señalizarse con un límite de velocidad o la carretera deberá convertirse en de dos carriles en los tramos necesarios.
+
+En las carreteras públicas, las carreteras forestales y las carreteras privadas de importancia para el tráfico, la velocidad de cálculo se elige conforme a las instrucciones anteriores. La velocidad de cálculo en estas carreteras será como mínimo de 30 km/h. Las demás carreteras se dimensionan en función de los vehículos de cálculo, pero para la comprobación de las visibilidades de detención y de cruce se selecciona también para estas carreteras una velocidad de cálculo acorde a las condiciones.
+
+Tabla 9.134:1 Longitudes de las visibilidades de cálculo
+### Velocidad de cálculo [km/h]
+### Visibilidad de detención [m]
+### Visibilidad de cruce [m]
+10
+7
+15
+15
+10
+20
+20
+15
+30
+25
+20
+40
+30
+30
+60
+40
+45
+90
+50
+60
+120
+60
+75
+150
+70
+95
+190
+80
+120
+240
+
+En los nuevos pasos a nivel el ángulo de cruce debe ser generalmente de 80…100 gon¹². Al mejorar los pasos a nivel existentes se procuran los ángulos de cruce conforme a la tabla 9.134:2. En casos muy apremiantes, por ejemplo, cuando el paso a nivel se encuentra en un terreno lateralmente inclinado o en una zona de planeamiento, puede conformarse con valores de ángulo de cruce inferiores a los presentados en la tabla 9.134:2. Si el ángulo de cruce es por razones apremiantes inferior a 65 gon, deberá prestarse especial atención a la protección del paso a nivel.
+
+Tabla 9.134:2 Dependencia del ángulo de cruce del dispositivo de seguridad
+| Ángulo de cruce [gon] | Sin dispositivo de seguridad | Dispositivos de señal luminosa y sonora | Dispositivos de barrera |
+|---|---|---|---|
+| 80…100 | 75…100 | 65…100 |
+
+En el apartado 9.1343 Enlace de carretera en la proximidad de un paso a nivel figuraban, entre otros:
+
+La distancia entre el enlace de carretera y el paso a nivel se determina de modo que
+- el enlace de carretera debería encontrarse fuera del área de visibilidad del paso a nivel
+- la distancia desde el enlace de carretera hasta el paso a nivel debe ser lo suficientemente grande para que el vehículo de cálculo que gire desde el enlace llegue completamente a su carril antes de la señal de cruce.
+
+Con estos criterios se obtienen para la distancia entre el enlace de carretera y el paso a nivel los valores presentados en la tabla 9.134:5.
+¹² 100 gon = 90 °.
+
+
+## Página 223
+
+## Anexo 2/31 (37)
+Tabla 9134:5 Distancia mínima entre el enlace de carretera y el paso a nivel, medida desde el riel más próximo a la vía hasta el borde del firme de la carretera enlazada más próximo a la vía.
+
+### Clase de la carretera que cruza la vía
+### Distancia mínima [m]
+Carreteras principales y troncales
+65
+Carreteras regionales y colectoras
+KVL ≥ 100 veh/día: 50
+KVL < 100 veh/día: 40
+Carreteras de enlace y carreteras privadas de importancia para el tráfico
+40
+Carreteras forestales
+40
+Carreteras privadas de escaso tráfico
+25
+Carreteras agrícolas
+15
+
+En el apartado 9.1351 Señales de tráfico por carretera figuraban, entre otros:
+
+Para la señalización de los pasos a nivel se utilizan las señales de advertencia de paso a nivel de ferrocarril, las señales de aproximación a paso a nivel y las señales de cruce. En los pasos a nivel de vías electrificadas se utiliza además una placa adicional que advierte de la vía electrificada.
+
+Además de estas, para mejorar la seguridad pueden utilizarse señales de límite de velocidad y la señal que indica la obligación de detenerse. Si es necesario, pueden utilizarse otras señales conforme al reglamento de circulación por carretera.
+
+Las señales de tráfico, con sus placas adicionales en su caso, se instalan por iniciativa del titular de la carretera. En las carreteras privadas, la instalación de las señales de tráfico puede, en función del acuerdo de paso a nivel celebrado, corresponder a VR. Las señales del paso a nivel de ferrocarril, las llamadas señales de cruce, con sus placas adicionales en su caso, las instala el mantenedor de la vía.
+
+Las señales de cruce se instalan en un poste galvanizado de modo que la altura del borde inferior de la señal desde la superficie del firme sea de 2,4…3,0 m. Las señales de cruce se sitúan en el lado derecho del firme a una distancia de 5…7 metros del riel más próximo. La distancia del punto más próximo de la señal de cruce al borde exterior del firme debe ser de al menos 0,5 m y de como máximo 3,5 m. Si es necesario, pueden utilizarse varias señales de cruce en un mismo paso a nivel. En carreteras de dos o más carriles y en otros casos, las señales de cruce pueden colocarse a ambos lados del firme.
+
+En el paso a nivel en el que se coloque la señal de tráfico que indica la obligación de detenerse, las pendientes longitudinales de la carretera deberían ser conformes a las instrucciones. Especialmente en los casos en los que la carretera asciende en pendiente pronunciada hacia la vía, la pendiente longitudinal deberá mejorarse antes de instalar la señal.
+
+La señal que indica la obligación de detenerse puede colocarse a ambos lados de la vía o solo a un lado de la vía. La señal se sitúa, teniendo en cuenta las condiciones de la carretera y de visibilidad, en un punto lo más favorable posible, pero de modo que la línea de detención quede a una distancia de al menos 3,5 metros del riel más próximo. En el punto de la señal se marcará en la carretera una línea de detención siempre que sea técnicamente posible.
+
+El límite de velocidad para el tráfico por carretera puede establecerse en el paso a nivel cuando se considere necesario, por ejemplo, cuando las velocidades utilizadas en el paso a nivel sean, según las mediciones, superiores a 50 km/h. Si el área de visibilidad presentada en el apartado 9.1313 no puede despejarse con costes razonables, el área de visibilidad requerida puede reducirse en el sentido de la carretera estableciendo un límite de velocidad en la misma.
+
+En los pasos a nivel dotados de dispositivos de seguridad se utiliza un límite de velocidad de 50 km/h.
+En el paso a nivel que no dispone de dispositivo de seguridad puede utilizarse el límite de velocidad de la siguiente manera:
+- en las carreteras públicas y en las carreteras privadas de importancia para el tráfico, el límite de velocidad es de 30 km/h
+- si en el paso a nivel existe una señal STOP, el límite de velocidad es de 50 km/h.
+
+
+## Página 224
+
+## Anexo 2/32 (37)
+Las señales de límite de velocidad se colocan a una distancia de 200 m de la señal de paso a nivel. El límite de velocidad puntual del paso a nivel se marca como finalizado colocando una señal que indique el límite general o el límite de velocidad específico de la carretera después del paso a nivel, en el límite del área de visibilidad.
+
+Si la velocidad permitida en otras partes de la carretera es superior a la del paso a nivel, el límite de velocidad deberá escalonarse. En el escalonamiento se utilizan los valores de límite de velocidad de 80, 50 y 30 km/h. Las señales de límite de velocidad se colocan a intervalos de 200 m.
+
+En el apartado 9.1352 Señales de tráfico ferroviario figuraban, entre otros:
+
+En los pasos a nivel pueden utilizarse señales de deshielo, de aislamiento, de silbato y de velocidad, así como señales luminosas de vía.
+
+La señal de silbato se utiliza en la línea para indicar que el maquinista debe dar el aviso acústico "tren en aproximación". La señal de silbato puede utilizarse para proteger los pasos a nivel cuando en el paso a nivel no hay dispositivos de seguridad propiamente dichos que indiquen la llegada del tren. La necesidad de la señal de silbato se acentúa si en el paso a nivel hay mucho tráfico ligero y la visibilidad de 8 m no es conforme a la normativa. Las señales pueden omitirse en la proximidad de zonas residenciales. Las señales de silbato deberán retirarse cuando se construya un dispositivo de seguridad en el paso a nivel.
+
+En el apartado 9.1365 Fallos de funcionamiento de los dispositivos de seguridad figuraban, entre otros:
+
+Cuando un dispositivo de seguridad se haya averiado, deberá retirarse temporalmente del servicio. La inoperatividad se notifica a los usuarios de la carretera mediante una placa de invalidez que se fija al poste de la señal luminosa (figura 9.136:16, tamaño: ancho 900 mm y alto 360 mm). Si el dispositivo de seguridad se retira del servicio por un período superior a una semana, las señales luminosas deberán cubrirse o retirarse.
+
+En el apartado 9.1374 Mantenimiento de la carretera figuraban, entre otros:
+
+Conforme al artículo 59 de la ley sobre las carreteras públicas, el paso a nivel entre una carretera pública y el ferrocarril del Estado, en cuanto al ancho del balasto, y el puente común se mantienen por iniciativa de la empresa ferroviaria con los fondos disponibles para ello. En los demás pasos a nivel, el titular de la vía se encarga del mantenimiento de la carretera en cuanto al ancho del balasto. El mantenimiento de la carretera corresponde en los demás aspectos al titular de la carretera, salvo que de la decisión de expropiación forzosa o del acuerdo de paso a nivel se derive otra cosa.
+
+"Ancho del balasto" significa el ancho de la capa de sostén, que en las vías con mejora básica es generalmente de 3,50 m. Por razones de conveniencia, como límite entre las áreas de responsabilidad del mantenedor de la vía y del mantenedor de la carretera se toma la línea entre la estructura de la plataforma del paso a nivel y la estructura superficial de la carretera.
+
+En el apartado 9.1375 Mantenimiento del área de visibilidad figuraban, entre otros:
+
+La tarea del mantenimiento es mantener el área de visibilidad libre de obstáculos a la visibilidad por encima del nivel cuya altura desde la superficie de la carretera y desde el lomo del riel es de 1,1 m. El área de visibilidad de 8 m debe estar libre de todos los obstáculos a la visibilidad. En el área de visibilidad correspondiente a la distancia de detención puede haber bosque claro que no menoscabe esencialmente la visibilidad.
+
+El despeje y el mantenimiento del área de visibilidad corresponde al titular de la carretera, tanto en el caso de carreteras públicas como de privadas. Si la vía se construye después que la carretera, el despeje del área de visibilidad es obligación del constructor de la vía, pero el mantenimiento corresponde en ese caso también al titular de la carretera. En la práctica, VR se encarga del mantenimiento de las áreas de visibilidad de las carreteras agrícolas. No obstante, VR no tiene derecho a realizar trabajos de despeje fuera del ámbito de la vía, salvo que se haya acordado con el propietario del terreno.
+
+En el apartado 9.1376 Influencia de los trabajos de mejora básica de la vía en los pasos a nivel figuraban, entre otros:
+
+En el marco de los trabajos de mejora básica de la vía es conveniente procurar eliminar pasos a nivel, por ejemplo, mediante reorganizaciones de la carretera. Los pasos a nivel que queden se renuevan a lo ancho de la carretera
+
+## Página 225
+
+## Anexo 2/33 (37)
+de la sección transversal, de la pendiente longitudinal y del ángulo de cruce, de modo que correspondan a los requisitos establecidos en estas instrucciones. En la medida en que la obra de modificación se haya hecho necesaria como consecuencia de una medida adoptada sobre la vía, el mantenedor de la vía estará obligado a costear la obra de modificación necesaria.
+
+En el apartado 9.141 Medidas de protección figuraban, entre otras:
+
+Los peligros en los pasos a nivel de carretera y vía pueden reducirse, entre otros medios, mediante las siguientes medidas:
+
+Reducción del número de cruces a nivel:
+
+- 
+eliminación de pasos a nivel innecesarios
+- 
+eliminación del paso a nivel mediante disposiciones viales
+- 
+construcción de un paso a desnivel
+- 
+reducción de la necesidad de cruzar la vía mediante disposiciones de parcelación
+- 
+reducción de la necesidad de cruzar la vía mediante la planificación del uso del suelo.
+
+Instalación o mejora de aparatos de seguridad:
+
+- 
+barreras (barreras semiautomáticas, barreras automáticas, barreras con bloqueo)
+- 
+semáforos y señales de vía interconectados
+- 
+aparatos de aviso luminoso y sonoro
+- 
+aparatos de señal sonora
+- 
+señales de silbato y avisos acústicos.
+
+Mejora de las condiciones de la carretera en el entorno del paso a nivel:
+
+- 
+mejora del ángulo de cruce
+- 
+atenuación de la pendiente longitudinal de la carretera
+- 
+mejora de la visibilidad
+- 
+mejora de la curva pronunciada
+- 
+mejora de la estructura de la carretera
+- 
+traslado de las conexiones más lejos del paso a nivel
+- 
+mejora de la sección transversal de la carretera
+- 
+construcción de un carril independiente para el tráfico ligero en el paso a nivel.
+
+Otras medidas:
+
+- 
+restricciones de uso de los pasos a nivel
+- 
+aumento de la información de advertencia de peligro
+- 
+mejora de la visibilidad de las señales de advertencia
+- 
+limitación de velocidad local
+- 
+señal de tráfico que indica la obligación de detenerse
+- 
+vallado de la vía para impedir los cruces fuera del paso a nivel.
+
+En el apartado 9.142 Determinación del orden de peligrosidad de los pasos a nivel figuraban, entre otras:
+
+Los pasos a nivel de un tramo de vía determinado deben someterse a un orden de prioridad para la ejecución de las medidas de protección, a fin de que los recursos disponibles se utilicen de la manera más adecuada posible.
+
+Examinando las estadísticas de accidentes de los pasos a nivel del tramo de vía objeto de estudio durante un periodo de 5…10 años, se obtiene una idea de la peligrosidad de los pasos a nivel a examinar.
+
+
+## Página 226
+
+## Anexo 2/34 (37)
+El orden de peligrosidad de los pasos a nivel de un tramo de vía se obtiene, por ejemplo, calculando para cada paso a nivel un índice I que caracterice su susceptibilidad a accidentes mediante la fórmula (1).
+
+(1) I = T x a x b x KVL x JL / 1000
+
+I = índice de accidentes
+
+T = coeficiente dependiente del aparato de seguridad del paso a nivel
+
+T = 1,0, cuando el paso a nivel no dispone de aparato de seguridad
+
+T = 0,3, cuando el paso a nivel de una vía dispone de aparato de aviso luminoso y sonoro
+
+T = 0,5, cuando el paso a nivel de varias vías dispone de aparato de aviso luminoso y sonoro
+
+T = 0,1, cuando el paso a nivel dispone de barrera
+
+a = coeficiente dependiente de la velocidad máxima del tren
+
+a = (V / 100)²
+
+V = velocidad máxima [km/h] en el paso a nivel
+
+b = coeficiente dependiente del número de vías
+
+b = 1,0 en los pasos a nivel de una vía
+
+b = 1,5 en los pasos a nivel de dos vías
+
+b = 2,0 en los pasos a nivel de tres vías
+
+A cada vía lateral se le añaden 0,2 a los valores de b mencionados anteriormente
+
+KVL = tráfico medio diario de la carretera (en este contexto, tráfico de vehículos y tráfico ligero en total)
+
+JL = tráfico ferroviario medio diario.
+
+Al evaluar la peligrosidad de un paso a nivel mediante el índice I mencionado, pueden utilizarse los valores indicados en la tabla 9.142:1.
+
+Tabla 9.142: Clases de prioridad orientativas obtenidas mediante el índice I que caracteriza la susceptibilidad a accidentes
+
+## I 
+### Clase de prioridad 
+>30,0 
+I 
+10,1…30,0 
+II 
+0,0…10,0 
+III 
+
+El orden de peligrosidad obtenido mediante cálculo no puede ser absolutamente fiable ni puede considerarse un orden de ejecución vinculante. Las medidas de protección se llevan a cabo en cada caso en el orden que se considere más adecuado, en el que, además del índice mencionado, se aprovechan también otros factores que influyen en la cuestión, como la importancia de la vía y la carretera, la ubicación del paso a nivel, las condiciones de visibilidad, las estadísticas de accidentes, etc.
+
+En el apartado 9.144 Restricciones de uso del paso a nivel y otras disposiciones especiales figuraban, entre otras:
+
+Un paso a nivel puede, por ejemplo, cerrarse al tráfico de vehículos en el marco de disposiciones viales. En algunos casos es necesario mantener dicho paso a nivel para el uso del tráfico ligero.
+
+El paso a nivel se reserva para el uso del tráfico ligero o del transporte de ganado de la manera indicada en la figura 9.144:1.
+
+
+## Página 227
+
+## Anexo 2/35 (37)
+Figura 9.144:1 Reserva del paso a nivel para el tráfico ligero.
+
+La parte 9 del RAMO Estructuras y aparatos especiales fue sustituida íntegramente el 21.12.2000 por la parte 9 del RAMO Pasos a nivel, elaborada por la RHK.
+
+
+## Página 228
+
+## Anexo 2/36 (37)
+### 11 Instrucciones generales sobre el uso de señales de tráfico (521/2002/20/3)
+
+Las instrucciones generales de la Dirección de Carreteras (Agencia de Transporte) sobre el uso de señales de tráfico contienen las instrucciones de uso y colocación de las señales de tráfico conforme a la Ley de Tráfico por Carretera, así como de los carteles de texto más comunes y de otros dispositivos de guiado de tráfico reglamentados. Las instrucciones están destinadas a utilizarse para la planificación del uso de señales de tráfico en carreteras públicas, pero pueden aplicarse también a las calles.
+
+Las señales 171 y 172 que advierten de un paso a nivel ferroviario se colocan a 150–250 metros antes de la vía o de la barrera. Si el paso a nivel se encuentra en una carretera secundaria a una distancia de 30–150 metros de la intersección, la señal se coloca en la carretera secundaria lo más cerca posible de la intersección, pero de manera que la señal sea claramente visible al girar hacia la carretera secundaria. Bajo la señal se coloca entonces un panel adicional que indique la distancia al destino (815). Si el paso a nivel se encuentra en una carretera secundaria a menos de 30 metros de la intersección, la señal se coloca en la carretera principal provista del panel adicional 811 (destino en la carretera transversal).
+
+Las señales de aproximación a un paso a nivel ferroviario 173–175 se colocan de manera que sus franjas rojas transversales estén inclinadas hacia la carretera y el borde inferior se encuentre a una altura de 0,4–1 metro sobre la superficie de la calzada. La señal 173 se coloca bajo la señal 171 o 172 en el mismo poste, la señal 174 a unos 2/3 de la distancia y la señal 175 a unos 1/3 de la distancia del paso a nivel. En una curva pronunciada, la señal puede colocarse además en el lado izquierdo de la calzada si las visibilidades de la carretera son deficientes.
+
+Las señales de paso a nivel ferroviario 176 y 177 las coloca el mantenedor de la vía. La señal se coloca en el lado derecho de la calzada a una distancia de 5–7 metros del riel más próximo, de manera que su borde inferior se encuentre a una altura de 2,4–3 metros sobre la superficie de la calzada.
+
+La señal de obligación de detenerse 232 (STOP) se utiliza habitualmente en lugar de la señal 231 (obligación de ceder paso en la intersección) en intersecciones en las que el vehículo debe detenerse siempre por razones de seguridad del tráfico. La señal puede utilizarse también en pasos a nivel ferroviarios que no dispongan de aparatos de seguridad o en los que los aparatos de seguridad hayan sido retirados temporalmente del servicio. La señal puede utilizarse en carreteras públicas principalmente en los siguientes casos:
+
+1. al aproximarse al paso a nivel no hay visibilidad suficiente, pero la visibilidad en el paso a nivel es suficiente
+2. en el paso a nivel se han producido accidentes o se presentan situaciones de peligro
+3. el ángulo de cruce es oblicuo (menor que 65 gon)
+4. el tren que se aproxima es difícil de detectar debido a las condiciones locales sin detenerse, y el propio conductor es consciente de la necesidad de detenerse.
+
+La intensidad del tráfico ferroviario y la escasez de tráfico en la carretera no son por sí solas un motivo para el uso de la señal. La señal no se utiliza si la pendiente longitudinal de la carretera es tan pronunciada que la puesta en marcha de los vehículos pesados se ve esencialmente dificultada.
+
+En el paso a nivel ferroviario, la distancia de la señal al riel más próximo se elige de modo que la visibilidad desde el vehículo detenido en la posición de la señal hacia la línea férrea en ambas direcciones sea la mejor posible. La distancia mínima al riel más próximo es de 3,5 metros. Normalmente, la señal que indica la obligación de detenerse se coloca en el mismo poste que la señal de cruce. El borde inferior de la señal se encuentra a una altura de al menos 1,5 metros sobre la superficie de la calzada.
+
+La cifra del panel adicional de altura del hilo de contacto (823) indica la altura libre de seguridad en el punto del hilo de contacto. La altura libre de seguridad por debajo es conveniente indicarla en todos los pasos a nivel entre carretera y ferrocarriles electrificados. En este caso, el panel adicional se instala en el mismo poste que la señal de paso a nivel (mantenedor de la vía). El panel adicional puede instalarse además junto a la señal de advertencia ferroviaria (mantenedor de la carretera). La cifra que figura en el panel adicional se determina por separado para cada paso a nivel y se acuerda con el mantenedor de la vía.
+
+
+## Página 229
+
+## Anexo 2/37 (37)
+### 12 Limitaciones de velocidad (Tiehallinto 10346/2009/30/3)
+
+Las instrucciones Limitaciones de velocidad de la Dirección de Carreteras (Agencia de Transporte) contienen los principios para la establecimiento de limitaciones de velocidad en carreteras terrestres. Complementa las instrucciones generales del Ministerio de Transportes y Comunicaciones sobre las limitaciones de velocidad.
+
+Las velocidades de circulación en el tráfico por carretera se restringen principalmente para mejorar la seguridad vial. Mediante la regulación de las velocidades puede influirse también en la fluidez del tráfico y en la capacidad de transporte, en los costes del tráfico y en los perjuicios ambientales causados por el tráfico. El propósito de las instrucciones es orientar el uso eficaz y uniforme de las limitaciones de velocidad en todo el territorio nacional.
+
+## 5 LIMITACIONES DE VELOCIDAD EN ZONAS DE BAJA DENSIDAD DE POBLACIÓN
+
+### 5.1.4 Otros factores a tener en cuenta
+
+#### Pasos a nivel ferroviarios
+
+Al aproximarse a un paso a nivel ferroviario, la limitación de velocidad es de como máximo 60 km/h en los tramos sin dispositivo de advertencia y de 50 km/h en los tramos con dispositivo de advertencia. No obstante, la limitación no puede ser superior a la que exijan otros posibles factores (p. ej., la geometría previa de la carretera o las condiciones de visibilidad) antes del paso a nivel. La limitación puntual en el sentido de aproximación se hace extensible a partir de antes de las señales de advertencia del paso a nivel. Si el tramo de carretera antes del paso a nivel es muy corto, p. ej. al girar desde una carretera contigua a la vía hacia el paso a nivel, la limitación es, sin embargo, innecesaria.
+
+
+## Página 230
+
+## Página 231
+
+## Anexo 3/1 (21)
+## Recomendaciones emitidas sobre accidentes en pasos a nivel y su estado
+9.2.2000 (B1/2000R)
+Hora:
+Ii, paso a nivel sin vigilancia de Akola
+Lugar:
+Accidente en paso a nivel, tren de pasajeros – furgoneta
+Tipo de accidente:
+Tren de pasajeros 974, locomotora Dr16 y cuatro coches de pasajeros
+Tipo y número de tren:
+Furgoneta Mercedes-Benz 307D
+Vehículo:
+En el tren
+En el vehiculo
+4
+1
+En el tren y en el vehiculo:
+Personal:
+75
+0
+Pasajeros:
+0
+0
+Muertos:
+Personal:
+0
+0
+Pasajeros:
+1
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+9
+0
+Pasajeros:
+La locomotora del tren y dos coches sufrieron daños graves. Los otros dos coches
+Daños en el material rodante:
+desviados sufrieron daños menores. La furgoneta quedó totalmente destrozada.
+La vía resultó dañada durante unos 200 metros
+Daños en la vía:
+Del depósito de combustible roto de la locomotora desviada se derramaron al suelo
+Otros daños:
+unos 2 000 litros de combustible diésel.
+Resumen: Un tren de pasajeros chocó contra una furgoneta y se desvió de los raíles. El conductor de la furgoneta no detectó el tren que se aproximaba a tiempo. Al percatarse del tren que se aproximaba, ya no tuvo tiempo de apartarse debido a la resbaladiza- y a los neumáticos en mal estado.
+
+La desviación del tren se debió en parte a que el deflecto de la locomotora era demasiado débil y estaba situado en una posición alta.
+Recomendación S140
+Repetida:
+El deflecto de la locomotora Dr16 es notablemente más débil y está más alto que,
+B2/2000R
+por ejemplo, en la locomotora diésel Dv12 y en la locomotora eléctrica Sr1.
+El deflecto de la locomotora Dr16 debería reforzarse y su forma debería modificarse de modo que su borde inferior quedara al menos a 10 cm más cerca del raíl.
+
+Fecha
+Estado
+Comentarios
+14.2.2006
+EJECUTADO
+En ejecución. 5 realizados, el resto dentro del año.
+El requisito de visibilidad en los pasos a nivel de las normas e instrucciones técnicas ferroviarias (RAMO), que exige una distancia de 2,5 x v de la vía (véase el punto 3.7), generalmente no puede
+Recomendación S141
+cumplirse debido a las relaciones de propiedad de la tierra.
+Las visibilidades en todos los pasos a nivel sin vigilancia deberían realizarse cumpliendo los requisitos de distancia de 8 metros medidos desde el raíl más próximo. Si los requisitos de visibilidad no pueden cumplirse en alguna dirección, el paso a nivel debería equiparse con dispositivos de aviso o convertirse en un paso a nivel separado.
+
+Fecha
+Estado
+Comentarios
+NO SE EJECUTA
+Se pretende ejecutar. Si en los pasos a nivel sin vigilancia no se pueden cumplir los requisitos de visibilidad, se pretende eliminar el paso a nivel (no equiparlo con dispositivos de aviso) y organizar una ruta alternativa. Lleva décadas.
+La señal de tráfico que advierte de un paso a nivel colocada según las instrucciones actuales
+Recomendación S142
+puede dificultar las posibilidades del conductor del automóvil de ver hacia la derecha.
+En los pasos a nivel sin vigilancia, la señal de cruce debería colocarse a una distancia de 2,3–4,0 metros del raíl más próximo.
+
+Fecha
+Estado
+Comentarios
+NO SE EJECUTA
+Se coloca en un lugar adecuado; el trabajo de desarrollo de los arreglos en curso.
+La determinación de la ubicación exacta del lugar del accidente tardó bastante. Si, por ejemplo,
+Recomendación S143
+Repetida:
+el nombre del paso a nivel hubiera estado disponible de inmediato, las primeras unidades habrían
+S1/2005R
+llegado antes al lugar y los canales de alarma del centro de emergencias habrían tenido menos
+B5/2007R
+consultas innecesarias sobre la ubicación del objetivo.
+B2/2009R
+Los pasos a nivel deberían equiparse con carteles claramente visibles para la carretera en ambas direcciones de circulación, en los que conste al menos el nombre del paso a nivel y su ubicación en coordenadas y en puntos kilométricos.
+
+Fecha
+Estado
+Comentarios
+
+
+## Página 232
+
+## Anexo 3/2 (21)
+19.2.2010
+EJECUTADO
+No se ejecuta con carteles separados. En los carteles equipados con dispositivos de aviso, el nombre, la lectura kilométrica, el número del centro de emergencias y el número de aviso de averías. En los pasos a nivel sin vigilancia, una pegatina detrás de la señal de paso a nivel.
+La ubicación del lugar del accidente podría haberse realizado con un programa de mapas en el centro de emergencias de Oulu. Sin embargo, el programa de mapas es tal que en la sección del mapa general solo puede ubicar mediante coordenadas. El RHK, en cambio, tiene una lista de pasos a nivel cuya ubicación, sin embargo, está definida solo en puntos kilométricos y con la ayuda de la cuadrícula de servicios de emergencia. Para mejorar la compatibilidad, el Centro de Investigación de Accidentes recomienda:
+Recomendación S144
+El Centro de Gestión Ferroviaria debería completar su lista de pasos a nivel con coordenadas de ubicación y remitirla a los centros de emergencias.
+
+Fecha
+Estado
+Comentarios
+6.10.2004
+EJECUTADO
+Ejecutado en formato electrónico.
+En el centro de emergencias de Oulu trabajan generalmente simultáneamente dos operadores de alarma. Los operadores de alarma no ven los mensajes de alarma inacabados de los demás, por lo que la información de alarma no se transmite entre los operadores como si se "escuchara de fondo". Para garantizar una mejor transmisión de información, el Centro de Investigación de Accidentes recomienda:
+Recomendación S145
+En las mesas 1 y 2 de los operadores de emergencia del centro de emergencias de Oulu deberían instalarse pantallas en las que se transmita el contenido de la pantalla del operador de emergencia adyacente.
+
+Fecha
+Estado
+Comentarios
+19.5.2003
+NO SE EJECUTA
+Vendrán nuevos centros de emergencias.
+El director de las operaciones de rescate no disponía de suficientes subdirectores, porque en las instrucciones de alarma no se habían definido, por ejemplo, los directores de las salidas básicas. La falta de subdirectores podría haber dificultado considerablemente las operaciones de rescate en un accidente más dinámico.
+Recomendación S146
+Las formaciones de alerta del cuerpo de bomberos deberían agruparse en las instrucciones de alarma de acuerdo con la instrucción 21/701/92 de 14.9.1992 del Ministerio del Interior (Serie A:42, Instrucción sobre la preparación operativa de los cuerpos municipales de bomberos).
+
+Fecha
+Estado
+Comentarios
+19.5.2003
+EJECUTADO
+Nueva instrucción de preparación operativa.
+El lugar del accidente se congestionó y por él circulaban personas ajenas, porque en una fase
+Recomendación S147
+anterior no se había designado el punto de acceso, la orientación y la zona de agrupación y espera para los recursos que no podían utilizarse de inmediato de forma ordenada.
+Especialmente en situaciones de accidente que requieren muchos recursos, en una fase temprana debería designarse el punto de acceso, la orientación y la zona de agrupación y espera para los recursos que no pueden designarse de inmediato de forma ordenada para la misión de rescate, y procurar aislar el lugar del accidente lo antes posible.
+
+Fecha
+Estado
+Comentarios
+14.2.2006
+EJECUTADO
+En ejecución. Se definirá en la guía de dirección. Formación. El aislamiento lo realiza la policía.
+En el lugar del accidente circulaban representantes de los medios de comunicación que exigían la atención continua de las operaciones de rescate. Sin embargo, no se les pudo atender adecuadamente, porque la información no se ritmó designando los horarios de las ruedas de prensa y lugares de información separados.
+Recomendación S148
+Debería prepararse con antelación la información oportuna durante el accidente y en los accidentes que despiertan mucho interés público debería prestarse especial atención a la organización y el ritmo de la información.
+
+Fecha
+Estado
+Comentarios
+6.10.2004
+EJECUTADO
+En ejecución. El OTK ha elaborado su propia instrucción de información. VR se ocupa de la información al cliente; se elabora una lista de verificación.
+
+6.7.2000, a las 10.48 (B2/2000R)
+Hora:
+Kuivaniemi, paso a nivel sin vigilancia de Myllykanka
+Lugar:
+Tren de pasajeros – conjunto de vehículos
+Tipo de accidente:
+Tren de pasajeros 601, locomotora diésel Dv12 y tres coches de pasajeros
+Tipo y número de tren:
+Camión Volvo F12, año de modelo 1990+remolque propio
+Vehículo:
+RKP, año de modelo 1990
+
+
+## Página 233
+
+## Anexo 3/3 (21)
+En el tren
+En el vehiculo
+En el tren y en el vehiculo:
+Personal:
+Pasajeros:
+Muertos:
+Personal:
+1
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+1
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+9
+0
+Pasajeros:
+La locomotora del tren resultó dañada en la parte delantera y los coches sufrieron daños graves.
+Daños en el material rodante:
+El remolque del conjunto de vehículos quedó totalmente destrozado.
+La vía resultó dañada durante unos 450 metros.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: Un tren de pasajeros chocó contra un conjunto de vehículos que transportaba grava. El conductor del conjunto de vehículos circulaba por el paso a nivel a una velocidad excesiva, por lo que el conductor no tuvo tiempo de mirar correctamente ni tampoco habría tenido tiempo de detenerse antes de la vía. Como factor de fondo de la velocidad excesiva probablemente estaba el hecho de que el conductor había acordado justo antes del paso a nivel un cruce con el conductor de otro conjunto de vehículos. Eso en sí no causó una prisa real, pero sin embargo pudo crear en el conductor algún tipo de plan sobre el curso de los acontecimientos venideros y, por lo tanto, causar una renuencia a reducir la velocidad.
+
+De acuerdo con la parte 9 de las normas e instrucciones técnicas ferroviarias, en vigor desde 1983, las disposiciones se refieren solo a los nuevos, es decir, a los pasos a nivel construidos después de 1983, así como, en la medida aplicable, a otros pasos a nivel. Por lo tanto, es posible interpretar el RAMO de modo que no sea necesario cumplir los requisitos de visibilidad si el paso a nivel se construyó originalmente antes de 1983.
+Recomendación S153
+En el RAMO también se dispone que la limpieza y el mantenimiento del área de visibilidad corresponde al titular de la carretera, tanto en el caso de la carretera pública como de la privada. En la práctica no es posible suponer que los titulares de las carreteras sean capaces de velar por el cumplimiento de los requisitos de visibilidad.
+Al limpiar las áreas de visibilidad también deben tenerse en cuenta las cuestiones de propiedad de la tierra. El requisito de visibilidad, que se define a ocho metros del raíl más próximo, aparentemente en la mayoría de los casos no requiere limpieza fuera del área ferroviaria. A la inversa, no se puede esperar que otros propietarios de la tierra realicen la limpieza en el área ferroviaria.
+Las disposiciones sobre requisitos de visibilidad deberían extenderse a todos los pasos a nivel sin vigilancia.
+
+Fecha
+Estado
+Comentarios
+NO SE EJECUTA.
+SE PRETENDE EJECUTAR. Lleva décadas.
+Véase la justificación anterior de la recomendación S153.
+Recomendación S154
+La responsabilidad de la supervisión del cumplimiento de las visibilidades del paso a nivel y de su limpieza debería transferirse de forma inequívoca al titular de la vía.
+
+Fecha
+Estado
+Comentarios
+18.4.2001
+EJECUTADO
+RAMO 2001
+Cerca del paso a nivel de Myllykanka hay una gran trituradora de grava, cuyos productos se transportan con vehículos pesados a través del paso a nivel. El transporte lo realizaban pequeñas empresas locales de transporte, que en esta ocasión entregaron 19 000 toneladas de grava al proyecto de mejora básica de la vía de Oy VR-Rata Ab.
+Recomendación S155
+Al planificar trabajos de transporte que impliquen varios cruces de vía con material pesado, los responsables del tráfico ferroviario y del transporte deberían negociar entre sí sobre los arreglos de seguridad de los pasos a nivel. En las conversaciones deberían tenerse en cuenta tanto los puntos de vista de los conductores de locomotoras como los de los conductores de automóviles.
+
+Fecha
+Estado
+Comentarios
+14.3.2006
+EJECUTADO.
+Al acordar los trabajos
+Al accidente se envió en la primera fase una formación de rescate con una plantilla equivalente principalmente a una salida parcial del cuerpo de bomberos, que se completó posteriormente con una plantilla de rescate con una plantilla equivalente principalmente a una salida básica del cuerpo de bomberos. La instrucción del Ministerio del Interior exige la activación de la salida de zona en un accidente de tren de pasajeros. Si se hubieran necesiado más recursos al principio, la ayuda se habría retrasado.
+Recomendación S156
+
+## Página 234
+
+## Anexo 3/4 (21)
+Los recursos deberían movilizarse con carácter prioritario de acuerdo con la instrucción del Ministerio del Interior
+21/701/92 14.9.1992 (Serie A:42, Instrucción sobre la capacidad operativa de los cuerpos de bomberos municipales).
+Fecha
+Estado
+Comentarios
+28.6.2001
+EJECUTADO
+En Oulu, siempre aviso de salida de zona ante accidentes de trenes de pasajeros.
+Recomendación S157
+Los operadores ferroviarios deberían tener en cuenta, en sus propias instrucciones sobre comunicación en crisis, también la información que se facilita a los afectados por el accidente y a sus familiares.
+Fecha
+Estado
+Comentarios
+21.3.2002
+EJECUTADO
+Número público, si ocurre algo.
+En la investigación de accidentes es, en general, muy difícil determinar, por ejemplo, la influencia de la fatiga del conductor de automóvil o de locomotora en el accidente, salvo en casos extremadamente flagrantes. En este accidente, a juicio de la comisión de investigación, el conductor del conjunto de vehículos probablemente no estaba más fatigado de lo habitual, aunque sí había incumplido las disposiciones sobre descanso y tiempos de conducción.
+Recomendación S158
+Para conseguir mayor motivación en el sector del transporte en el cumplimiento de las disposiciones sobre tiempos de conducción y descanso, la comisión de investigación recomienda:
+Debería aumentarse la supervisión de los tiempos de conducción y descanso de los conductores de automóviles. Para facilitarlo, en lugar del tacógrafo, los datos de conducción deberían almacenarse y facilitarse a la autoridad supervisora de una forma técnicamente más moderna.
+Fecha
+Estado
+Comentarios
+EJECUTADO
+Se está pasando a tacógrafos digitales. Supervisión conforme a las disposiciones de la UE; supervisión porcentual (1 %).
+ 1.7.2003, a las 18.39 (C6/2003R)
+Hora:
+Lappeenranta, paso a nivel sin vigilancia de Ihalainen
+Lugar:
+Unidad de maniobras – conjunto de vehículos
+Tipo de accidente:
+Unidad de maniobras, locomotora diésel Dv12 y 32 vagones de mercancías
+Tipo y número de tren:
+Camión Volvo FH12, año de modelo 1995 + remolque propio
+Vehículo:
+Pneutrans, año de modelo 1979
+En el tren
+En el vehículo
+3
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+3
+1
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+Daños materiales:
+La locomotora de la unidad de maniobras resultó dañada en su parte delantera. El remolque del conjunto de vehículos resultó dañado e inutilizable.
+Daños en la infraestructura:
+La plataforma del paso a nivel resultó dañada.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: La unidad de maniobras colisionó con un conjunto de vehículos en un paso a nivel sin vigilancia. El conjunto de vehículos que cruzaba el paso a nivel no disponía de tiempo suficiente para salir de forma segura del paso a nivel cuando el tren llegó a ser visible para el conductor del conjunto de vehículos. El cruce seguro del paso a nivel se hizo imposible en el accidente debido a la mala visibilidad del paso a nivel al circular en dirección a Mustola desde la zona industrial de Ihalainen. Parcialmente, en el suceso influyó también la actuación del conductor. Mientras se encontraba en la zona del paso a nivel, parte de la atención del conductor se centró en el teléfono móvil.
+Dicho paso a nivel no garantiza a los conjuntos de vehículos un tiempo de cruce suficientemente seguro.
+Recomendación S187
+El paso a nivel de Ihalainen, situado en Lappeenranta, debería equiparse con dispositivos de aviso.
+Fecha
+Estado
+Comentarios
+En curso
+Aún no ejecutado.
+
+
+## Página 235
+
+## Anexo 3/5 (21)
+En la red ferroviaria estatal existen varias decenas de pasos a nivel sin dispositivos de aviso, en los que las condiciones son tan deficientes que a un conjunto de vehículos no le es posible cruzar el paso a nivel de forma segura. El tiempo del que dispone el conductor para detectar el tren es menor que el tiempo que necesita un conjunto de vehículos para cruzar el paso a nivel. Si la seguridad del paso a nivel no puede mejorarse, por ejemplo, con dispositivos de aviso, debería estar prohibido al menos el tráfico regular de conjuntos de vehículos.
+Recomendación S188
+En los pasos a nivel en los que no se puede alcanzar el campo de visibilidad necesario para el cruce seguro de un conjunto de vehículos y no pueden equiparse con dispositivos de aviso, debería estar prohibido el tráfico regular de conjuntos de vehículos.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+El MTT (Ministerio de Transporte y Comunicaciones) investiga con la Agencia de Transporte la competencia para hacer avanzar la recomendación. Se han impuesto parcialmente restricciones en algunos pasos a nivel.
+Estudio de seguridad sobre accidentes en pasos a nivel S1/2005
+Hora:
+Resumen: En el estudio de seguridad, la comisión examinó siete accidentes en pasos a nivel de distintos tipos y niveles en Finlandia en los años 2005–2006. Además, como fuentes de datos se utilizaron los accidentes mortales estudiados por los comités de investigación de siniestros de tráfico del Comité de Seguridad Vial de las Compañías de Seguro (VALT) en los años 1991–2004, así como los datos recopilados por VR-Yhtymä Oy sobre todos los accidentes en pasos a nivel en los años 2003–2005. El estudio utilizó también datos estadísticos relativos a accidentes en pasos a nivel y al tráfico ferroviario y por carretera de los años 1991–2004. Además, la comisión examinó estadísticas recopiladas sobre accidentes en pasos a nivel a nivel internacional e informes de investigación elaborados sobre accidentes individuales, a fin de obtener una base de comparación sobre el nivel de seguridad en los pasos a nivel en Finlandia y datos sobre posibles medidas para mejorar la seguridad. Al final del estudio de seguridad, la comisión analizó todo el material de investigación antes mencionado, extrajo conclusiones del mismo y emitió recomendaciones para mejorar la seguridad.
+Según las instrucciones de VR Yhtymä Oy, desde el lugar de un accidente ferroviario solo debe emitirse una alerta de emergencia a la dirección de tráfico. Mediante el sistema de numeración de emergencia ELS del equipo de centro de emergencias, el teléfono móvil utilizado para emitir la alerta puede localizarse mientras la llamada siga abierta. La llamada de emergencia realizada directamente desde el lugar del accidente presenta, además de la localización, otras ventajas: al eliminarse los intermediarios, mejora la comunicación, el llamante puede informar de la evolución de la situación en tiempo real y el centro de emergencias puede dar directamente instrucciones de actuación, por ejemplo, sobre primeros auxilios o indicaciones, al personal que opera en el lugar del accidente.
+Recomendación S211
+Emitida en la investigación B1/2005R
+Repetida:
+S1/2005R,
+B2/2007R,
+B4/2007R,
+C1/2007R,
+B5/2007R,
+B7/2007R,
+B1/2009R,
+B3/2009R,
+B2/2010R
+Las instrucciones relativas a la emisión de alertas de emergencia deberían desarrollarse de modo que, siempre que se necesite ayuda urgente de los servicios de salvamento, desde el lugar del accidente se llame, además de a la dirección de tráfico, directamente al número de emergencia general.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+En ejecución (en colaboración con el equipo de centro de emergencias, VR y la Agencia de Transporte).
+La comisión de investigación ha llegado, en su estudio de seguridad, a la conclusión de que en la mayoría de los accidentes el vehículo ha entrado en el paso a nivel sin detenerse. Sin embargo, en Finlandia, los requisitos de visibilidad de los pasos a nivel sin vigilancia solo garantizan una visibilidad segura a ocho metros de la vía. A esa distancia, detener el automóvil es imposible si no se ha previsto detenerse.
+Recomendación S213
+La detención debería convertirse en un patrón de comportamiento en los pasos a nivel sin vigilancia en los que la visibilidad en dirección a la vía solo se alcanza a 8 m de la vía.
+Fecha
+Estado
+Comentarios
+NO SE EJECUTARÁ
+RVI: La velocidad de aproximación es mejor desde el punto de vista de la seguridad; en el nuevo reglamento se abordan los requisitos de visibilidad de forma diferente.
+La práctica actual de requisitos de visibilidad en Finlandia agrupa pasos a nivel muy diferentes en la misma categoría y no aprovecha las buenas visibilidades existentes en muchos pasos a nivel.
+Recomendación S214
+
+
+## Página 236
+
+## Anexo 3/6 (21)
+Los requisitos de visibilidad de los pasos a nivel deberían modificarse de modo que tuvieran en cuenta también la posibilidad de cruzar el paso a nivel sin detenerse, cuando la visibilidad suficiente en dirección a la vía se alcance significativamente más lejos que a 8 metros de la vía.
+Fecha
+Estado
+Comentarios
+NO SE EJECUTARÁ
+En el nuevo reglamento se abordan los requisitos de visibilidad de forma diferente.
+Dado que como factor de fondo de la no detención suele existir un error de percepción del conductor, debería mejorarse la visibilidad tanto del tren como del paso a nivel. Por ejemplo, en los casos estudiados por la comisión, el conductor del vehículo no había percibido el tren en absoluto o lo percibió demasiado tarde.
+Recomendación S215
+Repetida:
+B2/2007R
+Debería mejorarse la visibilidad del tren y del paso a nivel.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+Badenes y traviesas de balasto en la carretera; en pruebas con el VTT también en vías de balasto. En los vagones nuevos, reflectores en los extremos de los ejes.
+18.8.2011
+En curso
+Se han realizado y se siguen realizando investigaciones y pruebas.
+En la mayoría de los pasos a nivel existe un límite de velocidad elevado, incluso de 80 km/h. Esto influye en la percepción de los conductores sobre la seguridad del paso a nivel y, por tanto, en su comportamiento en el paso a nivel.
+Recomendación S216
+El límite de velocidad de la carretera en el paso a nivel debería ser como máximo de 50 km/h o, según el caso, aún más bajo en función de las características del paso a nivel.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+No se incluyó en la instrucción de la Dirección de Carreteras. Asunto planteado al elaborar nuevas instrucciones.
+18.8.2011
+En curso
+No figura en las instrucciones de la Agencia de Transporte.
+En la mayoría de los pasos a nivel, la zona de espera no se encuentra en las condiciones exigidas por el RAMO. Esto conduce frecuentemente a la renuencia a detenerse en el paso a nivel.
+Recomendación S217
+Las zonas de espera de los pasos a nivel en mal estado deberían rehabilitarse conforme a los requisitos del RAMO.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+La asociación de carreteras se ha activado; necesitaría el apoyo de las autoridades.
+Las disposiciones actuales de la parte 9 del RAMO no se aplican a los pasos a nivel antiguos. De ello se desprende incertidumbre sobre qué requisitos son aplicables al mantenimiento de los pasos a nivel.
+Recomendación S218
+Deberían elaborarse instrucciones de mantenimiento para los pasos a nivel.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+En ejecución (elaboración de disposiciones e instrucciones en curso).
+En la actualidad no es posible restringir o prohibir el cruce de pasos a nivel, por ejemplo, a vehículos pesados, por muy peligroso que sea el paso a nivel. En la red ferroviaria existen, por ejemplo, pasos a nivel en los que la distancia de visibilidad no es suficiente para que un conjunto de vehículos cruce el paso a nivel de forma segura. A pesar de ello, no se puede prohibir el cruce.
+Recomendación S219
+El gestor de la vía y la autoridad de seguridad deberían tener la posibilidad de restringir el tráfico de vehículos en los pasos a nivel.
+Fecha
+Estado
+Comentarios
+18.8.2011
+EJECUTADO
+Posibilidad incorporada a la ley ferroviaria.
+En muchos países, la señal acústica emitida por la locomotora es un elemento de seguridad fundamental.
+Recomendación S220
+En algunos países el pitar es incluso obligatorio y en otros es habitual pitar en todos los pasos a nivel. Por otro lado, los silbatos causan molestias acústicas y no existe información de investigación finlandesa sobre su alcance y su capacidad de atraer la atención.
+Debería realizarse una investigación sobre el uso de los silbatos en los pasos a nivel.
+Fecha
+Estado
+Comentarios
+18.8.2011
+NO SE EJECUTARÁ
+Porque en tramos de vía densos el silbato sonaría todo el tiempo.
+Si la planificación de la ruta realizada de antemano se ha hecho mal o sobre bases erróneas, se producen cruces innecesarios de pasos a nivel y cruces de vía peligrosos, especialmente para vehículos pesados, al elegir pasos a nivel más peligrosos.
+Recomendación S221
+
+## Página 237
+
+## Anexo 3/7 (21)
+Las empresas de transporte deberían tener en cuenta los posibles pasos a nivel en la planificación de rutas. Los pasos a nivel deberían minimizarse y dirigirse por un punto de cruce más seguro.
+Fecha
+Estado
+Comentarios
+18.8.2011
+EJECUTADO
+Las organizaciones de representación de los empresarios de transporte de mercancías y de las empresas de transporte, así como de las empresas que prestan servicios logísticos, recuerdan regularmente el asunto.
+A medida que disminuyen los terrenos disponibles, especialmente en los grandes núcleos de población, se planifican nuevas zonas, Recommendation S222
+que se encuentran detrás de conexiones de transporte deficientes. La ruta puede incluir un paso a nivel a través de un cruce a nivel que originalmente se construyó para una sola vivienda o un camino agrícola. Debería prestarse atención a la planificación de las vías de acceso para garantizar un tránsito seguro hacia la zona.
+En la planificación urbanística debería tenerse en cuenta de forma contundente la seguridad en el paso a nivel y evitarse la construcción de nuevos cruces a nivel.
+Fecha
+Estado
+Comentarios
+18.8.2011
+EJECUTADO
+Está en la instrucción de la Administración de Medio Ambiente.
+17.1.2007, a las 10.50 (B1/2007R)
+Hora:
+Närpiö, paso a nivel sin vigilancia de Karlån
+Lugar:
+Tren de mercancías – Furgoneta
+Tipo de accidente:
+Tren de mercancías 3273, 2 locomotoras diésel Dv12 y 35 vagones
+Tipo y número de tren:
+Furgoneta Opel Astra, año 2001
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+La locomotora sufrió daños menores y la furgoneta quedó dañada hasta el punto de ser inutilizable.
+Daños al material rodante:
+No.
+Daños a la vía:
+Se perdió y dañó correo postal distribuible.
+Otros daños:
+Resumen: Un tren de mercancías chocó contra una furgoneta en un cruce a nivel sin vigilancia. El conductor de la furgoneta no esquivó el tren que llegaba simultáneamente por la derecha. Es evidente que el conductor no miró en la dirección del tren que se aproximaba o no lo detectó.
+Un conductor que realiza tareas de reparto en una ruta conocida puede prestar tanta atención a algo distinto de la conducción que su atención y el seguimiento del tráfico y del entorno se ven perturbados. Los puntos de peligro especiales en ese momento son los cruces a nivel sin vigilancia.
+Recommendation S224
+Itella y demás establecimientos comerciales que realizan actividades de reparto pueden mejorar la seguridad al planificar las rutas de reparto evitando los cruces a nivel sin vigilancia.
+Fecha
+Estado
+Comentarios
+16.6.2011
+En curso
+SKAL también recuerda esto a Itella.
+Los cruces a nivel y otros puntos peligrosos podrían tenerse de antemano en cuenta en la clasificación en relación con la ruta.
+Recommendation S225
+En el correo distribuible podría insertarse una señal que advierta sobre un punto peligroso, lo que despertaría al repartidor de correo cuando llegara al punto de la ruta detectado como peligroso.
+Fecha
+Estado
+Comentarios
+16.6.2011
+En curso
+El uso de dispositivos de navegación se está generalizando rápidamente y es posible incluir en ellos distintos programas para informar sobre puntos peligrosos en la red viaria.
+Recommendation S226
+En el navegador / dispositivo GPS del coche debería instalarse una advertencia sobre puntos peligrosos como los cruces a nivel.
+
+
+## Página 238
+
+## Anexo 3/8 (21)
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+Base de datos de cruces a nivel disponible en internet para el navegador.
+El uso del cinturón de seguridad en situaciones de accidente, incluso circulando a velocidades bajas, puede evitar lesiones o la muerte..
+Recommendation S227
+La obligatoriedad de uso del cinturón de seguridad debería ampliarse para abarcar también a los conductores y pasajeros de los vehículos de reparto, independientemente del trayecto.
+Fecha
+Estado
+Comentarios
+16.6.2011
+En curso
+SKAL lo apoya por razones de seguridad.
+5.3.2007, a las 14.39 (B2/2007R)
+Hora:
+Nivala, paso a nivel sin vigilancia de Pahaoja
+Lugar:
+Tren de pasajeros – Turismo
+Tipo de accidente:
+Tren de cercanías H494, Kiskobussi Dm12
+Tipo y número de tren:
+Turismo Renault Laguna Break 1.6, año 2000
+Vehículo:
+En el tren
+En el vehículo
+2
+1
+En el tren y en el vehículo:
+Personal:
+25
+1
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+Al Kiskobussi le causó daños menores, el turismo quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: Un Kiskobussi chocó contra un turismo en un cruce a nivel sin vigilancia. El conductor del turismo condujo sin detenerse en el cruce a nivel. Es probable que el conductor y el pasajero del turismo no vieran en absoluto el Kiskobussi que se aproximaba por la derecha. Las siguientes circunstancias pudieron influir: la atención del conductor estaba en una llamada telefónica recibida por el pasajero y posiblemente en la búsqueda del teléfono que sonaba, la atención del conductor estaba en abrocharse el cinturón de seguridad, el tren corto que se aproximaba quedó oculto por las estructuras del vehículo en movimiento y por el pasajero, el conductor no siempre se detenía en el cruce a nivel.
+El paso a nivel sin vigilancia de Pahaoja se encuentra en el camino privado de Niskakankaan, muy transitado, utilizado además de por los residentes de la zona por un servicio regular de taxis y, debido a la agricultura e industria de la zona, también por tráfico pesado. Ya solo por la seguridad ferroviaria sería extremadamente importante equipar el cruce a nivel con un dispositivo de aviso con barreras. La medida aumenta también la probabilidad de que el conductor detecte el tren que se aproxima gracias a las barreras bajas o descendiendo.
+Recommendation S228
+El paso a nivel sin vigilancia de Pahaoja debería equiparse con un dispositivo de barreras semiautomáticas.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+No se va a equipar con un dispositivo de barreras semiautomáticas. El cruce a nivel cumple las instrucciones sobre cruces a nivel.
+16.6.2011
+En curso
+Nivala comenta que están planificando más parcelas residenciales en la zona y que están a favor de instalar un dispositivo de barreras semiautomáticas.
+Las zonas de cruce a nivel deberían hacerse de tal forma, tanto en su aspecto como en sus plataformas de espera, que los usuarios del tráfico por carretera tengan la posibilidad de hacer observaciones visuales en la zona de cruce a nivel lo antes posible. El titular de la vía férrea o de la carretera debería tener derecho a limitar los árboles u otra vegetación cerca del cruce a nivel, si estos causan obstáculos visuales. Las plataformas de espera deberían modelarse en sus pendientes de tal manera que no induzcan al conductor del coche, en ninguna condición meteorológica, a cruzar la vía sin detenerse.
+Recommendation S229
+El entorno del cruce a nivel debería hacerse seguro para el tráfico por carretera.
+Fecha
+Estado
+Comentarios
+19.2.2010
+NO SE EJECUTARÁ
+El cruce a nivel cumple las instrucciones sobre cruces a nivel.
+La parte inferior fijada con tornillos al arado de defensa se desprendió en el choque. Al quedar bajo las ruedas, podría haber descarrilado el tren.
+Recommendation S230
+Repetido:
+
+
+## Página 239
+
+## Anexo 3/9 (21)
+El arado de defensa del Kiskobussi Dm12 debería diseñarse de forma que sea
+B3/2008R
+bien continuo o bien las piezas adicionales estén fijadas suficientemente bien.
+Fecha
+Estado
+Comentarios
+19.2.2010
+EJECUTADO
+Soldado para fijarlo.
+6.5.2007, a las 15.33 (B4/2007R)
+Hora:
+Kiuruvesi, paso a nivel sin vigilancia de Pohja
+Lugar:
+Tren de pasajeros – Turismo
+Tipo de accidente:
+Tren de cercanías 494, dos Kiskobussi Dm12
+Tipo y número de tren:
+Turismo Nissan Almera 4D Sedan año 2005
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+~60
+1
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El coche quedó destrozado hasta el punto de ser irreparable. Se dañaron los equipos del frontal y del chasis del tren.
+Daños al material rodante:
+Se causaron daños menores en la estructura de madera del paso a nivel.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: Un Kiskobussi chocó contra un turismo en un cruce a nivel sin vigilancia. El conductor del coche no detectó el tren. El cruce a nivel del accidente no cumple las instrucciones sobre cruces a nivel en cuanto a visibilidad y ángulo de cruce. Las características del cruce a nivel y posiblemente el estado de salud del conductor dificultaron la detección. La atención del conductor probablemente se vio mermada por la familiaridad con el cruce a nivel.
+El cruce a nivel actualmente no cumple las instrucciones sobre visibilidad y ángulo de cruce de las normas y directrices de ingeniería ferroviaria. Dado que el cruce a nivel de Pohja es peligroso por sus circunstancias y está muy cerca de un punto de cruce seguro, la comisión de investigación recomienda:
+Recommendation S234
+El cruce a nivel de Pohja debería cerrarse y construirse para él una conexión sustitutiva a través del puente de Hilappirannantie.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+La ciudad de Kiuruvesi no tiene constancia de las medidas adoptadas.
+El tráfico del camino privado de Pohjanperä (nº 196) circula a través del paso a nivel.
+El cruce a nivel de Pohja se encuentra muy cerca de un punto de cruce seguro y los costes de su eliminación serían relativamente bajos. El punto de cruce seguro cercano queda sin aprovechar en la situación actual. El Centro de Gestión de la Vía Férrea debería cartografiar y eliminar sistemáticamente también aquellos cruces a nivel cuya eliminación y construcción de una ruta sustitutiva puedan realizarse con costes bajos. Por esta razón, la comisión de investigación recomienda:
+Recommendation S235
+El Centro de Gestión de la Vía Férrea debería cartografiar sistemáticamente aquellos cruces a nivel que tengan cerca un puente o cuyo tráfico pueda redirigirse de otro modo por una ruta más segura y, en consecuencia, eliminarlos aunque su volumen de tráfico y su nivel de riesgo sean bajos.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+No se va a llevar a cabo.
+La activación de las operaciones de rescate del accidente se vio obstaculizada porque la llamada de emergencia del regulador de tráfico se redirigió al centro de emergencias de Pohjois-Pohjanmaa y Kainuu, que no era el centro de emergencias responsable del lugar del accidente. Dado que las áreas de regulación del tráfico de los ferrocarriles suelen abarcar el territorio de varios centros de emergencias distintos, deberían desarrollarse las posibilidades de los reguladores de tráfico para emitir avisos de emergencia. Por esta razón, la comisión de investigación recomienda:
+Recommendation S236
+Los reguladores de tráfico deberían tener la capacidad de emitir un aviso de emergencia a aquel centro de emergencias cuya área de responsabilidad corresponda al lugar del accidente.
+Fecha
+Estado
+Comentarios
+
+## Página 240
+
+## Anexo 3/10 (21)
+19.2.2010
+En curso
+En marcha. Del accidente debe notificarse desde el lugar del accidente directamente al centro de emergencias para determinar la localización y la urgencia.
+16.6.2011
+En curso
+En ejecución (en colaboración con Hätäkeskuslaitos, VR, Liikennevirasto).
+9.3.2007, a las 16.13 (B3/2007R)
+Hora:
+Särkisalmi, paso a nivel sin vigilancia de Sinkonen
+Lugar:
+Tren de pasajeros – automóvil
+Tipo de accidente:
+Tren de cercanías 746, autobús de rieles Dm 12
+Tipo y número de tren:
+Automóvil Mercedes Benz 190D, año de fabricación 1985
+Vehículo:
+En el tren
+En el vehículo
+2
+1
+En el tren y en el vehículo:
+Personal:
+34
+1
+Pasajeros:
+0
+1
+Muertos:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El despejador de obstáculos y el acoplamiento del autobús de rieles resultaron dañados, el automóvil
+Daños al material rodante:
+resultó gravemente dañado.
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: El autobús de rieles colisionó con un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil no miró con la suficiente diligencia al entrar en el paso a nivel desde la carretera. El accidente también pudo verse influido por el hecho de que el conductor del automóvil pudo haberse asegurado de que el paso a nivel estaba libre ya mientras circulaba por la carretera Melkoniementie, que transcurre en paralelo a la vía, y no volvió a mirar al entrar en el paso a nivel al llegar a la vía.
+
+Al circular por Melkoniementie hacia la localidad de Särkisalmi, se cruza la vía férrea a través del paso a nivel de Särkisalmi, dotado de semibarreras. Esta ruta de conducción es 200 metros más larga que la ruta utilizada por el conductor a través del paso a nivel de Sinkonen. Para que no se utilice esta peligrosa ruta de atajo:
+Recomendación S237
+El paso a nivel de Sinkonen, situado en la localidad de Särkisalmi, debería eliminarse.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+Sigue en su lugar. Se ha ampliado la zona de limitación de velocidad de la vía. El Ayuntamiento de Parikkala renovó el 16.2.2010 su declaración de que deben instalarse dispositivos de aviso en el paso a nivel.
+18.8.2011
+En curso
+El municipio y Liikennevirasto tienen diferentes puntos de vista sobre la ejecución.
+13.8.2007, a las 15.15 (B5/2007R)
+Hora:
+Nurmijärvi, Röykkä, paso a nivel sin vigilancia de Korven
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 3649, 2 locomotoras diésel Dv12 + 41 vagones de mercancías
+Tipo y número de tren:
+Automóvil Ford Sierra 2.0, año de fabricación 1990
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Muertos:
+Personal:
+0
+1
+Pasajeros:
+0
+1
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+Daños en los equipos de la parte delantera de la locomotora, el automóvil quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+
+
+## Página 241
+
+## Anexo 3/11 (21)
+Resumen: El tren de mercancías colisionó con un automóvil en un paso a nivel sin vigilancia. El automóvil se paró en medio del paso a nivel y no volvió a arrancar, y el tren no logró detenerse a pesar de la frenada de emergencia. El conductor cometió probablemente un error de manejo del vehículo, por lo que el vehículo se paró en el paso a nivel. Una avería técnica en el vehículo impidió que este arrancara tras la parada. El estado de embriaguez del pasajero debilitó la capacidad de juicio y evaluación, e influyó también en la decisión del conductor de no salir del vehículo mientras se aproximaba el tren. Además, el pánico influyó en la decisión de no salir del automóvil.
+Recomendación S241
+Dado que el tráfico que circula por el paso a nivel de Korven aumenta continuamente debido al crecimiento de la población, y que las visuales en dirección a la vía del paso a nivel no pueden mantenerse conforme a las directrices de LVM y RAMO debido al rápido crecimiento de los arbustos, la comisión de investigación recomienda:
+El paso a nivel de Korven debería dotarse de un sistema de semibarreras.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+El paso a nivel contará con un sistema de semibarreras cuando se disponga de financiación. En el estudio de actuaciones finalizado en diciembre de 2009 se propuso dotar el paso a nivel de un sistema de semibarreras, pero al mismo tiempo se constató que el proyecto no está incluido en el plan de actuación y económico del distrito carretero de Uusimaa para los años 2010–2013.
+18.8.2011
+En curso
+No se ha ejecutado (falta de financiación).
+21.11.2007, a las 12.55 (B7/2007R)
+Hora:
+Lahti, paso a nivel sin vigilancia de Heikinpello
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 2873, locomotora diésel Dv12
+Tipo y número de tren:
+Automóvil Volkswagen Golf 1.6, año de fabricación 1999
+Vehículo:
+En el tren
+En el vehículo
+2
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Muertos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El automóvil quedó destrozado hasta el punto de ser irreparable. La locomotora solo sufrió daños
+Daños al material rodante:
+leves.
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías colisionó con un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil no detectó el tren. El paso a nivel del accidente no cumple las directrices relativas a los pasos a nivel en cuanto a las plataformas de espera, pero sí las cumple en cuanto a la visual y el ángulo de cruce. La atención del conductor pudo verse debilitada por el conocimiento previo del paso a nivel y la percepción del escaso tráfico ferroviario. Las labores de rescate se retrasaron ligeramente porque el control de tráfico llamó, desde la perspectiva del lugar del accidente, al centro de emergencias equivocado. Mayores retrasos los causaron los problemas relacionados con la localización.
+Recomendación S243
+En la línea férrea Lahti–Heinola se realizará una inversión de sustitución en el plazo de unos pocos años. El foco de la inversión es la renovación de la técnica ferroviaria, pero es evidente que la seguridad en los pasos a nivel se mejorará al nivel determinado por las directrices de RATO en el mismo contexto. Teniendo en cuenta la peligrosidad de los pasos a nivel de la línea férrea, la mejora de la seguridad en los pasos a nivel podría iniciarse de forma prioritaria antes del comienzo de la inversión de sustitución propiamente dicha. Las posibles eliminaciones de pasos a nivel con sus correspondientes reordenaciones viales, la mejora de las visuales, la reparación de las plataformas de espera y la mejora de los ángulos de encuentro con la carretera son actuaciones que podrían realizarse de antemano, inmediatamente una vez finalizados los planes.
+Deberían realizarse, en la medida de lo posible, actuaciones relacionadas con la seguridad en los pasos a nivel de la línea férrea Lahti–Heinola antes del comienzo de la inversión de sustitución.
+Fecha
+Estado
+Comentarios
+
+
+## Página 242
+
+## Anexo 3/12 (21)
+19.2.2010
+En curso
+Según el Ayuntamiento de Lahti, en la línea férrea se han reducido las limitaciones de velocidad de la carretera y se han establecido restricciones al tráfico pesado en algunos pasos a nivel. El ayuntamiento no ha realizado las tareas de despeje. El Ayuntamiento de Heinola no ha reservado fondos para la mejora de la seguridad vial en los pasos a nivel.
+18.8.2011
+En curso
+El Ayuntamiento de Lahti propone la elaboración de un plan de pasos a nivel y su inclusión en el programa de construcción de los próximos años.
+La limitación de velocidad de la línea férrea Lahti–Heinola es actualmente de 60 km/h por regla general.
+Recomendación S244
+En muchos pasos a nivel la visual es tan corta que el accidente es posible aunque nadie cometa ningún error y no haya problemas en la técnica de los vehículos. Debido al perfil de la vía, la limitación de velocidad de los trenes no puede reducirse al nivel correspondiente a las visuales, pero posiblemente sería posible reducir las velocidades en cierta medida.
+La limitación de velocidad de la línea férrea Lahti–Heinola debería reducirse en los pasos a nivel con visuales deficientes tanto como lo permita la circulación adecuada del tren.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+No se ha realizado. Posibilidades limitadas para intervenir.
+18.8.2011
+EJECUTADO
+La limitación de velocidad de la vía se ha reducido a 60 km/h.
+6.10.2007, a las 11.36 (B6/2007R)
+Hora:
+Kempele, paso a nivel sin vigilancia de Perälä
+Lugar:
+Tren Pendolino – automóvil
+Tipo de accidente:
+Pendolino S52, tren eléctrico Sm3, 6 vagones
+Tipo y número de tren:
+Automóvil Volkswagen Polo, año de fabricación 1998
+Vehículo:
+En el tren
+En el vehículo
+3
+1
+En el tren y en el vehículo:
+Personal:
+38
+0
+Pasajeros:
+0
+1
+Muertos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+La parte delantera de la locomotora y los equipos de la parte delantera resultaron dañados, el automóvil
+Daños al material rodante:
+quedó totalmente destrozado.
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: El Pendolino colisionó con un automóvil en un paso a nivel sin vigilancia. El conductor del vehículo entró en el paso a nivel sin detenerse. Es probable que el conductor del automóvil no detectara en absoluto el tren que se aproximaba por la izquierda. El hecho de que el conductor no detectara el tren que se aproximaba probablemente se debió a que el conductor del vehículo se había desorientado. Además, la atención del conductor probablemente estaba centrada en la conducción en un entorno desconocido, en la búsqueda de un lugar de giro y en los paseadores de perros que caminaban por la carretera. Desde la carretera Sohjanantie faltaban las señales de aproximación al paso a nivel y en el paso a nivel no había dispositivos de aviso que alertaran activamente al conductor. También la vegetación entre la carretera y la vía dificultaba la detección de la vía que transcurre en la misma dirección y del tren que se aproximaba.
+Recomendación S251
+Dado que en el paso a nivel la velocidad máxima permitida en la vía es de 140 km/h y la vía está muy intensamente explotada, la comisión de investigación recomienda:
+El paso a nivel sin vigilancia de Perälä debería eliminarse o sustituirse por una intersección a distinto nivel.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+El municipio lo ejecutará en el contexto de la modificación del plan general. Conexión viaria sustitutoria.
+18.8.2011
+En curso
+Aún no se ha ejecutado (se eliminará en el contexto del proyecto ferroviario Seinäjoki–Kokkola).
+Recomendación S252
+Dado que cuando se rompe la parte inferior del morro del tren el vehículo que se introduce bajo el tren puede provocar el descarrilamiento del tren, la comisión de investigación recomienda:
+Debería modificarse la estructura del morro de la locomotora eléctrica Sm3 de modo que se impida que el vehículo se introduzca bajo el morro.
+Fecha
+Estado
+Comentarios
+
+## Página 243
+
+## Anexo 3/13 (21)
+18.8.2011
+En curso
+No se ha implementado (según VR las características de circulación cambian demasiado).
+25.2.2008, a las 9.53 (B1/2008R)
+Hora:
+Laukaa, paso a nivel sin vigilancia de Kauramaa
+Lugar:
+Tren de mercancías – tractor
+Tipo de accidente:
+Tren de mercancías 3359, locomotora diésel Dv12 + 27 vagones
+Tipo y número de tren:
+Tractor Case IH 4240, año de puesta en servicio 1997
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+La parte delantera de la locomotora sufrió daños menores, el tractor quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías chocó contra un tractor en un paso a nivel sin vigilancia. El conductor del tractor no detectó el tren que se aproximaba y entró en el paso a nivel sin detenerse. El paso a nivel del accidente no cumplía las instrucciones relativas a los pasos a nivel en cuanto a la longitud de la zona de espera y la visibilidad. Especialmente la brevedad de la zona de espera pudo haber dirigido la atención del conductor del tractor hacia el manejo del tractor dotado de equipos adicionales antes de llegar al paso a nivel y en el paso a nivel. Además, la observación pudo verse dificultada por el sol que le daba directamente al conductor. El camino agrícola utilizado por el tractor estaba destinado únicamente al tráfico agrícola y no al tráfico de paso.
+En las proximidades del paso a nivel de Kauramaa hay dos rutas alternativas más seguras
+Recomendación S255
+para las zonas agrícolas situadas en el entorno de la vía. Una ruta pasa por Jyväskylän- y Pielislehdontie, en cuyo caso Jyväskyläntie pasa por debajo de la línea Jyväskylä–Haapajärvi. La otra alternativa es por Jyväskylän- y Eerolantie, mediante la cual se llega al otro lado de la vía a través del paso a nivel de Eerola, dotado de barrera semiautomática.
+El paso a nivel de Kauramaa debería eliminarse.
+Fecha
+Estado
+Comentarios
+16.6.2011
+En curso
+El municipio de Laukaa se adhiere a la propuesta.
+25.9.2008, a las 16.18 (B6/2008R)
+Hora:
+Iisalmi, paso a nivel de Suurisuo dotado de barrera semiautomática
+Lugar:
+Tren de pasajeros – automóvil
+Tipo de accidente:
+Tren de pasajeros IC78, locomotora eléctrica Sr1 y 7 vagones de pasajeros
+Tipo y número de tren:
+Automóvil Toyota Camry 4D Sedan, año modelo 1988
+Vehículo:
+En el tren
+En el vehículo
+4
+1
+En el tren y en el vehículo:
+Personal:
+~180
+1
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+La parte delantera y el lado izquierdo de la locomotora resultaron dañados en el choque. El
+Daños al material rodante:
+automóvil quedó totalmente destrozado.
+El poste de la vía eléctrica y su cimentación resultaron dañados.
+Daños a la vía:
+No.
+Otros daños:
+
+
+## Página 244
+
+## Anexo 3/14 (21)
+Resumen: El tren de pasajeros chocó contra un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil entró en el paso a nivel sin detenerse. Solo cuando ya estaba pasando por debajo de la barrera que descendía y la barrera golpeó el automóvil, el conductor frenó y el automóvil se detuvo sobre las vías. Es probable que el conductor del automóvil no detectara la señal de aviso de los dispositivos de aviso del paso a nivel ni las barreras que descendían. En ello pudieron haber influido el sol que le daba directamente, el parabrisas desgastado, la capacidad visual y auditiva deteriorada del conductor y su estado de alerta.
+En los pasos a nivel vigilados en los que el sol brillante que da directamente dificulta la visibilidad de los dispositivos de aviso del paso a nivel, debería mejorarse la visibilidad de las luces intermitentes rojas respecto a la actual. Esto se ha probado con luces LED en el tramo de vía Turku–Toijala y, según los resultados obtenidos, los conductores de automóviles han considerado buena su visibilidad.
+Recomendación S256
+En el paso a nivel de Suurisuo y en otros pasos a nivel similares en los que se ha constatado el deslumbramiento del sol, para mejorar la visibilidad de las barreras y las unidades luminosas del paso a nivel, las lámparas incandescentes rojas intermitentes de las barreras y las unidades luminosas del paso a nivel se sustituirían por luces LED intermitentes o destellantes.
+Fecha
+Estado
+Comentarios
+19.2.2010
+En curso
+Iisalmi: Conviene implementar la recomendación. Las lámparas incandescentes no se han sustituido por LED.
+18.8.2011
+En curso
+No se ha implementado.
+26.8.2008, a las 10.43 (B5/2008R)
+Hora:
+Suonenjoki, Haapakoski, paso a nivel sin vigilancia de Konttila
+Lugar:
+Unidad de trabajo en vía – automóvil
+Tipo de accidente:
+Unidad de trabajo en vía 7582, camión de carga en vía Tka8 + 3 vagones de mercancías
+Tipo y número de tren:
+Automóvil Ford Sierra 4D 2.0, año modelo 1986
+Vehículo:
+En el tren
+En el vehículo
+1+2
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+Daños menores en el camión de carga en vía, el automóvil quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: La unidad de trabajo en vía chocó contra un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil entró en el paso a nivel sin detenerse. Es probable que el conductor no detectara en absoluto la unidad de trabajo en vía que se aproximaba por la izquierda. La ausencia de zona de espera, la pendiente pronunciada y la visibilidad limitada dificultaron simultáneamente la observación y el manejo del vehículo.
+En dicho paso a nivel la pendiente hacia la vía es demasiado pronunciada y falta la zona de
+Recomendación S257
+espera. Además, el paso a nivel tiene mala visibilidad y visibilidad deficiente. Antes del paso a nivel no había señal de aviso "Paso a nivel sin barreras". El paso a nivel ha sido calificado como peligroso también en el informe de la base de datos de pasos a nivel. Aunque el paso a nivel de Konttila está en una carretera privada de poco tráfico, la velocidad máxima permitida en la vía de 140 km/h y la visibilidad limitada hacen peligroso el cruce del paso a nivel, incluso cuando se realiza con seguridad.
+La visibilidad y las zonas de espera del paso a nivel deberían repararse conforme a las instrucciones y el paso a nivel debería dotarse de la señal de aviso previo necesaria
+171.
+Fecha
+Estado
+Comentarios
+18.8.2011
+IMPLEMENTADO
+Implementado de otra forma (paso a nivel eliminado).
+De la declaración de los titulares del derecho de paso se desprende que no conocían las obliga-
+Recomendación S258
+ciones relativas a la reparación de la carretera cerca del paso a nivel.
+
+
+## Página 245
+
+## Anexo 3/15 (21)
+La Dirección de Gestión Ferroviaria debería informar a los titulares de las carreteras sobre estas obligaciones relativas a la realización y reparación de la sección de carretera relacionada con el paso a nivel conforme a las instrucciones. También debería informarse sobre los cambios realizados en la vía y las deficiencias detectadas en las inspecciones.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+No implementado (requiere la colaboración de la Agencia de Transporte y de la Asociación de Carreteras).
+7.7.2008, a las 22.41 (B4/2008R)
+Hora:
+Kiuruvesi, paso a nivel sin vigilancia de Vehkatie
+Lugar:
+Tren de mercancías – furgoneta
+Tipo de accidente:
+Tren de mercancías 5040, dos locomotoras diésel Dv12
+Tipo y número de tren:
+Furgoneta Toyota Hiace, año modelo 2000
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+La parte delantera de la locomotora sufrió daños, la furgoneta quedó totalmente destrozada.
+Daños al material rodante:
+La estructura de la caseta del paso a nivel resultó dañada.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías chocó contra una furgoneta en un paso a nivel sin vigilancia. El conductor del automóvil entró en el paso a nivel sin detenerse. El conductor del automóvil probablemente vio la locomotora que se aproximaba demasiado tarde y ya no pudo evitar el choque. La observación pudo verse perturbada por el sol de la tarde que daba bajo desde la dirección de llegada del tren. Es posible que la atención del conductor estuviera puesta en un mensaje de texto recibido o en la búsqueda del teléfono. Además, el tren que se aproximaba pudo quedar oculto por los puntos ciegos formados por la estructura de la carrocería del automóvil en un paso a nivel que se ve oblicuamente respecto a la vía.
+Debido a la peligrosidad del paso a nivel, la junta de investigación recomienda:
+Recomendación S259
+El paso a nivel de Vehkatie debería eliminarse.
+Fecha
+Estado
+Comentarios
+19.2.2010
+IMPLEMENTADO
+Implementado de otra forma. La ciudad de Kiuruvesi prohibió el tráfico de vehículos a motor en el paso a nivel y dotó el paso a nivel únicamente de barreras que permiten el tráfico peatonal. La Dirección de Carreteras restringió el tráfico de Vehkatie permitiendo únicamente el acceso a las parcelas.
+En el sistema de información ELS del centro de emergencias, con el nombre del paso a nivel "Vehkatie", no
+Recomendación S260
+se encontró ninguna información, porque allí había datos obsoletos sobre el nombre del paso a nivel. Con el dato de kilómetro de vía, el sistema ELS indicaba como nombre del paso a nivel "Tiilitehdas", aunque en la base de datos Tasoristeys.fi el nombre del paso a nivel es "Vehkatie".
+Los centros de emergencias deberían actualizar periódicamente los datos de los objetos de los sistemas de información ELS para que sean coherentes con la base de datos Tasoristeys.fi.
+Fecha
+Estado
+Comentarios
+18.8.2011
+IMPLEMENTADO
+El centro de emergencias actualiza las bases de datos una vez al año.
+25.6.2008, a las 16.23 (B3/2008R)
+Hora:
+Liperi, Viinijärvi, paso a nivel sin vigilancia de Huikuri
+Lugar:
+Tren de pasajeros – ciclomotor
+Tipo de accidente:
+Tren de cercanías 784, autobús sobre raíles Dm12
+Tipo y número de tren:
+Ciclomotor Baotian BT49QT-7-TCAP7/49, año modelo 2006
+Vehículo:
+En el tren
+En el vehículo
+2
+1
+En el tren y en el vehículo:
+Personal:
+~20
+0
+Pasajeros:
+Fallecidos:
+Personal:
+Pasajeros:
+
+## Página 246
+
+## Anexo 3/16 (21)
+Gravemente herido:
+Personal:
+Pasajeros:
+Levemente herido:
+Personal:
+Pasajeros:
+El autobús de vía sufrió daños menores, el ciclomotor quedó totalmente destrozado.
+Daños en el material rodante:
+La marca de balizamiento se torció.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: El autobús de vía chocó contra un ciclomotor en un paso a nivel sin vigilancia. El conductor del ciclomotor entró en el paso a nivel sin detenerse. Es probable que el conductor del ciclomotor no llegara a percibir en absoluto el autobús de vía que se aproximaba por la derecha, o lo detectara demasiado tarde. Concurrieron los siguientes factores:
+- el paso a nivel se situaba en las inmediaciones inmediatas de una carretera principal con tráfico intenso
+- la atención del conductor del ciclomotor estaba centrada en mantenerse en pie al cambiar el firme de la carretera de firme permanente a firme de grava y cantos
+- en el paso a nivel no había ningún dispositivo de aviso que advirtiera activamente a los usuarios del paso a nivel
+- el autobús de vía se aproximaba al paso a nivel a una velocidad de 120 km/h
+- el autobús de vía es silencioso en cuanto al nivel sonoro y de coloración relativamente neutro, lo que dificulta su detección.
+En las inmediaciones inmediatas del paso a nivel sin vigilancia de Huikuri hay varios
+Recomendación S263
+pasos a nivel por los que se podría desviar el tráfico.
+El paso a nivel sin vigilancia de Huikuri debería suprimirse.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+11.2.2009, a las 15.12 (B1/2009R)
+Hora:
+Pori, Kyläsaari, paso a nivel sin vigilancia de Teurastamo
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 3864, locomotora diésel Dv12
+Tipo y número de tren:
+Automóvil Volvo S40, año de modelo 1997
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+1
+2
+Pasajeros:
+0
+0
+Fallecidos:
+Personal:
+0
+2
+Pasajeros:
+0
+1
+Gravemente herido:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Levemente herido:
+Personal:
+0
+0
+Pasajeros:
+Daños menores en la locomotora, el automóvil quedó totalmente destrozado.
+Daños en el material rodante:
+No.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías chocó contra un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil detectó el tren demasiado tarde y no llegó a detenerse ni a evitar el accidente de otra forma. Concurrieron los siguientes factores de fondo:
+- el paso a nivel era conocido por el conductor del automóvil, lo que generalmente reduce la precaución
+- en el paso a nivel no había dispositivos de aviso
+- en el paso a nivel no había plataformas de espera adecuadas y la rampa de acceso al paso a nivel era tan pronunciada que el conductor del automóvil evita detenerse, especialmente con el pavimento resbaladizo
+- la visibilidad hacia la izquierda era peor que hacia la derecha, en la dirección de llegada del tren, y el desequilibrio tiene la tendencia a aumentar los errores de percepción en la dirección de mejor visibilidad
+- un terraplén construido sobre una tubería de calefacción a distancia en el borde de la vía reducía la visibilidad del tren
+- el conductor del automóvil era bastante inexperto y ese día concreto era un día festivo especial relacionado con los estudios
+- conducir por una carretera privada estrecha y con nieve ya de por sí ha absorbido la atención del conductor.
+La carretera Pikakyläntie se utiliza principalmente como atajo y en las inmediaciones del paso a nivel se
+Recomendación S276
+sitúan dos pasos a nivel vigilados. El tráfico de Pikakyläntie podría desviarse por ellos de forma segura a través de la línea Pori–Mäntyluoto. Además, dado que equipar un paso a nivel con una barrera semiautomática es costoso, la comisión de investigación recomienda:
+El paso a nivel sin vigilancia denominado Teurastamo de Pikakyläntie debería suprimirse.
+
+
+## Página 247
+
+## Anexo 3/17 (21)
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+En curso (trámites de propiedad privada en marcha).
+Se empleó tiempo en problemas de localización entre el maquinista y el regulador de tráfico
+Recomendación S277
+así como entre el regulador de tráfico y el centro de emergencias. Debido al problema de localización, el regulador de tráfico tuvo dificultades para indicar al operador del centro de emergencias la ubicación del paso a nivel. El paso a nivel fue llamado durante todo el tiempo de las labores de salvamento con nombres incorrectos. En el peor de los casos, estos problemas de localización conducen a retrasos fatales en las medidas de asistencia.
+Los distintos operadores deberían desarrollar sistemas y poner en marcha dispositivos que faciliten la localización.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+En curso en lo que respecta a las señales existentes en la línea.
+24.5.2009, a las 14.28 (B4/2009R)
+Hora:
+Eurajoki, paso a nivel sin vigilancia de Köykäntie
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 3716, locomotora eléctrica Sr2 y 37 vagones de mercancías
+Tipo y número de tren:
+Automóvil Mercedes-Benz E 270 CDI Sedan automatic, año de
+Vehículo:
+modelo 2003
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Gravemente herido:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Levemente herido:
+Personal:
+0
+0
+Pasajeros:
+Daños menores en el frontal de la locomotora, el automóvil quedó totalmente destrozado.
+Daños en el material rodante:
+No.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías chocó contra un automóvil en un paso a nivel sin vigilancia. Probablemente el automóvil de cambio automático se puso en marcha sin darse cuenta a velocidad de arrastre mientras el conductor se estiraba hacia el asiento delantero derecho o el hueco para los pies. El estirarse hacia la derecha pudo deberse a la búsqueda de objetos en la guantera o a recoger la guantera que había caído del asiento durante la frenada. El conductor del automóvil se había detenido antes del paso a nivel, porque probablemente había detectado el tren que se aproximaba.
+En el paso a nivel sin vigilancia de Köykäntie debería haber, según las instrucciones técnicas de la
+Recomendación S278
+vía del Centro de Gestión Ferroviaria (RATO), una barrera semiautomática en función del volumen de tráfico y del ángulo de confluencia entre la carretera y la vía. Dado que para los residentes de la zona hay dos pasos a nivel vigilados con barreras semiautomáticas, más seguros y alternativos, en las cercanías, el paso a nivel podría suprimirse con un coste mínimo.
+El paso a nivel sin vigilancia de Köykäntie debería suprimirse.
+Fecha
+Estado
+Comentarios
+16.6.2011
+EJECUTADO
+Ejecutado de forma diferente (equipado con una barrera semiautomática).
+25.3.2009, a las 10.43 (B2/2009R)
+Hora:
+Nurmijärvi, Herunen, paso a nivel sin vigilancia de Hyvämäki
+Lugar:
+Tren de mercancías – furgoneta
+Tipo de accidente:
+Tren de mercancías 3675, locomotora diésel Dv12 y 6 vagones de mercancías
+Tipo y número de tren:
+Furgoneta Fiat Ducato van 2.8, año de modelo 2002
+Vehículo:
+En el tren
+En el vehículo
+1+3
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Gravemente herido:
+Personal:
+0
+0
+Pasajeros:
+Levemente herido:
+Personal:
+
+
+## Página 248
+
+## Anexo 3/18 (21)
+Pasajeros:
+Daños menores en la locomotora, la furgoneta quedó totalmente destrozada.
+Daños en el material rodante:
+La marca de balizamiento se torció.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías chocó contra una furgoneta en un paso a nivel sin vigilancia. El conductor de la furgoneta entró en el paso a nivel sin detenerse ante la señal STOP. Es probable que el conductor de la furgoneta no llegara a percibir en absoluto el tren de mercancías que se aproximaba por la derecha. Concurrieron los siguientes factores:
+- la atención del conductor se dirigía a otro lugar que no fuera a asegurar el cruce seguro del paso a nivel
+- el tabique separador entre la cabina de la furgoneta y el compartimento de carga y la ausencia de ventanas en el compartimento de carga dificultaban
+- la realización de observaciones hacia la derecha, en la dirección de llegada del tren, el sol que daba de frente deslumbraba al conductor.
+Dado que el paso a nivel sin vigilancia de Hyvämäki no cumple los requisitos de las instrucciones RATO
+Recomendación S279
+en cuanto a visibilidad, plataformas de espera y distancia de confluencia con la carretera, y dado que su volumen de tráfico rodado es tan elevado, la comisión de investigación recomienda:
+Las plataformas de espera del paso a nivel de Hyvämäki deberían rehabilitarse y las confluencias con la carretera deberían trasladarse a una distancia suficiente. Además, el paso a nivel debería equiparse con una barrera semiautomática.
+Fecha
+Estado
+Comentarios
+16.6.2011
+EJECUTADO
+17.7.2009, a las 9.50 (B7/2009R)
+Hora:
+Loviisa, paso a nivel sin vigilancia de Rauhalantie
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 2867, dos locomotoras diésel Dv12 y un vagón de mercancías
+Tipo y número de tren:
+Automóvil Volkswagen Golf Variant, año de modelo 2004
+Vehículo:
+En el tren
+En el vehículo
+2
+1
+En el tren y en el vehículo:
+Personal:
+0
+0
+Pasajeros:
+0
+1
+Fallecidos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Gravemente herido:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Levemente herido:
+Personal:
+0
+0
+Pasajeros:
+Daños menores en el frontal de la locomotora, el automóvil quedó
+Daños en el material rodante:
+inutilizable.
+No.
+Daños en la vía:
+No.
+Otros daños:
+Resumen: El tren de mercancías chocó contra un automóvil en un paso a nivel sin vigilancia. El conductor de edad avanzada del automóvil no detectó el tren que se aproximaba. Como causas de fondo del accidente cabe señalar posiblemente el conocimiento del paso a nivel y el hecho de que la capacidad de actuación del conductor se había visto deteriorada por enfermedades y una visión empeorada.
+Los distintos agentes tienen opiniones diferentes sobre la responsabilidad de la
+Recomendación S281
+despeje de la visibilidad en los pasos a nivel. El Ministerio de Transportes y Comunicaciones debería velar por que se llegue a una normativa coherente y aceptada por todas las partes sobre la responsabilidad del despeje de la visibilidad en los pasos a nivel.
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+No ejecutado (requeriría la creación de un grupo de trabajo).
+25.4.2009, a las 13.08 (B3/2009R)
+Hora:
+Raasepori, Mustio, paso a nivel sin vigilancia de Ingvallsbyn
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 3534, locomotora diésel Dv12 y 7 vagones de mercancías
+Tipo y número de tren:
+Automóvil Toyota 4D Corolla Sedan, año de modelo 2004
+Vehículo:
+En el tren
+En el vehículo
+En el tren y en el vehículo:
+Personal:
+Pasajeros:
+
+## Página 249
+
+## Anexo 3/19 (21)
+Muertos:
+Personal:
+Pasajeros:
+Heridos graves:
+Personal:
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El locomotor sufrió daños menores y el vehículo quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: Un tren de mercancías colisionó con un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil entró en el paso a nivel al mismo tiempo que un tren de mercancías se aproximaba por la derecha. No ha sido posible determinar con certeza la razón por la que el conductor del vehículo entró en el paso a nivel. Las siguientes circunstancias pudieron influir en la entrada simultánea en el paso a nivel con el tren de mercancías que se aproximaba por la derecha:
+- el conductor no detectó el tren que se aproximaba o estimó que lograría cruzar el paso a nivel antes de la llegada del tren
+- el conductor confundió los pedales del vehículo y pisó el acelerador en lugar del freno
+- el conductor detectó el tren, pero ya no le quedó tiempo para detener el automóvil antes del paso a nivel.
+
+Recomendación S282
+El paso a nivel sin vigilancia de Ingvallsby es atravesado por un itinerario directo con poco tráfico hacia Nikunti y ya existe una ruta alternativa a través de la carretera 186.
+El paso a nivel sin vigilancia de Ingvallsby debería eliminarse.
+
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+14.07.2009, a las 11.17 (B6/2009R)
+Hora:
+Vihti, paso a nivel sin vigilancia de Kotkaniemi 1
+Lugar:
+Tren de mercancías – automóvil
+Tipo de accidente:
+Tren de mercancías 3647, dos locomotoras diésel-hidráulicas Dv12
+Tipo y número de tren:
+Automóvil Renault Megane 1,6, modelo de 2000
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Muertos:
+Personal:
+0
+1
+Pasajeros:
+0
+1
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El morro del locomotor sufrió daños menores, el automóvil quedó totalmente destrozado.
+Daños al material rodante:
+Daños a la vía:
+Se produjeron daños en la colocación de las tablas de la cubierta de madera del paso a nivel siguiente (Kalatie).
+No.
+Otros daños:
+Resumen: Un tren de mercancías colisionó con un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil no detectó en absoluto el tren de mercancías que se aproximaba.
+
+Recomendación S283
+A través del paso a nivel circula, especialmente en verano, una cantidad considerable de tráfico rodadero de todo tipo. En la estación de investigación situada detrás del paso a nivel, Yara Suomi Oy, visitan casi 4 000 visitantes al año (dictamen de la junta de carreteras de Kotkaniemi 5.11.2009). La estación de investigación no tiene conexión por carretera alternativa. Además, la administración de carreteras de Kotkaniemi comprende cuatro propiedades permanentes y casas de verano, de modo que hay un total de 22 propietarios. Debido al intenso tráfico rodadero nacional y también extranjero en Kotkaniementie, la junta de investigación recomienda que:
+El paso a nivel denominado Kotkaniemi 1 debería equiparse con una instalación de semibarrera.
+
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+En curso de otra manera (plan general preliminar de soluciones a distinto nivel, cuyo uno de los objetivos es la eliminación del paso a nivel de Kotkaniemi).
+16.12.2009, a las 13.26 (B9/2009R)
+Hora:
+
+## Página 250
+
+## Anexo 3/20 (21)
+Laukaa, paso a nivel sin vigilancia de Lemettilä
+Lugar:
+Tren de mercancías − furgoneta
+Tipo de accidente:
+Tren de mercancías 3365, locomotoras diésel Dv12 y 23 vagones
+Tipo y número de tren:
+Furgoneta Volkswagen Transporter, modelo de 1998
+Vehículo:
+En el tren
+En el vehículo
+2
+1
+En el tren y en el vehículo:
+Personal:
+0
+1
+Pasajeros:
+0
+1
+Muertos:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El morro del locomotor sufrió daños, la furgoneta quedó totalmente destrozada.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: Un tren de mercancías colisionó con una furgoneta en un paso a nivel sin vigilancia. El conductor de la furgoneta entró en el paso a nivel sin detenerse, probablemente porque no detectó el tren que se aproximaba por la derecha. La detección se vio dificultada por el hecho de que, al aproximarse al paso a nivel, este parece aparentemente inofensivo. Sin embargo, era excepcionalmente exigente debido a la proximidad de la intersección de la carretera y del paso a nivel, el perfil descendente de la carretera, la falta de visibilidad y el deslumbramiento del sol que provenía de la dirección de llegada del tren.
+
+Recomendación S285
+El tráfico que tiene lugar a través del paso a nivel sin vigilancia de Lemettilä podría desviarse, mediante restricciones e indicaciones impuestas por el gestor de la carretera, para transitar por una ruta más segura al norte del paso a nivel a través del paso superior situado en la carretera 637.
+Además, dado que equipar el paso a nivel con una instalación de semibarrera es caro y no garantiza que no se produzcan nuevos accidentes, la junta de investigación recomienda:
+El paso a nivel de Lemettilä debería eliminarse.
+
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+(B3/2010R)
+Hora:
+Karjaa, paso a nivel de Leskinen/Leppämäentie, sin vigilancia
+Lugar:
+Accidente en paso a nivel, tren de cercanías – automóvil
+Tipo de accidente:
+Tren de cercanías 389, automotor diésel Dm12
+Tipo y número de tren:
+Automóvil todoterreno Mitsubishi PAJERO, modelo de 1993
+Vehículo:
+En el tren
+En el vehículo
+3
+1
+En el tren y en el vehículo:
+Personal:
+~ 30–40
+0
+Pasajeros:
+0
+1
+Muertos:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El morro del tren de cercanías sufrió daños, el automóvil todoterreno quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: Un autobús ferroviario colisionó con un automóvil todoterreno en un paso a nivel sin vigilancia. El conductor del automóvil detectó el tren demasiado tarde y ya no logró detenerse antes del paso a nivel. Los factores de fondo fueron:
+- la atención del conductor probablemente estaba dirigida a algo distinto de cruzar el paso a nivel de forma segura
+- el paso a nivel era bastante conocido para el conductor, lo que generalmente reduce la precaución al llegar al paso a nivel
+- el paso a nivel no tenía dispositivos de aviso
+- la pendiente de la carretera hacia el paso a nivel, la ausencia de plataformas de espera, la altura del terraplén de la vía y la vegetación a lo largo de la carretera dificultaban la tarea de conducción del conductor y reducían la posibilidad de cruzar el paso a nivel de forma segura.
+
+## Página 251
+
+## Anexo 3/21 (21)
+Recomendación S302
+Debido a la mala visibilidad del paso a nivel, la pendiente de la carretera y el límite de velocidad de la vía, la junta de investigación recomienda:
+El paso a nivel de Leskinen/Leppämäen debería sustituirse por un enlace a distinto nivel.
+
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+(B2/2010R)
+Hora:
+Pori Tattaritie/ paso a nivel sin vigilancia de Tattari
+Lugar:
+Accidente en paso a nivel, automóvil – tren de mercancías
+Tipo de accidente:
+Tren de mercancías 3862, locomotora Dv12 y 5 vagones
+Tipo y número de tren:
+Automóvil Ford Mondeo, modelo de 1998
+Vehículo:
+En el tren
+En el vehículo
+1
+1
+En el tren y en el vehículo:
+Personal:
+0
+1
+Pasajeros:
+0
+1
+Muertos:
+Personal:
+0
+1
+Pasajeros:
+0
+0
+Heridos graves:
+Personal:
+0
+0
+Pasajeros:
+0
+0
+Heridos leves:
+Personal:
+0
+0
+Pasajeros:
+El morro del locomotor sufrió daños, el automóvil quedó totalmente destrozado.
+Daños al material rodante:
+No.
+Daños a la vía:
+No.
+Otros daños:
+Resumen: Un tren de mercancías colisionó con un automóvil en un paso a nivel sin vigilancia. El conductor del automóvil detectó el tren demasiado tarde y no logró detenerse o impedir el accidente de otra manera. Los factores de fondo fueron:
+- El paso a nivel era conocido para el conductor del automóvil, lo que generalmente reduce la precaución. Además, había cruzado el mismo paso a nivel en la dirección contraria un momento antes.
+- El paso a nivel no tenía dispositivos de aviso.
+- El paso a nivel no tenía plataformas de espera adecuadas y la pendiente hacia el paso a nivel era tan pronunciada que el conductor, especialmente con clima resbaladizo, evita detenerse justo antes del paso a nivel.
+- El automóvil tenía neumáticos de verano.
+- En la ruta utilizada por el conductor, en un trayecto de 30 metros hay un paso a nivel del ferrocarril y dos intersecciones de carretera, en todas las cuales existe la obligación de ceder el paso.
+
+Recomendación S303
+El paso a nivel de Tattaritie es la única conexión por carretera con la zona residencial, pero desde la zona residencial sería posible organizar una conexión por carretera más segura construyendo 200 metros de calle de modo que la nueva calle se uniera a la carretera enlazante Ulasoori–Kaanaa, cuyo paso a nivel está equipado con dispositivos de aviso.
+El paso a nivel de Tattaritie debería eliminarse.
+
+Fecha
+Estado
+Comentarios
+18.8.2011
+En curso
+
+## Página 252
+
+
+## Página 253
+
+## Anexo 4/1 (2)
+## Datos estadísticos
+Información básica sobre los ferrocarriles
+País
+Vías
+Tráfico ferroviario
+Pasos a nivel
+[km de vía]
+[millones de
+Con dispositivos
+Sin dispositivos
+Total
+[km de red]
+km-tren]
+de aviso
+de aviso
+2004
+2009
+2006
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+Finlandia
+5 741
+5 919
+8 830
+8 847
+48,7
+50,0
+848
+837
+3 662
+3 224
+4 510
+4 061
+Austria
+5 675
+7 924
+8 154
+143,1
+152,3
+1 850
+1 946
+4 689
+4 584
+6 539
+6 530
+Bélgica
+3 521
+6 212
+6 426
+102,0
+91,9
+1 613
+1 913
+424
+0
+2 037
+1 913
+Bulgaria
+5 119
+5 154
+36,1
+31,5
+345
+475
+476
+344
+821
+819
+República Checa
+9 511
+11 642 11 554
+148,5
+163,2
+3 533
+2 105
+5 043
+6 418
+8 576
+8 523
+Alemania
+34 728
+51 959 51 780 1 002,5 1 002,9
+11 450
+10 155 11 440
+7 353
+22 880 17 508
+Dinamarca
+2 141
+3 586
+3 687
+56,5
+82,2
+699
+760
+883
+604
+1 582
+1 364
+Estonia
+959
+2 133
+2 166
+8,9
+6,8
+173
+164
+367
+165
+540
+329
+Grecia
+2 449
+2 997
+3 070
+17,6
+19,6
+775
+732
+495
+573
+1 270
+1 305
+España
+14 395
+17 160 17 972
+175,8
+188,0
+835
+1 019
+1 869
+1 594
+2 348
+2 613
+Francia
+29 246
+30 860 46 007
+521,7
+504,0
+13 202
+13 420
+4 957
+5 039
+18 159 18 459
+Hungría
+7 950
+8 007 10 577
+100,2
+106,3
+2 740
+3 487
+3 100
+2 423
+5 840
+5 910
+Irlanda
+1 919
+2 110
+2 141
+15,1
+16,8
+310
+220
+1 240
+849
+1 550
+1 069
+Italia
+16 239
+18 154 26 174
+331,2
+350,5
+6 724
+6 333
+322
+1 252
+7 016
+7 585
+Lituania
+1 782
+2 187
+2 182
+14,3
+14,1
+327
+388
+109
+142
+436
+530
+Letonia
+2 270
+4 091
+3 396
+18,4
+18,7
+394
+380
+263
+254
+657
+634
+Países Bajos
+2 812
+6 500
+6 868
+115,2
+132,0
+2 116
+2 037
+712
+622
+2 828
+2 659
+Noruega
+4 077
+4 087
+4 080
+47,4
+43,3
+489
+3 656
+3 622
+0
+4 111
+3 656
+Polonia
+19 576
+28 446 28 836
+219,8
+208,6
+6 634
+5 509 10 377
+8 654
+17 011 14 163
+Portugal
+2 849
+3 513
+3 528
+36,5
+40,6
+510
+473
+787
+718
+1 297
+1 191
+Rumanía
+20 385 20 348
+94,9
+88,5
+1 677
+1 523
+3 857
+3 658
+5 534
+5 181
+Suecia
+9 895
+15 360 15 349
+126,4
+131,5
+2 999
+2 456
+5 103
+8 915
+8 102 11 371
+Eslovenia
+1 229
+2 192
+2 187
+19,9
+18,2
+415
+790
+550
+151
+965
+941
+Eslovaquia
+3 660
+4 678
+4 638
+46,8
+45,0
+1 160
+1 077
+1 319
+1 143
+2 479
+2 220
+RU
+16 514
+31 594 31 571
+492,6
+568,6
+1 623
+1 605
+6 051
+5 197
+7 674
+6 802
+Datos del informe de seguridad S1/2005R y de las estadísticas de la ERA.
+Accidentes
+País
+Accidentes ferroviarios
+Accidentes en pasos a nivel
+Total de
+Fallecidos en
+Pasos a nivel
+Fallecidos en
+accidentes
+accidentes
+accidentes
+accidentes en pasos a nivel
+2004
+2009
+2004
+2009
+2004
+2009
+2004
+2009
+11
+Finlandia
+109
+26
+24
+14
+52
+12
+7
+12
+Austria
+119
+88
+47
+34
+44
+36
+18
+8
+Bélgica
+150
+146
+19
+16
+20
+31
+8
+4
+Bulgaria
+48
+28
+5
+21
+República Checa
+268
+113
+232
+26
+67
+42
+57
+41
+Alemania
+1172
+310
+167
+170
+403
+64
+54
+4
+Dinamarca
+55
+29
+16
+15
+13
+2
+4
+3
+Estonia
+38
+19
+20
+10
+20
+7
+6
+13
+Grecia
+716
+42
+32
+22
+534
+26
+13
+16
+España
+162
+51
+162
+31
+38
+19
+25
+36
+Francia
+142
+171
+93
+76
+49
+49
+38
+29
+Hungría
+2198
+180
+94
+92
+84
+39
+18
+0
+Irlanda
+2
+5
+0
+1
+2
+1
+0
+5
+Italia
+144
+119
+59
+81
+24
+7
+17
+8
+Lituania
+99
+55
+37
+33
+11
+14
+4
+4
+Letonia
+18
+30
+3
+17
+13
+8
+3
+13
+Países Bajos
+80
+22
+19
+14
+59
+13
+15
+2
+Noruega
+46
+16
+3
+6
+10
+2
+1
+73
+Polonia
+964
+843
+276
+365
+272
+288
+51
+17
+Portugal
+890
+43
+101
+32
+104
+15
+26
+40
+Rumanía
+304
+150
+57
+6
+Suecia
+117
+46
+26
+19
+42
+13
+13
+7
+Eslovenia
+49
+19
+12
+11
+5
+11
+1
+25
+Eslovaquia
+514
+236
+10
+72
+61
+51
+12
+13
+RU
+1306
+104
+93
+53
+16
+16
+9
+Datos: Del año 2004 del informe de investigación S1/2005R, el resto de las estadísticas de la ERA.
+
+## Página 254
+
+## Anexo 4/2 (2)
+Accidentes mortales de vehículos a motor investigados por los comités de investigación de accidentes de circulación en los años 1991–2009.
+Año
+Accidentes mortales
+Fallecidos
+Året
+Year
+TO
+LO
+TO%
+TO
+LO
+TO%
+4,6
+1991
+16
+350
+18
+410
+4,4
+4,9
+1992
+16
+328
+17
+391
+4,3
+2,6
+1993
+7
+266
+8
+320
+2,5
+2,6
+1994
+7
+267
+9
+322
+2,8
+2,8
+1995
+7
+247
+9
+279
+3,2
+2,1
+1996
+5
+242
+5
+290
+1,7
+3,9
+1997
+10
+255
+12
+302
+4,0
+3,1
+1998
+8
+254
+11
+286
+3,8
+3,1
+1999
+8
+261
+11
+302
+3,6
+3,3
+2000
+8
+240
+9
+282
+3,2
+2,6
+2001
+7
+270
+12
+316
+3,8
+0,7
+2002
+2
+272
+2
+320
+0,6
+1,9
+2003
+5
+260
+6
+295
+2,0
+1,5
+2004
+4
+262
+7
+315
+2,2
+1,1
+2005
+3
+272
+4
+310
+1,3
+2,0
+2006
+5
+256
+5
+269
+1,9
+2,4
+2007
+7
+291
+9
+322
+2,8
+1,9
+2008
+5
+259
+6
+282
+2,1
+3,5
+2009
+8
+229
+10
+253
+4,0
+## TOT
+## 138
+## 5081
+## 170
+## 5866
+media
+## 7
+## 267
+## 9
+## 309
+En la tabla: TO = accidentes en pasos a nivel, LO = accidentes de circulación, TO% = porcentaje de accidentes en pasos a nivel sobre el total de accidentes de circulación, TOT = total y media = promedio.
+
+
+## Página 255
+
+## Anexo 5/1 (2)
+## Resumen de los distintos métodos para mejorar la seguridad en los pasos a nivel
+### Dirigidos al paso a nivel
+eliminación del paso a nivel (debería ser la norma general)
+eliminación parcial del paso a nivel (tráfico de vehículos eliminado, permanece el tráfico ligero)
+protección del paso a nivel
+barrera
+homogeneización del tiempo de espera (ajuste a la velocidad del tren)
+mejora de la visibilidad de la barrera
+desarrollo de la luz de la barrera (cinta LED)
+red bajo la barrera
+aparato de luz y sonido
+homogeneización del tiempo de espera (ajuste a la velocidad del tren)
+indicador de la dirección de llegada del tren, especialmente si es de vía doble
+obstáculo en la superficie de la carretera cuando llega el tren (solución rusa)
+solución más ligera que los dispositivos de aviso tradicionales
+aprovechamiento de la tecnología inalámbrica (¿cómo se garantiza lo inalámbrico?)
+barrera con cerradura (solo si hay una o dos explotaciones como usuarios)
+barrera abrible desde otro lugar
+permiso que debe solicitarse para el cruce
+barrera abierta por el usuario de la carretera (p. ej., en uso en Noruega)
+luces de preaviso para el usuario de la carretera (el destello amarillo avisa del peligro)
+por ejemplo, si es un cruce peligroso
+### Dirigidos a la carretera (afectan parcialmente al comportamiento del conductor del vehículo)
+despeje de la visibilidad
+despeje de la vegetación (mantenimiento continuo)
+eliminación de taludes y similares (desarrollo de las disposiciones aún necesario)
+reparación del tramo de espera
+pendiente longitudinal conforme a la disposición de Trafi
+longitud del tramo de espera
+revestimiento del tramo de espera
+ángulo de encuentro de la carretera
+como máximo 70 grados conforme a la disposición de Trafi
+señales de tráfico
+estado de la señal de paso a nivel, incluida la reflectividad (responsabilidad del titular de la vía)
+estado de las señales de tráfico, incluida la reflectividad (responsabilidad del titular de la carretera)
+uso óptimo de las señales de tráfico no obligatorias
+Se instala la señal STOP cuando… (optimización)
+Se establece un límite de 20 km/h cuando… (optimización)
+señal de tráfico específica si es un paso a nivel peligroso
+La placa adicional "Cruce peligroso" ya figura en el reglamento
+por ejemplo, si la visibilidad o el ángulo de encuentro es malo
+señales de paso a nivel en ambos lados de la carretera (puede dar una señal errónea sobre la unidireccionalidad de la carretera)
+mejora de la visibilidad del paso a nivel
+balizas, pórticos y similares (el uso ideal debe ser objeto de instrucciones)
+badenes/bandas vibratorias en la carretera
+obligan a reducir la velocidad
+
+
+## Página 256
+
+## Anexo 5/2 (2)
+"despiertan" al conductor
+si los tramos de espera están revestidos, es fácil de hacer, en caminos de grava se obstruyen
+revestimiento ruidoso
+pintado de la carretera con colores de atención
+raíles o cubierta del paso a nivel
+iluminación del paso a nivel
+espejo de tráfico
+señalización del ATU
+mantenimiento de la carretera
+despeje, arenado, salado
+estado de la cubierta
+disponibilidad de arena para el arenado
+recorrido sinuoso para el tráfico ligero
+se obliga a perder velocidad
+prohibición de circular para conjuntos de vehículos (si la visibilidad es insuficiente o la pendiente longitudinal es excesiva)
+información y sensibilización del titular de la carretera
+Guía de pasos a nivel para el titular de la carretera
+el titular de la carretera también participa en las revisiones anuales
+### Dirigidos al conductor del vehículo
+sensibilización
+planificación de las rutas de circulación diarias
+transportes
+desplazamiento al trabajo
+comportamiento de conducción correcto
+aviso al conductor
+aviso sonoro en los dispositivos GPS sobre los pasos a nivel
+aviso del tren que se aproxima mediante alguna otra tecnología
+la radio se silencia al llegar a un paso a nivel
+### Dirigidos al tren
+mejora de la visibilidad
+uso de señal sonora
+pintado del morro de la locomotora/tren (rojo luminoso diurno como el Allegro)
+reducción de la velocidad de la vía según las características de los pasos a nivel
+### Dirigidos al conductor del tren
+indicador de que el paso a nivel está libre
+instrucciones que fomenten el uso preventivo de la señal sonora (las instrucciones actuales no contemplan el preaviso)
+### Reducción de las consecuencias del accidente
+el conductor del tren dispone de localización GPS u otro método equivalente (plotter de mapas)
+ve su propia posición
+puede informar a la regulación del tráfico y al centro de emergencias de la ubicación exacta
+sistema automático de llamada de emergencia en el vehículo (eCall)
+diseño del morro del tren
+el vehículo que colisiona no se introduce bajo el tren (reduce el riesgo de descarrilamiento)

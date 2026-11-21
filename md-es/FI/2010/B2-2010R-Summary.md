@@ -1,0 +1,35 @@
+---
+pais: FI
+anio: 2010
+idioma_origen: EN
+md_origen: md/FI/2010/B2-2010R-Summary.md
+md5_origen: e9455946b7aaaad115431705b4ea7073
+modelo: mimo-v2.6-flash
+bloques: 1
+chars: 3104
+ratio_longitud: 1.08
+tokens_in: 1206
+tokens_out: 823
+verificacion: ok
+fecha_proceso: 2026-11-21
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+RESUMEN
+ACCIDENTE MORTAL EN PASO A NIVEL EN PORI, FINLANDIA, EL 25 DE FEBRERO DE 2010
+El jueves 25 de febrero de 2010 a las 12:42, se produjo un accidente mortal en un paso a nivel en Pori, en el paso a nivel de la intersección de Tattaritie y la línea ferroviaria Mäntyluoto-Pori. El maquinista del tren observó que un turismo se aproximaba al paso desde la derecha y emitió una señal de aviso. A continuación, el maquinista del tren comprobó que el turismo no iba a detenerse y accionó los frenos de emergencia. El tren impactó en el lado izquierdo del vehículo, el vehículo quedó encajado en la locomotora y la locomotora empujó el vehículo durante 304 metros hasta que el tren se detuvo. El tope derecho del tren penetró en la ventanilla izquierda del vehículo. El conductor del vehículo falleció instantáneamente a causa de traumatismos craneoencefálicos y torácicos. Un pasajero del vehículo falleció posteriormente en el hospital a causa de traumatismos craneoencefálicos y torácicos.
+
+El accidente se produjo porque el conductor del vehículo no advirtió la aproximación del tren con la suficiente antelación y ya no pudo detenerse ni evitar la colisión de otra manera. Los factores que contribuyeron al mismo fueron:
+
+- El paso a nivel era conocido por el conductor del vehículo, lo cual es un factor que en general reduce la vigilancia. El conductor también había cruzado el paso a nivel en el sentido contrario momentos antes del accidente.
+- El paso a nivel no estaba equipado con instalaciones de aviso.
+- El paso a nivel no estaba equipado con plataformas de espera adecuadas y la carretera asciende antes del paso a nivel en tal medida que los conductores tienden a evitar detenerse antes del paso, especialmente en condiciones húmedas o resbaladizas.
+- El vehículo tenía neumáticos destinados a su uso en verano.
+- En el tramo de 30 metros anterior al paso a nivel, la carretera presentaba dos intersecciones con señales de ceda el paso.
+
+Con el fin de prevenir accidentes similares, la comisión de investigación recomienda la supresión del paso a nivel de Tattari y la construcción de una ruta alternativa a través de la zona residual mediante un paso a nivel protegido próximo. Esto desviaría parte del tráfico por una ruta que no requiere cruzar la vía.
+
+La identificación del lugar del accidente no presentó problemas, ya que la ubicación era conocida por el maquinista del tren, el regulador de tráfico y el operador del centro de respuesta a emergencias. El maquinista del tren realizó una llamada directa al centro de respuesta a emergencias.
+
+Con el objetivo de convertir esta práctica en la respuesta estándar, la comisión de investigación reitera la recomendación S211 de los informes de investigación B1/2005R y B1/2009R: Que las instrucciones relativas a la realización de llamadas de alarma de emergencia se desarrollen de tal manera que, en todos los casos en los que se requiera asistencia urgente de los servicios de rescate, se realice una llamada al número de emergencias general desde el lugar del accidente, además de la notificación al control de tráfico.

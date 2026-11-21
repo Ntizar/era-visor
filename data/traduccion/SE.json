@@ -1,0 +1,903 @@
+{
+ "md/SE/2005/RJ2007_02-280205.md": {
+  "fichero": "md/SE/2005/RJ2007_02-280205.md",
+  "estado": "ya"
+ },
+ "md/SE/2005/RJ2009_10-160505.md": {
+  "fichero": "md/SE/2005/RJ2009_10-160505.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 665062,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 92: ratio 1.70"
+  ],
+  "tokens_in": 237499,
+  "tokens_out": 163263,
+  "destino": "md-es/SE/2005/RJ2009_10-160505.md"
+ },
+ "md/SE/2005/Report-extract_16052005-EN.md": {
+  "fichero": "md/SE/2005/Report-extract_16052005-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2005/Report-extract_28022005-EN.md": {
+  "fichero": "md/SE/2005/Report-extract_28022005-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2006/RJ2008_01-290306.md": {
+  "fichero": "md/SE/2006/RJ2008_01-290306.md",
+  "estado": "ya"
+ },
+ "md/SE/2006/RJ2009_06_Vhe-190106.md": {
+  "fichero": "md/SE/2006/RJ2009_06_Vhe-190106.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 96206,
+  "ratio": 1.22,
+  "avisos": [],
+  "tokens_in": 35089,
+  "tokens_out": 24439,
+  "destino": "md-es/SE/2006/RJ2009_06_Vhe-190106.md"
+ },
+ "md/SE/2006/Report-extract_19012006-EN.md": {
+  "fichero": "md/SE/2006/Report-extract_19012006-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2008_02-191007.md": {
+  "fichero": "md/SE/2007/RJ2008_02-191007.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2008_03-131207.md": {
+  "fichero": "md/SE/2007/RJ2008_03-131207.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2009_01-070807.md": {
+  "fichero": "md/SE/2007/RJ2009_01-070807.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2009_11_Gnesta-260707.md": {
+  "fichero": "md/SE/2007/RJ2009_11_Gnesta-260707.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2010_01-200707.md": {
+  "fichero": "md/SE/2007/RJ2010_01-200707.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2010_02-241107.md": {
+  "fichero": "md/SE/2007/RJ2010_02-241107.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/RJ2010_03-05082007.md": {
+  "fichero": "md/SE/2007/RJ2010_03-05082007.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/Report-extract_05082007-EN.md": {
+  "fichero": "md/SE/2007/Report-extract_05082007-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/Report-extract_07082007-EN.md": {
+  "fichero": "md/SE/2007/Report-extract_07082007-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/Report-extract_13122007-EN.md": {
+  "fichero": "md/SE/2007/Report-extract_13122007-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/Report-extract_19102007-EN.md": {
+  "fichero": "md/SE/2007/Report-extract_19102007-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2007/Report-extract_20072007-EN.md": {
+  "fichero": "md/SE/2007/Report-extract_20072007-EN.md",
+  "estado": "ya"
+ },
+ "md/SE/2008/RJ2008_04-160108.md": {
+  "fichero": "md/SE/2008/RJ2008_04-160108.md",
+  "estado": "ya"
+ },
+ "md/SE/2008/RJ2009_03-110408.md": {
+  "fichero": "md/SE/2008/RJ2009_03-110408.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 74100,
+  "ratio": 1.29,
+  "avisos": [
+   "bloque 5: ratio 1.85"
+  ],
+  "tokens_in": 27142,
+  "tokens_out": 20572,
+  "destino": "md-es/SE/2008/RJ2009_03-110408.md"
+ },
+ "md/SE/2008/RJ2009_04-090608_Bryngenäs station.md": {
+  "fichero": "md/SE/2008/RJ2009_04-090608_Bryngenäs station.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 87869,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 31507,
+  "tokens_out": 21725,
+  "destino": "md-es/SE/2008/RJ2009_04-090608_Bryngenäs station.md"
+ },
+ "md/SE/2008/RJ2009_05-090608_Hillared - Limmared.md": {
+  "fichero": "md/SE/2008/RJ2009_05-090608_Hillared - Limmared.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 155600,
+  "ratio": 1.26,
+  "avisos": [],
+  "tokens_in": 54974,
+  "tokens_out": 40475,
+  "destino": "md-es/SE/2008/RJ2009_05-090608_Hillared - Limmared.md"
+ },
+ "md/SE/2008/RJ2009_07-170608.md": {
+  "fichero": "md/SE/2008/RJ2009_07-170608.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 195128,
+  "ratio": 1.34,
+  "avisos": [
+   "bloque 5: ratio 1.89",
+   "bloque 19: ratio 1.65"
+  ],
+  "tokens_in": 70995,
+  "tokens_out": 54678,
+  "destino": "md-es/SE/2008/RJ2009_07-170608.md"
+ },
+ "md/SE/2008/RJ2009_08_Torne-290708.md": {
+  "fichero": "md/SE/2008/RJ2009_08_Torne-290708.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 167618,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 56434,
+  "tokens_out": 38476,
+  "destino": "md-es/SE/2008/RJ2009_08_Torne-290708.md"
+ },
+ "md/SE/2008/RJ2009_09-211208.md": {
+  "fichero": "md/SE/2008/RJ2009_09-211208.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 109561,
+  "ratio": 1.23,
+  "avisos": [],
+  "tokens_in": 41095,
+  "tokens_out": 30271,
+  "destino": "md-es/SE/2008/RJ2009_09-211208.md"
+ },
+ "md/SE/2008/RJ2010_04_Bilaga1sid1-040608.md": {
+  "fichero": "md/SE/2008/RJ2010_04_Bilaga1sid1-040608.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 1801,
+  "ratio": 1.13,
+  "avisos": [],
+  "tokens_in": 2402,
+  "tokens_out": 1091,
+  "destino": "md-es/SE/2008/RJ2010_04_Bilaga1sid1-040608.md"
+ },
+ "md/SE/2008/RJ2010_04_Bilaga1sid2-040608.md": {
+  "fichero": "md/SE/2008/RJ2010_04_Bilaga1sid2-040608.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 779,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 817,
+  "tokens_out": 262,
+  "destino": "md-es/SE/2008/RJ2010_04_Bilaga1sid2-040608.md"
+ },
+ "md/SE/2008/RJ2010_04_rapport-040608.md": {
+  "fichero": "md/SE/2008/RJ2010_04_rapport-040608.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 168713,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 63728,
+  "tokens_out": 47965,
+  "destino": "md-es/SE/2008/RJ2010_04_rapport-040608.md"
+ },
+ "md/SE/2008/Report-extract_04062008-EN.md": {
+  "fichero": "md/SE/2008/Report-extract_04062008-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 3683,
+  "ratio": 1.14,
+  "avisos": [],
+  "tokens_in": 1320,
+  "tokens_out": 945,
+  "destino": "md-es/SE/2008/Report-extract_04062008-EN.md"
+ },
+ "md/SE/2008/Report-extract_09062008-1-EN.md": {
+  "fichero": "md/SE/2008/Report-extract_09062008-1-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 4015,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 1394,
+  "tokens_out": 996,
+  "destino": "md-es/SE/2008/Report-extract_09062008-1-EN.md"
+ },
+ "md/SE/2008/Report-extract_09062008-2-EN.md": {
+  "fichero": "md/SE/2008/Report-extract_09062008-2-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 5190,
+  "ratio": 1.11,
+  "avisos": [],
+  "tokens_in": 1608,
+  "tokens_out": 1289,
+  "destino": "md-es/SE/2008/Report-extract_09062008-2-EN.md"
+ },
+ "md/SE/2008/Report-extract_11042008-EN.md": {
+  "fichero": "md/SE/2008/Report-extract_11042008-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 3946,
+  "ratio": 1.05,
+  "avisos": [],
+  "tokens_in": 1356,
+  "tokens_out": 1012,
+  "destino": "md-es/SE/2008/Report-extract_11042008-EN.md"
+ },
+ "md/SE/2008/Report-extract_16012008-EN.md": {
+  "fichero": "md/SE/2008/Report-extract_16012008-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 5233,
+  "ratio": 1.08,
+  "avisos": [],
+  "tokens_in": 1682,
+  "tokens_out": 1331,
+  "destino": "md-es/SE/2008/Report-extract_16012008-EN.md"
+ },
+ "md/SE/2009/RJ2011_01_SHK_Rapport___Tillbud_med_rullande_vagnar_Östavall_Alby-020509.md": {
+  "fichero": "md/SE/2009/RJ2011_01_SHK_Rapport___Tillbud_med_rullande_vagnar_Östavall_Alby-020509.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 70065,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 25618,
+  "tokens_out": 18471,
+  "destino": "md-es/SE/2009/RJ2011_01_SHK_Rapport___Tillbud_med_rullande_vagnar_Östavall_Alby-020509.md"
+ },
+ "md/SE/2009/Report-extract_02052009-EN.md": {
+  "fichero": "md/SE/2009/Report-extract_02052009-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 2283,
+  "ratio": 1.12,
+  "avisos": [],
+  "tokens_in": 1079,
+  "tokens_out": 616,
+  "destino": "md-es/SE/2009/Report-extract_02052009-EN.md"
+ },
+ "md/SE/2010/RJ2011_02-13032010.md": {
+  "fichero": "md/SE/2010/RJ2011_02-13032010.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 116834,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 42467,
+  "tokens_out": 30709,
+  "destino": "md-es/SE/2010/RJ2011_02-13032010.md"
+ },
+ "md/SE/2010/RJ2011_03-01022010.md": {
+  "fichero": "md/SE/2010/RJ2011_03-01022010.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 97489,
+  "ratio": 1.22,
+  "avisos": [],
+  "tokens_in": 36893,
+  "tokens_out": 27001,
+  "destino": "md-es/SE/2010/RJ2011_03-01022010.md"
+ },
+ "md/SE/2010/RJ2011_04-09092010.md": {
+  "fichero": "md/SE/2010/RJ2011_04-09092010.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 133235,
+  "ratio": 1.24,
+  "avisos": [
+   "bloque 10: ratio 1.78"
+  ],
+  "tokens_in": 48275,
+  "tokens_out": 36382,
+  "destino": "md-es/SE/2010/RJ2011_04-09092010.md"
+ },
+ "md/SE/2010/RJ2012_04-17112010.md": {
+  "fichero": "md/SE/2010/RJ2012_04-17112010.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 113274,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 39947,
+  "tokens_out": 27553,
+  "destino": "md-es/SE/2010/RJ2012_04-17112010.md"
+ },
+ "md/SE/2010/RJ2012_2-04062010.md": {
+  "fichero": "md/SE/2010/RJ2012_2-04062010.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 132709,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 48360,
+  "tokens_out": 33880,
+  "destino": "md-es/SE/2010/RJ2012_2-04062010.md"
+ },
+ "md/SE/2010/RJ_2012_03-12092010.md": {
+  "fichero": "md/SE/2010/RJ_2012_03-12092010.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 205493,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 75930,
+  "tokens_out": 52317,
+  "destino": "md-es/SE/2010/RJ_2012_03-12092010.md"
+ },
+ "md/SE/2010/Report-extract_01022010-EN.md": {
+  "fichero": "md/SE/2010/Report-extract_01022010-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 4569,
+  "ratio": 1.12,
+  "avisos": [],
+  "tokens_in": 1519,
+  "tokens_out": 1162,
+  "destino": "md-es/SE/2010/Report-extract_01022010-EN.md"
+ },
+ "md/SE/2010/Report-extract_13032010-EN.md": {
+  "fichero": "md/SE/2010/Report-extract_13032010-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 2924,
+  "ratio": 1.09,
+  "avisos": [],
+  "tokens_in": 1263,
+  "tokens_out": 841,
+  "destino": "md-es/SE/2010/Report-extract_13032010-EN.md"
+ },
+ "md/SE/2011/RJ2012_01-090611_Nyhems.md": {
+  "fichero": "md/SE/2011/RJ2012_01-090611_Nyhems.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 124321,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 13: cifras largas: faltan 12/24 (50%)"
+  ],
+  "tokens_in": 45195,
+  "tokens_out": 30827,
+  "destino": "md-es/SE/2011/RJ2012_01-090611_Nyhems.md"
+ },
+ "md/SE/2011/RJ2012_05-270111.md": {
+  "fichero": "md/SE/2011/RJ2012_05-270111.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 146733,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 17: ratio 1.67"
+  ],
+  "tokens_in": 51765,
+  "tokens_out": 37260,
+  "destino": "md-es/SE/2011/RJ2012_05-270111.md"
+ },
+ "md/SE/2011/RJ2013_01_webbversion-011111.md": {
+  "fichero": "md/SE/2011/RJ2013_01_webbversion-011111.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 158833,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 55753,
+  "tokens_out": 38961,
+  "destino": "md-es/SE/2011/RJ2013_01_webbversion-011111.md"
+ },
+ "md/SE/2011/RJ2013_03-021111.md": {
+  "fichero": "md/SE/2011/RJ2013_03-021111.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 86150,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 30852,
+  "tokens_out": 20330,
+  "destino": "md-es/SE/2011/RJ2013_03-021111.md"
+ },
+ "md/SE/2011/RJ2013_04-090611_Slussens.md": {
+  "fichero": "md/SE/2011/RJ2013_04-090611_Slussens.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 102768,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 35790,
+  "tokens_out": 25193,
+  "destino": "md-es/SE/2011/RJ2013_04-090611_Slussens.md"
+ },
+ "md/SE/2012/RJ2013_02-300112.md": {
+  "fichero": "md/SE/2012/RJ2013_02-300112.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 76852,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 27964,
+  "tokens_out": 20035,
+  "destino": "md-es/SE/2012/RJ2013_02-300112.md"
+ },
+ "md/SE/2012/RJ2014_02-200912.md": {
+  "fichero": "md/SE/2012/RJ2014_02-200912.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 87485,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/17 (24%)",
+   "bloque 2: ratio 1.78",
+   "bloque 3: ratio 1.97"
+  ],
+  "tokens_in": 37920,
+  "tokens_out": 26967,
+  "destino": "md-es/SE/2012/RJ2014_02-200912.md"
+ },
+ "md/SE/2012/SE 09.02.2012 RJ2014_04_Plankorningsolycka_Hägernäs-Rydbo.md": {
+  "fichero": "md/SE/2012/SE 09.02.2012 RJ2014_04_Plankorningsolycka_Hägernäs-Rydbo.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 96421,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 37294,
+  "tokens_out": 25311,
+  "destino": "md-es/SE/2012/SE 09.02.2012 RJ2014_04_Plankorningsolycka_Hägernäs-Rydbo.md"
+ },
+ "md/SE/2012/SE 12 03 2012 RJ2014_05_Temautredning.md": {
+  "fichero": "md/SE/2012/SE 12 03 2012 RJ2014_05_Temautredning.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 221230,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 73657,
+  "tokens_out": 51522,
+  "destino": "md-es/SE/2012/SE 12 03 2012 RJ2014_05_Temautredning.md"
+ },
+ "md/SE/2012/SE 12.06.2012 RJ2014_01_Fagersta-Smedjebacken.md": {
+  "fichero": "md/SE/2012/SE 12.06.2012 RJ2014_01_Fagersta-Smedjebacken.md",
+  "estado": "revisar",
+  "idioma": "??",
+  "chars": 171000,
+  "ratio": 1.4,
+  "avisos": [
+   "bloque 1: marcadores de página: 4 vs 3; cifras largas: faltan 5/18 (28%); ratio 4.21"
+  ],
+  "tokens_in": 57255,
+  "tokens_out": 61331,
+  "destino": "md-es/SE/2012/SE 12.06.2012 RJ2014_01_Fagersta-Smedjebacken.md"
+ },
+ "md/SE/2013/RJ2014_03_Saltsjobanan.md": {
+  "fichero": "md/SE/2013/RJ2014_03_Saltsjobanan.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 152114,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 3: ratio 1.75"
+  ],
+  "tokens_in": 57214,
+  "tokens_out": 38797,
+  "destino": "md-es/SE/2013/RJ2014_03_Saltsjobanan.md"
+ },
+ "md/SE/2014/SE 04.11.2014 RJ2015_04_StrÃ¶mtorp.md": {
+  "fichero": "md/SE/2014/SE 04.11.2014 RJ2015_04_StrÃ¶mtorp.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 57637,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 21974,
+  "tokens_out": 15534,
+  "destino": "md-es/SE/2014/SE 04.11.2014 RJ2015_04_StrÃ¶mtorp.md"
+ },
+ "md/SE/2014/SE 09.07.2014 RJ2015_03.md": {
+  "fichero": "md/SE/2014/SE 09.07.2014 RJ2015_03.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 61357,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 21255,
+  "tokens_out": 15290,
+  "destino": "md-es/SE/2014/SE 09.07.2014 RJ2015_03.md"
+ },
+ "md/SE/2014/SE 20.05.2014 RJ2015_01_Tillbud_Hallstahammar.md": {
+  "fichero": "md/SE/2014/SE 20.05.2014 RJ2015_01_Tillbud_Hallstahammar.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 71783,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 24521,
+  "tokens_out": 16911,
+  "destino": "md-es/SE/2014/SE 20.05.2014 RJ2015_01_Tillbud_Hallstahammar.md"
+ },
+ "md/SE/2014/SE 22 07 2014 RJ2015_02e.md": {
+  "fichero": "md/SE/2014/SE 22 07 2014 RJ2015_02e.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 92743,
+  "ratio": 1.1,
+  "avisos": [
+   "bloque 13: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 31430,
+  "tokens_out": 24604,
+  "destino": "md-es/SE/2014/SE 22 07 2014 RJ2015_02e.md"
+ },
+ "md/SE/2015/RJ 2016_01 Pölsebo.md": {
+  "fichero": "md/SE/2015/RJ 2016_01 Pölsebo.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 145309,
+  "ratio": 1.23,
+  "avisos": [
+   "bloque 9: ratio 1.70",
+   "bloque 19: ratio 1.73"
+  ],
+  "tokens_in": 51854,
+  "tokens_out": 37861,
+  "destino": "md-es/SE/2015/RJ 2016_01 Pölsebo.md"
+ },
+ "md/SE/2016/SE 07.06.2016 RJ2017_02 VÃ¤sterÃ¥s.md": {
+  "fichero": "md/SE/2016/SE 07.06.2016 RJ2017_02 VÃ¤sterÃ¥s.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 44279,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 15273,
+  "tokens_out": 10533,
+  "destino": "md-es/SE/2016/SE 07.06.2016 RJ2017_02 VÃ¤sterÃ¥s.md"
+ },
+ "md/SE/2016/SE 11.10.2016 RJ2017_05_Fangsjobacken.md": {
+  "fichero": "md/SE/2016/SE 11.10.2016 RJ2017_05_Fangsjobacken.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 94609,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: ratio 1.99",
+   "bloque 4: ratio 1.87"
+  ],
+  "tokens_in": 37344,
+  "tokens_out": 26282,
+  "destino": "md-es/SE/2016/SE 11.10.2016 RJ2017_05_Fangsjobacken.md"
+ },
+ "md/SE/2016/SE 21.09.2016 RJ2017_03 PiteÃ¥-Arnemark.md": {
+  "fichero": "md/SE/2016/SE 21.09.2016 RJ2017_03 PiteÃ¥-Arnemark.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 138827,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 3: ratio 2.10",
+   "bloque 6: ratio 1.96"
+  ],
+  "tokens_in": 53223,
+  "tokens_out": 37656,
+  "destino": "md-es/SE/2016/SE 21.09.2016 RJ2017_03 PiteÃ¥-Arnemark.md"
+ },
+ "md/SE/2016/SE 25.05.2016 RJ2017_01 Markaryd.md": {
+  "fichero": "md/SE/2016/SE 25.05.2016 RJ2017_01 Markaryd.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 60582,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 20147,
+  "tokens_out": 13561,
+  "destino": "md-es/SE/2016/SE 25.05.2016 RJ2017_01 Markaryd.md"
+ },
+ "md/SE/2016/SE 30.09.2016 RJ2017_04 Molkom.md": {
+  "fichero": "md/SE/2016/SE 30.09.2016 RJ2017_04 Molkom.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 87050,
+  "ratio": 1.26,
+  "avisos": [
+   "bloque 8: ratio 1.82",
+   "bloque 10: cifras largas: faltan 4/10 (40%)"
+  ],
+  "tokens_in": 33312,
+  "tokens_out": 23606,
+  "destino": "md-es/SE/2016/SE 30.09.2016 RJ2017_04 Molkom.md"
+ },
+ "md/SE/2017/SE 12.10.2017 RJ 2019_02 Slutrapport Ludvika.md": {
+  "fichero": "md/SE/2017/SE 12.10.2017 RJ 2019_02 Slutrapport Ludvika.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 158189,
+  "ratio": 1.25,
+  "avisos": [
+   "bloque 2: cifras largas: faltan 4/15 (27%)",
+   "bloque 6: ratio 1.68"
+  ],
+  "tokens_in": 58402,
+  "tokens_out": 43493,
+  "destino": "md-es/SE/2017/SE 12.10.2017 RJ 2019_02 Slutrapport Ludvika.md"
+ },
+ "md/SE/2018/SE 01.02.2018 RJ 2018_01 Slutrapport.md": {
+  "fichero": "md/SE/2018/SE 01.02.2018 RJ 2018_01 Slutrapport.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 138869,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 3: ratio 2.04"
+  ],
+  "tokens_in": 48833,
+  "tokens_out": 33583,
+  "destino": "md-es/SE/2018/SE 01.02.2018 RJ 2018_01 Slutrapport.md"
+ },
+ "md/SE/2018/SE 03.01.2018 RJ 2019_01 Slutrapport.md": {
+  "fichero": "md/SE/2018/SE 03.01.2018 RJ 2019_01 Slutrapport.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 108993,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 36757,
+  "tokens_out": 26000,
+  "destino": "md-es/SE/2018/SE 03.01.2018 RJ 2019_01 Slutrapport.md"
+ },
+ "md/SE/2019/RJ2020_01 Slutrapport. 07.02.2019.md": {
+  "fichero": "md/SE/2019/RJ2020_01 Slutrapport. 07.02.2019.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 175698,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 63443,
+  "tokens_out": 43519,
+  "destino": "md-es/SE/2019/RJ2020_01 Slutrapport. 07.02.2019.md"
+ },
+ "md/SE/2019/RJ2020_03 Slutrapport - Karlstad C.md": {
+  "fichero": "md/SE/2019/RJ2020_03 Slutrapport - Karlstad C.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 146829,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 3: ratio 1.91",
+   "bloque 4: ratio 1.74"
+  ],
+  "tokens_in": 54879,
+  "tokens_out": 39228,
+  "destino": "md-es/SE/2019/RJ2020_03 Slutrapport - Karlstad C.md"
+ },
+ "md/SE/2020/SE-6266-RJ2021_01-Slutrapport-Hofors.md": {
+  "fichero": "md/SE/2020/SE-6266-RJ2021_01-Slutrapport-Hofors.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 207270,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 68022,
+  "tokens_out": 47312,
+  "destino": "md-es/SE/2020/SE-6266-RJ2021_01-Slutrapport-Hofors.md"
+ },
+ "md/SE/2020/SE-6334 - Interim Statusrapport SRJ 2021_01 (002).md": {
+  "fichero": "md/SE/2020/SE-6334 - Interim Statusrapport SRJ 2021_01 (002).md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 11508,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 4375,
+  "tokens_out": 2939,
+  "destino": "md-es/SE/2020/SE-6334 - Interim Statusrapport SRJ 2021_01 (002).md"
+ },
+ "md/SE/2020/SE-6334 - RJ2022_01-Slutrapport-Sundsvalls-bangård.md": {
+  "fichero": "md/SE/2020/SE-6334 - RJ2022_01-Slutrapport-Sundsvalls-bangård.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 145596,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 2: ratio 1.61"
+  ],
+  "tokens_in": 54398,
+  "tokens_out": 38767,
+  "destino": "md-es/SE/2020/SE-6334 - RJ2022_01-Slutrapport-Sundsvalls-bangård.md"
+ },
+ "md/SE/2021/SE-10019 - Interim Statetment - SRJ-2022_02-Statusrapport-Garsås.md": {
+  "fichero": "md/SE/2021/SE-10019 - Interim Statetment - SRJ-2022_02-Statusrapport-Garsås.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 9299,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 3697,
+  "tokens_out": 2315,
+  "destino": "md-es/SE/2021/SE-10019 - Interim Statetment - SRJ-2022_02-Statusrapport-Garsås.md"
+ },
+ "md/SE/2021/SE-10019 - RJ2022_03-Slutrapport-Garsås.md": {
+  "fichero": "md/SE/2021/SE-10019 - RJ2022_03-Slutrapport-Garsås.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 148548,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 2: ratio 1.77"
+  ],
+  "tokens_in": 52865,
+  "tokens_out": 39350,
+  "destino": "md-es/SE/2021/SE-10019 - RJ2022_03-Slutrapport-Garsås.md"
+ },
+ "md/SE/2021/SE-10025 - Interim Statement - SRJ2022_01 Statusrapport - Häggvik.md": {
+  "fichero": "md/SE/2021/SE-10025 - Interim Statement - SRJ2022_01 Statusrapport - Häggvik.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 9521,
+  "ratio": 1.15,
+  "avisos": [],
+  "tokens_in": 3785,
+  "tokens_out": 2352,
+  "destino": "md-es/SE/2021/SE-10025 - Interim Statement - SRJ2022_01 Statusrapport - Häggvik.md"
+ },
+ "md/SE/2021/SE-10025 - RJ2022_02-Slutrapport-Häggvik.md": {
+  "fichero": "md/SE/2021/SE-10025 - RJ2022_02-Slutrapport-Häggvik.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 114573,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 40417,
+  "tokens_out": 28622,
+  "destino": "md-es/SE/2021/SE-10025 - RJ2022_02-Slutrapport-Häggvik.md"
+ },
+ "md/SE/2021/SE-10025 - RJ2022_02e-Final-report-Häggvik_EN.md": {
+  "fichero": "md/SE/2021/SE-10025 - RJ2022_02e-Final-report-Häggvik_EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 117476,
+  "ratio": 1.1,
+  "avisos": [],
+  "tokens_in": 36851,
+  "tokens_out": 30358,
+  "destino": "md-es/SE/2021/SE-10025 - RJ2022_02e-Final-report-Häggvik_EN.md"
+ },
+ "md/SE/2021/SE-10152 - Interim Statement -SRJ 2022_03 Statusrapport Malmbanan.md": {
+  "fichero": "md/SE/2021/SE-10152 - Interim Statement -SRJ 2022_03 Statusrapport Malmbanan.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 9535,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 3789,
+  "tokens_out": 2397,
+  "destino": "md-es/SE/2021/SE-10152 - Interim Statement -SRJ 2022_03 Statusrapport Malmbanan.md"
+ },
+ "md/SE/2021/SE-10152 - SHK2023_04 Urspårning Malmbanan.md": {
+  "fichero": "md/SE/2021/SE-10152 - SHK2023_04 Urspårning Malmbanan.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 96648,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 2: ratio 1.70"
+  ],
+  "tokens_in": 39794,
+  "tokens_out": 28820,
+  "destino": "md-es/SE/2021/SE-10152 - SHK2023_04 Urspårning Malmbanan.md"
+ },
+ "md/SE/2022/SE-10343 - SHK2023_13-Slutrapport-Värö.md": {
+  "fichero": "md/SE/2022/SE-10343 - SHK2023_13-Slutrapport-Värö.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 110594,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 37366,
+  "tokens_out": 26082,
+  "destino": "md-es/SE/2022/SE-10343 - SHK2023_13-Slutrapport-Värö.md"
+ },
+ "md/SE/2023/SE-10415 - SHK 2024_ 08 Slutrapport - Arlanda Express.md": {
+  "fichero": "md/SE/2023/SE-10415 - SHK 2024_ 08 Slutrapport - Arlanda Express.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 166795,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 2: ratio 1.74"
+  ],
+  "tokens_in": 58382,
+  "tokens_out": 42862,
+  "destino": "md-es/SE/2023/SE-10415 - SHK 2024_ 08 Slutrapport - Arlanda Express.md"
+ },
+ "md/SE/2023/SE-10437 - Interim Statement - SHK 2024_09 Statusrapport Iggesund.md": {
+  "fichero": "md/SE/2023/SE-10437 - Interim Statement - SHK 2024_09 Statusrapport Iggesund.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 8749,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 3331,
+  "tokens_out": 2020,
+  "destino": "md-es/SE/2023/SE-10437 - Interim Statement - SHK 2024_09 Statusrapport Iggesund.md"
+ },
+ "md/SE/2023/se-10437 - final report shk 2024_14 slutrapport - iggesund.md": {
+  "fichero": "md/SE/2023/se-10437 - final report shk 2024_14 slutrapport - iggesund.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 132346,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 4: ratio 1.66"
+  ],
+  "tokens_in": 46395,
+  "tokens_out": 32404,
+  "destino": "md-es/SE/2023/se-10437 - final report shk 2024_14 slutrapport - iggesund.md"
+ },
+ "md/SE/2024/shk 2025_01 slutrapport - vassijaure 2.md": {
+  "fichero": "md/SE/2024/shk 2025_01 slutrapport - vassijaure 2.md",
+  "estado": "ok",
+  "idioma": "SV",
+  "chars": 75920,
+  "ratio": 1.23,
+  "avisos": [],
+  "tokens_in": 25317,
+  "tokens_out": 18782,
+  "destino": "md-es/SE/2024/shk 2025_01 slutrapport - vassijaure 2.md"
+ },
+ "md/SE/2025/se-10681 - final report, shk 2026_03 slutrapport-personpåkörning malmö godsbangård - rättad.md": {
+  "fichero": "md/SE/2025/se-10681 - final report, shk 2026_03 slutrapport-personpåkörning malmö godsbangård - rättad.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 163289,
+  "ratio": 1.23,
+  "avisos": [
+   "bloque 3: ratio 1.81"
+  ],
+  "tokens_in": 55302,
+  "tokens_out": 38504,
+  "destino": "md-es/SE/2025/se-10681 - final report, shk 2026_03 slutrapport-personpåkörning malmö godsbangård - rättad.md"
+ },
+ "md/SE/2025/se-10694 - final report, shk 2026_06 - slutrapport spårvagnsolycka i göteborg.md": {
+  "fichero": "md/SE/2025/se-10694 - final report, shk 2026_06 - slutrapport spårvagnsolycka i göteborg.md",
+  "estado": "revisar",
+  "idioma": "SV",
+  "chars": 124948,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 7: cifras largas: faltan 9/20 (45%)"
+  ],
+  "tokens_in": 45792,
+  "tokens_out": 31334,
+  "destino": "md-es/SE/2025/se-10694 - final report, shk 2026_06 - slutrapport spårvagnsolycka i göteborg.md"
+ },
+ "md/SE/2025/se-10694 - final report, shk 2026_06e tram accident in gothenburg.md": {
+  "fichero": "md/SE/2025/se-10694 - final report, shk 2026_06e tram accident in gothenburg.md",
+  "estado": "revisar",
+  "idioma": "EN",
+  "chars": 127600,
+  "ratio": 1.11,
+  "avisos": [
+   "bloque 7: cifras largas: faltan 9/15 (60%)"
+  ],
+  "tokens_in": 38896,
+  "tokens_out": 32094,
+  "destino": "md-es/SE/2025/se-10694 - final report, shk 2026_06e tram accident in gothenburg.md"
+ }
+}

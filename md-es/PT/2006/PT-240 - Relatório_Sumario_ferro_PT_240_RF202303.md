@@ -10,13 +10,13 @@ chars: 21796
 ratio_longitud: 0.72
 tokens_in: 19886
 tokens_out: 8843
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 2: ratio 1.68", "página 5: cifras largas: faltan 2/7 (29%)", "página 6: cifras largas: faltan 3/8 (38%)", "página 9: ratio 1.93"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (PT); cifras largas: 1/8; cifras cortas: 2/22", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PT); cifras largas: 2/10; cifras cortas: 1/6", "página 8: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 3/9", "página 10: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/5"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 RFR 
 TRANSPORTE FERROVIÁRIO 
@@ -156,102 +156,26 @@ Valor dos danos materiais:
 € 10784,00 
 Coste de los daños: 
 1/10 
-RELATÓRIO FACTUAL || INFORME FACTUAL F2023/03     
-
+RELATÓRIO FACTUAL || INFORME FACTUAL F2023/03
 
 ## Página 2
 
-## 2- NOTA SOBRE A INVESTIGAÇÃO 
-## 2- NOTA SOBRE LA INVESTIGACIÓN 
-O processo de investigação foi aberto pelo extinto 
-El proceso de investigación fue abierto por el desaparecido 
-Instituto Nacional do Transporte Ferroviário (INTF), 
-Instituto Nacional de Transporte Ferroviario (INTF) – NSA - 
-tendo o acidente sido notificado à Agência 
-y el accidente fue notificado a la Agencia 
-Ferroviária Europeia e aberta a correspondente 
-Ferroviaria Europea y se abrió la entrada correspondiente 
-entrada na base de dados ERAIL. 
-en la base de datos ERAIL. 
-O processo constituído pelo INTF, que transitou 
-El expediente constituido por el INTF, que pasó 
-para o ex-GISAF, entretanto constituído em 2008, 
-al antiguo GISAF, creado entre tanto en 2008, 
-estava concluído, terminando com um relatório 
-estaba concluido, finalizando con un informe 
-final elaborado após audição das partes envolvidas, 
-final elaborado tras la audiencia de las partes implicadas, 
-e que foi a elas remetido.  
-y que les fue remitido.  
-No entanto, considerando que a investigação não 
-Sin embargo, considerando que la investigación no 
-havia 
-sido 
-realizada 
-por 
-uma 
-entidade 
-había sido realizada por una entidad 
-independente, conforme requerido pela Diretiva 
-independiente, según lo requerido por la Directiva 
-Europeia relativa à segurança ferroviária, e que o 
-Europea relativa a la seguridad ferroviaria, y que el 
-referido relatório não estava em conformidade com 
-dicho informe no estaba en conformidad con los 
-os requisitos legais e boas práticas nesta matéria, 
-requisitos legales y buenas prácticas en esta materia, 
-não estava em condições de ser homologado pelos 
-no estaba en condiciones de ser aprobado por los 
-diretores do ex-GISAF para ser publicado, nem 
-directores del antiguo GISAF para su publicación, ni 
-aquele Gabinete dispunha dos meios necessários 
-aquella Oficina disponía de los medios necesarios 
-para a realização de nova investigação. 
-para la realización de una nueva investigación. 
-Assim e tendo em conta: 
-Por tanto, y teniendo en cuenta: 
-― O facto de a ocorrência não configurar um 
-― El hecho de que el suceso no constituya un 
-“acidente grave”, nos termos do n.º 2 do 
-«accidente grave», según el apartado 2 del 
-Decreto-Lei n.º 393/2007, de 31 de dezembro, 
-Real Decreto-Ley n.º 393/2007, de 31 de diciembre, 
-logo não ser de investigação obrigatória, 
-por lo que no es de investigación obligatoria, 
-― Lacunas no processo existente para dar satisfação 
-― Lagunas en el proceso existente para satisfacer 
-aos requisitos do Manual de Investigação do 
-los requisitos del Manual de Investigación del 
-GPIAAF e às atuais boas práticas neste domínio, 
-GPIAAF y las actuales buenas prácticas en este ámbito, 
-que não se mostra viável colmatar, 
-que no parece viable subsanar, 
-― O tempo entretanto decorrido desde a 
-― El tiempo transcurrido desde el 
-ocorrência, 
-suceso, 
-― As circunstâncias da ocorrência, 
-― Las circunstancias del suceso, 
-― O facto de não existirem novos ensinamentos 
-― El hecho de que no existan nuevos aprendizajes 
-de segurança a retirar da realização da 
-de seguridad que extraer de la realización de la 
-investigação, 
-investigación, 
-o GPIAAF decidiu encerrar o processo com a 
-el GPIAAF decidió cerrar el proceso con la 
-publicação do presente relatório, dando conta dos 
-publicación del presente informe, dando cuenta de los 
-factos apurados e conclusões disponíveis, bem como 
-hechos determinados y conclusiones disponibles, así como 
-das medidas tomadas, para memória futura. 
-de las medidas adoptadas, para memoria futura. 
-Esta metodologia tem o acordo da Agência 
-Esta metodología cuenta con el acuerdo de la Agencia 
-Ferroviária da União Europeia. 
-Ferroviaria de la Unión Europea.
+
+## 2- NOTA SOBRE LA INVESTIGACIÓN
+El proceso de investigación fue iniciado por el extinto Instituto Nacional del Transporte Ferroviario (INTF), habiéndose notificado el accidente a la Agencia Ferroviaria Europea y abierto la correspondiente entrada en la base de datos ERAIL.
+El expediente constituido por el INTF, que pasó al ex-GISAF, creado entretanto en 2008, estaba concluido, finalizando con un informe final elaborado tras la audiencia de las partes implicadas, y que fue remitido a estas.
+No obstante, considerando que la investigación no había sido realizada por una entidad independiente, conforme requiere la Directiva Europea relativa a la seguridad ferroviaria, y que el referido informe no cumplía los requisitos legales y buenas prácticas en esta materia, no estaba en condiciones de ser homologado por los directores del ex-GISAF para su publicación, ni dicho Organismo disponía de los medios necesarios para la realización de una nueva investigación.
+Así pues, y teniendo en cuenta:
+― El hecho de que la incidencia no configure un «accidente grave», en los términos del apartado 2 del Decreto-Ley n.º 393/2007, de 31 de diciembre, por lo que no es de investigación obligatoria,
+― Lagunas en el expediente existente para dar satisfacción a los requisitos del Manual de Investigación del GPIAAF y a las actuales buenas prácticas en este ámbito, que no se muestra viable subsanar,
+― El tiempo transcurrido desde la incidencia,
+― Las circunstancias de la incidencia,
+― El hecho de que no existan nuevos aprendizajes de seguridad que extraer de la realización de la investigación,
+el GPIAAF decidió cerrar el proceso con la publicación del presente informe, dando cuenta de los hechos averiguados y conclusiones disponibles, así como de las medidas adoptadas, para memoria futura.
+Esta metodología cuenta con el acuerdo de la Agencia Ferroviaria de la Unión Europea.
 
 ## Página 3
+
 
 ## 3- HECHOS INMEDIATOS DEL SUCESO
 A las 03:36 del día 06-09-2006, el tren de transporte de carbón n.º 66951 atravesaba la estación de Santarém a unos 20 km/h, en sentido Sur-Norte, cuando el agente de circulación presente en el andén observó que una de las ruedas de un vagón, sensiblemente a mitad de la composición, estaba incandescente. Ante este hecho, comunicó dicha anomalía al puesto de mando local (PCL) de circulación de Entroncamento.
@@ -262,6 +186,7 @@ Tras la parada, la tripulación, compuesta por maquinista y operador de apoyo, c
 Debido a la inmovilización del tren en plena vía, sobre las 04:10 el PCL suspendió la circulación en la vía A de la línea del Norte entre Santarém y Entroncamento, mientras se disponía que
 
 ## Página 4
+
 
 las estaciones de Vale de Figueira y Mato de Miranda fueran dotadas de personal.
 Vigo
@@ -298,33 +223,108 @@ Para ello, también se tomaron las acciones necesarias a nivel de gestión de la
 
 ## Página 5
 
-Las estaciones de Figueira y Mato de Miranda, que también quedaron guarnecidas a las 06:30.
-El tren n.º 66951 retomó su marcha a las 07:28 con solo los seis primeros vagones, habiendo partido poco después el tren de rescate desde Entroncamento hacia el lugar donde se encontraba inmovilizada la composición restante, llegando allí a las 09:30 tras la reconfiguración en la estación de Mato de Miranda.
-El rescate del vagón averiado consistió en la colocación de un carro especial con cuatro ruedas pequeñas («diplori» portarrodados) por debajo del rodado averiado, operación que quedó concluida a las 13:35, habiendo sido remolcado el vagón en dichas condiciones a baja velocidad por el tren de rescate hasta la estación de Mato de Miranda, donde llegó cerca de las 14:05.
-A continuación, una locomotora eléctrica movilizada para tal efecto fue a buscar los restantes 15 vagones, remolcándolos hasta la estación de Mato de Miranda y prosiguiendo después hacia Entroncamento.
-La circulación quedó normalizada a las 15:35, sin restricciones.
-Fueron suprimidos dos trenes, total o parcialmente, y penalizados 152 trenes totalizando 6075 minutos de retraso.
-
-## 4- LA INFRAESTRUCTURA
-No se determinó ninguna asociación entre las características de la infraestructura y la avería en el vagón.
-
-## 5- MATERIAL RODANTE
-### La avería en el vagón 83 94 933 0 037-1
-Se constató el agarrotamiento de los rodamientos de la caja de eje n.º 6 del rodado 5/6 del vagón, causando fuerte desgaste en el muñón del eje, pero sin llevar a su rotura, habiendo permanecido contenida la falla. La caja de eje n.º 5 no presentaba ninguna anomalía aparente.
+Mato de Miranda, as quais ficaram guarnecidas
+Figueira and Mato de Miranda stations, which were
+também às 06:30.
+also manned by 06:30.
+O comboio n.º 66951 retomou a sua marcha pelas
+Train No 66951 resumed running with only its first six
+07:28 com apenas os seis primeiros vagões, tendo
+wagons at 07:28, and shortly afterwards the rescue
+pouco depois o comboio de socorro partido do
+train departed from Entroncamento to the location
+Entroncamento para o local onde se encontrava
+of the remaining wagons, arriving there at 09:30
+imobilizada a restante composição, onde chegou às
+after reconfiguration at Mato de Miranda station.
+09:30 após reconfiguração em Mato de Miranda.
+O socorro ao vagão avariado consistiu na colocação
+The rescue to the damaged wagon consisted of
+de um carrinho especial com quatro pequenas rodas
+placing a special trolley with four small wheels
+(“diplori” porta-rodados) por baixo do rodado
+("diplorry" for wheelsets) under the damaged
+avariado, operação que ficou concluída às 13:35,
+wheelset, being completed at 13:35, and the wagon
+tendo o vagão sido rebocado nessas condições a
+being towed in these conditions at low speed by the
+baixa velocidade pelo comboio de socorro até à
+rescue train to Mato de Miranda station, where it
+estação de Mato de Miranda, onde chegou cerca das
+arrived at about 14:05.
+14:05.
+Em seguida uma locomotiva elétrica mobilizada para
+Then an electric locomotive mobilized for this
+o efeito foi buscar os restantes 15 vagões,
+purpose went to the site of the remaining 15 cars to
+rebocando-os para a estação de Mato Miranda e
+haul them to Mato Miranda station, then proceeding
+prosseguindo depois para o Entroncamento.
+to Entroncamento.
+A circulação ficou normalizada às 15:35, sem
+Train running was normalized at 15:35, without
+restrições.
+restrictions.
+Foram
+suprimidos
+dois
+comboios,
+total
+ou
+Two trains were cancelled, in whole or in part, and
+parcialmente,
+e
+penalizados
+152
+comboios
+152 trains were penalized totalling 6075 minutes of
+totalizando 6075 minutos de atraso.
+delay.
+## 4- A INFRAESTRUTURA
+## 4- THE INFRASTRUCTURE
+Não foi determinada qualquer associação das
+No
+relation
+was
+determined
+between
+the
+características da infraestrutura à avaria no vagão.
+characteristics of the infrastructure and the
+breakdown in the wagon.
+## 5- MATERIAL CIRCULANTE
+## 5- ROLLING STOCK
+### A avaria no vagão 83 94 933 0 037-1
+### The failure on wagon 83 94 933 0 037-1
+Foi constatada a gripagem dos rolamentos da caixa
+The failure of the axlebox bearing No 6 of wheelset
+de eixo n.º 6 do rodado 5/6 do vagão, causando forte
+5/6 of the wagon was observed, resulting in the
+desgaste no moente do eixo, mas sem levar à sua
+strong wear on the axle bearing, but without leading
+rotura, tendo a falha permanecido contida. A caixa
+to its rupture, the failure remaining contained.
+de eixo n.º 5 não tinha qualquer anomalia aparente.
+Axlebox 5 had no apparent anomaly.
 
 ## Página 6
 
+
 Figura 2
 ||
-Varias vistas de la caja n.º 6 averiada
-Un incendio junto a la vía, cerca del pk 25 de la Línea de Vendas Novas, detectado poco después del paso del tren n.º 66951, parece sugerir que la avería ya estaría en desarrollo en dicho lugar, es decir, 56 km antes de que el tren fuera inmovilizado.
-
+Figure 2
+Várias vistas da caixa n.º 6 avariada
+||
+Several aspects of failed No 6 axlebox
+Um incêndio junto à via, cerca do pk 25 da Linha de Vendas Novas, detetado pouco depois da passagem do comboio n.º 66951, parece sugerir que a avaria já estaria em desenvolvimento nesse local, ou seja, 56 km antes do comboio ter sido imobilizado.
+Un incendio junto a la vía, cerca del pk 25 de la Línea de Vendas Novas, detectado poco después del paso del tren n.º 66951, parece sugerir que la avería ya se estaba desarrollando en ese punto, es decir, 56 km antes de que el tren fuera inmovilizado.
+### O vagão avariado
 ### El vagón averiado
-El vagón 83 94 933 0 037-1 era propiedad de la empresa Tejo Energia, S.A.. Hasta el 29-02-2004 su mantenimiento estaba contratado con la empresa EMEF, siendo que a partir de dicha fecha estaba contratado con la empresa Metalsines, S.A., constructora del vehículo.
-Tenía el plan de mantenimiento al día.
-La última intervención de taller recibida en el rodado que se averió había sido el 27-09-2005, fecha en la que sus dos cajas de eje fueron objeto de mantenimiento, habiendo sido sustituidos ambos rodamientos y soldadas las chapas de desgaste de las cajas, además de haber sido sometido el eje a control por ultrasonidos. Dicha intervención se encuadraba en las visitas con periodicidad de tres años previstas en el Manual de Mantenimiento del vagón vigente en la fecha, el cual también preveía que la sustitución del lubricante y la verificación del rodamiento de la caja de eje fueran realizadas anualmente.
+O vagão 83 94 933 0 037-1 era detido pela empresa Tejo Energia, S.A.. Até 29-02-2004 a sua manutenção estava contratada à empresa EMEF, sendo que a partir dessa data estava contratada à empresa Metalsines, S.A, construtora do veículo. Tinha o plano de manutenção em dia. A última intervenção oficinal recebida no rodado que se avariou havia sido em 27-09-2005, data em que as suas duas caixas de eixo foram objeto de manutenção, tendo sido substituídos ambos os rolamentos e soldadas as chapas de desgaste das caixas, além de o veio ter sido sujeito a controlo por ultrassons. Essa intervenção inseria-se nas visitas com periodicidade de três anos previstas no Manual de Manutenção do vagão em vigor à data, o qual também previa que a substituição do lubrificante e a verificação do rolamento da caixa de eixo fossem realizadas anualmente.
+El vagón 83 94 933 0 037-1 era propiedad de la empresa Tejo Energia, S.A.. Hasta el 29-02-2004 su mantenimiento estaba contratado con la empresa EMEF, y a partir de esa fecha estaba contratado con la empresa Metalsines, S.A., constructora del vehículo. Tenía el plan de mantenimiento al día. La última intervención en taller recibida por el bogie que falló había sido el 27-09-2005, fecha en la que sus dos cajas de eje fueron objeto de mantenimiento, habiéndose sustituido ambos rodamientos y soldado las placas de desgaste de las cajas, además de haberse sometido el eje a un control por ultrasonidos. Esta intervención se enmarcaba dentro de las revisiones con periodicidad trienal previstas en el Manual de Mantenimiento del vagón vigente en la fecha, el cual también preveía que la sustitución del lubricante y la verificación del rodamiento de la caja de eje se realizaran anualmente.
 
 ## Página 7
+
 
 Since the date of this overhaul, the wagon had also been subjected to three external visual inspections provided for in its maintenance plan with three months cycle, without anything abnormal being observed.
 Of the two bearings applied in 2005 in boxes 5 and 6, only box 6 was damaged and there was no anomaly identified in box 5. There is no information in the investigation file on whether the bearings applied in 2005 were new or reconditioned and, in the first case, if they belonged to the same batch. Nor has there been any specialized expertise to try to identify the origin of the failure.
@@ -335,8 +335,8 @@ Before the departure of Poceirão station, a complete brake test was performed, 
 ### Registros taquimétricos
 The ATP system was in service and from studying the records it was found that the maximum allowed speeds were not exceeded.
 
-
 ## Página 8
+
 
 ## 6- ACCIONES RELEVANTES ADOPTADAS
 For the inquiry into the causes and circumstances of the incident and to issue recommendations aimed at preventing future similar occurrences, the Instituto Nacional do Transporte Ferroviário (NSA) set up a commission on the 13-09-2006.
@@ -351,21 +351,22 @@ The inquiry committee issued the recommendations now transcribed:
 
 ## Página 9
 
-seguimiento del tráfico, en lo relativo a los procedimientos que deben adoptarse en caso de situaciones de emergencia.
+
+seguimiento del tráfico, en relación con los procedimientos a adoptar en caso de situaciones de emergencia.
 3. A REFER E.P.:
 3. To REFER E.P. (infrastructure manager):
-― Que se promuevan acciones de formación y simulacros para el entrenamiento del personal interviniente en la resolución de las situaciones de perturbación de la circulación, en particular para situaciones análogas a la verificada, con el fin de mejorar procesos y prácticas e identificar la necesidad de eventuales acciones correctivas, designadamente en los Planes de Emergencia.
+― Que se promuevan acciones de formación y simulacros para el entrenamiento del personal interviniente en la resolución de las situaciones de perturbación de la circulación, en particular para situaciones análogas a la verificada, a fin de mejorar procesos y prácticas e identificar la necesidad de eventuales acciones correctivas, designadamente en los Planes de Emergencia.
 ― To promote training and simulations for the training of personnel involved in the resolution of traffic disturbance situations, in particular for situations analogous to that observed, processes and practices and identify the need for possible corrective actions, namely in the Emergency Plans.
-― Que proceda a la instalación en la vía férrea de equipos de detección de cajas de ejes y de ruedas calientes, en los lugares que resulten más adecuados.
+― Que proceda a la instalación en la vía férrea de equipos de detección de cajas de eje y de ruedas calientes, en los lugares que se revelen más adecuados.
 ― That it installs equipment for detecting axle boxes and hot wheels, in the most appropriate places on the track.
-En lo que respecta a las recomendaciones formuladas a Tejo-Energia, como consecuencia de accidentes posteriores cuya causa directa fueron averías en las cajas de ejes, todos los rodamientos de los vagones retenidos por la empresa fueron objeto de verificación, y sustitución cuando fue necesario, y el plan de mantenimiento de los vagones fue modificado. En la fecha actual, los vagones de esta serie están fuera de servicio.
+En lo que respecta a las recomendaciones formuladas a Tejo-Energia, como consecuencia de accidentes posteriores teniendo como causa directa averías en las cajas de eje, todos los rodamientos de los vagones retenidos por la empresa fueron objeto de verificación, y sustitución cuando fue necesario, y el plan de mantenimiento de los vagones fue modificado. En la fecha actual, los vagones de esta serie están fuera de servicio.
 As regards the recommendations made to Tejo-Energia, following subsequent accidents having failures in axle boxes as a direct cause, all the bearings of the wagons held by the company were checked, and replaced when necessary, and the wagon maintenance plan was changed. At the current date, the wagons in this series are all out of service.
-En cuanto a las recomendaciones relativas a la correcta iniciación y ejecución de los planes de emergencia formuladas a CP y a REFER (actualmente Infraestruturas de Portugal, S.A.), aunque el informe es omiso respecto al análisis de los hechos o conclusiones que las justifican, la aplicación de la normativa sobre estos aspectos no ha revelado disfuncionamientos significativos.
+En cuanto a las recomendaciones relativas a la correcta iniciación y ejecución de los planes de emergencia formuladas a CP y a REFER (actualmente Infraestruturas de Portugal, S.A.), aunque el informe es omiso respecto al análisis de los hechos o conclusiones que las justifican, la aplicación de la normativa sobre estos aspectos no ha puesto de manifiesto disfuncionamientos significativos.
 As for the recommendations regarding the proper initiation and implementation of the contingency plans, made to CP and REFER (currently Infraestruturas de Portugal, S.A.), although the report has no analysis of the facts or any conclusions justifying them, the application of regulations on these aspects is not revealing significant malfunctions.
-Con respecto a la instalación en la vía férrea de equipos de detección de cajas de ejes y de ruedas calientes, en la fase de audiencia del informe preliminar, el gestor de infraestructura declaró que la instalación de estos equipos será “de relevante importancia para la seguridad de la circulación”, suscitando, sin embargo, la cuestión de que su instalación no es obligatoria. No obstante, declaró igualmente que, en aquella fecha, tenía “en proceso de implementación, un SDCRQ [Sistema de Deteção de Caixas e Rodas Quentes], estando ya operacional y en una avanzada fase de pruebas, su 1.ª fase (instalación piloto en la Linha do Norte). La puesta en servicio de los puntos de detección/medición correspondientes a la 2.ª fase, permitirá cubrir cerca del 85% del tráfico de mercancías a lo largo de la Rede Ferroviária Nacional, valor que pasará al 95% con la concreción de la 3.ª fase”.
-With regard to the installation on the infrastructure of hot axle box and wheel detection equipment, at the consultation phase of the preliminary report the infrastructure manager stated that the installation of these equipment will be “of relevant importance for operational safety", raising, however, the point that its installation is not mandatory. However, it also stated that, at that date, it was "in the process of implementation of a Hot Box and Wheel Detection System, the 1st phase of which being already
+Con respecto a la instalación en la infraestructura ferroviaria de equipos de detección de cajas de eje y de ruedas calientes, en la fase de audiencia del informe preliminar el gestor de la infraestructura declaró que la instalación de estos equipos será “de relevante importancia para la seguridad de la circulación”, suscitando, sin embargo, la cuestión de que su instalación no es obligatoria. No obstante, declaró igualmente que, en dicha fecha, tenía “en proceso de implementación, un SDCRQ [Sistema de Deteção de
 
 ## Página 10
+
 
 operational and in an advanced testing phase (pilot installation on the North Line). The commissioning of the detection/measurement points corresponding to the 2nd phase will cover about 85% of freight traffic along the National Rail Network, which will increase to 95% with the completion of the 3rd phase".
 Presentemente y desde hace varios años, no existen en funcionamiento en la red ferroviaria nacional equipos para la detección de cajas y ruedas calientes.

@@ -10,13 +10,13 @@ chars: 198100
 ratio_longitud: 1.11
 tokens_in: 83414
 tokens_out: 57637
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 31: cifras largas: faltan 3/11 (27%)"]
-notas_cifras: ["página 6: cifras cortas: 1/70", "página 8: cifras cortas: 1/25", "página 50: cifras cortas: 4/52", "página 51: cifras cortas: 1/34", "página 52: cifras cortas: 1/25", "página 72: cifras largas: 1/23"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 R E P Ú B L I C A   D E   B U L G A R I A
 COMITÉ NACIONAL DE INVESTIGACIÓN DE ACCIDENTES EN EL TRANSPORTE AÉREO, MARÍTIMO Y FERROVIARIO (CNIAAMF)
@@ -28,8 +28,8 @@ INFORME FINAL
 de la investigación del accidente grave – descarrilamiento de la unidad múltiple diésel-eléctrica MDTV n.º 48131 en la estación de Eliseyna en el desvío 3/5 el 21.09.2025
 Sofía 2026
 
-
 ## Página 2
+
 
 ## OBJETIVO DE LA INVESTIGACIÓN Y GRADO DE RESPONSABILIDAD
 La investigación de accidentes graves, accidentes e incidentes en el transporte ferroviario es llevada a cabo por el organismo independiente de investigación de seguridad «Comité Nacional de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario» (CNIAAMF), adscrito al Consejo de Ministros (CM) de la República de Bulgaria, cuyo objetivo es determinar las circunstancias y causas que condujeron a su ocurrencia, con miras a mejorar la seguridad en el transporte ferroviario, prevenir y evitar accidentes, dando prioridad a la prevención de accidentes graves.
@@ -38,6 +38,7 @@ La investigación se realiza conforme a los requisitos de la DIRECTIVA (UE) 2016
 Los informes de investigación cumplen con los requisitos del REGLAMENTO (UE) 2020/572 de la Comisión, de 24 de abril de 2020, relativo a la estructura que debe seguirse en la elaboración de informes de investigación de accidentes e incidentes ferroviarios.
 
 ## Página 3
+
 
 ÍNDICE 
 ## 1. 
@@ -131,6 +132,7 @@ indicadas en el registro. ......................................................
 
 ## Página 4
 
+
 4.2. 
 Material rodante e instalaciones técnicas. .............................................................................. 60 
 4.2.1. 
@@ -176,10 +178,10 @@ Medidas adoptadas tras la ocurrencia del suceso. ...............................
 5.3. 
 Hallazgos adicionales. ...................................................................................................... 76 
 ## 6. 
-Recomendaciones de seguridad ................................ ¡Error! No se ha definido el marcador. 
-
+Recomendaciones de seguridad ................................ ¡Error! No se ha definido el marcador.
 
 ## Página 5
+
 
 ## ABREVIATURAS UTILIZADAS EN EL INFORME 
 BAN – Academia Búlgara de Ciencias 
@@ -226,6 +228,7 @@ TsDR – Dirección Central de Despacho en DP NKZHI
 
 ## Página 6
 
+
 ### 1. Resumen
 ### 1.1. Breve descripción del suceso.
 El 21.09.2025 a las 21:55 h, el Tren Directo Internacional de Mercancías (IDFT) n.º 48131 partió de la estación de Vratsa. El tren estaba compuesto por 24 vagones cargados, con 96 ejes y una masa bruta de 1914 toneladas. Era remolcado por la locomotora de tren n.º 91521080030-5, tripulada por un maquinista principal y un segundo maquinista, junto con la locomotora de refuerzo en cola n.º 91520087023-5, tripulada por un maquinista.
@@ -244,8 +247,8 @@ La aguja derecha del cambio n.º 5 fue encontrada rota a 7530 mm de la punta de 
 El 26.09.2025 a las 16:25 h, tras finalizar las obras de reconstrucción en las vías tercera y cuarta, así como en los cambios n.º 5 y n.º 9, el técnico jefe de la Sección Ferroviaria de Vratsa anotó en el libro de registro del regulador de la estación de Eliseyna: "Restablecimiento del tráfico ferroviario en las vías tres y cuatro junto con los cambios n.os 3, 5 y 9, y restablecimiento del tráfico en los tramos Eliseyna – Zverino y Lakatnik – Eliseyna por la vía principal n.º 1 a la velocidad programada."
 El 26.09.2025 a las 16:36 h, el regulador de tráfico de la Unidad Operativa de Tráfico de Sofía ordenó el restablecimiento del tráfico en el tramo Eliseyna-Zverino por la vía principal n.º 1 a la velocidad programada.
 
-
 ## Página 7
+
 
 ### Fig. 1.1. Vista general del lugar del accidente
 ### 1.2. Hora y lugar del suceso.
@@ -253,6 +256,7 @@ El suceso ocurrió en la estación de Eliseyna, en los cambios n.º 3/5, a las 2
 ### Fig. 1.2. Croquis del lugar del accidente.
 
 ## Página 8
+
 
 La estación de Eliseyna se encuentra en el tramo Sofía – Mezdra de la línea principal n.º 2. La línea es convencional, bidireccional y electrificada. La velocidad máxima permitida en el tramo donde tuvo lugar el accidente es de 70 km/h.
 ### 1.3. Factores que contribuyeron al evento.
@@ -271,8 +275,8 @@ Para prevenir futuras ocurrencias de naturaleza similar, el Presidente de la Com
 Recomendación 1: NRIC y Bulmarket Rail Cargo EOOD deben familiarizar a todo el personal operativo pertinente con el contenido de este informe.
 Recomendación 2: NRIC debe organizar y ejecutar una sustitución progresiva en las estaciones de cambios dobles de cruzamiento (tipo inglés) que presenten lengüetas interiores y conexiones en S.
 
-
 ## Página 9
+
 
 Recomendación 3: NRIC debe imponer una restricción de velocidad de hasta 25 km/h para el tráfico sobre cambios dobles de cruzamiento (tipo inglés) con lengüetas interiores hasta su completa sustitución.
 Recomendación 4: NRIC debe garantizar el estricto cumplimiento de los requisitos del Artículo 113 de las Normas para la Operación Técnica de la Infraestructura Ferroviaria de 2021, y de la Orden n.º 393/19.04.1994 del Director General de la compañía BDZ (Ferrocarriles Estatales Búlgaros), prohibiendo expresamente la soldadura de cables de conexión (puente) ya sea al cabezal del riel o al pie del riel.
@@ -281,6 +285,7 @@ Recomendación 5: NRIC debe facilitar formación periódica en su Centro de Cual
 Recomendación 7: Bulmarket Rail Cargo EOOD debe actualizar su Procedimiento de Seguridad SP-45 de fecha 25.02.2015 ("Normas para el Mantenimiento de Vagones de Mercancías"), que actualmente exige un intervalo de 6 (seis) años para las revisiones intermedias; específicamente, para activos sometidos a explotación agresiva constante, se deben adoptar medidas para asegurar que se ejecute una revisión intermedia de los componentes del equipo de rodaje cada 3 (tres) años.
 
 ## Página 10
+
 
 ### 2. Investigación
 ### 2.1. Decisión de iniciar la investigación.
@@ -301,6 +306,7 @@ La comisión de investigación determinó los parámetros de la investigación y
 
 ## Página 11
 
+
 Se solicitó y proporcionó información relativa al registro en el registro de vehículos, la propiedad, la estructura y la entidad responsable del mantenimiento de la locomotora descarrilada y de los 3 vagones. Se realizó una entrevista con los organismos de seguridad y con la dirección de la empresa ferroviaria «Bulmarket Rail Cargo» EOOD y de la Empresa Pública NKZHI (Administración Nacional de Infraestructura Ferroviaria).
 ### 2.6. Grado de cooperación por parte de las entidades participantes.
 Durante la investigación, los directivos de la empresa ferroviaria «Bulmarket Rail Cargo» EOOD y de la Empresa Pública NKZHI prestaron su colaboración y facilitaron los materiales y documentos necesarios al Presidente de la Comisión de Investigación de la NBRPWWJT (Agencia Nacional de Investigación de Accidentes e Incidentes Ferroviarios).
@@ -316,8 +322,8 @@ El 22.09.2025 alrededor de las 04:30 horas, los organismos de seguridad de la Em
 El 07.10.2025, en la base de reparación LVZ 1866 – Ruse de la empresa ferroviaria «Bulmarket Rail Cargo» EOOD, se organizaron inspecciones para evaluar los daños del locomotor eléctrico «Siemens Smartron» n.º 91521080030-5, surgidos como consecuencia del descarrilamiento de la locomotora en la aguja n.º 5 en la estación de Eliseyna. Las inspecciones fueron realizadas por «SIEMENS MOBILITY» EOOD y por la Compañía Anónima Unipersonal de Seguros «Bulstrad Vienna Insurance Group» AD. El 27.10.2025 se presentó a «Bulmarket Rail Cargo» EOOD un acta de «SIEMENS MOBILITY» EOOD derivada de la inspección para la evaluación de los daños en la locomotora.
 El 07.10.2025, en la base de reparación LVZ 1866 – Ruse, se organizó y realizó una inspección por parte de los miembros del grupo operativo, con representantes de la Empresa Pública NKZHI y de «Bulmarket Rail Cargo» EOOD, de los tres vagones descarrilados con n.os 31529338858-5, 31529338849-4 y 31529339192-8. Tras las mediciones realizadas, se elaboraron actas de constatación sobre el estado técnico de los vagones descarrilados.
 
-
 ## Página 12
+
 
 Tras constatarse grandes daños materiales en el material rodante ferroviario, la empresa ferroviaria «Bulmarket Rail Cargo» EOOD envió la carta n.º 312/17.10.2025 al miembro del Consejo de Administración de la NBRPWWJT competente para investigar incidentes ferroviarios, solicitando, de conformidad con los requisitos del artículo 20, apartado 2, letra g) de la Directiva 2016/798, emprender una investigación independiente del incidente.
 El miembro del Consejo de Administración de la NBRPWWJT competente para investigar incidentes ferroviarios, el 20.10.2025, tras examinar los materiales y circunstancias proporcionados, reclasificó el evento y tomó la decisión de iniciar una investigación de seguridad. Se notificó por escrito a los directivos de ambas entidades y al Organismo Nacional de Seguridad. El evento fue notificado en el registro de la Agencia Ferroviaria de la Unión Europea (ERA).
@@ -328,16 +334,17 @@ En presencia de la Comisión de Investigación, se realizó una medición de con
 
 ## Página 13
 
+
 El 03.11.2025, el jefe del grupo operativo entregó los materiales y el informe conforme a la Ordenanza n.º 59 al vicepresidente de la Junta Directiva de la NBRPVVZHT (presidente de la comisión de investigación).
 Durante el período comprendido entre el 18 y el 21.11.2025, la Comisión de Investigación en la NBRPVVZHT realizó inspecciones del material rodante descarrilado (locomotora y tres vagones) en la base de reparación LVZ 1866 – Ruse.
 Se realizaron mediciones de los parámetros de las partes de rodaje del material rodante descarrilado (fig. 2.2, 2.3).
 ### Fig. 2.2. 
 ### Fig. 2.3.  
 El 27.11.2025, la Comisión de Investigación en la NBRPVVZHT se trasladó a la estación de Eliseyna, donde los parámetros retirados del material rodante fueron comparados in situ en la zona de descarrilamiento de la locomotora con los parámetros de las agujas n.º 3/5 y de las vías tercera y cuarta (fig. 2.4).
-### Fig. 2.4.  
-
+### Fig. 2.4.
 
 ## Página 14
+
 
 ### 2.8. Dificultades encontradas durante la investigación. 
 Durante el tiempo que duró el accidente investigado, los representantes de las partes implicadas en el accidente DP NKZHI, «Bulmarket Rail Cargo» EOOD, y el grupo operativo prestaron asistencia a la Comisión de Investigación en relación con la seguridad en la NBRPVVZHT.
@@ -346,10 +353,10 @@ El 21.09.2025, alrededor de las 22:40 horas, el jefe de movimiento de guardia en
 ### 2.10. Otra información relevante para el contexto de la investigación. 
 Los registros extraídos de los dispositivos registradores y grabadores de la locomotora n.º 91521080030-5, a la cabeza del tren, y de la locomotora auxiliar de empuje n.º 91520087023-5, que operaban el MDTW n.º 48131 el 21.09.2025, fueron entregados el 03.11.2025 al Presidente de la Comisión de Investigación en la NBRPVVZHT. Sobre la base de los registros proporcionados por los dispositivos grabadores de ambas locomotoras, la Comisión de Investigación realizó un análisis del movimiento del tren desde la estación de Vratsa hasta el lugar del accidente en la estación de Eliseyna.  
 Tras el análisis realizado sobre el movimiento del MDTW n.º 48131, se determinó que el reloj del dispositivo grabador de la locomotora de tren n.º 91521080030-5 estaba ajustado y era conforme al tiempo astronómico.  
-En el análisis del movimiento del MDTW n.º 48131, la Comisión de Investigación en la NBRPVVZHT tomó como válidos los tiempos registrados por el reloj de la locomotora de tren n.º 91521080030-5. 
-
+En el análisis del movimiento del MDTW n.º 48131, la Comisión de Investigación en la NBRPVVZHT tomó como válidos los tiempos registrados por el reloj de la locomotora de tren n.º 91521080030-5.
 
 ## Página 15
+
 
 ### 3. Descripción del suceso 
 3.1. Información sobre el suceso y el contexto. 
@@ -374,6 +381,7 @@ El 19.09.2025 a las 10:00 horas, en la estación de Vratsa, un representante de 
 
 ## Página 16
 
+
 A las 10:57 horas, el plan de maniobras fue entregado al jefe de maniobras. Las maniobras en la estación de Vratsa se realizaron con una locomotora y una brigada de maniobras del transportista «DMV Cargo Rail» EOOD.
 A las 13:55 horas, las maniobras finalizaron y la composición del tren MDTV n.º 48131 quedó formada en la sexta vía de recepción y expedición.
 El 21.09.2025, a las 19:27 horas, durante el relevo de turno, el despachador de trenes del tramo Mezdra – Vidin en el Centro de Operaciones Ferroviarias (ZOD) de Sofía realizó un «resumen» con todos los jefes de circulación de guardia en el tramo, en el que informó que había sido asignado adicionalmente para circulación el tren MDTV n.º 48131 desde la estación de Vratsa hasta la estación de Kapıkule, República de Turquía.
@@ -392,6 +400,7 @@ Al entrar el tren MDTV n.º 48131 por la vía principal n.º 2 en la estación d
 El despachador de trenes llamó por teléfono móvil al maquinista principal del tren MDTV n.º 48131, quien confirmó que en los desvíos de entrada de la estación de Eliseyna habían descarrilado la locomotora de tren n.º 91521080030-5 y los tres primeros vagones. Tras esta conversación, el despachador de trenes informó al despachador jefe de trenes, y este notificó a los servicios y personas interesadas.
 
 ## Página 17
+
 
 Aproximadamente 15 minutos después de la ocurrencia del accidente, el maquinista (primera persona) se dirige al jefe de circulación de guardia en la estación de Elysina y comunica sobre el tren descarrilado en las agujas de la estación.
 «Bulmarket Rail Cargo» EOOD ha presentado la decodificación de los datos del DPN NKZHI, extraídos del dispositivo registrador y grabador de la locomotora de tren n.º 91521080030-5, que operaba el MDTV n.º 48131 el 21.09.2025. En el tramo desde la estación de Vratsa hasta la estación de Elysina, el tren circuló según el horario elaborado, respetándose las limitaciones de velocidad (reducciones temporales y permanentes). A una velocidad de 34 km/h se constata un cambio en la posición de la palanca del maquinista. La locomotora reduce bruscamente la velocidad, recorriendo una distancia de 62 metros en un tiempo de 10 segundos, y detiene su marcha a las 22:33:09 horas. No se han establecido infracciones relativas a la velocidad durante la circulación del tren.
@@ -412,8 +421,8 @@ Según consta en las declaraciones escritas del guardagujas del tramo Mezdra, qu
 Según consta en las declaraciones escritas del jefe de sección Mezdra, en el periodo comprendido entre el 01 y el 05.09.2025 se realizaron revisiones semestrales de la infraestructura ferroviaria y no se establecieron irregularidades. El 15.09.2025 se realizaron mediciones manuales de las agujas cruzadas n.º 3/5 en la estación de Elysina, las cuales cumplían las normas técnicas.
 El 23.07.2025 se realizó la medición del perfil del talón de la aguja n.º 5 con el defectoscopio UDS – 2M – 11 y no se constataron defectos.
 
-
 ## Página 18
+
 
 El DPN NKZHI entregó al Laboratorio de Metalografía de la Academia Búlgara de Ciencias (BAN) muestras cortadas de componentes del enganche de tracción del primer vagón hacia la locomotora y de la zona de fractura del talón derecho de la aguja n.º 5 para elaborar un análisis metalográfico y fractográfico.
 El 26.09.2025 a las 16:25 horas, tras finalizar las actividades de recuperación en la tercera y cuarta vías y en las agujas n.º 3, 5 y 9 de la estación de Elysina, el técnico-jefe de grupo de la JPS de Vratsa anotó en el libro de órdenes de despacho: «Restablecimiento de la circulación de trenes por la tercera y cuarta vías, agujas n.º 3, 5 y 9, y en el trayecto entre estaciones Elysina – Zverino y en el trayecto entre estaciones Lakatnik – Elysina por la vía actual n.º 1 a la velocidad indicada en el horario».
@@ -433,6 +442,7 @@ Longitud: 23°30'35.66" E (fig. 3.3).
 ### Fig. 3.3.
 
 ## Página 19
+
 
 3.1.3.1. Condiciones meteorológicas y geográficas en el momento del suceso.
 • En la parte oscura del día – a las 22:33 horas, el tiempo fue registrado por el dispositivo grabador de la locomotora n.º 91521080030-5 al frente del tren;
@@ -473,8 +483,8 @@ Como consecuencia del descarrilamiento de tres vagones especializados completos 
 
 ### Total de daños causados: 2 703 478,00 euros.
 
-
 ## Página 20
+
 
 3.1.5. Descripción de otras consecuencias, incluido el impacto del suceso sobre la actividad operativa de los participantes.
 En el período comprendido entre las 22:33 horas del 21.09. y las 16:36 horas del 26.09.2025, el gestor de la infraestructura ferroviaria y las empresas ferroviarias generaron otros costes por cambios en el horario de circulación de los trenes en el tramo Zverino – Eliseyna – Lakatnik por la línea n.º 1.
@@ -510,6 +520,7 @@ La organización de los transportes ferroviarios se lleva a cabo cumpliendo los 
 
 ## Página 21
 
+
 documento sobre el estado de la red y contrato firmado con DP NKŽI para el acceso y uso de la infraestructura ferroviaria.
 El mantenimiento del material rodante de tracción y no de tracción, necesario para realizar los transportes ferroviarios, lo llevan a cabo la empresa y talleres de reparación certificados.
 Los transportes ferroviarios se realizan por personal que posee competencia y experiencia profesional conforme a una lista de puestos relacionados con la seguridad del transporte, aprobada por la IA «Administración Ferroviaria».
@@ -530,8 +541,8 @@ El tramo entre estaciones Zverino – Eliseyna está equipado con Bloqueo Autom�
 • Enclavamiento de estación:
 La estación de Eliseyna está equipada con enclavamiento relé de itinerarios (MRI) tipo N-68 – operativo (fig. 3.6).
 
-
 ## Página 22
+
 
 ### Fig. 3.6.  
 • Tipo de señalización:  
@@ -542,21 +553,21 @@ Las comunicaciones entrantes y salientes de la estación de Eliseyna con las est
 3.1.7.3. Sistemas de protección de tren.
 En el tramo Sofía – Mezdra, donde se encuentra también la estación de Eliseyna, no existe sistema de protección de tren. Las estaciones están equipadas con Radioenlace de Despacho de Trenes (RDT), mediante el cual se establecen enlaces de radio entre maquinistas, despachador de trenes, jefes de circulación de guardia en las estaciones y los trenes presentes en el tramo.
 
-
 ## Página 23
+
 
 3.1.8. Otra información relativa al suceso.
 Documentos de tren «Hoja de ruta», «Manifiesto de carga» y «Certificado de masa de frenado» del MDTV n.º 48131, que corresponden a los parámetros del tren (figs. 3.8 ÷ 3.12).
-### Fig. 3.8. Manifiesto de carga del MDTV n.º 48131 
-
+### Fig. 3.8. Manifiesto de carga del MDTV n.º 48131
 
 ## Página 24
 
-### Fig. 3.9. Hoja de ruta de la locomotora n.º 91521080030-5 
-### Fig. 3.10. Hoja de ruta de la locomotora n.º 91520087023-5 
 
+### Fig. 3.9. Hoja de ruta de la locomotora n.º 91521080030-5 
+### Fig. 3.10. Hoja de ruta de la locomotora n.º 91520087023-5
 
 ## Página 25
+
 
 ### Fig. 3.12. Certificado de masa de 
 ### Fig. 3.11. Certificado de masa de 
@@ -575,6 +586,7 @@ Según se desprende de las declaraciones escritas de la tripulación de locomoto
 
 ## Página 26
 
+
 el desvío n.º 1 en desviación y se dirige hacia los desvíos 3/5. Al pasar la locomotora por el desvío n.º 5 a las 22:32 horas, la tripulación de la locomotora percibe saltos y sacudidas de la locomotora, acompañados de golpes. La locomotora descarrila hacia la izquierda en sentido de marcha, queda incontrolada y comienza a desplazarse entre la tercera y la cuarta vía sobre el talud del balasto, deteniéndose a 73,59 metros después del desvío n.º 5.
 Tras la parada del tren, la tripulación de la locomotora baja de la locomotora y observa que esta ha descarrilado con los cuatro ejes. Los dos primeros vagones del tren han descarrilado y se han tumbado lateralmente hacia la izquierda, con la carga esparcida sobre la vía, mientras que el tercer vagón ha descarrilado solo con dos ejes del primer bogie sobre la vía. Durante el descarrilamiento y el vuelco lateral del primer vagón, el tren rodante (los ejes) deja profundas marcas de daños en el bastidor izquierdo.
 El maquinista de la locomotora, como primera persona, tras realizar la inspección, acude a la oficina del jefe de circulación de guardia en la estación e informa del descarrilamiento del tren.
@@ -590,6 +602,7 @@ El Jefe del Tramo Ferroviario Mezdra, dependiente de la Sección Ferroviaria Vra
 La última medición del perfil de la lengua del desvío n.º 5 se realizó el 23.07.2025 con un defectoscopio UDS – 2M – 11. No se constataron defectos. La medición quedó reflejada en el Acta de Constatación del estado de la vía del 22.09.2025.
 
 ## Página 27
+
 
 Empresa ferroviaria
 De conformidad con el Certificado de la estructura responsable del mantenimiento de los vehículos ferroviarios, «Bulmarket Rail Cargo» EOOD realiza el mantenimiento de las locomotoras y los vagones de mercancías, subcontratando a terceros la ejecución de las revisiones programadas, reparaciones y algunas reparaciones mayores cuando es necesario, mientras que la ejecución de las reparaciones menores y revisiones, así como la dotación de equipos de las locomotoras y los vagones, corre a cargo del personal de «Bulmarket Rail Cargo» EOOD.
@@ -607,8 +620,8 @@ Las actividades de mantenimiento de las locomotoras se realizan de conformidad c
 El mantenimiento del parque de vagones propiedad de «Bulmarket Group» AD lo llevan a cabo funcionarios de «Bulmarket Rail Cargo» EOOD en talleres de reparación propiedad del grupo «Bulmarket Group» AD y en las unidades regionales durante la realización de reparaciones con y sin desacoplamiento, mientras que parte de las reparaciones de emergencia y medias se efectúan en las empresas de reparación citadas anteriormente.
 Según los datos facilitados a la Comisión de Investigación por la empresa ferroviaria «Bulmarket Rail Cargo» EOOD y por el gestor de la infraestructura ferroviaria DP NKZHI, antes del accidente el material móvil (locomotoras y vagones), la vía férrea y las instalaciones de la infraestructura ferroviaria estaban en buen estado.
 
-
 ## Página 28
+
 
 3.1.1.3. Funcionamiento del sistema operativo.
 La circulación de los trenes en el tramo se realiza por una línea ferroviaria doble electrificada. En el trayecto entre estaciones Elisayna – Lakatnik, en el momento del accidente, la circulación de los trenes se realizaba bidireccionalmente únicamente por la vía principal n.º 1. La circulación de los trenes por la vía n.º 2 estaba interrumpida debido a una «ventana» de tráfico y eléctrica reglamentariamente autorizada por la Sección Energética de Sofía para trabajos en la catenaria. Las «ventanas» fueron autorizadas previamente para el periodo del 20÷22.09.2025, con una duración desde las 22:00 hasta las 02:20 horas.
@@ -624,6 +637,7 @@ Durante el tiempo de las «ventanas» de tráfico y eléctricas autorizadas en e
 ### Fig. 3.13. Ruta del tren MDTV n.º 48131 desde la estación Vratsa hasta la estación Kapıkule
 
 ## Página 29
+
 
 3.1.2. Secuencia de los hechos desde el inicio del suceso hasta la finalización de las actuaciones de los servicios de rescate.
 3.1.2.1. Medidas adoptadas para la protección y seguridad del lugar del suceso.
@@ -646,8 +660,8 @@ Se subsanan los daños en la catenaria: 1 cable de viento roto y un tubo fijador
 En el diario de órdenes de despacho, los responsables que ejecutaron las reparaciones de la infraestructura ferroviaria anotan que se han subsanado los daños en la vía y en las instalaciones, los equipos de señalización y enclavamiento y la catenaria en la estación de Eliseyna.
 A las 16:36 horas, el despachador de trenes restablece la circulación de trenes en los tramos entre estaciones Lakatnik – Eliseyna y Eliseyna – Zverino por la vía activa n.º 1 y en la estación de Eliseyna a velocidad según horario.
 
-
 ## Página 30
+
 
 ### 4. Análisis del suceso
 ### 4.1. Participación y obligaciones de los sujetos implicados en el suceso.
@@ -665,54 +679,54 @@ El MDTV n.º 48131 se compone en la sexta vía de recepción y expedición de la
 ### Fig. 4.1. Locomotora n.º 91521080030-5
 El análisis de la marcha del MDTV n.º 48131 se ha realizado sobre los datos extraídos del dispositivo registrador de la locomotora n.º 91521080030-5 – cabeza del tren.
 
-
 ## Página 31
 
-La locomotora fue fabricada por Siemens Mobility – Alemania en el año 2024 con número de fábrica 23760/2024 y está inscrita en el Registro Europeo de Vehículos Ferroviarios bajo el n.º 91 52 1080 030-5 BG-BMDM.
+La locomotora fue fabricada por Siemens Mobility – Alemania en el año 2024 con el número de fábrica 23760/2024 y está registrada en el Registro Europeo de Vehículos Ferroviarios bajo el número 91 52 1080 030-5 BG-BMDM.
 La locomotora es del tipo «Siemens Smartron» de la serie de locomotoras 1080.
-En la locomotora está instalada una sistema digital de velocímetro «REDBOX», que registra y graba los parámetros principales y más importantes durante la marcha de la locomotora, respectivamente del tren.
+En la locomotora está instalada una sistema digital de registro de velocidad «REDBOX», que registra y graba los principales y más importantes parámetros durante la circulación de la locomotora, respectivamente del tren.
 Los datos registrados están divididos en dos paquetes: analógicos y digitales. Para la lectura de los datos se han utilizado los siguientes parámetros (fig. 4.2):
-## 1
-## 2
-## 3
-4
-5
-6
+## 1 
+## 2 
+## 3 
+4 
+5 
+6 
 7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-### Fig. 4.2. Gráfico con los datos registrados y grabados de la marcha del MDTV n.º 48131 desde el dispositivo registrador de la locomotora tractora n.º 91521080030-5
-• Datos analógicos (parte superior del gráfico):
-1. Velocidad de marcha (km/h): pos. 1, marcada en color rojo;
-2. Presión en la tubería principal de aire: pos. 2, marcada en color azul (los valores de presión se reflejan en la tabla 4.1):
-Tabla 4.1
-| Posición de la palanca del maquinista | Posición de la llave del maquinista | Presión en la tubería principal de aire, [bar] |
-| 0 | Carga de choque | >5,0 . |
-| 1 | Marcha (freno completamente cargado y liberado)1A | 5,0 . |
-| 2 | Última etapa de liberación1B | 4,8 . |
-| 3 | Retención primera etapa | 4,6 . |
-| 4 | Retención segunda etapa | 4,4 . |
-| 5 | Retención tercera etapa | 4,28 . |
-| 6 | Retención cuarta etapa | 4,15 , |
-| 7 | Retención quinta etapa | 4,0 , |
-| 8 | Retención sexta etapa | 3,85 , |
-| 9 | Retención séptima etapa | 3,7 , |
-| 10 | Retención total | 3,5 , |
-| 11 | Freno de emergencia | <3,2 . |
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+### Fig. 4.2. Gráfico con los datos registrados y grabados sobre la circulación del MDTV n.º 48131 desde el dispositivo registrador de la locomotora tractora n.º 91521080030-5 
+• Datos analógicos (parte superior del gráfico): 
+1. Velocidad de circulación (km/h): pos. 1, marcada en color rojo; 
+2. Presión en la tubería principal de aire: pos. 2, marcada en color azul (los valores de presión se reflejan en la tabla 4.1):  
+Tabla 4.1 
+| Registro en el diagrama | Posición de la llave del maquinista | Presión en la tubería principal de aire, [bar] |
+| 0 | Golpe de carga | >50 . |
+| 1 | Marcha (freno completamente cargado y liberado)1A | 50 . |
+| 2 | Última etapa de liberación1B | 48 . |
+| 3 | Retención primera etapa | 46 . |
+| 4 | Retención segunda etapa | 44 . |
+| 5 | Retención tercera etapa | 428 . |
+| 6 | Retención cuarta etapa | 415 , |
+| 7 | Retención quinta etapa | 40 , |
+| 8 | Retención sexta etapa | 385 , |
+| 9 | Retención séptima etapa | 37 , |
+| 10 | Retención total | 35 , |
+| 11 | Freno rápido | <32 . |
 
 ## Página 32
+
 
 3. Presión en los cilindros de freno de la locomotora: pos. 3, marcados con color azul claro (para el bogie 1) y verde claro (para el bogie 2) (los valores de presión se reflejan en la tabla 4.2);
 Tabla 4.2 
@@ -738,9 +752,10 @@ Tabla 4.2
 10. Información sobre la posición del interruptor principal de aire (IPA) (F_ZSGM_Rec_LocoStatus_5); posición 13; lecturas: 1 – el IPA está conectado; 0 – el IPA está desconectado; 
 11. Información sobre el estado del frenado de la locomotora (F_ZSGM_Rec_LocoStatus_6); posición 14: 1 – la locomotora frena con el freno neumático; 0 – la locomotora no frena con el freno neumático; 
 12. Información sobre la activación del freno neumático automático por el dispositivo de vigilancia (SIFA) (F_CCUM_Rec_EmerBrake_0); posición 15: 1 – el freno automático ha sido activado por el dispositivo de vigilancia; 0 – el freno automático no ha sido activado por el dispositivo de vigilancia; 
-13. Información sobre la activación del freno neumático automático en modo de frenado rápido por parte del maquinista (F_CCUM_Rec_EmerBrake_1): posición 16; lecturas: 0 – ausencia de activación; 1 – activación; 
+13. Información sobre la activación del freno neumático automático en modo de frenado rápido por parte del maquinista (F_CCUM_Rec_EmerBrake_1): posición 16; lecturas: 0 – ausencia de activación; 1 – activación;
 
 ## Página 33
+
 
 14. Información sobre la activación forzada del freno neumático automático por una válvula de frenado de emergencia o por la separación de la tubería general de aire (no por el maquinista) (F_CCUM_Rec_EmerBrake_2): posición 17; lecturas: 0 – ausencia de activación; 1 – activación; 
 15. Información sobre el aislamiento del freno neumático (F_ZSGM_Rec_Isolation_3): posición 18: 1 – el freno neumático está aislado; 0 – el freno neumático no está aislado; 
@@ -769,6 +784,7 @@ El 21.09.2025 a las 21:53:29 horas, el maquinista de la locomotora n.º 91521080
 
 ## Página 34
 
+
 cabina de mando n.º 2 hacia adelante (fig. 4.3, pos. 5). El tren MDTV n.º 48131 arranca y su velocidad de marcha comienza a aumentar.
 El tren recorre 0,652 km en 00:02:10 horas y su velocidad aumenta hasta 37,1 km/h (fig. 4.3, pos. 6), momento en el que el maquinista coloca la palanca combinada de control en posición cero y la locomotora pasa del régimen de tracción al régimen de marcha por inercia. Desde las 21:56:08 horas hasta las 21:57:05 horas, durante 0,616 km en 00:00:56 horas, la locomotora se desplaza por inercia con el GVP desconectado, variando su velocidad desde 38,6 hasta 40,4 km/h (fig. 4.3, pos. 7÷8).
 A las 21:58:04 horas, el maquinista coloca la palanca combinada de control en posición de tracción, la locomotora pasa al régimen de tracción, recorriendo 0,414 km en 00:00:27 horas y aumentando su velocidad de marcha desde 50,5 hasta 58,6 km/h (fig. 4.3, pos. 9÷10). A las 21:59:12 horas, a una velocidad de 60,2 km/h, el maquinista coloca la palanca combinada de control en posición neutra (fig. 4.3, pos. 11), desconectando así el régimen de tracción de la locomotora (fig. 4.3, pos. 12) y, a las 21:59:15 horas, a una velocidad de 61,2 km/h, la coloca en régimen de frenado electrodinámico (fig. 4.3, pos. 13), activando el EDS de la locomotora (fig. 4.3, pos. 14).
@@ -784,9 +800,10 @@ estación
 estación 
 ## 3 
 ### Fig. 4.4. Gráfico de movimiento de la locomotora n.º 91521080030-5 desde la estación de Vratsa hasta la salida de la estación Mezdra Sur 
-Desde las 21:59:15 horas hasta las 22:10:58 horas, durante 00:11:44 horas, a una velocidad de 61,3 km/h (fig. 4.4, pos. 1), el tren se desplaza en régimen de frenado, recorriendo 11,234 km, mientras que la velocidad de marcha en el intervalo varía entre 62,2 y 43,1 km/h (fig. 4.4, pos. 2). Después de las 22:10:58 horas, el tren se desplaza por inercia durante 0,747 km en 00:01:08 horas con velocidad de marcha decreciente hasta 37,6 km/h, cuando se activa el EDS, recorriendo 0,145 km durante 00:00:13 horas hasta las 22:12:21 horas (fig. 4.4, pos. 3). Tras la desconexión del EDS, la velocidad continúa disminuyendo hasta 36,1 km/h a las 22:12:33 (fig. 4.4, pos. 4), momento en que la locomotora pasa al régimen de tracción y la velocidad comienza a aumentar (fig. 4.4, pos. 5). Desde las 22:12:33 horas, la velocidad alcanza un valor de 62,4 tras recorrer 1,160 km en 00:01:26 horas (fig. 4.4, pos. 6). En este intervalo de movimiento, el tren pasa sin detenerse por la estación Ruska Bela a las 22:06:49 horas a una velocidad de 58 km/h (fig. 4.4). 
+Desde las 21:59:15 horas hasta las 22:10:58 horas, durante 00:11:44 horas, a una velocidad de 61,3 km/h (fig. 4.4, pos. 1), el tren se desplaza en régimen de frenado, recorriendo 11,234 km, mientras que la velocidad de marcha en el intervalo varía entre 62,2 y 43,1 km/h (fig. 4.4, pos. 2). Después de las 22:10:58 horas, el tren se desplaza por inercia durante 0,747 km en 00:01:08 horas con velocidad de marcha decreciente hasta 37,6 km/h, cuando se activa el EDS, recorriendo 0,145 km durante 00:00:13 horas hasta las 22:12:21 horas (fig. 4.4, pos. 3). Tras la desconexión del EDS, la velocidad continúa disminuyendo hasta 36,1 km/h a las 22:12:33 (fig. 4.4, pos. 4), momento en que la locomotora pasa al régimen de tracción y la velocidad comienza a aumentar (fig. 4.4, pos. 5). Desde las 22:12:33 horas, la velocidad alcanza un valor de 62,4 tras recorrer 1,160 km en 00:01:26 horas (fig. 4.4, pos. 6). En este intervalo de movimiento, el tren pasa sin detenerse por la estación Ruska Bela a las 22:06:49 horas a una velocidad de 58 km/h (fig. 4.4).
 
 ## Página 35
+
 
 A las 22:11:02 horas, la locomotora n.º 91521080030-5 pasa sin detenerse por la estación Mezdra Sur y la velocidad disminuye desde 41,8 km/h hasta 36,2 km/h después de 00:01:32 horas, recorriendo 0,985 km (fig. 4.5, marcador a-a). A las 22:12:35 horas, la locomotora pasa al régimen de tracción de marcha (fig. 4.5, pos. 1) y la velocidad aumenta hasta 62,7 km/h, recorriendo 2,049 km en 00:02:52 horas hasta las 22:13:55 horas (fig. 4.5, pos. 2). Desde las 22:12:33 horas hasta las 22:27:54 horas, la velocidad de marcha varía entre 66,1 y 61,3 km/h (fig. 4.5, pos. 3); la locomotora recorre 14,844 km desplazándose durante la mayor parte del tiempo en régimen de tracción con intervalos raros y cortos de tracción desconectada (fig. 4.5, pos. 4) y varias veces brevemente en régimen de frenado mediante la activación del EDS (fig. 4.5, pos. 5). En este intervalo de movimiento, a las 22:26:17 horas, el tren MDTV n.º 48131 pasa a una velocidad de 65,6 km/h por la estación Zverino sin detenerse (fig. 4.5, marcador b-b).  
 Escena del accidente:  
@@ -807,9 +824,10 @@ estación
 a 
 b 
 ### Fig. 4.5. Gráfico de movimiento de la locomotora n.º 91521080030-5 desde la estación Mezdra Sur hasta la estación Zverino 
-A las 22:27:57 horas, a una velocidad de marcha de 64,8 km/h, el maquinista de la locomotora coloca la palanca combinada de control en posición neutra (fig. 4.6, pos. 1); a las 22:27:58 horas, tras recorrer 14 metros a una velocidad de marcha de 64,4 km/h, se desconecta el régimen de tracción de la locomotora (fig. 4.6, pos. 2); y a las 22:27:59 horas, tras otros 25 metros a una velocidad de marcha de 64,0 km/h, cuando la locomotora se encuentra en el punto kilométrico 68+939, el maquinista desconecta el GVP para pasar por la inserción neutra de la red de contacto (fig. 4.6, pos. 3), situada en el tramo desde el punto kilométrico 68+910 hasta el punto kilométrico 68+650 [Tabla X, pág. 99 de las Tablas de parámetros técnicos y normativas]. La velocidad disminuye hasta 51,3 km/h a las 22:28:33 horas tras recorrer 0,538 km (punto kilométrico 68+401), momento en que el maquinista de la locomotora conecta el GVP (fig. 4.6, pos. 4). A las 22:28:43 horas, 00:00:10 horas después de conectar el GVP, el maquinista saca la palanca combinada de control de la posición neutra (fig. 4.6, pos. 5) y la locomotora pasa al régimen de tracción (fig. 4.6, pos. 6). La velocidad de marcha del tren aumenta y alcanza 66 km/h a las 22:30:26 horas. En ese momento, el maquinista coloca la palanca combinada de control en posición neutra (fig. 4.6, pos. 7) y la locomotora pasa al régimen de marcha por inercia (fig. 4.6, pos. 8). A las 22:30:31 horas, a una velocidad de marcha de 65,9 km/h, la palanca combinada de control es sacada de la posición neutra (fig. 4.6, pos. 9) y la locomotora pasa al régimen de frenado con EDS (fig. 4.6, pos. 10). 
+A las 22:27:57 horas, a una velocidad de marcha de 64,8 km/h, el maquinista de la locomotora coloca la palanca combinada de control en posición neutra (fig. 4.6, pos. 1); a las 22:27:58 horas, tras recorrer 14 metros a una velocidad de marcha de 64,4 km/h, se desconecta el régimen de tracción de la locomotora (fig. 4.6, pos. 2); y a las 22:27:59 horas, tras otros 25 metros a una velocidad de marcha de 64,0 km/h, cuando la locomotora se encuentra en el punto kilométrico 68+939, el maquinista desconecta el GVP para pasar por la inserción neutra de la red de contacto (fig. 4.6, pos. 3), situada en el tramo desde el punto kilométrico 68+910 hasta el punto kilométrico 68+650 [Tabla X, pág. 99 de las Tablas de parámetros técnicos y normativas]. La velocidad disminuye hasta 51,3 km/h a las 22:28:33 horas tras recorrer 0,538 km (punto kilométrico 68+401), momento en que el maquinista de la locomotora conecta el GVP (fig. 4.6, pos. 4). A las 22:28:43 horas, 00:00:10 horas después de conectar el GVP, el maquinista saca la palanca combinada de control de la posición neutra (fig. 4.6, pos. 5) y la locomotora pasa al régimen de tracción (fig. 4.6, pos. 6). La velocidad de marcha del tren aumenta y alcanza 66 km/h a las 22:30:26 horas. En ese momento, el maquinista coloca la palanca combinada de control en posición neutra (fig. 4.6, pos. 7) y la locomotora pasa al régimen de marcha por inercia (fig. 4.6, pos. 8). A las 22:30:31 horas, a una velocidad de marcha de 65,9 km/h, la palanca combinada de control es sacada de la posición neutra (fig. 4.6, pos. 9) y la locomotora pasa al régimen de frenado con EDS (fig. 4.6, pos. 10).
 
 ## Página 36
+
 
 ## 8 
 ## 2 
@@ -834,6 +852,7 @@ A las 22:30:46 horas, a 1,798 km del punto de parada definitiva, cuando la locom
 
 ## Página 37
 
+
 00:00:02 horas y 0,033 km a las 22:30:56 horas, con una velocidad de 58,8 km/h, el maquinista coloca la palanca combinada de mando en posición neutra (fig. 4.8, pos. 3), lo que provoca, tras 00:00:02 horas y 0,036 km, con una velocidad de 58 km/h, la desconexión también del EDS (fig. 4.8, pos. 4). Es evidente que, en este intervalo de movimiento, la velocidad del tren disminuye. La locomotora se desplaza por inercia hasta las 22:31:23 horas, momento en el que pasa muy brevemente al modo de tracción e inmediatamente después vuelve al modo de marcha por inercia (fig. 4.8, pos. 5). A las 22:31:31 horas, 1,092 km antes del punto de parada definitiva, con una velocidad de 49,9 km/h, el maquinista saca la palanca combinada de mando de la posición neutra y la coloca en modo de tracción (fig. 4.8, pos. 6), como consecuencia de lo cual la locomotora pasa al modo de tracción (fig. 4.8, pos. 7), aunque la velocidad continúa disminuyendo, si bien a un ritmo más bajo debido al aumento de la pendiente longitudinal ascendente de la vía (10‰)[Tecnología estación Eliseina].
 Ubicación de la 
 locomotora N.º: 
@@ -857,9 +876,10 @@ Eliseina
 ## 5 
 ### Fig. 4.8. Gráfico del movimiento de la locomotora n.º 91521080030-5 desde la señal de entrada de la estación de Eliseina hasta la primera aguja de entrada 
 La locomotora pasa junto a la señal de entrada de la estación de Eliseina (km 65+280) a las 22:31:54 horas con una velocidad de 44,6 km/h en modo de tracción (fig. 4.8, pos. 1). A las 22:32:31 horas, en el km 64+135, 0,351 km antes del lugar de parada definitiva de la locomotora, el maquinista lleva la palanca combinada de mando a la posición neutra (fig. 4.8, pos. 2), con lo que desconecta el modo de tracción, y a las 22:32:33 horas, 0,333 km antes del punto de parada definitiva, en el km 64+153, con una velocidad de 40,6 km/h, activa el EDS (fig. 4.8, pos. 3). La velocidad de la locomotora disminuye. En estas condiciones, la locomotora pasa la primera aguja de entrada de la estación de Eliseina (km 64+672, 0,186 km antes del punto de parada definitiva) a las 22:32:47 horas con una velocidad de 36,7 km/h con el EDS activado (fig. 4.8, pos. 4). A las 22:32:49 horas, 0,159 km antes de la parada definitiva de la locomotora, con una velocidad de 36,1 km/h, se desconecta el EDS (fig. 4.8, pos. 5).  
-A las 22:32:55 horas, 0,102 km antes de la parada definitiva de la locomotora con una velocidad de 35,2 km/h, la locomotora pasa el principio de la aguja n.º 3 (fig. 4.9, pos. 1). A las 22:32:58 horas, 0,074 km antes de la parada definitiva, la locomotora pasa a través de la aguja n.º 5, cuyo lengüeto se rompe debajo de ella, con una velocidad de 34,8 km/h, y la locomotora descarrila (fig. 4.9, pos. 2). Tras el descarrilamiento, a las 22:32:58 horas, 0,069 km antes de la parada, con una velocidad de 34,6 km/h, el maquinista activa el EDS (fig. 4.9, pos. 3), y a las 22:32:59 horas, 65 metros antes de la parada, con una velocidad de 34,2 km/h, activa el ABC en modo de frenado rápido (fig. 4.9, pos. 4). Aún antes de que la presión en la tubería principal de aire alcance el valor establecido 
+A las 22:32:55 horas, 0,102 km antes de la parada definitiva de la locomotora con una velocidad de 35,2 km/h, la locomotora pasa el principio de la aguja n.º 3 (fig. 4.9, pos. 1). A las 22:32:58 horas, 0,074 km antes de la parada definitiva, la locomotora pasa a través de la aguja n.º 5, cuyo lengüeto se rompe debajo de ella, con una velocidad de 34,8 km/h, y la locomotora descarrila (fig. 4.9, pos. 2). Tras el descarrilamiento, a las 22:32:58 horas, 0,069 km antes de la parada, con una velocidad de 34,6 km/h, el maquinista activa el EDS (fig. 4.9, pos. 3), y a las 22:32:59 horas, 65 metros antes de la parada, con una velocidad de 34,2 km/h, activa el ABC en modo de frenado rápido (fig. 4.9, pos. 4). Aún antes de que la presión en la tubería principal de aire alcance el valor establecido
 
 ## Página 38
+
 
 el maquinista libera el ABC a las 22:32:59, 0,061 km antes de la parada, con una velocidad de movimiento de 34,0 km/h (fig. 4.9, pos. 5). En este momento, la presión en la tubería principal de aire es de 4,8 bar. Mientras tanto, también se ha emitido una señal acústica con el silbato de la locomotora (fig. 4.9, pos. 6). Siguen registros de activación y desactivación de sistemas individuales de la locomotora, algunos de los cuales son consecuencia de las acciones del maquinista de la locomotora, mientras que otros son consecuencia de las vibraciones recibidas durante el desplazamiento de la locomotora sobre el balasto. A las 22:33:00 horas, 0,055 km antes de la parada definitiva, con una velocidad de 32,6 km/h, se vuelve a activar el ABC (fig. 4.9, pos. 7). Dado que en ese momento las fuerzas de resistencia que actúan sobre los vagones descarrilados son mayores que las que actúan sobre la locomotora descarrilada, esto conduce a la separación de la tubería principal de aire, a la activación del ABC y a la rotura del tren, lo que provoca una breve disminución de la velocidad, cuyo valor casi inmediatamente se restablece al romperse la conexión entre la locomotora y los vagones (fig. 4.9, pos. 8). A las 22:33:02 horas, 0,034 km antes de la parada, con una velocidad de movimiento de 31,1 km/h, como consecuencia de la activación del ABC en modo de retención rápida, la presión en la tubería principal de aire alcanza 0,0 bar y la presión en los cilindros de freno de la locomotora alcanza 0,75 bar. En este momento se desconecta el interruptor principal de aire de la locomotora (IPA) (fig. 4.9, pos. 9). Tras recorrer aún 0,034 km, la velocidad de la locomotora cae a 0,0 km/h y se detiene entre la tercera y la cuarta vía de la estación de Eliseina a las 22:33:11 horas (fig. 4.9, pos. 10). En este momento también se activa el dispositivo de vigilancia de la locomotora (SIFA). 
 Principio de la aguja 
@@ -874,10 +894,10 @@ n.º 3 en la estación de Eliseina
 ## 2 
 ## 10 
 ## 9 
-### Fig. 4.9. Gráfico del movimiento de la locomotora n.º 91521080030-5 desde la aguja n.º 1 de la estación de Eliseina hasta el lugar del descarrilamiento 
-
+### Fig. 4.9. Gráfico del movimiento de la locomotora n.º 91521080030-5 desde la aguja n.º 1 de la estación de Eliseina hasta el lugar del descarrilamiento
 
 ## Página 39
+
 
 ### Análisis de los datos de movimiento de la locomotora auxiliar de empuje n.º 91520087023-5. 
 Análisis de los datos extraídos del dispositivo registrador y grabador de la locomotora n.º 91520087023-5 – locomotora auxiliar de empuje. 
@@ -906,6 +926,7 @@ La locomotora presenta las siguientes características técnicas:
 
 ## Página 40
 
+
 • Tipo de alimentación: corriente alterna, 50 Hz ~25 kV;
 • Relación de transmisión de los engranajes del reductor de eje: 1:2,2815;
 • Carga por eje: 20,0 t;
@@ -920,8 +941,8 @@ Los registros de la instalación de velocímetro de la locomotiva № 9152008702
 ### Fig. 4.11. Registro de la marcha de la locomotiva № 91520087023-5 – empujadora en la composición del MDTV № 48131.
 El tren № 48131 parte de la estación de Vratsa a las 21:53:39 horas de tiempo astronómico después de que la locomotora tractora № 91521080030-5 pase al modo de tracción. La locomotora empujadora № 91520087023-5 se encuentra a 36,957 km del punto de establecimiento tras el accidente, en la sexta vía de recepción y salida de la estación de Vratsa.
 
-
 ## Página 41
+
 
 Si asumimos que la locomotiva № 91520087023-5 en el momento del arranque del tren se encontraba a unos 400 metros del edificio de viajeros de la estación de Vratsa, situado en el km 17+247, con suficiente precisión podemos afirmar que la locomotora empujadora estaba situada aproximadamente en el km 17+647.
 # 1
@@ -931,8 +952,8 @@ El tren arranca y aumenta su velocidad de marcha, alcanzando un valor de 7,97 km
 ### Fig. 4.13.
 Tras recorrer 3,610 km, la velocidad de marcha es de 63,73 km/h y desde ese momento el maquinista de la locomotora tractora acciona el freno automático de tren y regula
 
-
 ## Página 42
+
 
 la marcha en modo de frenado (fig. 4.14, pos. 1). Es necesario señalar que en la grabación de la marcha de la locomotiva № 91520087023-5 solo se ha registrado el cambio de presión de aire en la tubería general del tren, es decir, la regulación de la marcha mediante el freno automático de tren, y no se puede observar la activación del EDS de la locomotora tractora.
 # 1
@@ -941,8 +962,8 @@ En este modo, el tren avanza desde 3,610 km (fig. 4.15, pos. 1) hasta 15,354 km 
 # 1
 ### Fig. 4.15.
 
-
 ## Página 43
+
 
 # 1
 # 2
@@ -953,8 +974,8 @@ Tras recorrer 15,354 km, es decir, cuando el freno automático de tren se libera
 # 2
 ### Fig. 4.17.
 
-
 ## Página 44
+
 
 # 1
 # 2
@@ -963,8 +984,8 @@ A 32,250 km del inicio del viaje, a una velocidad de 67,11 km/h (fig. 4.18, pos.
 # 1
 ### Fig. 4.19.
 
-
 ## Página 45
+
 
 # 1
 ### Fig. 4.20.
@@ -973,8 +994,8 @@ A 32,250 km del inicio del viaje, a una velocidad de 67,11 km/h (fig. 4.18, pos.
 ### Fig. 4.21.
 Tras recorrer otros 0,419 km a una velocidad de 64,5 km/h, se acciona el freno automático de tren (fig. 4.21, pos. 1). La velocidad disminuye y alcanza 53,32 km/h tras 0,616 km (fig. 4.21, pos. 2). El freno automático de tren se libera y la presión en la tubería general alcanza 5,145 bar. La velocidad de marcha disminuye debido a la pendiente de la vía férrea, que es en subida, así como debido a la activación del EDS de la locomotora tractora.
 
-
 ## Página 46
+
 
 # 1
 # 2
@@ -984,8 +1005,8 @@ Tras recorrer 36,893 km desde el inicio del viaje a una velocidad de 35,37 km/h,
 # 2 
 ### Fig. 4.23.
 
-
 ## Página 47
+
 
 # 1 
 ### Fig. 4.24.
@@ -997,6 +1018,7 @@ El gráfico de marcha del tren en función del tiempo muestra que la presión di
 
 ## Página 48
 
+
 ### Fig. 4.26.
 La hora de inmovilización del tren según el reloj de la locomotora n.º 91520087023-5 es las 15:53:08 (fig. 4.25, pos. 1), lo que equivale a las 22:33:11 en tiempo real. La locomotora n.º 91520087023-5 permanece inmovilizada durante 2:17:44 hasta las 0:50:55 (fig. 4.25, pos. 2), habiendo cargado previamente, a las 0:20:21, la tubería principal de aire con presión de trabajo y realizado la prueba A del material móvil (fig. 4.25, pos. 3). A las 0:50:55 parte en dirección contraria al movimiento anterior, hacia la estación de Zverino (fig. 4.26).
 
@@ -1007,8 +1029,8 @@ El movimiento del tren se realiza por la vía de desviación derecha de ambos ca
 Según el grupo operativo designado por DP NKZhI, el punto de descarrilamiento (llamado punto cero) se ha situado en el km 64+568,37 – lugar de rotura de la lengua de desviación del cambio n.º 5, con una dimensión de 7,53 m desde el perfil de la lengua y una parte de 1,78 m en el perfil del riel. Sobre esta base se realizó la medición de la vía férrea en nivel y ancho de vía 20 m antes y después del lugar de rotura de la lengua.
 La comisión de investigación, tras realizar inspecciones repetidas y mediciones, determinó que el punto de descarrilamiento (punto cero) no está en el km 64+568,37, sino en el km 64+559,37, en la zona del riel de punta izquierdo de desviación del cambio n.º 5.
 
-
 ## Página 49
+
 
 Análisis de la rotura de la lengua del cambio n.º 5
 Del material fotográfico proporcionado se establece que, en la posición normal de la lengua rota en estado libre y sin carga, se observa un desplazamiento horizontal entre las dos partes rotas de aproximadamente 30 mm, ya que la rotura se originó en una zona entre dos traviesas adyacentes. La soldadura de los conductores de paso de corriente (cables puente) al riel sirvió como concentrador de tensiones en esa parte de la lengua y favoreció la aparición de una grieta, lo cual condujo posteriormente a la rotura completa de la lengua. Al pasar el material móvil aparecen fuerzas dinámicas verticales y horizontales.
@@ -1019,8 +1041,8 @@ Al pasar la locomotora por la parte de lengua rota del cambio n.º 5 se genera u
 Esto provocó que la rueda izquierda del cuarto eje de la locomotora subiera sobre el riel de apoyo izquierdo y se deslizara desde el lado exterior del riel de punta izquierdo de desviación, seguido del deslizamiento de la rueda derecha desde el riel de apoyo derecho en la dirección del movimiento del tren, impacto de la banda de rodadura en el borde de la unión metálica interior que conecta la parte de lengua con la parte de corazón del cambio, y posterior impacto en la punta de la contraaguja derecha.
 De la inspección visual de las piezas de cambio extraídas (riel de apoyo, las dos partes rotas de la lengua de desviación, riel de rodadura y contraaguja), conforme al art. 405 apdo. 1 del PTE, se desprende que cumplen todos los requisitos técnicos en cuanto a desgaste lateral y vertical. A lo largo de los cambios n.º 3/5 no hay balasto endurecido, lo que es prueba de que no hubo hundimientos ocultos en la vía férrea.
 
-
 ## Página 50
+
 
 El grupo operativo no realizó una medición completa del cambio n.º 5 por flanco, con cuerda de 10 m y puntos cada 5 m en sus partes de lengua y corazón. Esto constituye desconocimiento e incumplimiento de los actos normativos aprobados para la reparación y mantenimiento de la vía férrea y sus instalaciones.
 Cálculo de los parámetros del cambio n.º 5.
@@ -1045,6 +1067,7 @@ Está estrictamente prohibida la soldadura de conductores de paso de corriente (
 
 ## Página 51
 
+
 4. Al pasar la locomotora con una distancia entre ejes de 3 m por los bogies a través de curvas con R=190 m, aparece una fuerza horizontal que, multiplicada por el coeficiente de fricción, tiene un valor inferior a la presión de la rueda sobre el raíl H = Fc * k = 47,82*0,36 = 17,21 kN
 k – coeficiente, se ha adoptado k = 0,36 para rieles tipo 49E1 (S 49) y 60E1 (UIC 60)
 5. La fuerza horizontal transversal, que a su vez sustituye en gran medida el rodamiento de las ruedas de los ejes por deslizamiento lateral, va acompañada de una fuerte presión lateral sobre la lengüeta, lo que ha provocado su rotura. La estructura dañada influye en gran medida en la capacidad del raíl para soportar este tipo de cargas, como se desprende del Informe técnico pericial del Sector de Investigación Científica de la Universidad Técnica de Sofía: «La destrucción completa de la lengüeta probablemente se debió a la grieta ya existente en la zona de soldadura térmica en el talón del raíl durante el funcionamiento del cambio de vía, es decir, al paso del último tren por la parte de la lengüeta de los cambios de vía n.º 3/5.» (fig. 4.28).
@@ -1056,8 +1079,8 @@ La rotura de la lengüeta provocó el descarrilamiento de la locomotora. El luga
 ### Fig. 4.30.
 ### Fig. 4.31.
 
-
 ## Página 52
+
 
 El tercer eje de la locomotora se inscribe en dirección a la tercera vía. A una distancia de aproximadamente 3,00 m, la rueda izquierda del cuarto eje se transfiere al raíl de aguja desviador izquierdo desde su lado izquierdo según la dirección de marcha del tren (fig. 4.30), lo que fue seguido por la caída de la rueda derecha y el impacto contra la punta del contraraíl derecho (fig. 4.31).
 Tras el descarrilamiento del cuarto eje de la locomotora, este arrastra también al tercer eje, que deforma el contraraíl derecho del cambio de vía n.º 5 y también descarrila, como se puede ver por las marcas en la traviesa de la tercera vía (fig. 4.32).
@@ -1078,8 +1101,8 @@ Informes técnicos periciales elaborados por el Sector de Investigación Cientí
 Informe técnico pericial y acta de la lengüeta de raíl rota del cambio de vía n.º 5 en la estación de Eliseyna.
 Informe técnico pericial de la fractura de la lengüeta de raíl rota del cambio de vía ferroviario n.º 5 en la estación de Eliseyna, conforme a la carta reg. n.º 70-00-16/11.11.25 de la NBRPVVZHT.
 
-
 ## Página 53
+
 
 1. Denominación del producto: lengüeta de raíl de cambio de vía ferroviario;
 2. Código del producto: lengüeta del cambio de vía n.º 5 de la estación de Eliseyna;
@@ -1098,8 +1121,8 @@ En las fracturas presentadas se observa lo siguiente:
 ### Fig. 4.36.
 ### Fig. 4.37.
 
-
 ## Página 54
+
 
 - también en el talón de la lengüeta se ha establecido una fractura local en dirección longitudinal de la lengüeta, (fig. 4.37) sobre la zona corroída de la fractura transversal, con carácter frágil de rotura con una textura claramente expresada de desgarramiento del material
 - no se ha detectado la presencia de grietas de fatiga;
@@ -1127,6 +1150,7 @@ Se ha realizado pulido, abrillantado y revelado para la observación y análisis
 
 ## Página 55
 
+
 - en la zona afectada térmicamente ZAT, inmediatamente bajo la superficie, la estructura es no equilibrada, correspondiente a martensita y troostita (fig. 8 y fig. 9), seguida de sorbita (fig. 10 y fig. 11) en profundidad.
 ### Fig. 4.42. 
 ### Fig. 4.43. 
@@ -1137,9 +1161,10 @@ Se ha realizado pulido, abrillantado y revelado para la observación y análisis
 ### Fig. 4.45. 
 6. Conclusión 
 Las fracturas examinadas presentan un carácter frágil de rotura con una textura claramente marcada de desgarramiento del material. En el talón de la lengua se ha identificado una zona corroída de la fractura, en la cual es muy probable que se haya formado una grieta previa a la rotura completa de la lengua del desvío. La aparición de la grieta, así como la rotura total, se produjo bajo carga de la lengua, es decir, durante el paso de un tren por el desvío, pero la condición para la iniciación de la grieta fue la alteración de la homogeneidad en la estructura y las propiedades del material, provocada por la realización de trabajos de soldadura, lo cual queda demostrado por la manifestación de la zona afectada térmicamente ZAT, el análisis microestructural y la dureza medida. La grieta surgió a lo largo de la línea de fusión junta soldada-metal base o inmediatamente debajo de ella en la ZAT. 
-La microestructura modificada del desvío, pasando de la perlita equilibrada a la martensita y troostita no equilibradas, corresponde a una estructura templada. La presencia de una estructura no equilibrada (templada) 
+La microestructura modificada del desvío, pasando de la perlita equilibrada a la martensita y troostita no equilibradas, corresponde a una estructura templada. La presencia de una estructura no equilibrada (templada)
 
 ## Página 56
+
 
 que se caracteriza por alta dureza, fragilidad y existencia de tensiones internas favoreció la posibilidad de formación de la grieta. 
 La homogeneidad en la estructura y las propiedades del material para este tipo de productos (rieles) es de importancia decisiva y su alteración no debería permitirse. 
@@ -1161,9 +1186,10 @@ Protocolo n.º 107/3108 para análisis fractográfico de un enganche de tracció
 5. Aparatos utilizados: microscopio metalográfico Carl Zeiss Jena; cámara digital “Olympus”; 
 6. Solicitante del ensayo: Junta Nacional de Investigación de Accidentes en el Transporte Aéreo, Acuático y Ferroviario (NBRPVVZHT), 1000 Sofía, c/ “Diakon Ignatiy” n.º 9; 
 7. Resultados del ensayo: indicados en el anexo; 
-8. Nota: Los resultados de los ensayos se refieren únicamente a las muestras ensayadas.  
+8. Nota: Los resultados de los ensayos se refieren únicamente a las muestras ensayadas.
 
 ## Página 57
+
 
 Inspección de la fractura proporcionada (fig. 4.46) del enganche de tracción. 
 ### Fig. 4.46. 
@@ -1173,9 +1199,10 @@ Se ha llevado a cabo una fractografía de las fracturas con aumento hasta 16 vec
 ### Fig. 4.47. 
 En la fractura presentada se observa lo siguiente: 
 - el aspecto general de la fractura presenta un carácter frágil de rotura con una textura claramente marcada de desgarramiento del material (fig. 4.47 y 4.48); 
-- no se ha detectado la presencia de grietas por fatiga; 
+- no se ha detectado la presencia de grietas por fatiga;
 
 ## Página 58
+
 
 - se identifican pequeñas zonas aisladas, corroídas tras la formación de la fractura (fig. 4.47, 4.49 y 4.50);  
 ### Fig. 4.50. 
@@ -1195,6 +1222,7 @@ Empresa ferroviaria
 ● „Bulmarket Rail Cargo“ EOOD, posee Certificado de entidad responsable del mantenimiento EIN BG/31/0025/0002 con periodo de validez desde el 03.08.2025 hasta el 02.08.2030
 
 ## Página 59
+
 
 locomotoras diésel y eléctricas, vagones de mercancías y vagones especializados para el transporte de mercancías peligrosas;
 ● «Locomotiven i Vagonen Zavod 1866» EAD (Empresa Anónima Unipersonal), posee un Certificado de entidad responsable del mantenimiento EIN BG/31/0025/0001 con un periodo de validez desde el 11.04.2025 hasta el 10.04.2028 para vagones de mercancías, locomotoras diésel y eléctricas y vagones especializados para el transporte de mercancías peligrosas;
@@ -1230,8 +1258,8 @@ Evaluación de la coherencia global de la gestión de riesgos:
 - La metodología;
 - Aspectos técnicos necesarios para evaluar la conformidad y la integridad de las evaluaciones de riesgos y el nivel de seguridad del sistema.
 
-
 ## Página 60
+
 
 4.1.7. Organismos de certificación de entidades responsables del mantenimiento.
 La Agencia Ejecutiva «Administración Ferroviaria» es la Autoridad Nacional Reguladora de Seguridad en el transporte ferroviario de la República de Bulgaria y realiza la certificación de las personas responsables del mantenimiento de vehículos conforme a la Directiva 2004/49/CE y al Reglamento (UE) 445/2011, de acuerdo con el Reglamento n.º 59 sobre gestión de la seguridad en el transporte ferroviario y funciones de mantenimiento de la infraestructura ferroviaria conforme a la Directiva 2004/49/CE y al Reglamento (UE) 445/2011.
@@ -1250,6 +1278,7 @@ Las locomotoras y los vagones incluidos en la composición del tren MDTV n.º 48
 No procede.
 
 ## Página 61
+
 
 4.2.2. Factores derivados de la instalación y puesta en servicio del material móvil, la infraestructura ferroviaria o las instalaciones técnicas.
 No procede.
@@ -1276,8 +1305,8 @@ Empresa ferroviaria:
 - Certificado n.º 104 para ocupar el puesto de «Maquinista de locomotora» en «Bulmarket Rail Cargo» EOOD desde el 05.06.2018.
 - Certificación adicional expedida por «Bulmarket Rail Cargo» EOOD sobre el tipo de material móvil que está autorizado a conducir el maquinista – locomotoras eléctricas de fechas 25.06.2018, 21.06.2021 y 18.06.2024, por la infraestructura ferroviaria nacional de R. Bulgaria, válida desde el 25.06.2018 hasta el 25.06.2027. El maquinista cumple los requisitos del art. 47, apdo. 1, del Reglamento n.º 54/02.06.2003.
 
-
 ## Página 62
+
 
 ● Maquinista de locomotora de la locomotora n.º 91520087023-5:
 - Certificado de aptitud n.º 237, aptitud adquirida «Maquinista de locomotoras eléctricas», formación impartida en el período comprendido entre el 01.10.2002 y el 02.02.2003, institución formativa CPK de NKŽI;
@@ -1305,6 +1334,7 @@ Conclusión: apto para maquinista de locomotora.
 - Atestado psicológico n.º 257/06.03.2025, expedido por el Laboratorio Psicológico adscrito al Hospital Nacional Multidisciplinar de Transporte de Sofía para maquinista de locomotora.
 
 ## Página 63
+
 
 Conclusión: apto por un periodo de 5 años hasta el 06.03.2030.
 ● Maquinista de locomotora, segunda persona en la locomotora n.º 91521080030-5:
@@ -1342,8 +1372,8 @@ Descanso: desde el 20.09.2025 a las 09 horas 50 minutos hasta el 21.09.2025 a la
 Incorporación al trabajo: 21.09.2025 a las 16 horas 00 minutos – (30 horas y 10 min.).
 ● Maquinista de locomotora en la locomotora n.º 91520087023-5:
 
-
 ## Página 64
+
 
 Descanso: desde el 20.09.2025 a las 05 horas 50 minutos hasta el 21.09.2025 a las 16 horas 00 minutos.
 Incorporación al trabajo: 21.09.2025 a las 16 horas 00 minutos – (34 horas y 10 min.).
@@ -1379,6 +1409,7 @@ Las comunicaciones en las estaciones y entre estaciones en el tramo Sofía – M
 
 ## Página 65
 
+
 A los jefes de circulación en las estaciones del tramo se les han proporcionado teléfonos móviles de servicio para casos de necesidad urgente.
 A las tripulaciones de locomotoras de las locomotoras n.º 91521080030-5 y n.º 91520087023-5 se les han proporcionado teléfonos móviles de servicio.
 Las cabinas de conducción de ambas locomotoras están equipadas con emisoras de radio para la radiocomunicación de despacho de trenes (RDT) y GSM-R.
@@ -1405,8 +1436,8 @@ La sociedad limitada «Bulmarket Rail Cargo» EOOD aplica actos normativos nacio
 4.3.2.6. Tiempo de trabajo del personal participante.
 Gestor de infraestructura
 
-
 ## Página 66
+
 
 El personal participante de la empresa pública NKZhI, de conformidad con los requisitos del Reglamento n.º 50 de 28.12.2001 y del Código Laboral, que está ocupado en garantizar la circulación de pasajeros y mercancías en el transporte ferroviario, trabaja en un régimen de turnos de 12 horas con tiempo de trabajo acumulado.
 El personal ocupado en la reparación y mantenimiento de la vía férrea (Jefe de sección de vía y estructuras, Jefe de grupo de transporte/VSE, Capataz de vía, línea ferroviaria), trabaja a jornada completa de 8 horas diarias y 40 horas semanales;
@@ -1448,6 +1479,7 @@ No procede.
 
 ## Página 67
 
+
 4.3.3.3. Reclutamiento y selección de personal, recursos.
 Infraestructura ferroviaria
 ● En DP NKZHI la selección de personal se realiza conforme a la «Estrategia de gestión de los recursos humanos 2021÷2025» aprobada.
@@ -1486,8 +1518,8 @@ Empresa ferroviaria
 - Orden y método de pago de las remuneraciones laborales;
 En «Bulmarket Rail Cargo» EOOD, el 01.06.2025 fueron aprobadas las Normas para la determinación de las retribuciones adicionales por resultados alcanzados, que incluyen el personal con derecho a retribuciones adicionales. El personal que participa en la explotación tiene contrato laboral indefinido básico. Las retribuciones están formadas conforme a los contratos laborales para cada puesto.
 
-
 ## Página 68
+
 
 4.3.3.4. Gestión del desempeño y supervisión.
 Infraestructura ferroviaria
@@ -1511,6 +1543,7 @@ No aplicable.
 No aplicable.
 
 ## Página 69
+
 
 4.3.4. Marco regulatorio y aplicación del SMS.  
 Infraestructura ferroviaria 
@@ -1541,10 +1574,10 @@ Las condiciones meteorológicas se describen en el punto 3.1.3.1.
 No se realizaron obras de reparación y mantenimiento de la infraestructura ferroviaria el 21.09.2025 en la estación Elysée, en la zona de las agujas donde ocurrió el accidente. 
 
 4.3.9. Otros factores relevantes para la investigación. 
-No aplicable. 
-
+No aplicable.
 
 ## Página 70
+
 
 4.4. Retroalimentación y mecanismos de control, incluida la gestión del riesgo y de la seguridad, así como los procesos de supervisión: 
 4.4.1. Marco regulatorio. 
@@ -1565,6 +1598,7 @@ Empresa ferroviaria.
  Durante el período comprendido entre el 27.10.2025 y el 14.11.2025, en relación con los requisitos del Procedimiento de seguridad PS-38 «Auditorías internas», se realizó una auditoría interna programada según calendario en las unidades estructurales y la dirección central de «Bulmarket Rail Cargo» EOOD, con el fin de verificar la aplicación del Sistema de Gestión de la Seguridad (SMS) conforme a los requisitos de la Directiva (UE) 2016/798 y del Reglamento (UE) 1078/2012 de la Comisión para el cumplimiento de los requisitos de realización segura de transportes ferroviarios en la infraestructura ferroviaria
 
 ## Página 71
+
 
 infraestructura. Unidades auditadas: control central, Unidad Sofía, Unidad Plovdiv, Unidad Burgas, Unidad Varna y Unidad Ruse. Se ha elaborado un informe de las inspecciones realizadas a las unidades auditadas con recomendaciones propuestas y plazos para su subsanación.
 No se han realizado cambios en la actividad de «Bulmarket Rail Cargo» EOOD relacionados con el accidente ocurrido que estuvieran sujetos a la definición de «significativos» según el REGLAMENTO DE EJECUCIÓN (UE) N.º 402/2013.
@@ -1589,8 +1623,8 @@ La práctica en la EP NKZHI de utilizar materiales de segunda mano, incluidos co
 - 
 El grupo operativo no realizó mediciones de las diferencias de flecha en la desviación del aparato de cambio n.º 5. Sin la provisión de estos datos, la Comisión de Investigación no puede determinar cuál fue el radio real de la curva de la desviación en el aparato de cambio. Estas mediciones están reguladas en la «Instrucción sobre la construcción y mantenimiento de la superestructura de vía y los aparatos de cambio ferroviarios», parte del SGS de la EP NKZHI.
 
-
 ## Página 72
+
 
 «punto 7.2 Mantenimiento de los aparatos de cambio: … Durante el mantenimiento de los aparatos de cambio en alineación, se deben controlar también las roturas en la vía recta y en la desviada. En la vía recta, las mediciones se realizan con cuerda L=10 m y las diferencias de flecha no deben ser superiores a 4 mm si V>100 km/h, 6 mm si V=50 km/h y 8 mm si V<50 km/h. Para la vía desviada, las diferencias de flecha se indican en la tabla 25. Si V ≤ 100 km/h, la cuerda de medición es L=10 m, y si V > 100 km/h - L=20 m.
 ### Tabla 25 
@@ -1642,6 +1676,7 @@ Empresa ferroviaria
 
 ## Página 73
 
+
 ● «Bulmarket Rail Cargo» EOOD, adjunta el «Manual del Sistema de Gestión de la Seguridad», sección «Evaluación de riesgos», procedimiento «Metodología para la determinación y evaluación de los riesgos en caso de cambios en el sistema de transporte ferroviario en «Bulmarket Rail Cargo» EOOD».
 4.4.4. SGS de las entidades responsables del mantenimiento técnico.
 Gestor de infraestructura
@@ -1663,8 +1698,8 @@ Empresa ferroviaria
 Organismo evaluador independiente
 ● «TINSA» EOOD posee el Certificado EIN BG/36/0021/0001 como organismo evaluador para realizar la evaluación independiente de la aplicación del procedimiento de gestión de riesgos, válido desde el 05.02.2021 hasta el 04.02.2026.
 
-
 ## Página 74
+
 
 4.4.7. Permisos de puesta en servicio de instalaciones fijas y permisos de comercialización de vehículos.
 No procede.
@@ -1686,6 +1721,7 @@ El 24.12.2014, a las 16:21 horas, mediante orden del regulador de trenes en el Z
 
 ## Página 75
 
+
 ### 5. Conclusiones
 ### 5.1. Análisis resumido de las causas del suceso.
 La Comisión de Investigación revisó y analizó en profundidad la documentación recopilada y facilitada por el grupo operativo de NRIC (Compañía Nacional de Infraestructura Ferroviaria) y por Bulmarket Rail Cargo EOOD; información relativa al mantenimiento y operación de la infraestructura ferroviaria en la Estación de Eliseyna y al material rodante descarrilado del IDFT n.º 48131.
@@ -1701,8 +1737,8 @@ o En el momento exacto del descarrilamiento, ninguna de las locomotoras operaba 
 o Según la documentación de transporte, antes del incidente, tanto las locomotoras como los vagones que componían el IDFT n.º 48131 estaban en buen estado técnico, y el tren estaba asegurado con el peso de frenado adecuado.
 El accidente resultó finalmente de la insuficiente capacidad de carga de la lengüeta divergente izquierda del cambio n.º 5 en la dirección de marcha del tren, causada por una falla derivada de una estructura de material alterada, el diseño inherente del cambio careciendo de una sección intermedia, la presencia de una zona afectada por el calor con propiedades estructurales alteradas procedentes de conexiones eléctricas soldadas, y un área corroída identificada dentro de la fractura en el talón de la lengüeta donde una grieta precursora había iniciado antes de la fractura final.
 
-
 ## Página 76
+
 
 ### 5.2. Medidas adoptadas tras la ocurrencia del suceso.
 Como consecuencia directa del descarrilamiento, los raíles de las vías tres y cuatro, así como el cambio n.º 5 en la Estación de Eliseyna, sufrieron roturas parciales y deformaciones. El gálibo de paso hacia la Estación de Zverino tanto para la vía n.º 1 como para la vía n.º 2 quedó cerrado completamente, suspendiendo el tráfico en la sección afectada.  
@@ -1727,6 +1763,7 @@ La operación para retirar los vagones no descarrilados de vuelta a la Estación
 Durante su primera inspección in situ, el grupo operativo asignado de categoría II no realizó una evaluación exhaustiva de los factores situacionales y circunstancias que contribuyeron al accidente, y no llevó a cabo una medición geométrica completa de la vía férrea, no cumpliendo plenamente con sus responsabilidades. El punto exacto de trepada de rueda y el punto inicial de descarrilamiento de la locomotora no fueron identificados estrictamente.
 
 ## Página 77
+
 
 ### 6. Recomendaciones de seguridad
 Con el objetivo principal de mejorar la seguridad en todo el sector del transporte ferroviario, el Presidente de la Comisión de Investigación de la Junta Nacional de Investigación de Accidentes Aéreos, Marítimos y Ferroviarios ha presentado las siguientes recomendaciones de seguridad a la Autoridad Nacional de Seguridad (Agencia Ejecutiva Administración Ferroviaria), aplicables a NRIC y Bulmarket Rail Cargo EOOD.

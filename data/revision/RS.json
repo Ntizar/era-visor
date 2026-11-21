@@ -1,0 +1,184 @@
+{
+ "md-es/RS/2017/2017-08-16_Final report derailment 16 August 2017_ENG_final.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   8,
+   15,
+   22,
+   29,
+   36
+  ],
+  "fidelidad_media": 99.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "broken isolated compositions traducido como 'roturas de juntas aislantes' (debería ser 'juntas aislantes rotas' o 'composiciones aisladas rotas')",
+   "track screen traducido como 'plataforma de vía' (debería ser 'capa de balasto' o 'lecho de vía')",
+   "warping traducido como 'ondulación' (debería ser 'alabeo' o 'deformación')",
+   "level line traducido como 'alineación' (debería ser 'nivelación' o 'línea de nivel')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2017/2017-08-16_Final report derailment 16 August 2017_ENG_final.md"
+ },
+ "md-es/RS/2016/Godisnji Izvestaj 2016.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 97.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "accidentes en pasos a nivel a distinto nivel: el original dice 'у истом нивоу' (al mismo nivel), no 'a distinto nivel'",
+   "administrativa: el original dice 'привреднопреступне' (infracciones económicas/mercantiles), no 'administrativa'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2016/Godisnji Izvestaj 2016.md"
+ },
+ "md-es/RS/2016/Annual Report 2016_eng (2).md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "'misdemeanour' traducido como 'administrativa' en lugar de 'falta/contravención'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2016/Annual Report 2016_eng (2).md"
+ },
+ "md-es/RS/2017/2017-08-03_Train decoupling eng_final.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   14,
+   20,
+   27,
+   33
+  ],
+  "fidelidad_media": 98.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [
+   14
+  ],
+  "terminos": [
+   "EMU no es la sigla normalizada en castellano; debería ser 'unidad eléctrica múltiple' o mantener EMV si es la sigla original",
+   "'respective EMU' es un calco del inglés; debería ser 'respectiva EMU' o 'dicha EMU'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2017/2017-08-03_Train decoupling eng_final.md"
+ },
+ "md-es/RS/2017/2017-08-03_Raskinuce 8011_Konacan_izvestaj_Konacno.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   7,
+   13,
+   20,
+   26,
+   32
+  ],
+  "fidelidad_media": 94.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   20
+  ],
+  "terminos": [
+   "El original distingue 'незгода' (incidente/accidente) y 'раскинуће воза' (rotura del tren). La traducción usa 'incidente' y 'rotura del tren', pero en el encabezado 'КОНАЧАН ИЗВЕШТАЈ О ИСТРАЗИ НЕЗГОДЕ' se traduce como 'INFORME FINAL DE INVESTIGACIÓN DEL INCIDENTE', lo cual es aceptable, aunque 'незгода' suele traducirse como 'accidente' en contextos ferroviarios.",
+   "ЦИНС traducido como CIHA (debería ser CINS o Centro de Investigación de Accidentes Ferroviarios)",
+   "блоковним просторним одсецима traducido como 'bloques de sección espacial' en lugar de 'cantones de bloqueo'",
+   "двозначне сигналне знаке traducido como 'indicaciones de señalización bivalentes' en lugar de 'señales de dos aspectos'",
+   "регистрофонском уређају traducido como 'dispositivo registrador de fonocopia' en lugar de 'registrador fonográfico'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2017/2017-08-03_Raskinuce 8011_Konacan_izvestaj_Konacno.md"
+ },
+ "md-es/RS/2017/2017-08-21_Nalet 4905 na PP_Konacan_izvestaj_konacno.md": {
+  "estado": "revisar",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [
+   1
+  ],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 22,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade la aclaración 'Comisión Investigadora Nacional de Sucesos Ferroviarios' para la sigla CIIN, que no aparece en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "El original usa 'кондуктери' (revisores) en plural, mientras que la traducción usa 'revisor' en singular en la sección 3.5.3.",
+     "El original usa 'ИЖС' (IŽS) mientras que la traducción lo transcribe como 'ŽS', omitiendo la letra 'I'."
+    ],
+    "comentario": "La traducción es fiel en general, pero contiene una aclaración no presente en el original y una inconsistencia en la transcripción de una sigla."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2017/2017-08-21_Nalet 4905 na PP_Konacan_izvestaj_konacno.md"
+ },
+ "md-es/RS/2017/2017-08-16_Iskliznuce 62946_Konacan_izvestaj_konacno.md": {
+  "estado": "aviso",
+  "idioma_origen": "BG",
+  "paginas_revisadas": [
+   1,
+   8,
+   15,
+   22,
+   29,
+   36
+  ],
+  "fidelidad_media": 92.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   36
+  ],
+  "terminos": [
+   "superestructura: el original distingue 'горњег строја' (superestructura) y 'доњег строја' (infraestructura); la traducción usa 'superestructura' para 'горњег' y 'infraestructura' para 'доњег', pero en BP_02/17 traduce 'горњем строју' como 'superestructura' sin problema. El término 'vagones de medición' para 'мерна кола' es aceptable, aunque 'coches de medición' o 'vehículos de medición' sería más normalizado.",
+   "rieles: 'прагова' significa 'traviesas', no 'rieles'. La traducción dice 'los rieles' en BP_05/17, lo cual es un error terminológico.",
+   "СС и ТТ уређајима traducido como 'equipos ASFA y GSM-R' en lugar de 'dispositivos de señalización y telecomunicaciones'",
+   "кайда → caída (debería ser 'descarrilada' o 'que cayó dentro de la vía')",
+   "врхом венца точка → por la parte superior de la banda de rodadura (debería ser 'por la punta de la pestaña de la rueda')",
+   "трагови кретања венца точка → marcas de desplazamiento de la banda de rodadura (debería ser 'marcas de desplazamiento de la pestaña de la rueda')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/RS/2017/2017-08-16_Iskliznuce 62946_Konacan_izvestaj_konacno.md"
+ }
+}

@@ -1,0 +1,436 @@
+{
+ "md-es/SE/2005/RJ2007_02-280205.md": {
+  "estado": "aviso",
+  "idioma_origen": "SV",
+  "paginas_revisadas": [
+   1,
+   14,
+   27,
+   40,
+   53,
+   66
+  ],
+  "fidelidad_media": 96.8,
+  "fidelidad_min": 96,
+  "sin_dictamen": [],
+  "terminos": [
+   "'påkörning av stoppbock' traducido como 'colisión contra un tope de parada'; 'stoppbock' suele normalizarse como 'tope de vía' o 'parachoques de fin de vía'",
+   "'urspårning' como 'descarrilamiento' es correcto, pero el original distingue el evento compuesto (colisión + descarrilamiento posterior) y la traducción lo mantiene",
+   "'seguimiento de trenes' por 'tågföljden' (regulación de la sucesión/circulación de trenes) es aceptable pero podría normalizarse como 'regulación de la circulación de trenes'",
+   "'vía secundaria' por 'sidotågspår' (vía de apartadero/lateral) pierde matiz técnico",
+   "'volteo del coche 3' por 'läktringen av vagn 3' (encarrilamiento/realce del vagón) es una traducción errónea del término técnico",
+   "'lutningar' traducido como 'pendientes' en lugar de 'rampas/inclinaciones' (aceptable pero no normalizado)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2005/RJ2007_02-280205.md"
+ },
+ "md-es/SE/2005/RJ2009_10-160505.md": {
+  "estado": "revisar",
+  "idioma_origen": "SV",
+  "paginas_revisadas": [
+   1,
+   42,
+   81,
+   121,
+   167,
+   210
+  ],
+  "fidelidad_media": 93.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Brand i tunneltåg' traducido como 'Incendio en tren de metro': el original distingue tunneltåg (tren de túnel) de tunnelbana (metro)",
+   "'AB län' traducido como 'provincia de Estocolmo (AB)': añade 'Estocolmo' no presente en el original, que solo indica el código de provincia",
+   "'Cargador' por 'Uppladdningskontaktor' (contactor de carga) pierde el término técnico",
+   "'Tornillo de cable de hilos trenzados' por 'Skruv till litz' (tornillo de cable litz) es impreciso",
+   "'Quemado/Rasgado' por 'Bränd/Skägg' (quemado/barba) no normalizado",
+   "'rotta' errata por 'rota' en 'Pantalla aislante – quemada, rotta'"
+  ],
+  "fallos": [
+   {
+    "pagina": 42,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'De fick klättra ned på spåret framför tåget istället' (tuvieron que bajar a la vía delante del tren en su lugar), sustituida por una invención",
+     "Falta el matiz 'i totalt mörker' se mantiene, pero se omite 'när de kom fram mot den näst sista vagnen' como referencia exacta (se traduce 'a la penúltima vagón' con error de género)"
+    ],
+    "invenciones": [
+     "'Tuvieron que subir al andén desde las vías, delante del tren' no está en el original: el original dice que tuvieron que bajar a la vía delante del tren (klättra ned på spåret), no subir al andén",
+     "'el tercer carril' para 'strömskenan' (el original se refiere a la barra conductora/tercer carril electrificado, pero la traducción introduce una denominación no presente)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'plataforma' por 'plattform' es aceptable, pero se alterna con 'andén' de forma inconsistente",
+     "'mando de Connex' por 'befäl från Connex' (befäl = jefe/encargado, no 'mando')",
+     "'jefe de tráfico' por 'trafikbefäl' no normalizado"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene una inversión de sentido en el pasaje de bajar a la vía y términos técnicos no normalizados."
+   },
+   {
+    "pagina": 121,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'fordonet' como 'el vehículo' (se usa 'material rodante', aceptable) pero se omite la palabra 'fordonet' en la cita: 'skall ingå i fordonet' → 'debe formar parte del material rodante' (ok)",
+     "Se omite la frase 'Märkdata för linjekondensatorskontaktorn enligt Kiepe:' como encabezado independiente (se fusiona con el párrafo siguiente)",
+     "No se traduce 'utförande' en 'kontaktor i utförande med två poler' (se traduce como 'de construcción con dos polos', aceptable)"
+    ],
+    "invenciones": [
+     "'monofásico' para 'enpolig' (unipolar) en el contactor AL1: el original dice 'enpolig' (unipolar), no monofásico",
+     "'Contactos de corriente continua electromagnético monofásico' para 'Elektromagnetisk enkelpolig likströmskontaktor' (contactor de CC electromagnético unipolar); se introduce 'monofásico' y se cambia 'contactor' por 'contactos'",
+     "'suspendida de forma aislada en el bogie' para 'isolaterat upphängd i underredet': el original dice 'underredet' (bajo el bastidor/chasis), no 'bogie'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'enpolig' traducido como 'monofásico' en lugar de 'unipolar'",
+     "'underredet' traducido como 'bogie' en lugar de 'bajo el bastidor' o 'chasis'",
+     "'kontaktor' traducido como 'contactos' en 'Contactos de corriente continua electromagnético monofásico' (debería ser 'contactor')"
+    ],
+    "comentario": "Traducción mayormente fiel pero con errores terminológicos: 'enpolig' como 'monofásico', 'underredet' como 'bogie' y 'kontaktor' como 'contactos'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2005/RJ2009_10-160505.md"
+ },
+ "md-es/SE/2005/Report-extract_16052005-EN.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'undergrouond' (errata del original) traducido como 'subterráneo' en lugar de 'metro'",
+   "'firms undertakings' traducido como 'empresas contratistas' (añade matiz no presente)",
+   "'underframe' como 'bastidor inferior' es aceptable, pero 'wagon' como 'vagón subterráneo' resulta forzado",
+   "'la servicio de rescate' (error de concordancia de género, debería ser 'el servicio de rescate')",
+   "'el ferrocarril metropolitano existente' por 'the existing underground railway' (aceptable, pero 'ferrocarril subterráneo' sería más fiel al original)",
+   "'el sistema subterráneo' por 'the underground' (el original se refiere al ferrocarril subterráneo/metro, no a un 'sistema' genérico)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2005/Report-extract_16052005-EN.md"
+ },
+ "md-es/SE/2005/Report-extract_28022005-EN.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   3
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'chief emergency fire officer' traducido como 'el jefe del servicio de bomberos', omitiendo 'emergency' (jefe de bomberos de emergencia)",
+   "'Swedish Railways Board' traducido como 'Agencia Ferroviaria Sueca' en lugar de 'Junta de Ferrocarriles Sueca'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2005/Report-extract_28022005-EN.md"
+ },
+ "md-es/SE/2006/RJ2008_01-290306.md": {
+  "estado": "revisar",
+  "idioma_origen": "SV",
+  "paginas_revisadas": [
+   1,
+   11,
+   21,
+   31,
+   41,
+   51
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Resandetåget' traducido como 'tren de pasajeros' en lugar de 'tren de viajeros'/'tren de servicio' según contexto",
+   "'räddningsfrånkoppling' traducido como 'desconexión de la alimentación eléctrica de rescate' (término no normalizado; debería ser 'desconexión de la corriente de tracción' o 'corte de tensión de la catenaria')",
+   "'bandriftledaren' traducido como 'director de tráfico ferroviario' (aceptable pero no normalizado)",
+   "'deltidsstationen' traducido como 'estación parcial' (debería ser 'parque de bomberos a tiempo parcial' o 'retén')",
+   "'tågsättets färdigställande' traducido como 'preparación del material rodante' en lugar de 'finalización/terminación de la composición del tren'",
+   "'bilburna insatser' traducido como 'intervenciones móviles' en lugar de 'intervenciones con vehículos/por carretera'"
+  ],
+  "fallos": [
+   {
+    "pagina": 21,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el matiz 'SJF fanns inte med' como 'no figuraba' (aceptable) pero se omite la referencia a que la lista era 'över underhållsdokument' (sobre documentos de mantenimiento) — se traduce 'de documentos de mantenimiento', aceptable",
+     "Se omite 'i regel' matiz en 'El mantenimiento de las locomotoras era generalmente basado en kilometraje' — presente",
+     "Omisión de la nota al pie 5 y 6 en su posición original: en el original aparecen como llamadas 5 y 6 en el texto; en la traducción solo aparecen al final, sin llamada en el cuerpo"
+    ],
+    "invenciones": [
+     "'maquinistas y cambiadores contratados' — el original dice 'anställda lokförare och växlare' (empleados, no contratados); se añade 'contratados' que no está",
+     "'CEO' en lugar de 'VD' (director general) — no es invención grave pero no es término normalizado",
+     "'pasta de celulosa' para 'massaved' — massaved es madera para pasta, no pasta de celulosa"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'cambiadores' por 'växlare' (guardagujas/maniobristas) — término técnico ferroviario mal traducido",
+     "'massaved' traducido como 'pasta de celulosa' en lugar de 'madera para pasta' o 'madera de trituración'",
+     "'lokindivid' traducido como 'unidad individual' — aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción mayormente fiel pero con errores terminológicos en 'växlare' y 'massaved', y una adición indebida de 'contratados' donde el original dice 'anställda'."
+   },
+   {
+    "pagina": 31,
+    "fidelidad": 96,
+    "omisiones": [
+     "Se omite la frase 'En sammanställning över vagnarnas underhållsstatus finns i tabellform i bilaga 3' (resumen del estado de mantenimiento en forma de tabla en el anexo 3) — la traducción solo dice 'Un resumen... figura en forma de tabla en el anexo 3', lo cual es equivalente; no hay omisión real",
+     "No se omite contenido sustantivo"
+    ],
+    "invenciones": [
+     "'detectores de sobrecalentamiento de ejes' añade 'de ejes' no presente en 'varmgångsdetektorer' (detectores de calentamiento)",
+     "'llamadas pulsos del detector' introduce 'llamadas' (¿pulsos?) no presente en el original 'detektorpulser'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'varmgångsdetektorer' traducido como 'detectores de sobrecalentamiento de ejes' en lugar de 'detectores de calentamiento de cojinetes/ejes'",
+     "'lagerboxar' traducido como 'cajas de rodamiento' (aceptable) pero 'fordonsunderredet' como 'bastidor del vehículo' en lugar de 'bajo del vehículo'",
+     "'motortralla' traducido como 'mototrailla' (término no normalizado; debería ser 'dresina motorizada' o 'vagoneta motorizada')"
+    ],
+    "comentario": "Traducción muy fiel en cifras y contenido; solo se detectan pequeñas imprecisiones terminológicas y una adición menor ('de ejes', 'llamadas') que no alteran el sentido."
+   },
+   {
+    "pagina": 41,
+    "fidelidad": 97,
+    "omisiones": [],
+    "invenciones": [
+     "Se añade el calificativo «Sueca» a Järnvägsstyrelsen, no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "«personal de conducción» por «förarpersonal» (personal de conducción) es aceptable, pero «inhyrd» se traduce a veces como «contratado» y a veces como «arrendado»; conviene normalizar",
+     "«empresas arrendadoras» por «uthyrande företag» (empresas cedentes/arrendadoras) es discutible; mejor «empresas cedentes»",
+     "«autocontrol» por «internkontroll» (control interno) no es la denominación normalizada"
+    ],
+    "comentario": "Traducción completa y fiel; solo se detecta una pequeña adición explicativa y alguna inconsistencia terminológica menor."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2006/RJ2008_01-290306.md"
+ },
+ "md-es/SE/2006/RJ2009_06_Vhe-190106.md": {
+  "estado": "revisar",
+  "idioma_origen": "SV",
+  "paginas_revisadas": [
+   1,
+   7,
+   14,
+   20,
+   25,
+   31
+  ],
+  "fidelidad_media": 93.7,
+  "fidelidad_min": 82,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Tillbud' traducido como 'Incidente' cuando el término sueco distingue 'tillbud' (suceso/incidente sin daños) de 'olycka' (accidente); en el título original 'Tillbud till kollision' se refiere a un incidente con riesgo de colisión, no a una colisión consumada",
+   "'AB län' traducido como 'provincia de Estocolmo': es una equivalencia aceptable pero no literal (AB län = condado de Estocolmo)",
+   "'losskopplingen' traducido como 'desacoplamiento' en lugar de 'desenganche/separación de unidades'",
+   "'motorvagnsenheter' traducido como 'unidades múltiples' (aceptable) pero 'motorvagnar' como 'unidades múltiples' en 1.5.4 en lugar de 'automotores'",
+   "'tågorderradio' como 'radio de órdenes de tren' (poco normalizado; mejor 'radio de órdenes')",
+   "'fjärrtågklareraren' como 'despachador de tráfico a distancia' (término no normalizado; 'jefe de circulación')"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se traduce 'kopplet lossade' (el acoplamiento se soltó) en el intento fallido del día anterior",
+     "No se traduce 'kopplen hade inte förmåtts att gå isär' con precisión: se omite que las uniones no lograron separarse",
+     "Se omite la referencia a que el tren tenía una unidad x10 'sist i tåget' como causa del frenado anticipado (parcialmente recogido pero no la mención de que el acoplamiento se soltó por el tirón)"
+    ],
+    "invenciones": [
+     "'el maquinillo' no aparece en el original; el término sueco es 'föraren' (maquinista/conductor)",
+     "'auto-descarga' y 'auto-descargó' no corresponden a 'självlossade' (aflojamiento/liberación automática del freno)",
+     "'el tren no se separó' sustituye a 'kopplet lossade' (el acoplamiento se soltó), invirtiendo el sentido"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'maquinillo' por 'föraren' (maquinista/conductor)",
+     "'auto-descarga'/'auto-descargó' por 'självlossning'/'självlossade' (liberación automática del freno)",
+     "'auto-desconexión' por 'självavkoppling' (desacoplamiento automático)"
+    ],
+    "comentario": "La traducción invierte el sentido de varios pasajes clave (acoplamiento que se suelta vs. tren que no se separa) y usa términos no normalizados como 'maquinillo' y 'auto-descarga' por 'självlossning'."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2006/RJ2009_06_Vhe-190106.md"
+ },
+ "md-es/SE/2006/Report-extract_19012006-EN.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 97,
+  "sin_dictamen": [],
+  "terminos": [
+   "'casi colisión' y 'casi accidente' no normalizados (debería ser 'casi-accidente' o 'colisión inminente')",
+   "'interruptores automáticos' para 'circuit breakers' podría precisarse como 'disyuntores'",
+   "'freno eléctrico de resistencia' por 'electrical resistance brake' (más habitual 'freno reostático')",
+   "'self-release' traducido como 'liberación automática' en lugar de 'desenganche/liberación del freno' (término técnico ferroviario no normalizado)",
+   "'check valves' como 'válvulas de retención' es aceptable, pero 'carriage' se traduce alternando 'vagón' (correcto en contexto ferroviario sueco) sin distinguir de 'coche'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2006/Report-extract_19012006-EN.md"
+ },
+ "md-es/SE/2007/RJ2008_02-191007.md": {
+  "estado": "revisar",
+  "idioma_origen": "SV",
+  "paginas_revisadas": [
+   1,
+   11,
+   21,
+   31,
+   42,
+   52
+  ],
+  "fidelidad_media": 87.3,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Tillbud' traducido como 'Incidente previo a colisión' en lugar de 'incidente' o 'suceso' (tillbud = incidente/suceso, no necesariamente previo a colisión)",
+   "'avgrävd kabel' traducido como 'cable excavado' en lugar de 'cable seccionado/cortado'",
+   "'vägskyddsanläggning' traducido como 'protección de pasos a nivel' en lugar de 'instalación de protección de paso a nivel'",
+   "'Lokaltågklareraren' traducido como 'jefe de circulación local' y 'Fjtkl' como 'jefe de circulación remoto': se introduce una distinción local/remoto no presente en el original",
+   "'ställare' traducido como 'aparatos de maniobra'/'aparato de maniobra' de forma inconsistente",
+   "'plattformsövergången' como 'paso a nivel de andén' (debería ser 'paso de andén' o 'cruce de andén')"
+  ],
+  "fallos": [
+   {
+    "pagina": 31,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 31' (irrelevante) pero sí falta la frase final truncada del original: 'Tydliga och åtskilda rutiner behövs' se traduce parcialmente, quedando incompleta la última oración",
+     "Falta la traducción del término 'tamboken' como 'libro de control' o similar; se omite la referencia al 'tamboken' en el pasaje de la barrera que falló (se traduce 'desde la cabina' en lugar de 'en el tamboken')"
+    ],
+    "invenciones": [
+     "Se añade '(sin bloqueo automático)' como aclaración de 'tam-sträcka', que no está en el original",
+     "Se traduce 'tamboken' como 'cabina', lo que introduce un concepto inexistente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tågklareraren' se traduce como 'jefe de estación' cuando en el contexto sueco se refiere al 'jefe de circulación' o 'controlador de tráfico'; no es un término normalizado",
+     "'körtillstånd' se traduce como 'autorización de circulación', aceptable, pero 'klart-anmälan' se traduce como 'comunicación de vía libre' y 'utfartssignal' como 'señal de salida', correcto; sin embargo 'tamboken' se traduce erróneamente como 'cabina'",
+     "'tam-sträcka' se traduce como 'línea tam (sin bloqueo automático)', añadiendo una glosa no presente en el original"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores terminológicos graves ('tamboken' como 'cabina') y una invención aclaratoria no presente en el original."
+   },
+   {
+    "pagina": 52,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'Har tillkommit sedan 2004' completa y coherente (aparece fragmentada y sin verbo principal)",
+     "Falta 'Finns barriär?' como pregunta completa en su contexto (aparece 'Existe' suelto)",
+     "Falta 'Möjlighet att ändra vid fel?/ Hantering' correctamente enlazado"
+    ],
+    "invenciones": [
+     "'Ha surgido' como traducción de 'Har tillkommit' sin sujeto claro",
+     "'Existe' suelto que no corresponde a 'Finns barriär?'",
+     "'Atención' añadido en 'Carga de trabajo y estrés, da tiempo? Atención'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tamboken' traducido como 'libro de' (incompleto; debería ser 'libro de guardia' o similar)",
+     "'tklboken' traducido como 'libro de circulación' (término no normalizado; 'tkl' = tågklarerare, libro del jefe de circulación)",
+     "'spårplan' como 'plano de vías' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción reproduce el orden fragmentario del original pero pierde unidades léxicas clave y comete errores en términos técnicos ferroviarios suecos."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2007/RJ2008_02-191007.md"
+ },
+ "md-es/SE/2007/RJ2008_03-131207.md": {
+  "estado": "revisar",
+  "idioma_origen": "SV",
+  "paginas_revisadas": [
+   1,
+   5,
+   11,
+   16,
+   20,
+   25
+  ],
+  "fidelidad_media": 92.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Tillbud' traducido como 'Incidente' cuando en el contexto ferroviario sueco 'tillbud' es un 'suceso/incidente sin daños' (near-miss), no una colisión; 'plankorsningsolycka' se traduce como 'colisión en paso a nivel' cuando el original dice 'olycka' (accidente) y el título indica 'tillbud' (incidente), creando incoherencia",
+   "'AB län' se mantiene como 'condado AB' en lugar de normalizar a 'condado de Estocolmo (AB)'",
+   "'tillbud' traducido como 'incidente' en lugar de 'suceso/incidente grave' o 'casi accidente'; el original distingue 'tillbud till plankorsningsolycka' (conato de accidente en paso a nivel)",
+   "'plankorsningsolycka' traducido como 'colisión en paso a nivel' cuando el original dice 'accidente en paso a nivel'",
+   "'Järnvägsstyrelsen' sin traducir (organismo regulador ferroviario)",
+   "'plazas de pie' por 'ståplatser' es aceptable, pero 'tjänstevikt' se traduce como 'peso en vacío' cuando en el original es 'peso en servicio' (tara operativa), no exactamente vacío"
+  ],
+  "fallos": [
+   {
+    "pagina": 16,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'De avstigande korsar också spårområdet...' traducida como 'Los peatones que se desvían' en lugar de 'los que descienden/apean'",
+     "No se traduce 'järnvägsövergången' distinguiéndolo de 'plankorsning' (paso a nivel)"
+    ],
+    "invenciones": [
+     "'Los peatones que se desvían' introduce un sujeto que no está en el original (de avstigande = los que descienden del tren)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'avstigande' traducido como 'peatones que se desvían' en vez de 'viajeros que descienden'",
+     "'järnvägsövergången' y 'plankorsning' se traducen ambos como 'paso a nivel' sin distinguir",
+     "'gångväg' como 'paso peatonal' podría ser 'senda/camino peatonal'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con un error de sentido en 'avstigande' y pérdida de la distinción terminológica entre tipos de cruce."
+   },
+   {
+    "pagina": 20,
+    "fidelidad": 97,
+    "omisiones": [
+     "Falta el encabezado 'PÁGINA 20' (irrelevante) y no se traduce el título de sección '2.5' (se mantiene, correcto)",
+     "No se omite contenido sustantivo; el texto final 'I samband med' queda truncado igual que en el original"
+    ],
+    "invenciones": [
+     "Se añaden glosas explicativas entre paréntesis no presentes en el original: '(Administración Ferroviaria Nacional)', '(Administración de Carreteras)', '(Asociación Sueca de Autoridades Locales y Regionales)', '(Inspección Ferroviaria)'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'plankorsning' traducido como 'paso a nivel' es correcto",
+     "'halvbomsanläggningar'/'helbomsanläggningar' como 'barreras parciales/completas' aceptable",
+     "'vägskyddsanläggningar' como 'dispositivos de protección de la carretera' podría precisarse como 'protección del paso a nivel'"
+    ],
+    "comentario": "Traducción fiel y completa; solo añade glosas explicativas de nombres de organismos no presentes en el original."
+   },
+   {
+    "pagina": 25,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'Bild 10. Tabell över händelseförloppet.' como texto independiente (se traduce como 'Imagen 10' pero se pierde el formato de pie de tabla)",
+     "Falta el encabezado '3.2.1 Avvikelseanalys' correctamente separado (aparece como 'Análisis de desviaciones' pero se omite el número 3.2.1 en algunas versiones)"
+    ],
+    "invenciones": [
+     "'los conductores del tren' (plural) donde el original dice 'föraren av tåget' (el conductor del tren, singular)",
+     "'El conductor del tren frena hasta que este se detiene' añade 'hasta que este se detiene' no presente explícitamente en 'bromsar in tåget som stannar'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tågklarerare' traducido como 'regulador de tráfico' en lugar de 'jefe de circulación' o 'factor de circulación' (término ferroviario normalizado)",
+     "'vägkorsningssignalen' como 'señal del cruce viario' podría normalizarse como 'señal de paso a nivel'",
+     "'märket' traducido como 'señal' cuando en contexto sueco se refiere a 'marca' o 'señalización' (D1, C1 son marcas viales)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con errores de número (singular/plural en conductores), adiciones menores y terminología ferroviaria no normalizada."
+   }
+  ],
+  "fecha": "2026-11-19",
+  "md_es": "md-es/SE/2007/RJ2008_03-131207.md"
+ }
+}

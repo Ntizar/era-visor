@@ -1,0 +1,1406 @@
+---
+pais: BE
+anio: 2008
+idioma_origen: FR
+md_origen: md/BE/2008/Final report Chapelle Dieu-03032008.md
+md5_origen: e06e718e85c60c208bee6fadf27a3cbb
+modelo: qwen3.6
+bloques: 14
+chars: 75417
+ratio_longitud: 1.01
+tokens_in: 29234
+tokens_out: 20837
+verificacion: ok
+notas_cifras: ["bloque 2: cifras largas: 1/34", "bloque 3: cifras cortas: 1/39", "bloque 4: cifras cortas: 1/59", "bloque 5: cifras cortas: 3/36", "bloque 6: cifras cortas: 14/40", "bloque 7: cifras cortas: 12/35"]
+fecha_proceso: 2026-11-20
+generador: traducir_md_es.py (traducción IA + verificación numérica)
+---
+## Página 1
+
+Organismo de investigación
+Accidentes ferroviarios
+INFORME DE INVESTIGACIÓN
+Atropello de un peatón por un tren en la proximidad de un
+paso a nivel
+El 03 de marzo de 2008 en Chapelle-Dieu
+Experto externo: SNCB-HOLDING
+Dirección Estrategia y Coordinación
+      Seguridad de la explotación
+1 
+
+
+## Página 2
+
+## Índice de contenidos
+### Capítulo I: Resumen. 
+### Capítulo II : Los hechos 
+### 1. Exposición de los hechos. 
+### 2. Información, intervención, medidas adoptadas para restablecer el 
+tráfico. 
+### 3. Consecuencias del accidente. 
+### 4. Condiciones atmosféricas. 
+### Capítulo III: Apertura de la investigación por el organismo 
+                      de investigación sobre accidentes ferroviarios. 
+### 1. La decisión de investigar y su motivación. 
+### 2. La composición de la célula de investigación. 
+### Capítulo IV : El contexto del accidente. 
+### A.  Las nociones ferroviarias 
+###  1. La infraestructura ferroviaria. Los lugares. 
+###  2. Los pasos a nivel 
+### 3. El tráfico ferroviario. 
+### B.  Marco reglamentario- Procedimientos administrativos y 
+documentos a redactar. 
+### 1. ILT 
+### 2. BNX 
+### 3. S427 
+### 4. S477 
+### 5. E934 
+### 6. Los planos técnicos 
+### C. Las obras ejecutadas en la línea 144 
+
+
+## Página 3
+
+### Procedimientos aplicados 
+###  1. Las obras del 03 de marzo 
+###  2. Las obras del 04 de marzo 
+ 3. los intervinientes  
+### Capítulo V : Investigación y análisis. 
+### A. Análisis de la aplicación de los procedimientos. 
+###  1. Las obras del 04 de marzo 
+###  2. Las obras del 03 de marzo 
+### B. Investigación del accidente. 
+###  1. Declaraciones y constataciones. 
+###  2. Reconstitución de los acontecimientos. 
+###            3. Lagunas y anomalías. 
+### Capítulo VI : Conclusiones. 
+### Las causas del accidente   
+- primaria 
+- subyacentes 
+- de base 
+### Capítulo VII : Recomendaciones. 
+
+
+## Página 4
+
+Capítulo I:  
+Resumen. 
+El lunes 03 de marzo de 2008, a las 17 h 03, una persona fue atropellada por un tren en el 
+paso a nivel n.º 2, situado en las proximidades del punto de parada de Chapelle - Dieu 
+en la línea ferroviaria 144: Gembloux – Jemeppe-sur-Sambre. El tren 
+E8691 circulaba por la vía A en dirección a Jemeppe. 
+La víctima fue proyectada sobre la vía B y resultó gravemente herida. 
+El paso a nivel está equipado con cuatro paneles de tres luces luminosas 
+con una doble cruz de San Andrés, así como con dos semibarreras. 
+Resulta que la señalización viaria del paso a nivel no comenzó a funcionar 
+hasta tarde, de hecho muy poco tiempo antes de que el tren se acercara al 
+paso a nivel. 
+Dada la gravedad del accidente, que en condiciones ligeramente diferentes 
+podría haber tenido consecuencias mucho más graves y teniendo en cuenta 
+las incertidumbres sobre las causas del mal funcionamiento de la 
+instalación de seguridad, el organismo de investigación sobre accidentes 
+ferroviarios abrió el 4 de marzo de 2009 una investigación técnica. Esta 
+se centra en los acontecimientos que condujeron al accidente, de 
+conformidad con el artículo 45 de la ley del 19 
+de diciembre de 2006 relativa a la seguridad de la explotación ferroviaria. 
+La investigación lleva a la conclusión de que la causa directa del accidente 
+es la cancelación prematura de las zonas de aviso a distancia del paso a 
+nivel n.º 2. 
+Esta cancelación fue aprobada por el responsable de la señalización de la 
+zona sureste del departamento de infraestructura de Infrabel, en el marco 
+de obras de renovación de las obras de arte, para las cuales la vía A de la 
+línea 144 fue puesta fuera de servicio durante un período de 120 días a 
+partir del 4 de marzo de 2008, a condición de que se instalaran señales 
+móviles de parada a ambos lados del paso a nivel. 
+De conformidad con la normativa aplicable, se redactaron un ILT y un BNX. 
+En términos generales, estos documentos cumplen las prescripciones que 
+les conciernen, pero su distribución, al menos la del ILT, fue muy tardía. 
+Las obras de mantenimiento de la vía B se programaron para el 3 de marzo de 2008 
+con vistas a la circulación a vía única en esta vía, planificada para una duración 
+de 120 días a partir del 4 de marzo de 2008. 
+Considerando que no existía ningún vínculo funcional entre estas obras, que 
+finalmente eran obras de saneamiento de las zonas fangosas, y las obras 
+que comenzaban el 4 de marzo, no se consideró necesario un ILT que 
+cubriera el conjunto de las obras. 
+
+
+## Página 5
+
+El 3 de marzo de 2008, la vía B se puso fuera de servicio de 8 h 20’ a 16 h 00, 
+mientras que la vía A también se puso fuera de servicio durante el intervalo 
+libre de circulación de 9 h 30’ a 13 h 50’, con el fin de garantizar la seguridad 
+de los trabajadores ocupados en la vía B. 
+De conformidad con la normativa, se elaboraron un BNX y unas S427 para la 
+puesta fuera de servicio de las vías A y B, a iniciativa del responsable de la 
+vía del distrito de infraestructura de Namur. 
+Las obras del 03 de marzo no requerían la cancelación de las zonas de 
+aviso de los PN de la vía A. 
+Contrariamente a la programación de las obras, la cancelación de las zonas 
+de aviso a distancia de los pasos a nivel n.º 2 y 9 se llevó a cabo el 3 
+de marzo de 2008, sin que el interviniente hubiera inscrito su acción en el 
+S427 de las obras de ese día, gestionado por el responsable de las obras de 
+vía. Las medidas previas, que garantizan la seguridad en el uso de los 
+pasos a nivel, en particular la colocación de banderas y petardos en la vía, 
+no se aplicaron. 
+La modificación de la instalación de seguridad de los pasos a nivel se 
+realizó además sin que la jerarquía directa tuviera conocimiento de la 
+intervención que se iba a realizar ese día, para la cual no existía ninguna 
+instrucción formalizada, ni ningún procedimiento de control o aprobación 
+de la ejecución. El técnico en cuestión era competente para ejecutar esta 
+modificación. 
+Teniendo en cuenta las conclusiones derivadas del accidente, se recomienda 
+al gestor de infraestructura que se lleven a cabo acciones para: 
+- 
+que los procedimientos existentes se apliquen de manera 
+rigurosa a fin de garantizar la seguridad durante las obras.  
+- 
+que toda intervención en las instalaciones de seguridad se realice 
+de acuerdo con los principios elementales establecidos que forman 
+la base de la seguridad 
+para este tipo de intervenciones. 
+- 
+que el uso de sistemas materializados para la supresión 
+temporal de las zonas de aviso se generalice en toda la red.
+
+## Página 6
+
+Capítulo II: Los hechos.
+1.
+Exposición de los hechos.
+El tren E8691, compuesto por una unidad múltiple AM 722, circula por la vía A (la vía normal) de la línea ferroviaria 144: Gembloux a Jemeppe-sur-Sambre, en dirección a Jemeppe-sur-Sambre.
+A las 17h03, el tren impacta contra una persona que cruzaba el paso a nivel n.º 2, aguas arriba del punto de parada no vigilado (PANG) de Chapelle Dieu, situado en el punto kilométrico (PK) 1270.
+La luz blanca lunar estaba apagada. Esta indicación advierte al usuario del paso a nivel que este solo puede cruzarlo si ha tomado todas las precauciones necesarias para asegurarse de que no se acerca ningún tren.
+La víctima cruzaba el paso a nivel en dirección a la capilla que se encuentra frente al paso a nivel.
+A pesar del frenado de emergencia y de la velocidad reducida del tren (70 km/h al aproximarse al punto de parada), el conductor no pudo evitar la colisión.
+La víctima es proyectada hacia la vía B, a la derecha con respecto al movimiento del tren. La unidad múltiple se detiene, con su parte trasera a la altura del pavimento del cruce del paso a nivel.
+Resulta que la señalización de seguridad del paso a nivel no funcionó hasta tarde, muy poco tiempo antes de que el tren se aproximara al paso a nivel.
+
+
+## Página 7
+
+2. Información, intervenciones, medidas adoptadas para restablecer el tráfico.
+A las 17h03, el tren E8691 (Gembloux – Jemeppe-sur-Sambre, AM 722) impacta contra una persona a la altura del Paso a Nivel n.º 2 (PK 1270). El conductor realiza un frenado de emergencia y detiene el convoy en el paso a nivel (PN).
+17h05 La Central de Llamadas es informada por el acompañante, mientras un viajero informa al servicio 100.
+17h08 El Servicio 100 y la policía local llegan al lugar.
+17h14 Los pasos a nivel 2 y 3 están en alarma a las 17h14.
+17h19 Orden de autobús por parte del Control del Tráfico.
+17h28 La Sección de Policía de los Ferrocarriles (SPC) está en el lugar.
+17h44 Vía B libre para la circulación ferroviaria por el funcionario de red de Namur presente en el lugar.
+17h54 La persona herida es trasladada por el servicio 100.
+18h24 Se recuerda al técnico para verificar el PN 2. Llega al lugar a las 18h55.
+18h25 El técnico de mantenimiento no detecta nada anormal en la unidad múltiple AM 722 y autoriza su circulación.
+18h30 El funcionario presente informa de que el Ministerio Fiscal se desplazará al lugar. - La prueba de alcoholemia del conductor resulta negativa.
+19h35 El Ministerio Fiscal está en el lugar.
+20h00 El funcionario de guardia presente informa de que la línea L.144 no podrá ser transitada hasta el 04/03/2008; se realizarán pruebas durante la noche y la mañana del 04/03 sobre el funcionamiento de los PN.
+21h00 El Ministerio Fiscal ordena el resguardo de la AM 722 en Ottignies; dos especialistas participarán en pruebas de la AM el 04/03 a partir de las 09h00.
+La línea L.144 no puede ser transitada y no se puede autorizar ningún trabajo hasta nuevo aviso.
+
+
+## Página 8
+
+3.
+Consecuencias del accidente.
+Humanas:
+Un joven que cruzaba las vías en el paso a nivel resultó herido en la cabeza. Resultó gravemente herido.
+Relativas al material rodante e infraestructura:
+No hubo daños materiales, ni en el material rodante ni en la infraestructura.
+Retrasos de trenes:
+Se suprimieron ocho trenes de viajeros los días 03 y 04 de marzo.
+4. Condiciones atmosféricas:
+Las condiciones meteorológicas eran favorables. A esa hora, la claridad aún era considerable.
+
+
+## Página 9
+
+Capítulo III: Apertura de la investigación por el Organismo de Investigación de Accidentes Ferroviarios.
+1. De la decisión de apertura de una investigación por el Organismo de Investigación del Estado.
+En aplicación del artículo 19, apartado 2, de la Directiva 2004/49 y del artículo 45 de la ley relativa a la seguridad de la explotación ferroviaria del 19 de diciembre de 2006.
+El Organismo de Investigación de Accidentes e Incidentes Ferroviarios abrió el 04 de marzo de 2008 una investigación sobre las causas del accidente.
+El accidente, por una parte, podría haber conducido, en circunstancias ligeramente diferentes, a un accidente grave. Por otra parte, se planteaba la cuestión de saber en qué medida el accidente era consecuencia de fallos técnicos a nivel del subsistema infraestructura o de deficiencias en el sistema de gestión de la seguridad del gestor de la infraestructura ferroviaria.
+La investigación, llevada a cabo independientemente de cualquier otra investigación, tiene como objetivo determinar las circunstancias y las causas del accidente y elaborar recomendaciones de seguridad con el fin de prevenir la repetición de accidentes similares en el futuro.
+2. Composición del equipo de investigación.
+De conformidad con el artículo 4 del Real Decreto del 16 de enero de 2007 por el que se crea un organismo de investigación de accidentes e incidentes ferroviarios y se determina su composición, el organismo de investigación decidió recurrir a una peritaje externo.
+En el presente caso, el Organismo de Investigación recurrió a SNCB_HOLDING y, más concretamente, a su servicio Seguridad y Medio Ambiente.
+Los siguientes investigadores participaron en la investigación:
+-
+Sr. Vansteenkiste Dirk, gerente del servicio Seguridad y Medio Ambiente.
+-
+Sr. Franche Thierry, ingeniero industrial, responsable de la zona Namur.
+-
+Sr. Piette Claude, ingeniero principal adjunto, responsable de la zona Charleroi.
+
+
+## Página 10
+
+Capítulo IV: El contexto del accidente.
+A. Nociones ferroviarias.
+1.
+La infraestructura ferroviaria.
+El accidente se produjo en el paso a nivel n.º 2, situado cerca del punto de parada no vigilado (PANG) de Chapelle-Dieu, ubicado en la línea 144 Gembloux – Jemeppe-s-Sambre.
+Bruselas
+L144 Chapelle-Dieu
+La línea 144 es una línea de doble vía electrificada que conecta la estación de Gembloux (punto kilométrico 0) en el eje Bruselas - Namur (línea 161) y la estación de Jemeppe-sur-Sambre (punto kilométrico 13000) en la dorsal valona de la línea 130 de Charleroi a Namur.
+La línea está equipada con una señalización lateral de bloqueo automático y la comunicación se realiza por radio tierra/tren.
+Está equipada con 6 pasos a nivel situados en los puntos kilométricos (PK) 1270, 1650, 6870, 10205, 11258 y 12565.
+Todos estos pasos a nivel están clasificados, por decreto ministerial del 19.10.2000, en la segunda categoría y, por tanto, equipados con barreras semiautomáticas y luces de tráfico.
+La velocidad de referencia de la línea 144 es de 90 km/h. Pueden imponerse localmente adaptaciones de velocidad con respecto a la referencia.
+
+## Página 11
+
+En Chapelle-Dieu, la velocidad se reduce a 70 km/h desde la salida de la estación de Gembloux. Se ha implantado una reanudación de la velocidad a 90 km/h a unas decenas de metros aguas arriba del paso a nivel 2 en el sentido Gembloux-Jemeppe/s/Sambre.
+
+2. El paso a nivel
+
+Descripción
+
+A continuación.
+
+El paso a nivel representado en la foto
+
+El paso a nivel n.º 2 de la línea ferroviaria 144 está clasificado en segunda categoría por un decreto ministerial del Ministro de Movilidad y Transportes de fecha 19 de octubre de 2000.
+
+El paso a nivel está protegido por cuatro señales de tres luces y con la cruz de San Andrés (dos luces rojas parpadeando alternativamente y una luz blanca). Está equipado con barreras semicorredizas que obstruyen la mitad del ancho de la calzada.
+
+Según el artículo 64.3 del Código de la Carretera: «una luz blanca intermitente autoriza el cruce de la señal». Cuando se aproxima un tren, las dos luces rojas parpadean alternativamente y las dos barreras semicorredizas se cierran. Desde la señalización de aproximación hasta el cierre completo de las barreras, suena una alarma.
+
+## Página 12
+
+Funcionamiento de la señalización viaria.
+
+La señalización viaria de los pasos a nivel, en este caso el paso a nivel n.º 2 de la línea 144, está controlada por circuitos de vía que se activan cuando un tren los ocupa.
+
+El esquema de principio de los seis circuitos que controlan el PA n.º 2 se encuentra a continuación.
+
+En cuanto un tren se encuentra sobre un circuito de vía (CV), por ejemplo sobre el CV 1, el relé de seguridad asociado al circuito de vía se pone en posición baja y provoca el cierre del paso a nivel en función del sentido de circulación establecido.
+
+La distancia de aproximación es tal que el tren que circula a la velocidad autorizada llega al paso a nivel como mínimo 35 segundos después del activación.
+
+Este plazo se compone de:
+
+- 15 segundos de preaviso: la luz blanca inferior se apaga, las dos luces superiores se encienden parpadeando en rojo, suenan las alarmas, las barreras permanecen en posición vertical;
+- 10 segundos de cierre de las barreras (las alarmas continúan sonando);
+- 10 segundos de seguridad antes del paso del tren.
+
+Aproximación a 896 m
+Aproximación a 1278 m
+PA 2
+vía normal
+vía contraria
+CV3 l:100 m
+CV 1
+CV5
+Vía A
+Vía B
+CV6
+CV4 l:100 m
+CV2
+Aproximación a
+Aproximación a 855 m
+896 m vía contraria
+vía normal
+
+## Página 13
+
+La liberación del circuito de vía 3 (CV3) por parte del tren en el sentido normal de circulación permitirá la apertura del paso a nivel.
+
+Si la circulación se realiza en sentido contrario (vía contraria) en la vía A, serán los circuitos de vía 5 y 3 los que intervendrán en el control de cierre y apertura del paso a nivel.
+
+Cabe recordar asimismo que las detecciones de las circulaciones pueden ser puntuales o continuas.
+
+El PA 2 está equipado con detecciones puntuales. Se trata de circuitos de vía de una longitud de ± 100 m que detectan la presencia de un eje, lo cual se traduce eléctricamente por la caída de un relé de seguridad. Este relé permanece en posición baja hasta la liberación del circuito de cruce (CV3) de la vía pública que cruza completamente esta última.
+
+3. El tráfico ferroviario.
+
+La línea 144 puede considerarse como una línea de bajo tráfico: circulan por esta línea un tráfico de viajeros de ± 40 trenes y un tráfico de mercancías de ± 80 trenes por semana.
+
+## Página 14
+
+B. Marco normativo
+
+- Procedimientos administrativos y documentos a elaborar.
+
+Para llevar a cabo las obras, son necesarios una serie de documentos, entre ellos:
+
+1. ILT: Instrucción Local Temporal.
+
+La ILT es un documento redactado por el funcionario director de las obras a realizar. Cuando varias especialidades trabajan de forma entrelazada, se designa a un funcionario director.
+
+La ILT es un documento contractual que vincula a todos los intervinientes.
+
+Proporciona una descripción completa de las diversas obras a realizar y precisa, para cada especialidad:
+
+- La naturaleza de la intervención y la fecha de entrada en vigor,
+- La localización precisa de las obras a realizar,
+- Las fechas y la duración de cada fase,
+- La intervención de una empresa y de otros servicios,
+- El uso de trenes de obra, grúas u otras máquinas,
+- Las medidas de seguridad en el marco normal de los reglamentos generales, citando los artículos de los mismos,
+- Las medidas de seguridad particulares que salen del marco de los reglamentos generales.
+
+La ILT es redactada por el funcionario director tras una o varias reuniones previas con todos los intervinientes técnicos y el gestor regional de la red. El circulaire se completa entonces y firma por todos los intervinientes.
+
+Se distribuye entonces a todas las partes.
+
+Estas últimas están encargadas de devolver el acuse de recibo.
+
+Un modelo de ILT extraído del Reglamento General de Señalización (RGS) n.º 414502408-RGS-ILT se encuentra en el anexo 1.
+
+2. El BNX: (Boletín de obras de explotación)
+
+El BNX, editado por el gestor del servicio de red tras las solicitudes de puesta fuera de servicio presentadas por el funcionario director de las obras o los diferentes servicios sobre la base de las fechas propuestas. Constituye el programa posible de las obras en una zona. Este documento confirma que las fechas propuestas para las obras se tienen en cuenta para la ejecución de las mismas.
+
+## Página 15
+
+Este BNX constituye la culminación del procedimiento de puesta en marcha de obras mediante la información a todas las partes interesadas.
+3.
+El S 427:
+El S427 es el cuaderno de seguridad para trabajos de tres hojas autocopiativas. Materializa la solicitud efectiva de la puesta fuera de servicio haciendo referencia al BNX y, en su caso, a la ILT.
+Se presenta por el personal técnico de ejecución al gestor de la red ferroviaria, quien lo completa…..
+La puesta fuera de servicio de una o varias vías deviene efectiva(s) tras la firma por el agente responsable de las circulaciones de la red. Este habrá aplicado previamente las medidas de seguridad inscritas en el boletín diario (corte de tensión, puesta fuera de servicio de vías, protección mediante señales fijas o móviles, dispositivos de inmovilización, llaves de obras para pasos a nivel, etc.…).
+Los artículos 72 y 73 del RGS fascículo IV capítulo II relativos al procedimiento a seguir para la puesta fuera de servicio de una vía y un modelo de documento S427 se recogen en el anexo 2 bajo el nº 414502408-RGS-S427.
+4.
+El S 477:
+El S477 es el registro de constataciones, instrucciones y órdenes de los técnicos destinado al personal de la red o a otros colegas técnicos.
+Un ejemplar se encuentra en cada puesto de señalización para uso del personal de la red, pero también en cada paso a nivel (S477 técnico) para uso exclusivo de los técnicos.
+Un modelo de S477 y el extracto relativo al Reglamento General de la Señalización III título I cap I punto K con un ejemplo de S477 se encuentran en el anexo 3 bajo el nº 414502408-RGS-S477)
+5.
+El E 934:
+El E394 es un cuaderno compuesto por varias columnas destinado a la inscripción de las comunicaciones de seguridad.
+6.
+Los Planos técnicos:
+En cada instalación técnica, una colección completa de planos se deposita en una sala técnica para uso de los técnicos de mantenimiento. Estos planos no son accesibles a las demás categorías de personal.
+
+
+## Página 16
+
+C.
+Obras a ejecutar en la línea 144 y los procedimientos de aplicación para la puesta fuera de servicio de las vías.
+1.
+Las obras del 03 de marzo.
+Las obras del 03 de marzo debían permitir verificar y garantizar la calidad de la vía B antes de una circulación intensa en esta única vía a partir del 04 de marzo para obras de larga duración en la vía A.
+### Inicialmente estaban previstas obras de "apriete de fijaciones" en la vía A de 09h30 a 13h50.
+No era necesario ningún tren de obras.
+Este trabajo no impone la publicación de una ILT dado que solo interviene una especialidad técnica y las obras se recogen en la lista de obras que no requieren una ILT.
+Por el contrario, se necesita un BNX 414502408-BNX-3H1-66270-01 que permite la puesta fuera de servicio de la vía para las obras planificadas. Este BNX se recoge en el anexo 4. Fue redactado por el responsable de la vía del distrito de Namur.
+Teniendo en cuenta que se había creado una zona fangosa a finales del invierno en la vía B, el responsable del servicio de la vía del distrito de Namur (ver punto 3) dio prioridad a obras de saneamiento de la vía, posponiendo para más tarde el apriete de fijaciones.
+Estas obras de saneamiento se programaron para la fecha del 03 de marzo inicialmente prevista para el apriete de fijaciones sin que el BNX se adaptara a la nueva naturaleza de las obras.
+Un cambio de esta naturaleza no modifica el contenido del BNX.
+Quedando inalterados todos los demás aspectos de orden práctico, el responsable de la vía del distrito de Namur no consideró por tanto necesario informar a sus colegas.
+Una grúa debía trabajar puntualmente sin perturbar el buen funcionamiento de los pasos a nivel, de ahí la mención "circulación prevista" en el S427.
+Intervención del servicio de la vía el 03 de marzo.
+Se redactó un S427 para la vía B a las 08h30 por el jefe de trabajo del servicio de la vía (ver punto 3) para el saneamiento de zonas fangosas con circulación prevista. (Ver anexo 5: 414502408-S427-VB030308).
+Se redactó un S427 a las 09h00 por el mismo agente para el corte de la vía A (Ver anexo 6: 414502408-S427-VA030308).
+
+
+## Página 17
+
+2.
+Las obras previstas a partir del 04 de marzo.
+A partir del 04 de marzo y durante un período de 120 días, debían tener lugar en la línea 144 obras de varias especialidades (Obras de Arte, vía, catenaria). En este contexto, toda modificación que implique la seguridad de las circulaciones debe ser objeto de una ILT redactada conforme a las prescripciones del Reglamento General de la Señalización RGS fascículo IV título II artículos 92 y 93. (ver 414502408-RGS-ILT en anexo 1).
+Se redactó bien una ILT 1/L144/entretien OA/VBu (en el anexo 7 bajo el nº 414502408-ILT1 L144 VBu) para unas obras que comenzaban el 04-03-2008.
+Esta se refiere a las siguientes obras:
+- Mantenimiento de las obras de arte (OA).
+Las obras consistían en un mantenimiento generalizado (reparación de mampostería, corte de matorrales, desbroce, renovación de barandillas, cepillado de las paredes rocosas) en todas las obras de arte (pasos inferiores y superiores, pasos a nivel).
+En los puentes pk 0.472; 5.514; 8281; 8.697 y 10.623, se renueva la capa de impermeabilización, lo que implica las siguientes obras, en cada obra de arte:
+- Retirada de las vías *;
+- Excavaciones hasta el arranque de las bóvedas, blindajes;
+- Demolición de la protección de la capa;
+- Realización del drenaje;
+- Realización de la capa y de la contracapa;
+- Rellenos;
+- Reposición de las vías *;
+- Obras para la puesta en servicio de la vía (balasto, …)*.
+Las obras cuya mención está provista de un asterisco son ejecutadas por el servicio de la vía.
+En el túnel pk 9.467, está previsto un rejuntado completo de la mampostería y unas inyecciones. Se instalarán andamios sobre la vía fuera de servicio.
+Se tratan las siguientes paredes rocosas (cepillado, anclajes,…):
+- Onoz 1: del pk 9.350 al pk 9.388;
+- Onoz 2: del pk 9.595 al pk 9.620;
+- Onoz 3: del pk 10.300 al pk 10.500.
+
+## Página 18
+
+Los trabajos de «Obras de arte» están encomendados a la empresa privada TWT, calle de Géron, n.º 41, 5300 Seilles.
+- Trabajos de vía en la vía A y en la vía B.
+- Cribado de balasto en la vía B.
+- Circulación del tren de trabajos P811 de renovación de raíles, traviesas y balasto en las vías A y B.
+- Trabajos de catenaria complementarios a los trabajos de Vía y Obras de arte.
+- Trabajos de señalización complementarios.
+
+Estos trabajos consistían en neutralizar las zonas de anuncio de los pasos a nivel 2 (Km 1.270) y 9 (Km 10.205) en la vía A, desde el 4 de marzo hasta el 8 de julio.
+En la vía B, la fecha de neutralización debía definirse más tarde, según una fecha por determinar.
+Puede constatarse que esta ILT incluía numerosos trabajos de varias especialidades. Estos trabajos entrelazados se realizaron inicialmente en una sola vía y, posteriormente, en las dos vías.
+Para el detalle de estos trabajos, véase el documento del anexo 7.
+La ILT preveía la neutralización de las zonas de anuncio de los pasos a nivel 2 y 9, así como la instalación de señales móviles (SM) y petardos en cada cruce de paso a nivel (PN).
+
+## Página 19
+
+- Neutralización de las zonas de anuncio de los pasos a nivel 2 y 9.
+La ocupación prolongada por parte de maquinaria de obras provocaría un cierre prolongado de los pasos a nivel afectados. Los automovilistas y los peatones se verían tentados a cruzarlos tras un tiempo de espera.
+Los trabajos previstos a partir del 4 de marzo requieren la seguridad de los pasos a nivel respecto al tráfico rodado.
+No es posible mantener en servicio el mando automático de la señalización de los pasos a nivel durante los trabajos ferroviarios.
+La cancelación de una zona de anuncio es una medida interna de la Dirección de Infraestructura y aplicable bajo ciertas condiciones para una vía fuera de servicio (instalación de dispositivos de seguridad para la protección de los PN).
+Pueden aplicarse dos métodos:
+- El sistema materializado de neutralización de las zonas de anuncio de los pasos a nivel. (Véase el punto 5 de las recomendaciones).
+- La vigilancia.
+La neutralización de una zona de anuncio de un paso a nivel mediante la neutralización de los circuitos de vía puede realizarse si las dos soluciones anteriores no son aplicables.
+En cualquier caso, deben garantizar el mantenimiento de la seguridad para el usuario del paso a nivel. (Véase el interior de una caseta y una parte de la modificación de los circuitos).
+En el caso de que nos ocupa, la línea ferroviaria está fuera de servicio para la circulación normal de los trenes y, además, la ILT prevé la instalación de señales móviles y petardos en los pasos a nivel 2 y 9.
+- El funcionario director solicitó la neutralización de las zonas de anuncio durante la reunión preparatoria de la ILT.
+- Tras un rechazo por parte del personal de mando presente en la reunión y, posteriormente, del ingeniero de distrito de señalización, la solicitud fue concedida por el responsable de la señalización de la zona sureste en Lieja.
+- La autorización se concede y notifica al responsable de la señalización del distrito 44 en Namur y, en particular, al jefe de trabajo D.
+- El funcionario director recibe copia de la autorización el 26 de febrero.
+A continuación, se muestra la vista interior de una caseta de paso a nivel.
+
+## Página 20
+
+Compartimento  
+Chasis de cables y relés  
+de vigilancia  
+de seguridad Vía B  
+Luces Campanas Barreras  
+Chasis Lógica de  
+                                       LLL  Local  
+Chasis de cables y relés  
+de seguridad Vía A  
+Vía B hacia Gembloux
+L 144
+Vía A hacia Jemeppe sur Sambre
+
+## Página 21
+
+Cable blanco de puenteo sobre el chasis A  
+para la cancelación de las zonas  
+de anuncio  
+fusible retirado del chasis A  
+para la extinción de la luz blanca
+
+## Página 22
+
+3.  
+Los intervinientes.
+Los distintos intervinientes pertenecen a la zona de Lieja y al distrito 44 de Namur, cuyo organigrama se representa a continuación.
+Jefe de servicio de la zona
+Zona Sureste
+de Lieja
+Infraestructura
+      Lieja
+IR en jefe
+Jefe de división adjunto
+Jefe de división adjunto
+señalización
+obras de arte OA
+Ing principal
+IR principal
+IR funcionario
+director
+(1)responsable de los
+trabajos OA
+Subjefe de
+sector OA
+Jefe de trabajo A
+Nivel de mantenimiento
+Distritos
+41 a 46
+Ing principales adjuntos
+
+## Página 23
+
+Distrito 44 de Ronet 
+              (Namur)
+Jefe de distrito     
+Oficina
+Infraestructura 44
+administrativo
+Cuadros IR e Ing
+Ingeniero pal adj
+Ing Vía (2)
+Ing señalización
+(4)
+ 1 CST Vía 
+  (3)  
+Jefe de trabajo B
+Agentes de 
+Estación de Gembloux
+Estación de Gembloux
+mando
+Subjefe de sector
+Subjefe de 
+técnica
+sector técnico
+Vía  
+Señalización (5)
+jefe de trabajo D
+jefe de equipo
+Técnico y
+Jefe de Mantenimiento
+Jefe de Mantenimiento
+Jefe técnico
+Agente de 
+Agente de Mantenimiento
+Técnicos
+Especializado 
+Mantenimiento
+Especializado 
+Agente de Mantenimiento
+(funcionario)
+
+## Página 24
+
+- A. Servicio de Obras de Arte (OA)
+El ingeniero del servicio de OA, n.º (1) en el organigrama, es el funcionario directivo del conjunto de las obras. Es responsable de la redacción y distribución de la ILT. Tiene una misión de coordinación con respecto a los demás servicios implicados. El adjunto del responsable de OA es el jefe de trabajo A de la ILT.
+
+- B. Servicio de Infraestructura de vía
+El ingeniero de vía, n.º (2) del distrito 44, con sede en Namur (perteneciente a la zona de Lieja), participó en la elaboración de la ILT y solicitó las interrupciones de vía que dieron lugar a la publicación de un BNX. Es responsable de las obras de vía programadas para el 3 de marzo. Decidió las modificaciones intervenidas en la naturaleza de las obras previstas.
+
+- El primer jefe de sector técnico de vía, n.º (3), 1CST vía, es también jefe de trabajo B en la ILT. Se ocupaba de las obras realizadas en las vías A y B del tramo Gembloux-Jemeppe-sur-Sambre. Es el tercer escalón en la escala profesional de la categoría de mando, asimilado a un técnico de gestión. Está bajo las órdenes del responsable de obras de infraestructura de vía del distrito 44 de Namur.
+
+- C. Servicio de Infraestructura de señalización
+
+- El ingeniero de la parte de señalización, n.º (4), del distrito 44 de Ronet (zona de Lieja), participó en la elaboración de la ILT. Ordenó las modificaciones a realizar en los pasos a nivel. Es el jefe inmediato del subjefe de sector técnico (definido más abajo) que actuaba como tal y que realizó las modificaciones en los pasos a nivel n.º 2 y 9 el 3 de marzo. Participó en la preparación del trabajo en la línea L 144.
+
+- El jefe técnico que actuaba como subjefe de sector técnico (SCST señalización), n.º (5), es el jefe de trabajo D en la ILT. Es el primer escalón de la categoría de mando, dirigiendo equipos compuestos por jefes técnicos, técnicos e incluso ajustadores mecánicos.
+
+Este agente participó en la redacción de la ILT de aplicación a partir del 4 de marzo y modificó el 3 de marzo las zonas de anuncio de los pasos a nivel n.º 2 y 9 en vía A de la línea 144. También participó los días 15 y 22 de febrero, en sustitución de su jefe, en las reuniones de preparación del trabajo en la línea 144.
+
+
+## Página 25
+
+Capítulo V: Investigación y análisis.
+A. Análisis de la aplicación de los procedimientos
+
+1.
+Obras del 4 de marzo
+ILT
+La preparación se llevó a cabo correctamente mediante la organización de dos reuniones previas:
+
+- una reunión de oficina organizada por el funcionario directivo el 15 de febrero de 2008.
+
+- una reunión en obra el 22 de febrero de 2008.
+
+Se redactó un documento de proyecto de ILT por parte del funcionario directivo. Este documento circuló entre los distintos servicios implicados, tanto técnicos como gestores del tráfico ferroviario.
+
+La publicación de la ILT es tardía. La distribución tiene lugar la mañana del día 3, cuando la mayoría de los interesados ya han partido a campaña.
+
+El acuse de recibo (bz) no puede llegar, por tanto, a tiempo. El funcionario directivo no puede comprobar que haya llegado correctamente a los destinatarios.
+
+El BNX del 4 de marzo se distribuyó el 19 de febrero.
+
+Se puede lamentar la ausencia de los responsables de vía y electricidad en las reuniones previas.
+
+2.
+Obras del 3 de marzo
+
+Las obras de los días 3 y 4 de marzo son de naturaleza diferente.
+Las obras del 3 de marzo debían garantizar la circulación de los trenes por la única vía B durante el periodo de puesta fuera de servicio de la vía A para las obras de mantenimiento de las obras de arte.
+
+Su sucesión con un día de intervalo es fortuita.
+
+Para las obras del 3 de marzo, el apriete de fijaciones, que posteriormente se convirtió en un tratamiento de zonas fangosas, no imponía la publicación de una ILT.
+
+Durante el cambio de la naturaleza de las obras del 3 de marzo (apriete de fijaciones a tratamiento de zonas fangosas), no circuló ninguna información escrita entre los servicios para señalar la modificación de la naturaleza de las obras.
+
+
+## Página 26
+
+No existe trazabilidad de las conversaciones que pudieron tener lugar. Se podría haber redactado un adendo al BNX por parte del responsable del servicio de vía.
+
+El S427.
+Los S427 relativos a las puestas fuera de servicio de las vías B y A se introdujeron reglamentariamente por el jefe de trabajo del servicio de vía (anexos 5 y 6).
+
+No obstante, cabe señalar que el gestor de las circulaciones debería verificar la concordancia entre los datos del BNX y la inscripción en el S427.
+
+Las inscripciones en el S427 completado por los agentes del servicio de vía adolecen de falta de rigor. No se indican:
+
+- la naturaleza de las obras en vía A,
+
+- la hora de puesta en servicio en vía B
+
+El subjefe de sector de señalización debería haber completado el S427 previsto para las obras relacionadas con la seguridad de las circulaciones, ya sea con el encargado del puesto de señalización o con el jefe de trabajo del servicio de vía. El jefe de trabajo del servicio de vía introdujo el S427 ante el gestor de las circulaciones de Gembloux.
+
+## Página 27
+
+B. Investigación del accidente.
+1.
+Declaraciones y constataciones
+(Véase la lista de intervinientes en el apartado 3 del capítulo IV.C)
+Resumen de la audiencia del Jefe de Servicio de Electricidad y Señalización del distrito de Namur. (N.º 5 en el organigrama)
+Declara que se celebró una primera reunión el 15-02 para el trabajo del 4 de marzo, con la presencia de los representantes de los demás servicios, pero no asistieron los jefes inmediatos de los servicios de vía y señalización.
+De inmediato, se presenta una solicitud de puesta fuera de servicio de los circuitos de aviso de pasos a nivel. El Jefe de Servicio de Señalización se niega inicialmente. El funcionario director se ofrece a solicitar la aprobación del responsable de infraestructura de señalización del distrito.
+Una segunda reunión tiene lugar en el lugar de trabajo el 22-02. La reunión estaba destinada a la planificación de las obras de las estructuras y de la vía.
+Declara que la forma de trabajar para la redacción de la ILT ha cambiado desde hace algún tiempo. Anteriormente, se celebraba una reunión previa en el despacho del responsable de sección de vía y se disponía de plazos más largos que permitían una publicación de al menos 15 días antes del inicio del trabajo.
+Declara también que el final de mes se dedica prioritariamente a la fichaje del personal. De hecho, eso es lo que hizo los días 28 y 29 de febrero para liberar la jornada del lunes con el fin de modificar la instalación de los pasos a nivel 2 y 9.
+Declara que el 3 de marzo, sale por la mañana sin haber recibido aún la ILT del 4 de marzo, pero sí los BNX de los días 3 y 4 de marzo, de los cuales ha tomado conocimiento. Piensa erróneamente que se encuentra en la fase de trabajos de 120 días. La interrupción se realiza a largo plazo por otro responsable de obra.
+(Los BNX del 3 de marzo y del 4 de marzo se adjuntan en el anexo 4)
+Declara que para este tipo de trabajo no se elabora ni aprueba ningún plano. La ejecución se realiza sobre la base de una modificación similar, cuyas partes a fichar figuran en el S477 del paso a nivel. Por lo tanto, ha reproducido la modificación realizada múltiples veces en esta línea, donde no se materializan las anulaciones de las zonas de aviso de los pasos a nivel. (Véase el punto 5 de las recomendaciones).
+Declara no haber indicado en el S477 del paso a nivel N.º 2 la obligación de colocar bengalas y banderas, aunque sí lo indicó en el paso a nivel N.º 9. El Jefe de Servicio de Señalización, creyendo que modificaba la instalación en la fecha correcta, imaginó que el responsable de vía iba a colocar
+
+## Página 28
+
+los dispositivos de protección. No impuso a este último que los colocara antes de cualquier modificación de los circuitos.
+Declara que su reciente función de subjefe de sector técnico interino no lo eximió de su antigua actividad de jefe técnico en lo relativo a los recordatorios, así como de las intervenciones en solicitudes procedentes del servicio de obras del distrito. En la fecha del accidente, la plantilla real era inferior en un 30 % respecto a la plantilla teórica.
+Declara no haber recibido ninguna tutoría relativa a su nueva misión de subjefe de sector interino. No recibió supervisión para este trabajo concreto.
+Conclusión de la audiencia del Jefe de Servicio de Señalización.
+Resulta claramente durante la audiencia del Jefe de Servicio de Señalización que este estaba convencido de que la modificación de las zonas de aviso de los pasos a nivel debía tener lugar ese lunes 3.
+Debería haber estado de vacaciones ese lunes y acudió especialmente para modificar la instalación.
+Anticipó el trabajo de fichaje de final de mes los jueves 28 y viernes 29 de febrero con el fin de liberar tiempo para el trabajo del lunes 3.
+Se produjeron varios cambios:
+- de fecha de inicio de los trabajos del servicio de estructuras (OA);
+- de naturaleza del trabajo para el servicio de vía.
+Estos cambios generaron confusión en su espíritu.
+En el BNX del día 3, en el apartado H relativo a los pasos a nivel automáticos, se estipula claramente que no es necesaria ninguna intervención. Reconoce haber leído «por encima» el BNX del día 3 antes de dirigirse al lugar de trabajo.
+Los documentos que llegan tarde son de naturaleza a aumentar la confusión.
+La jerarquía directa, que interviene en el proceso de programación del trabajo, no controla las intervenciones.
+Al trabajar en las dos funciones de jefe técnico y de subjefe de sector, no se produjo una separación de las misiones de ejecución y de control.
+La jerarquía admitió este principio.
+Resumen de la audiencia del Jefe de Servicio de Vía N.º (3).
+Declara que se detuvo en el paso a nivel N.º 9 y se reunió con el Jefe de Servicio de Señalización para informarse sobre lo que este estaba haciendo. El Jefe de Servicio de
+
+## Página 29
+
+la señalización le informó de que modificaba los circuitos de aviso del paso a 
+nivel. El 1CST vía creyó que en realidad estaba preparando los circuitos para 
+el día siguiente. 
+Afirma que la labor del 03 de marzo consistió en tratar un fango 
+descubierto a la salida del invierno, con prioridad sobre la labor de apriete 
+de fijaciones que podía realizarse en la interrupción del servicio OA. Esta labor 
+conllevaba la colocación sobre raíles de una máquina mixta carretera-ferrocarril, 
+y esta operación se realizaba fuera de las zonas de aviso de los pasos a 
+nivel. No había ILT para la labor del 03 ni motivo para crear una específicamente 
+para dicha labor. 
+Afirma asimismo haber recibido la ILT del 04 de marzo la tarde del día 03. 
+Conclusión de la declaración del 1CST vía 
+El primer jefe de sector vía se encontró con el SCST señalización en el paso a 
+nivel n.º 9 por casualidad. Se detuvo y se dirigió a la caseta del paso a 
+nivel donde trabajaba el SCST señalización. De ello dedujo que el SCST 
+señalización estaba trabajando en la preparación de la modificación del día 
+siguiente. 
+Del mismo modo, cuando el SCST señalización le pide que coloque los 
+dispositivos de protección, responde afirmativamente pensando también en el 
+día siguiente, ya que ese lunes está ocupado en el tratamiento de un fango 
+descubierto a finales del invierno. Es necesario intervenir con prioridad antes de 
+la circulación del tráfico por la única vía B. Dado que esta labor no conllevaba 
+la publicación de una ILT (no estaba previsto ningún cribado, pero sí había una 
+colocación sobre raíles de una máquina mixta carretera-ferrocarril) ni la 
+circulación de un tren de carretera, no había motivo para iniciar un procedimiento 
+de modificación del boletín. 
+Resumen 
+de 
+la 
+declaración 
+del 
+ingeniero 
+de 
+señalización 
+del distrito de Namur, Ronet n.º (4). 
+Afirma, en primer lugar, haberse negado a derivar las zonas de aviso del paso a 
+nivel. Deben examinarse siempre otras soluciones. En efecto, tras un accidente 
+ocurrido poco tiempo antes en la red, una nota de Infrabel prohibió las 
+modificaciones de circuitos sin la autorización previa de las autoridades. Fue 
+después de recibir la autorización por correo electrónico del responsable del 
+distrito cuando se adoptó finalmente la decisión de derivar las zonas de aviso de 
+los dos pasos a nivel. 
+Afirma que no sabía que el SCST señalización iba a modificar los circuitos 
+el 03 de marzo. 
+Afirma asimismo que se han propuesto propuestas de materialización de la 
+derivación de las zonas de aviso que nunca se han adoptado. Se trata del 
+sistema materializado que consiste, mediante la acción de una llave de seguridad, 
+en anular las zonas de aviso excepto el circuito que cruza la 
+
+## Página 30
+
+carretera. Este sistema impide abrir las señales y, por consiguiente, 
+expedir trenes hacia la zona de trabajos. 
+Afirma que los trabajos de última hora son habituales. Por lo tanto, 
+están cada vez menos coordinados (a la carta) y son fuente de 
+malentendidos entre servicios. 
+Conclusión de la declaración del ingeniero de señalización 
+En el caso de la labor a realizar en el paso a nivel 2, cabe señalar 
+que no hubo ni control ni evaluación de la actividad de este joven 
+agente en la función de subjefe de sector técnico. Había realizado 
+esta labor en varias ocasiones como electromecánico. La intervención 
+se había vuelto rutinaria sin un plan de estudio basado en los datos 
+antiguos de inscripciones en el S 477 del paso a nivel. El ingeniero 
+de señalización asume la responsabilidad de las puestas en servicio 
+y la firma de todos los planos. 
+Resumen de la declaración del ingeniero de vía del distrito de 
+Namur, Ronet n.º (2). 
+Afirma no haber cambiado ni adaptado la solicitud de trabajos, ya 
+que la labor realizada y la labor prevista (tratamiento de un fango en 
+lugar del apriete de fijaciones) no son en sí mismas diferentes en 
+cuanto a las medidas de seguridad. Por lo tanto, bastaba con solicitar 
+la interrupción como estaba previsto, especificando que se trataba 
+de un fango en lugar del apriete de fijaciones. El S 427 se completó 
+en este sentido. (Ver 415402408-S427 VB 030308 en el anexo 5) 
+Explica que el servicio OA pospuso en varias ocasiones la fecha de 
+inicio de sus trabajos. El responsable de vía decidió por tanto 
+continuar con su propia labor en lugar de inscribirse en el marco de 
+las interrupciones de vía concedidas al servicio de obras de arte. 
+Esta es la razón por la que la fecha del lunes 03 de marzo se fijó 
+mucho antes que la del servicio de obras de arte. La primera fecha 
+disponible para el inicio de los trabajos de OA se fijó el 04 de marzo. 
+Por falta de coordinación entre estos trabajos, no hubo fusión de las 
+diferentes interrupciones de vía. 
+Señala la falta de uso de los medios modernos para la transmisión 
+de documentos (ILT) y de sus modificaciones. En una época en la 
+que se realizan trabajos importantes y las modificaciones son 
+numerosas, es necesario que estas últimas circulen rápidamente, de 
+forma nominativa además de en las cajas funcionales. 
+Conclusión de la declaración del responsable de la parte de vía 
+Sabía muy bien que la labor había cambiado, pero estimaba que no 
+había motivo para modificar el BNX dado que: 
+
+## Página 31
+
+- 
+la labor no se situaba en zonas de aviso de paso a 
+nivel. (No se instauró la guardia). 
+- 
+trabajaba solo. 
+- 
+esta labor no modificaba las condiciones de seguridad (no se 
+publicó ningún adendo a la ILT).
+
+## Página 32
+
+2.  
+Reconstitución de los hechos  
+Los hechos que conducen al accidente ferroviario en el paso a nivel n.º 2 el 3 de marzo de 2008 deben enmarcarse en el contexto de las obras en la línea 144, Gembloux – Jemeppe-sur-Sambre:  
+•  
+Obras para el mantenimiento generalizado de las obras de arte, con trabajos de vía y señalización asociados, cuyo inicio estaba programado para el 4 de marzo de 2008.  
+Conforme al RGS, estas obras son objeto de una ILT, elaborada reglamentariamente pero no siempre explícita en todos sus puntos y realizada en concertación con todas las partes interesadas.  
+-  
+Su distribución es, no obstante, tardía, la tarde del 3 de marzo.  
+Esta ILT prevé, entre otras cosas, la anulación de las zonas de aviso de los PN 2 y 9, así como la colocación de banderas y petardos para garantizar la protección del tráfico rodado y ferroviario en los pasos a nivel.  
+La anulación de las zonas de aviso en los pasos a nivel es aprobada por el responsable de la señalización de la zona sureste en Lieja.  
+Se redacta y distribuye a tiempo un BNX adecuado.  
+•  
+Obras de vía para garantizar la calidad de la vía y la seguridad de las circulaciones de los trenes mientras la vía A está fuera de servicio.  
+Estas obras concernen inicialmente al apriete de las fijaciones de los raíles, pero finalmente se da prioridad a la saneamiento de zonas fangosas, producidas durante el invierno. Estas obras están programadas para el 3 de marzo de 2008.  
+Conforme al RGS se redacta y distribuye un BNX. Los trabajos no implican más que una sola especialidad técnica y no obligan a la elaboración de una ILT.  
+•  
+Se trata de trabajos de diferente naturaleza, sin vínculo en sus modalidades de ejecución. No requieren por sí mismos de coordinación.  
+Obras de vía del lunes 03 de marzo.  
+El lunes 3 de marzo de 2008, fecha programada para las obras de saneamiento de zonas fangosas, el jefe de trabajo del servicio de la vía (Ver organigrama) introduce a las 08h30 para estas obras un documento S427 con el fin de obtener el cierre de la vía B.  
+Esta solicitud, prevista en un BNX (Ver anexo 4) para el apriete de fijaciones, es concedida por el gestor de las circulaciones (Cabina de  
+
+
+## Página 33
+
+señalización de Gembloux). Ver documento 414502408-S427-VB030308 anexo 5.  
+Este agente introduce a las 09h00 un S427 para trabajos de la misma naturaleza sobre la vía A y se concede el cierre de la vía. Ver documento 414502408-
+S427-VA030308 anexo 6.  
+Intervención del servicio de señalización el lunes 03.  
+El SCST señalización (Ver organigrama n.º 5) inicia su servicio en Namur (Ronet), toma, según su declaración, conocimiento del BNX pasándolo por alto. Este último menciona trabajos de apriete de fijaciones. Sale acompañado del jefe técnico que hace las funciones con la intención de anular las zonas de aviso de los PN 2 y 9, previsto en la ILT para el reemplazo de las obras de arte (Inicio de las obras programado para el 4 de marzo).  
+La anulación de los avisos a distancia de los pasos a nivel 2 y 9 durante la duración del fuera de servicio de la vía es aprobada por el funcionario, responsable de la señalización de la zona sureste.  
+El SCST señalización dispone, a su salida de la oficina, del BNX para los trabajos relativos al mantenimiento generalizado de las obras, pero la ILT concerniente no llegará hasta la tarde de ese día.  
+La jerarquía directa del SCST señalización no conoce la agenda de este, ni las actividades programadas para ese día.  
+A la llegada al PN 2, el SCST señalización toma contacto por teléfono con el gestor de la red (cabina de señalización de Gembloux) que le confirma que se ha concedido un cierre de la vía A al servicio de la vía.  
+Olvida contactar al jefe de trabajo de la vía, titular del documento S427 que autoriza el fuera de servicio de la vía, contrariamente a lo que exige la reglamentación.  
+Ejecuta la neutralización de los circuitos de aviso a distancia de los trenes. La modificación de la instalación de seguridad concernida se realiza técnicamente de forma correcta. En calidad de jefe técnico, el agente ya había realizado en este lugar este tipo de intervención, bajo la supervisión de su subjefe de sector técnico.  
+Cabe destacar que el SCST señalización interviene en una instalación que garantiza la seguridad ferroviaria sin instrucciones formalizadas de la jerarquía directa y sin control sobre la ejecución.  
+Esta intervención se realiza sin que previamente el servicio de la vía haya colocado las banderas y petardos que protegen el paso a nivel.  
+Esta prescripción de seguridad está, no obstante, recogida en la ILT.  
+
+
+## Página 34
+
+A continuación, el esquema de los circuitos de aviso del PN 2 modificado:  
+Aviso a 896 m  
+Aviso a 1278 m  
+PN 2  
+en vía normal  
+en contra-vía  
+CV 1  
+CV3 activo  
+CV5  
+Vía A  
+neutralizado  
+Longitud 100 m  
+neutralizado  
+CV6  
+CV4  
+CV2  
+Vía B  
+Aviso a 896 m en  
+Aviso a 855 m en contra-vía  
+vía normal  
+Se dirige al PN 9 para realizar las mismas modificaciones. Para el paso a nivel 9, completa el S477. Se encuentra con el 1CST vía (jefe de trabajo B) sin despertar las sospechas de este. Le recuerda la colocación de las banderas y petardos. Este último no acoge la solicitud porque, para él, el SCST señalización prepara los circuitos para el día siguiente. El 1CST vía piensa que colocará los dispositivos de seguridad al día siguiente.  
+Terminadas las modificaciones, el SCST señalización regresa a la oficina para terminar sus trabajos de carácter administrativo. En ese momento, la ILT del 04 de marzo se distribuye, pero pospone su lectura para el día siguiente.  
+Vía A restituida al servicio.  
+A las 14h20 el jefe de trabajo de la vía restituye la vía A al servicio.  
+A las 17h03, un peatón cruza el paso a nivel n.º 2 sin ser consciente de que las luces blancas están apagadas y de que no puede cruzar las vías más que tomando las precauciones necesarias.
+
+## Página 35
+
+3. 
+Lagunas / anomalías 
+1. El 3 de marzo de 2009, la línea se puso fuera de servicio sobre la base del documento 
+S427 de uso, sin que hubiera concordancia entre las naturalezas de las obras 
+mencionadas en el documento y las inscritas en el BNX correspondiente. 
+2. El SCST señalización parte la mañana del 3 de marzo para anular las zonas 
+de aviso en la vía A de los pasos a nivel 2 y 9, sin que estas 
+modificaciones estuvieran previstas en el BNX del 3 de marzo. En ese momento, él 
+poseía el BNX del 04 de marzo, pero aún no el ILT de las obras del 
+04, en el cual figura la adaptación de las zonas de aviso de los pasos a nivel 
+2 y 9. 
+3. El SCST señalización comienza las modificaciones tras un contacto 
+telefónico con la cabina de señalización. No solicita al 
+servente del puesto de señalización para completar un S427. No toma 
+contacto con el jefe de obras del servicio de la vía. Al actuar así, 
+no respeta la normativa RGS Libro V Título IV Cap 1 art 2. 
+La intervención en la instalación de seguridad del paso a nivel se realiza 
+sin que la jerarquía directa tenga conocimiento de que la ejecución se lleva a cabo ese 
+día, y no da instrucciones formalizadas sobre las modificaciones a 
+ejecutar y sobre los controles a realizar. 
+Los circuitos de vía a distancia se puentean sin que previamente se hayan 
+colocado las banderas y petardos en la vía, como impone el ILT. 
+Neutraliza parcialmente la aparición de la pequeña alarma en cabina que 
+se produce automáticamente durante el apagado de las luces blancas. De esta 
+manera, la pequeña alarma puede seguir apareciendo en el bloqueo, ya sea durante una 
+interrupción del suministro eléctrico (el paso a nivel puede seguir funcionando 24 
+horas con sus propias baterías para alimentar las luces rojas, las 
+barreras y su lógica interna), ya sea por la detección de una luz roja fundida. 
+Un técnico puede entonces intervenir durante su toma de servicio. 
+No hay que perder de vista que la vía B permanece en servicio hasta una fecha 
+a determinar por un nuevo BNX. 
+4. El encuentro entre el SCST señalización y el 1CST de la vía, aunque 
+fortuito, no permite al primero darse cuenta de su error. 
+5. El usuario del paso a nivel cruza las vías sin tomar las 
+precauciones del código de la carretera. (Luces blancas apagadas). 
+
+
+## Página 36
+
+Capítulo VI: Conclusiones. 
+Las causas del accidente. 
+Causa primaria: 
+La causa primaria del accidente es una cancelación prematura de las zonas 
+de aviso de los pasos a nivel, en concreto del paso a nivel n.º 
+2, sin respetar los procedimientos previstos por la normativa. Esta 
+cancelación debía inscribirse en las obras de renovación de las obras de 
+arte, cuyo inicio estaba programado para el 4 de marzo de 2008. Debido a una 
+confusión de fechas, la cancelación de las zonas de aviso se realizó el 3 de marzo 
+de 2009. 
+El usuario del paso a nivel n.º 2 no fue, por tanto, avisado a tiempo del 
+tren en aproximación y cruzó las vías, aparentemente sin tomar las 
+precauciones adicionales cuando las luces blancas están apagadas. 
+Causas subyacentes: 
+1. Una no aplicación del procedimiento S427 (solicitud de autorización de 
+trabajo): 
+-  Se descuida la aplicación de los procedimientos previstos. La intervención en el 
+paso a nivel n.º 2 se realiza sin que el subjefe de sector 
+complete el S 427 de uso, ya sea con el servente o con el jefe 
+de obras. 
+-  Los circuitos de vía a distancia se puentean sin que previamente 
+se hayan colocado las banderas y petardos en la vía como prevé 
+la normativa y el ILT. 
+2. Una falta de rigor en la aplicación de los procedimientos: 
+-  Los documentos de uso no recogen siempre todas las 
+informaciones 
+útiles 
+y 
+su contenido 
+no corresponde necesariamente a la realidad del terreno; (el ILT no recoge 
+explícitamente la cascada del S427, el BNX del 3 de marzo no menciona 
+las obras ejecutadas en el terreno, el S427 del 3 de marzo no 
+corresponde al BNX, el BNX de las obras 
+-  Circulan documentos en períodos poco compatibles con las 
+fechas de las obras, sin que se hayan extraído consecuencias para la ejecución, (el ILT para las obras, 
+que comienzan el 4 de marzo, se distribuye la tarde del 03 de marzo)  
+-  No se utiliza los documentos de manera rigurosa, su 
+lectura es superficial, (el BNX de las obras del 3 de marzo prevé 
+
+
+## Página 37
+
+claramente que ninguna intervención en los pasos a nivel es 
+necesaria). 
+3. Las condiciones de la intervención en esta instalación que asegura la 
+seguridad de la explotación ferroviaria no respetan los principios 
+elementales y las reglas prácticas que deberían regir tales 
+intervenciones: 
+- 
+la modificación de la instalación se realiza sin instrucciones precisas 
+sobre las manipulaciones a realizar y sin control de la correcta 
+ejecución 
+- 
+El seguimiento directo de la ejecución por parte de la línea jerárquica es deficiente. 
+4. Las obras del 3 y del 4 de marzo de 2008, que aunque no tienen una relación 
+directa, se suceden a un día de intervalo, entre dos puestas fuera de servicio 
+de la línea. Esto implica un riesgo de confusión, a pesar de la existencia de 
+procedimientos para garantizar el desarrollo de cada trabajo específico con toda 
+seguridad. 
+
+
+## Página 38
+
+Causas básicas: 
+En el caso de este accidente, el sistema de gestión de la seguridad debería 
+garantizar de manera suficiente: 
+- La evaluación adecuada de las aptitudes técnicas y características 
+necesarias para desempeñar la función. 
+- La circulación eficaz de las comunicaciones internas. 
+- El control de situaciones estresantes que podrían perjudicar la correcta 
+ejecución de las tareas.
+
+## Página 39
+
+Capítulo VII: Recomendaciones.
+1. El Organismo de Investigación recomienda a Infrabel que lleve a cabo acciones, por una parte, para una aplicación estricta y rigurosa de los procedimientos relativos a la puesta fuera de servicio de una línea ferroviaria en caso de obras y, por otra, para la mejora de las modalidades de redacción de los documentos utilizados. Están especialmente afectados:
+1.1 ILT:
+- precisar cómo se realizan las cascadas S427 entre los jefes de obra para garantizar la seguridad. Los jefes de obra designados deberían llevar a cabo un breveing previo al inicio de la obra. Tras la finalización de las obras, también debe celebrarse una reunión de debriefing en las mismas condiciones que la celebrada al inicio de la obra. Dicha reunión debería permitir poner de manifiesto las deficiencias, errores y olvidos con el fin de aprovechar la experiencia de dicho trabajo.
+- distribuir el documento a todos los servicios una semana antes del inicio de los trabajos, so pena de aplazamiento de los mismos o de reunión de briefing particular por parte de los responsables de servicio. El funcionario director debe haber recibido los acuses de recibo de todos los intervinientes para asegurarse de que todos conocen las particularidades de la obra y sus implicaciones.
+1.2 S 427:
+El documento S427 debe utilizarse obligatoriamente para trabajos susceptibles de modificar las condiciones de seguridad.
+El S 427 debería ser preciso en la redacción, con las casillas debidamente completadas y es indispensable una referencia al nº de la ILT.
+
+
+## Página 40
+
+2. Los trabajos y las modificaciones en las instalaciones de seguridad.
+Para las intervenciones en las instalaciones de seguridad, el respeto de un procedimiento estricto, en particular la aplicación de la nota 22 apéndice B, habría permitido despertar sospechas y evitar el accidente. (Ver documento 414502408-Extrait notice 22 en annexe 8).
+Este procedimiento implica:
+- a nivel del estudio:
+Los planos modificados son elaborados por el personal de dirección del distrito en el caso de Gembloux. Este indica en color rojo las adiciones y resalta en amarillo las supresiones.
+Los estudios se envían entonces al servicio de estudio de señalización de la zona para su control y aprobación tras la visación del ingeniero del distrito.
+- a nivel del control del estudio:
+Un (primer) jefe de sector controla el estudio;
+El ingeniero de señalización de la zona aprueba los planos y las eventuales modificaciones aportadas por el servicio de estudio del distrito.
+- a nivel de la ejecución:
+Los planos aprobados se envían al servicio de ejecución para adaptar los circuitos bajo la responsabilidad de un personal de dirección de ejecución. En el caso que nos ocupa, es el personal del distrito el que se encarga de la ejecución.
+- las seguridades y pruebas de integración:
+Una vez que las modificaciones en los circuitos han sido realizadas, un jefe de sector técnico realiza las pruebas. En esta etapa, el equipo de ejecución solo interviene como ayuda bajo las órdenes del jefe de sector.
+Tan pronto como las pruebas de integración se han completado, pueden contemplarse o realizarse verificaciones basadas en recorridos realizados por un vehículo motorizado.
+3. La puesta en servicio de un sistema materializado para la supresión temporal de las zonas de anuncio.
+Este sistema materializado, muy extendido en la red, aporta una solución muy segura en todos los casos de puesta fuera de servicio de vía y de utilización de trenes de obras en los pasos a nivel
+
+
+## Página 41
+
+encontrados. El accidente que se produjo en Gembloux no habría ocurrido si se hubiera instalado un dispositivo de este tipo. En una época en la que el personal es reducido, la vigilancia de los pasos a nivel ya no puede contemplarse para este tipo de trabajos. El puenteo de la instalación de seguridad anula todas las disposiciones de seguridad de un sistema intrínsecamente seguro.
+4. La aplicación de un sistema de gestión de la seguridad.
+La lectura de este informe muestra hasta qué punto el control de las actividades del personal es importante. Es indispensable que la jerarquía esté presente en todas las etapas de los proyectos, pero también que las experiencias adquiridas sean analizadas y deriven en modificaciones en los métodos de trabajo. El cambio de función del agente debe recibir una atención particular tanto en su acompañamiento como en la evaluación de su capacidad para comprender correctamente su nueva misión.
+
+
+## Página 42
+
+Lista de los anexos:
+- Anexo 1: 414502408-RGS-ILT es el extracto del Reglamento General de la Señalización que impone la publicación y el contenido de la ILT.
+- Anexo 2: 414502408-RGS-S427 es el extracto del Reglamento General de la Señalización que trata de la obligación y de la redacción del cuaderno de seguridad para obras.
+- Anexo 3: 414502408-RGS-477 es el extracto del Reglamento General de la Señalización que trata del registro de constataciones, instrucciones y órdenes de los técnicos a uso de los gestores del tráfico ferroviario.
+- Anexo 4: los boletines para obras publicados para el trabajo previsto en la línea 144.
+- Anexo 5: 414502408-S427 VB 0303 es el boletín redactado el 03 de marzo para la interrupción de la vía B.
+- Anexo 6: 414502408-S427 VA 0303 es el boletín redactado el 03 de marzo para la interrupción de la vía A.
+- Anexo 7: 414502408-ILT /144/02/Entretien OA/Vbu es la instrucción local temporal publicada para el trabajo concerniente en la línea 144.
+- Anexo 8: 414502408-Extrait notice 22.
+
+
+## Página 43
+
+Anexo 1: 414502408-RGS-ILT
+
+
+## Página 44
+
+
+## Página 45
+
+
+## Página 46
+
+
+## Página 47
+
+
+## Página 48
+
+
+## Página 49
+
+
+## Página 50
+
+Anexo 2: 414502408-RGS-S427
+
+
+## Página 51
+
+
+## Página 52
+
+
+## Página 53
+
+Anexo 3: 414502408-RGS-477
+
+
+## Página 54
+
+
+## Página 55
+
+
+## Página 56
+
+Anexo
+4:
+BNX
+3H1-66270
+(03
+marzo
+2008)
+BNX-3H1-66338-01 (04 marzo 2008)
+
+
+## Página 57
+
+
+## Página 58
+
+
+## Página 59
+
+Anexo 5: 414502408 -S427-VB 0303
+
+
+## Página 60
+
+
+## Página 61
+
+Anexo 6: 414502408 -S427-VA0303
+
+
+## Página 62
+
+
+## Página 63
+
+Anexo 7: 414502408-ILT/L144/entretien OA/VBu 66270
+
+## Página 64
+
+Dirección Infraestructura SE 
+Liège, 18 de febrero de 2008 
+Zona Lieja 
+### Tel :   
+## 941/21.21 
+Ref : ILT1/L144/entretienOA/VBu 
+### Línea 144 : Gembloux – Jemeppe-Sur-Sambre 
+## INSTRUCCIÓN LOCAL TEMPORAL A PONER EN VIGOR 
+Imputaciones:  
+A.  OA : 5409.10.1440 
+V : cribado: 
+V : P811 : 2451.430.400 
+### Objeto  
+A. Mantenimiento de las obras de arte en la línea 144; 
+B. Cribado de la vía B 
+C. P811 en las vías A y B; 
+D. Trabajos de catenaria complementarios a los trabajos V y OA; 
+E. Trabajos de señalización complementarios a los trabajos V y OA. 
+*  *  *  * 
+## DISTRIBUCIÓN  
+Infrabel – Región Namur - Oficina Movimiento “Trabajos” 
+3 ej. 
+I-R.241 (Control de Tráfico), sección 60 Bruselas 
+1 ej. 
+I SE Lieja (Oficina M) 
+1 ej. 
+Red Disreg Namur 
+1 ej. 
+M., Jefe de distrito – I.44 Ronet  para dar seguimiento a M. DELFOSSE, TTV 
+1 ej. 
+M., Ing., I.44  Ronet  (ES) 
+1 ej. 
+M., Ing., I.44  Ronet  (V)                           
+1 ej. 
+M., 1° Cabo de sección Ronet 
+3 ej. 
+M., Cabo de sección  ff E.S. Señal, I.44   Ronet  
+1 ej. 
+M., Cabo de sección. F.M., ES I.44  Ronet   
+1 ej. 
+M. Cabo T. Elm ff ES Señal Ronet 
+1 ej. 
+M. Cabo T. Elm Señal Gembloux 
+1 ej. 
+
+
+## Página 65
+
+Sra., ing. trabajos I SE Lieja 
+2 ej. 
+Servicio de Finanzas V-E.S. Lieja 
+1 ej. 
+Sr. PPT I-I SE Lieja 
+1 ej. 
+Srta., ir, I SE K Lieja 
+2 ej. 
+M., schst.; OA, I SE K 2 Namur 
+1 ej. 
+M., ir ISE E Namur (catenaria) 
+1 ej. 
+M., schsct., I ES Cat – Ronet 
+2 ej. 
+
+
+## Página 66
+
+## CAPÍTULO 1 - DESIGNACIÓN DE LOS TRABAJOS 
+A. Mantenimiento de las obras de arte en la línea 144; 
+B. Cribado de la vía B 
+C. P811 en las vías A y B; 
+D. Trabajos de catenaria complementarios a los trabajos V y OA; 
+E. Trabajos de señalización complementarios a los trabajos V y OA. 
+## CAPÍTULO 2 - DESCRIPCIÓN DETALLADA DE LOS TRABAJOS 
+## 20. 
+### Parte edificios y obras de arte 
+Trabajos regulados por el CSC n.º 57/53/4/05/71 
+Los trabajos consisten en un mantenimiento generalizado (reparación de mamposterías, 
+corte de matorrales y desbroce, renovación de barandillas,…) en 
+todas las obras de arte (PI, PS, MS, A) 
+En los pasos inferiores km 0,472 y 8,281, así como en los puentes km 5,514; 8,697 y 
+10,623, se renueva la capa de impermeabilización, lo que implica los siguientes trabajos, 
+en cada obra de arte:  
+- 
+Retirada de las vías; 
+- 
+Excavaciones hasta el arranque de las bóvedas, blindajes;  
+- 
+Demolición de la protección de la capa; 
+- 
+Realización del drenaje; 
+- 
+Realización de la capa y de la contracapa; 
+- 
+Rellenos; 
+- 
+Colocación de las vías 
+- 
+Trabajos para la puesta en servicio de la vía (balasto, …). 
+En el túnel km 9,467, se prevé un rejuntado completo de la mampostería y 
+inyecciones. Se instalarán andamios sobre la vía fuera de servicio.  
+Las siguientes paredes rocosas se tratarán (cepillado, anclajes,…):  
+- 
+Onoz 1: desde el km 9,350 hasta el km 9,388;  
+- 
+Onoz 2: desde el km 9,595 hasta el km 9,620; 
+- 
+Onoz 3: desde el km 10,300 hasta el km 10,500. 
+Los trabajos "Obras de arte" se confían a la empresa: 
+TWT 
+41, rue de Géron à 5300 Seilles 
+Planificación de la obra. 
+
+
+## Página 67
+
+Esta planificación se actualiza durante las reuniones semanales de la obra.  
+De manera general, los trabajos se organizan de la siguiente manera: 
+### 1) Puesta fuera de servicio continua de la vía A: del 4 de marzo de 2008 al 27 de junio de 2008 
+### 2) Puesta fuera de servicio continua de la vía B: fechas por precisar (duración: 120 
+días) 
+Durante la puesta fuera de servicio continua de una vía, deben realizarse todos los trabajos que requieran 
+esta puesta fuera de servicio de la vía (entre otros en los PI, P, en el T, 
+en las paredes rocosas, mencionados anteriormente) 
+## PARTE VÍA 
+## 21. 
+21.A. En las OA 
+Con vehículo rail-carretera sobre vía fuera de servicio  
+Los trabajos de vía a nivel de las OA se confían a TWT  
+Subcontratista: por precisar 
+Se impondrá un ART 40/60 km/h durante un plazo de 15 días de calendario sobre la 
+vía puesta en servicio, en cada obra donde se haya retirado la vía. 
+Circularán vehículos rail/carretera sobre la vía fuera de servicio para los trabajos de vía. 
+Se pondrán sobre raíles y fuera de raíles ya sea en el PN 2 (Km 1,270) ya sea en el PN 9 (Km 10,205), 
+a favor de S460. Las zonas de anuncio y los contadores de ejes se pondrán 
+fuera de servicio durante la puesta fuera de servicio de las vías (ver punto 24) 
+21.B.  En toda la línea fuera de obra de arte. 
+21.B.1. 
+Cribado 
+21.B.2. 
+P811 y renovación de rieles 
+Trabajos con empresa (CSC 57/52/4/07/40) 
+Trabajo: 
+vía B entre los BK 0,135 14,181 
+vía A entre los BK 13,130 y 14,199 
+- 
+Renovación de las traviesas mediante el tren P811 
+- 
+Renovación de los rieles 
+- 
+Recarga de terraplenes en vagones 
+- 
+Balasto 
+
+
+## Página 68
+
+Zonas de trabajo exactas: 
+| Vía | Naturaleza del trabajo | Zona de trabajo |
+| A | R+T | De BK 13 578 a 14 178 . . |
+|  | R | De BK 13 150 a 13 578 . . |
+| B | R+T | De BK 0 420 a 1 262 . . De BK 4 685 a 6 209 . . De BK 9 080 a 9 380 . . De BK 10 081 a 10 763 . . De BK 13 557 a 14 181 . . |
+|  | T | De BK 0 140 a 0 420 . . De BK 2 910 a 3 270 . . De BK 7 190 a 7 900 . . De BK 10 763 a 11 329 . . |
+Vía B: trabajo del 27 de agosto al 25 de septiembre 
+Vía A: trabajo del 26 de septiembre al 10 de octubre 
+Recorrido de trenes de carretera y P811 procedentes de Gembloux hacia Jemeppe sobre 
+Sambre (ver BNX para fechas y horas de recorrido) 
+Se publicará un complemento a esta ILT antes del inicio de los trabajos. 
+## 22. 
+### Parte catenaria 
+Medición de alturas y descentramientos. 
+Garantiza la puesta fuera de tensión según las BNX. 
+Una semana antes de la puesta en servicio de la vía, es necesaria una inspección de las catenarias 
+con el automotor. 
+## 23. 
+### Parte telecomunicación 
+- Ninguno 
+## 24. 
+### Intervención en los pasos a nivel y PANG 
+- Apagado de las luces blancas PN 2 a 9.  
+- Colocación de paneles para la canalización de 
+los viajeros. 
+La puesta en servicio de una vía no podrá ser efectiva hasta después, del desabroce de 
+los CV y la aprobación del servicio de señalización.
+
+## Página 69
+
+Los dispositivos de parada (SM d’arrêt) y las bengalas se colocan por el S.V. en cada paso a nivel (PN). Deberán ser recolocados después de cada maniobra de cruce por el paso a nivel.
+## CAPÍTULO 3 - MEDIDAS ESPECIALES DE SEGURIDAD A TOMAR
+## 32.
+### Caso de trabajos simultáneos de diferentes servicios
+- El jefe de trabajo A dirige los trabajos de "Obras de arte"
+- Se le llama la atención sobre el hecho de que no podrá poner la vía en servicio hasta que haya recibido el acuerdo escrito del o de los jefes de trabajo de los otros servicios a través del S 427
+- El jefe de trabajo B dirige los trabajos de vía
+- El jefe de trabajo C dirige los trabajos de catenaria y telecomunicaciones
+- El jefe de trabajo D dirige los trabajos de señalización
+## 33.
+### Medidas a tomar por el servicio R
+Las medidas de seguridad a aplicar se especifican en el anexo a la presente ILT, teniendo en cuenta los boletines que edita R4 N1.
+## 34.
+### Medidas a tomar por "Vigilancia" I/ES catenarias
+- Hacer colocar las pértigas de tierra y sus protecciones (pértiga fuera del gabarito)
+- Informar al personal bajo sus órdenes de los puntos de catenaria peligrosos
+- No autorizar el restablecimiento de la tracción eléctrica hasta haberse asegurado de que las líneas de catenaria son transitables
+## 35.
+### Medidas a tomar por el servicio I/Señalización
+- Modificación de las zonas de aviso del PN 2 y PN 9 del 4 de marzo al 8 de julio de 2008, vía A. En la vía B, las fechas para las modificaciones de las zonas de aviso se comunicarán con al menos 72 horas de antelación.
+- Puesta fuera de servicio de las luces blancas en el PN 2 y PN 9.
+- Verifica el circuito de retorno colocado por E.S. señalización.
+## 36.
+### Medidas a tomar por el servicio I/Vía (jefe de trabajo B)
+- Para el P811 vía A, lleva su cuaderno S427 con el bloqueo.
+- Para el P811 vía B y todos los demás trabajos de vía, presenta su cuaderno S427 al jefe de trabajo A al inicio y al final de sus trabajos
+- Verifica el buen estado de la vía al final del trabajo;
+- Delimita su obra mediante señales móviles duplicadas con una bengala a 100 m a cada lado de la zona de trabajo.
+
+
+## Página 70
+
+- Vigila la liberación del gabarito de la vía en servicio durante sus trabajos.
+- Se asegura de la continuidad del circuito de retorno de la corriente de tracción durante toda la duración de los trabajos.
+- Se asegura de la continuidad del circuito de retorno de la corriente de tracción durante toda la duración de los trabajos.
+- Dada la intervención de ES en los esquemas de las zonas de aviso del PN2 y PN9, los servicios V y OA tomarán las siguientes medidas para:
+1) garantizar la seguridad de los usuarios de la carretera durante el cruce de cada tren
+2) esperar el cierre completo del PN antes de su cruce y recolocar las señales móviles rojas y las bengalas en la vía a cada lado del PN.
+## 37.
+### Medidas a tomar por el servicio i/OA.
+37.1 Medidas a tomar por "vigilancia OA".
+- Recibe el S505 para información sobre la interrupción de la catenaria.
+- Asegura la vigilancia permanente de los trabajos OA, especialmente para la seguridad del tráfico (especialmente durante las grandes manipulaciones y durante los trabajos de demolición) y la seguridad del personal frente al tráfico ferroviario en la vía en servicio y frente al personal que realiza los trabajos de catenaria.
+- Coordina o impone las medidas de seguridad adecuadas con el responsable de la empresa privada (ver PSSa)
+37.3 Medidas a tomar por "ejecución" I/OA (jefe de trabajo A)
+- Lleva el cuaderno S 427.
+- Asegura la dirección inmediata de los trabajos.
+- Delimita la(s) obra(s) colocando a 100 m a cada lado una señal móvil duplicada con una bengala.
+- Coloca y retira la señalización adecuada de canalización de viajeros;
+- Protege a los agentes de la SNCB conforme a las prescripciones del RGPS.
+- Vigila la liberación de las vías vecinas en explotación.
+- Lleva el cuaderno S460 para los trabajos con posible invasión del gabarito de la vía vecina.
+- No pone la vía en servicio hasta después de la normalización de las instalaciones y la presentación del cuaderno S 427 de los otros jefes de trabajo.
+- Dada la intervención de ES en los esquemas de las zonas de aviso del PN2 y PN9, los servicios V y OA tomarán las siguientes medidas para:
+1) garantizar la seguridad de los usuarios de la carretera durante el cruce de cada tren
+
+
+## Página 71
+
+2) esperar el cierre completo del PN antes de su cruce y recolocar las señales móviles rojas y las bengalas en la vía a cada lado del PN.
+## 39.
+### Derogaciones
+Nada.
+## CAPÍTULO 4 -
+## INSTRUCCIONES PARA EL SERVICIO DE TRENES
+## 41.
+### Composición de los trenes de obra y evolución cronológica de los mismos.
+Ver también los boletines de R3 H1
+a) Parte vía
+a.1. Para OA: Circulación de máquinas de tipo rail-carretera en la o las vías fuera de servicio
+### Puesta sobre y fuera de raíles a la altura del PN 2 o del PN 9 o a nivel de una plataforma preparada por el adjudicatario en las proximidades de la pk 8.500 (bajo la cobertura del S460).
+a.2. Para V: a definir posteriormente
+b) Parte catenaria y telecomunicaciones
+Una semana antes de la puesta en servicio de la vía se realizará una inspección de las catenarias con el automotor y esto durante toda la semana. Salida CLI RONET y retorno.
+Introducido por Gembloux y salido por Jemeppe/sambre en vía A.
+Introducido por Jemeppe/sambre y salido por Gembloux en vía B
+## 42.
+### Caso del cuadro II a aplicar
+Puesta fuera de tensión por el agente de catenaria del caso 26415, 26414 (vía A) y/o 26424
+### (vía B), en las fechas y horas especificadas por los boletines de R3 H1 Namur
+## 43.
+### Puesta fuera de servicio de la vía.
+- Vía A entre Gembloux, señal LX 24 (pk 0.356) y Jemeppe Fdt, señal S 38 (pk 12.859).
+- Vía B entre Jemeppe/s/S señal SX38 (pk 12.859) y Gembloux, señal L24 (pk 0.169)
+En las fechas y horas especificadas por los boletines de R4 N1 Namur
+
+
+## Página 72
+
+## 44.
+### Reducción de velocidad
+A. Para OA: se impondrá un ART 40/60 km/h durante un período de 15 días de calendario en la vía puesta en servicio, en cada obra donde se haya retirado la vía
+B. Para V:
+## CAPÍTULO 5 -MODIFICACIONES A LA OFERTA DE SERVICIOS DE LOS APARATOS
+Nada.
+## CAPÍTULO 6 -MODIFICACIONES A LOS PLANOS
+Nada
+### CAPÍTULO 7 - PERSONAL ENCARGADO DE LOS TRABAJOS (a designar nominalmente, salvo para los hombres de equipo o los colocadores de vía)
+a)
+Vigilancia
+Servicio ES (catenaria)
+: Sr. ,schsctt ISE E1 Namur
+(tel: 961/2890 o 081/252890)
+Servicio ES (señalización)
+: Sr. r, Schst t Señal AI SE 44 Ronet (tel:
+961/2841 o GSM 0473/92.12.60)
+Servicio BOA
+: Sr., schst. OA a I SE K Namur (tel:
+961/2437 o GSM: 0473/92.13.77)
+Servicio Vía
+: Sr. - Ronet
+(tel: 0473/92.12.28)
+b)
+Ejecución
+Los trabajos "Obras de arte" se confían a la empresa:
+TWT
+Jefe de trabajo OA:
+Sr.
+Sr.
+Jefe de trabajo V: a precisar
+Jefe de trabajo ES cat.: A designar
+Jefe de trabajo ES Señal.:
+
+
+## Página 73
+
+Anexo 8: 414502408- Extracto de la nota 22.
+
+
+## Página 74
+
+
+## Página 75
+
+## Página 76
+
+
+## Página 77

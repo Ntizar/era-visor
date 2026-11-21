@@ -169,125 +169,43 @@
  },
  "md/PT/2018/PT 05.06.2018 RI_F2019_02_Inv_Colhida LSA_pub.md": {
   "fichero": "md/PT/2018/PT 05.06.2018 RI_F2019_02_Inv_Colhida LSA_pub.md",
-  "estado": "revisar",
-  "idioma": "PT",
-  "chars": 167687,
-  "ratio": 1.03,
-  "avisos": [
-   "bloque 5: ratio 0.54"
-  ],
-  "tokens_in": 60607,
-  "tokens_out": 42248,
-  "destino": "md-es/PT/2018/PT 05.06.2018 RI_F2019_02_Inv_Colhida LSA_pub.md"
+  "estado": "ya"
  },
  "md/PT/2018/PT-5610 - RI_2021_02_Colhida Leixoes_pub.md": {
   "fichero": "md/PT/2018/PT-5610 - RI_2021_02_Colhida Leixoes_pub.md",
-  "estado": "revisar",
-  "idioma": "PT",
-  "chars": 207982,
-  "ratio": 1.06,
-  "avisos": [
-   "bloque 26: cifras largas: faltan 4/11 (36%)",
-   "bloque 35: cifras largas: faltan 3/12 (25%)"
-  ],
-  "tokens_in": 76447,
-  "tokens_out": 56161,
-  "destino": "md-es/PT/2018/PT-5610 - RI_2021_02_Colhida Leixoes_pub.md"
+  "estado": "ya"
  },
  "md/PT/2017/PT 01.04.2017 RI_2019_01_final_v1.0_web.md": {
   "fichero": "md/PT/2017/PT 01.04.2017 RI_2019_01_final_v1.0_web.md",
-  "estado": "revisar",
-  "idioma": "PT",
-  "chars": 391234,
-  "ratio": 1.05,
-  "avisos": [
-   "bloque 6: ratio 0.59"
-  ],
-  "tokens_in": 148354,
-  "tokens_out": 105697,
-  "destino": "md-es/PT/2017/PT 01.04.2017 RI_2019_01_final_v1.0_web.md"
+  "estado": "ya"
  },
  "md/PT/2019/PT 31.01.2019 i007668.md": {
   "fichero": "md/PT/2019/PT 31.01.2019 i007668.md",
-  "estado": "revisar",
-  "idioma": "PT",
-  "chars": 123026,
-  "ratio": 1.02,
-  "avisos": [
-   "bloque 5: cifras largas: faltan 2/4 (50%)",
-   "bloque 6: ratio 0.72"
-  ],
-  "tokens_in": 49847,
-  "tokens_out": 33982,
-  "destino": "md-es/PT/2019/PT 31.01.2019 i007668.md"
+  "estado": "ya"
  },
  "md/PT/2019/PT 16.07.2019 RI_2020_03rev1_Inv_Colhida Caxias.md": {
   "fichero": "md/PT/2019/PT 16.07.2019 RI_2020_03rev1_Inv_Colhida Caxias.md",
-  "estado": "ok",
-  "idioma": "PT",
-  "chars": 186267,
-  "ratio": 1.04,
-  "avisos": [],
-  "tokens_in": 63108,
-  "tokens_out": 45447,
-  "destino": "md-es/PT/2019/PT 16.07.2019 RI_2020_03rev1_Inv_Colhida Caxias.md"
+  "estado": "ya"
  },
  "md/PT/2019/PT-6119 - RI_2022_03_Inv_Cortegaça_V1.0_pub.md": {
   "fichero": "md/PT/2019/PT-6119 - RI_2022_03_Inv_Cortegaça_V1.0_pub.md",
-  "estado": "ok",
-  "idioma": "PT",
-  "chars": 165087,
-  "ratio": 1.04,
-  "avisos": [],
-  "tokens_in": 64221,
-  "tokens_out": 47026,
-  "destino": "md-es/PT/2019/PT-6119 - RI_2022_03_Inv_Cortegaça_V1.0_pub.md"
+  "estado": "ya"
  },
  "md/PT/2019/PT-6124 - RI_2022_01_Veiculos_sem_freio_pub.md": {
   "fichero": "md/PT/2019/PT-6124 - RI_2022_01_Veiculos_sem_freio_pub.md",
-  "estado": "ok",
-  "idioma": "PT",
-  "chars": 166771,
-  "ratio": 1.04,
-  "avisos": [],
-  "tokens_in": 60367,
-  "tokens_out": 42502,
-  "destino": "md-es/PT/2019/PT-6124 - RI_2022_01_Veiculos_sem_freio_pub.md"
+  "estado": "ya"
  },
  "md/PT/2020/PT-6186 - F_RI2021_03_Inv_Colhida Coimbra_pub.md": {
   "fichero": "md/PT/2020/PT-6186 - F_RI2021_03_Inv_Colhida Coimbra_pub.md",
-  "estado": "ok",
-  "idioma": "PT",
-  "chars": 174335,
-  "ratio": 1.04,
-  "avisos": [],
-  "tokens_in": 61995,
-  "tokens_out": 45496,
-  "destino": "md-es/PT/2020/PT-6186 - F_RI2021_03_Inv_Colhida Coimbra_pub.md"
+  "estado": "ya"
  },
  "md/PT/2021/PT-10181 - RI_2022_02_Inv_PN_LAlentejo_v1.0_pub.md": {
   "fichero": "md/PT/2021/PT-10181 - RI_2022_02_Inv_PN_LAlentejo_v1.0_pub.md",
-  "estado": "ok",
-  "idioma": "PT",
-  "chars": 140571,
-  "ratio": 1.05,
-  "avisos": [],
-  "tokens_in": 48898,
-  "tokens_out": 35930,
-  "destino": "md-es/PT/2021/PT-10181 - RI_2022_02_Inv_PN_LAlentejo_v1.0_pub.md"
+  "estado": "ya"
  },
  "md/PT/2022/PT-10369 - RI2023_01.md": {
   "fichero": "md/PT/2022/PT-10369 - RI2023_01.md",
-  "estado": "revisar",
-  "idioma": "PT",
-  "chars": 159506,
-  "ratio": 1.04,
-  "avisos": [
-   "bloque 12: cifras largas: faltan 4/10 (40%)"
-  ],
-  "tokens_in": 58461,
-  "tokens_out": 40526,
-  "destino": "md-es/PT/2022/PT-10369 - RI2023_01.md"
+  "estado": "ya"
  },
  "md/PT/2006/PT-75 - F_RF_202202_Colhida_trabalhador_Cacela_20060711 (002).md": {
   "fichero": "md/PT/2006/PT-75 - F_RF_202202_Colhida_trabalhador_Cacela_20060711 (002).md",
@@ -307,13 +225,6 @@
  },
  "md/PT/2020/PT-6313 - i007699.md": {
   "fichero": "md/PT/2020/PT-6313 - i007699.md",
-  "estado": "ok",
-  "idioma": "EN",
-  "chars": 587775,
-  "ratio": 1.05,
-  "avisos": [],
-  "tokens_in": 212758,
-  "tokens_out": 149954,
-  "destino": "md-es/PT/2020/PT-6313 - i007699.md"
+  "estado": "ya"
  }
 }

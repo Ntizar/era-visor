@@ -10,13 +10,13 @@ chars: 207982
 ratio_longitud: 1.06
 tokens_in: 76447
 tokens_out: 56161
-verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 28: cifras largas: faltan 4/17 (24%)", "página 62: cifras largas: faltan 4/6 (67%)", "página 94: cifras largas: faltan 3/7 (43%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 2: cifras largas: 1/17", "página 3: cifras cortas: 2/8", "página 9: cifras cortas: 1/118", "página 11: original bilingüe: se compara contra el idioma principal (EN)", "página 12: cifras cortas: 3/9"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 TRANSPORTE FERROVIARIO
 Atropello de un trabajador por material móvil durante maniobras en la estación de Leixões,
@@ -34,8 +34,8 @@ FINAL REPORT
 INFRAESTRUTURAS
 E HABITAÇÃO
 
-
 ## Página 2
+
 
 ### Ficha Técnica
 Editor:
@@ -67,8 +67,8 @@ Control documental
 | N.º de versión | Fecha Resumen de los cambios |
 Informe n.º F_RI_2021/02
 
-
 ## Página 3
+
 
 ### Introducción
 ### Marco general
@@ -83,6 +83,7 @@ La identidad de las personas involucradas en los accidentes o incidentes está p
 Atropello de un trabajador por material móvil durante maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 4
+
 
 ### Despacho de homologación (transcripción)
 Considerando que: 
@@ -99,10 +100,10 @@ Conforme al n.º 4 del art.º 11.º-A del Decreto-Lei n.º 394/2007, homologo el
 El Director del GPIAAF, 
 Nelson Oliveira 
 (firmado en el original) 
-Informe n.º F_RI_2021/02 
-
+Informe n.º F_RI_2021/02
 
 ## Página 5
+
 
 ### Introducción 
 ### Resumen 
@@ -122,10 +123,10 @@ Conforme a la legislación europea y nacional, las investigaciones realizadas po
 Así pues, es inadecuada la utilización de los informes del GPIAAF para fines distintos de aquellos para los cuales fueron estructurados y redactados, dado que ello podría conducir a conclusiones erróneas. 
 Por estos motivos, el n.º 3 del artículo 11.º-A del Decreto-Lei n.º 394/2007 determina que este informe «no debe ser utilizado para otros fines que no sean la mejora de la seguridad, concretamente la determinación de culpas o responsabilidades».  
 Del mismo modo, el n.º 2 del artículo 12.º determina que las recomendaciones constantes del presente informe no deberán constituir, en ningún caso, presunción de culpa o de responsabilidad de alguna entidad o persona, respecto a un accidente o incidente. 
-Atropello de un trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de un trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 6
+
 
 ### Nota previa para el lector 
 En este informe, la representación de las unidades y números se realiza conforme al Sistema Internacional de Unidades (SI), a lo dispuesto en las normas de la serie ISO/IEC 80000 y a la norma portuguesa NP 9:1960. En los casos especiales en que otra unidad sea corrientemente utilizada en el medio ferroviario, esta será indicada acompañada de su equivalencia en el SI. 
@@ -136,6 +137,7 @@ Atropello de persona; conciencia situacional; factores humanos; higiene y seguri
 Informe n.º F_RI_2021/02
 
 ## Página 7
+
 
 ### Índice 
 ## ÍNDICE GENERAL 
@@ -262,10 +264,10 @@ Material rodante e instalaciones técnicas
 Factores humanos y organizativos 
 4.1.3.1. 
 Visibilidad del maquinista desde el puesto de conducción 
-Atropello de un trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de un trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 8
+
 
 4.1.3.2. 
 Influencia de las condiciones nocturnas en la visibilidad de la tripulación 
@@ -395,6 +397,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 9
 
+
 ### Índice 
 ## ÍNDICE DE CUADROS 
 Cuadro 1: Tiempos de respuesta de las entidades implicadas 
@@ -480,16 +483,16 @@ maquinista en la realización de maniobras
 Figura 34: Foto de 18-08-2021 señalando el lugar del accidente 
 66 
 Figura 35: Foto de 18-08-2021 vista de la vía I (a la izquierda) y del inicio del sector R (a la derecha) 
-Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 10
 
-Página dejada intencionadamente en blanco 
-Informe n.º F_RI_2021/02 
 
+Página dejada intencionadamente en blanco 
+Informe n.º F_RI_2021/02
 
 ## Página 11
+
 
 ### Resumen en inglés 
 ## RESUMEN EN INGLÉS 
@@ -615,6 +618,7 @@ Atropello de trabajador por material rodante en maniobras en la estación de Lei
 
 ## Página 12
 
+
 ### b) Breve descripción del suceso
 El 21 de febrero de 2018, alrededor de las 18:20 h, el jefe de operaciones de la terminal de mercancías de Leixões, un trabajador de la Empresa Ferroviaria MEDWAY, estaba desempeñando sus funciones y se dirigió al sector del patio de clasificación de la estación de Leixões para asistir y supervisar las maniobras, como solía hacer. Contrariamente a lo que se reportaba como práctica habitual, no llevaba chaleco de alta visibilidad.
 Ubicación del accidente
@@ -626,8 +630,8 @@ Al no haberse percatado nadie de que el trabajador había sido golpeado, quedó 
 La locomotora pasó dos veces sobre el lugar donde yacía el trabajador, sin que ello fuera advertido, hasta que el equipo de maniobra detectó a la víctima alrededor de las 19:25 h. Detuvieron inmediatamente todos los movimientos e intentaron evaluar la gravedad de la situación, tras lo cual se utilizó el número nacional de emergencias para solicitar asistencia médica.
 Relatório n.º F_RI_2021/02
 
-
 ## Página 13
+
 
 ### Resumen en inglés
 Un equipo de emergencias que viajaba en una motocicleta y en un vehículo llegó rápidamente a la estación de Leixões, pero los socorristas comprobaron que no había forma de acceder a la víctima con el equipo de rescate. Se encontró una solución improvisada utilizando una locomotora que, por casualidad, se encontraba en el lugar. Se realizaron varios viajes para transportar al personal médico y, finalmente, también a la víctima en una camilla hasta la ambulancia que estaba en la terminal de contenedores.
@@ -663,6 +667,7 @@ Atropello de un trabajador por material rodante durante maniobras en la estació
 
 ## Página 14
 
+
 Lo más probable es que el trabajador caminara por la vía debido a la falta de pasarelas adecuadas.
 Otros factores contribuyentes al accidente y sus consecuencias fueron:
 ― Formación inadecuada sobre los regímenes de maniobras con locomotoras de la serie 1400;
@@ -682,6 +687,7 @@ Por otro lado, este accidente también pone de relieve la importancia de un cont
 Relatório n.º F_RI_2021/02
 
 ## Página 15
+
 
 ### Resumen en inglés
 ### d) Recomendaciones de seguridad y sus destinatarios
@@ -706,8 +712,8 @@ En los emplazamientos ya en operación, estos deben verificarse de conformidad c
 
 Atropello de un trabajador por material rodante durante maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 16
+
 
 Planes de emergencia en la infraestructura ferroviaria donde se realizan maniobras de forma regular
 Recomendación de Seguridad n.º 2021/15: Se recomienda que IM Infraestruturas de Portugal, dentro de un plazo determinado por la ANSF, revise los planes de emergencia de todas sus instalaciones donde se realizan actividades de maniobra de forma regular con presencia de trabajadores sobre el terreno, con el fin de garantizar, de acuerdo con el grado de riesgo de las instalaciones, la definición de accesos adecuados para el rescate por parte de los servicios públicos, y para implementar las medidas que resulten de este análisis, incluida la realización de simulacros. Los planes deben ser debidamente comunicados y acordados con las entidades pertinentes.
@@ -722,8 +728,8 @@ Recomendación de Seguridad n.º 2021/17: Se recomienda que la EIE MEDWAY, dentr
 
 Informe n.º F_RI_2021/02
 
-
 ## Página 17
+
 
 ### Resumen
 ## 1. RESUMEN
@@ -737,6 +743,7 @@ Figura 2: Detalle del recorrido del trabajador y del movimiento de la locomotora
 Atropello de un trabajador por material rodante durante maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 18
+
 
 Nadie se percató del atropello del referido trabajador, quien quedó caído entre los dos raíles, en una zona libre del alcance del material rodante, mientras que la maniobra continuó ajena a lo ocurrido.
 La locomotora pasó otras dos veces sobre el lugar donde se encontraba postrado el trabajador sin que este fuera visto, hasta que el equipo de maniobras detectó a la víctima alrededor de las 19:25. De inmediato realizó la parada de todos los movimientos e intentó evaluar la gravedad de la situación, contactando seguidamente con el servicio 112 para solicitar asistencia médica de emergencia.
@@ -787,6 +794,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 19
 
+
 ### Resumen
 El presente accidente pone de manifiesto los riesgos asociados a la circulación sobre la vía férrea de los trabajadores implicados en las maniobras.
 Si bien no es posible prever y contemplar con pasarelas adecuadas todos los trayectos posibles dentro de una estación de clasificación o parque de estacionamiento de material, aun así es esencial que estas se instalen a lo largo de toda la instalación y de acuerdo con los recorridos más cortos para el uso previsible. Así, como mínimo, parece obvio que deberán existir pasarelas, ya sea de hormigón u otra superficie adecuadamente regular, estableciendo recorridos continuos entre los aparatos de cambio de vía (ACV) que deben ser maniobrados por los agentes de maniobra y también hasta la base de descanso de dichos agentes. En el caso que nos ocupa, resulta poco comprensible que no existiera un recorrido materializado desde el edificio de la estación de Leixões hasta la estación de clasificación y entre los extremos de esta.
@@ -805,11 +813,13 @@ Atropello de trabajador por material rodante durante maniobras en la estación d
 
 ## Página 20
 
+
 El GPIAAF emitió además una recomendación de seguridad, también dirigida al IMT y teniendo como implementador final a MEDWAY, relativa al control de la aptitud de los trabajadores para el desempeño de sus funciones.
 
 Informe n.º F_RI_2021/02
 
 ## Página 21
+
 
 ### La investigación y su contexto
 ## 2. LA INVESTIGACIÓN Y SU CONTEXTO
@@ -842,8 +852,8 @@ La investigación fue dirigida por un investigador responsable nombrado por el j
 Cuando fue necesario, se solicitaron informes externos de especialistas en materias específicas.
 Atropello de trabajador por material móvil durante maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 22
+
 
 ### 2.5. Proceso de investigación
 ### 2.5.1. Metodología
@@ -900,6 +910,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 23
 
+
 ### La investigación y su contexto
 ### 2.5.2. Recopilación y tratamiento de los datos de los registradores de eventos
 Se utilizaron los datos de los registradores de eventos de la locomotora 1446, así como del sistema de señalización de la infraestructura, facilitados por las respectivas empresas.
@@ -923,14 +934,14 @@ Sin perjuicio de los contactos y reuniones mantenidos durante el proceso de inve
 ² En el sentido del n.º 5 del art.º 10.º del Decreto-Lei n.º 394/2007, de 31 de diciembre, en la redacción conferida por el Decreto-Lei n.º 151/2014, de 13 de octubre.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 24
+
 
 Página dejada intencionadamente en blanco
 Informe n.º F_RI_2021/02
 
-
 ## Página 25
+
 
 ### Descripción del suceso
 ## 3. DESCRIPCIÓN DEL SUCESO
@@ -1046,6 +1057,7 @@ Atropello de trabajador por material rodante en maniobras en la estación de Lei
 
 ## Página 26
 
+
 ### 3.1.2. Descripción del lugar
 El accidente se produjo en la línea R1 del sector de clasificación de la estación de Leixões, infraestructura compuesta por diversas vías paralelas formando un haz, utilizadas para maniobrar y/o resguardar material rodante, formación y descomposición de trenes, en apoyo a las diversas instalaciones de transbordo de cargas existentes en la estación de Leixões, concretamente el terminal portuario y el terminal de contenedores. Este espacio se divide en dos grandes bloques: el denominado «sector de la estación» (terminal de mercancías) y el denominado «sector de clasificación».
 Figura 3: Imagen aérea de la estación de Leixões, con indicación de los dos sectores en que se divide
@@ -1056,8 +1068,8 @@ Figura 4: Extracto de la IS1 (estación de Leixões) - sector de clasificación�
 ³ IMT – Instrucción de Señalización n.º 1, Anexo 2 (Señalización de la Estación de Leixões). Lisboa: 2014.
 Informe n.º F_RI_2021/02
 
-
 ## Página 27
+
 
 ### Descripción de la incidencia
 Figura 5: Extracto de la IS1 (estación de Leixões) - sector de la estación⁴
@@ -1077,35 +1089,43 @@ Para ejercer su actividad de transporte de mercancías, disponía en la fecha de
 ⁶ La Autorización de Seguridad del gestor de la infraestructura fue revalidada por el IMT el 13 de agosto de 2019, con efectos desde el 01-09-2017.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 28
 
-Sistema de Gestión de la Seguridad n.º 03/2016, válida hasta el 31-03-2021, igualmente emitida por el IMT.
-De la ETF, estuvieron directamente implicados:
-― El gestor de tráfico del terminal de Leixões, con la categoría de inspector de transportes, que sería atropellado por la locomotora;
-― El maquinista de la locomotora que realizaba las maniobras;
-― Un encargado y un operador de maniobras.
+Sistema de Gestão da Segurança n.º 03/2016, válida até 31-03-2021, igualmente emitida pelo IMT.
+Da ETF, estiveram diretamente envolvidos:
+― O gestor de tráfego do terminal de Leixões, com a categoria de inspetor de transportes, que viria a ser colhido pela locomotiva;
+― O maquinista da locomotiva que realizava manobras;
+― Um encarregado e um operador de manobras.
+
 ### 3.1.6. Material rodante
+
 | Información identificativa general |  |  |  |  |  |  |
 | Identificación corriente | NEV | Detentor | ERM | Año de fabricación | Fabricante | Fecha de autorización de entrada en servicio |
 | LD1446 | 90 94 110 1446-9 | MEDWAY | MEDWAY | 1968 | Sorefame English Electric | 14-06-1968 |
 | Principales características técnicas relevantes |  |  |  |
-| Longitud total: | 12,72 m | Fuente de energía: | Gasóleo |
-| Ancho máximo: | 3,26 m | Transmisión: | Generador de corriente continua acoplado al motor diésel alimentando 4 motores eléctricos de tracción |
-| Peso en orden de marcha: | 64,5 t |  |  |
-| Peso máximo por eje: | 16,3 t | Sistemas de freno: | Aire comprimido UIC y manual. |
-| Potencia en ruedas: | 713 kW | Otras informaciones | Sistema ASFA; radio GSM-R; modo solo-tren; sistema de comunicación «Home-Voice»; |
+| Longitud total: | 1272 m , | Fuente de energía: | Gasóleo |
+| Ancho máximo: | 326 m , | Transmisión: | Generador de corriente continua acoplado al motor diésel alimentando 4 motores eléctricos de tracción , |
+| Peso en orden de marcha: | 645 t , |  |  |
+| Peso máximo por eje: | 163 t , | Sistemas de freno: | Aire comprimido UIC y manual . |
+| Potencia en ruedas: | 713 kW | Otras informaciones | [ilegible: texto corrupto] “O N V E M L -; orá rtd oio solo-comboio; sistema de ia m ” |
 | Velocidad máxima en autopropulsión: | 105 km/h |  |  |
-La locomotora pertenece a una serie de 67 unidades iguales, diseñada por el fabricante británico English Electric y construida por este y también por la fábrica portuguesa Sorefame, entrando en servicio entre los años 1967 y 1969. Existen actualmente en funcionamiento en la red ferroviaria nacional (RFN) aproximadamente 25 unidades, utilizadas por los operadores CP, MEDWAY y TAKARGO, y por la empresa de construcción SOMAFEL.
-Como característica relevante para la investigación, cabe señalar que está dotada de una única cabina de conducción, con dos consolas de mando permitiendo siempre la conducción de frente hacia el sentido de desplazamiento.
+
+La locomotiva pertenece a una serie de 67 unidades idénticas, proyectada por el fabricante británico English Electric y construida por este y también por la fábrica portuguesa Sorefame, entrando en servicio entre los años 1967 y 1969. Existen actualmente en funcionamiento en la red ferroviaria nacional (RFN) aproximadamente 25 unidades, utilizadas por los operadores CP, MEDWAY y TAKARGO, y por la empresa de construcción SOMAFEL.
+
+Como característica relevante para la investigación se señala que está dotada de una única cabina de conducción, con dos consolas de mando permitiendo siempre la conducción de frente al sentido de desplazamiento.
+
 © Eugénio Santos (adapt. por GPIAAF)
-Figura 6: Ilustración de locomotora de la serie 1400
-Tras el accidente fueron recogidos los datos del sistema de control automático de velocidad de la locomotora, el cual se encontraba en servicio.
-### 3.1.7. Meteorología
-En el momento del accidente el tiempo era seco y era de noche, habiéndose producido la puesta de sol a las 18:15 horas.
-Informe n.º F_RI_2021/02
+Figura 6: Ilustración de locomotiva de la serie 1400
+
+Tras el accidente fueron recopilados los datos del sistema de control automático de velocidad de la locomotiva, el cual se encontraba en servicio.
+
+### 3.1.7. Condiciones meteorológicas
+
+En el momento del accidente el tiempo estaba seco y era noche, habiéndose producido la puesta de sol a las 18:15 horas.
+Relatório n.º F_RI_2021/02
 
 ## Página 29
+
 
 ### Descripción del suceso
 ### 3.1.8. Comunicaciones
@@ -1123,8 +1143,8 @@ El día 21-02-2018, a las 18:20, el inspector de transportes de ETF con el cargo
 En la clasificación, se encontraba la locomotora diésel 1446 tripulada por un maquinista de la misma ETF y un equipo de dos operadores de maniobras, con vistas a la formación y desformación de trenes de mercancías y remolque de los vagones entre el sector de clasificación y el Puerto de Leixões.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 30
+
 
 Entre las 18:24:097 y las 18:31:158 la locomotora realiza la siguiente maniobra:
 Movimiento 2
@@ -1145,8 +1165,8 @@ Figura 8: Maniobra efectuada entre las 18:33:48 y las 18:44:37
 11 Hora del fin de la ocupación de la sección de vía correspondiente a los AMV 3/4/5 en dirección al sector de clasificación (R4).
 Informe n.º F_RI_2021/02
 
-
 ## Página 31
+
 
 ### Descripción del suceso
 A las 18:45:5112 la locomotora (aislada) se mueve en una nueva secuencia de maniobra, una vez más compuesta por dos movimientos.
@@ -1166,6 +1186,7 @@ Atropello de trabajador por material rodante en maniobras en la estación de Lei
 
 ## Página 32
 
+
 ### 3.2.2. Cadena de acontecimientos tras el atropello.
 Tras el atropello del trabajador, la unidad motriz continuó su maniobra con la tripulación ajena al suceso, no existiendo indicios ni indicación de que el suceso hubiera sido presenciado por nadie.
 Hasta la detección del trabajador atropellado se realizaron aún tres maniobras.
@@ -1184,8 +1205,8 @@ Figura 12: Maniobra efectuada entre las 19:19:39 y las 19:20:48
 ➢ Movimiento 2 - desde el ramal G1 hacia el Puerto de Leixões (sector de la estación) con un operador de maniobras en el primer vagón en el sentido del movimiento (con nuevo paso por el lugar donde la víctima estaba caída entre los raíles, sin que ello hubiera sido notado por ninguno de los agentes).
 Informe n.º F_RI_2021/02
 
-
 ## Página 33
+
 
 ### Descripción del suceso
 Alrededor de las 19:25:
@@ -1202,8 +1223,8 @@ Figura 14: Imagen aérea de la estación de Leixões, con indicación de los dos
 13 Categoría del funcionario que estaba en la estación de Leixões, perteneciente a la ETF.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 34
+
 
 Alrededor de las 19:53, cuando llegaron al lugar señalado en la Figura 14 ya se encontraba allí el coche médico del INEM (VMER del Hospital Pedro Hispano) y una motocicleta del INEM de Matosinhos, cuyo personal ya estaba junto a la víctima.
 Como medio de recurso improvisado, para efectuar el transporte entre el lugar donde se encontraban los medios de auxilio externo y el lugar donde se encontraba la víctima (unos 575 metros) se utilizó la locomotora del tren n.º 52815/4, que entretanto había llegado, y que realizó varios viajes para tal efecto.
@@ -1216,6 +1237,7 @@ La cronología de los eventos consta en el cuadro de la página siguiente.
 Informe n.º F_RI_2021/02
 
 ## Página 35
+
 
 ### Descripción del suceso
 Hora
@@ -1296,8 +1318,8 @@ Registro del fallecimiento.
 Cuadro 2: Secuencia de eventos de las operaciones de emergencia de los servicios públicos
 Atropello de trabajador por material rodante durante maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 36
+
 
 ### 3.2.4. Activación del plan de emergencia ferroviario
 Tras la detección del cuerpo caído y la notificación a los servicios competentes de la ETF, no fue activado el plan de emergencia general (PEG), debido a que el Centro de Mando Operacional (CCO) del gestor de infraestructura no fue avisado en tiempo útil. No obstante, tan pronto como este órgano de mando del GI se percató de la situación, envió al lugar a un inspector que llegó alrededor de las 20:48 (la evacuación de la víctima se produjo a las 20:35). Dicho trabajador del GI emitió un informe como gestor local de emergencia (GLE) sobre el suceso como si hubiera sido activado el PEG con la categoría «Amarillo»14.
@@ -1380,6 +1402,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 37
 
+
 ### Análisis
 ## 4. ANÁLISIS
 En la investigación de los hechos y de las constataciones relativas al accidente, así como en la determinación de los factores causales, se han identificado los siguientes aspectos principales, sobre los que se organiza este capítulo:
@@ -1402,8 +1425,8 @@ La última formación recibida relevante para las funciones que desempeñaba hab
 ¹⁵ Señalización portátil – de día bandera roja, enrollada o desplegada (de acuerdo con la orden a transmitir) y de noche con la linterna de señales utilizando para ello la luz blanca y la roja (de acuerdo con la orden a transmitir). Las señales también pueden ejecutarse con los brazos conforme al punto 89.1.3. del Reglamento General de Seguridad II – Señales.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 38
+
 
 ### Encargado de maniobras:
 Las funciones de encargado de maniobras están relacionadas con la ejecución del servicio de maniobras bajo la orientación del personal graduado de la estación (en este caso del inspector), ejecutando la señalización de las maniobras y el enganche y/o desenganche del material rodante de acuerdo con la maniobra a efectuar.
@@ -1429,6 +1452,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 39
 
+
 ### Análisis
 Sentido del movimiento en el momento del accidente
 EP Leixões
@@ -1445,8 +1469,8 @@ El faro principal de la locomotora tiene dos niveles de intensidad, debiéndose 
 16 GPIAAF - Descarrilamiento de locomotora en maniobras en la placa giratoria de la estación de Régua, el 27-09-2017. Lisboa: 2017.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 40
+
 
 Figura 18: Ilustración de la iluminación proporcionada por los focos de una locomotora serie 1400 con el faro en baja intensidad (imagen a la izquierda) y en alta intensidad (imagen a la derecha)
 Las imágenes ilustran claramente que, en condiciones nocturnas, las condiciones de iluminación proporcionadas por los focos de la locomotora en baja intensidad tienen un alcance y amplitud muy limitados, especialmente a nivel de la vía en las proximidades de la locomotora.
@@ -1463,6 +1487,7 @@ Maniobra compleja: movimiento de retroceso o de avance de material rodante en el
 Informe n.º F_RI_2021/02
 
 ## Página 41
+
 
 ### Análisis
 ### a) Régimen de maniobra a adoptar con locomotoras de la serie 1400
@@ -1489,8 +1514,8 @@ Sin embargo, como demostraron los ensayos de visibilidad realizados por la inves
 ¹⁸ Ver anexo 2.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 42
+
 
 ## SENTIDO DEL MOVIMIENTO
 Figura 19: Zona de obstrucción de la visibilidad (locomotoras EE serie 1400)
@@ -1511,6 +1536,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 43
 
+
 ### Análisis
 contrariamente a otras locomotoras, incluso más antiguas, diseñadas para su utilización en maniobras.
 Figura 20: Peldaños y barandillas para el personal de maniobras de las locomotoras de la serie 1400 (a la izquierda), comparados con locomotoras de otras series ya retiradas del servicio
@@ -1521,8 +1547,8 @@ No obstante, desde hace algunos años al menos algunas locomotoras de esta serie
 En situaciones similares, en otros países se han introducido modificaciones de las extremidades de las locomotoras mediante la instalación de puestos de trabajo seguros para la presencia del agente de apoyo en la maniobra.
 Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 44
+
 
 Figura 21: Ejemplos de locomotoras de diversas configuraciones y generaciones, con las cabinas adaptadas para la presencia de operadores de maniobras [imágenes: Christian Tellerup, Markus Tellerup y Frederik Tellerup]
 Más recientemente, han surgido también en el mercado sistemas tecnológicos de detección de obstáculos o de televisualización de la vía en la cabina.
@@ -1537,6 +1563,7 @@ En lo que respecta a la utilización de los estribos de extremidad de las locomo
 Informe n.º F_RI_2021/02
 
 ## Página 45
+
 
 ### Análisis
 En el ámbito de la utilización del espacio reservado para la formación y deformación de los trenes en la estación de Leixões, la ETF definió procedimientos para complementar los servicios de maniobra en los patios de material rodante.
@@ -1559,8 +1586,8 @@ No existían pasos peatonales para el cruce de las vías. Sobre este asunto, en 
 22 Documento anual aprobado por la Autoridad de la Movilidad y de los Transportes, que establece las características y condiciones en que la infraestructura ferroviaria es puesta a disposición de los operadores.
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 46
+
 
 al uso generalizado por los agentes de apoyo a la operación, lo cual implica que determinados itinerarios sean obligatoriamente efectuados cruzando las vías por encima del balasto y de las traviesas.
 Figura 22: Cruce hacia las vías de la estación/sector de clasificación
@@ -1569,8 +1596,8 @@ Figura 23: Caminos interrumpidos paralelos a las vías de la estación/sector de
 A la fecha del accidente, las losetas que forman los caminos estaban mayoritariamente niveladas, constituyendo un pavimento regular. A pesar de ello, en algunos lugares a lo largo del camino, las losetas se encontraban desniveladas longitudinal y transversalmente, en las condiciones que la siguiente foto documenta, causando puntualmente una irregularidad significativa en el pavimento.
 Informe n.º F_RI_2021/02
 
-
 ## Página 47
+
 
 ### Análisis
 Figura 24: Ejemplo de camino de losetas irregular
@@ -1585,6 +1612,7 @@ Atropello de trabajador por material rodante en maniobras en la estación de Lei
 
 ## Página 48
 
+
 - Lugar del atropello
 - Punto/torre de iluminación con focos fundidos
 - Punto/torre de iluminación funcional
@@ -1597,10 +1625,10 @@ Figura 27: Imagen de la cámara de videovigilancia existente en el lugar, un min
 ## 4.2.2.3. 
 ### Gestión y control de los riesgos 
 El gestor de infraestructura y las empresas de transporte ferroviario son responsables, ante los usuarios, los clientes, sus propios trabajadores y terceros, de la seguridad de la explotación de su parte del sistema ferroviario y del control de los riesgos asociados. En esta obligación se incluyen naturalmente los riesgos asociados a las condiciones en que se pone a disposición la infraestructura y en las que se realiza el trabajo. 
-Informe n.º F_RI_2021/02 
-
+Informe n.º F_RI_2021/02
 
 ## Página 49
+
 
 ### Análisis 
 ### Vías de circulación de los trabajadores 
@@ -1626,10 +1654,10 @@ La evaluación de la iluminancia realizada tras el accidente por una empresa ext
 23 Ley n.º 102/2009, de 10-03, republicada mediante la Ley n.º 3/2014, de 28 de enero. 
 24 SGS Portugal, S.A. - INFORME DE EVALUACIÓN DE ILUMINANCIA; Infraestruturas de Portugal, S.A.; Terminal de Leixões – Parque de Clasificación. 
 Informe N.º PTR18.00127.5900/2. 18 de mayo de 2018. 
-Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 50
+
 
 por el GI, con mediciones efectuadas el 19-04-2018, por tanto dos meses después del accidente y tras la reposición de las luminarias faltantes hecha el 16-03-2018, evidencia que en las vías del parque de clasificación, en particular en la zona donde se verificó el accidente, los valores de iluminancia eran aún muy inferiores a los estipulados por las normas de referencia.25  
 Zonas del accidente
@@ -1643,6 +1671,7 @@ El trabajador fallecido en el accidente tenía 47 años de edad y fue admitido e
 Informe n.º F_RI_2021/02
 
 ## Página 51
+
 
 ### Análisis
 Regulación RGS I” (en octubre de 2017). No existe motivo alguno para considerar que hubiera lagunas en el conocimiento y la competencia del trabajador sobre la regulación y los procedimientos de trabajo que intervinieron en el accidente.  
@@ -1661,10 +1690,10 @@ pasillo
 Lugar del atropello
 Línea R1
 Figura 30: Ilustración de la trayectoria del trabajador frente a los caminos formalizados 
-Atropello de un trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de un trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 52
+
 
 Teniendo en cuenta el trayecto y el lugar del atropello, no se puede excluir que la intención del trabajador fuera dirigirse hacia el pasillo que comenzaba precisamente en las inmediaciones. 
 El trabajador realizó su recorrido sobre la línea R1 aparentemente ajeno a la movilización de la locomotora en el parque, concretamente considerando que caminaba de espaldas respecto al lugar donde se encontraba la locomotora. 
@@ -1688,6 +1717,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 53
 
+
 ### Análisis
 El hecho de que el trabajador, en el momento del accidente, no estuviera utilizando los EPI adecuados, como por ejemplo el chaleco de alta visibilidad u otro que señalara su presencia, fue relevante dado que la deficiente iluminación en el lugar ocultó al personal de maniobras su presencia en el sitio.  
 No obstante, de la investigación no es posible concluir que, dadas las condiciones del entorno que presentaba el haz de vías de clasificación de la estación de Leixões en términos de iluminación y accesos, el recorrido efectuado por el inspector y la forma en que se desarrolló la maniobra de la unidad motriz, el uso del chaleco (parka u otro) de alta visibilidad hubiera podido evitar el accidente. Sin embargo, es legítimo considerar que la utilización del chaleco de alta visibilidad podría haber ayudado a detectar el cuerpo de la víctima más rápidamente, teniendo en cuenta el número de veces que la locomotora en maniobras pasó por ese mismo lugar tras el atropello, y así haber anticipado el inicio del proceso de auxilio por parte de los servicios competentes. 
@@ -1703,10 +1733,10 @@ El primer auxilio en llegar fue un enfermero del INEM que se desplazaba en una m
 Unos minutos después llegó una VMER del INEM con médico. 
 ### En la planificación de emergencias 
 El gestor de la infraestructura, como responsable de la estación de Leixões y como titular de una autorización de seguridad, así como la empresa de transporte ferroviario, tienen la obligación legal de establecer, de acuerdo con las autoridades públicas competentes, planes de emergencia, especialmente para las actividades desarrolladas en dicha instalación.  
-Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 54
+
 
 ### 4.3.2. Infraestructura 
 El sector de clasificación de la estación de Leixões carece de accesos rodoviarios, ni existían pasarelas de circulación interna que permitieran el acceso sin ser a lo largo de la vía férrea o sobre esta. 
@@ -1717,6 +1747,7 @@ A partir de ahí, no existían condiciones que permitieran un acceso directo y r
 Informe n.º F_RI_2021/02
 
 ## Página 55
+
 
 ### Análisis
 ### 4.3.3. La gestión de los riesgos y la seguridad
@@ -1743,8 +1774,8 @@ De forma general y en lo que respecta a la totalidad de la RFN, la estadística 
 28 UN ENFOQUE SISTÉMICO - Manual de aplicación para la concepción y aplicación de un Sistema de Gestión de la Seguridad ferroviaria. Agencia Ferroviaria Europea, 2010.
 Atropellamiento de trabajador por material circulante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 56
+
 
 ### Atropellamientos de trabajadores en la RFN
 ## 2009-2019
@@ -1773,20 +1804,21 @@ Informe n.º F_RI_2021/02
 
 ## Página 57
 
+
 ### Análisis 
 Se verificó posteriormente que el itinerario no se había realizado en las debidas condiciones de seguridad, estando alineado con el de la línea X únicamente un carril de la placa giratoria, aunque esta se encontraba debidamente encravada y con la señalización indicando que no existía impedimento para el paso. 
 Se identificó como uno de los factores causales de este accidente el hecho de que la maniobra fuera considerada por los intervinientes como simple en lugar de compleja, tal como correspondería al realizarse en retroceso; por ese motivo, la maniobra en la línea X no fue acompañada por un agente de apoyo para una mejor visualización del trayecto. 
 En cuanto a este aspecto, es relevante la constatación realizada durante la investigación de que existen entre el personal formador y aquel que debe aplicar la normativa sobre el terreno interpretaciones muy variadas sobre en qué situaciones las maniobras son simples o complejas, especialmente con locomotoras de la serie 1400, situación que fue identificada como necesitada de una atención especial en el nivel de formación y mantenimiento de competencias de los profesionales. 
-Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 58
 
-Página dejada intencionadamente en blanco 
-Informe n.º F_RI_2021/02 
 
+Página dejada intencionadamente en blanco 
+Informe n.º F_RI_2021/02
 
 ## Página 59
+
 
 ### Conclusiones 
 ## 5. CONCLUSIONES 
@@ -1815,10 +1847,10 @@ Recorrido de la locomotora
 Recorrido del 
 trabajador
 En los doce segundos siguientes que aún transcurrieron hasta el atropello, con el trabajador caminando siempre bajo la iluminación del punto de luz, pero en los cuales el maquinista no tiene ninguna posibilidad física de 
-Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 60
+
 
 visualización del trabajador, este permaneció ajeno a la aproximación de la locomotora 1446, cuyo ruido, relativamente reducido por ausencia de carga, queda integrado por el ruido del tráfico en el viaducto de la A28 y de la actividad industrial circundante, no habiendo sido posible para la investigación determinar eventual influencia sobre el trabajador de algún otro estímulo exterior, concretamente el uso de teléfono móvil. 
 De 18:46:32 a 18:46:44
@@ -1867,6 +1899,7 @@ Informe n.º F_RI_2021/02
 
 ## Página 61
 
+
 ### Conclusiones
 ### 5.1.1. Factores causales
 Por definición31 son cualesquiera acciones, omisiones, acontecimientos o condiciones, o una combinación de los mismos que, si se corrigieran, eliminaran o evitaran, habrían impedido la ocurrencia, con toda probabilidad.
@@ -1903,28 +1936,28 @@ FCon06) Entorno visual y sonoro en el lugar de trabajo, concretamente las defici
 32 Ídem.
 Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 62
 
-FCon07) La iluminación de la infraestructura no correspondía a lo requerido para el trabajo desarrollado en el lugar.
-|  | Fundamentación en 4.2.2.3 . . . |
-| FCon08) | Ausencia de accesos de emergencia a la zona de clasificación para socorro por los servicios públicos . |
-|  | Fundamentación en 4.3.2 . . |
-| FCon09) | Inexistencia de plan de emergencia específico para la zona de clasificación . |
-|  | Fundamentación en 4.3.3 . . |
-| FCon10) | Los sistemas de gestión de la seguridad del GI y de la ETF no fueron eficaces para identificar la subvaloración |
-|  | de diversos riesgos en las actividades desarrolladas en el lugar . |
-|  | Fundamentación en 4.1.4 . . |
-### 5.1.3. Comentarios de la investigación
-El presente accidente pone de manifiesto los riesgos asociados a la circulación sobre la vía férrea de los trabajadores implicados en las maniobras.
-Si bien es cierto que no es posible prever y contemplar con pasarelas adecuadas todos los trayectos posibles dentro de una clasificación o parque de material, aun así es esencial que estos sean instalados a lo largo de toda la instalación y de acuerdo con los recorridos más cortos para la utilización previsible. Así, como mínimo, parece obvio que deberán existir pasarelas, ya sea de hormigón u otra superficie adecuadamente regular, estableciendo recorridos continuos entre los AMV que deben ser maniobrados por los agentes de maniobra y también hasta la base de descanso de dichos agentes. En el caso que nos ocupa, es poco comprensible que no existiera un recorrido materializado desde el EP de la estación de Leixões hasta la clasificación y entre los extremos de esta.
-Esta ausencia de trayectos adecuados y conectados entre sí constituía un riesgo que no fue debidamente controlado por ambas empresas involucradas, teniendo la ETF un margen de intervención muy limitado en este aspecto.
-Como cualquier otro lugar de trabajo, este tipo de instalaciones ferroviarias debe estar dotado de las condiciones necesarias para que los trabajadores desempeñen su labor con seguridad, minimizando los riesgos personales inherentes a su actividad. Además de ser una obligación de la legislación laboral, tal requisito forma parte de los sistemas de gestión de la seguridad exigidos para el ejercicio de la actividad de gestión de la infraestructura y de transporte ferroviario. De hecho, si corresponde a las ETF garantizar las adecuadas condiciones de seguridad, higiene y salud a sus trabajadores, es al GI a quien compete garantizar la implementación y disponibilidad de dichas condiciones en lo que respecta a la infraestructura. Por ese motivo, es requisito del sistema de gestión de la seguridad del gestor de la infraestructura la existencia de “procedimientos para reconocer la necesidad de trabajar conjuntamente con (…) empresas ferroviarias (…), si es necesario, en materias en las que la compartición de interfaces puedan eventualmente afectar a la implementación de medidas adecuadas de control de riesgos”.
-En este ámbito, las accesibilidades seguras y las condiciones de iluminación conformes con las normas aplicables a los lugares de trabajo son esenciales. De esta forma, importa que la instalación y funcionamiento de estos elementos, responsabilidad del gestor de la infraestructura, estén sujetos a procedimientos que garanticen el estudio de las actividades a realizar y la definición de las soluciones más adecuadas, siempre de acuerdo con las normas y buenas prácticas en los ámbitos respectivos, y en estrecha interacción con las empresas de transporte ferroviario usuarias, aquellas que mejor conocen cómo se procesa el servicio en el lugar.
-Por otro lado, este accidente evidencia también la importancia de un eficaz y atento control por parte de la gestión de la ETF de la forma en que se procesan las maniobras en las infraestructuras, no solo para garantizar que se mantiene un elevado nivel de autoprotección por parte de todos los trabajadores, concretamente en cuanto a la efectiva utilización de los equipos de protección individual, sino igualmente con el fin de detectar y corregir oportunamente las no conformidades en la ejecución del servicio que revelen deficiencias sistémicas, como es el caso de las condiciones de ejecución de maniobras complejas con locomotoras de la serie 1400.
+FCon07) La iluminación de la infraestructura no se correspondía con la requerida para el trabajo desarrollado en el lugar.
+| | Fundamentación en 4223 . . . |
+| FCon08) | Ausencia de accesos de emergencia al área de clasificación para el socorro por los servicios públicos . |
+| | Fundamentación en 432 . . |
+| FCon09) | Inexistencia de un plan de emergencia específico para el área de clasificación . |
+| | Fundamentación en 433 . . |
+| FCon10) | Los sistemas de gestión de la seguridad del GI y de la ETF no fueron eficaces para identificar la infravaloración |
+| | de diversos riesgos en las actividades desarrolladas en el lugar . |
+| | Fundamentación en 414 . . |
+### 5.1.3. Comentarios de la investigación 
+El presente accidente pone de manifiesto los riesgos asociados a la circulación sobre la vía férrea de los trabajadores implicados en las maniobras. 
+Si bien es cierto que no es posible prever y contemplar con pasarelas adecuadas todos los trayectos posibles dentro de una estación de clasificación o parque de material, aun así es esencial que estas sean instaladas a lo largo de toda la instalación y de acuerdo con los recorridos más cortos para el uso previsible. Así, como mínimo, parece obvio que deberán existir pasarelas, ya sea de hormigón u otra superficie adecuadamente regular, estableciendo recorridos continuos entre los AMV que deben ser maniobrados por los agentes de maniobra y también hasta la base de descanso de dichos agentes. En el caso que nos ocupa, es poco comprensible que no existiera un recorrido materializado desde el EP de la estación de Leixões hasta la estación de clasificación y entre los extremos de esta. 
+Esta ausencia de trayectos adecuados e interconectados constituía un riesgo que no fue debidamente controlado por ambas empresas implicadas, siendo que la ETF tenía muy limitada margen de intervención en este aspecto. 
+Como cualquier otro lugar de trabajo, este tipo de instalaciones ferroviarias debe estar dotado de las condiciones necesarias para que los trabajadores desempeñen su labor con seguridad, minimizando los riesgos personales inherentes a su actividad. Además de ser una obligación de la legislación laboral, tal requisito forma parte de los sistemas de gestión de la seguridad exigidos para el ejercicio de la actividad de gestión de la infraestructura y de transporte ferroviario. De hecho, si corresponde a las ETF garantizar las adecuadas condiciones de seguridad, higiene y salud a sus trabajadores, es al GI a quien compete garantizar la implementación y disponibilidad de dichas condiciones en lo que respecta a la infraestructura. Por este motivo, es requisito del sistema de gestión de la seguridad del gestor de la infraestructura la existencia de “procedimientos para reconocer la necesidad de trabajar conjuntamente con (…) empresas ferroviarias (…), si es necesario, en materias en las que la compartición de interfaces pueda eventualmente afectar a la implementación de medidas adecuadas de control de riesgos”. 
+En este ámbito, las accesibilidades seguras y las condiciones de iluminación conformes con las normas aplicables a los lugares de trabajo son esenciales. De esta forma, es importante que la instalación y funcionamiento de estos elementos, responsabilidad del gestor de la infraestructura, estén sujetos a procedimientos que garanticen el estudio de las actividades a realizar y la definición de las soluciones más adecuadas, siempre de acuerdo con las normas y buenas prácticas en los ámbitos respectivos, y en estrecha interacción con las empresas de transporte ferroviario usuarias, aquellas que mejor conocen cómo se procesa el servicio en el lugar. 
+Por otro lado, este accidente evidencia también la importancia de un eficaz y atento control por parte de la gestión de la ETF de la forma en que se procesan las maniobras en las infraestructuras, no solo para garantizar que se mantiene un elevado estándar de autoprotección por parte de todos los trabajadores, especialmente en cuanto a la efectiva utilización de los equipos de protección individual, sino igualmente a fin de detectar y corregir oportunamente las no conformidades en la ejecución del servicio que revelen deficiencias sistémicas, como es el caso de las condiciones de ejecución de maniobras complejas con locomotoras de la serie 1400. 
 Informe n.º F_RI_2021/02
 
 ## Página 63
+
 
 ### Conclusiones
 ### 5.2. Medidas adoptadas
@@ -1955,9 +1988,10 @@ b) Nivelar el pavimento.
 c) Evaluar la iluminancia. 
 PLAZO:  
 Medida a) 20 días; medidas b) y c) 30 días. 
-Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
+Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 64
+
 
 ### 5.2.2. Por la empresa de transporte ferroviario - MEDWAY 
 a) Con el objetivo de proceder a la investigación y emisión de informe referente al accidente ocurrido, la ETF nombró una comisión de investigación, la cual concluyó el correspondiente informe el 18-04-2019, en el que constan diversas recomendaciones pertinentes, evidenciando el funcionamiento de su sistema de aprendizaje con las incidencias. 
@@ -1973,6 +2007,7 @@ En secuencia, la ETF gestionó ante el GI para que las vías de circulación deb
 Informe n.º F_RI_2021/02
 
 ## Página 65
+
 
 ### Conclusiones
 g) La ETF procedió a realizar ensayos con el fin de evaluar la posibilidad y ventaja de la aplicación de cámaras de transmisión de imagen en los extremos de las locomotoras de la serie 1400 utilizadas en servicio de maniobras. Las imágenes captadas se retransmiten a una tableta fija en su respectivo puesto de conducción, eliminando así las significativas zonas de no visibilidad para los maquinistas en estas locomotoras. Este sistema tiene como objetivo proporcionar un apoyo adicional a los maquinistas, sin sustituir los requisitos previstos reglamentariamente para las maniobras.
@@ -1993,8 +2028,8 @@ Así, de forma adicional, se realizaron posteriormente los siguientes trabajos:
 
 Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 66
+
 
 Está prevista además la sustitución de la tecnología existente (vapor de sodio de alta presión) mediante cambio a tecnología led, en todo el Terminal de Leixões, derivada de un estudio luminotécnico de 2016.
 
@@ -2005,8 +2040,8 @@ Figura 34: Foto del 18-08-2021 señalando el lugar del accidente
 Figura 35: Foto del 18-08-2021 vista de la vía I (a la izquierda) y del inicio del sector R (a la derecha)
 Informe n.º F_RI_2021/02
 
-
 ## Página 67
+
 
 ### Conclusiones
 
@@ -2021,13 +2056,14 @@ En la fase de comentarios al proyecto de informe, la ETF informó haber adoptado
 
 Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 68
+
 
 Página dejada intencionadamente en blanco
 Informe n.º F_RI_2021/02
 
 ## Página 69
+
 
 ### Recomendaciones de seguridad 
 ## 6. RECOMENDACIONES DE SEGURIDAD  
@@ -2048,10 +2084,10 @@ Fundamento: FCau-06, FCon-03
 Mantenimiento de los sistemas de iluminación de infraestructuras ferroviarias 
 Recomendación de Seguridad n.º 2021/12: Se recomienda que Infraestruturas de Portugal, en un plazo a definir por el IMT, establezca en sus procedimientos un plazo máximo de reparación de luminarias averiadas en sus infraestructuras donde se desarrollen regularmente actividades de maniobras. 
 Fundamento: FCau-04, FCon-07 
-Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 70
+
 
 Condiciones de iluminación de infraestructuras ferroviarias 
 Recomendación de Seguridad n.º 2021/13: Se recomienda que Infraestruturas de Portugal, en un plazo a definir por el IMT, defina los procedimientos adecuados para que sus infraestructuras donde se realicen regularmente actividades de maniobras con presencia de trabajadores en el terreno, sean objeto de proyectos de luminotecnia cumpliendo las normas y recomendaciones aplicables en la materia, y se tengan igualmente en consideración las aportaciones de las empresas ferroviarias que actúan allí. 
@@ -2067,10 +2103,10 @@ Fundamento: FCon-08, FCon-09
 Supervisión de la actividad en los patios de maniobras 
 Recomendación de Seguridad n.º 2021/16: Se recomienda que MEDWAY, en un plazo a definir por el IMT, refuerce sus procedimientos de supervisión de la actividad y gestión local de los patios de maniobras donde opera, estableciendo, entre otros aspectos que considere necesarios, un plan de supervisión regular e inopinada, que abarque, entre otros, la utilización de los EPI por todos los trabajadores en el terreno así como las condiciones en que se realizan las maniobras. 
 Fundamento: FCon-04, FCon-10 
-Informe n.º F_RI_2021/02 
-
+Informe n.º F_RI_2021/02
 
 ## Página 71
+
 
 ### Recomendaciones de seguridad 
 ### 6.3. Recomendaciones de seguridad relativas a observaciones suplementarias 
@@ -2079,15 +2115,16 @@ Destinatario: Instituto da Mobilidade e dos Transportes, I.P., en calidad de aut
 Control de la aptitud de los trabajadores para el desempeño de las funciones 
 Recomendación n.º 2021/17: Se recomienda que MEDWAY, en un plazo a definir por el IMT, reanalice e introduzca las modificaciones necesarias en sus procedimientos de gestión de personal, con el sentido de garantizar que los trabajadores solo desempeñen funciones con los exámenes médicos requeridos debidamente al día. 
 Fundamento: 5.3.1 
-Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 72
+
 
 Página dejada intencionadamente en blanco 
 Informe n.º F_RI_2021/02
 
 ## Página 73
+
 
 ### Información adicional
 ## 7. INFORMACIÓN ADICIONAL  
@@ -2178,10 +2215,10 @@ UE
 Unión Europea 
 VMER 
 Vehículo Médico de Emergencia y Reanimación 
-Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018 
-
+Atropello de trabajador por material móvil en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 74
+
 
 ### 7.2. Glosario 
 Accidente grave: Cualquier colisión o descarrilamiento de vehículo ferroviario que tenga como consecuencia, al menos, un muerto o cinco o más heridos graves, o daños graves en el material móvil, en la infraestructura o en el medio ambiente, y cualquier otro accidente similar con las mismas consecuencias que tenga un impacto manifiesto en la normativa de seguridad ferroviaria o en la gestión de la seguridad. 
@@ -2199,6 +2236,7 @@ Estación: Desde una perspectiva meramente comercial, es un lugar de parada de l
 Informe n.º F_RI_2021/02
 
 ## Página 75
+
 
 ### Información adicional
 Estación de clasificación: Estación de selección de composiciones o de distribución de material rodante.
@@ -2222,6 +2260,7 @@ Zona de riesgo: Se considera zona de riesgo el espacio tridimensional circundant
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 76
+
 
 ### 7.3. Referencias y bibliografía
 EGEA, Baltasar [et al] - Los Factores Humanos y Organizativos en la Investigación y Prevención de Accidentes Ferroviarios. España: ESM – Instituto de Investigación en Seguridad y Factores Humanos: 2009
@@ -2251,8 +2290,8 @@ SHELTON, Charles - Human Interface/Human Error. Pittsburgh: 1999. Disponible en 
 SGS PORTUGAL, S.A. - Informe de evaluación de iluminancia; Infraestruturas de Portugal, S.A.; Terminal de Leixões – Parque de Clasificación. Informe N.º PTR18.00127.5900/2. 18 de mayo de 2018. Lisboa: 2018
 Informe n.º F_RI_2021/02
 
-
 ## Página 77
+
 
 ### Anexos
 ## 8. ANEXOS
@@ -2269,14 +2308,14 @@ Informe n.º F_RI_2021/02
 ### ANEXO 3 – Pronunciamientos de las partes interesadas
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 78
+
 
 Página intencionadamente dejada en blanco
 Informe n.º F_RI_2021/02
 
-
 ## Página 79
+
 
 ### Anexos
 # ANEXO 1
@@ -2284,26 +2323,26 @@ Informe n.º F_RI_2021/02
 ### de locomotora LD 1400
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 80
+
 
 Página intencionadamente dejada en blanco
 Informe n.º F_RI_2021/02
 
-
 ## Página 81
+
 
 ### Anexos
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 82
+
 
 Página intencionadamente dejada en blanco
 Informe n.º F_RI_2021/02
 
-
 ## Página 83
+
 
 ### Anexos
 # ANEXO 2
@@ -2311,14 +2350,14 @@ Diagrama del error humano,
 ### por Reason
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 84
+
 
 Página intencionadamente dejada en blanco
 Informe n.º F_RI_2021/02
 
-
 ## Página 85
+
 
 ### Anexos
 Error Humano
@@ -2337,14 +2376,14 @@ conocimiento
 Modelo GEMS: General Error Modeling System (Reason, 1990)
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 86
+
 
 Página intencionadamente dejada en blanco
 Informe n.º F_RI_2021/02
 
-
 ## Página 87
+
 
 ### Anexos
 # ANEXO 3
@@ -2352,13 +2391,14 @@ Informe n.º F_RI_2021/02
 no integrados en el texto
 Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
-
 ## Página 88
+
 
 Página intencionadamente dejada en blanco
 Informe n.º F_RI_2021/02
 
 ## Página 89
+
 
 ### Pronúncia Infraestruturas de Portugal, S.A. 
 Pág 36 
@@ -2393,10 +2433,10 @@ Esta ha sido, por otra parte, la recomendación del GI a la ETF en respuesta a l
 5.1.3. 
 Ante lo expuesto, se considera que el párrafo contenido en las líneas 364 a 368 deberá tener la siguiente formulación: 
 “No obstante, esta situación deja patente la necesaria interacción y estrecha corresponsabilidad que tiene que existir entre el gestor de la infraestructura y las empresas ferroviarias que utilizan las instalaciones, ya que correspondiendo a estas últimas garantizar las adecuadas condiciones de seguridad, higiene y salud a sus trabajadores definiendo los caminos que necesita para el desempeño de la actividad con la respectiva evaluación 
-Pág. 1 
-
+Pág. 1
 
 ## Página 90
+
 
 ### Pronúncia Infraestruturas de Portugal, S.A. 
 |  | de riesgo. A la primera le compete garantizar la implementación y disponibilidad de dichas . |
@@ -2428,6 +2468,7 @@ Pág. 2
 
 ## Página 91
 
+
 ### Pronúncia Infraestruturas de Portugal, S.A. 
 | 05 | 4232 . . . . | Se considera que falta no RI la identificación del origen y destino del accidentado para evaluar la existencia de caminos alternativos más seguros entre esos dos puntos. |
 |  |  | Es una regla básica de seguridad que la elección de un camino debe hacerse dando prioridad a la seguridad en lugar de a la comodidad. |
@@ -2451,10 +2492,10 @@ Resposta GPIAAF:
 No aceptada. 
 La afirmación hecha en el informe deriva de la constatación por parte de la investigación, realizada en el lugar, de que el ruido ambiental derivado de la actividad portuaria y, principalmente, de la unidad industrial existente junto al lugar del accidente y del paso del intenso tráfico rodado sobre el viaducto de la A28, hacen muy difícil percibir el ruido de una locomotora al aproximarse con el motor trabajando en vacío. La misma constatación podrá ser hecha por cualquier persona que se desplace al lugar a la hora del accidente y no requiere la realización de mediciones acústicas, por otra parte inútiles para el efecto aludido.  
 Pudiendo ser verdad que los planos arbóreos reducen el ruido proveniente de la circulación rodoviaria en el viaducto de la A28, esa reducción no es suficiente para que el ruido en el lugar del accidente no sea aún significativo y pueda tener el efecto constatado en el lugar por la investigación. Por otra parte, la propagación de un nivel de ruido aún significativo hasta el lugar del accidente, proveniente de la A28 (origen rodoviario), está confirmada en los mapas de ruido para el municipio de Matosinhos. Aún así, siendo ese ruido ambiental variable, la investigación no pudo confirmar inequívocamente su contribución, quedando claro en el informe que es una justificación posible, pero no plenamente confirmada, para que el trabajador no se hubiera percatado de la aproximación de la locomotora.  
-Pág. 3 
-
+Pág. 3
 
 ## Página 92
+
 
 ### Pronúncia Infraestruturas de Portugal, S.A. 
 5.1.3. 
@@ -2471,6 +2512,7 @@ Nota: Solo se presentan los comentarios no totalmente acogidos del informe final
 Pág. 4
 
 ## Página 93
+
 
 ### Pronúncia MEDWAY 
 alínea b), 
@@ -2540,27 +2582,26 @@ recurren a esa opción cuando no existe camino de losas para circular por él.
 Respuesta GPIAAF: 
 No aceptada. Sería especulación afirmar que si existiera pasarela, el trabajador nunca estaría sobre la vía. Pero, 
 no existiendo pasarelas, la circulación se realiza naturalmente por el camino más cómodo. 
-Pág. 1 
-
+Pág. 1
 
 ## Página 94
 
 ### Pronúncia MEDWAY 
-| 12 |  | Punto 5.2.1 . . | Sería importante objetivar cuáles fueron las medidas enumeradas por la ACT . Sobre este asunto MEDWAY envió un correo electrónico el 23/09/2021: En las Líneas 162 y 164 del Punto 5.2.1 y conforme mencionado en el Nº 12 del . . Comentarios documento investigación Leixões (anexo) es muy importante que _ _ , en el informe del GPIAF (5.2.1) sea transcrito el tenor de la notificación de la ACT que . . ocurrió 2 días después del accidente y se centra exclusivamente en la falta de pasos elevados para los trabajadores en toda su extensión, no habiendo ninguna , irregularidad/medida de la ACT para Medway (ver anexo Participación ACT 230218) . . . La ACT concluye incluso que la ausencia de pasos elevados causa “riesgo probable de vida” , corroborando los comentarios de Medway en los números 3 5 y 10 del documento , “Comentarios documento investigación Leixões” _ _ . |  |
-|  | Respuesta GPIAAF: |  |  |  |
-|  | Aceptada parcialmente. En el informe final se integró el resumen del contenido de las notificaciones de la ACT, lo cual es . , |  |  |  |
-|  | objetivo e incuestionable . |  |  |  |
-Nota: Solo se presentan los comentarios no totalmente acogidos del informe final. 
-Pág. 2 
-
+| 12 |  | Ponto521 . . | SeriaimportanteobjetivarquaisforamasmedidaselencadaspelaACT . SobreesteassuntoaMEDWAYenviouummailem23/09/2021: Na Linha 162 e 164 do Ponto 521 e conforme mencionado no Nº 12 do . . Comentários documento investigação Leixões (anexo) é muito importante que _ _ , no relatório do GPIAF (521) seja transcrito o teor da notificação da ACT que . . ocorreu 2diasapóso acidente e se foca exclusivamente na falta de passadeiras para os trabalhadores em toda a sua extensão não havendo nenhuma , irregularidade/medida da ACT para a Medway (ver em anexo Participação ACT 230218) . . . AACTconcluimesmoqueaausênciadepassadeirascausa“riscoprováveldevida” , corroborando os comentários da Medway nos números 3 5 e 10 do documento , “Comentários documento investigaçãoLeixões” _ _ . |  |
+|  | RespostaGPIAAF: |  |  |  |
+|  | Aceite parcialmente No relatório final integrou-se o resumo do conteúdo das notificações da ACT o que é . , |  |  |  |
+|  | objetivoeincontroverso . |  |  |  |
+Nota: Só são apresentados os comentários não totalmente acolhidos do relatório final. 
+Pág. 2
 
 ## Página 95
 
-Página intencionadamente dejada en blanco 
-Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018 
 
+Página intencionadamente dejada en blanco 
+Atropello de trabajador por material rodante en maniobras en la estación de Leixões, el 21-02-2018
 
 ## Página 96
+
 
 INFRAESTRUCTURAS  
 Y VIVIENDA 

@@ -1,0 +1,1360 @@
+{
+ "md/HR/2014/HR 02.06.2014 KI_Kuka&.md": {
+  "fichero": "md/HR/2014/HR 02.06.2014 KI_Kuka&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 46724,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 3: ratio 1.84"
+  ],
+  "tokens_in": 18368,
+  "tokens_out": 11805,
+  "destino": "md-es/HR/2014/HR 02.06.2014 KI_Kuka&.md"
+ },
+ "md/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona& (2).md": {
+  "fichero": "md/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona& (2).md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 51409,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 4: marcadores de página: 3 vs 2"
+  ],
+  "tokens_in": 20396,
+  "tokens_out": 13317,
+  "destino": "md-es/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona& (2).md"
+ },
+ "md/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona&.md": {
+  "fichero": "md/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 51368,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 4: marcadores de página: 3 vs 2"
+  ],
+  "tokens_in": 20396,
+  "tokens_out": 13304,
+  "destino": "md-es/HR/2014/HR 04.09.2014 KI_Vara_din_po_ar____04_09_2014_kona&.md"
+ },
+ "md/HR/2014/HR 10.04.2014 Kona&.md": {
+  "fichero": "md/HR/2014/HR 10.04.2014 Kona&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 48765,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: marcadores de página: 3 vs 2"
+  ],
+  "tokens_in": 22283,
+  "tokens_out": 15428,
+  "destino": "md-es/HR/2014/HR 10.04.2014 Kona&.md"
+ },
+ "md/HR/2014/HR 10.11.2014 KI-2.md": {
+  "fichero": "md/HR/2014/HR 10.11.2014 KI-2.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 61282,
+  "ratio": 1.16,
+  "avisos": [
+   "bloque 3: ratio 2.08"
+  ],
+  "tokens_in": 28432,
+  "tokens_out": 18923,
+  "destino": "md-es/HR/2014/HR 10.11.2014 KI-2.md"
+ },
+ "md/HR/2014/HR 10.11.2014 KI.md": {
+  "fichero": "md/HR/2014/HR 10.11.2014 KI.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 61815,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 3: ratio 2.07"
+  ],
+  "tokens_in": 25420,
+  "tokens_out": 16895,
+  "destino": "md-es/HR/2014/HR 10.11.2014 KI.md"
+ },
+ "md/HR/2014/HR 11.07.2014 KI_Ma&.md": {
+  "fichero": "md/HR/2014/HR 11.07.2014 KI_Ma&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 25186,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 2: cifras largas: faltan 2/8 (25%)"
+  ],
+  "tokens_in": 11455,
+  "tokens_out": 7554,
+  "destino": "md-es/HR/2014/HR 11.07.2014 KI_Ma&.md"
+ },
+ "md/HR/2014/HR 11.09.2014 KI_Graba_11_09_2014_za_web.md": {
+  "fichero": "md/HR/2014/HR 11.09.2014 KI_Graba_11_09_2014_za_web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 44365,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: ratio 1.95"
+  ],
+  "tokens_in": 18354,
+  "tokens_out": 12202,
+  "destino": "md-es/HR/2014/HR 11.09.2014 KI_Graba_11_09_2014_za_web.md"
+ },
+ "md/HR/2014/HR 11.09.2014 Labin.md": {
+  "fichero": "md/HR/2014/HR 11.09.2014 Labin.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 81640,
+  "ratio": 1.31,
+  "avisos": [
+   "bloque 2: ratio 1.89",
+   "bloque 8: ratio 1.87"
+  ],
+  "tokens_in": 34007,
+  "tokens_out": 25481,
+  "destino": "md-es/HR/2014/HR 11.09.2014 Labin.md"
+ },
+ "md/HR/2014/HR 11.11.2014 Konačno_.md": {
+  "fichero": "md/HR/2014/HR 11.11.2014 Konačno_.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 62032,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 2: ratio 1.75",
+   "bloque 7: cifras largas: faltan 20/63 (32%)"
+  ],
+  "tokens_in": 30627,
+  "tokens_out": 21628,
+  "destino": "md-es/HR/2014/HR 11.11.2014 Konačno_.md"
+ },
+ "md/HR/2014/HR 17.07.2014 KI_Varaždin_17_07_2014_za_objavu_na_WEB.md": {
+  "fichero": "md/HR/2014/HR 17.07.2014 KI_Varaždin_17_07_2014_za_objavu_na_WEB.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 22407,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 8337,
+  "tokens_out": 5266,
+  "destino": "md-es/HR/2014/HR 17.07.2014 KI_Varaždin_17_07_2014_za_objavu_na_WEB.md"
+ },
+ "md/HR/2014/HR 18.09.2014 KI_Krapina_ŽCP_za_web____18_09_2014_kona& (2).md": {
+  "fichero": "md/HR/2014/HR 18.09.2014 KI_Krapina_ŽCP_za_web____18_09_2014_kona& (2).md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 61281,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 3: ratio 1.98"
+  ],
+  "tokens_in": 24217,
+  "tokens_out": 16177,
+  "destino": "md-es/HR/2014/HR 18.09.2014 KI_Krapina_ŽCP_za_web____18_09_2014_kona& (2).md"
+ },
+ "md/HR/2014/HR 18.09.2014 KI_Krapina_ŽCP_za_web____18_09_2014_kona&.md": {
+  "fichero": "md/HR/2014/HR 18.09.2014 KI_Krapina_ŽCP_za_web____18_09_2014_kona&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 60730,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 3: ratio 1.97"
+  ],
+  "tokens_in": 24217,
+  "tokens_out": 16018,
+  "destino": "md-es/HR/2014/HR 18.09.2014 KI_Krapina_ŽCP_za_web____18_09_2014_kona&.md"
+ },
+ "md/HR/2014/HR 22 06 2014.md": {
+  "fichero": "md/HR/2014/HR 22 06 2014.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 63941,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 23312,
+  "tokens_out": 15480,
+  "destino": "md-es/HR/2014/HR 22 06 2014.md"
+ },
+ "md/HR/2014/HR 22.04.2014 KI_KK_22_04_2014_web_verzija.md": {
+  "fichero": "md/HR/2014/HR 22.04.2014 KI_KK_22_04_2014_web_verzija.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 26559,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 9534,
+  "tokens_out": 6092,
+  "destino": "md-es/HR/2014/HR 22.04.2014 KI_KK_22_04_2014_web_verzija.md"
+ },
+ "md/HR/2014/HR 22.06.2014 KI.md": {
+  "fichero": "md/HR/2014/HR 22.06.2014 KI.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 92661,
+  "ratio": 1.72,
+  "avisos": [
+   "bloque 3: cifras largas: faltan 6/15 (40%); ratio 7.07"
+  ],
+  "tokens_in": 25609,
+  "tokens_out": 33520,
+  "destino": "md-es/HR/2014/HR 22.06.2014 KI.md"
+ },
+ "md/HR/2014/HR 31.08.2014 KI-1.md": {
+  "fichero": "md/HR/2014/HR 31.08.2014 KI-1.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 42793,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 3: ratio 1.69"
+  ],
+  "tokens_in": 17892,
+  "tokens_out": 11768,
+  "destino": "md-es/HR/2014/HR 31.08.2014 KI-1.md"
+ },
+ "md/HR/2014/HR 31.08.2014 KI.md": {
+  "fichero": "md/HR/2014/HR 31.08.2014 KI.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 42728,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 3: ratio 1.68"
+  ],
+  "tokens_in": 17892,
+  "tokens_out": 11796,
+  "destino": "md-es/HR/2014/HR 31.08.2014 KI.md"
+ },
+ "md/HR/2014/HR KI_KK_22_04_2014_web_verzija.md": {
+  "fichero": "md/HR/2014/HR KI_KK_22_04_2014_web_verzija.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 26479,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 9534,
+  "tokens_out": 6043,
+  "destino": "md-es/HR/2014/HR KI_KK_22_04_2014_web_verzija.md"
+ },
+ "md/HR/2014/HR KI_Varaždin_17_07_2014_za_objavu_na_WEB.md": {
+  "fichero": "md/HR/2014/HR KI_Varaždin_17_07_2014_za_objavu_na_WEB.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 22484,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 8337,
+  "tokens_out": 5241,
+  "destino": "md-es/HR/2014/HR KI_Varaždin_17_07_2014_za_objavu_na_WEB.md"
+ },
+ "md/HR/2014/KI_Krapina_ŽCP_za_web____18_09_2014_kona&.md": {
+  "fichero": "md/HR/2014/KI_Krapina_ŽCP_za_web____18_09_2014_kona&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 61189,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 3: ratio 1.98"
+  ],
+  "tokens_in": 24217,
+  "tokens_out": 16102,
+  "destino": "md-es/HR/2014/KI_Krapina_ŽCP_za_web____18_09_2014_kona&.md"
+ },
+ "md/HR/2014/KI_Ma&.md": {
+  "fichero": "md/HR/2014/KI_Ma&.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 25304,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 2: cifras largas: faltan 2/8 (25%)"
+  ],
+  "tokens_in": 11455,
+  "tokens_out": 7594,
+  "destino": "md-es/HR/2014/KI_Ma&.md"
+ },
+ "md/HR/2014/Labin 11 09 2014 KI-web.md": {
+  "fichero": "md/HR/2014/Labin 11 09 2014 KI-web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 81269,
+  "ratio": 1.31,
+  "avisos": [
+   "bloque 2: ratio 2.09",
+   "bloque 8: ratio 1.88"
+  ],
+  "tokens_in": 33261,
+  "tokens_out": 24753,
+  "destino": "md-es/HR/2014/Labin 11 09 2014 KI-web.md"
+ },
+ "md/HR/2015/HR 02.11.2015 konaÄ_no_ izvjeÅ¡Ä‡e_ophodar-za WEB.md": {
+  "fichero": "md/HR/2015/HR 02.11.2015 konaÄ_no_ izvjeÅ¡Ä‡e_ophodar-za WEB.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 79301,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 27896,
+  "tokens_out": 18202,
+  "destino": "md-es/HR/2015/HR 02.11.2015 konaÄ_no_ izvjeÅ¡Ä‡e_ophodar-za WEB.md"
+ },
+ "md/HR/2015/HR 02.11.2015 konačno_.md": {
+  "fichero": "md/HR/2015/HR 02.11.2015 konačno_.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 78079,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 3: ratio 1.68"
+  ],
+  "tokens_in": 32896,
+  "tokens_out": 21773,
+  "destino": "md-es/HR/2015/HR 02.11.2015 konačno_.md"
+ },
+ "md/HR/2015/HR 10.07.2015 KI Å vogari 10_ 07_ 2015_za_WEB.md": {
+  "fichero": "md/HR/2015/HR 10.07.2015 KI Å vogari 10_ 07_ 2015_za_WEB.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 102696,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 2: cifras largas: faltan 1/1 (100%)",
+   "bloque 4: ratio 1.88",
+   "bloque 9: ratio 1.71"
+  ],
+  "tokens_in": 46371,
+  "tokens_out": 30652,
+  "destino": "md-es/HR/2015/HR 10.07.2015 KI Å vogari 10_ 07_ 2015_za_WEB.md"
+ },
+ "md/HR/2015/HR 10.07.2015 KI.md": {
+  "fichero": "md/HR/2015/HR 10.07.2015 KI.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 103045,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 4: ratio 2.13",
+   "bloque 8: ratio 1.68"
+  ],
+  "tokens_in": 44094,
+  "tokens_out": 30166,
+  "destino": "md-es/HR/2015/HR 10.07.2015 KI.md"
+ },
+ "md/HR/2015/HR 12.01.2015 Kupinec_Konačno_ (2).md": {
+  "fichero": "md/HR/2015/HR 12.01.2015 Kupinec_Konačno_ (2).md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 68667,
+  "ratio": 1.24,
+  "avisos": [
+   "bloque 3: ratio 1.68",
+   "bloque 5: ratio 1.88"
+  ],
+  "tokens_in": 31432,
+  "tokens_out": 21925,
+  "destino": "md-es/HR/2015/HR 12.01.2015 Kupinec_Konačno_ (2).md"
+ },
+ "md/HR/2015/HR 12.01.2015 Kupinec_Konačno_.md": {
+  "fichero": "md/HR/2015/HR 12.01.2015 Kupinec_Konačno_.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 66162,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 3: ratio 1.78"
+  ],
+  "tokens_in": 28672,
+  "tokens_out": 19647,
+  "destino": "md-es/HR/2015/HR 12.01.2015 Kupinec_Konačno_.md"
+ },
+ "md/HR/2015/HR 19.03.2015 KonaÄ_no_ izvjeÅ¡Ä‡e_Beli.web_.md": {
+  "fichero": "md/HR/2015/HR 19.03.2015 KonaÄ_no_ izvjeÅ¡Ä‡e_Beli.web_.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 46504,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 9/42 (21%)"
+  ],
+  "tokens_in": 19534,
+  "tokens_out": 13222,
+  "destino": "md-es/HR/2015/HR 19.03.2015 KonaÄ_no_ izvjeÅ¡Ä‡e_Beli.web_.md"
+ },
+ "md/HR/2015/HR 19.03.2015 Konačno_.md": {
+  "fichero": "md/HR/2015/HR 19.03.2015 Konačno_.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 47102,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 6: cifras largas: faltan 23/42 (55%)"
+  ],
+  "tokens_in": 19873,
+  "tokens_out": 13704,
+  "destino": "md-es/HR/2015/HR 19.03.2015 Konačno_.md"
+ },
+ "md/HR/2015/HR 27.02.2015 Kosovo (2).md": {
+  "fichero": "md/HR/2015/HR 27.02.2015 Kosovo (2).md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 54334,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 5/13 (38%)",
+   "bloque 2: ratio 1.94"
+  ],
+  "tokens_in": 26853,
+  "tokens_out": 18589,
+  "destino": "md-es/HR/2015/HR 27.02.2015 Kosovo (2).md"
+ },
+ "md/HR/2015/HR 27.02.2015 Kosovo.md": {
+  "fichero": "md/HR/2015/HR 27.02.2015 Kosovo.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 54681,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 5/13 (38%)",
+   "bloque 2: ratio 1.94"
+  ],
+  "tokens_in": 26853,
+  "tokens_out": 18698,
+  "destino": "md-es/HR/2015/HR 27.02.2015 Kosovo.md"
+ },
+ "md/HR/2015/HR 28.12.2015 Bjelovar 28 12 2015_za_web.md": {
+  "fichero": "md/HR/2015/HR 28.12.2015 Bjelovar 28 12 2015_za_web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 130507,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 4: ratio 2.05"
+  ],
+  "tokens_in": 49770,
+  "tokens_out": 33340,
+  "destino": "md-es/HR/2015/HR 28.12.2015 Bjelovar 28 12 2015_za_web.md"
+ },
+ "md/HR/2015/HR 30.06.2015 KI Split 30 06 2015 konaÄ_no-izvjeÅ¡Ä‡e-web.md": {
+  "fichero": "md/HR/2015/HR 30.06.2015 KI Split 30 06 2015 konaÄ_no-izvjeÅ¡Ä‡e-web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 75847,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 2: ratio 1.78",
+   "bloque 4: marcadores de página: 2 vs 1",
+   "bloque 9: cifras largas: faltan 14/38 (37%)"
+  ],
+  "tokens_in": 35724,
+  "tokens_out": 24391,
+  "destino": "md-es/HR/2015/HR 30.06.2015 KI Split 30 06 2015 konaÄ_no-izvjeÅ¡Ä‡e-web.md"
+ },
+ "md/HR/2016/HR 05.09.2016 KI RanÅ¾irni_2016_za_web.md": {
+  "fichero": "md/HR/2016/HR 05.09.2016 KI RanÅ¾irni_2016_za_web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 44150,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 15747,
+  "tokens_out": 10196,
+  "destino": "md-es/HR/2016/HR 05.09.2016 KI RanÅ¾irni_2016_za_web.md"
+ },
+ "md/HR/2016/HR 05.10.2016 KI Danica_za_web.md": {
+  "fichero": "md/HR/2016/HR 05.10.2016 KI Danica_za_web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 173353,
+  "ratio": 1.24,
+  "avisos": [
+   "bloque 4: ratio 1.95",
+   "bloque 5: ratio 2.00",
+   "bloque 18: cifras largas: faltan 7/16 (44%)"
+  ],
+  "tokens_in": 70418,
+  "tokens_out": 47124,
+  "destino": "md-es/HR/2016/HR 05.10.2016 KI Danica_za_web.md"
+ },
+ "md/HR/2016/HR 08.05.2016 KI Zapadni-2016 - konaÄ_no-za-web.md": {
+  "fichero": "md/HR/2016/HR 08.05.2016 KI Zapadni-2016 - konaÄ_no-za-web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 45488,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 18935,
+  "tokens_out": 12515,
+  "destino": "md-es/HR/2016/HR 08.05.2016 KI Zapadni-2016 - konaÄ_no-za-web.md"
+ },
+ "md/HR/2016/HR 08.06.2016 KI Rogotin_2016_ KI web.md": {
+  "fichero": "md/HR/2016/HR 08.06.2016 KI Rogotin_2016_ KI web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 53585,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 23519,
+  "tokens_out": 15781,
+  "destino": "md-es/HR/2016/HR 08.06.2016 KI Rogotin_2016_ KI web.md"
+ },
+ "md/HR/2016/HR 12.05.2016 KI Vinkovci_2016_KI_web.md": {
+  "fichero": "md/HR/2016/HR 12.05.2016 KI Vinkovci_2016_KI_web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 93541,
+  "ratio": 1.23,
+  "avisos": [
+   "bloque 4: ratio 1.67",
+   "bloque 13: cifras largas: faltan 17/43 (40%)"
+  ],
+  "tokens_in": 39034,
+  "tokens_out": 26271,
+  "destino": "md-es/HR/2016/HR 12.05.2016 KI Vinkovci_2016_KI_web.md"
+ },
+ "md/HR/2016/HR 16.07.2016 KI Sljeme_2016_za_web.md": {
+  "fichero": "md/HR/2016/HR 16.07.2016 KI Sljeme_2016_za_web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 64788,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 25522,
+  "tokens_out": 17202,
+  "destino": "md-es/HR/2016/HR 16.07.2016 KI Sljeme_2016_za_web.md"
+ },
+ "md/HR/2016/HR 17.10.2016 KI KuljevÄ_ica sudar na Å½CP-u 2016 web.md": {
+  "fichero": "md/HR/2016/HR 17.10.2016 KI KuljevÄ_ica sudar na Å½CP-u 2016 web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 53188,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 4: ratio 1.75",
+   "bloque 5: ratio 1.79"
+  ],
+  "tokens_in": 27637,
+  "tokens_out": 18729,
+  "destino": "md-es/HR/2016/HR 17.10.2016 KI KuljevÄ_ica sudar na Å½CP-u 2016 web.md"
+ },
+ "md/HR/2016/HR 20.01.2016 KI Rijeka 20 01 2016 konaÄ_no web.md": {
+  "fichero": "md/HR/2016/HR 20.01.2016 KI Rijeka 20 01 2016 konaÄ_no web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 72075,
+  "ratio": 1.16,
+  "avisos": [
+   "bloque 7: ratio 2.26"
+  ],
+  "tokens_in": 37744,
+  "tokens_out": 38061,
+  "destino": "md-es/HR/2016/HR 20.01.2016 KI Rijeka 20 01 2016 konaÄ_no web.md"
+ },
+ "md/HR/2017/HR 10.03.2017 KonaÄ_no izvjeÅ¡Ä‡e iskliznuÄ‡e vagona ZveÄ_aj 10.03.2017.md": {
+  "fichero": "md/HR/2017/HR 10.03.2017 KonaÄ_no izvjeÅ¡Ä‡e iskliznuÄ‡e vagona ZveÄ_aj 10.03.2017.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 69171,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 4: marcadores de página: 3 vs 2; ratio 1.83"
+  ],
+  "tokens_in": 28056,
+  "tokens_out": 18562,
+  "destino": "md-es/HR/2017/HR 10.03.2017 KonaÄ_no izvjeÅ¡Ä‡e iskliznuÄ‡e vagona ZveÄ_aj 10.03.2017.md"
+ },
+ "md/HR/2017/HR 11.01.2017 KI LuÅ¾ani_2017_konaÄ_no-web.md": {
+  "fichero": "md/HR/2017/HR 11.01.2017 KI LuÅ¾ani_2017_konaÄ_no-web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 69113,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 24779,
+  "tokens_out": 16780,
+  "destino": "md-es/HR/2017/HR 11.01.2017 KI LuÅ¾ani_2017_konaÄ_no-web.md"
+ },
+ "md/HR/2017/HR 17.10.2017 KI Duga Resa iskliznuÄ‡e skretnica web.md": {
+  "fichero": "md/HR/2017/HR 17.10.2017 KI Duga Resa iskliznuÄ‡e skretnica web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 55328,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 7: cifras largas: faltan 11/37 (30%)"
+  ],
+  "tokens_in": 22299,
+  "tokens_out": 15402,
+  "destino": "md-es/HR/2017/HR 17.10.2017 KI Duga Resa iskliznuÄ‡e skretnica web.md"
+ },
+ "md/HR/2017/HR 19.02.2017 KI Karlovac konaÄ_no web.md": {
+  "fichero": "md/HR/2017/HR 19.02.2017 KI Karlovac konaÄ_no web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 65287,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 4: ratio 1.92"
+  ],
+  "tokens_in": 26943,
+  "tokens_out": 18063,
+  "destino": "md-es/HR/2017/HR 19.02.2017 KI Karlovac konaÄ_no web.md"
+ },
+ "md/HR/2017/HR 27.03.2017 RK-RCC-iskliznuÄ‡e_konaÄ_no_web.md": {
+  "fichero": "md/HR/2017/HR 27.03.2017 RK-RCC-iskliznuÄ‡e_konaÄ_no_web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 52184,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 19189,
+  "tokens_out": 12440,
+  "destino": "md-es/HR/2017/HR 27.03.2017 RK-RCC-iskliznuÄ‡e_konaÄ_no_web.md"
+ },
+ "md/HR/2017/HR 27.10.2017 KI Gornja Stubica web.md": {
+  "fichero": "md/HR/2017/HR 27.10.2017 KI Gornja Stubica web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 61386,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 8: ratio 1.67"
+  ],
+  "tokens_in": 26767,
+  "tokens_out": 17911,
+  "destino": "md-es/HR/2017/HR 27.10.2017 KI Gornja Stubica web.md"
+ },
+ "md/HR/2017/HR 28.04.2017 KonaÄ_no izvjeÅ¡Ä‡e Zagreb Glavni_kolodvor nalet na prsobran web.md": {
+  "fichero": "md/HR/2017/HR 28.04.2017 KonaÄ_no izvjeÅ¡Ä‡e Zagreb Glavni_kolodvor nalet na prsobran web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 103982,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 14: cifras largas: faltan 14/38 (37%)"
+  ],
+  "tokens_in": 44186,
+  "tokens_out": 27872,
+  "destino": "md-es/HR/2017/HR 28.04.2017 KonaÄ_no izvjeÅ¡Ä‡e Zagreb Glavni_kolodvor nalet na prsobran web.md"
+ },
+ "md/HR/2017/HR-5577 - decision to close the investigation.md": {
+  "fichero": "md/HR/2017/HR-5577 - decision to close the investigation.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 2244,
+  "ratio": 1.24,
+  "avisos": [],
+  "tokens_in": 1287,
+  "tokens_out": 630,
+  "destino": "md-es/HR/2017/HR-5577 - decision to close the investigation.md"
+ },
+ "md/HR/2017/HR0404~1.md": {
+  "fichero": "md/HR/2017/HR0404~1.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 80744,
+  "ratio": 1.22,
+  "avisos": [
+   "bloque 4: ratio 1.78",
+   "bloque 7: ratio 1.71"
+  ],
+  "tokens_in": 34400,
+  "tokens_out": 23334,
+  "destino": "md-es/HR/2017/HR0404~1.md"
+ },
+ "md/HR/2017/HR1210~1.md": {
+  "fichero": "md/HR/2017/HR1210~1.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 50838,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: ratio 1.64"
+  ],
+  "tokens_in": 21363,
+  "tokens_out": 14509,
+  "destino": "md-es/HR/2017/HR1210~1.md"
+ },
+ "md/HR/2018/11-07-18 Konačno izvješće Dugo Selo iskliznuće vagona za objavu.md": {
+  "fichero": "md/HR/2018/11-07-18 Konačno izvješće Dugo Selo iskliznuće vagona za objavu.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 67612,
+  "ratio": 1.16,
+  "avisos": [
+   "bloque 3: ratio 1.65",
+   "bloque 10: ratio 1.77"
+  ],
+  "tokens_in": 32227,
+  "tokens_out": 21861,
+  "destino": "md-es/HR/2018/11-07-18 Konačno izvješće Dugo Selo iskliznuće vagona za objavu.md"
+ },
+ "md/HR/2018/12.10.18 KI Plaški sudar i iskliznuće vagona - objava.md": {
+  "fichero": "md/HR/2018/12.10.18 KI Plaški sudar i iskliznuće vagona - objava.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 78271,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 3/11 (27%)",
+   "bloque 3: ratio 1.67",
+   "bloque 9: ratio 1.71",
+   "bloque 10: ratio 1.80"
+  ],
+  "tokens_in": 38030,
+  "tokens_out": 25233,
+  "destino": "md-es/HR/2018/12.10.18 KI Plaški sudar i iskliznuće vagona - objava.md"
+ },
+ "md/HR/2018/13.10.18 Konačno izvješće ŽCP Vernalska objava.md": {
+  "fichero": "md/HR/2018/13.10.18 Konačno izvješće ŽCP Vernalska objava.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 97487,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 14: ratio 1.69"
+  ],
+  "tokens_in": 38474,
+  "tokens_out": 26856,
+  "destino": "md-es/HR/2018/13.10.18 Konačno izvješće ŽCP Vernalska objava.md"
+ },
+ "md/HR/2018/21-10-18 Konačno izvješće Lonjica 2018. docx.md": {
+  "fichero": "md/HR/2018/21-10-18 Konačno izvješće Lonjica 2018. docx.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 87438,
+  "ratio": 1.25,
+  "avisos": [
+   "bloque 4: ratio 1.94",
+   "bloque 8: ratio 1.94"
+  ],
+  "tokens_in": 38781,
+  "tokens_out": 27472,
+  "destino": "md-es/HR/2018/21-10-18 Konačno izvješće Lonjica 2018. docx.md"
+ },
+ "md/HR/2018/HR 02.06.2018 KonaÄ_no izvjeÅ¡Ä‡e Kutina docx - za objavu.md": {
+  "fichero": "md/HR/2018/HR 02.06.2018 KonaÄ_no izvjeÅ¡Ä‡e Kutina docx - za objavu.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 70535,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 4: ratio 1.86"
+  ],
+  "tokens_in": 27880,
+  "tokens_out": 18551,
+  "destino": "md-es/HR/2018/HR 02.06.2018 KonaÄ_no izvjeÅ¡Ä‡e Kutina docx - za objavu.md"
+ },
+ "md/HR/2018/HR 08.01.2018 KI Zagreb Zapadni strujni udar za objavu.md": {
+  "fichero": "md/HR/2018/HR 08.01.2018 KI Zagreb Zapadni strujni udar za objavu.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 44931,
+  "ratio": 1.16,
+  "avisos": [],
+  "tokens_in": 16731,
+  "tokens_out": 10460,
+  "destino": "md-es/HR/2018/HR 08.01.2018 KI Zagreb Zapadni strujni udar za objavu.md"
+ },
+ "md/HR/2018/HR 27.06.2018 KI Slavonski Brod iskliznuÄ‡e vagona za objavu.md": {
+  "fichero": "md/HR/2018/HR 27.06.2018 KI Slavonski Brod iskliznuÄ‡e vagona za objavu.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 47320,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 3: ratio 1.97"
+  ],
+  "tokens_in": 19872,
+  "tokens_out": 13197,
+  "destino": "md-es/HR/2018/HR 27.06.2018 KI Slavonski Brod iskliznuÄ‡e vagona za objavu.md"
+ },
+ "md/HR/2019/05-05-19 Konačno izvješće Škrljevo objava.md": {
+  "fichero": "md/HR/2019/05-05-19 Konačno izvješće Škrljevo objava.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 56988,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: ratio 1.84"
+  ],
+  "tokens_in": 24817,
+  "tokens_out": 16881,
+  "destino": "md-es/HR/2019/05-05-19 Konačno izvješće Škrljevo objava.md"
+ },
+ "md/HR/2019/18-01-~1.md": {
+  "fichero": "md/HR/2019/18-01-~1.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 73921,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 3: ratio 1.67"
+  ],
+  "tokens_in": 31727,
+  "tokens_out": 21073,
+  "destino": "md-es/HR/2019/18-01-~1.md"
+ },
+ "md/HR/2019/HR-6009-KI Novoselec lom osovine.md": {
+  "fichero": "md/HR/2019/HR-6009-KI Novoselec lom osovine.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 64805,
+  "ratio": 1.26,
+  "avisos": [
+   "bloque 9: ratio 1.81"
+  ],
+  "tokens_in": 26133,
+  "tokens_out": 18273,
+  "destino": "md-es/HR/2019/HR-6009-KI Novoselec lom osovine.md"
+ },
+ "md/HR/2019/HR-6109-Konačno izvješće Prečec 19 10 2019.md": {
+  "fichero": "md/HR/2019/HR-6109-Konačno izvješće Prečec 19 10 2019.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 56362,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 21002,
+  "tokens_out": 14190,
+  "destino": "md-es/HR/2019/HR-6109-Konačno izvješće Prečec 19 10 2019.md"
+ },
+ "md/HR/2019/HR-6133-Konačno-03122019.md": {
+  "fichero": "md/HR/2019/HR-6133-Konačno-03122019.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 71103,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 3: ratio 1.92",
+   "bloque 8: ratio 1.72"
+  ],
+  "tokens_in": 31890,
+  "tokens_out": 20790,
+  "destino": "md-es/HR/2019/HR-6133-Konačno-03122019.md"
+ },
+ "md/HR/2020/HR-10001 - KONAČNO IZVJEŠĆE Lipovljani web.md": {
+  "fichero": "md/HR/2020/HR-10001 - KONAČNO IZVJEŠĆE Lipovljani web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 97333,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 5: ratio 2.23"
+  ],
+  "tokens_in": 38267,
+  "tokens_out": 25411,
+  "destino": "md-es/HR/2020/HR-10001 - KONAČNO IZVJEŠĆE Lipovljani web.md"
+ },
+ "md/HR/2020/HR-6226-KI Čakovec iskliznuće DMG na iskliznici.md": {
+  "fichero": "md/HR/2020/HR-6226-KI Čakovec iskliznuće DMG na iskliznici.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 89496,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: ratio 1.76"
+  ],
+  "tokens_in": 36600,
+  "tokens_out": 24156,
+  "destino": "md-es/HR/2020/HR-6226-KI Čakovec iskliznuće DMG na iskliznici.md"
+ },
+ "md/HR/2020/HR-6281-Konačno izvješće Brdovec_.md": {
+  "fichero": "md/HR/2020/HR-6281-Konačno izvješće Brdovec_.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 80429,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 3: ratio 1.60",
+   "bloque 11: ratio 1.75"
+  ],
+  "tokens_in": 33949,
+  "tokens_out": 22026,
+  "destino": "md-es/HR/2020/HR-6281-Konačno izvješće Brdovec_.md"
+ },
+ "md/HR/2020/HR-6311 - Konačno izvješće Kupljenovo ŽCP za Web objavu.md": {
+  "fichero": "md/HR/2020/HR-6311 - Konačno izvješće Kupljenovo ŽCP za Web objavu.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 138551,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 4: ratio 1.71",
+   "bloque 6: marcadores de página: 2 vs 1"
+  ],
+  "tokens_in": 54191,
+  "tokens_out": 34729,
+  "destino": "md-es/HR/2020/HR-6311 - Konačno izvješće Kupljenovo ŽCP za Web objavu.md"
+ },
+ "md/HR/2020/HR-6340 - KI izvješće Pračno web.md": {
+  "fichero": "md/HR/2020/HR-6340 - KI izvješće Pračno web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 93913,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 4: ratio 1.78",
+   "bloque 5: marcadores de página: 3 vs 2"
+  ],
+  "tokens_in": 38915,
+  "tokens_out": 26286,
+  "destino": "md-es/HR/2020/HR-6340 - KI izvješće Pračno web.md"
+ },
+ "md/HR/2020/HR-6351 - Konačno izvješće iskliznuće Čakovec 28.09.2021 web.md": {
+  "fichero": "md/HR/2020/HR-6351 - Konačno izvješće iskliznuće Čakovec 28.09.2021 web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 102364,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 4: ratio 1.66",
+   "bloque 11: ratio 1.99",
+   "bloque 12: ratio 1.75",
+   "bloque 15: ratio 2.30"
+  ],
+  "tokens_in": 46099,
+  "tokens_out": 30309,
+  "destino": "md-es/HR/2020/HR-6351 - Konačno izvješće iskliznuće Čakovec 28.09.2021 web.md"
+ },
+ "md/HR/2020/HR-6370 - Interim Statement.md": {
+  "fichero": "md/HR/2020/HR-6370 - Interim Statement.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 12590,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 4725,
+  "tokens_out": 3007,
+  "destino": "md-es/HR/2020/HR-6370 - Interim Statement.md"
+ },
+ "md/HR/2020/HR-6370 - Konačno izvješće Našice objava.md": {
+  "fichero": "md/HR/2020/HR-6370 - Konačno izvješće Našice objava.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 86152,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 5: ratio 1.91",
+   "bloque 13: cifras largas: faltan 10/44 (23%)"
+  ],
+  "tokens_in": 38657,
+  "tokens_out": 24927,
+  "destino": "md-es/HR/2020/HR-6370 - Konačno izvješće Našice objava.md"
+ },
+ "md/HR/2021/HR-10008 - Konačno izvješće iskliznuće Bregi 13.01.2021._.md": {
+  "fichero": "md/HR/2021/HR-10008 - Konačno izvješće iskliznuće Bregi 13.01.2021._.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 98526,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 5: ratio 2.07"
+  ],
+  "tokens_in": 39051,
+  "tokens_out": 25976,
+  "destino": "md-es/HR/2021/HR-10008 - Konačno izvješće iskliznuće Bregi 13.01.2021._.md"
+ },
+ "md/HR/2021/HR-10033 - Interim Statement Meja iskliznuce 27.1.2021. objava.md": {
+  "fichero": "md/HR/2021/HR-10033 - Interim Statement Meja iskliznuce 27.1.2021. objava.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 14302,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 5293,
+  "tokens_out": 3473,
+  "destino": "md-es/HR/2021/HR-10033 - Interim Statement Meja iskliznuce 27.1.2021. objava.md"
+ },
+ "md/HR/2021/HR-10033 - Konačno izvješće Meja - za objavu.md": {
+  "fichero": "md/HR/2021/HR-10033 - Konačno izvješće Meja - za objavu.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 84271,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 4: ratio 1.69"
+  ],
+  "tokens_in": 33797,
+  "tokens_out": 22553,
+  "destino": "md-es/HR/2021/HR-10033 - Konačno izvješće Meja - za objavu.md"
+ },
+ "md/HR/2021/HR-10034 - konačno izvješće Zaprešić za objavu (003).md": {
+  "fichero": "md/HR/2021/HR-10034 - konačno izvješće Zaprešić za objavu (003).md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 118752,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 8: marcadores de página: 3 vs 2",
+   "bloque 11: marcadores de página: 2 vs 1",
+   "bloque 18: ratio 1.60"
+  ],
+  "tokens_in": 53115,
+  "tokens_out": 35183,
+  "destino": "md-es/HR/2021/HR-10034 - konačno izvješće Zaprešić za objavu (003).md"
+ },
+ "md/HR/2021/HR-10034- Interim Statement - Privremena izjava Zaprešić objava.md": {
+  "fichero": "md/HR/2021/HR-10034- Interim Statement - Privremena izjava Zaprešić objava.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 14381,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 5214,
+  "tokens_out": 3369,
+  "destino": "md-es/HR/2021/HR-10034- Interim Statement - Privremena izjava Zaprešić objava.md"
+ },
+ "md/HR/2021/HR-10082 - Interim Statement -privremena izjava nacrt za objavu.md": {
+  "fichero": "md/HR/2021/HR-10082 - Interim Statement -privremena izjava nacrt za objavu.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 14441,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 5293,
+  "tokens_out": 3462,
+  "destino": "md-es/HR/2021/HR-10082 - Interim Statement -privremena izjava nacrt za objavu.md"
+ },
+ "md/HR/2021/HR-10082 - Konačno izvješće 17 06 2021.md": {
+  "fichero": "md/HR/2021/HR-10082 - Konačno izvješće 17 06 2021.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 88613,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/18 (22%)",
+   "bloque 13: ratio 1.69"
+  ],
+  "tokens_in": 36531,
+  "tokens_out": 23964,
+  "destino": "md-es/HR/2021/HR-10082 - Konačno izvješće 17 06 2021.md"
+ },
+ "md/HR/2021/HR-10116 - Konačno izvješće 11 08 2021.md": {
+  "fichero": "md/HR/2021/HR-10116 - Konačno izvješće 11 08 2021.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 135540,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 50047,
+  "tokens_out": 33464,
+  "destino": "md-es/HR/2021/HR-10116 - Konačno izvješće 11 08 2021.md"
+ },
+ "md/HR/2021/HR-10160 - Konačno izvješće Novska 11.11.2021. spad.md": {
+  "fichero": "md/HR/2021/HR-10160 - Konačno izvješće Novska 11.11.2021. spad.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 84265,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/19 (21%)"
+  ],
+  "tokens_in": 32636,
+  "tokens_out": 21556,
+  "destino": "md-es/HR/2021/HR-10160 - Konačno izvješće Novska 11.11.2021. spad.md"
+ },
+ "md/HR/2021/HR-10165 - Konačno izvješće nesreća ŽCP Klara blok 3 03.12.2021._.md": {
+  "fichero": "md/HR/2021/HR-10165 - Konačno izvješće nesreća ŽCP Klara blok 3 03.12.2021._.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 111345,
+  "ratio": 1.21,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/19 (21%)",
+   "bloque 4: ratio 1.77"
+  ],
+  "tokens_in": 44671,
+  "tokens_out": 29800,
+  "destino": "md-es/HR/2021/HR-10165 - Konačno izvješće nesreća ŽCP Klara blok 3 03.12.2021._.md"
+ },
+ "md/HR/2022/HR-10214 - web KONAČNO izvješće Okučani pregaženje radnika.md": {
+  "fichero": "md/HR/2022/HR-10214 - web KONAČNO izvješće Okučani pregaženje radnika.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 101768,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/18 (22%)",
+   "bloque 14: ratio 1.61"
+  ],
+  "tokens_in": 41374,
+  "tokens_out": 26558,
+  "destino": "md-es/HR/2022/HR-10214 - web KONAČNO izvješće Okučani pregaženje radnika.md"
+ },
+ "md/HR/2022/HR-10214- interim statement_2022-03-28.md": {
+  "fichero": "md/HR/2022/HR-10214- interim statement_2022-03-28.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 15201,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 5926,
+  "tokens_out": 4017,
+  "destino": "md-es/HR/2022/HR-10214- interim statement_2022-03-28.md"
+ },
+ "md/HR/2022/HR-10297 - web Konačno izvješće nesreća ŽCP Milja 01.08.2022._.md": {
+  "fichero": "md/HR/2022/HR-10297 - web Konačno izvješće nesreća ŽCP Milja 01.08.2022._.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 104192,
+  "ratio": 1.23,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/19 (21%)",
+   "bloque 4: ratio 1.76"
+  ],
+  "tokens_in": 41773,
+  "tokens_out": 27942,
+  "destino": "md-es/HR/2022/HR-10297 - web Konačno izvješće nesreća ŽCP Milja 01.08.2022._.md"
+ },
+ "md/HR/2022/HR-10302 - Konačno izvješće.md": {
+  "fichero": "md/HR/2022/HR-10302 - Konačno izvješće.md",
+  "estado": "revisar",
+  "idioma": "??",
+  "chars": 173120,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 11: ratio 1.62",
+   "bloque 26: ratio 1.73"
+  ],
+  "tokens_in": 79826,
+  "tokens_out": 64952,
+  "destino": "md-es/HR/2022/HR-10302 - Konačno izvješće.md"
+ },
+ "md/HR/2022/HR-10342 - Konačno izvješće Škrljevo14.11.2022 z.md": {
+  "fichero": "md/HR/2022/HR-10342 - Konačno izvješće Škrljevo14.11.2022 z.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 113431,
+  "ratio": 1.19,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/19 (21%)",
+   "bloque 4: ratio 1.67",
+   "bloque 16: ratio 2.00"
+  ],
+  "tokens_in": 50026,
+  "tokens_out": 33793,
+  "destino": "md-es/HR/2022/HR-10342 - Konačno izvješće Škrljevo14.11.2022 z.md"
+ },
+ "md/HR/2022/HR-10342 - PRIVREMENA IZJAVA Škrljevo.md": {
+  "fichero": "md/HR/2022/HR-10342 - PRIVREMENA IZJAVA Škrljevo.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 15560,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/17 (24%)"
+  ],
+  "tokens_in": 8251,
+  "tokens_out": 5435,
+  "destino": "md-es/HR/2022/HR-10342 - PRIVREMENA IZJAVA Škrljevo.md"
+ },
+ "md/HR/2023/HR-10361 -Konačno nesreća Pula nalet 14.01.2023. objava_.md": {
+  "fichero": "md/HR/2023/HR-10361 -Konačno nesreća Pula nalet 14.01.2023. objava_.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 98233,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 36629,
+  "tokens_out": 24687,
+  "destino": "md-es/HR/2023/HR-10361 -Konačno nesreća Pula nalet 14.01.2023. objava_.md"
+ },
+ "md/HR/2023/HR-10410 - Final Report KONAČNO izvješće Andrijevci WEB.md": {
+  "fichero": "md/HR/2023/HR-10410 - Final Report KONAČNO izvješće Andrijevci WEB.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 100238,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 5: ratio 2.21"
+  ],
+  "tokens_in": 39755,
+  "tokens_out": 27306,
+  "destino": "md-es/HR/2023/HR-10410 - Final Report KONAČNO izvješće Andrijevci WEB.md"
+ },
+ "md/HR/2023/HR-10410 - Interim Statement 341-09_23-03_189_privremena_izjava.md": {
+  "fichero": "md/HR/2023/HR-10410 - Interim Statement 341-09_23-03_189_privremena_izjava.md",
+  "estado": "ok",
+  "idioma": "??",
+  "chars": 16377,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 6959,
+  "tokens_out": 4386,
+  "destino": "md-es/HR/2023/HR-10410 - Interim Statement 341-09_23-03_189_privremena_izjava.md"
+ },
+ "md/HR/2023/HR-10428 - KI incident izbjegnut sudar Sušak Pećine 22.06.2023._.md": {
+  "fichero": "md/HR/2023/HR-10428 - KI incident izbjegnut sudar Sušak Pećine 22.06.2023._.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 129870,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 4: ratio 1.69",
+   "bloque 5: ratio 2.00",
+   "bloque 7: ratio 1.68"
+  ],
+  "tokens_in": 59557,
+  "tokens_out": 40965,
+  "destino": "md-es/HR/2023/HR-10428 - KI incident izbjegnut sudar Sušak Pećine 22.06.2023._.md"
+ },
+ "md/HR/2023/hr-10458 - interim statement -privremena izjava velika gorica.md": {
+  "fichero": "md/HR/2023/hr-10458 - interim statement -privremena izjava velika gorica.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 16134,
+  "ratio": 1.21,
+  "avisos": [],
+  "tokens_in": 8901,
+  "tokens_out": 5517,
+  "destino": "md-es/HR/2023/hr-10458 - interim statement -privremena izjava velika gorica.md"
+ },
+ "md/HR/2024/hr-10611 - final report konačno izvješće ozbiljna nesreća iskliznuće karlovac 09.10.2024. web.md": {
+  "fichero": "md/HR/2024/hr-10611 - final report konačno izvješće ozbiljna nesreća iskliznuće karlovac 09.10.2024. web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 126619,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 11: ratio 1.65",
+   "bloque 14: ratio 1.81"
+  ],
+  "tokens_in": 58131,
+  "tokens_out": 42060,
+  "destino": "md-es/HR/2024/hr-10611 - final report konačno izvješće ozbiljna nesreća iskliznuće karlovac 09.10.2024. web.md"
+ },
+ "md/HR/2024/konačno izvješće krčeni put web.md": {
+  "fichero": "md/HR/2024/konačno izvješće krčeni put web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 118922,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 5: ratio 1.71"
+  ],
+  "tokens_in": 47715,
+  "tokens_out": 32350,
+  "destino": "md-es/HR/2024/konačno izvješće krčeni put web.md"
+ },
+ "md/HR/2024/konačno izvješće nesreća iskliznuće hreljin 08.08.2024. web (1).md": {
+  "fichero": "md/HR/2024/konačno izvješće nesreća iskliznuće hreljin 08.08.2024. web (1).md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 96263,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 36364,
+  "tokens_out": 24142,
+  "destino": "md-es/HR/2024/konačno izvješće nesreća iskliznuće hreljin 08.08.2024. web (1).md"
+ },
+ "md/HR/2024/konačno izvješće nesreća žcp stare plavnice 15.02.2024. web.md": {
+  "fichero": "md/HR/2024/konačno izvješće nesreća žcp stare plavnice 15.02.2024. web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 110794,
+  "ratio": 1.2,
+  "avisos": [
+   "bloque 1: cifras largas: faltan 4/18 (22%)",
+   "bloque 5: ratio 2.09"
+  ],
+  "tokens_in": 44717,
+  "tokens_out": 29957,
+  "destino": "md-es/HR/2024/konačno izvješće nesreća žcp stare plavnice 15.02.2024. web.md"
+ },
+ "md/HR/2024/konačno izvješće ozbiljna nesreća buzin web.md": {
+  "fichero": "md/HR/2024/konačno izvješće ozbiljna nesreća buzin web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 108240,
+  "ratio": 1.17,
+  "avisos": [],
+  "tokens_in": 41979,
+  "tokens_out": 29287,
+  "destino": "md-es/HR/2024/konačno izvješće ozbiljna nesreća buzin web.md"
+ },
+ "md/HR/2024/privremena izjava karlovac web.md": {
+  "fichero": "md/HR/2024/privremena izjava karlovac web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 14965,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 5523,
+  "tokens_out": 3632,
+  "destino": "md-es/HR/2024/privremena izjava karlovac web.md"
+ },
+ "md/HR/2024/privremena izjava krčeni_objava web.md": {
+  "fichero": "md/HR/2024/privremena izjava krčeni_objava web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 13635,
+  "ratio": 1.18,
+  "avisos": [],
+  "tokens_in": 5010,
+  "tokens_out": 3233,
+  "destino": "md-es/HR/2024/privremena izjava krčeni_objava web.md"
+ },
+ "md/HR/2024/privremena izjava-ozbiljna nesreća buzin.md": {
+  "fichero": "md/HR/2024/privremena izjava-ozbiljna nesreća buzin.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 14312,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 5155,
+  "tokens_out": 3304,
+  "destino": "md-es/HR/2024/privremena izjava-ozbiljna nesreća buzin.md"
+ },
+ "md/HR/2025/hr-10672 - final report konačno izvješće - incident izbjegnut sudar lekenik - greda 19.3.2025. web.md": {
+  "fichero": "md/HR/2025/hr-10672 - final report konačno izvješće - incident izbjegnut sudar lekenik - greda 19.3.2025. web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 133744,
+  "ratio": 1.17,
+  "avisos": [
+   "bloque 7: ratio 1.89"
+  ],
+  "tokens_in": 51668,
+  "tokens_out": 35693,
+  "destino": "md-es/HR/2025/hr-10672 - final report konačno izvješće - incident izbjegnut sudar lekenik - greda 19.3.2025. web.md"
+ },
+ "md/HR/2025/hr-10672 - interim report privremena izjava lekenik.md": {
+  "fichero": "md/HR/2025/hr-10672 - interim report privremena izjava lekenik.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 14719,
+  "ratio": 1.19,
+  "avisos": [],
+  "tokens_in": 5333,
+  "tokens_out": 3535,
+  "destino": "md-es/HR/2025/hr-10672 - interim report privremena izjava lekenik.md"
+ },
+ "md/HR/2025/hr-10674 - final report konačno izvješće lupoglav 19.03.2025. web.md": {
+  "fichero": "md/HR/2025/hr-10674 - final report konačno izvješće lupoglav 19.03.2025. web.md",
+  "estado": "revisar",
+  "idioma": "HR",
+  "chars": 103546,
+  "ratio": 1.18,
+  "avisos": [
+   "bloque 14: ratio 1.83"
+  ],
+  "tokens_in": 45475,
+  "tokens_out": 31354,
+  "destino": "md-es/HR/2025/hr-10674 - final report konačno izvješće lupoglav 19.03.2025. web.md"
+ },
+ "md/HR/2025/hr-10727 - interim report privremena izjava oriovac web.md": {
+  "fichero": "md/HR/2025/hr-10727 - interim report privremena izjava oriovac web.md",
+  "estado": "ok",
+  "idioma": "HR",
+  "chars": 13790,
+  "ratio": 1.2,
+  "avisos": [],
+  "tokens_in": 4987,
+  "tokens_out": 3197,
+  "destino": "md-es/HR/2025/hr-10727 - interim report privremena izjava oriovac web.md"
+ }
+}

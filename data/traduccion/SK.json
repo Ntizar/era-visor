@@ -1,433 +1,158 @@
 {
  "md/SK/2006/A3 DNV-260506.md": {
   "fichero": "md/SK/2006/A3 DNV-260506.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 67,
-  "ratio": 0.93,
-  "avisos": [],
-  "tokens_in": 568,
-  "tokens_out": 24,
-  "destino": "md-es/SK/2006/A3 DNV-260506.md"
+  "estado": "ya"
  },
  "md/SK/2006/B2 Handlova-310306.md": {
   "fichero": "md/SK/2006/B2 Handlova-310306.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 12379,
-  "ratio": 1.22,
-  "avisos": [],
-  "tokens_in": 4865,
-  "tokens_out": 3313,
-  "destino": "md-es/SK/2006/B2 Handlova-310306.md"
+  "estado": "ya"
  },
  "md/SK/2006/B2 Hlboke-300306.md": {
   "fichero": "md/SK/2006/B2 Hlboke-300306.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 12686,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 5015,
-  "tokens_out": 3388,
-  "destino": "md-es/SK/2006/B2 Hlboke-300306.md"
+  "estado": "ya"
  },
  "md/SK/2012/Nové_Zámky-021012.md": {
   "fichero": "md/SK/2012/Nové_Zámky-021012.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 27477,
-  "ratio": 1.23,
-  "avisos": [],
-  "tokens_in": 10951,
-  "tokens_out": 7454,
-  "destino": "md-es/SK/2012/Nové_Zámky-021012.md"
+  "estado": "ya"
  },
  "md/SK/2012/Final_report-Zilina-190712.md": {
   "fichero": "md/SK/2012/Final_report-Zilina-190712.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 53346,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 23083,
-  "tokens_out": 14728,
-  "destino": "md-es/SK/2012/Final_report-Zilina-190712.md"
+  "estado": "ya"
  },
  "md/SK/2012/Podunajské Biskupice_02092012.md": {
   "fichero": "md/SK/2012/Podunajské Biskupice_02092012.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 44777,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 18832,
-  "tokens_out": 11752,
-  "destino": "md-es/SK/2012/Podunajské Biskupice_02092012.md"
+  "estado": "ya"
  },
  "md/SK/2012/BA_hl_st-261012.md": {
   "fichero": "md/SK/2012/BA_hl_st-261012.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 59893,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 25596,
-  "tokens_out": 16933,
-  "destino": "md-es/SK/2012/BA_hl_st-261012.md"
+  "estado": "ya"
  },
  "md/SK/2012/Podunajské_Biskupice-020912.md": {
   "fichero": "md/SK/2012/Podunajské_Biskupice-020912.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 44546,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 18832,
-  "tokens_out": 11608,
-  "destino": "md-es/SK/2012/Podunajské_Biskupice-020912.md"
+  "estado": "ya"
  },
  "md/SK/2010/Final_report-Spisska_Nova_Ves-010410.md": {
   "fichero": "md/SK/2010/Final_report-Spisska_Nova_Ves-010410.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 62926,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 27823,
-  "tokens_out": 17807,
-  "destino": "md-es/SK/2010/Final_report-Spisska_Nova_Ves-010410.md"
+  "estado": "ya"
  },
  "md/SK/2012/Final_report-Liptovsky_Mikulas-200212.md": {
   "fichero": "md/SK/2012/Final_report-Liptovsky_Mikulas-200212.md",
-  "estado": "ok",
-  "idioma": "CS",
-  "chars": 29995,
-  "ratio": 0.99,
-  "avisos": [],
-  "tokens_in": 32656,
-  "tokens_out": 26336,
-  "destino": "md-es/SK/2012/Final_report-Liptovsky_Mikulas-200212.md"
+  "estado": "ya"
  },
  "md/SK/2012/Zlatovce-181012.md": {
   "fichero": "md/SK/2012/Zlatovce-181012.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 47440,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 21228,
-  "tokens_out": 13114,
-  "destino": "md-es/SK/2012/Zlatovce-181012.md"
+  "estado": "ya"
  },
  "md/SK/2013/Benadiková-230113.md": {
   "fichero": "md/SK/2013/Benadiková-230113.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 39133,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 18538,
-  "tokens_out": 11846,
-  "destino": "md-es/SK/2013/Benadiková-230113.md"
+  "estado": "ya"
  },
  "md/SK/2015/SK 03.08.2015 14_BA LamaÄ.md": {
   "fichero": "md/SK/2015/SK 03.08.2015 14_BA LamaÄ.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 1903,
-  "ratio": 1.15,
-  "avisos": [],
-  "tokens_in": 1189,
-  "tokens_out": 522,
-  "destino": "md-es/SK/2015/SK 03.08.2015 14_BA LamaÄ.md"
+  "estado": "ya"
  },
  "md/SK/2012/Východná-081012.md": {
   "fichero": "md/SK/2012/Východná-081012.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 53536,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 23487,
-  "tokens_out": 15326,
-  "destino": "md-es/SK/2012/Východná-081012.md"
+  "estado": "ya"
  },
  "md/SK/2015/SK 01.10.2015 18_BA.md": {
   "fichero": "md/SK/2015/SK 01.10.2015 18_BA.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 27056,
-  "ratio": 1.17,
-  "avisos": [],
-  "tokens_in": 11240,
-  "tokens_out": 7342,
-  "destino": "md-es/SK/2015/SK 01.10.2015 18_BA.md"
+  "estado": "ya"
  },
  "md/SK/2014/SK 27.08.2014 13_Bánovce.md": {
   "fichero": "md/SK/2014/SK 27.08.2014 13_Bánovce.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 38180,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 16378,
-  "tokens_out": 10412,
-  "destino": "md-es/SK/2014/SK 27.08.2014 13_Bánovce.md"
+  "estado": "ya"
  },
  "md/SK/2013/Leopoldov_09112013.md": {
   "fichero": "md/SK/2013/Leopoldov_09112013.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 50869,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 21609,
-  "tokens_out": 13926,
-  "destino": "md-es/SK/2013/Leopoldov_09112013.md"
+  "estado": "ya"
  },
  "md/SK/2015/SK 13.08.2015 15_Mníchova_Lehota_Bánovce_nB.md": {
   "fichero": "md/SK/2015/SK 13.08.2015 15_Mníchova_Lehota_Bánovce_nB.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 33839,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 14299,
-  "tokens_out": 9173,
-  "destino": "md-es/SK/2015/SK 13.08.2015 15_Mníchova_Lehota_Bánovce_nB.md"
+  "estado": "ya"
  },
  "md/SK/2015/SK 22.09.2015 16_Kalná_nad_Hronom.md": {
   "fichero": "md/SK/2015/SK 22.09.2015 16_Kalná_nad_Hronom.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 27360,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 12104,
-  "tokens_out": 7530,
-  "destino": "md-es/SK/2015/SK 22.09.2015 16_Kalná_nad_Hronom.md"
+  "estado": "ya"
  },
  "md/SK/2014/Krasna_nad_Hornadom___Nižná_Myšla_250214.md": {
   "fichero": "md/SK/2014/Krasna_nad_Hornadom___Nižná_Myšla_250214.md",
-  "estado": "revisar",
-  "idioma": "SK",
-  "chars": 77048,
-  "ratio": 1.23,
-  "avisos": [
-   "bloque 12: marcadores de página: 2 vs 1"
-  ],
-  "tokens_in": 37082,
-  "tokens_out": 24063,
-  "destino": "md-es/SK/2014/Krasna_nad_Hornadom___Nižná_Myšla_250214.md"
+  "estado": "ya"
  },
  "md/SK/2015/SK 26.09.2015 17_Devínska_Nová_Ves.md": {
   "fichero": "md/SK/2015/SK 26.09.2015 17_Devínska_Nová_Ves.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 43488,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 17741,
-  "tokens_out": 12362,
-  "destino": "md-es/SK/2015/SK 26.09.2015 17_Devínska_Nová_Ves.md"
+  "estado": "ya"
  },
  "md/SK/2015/SK 03.11.2015 19_Výh._Petrovce_Michalovce.md": {
   "fichero": "md/SK/2015/SK 03.11.2015 19_Výh._Petrovce_Michalovce.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 77681,
-  "ratio": 1.23,
-  "avisos": [],
-  "tokens_in": 32745,
-  "tokens_out": 20539,
-  "destino": "md-es/SK/2015/SK 03.11.2015 19_Výh._Petrovce_Michalovce.md"
+  "estado": "ya"
  },
  "md/SK/2016/SK 02.12.2016 20_VÃ½chodnÃ¡ - KrLehota.md": {
   "fichero": "md/SK/2016/SK 02.12.2016 20_VÃ½chodnÃ¡ - KrLehota.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 47642,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 19750,
-  "tokens_out": 13147,
-  "destino": "md-es/SK/2016/SK 02.12.2016 20_VÃ½chodnÃ¡ - KrLehota.md"
+  "estado": "ya"
  },
  "md/SK/2017/SK 07.01.2017 21_Poprad_Tatry.md": {
   "fichero": "md/SK/2017/SK 07.01.2017 21_Poprad_Tatry.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 40347,
-  "ratio": 1.23,
-  "avisos": [],
-  "tokens_in": 15889,
-  "tokens_out": 10550,
-  "destino": "md-es/SK/2017/SK 07.01.2017 21_Poprad_Tatry.md"
+  "estado": "ya"
  },
  "md/SK/2016/SK 26.11.2016 22_Å½ilina.md": {
   "fichero": "md/SK/2016/SK 26.11.2016 22_Å½ilina.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 54345,
-  "ratio": 1.25,
-  "avisos": [],
-  "tokens_in": 21479,
-  "tokens_out": 14878,
-  "destino": "md-es/SK/2016/SK 26.11.2016 22_Å½ilina.md"
+  "estado": "ya"
  },
  "md/SK/2018/24_Krompachy.md": {
   "fichero": "md/SK/2018/24_Krompachy.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 26663,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 11551,
-  "tokens_out": 7484,
-  "destino": "md-es/SK/2018/24_Krompachy.md"
+  "estado": "ya"
  },
  "md/SK/2017/SK 19.12.2017 25_Sladkovicovo.md": {
   "fichero": "md/SK/2017/SK 19.12.2017 25_Sladkovicovo.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 37072,
-  "ratio": 1.21,
-  "avisos": [],
-  "tokens_in": 15287,
-  "tokens_out": 10007,
-  "destino": "md-es/SK/2017/SK 19.12.2017 25_Sladkovicovo.md"
+  "estado": "ya"
  },
  "md/SK/2019/28_Sabinov_Lipany.md": {
   "fichero": "md/SK/2019/28_Sabinov_Lipany.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 18429,
-  "ratio": 1.24,
-  "avisos": [],
-  "tokens_in": 7600,
-  "tokens_out": 5154,
-  "destino": "md-es/SK/2019/28_Sabinov_Lipany.md"
+  "estado": "ya"
  },
  "md/SK/2018/SK 14.11.2018 27_BA-RaÄa.md": {
   "fichero": "md/SK/2018/SK 14.11.2018 27_BA-RaÄa.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 37582,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 15741,
-  "tokens_out": 10443,
-  "destino": "md-es/SK/2018/SK 14.11.2018 27_BA-RaÄa.md"
+  "estado": "ya"
  },
  "md/SK/2017/SK 08.03.2017 23_TrenÄÃ­n _Zlatovce.md": {
   "fichero": "md/SK/2017/SK 08.03.2017 23_TrenÄÃ­n _Zlatovce.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 53969,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 22416,
-  "tokens_out": 15527,
-  "destino": "md-es/SK/2017/SK 08.03.2017 23_TrenÄÃ­n _Zlatovce.md"
+  "estado": "ya"
  },
  "md/SK/2021/SK-10157 - 31_DNV_BratislavaLamač.md": {
   "fichero": "md/SK/2021/SK-10157 - 31_DNV_BratislavaLamač.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 23564,
-  "ratio": 1.23,
-  "avisos": [],
-  "tokens_in": 9801,
-  "tokens_out": 6452,
-  "destino": "md-es/SK/2021/SK-10157 - 31_DNV_BratislavaLamač.md"
+  "estado": "ya"
  },
  "md/SK/2018/SK 16.02.2018 26_Trencin.md": {
   "fichero": "md/SK/2018/SK 16.02.2018 26_Trencin.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 51198,
-  "ratio": 1.19,
-  "avisos": [],
-  "tokens_in": 21213,
-  "tokens_out": 14008,
-  "destino": "md-es/SK/2018/SK 16.02.2018 26_Trencin.md"
+  "estado": "ya"
  },
  "md/SK/2019/30_Bratislava hl st.md": {
   "fichero": "md/SK/2019/30_Bratislava hl st.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 37001,
-  "ratio": 1.24,
-  "avisos": [],
-  "tokens_in": 15335,
-  "tokens_out": 10168,
-  "destino": "md-es/SK/2019/30_Bratislava hl st.md"
+  "estado": "ya"
  },
  "md/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md": {
   "fichero": "md/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md",
-  "estado": "ok",
-  "idioma": "??",
-  "chars": 408,
-  "ratio": 0.94,
-  "avisos": [],
-  "tokens_in": 702,
-  "tokens_out": 158,
-  "destino": "md-es/SK/2025/sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md"
+  "estado": "ya"
  },
  "md/SK/2023/SK-10476 - 34_Martin__Vrútky.md": {
   "fichero": "md/SK/2023/SK-10476 - 34_Martin__Vrútky.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 20898,
-  "ratio": 1.2,
-  "avisos": [],
-  "tokens_in": 8477,
-  "tokens_out": 5637,
-  "destino": "md-es/SK/2023/SK-10476 - 34_Martin__Vrútky.md"
+  "estado": "ya"
  },
  "md/SK/2019/29_Krompachy.md": {
   "fichero": "md/SK/2019/29_Krompachy.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 64081,
-  "ratio": 1.25,
-  "avisos": [],
-  "tokens_in": 26756,
-  "tokens_out": 18666,
-  "destino": "md-es/SK/2019/29_Krompachy.md"
+  "estado": "ya"
  },
  "md/SK/2022/SK-10234 - 32_Varin_Vrutky (002).md": {
   "fichero": "md/SK/2022/SK-10234 - 32_Varin_Vrutky (002).md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 73262,
-  "ratio": 1.23,
-  "avisos": [],
-  "tokens_in": 33690,
-  "tokens_out": 20623,
-  "destino": "md-es/SK/2022/SK-10234 - 32_Varin_Vrutky (002).md"
+  "estado": "ya"
  },
  "md/SK/2024/35_nové zámky - dvory nad žitavou.md": {
   "fichero": "md/SK/2024/35_nové zámky - dvory nad žitavou.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 106072,
-  "ratio": 1.25,
-  "avisos": [],
-  "tokens_in": 47361,
-  "tokens_out": 32301,
-  "destino": "md-es/SK/2024/35_nové zámky - dvory nad žitavou.md"
+  "estado": "ya"
  },
  "md/SK/2025/sk-10738 - 36_jablonov_nad_turňou.md": {
   "fichero": "md/SK/2025/sk-10738 - 36_jablonov_nad_turňou.md",
-  "estado": "ok",
-  "idioma": "SK",
-  "chars": 96629,
-  "ratio": 1.18,
-  "avisos": [],
-  "tokens_in": 46066,
-  "tokens_out": 32717,
-  "destino": "md-es/SK/2025/sk-10738 - 36_jablonov_nad_turňou.md"
+  "estado": "ya"
  }
 }
