@@ -10,13 +10,13 @@ chars: 192681
 ratio_longitud: 1.06
 tokens_in: 79810
 tokens_out: 60196
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 81: cifras largas: faltan 1/2 (50%)"]
-notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (DE)", "página 30: cifras cortas: 2/38", "página 42: cifras cortas: 2/31", "página 50: cifras largas: 1/7; cifras cortas: 1/8", "página 88: cifras cortas: 2/34", "página 149: cifras cortas: 1/11"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 60uu2017-05/002-3323  
 Expediente: 
@@ -34,10 +34,10 @@ Dortmund Hbf
 Vía: 
 8 
 Punto kilométrico: 
-163,683 
-
+163,683
 
 ## Página 2
+
 
 Informe de investigación 
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf 
@@ -45,10 +45,10 @@ Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Heinemannstraße 6 
 53175 Bonn 
-Página 2 de 81 
-
+Página 2 de 81
 
 ## Página 3
+
 
 Informe de investigación 
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf 
@@ -104,10 +104,10 @@ Comprobación de grupos de relés del puesto de mando Dhf.......................
 Impresora de averías del puesto de mando Dhf...........................................................................42   
 4.4.4 
 Motor de aguja S700 de la DKW 36 a/b ............................................................43   
-Página 3 de 81 
-
+Página 3 de 81
 
 ## Página 4
+
 
 Informe de investigación 
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf 
@@ -169,6 +169,7 @@ Página 4 de 81
 
 ## Página 5
 
+
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
 5.4.1
@@ -185,8 +186,8 @@ Conclusiones del procedimiento de emisión de alegaciones.......................
 Recomendaciones de seguridad ...............................................................................80
 Página 5 de 81
 
-
 ## Página 6
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -220,6 +221,7 @@ Página 6 de 81
 
 ## Página 7
 
+
 Informe de investigación 
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf 
 Fig. 26: Punto de deformación ..................................................................................................38  
@@ -249,10 +251,10 @@ Fig. 49 huella lateral de rodadura de un aro de rueda en el carril lateral izqui
 Fig. 50 Final de la huella de rodadura del aro de rueda.......................................................................59  
 Fig. 51: proceso de descarrilamiento reconstruido......................................................................60  
 Fig. 52: Marcas de descarrilamiento en el área de los tope de apoyo de la lengüeta izquierda......................61  
-Página 7 de 81 
-
+Página 7 de 81
 
 ## Página 8
+
 
 Informe de investigación 
 Descarrilamiento de tren,  01.05.2017,  Dortmund Hbf 
@@ -276,10 +278,10 @@ Tabla 3: Explicaciones sobre el proceso de descarrilamiento reconstruido .......
 ### Anexos:  
 01 
 DB Systemtechnik, Simulación multibody ICE2 
-Página 8 de 81 
-
+Página 8 de 81
 
 ## Página 9
+
 
 Informe de investigación 
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf 
@@ -342,6 +344,7 @@ Página 9 de 81
 
 ## Página 10
 
+
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
 FR
@@ -396,8 +399,8 @@ WM
 Centro de aguja (Weichenmitte)
 Página 10 de 81
 
-
 ## Página 11
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -415,8 +418,8 @@ Debido al cierre necesario de la línea y a las destrucciones en el área de ent
 La causa del descarrilamiento fue la elevación no intencionada de una rueda del penúltimo vagón en el ámbito del dispositivo de lengüeta de aguja izquierdo de la DKW 36 a. La elevación no intencionada de la rueda fue provocada por un golpe de tipo impulsivo en combinación con cambios en la superficie de contacto rueda/lengüeta de aguja.
 Página 11 de 81
 
-
 ## Página 12
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -425,8 +428,8 @@ Fuente: BPol
 Fig. 2: Trabajos en el carril del ICE 945
 Página 12 de 81
 
-
 ## Página 13
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -442,8 +445,8 @@ Dado que el suceso objeto de este informe se produjo antes del día de creación
 Para más información, puede consultarse en Internet en >> www.beu.bund.de <<.
 Página 13 de 81
 
-
 ## Página 14
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -475,6 +478,7 @@ Página 14 de 81
 
 ## Página 15
 
+
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
 ## 3
@@ -490,8 +494,8 @@ Debido a la gran destrucción de las instalaciones de vía y a las huellas de de
 Tras el descarrilamiento y la activación de un freno de emergencia, el tren se detuvo tras unos 300 m con el TK y cuatro MW en el andén. Los coches restantes se detuvieron antes del andén. Debido a la circulación por dos vías, se destruyeron la superestructura y un total de ocho agujas, así como las instalaciones de LST correspondientes.
 Página 15 de 81
 
-
 ## Página 16
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -499,8 +503,8 @@ Fig. 3: Plano de situación
 Fuente: Plano IVL de DB Netz AG, editado por BEU
 Página 16 de 81
 
-
 ## Página 17
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -531,8 +535,8 @@ Maquinista (Tf) del ICE 945
 Según la declaración del Tf, desde el inicio de la circulación del tren ICE 945 en Düsseldorf Hbf no se habían producido irregularidades. Había regulado la velocidad a partir de la Esig D540 de la estación de Dortmund Hbf a 80 km/h y, a continuación, había circulado en dirección al andén sin anomalías. Poco antes del andén se había producido una frenada de emergencia, que él inmediatamente
 Página 17 de 81
 
-
 ## Página 18
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -550,6 +554,7 @@ Desde la línea libre 2158 procedente de dirección Bochum, la estación de Dort
 Página 18 de 81
 
 ## Página 19
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -577,8 +582,8 @@ Estado del desvío DKW 36 tras el suceso
 Las primeras fotografías tomadas por la Policía Federal aproximadamente 55 minutos después del suceso acreditan que la DKW 36 en la parte a no se encontraba en una posición configurada para la circulación del tren ICE 945.
 Página 19 de 81
 
-
 ## Página 20
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -588,8 +593,8 @@ Según la disposición de las huellas, cabe suponer que el TK y los cinco MW sig
 En las inspecciones in situ se constató que la DKW 36 no se encontraba en la posición final a/c necesaria para la circulación del tren. En el tramo recto de la DKW recorrida, resultaba llamativa una adherencia inusualmente marcada de grasa de engrase de la pestaña en la aguja izquierda del desvío, originalmente en contacto, recorrida por su canto.
 Página 20 de 81
 
-
 ## Página 21
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -600,8 +605,8 @@ Se realizó una inspección especial del desvío para detectar posibles desviaci
 En la medición geométrica de la DKW 36 según Ril 821.2005 no se detectaron defectos relevantes. Únicamente en la parte c/d del desvío se documentaron excesos en la altura de la flecha y en la anchura de vía, que sin embargo se encontraban muy lejos del punto de descarrilamiento y debían clasificarse como consecuencia del descarrilamiento.
 Página 21 de 81
 
-
 ## Página 22
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -609,8 +614,8 @@ Fig. 6: aguja izquierda con huellas de paso en la zona delantera
 Fig. 7: aguja izquierda con huellas de paso en la zona trasera
 Página 22 de 81
 
-
 ## Página 23
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -618,8 +623,8 @@ Fig. 8: aguja derecha, huellas de desgaste en el dorso de la aguja
 Fig. 9: guiaruedas y tope de apoyo ante el carril de la rodadura derecha, primeros daños por descarrilamiento
 Página 23 de 81
 
-
 ## Página 24
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -627,8 +632,8 @@ Fig. 10: huella de tope del guiarueda derecho en la zona del carril de la rodadu
 Fig. 11: carril de la rodadura derecho, más huellas de descarrilamiento
 Página 24 de 81
 
-
 ## Página 25
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -660,8 +665,8 @@ n
 g
 Página 25 de 81
 
-
 ## Página 26
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -670,23 +675,23 @@ Las figuras muestran el estado encontrado tras el descarrilamiento. La evaluaci�
 En el marco de las inspecciones se detectó una holgura entre los tope de apoyo y la aguja izquierda del desvío. De las siguientes fig. 16 1–4 se desprende que en el alma de la aguja izquierda no existían huellas de contacto de los tope de apoyo. Esto acredita que la aguja ya antes del descarrilamiento no estaba al ras de los tope de apoyo y que la holgura encontrada no podía ser una consecuencia exclusiva del descarrilamiento. La fig. 17 y la fig. 52 muestran huellas de fricción claras en el resbaladero, provenientes del movimiento de la aguja al ser recorrida.
 Página 26 de 81
 
-
 ## Página 27
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
-Página 27 de 81  
-
+Página 27 de 81
 
 ## Página 28
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
 Fig. 16: Representaciones 1–4, aguja izquierda en la zona de los tope de apoyo
 Página 28 de 81
 
-
 ## Página 29
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -696,6 +701,7 @@ Fig. 18: Anomalías en la DKW 36
 Página 29 de 81
 
 ## Página 30
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -724,8 +730,8 @@ El responsable de la planificación y ejecución de la medición de la geometrí
 Se constató que la medición del 22.01.2016 no presentaba excesos relevantes. En las mediciones del 12.07.2016 y del 31.01.2017 se detectaron excesos de SR100 en la altura longitudinal, y en la medición del 31.01.2017 además también un exceso de SR100 en la torsión. No se aportaron a la BEU protocolos de reparaciones realizadas.
 Página 30 de 81
 
-
 ## Página 31
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -733,8 +739,8 @@ Fig. 19: Representación de las mediciones de inspección procedentes de IIS, pa
 Fig. 20: Representación de las mediciones de inspección procedentes de IIS, parte II
 Página 31 de 81
 
-
 ## Página 32
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -750,8 +756,8 @@ Prueba ultrasónica
 Las pruebas ultrasónicas conforme a la Ril 821.2007 se realizaron en plazo. La DKW 36 fue inspeccionada por última vez antes del día del suceso el 16.03.2017. En ella no se detectaron hallazgos relevantes para el descarrilamiento en el lado a-/b-.
 Página 32 de 81
 
-
 ## Página 33
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -765,6 +771,7 @@ Página 33 de 81
 
 ## Página 34
 
+
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
 Conclusión
@@ -775,8 +782,8 @@ Debido a las constataciones visuales de errores de alineación de vía en el pun
 El 15.05.2017 se realizó, antes y en la zona de descarrilamiento, una medición con un tren de medición (MISS-GMTZ) de DB Netz AG. Para ello, se volvió a medir la vía desde km 163,550 hasta km 163,806 en cuanto a la alineación de vía actual. La medición solo pudo realizarse en sentido contrario a la dirección de marcha del ICE descarrilado, debido a la infraestructura disponible de forma limitada como consecuencia del descarrilamiento. La medición confirmó en gran medida los resultados ya documentados en inspecciones anteriores. Los errores de alineación de vía existentes (>SR100) antes de la DKW 36 se habían incrementado ligeramente, pero debían seguir clasificándose como superación de SR100 según la Ril 821.2001. En cuanto al error de altura de aguja ya mencionado, que había alcanzado SR100, el valor medido se redujo a la mitad. El EIU no pudo acreditar una reparación intermedia. La alineación de vía existente no debe clasificarse como causante del descarrilamiento.
 Página 34 de 81
 
-
 ## Página 35
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -786,8 +793,8 @@ Adicionalmente, para evaluar el comportamiento en marcha de los bogies en la zon
 Cabe señalar que el accionamiento de aguja fue desmontado y vuelto a montar interinamente, en coordinación con la BEU.
 Página 35 de 81
 
-
 ## Página 36
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -795,8 +802,8 @@ Las fig. 24–26 se obtuvieron durante las pruebas de circulación del 16.05.201
 Fig. 24: Situación antes de la circulación
 Página 36 de 81
 
-
 ## Página 37
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -804,8 +811,8 @@ Fig. 25: Rueda sobre la aguja deformada
 Durante la circulación con fines de simulación, quedó claramente visible que se había formado la impresión del laberíntico en la aguja. Esta zona de deformación se aprecia claramente en la figura siguiente.
 Página 37 de 81
 
-
 ## Página 38
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -813,8 +820,8 @@ Fig. 26: Punto de deformación
 Las fig. 27 y 28 muestran huellas de fricción atípicas (1) en el primer resbaladero, justo en el punto de la deformación. El continuo golpeteo duro sobre la aguja dio lugar, durante la circulación, a movimientos no deseados en la punta de la aguja cerrada. Esto tuvo como consecuencia que se aflojara la unión atornillada en la caja de aguja. Asimismo, las dos primeras placas del resbaladero permiten observar un desplazamiento vertical (2) de unos pocos milímetros. Mediante el cierre, la aguja queda bloqueada en la base con el carril de contracarril y puede entreabrirse ligeramente debido a los efectos de la falta de contacto de la aguja con los apoyos en la superficie de rodadura. Debido al golpeteo duro de las ruedas, la aguja fue presionada en la parte superior contra el carril de contracarril y causó en la base de la aguja la huella de fricción visible (2). Dichas huellas solo son apreciables en la DKW 36 en estos dos resbaladeros. El punto de deformación en las fig. 27 y 28 está señalado con una flecha roja en la aguja izquierda.
 Página 38 de 81
 
-
 ## Página 39
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -822,8 +829,8 @@ Fig. 27: Huellas de fricción 1 y 2; resbaladero de la aguja izquierda
 Fig. 28: primer resbaladero de la aguja izquierda
 Página 39 de 81
 
-
 ## Página 40
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -841,6 +848,7 @@ Fuente: DB Systemtechnik GmbH
 Página 40 de 81
 
 ## Página 41
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -861,8 +869,8 @@ En el panel de mando se mostraba una señal de aproximación para la DKW 36 a/b.
 La misma tarde del suceso, personal de DB Netz AG y de la BEU realizó una primera revisión visual de los distintos grupos de relés para el itinerario de circulación del tren y
 Página 41 de 81
 
-
 ## Página 42
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -882,8 +890,8 @@ En la Ril 482.9001 «Operar instalaciones de señales» se regula lo siguiente:
 (2) «Las impresoras de averías que funcionen correctamente sustituyen las anotaciones de los números de contador en el registro de los contadores. Las operaciones auxiliares deben acreditarse en el dispositivo registrador
 Página 42 de 81
 
-
 ## Página 43
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -894,8 +902,8 @@ Fig. 30: Tira de impresión de la impresora de averías del CTA Dhf
 El motor de aguja se trataba de un motor de corriente alterna accionable con bloqueo por pasador de la empresa Siemens. El motor fue suministrado por la planta de señales de Wuppertal el 05.06.2014. Debe presumirse que el motor de aguja fue instalado junto con la DKW 36 en el marco de obras programadas. A la llegada de la BEU, las lengüetas de aguja de la DKW 36 a/b no se encontraban en la posición prevista para la circulación. La lengüeta derecha estaba apoyada, la lengüeta izquierda se encontraba a unos 100 mm de distancia del carril de vía, pero sin que la DKW hubiera alcanzado su posición final.
 Página 43 de 81
 
-
 ## Página 44
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -907,6 +915,7 @@ Según el «Libro de trabajo y averías», la DKW 36 a/b ya había generado una 
 Página 44 de 81
 
 ## Página 45
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -925,8 +934,8 @@ Dentro de la inspección del mecanismo de cambio la tarde del suceso, en una med
 
 Página 45 de 81
 
-
 ## Página 46
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -959,8 +968,8 @@ El tren estaba compuesto el día del suceso por un total de un TK, seis MW y un 
 Fig. 32: Vista general Tz 229, ICE 945
 Página 46 de 81
 
-
 ## Página 47
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -996,8 +1005,8 @@ Debido al cambio de los TDG se realizó una prueba de circulación, que transcur
 
 Página 47 de 81
 
-
 ## Página 48
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1013,8 +1022,8 @@ La toma de los perfiles de rueda incluía la determinación de la conicidad equi
 
 Página 48 de 81
 
-
 ## Página 49
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1027,6 +1036,7 @@ Del 12 al 18.05.2017, en el marco de la determinación de los hechos, se procedi
 Página 49 de 81
 
 ## Página 50
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1050,8 +1060,8 @@ Bujes de guiado de los ejes
 •
 Página 50 de 81
 
-
 ## Página 51
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1060,8 +1070,8 @@ Fig. 39: identificación de todos los componentes
 Fig. 41: desmontaje de los fuelles de suspensión neumática del sistema de muelle adicional
 Página 51 de 81
 
-
 ## Página 52
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1075,8 +1085,8 @@ En las investigaciones de los bogies y sus componentes se encontraron numerosos 
 La medición de las medidas relevantes del bogie y la carrocería de los vagones no descarrilados del tren principal arrojó varias desviaciones en las medidas de altura y transversales. Una
 Página 52 de 81
 
-
 ## Página 53
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1086,8 +1096,8 @@ remedición tras la corrección del estado de carga condujo a una mejora de los 
 Los tres últimos vagones del Tz 229 fueron trasladados a la planta de DB Instandsetzung AG en Krefeld-Oppum para ulteriores investigaciones. Para el traslado, los vagones dañados se colocaron sobre bogies auxiliares. Dado que ya no existía una conexión fija con la que se pudiera levantar el bogie junto con la carrocería, debido a las barras de tracción/compresión parcialmente destruidas, estas fueron extraídas y aseguradas. Tras la instalación de barras de tracción/compresión íntegras, los vagones pudieron ser levantados sobre bogies auxiliares. Las barras de tracción/compresión dañadas fueron entregadas a la RWTH Aachen para la realización de un examen tecnológico de materiales. En estos exámenes debía determinarse si las roturas existentes eran roturas por fuerza provocadas por el suceso, o si se trataba de roturas por fatiga. Además, se sometió el material utilizado a una prueba de su idoneidad fundamental como barra de tracción/compresión.
 Página 53 de 81
 
-
 ## Página 54
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1096,6 +1106,7 @@ Fig. 45: sección transversal de la barra de tracción/compresión
 Página 54 de 81
 
 ## Página 55
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1110,16 +1121,16 @@ La DKW 36 a/b, aproximadamente en km 163,7, fue alcanzada por la punta del tren 
 El descarrilamiento se produjo, teniendo en cuenta la longitud del tren, a una velocidad de unos 70 km/h.
 Página 55 de 81
 
-
 ## Página 56
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
 Fig. 46: representación gráfica de los datos EFR
 Página 56 de 81
 
-
 ## Página 57
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1131,8 +1142,8 @@ Tras la evaluación de los rastros, se pudo constatar que el descarrilamiento se
 La posición de la lengüeta del cambio después del hecho permitió deducir que durante el paso del tren debió producirse un cambio en la posición del cambio. Debido a los rastros superpuestos en la zona del descarrilamiento, no pudo reconstruirse de forma inequívoca qué RS descarriló primero. Sin embargo, es muy probable que se tratara de la rueda izquierda en el sentido de la marcha del RS 4 del bogie D.
 Página 57 de 81
 
-
 ## Página 58
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1143,8 +1154,8 @@ En la lengüeta izquierda adyacente, en la ranura entre el carril de la base y l
 En la fig. 51, con la ayuda de un vagón de rodadura, se simuló el proceso de descarrilamiento presuntamente ocurrido para reproducir la formación de las huellas de contacto encontradas.
 Página 58 de 81
 
-
 ## Página 59
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1152,8 +1163,8 @@ Fig. 49 huella de rodadura lateral de un labio de rueda en el carril de la base 
 Fig. 50 final de la huella de rodadura del labio de rueda
 Página 59 de 81
 
-
 ## Página 60
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1167,8 +1178,8 @@ La rueda completa se deslizó del carril de la base y cayó sobre las piezas de 
 Tabla 3: explicaciones sobre el proceso de descarrilamiento reconstruido
 Página 60 de 81
 
-
 ## Página 61
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1178,6 +1189,7 @@ En el reverso de la lengüeta (izquierda) se encuentra la huella del labio de ru
 Página 61 de 81
 
 ## Página 62
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1201,8 +1213,8 @@ La posición vía inestable encontrada, admisible según la Ril 821, debe repara
 Se presume que, durante las obras de construcción en la primavera de 2014, un error de montaje en el apriete provocó el error de dirección en la zona del deflector de rueda izquierdo.
 Página 62 de 81
 
-
 ## Página 63
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1219,6 +1231,7 @@ Página 63 de 81
 
 ## Página 64
 
+
 Informe de investigación
 Desvío de tren, 01.05.2017, Dortmund Hbf
 gusión de la aguja. Si la aguja fue limpiada durante la inspección no puede comprobarse. El día del desvío de tren se encontró la aguja extremadamente contaminada con grasa de lubricación de llanta. Las deformaciones y la formación de rebabas no eran aparentemente reconocibles en este estado.
@@ -1232,8 +1245,8 @@ Las posibles causas de ello pueden ser:
 También requiere aclaración la falta de evaluación Alv del encargo NI-01 en junio de 2016. Aquí se plantea la cuestión de si el Alv cumplió su obligación de control aparente de la DKW 36.
 Página 64 de 81
 
-
 ## Página 65
+
 
 Informe de investigación
 Desvío de tren, 01.05.2017, Dortmund Hbf
@@ -1253,8 +1266,8 @@ Sobre esta base se realizaron cálculos comparativos con variación de parámetr
 Un descarrilamiento completo no pudo representarse en la simulación, lo cual, sobre la base de la situación de los datos y las inexactitudes de medición, también sería poco realista de esperar. Sin embargo, mediante la variación de parámetros y la comparación de los resultados de la medición con
 Página 65 de 81
 
-
 ## Página 66
+
 
 Informe de investigación
 Desvío de tren, 01.05.2017, Dortmund Hbf
@@ -1270,6 +1283,7 @@ Página 66 de 81
 
 ## Página 67
 
+
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
 Fig. 53: Representación con microdesgaste 500
@@ -1281,8 +1295,8 @@ Del informe al respecto se desprende que la modelización del modelo de simulaci
 Como causa probable se considera el trepado de la rueda izquierda (RS 4) en el sentido de la marcha del DG delantero (DG D) del penúltimo vagón 806 629-2 sobre el corazón de la aguja debido a
 Página 67 de 81
 
-
 ## Página 68
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1297,8 +1311,8 @@ Fuente: DB Netz AG
 Por el contacto constante y puntualmente más pronunciado de los bordes de la rueda, la deformación en la aguja fue adoptando gradualmente el contorno del borde de la rueda.
 Página 68 de 81
 
-
 ## Página 69
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1313,8 +1327,8 @@ Fuente: DB Systemtechnik, Minden
 Partiendo de los resultados de simulación, en los que la rueda experimentó en el punto de deformación, debido al impulso de contacto, un levantamiento de la rueda de unos 2,5 mm, la superficie de contacto rueda/carril se transformó prácticamente en un contacto de un solo punto en la zona del punto de deformación. Debido al error de dirección, en este evento puntual de corta duración actuaron localmente altas fuerzas de guiado de la rueda, lo que condujo a las desplazamientos de material descritos y a una geometría de contacto modificada. El coeficiente de fricción reducido de la aguja lubricada frenaba aquí el trepado clásico, pero podía favorecer un deslizamiento o un levantamiento de la rueda bajo la influencia del impulso de contacto derivado del ángulo de ataque f.
 Página 69 de 81
 
-
 ## Página 70
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1326,6 +1340,7 @@ Página 70 de 81
 
 ## Página 71
 
+
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
 Aumentar también aún más la zona de deformación. Cuanto más pronunciados eran el ángulo de aproximación y el ángulo de contacto, más desfavorables resultaban también los picos de fuerza dinámicos que se producían.
@@ -1334,8 +1349,8 @@ Fuente: DB Systemtechnik GmbH, elaborado por BEU
 Los puntos de contacto de los dos ángulos de aproximación considerados, de 1 y 1,5°, se sitúan en la zona superior del flanco de la pestaña. Cuanto mayor es el ángulo de aproximación, más hacia delante se desplaza el punto de contacto. Debido al ángulo de aproximación se produce un desplazamiento previo del punto de contacto de unos 23 mm a 1° y 30 mm a 1,5°. Si se considera además la zona del perfil de la rueda en la que el ángulo de la pestaña presenta una inclinación crítica a partir de unos 40° y se proyecta esta en el perfil de deformación de la aguja, existe la posibilidad de que en ese punto se produjera un contacto de la pestaña con la aguja y de que la rueda se elevara por ello y descarrilara. La DB Systemtechnik Minden realizó al respecto ulteriores investigaciones sobre los puntos de contacto rueda/carril. En relación con las condiciones de contacto, los ángulos de contacto se situaban entre unos 65° y unos 71° y no se consideraron críticos.
 Página 71 de 81
 
-
 ## Página 72
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1345,8 +1360,8 @@ Fig. 61: Ángulo de aproximación en la dirección de circulación
 Fuente: Informe DB Systemtechnik GmbH, Kirchmöser
 Página 72 de 81
 
-
 ## Página 73
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1360,8 +1375,8 @@ Como causas determinantes del descarrilamiento han de mencionarse la vía altera
 La investigación de la causa del aviso de aproximación del 22.04.2017 de la DKW 36 a/b no arrojó hallazgos, salvo un anclaje flojo del cajón de desvío.
 Página 73 de 81
 
-
 ## Página 74
+
 
 Informe de investigación
 Descarrilamiento, 01.05.2017, Dortmund Hbf
@@ -1376,6 +1391,7 @@ No puede valorarse de forma concluyente si la anomalía del 22.04.2017 ya guarda
 Página 74 de 81
 
 ## Página 75
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1396,8 +1412,8 @@ Los resultados de las inspecciones de la RWTH Aachen se resumen a continuación.
 «El análisis químico de la muestra del fragmento 1a se encuentra dentro de la composición normalizada de G-AlSi7Mg (3.2371). La dureza de las tres barras de acoplamiento es de 89-95 HBW 5/250 y, por tanto, cumple el requisito de la DIN 1725 parte 2. En el examen raster electrónico [sic!] de las superficies de fractura solo se pudo constatar la fractura violenta. Por consiguiente, las barras no se han roto por una carga oscilante, sino por una sobrecarga violenta única. Dado que el material presenta numerosas
 Página 75 de 81
 
-
 ## Página 76
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1412,8 +1428,8 @@ Según el informe pericial, el parámetro conicidad equivalente, a la velocidad 
 En evaluaciones más amplias de DB Systemtechnik Minden se constató que el ángulo de flanco de la pestaña de los coches descarrilados, pero también de otros coches del tren, superaba los 70°. El ángulo de flanco de la pestaña más pronunciado γ en el perfil de rueda 12 del coche no descarrilado 806.3 era de 77°. En el coche 806.6, que circulaba por detrás y que probablemente descarriló en primer lugar, el ángulo de flanco de la pestaña γ era de unos 74°.
 Página 76 de 81
 
-
 ## Página 77
+
 
 Informe de investigación
 Descarrilamiento de tren, 01.05.2017, Dortmund Hbf
@@ -1423,6 +1439,7 @@ El ángulo de flanco de la pestaña varía con el aumento del desgaste. Mientras
 Página 77 de 81
 
 ## Página 78
+
 
 Informe de investigación
 Desvío de tren, 01.05.2017, Dortmund Hbf
@@ -1440,8 +1457,8 @@ En el marco de un procedimiento de alegaciones se dio a las ferrocarriles partic
 DB Netz AG manifiesta en su alegación que los métodos de investigación y simulación de DB Systemtechnik sobre la causa del desvío del ICE no se correspondían en todos los puntos con la normativa vigente y que, desde el punto de vista de DB Netz AG, los conocimientos derivados no podían explicar una causa clara del desvío. Debido a los intercambios de información periódicos en el marco de la investigación del accidente y al contenido de la alegación, queda claro que DB Netz AG, a diferencia de la BEU y de DB Systemtechnik, parte de bases de valoración fundamentalmente diferentes para evaluar el desvío. DB Netz AG valora el riesgo de desvío sobre la base de normas y directrices. Estas, sin embargo, no pueden tener en cuenta todas las constelaciones y casos posibles de un desvío, sino que surgieron a partir de experiencias operativas, mediciones e investigaciones teóricas. Aun así, no se excluye
 Página 78 de 81
 
-
 ## Página 79
+
 
 Informe de investigación
 Desvío de tren, 01.05.2017, Dortmund Hbf
@@ -1449,8 +1466,8 @@ que se produzcan una y otra vez acontecimientos imprevistos o desvíos. Esto sig
 DB Netz AG, como operador de infraestructura de acuerdo con el § 4 AEG, está obligada a construir su infraestructura ferroviaria de forma segura y a mantenerla en estado de seguridad operativa. Esto incluye también determinar la causa de acontecimientos peligrosos como los desvíos de tren. Independientemente de si la BEU interviene en el caso concreto, las empresas implicadas en acontecimientos peligrosos deben investigarlos, evaluarlos e iniciar las correspondientes medidas correctivas y preventivas. A pesar de varias consultas, DB Netz AG ha omitido hasta la fecha exponer de forma plausible sus propios conocimientos sobre la causa del accidente. Para concluir el informe de investigación, debe constatarse que DB Netz AG, como operador de infraestructura, contraviniendo la citada obligación de investigación, no ha indicado ninguna causa del desvío del ICE, y que las recomendaciones de seguridad están justificadas.
 Página 79 de 81
 
-
 ## Página 80
+
 
 Informe de investigación
 Desvío de tren, 01.05.2017, Dortmund Hbf
@@ -1473,15 +1490,28 @@ Página 80 de 81
 
 ## Página 81
 
-Informe de investigación
-Desvío de tren, 01.05.2017, Dortmund Hbf
-Derivar tendencias y previsiones que permitan una mejor gestión del mantenimiento y, por tanto, aumentar la seguridad.
-Las simulaciones realizadas por DB Systemtechnik aportaron indicaciones decisivas sobre la causa del desvío. Sin embargo, el proceso de desvío propiamente dicho y los mecanismos que actuaron en él no pudieron aclararse completamente.
-Dado que la EIU no ha podido identificar hasta la fecha una causa del desvío, se recomienda realizar más estudios científicos para la determinación de las causas. En ellos deberían examinarse especialmente, además de la trazación y la posición de la vía, los efectos de los cambios en la geometría de contacto entre rueda y riel en la aguja bajo la acción de picos de fuerza de tipo impulsivo provenientes del funcionamiento ferroviario, a fin de establecer valores límite para el desgaste y la deformación en la aguja.
+Informe de investigación 
+Descarrilamiento, 01.05.2017, Dortmund Hbf 
+Derivar tendencias y previsiones que permitan una mejor gestión del 
+mantenimiento y, por tanto, aumentar la seguridad. 
+Las simulaciones realizadas por DB Systemtechnik aportaron 
+datos decisivos sobre la causa del descarrilamiento. Sin embargo, 
+el propio proceso de descarrilamiento y los mecanismos que 
+actuaron en él no pudieron aclararse completamente. 
+Dado que el EIU hasta la fecha no ha podido identificar una causa 
+del descarrilamiento, se recomienda realizar más investigaciones 
+científicas para determinar la causa. En este caso, además de la 
+trazado y la posición de la vía, deberían examinarse especialmente 
+los efectos de los cambios en la geometría de contacto entre rueda 
+y riel en la aguja bajo la acción de picos de fuerza de tipo impulsivo 
+procedentes de la explotación ferroviaria, a fin de establecer 
+límites de desgaste y deformación en la aguja. 
+14/2018 
+DB Netz AG 
 Página 81 de 81
 
-
 ## Página 82
+
 
 # Informe
 ## Accidente Dortmund
@@ -1494,8 +1524,8 @@ Página 81 de 81
 ### Pruebas de resistencia
 Los resultados se refieren exclusivamente a los hechos descritos en el informe. Este informe no puede publicarse sin la autorización escrita del comitente. Una reproducción parcial requiere además el consentimiento del contratista mencionado en el informe.
 
-
 ## Página 83
+
 
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 Página 2 de 36
@@ -1558,8 +1588,8 @@ Primera edición
 Modificaciones editoriales
 18.04.2018
 
-
 ## Página 84
+
 
 Página 3 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1606,8 +1636,8 @@ Oficina Federal de Ferrocarriles
  v
 Velocidad en el sentido de la marcha
 
-
 ## Página 85
+
 
 Página 4 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1689,6 +1719,7 @@ Presentación: Estado actual de la MKS sobre el accidente D
 
 ## Página 86
 
+
 Página 5 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 ### Índice de figuras
@@ -1734,8 +1765,8 @@ Figura
  25
 para la fuerza de guiado.........................................................................................................31 ­
 
-
 ## Página 87
+
 
 Página 6 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1752,6 +1783,7 @@ Tabla 7: Variantes del cálculo de simulación..................................
 
 ## Página 88
 
+
 Página 7 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 ## 1
@@ -1766,6 +1798,7 @@ El ICE 945 circuló por la línea 2158 desde la dirección de Bochum con destino
  vía 8 en la estación de Dortmund. A la altura de las primeras huellas de descarrilamiento, la velocidad del vehículo era de unos 71 km/h; lo admisible habría sido un máximo de 80 km/h en la entrada a la vía 8 [1]. Las primeras huellas de descarrilamiento se encontraron en la aguja 36 DKW54-190-1:9-WITEC en la zona de lengüeta a/b. Planificadamente, el tren habría debido circular por la aguja 36 por el itinerario a – c (Figura 1). Del recorrido de las huellas de descarrilamiento puede deducirse que el primer eje descarrilado circuló con la rueda izquierda por el itinerario desviado en dirección d y con la rueda derecha, según lo previsto, en dirección c. A continuación, debido a la separación de los raíles en los itinerarios hacia c y d, se perdió la fuerza de guiado sobre ambas ruedas. La rueda derecha se situó entonces entre el carril de contrarriel y la lengüeta y se encajó con su laberinto entre la lengüeta y el soporte de lengüeta [3]; se reconoce por las huellas de la superficie de rodadura de la rueda sobre los soportes (Figura 2, imagen 1 derecha). A casi la misma altura se encuentran huellas de la cara interior de la rueda izquierda en la lengüeta izquierda (Figura 2, imagen 1 izquierda). En el desarrollo posterior, la rueda derecha pasa por encima del último soporte de lengüeta antes del guía-ruedas central derecho (Figura 2, imagen 2 derecha), antes de chocar frontalmente contra el guía-ruedas (Figura 2, imagen 3 derecha). A la altura del impacto contra el guía-ruedas, la rueda izquierda pasó por encima con su laberinto de una cabeza de tornillo de fijación del raíl (Figura 2, imagen 2 izquierda).
 
 ## Página 89
+
 
 Página 8 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1783,6 +1816,7 @@ Figura 2: Primeras huellas de descarrilamiento hasta el guía-ruedas central [4]
 
 ## Página 90
 
+
 Página 9 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 La relación causal de las primeras huellas de descarrilamiento demuestra que las dos ruedas del eje circularon en direcciones distintas c y d, aunque ambas habrían debido circular en dirección c. La circulación de la rueda izquierda por el itinerario desviado d habría debido ser impedida por el contacto de la lengüeta izquierda con el carril de contrarriel. Que el itinerario se circulara a pesar de todo puede atribuirse a dos posibilidades:
@@ -1794,6 +1828,7 @@ Figura 3: Huellas de desgaste en la lengüeta izquierda de la aguja 36
 Ante la probable exclusión de una conmutación de aguja intempestiva y el patrón de desgaste llamativo en la lengüeta, se encargó a DB Systemtechnik que investigara más a fondo el contacto contra la lengüeta mediante la simulación multicuerpo (MKS).
 
 ## Página 91
+
 
 Página 10 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1821,6 +1856,7 @@ Los momentos de inercia de la carga se representan mediante un paralelepípedo
 Figura 5: Integración de la carga
 
 ## Página 92
+
 
 Página 11 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1865,8 +1901,8 @@ Figura 6: Modelo de bogie SGP400
 El mayor grado de detalle en la conexión entre la carcasa de rodamiento del eje y el bastidor del bogie, compuesta por el muelle primario y la buje guía, tiene en cuenta las rigideces no lineales dependientes de la dirección de la buje guía y las rigideces lineales del muelle helicoidal primario.
 1  Dimensión límite para el mantenimiento Ril 900.0020
 
-
 ## Página 93
+
 
 Página 12 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1895,8 +1931,8 @@ La rigidez transversal que influye en el giro del bogie en estado vacío es:
 3  Especificación para la buje guía de guiado de eje ICE 3;
 ; Revisión 3 11/1997
 
-
 ## Página 94
+
 
 Página 13 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -1937,6 +1973,7 @@ Tabla 5: Propiedades de masa incorporadas (estado nominal) de los ejes de los va
 5 Valores calculados con SIMPACK a partir de cuerpos CAD con diámetro nuevo de las ruedas
 
 ## Página 95
+
 
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 ­
 Página 14 de 36 ­
@@ -1997,29 +2034,29 @@ Para la simulación se incorporaron los siguientes datos por parte de la vía:
 •  Datos de trazado y de posición de la vía de la medición Railab antes (15.05.2017) y después (25.08.2017) de la reparación 
 •  Perfiles de riel de contracarril y de aguja antes (05.05.2017) y después (07.07.2017) de la reparación 
 El modelo de simulación comienza a unos 800 m antes de la aguja de la aguja, en vía recta sin perturbaciones. Al inicio, el tren circula unos 650 m por una curva a la derecha que luego pasa a una curva a la izquierda de unos 100 m de longitud. Esta termina sin curva de transición a unos 12 m antes de la aguja de la aguja (Figura 8). 
-La posición de la vía medida poco después del accidente y antes del mantenimiento no mostraba la superación de los valores límite según Ril 821 en el lugar del accidente. A una distancia de unos 35 m antes del desvío, en la curva a la izquierda, son observables errores longitudinales de altura con un máximo de 17 mm, que sin embargo no pueden conducir a un descarrilamiento 35 m más tarde (Figura 9). En la zona justo antes de la aguja de la aguja, aparece a la altura del guía-rueda un error de dirección, en el que en el máximo el riel izquierdo en el sentido de circulación se curva unos 9 mm y el riel derecho unos 8 mm hacia la izquierda (Figura 10). 
-
+La posición de la vía medida poco después del accidente y antes del mantenimiento no mostraba la superación de los valores límite según Ril 821 en el lugar del accidente. A una distancia de unos 35 m antes del desvío, en la curva a la izquierda, son observables errores longitudinales de altura con un máximo de 17 mm, que sin embargo no pueden conducir a un descarrilamiento 35 m más tarde (Figura 9). En la zona justo antes de la aguja de la aguja, aparece a la altura del guía-rueda un error de dirección, en el que en el máximo el riel izquierdo en el sentido de circulación se curva unos 9 mm y el riel derecho unos 8 mm hacia la izquierda (Figura 10).
 
 ## Página 96
+
 
 Página 15 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
 Curva a la derecha 
 Curva a la izquierda 
 Figura 8: Trazado incorporado basado en la medición Railab del 15.05.2017 
-Figura 9: Posición de la vía incorporada basada en la medición Railab del 15.05.2017 
-
+Figura 9: Posición de la vía incorporada basada en la medición Railab del 15.05.2017
 
 ## Página 97
+
 
 Página 16 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
 Error de dirección 
 Figura 10: Posición de la vía en la zona de la aguja basada en la medición Railab del 15.05.2017 
-Figura 11: Comparación de la posición de la vía antes (línea roja) y después (línea negra NUEVA) de la reparación 
-
+Figura 11: Comparación de la posición de la vía antes (línea roja) y después (línea negra NUEVA) de la reparación
 
 ## Página 98
+
 
 Página 17 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2027,18 +2064,18 @@ Una comparación de la posición de la vía antes y después del mantenimiento m
 En el momento del accidente el riel estaba mojado, y la zona de la aguja de la aguja estaba además engrasada (Figura 12 6). Dado que la aguja no se engrasa activamente, se trata probablemente de grasa de la lubricación de la pestaña de las ruedas. Para la simulación, en base a estas condiciones de contorno, se asumió un coeficiente de fricción para un riel mojado de 0,25 para ambos rieles y, en la zona de la aguja de la aguja, un valor de 0,15 para una aguja engrasada. 
 Figura 12: Estado de la aguja de la aguja poco después del accidente 
 6  Fuente: imagen captada por la Policía Federal el 01.05.2017 en Dortmund, archivo de imagen facilitado por 
- (BEU)  
-
+ (BEU)
 
 ## Página 99
+
 
 Página 18 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
 Para representar el propio arranque en la aguja, es imprescindible representar, además de los perfiles reales de rueda, el perfil de la aguja adyacente con el riel de contracarril en la zona del arranque. Para ello, se midieron los perfiles de la aguja adyacente con el riel de contracarril, comenzando antes de la aguja de la aguja, a lo largo de 1,2 m. Un total de 21 secciones transversales de la aguja con el riel de contracarril están incorporadas en el modelo de simulación, una para cada medición antes y después de la reparación. La impresión visual del desgaste de la aguja (Figura 3) se observa también en las mediciones de perfil (Figura 13). En la sección transversal a 250 mm del inicio de la aguja, el desgaste es más claramente observable (Figura 14). 
-Figura 13: Medición del perfil de la aguja adyacente con el riel de contracarril antes del mantenimiento; arriba: zona de medición de la medición de perfil, abajo: perfiles de aguja-riel de contracarril 150 mm a partir de detrás del inicio de la aguja 
-
+Figura 13: Medición del perfil de la aguja adyacente con el riel de contracarril antes del mantenimiento; arriba: zona de medición de la medición de perfil, abajo: perfiles de aguja-riel de contracarril 150 mm a partir de detrás del inicio de la aguja
 
 ## Página 100
+
 
 Página 19 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2048,6 +2085,7 @@ Figura 14: Perfil de aguja-riel de contracarril 250 mm del inicio de la aguja
 Figura 15: Comparación de los perfiles antes y después (NUEVO) de la reparación
 
 ## Página 101
+
 
 Página 20 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2059,10 +2097,10 @@ El guiador de ruedas se incorporó en un total de 6 secciones transversales bas�
 Respecto a la metodología de incorporación de los perfiles, cabe señalar que el software de simulación interpola entre las secciones transversales de los perfiles, por lo que para una representación precisa es imprescindible incorporar un número suficiente de perfiles, especialmente en el entorno del guiador de ruedas y entre el guiador de ruedas y la lengua del desvío. Para estas transiciones se incorporaron aproximadamente 30 perfiles en cada caso.
 ## 4 
 ### Variantes
-En coordinación con el BEU, DB Fernverkehr, DB Netz y DB Systemtechnik se calcularon y evaluaron diversas variantes (tabla 7). Las variantes marcadas en rojo se invalidaron a lo largo del proceso de simulación debido a los hallazgos de las otras variantes o a información más reciente. Para las variantes marcadas en naranja cabe decir que estas se han pospuesto por el momento. 
-
+En coordinación con el BEU, DB Fernverkehr, DB Netz y DB Systemtechnik se calcularon y evaluaron diversas variantes (tabla 7). Las variantes marcadas en rojo se invalidaron a lo largo del proceso de simulación debido a los hallazgos de las otras variantes o a información más reciente. Para las variantes marcadas en naranja cabe decir que estas se han pospuesto por el momento.
 
 ## Página 102
+
 
 Página 21 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2071,8 +2109,8 @@ b
 e
 lle 7: Variantes del cálculo de simulación
 
-
 ## Página 103
+
 
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 ­
 Página 22 de 36 ­
@@ -2093,10 +2131,10 @@ El área de contacto se extiende en ambos vagones a lo largo de unos 600 mm. Cua
 0 kN. Las fuerzas máximas de guiado de rueda se producen en ambos vagones a unos 250 mm hasta 300 mm después del comienzo de la lengua del desvío, lo que coincide con las marcas de desgaste en la lengua.
 Debido a la lengua no apoyada en el desvío en el momento del accidente, no es posible realizar afirmaciones cuantitativas basadas en la simulación de forma inequívoca, ya que desviaciones de pocos milímetros en la vía medida medida tienen una influencia considerable en las fuerzas de guiado de rueda. El no apoyo de la lengua puede provocar que
 1. ­ el punto de medición 14 mm por debajo del cantor del raíl se desplace y con ello la vía medida cambie de lengua cargada a lengua no cargada y 
-2. ­ el punto de contacto cambie debido a la deformación elástica de la lengua. 
-
+2. ­ el punto de contacto cambie debido a la deformación elástica de la lengua.
 
 ## Página 104
+
 
 Página 23 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2118,6 +2156,7 @@ El eje delantero 3 del bogie trasero permanece tras salir de la curva en estado 
 
 ## Página 105
 
+
 Página 24 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 Eje 3
@@ -2135,6 +2174,7 @@ m WE2 intenta realinearse, lo que se reconoce por el ángulo de rotación decrec
 
 ## Página 106
 
+
 Página 25 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 Situación 1: ambos bogies rotados en curva completa, justo antes del final de la curva
@@ -2142,12 +2182,14 @@ Figura 19: Ángulo de rotación de los bogies en el MW 806.6 (variante 0) en cur
 
 ## Página 107
 
+
 Página 26 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 Situación 2: bogie delantero (WE2) justo antes de la aguja y bogie trasero (WE1) en curva completa antes del desvío
 Figura 20: Ángulo de rotación de los bogies en el MW 806.6 (variante 0) justo antes de la aguja del desvío
 
 ## Página 108
+
 
 Página 27 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -2169,6 +2211,7 @@ En el momento del salto del punto de contacto se produce una elevación de la ru
 
 ## Página 109
 
+
 Página 28 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 12
@@ -2184,6 +2227,7 @@ MW 806.6 / STW 808.0
 Figura 22: arriba: elevación de la rueda rueda 12 32 (variante 0) en el STW y el MW; abajo: momento de la elevación máx. de la rueda
 
 ## Página 110
+
 
 Página 29 de 36
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
@@ -2202,6 +2246,7 @@ MW 806.6 / STW 808.0
 Figura 23: Ángulo de embate rueda 12 32 (variante 0) en el STW y el MW
 
 ## Página 111
+
 
 Informe: 17-53741-I.T-IVP23-UN-0810_V02
 Página 30 de 36
@@ -2222,6 +2267,7 @@ Figura 24: Fuerza de guiado de la rueda 12 32 (variante 14) MW 806.6
 
 ## Página 112
 
+
 Página 31 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
 ## 5.3 
@@ -2237,10 +2283,10 @@ MC 806.6 → v
 21 
 31 
 41 
-Figura 25: Comparación simulación (rueda 12 MC 806.6) y medida (rueda 12 en el MC 1 [23]) de la fuerza de guiado de rueda 
-
+Figura 25: Comparación simulación (rueda 12 MC 806.6) y medida (rueda 12 en el MC 1 [23]) de la fuerza de guiado de rueda
 
 ## Página 113
+
 
 Página 32 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2278,10 +2324,10 @@ Simulación sin error de posición de vía con ancho de vía constante de 1435 m
 reducción notable de la fuerza de guiado de rueda en la rueda 12 
 ## 6 
 Objetivo: 
-Estudio de la influencia de la posición de vía 
-
+Estudio de la influencia de la posición de vía
 
 ## Página 114
+
 
 Página 33 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2325,6 +2371,7 @@ Objetivo: Influencia de la forma de la posición de vía medida
 ### → Con una posición de vía estocástica no se produce el contacto
 
 ## Página 115
+
 
 Página 34 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2385,10 +2432,10 @@ en las bujes de guiado del eje en el
 MW806.6 (Anexo 1.9) 
 Objetivo: influencia sobre las fuerzas de guiado 
 de la rueda al acoplar en la lengüeta 
-### → Pequeña influencia del juego en los bujes de guiado del eje en el acoplamiento 
-
+### → Pequeña influencia del juego en los bujes de guiado del eje en el acoplamiento
 
 ## Página 116
+
 
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 ­
 Página 35 de 36 ­
@@ -2429,10 +2476,10 @@ de la situación de los datos y las inexactitudes de medición, tampoco sería r
 esperar. No obstante, mediante la variación de parámetros y la comparación de los resultados 
 de la medición con el ICE S se ha demostrado que el error de dirección en la aproximación a 
 la lengüeta del desvío tiene una influencia decisiva en el acoplamiento y en la capacidad de 
-descarrilamiento. 
-
+descarrilamiento.
 
 ## Página 117
+
 
 Página 36 de 36 ­
 Informe: 17-53741-I.T-IVP23-UN-0810_V02 
@@ -2445,8 +2492,8 @@ Elaborado:
 Revisado: ­
  TT.TVP23(1) ­
 
-
 ## Página 118
+
 
 Anexo: 
 1 
@@ -2481,10 +2528,10 @@ Comparación de los perfiles de lengüeta y carril de contrarriel antes y despu�
 Características de los amortiguadores de balanceo.......................................................................32  
 1.8 
 Juego en los bujes de guiado del eje ..............................................................................34  
-1.9 
-
+1.9
 
 ## Página 119
+
 
 Anexo: 
 1 
@@ -2501,10 +2548,10 @@ UN-0810_V02
 ### Datos del modelo de simulación 
 Nombre: 
 ### 1.1 Datos de vagón 
-vagón intermedio 808.3, tercero por detrás, no descarrilado 
-
+vagón intermedio 808.3, tercero por detrás, no descarrilado
 
 ## Página 120
+
 
 Anexo: 
 1 
@@ -2520,10 +2567,10 @@ Informe:
 UN-0810_V02 
 ### Datos del modelo de simulación 
 Nombre: 
-vagón intermedio 806.6, penúltimo, descarrilado  
-
+vagón intermedio 806.6, penúltimo, descarrilado
 
 ## Página 121
+
 
 Anexo: 
 1 
@@ -2547,6 +2594,7 @@ D
 
 ## Página 122
 
+
 Anexo: 
 1 
 DB Systemtechnik GmbH 
@@ -2564,10 +2612,10 @@ Nombre:
 ### 1.2  Comparación de la suma de las fuerzas de apoyo de las ruedas del 
 ### coche intermedio  
 Suma de las fuerzas de apoyo de las ruedas por eje para un desplazamiento del centro de gravedad de 650 
-mm en dirección del WE1  
-
+mm en dirección del WE1
 
 ## Página 123
+
 
 Anexo: 
 1 
@@ -2608,8 +2656,8 @@ S
 u
 m
 
-
 ## Página 124
+
 
 Anexo: 
 1 
@@ -2667,10 +2715,10 @@ Calculado sobre la base de los datos de las TZ
 Cβ  
 82 363 Nm/rad 
 Calculado sobre la base de los datos de las TZ 
-Buje de guiado 
-
+Buje de guiado
 
 ## Página 125
+
 
 Anexo: 
 1 
@@ -2731,10 +2779,10 @@ o
 g
 i
 e
-H1  Recorte del plano técnico FTE805.0.02.000.001 Suspensión primaria 
-
+H1  Recorte del plano técnico FTE805.0.02.000.001 Suspensión primaria
 
 ## Página 126
+
 
 Anexo: 
 1 
@@ -2764,8 +2812,8 @@ l
 i
 m
 
-
 ## Página 127
+
 
 Anexo: 
 1 
@@ -2796,8 +2844,8 @@ d
 i
 4
 
-
 ## Página 128
+
 
 Anexo: 
 1 
@@ -2857,10 +2905,10 @@ o
 g
 i
 e
-2 Recorte del plano técnico FTE805.0.04.058.001 Soporte de balanceo montado 
-
+2 Recorte del plano técnico FTE805.0.04.058.001 Soporte de balanceo montado
 
 ## Página 129
+
 
 Anexo: 
 1 
@@ -2885,8 +2933,8 @@ alidación
 l
 H
 
-
 ## Página 130
+
 
 Anexo: 
 1 
@@ -2913,8 +2961,8 @@ l
 4
 V
 
-
 ## Página 131
+
 
 Anexo: 
 1 
@@ -2937,8 +2985,8 @@ a
 .
 4
 
-
 ## Página 132
+
 
 Anexo: 
 1 
@@ -2961,8 +3009,8 @@ a
 .
 4
 
-
 ## Página 133
+
 
 Anexo: 
 1 
@@ -3059,8 +3107,8 @@ c
 e
 o
 
-
 ## Página 134
+
 
 Anexo: 
 1 
@@ -3078,8 +3126,8 @@ UN-0810_V02
 Nombre: 
 1
 
-
 ## Página 135
+
 
 Anexo: 
 1 
@@ -3098,8 +3146,8 @@ Nombre:
 1
 .
 
-
 ## Página 136
+
 
 Anexo: 
 1 
@@ -3161,8 +3209,8 @@ a
 í
 a
 
-
 ## Página 137
+
 
 Anexo: 
 1 
@@ -3223,8 +3271,8 @@ a
 í
 a
 
-
 ## Página 138
+
 
 Anexo: 
 1 
@@ -3287,6 +3335,7 @@ a
 
 ## Página 139
 
+
 Anexo: 
 1 
 DB Systemtechnik GmbH 
@@ -3321,8 +3370,8 @@ e
 s
 n
 
-
 ## Página 140
+
 
 Anexo: 
 1 
@@ -3357,8 +3406,8 @@ s
 e
 e
 
-
 ## Página 141
+
 
 Anexo: 
 1 
@@ -3393,8 +3442,8 @@ s
 e
 e
 
-
 ## Página 142
+
 
 Anexo: 
 1 
@@ -3430,8 +3479,8 @@ e
 s
 n
 
-
 ## Página 143
+
 
 Anexo: 
 1 
@@ -3467,8 +3516,8 @@ e
 s
 n
 
-
 ## Página 144
+
 
 Anexo: 
 1 
@@ -3500,8 +3549,8 @@ h
 d
 e
 
-
 ## Página 145
+
 
 Anexo: 
 1 
@@ -3528,8 +3577,8 @@ omparación de los perfiles de la lengua y el carril lateral antes y después de
 7
 V
 
-
 ## Página 146
+
 
 Anexo: 
 1 
@@ -3558,8 +3607,8 @@ omparación de los perfiles de la lengua y el carril lateral antes y después de
 V
 o
 
-
 ## Página 147
+
 
 Anexo: 
 1 
@@ -3589,8 +3638,8 @@ paración de los perfiles de la lengua y el carril lateral antes y después del 
 m
 a
 
-
 ## Página 148
+
 
 Anexo: 
 1 
@@ -3615,8 +3664,8 @@ o
 m
 a
 
-
 ## Página 149
+
 
 Anexo: 
 1 
@@ -3636,8 +3685,8 @@ Nombre:
 ### Características de los amortiguadores de oscilación
 ### .
 
-
 ## Página 150
+
 
 Anexo: 
 1 
@@ -3655,8 +3704,8 @@ UN-0810_V02
 Nombre: 
 1
 
-
 ## Página 151
+
 
 Anexo: 
 1 
@@ -3678,8 +3727,8 @@ Nombre:
 ### 9
 ### S
 
-
 ## Página 152
+
 
 Anexo: 
 1 
@@ -3697,6 +3746,7 @@ UN-0810_V02
 Nombre:
 
 ## Página 153
+
 
 Anexo: 
 2 
@@ -3746,10 +3796,10 @@ Variante 23 ....................................................................
 Variante 25 .........................................................................................................................21  
 2.16 
 Variante 26 .........................................................................................................................22  
-2.17 
-
+2.17
 
 ## Página 154
+
 
 Anexo: 
 2 
@@ -3770,8 +3820,8 @@ Nombre:
 ### 1 
 2
 
-
 ## Página 155
+
 
 Anexo: 
 2 
@@ -3793,8 +3843,8 @@ ariante 2
 ###  V
 .
 
-
 ## Página 156
+
 
 Anexo: 
 2 
@@ -3814,8 +3864,8 @@ Nombre:
 ### 2
 .
 
-
 ## Página 157
+
 
 Anexo: 
 2 
@@ -3837,8 +3887,8 @@ ariante 4
 ###  V
 .
 
-
 ## Página 158
+
 
 Anexo: 
 2 
@@ -3859,8 +3909,8 @@ Nombre:
 ### 4 
 2
 
-
 ## Página 159
+
 
 Anexo: 
 2 
@@ -3880,8 +3930,8 @@ Nombre:
 .
 4
 
-
 ## Página 160
+
 
 Anexo: 
 2 
@@ -3902,8 +3952,8 @@ Nombre:
 ### 5 
 2
 
-
 ## Página 161
+
 
 Anexo: 
 2 
@@ -3922,8 +3972,8 @@ Nombre:
 .
 2
 
-
 ## Página 162
+
 
 Anexo: 
 2 
@@ -3946,8 +3996,8 @@ riante 10 y 17
 a
 2
 
-
 ## Página 163
+
 
 Anexo: 
 2 
@@ -3969,8 +4019,8 @@ Nombre:
 ### .
 ### 7
 
-
 ## Página 164
+
 
 Anexo: 
 2 
@@ -3990,8 +4040,8 @@ Nombre:
 ### .
 ### 7
 
-
 ## Página 165
+
 
 Anexo: 
 2 
@@ -4012,8 +4062,8 @@ Nombre:
 ### 9
 2
 
-
 ## Página 166
+
 
 Anexo: 
 2 
@@ -4037,8 +4087,8 @@ riante 15
 V
 a
 
-
 ## Página 167
+
 
 Anexo: 
 2 
@@ -4060,8 +4110,8 @@ Nombre:
 ### 1
 2
 
-
 ## Página 168
+
 
 Anexo: 
 2 
@@ -4084,8 +4134,8 @@ ariante 19
 2
 V
 
-
 ## Página 169
+
 
 Anexo: 
 2 
@@ -4107,8 +4157,8 @@ Nombre:
  Variante 20 
 1
 
-
 ## Página 170
+
 
 Anexo: 
 2 
@@ -4132,6 +4182,7 @@ Nombre:
 
 ## Página 171
 
+
 Anexo: 
 2 
 DB Systemtechnik GmbH 
@@ -4152,8 +4203,8 @@ Nombre:
 ### 5
 .
 
-
 ## Página 172
+
 
 Anexo: 
 2 
@@ -4173,8 +4224,8 @@ Nombre:
 .
 1
 
-
 ## Página 173
+
 
 Anexo: 
 2 
@@ -4197,8 +4248,8 @@ ariante 25
 6
 V
 
-
 ## Página 174
+
 
 Anexo: 
 2 

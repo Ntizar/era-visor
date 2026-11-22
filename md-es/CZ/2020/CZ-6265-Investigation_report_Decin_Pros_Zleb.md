@@ -10,13 +10,13 @@ chars: 209504
 ratio_longitud: 1.25
 tokens_in: 94867
 tokens_out: 68195
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 47: cifras largas: faltan 3/5 (60%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PL)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
  Fuente: Drážní inspekce
@@ -66,8 +66,8 @@ Consecuencias:
 sin daños a la salud de las personas;
 daño total 544 638 Kč.
 
-
 ## Página 4
+
 
 Causa inmediata:
 inicio de la marcha hacia atrás de la composición del tren de servicio Služ 59787 sin informar y sin el consentimiento de la
@@ -92,8 +92,8 @@ asegurar, desde su posición de organismo nacional de seguridad, respecto a todo
 asegurar que los aparatos de enclavamiento de estación controlados a través de la posición única de explotación, para los que esto sea viable sobre la base de un análisis, se complementen con una funcionalidad que reconozca la liberación no prevista de un tramo de vía en un itinerario de tren establecido, sin que se ocupe el tramo siguiente, y que avise al empleado de explotación de esta circunstancia de forma acústica y ópticamente destacada en el relieve de la planta de vías;
 asegurar que los aparatos de enclavamiento de estación controlados a través de la posición única de explotación, para los que esto sea viable sobre la base de un análisis, no permitan que desaparezca de ellos el número que representa un tren sin una acción deliberada del empleado de explotación, sin que dicho empleado sea avisado de ello de ninguna forma.
 
-
 ## Página 5
+
 
 ## RESUMEN
 Clasificación: 
@@ -137,8 +137,8 @@ desde su posición de autoridad nacional de seguridad, se recomienda que la ANS 
 •
 medidas para asegurar que los gestores de la infraestructura de los ferrocarriles nacionales y regionales de la República Checa:
 
-
 ## Página 6
+
 
 ◦apliquen estrictamente las normas existentes para la explotación por radio, especialmente en relación con la obligación del TU de equipar el material rodante con estaciones de radio que permitan la comunicación en el enlace de radio básico, con énfasis en el sistema GSM-R;
 ◦complementen dichas normas con la obligación clara de utilizar primariamente los enlaces de radio básicos para toda comunicación con el tren;
@@ -147,6 +147,7 @@ se recomienda que la ANS adopte medidas para asegurar que los aparatos de enclav
 se recomienda que la ANS adopte medidas para asegurar que los aparatos de enclavamiento de estación controlados desde la posición única de explotación no permitan la desaparición del número que representa un tren sin una acción deliberada realizada por el empleado de explotación y sin ninguna advertencia que avise a dicho empleado de la desaparición. Dichos aparatos de enclavamiento de estación para los que la recomendación propuesta sea viable deberán seleccionarse sobre la base de un análisis.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -199,8 +200,8 @@ mantenimiento, normas técnicas aplicables y otras normas internas..............
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la 
 automática
 
-
 ## Página 8
+
 
 grabación de datos........................................................................................................31
 3.4.2 Componentes de la vía.........................................................................................33
@@ -244,8 +245,8 @@ ocurrencia......................................................................
 6 RECOMENDACIONES DE SEGURIDAD..........................................................................63
 7 ANEXOS..........................................................................................................................65
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 ASCOM
@@ -324,6 +325,7 @@ estación de ferrocarril
 
 ## Página 10
 
+
 ## Lista de siglas de disposiciones legales, normas y reglamentos internos utilizados
 Ley núm. 262/2006 Sb.
 Ley núm. 262/2006 Sb., Código del Trabajo, en la redacción vigente en el momento de producirse la incidencia
@@ -348,8 +350,8 @@ Reglamento interno del explotador de la vía férrea Správa železnic, «Reglam
 SŽDC PO-02/2019-NŘP
 Reglamento interno del explotador de la vía férrea Správa železnic, «SŽDC PO-02/2019-NŘP Instrucción del vicepresidente del director general para la gestión de la explotación sobre la actividad de inspección», en la redacción vigente en el momento de producirse la incidencia
 
-
 ## Página 11
+
 
 SŽ PO-02/2020-NŘP
 Reglamento interno del explotador de la vía férrea Správa železnic, «SŽDC PO-02/2020-NŘP Instrucción del vicepresidente del director general para la gestión de la explotación sobre el procedimiento de los empleados de gestión de la explotación en caso de detección de la inoperatividad de la comunicación por radio», en la redacción vigente en el momento de producirse la incidencia
@@ -370,8 +372,8 @@ Reglamento interno del transportista JARO, «VP 10 – JARO reglamento interno p
 TNŽ 34 2620
 TNŽ 34 2620 «Equipos de señalización ferroviaria: equipos de señalización de estación y de línea», en la redacción vigente en el momento de producirse la incidencia
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS A LA INCIDENCIA
 ### 2.1 Incidencia
@@ -389,10 +391,10 @@ GPS:
 Fig. núm. 1: Vista desde la posición de conducción de la composición del tren Služ 59787 hacia el tren Lv 73839 
   Fuente: DI
 ### 2.1.2 Descripción del desarrollo de la incidencia y del lugar de origen, incluida la actividad del sistema integrado de emergencias y del servicio de rescate
-El 7. 5. 2020 circulaba entre las est. Děčín východ d. n. y Děčín-Prostřední Žleb el tren Služ 59787 compuesto por una SHV y un vagón de remolque. Durante su circulación, este tren realizaba la fumigación del lecho de la vía con un herbicida. Tras la entrada del tren Služ 59787 en la est. Děčín-Prostřední Žleb, partió de la est. Děčín východ d. n. en la misma dirección el tren Lv 73839 compuesto por una HDV independiente. El maquinista del tren Služ 59787 no finalizó la circulación en la est. Děčín-Prostřední Žleb, sino que en el 
-
+El 7. 5. 2020 circulaba entre las est. Děčín východ d. n. y Děčín-Prostřední Žleb el tren Služ 59787 compuesto por una SHV y un vagón de remolque. Durante su circulación, este tren realizaba la fumigación del lecho de la vía con un herbicida. Tras la entrada del tren Služ 59787 en la est. Děčín-Prostřední Žleb, partió de la est. Děčín východ d. n. en la misma dirección el tren Lv 73839 compuesto por una HDV independiente. El maquinista del tren Služ 59787 no finalizó la circulación en la est. Děčín-Prostřední Žleb, sino que en el
 
 ## Página 13
+
 
 cabecera de dicha estación se detuvo, cambió el sentido de circulación y volvió a arrancar hacia la vía, es decir, más allá de la señal de entrada VL (válida para el sentido de circulación original), con lo que se produjo la incidencia – circulación no asegurada. En el tramo entre estaciones se produjo a continuación una colisión frontal entre la composición del tren Služ 59787 y el tren Lv 73839. El vagón de remolque de la composición del tren Služ 59787 descarriló como consecuencia de la colisión.
 Fig. núm. 2: Esquema del lugar de la incidencia
@@ -405,10 +407,10 @@ Fig. núm. 2: Esquema del lugar de la incidencia
            Fuente: mapy.cz; Elaboración: DI
 Del examen del lugar de la incidencia se constató lo siguiente:
 En el marco del examen se documentó el lugar de la colisión de los vehículos ferroviarios en el km 458,077, su entorno y el estado del equipo de señalización ferroviaria (SZZ) afectado de ambas estaciones. Se examinaron todos los vehículos ferroviarios, incluidas las posiciones de conducción de los maquinistas, se realizó documentación fotográfica de la documentación escrita, se documentaron las huellas del descarrilamiento, se examinó la superestructura ferroviaria y se midió la posición kilométrica de los vehículos ferroviarios y de los elementos fijos de la vía.
-Posteriormente se examinó el puesto de trabajo del operador de señales St. 3 de la est. Děčín východ d. n. y el puesto de trabajo del jefe de estación St. 1 de la est. Děčín východ d. n., incluida la obtención de la documentación de circulación. 
-
+Posteriormente se examinó el puesto de trabajo del operador de señales St. 3 de la est. Děčín východ d. n. y el puesto de trabajo del jefe de estación St. 1 de la est. Děčín východ d. n., incluida la obtención de la documentación de circulación.
 
 ## Página 14
+
 
 Estado de los vehículos ferroviarios:
 El tren Služ 59787 estaba compuesto por un vehículo ferroviario de tracción especial tipo MUV 69.4936, n.º 99 54 9 628 195-8 (en adelante también SHV) equipado con un equipo de fumigación y un vagón de remolque n.º 49 54 9400 758-8 con depósito de agua, que circulaba en cabeza en el momento de producirse la incidencia. El vagón de remolque estaba enganchado a la SHV y también conectado mediante manguera del freno continuo. En la posición de conducción de la SHV se documentaron las posiciones de los elementos de mando. Los elementos de mando de las luces de señalización de la SHV (identificación del tren) estaban en posición base (apagado). Las luces de señalización de la SHV (inicio y fin de tren) no estaban encendidas. La presión del aire en la tubería era de 0 bar, la presión en el depósito de aire era de 7 bar, la presión en el cilindro de freno era de 0 bar, lo que se deduce de la construcción del freno (automotriz). La palanca de mando del freno de mano de la SHV estaba tirada. En la SHV, el maquinista desconectó las baterías por razones de seguridad tras la incidencia. La SHV estaba equipada con una estación de radio HYT TM-610, en cuya pantalla estaba sintonizado el canal n.º 21 en la red MRS, es decir, la red de maniobras de tren. En el frente de la composición empujada del tren Služ 59787 se situaron placas rectangulares (señal Fin de tren).
@@ -421,8 +423,8 @@ El tramo Děčín východ d. n. – Děčín-Prostřední Žleb estaba electrifi
 Estado del equipo de señalización:
 La est. Děčín-Prostřední Žleb estaba equipada con un equipo de señalización tipo ETB. Este SZZ disponía de un archivo de operación, que, en presencia de los inspectores de la DI, se descargó y reprodujo, y se constató la desviación horaria de dicho SZZ. Asimismo, se realizó la determinación de la desviación horaria del equipo de registro ReDat.
 
-
 ## Página 15
+
 
 El equipo de señalización de estación de la est. Děčín východ d. n., ni el equipo de señalización de línea en el tramo entre estaciones objeto de estudio, disponían de equipo de registro, pero algunos de sus estados (datos sobre su operación) era posible determinarlos a partir del equipo de registro del SZZ de la est. Děčín-Prostřední Žleb.
 Con la incidencia se activó el sistema integrado de emergencias (IZS).
@@ -450,6 +452,7 @@ En la investigación de las causas y circunstancias de la incidencia, la DI part
 La investigación de las causas y circunstancias de la incidencia se realizó de acuerdo con la Ley núm. 266/1994 Sb. y el Decreto núm. 376/2006 Sb.
 
 ## Página 16
+
 
 ### 2.2 Circunstancias del suceso ferroviario
 ### 2.2.1 Empleados participantes, personas en relación contractual y otros participantes 
@@ -497,8 +500,8 @@ en el puesto se encontraba, además del maquinista, un operador;
 el titular de ambos DV era la compañía JARO.
 •
 
-
 ## Página 17
+
 
 | Tren: | Lv73839 | Composición del tren: |  | Modo de frenado: |
 | Longitud del tren (m): | 20 | 1 (HDV) . | 918061890136 - | R+E |
@@ -519,8 +522,8 @@ El tramo entre estaciones Děčín východ d. n. – Děčín-Prostřední Žleb
 El tramo de vía única comienza, en el sentido de kilometraje creciente, en el desvío n.º 79 de la estación Děčín východ d. n. en km 457,725. A la derecha de la vía, en el sentido hacia la estación Děčín-Prostřední Žleb, desciende el corte de la Vlečka přístav Loubí. En km 457,841 se encuentra el paso a nivel P2998. Tras el paso a nivel, el tramo recto de vía pasa a ser una curva a la derecha, donde en km 457,981 se encuentra la señal de entrada S de la estación Děčín východ d. n. válida para el sentido de circulación contrario. En km 458,043 se encuentra un sendero pisoteado que cruza la vía principal y aproximadamente en este punto termina también el corte de la Vlečka přístav Loubí, que continúa a través de un túnel (Loubský tunel) y pasa por debajo de la vía hacia la estación Děčín-Prostřední Žleb. En km 458,121 se encuentra una preseñal independiente PřVL. Desde km 458,165 hasta km 458,560 la vía transcurre por un túnel (Děčínský tunel). Antes del portal del túnel termina la mencionada curva a la derecha y en el túnel comienza una curva a la izquierda. En ella, en km 458,463, se encuentra una preseñal repetidora independiente OPřVL. La curva a la izquierda termina inmediatamente tras el túnel. Allí, en km 458,606, se encuentra una preseñal independiente PřS válida para el sentido de circulación contrario. Inmediatamente tras la preseñal independiente, en km 458,612, se encuentra la señal de entrada VL de la estación Děčín-Prostřední Žleb. Tras ella comienza un puente sobre el río Labe, sobre el cual la vía transcurre en línea recta. En la otra orilla del Labe, la vía se curva hacia una curva a la derecha, donde en km 458,961, mediante el desvío n.º 3, se incorpora a la cabecera de la estación Děčín-Prostřední Žleb.
 La visibilidad de las señales en el tramo descrito se ajustaba al § 7 del decreto n.º 173/1995 Sb. En el tramo entre estaciones no se había establecido la sección de línea del protector de trenes lineal.
 
-
 ## Página 18
+
 
 ### 2.2.4 Uso de los medios de comunicación
 9:05:26 h
@@ -571,8 +574,8 @@ comunicación de la producción del suceso al jefe de despacho CDP Praha OŘP
 •
 Ústí nad Labem por parte del jefe de estación 2 SEVER de la estación Děčín hl. n.;
 
-
 ## Página 19
+
 
 10:30 h
 notificación de la producción del suceso a O18 de Správa železnic por parte del 
@@ -618,8 +621,8 @@ En el suceso no se produjo daño alguno a la salud de empleados del operador de 
 ### 2.3.2 En los objetos transportados, equipajes y otros bienes
 No se produjeron daños en los objetos transportados, equipajes ni en otros bienes.
 
-
 ## Página 20
+
 
 ### 2.3.3 En los vehículos ferroviarios, componentes de la infraestructura y medio ambiente
 El operador de la infraestructura y el transportista cuantificaron los daños en:
@@ -664,6 +667,7 @@ de la Presentación de Declaraciones de DI, entre otras, indicó:
 
 ## Página 21
 
+
 jefe de estación St. 1 est. Děčín východ d. n.
   – En el Registro de declaración de explicaciones, DI, entre 
 •
@@ -697,8 +701,8 @@ otras cosas, indicó:
 ◦A continuación introdujo la orden de cancelación de emergencia de la ruta de tren;
 ◦Posteriormente se dedicó a otras operaciones de tráfico y, cuando se produjo la disolución de la ruta de tren
 
-
 ## Página 22
+
 
 , realizó el restablecimiento de la ruta de tren para el tren Služ 59787 en el 6. SK;
 ◦Tras el restablecimiento de la ruta de tren en el 6. SK, en el relieve de vías del JOP no se mostró el número de tren 59787, sino que se mostró el número de tren 73839;
@@ -733,8 +737,8 @@ maquinista del tren Lv 73839
 ◦Tras una breve evaluación de la situación, en la que comprobó que no había habido lesiones, solo daños materiales, informó del accidente al empleado de la Dispostelle Děčín;
 ◦El vagón de remolque de la SHV descarriló y quedó encastrado bajo el vehículo motriz.
 
-
 ## Página 23
+
 
 maquinista del tren Služ 59787
   – En el Registro de declaración de explicaciones del 7. 5. 2020 
@@ -765,8 +769,8 @@ Asimismo, el maquinista anteriormente mencionado, en el Registro de declaración
 ◦A la pregunta sobre cuál era la tecnología de rociado que él pretendía realizar entre la est. Děčín východ, ámbito d. n. y la est. Děčín-Prostřední Žleb, respondió que cuando llamó al jefe de estación para decirle que había terminado en la estación y que necesitaba acordar una maniobra hasta la Vlečka přístav Loubí y hasta la est. Prostřední Žleb, el jefe de estación le comunicó que: «Prostřední Žleb como maniobra no sabe»;
 ◦Así que acordaron con el jefe de estación que, mientras se introducía en el sistema el tren hasta Prostřední Žleb, iría a realizar el rociado a la Vlečka přístav Loubí;
 
-
 ## Página 24
+
 
 ◦El maquinista se imaginaba de antemano la «maniobra» hasta la est. Děčín-Prostřední Žleb de tal forma que circularía hasta el kilómetro determinado y allí cambiaría el sentido de circulación.
 ◦Como lugar al que llegó en la est. Děčín-Prostřední Žleb, indicaría como máximo el final del puente sobre el Elba;
@@ -798,6 +802,7 @@ cosas, indicó:
 
 ## Página 25
 
+
 ◦Estaba en la cabina de la SHV junto al maquinista;
 ◦Desde la posición kilométrica indicada por la instrucción del empleador, regresaban a la est. Děčín východ ese día;
 ◦Tras salir del túnel, se produjo la colisión con la HDV que circulaba en sentido contrario;
@@ -825,8 +830,8 @@ En el decreto n.º 376/2006 Sb., en el anexo 1, apartado 2, letra c), punto 3., 
 
 Správa železnic, en el artículo 2.8.7 de las DU a SŽDC ČD Z11 y simultáneamente en el artículo 3.6 del anexo F de la Declaración de la infraestructura para el año 2020, establece que si el vehículo de tracción (SHV) no cumple tampoco las condiciones para la comunicación radiofónica de reserva, no podrá ser despachado a una línea equipada con infraestructura de dispositivo radiofónico de tren, salvo excepciones; sin embargo, no tiene establecidos los procedimientos que garanticen que esto se cumpla siempre. La obligación de comprobar si el tren dispone de comunicación radiofónica básica la deja únicamente a los transportistas. No se exige ningún control a los empleados de Správa železnic, solo se establece cómo proceder ante la resolución de las deficiencias detectadas. La preparación del tren para la circulación la indica automáticamente el sistema de información de Správa železnic en base al envío del mensaje «Tren preparado» sin ninguna validación de los datos introducidos en el mismo.
 
-
 ## Página 26
+
 
 Con esta deficiencia, la parte en cuestión del sistema de garantía de la seguridad no puede contribuir eficazmente a aumentar la seguridad del transporte ferroviario, ya que el cumplimiento de la condición de comunicación radiofónica básica está vinculado a elementos de seguridad fundamentales en la explotación del transporte ferroviario, puesto que es precisamente a través de esta comunicación por donde pueden enviarse órdenes codificadas con la señal para detener el tren o detener directamente el tren.
 
@@ -848,8 +853,8 @@ Los requisitos para los empleados del gestor de la infraestructura y de los tran
 
 En el momento de la aparición de la MU en cuestión, todas las personas del gestor de la infraestructura Správa železnic involucradas en la MU que realizaban actividades en la explotación de la infraestructura poseían la cualificación profesional para el desempeño de la función que ocupaban.
 
-
 ## Página 27
+
 
 En el momento de la aparición de la MU en cuestión, todas las personas del transportista ČD Cargo y del transportista JARO involucradas en la MU que realizaban actividades en la explotación del transporte ferroviario poseían la cualificación profesional para el desempeño de la función que ocupaban.
 
@@ -870,8 +875,8 @@ En el procedimiento de control interno de seguridad del transportista ČD Cargo,
 
 En el procedimiento de control interno de seguridad del transportista JARO no se detectaron deficiencias; sin embargo, cabe señalar que el maquinista involucrado no fue controlado en el intervalo de un año anterior a la aparición de la MU, con lo que prácticamente no se cumplió el sentido preventivo de la actividad de control. La actividad de control de los empleados de JARO se realizó de forma aleatoria por
 
-
 ## Página 28
+
 
 iniciativa propia del transportista. Teniendo en cuenta la estacionalidad de los trabajos, el ámbito nacional de actuación del transportista JARO con el pequeño tamaño de esta sociedad mercantil y el bajo número de empleados superiores que pudieran realizar el control en esta empresa, hay que constatar que el control era difícilmente realizable y, por tanto, no puede considerarse eficaz.
 
@@ -897,6 +902,7 @@ En la interfaz entre los sujetos involucrados no se detectó ninguna deficiencia
 
 ## Página 29
 
+
 ### 3.3 Regulación jurídica y otra normativa
 ### 3.3.1 Normativa nacional y de la Unión Europea aplicables
 Durante la investigación se constató el incumplimiento de la normativa en relación causal con la ocurrencia de la MU:
@@ -920,8 +926,8 @@ art. 2954 de la norma SŽDC D1:
 "Ningún tren puede salir de la estación (circular por la estación) ocupada por un jefe de estación sin despacho.
 El despacho del tren lo realiza el jefe de estación de acuerdo con lo dispuesto en los artículos siguientes. El jefe de estación solo podrá despachar el tren cuando se hayan cumplido todas las actuaciones previas a su salida prescritas por esta norma, por las normas para la operación del dispositivo de enclavamiento, por las medidas relacionadas y por el ZDD, así como por otros actos de gestión relativos al desempeño de las actividades laborales del jefe de estación. Si el jefe de estación contiguo no está de acuerdo con la circulación (disposición de prohibición), el jefe de estación no podrá permitir la circulación del tren desde su propia estación.;
 
-
 ## Página 30
+
 
 En el caso de esta MU concreta, es necesario relacionar el citado art. 2954 de la norma SŽDC D1 con el definitorio:
 ◦art. 2955 de la norma SŽDC D1:
@@ -950,8 +956,8 @@ art. 3974 de la norma SŽDC D1:
 •
 "Tras la detención del tren, este puede avanzar o retroceder (p. ej., para liberar el andén, para el acoplamiento, etc.) solo con el permiso del jefe de estación dado directamente o
 
-
 ## Página 31
+
 
 a través del empleado designado de la estación. Deben cumplirse en todo caso todas las disposiciones de esta norma aplicables a las maniobras. En el caso de un tren con transporte de viajeros, la tripulación del tren y los viajeros deben ser advertidos especialmente de este movimiento.";
 art. 3975 de la norma SŽDC D1:
@@ -966,8 +972,8 @@ El 7. 5. 2020 se celebró en el ámbito de St. 3 una inspección comisionada del
 En el tramo entre estaciones Děčín východ d. n. – Děčín-Prostřední Žleb se instaló un TZZ de 3.ª categoría tipo «Barrera automática». Este TZZ disponía de un Certificado de idoneidad de dispositivo técnico determinado, n.º de ev.: PZ 7743/97-E.47, expedido por el DÚ el 20. 8. 1998, con vigencia por tiempo indefinido. La última inspección y prueba de este UTZ se realizó el 1. 8. 2017 con vigencia hasta el 1. 8. 2022.
 En este tramo entre estaciones se encontraba también el paso a nivel P2998, que estaba equipado con un dispositivo de enclavamiento de paso a nivel con barreras tipo PZZ – K, categoría PZS 3ZBI según ČSN 34 2650 ed. 2. El PZZ disponía de un dispositivo de registro BDA. Con el fin de precisar la información sobre la ocurrencia de la MU, se descargaron del dispositivo de registro los datos que documentaban la situación desde el momento en que el PZZ fue afectado por el tren Lv 73839 hasta su reacción a la ocupación prolongada del tramo de alejamiento del paso a nivel en cuestión por vehículos ferroviarios. Del análisis del archivo de datos descargado se constataron los siguientes estados registrados:
 
-
 ## Página 32
+
 
 | Hora (h)* | Descripción del estado registrado |
 | 10:04:52 | Activación de la alerta para el tren Lv 73839 |
@@ -1001,6 +1007,7 @@ Como inicio del análisis del registro del SZZ se eligió la hora de introducci�
 | 10:03:31 | indicación de restablecimiento de la libertad de vía desde la est Děčín východ . |
 
 ## Página 33
+
 
 | 10:04:33 | Indicación de pérdida de libertad de la vía desde žst Děčín východ establecida ruta de tren . – para el tren Lv 73839 desde žst Děčín východ d n . . . |
 | 10:05:22 | Ocupación del tramo de vía de la línea desde žst Děčín východ por la composición del tren Služ . 59787 se originó MU – |
@@ -1041,10 +1048,10 @@ Los componentes de la vía no guardaban relación causal con la aparición del M
 ### 3.4.3 Dispositivos de señalización e información
 El maquinista SHV se comunicaba con el jefe de estación de la est. Děčín východ d. n. a través de 
 la red local de radio (Red de maniobras de tren, canal n.º 21). La comunicación radiofónica básica en el 
-tramo intermedio Děčín východ d. n. – Děčín-Prostřední Žleb era la red GSM-R. Para 
-
+tramo intermedio Děčín východ d. n. – Děčín-Prostřední Žleb era la red GSM-R. Para
 
 ## Página 34
+
 
 el tren Služ 59787, en los sistemas de información de Správa železnic como contacto con 
 el maquinista figuraba únicamente el teléfono móvil profesional, lo cual es una falta por parte del 
@@ -1092,8 +1099,8 @@ sin el número correcto y funcional del teléfono móvil GSM como comunicación 
 compatible en todo el trayecto del tren en todos aquellos lugares donde sea 
 exigido por el Operador de la Vía.
 
-
 ## Página 35
+
 
 La excepción a lo anteriormente indicado será concedida por el operador de la vía SŽDC únicamente:
 en el caso de que en la ŽST, donde además de la comunicación radiofónica básica (normalmente GSM-R) 
@@ -1145,6 +1152,7 @@ problemática. Si el vehículo motriz (SHV) no cumple tampoco las condiciones pa
 
 ## Página 36
 
+
 enlace de radio, no debe ser despachado en una vía equipada con infraestructura de equipo de radio de tren si no se permiten las posibles excepciones indicadas en el Reglamento de explotación del equipo de radio de tren del sistema GSM-R CZ o TRS." La parte citada en cursiva corresponde al artículo 3.6 del anexo F de la Declaración de vía para el año 2020.
 Otro ejemplo es el artículo 3, apartado 1 de la instrucción PO-02/2020-NŘP:
 "El operador comunicó en la estación de origen del tren que la locomotora de cabeza no tiene, o tiene averiado, el equipo de radio de tren:
@@ -1163,8 +1171,8 @@ No se trata de una condición para la salida, sino de las condiciones para la co
 •
 El maquinista de la SHV no comunicó el hecho de que desde la SHV no es posible establecer el enlace de radio básico en el sentido del artículo 3.5 de la Declaración de vía. De ello, por tanto, no pudieron ser informadas las demás personas que participan en la dirección y organización del transporte ferroviario. De la situación registrada tras la aparición del MU, cuando el jefe de estación 2 SEVER de la estación Děčín hl. n. intentó primero contactar con el tren Služ 59787 a través de GSM-R, se deduce que no recibió la información relativa al uso del enlace alternativo en dicho tren en el sentido del artículo 3.5 de la Declaración de vía. De que la hubiera recibido, por lo demás, tampoco hizo mención en su declaración, en la que indicó que actuó sobre la base de la suposición de que el tren circulaba bajo el enlace de radio básico (GSM-R). La primera condición no se cumplió;
 
-
 ## Página 37
+
 
 La segunda condición para la concesión de una excepción establece que el tren puede ser despachado excepcionalmente desde la estación con un enlace de radio alternativo si, más allá de la estación de origen del tren, dicho enlace de radio alternativo se opera según el TTP como enlace de radio básico. La Declaración de vía, en el artículo 1.5 del anexo F, indica: "El documento determinante que fija el equipo de radio de tren actual utilizado como enlace de radio básico o alternativo, o como enlace de emergencia en las vías individuales equipadas con la infraestructura correspondiente, es la tabla n.º 01 del TTP. ..." En la tabla n.º 01 del TTP se indica claramente que para la vía 544B el enlace de radio básico es GSM-R. Por tanto, la segunda condición tampoco se cumplió;
 Además de las condiciones mencionadas, cabe destacar que un teléfono móvil de la red de un operador telefónico público no puede ser un enlace alternativo, lo que se deduce del art. 1.3 del anexo F de la Declaración de vía, donde, entre otras cosas, se indica: "Para el enlace de radio alternativo solo pueden utilizarse los tipos de equipos de radio establecidos."
@@ -1175,8 +1183,8 @@ En las normas internas de la Administración de Infraestructura Ferroviaria ni e
 Además, se constató que el sistema COMPOST tampoco verifica prácticamente la validez de los datos de contacto introducidos, en el que los operadores introducen datos a través de distintas interfaces (por ejemplo, KADR o webCOMPOST). La práctica funciona de modo que, si el mensaje "Tren preparado" tiene rellenado el campo de tiempo y el campo de texto, se concede la preparación al tren. Prácticamente, basta con que el operador introduzca un guion en el campo "Contacto para comunicación con el tren" y, dentro del sistema, no se exige de ningún modo (ni al empleado ni mediante software) buscar activamente estos datos incorrectos.
 Problemática es también la forma de introducir los contactos del maquinista. Aunque en la red de la Administración de Infraestructura Ferroviaria se distinguen tres tipos de enlace de radio (básico, alternativo y de emergencia), el campo en el que se introducen estos datos es solo uno y lleva el nombre "Contacto para comunicación con el tren". La estructura mencionada se basa en el reglamento sobre la especificación técnica de interoperabilidad del subsistema de aplicaciones telemáticas en el transporte de mercancías (TSI TAF) en los sistemas de información, donde se prevé que el contenido sea el contacto del maquinista de la locomotora de cabeza DV, que puede ser un número de teléfono móvil, un número de teléfono GSM-R o, por ejemplo,
 
-
 ## Página 38
+
 
 detalles para el enlace de radio analógico. Concretamente, se requiere la creación de un elemento con el nombre "Train contact details" con una especificación de un campo de texto de una longitud máxima de 70 caracteres. Esta estructura de datos dificulta la verificación mediante software de los distintos datos de entrada, lo que puede causar problemas especialmente en los países en los que funcionan paralelamente varios sistemas de enlace de radio mutuamente incompatibles, es decir, también en la República Checa, y más aún si los distintos sistemas se alternan en la ruta de un tren concreto.
 Los requisitos de la parte móvil del equipo de radio se establecen a los operadores en el § 71, apartado 5, del decreto n.º 173/1995 Sb. Durante la investigación se constató que la locomotora de tracción del tren Lv 73839 estaba equipada con una estación de radio que funcionaba bajo la red GSM-R, que era el enlace de radio básico en dicho tramo de vía. En cambio, la locomotora de cabeza del tren Služ 59787 no disponía de dicha estación de radio. Con ello, el operador JARO no cumplió la disposición del § 71, apartado 5, letra b), del decreto n.º 173/1995 Sb.
@@ -1188,6 +1196,7 @@ La Inspección Ferroviaria es consciente del hecho de que el requisito que se de
 Las posibles medidas divergentes en relación con la problemática mencionada tienen sentido, desde el punto de vista de la Inspección Ferroviaria, no solo cuando se explota exclusivamente bajo el protector de tren europeo, sino también, en cierta medida, para las circulaciones de vehículos ferroviarios en la vía fronteriza. Como vía fronteriza considera el Acuerdo Adicional al Convenio de Conexión de Infraestructuras SŽDC –
 
 ## Página 39
+
 
 DB Netz AG y DB RegioNetz Infrastruktur GmbH en el tramo entre estaciones Děčín východ d. n. – Děčín-Prostřední Žleb, en el que se produjo el SU. Las medidas excepcionales mediante las cuales se concedería una exención de la vigencia de lo dispuesto en el § 71 apartado 5 letra a) del decreto nº 173/1995 Sb., la cláusula adicional mencionada no las contiene.
 Se han detectado deficiencias.
@@ -1203,8 +1212,8 @@ El maquinista del tren Služ 59787 no comunicó al despachador correspondiente q
 La SHV 99 54 9628 195-8 contaba con el Certificado de aptitud del vehículo ferroviario, n.º de referencia: PZ4732/13-V.34, expedido por el DÚ el 12. 11. 2013. La última revisión técnica periódica antes de la producción del SU se realizó el 3. 3. 2020 con vigencia hasta el 3. 3. 2022, con el resultado: «El vehículo ferroviario es apto para la explotación.»
 La SHV estaba dotada, en el momento de la producción del SU, únicamente de un velocímetro indicador – sin registro de datos. La dotación de un registrador de velocidad está establecida en la República Checa para cada vehículo ferroviario motriz y vehículo motriz especial con una velocidad superior a 40 km·h-1 en el apartado 8. del anexo 3 al decreto nº 173/1995 Sb. La velocidad máxima de la SHV era de 40 km·h-1, por lo que
 
-
 ## Página 40
+
 
 no estaba sujeta a este requisito.
 La HDV 91 80 6 189 013-6 fue homologada de tipo para la explotación en el territorio de la República Checa como locomotora eléctrica ES64F4 el 12. 12. 2011. Para la explotación de este tipo de HDV deben cumplirse las condiciones que forman parte de la Resolución de homologación de tipo de vehículo ferroviario n.º de expediente: DUCR-62285/11/Kv. La última revisión del equipo de freno se realizó el 12. 2. 2020 con vigencia hasta el 11. 2. 2022, con el resultado: «Das vorstehend aufgeführte Fahrzeug wurde: ohne Einschränkungen für den Betrieb freigegeben.» (El vehículo arriba indicado será: autorizado para la explotación sin restricciones.) La última revisión periódica del vehículo en función del recorrido kilométrico se realizó el 31. 3. 2020, con el resultado: «Das vorstehend aufgeführte Fahrzeug wurde: mit Einschränkungen für den Betrieb freigegeben.» (El vehículo arriba indicado será: autorizado para la explotación con restricción.) La restricción mencionada se refería a la explotación de esta HDV en Polonia.
@@ -1226,8 +1235,8 @@ No se superó la velocidad máxima permitida del tren Lv 73839 antes del lugar d
 •
 No se detectaron deficiencias.
 
-
 ## Página 41
+
 
 ### 3.5 Documentación del sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura ferroviaria y del transportista en materia de dirección y seguridad de la circulación
@@ -1249,8 +1258,8 @@ Jefe de estación St. 1: Bueno, eso es lo que quería oír, pues tienes mi enhor
 Al registro citado anteriormente cabe añadir que la maniobra de clasificación entre las estaciones Děčín východ d. n. y Děčín-Prostřední Žleb no está prohibida. Una cierta dificultad para el uso de esta posibilidad de circulación de la DV la constituye la disposición de la est. Děčín východ, ya que el puesto de mando St. 1, que es el puesto de trabajo del jefe de estación para la zona de la estación inferior, se sitúa en el extremo opuesto al que se enlaza la línea que se dirige a la est. Děčín-Prostřední Žleb.
 En cuanto a la introducción del tren del transportista JARO desde la est. Děčín východ d. n., el propio maquinista de la SHV habló en otros dos registros. Los mensajes en ellos contenidos son
 
-
 ## Página 42
+
 
 generalmente poco significativos, por lo que aquí no se indican sus transcripciones.
 A las 9:59 h fue despachado el tren Služ 59787 mediante estación de radio (para la 28. SK regía la señal de salida en grupo L24-28). Para el despacho del tren se utilizó la red MRS, canal nº 21, es decir, la red de maniobra de tren. Se trataba de la misma red de radio en la que el maquinista y el jefe de estación de la est. Děčín východ d. n. acordaron previamente la maniobra de clasificación en la estación. Dicha red no debe servir para el despacho de trenes. Tiene una potencia relativamente baja (solo 1 W) y su finalidad se describe en el art. 9.2.1 del Reglamento de Explotación MRS PO Děčín, donde se dice: «La red de maniobra de tren (SMV) está destinada a la comunicación radio para la dirección de la maniobra de clasificación de elementos de maniobra y PMD en la estación o en la línea, o a la comunicación radio entre la locomotora de tren y la locomotora de empuje en la zona de la estación y en los tramos de línea adyacentes. ...» Para el despacho del tren Služ 59787 el jefe de estación debió utilizar la comunicación radio básica, que era la red GSM-R (véase el punto 4.2.1 de este IZ).
@@ -1275,8 +1284,8 @@ Jefe de estación St. 1: De la catorce hasta Žleb 73 839.
 Operadora de enclavamiento St. 3: 73 839 de la catorce recibo.
 …
 
-
 ## Página 43
+
 
 El tren Lv 73839 fue posteriormente despachado colocando la señal L14 en la posición que permite la circulación del tren.
 A las 10:09 h el despachador de ČD Cargo contactó con el jefe de estación St. 1 de la est. Děčín východ d. n., quien le comunicó información sobre la colisión de trenes.
@@ -1306,6 +1315,7 @@ Jefe de estación St. 1: De momento no lo resuelvas, ¿vale, por favor?
 En los registros ReDat no consta la conversación entre el jefe de estación St. 1 de la est. Děčín východ d. n. y el jefe de estación 2 SEVER de la est. Děčín hl. n., cuya existencia se desprende de dos menciones (antes de la conversación y después de la conversación) del jefe de estación St. 1 de la est. Děčín východ d. n. en dos grabaciones ReDat más, aquí no citadas. No obstante, el segundo jefe de estación mencionado, en su declaración de aclaración, indicó que se enteró en la sala de sus colegas de que «el alemán chocó con algo». Los registros ReDat confirman a continuación el procedimiento por él mencionado, cuando indicó que intentó contactar con el maquinista de la SHV mediante GSM-R, pero esta SHV no estaba dotada de terminal GSM-R.
 
 ## Página 44
+
 
 Archivo: 2020_05_07_10-16-18_2.52_267_LABEL_DECINHN_DT_US_2.mp3
 Inicio de la llamada: 7. 5. 2020, 10:16:18 h
@@ -1338,8 +1348,8 @@ Jefe de estación 2 SEVER: Bueno, pero seguro que serás el primero en informar 
 Maquinista de SHV: Sí, claro…
 Jefe de estación 2 SEVER: Pues dime entonces si está pasando algo o no, porque yo soy el jefe de estación y me corresponde, y en ese momento yo no sé qué está pasando. Pues dime simplemente si está pasando algo, para que yo pueda cumplir algún
 
-
 ## Página 45
+
 
 plan de avisos y no ocultar alguna barbaridad. Pues dime simplemente qué está pasando, y ya está.
 Maquinista de SHV: Pues, está pasando. Nosotros estamos aquí eee en el interior con la máquina. Esta embistió en realidad a un vagón, yo ya lo he comunicado en nuestra empresa y justo quería llamar también aquí, al jefe de estación…
@@ -1375,8 +1385,8 @@ participantes en el suceso
 • maquinista del tren Služ 59797 en turno del día 7. 5. 2020 desde las 7:00 h, descanso previo
   al turno 13:00 h;
 
-
 ## Página 46
+
 
 • maquinista del tren Lv 73839 en turno del día 7. 5. 2020 desde las 7:22 h, descanso previo
   al turno 163:50 h;
@@ -1396,23 +1406,36 @@ en su manejo y utilización
 El jefe de estación de la est. Děčín-Prostřední Žleb trabajaba con un SZZ controlado a través del JOP (en el ordenador). La maniobra de marcha atrás de la composición desde el tren Služ 59797 al tramo entre estaciones se mostró en el JOP, pero el jefe de estación no tiene la obligación de vigilar constantemente lo que ocurre en el esquema; además, dado que en el desempeño de su trabajo atiende a un área más amplia y a otras obligaciones, tal exigencia sería desproporcionada. El suceso se produjo a las 10:05:22 h, sin embargo, el JOP no advirtió suficientemente de la circulación del DV al tramo entre estaciones sin establecer la ruta de tren y en sentido contrario a la autorización de vía del jefe de estación del JOP.
 La primera reacción registrada del jefe de estación 2 SEVER de la est. Děčín hl. n., que atiende la est. Děčín-Prostřední Žleb, es el uso fallido de la función Señal adicional en la señal VL a las 10:05:57 h, es decir, 35 segundos después de producirse el suceso. Así reaccionó el jefe de estación ante el estado del esquema, que le mostraba la señal «Alto» en la señal VL y el esquema subrayado en color turquesa en el tramo de vía situado detrás de la señal. Este color turquesa tiene, según el manual de operación del SZZ ESA – parte 3, punto 11.9, el significado «vía libre bajo enlace no diferenciado». Además, en el manual se define que la indicación de enlace no diferenciado se produce si, durante la duración del enlace de la ruta de tren, se ha producido una avería (ocupación) breve del circuito de vía de dicho tramo. En el momento de producirse el suceso, Správa železnic no tenía un reglamento aprobado en el que se tratara detalladamente la operación del aparato de enclavamiento de estación. Este papel lo desempeña temporalmente el propio Manual de operación del SZZ ESA, que sin embargo, por principio, no puede contener procedimientos tecnológicos para resolver situaciones y estados no estándar concretos.
 
-
 ## Página 47
 
-De la definición indicada del significado de la indicación «vía libre bajo enlace no diferenciado» se desprende que el jefe de estación pudo intuir, a partir del subrayado del esquema, una situación no estándar. Esta decidió, sin embargo, resolverla sin intentar contactar con el tren Služ 59797, para el que se había determinado la ruta de tren. Atendiendo a la gravedad de la definición de enlace no diferenciado del tramo de vía y teniendo en cuenta que, para la operación del SZZ a través del JOP, no existe en Správa železnic ningún reglamento íntegro vigente, la Inspección Ferroviaria constata que el jefe de estación, al no contactar con el tren Služ 59797 en base a la situación detectada en el esquema, no actuó conforme a la disposición del art. 264 de la norma SŽDC D1: «En el sentido de las normas para la explotación de la infraestructura y la organización del transporte ferroviario, es necesario actuar también en aquellos casos que en ellas no se mencionan expresamente, y ello de acuerdo con el mejor saber y conciencia, de modo que se garantice la seguridad, la regularidad y la fluidez de la explotación de la infraestructura y del transporte ferroviario.
-Cada empleado que desempeñe un servicio de transporte es plenamente responsable de garantizar la seguridad de la explotación de la infraestructura y del transporte ferroviario en el ámbito de su competencia profesional.»
-Pues bien, aunque no se mencione expresamente, en el documento «DISPOSICIONES COMPLEMENTARIAS para la operación del SZZ en la EST. Děčín – Prostřední Žleb», en la versión vigente en el momento de producirse el suceso, en el art. 3.1.5 se indican «desviaciones de la norma ČD-Z1», entre las que cabe considerar la excepción «La anulación de la ruta, la liberación de emergencia de los enlaces de tramos, la selección de encendido de la señal de llamada se realiza igualmente con el cursor controlado por el ratón, o en su caso por el teclado, en lugar de operar con el botón o seleccionando el número.», que sugiere que incluso en este concreto SZZ electrónico los empleados deben aplicar el principio según SŽDC (ČD) Z1, anexo n.º 4, parte «Anulación de la ruta no recorrida» (arts. 76 – 79) destinado a la operación del SZZ de relés.
+De las definiciones indicadas del significado de la indicación «vía libre bajo enlace no diferenciado» se desprende que el jefe de estación pudo, a partir del sombreado del relieve, intuir una situación no estándar. Sin embargo, decidió resolverla sin intentar contactar con el tren Služ 59787, para el cual se había determinado la ruta de tren. Dada la gravedad de la definición de enlace no diferenciado de un tramo de vía, y teniendo en cuenta que para la explotación del SZZ mediante JOP no existe en Správa železnic ninguna norma completa y coherente, la Inspección Ferroviaria constata que el jefe de estación, al no contactar con el tren Služ 59787 en función de la situación detectada en el relieve, no actuó conforme a lo dispuesto en el art. 264 de la norma SŽDC D1: «En el sentido de las normas para la explotación de la infraestructura y la organización del transporte ferroviario, es necesario actuar también en aquellos casos que en ellas no se mencionan expresamente, y ello de acuerdo con el mejor conocimiento y conciencia, de modo que se garantice la seguridad, la regularidad y la fluidez de la explotación de la infraestructura y del transporte ferroviario.
+
+Cada empleado que desempeñe servicio de tráfico es plenamente responsable de garantizar la seguridad de la explotación de la infraestructura y del transporte ferroviario en el ámbito de su competencia profesional.»
+
+Puesto que, aunque no se menciona expresamente, en el documento «DISPOSICIONES COMPLEMENTARIAS para la explotación del SZZ en la estación Děčín – Prostřední Žleb», en la redacción vigente en el momento del suceso, en el art. 3.1.5 se indican las «desviaciones de la norma ČD-Z1», entre las que cabe considerar la excepción «La anulación de la ruta, la liberación de emergencia de los enlaces de los tramos, la selección de la activación de la señal de llamada se realiza igualmente mediante un cursor controlado por ratón o, en su caso, por teclado, en lugar de la operación con un botón o la selección de un número», lo que sugiere que también en este concreto SZZ electrónico los empleados deben aplicar el principio conforme a SŽDC (ČD) Z1, anexo n.º 4, parte «Anulación de una ruta de tren no recorrida» (arts. 76 – 79) destinado a la explotación del SZZ de relés.
+
 Allí se indica, entre otros:
-• art. 76 del anexo n.º 4 de la norma SŽDC (ČD) Z1:
-«El jefe de estación podrá, en el caso estrictamente necesario, anular una ruta no recorrida (cambio de disposición de tráfico, avería de ŽKV, error). El jefe de estación podrá anular una ruta no recorrida solo en el caso de que:
-a) en la ruta de entrada haya comprobado por un medio fiable que el tren no se encuentra en el tramo entre la señal de entrada que autoriza la circulación y al menos el punto de visibilidad prescrito de su preseñal *); …
-*) Nota: La preseñal de la señal de entrada puede ser también la señal principal de la estación contigua, que muestra la señal que autoriza la circulación.»;
-• art. 77 del anexo n.º 4 de la norma SŽDC (ČD) Z1:
-«Si el tren (la parte en maniobra) ya se encuentra en alguno de los tramos indicados en el artículo anterior, o si el jefe de estación no puede comprobar por un medio fiable dónde se encuentra el tren (la parte en maniobra), el jefe de estación no podrá anular dicha ruta, salvo en el caso de evitar un peligro inminente (p. ej., una eventualidad que amenace la seguridad del tráfico ferroviario).»;
-La Inspección Ferroviaria no considera que esta disposición constituya una determinación adecuada y unívoca del procedimiento tecnológico para la operación del SZZ, pero precisamente para tales casos existe el art. 264 SŽDC D1.
-El jefe de estación, sin embargo, con una operación posterior dio la orden de anular la ruta de tren desde la señal VL. Tras transcurrir el plazo temporal (3 minutos), con la anulación de dicha ruta de tren, el número de tren Služ 59797 desapareció de la interfaz del JOP sin ningún tipo de aviso. El jefe de estación, nuevamente
+
+art. 76 del anexo n.º 4 de la norma SŽDC (ČD) Z1:
+
+•
+«El jefe de estación podrá, en el caso estrictamente necesario, anular una ruta de tren no recorrida (cambio de disposición de tráfico, avería de ŽKV, error). El jefe de estación solo podrá anular una ruta de tren no recorrida en el caso de que:
+
+a) en la ruta de tren de entrada haya comprobado por un medio fiable que el tren no se encuentra en el tramo comprendido entre la señal de entrada que autoriza la circulación y, al menos, el punto de visibilidad prescrito de su preseñal *); …
+
+*) Nota: La preseñal de la señal de entrada puede ser también la señal principal de la estación contigua que emite la señal que autoriza la circulación.»;
+
+art. 77 del anexo n.º 4 de la norma SŽDC (ČD) Z1:
+
+•
+«Si el tren (elemento en maniobra) ya se encuentra en alguno de los tramos indicados en el artículo anterior, o si el jefe de estación no puede comprobar por un medio fiable dónde se encuentra el tren (elemento en maniobra), el jefe de estación no podrá anular dicha ruta de tren, salvo en el caso de evitar un peligro inminente (p. ej., una incidencia que ponga en peligro la seguridad del tráfico ferroviario).»;
+
+La Inspección Ferroviaria no considera que esta disposición constituya una determinación adecuada y unívoca del procedimiento tecnológico para la explotación del SZZ, pero es precisamente para tales casos para lo que existe el art. 264 de SŽDC D1.
+
+No obstante, el jefe de estación, con una operación posterior, dio la orden de anular la ruta de tren desde la señal VL. Transcurrido el intervalo de tiempo (3 minutos), con la anulación de la ruta de tren correspondiente, el número de tren Služ 59787 desapareció de la interfaz JOP sin ningún tipo de aviso. Al jefe de estación se le volvió a
 
 ## Página 48
+
 
 La vía de tren establecida llevaba el número de tren Lv 73839.
 En el momento de la anulación de la vía de tren, el jefe de estación, según sus propias palabras, no esperaba en absoluto que se hubiera producido una MU, porque suponía un tiempo de circulación prolongado para el tren Služ 59787 y no se percató en absoluto de que este tren ya había ocupado, casi dos minutos antes, el tramo de vía situado tras el semáforo de entrada.
@@ -1434,8 +1457,8 @@ del 4. 3. 2019, entre las estaciones de servicio D3 Ronov nad Doubravou y Žleby
 •
 produjo la colisión de los trenes Os 15912 y Mn 84261. La causa inmediata de la aparición de la MU fue el incumplimiento de la obligación de notificación en la estación de servicio D3 Ronov nad Doubravou por parte del maquinista del tren Os 15912 y la salida no autorizada a la sección espacial de la línea ocupada por el tren Mn 84261.
 
-
 ## Página 49
+
 
 del 3. 5. 2018, entre las estaciones de Křemže y Boršov nad Vltavou, en el que se produjo la
 •
@@ -1459,8 +1482,8 @@ Sobre la base de la declaración del maquinista del tren Služ 59787 del 1. 7. 2
 
 Los archivos SZZ de la est. Děčín-Prostřední Žleb registraron en los dos primeros días mencionados una ocupación no especificada de la sección entre estaciones en dirección a la est. Děčín východ d. n. durante un tiempo adecuado a la pulverización del dicho tramo entre estaciones. El 29. 5. 2018 no se encontró ningún registro, el 20. 5. 2019 tampoco se encontró la ocupación no especificada de la mencionada
 
-
 ## Página 50
+
 
 sección entre estaciones, habiendo transcurrido parte de este día en el tramo entre estaciones en cuestión una interrupción de vía.
 
@@ -1479,8 +1502,8 @@ Jefe de estación St. 1*: Buenos días desde Děčín a la central.
 Jefe de estación 2 SEVER*: Hola. Honor al trabajo.
 Jefe de estación St. 1*: Tengo aquí, tengo aquí a los pulverizadores, quieren ir al túnel. O decían que tras el túnel.
 
-
 ## Página 51
+
 
 Jefe de estación 2 SEVER*: Sí.
 Jefe de estación St. 1*: Sí, pues yo los dejaré pasar aquí, con la condición de que sea solo hasta la primera aguja de mi lado y ya /ilegible/…
@@ -1512,6 +1535,7 @@ La influencia de estos incidentes anteriores en la aparición de la MU en cuesti
 
 ## Página 52
 
+
 Hallazgos:
 Durante la circulación del SHV del transportista JARO en el tramo entre estaciones objeto de estudio el 20. 8. 
 •
@@ -1525,10 +1549,10 @@ Parte del trabajo planificado era también la aplicación en la vía lateral de 
 El maquinista del SHV y el jefe de estación acordaron conjuntamente que los trabajos de aplicación en el tramo entre estaciones hasta la est. Děčín-Prostrední Žleb se realizarían en forma de circulación de tren. El maquinista del SHV solicitó a su superior la creación de trenes desde la est. Děčín východ hasta la est. Děčín-Prostrední Žleb y de vuelta. Posteriormente se asignaron a los trenes los números Služ 59787 (para el trayecto de ida) y Služ 59804 (para el trayecto de vuelta).
 A las 9:59:17 h el jefe de estación St. 1 de la est. Děčín východ d. n. despachó el tren Služ 59804... [corregido: Služ 59787] mediante radiocomunicación. Para el despacho no se utilizó la comunicación radio básica. Tras el despacho del tren, el jefe de estación preguntó aún al maquinista por su plan de trabajo, cuando regresara de la est. Děčín-Prostrední Žleb.
 El tren Služ 59787 entró en la est. Děčín-Prostrední Žleb a las 10:03:26 h con la señal del semáforo de entrada VL Velocidad 40 km/h y aviso. A la est. Děčín východ d. n. llegó automáticamente, tras el tren Služ 59787, la anulación, por lo que a las 10:04:33 h se estableció la ruta de salida para el tren Lv 73839, que se dirigía también a la est. Děčín-Prostrední Žleb.
-El tren Služ 59787 se detuvo en la est. Děčín-Prostrední Žleb aproximadamente al final del puente sobre el río Labe, donde el maquinista cambió el sentido de circulación y, sin instrucción del jefe de estación, puso el conjunto en marcha de vuelta hacia la est. Děčín východ d. n. A las 10:04:50 h el tren Lv 73839 se puso en marcha en la est. Děčín východ d. n. A las 10:05:22 h el conjunto del tren Služ 59787 volvió a ocupar el tramo de vía entre la est. Děčín-Východ d. n. y la est. Děčín-Prostrední Žleb y a las 10:05:24 h abandonó la est. Děčín-Prostrední Žleb. A las 10:06:25 h el tren Lv 73839 pasó junto al semáforo S y se encontró así en la vía general en sentido contrario al conjunto del tren Služ 59787. Los vehículos ferroviarios circulaban el uno hacia el otro a una velocidad de hasta 40 km·h-1 y ambos maquinistas, según sus declaraciones, reaccionaron inmediatamente al avistar el tren en sentido contrario aplicando el frenado. Según la declaración del maquinista del SHV, al conjunto del tren Služ 59787 le fue posible detenerse. El tren Lv 73839 no logró detenerse 
-
+El tren Služ 59787 se detuvo en la est. Děčín-Prostrední Žleb aproximadamente al final del puente sobre el río Labe, donde el maquinista cambió el sentido de circulación y, sin instrucción del jefe de estación, puso el conjunto en marcha de vuelta hacia la est. Děčín východ d. n. A las 10:04:50 h el tren Lv 73839 se puso en marcha en la est. Děčín východ d. n. A las 10:05:22 h el conjunto del tren Služ 59787 volvió a ocupar el tramo de vía entre la est. Děčín-Východ d. n. y la est. Děčín-Prostrední Žleb y a las 10:05:24 h abandonó la est. Děčín-Prostrední Žleb. A las 10:06:25 h el tren Lv 73839 pasó junto al semáforo S y se encontró así en la vía general en sentido contrario al conjunto del tren Služ 59787. Los vehículos ferroviarios circulaban el uno hacia el otro a una velocidad de hasta 40 km·h-1 y ambos maquinistas, según sus declaraciones, reaccionaron inmediatamente al avistar el tren en sentido contrario aplicando el frenado. Según la declaración del maquinista del SHV, al conjunto del tren Služ 59787 le fue posible detenerse. El tren Lv 73839 no logró detenerse
 
 ## Página 53
+
 
 y a las 10:06:37 h, a una velocidad de 13 km·h-1, colisionó con el conjunto en sentido contrario. Como circunstancia que dificultaba la posibilidad de que los maquinistas reaccionaran a tiempo ante la situación, cabe señalar que el lugar de la colisión se encontraba en una curva.
 Como consecuencia de la ocurrencia del suceso excepcional no hubo daños personales. Se produjeron daños en los vehículos ferroviarios implicados y el descarrilamiento de un vagón de remolque con un eje.
@@ -1540,10 +1564,10 @@ La causa de la ocurrencia del suceso excepcional objeto de estudio es, sin lugar
 El maquinista del tren Služ 59787 trabajó anteriormente para la sociedad JARO como operador de aplicación. Su licencia de maquinista le fue emitida el 28. 1. 2016 en base al Acta del resultado del examen para acreditar la competencia profesional general del 15. 12. 2015, a la solicitud de emisión de la licencia de maquinista y a los anexos correspondientes – informe psicológico, reconocimiento médico, certificado del máximo nivel de estudios alcanzado. La sociedad JARO tenía asegurados por el socio contratista la formación de los maquinistas. La actividad de control de los empleados se realizaba por cuenta propia de forma aleatoria, sin que el maquinista implicado hubiera sido controlado en el intervalo anual anterior a la ocurrencia del suceso excepcional. Sobre la configuración de la actividad de control teniendo en cuenta las particularidades de JARO, puede constatarse que, en las circunstancias actuales, no es y difícilmente puede ser eficaz (véase el punto 3.2.3 de este ZZ).
 El transportista JARO realizaba, en virtud del contrato, la aplicación sobre el lecho de la vía en toda la red de Správa železnic, que tenía dividida en varias zonas. Los maquinistas del SHV de este transportista tenían asignadas determinadas zonas, en las que regularmente dos veces al año (en mayo y agosto) realizaban la aplicación con solución herbicida. El maquinista implicado en el suceso excepcional se movía el 7. 5. 2020 en la zona que le estaba asignada, siendo el km 458,961 (aguja n.º 3 de la est. Děčín-Prostrední Žleb), donde debía realizarse la aplicación desde la est. Děčín východ d. n., a su vez frontera de una de las zonas mencionadas. La aplicación en el resto de la est. Děčín-Prostrední Žleb correspondía a la zona de su compañero. Dado que los trabajos de aplicación son estacionales, los maquinistas del transportista JARO realizan también otras actividades laborales además de la conducción anual de DV, lo que puede influir en su experiencia y fiabilidad en la explotación.
 El maquinista del SHV implicado en el suceso excepcional, según los registros de la sociedad JARO, realizó la aplicación en el tramo Děčín východ d. n. – Děčín-Prostrední Žleb, km 458,961, en las fechas: 22. 5. 
-2017, 8. 8. 2017, 29. 5. 2018, 20. 5. 2019 y 20. 8. 2019. A la Inspección Ferroviaria comunicó que en 
-
+2017, 8. 8. 2017, 29. 5. 2018, 20. 5. 2019 y 20. 8. 2019. A la Inspección Ferroviaria comunicó que en
 
 ## Página 54
+
 
 las circulaciones anteriores no entraba en la est. Děčín-Prostrední Žleb y siempre realizaba la aplicación por el borde del puente desde la est. Děčín východ d. n. El maquinista decidió, según sus declaraciones, circular más allá por el puente hasta el km 458,961 porque quería mostrar al compañero operador dónde se encontraba el kilómetro acordado del final de los trabajos de aplicación. Puede, por tanto, constatarse que conocía el tramo en cuestión y era consciente de sus obligaciones en relación con la aplicación. De los hallazgos de la Inspección Ferroviaria se desprende que la actuación del 7. 5. 2020, cuando el maquinista del SHV se detuvo en un determinado kilómetro y, tras finalizar la aplicación, comenzó a maniobrar de vuelta hacia la est. Děčín východ d. n., fue similar a la de las circulaciones anteriores, de lo que puede deducirse que se procedió según un precedente creado por las experiencias de las circulaciones anteriores. Al verificar la declaración del maquinista del SHV de que las circulaciones anteriores en este tramo entre estaciones se realizaron en forma de PMD, se constató que Správa železnic, en las fechas 22. 5. 2017, 8. 8. 2017, 29. 5. 2018, 20. 5. 2019 y 20. 8. 2019, no registra ningún PMD en el tramo entre estaciones en cuestión. Del 20. 8. 2019 se conservaron varios documentos con los que fue posible reconstruir la situación que creó el mencionado precedente para la actuación del maquinista en el día de la ocurrencia del suceso excepcional. Ese día se acordó con el jefe de estación St. 1 de la est. Děčín východ d. n. la realización de los trabajos de aplicación en la vía hacia la est. Děčín-Prostrední Žleb "más allá del túnel". En el trayecto de maniobra, el SHV que realizaba la aplicación salió de la est. Děčín východ d. n. hacia la vía. El jefe de estación 2 SEVER de la est. Děčín hl. n., que atendía en el JOP también la est. Děčín-Prostrední Žleb, fue advertido por el jefe de estación St. 1 de la est. Děčín východ d. n.: "Probablemente se ocupará ahí. Un momento." Esa ocupación "un momento" es visible también en el registro del SZZ de ese día, cuando en el intervalo de 7:21:30 h a 7:33:27 h se produjo en el relé del JOP de la est. Děčín-Prostrední Žleb una ocupación no especificada del sector entre estaciones en dirección Děčín východ. Esto correspondía al tiempo y a la duración de la circulación del SHV que realizaba los trabajos de aplicación. Que el SHV llegó realmente tras el portal de Žleb del Túnel de Děčín y posteriormente inició la circulación de vuelta, fue acreditado también por el registro del GPS del SHV facilitado por el transportista JARO. De forma más detallada se describen las circulaciones anteriores similares de JARO en el capítulo 3.7 de este ZZ. Este patrón de actuación (precedente) quería el maquinista del SHV llevar a cabo también en el día de la ocurrencia del suceso excepcional. Al prestar declaración a la Inspección Ferroviaria, comunicó que la "maniobra" hacia la est. Děčín-Prostrední Žleb la concebía de antemano de tal forma que circularía hasta el kilómetro determinado y allí cambiaría el sentido de circulación.
 A pesar de que las circulaciones anteriores en el tramo entre estaciones en cuestión, en las que se infringían las normas para la explotación de la vía, llevaron a la creación de un patrón de actuación (precedente) del maquinista del SHV en el día de la ocurrencia del suceso excepcional, no puede obviarse la infracción fundamental del maquinista del SHV que condujo a la ocurrencia del suceso excepcional. En esencia, todas tienen un denominador común, que es la omisión de la comunicación en relación con deficiencias graves en el conocimiento de las normas de explotación de la vía y del transporte ferroviario.
@@ -1552,26 +1576,28 @@ Como es evidente de la radiocomunicación registrada, el maquinista era conscien
 
 ## Página 55
 
+
 La realización de una maniobra como PMD, en realidad, el maquinista de la SHV señalaba viajes anteriores en forma de maniobra hasta el señalizador, que se realizaban con conocimiento del jefe de estación en contra de las normas, de manera que el extremo de la unidad de maniobra abandonaba el ámbito de la est. Děčín východ d. n. (art. 1812 SŽDC D1). Lo confirma el registro al acordar el viaje con el jefe de estación: «No, no, no, yo siempre he circulado como si /inescuchable/ maniobra cada vez.» y también sus propias palabras de la explicación presentada: «Cuando llamé al jefe de estación para decirle que tenía la estación terminada y que necesitaba acordar la maniobra a la vía privada Loubí y a Prostřední Žleb. …»
 Durante el viaje del tren Služ 59787, el maquinista ignoró cualquier regla que se derivara de esta circunstancia y se comportó según el patrón aprendido. La circunstancia por la que se produjo la colisión con el tren Lv 73839 fue, paradójicamente, la determinación de no finalizar excepcionalmente el viaje en la vía de vía libre tras el portal del túnel del valle y entrar en la est. Děčín-Prostřední Žleb para mostrar al colega encargado del tratamiento fitosanitario el kilómetro acordado del final de los trabajos. Con ello se liberó la vía de vía libre, lo que permitió la expedición del tren Lv 73839 desde la est. Děčín východ d. n. en dirección a la est. Děčín-Prostřední Žleb. Según sus propias palabras, además, el maquinista de la SHV del tren no era consciente de que, al pasar la señal de entrada VL, había entrado en la est. Děčín-Prostřední Žleb. En la segunda presentación de explicaciones, realizada casi dos meses después de la aparición del MU, a la pregunta del inspector de la DI: «¿Contactó con el jefe de estación cuando entró en la est. Děčín-Prostřední Žleb?», respondió: «Yo no llegué en absoluto a la estación. Solo estaba al final del puente en dirección a la est. Děčín-Prostřední Žleb. …» Dado que todo el puente sobre el Elba se encuentra en la est. Děčín-Prostřední Žleb, de lo citado se deduce que el maquinista de la SHV consideraba estación de ferrocarril erróneamente hasta el lugar de la primera bifurcación de vías, lo que demuestra su desconocimiento de los conceptos básicos y las normas de explotación del transporte ferroviario.
 El maquinista de la SHV del tren Služ 59787, al detenerse en la cabecera de la est. Děčín-Prostřední Žleb, no actuó de acuerdo con el art. 3032 SŽDC D1 en relación con el art. 2847 de la misma norma. Según el art. 3032, en efecto, debía detener el tren en la estación antes de la señal principal situada directamente junto a la vía con la señal que prohíbe la circulación del tren, porque no se le había designado otro lugar de detención. El art. 2847, por su parte, define que la vía de tren de un tren entrante y que se detiene regular y excepcionalmente se entiende como el tramo de vía desde la señal de entrada en el lado de entrada del tren hasta la señal principal con la señal que prohíbe la circulación del tren, que en el caso del viaje del tren Služ 59787 era la señal de salida L6 en la 6.ª vía de la est. Děčín-Prostřední Žleb. El art. 3972 SŽDC D1 impone además al maquinista la obligación de detenerse en el lugar designado según otras disposiciones de la mencionada norma. El maquinista de la SHV tampoco, tras detener el tren en la cabecera, actuó de acuerdo con el art. 3975 SŽDC D1, por el que se le estableció advertir al jefe de estación de todas las circunstancias que tengan o puedan tener influencia en la circulación posterior del tren. Al iniciar el movimiento inverso, el maquinista de la SHV incumplió la disposición del art. 3974 SŽDC D1, que prohíbe al tren, tras detenerse, cualquier movimiento sin el permiso del jefe de estación o del empleado designado de la estación, y el art. 2954 de la misma norma, que prohíbe la salida del tren de la estación sin la expedición por el jefe de estación. Todos los artículos incumplidos acreditan que, si el maquinista del tren Služ 59787 hubiera actuado en relación con las disposiciones prescritas de la SŽDC D1, habría sido posible prevenir la aparición del MU.
 La consolidación del precedente de viajes anteriores y la actuación errónea del maquinista de la SHV del tren Služ 59787 pudo verse favorecida por la comunicación del jefe de estación St. 1 de la est. Děčín východ d. n., quien inmediatamente después de la expedición del tren Služ 59787, mediante el aparato de telecomunicaciones (de órdenes), continuó la conversación con la pregunta sobre el trabajo posterior de la SHV: «Por favor, cuando vuelvas a ir de vuelta de ese Žleb hacia aquí, a mí, ¿qué quieres hacer?» Con ello no actuó de acuerdo con la disposición del art. 313 SŽDC D1, que prohíbe vincular la orden con otras comunicaciones. Atendiendo a la encadenación de otras infracciones de las disposiciones de la norma SŽDC D1 por parte del maquinista de la SHV en el suceso del accidente, y al hecho de que el maquinista no se refiriera a esta conversación con el jefe de estación
 
-
 ## Página 56
+
 
 durante la investigación, no es posible acreditar la relación entre la falta del jefe de estación y la aparición del MU.
 El problema de la comunicación, sin embargo, no era solo del ámbito de su realización, sino también del ámbito del equipamiento técnico de la SHV con radioteléfono. El radioteléfono instalado HYT TM-610 no tenía la autorización para su uso en la vía de circulación ferroviaria de la Administración de Infraestructuras Ferroviarias (Správa železnic). Este radioteléfono, a su vez, solo permitía la comunicación por los canales MRS (utilizados principalmente en las estaciones de ferrocarril) y no era posible utilizarlo para la comunicación radiofónica básica (normalmente el sistema GSM-R o, en su caso, el TRS) en la vía. Según la comunicación del operador, el maquinista de la SHV, al recibirla, también debía haber recibido un teléfono móvil que garantizara la conexión en la red GSM-R. Este teléfono móvil, sin embargo, no lo recibió el maquinista y en el acta de entrega las casillas relacionadas con él están tachadas (véanse los puntos 3.2.3 y 3.4.3 de esta ZZ). El maquinista, a su vez, al presentar la explicación, manifestó desconocer los sistemas de radiocomunicación utilizados en la vía de circulación ferroviaria de la Administración de Infraestructuras Ferroviarias.
 El tren Služ 59787 no disponía, por tanto, de la comunicación radiofónica básica según el TTP para la vía n.º 544B y en el sistema de información figuraba únicamente la comunicación de emergencia. La cuestión de la obligación de comunicación radiofónica básica en el tren es, desde el punto de vista de la seguridad de la explotación del transporte ferroviario, absolutamente fundamental, porque precisamente a través de los sistemas GSM-R o TRS pueden enviarse órdenes codificadas con la instrucción de detener el tren (llamada automática de voz para la detención del tren en el GSM-R) o detener directamente el tren (función de parada general en el TRS o, en su caso, en el GSM-R). El operador está obligado a utilizar para la explotación de vehículos ferroviarios los dotados de la parte funcional compatible del aparato radiofónico según la disposición del § 71 apartado 5 letra a) del decreto n.º 173/1995 Sb. Desde el 15 de enero de 2020 no rige la aplazamiento de esta obligación, que se permitió por un plazo de 5 años mediante una disposición transitoria de este decreto. La investigación de este MU ha constatado que, conforme a la disposición anteriormente citada del decreto, si bien por parte de la Administración de Infraestructuras Ferroviarias hacia los operadores se establecen mediante normas internas obligaciones de tener vehículos dotados de radioteléfono que permita la comunicación radiofónica básica para la vía correspondiente, así como de indicar la comunicación radiofónica básica en cada tren en el mensaje «Tren preparado», con el que el tren se da de alta en los sistemas de información de la Administración de Infraestructuras Ferroviarias. En la realidad, sin embargo, los operadores no cumplen estas obligaciones y la propia Administración de Infraestructuras Ferroviarias no dispone de ningún mecanismo sistémico para la búsqueda de anomalías en el ámbito de la comunicación radiofónica con los trenes y, por tanto, para combatir dicho incumplimiento (véanse los puntos 3.2.3 y 3.4.3 de esta ZZ). En este punto es oportuno mencionar que tampoco los trenes Služ del operador Administración de Infraestructuras Ferroviarias cumplen las normas para la indicación de la comunicación radiofónica. Se trata de un riesgo de seguridad absolutamente fundamental que ha sido detectado por la investigación del mencionado MU y al que por parte de la Inspección Ferroviaria (Drážní inspekce) es necesario advertir con mucha firmeza.
 Cabe añadir que la ausencia de comunicación radiofónica básica en el tren Služ 59787 pudo haberla detectado el jefe de estación St. 1 de la est. Děčín východ d. n. Dicho tren, en efecto, salía de una vía con señal de salida de grupo. Por este motivo, el tren Služ 59787 no podía ser expedido con la señal de la señal principal y fue expedido con el radioteléfono. Aunque esto no lo determinan explícitamente las normas de la Administración de Infraestructuras Ferroviarias, de la definición de comunicación radiofónica básica (art. 2.10 de la directriz SŽDC n.º 35) y de la propia esencia de la palabra «básica» se deduce que el jefe de estación St. 1 de la est. Děčín východ d. n. debió utilizar para la expedición del tren Služ 59787 la comunicación radiofónica básica, que era, en relación con el art. 1.5 del anexo F de la Declaración de la vía y la tabla n.º 01 del TTP para la vía 544B, la red GSM-R. El jefe de estación, sin embargo, utilizó para la expedición del tren Služ 59787 la red MRS, canal n.º 21, es decir, la red de maniobras del tren, en la que previamente había acordado con el maquinista la maniobra en la estación. Realizar la expedición del tren en la red de maniobras del tren tampoco lo prohíben explícitamente las normas de la Administración de Infraestructuras Ferroviarias, no obstante, esta red, según su definición en el art. 9.2.1 del Reglamento de Explotación del MRS PO Děčín, está destinada para
 
-
 ## Página 57
+
 
 la conexión en la dirección de las maniobras de las unidades de maniobra y de PMD. Se trata de una red radiofónica destinada únicamente a la comunicación local. Su uso en la vía no está prohibido, pero debido a sus parámetros (potencia relativamente baja de 1 W) se utiliza exclusivamente para la comunicación mutua entre los participantes que se encuentran a corta distancia entre sí (por ejemplo, entre el conductor de la HDV y la locomotora de empuje). Esta red radiofónica no está destinada a la comunicación con trenes, es decir, tampoco a la expedición de trenes. Al contactar con el tren Služ 59787 en la comunicación radiofónica básica (red GSM-R), el jefe de estación de la est. Děčín východ d. n. habría comprobado que el tren Služ 59787 no disponía de ella, es decir, habría detectado una circunstancia que, en relación con el art. 2.8.7 DU a la SŽDC (ČD) Z11 y el art. 3.6 del anexo F de la Declaración de la vía para el año 2020, habría conducido a la prohibición de expedir el tren desde la estación de ferrocarril (más información en el punto 3.4.3 de esta ZZ).
 La Inspección Ferroviaria considera como segundo riesgo de seguridad fundamental el hecho de que el jefe de estación al que le estaba asignada dicha zona no fuera advertido suficientemente por la interfaz JOP de la salida no autorizada de la composición del tren Služ 59787 alrededor de la señal de entrada VL al tramo intermedio sin la establecimiento de la vía de tren y en contra de la dirección de la concesión del permiso de vía, respectivamente, no fuera advertido de la situación producida, en la que se produjo la liberación no prevista del tramo de vía en la vía de tren establecida para el tren Služ 59787, sin que se hubiera ocupado el tramo siguiente. La estación de ferrocarril Děčín-Prostřední Žleb estaba, a su vez, equipada con un SZZ relativamente moderno controlado a través del JOP. El jefe de estación reaccionó a la situación producida solo a las 10:05:57 h, es decir, 35 segundos después de la aparición del MU. En ese momento faltaban 40 s para la colisión de los trenes, respectivamente 32 s hasta la primera reacción registrada del maquinista del tren Lv 73839 ante la composición que circulaba en sentido contrario del tren Služ 59787. El jefe de estación reaccionó ante la situación en la que la interfaz JOP le mostraba la señal «Alto» en la señal VL y el tramo de vía inmediatamente detrás de ella estaba indicado como libre bajo un cierre no diferenciado (color turquesa), lo que le advertía de que, durante el tiempo de duración del cierre de la vía de circulación, se había producido una avería (ocupación) breve del circuito de vía de dicho tramo. Aunque el jefe de estación no recibió del JOP ninguna advertencia más destacada, con la vista en el color turquesa del relieve era evidente que se había producido una situación no estándar en dicho dispositivo. El jefe de estación no resolvió la situación con una comunicación activa con el tren más cercano al lugar con la indicación problemática, respectivamente, con el tren cuya circulación podía tener con mayor probabilidad relación con dicha indicación, que era en ambos casos el tren Služ 59787. En su lugar, sin embargo, el jefe de estación resolvió la situación de forma totalmente autónoma utilizando las funciones del SZZ. Primero mediante la función Señal adicional (DN) y, tras el fracaso de esta solución, con la orden de anulación de la vía de tren. Que la indicación de vía libre bajo un cierre no diferenciado pueda producirse como consecuencia de la ocupación del circuito de vía tras la señal, el jefe de estación lo sabía. Se deduce de la conversación posterior con el maquinista del tren Služ 59787, del que intentó verificar la situación en la vía tras recibir indicios de que se había producido la aparición del MU. Aquí el jefe de estación inicia la conversación con la frase: «Hola. Oye, chicos, ¿ya habíais pasado la entrada antes de esto? Se me liberó la vía, se me cayó la señal de entrada, así que lo expedí, quería establecer para vosotros y entre tanto desaparecisteis. …» En la parte citada de la conversación, a su vez, el jefe de estación reaccionó ante el estado en el que, tras la anulación de la vía de tren, el número de tren Služ 59787 desapareció de la interfaz de usuario del JOP sin ningún tipo de aviso al jefe de estación. La comunicación del jefe de estación 2 SEVER con el maquinista del tren Služ 59787, sin embargo, según la DI, llegó tarde (aproximadamente 10 minutos después de la aparición del MU y de la primera actuación del jefe de estación en relación con la situación no estándar en el relieve del JOP). Dado que para la operación del SZZ a través del JOP no existe en la Administración de Infraestructuras Ferroviarias ninguna norma completa vigente, la DI constata que el jefe de estación 2 SEVER de la est. Děčín hl. n. en una situación que no está expresamente prevista en la norma, no actuó según su leal saber y entender de manera que se garantizara la seguridad, la regularidad y la fluidez de la explotación de la vía y del transporte ferroviario, como establece el art. 264 SŽDC D1, por ejemplo, mediante la utilización de un procedimiento tecnológico análogo según la SŽDC (ČD) Z1,
 
 ## Página 58
+
 
 anexo n.º 4, parte «Anulación de la vía de circulación no recorrida» (arts. 76 – 79) destinado a la operación del SZZ de relés (véase el punto 3.6.3 de esta ZZ). Con su intervención preventiva oportuna, en forma de contactar con el tren Služ 59787 para preguntar por la situación, podría haber detectado que la MU se había producido antes de la colisión de los trenes e intentar evitarla, o bien activar antes el horario de notificación y, en caso de que la MU tuviera consecuencias más graves, activar también el IZS. En caso de haber sido advertido el JOP de la situación, habría dispuesto de 35 s adicionales para reaccionar. En total, habría tenido, por tanto, a su disposición más de un minuto, durante el cual habría sido realista evitar la colisión.
 Para la notificación de la excepción, no se cumplió por parte de los maquinistas de ninguno de los trenes implicados en la MU lo dispuesto en los arts. 4019 y 4028 de la norma SŽDC D1. El maquinista del tren Lv 73839, debido al temor a la barrera lingüística, comunicó la aparición de la MU en la Dispostelle Děčín, donde trabaja un empleado que habla alemán. Desde este punto, la información sobre la aparición de la MU se difundió más allá, por ejemplo, al despachador de ČD Cargo, que habló de la colisión de los trenes en las grabaciones ReDat por primera vez. El maquinista del tren Služ 59787, a continuación, tras la aparición de la MU, actuó conforme al horario de notificación JARO. Al jefe de estación solo le comunicó la aparición de la MU tras su consulta directa en una conversación telefónica. Al contacto entre el jefe de estación 2 SEVER y el maquinista del tren Služ 59787, además, obstaculizó el hecho de que la SHV no estuviera equipada con una estación de radio que dispusiera de la comunicación radiofónica básica en la red GSM-R. El maquinista habría tenido así que buscar el contacto del jefe de estación en la guía telefónica y, de manera similar, habría tenido que actuar el jefe de estación. Debido a la operativa superflua para llevar a cabo la llamada entre el jefe de estación que atendía el tramo entre estaciones correspondiente y el maquinista del tren Služ 59787, se produjo un retraso temporal que, en otro caso, podría haber costado incluso peores consecuencias para la salud de las personas heridas.
@@ -1587,8 +1613,8 @@ los viajes anteriores del mismo maquinista en el tramo correspondiente, organiza
 •
 de las normas de explotación de la vía, que contribuyeron a la creación del patrón de actuación del maquinista del tren Služ 59787.
 
-
 ## Página 59
+
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 Causa fundamental de la excepción fue:
@@ -1615,8 +1641,8 @@ canal n.º 21, es decir, la red de maniobras de tren. La determinación de esta 
 ◦art. 9.2.1 del Reglamento de Explotación MRS PO Děčín:
 «La red de maniobras de tren (SMV) está destinada a la comunicación radiofónica en la maniobra de maniobras de maniobras y PMD en la estación o en la vía, o a la comunicación radiofónica del maquinista de la locomotora de tren y de empuje en el ámbito de la ŽST y en los tramos de vía adyacentes.»
 
-
 ## Página 60
+
 
 El jefe de estación St. 1 de la est. Děčín východ d. n. no actuó en la expedición del tren Služ 59787 conforme
 •
@@ -1643,8 +1669,8 @@ Los transportistas implicados no cumplieron lo dispuesto en el § 71 apartado 5 
 •
 Sb., ya que en la vía, donde la parte de infraestructura del dispositivo radiofónico permite la emisión de la orden de parada automática del vehículo ferroviario, no utilizaron un vehículo ferroviario
 
-
 ## Página 61
+
 
 equipado con los medios técnicos para su realización;
 ◦§ 71 apartado 5 letra a) del decreto n.º 173/1995 Sb.:
@@ -1675,6 +1701,7 @@ Sb., ya que en la vía, donde la parte de infraestructura del dispositivo radiof
 
 ## Página 62
 
+
 orden de parada automática del vehículo ferroviario, no utilizaron un vehículo ferroviario equipado con los medios técnicos para su realización;
 El transportista JARO no cumplió, en relación con el § 71 apartado 5 letra b) del decreto •
 n.º 173/1995 Sb., el artículo 5.7.6 de la directiva SŽDC n.º 35, que establece al transportista la obligación de que los HDV que circulen regularmente en una línea equipada con GSM-R deben estar equipados con un terminal que permita la comunicación radio básica;
@@ -1689,8 +1716,8 @@ garantizar la comunicación radio básica, pero sin la parte embarcada instalada
 Durante la circulación del SHV del transportista JARO en el tramo entre estaciones •
 objeto de la investigación el día 20. 8. 2019, no se actuó conforme a los procedimientos tecnológicos vigentes para la salida y circulación de trenes o maniobras entre estaciones de servicio, al realizarse la circulación del SHV en forma de maniobra más allá de la señal de parada con posterior circulación a la línea sin cumplir las condiciones del art. 1812 de la norma SŽDC D1.
 
-
 ## Página 63
+
 
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas que, como consecuencia del suceso excepcional, ya se han adoptado o tomado
@@ -1713,8 +1740,8 @@ estación de trabajo única, para los que ello sea viable según el análisis, s
 garantizar que los aparatos de enclavamiento estacionales controlados a través de la •
 estación de trabajo única, para los que ello sea viable según el análisis,
 
-
 ## Página 64
+
 
 no permitan que desaparezca de ellos el número que representa un tren sin una acción intencionada del empleado operativo, sin que el empleado operativo haya sido avisado de ello de cualquier forma.
 La finalidad de las recomendaciones de seguridad anteriormente indicadas es aumentar significativamente la posibilidad de evitar las consecuencias de sucesos excepcionales similares, mediante la complementación de los SZZ con funcionalidades que avisen de la ocurrencia de un SE y, especialmente, mediante la prevención de la circulación de trenes sin comunicación radio básica, sobre todo en los casos en que esto ocurra sin conocimiento del explotador de la infraestructura y de su responsabilidad por la excepción concedida, y evitar la imposibilidad de enviar una orden codificada con la orden de parada del tren o que detenga directamente el tren.
@@ -1728,8 +1755,8 @@ De la Inspección Territorial de Bohemia
 Ing. Petr Mencl v. r.
 director de la Inspección Territorial de Bohemia
 
-
 ## Página 65
+
 
 ## 7 ANEXOS
 Fig. n.º 5: Eje descarrilado del vagón de remolque del SHV
@@ -1737,20 +1764,20 @@ Fig. n.º 5: Eje descarrilado del vagón de remolque del SHV
 Fig. n.º 6: Radio con la que estaba equipado el SHV
               Fuente: DI
 
-
 ## Página 66
+
 
 Fig. n.º 7: Vista del lugar de ocurrencia del SE en el sentido de circulación de la formación desde el tren Služ 59787
              Fuente: DI
 
-
 ## Página 67
+
 
 Fig. n.º 8: Deformación del frontal del HDV DB 189 y del vagón de remolque
          Fuente: DI
 
-
 ## Página 68
+
 
 Tiempo 
 antes/después 

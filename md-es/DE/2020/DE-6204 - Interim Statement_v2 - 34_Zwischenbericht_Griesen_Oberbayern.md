@@ -10,12 +10,13 @@ chars: 10432
 ratio_longitud: 1.04
 tokens_in: 4581
 tokens_out: 2801
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 3/6 (50%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,43 +35,42 @@ Evento peligroso en la explotación ferroviaria
 | Número de línea: | 5452 |
 | Kilómetro: | 136 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Perturbación por actuación operativa incorrecta el 22 01 2020 en la Estación de Griesen (Alta Baviera) 2 . . ............. |
-|  | 2.1 Descripción breve del evento 2 . ........................................................................................... |
-|  | 2.1.1 Descripción del emplazamiento 2 . . ........................................................................................... |
-|  | 2.1.2 Procedimiento de explotación 2 . . ............................................................................................................ |
-|  | 2.2 Consecuencias 3 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 3 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 3 . .......................................................................................... |
+| 1 | Observaciones previas 1 ..................................................................................................................... |
+| 2 | Incidencia por actuación incorrecta en la explotación el 22012020 en la estación de Griesen (Alta Baviera) 2 . . ............. |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 211 Descripción del lugar 2 . . ........................................................................................... |
+|  | 212 Procedimiento de explotación 2 . . .................................................................................................... |
+|  | 22 Consecuencias 3 . ...................................................................................................................................... |
+|  | 23 Desarrollo de la investigación 3 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 3 . .......................................................................................... |
 ## I. 
 ## Índice de modificaciones 
-| Modificación | Fecha de actualización |
-| Versión 2.0 en cumplimiento del plazo anual establecido. | 11 01 2021 . . |
-| Versión 3.0 en cumplimiento del plazo anual establecido. | 17 01 2022 . . |
-| Versión 4.0 en cumplimiento del plazo anual establecido. | 03 01 2022 . . |
-I 
-
+| Modificación | Versión |
+| Versión2 0 en virtud del plazo anual transcurrido . | 11 01 2021 . . |
+| Versión3 0 en virtud del plazo anual transcurrido . | 17 01 2022 . . |
+| Versión4 0 en virtud del plazo anual transcurrido . | 03 01 2022 . . |
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, para todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, se debe emitir al menos un informe intermedio en cada aniversario del evento peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no pretende ser exhaustiva. El objetivo y la finalidad de las investigaciones es aclarar las causas de los eventos peligrosos y, a partir de ellos, obtener indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad civil u otros reclamos de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 
-
 ## Página 5
+
 
 ## 2 Perturbación por actuación operativa incorrecta el 22.01.2020 en la Estación 
 ## Griesen (Alta Baviera) 
@@ -83,8 +83,8 @@ Las dos estaciones de explotación adyacentes a la estación (Bf) Griesen (Alta 
 ### 2.1.2 Procedimiento de explotación 
 La conducción de la explotación se realiza conforme a las disposiciones de la Ril 408. Entre las estaciones de explotación Griesen (Alta Baviera) y Ehrwald Zugspitzbahn (ÖBB) se aplica el procedimiento de comunicación de trenes. Los dos operadores de infraestructura DB Netz AG y ÖBB Infrastruktur AG han regulado en
 
-
 ## Página 6
+
 
 la directriz 302.4006 «Regulación de las particularidades locales en la frontera ferroviaria Griesen (Alta Baviera) – Ehrwald-Zugspitzbahn», en el apartado 7.7.2, los procedimientos y las fórmulas a utilizar en la comunicación de trenes. El jefe de explotación es responsable de la sucesión de trenes. En caso de desviaciones del horario, la secuencia de las circulaciones de trenes debe ser fijada por los jefes de explotación de las dos estaciones de explotación adyacentes Griesen (Alta Baviera) y Ehrwald Zugspitzbahn (ESTW Reutte). Para ello se dispone de una conexión telefónica analógica.
 ### 2.2 Consecuencias 
@@ -96,8 +96,8 @@ A partir de un procedimiento de comunicación de trenes no realizado conforme a 
 En el tramo de línea afectado circulan aproximadamente 30 trenes al día, y 35 los sábados y domingos. El operador de infraestructura DB Netz AG explota actualmente 53 tramos de línea sin protección técnica de sucesión y de circulación en sentido contrario. Este listado ya está depurado del número de líneas que se encuentran en proceso de modernización, en las que solo circula un tren al día o que solo se explotan en tráfico ocasional. En total, esto afecta a unos 900 trenes diarios. Así pues, en el año de explotación tienen lugar aproximadamente 330.000 circulaciones de trenes sin protección técnica de sucesión y de circulación en sentido contrario.
 La protección de las circulaciones de trenes sin protección técnica de sucesión y de circulación en sentido contrario se realiza exclusivamente mediante el procedimiento de comunicación de trenes por vía telefónica. En estos casos, los
 
-
 ## Página 7
+
 
 errores humanos no pueden ser compensados por medios técnicos. Por ello, las líneas de DB Netz AG están mayoritariamente equipadas con dispositivos de bloqueo de señalización. Estos garantizan la protección técnica de sucesión y de circulación en sentido contrario.
 La Ordenanza de construcción y explotación de ferrocarriles (EBO) admite el procedimiento de explotación aplicado en el tramo de línea afectado. DB Netz AG, como operador de infraestructura, ha implementado en su propia red de líneas regulaciones más allá de los requisitos de la EBO, en la directriz DS 818 «Planificar y mantener instalaciones de señalización» y en la directriz 413 «Diseñar la infraestructura». Para ello, con fines de evaluación de riesgos, se elabora un perfil de carga de la línea mediante la utilización de diversos factores de los ámbitos de infraestructura y material rodante, así como de explotación y personal, y con base en el mismo se realiza una evaluación basada en el riesgo de los posibles procedimientos de explotación para líneas de vía única. Las evaluaciones arrojan que las líneas de vía única con tráfico de pasajeros a intervalos horarios y cruces de trenes programados pueden explotarse en principio sin protección técnica de sucesión y de circulación en sentido contrario.

@@ -10,13 +10,13 @@ chars: 28140
 ratio_longitud: 1.02
 tokens_in: 9790
 tokens_out: 6840
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 19: cifras largas: faltan 11/11 (100%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (FR)", "página 3: original bilingüe: se compara contra el idioma principal (FR); cifras cortas: 1/4", "página 9: original bilingüe: se compara contra el idioma principal (FR)", "página 11: cifras cortas: 1/4", "página 18: ratio 2.08"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 BEA-TT
 Oficina de Investigación de Accidentes
@@ -33,11 +33,12 @@ Ministerio de Ecología, Energía,
 Desarrollo Sostenible y Ordenación del Territorio
 www.developpement-durable.gouv.fr
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### Consejo General del Medio Ambiente
 y del Desarrollo Sostenible
@@ -51,8 +52,8 @@ sobre la colisión
 ocurrida el 3 de diciembre de 2007
 ### en el paso a nivel n.º 10 de Cadaujac (33)
 
-
 ## Página 4
+
 
 ### Relación documental
 Organismo(s) encargado(s) : Ministerio de Ecología, Energía, Desarrollo Sostenible
@@ -63,8 +64,8 @@ TER ocurrida el 3 de diciembre de 2007 en el paso a nivel n.º 10 de Cadaujac (3
 N.º ISRN : EQ-BEATT--08-10-FR
 Propuesta de palabras clave : Accidente, paso a nivel, control del vehículo, cinturón de seguridad
 
-
 ## Página 5
+
 
 ### Advertencia
 La investigación técnica objeto del presente informe se realiza en el
@@ -76,11 +77,12 @@ determinando las circunstancias y las causas del evento analizado, y
 elaborando las recomendaciones de seguridad pertinentes. No tiene como objetivo
 determinar responsabilidades.
 
-
 ## Página 6
 
 
+
 ## Página 7
+
 
 ### Índice
 Glosario......................................................................................................7
@@ -114,11 +116,12 @@ Anexo 1 : Decisión de apertura de investigación...............................
 Anexo 2 : Plano de situación....................................................................................28
 Anexo 3 : Fotografías....................................................................................... 29
 
-
 ## Página 8
 
 
+
 ## Página 9
+
 
 ### Glosario
 ### kN : kilonewton : unidad de medida de fuerza
@@ -128,11 +131,12 @@ un período de 24 horas
 ### TER : Tren Expreso Regional
 ### TMJA : Tráfico medio diario anual
 
-
 ## Página 10
 
 
+
 ## Página 11
+
 
 ### Resumen
 El 3 de diciembre de 2007 a las 09 h 10, un vehículo particular con tres personas a bordo
@@ -151,10 +155,12 @@ seguridad vial, de recordar a los conductores que los pasos a nivel constituyen 
 críticos en sus itinerarios y que su cruce no puede tolerar ningún error de conducción ni
 incidencia mecánica.
 
-
 ## Página 12
 
+
+
 ## Página 13
+
 
 ## 1- 
 ###       Constataciones inmediatas y organización de la investigación
@@ -183,11 +189,12 @@ otros aspectos, en los resultados de la investigación preliminar realizada por 
 Nacional, en los peritos solicitados por el Tribunal de Gran Instancia de Burdeos, así como en los 
 documentos administrativos y de control relativos a la explotación de la línea ferroviaria.
 
-
 ## Página 14
 
 
+
 ## Página 15
+
 
 ## 2- 
 ###       Informe de las investigaciones realizadas
@@ -218,8 +225,8 @@ población y soporta un tráfico reducido (265 vehículos MJA). Su velocidad est
 Calle du Bois du Pont
 Disposición de los lugares (véase el plano de situación en el anexo 2)
 
-
 ## Página 16
+
 
 La calle Truchon es perpendicular a la vía férrea, y su trazado es rectilíneo en el acercamiento al 
 PAN 10.
@@ -245,13 +252,14 @@ antes de encontrarse en la intersección. No obstante, en ambos casos, un « Sto
 en un punto desde el cual el paso a nivel y su señalización son visibles, en particular la luz « R24 » 
 orientada en su dirección (véanse las fotos del lugar a continuación).
 
-
 ## Página 17
+
 
 Vista del paso a nivel al llegar por la calle Truchon, con la calle de Balette a la derecha
 Vista del paso a nivel al llegar desde la calle de Balette con la calle Truchon a la izquierda
 
 ## Página 18
+
 
 ## 2.3- 
 ###     Vehículo accidentado
@@ -291,9 +299,51 @@ Fase 1 - duración 7 segundos - el paso del tren por la pedalera de anuncio acti
 
 ## Página 19
 
-vehículos).
+la cabina de conducción: el maquinista y la revisora. En este itinerario su velocidad estaba limitada a
+120 km/h. El peritaje del registrador de velocidad ha demostrado que el tren, en los kilómetros que
+precedieron al choque, no había superado la velocidad de 120 km/h y que la velocidad en el primer
+choque era de 114 km/h.
+Los exámenes de la unidad no han revelado ninguna anomalía técnica. Además, los datos
+referentes a la distancia entre el punto de choque y la posición de detención del tren, 575 metros, y
+la velocidad del TER determinada por el peritaje de los datos registrados del TER, 114 km/h, muestran
+que la deceleración del tren en frenado de emergencia fue del orden de 0,90 m/s2, lo que corresponde
+a la norma para este tipo de material ferroviario. Este hallazgo confirma también que, teniendo en
+cuenta la velocidad de circulación inicial de 120 km/h, el frenado de emergencia estuvo activo
+aproximadamente 60 metros antes del choque.
+## 2.4.2- 
+###     Maquinista del tren
+El maquinista del tren, de 35 años de edad. Los exámenes toxicológicos no han revelado rastro
+alguno de alcohol, medicamento u otra sustancia tóxica.
+El día del accidente, el maquinista se levantó a las 04h55 para tomar su primer servicio a
+las 06h15 desde Verdon para llegar a Burdeos, donde llegó a las 08h20. Salió de allí a las 08h37
+para ir a Beautiran. A continuación, abandonó Beautiran hacia las 09h00 para regresar, en vacío, a
+Burdeos. Fue durante este trayecto, en Cadaujac, donde se produjo el accidente.
+## 2.4.3- 
+###     Línea BURDEOS-SETE y paso a nivel n.º 10
+La línea en cuestión soporta un tráfico importante, 78 trenes al día en ambos sentidos. Su
+velocidad base es de 160 km/h, en particular para los TGV que se dirigen a Toulouse. En cambio,
+para los TER, como el accidentado, la velocidad máxima está limitada a 120 km/h.
+El momento del PN 10 (producto del TMJA por el número de trenes que circulan diariamente
+por la línea) es de 20 670. No está clasificado entre los PN preocupantes debido a este bajo momento
+y a la ausencia de incidentes en los últimos años. Con momentos aún más bajos, ocurre lo mismo con
+los otros tres PN de esta línea situados en el municipio de Cadaujac.
+El seguimiento técnico y el mantenimiento del PN 10 se han realizado en condiciones normales
+durante los meses anteriores. Su funcionamiento el día del accidente no presentó ninguna anomalía.
+Recordemos a este respecto el principio de funcionamiento de los pasos a nivel automáticos.
+El esquema siguiente representa el tramo de vía férrea entre el PN y el punto de anuncio de la
+llegada del tren.
+La distancia entre el guion amarillo que representa el pedal de anuncio de llegada del tren y el
+paso a nivel, está determinada para permitir, en función de la velocidad del tren, a los órganos del
+paso a nivel de desempeñar su función de alerta, de cerrar el acceso a la vía férrea dando a la vez
+tiempo a los vehículos rodantes de detenerse antes del PN o de liberar su emprise.
+En el caso del PN 10 examinado, esta distancia es de 1 333 metros para una velocidad base
+máxima de 160 km/h. En esta configuración, la secuencia para un tren que circula a esta velocidad
+máxima es la siguiente:
+Fase 1 - duración 7 segundos - el paso del tren sobre el pedal de anuncio activa las
+señalizaciones acústica y lumínica (semáforo rojo intermitente que impone la parada inmediata a los
 
 ## Página 20
+
 
 automobilistas) que indican el paso inminente de un tren;
 Fase 2 - duración 10 segundos - al término de la fase 1, las barreras comienzan a descender 
@@ -311,8 +361,8 @@ desencadenamiento de las señales acústica y lumínica por la señal de aviso.
 Los testimonios y las mediciones de SNCF muestran que el cierre del paso a nivel se desarrolló 
 normalmente.
 
-
 ## Página 21
+
 
 ## 3- 
 ###       Desarrollo reconstruido del accidente y socorros
@@ -339,10 +389,10 @@ la velocidad del tren, el frenado de emergencia está activo a unos 60 metros de
 ## 3.1.3- 
 ###     Colisión
 En el instante siguiente, el tren, en fase de frenado de emergencia, llega al paso a nivel a 114 km/h, 
-engancha el ala delantera derecha del coche, le imprime su propia velocidad y la proyecta hacia la izquierda en 
-
+engancha el ala delantera derecha del coche, le imprime su propia velocidad y la proyecta hacia la izquierda en
 
 ## Página 22
+
 
 desprendiéndole el ala delantera derecha, el capó y la puerta derecha. En esta trayectoria, el coche choca 
 de frente y secciona a la base un poste de hormigón y, probablemente, se volca sobre su lado derecho. 
@@ -365,8 +415,8 @@ marcha una desviación. Las víctimas fueron evacuadas tras constatar su falleci
 La circulación de los trenes se restableció parcialmente a partir de las 13h00 (vía 1 únicamente), 
 permaneciendo el paso a nivel cerrado a la circulación rodada.
 
-
 ## Página 23
+
 
 ## 4- 
 ###       Análisis de las causas y factores asociados
@@ -407,10 +457,12 @@ paso a nivel no es una situación trivial y que requiere siempre una vigilancia
 particular (reducir la velocidad al aproximarse a los pasos a nivel, respetar la señalización instalada), y un control perfecto 
 de su vehículo.
 
-
 ## Página 24
 
+
+
 ## Página 25
+
 
 ## 5- 
 ###       Conclusiones y recomendaciones
@@ -419,43 +471,47 @@ El análisis de las circunstancias no ha permitido establecer con certeza las ra
 Este accidente pone de manifiesto, sobre todo, el riesgo que sigue representando el cruce de un paso a nivel, así como la necesidad para los conductores de abordarlos con gran vigilancia y en condiciones de control perfecto de su vehículo.
 En cuanto a los aspectos generales de la seguridad vial, el BEA-TT no formula ninguna recomendación particular, pero subraya la utilidad, en el marco de la comunicación sobre seguridad vial, de recordar a los conductores que los pasos a nivel constituyen puntos críticos en sus itinerarios y que su cruce no tolera ningún error de conducción ni incidente mecánico.
 
-
 ## Página 26
 
 
+
 ## Página 27
+
 
 ## ANEXOS
 Anexo 1: Decisión de apertura de investigación
 Anexo 2: Plano de situación
 Anexo 3: Fotografías
 
-
 ## Página 28
+
 
 
 ## Página 29
 
-### Anexo 1: Decisión de apertura de investigación
 
+### Anexo 1: Decisión de apertura de investigación
 
 ## Página 30
 
-### Anexo 2: Plano de situación
 
+### Anexo 2: Plano de situación
 
 ## Página 31
 
+
 ### Anexo 3: Fotografías
 
-
 ## Página 32
+
 
 
 ## Página 33
 
 
+
 ## Página 34
+
 
 BEA-TT - Bureau d’enquêtes sur les Accidents de transport terrestre
 Tour Pascal B - 92 055 LA DEFENSE CEDEX

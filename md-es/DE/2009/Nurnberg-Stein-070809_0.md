@@ -10,13 +10,13 @@ chars: 44865
 ratio_longitud: 1.08
 tokens_in: 16119
 tokens_out: 11939
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 22: cifras largas: faltan 8/8 (100%)"]
-notas_cifras: ["página 4: cifras cortas: 1/29", "página 13: cifras cortas: 1/45", "página 16: cifras cortas: 2/7", "página 21: ratio 2.32"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Dirección del
 Servicio Federal de Investigación de Accidentes Ferroviarios
@@ -29,6 +29,7 @@ Bonn, 10.02.2011
 
 ## Página 2
 
+
 ### Publicado por:
 Ministerio Federal de Transporte, Construcción y Desarrollo Urbano,
 Servicio Federal de Investigación de Accidentes Ferroviarios
@@ -36,6 +37,7 @@ Robert-Schuman-Platz 1
 53175 Bonn
 
 ## Página 3
+
 
 ### Índice
 1
@@ -105,6 +107,7 @@ Recomendaciones de seguridad....................................................
 
 ## Página 4
 
+
 ## 1
 ### Resumen
 El 07.08.2009, el tren de mercancías FIR 51629, con recorrido Seelze – Núremberg Rbf,
@@ -129,6 +132,7 @@ El descarrilamiento se produjo en la curva de vía con radio de 310 m.
 
 ## Página 5
 
+
 De los 24 vagones, se descarrilaron los vagones 6 a 18 que circulaban acoplados en el tren. Entre los vagones 6 y 7 se produjo una separación del tren.
 ### 2.1.3 Objetivo y propósito de la investigación de accidentes ferroviarios
 El objetivo y propósito de las investigaciones es aclarar las causas de los incidentes peligrosos y derivar de ello indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como objetivo determinar culpas ni aclarar cuestiones de responsabilidad o de otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial.
@@ -139,10 +143,10 @@ En la toma de datos del lugar del accidente y en la determinación de las causas
 EBA Ast Nürnberg Sb 2 – Supervisión de construcción y vigilancia de instalaciones IOH, LEA 
 • 
 EBA Ast Nürnberg Sb 4 – Vigilancia de la explotación, transporte de mercancías peligrosas, LEA, 
-supervisión de la seguridad laboral y protección del medio ambiente 
-
+supervisión de la seguridad laboral y protección del medio ambiente
 
 ## Página 6
+
 
 ## 2.2 
 ### Antecedentes del incidente
@@ -224,10 +228,10 @@ Vagón cisterna de nitrógeno limpiado, vacío (=sin mercancías peligrosas)
 31804723255-4 
 Aguja 8201 Estación Nürnberg Stein 
 31804723155-6 
-(km 4,215) 
-
+(km 4,215)
 
 ## Página 7
+
 
 ### 2.2.2 Descripción de la infraestructura y del sistema de señales
 ### 2.2.2.1 Infraestructura
@@ -260,6 +264,7 @@ Día de verano seco y caluroso.
 
 ## Página 8
 
+
 ### Acta de investigación
 ## 3.1 
 ### Constataciones en el lugar del suceso
@@ -286,6 +291,7 @@ El cuerpo de bomberos profesional de Núremberg, que actuó en el lugar, formul�
 
 ## Página 9
 
+
 Para una investigación más exhaustiva de los hechos, se establecieron las siguientes medidas con las empresas ferroviarias participantes:
 • 
 Con DB Netz AG:
@@ -304,6 +310,7 @@ Para no poner en peligro las operaciones de recuperación planificadas, se insta
 Para permitir lo antes posible la circulación de la vía Rbf – Stein en el tráfico regular de trenes, se procedió a la noche del 09 al 10.08.2009 al reemplazo de los durmientes afectados.
 
 ## Página 10
+
 
 vagones descarrilados 9 y 10 (lado exterior de la curva)
 vagones descarrilados 11 y 12 (lado interior de la curva)
@@ -331,6 +338,7 @@ La evaluación de la grabación electrónica de los viajes arrojó como resultad
 
 ## Página 11
 
+
 En los documentos del horario, no se superó la velocidad permitida en el tramo relevante para el accidente objeto de investigación.
 La velocidad circulada antes del incidente fue de aproximadamente 57 km/h.
 ### 3.3.2 Vagones de mercancías descarrilados
@@ -345,8 +353,8 @@ Traviesas y balasto:
 Las traviesas de madera de la vía interior de la curva del punto de desvío (IBW) 8201, así como las traviesas de madera adyacentes al inicio y al final del punto de desvío, presentan fisuras longitudinales. Aproximadamente el 10 % de estas traviesas está afectado por un deterioro biológico avanzado.
 Las traviesas de hormigón no presentan daños, con la excepción de cuatro traviesas con fisuras transversales en el centro de la traviesa. Las traviesas de hormigón B 58 utilizadas en el área del lugar del descarrilamiento tenían el casquillo de plástico original Sdü 9 para alojar los pernos de traviesa.
 
-
 ## Página 12
+
 
 En las celdas de las traviesas, así como en la zona de los extremos de las traviesas, hay suficiente balasto.
 Intercalares:
@@ -358,8 +366,8 @@ En resumen, respecto al apriete, cabe señalar que, con pocas excepciones, los p
 Rieles:
 En los rieles de ambos ríeles no se detectaron desgastes excesivos ni inadmisibles en conjunto. En las aristas de rodadura de ambos ríeles, fuera de la zona del punto de desvío, se observaba formación de rebaba. El riel exterior de la curva presentaba
 
-
 ## Página 13
+
 
 además Head Checks (fisuras de rodadura) de diversa índole, así como defectos del riel en cinco puntos.
 Ancho de vía y peralte:
@@ -386,6 +394,7 @@ El tipo de inspección "Inspección de la vía según Ril 821.2003" se realizó 
 
 ## Página 14
 
+
 se indican en el km 3,7-3,1. No se pueden extraer de la acta otras indicaciones sobre defectos de la superestructura. En el mes 7/2009 se habría debido documentar una nueva inspección visual de la vía. No se disponía de documentación al respecto. Tampoco falta la documentación sobre la inspección visual de la vía de 24 meses realizada por el responsable de las instalaciones.
 A 2.
 El tipo de inspección «Comprobación de la geometría de la vía con vehículos de medición de vía según Ril 821.2001» se realizó de forma periódica respetando los plazos reglamentarios (cada 18 meses con v ≤ 80 km/h). La medición actual se realizó el 07.04.2008 con el GMTZ 005 (dirección de circulación del tren de medición).
@@ -398,6 +407,7 @@ El déficit de elevación se calcula: uf = uo – u = 137 mm – 95 mm = 42 mm
 
 ## Página 15
 
+
 Según la Ril 800.0110, apartado 3, el déficit de elevación se encuentra en el ámbito de discrecionalidad y corresponde a las reglas técnicas reconocidas.
 En conjunto, cabe señalar que la geometría de la vía (posición de la vía) cumple en gran medida con la Ril 821.2001 y no es la causa del descarrilamiento.
 A 3.
@@ -409,6 +419,7 @@ A 5.
 Para aclarar la causa de la rotura de los pernos, se sometieron a análisis metalúrgico varias durmientes de la vía del accidente, incluidas las piezas de fijación con vástago de perno roto y casquillo de durmiente Sdü9, un casquillo de durmiente Sdü13, varias cabezas de pernos de durmiente arrancadas, algunas placas de nervaduras fuertemente dañadas con pernos de gancho y pernos de durmiente, incluidos los casquillos, así como dos pernos de durmiente doblados.
 
 ## Página 16
+
 
 Como resultado, el fallo de los pernos de durmiente examinados se atribuyó a una rotura por fatiga debido a esfuerzos de flexión alternantes. En este contexto, no se excluyó que otros pernos pudieran haber fallado por rotura frágil como consecuencia de los pernos ya rotos.
 El aumento de los esfuerzos de flexión en los pernos de durmiente se atribuyó a que:
@@ -424,6 +435,7 @@ A 6.
 Debido al hecho de que, mediante inspecciones adicionales en el RB Süd, se habían roto varios pernos de durmiente Ss8 en durmientes B 58 situados en ocasiones consecutivamente, la DB Netz AG emitió una comunicación técnica
 
 ## Página 17
+
 
 se ordenó una inspección especial a nivel federal de las vías principales y secundarias.
 En el presente informe se evaluaron los resultados de forma diferenciada según los rangos de radio y las clases de daño.
@@ -471,10 +483,10 @@ SK3
 • 
 SK4  
  = 122   Ss rotos (aprox. 21 casos individuales)
-Dentro de la SK 4 hubo 9 casos en los que los tornillos de durmiente en cinco a siete durmientes consecutivos (siempre en el riel exterior de la curva) estaban rotos. En tres tramos de vía se produjo una concentración local de tornillos de durmiente sueltos (aproximadamente 250 Ss sueltos por 1 km de longitud). El resto de los tornillos de durmiente sueltos estaban distribuidos individualmente. 
-
+Dentro de la SK 4 hubo 9 casos en los que los tornillos de durmiente en cinco a siete durmientes consecutivos (siempre en el riel exterior de la curva) estaban rotos. En tres tramos de vía se produjo una concentración local de tornillos de durmiente sueltos (aproximadamente 250 Ss sueltos por 1 km de longitud). El resto de los tornillos de durmiente sueltos estaban distribuidos individualmente.
 
 ## Página 18
+
 
 No se realizó una evaluación estadística de los tornillos de durmiente rotos detectados en cada sección de investigación en relación con la longitud de la sección (p. ej., frecuencia de daños por cada 100 km de longitud de vía curva).  
 El resultado de la inspección especial muestra que la mayoría de los tornillos de durmiente rotos o sueltos se presentan como casos aislados, sin concentración en un durmiente o en varios durmientes consecutivos. En casos individuales, en los que se rompen varios tornillos de durmiente en más de 4 durmientes consecutivos, se prevé una afectación de la guía de la vía. Además, debido a la reducción del momento de inercia de reemplazo de la estructura de la vía, cabe esperar una menor estabilidad de la posición de la vía durante la época calurosa. 
@@ -493,10 +505,10 @@ de la
 ### señalización 
 y 
 ### incluida la grabación automática de datos
-No existen indicios de que el descarrilamiento se haya visto favorecido por ello. 
-
+No existen indicios de que el descarrilamiento se haya visto favorecido por ello.
 
 ## Página 19
+
 
 ### 3.4.3 Investigación de la puesta a tierra de los cables de alimentación
 Las investigaciones revelaron que no existe una prescripción de tiempo fija sobre el momento en el que un cable aéreo o de alimentación, etc., debe estar puesto a tierra tras un incidente.
@@ -506,10 +518,10 @@ Para la puesta a tierra ferroviaria de cables de alimentación se requieren disp
 Si, por ejemplo, debido a un cortocircuito, el centro de conmutación central (Zes) no recibe inmediatamente conocimiento de una irregularidad en los cables y no inicia las medidas correspondientes, generalmente se reconocerá la necesidad de una desconexión y puesta a tierra ferroviaria solo tras la llegada de los equipos de rescate o del gestor de emergencias. En caso de ser necesaria una puesta a tierra del cable aéreo, el gestor de emergencias puede iniciar inmediatamente las medidas en el lugar,
 mientras que
 en caso de ser necesaria una puesta a tierra del cable de alimentación, primero deben ser convocados los profesionales especializados debidamente formados. La convocatoria de los profesionales especializados en electricidad se realizó mediante un TVT (vehículo traccionado de combustión interna para torres).
-En el presente caso, mediante la elección de otro medio de transporte quizás se habría podido lograr un tiempo de desplazamiento más corto. 
-
+En el presente caso, mediante la elección de otro medio de transporte quizás se habría podido lograr un tiempo de desplazamiento más corto.
 
 ## Página 20
+
 
 ## 3.5 
 ### Documentación de las acciones operativas 
@@ -520,6 +532,7 @@ No existen indicios de que el descarrilamiento se haya visto favorecido por ello
 No existen indicios de que el descarrilamiento se haya visto favorecido por ello.
 
 ## Página 21
+
 
 ### Análisis y conclusiones
 
@@ -549,7 +562,20 @@ Los métodos de comprobación mencionados en la Ril 824.5050 (calibrador de espe
 
 ## Página 22
 
+Los tornillos de traviesa, así como el estado de apriete insuficiente de los tornillos de gancho, tal como exige el Ril 824.5050 Anexo 1, no fueron detectados durante las inspecciones de vía ni se constataron ampliaciones de la huella en las últimas mediciones de vía, por lo que tampoco mediante este tipo de inspección, en el presente caso, se pudo concluir sobre un número excesivo de piezas menores rotas o flojas.
+
+Los defectos de seguridad descritos no fueron detectados de forma completa y temprana mediante las inspecciones reglamentarias actualmente vigentes (inspección «a simple vista» durante el recorrido de la vía, inspección mediante tren de medición de vía).
+
+Dado que, como se expone en el capítulo 3.4.1 apartado 1., no se pudieron acreditar dos inspecciones de vía, también un mantenimiento descuidado podría haber contribuido a la acumulación de elementos de fijación de vía dañados. Al no poderse determinar con mayor precisión el período durante el cual fallaron los tornillos de traviesa examinados, no es posible realizar al respecto afirmaciones más detalladas.
+
+No obstante, se parte en principio de que los defectos mencionados en los elementos de fijación no pudieron ser detectados por ninguno de los tipos de inspección a realizar según el Ril 821.xxxx «Inspeccionar superestructura» y que, por tanto, bajo determinadas condiciones límite, solo parecen ser adecuados de forma condicionada.
+
+Asimismo, cabe señalar que, en lo que respecta al apriete de los elementos de fijación (piezas menores de raíl, piezas menores de traviesa), los valores objetivo del par de apriete requerido en cada caso solo están establecidos en el Ril 824.5050 «Realizar trabajos de superestructura» Anexo 1. En el Anexo 2 del mismo Ril se indica qué velocidades máximas de circulación de trenes deben darse para que los elementos de fijación puedan estar parcialmente aflojados o desmontados. En las normas reglamentarias aplicables a la inspección no se encuentran disposiciones explícitas sobre el apriete, por lo que el Ril 824 podría ser aplicable de forma indirecta bajo condiciones límite adecuadas, como por ejemplo los rangos de temperatura del raíl.
+
+También los métodos de verificación mencionados en el Ril 824.5050 (calibrador de espesores en el anillo de resorte o en la abrazadera de apriete) solo son adecuados de forma condicionada para detectar tornillos de traviesa con fisuración avanzada o tornillos de traviesa ya cortados pero aún atrapados. La medición de las distancias entre los abultamientos del anillo de resorte o entre el bucle central de la abrazadera de apriete y la nervadura guía se considera, por tanto, un criterio insuficiente para alcanzar el apriete objetivo con el par de apriete requerido. Esto es especialmente válido para formas de superestructura en las que se utilizan materiales sujetos a descomposición biológica natural y que no pueden evaluarse de forma completamente evidente a simple vista (por ejemplo, en intercalados de madera de chopo o en traviesas de madera). Asimismo, deben tenerse especialmente en cuenta trazados especiales, como los que se dan, por ejemplo, en curvas de radio estrecho.
+
 ## Página 23
+
 
 ### Medidas adoptadas  
 ## 5.1 

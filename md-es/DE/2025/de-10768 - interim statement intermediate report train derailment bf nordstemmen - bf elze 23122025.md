@@ -10,12 +10,13 @@ chars: 6344
 ratio_longitud: 1.01
 tokens_in: 6091
 tokens_out: 3517
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -32,33 +33,32 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 1732 |
 | Punto kilométrico: | 267 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Descarrilamiento el 23 12 2025 Bf Nordstemmen 2 . . .................................................................... |
-|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 3 . .......................................................................................... |
+| I . | Registro de modificaciones I ............................................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Descarrilamiento del tren el 23122025 en la estación de Nordstemmen 2 . . .................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 3 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Registro de modificaciones 
 Modificación 
 Estado 
-I 
-
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 Elaboración del informe intermedio sobre la base del § 5 apartado 5 del Reglamento de
@@ -79,8 +79,8 @@ mercancías y es desde hace varios años objeto de amplias consultas de expertos
 decidido por ello publicar un informe intermedio antes del primer aniversario del suceso.
 Página 1 de 3
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento el 23.12.2025 en el Bf Nordstemmen  
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias.
@@ -124,8 +124,8 @@ en
 Internet en www.beu.bund.de.
 Página 2 de 3
 
-
 ## Página 6
+
 
 ### 2.4 Problemas de seguridad identificados 
 Las investigaciones realizadas hasta ahora han determinado que el descarrilamiento partió

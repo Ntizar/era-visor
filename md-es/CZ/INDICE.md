@@ -61,7 +61,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ-10455 - Final_report_Belcice_Blatna.md](2023/CZ-10455%20-%20Final_report_Belcice_Blatna.md) | — | 259990 | ok |
 | [CZ-10457 - Final_report_Brno_Zidenice.md](2023/CZ-10457%20-%20Final_report_Brno_Zidenice.md) | — | 101927 | ok |
 | [CZ-10462 - Final_report_Moravsky_Pisek_Nedakonice.md](2023/CZ-10462%20-%20Final_report_Moravsky_Pisek_Nedakonice.md) | — | 103009 | ok |
-| [CZ-10463 - 240426_final_report_DP_Plzen_Karlovarska.md](2023/CZ-10463%20-%20240426_final_report_DP_Plzen_Karlovarska.md) | — | 89453 | revisar |
+| [CZ-10463 - 240426_final_report_DP_Plzen_Karlovarska.md](2023/CZ-10463%20-%20240426_final_report_DP_Plzen_Karlovarska.md) | — | 89453 | ok |
 | [cz-10376 - final_report_cervenka_stepanov.md](2023/cz-10376%20-%20final_report_cervenka_stepanov.md) | — | 173077 | ok |
 | [cz-10427 - 241118_final_report_usti_nad_labem_sever.md](2023/cz-10427%20-%20241118_final_report_usti_nad_labem_sever.md) | — | 101778 | ok |
 | [cz-10461 - final_report_olomouc_hl_n_cz-10461.md](2023/cz-10461%20-%20final_report_olomouc_hl_n_cz-10461.md) | — | 138061 | ok |
@@ -71,7 +71,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [CZ-10179 - Investigation_Report_Prosenice.md](2022/CZ-10179%20-%20Investigation_Report_Prosenice.md) | — | 256391 | revisar |
+| [CZ-10179 - Investigation_Report_Prosenice.md](2022/CZ-10179%20-%20Investigation_Report_Prosenice.md) | — | 256391 | ok |
 | [CZ-10187 - Investigation_Report_Teplice_v_Cechach.md](2022/CZ-10187%20-%20Investigation_Report_Teplice_v_Cechach.md) | — | 127066 | ok |
 | [CZ-10190 - 230209_Interim_statement_Decin_Prostredni_Zleb.md](2022/CZ-10190%20-%20230209_Interim_statement_Decin_Prostredni_Zleb.md) | — | 4013 | ok |
 | [CZ-10190-_40212_Interim_statement_v2_Decin_Prostredni_Zleb_II.md](2022/CZ-10190-_40212_Interim_statement_v2_Decin_Prostredni_Zleb_II.md) | — | 6159 | ok |
@@ -97,9 +97,9 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ-10255 - Investigation_Report_Klatovy_Janovice_n_Uhlavou.md](2022/CZ-10255%20-%20Investigation_Report_Klatovy_Janovice_n_Uhlavou.md) | — | 83181 | ok |
 | [CZ-10268 - Final_report_Bohumin-THU.md](2022/CZ-10268%20-%20Final_report_Bohumin-THU.md) | — | 241620 | ok |
 | [CZ-10273 - Investigation_report_Straz_u_Tachova_Bor.md](2022/CZ-10273%20-%20Investigation_report_Straz_u_Tachova_Bor.md) | — | 91597 | ok |
-| [CZ-10274 - 230802_final_report_Zlin.md](2022/CZ-10274%20-%20230802_final_report_Zlin.md) | — | 171270 | revisar |
+| [CZ-10274 - 230802_final_report_Zlin.md](2022/CZ-10274%20-%20230802_final_report_Zlin.md) | — | 171270 | ok |
 | [CZ-10290 - 230914_final_report_Cesky_Tesin_220820.md](2022/CZ-10290%20-%20230914_final_report_Cesky_Tesin_220820.md) | — | 157307 | ok |
-| [CZ-10300 - Final_report_Hostejn_CZ-10300.md](2022/CZ-10300%20-%20Final_report_Hostejn_CZ-10300.md) | — | 157179 | revisar |
+| [CZ-10300 - Final_report_Hostejn_CZ-10300.md](2022/CZ-10300%20-%20Final_report_Hostejn_CZ-10300.md) | — | 157179 | ok |
 | [CZ-10315 - Final_Report_Liskovec_u_Frydku.md](2022/CZ-10315%20-%20Final_Report_Liskovec_u_Frydku.md) | — | 122220 | ok |
 | [CZ-10317 - Interim_Statement_Podebrady_P 3585.md](2022/CZ-10317%20-%20Interim_Statement_Podebrady_P%203585.md) | — | 4260 | ok |
 | [CZ-10318 - Final_report_Stritez_nad_Becvou.md](2022/CZ-10318%20-%20Final_report_Stritez_nad_Becvou.md) | — | 100400 | ok |
@@ -113,7 +113,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ-10345 - Interim statement Kolin.md](2022/CZ-10345%20-%20Interim%20statement%20Kolin.md) | — | 3315 | ok |
 | [CZ-10346 - 231107_final_report_Bzenec_privoz_Mor_Pisek.md](2022/CZ-10346%20-%20231107_final_report_Bzenec_privoz_Mor_Pisek.md) | — | 98080 | ok |
 | [CZ-10347 - ZZ_Final_report_Brno-Malomerice.md](2022/CZ-10347%20-%20ZZ_Final_report_Brno-Malomerice.md) | — | 124971 | ok |
-| [cz-10190 - 240912_final_report_decin_prostr_zleb.md](2022/cz-10190%20-%20240912_final_report_decin_prostr_zleb.md) | — | 266491 | revisar |
+| [cz-10190 - 240912_final_report_decin_prostr_zleb.md](2022/cz-10190%20-%20240912_final_report_decin_prostr_zleb.md) | — | 266491 | ok |
 
 ## 2021 (36)
 
@@ -170,7 +170,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ-6211_Tabor.md](2020/CZ-6211_Tabor.md) | — | 99182 | ok |
 | [CZ-6212_Revnice.md](2020/CZ-6212_Revnice.md) | — | 101672 | ok |
 | [CZ-6257_Nyrany.md](2020/CZ-6257_Nyrany.md) | — | 87381 | ok |
-| [CZ-6265-Investigation_report_Decin_Pros_Zleb.md](2020/CZ-6265-Investigation_report_Decin_Pros_Zleb.md) | — | 209504 | revisar |
+| [CZ-6265-Investigation_report_Decin_Pros_Zleb.md](2020/CZ-6265-Investigation_report_Decin_Pros_Zleb.md) | — | 209504 | ok |
 | [CZ-6267_Hnojnik.md](2020/CZ-6267_Hnojnik.md) | — | 91108 | ok |
 | [CZ-6279-Investigation_Report_Dobrickov_Struharov.md](2020/CZ-6279-Investigation_Report_Dobrickov_Struharov.md) | — | 96613 | ok |
 | [CZ-6280-Investigation_report_Jindris_Blazejov_ID_CZ-6280.md](2020/CZ-6280-Investigation_report_Jindris_Blazejov_ID_CZ-6280.md) | — | 105943 | ok |
@@ -187,7 +187,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ-6312 - Investigation_Report_Krizanov.md](2020/CZ-6312%20-%20Investigation_Report_Krizanov.md) | — | 96737 | ok |
 | [CZ-6316-Investigation_report_Pocatky_Jihlavka.md](2020/CZ-6316-Investigation_report_Pocatky_Jihlavka.md) | — | 97108 | ok |
 | [CZ-6317-210317_Kolin.md](2020/CZ-6317-210317_Kolin.md) | — | 154736 | ok |
-| [CZ-6318 - 211004_Jihlava_final_report.md](2020/CZ-6318%20-%20211004_Jihlava_final_report.md) | — | 97522 | revisar |
+| [CZ-6318 - 211004_Jihlava_final_report.md](2020/CZ-6318%20-%20211004_Jihlava_final_report.md) | — | 97522 | ok |
 | [CZ-6320 - 220216_Interim_statement_Mstetice.md](2020/CZ-6320%20-%20220216_Interim_statement_Mstetice.md) | — | 4668 | ok |
 | [CZ-6320 - Final_report_Mstetice.md](2020/CZ-6320%20-%20Final_report_Mstetice.md) | — | 244032 | ok |
 | [CZ-6324-Investigation_report_Brno_Horni_Herspice_Strelice.md](2020/CZ-6324-Investigation_report_Brno_Horni_Herspice_Strelice.md) | — | 80199 | ok |
@@ -361,7 +361,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ 11.10.2017 ZZ LipnÃ­k nad BeÄvou.md](2017/CZ%2011.10.2017%20ZZ%20LipnÃ­k%20nad%20BeÄvou.md) | — | 142078 | ok |
 | [CZ 12.06.2017 20181011_Cesky_Brod.md](2017/CZ%2012.06.2017%2020181011_Cesky_Brod.md) | — | 137077 | ok |
 | [CZ 12.07.2017 20170712_DI_Klatovy.md](2017/CZ%2012.07.2017%2020170712_DI_Klatovy.md) | — | 53043 | ok |
-| [CZ 12.08.2017 20181121_DI_Mostek.md](2017/CZ%2012.08.2017%2020181121_DI_Mostek.md) | — | 141586 | revisar |
+| [CZ 12.08.2017 20181121_DI_Mostek.md](2017/CZ%2012.08.2017%2020181121_DI_Mostek.md) | — | 141586 | ok |
 | [CZ 12.09.2017 ZZ Beroun.md](2017/CZ%2012.09.2017%20ZZ%20Beroun.md) | — | 79787 | ok |
 | [CZ 13.11.2017 ZZ Å½elechovice.md](2017/CZ%2013.11.2017%20ZZ%20Å½elechovice.md) | — | 67285 | ok |
 | [CZ 15.12.2017 ZZ Koli­n.md](2017/CZ%2015.12.2017%20ZZ%20Koli­n.md) | — | 95301 | ok |
@@ -385,7 +385,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ 27.07.2017 ZZ Novosedly.md](2017/CZ%2027.07.2017%20ZZ%20Novosedly.md) | — | 119218 | ok |
 | [CZ 27.08.2017 20180118_DI_Volyne.md](2017/CZ%2027.08.2017%2020180118_DI_Volyne.md) | — | 83357 | ok |
 | [CZ 27.10.2017 ZZ DPO.odt.md](2017/CZ%2027.10.2017%20ZZ%20DPO.odt.md) | — | 99559 | ok |
-| [CZ 29.09.2017 ZZ Kryry - Vroutek.md](2017/CZ%2029.09.2017%20ZZ%20Kryry%20-%20Vroutek.md) | — | 66643 | revisar |
+| [CZ 29.09.2017 ZZ Kryry - Vroutek.md](2017/CZ%2029.09.2017%20ZZ%20Kryry%20-%20Vroutek.md) | — | 66643 | ok |
 | [CZ 30.01.2017 20180406_DI_Olovnice_ID_CZ-5244.md](2017/CZ%2030.01.2017%2020180406_DI_Olovnice_ID_CZ-5244.md) | — | 95287 | ok |
 | [CZ 30.012017 ZZ Rudoltice v ÄŒechÃ¡ch - KrasÃ­kov.md](2017/CZ%2030.012017%20ZZ%20Rudoltice%20v%20ÄŒechÃ¡ch%20-%20KrasÃ­kov.md) | — | 138913 | ok |
 | [CZ 30.07.2017 ZZ Lochovice.md](2017/CZ%2030.07.2017%20ZZ%20Lochovice.md) | — | 74263 | ok |
@@ -403,7 +403,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ 13.09.2016 20160913_DI_Vnorovy.md](2016/CZ%2013.09.2016%2020160913_DI_Vnorovy.md) | — | 71264 | ok |
 | [CZ 15.12.2016 ZZ HavlÃ­ÄkÅ¯v Brod.md](2016/CZ%2015.12.2016%20ZZ%20HavlÃ­ÄkÅ¯v%20Brod.md) | — | 108735 | ok |
 | [CZ 19.04.2016 ZZ.md](2016/CZ%2019.04.2016%20ZZ.md) | — | 173087 | ok |
-| [CZ 21.03.2016 ZZ GolÄÅ¯v JenÃ­kov.md](2016/CZ%2021.03.2016%20ZZ%20GolÄÅ¯v%20JenÃ­kov.md) | — | 105040 | revisar |
+| [CZ 21.03.2016 ZZ GolÄÅ¯v JenÃ­kov.md](2016/CZ%2021.03.2016%20ZZ%20GolÄÅ¯v%20JenÃ­kov.md) | — | 105040 | ok |
 | [CZ 24.07.2016 ZZ Å tÄ›pÃ¡nov.md](2016/CZ%2024.07.2016%20ZZ%20Å%20tÄ›pÃ¡nov.md) | — | 187509 | ok |
 | [CZ 25.06.2016 ZZ Brno hl. n.md](2016/CZ%2025.06.2016%20ZZ%20Brno%20hl.%20n.md) | — | 62870 | ok |
 | [CZ 26.05.2016 20160527_DI_Praha_hl_n.md](2016/CZ%2026.05.2016%2020160527_DI_Praha_hl_n.md) | — | 131907 | ok |
@@ -456,7 +456,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [CZ 08.07.2014 ZZ_&amp.md](2014/CZ%2008.07.2014%20ZZ_&amp.md) | — | 126766 | ok |
 | [CZ 09.09.2014 ZZ_DPO_ÚMOb_Jih.md](2014/CZ%2009.09.2014%20ZZ_DPO_ÚMOb_Jih.md) | — | 96993 | ok |
 | [CZ 11.07.2014 ZZ_Chrlice.md](2014/CZ%2011.07.2014%20ZZ_Chrlice.md) | — | 97777 | ok |
-| [CZ 11.09.2014 Labin.md](2014/CZ%2011.09.2014%20Labin.md) | — | 75863 | revisar |
+| [CZ 11.09.2014 Labin.md](2014/CZ%2011.09.2014%20Labin.md) | — | 75863 | ok |
 | [CZ 11.11.2014 ZZ_Petrovice_u_K.___Odb._Zavada.md](2014/CZ%2011.11.2014%20ZZ_Petrovice_u_K.___Odb._Zavada.md) | — | 144527 | ok |
 | [CZ 12.04.2014 ZZ_Praha___Libe&.md](2014/CZ%2012.04.2014%20ZZ_Praha___Libe&.md) | — | 79336 | ok |
 | [CZ 13.03.2014 ZZ_Decin.md](2014/CZ%2013.03.2014%20ZZ_Decin.md) | — | 87498 | ok |
@@ -625,12 +625,12 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 |---|---|---|---|
 | [DI_Studenka_Report-08082008.md](2008/DI_Studenka_Report-08082008.md) | — | 288542 | ok |
 | [Final report 10-11-2008-EN version.md](2008/Final%20report%2010-11-2008-EN%20version.md) | — | 90804 | ok |
-| [Final report 30-07-2008-EN version.md](2008/Final%20report%2030-07-2008-EN%20version.md) | — | 87112 | revisar |
+| [Final report 30-07-2008-EN version.md](2008/Final%20report%2030-07-2008-EN%20version.md) | — | 87112 | ok |
 | [Final_Report_22022008.md](2008/Final_Report_22022008.md) | — | 200148 | ok |
 | [Investigation_report-02062008.md](2008/Investigation_report-02062008.md) | — | 139824 | ok |
 | [Investigation_report-06062008.md](2008/Investigation_report-06062008.md) | — | 95154 | ok |
 | [Investigation_report-09012008.md](2008/Investigation_report-09012008.md) | — | 69726 | ok |
-| [Investigation_report-10042008.md](2008/Investigation_report-10042008.md) | — | 39048 | revisar |
+| [Investigation_report-10042008.md](2008/Investigation_report-10042008.md) | — | 39048 | ok |
 | [Investigation_report-10112008.md](2008/Investigation_report-10112008.md) | — | 85108 | ok |
 | [Investigation_report-11042008.md](2008/Investigation_report-11042008.md) | — | 203583 | ok |
 | [Investigation_report-12122008.md](2008/Investigation_report-12122008.md) | — | 116699 | ok |
@@ -666,7 +666,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [Investigation_report-20062007.md](2007/Investigation_report-20062007.md) | — | 45021 | ok |
 | [Investigation_report-20092007.md](2007/Investigation_report-20092007.md) | — | 49197 | ok |
 | [Investigation_report-21062007.md](2007/Investigation_report-21062007.md) | — | 37563 | ok |
-| [Investigation_report-21092007.md](2007/Investigation_report-21092007.md) | — | 37827 | revisar |
+| [Investigation_report-21092007.md](2007/Investigation_report-21092007.md) | — | 37827 | ok |
 | [Investigation_report-25012007.md](2007/Investigation_report-25012007.md) | — | 132805 | ok |
 | [Investigation_report-27112007.md](2007/Investigation_report-27112007.md) | — | 148562 | ok |
 | [Investigation_report-30102007.md](2007/Investigation_report-30102007.md) | — | 90503 | ok |

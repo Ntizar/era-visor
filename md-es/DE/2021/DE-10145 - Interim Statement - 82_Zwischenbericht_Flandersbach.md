@@ -10,12 +10,14 @@ chars: 4264
 ratio_longitud: 1.00
 tokens_in: 2130
 tokens_out: 1117
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
 avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,40 +36,39 @@ Suceso peligroso en la explotación ferroviaria
 | Aguja: | 01W3 |
 | Punto kilométrico: | 1212 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice 
+## Índice
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................... |
-| 2 | Colisión de trenes el 19 10 2021 en Bf Flandersbach 2 . . ........................................................................ |
+| 1 | Observaciones preliminares 1 ..................................................................................................... |
+| 2 | Colisión de trenes el 19/10/2021 en la estación de Flandersbach 2 . . ........................................................................ |
 |  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
 |  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
 |  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
 ## Índice de modificaciones 
-Modificación 
-Estado 
-I 
-
+Modificación 
+Estado 
+I
 
 ## Página 4
+
 
 ## 1 Notas previas 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, en todas las investigaciones formalmente abiertas y en curso por una oficina de investigación, se debe emitir al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado de investigación actual, puede verse modificada en cualquier momento y no reclama ser exhaustiva. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar una responsabilidad ni para aclarar cuestiones de responsabilidad civil u otros derechos civiles, y se llevan a cabo con independencia de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 19.10.2021 en Bf Flandersbach 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias. A continuación, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se citan en el último apartado.

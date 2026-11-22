@@ -10,13 +10,13 @@ chars: 55367
 ratio_longitud: 1.03
 tokens_in: 26167
 tokens_out: 15661
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 23: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 27: cifras largas: 1/10", "página 28: cifras largas: 1/11"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -33,16 +33,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 5452 |
 | Punto kilométrico: | 136 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -95,8 +95,8 @@ Postura del Tf RB 5523..........................................................
 Gestión de emergencias.......................................................................................... 11
 I
 
-
 ## Página 4
+
 
 4.3
 Investigación de la infraestructura constructiva................................................. 12
@@ -142,8 +142,8 @@ Modificación
 Estado
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -169,8 +169,8 @@ Tabla 8: Datos técnicos Tfz 94 80 2442 228-9 D-DB..............................
 Tabla 9: Datos técnicos Tfz 94 80 2442 226-3 D-DB................................................ 21
 III
 
-
 ## Página 6
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -228,8 +228,8 @@ RöB
 Regulación de las particularidades locales
 IV
 
-
 ## Página 7
+
 
 | SMS | Sistema de gestión de seguridad |
 | Stw | Cambio |
@@ -241,8 +241,8 @@ IV
 | VzG | Registro de velocidades admisibles en cada tramo |
 V
 
-
 ## Página 8
+
 
 ## 1 Observaciones previas
 El capítulo Observaciones previas aborda información general sobre la Oficina Federal de
@@ -275,13 +275,14 @@ de conclusiones, incluida la determinación de las causas y, en su caso, la emis
 de recomendaciones de seguridad. Las propuestas del organismo de investigación para
 evitar accidentes y mejorar la seguridad en el tráfico ferroviario se comunican a la
 
-
 ## Página 9
+
 
 autoridad de seguridad y, cuando sea necesario, a otros organismos y autoridades o a otros
 Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 10
+
 
 ## 2 Resumen
 El capítulo aborda una breve descripción de la secuencia de los hechos, las consecuencias y las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que se hayan emitido en su caso.
@@ -295,8 +296,8 @@ Es suficientemente probable que un cruce de trenes en la línea de vía única c
 ### 2.4 Recomendaciones de seguridad
 Con el informe intermedio del 22.06.2020, la BEU emitió la recomendación de seguridad Nr. 05 / 2020. En ella se recomendó someter a una evaluación de seguridad actualizada las líneas sin protección técnica frente a colisiones por alcance y frente a circulación en sentido contrario, más allá de las disposiciones adoptadas hasta la fecha. A partir de los resultados, deberán adoptarse entonces medidas adicionales adecuadas para excluir la entrada no intencionada de un tren en un tramo de línea ya ocupado por otro tren.
 
-
 ## Página 11
+
 
 ## 3 Datos generales
 El capítulo contiene datos generales para la descricción del lugar del suceso y de las instalaciones ferroviarias relevantes. Asimismo, se indican los organismos que participan y colaboran en la investigación del accidente, las condiciones exteriores, el número de personas heridas y fallecidas en su caso en el suceso, así como el tipo y la cuantía de los daños consecuentes.
@@ -307,8 +308,8 @@ Las siguientes ilustraciones muestran la ubicación geográfica del lugar del su
 Ilustración 1: Plano de situación1
 1 Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2020], editado por BEU
 
-
 ## Página 12
+
 
 Ilustración 2: Boceto de la disposición de vías2
 ### 3.2 Participantes y colaboradores
@@ -320,8 +321,8 @@ Para el EIU DB Netz AG existía una autorización de seguridad conforme al § 7c
 El EVU DB Regio AG disponía de un certificado de seguridad conforme al § 7a AEG con una validez hasta el 20.12.2020 y estaba, con ello, habilitado para participar en la explotación ferroviaria.
 2 Elaborado con signalschablone.maschexx.de
 
-
 ## Página 13
+
 
 ### 3.3 Condiciones exteriores
 En el momento del suceso concurrían las siguientes condiciones:
@@ -340,15 +341,15 @@ Las condiciones exteriores, como por ejemplo el tiempo, no guardaban ninguna rel
 En el suceso no hubo personas heridas ni fallecidas. No se produjeron daños materiales.
 La línea permaneció cerrada hasta las 20:03 horas; se estableció un servicio de sustitución con autobuses.
 
-
 ## Página 14
+
 
 La siguiente ilustración muestra los dos trenes, tras haberse detenido a una distancia de unos 20 m el uno del otro.
 Ilustración 3: Situación tras la detención de ambos trenes3
 3 Fuente: Policía Federal
 
-
 ## Página 15
+
 
 ## 4 Protocolo de investigación
 En este capítulo se presentan los resultados obtenidos en relación con áreas parciales individuales del sector ferroviario relacionadas con el suceso. Asimismo, se examinan las correspondientes interfaces así como la gestión de la seguridad (SMS) en el ámbito afectado. Los hallazgos relevantes en cada caso se enumeran de forma continua.
@@ -361,8 +362,8 @@ A las 16:39 horas había comunicado al Fdl ReuƩe in Tirol el tren RB 5522 con u
 Hacia las 16:44 horas, el tren RB 5522 había pasado junto a él en el puesto de mando. La entrada y la salida se realizaron mediante la indicación de vía libre de las señales principales. Hacia las 16:50 horas, el Tf del tren RB 5522 se había puesto nuevamente en contacto con él y le había comunicado que delante de él había un tren.
 El Fdl Griesen (Oberbay) puso a continuación en conocimiento del Fdl ReuƩe in Tirol de la situación y le preguntó por qué había un tren delante de su Esig, aunque él no hubiera recibido ninguna comunicación de tren para dicho tren. Adicionalmente indicó que, a partir de ese momento, se había quedado en estado de shock. El Fdl ReuƩe in Tirol le había comunicado un número de teléfono y le
 
-
 ## Página 16
+
 
 había solicitado que le llamara a dicho número. Debido al shock, no podía recordar ya el texto exacto de la conversación telefónica posterior. El Fdl ReuƩe in Tirol le había dicho: „das machen wir unter uns aus“. El Fdl ReuƩe in Tirol quería intentar ponerse en contacto con los Tf de los dos trenes.
 Tras unos diez minutos, el Fdl ReuƩe in Tirol le había comunicado que, en cualquier caso, ya no serviría de nada, ya que un Tf ya había puesto en conocimiento de la NFLS. A partir de ese momento, el Fdl Griesen (Oberbay) no realizó ya ninguna actuación de explotación hasta que el gestor de emergencias (Nmg) llegó a su ubicación.
@@ -374,6 +375,7 @@ Cuando se enteró de que se había producido una colisión casi evitada entre lo
 
 ## Página 17
 
+
 er había informado a las autoridades competentes en Austria. A las 18:00 horas había sido relevado por otro Fdl.
 ### 4.1.3 Declaración del Tf RB 5522
 El Tf declaró: había sido asignado el 22.01.2020 al turno 1015 de 15:53 a 22:44 horas.
@@ -384,8 +386,8 @@ El Tf declaró que había sido asignado el 22.01.2020 al turno 1009 de 11:53 a 2
 En su actividad como Tf, debía conducir el tren RB 5523 de Reutte in Tirol a Garmisch-Partenkirchen. Tras la salida en Reutte in Tirol, había circulado en dirección a Ehrwald Zugspitzbahn. Poco antes de la llegada a la estación de Ehrwald Zugspitzbahn, el Fdl Reutte in Tirol le había informado de que el tren contrario RB 5522, debido a una irregularidad en un BÜ, tenía en ese momento un retraso de unos 20 minutos y que debía continuar su trayecto sin cruzamiento en Ehrwald Zugspitzbahn hasta Griesen (Oberbay).
 Tras haber continuado su trayecto, había comprobado poco antes de la estación de Griesen (Oberbay) que la señal previa de entrada (Evsig) para la estación de Griesen (Oberbay) aún mostraba
 
-
 ## Página 18
+
 
 la indicación Vr 0 («Espere señal de paso»). Por ello, había pulsado la tecla de vigilancia y se había detenido antes de la señal de entrada (Esig) de la estación de Griesen (Oberbay). Tras unos tres minutos de detención, había visto que un tren se aproximaba hacia él. Este había iniciado una frenada y se había detenido delante de él.
 ### 4.2 Gestión de emergencias
@@ -394,8 +396,8 @@ La NFLS de la DB Netz AG en el centro de operaciones de Múnich no fue informada
 La NFLS tuvo conocimiento del incidente 14 minutos después del acontecimiento, a las 17:00 horas, a través del coordinador de red competente. Este había sido informado previamente por la dirección de transporte del EVU DB Regio AG, después de que el Tf del tren RB 5522 le hubiera informado del acontecimiento. El Nmg fue alertado a las 17:01 horas y llegó a la estación de Griesen (Oberbay) a las 17:30 horas.
 El acontecimiento no estaba sujeto a notificación inmediata a la BEU. La BEU fue informada del acontecimiento por la DB Netz AG al día siguiente.
 
-
 ## Página 19
+
 
 ### 4.3 Examen de la infraestructura de construcción
 La línea ferroviaria entre Griesen (Oberbay) y Ehrwald Zugspitzbahn se trataba de una línea secundaria de vía única, electrificada, de clase de línea CE. En el área del lugar del acontecimiento estaba dotada de vía sobre balasto con traviesas de hormigón.
@@ -409,8 +411,8 @@ La comunicación entre los Fdl Griesen (Oberbay) y Reutte in Tirol se realizaba 
 El puesto de mando (Stw) Griesen (Oberbay) de la DB Netz AG era un Stw mecánico de tipo Krauß y se puso en servicio con la apertura de la línea en el año 1913. Las señales de entrada y salida, originalmente ejecutadas como señales de forma, fueron sustituidas en 1979 por señales luminosas simplificadas para Stw mecánicos. Estas se operaban a través de una pequeña consola en la sala del puesto de mando.
 El Stw Reutte in Tirol de la ÖBB Infrastruktur AG era un Stw electrónico (ESTW) y controlaba todo el tramo de la línea afectada Außerfernbahn situado en Austria.
 
-
 ## Página 20
+
 
 El tramo de línea entre Garmisch-Partenkirchen y Ehrwald Zugspitzbahn se supervisaba mediante circuitos de conteo de ejes para la ocupación de vía. De ello estaba excluida la estación de Griesen (Oberbay). Al Fdl Griesen (Oberbay) no se le indicaban las posibles ocupaciones de vía en su estación ni en las vías de línea correspondientes.
 No se detectaron indicios de posibles averías o fallos en la técnica de mando y seguridad durante el examen.
@@ -424,8 +426,8 @@ A continuación, se explican en primer lugar las condiciones operativas marco pa
 Para la estación de Griesen (Oberbay) y para el tramo de línea de Garmisch-Partenkirchen hasta el punto fronterizo Griesen (Oberbay) Grenze en km 14,848 eran de aplicación las disposiciones de la Ril 408 de la DB Netz AG. Para el tramo de línea entre la estación de Griesen (Oberbay) y la estación de Ehrwald Zugspitzbahn, además de las reglas de explotación específicas de cada Länder, eran de aplicación las disposiciones de la regulación de las particularidades locales (RöB) en el paso fronterizo ferroviario de Griesen, que estaban recogidas en la Ril 302.4006 y la Ril 302.4006Z01.
 Las dos estaciones de comunicación de trenes contiguas de la estación de Griesen (Oberbayern) eran las estaciones de Garmisch-Partenkirchen y Ehrwald Zugspitzbahn. Estas eran controladas respectivamente por un ESTW en Weilheim (Oberbayern) y en Reutte in Tirol.
 
-
 ## Página 21
+
 
 La regulación y el aseguramiento de la sucesión de trenes en la línea fronteriza se realizaba mediante el procedimiento de comunicación de trenes. La comunicación de los Fdl se efectuaba a través de la línea telefónica.
 La determinación del procedimiento de explotación aplicable se basa en un análisis del perfil de carga de la línea según la Ril 413.0506A01. De acuerdo con la Ril 413.0506 sección 3 apartado 5, la explotación de líneas existentes con explotación por comunicación de trenes sin bloqueo de línea era admisible con un perfil de carga débil por debajo de 8.000 puntos de valoración.
@@ -438,6 +440,7 @@ El tren RB 5523 salió de Reutte in Tirol a las 16:01 horas según lo previsto y
 
 ## Página 22
 
+
 ### 4.5.3 Cualificación de los Fdl
 Los documentos aportados sobre la cualificación de los Fdl no permitían extraer conclusiones sobre posibles deficiencias respecto a los requisitos internos de la empresa y cumplían, por tanto, formalmente lo exigido.
 ### 4.5.4 Comunicación operativa de los Fdl
@@ -445,24 +448,23 @@ Las conversaciones de los Fdl Griesen (Oberbay) y Reutte in Tirol tuvieron lugar
 Una vez que los dos trenes quedaron enfrentados en la vía, los Fdl quisieron que el tren RB 5522 retrocediera a la vía 1 en la estación de Griesen (Oberbay) sin iniciar la cadena de comunicación de emergencia; a continuación, el tren RB 5523 habría podido liberar la vía por la vía 2. El maquinista del tren RB 5522 se negó a ello e informó a la estación de despacho de su EVU del suceso.
 Para ilustrar la comunicación, se muestran a continuación extractos de conversaciones individuales entre los dos Fdl en las siguientes tablas.
 
-
 ## Página 23
 
-| Fdl Griesen (Oberbay) | Fdl Reutte in Tirol |
-| Estación de Griesen, el tren RB 5522 está... |  |
-| en km 10,5, justo antes del paso a nivel, porque... |  |
-| un coche se ha deslizado bajo la barrera | De acuerdo |
+| Fdl Griesen (Oberbay) | Fdl Reutte en Tirol |
+| Bahnhof Griesen, als der Zug kommt, ned 5522 steht |  |
+| in km 105, bei mir vorm Bahnübergang, weil da ist, … |  |
+| ein Auto unter dem Schranken eingerrutscht | Okay |
 | [ ] … | [ ] … |
-Tabla 2: Comunicación del Fdl Griesen (Oberbay) sobre irregularidades en el paso a nivel
-| Fdl Griesen (Oberbay) | Fdl Reutte in Tirol |
-| Griesen, sí. Cuando llegues a mí... Mmh, mmh, mmh, llamo entonces a la dirección de transporte… todo claro, hasta luego | Tú, [Nombre], de nuevo... Eh, con el 25 23 podríamos... ¿bajar hasta ti? Acabo de hablar por teléfono con el centro de mando de Garmisch, que esta mañana no sabían nada de eso. Quizá podríamos dar un empujoncito al 23 en Griesen... He dicho que se encarguen y que den una indicación. De acuerdo, muchas gracias, adiós |
-Tabla 3: Conversación de despacho sobre el procedimiento posterior
-| Fdl Griesen (Oberbay) | Fdl Reutte in Tirol |
-| Sí, como dije, el 5522 rueda ahora... llega despacio hacia mí. Exacto, pues bien, ¿lo hacemos otra vez... ... ...? ¿Comunicación de tren? Eh, creo que en un minuto algo así... Desde aquí 46, todo claro. Hasta luego. Sí, hasta luego | Reutte, de acuerdo, hazme... otra vez... ... ¿una comunicación de tren? Eh, ¿aproximadamente cuándo llegas? Alto 46, no hace falta que digas nada más, 45/46, de acuerdo... ... Todo claro. De acuerdo, bien |
-Tabla 4: Nueva comunicación de tren para el RB 5522
-
+Tabla 2: Comunicación del Fdl Griesen (Oberbay) sobre irregularidades en el BÜ
+| Fdl Griesen (Oberbay) | Fdl Reutte en Tirol |
+| Griesen Ja, zum Glück, ich bin's du, her Mmh Mmh Mmh, ich rufe dann Transportleitung an, alles klar, bis dann | Du [Name] ist normal da, Äh, con el 25 23, ¿podemos ir a ti abajo? ¿O? Yo me he hablado ahora mismo con el centro de mando en Garmisch por teléfono, que mañana no había nada que saber allí. Quizás mañana un 3:20 en Griesen, a las 2:20, para empujar. Le he dicho que se ocupe y que dé aviso. Ya está, gracias, adiós |
+Tabla 3: Conversación telefónica sobre el procedimiento posterior
+| Fdl Griesen (Oberbay) | Fdl Reutte en Tirol |
+| Ja, así como dije, el 5522, rueda ahora, viene ahora despacio hacia mí. Exacto, así que bien, ¿lo hacemos otra vez? ¿Zugmeldung? Äh, creo que en un minuto algo así. Desde aquí 46, todo claro. Hasta la vía, ya está, chao | Reutte, miel, ¿puedes hacerme otra vez? ¿Zugmeldung? Äh, ¿cuándo llegas aproximadamente? Alto, 46, no necesitas decir nada más, 45/46, ya está. Todo claro, okay, bien |
+Tabla 4: Nueva Zugmeldung para el RB 5522
 
 ## Página 24
+
 
 | Fdl Griesen (Oberbay) | Fdl Reutte in Tirol |
 | Griesen, ¿el... ...? ¿No te he enviado el tren? ¿No te he enviado el 5522? Pero él ha dicho que un tren está, eh, delante de él... Eh, él acaba de salir y entonces él ha dicho... eh, que el tren está delante de él... Sí, ya estoy ahí, 1 2 3 4 5... ... ... ... Todo claro | Reutte, ¿por favor? Sí. ¿Dónde? [Nombre], eh, apúntate rápido un número y llámame... ... al teléfono. (Pausa) ¿Tienes algo para... ¿escribir? [¡Nombre!] ¿aló!? ... ¡Apúntate el número ahora! [Número de teléfono transmitido] ¡Llámame urgentemente! Bien |
@@ -474,8 +476,8 @@ Tabla 6: Acuerdo para que el tren RB 5522 regrese a Griesen (Oberbay)
 | Estación de Griesen. Sí, bien, entonces ya está terminado. Todo claro. ¿Ha dicho ya algo de que vuelve... ... hacia mí? Pues bien, de acuerdo, hasta luego | Tío, él ha llamado al centro de mando... él ha llamado al gestor de emergencias, tú... Sí, y entonces ya está terminado, tú... eso es... ... tú tienes que quedarte hasta que se comunique, tú... No, él ya no vuelve... ... me ha contado... ... que tú no tienes nada más. Bien, de acuerdo, adiós |
 Tabla 7: Conversación final entre los Fdl implicados
 
-
 ## Página 25
+
 
 Hallazgo sobre la investigación de los procesos operativos del operador de infraestructura
 N.º de referencia 4
@@ -488,8 +490,8 @@ Del suceso se vieron afectados los dos trenes RB 5522 y RB 5523. La situación o
 El tren de pasajeros RB 5522 era un servicio de transporte del EVU DB Regio AG. El tren procedía de Garmisch-Partenkirchen y debía circular hasta Reutte in Tirol. La estación de Griesen (Oberbay) era una parada por demanda en este trayecto.
 El día del suceso, el tren tuvo que detenerse en el paso a nivel en el pk 10,463, tras haberse deslizado un turismo bajo la barrera y haberla dañado. No se produjo ninguna colisión entre el tren y el turismo. El tren pudo continuar su marcha con 25 minutos de retraso en dirección a Griesen (Oberbay). Como el maquinista no tenía ninguna petición de parada y la señal Asig para él mostraba la indicación de parada Hp 1, pasó la estación de Griesen (Oberbay) a 58 km/h. Al percibir el tren contrario detenido en la señal Esig de la dirección contraria, inició una frenada de emergencia y se detuvo tras unos 100 m de distancia de frenado, a unos 20 m del otro tren. A continuación, estableció contacto con el Fdl Griesen (Oberbay) a través del radio de a bordo y le informó del suceso. Posteriormente, informó a la estación de despacho de DB Regio AG del suceso.
 
-
 ## Página 26
+
 
 El maquinista estaba en posesión de un permiso de conducción de locomotoras válido y de los certificados complementarios requeridos. El EVU aportó documentación sobre la formación y supervisión periódicas.
 ### 4.6.2 Circulación del tren RB 5523
@@ -505,8 +507,8 @@ Del suceso se vieron afectados los dos trenes RB 5522 y RB 5523, cuyos vehículo
 ### 4.7.1 Circulación del tren RB 5522
 El tren RB 5522 del EVU DB Regio AG estaba compuesto por el tren eléctrico de cuatro coches 94 80 2442 228-9 D-DB, circulando de forma individual, del tipo Bombardier Talent 2. Este circulaba desde
 
-
 ## Página 27
+
 
 Garmisch-Partenkirchen vía Griesen (Oberbay) y Ehrwald Zugspitzbahn hasta Reutte in Tirol.
 De la siguiente tabla se pueden extraer los datos técnicos de la locomotora (Tfz):
@@ -524,8 +526,8 @@ No se ha constatado ninguna influencia causal del vehículo y de sus caracterís
 ### 4.7.2 Circulación del tren RB 5523
 El tren RB 5523 del EVU DB Regio AG estaba compuesto por el tren eléctrico de cuatro coches 94 80 2442 226-3 D-DB, circulando de forma individual, del tipo Bombardier Talent 2. Este circulaba desde Reutte in Tirol vía Ehrwald Zugspitzbahn y Griesen (Oberbay) hasta Garmisch-Partenkirchen y posteriormente hasta München Hbf.
 
-
 ## Página 28
+
 
 De la siguiente tabla se pueden extraer los datos técnicos del vehículo:
 |  | Sistema eléctrico |  | Eléctrico 15 kV 16 7 Hz~ , , |
@@ -547,10 +549,12 @@ La protección de los trenes sin protección de seguimiento y de circulación co
 
 ## Página 29
 
+
 En estos casos, las acciones erróneas humanas no pueden ser compensadas por medios técnicos. Por ello, las líneas de DB Netz AG están equipadas predominantemente con dispositivos de bloqueo de línea. Estos garantizan la protección técnica contra la circulación en cola y en sentido contrario.
 La Ordenanza de construcción y explotación ferroviaria (EBO) no establece en el § 15 Abs. 1 ninguna obligación de equipar las líneas secundarias con bloqueo de línea. DB Netz AG, como EIU, ya había implementado regulaciones más extensas para su propia red de líneas en la Ril DS 818 «Señalización: planificar y mantener» y en la Ril 413 «Diseñar la infraestructura». Para ello, con fines de evaluación de riesgos, se elaboró un perfil de carga de la línea con la ayuda de diversos factores de las áreas de infraestructura y material rodante, así como de explotación y personal, y con base en el mismo se realizó una evaluación basada en riesgos de los posibles procedimientos de explotación para líneas de vía única. Las evaluaciones vigentes en el momento del suceso indicaron que las líneas de vía única con tráfico de pasajeros a intervalos horarios y cruces de trenes programados podían explotarse en principio sin protección técnica contra la circulación en cola y en sentido contrario.
 
 ## Página 30
+
 
 ## 5 Evaluación
 El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las conclusiones mencionadas anteriormente, se elabora un transcurso plausible del suceso peligroso. Posteriormente, los hallazgos relevantes son evaluados y conducen, en su caso, a las conclusiones correspondientes.
@@ -565,6 +569,7 @@ En la salida de la estación de Griesen (Oberbay), el Tf del tren RB 5522 percib
 
 ## Página 31
 
+
 ### 5.2 Evaluación y conclusión
 En los vehículos ferroviarios implicados y en la infraestructura de construcción no se pudieron detectar factores que hayan influido en el suceso. Los Tf de los dos trenes implicados en el suceso estaban capacitados y cualificados para realizar sus actividades. No se pudo determinar ninguna influencia de la actuación de los Tf en la causación del suceso.
 No se detectaron influencias de condiciones externas que pudieran haber causado o favorecido el suceso.
@@ -577,6 +582,7 @@ Las normas contenidas en las mismas debían garantizar una comunicación segura 
 
 ## Página 32
 
+
 Las directrices de comunicación no fueron observadas por ninguno de los dos Fdl o solo parcialmente. Las conversaciones mantenidas estuvieron fuertemente marcadas por dialectos regionales y por la omisión parcialmente considerable de las formulaciones establecidas. No existía una clara distinción entre los mensajes de explotación y las conversaciones de despacho.
 El incumplimiento de las normas de comunicación condujo a una interpretación divergente de los contenidos de las conversaciones y a un intercambio ambiguo de información. En consecuencia, se realizaron maniobras de explotación que, consideradas individualmente, eran admisibles según la información respectiva de la que disponía el Fdl. Sin embargo, dado que la información de la que disponía el Fdl no reflejaba correctamente el desarrollo de la situación real, se acabó autorizando la circulación de dos trenes en sentido contrario en el mismo tramo de vía.
 El estado técnico de equipamiento del Stw Griesen (Oberbay) admitió las maniobras de explotación de los Fdl y, con ello, la autorización de la circulación del tren en el tramo de vía ya ocupado por otro tren. La tecnología de enclavamiento no era, por tanto, adecuada para compensar los errores humanos derivados de la comunicación deficiente. El suceso pone claramente de manifiesto el alto potencial de riesgo del procedimiento de comunicación de trenes aquí aplicado sin protección técnica contra la circulación en cola y en sentido contrario.
@@ -586,9 +592,11 @@ Para la configuración existente en una línea de explotación fronteriza, debid
 
 ## Página 33
 
+
 formaciones preventivas. Estos, en la configuración de la conducción de la explotación a través de fronteras de infraestructura, solo pueden perseguirse conjuntamente con el EIU vecino. Esto exige una cooperación correspondiente a nivel de dirección y una comprensión conjunta de los riesgos pendientes y de la implementación coordinada de las medidas de control.
 
 ## Página 34
+
 
 ## 6 Medidas adoptadas hasta la fecha
 Los temas de comunicación de trenes y disciplina verbal fueron incorporados, tras el suceso, a las conversaciones de enseñanza y a las clases para Fdl.
@@ -598,6 +606,7 @@ En julio de 2021, DB Netz AG adjudicó el encargo de desarrollo de un sistema de
 En el Stw Griesen (Oberbay), la TU ZMB se puso en servicio el 28.06.2023. La renovación de la tecnología de enclavamiento en Griesen (Oberbay) a tecnología ESTW/DSTW está prevista para octubre de 2024.
 
 ## Página 35
+
 
 ## 7 Recomendaciones de seguridad
 De conformidad con el § 6 EUV y el Art. 26 Abs. 2 de la Ril (EU) 2016/798, se emitió el 22.06.2020 la siguiente recomendación de seguridad:

@@ -10,13 +10,13 @@ chars: 266491
 ratio_longitud: 1.28
 tokens_in: 114538
 tokens_out: 82240
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 16: cifras largas: faltan 2/6 (33%)"]
-notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +42,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -79,10 +79,10 @@ inferior a 20 km.h-1 estaba prohibido;
 •
 establecimiento de la ruta de tren por el jefe de estación 2 SEVER a través de un tramo de vía que 
 estaba físicamente ocupado por una maniobra de maniobras durante la maniobra en curso, que fue 
-permitida por el mismo 
-
+permitida por el mismo
 
 ## Página 4
+
 
 jefe de estación y que aún no había finalizado de conformidad con los procedimientos tecnológicos 
 del gestor de la infraestructura. 
@@ -126,8 +126,8 @@ incorporar esta obligación a las normativas internas de los correspondientes ge
 garantizar lo antes posible la reintegración de la obligación de anunciar la finalización de la maniobra por el empleado que 
 dirige la maniobra sin cuadrilla de maniobras, en la normativa interna SŽ D1.
 
-
 ## Página 5
+
 
 ## SUMMARY
 10th February 2022, 4:51 (3:51 GMT).
@@ -178,8 +178,8 @@ request a notification of a national requirement by the European Commission for 
 optical (light) and sound indication notifying that blinding is on and its inclusion in 
 the TSI, specifically:
 
-
 ## Página 6
+
 
 ◦at relevant locomotives and driving trailers (where it is technically and 
 economically possible), to require an optical (light) and sound indication warning 
@@ -216,6 +216,7 @@ manage shunting without shunting gang, to internal regulation SŽ D1 as soon as
 possible.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN.........................................................................................................................3
@@ -257,8 +258,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas.......................................................49
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................................49
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................52
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.................................52
@@ -287,8 +288,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD........................................................................84
 ANEXOS............................................................................................................................87
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 ASVC
@@ -376,8 +377,8 @@ tablas de condiciones de trazado
 ÚI
 inspección territorial
 
-
 ## Página 10
+
 
 ÚS 
 enclavamiento central
@@ -405,6 +406,7 @@ informe final sobre los resultados de la investigación del suceso extraordinari
 estación ferroviaria
 
 ## Página 11
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 Directiva (UE) 2016/798
@@ -477,8 +479,8 @@ reglamento interno del transportista IDSC, «Reglamento
 para el personal de explotación», en la redacción vigente 
 en el momento de ocurrencia del MU
 
-
 ## Página 12
+
 
 reglamento IDSC P-06
 reglamento interno del transportista IDSC, «Reglamento 
@@ -491,8 +493,8 @@ Guide for the application of Article 14 of Directive (EU)
 (EU) No 2019/779 on a system of certification of entities 
 in charge of maintenance for vehicles, versión 9.0
 
-
 ## Página 13
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -543,8 +545,8 @@ estación;
 •
 análisis de los registros con los empleados participantes;
 
-
 ## Página 14
+
 
 •
 análisis de los resultados de las inspecciones comisionadas de los 
@@ -598,8 +600,8 @@ colaboración.
 Todas las circunstancias esenciales detectadas relativas al desarrollo de la 
 investigación del MU en cuestión ya han sido indicadas más arriba.
 
-
 ## Página 15
+
 
 ## 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
@@ -637,59 +639,25 @@ unidad de maniobras, su posición final, las cabinas de los maquinistas incluido
 los elementos de control, el VZ y las radios. Se realizó la corrección de la hora 
 de los registradores de velocidad de ambos HDV y de los ordenadores 
 tecnológicos del SZZ. En presencia del DI se realizó la prueba de alcoholemia 
-a los maquinistas participantes. 
-
+a los maquinistas participantes.
 
 ## Página 16
 
-Se revisaron los datos del archivo del SZZ sobre la circulación de la unidad de 
-maniobras y sobre la circulación del tren Nex 45326 y se grabó un vídeo. 
-Además, se verificó la sensibilidad de los circuitos de vía (incluida la medición 
-de la tensión en el receptor del circuito de vía 2bK) durante la circulación de la 
-unidad de maniobras en cuestión en el tramo desde la 6. SK a través de los 
-cambios de aguja V14, V15, V17-18 hacia la vía 2b (es decir, el tramo entre 
-los semáforos de clasificación Se14 y Se15), tanto antes como después de la 
-limpieza de la arena de las cabezas de los raíles.  
-Con la participación del DI, SŽ y IDSC, se recogieron en bolsas de plástico la 
-arena esparcida desde cada uno de los 4 arenadores afectados (parte del 
-dispositivo de arena para soltar o insuflar arena en el raíl bajo las ruedas 
-motrices del HDV) en la dirección de circulación indicada durante un período 
-de 30 s. La cantidad de arena en cada una de las bolsas se pesó con una báscula 
-digital de suspensión.
+Se examinaron los datos del archivo SZZ relativas a la maniobra de la unidad de maniobras y al tren Nex 45326, y se grabó un vídeo. Asimismo, se realizó una verificación de la sensibilidad de los circuitos de vía (incluida la medición de la tensión en el receptor del circuito de vía 2bK) durante el paso de la citada unidad de maniobras en el tramo desde la 6.ª vía de clasificación (6. SK) a través de los circuitos de vía de los desvíos V14, V15, V17-18 hacia la vía 2b (es decir, el tramo entre las señales de clasificación Se14 y Se15), antes y después de la limpieza de la arena de las cabezas de los raíles.
+
+Con la participación de DI, SŽ y IDSC, se recogieron en bolsas de plástico, en la locomotora 770 529-6 implicada, la arena vertida por cada uno de los 4 esparcidors de arena afectados (parte del equipo de esparcido de arena para soltar o impulsar arena sobre el raíl bajo las ruedas motrices de la locomotora) en el sentido de circulación correspondiente, durante un período de 30 s. La cantidad de arena en cada una de las bolsas se pesó con una báscula digital suspendida.
+
 Estado de la infraestructura:
-En la 6. SK, en el pk 4,278, se encontró la primera huella de arenado de la 
-unidad de maniobras detenida (un montón de arena sobre las cabezas de ambos 
-raíles), a 8,6 m más allá (lo que corresponde a la distancia de los arenadores 
-del HDV 770 529-6 en la dirección de circulación indicada) había una huella 
-similar. Desde estos lugares, en los cantos de ambos raíles, había huellas 
-evidentes de arenado. Se documentó el estado del tramo de vía recorrido por la 
-unidad de maniobras (desde las primeras huellas de arena, alrededor del 
-semáforo L6, a través de los cambios de aguja núm. 14, 15, 17 y 18 hasta el 
-lugar de detención del tren y de la unidad de maniobras). Las huellas eran 
-continuamente, en algunos puntos, solo de polvo, en otros puntos la capa de 
-arena era más gruesa. Aunque la huella aparecía en ambos pares de raíles, la 
-contaminación del par de raíles derecho era mucho más intensa y continua que 
-la contaminación del par izquierdo. Desde el final del cambio de aguja núm. 18 
-continuaba la contaminación continua de ambos cantos recorridos de los pares 
-de raíles hasta el lugar de detención del HDV de maniobras, las huellas 
-terminaban en la salida de los depósitos de arena delanteros (parte del 
-dispositivo de arena, depósito (reserva) de arena del HDV) en la dirección de 
-circulación desde la 6. SK hacia la vía 2b, más allá los pares de raíles ya 
-estaban limpios. 
-Fig. núm. 2: Vía con una capa de arena entre el semáforo L6 y el cambio de aguja núm. 14 tras la ocurrencia del MU
+
+En la 6.ª vía de clasificación (6. SK), en el pk 4,278 se encontró la primera huella de esparcido de arena de una unidad de maniobras detenida (un montón de arena en las cabezas de ambos raíles); a 8,6 m más allá (lo que corresponde a la distancia de los esparcidors de arena de la locomotora 770 529-6 en el sentido de circulación correspondiente) había una huella similar. Desde estos puntos, en los cantos de ambos raíles había huellas claras de esparcido de arena. Se documentó el estado del tramo de vía recorrido por la unidad de maniobras (desde las primeras huellas de arena, alrededor de la señal L6, a través de los desvíos n.º 14, 15, 17 y 18 hasta el punto de detención del tren y de la unidad de maniobras). Las huellas eran continuas, en algunos puntos solo polvorientas, en otros la capa de arena era más gruesa. Aunque la huella aparecía en ambos cantos de vía, la contaminación del canto derecho era mucho más intensa y continua que la del canto izquierdo. Desde el final del desvío n.º 18 continuaba la contaminación continua de ambos cantos de vía recorridos hasta el punto de detención de la locomotora de maniobras; las huellas terminaban en la salida de los depósitos de arena delanteros (parte del equipo de esparcido de arena, depósito (reserva) de arena de la locomotora) en el sentido de circulación desde la 6.ª vía de clasificación (6. SK) hacia la vía 2b; a partir de ahí los cantos de vía ya estaban limpios.
+
+Fig. n.º 2: Vía con una capa de arena entre la señal L6 y el desvío n.º 14 tras la aparición del MU
 Fuente: DI
-En el tramo de circulación de la unidad de maniobras, el balasto estaba 
-formado por raíles UIC60. La vía de estación núm. 6 estaba asentada sobre 
-durmientes de hormigón SB6 y soportes nervurados con fijación elástica con 
-abrazaderas Skl12. El cambio de aguja núm. 14 estaba asentado sobre 
-durmientes de madera y soportes nervurados y fijado con abrazaderas ŽS4. Los 
-cambios de aguja núm. 15, 17 y 18 estaban asentados sobre durmientes de 
-hormigón 5-VPS y fijados con grapas elásticas «e». En el tramo de vía tras el 
-cambio de aguja núm. 18, los raíles UIC60 estaban asentados elásticamente 
-sin soportes sobre durmientes de hormigón B91S y fijados con abrazaderas 
-elásticas Skl14.
+
+En el tramo de circulación de la unidad de maniobras, la superestructura ferroviaria estaba formada por raíles UIC60. La vía de estación n.º 6 estaba asentada sobre traviesas de hormigón SB6 y soportes nervurados con fijación elástica por abrazaderas Skl12. El desvío n.º 14 estaba asentado sobre traviesas de madera y soportes nervurados y fijado con abrazaderas ŽS4. Los desvíos n.º 15, 17 y 18 estaban asentados sobre traviesas de hormigón 5-VPS y fijados con grapas elásticas «e». En el tramo de vía situado después del desvío n.º 18, los raíles UIC60 estaban asentados elásticamente sin soportes sobre traviesas de hormigón B91S y fijados con abrazaderas elásticas Skl14.
 
 ## Página 17
+
 
 En la inspección se localizó además la posición km de los siguientes puntos:
 Nombre del punto
@@ -760,8 +728,8 @@ Al revisar el registro del archivo del SZZ durante la inspección, se constató 
 ### Nex 45326 desde la señal L2 hacia la segunda vía de vía en dirección a la est. Dolní Žleb.
 ### A las 4:51:26 h el tren Nex 45326 rebasó el nivel de la señal L2 (se produjo la aparición de la MU).
 
-
 ## Página 18
+
 
 El tiempo de los ordenadores tecnológicos activos TPC1 y TPC2 del SZZ estaba 18 s por delante del
 hora exacta (hora de verano de Europa Central). El análisis detallado de los datos registrados del archivo del SZZ se encuentra en el capítulo 3.1.8 de esta ZZ.
@@ -816,8 +784,8 @@ Activación de la cabina del maquinista estaba en posición vertical – la cabi
 activada. La presión en la tubería de suministro era de 9,5 bar, la presión en la tubería principal de 4,2 bar,
 la presión en los cilindros de freno de 3,75 bar;
 
-
 ## Página 19
+
 
 •
 en la pantalla del display técnico y diagnóstico se mostraba la selección actual de
@@ -873,8 +841,8 @@ se indicó: «grifo VZ sin precinto, abierto.»;
 en la sala de máquinas, el grifo VZ estaba abierto y sin precinto. El hallazgo
 anterior no tuvo influencia en la aparición de la MU;
 
-
 ## Página 20
+
 
 •
 en el marco de la investigación se realizó en el HDV 770 529-6 un pesaje de control de la arena
@@ -939,6 +907,7 @@ No se produjo daño en las mercancías transportadas, equipajes ni otros bienes.
 
 ## Página 21
 
+
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia de la aparición del SU, se detuvo el tráfico ferroviario en la est. Děčín-Prostřední Žleb el 10. 2. 2022 a partir de las 4:51 h. A las 6:40 h se autorizó la circulación de trenes por las vías impares SK desde/hacia la est. Děčín hl. n., desde/hacia la est. Děčín východ y por la 1. TK desde/hacia la est. Dolní Žleb. A las 8:55 h se autorizó la circulación de trenes por ambas TK desde/hacia la est. Dolní Žleb por la ruta alternativa. A las 11:05 h se restableció la circulación sin limitaciones.
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
@@ -963,8 +932,8 @@ El transportista de la unidad de maniobras era la sociedad IDSC, con domicilio e
 El tráfico ferroviario se prestaba en virtud del contrato celebrado entre el operador de la vía SŽ y el transportista DBC CZ de fecha 26. 3. 2019, con efectos desde el 5. 4. 2019.
 El tráfico ferroviario se prestaba en virtud del contrato celebrado entre el operador de la vía SŽ y el transportista IDSC de fecha 8. 4. 2019, con efectos desde el 25. 4. 2019.
 
-
 ## Página 22
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 ### Unidad de maniobras del transportista IDSC
@@ -1083,10 +1052,10 @@ NO
 0
 Fin del arenado del HDV.
 No se superó la velocidad de 40 km.h-1. El arenado se realizó de forma ininterrumpida hasta la detención.
-Parte de la tabla resaltada en azul – a mayor velocidad de la unidad de maniobras cae menos arena por unidad de superficie, y por ello se garantizó el acoplamiento y los circuitos de vía ocupados físicamente por la unidad de maniobras se evaluaron como ocupados. 
-
+Parte de la tabla resaltada en azul – a mayor velocidad de la unidad de maniobras cae menos arena por unidad de superficie, y por ello se garantizó el acoplamiento y los circuitos de vía ocupados físicamente por la unidad de maniobras se evaluaron como ocupados.
 
 ## Página 23
+
 
 ### Tren Nex 45326 del transportista DBC CZ 
 Composición del tren:
@@ -1194,8 +1163,8 @@ El frente del tren pasó la señal L2 en el km 4,419 – aparición del SU.
 Maniobra del mando del freno continuo hasta la posición de 
 frenado de acción rápida.
 
-
 ## Página 24
+
 
 Descenso de la presión de aire en HP por debajo de 2,2 bar, en virtud del 
 4:51:37
@@ -1238,6 +1207,7 @@ La interpretación de los valores Ukd de las mediciones realizadas por el operad
 
 ## Página 25
 
+
 colaboración del HDV 770 529-6 de la unidad de maniobras y de los circuitos de vía en el punto 3.1.3 de esta ZZ
 y véase la parte Explotación y mantenimiento de la SZZ de la estación Děčín-Prostřední Žleb en el punto 4.1.1 de esta ZZ).
 A pesar de que los valores medidos de Ukd para el KO 2bK se desviaban ligeramente de los establecidos,
@@ -1275,8 +1245,8 @@ Del análisis de los datos de la SZZ registrados por TPC1 de la estación Děč�
 | 4:33:05 h | La unidad de maniobras ocupó el KO de la aguja n.º 15. |
 | 4:33:07 h | La unidad de maniobras liberó el KO de la aguja n.º 14. |
 
-
 ## Página 26
+
 
 | 4:33:08 h | Se canceló el bloqueo del tramo de vía de la aguja n.º 14. |
 | 4:33:12 h | La unidad de maniobras ocupó los KO de las agujas n.º 17 y n.º 18. |
@@ -1311,8 +1281,8 @@ Del análisis de los datos de la SZZ registrados por TPC1 de la estación Děč�
 | Del análisis del archivo de ZPC9, que operaba el jefe de estación 2 SEVER, se constató que en el periodo comprendido entre las 4:32:40 h y las 4:41:47 h (tras la corrección del tiempo) no consta ninguna operación de dicho ZPC. | |
 | Del análisis del archivo de la SZZ se constató que no se evaluó, registró ni mostró en la ventana «averías de tecnología» ninguna avería de la SZZ. |
 
-
 ## Página 27
+
 
 Las capturas de la forma de onda del archivo de la SZZ de la estación Děčín-Prostřední Žleb se muestran en las figs. n.º 3 y 4 (representan un ejemplo de pérdida repetida del shunt en el periodo desde las 4:32:42 h tras la corrección del tiempo) y en el anexo de esta ZZ.
 Según el análisis de los datos del archivo de la SZZ, el MU se produjo al pasar la señal L2 a las 4:51:26 h (tras la corrección del tiempo).
@@ -1331,8 +1301,8 @@ Resumen de las explicaciones facilitadas por los empleados del gestor de la infr
 ◦de la estación Ústí nad Labem západ regresaron como tren Lv 53098 hacia las 4:30 h a la estación Děčín-Prostřední Žleb, a la que llegaron con el fin de aparcar el HDV 770 529-6 y finalizar el turno, que estaba previsto para las 6:00 h;
 ◦en la estación Děčín-Prostřední Žleb hacia las 4:30 h acordó con el jefe de estación 2 SEVER, a través de RDST en el simplex 12, una maniobra desde la 6. SK a la 8. SK para aparcar el HDV;
 
-
 ## Página 28
+
 
 ◦la única información que recibió del jefe de estación 2 SEVER fue que se avisara cuando estuviera «escondido» en la 8. SK tras la señal Se13;
 ◦con la señal «Maniobras permitidas» salió a la vía 2b entre las señales Se14 y Se15.
@@ -1360,6 +1330,7 @@ El jefe de estación 2 SEVER le dijo que no lo veía (nota del DI: la unidad de 
 
 ## Página 29
 
+
 ◦dio al jefe de estación 2 SEVER la instrucción de cambiar los desvíos para la primera vía de maniobras hacia la vía 2b, solicitó autorización para la maniobra;
 ◦tras la llegada del tren Lv 53098 permanecieron en la 6. SK durante aproximadamente 5 minutos;
 ◦durante la parada en la 6. SK, el JOP cambió a la posición «tracción» y encendieron las luces de señalización para el rodaje en maniobras;
@@ -1384,6 +1355,7 @@ maquinista del tren Nex 45326
 
 ## Página 30
 
+
 ◦en el tramo Děčín východ – Děčín-Prostřední Žleb – Děčín frontera estatal circula generalmente en cada turno. No se detectó ninguna avería en el rodaje;
 ◦con el jefe de estación 2 SEVER, que dirige la est. Děčín-Prostřední Žleb, habló únicamente tras la MU producida.
 •
@@ -1407,6 +1379,7 @@ jefe de estación 2 SEVER
 
 ## Página 31
 
+
 ◦se sorprendió de esta información, ya que en el monitor JOP estaba establecida la vía de tren desde la 2. SK y el tramo entre Se14 y Se15 estaba libre. A continuación se percató de que no había establecido la vía de maniobras desde la señal Se14 hacia la 8. SK;
 ◦a continuación actuó conforme al cuadro de avisos y siguió dedicándose a la actividad de tráfico en su ámbito como jefe de estación 2 SEVER. Tras la llegada del equipo de emergencia actuó conforme a sus instrucciones;
 ◦en el SZZ de la est. Děčín-Prostřední Žleb no se indicó ni se registró ninguna avería;
@@ -1428,6 +1401,7 @@ testigo, 2.º maquinista de IDSC
 ◦él estaba sentado en la silla junto al puesto I. Tras el acuerdo de la maniobra salieron hacia la vía 2b en dirección Alemania. Tras detenerse entre las señales Se14 y Se15 esperaron aproximadamente 10 minutos la señal «Maniobra permitida» en dirección a la 8. SK;
 
 ## Página 32
+
 
 ◦vio el tren en sentido contrario y dijo que circulaba un tren de mercancías. Al mirar el desvío n.º 18 (nota DI: está conectado en pareja con el desvío n.º 21) comprobó que estaba dispuesto en dirección recta y que el tren en sentido contrario circulaba hacia ellos. Al compañero 1.º maquinista de IDSC (que estaba sentado en el puesto 2 con el frente corto en dirección Alemania) le dijo que el tren en sentido contrario circulaba directamente hacia ellos y que se había detenido;
 ◦el jefe de estación 2 SEVER les comunicó a través de RDST que habían desaparecido de su vista (monitor) del SZZ y les preguntaba insistentemente dónde se encontraban realmente (nota DI: la unidad de maniobras), que no los veía;
@@ -1471,6 +1445,7 @@ No momento, momento, ja momento. Okej.
 Tabla n.º 2: Transcripción de la conversación entre el jefe de estación 2 SEVER y el maquinista del Nex 45326
 
 ## Página 33
+
 
 Inicio de la conversación: 10. 2. 2022, 4:53:31 h                                                                                          Duración de la grabación: 165 s
 Contenido de la transcripción: grabación completa
@@ -1552,8 +1527,8 @@ con prevista (nota DI: salida) hacia Alemania. Así que no sé.
 Qué bonito. Eso aún no me había pasado aquí.
 Tabla n.º 4: Transcripción de la conversación entre el jefe de estación 2 SEVER y el 1.º maquinista IDSC
 
-
 ## Página 34
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -1634,8 +1609,8 @@ estaba en la vía 2b entre las señales de maniobra a unos 20 m del frente del t
 Nex 45326. El jefe de estación, entre otros, indicó que no veía la unidad de maniobra IDSC en la vía 2b
 (nota DI: en el monitor JOP) y que le tenía que haber perdido;
 
-
 ## Página 35
+
 
 •
 5:01 h
@@ -1681,8 +1656,8 @@ El jefe de estación estaba, al organizar y dirigir el tráfico ferroviario, ent
 Acuerdo, organización y realización de la maniobra (jefe de estación 2 SEVER y 1.º maquinista IDSC)
 En el sentido del art. 1744 de la SŽDC D1, el 1.º maquinista de la unidad de maniobra IDSC (como empleado que dirige la maniobra) debía, antes de iniciar la maniobra, comunicar al jefe de estación 2 SEVER la tecnología de la maniobra prevista, concretamente los requisitos para la realización de la maniobra, en qué vías tenía la intención de realizar la maniobra y el tiempo previsto de maniobra.
 
-
 ## Página 36
+
 
 Según el art. 1692 de la norma SŽDC D1, en este caso solo se podía maniobrar en las vías destinadas a la circulación de trenes en la est. Děčín-Prostřední Žleb con el permiso del jefe de estación 2 SEVER. Este podía dar el permiso para la maniobra si le era conocido el ferroviario que iba a maniobrar, la tecnología de maniobra requerida por el ferroviario y la tracción (es decir, eléctrica, diésel, vapor) de todos los vehículos de tracción activos incluidos en la unidad de maniobra. Con este permiso debía comunicar al empleado que dirige la maniobra, en particular:
 a) en qué vías destinadas a la circulación de trenes está permitido maniobrar;
@@ -1711,6 +1686,7 @@ El permiso para la maniobra es, según el art. 1687 de la SŽDC D1, el conjunto 
 
 ## Página 37
 
+
 De acuerdo con el artículo 431 de la norma SŽDC D1, las agujas se accionan durante las maniobras sin cuadrilla de maniobras según las instrucciones del empleado que dirige la maniobra.
 El jefe de estación 2 SEVER, mediante la operación de la SZZ, accionó las agujas y emitió el consentimiento para la maniobra encendiendo la señal "Maniobra permitida" en la señal L6, pero en contradicción con el artículo 58 de la norma SŽDC (ČD) Z1, ya que no cumplió el resumen anteriormente descrito de operaciones de tráfico y procedimientos de trabajo establecidos por las normas internas, es decir, que operará la SZZ únicamente después de emitir la autorización debida para la maniobra (es decir, incluidos sus requisitos) y accionará las agujas según las instrucciones del empleado que dirige la maniobra.
 El empleado que dirige la maniobra (1.º maquinista de IDSC) se conformó con la autorización concedida, no dio la instrucción de accionar las agujas en el sentido del artículo 431 de la norma SŽDC D1, y sin embargo, tras encender la señal que permite la maniobra en la señal L6, puso en marcha la HDV y llegó a la vía 2b, donde esperó la señal "Maniobra permitida" en la señal Se14 para la siguiente marcha a la 8.ª SK.
@@ -1728,8 +1704,8 @@ Por el contrario, lo fundamental para el desarrollo de la MU es la no determinac
 En el caso de la maniobra en cuestión, atendiendo a la densidad de tráfico en la estación Děčín-Prostřední Žleb, cabe prever la fijación de una limitación temporal del consentimiento para la maniobra en unos 10 minutos.
 La obligación mencionada es sin duda una salvaguardia normativa que tiene por objeto orientar el riesgo de no finalizar la maniobra (no finalización de la maniobra a tiempo), la aparición de una maniobra que interfiere y el olvido de una maniobra no terminada (como en el caso de esta MU), y su cumplimiento puede evitar sucesos excepcionales similares.
 
-
 ## Página 38
+
 
 Al no utilizar esta salvaguardia normativa (disposición del artículo 1692 ap. b) y d) de la norma SŽDC D1), el jefe de estación se privó de:
 1. un punto temporal definido (fijado) de manera inequívoca en el que debía comprobar por sí mismo que se hubiera comunicado la finalización de la maniobra, respectivamente la liberación de las vías destinadas a la circulación de trenes (en el sentido del artículo 1698 de la norma SŽDC D1);
@@ -1752,8 +1728,8 @@ Según su declaración, se dedicaba a la dirección del tráfico en la estación
 El jefe de estación, según su declaración, antes de establecer la ruta de tren de salida para el tren Nex 45326 DBC CZ en la estación Děčín-Prostrední Žleb desde la 2.ª SK a través de la vía 2b (que estaba libre según la indicación de la SZZ) en dirección a la estación Dolní Žleb, comprobó la libertad de vías mirando el monitor JOP, a continuación estableció la ruta de tren mediante la operación normal de la SZZ. En la SZZ no se manifestó ninguna avería ni desviación del funcionamiento correcto. Además, según su declaración, observó la marcha del tren Nex 45326 en el monitor JOP, al poco tiempo le llamó por radio el maquinista del tren Nex 45326 diciéndole que se había detenido porque delante tiene una locomotora. A continuación, el jefe de estación 2 SEVER contactó con el 1.º maquinista de IDSC, quien le dijo que está detenido en la vía 2b entre las señales de clasificación Se14 y Se15.
 Las declaraciones mencionadas de los maquinistas y del jefe de estación corresponden a los registros de los registradores de velocidad de la HDV sobre la operación y actividad de la HDV y a los registros del archivo de la SZZ sobre la operación y actividad de la SZZ.
 
-
 ## Página 39
+
 
 Aquí es necesario ser consciente de que el jefe de estación dirigía el tráfico en dos estaciones adyacentes y se guiaba por completo por las informaciones que le indicaba la SZZ en el monitor, careciendo de la información sobre el problema de la no indicación de la vía ocupada. Por ello, pudo guiarse por el artículo 71 de la SŘ de la estación Děčín-Prostřední Žleb, que permite, cuando el aparato de enclavamiento funciona correctamente, comprobar la libertad de la ruta de tren mediante la acción del aparato de enclavamiento.
 No fue, por tanto, un error del jefe de estación el que, al comprobar la libertad, se guiara por la acción de la SZZ; por el contrario, fue un error del jefe de estación el que, por su falta de rigor en el cumplimiento de las disposiciones normativas para la maniobra, olvidara la maniobra en curso y, por tanto, no descubriera (ni comprobara) la posición real del elemento de maniobra en la estación Děčín-Prostřední Žleb.
@@ -1775,8 +1751,8 @@ a) explotar la vía para las necesidades del tráfico ferroviario fluido y segur
 artículo 1687 de la norma SŽDC D1:
 "El consentimiento para la maniobra es el conjunto de informaciones necesarias para la realización segura de la maniobra. ... Sin la autorización concedida no se puede iniciar la maniobra.";
 
-
 ## Página 40
+
 
 •
 artículo 1692 de la norma SŽDC D1:
@@ -1809,6 +1785,7 @@ Si el empleado operador no puede garantizar la seguridad del tráfico ferroviari
 
 ## Página 41
 
+
 ### Hallazgos:
 Durante la investigación se constató la infracción de normativa legal y normativa interna relativa a las funciones y obligaciones del gestor de la infraestructura SŽ, al margen de la relación causal con la aparición del MU:
 •
@@ -1830,8 +1807,8 @@ Comunicación del jefe de estación con el 1.º maquinista de IDSC
 En el momento en que el jefe de estación de 2 SEVER se enteró, por parte del maquinista alemán del tren Nex 45326, de la aparición del MU, o mejor dicho, de la circunstancia de que la vía 2b en su itinerario de tren estaba ocupada por un vehículo ferroviario, mediante la observación del esquema de la SZZ (véase la Fig. n.º 21 en el anexo de esta ZZ) no era posible verificar de forma inequívoca el estado real de los hechos. Durante la comunicación entre el jefe de estación de 2 SEVER y el 1.º maquinista de IDSC, quedó claro que la información sobre la posición de los vehículos del tramo de maniobra procedente del 1.º maquinista de IDSC no correspondía a la información sobre la ocupación de vías según la SZZ. Al observar el esquema, era posible suponer que el tren Nex 45326 seguía en la 2.ª SK y que el tramo de maniobra había ocupado el tramo de vía de los desvíos n.º 17 y n.º 18. En esta situación, el jefe de estación dijo al 1.º maquinista de IDSC: «Así que por favor, ve tras esa Se14 y yo te pondré en la octava», y el maquinista le respondió que estaba en la vía «2b entre los ranžírkama». Durante esta comunicación, el jefe de estación intentó verificar el estado real de los hechos y, a continuación, entre otras cosas, marcó el tramo de vía de los desvíos n.º 17 y n.º 18 con una orden para la cancelación de emergencia del cierre del itinerario. Posteriormente, anuló esta marcación.
 La actuación del jefe de estación descrita anteriormente fue confusa, sin embargo, no se acreditó la infracción de la obligación de asegurar el lugar del MU.
 
-
 ## Página 42
+
 
 Explotación y mantenimiento de la SZZ de la est. Děčín-Prostřední Žleb
 En cumplimiento de la instrucción del DI, el personal del Centro de telemática y diagnóstico de SŽ realizó una verificación de la influencia del HDV del tramo de maniobra en el derivamiento de los circuitos de vía.
@@ -1857,8 +1834,8 @@ artículo 83 de la normativa SŽDC (ČD) T120:
 artículo 248 de la normativa SŽDC (ČD) T120:
 «Si el empleado de mantenimiento de la OUZZ detecta que el ZKV o la sección de tramo del VZ no presenta un estado, función y parámetros de explotación conformes a las normas, la normativa, el protocolo de ajuste del DLZT, las directrices, las hojas modelo, las medidas de explotación y la documentación
 
-
 ## Página 43
+
 
 técnica para su explotación, este estado deberá considerarse como una amenaza para la explotación y se adoptarán las medidas conforme al artículo 249»;
 •
@@ -1875,8 +1852,8 @@ El 1.º maquinista de IDSC detuvo el tren Lv 53098 en la 6.ª SK de la est. Dě�
 El 1.º maquinista de IDSC, según su declaración, apoyó inconscientemente su pierna izquierda en el pedal de areneado, activándolo de este modo. No fue advertido directamente por el dispositivo ni por una indicación de la activación del areneado. El areneado de un vehículo circulando de forma autónoma está prohibido en todos los casos conforme al artículo 159 de la normativa IDSC P-03, y por tanto el maquinista lo infringió inconscientemente.
 En el marco de la investigación del MU, durante la comprobación del peso de arena de los 4 areneros para el sentido de marcha dado, se constató que en 3 de los 4 areneros se superó el valor límite establecido de arena vertida, es decir, 500 g en 30 segundos, habiendo vertido un arenero más de 6 kg
 
-
 ## Página 44
+
 
 de arena en 30 segundos; para más detalles, el resumen de los hallazgos y la cita de las disposiciones infringidas, véanse los puntos 3.1.3, 4.2.4 y 4.4.4 de esta ZZ.
 De lo anterior se deduce que la pérdida de derivamiento (y, en consecuencia, la posterior aparición del MU) se debió a la acción simultánea de dos factores, a saber, la avería en el dispositivo de areneado y la utilización del dispositivo de areneado durante el frenado hasta la detención.
@@ -1902,6 +1879,7 @@ artículo 159 de la normativa IDSC P-03:
 Dada la posible influencia en el funcionamiento correcto de los circuitos de vía, el maquinista comunicará al jefe de estación la avería detectada en el dispositivo de areneado, que se manifiesta mediante un areneado involuntario».
 
 ## Página 45
+
 
 •
 art. 147 letras c) y d) del reglamento IDSC P-06:
@@ -1932,8 +1910,8 @@ d) la hora a la que deben liberarse las demás vías destinadas a la circulació
 art. 1744 del reglamento SŽDC D1:
 «El empleado que dirige la maniobra o el jefe de cuadrilla de maniobras, si está encargado de acordar la maniobra, debe informar al jefe de estación con la antelación necesaria antes del inicio de la maniobra sobre la tecnología de maniobra solicitada (… , tiempo previsto de maniobra), si esta tecnología no está indicada en el TTP o en las ayudas tecnológicas del GVD ( … ).».
 
-
 ## Página 46
+
 
 Arene en la zona de agujas
 El 1.º maquinista de IDSC areó durante la marcha también en la zona de agujas, lo que es contrario al art. 147 del reglamento IDSC P-06, con lo que a la vez se incumplió la instrucción PD n.º 1/2008 SŽDC y el decreto n.º 173/1995 Sb. por parte del transportista; sin embargo, esta actuación no condujo a la influencia en la SZZ, y por tanto se trata de una infracción de normas al margen de la relación causal con la aparición de la ME.
@@ -1965,8 +1943,8 @@ Propuesta del 1.º maquinista de IDSC de continuar la maniobra tras la aparició
 El operador de la vía y el transportista están obligados, entre otros, de acuerdo con el § 49 apartado 3 letra b) de la Ley n.º 266/1994 Sb., a custodiar el lugar del suceso excepcional y a realizar la documentación del estado en el momento de la aparición del suceso excepcional. Asimismo, están obligados a garantizar, de acuerdo con el § 9 apartado 3 del decreto n.º 376/2006 Sb., que no se produzcan cambios en el estado original en el lugar del suceso excepcional.
 La aparición de la ME, según su declaración, la tomó conciencia el 1.º maquinista de IDSC cuando se detuvo el tren en sentido contrario. El maquinista del tren Nex 45326 comunicó la situación producida (ME) al jefe de estación de 2 SEVER. Durante la comunicación posterior entre el jefe de estación de 2 SEVER y el 1.º maquinista de IDSC tras la aparición de la ME con el fin de aclarar la situación real y la posición del DV, el 1.º maquinista de IDSC propuso al jefe de estación de 2 SEVER: «Bueno, si me iluminas, si
 
-
 ## Página 47
+
 
 es posible, dirección Dolní Žleb con esa azul más allá de la maniobra de extremo. Y yo luego me esconderé en alguna impar, y luego lo limpiamos con ocho.». Esta comunicación tras la aparición de la ME fue, según la declaración del
 ### 1.º maquinista de IDSC, mantenida en el sentido de una oferta de solución con el fin de acelerar
@@ -2000,8 +1978,8 @@ circule con la velocidad más baja como tarde a la altura de la señal de salida
 no exista dicha señal, o no esté directamente junto a la vía, a la altura de la señal
 con la indicación Fin de trayecto de tren.».
 
-
 ## Página 48
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
@@ -2021,6 +1999,7 @@ Las funciones y obligaciones de otras personas o entidades no guardaban relació
 
 ## Página 49
 
+
 ### 4.2 Material rodante e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la est. Děčín-Prostřední Žleb existía, en el momento de producirse la OM SZZ de tipo ETB, siendo imposible implementar en dicha instalación, sin modificaciones sustanciales, la funcionalidad EZŠ, que fue implementada en la instalación ESA 11 en respuesta a la OM de fecha 19. 5. 2008 en la est. Moravany (véase el punto 4.5 de la presente ZZ).
@@ -2039,8 +2018,8 @@ Los costes detallados de la implantación de la funcionalidad EZŠ para una esta
 Dado que la aplicación de la funcionalidad EZŠ no requería la incorporación de elementos exteriores ni hardware interno, puede suponerse que los costes de implantación en una estación se componían del precio unitario para la implantación del nuevo SW de sistema, de la modificación del SW de direccionamiento y de la reevaluación del cambio aplicado.
 Al final de este punto consideramos también importante recordar que la funcionalidad EZŠ ha sido y es implantada únicamente en enclavamientos electrónicos en los que se evaluó que era posible complementar dicha función mediante un simple cambio de SW. En el caso de enclavamientos híbridos (de tipo ETB, que está en servicio en la ŽST Děčín-Prostřední Žleb) o de enclavamientos de relé, la implementación de EZŠ requeriría una intervención nada despreciable también en los circuitos de relé y, con ello, unos costes no desdeñables de desarrollo, evaluación y aprobación de la mencionada funcionalidad para otra solución/tipo de SZZ.»
 
-
 ## Página 50
+
 
 ### Resumen de tipos de SZZ
 El operador ferroviario SŽ comunicó que en la red SŽ se encuentran actualmente registradas cca 15 SZZ híbridas de tipo ETB, que fueron puestas en servicio entre los años 1996 y 2000. Su vida útil puede estimarse de forma muy general en cca 30 años, si bien el estado de una instalación concreta se evalúa siempre de forma individual y compleja. El plazo de sustitución de la SZZ original se relaciona además, entre otros, con los proyectos constructivos en la localidad de que se trata y depende de la dotación de fondos financieros.
@@ -2057,8 +2036,8 @@ b) Modificación de los circuitos de vía de modo que se aumente su sensibilidad
 c)
 Implantación de una ayuda de memoria para el área en la que se permite maniobrar, en el ZPC JOP. La ayuda sería borrada por el jefe de estación en base al conocimiento del desarrollo de la maniobra, del aviso de finalización de la maniobra o, en su caso, del aviso de liberación de las vías destinadas a la circulación de trenes.
 
-
 ## Página 51
+
 
 ‍Respuesta de SŽ:
 ### «Opinión sobre las posibles medidas técnicas
@@ -2078,6 +2057,7 @@ La detección de la integridad eléctrica de los tramos de carril no se implant�
 
 ## Página 52
 
+
 pomůcky), en el caso del punto a) la modificación afectaría tanto a ZPC como a TPC JOP. Esto se relaciona con la complejidad del desarrollo y del proceso de aprobación de la modificación elegida de SZZ, y por tanto también con la complejidad financiera y temporal de la aplicación de dicha modificación. Por ello puede presumirse que los costes de la medida según el punto c) serán algo menores que en el caso del punto a), con lo cual DI no cuestiona que serán de un orden de magnitud similar.
 La complejidad financiera estimada por Správce železnic corresponde en orden de magnitud al daño en la horquilla de cientos de millones de CZK, que sin duda puede producirse en una MU similar (colisión con HDV de tipo, por ejemplo, Vectron a una velocidad de línea en el lugar de origen de la MU de hasta 120 km·h-1). Por ello DI
 ### recomienda al Drážní úřad que considere, para los operadores de la vía de ámbito estatal y de las vías regionales, la implantación de una medida basada en el punto c), a saber, ayudas recordatorias para el área (por ejemplo, parte de una aguja de vía, aguja de vía, circuito de maniobras) donde está permitido realizar maniobras, en el ordenador de entrada del puesto de servicio unificado, siendo la ayuda introducida por el jefe de estación de forma voluntaria, o incluso obligatoria según ZDD, y eliminada en función del conocimiento del desarrollo de la maniobra, de la notificación de finalización de la maniobra o de la
@@ -2092,8 +2072,8 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 En el marco de la inspección del itinerario de maniobras recorrido desde la 6. SK a la vía 2b, se encontró en las cabezas de los raíles (incluidos los desvíos) una capa continua de arena y, en determinados puntos (donde se encontraba el HDV), una cantidad elevada (montoncitos) de arena.
 Con la participación de DI, SŽ e IDSC se realizó una verificación del correcto funcionamiento del dispositivo de arena del HDV 770 529-6 de la unidad de maniobras, durante la cual se constató que se había producido la descarga de una cantidad de arena superior al límite (es decir, más de 500 g en un período de 30 s, según el punto 18 del anexo 3 del decreto nº 173/1995 Sb.), véase el punto 3.1.3 de esta ZZ.
 
-
 ## Página 53
+
 
 En el documento «Komisionální prohlídka drážního vozidla» se indicó que durante la inspección comisionada del HDV mencionado se detectó una avería en el «pískovač 6L», donde se encontró un roscado oxidado y astillado de la superficie de asiento del tornillo regulador – fatiga del material, véanse las figuras nº 22 y 23 del anexo de esta ZZ.
 El transportista, según su comunicación escrita, aseguró la reparación del «pískovač 6L» y, además, la regulación de todos los esparcidores de arena del HDV en cuestión, de conformidad con el punto 18 del anexo 3 del decreto nº 173/1995 Sb.
@@ -2108,16 +2088,16 @@ en la pantalla del velocímetro TRP-120 en la 1.ª posición de mando
 del HDV 770 529-6
      Fuente: DI
 
-
 ## Página 54
+
 
 Fig. nº 7: Vista del pupitre de control de la 2.ª posición de mando del HDV 770 529-6
     Fuente: DI
 Fig. nº 8: Vista del pedal de esparcido de arena de la 2.ª posición de mando del HDV 770 529-6
 Fuente: IDSC
 
-
 ## Página 55
+
 
 Fig. nº 9: Vista del pupitre de control y de la pantalla del velocímetro TRP-120 en la 1.ª posición de mando del HDV
 770 529-6
@@ -2139,8 +2119,8 @@ anexo 3, parte II, punto 18 letra a) del decreto nº 173/1995 Sb.:
 «Si para mejorar los parámetros de frenado y de tracción se utiliza un dispositivo de esparcido de arena en el vehículo motriz, se fija la cantidad máxima permitida de arena esparcida por cada esparcidor durante 30 segundos:
 a) para velocidades inferiores a 140 km/h, 400 g, no obstante como máximo 500 g,»;
 
-
 ## Página 56
+
 
 •
 art. 3781 de la norma SŽDC D1:
@@ -2168,8 +2148,8 @@ en 1 sujeto se registró 2 veces una avería (véase el punto a) – válvula de
 en 15 sujetos no se registró ninguna avería similar.
 ### De las comunicaciones remitidas se desprende que, en el período de 10 años, en los HDV de las series 770/771 la aparición de las averías mencionadas en el dispositivo de esparcido de arena fue más bien excepcional.
 
-
 ## Página 57
+
 
 ### Cumplimiento de las BD emitidas en relación con una MU similar en la est. Moravany
 En la investigación de esta MU también se examinó si los operadores de los HDV de la serie 163 y de las series afines habían modificado la indicación del esparcido de arena y si el Drážní úřad, como autoridad nacional de seguridad, en el marco de los procesos de aprobación, había exigido, o en su caso asegurado, que los nuevos HDV y vehículos de mando, o los HDV tras reconstrucción, estuvieran equipados en el sentido de las BD emitidas, es decir, equipados con indicación del esparcido de arena.
@@ -2244,6 +2224,7 @@ Los nuevos HDV 193/383 (Vectron) fabricados desde 2010 y las unidades eléctrica
 
 ## Página 58
 
+
 fabricadas desde el año 2019 y las nuevas unidades eléctricas de la serie 654 (Pesa Elf.eu) fabricadas desde el año 2021 tienen
 indicación de areneado ya desde su fabricación.
 La Autoridad Ferroviaria aprobó los vehículos (nuevos HDV, coches de mando o reconstrucciones de HDV), siendo así que
@@ -2290,8 +2271,8 @@ de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadore
 En la investigación no se detectaron factores relacionados con el responsable del mantenimiento
 de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
 
-
 ## Página 59
+
 
 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura
@@ -2335,8 +2316,8 @@ Atendiendo a lo anterior, la DI recomienda que en los HDV y coches de mando que 
 donde sea técnica y económicamente posible, se garantice una indicación óptica y acústica que advierta
 del areneado activado (para más detalles, véase el punto 6 de la presente ZZ).
 
-
 ## Página 60
+
 
 ### 4.3.3 Factores y tareas organizativos
 ### Actividad de control sobre los empleados implicados
@@ -2375,8 +2356,8 @@ realizado periódicamente. Parte de dichos ámbitos es también el control de la
 mediante enlace radiofónico y el cumplimiento de la disciplina de las comunicaciones, incluido el control del
 dispositivo de registro.»
 
-
 ## Página 61
+
 
 Solicitud de la DI de completar la información:
 En la respuesta no se indica el resumen de los resultados de la actividad de control interna realizada en el
@@ -2408,6 +2389,7 @@ grupos:
 
 ## Página 62
 
+
 Además, es necesario señalar que el registro de las anomalías detectadas en la actividad de inspección, que se realiza con base en la Instrucción del subdirector general de gestión de la explotación sobre la actividad de inspección, se divide en un total de 50 criterios. También con base en este detallado registro de las anomalías más frecuentes y recurrentes se realiza un análisis, cuyos resultados sirven, entre otros fines, para determinar el contenido de la formación de los empleados de Správa železnic para el mantenimiento de la competencia profesional. Správa železnic, con base en la mencionada MU, estableció en el Plan de actividad de inspección de la organización estatal Správa železnic para el año 2023, ref. 4019/2022-SŽ-GŘ-PVO, en el primer semestre de 2023 en la OŘ afectada la realización de una actividad de inspección centrada en la organización de las maniobras y el estado de la vía, con el objetivo de cumplir las disposiciones de la norma SŽ D1 PARTE PRIMERA – Reglamento de explotación y señales para líneas no equipadas con el sistema europeo de seguridad ferroviaria de trenes y el cumplimiento de otras normas internas del gestor de la infraestructura.
 Con base en las inspecciones establecidas, se realizaron 3 inspecciones de acuerdo con el Plan de actividad de inspección mencionado anteriormente. Se detectaron un total de 2 anomalías, de las cuales una anomalía se refería al estado de la vía y la otra a la organización de las maniobras. Ambas anomalías detectadas fueron debatidas y se acordó la corrección.
 Con respecto al texto de la pág. 61 de la propuesta ZZ DI, el gestor de la infraestructura SŽ no está de acuerdo con la conclusión de que SŽ no lleva un registro detallado de las anomalías detectadas en la comunicación mediante enlace de radio, por lo que «no puede determinar en qué casos se producen con mayor frecuencia errores/anomalías en la concertación y realización de las maniobras, incluida la transmisión de información sobre la finalización de la maniobra, lo que guarda relación causal con esta MU». Esta área forma parte de las inspecciones de la ejecución directa del servicio de tráfico y de las inspecciones de la grabación de las llamadas. Cuando se detectan anomalías en la comunicación mediante enlace de radio, se reprimen estas, con la posible sanción en las retribuciones por rendimiento de los empleados. El contenido, la frecuencia y el método del registro de la actividad de inspección están establecidos por normas internas de SŽ y se cumplen. …»
@@ -2416,8 +2398,8 @@ El gestor de la infraestructura SŽ, a petición de DI, indicó que no lleva un 
 No es, sin embargo, irrelevante la información de que en las tres inspecciones realizadas se detectaron un total de 2 anomalías. En una muestra tan pequeña no es posible extraer conclusiones fundamentales. Sin embargo, dada esta frecuencia de anomalías, surge naturalmente la pregunta de con cuántas inspecciones se detectaron los recuentos de anomalías indicados en las tablas anteriores. A esto, sin embargo, la estadística del gestor de la infraestructura no aporta respuesta.
 Si el gestor de la infraestructura SŽ, en el marco de la gestión del riesgo y la prevención de la aparición de la MU, no lleva un registro detallado de las anomalías detectadas en las maniobras, tampoco puede determinar en qué casos (en qué actuaciones concretas) se producen con mayor frecuencia errores/anomalías en la
 
-
 ## Página 63
+
 
 concertación y realización de las maniobras, incluida la transmisión de información sobre la finalización de la maniobra, lo que guarda relación causal con esta MU.
 De las respuestas de SŽ se desprende que la actividad de inspección del gestor de la infraestructura, si bien se registra y evalúa sistemáticamente y permite, hasta cierto punto, seguir la situación o, en su caso, la tendencia, la frecuencia de los distintos incumplimientos (violaciones de los procedimientos tecnológicos), y también permite reprender las distintas anomalías a empleados concretos con la posible sanción económica; sin embargo, a la vista de los resultados presentados por DI, constata que, en el caso de las maniobras, la división en los grupos de anomalías mencionados anteriormente no es lo suficientemente detallada y, por tanto, no permite identificar sistemáticamente disposiciones concretas problemáticas de las normas internas, a fin de poder perfeccionar el sistema establecido en el futuro.
@@ -2441,8 +2423,8 @@ en 4 casos – arena (suciedad);
 •
 en 14 casos – otras suciedades (1x virutas, 9x hojas, 2x lubricante, 1x sustancia desconocida, 1x sustancia adhesiva).
 
-
 ## Página 64
+
 
 ### Gestión del riesgo de no detección de la pérdida de shunt y ASVC
 A continuación, DI se ocupó del método de gestión del riesgo de no detección de la pérdida de shunt de la unidad de maniobras por parte de la infraestructura (el gestor de la infraestructura) en situaciones análogas a las del origen de esta MU, concretamente mediante el seguimiento del funcionamiento del SZZ o la confianza en el funcionamiento del SZZ por parte de las personas que dirigen el tráfico ferroviario, y esto, más allá del ámbito de esta MU, también en relación con el uso de la función de búfer de itinerarios (de circulación) y ASVC.
@@ -2462,8 +2444,8 @@ Además de la comunicación general, se solicitó también comunicación a las c
 «Sobre el tema indicado es necesario señalar que el presupuesto básico para garantizar la explotación segura del tráfico ferroviario y de la infraestructura es el requisito de compatibilidad mutua entre los vehículos ferroviarios utilizados y la infraestructura (en el caso concreto, el dispositivo de seguridad ferroviario). Este requisito está, entre otros, indicado en la normativa legal pertinente de la República Checa. Siendo el presupuesto básico la garantía de dicha compatibilidad mediante el estado técnico de ambos subsistemas, si no puede alcanzarse esta circunstancia en las condiciones de partida conocidas, solo entonces deben aplicarse los principios de garantía administrativa de la seguridad. Este presupuesto de partida debe garantizarse también para otros sistemas de detección de trenes distintos de los circuitos de vía (por ejemplo, mediante el respeto de los parámetros de los juegos de ruedas para la interoperabilidad con los contadores de ejes). Správa železnic tiene, mediante normas vigentes, configurado un sistema de modo que sus fallos por culpa de la infraestructura ferroviaria se minimicen. En el caso del mantenimiento preventivo se trata de comprobaciones y mediciones periódicas de los circuitos de vía. En los SZZ recién activados, esto se ve además reforzado por el uso de sistemas de diagnóstico que garantizan la medición y evaluación de los parámetros eléctricos determinantes de los circuitos de vía.
 El Departamento de Gestión de la Explotación se pronunciará detalladamente sobre este punto.»
 
-
 ## Página 65
+
 
 Respuesta O11 SŽ:
 El Departamento de Gestión de la Explotación (O11) no se pronunció sobre la consulta general, sino que solo respondió a la comunicación solicitada sobre las consultas concretas y aclaratorias a) – e).
@@ -2485,6 +2467,7 @@ El jefe de estación estaba/está, de acuerdo con el art. 64 SŽDC (ČD) Z1, obl
 
 ## Página 66
 
+
 ### El artículo 90 de la norma SŽDC (ČD) Z1 establece:
 „Si durante la explotación el empleado de servicio, según la indicación acústica o luminosa, la relación textual, o si se le comunica que el ZZ presenta una desviación del estado normal o de la actividad descrita en la norma SŽDC (ČD) Z1, en sus anexos, en la Ampliación de Tipo o en el DU, comprobará si dicha desviación no está causada por una explotación errónea del ZZ o por la acción de influencias externas (p. ej., obstáculo en el desvío, suciedad en el KO).”
 ### El artículo 93 de la norma SŽDC (ČD) Z1 establece:
@@ -2499,8 +2482,8 @@ El jefe de estación estaba/está, de acuerdo con el art. 64 SŽDC (ČD) Z1, obl
 b) con el funcionamiento correcto del dispositivo de enclavamiento, también visualmente mediante la comprobación óptica, que indica la libertad de la vía correspondiente, con base en los documentos de la OSPD.“
 „La norma SŽDC (ČD) Z1 y SŽDC D1 describen, por tanto, la obligación de supervisar los elementos del ZZ de forma continua, no ininterrumpida. En el caso de que el jefe de estación, por ejemplo, realice la selección de una vía de tren, supervisa si el dispositivo ha recibido la orden y se está ejecutando (los desvíos y las agujas de apartadero empiezan a cambiar, el PZS está en alarma, etc.) y el jefe de estación se va a realizar otra actividad adicional (p. ej., la explotación del botón para conceder el permiso de explotación del aparato de enclavamiento auxiliar, etc.). Si se produjera una avería durante el establecimiento de la ruta, el jefe de estación es informado de esta situación mediante las indicaciones correspondientes. Naturalmente, también hay situaciones en las que es necesario completar todo el proceso, p. ej., tras la introducción de la orden con PDÚ y la comprobación de la página de riesgos y de las condiciones no cumplidas, y la posterior introducción de la secuencia de confirmación, no debería interrumpirse esta operación. Si por tanto
 
-
 ## Página 67
+
 
 surgiera otra situación importante, p. ej., en una vía de tren ya establecida se produce una avería del PZS y el cambio de la señal a una señal que prohíbe la circulación, y el jefe de estación va a resolver esta situación, debería finalizar con la tecla Escape la relación textual de la página de riesgos y, tras resolver la otra situación, volver a introducir la orden con PDÚ, etc.”.
 ‍
@@ -2518,8 +2501,8 @@ Conclusión:
 De lo anterior se desprende que la DI no obtuvo una respuesta concreta a su consulta sobre cómo se dirige dicho riesgo.
 Se mantiene que el art. 2858 de la norma SŽDC D1 establecía el procedimiento para el caso en que se detectara un funcionamiento incorrecto del dispositivo de enclavamiento. No obstante, de esta parte de la respuesta de SŽ no se desprende si los jefes de estación debían detectar el funcionamiento incorrecto del SZZ.
 
-
 ## Página 68
+
 
 b)
 Se solicitó a la DI:
@@ -2534,8 +2517,8 @@ Conclusión:
 En este caso es clave la primera frase de la 2.ª respuesta de la O11 SŽ „En el funcionamiento automático del dispositivo de enclavamiento (es decir, ASVC), la pérdida de la continuidad eléctrica debe ser evaluada siempre por el funcionamiento del dispositivo de enclavamiento.”, en contraste con el hecho de que, en el caso de la MU en cuestión, el SZZ no evaluó la pérdida de la continuidad eléctrica, lo que sin duda puede ocurrir también en el caso del SZZ ESA, donde la libertad de los tramos de vía se comprueba mediante circuitos de vía.
 El riesgo de que el dispositivo de enclavamiento no detecte la pérdida de la continuidad eléctrica persiste, pero la probabilidad de
 
-
 ## Página 69
+
 
 que sea detectada por el jefe de estación (véase el punto a) es, por el contrario, menor, ya que el funcionamiento automático del ASVC acorta, naturalmente, el tiempo para esta detección y la posterior reacción del jefe de estación.
 Por ello, este riesgo debería dirigirse al menos mediante una medida normativa, sin embargo las normas de SŽ en el momento de la MU no contenían disposiciones que excluyeran el uso del ASVC cuando se organiza simultáneamente la maniobra, y la nueva norma SŽ Z3 tampoco las contiene. En el caso del almacén de rutas (de circulación), la situación no es tan grave, ya que las propias rutas de circulación en el orden previsto y con la antelación que considere oportuna las introduce en el almacén el propio jefe de estación. Introduciendo todas las rutas de circulación previstas en el almacén, el jefe de estación 2 SEVER podría incluso haber prevenido esta MU, ya que al entrar el elemento de maniobras en la vía 2b desde el almacén se habría establecido automáticamente la ruta de maniobras a la 8.ª SK y puede presumirse que el elemento de maniobras habría abandonado la vía 2b. La situación peligrosa solo podría surgir por una explotación inadecuada del almacén de rutas (de circulación) (p. ej., no introducir todas las rutas de maniobras, orden inadecuado de las rutas, activar el almacén tras no introducir todas las rutas de maniobras con selección prioritaria), sin embargo la probabilidad de que una explotación inadecuada del almacén de rutas (de circulación) se produzca simultáneamente con la pérdida de la continuidad eléctrica del elemento de maniobras es mínima.
@@ -2555,6 +2538,7 @@ A continuación ordena a los empleados participantes en la preparación de la v�
 „Con la orden de preparación de la vía de tren, el jefe de estación ordena a los empleados participantes en la preparación de la vía de tren que en los ámbitos designados:
 
 ## Página 70
+
 
 a) detuvieron el movimiento que perturbaba;
 b) comprobaron la libertad de la vía de tren, es decir, que no está ocupada por vehículos (salvo la ocupación por vehículos del propio tren) y que están libres los correspondientes topes de maniobras;
@@ -2583,8 +2567,8 @@ Si el número de vía del listado de vías no coincide con la vía comunicada, l
     “Si se está realizando un movimiento maniobrero en las vías para las que el jefe de estación ha ordenado la preparación de la vía de tren, los empleados participantes en la preparación de la vía de tren deben dar al empleado que dirige el movimiento maniobrero la orden de liberar la vía de tren y detener el movimiento que perturba, incluida la indicación del lugar donde debe detenerse el movimiento que perturba.”
      Los DAP establecen las condiciones para la detención del movimiento que perturba. El hecho de que el almacenador de rutas de circulación esté o no en funcionamiento no tiene influencia en este hecho. Por tanto, si estoy circulando por la composición y el vehículo de tracción va a realizar un movimiento maniobrero en la cabecera, tras liberar la cabecera, solo podré establecer la vía de tren después de la detención del movimiento que perturba.“.
 
-
 ## Página 71
+
 
 Solicitud de DI de información adicional a O11 SŽ:
 En primer lugar, nos gustaría obtener una respuesta clara a la pregunta: “En relación con los 2 puntos anteriores, ¿cómo influye la gestión del riesgo en la obligación impuesta por los arts. 1889, 2868, 2869 y 2879 de SŽDC D1, respectivamente, art. 214 apartados 1, 2, 6, 7 y 8, de comprobar la detención del movimiento que perturba? ¿Debería el jefe de estación tener conocimiento de la liberación de las vías en las que se ha realizado el movimiento maniobrero, y debería/haber deducido esta información del conocimiento de las operaciones anteriores, o confiar únicamente en la indicación actual del ZZ, que no evaluó por sí mismo la “actividad incorrecta”?”. La relación con el punto a) se explica en la segunda pregunta planteada. La relación con el punto b) consiste en cómo se verifica la detención del movimiento que perturba y la libertad de la vía de tren cuando el dispositivo funciona automáticamente.
@@ -2598,8 +2582,8 @@ Conclusión:
 De esta respuesta se desprende la importancia de la comunicación de la finalización del movimiento maniobrero, o en su caso de la detención del movimiento que perturba, con lo que la DI está de acuerdo. La DI llegó a la misma conclusión en el punto 4.1.1 de esta ZZ, y por ello determinó como una de las causas inmediatas el establecimiento de la vía de tren por el jefe de estación 2 SEVER a través de un tramo de vía que estaba físicamente ocupado por un elemento de maniobra durante un movimiento maniobrero en curso, que fue autorizado por el mismo jefe de estación y que aún no había finalizado de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura.
 En este punto, sin embargo, es necesario subrayar que el ASVC en funcionamiento no espera dicha comunicación y, a diferencia del almacenador de (rutas de) circulación, establece vías de tren que el jefe de estación no ha solicitado él mismo. Al igual que en el punto anterior, es importante repetir que las disposiciones que excluían el uso del ASVC cuando se organizaba simultáneamente un movimiento maniobrero no estaban contenidas en las normas SŽ en el momento de la aparición de la MU, ni las contiene la nueva norma SŽ Z3.
 
-
 ## Página 72
+
 
 d)
 Se solicitó a la DI:
@@ -2627,8 +2611,8 @@ Conclusión:
 La DI está totalmente de acuerdo en que la comunicación al finalizar el movimiento maniobrero tiene influencia en la gestión de los riesgos indicados, lo que tuvo en cuenta en las conclusiones del punto 4.1.1 de esta ZZ.
 La DI valora la intención de SŽ de reintegrar la obligación de comunicar la finalización del movimiento maniobrero por parte del empleado que dirige el movimiento maniobrero en un movimiento maniobrero sin cuadrilla de maniobras en la norma SŽ D1. Sin embargo, dado que esto aún no ha ocurrido, la DI recomienda que se haga lo antes posible.
 
-
 ## Página 73
+
 
 ‍e)
 Se solicitó a la DI:
@@ -2661,6 +2645,7 @@ Con respecto a este punto, no hemos recibido ninguna comunicación.
 
 ## Página 74
 
+
 2. Respuesta O11 SŽ:
 «Según la norma SŽDC D1, el jefe de estación debía establecer siempre la delimitación temporal de la duración de la maniobra de clasificación en el marco del acuerdo de la maniobra. Según la norma SŽ D1 PARTE PRIMERA, el jefe de estación establece la delimitación temporal de la duración de la maniobra en el caso de que lo necesite establecer para la situación de tráfico en la estación en relación con las circulaciones de trenes que pudieran verse perturbadas por la maniobra. La pérdida de la conexión de cortocircuito, sin embargo, no influye en si la maniobra fue o no delimitada en el tiempo.».
 Conclusión:
@@ -2674,6 +2659,7 @@ En función del tipo de SZZ, al empleado operador se le advierte de la pérdida 
 En el caso de esta MU, si el jefe de estación 2 SEVER no solicitó información sobre la finalización de la maniobra en cuestión, se privó de las informaciones de las que habría deducido que el equipo de enclavamiento indica libertad de la vía, incluso cuando está ocupada, véase el punto 4.1.1 de la presente ZZ.
 
 ## Página 75
+
 
 ### Además, de las declaraciones de SŽ se deduce que, con el uso de ASVC, no debe producirse una evaluación errónea de la libertad de la vía ni la establecimiento de una vía de tren a través de dicha vía. No obstante, para esta condición la DI no encontró en los procedimientos tecnológicos del operador de la infraestructura SŽ ninguna medida que debiera eliminar el fallo de carácter técnico en la interfaz de ambos sistemas (SZZ y DV), ni siquiera una medida en forma de condición de notificación de la finalización de la maniobra, que se aplica en la operación del equipo (establecimiento de la vía de tren) por parte del jefe de estación.
 Así que, si en una situación similar se hubiera utilizado la función ASVC, no puede descartarse que el SZZ, igual que en este caso el jefe de estación 2 SEVER, hubiera evaluado la libertad de la vía y hubiera establecido una vía de tren a través de una vía físicamente ocupada por otra DV.
@@ -2691,6 +2677,7 @@ Según la declaración del transportista IDSC, el propietario y sujeto responsab
 La comprobación del funcionamiento del equipo de arenado se realiza en el marco de la Revisión Técnica de la HDV para la circulación en la red ferroviaria estatal y regional, véase el punto n.º 21 del anexo n.º 6 del decreto n.º 173/1995 Sb., no obstante, en este caso se trata únicamente de una comprobación de la función como tal, sin medición de la cantidad de arena despachada.
 
 ## Página 76
+
 
 Según la comunicación de IDS LocoCare s.r.o., la cantidad permitida de arena despachada, según la parte II punto 18 del anexo n.º 3 del decreto n.º 173/1995 Sb., se comprueba pesando la cantidad de arena despachada en un intervalo de tiempo determinado en el marco de las revisiones periódicas menores (MM, EM, L2) o bien siempre en el marco de las reparaciones extraordinarias del equipo de arenado. A raíz de la MU se adoptó una medida y, actualmente, los valores de la cantidad de arena despachada de los ejes individuales se registran en las Hojas de Pedido.
 Por tanto, de forma periódica, la comprobación del funcionamiento del equipo de arenado, incluida la comprobación de la cantidad de arena despachada de los depósitos de arena de la HDV, se realiza en el marco del mantenimiento de la HDV durante las revisiones MM y EM/L2.
@@ -2734,6 +2721,7 @@ d) garantizan que sus subcontratistas adopten medidas para gestionar los riesgos
 
 ## Página 77
 
+
 La disposición del art. 4 apartado 4 de la Directiva (UE) 2016/798 establece:
 «Sin perjuicio de la responsabilidad de las empresas ferroviarias (n.º de la DI: transportistas) y de los operadores de la infraestructura de acuerdo con el apartado 3, los sujetos responsables del mantenimiento y todos los demás sujetos con una posible repercusión en la operación segura del sistema ferroviario de la Unión, incluidos los fabricantes, las empresas de reparación, los titulares, los prestadores de servicios, los expedidores, los transportistas, los remitentes, los destinatarios y las empresas que se ocupan de la carga, la descarga, el llenado y el vaciado de los vagones:
 a) adoptan las medidas necesarias para gestionar los riesgos y, según sea necesario, cooperan en ellos con otros sujetos;
@@ -2751,6 +2739,7 @@ El ECM es responsable del mantenimiento y el transportista debe, en el marco de 
 
 ## Página 78
 
+
 • La certificación ECM, al igual que cualquier otra certificación, no garantiza al transportista que nunca existirán discrepancias en los vagones debido a un mantenimiento incorrecto. Además, entre las intervenciones de mantenimiento, los vehículos pueden resultar dañados también por sus usuarios, p. ej., durante la carga.
 El transportista es, por tanto, responsable de la adopción de las medidas de control adicionales descritas a continuación. El transportista debería realizar controles antes de la salida del tren o durante la marcha. Estos controles deben ser conformes a los procedimientos establecidos en el sistema de gestión de la seguridad. El transportista debe garantizar que cada vehículo del tren se encuentre en un estado que no ponga en peligro la explotación segura. Su objetivo no es solo comprobar si el mantenimiento ha sido adecuado y realizado correctamente, sino también si los vehículos se encuentran en un estado suficiente para un uso seguro.
 Algunos de estos controles los realiza el propio transportista (p. ej., el maquinista o el personal de explotación), y algunos puede el transportista encargarlos mediante subcontratación a otros sujetos. No obstante, al transportista le sigue correspondiendo la responsabilidad, de conformidad con el artículo 4, apartado 3, de la Directiva
@@ -2766,8 +2755,8 @@ Estos intervalos de inspección de la LDV (con la frecuencia de aparición de la
 No obstante, atendiendo al carácter de la avería (corrosión) y teniendo en cuenta que el mismo tipo de arenador se utilizó en varias series de LDV del fabricante ČKD Praha, la DI recomienda, en un grado superior de reparaciones, exigir la realización obligatoria del control del estado del tornillo regulador y la superficie de asiento del tornillo regulador del arenador de la LDV, o la implantación de un recambio cíclico de estas piezas.
 El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la producción del SU.
 
-
 ## Página 79
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 La Inspección Ferroviaria solicitó a la Oficina Ferroviaria el envío de todas las medidas que la Oficina Ferroviaria hubiera ya adoptado o realizado en relación con la excepcional acontecimiento arriba mencionado del día 10. 2. 2022.
@@ -2787,8 +2776,8 @@ Las causas inmediatas de la producción del SU fueron:
 Sobre la base de los resultados de la investigación del SU objeto de estudio, la Inspección Ferroviaria emitió las siguientes recomendaciones de seguridad:
 1. Se recomienda a todos los explotadores de los DESA ESA 11 que modifiquen estos dispositivos de modo que la información actual sobre la libertad de la vía, recibida mediante la conexión del equipamiento del circuito de vía tras la finalización de la emisión del código del protector de tren, sea procesada teniendo en cuenta la información previa sobre la ocupación de la vía de una manera que garantice la seguridad.
 
-
 ## Página 80
+
 
 2. Se recomienda a la Oficina Ferroviaria que exija la realización de la modificación descrita en el punto anterior en todos los dispositivos de este tipo y, en su caso, de tipos derivados, tanto los explotados como los nuevos que se pongan en servicio.
 3. Se recomienda al nuevo explotador de la vía Správa železniční dopravní cesty, s. o., que equipare las líneas principales modernizadas con un sistema de parada de emergencia a distancia de trenes por parte de la persona que dirige el transporte ferroviario.
@@ -2805,10 +2794,10 @@ Sobre la base de las RS emitidas, entre otras cosas, se produjo progresivamente:
 1. la modificación del DESA ESA 11 y la incorporación de una nueva funcionalidad "Registro de pérdida de continuidad - LPE", que avisa al operador de dicho DESA de la pérdida de la indicación de ocupación de la vía por vehículos ferroviarios. Esta versión modificada sustituyó progresivamente a la versión original del DESA ESA 11.
 2. El explotador de la vía SŽDC emitió la instrucción PD n.º 1/2008 SŽDC, con la que modificó las condiciones de uso de la arena para fines de tracción.
 3. Posteriormente se emitió, en el mismo asunto, una modificación del decreto n.º 173/1995 Sb.
-4. Además, se produjo (parcialmente de forma independiente de las RS) la ampliación de la cobertura de las líneas con el sistema de radio TRS con la función "Parada general" para la parada a distancia de vehículos ferroviarios. Sin embargo, al mismo tiempo, se estaba construyendo en las líneas principales la red GSM-R, que al principio no admitía la función GSM-R STOP.  
-
+4. Además, se produjo (parcialmente de forma independiente de las RS) la ampliación de la cobertura de las líneas con el sistema de radio TRS con la función "Parada general" para la parada a distancia de vehículos ferroviarios. Sin embargo, al mismo tiempo, se estaba construyendo en las líneas principales la red GSM-R, que al principio no admitía la función GSM-R STOP.
 
 ## Página 81
+
 
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -2838,6 +2827,7 @@ Systemic factor: none.
 
 ## Página 82
 
+
 ### 5.2 Medidas adoptadas para prevenir sucesos
 El gestor de la infraestructura SŽ adoptó, tras la ocurrencia del SU, las siguientes medidas:
 •
@@ -2863,8 +2853,9 @@ El gestor de la infraestructura SŽ adoptó la siguiente medida tras la ocurrenc
 •
 se revisaron las normativas internas bajo la responsabilidad del departamento 14 en relación con esta ocurrencia, y este departamento comprobó que estaban en orden. Se revisó la Instrucción del gestor de la infraestructura para garantizar el tráfico ferroviario fluido y seguro – Uso de arena para fines de tracción (PPD n.º 9/2008) y se constató que fue incumplida por el material rodante;
 
-
 ## Página 83
+
+
 •
 en relación con el fallo detectado en la medición de los circuitos de vía, todos los empleados de la Dirección Regional de Ústí nad Labem, Dirección de Tecnología de Comunicación y Seguridad, serán informados de las obligaciones en materia de mantenimiento de los circuitos de vía y de las conclusiones de la DI derivadas de la ocurrencia, en el marco de la formación de otoño.
 El operador ferroviario DBC CZ adoptó la siguiente medida tras la ocurrencia:
@@ -2893,8 +2884,8 @@ inicio de la maniobra de maniobras, a pesar de que la autorización para maniobr
 •
 areado prohibido durante la circulación de la maniobra de maniobras a través de las agujas.
 
-
 ## Página 84
+
 
 En el operador ferroviario DBC CZ:
 •
@@ -2922,8 +2913,8 @@ presentar una solicitud de notificación a la Comisión Europea de un requisito 
 ▪si la duración del areado es superior a 5 segundos, o
 ▪si se area durante la frenada a una velocidad inferior a 20 km.h-1, de conformidad con el requisito de prohibir el uso del dispositivo de areado salvo en caso de frenada de emergencia (de conformidad con lo dispuesto en el anexo n.º 3, parte II, punto 18, apartado 2, letra d) del decreto n.º 173/1995 Sb.);
 
-
 ## Página 85
+
 
 ◦para todos los demás vehículos, exigir al menos una versión simplificada de la indicación óptica (luminosa) y sonora que advierta del areado activado siempre (sin condiciones avanzadas), como mínimo para el areado activado mediante pedal;
 •
@@ -2947,8 +2938,8 @@ exigir la realización obligatoria de la verificación del estado del tornillo d
 •
 considerar la introducción de una ayuda memorística para el área (por ejemplo, parte de la cabecera de estación, límite de aproximación de estación, ámbito de maniobras) en la que está permitido maniobrar, en el ordenador de entrada del puesto de mando unificado, si bien la ayuda se introduciría
 
-
 ## Página 86
+
 
 de forma voluntaria o, en su caso, obligatoria, y se cancelaría en función del conocimiento del desarrollo de la maniobra, de la notificación de finalización de la maniobra o de la notificación de liberación de las vías destinadas a la circulación de trenes, en los gestores de la infraestructura de las líneas nacionales y regionales;
 •
@@ -2963,8 +2954,8 @@ Inspector
 de la Inspección Territorial de Praga
 de la Inspección Central
 
-
 ## Página 87
+
 
 ## ANEXOS
 Fig. n.º 10: Captura del relieve del archivo de la SZZ (antes de la corrección de tiempo y después de la corrección de tiempo)       Fuente de datos: SŽ, edición de la DI
@@ -2972,8 +2963,8 @@ Fig. n.º 11: Captura del relieve del archivo de la SZZ (antes de la corrección
 Fig. n.º 12: Captura del relieve del archivo de la SZZ (antes de la corrección de tiempo y después de la corrección de tiempo)       Fuente de datos: SŽ, edición de la DI
 Fig. n.º 13: Captura del relieve del archivo de la SZZ (antes de la corrección de tiempo y después de la corrección de tiempo)       Fuente de datos: SŽ, edición de la DI
 
-
 ## Página 88
+
 
 Fig. n.º 14: Captura del relieve del archivo de la SZZ (antes de la corrección de tiempo y después de la corrección de tiempo) Fuente de datos: SŽ, edición de la DI
 Fig. n.º 15: Captura del relieve del archivo de la SZZ (antes de la corrección de tiempo y después de la corrección de tiempo) Fuente de datos: SŽ, edición de la DI
@@ -2982,13 +2973,14 @@ Fig. n.º 17: Captura del relieve del archivo de la SZZ (antes de la corrección
 
 ## Página 89
 
+
 Fig. n.º 18: Imagen del relieve del archivo de SZZ (antes de la corrección de la hora y después de la corrección de la hora)       Fuente de datos: SŽ, edición DI
 Fig. n.º 19: Imagen del relieve del archivo de SZZ (antes de la corrección de la hora y después de la corrección de la hora)       Fuente de datos: SŽ, edición DI
 Fig. n.º 20: Imagen del relieve del archivo de SZZ (antes de la corrección de la hora y después de la corrección de la hora)     Fuente de datos: SŽ, edición DI
 Fig. n.º 21: Imagen del relieve del archivo de SZZ (antes de la corrección de la hora y después de la corrección de la hora)     Fuente de datos: SŽ, edición DI
 
-
 ## Página 90
+
 
 Fig. n.º 22: Tornillo de ajuste 6L del arenador y su ubicación 
 Fuente: IDSC

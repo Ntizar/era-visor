@@ -10,12 +10,13 @@ chars: 4101
 ratio_longitud: 1.01
 tokens_in: 2046
 tokens_out: 1078
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/2 (50%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logotipo BEU
 Informe intermedio
@@ -34,40 +35,39 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 74G101 |
 | Punto kilométrico: | 23 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice 
+## Contenido 
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Descarrilamiento del 21 05 2022 en la estación de Frankfurt (Oder) Oderbrücke 2 . . ................................ |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Descarrilamiento del tren el 21052022 en la estación de Frankfurt (Oder) Oderbrücke 2 . . ................................ |
 |  | 21 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 22 Consecuencias 2 . ...................................................................................................................................... |
 |  | 23 Estado de la investigación 2 . ........................................................................................................... |
 |  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
 ## Índice de modificaciones 
-| Modificación | Estado |
-| Versión 2 0 en base al plazo anual recibido . | 29 04 2024 . . |
-I 
-
+| Modificación | Versión |
+| Versión2 0 en base al plazo anual recibido . | 29 04 2024 . . |
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, en todas las investigaciones formalmente iniciadas y en curso por una oficina de investigación, se debe emitir al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado de investigación actual, puede estar sujeta a cambios en cualquier momento y no reclama completitud. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otras reclamaciones civiles, y se llevan a cabo con independencia de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento del 21.05.2022 en la estación de Frankfurt (Oder) 
 ## Oderbrücke 

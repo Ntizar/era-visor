@@ -10,12 +10,13 @@ chars: 5373
 ratio_longitud: 1.05
 tokens_in: 2484
 tokens_out: 1396
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -34,6 +35,7 @@ Suceso peligroso en la explotación ferroviaria
 
 ## Página 2
 
+
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
@@ -43,28 +45,28 @@ Heinemannstraße 6
 
 ## Índice
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Observaciones previas 1 ..................................................................................................................... |
-| 2 | Accidente en paso a nivel el 11 02 2025 entre las estaciones de explotación Est. de Hamburgo-Harburg y . . |
-| Halte de Hittfeld 2 ...................................................................................................................................... |  |
-|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
-## I.
-## Índice de modificaciones
-Modificación
-Fecha de actualización
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Accidente en paso a nivel el 11022025 entre las estaciones BfHamburgHarburg y . . |
+| HpHittfeld 2 ...................................................................................................................................... |  |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
+## I. 
+## Índice de modificaciones 
+Modificación 
+Estado 
 I
 
-
 ## Página 4
+
 
 ## 1 Observaciones previas
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). De acuerdo con ello, para todas las investigaciones formalmente abiertas y en curso por un organismo de investigación, se debe publicar al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no reclama completitud. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no sirven para determinar una responsabilidad ni para aclarar cuestiones de responsabilidad civil u otros reclamos de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 Página 1 de 3
 
-
 ## Página 5
+
 
 ## 2 Accidente en paso a nivel el 11.02.2025 entre las estaciones de explotación
 ## Est. de Hamburgo‐Harburg y Halte de Hittfeld
@@ -91,7 +93,8 @@ La investigación se encuentra en la fase de proceso 4 -análisis de los hechos-
 Las investigaciones realizadas hasta la fecha han arrojado que el transporte por carretera de traviesas largas implicado en el suceso, que circulaba con excepciones a la StVO y a la StVZO así como con una autorización a la StVO, no pudo despejar con rapidez el BÜ pk 340,39 a lo largo de la carretera privada „Am Reller" debido a las condiciones locales. Durante el cruce, el BÜ se activó para el ICE 613, una barrera semiautomática descendió sobre el vehículo de carretera, que permaneció en la zona de cruce con la parte trasera del semirremolque y la carga sobresaliente. El
 Página 2 de 3
 
-
 ## Página 6
+
+
 enfoque de la investigación se centra, por tanto, en el control de los riesgos derivados de las condiciones locales en el tráfico de vehículos de gran tamaño. La investigación examina actualmente las competencias y autorizaciones de las administraciones públicas en relación con el vehículo de carretera, así como la explotación de la carretera privada con BÜ.
 Página 3 de 3

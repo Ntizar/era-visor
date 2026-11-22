@@ -12,9 +12,7 @@ tokens_in: 27066
 tokens_out: 19917
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 36: cifras largas: faltan 2/8 (25%)"]
-notas_cifras: ["página 7: cifras cortas: 1/9", "página 10: cifras cortas: 1/4", "página 40: cifras cortas: 1/11"]
+verificacion: ok
 ---
 
 ## Página 1
@@ -271,6 +269,7 @@ El procedimiento de emergencia se activó de acuerdo con las disposiciones inter
 
 ## Página 17
 
+
 ### 3.3.2 Daños materiales 
 | Daños materiales | Importe estimado del daño |
 | Vehículos (ICE885) | 520000000 € . . , |
@@ -282,6 +281,7 @@ En el momento del accidente ya había oscuridad. No hubo influencias meteorológ
 la visibilidad era clara.
 
 ## Página 18
+
 
 ### Protocolo de investigación
 ### 4.1 Resumen de declaraciones
@@ -298,6 +298,7 @@ El conductor del ICE 782 declaró que, poco antes de salir del túnel de Landrü
 El conductor del ICE 885 declaró que, debido a la operatividad, la oscuridad y la velocidad de circulación de unos 210 km/h, no había prestado atención a circunstancias especiales a lo largo de la línea. Al entrar en el túnel de Landrücken observó algo «gris» sobre los raíles. Inmediatamente después chocó con un obstáculo. Tras identificar el obstáculo, inició inmediatamente una frenada de emergencia. La locomotora entera se sacudió con mucha fuerza. Observó que la locomotora se desprendía de la vía y se descarrilaba. A continuación, activó una parada de emergencia de la LZB mediante el pulsador del panel de indicación y mando. Inmediatamente después fue expulsado de su asiento. El tren continuó circulando bajo fuertes sacudidas y finalmente se detuvo. Emitió una orden de parada de emergencia por radio de tren. El jefe de tren se puso en contacto con él e informó
 
 ## Página 19
+
 
 miert, que según su evaluación no habría personas gravemente heridas en el tren. Los viajeros y el personal de a bordo se habrían dirigido a continuación hacia el lugar de rescate. 
 Las conversaciones se mantuvieron mediante radio digital de tren (GSM-R). 
@@ -576,21 +577,29 @@ En cuanto a las condiciones de circulación, la situación del tren de medición
 
 ## Página 36
 
-La tabla 1 muestra la comparación de las dos situaciones de circulación respecto a la aceleración lateral no compensada. En el viaje de medición se recorrió el punto del accidente con una aceleración lateral no compensada de 0,44 m/s². El tren del accidente recorrió el tramo de vía casi con aceleración lateral compensada. 
+La tabla 1 muestra la comparación de las dos situaciones de circulación respecto a la aceleración lateral no compensada. En el viaje de medición, el lugar del accidente se recorrió con una aceleración lateral no compensada de 0,44 m/s². El tren del accidente recorrió el tramo de línea casi con aceleración lateral compensada.
+
 |  | Tren de medición | Tren del accidente | Unidad |
 | Velocidad de circulación | 280 | 210 | km/h |
-| Radio de curva | 7002 |  | m |
+| Radio de la curva | 7002 |  | m |
 | Superelevación | 65 |  | mm |
-| Acel. lateral no comp. | 0,44 | 0,06 | m/s² |
-Tabla 1: Comparación de la aceleración lateral no compensada 
-En la comparación de las fuerzas de apoyo de rueda calculadas, se aprecia claramente una menor dinámica en el caso de v=210 km/h y el efecto de la transferencia de fuerza de rueda por la aceleración lateral en el caso de v=280 km/h. En lo que respecta a las fuerzas de apoyo de rueda, la situación de circulación en el viaje del accidente era más favorable que en el viaje de medición. 
-También la comparación de la suma de las fuerzas de guiado permite apreciar una situación más favorable en el tren del accidente. 
-La comparación del coeficiente de seguridad contra descarrilamiento Y/Q permite observar que en la rueda exterior de la curva precedente la situación en el viaje del accidente era más favorable que en el viaje de medición. 
-El nivel general en esta situación es muy bajo y muy alejado del valor límite. 
-Aunque se tengan en cuenta las condiciones límite diferentes de las del viaje de inspección, cabe señalar que en el viaje del accidente, en el ámbito del punto del accidente, se habría tratado de una situación no crítica desde el punto de vista de la circulación, si no hubieran influido otros factores de manera decisiva en la situación. 
-### 4.8.3 Consideración del choque 
-### Consideración del choque (ICE - ganado mayor) 
-En el marco del procedimiento de homologación del ICE1 se encargó en 1991 al Instituto de Tecnología de Transporte y Vehículos Ferroviarios; RWTH Aachen el análisis del comportamiento en caso de impacto con ganado mayor. Se debía comprobar si, en caso de impacto de un ICE contra ganado mayor, se producen descompresiones de rueda y fuerzas laterales que puedan dar lugar a un descarrilamiento.
+| Acel. lateral no comp. . . | 044 , | 006 , | m/s² |
+
+Tabla 1: Comparación de la aceleración lateral no compensada
+
+En la comparación de las fuerzas de apoyo de rueda calculadas, se aprecia claramente una menor dinámica en el caso de v=210 km/h y el efecto de la transferencia de fuerza de rueda por la aceleración lateral en el caso de v=280 km/h. En lo que respecta a las fuerzas de apoyo de rueda, la situación de circulación en el viaje del accidente fue más favorable que en el viaje de medición.
+
+También la comparación de la suma de las fuerzas de guiado permite apreciar una situación más favorable en el tren del accidente.
+
+La comparación del coeficiente de seguridad contra descarrilamiento Y/Q permite observar que en la rueda exterior de la curva precedente la situación en el viaje del accidente fue más favorable que en el viaje de medición. El nivel global en esta situación es muy bajo y muy alejado del valor límite.
+
+Aunque se consideren las condiciones límite diferentes de las del viaje de inspección, cabe señalar que el viaje del accidente en el área del lugar del accidente habría sido una situación no crítica desde el punto de vista de la circulación, si no hubieran influido otros factores de manera decisiva en la situación.
+
+### 4.8.3 Consideración del choque
+
+### Consideración del choque (ICE - ganado mayor)
+
+En el marco del procedimiento de homologación del ICE1, en 1991 se encargó al Instituto de Tecnología de Elevación y Vehículos Ferroviarios; RWTH Aachen analizar el comportamiento en caso de impacto con ganado mayor. Se debía comprobar si, en caso de impacto de un ICE contra ganado mayor, se producen descompresiones de las ruedas y fuerzas laterales que puedan dar lugar a un descarrilamiento.
 
 ## Página 37
 

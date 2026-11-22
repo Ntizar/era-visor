@@ -10,13 +10,13 @@ chars: 37547
 ratio_longitud: 1.07
 tokens_in: 12885
 tokens_out: 9469
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 18: cifras largas: faltan 6/6 (100%)", "página 25: cifras largas: faltan 1/1 (100%)"]
-notas_cifras: ["página 10: cifras cortas: 1/12", "página 17: ratio 2.01", "página 21: cifras cortas: 1/24"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Centro de Investigación
 de la Oficina Federal de Investigación de Accidentes Ferroviarios
@@ -32,8 +32,8 @@ Suceso peligroso en el servicio ferroviario
 | Número de línea: | 2270 |
 | Kilómetro: | 15 600 , |
 
-
 ## Página 2
+
 
 ## Publicado por:
 Ministerio Federal de Transporte y Economía Digital
@@ -41,8 +41,8 @@ Oficina Federal de Investigación de Accidentes Ferroviarios
 Robert-Schuman-Platz 1
 53175 Bonn
 
-
 ## Página 3
+
 
 # Índice: 
 ### Página 
@@ -95,17 +95,17 @@ Investigación de los vehículos ferroviarios ..................................
 4.6.1 
 Datos sobre el tren ............................................................................................... 20 
 4.6.2 
-Vagón 81 80 6643 352-0 .................................................................................... 20 
-
+Vagón 81 80 6643 352-0 .................................................................................... 20
 
 ## Página 4
+
 
 | 4 6 3 . . | Investigación del bogie 21 ................................................................................... |
 | 5 | Evaluación y conclusiones 23 ............................................................. |
 | 6 | Medidas adoptadas hasta la fecha 24 ......................................................................... |
 
-
 ## Página 5
+
 
 # Índice de ilustraciones: 
 Ilustr. 1: Primer lugar de descarrilamiento en el km 15,600 ......................................................................... 9 
@@ -117,10 +117,10 @@ Ilustr. 6: Marcas de rozamiento en el imán de vía y bastidor del bogie .......
 Ilustr. 7: Huellas de descarrilamiento en Oberhausen West .................................................................. 15 
 Ilustr. 8: Extracto del protocolo de medición de la HOA ....................................................................................... 17 
 Ilustr. 9: Representación gráfica de los datos EFR - total ........................................................ 18 
-Ilustr. 10: Representación gráfica de los datos EFR Oberhausen-West ....................................... 19 
-
+Ilustr. 10: Representación gráfica de los datos EFR Oberhausen-West ....................................... 19
 
 ## Página 6
+
 
 # Glosario de siglas 
 AEG 
@@ -176,10 +176,10 @@ Agente de tráfico
 HLL 
 Línea principal de aire comprimido 
 HOA 
-Instalación de detección de ruedas sobrecalentadas 
-
+Instalación de detección de ruedas sobrecalentadas
 
 ## Página 7
+
 
 | LST | Tecnología de mando y seguridad - |
 | NE | Ferrocarril no perteneciente a la Federación |
@@ -197,6 +197,7 @@ Instalación de detección de ruedas sobrecalentadas
 
 ## Página 8
 
+
 # 1 
 # Resumen 
 ## 1.1 
@@ -208,16 +209,16 @@ No hubo heridos como consecuencia del accidente. Se produjeron daños materiales
 Las empresas ferroviarias implicadas estimaron los daños materiales en aproximadamente 1,35 millones de euros. 
 ## 1.3 
 ## Causas 
-El descarrilamiento del tren fue causado por un rodillo caliente en combinación con la rotura del brazo del eje en el primer eje del bogie delantero del 13.º vagón (81 80 664 3 352-0, Falns). 
-
+El descarrilamiento del tren fue causado por un rodillo caliente en combinación con la rotura del brazo del eje en el primer eje del bogie delantero del 13.º vagón (81 80 664 3 352-0, Falns).
 
 ## Página 9
 
-Fig. 1: Primer lugar de descarrilamiento en el pk 15,600 
-Fig. 2: Segundo lugar de descarrilamiento en Oberhausen West 
 
+Fig. 1: Primer lugar de descarrilamiento en el pk 15,600 
+Fig. 2: Segundo lugar de descarrilamiento en Oberhausen West
 
 ## Página 10
+
 
 # 2 
 # Observaciones previas 
@@ -235,10 +236,10 @@ La investigación comprende la recopilación y evaluación de información, la e
 ## Empresas participantes y colaboradoras 
 Participaron en el suceso las siguientes empresas ferroviarias: 
  
-DB Netz AG Empresa de infraestructura ferroviaria (EIF) 
-
+DB Netz AG Empresa de infraestructura ferroviaria (EIF)
 
 ## Página 11
+
 
  
 DB Schenker Rail Deutschland AG (ETF) 
@@ -251,15 +252,16 @@ Instituto de Vehículos Ferroviarios y Tecnología de Transporte (IFS) de la RWT
 # Suceso 
 ## 3.1 
 ## Desarrollo 
-El 25.03.2010, el tren de mercancías CIL 48741 circulaba desde Rotterdam-Maasvlakte (Países Bajos) hasta Dillingen en el Sarre. El tren estaba compuesto por 44 vagones de polvo de carbón cargados (Falns) y dos locomotoras de tracción de la serie 189. Cuando el tren se acercaba a la estación de Dinslaken (Bf Dinslaken) por la vía normal en la línea 2270, el primer eje del bogie delantero del 13.º vagón (81 80 6643 352-0) descarriló hacia la derecha, en dirección de marcha, en el pk 15,600, como consecuencia de la rotura del brazo derecho del eje. El cojinete de eje correspondiente se desprendió del vehículo y quedó aproximadamente a 65 m detrás del lugar del descarrilamiento, a la derecha junto a la vía, a solo unos metros detrás del paso superior de la carretera "Dianastraße". El maquinista (Tf) no se percató del descarrilamiento. Al parecer, el eje se volvió a colocar sobre los raíles por sí mismo en el área de la aguja 365 de la estación de Dinslaken, tras un recorrido de aproximadamente 1500 m, aproximadamente en el pk 14,1, de modo que inicialmente no eran visibles más rastros de descarrilamiento. En el área del desvío (Abzw) Obn, la circulación del tren pasó a la línea 2321 (Oberhausen Hbf Obn – Duisburg-Wedau). Durante la entrada subsiguiente a la estación de Oberhausen West, el vagón descarriló nuevamente en el pk 13,110. Como consecuencia de este segundo descarrilamiento, además de los daños en la superestructura, se produjo la separación del tren y, por tanto, un frenado de emergencia. El tren se detuvo tras recorrer pocos metros. El vehículo causante del accidente se detuvo aproximadamente a la altura del edificio de señales Oro. 
-
+El 25.03.2010, el tren de mercancías CIL 48741 circulaba desde Rotterdam-Maasvlakte (Países Bajos) hasta Dillingen en el Sarre. El tren estaba compuesto por 44 vagones de polvo de carbón cargados (Falns) y dos locomotoras de tracción de la serie 189. Cuando el tren se acercaba a la estación de Dinslaken (Bf Dinslaken) por la vía normal en la línea 2270, el primer eje del bogie delantero del 13.º vagón (81 80 6643 352-0) descarriló hacia la derecha, en dirección de marcha, en el pk 15,600, como consecuencia de la rotura del brazo derecho del eje. El cojinete de eje correspondiente se desprendió del vehículo y quedó aproximadamente a 65 m detrás del lugar del descarrilamiento, a la derecha junto a la vía, a solo unos metros detrás del paso superior de la carretera "Dianastraße". El maquinista (Tf) no se percató del descarrilamiento. Al parecer, el eje se volvió a colocar sobre los raíles por sí mismo en el área de la aguja 365 de la estación de Dinslaken, tras un recorrido de aproximadamente 1500 m, aproximadamente en el pk 14,1, de modo que inicialmente no eran visibles más rastros de descarrilamiento. En el área del desvío (Abzw) Obn, la circulación del tren pasó a la línea 2321 (Oberhausen Hbf Obn – Duisburg-Wedau). Durante la entrada subsiguiente a la estación de Oberhausen West, el vagón descarriló nuevamente en el pk 13,110. Como consecuencia de este segundo descarrilamiento, además de los daños en la superestructura, se produjo la separación del tren y, por tanto, un frenado de emergencia. El tren se detuvo tras recorrer pocos metros. El vehículo causante del accidente se detuvo aproximadamente a la altura del edificio de señales Oro.
 
 ## Página 12
+
 
 Fig. 3: Plano de situación 
 Fuente: Plano IVL DB Netz AG, elaborado por la EUB
 
 ## Página 13
+
 
 ## 3.2 
 ## Víctimas mortales, heridos y daños materiales
@@ -284,8 +286,8 @@ Por ello, se renunció a investigar las actuaciones relacionadas con la gestión
 En las investigaciones in situ se realizaron las siguientes constataciones:
 Las primeras huellas de descarrilamiento se pudieron detectar en el pk 15,6 de la línea 2270, poco antes de la estación de Dinslaken. Las huellas en los elementos de fijación de las vías y sobre las traviesas permitieron constatar que un eje se había descarrilado hacia la derecha en sentido de la marcha.
 
-
 ## Página 14
+
 
 Fig. 4: Huellas de descarrilamiento en el pk 15,6
 Aproximadamente a 23 m detrás de las primeras huellas de descarrilamiento se encontraron partes de un cojinete de eje. El propio cojinete se encontraba a unos 65 m del inicio de las huellas, a la derecha junto a la vía. El muñón de eje presente en el cojinete permitía concluir que el eje se había roto debido a altas influencias térmicas, como las que se producen por un eje caliente (Heißläufer).
@@ -293,8 +295,8 @@ Fig. 5: Cojinete de eje caído
 Las huellas de descarrilamiento se extendieron a lo largo de unos 1500 m a través de la estación de Dinslaken. En los puntos de vía 370 y 365 se podían reconocer las correspondientes huellas de impacto.
 A partir del pk 14,100 aproximadamente, ya no se podían detectar más huellas de un vehículo descarrilado en la vía. Evidentemente, el eje se había vuelto a encajar en la vía por sí mismo tras el impacto en la zona del punto de vía 365. En el resto del recorrido, inicialmente solo se podían observar principalmente huellas de impacto en los imanes de vía del PZB, que se encontraban a la derecha de la vía,
 
-
 ## Página 15
+
 
 como también en el imán de vía de la señal de entrada F 206 de la estación de Oberhausen West. Estas huellas se debían muy probablemente a un roce del bogie, que se había hundido en la parte delantera como consecuencia de la rotura del brazo de eje. En este componente también eran visibles las correspondientes huellas de impacto.
 Fig. 6: Huellas de impacto en el imán de vía y el bastidor del bogie
@@ -305,8 +307,8 @@ Fig. 7: Huellas de descarrilamiento en Oberhausen West
 ## Investigación de la infraestructura
 El tren CIL 48741 circulaba, procedente de los Países Bajos, por las líneas VzG 2270 (Oberhausen Hbf – Emmerich – Frontera estatal – Arnhem) y 2321 (Duisburg-Wedau - Oberhausen Hbf Obn). Ambas líneas son líneas principales electrificadas de doble vía. Están equipadas con instalaciones de control puntual de trenes (PZB) y radio de tren. La velocidad máxima permitida en la línea 2270 es de
 
-
 ## Página 16
+
 
 160 km/h, y la distancia de frenado permitida es de 1000 m. En la zona del primer lugar de descarrilamiento era permisible la velocidad máxima de 160 km/h. En la línea 2331, en la zona del segundo lugar de descarrilamiento, según la VzG también se permitía la velocidad máxima de línea de 80 km/h, con una distancia de frenado máxima de 700 m. Las señales pueden prescribir velocidades inferiores.
 
@@ -326,6 +328,7 @@ Los resultados de las mediciones de la FBOA también fueron normales.
 
 ## Página 17
 
+
 Fig. 8: Extracto del protocolo de medición HOA
 ## 4.5
 ## Investigación de las actuaciones operativas
@@ -343,13 +346,20 @@ El análisis permitió constatar, teniendo en cuenta el hecho de que el tren rec
 
 ## Página 18
 
+Los tiempos indicados a continuación se refieren siempre a la hora DSK, que puede diferir de la hora real. Para una mejor visualización se han normalizado los datos de posición. Para ello, se han ajustado a la kilometración real de la vía. Como punto de referencia se eligió la señal F 206 de la estación Oberhausen West, ya que aquí era posible la asignación de un punto de posición concreto mediante una influencia de 1000 Hz del imán de vía instalado en la señal. En la representación gráfica de los datos, las indicaciones de posición llevan signo negativo, ya que el tren circulaba en sentido contrario a la kilometración de la vía. Debido al cambio de vía de la línea 2270 a la 2321, sin embargo, las indicaciones de kilómetro representadas solo coinciden con los puntos de posición reales desde Abzw. Obn hasta la parada en Oberhausen West.
+La figura 5 muestra la representación gráfica del desarrollo de la marcha desde el área del primer punto de descarrilamiento en km 15,6 hasta la parada del tren en Oberhausen West.
+Abb. 9: Representación gráfica de los datos EFR - total
+La evaluación permitió constatar, teniendo en cuenta el hecho de que el tren recorrió unos 15,1 km desde el primer punto de descarrilamiento hasta la parada definitiva, que CIL 48741 circulaba en el momento del primer descarrilamiento a una velocidad de unos 82 km/h. La velocidad se situaba por debajo de la velocidad máxima permitida para el tren de 90 km/h y claramente por debajo de la velocidad máxima permitida en la vía de 160 km/h.
+
 ## Página 19
+
 
 Ni el descarrilamiento ni otras irregularidades se pueden detectar a partir de los datos de la EFR. El tren continuó su viaje hasta Oberhausen West. El tramo comprendido entre la señal de entrada F 206 y la parada se muestra ampliado en la figura 6.
 Fig. 10: Representación gráfica de los datos de la EFR Oberhausen-West
 El análisis de los datos en esta zona muestra que el tren se acercaba a la señal F 206 a una velocidad de aproximadamente 39 km/h. En la ubicación de la señal, se produjo una influencia mediante un imán de vía de 1000 Hz debido a la indicación de la señal «Esperar parada», lo cual el Tf confirmó pulsando el botón «Precaución». Posteriormente, la velocidad del tren se redujo primero ligeramente y luego de forma continua mediante una frenada de servicio. Durante esta frenada se descarriló el 13.º vagón con el eje líder, aproximadamente en el pk 13,110. El descarrilamiento en sí no es visible en los datos de la EFR. En el momento del descarrilamiento del 13.º vagón, la cabeza del tren ya se encontraba aproximadamente 190 m más adelante. De ello se puede deducir un valor de aproximadamente 25 km/h para la velocidad a la que circulaba el tren durante el descarrilamiento de dicho vagón. Poco después se produjo un frenado de emergencia debido a la separación del tren causada por el descarrilamiento. Así lo indica la característica de la línea de velocidad con una pendiente pronunciada hacia abajo. Tras recorrer aproximadamente 55 m desde el descarrilamiento del 13.º vagón, el tren 48741 se detuvo.
 
 ## Página 20
+
 
 La evaluación de los datos EFR muestra que no se superó la velocidad máxima permitida del tren. Tras el primer descarrilamiento no se detectaron anomalías en la marcha del tren. El maquinista no pudo percibir dicho descarrilamiento. Por consiguiente, continuó su viaje de forma lógica. Su actuación operativa no influyó ni en la aparición del accidente ni en sus consecuencias.
 ## 4.6
@@ -365,6 +375,7 @@ Al observar el vagón desde el edificio de señales de Oro no se apreciaban anom
 Para aclarar ulteriormente la causa del accidente, el bogie en cuestión fue trasladado al IFS de la RWTH Aachen. El Instituto recibió de la Fiscalía de Duisburg el encargo de investigar el bogie averiado y, en particular, el eje averiado, incluido el cojinete, y de emitir un dictamen pericial al respecto. En dicho dictamen debían responderse las preguntas sobre la causa del accidente, posibles defectos de material y fabricación, el cumplimiento de las normas vigentes y posibles deficiencias de mantenimiento.
 
 ## Página 21
+
 
 La peritos presentaron sus resultados con el «Informe IFS 05/2010 – Informe de investigación: Descarrilamiento de un bogie de vagón de mercancías» del 09.09.2014. Este informe fue entregado a la EUB por la Inspección Federal de Policía competente para aclarar la causa del accidente.
 Los resultados de la investigación que se enumeran a continuación se han extraído de dicho informe. Se reproducen de forma resumida, ya sea en sentido literal o textual (en cursiva).
@@ -389,8 +400,8 @@ La documentación de mantenimiento (.-.) contiene información sobre el eje del 
 | Taller: | Bremen BRM |
 | Tipo de cojinete del eje: | FAG WU 120 x 130 cojinete de rodillos BA 081 con jaula de latón. |
 
-
 ## Página 22
+
 
 | Tipo de grasa del cojinete del eje: | D2 |
 | Tipo de eje: | BA302N |
@@ -403,6 +414,7 @@ Las proporciones elevadas de partículas de hierro y cobre en la grasa analizada
 Durante la investigación no se encontraron indicios de un montaje no conforme a las normas del cojinete ni de la falta de componentes. Dadas las destrucciones, cualquier posible rastro que hubiera indicado defectos de material en los elementos rodantes, los anillos del cojinete o la jaula quedó cubierto.
 
 ## Página 23
+
 
 La revisión de los certificados de mantenimiento por parte de los peritos no reveló anomalías. Se cumplieron las correspondientes especificaciones de mantenimiento y los intervalos: tras la comprobación de los documentos antes mencionados, se constata que el vagón y los bogies disponían, en el momento del accidente, de inspecciones válidas. Finalmente, los peritos resumen sus resultados de investigación de la siguiente manera:
 
@@ -418,6 +430,7 @@ La descarrilamiento del tren CIL 48741 el 25.03.2010 se produjo debido a la rotu
 Ya antes del evento aquí investigado, el fallo de los componentes del cojinete del rueda había provocado cojinetes sobrecalentados con posterior rotura del eje y, finalmente, descarrilamientos de trenes con importantes daños materiales. A título de ejemplo, pueden citarse los descarrilamientos del tren el 05.03.2010 en Herlasgrün y el 17.07.2009 en Bünde. En ambos casos, la causa de la aparición del cojinete sobrecalentado no pudo ser nombrada con absoluta seguridad debido a los daños secundarios producidos, como en el evento aquí investigado.
 
 ## Página 24
+
 
 Los peritos contratados identificaron, sin embargo, un desgaste de las piezas del cojinete, especialmente en cojinetes con jaulas de latón remachadas, como una causa probable de la aparición de los cojinetes sobrecalentados.
 
@@ -441,3 +454,5 @@ como medidas principales para reducir el riesgo de descarrilamiento de trenes de
 DB Netz AG ha transformado entre tanto las instalaciones de seguridad de la línea y las estaciones entre la frontera neerlandesa y Oberhausen-Sterkrade. La operación se realiza desde entonces desde el ESTW Emmerich. En el marco de las transformaciones, se pusieron en servicio en este tramo las HOA/FBOA en el pk 7,0 km (dirección de circulación Emmerich), 10,2 (dirección de circulación Oberhausen) y pk 53,612 (ambas direcciones de circulación).
 
 ## Página 25
+
+En este tramo se puso en servicio la HOA/FBOA en km 7,0 km (sentido Emmerich), 10,2 (sentido Oberhausen) y km 53,612 (ambos sentidos).

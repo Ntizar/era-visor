@@ -10,12 +10,13 @@ chars: 3731
 ratio_longitud: 1.02
 tokens_in: 1907
 tokens_out: 1046
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/3 (33%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,34 +35,33 @@ Suceso peligroso en la explotación ferroviaria
 | Aguja: | 81W22 |
 | Kilómetro: | 964 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Descarrilamiento el 23 04 2014 en el Bf Gröbers 2 . . .......................................................................... |
-|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
+| I . | Lista de modificaciones I ............................................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Descarrilamiento el 23042014 en la estación de Gröbers 2 . . .......................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
-| Modificación | Fecha de actualización |
-| Versión 2 0 en cumplimiento del plazo anual establecido . | 06 04 2021 . . |
-| Versión 3 0 en cumplimiento del plazo anual establecido . | 20 04 2022 . . |
-I 
-
+## Lista de modificaciones 
+| Modificación | Versión |
+| Versión2 0 en función del plazo anual alcanzado . | 06 04 2021 . . |
+| Versión3 0 en función del plazo anual alcanzado . | 20 04 2022 . . |
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 de la Ordenanza
@@ -73,8 +73,8 @@ seguridad identificados durante la investigación. Esta información se basa en 
 de la investigación, puede modificarse en cualquier momento y no reclama ser completa.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento el 23.04.2014 en el Bf Gröbers 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias.

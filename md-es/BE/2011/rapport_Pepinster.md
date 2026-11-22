@@ -10,13 +10,13 @@ chars: 195900
 ratio_longitud: 1.02
 tokens_in: 75143
 tokens_out: 55480
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 58: cifras largas: faltan 3/10 (30%)", "página 80: cifras largas: faltan 4/15 (27%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (FR)", "página 6: cifras cortas: 3/19", "página 11: cifras cortas: 1/25", "página 17: original bilingüe: se compara contra el idioma principal (FR)", "página 18: cifras cortas: 1/20", "página 26: original bilingüe: se compara contra el idioma principal (FR)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 INFORME DE INVESTIGACIÓN DE SEGURIDAD
@@ -25,17 +25,18 @@ OCURRIDO EL 28 DE ENERO DE 2011
 EN PEPINSTER
 Diciembre 2013
 
-
 ## Página 2
+
 
 
 ## Página 3
 
+
 Cualquier uso de este informe con una finalidad distinta a la de la prevención de accidentes 
 - por ejemplo, la de determinar responsabilidades, y mucho menos culpabilidades individuales o colectivas - se realizaría en una distorsión total con los objetivos de este informe, los métodos utilizados para elaborarlo, la selección de los hechos recogidos, la naturaleza de las preguntas planteadas y los conceptos que moviliza, a los que la noción de responsabilidad es ajena. Las conclusiones que pudieran derivarse de ello serían, por tanto, abusivas en el sentido literal del término.
 
-
 ## Página 4
+
 
 ## ÍNDICE
 1.	
@@ -128,10 +129,10 @@ Documentación del sistema operativo
 3.5.1.	 medidas adoptadas por el personal para el control del tráfico y la señalización	
 3.5.2.	 intercambio de mensajes verbales en relación con el acontecimiento, incluidos 
 los documentos procedentes de los registros	
-3.5.3.	 medidas adoptadas para proteger y salvaguardar el lugar del acontecimiento 	
-
+3.5.3.	 medidas adoptadas para proteger y salvaguardar el lugar del acontecimiento
 
 ## Página 5
+
 
 3.6.	
 Interfaz hombre-máquina-organización	
@@ -201,6 +202,7 @@ RECOMENDACIONES
 
 ## Página 6
 
+
 ## 1. Resumen
 El viernes 28 de enero, el tren de viajeros Ostende - Eupen (E507) sale de la estación de Lieja-Guillemins con destino a Eupen. El tren E507, compuesto por 12 coches y empujado por una locomotora de tipo 13, circula por la vía A de la línea 37 y se prevé su llegada a Verviers-Central a las 10h25. 
 En el recorrido y debido a las obras en los túneles entre Olne y Pepinster, el tren E507 se desvía a la vía contraria (vía B). Una vez superada esta zona de obras, el maquinista se encuentra con una señal de precaución que muestra el color verde-amarillo horizontal: esta señal indica que se impone una limitación de velocidad en la señal siguiente. Inicia el frenado.
@@ -215,8 +217,8 @@ Se produce un segundo descarrilamiento del coche 11, seguido de otro acoplamient
 El choque es violento. La colisión detiene bruscamente los dos últimos coches, así como la locomotora del tren E507. El acoplamiento entre los coches 10 y 11 se desacopla, el cable de alimentación se arranca y la conducción general se desconecta: se activa un frenado de emergencia. 
 Los diez primeros coches se separan de la parte trasera del tren, dejando un vacío de 50 metros entre las dos partes del tren. La colisión daña gravemente la cabina del conductor del tren automotor detenido: el conductor resulta herido de gravedad leve. Nueve pasajeros son trasladados para su examen al hospital de Verviers y dan el alta el mismo día. El accidente causó daños al material rodante y a la infraestructura, así como retrasos en la red ferroviaria.
 
-
 ## Página 7
+
 
 La inspección de la vía y de los puntos de aguja permitió distinguir claramente las consecuencias del descarrilamiento, pero no permitió detectar defectos que pudieran haber llevado al descarrilamiento o haber contribuido a él.
 Según las normas UIC, para una curva y una contracurva de igual radio y un ancho de vía de 1440 a 1450 mm, no es necesario ningún tramo recto intermedio entre la curva y la contracurva cuando los radios son superiores a 200 metros.
@@ -236,6 +238,7 @@ Esta doble normativa no facilita la gestión por parte de la empresa ferroviaria
 
 ## Página 8
 
+
 Los amortiguadores «antibalanceo» del vagón situado en la posición 10 no habían sido montados correctamente: se trata de uno de los vagones transformados en los talleres de la SNCB para permitir una circulación a mayor velocidad. Las pruebas de los amortiguadores, así como una simulación gráfica, permitieron concluir que los amortiguadores funcionaban correctamente y no desempeñaron ningún papel en el descarrilamiento.
 Actualmente, una verificación por parte de un organismo independiente o por el sistema de calidad interno de la empresa ferroviaria permite comprobar la presencia y la uniformidad de las instrucciones de montaje de estos amortiguadores, en función del módulo aplicable y tal como se definen en las Especificaciones Técnicas de Interoperabilidad.
 Una vez descarrilados los vagones, las barreras de recuperación son prácticamente nulas: nada permite al conductor percatarse de que un vagón está descarrilado para que pueda iniciar un frenado.
@@ -246,11 +249,12 @@ La empresa ferroviaria no realiza este tipo de control.
 El caso de Pepinster no es un caso aislado; hemos identificado casos relativamente similares en los Países Bajos y en Alemania: descarrilamiento de trenes en movimiento empujado que circulaban a velocidad reducida, inferior a 40 km/h, al pasar por 2 desvíos que formaban una curva y una contracurva de radio reducido.
 El organismo de investigación formuló tres recomendaciones, entre ellas la necesidad de adoptar medidas para paliar los riesgos de descarrilamiento durante la aceleración en curva (en desvíos).
 
-
 ## Página 9
 
 
+
 ## Página 10
+
 
 ## 2.	LOS HECHOS INMEDIATOS
 ## 2.1.	 EL INCIDENTE
@@ -266,8 +270,8 @@ El descarrilamiento provocó que el penúltimo vagón saliera del perfil de la v
 El accidente tuvo lugar en la línea L37 Lieja-Guillemins - Hergenrath (D) al salir de la estación de Pepinster, con dirección a Verviers.
 Figura 1: Línea 37
 
-
 ## Página 11
+
 
 Los acontecimientos se produjeron en el punto de unión entre la línea 37 y la línea 44 a través de los desvíos 02BI, en el punto kilométrico acumulado 120.535.
 Foto 2.1.2.: el vagón de cabeza del tren E507, con cabina de conducción, tipo I11BDX
@@ -280,8 +284,8 @@ El accidente no cumple la definición de accidente grave¹ según el artículo 4
 El Organismo de Investigación decidió abrir una investigación conforme al artículo 45 de la ley del 19 de diciembre de 2006, que prevé la posibilidad de investigar accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves.
  Accidente grave: todo accidente que tenga como consecuencia al menos 1 muerto, 5 heridos graves y/o 2 millones de euros en daños.
 
-
 ## Página 12
+
 
 ### 2.1.5.	 Composición del equipo
 | Rol | Organismo de pertenencia |
@@ -296,6 +300,7 @@ El Organismo de Investigación decidió abrir una investigación conforme al art
 | Asesoría reglamentaria |  |
 
 ## Página 13
+
 
 ### 2.1.6.	 Dirección de la investigación
 El accidente fue notificado por el Control de Tráfico al Investigador Principal por teléfono el 28 de enero de 2011 
@@ -337,8 +342,8 @@ Se estudiaron diversos factores que podrían haber contribuido a las circunstanc
 • el comportamiento del maquinista y su percepción de la situación
 • los topes.
 
-
 ## Página 14
+
 
 ### 2.2.	 Las circunstancias del suceso
 ### 2.2.1.	 Empresas y personal implicado
@@ -360,8 +365,8 @@ Esquema 2.2.1.2 organigrama SNCB
 • el maquinista y los acompañantes del tren E507
 • el maquinista y los acompañantes del tren E5280
 
-
 ## Página 15
+
 
 ### 2.2.1.4.	 BELGORAIL: El organismo de certificación
 Belgorail es un organismo belga creado para responder a las necesidades de certificación y verifica-
@@ -386,8 +391,8 @@ de decisiones, independiente de toda empresa ferroviaria o de gestor de infraest
 Debe definir el marco jurídico y asegurar la supervisión del gestor de infraestructura y de las 
 empresas ferroviarias.
 
-
 ## Página 16
+
 
 ### 2.2.2.	 Composición de los trenes
 ### 2.2.2.1.	 Tren E507
@@ -432,6 +437,7 @@ con puesto de conducción, tipo I11BDX
 
 ## Página 17
 
+
 En las posiciones 10 y 11 se encuentran dos coches
 de tipo I10Kmod.
 Los coches I10 fueron construidos y puestos en
@@ -456,8 +462,8 @@ En el momento del accidente, el coche piloto matriculado 19814 estaba equipado c
 • el sistema GSM R
 En el momento del accidente, el coche piloto no estaba equipado con el sistema TBL1+, ni con el ETCS.
 
-
 ## Página 18
+
 
 ### 2.2.2.2. Tren E5280
 Está compuesto por una unidad múltiple de tipo AM 80, con el número SNCB N.º 373, compuesta por
@@ -486,8 +492,8 @@ En el momento del accidente, el coche piloto AM80 373 estaba equipado con:
 • el sistema GSM R
 El coche piloto no estaba equipado con el sistema TBL1+, ni con el ETCS.
 
-
 ## Página 19
+
 
 ### 2.2.3. Descripción de la infraestructura y del sistema de señalización
 Esquema 2.2.3 PSS de la estación de Pepinster y los movimientos de los trenes E507 y 5280
@@ -505,8 +511,8 @@ Las órdenes de maniobra de desvíos, de enclavamientos de trayectorias y de ape
 se dan mediante un ordenador desde una estación de trabajo del puesto EBP/PLP del Bloque 53 situado en
 la estación de Verviers Central.
 
-
 ## Página 20
+
 
 ### 2.2.3.4. Señalización lateral: CX-I.53
 A la salida de la estación de Pepinster (en el pk 120,368), el
@@ -534,8 +540,8 @@ Estas señales proporcionan una indicación de posición o de registro de paso:
 • en el kilómetro 120,622, la gran señal J-I.53, vía 6 (VA)
 Foto 2.2.3b otras señales en el lugar del accidente
 
-
 ## Página 21
+
 
 ### 2.2.3.7. Panel de velocidad
 El panel de velocidad de referencia está constituido por un panel verde en
@@ -561,6 +567,7 @@ Los desvíos se manejan desde el puesto EBP, bloque 53 de Verviers.
 
 ## Página 22
 
+
 ### 2.2.4.	 Trabajos realizados en el lugar o en las proximidades del lugar del accidente
 Están en curso trabajos previstos en el Túnel 36 (Puente en Vaux, PK 115.321) y el Túnel 37 (Halinsart, PK 116.011) 
 en Nessonvaux, aguas arriba del accidente, en la vía A de la línea 37.
@@ -582,8 +589,8 @@ la estación de Pepinster y en los puntos de cruce a la salida de la estación,
 • informar a los usuarios y servicios de mantenimiento.
 Esquema 2.2.5: Los trabajos en los túneles 36 y 37 y la unión de las líneas L44 y L37
 
-
 ## Página 23
+
 
 ### 2.2.5.	 Activación del plan de emergencia ferroviario y su cadena de eventos
 Se activó el plan de emergencia interno del gestor de infraestructura.
@@ -599,8 +606,8 @@ Se organizó una asistencia a los viajeros y al personal del tren:
 • ayuda médica
 • ayuda logística (transporte hacia los servicios hospitalarios de Verviers para examen médico).
 
-
 ## Página 24
+
 
 ### 2.3.	 Víctimas mortales, heridos y daños materiales
 ### 2.3.1.	 Pasajeros y terceros, personal, incluidos los contratistas
@@ -628,8 +635,8 @@ La parte trasera y el bajo del vagón 12 sufrieron
 daños leves.
 Foto 2.3.3 b: daños en la parte trasera del vagón 12
 
-
 ## Página 25
+
 
 La locomotora sufrió daños leves
 en la parte delantera.
@@ -651,8 +658,8 @@ En consecuencia, según la información recibida del gestor de infraestructura:
 • 12 trenes de viajeros de servicio internacional y Thalys tuvieron un retraso acumulado de 35 minutos
 • 1 tren de mercancías de B Cargo tuvo un retraso de 15 minutos.
 
-
 ## Página 26
+
 
 ### 2.4.	 Circunstancias externas
 ### 2.4.1.	 Condiciones meteorológicas
@@ -667,10 +674,12 @@ Longitud: 5.811°
 Latitud: 50.5685°
 Figura 2: Situación geográfica
 
-
 ## Página 27
 
+
+
 ## Página 28
+
 
 ## 3.	Informe de las investigaciones y las investigaciones
 ### 3.1.	Resumen de los testimonios
@@ -692,8 +701,8 @@ de emergencia.
 Los testigos declaran haber oído un ruido inusual y haber abierto una puerta exterior tras la parada para constatar el descarrilamiento y la rotura del enganche. Uno de ellos llama al Control del Tráfico y al RDV e informa al conductor. Después se ocupan de los viajeros.
 Un testigo declara haber visto un coche en la parte trasera del tren E507 balancearse y descarrilar.
 
-
 ## Página 29
+
 
 ### 3.2.	 Sistema de gestión de la seguridad
 La Directiva 2004/49/CE del 29/4/2004 sobre la seguridad de explotación prescribe que todo gestor de infraestructura y toda empresa ferroviaria deben establecer un Sistema de Gestión de la Seguridad (SGS) que garantice el control de todos los riesgos creados por sus actividades.
@@ -715,8 +724,8 @@ El concepto de sistema de gestión de la seguridad tiende a evolucionar en funci
 adquirida por el sector. El análisis tiene en cuenta los SGS aplicables a finales de 2010. Hemos intentado 
 incluir de forma sumaria las evoluciones en curso.
 
-
 ## Página 30
+
 
 ### 3.2.1.	 Sistema de gestión de la seguridad SNCB
 ## 3.2.1.1.	
@@ -752,6 +761,7 @@ un papel esencial.
 
 ## Página 31
 
+
 ### La gestión de riesgos en proyectos y cambios
 Todo proyecto o cambio puede introducir nuevos peligros o influir en el nivel de riesgo existente de forma positiva o negativa y puede tener implicaciones para otras disciplinas. 
 Dado que los actores de los proyectos o cambios pueden ser diferentes de los actores de las actividades cotidianas, se impone un enfoque multidisciplinar y sistemático para lograr una gestión eficaz de la seguridad.
@@ -765,8 +775,8 @@ El enfoque del concepto de gestión de riesgos se realiza en tres etapas:
 Figura 4: gestión del cambio - gestión de riesgos (NMBS, Solicitud del certificado de seguridad)
 En la situación en la que la SNCB ejerce el control completo sobre la modificación, la SNCB gestiona el análisis de riesgos y toma las decisiones necesarias para mejorar el nivel de seguridad.
 
-
 ## Página 32
+
 
 ### La gestión de los riesgos principales
 Los riesgos principales han sido identificados, estimados y evaluados en 8 tipos de accidentes:
@@ -787,8 +797,8 @@ Estas misiones de auditoría son realizadas por el servicio 'Auditoría Interna'
 La documentación se pone a disposición del personal de mantenimiento a través de un sistema informático.
 Se programan reuniones de trabajo.
 
-
 ## Página 33
+
 
 ### 3.2.1.5.	 Formación de los maquinistas
 Los maquinistas siguen una formación básica denominada «formación fundamental» en el seno de la SNCB.
@@ -810,6 +820,7 @@ También se realizan formaciones complementarias cuando un maquinista debe circu
 
 ## Página 34
 
+
 ### 3.3.	 La normativa vigente
 ### 3.3.1.	 Normas y normativa pública comunitaria y nacional aplicables al material rodante
 ## 3.3.1.1.	
@@ -828,8 +839,8 @@ La Directiva 96/46/CE y las ETI no se aplican a las obras de renovación o a las
 « en caso de adaptación, el adjudicador presenta ante el Estado miembro interesado un expediente que describe el proyecto. El Estado miembro examina dicho expediente y, teniendo en cuenta la estrategia de implementación indicada en el capítulo 7 de la ETI anexa, decide (en su caso) si la importancia de las obras hace necesaria una nueva autorización de puesta en servicio a los efectos del artículo 14 de la Directiva 96/48/CE … » 
 El capítulo 6 establece que la evaluación de la conformidad se realiza por un organismo notificado designado por el fabricante. Los procedimientos de evaluación a aplicar para el subsistema «material rodante» son los denominados módulos SB, SD, SF o H2.
 
-
 ## Página 35
+
 
 ### 3.3.1.5.	 Directiva europea 2004/49 
 Directiva sobre la seguridad de la explotación ferroviaria y transpuesta a la legislación belga de 19/12/2006, que prescribe que la empresa ferroviaria es responsable de su parte del sistema ferroviario y de la seguridad de su explotación.
@@ -846,6 +857,7 @@ Mientras no se haya hecho efectiva la extensión del ámbito de aplicación de l
 Un Estado miembro podrá no aplicar las ETI nuevas o revisadas adoptadas conforme al apartado 2 en el caso de proyectos que se encuentren en una fase avanzada de desarrollo o que sean objeto de un contrato en ejecución en el momento de la publicación del grupo de ETI correspondiente.
 
 ## Página 36
+
 
 ### 3.3.1.7.	 Ley del 26/01/2010, que transpone la Directiva 2008/57/CE
 ### Capítulo 5
@@ -871,10 +883,10 @@ Durante la producción: el módulo D tiene por objeto la evaluación de la confo
 • aplica la marca «CE»
 Al final de la producción: el módulo E tiene por objeto la evaluación de la conformidad con el tipo sobre la base de la garantía de calidad del producto. El fabricante aplica un sistema de calidad aprobado para la inspección y las pruebas del producto antes de la puesta en el mercado, declara la conformidad con el tipo aprobado y aplica la marca «CE».
 ### 3.3.1.9.	 El Real Decreto del 16 de enero de 2007
-Designa al SSICF como Autoridad Nacional de Seguridad y define los requisitos de seguridad que deben satisfacer el gestor de infraestructura y las empresas ferroviarias. 
-
+Designa al SSICF como Autoridad Nacional de Seguridad y define los requisitos de seguridad que deben satisfacer el gestor de infraestructura y las empresas ferroviarias.
 
 ## Página 37
+
 
 ### 3.3.2.	 Normas y reglamentación pública comunitaria y nacional aplicables a los maquinistas
 ### 3.3.2.1.	 Real Decreto del 26 de abril de 2009, que modifica el Decreto del 18 de enero de 2008
@@ -897,6 +909,7 @@ El Real Decreto define también la duración de la formación y la asimilación 
 - al menos 3 controles de la asimilación de las materias, equitativamente repartidos a lo largo de la duración de la formación.
 
 ## Página 38
+
 
 ### 3.3.2.2.	 Decreto ministerial de 9 de junio de 2009
 El presente decreto ministerial, por el que se adopta el pliego de condiciones del personal de seguridad, era aplicable a todo el personal de la infraestructura y de las empresas que desempeñaba una función de seguridad definida en dicho D.M. en el momento del accidente.
@@ -942,8 +955,8 @@ incidente/accidente laboral, así como tras cualquier interrupción del trabajo 
 que involucre a personas o a una interrupción de al menos 30 días.
 Los exámenes médicos los realiza el CPS (Centro de Prevención y Salud) que posea una certificación.
 
-
 ## Página 39
+
 
 ### Acompañante de tren
 Se expide un certificado de acompañante de tren por cuenta de una empresa ferroviaria, 
@@ -959,8 +972,8 @@ ciones particulares relativas a determinadas líneas o tramos,
 Deben cumplir asimismo los criterios médicos y psicológicos definidos en dicho D.M. 
 del 9/09/2009.
 
-
 ## Página 40
+
 
 ### 3.3.3.	 Otras Normas, tales como las normas de explotación, las instrucciones 
 locales, los requisitos aplicables al personal, las prescripciones 
@@ -1005,6 +1018,7 @@ El RGE 611 y sus dos suplementos, publicados respectivamente por los dictámenes
 y 5 I-AR/2013, trata en el punto 6.4 del extracto diario de estación (similitud con las BNX).
 
 ## Página 41
+
 
 ### 3.3.3.4. Folleto M22-2 de 1977: Estudio y conocimiento de vía
 
@@ -1057,6 +1071,7 @@ Una indicación de velocidad presentada por un panel o una señal selectiva de a
 Independientemente de la tecnología utilizada para el anuncio y el origen de la zona a velocidad reducida, la subida de velocidad está autorizada por una indicación de velocidad subida:
 
 ## Página 42
+
 
 • ya sea sobre una gran señal de parada;
 • ya sea sobre un panel de fin de zona o sobre un panel de velocidad de referencia;
@@ -1111,6 +1126,7 @@ Cuando un frenado es necesario, debe comenzar a más tardar en la señal de adve
 
 ## Página 43
 
+
 ### 3.4.	 Funcionamiento del material rodante y de las instalaciones técnicas
 ### 3.4.1.	 Sistema de señalización y de control-comando, incluidos los registros de los registradores automáticos de datos
 El puesto de señalización EBP del Bloque 53 es un puesto en el que las órdenes de mando de desvíos, 
@@ -1146,8 +1162,8 @@ En la pantalla de vista general, se representan las dos primeras letras de la id
 cuando esta identificación está compuesta por más de dos letras.
 Las imágenes consecutivas de la pantalla son una representación EBP de la evolución cronológica.
 
-
 ## Página 44
+
 
 ### Imagen de las 10h26
 El tren E507 se acerca a la estación de Pepinster y circula por la vía contraria (vía B - línea roja).
@@ -1167,8 +1183,8 @@ La señal CX-I.53 está controlada abierta, la señal KX-I.53 está controlada e
 El control del desvío está confirmado por una línea continua.
 El tren E5280 está parado delante de la señal K-I.53 (línea roja, vía B = sección ocupada).
 
-
 ## Página 45
+
 
 ### Imagen de las 10h28
 El tren E507 atraviesa la estación de Pepinster y pasa por la señal CX-I.53: ocupa el CV2 antes de 
@@ -1195,8 +1211,8 @@ El tren E5280 sigue parado delante de la señal K-I.53 (línea roja, vía B).
  CV = Circuito de Vía. El CV es un aparato de detección eléctrica colocado en la vía destinado a detectar la presencia de un tren en la 
 sección cubierta por este circuito de vía.
 
-
 ## Página 46
+
 
 ### Estudio:
 Los datos de la pantalla EBP del día del accidente indican que todo transcurre normalmente 
@@ -1305,6 +1321,7 @@ KYGS
 de la señal
 
 ## Página 47
+
 
 28/01/2011 
 TlgIN
@@ -1426,8 +1443,8 @@ y ambos
 están en
 concordancia
 
-
 ## Página 48
+
 
 28/01/2011 
 Error
@@ -1500,8 +1517,8 @@ Durante el estudio de los documentos, no hemos encontrado rastro de las funcione
 Se registra una pérdida de control del cambio de vías 02BI durante el paso del tren E507 entre
 las 10h28 y las 10h28m59s.
 
-
 ## Página 49
+
 
 ### 3.4.1.2.	 Inspección y mantenimiento de la vía
 ### Ficha de trabajo V705 del 8/1/2010 
@@ -1530,8 +1547,8 @@ Medidas de la vía directa del cambio de vías 02BI:
 | 3 | POD+410m , | 1451 | 9 - |
 | 4 | POD+820m , | 1450 | 9 - |
 
-
 ## Página 50
+
 
 ### Medidas de la vía el 29 de enero de 2011
 El cambio de vías 02BI se mide una segunda vez por Infrabel en presencia del SPC y del perito judicial.
@@ -1563,6 +1580,7 @@ no ha permitido detectar anomalías.
 
 ## Página 51
 
+
 Observaciones:
 1. Para la verificación del radio bajo la cuerda de 10 m, la cabeza de la cuerda debe situarse a 10 m de la punta del cambio. Los daños en el cambio, causados por el descarrilamiento, no permiten utilizar este punto, por lo que se ha tomado como punto de referencia el talón del cambio.
 2. PTR V01 fascículo 2 Art. 17: «El control del efecto de oscilación en las piezas de madera del motor se realiza primero visualmente durante el paso de un tren (1M1 y 1M2). El resultado del control se completa posteriormente en la tabla con la mención OK o NOK». La circulación es imposible y, por consiguiente, la verificación no pudo llevarse a cabo. No hay rastros de barro ni presencia de polvo blanquecino.
@@ -1579,8 +1597,8 @@ Según la información obtenida de Infrabel,
 Las normas UIC 527-1 prevén las siguientes dimensiones (tabla 2)
 Tabla 2: la ejecución de la sucesión de 2 curvas de sentido opuesto sin alineamiento se realiza conforme a la Norma UIC 527-1
 
-
 ## Página 52
+
 
 Según las normas UIC, para una curva y una contracurva de igual radio y un ancho de vía de 1440 a 1450, no es necesario ningún alineamiento intermedio cuando los radios son superiores a 200 m. Según el cálculo de Infrabel, el alineamiento es de 7,346 m.
 Tras el accidente, se midió el radio de curvatura del cambio 02BI en presencia del SPC, centrándose en el punto del descarrilamiento, sucesivamente con una cuerda de 10 metros y luego con una cuerda de 20 metros:
@@ -1620,6 +1638,7 @@ Tabla 3: historial del mantenimiento del TJD
 
 ## Página 53
 
+
 Los controles consisten en:
 • la medición de diversas cotas;
 • diversos exámenes visuales: se realizan mediciones si es necesario.
@@ -1642,8 +1661,8 @@ Foto 3.4.1/2 b) corrosión del corazón de cruce
 • No hay ninguna evidencia aparente de defectos del aparato.
 • No hay ninguna evidencia de descarrilamiento en el punto de aguja.
 
-
 ## Página 54
+
 
 ### 3.4.1.3. Las huellas de descarrilamiento en la vía
 
@@ -1673,8 +1692,8 @@ Aproximadamente 4 m antes de la punta del punto de aguja 02BI
 • huellas de ruedas sobre la junta de la punta de la aguja cerrada,
 • huellas de ruedas sobre la junta de la punta de la aguja abierta.
 
-
 ## Página 55
+
 
 ### Zona 2, zona entre los AW02BI y 04AI
 
@@ -1694,8 +1713,8 @@ Foto 3.4.1/3 f): segundo descarrilamiento (marca amarilla)
 
 Foto 3.4.1/3 e) segundo descarrilamiento
 
-
 ## Página 56
+
 
 En el lado opuesto, huellas de rueda en el interior de la vía A sobre las cabezas de los pernos de anclaje del hilo derecho (foto 3.4.1/3 f).
 
@@ -1727,6 +1746,7 @@ Foto 3.4.1/3g 1e: el final de las huellas hasta el lugar de la colisión
 
 ## Página 57
 
+
 ### 3.4.1.4. Estudio del sistema de registro del material rodante
 Los datos del tren E507 se registran de forma electrónica mediante un registrador de tipo TELOC AS V 2.21 y pueden analizarse con un software especializado.
 El día del accidente, la cinta de datos TELOC fue introducida por el perito judicial.
@@ -1752,29 +1772,28 @@ Registro de señales digitales del material rodante
 • FU_CG_<2.5BAR (I/O), frenado de emergencia debido a una pérdida de presión de la conducción general.
 El sistema TELOC no permite el registro de todos los comandos o impulsos. Por lo tanto, para obtener detalles sobre los comandos, hay que analizar la curva de velocidad, teniendo en cuenta la imprecisión de los registros.
 
-
 ## Página 58
 
-Tabla 4: Recopilación de los registros TELOC, trayecto Lieja-Pepinster del 28/1/2011
-|  | Hora | Duración | Posición** | Velocidad (km/h) | Acción |  |
-|  | 10 h 19 min 05 s |  | Lieja Guillemins - | 0 | salida |  |
-| 1 | 10 h 19 min 05 s - 10 h 20 min 50 s | 1 min 45 s |  | 0 a 120 | tracción | aceleración de 0 a 100 km/h |
-| 2 | 10 h 20 min 50 s - 10 h 26 min 45 s | 5 min 55 s |  | = 120 | tracción |  |
-|  | 10 h 26 min 45 s - 10 h 26 min 56 s | 11 s |  | = 120 | nulo |  |
-| 3 | 10 h 26 min 56 s - 10 h 27 min 24 s | 28 s | aproximación zona de obras | 120 a 52 | frenado |  |
-|  | 10 h 27 min 24 s - 10 h 27 min 57 s | 33 s | zona de obras | 52 a 38 | Nulo | desaceleración por gravedad |
-|  | 10 h 27 min 57 s - 10 h 29 min 07 s | 1 min 10 s | zona de obras | 38 a 42 | tracción | corrección de velocidad |
-|  | 10 h 29 min 07 s - 10 h 29 min 50 s | 43 s | zona de obras | 42 a 38 | nulo | desaceleración por gravedad |
-| 5 6 7 | 10 h 29 min 50 s - 10 h 35 min 22 s | 5 min 32 s | salida de la zona de obras | 38 a 95 | tracción | con 2 períodos de aceleración de 40 a 60 km/h y de 60 a 95 km/h |
-|  | 10 h 35 min 22 s - 10 h 35 min 30 s | 8 s |  | = 95 | nulo |  |
-| 8 | 10 h 35 min 30 s - 10 h 35 min 50 s | 20 s | aproximación a la estación de Pepinster | 95 a 57 | frenado |  |
-|  | 10 h 35 min 50 s - 10 h 37 min 14 s | 1 min 24 s |  | 57 a 33,4 | nulo | desaceleración por gravedad |
-| 9 | 10 h 37 min 14 s - 10 h 38 min 05 s | 52 s | Pepinster | 33,4 a 46,27 | tracción | Corrección de velocidad |
-| 10 | 10 h 38 min 06 s |  |  | ruptura de la conducción general | frenado de emergencia | desaceleración hasta la parada total del tren |
+Tabla 4: Registro de las grabaciones TELOC, trayecto Liège Pepinster del 28/1/2011
+|  | Hora | Duración | Posición** | Velocidad(km/h) | Acción |  |
+|  | 10h19’05’’ |  | Liège Guillemins - | 0 | salida |  |
+| 1 | 10h19’05’’ 10h20’50’’ - | 1’45’’ |  | 0ä120 | tracción | aceleración de0à100km/h |
+| 2 | 10h20’50’’ 10h26’45’’ - | 5’55’’ |  | =120 | tracción |  |
+|  | 10h26’45’’ 10h26’56’’ - | 11’’ |  | =120 | nil |  |
+| 3 | 10h26’56’’ 10h27’24’’ - | 28’’ | aproximaciónzona de obras | 120æ52 | frenado |  |
+|  | 10h27’24’’ 10h27’57’’ - | 33’’ | zonade obras | 52æ38 | Nil | ralentización porgravedad |
+|  | 10h27’57’’ 10h29’07’’ - | 1’10’’ | zonade obras | 38ä42 | tracción | correccióndevelocidad |
+|  | 10h29’07’’ 10h29’50’’ - | 43’’ | zonade obras | 42æ38 | nil | ralentización porgravedad |
+| 5 6 7 | 10h29’50’’ 10h35’22’’ - | 5’32’’ | salidazona de obras | 38ä95 | tracción | con2periodos de aceleración de40à60km/h yde60à95km/h |
+|  | 10h35’22’’ 10h35’30’’ - | 8’’ |  | =95 | nil |  |
+| 8 | 10h35’30’’ 10h35’50’’ - | 20’’ | aproximacióna la estaciónde Pepinster | 95æ57 | frenado |  |
+|  | 10h35’50’’ 10h37’14’’ - | 1’24’’ |  | 57æ334 , | nil | ralentización porgravedad |
+| 9 | 10h37’14’’ 10h38’05’’ - | 52’’ | Pepinster | 334ä4627 , , | tracción | Correccióndevelocidad |
+| 10 | 10h38’06’’ |  |  | ruptura conducta general | frenado de emergencia | ralentizaciónhasta la parada total deltren |
 Tabla 5: Análisis del trayecto del 28/1/2011, datos ART, Teloc y PSS (plan de señalización esquemático)
 
-
 ## Página 59
+
 
 En la primera columna de la tabla 5 se encuentran los puntos de paso marcados con un recuadro rojo en la tabla 4.
 Tabla 6: Recopilación de los registros TELOC, trayecto Lieja-Pepinster, zoom del 28/1/2011 a partir de las 10 h 27
@@ -1792,6 +1811,7 @@ Del estudio del registro TELOC (tabla 4), se constata que la aceleración se des
 La velocidad máxima del convoy registrada antes del frenado de emergencia es de 46 km/h.
 
 ## Página 60
+
 
 ### 3.4.2. El material rodante
 ### 3.4.2.1. Composición de los trenes E507 y E5680
@@ -1829,8 +1849,8 @@ El coche 10 está equipado con 4 topes con topes de tipo A.
 • También hay marcas de golpes en el lado derecho y en el borde exterior derecho del tope.
 • Dos pernos sobresalen y les faltan las tuercas de fijación (en la parte trasera).
 
-
 ## Página 61
+
 
 Foto 3.4.2/2 Tope trasero izquierdo v10
 Foto 3.4.2/1 Tope trasero derecho v10
@@ -1859,8 +1879,8 @@ El tope del tope trasero derecho tiene la esquina inferior derecha doblada en el
 
 Foto 3.4.2/4 Tope del tope delantero derecho v11
 
-
 ## Página 62
+
 
 ### Coche v12 matrícula 12828, tipo I11
 
@@ -1897,8 +1917,8 @@ El Organismo de Investigación verificó la conformidad de los topes del tope co
 
 Sobre la base de la Norma UIC 527-1 y sus fórmulas, la SNCB representó gráficamente la misma en el plano 100-6-235 M (a continuación figura 7) que permite determinar de manera práctica el ancho mínimo de los topes del tope en función de la distancia entre ejes del vehículo y de la distancia del pivote del bogie al tope del tope.
 
-
 ## Página 63
+
 
 Figura 7: plano 100-6-235 M
 
@@ -1909,6 +1929,7 @@ Figura 8: plano C – 6 – 073M
 Al comparar el ancho del tope con el gráfico de la figura 7, el estudio confirma que se encuentran dentro de las normas UIC.
 
 ## Página 64
+
 
 ### Control del ancho de las plataformas de topes:
 El control in situ de las dimensiones de las plataformas de tope y la verificación de la conformidad con los planos demuestran que el ancho de las plataformas de tope es conforme a las tolerancias de la SNCB y a las normas UIC, y que las plataformas instaladas, tanto en el coche I10 como en el coche I11, presentan un margen de ancho (respectivamente de 55 mm y de 65 mm en relación con las normas UIC): según la Norma UIC 527-1 y en las condiciones base (es decir, curva en S pura de radio de 190 m, sin tramo recto y ancho de vía de 1458 mm) el solapamiento mínimo de dos plataformas en contacto durante la circulación es de 25 mm.
@@ -1977,8 +1998,8 @@ La SNCB ha establecido un procedimiento de seguimiento interno para asegurar que
 Los valores de las alturas de los topos en un tiempo se comparan con valores objetivo internos de la SNCB y se registran para permitir una gestión del mantenimiento y asegurar la trazabilidad.
 Durante los registros, los operadores y/o los responsables pueden así visualizar la evolución de los valores medidos.
 
-
 ## Página 65
+
 
 ### 3.4.2.3.	 Verificaciones de las ruedas
 Verificación de los anchos entre las caras internas de las ruedas de un eje:
@@ -2177,8 +2198,8 @@ v10
 fichas de medida GTOR
 Los espesores de las rodaduras son conformes a las normas UIC así como a los valores objetivo de la SNCB, que son más estrictos que las normas UIC y que permiten una evaluación del estado de los órganos.
 
-
 ## Página 66
+
 
 ### Verificación del perfil de la rodadura
 coche
@@ -2316,6 +2337,7 @@ Los tres coches implicados en el descarrilamiento han sufrido las inspecciones o
 
 ## Página 67
 
+
 ### 3.4.2.5.	 Verificaciones de los elementos de acoplamiento
 Los acoplamientos de los coches I10 e I11 se ejecutan de la misma manera y según el esquema siguiente. 
 Figura 9: acoplamiento I10 según «Bedieningsvoorschriften 02/1 rev. 1 2010/10/1»
@@ -2342,8 +2364,8 @@ tensor está deformado.
 Foto 3.4.2/11: Acoplamientos v10 delanteros sin anillas
 Foto 3.4.2/12: Acoplamientos v10 traseros con anillas
 
-
 ## Página 68
+
 
 ### Coche v11, tipo I10 Kmod
 Acoplamiento delantero: el tensor no utilizado, no provisto de anillas de separación.
@@ -2371,8 +2393,8 @@ No hay huellas de golpes en las caras verticales izquierda y derecha de la abert
 de guía. Por el contrario, los bordes horizontales están ligeramente deformados.
 Foto 3.4.2/15 los daños en la parte delantera de la 1350
 
-
 ## Página 69
+
 
 ### Estudio de las instrucciones del coche I10
 En el expediente «Bedieningsvoorschriften – Koppeling tussen de rijtuigen - Technische documen-
@@ -2406,8 +2428,8 @@ estaban montados conforme a las instrucciones:
 | ladoizquierdodetrás, ruedas2 –4 | ladoizquierdodelantero, ruedas6 –8: | ladorochodelantero, ruedas5 -7: | ladorochodetrás, ruedas1 –3: |
 | -soportesintactos -amortiguadordesmontado lado bogie -amortiguadorintacto | -soporteladobogie doblado -amortiguadorfijado lado bogie y lado bastidor -eje de la rótula del amortiguador lado bastidor doblado | -soportesintactos -amortiguadorfijado lado bogie y lado bastidor -eje del amortiguador doblado y depósito aplastado | -soportesintactos -amortiguadorfijado lado bastidor -amortiguadorintacto |
 
-
 ## Página 70
+
 
  Observaciones:
 • 2 amortiguadores habían sido parcialmente desmontados para permitir la evacuación del coche
@@ -2433,6 +2455,7 @@ Figura 9: Plano 673-2-125M para el montaje de los amortiguadores antirrolido
 
 ## Página 71
 
+
 ### Control del montaje de los amortiguadores
 Los 4 amortiguadores del vagón v11 fueron montados de la misma manera:
 • lado de la caja (1):
@@ -2456,8 +2479,8 @@ Foto 3.4.2/17 Amortiguadores: en verde el montaje según plano, en rojo el monta
 Una simulación teórica del paso de un vagón de tipo I10 en una curva de 215 m demuestra que - a pesar de la compresión de 40 mm - queda suficiente espacio para permitir un movimiento libre del pistón. Por consiguiente, la compresión de 40 mm no tuvo ninguna influencia sobre el funcionamiento de los amortiguadores.
 Figura 10: simulación teórica diagrama vertical de la inclinación del amortiguador durante el paso por una curva
 
-
 ## Página 72
+
 
 Durante la explotación, durante un paso por una curva, la pretensión sobre el eje de la rótula aumenta o disminuye en función de la posición del bogie y de la inclinación de la caja. La tensión es función de la velocidad y del radio de la curva. Para evitar un deterioro acelerado de la rótula o fricciones anormales entre el pistón y su cámara, la tensión máxima autorizada por el fabricante es de 12°.
 Según la simulación teórica y en una curva de 215 m, una inclinación de la caja de 10° habría dado una tensión de 15° en la rótula superior a los 12° autorizados por el fabricante.
@@ -2472,8 +2495,8 @@ La cabeza del pistón del amortiguador de la posición 2-4 estaba arañada y hay
 Figura 11 Resultados del banco de ensayos
 Foto 3..4.2/18 Amortiguador, cabeza del pistón rayada
 
-
 ## Página 73
+
 
 | Posición | Montaje | inspección visual externa | pruebas en banco de ensayos KONI | prueba manual de la rótula | inspección visual interna |
 | Delantero izquierdo | No conforme | eje doblado | bueno | bueno | bueno |
@@ -2496,6 +2519,7 @@ El organismo de investigación constata que el certificado de Belgorail contení
 
 ## Página 74
 
+
 ### 3.4.2.9. Modificaciones en los talleres de la SNCB
 El vagón v11 descarrilado y que entró en colisión con el tren detenido es un vagón de tipo I10K-mod con la matrícula 12755.
 También fue modificado en los talleres de la SNCB.
@@ -2506,8 +2530,8 @@ En consecuencia y para permitir el montaje, los operarios tuvieron que colocar l
 Durante la inspección del vagón v11 en los talleres de Cuesmes, el Organismo de Investigación obtuvo un documento «Descripción y Funcionamiento» de los bogies (01A-01/27 Rev.18 del 24/5/10) que describe las especificidades para los I10Kmod: este documento está previsto en los procedimientos ISO.
 Este documento no existía en los talleres donde se transformaron los vagones. No había procedimientos de control escritos y actualizados disponibles.
 
-
 ## Página 75
+
 
 ### 3.5. Documentación del sistema operativo
 3.5.1. Medidas adoptadas por el personal para el control del tráfico y la señalización
@@ -2530,8 +2554,8 @@ No hay nada que señalar.
 Se estableció un perímetro de seguridad por parte de la Policía de Ferrocarriles. Sin embargo, agentes de Infrabel circulaban libremente por la escena del accidente. Se desplazaron objetos sin un propósito concreto, sin autorización ni instrucciones específicas mientras los investigadores llevaban a cabo su investigación.
 Una pieza de convicción (trozo de plato de tope roto) fue recuperada sin que se hubiera fotografiado el lugar donde se encontró, ni siquiera se anotó la ubicación exacta.
 
-
 ## Página 76
+
 
 ### 3.6. Interfaz hombre-máquina-organización
 ### 3.6.1. Tiempo de trabajo del personal implicado
@@ -2547,6 +2571,7 @@ La reincorporación al servicio tras varios días de suspensión debido a la sup
 La presencia de trabajos a lo largo de la vía, que implican inevitablemente retrasos en los horarios habituales del tren, también podría haber ejercido un estrés, aunque estos retrasos fueran anunciados: los viajeros y el maquinista estaban informados.
 
 ## Página 77
+
 
 ### 3.6.3.	 Concepción de los equipos que tienen impacto en la interfaz hombre-máquina 
 ### 3.6.3.1.	 Aumento de la velocidad
@@ -2592,8 +2617,8 @@ El día del accidente, el maquinista confirmó utilizar este truco y que contaba
 postes de catenaria superados cuando se produjo el frenado de emergencia (6 postes de catenaria 
 después del panel de velocidad de referencia a la salida de la estación de Pepinster).
 
-
 ## Página 78
+
 
 3.6.3.3.	 Información a disposición del maquinista 
 Al inicio de su servicio, el maquinista del E507 encuentra en la cabina el documento 
@@ -2614,8 +2639,8 @@ El tiempo de recorrido se calcula a partir de las velocidades de referencia de l
 Corresponde al maquinista gestionar la velocidad del convoy para respetar el tiempo de 
 recorrido y las horas de parada previstas en las distintas estaciones.
 
-
 ## Página 79
+
 
 ### 3.6.4.	 Reconstrucción del accidente 
 Se llevó a cabo una simulación práctica, en presencia del perito judicial; se filmaron los movimientos 
@@ -2652,19 +2677,19 @@ el paso por la curva.
 ## Página 80
 
 ### Comparaciones entre diferentes bandas TELOC
-El Organismo de Investigación realizó un muestreo aleatorio para verificar el comportamiento de diferentes conductores de tren que circulaban por la línea L37, con el fin de determinar su comportamiento en el punto del panel de velocidad de referencia de 120 km/h. Estos recorridos se realizaron sin cambio de régimen: los trenes circulaban por la vía A.
-| Conductor | velocidad (km/h) al pasar por Pepinster | tiempo (s) entre CXI53 y aceleración | distancia (m) recorrida | distancia (m) tras el panel de 120 km/h | cumplimiento de las normas |
-| 1 | 97,29 | 41 | 1131 | 872 | sí |
-| 2 | 101,54 | 69 | 1950 | 1691 | sí |
-| 3 | ±100 | sin aceleración | - | - | sí |
-| 4 | ±95 | sin aceleración | - | - | sí |
-| 5 | 101,95 | 30 | 849 | 590 | sí |
-| 6 | 97,61 | 24 | 369 | 110 | no |
+El Organismo de Investigación realizó un muestreo aleatorio para verificar el comportamiento de diferentes conductores de tren circulando por la L37, con el fin de determinar su comportamiento en la altura del panel de velocidad de referencia de 120 km/h. Estos recorridos se realizan sin cambio de régimen: los convoyes circulan por la vía A.
+| Conductor | velocidad(km/h) depaso por Pepinster | tiempo(s) entre CXI53 ‑. yaceleración | distancia(m) recorrida | distancia(m) después del panel de 120km/h | cumplimiento de reglas |
+| 1 | 9729 , | 41 | 1131 | 872 | sí |
+| 2 | 10154 , | 69 | 1950 | 1691 | sí |
+| 3 | ±100 | sinaceleración | - | - | sí |
+| 4 | ±95 | sinaceleración | - | - | sí |
+| 5 | 10195 , | 30 | 849 | 590 | sí |
+| 6 | 9761 , | 24 | 369 | 110 | no |
 | 7 |  |  |  |  |  |
-En función de los estudios y cálculos realizados por el OE, parece que un conductor aceleró demasiado pronto, es decir, antes de que la totalidad del tren hubiera superado el panel de referencia de velocidad. Este tipo de estudio no es realizado por la empresa ferroviaria.
-
+En función de los estudios y cálculos realizados por el OE, parece que un conductor aceleró demasiado pronto, es decir, antes de que la totalidad del convoy hubiera pasado el panel de referencia de velocidad. Este tipo de estudio no es realizado por la empresa ferroviaria.
 
 ## Página 81
+
 
 ### 3.7.	 Eventos anteriores de naturaleza comparable
 ### 3.7.1.	 Amsterdam Centraal
@@ -2676,8 +2701,8 @@ El informe concluye que la empresa ferroviaria estimó erróneamente que la expl
 Descarrilamientos de trenes de viajeros en Stuttgart el 30/9/10, 24/7/12 y 29/9/12 al pasar por 2 puntos de aguja que formaban una curva y una contracurva con radio reducido del orden de magnitud de 200 m. En los tres casos, los trenes estaban en movimiento empujado y circulaban a velocidad reducida, inferior a 40 km/h.
 La causa de los tres descarrilamientos sería una combinación de diferentes factores que provocaron un enganche de topes entre coches de longitudes diferentes (el vagón restaurante medía 1,1 m más que los coches adyacentes).
 
-
 ## Página 82
+
 
 ## 4.	Análisis y conclusiones
 ### 4.1.	 Informe final de la cadena de eventos
@@ -2695,6 +2720,7 @@ La velocidad del tren sigue aumentando (46 km/h) hasta el momento en que se inic
 
 ## Página 83
 
+
 La pérdida del control del desvío corresponde al primer punto de descarrilamiento, que se encuentra en la aguja izquierda del desvío, es decir, en el lado exterior de la curva.
 En el lado opuesto, las ruedas caen entre el riel y la aguja abierta. En este punto se encuentran fragmentos de pintura procedentes de un tope de amortiguación.
 En función de los datos recopilados y de nuestro análisis, nuestro escenario más probable es que se produzca un aumento de la aceleración mientras el tren se encuentra en la curva en S formada por dos desvíos. Durante el aumento de la aceleración, el movimiento impulsor genera importantes fuerzas laterales, suficientes para provocar el levantamiento de las ruedas, lo que provoca un primer descarrilamiento y un (inicio de) enganche de topes entre los vagones situados en la posición 10 y en la posición 11.
@@ -2710,8 +2736,8 @@ La unidad múltiple detenida es empujada fuera de la vía y retrocede unos 10 m.
 Durante el accidente, solo el conductor del tren E5280 resultó ligeramente herido en la mano. 9 pasajeros fueron trasladados para su examen al hospital de Verviers y dieron de alta el mismo día.
 El accidente causó daños al material rodante y a la infraestructura, así como retrasos en la red ferroviaria.
 
-
 ## Página 84
+
 
 ### 4.2.	 Discusión
 ### 4.2.1.	 La línea temporal
@@ -2761,8 +2787,8 @@ señal KX-I.53
 pk 121005
 parada v1
 
-
 ## Página 85
+
 
 ### 4.2.2.	 Identificación de los principios de seguridad asociados a la situación
 operativa
@@ -2789,6 +2815,7 @@ El conductor no se da cuenta de que una parte del tren se ha descarrilado. Conti
 • Mitigación 3: la intervención de los servicios de emergencia es rápida y eficaz
 
 ## Página 86
+
 
 ### 4.2.3.	 Análisis del funcionamiento y de los fallos de los principios de control
 ## 4.2.3.1.	
@@ -2831,8 +2858,8 @@ Las inspecciones del material rodante y las verificaciones de documentos han lle
 • los coches I10 e I11 son del tipo RIC y son conformes a las normas UIC en lo que respecta a los componentes estudiados (bogies, órganos de choque, …)
 • los mantenimientos, visitas, inspecciones necesarias y previstas se han realizado bien en los 3 últimos coches
 
-
 ## Página 87
+
 
 ### Los topes y las bases de tope
 Las inspecciones de los órganos de choque y las verificaciones de documentos han llevado a las siguientes constataciones:
@@ -2857,6 +2884,7 @@ Un enganche aflojado aumenta el riesgo de rotura del enganche. Este riesgo está
 
 ## Página 88
 
+
 Un acoplamiento insuficientemente apretado es probablemente una causa agravante en la medida en que dicho acoplamiento no compensaría las fuerzas ejercidas durante la aceleración.
 Un acoplamiento demasiado apretado aumenta la rigidez del acoplamiento mediante la compresión de los platos de tope: puede ser no solo causa de incomodidad para los viajeros o de desgaste acelerado de los platos de tope, sino que, además, no permite compensar correctamente los golpes.
 Este riesgo está identificado por la SNCB.
@@ -2880,8 +2908,8 @@ Todas las condiciones de señalización se respetan y todas las señales funcion
 Se impone una limitación de velocidad a 40 km/h para permitir el paso por los puntos de aguja a la salida de la estación de Pepinster.
 Se identifica el riesgo de descarrilamiento debido a una velocidad excesiva en los puntos de aguja (una curva en S).
 
-
 ## Página 89
+
 
 4.2.3.4. el maquinista respeta la señalización lateral
 Conjunto de la secuencia:
@@ -2914,6 +2942,7 @@ La cabeza del tren ha pasado el panel de velocidad. El maquinista no tiene infor
 
 ## Página 90
 
+
 4.2.3.5. el conductor respeta las limitaciones de velocidad
 El análisis de las grabaciones del TELOC muestra que el conductor respetó las limitaciones de velocidad durante el trayecto.
 El mando de una aceleración se realiza inclinando una palanca. El aumento de velocidad asociado es difícil de estimar. Es la experiencia y la práctica del conductor las que le permiten estimar la inclinación que aplicar sobre la palanca y el tiempo necesario.
@@ -2931,8 +2960,8 @@ No obstante, cuando el material rodante circula por una curva, cada acoplamiento
 Según la inspección del desvío 02BI, no hay escalada de la aguja cerrada en el sentido estricto del término, ya que no hay ninguna marca en el flanco del sombrero: aparecen de repente dos garras en el sombrero de la aguja cerrada. Según nuestro escenario, las ruedas del vehículo en la posición 10 fueron levantadas hacia el exterior de la curva (izquierda). La aguja cerrada del desvío, ayudada por las placas de unión, obliga a las ruedas descarriladas del vehículo en la posición 10 a subir a la vía. El choque de topes arrastra al vehículo en la posición 11, que se balancea y descarrila a su vez. El bogie delantero del vehículo en la posición 11 continúa su recorrido sobre los sujetadores del riel. Las ruedas son desviadas por el desvío 04AI hacia la izquierda. Sin embargo, el acoplamiento con el vehículo 10 le obliga a cruzar este desvío. El bogie escala los rieles de la vía A y el vehículo se coloca en diagonal.
 El movimiento se detiene cuando se produce un segundo choque de topes: probablemente, sin este, el vehículo se habría colocado completamente en cizalla. La parte delantera del vehículo se encuentra dentro del perfil de la vía B.
 
-
 ## Página 91
+
 
 ### 4.2.4. Análisis del funcionamiento y de los fallos de los principios de mitigación
 ## 4.2.4.1.
@@ -2950,6 +2979,7 @@ Los conductores informan inmediatamente al «control de tráfico», que adopta l
 Los servicios de emergencia intervinieron rápidamente en el lugar del accidente y organizaron la evacuación de los pasajeros hacia la estación. La SNCB organizó un servicio alternativo de autobuses.
 
 ## Página 92
+
 
 ### 4.3.	 Análisis del sistema de gestión de la seguridad
 ### 4.3.1.	 Formación y reglamentación
@@ -2990,8 +3020,8 @@ con precisión el lugar y el momento en que comenzó la aceleración,
 • la concepción de los coches de tipo I11 no permite cuantificar la importancia de una aceleración.
 La empresa ferroviaria no realiza este tipo de control.
 
-
 ## Página 93
+
 
 ### 4.3.4.	 Valoración de los riesgos asociados al uso de anillos de separación
 El apriete de los enganches de los coches I10Kmod implicados en el accidente no se ajusta a las 
@@ -3038,6 +3068,7 @@ coches I10.
 
 ## Página 94
 
+
 La Decisión 2002/735/CE especifica también cómo debe evaluarse la conformidad con las ETI.
 El 19/12/2007 el SSICF precisa sus requisitos, haciendo referencia a diferentes artículos de las RGUIF y RSEIF.
 Entre estos requisitos figuran modificaciones en las ventanas, los aseos y el sistema de frenado, así como la aplicación de amortecedores antivuelco.
@@ -3059,6 +3090,7 @@ En el informe que acompaña al certificado, Belgorail llama la atención de la S
 
 ## Página 95
 
+
 cación según la Decisión 768/2008/CE. Belgorail aconseja por tanto que la declaración de conformidad con el tipo se elabore conforme a los procedimientos de verificación definidos en los módulos D(*) o E(*) o F(*) de dicha Decisión.
 Según los procedimientos de verificación definidos en el Módulo D (conformidad con el tipo), que establece que el fabricante designa un organismo notificado para verificar su sistema de calidad para los productos concernidos. El sistema de calidad garantiza la conformidad de los productos con el tipo descrito en el certificado de examen «CE» de tipo y con los requisitos del instrumento legislativo aplicable.
 La ley del 26 de enero de 2010 establece que no es aplicable a los procedimientos ya en curso.
@@ -3078,6 +3110,7 @@ El historial de mantenimiento de la zona confirma que este desvío estaba bajo v
 Se indicaba como sustitución desde agosto de 2010 y estaba en pedido y expedido el 26/1/2011. Fue sustituido después del accidente.
 
 ## Página 96
+
 
 ### 4.4. Conclusión
 En función de los datos recopilados y de nuestro análisis, nuestro escenario más probable es el siguiente:
@@ -3124,6 +3157,7 @@ o incluso haber contribuido a él.
 
 ## Página 97
 
+
 Según las normas UIC, para una curva y una contracurva de igual radio y un ancho de vía de 1440 a 1450 mm, no se requiere ningún tramo recto intermedio entre la curva y la contracurva cuando los radios son superiores a 200 metros.
 Las condiciones de implantación de la vía en el caso presente son cercanas a estos límites, pero son conformes a las normas UIC.
 Las inspecciones del material rodante y las verificaciones de documentos han llevado a las siguientes constataciones: los platos de topes, las ruedas y los bordes son conformes a las normas UIC.
@@ -3137,8 +3171,8 @@ La norma UIC para los vagones utilizados en la red internacional no prevé el us
 El caso de Pepinster no es un caso único; hemos identificado casos relativamente similares en los Países Bajos y en Alemania: descarrilamiento de trenes en movimiento empujado que circulaban a velocidad reducida, inferior a 40 km/h, durante el paso por 2 desvíos que forman una curva y una contracurva de radio reducido.
 El organismo de investigación formuló tres recomendaciones, entre ellas la necesidad de tomar medidas para paliar los riesgos de descarrilamiento durante la aceleración en curva (en los desvíos).
 
-
 ## Página 98
+
 
 ## 5. MEDIDAS ADOPTADAS
 ## 5.1. EL GESTOR DE LA INFRAESTRUCTURA
@@ -3150,11 +3184,12 @@ La SNCB hizo verificar:
 • el montaje de las arandelas intermedias en el tensor de tornillo en los vagones I6 e I10Kmod según las directrices B-TC.42.
 La SNCB modifica parcialmente los documentos sobre los acoplamientos introduciendo los anillos de separación
 
-
 ## Página 99
 
 
+
 ## Página 100
+
 
 ## 6. Recomendaciones
 En términos generales, las recomendaciones de los organismos de investigación deben dirigirse a la Autoridad de Seguridad (el SSICF) y redactarse «orientadas a objetivos».
@@ -3164,6 +3199,7 @@ Corresponde al SSICF verificar la tenida en cuenta de estas recomendaciones cuan
 | 2 | Identificación de los riesgos de apriete de los acoplamientos Las instrucciones de la SNCB describen la metodología para la ejecución de los acoplamientos. El riesgo de descarrilamiento o desacoplamiento por apriete insuficiente de los tensores no se recoge sistemáticamente en la documentación técnica y las instrucciones no están uniformizadas. | La Autoridad de Seguridad debería velar por que la empresa ferroviaria se asegure de informar mejor sobre los riesgos asociados al apriete no conforme de los acoplamientos y de uniformizar las normas o instrucciones relativas al montaje, la inspección y el uso de los acoplamientos. |
 
 ## Página 101
+
 
 ### Las modificaciones
 3
@@ -3181,14 +3217,16 @@ El módulo SB no prevé la verificación de la existencia de instrucciones escri
 En uno de los vagones transformados denominado I10Kmod, los amortecedores antivuelco están montados incorrectamente.
 La ausencia de procedimientos internos o la utilización incorrecta de los procedimientos debería ser corregida mediante los nuevos módulos de control.
 
-
 ## Página 102
+
 
 
 ## Página 103
 
 
+
 ## Página 104
+
 
 ### Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 http://www.mobilit.belgium.be

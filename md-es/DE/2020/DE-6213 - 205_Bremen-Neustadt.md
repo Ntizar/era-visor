@@ -10,13 +10,13 @@ chars: 51182
 ratio_longitud: 1.05
 tokens_in: 24498
 tokens_out: 14837
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 25: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 22: cifras cortas: 2/12", "página 24: cifras cortas: 2/3"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -33,16 +33,16 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 404 |
 | Punto kilométrico: | 4238 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -95,8 +95,8 @@ Investigación de la infraestructura de construcción...........................
 Investigación de la técnica de mando y seguridad....................................................... 14
 I
 
-
 ## Página 4
+
 
 | 45 . | Investigación de los procesos de explotación del operador de infraestructura 14 ................. |
 | 46 . | Investigación de los procesos de explotación de los EVU 15 ................................................ |
@@ -114,8 +114,8 @@ Modificación
 Estado
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -140,8 +140,8 @@ Figura 18: Nueva medida de holgura a la izquierda y antigua medida de holgura a 
 Figura 19: Superficies de fractura...................................................................................................... 29
 III
 
-
 ## Página 6
+
 
 ## III.
 ## Índice de tablas:
@@ -154,8 +154,8 @@ Tabla 6: Datos técnicos del vagón 81 80 664 5 492‐2.........................
 Tabla 7: Bujes de espiga de rueda....................................................................................................... 26
 IV
 
-
 ## Página 7
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -207,8 +207,8 @@ VzG
 Registro de velocidades máximas autorizadas localmente
 V
 
-
 ## Página 8
+
 
 ## 1 Observaciones previas
 El capítulo Observaciones previas se ocupa de información general sobre la Oficina Federal de
@@ -238,15 +238,15 @@ La investigación comprende la recopilación y evaluación de información, la e
 conclusiones, incluida la determinación de las causas y, en su caso, la emisión de
 recomendaciones de seguridad. Las propuestas del organismo de investigación para la evi-
 
-
 ## Página 9
+
 
 tación de accidentes y la mejora de la seguridad en el transporte ferroviario se comunican a la autoridad de
 seguridad y, cuando sea necesario, a otros organismos y autoridades o a otros Estados
 miembros de la UE en forma de recomendaciones de seguridad.
 
-
 ## Página 10
+
 
 ## 2 Resumen
 El capítulo se ocupa de una breve descripción del desarrollo del suceso, las
@@ -268,27 +268,30 @@ No se emitieron recomendaciones de seguridad.
 
 ## Página 11
 
+
 ## 3 Datos generales
 El capítulo contiene datos generales para la descripción del lugar del suceso y de las instalaciones ferroviarias relevantes. Asimismo, se indican los organismos que participaron y colaboraron en la investigación del accidente, las condiciones exteriores, el número de personas heridas y fallecidas en el suceso, así como el tipo y la cuantía de los daños consecuentes.
 ### 3.1 Ubicación y descripción del lugar del suceso
 El punto de descarrilamiento se encontraba en la línea principal de doble vía, electrificada, de Bremen Hbf a Oldenburg Hbf, explotada por la empresa de infraestructura ferroviaria (EIU) DB Netz AG, en la estación de Bremen-Neustadt, aproximadamente en el km 42,38. La línea figuraba, según el catálogo de velocidades localmente admisibles (VzG), con el número 1500.
 La estación de Bremen-Neustadt se encontraba entre los puntos de explotación Bremen Hbf y la parte de estación Heidkrug de la estación de Delmenhorst. En el área del lugar del suceso, la velocidad máxima admisible era de 60 km/h con una distancia de frenado de 1.000 m. La línea estaba equipada, en el tramo afectado, con el sistema de señal combinado, disponía del sistema de comunicación radiofónica de tren Global System for Mobile Communication Rail (GSM-R) y del sistema de seguridad de trenes Punktörmliche Zugbeeinflussung (PZB). Las dos figuras siguientes ofrecen una visión general de la ubicación del lugar del accidente.
 
-
 ## Página 12
+
+
 Figura 1: Plano de ubicación1
 Figura 2: Extracto del plano IVL2
 1 Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2020], editado por BEU
 2 Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 13
+
+
 La figura siguiente muestra una fotografía aérea del lugar del accidente. El punto de descarrilamiento en sí se encontraba aún antes del puente sobre el Weser, en el borde superior de la imagen, y no es visible en esta toma. Resulta claramente distinguible, junto a los vagones descarrilados, la separación de tren que se produjo a continuación.
 Figura 3: Fotografía aérea del lugar del accidente3
 3 Fuente: Policía Federal
 
-
 ## Página 14
+
 
 ### 3.2 Participantes y colaboradores
 En el suceso participaron los siguientes organismos:
@@ -310,8 +313,8 @@ En el momento del suceso se daban las siguientes condiciones:
 | Suelo/precipitación caída | seco |
 Tabla 1: Resumen de las condiciones exteriores
 
-
 ## Página 15
+
 
 ### Constatación sobre las condiciones exteriores
 N.º de referencia 1
@@ -352,8 +355,8 @@ La cuantía estimada de los daños materiales, en euros, se desglosaba como sigu
 |  | Importe total de los daños |  | 1 080 000 . . |  |  |
 Tabla 3: Resumen de la cuantía estimada de los daños
 
-
 ## Página 16
+
 
 ## 4 Protocolo de investigación
 En este capítulo se presentan los resultados obtenidos en relación con diversas áreas parciales del sector ferroviario vinculadas al suceso. Asimismo, se examinaron las correspondientes interfaces así como la gestión de la seguridad (SMS) en el ámbito afectado. Los hallazgos relevantes en cada caso se van enumerando a continuación.
@@ -366,8 +369,9 @@ Según la declaración del Fdl ante su empleador, el tren de mercancías GM 6085
 ### 4.2 Gestión de emergencias
 Conforme al § 4 Abs. 3 del Allgemeines Eisenbahngesetz (AEG), los ferrocarriles tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del Interior de los Länder y DB AG, se llegó a un consenso sobre un procedimiento. Para DB Netz AG resultan de aplicación las correspondientes leyes de protección contra incendios y catástrofes de los Länder. La gestión de emergencias de DB AG se describe y regula en detalle en la directriz de grupo 123, y la de DB Netz AG en la directriz (Ril) 423.
 
-
 ## Página 17
+
+
 La cadena de notificación se activó en este suceso mediante la llamada de emergencia del tren que circulaba en sentido contrario DPN 83363, por GSM-R, a las aproximadamente 11:42 horas. A continuación, la central de gestión de emergencias de Hannover de DB Netz AG informó a la Policía Federal, al gestor de emergencias de DB Netz AG y al THW.
 ### Constataciones sobre la gestión de emergencias
 N.º de referencia 2
@@ -375,14 +379,16 @@ No se detectaron irregularidades ni retrasos en relación con la activación de 
 ### 4.3 Examen de la infraestructura de ingeniería civil
 El tramo afectado de la línea 1500 estaba diseñado para la clase de línea D 4 con una carga de bogie admisible de 22,5 t. El peso máximo admisible del vehículo por unidad de longitud era de 8,0 t/m. Los primeros exámenes in situ permitieron apreciar que se habían realizado trabajos de vía antes del punto de descarrilamiento. Se llevaron a cabo, entre otros, trabajos de calzado y se sustituyeron raíles. En el área inmediata del punto de descarrilamiento, en cambio, no se observaban indicios de trabajos de mantenimiento. El punto de descarrilamiento se encontraba justo antes del puente sobre el Weser, en el área del dispositivo de retención, véase la figura siguiente. El vagón afectado descarriló en el sentido de la marcha hacia la derecha, en el exterior de una curva de vía que se dirigía hacia la izquierda. Las tres agujas 16040, 16036 y 16035 situadas tras el puente sobre el Weser en el itinerario del tren de mercancías resultaron dañadas por el descarrilamiento.
 
-
 ## Página 18
+
+
 Figura 4: Punto de descarrilamiento
 Las posiciones individuales están señaladas en la figura siguiente para una mejor correspondencia.
 Figura 5: Huellas de descarrilamiento en el km 42,38
 
-
 ## Página 19
+
+
 La tabla siguiente explica las posiciones individuales de las huellas de descarrilamiento apreciables.
 | Posición1 | Ligeras huellas de rodadura de un borde de rueda sobre la cabeza del raíl exterior de la curva, en el sentido de la marcha hacia la derecha, inicialmente solo débiles y más claramente reconocibles en el transcurso posterior. No se apreciaban huellas de deslizamiento. . |
 | Posición2 | Desde la posición 1 hasta la posición 2, un borde de rueda discurría en diagonal sobre la cabeza de la traviesa hacia el exterior de la curva y se desprendía de la cabeza de la traviesa en la posición 3. |
@@ -391,8 +397,9 @@ La tabla siguiente explica las posiciones individuales de las huellas de descarr
 Tabla 4: Explicación de las huellas de descarrilamiento
 Las investigaciones revelaron que existían errores de alineación de vía ópticamente apreciables en el área del punto de descarrilamiento. En la revisión del protocolo de excesos de la última medición de alineación de vía del 19.10.2019, se detectó un error de alineación de vía en la torsión del 101 %. Para comprobar una posible evolución de este error, se realizó el 19.02.2020 una medición de geometría de vía con un vehículo de medición de vía de tipo RAILab. En ella se midió una evolución del error de alineación de vía en la torsión hasta el 104 %. Ambos valores medidos se situaban, conforme a la Ril 821.2001 «Criterios de evaluación para la torsión», dentro del rango de valores normalizados de un error $SR_{100}$ entre el 100 % y el 130 %. Conforme a la Ril 821, el mantenimiento habría debido implementarse a más tardar antes de la siguiente inspección ordinaria, en este caso antes del 19.10.2020. El error de alineación de vía se representa en la figura 6 siguiente, debido a la fuerte ampliación, algo distorsionado en la perspectiva. La desviación real puede extraerse del registro de medición de la figura 7.
 
-
 ## Página 20
+
+
 Figura 6: Error de alineación de vía
 Figura 7: Registro de medición de la geometría de vía del 19.02.20204
 ### Constatación sobre la infraestructura de ingeniería civil
@@ -401,6 +408,7 @@ En la revisión de la infraestructura de ingeniería civil se detectó un error 
 4 Fuente: DB Netz AG, editado por BEU
 
 ## Página 21
+
 
 ### 4.4 Examen de la técnica de mando y de seguridad
 La estación de Bremen-Neustadt era gestionada a distancia con tecnología de enclavamiento electrónico de la forma El S (SIMIS C) de la firma Siemens. La controlación de las instalaciones exteriores se realizó mediante un enclavamiento electrónico (ESTW) de tipo A. El puesto de trabajo del Jefe de Circulación (Fdl) Bremen West, responsable de la explotación, se encontraba en el Centro de Operaciones de Hannover. La sucesión de trenes se documentó mediante un sistema de comunicación de números de tren de la serie 901. La autorización de la circulación de trenes se producía mediante la señalización de vía libre de la señal principal a través de una ruta de tren protegida. Los elementos de la vía dentro de la ruta de tren estaban debidamente bloqueados. Como consecuencia de la descarrilación, se mostró al Fdl en el monitor de diálogo así como en la imagen ampliada del puesto de trabajo del ESTW una indicación de paso sobre la aguja 16035.
@@ -414,8 +422,9 @@ Como se desprende de la figura siguiente, el Fdl Bremen West tenía establecidas
 2) Para el tren DPN 83363 en dirección a Bremen Hbf mediante la señalización de vía libre del Asig 16N3 a través de la vía 403 de la estación de Bremen-Neustadt.
 En el momento del suceso, el tráfico ferroviario se estaba realizando en régimen normal.
 
-
 ## Página 22
+
+
 Figura 8: Representación de la ruta de tren desde el sistema de mando⁵
 ### Hallazgo relativo al examen de los procesos operativos del operador de infraestructura
 N.º de referencia 5
@@ -442,8 +451,9 @@ Tabla 5: Resumen de los EVU participantes
 De München Nord a Oberhausen West, el tren circuló como GM 63348 bajo la responsabilidad de la vía de la RBH Logistics GmbH. En Oberhausen West se realizó un cambio de locomotora sin cambio de dirección y se llevó a cabo una prueba de freno simplificada. A continuación, comenzó la continuación del viaje como GM 60856 bajo la responsabilidad de la vía del EVU DB Cargo AG en dirección a Wilhelmshaven Ölweiche.
 ⁵ Fuente: DB Netz AG
 
-
 ## Página 23
+
+
 Para el trayecto de Anglberg (Zolling) hasta Oberhausen West, los EVU participantes IGE GmbH & Co KG y RBH Logistics GmbH no comunicaron a la BEU ningún conocimiento sobre irregularidades operativas. Todos los EVU participantes en este asunto son miembros del AVV (Contrato General para la Utilización de Vagones de Mercancías) y del AATTI (International Union of Railways), cuyas reglas se aplicaron aquí.
 Mediante un acuerdo de prestación existente, estaba regulada la responsabilidad de la inspección técnica de vagones en Anglberg (Zolling) por parte del EVU IGE GmbH & Co KG.
 Las investigaciones de la BEU se centraron, por tanto, en la inspección técnica de vagones realizada en Anglberg (Zolling) por el EVU IGE GmbH & Co KG, así como en la circulación del GM 60856 desde Oberhausen West por el EVU DB Cargo AG.
@@ -455,21 +465,23 @@ Basándose en el documento VDV 758 06/2019, era necesaria una inspección técni
 La inspección de nivel 3 es obligatoria, entre otros casos, después de la carga o descarga de trenes no recién formados. El alcance del trabajo de nivel 3 incluye la inspección de los vagones de mercancías en busca de daños y defectos conforme al AVV, Anexo 9 y al catálogo de errores del Anexo 1.
 Si la inspección técnica de vagones de nivel 3 realizada el 03.02.2020 se ajustaba a lo requerido, no era deducible del protocolo de inspección de vagones / de tren facilitado, véase la siguiente figura 9. En el protocolo de inspección no figuraban registros de daños.
 
-
 ## Página 24
+
+
 Figura 9: Protocolo de inspección de vagones⁶
 La figura siguiente muestra la lista de vagones generada electrónicamente en Anglberg (Zolling).
 ⁶ Fuente: IGE GmbH & Co KG
 
-
 ## Página 25
-Figura 10: Lista de vagones del tren 95184⁷
-Según la lista de vagones, el tren estaba compuesto por 38 vagones con un total de 152 ejes y una longitud total de aproximadamente 488 m redondeado. Los vagones no estaban cargados y se encontraban en la posición de freno P. El peso total de los vagones era de 927 t.
-### Hallazgo relativo al examen de los procesos operativos del EVU IGE GmbH & Co KG
-⁷ Fuente: IGE GmbH & Co KG
 
+Figura 10: Lista de vagones del tren 951847
+De la lista de vagones se desprende que el tren estaba compuesto por 38 vagones con un total de 152 ejes y una longitud total de aproximadamente 488 m. Los vagones no estaban cargados y se encontraban en la posición de freno P. El peso total de los vagones era de 927 t.
+### Constatación sobre la investigación de los procesos operativos de la EVU IGE GmbH & Co KG
+7 Fuente: IGE GmbH & Co KG
 
 ## Página 26
+
+
 N.º de referencia 6
 Según el protocolo presentado, en Anglberg (Zolling) se realizó una inspección técnica de vagones. En la misma no se documentaron particularidades.
 ### 4.6.2 Examen de los procesos operativos del EVU DB Cargo AG
@@ -478,16 +490,18 @@ El maquinista (Tf) estaba en posesión de un permiso de conducción de locomotor
 Para la reconstrucción de las acciones operativas del Tf, se leyeron y evaluaron los datos del Registro Electrónico de Viaje (EFR) del registrador de datos de la locomotora de cabeza 91 80 6185 255-7. Las indicaciones de tiempo que se citan a continuación son tiempos internos del sistema que pueden diferir del tiempo real. En el presente caso, las horas registradas coincidían aproximadamente con el tiempo real. Para una mejor ilustración, se normalizaron los datos de posición y, por tanto, se ajustaron a la kilométrica de la línea. De este modo, fue posible integrar en la evaluación la posición de las señales y el punto de descarrilación. Como punto de referencia se eligió la ubicación del Asig Bremen Hbf 11N2, ya que aquí se registró una influencia de 1.000 Hz por parte de la instalación de línea PZB.
 El tren de mercancías GM 60856 se aproximaba a la estación de Bremen-Neustadt hacia las 11:39 con una velocidad de unos 35 km/h, con tendencia a descender. A las 11:40:07, a una velocidad de unos 27 km/h, en el Asig 11N2 con función de señal de preaviso para el Esig 16F de la estación de Bremen-Neustadt, se registró la influencia de un imán de vía de 1.000 Hz. El Tf acusó recibo de esta influencia mediante la pulsación de la tecla «Wachsam» (Atento). Durante los siguientes 200 m de recorrido, la velocidad del tren se redujo hasta unos 21 km/h. A continuación, se produjo una aceleración hasta unos 37 km/h. Esta velocidad se mantuvo durante los
 
-
 ## Página 27
+
+
 siguientes unos 480 m de recorrido, con un ligero descenso. Dentro de este trayecto, el Tf pulsó, a las 11:41:38, la tecla «Frei» (Libre) para el Esig 16F, que en ese momento ya indicaba «Fahrt» (Vía libre). A continuación, la velocidad del tren aumentó hasta unos 48 km/h. Hacia las 11:43:03, a unos 890 m tras el Esig 16F, a una velocidad de unos 48 km/h, la aceleración se interrumpió mediante una fuerte acción de frenado, que detuvo el tren de mercancías tras unos 200 m, a las 11:43:25. Poco antes de la detención del tren, a una velocidad de unos 12 km/h, el Tf accionó la válvula de freno del conductor para iniciar una frenada rápida. Inmediatamente después, emitió una llamada de emergencia. La frenada forzosa se había producido como consecuencia de la rotura del tren. En el momento del descarrilación, el tren GM 60856 circulaba a una velocidad de unos 37 km/h. La velocidad máxima permitida no se superó en el tramo investigado. La figura siguiente muestra la evaluación de los datos del EFR en forma gráfica.
 
-
 ## Página 28
+
+
 Figura 11: Evaluación de los datos del EFR
 
-
 ## Página 29
+
 
 ### Hallazgo relativo al examen de los procesos operativos del EVU DB Cargo AG
 N.º de referencia 7
@@ -498,12 +512,14 @@ El tren de mercancías disponía de 104 centésimas de freno frente a las 76 cen
 En el examen de los vagones individuales tras el suceso por parte de la BEU, se detectó una freno de aire desactivado en el vagón 18.º con el número de vehículo 81 80 664 5 561-4, véase la siguiente figura 12. No existía ninguna marca conforme al AVV Anexo 9, Anexo 11. No pudo reconstruirse en qué momento se desactivó el freno de aire.
 Las ulteriores investigaciones se centraron en el vagón que circulaba en la posición 15.ª, con el número de vehículo 81 80 664 5 492-2. En este vagón se detectó una hoja de parábola rota, véase la siguiente figura 13. Los otros nueve vagones descarrilados presentaban exclusivamente daños consecuenciales del accidente.
 
-
 ## Página 30
+
+
 Figura 12: Vagón 81 80 664 5 561-4 con freno desactivado
 Figura 13: Vagón causante del suceso 81 80 664 5 492-2
 
 ## Página 31
+
 
 En la tabla que se indica a continuación se recogen los datos técnicos del vagón causante del accidente, cuya última revisión se realizó en marzo de 2016, con el número de vehículo 81 80 664 5 492-2:
 |  | Número de vagón |  | 81806645492 2 ‐ |
@@ -525,6 +541,7 @@ La función del muelle parabólico consiste en absorber y amortiguar los golpes 
 
 ## Página 32
 
+
 Figura 14: Extracto del dibujo técnico del muelle parabólico de 1.200 mm8
 Las dos láminas de muelle superiores estaban rotas en el lado izquierdo, justo detrás del extremo de enrollado. En la lámina de muelle superior, el extremo de enrollado estaba formado como un ojo de muelle. Este aún estaba unido al bastidor del bogie mediante un perno de sujeción. El extremo de enrollado de la segunda lámina de muelle, también denominado enrollado de seguridad, no se encontró. La siguiente figura muestra, a la izquierda, el ojo de muelle que permaneció en el bastidor del bogie y, a la derecha, las roturas en las dos láminas de muelle superiores.
 Figura 15: Detalles de las roturas
@@ -534,6 +551,7 @@ Se realizaron más investigaciones sobre la causa del accidente por parte de per
 8 Fuente: DB Cargo AG, elaborado por BEU
 
 ## Página 33
+
 
 proporcionados a la BEU por el EVU DB Cargo AG. Los pasajes de texto tomados de él se identifican a continuación en el informe de investigación como citas.
 Las investigaciones de DB Systemtechnik GmbH sobre la buleta con pestaña y su situación de montaje en la carcasa del rodamiento del eje condujeron a los resultados recogidos en la Tabla 7.
@@ -550,6 +568,7 @@ No se detectaron defectos que pudieran ser la causa del accidente. De ello se co
 
 ## Página 34
 
+
 Según el estampado del ramillete de muelle, se pudo comprobar que el muelle había sido reparado en 2015 en la fábrica de Lünen de la empresa Axtone. Para ello no fue necesario sustituir ninguna lámina de muelle.»9
 La siguiente figura muestra el estampado del ramillete de muelle descrito en el peritaje.
 Figura 16: Estampado del ramillete de muelle del muelle parabólico roto10
@@ -561,6 +580,7 @@ Figura 16: Estampado del ramillete de muelle del muelle parabólico roto10
 
 ## Página 35
 
+
 Presentaban profundidades de hasta 4 mm y su origen se encontraba también en la superficie del lado de tracción de la lámina de muelle. La superficie de rotura por fatiga de la lámina de muelle 1 estaba más corroída que la de la lámina de muelle 2.»12
 La siguiente figura muestra el hecho descrito en la cita. En las roturas son reconocibles los indicios de las roturas por fatiga y por resistencia residual.
 Figura 17: Aspecto de la fractura de la 1.ª y 2.ª lámina de muelle con guía de nervio y ranura en un solo lado13
@@ -570,6 +590,7 @@ La siguiente figura 18 ilustra la diferencia entre una medida de holgura de cons
 
 ## Página 36
 
+
 Figura 18: Nueva medida de holgura a la izquierda y antigua medida de holgura a la derecha14
 La figura 19 muestra el extremo de enrollado con las roturas en vista lateral.
 Figura 19: Roturas15
@@ -578,6 +599,7 @@ Figura 19: Roturas15
 15 Fuente: DB Systemtechnik GmbH, 20‐59602‐TT.TVE33 (1) BA121‐2060‐065, elaborado por BEU
 
 ## Página 37
+
 
 visible L&S 96. Esto indica que las láminas de muelle fueron fabricadas en 1996. Esto coincide también con el ojo cerrado encontrado. Para evitar depósitos de chorreado y defectos del recubrimiento en la ranura del ojo, la construcción se mejoró en 1998. Esto se aplica solo a la fabricación de nuevas unidades. Además, la nueva construcción prevé una ejecución de nervio/ranura en ambos lados.»16
 La investigación metalúrgica del muelle parabólico de DB Systemtechnik GmbH condujo a los siguientes resultados:
@@ -590,12 +612,14 @@ Se constató una rotura por fatiga de la primera y segunda lámina de muelle de 
 
 ## Página 38
 
+
 ## 5 Evaluación
 El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las constataciones anteriores, se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
 ### 5.1 Reconstrucción del suceso
 El 04.02.2020, el primer eje del vagón 15 del tren de mercancías GM 60856, en su trayecto desde Oberhausen West hasta Wilhelmshaven Ölweiche, descarriló al entrar en la estación de Bremen-Neustadt. El tren de mercancías, que en este tramo de línea era transportado por el EVU DB Cargo AG, estaba compuesto por dos locomotoras de la BR 185 circulando en doble tracción y 38 vagones de graneles vacíos de la serie Falns 121. El punto de descarrilamiento se encontraba en una curva de vía que gira a la izquierda inmediatamente antes del puente sobre el Weser en la estación de Bremen-Neustadt. El vagón 15 afectado, debido a un muelle parabólico roto, se había despegado con la rueda derecha del primer eje del bogie delantero y había descarrilado con este eje en el sentido de la marcha hacia la derecha, hacia el exterior de la curva. Inmediatamente detrás del puente sobre el Weser se dañaron los desvíos 16040, 16036 y 16035. Como consecuencia del eje descarrilado anteriormente, el tren de mercancías fue empujado desde el vagón 15 hacia la aguja recta del desvío 16036. A partir de ahí descarrilaron otros ocho vagones. El desvío 16035 fue forzado, lo que hizo que se mostrara en el aparato de enclavamiento una señal de aproximación. Debido a la circulación a dos vías del tren de mercancías, el vagón 14 descarriló y rozó el andén en la vía 404. La tracción súbita resultante en el tren de mercancías provocó la separación del tren entre los vagones 13 y 14. La consiguiente pérdida de aire comprimido vació la conducción principal de aire y provocó así una frenada forzosa. Debido al inicio de la acción de frenado, el maquinista se percató del suceso e inició una frenada de emergencia.
 
 ## Página 39
+
 
 ### 5.2 Evaluación y conclusión
 En este informe se determinó, bajo los números correlativos 1, 2, 4, 5, 6 y 7, que ni las condiciones meteorológicas, ni la gestión de emergencias, ni la técnica de mando y señalización, ni las acciones operativas de EIU y de los EVU IGE GmbH & Co KG y DB Cargo AG debían clasificarse como favorecedoras del accidente o causantes del mismo.
@@ -609,6 +633,7 @@ La rotura de la parabólica se puede atribuir a daños por corrosión. Los hoyos
 Una inspección técnica de vagones del tren de mercancías GM 60856 se realizó por última vez el 03.02.2020 para la circulación del tren 95184 por un jefe de maniobras del EVU IGE GmbH & Co KG. En ella no se detectaron particularidades. El freno de aire desactivado detectado en las inspecciones de la BEU en el vagón 18, 81 80 664 5 561-4, no tuvo influencia en el suceso. No puede descartarse que la posición del mando de bucle fuera consecuencia del suceso.
 
 ## Página 40
+
 
 ## 6 Medidas adoptadas hasta la fecha
  El fabricante ya modificó la construcción de la parabólica en el año 1998 para evitar depósitos de granallado y mejorar la protección contra la corrosión.

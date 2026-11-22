@@ -10,13 +10,13 @@ chars: 73089
 ratio_longitud: 1.04
 tokens_in: 35889
 tokens_out: 19781
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 25: cifras largas: faltan 1/1 (100%)"]
-notas_cifras: ["página 10: cifras cortas: 2/8", "página 11: cifras cortas: 4/8", "página 14: cifras cortas: 4/8", "página 23: cifras cortas: 2/11", "página 24: cifras cortas: 2/14", "página 26: cifras cortas: 2/76"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -33,16 +33,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 6078 |
 | Punto kilométrico: | 96 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice 
 ## I. 
@@ -95,8 +95,8 @@ Investigación de la técnica de mando y seguridad..............................
 Investigación de los procesos operativos del gestor de infraestructura................. 11
 I
 
-
 ## Página 4
+
 
 4.6 
 Investigación de los procesos operativos del EVU............................................... 12
@@ -138,6 +138,7 @@ II
 
 ## Página 5
 
+
 ## II. 
 ## Índice de figuras: 
 Figura 1: Plano de situación ................................................................................................................ 4 
@@ -164,10 +165,10 @@ Tabla 1: Resumen de las condiciones externas ...................................
 Tabla 2: Resumen de los daños personales ............................................................................... 7 
 Tabla 3: Resumen de la cuantía estimada de los daños ................................................................ 7 
 Tabla 4: Datos técnicos del automotor BR 643 ............................................................... 16 
-III 
-
+III
 
 ## Página 6
+
 
 ## IV.
 ## Índice de siglas:
@@ -217,10 +218,10 @@ SMS
 Sistema de gestión de la seguridad 
 Tf 
 Maquinista 
-IV 
-
+IV
 
 ## Página 7
+
 
 ## 1 Observaciones preliminares 
 El capítulo Observaciones preliminares se ocupa de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se cita la base legal y se describe brevemente la organización externa. 
@@ -231,14 +232,15 @@ De acuerdo con el § 6 apartado 2 de la Ley Federal de Administración del Tráf
 Más información al respecto está disponible en internet en www.beu.bund.de. 
 ### 1.2 Objeto de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ellos indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se realizan con independencia de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para evitar accidentes y mejorar la seguridad en el tráfico ferroviario se comunican a la 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para evitar accidentes y mejorar la seguridad en el tráfico ferroviario se comunican a la
 
 ## Página 8
+
 
 autoridad de seguridad y, cuando sea necesario, a otros organismos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 9
+
 
 ## 2 Resumen
 El capítulo aborda una breve descripción de la secuencia de los hechos, las consecuencias y las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que, en su caso, se hayan emitido.
@@ -251,8 +253,8 @@ El origen del incendio se localizó en la parte inferior del cuadro eléctrico 1
 ### 2.4 Recomendaciones de seguridad
 No se emiten recomendaciones de seguridad.
 
-
 ## Página 10
+
 
 ## 3 Datos generales
 El capítulo contiene datos generales para la descripción del lugar del suceso y de las instalaciones ferroviarias relevantes. Asimismo, se indican los organismos que participaron y colaboraron en la investigación del accidente, las condiciones exteriores, el número de personas heridas y fallecidas en el suceso, así como el tipo y la cuantía de los daños consecuentes.
@@ -263,8 +265,8 @@ Figura 1: Plano de situación¹
 La línea 6078 estaba equipada con el sistema de comunicación ferroviaria digital Global System for Mobile Communications Rail (GSM-R). Como sistema de seguridad se empleó la protección puntual de trenes (PZB).
 ¹ Fuente: Geobasisdaten © GeoBasis-DE / BKG [2019], editado por BEU
 
-
 ## Página 11
+
 
 Las figuras 2 y 3 representan la situación en el lugar del accidente como esquema de disposición de vías y en la realidad física sobre el terreno.
 Figura 2: Esquema de disposición de vías²
@@ -272,8 +274,8 @@ Figura 3: Situación en el lugar del incendio³
 ² Fuente: DB Netz AG IVL-Plan, editado por BEU
 ³ Fuente: Bundespolizei, editado por BEU
 
-
 ## Página 12
+
 
 ### 3.2 Participantes y colaboradores
 En el suceso estuvieron implicados los siguientes organismos:
@@ -298,8 +300,8 @@ En el momento del suceso se daban las siguientes condiciones:
 | Suelo/precipitación caída | Manto de nieve |
 Tabla 1: Resumen de las condiciones meteorológicas
 
-
 ## Página 13
+
 
 ### Constatación sobre las condiciones meteorológicas
 N.º de referencia 1
@@ -341,8 +343,8 @@ Tabla 3: Resumen de la cuantía estimada del daño
 El EW trasero y el MW del tren de composición se quemaron por completo, y el EW delantero parcialmente. Debido a la magnitud de los daños, se produjo la pérdida total del tren de composición.
 Las figuras 4 y 5 muestran el tren de composición VT 643.20 en llamas por completo en la dirección de la marcha y, respectivamente, tras la finalización de las labores de extinción, tomadas en sentido contrario a la dirección de la marcha.
 
-
 ## Página 14
+
 
 Figura 4: Tren de composición VT 643.20 de la NEB Betriebsgesellschaft GmbH en llamas por completo⁴
 Figura 5: Tren de composición VT 643.20 de la NEB Betriebsgesellschaft GmbH tras la finalización de las labores de extinción⁵
@@ -350,6 +352,7 @@ Figura 5: Tren de composición VT 643.20 de la NEB Betriebsgesellschaft GmbH tra
 ⁵ Fuente: Bundespolizei
 
 ## Página 15
+
 
 ## 4 Protocolo de investigación
 En este capítulo se presentan los resultados obtenidos en relación con las distintas áreas del sector ferroviario relacionadas con el suceso. Asimismo, se examinaron las correspondientes interfaces así como la gestión de la seguridad (SMS) en el ámbito afectado. Los hallazgos relevantes en cada caso se enumeran de forma continuada.
@@ -364,8 +367,8 @@ A continuación, habían esperado a las unidades de intervención y habían asis
 Con arreglo al § 4 apartado 3 de la Ley General de Ferrocarriles (AEG), los ferrocarriles tienen la obligación de participar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del interior de los Länder y la DB AG, se acordó un procedimiento. Para la DB Netz AG resultan de aplicación las correspondientes leyes de protección contra incendios y de protección contra catástrofes de los Länder. La gestión de emergencias de la DB AG se describe y regula con mayor detalle en la directriz corporativa 123, y la de la DB Netz AG en la directriz (Ril) 423.
 En este suceso, el Tf del DPN 5179 informó al jefe de maniobras responsable (Fdl) en el puesto de mando de Kaulsdorf West de una avería en su tren. Tras el descubrimiento
 
-
 ## Página 16
+
 
 del incendio, debido a la situación de peligro surgida, no volvió a entrar en la cabina de conducción del vehículo y, por lo tanto, no pudo realizar una llamada GSM-R al Fdl responsable ni emitir una llamada de emergencia. Informó al centro de mando de la NEB, que a su vez informó al centro de gestión de emergencias de la DB Netz AG. A partir de ahí se activó la cadena de comunicación. La evacuación del tren comenzó inmediatamente después de la detección del incendio. El Tf y la auxiliar de a bordo condujeron a las aproximadamente 180 personas, en dos grupos, a puntos de reunión seguros. No hubo heridos. Las unidades de intervención de los bomberos llegaron al lugar del accidente hacia las 20:15 horas. El gestor de emergencias estaba en el lugar a las 20:20 horas. A continuación, los bomberos pudieron comenzar las labores de extinción.
 ### Hallazgos sobre la gestión de emergencias
@@ -378,8 +381,8 @@ La línea ferroviaria Berlín – Küstrin-Kiez estación fronteriza no formaba 
 N.º de referencia 3
 Del examen de la infraestructura de construcción no se desprendieron influencias causales ni facilitadoras del suceso.
 
-
 ## Página 17
+
 
 ### 4.4 Examen de la técnica de mando y seguridad
 El tramo relevante se encontraba entre los puestos de mando de Biesdorfer Kreuz y Kaulsdorf West. El puesto de mando de Biesdorfer Kreuz, de tipo GS II Sp64b, entró en servicio en el año 1978. El puesto de mando mecánico de Kaulsdorf West, de tipo Siemens & Halske 1912, entró en servicio en 1941 y fue complementado posteriormente con componentes del tipo GS II DR.
@@ -393,6 +396,7 @@ El Fdl recibió la comunicación sobre el incendio en el vehículo hacia las 20:
 
 ## Página 18
 
+
 Hallazgos sobre la investigación de los procesos operativos del gestor de infraestructura
 N.º de referencia 5
 La investigación de las acciones operativas en los EIU no arrojó influencias causales o favorecedoras del suceso.
@@ -400,14 +404,14 @@ La investigación de las acciones operativas en los EIU no arrojó influencias c
 La responsabilidad de la realización del tren DPN 5179 de Berlin-Lichtenberg a Kostrzyn (Küstrin) Osop correspondía al EVU NEB. La ejecución del servicio se realizó conforme a las normas de la Ril 408 y del reglamento operativo del EVU.
 El Tf estaba en posesión de un permiso de conducción de locomotoras válido desde 2003. La habilitación para conducir vehículos de la serie (BR) 643 quedó acreditada mediante el certificado adicional del EVU NEB BetriebsgesellschaŌ mbH, así como mediante el certificado de examen para la BR 643. Se aportaron las pruebas de los conocimientos necesarios para los procedimientos operativos mencionados y del conocimiento de la línea, de las formaciones y supervisiones periódicas y de la idoneidad requerida. El Tf inició su turno de servicio el día del suceso tras un periodo de descanso de 40 horas a las 13:28. Durante la circulación del tren DPN 5177, que se realizó en doble tracción con VT 643.20 y VT 735 (denominaciones internas de vehículos del EVU) la tarde del día del suceso, se produjo, según los datos de lectura de la memoria de averías en el VT 643.20, a las 17:59, una avería con el diagnóstico «Zugabriss». Para poder continuar esta circulación, se disolvió a continuación la doble tracción. El automotor VT 643.20 continuó circulando en tracción simple. El suceso de incendio se produjo durante la circulación del tren DPN 5179. Para más información sobre el vehículo dañado, véase el capítulo 4.7 – Investigación de vehículos –. La evaluación de la marcha del tren fue realizada por la BEU. La normalización se realizó en la punta del VT 643.20 tras la parada motivada por el suceso en el km 9,6. La siguiente figura muestra la representación gráfica de la marcha del tren con la parada en la estación de Berlín-Lichtenberg y la continuación de la marcha hasta la frenada automática y la parada final del tren.
 
-
 ## Página 19
+
 
 Figura 6: Representación gráfica de la marcha del tren
 Tras la salida con retraso del tren DPN 5179 hacia las 19:45 desde la estación de Berlín-Lichtenberg, la marcha transcurrió inicialmente sin incidencias. Entre las instalaciones de servicio Abzw Biesdorfer Kreuz Ost y la estación de Berlín-Kaulsdorf, el Tf recibió la indicación de una avería de «Timeout», como consecuencia de la cual el vehículo frenó automáticamente hasta la parada y detuvo los motores. La velocidad máxima permitida según el horario de a bordo era de 100 km/h. La velocidad máxima alcanzada fue de 102 km/h. La pérdida abrupta de velocidad en torno al km 9,285 a una velocidad de 98 km/h marca el momento en que el tren inició automáticamente el proceso de frenado hasta la parada tras unos 315 m. Las indicaciones de tiempo en la representación tabular mostrada a continuación correspondían a los tiempos internos del sistema y no coincidían con los tiempos reales. La representación tabular indica que la presión en la tubería principal de freno descendió por debajo de 2,5 bar únicamente después de la parada del tren.
 
-
 ## Página 20
+
 
 Figura 7: Representación tabular de la marcha del tren
 El Tf informó al Fdl de Berlín-Kaulsdorf West mediante llamada GSM-R de la avería y de su persistencia hasta la reanudación de la marcha. La posterior búsqueda de la avería llevó al Tf a la cabina de conducción trasera, ya llena de humo. Como consecuencia, el Tf no volvió a entrar en el vehículo y, por tanto, no pudo utilizar la radio GSM-R para emitir una llamada de emergencia. Informó al centro de mando del EVU NEB, que transmitió la información al centro de mando de emergencias de DB Netz AG.
@@ -416,8 +420,8 @@ El Tf informó al Fdl de Berlín-Kaulsdorf West mediante llamada GSM-R de la ave
 N.º de referencia 6
 En el marco de la investigación no se detectaron acciones operativas en el EVU causales del suceso de incendio.
 
-
 ## Página 21
+
 
 ### 4.7 Investigación de vehículos
 El automotor implicado VT 643.20 era un vehículo de tres piezas de la BR 643 (Talent) compuesto por los dos EW, números de vehículo 95 80 0643 411-1 (EW1, cabecera) y 95 80 0643 911-0 (EW 2), así como el MW, número de vehículo 95 80 0943 411-8. El fabricante del automotor era la firma Bombardier TransportaƟons GmbH, año de construcción 2005. El propietario era la firma Alpha Trains Europe GmbH, que lo tenía arrendado desde el año 2011 al titular del vehículo, la NEB. Las siguientes figuras muestran un automotor de tres piezas del tipo accidentado de la BR 643 y un esquema del vehículo dañado, en el que se indica el origen del incendio.
@@ -426,8 +430,8 @@ Figura 9: Esquema del vehículo7
 6 Fuente: Informe pericial de TÜV Süd Rail GmbH
 7 Fuente: Informe pericial de TÜV Süd Rail GmbH
 
-
 ## Página 22
+
 
 De la siguiente tabla pueden extraerse los datos técnicos del vehículo:
 |  | Tipo de tracción |  | Diésel-mecánica |
@@ -444,6 +448,7 @@ El Tf del tren DPN 5179 fue alertado de una avería por el mensaje de error «Ti
 
 ## Página 23
 
+
 Figura 10: Automotor BR 643 quemado, fotografiado en sentido de la marcha⁸
 Las destrucciones en el vehículo quemado fueron tan extensas que la situación de las trazas se volvió confusa y una distinción exacta entre las características de daño de origen incendiario y las causadas por el incendio no podía establecerse sin asesoramiento externo de expertos. Por ello, se encomendó a la TÜV Süd Rail GmbH la investigación del incendio. Los resultados de la investigación se resumieron en un peritaje, cuyas conclusiones se incorporaron al informe de investigación y se detallan y resumen en la sección 4.8 – Investigaciones sobre la causa del incendio –.
 
@@ -452,8 +457,8 @@ Según las declaraciones de testigos, las primeras llamas eran visibles en el EW
 Como resultado de la evaluación de los mensajes de avería de la memoria de diagnóstico, los peritos de incendio solicitaron al fabricante del vehículo información más detallada sobre la asignación de cables por encima de los contactores con conexiones al dispositivo de mando de freno y al dispositivo de mando del vehículo. Además, se les comunicó que únicamente los mensajes de avería del dispositivo de mando de freno se ejecutaban como "low-active" y que emitirían mensajes en la memoria de diagnóstico. Las señales "low-active" se producen, entre otros casos, en caso de
 ⁸ Fuente: Policía Federal, Inspección Ostbahnhof
 
-
 ## Página 24
+
 
 ruptura de línea o cortocircuito. A partir de esta información y de los mensajes de avería de la memoria de diagnóstico, se pudieron reconstruir los procesos que condujeron al frenado automático del tren y a la desconexión de la tracción. Las válvulas SIFA se abrieron a través del dispositivo de mando de freno y se purgó la tubería principal de aire. La señal "low-active" del dispositivo de mando de freno recibida por el dispositivo de mando del vehículo a raíz de ello provocó a continuación la desconexión de la tracción. Las declaraciones del fabricante del vehículo respaldaron la localización del origen del incendio en el cuadro eléctrico 1, ya que allí estaban instalados tanto el dispositivo de mando del vehículo como el dispositivo de mando de freno.
 Debido a la formación de un punto caliente térmico, se desarrolló, tras una fase inicial de generación de gases de combustión incompleta, en pocos minutos un incendio pleno con temperaturas muy elevadas.
@@ -464,16 +469,15 @@ En la figura siguiente se contrasta el estado del cuadro eléctrico 1 del EW 2, 
 Figura 11: Cuadro eléctrico 1 destruido del EW 2, cuadro eléctrico 1 del EW 1⁹
 ⁹ Fuente: Perito de la TÜV Süd Rail GmbH, elaborado por BEU
 
-
 ## Página 25
 
-En la zona inferior del cuadro eléctrico 1 se alojaban los elementos de conmutación con la mayor carga energética. Aquí existía la posibilidad de altas corrientes de fallo con la correspondiente generación de calor. La reconstrucción del desarrollo del incendio en el marco del peritaje realizado por los peritos de incendio puso de manifiesto que un incendio originado en el interior del cuadro eléctrico 1 podía alcanzar, debido a las piezas de plástico instaladas, una temperatura considerablemente alta. La figura siguiente, una toma de detalle de la zona inferior del cuadro eléctrico del EW 1 del vehículo dañado, evidencia que los contactores allí instalados, sometidos a alta carga energética, estaban montados en un bastidor oscilante sobre los raíles de montaje sin separación horizontal entre ellos. Asimismo, se comprobó que los dos contactores 6K4 y 7K1, que según cálculos soportaban las cargas eléctricas más altas y, por tanto, los mayores potenciales de corriente de fallo, estaban situados directamente uno al lado del otro en el raíl de montaje.
-Figura 12: Zona inferior del cuadro eléctrico 1 intacto del EW 1¹⁰
-Investigaciones posteriores determinaron que no solo en el vehículo aquí estudiado, sino también en todos los demás vehículos de esta BR que estaban en servicio en la NEB Betriebsgesellschaft GmbH, concurría la misma circunstancia.
-¹⁰ Fuente: Perito de la TÜV Süd Rail GmbH, elaborado por BEU
-
+En la zona inferior del cuadro de mando 1 se alojaban los elementos de conmutación con la mayor carga energética. Aquí existía la posibilidad de altas corrientes de fallo con el correspondiente desarrollo de calor. La reconstrucción del desarrollo del incendio en el marco de la pericia realizada por los expertos en incendios puso de manifiesto que un incendio originado en el interior del cuadro de mando 1 podía alcanzar una temperatura considerable debido a las piezas de plástico instaladas. La siguiente figura, una imagen detallada de la zona inferior del cuadro de mando del EW 1 del vehículo dañado, evidencia que los contactores allí instalados, sometidos a una alta carga energética, estaban montados en un bastidor oscilante sobre los raíles de montaje sin separación horizontal entre sí. Asimismo, se constató que los dos contactores 6K4 y 7K1, que según los cálculos soportaban las mayores cargas eléctricas y, por tanto, los mayores potenciales de corriente de fallo, estaban situados directamente uno al lado del otro sobre el raíl de montaje.
+Figura 12: Zona inferior del cuadro de mando 1 intacto en el EW 110
+Investigaciones más amplias determinaron que la misma circunstancia se daba no solo en el vehículo aquí estudiado, sino también en todos los demás vehículos de esta BR que estaban en servicio en la NEB Betriebsgesellschaft mbH.
+10 Fuente: Peritos de TÜV Süd Rail GmbH, elaborado por BEU
 
 ## Página 26
+
 
 Los contactores 6K4 y 7K1 cumplían los criterios exigidos para la explotación ferroviaria teniendo en cuenta las cargas térmicas y dinámicas habituales. A continuación se indican los datos técnicos según la hoja de datos del fabricante:
 - Contactor 6K4: TNL 40 E – contactor auxiliar 4 elementos de conmutación, bobina 24V 6A DC 24V DC 5W; 4S + 0Ö, 1SBH 14 3061 R5140
@@ -484,6 +488,7 @@ Mediciones realizadas por la NEB Betriebsgesellschaft GmbH en condiciones de exp
 ¹¹ Fuente: Comunicación (correo electrónico) del fabricante de contactores ABB de 24.11.16
 
 ## Página 27
+
 
 La resistencia térmica de los relés excluía, según información facilitada por ABB, la ignición de los materiales del relé. No obstante, según ABB, existía la posibilidad de que se encendieran medios procedentes del entorno del relé (p. ej., lubricantes o productos de limpieza).
 
@@ -497,8 +502,8 @@ El fabricante de relés ABB manifestó a la BEU, respecto de la distancia mínim
 
 12 Fuente: ABB, relés auxiliares, datos técnicos, instrucciones de montaje, elaborado por la BEU
 
-
 ## Página 28
+
 
 nicht schön. Zur Sicherheit, d. h. dass keine zu hohen Temperaturen entstehen, aber vor allem diese Verfärbung verhindert wird, wurde die Vorgabe für den Abstand gegeben.“13
 
@@ -513,8 +518,8 @@ Según el contrato de arrendamiento entre el propietario del tren de unidades, l
 13 Fuente: carta (correo electrónico) del fabricante de relés ABB de 24.11.16
 14 Fuente: carta (correo electrónico) del fabricante de vehículos Bombardier Transportation de 13.02.2017
 
-
 ## Página 29
+
 
 Figura 14: Extracto del plan de mantenimiento para la BR 643
 
@@ -526,11 +531,13 @@ Los trabajos por plazos debían realizarse según el plan de mantenimiento. Los 
 
 ## Página 30
 
+
 se firmó. Según información de la dirección del taller, en la NEB BetriebsgesellschaŌ mbH los trabajos de mantenimiento no se realizaban necesariamente en el orden de los pasos de trabajo según los protocolos. Más bien, la secuencia temporal de los trabajos periódicos venía determinada por los recursos disponibles en el momento de la ejecución. Según el plan de mantenimiento, en el marco de todos los trabajos periódicos, los contactos (Schütze) debían someterse a inspecciones visuales periódicas. Una concreción del contenido de la inspección visual de los contactos se estableció en el manual de reparación para la BR 643 (Talent) y se muestra en la siguiente figura.
 Figura 15: Extracto del manual de mantenimiento para la BR 643
 Los documentos de mantenimiento de los tres meses anteriores al suceso estaban disponibles. Los registros de los trabajos periódicos uno, dos y cuatro no contenían indicación alguna de defectos. Los trabajos periódicos tres no se realizaron en el periodo indicado. En las inspecciones visuales de los contactos realizadas en el marco de los trabajos periódicos, según los protocolos no se documentaron defectos y, por tanto, tampoco signos externos de sobrecarga térmica. Una documentación inequívoca del estado de los contactos mediante fotografías o descripciones no estaba prevista en la inspección visual realizada por el personal de la NEB BetriebsgesellschaŌ mbH. Debido a la destrucción total del vehículo, no era posible emitir una afirmación sobre el estado real concreto de los contactos en el cuadro eléctrico 1 en el momento del último trabajo periódico realizado antes del suceso del incendio. Piezas de referencia o ilustraciones mediante las cuales hubieran podido compararse decoloraciones en los contactos y evaluarse en cuanto a su criticidad –en particular en la posición de montaje sin holgura descrita anteriormente con respecto a componentes adyacentes–, según la información de la NEB BetriebsgesellschaŌ mbH, no existían. Instrucciones de trabajo o medios auxiliares que hubieran podido facilitar la inspección visual en las zonas inferiores de los cuadros eléctricos, según la información de la NEB BetriebsgesellschaŌ mbH, no estaban disponibles. Tampoco había herramientas para verificar el par de apriete de los tornillos de fijación de los contactos y de los cables.
 
 ## Página 31
+
 
 ### Hallazgos de la investigación de los vehículos
 N.º 7
@@ -543,6 +550,7 @@ Instrucciones o medios auxiliares para la realización de la inspección visual,
 El fabricante del vehículo había establecido en su plan de mantenimiento que todos los contactos debían sustituirse tras ocho años de servicio. En el vehículo incendiado, en el momento del siniestro, tras aproximadamente once años de servicio no se había sustituido ningún contacto.
 
 ## Página 32
+
 
 ### 4.8 Investigaciones para la determinación de la causa del incendio
 Las investigaciones para la determinación de la causa del incendio fueron encomendadas a la TÜV Sued Rail GmbH. Los resultados de la investigación se resumieron en un peritaje. El contenido de este peritaje se integra en esta sección del informe de investigación. Las citas se señalan en consecuencia.
@@ -557,6 +565,7 @@ Además, quedaron descartados como posibles puntos de partida del incendio la zo
 
 ## Página 33
 
+
 Figura 16: Esquema del sistema Talent (extracto)15
 Figura 17: Posición de los cuadros eléctricos 1 y 2 en el EW 2 destruido 16
 Para la delimitación final del punto de partida de la iniciación del incendio, el experto estableció supuestos adicionales:
@@ -566,6 +575,7 @@ La alimentación eléctrica central (zona de la batería) alojada en el cuadro e
 
 ## Página 34
 
+
 no podía sospecharse como origen del incendio. El área de tecnología de señalización, situada en la parte superior del cuadro eléctrico 1 «Control del vehículo», no entraba en consideración como origen del incendio debido a su bajo potencial energético. Así, se eliminaron el cuadro eléctrico 2 y la parte superior del cuadro eléctrico 1 como posibles orígenes del incendio. Mediante el método de exclusión del perito, se localizó el origen del incendio en la parte inferior del cuadro eléctrico 1.
 
 ### 4.8.2 Delimitación adicional de la causa del incendio
@@ -574,8 +584,8 @@ Como posibilidad de fallo, se consideraron conexiones de cables sueltas en una r
 
 Debido a los bajos potenciales de energía de fallo, se excluyeron 13 de los 15 contactores montados en el bastidor oscilante como orígenes del incendio. Los dos contactores restantes, 6K4 y 7K1, eran los que soportaban las corrientes totales más altas de todos los contactores montados en el bastidor oscilante. A través de ellos circulaba la corriente para la calefacción del acoplamiento. La avería registrada a las 17:59 antes del suceso
 
-
 ## Página 35
+
 
 «Rotura de tren», véase el apartado 4.6, hacía suponer una avería en el acoplamiento. Por ello, los contactores 6K4 y 7K1, a través de los cuales se controlaban las corrientes para la calefacción del acoplamiento, se identificaron finalmente como las fuentes de fallo más probables o como los posibles desencadenantes del suceso del incendio.
 
@@ -599,8 +609,8 @@ Nota: En caso de conmutaciones frecuentes, p. ej. iniciadas por el movimiento de
 La posibilidad de fallo de un contacto debido a una influencia externa originada en una carga de corriente excesivamente alta a través del contacto de conmutación no puede descartarse.
 Un posible defecto en el circuito de calefacción puede causar una transferencia de energía permanente excesivamente alta, por lo que se forma un punto caliente en el contacto de conmutación y se produce la ignición de la carcasa del contacto. Los circuitos de calefacción de las calefacciones de acoplamiento han resultado estar intactos.
 
-
 ## Página 36
+
 
 Nota: Debido a la potencia de calefacción de 200 W indicada por el fabricante del vehículo (depósito de condensadores, más la calefacción del Typhon con 30 W daría en total 9,6 A en el contacto) y al valor de 1,5 A medido por el operador, se obtiene aquí un indicio de fallo posible.»17
 
@@ -623,6 +633,7 @@ A lo largo de la vida útil se producirá una generación de calor cada vez mayo
 
 ## Página 37
 
+
 corresponde. Asimismo, los 'desplazamientos' o picos de las resistencias de contacto eran en el 'usado' sustancialmente mayores que en el 'nuevo'. 
 (…) El comportamiento de desgaste de los dos contactores 6K4 y 7K1 debe considerarse equivalente. Esto significa que, a pesar de una carga de corriente diferente a través de los contactos respectivos, se produce un envejecimiento uniforme y no se aprecia significancia de una mayor carga energética. 
 Mediante una especificación adecuada del ciclo de sustitución se limitan los efectos. En el presente caso, los 8 años fijados por el fabricante del vehículo deben, sin embargo, considerarse fijados de forma muy conservadora."19 
@@ -632,10 +643,10 @@ Según el peritaje, cabe suponer que, debido a aportes térmicos elevados durant
 ### ocho años de servicio 
 En el peritaje, por una parte, se expone que mediante el ciclo de sustitución fijado se limitan los efectos del envejecimiento de los contactos, por otra parte, sin embargo, se valoró la 
 19 Fuente: Peritaje de la TÜV Süd Rail GmbH 
-20 Fuente: Peritaje de la TÜV Süd Rail GmbH 
-
+20 Fuente: Peritaje de la TÜV Süd Rail GmbH
 
 ## Página 38
+
 
 especificación de sustituir todos los contactores a los ocho años por parte del fabricante del vehículo como fijada más bien en el sentido de la seguridad. 
 En última instancia, en el peritaje se indicó lo siguiente: 
@@ -645,10 +656,10 @@ No obstante, al final se concluye:
 ### Valoración del montaje sin holgura de los contactores en dirección horizontal 
 En el peritaje se expone que mediante el montaje sin cinco milímetros de holgura puede producirse una acumulación de calor adicional. Asimismo, una decoloración incipiente de la cámara de contacto no podría reconocerse mediante una inspección visual desde el frente, aunque esto tampoco sería posible con un montaje con los cinco milímetros de holgura. 
 21 Fuente: Peritaje de la TÜV Süd Rail GmbH 
-22 Fuente: Peritaje de la TÜV Süd Rail GmbH 
-
+22 Fuente: Peritaje de la TÜV Süd Rail GmbH
 
 ## Página 39
+
 
 ### 4.8.4 Determinación pericial de la causa del evento de incendio 
 Según el peritaje, el evento de incendio se produjo bien: 
@@ -665,6 +676,7 @@ Debido a las cargas existentes, el contactor 6K4 fue identificado, según el per
 
 ## Página 40
 
+
 ## 5 Evaluación
 El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las conclusiones mencionadas anteriormente, se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
 
@@ -675,6 +687,7 @@ Hacia las 19:54, el maquinista del tren comunicó por GSM-R al Jefe de Circulaci
 
 ## Página 41
 
+
 ### 5.2 Evaluación y conclusión
 El punto de partida del incendio se localizó en la parte inferior del cuadro eléctrico 1 del coche 2. Debido a la destrucción total del coche 2, la causa del incendio del vehículo no pudo determinarse de forma inequívoca. Sin embargo, con alta probabilidad, un sobrecalentamiento en el área del contactor 6K4 fue la causa de la aparición del incendio. A través de este contactor se conmutaban las corrientes de la calefacción del acoplamiento.
 
@@ -684,15 +697,18 @@ Debido al incumplimiento parcial de las especificaciones del fabricante de conta
 
 ## Página 42
 
+
 A la NEB BetriebsgesellschaŌ GmbH le correspondía, conforme al contrato de arrendamiento con la Alphatrains Europe GmbH desde 2011, el mantenimiento del tren de motor incendiado. Según el manual de mantenimiento de la BR 643, para todos los plazos estaba prevista una inspección visual de los contactores y relés. El intervalo entre plazos no debía superar los 3 meses. Según la EBO y el plan de mantenimiento, la primera HU debe realizarse como máximo a los seis (+1, +1) años de servicio o tras una distancia recorrida máxima de 1.000.000 km. La primera HU del VT 643.20 tuvo lugar en 2013, tras ocho años de servicio y una distancia recorrida de 1.466.461 km. Esto supone una superación de la distancia recorrida hasta la primera HU de casi el 50 %. La última inspección visual de los contactores se realizó en el marco de los trabajos de plazo 4 el 09.12.2015, el último plazo ejecutado antes del evento de incendio, según el registro de plazos. Según dicho registro, no se detectó ningún defecto. Una documentación concreta (p. ej., fotografías) del estado real en el sentido de un control de evolución o de la aplicación de un principio de cuatro ojos no estaba prevista en la implementación tecnológica del mantenimiento en la NEB BetriebsgesellschaŌ GmbH. No obstante, en cuanto a la posición de montaje prevista o la real que se desviaba de ella, tampoco existían instrucciones de trabajo sobre cómo llevar a cabo esta inspección visual de forma completa o de manera satisfactoria. El perito añadió que los cambios iniciales de los plásticos empleados como consecuencia de la acción térmica en las superficies laterales de los contactores no eran inmediatamente reconocibles. También a la vista de esta problemática, parece aconsejable mejorar la documentación del estado real. La ausencia en la NEB BetriebsgesellschaŌ GmbH de medios auxiliares para apoyar una inspección óptica y la documentación no verificable del estado real de los contactores dejan abiertas dudas sobre los resultados de las inspecciones visuales realizadas conforme a los registros de plazos. En el taller de la NEB en Basdorf, según información de la NEB BetriebsgesellschaŌ GmbH, faltaban los recursos para sustituir correctamente todos los contactores de los vehículos de la BR 643 allí explotados. Por ello, el cambio completo de todos los contactores solo era posible en el marco de una revisión por parte de una empresa externa.
 
 Con motivo de la HU del vehículo accidentado prevista en 2013 tras ocho años de servicio, se encargó a una empresa externa su preparación, que en cuanto al alcance de la prestación correspondía a una revisión del vehículo. Debido a la exigencia según el plan de mantenimiento y a los recursos disponibles en la empresa externa, en el marco de las medidas de preparación para la HU habría tenido que realizarse un cambio de contactores y también habría podido llevarse a cabo
 
 ## Página 43
 
+
 No obstante, en el alcance de la prestación acordado entre la NEB BetriebsgesellschaŌ GmbH y la empresa externa no se incluía el cambio de todos los contactores.
 
 ## Página 44
+
 
 ## 6 Medidas adoptadas hasta la fecha
 

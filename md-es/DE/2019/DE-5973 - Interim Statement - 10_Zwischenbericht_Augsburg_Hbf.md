@@ -10,12 +10,13 @@ chars: 3993
 ratio_longitud: 1.01
 tokens_in: 2050
 tokens_out: 1082
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/4 (25%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,42 +35,41 @@ Evento peligroso en la explotación ferroviaria
 | Vía: | 66 |
 | Kilómetro: | 07 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice
+## Índice 
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................................... |
-| 2 | Colisión de trenes el 15 02 2019 en la Estación de Augsburg Hbf 2 . . ....................................... |
-|  | 2.1 Descripción breve del evento 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .................................................................................. |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Colisión de trenes el 15022019 en la estación de Augsburg Hbf 2 . . ....................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I.
 ## Índice de modificaciones
-| Modificación | Estado |
-| Versión 2 0 por vencimiento del plazo anual. | 22 01 2021 . . |
-| Versión 3 0 por vencimiento del plazo anual. | 13 01 2022 . . |
-| Versión 4 0 por vencimiento del plazo anual. | 04 01 2023 . . |
+| Modificación | Versión |
+| Versión2 0 en función del plazo anual alcanzado . | 22 01 2021 . . |
+| Versión3 0 en función del plazo anual alcanzado . | 13 01 2022 . . |
+| Versión4 0 en función del plazo anual alcanzado . | 04 01 2023 . . |
 I
 
-
 ## Página 4
+
 
 ## 1 Notas previas
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, en todas las investigaciones formalmente abiertas y en curso por una oficina de investigación, se debe publicar al menos un informe intermedio en cada aniversario del evento peligroso. Los informes contienen información sobre el estado de la investigación y sobre posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no reclama ser completa.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 15.02.2019 en la Estación de Augsburg Hbf
 Este informe intermedio contiene una descripción breve del evento y de sus consecuencias. A continuación, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se enumeran en el último apartado.

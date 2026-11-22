@@ -10,13 +10,13 @@ chars: 79237
 ratio_longitud: 1.04
 tokens_in: 38165
 tokens_out: 22404
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 16: cifras largas: faltan 1/1 (100%)"]
-notas_cifras: ["página 13: cifras cortas: 2/4", "página 14: cifras cortas: 2/12", "página 23: cifras cortas: 1/15", "página 40: cifras cortas: 1/19"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -34,16 +34,16 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 1/27 |
 | Aguja: | W74 |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -94,8 +94,8 @@ Funciones y obligaciones........................................................
 Examen de los procesos operativos del gestor de infraestructura......................... 12
 I
 
-
 ## Página 4
+
 
 4.1.2
 Examen de los procesos operativos de las EVU..................................................... 18
@@ -133,8 +133,8 @@ Modificación
 Estado
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -156,8 +156,8 @@ Tabla 5: Entradas abiertas de acreditación de las modificaciones temporales....
 Tabla 6: Compilación de los factores influyentes............................................................. 33
 III
 
-
 ## Página 6
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -216,8 +216,8 @@ Especificación Técnica para la Interoperabilidad Subsistema
 «Explotación y gestión del tráfico»
 IV
 
-
 ## Página 7
+
 
 | W | Aguja |
 | Ww | Guardagujas |
@@ -225,8 +225,8 @@ IV
 | Zsig | Señal intermedia |
 V
 
-
 ## Página 8
+
 
 ## 0 Nota preliminar
 Sobre la base del artículo 24 de la Directiva (UE) 2016/798, la Comisión Europea
@@ -242,8 +242,8 @@ Con la publicación del reglamento y su entrada en vigor el vigésimo día tras 
 publicación en el Diario Oficial de la Unión Europea (UE), este es vinculante y debe
 aplicarse de forma inmediata a todas las investigaciones iniciadas a partir del 17.05.2020.
 
-
 ## Página 9
+
 
 ## 1 Resumen
 El primer capítulo contiene una descripción breve del suceso, así como información sobre las
@@ -276,6 +276,7 @@ punto 4.6.1 b), equipar al menos las agujas de las vías principales con un tope
 
 ## Página 10
 
+
 ## 2 La investigación y su contexto
 La Oficina Federal de Investigación de Accidentes Ferroviarios (BEU) es competente para la investigación de sucesos peligrosos en la explotación ferroviaria, en el sentido del capítulo V de la Directiva (UE) 2016/798, en infraestructuras ferroviarias federales y en infraestructuras ferroviarias no federales de la red superior de acuerdo con el § 2b de la Ley General de Ferrocarriles (AEG).
 El objetivo y la finalidad de las investigaciones iniciadas es aclarar las causas del suceso peligroso y derivar de ello indicaciones para la mejora de la seguridad.
@@ -287,6 +288,7 @@ Las actuaciones de investigación de accidentes se llevan a cabo de forma estruc
 
 ## Página 11
 
+
 la determinación de causas se realizan investigaciones abiertas al resultado mediante el método de exclusión en todas las disciplinas técnicas implicadas, y en ellas se llevan a cabo en particular análisis de causa-errores y comparaciones de valor objetivo-valor real.
 Las actuaciones de investigación fueron dirigidas de forma principal por el distrito de investigación localmente competente Suroeste.
 Cuando sea necesario en el caso concreto, los equipos de investigación respectivos reciben apoyo transversal entre distritos y los servicios periciales necesarios se encargan externamente.
@@ -296,6 +298,7 @@ Además, de acuerdo con el § 5b, apartado 4, del AEG, se pueden exigir servicio
 La liberación del lugar del accidente por parte de la infraestructura fue realizada por la BEU el 24.02.2022.
 
 ## Página 12
+
 
 ## 3 Descripción del suceso
 En el tercer capítulo se describe el suceso peligroso con más detalle en dos subcapítulos preestablecidos. En el capítulo 3.1, además de los datos básicos, se incluyen más informaciones sobre el lugar del suceso, las condiciones externas, las consecuencias y los implicados. La reconstrucción del suceso, así como las informaciones sobre la activación y el desarrollo de las medidas de rescate, se presentan en el capítulo 3.2. Las descripciones se refieren fundamentalmente a las condiciones predominantes y a las circunstancias constatadas en el momento del suceso.
@@ -309,12 +312,14 @@ La siguiente figura muestra la situación geográfico-transportística de la est
 
 ## Página 13
 
+
 Figura 1: Plano de situación¹
 La estación de Rüsselsheim estaba dividida en las partes de estación (Bt) Estación urbana y Opelwerk. En el Bt Estación urbana se encontraba la instalación de maniobras (Stw) Rf con el Jefe de maniobras (Fdl). En el Bt Opelwerk se encontraba la instalación de maniobras de guardabarreras Rw con el guardabarreras (Ww) y además el enlace ferroviario a la empresa Adam Opel AG Rüsselsheim. Ambas Stw se trataban de instalaciones de maniobras electromecánicas del tipo E 43 con supervisión por discos de color. A excepción de algunos tramos de vía, todos los vías principales y la mayoría de los desvíos de la estación de Rüsselsheim estaban equipados con una instalación automática de liberación de vía. Asimismo, en el Stw Rf existía una instalación de comunicación de números de tren (ZNL) del modelo ZNL 800. Tanto en el Bt Estación urbana como en el Bt Opelwerk había respectivamente dos andenes.
 La siguiente figura muestra un esquema de la disposición de vías con la parte de la estación de Rüsselsheim relevante para el suceso. En verde se muestra el itinerario previsto de la circulación de trenes S 35968, en rojo discontinuo el recorrido del último vagón descarrilado y en azul discontinuo el itinerario previsto de la circulación de maniobras.
 ¹ Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2022], editado por BEU
 
 ## Página 14
+
 
 Figura 2: Esquema de la disposición de vías²
 ### 3.1.2 Implicados
@@ -333,6 +338,7 @@ En el momento del suceso se daban las siguientes condiciones:
 ² Fuente: DB Netz AG, editado por BEU
 
 ## Página 15
+
 
 | Frecuencia de precipitación | -- |
 | Suelo/precipitación caída | Seco |
@@ -377,14 +383,15 @@ La siguiente figura muestra la parte trasera del tren descarrilado de la S 35968
 
 ## Página 16
 
-Figura 3: S 35968 descarrilada³
-### 3.2 Descripción objetiva de los hechos
-Para la reconstrucción del suceso peligroso, así como para la descripción de las medidas de emergencia, se recurre en particular también a las anotaciones, evaluaciones y hallazgos etc. contenidos en el capítulo 4.
-### 3.2.1 Descripción de los hechos
-En el día del suceso tuvieron lugar obras extensas en la estación de Rüsselsheim, que, además de un aumento de circulaciones de maniobras, requerían una comunicación adicional de carácter de explotación y operativa entre el Jefe de maniobras (Fdl) en el Stw Rf, el guardabarreras (Ww) en el Stw Rw, el Técnicamente Autorizado (TB) de la obra y el puesto de protección de flanco. A partir de las 18:22 horas, además, la instalación de liberación de vía de la vía 27 estaba averiada, de modo que, entre otras cosas, las circulaciones de trenes de Rüsselsheim en dirección a Mainz-Bischofsheim tuvieron que realizarse con encargo especial.
-³ Fuente: DB Netz AG, editado por BEU
+Figura 3: S 359683 descarrilado 
+### 3.2 Descripción objetiva de los hechos 
+Para la reconstrucción del suceso peligroso así como para la descripción de las medidas de emergencia, se recurre en particular también a las anotaciones, evaluaciones y conclusiones etc. contenidas en el capítulo 4. 
+### 3.2.1 Descripción de la secuencia de hechos 
+El día del suceso se llevaron a cabo extensas obras de construcción en la estación de Rüsselsheim, que, además de un aumento de maniobras, requerían una comunicación adicional de gestión y de explotación entre el Jefe de maniobras (Fdl) en el puesto de mando Rf, el Jefe de estación (Ww) en el puesto de mando Rw, el Técnico Autorizado (TB) de la obra y el puesto de protección de flanco. A partir de las 18:22 h, además, estaba averiado el sistema de liberación de vía de la vía 27, por lo que, entre otros, los trenes desde Rüsselsheim en dirección a Mainz-Bischofsheim debían realizarse con orden especial. 
+3 Fuente: DB Netz AG, elaborado por BEU
 
 ## Página 17
+
 
 Hacia las 21:35 h la S 35968 llegó al BÖ Rüsselsheim-Stadtbahnhof con un retraso de unos 28 minutos. Simultáneamente, el TB solicitó por parte de la obra la autorización para una maniobra de la vía 23 a través de la vía 3 hasta la vía 30. El Fdl hizo esperar inicialmente la maniobra para permitir que la S 29531, actualmente en circulación, en dirección a la vía 3 y posteriormente a Raunheim, pasara. Para el viaje de tren S 35968 a realizar a continuación, el Fdl ordenó a las 21:36 h, debido a la avería del sistema de liberación automática de vías de la vía 27, al Ww que emitiera una notificación de aseguramiento de itinerario para su sector de mando y su círculo de comprobación de itinerario. A partir de las 21:37 h, el Fdl dictó una orden al conductor (Tf) de la S 35968 para pasar la señal intermedia (Zsig) T1 y circular a la vista hasta la señal de salida (Asig) P27. La orden fue firmada como válida a las 21:41 h, tras lo cual la S 35968 salió a las 21:42 h del andén de la vía 1, avanzando lentamente a unos 9 km/h, pasando el Zsig T1 que indicaba parada, en dirección a la vía 27. A las 21:42 h, el Fdl concedió inicialmente a la maniobra que esperaba en la vía 23 el permiso para circular hasta la vía 3 en la estación urbana, para desde allí, tras un cambio de sentido, maniobrar tras la S 35968 hasta la vía 30. Todavía mientras la S 35968 circulaba en la zona de agujas, el Fdl liberó el itinerario auxiliar establecido para el viaje de tren S 35968 y accionó la palanca de aguja de la W 74 para realizar la maniobra pendiente en dirección a la vía 30 con la mayor prontitud posible. En ese momento, los dos últimos bogies del ET trasero de la S 35968 transitaban sobre la W 74, que se encontraba en movimiento, lo que provocó que a las 21:45 h se produjera el descarrilamiento de ambos bogies. La S 35968 se detuvo a las 21:46 h con la cabeza del tren aproximadamente en el km 11,58.
 
@@ -396,9 +403,11 @@ El suceso fue comunicado a las 21:48 h por el Fdl de Rüsselsheim al centro de g
 
 ## Página 18
 
+
 No se conocieron irregularidades ni retrasos en relación con la activación de medidas de rescate por parte de la BEU en el marco de la investigación del accidente.
 
 ## Página 19
+
 
 ## 4 Evaluación del suceso
 
@@ -418,6 +427,7 @@ Como parte del SMS de la DB Netz AG, también debían implementarse todos los re
 
 ## Página 20
 
+
 suceso, conforme a TSI OPE Anexo B Capítulo B.1 N.º 5, decía: «Debe impedirse que un tren circule por un tramo de línea cuando se conozca o se sospeche que la circulación no sería segura, hasta que se hayan adoptado medidas que permitan continuar la circulación del tren de forma segura».
 
 Para la realización segura de las circulaciones en la infraestructura de la DB Netz AG, el Fdl en la estación de Rüsselsheim, como operador del Stw, debía cumplir y aplicar las instrucciones de trabajo internas de la empresa subordinadas, entre ellas la normativa de servicio de maniobras Ril 408.
@@ -433,6 +443,7 @@ El viaje de tren S 35968 debía, tras su parada en el andén del BÖ Rüsselshei
 Según la anotación en el libro de trabajo y averías en el Stw Rf, desde las 18:22 h la liberación automática de vías de la vía 27 estaba averiada y mostraba una indicación permanente de ocupación mediante iluminación en rojo. A partir de las 19:47 h, un empleado de la LST se ocupó de la búsqueda de la avería. Debido a esta avería de la liberación automática de vías de la vía 27, no era posible para el Fdl permitir la entrada de viajes de tren en la vía 27 mediante la puesta en vía libre del Zsig T1. La correspondiente palanca de señal de itinerario T1ଶ଻ no podía fijarse debido a limitaciones técnicas, sino que solo podía accionarse hasta la posición de 30° (posición auxiliar).
 
 ## Página 21
+
 
 Según la anotación en el registro de cambios temporales del 23.02.2022, en el Stw Rf no podían operarse señales adicionales, es decir, tampoco la señal sustitutiva en el Zsig T1. Por tanto, a los viajes de tren debía emitírseles una orden escrita como encargo especial para pasar el Zsig T1 que indicaba parada.
 
@@ -450,6 +461,7 @@ El paso del Zsig T1 se realizó con orden. Esta fue transmitida al Tf por el Fdl
 
 ## Página 22
 
+
 La orden 2 permitía, por un lado, el paso sin detenerse ante la señal de parada Zsig T1. Por otro lado, con la orden 12 se había dispuesto la conducción a la vista hasta la señal Asig P27.
 Según Ril 408.0232 Secc. 4, en los desplazamientos con encargo especial eran aplicables las medidas prescritas para la seguridad de la vía hasta que el tren hubiera pasado las agujas o se hubiera detenido en la parada (última) ordinaria. Solo entonces podía levantarse la seguridad de la vía.
 Conforme a Ril 408.0131 Secc. 2, el operador debía comprobar en todo caso, antes de cambiar una aguja, que la aguja no estuviera ocupada por vehículos.
@@ -458,8 +470,8 @@ El libro de puestos de servicio del Bf Rüsselsheim, aplicable al puesto de mand
  En la referencia 408.0233 Secc. 1 Párr. 2a, sin embargo, se indicaba que las secciones marcadas en color en el plano de situación Anexo 01 no estaban incluidas en la instalación automática de liberación de vía y, por tanto, debían comprobarse mediante inspección visual. En el plano de situación estaban marcadas en color todas las agujas, incluida la W 74, del distrito de comprobación de vía Rf (excepto la cabecera de estación en dirección Raunheim), así como las vías 30 y 31, independientemente de que estuvieran equipadas o no con instalación de liberación de vía. Una parte de las agujas citadas, además, no era visible desde el Stw Rf.
 Aparentemente, las disposiciones del libro de puestos de servicio sobre la instalación automática de liberación de vía ya no reflejaban las condiciones locales. La W 74 estaba equipada con una instalación automática de liberación de vía. La instalación de liberación de vía de la W 74 funcionaba correctamente. Conforme a Ril 408.0231 Secc. 3 Párr. 1a), pueden formularse constataciones de vía libre mediante la evaluación de las indicaciones seguras de la instalación de liberación de vía. Esto habría sido posible para el Fdl. Sigue sin aclararse si esto era admisible localmente
 
-
 ## Página 23
+
 
 Conforme al Reglamento (UE) 2018/762 Anexo II Punto 4.4.3 c) y d), la información relevante para la seguridad debe ser coherente y correcta.
 ### Mesa de palancas del puesto de mando de Fdl
@@ -468,8 +480,8 @@ Figura 4: Palanca de señal de itinerario Mesa de palancas Fdl4
 Después del suceso, la palanca de señal de itinerario para el itinerario desde el Zsig T1 hasta la vía 27 se encontraba en la posición de 30°. Para proteger contra la conmutación involuntaria, se habían instalado un cierre auxiliar y la etiqueta recordatoria "AP". Las palancas de aguja (no representadas) de las agujas 74 y 69 se encontraban en posición normal, es decir, ambas para el itinerario por el carril recto hacia la vía 27. El disco de color de la W 74 indicaba posición normal, el de la W 69 indicaba posición de avería.
 4 Fuente: Bundespolizei, editado por BEU
 
-
 ## Página 24
+
 
 En el marco de las inspecciones sobre el terreno, se establecieron a modo de prueba todas las agujas y dispositivos de protección de flanco relevantes para la vía del S 35968, y se colocó la palanca de señal de itinerario en la posición de 30° conforme a la figura. La palanca de aguja de la W 74 quedó a continuación cerrada mecánicamente y ya no podía ser conmutada.
 La evaluación de los rastros del accidente determinó que la W 74 fue cambiada bajo el tren en circulación. No se indicó ninguna avería en el transmisor de aguja del equipo interior de la W 74. Tampoco había avería en el equipo exterior de la W 74. No se accionó ningún dispositivo de mando auxiliar para la W 74. Todos los sellos estaban presentes. Los estados de los contadores documentados en la prueba correspondían a los contadores de la mesa de palancas.
@@ -477,8 +489,8 @@ La evaluación de los rastros del accidente determinó que la W 74 fue cambiada 
 La siguiente figura muestra la visibilidad desde el Stw Rf sobre el distrito de comprobación de vía en dirección Bf Rüsselsheim-Opelwerk durante el día y con tiempo seco.
 Figura 5: Vista desde el Stw Rf
 
-
 ## Página 25
+
 
 La W 74, relevante para el suceso, y la W 74 posterior, la W 69, eran ambas bien reconocibles desde el Stw Rf. Para la realización de circulaciones de trenes en oscuridad o con visibilidad reducida en relación con la necesidad de una comprobación de sección, el Bf Rüsselsheim estaba equipado con iluminación de campo de vías. Después del accidente, la iluminación de campo de vías en el área relevante del suceso de la W 74 estaba apagada. No pudo aclararse posteriormente de forma inequívoca si esto se debía a motivos constructivos o fue causado por los efectos del accidente. En este sentido, queda sin aclarar si el Fdl disponía, en el momento de la circulación del S 35968, de visibilidad suficiente sobre su distrito de comprobación de vía.
 ### Evaluación de las comunicaciones GSM-R
@@ -489,8 +501,8 @@ Por parte de la obra, el Fdl contactó tanto con el puesto de protección de fla
 DB Regio AG era, conforme al § 2 Abs. 1 AEG, la EVU responsable de la circulación del tren S 35968. A tal efecto, disponía de un certificado de seguridad conforme al § 7a AEG con vigencia hasta el 20.12.2025. La EVU estaba así habilitada para participar en la explotación ferroviaria.
 Conforme al § 4 Abs. 3 AEG, la EVU está obligada a explotar de forma segura. Existe en particular la obligación de realizar las circulaciones de trenes de forma segura. Para garantizar la
 
-
 ## Página 26
+
 
 explotación segura de forma sistemática corresponde, entre otros, el establecimiento y el cumplimiento de un SMS que satisfaga los requisitos legales conforme al § 4 Abs. 4 AEG en relación con la Directiva (UE) 2016/798. Los criterios de contenido para un SMS eran el establecimiento y el cumplimiento de los requisitos mencionados en el Reglamento (UE) 2018/762. Asimismo, debían respetarse y aplicarse las normas de explotación elaboradas por el EIU para el uso de la infraestructura.
 La circulación del tren S 35968 debía realizar el día del suceso el recorrido desde Hanau Hbf hasta Wiesbaden Hbf y detenerse en el Bf Rüsselsheim-Stadtbahnhof a las 21:07 y en el Bf Rüsselsheim-Opelwerk a las 21:11. El S-Bahn ya tenía a su llegada al Stadtbahnhof un retraso de 28 minutos. Conforme al horario, la circulación del tren estaba formada por tres ET de la serie 430 y tenía, por tanto, una longitud total de 204,9 m. Los 149 centésimas de frenado mínimas exigidos se alcanzaron, conforme a la hoja de frenado permanente, con 150 centésimas de frenado disponibles.
@@ -498,8 +510,8 @@ Los datos de circulación del S 35968 se registraron en el registro electrónico
 Los datos horarios almacenados en la EFR coincidían con los datos de la ZNL. La EVU había establecido que, en la conducción a la vista de noche y con tiempo seco, no debía superarse una velocidad máxima de 15 km/h. Las velocidades máximas permitidas no se superaron en el período examinado.
 La siguiente figura muestra una representación gráfica de los datos de la EFR en el área relevante.
 
-
 ## Página 27
+
 
 Figura 6: Evaluación gráfica de la EFR
 Después de una parada de unos siete minutos en el andén del Bf Rüsselsheim-Stadtbahnhof, el tren volvió a partir a las 21:42. A los ocho metros, durante el paso sin detenerse ante la señal de parada Zsig T1, se registraron una interferencia de 2.000 Hz y la activación de la tecla de orden. A continuación, el Tf aceleró la circulación del tren hasta 9 km/h. La circulación del tren se ralentizó a partir de las 21:45:09 hora EFR en km 11,705 sin activación de la palanca de conducción y frenado. Teniendo en cuenta la longitud del tren, en ese momento los últimos bogies del conjunto ferroviario se encontraban sobre la W 74 (en circulación). El tren continuó a continuación unos 125 m más con velocidad decreciente para detenerse finalmente a las 21:46:49 con la iniciación de una frenada rápida por parte del Tf. El tramo último mencionado correspondía aproximadamente a la longitud de descarrilamiento medida sobre el terreno de los últimos bogies desde la W 74 hasta la parada.
@@ -510,6 +522,7 @@ La circulación del tren S 35968 estaba formada por tres ET de la serie 430. Est
 De la siguiente tabla pueden extraerse los datos técnicos de los vehículos:
 
 ## Página 28
+
 
 |  | Número de vehículo primer ET |  | 94800430123 0 - |
 |  | Número de vehículo segundo ET |  | 94800430173 5 - |
@@ -530,15 +543,17 @@ Se descarrilaron los dos últimos bogies del ET 430 164 que circulaba en cola. E
 ### 4.2.2 Examen de la infraestructura de ingeniería civil
 El descarrilamiento se produjo en la W 74. Se trataba de una aguja simple con corazón rígido del tipo de aguja EW 60-500-1:12-WITEC. El 5 Fuente: DB Regio AG, elaborado por BEU
 
-
 ## Página 29
+
+
 intervalo de inspección ordinario según Ril 812.2005 era de seis meses. Las últimas inspecciones antes del suceso tuvieron lugar el 11.05.2021 y el 08.11.2021. En ambas inspecciones no se detectaron medidas que se desviaran de la normativa. A partir de las huellas de descarrilamiento era apreciable que la W 74 se pasó por delante del último bogie motriz de extremo. Debido a la circulación a dos vías resultante, el bogie motor intermedio (Jakobstriebdrehgestell) que circulaba delante también fue desplazado fuera de la vía. Las huellas de descarrilamiento se extienden a lo largo de una distancia de ca. 125 m desde la W 74 hasta el bogie motriz de extremo descarrilado al final del tren.
 Se prescindió de un examen más amplio de la infraestructura de ingeniería civil debido a los hallazgos sobre el desarrollo del accidente.
 ### 4.2.3 Examen de la técnica de mando y seguridad
 La instalación automática de liberación de vía en la estación (Bf) Rüsselsheim se trataba de circuitos de vía de 100 Hz de la empresa Siemens. La indicación se realizaba en el puesto de mando (Stw) Rf tanto mediante una tabla de avisos especial sobre el esquema del aparato de enclavamiento como mediante lámparas de aviso en el aparato de enclavamiento. La siguiente figura muestra la tabla de avisos tras el suceso del accidente. La W 74 relevante mostraba una indicación de vía ocupada (iluminación en rojo). La maniobra de maniobras esperaba en la vía 3 de la estación (Bf) Rüsselsheim-Stadtbahnhof.
 
-
 ## Página 30
+
+
 Figura 8: Tabla de avisos Stw Rf6
 Además de la instalación de liberación de vía, en el Stw Rf una parte de las palancas de aguja estaba equipada con un bloqueo de palanca. Este impedía técnicamente el cambio de posición cuando un vehículo se encontraba en el área de aislamiento de la aguja. La W 74 relevante para el suceso no estaba equipada con un bloqueo de palanca de este tipo. La DB Netz AG justificó esto indicando que la aguja se encontraba en el campo visual inmediato del Stw Rf. Esto significa que una ocupación de la aguja detectada por la liberación de vía no impedía que la palanca de aguja fuera accionada y, por tanto, que la aguja pudiera ser cambiada bajo los vehículos.
 ### Inspecciones
@@ -547,8 +562,8 @@ Según la documentación presentada, las últimas inspecciones periódicas del S
 En el momento del suceso existían en el Stw Rf varios cambios temporales en las instalaciones de señalización, que aún estaban vigentes y habían influido en los procesos operativos. La causa eran respectivamente deficiencias en la instalación de señalización que no podían subsanarse a corto plazo:
 6 Fuente: Bundespolizei, elaborado por BEU
 
-
 ## Página 31
+
 
 |  | Entrada |  | Fecha |  | Medida |  | Causa de la entrada . |
 |  | N.º ord. . . |  |  |  | operativa |  |  |
@@ -561,8 +576,9 @@ La entrada N.º 20 se produjo el día del suceso a las 09:35 h. Según la misma,
 El motivo de la medida de la LST fue, según la información de la DB Netz AG, la duda del responsable de instalación (ALV) sobre la inspección debidamente realizada de las señales sustitutivas, tras haberse producido en una avería una imagen de señal dudosa. Según Ril 892.0101 Secc. 1, el ALV tiene la responsabilidad plena por el funcionamiento seguro y correcto de las instalaciones asignadas. Según Ril 892.0103 Secc. 1, las inspecciones sirven para la determinación y evaluación del estado real de una instalación LST. Dado que existían dudas sobre el funcionamiento correcto de los componentes de la instalación, se prohibió su operación. Según Ril 892.0103 Secc. 3 Párr. 48, se programó una inspección adicional para la semana 10, es decir, ca. 10 días después del momento del suceso.
 El requisito técnico para operar con éxito la señal sustitutiva en el Zsig T1 era que la palanca de señal de itinerario se encontrara al menos en la posición de 30°. Con ello se pretendía
 
-
 ## Página 32
+
+
 lograr principalmente que, al operar la señal sustitutiva, la señal de bloqueo luminosa Ls T1 situada en la misma ubicación no mostrara un significado de señal diferente, sino que se apagara. A la vez, en la posición de 30° las palancas de aguja quedaban bloqueadas mecánicamente contra el cambio de posición en la disposición correcta para el itinerario correspondiente. Dado que no se podía operar la señal sustitutiva en el Zsig T1, desde el punto de vista técnico no era necesaria la posición de 30° de la palanca de señal de itinerario para la realización de la circulación de tren S 35968.
 Conforme a la disposición administrativa sobre el procedimiento de la EBA para la prevención de peligros en caso de sucesos peligrosos (VV-EBAGaGE) Anexo 1 N.º 8, los fallos técnicos mayores, entre otros en instalaciones de señalización, estaban sujetos a declaración a la EBA. Estas directrices de la EBA se incorporaron en la Ril 423.0101A01 de la DB Netz AG. Los hechos representados en la Tabla 5 anterior, procedentes del registro de los cambios temporales, cumplían los criterios de la disposición administrativa. Esta obligación de declaración a la EBA no fue cumplida por parte del EIU.
 ### Averías
@@ -570,8 +586,9 @@ Ya el día anterior, el 22.02.2022, se produjo a las ca. 23:43 h una avería en 
 La causa de la avería de la liberación de vía ya no pudo ser determinada tras el suceso del accidente. Según la información de la DB Netz AG, se intercambiaron la alimentación de entrada y de salida del circuito de vía.
 En el libro de trabajo y averías se encontraba, bajo el número ordinal 91, la siguiente entrada abierta del día anterior, 22.02.2022, 12:40 h: «Trabajos según Betra F 545076 22. Las liberaciones de vía de las agujas 77 y 72-75 se simulan como permanentemente libres …». La W 74 estaría asimismo afectada por esta medida. Tras la consulta
 
-
 ## Página 33
+
+
 la DB Netz AG comunicó que la entrada estaba «formulada de forma imprecisa». Según el punto 5.1.4 de la Betra, solo estarían afectadas las agujas 77, 72 y 75. Sin embargo, en la Betra solo se mencionaba la W 79. Dado que la W 74 mostró tras el suceso una indicación de vía ocupada, puede asumirse que la instalación de liberación de vía de la W 74 estaba operativa.
 En el libro de trabajo y averías del Stw Rf se encontró un número inusualmente elevado de entradas sobre trabajos y averías en la instalación de señalización. En el libro de trabajo y averías vigente se registraron 93 entradas desde el 01.09.2021 hasta el suceso del accidente (seis meses). En el libro de trabajo y averías anterior, del 03.09.2020 al 01.09.2021 (12 meses), 164 entradas. Esto apunta a una alta vulnerabilidad a averías y, en consecuencia, a un elevado esfuerzo de mantenimiento de la instalación LST.
 ### 4.3 Factores humanos
@@ -583,6 +600,7 @@ La frecuencia de supervisión del puesto de trabajo del Fdl en el Stw Rf estaba 
 
 ## Página 34
 
+
 más del 50 % del número de controles operativos en un período de tres meses no estaba permitido. Contrariamente a estas directrices, se observó, además de una única supervisión en el mes de marzo, una concentración de las restantes supervisiones en los meses de septiembre a noviembre (siete de ocho). Asimismo, de conformidad con Ril 412.9111 Secc. 5 Apdo. 2, dos de los controles operativos habrían debido realizarse como controles operativos especiales (fin de semana, horas nocturnas). De acuerdo con la definición de un control operativo especial, solo pudo identificarse una supervisión en noviembre de 2021 como tal. La última supervisión del Fdl antes del suceso consta a fecha de 25.11.2021. En el control operativo del 28.10.2021, la circulación de trenes con encargo especial fue objeto de la conversación de instrucción.
 
 ### Carga de trabajo
@@ -591,8 +609,8 @@ Las conversaciones GSM-R analizadas, así como el número de circulaciones de tr
 
 La curva de carga presentada de un día laborable normal muestra, para el período relevante de las 21:00 a las 22:00, una carga media respectivamente del 92 %, el 63 % y el 79 %. Durante la duración de las obras, algunos trenes fueron desviados o se encontraban fuera de servicio. Según una estimación propia de DB Netz AG, permanecían aproximadamente el 75 % de las circulaciones de trenes. Por el contrario, en el período del suceso se produjeron sobrecargas del Fdl claramente previsibles e imprevisibles derivadas de
 
-
 ## Página 35
+
 
 - Mayor esfuerzo para la realización de circulaciones de trenes (cambio de vía, despacho, comunicación con Ww y puestos de protección de flanco),
 - Comunicación con la obra,
@@ -614,8 +632,8 @@ En este capítulo se abordan especialmente las condiciones, los mecanismos de re
 
 ### Ejercicio de supervisión
 
-
 ## Página 36
+
 
 De forma análoga a las lagunas o a la concentración de las supervisiones realizadas al Fdl afectado, se apreciaron lagunas claras en la verificación documentada de documentación operativa, especialmente en los primeros ocho meses del año 2021. En cuanto a los motivos de este ejercicio de supervisión insuficiente, DB Netz AG comunicó que el puesto de trabajo del BezL B para el área de Rüsselsheim había permanecido sin cubrir desde enero de 2021. A partir de julio de 2021, dos BezL B de otros distritos se hicieron cargo, de forma auxiliar y además de sus tareas habituales, del distrito de supervisión. Desde septiembre de 2021 hasta enero de 2022, fueron apoyados por un BezL B cedido desde otra ubicación operativa. En el momento del suceso, la plaza del BezL B para Rüsselsheim seguía vacante y era suplida adicionalmente por un BezL B de otro distrito. DB Netz AG reconoció «que en todo el período de observación se produjeron infradotaciones temporales en el ámbito de los BezL B en el distrito operativo de Maguncia». No se aclaró más si existía una distribución ordenada del trabajo entre los BezL B restantes.
 
@@ -627,8 +645,8 @@ De conformidad con la Ordenanza de construcción y explotación ferroviaria (EBO
 
 Para el BezL B responsable de la estación de Rüsselsheim en el momento del suceso, se solicitaron documentos de cualificación para su consulta. Inicialmente, se presentaron documentos de un BezL B que ya no era competente. Tras una consulta más detallada, DB Netz AG comunicó que no podía presentarse el acreditamiento de una formación funcional para el BezL B que suplía
 
-
 ## Página 37
+
 
 actualmente. El BezL B en cuestión había adquirido su cualificación en el marco de la formación de acceso al servicio superior en la entonces Deutsche Bundesbahn en el año 1990. Según DB Netz AG, este empleado no requería ninguna otra prueba o cualificación para ser BezL B. Esta afirmación dejó sin considerar que, en el momento de la mencionada prueba, por una parte no existía la función de BezL B en esta forma y, por otra, el empleado, desde su examen de acceso al servicio ferroviario, también había estado activo en otras funciones durante largos períodos de tiempo. De conformidad con el Reglamento (UE) 2018/762 Anexo II punto 4.2.1, a los empleados con tareas de seguridad deben transmitirse las competencias necesarias. Estas deben definirse previamente en el SMS conforme al punto 4.2.1 del reglamento y formarse de forma periódica y acreditada conforme al punto 4.2.2. Además, debe garantizarse que las cualificaciones y habilidades se mantengan a largo plazo. Esto significa también que deben estar suficientemente presentes desde el primer momento antes de la asignación de una actividad. De forma análoga, conforme a EBO § 54 Apdo. 1, a los funcionarios de explotación deben transmitirse los conocimientos y habilidades que les capaciten para el ejercicio correcto de su servicio. Según el Apdo. 2, las empresas ferroviarias deben asegurarse, mediante exámenes o de otra forma adecuada y antes de la puesta en servicio, de la existencia de los conocimientos y habilidades exigidos.
 
@@ -642,14 +660,15 @@ El 23.01.2020, el IC 2382 descarriló durante la circulación con encargo especi
 
 El 27.04.2018, el DGS 43638 descarriló a la entrada de la estación de Fráncfort de Hamburgo Gbf tras la disolución prematura del itinerario en combinación con la maniobra intempestiva de un cambio de itinerario aún ocupado por la circulación del tren.
 
-
 ## Página 38
+
 
 El 29.06.2015, el S 5130 descarriló a la entrada de la estación de Hoppegarten (Mark) tras la disolución prematura auxiliar del itinerario en combinación con la maniobra intempestiva de un cambio de itinerario aún ocupado por la circulación del tren.
 
 Se investigaron otros sucesos de naturaleza similar en relación con puestos de mando mecánicos.
 
 ## Página 39
+
 
 ## 5 Conclusiones
 El siguiente capítulo contiene un resumen de los factores causales, contribuyentes y sistémicos determinados. Adicionalmente, se prevén dos subcapítulos más para compartir información sobre las medidas ya adoptadas y sobre observaciones adicionales.
@@ -660,8 +679,8 @@ Asimismo, debía considerarse causal para el suceso la avería del dispositivo d
 Un factor contribuyente al suceso fue la alta carga de trabajo del Fdl en la estación de Rüsselsheim, por una parte por la Betra en curso y, por otra, por la avería sobrevenida del dispositivo de liberación de vía. Como factor sistémico se consideró la dotación de personal insuficiente en el ámbito de la supervisión, por lo que posiblemente no se examinó en detalle la carga de trabajo admisible ni se supervisó la correcta ejecución del trabajo en la medida prevista. Debía considerarse factor contribuyente y a la vez sistémico la ausencia de la traba de palanca en la W 74, lo que posibilitó al Fdl una maniobra (inoportuna) del desvío a pesar de que el dispositivo de liberación de vía hubiera detectado la ocupación de la W 74.
 La tabla siguiente contiene la recopilación de los factores de influencia relevantes para el suceso. Estos se clasificaron conforme a los factores causales, contribuyentes y sistémicos del artículo 2 del Reglamento de Ejecución (UE) 2020/572
 
-
 ## Página 40
+
 
 La numeración de los factores entre corchetes sirve para una mejor correspondencia con las explicaciones en el capítulo siguiente.
 Causal
@@ -714,8 +733,8 @@ Tabla 6: Recopilación de los factores de influencia
 Al no haberse detectado defectos técnicos en la instalación Stw, debe presumirse que el estado de los elementos de maniobra en el banco de palancas del Stw Rf, documentado fotográficamente en la figura 3 tras el descarrilamiento, no correspondía a la situación en el momento del descarrilamiento. Para posibilitar la maniobra (inoportuna) del palanca de desvío de la W 74, se disolvió prematuramente la vía de itinerario auxiliar establecida o la protección de la vía de itinerario auxiliar no se realizó conforme a la normativa. Cuál de las dos circunstancias concurrió no puede ya determinarse a causa de la ausencia de registros en este tipo de instalación Stw. En ambos casos debe presumirse que el estado conforme a la normativa encontrado en el banco de palancas solo se estableció después del suceso. Por tanto, debe partirse de un error de trabajo del Fdl.
 La disolución prematura de la vía de itinerario auxiliar para la S 35968 así como la maniobra inoportuna de la W 74 asociada a ella deben considerarse factores causales del descarrilamiento.
 
-
 ## Página 41
+
 
 Independientemente de que la vía de itinerario auxiliar hubiera sido protegida o no con el palanca de señal de itinerario, el Fdl, no obstante, habría tenido que comprobar, como muy tarde antes del cambio de la W 74 para la maniobra de maniobras, ya fuera visualmente o mediante la evaluación de la indicación del dispositivo de liberación de vía automático, si el desvío estaba libre de vehículos. Las disposiciones en la documentación de explotación del Stw Rf sobre la facultad del Fdl para evaluar el dispositivo de liberación de vía automático no eran, en contra de lo dispuesto en el Reglamento (UE) 2018/762, Anexo II, punto 4.4.3 c) y d), unívocas. Según este, la información relevante para la seguridad debe ser coherente y correcta.
 La presencia funcionalmente operativa del dispositivo de liberación de vía de la W 74 permitió, no obstante, al Fdl determinar la libertad de la W 74, además de la comprobación visual, por una segunda vía independiente.
@@ -725,8 +744,8 @@ Otro factor causal para el suceso fue la avería del dispositivo de liberación 
 ### Sobre el factor sistémico «Frecuencia de averías de la instalación Stw» [S2]:
 En este sentido, la vulnerabilidad a averías de la instalación Stw debe considerarse también como factor sistémico, ya que el nivel de prestaciones orientado a la seguridad previsto para la instalación estaba reducido en contra de lo dispuesto en el Reglamento (UE) 2018/762, Anexo II, punto 5.2.2 a). Debido a la indisponibilidad resultante de las funciones de protección de la instalación Stw, se hizo
 
-
 ## Página 42
+
 
 cada vez más necesario operar con maniobras auxiliares. En consecuencia, aumentó el riesgo de sucesos peligrosos debido a la probabilidad significativamente mayor de errores derivados de actuaciones humanas. El funcionamiento sin averías y seguro de instalaciones antiguas de este tipo depende de un mantenimiento adecuado. No obstante, la anotación en el certificado de las modificaciones temporales sobre inspecciones ausentes o realizadas de forma incompleta demuestra que este esfuerzo de mantenimiento no se garantizó plenamente.
 ### Sobre el factor contribuyente «carga de trabajo aumentada del Fdl» [F3]:
@@ -738,6 +757,7 @@ En este sentido, la alta carga de trabajo en conexión con la exigencia individu
 Si la carga de trabajo adicional resultante de la Betra superaba las capacidades del Fdl no fue posiblemente examinado en detalle por la supervisión con el instrumento previsto para ello, SOB. Este estaba previsto, entre otros, para evaluar previamente los riesgos derivados de situaciones operativas especiales sobre la carga de trabajo del personal de explotación y, en su caso, adoptar medidas correctoras. La dotación de personal ausente en el ámbito de la supervisión (BezL B) podría haber impedido este procedimiento
 
 ## Página 43
+
 
 hayan favorecido. Asimismo, la ejecución del trabajo del personal de explotación empleado no fue supervisada en el marco previsto antes del suceso.
 En cuanto al factor contribuyente «dependencia técnica del palanca de aguja respecto de la indicación de ocupación» [F4]:
@@ -751,6 +771,7 @@ De conformidad con el Reglamento (UE) 2018/762, Anexo II, punto 4.6.1, una organ
 El Fdl responsable no volvió a ser empleado como Fdl tras el suceso. Tras una entrevista de seguridad en julio de 2022, el empleado fue empleado inicialmente como Ww. Tras una prueba de reciclaje en diciembre de 2022, volvió a ser empleado como Fdl.
 
 ## Página 44
+
 
 Los BezL B responsables de la estación de Rüsselsheim fueron, hasta septiembre de 2022, dos BezL B, que asumían esta tarea adicionalmente a sus propios distritos de supervisión. A partir de octubre de 2022, se volvió a designar, hasta nuevo aviso, un BezL B fijo para esta actividad.
 El libro de explotación de la estación de Rüsselsheim fue actualizado entre medias.

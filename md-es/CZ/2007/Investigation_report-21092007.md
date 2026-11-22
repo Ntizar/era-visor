@@ -10,13 +10,13 @@ chars: 37827
 ratio_longitud: 1.23
 tokens_in: 13371
 tokens_out: 9188
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 2/6 (33%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: cifras cortas: 2/29", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -43,17 +43,22 @@ fax: (+420) 224 805 428
 
 ## Página 2
 
+
+
 ## Página 3
 
 ### Resumen
-| Fecha y hora: Tipo de ocurrencia: Tipo de tren: Ubicación: | 21 de septiembre de 2007 11:10 (09:02 GMT), accidente en paso a nivel (colisión del tren de mercancías n.º 52241 con un automóvil). tren de mercancías n.º 52241. paso a nivel pasivo entre las estaciones de Jaroměřice nad Rokytnou y Moravské Budějovice |
-| Consecuencias: | 2 fallecidos (en el automóvil) 0 heridos coste total 558 489 CZK , , .- |
-| Causa directa: Causa subyacente: Causa raíz: | violencia del conductor del vehículo no investigada no investigada |
-| Recomendación: | dirigida al gestor de infraestructura České dráhy a.s.: 1) introducir la norma interna ČDS 4/3 de acuerdo con la norma ČSN 73 6380 2) verificar las condiciones de visibilidad en todos los pasos a nivel donde se ha aplicado la reducción de visibilidad y modificar estos pasos a nivel de acuerdo con la norma ČSN 73 6380 según la norma interna ČDS 4/3 |
+| Fecha y hora: Tipo de ocurrencia: Tipo de tren: Ubicación: | 21 de septiembre de 2007 11:10 (09:02 GMT) , accidente en paso a nivel (colisión del tren de mercancías n.º 52241 con un automóvil) . tren de mercancías n.º 52241 . paso a nivel pasivo entre las estaciones de Jaroměřice nad Rokytnou y Moravské Budějovice |
+| Consecuencias: | 2 fallecidos (en el automóvil) 0 heridos coste total 558489 CZK , , .- |
+| Causa directa: Causa subyacente: Causa raíz: | violencia del conductor del automóvil no investigada no investigada |
+| Recomendación: | dirigida al gestor de infraestructura Č eskédráhy a s: ncew, th. no. 1) poner la norma interna ČDS 4/3 en concordancia con la norma ČSN 736380 2) comprobar las condiciones de visibilidad en todos los pasos a nivel donde se haya aplicado una reducción de la visibilidad por la norma interna ČDS 4/3 3) modificar estos pasos a nivel de acuerdo con la norma ČSN 73 6380 |
 
 ## Página 4
 
+
+
 ## Página 5
+
 
 # Índice
 Resumen...................................................................................................................3
@@ -98,6 +103,7 @@ y de la investigación técnica de las causas de la ocurrencia extraordinaria...
 
 ## Página 6
 
+
 3.5 Documentación o sistema de explotación............................................................10
 3.5.1 Medidas adoptadas por el personal del gestor de infraestructura y del transportista, en lo que respecta a la conducción, la señalización y la protección de la circulación........................................................................................10
 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidos los documentos procedentes del dispositivo de grabación...........................................................................................................11
@@ -123,8 +129,8 @@ y de la investigación técnica de las causas de la ocurrencia extraordinaria...
 6 Recomendaciones de seguridad....................................................................................13
 6.1 Recomendaciones de seguridad ............................................................................13
 
-
 ## Página 7
+
 
 ### Ref.: 2-1529/2007/DI
 ### Informe
@@ -151,6 +157,7 @@ La Inspección Ferroviaria inició la investigación de las causas y las circuns
 
 ## Página 8
 
+
 ### 2.2 Circunstancias extraordinarias de la suceso
 ### 2.2.1 Empleados del explotador de la infraestructura y del transportista participantes, personas en relación contractual y otros participantes y testigos
 Dañado, persona fallecida: conductor del automóvil particular.
@@ -172,8 +179,8 @@ La activación del plan de emergencia se llevó a cabo desde la central de notif
 ### 2.2.7 Activación del plan del sistema integrado de rescate de la policía y del servicio de rescate sanitario y secuencia de los acontecimientos
 La activación del sistema integrado de rescate se llevó a cabo según el cuadro de notificaciones desde la central de notificaciones de la estación de Moravské Budějovice.
 
-
 ## Página 9
+
 
 ### 2.3 Muertes, lesiones y daños materiales
 ### 2.3.1 En viajeros y terceros, empleados del explotador de la infraestructura y del transportista, incluidas las personas en relación contractual
@@ -201,6 +208,7 @@ El maquinista del tren Rn 52241 posee un certificado de aptitud válido para la 
 La última inspección del paso a nivel se realizó el 16. 4. 2007, la inspección integral de la vía se llevó a cabo el 16. 4. 2007 – sin defectos, el control de las condiciones de visibilidad fue el 14. 6. 2007 – defecto: hierba crecida en las inmediaciones del paso a nivel – eliminada el 15. 6. 2007, el control del paso a nivel por parte del jefe de la unidad operativa se realizó el 7. 8. 2007, por el inspector de recorridos el 17. 9. 2007, ambos sin defectos.
 
 ## Página 10
+
 
 ### 3.2.4 Interfaces entre las distintas partes interesadas y las distintas partes de la vía
 La interfaz está establecida por:
@@ -248,6 +256,7 @@ Los registros del control del tráfico ferroviario se llevan en el diario de cir
 
 ## Página 11
 
+
 ### 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos procedentes del dispositivo de grabación
 Inmediatamente después de la producción del incidente, el despachador activó los componentes del SES (Sistema de Emergencias Integrado); el incidente fue notificado al jefe de turno de RCP Brno, quien a continuación notificó el accidente a RIBŽD Brno. El inspector jefe de RIBŽD notificó entonces el accidente a la Oficina Central de Notificaciones de la Inspección Ferroviaria de Praga. La persona autorizada por el explotador de la vía para determinar la causa del incidente aseguró la cinta de registro del velocímetro del vehículo ferroviario 742.248-8. La Inspección Ferroviaria, al investigar las causas y las circunstancias de la producción de este accidente, solicitó a la persona autorizada los resultados de la evaluación de esta grabación.
 ### 3.5.3 Medidas adoptadas para proteger y asegurar el lugar del incidente
@@ -273,6 +282,7 @@ El tren Rn 52241 se acercaba al paso a nivel en el pk 140,285 a una velocidad de
 
 ## Página 12
 
+
 el método según la norma ČSN 73 6380, son 147 m, y medido con el método según el reglamento ČD S 4/3, son 102 m.
 La distancia de 147 m, a la cual el conductor del vehículo de carretera debería haber percibido con fiabilidad la aproximación del vehículo ferroviario,
 el tren Rn 52241 la recorrió en un tiempo de 7,05 s.
@@ -297,8 +307,8 @@ Durante la investigación de las causas y las circunstancias de la aparición de
 3. Colocación del poste de advertencia con la señal «Tocar la bocina» en contradicción con la norma ČSN 73 6380 – Pasos a nivel y cruces.
 4. El administrador de la infraestructura no es capaz de presentar la documentación de proyecto verificada del paso a nivel exigida según el artículo 125 de la ley n.º 183/2006 Coll. (Ley de Ordenación del Territorio).
 
-
 ## Página 13
+
 
 ### 5 Medidas adoptadas
 ### 5.1 Relación de las medidas que ya se han adoptado o se han tomado como consecuencia del incidente extraordinario

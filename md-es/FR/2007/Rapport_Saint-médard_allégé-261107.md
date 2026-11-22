@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 24: cifras largas: faltan 4/17 (24%)"]
-notas_cifras: ["página 8: cifras cortas: 1/209", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 11: cifras cortas: 2/391", "página 13: cifras cortas: 2/197", "página 15: cifras cortas: 3/330", "página 16: cifras cortas: 11/255"]
 ---
 
 ## Página 1
@@ -705,6 +704,7 @@ m66E~
 
 ## Página 23
 
+
 TU4&#T5N.4O5N6 " T4 E#%].5O# O T E]5_5 "E vb O 4]d]T `]_6O .%N].5. T E E._5%E TN%4]} 6 %4E
 "U56O..ND4O5N6 E]. T E %N6E#d]6% " O.4_4]} N] "U]6 4&#64D&6O E]. T4 E#%].5O# "U]6 vb~
 ^#-]O 6N_&-. /00BV TN.Ed] TU4_46%&6O "E O.4_4]} TU4 .6"] 6#%EE45.V TU6O.`.5E
@@ -753,39 +753,40 @@ TU4%%5"6O~
 ### $$$$m-6#5!.$%-$=&=#-".#$"!0#5-"$0$A!A-.#$%-$=&335%-.#
 ## $$
 2_ T4 356 " T4 ÄN].6# " %a46O5.V TU4TO.64O .N]O5. #O45O 6 %N].E " 6]O.4T5E4O5N6
-%N63N.&#&6O 4]} .%N&&46"4O5N6E "] D]5" "] p#O.4 P
+%N63N.#&6O 4]} .%N&&46"4O5N6E "] D]5" "] p#O.4 P
 E %ì6E "#T5&5O46O T4 _N5 6]O.4T5E# _6456O "UeO. .4&6#E T TN6D "E -N."].E "
 O.NOON5. d]5 _6456O "UeO. `NE#E 4356 " `.NO#D. T]. E%TT&6O F_N5. 466} Å vaNONE n O
-BM~ 4 %a4]EE#V .T4O5_&6O #O.N5O E]. T vbV _NÑ45O E4 T4.D]. 6%N. T#DR.&6O .#"]5OV
+BM~ 4 %a4]EE#V .T4O5_&6O #O.N5O E]. T2 vbV _NÑ45O E4 T4.D]. 6%N. T#DR.&6O .#"]5OV
 % d]5 `N]_45O 345. %.N5. 4]} ]E4D.E d]U5TE E O.N]_456O 6%N. E]. ]6 _N5 o E6E ]65d]~
-pTN6 TU6O.`.5EV T E 3]} "U4TO.64O 4TT456O eO. &5E 6 _5TT FT E]} 3]} 6 Ä4]6
-%T5D6NO46OM &45E 3N6%O5N66456O 6%N. E]5_46O T E %Ñ%TE " %5.%]T4O5N6 4TO.6# E]. T _N5
+pTN6 TU6O.`.5EV T2E 3]} "U4TO.64O 4TT456O eO. &5E 6 _5TT FT2E "]} 3]} 6 Ä4]6
+%T5D6NO46OM &45E 3N6%O5N66456O 6%N. E]5_46O T2E %Ñ%T2E " %5.%]T4O5N6 4TO.6# E]. T4 _N5
 ]65d] " %5.%]T4O5N6~
 C.V T O.4%O]. 6O TU6E&-T .N]O5. E EN6O `.#E6O#E E5&]TO46#&6O o TU6O.# "] vbV 4TN.E
 d]U]6 4TO.64O 6EO .#DT# `.#%5E#&6O `N]. #_5O. % OÑ` " %N63T5O~
 qT .EEN.O "E O#&N5D64D.E d] T O.4%O]. 4D.5%NT TU6E&-T .N]O5. EU#O456O 4..eO#E 4]}
 3]} "E "]} %ìO#E " TU4TO.64O 6 4_456O ."#&4..# TN.Ed] %E 3]} #O456O `4EE#E 4] Ä4]6
 %T5D6NO46O~
-ÉN&`O 6] " T4 "5EO46% `T]E 5&`N.O46O d] TU6E&-T .N]O5. "_45O `4.%N].5. 6O. T
+ÉN&`O O6] " T4 "5EO46% `T]E 5&`N.O46O d] TU6E&-T .N]O5. "_45O `4.%N].5. 6O. T
 3] "U4TO.64O 6 TU6O.# "] vbV 5T 6EO _.45E&-T4-T d] TU6E&-T .N]O5. 45O "#&4..# T `.&5.~
 3] "U4TO.64O "] O.4%O].V %ìO# Ü]5`TV 6EO `4EE# 4] Ä4]6 %T5D6NO46O 4_46O d] TU6E&-T
 .N]O5. 6U45O O.&56# EN6 3.46%a5EE&6O~
 É `a#6N&R6 `4.4óO "5335%5T&6O `}T5%4-T 6 "aN.E "U]6 &5E 6 _5TT " TU4TO.64O~
-^46E ]6 O T %4EV T4 &5E 6 _5TT 6EO "#%T6%a# `4. TUN`#.4O].V 4] &NÑ6 "U]6 -N5O5. "
-O#T#%N&&46" 6 4 `N]. 33O " 345. `4EE. T E "]} 3]} 6 Ä4]6 %T5D6NO46O~ qT 6EO ON]O3N5E
+^46E ]6 O2T %4EV T4 &5E 6 _5TT 6EO "#%T6%a# `4. TUN`#.4O].V 4] &NÑ6 "U]6 -N5O5. "
+O#T#%N&&46" 6 4 `N]. 33O " 345. `4EE. T2E "]} 3]} 6 Ä4]6 %T5D6NO46O~ qT 6EO ON]O3N5E
 `NEE5-T d] T O&`E " è .N]D -4..4D ë 45O #O# .#DT# ]6 `] O.N` %N].O `4. .4``N.O 4] "#&4..4D
-"U]6 `N5"E TN]." ]6 `] T6OV N] d]U]6 "ÑE3N6%O5N66&6O &4O#.5T EN5O 56O._6~
+"U]6 `N5"E TN]." ]6 `] T2OV N] d]U]6 "ÑE3N6%O5N66&6O &4O#.5T EN5O 56O._6]~
 ### `nqnqT$
 ## $$
 ## $$$$U-60"-6$ "56-6$ "É6$=&335%-.#
 ## $$
-T6"&456 " TU4%%5"6OV T E 3]} " E5D64T5E4O5N6 O&`N.45. N6O #O# .&`T4%#E `4. ]6
-D4."5664D &46]T~ £6 %NN."N664O]. `.#_645O T E "]} N`#.4O].EV ]6 " %a4d] %ìO# "] vbV "RE
-T "#%T6%a&6O "E 4T.O EN6N.E 6 _5E]TT E "U466N6% "U4..5_# "] O.456~ ÉE N`#.4O].E
-`.#E6O456O 4TN.E "E "5Ed]E .N]D E "U4..eO 4]} ]E4D.E " T4 .N]O "E "]} E6E " %5.%]T4O5N6~
+T6"&456 " TU4%%5"2OV T2E 3]} " E5D64T5E4O5N6 O&`N.45. N6O #O# .&`T4%#E `4. ]6
+D4."5664D &46]T~ £6 %NN."N664O]. `.#_645O T2E "]} N`#.4O].EV ]6 " %a4d] %ìO# "] vbV "RE
+T "#%T6%a&6O "E 4T.O6E EN6N.E 6 _5E]TT2E "U466N6% "U4..5_# "] O.456~ ÉE N`#.4O].E
+`.#E6O456O 4TN.E "E "5Ed]E .N]D2E "U4..eO 4]} ]E4D.E " T4 .N]O "E "]} E6E " %5.%]T4O5N6~
 //
 
 ## Página 25
+
 
 ### `naT$
 ### $$
@@ -1182,6 +1183,7 @@ r!
 
 ## Página 34
 
+
 O 6E &-T .N]O5. EU 6D4D o 4TT]. .#"]5O E]. T vb~
 %N6"]%O]. 6 ` .ïN5O `4E T E5D64]} "U466N6% "U4..5_# "] O.456 c "]} aÑ`NOaRE E `]_ 6O `}T5d]. %OO 4-E6% " `.%`O5N6 P
 T E5D64]} 6 E "#%T6%a6O d]U4`.RE d] T %N6"]%O]. `4EE o T]. a4]O]. c
@@ -1204,6 +1206,7 @@ E "&5A-4..5R.E EN6O 4-45EE#E~ 4 EN66.5 "] vb EU56O..N&`O~ E 3]} .N]D E "] vb %N6
 r/
 
 ## Página 35
+
 
 ### qnaT$
 ### $$

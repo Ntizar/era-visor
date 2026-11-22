@@ -10,12 +10,13 @@ chars: 4380
 ratio_longitud: 1.05
 tokens_in: 2117
 tokens_out: 1195
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/4 (25%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -33,42 +34,41 @@ Evento peligroso en la explotación ferroviaria
 | Número de línea: | 5122 |
 | Punto kilométrico: | 8615 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice 
+## Índice
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Observaciones previas 1 ..................................................................................................................... |
-| 2 | Accidente en paso a nivel el 27 07 2020 entre el Apeadero de Großwalbur y el Apeadero de Meeder 2 . . ...................... |
-|  | 2.1 Descripción breve del evento 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Accidente en paso a nivel el 27072020 entre HpGroßwalbur y HpMeeder 2 . . ...................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
-| Modificación | Fecha de actualización |
-| Versión:20debidoalplazodeun añoalcanzado . | 20 07 2022 . . |
-| Versión:30debidoalplazodeun añoalcanzado . | 12 07 2023 . . |
-| Versión:40debidoalplazodeun añoalcanzado . | 22 07 2024 . . |
-I 
-
+## Índice de modificaciones
+| Modificación | Versión |
+| Versión:20 en virtud del plazo anual alcanzado . | 20 07 2022 . . |
+| Versión:30 en virtud del plazo anual alcanzado . | 12 07 2023 . . |
+| Versión:40 en virtud del plazo anual alcanzado . | 22 07 2024 . . |
+I
 
 ## Página 4
+
 
 ## 1 Observaciones previas 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). De acuerdo con ello, en todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, se debe emitir al menos un informe intermedio en cada aniversario del evento peligroso. Los informes contienen información sobre el estado de la investigación y sobre posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no reclama ser completa. El objetivo y la finalidad de las investigaciones es aclarar las causas de los eventos peligrosos y extraer de ellos indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad civil u otros derechos civiles, y se llevan a cabo con independencia de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Accidente en paso a nivel el 27.07.2020 entre el Apeadero de Großwalbur y 
 ## el Apeadero de Meeder 

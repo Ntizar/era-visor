@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 7: cifras largas: faltan 1/1 (100%)", "página 8: cifras largas: faltan 2/2 (100%)"]
-notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 34/34", "página 11: cifras cortas: 1/327", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 19: original bilingüe: se compara contra el idioma principal (CS)", "página 21: cifras cortas: 2/311"]
 ---
 
 ## Página 1
@@ -662,6 +661,7 @@ b/-6m #]5-$=5F/ MQ #$bPM$ = -5/M 011CÉ sV M/5 #$V6a/$ bPMQ$/6_/-=Q r V]
 
 ## Página 22
 
+
 ### netenE$
 ## $$
 ### $$$$é"F.56#5!.$%0$34.#5-"
@@ -711,6 +711,7 @@ $$$$d-6#5!..5"-
 01
 
 ## Página 23
+
 
 sV 6=4P/- V Mb$&65V6MQ /$F6P=5V }d # V5 #6/&Q6P= /$F6P=5V # V5 tdÑv^ = V]MbT& V]Çb/ }d #_ bñV -56=Q=5=& # V5 o$F6P= # `6qP=^ á 0"%#B6&4 1&/%#0"#45"/61!&//"-"/ #0"%
 3.%%.@"%#>#/16".#N6&1!1"#/&6"44"2#$!B. 1&/#0"#b&/"#1/0 % !1"44"2#. @-"/ . 1&/#0"#4.#$1!$4. 1&/#

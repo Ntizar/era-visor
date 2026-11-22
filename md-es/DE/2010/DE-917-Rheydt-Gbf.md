@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 18: cifras largas: faltan 2/8 (25%)"]
-notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (HR)", "página 7: cifras cortas: 1/12", "página 9: original bilingüe: se compara contra el idioma principal (DE)", "página 19: original bilingüe: se compara contra el idioma principal (DE); cifras cortas: 1/12", "página 20: original bilingüe: se compara contra el idioma principal (DE)", "página 21: cifras largas: 1/10; cifras cortas: 5/19"]
 ---
 
 ## Página 1
@@ -369,22 +368,17 @@ Imagen 6: Tarjeta de revisión
 
 ## Página 18
 
-La investigación en el lugar del accidente determinó que el vagón había salido evidentemente de la vía debido a un anillo de rueda suelto en el eje 013916.6. Se encontró una pieza de un fragmento de anillo justo detrás del punto de salida de la vía en el BM Rheydt Gbf. Cómo se produjo el desprendimiento del anillo de rueda debía ser determinado mediante las investigaciones en curso de las ruedas de ambos ejes del bogie afectado por parte de la DB Systemtechnik GmbH. Ni la documentación del historial del vehículo ni la documentación de planos del vagón afectado estaban disponibles para las investigaciones.
-
-En el informe de pruebas de la DB Systemtechnik se indica lo siguiente sobre la evaluación externa del eje no desviado del bogie afectado:
-
-„En uno de los dos tapones de rodamiento había fijada una placa de identificación en la que se leían los siguientes datos:
-
-Abbildung 7: Placa de identificación en el tapón de rodamiento del eje íntegro
-
-De acuerdo con la posición del tapón de rodamiento con la placa de identificación, la rueda situada en el mismo lado fue designada como Rueda A. Los anillos de rueda de ambas ruedas presentaban las siguientes marcas en forma de estampado en caliente en el lado exterior:
-
-Anillo de rueda Rueda A: 4 ??? l BOEL 4 70 BV2 BL 5-70
-Anillo de rueda Rueda B: 42591 BOEL 4 70 BV2 BL 5-70
-
-Los signos de interrogación corresponden a letras o cifras que no se pudieron descifrar de forma inequívoca o que no se pudieron descifrar en absoluto. Los anillos de rueda se fabricaron a partir de 1970 con un acero de calidad BV2. La UIC 810-1V, versión de 1957, exige para el acero de anillo de rueda BV2 una resistencia de 70-84 kg/mm². Según la versión actualmente vigente de la hoja informativa UIC 810-1V3, esto corresponde más bien a la calidad B2, para la que se exige una resistencia a la tracción de 700-820 N/mm².
-
-3 Especificaciones técnicas de suministro para anillos de rueda en bruto de acero laminado y aleado para locomotoras y vagones; versión de 01.07.1981
+La investigación en el lugar del accidente determinó que el vagón se había desviado visiblemente debido a un anillo de rueda suelto en el eje 013916.6. Se encontró una pieza de un fragmento de anillo justo detrás del punto de desviación en el BM Rheydt Gbf. Para determinar cómo se produjo el desprendimiento del anillo de rueda, la DB Systemtechnik GmbH debía llevar a cabo una investigación de las ruedas de ambos ejes del bogie afectado.
+No estaban disponibles para la investigación ni la documentación del historial del vehículo ni la documentación de planos del vagón afectado.
+En el informe de pruebas de la DB Systemtechnik, sobre la evaluación externa del eje no desviado del bogie afectado, se indica lo siguiente:
+„En uno de los dos tapones de rodamiento había fijada una placa de identificación con la siguiente información:
+Abbildu g 7: Ke  schild am Lagerdeckel des itakte  Radsatzes
+De acuerdo con la posición del tapón de rodamiento con la placa de identificación, la rueda situada en el mismo lado se denominó Rueda A.
+Las llantas de ambas ruedas presentaban las siguientes marcas en forma de estampado en la cara exterior:
+Llanta Rueda A: 4 ??? l BOEL 4 70 BV2 BL 5-70
+Llanta Rueda B: 42591 BOEL 4 70 BV2 BL 5-70
+Los signos de interrogación corresponden a letras o cifras que no se pudieron descifrar sin lugar a dudas o que no se pudieron descifrar en absoluto. Las llantas se fabricaron a partir de 1970 con un acero de calidad BV2. La UIC 810-1V, versión de 1957, exige para el acero de llanta BV2 una resistencia de 70-84 kg/ ². Según la versión actualmente vigente de la hoja informativa UIC 810-1V3, esto corresponde más bien a la calidad B2, para la que se exige una resistencia a la tracción de 700-820 N/ ².
+3 Especificaciones técnicas de suministro para llantas en bruto de acero laminado y aleado para locomotoras y vagones; versión de 01.07.1981
 
 ## Página 19
 
@@ -402,6 +396,7 @@ Imagen 8: Eje de rueda intacto 010608.25
 5 DB Systemtechnik GmbH
 
 ## Página 20
+
 
 Figura 9: Estado de la superficie de rodadura de la rueda A (a) y B (b) del bogie del juego de ruedas 010608.26
 En relación con el juego de ruedas del accidente, el comité de inspección indica lo siguiente:
@@ -443,6 +438,7 @@ Imagen 12: Eje de rueda defectuoso 013916.69
 9 DB Systemtechnik GmbH
 
 ## Página 23
+
 
 (siehe Abbildung 1 3 gelbe Pfeile) ein Spalt befand. Nach Abschätzung betrug die Spaltbreite ca. 0,5 .  
 Abbildung 13: Makroskopische Aufnahme Rad A v. Radsatz 013916.6 10  
@@ -524,6 +520,7 @@ Ilustración 19: Posición de las rayas de pulido microscópico en el neumático
 
 ## Página 29
 
+
 En la prueba de dureza, el ensayo de tracción y el análisis químico se cumplieron los requisitos según UIC 810-1V y UIC 812-1.
 
 ## 5 Evaluación
@@ -541,6 +538,7 @@ El vagón de carga fabricado en 1961 se encontraba en un estado ópticamente muy
 En el examen del montaje de prensado transversal se comprobó que en todas las ruedas intactas, a pesar del aro de rueda firmemente asentado, las marcas de giro coincidían en posición y existía una holgura en el plano de medición entre el cuerpo de rueda y el aro de rueda. Si bien este
 
 ## Página 30
+
 
 El hueco no pudo determinarse en el caso de la rueda B debido a los daños, sin embargo, debe partirse de que este hueco también estaba presente en la rueda B. Las superficies de apoyo entre el cuerpo de rueda y la llanta de todas las ruedas intactas mostraban una superficie metálicamente brillante en la zona exterior de la superficie de apoyo. De ello puede concluirse que solo en esta zona existía un contacto íntegro entre el cuerpo de rueda y la llanta. El resto de la superficie mostraba puntos de corrosión y una decoloración rojiza que se produce por microfrotamiento.
 

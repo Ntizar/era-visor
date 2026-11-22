@@ -10,13 +10,13 @@ chars: 97522
 ratio_longitud: 1.25
 tokens_in: 41224
 tokens_out: 29304
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 34: cifras largas: faltan 2/4 (50%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: cifras cortas: 1/11", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +43,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: DI
@@ -79,8 +79,8 @@ No se identificó ningún factor contribuyente por parte de la Inspección Ferro
 No se identificó ninguna causa sistémica por parte de la Inspección Ferroviaria.
 No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria.
 
-
 ## Página 4
+
 
 ## SUMMARY
 11th August 2020, 5:52 (3:52 GMT).
@@ -118,8 +118,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -161,8 +161,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................31
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................31
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................31
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................31
@@ -193,6 +193,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................36
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP
@@ -246,8 +247,8 @@ Informe final sobre los resultados de la investigación de la ocurrencia extraor
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -277,8 +278,8 @@ reglamento interno del explotador de transporte ferroviario CityRail, «Reglamen
 TNŽ 34 2620
 Norma técnica ferroviaria «Instalaciones de seguridad ferroviaria. Instalaciones de seguridad de estación y de tramo», en la redacción vigente en el momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 9
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -312,8 +313,8 @@ del HDV estacionado y a la PČR;
 análisis de los datos registrados por el registrador de velocidad del HDV del tren;
 •
 
-
 ## Página 10
+
 
 declaraciones de los empleados implicados;
 •
@@ -353,8 +354,8 @@ Coordenadas GPS:
   (circulación no autorizada del tren Pn 52184 más
 allá del semáforo S1);
 
-
 ## Página 11
+
 
 49.4134492N, 15.5997403E (colisión del tren Pn 52184 con el HDV estacionado
 y lugar del descarrilamiento).
@@ -379,8 +380,8 @@ La SZZ en la est. Jihlava era de 3.ª categoría según TNŽ 34 2620, tipo AŽD 
 •
 desde el JOP. En la vía se documentó el estado de visibilidad del semáforo S1 en el pk 198,675.
 
-
 ## Página 12
+
 
 El semáforo S1 es un semáforo principal de salida de cinco aspectos tipo AŽD de poste,
 situado a la derecha de la 1.ª SK. La visibilidad era satisfactoria;
@@ -433,6 +434,7 @@ freno continuo estaba desconectado;
 
 ## Página 13
 
+
 en los TDV clasificados como séptimo y duodécimo del tren no había ninguna etiqueta, pero
 •
 el freno de aire en ellos estaba desactivado según la posición de la palanca del mecanismo de desconexión;
@@ -471,8 +473,8 @@ Como consecuencia del origen del MU se produjo una reducción y parcial interrup
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
 Personas participantes por:
 
-
 ## Página 14
+
 
 Operador de la vía (SŽ):
 guardagujas de la est. Jihlava, empleado de SŽ.
@@ -505,8 +507,8 @@ El tráfico ferroviario se prestaba en virtud de un contrato celebrado entre el 
 |  |  | 14 . | 31794542196 2 - | P | 28 | 282 , |
 |  |  | 15 . | 31794542173 1 - | - | 0 | 265 , |
 
-
 ## Página 15
+
 
 | 16 . | 31794542215 0 - | P | 27 | 271 , |
 | 17 . | 317945422119 - | - | 0 | 283 , |
@@ -546,8 +548,8 @@ con etiqueta patrón «K», 15.º TDV desde el inicio, figuraba
 •
 en el «Súpis vlaku» como sin frenar;
 
-
 ## Página 16
+
 
 ## 31 85 4542 211-9
 sin marca de etiqueta de reparación, 17.º TDV desde el inicio del tren,
@@ -609,8 +611,8 @@ tubería principal;
 registrada una reducción de la presión en la tubería principal a 5,1 bar;
 •
 
-
 ## Página 17
+
 
 4:33:41 h
 nueva aplicación del alivio de alta presión, aumento de la presión a 5,9 bar
@@ -697,6 +699,7 @@ la aplicación del freno de actuación rápida, a una velocidad de 13 km.h-1, fi
 
 ## Página 18
 
+
 frenado de acción rápida con el freno continuo – inicio de la presurización
 en el conducto principal;
 5:27:19 h
@@ -769,8 +772,8 @@ tras desenganchar la locomotora, rodear el conjunto del tren y enganchar la loco
 en el extremo opuesto del tren, no pudo realizar una prueba sencilla del freno, porque
 el tiempo transcurrido entre la frenada del tren – la reducción de la presión del aire
 
-
 ## Página 19
+
 
 en el conducto principal realizada tras rodear la locomotora y acoplarse al extremo
 opuesto del conjunto del tren en la est. Havlíčkův Brod – y la posterior
@@ -832,8 +835,8 @@ la cabeza del tren pasó indebidamente tras la señal S1 con la señal «Alto»
 •
 y ocupó el circuito de vía V19-21 (véase la Fig. nº 2);
 
-
 ## Página 20
+
 
 5:52:25 h
 a consecuencia de la colisión, la locomotora estacionada empujada, titular
@@ -852,8 +855,8 @@ detención el cambio forzado (partición) de la aguja nº 4
      Fuente: SŽ
 El estado del SZZ no guardaba relación causal con la aparición de la MU.
 
-
 ## Página 21
+
 
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
 Resumen de las explicaciones facilitadas por los empleados del explotador de la
@@ -912,6 +915,7 @@ estacionada en la vía lateral 1a y la partición de la aguja nº 4.
 
 ## Página 22
 
+
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 La composición del tren fue recibida del transportista ZSSK Cargo el 10 de 8 de 2020 en la estación de enlace Lanžhot en el régimen «de confianza» en el sentido del art. 5 del anexo 9 de las VSP (AVV) sobre los transportes comunes, previa aceptación de la inspección técnica del tren y realización de la prueba de freno por el transportista anterior. En la est. Brno-Maloměřice se incorporó al turno el maquinista implicado en el SU, quien en el puesto asumió la conducción del HDV 240.088-5 en el tren Pn 52184.
@@ -922,8 +926,8 @@ A las 5:01:10 h el maquinista puso el tren en movimiento. Durante la puesta en m
 el frenado de acción rápida (detalles en el cap. 4.1.1 de la presente ZZ). Con este frenado, el maquinista redujo en una distancia de 300 m la velocidad del tren de 31,6 km·h-1 a 8,6 km·h-1, sin que tampoco con este frenado detectara que el freno no actuaba correctamente: la deceleración provocada por el frenado, independientemente de la marcha en pendiente, no correspondía a la reducción de presión en la tubería principal. No se utilizó el freno de acción directa. Desde las 5:27:19 h hasta la detención a las 5:28:33 h, el tren se desplazó en una distancia de 64 m por inercia sin utilizar los frenos hasta la detención, donde el maquinista utilizó el freno de acción directa para asegurar el tren detenido.
 Tras la salida de la est. Dobronín hacia la est. Jihlava no fue necesario utilizar el freno continuo. Tras pasar junto a la señal de entrada S de la est. Jihlava, el maquinista comprobó que el freno continuo del tren no actuaba correctamente: la deceleración provocada por el frenado no correspondía a la reducción de presión
 
-
 ## Página 23
+
 
 en la tubería principal. Durante la marcha en la est. Jihlava tras el 1.º SK, aplicó el frenado de acción rápida, añadiendo a ello el frenado total con el freno de acción directa del HDV. Simultáneamente dejó de atender el VZ, que a las 5:51:18 h intervino y aplicó el frenado de acción rápida. Sin embargo, este ya había sido activado por el maquinista con la operación anterior del regulador de freno continuo. A las 5:52:01 h el tren pasó junto a la señal S1 con la indicación «Alto» y se produjo el SU a una velocidad de 36,4 km·h-1. A continuación, el maquinista del tren saltó de la cabina en marcha, el tren impactó contra el HDV estacionado a una velocidad de 25,3 km·h-1 y en el km 198,489 el HDV del tren descarriló con el primer eje. Tras el impacto se produjo el enclavamiento mutuo de los frentes del HDV, el empuje forzado del HDV estacionado y la detención del tren con el HDV estacionado enclavado. El HDV estacionado se detuvo con el frente intacto en el km 198,381, a la altura del comienzo de la aguja n.º 4, la cual desplazó forzadamente con su marcha.
 Tras la colisión, el maquinista del tren realizó una alteración no autorizada del estado en el lugar del SU (véase el cap. 2.8 de la presente ZZ) y abrió posteriormente (cerradas durante la marcha del tren) las llaves de acoplamiento entre el HDV del tren y el 1.º TDV tras el HDV. Esta manipulación, según su declaración de explicaciones, la realizó para asegurar la composición contra el movimiento.
@@ -966,8 +970,8 @@ PČR, Jefatura de Policía de la Región de Vysočina, Departamento de Distrito 
 Cuerpo de Bomberos y Salvamento de SŽ, Unidad de Protección contra Incendios de Havlíčkův Brod.
 •
 
-
 ## Página 24
+
 
 ## 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
@@ -980,14 +984,15 @@ Durante la marcha entre la est. Havlíčkův Brod y la est. Dobronín, la vía d
 
 ## Página 25
 
+
 En Dobronín, el maquinista pudo reaccionar ante el comportamiento anteriormente descrito del freno continuo del tren, ya que durante el frenado pudo comprobar que el freno continuo del tren no actuaba correctamente – la deceleración inducida por el frenado no correspondía a la reducción de presión en la tubería principal – y, entre otras cosas, verificar la conexión y la apertura de las llaves de acoplamiento de la tubería principal entre el DV, además de que para ello disponía de tiempo suficiente, más de 14 minutos (a las 5:28:33 h detuvo el tren en la est. Dobronín, y a las 5:43:03 h partió, véase el cap. 3.1.7 del II).
 Al entrar el tren en la est. Jihlava, el maquinista comenzó a frenar con el freno continuo y, reduciendo progresivamente la presión en la tubería continua, establecía una mayor intensidad del efecto de frenado del tren. Sin embargo, este no se produjo. Por ello, mediante el mando del freno continuo, activó el frenado de acción rápida y, además, ajustó el frenado total con el mando del freno directo. Dado que estaban cerradas las llaves de acoplamiento de la tubería principal entre el HDV y el 1.º TDV, el freno continuo de la composición quedó prácticamente fuera de servicio y, ante la no funcionalidad del freno electrodinámico del HDV (el freno electrodinámico estaba permanentemente desconectado), el tren de 667,8 t, incluso con ambos mandos del HDV ajustados al efecto de frenado máximo, fue frenado únicamente por el efecto del freno neumático del HDV, con una masa de frenado de 52 t, con lo que se alcanzaron solo el 8 % de frenado.
 Dado que el maquinista, en esta situación crítica, dejó de atender el VZ, se produjo una intervención automática que, sin embargo, ya no pudo tener influencia en toda la situación (el frenado de acción rápida con el freno continuo ya había sido activado por el maquinista). La no atención del VZ forma parte del procedimiento del transportista del tren ante averías en los frenos y está indicada en la norma interna CTR7.
 Tras pasar la señal S1 en posición «Alto», el maquinista saltó desde su cabina, ya que se aproximaba al HDV estacionado en la vía de servicio (SK) n.º 1a, donde posteriormente se produjo la colisión. Una vez detenido el tren, un testigo anónimo casual fotografió con su teléfono móvil el estado de las llaves de acoplamiento de la tubería principal entre el HDV y el 1.º TDV tras el HDV (véase la Fig. n.º 6). Esta fotografía la entregó a la persona autorizada de SŽ, que a su vez la facilitó a la DI en el marco de la investigación del MU. En la fotografía es evidente que las llaves de acoplamiento de la tubería principal en el frente trasero del HDV y en el frente del primer TDV estaban cerradas tras la producción del MU. El maquinista, en su declaración de explicaciones al empleador, confirmó él mismo este hecho, al indicar que, tras la detención del tren por la colisión, abrió las mencionadas llaves de acoplamiento para asegurar la composición contra la marcha (véase el cap. 3.1.9 del II). Con esta operación, realizada tras la producción del MU, se produjo sin embargo una modificación no autorizada en el lugar del MU – manipulación de elementos de mando (véase la Fig. n.º 7) –, aparte del hecho de que la apertura de las mencionadas llaves de acoplamiento no pudo tener ninguna influencia en el eventual aseguramiento del tren contra el movimiento tras la producción del MU, porque la tubería principal del HDV 240.088-5 fue progresivamente vaciada por el maquinista durante el frenado en la est. Jihlava (véase lo anterior y el capítulo 3.1.7 de este II) y, debido a los daños sufridos por el HDV a consecuencia de la colisión, no podía ser alimentada desde el HDV tras el MU.
 El maquinista del tren disponía de la ZOB, en la que sin embargo no constaban datos veraces. Se trataba del número incorrecto de TDV a los que se les había desconectado el freno continuo. En la ZOB se indicaban 3 TDV, pero en la inspección del DV del tren se comprobó que en realidad se habían desconectado del freno continuo 8 TDV. Por este motivo, tampoco correspondía el porcentaje de frenado del tren indicado en la ZOB, es decir, que el tren debía alcanzar según la ZOB el 81 % de frenado. Debido al número y a la masa de los TDV no frenados, en combinación con la masa total del tren de 667,8 t y la masa de frenado de los DV frenados de 414 t, el porcentaje de frenado real era de solo el 62 %. Con ello se relaciona también la modificación de la velocidad máxima del tren, que en el tramo Šlapanov – Jihlava era de 90 km·h-1 (se deduce del recálculo respecto al horario de circulación de la línea para el HDV). Sin embargo, el tren no superó esta velocidad máxima permitida y, en caso de frenos correctamente conectados y funcionales, el maquinista habría sido capaz de detener el tren con seguridad a pesar de ello. En la ZOB estaba mal indicada la masa del tren, ya que en la masa total de la composición no se habían computado los «contenedores con pórticos», que eran cargados
 
-
 ## Página 26
+
 
 sobre TDV de la serie Sgs-z, siempre en cantidad de 3 unidades por un TDV. La masa propia de un «contenedor» es de 2 200 kg. La masa del tren indicada en la ZOB, 592 t, fue superada en 75,8 t.
 Asimismo, tras el paso de la composición por la est. Havlíčkův Brod, el maquinista del tren no realizó la anotación completa de la prueba simple de freno en la ZOB de acuerdo con la norma interna CTR7.
@@ -1014,8 +1019,8 @@ redondeado a 62 % de frenado.
 κ = 1 – coeficiente para trenes de mercancías de hasta 500 m de longitud frenados por el método de frenado I.
 Mediante un cálculo análogo se calculó el porcentaje de frenado real del HDV por sí solo (masa de frenado 52 toneladas) en un 8 % de frenado. De la tabla I.10 del anexo de la norma SŽDC D1 se deduce, en la pendiente determinante del 10 ‰, una velocidad máxima de 90 km·h-1. Para un tren que alcance parámetros como en el caso de este MU, frenado únicamente con el freno neumático del HDV (masa de frenado 52 toneladas), las tablas no indican valores. En el caso de las llaves de acoplamiento abiertas entre el HDV y el 1.º TDV, a pesar de los insuficientes porcentajes de frenado (62) de toda la composición, el tren Pn 52184 se habría detenido con seguridad antes de la señal S1, dada la velocidad alcanzada de 54 km·h-1 al computar el frenado operativo en la est. Jihlava.
 
-
 ## Página 27
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de normas legales y normas internas relativas a las funciones
@@ -1057,8 +1062,8 @@ art. 41 de la norma CTR7:
 art. 52 de la norma CTR7:
 •
 
-
 ## Página 28
+
 
 «El funcionamiento del freno continuo del tren debe ser verificado en servicio, la prueba de freno debe realizarse en los casos:…
 - si se produce un cambio en la posición desde la que se conduce el tren, con excepción de las unidades autónomas independientes;...»;
@@ -1087,6 +1092,7 @@ b) a asegurar el lugar del suceso excepcional y a realizar la documentación del
 Porcentajes de frenado reales = κ x (masa de frenado total del tren / masa total del tren) x 100 masa total del tren Si en el tren frenado por freno continuo se incluyen también vehículos frenados con freno de mano, su masa de frenado se multiplicará, en el cálculo de la masa de frenado total del tren, por el coeficiente 0,75. La masa de frenado total del tren frenado por freno continuo será igual a la suma de todas las masas de frenado de los vehículos ferroviarios individuales del tren con el freno automático continuo (neumático) en servicio conectado al freno continuo del tren y, en el tren con vehículos frenados manualmente, a la suma de las masas de frenado de los vehículos individuales con freno de mano operado. La masa total del tren será igual a la suma de la masa de los vehículos ferroviarios individuales del tren, de la masa de la carga en los vehículos y, en los vehículos con transporte de pasajeros, de la suma de
 
 ## Página 29
+
 
 peso medio de los pasajeros (80 kg por persona) según la capacidad de ocupación establecida del vehículo. Los valores del coeficiente κ se indican en el anexo n.º 2.";
 § 37 apartado 10 letras c), d) y f) del decreto n.º 173/1995 Sb.:
@@ -1118,8 +1124,8 @@ artículo 125 del reglamento CTR7;
 "Si en un tren que se frena continuamente por el método I en modo P se incluyen vehículos con conmutador en la posición G, como su peso de frenado podrá computarse como máximo el 0,7 del valor del peso de frenado indicado para dicha posición….".
 En la investigación no se constató infracción de las funciones y obligaciones del gestor de la infraestructura.
 
-
 ## Página 30
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los VV.
@@ -1136,8 +1142,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.7 Cualquier otra persona o entidad
 Las funciones y obligaciones de otras personas o entidades no guardaban relación con la ocurrencia del MU.
 
-
 ## Página 31
+
 
 ### 4.2 Vehículos ferroviarios e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción de vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
@@ -1158,8 +1164,8 @@ En la investigación no se identificaron factores relacionados con la formación
 ### 4.3.2 Factores laborales
 En la investigación no se identificaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, o bien del tiempo adecuado para el reposo y la alimentación durante el turno.
 
-
 ## Página 32
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se identificaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -1181,8 +1187,8 @@ Atendiendo a los factores identificados y a las circunstancias de la ocurrencia 
 ### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
 El gestor de la infraestructura explotaba la vía férrea en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 
-
 ## Página 33
+
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se identificaron otros factores sistémicos.
@@ -1207,29 +1213,47 @@ El DI no dispone de información sobre si el DÚ y el transportista adoptaron me
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso ferroviario fue:
 •
-la no apertura de las llaves de acoplamiento de la tubería del freno automático continuo a presión entre la locomotora de tracción y el 1.º vehículo rodante remolcado;
+la no apertura de las válvulas de acoplamiento de la tubería del freno automático
+de presión continuo entre el vehículo ferroviario de tracción y el primer vehículo
+ferroviario remolcado;
 •
-la no realización de la prueba sencilla de freno del tren en la estación de Havlíčkův Brod.
+la no realización de una prueba de freno simple del tren en la estación de
+Havlíčkův Brod.
 No se detectó ningún factor contribuyente por parte de la DI.
 No se detectó ninguna causa sistémica por parte de la DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factors:
+•
 failure to open of the coupling valves of continuous automatic pressure brake
-•
 between the locomotive and the first towed rolling stock;
-failure to perform a simple brake test of the train at Havlíčkův Brod station.
 •
+failure to perform a simple brake test of the train at Havlíčkův Brod station.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de sucesos ferroviarios
+### 5.2 Medidas adoptadas para prevenir los sucesos ferroviarios
 El gestor de la infraestructura SŽ no adoptó ni emitió ninguna medida.
-El operador ferroviario CityRail adoptó, tras la producción del SF, las siguientes medidas:
-1. Los empleados del operador ferroviario serán instruidos, en la formación periódica, sobre las causas de la producción del SF y sobre los procedimientos correctos para el enganche de los vehículos rodantes.
-2. Suspensión de la vigencia del certificado complementario del conductor del tren hasta la realización del examen extraordinario de la competencia profesional especial de conformidad con el § 45 de la Ley núm. 266/1994 Sb.
+El operador ferroviario CityRail adoptó, tras la producción del suceso ferroviario,
+las siguientes medidas:
+1. Los empleados del operador ferroviario serán instruidos, durante la formación
+periódica, sobre las causas de la producción del suceso ferroviario y sobre los
+procedimientos correctos para el acoplamiento de los vehículos ferroviarios.
+2. Suspensión de la validez del certificado complementario del conductor del tren
+hasta la reexaminación extraordinaria de la competencia profesional especial
+conforme al § 45 de la Ley núm. 266/1994 Sb.
+### Measures taken since the occurrence
+The infrastructure manager SŽ did not take any measures.
+The railway undertaking CityRail took the following measure after the occurrence:
+1. The railway undertaking's employees will be instructed about the causes of the
+occurrence and about the correct procedures for connecting the rolling stocks to
+each other at regular training.
+2. Suspension of the validity of the additional certificate of the train driver until the
+extraordinary examination of the special professional competence according to § 45
+of Act 266/1994 Coll.
 
 ## Página 35
+
 
 ### 5.3 Hallazgos complementarios
 En el operador ferroviario CityRail:
@@ -1269,6 +1293,7 @@ Inspección Territorial de Brno
 
 ## Página 36
 
+
 ## ANEXOS
 Fig. núm. 4: Visibilidad de la señal S1 y de la señal «Alto» indicada desde la señal L3, a una distancia de 496 m
                        Fuente: DI
@@ -1276,6 +1301,7 @@ Fig. núm. 5: HDV embestida y encastrada tras la detención. A la izquierda, HDV
                     Fuente: DI
 
 ## Página 37
+
 
 Fig. núm. 6: Llaves de acoplamiento cerradas entre la HDV y la 1.ª TDV del tren Pn 52184, foto tomada inmediatamente tras la detención del tren después del SF                                 Fuente: Testigo desconocido
 Fig. núm. 7: Ejemplo de llave de acoplamiento abierta entre la HDV y la 1.ª TDV del tren

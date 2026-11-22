@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 48: cifras largas: faltan 6/28 (21%)"]
-notas_cifras: ["página 11: cifras cortas: 1/10", "página 44: cifras largas: 2/23", "página 46: cifras cortas: 6/60"]
 ---
 
 ## Página 1
@@ -526,6 +525,7 @@ En la vía Kamp-Bornhofen – Loreley se encuentra el sistema de detección de r
 
 ## Página 21
 
+
 El tramo de vía (VZG 3507) en el ámbito de servicio del ESTW A - Assmannshausen está equipado con una instalación automática de liberación de vía con contadores de ejes para todos los tramos de agujas y de vía. Los dispositivos de liberación de vía sirven para comprobar la ocupación de tramos de vía y agujas, así como de tramos de bloqueo, por parte de vehículos ferroviarios. El conteo puntual de ejes se realiza mediante la influencia en los puntos de conteo por parte de los juegos de ruedas del vehículo ferroviario. Al entrar o salir del tramo liberado, se indica la necesaria señalización de ocupación o de liberación.
 Los límites de la instalación de liberación de vía para los tramos de vía relevantes para el suceso se pueden consultar en la tabla siguiente. Los distintos circuitos de conteo de ejes están registrados en el esquema de posición de señales y en el esquema resumen de contadores de ejes.
 Üst Lorch
@@ -567,6 +567,7 @@ Según el historial del ESTW, se mostraron las siguientes señales técnicas en 
 
 ## Página 22
 
+
 Los mensajes de la pantalla de planificación se muestran, por motivos del sistema, parcialmente con retraso respecto a la perturbación realmente ocurrida. En cursiva se presentan las explicaciones de cada mensaje de señalización.
 
 | Fecha | Hora | Mensajes de señalización | Explicación |
@@ -599,6 +600,7 @@ Los mensajes de la pantalla de planificación se muestran, por motivos del siste
 
 ## Página 23
 
+
 | 09 06 . | 5:26 Uhr | LT US AUSF 190636 VON FAH 26G302 NACH FAH 26B204 | Durchfahrt des 90636 von Lorch – Assmannshausen / G302 nach Assmannshausen Rüdesheim – (Rh ) / B204 . |
 | 09 06 . | 5:26 Uhr | FAH WG 26W2 S , AUFGEFAHREN; FZ 055 | Störmeldung: Weiche 2 Ass­ mannshausen aufgefahren |
 | 09 06 . | 5:26 Uhr | FAH WG 26W3 S , AUFGEFAHREN FZ 055 , | Störmeldung: Weiche 3 Ass­ mannshausen aufgefahren |
@@ -620,6 +622,7 @@ sowie der Störmeldungen belegt, dass in der Zeit von 5:22 Uhr bis 5:28 Uhr (EST
 
 ## Página 24
 
+
 Systemzeit) casi exclusivamente mensajes relacionados con la vía, comenzando con el sector de liberación de vía 31B3210 y terminando con el sector de liberación de vía 26B202, fueron mostrados.
 La emisión de una orden de parada de emergencia para el tren DGS 90636 desde la posición de mando del observador del BÜ no era técnicamente posible.
 El localizador de ruedas calientes nº 195 en km 95,555 (Kamp-Bornhofen y Loreley) no proporcionó datos utilizables.
@@ -630,6 +633,7 @@ El localizador de ruedas calientes nº 195 en km 95,555 (Kamp-Bornhofen y Lorele
 La línea 3507 es la línea principal de doble vía y electrificada desde Wiesbaden-Ost (km 36,2) hasta Niederlahnstein (km 127,5), clasificada como línea convencional (categoría VII TEN) del sistema ferroviario transeuropeo. La línea está clasificada como «D4», lo que indica que la carga máxima por eje admisible es de 22,5 t y el peso máximo admisible del vehículo por unidad de longitud es de 8,0 t/m. La distancia de frenado de la línea es de 1.000 m, la velocidad máxima admisible es de Vmax = 130 km/h y está equipada con influencia puntual en el tren (PZB) y radio ferroviaria (GSM-R).
 
 ## Página 25
+
 
 En el tramo de vía 
 del punto de descarrilamiento 
@@ -756,6 +760,7 @@ Dirección de flujo real
 Dirección de flujo real
 
 ## Página 34
+
 
 hasta el día del descarrilamiento no existía un cuaderno de drenaje. El cuaderno de drenaje fue elaborado por DB Netz AG únicamente después de la solicitud de información de la EUB del 15.05.2014. En él se documentó que la tubería de drenaje fue inspeccionada el 19.09.2011 mediante inspección por televisión (TV). Los documentos originales de dicha inspección por televisión no pudieron ser aportados por DB Netz. Todas las indicaciones contenidas en el cuaderno de drenaje actualizado se refieren a una copia de la empresa ejecutora, que fue remitida a DB Netz AG en diciembre de 2014. En consecuencia, no es posible verificar si la revisión y evaluación de las imágenes fue realizada por el ALV KIB competente, ya que al respecto no se aportó documentación alguna. En la documentación gráfica posterior (imágenes 4 - 6) de la inspección por televisión del 19.09.2011 se indicó incorrectamente el sentido de la corriente.
 
@@ -939,6 +944,7 @@ El responsable de la instalación según la RiL 820.0106 debe decidir sobre la n
 
 ## Página 44
 
+
 Las inspecciones reglamentarias de recorrido de vía y de medición de vía se llevaron a cabo y documentaron acreditativamente conforme a la normativa. Para las inspecciones reglamentarias según Ril 821, el ALV de superestructura realizó acreditativamente inspecciones adicionales y también las documentó.
 Las comunicaciones de hallazgos IH representadas en la tabla fueron presentadas por el operador de infraestructura:
 
@@ -1022,52 +1028,53 @@ Debido a la avería del registrador multicanal no se llevó a cabo ninguna medid
 
 ## Página 48
 
-Extracto del registro de desbordamientos del 10.09.2012 
-km desde 
-km hasta 
-Parámetro 
-Valor 
-Valor umbral 
-Fecha insp. 
-75,8+75 
-75,9+0 
-Gest. ORE 
-101 
-100 
-10.09.2012 
-(3,65‰ a 1,5m) 
-(SR100 
-(GW2)/3,50‰)) 
-76,9+75 
-77,0+0 
-Gest. ORE 
-112 
-100 
-10.09.2012 
-(5,00‰ a 1,5m) 
-(SR100 
-(GW2)/3,50‰)) 
-Filtro paso alto GH: 
-76,9+75 
-77,0+0 
+Extracto del registro de desbordamientos del 10.09.2012
+km desde
+km hasta
+Parámetro
+Valor
+Valor umbral
+Fecha insp.
+75,8+75
+75,9+0
+ORE-Verw.
+101
+100
+10.09.2012
+(3,65‰ a 1,5m)
+(SR100
+(GW2)/3,50‰))
+76,9+75
+77,0+0
+ORE-Verw.
+112
+100
+10.09.2012
+(5,00‰ a 1,5m)
+(SR100
+(GW2)/3,50‰))
+GH paso alto:
+76,9+75
+77,0+0
 12mm
 11mm
 10.09.2012
-Desbordamiento 
-SR 100+ 
-Octubre 2012 
-Orden de inspección 
-Sin incidencias 
-Sin incidencias, 
-estado de la vía mediante 
-inspección visual de vía 
-Medida acreditada en el SAP 
-Inspección visual de vía 
-sistema cerrado el 22.10.2012 
+Desbordamiento
+SR 100+
+Octubre 2012
+Orden de inspección
+Sin anomalía
+Sin anomalía,
+la posición del carril
+mediante inspección
+de vía
+Medida acreditada en el SAP
+Inspección de vía
+Sistema cerrado el 22.10.2012
 | 2013 |  |  |  |
-| Febrero 2013 inspección visual de vía | Línea 3507 -2 Vía 2 | Sin incidencias | Se dispone de la lista de objetos, inspección visual de vía sin incidencias. |
-| 27.03.2013 ensayo de medida de vía | Línea 3507 -2 Vía 2; pk 77,330 – 76,750. Aviso de anomalía nº 13005902. | Orden de eliminación inmediata de la anomalía el 27.03.14. | 27.03.2014 eliminación de la anomalía. Rotura de riel vía 1; pk 77,330 – 76,750. |
-| 04.04.2013 inspección visual de vía | Línea 3507 -2 dirección 1 y 2 errores en la altura longitudinal | Trabajos de parada para la eliminación de los errores de altura longitudinal periodo 8.4 hasta 30.4. |  |
+| Febrero 2013 inspección de vía | Línea 3507 -2 vía 2 | Sin anomalía | La lista de objetos está disponible, inspección de vía sin anomalía. |
+| 27.03.2013 inspección de vía | Línea 3507 -2 vía 2; pk 77,330 – 76,750. Aviso de anomalía nº 13005902. | Orden de eliminación inmediata de la anomalía el 27.03.14. | 27.03.2014 eliminación de la anomalía. Rotura de riel vía 1; pk 77,330 – 76,750. |
+| 04.04.2013 inspección de vía | Línea 3507 -2 dirección 1 y 2 errores en la altura longitudinal | Trabajos de parada para la eliminación de los errores de altura longitudinal periodo 8.4 hasta 30.4. |  |
 
 ## Página 49
 
@@ -1222,6 +1229,7 @@ Fig. 23: Tope del vagón de transporte de automóviles descarrilado
 Llamaba la atención únicamente que, en una medición de ruido realizada por DB Netz AG a lo largo de la vía en el último vagón con el número 23 TEN 88 B – Touax 4371 0803 del tren accidentado, se detectó una fuente de ruido. La causa de esto era la planicie del conjunto de ruedas 10003405 (en sentido de marcha, primer eje de 4), que se muestra en la Fig. 24.
 
 ## Página 57
+
 
 presentaban, presentaban solo un desgaste leve. Los daños detectados en ejes, muelles y suspensiones se clasificaron como daños consecuentes. Los topes presentaban un estado de lubricación normal en los vagones descarrilados (véase Abb. 23).
 

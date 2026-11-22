@@ -10,13 +10,13 @@ chars: 87241
 ratio_longitud: 1.05
 tokens_in: 56678
 tokens_out: 32169
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 28: cifras largas: faltan 5/19 (26%)"]
-notas_cifras: ["página 15: cifras cortas: 2/7", "página 16: cifras cortas: 2/11", "página 24: cifras cortas: 2/12", "página 26: cifras largas: 1/9; cifras cortas: 1/11"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -34,16 +34,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 3742 |
 | Punto kilométrico: | 21620 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -94,8 +94,8 @@ Tareas y obligaciones...........................................................
 Investigación de los procesos operativos del gestor de infraestructura................. 14
 I
 
-
 ## Página 4
+
 
 4.1.2
 Investigación de los procesos operativos de las EVU................................................ 22
@@ -133,8 +133,8 @@ Modificación
 Estado
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -151,8 +151,8 @@ Tabla 1: Resumen de factores de influencia......................................
 Tabla 2: Resumen de las condiciones externas...................................................................... 10
 III
 
-
 ## Página 6
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -210,8 +210,8 @@ SMS
 Sistema de gestión de la seguridad
 IV
 
-
 ## Página 7
+
 
 | Stw | Enclavamiento |
 | Tf | Maquinista |
@@ -220,8 +220,8 @@ IV
 | ZN -Anlage | Sistema de anuncio de números de tren |
 V
 
-
 ## Página 8
+
 
 ## 0 Nota preliminar
 Sobre la base del artículo 24 de la Directiva (UE) 2016/798, la Comisión Europea
@@ -232,8 +232,8 @@ Con la publicación del reglamento y su entrada en vigor el vigésimo día
 tras su publicación en el Diario Oficial de la Unión Europea (UE), este es vinculante y debe aplicarse de
 forma inmediata a todas las investigaciones iniciadas a partir del 17.05.2020.
 
-
 ## Página 9
+
 
 ## 1 Resumen
 El primer capítulo contiene una descripción breve del suceso, así como información sobre las
@@ -259,8 +259,8 @@ sistemática con marcadores entre corchetes.
 Una evaluación detallada del suceso, con su clasificación como factores críticos para la seguridad, se
 presenta en los siguientes capítulos.
 
-
 ## Página 10
+
 
 Ocurrido:
 Fecha/hora, así como
@@ -327,8 +327,8 @@ bloque aún ocupado [F8]
 por el Fdl de Bruchköbel
 Tabla 1: Resumen de factores de influencia
 
-
 ## Página 11
+
 
 ### 1.4 Recomendaciones de seguridad
 La BEU no emite ninguna recomendación de seguridad
@@ -338,6 +338,7 @@ número 04/2025 y
 
 ## Página 12
 
+
 ## 2 La investigación y su contexto
 La Oficina Federal de Investigación de Accidentes Ferroviarios (BEU) es competente para la investigación de sucesos peligrosos en la explotación ferroviaria, en el sentido del capítulo V de la Directiva (UE) 2016/798, en infraestructuras ferroviarias federales y en infraestructuras ferroviarias no federales de la red principal, conforme al § 2b de la Ley General de Ferrocarriles (AEG). El objetivo y la finalidad de las investigaciones iniciadas es aclarar las causas del suceso peligroso y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 Las recomendaciones de seguridad de la BEU para evitar sucesos peligrosos y mejorar la seguridad ferroviaria se dirigen a la autoridad nacional de seguridad y, cuando la naturaleza de la recomendación lo requiere, a la Agencia Ferroviaria de la Unión Europea y a otros organismos o autoridades. En general, las recomendaciones de seguridad se dirigen también a los directa o indirectamente afectados, así como a todas las empresas ferroviarias pertinentes.
@@ -346,6 +347,7 @@ Debido a la magnitud de los daños o a las consecuencias del presente suceso pel
 Las actuaciones de investigación de accidentes se llevan a cabo de forma estructurada en cuatro procesos nucleares definidos, que comienzan con la decisión de iniciar una investigación y terminan con
 
 ## Página 13
+
 
 la publicación del informe de investigación. Para la determinación de causas se realizan investigaciones abiertas en resultados en todas las disciplinas técnicas implicadas, y en ellas se llevan a cabo en particular análisis de causa-efecto y comparaciones entre lo previsto y lo real.
 Las actuaciones de investigación fueron dirigidas de forma principal por el distrito de investigación localmente competente Suroeste.
@@ -358,6 +360,7 @@ El suceso, conforme a la disposición general sobre la notificación de sucesos 
 
 ## Página 14
 
+
 ## 3 Descripción del suceso
 En el tercer capítulo se describe con más detalle el suceso peligroso en dos subcapítulos preestablecidos. En el capítulo 3.1, además de los datos básicos, se incluyen informaciones adicionales sobre el lugar del suceso, las condiciones externas, los implicados y las consecuencias. La reconstrucción del suceso, así como las informaciones sobre la activación y el desarrollo de las medidas de rescate, se presentan en el capítulo 3.2. Las descripciones se refieren fundamentalmente a las condiciones predominantes y a los hechos constatados en el momento del suceso.
 ### 3.1 Informaciones sobre el suceso y sus antecedentes
@@ -369,11 +372,13 @@ La siguiente figura muestra un plano de situación con las estaciones de explota
 
 ## Página 15
 
+
 Figura 1: Plano de situación¹
 La vía de la línea utilizada por los movimientos de tren implicados estaba delimitada por la señal de salida (Asig) P1 de la estación de Bruchköbel en km 21,620 y por la señal de entrada (Esig) F328 de la estación de Nidderau en km 16,323. Al no existir ninguna señal de bloqueo adicional en el tramo de línea, el tramo de bloqueo tenía una longitud de 5.297 m y se denominaba tramo 492. La siguiente figura muestra el esquema de disposición de vías entre las estaciones de explotación implicadas, estación de Bruchköbel y estación de Nidderau, con los movimientos de tren implicados, las señales relevantes y la ubicación de los puestos de mando (Stw).
 ¹ Fuente: Datos geobásicos: © GeoBasis-DE / BKG 2024, editado por BEU
 
 ## Página 16
+
 
 Figura 2: Esquema de disposición de vías²
 Las instalaciones de señales de la estación de Bruchköbel se operaban localmente desde el puesto de mando de Bruchköbel. Se trataba de un puesto de mando de teclas pulsadoras de tipo Siemens DrS 2, ocupado de forma continua por un jefe de maniobras (Fdl). Como dispositivo de bloqueo de línea, en las vías principal y contraria hacia las estaciones de explotación vecinas se habían instalado bloqueos automáticos Sb 60 con contadores de ejes. No existía un sistema de comunicación de números de tren (ZN-Anlage). Al no estar el puesto de mando de Bruchköbel equipado con un sistema técnico de comunicación de este tipo, la comunicación técnica de números de tren se realizó, saltándose Bruchköbel, directamente entre los puestos de mando de Nidderau y Hanau Nord.
@@ -381,6 +386,7 @@ La estación de Nidderau estaba dividida en dos partes de estación (BÖ) y dist
 ² Fuente: DB InfraGO AG, editado por BEU
 
 ## Página 17
+
 
 ### 3.1.2 Implicados
 Los implicados en el suceso desempeñaban las siguientes funciones:
@@ -410,17 +416,20 @@ El 10.02.2024, el tren DGS 48508 fue dado de baja por el jefe de maniobras (Fdl)
 
 ## Página 18
 
+
 a continuación, para el DGS 48508, la señal de entrada (Esig) F328 y posteriormente la señal de salida (Asig) P308 en vía libre. A las 08:56 h se produjo, en el tramo de salida 316 de la estación de Nidderau, un defecto en la bobina de entrada. La instalación de liberación de vía en el tramo de vía 316 quedó por ello averiada y el tramo de vía se mostró en la mesa de mando del jefe de maniobras (Fdl) de Nidderau con iluminación roja como ocupado. Debido a esta avería, la lógica de seguridad del puesto de mando puso automáticamente la señal de salida (Asig) P308, situada antes de este tramo 316, en alto. Por esta parada se generó en la ZNL800 el número erróneo F6537 en el campo de número de tren 208 en el tramo de línea en dirección a la estación de Assenheim (Oberhess). Asimismo, debido a la avería de la instalación de liberación de vía en el tramo de vía 316, se produjo con cierto retraso la parada automática de la señal de entrada (Esig) F328, ya que el tramo de vía afectado se encontraba también en la zona de deslizamiento de la señal de entrada (Esig) F328. Por esta parada, el número de tren del DGS 48508 se conmutó desde el campo de número de tren 492 de la vía libre de Bruchköbel a Nidderau hasta el campo de número de tren 308 de la estación de Nidderau. El DGS 48508 se encontraba en ese momento, sin embargo, aún en la vía libre antes de la estación de Nidderau y se aproximaba a la señal de entrada (Esig) F328 que indicaba alto.
 A continuación se ilustra lo ocurrido, en parte, mediante figuras. Las figuras muestran tanto una vista general del tramo de línea mencionado con la ubicación de las estaciones de explotación y señales relevantes, como las informaciones en los campos de número de tren de la ZNL800 y las ubicaciones reales de los movimientos de tren. La siguiente figura 3 muestra la situación operativa creada por la avería a las 08:56 h.
 Figura 3: Situación operativa a las 08:56 h
 
 ## Página 19
 
+
 Poco después, el Fdl Assenheim (Oberhess) contactó al Fdl Nidderau respecto al número erróneo. El Fdl Nidderau asumió que debía tratarse del DGS 48508. A raíz de ello, el Fdl Nidderau, sin más investigaciones, sustituyó el número erróneo surgido en el tramo 208 por el número de tren del DGS 48508. En ese momento, el DGS 48508 había pasado la señal de aproximación que indicaba «esperar parada» del Esig F328 y, a continuación, hacia las 08:59, se detuvo con la cabeza del tren delante del Esig F328 que indicaba «parada», aproximadamente en km 16,36, lo que, en cambio, correspondería al campo de número de tren 492. La cola del tren se encontraba aproximadamente en km 16,95. A las 08:59, el Fdl Nidderau contactó al Fdl Bruchköbel y comunicó una circulación de tren en su dirección. Ante la pregunta de si el DGS 48508 aún no estaba en la estación (Bf) Nidderau, el Fdl Nidderau respondió que el DGS 48508 ya había llegado a Nidderau y que el tren solo había dejado una iluminación roja [nota red.: indicación de ocupación en el bloque de vía 492]. El Fdl Bruchköbel preguntó a raíz de ello si el Fdl Nidderau había visto la cola del tren. Esto lo negó el Fdl Nidderau. Ante su siguiente pregunta, de si el Fdl Nidderau podía darle una notificación de llegada para el tren, el Fdl Nidderau respondió que el DGS 48508 había abandonado la estación (Bf) Nidderau.
 
 A las 09:03, el Fdl Bruchköbel entregó al Tf del ICE 1672, que en ese momento había llegado a la estación (Bf) Bruchköbel, una orden escrita n.º 12 para circular a vista entre la estación (Bf) Bruchköbel y la estación (Bf) Nidderau desde el Asig P1 hasta el Esig F328. Como justificación se indicó el motivo n.º 1 «La vía puede estar ocupada». A raíz de ello, el Fdl Bruchköbel intentó un restablecimiento del bloque automático de vía para el tramo, accionando el dispositivo de restablecimiento de los contadores de ejes, lo cual resultó infructuoso. A las 09:05, autorizó la salida del ICE 1672 accionando la señal de sustitución en el Asig P1. El Tf, a raíz de ello, continuó la marcha y aceleró el tren hasta una velocidad máxima de 40 km/h. En el tramo 492 en dirección a la estación (Bf) Nidderau se encontraban a partir de ese momento ambos trenes. Con la extinción de la señal de sustitución, el número de tren del ICE 1672 se conmutó en la instalación ZN al campo de número de tren 492. La siguiente figura 4 muestra la situación operativa en ese momento.
 
 ## Página 20
+
 
 Figura 4: Situación operativa a las 09:05
 A las 09:06, el Fdl Assenheim (Oberhess) contactó al Fdl Nidderau y preguntó por el paradero del DGS 48508. Solo veía el número de tren del tren, pero no una ocupación de la instalación de liberación de vía del tramo. A las 09:07, el Fdl Nidderau contactó a raíz de ello al Tf del DGS 48508 y preguntó por su ubicación. El Tf indicó que estaba detenido delante del Esig F328 que indicaba «parada». El Fdl preguntó de nuevo si se trataba efectivamente del Esig F328. El Tf confirmó esto. Inmediatamente después, el Fdl finalizó la conversación con la justificación de que tenía que emitir una orden de parada de emergencia. A las 09:08, el Fdl Nidderau emitió a través de GSM-R una orden de parada de emergencia para todas las circulaciones de trenes entre la estación (Bf) Bruchköbel y la estación (Bf) Nidderau. El Tf del ICE 1672 detuvo a raíz de ello el tren y se detuvo aproximadamente en km 19,58.
@@ -432,6 +441,7 @@ De acuerdo con el § 4 apartado 3 AEG, los ferrocarriles tienen la obligación d
 No había personas que rescatar. El Fdl Nidderau contactó a las 09:10 a través de GSM-R con el centro de control de emergencias competente y le puso en conocimiento del suceso.
 
 ## Página 21
+
 
 ## 4 Evaluación del suceso
 
@@ -451,6 +461,7 @@ En el momento del suceso se estaban realizando, en la línea Kassel Hbf – Fran
 
 ## Página 22
 
+
 ### Bruchköbel
 
 Para la evaluación de las acciones del Fdl Bruchköbel se utilizaron fundamentalmente los documentos operativos relevantes del puesto de mando, como el libro de anuncios de trenes y la prueba de los contadores de ejes. Adicionalmente, se evaluaron las conversaciones mantenidas a través de GSM-R y la orden entregada al Tf del ICE 1672.
@@ -465,6 +476,7 @@ El Fdl Bruchköbel no disponía, por tanto, de ninguna confirmación de la compr
 
 ## Página 23
 
+
 [F8]. La eliminación de esta circunstancia habría impedido el suceso con toda probabilidad.
 
 Los términos notificación de llegada y notificación de salida se aplican únicamente en la conducción de trenes por indicación de acuerdo con Ril 436, lo cual, sin embargo, no era pertinente para la regulación de la circulación de trenes entre Bruchköbel y Nidderau.
@@ -475,14 +487,15 @@ Con la entrega de la orden al Tf, el Fdl Bruchköbel podía ahora, siempre que s
 
 ## Página 24
 
+
 Hacia las 09:04 h, el Fdl Bruchköbel contactó con el Fdl Nidderau y transmitió la comunicación de tren para el ICE 1672. En la conversación posterior, le comunicó al Fdl Nidderau que no había podido "desbloquear" la avería en el bloque de vía y que, por tanto, el ICE 1672 saldría con Orden 12 y bajo señal de sustitución. Según ello, el Fdl Bruchköbel habría realizado un intento de establecimiento base sin éxito. Este intento no habría podido tener éxito, por un lado, porque en ese momento un establecimiento base no era técnicamente posible debido al establecimiento base de conteo de ejes dificultado de la lógica de seguridad del Stw. Por otro lado, el Fdl no operó la AzGrT necesaria para ello. Esto se dedujo de la comprobación de los contadores, que se muestra en la figura siguiente.
 Figura 5: Comprobación de los contadores Stw Bruchköbel³
 De la figura se desprende que el Fdl Bruchköbel, el 10.02.2024 a las 09:05 h, operó por un lado la tecla de grupo de señal de sustitución (ErsGT) con el número de conteo 39798 y por otro lado la tecla auxiliar de itinerario (FHT) con el número de conteo 25685. Las operaciones se realizaron para el tren 1672 con la justificación de que existía un encendido en rojo en el circuito de conteo de ejes 368.
 La comprobación de los contadores se realizó tras el suceso, el 12.02.2024, por el responsable de área operativa (LBB). Por tanto, cabe suponer que las entradas coincidían con el contador del Stw. No pudo determinarse por qué el Fdl operó la FHT en lugar de la AzGrT. La FHT servía para la liberación de itinerarios de tren y de itinerarios auxiliares de tren y era ineficaz para provocar un establecimiento base de conteo de ejes.
 ³ DB InfraGO AG, elaborado por BEU
 
-
 ## Página 25
+
 
 De la operación de la ErsGT se desprende que el Fdl Bruchköbel, a las 09:05 h, había dado al ICE 1672 la autorización para el paso sin detención ante la señal Asig P1 en indicación de parada, sin que se cumplieran todas las condiciones previas para la circulación con orden especial [F8]. La exclusión de esta acción basada en condiciones previas incorrectas habría evitado el suceso peligroso con toda probabilidad.
 ### Nidderau
@@ -491,8 +504,8 @@ El sistema ZN del Stw Nidderau tenía, a través del Stw Bruchköbel, una conexi
 A las 08:46:34 h, el Fdl Bruchköbel contactó con el Fdl Nidderau mediante GSM-R y transmitió, entre otras, las comunicaciones de tren para el DGS 48508. De la grabación en vídeo del LeiDis se desprende que el Fdl Nidderau, a continuación, por un lado, a las 08:53:17 h, había establecido la señal Esig F328 para la entrada del DGS 48508 y, por otro lado, a las 08:55:20 h, la señal Asig P308 para su salida. Según la indicación del LeiDis, hacia las 08:56:32 h la señal Asig P308 volvió a parada debido a la avería en el sistema de liberación de vías del tramo de salida 316.
 Debido al paso a parada de la señal Asig P308, la ZNL800 generó inicialmente el número erróneo F6537 en el campo de números de tren 208, ya que en el campo 308, anterior en relación con el itinerario, no había en ese momento ningún número de tren almacenado.
 
-
 ## Página 26
+
 
 Con algo de retraso, la señal Esig F328 también volvió a parada a las 08:56:35 h debido a la avería. Debido al paso a parada, el número de tren del DGS 48508 se conmutó desde el campo de números de tren 492 de la vía libre al campo de números de tren 308 de la estación Bf Nidderau, tal y como corresponde al desarrollo operativo previsto. El DGS 48508 se encontraba en ese momento efectivamente todavía en el bloque de vía 492.
 Esta conmutación sin una circulación de tren efectivamente producida se considera un factor causal [F2]. La evitación del suceso de la conmutación del número de tren sin circulación efectiva del tren habría evitado el suceso con toda probabilidad. La incorrección no existente de las indicaciones del sistema ZN, surgida por el principio técnico subyacente del sistema de comunicación de números de tren, se considera una deficiencia sistémica [S2]. El principio existente es de carácter técnico-organizativo y podría afectar en el futuro a sucesos similares y relacionados con él.
@@ -501,25 +514,27 @@ Figura 6: Impresión de la ZNL800⁴
 Con la hora 08:56 h, el Fdl Nidderau anotó la llegada del DGS 48508 en la columna correspondiente del libro de comunicaciones de trenes, aunque no había observado el paso del tren. La falta de observación del tren se considera un factor contribuyente [F3]. La omisión de la observación del tren ha aumentado la probabilidad de la entrada del suceso.
 ⁴ Fuente: DB InfraGO AG, elaborado por BEU
 
-
 ## Página 27
+
 
 A las 08:56:57 h, el Fdl Assenheim (Oberhess) contactó con el Fdl Nidderau respecto al número erróneo F6537 en el campo de números de tren 308. El Fdl Nidderau asumió que debía tratarse del DGS 48508, ya que este estaba entrando justo en el bloque de seguimiento de trenes. El Fdl Nidderau llegó probablemente a esta conclusión debido al tramo de salida 316 en dirección a la estación Bf Assenheim (Oberhess), encendido en rojo por la avería en la resistencia de derivación. En ese momento, el Fdl Nidderau no era consciente de que se tratara de una avería en el sistema de liberación de vías. Esta valoración errónea de la situación operativa por parte del Fdl Nidderau se considera un factor causal [F5]. La corrección de esta acción habría evitado el suceso con toda probabilidad.
 El Fdl Assenheim (Oberhess) le propuso a continuación sustituir el número erróneo por el número de tren correspondiente, ya que asumía que solo él tenía la autorización técnica para operar el sistema de comunicación de números de tren. El Fdl Nidderau le indicó a continuación que intentaría realizar la sustitución él mismo. A las 08:58 h, el Fdl Nidderau sustituyó con éxito el número erróneo F6537 por el número de tren 48508. De conformidad con la Ril 408.0591 Secc. 3, los Fdl habrían tenido que determinar la identidad del tren afectado, por ejemplo, preguntando al Tf con una determinación de posición, tras la aparición del número erróneo en el sistema ZN. Solo después habría podido corregirse el número de tren. La sustitución no verificada del número erróneo sin determinación de posición se considera otro factor causal [F4]. Debido a esta omisión, ha aumentado la probabilidad del suceso.
 A las 08:59:01 h, el Fdl Nidderau contactó con el Fdl Bruchköbel para la anulación de la comunicación del tren 1573. Tras la comunicación de tren, el Fdl Bruchköbel preguntó si el último tren circulado en dirección a Nidderau aún no había llegado. El Fdl Nidderau respondió negativamente con la justificación de que había llegado, pero había dejado un encendido en rojo. En la conversación posterior, se descubrió que el Fdl Nidderau no había observado la cola del DGS 48508 y, con ello, llegó a una valoración errónea de la situación operativa (factor mencionado arriba [F5]).
 El Fdl Bruchköbel le preguntó a continuación si el Fdl Nidderau podía darle un mensaje de llegada. El Fdl Nidderau le transmitió a continuación el mensaje de salida del DGS 48508 para la estación Bf Nidderau, no admisible en este procedimiento operativo. Este mensaje erróneo del Fdl Nidderau se considera un factor causal [F7]. La corrección de este mensaje mediante una comprobación de liberación y confirmación, prevista según el marco normativo en esta situación operativa y descrita más abajo, habría evitado el suceso con toda probabilidad. Como ambos Fdl partían de la base de una avería en el bloque de vía automático, el Fdl Nidderau tuvo que determinar primero, para las medidas posteriores, que el último tren circulado DGS 48508 hubiera liberado completamente el bloque de seguimiento de trenes afectado. En los casos de la Ril 408.0245 Secc. 4 Párr. 1 Letra a y/o d, habría sido necesaria para ello una comprobación de liberación individual. Para esta, el Fdl Nidderau habría tenido que realizar, de conformidad con la Ril 408.0241 Secc. 4, las siguientes comprobaciones:
 
-
 ## Página 28
 
- El DGS 48508 habría tenido que haber pasado sin detención por el punto de cola de tren de la señal Esig F328.
- El Fdl habría tenido que haber reconocido al menos una indicación de la señal final del DGS 48508.
- La señal Esig F328 habría tenido que mostrar parada y el indicador de la señal Zs 1 habría tenido que apagarse en dicha señal.
-Como el Fdl Nidderau ya había comunicado en la conversación GSM-R que no había visto la cola del DGS 48508, habría tenido que recurrir, para el cumplimiento de esta condición, a una conducción alternativa del servicio conforme a la Ril 408.0245 Secc. 6 Párr. 1 Letra a o b.
-Aunque el Fdl no había visto ni la cola ni el tren, transmitió al Fdl Bruchköbel una información para el DGS 48508 que él denominó mensaje de salida para la estación Bf Nidderau. Un mensaje de salida era admisible únicamente para el procedimiento operativo de conducción de trenes por despacho conforme a la Ril 436.0002 Secc. 1 Párr. 6. El Fdl Nidderau habría tenido que confirmar, en su lugar, la comprobación de liberación individual al Fdl Bruchköbel mediante una confirmación conforme a la Ril 408.0245 Secc. 3 Párr. 1, siempre que se cumplieran las condiciones mencionadas.
-A las 09:00 h, el Fdl Nidderau contactó con el Fdl Assenheim (Oberhess) y le preguntó si el DGS 48508 ya había llegado a su estación. El Fdl Assenheim (Oberhess) respondió negativamente. A continuación, el Fdl Nidderau solicitó una confirmación para el DGS 48508, ya que este no había liberado correctamente el bloque de seguimiento de trenes y había dejado un encendido en rojo. El Fdl Assenheim (Oberhess) se comprometió a hacerlo.
+fung y confirmación habrían evitado el suceso con toda probabilidad. Dado que ambos Fdl partían de la base de una avería del bloqueo automático de sección, el Fdl Nidderau tuvo que determinar, para las medidas posteriores, que el último tren circulado DGS 48508 hubiera despejado completamente la sección de intervalo afectada. En los casos previstos en Ril 408.0245 Secc. 4 Ap. 1 Letra a y/o d habría sido necesaria una comprobación individual de despeje. Para esta, el Fdl Nidderau habría tenido que realizar, conforme a Ril 408.0241 Secc. 4, las siguientes comprobaciones:
+ El DGS 48508 tendría que haber pasado por delante del punto de fin de tren de la señal Esig F328.
+ El Fdl tendría que haber reconocido al menos una indicación de la señal final del DGS 48508.
+ El Esig F328 tendría que haber mostrado indicación de alto y el indicador de la señal Zs 1 tendría que haberse apagado en dicha señal.
+Dado que el Fdl Nidderau ya había comunicado en la conversación GSM-R que no había visto el fin de tren del DGS 48508, habría tenido que recurrir, para cumplir esta condición, a una conducción alternativa de la explotación conforme a Ril 408.0245 Secc. 6 Ap. 1 Letra a o b.
+Aunque el Fdl no había visto ni el fin de tren ni el tren, transmitió al Fdl Bruchköbel una información para el DGS 48508 que él designó como notificación de salida para el Bf Nidderau. Una notificación de salida era admisible exclusivamente para el procedimiento explotación del tren conducido por jefe de tren conforme a Ril 436.0002 Secc. 1 Ap. 6. El Fdl Nidderau habría tenido que confirmar en su lugar la comprobación individual de despeje al Fdl Bruchköbel mediante una confirmación conforme a Ril 408.0245 Secc. 3 Ap. 1, siempre que se cumplieran las condiciones mencionadas.
+A las 09:00 horas, el Fdl Nidderau contactó con el Fdl Assenheim (Oberhess) y le preguntó si el DGS 48508 ya había llegado a su Bf. El Fdl Assenheim (Oberhess) respondió que no. A continuación, el Fdl Nidderau solicitó una confirmación para el DGS 48508, ya que este no había despejado correctamente la sección de intervalo y había dejado un tramo de vía iluminado en rojo.
+El Fdl Assenheim (Oberhess) se comprometió a hacerlo.
 
 ## Página 29
+
 
 El JdS Nidderau se interesó en este momento por el paradero del DGS 48508, aunque no existían reglas obligatorias en la Ril 408 al respecto. Únicamente para las líneas con bloque automático de línea no automático, conforme a la Ril 408.0243 Secc. 4, se había establecido una regulación correspondiente. Según la misma, un JdS que hubiera autorizado la circulación de un tren debía interesarse, como máximo cinco minutos después del vencimiento del tiempo de viaje previsto, por el paradero del tren. A las 09:06 h, el JdS Assenheim (Oberhess) contactó con el JdS Nidderau y preguntó si el DGS 48508 había salido efectivamente de la EE Nidderau. Él solo veía el número de tren, mientras que el bloque de línea no mostraba ninguna indicación de ocupación. El JdS Nidderau declaró que contactaría con el Mm del DGS 48508 para preguntarle por su ubicación. Esto lo llevó a cabo el JdS Nidderau inmediatamente después de la conversación. Se interesó ante el Mm por su ubicación y por si había problemas en el tren. El Mm respondió que se encontraba detenido ante la señal de parada SeñF F328. El JdS preguntó si era realmente la SeñF F328, lo que el Mm confirmó. A continuación, el JdS comunicó que debía terminar la conversación para emitir una orden de detención. Inmediatamente después, el JdS Nidderau inició una llamada de emergencia a través de GSM-R y emitió la orden de detención para todos los trenes entre las estaciones Bruchköbel y Nidderau. Las medidas adoptadas por el JdS Nidderau tras reconocer el peligro se ajustaron a las prescripciones de la Ril 408.0581. Gracias a esta actuación, el ICE 1672 pudo detenerse antes de que se produjera una colisión con el DGS 48508, que se encontraba en el mismo tramo de bloque por delante. Todas las medidas posteriores se llevaron a cabo en coordinación con el gestor de emergencias competente.
 
@@ -532,6 +547,7 @@ En los apartados siguientes se describen los procesos operativos de las circulac
 La SBB Cargo Deutschland GmbH era el EVU responsable de la circulación del tren DGS 48508 en el momento del suceso y disponía de un certificado de seguridad conforme al § 7a AEG con validez hasta el 12.03.2028. El EVU estaba, por tanto, habilitado para participar en la explotación ferroviaria en la red principal.
 
 ## Página 30
+
 
 La circulación del tren realizaba el servicio previsto de Melzo (Italia) a Rotterdam-Botlek (Países Bajos). La circulación atravesó la red ferroviaria alemana desde la EE Basel Bad Bf, entre otras, por la EE Nidderau hasta la PE Emmerich Frontera.
 
@@ -546,6 +562,7 @@ La circulación realizaba el servicio previsto desde la EE Karlsruhe Hbf hasta l
 Los datos de circulación del ICE 1672 fueron registrados en la EFR del tren eléctrico por el equipo de vehículo PZB de forma completa y sin errores. Los datos brutos registrados fueron conservados tras el suceso por la DB Fernverkehr AG y remitidos a la BEU para su evaluación. De los datos de circulación registrados en la EFR se dedujo que la circulación del tren se había detenido en la EE Bruchköbel.
 
 ## Página 31
+
 
 En la EE Bruchköbel, el JdS entregó al Mm del ICE 1672 la orden escrita 12 para la marcha a la vista entre la EE Bruchköbel y la EE Nidderau, desde la SeñA P1 hasta la SeñF F328. Conforme a la Ril 408.2561 Secc. 1 Ap. 1, el Mm, durante la marcha a la vista, solo podía conducir a la velocidad necesaria para poder detener el tren con seguridad ante un obstáculo o una señal de parada, teniendo en cuenta las condiciones de visibilidad predominantes, pero en ningún caso a más de 40 km/h.
 
@@ -566,6 +583,7 @@ A continuación se presentan los resultados relevantes sobre los vehículos de l
 El DGS 48508 estaba formado por un vehículo de tracción de la serie 193 y 18 vagones de carga de seis ejes cargados. El peso total del tren era de 1.660 t con una longitud total de 594 m. En el horario se prescribía la posición de freno P y una velocidad máxima de
 
 ## Página 32
+
 
 100 km/h. El cálculo de frenado arrojó 88 centésimas de frenado. Conforme al horario, se requerían 67 centésimas de frenado mínimas.
 
@@ -589,6 +607,7 @@ En la instalación de liberación de vía en el tramo de vía 316 (tramo de sali
 
 ## Página 33
 
+
 BEU. De la misma no se desprendieron anomalías. Asimismo, se presentaron los justificantes de inspección para los años de 2022 a 2024. La última inspección antes del suceso tuvo lugar el 18.08.2023.
 
 Además, el EIU remitió a la BEU los justificantes de inspección en el periodo de 2022 a 2024 para la instalación interior, las instalaciones de señales y la instalación de suministro eléctrico del Puesto de Mando Nidderau. De los justificantes se desprende que se realizaron todas las inspecciones periódicas.
@@ -605,6 +624,7 @@ La ZNL800 tenía, conforme a la Ril 482.9112, la tarea de asignar automáticamen
 
 ## Página 34
 
+
 En el funcionamiento normal, salvo en el caso de trenes que comienzan o terminan dentro de su ámbito de mando, no era necesaria la intervención de un Fdl en la técnica. El encadenamiento de la indicación de un número de tren de un bloque de sucesión de trenes al siguiente se producía por la extinción de la indicación de vía libre en el semáforo principal correspondiente. Esto incluía también la extinción de las señales adicionales en un semáforo principal cuando representaban la conformidad del Fdl para la circulación de trenes. Para la operación de la ZNL800 se disponía de un teclado de pupitre. A través de este, los Fdl podían realizar, conforme a las prescripciones de la Ril 482.9112, diversas acciones de operación, como por ejemplo la sustitución de un número de tren.
 
 Según la Ril 482.9112, sección 30, apartado 1, se producía una anomalía de encadenamiento cuando un número de tren no se encadenaba automáticamente al siguiente bloque de sucesión de trenes, aunque se produjera el criterio de encadenamiento (extinción de la indicación de vía libre en el semáforo principal). En este caso, el Fdl competente debía encadenar el número de tren mediante entrada manual en el campo de números de tren correspondiente a la ubicación del tren a través del teclado de pupitre. Si el Fdl no realizaba la entrada manual, la ZNL800 generaba, al continuar la circulación del tren, un número erróneo en el campo de números de tren siguiente, al que no se había encadenado y que por tanto no contenía número de tren. Si se generaba un número erróneo de este tipo, debía sustituirse por el número de tren correspondiente o eliminarse mediante encadenamiento manual o entrada manual. Al sustituir el número erróneo por el número de tren correcto, este se eliminaba simultáneamente del campo de números de tren desde el que no se había encadenado.
@@ -615,8 +635,8 @@ La operación de la puesta en posición base de conteo de ejes es una acción au
 
 De las conversaciones GSM-R se pudo deducir que el Fdl Bruchköbel había intentado a las 09:05 h una puesta en posición base de conteo de ejes. Sin embargo, este intento no pudo tener éxito
 
-
 ## Página 35
+
 
 ya que, por un lado, no había operado la AzGrT y, por otro lado, el DGS 48508 en ese momento solo había sido contado hacia el bloque de liberación de vía y no se había contado ninguna salida de ejes.
 
@@ -636,8 +656,8 @@ Según la Ril 412.9111, sección 4, apartado 5, estaba previsto para el Fdl un o
 
 Las empresas ferroviarias estaban obligadas, conforme al Reglamento (UE) 2018/762, Anexo II, punto 5.1.6, letra c), a considerar en el marco de la investigación de sucesos peligrosos también los factores humanos y organizativos (MOF). El EIU había desarrollado para ello protocolos MOF especiales, que fueron solicitados por la BEU. Un protocolo MOF de este tipo se llevó únicamente para el Fdl Nidderau. Del mismo se desprendían los siguientes puntos esenciales:
 
-
 ## Página 36
+
 
 - El Fdl indicó que el funcionamiento y la forma de actuación de la instalación ZN no le eran plenamente claros.
 - El Fdl había confiado más en la información de la ZNL800 de lo que estaba previsto según el cuerpo normativo correspondiente.
@@ -649,8 +669,8 @@ El Fdl Bruchköbel realizó una formación como ferroviario en el servicio de ex
 
 Los Tf de los trenes DGS 48508 e ICE 1672 poseían respectivamente un permiso de conducción de trenes de la UE válido. Para la conducción de vehículos ferroviarios recibieron de la EVU respectivamente responsable un certificado complementario en el que, entre otros, estaban anotadas la aptitud para la conducción de la serie correspondiente y otras cualificaciones complementarias. Ambos Tf pudieron acreditar los conocimientos de línea necesarios para el tramo de línea relevante. Los requisitos verificados conforme al Reglamento de permisos de conducción de trenes quedaban así cumplidos.
 
-
 ## Página 37
+
 
 ### 4.4 Mecanismos de retroalimentación y de control
 
@@ -668,8 +688,8 @@ Asimismo, según la información del EIU, la temática de la "indicación de ocu
 
 Conforme al Reglamento delegado (UE) 2018/762, Anexo II, criterio 4.3, debía garantizarse dentro de una organización que los empleados encargados de tareas relevantes para la seguridad
 
-
 ## Página 38
+
 
 fueran conscientes de la relevancia, importancia y consecuencias de su actividad. Según el criterio 5.1.6 del mencionado Reglamento, debían cumplirse las instrucciones de trabajo.
 
@@ -684,6 +704,7 @@ Imagen 7: Libro de avisos de trenes Stw Nidderau5
 
 ## Página 39
 
+
 De la figura se desprende que la columna 5 «AnkunŌ» fue gestionada por el Fdl anterior y, a continuación, no fue gestionada por el Fdl implicado en el suceso. Por parte del LBB competente no se formuló ninguna objeción al modo de trabajo en las revisiones de explotación al respecto. Tras el suceso, el EIU, en conversaciones con los empleados del Stw, constató que, especialmente en los trenes de paso, existía el consenso de que no debían registrarse. Esto contradecía la instrucción de servicio Ril 408, que había armonizado a nivel federal las reglas para el modo de trabajo de los Fdl en las líneas aplicadas. El objetivo de la supervisión por parte del responsable de supervisión debía ser detectar tales circunstancias y subsanarlas mediante medidas adecuadas.
 
 ### 4.5 Sucesos anteriores de naturaleza similar
@@ -694,8 +715,8 @@ El 05.12.2017, un tren de pasajeros colisionó con un tren de mercancías entre 
 
 El 19.05.2022, un tren de mercancías colisionó con otro tren de mercancías entre la parada de Altheim (Hess) y la estación de Dieburg. Debido a una modificación de la instalación ZN en la estación de Babenhausen, se produjo, con una maniobra correcta por parte del Fdl, la sobrescritura de un número de tren por otro. Los Fdl competentes perdieron a partir de ahí la visión general de la situación de explotación, de modo que un tren de mercancías se encontraba de forma no reconocida en un bloque de vía. A pesar de la discrepancia entre el Tf y el Fdl sobre la ubicación del tren de mercancías, se autorizó un movimiento de tren posterior a entrar en el bloque ocupado a velocidad de horario y colisionó con el tren de mercancías.
 
-
 ## Página 40
+
 
 ## 5 Conclusiones
 
@@ -713,8 +734,8 @@ Un defecto en una bobina de alimentación provocó la avería de la instalación
 
 Debido a las caídas a posición de parada con retraso, primero de la señal A P308 y posteriormente de la señal E F328 en la estación de Nidderau, la ZNL800 del Stw Nidderau reaccionó conforme a su programación. Formó inicialmente un número erróneo en el campo de número de tren 208 y, a continuación, avanzó el número de tren del DGS 48508 desde el campo de número de tren 492 al campo de número de tren 308 de la estación de Nidderau. A partir de ese momento, la indicación de la instalación ZN ya no coincidía con el estado real de explotación. Esto debía ser reconocido con seguridad por el operador de la instalación para iniciar las medidas correctoras prescritas. No estaba prevista una notificación de avería específica para el caso «avance de ZN sin movimiento de tren».
 
-
 ## Página 41
+
 
 ### Sobre el factor sistémico «Falta de corrección de la información» [S2]
 
@@ -728,8 +749,8 @@ La BEU, sobre esta temática, en la mencionada colisión de trenes entre la para
 
 Entre las tareas del Fdl Nidderau se encontraba, entre otras, conforme a la Ril 408.0262, observar los trenes que pasaban. El DGS 48508, procedente de la dirección de la estación de Bruchköbel, se encontraba, en el momento del suceso, aún antes de la estación de Nidderau. El último tren que había salido de la estación de Nidderau en dirección a la estación de Assenheim (Oberhess) era un tren de pasajeros. Por tanto, puede descartarse una confusión con el DGS 48508. Por qué el Fdl Nidderau no había realizado la observación del tren del DGS 48508 no pudo aclararse en el marco de la investigación
 
-
 ## Página 42
+
 
 La declaración del Fdl no arrojó luz al respecto. Sin la constatación independiente del paso del tren, el Fdl Nidderau no habría podido realizar ninguna anotación correspondiente en la columna de llegada del libro de avisos de tren ni emitir ninguna confirmación. El personal del Stw debe ser formado y entrenado en el futuro en esta temática relevante para la seguridad, así como sensibilizado con mayor énfasis sobre la trascendencia de la relevancia de estas constataciones para la seguridad de la explotación ferroviaria.
 
@@ -742,6 +763,7 @@ La falta de observación del paso del DGS 48508 no habría conducido por sí sol
 El Fdl Nidderau llegó ya durante la conversación con el Fdl Assenheim (Oberhess) a la situación de explotación surgida a las 08:56 horas a la conclusión de que el número erróneo formado debía tratarse del DGS 48508. Con ello se evidenció un déficit en el conocimiento sobre el modo de actuación y funcionamiento de la ZNL800 del Fdl Nidderau. A partir de la indicación de ocupación en su mesa de mando, las impresiones de números de tren y las indicaciones de la ZNL800, habría podido reconocer perfectamente que no se trataba de una avería de avance en la ZNL800. La formación de un número erróneo exigía, conforme al manual de operación de la ZNL800, que se produjera un avance desde un campo de número de tren vacío al siguiente campo de número de tren. Por tanto, el campo de número de tren 308 en la estación de Nidderau tendría que haber estado vacío. Sin embargo, como puede verse en la figura 3, el campo de número de tren 308 estaba ocupado con el número de tren del DGS 48508. Asimismo, de la impresión de la ZNL800 se extraía que primero se había formado el número erróneo en el campo de número de tren 208 y, a continuación, la
 
 ## Página 43
+
 
 se reenvió el número de tren del DGS 48508 al campo de número de tren 308. Esta información estaba disponible y era utilizable para el Fdl.
 El personal del Stw debe ser formado de forma exhaustiva y continua, en el marco de la formación inicial y continua, en el manejo de las instalaciones técnicas existentes de un Stw, para poder garantizar su correcta aplicación también ante errores o averías.
@@ -756,6 +778,7 @@ El Fdl Nidderau emitió una notificación de salida para el tren DGS 48508 al Fd
 
 ## Página 44
 
+
 Al factor causal "Requisitos previos para la circulación con orden especial no cumplidos" [F8]
 
 El Fdl Bruchköbel aplicó las medidas operativas sustitutivas según la Ril 408.0622 Secc. 1 sobre la base de la notificación de salida del Fdl Nidderau y permitió, por tanto, la entrada del tren en el tramo de seguimiento de trenes, en contra de lo dispuesto en la Ril 408.0261 Secc. 1 Párr. 1 Letra a. Ambas disposiciones preveían la comprobación de la liberación como requisito previo. Parte de la comprobación de la liberación era la confirmación del último tren circulado. Dado que el Fdl Bruchköbel no había recibido esta confirmación, los requisitos previos no se cumplían. El Fdl no habría podido aplicar las medidas operativas sustitutivas y, en consecuencia, no habría podido dar el consentimiento para la entrada del ICE 1672 en el tramo de seguimiento de trenes ocupado con señal sustitutiva. El personal del Stw debe seguir siendo formado y entrenado en la correcta aplicación del cumplimiento de los requisitos previos hasta la aplicación de medidas operativas sustitutivas, así como ser sensibilizado sobre su importancia y alcance para la seguridad de la explotación ferroviaria.
@@ -767,8 +790,8 @@ Dado que el Fdl Bruchköbel aplicó correctamente las medidas operativas sustitu
 El Fdl Nidderau fue reciclado intensivamente por el jefe de distrito operativo, con base en un entrenamiento práctico, en cuanto a los sucesos y actuaciones erróneas del suceso. Además, se aumentó el nivel de supervisión para su posterior desempeño como Fdl. En futuras inspecciones operativas, sus conocimientos deberán ser comprobados de forma específica por el LBB competente, especialmente en relación con temas de la instalación ZN.
 El 12.02.2024 se celebró una reciclaje del Fdl Bruchköbel. El contenido de la reciclaje fueron los módulos Ril 408.0241 y Ril 408.0244, relevantes para la comprobación de la liberación. Se prestó especial atención al enunciado y al requisito de la comprobación de la liberación, así como al intento de restablecimiento de las instalaciones de bloqueo. Asimismo, se recicló al Fdl en cuanto a la
 
-
 ## Página 45
+
 
 terminología y su significado. En concreto, se trató de las diferencias entre la notificación de llegada y la comprobación de la liberación, así como la comprobación de salida y su aplicación.
 
@@ -779,6 +802,7 @@ En las inspecciones operativas realizadas desde el suceso, se criticó la ausenc
 No procede.
 
 ## Página 46
+
 
 ## 6 Recomendaciones de seguridad
 

@@ -10,13 +10,13 @@ chars: 67906
 ratio_longitud: 1.01
 tokens_in: 34929
 tokens_out: 19250
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 20: cifras largas: faltan 2/5 (40%)"]
-notas_cifras: ["página 17: cifras cortas: 2/16", "página 22: cifras cortas: 2/12", "página 26: cifras cortas: 4/45", "página 27: original bilingüe: se compara contra el idioma principal (DE)", "página 28: original bilingüe: se compara contra el idioma principal (DE)", "página 31: cifras cortas: 2/14"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación  
 Referencia:
@@ -32,16 +32,16 @@ Evento peligroso en la explotación ferroviaria
 | Aguja: | 64W91 |
 | Punto kilométrico: | 0 50 , |
 
-
 ## Página 2
+
 
 Publicado por: 
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Heinemannstraße 6 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 ## Índice 
 ## I. 
@@ -92,10 +92,10 @@ Postura registrada del Fdl Plochingen 2 ........................................
 Postura del jefe de distrito de explotación ....................................................... 11  
 4.2 
 Gestión de emergencias .................................................................................... 11  
-I 
-
+I
 
 ## Página 4
+
 
 4.3 
 Investigación de la vía ......................................................................................... 12  
@@ -145,10 +145,10 @@ Conclusiones ...................................................................
 Medidas adoptadas hasta la fecha ....................................................................... 39  
 ## 7 
 Recomendaciones de seguridad ......................................................................... 39  
-II 
-
+II
 
 ## Página 5
+
 
 ## Índice de modificaciones: 
 ## I. 
@@ -157,6 +157,7 @@ Estado
 III
 
 ## Página 6
+
 
 ## II. 
 ## Índice de figuras: 
@@ -184,8 +185,8 @@ Tabla 5: Datos técnicos del Tfz 650............................................
 Tabla 6: Composición del RE 22011 ............................................................................................... 33  
 IV
 
-
 ## Página 7
+
 
 ## Índice de siglas: 
 ## IV. 
@@ -237,10 +238,10 @@ PZB
 Bloqueo puntual de trenes 
 RAB 
 DB ZugBus Regionalverkehr Alb‐Bodensee 
-V 
-
+V
 
 ## Página 8
+
 
 | RB | Tren regional |
 | RE | Expreso regional |
@@ -255,8 +256,8 @@ V
 | ZAS | Centro Central de Evaluación |
 VI
 
-
 ## Página 9
+
 
 ## 1 Observaciones previas 
 El capítulo Observaciones previas se ocupa de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se menciona la base legal y se esboza brevemente la organización.
@@ -269,14 +270,15 @@ Dado que el suceso objeto de la presente investigación se produjo antes del dí
 
 ## Página 10
 
+
 Más información al respecto está disponible en Internet en www.beu.bund.de.
 ### 1.2 Objetivo de la investigación de accidentes ferroviarios
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y derivar de ello indicaciones para mejorar la seguridad.
 Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 La investigación abarca la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del órgano de investigación para evitar accidentes y mejorar la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, en la medida en que sea necesario, a otros organismos y autoridades o a otros Estados miembros de la Unión Europea en forma de recomendaciones de seguridad.
 
-
 ## Página 11
+
 
 ## 2 Resumen
 El capítulo Resumen trata, en su parte introductoria, de una breve descripción del desarrollo del suceso. Las consecuencias derivadas se presentan brevemente en la sección siguiente. En la penúltima sección de este capítulo se indica la causa principal del suceso. El capítulo concluye con las recomendaciones de seguridad que, en su caso, se hayan emitido sobre el suceso investigado.
@@ -289,8 +291,8 @@ La causa de la colisión fue el paso indebido de una Rf por la señal de bloqueo
 ### 2.4 Recomendaciones de seguridad
 No se emitieron recomendaciones de seguridad.
 
-
 ## Página 12
+
 
 ## 3 Datos generales
 En la primera sección de este capítulo se describe el lugar del suceso. En la sección siguiente se enumeran los organismos que participaron y colaboraron en la investigación del accidente. Asimismo, se presentan las condiciones externas que concurrieron el día del suceso, como, por ejemplo, el tiempo o las condiciones de iluminación. La última sección indica el número de fallecidos y heridos, así como la naturaleza y cuantía de los daños materiales.
@@ -298,14 +300,14 @@ En la primera sección de este capítulo se describe el lugar del suceso. En la 
 La estación de Plochingen (Bf Plochingen) es una estación de bifurcación en la línea principal Stuttgart – Ulm. Esta vía principal electrificada de doble vía figura en el listado de velocidades admisibles (VzG) de DB Netz AG con el número de línea 4700. La línea se denomina ferrocarril de larga distancia (Fernbahn) desde Stuttgart hasta Plochingen. En Plochingen termina la línea de cercanías (S-Bahn) de doble vía (nº VzG 4701) Stuttgart – Plochingen, que transcurre en paralelo hasta Plochingen. En la estación de Plochingen, la línea VzG 4600 de doble vía y electrificada se bifurca en dirección a Wendlingen (– Tübingen) desde la línea principal hacia Ulm. Todas las líneas están equipadas de forma continua con Punto de Velocidad Máxima (PZB) y radiotelefonía digital de tren GSM-R.
 La colisión se produjo dentro de la estación de Plochingen, en la zona de salida de la línea 4600 hacia Wendlingen, en la enclavamiento de agujas 64W90/64W91. Para una mejor comprensión, en lo que sigue, al designar los elementos de la ruta, se prescindirá de la mención del dígito de identificación de la estación de operación «64» de la estación de Plochingen, salvo que sea necesario.
 
-
 ## Página 13
+
 
 Figura 1: Plano de situación1
 1 Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2019], editado por BEU
 
-
 ## Página 14
+
 
 Figura 2: Esquema del sistema con el lugar del suceso2
 ### 3.2 Participantes y colaboradores
@@ -320,8 +322,8 @@ En el marco de la investigación de los hechos y del análisis de causas, ademá
  Área 226 del EBA
 2 Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 15
+
 
 ### 3.3 Condiciones externas
 En el momento del suceso concurrían las siguientes condiciones:
@@ -339,13 +341,14 @@ Las condiciones meteorológicas no guardan relación causal aparente con la caus
 ### 3.4 Fallecidos, heridos y daños materiales
 No hubo personas heridas en el suceso. Los daños en los vehículos implicados ascendieron a unos 60.000 €. No se produjeron daños significativos en la infraestructura.
 
-
 ## Página 16
+
 
 Figura 3: Lugar de la colisión3
 3 Fuente: DB Netz AG, editado por BEU
 
 ## Página 17
+
 
 Figura 4: Representación del punto de colisión en el plano de señales⁴
 ## 4 Protocolo de investigación
@@ -356,8 +359,8 @@ Los apartados siguientes reproducen, en términos generales, las declaraciones y
 Tras la llegada al vía 6 de la estación, realicé el cambio de sentido de circulación y acordé la maniobra de maniobras con el guardagujas (Ww) de Plochingen. Este accedió entonces a la maniobra desde el vía 6 hasta el tramo de vía 392 con Sh 1. En el tramo de vía 392 volví a realizar el cambio de cabina y esperé la nueva autorización del Ww. Tras unos 5 minutos recibí la autorización (Sh 1) y salí en dirección al vía 59 (destino de la maniobra). En esta maniobra pasé, como se comprobó posteriormente, por la señal Ls W91Y sin autorización⁴
 ⁴ Fuente: DB Netz AG, elaborado por BEU
 
-
 ## Página 18
+
 
 Mientras recorría la W 91, observé que la W 90 no estaba dispuesta para mi maniobra y detuve la Rf. Una vez detenido, llamé al Ww para preguntarle qué ocurría con la aguja no correctamente dispuesta. Este me dijo entonces directamente que había pasado la señal Ls anterior y que debía permanecer detenido inmediatamente. Exactamente eso hice a continuación. Poco después ya estaba conmigo el gestor de emergencias (Nmg) responsable, ya que se encontraba en la estación de Plochingen a causa de la obra. El colega quería continuar con la Rf hasta el vía 59 para que la estación volviera a ser totalmente transitable. Para ello, el Ww estableció la ruta y se encendió Sh 1 en la señal Ls W364Y. Justo antes de iniciar la maniobra en dirección al vía 59, el colega quiso bajarse brevemente una vez más. Mientras el colega se encontraba en la zona de vías, llegó el RE procedente del vía 10 y rozó mi vehículo en la esquina trasera derecha. El otro tren también se detuvo.
 ### 4.1.2 Declaración del conductor del RE 22011
@@ -366,8 +369,8 @@ Me sorprendió entonces que, casi inmediatamente después de que mi tren se hubi
 ### 4.1.3 Declaración registrada del Fdl Plochingen 2
 El tren regional (RB) 22900 que llegaba debía ser trasladado como Rf desde el vía G1006 a través del vía G392 hasta el vía G1059. Este acuerdo de maniobras se realizó con el jefe de maniobras (Fdl) Plochingen 3 a través de GSM-R. La Rf se realiza diariamente. Durante la misma
 
-
 ## Página 19
+
 
 el Tf de la Rf pasó la señal Ls W91Y que indicaba parada y comunicó al Fdl que se había detenido en la W 90. A continuación se impuso a la Rf una prohibición de maniobras y se envió al Nmg presente a la Rf. Tras acordar con el Nmg, que entonces se encontraba con el Tf en la cabina de la Rf, el vehículo debía conducirse al vía G1059 para colocar allí el servicio consecutivo RB 22909. El Fdl acordó con el Nmg salir primero con el RE 22011 de la estación y luego conducir la Rf al vía G1059, para después allí comentar el procedimiento a seguir. A continuación, el Fdl dispuso para el RE 22011 la ruta de circunvalación en dirección a Wendlingen. Una vez que el tren hubo dejado el vía, el Tf del RE 22011 comunicó que había tenido una colisión en la W 91 con un vehículo de la serie 650 que se encontraba allí detenido.
 ### 4.1.4 Declaración del jefe de distrito de explotación
@@ -377,17 +380,31 @@ Según el § 4 apartado 3 de la Ley General de Ferrocarriles (AEG), los ferrocar
 
 ## Página 20
 
-Hallazgos sobre la gestión de emergencias
-N.º de incidencia 2
-No se detectaron irregularidades ni retrasos en relación con la puesta en marcha de medidas de rescate.
-### 4.3 Estudio de la vía
-La colisión se produjo en la enlace de agujas W 90 - W 91 en la estación de Plochingen. A continuación se examinan con mayor detalle las características constructivas y de señalización de esta enlace de agujas.
-Según la designación de agujas, las agujas 90 y 91 son agujas simples, transitables en la rama desviada a una velocidad máxima de 50 km/h (véase Ril 800.0120A01). En la figura siguiente se representan las dimensiones de una enlace de agujas, como la existente en las agujas 90 - 91.
-Figura 5: Forma constructiva básica de enlace de agujas con dos EW 300-1:95
-Las dimensiones de instalación de las agujas en el lugar corresponden a las normas de instalación y a los planos normalizados. Debido a la disposición mutua, no es posible la permanencia de vehículos en el
+Observaciones sobre la gestión de emergencias
+N.º correlativo 2
+de
+irregularidades
+o
+retrasos
+en
+relación con el
+iniciar
+medidas de rescate no se detectaron.
 
+### 4.3 Examen de la vía
+
+La colisión se produjo en la unión de agujas W 90 - W 91 en la estación de Plochingen. A continuación se examinan con mayor detalle las condiciones constructivas y de señalización de esta unión de agujas.
+
+Según la designación de agujas, se trata de agujas simples las 90 y 91, transitable en la rama desviada con una velocidad máxima de 50 km/h (cf. Ril 800.0120A01). En la figura siguiente se representan las dimensiones en una unión de agujas, como la que existía en las agujas 90 - 91.
+
+Figura 5: Forma constructiva básica de una unión de agujas con dos EW 300-1:95
+
+Las dimensiones de instalación de las agujas en el lugar corresponden a las normas de instalación así como a los dibujos normalizados. Debido a la disposición mutua, la permanencia de vehículos en el
+
+5 Fuente: Ril 800.0120A01; todas las dimensiones de longitud en metros
 
 ## Página 21
+
 
 tramo de vía respectivo que se une, garantizando la holgura de perfil hacia la rama recta. Los detalles adicionales al respecto se explican en el cap. 4.4.
 En las agujas no se encontraron indicios que apuntaran a un defecto constructivo.
@@ -401,15 +418,15 @@ El puesto de mando de Plochingen es un puesto de mando electrónico (ESTW) de la
 ### 4.4.1 Hallazgos en el puesto de trabajo Plochingen 2
 El lugar del suceso se encontraba en el ámbito de competencia del Fdl Plochingen 2. La imagen de lupa correspondiente "TP 5" está asignada al Fdl Plochingen 2. En el puesto de trabajo, poco después de la colisión, la situación operativa mostrada en el monitor de lupa TP 5 fue capturada mediante capturas de pantalla por el jefe de sector de operaciones de la BZ para su evaluación. No se mostraron mensajes de error ni de avería. La instalación funcionó sin averías y mostró la posición normal. La designación de los elementos mencionados a continuación corresponde, para una mejor comprensión de la representación en la lupa del monitor de trabajo, es decir, el código de sistema "64" para el ámbito de la estación de Plochingen falta en cada caso.
 
-
 ## Página 22
+
 
 La ocupación de vía por el RE 22011 se representaba en la lupa del puesto de trabajo entre las señales Ls W84Y y W94X a través de las W 86 y W 91, así como el tramo de vía 3009, mediante iluminación roja. La W 91 situada en este tramo se encontraba en posición derecha y en esta posición se indicaba como ocupada (iluminación roja). La parte aún no liberada de la ruta de salida para el RE 22011 con dirección a Wendlingen se representaba desde la Ls W94X, que aún se encontraba en posición de vía, hasta la vía principal con una iluminación verde.
 Figura 6: Captura de pantalla de la lupa del puesto de trabajo Plochingen 26
 La ocupación de vía por la Rf detenida se representaba en la lupa entre las señales Ls W90Y y W364Y mediante iluminación roja. La W 90 situada en este tramo se encontraba
 
-
 ## Página 23
+
 
 en posición derecha y en esta posición se indicaba como ocupada (iluminación roja). El detector de agujas mostraba luz de reposo, es decir, no había ni avería ni mensaje de choque. La ruta de maniobras establecida tras la colisión y no transitada para la Rf se representaba desde la Ls W364Y que indicaba vía hasta la vía de destino 59 con una iluminación azul. El tramo de vía del enlace entre las agujas W 90 y W 91 se representa sin iluminación de color.
 La circulación indebida previa de la Rf más allá de la señal Ls W91Y que indicaba detención ya no era reconocible a partir de esta representación en la lupa del puesto de trabajo.
@@ -417,13 +434,15 @@ La circulación indebida previa de la Rf más allá de la señal Ls W91Y que ind
 ### 4.4.2 Hallazgo en la instalación exterior
 La situación encontrada en el lugar se representa en la figura 7 siguiente sobre la base del plano de situación de señales de DB Netz AG. A diferencia de la representación de la instalación interior explicada en el cap. 4.4.1 (véase Fig. 6), la Rf no se encontraba en la rama recta (derecha) de la W 90 sino en la rama izquierda que se une a esta aguja, no coloreada en el monitor de lupa. Esta configuración se debió a la circulación indebida de la Rf más allá de la señal Ls W91Y que indicaba detención, a través de la rama desviada de la W 91 que en ese momento se encontraba en posición izquierda. El contador de ejes W90/W91 representado entre las agujas fue sobrepasado por la Rf. Debido a la detención ante la lengüeta de aguja de la W 90 (incorrectamente dispuesta) para este movimiento, la parte trasera de la Rf se encontraba aún antes del indicador de límite de la W 91 y, por tanto, no estaba con holgura de perfil (véase también Fig. 3).
 
-
 ## Página 24
+
+
 Figura 7: Plano de situación de señales, detalle7
 La figura 8 siguiente ilustra la situación encontrada en el lugar del suceso y la posición de los elementos mencionados. El material rodante del RE 22011 ya había sido retirado en el momento de la obtención de la imagen.
 7 Fuente: DB Netz AG, elaborado por BEU
 
 ## Página 25
+
 
 Figura 8: Representación de la parada de la Rf
 ### 4.4.3 Evaluación del ordenador de documentación
@@ -431,6 +450,7 @@ La empresa Thales, para una evaluación adicional de la irregularidad, ha evalua
 Los registros no arrojaron indicios de ninguna irregularidad de explotación. En el periodo examinado no se registraron mensajes de diagnóstico ni de avería. Las horas indicadas correspondían a la hora del sistema del ordenador APS. Las operaciones registradas se realizaron desde los puestos de mando 4106 (Fdl Plochingen 2) y 4206 (Fdl Plochingen 3). La evaluación de los datos arrojó el proceso representado en las tablas siguientes. En la tabla 2 se representa en primer lugar el proceso previo:
 
 ## Página 26
+
 
 Hora
 Registro DOKU
@@ -472,6 +492,7 @@ Evaluación DOKU; proceso previo
 
 ## Página 27
 
+
 Figura 9: Trenes y maniobras – proceso previo 8
 En la tabla 3 siguiente se representan los pasos registrados en la DOKU del paso de la Rf junto a la Ls que indica parada.
 | Hora | Registro DOKU | Operador | Explicación |
@@ -481,6 +502,7 @@ En la tabla 3 siguiente se representan los pasos registrados en la DOKU del paso
 8 Fuente: DB Netz AG, elaborado por BEU
 
 ## Página 28
+
 
 W 64W90 Ocupación roja en
 La Rf se detiene delante de la lengüeta de aguja W 90.
@@ -494,6 +516,7 @@ En la tabla siguiente se representan los datos registrados de la DOKU respecto a
 9 Fuente: DB Netz AG, elaborado por BEU
 
 ## Página 29
+
 
 | Hora | Registro DOKU | Operador | Explicación |
 | 07:47:13 | Salida 64N10 64W84 hacia 64PLWE. | 4106 | Salida para el RE 22011 de la vía 10 hacia Wendlingen. El Fdl establece la vía de tren de desvío, ya que la W90 está ocupada. |
@@ -510,11 +533,12 @@ Si existe un "aislamiento no libre de perfil" en una aguja, un vehículo que se 
 
 ## Página 30
 
+
 Para evitar esta peligro en la medida de lo posible, se ha implementado en el ESTW la función de la «protección de perfil», que se activa mediante una configuración correspondiente en los elementos de itinerario pertinentes (aguja/crucero/tramo de vía). Para cada elemento de itinerario en el ESTW existen elementos de relación adyacentes. En los elementos que sobresalen en el espacio de perfil de un elemento de relación, este elemento de relación se proyecta de forma específica por rama. De este modo, la ocupación de un elemento que sobresale en el espacio de perfil de otro elemento se transfiere y el estado en el mismo se almacena de forma condicionada (datos dinámicos). La señalización de ocupación del elemento no aislado con perfil libre, es decir, por ejemplo, de una aguja, impide ahora un movimiento de vehículo sobre la otra posición de la aguja, ya que una conmutación mediante la establecimiento de un itinerario o conmutación sin maniobra auxiliar no es posible. La protección de perfil efectiva actúa, por tanto, como protección de conmutación. Para su implementación se partió de la premisa de que los movimientos de vehículos solo tienen lugar sobre itinerarios asegurados. Es decir, la ocupación peligrosa de la aguja adyacente mencionada anteriormente solo pudo producirse si la posibilidad de circulación actual sobre ambos elementos estaba dada. Esto significa que las posiciones de la aguja «no aislada con perfil libre» y de la aguja adyacente son respectivamente concordantes. En esta configuración se habla de una protección de perfil efectiva. El fabricante del ESTW Plochingen, la empresa Thales Transportation GmbH, habla en este contexto también de ocupación del espacio de perfil o bien de transferencia del espacio de perfil.
 El tratamiento de las señales de espacio de perfil se controla, por tanto, técnicamente a través de la posición del elemento de relación respectivo. Esto significa, sin embargo, que en posición discordante la señalización de ocupación de una aguja que sobresale en el espacio de perfil de la aguja adyacente no se tiene en cuenta.
 
-
 ## Página 31
+
 
 La siguiente figura ilustra nuevamente la temática.
 Figura 11: Ejemplo de aislamiento no con perfil libre¹⁰
@@ -524,6 +548,7 @@ Además, por parte del aparato de enclavamiento, la ocupación de una aguja solo
 ¹⁰ Fuente: Directriz de aplicación EIS
 
 ## Página 32
+
 
 Hallazgo relativo a la investigación de la técnica de mando y seguridad
 N.º de orden 4
@@ -542,12 +567,14 @@ La explotación en la estación de Plochingen se realiza de acuerdo con las disp
 
 ## Página 33
 
+
 Las acciones operativas del Fdl en relación con los trenes y las maniobras ya pueden deducirse esencialmente de los resultados de la investigación sobre la LST en el capítulo 4.4. La evaluación de las conversaciones GSM-R grabadas confirma los procesos documentados allí.
 El Fdl Plochingen 2 había observado el paso de la Rf junto a la señal en indicación de alto e intentó contactar con ella a continuación mediante radio de tren. Por qué esto no funcionó inicialmente no pudo aclararse a posteriori. Esto no tuvo ninguna repercusión en el ulterior desarrollo de los acontecimientos, ya que el Fdl, de acuerdo con el plan interno de notificación, debe en todo caso informar al Nmg ante irregularidades operativas. Este ya se encontraba en la estación y se dirigió inmediatamente a la Rf. Mientras tanto, el Tf de la Rf se puso en contacto con el Fdl y le comunicó que se encontraba frente a una W 90 mal situada. El Fdl informó al Tf sobre el paso previamente realizado junto a la Ls en indicación de alto y dio al Tf la orden de permanecer detenido hasta la llegada del Nmg.
 De las ulteriores conversaciones GSM-R se desprendió que ni el Fdl ni el Nmg habían reconocido el peligro que había surgido por el paso no autorizado de la Rf y por la parada no prevista de la Rf en la unión de agujas 90 - 91.
 En el ESTW existe una instalación automática de liberación de vía. Las comprobaciones conforme a la Ril 408.0231 Abschn. 2 (1a), de que la vía, la vía de frenado o los tramos de vía confluentes están libres de vehículos hasta la marca de límite y de que entre el dispositivo de protección de flanco y la marca de límite de una aguja en la vía no se encuentran vehículos, se realizan por parte del aparato de mando cuando la instalación de liberación de vía funciona. No había indicios de una avería de la instalación de liberación de vía. En casos especiales, estas comprobaciones también pueden realizarse mediante la evaluación de las indicaciones seguras. Esto es admisible cuando no está prescrita una comprobación de sección. El paso de una Rf junto a una señal en indicación de alto no requería ninguna comprobación de sección. Además, la instalación de mando no mostró ninguna alarma de paso sobre aguja que hubiera requerido medidas especiales por parte del Fdl. El Fdl no tenía, por tanto, motivo alguno para cuestionar la exactitud de la indicación de las ocupaciones de vía del aparato de mando.
 
 ## Página 34
+
 
 Hallazgo sobre la investigación de los procesos operativos del operador de infraestructura
 N.º 5
@@ -565,6 +592,7 @@ El coche de mando 50 80 86-81 102-5 tipo 764 que va en cabeza está equipado con
 
 ## Página 35
 
+
 En el periodo de tiempo relevante, se registraron en la memoria a corto plazo de la EFR los siguientes sucesos:
 - 07:44:10 h (hora DSK): Parada (registro V = 0 km/h), parada de servicio en la estación de Plochingen, tiempo de permanencia 3 min 52 s.
 - 07:44:23 h (hora DSK): supervisión restrictiva de la instalación de vehículo PZB activa.
@@ -579,10 +607,12 @@ El recorrido del RE 22011 para el tramo investigado es visible en la siguiente r
 
 ## Página 36
 
+
 Figura 12: Representación gráfica de la EFR del RE 2201111
 11 Fuente: DB ZugBus Regionalverkehr Alb-Bodensee/ZAS
 
 ## Página 37
+
 
 #### 4.6.2 Evaluación de la EFR de la Rf
 El automotor 95 80 0650 012–7 estaba equipado con una instalación de seguridad de tren inductiva PZB 90. Esta estaba activada. Todos los datos fueron registrados completa y sin errores. Los tiempos registrados coinciden en gran medida con los tiempos del ESTW así como con los datos del RE. La velocidad de maniobra permitida de 25 km/h no fue superada en el periodo considerado.
@@ -590,6 +620,7 @@ Tras el final de la circulación anterior, la Rf comenzó el movimiento de trasl
 Figura 13: Representación gráfica de los datos de la EFR de la Rf
 
 ## Página 38
+
 
 ### 4.6.3 Datos personales del Maquinista del RE 22011
 El Maquinista del RE 22011 estaba en posesión de un permiso de conducción de vehículos ferroviarios válido de clase 3 conforme a la directriz VDV 753. Este fue expedido el 03.05.2011 por la dirección de explotación de la RAB. El anexo correspondiente autorizaba al Maquinista a conducir locomotoras (Tfz) y coches de mando para el EVU responsable. Las habilitaciones de serie para un coche de mando de la construcción 764 fueron confirmadas documentalmente por el EVU. Un certificado vigente de idoneidad para el servicio de conducción del conductor de locomotoras fue presentado por la RAB para su consulta, con fecha de expedición 19.03.2014.
@@ -603,8 +634,8 @@ Se cumplieron los requisitos del reglamento de permisos de conducción de locomo
 ### 4.7 Investigación de los vehículos
 El titular y el organismo responsable del mantenimiento de todos los vehículos implicados en el suceso eran la RAB
 
-
 ## Página 39
+
 
 ### 4.7.1 Composición de la Rf
 De la tabla siguiente se pueden extraer los datos técnicos de los vehículos de la Rf:
@@ -623,8 +654,8 @@ De la tabla siguiente se pueden extraer los datos técnicos de los vehículos de
 Tabla 5: Datos técnicos
 Tfz 650
 
-
 ## Página 40
+
 
 En la siguiente figura 13 se representan gráficamente las cotas de longitud relevantes.
 Figura 14: Dimensiones serie 65012
@@ -632,8 +663,8 @@ Se obtiene un voladizo calculado de 3,30 m desde el eje exterior hasta el tope o
 Los daños en el vehículo debían clasificarse como daños derivados de la colisión. No constaban indicios de defectos en el vehículo.
 12 Fuente: Stadler/RAB, elaborado por BEU; todas las cotas en mm
 
-
 ## Página 41
+
 
 ### 4.7.2 Composición del RE 22011
 El RE 22011 estaba formado por un conjunto de coches de doble piso con el coche de mando en cabeza. La composición se muestra en la tabla siguiente:
@@ -651,8 +682,8 @@ N.º de referencia 7
 La longitud total de la Rf permitió la colocación «especial» del vehículo en la aguja divergente de la W 90.
 Se pudo prescindir de una investigación más exhaustiva de los vehículos implicados, ya que no se apreciaban indicios de defecto alguno en ninguno de los vehículos implicados que guardase relación con el suceso.
 
-
 ## Página 42
+
 
 ## 5 Evaluación y conclusiones
 El capítulo 5 Evaluaciones y conclusiones se ocupa de la reconstrucción del suceso. A partir de las hallazgos antes mencionados, se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
@@ -664,6 +695,7 @@ El Fdl detectó en su monitor de ampliación el paso indebido de la Rf e intent�
 
 ## Página 43
 
+
 Hacia las 07:48 h, el Nmg se puso en contacto con el Fdl y habló con él sobre la situación. Ambos acordaron que la Rf debía conducirse primero a la vía de destino prevista 1059 y que el Nmg debía realizar allí las ulteriores investigaciones sobre el paso sin detención ante la señal que indicaba parada. El Fdl comunicó al Nmg que, previamente, el RE 22011 debía salir de la vía 10 hacia Wendlingen. El Nmg estuvo de acuerdo con el procedimiento así acordado.
 La W 90 se mostraba en el monitor de ampliación del Fdl en posición derecha (tramo recto) como ocupada en rojo. El Fdl tomó esto como la ubicación de la Rf. Debido a esta notificación de ocupación de la W 90 por la Rf, el Fdl estableció para el RE 22011 una ruta de desvío a través de la W 91, que se indicaba como libre en la ampliación, hacia Wendlingen. La ruta se estableció correctamente, todos los desvíos y dispositivos de protección de flanco se bloquearon: W 91 en posición derecha como aguja de itinerario, W 90 igualmente en posición derecha como aguja de protección de flanco. La señal Asig N 10 pasó a indicar vía libre (Ks 1 con indicador «4»). A las 07:48 h partió el RE 22011 y recorrió la ruta de tren establecida a una velocidad máxima de 29 km/h. Al aproximarse a la Rf, el Tf advirtió el vehículo que sobresalía en el perfil de su ruta. A pesar de la frenada rápida iniciada, el tren colisionó a las 07:49 h lateralmente con la Rf que se encontraba en el perfil, en la unión de agujas entre W 90 y W 91.
 ### 5.2 Evaluación de riesgo por parte de DB Netz AG
@@ -671,8 +703,8 @@ Por parte de DB Netz AG, el suplente permanente del jefe de operaciones ferrovia
 En su conclusión, DB Netz AG llega a la determinación de que el evento aquí presente puede considerarse un caso aislado. Esta valoración se justifica con el hecho de que deberían converger varios factores mutuamente independientes para provocar este evento. Al respecto, el EIU aclara que un movimiento de vehículo no autorizado (paso sin detención ante la señal Ls que indicaba parada) se considera un fallo humano y debe asumirse una probabilidad de ocurrencia correspondiente. Los demás parámetros (constelación de agujas, posiciones y dimensiones de las agujas, longitud y distancia entre ejes de los vehículos, etc.) se consideran marginales respecto a la probabilidad de ocurrencia de un evento. En conjunto, por tanto, la probabilidad de que una gran cantidad de los mencionados
 13 Correo electrónico del 19.12.2017 – I.NVS‐SW
 
-
 ## Página 44
+
 
 factores converjan simultáneamente y conduzcan finalmente a un evento comparable debe considerarse más bien improbable.
 De acuerdo con la funcionalidad del tope de perfil explicada en el cap. 4.4.4 en el caso de un aislamiento no libre de perfil, DB Netz AG admite que el dispositivo de liberación de vía de un desvío es, en efecto, un dispositivo que funciona de forma autónoma y opera independientemente de la posición del desvío. Sin embargo, la indicación de libre u ocupado se realiza siempre de acuerdo con la posición del desvío. Esto significa que una ocupación en el tramo que se desvía de la posición del desvío podría no indicarse correctamente en los desvíos aislados no claramente delimitados.
@@ -686,6 +718,7 @@ El comportamiento descrito del ESTW es, por tanto, totalmente conforme al pliego
 
 ## Página 45
 
+
 Relaisstellwerke) se presentan, acreditadamente en los tipos de ESTW El L, El S SIMIS C y El S SIMIS D. A través del análisis de riesgos ESTW este comportamiento no está cubierto, ya que esto es una especificación del pliego de condiciones. Estos pliegos de condiciones fueron la base del análisis de riesgos ESTW fase 1d. El análisis de riesgos exige únicamente la consideración de la puesta en marcha de las funciones descritas en los pliegos de condiciones, no así las funciones en sí mismas. En este sentido, desde el punto de vista de la autoridad de supervisión no existe una razón imperativa para realizar cambios. No obstante, la autoridad de supervisión ve posibilidades de minimización de riesgos bien en la modificación del pliego de condiciones con la consiguiente modificación de la lógica de itinerarios. O bien, como segunda posibilidad, entraría en consideración la ampliación de la infraestructura con un segundo punto de conteo de ejes. Según la opinión de la autoridad de supervisión, las posibilidades anteriores requieren una coordinación y evaluación definitiva por parte de las partes implicadas.
 
 ### 5.4 Evaluación y conclusión
@@ -698,8 +731,8 @@ El Fdl reconoció el paso de la Rf por delante de la señal Ls que indicaba alto
 
 El Nmg ya se encontraba en el lugar del suceso antes de la colisión. Sin embargo, no pudo reconocer en el lugar la particularidad de la indicación divergente de la ocupación en rojo en el monitor de mando del Fdl respecto a la ubicación real de la Rf. Las tareas operativas del Nmg
 
-
 ## Página 46
+
 
 se limitan a la clausura de vías y la protección de lugares de accidente. No está prevista para él una intervención directa en los procesos de tráfico ferroviario. En este sentido, no existía para él motivo alguno para denegar la realización de la circulación del tren 22011.
 
@@ -715,8 +748,8 @@ La DB Netz AG remite a sucesos comparables no determinados hasta la fecha. No se
 
 Por ello, debería considerarse una modificación del pliego de condiciones para aparatos de enclavamiento, en analogía con la valoración de la autoridad de seguridad. Además, debe examinarse más a fondo en qué medida la cuestión de la funcionalidad (limitada) de la barrera de perfil es aplicable también a otros tipos de aparatos de enclavamiento.
 
-
 ## Página 47
+
 
 ## 6 Medidas adoptadas hasta la fecha
 

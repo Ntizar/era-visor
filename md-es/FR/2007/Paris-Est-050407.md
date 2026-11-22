@@ -10,13 +10,13 @@ chars: 143966
 ratio_longitud: 1.02
 tokens_in: 57753
 tokens_out: 40262
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 56: cifras largas: faltan 6/12 (50%)"]
-notas_cifras: ["página 5: cifras cortas: 1/105", "página 14: cifras cortas: 1/17", "página 15: cifras cortas: 2/21", "página 16: cifras cortas: 1/12", "página 25: cifras cortas: 1/25", "página 28: cifras cortas: 1/29"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Consejo General de Puentes y Caminos
 El 10 de diciembre de 2007
@@ -26,8 +26,8 @@ Informe de investigación técnica sobre el impacto brusco del tren 117 120 Châ
 en la estación de París-Est ocurrido el 05 de abril de 2007
 1
 
-
 ## Página 2
+
 
 ## Cuadro documental
 Organismo(s) encargado(s): Ministerio de Ecología, Desarrollo y Ordenación
@@ -38,8 +38,8 @@ Château-Thierry - París en la estación de París-Est ocurrido el 05 de abril 
 N.º ISRN: EQ-BEATT--07-10-FR
 Propuesta de palabras clave: Accidente, transporte de personas, freno, tope, seguridad, formación...
 
-
 ## Página 3
+
 
 ## Advertencia
 La investigación técnica objeto del presente informe se realiza en el marco del título III de la ley n.º 2002-3 de 3 de enero de 2002,
@@ -50,11 +50,12 @@ determinando las circunstancias y las causas del evento analizado,
 y estableciendo las recomendaciones de seguridad pertinentes. No tiene por objeto
 determinar responsabilidades.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 ## Índice
 Advertencia..............................................................................................3
@@ -93,6 +94,7 @@ Resumen.........................................................................
 4.4- El turno de uso del conductor........................................................ 24
 
 ## Página 6
+
 
 4.5- Antecedentes relativos al conductor..................................................................25
 4.6- Reconstrucción de la marcha del tren 117 120 el día del accidente.................25
@@ -136,8 +138,8 @@ de los riesgos de agotamiento del freno.........................................
 7.1.2- Elementos de contexto...................................................................................................... 45
 7.2- Recordatorio de las recomendaciones.......................................................................... 45
 
-
 ## Página 7
+
 
 ANEXOS ................................................................................................47
 Anexo 1 : Decisión de apertura de investigación.............................................................49
@@ -162,6 +164,7 @@ la estación de Paris-Est.......................................................
 
 ## Página 8
 
+
 ## Glosario
 Carré: señal ferroviaria que protege principalmente un punto de la vía que no debe ser franqueado si se encuentra cerrada.
 CG (conducción general): conducción de aire comprimido que equipa todos los vehículos ferroviarios frenados y que asegura dos funcionalidades: la transmisión de las órdenes de frenado o de desfrenado (en el caso de una orden neumática simple) y la transmisión del aire necesario para la energía de frenado. En caso de rotura de esta conducción de aire, se activa automáticamente el frenado de parada del tren.
@@ -174,8 +177,8 @@ KVB (control de velocidad por baliza): sistema de control de velocidad de los tr
 ### PK : Punto Kilométrico
 ### VG (visita general): operación de mantenimiento preventivo del material rodante.
 
-
 ## Página 9
+
 
 ## Resumen
 El jueves 05 de abril de 2007 a las 08h23, el tren « Transilien » n.º 117 120, constituido por una unidad doble de elementos automotores Z2N, que realizaba el trayecto Château-Thierry - París, chocó a baja velocidad contra el tope de la vía 21 de la estación de París-Est. Este tren circulaba en su etapa final Meaux-París excepcionalmente cargado (muy por encima de los 2 200 viajeros) debido a perturbaciones ocurridas en trenes anteriores.
@@ -195,11 +198,12 @@ El examen de las condiciones de ocurrencia de este accidente lleva a formular la
 los criterios de velocidad que aseguran el bloqueo-desbloqueo de las puertas de los viajeros,
 el equipamiento con dispositivos amortiguadores de los fondos de vía de la estación de París-Est.
 
-
 ## Página 10
 
 
+
 ## Página 11
+
 
 ## 1- 
 ##       Inicio de la investigación
@@ -207,10 +211,12 @@ El jueves 05 de abril de 2007 a las 08h23, el tren « Transilien » n.º 117 120
 Cincuenta y ocho heridos leves tuvieron que ser atendidos por los servicios de socorro.
 A la vista de las circunstancias de este accidente, el Director del BEA-TT decidió iniciar una investigación técnica realizada en el marco del título III de la ley n.º 2002-3 de 3 de enero de 2002, y del decreto n.º 2004-85 de 26 de enero de 2004, relativos a las investigaciones técnicas tras accidentes o incidentes de transporte terrestre (anexo 1).
 
-
 ## Página 12
 
+
+
 ## Página 13
+
 
 ## 2- 
 ##       Constataciones inmediatas y organización de la investigación
@@ -272,8 +278,8 @@ choque contra obstáculos fijos en el interior del tren causó a los viajeros fr
 *
 Término que figura en el glosario
 
-
 ## Página 14
+
 
 miembros y lesiones cervicales.
 El choque se produjo a las 08h23.
@@ -318,6 +324,7 @@ Dado que este accidente también fue objeto de una investigación judicial, las 
 material rodante se llevaron a cabo conjuntamente por los expertos técnicos y judiciales.
 
 ## Página 15
+
 
 ## 3- 
 ##       Elementos de contexto
@@ -368,8 +375,8 @@ proporcionalmente al desplazamiento del manipulador de freno. Este manipulador a
 *
 Término que figura en el glosario
 
-
 ## Página 16
+
 
 sobre los dos mandos eléctrico y neumático, siendo el principio explotar al máximo el 
 freno eléctrico de los motores. Esta gestión simultánea del frenado eléctrico y del frenado 
@@ -400,6 +407,7 @@ freno - correspondencia desplazamiento de la palanca
 
 ## Página 17
 
+
 Funcionalidades activadas por la inclinación
 de la palanca del manipulador
 Este manipulador permite acceder directamente a las posiciones « neutra », « servicio » e
@@ -424,8 +432,8 @@ de servicio normal, el freno eléctrico contribuye considerablemente al ahorro d
 materiales muy sofisticados disponen de un frenado eléctrico « diseñado con seguridad », y en ese caso, la contribución de
 este freno eléctrico se tiene en cuenta en las situaciones de parada de emergencia.
 
-
 ## Página 18
+
 
 La posición aislamiento-retirada solo puede obtenerse tirando del manipulador hasta el tope hacia
 uno mismo (es decir, pasando por el apriete a fondo) e inclinando el manipulador 15° hacia la derecha con
@@ -478,6 +486,7 @@ NAT »), la energía del frenado siendo siempre suministrada por aire comprimido
 
 ## Página 19
 
+
 ## 3.6.2- 
 ###     El distribuidor de freno
 El conductor comanda el frenado de su tren mediante un manipulador de freno, 
@@ -515,8 +524,8 @@ suficiente,
 la acción de un apriete a fondo, manteniendo su intensidad nominal, se ejecuta 
 también con un tiempo de retraso.
 
-
 ## Página 20
+
 
 ### Ejemplo del efecto de 3 maniobras sucesivas del manipulador
 Posiciones del manipulador de freno
@@ -570,6 +579,7 @@ la impresión de un mejor control de la fase de desaceleración.
 
 ## Página 21
 
+
 ## 4- 
 ##       Informe de las investigaciones
 ### 4.1- 
@@ -597,8 +607,8 @@ Evaluaciones complementarias: el examen de la grabación de la videovigilancia e
 velocidad del tren junto a los agentes de «supervisión general» (30 m) = 9,9 km/h.
 velocidad media entre la abscisa de los agentes de «supervisión general» (30 m) y el tope = 7,2 km/h.
 
-
 ## Página 22
+
 
 velocidad en el choque contra el tope = 4,5 km/h.
 ## 4.1.4- 
@@ -630,6 +640,7 @@ Los topes del tren están comprimidos; cuando el tren fue puesto en servicio par
 
 ## Página 23
 
+
 El examen visual parcial (teniendo en cuenta la escasa visibilidad desde las andenas altas) de las tablas de rodadura de las ruedas no ha mostrado rastros de bloqueo de ruedas (situación que alarga las distancias de frenado).
 ### 4.2- 
 ###     Resumen de los testimonios
@@ -647,6 +658,7 @@ El maquinista respondió con un saludo con la mano derecha (mano utilizada para 
 Los agentes de la Supervisión General escucharon a continuación un ruido que les llegaba por detrás: se trataba del ruido de la salida de aire de una depresión de frenado cuando la locomotora los superó.
 
 ## Página 24
+
 
 Los agentes de la Supervisión General oyen a continuación un segundo ruido correspondiente al impacto del motor contra el tope.
 ### 4.3- 
@@ -666,6 +678,7 @@ Este maquinista fue reconocido apto para el puesto de trabajo de maquinista en e
 El maquinista tiene su residencia en Château-Thierry, donde sus secuencias de trabajo están descritas en el turno 165C. Este turno está dedicado a los trenes « Transilien » que efectúan, entre otros, el servicio entre París y Château-Thierry. El maquinista del tren 117 120 aseguraba la jornada B310 de este turno. A tal efecto, tomó el servicio a las 04h47 para asegurar la reserva de las 05h00 a las 07h15, es decir, mantenerse listo para reemplazar a un maquinista indisponible. Al ser el maquinista previsto para asegurar el tren 117 120 puntual, fue el maquinista de reserva quien lo reemplazó. El tren 117 120 asegura una misión omnibus de Château-Thierry a Meaux, y es directo de Meaux a París. La hora de salida teórica del tren 117 120 es las 07h02 y su hora de llegada teórica es las 08h12. Si no hubiera asegurado este reemplazo inesperado (que es la razón de ser del maquinista de reserva), él
 
 ## Página 25
+
 
 habría debido normalmente asegurar el tren 117 140 (Château-Thierry 08h07 / París 09h15).
 ### 4.5- 
@@ -713,6 +726,7 @@ no poder organizar una segunda reconstrucción de marcha a plena carga con el eq
 
 ## Página 26
 
+
 permanecía en casi permanente sobre el manipulador del freno sin que ello condujera, como se indica 
 más arriba, a movimientos alternados entre la posición de marcha y la posición de frenado graduado que 
 habrían podido provocar un agotamiento del depósito de mando de los distribuidores de freno y, por 
@@ -759,6 +773,7 @@ versión B aprobada el 05/09/2003. Esta ficha precisa las condiciones de ejecuci
 
 ## Página 27
 
+
 verificaciones, realizadas sobre el equipo de frenado durante las pruebas de seguridad y las inspecciones periódicas, sobre los elementos automotores designados anteriormente.
 Las verificaciones tienen por objeto controlar los distintos órganos en sus condiciones de funcionamiento unos respecto a otros.
 En lo que respecta más particularmente a esta peritaje, se han ejecutado las pruebas de seguridad a 36 meses (TS 36). Estas últimas se han consignado en la ficha de trazabilidad de conformidad del producto TS 36 / Z2N reforzado frenado según el documento de referencia ITM 48203 versión B del 19/10/2005.
@@ -776,8 +791,8 @@ El 20 de abril de 2007, tercer y último día de la verificación completa del s
 *
 Término que figura en el glosario
 
-
 ## Página 28
+
 
 a fondo, con sin embargo un tiempo de respuesta alargado.
 En todas las secuencias de intentos de agotamiento del freno, cuando el botón pulsador de emergencia del freno fue presionado, el frenado de emergencia por vaciado de la línea general se realizó inmediatamente y en su totalidad.
@@ -804,6 +819,7 @@ Nota: durante un frenado de servicio (despresurización de 1 bar), hay combinaci
 
 ## Página 29
 
+
 explicar el mejor rendimiento a partir de una velocidad muy baja del frenado de servicio en comparación con el frenado a fondo, únicamente neumático.
 ### Correcciones para tener en cuenta un freno « agotado parcialmente »
 Durante la aplicación del apriete a fondo en el caso del "freno agotado", hemos observado en el apartado 4.8.2. que los cilindros de freno aumentaban de todos modos la presión hasta 3 bares con un retraso de dos segundos como máximo, lo que corresponde a un recorrido adicional de 5,55 m a V=10 km/h.
@@ -824,10 +840,10 @@ Los resultados obtenidos a partir de las mediciones brutas del BEA-TT, para una 
 Al término de las pruebas y reconstrucciones realizadas tras el accidente del 05 de abril de 2007 con el conductor implicado y el material utilizado durante este suceso, pueden formularse las siguientes hipótesis.
 Hipótesis n.º 1 (freno parcialmente agotado):
 En el momento en que el conductor quiso realizar su frenado final, al percatarse de la situación, posicionó su manipulador de frenado en el máximo, es decir, en "apriete a fondo": la distancia de frenado es de 21,6 m, incluidos 5,50 m correspondientes al retraso de actuación del frenado.
-Si el conductor hubiera reaccionado pulsando el botón de emergencia y teniendo en cuenta un efecto de sorpresa ante el suceso para retirar su mano del manipulador de freno y pulsar el botón de emergencia (tiempo de reacción estimado en un segundo → 2,80 m recorridos), él tenía la 
-
+Si el conductor hubiera reaccionado pulsando el botón de emergencia y teniendo en cuenta un efecto de sorpresa ante el suceso para retirar su mano del manipulador de freno y pulsar el botón de emergencia (tiempo de reacción estimado en un segundo → 2,80 m recorridos), él tenía la
 
 ## Página 30
+
 
 capacidad de detener su tren en menos de 14 metros.
 Hipótesis n.º 2 (freno en estado de servicio normal):
@@ -856,6 +872,7 @@ Término que figura en el glosario
 
 ## Página 31
 
+
 remorque ZR 202821, fue sustituido. Durante su reinstalación, esta tapa no se atornilló completamente con el fin de no aplastar la junta. A pesar de este apriete reducido, la prueba de estanqueidad con agua jabonosa fue concluyente.
 
 El 21 de febrero de 2007, en la estación de Meaux, durante la preparación del tren compuesto por 2 elementos en unidad múltiple que incluía el elemento 161A y el elemento 27A, la prueba del freno de agente único resultó no ser satisfactoria. Efectivamente, no se encendió la luz indicadora « bogies frenados » en la caja de señalización de la cabina de conducción. Como prevé la guía de asistencia técnica, la prueba se realizó entonces con la ayuda de un segundo agente en tierra, cuya misión era verificar la indicación de las luces neumáticas situadas en cada vehículo.
@@ -871,6 +888,7 @@ El 5 de abril de 2007, el elemento 161A acoplado en unidad múltiple al elemento
 Tras el accidente del 5 de abril de 2007, se llevaron a cabo diversas investigaciones, incluida una verificación completa del sistema de frenado del elemento 161A (véase el apartado 4.8.1). Con motivo de estas verificaciones, se descubrió que la tapa de « derivación » del depósito de mando del distribuidor del bogie 1 de la remorque ZR 202821 podía aflojarse a mano sin la ayuda de un
 
 ## Página 32
+
 
 clavija. Se precisa que este tapón de « derivación » sirve para conectar los aparatos de medición de presión durante las pruebas. Existen fuertes indicios para pensar que este tapón no se enroscó a fondo durante la operación TS 36 de enero de 2007 y fue así la causa de una fuga muy leve que provocó de manera aleatoria los fallos de funcionamiento mencionados anteriormente. Tras el enroscado correcto del tapón, las pruebas concluyeron con el buen funcionamiento del sistema de frenado.
 
@@ -905,8 +923,8 @@ Los dispositivos de seguridad y de ayuda a la conducción que equipan estos elem
 
 Estos dispositivos funcionaban normalmente el día del accidente.
 
-
 ## Página 33
+
 
 ## 4.10.2- 
 ###     En tierra
@@ -934,6 +952,7 @@ Más recientemente, con materiales automotores modernos, se recogen:
 Grifo de freno simplificado, sostenido a mano por el agente de maniobras situado a la cabeza de la composición, la locomotora de maniobras empujando por la cola. Cuando la composición se acerca al tope de vía, el agente de maniobras provoca el frenado y la parada completa de la composición dejando escapar el aire de su grifo.
 
 ## Página 34
+
 
 de elementos TER 2N PG, el maquinista constata la insuficiencia del esfuerzo de frenado y 
 no logra detener su tren más que mediante la acción sobre el botón de emergencia.
@@ -983,6 +1002,7 @@ Este seguimiento profesional solo puede mantenerse y enriquecerse en un marco qu
 
 ## Página 35
 
+
 palabras clave que deben animar permanentemente a los actores de la producción en el ámbito de la 
 conducción. Estas son las condiciones sine qua non para que, en todo momento, la conducción de los trenes participe 
 plenamente a garantizar la parte que le corresponde en el mantenimiento del nivel de seguridad ferroviaria. 
@@ -1029,6 +1049,7 @@ difundió el 20 de noviembre de 2006,
 el manual de conducción de los Z2N no ha sido, hasta la fecha, modificado en lo que respecta a los
 
 ## Página 36
+
 
 disposiciones relativas al freno TM 606.
 Concretamente, solo se editó la ficha técnica del 20 de noviembre de 2006. Esta recuerda los 
@@ -1077,6 +1098,7 @@ Por último, en lo que respecta al programa de las jornadas de formación contin
 
 ## Página 37
 
+
 de Château-Thierry, residencia del conductor implicado en el accidente de Paris-Est, no se aprecia, a su lectura, el capítulo relativo a la manipulación del freno TM 606. Este dossier pedagógico, editado el 10 de diciembre de 2006, es posterior a la ficha técnica sobre el freno TM 606 del 20 de noviembre de 2006. Además, las dos jornadas de formación continua que se celebraron en Château-Thierry, los días 23 y 24 de enero de 2007, no hicieron ninguna mención a la manipulación de la válvula de freno TM 606, ya que la información se facilitó a los «ayudantes de Calidad-Seguridad» únicamente el 22 de enero de 2007.
 Cabe señalar asimismo que las distintas notas intercambiadas internamente en la empresa SNCF desde marzo de 2006 sobre este asunto no mencionaban ningún carácter de urgencia o criticidad particular.
 En caso de necesidad, los procedimientos prevén que la Dirección de Tracción pueda emitir un dictamen urgente dirigido a los establecimientos. El documento se pone en conocimiento de todos los conductores afectados mediante cartelización en el marco «Avisos Urgentes» de todas las UP (Unidades de Producción) afectadas. Sin embargo, este marco se utiliza más bien en relación con la aplicación «FLASH» (limitaciones temporales de velocidad imprevistas,...), y no para recordar prescripciones reglamentarias o gestos profesionales. Por este motivo, este medio de información no se puso en marcha en 2006 para contactar directamente con los conductores afectados.
@@ -1097,9 +1119,10 @@ Además de todas las medidas adoptadas en 2006, la Dirección de Tracción decid
 la colocación de una etiqueta de advertencia en los pupitres de conducción (no dejar el mando del freno en la posición «rearme») (anexo 12),
 la facilitación de una nota explicativa a los conductores,
 el desarrollo de un módulo de enseñanza asistida por ordenador sobre el funcionamiento del manipulador TM 606 y del distribuidor asociado,
-el endurecimiento del tope de rearme del manipulador de freno TM 606 (solicitud 
+el endurecimiento del tope de rearme del manipulador de freno TM 606 (solicitud
 
 ## Página 38
+
 
 formulada a la Dirección de Material) para evitar los casos de posición blanda,
 la propuesta de reducir el umbral de la velocidad de desbloqueo de las puertas,
@@ -1107,6 +1130,7 @@ formulada a la Dirección de Material) para evitar los casos de posición blanda
 la creación de una práctica profesional observable en situación (PPOS): «conoce y respeta las normas de uso del manipulador de freno TM 606». Esta PPOS debe evaluarse para todos los conductores afectados por los «dirigentes de proximidad de línea» antes de finales de 2007.
 
 ## Página 39
+
 
 ## 5- 
 ##       Informe final de la cadena de acontecimientos
@@ -1124,10 +1148,10 @@ El tren aborda las andenas de la estación de París-Est por la vía 21. La últ
 Para evitar el desbloqueo de las puertas de los viajeros y evitar que estos bajen en movimiento del tren, el maquinista se esfuerza, según un « gesto profesional », en circular a una velocidad superior a 6 km/h.
 El maquinista avista en la andena de la vía 21 a agentes de la Supervisión General esperando la llegada del tren para intervenir respecto a viajeros infractores. Estos agentes, situados a unos 30 m del tope, cerca del poste n.º 5, hacen una señal al maquinista, quien les responde con un gesto de la mano derecha (la mano que normalmente maneja el mando de tracción).
 A unas cuarenta metros del tope, el maquinista activa su frenado final, según su declaración recogida al día siguiente del accidente. Cabe señalar que, durante la elaboración del árbol de causas y posteriormente durante la continuación de la investigación interna sobre las posibles causas del accidente, el maquinista afirmó haber comandado su frenado justo después de saludar a los agentes de la Supervisión General presentes en la andena.
-Entre las referencias frecuentemente utilizadas por los maquinistas de París-Est durante su aproximación final a la estación del Este, se pueden citar los dos relojes situados en las andenas. Los maquinistas circulan a 30 km/h desde el pk 1,039; al llegar al inicio de la andena, comandan un frenado de manera que se encuentren alrededor de 20-25 km/h en el primer reloj, para luego descender progresivamente hasta una velocidad de aproximadamente 10 km/h – esta velocidad de 10 km/h es inferior a la detectada por la última baliza KVB (12 km/h) y superior a la de desbloqueo de las puertas (6 km/h). El segundo reloj, situado a unos 55 m del tope, sirve como referencia visual para gestionar esta disminución de velocidad entre 30 km/h y 10 km/h. De hecho, la baliza KVB situada aguas abajo de este segundo reloj no provoca la intervención del maquinista si la velocidad en ese 
-
+Entre las referencias frecuentemente utilizadas por los maquinistas de París-Est durante su aproximación final a la estación del Este, se pueden citar los dos relojes situados en las andenas. Los maquinistas circulan a 30 km/h desde el pk 1,039; al llegar al inicio de la andena, comandan un frenado de manera que se encuentren alrededor de 20-25 km/h en el primer reloj, para luego descender progresivamente hasta una velocidad de aproximadamente 10 km/h – esta velocidad de 10 km/h es inferior a la detectada por la última baliza KVB (12 km/h) y superior a la de desbloqueo de las puertas (6 km/h). El segundo reloj, situado a unos 55 m del tope, sirve como referencia visual para gestionar esta disminución de velocidad entre 30 km/h y 10 km/h. De hecho, la baliza KVB situada aguas abajo de este segundo reloj no provoca la intervención del maquinista si la velocidad en ese
 
 ## Página 40
+
 
 momento es inferior a 12 km/h. Al acercarse al final de la andena, los maquinistas ajustan posteriormente su frenado final (para pasar de 10 km/h a la inmovilidad) de manera que se detengan antes del tope con suavidad, para no molestar a los viajeros (gesto profesional).
 Según sus declaraciones, el maquinista considera que el esfuerzo de retención es notoriamente insuficiente y, por un « gesto reflejo », tira del manipulador de freno hacia él hasta la posición de frenado máximo. A pesar de la aplicación del « frenado máximo » por parte del maquinista, se produce el choque contra el tope de fondo de vía; la velocidad de impacto se estimó entre 4 km/h y 5 km/h.
@@ -1139,6 +1163,7 @@ Las consecuencias humanas y materiales se describen en el apartado 2.3. Si la ve
 Ciertas estaciones en fondo de saco están equipadas con dispositivos ralentizadores (de tipo zapatas enclavadoras) aguas arriba de los topes (caso de la estación de París-Montparnasse), lo cual no es el caso de la estación de París-Est. El tren 117 120 del 05 de abril de 2007 habría sufrido una desaceleración adicional en sus últimos metros, lo cual quizás habría reducido el número de víctimas a falta de evitar el choque final.
 
 ## Página 41
+
 
 ## 6- 
 ##       Análisis y orientaciones preventivas
@@ -1186,6 +1211,7 @@ automotores sobre las diferentes particularidades del mando del freno, en partic
 « aprietes a fondo » y los « aprietes de emergencia », debiendo esta acción traducirse en los
 
 ## Página 42
+
 
 referenciales y en el contenido de la formación continua.
 Recomendación R2 (SNCF): para el diseño del futuro material rodante automotor, 
@@ -1237,6 +1263,7 @@ atornillados con juntas.
 
 ## Página 43
 
+
 ### 6.4- 
 ###     Reducción de los riesgos asociados a un acoplamiento brusco contra tope de vía en vía muerta
 ## 6.4.1- 
@@ -1279,11 +1306,12 @@ que reciben trenes constituidos por unidades Z2N, la pertinencia y la viabilidad
 de un sistema que permita absorber una proporción significativa de la energía de un tren 
 que llega al tope a baja velocidad.
 
-
 ## Página 44
 
 
+
 ## Página 45
+
 
 ## 7- 
 ##       Conclusiones
@@ -1327,9 +1355,10 @@ La difusión de la experiencia adquirida.
 Recomendación R3 (SNCF): mejorar la capacidad de respuesta de las enseñanzas de seguridad 
 derivadas de la experiencia adquirida: reducir el plazo de implementación de las rectificaciones 
 de los manuales de conducción, en particular cuando el tema concierna a una función de seguridad 
-como el frenado; reducir 
+como el frenado; reducir
 
 ## Página 46
+
 
 el plazo de implementación de las acciones de concienciación dirigidas a los conductores, sobre 
 temas muy relacionados con la seguridad de las circulaciones (temas tratados durante los acompañamientos 
@@ -1345,6 +1374,7 @@ de un sistema que permita absorber una proporción significativa de la energía 
 que llega al tope a baja velocidad.
 
 ## Página 47
+
 
 ## ANEXOS
 Anexo 1 : Decisión de apertura de investigación
@@ -1364,26 +1394,27 @@ Anexo 14 : Vista desmontada del manipulador de freno TM 606
 Anexo 15 : Ficha de trazabilidad de las pruebas realizadas en el EIMM de Saint-Pierre-des-Corps sobre el manipulador de freno TM 606
 Anexo 16 : Gráfico de la velocidad de circulación del tren 117 120 al aproximarse a la estación de París-Est
 
-
 ## Página 48
+
 
 
 ## Página 49
 
-### Anexo 1 : Decisión de apertura de investigación
 
+### Anexo 1 : Decisión de apertura de investigación
 
 ## Página 50
 
-### Anexo 2 : Elemento automotor en contacto con el tope de la vía 21 (París-Est)
 
+### Anexo 2 : Elemento automotor en contacto con el tope de la vía 21 (París-Est)
 
 ## Página 51
 
+
 ### Anexo 3 : Diagrama del elemento automotor Z2N 20 500
 
-
 ## Página 52
+
 
 ### Anexo 4 : Referencia de las distancias características de la vía 21 en la estación de París-Est
 ### Estación de París-Est
@@ -1427,8 +1458,8 @@ Postes de soporte
 Poste n.º 3 (-7 m)
 de la marquesina
 
-
 ## Página 53
+
 
 ### Anexo 5 : Ficha de trazabilidad de las pruebas de freno TS 36
 Documento de referencia : ITM 48 203. B / 19/10/2005
@@ -1542,8 +1573,8 @@ Estanqueidad RE
 0 bar
 0 bar
 
-
 ## Página 54
+
 
 ### Pruebas de freno en cabina
 Valores registrados
@@ -1657,8 +1688,8 @@ C
 C
 de enclavamiento
 
-
 ## Página 55
+
 
 | Pruebas de freno en cabina |  |  |  |  |
 | Función/órgano | Controles | N.º operación | Valores registrados |  |
@@ -1766,33 +1797,32 @@ Presión CF a 6 bares
 
 ## Página 56
 
-| Pruebas de freno en cabina |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Función/órgano | Controles | Nº operación | Valores registrados |  |
+| Ensayos de freno en cabina |  |  |  |  |
+| Función/órgano | Controles | N.º de operación | Valores registrados |  |
 |  |  |  | par | impar |
-| Antienclavamiento motor | Verificación de la purga y del suministro de las CF | 77 | C | C |
-| Conjugación del freno (motores) | Rango de funcionamiento del EVMD 80 mA | 78 | 0,75 bar , | 0,75 bar , |
-|  | 236 mA | 79 | 3,8 bar , | 3,95 bar , |
-| Dispositivos de purga manual | Control del estado y del funcionamiento . | 80 | C | C |
-| Grifos | Grifos de cierre CP y CG | 81 | C | C |
-| Grifos de aislamiento de los paneles de freno de mando gemelo | Escape de aire durante la maniobra de los grifos | 82 | C | C |
-|  | Dureza anormal – vibración – deformación de los mandos – huellas de impacto – sistema de marcado de posición eficaz | 83 | C | C |
+| Antirrebote de la motriz | Verificación de la purga y del suministro de CF | 77 | C | C |
+| Acoplamiento del freno (motrices) | Zona de funcionamiento de la EVMD 80 mA | 78 | 075 bar, | 075 bar, |
+|  | 236 mA | 79 | 38 bar, | 395 bar, |
+| Dispositivos de purga manual | Control del estado y del funcionamiento. | 80 | C | C |
+| Llaves | Llaves de corte CP y CG | 81 | C | C |
+| Llaves de aislamiento de los paneles de freno a mando acoplado | Fuga de aire durante la maniobra de las llaves | 82 | C | C |
+|  | Dureza anormal – sacudida – deformación de los mandos – marcas de golpe – sistema de marcado de posición eficaz | 83 | C | C |
 | Toma de diagrama de presión (tipo Staubli) | Limpiar y engrasar | 84 | C | C |
-|  | Controlar la presencia de las cadenetas | 85 | C | C |
+|  | Comprobar la presencia de las cadenillas | 85 | C | C |
 | Remolque 201821 |  |  |  |  |
-| Depósito de mando | Tiempo de llenado del RC | 94 | 4,15 segundos , | 4 segundos . |
-| Estanqueidad general del freno despresurizado | Caída de presión | 95 | 0 bar | 0 bar , |
-| Estanqueidad del RC | Caída de presión | 96 | 0 bar | 0 bar |
+| Depósito de mando | Tiempo de llenado del RC | 94 | 415 segundos, | 4 segundos. |
+| Estanqueidad general freno desenfrenado | Descenso de presión | 95 | 0 bar | 0 bar, |
+| Estanqueidad del RC | Descenso de presión | 96 | 0 bar | 0 bar |
 | Distribuidor | Retorno al armado | 97 | C | C |
-|  | sensibilidad al apriete | 98 | C | C |
-|  | Insensibilidad al apriete | 99 | C | C |
-|  | Presión CF durante un apriete máximo | 100 | 3,75 bar , | 3,75 bar , |
-|  | Estanqueidad del RC en apriete máximo | 101 | 0 | 0 |
-|  | Tiempo de apriete | 102 | 28 segundos , | 29 segundos , |
-|  | Tiempo de despresurización | 103 | 78 segundos , | 79 segundos , |
-
+|  | sensibilidad al enfrenado | 98 | C | C |
+|  | Insensibilidad al enfrenado | 99 | C | C |
+|  | Presión CF durante un enfrenado máximo | 100 | 375 bar, | 375 bar, |
+|  | Estanqueidad del RC en enfrenado máximo | 101 | 0 | 0 |
+|  | Tiempo de enfrenado | 102 | 28 segundos, | 29 segundos, |
+|  | Tiempo de desenfrenado | 103 | 78 segundos, | 79 segundos, |
 
 ## Página 57
+
 
 ### Pruebas de freno en cabina
 Valores registrados
@@ -1878,8 +1908,8 @@ conformidad
 | Estanqueidad general del freno despresurizado | Caída de presión | 137 | 0 bar | 0 bar |
 | Estanqueidad del RC | Caída de presión | 138 | 0 bar | 0 bar |
 
-
 ## Página 58
+
 
 ### Pruebas de freno en cabina
 Valores registrados
@@ -1994,8 +2024,8 @@ Tiempo de llenado del RC 178
 2,50 segundos
 mando
 
-
 ## Página 59
+
 
 ### Pruebas de freno en cabina
 Valores registrados
@@ -2126,8 +2156,8 @@ Grifos de cierre CP - CG
 C
 C
 
-
 ## Página 60
+
 
 ### Pruebas de freno en cabina
 Valores registrados
@@ -2197,34 +2227,40 @@ Pruebas de apriete y de
 C
 desapriete
 
-
 ## Página 61
+
 
 ### Anexo 6: Nota de información destinada a la supervisión Tracción
 ### TMS-SY del 30/03/2006
 
-
 ## Página 62
+
 
 
 ## Página 63
 
 
+
 ## Página 64
+
 
 ### Anexo 7: Referencial TMS-SY: grifo de mando del freno TM 606
 ### Difusión limitada al índice para este informe
 
-
 ## Página 65
 
+
+
 ## Página 66
+
 
 
 ## Página 67
 
 
+
 ## Página 68
+
 
 ### Anexo 8: Activación de los seccionadores CC2 (CO)
 En lo que respecta al armario de baja tensión situado en el panel trasero de la cabina de conducción:
@@ -2237,43 +2273,45 @@ El seccionador CC2(CO)BA está alimentado por la batería de la locomotora en la
 A nivel del acoplador eléctrico del Sharfenberg, los contactos de estos dos seccionadores se encuentran en la parte lateral izquierda. Dado que el acoplador quedó hundido durante el choque, su cubierta protectora puso en cortocircuito los bornes correspondientes al CC2(CO) y al CC2(CO)BA, lo que provocó su apertura.
 Tras el reemplazo en taller del cajetín EMC, se realizaron las pruebas de redundancia. Se constató un funcionamiento normal en caso de apertura del CC1(CO) y el encendido de todas las lámparas del cuadro de señalización del panel de control al activar el CC2(CO), tal como se indica en las instrucciones del material. Por tanto, desde este punto de vista, el tren 161A presentaba un funcionamiento nominal. No puede admitirse la interpretación según la cual los seccionadores CC2(CO) y CC2(BA) estaban inicialmente activados con el frenado eléctrico fuera de servicio durante la circulación del tren 117 120.
 
-
 ## Página 69
+
 
 ### Anexo 9: Agarre de la palanca de freno
 
-
 ## Página 70
+
 
 ### Anexo 10: Agentes de la Supervisión General esperando la llegada del tren
 (recorrido de reconstrucción del 13 de abril de 2007)
 
-
 ## Página 71
+
 
 ### Anexo 11: Palanca de freno lineal TM 606
 
-
 ## Página 72
+
 
 ### Anexo 12: Orden de modificación del material
 
-
 ## Página 73
+
 
 
 ## Página 74
 
 
+
 ## Página 75
+
 
 ### Anexo 13: Principio de funcionamiento del «distribuidor» de aire del
 equipo de frenado ferroviario
 El esquema siguiente representa en sección el órgano denominado «distribuidor» de aire comprimido.
 El distribuidor de freno es el órgano que reparte el aire comprimido procedente de la línea general (CG) hacia los diferentes depósitos de aire (depósito auxiliar DA, depósito de mando DM) y transmite el aire del DA hacia los cilindros de freno. En la línea general de aire comprimido, la presión de referencia es de 5 bares; una disminución de presión a partir de esta referencia se traduce en un aumento de la presión del aire en los cilindros de freno, como se indica en el esquema siguiente.
 
-
 ## Página 76
+
 
 El papel de los diferentes componentes del distribuidor se detalla a continuación:
 Varilla hueca:
@@ -2294,18 +2332,19 @@ Una vez cerrada la válvula de cierre, la presión en el DM y la presión en la 
 
 ## Página 77
 
+
 apertura de la válvula superior de alimentación. En estado de equilibrio, la varilla principal obtura su orificio de vaciado contra la válvula superior, sin llegar a abrirla: la presión en los cilindros de freno es, por tanto, estable.
 Comentarios para el desbloqueo de los frenos:
 A diferencia del funcionamiento anterior, cualquier aumento de la presión en la CG se traduce en un desequilibrio en sentido contrario del conjunto móvil, lo que se traduce en un cierre de la válvula de alimentación y un vaciado de los cilindros de freno a través del interior de la varilla principal.
 Cuando la presión de la CG vuelve a su valor nominal (frenos totalmente desbloqueados), la válvula de corte se vuelve a abrir y la presión en el RC se iguala de nuevo con la de la CG: la reapertura de la válvula de corte se denomina rearme del freno, y se produce como máximo cuando la presión de la CG alcanza un valor de 0,15 bar por debajo de la presión nominal inicial (almacenada en el RC).
 
-
 ## Página 78
+
 
 ### Anexo 14: Vista desmontada del manipulador de freno TM 606
 
-
 ## Página 79
+
 
 ### Anexo 15: Ficha de trazabilidad de las pruebas realizadas en el EIMM de Saint-Pierre-
 ### des-Corps sobre el manipulador de freno TM 606
@@ -2421,8 +2460,8 @@ y 11 encendidas
 Up2= 9,93
 C
 
-
 ## Página 80
+
 
 | Ficha de conformidad n.º 7: manipulador TM606 (Z5600/Z8800/Z20500) |  |  |  |  |  |  |  |
 | C15 | Posición 1ª depresión leds 1 a 8 y 11 encendidas | 178<u<182 , , | Up1=1798 , UP2= 1804 , | C C |  |  |  |
@@ -2436,8 +2475,8 @@ C
 | Fecha | Nombre del operador |  |  | Nombre y firma del inspector |  |  |  |
 | 04/06/2007 | xxx |  |  | yyy |  |  |  |
 
-
 ## Página 81
+
 
 ### Anexo 16: Gráfico de velocidad de circulación del tren 117 120 al aproximarse 
 ### a la estación de Paris-Est

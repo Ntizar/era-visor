@@ -10,12 +10,13 @@ chars: 3931
 ratio_longitud: 1.00
 tokens_in: 1899
 tokens_out: 1039
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/3 (33%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -37,6 +38,7 @@ Descarrilamiento de tren
 
 ## Página 2
 
+
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
@@ -44,30 +46,32 @@ Heinemannstraße 6
 
 ## Página 3
 
-## Índice
-I.
-Registro de modificaciones...............................................................................................................I
-| I . | Registro de modificaciones I ....................................................................................................... |
-| 1 | Observaciones previas 1 ............................................................................................................. |
-| 2 | Descarrilamiento el 26 01 2014 entre Bitterfeld y Wolfen 2 . . .............................................. |
-|  | 21 Descripción breve del suceso 2 . ............................................................................................. |
-|  | 22 Consecuencias 2 . ...................................................................................................................... |
-|  | 23 Estado de la investigación 2 . ................................................................................................... |
-|  | 24 Problemas de seguridad identificados 2 . ................................................................................ |
-## Registro de modificaciones
-## I.
-| Modificación | Fecha de actualización |
-| Versión2 0 en base al plazo anual alcanzado . | 18 01 2021 . . |
-| Versión3 0 en base al plazo anual alcanzado . | 11 01 2022 . . |
+## Índice 
+ I. 
+Registro de modificaciones...............................................................................................................I 
+| I . | Registro de modificaciones I ............................................................................................................... |
+| 1 | Observaciones preliminares 1 ..................................................................................................................... |
+| 2 | Descarrilamiento de tren el 26012014 entre Bitterfeld y Wolfen 2 . . .............................................. |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
+## Registro de modificaciones 
+## I. 
+| Modificación | Versión |
+| Versión2 0 en función del plazo anual alcanzado . | 18 01 2021 . . |
+| Versión3 0 en función del plazo anual alcanzado . | 11 01 2022 . . |
 I
 
 ## Página 4
+
 
 ## 1 Observaciones previas
 La elaboración del informe intermedio se realiza con base en el § 5 Abs. 5 del Reglamento de investigación de accidentes ferroviarios (EUV). De acuerdo con ello, para todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, al menos en cada aniversario del suceso peligroso, debe emitirse un informe intermedio. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados en el curso de la misma. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no reclama ser exhaustiva.
 Página 1 de 2
 
 ## Página 5
+
 
 ## 2 Descarrilamiento el 26.01.2014 entre Bitterfeld y Wolfen
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias. A continuación, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se enumeran en el último apartado.

@@ -10,12 +10,14 @@ chars: 4459
 ratio_longitud: 1.03
 tokens_in: 2176
 tokens_out: 1209
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
 avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,33 +36,32 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 6107 |
 | Punto kilométrico: | 208 92 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Colisión de trenes el 17 11 2022 entre Bf Meinersen y Hp Leiferde (b Gifhorn) 2 . . ..................... |
+## Índice
+| I . | Lista de modificaciones I ............................................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Colisión de trenes el 17/11/2022 entre Bf Meinersen y Hp Leiferde (b Gifhorn) 2 . . ..................... |
 |  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
 |  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
 |  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Lista de modificaciones 
 Modificación 
 Estado 
-I 
-
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de
@@ -76,8 +77,8 @@ determinar una responsabilidad ni para aclarar cuestiones de responsabilidad civ
 derechos de reclamación, y se realizan con independencia de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 17.11.2022 entre Bf Meinersen y Hp 
 ## Leiferde (b Gifhorn) 

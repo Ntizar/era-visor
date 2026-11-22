@@ -10,13 +10,13 @@ chars: 111936
 ratio_longitud: 1.13
 tokens_in: 39704
 tokens_out: 30128
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 31: cifras largas: faltan 2/9 (22%)", "página 46: cifras largas: faltan 2/2 (100%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (DA)", "página 11: original bilingüe: se compara contra el idioma principal (DA)", "página 13: original bilingüe: se compara contra el idioma principal (DA)", "página 14: original bilingüe: se compara contra el idioma principal (DA)", "página 50: original bilingüe: se compara contra el idioma principal (DA)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Comisión de Investigación de Accidentes
 de Aviación Civil y Ferrocarriles
@@ -25,8 +25,8 @@ túnel del Gran Belt 5 de junio de 2006
 Comisión de Investigación de Accidentes mayo de 2008
 N.º de expediente: - HCLJ619-000029
 
-
 ## Página 2
+
 
 1 
 Resumen............................................................................................................................................................4 
@@ -135,10 +135,10 @@ Examen de la secuencia de los hechos ...........................................
 4.2 
 Organización de la seguridad ..........................................................................................................................34 
 4.3 
-Reglas.....................................................................................................................................................34 
-
+Reglas.....................................................................................................................................................34
 
 ## Página 3
+
 
 4.3.1 
 Tracción y maquinista......................................................................................................................34 
@@ -177,6 +177,7 @@ Examen del pantógrafo 403 .....................................................
 
 ## Página 4
 
+
 # 1 
 # Resumen 
 ## 1.1 
@@ -194,10 +195,10 @@ La falta de instrucción y de supervisión de que la ejecución del trabajo se r
 No existían normas para el transporte de polvo de soldadura (Thermite) en vehículos de trabajo. 
 La conclusión íntegra se recoge en el apartado 4. 
 1 Los trolles y las máquinas que circulan sobre raíl para el mantenimiento de la red ferroviaria se denominan vehículos de trabajo 
-2 Alutherm, en el lenguaje corriente llamado Thermite 
-
+2 Alutherm, en el lenguaje corriente llamado Thermite
 
 ## Página 5
+
 
 ## 1.1.2 
 ### Recomendaciones de seguridad 
@@ -221,18 +222,18 @@ El informe de investigación está estructurado como sigue:
 Apartado 1: Visión general: ofrece una panorámica del propio desarrollo del accidente, la conclusión sobre la causa del accidente y una visión general de las principales recomendaciones. 
 Apartado 2: Información factual: contiene los datos fácticos recopilados. 
 Apartado 3: Investigaciones y declaraciones, entrevistas: incluye los resultados obtenidos de las investigaciones complementarias. 
-Apartado 4: Análisis y conclusiones: análisis del accidente y de su desarrollo a partir de la información de los apartados 2 y 3. 
-
+Apartado 4: Análisis y conclusiones: análisis del accidente y de su desarrollo a partir de la información de los apartados 2 y 3.
 
 ## Página 6
+
 
 Apartado 5: Medidas ya adoptadas. 
 Apartado 6: Recomendaciones de seguridad: basadas en las conclusiones y demás investigaciones. 
 Apartado 7: Definiciones y explicaciones 
-Apartado 8: Anexos 
-
+Apartado 8: Anexos
 
 ## Página 7
+
 
 # 2 
 # Hechos 
@@ -263,10 +264,10 @@ Poco después el transporte partió de Korsør y descendió por el tubo derecho 
 A continuación se ofrece una breve descripción, ordenada en el tiempo, de la alarma y del proceso de rescate, etc.: 
 • 
 A las 21.20 Avería en el motor con incendio como consecuencia en el trolle 403. El empleado del trolle 403 pidió al conductor del transporte que se detuviera debido a que había mucho humo en la cabina de conducción 
-3 El resumen se basa en distintos registros, las declaraciones de los implicados, etc. Por tanto, las horas deben considerarse orientativas. 
-
+3 El resumen se basa en distintos registros, las declaraciones de los implicados, etc. Por tanto, las horas deben considerarse orientativas.
 
 ## Página 8
+
 
 A las 21.25 se registró una alarma de humo/gas en el SROC4 procedente del tubo norte 
 • 
@@ -299,10 +300,10 @@ A las 22.29 la Comisión de Investigación de Accidentes llegó al lugar
 A las 22.30 el trolle designado de Banedanmark con el vagón de rescate descendió por el tubo sur del túnel para recoger a los tres heridos 
 4 Centro de Control, Regulación y Vigilancia en Korsør 
 5 Centro de mando a distancia de Banedanmark en Roskilde 
-6 Alutherm, en el lenguaje corriente llamado thermite 
-
+6 Alutherm, en el lenguaje corriente llamado thermite
 
 ## Página 9
+
 
 • 
 A las 22.48 el incendio estaba extinguido según el SROC 
@@ -328,10 +329,10 @@ A las 14.30 el transporte había sido remolcado a Korsør e inspeccionado por es
 • 
 El 07.06.2006 la Comisión de Investigación de Accidentes, en colaboración con el centro de criminalística de la policía, inició una búsqueda adicional en el tubo norte del túnel de efectos desaparecidos del trolle 403 
 • 
-El 09.06.2006 a las 15.15 la Autoridad de Transporte concedió autorización para que el tubo norte del túnel pudiera abrirse al tráfico ferroviario 
-
+El 09.06.2006 a las 15.15 la Autoridad de Transporte concedió autorización para que el tubo norte del túnel pudiera abrirse al tráfico ferroviario
 
 ## Página 10
+
 
 1. Plano del túnel del Gran Belt 
 # Túnel del Gran Belt
@@ -342,6 +343,7 @@ En esta zona del túnel se encontraron
 piezas de motor del trolle 403
 
 ## Página 11
+
 
 ## 2.2 
 ### Circunstancias 
@@ -370,10 +372,10 @@ El empleado llevaba 27 años contratado en DSB Bane/Banestyrelsen/Baneda­nmark 
 Curso "Conductor de vehículo de trabajo" aprobado el 31.01.2003. 
 Curso "SR jefe de trabajo 1" aprobado el 16.01.2003. 
 Curso "Curso de ferrocarril 1 y 2" aprobado el 14.10.1986. 
-7 Aquel que tiene la responsabilidad de la conducción y la seguridad del vehículo de trabajo se denomina el conductor. El conductor intercambia mensajes de seguridad con el jefe de estación. El conductor es responsable de que el vehículo de trabajo se desplace a una velocidad adaptada a las condiciones de frenado y visibilidad. 
-
+7 Aquel que tiene la responsabilidad de la conducción y la seguridad del vehículo de trabajo se denomina el conductor. El conductor intercambia mensajes de seguridad con el jefe de estación. El conductor es responsable de que el vehículo de trabajo se desplace a una velocidad adaptada a las condiciones de frenado y visibilidad.
 
 ## Página 12
+
 
 Banedanmark ha informado de que el empleado completó por última vez la formación continua en SR el 01.04.2005. 
 La Trafikstyrelsen ha informado de que el empleado fue aprobado médicamente el 15.02.2005. 
@@ -397,10 +399,10 @@ En caso de accidente se podía encender la luz en el túnel desde el SROC. La il
 El sistema de ventilación 
 En cada túnel había instalados 80 ventiladores colocados por pares. La ventilación era de ventilación longitudinal reversible.  
 La ventilación debía:  
-- eliminar el humo en caso de incendio en el túnel 
-
+- eliminar el humo en caso de incendio en el túnel
 
 ## Página 13
+
 
 - aportar aire fresco a los trabajos de mantenimiento así como en caso de que los vehículos ferroviarios estuvieran detenidos durante un tiempo prolongado en el túnel 
 - diluir y eliminar los productos de combustión y diversos olores desagradables y vapores tóxicos.  
@@ -427,10 +429,10 @@ A las 21.43: ventilación nivel 3, con ventilación hacia el oeste, Sprogø
 A las 22.44: ventilación nivel 2, con ventilación hacia el oeste, Sprogø 
 A las 22.50: ventilación nivel 5, con ventilación hacia el oeste, Sprogø 
 A las 00.00: ventilación nivel 2, con ventilación hacia el oeste, Sprogø 
-La última ventilación (en el nivel 2) fue el martes 06.06. 2006 a las 22.47. 
-
+La última ventilación (en el nivel 2) fue el martes 06.06. 2006 a las 22.47.
 
 ## Página 14
+
 
 ## 2.2.3 
 ### Medios de comunicación 
@@ -478,8 +480,8 @@ La tabla siguiente contiene información sobre los vehículos implicados el día
 | Trole752 | Sin carga | 00 , | 170 , | 740 , | 550 , |
 | Vagón Ks | 2x bastidores de vía | 175 , | 140 , | 300 , | 180 , |
 
-
 ## Página 15
+
 
 | Litra | Descripción de la carga | Peso de la carga en toneladas | Longitud en metros | Peso del vagón en toneladas | Peso de frenado en toneladas |
 | Vagón Ks | 2x bastidores de vía | 175 , | 140 , | 300 , | 180 , |
@@ -506,6 +508,7 @@ El cable de antena radiante, que estaba situado a la altura del hilo de contacto
 
 ## Página 16
 
+
 - Instalación de conducción de tracción:
 La instalación de corriente de tracción (cable portante / catenaria) resultó dañada por el incendio
 - Las luminarias de iluminación, los cables, etc., resultaron dañados por el incendio.
@@ -523,8 +526,8 @@ Tampoco fue posible para SROC (KST) obtener información sobre Thermite.
 Los servicios de emergencia habían recibido información de que había "pólvora" con los vehículos. Resultó ser Thermite.
 8 Notificación electrónica de accidente al centro de alerta
 
-
 ## Página 17
+
 
 ### Establecimiento de la vía de BVK9 y entrada en el túnel
 ## 2.4.1
@@ -542,8 +545,8 @@ Banedanmark, en relación con la investigación del accidente, ha informado de q
 Según la instrucción SIN 1.2, el vehículo de trabajo de Storebælt debía poder salir de la vía de intervención en un plazo de 30 minutos desde la llamada.
 9 Vía/vehículo de los servicios de emergencia
 
-
 ## Página 18
+
 
 # 3
 # Investigaciones
@@ -561,8 +564,8 @@ Durante la preparación de los vehículos de trabajo se añadieron unos 12 l de 
 Los tres empleados informaron de que no estaban al tanto de que el transporte llevara Thermite. Según los empleados, era normal transportar Thermite en un vehículo de trabajo, ya que debe almacenarse en seco. Sin embargo, 60 cargas era una cantidad elevada, algo que no era normal. Las cargas de ignición se almacenaban en un cubo metálico en el extremo opuesto a donde estaba el Thermite en el trole 403.
 Los empleados informaron de que se realizó una prueba de freno. Los tres vehículos de trabajo estaban todos montados como unidades en funcionamiento. Se cumplimentó un boletín de freno (S2), que se depositó en el trole 403. Los empleados eran conscientes de que existían directrices según las cuales solo podía haber una unidad de tracción en funcionamiento en un transporte como este. Sin embargo, señalaron que era una costumbre general y, según su criterio, necesaria para poder ascender por el túnel de Storebælt.
 
-
 ## Página 19
+
 
 ## 3.1.3
 ### La circulación
@@ -582,8 +585,9 @@ Bajando hacia el túnel circuló algo mejor que hacia Korsør.
 No hubo indicaciones anormales durante la circulación.
 Durante la circulación en el túnel, el empleado del trole 403 observó un golpe, y se pudieron ver llamas hacia atrás.
 
-
 ## Página 20
+
+
 Debido al denso desarrollo de humo, el empleado del trole 403 no pudo permanecer en el vehículo de trabajo. Por ello, el transporte se detuvo en lugar de intentar llegar a Sprogø.
 El transporte se detuvo entre los túneles transversales 19 y 20.
 El conductor del transporte dio la alarma al centro de mando a distancia de Roskilde, que [vía SROC] encendió las luces y puso en marcha la ventilación. El humo fue impulsado hacia Sprogø y, por tanto, hacia los empleados. Dos de los empleados se pusieron las lámparas de frente y se cubrieron nariz y boca con paños e intentaron apagar el fuego con extintores de polvo. El tercer empleado (en el trole 752) no pudo salir de su vehículo de trabajo debido al denso humo.
@@ -603,6 +607,7 @@ Asimismo, había sido costumbre circular con una formación tipo tren con vehíc
 Un transporte de este tipo conllevaría, por una parte, gastos y, por otra, a menudo sería difícil de realizar con poca antelación. Sin embargo, habría sido posible realizar el transporte como unidades individuales, aunque podría ser difícil encontrar espacio (canales) para tal circulación, ya que cada vehículo en tal caso debería atravesar el túnel de Storebælt en su propio canal con distancia de estación antes y después, según el SIN.
 
 ## Página 21
+
 
 ## 3.2 
 ### Sistema de gestión de la seguridad 
@@ -644,10 +649,10 @@ Organización de la seguridad:
 - Jefe de región Este 
 - Jefe de región Oeste 
 - Jefe de seguridad de la Contratación 
-- Encargado de trabajos. 
-
+- Encargado de trabajos.
 
 ## Página 22
+
 
 El puesto de jefe de seguridad de la Contratación no estaba cubierto10 y, por tanto, los jefes ejecutores asumían la responsabilidad de la seguridad diaria. 
 Las órdenes de la organización de la seguridad se transmitían a los empleados a través del encargado de trabajos. 
@@ -668,10 +673,10 @@ No se exigía formación específica en túneles ni formación en extinción de 
 Según el certificado de seguridad de Banedanmark, el mantenimiento de los vehículos de trabajo y de los demás vehículos se gestionaba mediante un sistema informático en línea VOPS (VognOplysningsSystem). El sistema debía, entre otras cosas, facilitar información sobre revisiones periódicas, reparaciones ad hoc, revisiones tras accidentes y trazabilidad de los componentes de seguridad.  
 10 Fue cubierto en junio de 2007 
 11 Descripción del producto Instrucción de uso del puesto de trabajo directriz at-vejledning C.O.11 – instrucción de uso del proveedor (hoja de datos de seguridad) directriz at-vejledning 
-C.O.12 
-
+C.O.12
 
 ## Página 23
+
 
 Banedanmark no había podido facilitar posteriormente información sobre qué vagones habían sido revisados, ni dónde se encontraba o había encontrado el material físicamente. A pesar de los requisitos del certificado de seguridad y de VOPS, solo se registraba quién había «tomado prestado» qué, y solo con información sobre la letra, no sobre qué vagón o número de material se trataba.  
 Banedanmark Contratación convocaba a sus vehículos de trabajo, etc., a una revisión anual. Las necesidades continuas de reparación eran comunicadas por el arrendatario y subsanadas en el taller de Roskilde.  
@@ -686,10 +691,10 @@ Material arrendado
 Todo el material (vagones y vagonetas) que la Contratación de Obras utilizaba para el trabajo debía arrendarse a través de la Contratación LPM12. Solo en los casos en que LPM no disponía del material deseado, la Contratación podía arrendarlo en otro lugar. 
 Según las reglas de la Contratación, debía haberse elaborado un contrato de arrendamiento «interno» en cada alquiler. Sin embargo, el sistema para ello no estaba listo. Este alquiler concreto no ha podido documentarse con un contrato de arrendamiento. La Contratación no disponía de un sistema13 para gestionar y controlar dónde se encontraban físicamente los distintos vagones arrendados, etc.  
 12 Contratación de Producción de ámbito nacional (parte de Banedanmark Contratación que también alquila material a otros contratistas, etc.). 
-13 La central de máquinas no gestionaba en la práctica el alquiler a través de números de vagón, solo a través de las letras arrendadas – y por tanto no podía asegurar que fuera el mismo vagón el que regresara, solo que fuera la misma letra. «Una Ks es una Ks». 
-
+13 La central de máquinas no gestionaba en la práctica el alquiler a través de números de vagón, solo a través de las letras arrendadas – y por tanto no podía asegurar que fuera el mismo vagón el que regresara, solo que fuera la misma letra. «Una Ks es una Ks».
 
 ## Página 24
+
 
 La Contratación arrendaba material a la central de máquinas (otra unidad de la Contratación). El alquiler se realizaba mediante el envío de un fax con la letra y el número de vagón de los vagones que deseaban arrendar.  
 Los números de vagón que la Contratación enviaba por fax no figuraban en ningún contrato de arrendamiento o documento similar, ya que la central de máquinas no gestionaba el alquiler a través de números de vagón, solo a través de las letras arrendadas. Por tanto, no había garantía de que fuera el mismo vagón el que regresara, solo de que fuera la misma letra: «una Ks era una Ks». 
@@ -709,10 +714,10 @@ Los vehículos de trabajo de Banedanmark no estaban equipados con ATC. Por tanto
 SR § 71 Vehículos de trabajo 
 El artículo contiene una serie de disposiciones especiales sobre la circulación con vehículos de trabajo. Las disposiciones, que complementan a las demás disposiciones del SR, abarcan, por un lado, disposiciones generales sobre, por ejemplo, condiciones de maniobra y de frenado, así como velocidad, y, por otro lado, disposiciones sobre la circulación como vehículo de trabajo (véase más abajo el apartado 3.3.1.3) o como tren (apartado 3.3.1.2 más abajo).  
 En varias de las disposiciones se menciona específicamente «vehículo de trabajo» / «el vehículo de trabajo», es decir, un vehículo de trabajo, p. ej., el punto 1.5 sobre la acoplamiento de vagones de ferrocarril: 
-«Los vehículos de trabajo pueden acoplar el número de vagones de ferrocarril que figure en la tabla de carga del vehículo correspondiente. 
-
+«Los vehículos de trabajo pueden acoplar el número de vagones de ferrocarril que figure en la tabla de carga del vehículo correspondiente.
 
 ## Página 25
+
 
 Si el vehículo de trabajo no va en primera posición en el sentido de la marcha, la circulación debe realizarse como maniobra.» 
 La circulación con varios vehículos de trabajo acoplados no es posible (permitida) según el § 63 o el § 71. 
@@ -743,6 +748,7 @@ Tras una consulta de la Comisión de Investigación de Accidentes, Banedanmark h
 
 ## Página 26
 
+
 ## 3.3.2 
 ### Frenos 
 SR § 71 Vehículos de trabajo – Frenos General 1.4.1: "En caso de fallo de los frenos durante la circulación, se remite al SR § 62."  
@@ -767,10 +773,10 @@ Registro de mando a distancia
 3.4.1.1.1 
 ### Patrón de circulación 
 Se ha revisado el registro de mando a distancia para evaluar posibles irregularidades en el patrón de circulación y en la velocidad. En términos generales, se confirma la descripción del personal sobre la forma en que han circulado. 
-14 Nótese que "unidades de tracción", según la definición en el SR, es "Denominación común para locomotoras, trenes, tractores y vehículos de trabajo". 
-
+14 Nótese que "unidades de tracción", según la definición en el SR, es "Denominación común para locomotoras, trenes, tractores y vehículos de trabajo".
 
 ## Página 27
+
 
 3.4.1.1.2 
 ### Distancia entre estaciones según SIN 
@@ -797,10 +803,10 @@ Véase el Anexo 4.
 3.4.4.2.1 
 ### Motor/cambio, etc. 
 A pesar del incendio y la gran exposición al calor, los depósitos de combustible del vehículo de trabajo estaban prácticamente intactos y contenían la cantidad de gasóleo que podía esperarse que quedara antes del incendio. 
-El trolle 403 fue remotorizado en 1982, lo que también incluyó la sustitución de la caja de cambios/acoplamiento. La caja de cambios/acoplamiento reconstruida era diferente a la original, ya que tenía una función permanente de "lock-up" que - cuando ya no había deslizamiento en el acoplamiento (las revoluciones coinciden con la velocidad del trolle) - aseguraba el acoplamiento mecánico directo desde el motor al eje motriz, 
-
+El trolle 403 fue remotorizado en 1982, lo que también incluyó la sustitución de la caja de cambios/acoplamiento. La caja de cambios/acoplamiento reconstruida era diferente a la original, ya que tenía una función permanente de "lock-up" que - cuando ya no había deslizamiento en el acoplamiento (las revoluciones coinciden con la velocidad del trolle) - aseguraba el acoplamiento mecánico directo desde el motor al eje motriz,
 
 ## Página 28
+
 
 La función "lock-up" permanecía engrasada, incluso si el vehículo aceleraba y circulaba más rápido (circulación cuesta abajo y/o siendo arrastrado por otro vehículo) sin que se modificara el suministro de combustible. Esto significaba que el motor podía ser forzado a alcanzar revoluciones superiores a las que el motor proporcionaría si funcionara por sí solo.  
 3.4.4.2.2 
@@ -825,10 +831,10 @@ El primer derrame de aceite en la vía se encontró en la marca 114,600 km.
 115.107 trozo grande de madera del suelo del vagón 
 115.180 primeras piezas de maquinaria dañadas por el fuego 
 115.436 lugar de la avería 
-Este recorrido mostró que el incendio muy probablemente se produjo como consecuencia de una avería del motor. 
-
+Este recorrido mostró que el incendio muy probablemente se produjo como consecuencia de una avería del motor.
 
 ## Página 29
+
 
 Las investigaciones técnicas han demostrado que la causa de la avería del motor probablemente fue que al menos un pistón se agarrotó, que a continuación se produjo una avería del motor, tras la cual se desató el incendio. La avería del motor fue tan grave que debe presumirse que piezas del motor perforaron el suelo de madera cerca del lugar donde se encontraba el polvo de Thermite.  
 3.4.4.3 
@@ -867,10 +873,10 @@ No se encontraron fallos en los vagones ni en los otros dos vehículos de trabaj
 3.4.4.4 
 ### Frenos 
 Antes de circular con un vehículo de trabajo con vagones acoplados, debía realizarse una prueba de frenado. 
-Si durante la circulación surgían problemas con el sistema de frenado que hicieran necesaria una intervención - por ejemplo, la operación del tracción de equilibrio o la conexión de vagones a la línea de mando (frenos suspendidos) - tras dicha intervención en el sistema de frenado debía realizarse una nueva prueba de frenado y elaborarse un nuevo certificado de frenado antes de que pudiera reanudarse la circulación (SR § 62 1.11.1).  
-
+Si durante la circulación surgían problemas con el sistema de frenado que hicieran necesaria una intervención - por ejemplo, la operación del tracción de equilibrio o la conexión de vagones a la línea de mando (frenos suspendidos) - tras dicha intervención en el sistema de frenado debía realizarse una nueva prueba de frenado y elaborarse un nuevo certificado de frenado antes de que pudiera reanudarse la circulación (SR § 62 1.11.1).
 
 ## Página 30
+
 
 3.4.4.5 
 ### Prueba de frenado y certificado de frenado 
@@ -905,32 +911,35 @@ El incendio en las porciones de Thermite se sofoca mediante el uso de materiales
 
 ## Página 31
 
-Thermite no estaba clasificado como RID, lo que significaba que no existían normas para el transporte/manipulación ni en trenes ni en vehículos de trabajo.
+La termita no estaba clasificada como RID, lo que significaba que no existían normas para el transporte/manipulación ni en trenes ni en vehículos de trabajo.
 Según la Trafikstyrelsen, todos los gestores de infraestructura de Dinamarca que transportaban mercancías RID estaban sujetos a las disposiciones del RID (capítulo 1, 1.1.2 - b ámbito de validez y capítulo 1.1.3 - c): (véase el Anexo 3). El certificado de seguridad de Banedanmark no incluía autorización para el transporte de mercancías peligrosas.
 ## 3.6.1
-### Thermite
-Thermite es un polvo pirotécnico compuesto de óxido de hierro y polvo de aluminio.
-Cuando esta sustancia se calienta lo suficiente, se inicia una reacción intensa en la que el oxígeno del óxido de hierro se transfiere al metal de aluminio, tras lo cual se produce hierro fundido y óxido de aluminio. Esta reacción libera 795 kilocalorías por gramo-molécula. La sustancia experimenta una reacción exotérmica que puede alcanzar temperaturas superiores a 1.370o C.
-El punto 2.2.1.1.1 del RID/ADR define las sustancias pirotécnicas como: "sustancias o mezclas de sustancias cuyo propósito es producir un efecto en forma de calor, luz, sonido, gas o humo, o una combinación de estos como resultado de reacciones químicas exotérmicas no detonantes y autossostenidas"
-Thermite, a pesar de sus propiedades, no había sido clasificado de acuerdo con el RID.
+### Termita
+La termita es un polvo pirotécnico compuesto de polvo de óxido de hierro y polvo de aluminio.
+Cuando esta sustancia se calienta lo suficiente, se inicia una reacción intensa en la que el oxígeno del óxido de hierro se transfiere al aluminio, produciéndose hierro fundido y óxido de aluminio. Esta reacción libera 795 kilocalorías por molécula. La sustancia experimenta una reacción exotérmica que puede alcanzar temperaturas superiores a 1.370o C.
+El punto 2.2.1.1.1 del RID/ADR define las sustancias pirotécnicas como: "sustancias o mezclas de sustancias cuyo propósito es producir un efecto en forma de calor, luz, sonido, gas o humo, o una combinación de estos, como resultado de reacciones químicas exotérmicas no detonantes y autoabastecidas"
+La termita –pese a sus propiedades– no había sido clasificada de conformidad con el RID.
 ## 3.6.2
 ### Responsable de seguridad de mercancías peligrosas
-Dado que el certificado de seguridad de Banedanmark no incluía el transporte de mercancías peligrosas, no se había designado un responsable de seguridad de mercancías peligrosas, incluido un asesor de seguridad, de conformidad con la orden n.º 665 de 18.08.1999 (véase el Anexo 4).
+Dado que el certificado de seguridad de Banedanmark no incluía el transporte de mercancías peligrosas, no se había designado un responsable de seguridad de mercancías peligrosas, incluido un asesor de seguridad, de conformidad con el decreto núm. 665 de 18.08.1999 (véase el Anexo 4).
 ## 3.7
 ### Incidentes anteriores
 En 1999, una investigación reveló que podía haber problemas para acoplar varios vehículos de trabajo en funcionamiento (no sincronizados).
-Banedanmark comunicó a la Trafikstyrelsen el 10 de febrero de 2006, en el marco del seguimiento de la investigación mencionada a continuación, que "existen problemas técnicos y de instrucción excesivos relacionados con ello".
+Banedanmark comunicó a la Trafikstyrelsen el 10 de febrero de 2006, en el marco del seguimiento de la investigación mencionada a continuación, que "existen problemas técnicos y de instrucción demasiado grandes relacionados con ello".
+## 3.7.1
+### Situación de peligro grave en Vrå 13.11.1999
+En el marco de la investigación del Jernbanetilsynet sobre una situación de peligro grave en Vrå el 13.11.1999, se formuló, entre otras, la siguiente recomendación.
 Recomendación 5:
-La Banestyrelsen deberá evaluar la necesidad y/o las posibilidades de utilizar varios vehículos de trabajo en funcionamiento acoplados entre sí, incluyendo los aspectos operativos y de seguridad.
-Respuesta de Banedanmark de 10 de febrero de 2006:
-
+La Banestyrelsen deberá evaluar la necesidad y/o las posibilidades de utilizar varios vehículos de trabajo en funcionamiento acoplados entre sí, incluidos los aspectos operativos y de seguridad.
+Respuesta de Banedanmark del 10 de febrero de 2006:
 
 ## Página 32
 
+
 "A esto, Banedanmark puede informar que hemos evaluado las posibilidades de circular con varios vehículos de trabajo en funcionamiento acoplados entre sí, y hemos comprobado que existen problemas técnicos y de instrucción excesivos relacionados con ello. La necesidad de Banedanmark de realizar transportes internos se resuelve de otra manera, como con la circulación con un operador externo o con varios viajes con vehículos de trabajo. Cabe mencionar también que se han adquirido algunos vehículos de trabajo más potentes."
 
-
 ## Página 33
+
 
 # 4
 # Análisis y conclusiones
@@ -945,8 +954,8 @@ Tras la detención, la trolle continuó ardiendo, y los restos del suelo de made
 Tras la alerta de incendio, se activó la ventilación, lo que significó que el humo se dirigió hacia los empleados del transporte. Esto provocó, entre otras cosas, que uno de los empleados no pudiera encontrar la salida de su vehículo. Además, el humo y el calor se dirigieron hacia un vehículo con botellas de oxígeno y gas.
 Los empleados tuvieron que abandonar la extinción del incendio, ya que no había equipo en los vehículos de trabajo para apagar el Thermite. Tuvieron que salvarse del túnel en llamas. Su falta de formación en túneles y en incendios pudo haber sido fatal. Fue, según la opinión de la Comisión de Investigación de Accidentes, la experiencia del empleado de la trolle 403 de su tiempo en la construcción del túnel del Gran Belt lo que contribuyó a que no hubiera lesiones personales.
 
-
 ## Página 34
+
 
 El vehículo carretero-ferroviario fue enviado a la vía con permiso del RFC y se dirigió hacia el túnel siguiendo las instrucciones del jefe de intervención, sin que el conductor del vehículo hubiera recibido el permiso requerido (notificación de seguridad) del RFC de Roskilde. Esto pudo haber provocado una situación de peligro grave.
 ## 4.2
@@ -968,8 +977,8 @@ Los detonadores estaban clasificados de acuerdo con el RID como clase 1.4 S.
 ### Formación
 No se exigía que el personal al servicio en los vehículos de trabajo que cruzaban el túnel del Gran Belt tuviera formación en túneles que, entre otras cosas, incluyera formación en incendios y rescate, incluido el uso y la ubicación de las vías de escape.
 
-
 ## Página 35
+
 
 ## 4.5
 ### Desarrollo del incendio y avería del motor
@@ -988,6 +997,7 @@ La trolle 403 probablemente había estado circulando mal desde su salida de Vasb
 
 ## Página 36
 
+
 Sobre la base de la información disponible, se concluye que el incendio en el tractor 403 se inició como una avería del motor. Es muy probable que la avería del motor se produjera como consecuencia de un sobrecalentamiento local en uno o varios pistones que posteriormente se atascaron. El sobrecalentamiento se produjo probablemente debido a que el motor se vio sometido a un número de revoluciones superior al que, a la vista de su "avanzada" edad y estado técnico, podía soportar.
 La sincronización defectuosa de la tracción y la carga entre las unidades fue probablemente la causa de que la avería del motor se desarrollara en el tractor 403.
 La dirección de seguridad de Banedanmark era consciente de que podía haber inadecuaciones de seguridad al circular con varios vehículos de trabajo en funcionamiento -no sincronizados-. La necesidad de transportes de mayor volumen total hizo que el personal hiciera lo que siempre habían hecho, basándose en la experiencia y la costumbre.
@@ -1003,14 +1013,14 @@ Otros aspectos descubridos en la investigación que no han tenido repercusión e
 - Banedanmark no tenía visión de dónde se encontraba su material rodante (vagones). No se cumplieron las declaraciones de conformidad y el permiso de puesta en servicio del remolque de soldadura.
 - Los vehículos de trabajo no estaban equipados con equipos de registro, lo que podría haber contribuido a esta investigación, entre otras cosas, al permitir determinar la velocidad y las condiciones de frenado del transporte. Actualmente no existe requisito de registro de información de seguridad.
 
-
 ## Página 37
+
 
 - El transporte recibió permiso (señal) para circular hacia abajo en el túnel antes de que existiera la distancia de estación requerida respecto al tren que circulaba por delante.
 - El transporte llevaba tanto botellas de oxígeno como botellas de gas. (Banedanmark no tenía normas para el transporte de mercancías clasificadas RID en vehículos de trabajo).
 
-
 ## Página 38
+
 
 # 5
 # Medidas ya adoptadas
@@ -1032,8 +1042,8 @@ Determinación del alcance de las tareas de Banedanmark comprendidas en el RID.
 La Autoridad de Transporte y Banedanmark han tomado la iniciativa de que la aprobación de seguridad de Banedanmark incluya también el transporte de mercancías peligrosas, incluida la designación de un asesor de seguridad de acuerdo con el RID.
 15 Banedanmark ha comunicado que el informe solicitado fue remitido a la Autoridad de Transporte el 27.02.2008.
 
-
 ## Página 39
+
 
 La Autoridad de Transporte ha comunicado que se está elaborando el BJ 5-08 con "disposiciones para la circulación de maniobras y de estacionamiento para la circulación con vehículos de trabajo en condiciones similares a las de un tren".
 ## 5.2
@@ -1050,8 +1060,8 @@ Medidas en fase de implantación o ya ejecutadas:
 • Se ha realizado una jornada de formación para el personal operativo sobre desarrollo de humo e incendio en el túnel, etc., para el túnel de Storebælt y para los demás túneles ferroviarios. Han participado empleados que forman parte de los turnos de guardia, por ejemplo, los jefes de circulación del Centro de Operaciones de Dinamarca (DcDk) y el SROC
 Además, se revisarán las comunicaciones de seguridad por radio para garantizar una mejor calidad, especialmente en las comunicaciones que deben repetirse.
 
-
 ## Página 40
+
 
 # 6
 # Recomendaciones de seguridad
@@ -1070,13 +1080,14 @@ La Comisión de Investigación de Accidentes (Havarikommissionen) recomienda:
 7: Que la Autoridad de Transporte promueva que, junto con el gestor de infraestructura, los operadores ferroviarios, así como la policia y los servicios de emergencia, se realice un análisis de los procedimientos de alarma en relación con los accidentes en túneles ferroviarios
 16 Directiva de Seguridad Ferroviaria, artículo 25, apartado 2: "Las recomendaciones se dirigen a la autoridad de seguridad y, si es necesario debido a la naturaleza de la recomendación, a otros organismos o autoridades de los Estados miembros o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que se tenga debidamente en cuenta las recomendaciones de los organismos de investigación en materia de seguridad y que, en su caso, se adopten medidas correctoras al respecto".
 
-
 ## Página 41
+
 
 8: Que la Autoridad de Transporte promueva que Sund & Bælt, junto con los servicios de emergencia, evalúe las cuestiones relativas a la estrategia de ventilación del túnel en una situación de accidente.
 9: Que la Autoridad de Transporte promueva que el gestor de infraestructura, junto con los servicios de emergencia, evalúe las instrucciones para la circulación con vehículos de rescate en las zonas de túnel.
 
 ## Página 42
+
 
 # 7 
 # Definiciones y explicaciones 
@@ -1105,10 +1116,10 @@ Centro regional de mando a distancia (véase también FC-leder)
 RID 
 "Règlement concernant le transport international ferroviaire des marchandises dangereuses". Reglamento para el transporte nacional e internacional de mercancías peligrosas por ferrocarril. (Contiene, entre otros, la lista de grupos de mercancías que solo se admiten para el transporte bajo determinadas condiciones) 
 SIN 
-Instrucciones de seguridad. En el momento del accidente, la instrucción para el enlace del Gran Belt era SIN (Ø) 1.2. La instrucción se dividió posteriormente en dos; SIN (Ø) 1.4 -1.5  
-
+Instrucciones de seguridad. En el momento del accidente, la instrucción para el enlace del Gran Belt era SIN (Ø) 1.2. La instrucción se dividió posteriormente en dos; SIN (Ø) 1.4 -1.5
 
 ## Página 43
+
 
 |  | Explicación/definición |
 | SR | Reglamento de Seguridad de 1975 publicado por Banedanmark |
@@ -1119,8 +1130,8 @@ Instrucciones de seguridad. En el momento del accidente, la instrucción para el
 | UNnúmero | Clasificación internacional de contenido peligroso |
 | VOPS | Sistema de información de vagones. Sistema de contratas de Banedanmark para el registro de la utilización de vehículos, mantenimiento, etc. |
 
-
 ## Página 44
+
 
 ### Anexo 1 
 ### Descripción de los vehículos del transporte 
@@ -1166,10 +1177,10 @@ Distancia entre ejes de los bogies: 1,80 m
 Velocidad en servicio propio: 100 km/h 
 Depósitos: 
 - diésel 1000 litros 
-- aceite hidráulico 800 litros  
-
+- aceite hidráulico 800 litros
 
 ## Página 45
+
 
 ### Descripción 
 ### Letra 
@@ -1216,16 +1227,15 @@ Velocidad:
 Depósitos: 
 - diésel  
 - aceite hidráulico 
-- aceite de motor   
-
+- aceite de motor
 
 ## Página 46
 
-| Descripción | Letra | Datos |
-| Aspirachancas sueco | Construido sobre la base de Rs | Aspiradora sobre vagón de mercancías plano y abierto. Diésel-hidráulico. Peso propio: 21,3 toneladas, Peso total: 80 toneladas. Carga útil: 28 M3. Peso de freno: 46 toneladas. Longitud entre topes: 21,5 m, Distancia entre ejes de los bogies: 5,5 m, Velocidad: 80 km/h. Depósitos: diésel - aceite hidráulico - No aprobado para circular en Dinamarca |
-
+| Descripción | Litra | Fecha |
+| Sueco aspirador de balasto | Construido sobre la base de Rs | Aspiradora sobre vagón de mercancías de plataforma abierta Diesel-hidráulico Peso propio: 213 toneladas, Peso total: 80 toneladas Carga útil: 28 M3 Peso de freno: 46 toneladas Longitud entre topes: 215 m, Distancia entre ejes de bogies: 55 m, Velocidad: 80 km/h Depósitos: aceite dihidráulico - aceite hidráulico - No autorizado para circular en Dinamarca |
 
 ## Página 47
+
 
 ### Anexo 2 
 ## RID 
@@ -1244,15 +1254,15 @@ uso de los medios de transporte (incluida la carga y descarga y el transbordo).
 1.1.3.1 Excepciones relativas a la naturaleza del transporte 
 Las disposiciones de RID no se aplican a:  
 a) Transporte de mercancías peligrosas realizado por personas privadas, cuando dichas mercancías estén embaladas para la venta al por menor y estén destinadas a su uso personal o doméstico o a actividades de ocio o deportivas, siempre que se hayan adoptado medidas para prevenir la fuga del contenido en condiciones normales de transporte. Las mercancías peligrosas en IBC, embalajes grandes o tanques no se consideran embaladas para la venta al por menor. 
-b) Transporte de maquinaria o equipos no mencionados en RID que contengan mercancías peligrosas en su interior o en su equipo funcional, siempre que se hayan adoptado medidas para prevenir la fuga del contenido en condiciones normales de transporte. 
-
+b) Transporte de maquinaria o equipos no mencionados en RID que contengan mercancías peligrosas en su interior o en su equipo funcional, siempre que se hayan adoptado medidas para prevenir la fuga del contenido en condiciones normales de transporte.
 
 ## Página 48
 
-c) Transporte realizado por empresas que, como actividad secundaria respecto a su actividad principal, transporten mercancías peligrosas, p. ej., entregas a o devoluciones desde obras de construcción o de contratistas, o en relación con la supervisión, reparación o mantenimiento, en cantidades de hasta 450 litros por embalaje y dentro de los límites de cantidad indicados en el punto 1.1.3.6. Deben adoptarse medidas para prevenir la fuga del contenido en condiciones normales de transporte. Estas excepciones no se aplican a la clase 7. El transporte de mercancías peligrosas realizado por las empresas mencionadas anteriormente para su propio abastecimiento o como distribución externa o interna no queda amparado por esta excepción. 
 
+c) Transporte realizado por empresas que, como actividad secundaria respecto a su actividad principal, transporten mercancías peligrosas, p. ej., entregas a o devoluciones desde obras de construcción o de contratistas, o en relación con la supervisión, reparación o mantenimiento, en cantidades de hasta 450 litros por embalaje y dentro de los límites de cantidad indicados en el punto 1.1.3.6. Deben adoptarse medidas para prevenir la fuga del contenido en condiciones normales de transporte. Estas excepciones no se aplican a la clase 7. El transporte de mercancías peligrosas realizado por las empresas mencionadas anteriormente para su propio abastecimiento o como distribución externa o interna no queda amparado por esta excepción.
 
 ## Página 49
+
 
 ### Anexo 3 
 ### Decreto sobre asesores de seguridad 
@@ -1271,10 +1281,10 @@ Al aplicar las disposiciones de este decreto, se tomarán como base las siguient
 § 3. El decreto no comprende 
 1) a las empresas que solo transporten, carguen, descarguen o expidan mercancías peligrosas de acuerdo con las condiciones del anexo A de la Convención ADR, n.º de margen 2201a, 2301a, 2401a, 2471a, 2501a, 2551a, 2601a, 2801a, 
 2901a o del RID, n.º de margen 201a, 301a, 401a, 471a, 501a, 551a, 601a, 801a o 
-901a, 
-
+901a,
 
 ## Página 50
+
 
 2) a las empresas que solo transporten, carguen, descarguen o expidan mercancías peligrosas en cantidades que por cada transporte individual no superen los límites indicados en el anexo B de la Convención ADR, n.º de margen 10 011, o en el RID, n.º de margen 17(c), *) 
 3) a las empresas que solo transporten, carguen, descarguen o expidan maquinaria o equipos no mencionados en los anexos A y B de la Convención ADR o en el RID, y que en su construcción interior o en sus elementos funcionales contengan mercancías peligrosas, 
@@ -1283,6 +1293,7 @@ Al aplicar las disposiciones de este decreto, se tomarán como base las siguient
 6) a las empresas agrícolas y forestales o similares cuyas actividades consistan únicamente en la descarga ocasional de mercancías peligrosas
 
 ## Página 51
+
 
 ### Anexo 4
 ### Examen de la locomotora de trolley 403
@@ -1293,8 +1304,8 @@ En el examen del chasis de la locomotora de trolley 403 se pudo constatar que ha
 La mayor parte de las piezas del motor que faltaban fueron encontradas posteriormente en la vía a lo largo de un tramo de unos 800 m, con inicio en el pk 114,6 hasta la posición final de la locomotora de trolley 403 en el pk 115,6. Esto corrobora que, antes de que se produjera el incendio, se había producido una avería del motor unos 800 m antes de la detención de la locomotora de trolley 403, y que el incendio se considera que se originó como consecuencia de la avería del motor.
 Un examen sistemático de las piezas del motor recogidas ha demostrado que las piezas abandonaron el motor mientras este estaba en funcionamiento. Esto se corrobora por el hecho de que todas las piezas importantes del motor estaban claramente deformadas como consecuencia de la avería del motor y no como consecuencia de haber impactado contra balasto o raíles. Se confirmó además que los pernos de las bielas de pistón se habían roto como consecuencia de una sobrecarga repentina y, por tanto, de una avería del motor (véase la foto 3).
 
-
 ## Página 52
+
 
 Foto 3
 Ninguna de las cáscaras de cojinete encontradas (véase la foto 4) mostraba signos de sobrecalentamiento ni de desgaste por fricción, lo que indica que, hasta que se produjo la avería del motor, existía lubricación por aceite y que la falta de lubricación no había sido la causa de la avería del motor. Las piezas del motor recogidas se encontraron en el tramo anterior al punto donde se detuvo la locomotora de trolley 403 y no presentaban signos de influencia del fuego, lo que indica que habían abandonado el motor antes de que la locomotora de trolley 403 se incendiara realmente.

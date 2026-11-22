@@ -10,13 +10,13 @@ chars: 157179
 ratio_longitud: 1.23
 tokens_in: 66204
 tokens_out: 46834
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 4: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 17: original bilingüe: se compara contra el idioma principal (CS)", "página 26: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +39,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -69,25 +69,29 @@ Factor contribuyente:
 no supresión de los bloqueos de emergencia de los desvíos n.º 15 y 16 en la estación ferroviaria de Hoštejn, establecidos en dirección de desvío tras la circulación anterior de trenes.
 No se ha detectado por parte de la Drážní inspekce una causa sistémica.
 
-
 ## Página 4
 
 Recomendaciones de seguridad:
-La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
-### A la Autoridad Ferroviaria:
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de sus propias medidas orientadas a la realización de las siguientes recomendaciones de seguridad:
-•
-en un plazo razonable (atendiendo a la duración del proceso de desarrollo y de aprobación), garantizar, en los aparatos de enclavamiento de estación controlados a través de un puesto de servicio unificado, que el empleado operador no pueda establecer la ruta de tren de emergencia indicada y la información sobre las condiciones que impiden el establecimiento de la ruta de tren de emergencia (p. ej., con una etiqueta que advierta de una operación incorrecta), en los casos en que deba producirse:
-◦la circulación de un tren por una vía distinta de la seleccionada por el empleado operador, o
-◦la circulación de vehículos ferroviarios en sentido contrario sobre la misma vía,
-◦o también en otros casos justificados con base en el análisis realizado por el gestor del ferrocarril (p. ej., si un vehículo ferroviario debiera llegar al paso a nivel antes de que expire el tiempo de aproximación);
-•
-garantizar simultáneamente, en estos aparatos, que no pueda establecerse una ruta de tren sobre una vía sobre la que a la vez esté establecida una ruta de tren de emergencia en sentido contrario o una ruta de maniobras de emergencia, como complemento adecuado a la recomendación de seguridad anterior sobre la secuencia inversa de establecimiento de rutas de tren;
-•
-hasta la implementación de la primera recomendación de seguridad mencionada anteriormente, considerar, en estos aparatos, la configuración de la prioridad de visualización en el ordenador de entrada del
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
 
+### A la Autoridad Ferroviaria:
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de las propias medidas encaminadas a la realización de las siguientes recomendaciones de seguridad:
+•
+en un plazo de tiempo razonable (atendiendo a la duración del proceso de desarrollo y de aprobación), garantizar, en las instalaciones de enclavamiento de estación controladas a través de un puesto de operación unificado, la imposibilidad de establecer por parte del personal operador la ruta ferroviaria de emergencia introducida y la información sobre las condiciones que impiden el establecimiento de la ruta ferroviaria de emergencia (por ejemplo, mediante una etiqueta que advierta de una operación errónea), en los casos en que se produjera:
+◦la circulación de un tren por una vía distinta de la seleccionada por el personal operador, o
+◦la circulación de vehículos ferroviarios en sentido contrario por la misma vía,
+◦o, en su caso, también en otros casos justificados con base en el análisis realizado por el gestor de la infraestructura (por ejemplo, si un vehículo ferroviario llegara a un paso a nivel antes de que transcurra el tiempo de aproximación);
+•
+como complemento adecuado de la recomendación de seguridad anterior, para la secuencia inversa de establecimiento de las rutas individuales, garantizar simultáneamente en dichas instalaciones la imposibilidad de establecer una ruta ferroviaria para una vía sobre la que a la vez esté establecida una ruta ferroviaria de emergencia en sentido contrario o una ruta de maniobras de emergencia;
+•
+hasta la realización de la primera recomendación de seguridad mencionada anteriormente, valorar en dichas instalaciones la configuración de la prioridad de visualización en el ordenador de entrada del puesto de operación unificado, de modo que durante la visualización de la página de riesgo en el relieve de la traza no se resaltaran con un subrayado rojo discontinuo aquellos elementos de dicha página de riesgo que estén marcados con una etiqueta de advertencia (que se establece y se elimina con la orden "STIT") o con una etiqueta de intervención en vía (que se establece y se elimina con la orden "VYL"), y el personal operador sea así ya advertido de ellos de otra manera (el personal operador marcó estos elementos con conocimiento de la necesidad de garantizar en ellos el cumplimiento de las condiciones no cumplidas mediante un método alternativo);
+•
+garantizar en el gestor de la infraestructura Správa železnic, organización estatal:
+◦la modificación del texto del artículo 404 de la normativa interna SŽ D1, para añadir el texto que impone al jefe de estación autorizado para iniciar la intervención en vías y en estaciones de tráfico controladas en remoto con DOZ la obligación de comunicar el inicio de la intervención también a los empleados del servicio de tráfico afectados por la intervención en las estaciones ocupadas;
+◦la adopción de una medida que impida el uso no autorizado de las tarjetas de identificación personal de los empleados (es decir, del elemento de seguridad necesario para la operación de la instalación de enclavamiento) por personas distintas de sus titulares.
 
 ## Página 5
+
 
 ### RESUMEN
 15 de septiembre de 2022, 8:39 (6:39 GMT).
@@ -127,8 +131,8 @@ garantizar simultáneamente, en estos aparatos, que no pueda establecerse una ru
 •
 hasta la implementación de la primera recomendación de seguridad mencionada anteriormente, considerar, en estos aparatos, la configuración de la prioridad de visualización en el ordenador de entrada del
 
-
 ## Página 6
+
 
 puesto de servicio unificado, de modo que durante la visualización de la página de riesgo en el relieve de la traza no se resaltaran con un sombreado rojo discontinuo aquellos elementos de dicha página de riesgo que estén marcados con una etiqueta de advertencia (se establece y se suprime con la orden „STIT“) o con una etiqueta de ocupación de vía (se establece y se suprime con la orden „VYL“), y el empleado operador sea alertado de otra manera (el empleado operador marcó estos elementos con conocimiento de la necesidad de garantizar el cumplimiento de las condiciones no cumplidas de forma alternativa);
 •
@@ -137,6 +141,7 @@ garantizar en el IM (Správa železnic, státní organizace):
 ◦la adopción de una medida que impida el uso no autorizado de las tarjetas de identificación personal de los empleados (es decir, un elemento de seguridad necesario para la operación del aparato de enclavamiento) por personas distintas de sus titulares.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -178,8 +183,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................42
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................42
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................42
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................42
@@ -208,8 +213,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...........................................................................50
 ANEXOS............................................................................................................................53
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 BTS 
@@ -294,6 +299,7 @@ estación de ferrocarril
 
 ## Página 10
 
+
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 Ley núm. 266/1994 Sb.
 Ley núm. 266/1994 Sb., de ferrocarriles, en la redacción vigente
@@ -344,8 +350,8 @@ con aparato de enclavamiento a distancia», ref. 10041/2017-SŽDC-CDP PRE-ATP, e
 Reglamento de explotación GSM-R CZ
 Reglamento interno del explotador ferroviario SŽ, «Reglamento de explotación del aparato de radioferrocarril – sistema GSM-R CZ»,
 
-
 ## Página 11
+
 
 ref. 63310/2019-SŽDC GŘ-O11, en la redacción vigente en el momento
 de producirse la incidencia
@@ -353,8 +359,8 @@ Reglamento de estación de la est. Hoštejn
 Reglamento interno del explotador ferroviario SŽ, «Reglamento de estación de la est. Hoštejn», ref.: 21612/2021-SŽ-OŘ OLC, en la redacción vigente
 en el momento de producirse la incidencia
 
-
 ## Página 12
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -384,8 +390,8 @@ En el marco de la investigación de la incidencia, el DI procedió de la siguien
 •
 inspección del lugar de la incidencia, incluidos los vehículos ferroviarios participantes, los aparatos técnicos y la infraestructura ferroviaria;
 
-
 ## Página 13
+
 
 •
 análisis de la documentación solicitada al explotador ferroviario, al transportista y a la Policía ČR;
@@ -420,8 +426,8 @@ Fecha:
 Hora:
 8:39 h.
 
-
 ## Página 14
+
 
 Lugar:
 ferrocarril, categoría nacional, línea 309A Přerov – Česká
@@ -449,8 +455,8 @@ El tren Ex 512 se detuvo con el morro en el 1. TK entre la est. Hoštejn y Kras�
 de circulación, que se encontraba en el pk 30,224. El tren estaba compuesto por 7 DV (unidad completa),
 con el HV núm. CZ ČD 93 54 6 681 007-1 conducido desde el puesto de conducción frontal. El morro
 
-
 ## Página 15
+
 
 y la cola del tren estaban señalizados con las señales prescritas. En la composición del tren no se detectaron
 averías y el DV en cuestión no resultó dañado.
@@ -478,6 +484,7 @@ a las 9:55 h, que estuvo condicionado a la realización de documentación del es
 
 ## Página 16
 
+
 con el transformador de cambio electromotor y no mostraban un estado anormal ni daños.
 No se detectó en el lugar del accidente ferroviario (MU) ningún defecto en la superestructura ferroviaria ni en otros componentes de la vía, ni fue alegado por nadie.
 La señal principal de salida L2 estaba situada en el pk 31,257 y en el momento de la inspección mostraba la señal «Alto». La señal L2 estaba situada a la derecha de la vía n.º 2 en la estación de Hoštejn y se trataba de una señal luminosa independiente sobre mástil con cinco aspectos variables. Debajo de los aspectos luminosos, el mástil de la señal estaba marcado con una placa de identificación roja de forma rectangular que contenía el texto blanco «L2», bajo la cual se encontraba una placa indicadora con el dígito blanco «5» sobre fondo negro y una banda de identificación con la combinación de franjas rojas y blancas alternas, siendo las franjas blancas de la mitad de longitud que las rojas.
@@ -489,8 +496,8 @@ En presencia del DI, se descargaron los archivos de los ordenadores tecnológico
 El tráfico ferroviario en la estación de Hoštejn se gestionaba en remoto desde el CDP Přerov. En el momento de producirse el citado accidente ferroviario (MU), el tráfico ferroviario en la estación de Hoštejn era dirigido y organizado por la jefa de despacho de la zona 2C del CDP Přerov (en adelante también jefa de despacho).
 En el puesto de trabajo de la jefa de despacho se documentó el diario de circulación escrito a mano, el registro telefónico, el registro de averías en el equipo de telecomunicaciones y enclavamiento, y se obtuvieron las llamadas relacionadas con el accidente ferroviario (MU) de la aplicación KAC. Asimismo, se obtuvo la orden correspondiente sobre la interrupción de servicio, las tablas de condiciones de la línea, la documentación básica de circulación de la estación de Hoštejn y se realizó documentación fotográfica del monitor ZPC que captaba la situación de circulación en la estación de Hoštejn después del accidente ferroviario (MU) y antes de la anulación del enclavamiento de emergencia de los desvíos n.º 15 y 16 (véase la fig. n.º 2).
 
-
 ## Página 17
+
 
 Condiciones meteorológicas:
 nublado, lluvia ocasional, temperatura +16 °C, visibilidad
@@ -524,8 +531,8 @@ El propietario de la vía ferroviaria, categoría nacional, Přerov – Česká 
 El gestor de la vía ferroviaria, categoría nacional, Přerov – Česká Třebová, era SŽ.
 El transportista de los trenes Ex 512 y Os 3775 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 
-
 ## Página 18
+
 
 El tráfico ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ČD el 20. 1. 2020, con efectos a partir del 23. 1. 2020.
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
@@ -566,8 +573,8 @@ No se superó la velocidad máxima permitida en el tramo indicado, el protector 
 | Porcentaje de frenado necesario (%): | 111 |  |  |  |
 | Porcentaje de frenado real (%): | 165 |  |  |  |
 
-
 ## Página 19
+
 
 | Porcentaje de frenado faltante (%): | 0 |
 | Velocidad máxima permitida del tren en el lugar del accidente ferroviario (km .h-1): | 120 |
@@ -585,6 +592,7 @@ La estación de Hoštejn se sitúa en el pk 31,531 de la vía nacional Přerov �
 La estación de Hoštejn, al igual que los tramos intermedios Zábřeh na Moravě – Hoštejn y Hoštejn – Krasíkov, estaban equipados con la sección de línea del protector de tren ETCS L2 (en el presente caso, los trenes no circulaban bajo la supervisión de ETCS). El puesto de trabajo de la central de bloqueo por radio estaba fusionado con el puesto de control del SZZ (JOP). La comunicación radiofónica básica de línea entre el jefe de despacho de la zona 2C del CDP Přerov (jefe de estación) y los maquinistas de los HV la proporcionaba el sistema digital GSM-R CZ, que permitía al jefe de despacho utilizar la función G-STOP (orden del empleado de control de circulación de SŽ destinada a activar la llamada automática de voz de parada del tren (llamada «Emergencia tren»), o en su caso, la activación automática del sistema de frenado del HV en caso de amenaza para la seguridad de la prestación del tráfico ferroviario o de peligro de retraso (orden «Parar tren»). La transmisión del código del protector de tren se realizaba también en circulación en sentido contrario al correcto.
 
 ## Página 20
+
 
 La estación de Hoštejn estaba, en el momento de producirse el MU, protegida por un sistema de señalización automática de seguridad (SZZ) de 3.ª categoría según TNŽ 34 2620, tipo ESA 11, controlado en remoto desde el CDP Přerov. El certificado de idoneidad del dispositivo técnico determinado PZ 0291/05-E.41 se emitió el 22. 11. 2005. Los medios para determinar la libertad u ocupación de los KÚ eran, según el Reglamento de Estación de la estación de Hoštejn, los circuitos de vía, con la excepción de la SK n.º 4, donde para determinar la libertad de los KÚ servían los contadores de ejes. La velocidad máxima permitida para el tren Ex 512 en el lugar de producción del MU, dada por la señal del señalizador de salida L2, era de 40 km.h-1.
 Del análisis realizado de los datos registrados por el ordenador tecnológico TPC4 del SZZ de la estación de Hoštejn, tras tener en cuenta la desviación temporal entre la hora registrada por el SZZ y la hora real (+ 3 s), se constató, entre otros extremos:
@@ -658,8 +666,8 @@ el tren Ex 512 liberó el KÚ V1;
 8:38:41 h
 la jefa de despacho 2C (desde ZPC4) introdujo la secuencia de confirmación «a s d f Enter» para la función de riesgo de las páginas tecnológicas;
 
-
 ## Página 21
+
 
 •
 8:38:43 h
@@ -713,8 +721,8 @@ el tren Os 3775 liberó el KÚ 1T2;
 10:02:03 h se canceló el bloqueo de emergencia en las agujas n.º 15 y 16 en posición menos (permaneció activo durante todo el tiempo desde su establecimiento a las 8:16:58 h).
 Fig. n.º 2: Vista del monitor del ZPC del jefe de despacho 2C del CDP Přerov que capta la situación en la estación de Hoštejn en el periodo posterior a la producción del MU y antes de la cancelación del bloqueo de emergencia de las agujas n.º 15 y 16     Fuente: DI
 
-
 ## Página 22
+
 
 Del análisis de los datos descargados del SZZ se concluyó que el dispositivo presentaba un funcionamiento normal y que su estado técnico y su modo de operación no guardaban relación causal con la producción del MU. De la inspección del SZZ realizada tras el MU se constató que los parámetros eléctricos del SZZ correspondían a las prescripciones técnicas establecidas. El estado del equipamiento interior y exterior del SZZ estaba en orden y correspondía a la documentación técnica. Las inspecciones y el mantenimiento establecidos del sistema de señalización automática de seguridad se realizaron en los plazos prescritos establecidos por el Decreto n.º 177/1995 Sb., las normas de la Administración de Ferrocarriles y el plan de mantenimiento aprobado.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -740,8 +748,8 @@ Registro oficial de la declaración aportada ante la Policía:
 ◦su trabajo consiste en la dirección de las circulaciones de trenes, trabajando con el sistema de señalización automática de seguridad JOP y la aplicación GTN;
 ◦el 15. 9. 2022 prestó servicio en la jornada diurna en la sala n.º 3 del CDP Přerov como jefa de despacho para el área 2C;
 
-
 ## Página 23
+
 
 ◦en la estación de Hoštejn se estaba llevando a cabo una intervención según ROV n.º 23171, fase C, durante la cual se excluyó de la explotación la aguja n.º 12 y se desconectaron los tramos de vía de las agujas n.º 10, 12, 13 y 14;
 ◦debido a la intervención, las circulaciones de trenes hacia/desde la dirección de Krasíkov se realizaban en ruta de emergencia con señal de llamada;
@@ -759,8 +767,8 @@ Registro oficial de la declaración aportada ante la Policía:
 ◦al incorporarse al turno se sentía bien, estaba sobria y descansada.
 A la jefa de despacho del área 2C del CDP Přerov que dirige el tráfico ferroviario en la estación de Hoštejn se le requirió por el DI para aportar explicaciones. La persona en cuestión se negó a aportar explicaciones al DI, invocando el art. 37 apart. 1 de la Ley Constitucional n.º 2/1993 Sb., por la que se promulga la Carta de Derechos y Libertades Fundamentales.
 
-
 ## Página 24
+
 
 •
 jefe de estación de la estación de Hoštejn, empleado de SŽ
@@ -790,6 +798,7 @@ jefe de estación de la estación de Hoštejn, empleado de SŽ
 
 ## Página 25
 
+
 ◦por qué no anotaba todos los datos en el Libro de registro de la vía libre y de la correcta disposición de la vía ferroviaria, ya no lo recordaba;
 ◦cómo realizaba la comprobación de la vía libre de los trenes n.º 883, 121, 522 y 1000, para los cuales no se habían anotado en el Libro de registro de la vía libre y de la correcta disposición de la vía ferroviaria los datos requeridos para esta operación, ya no lo recordaba;
 ◦su puesto asignado (ámbito de responsabilidad) estaba en el edificio de estación, desde el cual salía al exterior para comprobar las operaciones requeridas. Este puesto le asignó el inspector de explotación, que le trasladó al lugar;
@@ -815,8 +824,8 @@ maquinista del tren Os 3775
 ◦la señal de sección antes de la estación de Hoštejn mostraba la señal «Aviso» y en la señal de entrada se encendía la señal «Alto»;
 ◦debido a las malas condiciones de adherencia, por precaución comenzó a frenar antes de la señal de sección y se acercó lentamente a la señal de entrada de la estación de Hoštejn;
 
-
 ## Página 26
+
 
 ◦a unos 150 m de la señal de entrada divisó cómo salía de la curva un tren en sentido contrario;
 ◦cuando se encontraba aproximadamente a la altura de la señal de entrada, se dio cuenta de que el tren circulaba hacia él por la misma vía;
@@ -839,8 +848,8 @@ La despachante responsable del área 2C del CDP Přerov, tras visualizar en el m
 8:41 h
 El maquinista del tren Os 3775 comunicó la producción de la MU a la despachante responsable del área 2C del CDP Přerov;
 
-
 ## Página 27
+
 
 •
 8:45 h
@@ -886,8 +895,8 @@ el dispositivo que protege la vía ferroviaria frente a la circulación de vehí
 •
 no debe permitirse la circulación de otro vehículo ferroviario que cruce o se una con la vía ferroviaria correspondiente.
 
-
 ## Página 28
+
 
 ### La circulación ferroviaria en la estación de Hoštejn y en los tramos adyacentes de la línea, así como las obligaciones de circulación impuestas por el Reglamento de Estación de la estación de Hoštejn, estaban a cargo de la despachante responsable del área 2C del CDP Přerov en el momento de la producción de la MU. Entre las 7:05 h y las 10:23 h del día 15. 9. 2022
 se llevaba a cabo en la estación de Hoštejn la intervención prevista según la ROV n.º 23171 fase C, durante la cual se excluyó de la explotación el desvío n.º 12 y, por este motivo, no era posible la circulación de DV desde/hacia el grupo de vías impar (es decir, hacia la 1.ª y 3.ª vía) en dirección a la estación de Krasíkov. Simultáneamente, estaban desconectados los circuitos de vía de los desvíos n.º 10, 12, 13 y 14 en la cabecera de Krasíkov, por lo que no era posible operar el dispositivo de seguridad a través de estos desvíos de forma normal, sino que era necesario establecer las vías ferroviarias de forma emergente en PN. La comprobación de la libre circulación de las vías ferroviarias en la cabecera de Krasíkov de la estación de Hoštejn (en el ámbito de responsabilidad desde las señales de salida L2, L4 hasta el nivel de las señales de agrupamiento Se9, Se10) debía realizarla y comunicarla a los despachantes de línea el inspector de estación presente durante la intervención en la estación de Hoštejn (en adelante también inspector de estación o inspector de estación de la estación de Hoštejn).
@@ -897,6 +906,7 @@ La despachante responsable que operaba el SZZ en la estación de Hoštejn establ
 Tras la salida del tren Ex 512, el inspector de estación comunicó a la despachante responsable la salida completa del tren Ex 512 de su ámbito de responsabilidad asignado para la libre circulación de la vía ferroviaria (según el registro en el diario de circulación en relación con el Reglamento de Estación de la estación de Hoštejn, del ámbito n.º 4 desde las señales de salida L2, L4 hasta el nivel de las señales de agrupamiento Se9, Se10), sin percatarse de que el tren, en lugar de salir en dirección a la 2.ª vía, salía por los desvíos n.º 15 y 16 en dirección equivocada hacia la 1.ª vía. La despachante responsable, tras visualizar en el monitor ZPC JOP la circulación real del tren Ex 512, se percató de su dirección de circulación incorrecta; inmediatamente tras esta constatación, se puso en contacto a través de GSM-R CZ con llamada directa en GTN con su maquinista y le dio la orden de detener por todos los medios, en un momento en el que este tren ya se estaba deteniendo tras registrar el tren en sentido contrario. El tren Os 3775 reducía la velocidad ante la señal de entrada 1S de la estación de Hoštejn que prohíbe la circulación y, tras registrar el tren en sentido contrario en la misma vía, también se detuvo de forma suave en el momento en que la despachante responsable se comunicaba con el maquinista del tren Ex 512. Los frentes de los trenes en sentido contrario se detuvieron a una distancia de 57 m.
 
 ## Página 29
+
 
 DI se dále v průběhu šetření předmětné MU zabývala otázkou, zda staniční dozorce žst.
 Hoštejn v rámci univerzální odpovědnosti stanovené za účelem zajištění co nejvyšší
@@ -946,8 +956,8 @@ D1). Neudělil mu však potřebný „Příkaz k přípravě vlakové cesty“ v
 bezpečného provozu přes odpojené kolejové obvody výhybek č. 13 a 14 na
 krasíkovském zhlaví (blíže viz doslovný přepis hovoru níže).
 
-
 ## Página 30
+
 
 Soubor: 2022_09_15_07-09-47_2.60_46_LABEL_PREROV_RD_2C_DT.mp3
 Začátek a délka záznamu: 15. 9. 2022 v 7:09:47 h, 30 s
@@ -986,8 +996,8 @@ ST: Tam to bylo i v tom rozkaze.
 ŘD: Tuto já tedy zrovna nevidím, ale dobře.
 ST: Jo dobrý, protože my děláme lepeňák mezi těma výhybkama jo, takže.
 
-
 ## Página 31
+
 
 Z důvodu neudělení „Příkazu k přípravě vlakové cesty“ řídícím dispečerem noční směny,
 tedy v době od zahájení výluky v 7:05 h do vystřídání směn řídících dispečerů oblasti 2C
@@ -1039,6 +1049,7 @@ klasickou (prováděnou formou zápisu v telefonním zápisníku) a část elekt
 
 ## Página 32
 
+
 (realizada en la aplicación GTN en la ventana Odevzdávka služby). Para la finalización exitosa de la parte electrónica de la entrega y recepción del servicio de tráfico es, sin embargo, necesario insertar en el lector de tarjetas, que forma parte del equipamiento del puesto de trabajo del despachante de vía, tras la extracción previa del PIK del despachante que finaliza el servicio, el PIK del despachante que asume el servicio. Sobre la base de los hechos anteriormente mencionados, es por tanto evidente que la entrega y recepción del servicio por escrito n.º 4106 del día 15. 9. 2022 a las 6:26:07 h se realizó únicamente de forma ficticia y que el despachante rector del turno de noche utilizó para ello el PIK de la despachante rectora del turno de día, la cual, sin embargo, en ese momento aún no se encontraba personalmente en el puesto de trabajo. A continuación, bajo este registro no autorizado, el despachante rector del turno de noche siguió desempeñando el servicio de tráfico en el área 2C CDP Přerov durante más de 1 hora, hasta las 7:31 h, cuando se produjo la entrega y recepción personal y oral del servicio en el puesto de trabajo. De qué manera consiguió el despachante rector el PIK de su compañera, si esto se realizó con su consentimiento, o si y en qué medida la forma descrita de entrega y recepción del servicio en caso de reincorporación tardía al trabajo fue una "práctica habitual", quedó sin aclarar debido a los motivos indicados a continuación.
 Con el fin de aclarar todas las circunstancias que precedieron a la aparición de la MU y de examinar la influencia del factor humano en la aparición de la MU, fueron citados para prestar declaraciones en el puesto de trabajo de la DI los despachantes rectores del área 2C CDP Přerov en servicio en el período desde el inicio de la interrupción según el ROV n.º 23171 etapa C hasta la aparición de la mencionada MU, ambos se negaron, sin embargo, a prestar declaraciones (véase más arriba).
 A modo de conclusión, no puede omitirse también el incumplimiento de los empleados del explotador ferroviario, participantes en la preparación de la interrupción, concretamente en la elaboración y aprobación del ROV n.º 23171, de fecha 16. 8. 2022, n.º ref.: 25804/2022-SŽ-OŘ OVA-NŘP. El mencionado ROV fue elaborado de forma negligente e imprecisa, cuando en la parte 6 a) de dicho ROV – "Medidas operativas y de tráfico" – para la etapa C se indica incorrectamente: "Durante la celebración de la interrupción, la estación de tráfico Hoštejn, vía de adelantamiento, estará ocupada por un empleado de tráfico (mín. con examen D03) para la comprobación de la libertad de las vías de tren en la cabeza de vía en dirección Krasíkov en el ámbito de la aguja n.º 12, el cual se comunicará con el despachante correspondiente del CDP Přerov.".
@@ -1049,8 +1060,8 @@ En la parte "9. Información al acompañamiento del tren" del mismo ROV n.º 231
 Los incumplimientos constatados dan fe no solo de la elaboración negligente del mencionado ROV, sino también de un proceso de aprobación negligente, durante el cual los citados incumplimientos no fueron detectados ni corregidos.
 Atendiendo a los numerosos incumplimientos constatados en el desempeño del servicio del despachante de vía del CDP Přerov en relación con la celebración de la interrupción prevista, fueron sometidos a examen, entre otros, los procedimientos tecnológicos internos de SŽ que regulan esta área del desempeño del servicio, es decir, principalmente las normas internas SŽ D1 y SŽ D7/2. Del análisis realizado de dichas normas se constató, entre otros, que
 
-
 ## Página 33
+
 
 la regulación primaria de la actividad de los empleados de tráfico durante las interrupciones está regulada por la norma interna SŽ D1, concretamente en los arts. 396 – 417. En el art. 404 de dicha norma se regula, a su vez, el procedimiento de los jefes de estación al iniciar la interrupción prevista, incluida la notificación a empleados concretos. Uno de los métodos de notificación de la iniciación de la interrupción por parte de los jefes de estación está, sin embargo, indicado de forma poco clara únicamente en una construcción compleja que regula relaciones más amplias en el anexo N.2.3 al final de la norma interna SŽ D7/2, mientras que en el art. 404 de la norma interna SŽ D1 (aunque su apartado 8 se ocupa también de las estaciones con DOZ) falta de forma totalmente ilógica. Los pasos individuales y el método de esta actividad no son uniformes, están indicados de forma fragmentada en dos documentos diferentes, lo que contradice las disposiciones correspondientes del sistema de garantía de seguridad del explotador ferroviario, a fin de que la información de seguridad correspondiente sea precisa, completa, uniforme, fácilmente comprensible y actualizada de la manera adecuada. La DI es de la opinión de que, en aras de la claridad y comprensibilidad de las normas internas, la regulación de la actividad de los jefes de estación al iniciar la interrupción prevista debería unificarse en un solo lugar, siendo posible lograr tales cambios mediante una simple modificación del apartado 8 o mediante la adición de un nuevo apartado en el art. 404 de la norma interna SŽ D1.
 Además, la DI, sobre la base del uso no autorizado del PIK de la despachante rectora del turno de día por parte del despachante rector del turno de noche, realizó un análisis de las normas internas y documentos que regulan el área del uso de dichas tarjetas en los puestos de trabajo de los jefes de estación, es decir, de las normas internas SŽ SM102, SŽDC PNDOZ y de la Instrucción de operación del SZZ ESA – parte 3.
@@ -1066,8 +1077,8 @@ En la investigación se constató la infracción de las disposiciones de la legi
 "La entrada de un tren en una estación de tráfico con bifurcación de vías, la circulación del tren en la estación de tráfico y la salida del tren de la estación de tráfico pueden permitirse sin la adopción de medidas adicionales, siempre que se cumplan las siguientes condiciones:
 b) los dispositivos que protegen la vía de tren frente a la circulación de vehículos ferroviarios desde vías que no están destinadas a la circulación de trenes, las agujas recorridas y las agujas de choque deben encontrarse en la posición correcta
 
-
 ## Página 34
+
 
 para la vía de tren correspondiente y no deben ser cambiadas mientras el tren no libere la parte correspondiente de la vía de tren (con excepción de las agujas de retorno automático, recorridas por la punta de los rieles),";
 •
@@ -1102,6 +1113,7 @@ art. 58 de la norma interna SŽDC (ČD) Z1:
 
 ## Página 35
 
+
 «El empleado operador debe, en las actividades relacionadas con la operación del aparato de enclavamiento, cumplir siempre también con el conjunto de maniobras y procedimientos de trabajo establecidos por las normas internas de SŽDC, ZDD y demás DAP. …»;
 •
 art. 76 del anexo 16 de la Instrucción de Estación de la est. Hoštejn:
@@ -1123,8 +1135,9 @@ art. 6.5.4. de la Instrucción de Explotación GSM-R CZ:
 ### Registro incompleto de datos en el diario de circulación por la jefa de despacho
 La jefa de despacho llevó, de acuerdo con el art. 105 y el anexo 36 de la Instrucción de Estación de la est. Hoštejn, debido a la notificación telefónica realizada sobre la ejecución de la preparación de la vía de tren, la documentación de circulación alternativa: el diario de circulación. Sin embargo, en contradicción con el punto C.1.3.5 del anexo C.1.3 de la norma interna SŽ D1, no registró en el diario de circulación algunos asientos
 
-
 ## Página 36
+
+
 simultáneamente con la notificación, o bien no realizó algunos en absoluto, como consecuencia de lo cual se produjo la ausencia de registros de datos sobre las circulaciones de los trenes Ex 1002 y Pn 53927 en el diario de circulación.
 •
 punto C.1.3.5 del anexo C.1.3 de la norma interna SŽ D1:
@@ -1153,8 +1166,8 @@ El jefe de despacho, tras el inicio de la vía, no documentó esta maniobra en l
 art. 404 apartado 12 letra a) de la norma interna SŽ D1:
 «El inicio de la vía lo documenta el jefe de estación en rojo en la aplicación operativa para la gestión de la documentación de circulación (o, en caso de avería de la misma, en la documentación de circulación alternativa)».
 
-
 ## Página 37
+
 
 ### No notificación del inicio de la vía al inspector de estación por el jefe de despacho
 El jefe de despacho no notificó el inicio de la vía al inspector de estación presente durante la vía en la est. Hoštejn con el fin de comprobar la libertad de las vías de circulación.
@@ -1187,8 +1200,8 @@ art. 317 apartado 13 de la norma interna SŽ D1:
 •
 art. 58 de la norma interna SŽDC (ČD) Z1:
 
-
 ## Página 38
+
 
 «El empleado operador debe, en las actividades relacionadas con la operación del aparato de enclavamiento, cumplir siempre también con el conjunto de maniobras y procedimientos de trabajo establecidos por las normas internas de SŽDC, ZDD y demás DAP. …».
 
@@ -1220,6 +1233,7 @@ art. 28 de la norma interna SŽDC PNDOZ:
 
 ## Página 39
 
+
 … «El procedimiento detallado de la entrega del servicio de tráfico, incluidos los modelos, se indica en el anexo n.º 8 PNDOZ… En el cuadro de diálogo GTN solo se cumplimentan las desviaciones respecto de los puntos individuales del modelo n.º 1 del anexo n.º 8 PNDOZ.»…;
 •
 anexo n.º 8 de la normativa interna de SŽ PNDOZ:
@@ -1236,8 +1250,8 @@ Por la elaboración defectuosa del ROV, de conformidad con el art. 41 apartados 
 ### Fragmentación de los procedimientos tecnológicos para la actividad de los jefes de estación al iniciar la interrupción prevista
 Uno de los procedimientos de notificación de la iniciación de la interrupción por parte de los jefes de estación se indica de forma poco clara únicamente en una construcción compleja que regula relaciones más amplias en el anexo N.2.3 al final de la normativa interna de SŽ D7/2, mientras que en el art. 404 de la normativa interna de SŽ D1 (aunque su apartado 8 se ocupa también de las estaciones con DOZ) falta por completo de forma totalmente ilógica. Los pasos individuales y el modo de esta actividad no son uniformes, se indican de forma fragmentada en dos documentos distintos, lo que contradice las disposiciones correspondientes del sistema de garantía de la seguridad del gestor de la vía, a fin de que la información de seguridad correspondiente sea precisa, completa, uniforme, fácilmente comprensible,
 
-
 ## Página 40
+
 
 adecuadamente actualizada. Con vistas a la claridad y comprensibilidad de las normativas internas, es deseable unificar la actividad de los jefes de estación al iniciar la interrupción prevista en un solo lugar, pudiéndose lograr tales modificaciones mediante la modificación del apartado 8 o mediante la adición de un nuevo apartado en el art. 404 de la normativa interna de SŽ D1.
 •
@@ -1255,8 +1269,8 @@ El transportista ČD, al explotar el transporte ferroviario, los trenes Ex 512 y
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía sobre la explotación del transporte ferroviario en la vía»;
 
-
 ## Página 41
+
 
 •
 § 71 apartado 5 letra a) del Decreto n.º 173/1995 Sb.:
@@ -1272,8 +1286,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.5 Organismos notificados, organismos designados y organismos dedicados a la evaluación de riesgos
 En la investigación no se constató infracción de las funciones y obligaciones de los organismos notificados, de los organismos designados ni de los organismos dedicados a la evaluación de riesgos.
 
-
 ## Página 42
+
 
 ### 4.1.6 Organismos de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de los organismos de certificación responsables del mantenimiento de los vehículos ferroviarios.
@@ -1295,6 +1309,7 @@ En la investigación no se detectaron otros factores relacionados con los vehíc
 
 ## Página 43
 
+
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
@@ -1315,8 +1330,8 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
-
 ## Página 44
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
 y la garantía de seguridad, y procedimientos de seguimiento
@@ -1339,8 +1354,8 @@ En la investigación no se detectaron otros factores sistémicos.
 El DI registra desde 2017 hasta la fecha de origen del citado MU en las vías ferroviarias, categoría nacional y regional, un total de 16 MU similares, en los que se produjo una circulación no asegurada de un tren por una ruta de tren mal establecida y la circulación por una vía ocupada por otro DV sin que se produjera una colisión posterior ni un descarrilamiento.
 En el período indicado, el DI investigó un total de 5 MU similares:
 
-
 ## Página 45
+
 
 •
 del 11. 3. 2019 en la est. Most nové nádraží, donde se produjo una circulación no asegurada del tren Pn 62502 desde la SK n.º 37 en el ámbito de St. 1 a la SK n.º 91 en el ámbito de St. 5 por una vía ocupada por un elemento de maniobra detenido. La causa inmediata del origen del MU fue la no finalización de la maniobra que la anulaba y la no comprobación de la disponibilidad de la ruta de tren para la circulación del tren Pn 62502;
@@ -1364,8 +1379,8 @@ modificar la situación existente, en la que la información sobre los requisito
 minimizar en general el número de órdenes de emergencia – circulaciones en PN, especialmente durante interrupciones de varios días, y con ello lograr aumentar la seguridad en la gestión del transporte ferroviario, es decir, evitar la aparición de MU similares.
 A efectos de verificar si la recomendación de seguridad indicada en el primer punto del ZZ al MU Český Brod había sido aplicada a la práctica por el gestor de la vía SŽ, el DI realizó el día 15. 2. 2023 en el puesto de trabajo de SŽ, CDP Přerov, una prueba de verificación. Durante la prueba de verificación
 
-
 ## Página 46
+
 
 se realizó en el ZPC JOP de ejercicio una simulación de la explotación del SZZ con la salida del tren Ex 512 mediante la establección de una ruta de tren de emergencia (en PN) desde la 2.ª SK de la est. Hoštejn en dirección a la 2.ª TK hasta la est. Krasíkov. Tras la introducción de la ruta de tren de emergencia para la salida del tren, en el monitor izquierdo del ZPC JOP se abrió una ventana de la función de riesgo en curso con el listado de los requisitos controlados no cumplidos para la ruta de tren introducida (advirtiendo, entre otros, de la posición incorrecta de los desvíos n.º 15 y 16 y de los tramos de vía V13 y V14 ocupados), y estos elementos con requisitos no cumplidos se resaltaron en el relieve de la vía con un subrayado rojo discontinuo. Se subrayaron así todos los elementos mostrados en la página de riesgos, hasta que se confirmó mediante la secuencia de confirmación «asdf, Enter» el cumplimiento de los requisitos no cumplidos por un medio sustitutivo.
 Mediante la prueba de verificación realizada se constató que el gestor de la vía SŽ, si bien había incorporado a la práctica la recomendación de seguridad indicada en el primer punto del ZZ al MU Český Brod, no lo había hecho del todo conforme a la intención original prevista por el DI, que era facilitar a las personas que gestionan el transporte ferroviario un aviso de la situación en que la ruta de tren prevista no se establecería según su solicitud (es decir, se autorizaría la circulación por una vía o línea distinta de la elegida), mediante la representación gráfica de los elementos correspondientes (típicamente los desvíos) en el monitor con el relieve de la vía (es decir, más allá del listado de requisitos no cumplidos en la página de riesgos, donde puede producirse, por motivo de rutina, el hecho de pasar por alto esta información grave entre otros requisitos no cumplidos que se repiten de forma prolongada).
@@ -1389,6 +1404,7 @@ Del análisis de la situación existente se constató que puede ser conveniente,
 
 ## Página 47
 
+
 acuerdo). El gráfico de aviso en relieve permite al empleado operativo cuidadoso una orientación más rápida en la situación y ofrece también la posibilidad de comparar las distintas filas desde el punto de vista de la página de riesgo (visualización segura) con la representación gráfica de los elementos en el relieve de la vía. Por otro lado, la representación repetida de varios elementos refuerza la rutina y la situación en la que de pronto se subraya de forma discontinua una casilla más no es evidente a primera vista. Por ello, la DI propone en las conclusiones de esta ZZ nuevas recomendaciones de seguridad.
 La primera tiende a imposibilitar la establecimiento por parte del empleado operativo de una ruta de tren de emergencia introducida, que conduzca a que un tren circule por una vía distinta de la elegida por el empleado operativo o a que los vehículos ferroviarios circulen en sentido contrario por la misma vía.
 La segunda tiende análogamente a imposibilitar la establecimiento de una ruta de tren sobre una vía sobre la que a la vez esté establecida una ruta de tren de emergencia en sentido contrario o una ruta de maniobras de emergencia.
@@ -1407,8 +1423,8 @@ La causa sistémica no fue determinada por la DI.
 occurrence
 Causal factor:
 
-
 ## Página 48
+
 
 •
 permission to drive for train No. 512 at Hoštejn station at the calling-on signal along
@@ -1449,8 +1465,8 @@ emergency train routes. The order was included in CDP Director's Instruction No.
 3/2019 - Control activity in the traffic management section by amendment number
 4;
 
-
 ## Página 49
+
 
 •
 the IM requested for a change of the ZTP-JOP, a duplicate confirmation of selected
@@ -1503,8 +1519,8 @@ empleo de DV no dotados de medios técnicos para su parada automática al operar
 ### Additional observations
 At the infrastructure manager SŽ:
 
-
 ## Página 50
+
 
 •
 failure to use of the G-STOP function by the track dispatcher after detecting the
@@ -1552,6 +1568,7 @@ como complemento adecuado de la recomendación de seguridad anterior para la sec
 
 ## Página 51
 
+
 impedimento para la establecimiento de una vía de tren en la vía sobre la que a su vez está establecida una vía de tren de emergencia en sentido contrario o una vía de maniobras de emergencia;
 •
 hasta la realización de la primera recomendación de seguridad anteriormente mencionada, considerar en estos dispositivos la configuración de la prioridad de visualización en el ordenador de entrada del puesto de servicio unificado de modo que, durante la visualización de la página de riesgo en el relieve de la vía, no se resalten con un fondo rojo discontinuo aquellos elementos de esta página de riesgo que están marcados con una etiqueta de advertencia (se introduce y se elimina con la orden "STIT") o con una etiqueta de ocupación de vía (se introduce y se elimina con la orden "VYL"), y el empleado de servicio ya les advierta de otra manera (el empleado de servicio marcó estos elementos con conocimiento de la necesidad de garantizar el cumplimiento de las condiciones incumplidas de forma alternativa);
@@ -1572,8 +1589,8 @@ garantizar al mismo tiempo para estos dispositivos que se impida la creación de
 •
 hasta la implementación de la primera recomendación de seguridad mencionada anteriormente, para estos dispositivos, considerar la configuración de la prioridad de visualización en el ordenador de entrada del puesto de servicio unificado de modo que, durante la visualización de la página de riesgo en el relieve de la vía, no se resalten con un fondo rojo discontinuo aquellos elementos de esta página de riesgo que están marcados con una etiqueta de advertencia (se introduce y se elimina con la orden
 
-
 ## Página 52
+
 
 "STIT") o con una etiqueta de ocupación de vía (se introduce y se elimina con la orden "VYL") y el empleado de servicio sea alertado de otra manera (el empleado de servicio marcó estos elementos con conocimiento de la necesidad de garantizar el cumplimiento de las condiciones incumplidas de forma alternativa);
 •
@@ -1589,8 +1606,8 @@ inspector
 Inspección Territorial de Brno
 Inspección Territorial de Brno
 
-
 ## Página 53
+
 
 ### ANEXOS
 Fig. n.º 3: Vista en dirección a la cabecera de Krasíkov de la estación de Hoštejn con las señales de salida L1, L2, L3 y L4 desde la dirección del edificio de la estación.

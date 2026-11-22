@@ -10,13 +10,13 @@ chars: 45797
 ratio_longitud: 1.07
 tokens_in: 15384
 tokens_out: 10810
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 18: cifras largas: faltan 5/5 (100%)"]
-notas_cifras: ["página 8: cifras cortas: 1/10", "página 16: ratio 1.98", "página 17: cifras cortas: 5/11"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Centro de Investigación  
 de la Oficina Federal de Investigación de Accidentes Ferroviarios  
@@ -31,17 +31,17 @@ Suceso peligroso en el servicio ferroviario
 | Número de vía: | 2600 |
 | Kilómetro: | 66 0 , |
 
-
 ## Página 2
+
 
 ### Publicado por: 
 Ministerio Federal de Transporte e Infraestructura Digital  
 Oficina Federal de Investigación de Accidentes Ferroviarios  
 Robert-Schuman-Platz 1 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 ## Índice: 
 Página 
@@ -92,10 +92,10 @@ Inspección de los vehículos ..................................................
 4.5.3 
 Documentación de mantenimiento de vehículos ............................................................. 18 
 4.6 
-Resultado del informe pericial sobre incendios ............................................................................ 19 
-
+Resultado del informe pericial sobre incendios ............................................................................ 19
 
 ## Página 4
+
 
 | 5 | Evaluación y conclusiones 23 ............................................................. |
 | 6 | Medidas adoptadas hasta la fecha 23 ......................................................................... |
@@ -108,10 +108,10 @@ Fig. 4: Vagón de pasajeros quemado en dirección a la cabina de conducción 1 .
 Fig. 5: Caja de vagón quemada .................................................................................... 18 
 Fig. 6: Zona de embarque ......................................................................................................... 18 
 Fig. 7: Disposición del armario eléctrico en el VTr ................................................................................. 18 
-Fig. 8: Extracto de instrucción para el conductor ............................................................................................... 24 
-
+Fig. 8: Extracto de instrucción para el conductor ............................................................................................... 24
 
 ## Página 5
+
 
 ## Glosario de siglas 
 AEG 
@@ -171,6 +171,7 @@ Cable de alimentación del tren
 
 ## Página 6
 
+
 # 1 
 # Resumen 
 El capítulo Resumen se ocupa de la descripción breve del suceso y ofrece una visión general de las consecuencias derivadas de la ocurrencia del suceso. En la última sección de este capítulo se identifica la causa del suceso. 
@@ -187,16 +188,16 @@ Se produjo un daño material por un importe de aproximadamente 2.092.000 €
 ### 1.3 
 ### Causas 
 Como causa del incendio del vehículo se identificaron fallos de aislamiento en ambos trenes de tracción térmica (TZ). En un vehículo el fallo existía en el circuito positivo de alta corriente y en el otro VT en el circuito negativo.  
-Debido al acoplamiento de los vehículos, como consecuencia de los fallos de aislamiento se produjo una alta corriente de fuga. Esto provocó una sobrecarga de los componentes y cables no diseñados para ello, con un aumento de la generación de calor correspondiente. Esto resultó finalmente en el incendio del vehículo. 
-
+Debido al acoplamiento de los vehículos, como consecuencia de los fallos de aislamiento se produjo una alta corriente de fuga. Esto provocó una sobrecarga de los componentes y cables no diseñados para ello, con un aumento de la generación de calor correspondiente. Esto resultó finalmente en el incendio del vehículo.
 
 ## Página 7
 
-Fig. 1: Imágenes en el lugar del accidente 
-Fuente: Policía Federal 
 
+Fig. 1: Imágenes en el lugar del accidente 
+Fuente: Policía Federal
 
 ## Página 8
+
 
 # 2 
 # Notas preliminares 
@@ -211,10 +212,10 @@ Más detalles al respecto se encuentran disponibles en Internet en >> www.eisenb
 ### 2.2 
 ### Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y derivar de ello indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como objetivo determinar la existencia de culpa ni aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la
 
 ## Página 9
+
 
 prevención de accidentes y la mejora de la seguridad en el transporte ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otras entidades y autoridades u otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
 ### 2.3 
@@ -234,6 +235,7 @@ Tras el frenado de emergencia ya no fue posible la comunicación a través del i
 
 ## Página 10
 
+
 aparecieron mensajes de error plausibles en la pantalla de averías del vehículo. La maquinista del vehículo líder informó al encargado de tráfico (Fdl) de la estación central de Aachen (Aachen Hbf) sobre una avería en el tren motorizado (VT).  
 Mientras tanto, los pasajeros del vehículo dirigido detectaron la emisión de humo y utilizaron el sistema de intercomunicación para transmitir la información «humo en el tren» a la cabina de conducción. Las dos maquinistas del VT se comunicaron entonces mediante teléfono móvil y localizaron una situación de incendio en el vehículo dirigido.  
 Inmediatamente después, la maquinista del vehículo líder solicitó a las 10:34 horas aproximadamente al encargado de tráfico competente el cierre de la vía y ordenó la evacuación de los aproximadamente 65 pasajeros del tren. En la parte líder del tren se encontraban aproximadamente 33 viajeros, y en el VT dirigido había aproximadamente 32 viajeros. Con la ayuda, entre otros, de empleados del servicio de control de billetes, se asistió a los viajeros al abandonar el tren y se les guió a través de la zona de vías hasta fuera del área de peligro.  
@@ -242,10 +244,10 @@ Parada Eilendorf
 Estación central Stolberg(Rheinl.) Hbf
 Lugar del incidente
 Fig. 2: Extracto del mapa
-Fuente: GeoBasis-DE / BKG 2015, editado por EUB 
-
+Fuente: GeoBasis-DE / BKG 2015, editado por EUB
 
 ## Página 11
+
 
 ### 3.2 
 ### Víctimas mortales, heridos y daños materiales
@@ -271,10 +273,10 @@ En las siguientes secciones se presentan resumidas las declaraciones y posicione
 ### 4.1.1 
 ### Maquinista del vehículo líder
 La maquinista del VT líder indicó en una declaración presentada ante su empleador:  
-«Tras la salida de la parada Eilendorf con dirección a Aachen, recibí un frenado de emergencia durante la fase de aceleración. No fue posible determinar la causa de ello. En la pantalla del vehículo se mostraron varias averías. Entre ellas, «avería de dirección» (se encendió la luz indicadora) y «dos cabinas de conducción activadas».  
-
+«Tras la salida de la parada Eilendorf con dirección a Aachen, recibí un frenado de emergencia durante la fase de aceleración. No fue posible determinar la causa de ello. En la pantalla del vehículo se mostraron varias averías. Entre ellas, «avería de dirección» (se encendió la luz indicadora) y «dos cabinas de conducción activadas».
 
 ## Página 12
+
 
 Una vez que el tren se detuvo, apareció además el mensaje «botón de freno de emergencia de pasajeros accionado». Intenté contactar con una segunda maquinista mediante el botón «Conductor-Conductor», quien supuestamente se encontraba en servicio (como conductor invitado) en la segunda parte del tren, en la primera cabina de conducción. Esto no fue posible. Por ello, llamé al encargado de tráfico (Fdl) de la estación central de Aachen (Aachen Hbf) para informarle de que existía una avería grave.  
 Las luces indicadoras de «puertas cerradas» estaban apagadas. Por ello, miré por las ventanas laterales para asegurarme de que no había pasajeros sobre las vías. En el lado opuesto a las vías (a la derecha en dirección de marcha), los escalones estaban desplegados hacia el exterior. La maquinista desactivó y activó posteriormente la cabina de conducción para intentar, en su caso, eliminar la avería. Lo intentó en varias ocasiones, pero sin éxito.
@@ -287,6 +289,7 @@ Los pasajeros informaron a la maquinista de que también se estaba generando hum
 
 ## Página 13
 
+
 acompañó a los pasajeros hacia la parte delantera y abrió allí también una puerta del compartimento de pasajeros (a la derecha).  
 Informó al Jefe de Estación (Fdl) de que, junto con sus colegas, procedía a evacuar el tren, ya que la emisión de humos se había ido intensificando. Además del segundo maquinista (Tf), había otros tres empleados del servicio de inspección a bordo, cuyos nombres no eran conocidos por la maquinista (Tf-in). La maquinista (Tf-in) intercambió números de teléfono con el Jefe de Estación (Fdl), dado que ella también abandonaría el vehículo tras la evacuación.  
 Inmediatamente después, el taller de Aachen llamó a la maquinista (Tf-in). Esta le describió el incidente y comunicó además que el primer motor seguía funcionando a un régimen de revoluciones muy elevado. La propuesta del taller de detener el motor mediante el pulsador de «Parada de emergencia» (Not-Aus) no obtuvo el éxito deseado. La maquinista (Tf-in) abandonó el vehículo y se dirigió hacia los pasajeros.  
@@ -296,10 +299,10 @@ El maquinista (Tf) del vehículo conductor resumió los hechos de la siguiente m
 «El maquinista (Tf) tomó el vehículo el día del incidente ya a las 08:30 h en la estación central de Aachen (Aachen Hbf). Durante el trayecto desde Langerwehe hasta la estación de Stolberg (Rheinl.), donde se acoplaron los dos vehículos de tracción (VT), no detectó irregularidades hasta que se produjo el frenado de emergencia tras la detención en el punto de parada (Hp) de Eilendorf.  
 Tras el frenado de emergencia, intentó en cuatro ocasiones, sin éxito, establecer contacto con la maquinista (Tf-in) del vehículo conductor a través del sistema de comunicación hablada entre el maquinista (Fahrer-Sprechverbindung).  
 Tras percibir el humo que se acumulaba en la cabina de conducción y en el compartimento de pasajeros, envió a los pasajeros a la parte trasera del vehículo. A continuación, abrió las ventanas abatibles y las puertas mediante el desbloqueo de emergencia en el lado opuesto a la vía adyacente. Dos empleados del servicio de inspección le prestaron asistencia en esta tarea.  
-Tras consultar con la maquinista (Tf-in), comenzó junto con los empleados del servicio de inspección a evacuar a los viajeros.»  
-
+Tras consultar con la maquinista (Tf-in), comenzó junto con los empleados del servicio de inspección a evacuar a los viajeros.»
 
 ## Página 14
+
 
 ### 4.2 
 ### Gestión de emergencias  
@@ -316,6 +319,7 @@ No se obtuvieron conclusiones sobre las causas de la comunicación retardada a l
 La línea ferroviaria en cuestión es la línea principal Colonia Hbf - Aachen Hbf - Aachen Süd - Frontera estatal (-Welkenraedt), que en el tramo afectado está construida con doble vía. Por parte del gestor de infraestructura DB Netz AG, la línea figura en el registro de las velocidades
 
 ## Página 15
+
 
 velocidades (VzG) bajo el número de VzG 2600. En el tramo afectado, la línea electrificada está equipada para una velocidad máxima de 140 km/h y una distancia de frenado de 1000 m. Están presentes ZF y el sistema de control de trenes puntual (PZB). La posibilidad de circular por la vía contraria en el punto de señal Zs 6 (indicador de vía contraria) está establecida permanentemente.
 No se han hecho conocidas a la EUB irregularidades ni circunstancias que favorezcan la ocurrencia del incidente, procedentes de la infraestructura o de la tecnología de conducción y seguridad, en el marco de este incidente.
@@ -336,6 +340,7 @@ Los resultados del peritaje de incendio encargado se resumen en la última secci
 Los dos trenes (TZ) implicados, de tipo constructivo idéntico, son vehículos del tipo Talent Serie (BR) 643.2 fabricados por la empresa Bombardier Transportation. Los vehículos están autorizados tanto para la explotación conforme a la Ordenanza de Construcción y Explotación Ferroviaria (EBO) como para la explotación conforme a la Ordenanza de Construcción y Explotación de Tranvías (BoStrab). Ma-
 
 ## Página 16
+
 
 ximamente, el tipo constructivo puede explotarse hasta en una combinación cuádruple. El titular del vehículo era DB Regio AG. DB Regio NRW GmbH presta servicios de transporte local para el consorcio de transporte de Aquisgrán bajo la marca «euregiobahn» con los trenes (TZ).
 Los vehículos disponen de dos motores diésel, cada uno con una potencia de 315 kW. La transmisión de la fuerza se realiza mecánicamente.
@@ -373,6 +378,7 @@ La cabina de conducción 1 y la zona de pasajeros hasta la segunda unión entre 
 
 ## Página 17
 
+
 Fig. 5: Caja del vehículo completamente quemada
 Fig. 6: Zona de entrada
 El foco del incendio se encontraba en la zona de los cuadros eléctricos 2a (+A212) y 1a, detrás de la cabina de conducción 1.
@@ -384,9 +390,17 @@ La correspondiente «Declaración de autorización para la explotación» del TZ
 
 ## Página 18
 
-ridad de la misma no revelaron ninguna irregularidad que pudiera haber contribuido a la ocurrencia del incidente.
+Fig. 5: Carrocería quemada
+Fig. 6: Zona de acceso
+El origen del incendio se encontraba en la zona de los cuadros eléctricos 2a (+A212) y 1a, detrás de la cabina de conducción 1.
+Fig. 7: Disposición de los cuadros eléctricos en el VT
+Esta conclusión se pudo extraer a partir de las declaraciones del Tf, de las averías funcionales y de las marcas de quemadura determinadas por el perito.
+### 4.5.3 Documentación de mantenimiento del material rodante
+De la documentación de mantenimiento presentada no se desprendieron, en ninguno de los dos VT, indicios ni pistas sobre defectos de aislamiento. En el marco de la revisión posterior, debe realizarse la comprobación de aislamiento. La «Declaración de liberación para la circulación» del TZ-224, emitida como resultado de una revisión posterior realizada con éxito, de fecha 13.06.2012, no contenía anomalías.
+La correspondiente «Declaración de liberación para la circulación» del TZ-225, de fecha 22.06.2012, fue emitida, pero contenía restricciones. La ventilación en la cabina de conducción 1 no funcionaba. Una consideración más detallada de la documentación relativa a esta avería y de la temporal-
 
 ## Página 19
+
 
 se versagte und später erteilte Freigabe zum Betrieb waren nicht schlüssig. Für die weitere 
 Untersuchung des Ereignisses waren die Erkenntnisse jedoch ohne Bedeutung. 
@@ -424,10 +438,10 @@ ser konnte nicht über vorgeschaltete Sicherungen oder Leitungsschutzschalter un
 werden, so dass sich eine Stresssituation ergab, was zur Entflammung von Brandlasten im 
 Schaltschrank 1 (+A211) des TZ-225 führte. 
 ## 3. 
-### Was ergab sich für ein Ereignisverlauf? 
-
+### Was ergab sich für ein Ereignisverlauf?
 
 ## Página 20
+
 
 Durch die thermische Wirkung des Fehler- bzw. Kurzschlussstromes in den für diesen Fall 
 nicht „dimensionierten“ Leitungen und / oder den einbezogenen Komponenten, ergab sich zu 
@@ -466,6 +480,7 @@ sich eine Aktivierung weiterer Brandlasten im Schaltschrank. Die vorliegende Dok
 
 ## Página 21
 
+
 del armario de conmutación no permite extraer conclusiones sobre el tendido de cableado en el interior del armario. Por lo tanto, no puede formularse una afirmación sólida sobre hasta qué punto la corriente de cortocircuito (y la sobrecarga térmica resultante de la misma) afectó al suministro de la válvula SIFA en la línea colectora de tren (ZSL) «Negativo» y en su continuación. Está demostrado que los conectores de paso implicados -X104 y -X111 se encuentran en las inmediaciones del conector de paso -X100.
 Debido a la combustión total del armario de conmutación, se produjo la descarga de las baterías del vehículo a través de la corriente de la batería en cortocircuito y la propagación del incendio al espacio interior del techo.
 A través del espacio intermedio «Techo interior del vagón de pasajeros hasta la estructura del techo en obra gruesa», el incendio se extendió por el vehículo, como se evidencia en los distintos niveles de intensidad con la penetración del fuego o la propagación del incendio al vagón de pasajeros o a la cabina de conducción.
@@ -478,10 +493,10 @@ Un error sistémico como causa del incendio es prácticamente excluido debido a 
 ### ¿Qué medidas (a corto, medio y largo plazo) deben implementarse respecto a 
 ### la prevención del incidente en cuestión en los vehículos del tipo 
 ### de construcción afectado?
-Como resultado de los análisis del incidente de incendio y de la evaluación del riesgo residual en relación con el peligro para las personas, desde la perspectiva de la implementación rápida y proporcional necesaria, se especifica la siguiente medida: 
-
+Como resultado de los análisis del incidente de incendio y de la evaluación del riesgo residual en relación con el peligro para las personas, desde la perspectiva de la implementación rápida y proporcional necesaria, se especifica la siguiente medida:
 
 ## Página 22
+
 
 Medida inmediata: 
 M-1: publicación inmediata de la instrucción personal a la centralita de control y a los conductores de las unidades de tracción. Plazo: emitida el 15.05.2013, válida a partir del 24.05.2013. 
@@ -492,10 +507,10 @@ La instrucción de trabajo debe incluirse a continuación en los manuales operat
 La instrucción de trabajo debe incluirse a continuación en los manuales operativos para los conductores de las unidades de tracción. 
 3. Los vehículos con errores de aislamiento detectados (tanto en el circuito positivo como en el negativo) deben ser conducidos por la centralita de control lo antes posible, pero como máximo a la reparación planificada. 
 4. Los vehículos con errores de aislamiento no deben ser autorizados para el servicio de pasajeros tras la inspección vinculada al mantenimiento. El error de aislamiento debe subsanarse dentro de un plazo establecido. 
-Tras la finalización de estas medidas, pueden excluirse casi por completo incidentes de incendio de este tipo. 
-
+Tras la finalización de estas medidas, pueden excluirse casi por completo incidentes de incendio de este tipo.
 
 ## Página 23
+
 
 Medida a medio y largo plazo: 
 (…) 
@@ -514,14 +529,15 @@ Como resultado de las investigaciones conjuntas y de los resultados que se deriv
 
 ## Página 24
 
+
 Fig. 8: Extracto de la instrucción para el conductor
 A juzgar por las experiencias derivadas de la explotación, las instrucciones son aplicadas por el personal. Se sensibilizó a los conductores y al personal de las centrales de control para prestar especial atención al tema de los cortocircuitos masivos. Gracias a la sensibilización del personal, no se produjeron otros incidentes con relevancia para la seguridad.
 El resultado obtenido hasta la fecha de la evaluación especial de la documentación de las causas de los fallos de aislamiento, llevada a cabo como medida M-3 a raíz del peritaje, se presenta, según los datos de DB Regio AG, del siguiente modo:
 «La evaluación ha arrojado como resultado que las causas son tan variadas que no se pueden derivar cambios específicos en el manual de mantenimiento. Según la normativa, la comprobación del estado del aislamiento a partir del nivel de mantenimiento más básico (inspección visual) garantiza que las desviaciones o los estados defectuosos del aislamiento se subsanen de inmediato y que se realice un mantenimiento adecuado.
 Se detectaron y documentaron 30 casos de fallos de aislamiento en 15 unidades de tracción de la serie 643.2 en el taller
 
-
 ## Página 25
+
 
 de Aachen. La comprobación del aislamiento se realiza tras cada inspección visual. Las unidades de tracción de la serie VT 643.2 están domiciliadas en DB únicamente en la sede de Aachen.
 De los informes de vuelta se desprendieron causas muy diversas que condujeron a fallos de aislamiento. Sobre la base de los consumos de materiales, se determinaron, por ejemplo, como causas los motores de arranque y los conectores cúbicos en las válvulas magnéticas. Las causas radican en la entrada de humedad en las conexiones eléctricas enchufables, respectivamente, en el desgaste de carbón que se produce en el motor de arranque.»

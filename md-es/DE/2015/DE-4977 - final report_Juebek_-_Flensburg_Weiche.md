@@ -10,13 +10,13 @@ chars: 39351
 ratio_longitud: 1.05
 tokens_in: 20702
 tokens_out: 10966
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 13: cifras largas: faltan 2/2 (100%)"]
-notas_cifras: ["página 11: cifras cortas: 2/7", "página 17: cifras cortas: 4/7", "página 19: cifras cortas: 2/12", "página 21: cifras cortas: 1/13", "página 22: cifras cortas: 1/16", "página 23: cifras cortas: 1/13"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -33,16 +33,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 1040 |
 | Punto kilométrico: | 1620 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -95,8 +95,8 @@ Instalación TH BÜP tipo Flex Mobil............................................
 Investigación de los procesos operativos del gestor de infraestructura................. 12
 I
 
-
 ## Página 4
+
 
 | 4 5 1 . . | Acciones del Fdl 12 ............................................................................................... |
 | 4 5 2 . . | Acciones del BÜP 14 ............................................................................................. |
@@ -113,8 +113,8 @@ Modificación
 Estado
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -136,6 +136,7 @@ Tabla 3: Datos técnicos de la locomotora Fz-Nr. 91 86 0103 104-3...............
 III
 
 ## Página 6
+
 
 ## IV. 
 ## Índice de abreviaturas: 
@@ -185,10 +186,10 @@ TM
 Comunicación técnica 
 VzG 
 Registro de velocidades localmente autorizadas 
-IV 
-
+IV
 
 ## Página 7
+
 
 ## 1 Observaciones previas 
 El capítulo Observaciones previas se ocupa de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se menciona la base legal y se describe brevemente la organización exterior. 
@@ -197,17 +198,17 @@ Con la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, sobre segurida
 La Directiva fue transpuesta mediante la 5.ª Ley de Modificación de Disposiciones Jurídicas Ferroviarias de 16.04.2007 y se creó la Oficina Federal de Investigación de Accidentes Ferroviarios (EUB). 
 Mediante la Ley de Reorganización de la Investigación de Accidentes Ferroviarios de 27.06.2017 se crearon, entre otros, los fundamentos jurídicos para el establecimiento de la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). Con ello se modificaron la Ley General de Ferrocarriles (AEG) y la Ley Federal de Administración del Tráfico Ferroviario (BEVVG), transfiriéndose competencias y atribuciones al nuevo organismo, la BEU. Con el establecimiento de la BEU se disolvió la EUB, compuesta por la dirección de la EUB en el Ministerio Federal de Transporte e Infraestructura Digital (BMVI) y el centro de investigación de la EUB en la Agencia Federal de Ferrocarriles (EBA). Con la orden de organización del Ministerio Federal de Transporte e Infraestructura Digital para el establecimiento de la Oficina Federal de Investigación de Accidentes Ferroviarios de 14.07.2017, la BEU fue creada como autoridad federal superior independiente en el ámbito funcional del BMVI para el cumplimiento de las tareas previstas en el § 7 BEVVG. Las tareas de investigación de determinados sucesos peligrosos en la explotación ferroviaria pasaron sin solución de continuidad de la EUB a la BEU. 
 Dado que el suceso peligroso se produjo antes del establecimiento de la BEU, determinadas actuaciones de investigación fueron realizadas aún por la EUB, a las que se hace la correspondiente referencia en el informe. Todos los hallazgos obtenidos durante la investigación fueron compartidos continuamente con los ferrocarriles afectados y con la autoridad de seguridad, y se emitieron recomendaciones de seguridad relativas a casos concretos. 
-Más información al respecto está disponible en internet en www.beu.bund.de. 
-
+Más información al respecto está disponible en internet en www.beu.bund.de.
 
 ## Página 8
 
+
 ### 1.2 Objeto de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es esclarecer las causas de los sucesos peligrosos y extraer de ellos indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se realizan con independencia de cualquier investigación judicial. 
-La investigación abarca la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, en la medida necesaria, a otros organismos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación abarca la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, en la medida necesaria, a otros organismos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 9
+
 
 ## 2 Resumen 
 El capítulo se ocupa de una breve descripción del desarrollo del suceso, de las consecuencias y de las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que, en su caso, se hayan emitido. 
@@ -218,10 +219,10 @@ Los conductores de los dos turismos resultaron gravemente heridos y una tercera 
 ### 2.3 Causas 
 La protección del BÜ fue levantada tras la circulación del tren RE 21072, a pesar de que el tren KT 40549, procedente de Flensburg Weiche, aún se encontraba en el tramo de vía y no había transitado todavía por el BÜ. 
 ### 2.4 Recomendaciones de seguridad 
-No se emitieron recomendaciones de seguridad. 
-
+No se emitieron recomendaciones de seguridad.
 
 ## Página 10
+
 
 ## 3 Datos generales 
 El capítulo contiene datos generales sobre la descripción del lugar del suceso y de las instalaciones ferroviarias relevantes. Asimismo, se indican los organismos que participaron y colaboraron en la investigación del accidente, las condiciones exteriores, el número de personas heridas y fallecidas en el suceso, así como el tipo y la cuantía de los daños consecuentes. 
@@ -232,6 +233,7 @@ Figura 1: Plano de situación1
 1 Fuente: Datos geobásicos © GeoBasis-DE / BKG [2020], editado por BEU
 
 ## Página 11
+
 
 Estaba equipado con radiotelefonía digital de tren Global System for Mobile Communications Rail (GSM-R). Como sistema de protección de trenes se utilizó la protección puntual de trenes (PZB).
 El paso a nivel (BÜ) se encuentra en el pk 162,0, cerca de la parada de Tarp (véase croquis de disposición de vías, figura 2). Las estaciones operativas vecinas son la estación de Jübek y la estación de Flensburg Weiche.
@@ -244,8 +246,8 @@ En el suceso participaron los siguientes organismos:
 - POND Security Bahn Service GmbH Berlin como empresa de vigilancia
 ² Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 12
+
 
 En el marco de la investigación de los hechos y del análisis de causas, además de los participantes mencionados, se incorporaron los siguientes organismos adicionales:
 - DB AG Zentrale Auswertestelle Nürnberg
@@ -275,16 +277,15 @@ La figura 3 muestra el paso a nivel (BÜ) en el pk 162,0 después del accidente,
 La figura 4 está tomada desde el paso a nivel con vista en el sentido de circulación del KT 40549.
 En primer plano se observa, en cada caso, el segundo turismo accidentado, que fue lanzado al andén de la parada de Tarp.
 
-
 ## Página 13
 
-Figura 3: Paso a nivel después de la colisión, en contra del sentido de circulación del KT 40549³
-Figura 4: Toma en el sentido de circulación del KT 40549⁴
-³ Fuente: DB Netz AG, editado por BEU
-⁴ Fuente: DB Netz AG, editado por BEU
-
+Figura 3: BÜ tras la colisión en sentido contrario a la dirección de marcha del KT 405493
+Figura 4: Imagen en la dirección de marcha del KT 405494
+3 Fuente: DB Netz AG, elaborado por BEU
+4 Fuente: DB Netz AG, elaborado por BEU
 
 ## Página 14
+
 
 ## 4 Protocolo de investigación
 En este capítulo se presentan los resultados obtenidos sobre los distintos ámbitos parciales del sector ferroviario relacionados con el suceso. Asimismo, se examinaron las correspondientes interfaces así como la gestión de la seguridad en el ámbito afectado. Los hallazgos relevantes en cada caso se van enumerando a continuación.
@@ -301,6 +302,7 @@ La infraestructura de construcción no tuvo ninguna influencia causal en la prod
 
 ## Página 15
 
+
 ### 4.4 Examen de la técnica de mando y de seguridad (LST)
 El tramo de línea entre la aguja de Flensburg y Jübek está integrado en el ámbito de maniobra del puesto de mando electrónico de Flensburg.
 El paso a nivel en el pk 162,0 estaba protegido en estado normal por una instalación de señalización de tipo EBÜT 80 – LzH/F-Fü con cinco barreras y cinco señales luminosas.
@@ -313,6 +315,7 @@ No existía la posibilidad de una operación conjunta de dos TH BÜP de la const
 
 ## Página 16
 
+
 En la TM 4-2015-10111 I.NPF 2 se hacía referencia únicamente al empleo de un TH BÜP de la construcción Flex Mobil como instalación única. Sobre el empleo de varias instalaciones Flex Mobil en un mismo paso a nivel no se había realizado ninguna declaración al respecto.
 Tampoco en la instrucción de explotación para el TH BÜP de la construcción Flex Mobil se había tratado este supuesto de empleo.
 Conforme a la TM, antes del uso de la instalación de protección móvil para la asistencia al BÜP, el responsable de instalación (ALV) de vía (Fb), en coordinación con el ALV LST, debía comprobar si el empleo era técnicamente posible.
@@ -324,6 +327,7 @@ Las dos unidades de mando, representadas mediante rectángulos con rayo integrad
 
 ## Página 17
 
+
 Figura 5: Representación esquemática de las instalaciones Flex Mobil en el paso a nivel en el pk 162,0⁵
 Para el caso de que durante un cierre se anunciara un segundo tren, en la caja de operación de cada unidad de mando Flex Mobil, a la altura de la llave de conmutación, había una banda de advertencia con la inscripción „Zweiter Zug" (Segundo tren), como se muestra en la figura 6, la cual debía colocarse sobre la llave conforme a las instrucciones de operación.
 Figura 6: Caja de operación Flex Mobil llave de conmutación con banda de advertencia segundo tren⁶
@@ -331,6 +335,7 @@ Figura 6: Caja de operación Flex Mobil llave de conmutación con banda de adver
 ⁶ Fuente: Instrucciones de operación Flex Mobil de Schweizer Electronic AG
 
 ## Página 18
+
 
 No se realizó una lectura oportuna de las instalaciones TH BÜP inmediatamente después del suceso.
 Los registros fueron leídos por primera vez el 20.11.2015 a petición de la policía del estado de Schleswig-Holstein, comisaría de Tarp. En ello se constató que durante todo el tiempo de empleo de las instalaciones en este paso a nivel no se habían producido averías relevantes para la seguridad.
@@ -348,6 +353,7 @@ El RE 21072 salió de la estación de Jübek a las 17:46, es decir, cuatro minut
 
 ## Página 19
 
+
 KT 40549 ya a las 17:48 h, es decir, un minuto antes de lo comunicado, salió de la estación de Flensburg Weiche.
 Abbildung 7: Extracto de la impresora de números de tren⁷
 La comunicación de tren para el RE 21072 habría tenido que ser corregida de acuerdo con Ril 408.0221 Sección 3, párrafo 8.
@@ -360,8 +366,8 @@ Los dos trenes, que con arreglo a los tiempos mínimos de recorrido habrían pas
 7 Fuente: DB Netz AG, editado por BEU
 8 Fuente: Ril 408.0221 Sección 3 párrafo 8
 
-
 ## Página 20
+
 
 ### 4.5.2 Acciones del BÜP
 ### Personal empleado
@@ -380,8 +386,8 @@ Tenía que
 - proteger el BÜ con la ayuda de dos TH BÜP con unidades de control posicionadas de forma descentralizada y una cinta de vallado
 - tachar en el registro de notificaciones los trenes que hubieran pasado y levantar de nuevo la protección del BÜ.
 
-
 ## Página 21
+
 
 El BÜP tenía que proteger el BÜ durante su jornada, según el libro de comunicaciones de trenes, en un total de 38 circulaciones de tren. De ellas, según el registro de notificaciones, correspondieron al periodo comprendido entre las 15:07 h y las 17:55 h (hora del accidente) un total de 14, y a los últimos 20 minutos antes de la colisión cinco circulaciones de tren.
 El BÜP disponía como medio auxiliar de dos TH BÜP del tipo Flex Mobil de la empresa Schweizer Electronic AG, que debían operarse con unidades de control separadas.
@@ -393,8 +399,8 @@ El BÜ habría tenido que estar protegido por el BÜP para el RE 21072, según l
 
 9 Fuente: DB Netz AG
 
-
 ## Página 22
+
 
 Sin embargo, el RE 21072, según la hora indicada en la impresora de números de tren, solo salió de Jübek a las 17:46 h, cuatro minutos después de la hora comunicada al BÜP. La llegada al BÜ en el pk 162,0 se produjo a las 17:53 h.
 En el registro de notificaciones, el RE 21072 procedente de Jübek ya había sido tachado.
@@ -403,8 +409,8 @@ Este tren constaba en el registro de notificaciones, como se desprende de la fig
 Abbildung 9: Registro de notificaciones¹⁰
 10 Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 23
+
 
 Fue avisado de salida desde Flensburg Weiche para las 17:49 h. El momento calculado para la protección del BÜ habría sido, por tanto, a las 17:52 h.
 De acuerdo con la Ril 456.0020, Sección 12, párrafo 1, el BÜP solo puede liberar el BÜ cuando
@@ -421,6 +427,7 @@ Según el horario de a bordo, al tren KT 40549 se le había fijado una velocidad
 
 ## Página 24
 
+
 Figura 10: Representación gráfica de la evolución de la marcha del KT 40549
 Antes del BÜ, el conductor del tren pulsó repetidamente la tecla de vigilancia.
 A una velocidad de ca. 95 km/h se registró entonces ca. en el pk 161,9 una descarga de presión a menos de 2,2 bar en la tubería principal de freno del tren. Tras la caída de presión, el tren frenó en un tramo de ca. 575 m de longitud y en un tiempo de 39 segundos hasta detenerse ca. en el pk 161,3.
@@ -429,8 +436,8 @@ El punto exacto del impacto con los vehículos no puede determinarse a partir de
 El tren RE 21072 de la empresa ferroviaria DB Regio Nord AG había pasado ya el BÜ en el momento del accidente y había continuado sin más restricciones hasta su estación de destino, Flensburg. No hubo una participación directa en el suceso del accidente. Por lo tanto, no se evaluó la evolución de la marcha.
 Las actuaciones operativas de empleados de DB Regio Nord AG y de DB Schenker Rail Danmark AG no tuvieron ninguna influencia causal en la producción del accidente.
 
-
 ## Página 25
+
 
 ### 4.7 Examen de los vehículos
 El vehículo que encabezaba el tren KT 40549 era una locomotora (Tfz) de la serie DSB EG de DB Schenker Rail Danmark con el n.º de material 91 86 0103 104-3.
@@ -446,8 +453,8 @@ De la tabla siguiente pueden extraerse los datos técnicos del vehículo:
 Tabla 3: Datos técnicos Tfz n.º de material 91 86 0103 104-3
 Los vehículos ferroviarios implicados no tuvieron ninguna influencia causal en la producción del suceso.
 
-
 ## Página 26
+
 
 ## 5 Evaluación
 El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las constataciones mencionadas más arriba, se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
@@ -459,8 +466,8 @@ El RE 21072 fue anunciado por el Fdl Ff en Flensburg con previsión de salida/pa
 El RE 21072 tenía una parada de servicio programada en la estación de Tarp y a continuación recorrió el BÜ en la vía general en dirección a Flensburg. Después, el BÜP levantó la protección del BÜ antes de que el KT 40549 hubiera pasado el BÜ. Dos turismos, que circulaban por el BÜ en ambas direcciones de circulación, chocaron con el vehículo que encabezaba el tren KT 40549 que se aproximaba en dirección desde Flensburg Weiche.
 Un turismo fue lanzado a un lado y quedó en la zona de andén de la vía general Jübek – Flensburg Weiche. El segundo turismo fue arrastrado por el tren y quedó encastrado bajo la locomotora.
 
-
 ## Página 27
+
 
 ### 5.2 Evaluación y conclusión
 El accidente fue atribuible a un error de trabajo del BÜP, que levantó de forma intempestiva la protección del BÜ para el tren KT 40549. En el registro de las notificaciones, este tren no estaba tachado y, por consiguiente, se encontraba aún en el tramo de vía entre Flensburg Weiche y el BÜ pk 162,0. El BÜP, conforme a la Ril 456.0020, no debió, por tanto, levantar la protección del BÜ tras el paso del RE 21072 en sentido contrario.
@@ -470,6 +477,7 @@ Las recomendaciones de seguridad en la evaluación del accidente en paso a nivel
 Se propuso, entre otras cosas, impulsar el uso de soluciones técnicas para minimizar los riesgos del uso de BÜP, definir requisitos mínimos para el diseño de los puestos de trabajo del BÜP y manejar de forma más restrictiva el procedimiento de autodeterminación de los tiempos de protección o sustituirlo por indicaciones claras de cuándo debe protegerse un BÜ.
 
 ## Página 28
+
 
 ## 6 Medidas adoptadas hasta la fecha
 La empresa de seguridad Pont Security Bahn Service GmbH impartió a sus empleados, con referencia a dos sucesos, el aquí investigado y otro más (no notificado) del 25.11.2015, en el que el BÜ, como medida inmediata, la instrucción de que los tiempos mínimos de permanencia según el horario para BÜP no debían computarse más y de que el BÜ debía cerrarse de inmediato.

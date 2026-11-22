@@ -37,7 +37,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [Aegviidu.23.12.2010.md](2010/Aegviidu.23.12.2010.md) | — | 231987 | revisar |
+| [Aegviidu.23.12.2010.md](2010/Aegviidu.23.12.2010.md) | — | 231987 | ok |
 | [Manniku.16.04.2010.md](2010/Manniku.16.04.2010.md) | — | 66149 | ok |
 | [Pikkjarve.21.01.10.md](2010/Pikkjarve.21.01.10.md) | — | 66119 | ok |
 

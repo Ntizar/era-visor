@@ -10,31 +10,31 @@ chars: 87896
 ratio_longitud: 1.14
 tokens_in: 32592
 tokens_out: 25310
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 10: cifras largas: faltan 1/3 (33%)", "página 13: cifras largas: faltan 4/7 (57%)"]
-notas_cifras: ["página 6: cifras cortas: 1/25", "página 11: original bilingüe: se compara contra el idioma principal (DA)", "página 15: cifras cortas: 1/20", "página 28: original bilingüe: se compara contra el idioma principal (DA); ratio 2.07", "página 29: original bilingüe: se compara contra el idioma principal (DA)", "página 37: cifras largas: 2/11; cifras cortas: 3/24"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe 2022-364 
 Derrumbe de un terraplén en Kibæk durante su demolición simultánea al paso de un tren regional 
 el 26-08-2022. 
-PUBLICADO EN AGOSTO DE 2023 
-
+PUBLICADO EN AGOSTO DE 2023
 
 ## Página 2
+
 
 # PREÁMBULO 
 La Comisión de Investigación de Accidentes de la Aviación Civil y los Ferrocarriles (Comisión de Investigación de Accidentes) es una organización estatal independiente cuyo objetivo es investigar accidentes, siniestros e incidentes en el ámbito de la aviación y los ferrocarriles. 
 La Comisión de Investigación de Accidentes investiga siniestros e incidentes en el ámbito ferroviario con el fin de mejorar la seguridad ferroviaria y prevenir siniestros.  
 De conformidad con la ley ferroviaria, este informe refleja las investigaciones y las evaluaciones de seguridad de la Comisión de Investigación de Accidentes sobre las circunstancias del siniestro o incidente, así como sus causas y consecuencias. 
 Las investigaciones tienen únicamente un propósito de seguridad ferroviaria y no pretenden atribuir culpa ni responsabilidad civil. Por ello, cualquier uso de este informe con fines distintos de la mejora de la seguridad ferroviaria o la prevención de siniestros e incidentes ferroviarios puede dar lugar a interpretaciones erróneas o engañosas. 
-Se permite la reproducción, también mediante extractos, con indicación clara de la fuente. 
-
+Se permite la reproducción, también mediante extractos, con indicación clara de la fuente.
 
 ## Página 3
+
 
 # ÍNDICE 
 GENERAL ............................................................................................................................................5 
@@ -85,10 +85,10 @@ Condiciones de seguridad del tráfico ..........................................
 3.7 
 Factores humanos ............................................................................................................27 
 3.8 
-Incidentes anteriores de naturaleza similar .........................................................................................27 
-
+Incidentes anteriores de naturaleza similar .........................................................................................27
 
 ## Página 4
+
 
 3.9 
 Otros .......................................................................................................................................27 
@@ -100,10 +100,10 @@ Información complementaria ....................................................
 7 RECOMENDACIONES ...........................................................................................................................37 
 8 ANEXOS ..............................................................................................................................................38 
 8.1 
-Extracto del contrato de mantenimiento del verde ...............................................................................38 
-
+Extracto del contrato de mantenimiento del verde ...............................................................................38
 
 ## Página 5
+
 
 ## GENERAL 
 | N.º de expediente: | 2022 364 - |  |  |
@@ -120,10 +120,10 @@ Extracto del contrato de mantenimiento del verde ...............................
 ### General 
 ### Notificación 
 La Comisión de Investigación de Accidentes recibió notificación del incidente por parte de Arriva el 26-08-2022 a las 18:37. 
-De la notificación se desprendía que se había producido un daño considerable en la infraestructura y el material, así como que ninguna persona había resultado gravemente herida. 
-
+De la notificación se desprendía que se había producido un daño considerable en la infraestructura y el material, así como que ninguna persona había resultado gravemente herida.
 
 ## Página 6
+
 
 ## 1 
 ## RESUMEN 
@@ -144,6 +144,7 @@ DK-2023 R 3 de 22-08-2023.
 La Comisión de Investigación de Accidentes recomienda que la Dirección de Tráfico (Trafikstyrelsen) garantice que Banedanmark examine si las normas relativas a la circulación con vigilancia reforzada (SR), así como la vigilancia durante la circulación con una velocidad máxima de 40 km/h (ORF), en tramos con riesgo de verse afectados por el agua, asentamientos de la vía, falta de balasto o deslizamientos en terraplenes, proporcionan una protección suficiente frente a los peligros asociados a que los trenes circulen por partes de la infraestructura que se han vuelto intransitables debido a estas circunstancias.
 
 ## Página 7
+
 
 ## 2 
 ## HECHOS 
@@ -203,10 +204,10 @@ maquinista – alumno en el tren 5362 (Lkf-E)
 • 
 maquinista – instructor de conducción en el tren 5362 (Lkf-K) 
 • 
-19 adultos y 2 niños, que eran pasajeros en el tren 5362. 
-
+19 adultos y 2 niños, que eran pasajeros en el tren 5362.
 
 ## Página 8
+
 
 Indirectamente involucrados en el suceso: 
 •
@@ -241,10 +242,10 @@ El tramo estaba equipado con bloqueo de línea sin aislamientos de sección de v
 (Bloqueo manual de señal tipo 1991), donde la seguridad del tren se basaba en el control de 
 parada y paso (cerraduras de repetición) en las señales principales correspondientes al bloqueo de línea. 
 El tramo era controlado a distancia desde el centro de mando a distancia (FC) de Banedanmark en Esbjerg, donde 
-el Jefe de Estación mediante el accionamiento manual de botones en el aparato de mando a distancia/ 
-
+el Jefe de Estación mediante el accionamiento manual de botones en el aparato de mando a distancia/
 
 ## Página 9
+
 
 panel de mosaico (FAPP) emitía órdenes a través de un PLC (Controlador Lógico 
 Programable) al equipo CTC (Centralized Traffic Control) de las subestaciones.  
@@ -256,23 +257,21 @@ El FAPP estaba equipado con el número de paso a nivel y la indicación de kiló
 indicador de paso a nivel. 
 Foto 2. FAPP en el FC Esbjerg. Fuente Banedanmark. 
 Foto 3. Primer plano de los botones de mando y los cuadros del tramo de Kibæk a Borris. Fuente 
-Banedanmark. 
-
+Banedanmark.
 
 ## Página 10
 
 ### Hechos 
-Figura 1. Vista general del tramo con indicación de los lugares con circulación con vigilancia reforzada, avisos de agua y 
-derrumbes de terraplén. 
+Figura 1. Esquema de la línea con indicación de los lugares con circulación con vigilancia reforzada, avisos de agua y rotura de diques. 
 2.2.4 
 Medios de comunicación (radio) 
-Para la comunicación entre el Stbst en FC-Esbjerg y los trenes del tramo, se utilizó la radio GSMR. Para la comunicación entre el Stbst en FC-Esbjerg y el Vigilante de Vía se utilizó el teléfono. 
+Para la comunicación entre Stbst en FC-Esbjerg y los trenes en la línea, se utilizó radio GSMR. Para la comunicación entre Stbst en FC-Esbjerg y Sporvagt se utilizó teléfono. 
 | Hora | Interlocutores | Ubicación | Contenido |
-| A las 16:19 . | Tren 95357 al FC | Circulaba entre Kibæk y Troldhede . | El Lkf informó al Stbst de agua que fluía desde un campo, en el km 86,6: "Hay tanta, que podría llegar a ser un problema en algún momento". El Stbst quería transmitir el aviso al siguiente tren . |
-| A las 16:34 . | FC al tren 5358 | Acababa de dejar Troldhede en dirección a Kibæk . | El Stbst preguntó cómo estaba el agua allí . El Lkf respondió que casi no llovía . El Stbst dijo que se trataba de agua en la vía que había preocupado al Lkf del tren anterior, pero que ya se había retirado . El Lkf dijo que |
-
+| Hora 16:19 . | Tren95357 hacia FC | Circulaba entre Kibæk y Troldhede . | Lkf informó a Stbst de agua que fluía desde un campo, en km 866 "Hay tanta, que podría llegar a ser un problema en un momento dado". Stbst quería transmitir el aviso al siguiente tren . |
+| Hora 16:34 . | FC hacia tren5358 | Acababa de dejar Troldhede hacia Kibæk . | Stbst preguntó cómo estaba el agua allí . Lkf respondió que casi no llovía . Stbst dijo que se trataba de agua en la vía que había preocupado a Lkf en el tren anterior, pero que ya se había retirado . Lkf dijo que . , |
 
 ## Página 11
+
 
 no había nada que ver, pero que 
 podría parecer que podría venir 
@@ -341,10 +340,10 @@ Stbst respondió: "Sí, o…. Es
 hasta que te parezca bien". 
 El Lkf acusó recibo con: "Circulo 
 con vigilancia reforzada hacia 
-Troldhede", y preguntó si 
-
+Troldhede", y preguntó si
 
 ## Página 12
+
 
 el Stbst quería una 
 respuesta sobre cómo estaba 
@@ -402,21 +401,19 @@ quien se refiere/entiende] acaba
 de pasar por allí, y fue bien, y 
 ya ha dejado de llover" El Lkf-E 
 acusó recibo del aviso: "Circulamos 
-con vigilancia reforzada 
-
+con vigilancia reforzada
 
 ## Página 13
 
-|  |  |  | entreTroldhedeyKibæk , dondehaymuchagua" |
-| A las 17:42 . | Tren 5362 al FC | Circulaba entre Troldhede y Kibæk . La llamada abarcaba desde el km 90,1 hasta el 88,5 . | El Lkf-K avisó de que en el km 90,8 – 90,2 los trenes no deberían circular a 100 km/h. Allí el agua corría junto a la vía y los cantos rodados. Justo cuando el tren había pasado el km 89,0, el Lkf-K avisó de que allí también había unos 100 metros con agua, pero ahora que se encontraban en el 88 no había nada que ver salvo agua en los campos. De pronto se oyó que ambos Lkf en la cabina comentaron algo serio, y 3 segundos después se oyó el sonido estridente de la unidad de tren al pasar sobre el desprendimiento del terraplén. |
+|  |  |  | entre Troldhede y Kibæk, donde se encuentra mucha agua” |
+| Hora 17:42. | Tren 5362 hacia FC | Circulaba entre Troldhede y Kibæk. La llamada era desde el km 901 885, –, . | Lkf -K informó de que en el km 90 ,8 , – 902 los trenes no deberían circular a 100 km/h. Allí corría agua junto a la vía y las piedras. Justo cuando el tren había pasado el km 890 , Lkf -K informó de que allí también había unos 100 metros con agua, pero ahora, donde se encontraba, 88 no había nada más que agua en los campos. De repente se oyó algo serio en ambos Lkf en la cabina de conducción; 3 segundos después se oyó el sonido estridente del tren que pasaba por encima del desprendimiento del terraplén. 
 ### Hechos 
 2.2.5 
-Trabajo realizado en o cerca del lugar del suceso 
-La Comisión de Investigación de Accidentes no tiene constancia de si en el momento del suceso se 
-realizaba trabajo en o cerca del lugar del suceso. 
-
+Trabajo realizado en el lugar del suceso o en sus inmediaciones 
+La Comisión de Investigación de Accidentes no tiene constancia de si en el momento del suceso se realizaba trabajo en el lugar del suceso o en sus inmediaciones.
 
 ## Página 14
+
 
 ## 2.3 
 ### Fallecidos, heridos y otros daños 
@@ -434,6 +431,7 @@ El DMI ha informado: Durante la mañana del 26-08-2022, un frente frío proceden
 
 ## Página 15
 
+
 ca. 135 mm de lluvia y más aguas arriba, localmente entre 140 y 150 mm. En partes del área cercana a la presa, la intensidad ha estado constantemente por encima de lluvia torrencial [>15 mm por 30 min.] durante poco más de 2 horas, y la intensidad máxima en la localidad alcanzó ca. 53 mm en media hora según los cálculos de radar. Ha habido más de lluvia torrencial triple durante casi 15 minutos, y lluvia torrencial doble durante de media a una hora alrededor de la localidad. Aguas arriba, el terreno desciende en pendiente
 ### Hechos
 hacia el pequeño arroyo que fluye hacia la presa. Las grandes cantidades de lluvia aguas arriba han contribuido a un aumento de la cantidad de agua que fluía hacia la presa. Aquí no se expondrán las condiciones de flujo más precisas ni la importancia del terreno.
@@ -444,15 +442,15 @@ Condiciones geográficas
 La cuenca topográfica del puente del curso de agua en el km 88,65 se ha calculado que es de ca. 3,7 km2, y en la fig. 3 puede verse un mapa de altitudes de la cuenca. El terreno se inclina desde el sureste hacia el noroeste, pasando de un máximo de ca. 65 metros en la esquina sureste a ca. 25 metros sobre el nivel del mar junto al lago frente a la presa. Esto da una pendiente media del terreno de ca. 1,3%, lo cual es relativamente bajo. La gran mayoría de la cuenca está dedicada a la agricultura, con muy pocas superficies duras (tejados, asfalto y otras superficies duras), ya que solo existen dos pequeños pueblos en la parte oriental de la cuenca y algunas granjas dispersas.
 Inmediatamente, por tanto, no hay nada en cuanto al uso del suelo que debiera provocar una escorrentía particularmente grande. La cuenca está dominada por suelo arenoso con arcilla fina. Debe esperarse que el suelo arenoso tenga una conductividad hidráulica bastante alta y una capacidad de infiltración relativamente grande.
 
-
 ## Página 16
+
 
 ### Hechos
 Figura 2. Fotografía aérea del área alrededor del terraplén ferroviario en Kibæk. El terraplén ferroviario está situado en la parte superior izquierda de la imagen, y la línea roja indica la cuenca hidrológica de la presa basada en un análisis estándar del terreno sobre el modelo de altitudes de SDFI con ajustes hidrológicos (llamado "DHYMRAIN"). Fuente: DMI
 Figura 3. Mapa digital de altitudes de la cuenca del terraplén ferroviario basado en el modelo nacional de altitudes de SDFI con ajustes hidrológicos. El agua superficial fluye desde las partes rojizas de la cuenca en el sureste hacia las partes verdosas en el noroeste. Fuente: DMI
 
-
 ## Página 17
+
 
 ## 3
 ## INVESTIGACIONES
@@ -474,8 +472,8 @@ Lkf-E ha explicado que el servicio con la conducción hasta Borris en el camino 
 Al comienzo del servicio y antes de la salida de Herning hacia Varde, Lkf-E observó que se avecinaba lluvia, y habló con Lkf-K de que era bueno que se marcharan de allí. En Varde se oía truenos a lo lejos, también allí el cielo se oscureció, pero durante el trayecto no habían conducido ellos mismos bajo lluvia intensa.
 En Borris debían cruzar con un tren procedente de Herning. Mientras esperaban, Lkf-E recibió una llamada de Stbst. Se comunicó que el tren que cruzaba iba algo retrasado como consecuencia de la circulación con vigilancia reforzada debido a agua cerca/de la vía. También se comunicó que el tren 5362 debía circular con vigilancia reforzada entre Troldhede y Kibæk, en los lugares donde pudiera
 
-
 ## Página 18
+
 
 verse agua y donde Lkf-E lo considerara oportuno. Lkf-E no recordaba durante la entrevista la redacción exacta, pero le pareció que era un poco un «mensaje a medias».
 Tras la conversación, Lkf-E consultó con Lkf-K y juntos acordaron que debía ser como había dicho Stbst; donde hubiera agua, debían reducir la velocidad. No había ninguna indicación kilométrica más precisa. A continuación, el tren 5362 abandonó Borris. Hasta Troldhede se circuló a velocidad normal, 100 km/h. Después de Troldhede, el tren 5362 circuló con vigilancia reforzada. Lkf-K se situó al lado de Lkf-E, y Lkf-E se inclinó hacia delante para poder mantener mejor la vigilancia. Cuando llegaron a un lugar con agua, la velocidad se redujo aún más, quizás a ca. 40 km/h. Había realmente mucha agua en la zanja, pero no hasta el balastro ni la vía.
@@ -492,6 +490,7 @@ Sobre la base de que algunos no devolvieron la comunicación, el contenido de la
 Stbst no recuerda si se establecieron acuerdos concretos sobre devoluciones de comunicación en relación con las informaciones sobre circulación con vigilancia reforzada. Quizás simplemente se acordó que debía darse una devolución «si era algo salvaje». Stbst no considera que existieran procedimientos para
 
 ## Página 19
+
 
 gestión del agua en la vía, ni tampoco ninguna directriz que indicara a qué velocidad debían circular los trenes en tales situaciones, solo que debía emplearse vigilancia reforzada.
 Stbst consultó a sus colegas en FC-Esbjerg [que atendían otras líneas], y había
@@ -518,8 +517,8 @@ Banedanmark ha comunicado que la supervisión y el mantenimiento, entre otros, d
 • Recogida de residuos abandonados o leñosos en la zona de perfil
 Un extracto del contrato de mantenimiento se encuentra en el anexo 8.1.
 
-
 ## Página 20
+
 
 La última inspección funcional fue registrada en Banedanmark el 13-01-2022 con el resultado "OK" en la aplicación Quick Capture. [Aplicación de Banedanmark para comunicar inspecciones realizadas y posibles necesidades de reparaciones adicionales]
 ### Investigaciones
@@ -538,8 +537,8 @@ Entre la documentación entregada por Banedanmark sobre los controles del plan d
 Banedanmark ha comunicado que la ausencia de documentación se debe a que el terraplén y el puente de arroyo en el pk 88,65 fueron valorados tempranamente en el proceso como no problemáticos / no infradimensionados.
 La nota menciona que un sistema de alerta estaba establecido en el momento de su publicación, y que implicaba que el tráfico en las líneas ferroviarias afectadas se suspendía cuando las cantidades de lluvia superaban ciertos intervalos fijados dentro de periodos determinados. El tráfico podía reanudarse,
 
-
 ## Página 21
+
 
 cuando la línea hubiera sido inspeccionada en busca de daños en los terraplenes, etc. El sistema de alerta debía así contribuir a que una serie de los posibles problemas mencionados en la nota no dieran lugar a accidentes.
 ### Investigaciones
@@ -559,8 +558,8 @@ Banedanmark ha comunicado que el DCDK recibió las siguientes alertas de Chubasc
 | Recibido | Vigente desde | Desde | Hasta | Alerta |
 | D 25 08 2022 . - - kl 19:03 . | Jutlandia Meridional y de Sønderjylland, Jutlandia Central y Occidental, Área del Triángulo, Jutlandia Sudoriental, Silkeborg, Jammerbugt y Vesthimmerland | D 26 08 2022 . - - kl 12:00 . | D 26 08 2022 . - - kl 20:00 . | Alerta de categoría 1: El DMI prevé tormentas eléctricas y chubascos locales. Puede caer entre 15 y 25 mm de lluvia en 30 min. |
 
-
 ## Página 22
+
 
 Jutlandia Meridional y de Sønderjylland,
 D. 26-08-2022
@@ -604,6 +603,7 @@ El personal que participa en el servicio de seguridad ferroviaria está subordin
 
 ## Página 23
 
+
 SR §3, apartado 9.1.3 Vigilancia del personal
 De lo anterior se desprende, entre otros:
 ### Investigaciones
@@ -625,8 +625,8 @@ La frenada total desde 87 km/h hasta la parada supone una deceleración media de
 ### Condiciones de infraestructura
 El tramo de vía entre Troldhede y Kibæk se construyó hacia 1880. Lo mismo se aplica al puente sobre el arroyo en el km 88,65. La vía discurría aquí sobre un terraplén de altura variable, para compensar las diferencias de terreno en la zona al sureste de Vong Å. A través del puente sobre el arroyo discurría
 
-
 ## Página 24
+
 
 un arroyo que conectaba el cercano estanque de decantación de óxido de hierro con Vong Å.
 El estanque de decantación de óxido de hierro estaba represado con pantallas de chapa, y por lo tanto el nivel normal de agua en el estanque estaba unos 1,5 metros por encima del arroyo en el puente sobre el arroyo. Los raíles sobre el terraplén estaban
@@ -638,22 +638,22 @@ La Comisión de Investigación de Accidentes ha solicitado a Banedanmark documen
 Las fotografías particulares muestran además que un talud cerca del lado de entrada del puente sobre el arroyo estaba al descubierto en 2015 (Véase foto 9). Un testigo ha declarado que la degradación del talud comenzó tras la creación del estanque de decantación de óxido de hierro aguas arriba del puente sobre el arroyo, y se desarrolló de forma gradual de una visita a otra mientras vigilaba el lugar hasta poco antes del suceso. El interés se debía a los martines pescadores que habitaban en la escarpa.
 Foto 5. D. 12-05-2005. Lado de salida del puente sobre el arroyo. Falta de material en el fondo del cauce en la salida, y en la orilla a ambos lados de los muros de las alas. Fuente: Foto particular.
 
-
 ## Página 25
+
 
 ### Investigaciones
 Foto 6. D. 12-10-2005. Lado de salida del puente sobre el arroyo. Reparación del fondo del cauce y de las orillas con piedras de campo. Daño por asentamiento en el muro de la ala oeste. Fuente: Foto particular.
 Foto 7. D. 15-11-2008. Lado de salida del puente sobre el arroyo. Daño por asentamiento en el muro de la ala oeste. Fuente: Foto particular.
 
-
 ## Página 26
+
 
 ### Investigaciones
 Foto 8. D. 16-02-2009. Lado de salida del puente sobre el arroyo. Terraplén alrededor de la salida del puente sobre el arroyo reforzado con pantallas y juntas reparadas en el muro de la ala oeste. Fuente: Foto particular.
 Foto 9. D. 22-01-2015. La orilla del cauce cerca de la entrada al puente sobre el arroyo. El agua ha erosionado el talud. Fuente: Foto particular.
 
-
 ## Página 27
+
 
 ## 3.6
 ### Condiciones de seguridad ferroviaria
@@ -685,8 +685,8 @@ El 20-08-2007, un terraplén ferroviario en Adsbøl, en la línea 28 (Sønderbor
 ### Otros
 En la línea 35, en el km 87,0 [1,65 km del lugar del accidente] se encontró un estanque de decantación de óxido de hierro similar con un posterior puente sobre el arroyo. Este estanque tenía una cuenca de recogida de agua ligeramente menor. También en este estanque y puente sobre el arroyo se pudo constatar que el nivel del agua había estado considerablemente por encima del nivel normal del estanque. Antes del puente sobre el arroyo bajo el ferrocarril, el agua debía pasar por una conducción de agua bajo una carretera. Allí la
 
-
 ## Página 28
+
 
 cantidad de agua había sido tan considerable que la conducción de agua no podía absorber la cantidad de agua, y el agua había subido y se había desbordado sobre la carretera.
 No había daños visibles en este puente sobre el arroyo.
@@ -694,8 +694,8 @@ No había daños visibles en este puente sobre el arroyo.
 Foto 10. D. 26-08-2022, kl. 18:38. Inundación junto al puente sobre el arroyo en el km 87,0. Fuente: Pasajero del tren 5362.
 Foto 11. Puente sobre el arroyo en el km 87,0. Septiembre de 2022. Fuente: Google Streetview.
 
-
 ## Página 29
+
 
 Después del suceso se observaron signos de desbordamiento (barro a lo largo de la línea y partes de plantas que habían sido retenidas por la balasto) en el km 87,6 – 87,8.
 ### Investigaciones
@@ -703,6 +703,7 @@ Foto 12. D. 26-08-2022, Inundación junto a la carretera y la vía en el km 87,7
 Foto 13. La vía en el km 87,7 vista desde Ollingvej. Septiembre de 2022. Barro depositado a lo largo de la valla. Partes de plantas retenidas por la balasto. Fuente: Google Streetview.
 
 ## Página 30
+
 
 ## 4 
 ## ANÁLISIS 
@@ -723,6 +724,7 @@ El puente de avenida estaba sometido a inspecciones funcionales anuales como con
 Los empleados que realizaron la última inspección no habían realizado previamente inspecciones en este tramo. Por tanto, no tenían posibilidad de evaluar si se estaba produciendo una rotura gradual del puente de avenida de una inspección a otra. Además de "OK", solo debían registrarse las condiciones que dieran lugar a reparaciones. Así, Banedanmark no había recibido, con motivo de las inspecciones, indicaciones de posibles problemas en el puente de avenida y el terraplén en relación con episodios de lluvia.
 
 ## Página 31
+
 
 BN1-11-1 indicaba que los revestimientos de las zanjas laterales debían inspeccionarse para comprobar su protección suficiente. Esta tarea no se ve reflejada directamente en el marco contractual (anexo 8.1) con la empresa que realizaba las inspecciones funcionales de los elementos de drenaje.
 Asimismo, los empleados no consideraban que la inspección de si las zanjas laterales estaban intactas formara parte 
@@ -746,6 +748,7 @@ A las 16:19 el Stbst recibió una notificación del tren 95372 de que había muc
 
 ## Página 32
 
+
 21 minutos después de la primera notificación, se informó al Stbst de que había agua por encima de uno de los raíles en el paso a nivel 202 [situado en km 87,6], y de que seguía lloviendo intensamente, de que hacía falta una reducción de velocidad y de que debía solicitarse a alguien que valorara las condiciones.
 El Stbst solicitó ahora la intervención del Guardavías. Este se encontraba en ese momento a algo más de 100 km del 
 ### Análisis 
@@ -759,6 +762,7 @@ Dos de las notificaciones al Stbst indicaban que había agua sobre los raíles e
 
 ## Página 33
 
+
 mensajes más precisos de Stbst, con reproducción de las zonas comunicadas, probablemente no condujeron a mayor precaución en la circulación en el pk 88,65.
 Stbst, con base en el mensaje del tren 5361 de que ya no había agua sobre los raíles, así como de que había dejado de llover, tenía la percepción de que el agua estaba retrocediendo. Es probable que Stbst asociara la percepción del retroceso del agua con la percepción de que también disminuía el riesgo para la explotación ferroviaria.
 Los mensajes imprecisos sobre dónde debía circularse con vigilancia reforzada condujeron a que Lkf-K y Lkf-E del tren 5362 creyeran que habían pasado la zona con agua 3,8 km antes de la zona que Stbst tenía en mente, y a más de un km antes de llegar al puente sobre el curso de agua en el pk 88,65.
@@ -767,8 +771,8 @@ En todas las conversaciones por radio, Stbst dejó que Lkf evaluara desde dónde
 El tren 5362 tenía, a 60 km/h, una longitud de frenado teórica de 130 metros, a la que debía sumarse el tiempo de reacción de Lkf-E.
 Así, la circulación con vigilancia reforzada, tal y como se aplicó en TC 2022-22, no pudo impedir que trenes recorrieran tramos de vía que se habían vuelto impracticables debido al agua de lluvia.
 
-
 ## Página 34
+
 
 ## 5 
 ## CONCLUSIÓN
@@ -793,8 +797,8 @@ Los mensajes imprecisos sobre circulación con vigilancia reforzada condujeron a
 La circulación con vigilancia reforzada probablemente no habría podido impedir que trenes recorrieran tramos de vía que eran impracticables, porque la distancia de detención podía ser mayor que la distancia a la que un daño crítico en la infraestructura podría haber sido observado.
 Con ello, TC 2022-22 no se considera una barrera suficiente frente a los riesgos asociados a la explotación ferroviaria en tramos que se volvían impracticables debido a avenidas de agua de aparición repentina en relación con chubascos intensos.
 
-
 ## Página 35
+
 
 ## 5.1 
 ### Información complementaria
@@ -802,8 +806,8 @@ El Circulario de Tráfico 2022-22 (continuado como TC 2023-18 y posteriormente T
 El Circulario de Tráfico 2022-27, introducido tras el suceso y continuado como TC 2023-13 y posteriormente TC 2023-26 (véase el apartado 6), es también aplicable tanto a tramos SR como CBTC y ECTS. Aquí, sin embargo, se ha introducido una velocidad máxima de 40 km/h en relación con la circulación en tramos CBTC y ECTS que tienen riesgo de verse afectados por agua, asentamientos en la vía, falta de balastro o deslizamientos en terraplenes. En los tramos SR se sigue utilizando la circulación con vigilancia reforzada, es decir, hasta 60 km/h. Se hace constar que solo en la circulación en tramos CBTC la velocidad debe adaptarse de modo que pueda detenerse antes de un obstáculo.
 Banedanmark ha informado en el marco de la consulta que Banedanmark considera que la cuestión de la inspección de las cunetas está contenida en el contrato de mantenimiento verde con la redacción: En la inspección, el Proveedor inspecciona la totalidad de la instalación y comunica defectos, averías y colapsos tramo a tramo a Banedanmark.
 
-
 ## Página 36
+
 
 ## 6 
 ## MEDIDAS YA ADOPTADAS
@@ -833,8 +837,8 @@ el maquinista del primer tren en la vía correspondiente, así como el del prime
 Banedanmark ha informado de que, con base en el suceso, se ha encargado un informe de consultoría sobre las posibilidades de vigilancia digital de los pasos bajo nivel de agua en el ferrocarril. Las recomendaciones del informe se incorporan al trabajo posterior de Banedanmark en materia de prevención de sucesos similares.
 Asimismo, Banedanmark trabaja en la elaboración de un proceso titulado «Gestión de condiciones meteorológicas extremas». Este proceso abarcará situaciones meteorológicas extremas tanto de lluvia, viento como nieve. El proceso está en fase de elaboración.
 
-
 ## Página 37
+
 
 ## 7 
 ## RECOMENDACIONES
@@ -857,6 +861,7 @@ Banedanmark ha introducido tras el suceso el Circulario de Tráfico 2022-27 (con
 ## COMO CONSECUENCIA DE CONDICIONES METEOROLÓGICAS EXTREMAS.
 
 ## Página 38
+
 
 ## 8 
 ## ANEXO 

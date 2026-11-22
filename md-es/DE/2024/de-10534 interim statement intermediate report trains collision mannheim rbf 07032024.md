@@ -10,12 +10,13 @@ chars: 4467
 ratio_longitud: 1.06
 tokens_in: 2205
 tokens_out: 1164
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,33 +35,32 @@ Evento peligroso en la explotación ferroviaria
 | Vía: | Ablauĩerg A |
 | Kilómetro: | 4171 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................................... |
-| 2 | Colisión de trenes el 07 03 2024 en el Bf Mannheim Rbf 2 . . ..................................................................... |
-|  | 2.1 Descripción breve del evento 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
+| I . | Lista de modificaciones I ............................................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Colisión de trenes el 07032024 en la estación de clasificación de Mannheim 2 . . ..................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Lista de modificaciones 
 Modificación 
 Estado 
-I 
-
+I
 
 ## Página 4
+
 
 ## 1 Notas previas 
 Elaboración del informe intermedio sobre la base del § 5 Abs. 5 de la Ordenanza sobre la
@@ -77,8 +77,8 @@ responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo con i
 de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 07.03.2024 en el Bf Mannheim Rbf 
 Este informe intermedio contiene una descripción breve del evento y de las consecuencias

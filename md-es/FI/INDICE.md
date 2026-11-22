@@ -21,7 +21,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [R2019-01 Puhos -Final Report _091219.md](2019/R2019-01%20Puhos%20-Final%20Report%20_091219.md) | — | 137339 | revisar |
-| [R2019-S1 Final Report_010919.md](2019/R2019-S1%20Final%20Report_010919.md) | — | 336899 | revisar |
+| [R2019-S1 Final Report_010919.md](2019/R2019-S1%20Final%20Report_010919.md) | — | 336899 | ok |
 
 ## 2018 (6)
 
@@ -63,8 +63,8 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [FI 08.07.2016 R2016-03.md](2016/FI%2008.07.2016%20R2016-03.md) | — | 84611 | ok |
 | [FI 13.08.2016 R2016-06 FinalReport.md](2016/FI%2013.08.2016%20R2016-06%20FinalReport.md) | — | 161389 | ok |
 | [FI 13.08.2016 R2016-06.md](2016/FI%2013.08.2016%20R2016-06.md) | — | 160761 | ok |
-| [FI 22.03.2016 R2016-02 - Report.md](2016/FI%2022.03.2016%20R2016-02%20-%20Report.md) | — | 143939 | revisar |
-| [FI 22.03.2016 R2016-02.md](2016/FI%2022.03.2016%20R2016-02.md) | — | 143831 | revisar |
+| [FI 22.03.2016 R2016-02 - Report.md](2016/FI%2022.03.2016%20R2016-02%20-%20Report.md) | — | 143939 | ok |
+| [FI 22.03.2016 R2016-02.md](2016/FI%2022.03.2016%20R2016-02.md) | — | 143831 | ok |
 | [FI 27.07.2016 R2016-04 FinalReport.md](2016/FI%2027.07.2016%20R2016-04%20FinalReport.md) | — | 153033 | ok |
 | [FI 27.07.2016 R2016-04.md](2016/FI%2027.07.2016%20R2016-04.md) | — | 153303 | ok |
 | [R2016-01-1.md](2016/R2016-01-1.md) | — | 1391 | ok |
@@ -90,8 +90,8 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [FI 12.03.2015 R2015-02 OulunkylÃ¤ 12.3.2015 - Report.md](2015/FI%2012.03.2015%20R2015-02%20OulunkylÃ¤%2012.3.2015%20-%20Report.md) | — | 81552 | ok |
 | [FI 12.03.2015 R2015-02.md](2015/FI%2012.03.2015%20R2015-02.md) | — | 82029 | ok |
 | [FI 18.03.2015 R2015-03 (2).md](2015/FI%2018.03.2015%20R2015-03%20(2).md) | — | 131136 | ok |
-| [FI 18.03.2015 R2015-03 HyvinkÃ¤Ã¤ 18.3.2015 - Report.md](2015/FI%2018.03.2015%20R2015-03%20HyvinkÃ¤Ã¤%2018.3.2015%20-%20Report.md) | — | 130402 | revisar |
-| [FI 18.03.2015 R2015-03.md](2015/FI%2018.03.2015%20R2015-03.md) | — | 130087 | revisar |
+| [FI 18.03.2015 R2015-03 HyvinkÃ¤Ã¤ 18.3.2015 - Report.md](2015/FI%2018.03.2015%20R2015-03%20HyvinkÃ¤Ã¤%2018.3.2015%20-%20Report.md) | — | 130402 | ok |
+| [FI 18.03.2015 R2015-03.md](2015/FI%2018.03.2015%20R2015-03.md) | — | 130087 | ok |
 | [R2015-02 Data Summary.md](2015/R2015-02%20Data%20Summary.md) | — | 1804 | ok |
 | [R2015-02 Summary.md](2015/R2015-02%20Summary.md) | — | 2060 | ok |
 | [R2015-S1-1.md](2015/R2015-S1-1.md) | — | 9188 | ok |
@@ -103,7 +103,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [FI 07.11.2013 R2013_02_Report (2).md](2013/FI%2007.11.2013%20R2013_02_Report%20(2).md) | — | 254085 | ok |
 | [FI 07.11.2013 R2013_02_Report.md](2013/FI%2007.11.2013%20R2013_02_Report.md) | — | 254906 | ok |
 | [R2013_01_DataSummary_06042013.md](2013/R2013_01_DataSummary_06042013.md) | — | 1741 | ok |
-| [R2013_01_Report_06042013.md](2013/R2013_01_Report_06042013.md) | — | 276259 | revisar |
+| [R2013_01_Report_06042013.md](2013/R2013_01_Report_06042013.md) | — | 276259 | ok |
 | [R2013_01_Summary_06042013.md](2013/R2013_01_Summary_06042013.md) | — | 6660 | ok |
 
 ## 2012 (12)
@@ -130,14 +130,14 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [B01-2011R-DataSummary-210211.md](2011/B01-2011R-DataSummary-210211.md) | — | 1945 | ok |
 | [B01-2011R-Report-210211.md](2011/B01-2011R-Report-210211.md) | — | 162136 | ok |
 | [B01-2011R-Summary-210211.md](2011/B01-2011R-Summary-210211.md) | — | 2833 | ok |
-| [B01_2011R_Report-210211.md](2011/B01_2011R_Report-210211.md) | — | 161532 | revisar |
+| [B01_2011R_Report-210211.md](2011/B01_2011R_Report-210211.md) | — | 161532 | ok |
 | [B1-2011R-DataSummary-210211.md](2011/B1-2011R-DataSummary-210211.md) | — | 1598 | ok |
 | [C01-2011R-DataSummary-020211.md](2011/C01-2011R-DataSummary-020211.md) | — | 1984 | ok |
 | [C01-2011R-Report-020211.md](2011/C01-2011R-Report-020211.md) | — | 115220 | ok |
 | [C01-2011R-Summary-020211.md](2011/C01-2011R-Summary-020211.md) | — | 2911 | ok |
 | [C02-2011R-DataSummary-240211.md](2011/C02-2011R-DataSummary-240211.md) | — | 1986 | ok |
 | [C02-2011R-Summary-240211.md](2011/C02-2011R-Summary-240211.md) | — | 2051 | ok |
-| [C02_2011R_Report-240211.md](2011/C02_2011R_Report-240211.md) | — | 65412 | revisar |
+| [C02_2011R_Report-240211.md](2011/C02_2011R_Report-240211.md) | — | 65412 | ok |
 | [C1-2011R-DataSummary-020211.md](2011/C1-2011R-DataSummary-020211.md) | — | 1701 | ok |
 | [FI 02.02.2011 C01_2011R_Report.md](2011/FI%2002.02.2011%20C01_2011R_Report.md) | — | 113621 | ok |
 | [FI 12.01.2011 S1_2011R_Report.md](2011/FI%2012.01.2011%20S1_2011R_Report.md) | — | 643619 | ok |
@@ -147,7 +147,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [S1-2011R-Summary.md](2011/S1-2011R-Summary.md) | — | 7321 | ok |
 | [S1_2011R_Report_12012011.md](2011/S1_2011R_Report_12012011.md) | — | 645177 | ok |
 | [S1_2011R_Summary_12012011.md](2011/S1_2011R_Summary_12012011.md) | — | 7310 | ok |
-| [S2-2011R-Report-study_010111.md](2011/S2-2011R-Report-study_010111.md) | — | 216180 | revisar |
+| [S2-2011R-Report-study_010111.md](2011/S2-2011R-Report-study_010111.md) | — | 216180 | ok |
 
 ## 2010 (42)
 
@@ -223,7 +223,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [B5_2009R_Summary_16062009.md](2009/B5_2009R_Summary_16062009.md) | — | 4160 | ok |
 | [B6-2009R-DataSummary.md](2009/B6-2009R-DataSummary.md) | — | 2245 | ok |
 | [B6-2009R-Summary.md](2009/B6-2009R-Summary.md) | — | 1959 | ok |
-| [B6_2009R_Report-140709.md](2009/B6_2009R_Report-140709.md) | — | 103007 | revisar |
+| [B6_2009R_Report-140709.md](2009/B6_2009R_Report-140709.md) | — | 103007 | ok |
 | [B7-2009R-DataSummary.md](2009/B7-2009R-DataSummary.md) | — | 2177 | ok |
 | [B7-2009R-Report_170709.md](2009/B7-2009R-Report_170709.md) | — | 100372 | ok |
 | [B7-2009R-Summary.md](2009/B7-2009R-Summary.md) | — | 2249 | ok |
@@ -345,7 +345,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [C7-07R-Summary-031107.md](2007/C7-07R-Summary-031107.md) | — | 1241 | ok |
 | [C7_07R_Report-031107.md](2007/C7_07R_Report-031107.md) | — | 31273 | revisar |
 | [FI 05.03.2007 B2_2007R_Report.md](2007/FI%2005.03.2007%20B2_2007R_Report.md) | — | 74402 | ok |
-| [FI 06.05.2007 B4_2007R_Report.md](2007/FI%2006.05.2007%20B4_2007R_Report.md) | — | 84594 | revisar |
+| [FI 06.05.2007 B4_2007R_Report.md](2007/FI%2006.05.2007%20B4_2007R_Report.md) | — | 84594 | ok |
 | [FI 06.10.2007 B6_07R_Report.md](2007/FI%2006.10.2007%20B6_07R_Report.md) | — | 92967 | ok |
 | [FI 09.03.2007 B3-07R-Report.md](2007/FI%2009.03.2007%20B3-07R-Report.md) | — | 52732 | ok |
 | [FI 09.03.2007 B3-07R-Summary.md](2007/FI%2009.03.2007%20B3-07R-Summary.md) | — | 1101 | ok |
@@ -358,7 +358,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [C02-06R-Report-010606.md](2006/C02-06R-Report-010606.md) | — | 27012 | revisar |
+| [C02-06R-Report-010606.md](2006/C02-06R-Report-010606.md) | — | 27012 | ok |
 | [C1-06R-Summary-100306.md](2006/C1-06R-Summary-100306.md) | — | 1818 | ok |
 | [C1_06R_Report-100306.md](2006/C1_06R_Report-100306.md) | — | 31157 | ok |
 | [C2-06R-Summary-010606.md](2006/C2-06R-Summary-010606.md) | — | 1397 | ok |

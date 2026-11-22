@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 13: cifras largas: faltan 11/11 (100%)"]
-notas_cifras: ["página 6: cifras largas: 1/10"]
 ---
 
 ## Página 1
@@ -246,10 +245,12 @@ Fig. 2: casquillos de bornes dañados / bornes
 
 ## Página 11
 
+
 Fig. 3: cables de motor de tracción quemados 
 Fig. 4: marcas de combustión en el conmutador de tracción/frenado
 
 ## Página 12
+
 
 Además, del libro de traspaso se podían extraer las siguientes entradas:
 Fig. 5: Libro de traspaso, notificación de anomalía
@@ -267,6 +268,7 @@ The request was rejected because it was considered high risk
 
 ## Página 14
 
+
 En el extremo «A1» se registran trazas de uno o más arqueos. En los contactos de los elementos de conmutación del conmutador de freno de marcha y del conmutador de dirección existen puntos de quemadura (fig. 5). El taller recibió la aprobación para el cambio del motor de tracción.
 18.06.2014 - Cita de inspección del vehículo
 La situación en el taller el 18.06.2014 se presentó como sigue. El FM 1 (485 0475) recién instalado ya estaba embutido, pero aún no conectado.
@@ -275,6 +277,7 @@ En las barras colectoras de aluminio «D1» (EW 10) las bornas estaban profundam
 Fig. 7: Líneas de conexión en el FM desmontado
 
 ## Página 15
+
 
 Fig. 8: Marcas de presión en el raíl de tracción de aluminio 
 A continuación se documentaron las siguientes constataciones de carácter general. 

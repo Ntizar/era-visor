@@ -10,13 +10,13 @@ chars: 231987
 ratio_longitud: 1.29
 tokens_in: 91887
 tokens_out: 63992
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 13: cifras largas: faltan 4/6 (67%)", "página 32: cifras largas: faltan 2/3 (67%)", "página 54: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: cifras cortas: 1/32", "página 9: original bilingüe: se compara contra el idioma principal (FI)", "página 10: cifras cortas: 1/47", "página 14: cifras cortas: 5/25", "página 15: original bilingüe: se compara contra el idioma principal (FI); cifras cortas: 1/24"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 INFORME DE INVESTIGACIÓN DE ACCIDENTE FERROVIARIO 
 Accidente ferroviario según la Directiva de Seguridad Ferroviaria 2004/49/CE, apartado: accidente grave – categoría según la Directiva 2009/149/CE: colisión de trenes, con resultado de una muerte 
@@ -25,10 +25,10 @@ Accidente ferroviario según la Ley Ferroviaria, apartado: accidente ferroviario
 Lugar y fecha del accidente ferroviario: entre las estaciones de Kehra y Aegviidu (condado de Harju), punto kilométrico 
 157, 880, el 23 de diciembre de 2010. 
 Tallinn 
-2011 
-
+2011
 
 ## Página 2
+
 
 # 1. RESUMEN 
 1. La colisión frontal entre el material rodante eléctrico sin pasajeros ER2 nº 2203/2204 y el tren de mercancías nº 2020 
@@ -75,10 +75,10 @@ dispositivos de almacenamiento de datos a bordo de la locomotora.
 Al servicio ferroviario del Ministerio de Economía y Comunicaciones se formuló una propuesta para el 
 desarrollo de la política de seguridad ferroviaria. Al operador de infraestructura ferroviaria se formularon 5 
 propuestas relativas a cuestiones de organización del trabajo, búsqueda de soluciones tecnológicas y 
-organización de la formación del personal. A la autoridad de seguridad se formularon 4 propuestas 
-
+organización de la formación del personal. A la autoridad de seguridad se formularon 4 propuestas
 
 ## Página 3
+
 
 relativas a la mejora de la regulación jurídica y a la reconstrucción de las vías de estación 
 sobre la concesión de licencias de construcción. 
@@ -131,13 +131,14 @@ estado de intoxicación alcohólica que, ignorando las señales
 
 ## Página 4
 
+
 del despachador de tráfico, condujo su conjunto de tren hasta el punto de colisión con el tren de mercancías.
 9. La vía 5 de la estación de Aegviidu no estaba codificada, lo que permitió que el maquinista eliminara la limitación de velocidad del material rodante eléctrico 2203/2204 durante la inmovilización del conjunto de tren en la vía de la estación. Si la vía hubiera estado codificada, la limitación de velocidad podría haberse eliminado durante el movimiento del conjunto de tren.
 10. Con el fin de aumentar la seguridad del tráfico ferroviario se formularon 5 propuestas al propietario del material rodante eléctrico relativas a la organización del trabajo y a las normativas internas. Se formularon tres propuestas a la empresa ferroviaria propietaria del tren de mercancías relativas a la formación del personal y al equipo de registro de datos de la cabina de la locomotora. Se formuló una propuesta con el objetivo de promover la política de seguridad ferroviaria a la división ferroviaria del Ministerio de Asuntos Económicos y Comunicaciones. Se formularon cinco propuestas al gestor de la infraestructura ferroviaria relativas a problemas de organización del trabajo, a la búsqueda de soluciones tecnológicas y a la organización de la formación del personal. Se formularon cuatro propuestas a la Autoridad Nacional de Seguridad, que conciernen a la mejora de las disposiciones legales y a la concesión de permisos de construcción para la reconstrucción de las vías de las estaciones.
 11. El informe de investigación se remitirá para su tramitación de las propuestas, presentadas al final del informe, a Elektriraudtee AS (Electric Rail), a AS EVR Cargo (Estonian Rail Cargo), a AS EVR Infra (Estonian Rail Infra), a la división ferroviaria del Departamento de Carreteras y Ferrocarriles del Ministerio de Asuntos Económicos y Comunicaciones y a la Autoridad Nacional de Vigilancia. El informe de investigación se remitirá para su conocimiento a la Agencia Ferroviaria Europea, a AS Eesti Raudtee (Estonian Railway), a la esposa del fallecido, al Centro de Alarmas del Norte de Estonia, a la Prefectura de Policía del Norte y al Ministerio del Interior.
 
-
 ## Página 5
+
 
 # 2. HECHOS DIRECTOS DEL INCIDENTE
 # 2.1 Incidente
@@ -150,6 +151,7 @@ La locomotora dañada C36-7 n.º 1504 del tren de mercancías n.º 2020 había d
 
 ## Página 6
 
+
 53380077 ja 5881467 olid paiskunud raudteetammist 3 m kaugusele alla küljeli ning eraldunud pöördvankritest. Neile järgnesid rongi nr 2020 väiksemate kahjustustega rööbastele jäänud vagunid numbritega 53287850, 58877804, 58881624, 58307810, 58883158 ja 53380309. Ülejäänud 42 vagunit olid sõidukorras ja kahjustusteta.  
 Õnnetuspaika sõitsid välja meditsiinilise kiirabi meeskond, reanimobiil, 10 päästemeeskonda, pääste platvormauto, roomikveok bandvagen, kaks pääste opertiivkorrapidajat, politsei, kaks päästerongi, turvafirma meeskond. Kõigi hädabiteenistuste tegevus oli sündmuskohal koordineeritud. 
 Majandus- ja Kommunikatsiooniministeeriumi kriisireguleerimisosakonda raudteeõnnetuste uurimisüksusele saabus esmateade toimunud õnnetusjuhtumist 23. detsembri varahommikul. Uurimisüksus täpsustas juhtumi asjaolusid ja kell 08:30 toimus ministri juures nõupidamine, mille tulemusena otsustati juhtumi uurimise läbiviimiseks moodustada „Vabariigi Valitsuse seaduse“ § 49 lg 1 p 1 ja „Raudteeseaduse“ § 42 alusel uurimiskomisjon. Komisjoni esimeheks määrati ministri käskkirjaga 23.12.10 nr 10-0385 kriisireguleerimise osakonna peaspetsialist Jüri Olde, liikmeteks teede ja raudteeosakonna raudteetalituse juhataja Indrek Laineveer ning kriisireguleerimise osakonna nõunik Rando Paurson. 
@@ -160,9 +162,10 @@ Uurimiskomisjoni esimees teavitas Euroopa Raudteeagentuuri toimunud tõsise juht
 Õnnetusjärgselt toimunud uurimiskomisjoni esimesel koosolekul kavandas komisjon ülesanded ja eesmärgid toimunud juhtumi asjaolude ja põhjuste väljaselgitamisel. 
 Komisjon kooskõlastas oma tegevuse printsiibid ja lähtus majandus- ja kommunikatsiooniministeeriumi 14.04.2010 määrusest nr 24 „Raudteeliiklusõnnetuste, raudteeintsidentide, raudteeavariide ja otsasõitude uurimise kord“. 
 Komisjoni tegevuse eesmärgiks on pakkuda välja meetmed raudteeliiklusohutuse suurendamiseks. 
-Eesmärgile jõudmiseks kindlustab komisjon õnnetuses osalenud raudteeveeremite kiirusmeerikute lintide teabe dešifreerimise, teeb kindlaks õnnetuse toimumise aja ja koha. Komisjon hangib üleskirjutused dispetšeri infovahetuse kohta, korraldab ütluste kogumise asjaosalistelt, teabe inimvigastuste iseloomu ja hukkumise põhjuste kohta, andmed õnnetusse sattunud isikutest. Komisjon kogub teabe (aktid) side- ja signalisatsiooniseadmete töö kohta, andmed õnnetusse sattunud raudteeinfrastruktuuri ja veeremi, nende seisundi kohta õnnetuse eel ning kahjustuste kohta õnnetuse tagajärjel, teabe ilmastikuolude kohta õnnetuse ajal. Komisjon analüüsib raudteeettevõtjate ohutusjuhtimise süsteemi toimet käesoleva juhtumi valguses ja 
+Eesmärgile jõudmiseks kindlustab komisjon õnnetuses osalenud raudteeveeremite kiirusmeerikute lintide teabe dešifreerimise, teeb kindlaks õnnetuse toimumise aja ja koha. Komisjon hangib üleskirjutused dispetšeri infovahetuse kohta, korraldab ütluste kogumise asjaosalistelt, teabe inimvigastuste iseloomu ja hukkumise põhjuste kohta, andmed õnnetusse sattunud isikutest. Komisjon kogub teabe (aktid) side- ja signalisatsiooniseadmete töö kohta, andmed õnnetusse sattunud raudteeinfrastruktuuri ja veeremi, nende seisundi kohta õnnetuse eel ning kahjustuste kohta õnnetuse tagajärjel, teabe ilmastikuolude kohta õnnetuse ajal. Komisjon analüüsib raudteeettevõtjate ohutusjuhtimise süsteemi toimet käesoleva juhtumi valguses ja
 
 ## Página 7
+
 
 annab sellele hinnangu. Komisjon teeb kindlaks häire-, hädaabi teenistuste ning raudteeettevõtjate tegevuse juhtumi tagajärgede likvideerimisel, raudteeettevõtjate tegevuse liikluskorralduse muutmisel. Komisjon hoiab kontakti ja vahendab teavet AS Eesti Raudtee, Elektriraudtee AS-iga, Tehnilise Järelevalve Ameti, politseiga.  
 Juhtumi uurimise käigus koordineeris uurimistegevust komisjoni üksikute liikmete vahel komisjoni esimees. Uurimisprotsessi vahekokkuvõtete tegemiseks toimus uurimiskomisjonil 4 koosolekut. 
@@ -182,6 +185,7 @@ Tallinnas AS EVR Infra juhtimiskeskuses töötas Tallinn – Tapa rongidispetše
 
 ## Página 8
 
+
 El tren eléctrico ER2 2203/2204 de Elektriraudtee AS estaba compuesto, en el momento de la colisión, por la locomotora piloto 2203, seguida de dos coches motores 3203 y 3252. En la cola del tren había otra locomotora piloto 2204. La composición es un tren de conducción normal con dos personas a bordo. El tren está equipado con los sistemas de seguridad previstos para los trenes ER2 que permiten la conducción con dos personas.
 El tren de mercancías n.º 2020 de AS EVR Cargo estaba compuesto por 55 vagones vacíos, de los cuales 13 resultaron dañados.
 Cinco vagones, pertenecientes a empresas de la Federación de Rusia, salieron de las vías y se volcaron fuera del terraplén ferroviario. Estos eran el vagón n.º 53328258, cuyo propietario es la empresa 830752 OAO ПГК, construido el 01.06.1985; el vagón n.º 58791237, cuyo propietario es la empresa 171065 ЗАО ЗР, construido el 25.10.2001; el vagón n.º 90276841, cuyo propietario es la empresa 000006 OAO ПГК, construido el 01.07.1983; el vagón n.º 53380077, cuyo propietario es la empresa 830752 OAO ПГК, construido el 01.11.1988; y el vagón n.º 58881467, cuyo propietario es la empresa 610279 Юникредит лизинг ООО, construido el 29.06.2006.
@@ -194,6 +198,7 @@ El vía muerta n.º 5 de la estación de Aegviidu se encuentra entre las vías p
 
 ## Página 9
 
+
 que el material rodante cruce la aguja n.º 18 para acceder a la vía principal II o cruce la aguja n.º 24 para acceder a la vía principal I. La aguja n.º 26 forma una aguja doble con la aguja n.º 24.
 Esquema 1. Zona de la curva doble de la estación de Aegviidu en condiciones normales.
 La locomotora diésel C36-7i n.º 1504 está equipada con una versión modificada del sistema de señalización, control y gestión de tipo ALSN de clase B, denominada VEPS.
@@ -205,6 +210,7 @@ Las labores de liquidación de las consecuencias del accidente pudieron reanudar
 El tramo de estación Kehra – Aegviidu, la vía principal I y su perfil de construcción ferroviaria se liberaron para las 19:43 del 23.12.2010, y la vía principal I se abrió al tráfico de trenes con velocidad limitada, ya que las labores de liquidación de las consecuencias del accidente continuaban en la vía lateral. La vía principal II del tramo de estación Kehra – Aegviidu se liberó del material rodante ferroviario participante en el accidente ferroviario el 25.12.2010
 
 ## Página 10
+
 
 a las 15:00, tras lo cual se pudo iniciar el control y la reparación de la vía férrea y de la red de contacto. La reparación de la vía principal II se completó a las 17:30 del 27.12.2010 y se abrió al tráfico ferroviario el 28.12 a las 01:15, tras la liberación del perfil de construcción ferroviario de la red de contacto rota. La red de contacto se restableció a las 18:31 del 28.12.2010. Desde la reapertura de la vía principal I al tráfico ferroviario hasta la finalización de las obras de restablecimiento de la red de contacto, el tráfico ferroviario se vio significativamente interrumpido; el tráfico se realizó hasta un 50 % de la capacidad de tránsito prevista.
 
@@ -222,8 +228,8 @@ los pasajeros del tren que debía salir de Aegviidu hacia Tallinn
 fueron dirigidos a los autobuses de sustitución.
 Aproximadamente a las 9, el jefe de regulación del tráfico recibió del despachador de trenes Tallinn-Tapa la información de que en la estación de Aegviidu se iniciarían las maniobras, por lo que había que estar preparado para la posible reubicación del conjunto 2201/2202. Para ello, se procedió a inspeccionar el conjunto de trenes junto con el maquinista de tren eléctrico que había dirigido el mismo conjunto de trenes la noche anterior hasta la estación de Aegviidu. En la cabina del conductor del vagón piloto 2201 se encontró, entre otras pertenencias personales, una botella de licor medio vacía.
 
-
 ## Página 11
+
 
 En el centro de emergencias se recibió la información del choque entre un tren de mercancías y un tren eléctrico que se produjo el 23.12.2010 a las 03:10, antes de la señal de entrada a Aegviidu, al entrar desde Kehra.
 El centro de emergencias dio a las 03:11 la orden de que la ambulancia de Kehra y, 3 minutos más tarde, la ambulancia de reanimación se desplazaran al lugar del suceso. La ambulancia salió a las 03:12 y llegó al lugar del suceso a las 03:46. La ambulancia se liberó a las 07:26. La ambulancia de reanimación llegó al lugar del suceso a las 04:17. Con el herido se dirigió al Hospital Mustamäe de Tallinn a las 04:53. La ambulancia de reanimación se liberó a las 06:06.
@@ -246,6 +252,7 @@ A las 06:27, el Bandvagen de Kehra y el equipo de rescate de Muuga se desplazaro
 A las 07:35 se transfirió la dirección del suceso a Eesti Raudtee. El Bandvagen de Kehra se quedó en el lugar del suceso hasta el final de las obras, liberándose a las 10:04.
 
 ## Página 12
+
 
 A las 11:17 se localizaron fragmentos de un cuerpo humano que debían ser extraídos de entre los escombros. A las 13:09 se recuperó el cuerpo de la persona fallecida.
 A las 14:14, el centro de gestión de emergencias transmitió la información necesaria a la policía.
@@ -272,15 +279,14 @@ El vagón piloto trasero del tren, el 2204, no presentaba daños.
 
 ## Página 13
 
-Los daños en el tren eléctrico 2203/2204 causaron a Elektriraudtee AS un perjuicio de 138 078,71 euros, y otros daños directos relacionados con el accidente ascendieron a 4 330,60 euros, mientras que el perjuicio causado a Eesti Raudtee AS fue de 735 788,36 euros. En conjunto, los daños directos a las empresas ferroviarias ascendieron a 878 197,67 euros.
-
-# 2.4 Factores externos
-
-En el lugar del accidente y sus inmediaciones, el tiempo era invernal, con el suelo cubierto de nieve. El accidente ocurrió durante la noche, con oscuridad. La temperatura del aire osciló entre -8,7 °C y -8,9 °C entre las 02:00 y las 03:00. Predominaba el viento del suroeste, con una velocidad inferior a 1 m/s. La visibilidad era inferior a 10 km. En algunos tramos hubo nieve caída.
-
-El punto de colisión de los trenes se encontraba en un tramo recto a 2,2 km en dirección de aproximación del material rodante eléctrico y a aproximadamente 4 km en dirección de aproximación del tren de mercancías. El material rodante eléctrico circulaba por este tramo en una pendiente descendente variable pequeña, con una inclinación que oscilaba entre -0,5 ‰ y 7,5 ‰, siendo la mayor parte del tramo una pendiente ascendente inferior a 2,5 ‰. El tren de mercancías se aproximaba a la colisión en una vía suave con una pequeña pendiente ascendente variable (de -1,5 ‰ a 3,1 ‰).
+Los daños sufridos por la composición 2203/2204 de trenes eléctricos causaron un perjuicio a Elektriraudtee AS de
+138078,71 euros, y otros daños directos relacionados con el accidente ascendieron a 4330,60 euros, y el perjuicio causado a Eesti Raudtee AS fue de 735788,36. En total, los daños directos a las empresas ferroviarias ascendieron a 878197,67 euros.
+# 2.4 Circunstancias externas
+En el lugar del accidente y sus alrededores el clima era invernal, con el terreno cubierto de nieve. El accidente ocurrió durante la noche, cuando estaba oscuro fuera. La temperatura del aire estaba entre -8,7 ⁰C y -8,9 ⁰C en el intervalo de las 02:00 a las 03:00. Soplaba predominantemente del suroeste, con una velocidad inferior a 1 m/s. La visibilidad era inferior a 10 km. En algunas zonas había nevadas.
+El punto de colisión de los trenes se situaba en una sección recta, a 2,2 km en la dirección de aproximación del tren eléctrico y a unos 4 km en la dirección de aproximación del tren de mercancías. El tren eléctrico circulaba por este tramo hacia la colisión en una ligera pendiente variable en ascenso del -0,5‰ al 7,5‰, siendo la mayor parte de la sección con una pendiente inferior al 2,5‰. El tren de mercancías se aproximaba a la colisión por una vía llana con una ligera pendiente variable (-1,5‰ a 3,1‰).
 
 ## Página 14
+
 
 # 3. DATOS DE LAS INVESTIGACIONES Y DECLARACIONES
 # 3.1 Resumen de las declaraciones
@@ -302,6 +308,7 @@ Tras la llegada a Aegviitu, el maquinista del tren n.º 0416 aseguró el tren y 
 
 ## Página 15
 
+
 Más tarde, durante la noche, aproximadamente a las 03.10, el despachador del depósito llamó al maquinista del tren n.º 0416 y le comunicó el incidente. Tras la llamada del despachador del depósito, el maquinista se dirigió a la estación, comprobó su tren y lo desconectó debido a la falta de tensión en el sistema eléctrico. A continuación, esperó la llegada de su superior.
 El auxiliar de pasajeros del tren de pasajeros n.º 0416 prestó declaraciones, en las que indica que el 22.12.2010 realizó el cuarto turno. Tras recoger el documento de circulación, se dirigió al tren para viajar desde la estación Balti hasta Aegviitu. En la cabina del conductor del tren eléctrico se encontraba el maquinista, quien debía acompañar como calentador.
 Se saludaron y el auxiliar de pasajeros no observó nada especial en su comportamiento.
@@ -316,6 +323,7 @@ Tras la puesta en marcha del tren y el llenado del circuito principal con aire, 
 
 ## Página 16
 
+
 El maquinista del tren de mercancías n.º 2020 de AS EVR Cargo ha prestado declaraciones, según las cuales, al circular por el tramo Muuga – Tapa y al aproximarse a la estación de Aegviidu, el color de la señal de entrada cambió a amarillo. El maquinista frenó y redujo la velocidad hasta 30 – 25 km/h, tras lo cual la luz de la señal se puso roja. El despachador llamó al maquinista por radio, a quien el maquinista informó de que la luz de la señal había cambiado primero a amarillo y después a rojo; durante la comunicación se produjeron fuertes interferencias y el maquinista apagó la emisora. Desde la curva de Aegviidu se distinguía vagamente un faro que se acercaba muy lentamente. El maquinista también redujo la intensidad del faro de su locomotora a un nivel más tenue. Posteriormente, el tren que se acercaba lo hizo cada vez más rápido. El maquinista pensó que el tren se acercaba por la vía impar (la primera). Al acercarse el faro, el ayudante del maquinista indicó que el tren se acercaba directamente hacia ellos. El maquinista aplicó el freno de emergencia y se produjo la colisión. El maquinista informó al despachador del incidente.
 
 El ayudante del maquinista del tren de mercancías n.º 2020 de AS EVR Cargo ha prestado declaraciones en las que informa que se aproximó a la estación con una velocidad cercana a 60 km/h con la señal en verde. Al circular a esa velocidad, la luz verde de la señal cambió a amarillo y el maquinista redujo la velocidad del tren hasta 20 km/h. Desde la curva de Aegviidu se distinguía la luz del faro de la locomotora, pero posteriormente se comprobó que se trataba de un tren eléctrico. Tampoco era posible distinguir a distancia por qué vía circulaba el material rodante que se acercaba. El tren de mercancías n.º 2020 circulaba por la vía II. El despachador llamó a la tripulación de la locomotora, pero la comunicación por radio estaba interferida y no se podían entender las palabras. Esto lo confirmó el maquinista ante el despachador. Posteriormente, la luz de la señal cambió de amarillo a rojo. Para entonces, la tripulación ya se había convencido de que el tren que se acercaba circulaba directamente hacia ellos. El maquinista aplicó el freno de emergencia. El ayudante del maquinista estaba junto a la ventana y se desplazó rápidamente hacia el maquinista para dirigirse hacia la sala del motor. Por suerte, la tripulación no llegó a hacerlo. Se produjo la colisión. Más tarde, cuando todo se calmó, surgió la idea de que todo había ocurrido demasiado rápido. El despachador transmitió la llamada por radio y preguntó qué había ocurrido. El estado de la tripulación ya era tal que ya no recordaba con precisión la respuesta; se pudo indicar que se había producido una colisión frontal. Posteriormente, se encontró el teléfono móvil del ayudante del maquinista, se llamó al encargado del depósito y se describió la situación. Las siguientes llamadas las realizó ya el maquinista.
@@ -325,6 +333,7 @@ Al salir, o más exactamente, al liberarse del montón de metal, la tripulación
 El despachador de trenes de la zona Tallinn – Tapa de AS EVR Infra ha prestado declaraciones en las que informa que durante la noche del 22 al 23 de diciembre de 2010, tras supervisar los trenes de viajeros, preparó la ruta para el paso de un tren de viajeros por la vía II de la estación de Aegviuda y la puso en modo automático. A las 02 h 41 min se encendió el botón de «avería» de la estación de Aegviuda en el monitor. Posteriormente, el despachador de trenes llamó al despachador de energía y preguntó si todo estaba bien con el suministro eléctrico. El despachador de trenes recibió la respuesta de que todo estaba bien. Aproximadamente a las 02 h 45 min o 02 h 43 min (dependiendo de la precisión de la lectura de la hora), el despachador de trenes observó en el monitor que el punto de conmutación n.º 18 de la estación de Aegviuda había perdido el control sobre la posición fija de la ruta del tren. El despachador no observó ocupación en el monitor de las zonas de ocupación de las zonas. Tras un tiempo, la señalización parpadeó en el punto de cruce y se cerró la señal de entrada B de la estación de Aegviuda. También se detectó la ocupación de la zona de aproximación I del bloque automático. En ese momento se acercaban a la estación de Aegviuda dos trenes de viajeros: el primero era el n.º 2020 con la locomotora 1504 y el segundo era el n.º 1586 con la locomotora 1676. El despachador llamó al maquinista del tren n.º 2020 a través de Motorola y le preguntó cuál era la señalización en la vía de entrada a la estación de Aegviuda. El maquinista respondió,
 
 ## Página 17
+
 
 que se había cerrado en rojo. No fue posible seguir hablando con el maquinista, ya que la comunicación se interrumpió. El despachador intentó llamar por teléfono, pero nadie contestó.
 
@@ -369,6 +378,7 @@ Agencia de Supervisión Técnica (Tehnilise Järelevalve Amet)
 
 ## Página 18
 
+
 A partir del 09 de diciembre de 2008 hasta el 09 de diciembre de 2013 
 4. Certificado de seguridad – Parte A (aprobación del sistema de garantía de la seguridad) 
 5. Líneas explotadas 
@@ -399,10 +409,10 @@ Elektriraudtee AS «Procedimiento de información y actuación en caso de emerge
 - la duración de la avería/fallo. 
 En caso de que no exista una respuesta inmediata a la pregunta, se indicará la hora de obtención de la respuesta y/o la persona que se encarga de obtener la información correspondiente y/o de resolver la situación. 
 4.7. Contenido de la información transmitida: 
-- qué ha ocurrido, 
-
+- qué ha ocurrido,
 
 ## Página 19
+
 
 - dónde ha ocurrido, 
 - a qué trenes afecta, 
@@ -439,6 +449,7 @@ Elektriraudtee AS «Manual de organización del trabajo de la tripulación del t
 
 ## Página 20
 
+
 5.5.11. Al entregar la hoja de servicio al equipo del tren eléctrico a su llegada al trabajo, realiza la instrucción previa al viaje. En caso de sospecha de residuos de alcohol, puede comprobar la embriaguez de los miembros del equipo del tren eléctrico mediante un alcoholímetro. En caso de detectar embriaguez, actuará de conformidad con la legislación vigente.
 5.5.15. Impide el acceso al recinto del depósito a ciudadanos con evidentes signos de embriaguez, incluidos los empleados (en la medida de lo posible, detiene al ebrio, identifica a la persona e informa al jefe de tráfico).
 La decisión de la junta directiva de AS EVR Infra n.º 2, de 29.12.2008, «Sistema de gestión de la seguridad de la explotación de la infraestructura ferroviaria de AS EVR Infra» establece:
@@ -470,6 +481,7 @@ La preparación ante situaciones de emergencia se divide en tres etapas principa
 
 ## Página 21
 
+
 3) eliminación de las consecuencias del accidente.
 La notificación oportuna de situaciones de emergencia, accidentes de tráfico ferroviario, incidentes ferroviarios, atropellos de personas que se encuentran en la vía por parte del material rodante ferroviario y de otros eventos que amenazan directamente la vía férrea se realiza en el grupo AS Eesti Raudtee de acuerdo con el procedimiento de notificación de eventos que amenazan el tráfico ferroviario.
 Todos los empleados de las empresas ferroviarias que trabajan en AS EVR Infra y que se encuentran en nuestra infraestructura ferroviaria, y que hayan observado el evento mencionado anteriormente, deben informar de ello inmediatamente al encargado de la estación más cercana y al despachador de trenes.
@@ -494,6 +506,7 @@ La base de la cooperación entre el grupo AS Eesti Raudtee y el Servicio de Resc
 Los accidentes ferroviarios ocurridos y las causas determinadas en relación con los mismos, los resultados del control de las actividades de la empresa y los resúmenes elaborados se analizan en las reuniones de trabajo que se celebran en los diferentes niveles del grupo Eesti Raudtee.
 
 ## Página 22
+
 
 Lisa 6 AS EVR Infra transpordiriskide analüüsiga selgitatud hädaolukorrani viia võivate raudteeõnnetuste algpõhjused, algsündmused, riskiallikad, riskitegurid, ohtlikud väljundid.
 Algpõhjused – rongimeeskonna inimlikud eksimused, raudteeliikluse juhtimise ja korraldamise inimlikud eksimused, raudteeliikluse juhtimissüsteemi tehnilised rikked, raudteerajatiste tehnilised rikked ja purunemine, terroriakt või sabotaaž.
@@ -522,8 +535,8 @@ Euroopa Ühenduste Komisjon,
 …..
 võttes arvesse Euroopa Parlamendi ja nõukogu 19. märtsi 2001. aasta direktiivi 2001/16/EÜ üleeuroopalise tavaraudteevõrgustiku koostalitusvõime kohta, …, ning arvestades järgmist:
 
-
 ## Página 23
+
 
 (2) Komisjoni otsuses 2002/731/EÜ sätestati üleeuroopalise kiirraudteesüsteemi juhtkäskude ja signaalimise allsüsteemi esimene koostalitus tehniline kirjeldus (KTK).
 (18) Seepärast peab iga liikmesriik kehtestama KTK riikliku rakenduskava.
@@ -552,6 +565,7 @@ II ptk Raudtee ehitised ja seadmed.
 
 ## Página 24
 
+
 2) la comprobación de la posición y ocupación de las agujas, la ocupación de los tramos entre estaciones, de las vías de estación y de las zonas de bloqueo adyacentes a las estaciones, así como las indicaciones de las señales de entrada, de salida y de maniobra en el panel de control;
 88. La indicación de la señalización automática de la locomotora en la cabina de la locomotora (que se encuentra en la cabina de conducción de la locomotora) debe corresponder a la indicación de la señal de vía a la que se acerca el tren.
 Capítulo III Material rodante.
@@ -579,6 +593,7 @@ Estas señales se transmiten mediante señales de vía y mediante discos de señ
 
 ## Página 25
 
+
 9) señal de locomotora – para transmitir la indicación de la señal de vía a la cabina de la locomotora o de la cabina de control y, en ausencia de señales de vía, para permitir o prohibir el desplazamiento de un tramo entre estaciones a otro dentro de una zona de bloqueo.
 14. En una línea con bloqueo automático se transmiten las siguientes señales mediante la señal de salida:
 1) una luz verde permite al tren salir de la estación y circular a la velocidad límite establecida, habiendo dos o más zonas de bloqueo libres delante;
@@ -602,6 +617,7 @@ Capítulo XII Trabajos de maniobra.
 330. En la vía de estación, los vagones se aseguran de acuerdo con las normas indicadas en el anexo 1 de la presente instrucción.
 
 ## Página 26
+
 
 El procedimiento de aseguramiento del material rodante se regula en el acto de organización técnica en función de las condiciones locales de la estación. En él se establece el procedimiento de aseguramiento del material rodante en cada vía de estación, el trabajador responsable del aseguramiento del material rodante, así como la persona que retira los medios de inmovilización de debajo de las ruedas de los vagones o libera los frenos de mano antes de poner en movimiento el material rodante.
 Las normas internas de trabajo de Elektriraudtee AS de 19 de octubre de 2009 establecen
@@ -629,8 +645,8 @@ Dirección de la higiene y seguridad en el trabajo
 La dirección de la higiene y seguridad en el trabajo garantiza la identificación regular de los riesgos de seguridad en el trabajo (RST) y su mantenimiento bajo control o su reducción.
 El objetivo de la dirección de la higiene y seguridad en el trabajo es minimizar los posibles peligros para los trabajadores en el entorno laboral de la empresa, que pueden derivarse de una organización laboral y administrativa inadecuada de la empresa, ..., de un comportamiento inadecuado de los trabajadores en materia de seguridad. La gestión se supervisa durante las inspecciones operativas y en las auditorías del sistema de gestión de la calidad.
 
-
 ## Página 27
+
 
 La realización de auditorías internas del sistema de gestión de la calidad de Elektriraudtee AS. Versión 02, 03.11.2010, establece
 5. Realización de la inspección operativa.
@@ -661,6 +677,7 @@ El «Procedimiento de control de salud previo al viaje de la tripulación del tr
 1.3. El control de salud se realiza individualmente durante 6-7 minutos con cada miembro de la ERM (tripulación del tren eléctrico) sometido a control.
 
 ## Página 28
+
 
 3. Motivos y procedimiento de formalización de la denegación de autorización de circulación.
 3.2 Formalización de la denegación de autorización de circulación.
@@ -707,8 +724,8 @@ La descripción del puesto del organizador del depósito de Electric Railways AS
 4.9 Transmite a otros trabajadores la información oral y escrita necesaria desde el punto de vista laboral.
 5. Derechos
 
-
 ## Página 29
+
 
 5.3 Tomar decisiones independientes para resolver las situaciones del momento.
 La descripción del puesto del organizador del depósito – maquinista de tren eléctrico de Electric Railways AS, de 22 de mayo de 2008, establece
@@ -735,6 +752,7 @@ El anexo n.º 92 de las reglas de actividad de AS EVR Infra «Actuación del per
 1. Disposiciones generales
 
 ## Página 30
+
 
 1.1. El presente reglamento establece, además de las normas de uso técnico de la vía férrea, el manual de circulación y maniobras ferroviarias y otros documentos normativos y directrices de AS EVR Infra, los requisitos para garantizar la colaboración entre el personal de AS EVR Infra y el personal de las empresas que utilizan su infraestructura ferroviaria en caso de aparición de situaciones de riesgo y no estándar, así como en caso de complicaciones en las actividades de explotación.
 
@@ -775,6 +793,7 @@ Fase II
 
 ## Página 31
 
+
 Fase III
 2019 – 2025 – La implementación de ETCS de nivel 2 depende del desarrollo tecnológico.
 
@@ -798,23 +817,24 @@ Como resultado de la descodificación de la cinta del velocímetro 3SL-2M 13209 
 
 ## Página 32
 
-Con esta actuación se desactivó un elemento de control de régimen de velocidad. Si el maquinista no lo hubiera hecho, el tren no habría podido circular a más de 20 km/h en la vía II de la estación de Aegviidu ni en el tramo entre estaciones.
+Con esta acción se eliminó un elemento de control del régimen de velocidad. Si el maquinista no lo hubiera hecho, la composición no habría podido circular a más de 20 km/h en la vía II de la estación de Aegviidu ni en el tramo entre estaciones.
 
-A las 02:39, el maquinista puso en marcha el tren y en el semáforo de locomotora brillaba la luz blanca. El momento en que la indicación roja del semáforo de locomotora cambió a blanco no está relacionado con el inicio de la marcha del tren. La hora está determinada por el reloj del registrador de velocidad, que puede ser impreciso, ya que depende de la exactitud del reloj del registrador. Para iniciar la marcha, el maquinista situó el conmutador de inversión del controlador principal del tren en la posición «adelante», a continuación giró la palanca del controlador principal a la posición de tracción y comenzó la circulación.
+A las 02:39 el maquinista puso el tren en marcha y en la señal del locomotor se encendió la luz blanca. El momento en que la indicación roja de la señal del locomotor se convierte en blanca no está relacionado con el inicio de la marcha de la composición. La hora está determinada según el reloj del velocímetro, que puede ser impreciso, ya que depende de la exactitud del reloj del velocímetro. Para iniciar la marcha, el maquinista situó el interruptor de inversión del controlador de conducción de la composición 2203/2204 en la posición «adelante», a continuación giró la manija del controlador de conducción a la posición de tracción y comenzó la marcha.
 
-El tren circuló por el punto de cruce n.º 26, que estaba dirigido hacia el punto de cruce 18. El punto de cruce n.º 18, que el maquinista atravesó con el tren a una velocidad de 10 km/h, estaba en posición cruzada con el tren en circulación. En la cinta del registrador de velocidad se observa que la velocidad aumentó inicialmente a 10 km/h y se mantuvo en ese valor en ese momento o incluso descendió. A continuación, el maquinista circuló con una línea ascendente hasta alcanzar una velocidad de 93 km/h. De ello se puede inferir que el maquinista situó el controlador principal en la posición 0 en los puntos de cruce o impidió el movimiento mediante el freno de parada. Al mismo tiempo, el maquinista mantuvo el pie en el pedal de vigilancia para evitar que se activara la señal acústica y, posteriormente, el frenado automático del tren. El paso por los puntos de cruce en condiciones invernales a baja velocidad puede pasar desapercibido para el maquinista.
+La composición circuló por la aguja nº 26, que estaba encaminada a la aguja 18. La aguja nº 18, que el maquinista atravesó con la composición a una velocidad de 10 km/h, estaba en posición cruzada con la trayectoria del tren. En la cinta del velocímetro se observa que la velocidad aumentó inicialmente a 10 km/h y se ha mantenido en ese momento o incluso ha disminuido. A continuación, el conductor circuló en la vía ascendente hasta una velocidad de 93 km/h. De ello puede deducirse que el maquinista situó el controlador de conducción en la posición 0 sobre las agujas o frenó el movimiento con el freno de zapata. Al mismo tiempo, el maquinista mantuvo el pie en el pedal de vigilancia para que no entrase en funcionamiento la señal acústica y, a continuación, el frenado automático de la composición. El paso por las agujas en condiciones invernales puede pasar inadvertido al conductor a baja velocidad.
 
-Tras atravesar el punto de cruce n.º 18, el controlador se situó de nuevo en la posición 3 (en caso de que se hubiera llevado el controlador a la posición «0» en el punto de cruce), lo que significa que el tren continuó circulando acelerando constantemente. La posición del controlador permaneció en la tercera posición hasta el momento de la colisión. El tren salió de la parada de la estación de Aegviidu según la hora del tren a las 02:39, a las 02:40 circulaba por el tramo entre las estaciones de Aegviidu y Kehra, y la colisión se produjo, según la misma indicación horaria, a las 02:43.
+Después de atravesar la aguja nº 18, el controlador se situó de nuevo en la posición 3 (en caso de que sobre la aguja el controlador se hubiera llevado a la posición «0»), lo que significa que la composición avanzó de forma continua y acelerando. La posición del controlador permaneció en la tercera posición hasta el momento del choque. La composición salió del punto de parada según el reloj del tren a las 02:39, a las 02.40 entró en el tramo entre estaciones Aegviidu – Kehra y el choque se produjo según el mismo indicador de hora a las 02:43.
 
-Tras el inicio de la marcha del tren, el maquinista mantuvo el pie en el pedal de vigilancia. Aproximadamente a 1,5 km de la parada de la estación de Aegviidu, se encendió la lámpara de señalización de vigilancia de la locomotora (ПСС), tras lo cual el maquinista levantó el pie del pedal de vigilancia con cierto retraso y lo volvió a presionar, restableciendo así el estado inicial de la señalización de vigilancia y continuando la circulación acelerando constantemente. Si no lo hubiera hecho, el tren se habría frenado automáticamente. Para entonces, la velocidad había aumentado a 85 km/h.
+Después de que la composición comenzara a moverse, el maquinista mantuvo el pie en el pedal de vigilancia. A unos 1,5 km de distancia del punto de parada de la estación de Aegviidu entró en funcionamiento la lámpara de señalización de vigilancia del locomotor (ПСС), ante lo cual el maquinista levantó el pie del pedal de vigilancia con cierta demora y lo volvió a pulsar, con lo que restableció el estado inicial de la señalización de vigilancia y continuó la marcha acelerando de forma continua. Si no lo hubiera hecho, la composición habría frenado automáticamente. Para entonces la velocidad había aumentado a 85 km/h.
 
-Antes de la colisión, la señal de vigilancia volvió a activarse aproximadamente 1 km después de la señal de vigilancia anterior. El intervalo de activación de la señalización de vigilancia es de aproximadamente 60 segundos. No se puede determinar con precisión mediante la cinta la actuación del maquinista en el momento de la colisión.
+Antes del choque, la señal de vigilancia volvió a entrar en funcionamiento unos 1 km después de la señal de vigilancia anterior. El intervalo de activación de la señalización de vigilancia es de unos 60 segundos. La acción del maquinista en el momento del choque no puede determinarse con exactitud según la cinta.
 
-La lámpara de vigilancia permanece encendida sin silbato durante 3-6 segundos y después, junto con el silbato, durante 7 segundos. Si durante este tiempo no se levanta ni se vuelve a presionar el pedal de vigilancia, se produce el frenado automático. En la cinta del registrador de velocidad se observa que la señal de vigilancia se ha activado y ha estado activa durante aproximadamente 7-8 segundos; en el momento de la colisión, el sistema de vigilancia aún no había aplicado el frenado automático, ya que en la cinta del registrador de velocidad no existe la marca del lápiz del freno al respecto. Como resultado del impacto, el lápiz de vigilancia del registrador automático cayó hacia atrás inclinado. Antes de la colisión, el maquinista no levantó ni volvió a presionar el pedal de vigilancia.
+La lámpara de vigilancia permanece encendida sin silbato durante 3-6 segundos y después con silbato durante 7 segundos. Si durante ese tiempo no se levanta el pie del pedal de vigilancia y se vuelve a pulsar, se produce el frenado automático. En la cinta del velocímetro se observa que la señal de vigilancia ha entrado en funcionamiento y ha estado activa durante unos 7-8 segundos; en el momento del choque el sistema de vigilancia aún no había activado el frenado automático, ya que en la cinta del velocímetro no consta la marca del lápiz de freno al respecto. Como resultado del impacto, el lápiz de vigilancia del registrador automático ha caído hacia atrás con inclinación. Antes del choque el maquinista no levantó el pie del pedal de vigilancia ni lo volvió a pulsar.
 
-El maquinista que conducía el tren eléctrico no utilizó en ningún momento, desde el inicio de la marcha hasta la colisión con el tren de mercancías, ni el freno de servicio ni el freno automático. No realizó ninguna acción para frenar el tren y colisionó con el tren de mercancías que circulaba por la vía principal. La colisión se produjo a una velocidad de 93 km/h. El tren había recorrido 3 km y 100 m desde la parada de la estación de Aegviidu. Según la cinta del registrador de velocidad, esto le llevó aproximadamente 3 minutos. No existía distancia de frenado real.
+El maquinista que conducía la composición de trenes eléctricos no utilizó ni una sola vez los frenos de servicio ni automáticos desde el inicio de la marcha hasta el choque con el tren de mercancías. No adoptó ninguna medida para frenar la composición y colisionó con el tren de mercancías que circulaba por la vía principal. El choque se produjo a una velocidad de 93 km/h. La composición había recorrido 3 km y 100 m desde el punto de parada de la estación de Aegviidu. Para ello le llevó, según la cinta del velocímetro, un tiempo de unos 3 minutos. No existió distancia de frenado efectiva.
 
 ## Página 33
+
 
 El manual de frenado del tren eléctrico n.º 2203/04 refleja la realización de una prueba completa de frenos del tren antes del accidente en el depósito el 22.12.2010 a las 05:30. La presión de aire era de 6,5 – 8,0 kgf/cm² en los depósitos principales y de 4,6 kgf/cm² en la tubería de frenos. La magnitud de la pulverización era de 0,15.
 
@@ -857,6 +877,7 @@ El EJD informa de que la avería se encuentra en la vía paralela del tramo entr
 
 ## Página 34
 
+
 El último mantenimiento técnico H5 de la locomotora C36-7i nº 1504 se realizó en el depósito de locomotoras de Muuga el 22.12.2010. El viaje, que finalizó con una colisión frontal el 23.12 entre las estaciones de Kehra y Aegviidu, fue el primero tras el mantenimiento. El 25.11.2010 se realizó a la locomotora el mantenimiento cuatrienal en el depósito de locomotoras de Muuga. Desde entonces, la locomotora había recorrido 28 días.
 El funcionamiento de los sistemas y equipos de la locomotora cumplía las normas establecidas. La parte rodante de la locomotora y los pares de ruedas estaban en buen estado.
 En el manual de a bordo de la locomotora C36-7i nº 1504 se hizo la siguiente anotación el 22.12.2010 en la estación de Muuga:
@@ -888,6 +909,7 @@ El dispositivo de registro TTX-REC-M6V2 nº 324587 de la locomotora C36-7i nº 1
 | 02:40:21 | 140 | ABK IBK 482 0 | T1 | - | - - - |
 
 ## Página 35
+
 
 | 02:41:37 | 18 | 489 | 0 | T1 | - | - | - - |
 | 02:41:38 | 16 | 489 | 0 | T2 | - | - | - - |
@@ -925,6 +947,7 @@ A las 02:40:21 el material rodante eléctrico ocupó la 1.ª zona de aproximaci�
 
 ## Página 36
 
+
 A las 02:40:22 el conjunto de tracción liberó la zona de BP.
 A las 02:41:15 el conjunto de tracción liberó la zona de aproximación 1 de la estación de Aegviidu.
 Esquema 2. Pantalla del monitor del despachador de trenes el 23.12.2010 a las 02:40:10.
@@ -934,8 +957,8 @@ Foto 2. Cuñas de seguridad tras el accidente
 junto al punto de desvío n.º 26 de la estación de Aegviidu.
 En el lado de vía de vía muerta (terminal) impar de la estación de Aegviidu, donde la noche anterior al choque había estado estacionado el conjunto de tren eléctrico 2203/04, se colocaron cuñas de seguridad a las 5:50 del 23.12. Junto a la vía de seguridad del lado de vía muerta de la estación, al lado de la vía principal del punto de desvío n.º 26, se colocó otra cuña de seguridad a las 06:00 del 23.12.
 
-
 ## Página 37
+
 
 # 3.5 Documentación relativa a la organización del trabajo
 Debido a las malas condiciones meteorológicas, a la precipitación de nieve esperada y a la probable caída de la temperatura por debajo de -10 ⁰C, el director de tráfico de Elektriraudtee AS envió a la estación de Aegviidu, para la noche del 22 al 23 de diciembre, un conductor de tren eléctrico adicional para mantener los trenes en condiciones de funcionamiento y calientes. El distribuidor de tareas se puso en contacto con un conductor de tren eléctrico adecuado para ello entre las 13:00 y las 14:00 del día 22.12.2010. En virtud de un acuerdo verbal entre ambas partes, el distribuidor de tareas ordenó iniciar el trabajo a las 23:00 del 22.12.2010 para mantener listos para el servicio en línea, por la mañana, dos conjuntos de tren eléctrico estacionados en la estación de Aegviidu. Al conductor de tren eléctrico convocado para el trabajo nocturno no se le entregó un documento de conducción ni se le otorgó el derecho a salir de la vía de estacionamiento.
@@ -953,6 +976,7 @@ A las 23:35:27 se desplazó a través de la cabina de conducción 2204 y se diri
 A las 23:36:15 encendió la iluminación de la cabina de conducción de la cabina de conducción 2204 y a las 23:36:19 volvió a apagar la iluminación de la cabina de conducción.
 
 ## Página 38
+
 
 A las 23:36:54 se desplazó a través de la unidad motriz 2204 y se dirigió hacia la unidad motriz 2203, salió momentáneamente del conjunto y entró a las 23:41:23 en la unidad motriz 2201 del conjunto de trenes 2201/2202.
 A las 23:43:26 se desplazó a través de la unidad motriz 2202 y se dirigió hacia la cabina de conducción, y a las 23:44:15 regresó por el mismo camino en dirección a la unidad motriz 2201.
@@ -982,6 +1006,7 @@ A las 02:53:48. Tras recibir la información sobre la colisión ocurrida, el des
 
 ## Página 39
 
+
 El despachador concluye que el tren probablemente salió de la vía 5 hacia la vía II del tramo entre las estaciones de Aegviidu y Kehra y colisionó con el tren n.º 2020. El despachador advierte al limpiador de agujas de que no debe modificar nada en el lugar.
 A las 02:56:38. El despachador informa al despachador del depósito de Pääsküla de AS Elektriraudtee de que el tren eléctrico que estaba detenido en la vía 5 de Aegviidu ha pasado por el punto de aguja n.º 18 hacia la vía 2 del tramo entre las estaciones de Aegviidu y Kehra y ha colisionado con el tren n.º 2020. Es posible que haya habido descarrilamiento.
 A las 03:01:32. El despachador responde a las preguntas de AS Elektriraudtee Pääsküla sobre el incidente en Aegviidu e informa de que el tren eléctrico salió de la estación de Aegviidu desde la vía 5, cortando el punto de aguja n.º 18, hacia el tramo entre las estaciones de Aegviidu y Kehra, donde colisionó con el tren de mercancías n.º 2020. El tren eléctrico debería haber salido a las 06:24 de la mañana. El interrogante no cree que el conductor del tren matutino hubiera podido salir. Quizás el calefactor del tren.
@@ -1002,6 +1027,7 @@ Tome la estación bajo control de reserva.
 28.12 a las 01:35/36. Orden n.º 468. Modifico la orden n.º 250, restableciendo la circulación principal del tren en la dirección del tramo entre las estaciones de Kehra y Aegviidu vía II, restaurando el bloqueo automático según señales a partir de las 01:36.
 
 ## Página 40
+
 
 Como consecuencia del accidente, se produjeron cambios en la organización del tráfico. El tren internacional de viajeros n.º 0005 no circulaba en el tramo de vía Tapa – Tallinn, y el tren n.º 0004 presentó un retraso de 2 horas y 28 minutos en la salida de Narva. 
 De los trenes diésel que circulaban como trenes de viajeros, quedaron fuera de servicio 7 trenes en el tramo Aegviidu – Kehra, 2 trenes en el tramo Tapa – Raasiku y 2 trenes en el tramo Tapa – Tallinn. 
@@ -1025,10 +1051,10 @@ durante el año 2010, de las cuales 28 veces cumplió las funciones de maquinist
 En el análisis toxicológico del cadáver del maquinista de tren eléctrico que conducía el vehículo eléctrico 2203/2204 y que falleció en el accidente, se encontró etanol en la sangre del cadáver en una concentración de 2,79 ‰, lo que corresponde a una intoxicación alcohólica grave en una persona viva. 
 La tripulación de la locomotora C36-7 n.º 1504, perteneciente a la sección de explotación del norte de 
 AS EVR Cargo, 
-constaba de un maquinista y un ayudante de maquinista. Antes de atender el tren de mercancías n.º 2020, descansaron 38 horas y 30 minutos, y habían estado trabajando 3 horas y 05 minutos antes del accidente de tráfico. 
-
+constaba de un maquinista y un ayudante de maquinista. Antes de atender el tren de mercancías n.º 2020, descansaron 38 horas y 30 minutos, y habían estado trabajando 3 horas y 05 minutos antes del accidente de tráfico.
 
 ## Página 41
+
 
 # 3.7 Incidentes anteriores de carácter similar 
 El 04.10.1980 a las 15:32, en la estación de Tallinn-Balti, se produjo la colisión de dos trenes regionales de viajeros (n.º 6487 y n.º 6482), en la que fallecieron 8 personas. Recibieron asistencia médica 55 personas, y 22 personas fueron ingresadas en el hospital. 8 personas sufrieron lesiones graves y 18, lesiones leves. El coche piloto de cada tren descarriló e inutilizándose. Entre las daños a la infraestructura figuraban un desvío cortado y destrozado, así como la vía.  
@@ -1038,6 +1064,7 @@ El 09.02.2007 a las 12:36, el tren de larga distancia n.º 957 circuló más all
 El 20.10.2008 a las 21:27, en la infraestructura de PKP Polskie Linie Kolejowe AS, se produjo la colisión de un tren regional de viajeros con un tren de larga distancia. El tren de viajeros de PKP Intercity n.º IC 1403, en la ruta Varsovia Este – Bielsko Biala, chocó contra el tren regional n.º 7717 de PKP Przewozy Regionalne AS, que estaba estacionado en la vía secundaria de la estación de Katowice Ligota. La causa del accidente fue el factor humano, ya que el regulador del tráfico autorizó la circulación hacia una vía ocupada.
 
 ## Página 42
+
 
 # 4. ANÁLISIS Y CONCLUSIONES
 # 4.1 Descripción final de la secuencia de los hechos
@@ -1057,6 +1084,7 @@ En ese momento, la velocidad del tren de mercancías 2020 que se acercaba a Aegv
 A las 02:38:55, el semáforo de entrada de la estación se volvió prohibitivo. El tren eléctrico arrastró la cuña de freno hasta el desvío más próximo, el n.º 26. La cuña de freno se encontró más tarde junto a la vía de derivación del desvío n.º 26.
 
 ## Página 43
+
 
 El desvío n.º 26 estaba en la posición que dirigía la composición del tren que había llegado la noche anterior a la vía muerta n.º 5, junto al andén, para esperar el viaje matutino.
 Al continuar, el material rodante eléctrico llegó a la zona aislada 18-20SP a las 02:39:02 y, cinco segundos más tarde, a las 02:39:07, perdió el control el desvío n.º 18. La composición del tren 2203/2204 había superado el desvío a una velocidad de 10 km/h y circulaba por la vía principal. Antes de la superación del desvío, el desvío n.º 18 estaba en la posición para permitir el paso sin detención del tren de mercancías n.º 2020 procedente de Tallin a través de Aegviidu. La pérdida de control del desvío n.º 18 se registró inmediatamente en el monitor del despachador.
@@ -1078,6 +1106,7 @@ A las 02:49:50, el regulador de tráfico ferroviario llamó al teléfono móvil 
 
 ## Página 44
 
+
 A las 02:53:48, el despachador de trenes se dirige hacia el limpiagiros de la estación de Aegviidu para averiguar si hay un tren eléctrico estacionado en la vía 5 de la estación. El despachador de trenes recibe la información de que no hay composición de tren eléctrico. El despachador de trenes se convence definitivamente de que la composición de trenes, al circular por el cruce nº 18 al abandonar la vía 5, se ha desplazado hacia el tramo entre las estaciones de Aegviidu y Kehra.
 
 # 4.2 Discusión
@@ -1098,6 +1127,7 @@ De conformidad con el plan especial, Elektriraudtee AS organiza el control opera
 
 ## Página 45
 
+
 la mayor atención prestada aumenta la disposición de los trabajadores que trabajan y se encuentran en el lugar para cumplir las normas internas de trabajo.  
 Según el punto 152 de las Reglas Técnicas de Explotación, está prohibido dejar sin supervisión locomotoras o coches motores en funcionamiento. El conjunto de tren eléctrico 2203/2204 estaba estacionado en la estación de Aegviidu, en condiciones de funcionamiento, pero no operaba. El personal de tracción eléctrica mantenía el conjunto de tren eléctrico en condiciones de funcionamiento.  
 Desde el punto de vista de la seguridad, no se establecen obligaciones para que el gestor de infraestructura ferroviaria organice la supervisión en tal caso. La actividad de la empresa está en consonancia con las exigencias de las Reglas Técnicas de Explotación.  
@@ -1108,6 +1138,7 @@ La tripulación del tren de mercancías nº 2020 circuló entre las estaciones d
 La tripulación del tren de mercancías nº 2020 consideró los cambios de las luces de los semáforos como situaciones habituales del tráfico ferroviario. Al salir del conjunto de tren eléctrico de la curva, la tripulación observó que el conjunto de tren que venía en sentido contrario no circulaba con las luces altas de los faros encendidas. Se supuso que se acercaba un tren de mercancías con locomotora diésel al frente del tren. Por la noche no hay tráfico de trenes eléctricos, algo que la tripulación conocía bien. En Estonia, los trenes eléctricos se utilizan únicamente
 
 ## Página 46
+
 
 servicio de pasajeros. Posteriormente, el maquinista y su ayudante supusieron que el material rodante se aproximaba probablemente por la vía lateral, tal como está previsto en la organización del tráfico ferroviario. Al realizar dicha evaluación, la tripulación no consideró necesario contactar con el despachador de tráfico de la zona para solicitar aclaraciones sobre las causas de los cambios en la organización del tráfico. La tripulación no consideró que las indicaciones de las señales de paso del locomotor, así como las de las señales correspondientes, fueran informativas sobre una situación de peligro. Asimismo, la tripulación no estaba preparada para ofrecer una posible evaluación sobre las preguntas del despachador relativas al cambio de las luces de las señales. La tripulación confirmó adecuadamente al despachador las indicaciones de las luces de las señales. La tripulación no estaba psicológicamente preparada para imaginar que alguien pudiera violar intencionadamente el orden establecido para el tráfico ferroviario. En Estonia no se tiene tal experiencia.
 
@@ -1126,6 +1157,7 @@ Si la tripulación del tren de mercancías hubiera estado en la posición de que
 El despachador de tráfico de la zona Tallinn – Tapa, al comenzar su turno a las 20:00 del 22 de diciembre por la tarde, verificó el funcionamiento de todos los dispositivos necesarios, incluidos los monitores. Todos los dispositivos estaban en buen estado. A las 20:17 llegó a la vía 5 de la estación de Aegviidu el composición de tren 2203/2204 procedente de Tallinn. Desde ese momento, el monitor del despachador mostraba la ocupación de la quinta vía de la estación. Desde la hora de llegada del tren
 
 ## Página 47
+
 
 Resulta poco realista que el personal de la vía y el que se encuentra en ella no olviden que la composición de tren permanece inactiva durante aproximadamente seis horas y media.
 
@@ -1151,6 +1183,7 @@ A continuación, el despachador impide que el tren nº 1586, que sigue al tren n
 
 ## Página 48
 
+
 Mientras tanto, el despachador volvió a ocuparse de la regulación del tráfico de la zona. Sin embargo, en ese momento, el ayudante de maquinista del tren de mercancías n.º 2020 ya había recuperado su teléfono móvil y, poco después, a las 02:49, la información sobre la colisión frontal de los trenes llegó al despachador de trenes. Ya habían transcurrido 7-8 minutos desde la colisión.
 
 A las 02:53:48, el despachador de trenes se dirigió nuevamente al operario de limpieza de agujas y verificó la información sobre la salida del conjunto de material rodante eléctrico de la vía 5 de la estación de Aegviidu. A partir de ese momento, el despachador de trenes quedó completamente convencido de que se había producido un accidente y de que el conjunto de material rodante eléctrico había entrado en el tramo entre estaciones. Para entonces, ya habían transcurrido 12 minutos desde el accidente. El despachador de trenes confió en una persona, pero no logró interpretar adecuadamente y a tiempo las indicaciones de los equipos.
@@ -1169,6 +1202,7 @@ En caso de estado codificado de la vía, en el momento de la activación se habr
 
 ## Página 49
 
+
 El maquinista cambió la indicación de la señal de vía del tren detenido de roja a blanca en un momento indeterminado. Esto pudo haberlo hecho inmediatamente antes de comenzar la marcha o con anterioridad. La cinta del velocígrafo no muestra el número de activaciones de la corriente mediante la llave electoneumática en el tren detenido, ya que el tiempo solo es legible desde la cinta de accionamiento mecánico cuando el tren está en movimiento. El cambio de la indicación de la señal de vía de roja a blanca en un tren detenido es posible cuando en la cabina de control se encuentra activa la tensión de la batería o el estado de conexión del captador de corriente principal. El cambio de la señal de vía de roja a blanca solo puede producirse en el lugar previsto para ello, que se encuentra ligeramente alejado del puesto de trabajo del maquinista. Al comenzar el movimiento del conjunto de tren eléctrico, la luz blanca estaba encendida desde el principio en la señal de vía.
 
 El conjunto de tren eléctrico que acababa de comenzar el movimiento ocupó, al superarse las 02:38:51, la zona aislada 26SP adyacente a la señal de salida, la cual fue registrada por el sistema Neman. Si la vía 5 hubiera estado codificada, se habría encendido la luz roja en la señal de vía al superar la luz roja prohibidora de la señal de salida a las 02:38:51. El conjunto de tren habría tenido que avanzar a baja velocidad hacia la señal de salida durante solo unos segundos, ya que estaba detenido con la cabeza de la cabina de control cerca de la señal de salida.
@@ -1184,6 +1218,7 @@ Tras el accidente, por la mañana se encontró una botella de licor medio vacía
 El estado operativo de la centralización eléctrica de las vías contribuye a aumentar la seguridad ferroviaria, aunque no excluye la posibilidad de que se produzcan accidentes.
 
 ## Página 50
+
 
 El conductor del tren eléctrico podría no haber sido consciente, al iniciar la salida desde la vía 5, de que se dirigiría a la vía de sentido contrario. Al salir hacia la vía principal, habría sido posible recorrer una distancia considerablemente mayor para evitar la colisión.
 
@@ -1211,6 +1246,7 @@ La mejora por parte de la empresa de transporte ferroviario de los principios de
 
 ## Página 51
 
+
 AS EVR Cargo utiliza el sistema GPS de la empresa Metrotec a través de AS EMT en las locomotoras de tipo C36-7i. Para ello, se han instalado los equipos correspondientes en las locomotoras de la serie C36 y, mediante el software adecuado de los ordenadores de la empresa, es posible posicionar las locomotoras en línea, así como controlar la presencia y el consumo de combustible, la velocidad de desplazamiento y el kilometraje recorrido.
 Los dispositivos TTX-REC-M6V2 forman parte del sistema de registro de seguimiento original de los tipos Recorder Type en las locomotoras de la serie C36-7i, lo que permite controlar las actividades del maquinista durante la conducción. El sistema de seguimiento incluye un ordenador en cuyo almacenamiento se conservan los datos. Mediante un portátil instalado con el software correspondiente, es posible visualizar los datos almacenados y realizar impresiones en soporte papel. El sistema de seguimiento automático registra en los dispositivos la velocidad de la locomotora (km/h), el kilometraje recorrido de la locomotora (ida y vuelta), la carga del generador diésel en corriente de tracción (A), el uso de la bocina y la duración del sonido (s), el uso de los frenos disponibles (freno automático y freno auxiliar) y el tipo de frenado (freno de servicio o freno de emergencia), la aplicación y la eficacia de los frenos electrodinámicos, así como la indicación de la posición (estado) de la palanca del controlador relacionada con la potencia de la locomotora, en cada instante. Los dispositivos cumplen además varias funciones que AS EVR Cargo no utiliza.
 La legislación de la Unión Europea establece la necesidad de pasar a un sistema de gestión del tráfico estándar, ERTMS (European Railway Traffic Management System). ERTMS integra el sistema de control del tráfico ETCS (European Train Control System), que a su vez agrupa los equipos de vía y cabina para controlar la posición del tren y las señales transmitidas al maquinista, así como el sistema de radiocomunicaciones ferroviarias y de intercambio de datos GSM-R (GSM for Railway). GSM-R funciona dentro del marco de ETCS como canal de intercambio de información entre la cabina del tren, los equipos de vía y el centro de control.
@@ -1220,6 +1256,7 @@ El accidente ocurrido el 23.12 cerca de Aegviid está relacionado con tres empre
 1. En la cabina del tren eléctrico 2203/2204, antes del accidente, estaban operativos la radio y los dispositivos de seguridad que garantizan la seguridad del tráfico (velocímetro, semáforo de locomotora, dispositivo de control de la vigilancia del maquinista y la tubería de aire del sistema de frenado del material rodante, que se había
 
 ## Página 52
+
 
 señalizador). Además, existía un velocímetro que registraba los parámetros previstos. El conjunto de tren había superado las correspondientes revisiones y reparaciones, y se encontraba en buen estado técnico.
 
@@ -1249,6 +1286,7 @@ señalizador). Además, existía un velocímetro que registraba los parámetros 
 
 ## Página 53
 
+
 14. La salida del material rodante eléctrico de la vía 5 de la estación de Aegviidu hacia la otra vía principal se produjo a través del punto de cruce n.º 26, que, junto con el punto de cruce n.º 24, forma un cruce doble. Mediante la actuación conjunta de estos puntos de cruce se regula simultáneamente el tráfico entre la vía 5 y las vías principales primera y segunda. Si los trenes que circulan por la vía principal primera de la estación de Aegviidu pueden superar el punto de cruce n.º 24, el punto de cruce n.º 26 se encuentra en una posición que permite a los trenes circular desde la vía principal segunda hacia la vía 5, pero también en sentido inverso, desde la vía 5 hacia la vía principal segunda. La posición del punto de cruce n.º 26 permitió la salida del material rodante eléctrico desde la vía 5 en dirección a la vía principal segunda.
 
 15. El maquinista del tren eléctrico que salió de la vía 5 de la estación de Aegviidu con el material rodante eléctrico no estaba seguro, al iniciar la marcha, de si circulaba hacia la vía principal I o la II.
@@ -1275,39 +1313,33 @@ señalizador). Además, existía un velocímetro que registraba los parámetros 
 
 ## Página 54
 
-26. El tiempo transcurrido desde el inicio de la marcha del material rodante eléctrico hasta la colisión con el tren de mercancías fue demasiado corto para el despachador de tráfico, a fin de llegar a la conclusión de que la composición del tren de sentido contrario había ingresado en la vía del tramo Kehra – Aegviidu.
-
-27. La indicación de la señalización automática de la locomotora del tren de mercancías n.º 2020 en la señal de locomotora correspondía a la indicación de la señal de vía a la que se aproximaba el tren.
-
-28. La tripulación de la locomotora del tren de mercancías n.º 2020 siguió las señales y las normas, propias de la situación habitual del tráfico, durante la circulación por el tramo entre Kehra y la estación de Aegviidu. Debido a la limitada comunicación con el despachador causada por la mala audibilidad de la comunicación por radio, y al esperar una obediencia y corrección evidentes del tráfico por parte de todos los maquinistas, la tripulación de la locomotora no sospechó la peligrosidad de lo que ocurría hasta unos segundos antes de la colisión. La tripulación de la locomotora carecía de la preparación psicológica para relacionar la salida de un vehículo desde una curva con el cambio de la indicación de la señal de paso inminente a prohibida.
-
-29. Las locomotoras de tipo C36-7i de AS EVR Cargo están equipadas, además del VEPS, con dispositivos Metrotec que funcionan según el principio GPS y con dispositivos a bordo TTX-REC-M6V2. Aunque los dispositivos pueden estar en perfecto estado de funcionamiento, la empresa utiliza oficialmente las posibilidades de los dispositivos mencionados únicamente de forma parcial para la recopilación y el análisis de determinados tipos de datos.
-
-30. Los dispositivos VEPS de la locomotora C36-7i n.º 1504 registraron los últimos datos a las 02:37:04. Sin los datos de los dispositivos Metrotec y TTX-REC-M6V2, en el presente informe de investigación habrían faltado datos sobre el movimiento de la locomotora durante más de 4 minutos antes del accidente.
-
-31. Los dispositivos de registro a bordo de las locomotoras de tipo C36-7i se encuentran en la parte delantera de la cabina del maquinista de la locomotora, donde, como consecuencia de la colisión con otro vehículo ferroviario, no se garantiza su fiabilidad para el almacenamiento de información.
-
-32. En la investigación de accidentes ferroviarios, la base de datos que refleja el tráfico ferroviario sería más completa si se verificara y mantuviera el funcionamiento de los dispositivos Metrotec que operan según el principio GPS y de los dispositivos a bordo TTX-REC-M6V2 en una medida que permitiera, cuando fuera necesario, utilizar la información almacenada en ellos.
-
-33. Los plazos definidos para la implementación del sistema de control de la circulación ETCS, conforme a los estándares paneuropeos nacionales, y del sistema de comunicación ferroviaria GSM-R describen la transición de forma general y establecen condiciones adicionales que favorecen la persistencia del bajo interés de los operadores ferroviarios por las actividades concretas destinadas a resolver el problema de manera sistémica.
-
-34. AS EVR Infra, AS EVR Cargo y Elektriraudtee AS han establecido sistemas de gestión de la seguridad en la empresa, sobre los cuales es posible recopilar la información necesaria sobre el incidente ocurrido el 23.12, analizarla, sacar conclusiones sobre la seguridad ferroviaria y planificar medidas para mejorar la seguridad.
-
+confiar en las indicaciones, basándose en la información del despachador de energía y de la tripulación de la locomotora del tren n.º 2020, el despachador de trenes habría podido llegar antes a las causas adecuadas de las indicaciones del monitor.
+26. El tiempo transcurrido desde el arranque de la unidad de tracción eléctrica hasta la colisión con el tren de mercancías fue demasiado corto para que el despachador de trenes llegara a la conclusión de que un tren en sentido contrario se había incorporado al segundo carril del tramo de estación Kehra – Aegviidu.
+27. La indicación de la señalización automática de la locomotora del tren de mercancías n.º 2020 correspondía en el semáforo de la locomotora a la indicación del semáforo de carril al que se aproximaba el tren.
+28. La tripulación de la locomotora del tren de mercancías n.º 2020 seguía, al circular por el tramo de estación Kehra – Aegviidu, las señales y las normas propias de la situación normal del tráfico. Debido a la limitación de la comunicación con el despachador causada por la mala audibilidad de la radio y esperando un cumplimiento del tráfico y una corrección por parte de todos los conductores de material rodante como algo evidente, la tripulación de la locomotora no tuvo duda sobre la peligrosidad de lo que ocurría hasta unos segundos antes de la colisión. La tripulación de la locomotora carecía de la preparación psicológica para relacionar entre sí la salida de material rodante de una curva y el cambio a indicación prohibida del semáforo de paso próximo.
+29. Las locomotoras tipo C36-7i de AS EVR Cargo están equipadas, además del VEPS, con dispositivos Metrotec que funcionan según el principio del GPS y con equipos a bordo TTX-REC-M6V2. Los dispositivos pueden estar plenamente operativos, pero la empresa utiliza oficialmente las posibilidades de los dispositivos nombrados solo parcialmente para la recopilación y el análisis de cierto tipo de datos.
+30. Los dispositivos VEPS de la locomotora C36-7i n.º 1504 grabaron los últimos datos a las 02:37:04. Sin los datos de los dispositivos Metrotec y TTX-REC-M6V2, en el presente informe de investigación faltarían datos sobre el movimiento de la locomotora durante más de 4 minutos antes del accidente.
+31. En las locomotoras tipo C36-7i, los equipos de grabación a bordo VEPS se encuentran en la parte frontal de la cabina del conductor de la locomotora, donde, como consecuencia de la colisión con otro material rodante ferroviario, no se garantiza su fiabilidad en el registro de información.
+32. En la investigación de accidentes ferroviarios, la base de datos que refleja el tráfico ferroviario sería más completa si se controlara y mantuviera el funcionamiento de los dispositivos Metrotec que funcionan según el principio del GPS y de los equipos a bordo TTX-REC-M6V2 en la medida que, en caso necesario, permita utilizar la información en ellos registrada.
+33. Los plazos definidos para la implantación del sistema de control de tráfico ETCS y del sistema de radioferrocarril GSM-R, conformes a las normas paneuropeas de ámbito estatal, describen la transición de manera general y establecen condiciones adicionales que favorecen la persistencia del escaso interés de los operadores ferroviarios respecto a acciones concretas para resolver el problema de forma sistemática.
+34. AS EVR Infra, AS EVR Cargo y Elektriraudtee AS han establecido sistemas de gestión de la seguridad en la empresa, sobre los cuales es posible recopilar la información necesaria sobre el accidente ocurrido el 23.12, analizarla, sacar conclusiones sobre la seguridad ferroviaria y planificar medidas para el refuerzo de la seguridad.
 # 4.4 Observaciones adicionales
-
-Las bases de datos que reflejan los accidentes ferroviarios y los diversos dispositivos de registro disponen de métodos de medición del tiempo autónomos, vinculados únicamente a dicho dispositivo. Por ello, la producción del mismo suceso se registra a diferentes horas con distintos dispositivos. Con diferentes métodos, la precisión del método de medición del tiempo es distinta. La hora de los datos escritos del velocímetro de la composición del tren eléctrico y de los despachadores es determinable en minutos
+Las bases de datos que reflejan accidentes ferroviarios y los distintos equipos de registro poseen únicamente modos de medición de tiempo autónomos, propios de cada dispositivo. Por ello, la ocurrencia del mismo evento queda registrada a diferentes horas por medio de distintos dispositivos. En el caso de distintos métodos, la precisión del modo de medición de tiempo es diferente. La hora de la magnitud de velocidad del tren eléctrico y de los datos escritos de los despachadores es determinable con precisión de minuto.
 
 ## Página 55
+
 
 con precisión. Los registradores de los equipos a bordo de las locomotoras de tipo VEPS y Metrotec del tren de mercancías C36-7, así como los de la centralización de despachos «Neman», conservan la precisión del tiempo de 1 segundo. El funcionamiento del registrador de tiempo de los equipos «Neman» se controla sistemáticamente. Los restantes métodos de medición del tiempo contienen mayor subjetividad. La empresa de transporte AS EVR Infra utiliza las posibilidades de los equipos a bordo de tipo GPS y TTX-REC-M6V2 de Metrotec en el procesamiento interno de datos únicamente de forma parcial.
 
 ## Página 56
+
 
 # 5. MEDIDAS ADOPTADAS
 AS EVR Infra restauró el desvío n.º 18 de la estación de Aegviidu el 23.12.2010, y este se reincorporó al sistema de centralización eléctrica (CE) a las 10:20. El trayecto principal I y su gabarito de construcción ferroviaria del tramo entre las estaciones de Kehra y Aegviidu quedaron liberados a las 19:52 del 23.12.2010, y el trayecto principal I se abrió al tráfico de trenes con velocidad limitada. La reparación de la vía del trayecto principal II del tramo entre estaciones se completó a las 17:30 del 27.12.2010 y se abrió al tráfico ferroviario el 28.12 a las 01:15 tras la liberación del gabarito de construcción ferroviaria de la catenaria rota. La catenaria se restauró a las 18:31 del 28.12.2010.
 AS EVR Infra ha iniciado la reconstrucción de las vías de la estación de Aegviidu. AS Eesti Raudtee, Elektriraudtee AS, el Servicio Ferroviario del Departamento de Carreteras y Ferrocarriles del Ministerio de Economía y Comunicaciones (MKM) y la Agencia de Supervisión Técnica han estado al tanto del curso de la investigación, lo que les ha permitido ya, durante la investigación, preparar la tramitación de las propuestas previstas.
 
 ## Página 57
+
 
 # 6. RECOMENDACIONES PARA MEJORAR LA SEGURIDAD DEL TRÁFICO FERROVIARIO
 Elektriraudtee AS
@@ -1325,6 +1357,7 @@ AS EVR Infra
 10. Elaborar una lista de control de las indicaciones de todos los incidentes, averías de los equipos y situaciones de peligro que alerten a los monitores de los despachadores de trenes de la zona, junto con una lista de las distintas causas que puedan provocarlas. Establecer
 
 ## Página 58
+
 
 la disponibilidad de la lista de control en el puesto de trabajo del despachador y el conocimiento de su contenido por parte de los despachadores de trenes.
 11. Utilizar los materiales del accidente ocurrido en la formación complementaria de los despachadores para la identificación de información que indique la ocurrencia de un accidente grave y para el fomento de hábitos de actuación racionales.
@@ -1347,6 +1380,7 @@ Miembro de la comisión
 Miembro de la comisión
 
 ## Página 59
+
 
 ### Listado de documentos:
 1. Informe de Eesti Raudtee AS sobre el accidente ocurrido entre las estaciones de Kehra y Aegviidu. Servicio de Supervisión Técnica, 27.12.2010 – 4 páginas.
@@ -1384,6 +1418,7 @@ Miembro de la comisión
 
 ## Página 60
 
+
 33. Acta de control del estado de embriaguez del empleado mediante alcoholímetro digital. AS Elektriraudtee, 27.09.2010 – 1 página.
 34. Fotografías de la colisión entre el material rodante eléctrico 2203/04 y el tren de mercancías entre las estaciones de Kehra y Aegviidu, pk 159 km 9. AS Elektriraudtee, 23.12.2010 – 8 páginas.
 35. Reclamación por daños causados por el accidente ferroviario ocurrido entre las estaciones de Aegviidu y Kehra el 23.12.2010. AS GoRail, 07.03.2011 nº 1-01/28 – 2 páginas.
@@ -1416,6 +1451,7 @@ Miembro de la comisión
 62. Declaración. Ayudante de maquinista de la locomotora C-36 nº 1504, 23.12.2010 – 2 páginas.
 
 ## Página 61
+
 
 63. Fotografías de los daños de la locomotora diésel C36-7i nº 1504 en la colisión entre el tren eléctrico 2203/04 y el tren de mercancías 2020 en el tramo entre las estaciones de Kehra y Aegviidu, pk 159, pk 9, el 23.12.2010. AS EVR Cargo – 9 páginas.
 64. Acta relativa a las declaraciones orales registradas en los dispositivos de grabación tras el accidente ferroviario ocurrido el 23.12.2010 en el tramo entre las estaciones de Kehra y Aegviidu. Tallin, 31.03.2011 – 1 página.

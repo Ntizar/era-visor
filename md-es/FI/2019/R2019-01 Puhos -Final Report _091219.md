@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 4: cifras largas: faltan 5/5 (100%)"]
-notas_cifras: ["página 12: cifras cortas: 2/13", "página 16: original bilingüe: se compara contra el idioma principal (FI)", "página 17: cifras cortas: 7/20", "página 18: cifras cortas: 2/28", "página 19: cifras cortas: 2/4", "página 20: cifras cortas: 7/37"]
 ---
 
 ## Página 1
@@ -121,19 +120,19 @@ Otras investigaciones ..........................................................
 ANÁLISIS ................................................................................................................................................................... 35
 | 3 | ANÁLISIS 35 ................................................................................................................................................................... |
 |  | 3.1 Análisis del suceso 35 . ............................................................................................................................ |
-|  | 3.1.1 Sondeos geológicos y presentación de la notificación de trabajo en vía 35 . . ...................................................... |
-|  | 3.1.2 Retraso en la preparación y en el inicio de los trabajos de sondeo 36 . . ..................................................... |
+|  | 3.1.1 Sondeos geotécnicos y presentación de la declaración de trabajo en vía 35 . . ...................................................... |
+|  | 3.1.2 Retraso en la preparación y el inicio de los trabajos de sondeo 36 . . ..................................................... |
 |  | 3.1.3 Permiso de trabajo en vía e inicio de los trabajos de sondeo 36 . . ......................................................................................... |
 |  | 3.1.4 Aproximación del tren y detección del peligro de colisión 37 . . ..................................................... |
 |  | 3.1.5 Colisión 38 . . ................................................................................................................................................... |
 | 4 | CONCLUSIONES 39 ................................................................................................................................................ |
 | 5 | RECOMENDACIONES DE SEGURIDAD 40 ........................................................................................................................ |
 |  | 5.1 Precisión de las instrucciones de posicionamiento GPS en el proceso de permiso de trabajo en vía 40 ...................... |
-|  | 5.2 Uso de señales de posicionamiento y elementos de vía en la comunicación entre el control de tráfico y el responsable del trabajo en vía 40 .............................................................................................. |
-|  | 5.3 Armonización de las plantillas cartográficas 40 . .................................................................................................. |
+|  | 5.2 Uso de marcas de posicionamiento y elementos de vía en la comunicación entre el regulador del tráfico y el responsable del trabajo en vía 40 .............................................................................................. |
+|  | 5.3 Armonización de las bases cartográficas 40 . .................................................................................................. |
 |  | 5.4 Verificación de competencias en la formación para trabajos en vía 41 . ........................................................................ |
 | 5.5 Medidas adoptadas 41 . ............................................................................................................................ |
-| BIBLIOGRAFÍA 43 ........................................................................................................................................................... |  |
+| FUENTES 43 ........................................................................................................................................................... |  |
 | RESUMEN DE LAS OPINIONES OBTENIDAS DEL BORRADOR DEL INFORME DE INVESTIGACIÓN 44 ................. |  |
 
 ## Página 5

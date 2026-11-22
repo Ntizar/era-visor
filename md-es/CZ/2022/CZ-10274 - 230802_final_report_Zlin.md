@@ -10,13 +10,13 @@ chars: 171270
 ratio_longitud: 1.26
 tokens_in: 70197
 tokens_out: 48746
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 52: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -80,8 +80,8 @@ debía cumplir simultáneamente varias obligaciones para girar a la izquierda de
 segura y no detectó ni reaccionó a tiempo a la advertencia de limitada visibilidad
 del equipo de enclavamiento del paso a nivel.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 •
@@ -134,8 +134,8 @@ adoptar medidas internas por parte del propietario de los equipos de señalizaci
 que regulan el tráfico en los cruces adyacentes a los pasos a nivel en el término municipal
 de la ciudad de Zlín, que garanticen todos los medios técnicos actualmente disponibles para
 
-
 ## Página 5
+
 
 informar del estado y permitan el acceso remoto a la tecnología del equipo de
 señalización luminosa de los cruces a los empleados de la organización de servicio
@@ -154,8 +154,8 @@ adyacentes a los pasos a nivel, detectados a través de la tecnología de su pro
 informa de los estados de los equipos de señalización luminosa de los cruces o durante
 la actividad de patrulla y la conducción de vehículos del transporte público.
 
-
 ## Página 6
+
 
 ## SUMMARY
 24th July 2022, 17:31 (15:31 GMT).
@@ -211,8 +211,8 @@ condition that the traffic signal control equipment of crossroad will be permane
 service and the yellow discontinuous light wont be use. This permission does not
 solve performance of transmission information about failure of the traffic signal
 
-
 ## Página 7
+
 
 control equipment of the crossroad to IM for adopt measure for ensure safety at the
 level crossing No. P8232.
@@ -252,6 +252,7 @@ of traffic signal control equipments of crossroads or during patrol of Police or
 driving vehicles of public transport.
 
 ## Página 8
+
 
 # Índice
 1 RESUMEN.........................................................................................................................3
@@ -293,8 +294,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................43
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.............................43
 
-
 ## Página 9
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................................................................................44
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios....................................44
@@ -323,8 +324,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...........................................................................52
 ANEXOS..............................................................................................................................54
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -410,8 +411,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 11
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb. 
@@ -462,6 +463,7 @@ SŽDC T100 Reglamento para la explotación de las instalaciones de señalizació
 
 ## Página 12
 
+
 ## 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
 DI decidió iniciar la investigación de la MU en cuestión el 24. 7. 2022.
@@ -490,8 +492,8 @@ inspección del lugar de la MU, incluidos los vehículos ferroviarios participan
 •
 medición de los parámetros de ŽP;
 
-
 ## Página 13
+
 
 •
 análisis de la documentación solicitada al explotador de la vía, al transportista, a la PČR, a la TS Zlín, a la Dopravní společnost Zlín-Otrokovice, a la empresa Patriot y a la DÚ;
@@ -532,8 +534,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La ŽP en el pk 6,557 se encuentra en la vía ferroviaria, categoría nacional, Zlín střed – Otrokovice, entre las estaciones de ferrocarril Zlín-Malenovice y Zlín střed, y está protegida por una instalación de
 
-
 ## Página 14
+
 
 protección de paso a nivel luminosa sin barreras, categoría PZS 3SBI. El explotador de la ŽP y de la PZZ, en virtud de un contrato con el propietario privado (detalles en la sección 3.1.6. ZZ), era SŽ (en adelante, también explotador contractual). La vía y la carretera se cruzan con un ángulo de 88° (según los datos del explotador de la vía). La carretera (a la izquierda en el sentido de circulación del tren) es local – de servicio, siendo el propietario y gestor el municipio con estatuto de ciudad de Zlín. La ŽP se encuentra en una intersección en la que la carretera local mencionada se une a la carretera I/49 Otrokovice – paso fronterizo Střelná (ČR) / Lysá pod Makytou (SR), que discurre paralela a la vía. La carretera I/49 es propiedad de la República Checa.
 Fig. n.º 1: Esquema del lugar de origen de la MU, orientación y visibilidad de los semáforos
@@ -546,8 +548,8 @@ el tren estaba compuesto por la unidad automotora de dos coches «Regionova» se
 •
 la parte delantera del ŘV 914.077-3 se detuvo tras la MU en la vía de servicio en el pk 6,623, es decir, a 66 m de la ŽP;
 
-
 ## Página 15
+
 
 •
 el ŘV 914.077-3 en cabeza del tren descarriló con el primer eje a la izquierda en el sentido de circulación. El segundo eje abandonó con la rueda derecha la cabeza del carril derecho (levantamiento) en el sentido de circulación debido a la inclinación a la izquierda de la carrocería tras el descarrilamiento del primer eje. El HDV 814.077-4 en cola del tren permaneció detenido sin descarrilar;
@@ -563,8 +565,8 @@ Estado de la infraestructura y de la instalación de protección:
 La ŽP P8232 de vía única es un cruce de la vía con una carretera, que da acceso a un centro comercial. La ŽP estaba protegida por una instalación de protección de paso a nivel luminosa sin barreras (tecnología PZS 3SBI de AŽD 71), que se encontraba en aviso en el momento de la inspección inicial. La ŽP, desde el sentido de circulación de los vehículos de motor (OA) procedentes de Otrokovice a la izquierda, estaba señalizada con las señales de tráfico A32a «Cruz de aviso para paso a nivel de vía única», colocadas a la izquierda y a la derecha junto al bordillo en un poste común con dos semáforos (a la derecha) y un semáforo (a la izquierda) a una distancia de 4,40 m del eje de la TK. Desde el mismo lado, la ŽP estaba señalizada en el poste derecho con otra cruz de aviso (VK) para el sentido de circulación de los vehículos de carretera hacia la ŽP a la derecha del centro de la ciudad de Zlín. Desde el lado opuesto de la ŽP, desde el centro comercial, la ŽP también estaba señalizada con dos cruces de aviso (VK), a la izquierda y a la derecha junto al bordillo en un poste común con semáforos a una distancia de 4,50 m (derecho en el sentido de circulación de los vehículos de carretera) y 4,60 m (izquierdo en el sentido de circulación de los vehículos de carretera) del eje de la TK. Todas las cruces de aviso (VK) se encontraban en buen estado técnico, al igual que todos los semáforos. Todos los semáforos llevaban en su parte trasera una identificación alfanumérica legible. En todos los semáforos de la ŽP se había activado el aviso (destello de luces rojas + aviso acústico) y estaban colocadas placas con el aviso «CUIDADO CON EL TREN». Asimismo, DI constató que la ŽP se encuentra en una intersección regulada por señales luminosas, encontrándose el SSZ en el modo «luz amarilla intermitente» en el momento de la inspección del lugar de la MU. Según la declaración del representante del explotador contractual de la ŽP en el lugar de la MU, la PZZ y el SSZ estaban interconectados mediante dependencias eléctricas.
 DI no midió la distancia mínima requerida de 10 m entre el límite de la intersección y la banda de peligro de la ŽP. El motivo fue que el inicio de la curvatura del borde de la calzada de la carretera en el sentido desde el centro comercial (primer límite posible de la intersección) comienza en el límite de 2,70 m – 3,00 m del eje del carril, es decir, casi en el límite de la banda de peligro de la ŽP a la izquierda en el sentido de circulación del tren (primer bordillo no perpendicular). La señalización horizontal «Línea transversal continua» (segundo límite posible de la intersección) se encontraba en el sentido desde el centro comercial a una distancia de 7,30 m antes de la banda de peligro de la ŽP a la izquierda en el sentido
 
-
 ## Página 16
+
 
 de circulación del tren. Este hecho confirma de forma fiable que la ŽP se encuentra en una intersección. La calzada del paso a nivel y la carretera adyacente estaban secas en el momento de la inspección inicial. El arco de acceso desde el carril de desvío independiente de la carretera I/49 desde Otrokovice a la izquierda (sentido de circulación de los vehículos de motor) no estaba delimitado por señalización horizontal longitudinal. Las huellas de las ruedas de los vehículos en la amplia superficie de asfalto dentro de la intersección indicaban, orientativamente, que la dirección de acceso más frecuente a la ŽP de los vehículos de carretera que giran a la izquierda era por el arco izquierdo hacia la ŽP. A la izquierda del eje del carril, tras la ŽP en el sentido de circulación del tren, se encontraba el edificio de la tecnología de la PZZ.
 En el edificio de la tecnología de la PZZ, con la presencia de DI, se descargaron los datos de archivo del dispositivo de registro con el fin de que fueran evaluados por una persona técnicamente competente del explotador contractual de la ŽP. Asimismo, se documentó fotográficamente el Registrador de averías del equipo de comunicaciones y protección, el plan de mantenimiento y los protocolos de las mediciones en servicio.
@@ -590,6 +592,7 @@ distancia de 26 – 30 m del nivel de los semáforos:
   la longitud de visibilidad Dz de los semáforos estaba limitada (el semáforo derecho aún no era visible, es decir, a la distancia de 28 m la visibilidad del mismo estaba obstruida por el poste con la señal de tráfico
 
 ## Página 17
+
 
 «Sentido obligado de circulación por la derecha» destinado a los participantes en el tráfico por carretera que circulan en dirección a Otrokovice) o no estaba garantizado (la señal luminosa izquierda ya dejaba de ser visible);
 •
@@ -624,8 +627,8 @@ A 31b – 212 m;
 A 31a + A 30 – 295 m.
 La ubicación de las señales de tráfico verticales anteriores no correspondía a la distancia requerida de 80/160/240 m. El motivo del desplazamiento de la señal de tráfico vertical A 31c fue el límite de la parada de transporte público en versión con un recorte fuera del carril de circulación. Con ello se evitó su aún más
 
-
 ## Página 18
+
 
 limitada visibilidad en el lado izquierdo de la carretera I/49 debido a un mayor desplazamiento respecto al eje del carril hacia la izquierda y a su obstrucción cuando los vehículos de transporte público se detienen en la parada. Las señales de señalización (señales de tráfico A31a, A31b y A31c) en el estado encontrado durante la inspección el día del suceso del MU no siempre podían ser advertidas por el conductor del automóvil al circular en el carril interior izquierdo, debido al intenso tráfico y a su obstrucción por los vehículos motorizados por carretera que circulan a la derecha y en sentido contrario, durante todo el trayecto en dirección al ŽP. En la inspección del lugar del MU el 17. 4. 2023 se constató la nueva instalación de las señales de señalización en versión con borde fluorescente amarillo-verde.
 Estado del automóvil de turismo:
@@ -660,8 +663,8 @@ En el MU, el daño causado en las mercancías transportadas, el equipaje y otros
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia de la producción del MU se interrumpió el tráfico ferroviario entre la est. Zlín-Malenovice y la est. Zlín střed desde las 17:31 h del 24. 7. 2022 hasta las 11:55 h del 25. 7. 2022.
 
-
 ## Página 19
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
 Personas participantes por:
@@ -697,8 +700,8 @@ la estación de origen del tren fue la est. Otrokovice, la estación de destino 
 •
 en el momento de la producción del MU no viajaban pasajeros en el tren;
 
-
 ## Página 20
+
 
 •
 el DV marcado con * estaba descarrilado;
@@ -741,6 +744,7 @@ La vía en el lugar del MU, en la dirección de circulación del tren, discurre 
 
 ## Página 21
 
+
 de la ciudad de Zlín, a continuación continúa con una pendiente del 1,4 % hasta el PFE y tras él continúa como vía municipal hacia el centro comercial. En todos los sentidos de circulación hacia el PFE desde las vías públicas se encuentran situados los AP para el paso a nivel de vía única y avisadores con señal positiva y placas «Atención tren».
 El SPN de categoría PZS 3 SBI, tipo AŽD 71, se puso en servicio en el año 2001. El DÚ emitió el día 27. 3. 2001 para el SPN el Certificado de idoneidad del dispositivo técnico destinado n.º ev. PZ 1243/01-E.43, que el día 22. 2. 2011 prorrogó por tiempo indefinido. Durante la inspección del lugar del SU, el SPN mostraba un funcionamiento correcto y, de conformidad con lo dispuesto en el § 4 apartado 3 del decreto n.º 177/1995 Sb., con la antelación temporal suficiente (según los datos del archivo de actividad del SPN y de la Tabla de paso a nivel), advertía a los usuarios de la vía pública con luz roja intermitente y señal sonora intermitente de que se aproximaba al PFE un tren o un DV (el análisis independiente del hecho de que el PFE se encuentra en una intersección, incluidos los detalles relativos a la visibilidad de los avisadores y para el trayecto concreto del VM participante en el SU, se indica en el capítulo 4.1.4 de este IAE).
 Del análisis de los datos registrados por el dispositivo de registro del SPN se constató, entre otros:
@@ -757,6 +761,7 @@ Sobre la base del análisis de los datos registrados se constató que el circuit
 Las inspecciones periódicas del SPN fueron realizadas por el operador ferroviario SŽ según el plan de mantenimiento aprobado. La última inspección y medición según el plan de mantenimiento se llevó a cabo el día 20. 7. 2022 con la conclusión de que el dispositivo de seguridad había sido sometido a pruebas y mostraba un funcionamiento correcto. La última revisión periódica de la instalación eléctrica del SPN se realizó el día 1. 11. 2020 sin defectos detectados. La última inspección integral antes de producirse el SU se realizó el día 16. 11. 2020. El defecto detectado durante la inspección integral se refería a deficiencias en la documentación básica del SPN. La conclusión de la inspección integral establece que el SPN se encuentra en estado operativo.
 
 ## Página 22
+
 
 El PFE en el km 6,557 es de vía única, tiene una anchura de 14,5 m (medida en el eje de la vía hasta los bordes, formados por arcos), una longitud de 6,53 m (según ČSN 73 6380/2020), una longitud constructiva de la estructura de paso a nivel de 23,4 m (la parte más larga del relleno de caucho) y el ángulo de cruce de la vía pública con la línea es, según los datos del operador ferroviario, de 88º. El ancho libre de la vía medido en el límite de la intersección formado por la señalización horizontal «Línea transversal continua» es de 11,5 m. El espacio de la vía pública (con aceras junto a ambos bordes formados por bordillos y una franja verde) es en el punto previo al inicio de los arcos de la intersección de 17,5 m. La estructura de paso a nivel está formada por el sistema modular de paso a nivel STRAIL, compuesto por paneles individuales de caucho unidos por tirantes de accionamiento. Los cuñas de protección están instaladas en el eje de la vía a ambos lados del PFE, las anchuras medidas de los canales para el balasto estaban correctas.
 El parámetro Dp, necesario para el cálculo del valor mínimo de la longitud de visibilidad para el vehículo rodado más lento Lp según la norma ČSN 736380/2020, fue medido por el DI con una longitud de 6,53 m.
@@ -784,6 +789,7 @@ jefe de estación de la est. Zlín-Malenovice
 
 ## Página 23
 
+
 ◦después de las 17. h le llamó un colega para decirle que llegaría a relevarle en el turno con el tren Os 14269;
 ◦para el tren Os 14269 estableció la ruta estándar de tren;
 ◦las indicaciones de todos los SPN en el tramo de línea hasta la est. Zlín střed se encontraban en estado sin averías;
@@ -802,6 +808,7 @@ en el sentido de los carriles directos de la carretera principal I/49 desde el c
 El día 24. 7. 2022 a las 17:29:33 h partió el tren Os 14269 de la est. Zlín-Malenovice en la vía simple en dirección a la est. Zlín střed. En la vía 1138 m alcanzó una velocidad de 59 km.h-1. Según la grabación de la cámara, durante el tiempo en que el SSZ de la intersección no funcionaba, pero simultáneamente durante el tiempo en que se emitían las alarmas del SPN, se produjo la circulación de dos VM en el PFE desde el sentido de la carretera I/49 desde Otrokovice en dirección a la izquierda. Inmediatamente antes del paso del tren por el PFE, el primer VM que circulaba por delante del tren logró cruzar el PFE. El segundo VM colisionó con el tren en circulación en el paso a nivel. El maquinista utilizó dos veces las advertencias «Atención» con la bocina de la locomotora, en el segundo caso ya frenaba también de forma rápida, pero debido a la corta distancia ya no pudo evitar la colisión. Se produjo la colisión con el VM, el descarrilamiento de la L 914.077-3 con el VM encastrado en la cabeza del DV a la izquierda en el sentido de circulación del tren. Tras la detención de la cabeza del tren en el km 6,623, es decir, 66 m tras el lugar de la colisión, el personal del tren comprobó el estado de salud actual de los participantes en el SU, notificó la producción del SU a los servicios del IZS y al jefe de estación de la est. Zlín-Malenovice (durante la circulación del tren Os 14269 hacia el PFE se produjo la entrega del servicio al jefe de estación del turno nocturno), que a continuación actuó según el horario de notificación. La reacción del maquinista antes de producirse el SU se indica en el capítulo 3.1.7 y 3.1.9 de este IAE.
 
 ## Página 24
+
 
 ### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
 •
@@ -848,19 +855,21 @@ El operador del PFE incluido el SPN fue SŽ, en virtud de una relación contract
 
 ## Página 25
 
-de modo que ninguna parte de la cruz de aviso estuviera a menos de 4 m del eje de la vía más alejada. En el momento de la construcción del PFR, el entonces gestor de la vía (ČD DDC, SDC Přerov) advertía sobre los riesgos que surgirían al incrustar un conjunto constructivo (el paso a nivel) dentro de otro conjunto constructivo (la intersección). Todas las advertencias fueron consideradas infundadas por el órgano de apelación (MD) en el marco del procedimiento de construcción, y se permitió al PFR, incluida la señalización de paso a nivel (PZZ), ser utilizado por la oficina de construcción especial (DÚ). El entonces gestor de la vía (ČD DDC, SDC Přerov) y el actual (organización sucesora Správa železnic, organización estatal) operan así el PFR con los riesgos que surgen ante la falla del semáforo de la intersección (SSZ). El concepto de riesgo está relacionado con la probabilidad o posibilidad de que se produzca un accidente o un daño. Es en realidad el resultado de la activación de un determinado peligro, que conlleva un determinado consecuencia negativa. El riesgo es, por tanto, una función de la probabilidad de que la frecuencia, intensidad y duración de la activación sean suficientes para que el peligro se transforme desde su estado potencial en una consecuencia negativa. Los riesgos que surgen al transitar vehículos por carretera por el PFR desde la dirección de la carretera I/49 desde Otrokovice y Dlouhé díly ante la falla del SSZ de la intersección, son permanentes. Debido a que la situación de tráfico en la intersección, la hora del día, la situación meteorológica y las características psicológicas de los conductores de los vehículos que circulan hacia este PFR en el momento de la falla del SSZ son factores variables adicionales, no es posible determinar su grado de intensidad de manera igual para todos los tránsitos de vehículos por carretera desde las dos direcciones mencionadas anteriormente. El análisis detallado, incluidas las conclusiones y hallazgos, se indica en los capítulos 4.1.4 y 4.1.7 de este IZ. El transportista está, entre otras obligaciones, obligado a asegurar que el maquinista conduzca el TDV solo desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina frontal del maquinista en la dirección de marcha, que desde el TDV en marcha observe la vía y las señales y actúe según los hechos constatados, y que durante la marcha no supere la velocidad máxima permitida, establecida en el horario de circulación o impuesta como velocidad limitada. En la investigación no se constató el incumplimiento de las funciones y obligaciones del gestor de la vía y del transportista. ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios En la investigación no se constató el incumplimiento de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios. ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias En la investigación no se constató el incumplimiento de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios. ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley nº 266/1994 Sb. es una autoridad administrativa subordinada al MD. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de la oficina de construcción, el ejercicio de la oficina de construcción especial para obras ferroviarias y obras en la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. Dado los hallazgos indicados en el capítulo 3.1.3 de este IZ, fue necesario describir y evaluar el estado de la parte constructiva del PFR y de la PZZ no solo en el momento de la ocurrencia del SU, sino también en el periodo que lo precedió
 
+de modo que ninguna parte de la cruz de aviso estuviera a menos de 4 m del eje de la vía más alejada. En el momento de la construcción del PFR, el entonces gestor de la vía (ČD DDC, SDC Přerov) advertía sobre los riesgos que surgirían al incrustar un conjunto constructivo (el paso a nivel) dentro de otro conjunto constructivo (la intersección). Todas las advertencias fueron consideradas infundadas por el órgano de apelación (MD) en el marco del procedimiento de construcción, y se permitió al PFR, incluida la señalización de paso a nivel (PZZ), ser utilizado por la oficina de construcción especial (DÚ). El entonces gestor de la vía (ČD DDC, SDC Přerov) y el actual (organización sucesora Správa železnic, organización estatal) operan así el PFR con los riesgos que surgen ante la falla del semáforo de la intersección (SSZ). El concepto de riesgo está relacionado con la probabilidad o posibilidad de que se produzca un accidente o un daño. Es en realidad el resultado de la activación de un determinado peligro, que conlleva un determinado consecuencia negativa. El riesgo es, por tanto, una función de la probabilidad de que la frecuencia, intensidad y duración de la activación sean suficientes para que el peligro se transforme desde su estado potencial en una consecuencia negativa. Los riesgos que surgen al transitar vehículos por carretera por el PFR desde la dirección de la carretera I/49 desde Otrokovice y Dlouhé díly ante la falla del SSZ de la intersección, son permanentes. Debido a que la situación de tráfico en la intersección, la hora del día, la situación meteorológica y las características psicológicas de los conductores de los vehículos que circulan hacia este PFR en el momento de la falla del SSZ son factores variables adicionales, no es posible determinar su grado de intensidad de manera igual para todos los tránsitos de vehículos por carretera desde las dos direcciones mencionadas anteriormente. El análisis detallado, incluidas las conclusiones y hallazgos, se indica en los capítulos 4.1.4 y 4.1.7 de este IZ. El transportista está, entre otras obligaciones, obligado a asegurar que el maquinista conduzca el TDV solo desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina frontal del maquinista en la dirección de marcha, que desde el TDV en marcha observe la vía y las señales y actúe según los hechos constatados, y que durante la marcha no supere la velocidad máxima permitida, establecida en el horario de circulación o impuesta como velocidad limitada. En la investigación no se constató el incumplimiento de las funciones y obligaciones del gestor de la vía y del transportista. ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios En la investigación no se constató el incumplimiento de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios. ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias En la investigación no se constató el incumplimiento de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios. ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley nº 266/1994 Sb. es una autoridad administrativa subordinada al MD. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de la oficina de construcción, el ejercicio de la oficina de construcción especial para obras ferroviarias y obras en la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. Dado los hallazgos indicados en el capítulo 3.1.3 de este IZ, fue necesario describir y evaluar el estado de la parte constructiva del PFR y de la PZZ no solo en el momento de la ocurrencia del SU, sino también en el periodo que lo precedió
 
 ## Página 26
 
+
 (el periodo de construcción desde la solicitud de licencia de construcción hasta la decisión de recepción que autoriza la utilización de la obra, es decir, la actividad del DÚ, del órgano de apelación en materia de construcción del MD y de los demás participantes en el procedimiento de construcción). La descripción se divide en varias partes temáticas, siguiendo la dirección de una investigación orientada a la seguridad y la obtención de pruebas para la determinación de las causas y circunstancias de la ocurrencia del SU. Los comentarios y hallazgos del DI, derivados de los análisis, se complementan pertinentemente con extractos del Informe CDV y de documentos del expediente del DÚ llevado para la construcción del PFR: El constructor final y propietario de la obra ferroviaria recepcionada, el PFR en el km 6,557 incluida la PZZ, en la vía ferroviaria, categoría de ámbito nacional, Zlín střed – Otrokovice, fue la sociedad UNIMEX GROUP, a.s. El gestor del PFR en el km 6,557 incluida la PZZ fue la SŽ en virtud de una relación contractual con el propietario del PFR y de la PZZ. 1. Extracto de los documentos relevantes que acompañaron el procedimiento de construcción hasta la recepción y la puesta en servicio del PFR y de la PZZ: ### 1a) El documento más antiguo y a la vez más relevante desde el punto de la seguridad es la exención del MDaS "Exención nº 2/1997 – 0 210", ref.: 18507/97–O 210, de 28. 3. 1997 (en adelante, la exención). Qué debía autorizarse mediante la exención (lo que solicitaba el constructor): • La cooperativa de consumo Jednota (en adelante, Jednota s.d.) en Zlín (solicitante que no figura en el rol de constructor del PFR con licencia de construcción, también en adelante, el Solicitante) solicitaba, según el texto de la exención, "la autorización de una exención a la disposición vinculante del artículo 4.2.1 de la norma checa ČSN 73 6380/1993 'Pasos a nivel y pasos peatonales ferroviarios', en la redacción de la modificación 1 de la norma mencionada…"; Qué autorizó la exención: • El MDaS autoriza mediante la exención al Solicitante textualmente: "La nueva vía local que se establece en el término municipal de Louky nad Dřevnicí podrá cruzar con la carretera I/49 reconstruida a una distancia de 7 m de la banda de peligro del nuevo paso a nivel ferroviario permanente de vía única situado en el km 6,568 de la línea ferroviaria ČD nº 335 'Otrokovice -Vizovice'." A continuación siguen 10 puntos – condiciones de la exención (puntos importantes seleccionados, ver más abajo). ### Análisis del DI sobre la discrepancia entre lo que debía ser y lo que fue autorizado mediante la exención: El artículo 4.2.1. de la ČSN 73 6380/1993 y su parte sobre la problemática de la exención dice: "El cruce de vías terrestres en un paso a nivel o en su inmediata proximidad no está permitido. Si las vías terrestres se cruzan antes del paso a nivel, la distancia desde el borde más cercano de la intersección hasta la banda de peligro del paso a nivel, medida en el eje de la vía, debe ser de al menos 10 m. En nuevas construcciones de vías terrestres, de al menos 20 m." De acuerdo con el § 2 apartado 9) del decreto nº 99/1989 Sb., la intersección se define así: "Una intersección es el lugar donde las carreteras se cruzan o se unen. No se considera intersección la desembocadura de un camino de campo o forestal en otra carretera." El artículo 4.2.1. de la ČSN 73 6380/1993, en otras palabras, dice que el paso a nivel no puede estar en la intersección o en su inmediata proximidad. Dado que la intersección está separada de las propias vías y de los pasos a nivel por el borde de la intersección, en el artículo 4.2.1. de la ČSN 73 6380/1993 se indica además que "...la distancia desde el borde más cercano de la intersección hasta
 
-
 ## Página 27
+
 
 la banda de peligro del paso a nivel, medida en el eje de la vía, debe ser de al menos 10 m. En nuevas construcciones de vías terrestres, de al menos 20 m.". Si tomamos ahora el texto de la exención "La nueva vía local que se establece en el término municipal de Louky nad Dřevnicí podrá cruzar a 7 m de la banda de peligro del nuevo paso a nivel ferroviario permanente de vía única…" y lo comparamos con el hallazgo del capítulo 3.1.3 de este IZ y además con lo que define el borde de la intersección (§ 2 apartado 4) del decreto nº 99/1989 Sb., "El borde de la intersección es una línea transversal continua (nº V 5, nº V 6a o nº V 6b); donde no existe tal línea, el borde de la intersección lo forma la perpendicular al eje de la calzada en el punto donde para la intersección comienza la curvatura de la calzada", entonces es evidente que el texto de la redacción de la exención está formulado erróneamente y el valor de 7 m, si consideráramos la acortación de la distancia requerida según el artículo 4.2.1. de la ČSN 73 6380/1993, no fue cumplido por la construcción. El PFR, al evaluar el inicio de la intersección en la dirección de la vía que atraviesa el PFR (desde el centro comercial), determinado por la señalización de tráfico "línea transversal continua", se encuentra, según los hallazgos del capítulo 3.1.3 de este IZ, claramente dentro de la intersección. Al evaluar el inicio de la intersección en la dirección de la vía que atraviesa el PFR (desde el centro comercial) determinado por "donde para la intersección comienza la curvatura de la calzada", se encuentra, según los hallazgos del capítulo 3.1.3 de este IZ, también dentro de la intersección. Sobre la problemática exención, en las copias recibidas de documentos del expediente para la construcción "Conexión viaria del complejo comercial Zlín-Louky – Obra Paso a nivel ferroviario" figuran los siguientes hechos y hallazgos seleccionados: • El documento de la Oficina del Distrito de Zlín – departamento de transporte y economía carretera, ref.: RD823/98-Ax/280 de 24. 3. 1998 con el título "ASUNTO: Conexión viaria del complejo comercial en Louky con la carretera I/49 – comunicación y postura" contiene, entre otros, el texto: "...el desplazamiento de la línea ferroviaria es una inversión financieramente costosa y por ello el inversor de la obra prefirió tramitar la exención a la ČSN en el Ministerio de Transportes y Comunicaciones en Praga. El inversor de la obra obtuvo la exención a la ČSN, pero esto no cambia en nada el hecho de que el nuevo paso a nivel a nivel en la inmediata proximidad de la carretera I/49 será un lugar peligroso tanto para el tráfico en la carretera como en el ferrocarril"...; • El documento de ČD DDC, SDC Přerov, de 26. 11. 1999, ref.: 3018/99-ST con el título "Asunto: TBZ del paso a nivel 6,557 de la línea Otrokovice – Vizovice" contiene, entre otros, el texto: ... ### "Al evaluar el cumplimiento de la exención al artículo mencionado anteriormente de la ČSN desde el punto de la construcción, no fuimos capaces de conciliar la determinación del lugar 'cruce de la vía local con la carretera I/49 reconstruida', que es el término que utilizó el redactor de la exención del MDaS. En esta situación no nos quedó más que describir el estado real: 1. La distancia entre la banda de peligro del paso a nivel y el borde de la intersección de la carretera I/49 es inmedible (prácticamente negativa), los arcos de curvatura de la intersección comienzan directamente en el paso a nivel. 2. Puesto que no fuimos capaces de conciliar el término 'cruce de vías' y puesto que por razón de la asimetría no era posible medir la vía en el eje, evaluamos y medimos lo siguiente en la dirección de la señalización kilométrica de la línea: - al inicio del paso a nivel medimos entre la banda de peligro del paso a nivel y el carril de circulación directo de la carretera I/49 (idéntico al bordillo de la carretera paralelo a la línea ferroviaria) una distancia de 6,10 m; - al final del paso a nivel, donde esta distancia es nula, por la ambigüedad del término 'cruce' indicado en la exención, no nos quedó más que incluir también el carril de desvío de la carretera I/49 en dirección al paso a nivel. La banda de peligro del paso a nivel desde la línea en
 
 ## Página 28
+
 
 comunicación que separa el carril de desvío hacia el paso a nivel del carril exterior es de 7,10 m.
 Tras esta medición llegamos a la conclusión de que la excepción concedida para este paso a nivel no se ha implementado íntegramente. En nuestra opinión, el paso a nivel no es seguro, y ello principalmente para los vehículos por carretera: "...desvío desde la carretera I/49 en dirección desde Otrokovice..."
@@ -884,6 +893,7 @@ n.º 20-0812-00-01-DÚ/Lu para la obra "Conexión de vías de comunicación del 
 
 ## Página 29
 
+
 •
 en el documento ČD DDC, SDC Přerov, n.º 317/00-ST1, de fecha 7. 2. 2000, titulado "Asunto: Evaluación de la explotación de prueba en el paso a nivel ferroviario en km 6,557 de la línea ČD Otrokovice – Zlín de la obra 'Zlín – Louky, conexión de vías de comunicación del recinto comercial'" y en el documento ČD DDC, SDC Přerov, n.º 499/00-STR1 de fecha 2. 3. 2000 titulado "Asunto: Recurso contra la decisión de recepción", que es una respuesta a la decisión de recepción de la Oficina de Ferrocarriles de fecha 15. 2. 2000, n.º 20-0812-00-01-DÚ/Lu para la obra "Conexión de vías de comunicación del recinto comercial Zlín-Louky, para su parte SO paso a nivel en km 6,557...", se indica, entre otros, de forma coincidente: ...
 "2. Durante la explotación de prueba, a nuestro juicio, no se verificó el cumplimiento de las condiciones de la excepción a la norma ČSN vinculante, concedida por el Ministerio de Transportes y Comunicaciones...
@@ -897,6 +907,7 @@ La búsqueda de la distancia de 7 m, indicada en la excepción, también la menc
 A título informativo, el DI también indica el texto del documento de SŽ, explotador contractual de la VP, "INFORME de la inspección completa de los dispositivos de señalización realizada conforme al decreto 177/9 Sb. y a la norma SŽDC T100", finalizada el 16. 11. 2020. En el anexo n.º 1, en la sección 3.2., se indica que "El propio paso a nivel y el nuevo cruce de carreteras construido fueron
 
 ## Página 30
+
 
 construidos en contradicción con el decreto de la ley 177/1995 Sb. y con la norma vinculante ČSN 73 6380 en él indicada".
 ### Conclusión del DI sobre el punto 1a):
@@ -925,6 +936,7 @@ art. 4. 2. 1 de la norma ČSN 73 6380/1993;
 
 ## Página 31
 
+
 límite más próximo del cruce7) a la zona peligrosa del paso a nivel, medido en el eje de la vía, de al menos 10 m. En nuevas construccios de carreteras terrestres, de al menos 20 m“.
 7) ČSN 73 6100
 ### 1b) Excepción que autoriza que «La nueva vía local que se establece en el término catastral de Louky nad Dřevnicí puede cruzar a 7 m de la zona peligrosa del nuevo paso a nivel ferroviario permanente de una vía asegurado situado en el pk 6,568 de la línea ferroviaria de ČD n.º 335 "Otrokovice – Vizovice"», contiene en su parte posterior «Condiciones de la excepción» (nota DI: solo se analizaron las condiciones relevantes para la seguridad en relación con la aparición del MU):
@@ -944,8 +956,8 @@ según 5.4.3.2.4 «La DZZ mínima para la velocidad del vehículo de carretera V
 ### Conclusión de la DI respecto al punto 1b):
 Según las constataciones del capítulo 3.1.3 de la presente ZZ, la Condición n.º 2) de la excepción no se cumple en el sentido de circulación de los vehículos de carretera hacia el ŽP desde el carril de desvío extremo desde el centro de la ciudad de Zlín (solo es de 6 m). El autor de la excepción pretendía ajustar esta distancia aparentemente solo para el giro a la izquierda desde Otrokovice; en el sentido desde el centro de Zlín, la distancia de 20 m no es relevante. Sin embargo, la excepción del MD no contiene esta precisión. Las condiciones de visibilidad Lr y Lp no son exigidas para el paso a nivel asegurado PZZ según el capítulo 5.4.3. de la norma ČSN 73 6380/1993. Si el autor de la excepción tenía en mente que ante una avería del SSZ degradaría el paso a nivel con un PZZ totalmente funcional a ŽP al llamado no asegurado (los pasos a nivel no asegurados son denominados en la ČSN 73 6380/1993 como pasos a nivel solo con VK), entonces debía haberlo precisado en la excepción. Sin embargo, es irreal que con la velocidad máxima permitida del vehículo de carretera
 
-
 ## Página 32
+
 
 30 km·h-1 desde una distancia Dz = 20 m antes del ŽP, al cruzar el cruce en un momento en que el SSZ no funciona, el conductor logre mirar en ambas direcciones posibles de circulación del tren hasta una distancia Lr = 95 m para detenerse con seguridad en caso de que vea un tren. Además, ya en el caso de dos vehículos de motor de pasajeros que se desvían uno detrás de otro, o incluso de un solo vehículo de motor de carga, se producirá la obstrucción del carril en el sentido desde el centro de la ciudad de Zlín y amenaza una colisión dentro del cruce. Con la detención del vehículo de carretera más lento y más largo antes del ŽP a una distancia de 4 m del eje de la vía, tras la comprobación del conductor a una distancia Lp = 342 m de que puede cruzar el ŽP con seguridad (cálculos según la ČSN 73 6380/2020), también amenaza una situación de colisión dentro del cruce. Y además, los requisitos descritos sobre las condiciones de visibilidad Lr y Lp no tienen lógica, ya que el PZZ emitiría avisos antes de que el tren pase por el ŽP (el no funcionamiento se menciona en la excepción del SSZ). Al mismo tiempo, es necesario mencionar que si el PZZ no funciona, el operador de la vía en la que se encuentra el ŽP adopta medidas para garantizar la seguridad. El requisito de la condición n.º 5) de la excepción es, por tanto, para la DI, desde el punto de vista de la garantía de la seguridad en el ŽP, un requisito de cara al público y no eficaz.
 ### Las condiciones analizadas de la excepción, que en caso de caída del control del tráfico con un SSZ totalmente funcional debían garantizar la seguridad en el ŽP (puesto que este se encuentra acreditadamente en el cruce), contienen deficiencias de seguridad. Al mismo tiempo, según las constataciones del capítulo 3.1.3 de la presente ZZ, el
@@ -972,8 +984,8 @@ distancia de 26 – 30 m desde la altura de las señales de advertencia:
   la longitud de visibilidad Dz hacia
 las señales de advertencia está limitada (la señal de advertencia derecha aún no es visible, respectivamente en la
 
-
 ## Página 33
+
 
 distancia de 28 m la visibilidad hacia ella está obstruida por el poste con la señal de tráfico «Sentido obligado de circunvalación a la derecha» destinada a los usuarios de la circulación por carretera que circulan en dirección a Otrokovice) o no está garantizada (la señal de advertencia izquierda deja de ser visible);
 •
@@ -1004,8 +1016,8 @@ art. 4.1.2.1 de la norma ČSN 34 2650/1998.
 § 4 apartado 5 del decreto n.º 99/1989 Sb.:
 «La ejecución y las formas de los símbolos de las señales de tráfico y de los dispositivos de tráfico no pueden modificarse; esto no se aplica a las señales de tráfico y a los dispositivos de tráfico con símbolos que puedan invertirse, y con símbolos, cifras, etc., que se indican solo como modelos. Los detalles sobre las dimensiones, colores y ejecución exacta de las señales de tráfico
 
-
 ## Página 34
+
 
 y de los dispositivos de tráfico los establecen las disposiciones especiales. 18)...» (nota DI: 18) – referencia a la norma ČSN 01 8020);
 •
@@ -1039,6 +1051,7 @@ art. 4.1.2.1 de la norma ČSN 34 2650/1998.
 
 ## Página 35
 
+
 „La ejecución y las formas de los símbolos de las señales de tráfico y de los dispositivos de tráfico no deben modificarse; esto no se aplica a las señales de tráfico y a los dispositivos de tráfico con símbolos que puedan invertirse, y con símbolos, cifras, etc., que se indican solo como modelos. Los detalles sobre las dimensiones, colores y la ejecución precisa de las señales de tráfico y de los dispositivos de tráfico los establecen las disposiciones especiales. 18)…” (nota DI: 18) – referencia a la norma ČSN 01 8020);
 •
 art. 24 de la norma ČSN 01 8020 Změna 1:
@@ -1057,15 +1070,15 @@ De todos los análisis y hallazgos anteriores en el lugar del MU, DI confirma as
 El argumento, expuesto en la Resolución de MDaS, n.º de expediente: 21128/ 00-O 130 de fecha 8. 6. 2000, con la que se desestimó el recurso por parte de ČD DDC, SDC Přerov contra la resolución de DÚ de fecha 15. 2. 2000 n.º de expediente 20-0812-00-010DÚ/Lu, y se autorizó el uso de „SO paso a nivel en el km 6,557 de la línea ČD Otrokovice – Vizovice“, que dice en el punto 2.: „La opinión del recurrente sobre la no verificación del cumplimiento de las condiciones de la excepción de la norma ČSN vinculante es errónea. La excepción fue autorizada en la fase de preparación del proyecto. Sin embargo, el 1. 1. 2000 finalizó la vigencia de la ČSN, por lo que, en la realización de la obra, el DÚ tuvo en cuenta las condiciones reales de protección del paso a nivel“, se basa, ante las deficiencias anteriores, desde el punto de vista de DI, en una fuente desconocida, y la afirmación de MDaS contradice la situación constatada por DI en ŽP.
 Motivo: La vigencia de la ČSN (incluso solo de artículos seleccionados) finalizó el 31.12.1999. No obstante, la ČSN 73 6380 en todas sus versiones siempre ha pertenecido a las normas a las que se puede aplicar la parte de la frase: „La obligación de proceder en una determinada actividad de acuerdo con las normas técnicas checas puede surgir
 
-
 ## Página 36
+
 
 de diversas maneras, principalmente con base en una disposición legal que establezca que, en las relaciones reguladas por dicha disposición legal, es necesario cumplir determinadas normas checas... Las referencias a normas técnicas en las disposiciones legales se aplican de diversas maneras. En cuanto a la fuerza de la referencia, se distingue entre referencia exclusiva (obligatoria) o indicativa. La referencia exclusiva determina la conformidad con la norma técnica a la que se hace referencia... como la única forma de cumplir la disposición correspondiente de la disposición legal dada. La norma técnica complementa así un requisito legal incompleto y se convierte, por tanto, en parte de la disposición legal. De ello surge la obligación de regirse por la disposición de la norma correspondiente para aquellos sujetos a los que se refiere la disposición legal dada“ (fuente: „Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, SBORNÍK TECHNICKÉ HARMONIZACE 2004, UPLATŇOVÁNÍ ČESKÝCH TECHNICKÝCH NOREM“). Si partimos de la referencia a la ČSN 73 6380 en las disposiciones legales (según la disposición del § 6 apartado 1 de la ley n.º 266/1994 Sb. y del § 4 apartado 7 anexo 5 (punto 165 – ČSN 73 6380) del decreto n.º 177/1995 Sb.), la referencia a la norma ČSN 73 6380/1993 se indica directamente allí. Esta norma era, por tanto, demostradamente vinculante en el momento de la concesión de la excepción (además, se publicó antes del 1. 1. 2000) y siguió siendo vinculante, independientemente de la afirmación anterior de MDaS. Sin embargo, MDaS pudo conceder la excepción como „parte ineludible“ según la ley n.º 142/1991 Sb., Ley sobre normas técnicas checoslovacas, y a la vez según la disposición de la modificación n.º 1 de abril de 1996 de la norma ČSN 73 6380/1993. El sujeto que fue parte en el procedimiento de construcción (ČD DDC, SDC Přerov) y realizó mediciones en la época de la construcción, ni siquiera DI en la inspección del lugar del MU, lograron, en el estado actual de dos conjuntos constructivos superpuestos, encontrar la realización real del contenido erróneo del texto de la excepción „La nueva vía local que se está creando en el término municipal de Louky nad Dřevnicí puede cruzar a 7 m de la zona de peligro del nuevo paso a nivel ferroviario permanente de vía única protegido situado en el km 6,568...“. Esta excepción, si en el texto erróneo se oculta una acortación de la distancia de la zona de peligro del paso a nivel desde el límite de la intersección, evidentemente no se cumplió en la construcción de ŽP, incluso a pesar de la afirmación anterior de MDaS de fecha 14. 1. 2000 en el documento n.º: 72/2000-O130, de que „la ejecución real de la „Conexión viaria del recinto Zlín – Louky, SO paso a nivel ferroviario en el km 6,557 de la línea Otrokovice - Vizovice“, es según la documentación de proyecto aprobada y corresponde a la excepción autorizada n.º 2/1997-210“.
 La laguna de seguridad más importante y más grande, cuyo puenteo eliminaría los demás riesgos derivados de las deficiencias de toda la construcción de ŽP, se oculta en la Condición n.º 4), indicada en la excepción. Se trata de una infravaloración total o incluso de un ocultamiento de la realidad de la situación normal, a saber, de las incidencias de averías en el SSZ, es decir, el elemento básico que garantiza, con el control del tráfico plenamente funcional de la intersección mediante señales luminosas, la seguridad también en el ŽP que se encuentra en ella. La exigencia de MDaS de que el SSZ de la intersección de carreteras esté permanentemente en funcionamiento y de que no se utilice la luz intermitente amarilla no puede garantizarse técnicamente. La laguna de seguridad consiste entonces en la ausencia de una solución para la transmisión de información sobre los estados de avería del SSZ hacia el explotador de la vía férrea, a fin de poder adoptar medidas para garantizar la seguridad en el ŽP, las mismas que en caso de avería del PZZ.
 ### A los hallazgos parciales anteriores, DI concluye así de forma resumida que, en la investigación, se constató el incumplimiento de las funciones y obligaciones del órgano nacional de construcción y seguridad (DÚ), incluido el órgano de apelación en el procedimiento de construcción (MDaS). Debido a la insuficiente investigación de DÚ, no se constató que, desde la recepción en servicio y la autorización para el uso de la construcción de ŽP, esta obra se operará, en caso de avería del SSZ, con las deficiencias indicadas más arriba y con los riesgos de aparición de MU derivados de dichas deficiencias.
 
-
 ## Página 37
+
 
 ### La laguna de seguridad oculta en la Condición n.º 4) de la excepción se tiene en cuenta en la causa sistémica de la aparición del MU.
 La tarea de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga de forma general y, si es posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con los órganos nacionales de seguridad; además, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además las propuestas de normativa nacional, etc.
@@ -1078,8 +1091,8 @@ En la investigación no se constató el incumplimiento de las funciones y obliga
 La actividad del conductor al conducir vehículos a motor se desarrolla en etapas, en las que se produce la recepción de información, el procesamiento de la información y la posterior corrección del control. Las causas de la actuación errónea del conductor pueden deberse a una falta de información o a su selección incorrecta, que está influida por los conocimientos, la experiencia y la capacidad del conductor de distinguir, en el momento dado, los estímulos importantes de los menos importantes. Una cantidad excesiva de información, que en el momento provoca una sobrecarga de la capacidad de percepción del conductor, culmina en la omisión o el descarte de información importante. La mayor parte de la información la obtiene el conductor con la vista. El conductor principiante no es capaz de seleccionar con la misma velocidad la información importante en una situación igualmente peligrosa como un conductor experimentado, utiliza menos la visión periférica, obtiene la información principalmente con la visión central, es decir, con la fijación de la mirada. Su campo visual funcional es menor que el de los conductores experimentados (fuente: „Percepción visual y carga informativa del conductor, PhDr. Vlasta Rehnová, Dopravní akademie a.s.“).
 A lo anterior es necesario añadir información sobre el campo visual del ojo en general. Si una persona, tal como se indica más arriba, no desvía a corto plazo la vista y no verifica mediante el desplazamiento de la mirada los estímulos percibidos solo periféricamente, entonces la imagen total vista durante la conducción es tal como se indica en el comentario a la Fig. n.º 2.
 
-
 ## Página 38
+
 
  Fig. n.º 2: Campo visual del ojo humano
     Fuente: Enciclopedia de la física
@@ -1089,6 +1102,7 @@ Los hallazgos indicados a continuación se basan en la percepción de cuatro con
 
 ## Página 39
 
+
 En la Fig. n.º 3 se observa la llegada al espacio previo al límite del cruce, en el carril de giro a la izquierda desde la carretera I/49 en dirección desde Otrokovice hacia el PFE. Durante la prueba de conducción, el conductor priorizó la observación del semáforo SSZ, la situación de tráfico general y el vehículo motorizado que circulaba delante de él. No registró visualmente los señales de aviso PZZ durante la conducción.
 Fig. n.º 3: Vista de los señales de aviso PZZ a una distancia superior a 40 m
          Fuente: DI
@@ -1097,8 +1111,8 @@ El informe de CDV sobre esta parte de la conducción indica: «Mediante un exame
 Sin embargo, debido a la distribución espacial de la luminosidad de las luces de la señal de aviso, esto significa que la luminosidad real para el conductor desciende con este ángulo de observación a apenas el 1 % de la luminosidad axial. Si asumiéramos una luminosidad axial de la señal de aviso de 150 cd (que es un valor estándar habitual en la práctica), entonces para el mencionado observador la luminosidad sería de apenas 1,5 cd.
 En la práctica, una luz así es casi invisible durante el día (si aplicáramos la evaluación como en un semáforo SSZ clásico, entonces una caída de la luminosidad por debajo de 10 cd se interpreta como «señal ausente»
 
-
 ## Página 40
+
 
 y la señal se considera que no está encendida). De ello se deduce que, para el conductor que gira a la izquierda desde la I/49 hacia Terno, la advertencia emitida por esta señal de aviso es prácticamente invisible (lo cual es muy engañoso, ya que la señal de aviso aparentemente no está encendida, lo que el conductor interpreta como «el tren no circula», cuando en realidad sí está encendida y el tren está cerca)».
 Fig. n.º 4: Vista de la señal de aviso PZZ derecha a la distancia requerida de aprox. 35 m
@@ -1106,22 +1120,22 @@ Fig. n.º 4: Vista de la señal de aviso PZZ derecha a la distancia requerida de
 En la Fig. n.º 5 se observa la vista de la señal de aviso PZZ derecha durante la circulación por un arco a la izquierda, por el centro del cruce, al girar hacia el PFE desde la carretera I/49, en dirección desde Otrokovice a la izquierda, y ello a una distancia de aprox. 11 m por delante del nivel de su frontal. La Fig. n.º 5 es en realidad el inicio de un proceso de 1,5 s de duración, durante el cual se produce la «mejor» visibilidad del frontal de la señal de aviso. Durante la prueba de conducción, el conductor en este punto priorizó seguir observando principalmente el vehículo motorizado delante de él (principalmente la distancia de seguridad). No se realizó una mirada directa a la señal de aviso y no se registró de forma periférica.
 Al mismo tiempo, es necesario, antes del límite de 11 m (aprox. 18 m por delante del frontal de la señal de aviso), con el SSZ inoperativo, observar de antemano la situación del tráfico – los vehículos que circulan en sentido contrario en tres(!) carriles – y evaluar cuándo, tras su paso, se puede realizar el giro. Con esta mirada, el conductor mira necesariamente completamente fuera del espacio en el que se encuentra la señal de aviso derecha. El giro va lógicamente acompañado de la fijación de la mirada en el extremo del último vehículo que circula en sentido contrario. Durante el tiempo de resolución de la cesión de paso en la circulación, además, la señal de aviso derecha queda oculta desde este espacio por los vehículos más altos que pasan. Este hecho no pudo demostrarse durante la prueba de conducción debido a que el SSZ estaba plenamente operativo. La situación queda documentada por las imágenes de la grabación de vídeo realizada desde el espacio exterior en la situación en la que el SSZ dejó pasar al cruce vehículos motorizados en dirección desde el centro de la ciudad de Zlín. A estos vehículos motorizados, al girar hacia el PFE desde la carretera I/49 en dirección desde Otrokovice a la izquierda, se les habría cedido el paso en la circulación en caso de SSZ inoperativo (véanse las Figs. n.º 8 y 9 en el apartado de Anexos de este II).
 
-
 ## Página 41
+
 
 Fig. n.º 5: Vista de la señal de aviso PZZ derecha a una distancia de aprox. 11 m por delante del nivel de su frontal      Fuente: DI
 En la Fig. n.º 6 se observa la vista de la señal de aviso PZZ derecha durante la circulación por un arco a la izquierda, por el centro del cruce, al girar hacia el PFE desde la carretera I/49, en dirección desde Otrokovice a la izquierda, y ello a una distancia de aprox. 7 m por delante del nivel de su frontal. La Fig. n.º 6 es en realidad el final de un proceso de 1,5 s de duración, durante el cual se produce la «mejor» visibilidad del frontal de la señal de aviso. Los ojos del conductor en ese momento apuntan necesariamente mucho más hacia la izquierda que en la Fig. n.º 6. Durante la prueba de conducción, el conductor en esta posición priorizó la observación del vehículo motorizado y de la situación delante de él. No se realizó una mirada directa a la señal de aviso y no se registró de forma periférica. Además, se observó el paso de peatones, en el cual existe la obligación de ceder el paso a los peatones. Esto también se aplica durante la circulación con el giro ya en curso y el SSZ apagado.
 Fig. n.º 6: Vista de la señal de aviso PZZ derecha a una distancia de aprox. 7 m por delante del nivel de su frontal   Fuente: DI
 
-
 ## Página 42
+
 
 Fig. n.º 7: Vista del PFE a aprox. 3 m por delante del frontal de la señal de aviso PZZ derecha                                      Fuente: DI
 En la Fig. n.º 7 se observa la superficie del PFE y el paso de peatones. La vista de la señal de aviso PZZ derecha durante la circulación en dirección recta hacia la vía local del centro comercial desde 3 m por delante de su frontal ya es imposible. La señal de aviso está a 9,50 m a la derecha, junto al borde de la calzada, y fuera del campo visual del conductor, a 7,50 m más alejada del límite prescrito para la colocación de señalización vertical de tráfico. Durante la prueba de conducción, el conductor en esta posición priorizó la observación del vehículo motorizado delante de él y del lugar del paso de peatones señalizado con señalización horizontal.
 Los hechos negativos derivados de la prueba de conducción realizada, que se manifiestan también durante la circulación fluida hacia el PFE desde la dirección de circulación del OA con el SSZ plenamente operativo (PZZ no registrado de forma periférica), incluidos otros que además surgen en la misma circulación con el SSZ inoperativo, confirman los riesgos descritos en el capítulo 4.1.4 de este II. Se trata de riesgos permanentes, cuyo grado de amenaza se ve afectado en cada circulación de vehículos por el cruce desde el carril de giro a la izquierda desde la carretera I/49 en dirección desde Otrokovice y desde la vía local de Dlouhé díly con el SSZ inoperativo. La intensidad y la magnitud del riesgo radican y varían según la situación de tráfico concreta en el cruce (hora del día, intensidad del tráfico…) y según las características y capacidades individuales de cada conductor. En el momento de la ocurrencia del MU, los dos vehículos que giraban disponían de 8 s para realizar el giro, es decir, para incorporarse y liberar los carriles en dirección recta desde el centro de la ciudad de Zlín (véase el capítulo 3.2.1 de este II). Además, en una situación de este tipo «de adrenalina», el conductor se fija inconscientemente en el vehículo delante de él, que logra atravesar el cruce, vigila principalmente la distancia, el lado derecho (cesión de paso) y sigue al vehículo delante de él si ve que aún alcanza a atravesar el cruce y girar. El PFE, ubicado en el cruce, los señales de aviso PZZ difíciles de percibir y casi invisibles quedan en ese momento diluidos en la multitud de otras obligaciones que el conductor debe cumplir (principalmente quiere salir del cruce de forma rápida y segura y no quiere causar un accidente de tráfico).
 
-
 ## Página 43
+
 
 Conforme al § 28 apartado 1 de la Ley n.º 361/2000 Sb., el conductor debe comportarse con especial precaución antes de un paso a nivel, en particular comprobar si puede cruzar el paso a nivel de forma segura. Asimismo, conforme al § 29 apartado 1 letras a), b) y d) de la citada Ley, el conductor no debe entrar en un paso a nivel en el momento en que se emite la advertencia con dos luces rojas intermitentes alternas de la señal PZZ, la advertencia con sonido intermitente de la bocina o campana de la PZZ, o si ya se ve o se oye el tren u otro vehículo ferroviario que se aproxima, o si se oye su bocina o silbato. Sin embargo, para que el conductor pueda cumplir las disposiciones anteriores de la Ley n.º 361/2000 Sb., también debe contar al menos con las condiciones adecuadas básicas. El DI, mediante el análisis realizado en este capítulo del II, incluidas las conclusiones del capítulo 4.1.4, constató que, en caso de fallo del SSZ, los conductores de vehículos por carretera que circulan hacia el PFE desde el carril de giro a la izquierda desde la carretera I/49 en dirección desde Otrokovice y desde la vía local de Dlouhé díly (que ya cumplen las obligaciones relativas al mantenimiento de la distancia segura respecto al vehículo delante de ellos, la cesión de paso en la circulación y la no puesta en peligro de los peatones en el paso al salir del cruce) no disponen de las condiciones requeridas para el cumplimiento de las demás obligaciones anteriores desde el punto de vista del estado constructivo del PFE y de la interconexión de la tecnología SZZ y PZZ.
 Como se dedujo del análisis de la grabación de vídeo de la situación inmediatamente anterior a la ocurrencia del MU (analizado en detalle en el capítulo 3.1.9 de este II), dos conductores de automóviles de turismo, que se incorporaron al centro del cruce con el SSZ inoperativo, iniciaron en el hueco surgido entre dos vehículos que circulaban en sentido contrario uno detrás de otro el giro en dirección recta hacia el PFE. La visibilidad de la advertencia luminosa emitida por la señal de aviso PZZ derecha estaba significativamente limitada debido a su distancia respecto al borde derecho de la calzada y a la orientación de su frontal alejada del eje imaginario del carril que conduce al PFE. La señal de aviso izquierda no se veía en absoluto. Con cada metro recorrido tras la puesta en marcha de ambos vehículos motorizados por carretera, la ubicación distante de la señal de aviso derecha y la desviación en la orientación de su frontal se manifestaban con un empeoramiento adicional de la visibilidad de la advertencia PZZ emitida, ya limitada desde el punto de partida.
@@ -1132,6 +1146,7 @@ Los defectos constructivos en el PFE y los riesgos que surgen en caso de SSZ ino
 En la investigación no se constataron factores derivados de la construcción de vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos.
 
 ## Página 44
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.
@@ -1155,8 +1170,8 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
-
 ## Página 45
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de la seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
@@ -1173,8 +1188,8 @@ En su respuesta, el DÚ comunicó que:
 «La Autoridad Ferroviaria no registra la realización de inspecciones estatales en el paso a nivel indicado en el periodo indicado por usted». La Autoridad Ferroviaria realizó una inspección in situ en el paso a nivel en el marco del procedimiento de modificación del alcance y el modo de protección del cruce, y emitió el 25 de abril de 2019 la resolución núm. de expediente DUCR-22018/19/Sj sobre la modificación del alcance y el modo de protección del cruce de la vía férrea con la carretera con número de registro P8232. El cruce se protegerá de conformidad con la ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios y la ČSN 34 2650 ed.2 Instalaciones de enclavamiento ferroviario – Instalaciones de enclavamiento de pasos a nivel, mediante una instalación luminosa de paso a nivel con nueve señales de aviso colocadas en ocho postes de señales de aviso, complementada con barreras completas, en el marco de la obra «Modernización y electrificación de la línea Otrokovice – Vizovice».
 Debido a la gravedad de las deficiencias detectadas y a la repetitividad del suceso accidental (véase el capítulo 4.5 de la presente ZZ), los agentes de la Inspección de Tráfico de la Jefatura Regional de Policía de la región de Zlín (en adelante PČR Zlín) reaccionaron a sus hallazgos durante la investigación del accidente de tráfico en el PAF. No solo el DÚ recibió el documento de 28. 7. 2022 titulado «Inspección de seguridad tras accidente de tráfico con lesiones mortales – aviso conforme al § 15 de la Ley núm. 273/2008 Sb. sobre la Policía de la República Checa».
 
-
 ## Página 46
+
 
 En el documento, la PČR Zlín señala la concurrencia de obligaciones que cumplen los conductores de vehículos a motor que, en el momento en que el semáforo de la intersección (SSZ) no funciona, giran a la izquierda desde la carretera I/49 hacia el PAF en dirección desde Otrokovice (vigilancia del tráfico en sentido contrario, vigilancia de los peatones en el paso peatonal, vigilancia de la señal luminosa S14a de la señal de aviso PZZ). Literalmente, el documento indica que: «...en el momento de entrar en la intersección y girar a la izquierda, la advertencia en el dispositivo de enclavamiento no es visible y el dispositivo de enclavamiento situado a la derecha para los conductores que giran a la izquierda se encuentra en un lugar inadecuado (a una distancia de 9,63 m del borde derecho de la vía)». Asimismo, el documento describe varias situaciones de colisión en la intersección con el PAF situado en su interior que se producen cuando el SSZ no funciona. Por estos motivos, el documento recoge las solicitudes de la PČR Zlín para resaltar la señalización vertical vertical antes del PAF con un fondo fluorescente amarillo-verde, instalar una señal de aviso adicional en el poste a la derecha del PAF de modo que quede en el campo visual del conductor, instalar una «barrera luminosa» y minimizar las averías del SSZ, por ejemplo, sustituyendo las bombillas por elementos LED. Dichas solicitudes (averías) las exige la PČR Zlín eliminar «sin dilación», con justificación.
 El 12. 8. 2022, la PČR Zlín recibió respuesta del DÚ. En ella se indica, en primer lugar, que desde 2019 ya se ha decidido sobre la nueva protección del PAF, y la resolución del DÚ sobre la modificación de la protección del PAF se adjuntó a la respuesta. A continuación, el DÚ analiza la situación de colisión que se produce cuando el SSZ no funciona, y constata que el SSZ inoperativo tuvo «...un papel determinante en el accidente de tráfico». El DÚ admite así de forma inequívoca que la PZZ por sí sola, aunque esté en funcionamiento durante la circulación del tren, no puede garantizar la seguridad en el PAF. La respuesta del DÚ a las solicitudes de la PČR Zlín para garantizar la seguridad en el PAF con el SSZ inoperativo en los accesos al PAF desde la carretera I/49 en dirección desde Otrokovice a la izquierda es la comunicación de que: «...para garantizar la seguridad es necesario asegurar de forma inmediata que la señalización luminosa de la intersección permanezca permanentemente encendida, a fin de que no se produzcan sucesos excepcionales en el paso a nivel,...».
@@ -1182,6 +1197,7 @@ La PČR Zlín reaccionó el 15. 8. 2022 a la respuesta del DÚ con otro document
 La DI ya no conoce la reacción posterior del DÚ a los esfuerzos de la PČR Zlín por garantizar la seguridad en el PAF. La Inspección Ferroviaria, tras evaluar la información obtenida durante la investigación de la MU, ya reaccionó a la situación de seguridad en el PAF el 24. 1. 2023, cuando remitió al DÚ un aviso sobre las deficiencias de seguridad detectadas hasta la fecha en el PAF, en particular el hecho de que el gestor de infraestructura no reciba información sobre la avería del SZZ, elemento básico que garantiza la seguridad en el PAF situado en la intersección. Este, por tanto, no puede adoptar medidas para garantizar la seguridad de los usuarios de la circulación rodada y del transporte ferroviario en el PAF, idénticas a las del caso de avería de la PZZ. La importancia de esta brecha de seguridad, también mencionada en la ZZ, fue justificada por la DI enumerando otras deficiencias detectadas que provocan que la PZZ por sí sola, aunque esté en funcionamiento durante la circulación del tren, no pueda garantizar la seguridad en el PAF. En síntesis, puede constatarse que las deficiencias mencionadas en la carta anticiparon las conclusiones recogidas en la presente ZZ. Asimismo, en el mencionado aviso de 24. 1. 2023, la Inspección Ferroviaria indicó que la exigencia del DÚ de que la señalización luminosa
 
 ## Página 47
+
 
 la señalización de la intersección estuviera permanentemente encendida, es absurdo e irreal, ya que el SSZ (al igual que cualquier dispositivo) puede tener una avería (lo cual también ocurre repetidamente), o estar en reparación, mientras que el gestor de la vía no solo no tiene posibilidad de influir en la funcionalidad del SSZ, sino que tampoco es informado en modo alguno de su estado, y explica que tal exigencia puede equipararse a la situación en la que en todos los pasos a nivel no tendrían que mantenerse las condiciones de visibilidad para el caso de desconexión del PZZ (porque «se puede, por supuesto, disponer que el PZZ funcione siempre»). En conclusión, la DI solicita a la DÚ que verifique toda la situación lo antes posible, ejerza la supervisión estatal en materia de vías en el paso a nivel P8232 y elimine, mediante sus herramientas, los riesgos detectados que reducen la seguridad en la explotación del tráfico ferroviario y por carretera.
 
@@ -1199,8 +1215,8 @@ La DÚ, en la resolución de recepción, en la condición 6), indica «El constr
 
 La mención de que la DÚ tuvo que regirse por las condiciones de la excepción en el procedimiento de recepción no corresponde con la declaración del MDaS a la objeción de la ČD DDC Přerov contra la resolución de recepción. Esta advirtió del incumplimiento de varias condiciones de la excepción, incluidas las condiciones n.º 4) y n.º 5), es decir, la garantía de no utilización de la luz amarilla en el SSZ y la garantía de las condiciones de visibilidad en el ŽP. El MDaS argumenta, en la desestimación de las objeciones, el hecho de la desvinculación de la ČSN
 
-
 ## Página 48
+
 
 73 6380 y, por dicho motivo, en la recepción ya no era necesario cumplir la excepción emitida antes de dicho cambio, según el MDaS, incluidas las condiciones en ella indicadas. Literalmente se indica que «...en la realización de la construcción, la DÚ tuvo en cuenta las condiciones reales de protección del paso a nivel» (nota: DI: la objeción de la DI a la desvinculación de la ČSN 73 6380 se indica en el capítulo 4.1.4 de la presente ZZ).
 
@@ -1222,8 +1238,8 @@ La Dopravní společnost Zlín-Otrokovice, como usuario intensivo de las vías d
 
 La Jefatura Regional de la PČR en Zlín, en su declaración, comunicó que, en el marco de sus unidades, no dispone de acceso remoto con el que fuera posible monitorizar el estado del SSZ en el término municipal de Zlín.
 
-
 ## Página 49
+
 
 En caso de información sobre averías del SSZ por parte de conductores, ciudadanos o patrullas de la PČR en servicio, se transmite a TS Zlín.
 
@@ -1248,6 +1264,7 @@ El Drážní úřad, entre otras cosas, envió como medida la siguiente declarac
 
 ## Página 50
 
+
 al dispositivo de señalización y seguridad de paso a nivel. La prioridad deberían ser los pasos a nivel con alto tránsito y con incidentes extraordinarios repetidos.“.
 DI sigue apoyando la instalación de barreras de madera en los pasos a nivel (con prioridad en aquellos con mayor tránsito y condiciones locales desfavorables), sin embargo, en el caso de emitir más recomendaciones de seguridad para incidentes extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel en cuestión y, por tanto, emite dicha recomendación de seguridad de forma más concreta.
 ## 5 CONCLUSIONES
@@ -1267,8 +1284,8 @@ La causa sistémica del incidente fue:
 el permiso para el uso de la obra del paso a nivel P8232 en virtud de una excepción del Ministerio de Transportes y Comunicaciones de la República Checa, en virtud de la cual se permitió al constructor el uso de la obra del paso a nivel P8232 y
  que contiene una condición impracticable en la práctica, a saber, que el dispositivo de señalización luminosa del cruce estará permanentemente en servicio y no se utilizará la luz amarilla intermitente, y que no resuelve desde el punto de vista de la seguridad la realización de la transmisión de la información sobre el dispositivo de señalización luminosa del cruce no funcional al gestor de la infraestructura para la adopción de medidas de garantía de la seguridad en el paso a nivel P8232.
 
-
 ## Página 51
+
 
 ### Un resumen del análisis y las conclusiones relativas a las causas del
 incidente
@@ -1290,30 +1307,31 @@ El gestor de la infraestructura SŽ y el operador ferroviario ČD no adoptaron n
 ### Medidas adoptadas desde el incidente
 El gestor de la infraestructura SŽ y el operador ferroviario ČD no adoptaron ninguna medida.
 
-
 ## Página 52
 
 ### 5.3 Hallazgos complementarios
-No se detectaron.
-### Hallazgos complementarios
-En el gestor de la infraestructura SŽ y en el operador ferroviario ČD no se detectaron.
+No se han detectado.
+### Observaciones adicionales
+En el gestor de infraestructura SŽ y en el operador ferroviario ČD no se han detectado.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del § 53e de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de incidentes extraordinarios:
-A la Autoridad Ferroviaria:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del artículo 53e de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
+
+Al Organismo Ferroviario:
 •
-adoptar medidas eficaces para eliminar el riesgo de que se produzca un incidente extraordinario en el paso a nivel P8232 en el momento en que no funcione el elemento básico de seguridad que garantiza la seguridad, que es el dispositivo de señalización luminosa del cruce en estado sin averías;
+adoptar medidas eficaces para eliminar el riesgo de que se produzca un suceso extraordinario en el paso a nivel P8232 cuando no esté en funcionamiento el elemento básico de seguridad que garantiza la seguridad, cual es el dispositivo de señalización luminosa del cruce en estado sin averías;
 •
-realizar una inspección en todos los pasos a nivel protegidos con dispositivo de señalización luminosa sin barreras adyacentes a cruces, con dependencias eléctricas interconectadas con el dispositivo de señalización luminosa del cruce, con el fin de determinar el estado de los parámetros de seguridad más importantes de acuerdo con lo dispuesto en el apartado 1 del § 6 de la Ley n.º 266/1994 Sb., de ferrocarriles, y en el apartado 7 del § 4 del anexo 5 del Decreto n.º 177/1994 Sb., Reglamento de construcción y técnica de los ferrocarriles, importantes para garantizar la seguridad en los pasos a nivel en el momento en que el dispositivo de señalización luminosa de los cruces no funcione.
+realizar una inspección en todos los pasos a nivel protegidos con dispositivo de señalización luminosa sin barreras adyacentes a los cruces, con dependencias eléctricamente interconectadas con el dispositivo de señalización luminosa del cruce, centrándose en la comprobación del estado de los parámetros de seguridad más importantes de conformidad con lo dispuesto en el apartado 1 del artículo 6 de la Ley núm. 266/1994 Sb., de vías férreas, y en el apartado 7 del artículo 4 del anexo 5 del decreto núm. 177/1995 Sb., ordenanza de construcción y técnica de las vías férreas, importantes para garantizar la seguridad en los pasos a nivel cuando el dispositivo de señalización luminosa de los cruces no funcione.
+
 Al Ayuntamiento de la ciudad de Zlín:
 •
-adoptar medidas internas por parte del propietario de los dispositivos de señalización luminosa que regulan el tráfico en los cruces adyacentes a los pasos a nivel en el término municipal de la ciudad de Zlín, que garanticen todos los medios técnicos actualmente disponibles para informar sobre el estado y permitan el acceso remoto a la tecnología del dispositivo de señalización luminosa de los cruces a los empleados de la organización de servicio contratada;
+adoptar medidas internas por parte del propietario de los dispositivos de señalización luminosa que regulan el tráfico en los cruces adyacentes a los pasos a nivel en el término municipal de la ciudad de Zlín, que garanticen todos los medios técnicos actualmente disponibles para informar del estado y permitan el acceso remoto a la tecnología del dispositivo de señalización luminosa de los cruces a los empleados de la organización de servicio contratada;
 •
 realizar un análisis de riesgos en los cruces adyacentes a los pasos a nivel en el término municipal de la ciudad de Zlín y establecer procedimientos para la eliminación más rápida posible de las averías del dispositivo de señalización luminosa en los cruces identificados mediante el análisis de riesgos;
 •
-establecer una colaboración con la Jefatura Regional de Policía de la Región de Zlín, la Policía Municipal de Zlín y la Compañía de Transportes Zlín-Otrokovice, relativa a la posibilidad de notificar sin demora los estados de avería de los dispositivos de señalización luminosa a la organización de servicio en los cruces adyacentes a los pasos a nivel identificados mediante el análisis de riesgos, detectados a través de la tecnología de la que son propietarios que informa sobre los estados de los dispositivos de señalización luminosa de los cruces o durante la actividad de patrulla y la conducción de vehículos del transporte público.
-
+establecer colaboración con la Jefatura Regional de Policía de la Región de Zlín, la Policía Municipal de Zlín y la Compañía de Transportes Zlín-Otrokovice, en relación con la posibilidad de notificar de inmediato los estados de avería de los dispositivos de señalización luminosa a la organización de servicio en los cruces identificados mediante el análisis de riesgos adyacentes a los pasos a nivel, detectados mediante la tecnología de su propiedad que informa de los estados de los dispositivos de señalización luminosa de los cruces o durante la actividad de patrulla y la conducción de vehículos del transporte público urbano.
 
 ## Página 53
+
 
 ## RECOMENDACIONES DE SEGURIDAD
 Dirigidas a la Autoridad Nacional de Seguridad (NSA) de la República Checa:
@@ -1336,8 +1354,8 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 54
+
 
 ## ANEXOS
 Fig. n.º 8: Oclusión de los avisadores desde Otrokovice a la izquierda en el PdN desde la señal = 35 m

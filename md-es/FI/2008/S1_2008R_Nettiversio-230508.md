@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 40: cifras largas: faltan 5/14 (36%)"]
-notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 4: original bilingüe: se compara contra el idioma principal (SV)", "página 6: original bilingüe: se compara contra el idioma principal (FI)", "página 7: original bilingüe: se compara contra el idioma principal (SV)", "página 18: original bilingüe: se compara contra el idioma principal (FI)", "página 21: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
 
 ## Página 1
@@ -107,6 +106,7 @@ Centralen för undersökning av olyckor beslöt 21.8.2008 att inleda en säkerhe
 I
 
 ## Página 4
+
 
 Group Ab expresó su preocupación por las sospechas de funcionamiento incorrecto de la automatización de itinerarios y de los dispositivos de seguridad en el centro de control de tráfico de Kouvola.
 Inicialmente, la tarea de la comisión de investigación era examinar dos desviaciones que se habían observado antes de que se iniciara la investigación. En la fase inicial de la investigación se produjo una tercera desviación en el control de tráfico que se decidió incluir en la investigación.
@@ -899,6 +899,7 @@ under den tid undersökningen pågick.
 
 ## Página 39
 
+
 No se plantean en general requisitos técnicos de seguridad específicos para los programas de control de tráfico (automatización, gráficos, etc.), ya que la idea es que la instalación de enclavamiento gestione la seguridad primaria. Sin embargo, los sistemas de automatización envían órdenes de mando a las instalaciones de enclavamiento que afectan a la seguridad. Para el usuario, los sistemas constituyen un todo funcional.
 Independientemente del nivel de seguridad, se espera una gran facilidad de uso y un funcionamiento previsible en los programas que se utilizan directamente en el trabajo de control de tráfico. Por lo tanto, debe prestarse especial atención a una gestión y tratamiento eficaces de las desviaciones funcionales y los fallos que se detectan en los programas, así como al uso de los programas. El cliente y el usuario tienen el derecho y la obligación de informar de los problemas que surjan en el software durante su ciclo de vida, independientemente del nivel de seguridad establecido.
 La duración relativamente larga de las desviaciones investigadas y la "aceptación silenciosa" demuestran que los métodos de tratamiento de las desviaciones debidas al funcionamiento del sistema no han estado en un nivel suficientemente alto, al menos en los casos que se investigaron.
@@ -921,14 +922,14 @@ Los fallos o errores sistemáticos investigados no desaparecerán por sí solos 
 ## Página 40
 
 No se establecen generalmente requisitos técnicos de seguridad específicos para el software de control de tráfico (automatización, gráficos, etc.), porque se entiende que el sistema de enclavamiento se encarga de la seguridad primaria. Sin embargo, el sistema de automatización emite órdenes de establecimiento de ruta a los sistemas de enclavamiento. Desde el punto de vista del usuario, los sistemas forman una entidad funcional.
-Independientemente del nivel de seguridad deseado, se espera del software utilizado directamente en el control de tráfico una alta usabilidad y previsibilidad. Por esta razón, se debe prestar especial atención a la gestión y manipulación eficientes de las averías del software y de cualquier desviación posible observada durante su funcionamiento. Además, independientemente del nivel de seguridad establecido, el cliente y los usuarios tienen el derecho y la obligación de informar de los problemas encontrados durante el ciclo de vida del software.
-El hecho de que las desviaciones hubieran existido durante mucho tiempo y fueran «aceptadas silenciosamente» indica que los procedimientos para la gestión de las desviaciones del sistema no habían estado en un nivel suficientemente alto, al menos en relación con las desviaciones investigadas.
+Independientemente del nivel de seguridad deseado, se espera que el software utilizado directamente en el control de tráfico ofrezca una alta usabilidad y previsibilidad. Por esta razón, se debe prestar especial atención a la gestión y manipulación eficientes de las averías del software y de cualquier desviación posible observada durante su funcionamiento. Además, independientemente del nivel de seguridad establecido, el cliente y los usuarios tienen el derecho y la obligación de informar de los problemas encontrados durante el ciclo de vida del software.
+El hecho de que las desviaciones hubieran existido durante mucho tiempo y fueran «aceptadas silenciosamente» indica que los procedimientos para el manejo de las desviaciones del sistema no habían estado en un nivel suficientemente alto, al menos en relación con las desviaciones investigadas.
 
 ## 5
 ## MEDIDAS ADOPTADAS
 
 En relación con la desviación de Järvelä, la Administración Ferroviaria Finlandesa emitió el 10.10.2008 una norma de operación (2299/741/08) en la que se describe cómo se puede evitar el problema en el trabajo de control de tráfico. Siemens ha comunicado que la corrección se llevará a cabo en el otoño de 2009.
-Los problemas de los casos de Lahti y Hakosilla, según las observaciones del control de tráfico, han desaparecido en el otoño-invierno de 2008.
+Los problemas en los casos de Lahti y Hakosilla, según las observaciones del control de tráfico, han desaparecido en el otoño-invierno de 2008.
 En el control de tráfico de Kouvola se ha designado un administrador principal para el sistema de mando a distancia.
 
 ## 5
@@ -952,6 +953,7 @@ Los expertos en gestión del tráfico que utilizan directamente los sistemas de 
 La Administración Ferroviaria, el Centro de Gestión Ferroviaria, VR-Yhtymä Oy y Siemens han emitido sus declaraciones sobre las recomendaciones. Las declaraciones se incluyen íntegramente en el anexo 1. El texto del informe de investigación ha sido modificado como resultado de las declaraciones y comentarios recibidos.
 
 ## Página 42
+
 
 ## RECOMENDACIONES DE SEGURIDAD
 ### S269 Gestión de desviaciones

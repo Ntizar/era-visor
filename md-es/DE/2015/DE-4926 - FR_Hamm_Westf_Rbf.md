@@ -10,13 +10,13 @@ chars: 56266
 ratio_longitud: 1.06
 tokens_in: 29278
 tokens_out: 16474
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 22: cifras largas: faltan 1/1 (100%)"]
-notas_cifras: ["página 17: cifras cortas: 2/11", "página 19: cifras largas: 1/30; cifras cortas: 1/31", "página 20: cifras largas: 2/35; cifras cortas: 2/28", "página 21: cifras largas: 1/13; cifras cortas: 1/16", "página 36: cifras cortas: 2/9", "página 38: cifras cortas: 2/10"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -33,16 +33,16 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 109/452 |
 | Aguja: | 135 |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -95,8 +95,8 @@ Investigación de la aguja 110 (EKW 54-190-1:9).................................
 Investigación de la aguja 135 (EW 54-190-1:9).................................................. 11
 I
 
-
 ## Página 4
+
 
 | 4 3 4 . . | Evaluación de los trenes de medida 12 ............................................................................... |
 | 44 . | Investigación de la técnica de mando y seguridad 16 - .................................................... |
@@ -118,6 +118,7 @@ Estado
 II
 
 ## Página 5
+
 
 ## II. 
 ## Índice de figuras: 
@@ -145,16 +146,16 @@ Tabla 2: Resumen de los daños personales ......................................
 Tabla 3: Resumen de la cuantía estimada de los daños ................................................................ 7 
 Tabla 4: Extracto de la inspección ordinaria de la EKW 110 del 14.07.2015 ............................. 11 
 Tabla 5: Anomalías detectadas en la inspección de la EW 135 el 15.07.2015 .............................. 12 
-III 
-
+III
 
 ## Página 6
 
-Tabla 6: Datos técnicos de los vagones descarrilados ............................................................... 20 
-IV 
 
+Tabla 6: Datos técnicos de los vagones descarrilados ............................................................... 20 
+IV
 
 ## Página 7
+
 
 ## IV. 
 ## Índice de abreviaturas: 
@@ -210,17 +211,17 @@ Tf
 Maquinista 
 Tfz 
 Locomotora 
-V 
-
+V
 
 ## Página 8
 
+
 | Vsig | Señal de aproximación |
 | VzG | Registro de velocidades localmente admisibles |
-VI 
-
+VI
 
 ## Página 9
+
 
 ## 1 Observaciones preliminares 
 El capítulo Observaciones preliminares se ocupa de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se menciona la base legal y se describe brevemente la organización superior. 
@@ -233,12 +234,13 @@ A este respecto, más información está disponible en internet en www.beu.bund.
 
 ## Página 10
 
+
 ### 1.2 Objetivo de la investigación de accidentes ferroviarios
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los acontecimientos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del órgano de investigación para evitar accidentes y mejorar la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, en la medida necesaria, a otros organismos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
-
 ## Página 11
+
 
 ## 2 Resumen
 El capítulo trata de una breve descripción del desarrollo del acontecimiento, de las consecuencias y de las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que, en su caso, se hayan emitido.
@@ -251,8 +253,8 @@ La causa del descarrilamiento fue una combinación de diversos factores que se v
 ### 2.4 Recomendaciones de seguridad
 No se emitieron recomendaciones de seguridad.
 
-
 ## Página 12
+
 
 ## 3 Datos generales
 El capítulo contiene datos generales sobre la descripción del lugar del acontecimiento y de las instalaciones ferroviarias relevantes. Asimismo, se indican los organismos que participaron y colaboraron en la investigación del accidente, las condiciones exteriores, el número de personas, en su caso, heridas y fallecidas en el acontecimiento, así como el tipo y el importe de los daños consecuentes.
@@ -262,8 +264,8 @@ El lugar de descarrilamiento del tren de mercancías DGS 75828, procedente de la
 Figura 1: Plano de situación1
 1 Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2020], editado por BEU
 
-
 ## Página 13
+
 
 El tren de mercancías DGS 75828, procedente en dirección al Bf Pelkum, entró en la vía 452 del Bf Hamm (Wesƞ) Rbf. La ruta del tren y la ubicación del punto de descarrilamiento se muestran en la siguiente figura.
 Figura 2: Esquema de la posición de la vía2
@@ -277,8 +279,8 @@ La EIU disponía de una autorización de seguridad conforme al § 7c AEG del EBA
 En el marco de la investigación de los hechos y de la búsqueda de causas, colaboraron, además de los participantes mencionados, la fábrica de vehículos F. Kiffe GmbH & Co KG de Hamm y la empresa simtes KG de Bielefeld.
 2 Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 14
+
 
 ### 3.3 Condiciones exteriores
 En el momento del acontecimiento se daban las siguientes condiciones:
@@ -321,8 +323,8 @@ Suma
 0
 Tabla 2: Resumen de los daños personales
 
-
 ## Página 15
+
 
 El importe estimado de los daños materiales, en euros, se desglosa como sigue:
 |  |  |  |  | Costes estimados en euros |  |
@@ -337,6 +339,7 @@ Figura 4: Vagón sobrepasado 23 54 4366 286-3
 
 ## Página 16
 
+
 ## 4 Protocolo de investigación
 En este capítulo se presentan los resultados obtenidos en relación con las distintas áreas del sector ferroviario relacionadas con el suceso. Asimismo, se examinan las correspondientes interfaces así como la gestión de la seguridad (SMS) en el ámbito afectado. Los hallazgos relevantes en cada caso se enumeran de forma continua.
 
@@ -350,6 +353,7 @@ De acuerdo con el § 4 apartado 3 de la Ley General de Ferrocarriles (AEG), los 
 
 ## Página 17
 
+
 ### Hallazgos sobre la gestión de emergencias
 N.º 2
 No fueron conocidas por la EUB, en el marco de la investigación del accidente, irregularidades o retrasos en relación con la adopción de medidas de rescate. No había personas que rescatar.
@@ -362,6 +366,7 @@ Figura 5: Posiciones finales de los tres vagones descarrilados³
 ³ Fuente: simtes KG, Cálculos de simulación del descarrilamiento en Hamm del 23.10.2015, Bielefeld, 2022
 
 ## Página 18
+
 
 ### 4.3.1 Inspección conforme a la Ril 821 (Inspección de la superestructura)
 La EUB solicitó los tres últimos registros de inspección de las recorridas a pie de vía conforme a la Ril 821.2003, de las recorridas en vehículo de vía conforme a la Ril 821.2004 y de las comprobaciones de la geometría de vía con vehículos medidores de vía conforme a la Ril 821.2001, realizadas antes del suceso. A tal efecto, el EIU debía presentar, entre otros, las órdenes de mantenimiento, las listas de hallazgos y los protocolos de comprobación con los protocolos de superación de límites.
@@ -378,6 +383,7 @@ La EUB solicitó también las hojas de comprobación de desvíos, en las que se 
 El desvío 110 se trataba de una EKW. Poseía el perfil de riel S 54 y presentaba un radio de rama de 190 m con una inclinación de desvío de 1:9. Para la evaluación de la EKW no se disponía de ninguna medición posterior al descarrilamiento, por lo que se evaluó la última inspección ordinaria del 14.07.2015. En el recorrido del tren de mercancías debe considerarse la dirección c - a dentro de la EKW. Para la dirección c - a se documentaron en total seis superaciones de la escala de evaluación SR (magnitud de perturbación/reacción) en el ancho de vía y la anchura de conducción. Una superación de SR 100 (umbral para la reserva de desgaste técnico/económico)
 
 ## Página 19
+
 
 hace necesaria una reparación a más tardar en la próxima inspección ordinaria. Solo al superar el SR Lim cabe esperar una afectación de la funcionalidad. Los valores de medición documentados en la tabla 4 siguiente en los puntos de medición fueron anómalos.
 
@@ -400,8 +406,8 @@ El desvío 135 era un desvío simple (EW) que se bifurca hacia la izquierda, con
 
 ⁴ Fuente: Elaboración propia según DB Netz AG
 
-
 ## Página 20
+
 
 | Punto de medición | Nominal (mm) | Real (mm) | SR 100 | SR Lim |
 |---|---|---|---|---|
@@ -426,8 +432,8 @@ Figura 6: Extracto del registro de medición MKS del 24.10.2015⁶
 ⁵ Fuente: Elaboración propia según DB Netz AG
 ⁶ Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 21
+
 
 Otra medición de la geometría de vía realizada después del descarrilamiento con un tren de medición RAILab del EIU tuvo lugar el 03.11.2015. Según las pruebas de reparación presentadas por DB Netz AG, a esa fecha aún no se habían realizado medidas de reparación. Estas deberían haberse realizado por primera vez en forma de trabajos de apisonado manual el 01.12.2015.
 
@@ -439,15 +445,13 @@ El área del registro de medición del 03.11.2015, que fue medida por el tren de
 
 ⁷ Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 22
 
-Figura 8: Registro de medición del 03.11.2015⁸
-
-⁸ Fuente: DB Netz AG
-
+Figura 8: Registro de medición del 03.11.20158 
+8 Fuente: DB Netz AG
 
 ## Página 23
+
 
 El registro de medición indicaba en este tramo de vía, además de una superación del SR 100 en la magnitud de ensayo «torsión ORE», varias superaciones en la magnitud de ensayo «altura de aguja». Estas superaciones están documentadas en el protocolo de superaciones. Además, en el registro de medición se podía observar que en la «señal total de error individual» en el área del desvío 135 existía una superación del SR 100.
 
@@ -460,6 +464,7 @@ Las primeras huellas de descarrilamiento hacia la izquierda eran apreciables jus
 Otra medición tuvo lugar algunas semanas después del descarrilamiento, el 11.12.2015. Esta medición, sin embargo, no sirvió para evaluar la geometría de vía, sino que tenía exclusivamente el propósito de completar, después de la reparación, la geometría de vía que faltaba antes del corazón del desvío 110 para una simulación posterior con SIMPACK.
 
 ## Página 24
+
 
 ### Hallazgos sobre la infraestructura constructiva
 N.º de hallazgo 3
@@ -475,29 +480,32 @@ Hallazgos del examen de los procesos operativos del operador de infraestructura
 N.º de hallazgo 5
 La actuación del personal ferroviario implicado en el suceso no tuvo influencia causal en la producción del accidente.
 
-
 ## Página 25
+
 
 ### 4.6 Examen de los procesos operativos del EVU
 El examen técnico-ferroviario del tren de mercancías DGS 75828 se realizó el 22.10.2015 en la estación de Rheinhausen. A continuación se elaboró una lista de vagones, que se muestra parcialmente en la figura siguiente. La realización de la prueba de freno completa se documentó a las 23:45.
 Figura 10: Lista de vagones DGS 75828
 
-
 ## Página 26
+
+
 A partir de la lista de vagones se evidencia que el tren estaba compuesto por 24 vagones con un total de 96 ejes y una longitud total de 617 m. El peso total de los vagones era de 697 t. Los vagones no estaban cargados y se encontraban, conforme a las normas aplicadas en el EVU (documento VDV 757/DB-Ril 915), en la posición de freno P.
 Para la reconstrucción del desarrollo de la circulación se evaluaron los datos de circulación registrados por el Registro Electrónico de Circulaciones (EFR) de la locomotora motriz (Tfz) que iba en cabeza. El equipo de a bordo PZB estaba activado. Los datos en bruto estaban registrados de forma completa y sin errores.
 Como datos de tren estaban configurados 70 centésimas de freno y el tipo de freno 4. Las horas mostradas son internas al sistema y reflejan la hora de la caja de almacenamiento de datos (DSK), que solo se desviaba ligeramente de la hora real. Para la evaluación se normalizó el recorrido registrado, es decir, se adaptó la representación del recorrido a la kilométrica de la línea. Como punto de referencia se eligió la interferencia de 1.000 Hz a la altura del Vsig c 109 en km 71,752. La figura 11 muestra gráficamente el resultado de la evaluación de datos EFR realizada por la EUB.
 Figura 11: Representación gráfica de los datos EFR
 El tren se aproximaba a la estación de clasificación Hamm (Weser) Rbf con una velocidad de unos 55 km/h. A la altura del Vsig c 109 en km 71,752 se registró a las 02:34:35, con una velocidad de 53 km/h, una interferencia de 1.000 Hz que resultaba de la indicación de señal «esperar circulación lenta» en el Vsig c 109. El Tf la confirmó con la pulsación de la tecla «Vigilante». En el desarrollo posterior de la circulación, el Tf redujo a continuación la velocidad de su tren. Dado que el
 
-
 ## Página 27
+
+
 repetidor de señal de aproximación WV c 109 indicaba «esperar circulación lenta», es decir, que la indicación de señal del Esig C 109 en km 72,753 no había cambiado, el Tf pulsó de nuevo la tecla «Vigilante» a una velocidad de 39 km/h. El tren continuó su circulación hacia la estación de clasificación Hamm (Weser) Rbf y pasó el Esig C 109, situado a la altura del km 72,753, con una velocidad de 38 km/h. A las 02:36:16 finalizó, tras un recorrido de unos 1.240 m, la interferencia de 1.000 Hz. Hacia las 02:36:42 se registró a la altura del Vsig Vn,r, que seguía en el desarrollo de la circulación, una nueva interferencia de «1.000 Hz». El motivo de esta interferencia puede ser que este Vsig indicara «esperar parada». No se registró en los datos EFR ninguna pulsación de la tecla «Vigilante». Esto condujo a continuación a una frenada forzosa PZB, como consecuencia de la cual descendió la presión en la tubería principal de freno (HL) y los frenos del tren se hicieron efectivos. El hecho de que el Tf pulsara dos veces la tecla «Vigilante» seis segundos después de la interferencia de 1.000 Hz ya no tuvo influencia sobre el desarrollo posterior. El tren fue frenado intensamente por la frenada forzosa y se detuvo a unos 135 m detrás del Vsig Vn,r a las 02:36:59.
 ### Hallazgos del examen de los procesos operativos del EVU
 N.º de hallazgo 6
 La evaluación de los datos EFR del DGS 75828 no reveló hallazgos que pudieran clasificarse como causantes del suceso. La frenada forzosa, provocada por la omisión de la pulsación de la tecla «Vigilante» en el Vsig Vn,r, está concebida como nivel de protección para tales situaciones operativas, a fin de prevenir sucesos peligrosos en la explotación ferroviaria.
 
 ## Página 28
+
 
 ### 4.7 Examen de los vehículos
 El tren de mercancías DGS 75828 estaba compuesto por una locomotora de la serie 185 con el número de vehículo 91 80 6 185 598-0 y 24 vagones portaautomóviles vacíos. Los primeros siete vagones eran vehículos de la clase Laaers 1092 (tipo de freno Oerlikon-Chamilles) y los 17 vagones siguientes eran vehículos de la clase Laaeks 911 (tipo de freno Dako). El tren de mercancías DGS 75828 tenía una longitud total de 636 m, disponía de 100 ejes y tenía una masa de 781 t. Para la circulación del tren eran necesarios 65 centésimas de freno mínimas con 97 centésimas de freno disponibles. Se descarrilaron los vagones de la clase Laaeks 911 situados en el 9.º, 10.º y 11.º lugar.
@@ -517,8 +525,8 @@ De la tabla siguiente pueden extraerse los datos técnicos de los vehículos des
 Tabla 6: Datos técnicos de los vagones descarrilados
 Los tres vagones descarrilados 23 54 4366 259-0, 23 54 4366 286-3 y 23 54 4366 043-8 fueron examinados en febrero de 2016 por la EUB con el apoyo de la fabricante de vehículos F. Kiffe GmbH & Co KG en su taller correspondiente en Hamm, con los siguientes resultados.
 
-
 ## Página 29
+
 
 ### Vagón 23 54 4366 259‐0
 En este vagón se constataron daños en las superficies de rodadura del eje trasero. Ambos discos de choque, dos portaejes y la plataforma de paso de la mitad trasera de la unidad presentaban en parte fuertes deformaciones. Los daños enumerados se consideraron no causantes del suceso, sino consecuencia del descarrilamiento. En las dos figuras siguientes son reconocibles los daños descritos en el vagón.
@@ -527,24 +535,24 @@ Figura 13: Daño en la plataforma de paso en el vagón 23 54 4366 259-010
 9 Fuente: Fabricante de vehículos F. Kiffe GmbH & Co KG
 10Fuente: Fabricante de vehículos F. Kiffe GmbH & Co KG
 
-
 ## Página 30
+
 
 ### Vagón 23 54 4366 286‐3
 En este vagón también había daños en las superficies de rodadura del eje trasero. Cuatro discos de choque, dos plataformas de paso, el frontal de la mitad delantera de la unidad, así como los travesaños de cabeza y los largueros presentaban en parte fuertes deformaciones. La chapa del suelo y un gancho de enganche estaban doblados. Faltaban un soporte de tracción y una plataforma de paso, y un soporte de tracción presentaba deformaciones. Los daños descritos anteriormente se asumen como consecuencia del descarrilamiento y son visibles en la figura siguiente.
 Figura 14: Chapas del suelo dañadas en el vagón 23 54 4366 286-311
 11 Fuente: Fabricante de vehículos F. Kiffe GmbH & Co KG
 
-
 ## Página 31
+
 
 ### Vagón 23 54 4366 043‐8
 Este vagón se descarriló a la derecha con el primer eje de su mitad delantera de la unidad y quedó montado sobre el vagón que le precedía. En las superficies de rodadura del primer eje de la mitad delantera de la unidad había daños. Un bloque de muelle de suspensión, partes de la HL, la llave de corte de aire delantera junto con el acoplamiento de freno y el soporte del acoplamiento de freno, así como un lazo de retención de freno, estaban arrancados. Dos plataformas de paso, discos de choque, un gancho de enganche y una guía de gancho de enganche presentaban deformaciones. Faltaban un mango de enganche y un soporte de tracción. Otro mango de enganche y otro soporte de tracción estaban fuertemente doblados. Además, un triángulo de freno, portaejes y un acoplamiento de tornillo presentaban daños. Los daños enumerados eran consecuencia del descarrilamiento y no causantes del suceso. La figura siguiente muestra un bloque de muelle de suspensión arrancado del vagón 23 54 4366 043-8.
 Figura 15: Bloque de muelle de suspensión arrancado y plataforma de paso dañada en el vagón 23 54 4366 043-812
 12 Fuente: Fabricante de vehículos F. Kiffe GmbH & Co KG
 
-
 ## Página 32
+
 
 ### Conclusión sobre el examen de los vehículos
 N.º de referencia 7
@@ -553,6 +561,7 @@ En los tres vagones descarrilados se constataron en parte daños considerables d
 El examen de la superestructura, de los vehículos, de la técnica de mando y de seguridad, así como de las actuaciones operativas puso de manifiesto que en ninguno de estos ámbitos existían deficiencias que, consideradas aisladamente, pudieran clasificarse como causantes del accidente. Partiendo de la hipótesis de que una combinación de deficiencias y factores de estos ámbitos había conducido al descarrilamiento del tren, la EUB decidió encargar la realización de una simulación a la empresa simtes KG. El objetivo era obtener, mediante la simulación, conocimientos más precisos sobre la causa del accidente. Para ello, la EUB puso a disposición de la empresa simtes KG, encargada de la realización de la simulación, todos los datos e información necesarios y disponibles. La simulación se trató de una simulación multibody con la denominación SIMPACK, que incluía la dinámica longitudinal, lateral y vertical, incluida la consideración de la mecánica de contacto rueda-carril. Con el fin de esta simulación se creó un modelo compuesto por la locomotora y 24 vagones portaautomóviles de dos piezas, y se realizaron las simulaciones del proceso de frenado teniendo en cuenta todas las influencias pertinentes (posición de la vía, trazado, características de los vehículos). Una vez finalizada la simulación, se remitieron a la EUB los resultados en forma de un informe escrito con el título «Cálculos de simulación del descarrilamiento del tren en Hamm del 23.10.2015». Los dos subcapítulos siguientes reproducen, sin que se indique expresamente, los resultados de este informe de simulación.
 
 ## Página 33
+
 
 ### 4.8.1 Datos generales sobre la simulación13
 En primer lugar, se evaluaron mediante la simulación las fuerzas de presión longitudinal resultantes de la frenada forzada en el tren. Para ello, se creó un modelo de un tren de mercancías con los parámetros del tren de mercancías DGS 75828. La simulación mostró que se producían fuerzas de presión longitudinal muy elevadas en el tren cuando los trenes de mercancías se frenaban a partir de una velocidad de circulación baja mediante una frenada forzada o rápida. Asimismo, quedó claro que se producía un aumento de las fuerzas de presión longitudinal en la zona de los acoplamientos de los vagones 7 a 11 al pasar por la aguja 135.
@@ -565,8 +574,8 @@ La simulación mostró que las altas fuerzas de presión longitudinal resultante
 
 13 Fuente: simtes KG (ed.), Cálculos de simulación sobre la descarrilación de un tren en Hamm del 23.10.2015, Bielefeld, 2022
 
-
 ## Página 34
+
 
 Para vagones de mercancías con bogies de un solo eje, la nota informativa UIC 530.2 y la EN 15839 exigen una resistencia a las fuerzas de presión longitudinal de al menos 200 kN. Las investigaciones del laboratorio de pruebas de DB en Minden han demostrado que los criterios de descarrilamiento derivados del ensayo de empuje en curva en S según UIC 530-2 también pueden aplicarse a frenadas rápidas con la dinámica correspondiente14. El resultado de las investigaciones es que una superación breve de la fuerza de presión longitudinal admisible no conduce a un descarrilamiento, sino que la fuerza de presión longitudinal debe actuar al menos a lo largo de un recorrido de 10 m para que se produzca un descarrilamiento. De los resultados de los ensayos se desprende que los vagones de mercancías vacíos o las unidades con bogies de un solo eje presentan una fuerza de presión longitudinal admisible mínima de aproximadamente 150 kN. En el marco de la simulación quedó claro que sobre los topes derechos del acoplamiento entre el vagón 9 y el vagón 10 actuaba, a lo largo de un tramo de unos 15 m, una fuerza de presión longitudinal de unos 150 kN. La fuerza de presión longitudinal máxima, con un valor de 250 kN, se produjo en el cálculo de simulación entre los vagones individuales del vagón 9, por el lado derecho.
 
@@ -578,8 +587,8 @@ Cuando las altas fuerzas de presión longitudinal se superponen en una trazado e
 14 Fuente: D. Bing: "Detección de descarrilamientos en el tráfico ferroviario de mercancías – Análisis de las influencias sobre la dinámica longitudinal del tren", tesis doctoral, TU Berlín, Berlín, 2014, citado según simtes KG (ed.), Cálculos de simulación sobre la descarrilación de un tren en Hamm del 23.10.2015, Bielefeld, 2022
 15 Fuente: simtes KG (ed.), Cálculos de simulación sobre la descarrilación de un tren en Hamm del 23.10.2015, Bielefeld, 2022
 
-
 ## Página 35
+
 
 En la zona del lugar del accidente estaba instalada una aguja del tipo EW 54-190-1:9. El radio de la curva antes de la aguja era de 300 m.
 
@@ -594,13 +603,14 @@ La siguiente representación esquemática muestra el probable desarrollo del sob
 
 ## Página 36
 
+
 Figura 16: Fases del sobrepaso de tope¹⁶
 Es muy probable que este proceso se haya repetido entre los vagones 11 y 10 durante la frenada forzosa.
 Si todas las circunstancias que contribuyeron al descarrilamiento del DGS 75828 el 23.10.2015 en Hamm volvieran a producirse de la misma forma en el mismo lugar, podría producirse en ese punto un nuevo descarrilamiento. La combinación del estado de la infraestructura vía, de la trazado, de la situación operativa y de las condiciones técnicas del material rodante parece ser tan única que no se considera oportuna la derivación de normas generales de aplicación para la mejora de la seguridad ferroviaria a partir de este suceso. Un parámetro de influencia importante es la posición de frenado, que en la actualidad se determina a partir del peso del tren. La consideración de la longitud del tren en la determinación de la posición de frenado podría influir positivamente en
 ¹⁶ Fuente: simtes KG (ed.), Cálculos de simulación del descarrilamiento de tren en Hamm del 23.10.2015, Bielefeld, 2022
 
-
 ## Página 37
+
 
 el desarrollo de los acontecimientos, pero esto sería objeto de posibles consideraciones futuras.
 ## 5 Evaluación
@@ -612,8 +622,8 @@ En este informe se constató, bajo los números de registro 1, 2, 4, 5, 6 y 7, q
 En el examen de la infraestructura constructiva, la EUB constató una acumulación de defectos en el tramo de vía comprendido entre las agujas 110 y 135, pero también en las propias agujas. Los detalles al respecto se contienen en el capítulo 4.3, constatación n.º 3. No obstante, estos defectos no estaban tan acentuados como para que pudieran ser por sí solos la causa del descarrilamiento.
 En el examen de las acciones operativas del EVU se constató, con el n.º de registro 6, que el tren recibió una frenada forzosa PZB a la altura del Vsig con la denominación Vn,r. Las frenadas forzosas están previstas operativamente en función de la situación. Por ejemplo, se pretende impedir que un conductor que pasa por alto un Vsig con las indicaciones de señal «esperar parada» o «esperar velocidad reducida» se dirija a la señal principal correspondiente con velocidad inalterada. Esto podría dar lugar a una situación de peligro operativo. Dichas frenadas forzosas son, para la
 
-
 ## Página 38
+
 
 seguridad de la explotación ferroviaria, indispensables. Las ubicaciones de las señales se determinan en función de las condiciones de explotación ferroviaria. La técnica de mando y seguridad funcionó correctamente, como se constató bajo el número de registro 4.
 También se examinaron los tres vehículos situados en las posiciones 9.ª, 10.ª y 11.ª que descarrilaron. Los defectos constatados en dichos vehículos debían clasificarse como consecuencias del descarrilamiento.
@@ -621,8 +631,8 @@ Con ello, todos los ámbitos examinados, considerados individualmente, no fueron
 La simulación realizada por la empresa simtes KG confirmó en gran medida la hipótesis original de la EUB de que el descarrilamiento tuvo como causa una combinación de distintos factores. Concurrían factores superpuestos de la infraestructura, de la explotación y de la técnica del material rodante que, considerados individualmente, no eran por sí solos causantes del descarrilamiento. Solo la combinación del defecto de posición de vía junto con la activación de una frenada forzosa condujo, en los vehículos empleados, a una aplicación de fuerza excesiva, de modo que estos descarrilaron en la aguja 135.
 ¹⁷ Fuente: simtes KG (ed.), Cálculos de simulación del descarrilamiento de tren en Hamm del 23.10.2015, Bielefeld, 2022
 
-
 ## Página 39
+
 
 ## 6 Medidas adoptadas hasta la fecha
 Al BEU / EUB no le constan medidas adoptadas a raíz del suceso por parte de las empresas ferroviarias implicadas o por la autoridad de seguridad.

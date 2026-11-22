@@ -10,13 +10,13 @@ chars: 89453
 ratio_longitud: 1.27
 tokens_in: 36802
 tokens_out: 26305
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 10: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS); ratio 1.85", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +39,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce 
@@ -69,8 +69,8 @@ No se detectó ningún factor contribuyente por parte de la Drážní inspekce.
 No se detectó ninguna causa sistémica por parte de la Drážní inspekce.
 No se emitió ninguna recomendación de seguridad por parte de la Drážní inspekce.
 
-
 ## Página 4
+
 
 ## SUMMARY
 19th October 2023, 12:15 (11:15 GMT).
@@ -103,8 +103,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -146,8 +146,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................29
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................29
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.............................................................................................29
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................29
@@ -176,8 +176,8 @@ SUMMARY.........................................................................
 5.3 Hallazgos complementarios.....................................................................................................33
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................33
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 C.T.M.
@@ -210,6 +210,7 @@ ZZS
 Servicio de Emergencias Médicas
 
 ## Página 8
+
 
 ### Lista de siglas de normativa legal, normas y reglamentos internos utilizados
 Ley núm. 266/1994 Sb.
@@ -259,8 +260,8 @@ Condiciones técnicas TP 6-07-KT8D5-01 Tranvía motor de tres cuerpos, ocho ejes
 bidireccional, modernizado, con adherencia del 100 % KT8D5.RN2, en la redacción 
 vigente en el momento de producirse la incidencia
 
-
 ## Página 9
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -311,58 +312,43 @@ involucrados, las instalaciones técnicas y la infraestructura ferroviaria;
 medición de los parámetros de la superestructura del tranvía mediante el 
 uso de un patrón de vía manual;
 
-
 ## Página 10
 
 •
-análisis de la documentación solicitada al explotador de la infraestructura 
-y al transportista PMDP y al HZS;
+análisis de la documentación solicitada al gestor de la vía y al transportista PMDP y HZS;
 •
-análisis de los datos registrados por los registradores de velocidad de los 
-vehículos ferroviarios involucrados;
+análisis de los datos registrados por los registradores de velocidad de los vehículos ferroviarios participantes;
 •
-realización de la prueba de verificación (véase el punto 2.6 de este informe);
+realización de una prueba de verificación (véase el punto 2.6 de la presente ZZ);
 •
-declaraciones de los empleados involucrados.
+declaraciones de los empleados participantes.
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
-Durante la investigación de la incidencia no surgieron dificultades ni problemas 
-que tuvieran influencia en el desarrollo de la investigación o en sus conclusiones.
-### 2.9 Interacción con los órganos judiciales
-Durante la investigación de la incidencia objeto de estudio no se inició, ni por parte 
-del DI ni por parte de los órganos judiciales, ninguna comunicación ni 
-colaboración.
+Durante la investigación de la MU no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
+### 2.9 Interacción con las autoridades judiciales
+Durante la investigación de la MU objeto de estudio, ni por parte de la DI ni por parte de las autoridades judiciales se inició ninguna comunicación ni colaboración.
 ### 2.10 Cualquier otra información relevante para la investigación
-Todas las circunstancias esenciales halladas relativas al desarrollo de la 
-investigación de la incidencia objeto de estudio ya se han indicado 
-anteriormente.
+Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación de la MU objeto de estudio ya han sido mencionadas más arriba.
 ## 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
 ### 3.1.1 Descripción del tipo de suceso
-Tipo de incidencia:
-colisión VF x VF.
-Grupo de incidencia:
+Tipo de MU:
+colisión DV x DV.
+Grupo de MU:
 accidente grave.
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
-19. 10. 2033.
+19. 10. 2023.
 Hora:
 12:15 h.
 Lugar:
-vía de tranvía en el término municipal de Pilsen, tras el cruce de las calles 
-Karlovarská y Bolevecká, tramo entre las paradas Pod Záhorskem 
-y Zoologická zahrada (en el sentido de la marcha del tranvía de la línea núm. 4), 
-respectivamente Pod Záhorskem y Lékařská fakulta (en el sentido de la marcha 
-del tranvía de la línea núm. 1), vía núm. 2.
+vía de tranvía en el término municipal de Plzeň, tras el cruce de las calles Karlovarská y Bolevecká, tramo entre las paradas Pod Záhorskem y Zoologická zahrada (en el sentido de circulación del tranvía de la línea n.º 4), respectivamente Pod Záhorskem y Lékařská fakulta (en el sentido de circulación del tranvía de la línea n.º 1), vía n.º 2.
 Coordenadas GPS:
 49.7585228N, 13.3711606E.
 ### 3.1.3 Descripción del lugar del suceso
-El lugar de la incidencia, situado entre la parada Pod Záhorskem y el cruce de las 
-calles Karlovarská y Lidická, forma parte de la línea «náměstí Milady Horákové – 
-Bolevec, Tachovská». Antes del cruce de las calles Karlovarská y Lidická, la línea 
-«Karlovarská x Lidická – 
-
+El lugar de origen de la MU, situado entre la parada Pod Záhorskem y el cruce de las calles Karlovarská y Lidická, forma parte de la línea «náměstí Milady Horákové – Bolevec, Tachovská». Antes del cruce de las calles Karlovarská y Lidická, la línea «Karlovarská x Lidická –
 
 ## Página 11
+
 
 Košutka» se incorpora a la línea «náměstí Milady Horákové – 
 Bolevec, Tachovská» mediante los desvíos núm. VE 8 y VS 10. La línea de tranvía 
@@ -398,8 +384,8 @@ ferroviarios de ambos tranvías y la infraestructura ferroviaria en el sentido d
 marcha de los tranvías desde la parada Pod Záhorskem hasta el lugar de la posición 
 final del frontal del tranvía de la línea núm. 1, curso 7, n.º de registro 291.
 
-
 ## Página 12
+
 
 Estado de los vehículos ferroviarios:
 •
@@ -468,8 +454,8 @@ línea núm. 4 y la parada terminal «Košutka», estaba encajado en el frontal 
 (cuerpo A) del tranvía de la línea núm. 1 y se encontraba a una distancia de 103 m 
 del poste indicador de la parada Pod Záhorskem.
 
-
 ## Página 13
+
 
 ### Tranvía de la línea núm. 1, curso 7:
 •
@@ -529,6 +515,7 @@ indicador de la parada Pod Záhorskem.
 
 ## Página 14
 
+
 Estado de la infraestructura:
 •
 al final del borde de andén de la parada Pod Záhorskem en dirección al depósito Košutka se situó el poste indicador de la parada Pod Záhorskem con la señal de tráfico IJ 4d «Parada de tranvía», complementado con una placa con la designación del nombre de la parada Pod Záhorskem y los números de las líneas de tranvía n.º 1 y 4, una placa con la tarifa del operador y los horarios de las líneas n.º 1 y 4;
@@ -568,8 +555,8 @@ daño a la salud de la conductora del tranvía de la línea n.º 1;
 daño a la salud de 18 pasajeros en ambos tranvías. *)
 *) El número final de heridos no se precisó a la fecha de elaboración del ZZ.
 
-
 ## Página 15
+
 
 El operador de la vía y el transportista cuantificaron el daño en:
 •
@@ -605,8 +592,8 @@ El operador de la vía y el transportista en la vía de tranvía en el territori
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 El tranvía de la línea n.º 4, servicio 6, estaba compuesto por un conjunto de dos vehículos unidireccionales, de tres puertas, parcialmente de piso bajo, tipo VarioLFR.S, n.º de inventario 352 y 353. El DV está destinado a la circulación unidireccional independiente o a la circulación en mando múltiple de dos vehículos acoplados en un tren de tranvía.
 
-
 ## Página 16
+
 
 El DV dispone de un puesto de conducción y en el lado derecho está equipado con un total de tres puertas batientes de dos hojas con accionamiento electromecánico. En caso de avería o emergencia, la primera puerta (junto al conductor) puede desbloquearse mecánicamente y abrirse también desde el exterior del tranvía. Las demás puertas solo pueden desbloquearse y, en caso de emergencia, abrirse desde el interior. Desde el puesto de conducción es posible abrir, cerrar y cambiar a apertura por los pasajeros.
 La circulación del tranvía se bloquea con las puertas abiertas. La sujeción durante el cierre se evita mediante la protección contra sobrecarga del motor del mecanismo de puerta, el embrague de fricción deslizante y el perfil de goma de contacto en el borde de contacto de las hojas de la puerta. Antes de cerrar las puertas, una advertencia óptica y acústica advierte a los pasajeros.
@@ -627,8 +614,8 @@ orden de marcha y posterior arranque del tranvía de la línea n.º 4 desde la p
 | 12:13:26 h – | alcanzando una velocidad de 49 1 km·h-1 y posterior circulación por inercia (fuente: , registro del registrador de velocidad); |
 | 12:13:38 h – | inicio de la frenada con freno electrodinámico a una velocidad de 43 8 km·h-1 , |
 
-
 ## Página 17
+
 
 (fuente: registro del registrador de velocidad);
 activación del freno de zapatas a una velocidad de 2,6 km·h-1 (fuente: registro
@@ -691,6 +678,7 @@ el tranvía de la línea n.º 4 chocó (embistió) a una velocidad de 18,6 km·h
 
 ## Página 18
 
+
 del tranvía de la línea n.º 1 (fuente: registro del registrador de velocidad y de la cámara) – ocurrencia del accidente ferroviario;
 liberación del freno electrodinámico a una velocidad de 12,5 km·h-1 como consecuencia de la colisión (fuente: registro del registrador de velocidad);
 12:15:05 h –
@@ -705,8 +693,8 @@ Desde el puesto de conducción es posible abrir y cerrar las puertas, pudiéndos
 El DV está equipado con cámaras de accidente en ambos extremos; la cámara activa con grabación es siempre la delantera en el sentido de marcha.
 El vehículo n.º de registro 291 disponía del Certificado de aptitud del vehículo ferroviario, n.º de registro: PZ 4265/97-V.82, emitido por el DÚ el 22. 1. 1997, con anotación de la declaración de conformidad con el tipo aprobado de fecha 15. 4. 2016. La última revisión técnica periódica anterior a la ocurrencia del accidente ferroviario se realizó el 21. 2. 2022 con vigencia hasta el 21. 2. 2024, con el resultado de que el DV es apto para la explotación. La última inspección de control anterior a la ocurrencia del accidente ferroviario según la Directriz n.º 3/2014 se realizó el 6. 9. 2023 con el resultado «vehículo apto para la explotación».
 
-
 ## Página 19
+
 
 El vehículo n.º de registro 291 estaba, en el momento de la ocurrencia del accidente ferroviario, equipado con un dispositivo de registro automático de datos – registrador de velocidad (tacógrafo electrónico) C.T.M. TM12, n.º 12912.
 De los datos registrados por el registrador de velocidad y por la cámara de accidente que grababa la situación delante del tranvía se desprende:
@@ -728,8 +716,8 @@ De los datos registrados por el registrador de velocidad y por la cámara de acc
 12:14:43 h – el extremo del tranvía se encontraba a la altura de la señal S 15b «Marcha recta» (fuente: registro de la cámara);
 12:14:45 h – el extremo del tranvía entró en el límite de la intersección de las calles Karlovarská y Bolevecká (fuente: registro de la cámara);
 
-
 ## Página 20
+
 
 12:14:47 h – alcanzamiento de una velocidad de 32,7 km·h-1 a una distancia de 66,7 m del lugar de detención y posterior marcha por inercia; el extremo del tranvía abandonó el límite de la intersección de las calles Karlovarská y Bolevecká (fuente: registro del registrador de velocidad y de la cámara);
 12:14:54 h – inicio de la frenada con el freno electrodinámico a una velocidad de 24,5 km·h-1 a una distancia de 13,3 m del lugar de detención
@@ -744,8 +732,8 @@ Nota: la diferencia entre el tiempo registrado y el tiempo real fue de + 10 s.
 Del registro del registrador de velocidad del tranvía de la línea n.º 1 se desprende que en el tramo de circulación entre la parada Hlavní pošta y el lugar de ocurrencia del accidente ferroviario no se superó la velocidad máxima permitida (50 km·h-1).
 De la investigación de este accidente ferroviario se constató que la detención del tranvía de la línea n.º 1, tras recorrer una distancia de 133,5 m desde la salida de la parada Pod Záhorskem, se produjo a raíz de la señalización de advertencia activada por los pasajeros a la conductora, debido al atrapamiento de los dedos de una extremidad superior del pasajero entre el marco y la hoja de puerta de una sola pieza tras su subida al tranvía.
 
-
 ## Página 21
+
 
 Fig. n.º 3: Ubicación del pasamanos
      Fuente: DI
@@ -763,8 +751,8 @@ La prueba de verificación, en la que todas las puertas del DV en cuestión fuer
 5. atrapamiento de una mano entre la hoja y el marco de la puerta (circunstancia previa a la ocurrencia de este accidente ferroviario):
 con el atrapamiento de una mano, concretamente de la palma (se utilizó una plantilla de medición de plástico de 2 cm de espesor) entre la hoja de puerta de una sola pieza y el marco de la puerta, se produjo el cierre de las puertas (véanse las figs. n.º 4 y 5) y, con la orden de marcha, la puesta en marcha del tranvía;
 
-
 ## Página 22
+
 
 Fig. n.º 4: Mano en el borde de la hoja de la puerta
 Fig. n.º 5: Mano atrapada entre la hoja
@@ -786,6 +774,7 @@ Los hallazgos anteriores se corresponden con lo dispuesto en la Parte IV del Ane
 Los días 25. 10. y 27. 10. 2023, las personas cualificadas del transportista realizaron una inspección de los vehículos n.º de registro 291, 352 y 353 tras el accidente ferroviario con el fin de determinar el alcance de los daños y cuantificar los costes de su puesta en servicio.
 
 ## Página 23
+
 
 ### 3.1.8 Descripción de las partes de infraestructura y del sistema de señalización correspondientes
 La vía de tranvía explotada en el territorio de la ciudad de Plzeň está electrificada con sistema de corriente continua a 600 V. El MU objeto de estudio se produjo en el tramo entre las paradas Pod Záhorskem y Lékařská fakulta (en el sentido de circulación del tranvía de la línea n.º 1), que forman parte de la línea "náměstí Milady Horákové – Bolevec, Tachovská". A la línea de doble vía "náměstí Milady Horákové – Bolevec, Tachovská" de longitud constructiva de 8,20 km, antes de la intersección de las calles Karlovarská y Lidická, se enlaza mediante los desvíos n.º VE 8 y VS 10 la línea de doble vía "Karlovarská x Lidická – Košutka" de longitud constructiva de 2,80 km.
@@ -809,8 +798,9 @@ conductor del tranvía de la línea n.º 4
 ◦no se produjo ninguna avería técnica durante el turno y no reclamó ninguna avería técnica en el vehículo;
 ◦en la parada Pod Záhorskem se detuvo para el desembarco y embarque de pasajeros como segundo en la cola;
 
-
 ## Página 24
+
+
 ◦tras la salida del primer tranvía (nota DI: línea n.º 1 desde la parada Pod Záhorskem) arrancó de la manera habitual, tal como lleva haciendo ya doce años de su ejercicio;
 ◦comprobó visualmente mediante los espejos exteriores e interiores del tranvía que todo estaba en orden, es decir, que realizó una inspección visual de los pasajeros en el vehículo y, además, si alguien estaba corriendo o quedaba atrapado en las puertas;
 ◦a continuación comprobó visualmente si la señalización para su entrada en la intersección estaba en "libre";
@@ -838,8 +828,9 @@ conductora del tranvía de la línea n.º 1
 ◦antes de que pudiera llegar, se produjo el impacto, en el que cayó;
 ◦a continuación ya no lo recordaba con exactitud, había un caos terrible y muchos pasajeros heridos;
 
-
 ## Página 25
+
+
 ◦respecto al embarque de la señora mencionada, indicó que en la parada Pod Záhorskem la vio en el espejo lateral derecho acercándose a las puertas traseras del tranvía, que ya había cerrado previamente tras finalizar el embarque de pasajeros;
 ◦tras pulsar la señora el botón de apertura de puertas, le abrió las puertas;
 ◦en el espejo vio que la señora había embarcado, por lo que cerró las puertas y arrancó.
@@ -850,8 +841,8 @@ Posteriormente, la conductora del tranvía de la línea n.º 1, según su declar
 A las 12:14:31 h, tras finalizar el embarque y desembarco de pasajeros, el conductor del tranvía de la línea n.º 4 arrancó desde la parada Pod Záhorskem en dirección a la parada Košutka. Al alcanzar la velocidad de 9,1 km·h-1, siguió la marcha en aproximación. A las 12:14:43 h a una velocidad de 5,1 km·h-1 volvió a solicitar la marcha y a las 12:14:48 h el tranvía pasó junto al indicador de parada Pod Záhorskem a una velocidad de 14,2 km·h-1. Al alcanzar la velocidad de 31,2 km·h-1 a una distancia de 69,4 m antes del lugar de la colisión con el tranvía de la línea n.º 1, siguió la marcha en aproximación. Tras abandonar el tranvía de la línea n.º 4 la intersección de las calles Karlovarská y Bolevecká a las 12:14:56 h, el conductor inició a las 12:15:01 h a una velocidad de 20,6 km·h-1 el frenado de servicio (con freno electrodinámico) a una distancia de 4,9 m antes del lugar de la colisión con el tranvía de la línea n.º 1.
 Posteriormente, a las 12:15:02 h a una velocidad de 18,6 km·h-1, el tranvía de la línea n.º 4 impactó contra la parte trasera del tranvía detenido de la línea n.º 1. Como consecuencia de la colisión, el tranvía de la línea n.º 1 fue desplazado 1,6 m en el sentido de su marcha. El frontal del tranvía de la línea n.º 1 se detuvo a una distancia de 133,6 m del indicador de parada Pod Záhorskem y el frontal del tranvía de la línea n.º 4, que quedó encastrado en el trasero del tranvía de la línea n.º 1, se detuvo a una distancia de 103 m del indicador de parada Pod Záhorskem. No se produjo el descarrilamiento de los tranvías.
 
-
 ## Página 26
+
 
 ### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
 •
@@ -893,6 +884,7 @@ El transportista está, entre otras obligaciones, obligado a garantizar que el c
 
 ## Página 27
 
+
 podría reducir a tiempo la velocidad de circulación o podría detener el vehículo, si el conductor que circula delante del tranvía reduce repentinamente la velocidad del vehículo o detiene el vehículo.
 Tras salir de la parada Pod Záhorskem, el conductor del tranvía de la línea n.º 4, curso 6, no condujo el tranvía en cuanto a la distancia mutua según las condiciones de visibilidad, concretamente no mantuvo una distancia segura del vehículo que circulaba delante de él, no redujo a tiempo la velocidad de circulación y no se detuvo antes del tranvía que se detuvo repentinamente.
 ### Hallazgos:
@@ -921,8 +913,8 @@ No apartar durante la circulación su atención de la observación de la vía qu
 •
 § 8 apartado 20 de la norma interna PMDP DPŘ-T:
 
-
 ## Página 28
+
 
 •
 "Obligaciones básicas de los conductores de tranvías
@@ -943,8 +935,8 @@ La competencia de las autoridades administrativas ferroviarias la ejercen tambi�
 La obligación de la DÚ, respectivamente de las autoridades administrativas ferroviarias en el ámbito de competencia transferida, es comunicar a la DI, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma/las mismas, qué medida ha adoptado/han adoptado en relación con esta recomendación de seguridad.
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y tipos de vehículos y está facultada para renovar, modificar, suspender o revocar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional
 
-
 ## Página 29
+
 
 etc., sin que las funciones de la Agencia de la Unión Europea para los Ferrocarriles se apliquen a las vías de tranvía, de trolebús, de cable o a la vía especial.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
@@ -964,8 +956,8 @@ En la investigación no se identificaron factores relacionados con los fabricant
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas
 En la investigación no se identificaron factores derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas.
 
-
 ## Página 30
+
 
 ### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se identificaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
@@ -983,8 +975,8 @@ En la investigación no se identificaron factores relacionados con el contenido 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se identificaron factores relacionados con la organización del trabajo o las tareas laborales.
 
-
 ## Página 31
+
 
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se identificaron factores relacionados con el entorno laboral.
@@ -1007,6 +999,7 @@ El explotador de la vía explotaba la vía sobre la base de una autorización ad
 En la investigación no se identificaron otros factores sistémicos.
 
 ## Página 32
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la MU objeto de estudio en las vías de tranvía de las siguientes MU similares:
@@ -1033,8 +1026,8 @@ La DI no detectó ninguna causa sistémica.
 occurrence
 Causal factor:
 
-
 ## Página 33
+
 
 •
 failure to comply the conditions of running at sight at movement of the tram rolling 
@@ -1069,8 +1062,8 @@ It was not found at the infrastructure manager and the railway undertaking PMDP.
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias detectadas de la ocurrencia del suceso excepcional, la Inspección Ferroviaria no emite ninguna recomendación de seguridad, ya que no se han detectado datos que justifiquen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia de sucesos excepcionales.
 
-
 ## Página 34
+
 
 ## SAFETY RECOMMENDATIONS
 The Rail Safety Inspection Office does not issue a safety recommendation in regard of the 

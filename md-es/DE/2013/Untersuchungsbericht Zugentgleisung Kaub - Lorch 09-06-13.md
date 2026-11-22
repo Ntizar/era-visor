@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 48: cifras largas: faltan 6/28 (21%)"]
-notas_cifras: ["página 3: cifras cortas: 1/78", "página 11: cifras cortas: 1/10", "página 44: cifras largas: 2/23"]
 ---
 
 ## Página 1
@@ -525,6 +524,7 @@ En la vía Kamp-Bornhofen – Loreley se encuentra el sistema de detección de r
 
 ## Página 21
 
+
 El tramo de vía (VZG 3507) en el ámbito de servicio del ESTW A - Assmannshausen está equipado con una instalación automática de liberación de vía con contadores de ejes para todas las secciones de desvío y de vía. Los dispositivos de liberación de vía sirven para verificar la ocupación de secciones de vía y desvío, así como de secciones de bloqueo, por parte de vehículos ferroviarios. El conteo puntual de ejes se realiza mediante la influencia en los puntos de conteo por parte de los juegos de ruedas del vehículo ferroviario. Al entrar o salir de la sección liberada, se indica la necesaria señalización de ocupación o de liberación.
 Los límites de la instalación de liberación de vía para las secciones de vía relevantes para el suceso se pueden extraer de la tabla siguiente. Los distintos circuitos de conteo de ejes están registrados en el esquema de posición de señales y en el esquema general de contadores de ejes.
 Üst Lorch
@@ -566,6 +566,7 @@ Según el historial del ESTW, se mostraron las siguientes señales de tecnologí
 
 ## Página 22
 
+
 Los mensajes de la pantalla de planificación se muestran, por diseño del sistema, parcialmente con retraso respecto a la perturbación realmente ocurrida. En cursiva se presentan las explicaciones de cada mensaje de señalización.
 
 | Fecha | Hora | Mensajes de señalización | Explicación |
@@ -595,6 +596,7 @@ Los mensajes de la pantalla de planificación se muestran, por diseño del siste
 
 ## Página 23
 
+
 | 09 06 . | 5:26 Uhr | LT US AUSF 190636 VON FAH 26G302 NACH FAH 26B204 | Paso del 90636 de Lorch – Assmannshausen / G302 a Assmannshausen Rüdesheim – (Rh ) / B204 . |
 | 09 06 . | 5:26 Uhr | FAH WG 26W2 S , AUFGEFAHREN; FZ 055 | Aviso de avería: aguja 2 Ass­ mannshausen accionada |
 | 09 06 . | 5:26 Uhr | FAH WG 26W3 S , AUFGEFAHREN FZ 055 , | Aviso de avería: aguja 3 Ass­ mannshausen accionada |
@@ -609,6 +611,7 @@ Las señales de señalización en el área de mando del ESTW Assmannshausen se g
 
 ## Página 24
 
+
 Systemzeit) casi exclusivamente mensajes referidos a vías, comenzando con el sector de liberación de vía 31B3210 y terminando con el sector de liberación de vía 26B202.
 La emisión de una orden de parada de emergencia para el tren DGS 90636 desde la posición de mando del observador del BÜ no era técnicamente posible.
 El localizador de ruedas calientes nº 195 en km 95,555 (Kamp-Bornhofen y Loreley) no proporcionó datos utilizables.
@@ -619,6 +622,7 @@ El localizador de ruedas calientes nº 195 en km 95,555 (Kamp-Bornhofen y Lorele
 La línea 3507 es la línea principal de doble vía y electrificada desde Wiesbaden-Ost (km 36,2) hasta Niederlahnstein (km 127,5), clasificada como línea convencional (categoría VII TEN) del sistema ferroviario transeuropeo. La línea está clasificada como «D4», lo que indica que la carga máxima por eje admisible es de 22,5 t y el peso máximo admisible del vehículo por unidad de longitud es de 8,0 t/m. La distancia de frenado de la línea es de 1.000 m, la velocidad máxima admisible es de Vmax = 130 km/h y está equipada con influencia puntual en el tren (PZB) y radioferrocarril (GSM-R).
 
 ## Página 25
+
 
 En el tramo de vía 
 del lugar del descarrilamiento 
@@ -913,6 +917,7 @@ El responsable de la infraestructura según la RiL 820.0106 debe decidir sobre l
 
 ## Página 44
 
+
 Las inspecciones reglamentarias de recorrido de vía y de medición de vía se llevaron a cabo y documentaron de forma acreditada conforme a la normativa. Para las inspecciones reglamentarias según Ril 821, el ALV de superestructura realizó, de forma acreditada, inspecciones adicionales que también fueron documentadas.
 
 Las comunicaciones de hallazgos IH representadas en la tabla fueron presentadas por el operador de infraestructura:
@@ -1046,7 +1051,7 @@ Valor umbral
 Fecha insp.
 75,8+75
 75,9+0
-ORE-Verw.
+Gest. ORE
 101
 100
 10.09.2012
@@ -1055,14 +1060,14 @@ ORE-Verw.
 (GW2)/3,50‰))
 76,9+75
 77,0+0
-ORE-Verw.
+Gest. ORE
 112
 100
 10.09.2012
 (5,00‰ a 1,5m)
 (SR100
 (GW2)/3,50‰))
-GH paso alto:
+Filtro paso alto GH:
 76,9+75
 77,0+0
 12mm
@@ -1071,18 +1076,18 @@ GH paso alto:
 Desbordamiento
 SR 100+
 Octubre 2012
-Orden para la inspección
-Sin anomalías
-Sin anomalías,
-la posición del carril a través de
-recorrido a pie de vía
-Medida acreditada en el SAP
-Recorrido a pie de vía
+Orden de inspección
+Sin incidencias
+Sin incidencias,
+la posición del carril mediante
+inspección de vía
+Medida acreditada en SAP
+Inspección de vía
 Sistema cerrado el 22.10.2012
 | 2013 |  |  |  |
-| Febrero 2013 recorrido a pie de vía | Línea 3507 -2 vía 2 | Sin anomalías | La lista de objetos está disponible, recorrido a pie de vía sin anomalías. |
-| 27.03.2013 . . ensayo de medida de vía | Línea 3507 -2 vía 2; km 77,330 – 76,750 . Aviso de anomalía nº 13005902 . | Orden para la eliminación inmediata de la anomalía el 27.03.14 . . | 27.03.2014 eliminación de la anomalía . . Rotura de riel vía 1; km 77,330 – 76,750 . |
-| 04.04.2013 . . recorrido a pie de vía | Línea 3507 -2 dirección 1 y 2 errores en la altura longitudinal | Trabajos de parada para la eliminación de los errores de altura longitudinal periodo 8.4 hasta 30.4 . . . . |  |
+| Febrero 2013 inspección de vía | Línea 3507 -2 vía 2 | Sin incidencias | Se dispone de la lista de objetos, inspección de vía sin incidencias. |
+| 27.03.2013 ensayo de medida de vía | Línea 3507 -2 vía 2; pk 77,330 – 76,750. Aviso de anomalía nº 13005902. | Orden de eliminación inmediata de la anomalía el 27.03.2014. | 27.03.2014 eliminación de la anomalía. Rotura de riel vía 1; pk 77,330 – 76,750. |
+| 04.04.2013 inspección de vía | Línea 3507 -2 dirección 1 y 2 errores en la altura longitudinal | Trabajos de parada para la eliminación de los errores de altura longitudinal periodo 8.4 hasta 30.4. |  |
 
 ## Página 49
 
@@ -1244,6 +1249,7 @@ Llamaba la atención únicamente que, en una medición de ruido realizada por DB
 
 ## Página 57
 
+
 presentaban, presentaban solo un desgaste leve. Los daños detectados en ejes, muelles y suspensiones se clasificaron como daños consecuentes. Los topes presentaban en los vagones descarrilados un estado de lubricación normal (véase Abb. 23).
 
 Captura de un tope
@@ -1272,6 +1278,7 @@ La plataforma del último vehículo estaba bajada unilateralmente. Al examinarlo
 
 ## Página 59
 
+
 Para poder simular con exactitud el comportamiento en marcha de los vagones, se registró también la curva característica de los muelles parabólicos en la empresa Langen & Sondermann en Lünen. No se detectaron desviaciones de la curva característica. Se descartó la consideración de la humedad entre las láminas del muelle como medio lubricante, ya que la humedad eventualmente presente, debido a la alta fricción entre las láminas del muelle, se evapora ya tras un corto tiempo de circulación.
 
 Fig. 26: eje descarrilado de un vagón Laaers
@@ -1286,9 +1293,11 @@ Debido a la causa del descarrilamiento presumida pero no demostrada de forma ine
 
 ## Página 60
 
+
 se creó sobre la base de los documentos disponibles, como planos, hojas de datos y datos CAD, siendo los parámetros desconocidos estimados o determinados mediante cálculos (estabilidad en marcha del vehículo, rigideces de la carrocería). En particular, se representaron detalladamente las hojas de ballesta con su histéresis y los apoyos de eje. Mediante cálculos de plausibilidad se verificó la correcta modelización y la validez del modelo. Junto con los datos de posición de vía medidos y el trazado, se determinaron en este tramo de línea las fuerzas rueda/vía, el coeficiente de descarrilamiento Y/Q y el levantamiento de rueda para diferentes velocidades (80 km/h – 140 km/h) y configuraciones (vehículo individual, tren de 2 vagones, cargado/descargado). Un análisis de la excitación debida a los errores cíclicos de posición de vía y a las características del vehículo arroja que, además del movimiento vertical, también se excitan los movimientos de cabeceo y balanceo de las carrocerías. De ello se desprende que la fuerte excitación del vehículo conduce a un levantamiento de rueda de 7 mm. Asimismo, el coeficiente de descarrilamiento, con 0,9, se sitúa por encima del límite técnico operativo admisible de 0,8 según EN 14363. Dado que el levantamiento de rueda supera el valor clasificado como crítico de 6 mm, debe presumirse, en particular en una marcha en curva, un riesgo considerable de descarrilamiento. El informe completo de los cálculos de simulación vehículo/vía se adjunta al informe de investigación como Anexo 1. # 5 # Evaluación y conclusiones ## 5.1 ## Procedimiento operativo Las señales indicadas por la técnica de señalización en el área de mando del ESTW en el sector de control Oberlahnstein-Süd acreditan que a las 5:22 se mostró una señal de avería «aguja accionada» para la aguja 1. Simultáneamente se indicó como averiado el contador de ejes AZA9 así como los tramos de liberación de vía 31B3210; 31G2210 y el tramo de liberación de vía de la aguja 31W1. A las 5:25, con el paso del DGS 90636 por la aguja 11 en Assmannshausen, se produjo otra señal de avería de aguja (señal de accionamiento). Entre las 5:25 y las 5:26, las señales de la técnica de señalización revelaron varias señales de accionamiento de las agujas en la estación de servicio Assmannshausen. Las indicaciones de avería continuaron en el özF Oberlahnstein-Süd hasta las 5:28, con la señal de avería mostrada en último lugar en el tiempo, correspondiente al tramo de liberación de vía 26B202. En principio, las señales de avería pueden deberse a causas de avería provocadas por el tráfico o por la técnica de señalización, o a una intervención de terceros. Teniendo en cuenta que la primera señal de avería, a las 5:22, debe valorarse como una avería de la técnica de señalización
 
 ## Página 61
+
 
 podría, como muy tarde a las 5:26 horas, con el paso del DGS 90636, debido a las posteriores señales de anomalía, en particular las señales continuas de colisión de agujas, haberse reconocido la causa de la anomalía como una anomalía provocada por un tren. La evaluación de la imagen de señales de las anomalías de liberación de vía y de las anomalías de agujas en relación temporal con el recorrido del DGS 90636, que era el único tren en circulación en el tramo de vía relevante en ese momento, no admite otra conclusión. Por consiguiente, como muy tarde a las 5:26 horas habría sido necesario emitir una orden de parada de emergencia conforme a Ril 408.0581 3.
 
@@ -1307,6 +1316,7 @@ Las señales indicadas por señalización en el área de control del ESTW Oberla
 El drenaje profundo instalado a ras entre ambos vías debía ser inspeccionado regularmente por el ALV KIB conforme a Ril 836.8002 Secc. 3 Párr. 2. Esto incluye, entre otros,
 
 ## Página 62
+
 
 un reflejo o una inspección por cámara de cada tramo, cuyos resultados deben documentarse sistemáticamente en soportes de datos. En caso de contaminación de la TE por sólidos en suspensión, como por ejemplo lodo o arena, la TE debe lavarse según sea necesario. La necesidad de mantenimiento se determina a partir de inspecciones regulares y su evaluación. Debido a la inspección TV disponible, habría sido evidente y reconocible que la mayor parte de los tramos estaba defectuosa y que no existía conexión a una corriente de desagüe. En qué medida se ha realizado una evaluación de la inspección TV no puede determinarse de forma concluyente. Los motivos del descuido de la supervisión del drenaje radican obviamente en que a las instalaciones de drenaje, incluidos los cuadernos de drenaje que deben llevarse, no se les atribuye la importancia necesaria. Asimismo, debe constatarse que las instalaciones de drenaje existentes frecuentemente no se han inventariado o no se han inventariado completamente y, por tanto, el ALV no dispone de un catastro sobre el inventario real de instalaciones y su estado. La falta de resultados de investigación sobre la inspección y el mantenimiento de las instalaciones de drenaje demuestra que la importancia para la seguridad de un drenaje de agua funcional para la superestructura adyacente no recibe la atención necesaria. En el tipo de inspección «supervisión» de las instalaciones de drenaje según Ril 836.8001, no se realiza una evaluación por objeto sino una evaluación aparente de las instalaciones durante el recorrido de la vía según Ril 821.2003 desde la vía. En caso de anomalías o para una mayor determinación y evaluación del estado de las conducciones de drenaje, debe realizarse y documentarse una investigación mediante inspección visual, reflejo o mediante inspección por cámara.
 En Ril 836.8001 secc. 8 apart. 1 fig. 1 se definen con mayor precisión los plazos y los intervalos de tiempo que deben cumplirse para obras de tierra, obras de contención/zanjas y drenajes/cruces. Las instalaciones de drenaje no suelen enumerarse por separado ni dotarse de sus propios plazos de inspección, sino que se asignan en su mayoría a una obra estructural adyacente y quedan sometidas al ciclo de inspección de esta. Las inspecciones generadas a partir de ello las realiza el ALV KIB según el calendario de plazos. Los intervalos de inspección de las obras de ingeniería estructurales, a las que frecuentemente se asignan las instalaciones de drenaje, se sitúan, en función del tipo de instalación, entre mínimo 1 vez al año y mínimo 1 vez cada 3 años y tienen, por tanto, un ciclo considerablemente más amplio que las inspecciones de la superestructura. Para las instalaciones de drenaje que no se han asignado a ninguna obra estructural, la Ril 836 no contiene plazos de inspección separados.

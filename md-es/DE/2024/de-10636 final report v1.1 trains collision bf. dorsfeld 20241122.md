@@ -10,13 +10,13 @@ chars: 134011
 ratio_longitud: 1.03
 tokens_in: 67633
 tokens_out: 40553
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 54: cifras largas: faltan 2/2 (100%)"]
-notas_cifras: ["página 8: original bilingüe: se compara contra el idioma principal (DE)", "página 18: cifras cortas: 2/12", "página 34: cifras largas: 1/6"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia:
@@ -35,16 +35,16 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 2 |
 | Punto kilométrico: | 258 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -95,8 +95,8 @@ Funciones y obligaciones........................................................
 Análisis de los procesos operativos del gestor de infraestructura................. 13
 I
 
-
 ## Página 4
+
 
 4.1.2
 Análisis de los procesos operativos de las EVU............................................... 38
@@ -140,8 +140,8 @@ Observaciones adicionales.......................................................
 Recomendaciones de seguridad................................................................................... 59
 II
 
-
 ## Página 5
+
 
 ## I.
 ## Índice de modificaciones:
@@ -149,8 +149,8 @@ II
 |  | Modificaciones editoriales |  | 25 11 2025 . . |  |
 III
 
-
 ## Página 6
+
 
 ## II.
 ## Índice de figuras:
@@ -185,8 +185,8 @@ Tabla 11: Transcripción de la conversación GSM-R a las 00:49 h................
 Tabla 12: Actuaciones operativas de las 00:50 h a las 00:54 h........................................ 29
 IV
 
-
 ## Página 7
+
 
 Tabla 13: Actuación operativa a las 00:54:29 h.............................................................. 31
 Tabla 14: Actuaciones operativas de las 00:59 h a las 01:18 h........................................ 34
@@ -197,8 +197,8 @@ Tabla 18: Datos técnicos del Tfz 98 80 0650 103-1..............................
 Tabla 19: Deficiencias detectadas en la ejecución de actuaciones operativas..................... 45
 V
 
-
 ## Página 8
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -256,8 +256,8 @@ LZB
 Bloqueo continuo
 VI
 
-
 ## Página 9
+
 
 | ME | Introducir nota de memoria para un elemento de itinerario |
 | ML | Borrar nota de memoria |
@@ -273,8 +273,8 @@ VI
 | WUS | Bloquear aguja contra el cambio |
 VII
 
-
 ## Página 10
+
 
 ## 0 Nota preliminar
 Sobre la base del artículo 24 de la Directiva (UE) 2016/798, la Comisión Europea
@@ -295,6 +295,7 @@ debe aplicarse de forma inmediata a todas las investigaciones iniciadas a partir
 
 ## Página 11
 
+
 ## 1 Resumen
 El primer capítulo contiene una descripción breve del suceso, así como información sobre las consecuencias, las causas y las recomendaciones de seguridad emitidas en el caso concreto.
 ### 1.1 Descripción breve del suceso
@@ -306,8 +307,8 @@ En el marco de la investigación del suceso se identificaron las siguientes acci
 Para una mejor visibilidad de los factores y de los aspectos de la gestión de emergencias, se utiliza una sistemática con indicaciones entre corchetes.
 Una evaluación detallada del suceso, con su clasificación como factores críticos para la seguridad, se presenta en los capítulos siguientes.
 
-
 ## Página 12
+
 
 |  | Suceso: |  | Factor causal | Factor contribuyente | Factor sistemático |
 |  | Fecha/hora así como |  |  |  |  |
@@ -322,8 +323,8 @@ Tabla 1: Resumen de factores de influencia
 De conformidad con el § 6 EUV y el art. 26.2 de la Directiva (UE) 2016/798, se emite la siguiente recomendación de seguridad n.º 15/2025:
 Se recomienda mejorar la gestión de la información sobre la ocupación restante de vías principales, en particular tras bloqueos motivados por instrucciones escritas, estados de vías de obras, bloqueos de vía, separaciones de trenes o cambio a otras circulaciones de tren, en cuanto a los requisitos conforme al Reglamento Delegado (UE) n.º 2016/762, Anexo II, criterio 4.4.3 a) hasta g). Además de la transmisión de la información, el momento, los textos que, en su caso, deban respetarse y las competencias, también son relevantes el almacenamiento y la incorporación a otros procesos de explotación.
 
-
 ## Página 13
+
 
 ## 2 La investigación y su contexto
 La Oficina Federal de Investigación de Accidentes Ferroviarios (BEU) es competente para la investigación de sucesos peligrosos en la explotación ferroviaria, en el sentido del capítulo V de la Directiva (UE) 2016/798, en infraestructuras ferroviarias federales y en infraestructuras ferroviarias no federales de la red superior conforme al § 2b de la Ley General de Ferrocarriles (AEG).
@@ -333,8 +334,8 @@ En caso de accidentes graves, la BEU inicia siempre investigaciones conforme al 
 Debido a la magnitud de los daños y a las consecuencias del presente suceso peligroso, se iniciaron investigaciones sobre la base del art. 20.1 de la Directiva (UE) 2016/798.
 Las actuaciones de investigación de accidentes se realizan de forma estructurada en cuatro procesos nucleares definidos, que comienzan con la decisión de iniciar una investigación y terminan con
 
-
 ## Página 14
+
 
 la publicación del informe de investigación. Para la determinación de causas se realizan investigaciones orientadas a resultados en todas las disciplinas técnicas implicadas, y en particular se llevan a cabo análisis de causa-errores y comparaciones de valor objetivo-valor real.
 Las actuaciones de investigación fueron dirigidas de forma principal por el distrito de investigación localmente competente Noroeste.
@@ -345,8 +346,8 @@ Sobre la base del § 5b AEG, con carácter general se solicitan informaciones, d
 Además, conforme al § 5b.4 AEG, pueden exigirse servicios de apoyo a las ferrocarriles implicadas en sucesos peligrosos. En el presente suceso peligroso no se exigieron servicios de apoyo.
 La liberación de la zona del accidente por parte de la infraestructura fue realizada por la BEU el 22.11.2024 a las 12:30 h.
 
-
 ## Página 15
+
 
 ## 3 Descripción del suceso
 En el tercer capítulo se describe con más detalle el suceso peligroso en dos subcapítulos preestablecidos. En el capítulo 3.1, además de los datos básicos, se incluyen más informaciones sobre el lugar del suceso, las condiciones externas, los implicados y las consecuencias. La reconstrucción del suceso, así como las informaciones sobre la activación y el desarrollo de las medidas de rescate, se presentan en el capítulo 3.2. Las descripciones se refieren fundamentalmente a las condiciones predominantes y a los hechos constatados en el momento del suceso.
@@ -359,16 +360,17 @@ Tanto la línea como el Bf estaban equipados con los sistemas de seguridad de tr
 La explotación en la línea se realizaba conforme a las normas de la Instrucción de explotación, Directiva (Ril) 408. El puesto de trabajo del Fdl competente se encontraba en el sector de control 03 Köln-Ehrenfeld en el Centro de operaciones (BZ) en Duisburg. El sector de control abarcaba los tres puestos de mando Köln-Ehrenfeld, Horrem I y Horrem II. En total, estaban en servicio tres Fdl competentes con distintos horarios de ocupación. Los puestos de mando Köln-Ehrenfeld y Horrem I estaban ocupados de forma continua. El puesto de mando Horrem II también estuvo ocupado en determinados momentos. El lugar del suceso se encontraba en el ámbito de competencia del Fdl competente Horrem I del Enclavamiento electrónico (ESTW) Köln-Ehrenfeld.
 La siguiente figura ofrece una visión general de la situación del lugar del suceso.
 
-
 ## Página 16
+
+
 Abbildung 1: Plano general1
 La colisión de tren tuvo lugar en la vía 2 del Bf Dorsfeld, aproximadamente en el km 25,8. Debido a la colisión, el tren de obras que se encontraba en la vía 2 fue desplazado unos 200 m. El tren de obras procedente del DGV 34156 y la locomotora del DGS 42506 se encontraban tras la colisión aproximadamente en el km 26,1, véase la siguiente figura. Como consecuencia de la colisión, las demás vías del Bf Dorsfeld también resultaron dañadas y quedaron intransitables.
 Abbildung 2: Plano de situación2
 1 Datos geobase: © GeoBasis-DE / BKG 2025, editado por BEU
 2 DB InfraGO AG, editado por BEU
 
-
 ## Página 17
+
 
 ### 3.1.2 Implicados
 Los implicados en el suceso desempeñaban las siguientes funciones:
@@ -394,6 +396,7 @@ Dos personas resultaron levemente heridas y una persona resultó gravemente heri
 Como se desprende de la tabla siguiente, el Tf del DGS 42506 resultó gravemente herido. El Tf y el acompañante de maniobras de obras del tren de obras resultaron levemente heridos en el suceso.
 
 ## Página 18
+
 
 Número de fallecidos
 Número de heridos graves
@@ -431,8 +434,8 @@ La siguiente figura muestra una imagen aérea del lugar del accidente.
 Figura 3: Imagen aérea³
 ³ Dirección Federal de Policía de Colonia, editado por BEU
 
-
 ## Página 19
+
 
 Las siguientes figuras muestran los daños en el vehículo de tracción (Tfz)
 98 80 0650 103-1 del EVU Schweerbau GmbH & Co. KG y en el Tfz 91 88 7186 214-3 del EVU
@@ -440,8 +443,8 @@ Medway Belgium tras la colisión.
 Figura 4: Tfz 98 80 0650 103-1 tras la colisión
 Figura 5: Tfz 91 88 7186 214-2 tras la colisión
 
-
 ## Página 20
+
 
 ### 3.2 Descripción objetiva de los hechos
 Para la reconstrucción del suceso peligroso así como para la descripción de las medidas de emergencia se recurre en particular también a las grabaciones, evaluaciones y conclusiones etc. contenidas en el capítulo 4.
@@ -450,8 +453,8 @@ El 21.11.2024 debían realizarse en la estación de Dorsfeld, de 21:30 h a 05:30
 Los trabajos de estabilización previstos no pudieron realizarse debido a las condiciones meteorológicas. Como resultado de los trabajos realizados hasta ese momento, tanto el tren de obras como la máquina de estabilización se encontraban en la vía 2 de la estación de Dorsfeld, para poder salir de allí nuevamente como tren. El Técnico Autorizado comunicó a la Jefa de Circulación (Fdl-in) de Horrem I a las 00:49 h el final de los trabajos y la transitableidad de los tramos de vía y agujas previamente cerrados por GSM-R. La máquina de estabilización salió poco después de la estación de Dorsfeld en dirección a Horrem. El tren de obras permaneció aún en la vía 2, ya que la salida prevista estaba programada para las 01:46 h. La Jefa de Circulación (Fdl-in) reconoció en la vista ampliada de su puesto de mando una indicación de ocupación existente, en forma de iluminación roja, en la vía 2 de la estación de Dorsfeld, que tras la salida de la máquina de estabilización, a su juicio, no podía atribuirse de forma inequívoca. El motivo de esta iluminación roja era el tren de obras que aún se encontraba allí. A raíz de ello, llamó al BÜB (responsable de la circulación en el puesto de trabajo) que le era conocido por los trabajos de Betra realizados y le solicitó una comunicación sobre la liberación de la vía 2 de la estación de Dorsfeld. El BÜB comunicó a continuación que la vía 2 de la estación de Dorsfeld estaba libre de vehículos. Un intento de restablecimiento de la posición base del contador de ejes realizado por la Jefa de Circulación (Fdl-in) a raíz de ello fue exitoso, de modo que la iluminación roja en la vía 2 se apagó y el sistema de liberación de vía volvió a encontrarse en la posición base. A la Jefa de Circulación (Fdl-in) le fue ahora posible establecer para el tren de mercancías DGS 42506 una ruta de entrada regularmente asegurada, operando los semáforos principales correspondientes desde la dirección de Horrem hacia la vía 2 de la estación de Dorsfeld.
 El DGS 42506 colisionó hacia las 01:06 h con el tren de obras procedente del DGV 34156 que aún se encontraba en la vía 2 de la estación de Dorsfeld.
 
-
 ## Página 21
+
 
 ### 3.2.2 Gestión de emergencias
 Conforme al § 4 apartado 3 de la AEG, los ferrocarriles tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. Los ministerios del Interior de los Länder y la DB AG han acordado el siguiente procedimiento. Para la DB InfraGO AG resultan de aplicación las correspondientes leyes de protección contra incendios y de protección civil de los Länder.
@@ -461,8 +464,8 @@ El centro de mando de los bomberos de Kerpen fue alertado a las 01:23 h. Desde a
 La posterior exploración de la situación se continuó hacia las 02:00 h mediante el despliegue de un dron con cámara de imágenes térmicas, a fin de determinar, a partir de aumentos de temperatura anómalos, si se encontraban más personas en el área del lugar del accidente. Sin embargo, no era este el caso.
 La BEU no constató, en el marco de la investigación del accidente y la reconstrucción del suceso, irregularidades ni retrasos en la puesta en marcha de las medidas de rescate y recuperación.
 
-
 ## Página 22
+
 
 ## 4 Evaluación del suceso
 En este capítulo se presentan en particular los factores críticos de seguridad determinantes identificados en el marco de la investigación del accidente. Al respecto, en cada caso concreto se abordan las tareas y obligaciones de personas y puestos individuales, los vehículos y instalaciones técnicas implicados, así como las acciones humanas concretas y los mecanismos de retroalimentación y control. Si existen informaciones sobre sucesos anteriores, estas se presentan en un subcapítulo posterior.
@@ -474,8 +477,8 @@ Conforme al § 4 apartado 3 de la AEG, los ferrocarriles están obligados a llev
 Como parte del SMS de la DB InfraGO AG, debían implementarse también todos los requisitos del Reglamento de Ejecución (UE) 2019/773 sobre la especificación técnica de interoperabilidad del subsistema «Explotación y gestión del tráfico» del sistema ferroviario en la Unión Europea (TSI OPE). Además, era un principio esencial en el contexto del suceso, conforme al Reglamento de Ejecución (UE) 2023/1693, Anexo B/B1, FOP n.º 1: «El procedimiento para autorizar la circulación de un tren debe garantizar una distancia segura entre los trenes.»
 Para la circulación segura en la infraestructura de la DB InfraGO AG, la Jefa de Circulación (Fdl-in) implicada, como operadora del puesto de mando de Colonia-Ehrenfeld, puesto de mando Horrem I, debía
 
-
 ## Página 23
+
 
 observar e implementar las instrucciones de trabajo internas de la empresa subordinadas y complementarias, entre ellas la Ril 408, el libro de estaciones de trabajo (Betriebsstellenbuch) y las órdenes disponibles en el libro de órdenes (Auftragsbuch), así como las comunicaciones operativas. Los horarios vinculantes para la Fdl (Jefa de Circulación) fueron facilitados por el EIU mediante el horario para puntos de comunicación de trenes (trenes regulares) y mediante órdenes de horario (Fplo) para trenes de tráfico ocasional. Estos podían facilitarse en formato electrónico o impreso. A estos también se contaban los Fplo para las entradas y salidas de las circulaciones de trenes participantes en la Betra. Estos se encontraban disponibles en el puesto de mando en formato digitalmente accesible.
 Asimismo, la Betra n.º F35 6634 24 para el proyecto de obras «Trabajos de estabilización mecánica incluida descarga de balasto, estación de Dorsfeld» se encontraba expuesta en el puesto de mando. El plazo de exposición de cinco días conforme a la Ril 406.1201 sección 5 apartado 6 en el puesto de mando fue respetado y la Jefa de Circulación (Fdl-in) tuvo la posibilidad de tomar conocimiento de la Betra. Los Jefes de Circulación (Fdl) participantes de la estación de trabajo debían ocuparse por sí mismos del contenido de la Betra tras su exposición. Una instrucción escrita al personal de explotación debía realizarse, conforme a la Ril 406.1201 sección 5 apartado 7, mediante decisión individual por parte del Jefe de Explotación de Red/Jefatura de Circulación (Leiter Betrieb Netz/Fahrdienst BZ). No se había producido una instrucción escrita a la Jefa de Circulación (Fdl-in) de Horrem I.
@@ -483,6 +486,7 @@ Asimismo, la Betra n.º F35 6634 24 para el proyecto de obras «Trabajos de esta
 Como EIU responsable, la DB InfraGO AG era responsable de la elaboración de la Betra n.º F35 6634 24. La Betra correspondía en su forma a las directrices de la Ril 406 y fue elaborada por la Región Oeste, unidad organizativa «Gestión de instalaciones y mantenimiento Colonia para Betra y planificación de seguridad» de la DB InfraGO AG. La ejecución de la medida estaba prevista para el período del 21.11.2024, 20:00 h, al 22.11.2024, 10:00 h. Los cierres de vía relacionados con los trabajos debían acordarse, conforme al cap. 2.2 de la Betra mencionada, entre el Técnico Autorizado mencionado en el cap. 4.2 y el Jefe de Circulación (Fdl) responsable. La Betra preveía los siguientes períodos, véase Tabla 5, para los cierres de vía a acordar entre las señales de entrada (Esig) y las señales de salida (Asig) para los trabajos.
 
 ## Página 24
+
 
 |  | Sección |  | Alcance de los bloqueos de vía | Periodo |
 |  | según Betra |  |  |  |
@@ -497,8 +501,8 @@ Los bloqueos representados en la figura se acordaron durante la ejecución de lo
 Figura 6: Alcance de los bloqueos 2.2.1 y 2.2.2 durante la Betra n.º F35 6634 244
 4 DB InfraGO AG, Betra n.º F35 6634 24, elaborado por BEU
 
-
 ## Página 25
+
 
 Las dos figuras siguientes ofrecen una visión esquemática de las áreas que, conforme a la Betra, debían bloquearse aún más como bloqueo sección 2.2.3 y bloqueo sección 2.2.4. Ambos bloqueos no llegaron a materializarse durante la noche del suceso, ya que los trabajos se terminaron prematuramente debido a las condiciones meteorológicas.
 Figura 7: Alcance de los bloqueos 2.2.3 durante la Betra n.º F35 6634 245
@@ -509,8 +513,8 @@ Todas las notificaciones esenciales se mostraban de forma continua al Fdl en el 
 5 DB InfraGO AG, Betra n.º F35 6634 24, elaborado por BEU
 6 DB InfraGO AG, Betra n.º F35 6634 24, elaborado por BEU
 
-
 ## Página 26
+
 
 desarrollo operativo previo al suceso, se elaboraron, por encargo de DB InfraGO AG, vídeos de secuencia a partir de los datos de bucle del ESTW y de los datos transmitidos al sistema de gestión de despacho (LeiDis) por el fabricante del aparato de enclavamiento. Todas las horas registradas se normalizaron a la hora real. La reconstrucción de las acciones operativas del personal operativo responsable que se presenta en este capítulo se basó en la evaluación del BMR del ESTW, de la documentación operativa y de las conversaciones GSM-R grabadas. Las acciones de operación manuales y las entradas enumeradas en la tabla siguiente se realizaron desde la posición de operación del Fdl Horrem I en la BZ Duisburg.
 ### Acciones operativas relacionadas con la Betra n.º F35 6634 24
@@ -520,8 +524,8 @@ A las 20:31 h notificó vía GSM-R los trabajos planificados conforme a la Betra
 En el periodo de 20:31 h a 00:58 h se mantuvieron entre el Técnico Autorizado y la Fdl-in Horrem I 17 conversaciones con una duración total de aproximadamente 19 minutos.
 Antes del comienzo de los trabajos conforme a la Betra se mantuvieron conversaciones vía GSM-R entre la Fdl-in y el Técnico Autorizado a las 20:31 h y a las 20:42 h. Dado que la Betra preveía el comienzo de los trabajos a las 21:30 h, el Técnico Autorizado pretendía asegurarse de si los trabajos también podrían iniciarse antes. El tren de obra DGV 34156 necesario para los trabajos no se encontraba aún en aproximación hacia
 
-
 ## Página 27
+
 
 la estación de Dorsfeld en estas conversaciones. A las 21:00 h ambos mantuvieron de nuevo una conversación vía GSM-R, en la que se habló de los trabajos planificados. Estas conversaciones se enumeran en la tabla siguiente.
 Los procesos representados entre corchetes en esta y las tablas siguientes son conclusiones de la BEU, que se derivaron de los datos del BMR correspondientes entre sí y de la documentación operativa, en relación con la infraestructura y las acciones que debían realizar los implicados conforme a las normas. En las tablas siguientes, el Técnico Autorizado se abrevia como «TB» por razones de mejor legibilidad. El discurso literal o las citas directas se presentan en cursiva.
@@ -561,8 +565,9 @@ Fdl-in: Todo claro, entonces ya lo sé.
 TB: ¿Y, la avería ya está? ¿O todavía no?
 Fdl-in: No, no, no, y por lo que se ve tarda todavía un poco, no consiguen repararla. Tarda todavía, tarda todavía.
 
-
 ## Página 28
+
+
 TB: Sí, solo que yo he recibido la orden de que en cualquier caso el desvío debe terminarse desde Frankfurt.
 Fdl-in: ¿Qué desvío?
 TB: El que estamos tapando hoy aquí en Dorsfeld.
@@ -578,6 +583,7 @@ De las conversaciones GSM-R mantenidas a las 20:31 h y a las 21:00 h entre la Fd
 
 ## Página 29
 
+
 conocía o temía que los procedimientos inminentes de la Betra, en combinación con la avería del desvío y la estrecha cadencia de trenes, no pudieran ser superados.
 Los trabajos conforme a la Betra conllevaban restricciones de velocidad para las circulaciones de trenes.
 Conforme al cap. 3.1.1 de la Betra, debían introducirse entradas LZB para los trenes en la vía Colonia – Aachen y en sentido contrario. La Betra contenía en el Anexo 2 impresos con textos de entrada LZB para la instalación de estas señales de paso lento temporales. El Técnico Autorizado mencionado en la Betra bajo el cap. 4.2 estaba designado como persona responsable para solicitar las señales de paso lento ante el Fdl. La introducción, la acreditación y la supresión de las entradas LZB debían realizarse por el Fdl de Colonia-Ehrenfeld como operador LZB a instancia del Fdl competente. A continuación, el Técnico Autorizado debía confirmar al Fdl competente la ejecución de las entradas LZB. Esta notificación relativa a las entradas LZB fue remitida por el Técnico Autorizado a las 21:24 a la Fdl competente en Horrem I. La notificación de ejecución que la Fdl debía remitir a continuación al Técnico Autorizado no llegó después.
@@ -587,8 +593,8 @@ A continuación, de 22:25 a 22:32, se mantuvieron conversaciones de disposición
 | 22:19:12 h |  |  | Itinerario 30A 30N1. [Establecimiento de itinerario desde Esig 30A hasta Asig 30N1 para tren de obras DGV 34156 a vía 1] |  |  | BMR |
 | 22:25:17 – 22:26:43 h |  |  | Fdl-in: (¿Nombra el nombre del TB)? TB: (Ríe) Sí, ¿nuestro tren de obras ya está en algún sitio? Fdl-in: Eh, llega en 5, eh, un par de… minutos, entonces estará en la vía 1. TB: Ah, entonces ya puedo mandar a la gente. Eh…, porque empezamos desde ahí con el desvío 27. ¿Puede ir en dirección desvío 27? ¿Desde la vía 1? ¿O si primero lo tenemos cerrado? Fdl-in: Eh, me da igual, si él ahí encima…, también puede quedarse parado ahí encima, espera… |  |  | GSM-R - |
 
-
 ## Página 30
+
 
 TB: Exacto, exacto, … entonces él puede …
 Fdl-in: Sí, entonces debo, entonces está bien, entonces debe quedarse parado en el desvío 27.
@@ -627,8 +633,8 @@ TB: Exacto, la 27 pero en dirección eh vía 1.
 Fdl-in: Sí, espera un momento.
 TB: Entonces tendríamos que retroceder detrás del desvío 23.
 
-
 ## Página 31
+
 
 Fdl-in: ¿Cómo, tenéis que retroceder detrás del desvío 23?
 TB: Eh, tú estás ahora … Estamos ahora en …
@@ -647,8 +653,8 @@ Tabla 7: Acciones operativas de 21:24 a 22:34 h
 Las conversaciones GSM-R detalladas en la tabla mencionada no correspondían a la disciplina hablada exigida conforme a Ril 481.0205 Sección 6 (2). La Fdl-in atendió la conversación a las 22:25:17 h en lugar de hacerlo con la mención prescrita de su estación de servicio y la mención del nombre del Técnico Autorizado. La conversación no fue concisa y se basó, entre otros, en frases cortas y inequívocas.
 Como resultado de esta conversación surgió el acuerdo entre la Fdl-in y el Técnico Autorizado de que el tren de obras DGV 34156, en contra de lo dispuesto en la normativa Ril 408.0488 Sección 2, no debía recorrer su itinerario hasta la parada habitual en la vía 1. En su lugar, el tren debía detenerse prematuramente en el desvío 27 tras la entrada en la estación de Dorsfeld. Este acuerdo conllevó para la Fdl-in la realización de una maniobra de servicio auxiliar contable para disolver el itinerario hacia la vía 1. Además de la desviación de la normativa mencionada, esta maniobra de servicio contable habría podido evitarse. De hecho, el tren se detuvo en el desvío 24, donde la circulación del DGV 34156 se finalizó prematuramente.
 
-
 ## Página 32
+
 
 A las 22:37 h, el Técnico Autorizado solicitó a la Fdl-in de Horrem I el cierre de la vía 2 entre Esig 30A y Asig 30N2. Esto correspondía al cierre conforme a la Sección 2.1.1 de la Betra y fue realizado por la Fdl-in conforme a Ril 408.0471 Sección 2 Apartado 1 b) con la formulación conforme a Ril 408.0471 Sección 2 Apartado 7. En ello, ella añadió la indicación de la hora, lo cual, en el sentido de la Ril 408, no era conforme a la normativa. El Técnico Autorizado repitió su notificación. La introducción de indicación de aviso (ME) realizada a continuación por la Fdl-in, véase Tabla 8, correspondía a las prescripciones de la Ril 408.0402 Núm. 8.
 La indicación de aviso "X" mencionada en las tablas siguientes se refiere al cierre de un elemento, como por ejemplo un desvío, por parte de la Fdl-in. La abreviatura "WUS" designa el cierre de un desvío contra el cambio de posición.
@@ -688,8 +694,8 @@ TB: Exacto, correcto. Entonces 2.2.1 y 2.4.
 [pausa de ca. 13 segundos]
 Fdl-in: Bueno, todo claro, entonces con la hora actual 22:39 – eh, sí, de facto la vía 2 desde el 3 – 30 Antón hasta el
 
-
 ## Página 33
+
 
 30; ah, tontería; sí, de hecho, 30 Polo Norte 2 cerrada y
 medidas de seguridad realizadas.
@@ -728,6 +734,7 @@ TB, cuándo y
 
 ## Página 34
 
+
 22:45:02 Uhr
 cómo debía llegar la máquina de balasto.
 TB indicó que la máquina de balasto debía ir a la vía 1.
@@ -747,8 +754,8 @@ De 22:43 a 00:37 se mantuvieron conversaciones disposicionales con el Técnicame
 | 22:58:24 – 22:59:24 |  |  | Seis operaciones de maniobra: WU30W25 , [Seis intentos de cambiar la aguja 25, el obstáculo impidió que la aguja 25 llegara a la posición final] |  |  | BMR |
 | 22:59:41 |  |  | WUS 30W25 , [Bloquear la aguja 25 contra cambio de posición] |  |  | BMR |
 
-
 ## Página 35
+
 
 | 23:01:03 | Itinerario 30061 30SIDO establecido . [El tren 91757 circula desde Sindorf hacia el Bf Dorsfeld] | BMR |
 | 23:09:52 – 23:10:12 Uhr | El Tf del tren de obras DGV 34156 se pone en contacto con la Fdl-in y le comunica que ahora entra en la vía 2, y que dejaría un poco de espacio para no molestar a la máquina de balasto. La Fdl-in confirmó este mensaje. | GSM-R - |
@@ -762,8 +769,8 @@ A la máquina de balasto con número de tren 91757 se le permitió la entrada en
 |  | 23:44:29 Uhr |  |  |  |  |  |
 | 23:44:15 Uhr | 23:44:15 Uhr |  | MEX30G23 , , [Introducción del aviso de memoria "X" conforme a Ril 408 0471 Sección 2 Apartado 5 para el bloqueo de la vía 3 del Bf Dorsfeld como resultado del bloqueo solicitado por el TB] |  |  | BMR |
 
-
 ## Página 36
+
 
 | 23:47:02 – 23:47:23 Uhr | Mensaje del TB de que los motivos del bloqueo han sido levantados. La Fdl-in levanta el bloqueo de la vía 3. | GSM-R - |
 | 23:47:17 Uhr | MLX30G23 , , [Aviso de memoria "X" en el tramo de vía 30G23 borrado; levantamiento del bloqueo de la vía 3] | BMR |
@@ -775,8 +782,8 @@ A las 00:49, mediante la siguiente conversación GSM-R, el Técnicamente Autoriz
 |  | Hora |  |  | Contenido de la conversación | Fuente |
 | 00:49:51 – 00:52:08 Uhr |  |  | La Fdl-in de Horrem I se pone en contacto con el TB respecto al bloqueo necesario. El TB dijo que ya no necesitaba el bloqueo. El TB respondió a la pregunta de la Fdl-in de que "todo podía levantarse". Dijo que hoy había hecho demasiado frío para la máquina, por lo que el balasteo no había sido posible (el Técnicamente Autorizado se marcha durante esta conversación, según sus propias palabras, a una zona donde tiene "un poco de visibilidad"). TB: vía 2 entre 31 Anton y 30 ( ) de nuevo transitable. Fdl-in: Sí, repito. La vía 2 en Dorsfeld entre el 30 Nordpol 2 y el 30 Anton vuelve a ser transitable. Entonces el bloqueo también queda levantado y las medidas de seguridad quedan levantadas |  | GSM-R - |
 
-
 ## Página 37
+
 
 TB: Entonces la vía 2 entre 30Anton y 30Nordpol 2 vuelve a ser transitable
 Fdl-in: Sí, repito, entonces la vía 2 en Dorsfeld entre el 30 Nordpol 2 y el 30 Anton vuelve a ser transitable, entonces el bloqueo también queda levantado y las medidas de seguridad quedan levantadas.
@@ -790,8 +797,8 @@ Tabla 11: Transcripción de la conversación GSM-R a las 00:49
 La declaración efectuada en la conversación GSM-R en la tabla 11 anterior sobre la transitableidad de las vías 1 y 2 correspondía, conforme a Ril 408.0471 Sección 2 Apartado 4b) y Ril 406.1201A02 Sección 4.2, a la competencia del Técnicamente Autorizado. Con este mensaje sobre la transitableidad de las vías 1 y 2, la Fdl-in pudo partir de un estado de los tramos previamente bloqueados nuevamente seguro para las circulaciones ferroviarias. Conforme a Ril 406.1201A02 Sección 4.2, en cambio, el estado de ocupación no era una circunstancia que el Técnicamente Autorizado tuviera que comunicar a la Fdl-in tras el final de los trabajos en una vía bloqueada.
 La Fdl-in levantó, tras la conversación GSM-R mencionada, los bloqueos de las áreas afectadas. Para ello, las acciones de la Fdl-in detalladas en la siguiente tabla quedaron registradas en el Fernsprechbuch y en el BMR.
 
-
 ## Página 38
+
 
 Fuente
 Hora
@@ -894,6 +901,7 @@ Tras la baja de los trabajos conforme a la Betra y antes del levantamiento de lo
 
 ## Página 39
 
+
 había sido. Esta circunstancia fue valorada por la BEU como factor causal [F1], ya que ya no existía una visión clara de las ocupaciones de vía antes de la supresión del bloqueo de vía.
 Las supresiones de las áreas afectadas por la Betra y la consiguiente notificación del Técnicamente Autorizado, las había levantado la Fdl-in como consecuencia de la conversación GSM-R a las 00:49:51 horas, en contra de lo prescrito en la Ril 408.0471 Sección 2 Párr. 4, de forma íntegra. Conforme a los Párr. 4a) a 4c) del mencionado reglamento, la supresión del bloqueo de vía estaba condicionada a la previa constatación de las siguientes condiciones:
 "a) El Jefe de Circulación debe haber constatado o se le debe haber notificado que han desaparecido todos los motivos del bloqueo de vía, y debe haber hecho constar esto en el libro de mensajes de trenes o en el libro de telefonía.
@@ -904,6 +912,7 @@ En una comprobación de sección debe constatarse mediante inspección visual en
 7 Ril 408.0471 Sección 2 Párr. 4a) a 4c)
 
 ## Página 40
+
 
 "empleados de la línea funcional de tecnología de mando y seguridad, vía así como tecnología eléctrica o auxiliares en la explotación ferroviaria o gestores de emergencia designados por la DB InfraGO AG"8.
 En su vista ampliada, tras la supresión de los bloqueos de vía, se le indicaba aún una iluminación roja de la vía 2, que podía indicar una ocupación por un vehículo. Esta iluminación roja resultaba del tren de obras aún situado en la vía 2 en combinación con la máquina estabilizadora, que se encontraban juntas en el trozo de vía 30G22, véase la siguiente figura. El trozo de vía afectado se encontraba entre el Asig 30N2 y el Asig 30P2 de la dirección contraria.
@@ -923,6 +932,7 @@ Esta acción se representaba en la vista ampliada de la posición de mando Horre
 
 ## Página 41
 
+
 Figura 10: Vista ampliada de la estación de Dorsfeld a partir de las 00:54:29 horas10
 Esta iluminación roja del trozo de vía 30G22 mostrada en la vía 2 era provocada por la instalación de liberación de vía debido al tren de obras allí situado. Para obtener la información sobre la libertad de la vía 2 en la estación de Dorsfeld, la Fdl-in debía ahora realizar obligatoriamente una comprobación de sección conforme a la Ril 408.0625 Sección 2 del trozo de vía afectado de la estación de Dorsfeld.
 La Fdl-in decidió, para realizar la constatación de que "la ruta, la ruta de deslizamiento, los trozos de vía confluentes y los espacios de protección de flanco están libres de vehículos"11, encargar al BÜB conforme a la disposición mencionada de la Ril 408.0233 Sección 2 Párr. 1. El BÜB no figuraba explícitamente en el listado mencionado de la Ril 408.0233. Por su cualificación e instrucción local, véase el capítulo 4.3.2, su participación en la comprobación de ruta era admisible según la valoración del EIU y era habitual en la práctica en escenarios comparables.
@@ -931,6 +941,7 @@ Alternativamente a este procedimiento de incorporación de un empleado, existía
 11 408.0233 Sección 2 Párr. 1
 
 ## Página 42
+
 
 en las salidas hasta el final de la sección de agujas adyacente o, si sigue una sección especial de estación sin agujas, hasta su final (…)"12.
 A las 00:58 horas llamó al BÜB que había conocido previamente durante la Betra en la función de Técnicamente Autorizado, el cual se encontraba casualmente aún en el lugar en la estación de Dorsfeld tras el final de los trabajos, véase la Tabla 14.
@@ -968,6 +979,7 @@ BMR
 
 ## Página 43
 
+
 | 01:00 horas |  |  | Anotación de que el trozo de vía 30G22 está libre de vehículos y de que la operación del AZG fue exitosa. | Libro de telefonía |
 | 22 11 24/ . . 01:01:51 horas |  |  | 32N7 32HOSI . [Establecimiento de la ruta de salida para el tren de mercancías DGS42506 en Horrem] | BMR |
 |  | 01:18 |  | Anotación sobre el bloqueo de la estación de Dorsfeld | Libro de telefonía |
@@ -979,6 +991,7 @@ La constatación inmediata de la libertad de la vía 2 por parte del BÜB, deriv
 
 ## Página 44
 
+
 La jefa de maniobras (Fdl-in) finalmente estableció para el tren de mercancías DGS 42506 a las 01:01:51 horas una ruta de salida del Bf Horrem. El DGS 42506 entró en el Bf Dorsfeld por una ruta de entrada regular y colisionó hacia las 01:06 horas en la vía 2 con el tren de obras allí estacionado. La jefa de maniobras fue relevada tras el suceso hacia las 02:30 horas por el responsable de distrito de explotación competente. Hasta su relevación continuó realizando maniobras de explotación y manteniendo conversaciones GSM-R. Estas constataciones las acreditaron las maniobras realizadas por la jefa de maniobras tras el suceso, las anotaciones en documentos de explotación y las conversaciones GSM-R.
 ### Resumen de la investigación de los procesos de explotación del EIU
 Teniendo en cuenta los resultados de la investigación, se constata que la jefa de maniobras, tras el final comunicado de los trabajos de Betra, no tenía visión del estado real de ocupación de las vías en el Bf Dorsfeld. Debido a su propia participación en el Betra y a los Fplo correspondientes disponibles en el puesto de mando, pudo serle conocido que, para la ejecución del Betra y tras la desaparición de los motivos del cierre de vía por la finalización de los trabajos, dos trayectos participaban en la logística de construcción y debían abandonar el Bf Dorsfeld como trenes. Sin embargo, la permanencia real de los vehículos en la vía principal no figuraba de forma unívoca como información disponible en el proceso de explotación subyacente. De ello se hizo posible que la jefa de maniobras realizara inicialmente planificaciones de disposición, en realidad ya inútiles, para el uso de la vía por trenes, que se revelaron como no viables solo y únicamente en la fase de ejecución de los trayectos relevante para la seguridad.
@@ -987,8 +1000,8 @@ Esta circunstancia fue valorada por la BEU como factor causal [F1] dentro de la 
 
 Además, la comprobación de sección que, conforme a Ril 408.0471 Sección 2 apartado 4c), debe realizarse antes de la levantación del cierre de vía, parece cuestionable como orden de trabajo inmediato en aquellas situaciones de explotación en las que, en todo caso, tras el final de la medida constructiva permanecen vehículos en una vía principal. En el suceso aquí tratado esta situación se produjo incluso de forma planificada. Las reglas establecidas, sin embargo, no aclaran de forma clara si y cómo, en función de
 
-
 ## Página 45
+
 
 distintas situaciones de partida, la exigencia de la comprobación de sección a realizar es conveniente desde el punto de vista de la explotación. Conforme a la reglamentación descrita, sería posible, a pesar de haberse detectado la indicación de ocupación, pero sin conocimiento consciente de vehículos restantes en la vía, dejar entrar a la vista un tren en aproximación, como se ha descrito anteriormente. Este se detendría en el mejor de los casos antes de los vehículos de la vía.
 
@@ -1002,8 +1015,8 @@ La jefa de maniobras no realizó la comprobación de sección obligatoria confor
 
 13 Reglamento Delegado (UE) 2018/762, Anexo II, Criterio 4.4.3
 
-
 ## Página 46
+
 
 [F2] con influencia en el suceso. Una comprobación de sección realizada inmediatamente tras el final comunicado de los trabajos y antes de la levantación de los cierres de vía habría evitado el suceso con toda probabilidad, ya que a la jefa de maniobras solo le habría estado disponible, como consecuencia de una comprobación de sección correctamente realizada, una información plausible del estado real de ocupación de la vía 2. Esta comprobación de sección necesaria la realizó en un momento posterior mediante una consulta imprecisa con participación del BÜB.
 
@@ -1013,8 +1026,8 @@ El Técnico Autorizado indicó en su declaración que los trabajos conforme al B
 
 El BÜB realizó, por tanto, la constatación de la libertad de la vía 2 de forma imprecisa y encargada únicamente en base a su propia interpretación de lo percibido en la explotación y ya desacoplada temporal y espacialmente de su actividad previamente definida. Además, transmitió a la jefa de maniobras el informe de su constatación realizada. La constatación de la «libertad» realizada y la transmisión del informe por parte del BÜB fueron valoradas por la BEU como factor causal [F3], cuya exclusión habría evitado el suceso con toda probabilidad.
 
-
 ## Página 47
+
 
 ### 4.1.2 Investigación de los procesos de explotación de los EVU
 Los EVU Medway Belgium y Schweerbau GmbH & Co. KG, participantes en el suceso, disponían el día del suceso de un certificado de seguridad válido conforme al § 7a AEG. Los EVU estaban así habilitados para participar en la explotación ferroviaria.
@@ -1034,8 +1047,8 @@ Los datos del Registro Electrónico de Trayectos (EFR) fueron asegurados y evalu
 ## DGV 34156
 Conforme a los datos del certificado de freno y de la lista de vagones, el tren de mercancías DGV 34156 del EVU Schweerbau GmbH & Co. KG constaba de dos vagones abiertos de granos sueltos cargados de las clases Facs/Facns y de una locomotora Vossloh G 6, serie 0650. El tren de mercancías tenía una longitud total de 46 m y disponía de 85 centésimas de freno con un peso total del tren de 206 t. La tabla siguiente contiene los datos de explotación del trayecto de tren.
 
-
 ## Página 48
+
 
 |  | Número de tren |  | 34156 |  |
 |  | Clase de tren |  | DGV |  |
@@ -1065,6 +1078,7 @@ El vehículo tractor del DGS 42506 era una locomotora multivoltaje del fabricant
 
 ## Página 49
 
+
 | Potencia | 5 600 kW . |
 | Longitud total (LüP) | 1890 m , |
 | Masa | 84 t |
@@ -1086,8 +1100,8 @@ Las investigaciones determinaron que los daños sufridos en los Tfz fueron conse
 ### 4.2.2 Investigación de la infraestructura de construcción
 Las investigaciones determinaron que los daños sufridos en la infraestructura en la estación (Bf) Dorsfeld fueron consecuencia del suceso. La infraestructura de construcción no constituyó, en relación con el suceso, un factor causal o contribuyente. Por este motivo no se realizaron más investigaciones.
 
-
 ## Página 50
+
 
 ### 4.2.3 Investigación de la técnica de mando y seguridad
 En todo el ámbito de responsabilidad del Fdl Horrem I, las instalaciones de liberación de vía automáticas se componían de circuitos de recuento de ejes. La tecnología de liberación de vía basada en recuento de ejes detecta los movimientos de tren contando los ejes de los trenes al entrar en un tramo y volviéndolos a contar al salir. Un grupo de evaluación procesa esta información recogida y la muestra ópticamente al Fdl en el puesto de mando como información sobre el estado de ocupación de un vía.
@@ -1095,8 +1109,8 @@ En todo el ámbito de responsabilidad del Fdl Horrem I, las instalaciones de lib
 La operación de la puesta en servicio de recuento de ejes (AZG) es una maniobra auxiliar de operación sujeta a recuento y obligación de documentación, con la que los circuitos de recuento de ejes pueden devolverse a su estado inicial tras las averías. La denominada puesta en servicio de recuento de ejes dificultada significa que un tramo de liberación de vía indicado como ocupado solo puede devolverse a su estado inicial si el último recuento en el tramo de liberación de vía fue una salida de recuento. Esto sirve al objetivo de protección de que una circulación que solo haya entrado en un tramo no pueda ser «borrada» por el operador. Debido a la salida de recuento del sistema de los ejes de la máquina estopadora que previamente había salido en dirección a Horrem como tren 24146, la operación de la puesta en servicio de recuento de ejes por parte de la Fdl-in en Horrem I para el tramo de vía 30G22, vía 2 de la estación (Bf) Dorsfeld, era técnicamente posible. La Fdl-in pudo, mediante la operación de la puesta en servicio de recuento de ejes, restablecer el estado inicial de la instalación. A continuación, a la Fdl-in le fue posible establecer una ruta de entrada regular en la vía 2 de la estación (Bf) Dorsfeld, ya que el tramo de vía estaba registrado como libre en la instalación del puesto de mando, aunque en realidad seguía ocupado por los vehículos del tren de obras DGV 34361 que quedaba para salir.
 En el marco de la reconstrucción del suceso no se constataron hechos que constituyeran un factor relevante para el suceso en relación con la técnica de mando y seguridad empleada.
 
-
 ## Página 51
+
 
 ### 4.3 Factores humanos
 En este capítulo se presentan los resultados de la investigación sobre las acciones y/o decisiones de las personas implicadas en el suceso peligroso. En este sentido, los resultados pueden referirse especialmente al ámbito de las características humanas e individuales, así como de los factores organizativos y del puesto de trabajo.
@@ -1107,8 +1121,8 @@ También se aportaron a la BEU las certificaciones de las formaciones complement
 La Fdl-in estaba asignada conforme a Ril 412.9111 sección 4 apartado 3 a la función de nivel «A» con complejidad de explotación «a».
 De esta asignación se derivaba que la frecuencia de supervisión mediante una denominada control de explotación en el puesto de trabajo de un Fdl en el puesto de mando de Colonia-Ehrenfeld (Köln-Ehrenfeld) por parte del EIU conforme a Ril 412.9111 sección 4 apartado 5 se fijó en ocho supervisiones al año. Como control de explotación, conforme a Ril 412.9111 sección 2 apartado 4, se definió la supervisión directa de los empleados o el entrenamiento en una instalación de simulación en el marco de la formación complementaria. En la supervisión directa deben comprobarse, entre otros, las acciones del personal del puesto de mando, las anotaciones en la documentación de explotación y los conocimientos especializados mediante la realización de entrevistas de instrucción por una persona con funciones de supervisión.
 
-
 ## Página 52
+
 
 En el año 2023 se realizaron nueve controles de explotación por un jefe de distrito de explotación. Conforme a lo dispuesto en Ril 412.9111 sección 5 apartado 2, en el año natural 2023 al menos dos de los controles de explotación se realizaron como controles de explotación especiales, es decir, en fin de semana, fuera del horario laboral habitual o en la situación de desviaciones del funcionamiento normal. Para el año 2024, el EIU pudo acreditar la realización de nueve controles de explotación mediante la presentación de los protocolos correspondientes, de los cuales dos fueron controles de explotación especiales.
 De las constataciones realizadas en este capítulo sobre la formación, el entrenamiento y la supervisión de la Fdl-in se derivó que el EIU pudo acreditar el número de controles de explotación de la Fdl-in exigido conforme a Ril 412.9111 sección 4 apartado 5 para los años naturales 2023 y 2024. El número de supervisiones de la Fdl-in prescrito anualmente en la empresa conforme a Ril 412.9111 sección 4 apartado 5 se cumplió cuantitativamente para los años naturales 2023 y 2024. El EIU comunicó a la BEU, mediante certificados presentados, que en las restantes supervisiones realizadas antes del suceso conforme a Ril 412.9111 (4) no se detectaron anomalías en la documentación de acreditación, en las acciones realizadas ni en las maniobras auxiliares de operación sujetas a recuento de la Fdl-in. Asimismo, el informe de parada de emergencia (Nothaltaufrag) que debía realizarse una vez al año conforme a Ril 481.0205Z01 estaba acreditado como tema obligatorio en los protocolos presentados.
@@ -1117,8 +1131,8 @@ El último control de explotación de la Fdl-in antes del suceso se realizó el 
 La evaluación de las conversaciones GSM-R daba la impresión de que la Fdl-in no estaba suficientemente familiarizada con los procedimientos previstos de la Betra. A través de GSM-R, el Técnico Autorizado describió con mucho detalle cómo debían desarrollarse los trabajos: un conocimiento de las relaciones y una capacidad de transferencia que la Fdl-in habría tenido que adquirir por sí misma de la Betra con anterioridad. Este procedimiento se presupone por parte del EIU junto con la capacitación de un Fdl para un puesto de operación, ya que una instrucción escrita del personal de explotación estaba prevista conforme a Ril 406.1201 sección 5 apartado 7 solo en decisiones de casos individuales.
 La actuación de la Fdl-in puso de manifiesto, en lo que respecta al traspaso de una circulación de tren a una circulación de maniobras, errores de trabajo e infracciones de las disposiciones de las normas de
 
-
 ## Página 53
+
 
 Ril 408.0488 sección 2. Además del DGV 31565, hizo pasar también la máquina estopadora como circulación de tren 91757 de forma indebida, incluso antes de alcanzar la parada habitual en el Esig 30A, a una circulación de maniobras para la vía cerrada en la estación (Bf) Dorsfeld. Ambas maniobras de operación conllevaron maniobras auxiliares de operación, estaban sujetas a recuento y habrían podido evitarse. El análisis del suceso del accidente mostró también que la Fdl-in – con el fin de realizar una comprobación de tramo tras la salida de la máquina estopadora y dado que el estado de ocupación de la vía 2 le resultaba incierto – involucró al BÜB en la comprobación de la vía. La Fdl-in omitió por completo la mención obligatoria de los límites del área a comprobar teniendo en cuenta puntos característicos. Además, en las conversaciones GSM-R correspondientes no se observó suficientemente la disciplina de habla. A las 20:30 horas, la Fdl-in realizó además el retroceso de un ICE de forma no conforme a las normas conforme a las disposiciones de la Ril 408.
 La tabla siguiente contiene un resumen de los incidentes descritos anteriormente.
@@ -1153,14 +1167,19 @@ Se hace referencia a la recomendación de seguridad n.º 10/2018 de la BEU:
 
 ## Página 54
 
-|  | El cumplimiento de los textos prescritos en el «marco de las comunicaciones y órdenes» y el mantenimiento de una disciplina general en las comunicaciones telefónicas deberían concienciarse aún más entre los implicados y comprobarse periódicamente mediante la evaluación de las conversaciones GSM-R grabadas. |
-| Seguridad operativa en relación con las órdenes de trabajo (Betra) | Una instrucción escrita sobre las disposiciones de la Betra debía realizarse de acuerdo con Ril 406.1201, sección 5, párr. 7. . . mediante una decisión individual por parte del Jefe de Operaciones de Red / Jefe de Centro de Servicio de Circulación, y no estaba prevista para la Fdl-in. Los jefes de servicio de circulación (Fahrdienstleiter) de las estaciones de servicio implicados deberían ocuparse, por regla general, de su contenido en la propia estación de mando tras la presentación de una Betra. El autoestudio no fue comprobado. El caso presente evidencia la obtención de un éxito de aprendizaje considerablemente escaso. |
-| Transición de una marcha de tren a una maniobra | En la transición de las marchas de tren implicadas en la Betra, no se respetaron las disposiciones de Ril 408.0488, sección 2. |
-Tabla 19: Deficiencias detectadas en la ejecución de actuaciones operativas
+|  | «La observancia de las formulaciones prescritas en el marco de las comunicaciones y órdenes, así como el mantenimiento de una disciplina telefónica general, deberían concienciarse aún más entre los implicados y comprobarse periódicamente mediante la evaluación de las conversaciones GSM-R grabadas». |
+| Seguridad operativa respecto a las prescripciones de la Betra | Una instrucción escrita sobre las prescripciones de la Betra era, conforme a Ril 4061201, apartado 5, párrafo 7, competencia del jefe de explotación de red / centro de servicio de tráfico (BZ) en caso de decisión individual, y no estaba prevista para la Fdl-in. Los intervinientes jefes de servicio de tráfico de la estación de servicio deberían ocuparse, en principio, de los contenidos de una Betra en el puesto de mando tras su presentación. El autoestudio no fue comprobado. El caso presente evidencia la obtención de un aprendizaje considerablemente escaso. |
+| Transición de una circulación de tren a una maniobra | En la transición de las circulaciones de tren participantes en la Betra, no se observaron las disposiciones de Ril 4080488, apartado 2. |
+
+Tabla 19: Deficiencias detectadas en la realización de actuaciones operativas
+
 ### Factores organizativos y de puesto de trabajo
-Para la Fdl-in se agravó el hecho de que su puesto de trabajo no se encontraba in situ en la estación de Dorsfeld. Por ello, la Fdl-in disponía exclusivamente de la información que se mostraba mediante la instalación de liberación de vía y que podía evaluarse como parte de la indicación segura. Durante y también después del final de los trabajos, debía confiar, de acuerdo con la Betra, en los comunicados del Técnicamente Autorizado a través de GSM-R, ya que no podía inspeccionar ella misma la estación. Adicionalmente, cabe señalar que en los ESTW los sectores de mando tienden a ser más extensos, lo que genera, especialmente en situaciones operativas excepcionales, una mayor carga de trabajo para el personal de servicio. En la noche del suceso, además de los trabajos conforme a la Betra, se produjo una avería imprevista del desvío 27W5 en la estación de Düren. Esto afectó además a la Fdl-in del sector de mando Horrem I. Debido a esta avería, las marchas de tren de Dorsfeld en dirección a Düren tuvieron que gestionarse mediante operación de cambio de vía en el vía contraria. Este procedimiento dio lugar a una limitación de la capacidad de la infraestructura y requirió de la Fdl-in una mayor atención y conversaciones operativas con otros implicados.
+
+Para la Fdl-in se agravó el hecho de que su puesto de trabajo no se encontraba in situ en la estación de Dorsfeld. Por ello, la Fdl-in disponía exclusivamente de las informaciones que eran indicadas por la instalación de liberación de vía y que podían ser evaluadas como parte de la indicación segura. Durante y también después del final de los trabajos, conforme a la Betra, debía confiar en las comunicaciones del Técnicamente Autorizado por GSM-R, ya que no podía consultar la estación por sí misma. Además, cabe señalar que en los ESTW los sectores de mando tienden a ser de mayor extensión, lo que genera, especialmente en situaciones operativas excepcionales, una mayor carga de trabajo para el personal de explotación. En la noche del suceso, además de los trabajos conforme a la Betra, se produjo una avería imprevista del cambio 27W5 en la estación de Düren. Esto afectó además a la Fdl-in del sector de mando Horrem I. Debido a esta avería, las circulaciones de tren de Dorsfeld en dirección a Düren tuvieron que ser gestionadas mediante operación de cambio de vía en el vía contraria. Este procedimiento dio lugar a una limitación de la capacidad de la infraestructura y exigió a la Fdl-in una mayor atención y conversaciones operativas con otros implicados.
 
 ## Página 55
+
+
 Adicionalmente, hacia las 20:31 h, los trabajos conforme a la Betra n.º F35 6634 24 fueron comunicados por el Técnicamente Autorizado. La comunicación de la Betra supuso para la Fdl-in nuevas limitaciones temporales de la infraestructura en la estación de Dorsfeld. En el marco de los trabajos suelen mantenerse numerosas conversaciones GSM-R, en parte de carácter de despacho, con el Técnicamente Autorizado competente. Esto conlleva que un Fdl se vea sometido a una mayor carga de forma periódica durante los trabajos conforme a la Betra. Los requisitos para la gestión segura del servicio ferroviario aumentan a continuación, ya que, además de la ejecución del servicio ferroviario, deben gestionarse comunicaciones operativas, cerramientos de vía o maniobras antes de volver de nuevo al servicio normal.
 El EIU comunicó que la evaluación de la carga conforme al proceso R.01.02.10.02 con el método Stern-E y conforme a Ril 406.1103 4 (4) se realizó en el marco de la colaboración para la solicitud de Betra. Según esta evaluación, sin embargo, no se constató una carga excesiva por los trabajos de Betra en la noche del suceso.
 ### 4.3.2 Cualificación y actuaciones del BÜB
@@ -1170,6 +1189,8 @@ De acuerdo con el certificado de aptitud, emitido el 02.01.2015 por la DB InfraG
 El BÜB fue autorizado por el EIU para su actividad y fue instruido el 30.08.2024 por el EIU sobre el lugar de la estación de Dorsfeld y las condiciones del servicio ferroviario. Ese mismo día, fue encargado por el EIU con tareas de
 
 ## Página 56
+
+
 responsable de instalación para trabajos en o cerca de partes activas de la instalación de catenaria. En consecuencia, estaba instruido en su puesto de trabajo definido para la duración de los trabajos conforme a la Betra y conocía el lugar.
 La emisión de una declaración sobre la liberación de un tramo de vía era parte de su cualificación conforme a Ril 406.1201 para ejercer la función de Técnicamente Autorizado. Así, corresponde a un BÜB en la función de Técnicamente Autorizado pronunciarse regularmente, p. ej., tras estados de vía en construcción, sobre la liberación y la transitabilidad de zonas previamente cerradas ante el Fdl competente. Sobre esta base, puede asumirse que la consulta de la Fdl-in Horrem I le era conocida al BÜB y que sabía cómo llevarla a cabo en el lugar, a pesar de la formulación imprecisa de la petición de la Fdl-in. Debe presumirse que al empleado le era conocida en principio la gran importancia en materia de seguridad de un comunicado sobre la liberación de tramos de vía ante el Fdl competente.
 A pesar de las circunstancias presentes en la noche del suceso, como el inicio de aguanieve, al BÜB le habría sido posible, por ejemplo, recorriendo el vía 2, realizar una comprobación exhaustiva de liberación.
@@ -1182,6 +1203,7 @@ En este capítulo se abordan especialmente las condiciones, los mecanismos de re
 
 ## Página 57
 
+
 ### 4.4.1 SMS del EIU
 ### Investigación del suceso
 Al EIU le estaba impuesto conforme al Reglamento Delegado (UE) 2018/762, Anexo II, criterio 6.3.1. letra c) ii) verificar la eficacia del SMS, entre otros, sobre la base de investigaciones internas de accidentes, y conforme al criterio 7.1.3. extraer lecciones de las mismas. Esta realización de la investigación del accidente estaba establecida por el EIU en la instrucción de trabajo «M.01.05.03 AA Investigar sucesos peligrosos en el servicio ferroviario», que era parte del proceso correspondiente M.01.05.03 para la investigación de sucesos peligrosos.
@@ -1191,6 +1213,7 @@ La jornada de servicio de la Fdl-in no finalizó hasta hacia las 02:30 h. La Fdl
 
 ## Página 58
 
+
 ### 4.4.2 Supervisión del personal de puestos de mando
 De conformidad con el Reglamento (UE) 2018/762, Anexo II, Cap. 6.1.2, una organización debe supervisar el cumplimiento de las tareas de seguridad. Una supervisión deficiente puede dar lugar a que, en contra de lo dispuesto en el Anexo II, punto 4.3 del mencionado reglamento, se pierda la conciencia de la correcta aplicación de las instrucciones de trabajo y aumente el riesgo de actuación no conforme a la normativa. Conforme al Cap. 2.1.1e) en relación con el Cap. 2.3.2 del mencionado reglamento, deben disponerse para ello de los recursos necesarios.
 De conformidad con el Reglamento (UE) 2018/762, Anexo II, punto 4.2.1, deben impartirse a los empleados con tareas de seguridad las competencias necesarias. Estas deben definirse previamente en el SMS, conforme al punto 4.2.1 del reglamento, así como evaluar su concurrencia y garantizar de forma permanente su mantenimiento. Adicionalmente, conforme al punto 4.2.2, debe formarse de forma periódica y acreditada. Esto significa también que los conocimientos deben estar suficientemente adquiridos antes de la asignación de una actividad. Conforme al § 54 Abs. 1 EBO, deben impartirse a los funcionarios de explotación los conocimientos y las aptitudes que les capaciten para el ejercicio adecuado de su servicio. Conforme al § 54 Abs. 2 EBO, los ferrocarriles deben asegurarse, mediante exámenes o de otra forma adecuada y antes de la puesta en servicio, de la existencia de los conocimientos y aptitudes exigidos.
@@ -1199,6 +1222,7 @@ En relación con la realización de las revisiones periódicas de explotación d
 De conformidad con el Reglamento (UE) 2018/762, Anexo II, punto 4.3, debe garantizarse dentro de una organización que los empleados encargados de tareas de seguridad sean conscientes de la relevancia, importancia y consecuencias de su actividad. Conforme al punto 5.1.6 del mencionado reglamento, deben seguirse las instrucciones de trabajo. El cumplimiento
 
 ## Página 59
+
 
 de las tareas de seguridad debe supervisarse e intervenirse conforme al punto 6.1.2 cuando estas tareas no se cumplan adecuadamente.
 Para el jefe de distrito de explotación responsable del puesto de mando de Köln-Ehrenfeld en el momento del suceso, se solicitaron para su consulta los documentos de cualificación sobre la formación funcional y el examen conforme a la Ril 046.2841 para jefe de distrito de explotación.
@@ -1212,10 +1236,12 @@ Para sustituir esta precalificación con condiciones, conforme a las normas de p
 
 ## Página 60
 
+
 «deben presentarse por el solicitante al menos 2 referencias como justificación de la evaluación de su competencia profesional en el grupo de bienes correspondiente conforme a Pkt. 6 Bst. A (1).»
 Para mantener la precalificación, la ingeniería contratista debía solicitar la requalificación (prórroga de la precalificación existente) a más tardar el 20.01.2025.
 
 ## Página 61
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 Al BEU le son conocidos casos de naturaleza similar acaecidos en el pasado, en los que se encargó a empleados con tareas de revisión de vía o en los que los empleados encargados no realizaron correctamente la comprobación de que la vía estaba libre. La siguiente enumeración no debe considerarse exhaustiva.
@@ -1224,6 +1250,7 @@ Al BEU le son conocidos casos de naturaleza similar acaecidos en el pasado, en l
  El 05.11.2021 sobre las 18:10, el tren de pasajeros DPN 84270 fue autorizado a entrar en el raíl 3 de la estación de Neuburg (Donau), ocupado por el tren de mercancías EZ 51746. La entrada se realizó mediante la puesta en posición de vía del Esig A de la estación de Neuburg (Donau). El tren entrante
 
 ## Página 62
+
 
 DPN 84270 se detuvo a unos 50 m de la cabeza del EZ 51746. Debido a las malas condiciones de visibilidad causadas por el tiempo, el Fdl y el guardagujas habían introducido previamente la comprobación indirecta. En el relevo de servicio y la conversación de traspaso correspondiente del Fdl, el raíl 3, aún ocupado por el EZ 51746, fue confundido por el personal de explotación participante, y se autorizó al tren DPN 84270 la entrada en el raíl 3 ocupado.
 En relación con la realización de maniobras de ayuda mediante el uso de la posición base de conteo de ejes, al BEU le son conocidos, entre otros, los siguientes sucesos del pasado. También esta lista no es exhaustiva.
@@ -1235,11 +1262,13 @@ El EIU modificó, para mejorar el control de riesgos, los procedimientos operati
 
 ## Página 63
 
+
 mediante la activación de la AZG. A continuación, el GAG 60101 que seguía recorrió el bloque con señalización y colisionó sobre las 04:04 con el DGS 42174 situado en dicho bloque. De este suceso se derivó, entre otras, la recomendación de seguridad n.º 05/2023 del BEU:
 «Se recomienda seguir desarrollando las condiciones técnicas para la eficacia de la maniobra de una posición base de conteo de ejes, a fin de minimizar o excluir así los riesgos derivados de maniobras exitosas pero inoportunas. Hasta la implementación técnica y la minimización de un posible alcance de daños, se recomienda implementar soluciones compensatorias basadas en procedimientos.»
 Se vuelve a hacer referencia a la relevancia de esta recomendación de seguridad en el contexto de los resultados del presente informe de investigación.
 
 ## Página 64
+
 
 ## 5 Conclusiones
 El siguiente capítulo contiene un resumen de los factores causales, contribuyentes y sistémicos determinados. Adicionalmente, se prevén dos subcapítulos más para compartir información sobre las medidas ya adoptadas y sobre observaciones adicionales.
@@ -1250,18 +1279,24 @@ En resumen, cabe señalar que, tras el final declarado de los trabajos conforme 
 Debido a la cadena de sucesos posterior, según la apreciación de la jefa de maniobras, para la circulación del tren de mercancías DGS 42506 se incumplió el «Fundamental Operational Principle» conforme al Reglamento de Ejecución (UE) 2023/1693, Anexo B/B1, FOP n.º 1. En consecuencia, «el procedimiento para autorizar la circulación de un tren […] debe garantizar una distancia segura entre los trenes».
 
 ## Página 65
+
+
 No debió autorizarse la entrada del DGS 42506 en la vía 2 de la estación de Dorsfeld, que aún estaba ocupada por vehículos.
 ### Sobre el factor sistémico «Información correcta sobre la ocupación de vías» [S1]:
 La relación no exhaustiva del capítulo 4.5 de este informe sobre sucesos anteriores de naturaleza similar muestra una serie de colisiones en las que la información sobre la ocupación existente de una vía principal por vehículos no fue comunicada a la Fdl o no fue mantenida de forma segura. En el transcurso de la actividad operativa, de ello se dedujo erróneamente que las vías estaban libres. Si bien, por ejemplo, para las maniobras en vías principales conforme a la Ril 408.4841 se establecía que una Fdl debía recibir «conocimiento previo» de la ocupación de vías principales por maniobras conforme a la Ril 408.4841. Por el contrario, la transmisión de información en el momento adecuado y el almacenamiento permanente de la información sobre la ocupación de vías principales debida a estados de vía en construcción, bloqueos, tras el desdoblamiento o la transferencia de vehículos a otras circulaciones de tren no está regulado sistemáticamente para la Fdl. Así, en el pasado se produjeron repetidamente sucesos peligrosos en el tráfico ferroviario porque el conocimiento del estado de ocupación de una vía se desviaba erróneamente de la ocupación real de la vía con vehículos.
 A la BEU no le es conocido un sistema uniforme del EIU en cuanto a las diferentes formas constructivas de los aparatos de enclavamiento, con el que dicha información pueda ser transferida de forma inmediata y oportuna a la Fdl y gestionada de manera que pueda ser incorporada por ella en cualquier momento en la ulterior conducción de la operación. En cuanto a la práctica, a la BEU solo le es conocido que las Fdl a veces se auxilian de anotaciones individuales en notas adhesivas, que, p. ej., se colocan en el dispositivo de mando del aparato de enclavamiento o se encuentran en el puesto de trabajo. Dichas anotaciones por sí solas, en el presente caso, habrían sido como mucho un apoyo para la constatación de los vehículos restantes en la vía 2, pero en conexión con las prescripciones de la Ril 408.0471 o Ril 408.0231 Sección 2 no habrían sido por sí solas suficientes para la realización de una comprobación de tramo. A esto se añade que la prescripción existente del EIU a sus Fdl de realizar una comprobación de tramo antes de efectuar un bloqueo de vía conforme a la Ril 408.0471 Sección 2 Apartado 4c), como condición previa vinculante para el efectivo bloqueo de vía, no parece plausible. Esto es aplicable en general al caso de vehículos que permanezcan realmente en la vía tras el final de, p. ej., medidas de construcción. En el presente suceso, la permanencia de los vehículos en la estación de Dorsfeld se planificó temporalmente. Conforme a la normativa, a la jefa de maniobras, en la situación que se le presentó tras el efectivo bloqueo de la
 
 ## Página 66
+
+
 vía, incluso se le permitió realizar la comprobación de tramo ordenada mediante una circulación de tren desplazada a la vista. A continuación, el proceso operativo se habría paralizado, ya que esta circulación de tren se habría detenido, en el mejor de los casos, antes de los dos vehículos en la vía. Esto ilustra la relevancia que tiene la comunicación de información de seguridad ya antes de su entrada en vigor, véase el Reglamento Delegado (UE) n.º 2016/762, Anexo II, Criterio 4.4.3f).
 Ante este trasfondo, la BEU emite la Recomendación de Seguridad n.º 15/2025, según la cual el EIU debería mejorar la gestión de la información de una ocupación restante de vías principales, en especial tras bloqueos debidos a instrucciones escritas, estados de vía en construcción, bloqueos de vía, desdoblamientos de trenes o transferencia a otra circulación de tren en cuanto a los requisitos conforme al Reglamento Delegado (UE) n.º 2016/762, Anexo II, Criterio 4.4.3a) a g). Dado que, además de la transmisión de la información, el momento, los textos que en su caso deban respetarse y las competencias, también son relevantes el almacenamiento y la incorporación en ulteriores procesos operativos, se remite a la necesaria observancia de todos los subcriterios mencionados a) a g). Esto implica indirectamente que las instrucciones de trabajo deben ser, en principio, realizables sin contradicciones y aplicables de forma plausible en las situaciones operativas que deban dominarse. En la situación del presente suceso, una comprobación de tramo conforme a la Ril 408.0471 Sección 2 Apartado 4c) no era de comprensión plausible, ya que los vehículos, tras el final de los trabajos y hasta la salida planificada, permanecieron inicialmente de forma programada y temporal en la estación.
 Sobre el factor causal «Realización de la comprobación de tramo por la jefa de maniobras» [F2]:
 Conforme a la Ril 408.0471 Sección 2 Apartado 4c), era obligatorio para la jefa de maniobras realizar una comprobación de tramo tras el final de los trabajos conforme a Betra y antes de efectuar los bloqueos de vía. Dado que la jefa de maniobras no tenía por sí misma una visión general de la ocupación real de la vía 2 y tampoco podía realizar una constatación al respecto directamente mediante observación visual, decidió que se realizara una comprobación mediante la encomienda a otras personas. Sin embargo, este procedimiento lo eligió solo tras la salida de la estampadora con el número de tren 24146. Para ello, la jefa de maniobras se sirvió del BÜB que casualmente aún se encontraba presente en la estación de Dorsfeld, para exigirle de este una declaración de vía libre de la vía 2 de la estación de Dorsfeld. La jefa de maniobras estaba facultada para la incorporación de una persona encomendada conforme a la Ril 408.0233 Sección 2 Apartado 1 en lo que respecta al grupo de personas allí mencionado. El BÜB no era mencionado explícitamente en la normativa antes citada, pero en virtud de su
 
 ## Página 67
+
+
 cualificación y de la instrucción local existente, o de la realización de tales actividades en ese contexto, podía entenderse como parte de dicho grupo de personas en su condición de Técnicamente Autorizado.
 Al aplicar este procedimiento de comprobación encomendada a un empleado, la jefa de maniobras habría tenido que describirle la situación del tramo a comprobar y sus límites conforme a la normativa mediante la mención de puntos característicos. Esto lo omitió la jefa de maniobras y solicitó de forma generalizada al BÜB información sobre la ocupación de la vía 2. Ante el trasfondo de los numerosos déficits de actuación constatados de la jefa de maniobras (véanse los capítulos 4.1.1, 4.3.1 y 5.3), la BEU remite a la Recomendación de Seguridad n.º 04/2025 emitida para el suceso de la colisión de trenes del 17.11.2022 entre la estación de Meinersen y la parada de Leiferde (b Giittorn):
 «Se recomienda, para reforzar el enfoque orientado al riesgo en todas las fases de la gestión de competencias, revisar los procedimientos para la conservación y actualización de los conocimientos y habilidades con relevancia para la seguridad en función del puesto de trabajo y mejorarlos en la medida en que sea necesario. A tal efecto, deben tenerse en cuenta las actividades de los empleados con funciones con relevancia para la seguridad y con tareas directivas en todos los niveles pertinentes (Reglamento (UE) 2018/762, Anexo II, Cap. 4.2.1 y 6.1.1 a))».
@@ -1271,6 +1306,7 @@ El BÜB puso de manifiesto, en contra de los requisitos de su cualificación y a
 En lo que respecta a la seguridad en la actuación del BÜB, se remite igualmente de nuevo a la Recomendación de Seguridad n.º 04/2025 ya citada más arriba.
 
 ## Página 68
+
 
 ### 5.2 Medidas adoptadas desde el suceso
 La Fdl-in fue, según la declaración del EIU, reincorporada al puesto de mando a partir del 05.12.2024, tras la realización de una conversación de seguridad, no documentada, con la participación del Jefe de Servicio de Circulación de la BZ y del Jefe de Operaciones Ferroviarias Oeste.

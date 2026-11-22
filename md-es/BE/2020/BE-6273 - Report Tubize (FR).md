@@ -10,13 +10,13 @@ chars: 42074
 ratio_longitud: 1.03
 tokens_in: 16092
 tokens_out: 11753
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 8: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (FR)", "página 2: cifras cortas: 1/3", "página 3: original bilingüe: se compara contra el idioma principal (FR)", "página 12: cifras cortas: 1/5"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 Organismo de Investigación de Accidentes e Incidentes Ferroviarios
@@ -27,8 +27,8 @@ del gestor de la infraestructura Infrabel
 Tubize - 14 de abril de 2020
 Diciembre de 2020
 
-
 ## Página 2
+
 
 ## ÍNDICE DE VERSIONES DEL INFORME
 Número de la versión
@@ -41,8 +41,8 @@ Cualquier uso de este informe con un propósito distinto al de la prevención de
 para elaborarlo, la selección de los hechos recogidos, la naturaleza de las preguntas planteadas, y los conceptos que moviliza, a los que la noción de responsabilidad es ajena. Las conclusiones que pudieran derivarse de ello serían, por tanto, abusivas en el sentido literal del término.
 En caso de incoherencia entre ciertas palabras y términos, prevalece la versión en francés.
 
-
 ## Página 3
+
 
 ## ÍNDICE
 
@@ -163,13 +163,14 @@ Conclusión
 5.	
 MEDIDAS ADOPTADAS	
 6.	
-RECOMENDACIONES	
-
+RECOMENDACIONES
 
 ## Página 4
 
 
+
 ## Página 5
+
 
 # 1.	 INFORMACIÓN GENERAL
 ### Naturaleza del acontecimiento:
@@ -199,10 +200,12 @@ El único control mediante el clic característico aumenta el riesgo de error hu
 ### Recomendaciones:
 A la vista de las medidas adoptadas propuestas por el gestor de infraestructura Infrabel, el Organismo de Investigación no emite ninguna recomendación tras el descarrilamiento de una planchadora en el punto de aguja 02C ocurrido el 14 de abril de 2020.
 
-
 ## Página 6
 
+
+
 ## Página 7
+
 
 # 2.	LOS HECHOS INMEDIATOS
 ## 2.1.	 EL EVENTO
@@ -226,27 +229,20 @@ La vía y los aparatos de vía resultan dañados.
 Al estar el repartidor inmovilizado en el perfil de las dos vías, la circulación de los trenes queda 
 interrumpida en las dos vías de la línea.
 
-
 ## Página 8
 
 ## 2.1.2.	 LOCALIZACIÓN
-    Ilustración: Plano de señalización (PSS) con indicación del recorrido previsto para el tren
+    Ilustración: Plan de señalización (PSS) con indicación del trayecto previsto para el tren
 ## 2.1.3.	 LA DECISIÓN DE ABRIR UNA INVESTIGACIÓN
-El investigador de guardia del Organismo de Investigación (OI) es informado por el Control de Tráfico y se desplaza 
-al lugar del accidente.
-El evento ocurrido es un accidente significativo: descarrilamiento en vía principal que ha provocado 
-una interrupción del tráfico ferroviario de más de dos horas.
-Conforme al artículo 111 (párrafo 2) de la ley del 30 de agosto de 2013¹, el Organismo de Investigación ha deci­
-dido abrir una investigación e ha informado a las partes interesadas.
- Art. 111. § 1er. El organismo de investigación:
-1° realiza una investigación tras cada accidente grave ocurrido en el sistema ferroviario;
-2° además de los accidentes graves, puede realizar investigaciones sobre los accidentes e incidentes que, en circunstancias ligeramente dife­
-rentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas a nivel de los subsistemas estructurales 
-o de los componentes de interoperabilidad del sistema ferroviario de alta velocidad o convencional. En su caso, tiene en cuenta los 
-criterios determinados por el Rey;
-
+El investigador de guardia del Organismo de Investigación (OE) es avisado por el Traffic Control y se dirige al lugar del accidente.
+El acontecimiento ocurrido es un accidente significativo: descarrilamiento en vía principal que ha provocado una interrupción del tráfico ferroviario de más de dos horas.
+Conforme al artículo 111 (párrafo 2) de la ley de 30 de agosto de 20131, el Organismo de Investigación ha decidido abrir una investigación y ha informado a las partes interesadas.
+ Art. 111. § 1.º El organismo de investigación:
+1.º realiza una investigación después de cada accidente grave ocurrido en el sistema ferroviario;
+2.º además de los accidentes graves, puede realizar investigaciones sobre los accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas a nivel de los subsistemas estructurales o de los componentes de interoperabilidad del sistema ferroviario de alta velocidad o convencional. En su caso, tiene en cuenta los criterios determinados por el Rey;
 
 ## Página 9
+
 
 ## 2.2.	 LAS CIRCUNSTANCIAS DEL EVENTO
 ## 2.2.1.	 EMPRESA IMPPLICADA: GESTOR DE INFRAESTRUCTURA INFRABEL
@@ -262,8 +258,8 @@ Las actividades de Infrabel se organizan en 6 servicios generales:
 •	 I-AM: Gestión de Activos.
     Ilustración: organigrama de Infrabel (fuente: Infrabel)
 
-
 ## Página 10
+
 
 ## 2.2.2.	 TREN
 El tren que descarriló es un tren de trabajos del gestor de infraestructura, Infrabel.
@@ -272,8 +268,8 @@ Un repartidor de balasto es una máquina autopropulsada que ejecuta la distribuc
 obras de construcción o mantenimiento de las vías, respetando los perfiles reglamentarios.
     Ilustración: repartidor de balasto n.º 998894252134
 
-
 ## Página 11
+
 
 ## 2.2.3.	 DESCRIPCIÓN DE LA INFRAESTRUCTURA 
 ## 2.2.3.1.	 LA LÍNEA 96
@@ -286,8 +282,8 @@ El desvío 02C se encuentra a la salida de la estación de Tubize en dirección 
     Ilustración: esquema de un desvío
 El aparato de maniobra es el motor del desvío, al cual están conectadas las 2 hojas del desvío mediante las varillas (en azul en el esquema).
 
-
 ## Página 12
+
 
 Para mantener las hojas del desvío en posición, están provistas de un dispositivo de inmovilización. Existen 
 diferentes tipos: el desvío 02C es un desvío con bloqueo por grapas verticales.
@@ -304,8 +300,8 @@ enganchado, las varillas de mando y las hojas del desvío ya no podrán moverse.
  La velocidad de circulación de las máquinas y trenes de trabajos que operan en una vía cerrada a la circulación normal (vía fuera de servicio) está 
 limitada a un máximo de 30 km/h.
 
-
 ## Página 13
+
 
 ## 2.2.3.3.	 LOS DIABLOS
 Los diablos se encuentran en la caja del motor de un desvío. Constituyen el indicador de referencia 
@@ -320,6 +316,7 @@ del aparato de maniobra y son por tanto visibles cuando se levanta la mirilla.
 
 ## Página 14
 
+
 ## 2.2.3.4.	 LA MANIVELA DE EMERGENCIA
 La manivela de emergencia es la herramienta prevista para accionar manualmente un punto de aguja. Permite girar manualmente el motor que hará mover las agujas.
          Imagen de ilustración: una manivela de emergencia (fuente: Infrabel)
@@ -328,8 +325,8 @@ Durante las obras, una línea puede ser puesta fuera de servicio. Este hecho est
 La información relativa a las obras previstas en la línea 96 durante la noche del 13 al 14 de abril de 2020 se recoge en el BNX 45M-07377-005.
 La lista de los puntos de aguja que pueden ser accionados manualmente durante las obras previstas en la línea 96 durante la noche del 13 al 14 de abril de 2020 se recoge en el ILT L96 2020 P3 S16.
 
-
 ## Página 15
+
 
 ## 2.3.	 PÉRDIDAS HUMANAS, HERIDOS Y DAÑOS MATERIALES
 ## 2.3.1.	 PASAJEROS, PERSONAL Y TERCEROS
@@ -342,8 +339,8 @@ El punto de aguja 02C resultó dañado como se expone en la ilustración siguien
 ## 2.3.4.	 RETARDOS OCASIONADOS
 La circulación se interrumpió en las dos vías durante más de 2 horas, lo que provocó retrasos en diversos trenes.
 
-
 ## Página 16
+
 
 ## 2.4.	 CIRCUNSTANCIAS EXTERNAS
 ## 2.4.1.	 CONDICIONES METEOROLÓGICAS
@@ -353,14 +350,16 @@ La estación de Tubize es una estación ferroviaria belga de la línea 96, que v
 Se encuentra situada en el municipio de Tubize, en la provincia de Brabante Valón, en la Región Valona.
   Ilustración: Situación de la estación de Tubize y de la línea 96 en el mapa de Bélgica
 
-
 ## Página 17
+
 
 
 ## Página 18
 
 
+
 ## Página 19
+
 
 # 3.	INFORME DE LAS INVESTIGACIONES Y ENQUISTAS
 ## 3.1.	 RESUMEN DE LOS TESTIMONIOS
@@ -374,8 +373,8 @@ El jefe de obra designado para la supervisión y el control de las obras a ejecu
 El accionamiento manual de un punto de aguja puede ser delegado por el jefe de obra a un agente de vía de su equipo. No obstante, aunque la tarea pueda ser delegada, la responsabilidad de la correcta realización de este accionamiento no puede ser delegada y recae en el jefe de obra que posee las funciones de seguridad A.R.E.T.
 En el momento del accidente, no existía una definición formal de un procedimiento para la delegación de esta misión. No obstante, esta delegación estaba reflejada en la hoja de trabajo elaborada para este servicio.
 
-
 ## Página 20
+
 
 ## 3.2.2.	 PROCEDIMIENTO
 Las directrices y las instrucciones de trabajo para realizar un accionamiento manual de un punto de aguja se encuentran en el RGE 728-2 y el RGE 741-1.
@@ -384,8 +383,8 @@ La indicación de un accionamiento completo y correctamente realizado se da bien
 ### Constatación n.º 1:
 El procedimiento prevé, pero no obliga, a verificar la correcta posición de los diabolos para asegurarse de que el accionamiento del punto de aguja es completo.
 
-
 ## Página 21
+
 
 ## 3.3.	 NORMAS Y REGULACIÓN
 ## 3.3.1.	 NORMAS Y REGULACIÓN PÚBLICA COMUNITARIA Y NACIONAL APLICABLES
@@ -408,6 +407,7 @@ El procedimiento prevé, pero no obliga, a verificar la correcta posición de lo
 
 ## Página 22
 
+
 ## 3.4.	 FUNCIONAMIENTO DEL MATERIAL RODANTE Y DE LAS INSTALACIONES TÉCNICAS
 ## 3.4.1.	 CONTROL DEL MATERIAL RODANTE
 ## 3.4.1.1.	
@@ -423,8 +423,8 @@ La ficha que recoge las medidas de las ruedas y de los ejes tomadas tras el acci
 ### Constatación n.º 2:
 La baladora está en condiciones de funcionamiento.
 
-
 ## Página 23
+
 
 ## 3.4.2.	 CONTROL DE LA INFRAESTRUCTURA
 ## 3.4.2.1.	 EL MANTENIMIENTO DEL PUNTO DE AGUJA 02C
@@ -440,8 +440,8 @@ El investigador de Infrabel constata que el cristal de la tapa que permite ver e
 La suciedad del cristal no permite verificar fácilmente la posición de los diabolos sin levantar la tapa de la caja del motor.
  El programa RIAM (Rail Infrastructure Asset Management) es el programa utilizado por el gestor de infraestructura Infrabel para planificar y garantizar el seguimiento del mantenimiento y las reparaciones de la infraestructura.
 
-
 ## Página 24
+
 
 De los elementos de la investigación se desprende que el movimiento durante la última maniobra previa al descarrilamiento de la baladora no se realizó por completo, como atestigua la posición de los diabolos tras abrir la tapa de la caja del motor (cfr. ilustración a continuación)4.
             Ilustración: en el círculo rojo, los diabolos del punto de aguja 02C 
@@ -455,6 +455,7 @@ Los investigadores pudieron entonces completar dicha maniobra y obtener el contr
  El análisis de los archivos LARA durante la investigación confirma esta constatación.
 
 ## Página 25
+
 
 Los investigadores de Infrabel y de la OE deciden entonces realizar pruebas de maniobra manual del punto de aguja 02C. Utilizan la manivela de emergencia y un atornillador para llevar a cabo las pruebas.
 Para cada secuencia de pruebas, los investigadores han verificado el movimiento de las hojas del punto de aguja durante la maniobra y la posición de los diabolos.
@@ -475,8 +476,8 @@ Los archivos LARA no registraron ningún otro dato antes de las 11h57, momento e
 Ilustración: extracto de los archivos LARA del 14 de abril de 2020 (fuente: Infrabel)
 En un sistema de señalización que funciona en modo EBP, los archivos LARA constituyen un conjunto de archivos que recogen y registran el conjunto de las órdenes y controles de la señalización y de los aparatos de vía.
 
-
 ## Página 26
+
 
 Análisis de los archivos LARA de las pruebas de maniobra del punto de aguja 02C realizadas por los investigadores en el lugar de los hechos
 Las ilustraciones que se muestran a continuación nos presentan las secuencias registradas en los archivos LARA en el momento en que los investigadores de la OE y de Infrabel realizaron pruebas de maniobra manual (con la manivela y con el atornillador) del punto de aguja 02C.
@@ -489,16 +490,16 @@ El análisis de los archivos LARA confirma la constatación realizada in situ po
 ### Constatación n.º 5:
 Todos los elementos (posición de los diabolos, pruebas realizadas por los investigadores y análisis de los archivos LARA) concuerdan y confirman que el punto de aguja 02C no estaba completamente bloqueado.
 
-
 ## Página 27
+
 
 ## 3.4.3.	 LAS OBRAS Y LA PUESTA FUERA DE SERVICIO DE LA LÍNEA 96
 Cuando se pone fuera de servicio una parte de línea, se instalan medidas de protección en el bloque de señalización que gestiona el tramo de línea afectado, conforme al RGE 741-1.
 En el bloque de señalización, se coloca un dispositivo de inmovilización (IS con motivo) para los puntos de aguja, lo cual no permite ninguna maniobra de los puntos de aguja afectados sin que dicho dispositivo sea levantado.
 Los puntos de aguja presentes en el tramo de vía puesto fuera de servicio pueden entonces maniobrarse manualmente. Este procedimiento se detalla en el RGE 728-2.
 
-
 ## Página 28
+
 
 ## 3.5.	 MEDIDAS TOMADAS PARA PROTEGER Y PRESERVAR EL 
 ## LUGAR DE LOS HECHOS
@@ -519,6 +520,7 @@ La situación normal (circulación sin restricciones en las vías A y B de la l�
 
 ## Página 29
 
+
 ## 3.6.	 INTERFAZ HUMANO-MÁQUINA-OPERACIÓN
 ## 3.6.1.	 FORMACIÓN
 De la investigación y de los elementos facilitados por Infrabel se desprende que el jefe de trabajo del BNX 45M-
@@ -534,8 +536,8 @@ El agente de vía utilizó una atornilladora para realizar las maniobras manuale
 ### Constatación n.º 7:
 Durante las pruebas en el lugar, los investigadores de Infrabel y del OE realizaron maniobras con la manivela de emergencia y con una atornilladora. El análisis de los archivos LARA no muestra ninguna diferencia en cuanto a la obtención del control del punto de aguja.
 
-
 ## Página 30
+
 
 ## 3.6.3.	 LA TRAGALUZ DE LA CAPOTA DE LA CAJA DEL MOTOR DEL PUNTO DE AGUJA
 En el lugar, se constató que el cristal del tragaluces de la capota de la caja del motor del punto de aguja 02C estaba sucio. Es a través de este tragaluces donde se puede realizar el control de la posición de los rodillos de guía sin necesidad de abrir la capota del motor del punto de aguja.
@@ -544,14 +546,16 @@ Ilustración: lista de verificación 12E (fuente: Infrabel)
 ### Constatación n.º 8:
 El procedimiento de inspección no es explícito respecto a la verificación del estado del cristal del tragaluces. Por lo tanto, nada indica si los equipos de inspección verifican o no el estado del cristal bajo el tragaluces.
 
-
 ## Página 31
+
 
 
 ## Página 32
 
 
+
 ## Página 33
+
 
 # 4.	ANÁLISIS Y CONCLUSIONES
 ## 4.1.	 INFORME FINAL DE LA CADENA DE EVENTOS
@@ -565,8 +569,8 @@ Durante el recorrido por este punto de aguja, el primer bogie (n.º 17.2.037) de
 Se da la alarma y se interrumpen los trabajos.
 La línea 96 entre Halle y Tubize no puede volver a ponerse en servicio.
 
-
 ## Página 34
+
 
 ## 4.2.	 ANÁLISIS
 Según la investigación y los elementos reunidos por el Organismo de Investigación, la hipótesis más probable es que el descarrilamiento de la máquina de balasto ocurrido en Tubize el 14 de abril de 2020 sea la consecuencia del movimiento de las hojas del punto de aguja 02C durante su recorrido por la máquina de balasto.
@@ -585,12 +589,13 @@ El clic característico puede no percibirse correctamente en un entorno ruidoso 
 
 ## Página 35
 
+
 ## 4.2.4.	 ACERCA DEL VENTANAL DE LA TRASPÚEDA DE LA CAJA DEL MOTOR DE LA AGUJA
 El ventanal de la traspúeda estaba sucio. Sin embargo, es a través de esta traspúeda donde se puede realizar el control de la posición de los diabolos sin necesidad de abrir la tapa del motor de la aguja.
 Durante las inspecciones y el mantenimiento de las agujas, Infrabel prevé una lista de verificación dirigida a sus equipos. Una vez al año, los equipos utilizan la lista de verificación 12 E en cada aparato de vía. La primera tarea de esta lista es «controle el estado de la tapa del aparato de maniobra». Por lo tanto, está prevista la inspección de la tapa de la caja del motor de la aguja, pero no se especifica explícitamente. De hecho, no se dan prescripciones claras respecto a la verificación del estado de limpieza del ventanal o de la posibilidad de abrir la traspúeda que permite ver la posición de los diabolos en el interior de la caja. Por tanto, nada indica si los equipos de inspección verifican o no el estado del ventanal bajo la traspúeda.
 
-
 ## Página 36
+
 
 ## 4.3.	 CONCLUSIÓN
 ## 4.3.1.	 CAUSAS DIRECTAS
@@ -604,8 +609,8 @@ El agente de vía que maniobró la aguja siguió las prescripciones del procedim
 El procedimiento no prevé verificar los dos indicadores (el clic característico y la posición de los diabolos), sino solo uno de los dos a elección.
 El único control mediante el clic característico aumenta el riesgo de error humano: parece que el único control del clic característico no es suficiente para asegurar la obtención del control de la aguja tras su maniobra, particularmente en un entorno ruidoso, como los trabajos en la vía.
 
-
 ## Página 37
+
 
 ## 4.3.4.	 OTROS HECHOS
 ### Hecho n.º 1
@@ -616,11 +621,12 @@ En el momento del accidente, no estaba formalmente definida una procedimiento pa
 ### Hecho n.º 3
 Un atornillador, menos exigente que la manivela de emergencia, es utilizado regularmente por los agentes de vía y está disponible en el lugar. Sin embargo, el uso de esta herramienta no se ajusta al procedimiento establecido por el gestor.
 
-
 ## Página 38
 
 
+
 ## Página 39
+
 
 # 5.	MEDIDAS ADOPTADAS
 Tras este accidente, el gestor de infraestructura Infrabel propuso llevar a cabo varias acciones:
@@ -629,17 +635,18 @@ Tras este accidente, el gestor de infraestructura Infrabel propuso llevar a cabo
 •	 La elaboración de una instrucción de trabajo que detalle las modalidades de aplicación del RGE 741.1 y del RGE 728.2 para la maniobra de las agujas dentro de los límites de una vía o de una zona fuera de servicio, con la integración de los requisitos y modalidades para la delegación de esta tarea (fuera del agente certificado A.R.E.T.).
 •	 La adaptación de las instrucciones (lista de verificación E12) para la ejecución de los controles y mantenimientos periódicos del aparato de maniobra (integración de la limpieza de la traspúeda del motor de la aguja).
 
-
 ## Página 40
+
 
 
 ## Página 41
 
+
 # 6.	RECOMENDACIONES
 A la vista de las medidas adoptadas propuestas por el gestor de infraestructura Infrabel, el Organismo de Investigación no emite ninguna recomendación tras el descarrilamiento de una balatadora en la aguja 02C ocurrido el 14 de abril de 2020.
 
-
 ## Página 42
+
 
 ### Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 http://www.oeaif.be

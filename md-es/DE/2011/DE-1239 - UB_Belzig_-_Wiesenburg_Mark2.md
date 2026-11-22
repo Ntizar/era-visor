@@ -10,13 +10,13 @@ chars: 51627
 ratio_longitud: 1.10
 tokens_in: 24166
 tokens_out: 12763
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 19: cifras largas: faltan 16/16 (100%)"]
-notas_cifras: ["página 7: cifras cortas: 1/12", "página 11: cifras cortas: 1/22", "página 18: cifras largas: 1/5; cifras cortas: 1/29; ratio 2.98"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Número de expediente:
@@ -32,16 +32,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de vía: | 6118 |
 | Kilómetro: | 656 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal Alemana para la Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice de contenidos
 ## I.
@@ -94,8 +94,8 @@ Estado de conservación de las instalaciones de vía en la Estación Belzig ....
 Investigación de la tecnología de dirección y seguridad ...................................................... 9
 I
 
-
 ## Página 4
+
 
 4.5
 Investigación de los procedimientos operativos del gestor de infraestructura ................. 10
@@ -133,6 +133,7 @@ II
 
 ## Página 5
 
+
 ## II. 
 ## Índice de figuras: 
 Figura 1: Plano de situación ................................................................................................................ 4 
@@ -157,10 +158,10 @@ Figura 18: Acoplamiento corto modificado .......................................
 ## Índice de tablas: 
 Tabla 1: Resumen del importe estimado de los daños ................................................................ 6 
 Tabla 2: Datos técnicos del vagón plataforma baja Uaai 839 .................................................... 16 
-III 
-
+III
 
 ## Página 6
+
 
 ## IV. 
 ## Índice de abreviaturas: 
@@ -210,10 +211,10 @@ VzG
 Directorio de las velocidades localmente permitidas 
 ZAS 
 Central de análisis para la grabación de datos de viaje 
-IV 
-
+IV
 
 ## Página 7
+
 
 ## 1 Preámbulo 
 El capítulo Preámbulo se ocupa de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se indica la base legal y se esboza brevemente la organización interna. 
@@ -222,16 +223,17 @@ Con la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, relativa a la 
 La Directiva se transpuso mediante la Quinta Ley de modificación de las disposiciones ferroviarias del 16.04.2007 y se creó la Oficina Federal de Investigación de Accidentes Ferroviarios (EUB). 
 Con la Ley de reordenación de la investigación de accidentes ferroviarios del 27.06.2017 se crearon, entre otras cosas, las bases jurídicas para la creación de la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). Con ello se modificaron la Ley General Ferroviaria (AEG) y la Ley de la Administración Federal del Transporte Ferroviario (BEVVG), transfiriendo las competencias y atribuciones a la nueva autoridad, la BEU. Con la creación de la BEU se disolvió la EUB, compuesta por la dirección de la EUB en el Ministerio Federal de Transporte e Infraestructura Digital (BMVI) y la central de investigación de la EUB en la Oficina Federal de Ferrocarriles (EBA). Con la Orden de organización del Ministerio Federal de Transporte e Infraestructura Digital para la creación de la Oficina Federal de Investigación de Accidentes Ferroviarios del 14.07.2017 se creó la BEU como autoridad federal independiente dentro del ámbito de competencias del BMVI para cumplir las tareas previstas en el § 7 BEVVG. Las tareas de investigación de determinados acontecimientos peligrosos en el tráfico ferroviario pasaron sin interrupciones de la EUB a la BEU. 
 Dado que el acontecimiento peligroso se produjo antes de la creación de la BEU, determinadas actuaciones de investigación se realizaron aún por la EUB, a las que se hace referencia correspondientemente en el informe. Todos los conocimientos obtenidos durante la investigación se compartieron continuamente con las empresas ferroviarias afectadas y con la autoridad de seguridad, y se emitieron recomendaciones de seguridad específicas para cada caso. 
-Más información está disponible en Internet en www.beu.bund.de. 
-
+Más información está disponible en Internet en www.beu.bund.de.
 
 ## Página 8
+
 
 ### 1.2 Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los acontecimientos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no tienen como objetivo determinar la culpabilidad ni aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
 La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades u otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 9
+
 
 ## 2 Resumen 
 El capítulo se ocupa de una breve descripción del desarrollo del suceso, las consecuencias y las causas primarias. Finalmente, se enumeran las posibles recomendaciones de seguridad impartidas.
@@ -245,8 +247,8 @@ Como causa del descarrilamiento debe considerarse un error de montaje durante la
 ### 2.4 Recomendaciones de seguridad 
 No se emitieron recomendaciones de seguridad.
 
-
 ## Página 10
+
 
 ## 3 Datos generales 
 El capítulo contiene datos generales para la descripción del lugar del suceso y de las instalaciones ferroviarias relevantes. Asimismo, se nombran las entidades participantes y colaboradoras en la investigación del accidente, las condiciones externas, el número de personas posiblemente heridas y fallecidas en el suceso, así como el tipo y la cuantía de los daños consiguientes.
@@ -255,8 +257,8 @@ La Bf Belzig y el tramo de línea en dirección a Wiesenburg (Mark) se encuentra
 Figura 1: Plano de situación1
 1 Fuente: Datos geobásicos © GeoBasis-DE / BKG [2019], editado por BEU
 
-
 ## Página 11
+
 
 A partir del esquema de la disposición de las vías en la Figura 2 se puede ver el recorrido del FIR 51474 en la Bf Belzig. El tren fue derivado desde la vía 51G111, a través de los puntos de cruce 51W2 y 51W3, hacia la vía de adelantamiento 51G104. Desde allí continuó su viaje a través de los puntos de cruce 51W10, 51W11, la vía 51G101 y el punto de cruce 51W15 en dirección a Wiesenburg (Mark).
 Figura 2: Esquema de la disposición de las vías2
@@ -270,8 +272,8 @@ En el marco de la determinación de los hechos y la investigación de las causas
 En el momento del accidente había visibilidad clara con el cielo parcialmente nublado y temperaturas de aproximadamente 18°C. Las condiciones externas no guardaban ninguna relación causal reconocible con la causa del suceso.
 2 Fuente: DB Netz AG, editado por BEU
 
-
 ## Página 12
+
 
 ### 3.4 Fallecidos, heridos y daños materiales 
 En el suceso no se produjeron daños personales.
@@ -284,8 +286,8 @@ La cuantía estimada de los daños materiales se compone de la siguiente manera:
 |  | Cuantía total de los daños |  | 3 832 000 . . |  |  |
 Tabla 1: Resumen de la cuantía estimada de los daños
 
-
 ## Página 13
+
 
 ## 4 Acta de investigación 
 En este capítulo se presentan los resultados determinados sobre las distintas subáreas del sector ferroviario relacionadas con el suceso. Además, se han examinado las correspondientes interfaces, así como la gestión de la seguridad en el área afectada. Los conocimientos relevantes respectivos se enumeran de forma continua.
@@ -301,12 +303,13 @@ El FIR 51474 atravesó varios puntos de cruce, que presentaban en parte radios d
 
 ## Página 14
 
+
 Figura 3: Trazado del tren FIR 51474 vía de adelantamiento 51G104 a vía 51G101
 En el talón de la aguja 51W15, aproximadamente en el pk 65,6, se encontraron las primeras marcas de rodadura de varias ruedas sobre el ala del talón. Como primeras marcas del deslizamiento de las ruedas en dirección de marcha hacia la derecha, eran visibles en el pk 65,7 aproximadamente, clavijas dañadas junto a la vía izquierda, y unos metros más adelante también junto a la vía derecha. En el transcurso posterior, se produjo una desviación de la vía en dirección transversal aproximadamente en el pk 66,1, que es visible en la siguiente figura.
 Figura 4: Daños posteriores al descarrilamiento aproximadamente en el pk 66,1
 
-
 ## Página 15
+
 
 En el paso a nivel (BÜ) en el pk 70,4, los pares de ruedas del vagón plataforma baja Uaai 839 se volvieron a encajar por sí solos, lo cual quedó acreditado por las marcas correspondientes. El tren recorrió el tramo desde la vía única en el paso a nivel hasta la estación central de Magdeburg sin que se produjeran daños adicionales visibles en las instalaciones de vía.
 ### 4.3.2 Estado de mantenimiento de las instalaciones de vía en la estación de Belzig
@@ -316,8 +319,8 @@ No se pudo determinar ninguna influencia causal del estado de la infraestructura
 ### 4.4 Investigación de la tecnología de dirección y seguridad
 El tramo relevante para el descarrilamiento del tren de la línea VzG 6118 estaba integrado en la subcentral (UZ) Michendorf del conmutador electrónico (ESTW). Según el ordenador de documentación y averías, no había habido interrupciones ni mensajes de error durante la circulación del tren. Por lo tanto, se debían excluir las influencias de la tecnología de dirección y seguridad sobre el desarrollo del incidente.
 
-
 ## Página 16
+
 
 ### 4.5 Investigación de los procedimientos operativos del gestor de infraestructura
 La explotación en el tramo relevante de la línea VzG 6118 se llevó a cabo según las disposiciones de la Ril 408 – Circulación de trenes y maniobras – y fue controlada por un jefe de tráfico local (özF) responsable en la subcentral (UZ) Michendorf del conmutador electrónico (ESTW) desde una posición de control en el centro de operaciones en Berlín.
@@ -331,6 +334,7 @@ Según la documentación disponible, el vagón plataforma baja Uaai 839 fue prep
 Las condiciones de transporte se establecieron en función de las particularidades del vehículo. Estas estaban sujetas a las disposiciones de la Ril 605.0701, – Cargas extraordinarias –. Para las cargas extraordinarias, se debe solicitar una confirmación de transporte para cargas extraordinarias (Bza) ante DB Netz AG en el marco de la solicitud de franja horaria. La Bza es un documento operativo que sirve a la empresa ferroviaria para la elaboración y tratamiento de las cargas extraordinarias. Los empleados de DB Netz AG (jefes de tráfico, guardagujas) reciben la Bza como orden de horario para su observancia. El cliente mismo, en este caso HCS, establece en su solicitud las condiciones que son importantes para el transporte de su carga extraordinaria.
 
 ## Página 17
+
 
 La solicitud presentada el 18.08.2011 por la HCS, la DB Bza B3-3082/11, válida hasta el 10.12.2011, y la ordenación de horarios Fplo O -020411 Bza B3-3082/11 contenían las siguientes condiciones para el transporte del vagón plataforma baja Uaai 839:
  Maniobrar con precaución,
@@ -351,6 +355,7 @@ La grabación electrónica de marcha para el FIR 51474 fue analizada por la Ofic
 Los registros se normalizaron respecto a la kilometraje de la línea con referencia a la influencia de 1.000 Hz en la ubicación de la señal de entrada 51A en el km 64,000. Los tiempos indicados a continuación se han extraído del desarrollo de la marcha tabular. Se trata de tiempos del sistema y pueden diferir del tiempo real. La locomotora (Tfz) estaba equipada con un sistema de seguridad de tren inductivo de la tipología PZ 80 R con programa de operación PZB 90 y almacenamiento en tarjeta de memoria (sistema DAREC DSE8-GMR). En el desarrollo de la marcha no se registraron irregularidades durante el trayecto desde la estación de Seddin hasta la estación de Wiesenburg (Mark).
 
 ## Página 18
+
 
 No se registraron irregularidades desde la estación de Seddin hasta la estación de Wiesenburg (Mark). No se superaron las velocidades máximas permitidas según los documentos de horarios. No se apreciaron anomalías que pudieran hacer suponer un descarrilamiento. En particular, en el tramo tras el descarrilamiento ocurrido aproximadamente en el km 65,6 hasta la reentrada en vía única aproximadamente en el km 70,4 no se registraron ni caídas bruscas de velocidad ni frenadas de servicio o de emergencia iniciadas por el maquinista.
 La representación gráfica del desarrollo de la marcha contenida en la figura 5 muestra aproximadamente en el km 64,0 una influencia de 1.000 Hz con pulsación del botón de vigilancia a aproximadamente 47 km/h.
@@ -374,7 +379,17 @@ El vagón está compuesto por dos partes de vagón, que se denominan a continuac
 
 ## Página 19
 
+verbindung 51W10/51W11 recorrió, la velocidad era de unos 33 km/h. El descarrilamiento del vehículo se produjo aproximadamente a las 10:29:10 horas, cerca del pk 65,6, a una velocidad de unos 43 km/h. Después, el tren continuó circulando a velocidad constante hasta la realineación. En el transcurso de la marcha no se aprecian indicios de actuaciones erróneas del conductor del vehículo tractor que pudieran haber causado el accidente.
+Se descartaron influencias causales o favorecedoras del descarrilamiento derivadas de las actuaciones del conductor del vehículo tractor.
+### 4.7 Examen de los vehículos
+La circulación del tren FIR 51474 desde la estación de Seddin hasta la estación de Seelze estaba compuesta por un vehículo tractor con el número de vehículo 91 80 6155 213-2 y 27 vehículos adicionales. El tren tenía un total de 126 ejes, con una longitud total de 453 m y un peso total del tren de 1.768 t. El vagón de carga pesada Uaai 839, que posteriormente descarriló, número de vehículo 86 80 9972 901-4, circulaba al final de la composición del tren. La formación del tren se realizó en la estación de Seddin.
+No se apreció ninguna influencia del vehículo tractor ni de los vehículos que no descarrilaron en el desarrollo de los acontecimientos. Por lo tanto, estos vehículos no fueron objeto de ulterior examen.
+### 4.7.1 El vagón de carga pesada Uaai 839
+El vagón de carga pesada de tipo especial Uaai 839 figura en la Ril 93490 – Listado de vagones de carga pesada – y fue diseñado para el transporte de mercancías de gran tamaño y gran peso. Los croquis de construcción y los accesorios se representan en la Ril 934.9003.
+El vagón consta de dos partes de vagón, que a continuación se denominan semivagón 1 y semivagón 2. La construcción básica del vagón de carga pesada Uaai 839 consta de ocho bogies con cuatro juegos de ruedas cada uno, de los cuales dos se agrupan mediante ejes de pivote y pequeñas puentes de unión. Dos pequeñas puentes de unión se conectan entre sí mediante un gran puente de unión para formar un semivagón. Los cuatro soportes de carga están designados respectivamente con las letras A y B, así como con los números de los semivagones, es decir, para el semivagón 1 con A 1 y B 1, y para el semivagón 2 con A 2 y B 2. Están montados lateralmente en las cabezas de dos miembros de guiado mediante pernos verticales y se apoyan a través de estos, mediante cazoletas, en el centro de los grandes puentes de unión. Las cazoletas están dispuestas de forma móvil sobre pasadores y pueden desplazarse desde la posición central, en sentido transversal al eje longitudinal del vehículo, hacia la derecha y hacia la izquierda en 550 mm respectivamente.
+
 ## Página 20
+
 
 De este modo, los puntos de giro de los soportes de los puntos de guiado, denominados puntos de guiado, pueden variarse en función de las tareas de transporte, sin que se pierda la función de apoyo de las placas giratorias. Para el desplazamiento de los puntos de giro, se han instalado en los soportes de los puntos de guiado sendos pernos de guiado accionados hidráulicamente para el guiado central y el guiado interior, que se introducen en los orificios alargados de las grandes vigas de unión. En el guiado exterior, las placas giratorias constituyen los puntos de giro. Gracias a las posibilidades de variación de los puntos de giro, a pesar de la longitud del vehículo, son posibles las circulaciones por curvas de distinto radio, que, sin embargo, en la configuración más favorable (guiado exterior) no deben ser inferiores a un radio mínimo de 75 m.
 
@@ -386,8 +401,8 @@ Figura 6: Esquema del sistema del vagón plataforma baja Uaai 839 (con carga)4
 
 4 Fuente: Ril 934.9003, elaborado por BEU
 
-
 ## Página 21
+
 
 Para las circulaciones en vacío, los dos semivagones se conectan entre sí mediante un sistema de acoplamiento corto, que se representa en la figura 7 en un vehículo de referencia. Este sistema consta de cuatro componentes principales y está diseñado de tal manera que, en interacción con las barbas de soporte en el extremo superior de los husillos de compresión, actúen exclusivamente fuerzas de compresión y todas las fuerzas de tracción sean absorbidas por las uniones de las placas de tracción inferiores.
 
@@ -399,8 +414,8 @@ La figura 8 muestra el vagón plataforma baja Uaai 839, después de que el tren 
 
 5 Fuente: DB Schenker AG, elaborado por la BEU
 
-
 ## Página 22
+
 
 Figura 8: Vagón plataforma baja Uaai 839 tras el descarrilamiento6
 
@@ -426,8 +441,8 @@ Tabla 2: Datos técnicos del vagón plataforma baja Uaai 839
 
 6 Fuente: DB Schenker AG, elaborado por la BEU
 
-
 ## Página 23
+
 
 El vehículo descarrilado se preparó en el taller de Jänschwalde para una circulación en vacío. El transporte se realizó según la Bza con guiado exterior. Para las circulaciones en vacío, como se puede observar en la figura inferior, las cuatro barbas de soporte se bloquean en el extremo inferior de los soportes de los puntos de guiado mediante uniones de placa-perno en lugar de las tensiones de las barbas de soporte.
 
@@ -441,8 +456,8 @@ El sistema del acoplamiento corto solo funciona de forma fiable si las barbas de
 
 7 Fuente: DB Schenker AG, elaborado por la BEU
 
-
 ## Página 24
+
 
 ### 4.7.2 Inspecciones del vehículo
 
@@ -458,8 +473,8 @@ En la barba de soporte A 2 faltaba, como se puede ver en la siguiente figura, el
 
 8 Fuente: DB Schenker AG, elaborado por la BEU
 
-
 ## Página 25
+
 
 Figura 11: Bloqueo en la barba de soporte A 29
 
@@ -469,20 +484,21 @@ Tampoco en la barba de soporte B 2 se garantizaba el bloqueo. Las uniones de pla
 
 ## Página 26
 
+
 Figura 12: Atenuación en el gancho de soporte B 210
 La Figura 13 aclara mediante una representación esquemática el error de montaje en las uniones de placa y perno del gancho de soporte B 2.
 10 Fuente: DB Schenker AG, elaborada por la BEU
 
-
 ## Página 27
+
 
 Figura 13: Representación esquemática de la unión de placa y perno
 Figura 14: Superficies de fractura en el pasador de seguridad y en el pasador de seguridad tipo cotter11
 Las superficies de fractura del pasador de seguridad y del pasador de seguridad tipo cotter presentaban rastros de corrosión, que se pueden apreciar en la Figura 14. Estos indicaban un debilitamiento de las secciones transversales debido a un comportamiento de fatiga por rotura cíclica. Las secciones transversales residuales aún portantes absorbían menos del 50 % de la
 11 Fuente: DB Schenker AG, elaborada por la BEU
 
-
 ## Página 28
+
 
 áreas de sección transversal total. Además, es visible que la sección transversal circular nominal del pasador de seguridad estaba aplanada unilateralmente.
 ### Acoplamiento corto
@@ -492,8 +508,8 @@ Figura 15: Daños en la parte central del vehículo accidentado con acoplamiento
 Los platos de compresión, que deben absorber las fuerzas de compresión externas a través de la conexión con los husillos de compresión, estaban en parte muy deformados. En el husillo de compresión del gancho de soporte B 1
 12 Fuente: DB Schenker AG, elaborada por la BEU
 
-
 ## Página 29
+
 
 faltaba la placa de compresión, que sirve como contraparte del plato del acoplamiento en el gancho de soporte.
 La placa de compresión fue encontrada en las inmediaciones del lugar del descarrilamiento. Las uniones de brida de la arriostradura en el extremo superior del acoplamiento estaban rotas. Las barras de arriostramiento en la parte inferior estaban dobladas o pandeadas. Las uniones de placa y perno entre la parte inferior del acoplamiento y los ganchos de soporte A 1, B 1 y B 2 ya no eran funcionales.
@@ -504,16 +520,16 @@ La siguiente Figura 17 muestra un pasador de seguridad dañado, que fue encontra
 Debido al daño en el pasador de seguridad, su función como elemento de seguridad ya no estaba garantizada plenamente.
 13 Fuente: DB Schenker AG, elaborada por la BEU
 
-
 ## Página 30
+
 
 Figura 17: Pasador de seguridad dañado
 ### 4.7.3 Documentación del mantenimiento continuo del vagón plataforma baja Uaai 839
 La documentación del mantenimiento continuo del vehículo estaba disponible.
 En el propio vehículo no se detectaron irregularidades adicionales a las descritas. La revisión de la documentación del mantenimiento continuo del vehículo, así como de la documentación de los trabajos periódicos, no arrojó irregularidades.
 
-
 ## Página 31
+
 
 ## 5 Análisis
 El capítulo 5 Análisis se ocupa de la reconstrucción de los hechos. Sobre la base de las constataciones mencionadas anteriormente, se recopila un curso plausible del incidente peligroso. Los conocimientos relevantes se evalúan a continuación y, si procede, conducen a las conclusiones correspondientes.
@@ -523,6 +539,7 @@ El 23.08.2011, el FIR 51474 con el vagón plataforma baja Uaai 839 como último 
 Estos daños en la vía fueron reportados aproximadamente a las 10:58 horas por el maquinista del tren de pasajeros RE 18714 que circulaba en la dirección Wiesenburg (Mark) – Belzig al operador de tráfico (özF) de Michendorf a través de GSM-R.
 
 ## Página 32
+
 
 El vagón plataforma baja se había reintegrado autónomamente a la vía en el cruce a nivel (BÜ) en el pk 70,4. El FIR 51474 circuló posteriormente hasta la estación principal de Magdeburg (Magdeburg Hauptbahnhof), donde fue estacionado aproximadamente a las 12:13 h.
 
@@ -536,6 +553,7 @@ Es de suponer que durante el paso por las curvas de vía estrechas en la entrada
 
 ## Página 33
 
+
 Al salir de la vía de adelantamiento mediante los puntos 51W10 y 51W11 con curvas estrechas y opuestas, se produjo una descarga de la conexión resistente a esfuerzos (kraftschlüssige Verbindung) entre el acoplamiento corto y los soportes de carga, así como un desplazamiento del acoplamiento corto desde su posición nominal hacia la izquierda en dirección de marcha. Como resultado, se perdió definitivamente la conexión resistente a esfuerzos entre el acoplamiento corto y los dos semivagones. Como consecuencia, los soportes de carga se apoyaron sobre los bogies que circulaban en la cuarta y quinta posición del vagón en dirección de marcha. Esto provocó la descarga de varios ejes de los bogies que circulaban en la tercera y cuarta posición de la parte delantera del vagón plataforma baja Uaai 839. Posteriormente, se produjo el despegue de los rieles y el sobrepaso de las cabezas de riel.
 
 Se pudieron excluir influencias causales del evento procedentes de la infraestructura, de la tecnología de dirección y protección o de las acciones operativas del administrador de infraestructura. No se pudo demostrar a lo largo de las complejas investigaciones una mala manipulación del vagón con soporte de carga en la estación de Seddin (Bf Seddin) desde el punto de vista de las maniobras.
@@ -543,6 +561,7 @@ Se pudieron excluir influencias causales del evento procedentes de la infraestru
 En desviación de las condiciones de la autorización especial (Bza), durante los viajes del tren desde la estación de Peitz Ost (Bf Peitz Ost) hasta la estación principal de Magdeburg (Magdeburg Hauptbahnhof) se prescindio del acompañamiento del vehículo por un empleado de HCS/NCS. El explotador de vías (EVU) aceptó esta desviación de la autorización especial (Bza). El vagón circuló durante cuatro kilómetros en estado descarrilado sin que el maquinista, el conductor de tren (özF) u otro personal de explotación se diera cuenta del descarrilamiento. Con el acompañamiento del vehículo, habría existido la posibilidad de, al menos, minimizar los daños secundarios del descarrilamiento.
 
 ## Página 34
+
 
 ## 6 Medidas adoptadas hasta la fecha
 

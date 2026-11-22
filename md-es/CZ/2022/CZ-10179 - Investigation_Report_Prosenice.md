@@ -10,13 +10,13 @@ chars: 256391
 ratio_longitud: 1.26
 tokens_in: 108997
 tokens_out: 77865
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 74: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras cortas: 1/17", "página 13: cifras cortas: 2/18", "página 14: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/26"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -71,8 +71,8 @@ Consecuencias:
 sin daños personales;
 daño total 28 479 130 Kč.
 
-
 ## Página 4
+
 
 Causas inmediatas:
 •
@@ -128,8 +128,8 @@ control del cumplimiento de las obligaciones de las personas físicas o jurídic
 acreditadas para la formación según el § 46j apartado 4 de la Ley n.º 266/1994 
 Sb., de vías férreas, en su versión vigente.
 
-
 ## Página 5
+
 
 •
 Al Ministerio de Transporte de la República Checa:
@@ -149,8 +149,8 @@ incl. la seguridad jurídica, y la práctica no impida a los destinatarios de la
 obligación jurídica correspondiente su aplicación rigurosa, de manera similar 
 a lo que ocurre con la parte teórica de dicha formación.
 
-
 ## Página 6
+
 
 ## SUMMARY
 13th January 2022, 22:54 (21:54 GMT).
@@ -204,8 +204,8 @@ Recommendation:
 Addressed to the Czech National Safety Authority (NSA) in cooperation with Czech 
 Ministry of Transport:
 
-
 ## Página 7
+
 
 •
 to create a legal framework and system, by which will expand the scope and 
@@ -239,6 +239,7 @@ obligation were not hindered by practice in its consistent application, similar 
 case of the theoretical part of the given training.
 
 ## Página 8
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -280,8 +281,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................57
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................57
 
-
 ## Página 9
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................57
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................57
@@ -311,8 +312,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................73
 ANEXOS..............................................................................................................................75
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -409,6 +410,7 @@ estación de ferrocarril
 
 ## Página 11
 
+
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 Directiva 2007/59/CE
 DIRECTIVA 2007/59/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO 
@@ -463,8 +465,8 @@ reglamento RCC-CZ P3
 reglamento interno del transportista RCC-CZ «P 3 Reglamento para 
 las tripulaciones de locomotora», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 12
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -500,8 +502,8 @@ y el decreto núm. 376/2006 Sb.
 El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar; 
 la DI fue progresivamente proporcionando la información requerida para la investigación de las causas y circunstancias de la ocurrencia de la MU.
 
-
 ## Página 13
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos 
 y los hallazgos indicados en el informe
@@ -550,8 +552,8 @@ colisión de VDT x VDT.
 Grupo de MU:
 accidente grave.
 
-
 ## Página 14
+
 
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
@@ -584,8 +586,8 @@ en el pk 191,768, que indicaba la señal «Alto».
 Fig. núm. 2: Esquema del lugar de la ocurrencia de la MU en el extremo de Lipník de la estación de Prosenice
 Fuente: DI (base cartográfica: mapy.cz)
 
-
 ## Página 15
+
 
 De la inspección del lugar de la MU se acreditó:
 Durante la inspección se procedió en la estación de Prosenice a partir del VDT 91 81 1 293 198-8 A-ÖBB (en adelante 
@@ -631,6 +633,7 @@ El plazo previsto para la finalización de las exclusiones fue fijado por SŽ a 
 
 ## Página 16
 
+
 •
 La estación de Prosenice estaba, para las necesidades de la dirección local de la estación en el DK, ocupada por un jefe de estación interior (en adelante, jefe de estación de servicio interior) y un jefe de estación exterior (en adelante, jefe de estación de servicio exterior). En el extremo hacia Lipník n. B. se había establecido el puesto de supervisor de desvíos St I y en el extremo hacia Přerov/la desviadora Dluhonice se había establecido el puesto de supervisor de desvíos St II. La libertad de la vía de tren era comprobada por los empleados participantes en la preparación de la vía de tren mediante la inspección visual del tramo de vía en el ámbito de responsabilidad designado. Los desvíos eran maniobrados por el jefe de estación de servicio interior mediante la operación de la SZZ de la estación de Prosenice desde el JOP, situado en el DK de la estación de Prosenice, previa comprobación de la libertad del tramo de vía correspondiente mediante inspección visual en su propio ámbito de responsabilidad, es decir, tras la comprobación de la libertad de la vía de tren por todos los empleados participantes en la preparación de la vía de tren concreta y la realización de la notificación prescrita (a los supervisores de desvíos St I y St II), respectivamente, del registro en el diario de circulación (por el jefe de estación de servicio exterior), al jefe de estación de servicio interior. Las vías de tren se aseguraban mediante un cierre de emergencia realizado por el jefe de estación de servicio interior al operar la SZZ de la estación de Prosenice desde el JOP.
 Los trenes circulaban entre la estación de Lipník n. B. y Prosenice en el tramo intermedio y en las direcciones correctas, asegurados mediante comunicación telefónica (notificación telefónica); las señales de tramo TZZ – de tres aspectos AB – fueron anuladas;
@@ -644,8 +647,8 @@ los aspectos mostrados por la señal de entrada 1S de la estación de Prosenice 
 •
 la señal de salida S1 de la estación de Prosenice mostraba el aspecto «Alto», estaba situada a la derecha directamente junto a la SK n.º 1 en el km 191,768. Se trataba de una señal del tipo AŽD 70, que por su construcción era una señal unidireccional, de mástil, con cinco lámparas de señal con parasoles. La señal estaba marcada con una placa de identificación roja de forma rectangular con borde blanco, que contenía el texto blanco «S1», una banda de identificación con franjas rojas y blancas, que eran de longitud menor que las rojas, y una placa indicadora negra colocada en el lado corto, con borde blanco y el dígito blanco «5». La señal no presentaba ningún daño.
 
-
 ## Página 17
+
 
 El 14 de enero de 2022 a las 2:11 h, en presencia del DI, un empleado de SŽ realizó la medición de tensión en el bombillo de la luz roja – el valor medido fue de 10,9 V;
 •
@@ -661,8 +664,8 @@ el aspecto «Alto» mostrado por la señal de salida S3 de la estación de Prose
 •
 la vía de tren (vía de tren de tren) (en adelante, vía de tren) para la salida del tren Pn 52479 estaba establecida desde la SK n.º 3 de la estación de Prosenice desde la señal de salida S3, a través del desvío n.º 5 en punta desde la dirección de desvío derecha, a través del desvío n.º 4 en dirección directa contra punta y a través del desvío n.º 1 en dirección directa en punta hacia la TK n.º 1 Prosenice – Lipník n. B.;
 
-
 ## Página 18
+
 
 •
 la vía de tren para el tren Nex 43404 estaba establecida desde la TK n.º 1 Přerov – Prosenice desde la señal de entrada 1S, a través del desvío n.º 29 en dirección directa en punta, a través del desvío n.º 28 en dirección directa contra punta, a través del desvío n.º 23 en dirección directa en punta y a través del desvío n.º 22 en dirección directa contra punta hacia la SK n.º 1 de la estación de Prosenice hasta la señal de salida S1.
@@ -684,8 +687,8 @@ en los rieles y elementos de fijación de la SK n.º 1 y su continuación en el 
 •
 el DK de la estación de Prosenice era en el momento de la formación del MU el puesto del jefe de estación de servicio interior, que organizaba y dirigía el tráfico ferroviario en la estación de Prosenice y, en colaboración con el jefe de estación del puesto auxiliar de la estación de Hranice na Moravě, el despachador de sección de la estación de pasajeros de la estación de Přerov y el jefe de la desviadora Dluhonice, también en los tramos intermedios adyacentes;
 
-
 ## Página 19
+
 
 •
 la actividad de la SZZ y los estados actuales de la SZZ controlada localmente desde el JOP en el DK de la estación de Prosenice se mostraban (indicaban) al empleado operativo, es decir, al jefe de estación de servicio interior, en monitores con el esquema de la vía y con las listas de estados de la tecnología de la SZZ. De acuerdo con la realización de la interrupción según el ROV 15003 (etapas A, B, C), se desconectaron de la actividad los circuitos de vía de la SZZ de la estación de Prosenice, la TZZ en el tramo intermedio Lipník n. B. – Prosenice (ambas TK) y la PZZ ŽP P6491 en el km 194,724. En el momento de la inspección del lugar del MU, el monitor con el esquema de la vía de la estación de Prosenice y de parte de los tramos intermedios adyacentes mostraba:
@@ -710,6 +713,7 @@ la actividad de la SZZ y los estados actuales de la SZZ controlada localmente de
 
 ## Página 20
 
+
 estación de Prosenice. La flecha de la autorización de vía se mostraba en color azul, es decir, que el tramo intermedio correspondiente estaba ocupado por DV – el tren Služ 52884,
 ▪en TK n.º 1 Přerov – Prosenice y 1S Prosenice – apartadero Dluhonice mostraban la información de que la autorización de vía se había concedido en dirección hacia la propia estación, es decir, desde la estación de Přerov, respectivamente desde el apartadero de Dluhonice, hasta la estación de Prosenice. Las flechas de ambas autorizaciones de vía se mostraban en color blanco, es decir, que en los tramos intermedios correspondientes no se encontraba ninguna DV,
 ▪en TK n.º 2S apartadero Dluhonice – Prosenice mostraba la información de que la autorización de vía se había concedido en dirección hacia la propia estación, es decir, desde el apartadero de Dluhonice hasta la estación de Prosenice. La flecha de la autorización de vía se mostraba en color azul, es decir, que el tramo intermedio correspondiente estaba ocupado por DV – el tren Nex 43204,
@@ -727,8 +731,8 @@ en el DK de la estación de Prosenice se encontraban, entre otros:
 •
 en la columna 1, la abreviatura de tipo de tren "Pn" y el número de tren "52479";
 
-
 ## Página 21
+
 
 •
 en la columna 3, el dato horario de la salida prevista del tren:
@@ -767,8 +771,8 @@ en la columna 7, el dato de la vía de entrada y salida n.º 4,
 •
 en la columna 9, el dato horario de la comprobación de la libre circulación del tren por el jefe de estación de servicio exterior de la estación de Prosenice para la entrada (llegada) del tren a la vía n.º 4 y de su comunicación verbal al jefe de estación de servicio interior de la estación de Prosenice a las
 
-
 ## Página 22
+
 
 22:40 h – el dato horario fue confirmado en la columna 8 con la firma del jefe de estación de servicio exterior,
 •
@@ -799,8 +803,8 @@ en el puesto del supervisor de agujas St I se encontraron, entre otros:
 ◦el libro "ENTREGA DEL SERVICIO DE TRÁFICO Puesto St1 ESTACIÓN PROSENICE" iniciado el 12. 1. 2022. La última entrada era la de entrega del servicio de tráfico del 13. 1. 2022 a las 18:00 h, documentando la entrega del servicio de tráfico por parte del supervisor de agujas St I del turno de día y la recepción del servicio de tráfico por parte del supervisor de agujas St I del turno de noche,
 ◦el registro "REGISTRO DE LIBERTAD Y POSICIÓN CORRECTA DE LA VÍA DEL TREN Puesto St1 ESTACIÓN PROSENICE", iniciado el 12. 1. 2022 (que contenía 100 páginas),
 
-
 ## Página 23
+
 
 que contenía, entre otros, las siguientes entradas del supervisor de agujas St I sobre la preparación de la vía del tren:
 ▪para el tren Služ 52884, circulando desde TK n.º 2 Lipník n. B. – Prosenice a la vía n.º 4 de la estación de Prosenice, se comprobó y comunicó la libertad de la vía del tren en el tramo de vía dentro del ámbito de responsabilidad asignado al supervisor de agujas St I el 13. 1. 2022 a las 22:46 h,
@@ -825,6 +829,7 @@ en la cabina de conducción 1 (delantera en el sentido de circulación del tren)
 
 ## Página 24
 
+
 Olomouc hlavní nádraží – Ostrava-Kunčice, que contenía la misma información que la orden escrita n.º 0000043-327 arriba indicada,
 ◦el registro «Mezinárodní zpráva o brzdění» (Informe internacional de frenado), redactado según la documentación del tren sobre la realización de la prueba simple de freno del tren n.º 52479 en la estación de Olomouc, que finalizó el 13. 1. 2022 a las 13:15 h. El registro contenía datos sobre la composición y el frenado del tren (véase el punto 3.1.7 de esta ZZ),
 ◦el «Výkaz vozidel pro nákladní vlak» (Hoja de vehículos para tren de mercancías) n.º 52479, elaborada en la est. Olomouc hl. n., ámbito de la estación, el 13. 1. 2022, que contiene información sobre la composición del tren (véase el punto 3.1.7 de esta ZZ),
@@ -846,8 +851,8 @@ La marca de inicio del tren no pudo determinarse de forma verificable durante la
 •
 El frente del tren (HDV 363.022-5) se encontraba en su posición final tras la MU en el extremo de Lipník de la est. Prosenice en el km 191,967, tras el desvío n.º 4, a una distancia de 198,9 m tras la señal de salida S3. El HDV 363.022-5 estaba acoplado y conectado mediante la tubería del freno automático de aire continuo (en adelante, tubería principal) con el TDV no descarrilado D-GATXD 37 80 4723 842-3 Snps199 (en adelante, 37 80 4723 842-3), enganchado como 1.º TDV tras el HDV;
 
-
 ## Página 25
+
 
 •
 el final del tren se encontraba en la SK n.º 3 en el km 191,437;
@@ -858,8 +863,8 @@ Fig. n.º 4: Vista desde la pieza delantera (parte «b») del 4.º TDV 37 80 465
 •
 El TDV de dos piezas 37 80 4657 019-8, enganchado como 4.º TDV tras el HDV, se encontraba con ambas piezas (partes «a» y «b») gravemente dañado, incluso con los bogies volcados sobre el costado derecho (larguero) a la derecha del desvío n.º 5. De los bogies, el más dañado fue el bogie delantero de la pieza trasera (parte «a»), que quedó embutido con su parte delantera derecha en el balasto. A la altura del bogie se encontraba el eje delantero caído del bogie (4.º eje del TDV), que yacía con la rueda izquierda entre los cantos de la vía de la parte central del desvío n.º 5, y con la rueda derecha fuera del cantil izquierdo de la aguja del desvío. Ambas piezas (partes «a» y «b») del TDV estaban unidas entre sí mediante la barra de tracción-compresión/dispositivo de tracción-compresión. En el tornillo de acoplamiento de la pieza trasera (parte «a») se constató el travesaño del tornillo de acoplamiento arrancado. La carga de madera rolliza de ambas piezas del TDV se derramó a la derecha sobre el terraplén del cuerpo ferroviario, apoyándose sobre la superficie de carga de la pieza trasera del TDV (parte «a») el
 
-
 ## Página 26
+
 
 torso del bogie delantero de la pieza delantera (parte «b») del TDV D-IF 37 80 4657 040-4 Sggmrrs (en adelante, 37 80 4657 040-4), enganchado como 5.º TDV tras el HDV.
 En la 1.ª bula izquierda del TDV 37 80 4657 019-8 se constató la 1.ª huella de roce producida por la colisión con el HDV 1293.198-8 del tren Nex 43404. Esta huella se encontraba a 128 cm tras el frontal de la pieza delantera (parte «b»), en la parte inferior de la bula. También eran apreciables huellas de contacto con el HDV 1293.198-8 en otras bulas del TDV.
@@ -869,8 +874,8 @@ El TDV de dos piezas 37 80 4657 040-4, enganchado como 5.º TDV tras el HDV, se 
 •
 El TDV de dos piezas D-IF 37 80 4657 014-9 SggmrrsS240 (en adelante, 37 80 4657 014-9), enganchado como 6.º TDV tras el HDV, quedó encañonado con su pieza delantera (parte «b»), y concretamente con su lado izquierdo de los traviesas y bulas del suelo, en el costado derecho de la caja de la locomotora del HDV del tren Nex 43404. La pieza delantera (parte «b») estaba inclinada a la derecha de tal manera que todas las ruedas derechas (1P a 4P) de la pieza delantera estaban sin descarrilar sobre el cantil derecho en el punto de continuación de la SK n.º 3, y las ruedas izquierdas (1L y 2L) del bogie delantero se encontraban con sus superficies de rodadura a una altura de aprox. 35 cm y las ruedas izquierdas (3L y 4L) del bogie trasero a aprox. 2 cm sobre la cabeza del cantil izquierdo en el punto de continuación de la SK n.º 3. Ambas piezas del TDV estaban unidas entre sí mediante la barra de tracción-compresión. La pieza trasera (parte «a») no estaba descarrilada, no tocaba ningún DV del tren Pn 52479 y estaba acoplada y conectada mediante la tubería principal con el TDV enganchado como 7.º TDV tras el HDV;
 
-
 ## Página 27
+
 
 •
 con excepción de los daños en el TDV producidos como consecuencia de la MU, la inspección no constató ningún hecho sobre el uso de los DV del tren Pn 52479 en la explotación del transporte ferroviario en un estado técnico que no correspondiera a la aptitud aprobada;
@@ -894,6 +899,7 @@ El maquinista conducía el tren Nex 43404, observaba la vía y las señales, des
 
 ## Página 28
 
+
 se encontraba solo. Con la inspección de la cabina y del puesto de conducción del conductor 2 no se constató nada que impidiera al conductor, antes de la aparición del MU, observar sin obstrucciones la vía, las señales y actuar según los hechos constatados. En la cabina del conductor 2 se constató, entre otros:
 ◦la orden escrita „VŠEOBECNÝ rozkaz pro vlak č. 43404“ (Orden general para el tren n.º 43404), n.º 0000012-583, de fecha 13. 1. 2022, emitida en la estación „Břeclav PBa Jih“. La orden escrita para la ruta Přerov – Bohumín-Vrbice contenía el texto:
 ▪sobre la desconexión de la sección de vía del ETCS: „Vigencia desde el 12.01.2022 a las 7:15 h hasta el 23.01.2022 a las 17:00 h: Entre la est. Přerov y Prosenice, en la est. Prosenice y entre la est. Prosenice y Lipník nad Bečvou queda desconectada de servicio la sección de vía del ETCS.“,
@@ -908,8 +914,8 @@ se encontraba solo. Con la inspección de la cabina y del puesto de conducción 
 Nota DI: a esta posición fue girado el conmutador de llave por el conductor, tras la aparición del MU, desde la posición de encendido, cuando intentaba evitar daños adicionales,
 ◦el pulsador de parada de emergencia no estaba pulsado, es decir, se encontraba en la posición básica,
 
-
 ## Página 29
+
 
 ◦el pulsador de accionamiento de los colectores de corriente de tracción se encontraba en la posición de apagado de emergencia (SOS),
 ◦el pulsador de accionamiento del interruptor principal se encontraba en posición neutra (intermedia, bloqueada),
@@ -937,8 +943,8 @@ en la sala de máquinas del HDV se constató, entre otros:
 ▪en el conmutador de llave derecho, en posición vertical básica, insertada la llave amarilla, que estaba unida por una cadena a la llave para el desbloqueo del bus del tren,
 ▪la manija del separador de puesta a tierra en posición vertical – interruptor principal abierto,
 
-
 ## Página 30
+
 
 ◦en el panel de mando de la caja eléctrica del freno se constató, entre otros:
 ▪el conmutador giratorio de activación del frenado posterior en la posición „I“ – función de frenado posterior activa,
@@ -966,8 +972,8 @@ en la sala de máquinas del HDV se constató, entre otros:
 ▪el conmutador giratorio SOS radio – parada de emergencia en posición bloqueada de servicio – la parada por radio estaba activada,
 ◦en la caja de las seguridades del tren 1 y 2 se encontraba el dispositivo registrador – la unidad electrónica TRU (Trainborne Recording Unit, n.º DTR0000478365). Ni la caja ni la unidad presentaban daños derivados del MU en cuestión.
 
-
 ## Página 31
+
 
 Nota DI: debido a la imposibilidad de descargar los datos registrados por el dispositivo registrador instalado en el HDV, el inspector de DI selló con el sello de DI la puerta de la caja de las seguridades 1 y 2 el 14. 1. 2022 a las 4:30 h durante la inspección del HDV. La confirmación de la colocación del sello de DI fue entregada por el inspector de DI al representante del operador RCC-CZ. El motivo de la colocación del sello de DI fue garantizar (preservar y asegurar) el estado del dispositivo registrador del HDV, incluidos los datos registrados por él, hasta que se permita su descarga mediante los dispositivos técnicos del propietario del HDV en presencia del inspector de DI y hasta que se permita su posterior archivado;
 •
@@ -994,6 +1000,7 @@ noche, est. Prosenice iluminada con alumbrado artificial,
 - 1 °C, la visibilidad no estaba reducida por influencias meteorológicas.
 
 ## Página 32
+
 
 Datos geográficos:
 La vía SK n.º 1 de la estación de Prosenice discurría, en el sentido de la marcha del tren Nex 43404, desde el pk 190,677 hasta el pk 191,270 en un arco derecho de radio 945 m con transiciones y, a continuación, en línea recta hasta el lugar de origen del MU. Los datos geográficos no tuvieron ninguna influencia en la aparición del MU.
@@ -1032,8 +1039,8 @@ Transportista (ČDC):
 •
 maquinista del tren Pn 52479, empleado de ČDC.
 
-
 ## Página 33
+
 
 Transportista (RCC-CZ):
 •
@@ -1067,8 +1074,8 @@ El transportista del tren Pn 52479 era ČDC, con domicilio en Jankovcova 1569/2c
 |  |  | 12 . | DIF37804657059 4 - - | P |
 |  |  | 13 . | DIF37804657054 5 - - | P |
 
-
 ## Página 34
+
 
 | 14 . | ASKBIN35814657030 6 - - | P |
 | 15 . | AIF35814657156 9 - - | P |
@@ -1090,8 +1097,8 @@ Del registro de la marcha del tren Pn 52479 registrado por el RR instalado en la
 | • a las 22:54:22 h | a una velocidad de 12 7 km·h-1 , como consecuencia de la rotura del tren, la presión del aire en la tubería principal se redujo desde el valor nominal de 4 826 bar a , 3 135 bar; , |
 | • a las 22:54:29 h | el tren Pn 52479 se detuvo con la parte delantera de la HV en la posición final tras el MU . |
 
-
 ## Página 35
+
 
 Tren:
 Nex 43404
@@ -1200,6 +1207,7 @@ El estado real del tren Nex 43404 comprobado en el lugar del MU correspondía a 
 
 ## Página 36
 
+
 HDV 1293.198-8 es una locomotora modular multisistema de cuatro ejes (15 kV/16,7 Hz, 25 kV/50 Hz y 3 kV), tipo X4-E-Lok-AB (Vectron MS), de carrocería cerrada, con una potencia de 6 400 kW y una velocidad máxima de 160 km·h-1, con dos cabinas frontales de conductor. La construcción de las cabinas y la disposición de los elementos de mando e indicación en la mesa de mando del puesto de conductor permite al conductor conducir el HDV, observar sin obstrucciones la vía y las señales, tanto sentado como de pie. El HDV está equipado, entre otros, con freno neumático y dinámico (EDB). El efecto de frenado requerido se consigue en caso de:
 •
 freno neumático por fricción de las pastillas de freno, presionadas mediante los cilindros de freno de las unidades de freno, contra los discos de freno situados directamente en los discos de las ruedas;
@@ -1213,8 +1221,8 @@ Del registro de viaje del tren Nex 43404 grabado por el RR instalado en el HDV 1
 •
 a las 22:41:57 h el tren se puso en marcha en la est. Přerov, ámbito de la entrada a la estación;
 
-
 ## Página 37
+
 
 a las 22:51:56 h el frente del tren a una velocidad de 53,4 km·h-1 pasó el nivel de la señal de entrada 1S de la est. Prosenice, en el panel del repetidor de señal se apagó la luz roja. La velocidad máxima permitida de 40 km·h-1 fue excedida en 13,4 km·h-1.
 Seguidamente se produce un aumento de la velocidad mediante la aplicación de tracción por el HDV. El frente del tren se encontraba a una distancia de 2 008 m antes del lugar de origen del MU – la señal de salida S1;
@@ -1231,8 +1239,8 @@ a las 22:54:04 h el frente del tren a una velocidad de 17,1 km·h-1 pasó el hit
 a las 22:54:09 h el frente del tren circulando a una velocidad de 0,4 km·h-1 se encontraba en el punto donde impactó contra el 4.º TDV del tren Pn 52479 circulando en la misma dirección.
 Durante los 13 s siguientes se registró una velocidad no nula del HDV sin registro de la distancia recorrida, lo que fue causado por las colisiones del HDV con las distintas piezas (partes) del 4.º al 6.º TDV del tren Pn 52479;
 
-
 ## Página 38
+
 
 •
 la parte móvil del VZ estaba encendida y era operada periódicamente por el conductor durante todo el transcurso del viaje del tren anteriormente mencionado;
@@ -1248,8 +1256,8 @@ La est. Prosenice estaba equipada con un SZZ eléctrico de 3.ª categoría – u
 ámbito n.º 3 – desde las señales de salida L1, L2, L3, L4, L6a hasta las señales de entrada 1DS, 2S, 1S y 2DS, que estaba asignado al supervisor de agujas St II.
 Los tramos entre estaciones Lipník n. B. – Prosenice y Přerov – Prosenice estaban equipados con un TZZ de tres aspectos AB de 3.ª categoría, tipo ABE-1 para tráfico bidireccional, establecido para garantizar la circulación de trenes entre la est. Lipník n. B. y Prosenice, respectivamente entre la est. Přerov y Prosenice. La transmisión de información sobre las señales de las señales principales al DV conductor estaba garantizada, con el TZZ no desconectado, en ambos TK para ambos sentidos. En el momento del origen del MU, el TZZ en el tramo entre estaciones Prosenice – Lipník n. B. estaba desconectado (excluido) de funcionamiento de conformidad con el ROV 15003 etapa B (véase el punto 3.1.3 de esta ZZ).
 
-
 ## Página 39
+
 
 El tramo entre estaciones Prosenice – enclavamiento Dluhonice estaba equipado con un TZZ de tres aspectos AB de 3.ª categoría, tipo AB3/82 para tráfico bidireccional, establecido para garantizar la circulación de trenes entre la est. Prosenice y el enclavamiento Dluhonice. La transmisión de información sobre las señales de las señales principales al DV conductor estaba garantizada en ambos TK para ambos sentidos, los KO evaluaban la ausencia del DV en el tramo vigilado.
 Del análisis de los datos registrados por los ordenadores tecnológicos del SZZ de la est. Prosenice, teniendo en cuenta la desviación temporal entre el tiempo registrado por el SZZ de la est. Prosenice y el tiempo real, se constató, entre otros, que:
@@ -1286,6 +1294,7 @@ a las 22:32:01 h la señal de salida S1 comenzó a indicar PN para la salida del
 a las 22:35:08 h el tren Os 3229 ocupó el KO 1T1 S (pasó el nivel de la señal de sección AB 1-1888 – la última señal de sección AB antes de la señal de entrada 1S de la est. Prosenice);
 
 ## Página 40
+
 
 •
 a las 22:35:30 h la señal de entrada 1S comenzó a indicar PN para la entrada del tren Os 3229 
@@ -1352,8 +1361,8 @@ para la salida del tren Pn 52479 desde la vía de clasificación n.º 3 hacia la
 mutuamente prohibidas (excluidas) por la Tabla de bloqueo ni por las disposiciones 
 del ROV 15003.
 
-
 ## Página 41
+
 
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la 
 información básica
@@ -1415,8 +1424,8 @@ mencionada, sin incidencias relevantes,
 desde la vía de clasificación n.º 1 en dirección a la est. Lipník n. B. Cuando 
 dicho tren liberó íntegramente la vía de clasificación n.º 1, volvió al DK
 
-
 ## Página 42
+
 
 e informó al jefe de estación del servicio interior de que la vía de clasificación n.º 1 
 estaba libre y de que podía finalizar la indicación de PN en la señal de salida S1,
@@ -1472,8 +1481,8 @@ delante de la señal de salida S3, que indicaba la señal «Alto»,
 por la señal de salida S3. Con esta señal puso el tren en movimiento. El arranque 
 del tren fue gradual, ya que la composición del tren tenía un gran peso,
 
-
 ## Página 43
+
 
 ◦poco después del arranque del tren registró una fuga de aire del conducto 
 principal, como consecuencia de la cual el tren se detuvo. Supuso que se había 
@@ -1532,6 +1541,7 @@ interrupción,
 
 ## Página 44
 
+
 ◦asumió el mando de la LO en la est. Břeclav, desde donde continuó como tren de locomotora hasta la est. Kúty para el tren Nex 41810,
 ◦la última comunicación con el despachador CDP tuvo lugar en la est. Břeclav, cuando declaró la preparación del tren Nex 43404 para la salida;
 ◦debido al anuncio de la desconexión del dispositivo de seguridad y a la autorización de
@@ -1552,8 +1562,8 @@ maquinista del tren Nex 43404
 ◦en la est. Břeclav fue informado por una orden escrita – Orden General, por la que fue informado de manera comprobable, entre otros, de que de Prosenice a Lipník n. B. circularía en el tramo intermedio por la vía TK n.º 1, de que las señales de tramo AB no eran aplicables a su circulación y quedaban anuladas, y de que no podía superar la velocidad de 100 km·h-1, lo que fijó como un bloque integral de medidas relacionadas con la intervención, que comienzan de forma diferente a la orden escrita ya en la est. Prosenice y no entre las estaciones
 ### Prosenice y Lipník n. B. La señal «Alto» emitida por la señal de salida S1 de la est. Prosenice la registró, pero no esperaba que fuera aplicable a su circulación,
 
-
 ## Página 45
+
 
 porque del contenido de la orden escrita y de la PN emitida por la señal de entrada 1S de la est. Prosenice obtuvo la impresión de que se trataba del comienzo de la intervención – circulación en el tramo intermedio. A la vez, no se percató de que en la zona de agujas adyacente a la señal de entrada 1S de la est. Prosenice, que emitía la señal PN, y al circular por la vía SK n.º 1, superó la velocidad máxima permitida,
 ◦en la situación de amenaza inminente, en la que a pesar de la aplicación del frenado de acción rápida preveía la colisión con el tren que salía de la vía SK n.º 3, intentó evitar el peligro inminente mediante el uso del freno de acción directa de la LO,
@@ -1581,8 +1591,8 @@ maquinista supervisor
 ◦algunos recuerdan al maquinista del tren Nex 43404, al que debían supervisar durante su entrenamiento práctico, pero no recuerdan los días concretos, los trenes ni las prestaciones durante los que supervisaron al maquinista del tren Nex 43404. El maquinista les pareció técnicamente competente y con interés por la profesión de maquinista, y los entrenamientos prácticos transcurrieron de forma estándar,
 ◦según el maquinista supervisor, que desempeña además de la función de maquinista la función de jefe de explotación en la compañía STROJVŮDCI CZ y la función de
 
-
 ## Página 46
+
 
 lector experto en la compañía RETROLOK, la cuestión del comportamiento del maquinista al circular en PN era contenido de cada formación periódica de los maquinistas.
 El espacio de la est. Prosenice estaba, en el momento de la producción del SU, monitorizado por un sistema de cámaras con grabación. Del análisis de las grabaciones se desprende, entre otros, que:
@@ -1603,14 +1613,15 @@ El jefe de estación de servicio interior de la est. Prosenice inició el turno 
 
 ## Página 47
 
+
 trasitos de tren, tras la finalización del cambio de agujas, se establecieron enlaces de emergencia en las agujas, cerraduras electromagnéticas y autorizaciones de vía afectadas por el tránsito concreto. Durante la duración de la intervención conforme a ROV 15003, es decir, ante la limitación planificada de la explotación de la vía, la dirección del tráfico ferroviario se organizó conforme a VNJŘ, cuya elaboración estaba operativamente justificada por la influencia negativa de la desconexión de partes de SZZ de la estación de Prosenice y de TZZ de ambos TK en el tramo entre estaciones Lipník n. B. – Prosenice sobre la capacidad/rendimiento de la vía y los tiempos de viaje de los trenes.
 La organización del trabajo en la dirección del tráfico ferroviario y en la atención de la SZZ competía íntegramente al jefe de estación de servicio interno, pero en todo caso debía priorizar la seguridad y, a continuación, la precisión (puntualidad) del transporte, lo que en todas las circunstancias tenía prioridad sobre todas las demás actividades.
 El jefe de estación de servicio interno de la estación de Prosenice, tras realizar la preparación del tránsito de tren para la entrada del tren Nex 43404 desde TK n.º 1 Přerov – Prosenice a SK n.º 1 de la estación de Prosenice, permitió la entrada del tren en la estación a las 22:50:08 h, momento en el que la señal de entrada 1S de la estación de Prosenice comenzó a indicar PN. A las 22:51:56 h el tren Nex 43404 rebasó el nivel de la señal de entrada 1S en el extremo de Přerov de la estación de Prosenice y, a través del extremo de Přerov/Dluhonice, continuó su marcha por SK n.º 1 y entró íntegramente en la estación a las 22:52:43 h. Durante la circulación del tren Nex 43404 la DV en el extremo de Přerov de la estación de Prosenice y en el extremo de Přerov/Dluhonice fue supervisada por el vigilante de agujas St II, en SK n.º 1 posteriormente por el jefe de estación de servicio externo y también por el jefe de estación de servicio interno. Los jefes de estación, al paso del tren Nex 43404 junto a DK, registraron una velocidad del tren excesivamente alta y su consiguiente frenado intenso. A continuación se produjo la MU, es decir, la circulación no autorizada del tren Nex 43404 más allá de la señal de salida S1, la colisión con el tren Pn 52479 que salía de SK n.º 3 y el descarrilamiento de la DV de ambos trenes implicados en la MU (véase el punto 3.1.3 de esta ZZ).
 A la circulación del tren Nex 43404 le precedieron en el sentido sur → norte (es decir, Přerov o la desviación de Dluhonice → Lipník nad Bečvou), entre otras, las circulaciones de los trenes Pn 52479 y Os 3229, que se relacionan directamente con la gestión de la secuencia de trenes (el horario de circulación de los trenes) en la estación de Prosenice inmediatamente antes de la producción de la MU.
 El jefe de estación de servicio interno de la estación de Prosenice determinó para la circulación del tren Pn 52479 desde TK n.º 2 desviación de Dluhonice – Prosenice a SK n.º 3 de la estación de Prosenice y permitió la entrada del tren en la estación a las 20:43:05 h, momento en el que la señal de entrada 2DS de la estación de Prosenice comenzó a indicar PN. El tren entró íntegramente en la estación de Prosenice a las 20:46:33 h y en SK n.º 3 el tren se detuvo a las 20:50:08 h, con el frente delante de la señal de salida S3, que indicaba la señal «Alto». Tras el paso de los trenes de transporte de viajeros Ex 549, Ex 1017 y R 1131 por la estación de Prosenice y la posterior recepción de las confirmaciones de llegada de los mencionados trenes por parte del despachador de circulación 2B CDP Přerov, es decir, la información sobre la llegada de los trenes a la estación de Lipník n. B., el jefe de estación de servicio interno de la estación de Prosenice comunicó al despachador de circulación 2B CDP Přerov la salida prevista del tren Pn 52479 de Prosenice por TK n.º 1 Prosenice – Lipník n. B. a la estación de Lipník n. B. A continuación, en colaboración con el vigilante de agujas St I, realizó la preparación del tránsito de tren para la salida del tren Pn 52479 desde SK n.º 3 a TK n.º 1 Prosenice – Lipník n. B. Posteriormente estableció para el mencionado tren un tránsito de tren de emergencia y permitió la salida del tren de la estación a las 21:39:48 h, momento en el que la señal de salida S3 de la estación de Prosenice comenzó a indicar PN. Dado que el maquinista del tren Pn 52479 comunicó a las 21:41:33 h al despachador de circulación 2B CDP Přerov una avería del HDV, el jefe de estación de servicio externo de la estación de Prosenice, con base en esta información del operador, puso fin a las 21:42:28 h a la indicación de PN en la señal de salida S3 y a continuación anuló el tránsito de tren establecido para el tren Pn 52479, así como la salida prevista del tren. El maquinista del tren Pn 52479 comunicó la resolución de la avería del HDV al despachador de circulación 2B CDP Přerov a las 21:49:45 h. En el período comprendido entre las 21:48 h y las 22:42 h partieron de Prosenice por TK n.º 1 Prosenice – Lipník n. B. en secuencia los trenes
 
-
 ## Página 48
+
 
 Pn 48747, Nex 41720, Ex 517, Ex 523, R 1133 y Os 3229. A las 22:27:28 h entró íntegramente, hasta el último coche, el tren Nex 43204, procedente de la desviación de Dluhonice por TK n.º 2 desviación de Dluhonice – Prosenice, delante de la señal de entrada 2DS de la estación de Prosenice, que indicaba la señal «Alto», donde permaneció detenido debido a la prioridad de circulación de los trenes R 1133 (paso por la estación de Prosenice a las 22:33 h) y Os 3229 (llegada a las 22:38 h, salida a las 22:42 h). A las 22:42:07 h comenzó, por última vez antes de la producción de la MU, la señal de salida S1 a indicar PN, con la que se permitió desde la estación de Prosenice la salida del tren Os 3229 desde SK n.º 1. Tras la salida del tren Os 3229 y la recepción del aviso del vigilante de agujas St I de que el tren había salido íntegramente, a las 22:44:02 h se puso fin a la emisión de PN en la señal de salida S1. Hasta la producción de la MU objeto de investigación, es decir, la circulación no autorizada del tren Nex 43404 más allá del nivel de dicha señal, la señal indicó ininterrumpidamente la señal «Alto». El jefe de estación de servicio interno de la estación de Prosenice determinó para la circulación del tren Nex 43404 desde TK n.º 1 Přerov – Prosenice a SK n.º 1 de la estación de Prosenice y permitió la entrada del tren en la estación a las 22:50:08 h, momento en el que la señal de entrada 1S de la estación de Prosenice comenzó a indicar PN.
 El maquinista del tren Nex 43404 asumió el mando del HDV 1293.198-8 el día 13. 1. 2022 en la estación de Břeclav, desde donde dirigió el tren Lv 41811 hasta la estación de Kúty (República Eslovaca) para el tren Nex 41810. Tras realizar una prueba sencilla de freno, dirigió este tren hasta la estación de Břeclav, donde se cambió el número de tren a 43404 y se le informó mediante la Orden General de manera verificable, entre otros extremos, de que de Prosenice a Lipník n. B. circularía con el tren en el tramo intermedio por TK n.º 1, de que las señales de tramo AB no le son aplicables y quedan anuladas, de que no debe superar la velocidad de 100 km·h-1 y de que se ha desconectado el PZZ ŽP P6491 en el km 194,724 y en el km 193,150 se encuentra instalado un paso a nivel portátil. Con el tren Nex 43404, antes de la producción de la MU, se detuvo por última vez en la estación de Přerov, entorno de la estación, donde permaneció con el tren desde las 18:21 h hasta las 22:41 h. El motivo de la detención y permanencia del tren en la estación fue la actividad de intervención del explotador de la vía en la estación de Prosenice. A las 22:41:57 h el tren Nex 43404 se puso en movimiento en la estación de Přerov con dirección a la estación de Prosenice. A las 22:51:56 h el tren, a una velocidad de 53,4 km·h-1, rebasó el nivel de la señal de entrada 1S de la estación de Prosenice, que indicaba PN (véase más arriba). En ese momento el maquinista superó la velocidad máxima permitida de 40 km·h-1 en 13,4 km·h-1, con lo que, al aplicar tracción del HDV, la velocidad del tren seguía aumentando.
@@ -1618,8 +1629,8 @@ A las 22:52 h el jefe de estación de servicio interno de la estación de Prosen
 A las 22:52:55 h, es decir, en el momento en que el tren Nex 43404 entraba en la estación de Prosenice por SK n.º 1, el maquinista del tren Pn 52479 puso el tren en SK n.º 3 en movimiento con dirección a TK n.º 1 Prosenice – Lipník n. B. 27 s después, es decir, a las 22:53:22 h, el tren, a una velocidad de 5,6 km·h-1, rebasó con el frente del HDV el nivel de la señal de salida S3 y continuó aumentando la velocidad gradualmente.
 A las 22:53:23 h el tren Nex 43404 alcanzó, al entrar en SK n.º 1, una velocidad máxima de 63,4 km·h-1. El maquinista superó la velocidad máxima permitida en 23,4 km·h-1, y en ese
 
-
 ## Página 49
+
 
 momento se encontraba con el tren a una distancia de 571 m de la señal de salida S1, que seguía indicando la señal «Alto». Esta era ya visible desde una distancia de 800 m al entrar el tren en SK n.º 1. 10 s después, es decir, a las 22:53:33 h, el tren rebasó el nivel de DK circulando por inercia a una velocidad de 62,3 km·h-1. 5 s después, es decir, a las 22:53:38 h, el maquinista accionó la palanca del freno del maquinista a la posición de frenado «1A». El tren, circulando a una velocidad de 61,4 km·h-1, se encontraba a una distancia de 317 m de la señal de salida S1. Tras transcurrir otros 9 s, es decir, a las 22:53:47 h, a una velocidad de 56,8 km·h-1, el maquinista, mediante la manipulación de la palanca del freno del maquinista, activó el frenado de acción rápida: accionó la palanca a la posición «SOS». El tren se encontraba a una distancia de 166 m de la señal de salida S1. Cuando el tren Nex 43404 se encontraba a una distancia de 62 m de la señal de salida S1, es decir, a las 22:53:54 h, a una velocidad de 45,3 km·h-1, el maquinista, mediante la manipulación de la palanca de mando del freno directo, activó el frenado por freno directo. 6 s después, es decir, a las 22:54:00 h, el frente del tren rebasó a una velocidad de 29,9 km·h-1 el nivel de la señal de salida S1. El tren se encontraba a una distancia de 40 m del punto de colisión con el tren Pn 52479, que circulaba en el mismo sentido. La colisión se produjo a las 22:54:09 h, cuando el HDV del tren Nex 43404 impactó contra la parte delantera (parte «b») del 4.º TDV del tren Pn 52479. Como consecuencia del evento accidentológico se produjo el descarrilamiento del HDV del tren Nex 43404 y de 3 TDV bicompuestos del tren Pn 52479 (véase el punto 3.1.3 de esta ZZ).
 En el momento de la producción de la MU entraba en la estación de Prosenice desde TK n.º 2 Lipník n. B. – Prosenice a SK n.º 4 el tren Služ 52884. La entrada de este tren fue permitida por el jefe de estación de servicio interno de la estación de Prosenice a las 22:51:14 h con la PN indicada por la señal de entrada 2L. En la cabina de la SHDV 99 54 9 628 128-9 se encontraban el maquinista y el mecánico, que no presenciaron la producción de la MU en sí. Solo registraron el destello en la línea de tracción provocado por la destrucción del TP n.º 21 y el arrancamiento del pórtico portante entre el TP n.º 21 y el 22 de su anclaje al TP n.º 22 y su hundimiento sobre la línea de tracción durante el evento accidentológico, a lo que el maquinista del tren Služ 52884 reaccionó deteniendo el tren.
@@ -1633,6 +1644,7 @@ En el momento de la producción de la MU entraba en la estación de Prosenice de
 | • a las 23:45 h | llegaron al lugar de la MU y comenzaron a intervenir la HZS SŽ JPO Přerov y la HZS de la estación de Přerov de la Región de Olomouc; |
 
 ## Página 50
+
 
 | 14 1 2022 . . |  |
 | • a las 0:35 h | llegó al lugar del MU y comenzó a intervenir HZS SŽ JPO Ostrava; |
@@ -1666,16 +1678,16 @@ HZS SDH Osek nad Bečvou, Prosenice y Radslavice.
 El gestor de la infraestructura SŽ, el transportista RCC-CZ y el transportista ČDC tenían un sistema de garantía de la seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb., cuyo componente era, entre otros, la organización marco y el método establecido de realización de inspecciones y mediciones de las obras de la infraestructura ferroviaria para garantizar la aptitud de servicio de la infraestructura y la seguridad del transporte ferroviario, la concesión y ejecución de instrucciones y la utilización de DV para la circulación.
 La persona que dirige el transporte ferroviario, es decir, también el jefe de estación (en este caso concreto, el jefe de estación del servicio interior de la est. Prosenice), al organizar y dirigir el transporte ferroviario y las disposiciones pertinentes de la normativa legal y de las normas internas del gestor de la infraestructura SŽ, estaba obligada, entre otros, a
 
-
 ## Página 51
+
 
 observar el método y las condiciones para la explotación de la infraestructura, la dirección del transporte ferroviario, el seguimiento de los DV, el seguimiento de la capacidad de tráfico de la infraestructura, la dirección operativa del transporte ferroviario y, durante la explotación de la infraestructura para la dirección del transporte ferroviario, a utilizar las dependencias derivadas de la actividad del SZZ y del TZZ en explotación. El jefe de estación debía, en las actividades relacionadas con la explotación del SZZ y del TZZ, observar siempre también el conjunto de las maniobras de tráfico y de los procedimientos de trabajo establecidos. Durante la circulación de un tren en una estación, las agujas de enlace y de desvío debían encontrarse en la posición correcta para el itinerario de tren correspondiente y no podían ser maniobradas hasta que el tren no hubiera liberado la parte correspondiente del itinerario de tren. El jefe de estación solo podía manipular una aguja que formara parte de un itinerario de tren establecido en caso de evitar un peligro inminente. El jefe de estación solo podía autorizar la circulación en PN en caso de estado de avería del SZZ o del TZZ, o bien cuando estuviera previsto o ordenado por alguna norma interna de SŽ, o por una orden de intervención, o cuando lo solicitara el empleado de mantenimiento. Antes de autorizar la circulación de un tren en PN, debía, en el marco de la preparación del itinerario de tren, comprobar primero la libertad del itinerario de tren (véase más abajo) y, durante la explotación del SZZ, utilizar la selección de la ruta de emergencia, destinada a comprobar y garantizar las condiciones para el itinerario de tren, en la que, tras finalizar el cambio de agujas, se producía la introducción de los bloqueos de emergencia de las agujas, de los cierres electromagnéticos y de las autorizaciones de vía en el itinerario de circulación afectado.
 En los casos de intervención prevista, el gestor de la infraestructura debía elaborar y emitir una orden de intervención (ROV). Este documento determinaba las condiciones para la exclusión del equipo correspondiente de la vía de circulación y, en caso de necesidad, contenía las medidas concretas para la ejecución de la intervención prevista. El ROV determinaba también las condiciones para organizar la explotación de la infraestructura y del transporte ferroviario durante la realización de la intervención, así como los cambios en las dependencias y los cambios en el método de explotación del SZZ y del TZZ.
 Durante el servicio de tráfico, el jefe de estación del servicio interior de la est. Prosenice era responsable, entre otros, de la dirección de la secuencia de trenes (el horario de los trenes que circulan en la misma dirección por la misma TK) y de la organización de la circulación en la estación asignada, es decir, en la est. Prosenice, y en los tramos intermedios adyacentes, organizando la circulación de los trenes con arreglo al orden de importancia de los trenes de modo que no se viera perturbada la circulación de un tren de mayor importancia. No obstante, debía prever en su ámbito la evolución de la situación de tráfico, adoptar oportunamente las medidas para la dirección correcta de la situación de tráfico y tener en cuenta y resolver en tiempo real las situaciones operativas (véase el punto 3.2.1 de esta ZZ), gravadas por la realización de la intervención prevista según el ROV n.º 15003, de modo que se aprovechara en la mejor medida posible la capacidad de la vía de circulación en explotación. El jefe de estación del servicio interior de la est. Prosenice, al dirigir el transporte ferroviario, asumía que el maquinista del tren Nex 43404 cumpliría las normas internas del gestor de la infraestructura y se ceñiría a las instrucciones del gestor de la infraestructura dadas al organizar el transporte ferroviario.
 Dado que la entrada del tren Nex 43404 en la est. Prosenice estaba autorizada en PN, el jefe de estación asumió correctamente que el maquinista de este tren cumpliría la instrucción dada en PN en la señal de entrada 1S, es decir, que desde esta señal cumpliría las condiciones de circulación según las condiciones de visibilidad y no excedería la velocidad de 40 km·h-1; en otras palabras, prevería, ante la evolución de la situación de tráfico, la entrada posterior del tren Nex 43404 en la estación y también la mayor duración de su circulación por la SK n.º 1 hasta la señal de salida S1. Tras el aviso del supervisor de agujas St I a las 22:44 h de que el tren Os 3229 había salido de la est. Prosenice completo, el jefe de estación del servicio interior de la est. Prosenice inició la preparación del itinerario de tren para la salida del tren Pn 52479 desde la SK n.º 3+. Ya a las 22:45:34 h realizó el cambio de la aguja n.º 5 a la posición final (-), es decir, para la circulación del tren Pn 52479. Dado que la circulación de los trenes por la TK n.º 1 Prosenice – Lipník n. B. se realizaba en el tramo intermedio y en las direcciones correctas, y estaba protegida por comunicación telefónica (despacho telefónico), el jefe de estación del servicio interior de la est. Prosenice esperaba el despacho tras el tren Os 3229. Durante la realización de la intervención según el ROV 15003, la circulación de este tren se regía también por el VNJŘ, con un tiempo de recorrido en el tramo Prosenice – Lipník n. B. de 8,5 min (en comparación con el horario regular, se trataba de una prolongación del tiempo de recorrido de 2 min), con llegada a la est. Lipník nad Bečvou a las 22:505 h. El despacho tras el tren Os 3229 lo recibió recién a las
 
-
 ## Página 52
+
 
 22:52 h y solo entonces pudo autorizar en PN la salida del tren Pn 52479 desde la SK n.º 3. Recibió el despacho en un momento en que el tren Nex 43404 ya estaba entrando en PN en la est. Prosenice, es decir, en un momento anterior al que el jefe de estación del servicio interior de la est. Prosenice podía prever ante la evolución de la situación de tráfico, lo cual fue causado por la excesión de la velocidad máxima permitida del tren Nex 43404 desde el nivel de la señal de entrada 1S de la est. Prosenice, véase más abajo y también los puntos 3.1.7, 3.2.1 y 4.3.1 de esta ZZ.
 Las personas que participan
@@ -1688,6 +1700,7 @@ La PN señalizada por la señal de entrada al maquinista del tren le ordena adem
 (30 km·h-1, si la señal está marcada con una placa indicadora con el dígito 3 o si en el horario tabular de la estación correspondiente figura una marca que expresa la reducción de la velocidad de entrada y de salida a 30 km·h-1 al circular en PN), debiendo anunciar la señal «Alto» en la siguiente señal principal (de itinerario, de salida) sin un anuncio previo independiente, que puede deberse también a una distancia de frenado insuficiente. En cuanto todo el tren haya pasado el ámbito de las agujas adyacentes a la señal de entrada, el maquinista debe circular hasta el nivel del final del itinerario de tren de modo que el tren no exceda la velocidad de 40 km·h-1 (o 30 km·h-1, véase más arriba). No obstante, si la siguiente señal principal autoriza la circulación, el maquinista puede aumentar la velocidad según la señal de la siguiente señal. Si no existe un ámbito de agujas adyacente a la señal principal, le ordena al maquinista circular con una velocidad máxima de 40 km·h-1 hasta la siguiente señal principal. La PN en la señal de entrada ordena circular según las condiciones de visibilidad desde esta señal hasta la siguiente señal principal o hasta la señal Fin
 
 ## Página 53
+
 
 vías de tren. El maquinista del tren, por tanto, al entrar en la estación con PN, actúa como si se tratara de un tren que para regularmente, informado de la entrada de un tren en una vía ocupada, y debe detener el tren en la estación si no se cumplen las condiciones para el paso del tren, establecidas por la normativa legal y los procedimientos tecnológicos del gestor de la infraestructura.
 El maquinista es responsable de todas las medidas de tráfico derivadas de la circulación del tren y del contacto con el personal que dirige y organiza el transporte ferroviario. Con todos los medios disponibles, estará obligado a adoptar medidas para detener el tren si comprueba que su circulación no está permitida o si el tren está amenazado por algo.
@@ -1702,8 +1715,8 @@ En la investigación se detectó el incumplimiento de la normativa legal y de la
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 «El transportista está obligado a operar el transporte ferroviario de acuerdo con las reglas de operación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la operación del transporte ferroviario en la vía,»;
 
-
 ## Página 54
+
 
 •
 § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb.:
@@ -1740,8 +1753,8 @@ art. 966 de la norma interna SŽDC D1:
 art. 967 de la norma interna SŽDC D1:
 «La PN en las señales de entrada, de vía o de salida ordena además al maquinista del tren circular según las condiciones de visibilidad y le ordena circular en el área de agujas adyacente a la señal principal a una velocidad máxima de 40 km/h (...). …
 
-
 ## Página 55
+
 
 La PN en una señal de entrada o de vía ordena circular según las condiciones de visibilidad desde dicha señal hasta el siguiente señal principal o hasta la señal Fin de vía de tren.
 La PN en una señal de salida ordena circular según las condiciones de visibilidad desde dicha señal hasta la señal de entrada para el sentido de circulación opuesto; al salir a una vía con AB (excepto AB sin señales de sección) el maquinista debe cumplir las condiciones de circulación según las condiciones de visibilidad hasta la primera señal de sección AB.»;
@@ -1769,8 +1782,8 @@ En la investigación se detectó el incumplimiento de la normativa legal y de la
 § 37 apartado 10 del Decreto n.º 173/1995 Sb.:
 «Sobre la prueba de freno realizada en trenes de pasajeros, trenes excepcionales por interés general, trenes de mercancías y trenes de composición se levantará un acta, que se entregará posteriormente a la persona que conduce el vehículo ferroviario. El acta contiene
 
-
 ## Página 56
+
 
 a) el número de tren y el nombre de la estación donde se realizó la prueba, y la fecha de realización de la prueba,
 ...,».
@@ -1788,6 +1801,7 @@ En la investigación no se detectó el incumplimiento de las funciones y obligac
 En la investigación no se detectó el incumplimiento de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento del DV.
 
 ## Página 57
+
 
 ### 4.1.7 Cualquier otra persona o sujeto
 Las tareas y obligaciones de otras personas o sujetos no guardaban relación con la aparición del MU.
@@ -1808,8 +1822,8 @@ En la investigación no se detectaron otros factores relacionados con el MR, la 
 ### 4.3.1 Características humanas e individuales
 En la investigación de las características humanas e individuales no se detectaron factores relacionados con la formación profesional para el MU de los empleados participantes del gestor de la infraestructura SŽ y del transportista ČDC. Asimismo, en todos los empleados participantes en el MU del gestor de la infraestructura SŽ, del transportista ČDC y del transportista RCC-CZ no se detectaron factores relacionados con su estado de salud y su situación personal, incl. el estrés físico y psicológico.
 
-
 ## Página 58
+
 
 La DI, en el marco de la investigación de las características humanas e individuales, se centró detalladamente, en particular, en la competencia profesional del maquinista del tren Nex 43404, cuyo análisis se indica a continuación.
 El transportista, de acuerdo con el § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., puede explotar el transporte ferroviario en la red estatal o regional, entre otros, cuando sea titular de una licencia y certificación de transportista vigentes, y de acuerdo con el § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb. está obligado a emitir una normativa interna sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incl. el sistema de formación periódica, la expedición y retirada de los certificados de maquinista y las modificaciones de los datos en ellos contenidos y del plazo de validez del certificado de maquinista. Además, el transportista, de acuerdo con el § 35 apartado 1 letra h) de la Ley núm. 266/1994 Sb., está obligado a garantizar, en relación con el § 46b apartado 1 de la citada Ley, que el MR en la red estatal y regional sea conducido por personas que posean una licencia de maquinista vigente y un certificado de maquinista vigente, y de acuerdo con el § 35 apartado 1 letra f) y g) de la Ley núm. 266/1994 Sb. está obligado a garantizar que el transporte ferroviario lo realicen personas que estén sanas y sean profesionalmente competentes, que en la explotación del transporte ferroviario se ajusten a las instrucciones del gestor de la infraestructura impartidas al organizar el transporte ferroviario.
@@ -1830,8 +1844,8 @@ de los sucesos relacionados con la seguridad y la comprensión de qué comportam
 de los factores que influyen en la aceleración y el efecto de frenado, p. ej. las condiciones meteorológicas, el dispositivo de frenado, la circulación con adherencia reducida, el uso de dispositivos para mejorar la adherencia.
 De acuerdo con el § 46i de la Ley núm. 266/1994 Sb., el transportista expedirá el certificado de maquinista, a petición, a la persona física que mantenga con el transportista una relación laboral básica, sea titular de una licencia de maquinista vigente y haya acreditado la ZOZ para conducir un tipo concreto de MR, para circular en vías o tramos delimitados y para el uso de la lengua checa en la medida necesaria para conducir el MR en el territorio de la República Checa, cuando el plazo de validez del certificado de maquinista
 
-
 ## Página 59
+
 
 lo determina el transportista de acuerdo con la normativa interna emitida en virtud del § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb., y en el certificado de maquinista delimitará la vía o su tramo, los tipos de MR y la forma de su uso para los cuales el certificado es válido.
 De acuerdo con el § 46j de la Ley núm. 266/1994 Sb., el solicitante acredita la ZOZ mediante la superación del examen teórico y práctico ante una comisión designada por el transportista. El conocimiento de la lengua checa se verifica cuando la lengua materna del solicitante sea distinta del checo. Solo podrá presentar el examen que acredite la ZOZ el solicitante que haya realizado la formación para la obtención de los conocimientos, habilidades y procedimientos correspondientes. El alcance y contenido de los conocimientos, habilidades y procedimientos detallados, así como el alcance y contenido de la formación, los establece el Decreto núm. 16/2012 Sb., mediante los anexos núm. 2 y 3. La formación para la obtención de los conocimientos, habilidades y procedimientos detallados para acreditar la ZOZ para conducir el MR de la categoría y tipo correspondientes se centra, entre otros, en:
@@ -1852,6 +1866,7 @@ Nota de la DI: la duración mínima de la formación práctica indicada anterior
 En relación con este MU concreto, la DI partió del régimen laboral ininterrumpido, que exige el ejercicio del trabajo 24 h al día durante 7 días a la semana, es decir, en un régimen laboral
 
 ## Página 60
+
 
 derivados del Acuerdo sobre actividad laboral celebrado entre el maquinista del tren Nex 43404 
 y la compañía STROJVŮDCI CZ (véase el punto 4.3.2 de la presente IIA)
@@ -1875,8 +1890,8 @@ estación de enlace, cuyo desvío de vías permite el cruce y el adelantamiento 
 •
 desvío (desvío temporal establecido según la Orden de Interrupción), que en la línea abierta permite el traspaso de trenes (PMD) de una línea a otra. También pueden ser desvíos los enlaces de vías, que permiten en una línea de dos o más vías el traspaso de trenes (PMD) de una TK a otra.
 
-
 ## Página 61
+
 
 La cuestión del conocimiento demostrable por parte del maquinista de las condiciones de la vía en las líneas y en las estaciones se regula además, en las condiciones del transportista RCC-CZ, en el art. 8.1.2.2 de la norma RCC-CZ P1, según el cual el conocimiento de las condiciones de la vía en la línea y en las estaciones se adquiere recorriendo la línea correspondiente en ambos sentidos, es decir, dos veces de día y dos veces de noche en trenes del transportista RCC-CZ o de otros transportistas contratados. En el marco de este conocimiento se realiza también un conocimiento práctico de las condiciones locales en las est., en las estaciones de mercancías y, en su caso, en las vías privadas.
 El maquinista del tren Nex 43404, de acuerdo con la legislación de la República Checa y los procedimientos tecnológicos uniformes del transportista RCC-CZ, en el momento del suceso de la MU era competente para el desempeño de la función que ocupaba. Era titular de la licencia de maquinista expedida por el DÚ el 31. 3. 
@@ -1898,8 +1913,8 @@ y RETROLOK tienen su sede en la misma dirección, los mismos administradores con
 De la verificación de la información anteriormente mencionada ante la compañía RETROLOK, los transportistas RCC-CZ 
 y DBC, cuyos maquinistas debían supervisar al maquinista del tren Nex 43404 en el marco de su formación en conducción, ante SŽ a través del sistema ISOŘ, y ante la compañía Smartwings, en la que el maquinista del tren Nex 43404 estaba también empleado en dicho período, se desprende que la duración de la formación en conducción del maquinista del tren Nex 43404 en el marco de la parte práctica de la formación para la adquisición de los
 
-
 ## Página 62
+
 
 conocimientos, habilidades y procedimientos detallados necesarios para acreditar el ZOZ para la conducción de VTD de la categoría y tipo correspondientes fue como máximo de 357 h. La razón es que
 •
@@ -1927,6 +1942,7 @@ La compañía STROJVŮDCI CZ indujo después a error al transportista RCC-CZ med
 
 ## Página 63
 
+
 •
 El maquinista del tren Nex 43404 (en ese momento solicitante del examen ZOZ) realizó y aprobó el examen ZOZ ante el operador RCC-CZ a pesar de no haber completado la parte práctica de la formación en DV para obtener los conocimientos, habilidades y procedimientos pertinentes en la extensión mínima establecida por el decreto n.º 16/2012 Sb, y posteriormente, tras acreditar la ZOZ, solicitó al operador RCC-CZ la expedición de la certificación de maquinista, que el operador le expidió de conformidad con el § 46i apartado 1 de la ley n.º 266/194 Sb.
 ### Hallazgos:
@@ -1952,18 +1968,18 @@ En la investigación se constató, en el presente asunto, la infracción de la n
 En relación con la MU en cuestión, es necesario señalar que ni la normativa de la República Checa ni los procedimientos tecnológicos uniformes del operador RCC-CZ establecen como una de las partes obligatorias del examen para acreditar la ZOZ la verificación de la capacidad práctica del solicitante (maquinista) para resolver adecuadamente, en un simulador de locomotoras, también situaciones que pueden producirse solo raramente, incluidos el modo de circulación y la velocidad máxima al circular en PN y la determinación relacionada con la ubicación del tren en la vía delimitada o en una parte de la misma.
 En el sentido de la Directiva 2007/59/CE, el uso de simuladores de locomotoras no es obligatorio, pero pueden utilizarse para verificar la aplicación de las normas de explotación y la actuación del maquinista en situaciones especialmente exigentes.
 
-
 ## Página 64
+
 
 Los simuladores permiten no solo el entrenamiento elemental de la operación habitual del DV y de sus sistemas, sino que también permiten a los maquinistas aprender y perfeccionarse en la actuación práctica – la respuesta a situaciones que pueden producirse raramente, lo cual, entre otros, son sin duda la circulación en PN o la circulación y el frenado en condiciones de adherencia deterioradas. Para la explotación segura del transporte ferroviario es absolutamente necesario que el maquinista tenga siempre interiorizado de forma subconsciente cómo debe reaccionar – qué modo de circulación debe elegir, es decir, cómo actuar tras la aparición de una anomalía o una MU, incluida su posterior notificación. Precisamente para esto sirve el simulador de locomotoras, que permite preparar al maquinista durante la formación, pero también verificar, en el marco del examen ZOZ, su capacidad práctica para resolver también situaciones que no pueden provocarse en el marco de la formación y el entrenamiento, o cuya provocación es complicada en condiciones reales, o con las que se puede encontrar de forma irregular o excepcional (véase el punto 6 de esta ZZ y las recomendaciones de seguridad contenidas en el Informe final sobre los resultados de la investigación del suceso anormal, ref. n.º 6-3275/2021/DI, que tuvo lugar el 31. 10. 2021 entre las estaciones Český Těšín y Albrechtice u Českého Těšína, donde colisionó el HDV circulando como PMD con el tren varado Pn 62054).
 Es evidente que el maquinista del tren Nex 43404 no actuó con la intención de provocar la MU. Su conducta estuvo influenciada por errores inconscientes – el análisis y la evaluación incorrectos de la información sobre la circulación del tren desde la estación Prosenice hasta la estación Lipník n. B. en el intervalo intermedio tras la TK n.º 1, sobre la invalidez de los señales de bloqueo de intervalo AB y sobre no superar la velocidad de 100 km·h-1 en dicho intervalo intermedio, contenidos en la orden escrita «ORDEN GENERAL para el tren n.º 43404», n.º 0000012-583, de fecha 13. 1. 2022, facilitada al maquinista antes de la circulación en la estación «Břeclav PBa Jih», a la que siguió la interpretación incorrecta de la PN señalizada por la señal de entrada 1S de la estación Prosenice, en combinación con un modo de actuación inadecuado.
 Un factor que influyó negativamente en la conducta del maquinista del tren Nex 43404 fue su falta de preparación (incapacidad) para resolver prácticamente la situación en cuestión, con la que prácticamente no se encontró durante el entrenamiento práctico acortado (véase más arriba), el examen ZOZ y la posterior breve experiencia en el ejercicio de la función de maquinista.
 A raíz de los errores anteriores, el maquinista, al entrar y circular en la estación Prosenice, adquirió la impresión de que ya se encontraba con el tren en el tramo de vía en obras, es decir, en el intervalo intermedio entre las estaciones Prosenice y Lipník n. B., a pesar de que, tras pasar el nivel de la señal de entrada 1S de la estación Prosenice correctamente señalizada y tras cruzar la cabeza de vía de Přerov/Dluhony con la correspondiente bifurcación de vías, circulaba con el tren por la SK n.º 1 k y a lo largo del andén isla y el edificio de estación situados fuera de la SK n.º 6. En otras palabras – al entrar en la estación en PN no actuó como el maquinista de un tren regularmente detenido, informado de la entrada de un tren en una vía ocupada, que debe detenerse en la estación si no se cumplen las condiciones para el paso del tren establecidas por la normativa y los procedimientos tecnológicos del gestor de la infraestructura.
 Por ello, al circular en el ámbito de los desvíos adyacentes a la señal de entrada 1S de la estación Prosenice y al circular por la SK n.º 1 k hacia la señal de salida S1, eligió un modo de circulación que fue incorrecto, al alcanzar en la estación Prosenice, mediante la aplicación de tracción del HDV, una velocidad de hasta 63,4 km·h-1 (véanse también los puntos 3.1.7 y 4.1.1 de esta ZZ). Aunque registró la señal «Alto» señalizada por la señal de salida S1, por los motivos expuestos anteriormente no siguió la indicación expresada por dicha señal. Reaccionó únicamente ante los DV del tren Pn 52479 que partía en la misma dirección, los cuales se encontraban en la vía de circulación prevista por él.
-En el presente asunto no puede dejar de mencionarse que el maquinista del tren Nex 43404 era también piloto de aeronaves con varios años de práctica, significativamente superior a su práctica en la conducción de DV. Sin embargo, la influencia de las diferencias en la percepción de las indicaciones en el transporte ferroviario y en el transporte aéreo no fue determinada de forma completa, es decir, de manera verificable. Aunque el maquinista del tren Nex 43404, en relación con la MU en cuestión, a la que precedió la circulación del tren en PN señalizada por la señal de entrada, 
-
+En el presente asunto no puede dejar de mencionarse que el maquinista del tren Nex 43404 era también piloto de aeronaves con varios años de práctica, significativamente superior a su práctica en la conducción de DV. Sin embargo, la influencia de las diferencias en la percepción de las indicaciones en el transporte ferroviario y en el transporte aéreo no fue determinada de forma completa, es decir, de manera verificable. Aunque el maquinista del tren Nex 43404, en relación con la MU en cuestión, a la que precedió la circulación del tren en PN señalizada por la señal de entrada,
 
 ## Página 65
+
 
 según su declaración «carecía de información sobre la detención del tren en la estación Prosenice», en las paradas anteriores de los trenes (DV) no solicitó información sobre la detención del tren, y ello más allá de las indicaciones dadas por las señales, ni la reclamó de ninguna otra forma.
 En la investigación se detectó, en relación causal con la aparición de la MU, una deficiencia sistémica relacionada con la formación profesional/la cualificación del maquinista del tren Nex 43404:
@@ -1977,14 +1993,15 @@ El maquinista del tren Nex 43404 cedido al operador RCC-CZ por la sociedad STROJ
 
 ## Página 66
 
+
 realización de la parte práctica de la formación – entrenamiento en conducción para adquirir los conocimientos, habilidades y procedimientos pertinentes en el ámbito establecido por el decreto n.º 16/2012 Sb. para la superación del examen ZOZ (véase más arriba y también el punto 4.3.1 de la presente ZZ).
 El incumplimiento indicado de la relación contractual entre dos sujetos jurídicos, es decir, entre el transportista RCC-CZ y la empresa STROJVŮDCI CZ, tuvo como consecuencia la superación del examen que acredita el ZOZ por parte del solicitante – el maquinista del tren Nex 43404, que no cumplía la condición de dos años de experiencia en la conducción de HDV ni había realizado la formación – entrenamiento en conducción para adquirir los conocimientos, habilidades y procedimientos pertinentes en el ámbito establecido, y es un hallazgo en relación causal con la aparición del MU (véase el punto 4.3.1 de la presente ZZ).
 El maquinista del tren Nex 43404 tenía, en el momento de la aparición del MU, firmada con la empresa STROJVŮDCI CZ un Acuerdo sobre actividad laboral de acuerdo con el § 76 de la ley n.º 262/2006 Sb., con efectos desde el 1. 11. 2021 por duración indefinida (en adelante, Acuerdo sobre actividad laboral). De acuerdo con este acuerdo, el trabajo no excederá en promedio de la mitad de la jornada laboral establecida, que era de 37,5 h semanales, es decir, la realización del trabajo no excederá en promedio de 18,75 h semanales durante un período de 52 semanas.
 De acuerdo con lo dispuesto en el § 74 apartado 2 de la ley n.º 262/2006 Sb., en los acuerdos de trabajo realizados fuera de la relación laboral, el empleador no está obligado a distribuir al empleado la jornada laboral. De acuerdo con el § 77 apartado 2 letra d) de la misma ley, a los trabajos realizados sobre la base de acuerdos de trabajo realizados fuera de la relación laboral no les es aplicable la regulación de la jornada laboral y el tiempo de descanso, no obstante, la realización del trabajo no puede exceder de 12 h durante 24 h consecutivas. Por tanto, el resto de disposiciones de la ley n.º 262/2006 Sb. sobre jornada laboral y tiempo de descanso no serán de aplicación. Para el maquinista del tren Nex 43404 tampoco será de aplicación el decreto gubernamental n.º 589/2006 Sb., ya que la disposición habilitante del § 100 de la ley n.º 262/2006 Sb. se refiere precisamente a la regulación únicamente de la jornada laboral y el descanso. Debido al Acuerdo sobre actividad laboral firmado en relación con la disposición del § 77 apartado 2 letra d) de la ley n.º 262/2006 Sb., el transportista RCC-CZ no pudo aplicar al reparto de la jornada laboral (realización del trabajo) del maquinista del tren Nex 43404 la disposición del decreto gubernamental n.º 589/2006 Sb., según la cual el empleador debe distribuir la jornada laboral semanal establecida del empleado de manera que la duración del turno no exceda de 13 h, y en el caso de que el turno incluya un viaje de servicio, que no exceda de 15 h. Para el maquinista del tren Nex 43404, por tanto, atendiendo al acuerdo sobre actividad laboral firmado, era aplicable el límite de realización del trabajo de un máximo de 12 h durante 24 h consecutivas. Para evitar toda duda, es necesario indicar que para el maquinista del tren Nex 43404 tampoco es de aplicación la disposición del § 93 de la ley n.º 262/2006 Sb. sobre trabajo extraordinario, ya que el trabajo extraordinario está regulado en las disposiciones generales sobre la jornada laboral y la duración del turno de trabajo (§ 78 y ss.) de la ley n.º 262/2006 Sb., que de acuerdo con el § 77 apartado 2 letra d) de dicha ley, en los empleados que realizan trabajo sobre la base de un acuerdo sobre actividad laboral, tampoco es de aplicación. Por este motivo, de acuerdo con la normativa legal, no es posible que el maquinista del tren Nex 43404 realice trabajo durante más de 12 h durante 24 h consecutivas.
 Para una visión completa de las posibilidades derivadas de la normativa legal, es necesario indicar que el maquinista puede ser enviado de forma interesada (y esto incluso de mutuo acuerdo con el empleador, en el caso del maquinista del tren Nex 43404 sobre la base del Acuerdo sobre actividad laboral) a viajes de trabajo, respectivamente a la realización del trabajo, no desde el lugar convenido de realización del trabajo, sino desde el centro de trabajo habitual a efectos de indemnizaciones por desplazamiento (por ejemplo, desde el lugar de residencia) a un lugar a varias horas de viaje en tren como pasajero, para a continuación incorporarse a un turno como maquinista de una duración de hasta 13 h, respectivamente de hasta 15 h, y en el caso del acuerdo sobre actividad laboral, incorporarse a la realización del trabajo del maquinista que no exceda de 12 h durante 24 h consecutivas (véase el párrafo indicado más arriba), y posteriormente volver de nuevo durante varias horas. Tal práctica reduce significativamente la seguridad (véase más abajo).
 
-
 ## Página 67
+
 
 El maquinista del tren Nex 43404 tenía convenido en el Acuerdo sobre actividad laboral como lugar de realización del trabajo la República Checa, sin que el centro de trabajo habitual a efectos de indemnizaciones por desplazamiento fuera parte del acuerdo convenido.
 De acuerdo con la disposición del § 34a de la ley n.º 262/2006 Sb., si en el contrato de trabajo no se ha convenido el centro de trabajo habitual a efectos de indemnizaciones por desplazamiento y el lugar de realización del trabajo está convenido de forma más amplia que un solo municipio, en el caso del maquinista del tren Nex 43404 esto era la República Checa, se considera como centro de trabajo habitual el municipio desde el que con mayor frecuencia comienzan los desplazamientos del empleado con el fin de realizar el trabajo, y puesto que el centro de trabajo habitual a efectos de indemnizaciones por desplazamiento no puede, de acuerdo con dicha disposición de la ley n.º 262/2006 Sb., estar convenido de forma más amplia que un solo municipio, el centro de trabajo habitual del maquinista del tren Nex 43404 a efectos de indemnizaciones por desplazamiento era la Ciudad de Praga.
@@ -1996,8 +2013,8 @@ en diciembre de 2021 trabajó un total de 4 turnos – la realización del traba
 en enero de 2022 trabajó un total de 2 turnos (excepto el turno en el marco del cual se produjo la aparición del MU en cuestión) – la realización del trabajo (jornada laboral) del maquinista, incluido el tiempo de conducción de HDV, tampoco excedió de 12 h. Los comienzos convenidos (planificados y reales) de las realizaciones del trabajo los tenía en la est. Břeclav y los fines convenidos (planificados y reales) de las realizaciones del trabajo los tenía en la est. Břeclav.
 El último turno – realización del trabajo antes del turno en el marco del cual se produjo la aparición del MU en cuestión, el maquinista lo inició el 8. 1. 2022 tras un descanso en cama, que pasó en las instalaciones de alojamiento facilitadas por el transportista en la est. Břeclav. El comienzo convenido (planificado y real) de la realización del trabajo lo tenía a las 15:00 h y el final convenido (planificado) de la realización del trabajo al día siguiente a las 1:24 h en la est. Břeclav. El final real de la realización del trabajo lo tuvo el maquinista el 9. 1. 2022 a las 1:56 h. La realización del trabajo (jornada laboral) del maquinista fue de 10 h y 56 min., de los cuales el tiempo de conducción de HDV fue de 5 h y 22 min. El PDOJ lo disfrutaba el maquinista en momentos adecuados durante las permanencias de los trenes en las
 
-
 ## Página 68
+
 
 estaciones. A continuación, en la est. Břeclav el 9. 1. 2022 a las 6:07 h comenzó el desplazamiento hasta el lugar del centro de trabajo habitual a efectos de indemnizaciones por desplazamiento, que finalizó el mismo día a las 9:42 h en Praga. Durante dicha realización del trabajo, el maquinista realizó un viaje de servicio desde la est. Břeclav hasta la est. Bohumín y condujo el HDV del tren Nex 45236 en el tramo Bohumín, sector Bohumín-Vrbice – Chałupki, Nex 45235 en el tramo Chałupki – Bohumín, sector Bohumín-Vrbice y Nex 45071 en el tramo Bohumín, sector Bohumín-Vrbice – Břeclav, sector previo a la estación;
 •
@@ -2007,6 +2024,7 @@ El maquinista tenía convenido (planificado y real) el comienzo de la realizaci�
 El maquinista del tren Nex 43404 fue enviado por el transportista RCC-CZ a realizar el trabajo no desde el lugar convenido de realización del trabajo, que en el caso en cuestión era la República Checa y podría haber sido también, por ejemplo, la est. Praha hl. n., sino desde el centro de trabajo habitual a efectos de indemnizaciones por desplazamiento, que era la Ciudad de Praga. De la documentación del empleador STROJVŮDCI CZ se desprende que el empleador no computaba en la realización del trabajo del maquinista el tiempo de su desplazamiento desde el lugar del centro de trabajo habitual a efectos de indemnizaciones por desplazamiento (residencia) hasta el lugar convenido de realización del trabajo (lugar de comienzo de la conducción de HDV) y viceversa desde el lugar convenido de realización del trabajo (lugar de finalización de la conducción de HDV) hasta el lugar del centro de trabajo habitual a efectos de indemnizaciones por desplazamiento (residencia). Prácticamente, por tanto, el empleador, la empresa STROJVŮDCI CZ, s. r. o., separaba la realización del trabajo del tiempo de desplazamiento, cuando el maquinista del tren Nex 43404 tenía en el Acuerdo sobre actividad laboral convenido como lugar de realización del trabajo la República Checa, es decir, formalmente se encontraba siempre en el lugar de realización del trabajo. La empresa STROJVŮDCI CZ, s. r. o., podía así enviar prácticamente (salvo excepciones) al maquinista a realizar el trabajo sin su consentimiento en cualquier lugar de la República Checa, porque de acuerdo con el § 42 de la ley n.º 262/2006 Sb. generalmente no se trataba de un viaje de trabajo. Al no computar el tiempo de desplazamiento en la realización del trabajo del maquinista del tren Nex 43404, la empresa STROJVŮDCI CZ no tenía en cuenta el posible riesgo de seguridad de que el maquinista, tras un desplazamiento de hasta 3 h 40 min., cuando antes del turno (realización del trabajo) no realiza un descanso en cama en las instalaciones facilitadas por el transportista, no esté siempre ya desde el comienzo de la realización del trabajo – conducción de HDV debidamente descansado. Para la empresa STROJVŮDCI CZ era esencial únicamente el tiempo desde el comienzo hasta el final de la realización real del trabajo (tiempo de conducción real de HDV, sin tener en cuenta el tiempo necesario para el desplazamiento del maquinista desde el lugar del centro de trabajo habitual a efectos de indemnizaciones por desplazamiento (residencia) hasta el lugar convenido (planificado) de comienzo de la realización del trabajo. A la vez es necesario constatar que la empresa STROJVŮDCI CZ en este caso no actuó en contra de la normativa legal, porque esta en materia de acuerdos sobre actividad laboral en el territorio de toda la República Checa no impone como obligación incluir en la realización del trabajo el desplazamiento
 
 ## Página 69
+
 
 al empleado desde su lugar de trabajo habitual a los efectos de indemnizaciones por desplazamiento (domicilio) hasta el lugar acordado de inicio de la prestación de servicios.
 Nota DI: la disposición § 13 apartado 2 del Decreto del Gobierno nº 589/2006 Sb., que regula la cuestión del viaje de servicio del empleado del transporte ferroviario en la red de ámbito nacional, regional y en el ramal privado, no puede aplicarse al maquinista del tren Nex 43404 debido a la suscripción del Acuerdo de Actividad Laboral en este caso.
@@ -2028,8 +2046,8 @@ En el sistema de garantía de la seguridad adoptado por el gestor de infraestruc
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
 
-
 ## Página 70
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la mencionada MU.
@@ -2044,8 +2062,8 @@ La DI, en el periodo comprendido entre el 1. 1. 2013 y la fecha del origen de la
 ### Del número de MU anteriormente indicado, la DI tiene registrados 5 MU similares, en los que a la circulación no autorizada del tren más allá de la señal principal precedió la elección por parte del maquinista de un modo de circulación y una velocidad incorrectos con respecto a la circulación alrededor de, respectivamente, más allá de, la señal de entrada o de enlace, que indicaba PN (entre otras, anunciaba la señal «Alto» anunciada por la señal principal siguiente), lo que se manifestó en la no detención del tren antes de la señal principal siguiente. Como consecuencia de los 5 MU similares indicados no se produjeron lesiones en personas ni daños.
 El denominador común de todos los MU anteriormente indicados fue la ausencia de medios técnicos de seguridad que, ante un descuido (error o fallo) del maquinista, mediante una intervención activa en la conducción del tren, hubieran impedido la circulación no autorizada del tren más allá de la señal principal que prohibía la circulación. En el asunto en cuestión, la DI emitió en el periodo anterior una serie de recomendaciones de seguridad, mediante las cuales recomendó al gestor de infraestructura (operador del gestor de infraestructura) y a los transportistas implicados en dichos MU, entre otras cosas, acelerar los trabajos para la implantación del ETCS y equipar los VF con su parte móvil, de modo que, una vez puesto en servicio el sistema en la línea correspondiente, los VF utilizados por los transportistas pudieran aprovechar plenamente todas las funcionalidades del ETCS. La DI, al mismo tiempo, recomendó mediante estas recomendaciones de seguridad que la DÚ adoptara sus propias medidas encaminadas a garantizar la realización de dichas recomendaciones de seguridad. Atendiendo a la progresiva realización de las tareas derivadas del Plan Nacional de Implementación del ERTMS y de los documentos conexos, mediante los cuales se cumplen las recomendaciones de seguridad emitidas anteriormente, la DI no emitirá en el asunto en cuestión otra recomendación de seguridad similar.
 
-
 ## Página 71
+
 
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -2074,8 +2092,8 @@ Contributing factor:
 •
 unpreparedness (incompetence) of the train driver of the freight train No. 43404 to correctly analyze the information which was provide him before departure of the train and correctly interpretation calling-on signal which it signaled by the main (entrance) signal device and to act on its accordingly, affected by failure to graduate the training (practical part of the training – driving training) to the specified extent before passing the special professional competence exam.
 
-
 ## Página 72
+
 
 Systemic factor:
 •
@@ -2097,6 +2115,7 @@ the record of the brake test (simple brake test) performed on 13th January 2022 
 
 ## Página 73
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
 •
@@ -2113,22 +2132,21 @@ crear un marco jurídico y un sistema mediante los que se amplíe el alcance y e
 •
 verificar ante los operadores ferroviarios si el examen que acredita la competencia profesional especial lo superan exclusivamente los solicitantes que hayan seguido la formación para adquirir los conocimientos, habilidades y procedimientos pertinentes en el alcance y contenido establecidos, en relación con el control del cumplimiento de las obligaciones de las personas físicas o jurídicas acreditadas para la formación de acuerdo con el § 46j apartado 4 de la Ley núm. 266/1994 Sb., sobre sistemas ferroviarios, en su versión vigente;
 
-
 ## Página 74
 
-Dirigidas al Ministerio de Transporte de la República Checa:
+Dirigido al Ministerio de Transporte de la República Checa:
 •
-en colaboración con la NSA, especificar con mayor detalle la duración mínima de la parte práctica de la formación para adquirir los conocimientos, habilidades y procedimientos detallados necesarios para acreditar la competencia profesional especial para la conducción de un material rodante de la categoría y tipo correspondientes, que es el Anexo núm. 2 a la Orden núm. 16/1994 Sb., sobre la competencia profesional de las personas que conducen material rodante y de las personas que realizan revisiones, inspecciones y ensayos de equipos técnicos determinados, y sobre la modificación de la Orden del Ministerio de Transporte de la República Checa núm. 101/1995 Sb., que se dicta mediante la Orden sobre la competencia sanitaria y profesional de las personas en la explotación de ferrocarriles y del transporte ferroviario, se fija en 12 semanas de modo que se cumpla el requisito de determinación, incluida la seguridad jurídica, y que la práctica no impida a los destinatarios de la citada obligación jurídica su aplicación rigurosa, de manera análoga a lo que ocurre con la parte teórica de dicha formación.
+en cooperación con la Autoridad Ferroviaria (NSA), concretar más la duración mínima de la parte práctica de la formación para adquirir conocimientos, habilidades y procedimientos detallados, a fin de demostrar la competencia profesional especializada para la conducción de material rodante de la categoría y tipo correspondientes, que es el Anexo n.º 2 del Decreto n.º 16/2012 Coll., sobre la competencia profesional de las personas que conducen material rodante y de las personas que realizan revisiones, inspecciones y ensayos de equipos técnicos determinados, y sobre la modificación del Decreto del Ministerio de Transporte de la República Checa n.º 101/1995 Coll., que se dicta en virtud de la Orden sobre la competencia sanitaria y profesional de las personas en la explotación de ferrocarriles y el transporte ferroviario, fijarla en 12 semanas de modo que se cumpla el requisito de exactitud, incl. la seguridad jurídica, y que los destinatarios de la obligación legal en cuestión no se vieran obstaculizados en la práctica por su aplicación coherente, de manera análoga a lo ocurrido con la parte teórica de dicha formación.
 En Ostrava, a 9 de enero de 2023
 Ing. Petr Maikranz v. r.
 Ing. Adrian Kufa v. r.
 director
 inspector
-de la Inspección Territorial de Ostrava
-de la Inspección Territorial de Ostrava
-
+Inspección Territorial de Ostrava
+Inspección Territorial de Ostrava
 
 ## Página 75
+
 
 ## ANEXOS
 Fig. núm. 5: Vista del lugar del suceso extraordinario desde la cabeza de la estación de Prosenice, lado de Lipník
@@ -2136,8 +2154,8 @@ Fig. núm. 5: Vista del lugar del suceso extraordinario desde la cabeza de la es
 Fig. núm. 6: Vista del material rodante ferroviario descarrilado del tren Pn 52479
          Fuente: DI
 
-
 ## Página 76
+
 
 Fig. núm. 7: Vista del bogie trasero descarrilado (parte «a») del 4. TDV 37 80 4657 019-8 y del bogie delantero descarrilado (parte «b») del 5. TDV 37 80 4657 040-4 del tren Pn 52479      Fuente: DI
 Fig. núm. 8: Vista de la 1. rueda guía izquierda del bogie delantero (parte «b») del 4. TDV 37 80 4657 019-8 del tren Pn 52479 con la 1. huella producida por la colisión con el HDV del tren Nex 43404             Fuente: DI

@@ -14,7 +14,6 @@ fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 76: cifras largas: faltan 3/7 (43%)"]
-notas_cifras: ["página 12: cifras cortas: 1/36", "página 13: cifras cortas: 9/18", "página 14: cifras cortas: 12/24", "página 15: cifras cortas: 3/4", "página 18: cifras cortas: 4/14", "página 19: cifras cortas: 1/1"]
 ---
 
 ## Página 1
@@ -1207,6 +1206,7 @@ Figura 36. La sala de control de tráfico con los jefes de estación en la Estac
 
 ## Página 55
 
+
 Figura 37. El panel de control en la estación de Larissa
 El método normal de funcionamiento del panel de control para el movimiento de los desvíos accionados eléctricamente y la
 188
@@ -1271,6 +1271,7 @@ Ya el 02/08/2022 OSE emitió una «Directriz urgente» haciendo obligatorio el u
 siempre que fuera posible. Aunque esta instrucción apuntaba principalmente al uso de los paneles de control en el área de Tesalónica, donde las operaciones manuales habían llevado a errores, estaba igualmente destinada a futuros controles
 
 ## Página 59
+
 
 paneles que se preveía poner en servicio y, por tanto, también aplicados al uso del panel de control en 
 Larissa. 
@@ -1393,6 +1394,7 @@ y cuantificable, estaba compuesta por las comunicaciones recibidas, dadas o moni
 
 ## Página 62
 
+
 comunicaciones en las que el jefe de estación solo tenía que escuchar (monitorizar). En el tercer medio horario, se intensifica aún más con 50 comunicaciones de una duración media comparable y superpuestas. La duración acumulada de las comunicaciones es un 25 % mayor en este último medio horario, dejando menos tiempo para comprender lo que estaba sucediendo, anticipar y razonar correctamente, o incluso compartir algunos problemas con alguien. 
 La variabilidad que reside en el error cometido por el jefe de estación de Larissa puede tener partes de sus fuentes de 
 219 
@@ -1466,6 +1468,7 @@ está marcado con un número y una letra si dos aparatos de cambio tienen el mis
 Figura 47. Detalle de los aparatos de cambio 118 en el Panel de Control de Larissa (principal-movimiento-desvío).
 
 ## Página 66
+
 
 Las líneas en las que la presencia de un tren se detecta mediante circuitos de vía o ejes contadores se muestran en el Panel de Control 238 en una secuencia de colores que delimita el circuito de vía o el área controlada por cada eje contador. Las líneas principales utilizan una secuencia de colores naranja/verde para las ascendentes y azul/marrón para las descendentes (Figura 48). Dentro de las líneas de colores que representan los circuitos de detección se colocan fotodiodos que se encienden para proporcionar información al operador del panel. Encender la luz amarilla en un circuito de vía significa que un tren ha sido "encaminado" para cruzar el tramo de vía que está iluminado. La luz amarilla permanece encendida hasta que el tren alcanza el circuito, momento en el que se apagan y son sustituidas por un grupo de luces rojas, lo que significa que hay un tren en el circuito de detección específico.
 Figura 48. Detalle del Panel de Control de Larissa con una ruta establecida para cruzar un cambio en posición de bypass.
@@ -1628,6 +1631,7 @@ El registrador de datos TELOC muestra que ambas locomotoras, la 120-012 y la 120
 
 ## Página 72
 
+
 y llegando a la Estación de Mercancías de Thessaloniki y permaneciendo después inmóvil durante aproximadamente 25 minutos (desde 
 21:15 hasta 21:40).  
 La misma cronología de los hechos está respaldada por los datos GPS del movimiento de las locomotoras facilitados por Hellenic 
@@ -1659,6 +1663,7 @@ Falta la grabación de vídeo de la carga del tren de mercancías 63503, al igua
 hasta el lugar del accidente.
 
 ## Página 73
+
 
 Análisis adicional de los sistemas de gestión de la seguridad
 
@@ -1706,6 +1711,7 @@ No hay una evaluación particular ni un intercambio de información entre la par
 294
 
 ## Página 74
+
 
 parte de la formación. Por lo tanto, sigue siendo posible que un alumno llegue bastante no preparado o insuficientemente preparado a la parte práctica, es decir, en medio de las operaciones de tráfico que deben ser gestionadas por los experimentados (los compañeros-formadores) en tiempo real.
 
@@ -1775,11 +1781,15 @@ Por otro lado, el Reglamento Interno de OSE, publicado por decreto ministerial e
 
 ## Página 76
 
-especifica que la División de Control de Tráfico de OSE es responsable de la coordinación central y del control de tráfico en tiempo real (en comunicación con las ERO), de conformidad con las normas de tráfico y seguridad, y de las instrucciones de reubicación de personal siempre que sea necesario en condiciones de tiempo real. Durante la tarde y la noche del 28 de febrero de 2023, la situación del tráfico no puede considerarse como «normal»: cuatro trenes se habían averiado, había retrasos, tráfico congestionado y muchos problemas que resolver. Esta era claramente una situación irregular y, de acuerdo con esta Reglamentación Interna, correspondería a la División de Control de Tráfico adoptar acciones para regular el tráfico de manera que se resolvieran las demandas conflictivas y se priorizaran las actuaciones, incluida la adopción de medidas para emplear personal de reserva o adicional hasta que el tráfico se normalizara de nuevo. Sin embargo, esto no ocurrió.
-Además, la posibilidad de supervisar el rendimiento de los jefes de estación, en particular el cumplimiento del requisito de establecer itinerarios automáticamente, se introdujo en la «Directriz urgente» publicada por OSE el 22/08/2022 (199): «La recepción o la salida de un tren sin formación de itinerario pero con operación individual deberá ser controlada disciplinariamente mediante el examen del equipo de registro de los sistemas de señalación». La falta de recursos y las dificultades técnicas para recuperar la información sobre el método aplicado para el establecimiento de itinerarios hicieron, sin embargo, que esta actividad de supervisión nunca se llevara a la práctica.
-Otro nivel de supervisión del rendimiento también es posible a través de las salas de control de tráfico digitalizadas (obsérvese que no existía una sala de control de este tipo cuando se produjo el accidente de Tempi), y esto se refiere a la supervisión del tráfico en túneles, así como, como en el ejemplo siguiente, a la propia gestión del tráfico. Como se observó durante las visitas in situ (Figura 52), en varias ocasiones durante la investigación, está claro que la decisión tomada a través del panel de control de la estación de Larissa, a unos pocos decenas de metros más allá (igual que podría ser también a cincuenta o cien kilómetros), puede observarse y supervisarse fácilmente. Sin embargo, actualmente no se utiliza de esta manera, y no está claro si existe alguna intención de hacerlo en el futuro. Se observó que se ha realizado un esfuerzo por poner en funcionamiento estas salas de control de tráfico allí donde la infraestructura (señalización) está disponible. Su uso, sin embargo, sigue siendo limitado por la falta de mantenimiento de los desvíos. Como resultado, todavía grandes partes de la ruta Atenas-Salónica no se supervisan de forma remota.
+especifica que la División de Control de Tráfico de OSE es responsable de la coordinación central y del control de tráfico en tiempo real (en comunicación con las UR), de conformidad con las normas de tráfico y seguridad, y con las instrucciones de reubicación de personal siempre que sea necesario en condiciones de tiempo real. En la tarde y la noche del 28 de febrero de 2023, la situación del tráfico no puede considerarse como «normal»: cuatro trenes habían averiado, había retrasos, tráfico congestionado y muchos problemas por resolver. Esta era claramente una situación irregular y, de acuerdo con esta Reglamentación Interna, correspondería a la División de Control de Tráfico adoptar acciones para regular el tráfico de tal manera que se resolvieran demandas conflictivas y se priorizaran actuaciones, incluida la adopción de acciones para emplear personal de reserva o adicional hasta que el tráfico se normalizara de nuevo. Sin embargo, esto no ocurrió.
+
+Además, la posibilidad de supervisar el desempeño de los jefes de estación, en particular el cumplimiento del requisito de establecer itinerarios automáticamente, se introdujo en la «Directriz urgente» publicada por OSE el 22/08/2022 (199): «La recepción o salida de un tren sin formación de itinerario pero con operación individual será controlada disciplinariamente mediante el examen del equipo de registro de los sistemas de señalización.» La falta de recursos y las dificultades técnicas para recuperar la información sobre el método aplicado para el establecimiento de itinerarios hicieron, sin embargo, que esta actividad de supervisión nunca se pusiera en práctica.
+
+Otro nivel de supervisión del desempeño también es posible a través de las salas de control de tráfico digitalizadas (obsérvese que no existía una sala de control de este tipo cuando ocurrió el accidente de Tempi), y esto se refiere a la supervisión del tráfico en túneles, y también, como en el ejemplo siguiente, a la propia gestión del tráfico. Como se observó durante las visitas sobre el terreno (Figura 52), en varias ocasiones durante la investigación, es evidente que la decisión tomada a través del panel de control en la estación de Larissa, unos pocos decenas de metros más allá (igual que podría ser también cincuenta o cien kilómetros), puede observarse y supervisarse fácilmente. Sin embargo, actualmente no se utiliza de esta manera, y no está claro si existe alguna intención de hacerlo en el futuro. Se observó que ha habido un esfuerzo por poner en funcionamiento estas salas de control de tráfico siempre que la infraestructura (señalización) esté disponible. Su uso, sin embargo, sigue limitado por el mantenimiento de los desvíos. Como resultado, todavía grandes partes de la ruta Atenas-Salónica no se supervisan de forma remota.
+
 Figura 52. Sala de control de tráfico digitalizada en la estación de Larissa, con personal experimentado, en 2025.
-Por último, pero no menos importante, está el papel «natural» del supervisor de los jefes de estación. Al igual que cualquier otro supervisor directo, el responsable regional o local puede o podría asumir esta supervisión continua u ocasional. Sin embargo, no se encontró ninguna indicación ni iniciativa organizada centralmente que guiara esta iniciativa de supervisión. Predomina la percepción de que la supervisión del rendimiento conduciría a la detección de incumplimientos y a la consiguiente sanción del personal. Teniendo en cuenta la falta de personal operativo, se consideró que supervisar el rendimiento de los jefes de estación era impracticable y, por tanto, se abandonó.
+
+Por último, pero no menos importante, está el papel «natural» del supervisor de los jefes de estación. Al igual que cualquier otro supervisor directo, el responsable regional o local puede o podría asumir esta supervisión continua u ocasional. Sin embargo, no se pudo encontrar ninguna indicación ni iniciativa organizada centralmente que guiara esta iniciativa de supervisión. Predomina la percepción de que la supervisión del desempeño conduciría a la detección de incumplimientos y a la consiguiente sanción del personal. Considerando la falta de personal operativo, se consideró que la supervisión del desempeño de los jefes de estación era impracticable y, por tanto, se abandonó.
 
 ## Página 77
 
@@ -1822,6 +1832,7 @@ el Gestor de Infraestructura OSE y RAS asumió sus funciones en julio de 2019, i
 
 ## Página 78
 
+
 legislación como normas nacionales de seguridad. Tras la consulta anteriormente mencionada, el 1 de julio de 2020 el Ministerio de Infraestructura y Transporte sometió las normas nacionales propuestas en el ámbito de la seguridad ferroviaria a la ERA y a la Comisión Europea para su evaluación de conformidad con los artículos 25 y 26 del Reglamento de Ejecución (UE) 2016/796.
 Si bien el objetivo principal de este trabajo era alinear el marco nacional con los requisitos modificados del Reglamento (UE) 2019/773 (TSI OPE), no existen referencias específicas en el texto principal del GKK a la metodología de comunicación relacionada con la seguridad establecida en el Apéndice C del Reglamento de la UE (257). Los requisitos del Reglamento de la UE, en este caso el Apéndice C de la Decisión 2012/757/EU (TSI OPE 2012), se consideran directamente aplicables en los Estados miembros. Esto significa que se espera una aplicación estricta de la metodología por parte de los jefes de estación y los conductores de tren, sin necesidad de una especificación adicional en la legislación nacional. Además, los elementos de comunicación relacionada con la seguridad no serían aceptados y obtendrían un dictamen desfavorable durante la evaluación de las Normas Nacionales de Seguridad por parte de la ERA (4.2.20.3).
 En este razonamiento, se requiere la integración de la metodología en diversos documentos relacionados con las comunicaciones, tales como las
@@ -1854,6 +1865,7 @@ Las grabaciones de las distintas estaciones del día del accidente (facilitadas 
 Juez Instructor) muestran que el sistema de retransmisión no funcionaba como se esperaba el día del accidente. Como uno de los muchos ejemplos, la grabación CH1_00000459_90.wav de Rapsani muestra que no hay repetidor ni retransmisión digital de la señal a lo largo de la línea, ya que se oye muy claramente al jefe de estación de Neoi Poroi hablando con un tren que pasa por la zona, pero no se oye en absoluto la respuesta del conductor del tren, ya que es una transmisión de menor potencia
 
 ## Página 79
+
 
 que no es lo suficientemente fuerte como para ser captado directamente por el receptor de Rapsani. Si un repetidor o un enlace de radio estuviera funcionando correctamente, esta transmisión del maquinista habría sido captada por todas las estaciones receptoras de la zona y a lo largo de la ruta del tren. Sin embargo, es muy dudoso que esto haya podido influir en el curso del accidente.
 4.2.11. Gestión de instalaciones técnicas (activos)
@@ -2047,6 +2059,7 @@ en las numerosas cartas alarmantes enviadas por los Sindicatos en los años prev
 
 ## Página 85
 
+
 En conclusión, al no existir un NIB para realizar el análisis independiente de accidentes y sucesos, la capacidad del sector ferroviario griego de aprender de los sucesos adversos dependió íntegramente de las investigaciones realizadas por los operadores como parte de su SGS. Estas investigaciones internas, sin embargo, al centrarse en los errores cometidos por el personal de primera línea de forma individual, carecían sistemáticamente de la profundidad necesaria para introducir cambios sostenibles, limitando con ello el potencial de aprendizaje a un mínimo extremo. Situación que se vio reforzada aún más por la forma en que RAS se centró en el incumplimiento en sus investigaciones, análisis y recomendaciones.
 
 Análisis adicional de las capas de control
@@ -2150,6 +2163,7 @@ Asimismo, no existe transparencia sobre qué ocurre con las normas nacionales no
 
 ## Página 89
 
+
 evaluación de la ERA, que sería el caso con las reglas de explotación que especifiquen la metodología para la comunicación relacionada con la seguridad. Interrogada sobre el seguimiento de la aplicación práctica del derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión Europea respondió que se basa esencialmente en la información procedente del seguimiento que realiza la Agencia de las autoridades nacionales de seguridad y de los organismos notificados, así como de las quejas. En este contexto, la Comisión Europea también declaró que: «Los Estados miembros tienen la responsabilidad principal de aplicar e implementar correctamente el derecho de la Unión. Las autoridades nacionales de seguridad se crearon para supervisar la aplicación del acquis de la UE entre las partes interesadas, dada su experiencia técnica y la alta complejidad de los Reglamentos y las Decisiones en el ámbito ferroviario, como el TSI OPE.».
 En el caso específico de Grecia, donde la necesidad de integrar la metodología de comunicación requerida en las instrucciones de explotación no fue reconocida por todo el sector ferroviario (incl. el Ministerio y la Autoridad Nacional de Seguridad (4.2.9)), la falta de control puede dar lugar a la implementación inadecuada de las reglas de explotación especificadas por la UE que pueden tener un impacto directo en la seguridad.
 4.2.21. Hacer cumplir la legislación de la UE
@@ -2167,6 +2181,7 @@ Con el (engorroso y que consume tiempo) procedimiento de infracción siendo el �
 hacer cumplir a disposición de la Comisión siempre que los contactos informales resultan insuficientes para resolver un asunto de cumplimiento del derecho de la UE, se pierde un tiempo precioso siempre que los incumplimientos identificados están relacionados con elementos de legislación que conciernen a la seguridad ferroviaria.
 
 ## Página 90
+
 
 4.3. La colisión de los trenes
 En el momento del primer impacto, tal y como registraron los datos TELOC de a bordo recuperados del
@@ -2188,6 +2203,7 @@ Según la mejor estimación posible, 20 (+/- 2) víctimas adicionales fueron cau
 ellas y las aplastaron sin dejarles espacio suficiente para sobrevivir. La causa real de la muerte habría sido el traumatismo mecánico en combinación con la asfixia debido a la compresión del tórax.
 
 ## Página 91
+
 
 Durante su movimiento hacia su posición final de reposo, 2 de los 31 ocupantes del coche restaurante
 421
@@ -2389,6 +2405,7 @@ La segunda fase de la deflagración parece implicar un punto de ignición separa
 inicial. La duración de esta 2ª fase, la altura real de las columnas de fuego y la alimentación de la bola de fuego indican que una cantidad considerable (masa) de combustible está involucrada en esta fase, creando este tipo de forma de columna y alimentando la bola de fuego original durante aproximadamente 4 segundos hasta que el movimiento se detiene y la bola de fuego entra en su fase
 
 ## Página 99
+
 
 fase. Dado el color de la llama similar y las características de combustión similares, se puede asumir con seguridad que el tipo de combustible que se está quemando es el mismo que en la Etapa 1. Esto es una indicación de que: 1) un segundo volumen del mismo combustible se está quemando mientras se desplaza en dirección norte, o 2) que el volumen original, después de haber derramado una parte de su contenido durante la Etapa 1 de la deflagración (0-2 segundos desde la ignición), se está desplazando ahora en dirección norte, siguiendo el movimiento del tren de pasajeros.
 Los fotogramas anteriores del vídeo de la Autovía Egea (Figura 59) no permiten identificar la forma irregular oscura.
@@ -3057,6 +3074,7 @@ Además, la ley proporcionó a las víctimas lesionadas y a los familiares cerca
 
 ## Página 124
 
+
 5. Conclusiones
 5.1. Resumen y conclusiones del análisis
 El escenario más probable considerado para explicar la colisión frontal entre el tren de pasajeros IC-62 y el tren de mercancías 631
@@ -3166,6 +3184,7 @@ OSE no proporciona ningún mantenimiento preventivo de sus activos principales p
 641
 
 ## Página 126
+
 
 Las intervenciones solo tienen lugar cuando fallan los activos (críticos), incluso en los proyectos de renovación que se ponen parcialmente en servicio (4.2.11).
 Para los maquinistas, que se enfrentan a diario a cambios debidos a obras en curso y/o a fallos de activos, esto

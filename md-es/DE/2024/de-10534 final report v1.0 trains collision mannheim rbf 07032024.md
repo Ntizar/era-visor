@@ -10,13 +10,13 @@ chars: 70024
 ratio_longitud: 1.07
 tokens_in: 33680
 tokens_out: 19862
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 16: cifras largas: faltan 2/4 (50%)"]
-notas_cifras: ["página 14: cifras cortas: 4/6"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Número de expediente:
@@ -34,16 +34,16 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | AblaufbergA |
 | Punto kilométrico: | 4171 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice 
 ## I. 
@@ -92,10 +92,10 @@ Evaluación del suceso..........................................................
 Tareas y obligaciones....................................................................................... 12 
 4.1.1 
 Investigación de los procesos operativos del gestor de infraestructura................. 12 
-I 
-
+I
 
 ## Página 4
+
 
 4.1.2 
 Investigación de los procesos operativos de las EVU............................................... 15 
@@ -131,10 +131,10 @@ Recomendaciones de seguridad....................................................
 ## Índice de modificaciones: 
 Modificación 
 Estado 
-II 
-
+II
 
 ## Página 5
+
 
 ## II. 
 ## Índice de figuras: 
@@ -151,10 +151,10 @@ Tabla 2: Resumen de las condiciones externas....................................
 Tabla 3: Resumen de los daños personales.............................................................................. 9 
 Tabla 4: Resumen de la cuantía estimada de los daños............................................................... 9 
 Tabla 5: Datos técnicos de la locomotora BR 186................................................................................. 20 
-III 
-
+III
 
 ## Página 6
+
 
 ## IV. 
 ## Índice de abreviaturas: 
@@ -210,10 +210,10 @@ LüP
 Longitud entre topes 
 PZB 
 Bloqueo puntual de trenes 
-IV 
-
+IV
 
 ## Página 7
+
 
 | Ril | Directriz |
 | SMS | Sistema de gestión de seguridad |
@@ -222,10 +222,10 @@ IV
 | TfV | Ordenanza del certificado de conductor de tren |
 | Tfz | Vehículo ferroviario |
 | Ww/ -in | Cambiavía / Cambiavía |
-V 
-
+V
 
 ## Página 8
+
 
 ## 0 Nota preliminar 
 En virtud del artículo 24 de la Directiva (UE) 2016/798, la Comisión Europea, con la 
@@ -234,10 +234,10 @@ del informe de investigación. Estas disposiciones deben cumplirse en principio.
 del informe debe adaptarse a la naturaleza y gravedad del suceso peligroso. 
 Con la publicación del reglamento y su entrada en vigor el vigésimo día después de su 
 publicación en el Diario Oficial de la Unión Europea (UE), este es vinculante y debe 
-aplicarse de forma inmediata a todas las investigaciones iniciadas a partir del 17.05.2020. 
-
+aplicarse de forma inmediata a todas las investigaciones iniciadas a partir del 17.05.2020.
 
 ## Página 9
+
 
 ## 1 Resumen 
 El primer capítulo contiene una descripción breve del suceso, así como información sobre 
@@ -257,10 +257,10 @@ omisiones, hechos o circunstancias como factores críticos para la seguridad. Es
 distinguen, conforme al Reglamento de ejecución 2020/572, en factores causales, 
 contribuyentes y sistémicos. 
 Una evaluación detallada del suceso, con su clasificación como factores críticos para la 
-seguridad, se presenta en los capítulos siguientes. 
-
+seguridad, se presenta en los capítulos siguientes.
 
 ## Página 10
+
 
 |  | Hecho: |  | Factor causal | Factor contribuyente | Factor sistémico |
 |  | Fecha/hora así como , |  |  |  |  |
@@ -280,6 +280,7 @@ imanes de vía de 2.000 Hz.
 
 ## Página 11
 
+
 ## 2 La investigación y su contexto
 La Oficina Federal de Investigación de Accidentes Ferroviarios (BEU) es competente para la investigación de sucesos peligrosos en la explotación ferroviaria, en el sentido del capítulo V de la Directiva (UE) 2016/798, en infraestructuras ferroviarias federales y en infraestructuras ferroviarias no federales de la red principal, conforme al § 2b de la Ley General de Ferrocarriles (AEG). El objetivo y la finalidad de las investigaciones iniciadas es aclarar las causas del suceso peligroso y extraer de ello indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otros reclamos de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 Las recomendaciones de seguridad de la BEU para evitar sucesos peligrosos y mejorar la seguridad ferroviaria se dirigen a la autoridad nacional de seguridad y, cuando la naturaleza de la recomendación lo requiere, a la Agencia Ferroviaria de la Unión Europea y a otros organismos o autoridades. En general, las recomendaciones de seguridad se dirigen también a los directa o indirectamente afectados, así como a todas las empresas ferroviarias pertinentes.
@@ -287,8 +288,8 @@ En caso de accidentes graves, la BEU inicia siempre investigaciones conforme al 
 Debido a la magnitud de los daños o a las consecuencias del presente suceso peligroso, se iniciaron investigaciones sobre la base del artículo 20, apartado 2, letra c), de la Directiva (UE) 2016/798.
 Las actuaciones de investigación de accidentes se llevan a cabo de forma estructurada en cuatro procesos nucleares definidos, que comienzan con la decisión de iniciar una investigación y terminan con
 
-
 ## Página 12
+
 
 la publicación del informe de investigación. Para la determinación de causas se realizan investigaciones orientadas a resultados en todas las disciplinas técnicas implicadas y, en particular, se llevan a cabo análisis de causa-efecto y comparaciones entre lo previsto y lo real.
 Las actuaciones de investigación fueron dirigidas de forma principal por el distrito de investigación localmente competente Suroeste.
@@ -299,8 +300,8 @@ Sobre la base del § 5b del AEG, con carácter general se solicitan informacione
 Además, conforme al § 5b, apartado 4, del AEG, pueden exigirse servicios de apoyo a los ferrocarriles implicados en sucesos peligrosos. En el presente suceso peligroso no se exigieron servicios de apoyo.
 La liberación de la zona del accidente por parte de la infraestructura fue realizada por la BEU el 07.03.2024.
 
-
 ## Página 13
+
 
 ## 3 Descripción del suceso
 En el tercer capítulo se describe el suceso peligroso con más detalle en dos subcapítulos preestablecidos. En el capítulo 3.1, además de los datos básicos, se incluyen informaciones adicionales sobre el lugar del suceso, las condiciones externas, los implicados y las consecuencias. La reconstrucción del suceso, así como las informaciones sobre la activación y el desarrollo de las medidas de rescate, se presentan en el capítulo 3.2. Las descripciones se refieren fundamentalmente a las condiciones predominantes y a las circunstancias constatadas en el momento del suceso.
@@ -312,8 +313,8 @@ La BEU registra el suceso a nivel nacional bajo el tipo de suceso colisión de t
 El lugar del suceso se encontraba en la plataforma de maniobras A de la estación de clasificación de Mannheim (Bf Mannheim Rbf). El DGS 43373 circulaba por la línea de la bifurcación (Abzw) Mannheim Rennplatz – Mannheim Rbf. La línea figuraba en el directorio de velocidades localmente admisibles con el número de línea 4051. Se trataba de una línea principal que estaba ejecutada a doble vía desde la Abzw Mannheim Rennplatz hasta el tramo de estación BŌ Mannheim Rbf Gr K/Kn. Estaba equipada con la señalización de seguridad de trenes puntual (PZB) y con la radiotelefonía digital de tren Global System for Mobile Communication – Rail (GSM-R). La velocidad máxima era de 80 km/h con una distancia de frenado de 700 m.
 La siguiente figura muestra un plano de situación con el recorrido del DGS 43373, así como las instalaciones de explotación relevantes y, circundada en rojo, el lugar del suceso.
 
-
 ## Página 14
+
 
 Figura 1: Plano de situación¹
 La siguiente figura muestra un esquema de disposición de vías de la parte de la estación de clasificación de Mannheim (Bf Mannheim Rbf) relevante para el suceso, con los elementos de infraestructura pertinentes, la ubicación de la locomotora de maniobras A₂, así como el recorrido del DGS 43373 hasta la señal Ls 602II como línea roja y, a partir de la señal Ls 602II, como línea roja discontinua.
@@ -321,8 +322,8 @@ Figura 2: Esquema de disposición de vías²
 ¹ Fuente: Datos geobásicos: © GeoBasis-DE / BKG 2024, editado por BEU
 ² Fuente: DB InfraGO AG, editado por BEU
 
-
 ## Página 15
+
 
 De la figura se desprende que el DGS 43373 fue dirigido desde la señal de entrada (Esig) C a la vía 602 del grupo de entrada K. Tras el paso indebido por la señal Ls 602II que indicaba detención, el tren circuló por los desvíos W323, W324, W325 y W328. A la altura del puesto de mando (Stw) 16 en la plataforma de maniobras A, colisionó a continuación con la locomotora de maniobras A₂ que se encontraba allí. Marcado en la figura con línea discontinua naranja está el itinerario del que el conductor (Tf) del DGS 43373 partía de la suposición de que este le hubiera sido previsto para su circulación.
 Debido a su tamaño, la estación de clasificación de Mannheim (Bf Mannheim Rbf) estaba dividida en cinco distritos de jefe de maniobras (Fahrdienstleiter). Era competente para el distrito de la estación relevante para el suceso la jefa de maniobras (Fdl-in) K en el puesto de mando central oeste (Zentralstellwerk West). Se trataba de un puesto de mando de esquema de vías de la serie Siemens SpDrS60. Al distrito de jefe de maniobras K pertenecían el Stw 16 dependiente y el puesto de mando de maniobras 17 en la plataforma de maniobras A. Entre el Stw K y el Stw 16 existía una dependencia de concordancia para las entradas en el grupo K. Conforme al libro de instalaciones de explotación, en el distrito de jefe de maniobras K solo se permitían los tránsitos por la vía 600. Todas las demás vías del grupo K eran vías de entrada para trenes terminados.
@@ -338,39 +339,55 @@ Para la empresa de transporte ferroviario (EVU) LTE Netherlands B.V., cedida por
 Para el EVU DB Cargo AG:
  Tf de la locomotora de maniobras A₂
 
-
 ## Página 16
 
 ### 3.1.3 Condiciones externas
-En el momento del suceso se daban las siguientes condiciones:
-| Condiciones de luz | Luz del día |
-| Visibilidad | despejada |
-| Cobertura | despejada |
+Al momento del hecho se daban las siguientes condiciones:
+| Condiciones de luz | Luz diurna |
+| Visibilidad | clara |
+| Cobertura | despejado |
 | Temperaturas | 8°C 10°C – |
-| Precipitación en caída | No |
+| Precipitación en descenso | No |
 | Frecuencia de precipitación | -- |
 | Suelo/precipitación caída | seco |
 Tabla 2: Resumen de las condiciones externas
-
-### 3.1.4 Vímas mortales, heridos y daños materiales
-En el suceso se produjeron las siguientes víctimas personales:
-| | Número de fallecidos | Número de heridos graves | Número de heridos leves |
-| Pasajeros | - | - | - |
-| Empleados | - | - | 2 |
-| Usuarios de pasos a nivel | - | - | - |
-| Terceros | - | - | - |
-| Suma | - | - | 2 |
-Tabla 3: Resumen de las víctimas personales
-La cuantía estimada de los daños materiales en euros se compone de la siguiente manera:
-|  |  |  |  | Costes estimados en euros |  |
-|  | Vehículos |  | 91 330 . |  |  |
-|  | Infraestructura |  | 25 000 . |  |  |
-|  | Terceros |  | - |  |  |
-|  | Cuantía total del daño |  | 116 330 . |  |  |
-Tabla 4: Resumen de la cuantía estimada del daño
-
+### 3.1.4 Fallecidos, heridos y daños materiales
+En el hecho se produjeron los siguientes daños personales:
+Número de fallecidos
+Número de heridos graves
+Número de heridos leves
+Viajeros
+-
+-
+-
+Empleados
+-
+-
+2
+Usuarios de
+-
+-
+-
+pasos a nivel
+DriƩe
+-
+-
+-
+Total
+-
+-
+2
+Tabla 3: Resumen de los daños personales
+La cuantía estimada de los daños materiales en euros se desglosa como sigue:
+|  |  |  |  | coste estimado en euros |  |
+|  | Vehículos |  | 91330 . |  |  |
+|  | Infraestructura |  | 25000 . |  |  |
+|  | DriƩe |  | - |  |  |
+|  | Importe total de daños |  | 116 330 . |  |  |
+Tabla 4: Resumen de la cuantía estimada de daños
 
 ## Página 17
+
 
 ### 3.2 Descripción objetiva de los hechos
 Para la reconstrucción del suceso peligroso, así como para la descripción de las medidas de emergencia, se recurre especialmente a las anotaciones, evaluaciones y hallazgos etc. contenidos en el capítulo 4.
@@ -382,13 +399,14 @@ La siguiente figura muestra el punto de colisión en la plataforma de maniobras 
 
 ## Página 18
 
+
 Figura 3: Punto de colisión
 ### 3.2.2 Gestión de emergencias
 De acuerdo con el § 4 apartado 3 AEG, los ferrocarriles tienen la obligación de participar en las medidas de protección contra incendios y de asistencia técnica. Los ministerios del Interior de los Länder y la DB AG han acordado el siguiente procedimiento. Para la DB InfraGO AG resultan de aplicación las correspondientes leyes de protección contra incendios y de protección civil de los Länder. La gestión de emergencias de la DB AG se describe y regula con mayor detalle en la directriz corporativa 123, y la de la DB InfraGO AG en la directriz (Ril) 423.
 La Fdl-in K informó inmediatamente de conocerse el suceso al centro de gestión de emergencias competente. Este activó la cadena de rescate y ordenó al gestor de emergencias que acudiera al lugar del suceso. La BEU no detectó errores ni retrasos en el marco de la gestión de emergencias.
 
-
 ## Página 19
+
 
 ## 4 Evaluación del suceso
 En este capítulo se presentan, en particular, los factores críticos de seguridad determinantes identificados en el marco de la investigación del accidente. A tal efecto, en cada caso concreto se abordan las tareas y obligaciones de personas y órganos individuales, los vehículos y las instalaciones técnicas implicados, así como las acciones humanas concretas y los mecanismos de retroalimentación y control. Si existen datos sobre sucesos anteriores, estos se exponen en un subcapítulo adicional.
@@ -399,8 +417,8 @@ La colisión tuvo lugar en el ámbito de competencia de la Ww-in en el Stw 16. L
 El día del suceso tuvo lugar una huelga nacional, de duración limitada, del sindicato Deutscher Lokomotivführer. De la huelga se vieron afectados, además de diversos EVU, el EIU DB InfraGO AG.
 Para el DGS 43373 estaban vigentes el día del suceso un total de cuatro órdenes de horario (Fplo). De las Fplo se derivaban diversas desviaciones de la circulación del tren en las regiones Oeste, Centro y Suroeste. La cuarta Fplo con el n.º 50546_SW_LTE NL fue sustituida un día antes del suceso por un adicional posterior, Fplo n.º 50546_SW_LTE NL_N1, y por tanto la quinta Fplo de este tren. Conforme a este adicional, el DGS 43373 fue desviado, entre otros, el día del suceso desde el Bf Lampertheim por el Bf Mannheim-Käfertal y la Abzw Mannheim Rennplatz hasta el Bf Mannheim Rbf Gr K/Kn. Allí debía la circulación del tren realizar un cambio de sentido de circulación y, a continuación, continuar hasta el estación de destino Bf Mannheim Hbf.
 
-
 ## Página 20
+
 
 ### Fdl-in en el Stw K
 A la Fdl-in K no le constaba el día del suceso la quinta Fplo n.º 50546_SW_LTE NL_N1, por lo que no disponía de un horario válido para el DGS 43373. El EIU no pudo aclarar por qué la quinta Fplo no había llegado a la base de datos de Fplo el día del suceso. Según declaración de la Fdl-in K, había decidido, en coordinación con la coordinación de red en el centro de operaciones, permitir la entrada del DGS 43373 desde la vía libre a la vía 602 del Bf Mannheim Rbf.
@@ -409,16 +427,16 @@ Paralelamente, la Fdl-in tenía en su sector otra entrada de un tren distinto as
 ### Ww-in en el Stw 16
 Conforme a las grabaciones meteorológicas, el día del suceso comenzó el amanecer hacia las 07:00 horas. Hasta ese momento estaba activa la conmutación nocturna de las señales luminosas. A partir de un momento no determinado en el reglamento después del amanecer, cuando hubiera suficiente luz solar, la Ww-in habría tenido que conmutar las señales luminosas de la conmutación nocturna a la diurna. Según información del EIU, no existía una especificación explícita para el momento de la conmutación entre la conmutación nocturna y diurna de las señales luminosas. Como el Stw 16 no disponía de un sensor de crepúsculo, correspondía a la Ww-in, a su criterio, conmutar las señales a la conmutación diurna en función de la luminosidad y las condiciones meteorológicas. Sin embargo, la Ww-in no conmutó a la conmutación diurna hasta el momento del suceso, de modo que la reconocibilidad de las lámparas de señal se vio empeorada por el aumento de la luminosidad del entorno. El 15.03.2024 se realizó a tal efecto una prueba con un vehículo de tracción (Tfz) idéntico de la
 
-
 ## Página 21
+
 
 serie (BR) 186, como correspondía al del DGS 43373 el día del suceso. Estaban presentes, además de dos empleados de la BEU, empleados de los EVU implicados y del EIU. La prueba se realizó en el periodo del momento del suceso con la conmutación nocturna activada y, a continuación, con la conmutación diurna activada. Las condiciones de luz eran comparables al momento del suceso. La figura siguiente muestra la diferencia de la imagen de señal «Alto» del Ls 602II con la conmutación nocturna y la diurna. Cabe señalar que las fotografías muestran un ángulo de visión de la señal no idéntico.
 Figura 4: Ls 602II conmutación nocturna y diurna
 En la prueba se recorrió, de forma análoga a la circulación del tren DGS 43373, la vía 602. La imagen de señal del Ls 602II que indicaba «Alto» era, con la conmutación diurna, ampliamente reconocible desde la posición del Tf. En cambio, con la conmutación nocturna, al aproximarse, solo era inequívocamente reconocible justo antes de alcanzar el cuerpo de la señal. La placa de mástil blanco-rojo-blanca colocada en el mástil de la señal era en ambos recorridos ampliamente visible.
 La reconocibilidad de las imágenes de señal desempeña un papel fundamental en la mayoría de los sistemas de señalización automática de trenes, como es el caso de la PZB empleada en el DGS 43373. En el caso del suceso en el Bf Mannheim Rbf, la reconocibilidad de las imágenes de señal adquirió una importancia aún mayor, ya que las señales de destino no se anunciaban previamente ni estaban equipadas con un imán de vía de 2.000 Hz. En muchos Stw, el proceso de conmutación entre la conmutación diurna y nocturna de la iluminación de las señales se realiza automáticamente mediante un sensor de luz, o bien el personal del
 
-
 ## Página 22
+
 
 Stw recibe un recordatorio para conmutar mediante un despertador. En el Stw 16 del Bf Mannheim Rbf no estaban instalados tales sistemas técnicos. El EIU debía comprobar si una adecuada modernización en todos los Stw que no estén equipados con tales sistemas técnicos de apoyo es proporcionada.
 Una vez que la Ww-in había recibido la solicitud de autorización de la Fdl-in para la entrada en la vía 602, había comprobado que la vía estaba libre de vehículos. La vía de deslizamiento terminaba en la marca de límite de la aguja W323, de modo que la aguja no formaba parte del cierre de la vía de tren. A continuación, había concedido a la Fdl-in su autorización para la entrada en la vía 602 mediante la pulsación de la tecla de cesión de autorización en combinación con la tecla correspondiente para la vía 602. Mientras tanto, el Ablauftieg había continuado con la locomotora de maniobras A2 en la vía 605. En coordinación con el Bergmeister A se había acordado que la locomotora de maniobras A2 hiciera una parada en el Ablauftieg A.
@@ -430,20 +448,21 @@ El DGS 43373 circulaba regularmente de Rotterdam Waalhaven (Países Bajos) a Man
 
 ## Página 23
 
+
 a la estación fronteriza de Emmerich. En la estación de Emmerich se produjo un cambio de maquinista y el maquinista que tomaba el relevo debía conducir la circulación hasta la estación de destino Mannheim Hbf. El maquinista declaró en una entrevista con la empresa ferroviaria que el día del suceso había cargado el horario regular del tren en el dispositivo a bordo del libro de circulación electrónico y listado de tramos a velocidad reducida (E-BuLa). Los Fplo estaban a su disposición en su teléfono móvil profesional. Para la visualización de los horarios alternativos y la recopilación de los tramos a velocidad reducida transitorios y otras particularidades (La), utilizó una tablet de acuerdo con las instrucciones de la empresa ferroviaria.
 El maquinista del DGS 43373 debía, por tanto, utilizar tres dispositivos diferentes para la circulación con el fin de que se le mostrara el recorrido vigente del tren en ese día. La necesidad de utilizar una cantidad tan elevada de dispositivos diferentes para representar el recorrido de una circulación debe considerarse muy crítica. En particular, el uso del teléfono móvil para una visualización constante de datos de horarios es inadecuado, ya que, debido a un uso distinto del dispositivo, como por ejemplo llamar por teléfono o utilizar otras aplicaciones, los datos de horarios dejarían de mostrarse temporalmente. Las empresas ferroviarias deben velar por que se faciliten al maquinista todos los documentos necesarios para la circulación y se presenten en una forma adecuada.
 Según la empresa ferroviaria, los distintos Fplo vigentes para el DGS 43373 se habrían remitido al maquinista por correo electrónico antes de su inicio de servicio. Sin embargo, el quinto Fplo con el número 50546_SW_LTE NL_N1 no se habría remitido al maquinista por parte de la instancia que otorga el encargo. Por tanto, para el último tramo de trayecto hasta la estación de Mannheim Hbf, el maquinista solo disponía del cuarto Fplo con el número 50546_SW_LTE NL. De acuerdo con este cuarto Fplo, el DGS 43373 debía circular desde la estación de Lampertheim según el libro de circulación 6920 página 170 columna 2d y, desde la bifurcación de Mannheim Rennplatz, habría sido conducido sin cambio de sentido de circulación en la estación de clasificación de Mannheim directamente a la estación de destino Mannheim Hbf.
 De acuerdo con el quinto Fplo del que el maquinista no disponía, el DGS 43373 debía circular de forma distinta hasta el grupo K de la estación de clasificación de Mannheim y, tras un cambio de sentido de circulación, continuar hacia la estación de Mannheim Hbf. La parada prevista en la estación de clasificación de Mannheim estaba prevista de las 09:06 a las 09:46, es decir, con una ventana de tiempo suficiente para el cambio de sentido de circulación.
 
-
 ## Página 24
+
 
 No obstante, el maquinista del DGS 43373 declaró a la empresa ferroviaria que también había perdido de vista el cuarto Fplo Nr. 50546_SW_LTE NL después de la estación de Lampertheim. También había continuado tras la bifurcación de Mannheim Rennplatz según el libro de circulación 6920, que preveía la entrada en el Bf Mannheim Rbf Gr K/Kn. Así, el maquinista del DGS 43373 no reconoció la presunta conducción errónea según el recorrido del cuarto Fplo Nr. 50546_SW_LTE NL, pero circuló casualmente por el recorrido del tren previsto según el quinto Fplo vigente Nr. 50546_SW_LTE NL_N1.
 Los Fplo son necesarios, entre otros, para desviar circulaciones con el fin de ejecutar obras. Sin embargo, debe garantizarse que la empresa ferroviaria y el maquinista puedan dominar el cumplimiento del número de Fplo a tener en cuenta en una circulación. En el presente caso, ni el maquinista del DGS 43373 ni la jefa de maniobras en K recibieron el quinto Fplo Nr. 50546_SW_LTE NL_N1 remitido el día anterior al suceso, lo que también evidenció problemas en su distribución. Cuantas más modificaciones se realicen en los Fplo y cuantos más participantes e interfaces haya en su envío, mayor será la probabilidad de error. La empresa ferroviaria debería, por tanto, procurar en el futuro mantener o limitar el número de Fplo para una circulación.
 El maquinista añadió que, con el DGS 43373, se había detenido ante la señal Esig C de la estación de clasificación de Mannheim que indicaba parada. Una vez que esta había cambiado a la posición de velocidad reducida, había puesto el tren en movimiento de nuevo. Al final de la vía de entrada había percibido una señal de bloqueo en posición alta apagada [nota red.: el Ls 602II] y lo había relacionado con una posible huelga del personal de explotación en un puesto de mando, del que se le había informado poco antes. No había reconocido la señal de parada. Tampoco había percibido la placa de mástil blanco-rojo-blanco colocada en la señal de bloqueo en posición alta. Partía de la suposición de que su tren debía continuar, por la izquierda del Stw 16, hacia otro grupo de vías de la estación de clasificación de Mannheim. En su opinión, había sido reforzado por la inexistente influencia de los imanes de vía de 1.000 Hz y 2.000 Hz. Tras el paso indebido junto al Ls 602II, había reconocido que la aguja W325 no se encontraba en la posición correcta para el itinerario que él suponía y que el itinerario del DGS 43373 conducía hacia una locomotora de maniobras en el desvío A. A partir de ahí, había iniciado una frenada de emergencia y se había agarrado.
 
-
 ## Página 25
+
 
 El maquinista habría tenido que detener el DGS 43373 ante el Ls 602II que indicaba parada. De acuerdo con Ril 301.0101 Sección 1 Párrafo 1, la señal de parada era válida para circulaciones de trenes y de maniobras y, de acuerdo con Ril 301.0101 Sección 2 Párrafo 4, podía mostrarse en la señal principal o en la señal de bloqueo. En el Ls 602II había una placa de mástil blanco-rojo-blanco. De acuerdo con Ril 301.0002 Sección 8 Párrafo 1 a), las señales luminosas en cuyo emplazamiento había que detenerse ante una parada o una señal apagada estaban señalizadas mediante una placa de mástil blanco-rojo-blanco. En consecuencia, para el maquinista era obligatoria la parada ante el Ls 602II presuntamente apagado. Las acciones constatadas del maquinista al entrar en la estación de clasificación de Mannheim evidenciaron, en contra del Reglamento (UE) 2018/762 Anexo I punto 4.2.1, una falta de competencia del maquinista para el cumplimiento de las tareas de seguridad que le habían sido encomendadas.
 La falta de seguridad en la actuación, en particular el paso del maquinista junto al Ls 602II que indicaba parada, se valora como factor causal [1] del suceso. La exclusión de esta acción habría impedido el suceso con toda probabilidad.
@@ -452,8 +471,8 @@ Los datos del registro electrónico de circulaciones (EFR) almacenados en la loc
 La siguiente figura muestra el transcurso de la circulación del DGS 43373 desde la salida en la estación de Emmerich hasta la colisión de trenes en la estación de clasificación de Mannheim, normalizado a la hora de Europa Central.
 Figura 5: Transcurso de la circulación DGS 43373 de Bf Emmerich a Bf Mannheim Rbf
 
-
 ## Página 26
+
 
 De la figura se desprende que el maquinista introdujo su número de maquinista en el dispositivo del vehículo a las 02:27, tras su inicio de servicio en la estación de Emmerich. A las 02:38 el maquinista reanudó la circulación del DGS 43373. En el transcurso posterior de la circulación de Emmerich a Mannheim se produjeron varias paradas cortas. La más larga duró 10 minutos y 49 segundos.
 La siguiente figura muestra el transcurso de la circulación del DGS 43373 en el último tramo de trayecto en el área metropolitana de Mannheim hasta el momento del suceso, normalizado a la hora de Europa Central.
@@ -462,8 +481,8 @@ De los datos registrados del EFR se desprende que el DGS 43373 se había detenid
 ### 4.2 Vehículos y dispositivos técnicos
 En este capítulo se presentan los resultados de la investigación de los vehículos implicados, de la infraestructura ferroviaria y de otros dispositivos técnicos, incluidas las actividades y decisiones que pudieran estar relacionadas con ellos.
 
-
 ## Página 27
+
 
 ### 4.2.1 Investigación de vehículos
 A continuación se presentan los hallazgos relevantes sobre los vehículos de la circulación implicada DGS 43373 y de la locomotora de maniobras A2.
@@ -483,6 +502,7 @@ Se prescindió de una investigación técnica de vehículo más exhaustiva de lo
 
 ## Página 28
 
+
 ### Rangierlok 𝐀𝟐
 En la maniobrera Aଶ implicada en el suceso se trataba de un Tfz de la BR 296 con una masa de 80 t. El Tfz se encontraba detenido en el momento del suceso y estaba frenado. Debido a la colisión, el Tfz fue desplazado varios metros.
 Se prescindió de una investigación técnica del vehículo ferroviario empleado, ya que, sobre la base de la investigación de los hechos, eventuales defectos o déficits de mantenimiento no pudieron tener influencia en el suceso. Por tanto, el Tfz de la maniobrera Aଶ no pudo constituir ni un factor causal ni un factor contribuyente en el suceso.
@@ -493,8 +513,8 @@ La señal de destino para la circulación de trenes DGS 43373 en la estación de
 ### Dotación con imán de vía de 2.000 Hz
 Las señales Ls de tipo alto del grupo de vías 600 no disponían de un imán de vía de 2.000 Hz, que habría conducido a una frenada forzosa del tren ante el paso indebido de la señal indicando «alto». Conforme a la Ril 819.1310 Secc. 9 Ap. 2, en las señales de bloqueo de las vías de entrada de las estaciones de clasificación que eran punto de destino para circulaciones de trenes no debían ordenarse imanes de vía de 2.000 Hz. Esto contradice el § 15 Ap. 2 EBO, según el cual las líneas deben dotarse de invasión de conducción de trenes. En el sentido de la EBO, las líneas abarcan tanto la línea libre como las estaciones de servicio. El legislador no prevé excepciones a ello. Esta circunstancia, por la que en la estación de clasificación de Mannheim Rbf Gr K/Kn no existía dotación con
 
-
 ## Página 29
+
 
 imanes de vía de 2.000 Hz en las señales de destino, condujo a que ante el paso indebido no se activara ninguna frenada forzosa de la circulación de trenes. Esto se valora como un factor causal [F2] de la colisión. La eliminación de esta circunstancia habría impedido el suceso con toda probabilidad.
 ### Señalización previa
@@ -506,8 +526,8 @@ La compensación debe preverse tanto para vías con pasos como para vías sin pa
 
 Por el contrario, no era necesaria una medida compensatoria conforme al punto 5.3.3.2 número 3:
 
-
 ## Página 30
+
 
 «Cuando no sea posible la continuación de la marcha o solo sean posibles maniobras después de la señal de destino y la velocidad admisible antes de la señal de destino sea menor o igual a 30 km/h.»
 
@@ -522,8 +542,8 @@ En este capítulo se examinan tanto las cualificaciones individuales como la pla
 ### Tf de la maniobrera 𝐀𝟐
 El Tf estaba en posesión de un permiso de conductor de locomotoras vigente conforme a la Ordenanza del permiso de conductor de locomotoras (TfV). Para la conducción de vehículos ferroviarios recibió de la EVU una
 
-
 ## Página 31
+
 
 certificación adicional en la que, entre otros, estaban anotadas la aptitud para la conducción de la BR 296 y otras cualificaciones adicionales. La EVU presentó asimismo a la BEU una prueba vigente de la aptitud sanitaria del Tf. Los requisitos revisados conforme a la TfV se cumplían.
 ### Tf del DGS 43373 – Cualificación y supervisión
@@ -534,8 +554,8 @@ Conforme a los turnos remitidos a la BEU, el Tf tuvo su último turno antes del 
 El turno del Tf el día del suceso comenzó a las dos de la madrugada en la estación de Emmerich y debía finalizar a las 12:00 en la estación de Mannheim Hbf. Como trabajador, el Tf y, por tanto, también la EVU competente para él, estaban sujetos a las disposiciones de la Ley de tiempo de trabajo (ArbZG). Conforme al § 4 ArbZG, se aplicaban las siguientes prescripciones para las pausas de protección laboral:
 - El trabajo debía interrumpirse mediante una pausa de protección laboral fijada de antemano de al menos 45 minutos cuando la jornada de trabajo fuera superior a nueve horas.
 
-
 ## Página 32
+
 
 - La pausa de protección laboral podía dividirse en tramos de 15 minutos cada uno.
 - Los trabajadores no podían estar empleados más de seis horas seguidas sin pausas de protección laboral.
@@ -546,6 +566,7 @@ En este capítulo se abordan especialmente las condiciones, los mecanismos de re
 La EVU LTE Netherlands B.V. había regulado, en el marco de su SMS, la frecuencia de las supervisiones de la realización de las actividades en el puesto de trabajo. Conforme a la instrucción de trabajo relevante al respecto, la experiencia del empleado en el uso correspondiente era determinante para la frecuencia de las supervisiones. Los empleados con menos de dos años de antigüedad se consideraban inexpertos y debían ser supervisados dos veces al año. El Tf del DGS 43373 fue empleado como Tf en la EVU desde el 22.03.2022 y, conforme a la instrucción de trabajo, se consideraba por tanto aún inexperto en el momento del suceso. Por consiguiente, debía ser supervisado dos
 
 ## Página 33
+
 
 deben supervisarse anualmente. En los años 2022 y 2023, sin embargo, solo tuvo lugar una supervisión de la realización de la actividad en el puesto de trabajo por parte del Tf. Dado que no pudo determinarse si las supervisiones faltantes eran relevantes para el suceso, esta circunstancia no fue investigada como factor en el desarrollo de los hechos.
 
@@ -559,15 +580,15 @@ Las Fplo vigentes el día del suceso para el DGS 43373 no contenían, contrariam
 
 El 24.11.2017, el DGS 43724 entró en la estación de mercancías de Offenburg (Bf Offenburg Gbf). El Tf del tren no percibió la señal Ls 3I en alto que indicaba parada y pasó a su lado. Dado que el Ls 3I no estaba equipado con un imán de vía de 2.000 Hz, el tren no recibió ninguna frenada automática. El Tf
 
-
 ## Página 34
+
 
 reconoció poco después un vehículo de tracción detenido en su itinerario y ejecutó una frenada rápida. Sin embargo, la colisión con el vehículo de tracción detenido ya no pudo evitarse por ello.
 
 El 23.05.2023, el EZ 68391 entró en la estación de Gremberg y debía detenerse en la señal Ls 313I que indicaba parada. El Tf indicó que, debido a la desfavorable incidencia de la radiación solar, no había reconocido la imagen de señal del Ls 313I y pasó a su lado. Dado que el Ls 313I no estaba equipado con un imán de vía de 2.000 Hz, el tren no recibió ninguna frenada automática. El Tf reconoció poco después una maniobra de maniobras en la aguja W469 y ejecutó una frenada rápida. Sin embargo, la circulación por el flanco con la maniobra de maniobras ya no pudo evitarse por ello.
 
-
 ## Página 35
+
 
 ## 5 Conclusiones
 
@@ -585,8 +606,8 @@ Fue causal del suceso el paso indebido del Tf del DGS 43373 junto a la señal Ls
 
 Conforme al Reglamento (UE) 2018/762, Anexo I, punto 4.2.1, el sistema de gestión de competencias del EVU debía garantizar que el Tf estuviera capacitado para cumplir su tarea de relevancia para la seguridad. Esto incluía, además de la determinación de las competencias necesarias para la tarea de relevancia para la seguridad, la formación correspondiente, la capacitación continua, así como la
 
-
 ## Página 36
+
 
 evaluación periódica de las competencias, a fin de que las cualificaciones y habilidades del Tf se mantengan de forma duradera.
 
@@ -598,8 +619,8 @@ Sobre el factor sistémico «Falta de prescripción de planificación para el eq
 
 La falta de equipamiento PZB conforme al factor causal [F2] era atribuible a principios de planificación de la época de la Deutsche Bundesbahn. Estas disposiciones se incorporaron al nuevo cuerpo normativo tras la conversión en Deutsche Bahn AG y la falta de equipamiento por parte de la infraestructura ha estado desde entonces protegida por derechos adquiridos. No obstante, el EIU debe, en el marco de la responsabilidad dinámica del explotador conforme al § 2 apartado 1 EBO y al Reglamento (UE) 2018/762, Anexo II, punto 5.2, revisar también las disposiciones existentes, ya que también el sector ferroviario y, con él, la explotación ferroviaria están sometidos a un cambio constante. En particular, el EIU debe también, en el marco de su SMS, reaccionar ante el aumento de interferencias y/o accidentes con la misma causa y actuar en consecuencia. En este contexto, el EIU emitió, aún antes del suceso, la orden 819.0203-W-102 «Señalización previa de señales de salida y señales intermedias – Adaptación de la Ril 819.0203 y medidas de compensación para instalaciones existentes». La justificación de esta orden fue que se habían producido pasos indebidos cada vez más frecuentes junto a señales que indicaban parada debido a la falta de señalización previa. El problema de la falta de señalización previa de una señal objetivo que indicaba parada ya había llamado la atención del EIU. Según la opinión de la BEU, las prescripciones de equipamiento endurecidas eran aplicables también a la estación de clasificación de Mannheim (Bf Mannheim Rbf), al contrario de lo que sostenía el propio EIU. Esto se fundamenta en el punto 5.3.3.1 número 1 de la orden 819.0203-W-102 «Señalización previa de señales de salida y señales intermedias – Adaptación de la Ril 819.0203 y medidas de compensación para instalaciones existentes», según la cual en el texto de la orden
 
-
 ## Página 37
+
 
 se hace referencia a señales objetivo que muestran Hp0/Sh0. Conforme a la Ril 819.0302, sección 2, apartado 2, una señal de bloqueo ejecutada como señal luminosa puede, entre otros usos, emplearse como señal objetivo para la entrada de trenes de mercancías y de viajeros. Conforme a la Ril 819.0302, sección 2, apartado 5, el Ls debe ejecutarse como estructura alta con mástil individual cuando sirve como señal objetivo para circulaciones de trenes. El Ls 602II en la estación de clasificación de Mannheim (Bf Mannheim Rbf) cumple estos requisitos constructivos de la Ril 819 y se utiliza como señal objetivo para trenes de mercancías en entrada. Tampoco puede resultar de aplicación en la estación de clasificación de Mannheim la excepción conforme al punto 5.3.3.2 número 3 de la citada orden, ya que la velocidad de entrada para las circulaciones de trenes en la estación se señala a 40 km/h. El plazo de aplicación aún no había transcurrido en el momento del suceso. Por ello, se prescinde de emitir una recomendación de seguridad en relación con la complementación de la señalización previa.
 
@@ -616,8 +637,8 @@ Asimismo, el EVU adoptó las siguientes medidas:
 - Los horarios y Fplo recibidos se comprueban con mayor rigor.
 - Se sensibiliza a los Tf, en el marco de la formación continua, sobre el comportamiento correcto frente a las señales que indican parada.
 
-
 ## Página 38
+
 
 - Se ha modificado el proceso de cumplimiento de los descansos de protección laboral de los Tf. Los Tf deben notificar electrónicamente cada descanso de protección laboral tomado. Estos son comprobados por el personal del centro de control en momentos establecidos.
 
@@ -625,8 +646,8 @@ Asimismo, el EVU adoptó las siguientes medidas:
 
 Enfällt.
 
-
 ## Página 39
+
 
 ## 6 Recomendaciones de seguridad
 

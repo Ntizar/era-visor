@@ -10,12 +10,13 @@ chars: 3976
 ratio_longitud: 1.01
 tokens_in: 1968
 tokens_out: 1005
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,40 +35,39 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 2330 |
 | Aguja: | 41 |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................................... |
-| 2 | Descarrilamiento el 24.09.2024 en el Bf Rheinkamp 2 . . ............................................................. |
+| I . | Lista de modificaciones I ............................................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Descarrilamiento del tren el 24092024 en la estación de Rheinkamp 2 . . ..................................................................... |
 |  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
+|  | 2.3 Evolución de la investigación 2 . ........................................................................................................... |
 |  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Lista de modificaciones 
 Modificación 
 Estado 
-I 
-
+I
 
 ## Página 4
+
 
 ## 1 Notas previas 
 La elaboración del informe intermedio se realiza sobre la base del § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). De acuerdo con ello, para todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, se debe emitir al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no reclama ser exhaustiva. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar una culpa ni para aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se realizan de forma independiente de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento el 24.09.2024 en el Bf Rheinkamp 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias. A continuación, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se enumeran en el último apartado.

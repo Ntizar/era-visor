@@ -10,12 +10,14 @@ chars: 4180
 ratio_longitud: 1.01
 tokens_in: 2105
 tokens_out: 1169
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
 avisos: ["página 3: cifras largas: faltan 1/3 (33%)"]
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Expediente:
@@ -32,34 +34,33 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 4 |
 | Aguja: | 208 |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
+## Índice
+| I . | Lista de modificaciones I ............................................................................................................... |
 | 1 | Notas previas 1 ..................................................................................................................... |
-| 2 | Descarrilamiento el 12 10 2021 en el Bf Nördlingen 2 . . ...................................................................... |
+| 2 | Descarrilamiento el 12 10 2021 en la estación de Nördlingen 2 . . ...................................................................... |
 |  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
+|  | 2.3 Progreso de la investigación 2 . ........................................................................................................... |
 |  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
-## I. 
-## Índice de modificaciones 
+## I.
+## Lista de modificaciones
 | Modificación | Estado |
-| Versión 2 0 en cumplimiento del plazo anual establecido . | 25 09 2023 . . |
-| Versión 3 0 en cumplimiento del plazo anual establecido . | 12 09 2024 . . |
-I 
-
+| Versión 2 0 en virtud del plazo anual alcanzado . | 25 09 2023 . . |
+| Versión 3 0 en virtud del plazo anual alcanzado . | 12 09 2024 . . |
+I
 
 ## Página 4
+
 
 ## 1 Notas previas 
 El presente informe intermedio se elabora con base en el § 5 apartado 5 del Reglamento de
@@ -77,8 +78,8 @@ derechos de reclamación, y se llevan a cabo con independencia de cualquier
 investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento el 12.10.2021 en el Bf Nördlingen 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias.

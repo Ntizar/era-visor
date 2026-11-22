@@ -13,8 +13,8 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [795.408_ub 1.0_optimized.md](2024/795.408_ub%201.0_optimized.md) | — | 338788 | revisar |
-| [at-10657 - final report 795.409 ub 1.0.md](2024/at-10657%20-%20final%20report%20795.409%20ub%201.0.md) | — | 129845 | revisar |
+| [795.408_ub 1.0_optimized.md](2024/795.408_ub%201.0_optimized.md) | — | 338788 | ok |
+| [at-10657 - final report 795.409 ub 1.0.md](2024/at-10657%20-%20final%20report%20795.409%20ub%201.0.md) | — | 129845 | ok |
 
 ## 2023 (1)
 
@@ -42,7 +42,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 |---|---|---|---|
 | [AT-10006 - Interim Statement - 795.401_ZB.md](2020/AT-10006%20-%20Interim%20Statement%20-%20795.401_ZB.md) | — | 8261 | ok |
 | [AT-10006 - Interim statement v_2 795.401_ZB.md](2020/AT-10006%20-%20Interim%20statement%20v_2%20795.401_ZB.md) | — | 8471 | ok |
-| [AT-6365 - 795.400_EUB_1.0.md](2020/AT-6365%20-%20795.400_EUB_1.0.md) | — | 151079 | revisar |
+| [AT-6365 - 795.400_EUB_1.0.md](2020/AT-6365%20-%20795.400_EUB_1.0.md) | — | 151079 | ok |
 | [AT-6365 - Interim Statement - 795.400_VUB_1.0.md](2020/AT-6365%20-%20Interim%20Statement%20-%20795.400_VUB_1.0.md) | — | 120806 | revisar |
 
 ## 2019 (4)
@@ -71,15 +71,15 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [795.382_EUB_1.0 15.04.2017.md](2017/795.382_EUB_1.0%2015.04.2017.md) | — | 72812 | ok |
 | [AT 08.01.2017 20170112_ZP_Liezen_EUB_795.377_final.md](2017/AT%2008.01.2017%2020170112_ZP_Liezen_EUB_795.377_final.md) | — | 23458 | ok |
 | [AT 09.03.2017 795.380_EUB_1.0.md](2017/AT%2009.03.2017%20795.380_EUB_1.0.md) | — | 70793 | ok |
-| [AT 17.03.2017 795.385_EUB_1.0.md](2017/AT%2017.03.2017%20795.385_EUB_1.0.md) | — | 75868 | revisar |
+| [AT 17.03.2017 795.385_EUB_1.0.md](2017/AT%2017.03.2017%20795.385_EUB_1.0.md) | — | 75868 | ok |
 | [AT 22.12.2017 795.391_EUB_1.0.md](2017/AT%2022.12.2017%20795.391_EUB_1.0.md) | — | 107113 | ok |
 | [AT 31.05.2017 795_386_EUB Pettenbach.md](2017/AT%2031.05.2017%20795_386_EUB%20Pettenbach.md) | — | 37809 | ok |
 | [AT-5233-2021-0.110.589-1-A_-_Versand_UB_02.03.2021_.md](2017/AT-5233-2021-0.110.589-1-A_-_Versand_UB_02.03.2021_.md) | — | 3365 | ok |
 | [AT-5233-795.378_UB_1.0_Optimized.md](2017/AT-5233-795.378_UB_1.0_Optimized.md) | — | 133439 | ok |
-| [AT-5287 - 795.381_EUB_Süßenbrunn_Final_1.1_Optimized_.md](2017/AT-5287%20-%20795.381_EUB_Süßenbrunn_Final_1.1_Optimized_.md) | — | 102143 | revisar |
+| [AT-5287 - 795.381_EUB_Süßenbrunn_Final_1.1_Optimized_.md](2017/AT-5287%20-%20795.381_EUB_Süßenbrunn_Final_1.1_Optimized_.md) | — | 102143 | ok |
 | [AT-5456 - 95.389_EUB_1.0.md](2017/AT-5456%20-%2095.389_EUB_1.0.md) | — | 53024 | ok |
 | [AT-5492 - 795.383_UB_1.0.md](2017/AT-5492%20-%20795.383_UB_1.0.md) | — | 137602 | ok |
-| [AT-5493.md](2017/AT-5493.md) | — | 61789 | revisar |
+| [AT-5493.md](2017/AT-5493.md) | — | 61789 | ok |
 | [AT-5571.md](2017/AT-5571.md) | — | 39332 | ok |
 | [AT-5573.md](2017/AT-5573.md) | — | 70618 | ok |
 | [AT-5612 - 795.393_UB_1.0.md](2017/AT-5612%20-%20795.393_UB_1.0.md) | — | 125207 | ok |
@@ -106,7 +106,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [20150506_795.365_ZK_Waldstein_EUB_final.md](2015/20150506_795.365_ZK_Waldstein_EUB_final.md) | — | 63497 | ok |
 | [20150715_ZK_Leopoldau_795.368_EUB_final.md](2015/20150715_ZK_Leopoldau_795.368_EUB_final.md) | — | 44418 | ok |
 | [AT 2015 07 15_ZK_Leopoldau_795.368_EUB_final.md](2015/AT%202015%2007%2015_ZK_Leopoldau_795.368_EUB_final.md) | — | 44412 | ok |
-| [AT-5034.md](2015/AT-5034.md) | — | 130507 | revisar |
+| [AT-5034.md](2015/AT-5034.md) | — | 130507 | ok |
 | [Untersuchungsbericht-22 05 2015.md](2015/Untersuchungsbericht-22%2005%202015.md) | — | 70927 | ok |
 
 ## 2014 (5)
@@ -128,14 +128,14 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [20130610_SUB_SCH_EUB_795.333_160113.md](2013/20130610_SUB_SCH_EUB_795.333_160113.md) | — | 53032 | ok |
 | [20130813_ZE_Wien_Zvbf_EUB_795.348_1.0_final.md](2013/20130813_ZE_Wien_Zvbf_EUB_795.348_1.0_final.md) | — | 41944 | ok |
 | [20130920_ZK_Telfs_Pf_EUB_795.353_1.1_final.md](2013/20130920_ZK_Telfs_Pf_EUB_795.353_1.1_final.md) | — | 32222 | ok |
-| [20130928_ZK_Leopoldau_EUB_795.352_final.md](2013/20130928_ZK_Leopoldau_EUB_795.352_final.md) | — | 48628 | revisar |
+| [20130928_ZK_Leopoldau_EUB_795.352_final.md](2013/20130928_ZK_Leopoldau_EUB_795.352_final.md) | — | 48628 | ok |
 | [20131202_SUB_SCH_EUB_795.332_06012013.md](2013/20131202_SUB_SCH_EUB_795.332_06012013.md) | — | 53275 | ok |
 | [20131202_SUB_SCH_EUB_795.347_09072013.md](2013/20131202_SUB_SCH_EUB_795.347_09072013.md) | — | 40634 | revisar |
 | [20140116_SUB_SCH_EUB_795.345_2013_29072013.md](2013/20140116_SUB_SCH_EUB_795.345_2013_29072013.md) | — | 47683 | ok |
 | [20140414_SUB_SCH_EUB_795.336 14.02.2013.md](2013/20140414_SUB_SCH_EUB_795.336%2014.02.2013.md) | — | 89197 | ok |
 | [20140603_SUB_SCH_EUB_795.339 27.03.2013.md](2013/20140603_SUB_SCH_EUB_795.339%2027.03.2013.md) | — | 67881 | ok |
-| [20140724_EUB_SCH_EUB_795.341 11.06.2013 AT.md](2013/20140724_EUB_SCH_EUB_795.341%2011.06.2013%20AT.md) | — | 40498 | revisar |
-| [20140724_EUB_SCH_EUB_795.341 11.06.2013.md](2013/20140724_EUB_SCH_EUB_795.341%2011.06.2013.md) | — | 40200 | revisar |
+| [20140724_EUB_SCH_EUB_795.341 11.06.2013 AT.md](2013/20140724_EUB_SCH_EUB_795.341%2011.06.2013%20AT.md) | — | 40498 | ok |
+| [20140724_EUB_SCH_EUB_795.341 11.06.2013.md](2013/20140724_EUB_SCH_EUB_795.341%2011.06.2013.md) | — | 40200 | ok |
 | [20140728_SUB_SCH_EUB_1.2 19.06.2013.md](2013/20140728_SUB_SCH_EUB_1.2%2019.06.2013.md) | — | 77612 | ok |
 | [20140731_SUB_SCH_EUB_795.344 2.7.2013.md](2013/20140731_SUB_SCH_EUB_795.344%202.7.2013.md) | — | 61578 | ok |
 | [20140808_SUB_SCH_EUB_795.335 21.2.1013.md](2013/20140808_SUB_SCH_EUB_795.335%2021.2.1013.md) | — | 73455 | ok |

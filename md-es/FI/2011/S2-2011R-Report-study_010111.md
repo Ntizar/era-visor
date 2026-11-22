@@ -10,21 +10,21 @@ chars: 216180
 ratio_longitud: 1.13
 tokens_in: 97254
 tokens_out: 77205
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 19: cifras largas: faltan 2/7 (29%)", "página 61: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (FI)", "página 21: cifras cortas: 1/7", "página 23: original bilingüe: se compara contra el idioma principal (EN)", "página 30: original bilingüe: se compara contra el idioma principal (FI)", "página 40: original bilingüe: se compara contra el idioma principal (SV); cifras largas: 1/51", "página 41: original bilingüe: se compara contra el idioma principal (FI)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 S2/2011R
 Investigación temática sobre los accidentes en pasos a nivel ocurridos en 2011
 El objetivo de la investigación de seguridad es aumentar la seguridad general, prevenir accidentes y situaciones de peligro y combatir los daños derivados de los accidentes. En la investigación de seguridad no se aborda la responsabilidad que pueda derivarse del accidente ni la obligación de indemnización por daños y perjuicios. Debe evitarse el uso del informe de investigación para fines distintos de la mejora de la seguridad.
 
-
 ## Página 2
+
 
 ### Centro de Investigación de Accidentes
 ### Olycksutredningscentralen
@@ -57,8 +57,8 @@ ISBN 978-951-836-336-4 (PDF)
 ISSN 1797-2108
 Multiprint Oy, Vantaa 2012
 
-
 ## Página 3
+
 
 ## RESUMEN
 En 2011 se produjeron 25 accidentes en pasos a nivel. Es la cifra anual más baja del periodo de examen 1991–2011. En los accidentes murieron dos personas y tres resultaron gravemente heridas. El número de fallecidos también fue el más bajo del periodo de examen. Se produjeron dos accidentes mortales con vehículos a motor y ambos tuvieron lugar en pasos a nivel sin vigilancia en caminos privados.
@@ -78,8 +78,8 @@ Al final de 2011, 806 pasos a nivel estaban equipados con aparatos de aviso, y l
 El Centro de Investigación de Accidentes publicó el 23.2.2012 una investigación temática sobre los accidentes en pasos a nivel (S1/2011R), en la que se examinaron todas las recomendaciones emitidas anteriormente sobre pasos a nivel y también se emitieron nuevas recomendaciones. Las recomendaciones emitidas anteriormente siguen siendo pertinentes también sobre la base de esta investigación. El Centro de Investigación de Accidentes no considera necesario emitir nuevas recomendaciones de seguridad.
 I
 
-
 ## Página 4
+
 
 ## RESUMEN
 ## INVESTIGACIÓN TEMÁTICA SOBRE LOS ACCIDENTES EN PASOS A NIVEL DE 2011
@@ -100,8 +100,8 @@ Al final de 2011, 806 pasos a nivel tenían aparatos de aviso, mientras que los 
 El Centro de Investigación de Accidentes publicó el 23.2.2012 una investigación temática sobre los accidentes en pasos a nivel (S1/2011R), en la que se revisaron todas las recomendaciones anteriores sobre pasos a nivel y se completaron con nuevas recomendaciones. Las recomendaciones anteriores siguen siendo pertinentes también según esta investigación. El Centro de Investigación de Accidentes considera que no está justificado emitir nuevas recomendaciones de seguridad.
 II
 
-
 ## Página 5
+
 
 ## RESUMEN
 ## ESTUDIO DE SEGURIDAD SOBRE LOS ACCIDENTES EN PASOS A NIVEL DE 2011
@@ -122,8 +122,8 @@ Al final de 2011, 806 pasos a nivel estaban equipados con aparatos de aviso; los
 El 23 de febrero de 2012, el Centro de Investigación de Accidentes de Finlandia publicó un estudio de seguridad sobre los accidentes en pasos a nivel (S1/2011R), en el que se examinaron todas las recomendaciones emitidas anteriormente sobre pasos a nivel y se emitieron nuevas recomendaciones. Sobre la base de esta investigación, las recomendaciones emitidas anteriormente siguen siendo pertinentes. El Centro de Investigación de Accidentes no considera necesario emitir nuevas recomendaciones de seguridad.
 III
 
-
 ## Página 6
+
 
 ## PREÁMBULO
 El Centro de Investigación de Accidentes (OTKES) decidió el 22.6.2011, en virtud del artículo 2 de la Ley de investigación de seguridad (525/2011), iniciar una investigación temática sobre los accidentes en pasos a nivel ocurridos en 2011.
@@ -140,6 +140,7 @@ IV
 
 ## Página 7
 
+
 La comisión de investigación tenía la tarea de continuar la investigación de los temas tratados en la investigación temática anterior S1/2011R en lo que respecta a 2011. La comisión de investigación debía examinar más detenidamente todos los accidentes mortales con vehículos a motor. Además, la comisión de investigación tenía derecho a investigar, según su criterio, otros accidentes en pasos a nivel con más detalle. El encargo abarcaba también una revisión de las normativas modificadas, nuevas investigaciones y estadísticas de accidentes y daños en las barreras.
 El propósito de la investigación es mejorar la seguridad, por lo que no se pronuncia sobre cuestiones de responsabilidad o indemnización por daños. El informe de investigación ha sido sometido a información pública en la Agencia Finlandesa de Seguridad del Transporte, la Agencia Finlandesa de Transporte, VR-Group Ab, el departamento de rescate del Ministerio del Interior, el Comité de Seguridad Vial de las Compañías de Seguro, la Asociación Finlandesa de Carreteras, la Administración del Centro de Respuesta a Emergencias y cuatro personas que han estado involucradas en los accidentes investigados. Los dictámenes se encuentran en el anexo 1 del informe de investigación.
 Una lista del material de investigación se encuentra al final de este informe de investigación. El material se conserva en el Centro de Investigación de Accidentes.
@@ -154,14 +155,15 @@ V
 
 ## Página 8
 
+
 miento de rescate del Ministerio del Interior, el Comité de Seguridad Vial de las Compañías de Seguro, la Asociación Finlandesa de Carreteras, la Administración del Centro de Respuesta a Emergencias y cuatro partes de los accidentes bajo investigación. Los dictámenes se encuentran en el Anexo 1 del informe de investigación.
 Una lista del material de investigación se encuentra al final de este informe. El material se almacena en las instalaciones de la Autoridad de Investigación de Seguridad.
 Este informe de investigación también está disponible en la página web de la Autoridad de Investigación de Seguridad en www.sia.fi.
 El resumen del informe de investigación, el prefacio, los resúmenes de datos, las conclusiones, así como los textos de encabezado de imágenes, gráficos y tablas se proporcionan en finés, sueco e inglés.
 VI
 
-
 ## Página 9
+
 
 ## SISÄLLYSLUETTELO
 TIIVISTELMÄ...................................................................................................................................I
@@ -198,8 +200,8 @@ PREFACE.........................................................................
 4.5 Rautatie- ja tieliikenneonnettomuuksissa kuolleet ja loukkaantuneet...............................28
 VII
 
-
 ## Página 10
+
 
 5 TASORISTEYSONNETTOMUUDET 1991–2011.................................................................... 30
 5.1 Tasoristeysonnettomuuksien määrä ................................................................................ 30
@@ -234,6 +236,7 @@ Liite 4. Perustietoa rautatie- ja tieliikenteestä 1991–2011
 VIII
 
 ## Página 11
+
 
 ## 1 
 ## ACCIDENTES EN PASOS A NIVEL Y DAÑOS EN BARRERAS DEL AÑO 2011 
@@ -340,8 +343,8 @@ Passagerare:
 Passengers: 
 1
 
-
 ## Página 12
+
 
 | Daños en el material rodante: Skadorpåfordon: Damagesofrollingstock: | La locomotora resultó dañada en la parte delantera y su parabrisas se rompió. Se rompió una ventanilla lateral del primer coche. Loketsframpartiochvindrutaskadades Ettsidofönsteridenförstavagnen . skadades . The locomotive was damaged at the front and its windscreen was broken . Onesidewindowinthefirstcarwasbroken . |
 | Daños en la vía: Skadorpåspåranläggning: Damagesontrackequipment: | No. Nej. None . |
@@ -350,10 +353,10 @@ Passengers:
 ### Desarrollo de los hechos 
 El tren de pasajeros 444 se encontraba en ruta desde Vaasa hacia Jyväskylä. Desde la estación de Myllymäki en Ähtäri, el tren partió con 6 minutos de retraso respecto al horario a las 11.49. El maquinista elevó la velocidad del tren hasta la velocidad permitida de 100 km/h. El tren circulaba con el motor principal de la locomotora diésel (morro largo) por delante. 
 Un hombre viajaba con su furgoneta en dirección sur por la carretera Suojärventie. Al acercarse al paso a nivel, miró en dirección a la vía en aquellos tramos de la carretera desde los que la vía era visible de forma intermitente. No se veía ningún tren. Al llegar a la zona del paso a nivel, vio el tren acercándose 
-2 
-
+2
 
 ## Página 13
+
 
 a unos quizás 100 metros de distancia. En ese momento, sin embargo, ya estaba tan cerca del paso a nivel que imaginó que aún le daba tiempo para pasar por debajo y aceleró. 
 El vehículo continuó sin detenerse en el paso a nivel y el tren impactó en el lado derecho del vehículo. El maquinista no llegó a observar el vehículo antes de la colisión, sino que primero percibió el golpe y después vio el vehículo ser lanzado hacia la parte delantera derecha. El accidente se produjo a las 12.00. 
@@ -371,18 +374,18 @@ El ángulo de encuentro entre la vía y la carretera no es recto, sino que, vist
 Las visibilidades del paso a nivel desde la dirección de llegada del vehículo en dirección a la llegada del tren eran aparentemente conformes a la norma. La visión hacia la vía solo era posible, sin embargo, justo antes de llegar al paso a nivel, porque la vegetación impedía la posibilidad de observar el tren desde más lejos. Además, a unos 20 metros antes del paso a nivel, en el lado derecho de la carretera había un montón de madera. Más lejos en la carretera había tramos aislados desde los que se podía ver hacia la vía. Debido a una curva en la carretera, el paso a nivel y la señalización del paso a nivel solo se hacen visibles al conductor del vehículo al llegar al montón de madera. 
 3
 
-
 ## Página 14
+
 
 En estas condiciones, la forma correcta de actuar habría sido llegar al paso a nivel con una velocidad tan reducida que el vehículo pudiera detenerse 8 metros antes de los raíles basándose en las observaciones realizadas. En la práctica, esto implica una decisión previa de detener el vehículo. Habría sido pertinente instalar una señal STOP en el paso a nivel. 
 El ángulo de encuentro entre la carretera y la vía no es del todo recto. El tren llegaba desde una dirección más difícil para el conductor del vehículo, es decir, en ángulo agudo desde la derecha. La estructura de la furgoneta cerrada dificulta la visión hacia la derecha y el conductor tiene que estirarse hacia delante. 
 El conductor del vehículo condujo hasta el paso a nivel sin detenerse. Solo observó la llegada del tren justo antes de entrar en la vía. 
 Los airbags delanteros del vehículo no se activaron, ya que el impacto se produjo en el lateral del vehículo. El conductor del vehículo llevaba puesto el cinturón de seguridad, lo que aparentemente tuvo un papel decisivo en su supervivencia. 
 Debido al malentendido producido durante la localización, hubo un retraso de cinco minutos en la actuación del centro de emergencias. La respuesta definida por el servicio de rescate fue suficiente. 
-4 
-
+4
 
 ## Página 15
+
 
 ## 1.1.2 
 ### Accidente en paso a nivel en Ypäjä (D5/2011R) 
@@ -497,8 +500,8 @@ Damages on track equipment:
 None 
 5
 
-
 ## Página 16
+
 
 Otros daños: 
 No. 
@@ -522,6 +525,7 @@ El tren impactó en el lado izquierdo de la camioneta, por detrás de la puerta 
 
 ## Página 17
 
+
 ### Lesiones personales causadas por el accidente
 En el accidente resultaron gravemente heridos el conductor del automóvil y un pasajero que viajaba como acompañante.
 El conductor salió despedido de la cabina del automóvil por la fuerza del impacto y el pasajero quedó atrapado en la cabina. El maquinista y los pasajeros del tren no resultaron heridos.
@@ -535,8 +539,8 @@ La localización del lugar del accidente se realizó rápidamente. El operador d
 
 7
 
-
 ## Página 18
+
 
 ## 1.1.3 
 ### Accidente en paso a nivel en Turku (D6/2011R) 
@@ -661,22 +665,31 @@ daños importantes.
 Loket och en vagn skadades. Fordonskombinationen fick omfattande skador. 
 The locomotive and one car were damaged. The articulated vehicle suffered 
 serious damage. 
-8 
-
+8
 
 ## Página 19
 
-| Daños en la infraestructura: Skador på spåranläggning: Damages on track equipment: | Los daños en la vía se extendieron durante unos 100 m y una aguja se rompió. Circa 100 meter av spåret och en växel skadades. Track damage extended over around 100 meters. One turnout was broken. |
-| Otros daños: Övriga skador: Other damages: | Se produjeron daños en la cerca y la barandilla que bordean la vía, así como en las señales de tráfico. Stängslet och räcket vid banan och trafikmärken skadades. The fence and railing on the side of the railway as well as traffic signs suffered damage. |
-| Interrupciones al tráfico: Trafikstörningar: Disturbances of traffic: | La vía se restableció para el tráfico el 8 de agosto de 2011 a las 17.00 h. Trafiken på banan kunde återupptas 8 augusti 2011 kl 17.00. The railway was restored for traffic on 8 August 2011 at 5pm. |
-### Desarrollo de los acontecimientos
-El conductor había conducido el vehículo articulado con semirremolque hasta el puerto de Turku desde un barco procedente de Suecia y había estacionado su vehículo en el aparcamiento durante aproximadamente media hora. Durante este tiempo, había acordado con otro conductor conducir tras él hasta la zona de descanso, ya que la ciudad le era desconocida. Cuando el otro conductor partió, dicho conductor salió tras él, aunque quedó algo rezagado. Condujo a lo largo del aparcamiento y se aproximó a Nuottasaarenkatu y al paso a nivel, girando suavemente a la izquierda. En ese momento, los aparatos de aviso luminoso y sonoro entraron en funcionamiento. A pesar de ello, el conductor entró en el paso a nivel. Al oír el silbato de la locomotora, detectó el tren que se aproximaba por la derecha, pero ya no tuvo tiempo de hacer nada para evitar el accidente. La velocidad del automóvil era entonces, según el registrador, de 20 km/h.
-El tren rápido 904 había salido de Tampere según horario a las 5.56, llegado a la estación de tren de Turku a las 7.55 y continuado hacia el puerto de Turku, donde la hora de llegada según horario habría sido las 8.02. Tras el paso a nivel de Linnankatu, el maquinista
-
+| Ratavauriot: Skadorpåspåranläggning: Daños en la instalación de vía: | Rataavaurioituinoin100m:nmatkaltajavaihderikkoutui. Circa100meteravspåretochenväxelskadades. El daño en la vía se extendió a lo largo de unos 100 metros. Un cambio estaba roto. |
+| Muutvauriot: Övriga skador: Otros daños: | Rataa reunustaneeseen aitaan ja kaiteeseen sekä liikenne-merkkeihintulivaurioita. Stängsletochräcketvidbananochtrafikmärkenskadades. La valla y la barandilla del lado del ferrocarril, así como las señales de tráfico, sufrieron daños. |
+| Häiriötliikenteelle: Trafikstörningar: Perturbaciones del tráfico: | Ratasaatiinliikennöitäväänkuntoon882011klo17... Trafikenpåbanankundeåterupptas882011kl17.... Therailwaywasrestoredfortrafficon8August2011at5pm. El ferrocarril quedó restablecido para el tráfico el 8 de agosto de 2011 a las 17.00 h. |
+### Tapahtumien kulku
+Kuljettaja oli ajanut puoliperävaunullisen ajoneuvoyhdistelmän Turun satamaan Ruotsis-
+ta saapuneesta laivasta ja pysäköinyt autonsa ajoneuvokentälle noin puolen tunnin
+ajaksi. Tänä aikana hän oli sopinut toisen kuljettajan kanssa ajavansa tämän perässä
+levähdysalueelle, koska kaupunki oli hänelle vieras. Toisen kuljettajan lähdettyä liikkeel-
+le kyseinen kuljettaja lähti tämän perään jääden kuitenkin hieman jälkeen. Hän ajoi ajo-
+neuvokenttää pitkin ja lähestyi Nuottasaarenkatua ja tasoristeystä kääntyen loivasti va-
+semmalle. Tällöin valo- ja äänivaroituslaitteet hälyttivät. Niistä huolimatta kuljettaja ajoi
+tasoristeykseen. Kuultuaan veturin viheltimen hän huomasi oikealta lähestyvän junan,
+mutta ei ehtinyt tehdä enää mitään onnettomuuden estämiseksi. Auton nopeus oli tällöin
+piirturin mukaan 20 km/h.
+Pikajuna 904 oli lähtenyt Tampereelta aikataulun mukaan kello 5.56, saapunut Turun
+rautatieasemalle kello 7.55 ja jatkanut edelleen Turun satamaan, jonne aikataulun mu-
+kainen saapumisaika olisi ollut kello 8.02. Linnankadun tasoristeyksen jälkeen veturin-
 9
 
-
 ## Página 20
+
 
 comenzó a prepararse para detenerse en la vía de llegada del puerto. El maquinista detectó el vehículo articulado que se aproximaba por la izquierda en el paso a nivel de Nuottasaarenkatu cuando este ya estaba entrando en el paso a nivel. Tuvo tiempo de usar el silbato y de frenar justo antes del impacto, pero la frenada, sin embargo, no llegó a surtir efecto. El maquinista logró escapar de su asiento a la parte trasera de la cabina mientras el tren seguía avanzando tras el impacto. La velocidad del tren en el momento del impacto era de 24 km/h.
 La locomotora impactó en el lado derecho del vehículo articulado, en la zona del enganche. La locomotora se salió de la vía. El morro de la locomotora se detuvo a 77 metros del punto de impacto.
@@ -694,6 +707,7 @@ El lugar del accidente se sitúa en una zona en la frontera entre la ciudad de T
 
 ## Página 21
 
+
 renovación. En este contexto se realizan cambios que aclaran los arreglos de tráfico de la zona. Estas renovaciones deberían estar terminadas durante el año 2012.
 En el momento del accidente había luz, el tiempo estaba despejado y la temperatura del aire era de +18 °C. El sol brillaba bajo desde la dirección de llegada del tren.
 ### Análisis del accidente
@@ -707,8 +721,8 @@ La percepción del paso a nivel y de la llegada del tren también se vio dificul
 El centro de emergencias pudo emitir la alerta rápidamente: desde el inicio de la primera llamada de emergencia hasta la primera alerta transcurrió 1 minuto y 27 segundos. La respuesta alertada fue suficiente. Las primeras unidades del servicio de bomberos llegaron al lugar aproximadamente 3 minutos después de la alerta, es decir, claramente más rápido que el requisito de tiempo de disponibilidad operativa de 6 minutos.
 11
 
-
 ## Página 22
+
 
 ## 1.1.4 
 ### Accidente en paso a nivel con resultado de muerte en Alavus (D7/2011R)
@@ -820,10 +834,10 @@ Skador på spåranläggning:
 Nej. 
 Damages on track equipment: 
 None. 
-12 
-
+12
 
 ## Página 23
+
 
 Otros daños: 
 El perro que iba en el vehículo murió. 
@@ -843,8 +857,8 @@ El tren de pasajeros 443 había salido de Jyväskylä con destino a Vaasa a las 
 El tren se detuvo en Alavus, continuando desde allí su viaje según el horario a las 9.53. Al acercarse el tren a una velocidad de 100 km/h al paso a nivel de Ikola, sin dispositivo de aviso, el alumno conductor que manejaba la locomotora vio la aproximación de la furgoneta que venía por la izquierda y su detención antes del paso a nivel. En esta fase, el vehículo desapareció del campo de visión del alumno conductor debido a la oclusión causada por el compartimento motor de la locomotora. El instructor, sentado detrás a la izquierda, vio que la furgoneta, tras detenerse, se ponía en marcha hacia las vías. Llegó a decir "Ahora se ha ido" justo antes de la colisión. El alumno conductor no llegó a dar 
 13
 
-
 ## Página 24
+
 
 señal sonora ni a realizar una frenada de emergencia. La locomotora chocó contra el lado derecho de la cabina de la furgoneta, y el vehículo fue arrastrado junto con la locomotora durante 385 metros hasta el paso a nivel de Harjun, quedando totalmente destrozado. La colisión se produjo a las 10.06.
 ### Daños personales causados por el accidente
@@ -859,10 +873,10 @@ La visibilidad del paso a nivel estaba limitada por los setos crecidos a lo larg
 Según el informe de la página Tasoristeyksel.fi del 27.10.2010, la visibilidad en el paso a nivel desde la dirección de llegada del vehículo hacia la dirección de llegada del tren había sido de solo 350 metros debido a la curva de la vía y al desnivel. El terreno adyacente a la vía se ha desbrozado después del accidente. El requisito de visibilidad de 600 metros según RATA no se cumple.
 En el tren había excepcionalmente dos conductores: el alumno maquinista a la derecha, delante, y el maquinista que actuaba como instructor a la izquierda, detrás. Al circular con una locomotora del tipo Dv12 con el motor principal por delante, las estructuras fijas de la locomotora causan una zona de oclusión hacia el frontal izquierdo.
 Ambos conductores percibieron la aproximación del vehículo desde la izquierda y su detención, pero el alumno conductor ya no vio su puesta en marcha debido a la oclusión. El instructor también vio la puesta en marcha del vehículo y llegó a decírselo al alumno conductor, pero demasiado tarde. El alumno conductor no llegó a iniciar la frenada.
-14 
-
+14
 
 ## Página 25
+
 
 Después del accidente, los investigadores inspeccionaron el vehículo para encontrar posibles defectos que hubieran influido en el accidente. El vehículo estaba tan dañado que no se pudieron extraer conclusiones en absoluto sobre su estado técnico. El vehículo había superado la inspección anual un par de meses antes sin objeciones. En el modelo de vehículo es habitual que los montantes A sean más anchos, lo que puede dificultar la observación hacia el frontal derecho.
 La cabina del vehículo se había desplomado en la colisión desde la dirección derecha de tal manera que hubo que extraer al conductor cortando la estructura del vehículo. El vehículo tenía cinturones de seguridad y airbag. El conductor había utilizado el cinturón de seguridad y el airbag se había desplegado, pero no tuvieron importancia debido a la violencia de la colisión.
@@ -872,6 +886,7 @@ El tipo de tarea 213 - accidente ferroviario de tamaño medio - utilizado por la
 15
 
 ## Página 26
+
 
 ## 1.2 
 ### Todos los accidentes en pasos a nivel ocurridos en 2011 
@@ -951,10 +966,10 @@ VY
 ka 
 tie 
 1  La línea principal es el término tradicional del sector ferroviario, que designa la red ferroviaria destinada principalmente al tráfico ferroviario regular. Con línea secundaria se designa la red ferroviaria fuera de las líneas principales, en la que se realiza principalmente tráfico de maniobras. Las líneas secundarias se dividen en este contexto en dos según el propietario de la red ferroviaria. 
-16 
-
+16
 
 ## Página 27
+
 
 15.6. Hamina, puerto, Tanttut. 
 0+0 
@@ -1139,8 +1154,8 @@ Material rodante por carretera: ha = automóvil y furgoneta, la = autobús, ka =
 Las descripciones de los accidentes en pasos a nivel del año 2011 se encuentran en el anexo 2. 
 17
 
-
 ## Página 28
+
 
 Figura 1. 
 Accidentes en pasos a nivel en 2011 (n=25). 
@@ -1151,10 +1166,10 @@ Level crossing accidents in 2011 (n=25).
 ## 1.3 
 ### Daños en barreras ocurridos en 2011 
 En 2011 se produjeron 205 daños en barreras. Los daños en barreras fueron en su mayoría colisiones de vehículos contra las barreras, pero la cifra incluía al menos cinco casos conocidos de vandalismo y un daño causado por una máquina de trabajo que cortó la barrera al levantarla durante una situación de mantenimiento vial. El material se componía del registro de notificación de anomalías de VR (187 daños) y de los datos recibidos de Destia Rail Oy (34 daños). Los datos presentaban solapamientos. La tabla resumen y las descripciones de los eventos se encuentran en el anexo 3. 
-18 
-
+18
 
 ## Página 29
+
 
 Figura 2. 
 Daños en barreras en 2011. 
@@ -1165,8 +1180,8 @@ Barrier damage in 2011.
 Se obtuvo información sobre el vehículo que causó el daño en la barrera en 93 casos, lo que representa menos de la mitad de todos los daños en barreras. De estos casos, los mayores grupos de vehículos estaban representados por automóviles (40 %), camiones y conjuntos de vehículos (39 %), máquinas de trabajo (9 %) y autobuses (3 %). Clasificados por tipo de vía, el 56 % de los daños en barreras se produjo en líneas principales, el 8 % en líneas secundarias y el 38 % en líneas industriales. 
 19
 
-
 ## Página 30
+
 
 1,2
 1
@@ -1211,16 +1226,16 @@ Level crossings for main lines with at least three cases of barrier damage in 20
 | Pori Pihlavanyhdystie , | 3 | 0 | 0 |  |  |
 | Seinäjoki Murto , | 3 | 0 | 0 |  |  |
 | Tammisaari Prästäng , | 3 | 0 | 0 |  |  |
-20 
-
+20
 
 ## Página 31
+
 
 Casi la mitad de todos los daños en barreras de las líneas secundarias/industriales se produjo en el puerto de Mussalo, Kotka. Otros municipios en los que se produjeron varios daños fueron los municipios portuarios de Kemi, Oulu, Kokkola y Pori. En el interior del país, los mayores daños se produjeron en Mänttä-Vilppula y Iisalmi. 
 21
 
-
 ## Página 32
+
 
 ## 2 
 ## REGLAMENTOS Y DIRECTRICES 
@@ -1240,6 +1255,7 @@ El titular de la red ferroviaria debe definir, publicar y poner en vigor los pro
 
 ## Página 33
 
+
 ## 2.2 
 ### Instrucción sobre la preparación para accidentes ferroviarios
 La Instrucción sobre la preparación para accidentes ferroviarios (OVRO) de la Agencia de Transporte (Liikennevirasto) fue actualizada el 14.10.2011. En la instrucción se describen, entre otros aspectos, las relaciones de mando en situaciones de accidente y la realización de las alertas.
@@ -1256,8 +1272,8 @@ En situaciones de accidente, el control de tráfico debe adoptar medidas que per
 En cuanto a la instrucción sobre situaciones de accidente, en el manual se remite a la OVRO.
 23
 
-
 ## Página 34
+
 
 ## 2.4 
 ### Instrucción sobre medidas en caso de accidente ferroviario
@@ -1268,10 +1284,10 @@ La Agencia de Transporte publicó el 23.4.2012 la instrucción Diseño de la car
 ## 2.6 
 ### Planificación de la mejora de la seguridad de los pasos a nivel
 La Agencia de Transporte instruyó el 16.4.2012 sobre la planificación de la mejora de la seguridad de los pasos a nivel. La instrucción se utiliza al seleccionar los pasos a nivel en los que se mejora la seguridad, así como al seleccionar las medidas de mejora. Con base en la instrucción, pueden compararse, por ejemplo, la eficacia de diferentes medidas y la de la selección de objetivos.
-24 
-
+24
 
 ## Página 35
+
 
 ## 3 
 ## EXAMEN DE LOS PLANES Y ESTUDIOS
@@ -1299,8 +1315,8 @@ Se desarrolla la estadística de accidentes de modo que también puedan registra
 Dado que en el plan se tratan principalmente directrices estratégicas, no contiene muchos detalles. La seguridad en los pasos a nivel se menciona en el plan en relación con el tráfico inteligente. Como ejemplo de información de tráfico que apoye la actuación del conductor podría ser un sistema de aviso de pasos a nivel.
 25
 
-
 ## Página 36
+
 
 ## 3.2 
 ### Sistema de aviso de trenes funcionando en el automóvil
@@ -1314,16 +1330,17 @@ La Agencia de Transporte y los centros ELY utilizarán en el futuro la previsió
 ## 3.4 
 Tratamiento de los incidentes relacionados con la seguridad y aprendizaje de los mismos en el sector ferroviario
 En un estudio del VTT se investigó qué y cómo aprenden las organizaciones del sector ferroviario de sus propias actividades al informar y tratar desviaciones relacionadas con la seguridad, para desarrollarse hacia organizaciones más seguras (Ruuhilehto y otros 2012).
-26 
-
+26
 
 ## Página 37
+
 
 El objetivo del estudio era desarrollar y promover el aprendizaje de los incidentes en las organizaciones que influyen en la seguridad del tráfico ferroviario. Los datos se recopilaron mediante entrevistas a expertos de empresas ferroviarias y de las autoridades.
 En el estudio se concluyó que, en lugar de presentar recomendaciones individuales o propuestas concretas de medidas, se desea fomentar los esfuerzos de un proyecto de desarrollo conjunto de todo el sector para promover la cultura de informe y el aprendizaje de las experiencias. En el estudio se analizó la superposición de la recopilación de datos sobre incidentes de los diferentes actores, así como cómo obtener recursos suficientes y métodos de colaboración que promuevan la transparencia para el análisis sistemático y regular, la interpretación, la difusión y el seguimiento de los efectos de los mensajes de seguridad obtenidos de los sistemas.
 27
 
 ## Página 38
+
 
 ## 4 
 ## DATOS BÁSICOS SOBRE EL TRÁFICO FERROVIARIO Y POR CARRETERA 1991–2011 
@@ -1346,17 +1363,17 @@ A finales de 2011, 806 de los pasos a nivel estaban equipados con dispositivos d
 ## 4.5 
 ### Muertos y heridos en accidentes ferroviarios y de tráfico 
 El número de muertos en accidentes ferroviarios fue en 2011 claramente el más bajo de toda la historia estadística. De las muertes ocurridas en accidentes ferroviarios en 2011, dos se produjeron en accidentes en pasos a nivel y una en una colisión de trenes. Además, murió una persona que se había introducido ilegalmente en la zona ferroviaria. 
-28 
-
+28
 
 ## Página 39
+
 
 Existe incertidumbre en la estadística respecto a las personas arrolladas por tren. Por ejemplo, en 2011 se produjeron tres casos de arrollamiento que se estima que fueron suicidios. Estos no se han incluido en las estadísticas de accidentes. No hay certeza sobre el procedimiento estadístico de años anteriores. A pesar de esta incertidumbre, la cifra de 2011 es baja. 
 El número de muertos en accidentes de tráfico en 2011 ha aumentado ligeramente en comparación con los dos años anteriores. 
 29
 
-
 ## Página 40
+
 
 ## 5 
 ## ACCIDENTES EN PASOS A NIVEL 1991–2011 
@@ -1403,10 +1420,10 @@ Annual number of level crossing accidents and its development. Number of railway
 3) Estadística modificada. 
 
 Fuente: VR-Yhtymä Oy, Liikenneturva, Tilastokeskus, Liikennevirasto. 
-30 
-
+30
 
 ## Página 41
+
 
 El número anual de accidentes en pasos a nivel ha disminuido en general. Según el gráfico 2, las cifras de accidentes de 1991 a 1995 disminuyeron notablemente de aproximadamente cien a menos de 60. Después, entre 1996 y 2008, las cifras de accidentes no aumentaron ni disminuyeron claramente. A partir de 2009, las cifras de accidentes parecen haber disminuido. 
 
@@ -1449,8 +1466,8 @@ En el gráfico 3 se muestran las cifras de accidentes producidas y la predicció
 2 ARIMA = Autoregressive Integrated Moving Average, media móvil integrada autorregresiva, es un proceso con el que pueden examinarse las series temporales. El método es adecuado para datos en los que la media y la varianza no pueden considerarse constantes en función del tiempo. 
 31
 
-
 ## Página 42
+
 
 se produjeron 34, 33 y 25 accidentes. Dos observaciones son inferiores a la predicción, siendo la tercera observación el límite del intervalo de confianza. 
 
@@ -1493,10 +1510,10 @@ En los últimos años se han producido los siguientes cambios, que pueden haber 
 − Se puso en servicio un nuevo puerto en Vuosaari, Helsinki, el 24.11.2008, momento en el que se suprimió el tráfico ferroviario de los puertos de Länsisatama y Sörnäisten, que eran problemáticos desde el punto de vista del tráfico. 
 − Cierre de la fábrica de papel de Kaskinen el 23.3.2009 y la consiguiente reducción del transporte ferroviario en la sección ferroviaria Seinäjoki–Kaskinen. 
 − Cambio general a peor de la situación económica a partir de 2008 y la consiguiente caída de la magnitud del tráfico ferroviario. 
-32 
-
+32
 
 ## Página 43
+
 
 ## 5.2 
 ### Accidentes en pasos a nivel según la clase de vía y de carretera 
@@ -1538,8 +1555,8 @@ Accidents between 2000–2011
 De los accidentes en vías principales, en 2011 se produjeron seis en caminos privados (gráfico 5). En los tres años anteriores se produjeron una media de 17 accidentes al año. En calles, en 2011 se produjo un accidente, y en los tres años anteriores una media de siete al año. La disminución de las cifras de accidentes en vías principales en 2011 está relacionada con el hecho de que se produjeron excepcionalmente pocos accidentes en caminos privados y en calles. 
 33
 
-
 ## Página 44
+
 
 Yksityistie
 Katu
@@ -1574,10 +1591,10 @@ Diagram 5.
 Accidents on main lines, categorised by road category. 
 
 Típicamente, los accidentes en vías secundarias se producen en puertos, calles y zonas industriales. A partir de 2009, las cifras de accidentes de estas clases de carretera han disminuido notablemente. En puertos, la cifra anual de accidentes entre 2006 y 2008 fue de media 9, mientras que la cifra correspondiente de 2009 a 2011 fue de 3. En zonas industriales, las cifras correspondientes fueron 5 y 2, y en calles 8 y 3. 
-34 
-
+34
 
 ## Página 45
+
 
 Satama
 Katu
@@ -1643,6 +1660,7 @@ Number of accidents, categorised by warning device at the level crossing.
 | 2003 | 35 | | | |
 
 ## Página 46
+
 
 | 2003 | 52 | 7 | 5 | 40 |
 | 2004 | 52 | 7 | 4 | 41 |
@@ -1808,10 +1826,10 @@ ka
 3,5 
 1,5 
 Fuente: VR-Yhtymä Oy y Liikennevirasto. 
-36 
-
+36
 
 ## Página 47
+
 
 ## 5.5 
 ### Daños personales en accidentes en paso a nivel 
@@ -1849,8 +1867,8 @@ Los datos incluyen también a los implicados en el tráfico ligero.
 Fuente: VR-Yhtymä Oy, Liikennevirasto, Onnettomuustutkintakeskus. 
 37
 
-
 ## Página 48
+
 
 Figura 3. 
 Accidentes en paso a nivel con vehículos a motor que condujeron a la muerte en las líneas principales 2002–2011. 
@@ -1858,10 +1876,10 @@ Bild 3.
 Dödsolyckor för motorfordon vid plankorsningar längs huvudbanorna 2002–2011. 
 Figure 3. 
 Fatal level crossing accidents of motor vehicles on the main lines between 2002–2011 
-38 
-
+38
 
 ## Página 49
+
 
 Tabla 7. Accidentes con vehículos a motor que condujeron a la muerte, investigados por las comisiones de investigación de accidentes de tráfico en los años 1991–2010. En la tabla: TO = accidentes en paso a nivel, LO = accidentes de tráfico, TO% = porcentaje de accidentes en paso a nivel sobre los accidentes de tráfico, YHT = total y ka = media. 
 Tabell 7. 
@@ -2038,8 +2056,8 @@ ka
 ## 2,8 
 39
 
-
 ## Página 50
+
 
 Accidentes de tráfico/10
 50
@@ -2085,10 +2103,10 @@ Diagram 7.
 Annual numbers of fatal level crossing and other motor vehicle accidents, and the number of annual deaths. The figure for 2011 is advance information. 
 En los años 2010–11 se produjeron en total cinco accidentes con vehículos a motor que condujeron a la muerte en pasos a nivel. En estos fallecieron un total de siete personas. Todos los accidentes ocurrieron en pasos a nivel sin vigilancia de carreteras privadas. En los accidentes estuvieron implicados cuatro veces un turismo y una vez un ciclomotor. El vehículo implicado del tráfico ferroviario fue en tres casos un tren de pasajeros, en una ocasión un tren de mercancías y en una ocasión una locomotora. La velocidad máxima en la vía era de al menos 100 km/h, excepto en un paso a nivel en el que era de 70 km/h. La velocidad máxima en la carretera era de 80 km/h en todos los casos. 
 Los accidentes en paso a nivel con vehículos a motor que condujeron a la muerte en los años 2010–11 fueron muy similares a los que, según se ha comprobado, son en general característicos en el estudio temático S1/2011R. 
-40 
-
+40
 
 ## Página 51
+
 
 ## 5.6 
 ### Tiempo de gestión de la misión de los centros de emergencias 
@@ -2149,8 +2167,8 @@ Fuente: Pronto.
 3  El tiempo de gestión de la misión de los centros de emergencias puede calcularse a partir del resumen de alertas de Pronto sobre la base de la hora de inicio de la primera alerta y de la llamada. El tiempo de gestión de la misión incluye el retardo técnico, que según una investigación anterior es de cinco segundos de media. 
 41
 
-
 ## Página 52
+
 
 ## 6 
 ## ANÁLISIS 
@@ -2190,10 +2208,10 @@ Schema 8.
 Trafikutveckling 1996–2011. På grund av storleksskillnaderna i måttenheterna är de grafiska representanterna inte jämförbara. 
 Diagram 8. 
 Development of traffic in 1996–2011. Due to the difference in the order of magnitude in the units of measurement, the graphs are not comparable. 
-42 
-
+42
 
 ## Página 53
+
 
 ### Desarrollo del número de pasos a nivel 
 El número total de pasos a nivel disminuye de forma continua. Según el esquema 9, la disminución del número de pasos a nivel sin dispositivos de aviso está claramente relacionada con la disminución del número total de pasos a nivel. El número de pasos a nivel equipados con barrera y con dispositivos de aviso luminoso y sonoro no ha variado de forma significativa. Los pasos a nivel equipados con barrera son más seguros que los que carecen de dispositivos de aviso (S1/2011R), por lo que, según el número total de pasos a nivel, el trabajo de seguridad se ha centrado correctamente precisamente en reducir el número de pasos a nivel sin dispositivos de aviso. 
@@ -2234,6 +2252,7 @@ De los cuatro accidentes en paso a nivel investigados por el Centro de Investiga
 
 ## Página 54
 
+
 En tres casos, el conductor del vehículo no observó adecuadamente en el paso a nivel, circuló sin detenerse en el paso a nivel y advirtió el tren en aproximación demasiado tarde para poder evitar que se produjera el accidente. En un caso, el conductor del vehículo detuvo el vehículo antes del paso a nivel, pero probablemente no observó lo suficiente y, por lo tanto, no advirtió el tren en aproximación al reanudar la marcha. En todos los casos, la actuación del conductor del automóvil antes de llegar al paso a nivel tuvo un significado decisivo. La conciencia de la peligrosidad del paso a nivel, una velocidad suficientemente baja al aproximarse al paso a nivel y una observación cuidadosa habrían evitado que se produjeran los accidentes.
 ### Comparación de los accidentes en pasos a nivel del año 2011 con años anteriores
 En 2011 se produjeron en total 25 accidentes en pasos a nivel, en los que murieron dos personas. La gran mayoría de los accidentes (84 %) se produjeron en pasos a nivel sin dispositivos de aviso en carreteras privadas.
@@ -2242,8 +2261,8 @@ A largo plazo, las cifras de accidentes han disminuido considerablemente: en 197
 En todas las categorías de dispositivos de aviso, el número de accidentes ha disminuido con el tiempo. Al calcular las tendencias con modelos lineales generalizados, los resultados fueron fiables: sin dispositivos de aviso (p<0,001), barreras (p<0,001) y dispositivos de aviso luminoso y sonoro (p≈0,03).
 44
 
-
 ## Página 55
+
 
 media barrera
 luminoso y sonoro
@@ -2282,8 +2301,8 @@ Al examinar todos los accidentes en pasos a nivel, se observa que se produjeron 
 Examinados con modelos lineales generalizados, el factor común de los accidentes y de los accidentes con resultado de muerte fueron especialmente las carreteras privadas. Los accidentes producidos en los puertos
 45
 
-
 ## Página 56
+
 
 fueron más leves. En 2011 se produjeron especialmente pocos accidentes en pasos a nivel en vías principales en carreteras privadas. Asimismo, se produjeron menos accidentes con resultado de muerte de lo habitual. No fue posible explicar la variación anual del número de accidentes con resultado de muerte mediante el número de tipos de paso a nivel. Asimismo, la variación del número de accidentes con resultado de muerte no ha mostrado una tendencia clara en los últimos años. No obstante, el año 2011 fue especialmente bueno.
 Clasificados por tipo de carretera, los accidentes con resultado de muerte se produjeron en mayor número en carreteras privadas, calles y carreteras nacionales. En las vías de tráfico ligero se produjeron muy pocos accidentes, pero estos fueron con mayor frecuencia con resultado de muerte.
@@ -2322,8 +2341,8 @@ En el gráfico 12 se muestra la serie temporal de los daños en barreras de los 
 Los daños en barreras se producen especialmente en zonas industriales y puertos, donde hay mucho tráfico pesado. Los cambios en los volúmenes de tráfico en los puertos dependen de su grado de utilización y, por tanto, de la situación económica general. Entre 2002 y 2008, el número de daños en barreras aumentó de media en veinte daños al año. Es posible que la misma tendencia continúe a medida que mejore la situación económica general.
 46
 
-
 ## Página 57
+
 
 300
 250
@@ -2354,8 +2373,8 @@ Existen diferencias entre las estadísticas y las bases de datos de accidentes r
 Además de los accidentes, la notificación y el estudio de las anomalías desplazarían aún más el enfoque del trabajo de seguridad hacia la prevención, lo que sin duda es el objetivo común de todos los agentes del sector.
 47
 
-
 ## Página 58
+
 
 Por ejemplo, estudiando las situaciones de peligro que se producen en los pasos a nivel, se podría obtener información valiosa adicional de un suceso por sí mismo poco frecuente.
 ## 6.4
@@ -2391,8 +2410,8 @@ Schema 13. Nyckeltalen för uppgiftshanteringstider förbättrades något under 
 Diagram 13. There was a slight improvement in key parameters for task processing times in 2011.
 48
 
-
 ## Página 59
+
 
 ## 7
 ## CONCLUSIONES
@@ -2424,6 +2443,7 @@ Según el examen estadístico, en la disminución del número de accidentes en p
 
 ## Página 60
 
+
 El Centro de Investigación de Accidentes investigó en 2011 tres de los cuatro accidentes, cuyos factores de fondo coincidían con los hallazgos realizados en investigaciones anteriores:
 −
 los accidentes ocurren en cruces a nivel sin dispositivos de aviso en carreteras privadas
@@ -2447,26 +2467,36 @@ Ocurren más de 200 daños a las barreras al año. Cada paso por encima de las b
 7. Los daños a las barreras se producen especialmente en zonas industriales y en puertos con mucho tráfico pesado.
 50
 
-
 ## Página 61
 
-## 7.2
-### Resultados clave de la investigación
-Según el análisis estadístico, se puede detectar una tendencia más permanente a la baja en el número de accidentes en cruces a nivel. Las causas subyacentes probables de esta tendencia son la reducción constante del número de cruces a nivel sin dispositivos de aviso y otro trabajo de seguridad vial. Los tres últimos años en particular han sido más seguros que antes.
-De los cuatro accidentes investigados por la Autoridad de Investigación de Accidentes en 2011, tres tenían factores de fondo similares a los descubiertos en investigaciones anteriores:
-−
-estos accidentes tienen lugar en cruces a nivel en carreteras privadas, sin dispositivos de aviso
-−
-la carretera tiene típicamente un límite de velocidad de 80 km/h
-−
-las condiciones del cruce a nivel no se ajustan a las directrices técnicas de la red ferroviaria (RATO, Ratatekniset ohjeet en finés)
-−
-el conductor del vehículo está típicamente habituado a usar los cruces a nivel, por lo que no es tan perceptivo como debería cuando se aproxima al cruce a nivel.
-Ocurren más de 200 casos de daños a las barreras al año. Cada paso por encima de las barreras es un accidente potencial. No se conoce suficientemente el mecanismo de generación de los daños a las barreras.
+## 7.2 
+### Resultados centrales de la investigación 
+Según la estadística, puede observarse una tendencia descendente a más largo plazo en el número de accidentes en pasos a nivel. Las causas subyacentes son probablemente una reducción constante del número de pasos a nivel sin vigilancia y otras medidas para promover la seguridad del tráfico. En particular, durante los tres últimos años, la seguridad ha mejorado. 
+En tres de los cuatro accidentes que la Central de Investigación de Accidentes investigó en 2011 se encontraron causas subyacentes similares a las de investigaciones anteriores: 
+− 
+los accidentes se produjeron en pasos a nivel sin vigilancia en carreteras individuales 
+− 
+la velocidad indicada en la carretera era en general de 80 km/h 
+− 
+las condiciones en el paso a nivel no eran compatibles con las indicaciones técnicas ferroviarias 
+− 
+el conductor del vehículo tenía en general experiencia del paso a nivel, lo que condujo a una atención deficiente al llegar al paso a nivel. 
+Se producen más de 200 daños en barreras por año. Cada colisión con una barrera es un accidente potencial. Las causas de la aparición de daños en las barreras no se conocen suficientemente. 
+## 7 
+## CONCLUSIONES 
+## 7.1 
+### Afirmaciones 
+1. El número de accidentes en pasos a nivel ha disminuido en los tres últimos años. 
+2. La situación económica general más débil y la consiguiente ralentización del crecimiento del volumen de tráfico pueden haber tenido un impacto en la disminución del número de accidentes en pasos a nivel. 
+3. Sobre la base del análisis estadístico, puede detectarse una tendencia más permanente en la caída del número de accidentes en pasos a nivel. 
+4. La seguridad en los pasos a nivel se ve influida por la reducción del número de pasos a nivel, especialmente de aquellos sin dispositivos de aviso, y por otras labores de seguridad del tráfico para prevenir accidentes en pasos a nivel. 
+5. En todos los accidentes en pasos a nivel investigados por la Autoridad de Investigación de Seguridad en 2011, la actuación del conductor del vehículo antes de llegar al paso a nivel desempeñó un papel significativo en la secuencia de acontecimientos que condujo al accidente. 
+6. Los factores subyacentes de los accidentes ocurridos en 2011 son coherentes con las conclusiones de la investigación temática anterior. 
+7. Los daños en las barreras se producen particularmente en zonas industriales y puertos con mucho tráfico pesado. 
 51
 
-
 ## Página 62
+
 
 8. Cada vez que un vehículo rompe una barrera es una situación peligrosa. Dado que no se conoce suficientemente el mecanismo de generación de los daños a las barreras, deberían investigarse más a fondo.
 9. Los agentes ferroviarios no disponen de una base de datos común para accidentes y situaciones peligrosas.
@@ -2486,8 +2516,8 @@ el conductor del vehículo está típicamente habituado a usar los cruces a nive
 Ocurren más de 200 casos de daños a las barreras al año. Cada vez que un vehículo rompe una barrera es un accidente potencial. No se conoce suficientemente el mecanismo de generación de los daños a las barreras.
 52
 
-
 ## Página 63
+
 
 ## 8
 ## RECOMENDACIONES DE SEGURIDAD
@@ -2505,8 +2535,8 @@ Veli-Jussi Kangasmaa
 Kari Ylönen
 53
 
-
 ## Página 64
+
 
 ## FUENTES
 ### Datos de accidentes y daños
@@ -2562,54 +2592,55 @@ Institución del Centro de Emergencias
 Centro de Seguros de Tráfico
 54
 
-
 ## Página 65
+
 
 ### Anexo 1/1 (8)
 ## DICTÁMENES
 
-
 ## Página 66
 
-### Anexo 1/2 (8)
-### Anexo 1/2 (8)
 
+### Anexo 1/2 (8)
+### Anexo 1/2 (8)
 
 ## Página 67
 
-### Anexo 1/3 (8)
-### Anexo 1/3 (8)
 
+### Anexo 1/3 (8)
+### Anexo 1/3 (8)
 
 ## Página 68
 
-### Anexo 1/4 (8)
-### Anexo 1/4 (8)
 
+### Anexo 1/4 (8)
+### Anexo 1/4 (8)
 
 ## Página 69
 
-### Anexo 1/5 (8)
-### Anexo 1/5 (8)
 
+### Anexo 1/5 (8)
+### Anexo 1/5 (8)
 
 ## Página 70
 
-### Anexo 1/6 (8)
-### Anexo 1/6 (8)
 
+### Anexo 1/6 (8)
+### Anexo 1/6 (8)
 
 ## Página 71
 
+
 ### Anexo 1/7 (8)
 
-
 ## Página 72
+
 
 ### Anexo 1/8 (8)
 ### Anexo 1/8 (8)
 
 ## Página 73
+
 
 ### Anexo 2/1 (3)
 ## DESCRIPCIONES DE LOS ACCIDENTES EN PASOS A NIVEL DE 2011
@@ -2624,8 +2655,8 @@ Centro de Seguros de Tráfico
 16.6.2011 D4/2011R En Keuruu, en Valkeajärvi, en Suojärventie, una furgoneta quedó por debajo del tren de pasajeros 444 en un paso a nivel sin señalización de aviso (Hietaranta, km 320+288). El paso a nivel se sitúa en el tramo Haapamäki–Seinäjoki, a 20 km de Haapamäki en dirección a Seinäjoki. El conductor de la furgoneta resultó herido.
 14.7.2011 En Kokkola, en el puerto profundo de Ykspihlaja, una unidad de maniobras y un camión chocaron en un paso a nivel sin señalización de aviso equipado con señales STOP. La locomotora iba a recoger vagones de la vía 176 (Harkkotie) para el tren 5425, cuando colisionó en el paso a nivel con un camión con remolque detenido, en la zona de la cabina. El paso a nivel se sitúa en la zona industrial, en el área entre OMG Kokkola Chemicals Oy y la orilla del puerto profundo, en las proximidades de la vía 176. Sin víctimas personales.
 
-
 ## Página 74
+
 
 ### Anexo 2/2 (3)
 19.7.2011 En las vías del puerto de Hamina, una unidad de maniobras y un camión búlgaro chocaron. La unidad de maniobras circulaba solo con la locomotora y se detuvo para maniobrar el cambio 386 con el fin de acceder a la vía 385. La unidad de maniobras iba a recoger vagones de la vía 385. Una vez en movimiento, la locomotora colisionó con el camión en un paso a nivel sin señalización de aviso situado a 20 metros de distancia. El conductor búlgaro del camión circulaba por Gerhardin väylä, que discurre en la misma dirección que la vía, y al girar a la izquierda se situó delante de la locomotora de la unidad de maniobras. Sin víctimas personales.
@@ -2639,8 +2670,8 @@ Centro de Seguros de Tráfico
 21.9.2011 En Pyhäjärvi, en Komuntie, un automóvil quedó por debajo del tren de mercancías 4473 en un paso a nivel sin señalización de aviso equipado con señales STOP (Leppisaari, km 608+989). El paso a nivel se sitúa en el tramo Iisalmi–Ylivieska, a 7,1 km de la estación de Pyhäsalmen en dirección a Iisalmi. Dos personas que viajaban en el automóvil resultaron levemente heridas.
 5.10.2011 En Kurika, en Paavolantie, un automóvil quedó por debajo del tren de mercancías 3204 en un paso a nivel sin señalización de aviso (P Paavola, km 450+227). El paso a nivel se sitúa en las proximidades del centro de Kurika, en el tramo Seinäjoki–Kaskinen, a 1,8 km de la estación de Kurika en dirección a Seinäjoki. El conductor del automóvil resultó levemente herido.
 
-
 ## Página 75
+
 
 ### Anexo 2/3 (3)
 10.10.2011 En Pori, en Mäntyluoto, en la vía de Tahkoluoto, la furgoneta de mantenimiento de VR Track quedó por debajo de una excavadora sobre ruedas en un paso a nivel sin señalización de aviso (Kirrinsannantie, km 341+685). El paso a nivel se sitúa en el tramo Mäntyluoto–Tahkoluoto, a 1,9 km del punto de bifurcación de la vía en Mäntyluoto en dirección a Tahkoluoto. Sin víctimas personales.
@@ -2649,11 +2680,12 @@ Centro de Seguros de Tráfico
 25.11.2011 En Lappeenranta, en Sementtitie, un camión articulado circuló por el lateral de los vagones de una unidad de maniobras en un paso a nivel sin señalización de aviso equipado con señales STOP (Sementtitie, km 285+245). El paso a nivel se sitúa en el tramo Lappeenranta–Mustolan satama, a 2,5 km de la estación de Lappeenranta en dirección a Mustola. Sin víctimas personales.
 13.12.2011 En Ilomantsi, en Marjovaarantie, un camión articulado (camión de plataforma) quedó por debajo del tren de mercancías 4582 en un paso a nivel sin señalización de aviso (Marjovaara, km 686+052). El paso a nivel se sitúa en el tramo Joensuu–Ilomantsi, a 9,2 km de la estación de Ilomantsi en dirección a Joensuu. El conductor del camión articulado resultó herido.
 
-
 ## Página 76
 
 
+
 ## Página 77
+
 
 ### Anexo 3/1 (17)
 ## DAÑOS EN BARRERAS 2011
@@ -2862,6 +2894,7 @@ Kotka, Mussalo
 TR
 
 ## Página 78
+
 
 ### Anexo 3/2 (17)
 2.3.
@@ -3100,8 +3133,8 @@ TR
 K
 VY
 
-
 ## Página 79
+
 
 ### Anexo 3/3 (17)
 26.4.
@@ -3332,8 +3365,8 @@ Oulu, Nuottasaari, Jääsalontie
 TR
 K
 
-
 ## Página 80
+
 
 ### Anexo 3/4 (17)
 29.7.
@@ -3552,8 +3585,8 @@ YT
 TR
 S/Y
 
-
 ## Página 81
+
 
 ### Anexo 3/5 (17)
 | 2811 . . | Joroinen Kerisalo , | PR |  |  |  |
@@ -3588,6 +3621,7 @@ Material rodante por carretera: ha = automóvil de pasajeros y furgoneta, la = a
 17.1.2011 En Kotka, en el puerto de Mussalo, un camión de remolque ruso había desprendido la barrera en el paso a nivel de Merituulentie (Merituulentie, km 246+647).
 
 ## Página 82
+
 
 ### Anexo 3/6 (17) 
 17.1.2011 En Kemi se había arrancado la barrera en el paso a nivel de Ajoksentie (Ajoksentie, Stora Enso, km 
@@ -3641,10 +3675,10 @@ en
 dirección 
 a 
 Ykspihlaja. 
-9.2.2011 En Oulu, en Nuottasaari, un camión de transporte forzó el paso de la barrera en el segundo paso a nivel de Jääsalontie. En Jääsalontie hay dos pasos a nivel separados 200 metros entre sí (Jääsalontie Veitsiluoto, 
-
+9.2.2011 En Oulu, en Nuottasaari, un camión de transporte forzó el paso de la barrera en el segundo paso a nivel de Jääsalontie. En Jääsalontie hay dos pasos a nivel separados 200 metros entre sí (Jääsalontie Veitsiluoto,
 
 ## Página 83
+
 
 ### Anexo 3/7 (17) 
 km 751+478 y Jääsalontie Syväsatama 751+597), pero en la notificación no se había registrado cuál de los pasos a nivel era el afectado. Los pasos a nivel se encuentran en la vía del puerto/industrial de Oritkari que se separa de la estación de mercancías de Oulu, a una distancia de 1,7–1,8 km de la aguja de desvío de la estación de mercancías y desde dicha aguja hay 3,1 km hasta la estación de Oulu. 
@@ -3671,6 +3705,7 @@ Junatoimisto, km 247+618).
 1.3.2011 En Kotka, en el puerto de Mussalo, un camión de carga arrancó la barrera en un paso a nivel. En la notificación no se había registrado el lugar exacto.
 
 ## Página 84
+
 
 ### Anexo 3/8 (17)
 2.3.2011 En Kotka, en el puerto de Mussalo, un autor desconocido había desprendido la barrera en el paso a nivel.
@@ -3711,8 +3746,8 @@ lahti, pk 558+837), el dispositivo de barrera semiautomática entró en estado d
 16.3.2011 En Kokkola, un automóvil desprendió la barrera en el paso a nivel de Laajalahdentie (Laajalah-
 dentie, pk 551+703). La unidad de maniobras 6566 vio un automóvil azil desprendiendo la barrera. El paso a nivel se encuentra en la vía ferroviaria Kokkola–Ykspihlaja-satama/teollisuusrata, a 1,0 km de la estación de Kokkola en dirección a Ykspihlaja.
 
-
 ## Página 85
+
 
 ### Anexo 3/9 (17)
 17.3.2011 En Muhos, el conductor de un automóvil rompió la barrera en el paso a nivel de Tyrnäväntie (Muhos, Tyrnä-
@@ -3740,6 +3775,7 @@ La barrera se había roto en tres piezas. En la notificación no constaba el lug
 
 ## Página 86
 
+
 ### Anexo 3/10 (17)
 En el tramo de la línea de Tampere, en las inmediaciones de la estación de ferrocarril de Seinäjoki, a 0,4 km de la estación en dirección a Tampere, es decir, hacia el sur.
 7.4.2011 En Lapinlahti había una barrera averiada en el paso a nivel de Nerkoontie (Nerkoo, pk 531+580). El paso a nivel se encuentra en el tramo de la línea Kuopio–Iisalmi, a 6,0 km de Lapinlahti en dirección a Iisalmi y a 19 km antes de Iisalmi.
@@ -3757,8 +3793,8 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 5.5.2011 En Tammisaari se había desprendido la barrera en el paso a nivel de la calle que une Rautatienkatu y Pehr Sommarinkatu (Prästäng, pk 173+404). Evidentemente, la había desprendido la máquina de perfilado del mantenedor de carreteras. Entre las calles mencionadas discurre la línea Karjaa–Hanko, y este breve tramo de calle cruza la línea en el paso a nivel de Prästäng. El paso a nivel se encuentra en el tramo de la línea Karjaa–Hanko, a 16 km de Karjaa en dirección a Hanko y a 0,7 km antes de la estación de Tammisaari.
 11.5.2011 En Kruunupyy un camión desprendió la barrera en el paso a nivel de la vía privada que se separa de Dunderkärrintie hacia la granja (Norby, pk 533+013), aparentemente por delante del tren de pasajeros IC 54. El paso a nivel se encuentra en el tramo de la línea Seinäjoki–Kokkola, a 14 km de la estación de Pännäinen en dirección a Kokkola y a 18 km antes de la estación de Kokkola. El paso a nivel ha sido suprimido a partir del 3.11.2011.
 
-
 ## Página 87
+
 
 ### Anexo 3/11 (17)
 11.5.2011 En Kotka, en el puerto de Mussalo, se había desplazado la barrera de su posición en el paso a nivel de Siikasaarentie (Siikasaarentie, pk 246+798).
@@ -3781,6 +3817,7 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 
 ## Página 88
 
+
 ### Anexo 3/12 (17) 
 13.6.2011 En Turku, la barrera bajó sobre el techo de un autobús en el paso a nivel de Ruissalontie (Ruissalontie, km 200+327). La barrera se rompió. El paso a nivel se encuentra en el tramo ferroviario Turku–Turku satama a 0,7 km de la estación de Turku en dirección al puerto. 
 14.6.2011 En Pori, un camión cisterna desprendió la barrera en el paso a nivel de Kaanaantie (Kaanaantie, km 338+952) delante del tren de mercancías 3801. El paso a nivel se encuentra en el tramo ferroviario Pori–Mäntyluoto a 17 km de Pori en dirección a Mäntyluoto, en las proximidades de la central eléctrica de Meri-Pori. 
@@ -3796,10 +3833,10 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 6.7.2011 En Turku, un automóvil atravesó las barreras en el paso a nivel de Vanha Tampereentie (Tampereentie, km 271+943). No había ningún tren cerca. El tráfico del paso a nivel es intenso y hay un total de ocho barreras. El paso a nivel se encuentra en el tramo ferroviario Turku–Toijala a 2,9 km de la estación de Turku en dirección a Toijala.  
 7.7.2011 En Iisalmi, un camión pasó por encima de la barrera en el paso a nivel de Parkatintie (Suurisuo, km 552+350) delante de la unidad de maniobras 57361. No se localizó al conductor del camión. El paso a nivel se encuentra en el tramo ferroviario Iisalmi–Kajaani a 2,0 km de la estación de Iisalmi en dirección a Kajaani (norte). 
 7.7.2011 En Kouvola, la barrera había sido desprendida en el paso a nivel de Kanervistontie (Kanervistontie, km 193+714). El paso a nivel se encuentra en la vía industrial que se separa de la estación de mercancías de Kouvola, a 2,2 km de la estación de Kouvola en dirección a Lappeenranta. 
-8.7.2011 En Iisalmi, en Soinlahti, un automóvil había destrozado la barrera en el paso a nivel de Lehtomäentie (Soinlahti, km 558+837). Lo notificó la unidad de maniobras 6331. El paso a nivel se encuentra en el tramo ferroviario Iisalmi–Kajaani a 8,5 km de la estación de Iisalmi en dirección a Kajaani. 
-
+8.7.2011 En Iisalmi, en Soinlahti, un automóvil había destrozado la barrera en el paso a nivel de Lehtomäentie (Soinlahti, km 558+837). Lo notificó la unidad de maniobras 6331. El paso a nivel se encuentra en el tramo ferroviario Iisalmi–Kajaani a 8,5 km de la estación de Iisalmi en dirección a Kajaani.
 
 ## Página 89
+
 
 ### Anexo 3/13 (17) 
 8.7.2011 En Raision, un automóvil desprendió la barrera en el paso a nivel de Raisiontie (Raisiontie, km 208+451). El paso a nivel se encuentra en el tramo ferroviario Turku–Uuusikaupunki a 8,8 km de la estación de Turku y a 0,6 km de la estación de Raision en dirección a Uudenkaupunki. 
@@ -3822,6 +3859,7 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 
 ## Página 90
 
+
 ### Anexo 3/14 (17)
 18.8.2011 en Espoo, en el paso a nivel del camino de acceso a la estación de Mankki (Mankki, pk 25+403), la barrera fue cortada de forma vandalizada. La barrera había sido lanzada sobre la vía antes de la llegada del tren U. El tren pasó por encima de la barrera cortada. Sin daños en el tren. No se dispone de información sobre el autor. El paso a nivel se encuentra en la sección de la línea Helsinki–Turku a 4,8 km de la estación de Espoo en dirección a Turku.
 19.8.2011 en Kemi, el remolque de un camión rompió todas las barreras en el paso a nivel de Möylyntie (Kemi, Möylyntie, pk 855+781). El camión tuvo que esperar en la intersección de carreteras para acceder a Eteläntie, momento en el que las barreras del paso a nivel descendieron sobre el vehículo. El paso a nivel se encuentra en la sección de la línea Oulu–Kemi a 2,5 km de la estación de Kemi en dirección a Oulu.
@@ -3838,8 +3876,8 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 2.9.2011 en Mänttä–Vilppula, un camión rompió la barrera en el paso a nivel de Valtatie (Valtatie, pk 283+500) por delante de la locomotora de la unidad de maniobras. El paso a nivel se encuentra en un ramal industrial que se separa de la playa de vías de Mäntä, a 9,7 km de Vilppula y a 0,8 km de la estación de Mäntä en dirección ascendente.
 2.9.2011 en Rauma, en la vía industrial/portuaria, un automóvil rompió la barrera en el paso a nivel de Anderssonintie (Anderssonintie, pk 332+445) por delante de la unidad de maniobras 6762. La barrera quedó a medio camino en posición inclinada. La unidad de maniobras venía procedente de UPM hacia la playa de vías de Rauma. El paso a nivel se encuentra en la vía industrial/portuaria que sale de la playa de vías de Rauma a 0,8 km de la estación de Rauma.
 
-
 ## Página 91
+
 
 ### Anexo 3/15 (17)
 5.9.2011 en Kemi, un camión rompió la barrera en el paso a nivel de Ajoksentie por delante de la unidad de maniobras 6202.
@@ -3859,8 +3897,8 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 21.10.2011 en Kokkola, la barrera fue desprendida en el paso a nivel de Vanha Ouluntie (Kunnari, pk 555+316). El paso a nivel se encuentra en la sección de la línea Kokkola–Ylivieska a 3,9 km de la estación de Kokkola en dirección a Ylivieska.
 27.10.2011 en Kotka, en el puerto de Mussalo, la barrera fue desprendida en el paso a nivel de Rompintie (Vanha Junatoimisto, pk 247+618).
 
-
 ## Página 92
+
 
 ### Anexo 3/16 (17)
 28.10.2011 en Mänttä–Vilppula, un automóvil desprendió la barrera en el paso a nivel de Valtatie (Valtatie, pk 283+500) por delante de la unidad de maniobras 6386. El paso a nivel se encuentra en un ramal industrial que se separa de la playa de vías de Mäntä, a 9,7 km de Vilppula y a 0,8 km de la estación de Mäntä en dirección ascendente.
@@ -3883,6 +3921,7 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 
 ## Página 93
 
+
 ### Anexo 3/17 (17)
 13.12.2011 En Kotka, en el puerto de Mussalo, la barrera fue desprendida en el paso a nivel de Rompintie (Vanha Junatoimisto, pk 247+618).
 19.12.2011 En Kotka, en el puerto de Mussalo, la barrera fue desprendida en un paso a nivel (tres opciones).
@@ -3893,11 +3932,12 @@ En el tramo de la línea de Tampere, en las inmediaciones de la estación de fer
 30.12.2011 En Teuva, las barreras fueron atravesadas en el paso a nivel de Karijoentie (Aurala, pk 499+160). El paso a nivel se encuentra en el tramo ferroviario Seinäjoki–Kaskinen, a 1,7 km de la estación de Teuva en dirección a Närpie, es decir, Kaskinen.
 Fuente: VR-Yhtymä Oy
 
-
 ## Página 94
 
 
+
 ## Página 95
+
 
 ### Anexo 4/1 (3)
 ## INFORMACIÓN BÁSICA SOBRE EL TRÁFICO FERROVIARIO Y POR CARRETERA 1991–2011
@@ -4064,8 +4104,8 @@ Fuente: Autoridad de Transporte.
 | 2005 | 51675 |  |  | 27800 |  |  | 78168 |
 | 2006 | 52150 |  |  | 25500 |  |  | 78189 |
 
-
 ## Página 96
+
 
 ### Anexo 4/2 (3)
 | 2007 | 53250 | 26000 | 78189 |
@@ -4269,8 +4309,8 @@ y sonoro
 2000
 4  En las tablas, los lugares marcados con un guion (-) indican que el dato no está disponible.
 
-
 ## Página 97
+
 
 ### Anexo 4/3 (3)
 | 2001 | 5107 | 915 | 805 | 135 | 4167 |

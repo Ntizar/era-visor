@@ -10,13 +10,13 @@ chars: 87112
 ratio_longitud: 1.11
 tokens_in: 29366
 tokens_out: 24454
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 19: cifras largas: faltan 24/24 (100%)"]
-notas_cifras: ["página 6: cifras cortas: 1/10", "página 10: cifras cortas: 7/30", "página 14: cifras largas: 1/28", "página 18: ratio 2.03", "página 25: cifras cortas: 1/18"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Traducción facilitada por el Centro de Traducción de los organismos de la Unión Europea 
 La única versión válida es la versión original facilitada por el NIB 
@@ -39,10 +39,10 @@ mail@dicr.cz
 Tel.: (+420) 224 805 444 
 N.º de identificación fiscal: 75009561  
 110 00 Praga 1  http://www.dicr.cz  
-Fax: (+420) 224 805 428 
-
+Fax: (+420) 224 805 428
 
 ## Página 2
+
 
 # RESUMEN 
 Grado:  
@@ -74,12 +74,14 @@ Dirigidas a České dráhy, a. s.:
 1) En interés de la seguridad ferroviaria, se recomienda que las normas de organización del mantenimiento sean conformes con la legislación nacional vigente y con las recomendaciones de los fabricantes del material rodante. 
 2) Se recomienda adoptar medidas para evitar que los gestores ordenen al personal incumplir las normas. 
 Dirigidas a la Autoridad Nacional de Seguridad (Dráţní úřad): 
-3) Se recomienda verificar si la empresa ferroviaria cumple los requisitos de seguridad cada vez que notifique cualquier cambio en los parámetros relevantes para el proceso de certificación de seguridad. 
-
+3) Se recomienda verificar si la empresa ferroviaria cumple los requisitos de seguridad cada vez que notifique cualquier cambio en los parámetros relevantes para el proceso de certificación de seguridad.
 
 ## Página 3
 
+
+
 ## Página 4
+
 
 # Índice 
 Resumen ........................................................................................................................................... 3 
@@ -134,6 +136,7 @@ mantenimiento, normas técnicas aplicables y otras normativas internas .........
 
 ## Página 5
 
+
 3.4.4 Vehículos ferroviarios, incluido el equipo de registro automático de datos ..................................... 18 
 3.5 Documentación del sistema de explotación ............................................................................................ 19 
 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del operador en relación con 
@@ -170,10 +173,10 @@ las causas .....................................................................
 6 Recomendaciones de seguridad ............................................................................................................ 29 
 7 Anexos ................................................................................................................................. 30 
 Foto 1: Vista de la unidad de tracción tras el incendio ............................................................................... 30 
-Foto 2: Vista del vagón tras el incendio ....................................................................................... 30 
-
+Foto 2: Vista del vagón tras el incendio ....................................................................................... 30
 
 ## Página 6
+
 
 # 1 RESUMEN 
 Gravedad:  
@@ -204,6 +207,7 @@ Dirigidas a la Autoridad Nacional de Seguridad: Adoptar medidas especiales que c
 
 ## Página 7
 
+
 # 2 INFORMACIÓN RELACIONADA CON EL INCIDENTE
 # 2.1 Incidente
 ### 2.1.1 Fecha, hora exacta y lugar del incidente
@@ -217,6 +221,7 @@ El incidente fue comunicado por la Oficina de Inspección de Seguridad Ferroviar
 La investigación real sobre las causas y circunstancias del incidente se llevó a cabo conforme al artículo 53, letra b), de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión modificada (‘Ley n.º 266/1994 Coll.’) y a los artículos 11 y 12 del Reglamento n.º 376/2006 Coll., sobre el sistema de gestión de la seguridad de la explotación ferroviaria y de la seguridad del transporte ferroviario, y sobre los procedimientos en caso de ocurrencia de accidentes e incidentes en los sistemas ferroviarios (‘Reglamento n.º 376/2006 Coll.’)
 
 ## Página 8
+
 
 # 2.2 Circunstancias del incidente
 2.2.1 Empleados del gestor de la infraestructura y de la empresa operadora implicados, personas en relaciones contractuales y otros participantes y testigos
@@ -241,6 +246,7 @@ La estación está equipada con un equipo de seguridad de categoría 3 ESA 11 (�
 
 ## Página 9
 
+
 En el momento del incidente, el despachador de la estación de Pňovany controlaba la señalización SSE de la estación de Vranov u Stříbra. Los puntos controlados centralmente y los desvíos de seguridad se accionan mediante motores eléctricos trifásicos. El equipo de seguridad estaba diseñado para una velocidad de 160 km/h en las vías principales. Los puntos con una velocidad de paso superior a 120 km/h están complementados con sensores de posición para verificar su posición y comprobar si se acerca algún tren desde la dirección incorrecta. En la zona de la estación de Pňovany, se utilizan circuitos de vía tipo KOA-1 de 275 Hz y un contador de ejes Frauscher para comprobar si las secciones de línea están libres u ocupadas, así como para la interacción de los vehículos ferroviarios con el equipo de seguridad.
 La sección de vía única entre la estación de Pňovany y la estación de Vranov u Stříbra está equipada con equipo de seguridad de vía de categoría 3 («TSE») – bloqueo automático bidireccional de tres posiciones tipo ABE-1, con transmisión de códigos de control de trenes en ambas direcciones, con una frecuencia de codificación de 75 Hz, con la condición de bloqueo total activada cuando un tren entra en la línea. Se utilizan circuitos de vía KOA-1 para comprobar si la línea está libre.
 La sección de vía doble entre la estación de Kozolupy y la estación de Pňovany está equipada con equipo de seguridad de vía de categoría 3 – bloqueo automático bidireccional de tres posiciones tipo ABE-1, con transmisión de códigos de control de trenes en ambas direcciones, con una frecuencia de codificación de 75 Hz, con la condición de bloqueo total activada cuando un tren entra en la línea. Se utilizan circuitos de vía KOA-1 para comprobar si la línea está libre.
@@ -260,8 +266,8 @@ El plan de incidentes ferroviarios se activó de conformidad con el Reglamento n
 2.2.7 Activación del plan del sistema integrado de rescate, la policía y el servicio de rescate médico, y la secuencia de acontecimientos
 El plan del IRS se activó al mismo tiempo que se notificó el incidente por parte de la persona autorizada y profesionalmente competente a tenor del Reglamento n.º 376/2006 Coll. En el lugar del incidente actuaron el Servicio de Bomberos y Rescate de la Región de Pilsen – estaciones de Stříbro y Nýřany, el Servicio de Bomberos y Rescate SŢDC, s. o., Pilsen, el Cuerpo de Bomberos Voluntarios de Pňovany y el departamento de distrito de la policía checa de la localidad de Touškov. El servicio de rescate médico no se puso en marcha.
 
-
 ## Página 10
+
 
 # 2.3 Fallecimientos, lesiones y daños materiales
 2.3.1 Pasajeros y terceros, empleados del gestor de la infraestructura y del operador, incluidas las personas en relaciones contractuales
@@ -293,8 +299,8 @@ Los daños calculados por el gestor de la infraestructura y el operador:
  a los equipos de infraestructura 71 720 CZK
  no hubo daños al medio ambiente.
 
-
 ## Página 11
+
 
  daños materiales totales 7 326 528,40 CZK
 
@@ -303,6 +309,7 @@ Los daños calculados por el gestor de la infraestructura y el operador:
 El incidente ocurrió durante la noche, a +25 °C, cielo despejado y sin viento.
 
 ## Página 12
+
 
 # 3 REGISTRO DE DECLARACIONES PRESENTADAS
 # 3.1 Resumen de las declaraciones presentadas (sujeto a protección de identidad)
@@ -355,6 +362,7 @@ el reglamento interno ČD V 25, donde en el artículo 20 se establece:
 
 ## Página 13
 
+
 evento el mantenimiento preventivo no haya logrado evitar averías en las piezas individuales de los vehículos ferroviarios, dichas averías se reparan. El mantenimiento se divide en mantenimiento preventivo, que se compone de los siguientes niveles:
 - tratamiento operativo;
 - inspecciones periódicas;
@@ -390,6 +398,7 @@ el reglamento interno ČD V 25, donde en el artículo 20 se establece:
 
 ## Página 14
 
+
 se establecen para la realización de las inspecciones periódicas MAJ y para la realización de las reparaciones periódicas...’
 
 reglamento interno ČD V 25, donde en el artículo 22 se establece:
@@ -410,8 +419,8 @@ Norma de Mantenimiento, emitida por el fabricante Škoda Pilsen, cuando en el Re
 La competencia relacionada con la salud de los empleados del gestor de la infraestructura y del operador se evalúa de conformidad con el Reglamento n.º 101/1995 Coll., por el que se establecen las Normas para la Salud y la Competencia Profesional en la Operación de una Ferrocarril y del Transporte Ferroviario, modificado (en lo sucesivo, solo Reglamento n.º 101/1995 Coll.).
 Los requisitos para la competencia profesional de las personas que participan en la operación de ferrocarriles y del transporte ferroviario, incluido el método de su cumplimiento, se establecen de conformidad con el apartado 1, letra b), del artículo 35 de la Ley n.º 266/1994 Coll., reglamento interno del gestor de la infraestructura «SŢDC Zam1 (provisional) Reglamento sobre la Competencia Profesional de los Empleados de la Administración de la Infraestructura Ferroviaria, Organización Estatal» y el reglamento interno del operador «ČD Ok 2 NORMAS DE FORMACIÓN Y PRUEBAS DE CZECH RAILWAYS, a. s.», modificado.
 
-
 ## Página 15
+
 
 De acuerdo con los documentos del gestor de la infraestructura y del operador, en el momento del incidente todos los empleados implicados tenían la certificación sanitaria válida y eran competentes profesionalmente para realizar sus trabajos.
 Una condición para la competencia para conducir un vehículo ferroviario está estipulada en el artículo 45 de la Ley n.º 266/1994 Coll. El conductor posee un «Certificado de Competencia para Conducir un Vehículo Ferroviario» válido, ref. n.º 502337, emitido por la Autoridad Nacional de Seguridad de Praga el 31.07.2007, para unidades de tracción tipo E1, E2 y E3 en líneas abiertas.
@@ -438,6 +447,7 @@ Ley n.º 266/1994 Coll., sobre Ferrocarriles, modificada;
 Reglamento n.º 100/1995 Coll., que especifica las condiciones para la operación, construcción y producción de dispositivos técnicos específicos, y su especificación (Código de Dispositivos Técnicos Específicos), modificado;
 
 ## Página 16
+
 
  
 Reglamento n.º 177/1995 Coll., por el que se dictan el Reglamento de Construcción y el Reglamento Técnico para Ferrocarriles, con las modificaciones posteriores; 
@@ -472,9 +482,10 @@ Disposiciones complementarias del reglamento ČD Z1 Normativa para la explotaci�
 ORDEN DE APLICACIÓN PARA LAS LÍNEAS CON EQUIPOS DE SEGURIDAD DE CONTROL REMOTO (IO) PARA LA LÍNEA Pilsen - Jiţní předměstí (exclusivo) – Stříbro (exclusivo). 
 # 3.4 Explotación de vehículos ferroviarios y equipos técnicos 
 3.4.1 Sistemas de control, señalización y seguridad, incluidos los equipos de registro automático de datos 
-La línea Pilsen hl. n. a Cheb es una línea con equipos de seguridad de control remoto. El RCSE organiza el transporte ferroviario en la zona controlada a través del SSE y del TSE conectado, controlados de forma remota por el despachador del RCSE desde la oficina de servicio del RCSE («RCSE SO»). Las instrucciones del RCSE se envían a través de 
+La línea Pilsen hl. n. a Cheb es una línea con equipos de seguridad de control remoto. El RCSE organiza el transporte ferroviario en la zona controlada a través del SSE y del TSE conectado, controlados de forma remota por el despachador del RCSE desde la oficina de servicio del RCSE («RCSE SO»). Las instrucciones del RCSE se envían a través de
 
 ## Página 17
+
 
 equipos de telecomunicaciones desde la RCSE SO a todos los elementos y grupos de elementos de los equipos de seguridad en la zona controlada, y las lecturas procedentes de este equipo se transmiten de vuelta a la RCSE SO. La Oficina de Control del RCSE («RCSE CO») está situada en Pilsen. En la CO del despachador del RCSE hay teléfonos (con números de llamada específicos) y conexiones a través de las cuales se registran mediante equipos de grabación de tipo REDAT. La RCSE SO está equipada con: 
  
@@ -495,6 +506,7 @@ El vagón de pasajeros de la serie y núm. de registro B 51 54 20-41 754-2 es un
 El vagón tiene un chasis tipo Görlitz Va y está equipado con un freno de aire automático DAKO con zapatas. El sistema de calefacción del vagón dispone de aire caliente con vapor y un calentador de aire eléctrico con regulación automática de la temperatura del aire y regulación manual en los compartimentos de pasajeros. La ventilación se asegura mediante la ventilación del techo y a través del sistema de calefacción cuando no está en modo de calefacción. La fuente de electricidad es un generador trifásico en la brida de la cámara de apoyo del cojinete del eje. Cuando el vagón está estacionario, una batería de acumuladores proporciona la fuente de electricidad. La iluminación principal se realiza mediante tubos fluorescentes, mientras que la iluminación de emergencia y nocturna utiliza bombillas. El vagón está equipado con tuberías principales y de alimentación del freno, tuberías de vapor longitudinales, cableado eléctrico de alta corriente longitudinal y un cable UIC. La última inspección técnica regular del vagón se llevó a cabo el 05. 03. 2008 en RVD Pilsen, OU Cheb.
 
 ## Página 18
+
 
 La unidad de tracción 242.264-0 es una locomotora de bogie tipo caja de corriente alterna con dos cabinas extremas para el personal y una sala de máquinas interna. La caja está fabricada con planchas de acero soldadas. La cabina del conductor es accesible desde ambos lados. La unidad de tracción tiene la disposición Bo'Bo', lo que significa que cuenta con dos chasis de eje gemelo. Todos los conjuntos de ruedas están accionados por sus propios motores de tracción (TM). Los TM son de seis polos, construidos teniendo en cuenta el suministro de energía de corriente ondulada. Disponen de un sistema de ventilación de terceros diseñado para impedir la entrada de agua, nieve y polvo grueso en los motores. Los TM están protegidos contra sobrecargas mediante un relé de sobrecorriente. Los TM se dividen en tres grupos de revoluciones y están suspendidos sobre el chasis del bastidor. Todos los cables y correas de los circuitos de potencia y los hilos de los circuitos de control y circuitos auxiliares son de cobre. El cableado de alta y baja corriente está separado. En los puntos donde se ramifican los cables, hay una placa de bornes intermedia para conectar los cables de potencia de los TM. La placa de bornes intermedia está compuesta por cuatro bornes, un respaldo y tapa de madera y cuatro cables CBAU 240/800 V. Las conexiones entre los bornes y los hilos se realizan mediante soldadura (soldadura de plata).
 
@@ -552,15 +564,39 @@ A petición de la Oficina de Inspección de Seguridad Ferroviaria, fechada el 30
 
 ## Página 19
 
+llamada y la adopción de medidas alternativas a la vista de los incidentes que surgieron en la explotación posterior del ferrocarril y del transporte ferroviario. La comunicación entre los empleados del gestor de infraestructura y del operador presentes en el origen del incidente se realizó en el lugar del incidente tanto de forma directa/verbal (maquinista + jefe de tren), como también mediante dispositivos de comunicación (jefe de tren + despachador RCSE y despachador RCSE + maquinista).
+El primer comunicado demostrable en relación con el incidente puede considerarse el comunicado de llamas procedentes de la parte trasera de la unidad de tracción realizado por el jefe de tren del tren R 766 al despachador RCSE Pilsen por teléfono móvil a las 22:29. La comunicación entre el jefe de tren, el despachador y el maquinista quedó documentada mediante el equipo de registro REDAT ubicado en RCSE SO Pilsen.
+### 3.5.3 Medidas adoptadas para proteger y asegurar el lugar del incidente
+Las medidas adoptadas para proteger y asegurar el lugar del incidente fueron -hasta la llegada de las unidades IRS y de la persona profesionalmente competente y autorizada del gestor de infraestructura y del transporte ferroviario- realizadas por el maquinista en cooperación con el jefe de tren y con los agentes de la policía checa que escoltaban el tren.
+# 3.6 Condiciones laborales, de salud y de explotación
+3.6.1 Jornada laboral de los empleados del gestor de infraestructura y del operador que participaron en el incidente
+ 
+el maquinista del tren R 766 inició su turno el 30. 07. 2008 a las 11:26; 
+ 
+el jefe de tren del tren R 766 inició su turno el 30. 07. 2008 a las 14:28; 
+ 
+el despachador de la estación ferroviaria de Pňovany inició su turno el 30. 07. 2008 a las 19:00; 
+ 
+el despachador RCSE inició su turno el 30. 07. 2008 a las 18:00. 
+Todos los empleados habían descansado antes de su turno de conformidad con el artículo 90 de la Ley núm. 262/2006 Coll., del Estatuto de los Trabajadores, en la redacción de la Ley núm. 362/2007 Coll.
+3.6.2 Condiciones de salud y situaciones personales que tuvieron incidencia en el incidente, incluido el estrés físico o mental
+Los empleados del gestor de infraestructura y del operador están sometidos a reconocimientos médicos periódicos de conformidad con las disposiciones del Reglamento núm. 101/1995 Coll. No se detectó ninguna condición de salud o situación personal que pudiera haber tenido incidencia en el origen del incidente, incluido el estrés físico o mental.
+3.6.3 Disposición del equipamiento de la estación de mando o del vehículo que tuvo incidencia en su mando y uso
+La disposición del equipamiento de la estación de mando o del vehículo no guardaba relación con el origen del incidente y, por este motivo, no fue evaluada.
+# 3.7 Incidentes anteriores de naturaleza similar
+A petición de la Oficina de Inspección de Seguridad Ferroviaria de fecha 30. 10. 2008, ref. n.º 4-233/2008/DI, el operador ferroviario SŽDC, s. o., a través del Servicio de Extinción de Incendios y Rescate, en el documento ref. n.º 2810/08-HZS/ de fecha 14. 11. 2008, presentó un resumen de incendios en unidades de tracción de la serie 242 durante un periodo de 5 años: De 2004 a 2008 (14. 11. 2008) se produjeron 29 incendios en unidades de tracción de la serie 242.
+2004 – 5 incendios (ninguno de ellos se inició en el tablero terminal TM)
+
 ## Página 20
+
 
 2005 – 5 incendios (ninguno de los cuales se originó en la placa de bornes del TM) 
 2006 – 8 incendios (de los cuales 1 se originó en el cableado de baja corriente de la placa de bornes del TM) 
 2007 – 5 incendios (ninguno de los cuales se originó en la placa de bornes del TM) 
-2008 – 6 incendios (ninguno de los cuales se originó en la placa de bornes del TM) 
-
+2008 – 6 incendios (ninguno de los cuales se originó en la placa de bornes del TM)
 
 ## Página 21
+
 
 # 4 ANÁLISIS Y CONCLUSIONES 
 # 4.1 Descripción final del incidente 
@@ -579,6 +615,7 @@ A petición de la Oficina de Inspección de Seguridad Ferroviaria, de fecha 20.1
 
 ## Página 22
 
+
 «La obligación de cumplir con las cifras de kilometraje para la realización del mantenimiento periódico de los vehículos, estipulada por el fabricante del vehículo, forma parte de la disposición de las Especificaciones Técnicas de Interoperabilidad (ETI) para vehículos convencionales, las cuales aún no han entrado en vigor. Hasta que esto ocurra, la necesidad de cumplir con las cifras de kilometraje estipuladas por el fabricante del vehículo para el mantenimiento periódico no se hace cumplir mediante legislación. Por esta razón, el Operador, el 01.10.2000, basándose en su experiencia con la operación y el mantenimiento de vehículos de esta serie bajo su competencia, estableció las cifras de kilometraje para su realización mediante el Anexo 1 del reglamento interno ČD V25.»
 
 Los procedimientos tecnológicos unificados del operador contenidos en el reglamento interno ČD V 25 en el Anexo 1 establecían el estándar de kilometraje para la inspección periódica EMIN en 17 000 – 26 000 km. La medida del director del Departamento de Vehículos Ferroviarios «Medida del director del Departamento de Vehículos Ferroviarios relativa al Anexo 1 del reglamento ČD V25», ref. nº 05-12/2-2845, de fecha 21.10.2005, aumentó las cifras de kilometraje estándar para el envío de los vehículos ferroviarios a una inspección de seguridad, tratamiento operativo e inspecciones periódicas. Para la serie de unidades de tracción 242, el estándar de kilometraje hasta una inspección periódica EMIN se aumentó a 38 000 – 42 000 km.
@@ -594,6 +631,7 @@ Las únicas excepciones a esto son los vehículos que aún están dentro del per
 Los procedimientos tecnológicos individuales del operador contenidos en el reglamento interno ČD V 25 en el Anexo 1 establecen el kilometraje estándar para la reparación periódica EMAIN en 1 100 000 km. Esto se realizó en la unidad de tracción 242.264-0 antes del incidente en diciembre de 1987 después de recorrer 858 710 km. La unidad de tracción, desde el momento de la última reparación periódica mayor realizada en diciembre de 1987 hasta el incidente, recorrió 1 836 364 km. En 2001, el DVF Pilsen, conforme al Artículo 22 del reglamento interno ČD V 25, solicitó que la unidad de tracción 242.264-0 se enviara para la reparación periódica EMAIN para 2002 (el 31.07.2001 la unidad de tracción tenía un kilometraje de 1 245 360 km). Esta solicitud del operador no fue aceptada por el Departamento de Vehículos Ferroviarios.
 
 ## Página 23
+
 
 En 2004, RVD Pilsen, de conformidad con el artículo 22 del reglamento interno ČD V 25, reiteró su solicitud de que la unidad de tracción 242.264-0 fuera enviada a reparación periódica EMAIN para 2005 (el 31.08.2004, la unidad de tracción tenía un kilometraje de 1 452 377 km). Esta solicitud del operador no fue nuevamente aceptada por el Departamento de Vehículos Ferroviarios.
 
@@ -615,6 +653,7 @@ A petición de la Oficina de Inspección de Seguridad Ferroviaria, de fecha 20.1
 
 ## Página 24
 
+
 estado aprobado n.º 7024, consistente en la retirada de la placa de bornes intermedia del motor de tracción, se realiza siempre durante la reparación periódica en el operador externo o en la filial DPOV, a. s. La locomotora 242.264-0 realizó su última reparación periódica ECAL entre el 6. 9. 1999 y el 5. 11. 1999. Dado que dicha reparación se llevó a cabo en RVD Pilsen, no se realizó el cambio del estado aprobado n.º 7024 en el vehículo. En la actualidad estamos verificando la documentación del cambio realizado y el estado de los vehículos con el fin de adoptar las medidas subsiguientes que conduzcan a una aceleración máxima de la implementación de la reconstrucción en el resto de los vehículos.»
 
 El reglamento de mantenimiento emitido por el fabricante Škoda Pilsen, en el Subgrupo 8.5 Cableado y Accesorios, 8.5.2. Cableado de los circuitos VN y MH, establece:
@@ -630,6 +669,7 @@ El operador realiza, en el marco de una inspección periódica EMIN, el apriete 
 Un control general de la soldadura y del anclaje de las puntas de cable solo se realiza durante las reparaciones periódicas ECAL o superiores. RVD Pilsen solicitó que la unidad de tracción se enviara para una reparación periódica principal en 2001 y nuevamente en 2004. Sin embargo, esta solicitud no fue aceptada por el Departamento de Vehículos Ferroviarios. La última reparación ECAL antes del incidente se realizó entre el 06. 09. y el 05. 11. 1999, y la última reparación EMAIN en diciembre de 1987. Desde la última reparación ECAL hasta el origen del incidente, la unidad de tracción en cuestión recorrió 758 057 km. Esto significa que, desde la última reparación de calibración periódica, el operador hizo funcionar esta unidad de tracción durante 9 años sin una inspección general de la soldadura y del anclaje de las puntas de cable, a pesar de que ya existía una orden relativa a las unidades de tracción de esta serie para la reconstrucción gradual/retirada de la placa de bornes intermedia mencionada tan pronto como en el año calendario 1989. A pesar de que el operador, conforme a las disposiciones del apartado 1, letra c) del artículo 35 de la Ley n.º 266/1994 Coll.,
 
 ## Página 25
+
 
 se emitió, en la fecha de inicio de su actividad de transporte ferroviario, un reglamento interno sobre el rendimiento organizativo del mantenimiento de los vehículos ferroviarios y, además, ante la autoridad administrativa ferroviaria correspondiente – la Autoridad Nacional de Seguridad – demostró en su solicitud de certificación de seguridad del operador (apartado 34h, párrafo 3, letra d) de la Ley n.º 266/1994 Coll.), que había emitido reglamentos internos para la explotación del transporte ferroviario, para la explotación de los vehículos ferroviarios y para la explotación de determinados equipos técnicos, no cumplió con sus disposiciones al no respetar el tenor del artículo 22 del reglamento interno ČD V 25, es decir, que «al tomar una decisión sobre las solicitudes de envío de vehículos ferroviarios a reparación periódica en el período siguiente, siempre es necesario tener en cuenta el estado técnico real de los vehículos ferroviarios». El operador no aceptó la solicitud de la RVD Pilsen ni verificó de ningún otro método objetivo el estado técnico real de la unidad tracción en cuestión.
 
@@ -647,15 +687,15 @@ La causa subyacente del incidente relacionada con las cualificaciones, los proce
 4.3.3 Causas derivadas del marco normativo y del uso del sistema de seguridad
 La causa derivada del marco normativo es su diseño inadecuado; en el uso del sistema de garantía de seguridad y, a continuación, el incumplimiento de las condiciones establecidas por la Ley n.º 266/1994 Coll., sobre Ferrocarriles, tal y como fue modificada, para la explotación de vehículos ferroviarios sobre la base de la cual se emitió la certificación de seguridad del operador.
 
-
 ## Página 26
+
 
 # 4.4 Hallazgos adicionales
 4.4.1 Deficiencias y omisiones establecidas durante la investigación de las causas y circunstancias del incidente, pero que no son significativas para las conclusiones sobre las causas
 No se establecieron deficiencias ni omisiones que no fueran significativas para las conclusiones sobre las causas por parte de la Inspección Ferroviaria durante la investigación de las causas y circunstancias del incidente.
 
-
 ## Página 27
+
 
 # 5 MEDIDAS ADOPTADAS
 # 5.1 Relación de las medidas que se han adoptado como consecuencia del incidente
@@ -670,6 +710,7 @@ Se han adoptado medidas relacionadas con el incidente en cuestión por parte del
 La RVD Pilsen será responsable del cumplimiento de todas las medidas adoptadas.
 
 ## Página 28
+
 
 # 6 RECOMENDACIONES DE SEGURIDAD
 La Oficina de Inspección de Seguridad Ferroviaria, como autoridad administrativa materialmente competente conforme a lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su redacción modificada, sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del incidente, recomienda:
@@ -687,8 +728,8 @@ Inspector Jefe de la Inspección Territorial de Pilsen
 Ing. Petr Mencl
 Director de la Inspección Territorial de Pilsen
 
-
 ## Página 29
+
 
 # 7 ANEXOS
 Foto 1: Vista de la unidad de tracción después del incendio

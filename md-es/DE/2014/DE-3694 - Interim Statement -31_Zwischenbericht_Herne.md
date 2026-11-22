@@ -10,12 +10,13 @@ chars: 3568
 ratio_longitud: 1.00
 tokens_in: 1848
 tokens_out: 978
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/3 (33%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -33,6 +34,7 @@ Suceso peligroso en la explotación ferroviaria
 
 ## Página 2
 
+
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
@@ -40,28 +42,30 @@ Heinemannstraße 6
 
 ## Página 3
 
-## Índice
-| I . | Índice de modificaciones I ............................................................................................................... |
+## Índice 
+| I . | Lista de modificaciones I ............................................................................................................... |
 | 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Descarrilamiento el 05.06.2014 en el Bf Herne 2 . . ..................................................................... |
-|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
-## I.
-## Índice de modificaciones
-| Modificación | Estado |
-| Versión 2.0 en virtud del plazo anual transcurrido. | 28 05 2021 . . |
-| Versión 3.0 en virtud del plazo anual transcurrido. | 19 05 2022 . . |
+| 2 | Descarrilamiento de tren el 05062014 en la estación de Herne 2 . . ............................................. |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
+## I. 
+## Lista de modificaciones 
+| Modificación | Versión |
+| Versión2 0 en virtud del plazo anual transcurrido . | 28 05 2021 . . |
+| Versión3 0 en virtud del plazo anual transcurrido . | 19 05 2022 . . |
 I
 
 ## Página 4
+
 
 ## 1 Notas preliminares
 La elaboración del informe intermedio se realiza sobre la base del § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, en todas las investigaciones formalmente abiertas y en curso por una oficina de investigación, se debe emitir al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado de investigación actual, puede estar sujeta a cambios en cualquier momento y no reclama completitud.
 Página 1 de 2
 
 ## Página 5
+
 
 ## 2 Descarrilamiento el 05.06.2014 en el Bf Herne
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias. A continuación, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se enumeran en el último apartado.

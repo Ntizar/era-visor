@@ -10,13 +10,13 @@ chars: 200144
 ratio_longitud: 1.08
 tokens_in: 79672
 tokens_out: 58852
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 65: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 44: cifras largas: 2/11", "página 64: cifras largas: 1/7", "página 67: cifras largas: 1/8", "página 76: cifras cortas: 1/11", "página 83: cifras cortas: 7/35", "página 100: cifras cortas: 2/15"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Expediente: 
 60uu2016-02/005-3323 
@@ -30,17 +30,17 @@ Evento peligroso en la explotación ferroviaria
 | Número de línea: | 5622 |
 | Punto kilométrico: | 30290 , |
 
-
 ## Página 2
+
 
 ### Publicado por: 
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Heinemannstraße 6 
 53175 Bonn 
-Página 2 de 103 
-
+Página 2 de 103
 
 ## Página 3
+
 
 # Índice: 
 ### Página 
@@ -94,10 +94,10 @@ Seguridad de la línea .........................................................
 Sistema de comunicación de números de tren ......................................................................... 34 
 4.3.5 
 Indicación en la mesa de enclavamientos de la ocupación de vías ................................ 35 
-Página 3 de 103 
-
+Página 3 de 103
 
 ## Página 4
+
 
 4.3.6 
 Pasos a nivel ................................................................................................. 35 
@@ -157,6 +157,7 @@ Página 4 de 103
 
 ## Página 5
 
+
 4.7.4 
 Ocupación del Fdl Bad Aibling .......................................................................... 69 
 4.7.5 
@@ -201,10 +202,10 @@ Aplicación de la señal de sustitución Zs 1 ..................................
 Medidas adoptadas hasta la fecha ...................................................................... 101 
 ## 8 
 Recomendaciones de seguridad ............................................................................. 102 
-Página 5 de 103 
-
+Página 5 de 103
 
 ## Página 6
+
 
 # Índice de figuras: 
 Fig. 1: Punto de colisión cara exterior de la curva ............................................................................15 
@@ -232,10 +233,10 @@ Fig. 22: Mesa de mando centro derecha, línea Heufeld – Bad Aibling ..........
 Fig. 23: Mesa de mando arriba a la derecha, línea Kolbermoor – Bad Aibling ......................................92 
 Fig. 24: Mesa de mando centro izquierda, línea Kolbermoor – Bad Aibling .........................................92 
 Fig. 25: Mesa de mando, vista general ........................................................................................96 
-Página 6 de 103 
-
+Página 6 de 103
 
 ## Página 7
+
 
 # Anexos: 
 1 
@@ -283,16 +284,17 @@ Resumen del tema de la comprobación de secciones de bloque
 22 
 Las indicaciones de ocupación no corresponden a las secciones de intervalo, 
 caída de señal Asig en la estación Kolbermoor por una circulación de tren (no permitida) en sentido Bad Aibling 
-Página 7 de 103 
-
+Página 7 de 103
 
 ## Página 8
+
 
 | 23 | Ejemplo de dependencia de autorización |
 | 24 | Medidas adoptadas |
 Página 8 de 103
 
 ## Página 9
+
 
 # Índice de abreviaturas:
 AEG
@@ -350,8 +352,8 @@ EBA
 Oficina Federal de Ferrocarriles
 Página 9 de 103
 
-
 ## Página 10
+
 
 EBL
 Jefe de explotación ferroviaria
@@ -410,8 +412,8 @@ GAF
 Vehículo de trabajo en vía
 Página 10 de 103
 
-
 ## Página 11
+
 
 GeFo
 Teléfono GSM-R fijo
@@ -469,8 +471,8 @@ PZB
 Influencia en la marcha del tren por puntos
 Página 11 de 103
 
-
 ## Página 12
+
 
 RB
 Área regional
@@ -524,8 +526,8 @@ VDE
 Proyectos de transporte de la Unidad Alemana
 Página 12 de 103
 
-
 ## Página 13
+
 
 VDV
 Asociación de Empresas de Transporte Alemanas
@@ -569,6 +571,7 @@ Página 13 de 103
 
 ## Página 14
 
+
 # 1 
 # Resumen 
 ## 1.1 
@@ -584,17 +587,17 @@ La línea permaneció cerrada desde el 09.02.2016, 06:58 h hasta el 19.02.2016, 
 ### Causas 
 La colisión de los dos trenes regionales se debe a varias actuaciones operativas incorrectas del Fdl Bad Aibling en la gestión de las circulaciones con señal de sustitución (Zs1). La materialización del suceso se vio favorecida por la concurrencia de comportamientos humanos, de una confirmación incompleta de la tecnología de enclavamiento, de normas de difícil aplicación y de disposiciones locales inadecuadas. 
 Asimismo, la manipulación del dispositivo de mando del sistema de alarma de emergencia por parte del Fdl influyó en la colisión de los trenes y en sus consecuencias. 
-Página 14 de 103 
-
+Página 14 de 103
 
 ## Página 15
 
+
 Fig. 1: Punto de colisión cara exterior de la curva 
 Fig. 2: Punto de colisión cara interior de la curva 
-Página 15 de 103 
-
+Página 15 de 103
 
 ## Página 16
+
 
 # 2 
 # Observaciones previas 
@@ -606,10 +609,10 @@ Con la Ley de reorganización de la investigación de accidentes ferroviarios de
 Las tareas de investigación de determinados sucesos peligrosos en la explotación ferroviaria pasaron sin solución de continuidad de la EUB a la BEU. 
 Dado que el suceso objeto de este informe se produjo antes de la fecha de creación de la BEU, el 14.07.2017, las tareas, como la investigación sobre el terreno, fueron realizadas por la EUB. Otras labores, como la elaboración del presente informe de investigación, se llevaron a cabo con posterioridad a dicha fecha de referencia y, por ello, fueron asumidas por la BEU. Por este motivo, en el presente informe se utilizan tanto la denominación EUB como la BEU. 
 A este respecto, más información está disponible en Internet en >> www.beu.bund.de <<. 
-Página 16 de 103 
-
+Página 16 de 103
 
 ## Página 17
+
 
 ## 2.2 
 ### Objeto de la investigación de accidentes ferroviarios 
@@ -633,10 +636,10 @@ Stadler Pankow GmbH
 Universidad Técnica (TU) de Braunschweig 
  
 Deuta-Werke GmbH 
-Página 17 de 103 
-
+Página 17 de 103
 
 ## Página 18
+
 
 # 3 
 # Suceso 
@@ -653,6 +656,7 @@ En el siguiente esquema del sistema se representan todas las ubicaciones de señ
 Página 18 de 103
 
 ## Página 19
+
 
 Fig. 4: Esquema del sistema Bad Aibling - Kolbermoor
 El tren DPN 79505, formado por un ET 325, se aproximaba desde la dirección de Múnich /
@@ -691,8 +695,8 @@ vía afectado permaneció cerrado desde el 09.02.2016, 06:58 h hasta el 19.02.20
 por motivos de investigación del accidente, trabajos de despeje y de reparación.
 Página 19 de 103
 
-
 ## Página 20
+
 
 ## 3.3
 ### Condiciones meteorológicas
@@ -727,8 +731,8 @@ No se detectaron irregularidades ni retrasos en relación con el inicio de las m
 rescate.
 Página 20 de 103
 
-
 ## Página 21
+
 
 ### 4.3 Investigación de la infraestructura
 ### 4.3.1 Descripción general
@@ -766,8 +770,8 @@ Con la colisión de ambos trenes de material móvil se dañó la catenaria y se 
 cortocircuito. Los registros de la Central Eléctrica (Zes) de Múnich de la
 Página 21 de 103
 
-
 ## Página 22
+
 
 DB Energie registran en tiempo real (hora de radio sincronizada). A partir del registro de
 averías puede acotarse temporalmente el momento de la colisión.
@@ -785,8 +789,8 @@ Debido a la complejidad de un aparato de enclavamiento de diagrama de vías, en 
 solo se consideran las funciones del aparato de enclavamiento relacionadas con el suceso.
 Página 22 de 103
 
-
 ## Página 23
+
 
 Las descripciones se realizan en el entendimiento terminológico de la señalización. Sin
 embargo, la terminología no debe entenderse necesariamente como coincidente entre las
@@ -813,6 +817,7 @@ Página 23 de 103
 
 ## Página 24
 
+
 La planificación de la técnica de mando y seguridad se realizó conforme a la normativa vigente en aquel momento, la instrucción DS 818 «Señalizar instalaciones de señalización y planificarlas - Colección de disposiciones de técnica de señalización (SSV)».
 La base de planificación para este tipo de aparato de mando son los circuitos básicos aprobados. Los circuitos básicos no pueden tener en cuenta todos los posibles casos de disposición y aplicación de los distintos elementos de vía. En cada caso concreto, el planificador debe realizar adaptaciones y circuitos especiales relacionados con el lugar y la situación. Estos deben corresponder a ejemplos de circuitos aprobados o haber sido aprobados en el caso concreto.
 Para la instalación del aparato de mando de Bad Aibling existen unos 700 planos existentes. Todos los planos existentes relacionados con el accidente han sido liberados por el inspector de recepción y aprobados por la Dirección Federal de Ferrocarriles de Múnich.
@@ -830,10 +835,10 @@ La puesta en servicio del punto de parada (Hp) Bad Aibling Kurpark (entre la est
 ## 4.4.2 
 ### Mesa de mando  
 La mesa de mando en el aparato de mando de Bad Aibling está compuesta por campos de mesa. Muestra una imagen realista de las instalaciones de vía y de señalización. Los campos de mesa contienen pulsadores, indicadores y contadores. En cuanto a los pulsadores, se distingue entre pulsadores interiores, situados en el esquema de vía junto al elemento de vía correspondiente, y pulsadores exteriores, agrupados en bloques de pulsadores de grupo de colores en el borde de la mesa de mando. La 
-Página 24 de 103 
-
+Página 24 de 103
 
 ## Página 25
+
 
 Los indicadores muestran, entre otras cosas, las posiciones de las agujas, las indicaciones de parada o de vía libre de las señales, el estado libre u ocupado de las vías y agujas y el estado de funcionamiento del suministro eléctrico. Las señales de los indicadores se distinguen en «luz fija», «luz intermitente» o indicación «apagado». El estado libre u ocupado de las vías y agujas es supervisado por instalaciones automáticas de liberación de vía. Los tramos de liberación de vía ocupados se indican mediante los indicadores de vía de los tramos de vía que brillan en rojo, así como los indicadores de punta y de posición de las agujas. Los tramos de liberación de vía libres dentro de una estación en el itinerario de una ruta de tren o de maniobras se indican, tras la pulsación de la tecla de origen y la tecla de destino, mediante los indicadores de los tramos de vía y de las agujas que brillan en amarillo.
 A continuación, para una mejor comprensión, se presentan algunas indicaciones de la mesa de mando e imágenes de señal relevantes para el suceso.
@@ -846,10 +851,10 @@ Señal P202 en la estación de Kolbermoor
 Señal de salida 
 Posición de vía libre 
 Señal P202 en la estación de Kolbermoor 
-Página 25 de 103 
-
+Página 25 de 103
 
 ## Página 26
+
 
 Señal de bloque 
 central 313  
@@ -869,10 +874,10 @@ Para una circulación de trenes, el Fdl debe establecer un itinerario. Esto se r
 ## 4.4.3 
 ### Protección de la línea 
 En todo el ámbito de mando del aparato de mando de Bad Aibling existe bloque automático de línea. Los distintos tramos de línea entre las estaciones están ejecutados en diferentes formas técnicas de construcción.
-Página 26 de 103 
-
+Página 26 de 103
 
 ## Página 27
+
 
 ## 4.4.3.1 
 ### Descripción general del bloque automático de línea 
@@ -899,6 +904,7 @@ Página 27 de 103
 
 ## Página 28
 
+
 (…)“ 
 De ello se deduce que un tren solo puede entrar en un tramo cuando está libre de vehículos y cuando la circulación en sentido contrario de un tren queda excluida mediante señales de protección. 
 El grupo de tramos de bloqueo automático (Selbstblockstreckengruppe) es parte integrante del bloqueo automático de tramo. Este es la interfaz de comunicación (con medios de transmisión seguros adicionales en su caso) entre los puestos de bloqueo adyacentes, para intercambiar y transmitir la información relevante para la seguridad necesaria (condiciones de bloqueo). En el presente caso, los puestos de bloqueo son los puestos de anuncio de trenes adyacentes Bf Bruckmühl, Bf Heufeld, Bf Bad Aibling, Bf Kolbermoor y Rosenheim. Entre Bad Aibling y Kolbermoor existe una subdivisión mediante una señal central de bloqueo (Zbk) en cada sentido de circulación. Mediante el grupo de tramos de bloqueo automático se garantiza para el tramo de bloqueo la llamada exclusión de circulación en sentido contrario, que se materializa técnicamente mediante un relé de autorización. Este está ejecutado como relé de apoyo, que incluso sin corriente no pierde la información «sentido de la autorización de circulación». En el bloqueo automático de tramo (sin formas constructivas especiales como las descritas en los apartados 4.4.3.3 a 4.4.3.5), la autorización solo puede concederse mediante la activación de la tecla de concesión de autorización y la tecla de grupo de concesión de autorización. Este dispositivo se denomina dependencia de autorización (véase en el Anexo 3, en Ril 482.9021 § 6, para bloqueo central (Zb), lo cual es igualmente aplicable al bloqueo automático). El grupo de tramos de bloqueo automático proporciona a través del anunciador de autorización la indicación visual de la dirección desde la que se permite la entrada de trenes en el tramo. La indicación de autorización incluye indirectamente la información de que las señales de protección para los trenes del sentido contrario se encuentran en posición de parada. Los anunciadores están ejecutados de forma complementaria y se consideran una indicación técnicamente segura. Dirigido por el grupo de tramos de bloqueo automático, el anunciador de cierre de salida, que brilla en azul, indica al Fdl que no pueden seguir circulando trenes. Con la tecnología SpDrS 60 en combinación con bloqueo automático de tramo, el tramo se comprueba para la comprobación de libre en el proceso de mando, sin embargo, la imagen de vía del tramo de tramo (tramo de bloqueo) no se ilumina en amarillo en la mesa de mando. 
@@ -906,10 +912,10 @@ Zb y bloqueo automático son las formas constructivas del bloqueo automático de
 ## 4.4.3.2 
 ### Descripción del bloqueo automático 
 En los tramos de tramo desde Bf Bruckmühl hasta Bf Heufeld, así como desde Bf Kolbermoor hasta Bf Rosenheim, se aplica un bloqueo automático de tramo en la forma constructiva de bloqueo automático (Selbstblock). En estos tramos de bloqueo, los puestos de bloqueo adyacentes están ocupados por un Fdl. 
-Página 28 de 103 
-
+Página 28 de 103
 
 ## Página 29
+
 
 ## 4.4.3.3 
 ### Descripción de la seguridad de tramo con tecnología de itinerarios 
@@ -926,6 +932,7 @@ En km 28,735 está instalado el Zbk 313, así como en el sentido contrario en km
 Página 29 de 103
 
 ## Página 30
+
 
 toda la información de las condiciones de bloqueo. La exclusión de circulación en sentido contrario se garantiza mediante la instalación de un grupo de dirección. El relé de dirección se ejecuta como relé de apoyo y conserva así la información «establecimiento o bloqueo de dirección» también en estado sin corriente. La particularidad del grupo de dirección es que la autorización de la dirección de circulación no se realiza manualmente por parte del operador, sino que el impulso se produce a través del establecimiento de una vía de tren en el tramo de bloqueo. Solo cuando la vía de tren establecida y que conduce al tramo haya sido liberada por el tren en circulación y el tramo vuelva a estar libre de vehículos y los elementos de vía de la técnica de señalización estén en posición base, puede establecerse una vía de tren de circulación en el sentido contrario.
 Dado que en la técnica instalada entre Bad Aibling y Kolbermoor no existe un grupo de tramos de bloqueo automático, faltan los indicadores de autorización y los indicadores de cierre de salida como avisos visuales, así como el bloqueo previo y posterior como avisos acústicos. Tampoco existe el cambio manual de autorización mediante una operación activa del Fdl para liberar una dirección de circulación.
@@ -950,8 +957,8 @@ Cuando se ha establecido una vía de tren hacia el tramo, los indicadores de sec
 La Zbk 313 (dirección de circulación Bad Aibling – Kolbermoor) y 314 (sentido contrario) sirven para regular el intervalo de tren y para la protección del paso a nivel en km 28,795. Debido a esto, se requiere una sección de conteo de ejes adicional (Az 313) entre las Zbk. Este caso de
 Página 30 de 103
 
-
 ## Página 31
+
 
 disposición (con sección intermedia desplazada) se tiene en cuenta en la configuración base del Zb 65, es decir, con la dependencia de autorización existente.
 La conexión de las distintas secciones de conteo de ejes se realiza de forma separada en la iluminación de vías en la mesa de mando. Debido a esto, la sección de intervalo de tren situada tras las Zbk se divide en dos secciones de vía y, en consecuencia, se ilumina de forma separada en la mesa de mando. Aunque toda la sección de intervalo de tren (aquí Zbk 313 – Kolbermoor o Zbk 314 – Bad Aibling) esté ocupada, al operador solo se le indican como ocupadas las secciones de conteo de ejes efectivamente ocupadas, es decir, iluminadas en rojo en la mesa de mando. Para el operador se crea así una laguna visual: una sección de intervalo de tren operativamente completamente ocupada se muestra solo como parcialmente ocupada.
@@ -959,14 +966,14 @@ Técnicamente sería posible conmutar a través de los relés de dirección la i
 Para mayor claridad, véase la representación en los anexos 1 y 22, el capítulo 4.4.8 que sigue, así como la figura siguiente.
 Página 31 de 103
 
-
 ## Página 32
+
 
 Fig. 8: Esquema del sistema de la línea Bad Aibling – Kolbermoor
 Página 32 de 103
 
-
 ## Página 33
+
 
 ## 4.4.3.5 
 ### Protección de tramo de bloqueo con medios de conmutación de la tecnología de vías de tren
@@ -983,6 +990,7 @@ Página 33 de 103
 
 ## Página 34
 
+
 La aplicación del Zb 65 sin grupo de tramos de bloqueo automático también está regulada por la mencionada disposición HVB del 29.08.1984.
 Asimismo, en la Ril 818 (a partir de la página 10133), dos disposiciones del BZA München, del 29.08.1984 – 61.6101 Ssd 10.03.4 – y del 17.04.1991 – 60.6005 Ssr, abordan el tema de la aplicación de la comprobación de liberación mediante la evaluación de las indicaciones de aviso en la seguridad de tramos de bloqueo con medios de conmutación de la técnica de itinerarios (y, por tanto, también en el Zb 65 sin grupo de tramos de bloqueo automático). Una afirmación esencial con referencia al presente accidente establece: «Otra condición es que la seguridad de tramos de bloqueo con técnica de itinerarios solo puede existir en un tramo de bloqueo, es decir, sin división en señales en el tramo».
 La seguridad de tramo entre Heufeld y Bad Aibling se realiza con medios de conmutación de la técnica de itinerarios, la seguridad de tramo entre Bad Aibling y Kolbermoor mediante Zb 65 sin grupo de tramos de bloqueo automático; el Zb 65 sin grupo de tramos de bloqueo automático es, a diferencia del Zb «clásico», asignable al bloqueo con técnica de itinerarios (véase también el Anexo 3 de la Ril 482.9001A07).
@@ -994,8 +1002,8 @@ A partir de la estación de Kolbermoor debe llevarse un libro de avisos de trene
 Fig. 9: Imagen del monitor de la instalación ZN tras la colisión de trenes
 Página 34 de 103
 
-
 ## Página 35
+
 
 En la imagen superior se puede observar la imagen del monitor de la instalación de aviso de número de tren del puesto de mando de Bad Aibling en el momento del suceso. El número del tren 79506 aparece en el campo numérico del andén 2 de la estación de Kolbermoor; aquí termina el ámbito de la instalación de aviso de número de tren. No existe ninguna conmutación automática de número de tren: el número no se borra automáticamente al abandonar el tramo y debe eliminarse manualmente del campo.
 La condición de conmutación para la transmisión del número de tren desde el andén de tramo Rosenheim – Kolbermoor al andén de estación es la caída de señal de la señal de entrada F 200.
@@ -1016,8 +1024,8 @@ En el ámbito de actuación del puesto de mando de Bad Aibling se encuentran sie
 El BÜ XVI se sitúa en km 32,396 entre Bad Aibling y Kolbermoor, pero aún dentro de la estación de Kolbermoor, y fue utilizado para la reconstrucción del suceso. Como sistema de seguridad de paso a nivel está instalado un equipo SIMIS® LC LzH/F-Hp. Las siglas describen que, para la seguridad de los usuarios de la vía pública, existen señales luminosas (Lz), barreras
 Página 35 de 103
 
-
 ## Página 36
+
 
 semiautomáticas (H) y barreras peatonales (F). La instalación es supervisada por señales principales (Hp), es decir, la instalación de BÜ se encuentra en dependencia técnica respecto de las señales principales. Además, la instalación está equipada con un sistema de diagnóstico que almacena digitalmente los avisos de servicio, las averías y los estados de error (memoria de historial) y que puede ser leída.
 La seguridad del BÜ se inicia con la establecimiento del itinerario y se supervisa en el itinerario. La liberación de la señal principal solo se produce cuando se ha llevado a cabo la seguridad del paso a nivel. La información de corte se genera mediante contadores de ejes.
@@ -1027,8 +1035,8 @@ La activación provocada por el tren sin paso a través se produce, tras el esta
 La memoria de historial del paso a nivel XVI fue leída tras el suceso y arrojó los siguientes datos para la circulación del tren 79506:
 Página 36 de 103
 
-
 ## Página 37
+
 
 Fig. 11: Extracto de la memoria de diagnóstico del BÜ XVI, circulación del tren 79506
 La hora interna del sistema no corresponde a la hora real. El cálculo de la hora correcta se describe con mayor detalle en el Anexo 15 Reconstrucción/Representación real (desviación: t= -01:36:24).
@@ -1042,6 +1050,7 @@ Página 37 de 103
 
 ## Página 38
 
+
 ## 4.4.8 
 ### Comprobación de la lógica de itinerarios
 En el marco de la comprobación de la lógica de itinerarios se realizó la verificación del funcionamiento correcto de la señalización, así como de las funciones básicas conformes a la normativa de los estados de iluminación y de aviso. Asimismo, debían demostrarse las funciones de protección y los estados de iluminación conformes a la normativa. El foco se puso en la exclusión de tráfico en sentido contrario de la línea Bad Aibling – Kolbermoor y en la dirección opuesta. Se demostró la eficacia de la exclusión de tráfico en sentido contrario.
@@ -1053,8 +1062,8 @@ La imagen de aviso de las indicaciones de la mesa de conmutación en una comprob
 En el año 1984, la HVB publicó la disposición ya mencionada (Disposición HVB B4.B4012 Sav 322/1 del 28.09.1984) «Protección de línea de bloque con medios de conmutación de la tecnología de itinerarios en áreas de mando a distancia (incluido Zb 65 sin grupo de línea de bloque automático)
 Página 38 de 103
 
-
 ## Página 39
+
 
 Principios provisionales para las aplicaciones
 Directrices para los esquemas»
@@ -1073,8 +1082,8 @@ Extracto complementario de los 1. Principios provisionales para la aplicación d
 «Los siguientes principios regulan esta protección de línea de bloque para SpDrS 60 y Zb 65 sin grupo de línea de bloque automático…»
 Página 39 de 103
 
-
 ## Página 40
+
 
 Otros extractos proceden de las 2. Directrices para la conmutación de la protección de línea de bloque con medios de conmutación de la tecnología de itinerarios entre una estación manejada localmente y una estación manejada a distancia dentro del área de mando de 6,5 km:
 Tipo de construcción Siemens: SpDrS 60 y Zb 65 sin grupo de línea de bloque automático
@@ -1092,6 +1101,7 @@ Página 40 de 103
 
 ## Página 41
 
+
 Fig. 12: Interrupciones del puesto de mando SpDrS 60 por año, datos a nivel federal
 Fuente: DB Netz AG; interrupciones del puesto de mando de Bad Aibling elaboradas a partir del libro de interrupciones y de trabajo y evaluación realizada por la EUB
 Sin embargo, una comparación puede servir como orientación aproximada. La frecuencia de interrupciones en la comparación a nivel federal con otros puestos de mando del mismo tipo de puesto de mando SpDrS 60 no arrojó hallazgos.
@@ -1100,8 +1110,8 @@ Las inspecciones y trabajos de mantenimiento realizados en la técnica de mando 
 En este sentido, no se detectaron defectos que favorecieran el suceso.
 Página 41 de 103
 
-
 ## Página 42
+
 
 Fig. 13: Representación ejemplificativa del esquema de inspección de la técnica de mando y seguridad (LST)
 Fuente: DB Netz AG
@@ -1112,8 +1122,8 @@ Para poder operar una señal de sustitución en el área de mando de Bad Aibling
 En la señal de sustitución de la señal de salida N1 debe estar bloqueada la cadena de agujas del puesto de mando.
 Página 42 de 103
 
-
 ## Página 43
+
 
  
 En la señal de sustitución del Zbk 313 debe estar ocupado el tramo de vía correspondiente (contador de ejes 311).
@@ -1132,8 +1142,8 @@ La evaluación del impreso «Certificados de los contadores» del puesto de mand
 | 7 |  |  | Se examinó la evaluación de los libros de trabajo e interrupciones (anotaciones del 17.03.2015 hasta el día del suceso y, a continuación, hasta el 05.09.2016) en busca de anomalías |
 Página 43 de 103
 
-
 ## Página 44
+
 
 |  |  | relativas a las interrupciones e irregularidades del puesto de mando. No se detectaron anomalías que indicaran una disfunción del puesto de mando. |
 | 8 |  | La evaluación del impreso «Certificados de los contadores» (12.11.2015 al 09.02.2016) del puesto de mando de Bad Aibling arrojó que, en el periodo indicado, la señal de sustitución Zs1 se operó en el puesto de mando un total de doce veces, de las cuales dos veces el 09.02.2016 para el tren 79505. Las operaciones de Zs1 eran comprensibles. |
@@ -1149,6 +1159,7 @@ Página 44 de 103
 
 ## Página 45
 
+
 (designación interna: Notruf-Strecke) con las llamadas ferroviarias de emergencia (grupos de tren: emergency call y grupos de maniobras: emergency call) con los códigos de función 299 y 599 (designaciones internas Zugfunk- y Rangierfunknotruf). Esto se justificó con referencia a la ampliación del artículo 1, apartado 1 de la Directiva 2004/50/CE de 29.04.2004. Asimismo, se expone que la sustitución de las instalaciones fijas de telefonía de línea por GSM-R no debe dar lugar a una restricción de la comunicación y que en los sistemas antiguos estaba garantizado el tratamiento prioritario de las llamadas de emergencia mediante la llamada de peligro o de accidente. En la solicitud de DB Netz AG se señala que, ante una llamada de emergencia existente, se notifica al Fdl una llamada adicional con prioridad 0, la cual puede ser aceptada por este. El círculo de destinatarios no incluye a los participantes del Zugfunk y del Rangierfunk. Finalmente, se expuso que esto no contradecía las disposiciones de la EIRENE SRS vigente en ese momento, de 17.05.2006, versión 15, ya que para la llamada de grupo 569 no se había establecido previamente de forma vinculante ninguna prioridad. Tampoco se oponían a ello requisitos de interoperabilidad ni de acceso a la red sin discriminación. Con la resolución Gz.224.49 Stf 41 (107/06) de 16.06.2006 del EBA, se atendió a la solicitud de DB Netz AG.
 
 A una prórroga nacional de la autorización hasta el 31.12.2019 no se accedió ya, en particular debido a las prescripciones del Derecho europeo aplicables —sustitución de la autorización de sistema y de tipo por la autorización de puesta en servicio (IBG) de subsistemas estructurales conforme al § 6 TEIV— con la resolución Gz. 2232-22stf/027-2207#006 de 16.11.2015, y la autorización se concedió indirectamente a través de la IBG, Gz 632.12-562ign/055-2161#014-002 de 08.12.2015 (condición administrativa nº 2.16).
@@ -1161,15 +1172,15 @@ Según los datos de la La vigente en el momento del suceso para el área Sur, de
 
 Página 45 de 103
 
-
 ## Página 46
+
 
 Fig. 14: Extracto de la La Sur 5.ª edición 2016 para el sentido de circulación Holzkirchen-Rosenheim
 Fuente: DB Netz AG, marcado de color EUB
 Página 46 de 103
 
-
 ## Página 47
+
 
 Fig. 15: Extracto de la La Sur 5.ª edición 2016 para el sentido de circulación Rosenheim-Holzkirchen
 Fuente: DB Netz AG, marcado de color EUB
@@ -1179,8 +1190,8 @@ Para verificar la disponibilidad de la red se programó y realizó una medición
 
 Página 47 de 103
 
-
 ## Página 48
+
 
 ### 4.5.3 Llamada de emergencia
 
@@ -1206,8 +1217,8 @@ Como se desprende de las conversaciones grabadas y custodiadas del Fdl, este hab
 
 Página 48 de 103
 
-
 ## Página 49
+
 
 emergencia. Tras no obtener respuesta por parte de los Tf de los dos trenes, repitió la llamada de emergencia.
 
@@ -1215,13 +1226,14 @@ Como acreditan las grabaciones de las conversaciones y también se desprende del
 
 Página 49 de 103
 
-
 ## Página 50
+
 
 Fig. 17: Registros GSM-R
 Página 50 de 103
 
 ## Página 51
+
 
 ### 4.5.4 Hallazgos sobre las instalaciones de telecomunicaciones
 Hallazgos sobre la autorización
@@ -1250,8 +1262,8 @@ Los dos trenes DPN 79505 Múnich – Holzkirchen – Rosenheim y DPN 79506 Rosen
 El DPN 79505 llega a la estación de Bad Aibling a las 06:37 y continúa a las 06:38. Tras la parada comercial a las 06:40 (hora de llegada y salida) en el apeadero de Bad Aibling Kurpark
 Página 51 de 103
 
-
 ## Página 52
+
 
 continúa su trayecto y llega a la estación de Kolbermoor a las 06:44, para cruzar con el DPN 79506 que espera. El DPN 79505 continúa su trayecto hacia Rosenheim a las 06:44.
 El DPN 79506 sale de la estación de Rosenheim a las 06:37 y llega a la estación de Kolbermoor a las 06:40. Allí espera a su tren contrario, el DPN 79505. A continuación, el DPN 79506 sale de la estación de Kolbermoor a las 06:45 en dirección al apeadero de Bad Aibling Kurpark / estación de Bad Aibling.
@@ -1263,8 +1275,8 @@ De los dos trenes accidentados se extrajeron y evaluaron los datos del Registro 
 Los dos trenes estaban equipados con un sistema de protección de tren, programa de explotación PZB 90. El desarrollo de la circulación, con los datos de velocidad, la distancia recorrida, las funciones del dispositivo de protección de tren puntual y diversas otras grabaciones relativas al material rodante, como las condiciones de presión en la tubería de freno principal, quedaron correctamente registradas en una cassette de almacenamiento de datos electrónica (DSK).
 Página 52 de 103
 
-
 ## Página 53
+
 
 En el tren 79506, la desviación del tiempo del sistema respecto al tiempo real fue de -00h:02Min:58s. En el tren 79505, el valor de corrección fue de -00h:01Min:07s. Esto no tuvo ninguna influencia en el desarrollo de los hechos. El cálculo de los tiempos reales de los trenes se realizó en el Anexo 15.
 En la evaluación de los datos del EFR debe tenerse en cuenta que pueden existir imprecisiones en el registro de la distancia recorrida y también en la normalización, inherentes al sistema. Por lo tanto, los datos en sí no deben sobreinterpretarse. Una multitud de factores pueden provocar estas imprecisiones (influencias de la infraestructura / del material rodante / inherentes al sistema, etc.). Sin embargo, los datos disponibles están registrados con una precisión suficiente, son plausibles y no tuvieron ninguna influencia en el desarrollo de los hechos.
@@ -1274,8 +1286,8 @@ En la siguiente figura se reúnen y contrastan las representaciones gráficas de
 Las evaluaciones detalladas del EFR de ambas circulaciones de tren se encuentran en los Anexos 4 y 5. Además de los dispositivos EFR, en ambos trenes también están instalados registradores multifunción DEUTA REDBOX®. Los datos registrados para la evaluación de averías de servicio y de material rodante se contrastaron con los datos del EFR y se sometieron a una comprobación de plausibilidad. En este proceso no se obtuvieron hallazgos. Los tiempos de los registradores multifunción DEUTA REDBOX® se recogen en el Anexo 16.
 Página 53 de 103
 
-
 ## Página 54
+
 
 Representación no a escala
 Bad Aibling
@@ -1293,6 +1305,7 @@ Sal.: 06:45:02
 Fig. 19: Contraste del desarrollo de la circulación 79505 frente a 79506
 
 ## Página 55
+
 
 ### 4.6.2 Personal de explotación EIU (DB Netz AG)
 En los capítulos siguientes se examina la cualificación, incluida la formación inicial y la formación continua, la aptitud y la supervisión, así como la jornada laboral / frecuencia de turnos del personal de explotación del EIU implicado en el suceso.
@@ -1312,8 +1325,8 @@ Temas 2014:
 Trabajos en instalaciones de vía, circulaciones en vía bloqueada, conversaciones
 Página 55 de 103
 
-
 ## Página 56
+
 
 operativas importantes y su documentación, medidas durante trabajos en la catenaria, parada de emergencia / llamada de emergencia sin ZF, Ril 424 (RID), protección contra incendios, circulaciones de trenes ante irregularidades en las señales, cambios en los reglamentos, envíos extraordinarios, inspección de vía y aseguramiento de vía.
 
@@ -1331,8 +1344,8 @@ Según el reglamento de DB Netz AG (Ril 412.9111) se requieren ocho supervisione
 La última supervisión tuvo lugar el 26.01.2016.
 Página 56 de 103
 
-
 ## Página 57
+
 
 ## 4.6.2.3
 ### Horarios de servicio del Fdl
@@ -1353,6 +1366,7 @@ El conductor de tren del DPN 79506 está cualificado conforme a las disposicione
 Página 57 de 103
 
 ## Página 58
+
 
 del permiso de conductor de tren. Las exploraciones médicas, la obtención de la formación en la línea y la habilitación para la serie están acreditadas. Se dispone de documentación sobre medidas de formación y perfeccionamiento. 
 En la cabina de mando del DPN 79506 se encontraba, además del Tf, un conductor de tren en formación de la BOB. El conductor de tren en formación está cualificado conforme a las prescripciones de la Ordenanza sobre el permiso de conductor de trenes de tracción y en posesión de un permiso de conductor de vehículos ferroviarios válido. Las exploraciones médicas, la obtención de la formación en la línea y la habilitación para la serie están acreditadas. Se dispone de documentación sobre medidas de formación y perfeccionamiento. 
@@ -1383,10 +1397,10 @@ Libro de trabajo y de averías
 Registro de los contadores 
  
 Impresos de órdenes 
-Página 58 de 103 
-
+Página 58 de 103
 
 ## Página 59
+
 
 En el marco de la investigación del accidente, los documentos mencionados anteriormente fueron examinados y verificados parcialmente. 
 Conforme a lo dispuesto en el § 47 apartado 4 de la EBO, se debe poner a disposición de los funcionarios de explotación instrucciones escritas sobre sus obligaciones de servicio. 
@@ -1397,10 +1411,10 @@ Las normas para la elaboración del libro de estaciones de servicio se encuentra
 Debido a la reestructuración y actualización de la normativa operativa, el 13.12.2015 se publicaron de nuevo todas las partes de la Ril 408. El libro de estaciones de servicio y los datos para el libro de líneas (publicados aún como datos para el libro de líneas por DB Netz AG) tuvieron que elaborarse por primera vez y, por tanto, de forma totalmente nueva. 
 Los correspondientes extractos de las Ril se encuentran en el Anexo 3, incluida la Ril 408.0101 apartados 1 a 3, donde se establece la referencia desde el Manual 40800, instrucción de servicio de circulación, a las normas locales para el Fdl. 
 Los resultados obtenidos del examen de los documentos que el Fdl debe observar y llevar están documentados en los Anexos 6 y 7. 
-Página 59 de 103 
-
+Página 59 de 103
 
 ## Página 60
+
 
 ### 4.6.5 Documentación operativa para el personal de a bordo 
 El personal de a bordo dispone de la siguiente documentación operativa, examinada en relación con la investigación del accidente, para el desempeño de su actividad: 
@@ -1429,6 +1443,7 @@ Página 60 de 103
 
 ## Página 61
 
+
 documentado. La cualificación, la formación continua y la idoneidad para la sustitución del jefe de distrito no están acreditados.
 El jefe de distrito de explotación está sujeto a la supervisión del jefe de área de explotación; también para este último están acreditados la cualificación, la formación continua y la idoneidad.
 El puesto de mando de Bad Aibling pertenece a la unidad organizativa «Red regional de Karwendel y Baviera Meridional». El jefe de distrito de explotación y el jefe de área de explotación están subordinados a la dirección de la red regional.
@@ -1448,8 +1463,8 @@ A continuación, el extracto de las deficiencias señaladas por los responsables
 Estaciones de explotación (puestos de mando) en 2013:
 Documentación incompleta de los controles de explotación en el libro de trabajo y de incidencias, página 61 de 103
 
-
 ## Página 62
+
 
 deficiencia existente no cuestionada a pesar del control del jefe de distrito, intervalos excesivamente largos entre los controles de la documentación operativa, las inspecciones registradas en el acta de inspección no están documentadas en el libro de trabajo y de incidencias, falta de identificación de las inspecciones, datos ausentes, incorrectos o también obsoletos en las Directrices Locales (ÖRil), (…) discrepancias entre los datos sobre la situación kilométrica de las instalaciones ferroviarias o los datos sobre longitudes de vía o de andén, … los datos sobre el bloqueo de vía y los desvíos deben figurar en la descripción de las instalaciones de señalización, … podrían ser necesarias disposiciones locales adicionales sobre módulos de la Ril 482, pero no existen, (…) se trata de una «antigua» instrucción de maniobra que ya no está vigente, (…) referencias a Ril / normativas que hace mucho dejaron de estar vigentes, (…) faltan documentos que deben aportar los responsables de la instalación o ya no están actualizados.
 
@@ -1469,8 +1484,8 @@ Para el ámbito de los ETS
 Desde el 01.01.2010, las instalaciones de ETS se controlan según un procedimiento establecido sobre la base de una instrucción administrativa. De acuerdo con la clasificación de seguridad y el marco cuantitativo, se determinan cifras objetivo y, sobre esta base, se seleccionan objetos concretos para el
 Página 62 de 103
 
-
 ## Página 63
+
 
 ámbito de cada oficina exterior de la EBA. Con ello, en general se evita una repetición de la inspección en intervalos más cortos.
 Las últimas inspecciones en la línea Holzkirchen – Rosenheim se realizaron en noviembre de 2010 en los Pm (puestos de mando) de Westerham y Pm de Bruckmühl. Para ambos emplazamientos hubo que ordenar medidas de seguridad, ya que se constató que las instalaciones de seguridad no cumplían en puntos importantes la EBO y las reglas técnicas reconocidas. Estas deficiencias no tienen relación directa con el suceso del accidente; se trataba, entre otros, de planos que debían revisarse o elaborarse de nuevo.
@@ -1492,6 +1507,7 @@ Página 63 de 103
 
 ## Página 64
 
+
 15 
 Las velocidades máximas permitidas fueron respetadas por ambos trenes. 
 16 
@@ -1508,25 +1524,25 @@ Hallazgos sobre el personal de explotación EIU (Fdl Bad Aibling)
 Hallazgos sobre el personal de explotación EVU 
 22 
 El conductor del DPN 79505 estaba cualificado conforme a las disposiciones de la publicación VDV 753 para la clase de licencia 3 FV-DB y en posesión de una licencia de conductor de vehículo ferroviario válida. Se acreditan los reconocimientos médicos, la adquisición de los conocimientos de línea y la habilitación de serie. Se dispone de documentación sobre medidas de formación y perfeccionamiento. 
-Página 64 de 103 
-
+Página 64 de 103
 
 ## Página 65
 
 23 
-El conductor del DPN 79506 estaba cualificado conforme a las disposiciones del Reglamento de licencias de conductores de vehículos ferroviarios y en posesión de una licencia de conductor de vehículo ferroviario válida. Se acreditan los reconocimientos médicos, la adquisición de los conocimientos de línea y la habilitación de serie. Se dispone de documentación sobre las medidas de formación y perfeccionamiento. 
-Hallazgos resumidos sobre la documentación de explotación y la cualificación del Fdl Bad Aibling 
-| 24 |  | En relación directa con el accidente del 09.02.2016 se encuentran los hallazgos sobre la explotación ferroviaria. Estos fueron designados de forma continuada de B 1 a B 18 y se encuentran en los Anexos 6 y 7. |
-|  |  | B3 a B5, B9 a B11, B14 y B16 a B18. |
-|  |  | Al Fdl se le proporcionan disposiciones locales erróneas, contradictorias o incompletas, entre otras, sobre el bloqueo de vía y sobre la emisión de una orden de parada de emergencia. El Fdl acreditó los contadores de ejes posteriormente y de memoria, a raíz de la petición del entonces presente BzL Betrieb. |
-|  |  | La comunicación para la seguridad de los viajeros en la estación de Kolbermoor entre el Fdl y el Tf no está regulada. |
-|  |  | En relación indirecta con el accidente del 09.02.2016 se encuentran los hallazgos: |
-|  |  | (17 a 21), B6 y B13. |
-|  |  | Los hallazgos B 3 a B 16 se encuentran en el Anexo 6; los hallazgos B 17 y B 18 en el Anexo 7. |
-Página 65 de 103 
-
+El conductor del DPN 79506 estaba cualificado de acuerdo con las disposiciones del Reglamento del permiso de conducción de trenes y en posesión de un permiso de conducción de vehículos ferroviarios válido. Se acreditan los reconocimientos médicos, la obtención del conocimiento de la línea y la habilitación para la serie. Se dispone de documentación sobre las medidas de formación continua y de perfeccionamiento. 
+Conclusiones resumidas sobre la documentación operativa y la cualificación del JdM Bad Aibling 
+| 24 |  | En relación directa con el accidente del 09022016 se encuentran las . . |  |
+|  |  | conclusiones sobre la explotación ferroviaria. Estas se denominaron de forma continua con B 1 hasta B 18 y se encuentran en los anexos 6 y 7. |  |
+|  |  | B3 hasta B5, B9 hasta B11, B14 y B16 hasta B18. |  |
+|  |  | Al JdM se le transmiten instrucciones locales falsas, contradictorias o incompletas, entre otras, sobre el bloqueo de línea y sobre la emisión de una orden de parada de emergencia. El JdM acreditó los contadores de vía posteriormente y de memoria, a raíz de la petición del entonces presente jefe de distrito de explotación. |  |
+|  |  | La comunicación para la seguridad de los viajeros en la estación de Kolbermoor entre el JdM y el Tf no está regulada. |  |
+|  |  | En relación indirecta con el accidente del 09 .02 .2016 se encuentran las conclusiones: |  |
+|  |  | (17 hasta 21), B6 y B13. |  |
+|  |  | Las conclusiones B 3 hasta B 16 se encuentran en el anexo 6, las conclusiones B 17 y B 18 en el anexo 7. |  |
+Página 65 de 103
 
 ## Página 66
+
 
 Hallazgos sobre la documentación de explotación para el personal de tren y actuaciones de los Tf 
 25 
@@ -1546,6 +1562,7 @@ Página 66 de 103
 
 ## Página 67
 
+
 y 162.12, y de especial importancia durante las investigaciones. A este respecto se contiene información más detallada en el Anexo 10.
 ### 4.7.1 Hallazgos sobre el SMS
 28
@@ -1561,8 +1578,9 @@ En el proceso penal contra el Fdl de Bad Aibling, el juego en línea del Fdl des
 la duración total y la frecuencia de las acciones de juego habían aumentado significativamente desde el 01.01.2016,
 Página 67 de 103
 
-
 ## Página 68
+
+
 
 entre las 06:09:42 h y las 06:40:47 h había un tiempo de juego activo de 21:53 minutos, es decir, la proporción del tiempo de juego respecto al tiempo de trabajo era del 72 %,
 
@@ -1584,8 +1602,9 @@ El riesgo de confusión de los dos tipos de llamada de emergencia es demasiado a
 En cuanto a la cualificación y la formación (del Fdl):
 Página 68 de 103
 
-
 ## Página 69
+
+
 o Dado que los fallos técnicos son relativamente infrecuentes, los procedimientos deben ensayarse en la formación bajo condiciones realistas.
 o Dado que la emisión de una señal Zs 1 no es infrecuente, pero sí que se repite periódicamente, esta acción, junto con sus condiciones marco, debe comentarse y ensayarse regularmente en la formación.
 o Los ejercicios tienen lugar en la atmósfera relajada de una formación continua y no bajo el estrés de una irregularidad inminente o de un suceso peligroso en la explotación ferroviaria.
@@ -1604,6 +1623,7 @@ Existe, especialmente bajo estrés, un alto riesgo de confusión entre los dos t
 Página 69 de 103
 
 ## Página 70
+
 
 Un entrenamiento exitoso solo es posible cuando
 
@@ -1632,8 +1652,8 @@ Del resumen de plazos se desprende que todas las revisiones de seguridad relevan
 
 Página 70 de 103
 
-
 ## Página 71
+
 
 Fig. 20: Extracto del plan de plazos de los trenes de unidades
 Fuente: BOB
@@ -1663,8 +1683,8 @@ La estructura de la carrocería está compuesta de perfiles de aluminio de cáma
 
 Página 71 de 103
 
-
 ## Página 72
+
 
 colisión, deben absorber la mayor cantidad posible de energía, para reducir la carga sobre el resto de la estructura del vehículo y sobre los pasajeros. Además, los distintos segmentos del vehículo están unidos entre sí mediante articulaciones absorbentes de energía.
 
@@ -1702,6 +1722,7 @@ Página 72 de 103
 
 ## Página 73
 
+
 |  | cruzamiento con 79506 de Kolbermoor a Bad Aibling . |  |
 | 06:29 | Sistema de anuncio de números de tren, recepción 79506 de Rosenheim (salida prevista , . |  |
 |  | 06:37 h) |  |
@@ -1727,10 +1748,10 @@ Página 72 de 103
 |  | Aibling y Kolbermoor, las vías de la estación a utilizar están correctamente prescritas , |  |
 |  | y son: Bad Aibling trenes 79505 y 79506 vía 1, Kolbermoor tren |  |
 |  | 79505 vía 201 y tren 79506 vía 202 . |  |
-Página 73 de 103 
-
+Página 73 de 103
 
 ## Página 74
+
 
 izquierda: horario tabular para los puntos de anuncio de trenes Heufeld, Bad Aibling y Kol-
 bermoor con indicaciones de vía; derecha: horario gráfico sin indicaciones de vía – Fuente: 
@@ -1745,10 +1766,10 @@ Tecla auxiliar de desactivación de paso a nivel (HAT)
 Registro de estas operaciones en el certificado de los contadores con las 06:40 h para el nú-
 mero de tren 79505 anotado por el Fdl (véase la siguiente figura). 
 Las anotaciones en las líneas 10 a 14 con referencia al accidente se realizan solo 
-Página 74 de 103 
-
+Página 74 de 103
 
 ## Página 75
+
 
 posteriormente a petición y en presencia del jefe de distrito de explotación. Las 
 indicaciones de hora se basan en los recuerdos del Fdl. 
@@ -1792,16 +1813,17 @@ Página 75 de 103
 
 ## Página 76
 
+
 se disuelve. 
 Dado que en el puesto de mando de Bad Aibling no existe un funcionamiento automático de enclavamiento, la salida de la vía 202 para el tren 79506 debió realizarse por parte del JdS mediante una operación activa de dos teclas (tecla de inicio y tecla de destino). Esta operación pudo realizarse inmediatamente después de la liberación de la entrada desde la dirección de Rosenheim y debió producirse antes de las 06:38 h. 
 Dado que el tren 79506 tiene parada hasta las 06:45 h en la estación de Kolbermoor, la liberación de la salida se produce demasiado pronto. Esto también es válido (la razón es la superación del tiempo de cierre del paso a nivel en el P.A.N. pk 32,396) si el tren 79506 no hubiera tenido además que esperar al tren contrario 79505. 
 La Ril 482.9001 establece en la sección 7 (Tareas de los operadores) apartado 2 (Operar, observar los indicadores):  
 «El operador opera y observa las instalaciones de señalización conforme a las Ril válidas para dichas instalaciones y a las adiciones locales. Tras cada acción de operación, debe comprobar mediante la observación de las señales o de los dispositivos de indicación o de supervisión que se ha producido la operación pretendida. Si no es el caso, repite la operación –en la medida de lo posible y permitido–, aunque para ello sea necesaria una operación auxiliar de teclas. Si la repetición de la operación resulta infructuosa, se procederá como en los casos de irregularidades.» 
 Esto significa concretamente, para la liberación de la salida desde la estación de Kolbermoor para el tren 79506: el JdS debe observar en la mesa de mando que la ruta de salida se establece, se bloquea y se fija, y que todo el itinerario en la estación hasta la altura de Esig A 200 se ilumina en amarillo, además de que se indica la fijación de los dos señales de bloqueo 313 y 314. Tras la circulación por el contacto de activación del P.A.N. por parte del tren 79506, el P.A.N. pk 32,396 se cierra, el indicador de liberación del P.A.N. correspondiente se enciende y la señal Asig P 202 pasa a posición de vía libre (sin ninguna acción de operación adicional por parte del JdS). A diferencia de las indicaciones en la mesa de mando entre una entrada desde Rosenheim hacia la vía 202 con larga zona de deslizamiento y sin salida autorizada hacia Bad Aibling, y una entrada desde Rosenheim hacia la vía 202 con la salida hacia Bad Aibling ya autorizada por el JdS, en la que el P.A.N. pk 32,396 permanece abierto hasta que el tren activa su protección, véanse las figuras anteriores. El JdS debe prestar atención a que el indicador de vía libre de la señal P 202 cambie a posición de vía libre, pues ese era el proceso pretendido por él. 
-Seite 76 von 103 
-
+Seite 76 von 103
 
 ## Página 77
+
 
 Presumiblemente el primer intento de establecer la ruta de salida en Bad Aibling a partir de las 06:39 
 desde la vía 1 en dirección a Kolbermoor para el tren 79505. 
@@ -1822,6 +1844,7 @@ Si el JdS hubiera operado la tecla auxiliar del bloqueo central junto con la tec
 Seite 77 von 103
 
 ## Página 78
+
 
 señales de bloqueo 314, se habría levantado la fijación de ambos Zbk y el Asig P 202 que se encuentra en marcha en la estación de Kolbermoor habría caído a parada.
 Para la operación de la liberación auxiliar del Zb se aplican las reglas del Zb.
@@ -1851,8 +1874,8 @@ Ril 408.0455 apartado 3 «Condiciones para permitir un movimiento de tren con or
 «En las líneas para las que existe cambio de autorización, la autorización debe encontrarse en el punto de enlace de la circulación de trenes que permite el movimiento de tren.
 Página 78 de 103
 
-
 ## Página 79
+
 
 En las líneas sin indicador de autorización, en las que los movimientos de tren se permiten normalmente en ambas direcciones con la puesta en marcha de una señal principal, el Fdl que permite el movimiento de tren debe poner en conocimiento del Fdl del punto de enlace de la circulación de trenes adyacente. El Fdl del punto de enlace de la circulación de trenes adyacente debe colocar o introducir el aviso de recordatorio … y la bloqueación … hasta que el tren haya llegado al punto de enlace de la circulación de trenes. El movimiento de tren puede permitirse cuando el Fdl del punto de enlace de la circulación de trenes adyacente haya comunicado que ha colocado o introducido el aviso de recordatorio y la bloqueación.»
 Para la línea Bad Aibling – Kolbermoor no existe cambio de autorización.
@@ -1873,6 +1896,7 @@ Página 79 de 103
 
 ## Página 80
 
+
 314 es correcto, ya que se constata que Zb existe sin grupo de secciones de bloqueo automático.
 Para la posterior consideración de las acciones del Fdl Bad Aibling (en continuación de los pasos siempre válidos a) hasta c)) se aplican las reglas para Zb.
 El día del suceso habría sido necesario, siempre –independientemente de la forma real de bloqueo–, que el Fdl realizara una comprobación de liberación antes de que pudiera autorizarse una circulación de tren con señal de sustitución (aquí en el tren 79505).
@@ -1881,8 +1905,8 @@ Las reglas mencionadas ante la ausencia de cambio de autorización (como es el c
 En términos generales, cabe señalar que la Ril 408 asume (aún) con frecuencia que cada punto de comunicación de tren está ocupado por un Fdl propio en el lugar, y que entre ellos tiene lugar el procedimiento de comunicación de tren.
 Página 80 de 103
 
-
 ## Página 81
+
 
 En las disposiciones locales no se realiza una denominación y descripción correcta de la protección ferroviaria existente para el Fdl.
  
@@ -1913,6 +1937,7 @@ Página 81 de 103
 
 ## Página 82
 
+
 En la comprobación de liberación debe constatar lo siguiente:
 a) El tren ha pasado por el punto de comprobación de liberación de la señal de fin de tren de la señal principal …
 b) El tren tiene al menos una indicación de la señal de fin.
@@ -1937,8 +1962,8 @@ Aquí se pretende que el tren 79505 entre con señal de sustitución en el tramo
 No consta ninguna comprobación de liberación individual y esta fue sustituida por el Fdl mediante una comprobación de tramo de bloqueo no admisible (véanse los pasos k y
 Seite 82 von 103
 
-
 ## Página 83
+
 
 l).
 Paso i)
@@ -1974,6 +1999,7 @@ Seite 83 von 103
 
 ## Página 84
 
+
 Señales de la Ordenanza de Señales Ferroviarias: Zs 1 Señal de sustitución, Zs 7 Señal de precaución, Zs 8 Señal de sustitución de circulación en vía contraria (no existente en el Puesto de Mando Bad Aibling).
 7
 Los tramos de bloque central no están liberados, los indicadores de bloqueo fijo de las señales de bloqueo 313 y 314 están encendidos.
@@ -1985,8 +2011,8 @@ En el lugar se reprodujeron las correspondientes iluminaciones de la mesa de enc
 (Imadmisible) comprobación de tramo de bloqueo (vía libre) Estación Bad Aibling – Señal 313 mediante la pulsación de la tecla de comprobación de tramo de bloqueo:
 Página 84 de 103
 
-
 ## Página 85
+
 
 (Imadmisible) comprobación de tramo de bloqueo (vía libre) Zbk 313 – ESig A 200 Estación Kolbermoor mediante la pulsación de la tecla de señal Zbk 313
 Reglamentación local insuficiente para el Fdl respecto a los tres circuitos de contejo de ejes y los dos tramos de sucesión de trenes en las vías Bad Aibling – Kolbermoor.
@@ -1997,8 +2023,8 @@ Ril 408.0244 «Comprobación de liberación – Vías con bloqueo automático de
 «El Fdl debe acreditar la comprobación de tramo de bloqueo según el apartado (4), la evaluación de las indicaciones seguras según el apartado (5) o la evaluación de la puesta en marcha según el apartado (6) según el siguiente modelo (en el libro de comunicación de trenes).»
 Página 85 de 103
 
-
 ## Página 86
+
 
 En la documentación que el Fdl debe llevar no consta registro de las comprobaciones de tramo de bloqueo realizadas.
 
@@ -2035,6 +2061,7 @@ Página 86 de 103
 
 ## Página 87
 
+
 no es el caso, sino solo para la línea Heufeld – Bad Aibling.
 Zs 1 Asig Bad Aibling:
 Nueva establecimiento de la vía de salida desde la vía 1 de Bad Aibling en dirección a Kolbermoor y actuación del Zs1 (condición técnica previa bloqueo de la cadena de agujas según Ril 482.9009 § 6 apartado 5). La protección de la vía y del BÜ en la estación no se considera más, como se ha expuesto.
@@ -2056,8 +2083,8 @@ Documentación deficiente.
 El bloqueo de línea funciona correctamente, la avería es una mala interpretación del Fdl, que no reconoce la salida liberada desde la estación de Kolbermoor.
 Página 87 de 103
 
-
 ## Página 88
+
 
 El Fdl no realiza ninguna comprobación de despeje individual, sino que la sustituye inadmisiblemente por dos comprobaciones de tramo de bloqueo.
 Solo tras una comprobación de despeje individual (confirmada) se admite la anulación auxiliar del Zb. Aunque esto no es posible con éxito, el tren 79505 no recibe ninguna orden de circular a la vista.
@@ -2085,6 +2112,7 @@ La espera del Fdl del aviso del Tf 79506 se remite a la práctica habitual, seg�
 Página 88 de 103
 
 ## Página 89
+
 
 |  |  |  |  | plangefüges) bekannt sind und sich die Tf unaufgefordert beim Fdl melden und |  |
 |  |  |  |  | dann das Halten und die Übernahme der Reisendensicherung bestätigen . |  |
@@ -2120,10 +2148,10 @@ vorliegender Schreiben der HVB, dem BZA und der ZTL der ehemaligen Deutschen Bun
 desbahn handelt es sich um Zb 65 ohne Selbstblockstreckengruppe, wobei dieser Zb 65 
 ohne Selbstblockstreckengruppe den Anforderungen des Zb 65 jedoch nicht vollumfänglich 
 entspricht. Im Fall der Strecke zwischen Bad Aibling und Kolbermoor kommt hinzu, dass hier 
-Seite 89 von 103 
-
+Seite 89 von 103
 
 ## Página 90
+
 
 nicht ein sondern zwei Zugfolgeabschnitte bei drei Achszählabschnitten vorhanden und die 
 entsprechenden Meldeanzeigen nicht gegeben bzw. unvollständig sind. Folglich durften die 
@@ -2155,10 +2183,10 @@ Sobald ein Asig auf die Strecke zwischen Heufeld und Bad Aibling Fahrt anzeigt, 
 Gleisband der Strecke gelb ausgeleuchtet. 
 Die Fahrtstellung eines Ausfahrsignals auf die Strecke zwischen Bad Aibling und Kolber-
 moor führt zu keiner Ausleuchtung, das Gleisband bleibt dunkel. 
-Seite 90 von 103 
-
+Seite 90 von 103
 
 ## Página 91
+
 
 Auf der Abbildung 21 wird ein Ausschnitt des Stelltisches Bad Aibling dargestellt. Es ist die 
 Ausfahrzugstraße Bf Heufeld nach Bf Bad Aibling zu erkennen. Das Asig kommt erst in 
@@ -2174,14 +2202,15 @@ Seite 91 von 103
 
 ## Página 92
 
+
 La siguiente figura 23 muestra el extracto del pupitre de mando. Se representa la salida de la estación de Kolbermoor hacia la estación de Bad Aibling (Asig Kolbermoor está en posición de vía libre). La iluminación amarilla de la banda de vía termina en el límite de la estación de Kolbermoor y no se extiende a la sección libre Kolbermoor – Bad Aibling.
 Fig. 23: Pupitre de mando arriba a la derecha, línea Kolbermoor – Bad Aibling
 Abajo se muestra un extracto del área centro izquierda del pupitre de mando. De él se desprende una salida de la estación de Kolbermoor hacia la estación de Bad Aibling (Asig Kolbermoor está en posición de vía libre). La línea Kolbermoor hasta Bad Aibling (Esig) no está iluminada; en el nivel medio del pupitre de mando solo el indicador cuadrado luminoso de bloqueo del Zbk 313 señala que el bloque de sección no se encuentra en posición normal. De la indicación luminosa del bloqueo no puede derivarse ninguna referencia a la dirección de circulación.
 Fig. 24: Pupitre de mando centro izquierda, línea Kolbermoor – Bad Aibling
 Página 92 de 103
 
-
 ## Página 93
+
 
 Es evidente que esta diferente iluminación de la banda de vía (indicación claramente iluminada en amarillo en la tecnología de enclavamiento de itinerarios con un tramo de intervalo de trenes frente a la falta de iluminación en el Zb sin grupo de secciones de bloqueo automático con dos tramos de intervalo de trenes) haya sido un motivo de la obligación de equipamiento retroactivo de la dependencia de autorización del año 1984.
 Asimismo, la iluminación de la banda de vía para las indicaciones de ocupación entre Bad Aibling y Kolbermoor se orienta según los tres tramos de conteo de ejes y no según los dos tramos de intervalo de trenes en sentido directo y contrario. Esto tiene como consecuencia que la ocupación de los tramos de intervalo de trenes no se muestre parcialmente de forma completa al Fdl. A esto se añade que la iluminación amarilla en una comprobación de sección de bloqueo con la tecla de señal 313 o 314 no se muestra conforme a la normativa y solo de forma incompleta.
@@ -2191,8 +2220,8 @@ La laguna en la cobertura de radio en el área de Kolbermoor descrita en la docu
 Del cronograma determinado (primera apertura de llamada registrada de la «llamada de emergencia de sección» por el Fdl de Bad Aibling (capítulo 4.5.3)), de la ubicación de los trenes y de la posible distancia de detención (incluido el tiempo de reacción del Tf) de los trenes de composición (capítulo 4.9.2) se desprende que la colisión habría podido evitarse mediante una «llamada de emergencia de radio de tren».
 Página 93 de 103
 
-
 ## Página 94
+
 
 Por ello, ya en el informe interino de la EUB del 07.02.2017 se recomendó fusionar los grupos de participantes de la «llamada de emergencia de radio de tren» y de la «llamada de emergencia de sección» en una «llamada de emergencia de radio de tren». Más allá de ello, debería examinarse la posibilidad de fusionar áreas de grupos de llamadas de emergencia locales así como la llamada de emergencia de radio de maniobras y, de ser posible, optimizarse en general.
 ### 6.3 Operación ferroviaria
@@ -2205,12 +2234,13 @@ Las indicaciones del pupitre de mando para diferentes establecimientos de itiner
 Con alta probabilidad, el Fdl debió establecer el paso para el tren 79506 en Kolbermoor inmediatamente después de la aceptación del tren por parte del Fdl de Rosenheim a las 06:29 horas, y a continuación no haber sido ya consciente de esta maniobra.
 Página 94 de 103
 
-
 ## Página 95
+
 
 Página 95 de 103
 
 ## Página 96
+
 
 Falta de dependencia de autorización
 Dado que, a diferencia de la técnica de enclavamiento de itinerarios entre Heufeld y Bad Aibling, entre Kolbermoor y Bad Aibling, en una circulación de tren autorizada, la banda de vía no se ilumina en amarillo, el JdM dispone únicamente de las indicaciones de la mesa de mando. Estas, salvo el indicador de bloqueo para el Zbk 313, se encuentran todas situadas arriba a la derecha en la mesa de mando. Solo el bloqueo del Zbk 313 se indica en el nivel intermedio a la izquierda. Las teclas de las señales Asig N1 de la estación de Bad Aibling y Zbk 313 detrás de la parada Kurpark se encuentran todas en el nivel intermedio izquierdo de la mesa de mando. Para establecer las señales sustitutivas, las teclas de señal Asig N 1 y después Zbk 313 deben pulsarse cada una junto con la tecla de grupo de señales sustitutivas. La tecla de grupo de señales sustitutivas se encuentra en el bloque de teclas de grupo rojo, en diagonal por encima de las Asig P 201 y P 202 de la estación de Kolbermoor.
@@ -2221,8 +2251,8 @@ La modernización con dependencia de autorización conforme a la Ril 482.9021 §
 Véase al respecto también el Anexo 23 y el Anexo 11 en el análisis de la TU Braunschweig en el capítulo 8.2.
 Página 96 de 103
 
-
 ## Página 97
+
 
 Si se considera la disposición de la mesa de mando con las teclas interiores y exteriores descritas anteriormente, una modernización de la dependencia de autorización habría actuado a favor de la seguridad y habría aportado una contribución correspondiente a la evitación del accidente.
 6.3.2 Exceso del tiempo de cierre del BÜ km 32,396,
@@ -2240,8 +2270,8 @@ Cabe señalar que la aplicación de las normas muy detalladas, aquí en particul
 La complejidad de la normativa se evidencia en la acción auxiliar esbozada a continuación – avería de liberación – pulsar ZbHT:
 Página 97 de 103
 
-
 ## Página 98
+
 
 
 482.9021 § 5 párrafos 9 y 16
@@ -2268,6 +2298,7 @@ Página 98 de 103
 
 ## Página 99
 
+
 Comprobación de secciones de bloque
 La iluminación de la mesa de mando en una comprobación de secciones de bloque para el intervalo de circulación de trenes Zbk 313 – Kolbermoor y para el intervalo de circulación de trenes Zbk 314 – Bad Aibling no se ajusta a las prescripciones de la normativa y está incompleta (véanse las ilustraciones del capítulo 5, paso k, y los anexos ilustrados 17, 18 y 21, así como el capítulo 6.1).
 Para el puesto de mando de Bad Aibling faltan la descripción local complementaria y las disposiciones adicionales necesarias, de modo que una comprobación de secciones de bloque desde el Zbk 313 hasta el Esig de la estación de Kolbermoor carece siempre de validez.
@@ -2283,8 +2314,8 @@ El Asig P 202 de la estación de Kolbermoor mostró, antes del paso del tren 795
 
 Página 99 de 103
 
-
 ## Página 100
+
 
 En cambio, en el libro de estaciones de servicio para el Fdl de Bad Aibling falta una disposición sobre el uso de vías en cruces fuera de horario de dos trenes de pasajeros con cambio de viajeros.
 
@@ -2308,8 +2339,8 @@ Sobre la cuestión del sistema de llamada de emergencia, la práctica de la llam
 
 Página 100 de 103
 
-
 ## Página 101
+
 
 ### 6.6 Aplicación de la señal auxiliar Zs 1
 
@@ -2332,6 +2363,7 @@ Página 101 de 103
 
 ## Página 102
 
+
 # 8 
 # Recomendaciones de seguridad  
 De conformidad con el § 6 de la Ordenanza de investigación de accidentes ferroviarios (EUV) y el artículo 26, apartado 2, de la Directiva (UE) 2016/798, se emiten las siguientes recomendaciones de seguridad: 
@@ -2353,10 +2385,10 @@ Elaborar normas para la aplicación de la «tecnología de itinerarios como prot
 Revisar y precisar las normas de comprobación de despeje en vías de una sola vía y en explotación con cambio de vía 
 4/2018 
 Se recomienda, sobre la base de una consideración de riesgos, revisar el paso del cuerpo normativo orientado a funciones al cuerpo normativo orientado a procesos. 
-Página 102 de 103 
-
+Página 102 de 103
 
 ## Página 103
+
 
 | 5/2018 | Se recomienda recurrir de forma reforzada a simuladores de aparatos de enclavamiento en las acciones de formación y capacitación, y abordar también los aspectos de subestimación, nuevos medios y distracción. | EIU |
 | 6/2018 | Se recomienda, sobre la base de una consideración de riesgos, cuestionar críticamente la actual posibilidad de activación de la señal sustitutiva Zs 1 y sustituirla por condiciones operativas y/o técnicas que minimicen el riesgo. | EIU |

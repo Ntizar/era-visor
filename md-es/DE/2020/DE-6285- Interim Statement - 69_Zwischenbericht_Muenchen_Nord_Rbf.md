@@ -10,12 +10,13 @@ chars: 3708
 ratio_longitud: 1.02
 tokens_in: 1888
 tokens_out: 1029
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/2 (50%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,33 +35,32 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 261 |
 | Punto kilométrico: | 160 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
+| I . | Lista de modificaciones I ............................................................................................................... |
 | 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Colisión de tren el 23 05 2020 en München Nord Rbf 2 . . ................................................................... |
-|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 22 Consecuencias 2 . ...................................................................................................................................... |
-|  | 23 Estado de la investigación 2 . ........................................................................................................... |
-|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
+| 2 | Colisión de trenes el 23052020 en München Nord Rbf 2 . . ................................................................... |
+|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
+|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
+|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Lista de modificaciones 
 | Modificación | Estado |
 | Versión 2 0 en base al plazo anual recibido . | 08 04 2022 . . |
 I
 
-
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza en base al § 5 apartado 5 del Reglamento de
@@ -73,8 +73,8 @@ investigación en el momento actual, puede variar en cualquier momento y no recl
 completitud.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de tren el 23.05.2020 en el Bf München Nord Rbf 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias.

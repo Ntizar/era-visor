@@ -10,13 +10,13 @@ chars: 11767
 ratio_longitud: 1.03
 tokens_in: 8954
 tokens_out: 4501
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 9: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 3: cifras cortas: 5/16", "página 8: cifras cortas: 2/9"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Referencia: 
@@ -32,16 +32,16 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 4 |
 | Aguja: | 81W22 |
 
-
 ## Página 2
+
 
 Publicado por: 
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Heinemannstraße 6 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 ## Índice 
 | I . | Índice de modificaciones: I ........................................................................................... |
@@ -56,10 +56,10 @@ Heinemannstraße 6
 | 3 | Medidas adoptadas hasta la fecha 6 ............................................................................. |
 | I . | Índice de modificaciones: |  |  |
 |  | Modificación |  | Estado |
-I 
-
+I
 
 ## Página 4
+
 
 ## II. 
 ## Índice de abreviaturas: 
@@ -71,10 +71,10 @@ I
 | Hbf | Estación principal |
 | Hp | Parada |
 | VzG | Registro de velocidades localmente autorizadas |
-II 
-
+II
 
 ## Página 5
+
 
 ## 1 Notas preliminares 
 El capítulo Notas preliminares aborda información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se cita la base legal y se describe brevemente la organización superior. 
@@ -85,10 +85,10 @@ De acuerdo con el § 6 apartado 2 de la Ley federal de administración del tráf
 Más información al respecto está disponible en Internet en www.beu.bund.de. 
 ### 1.2 Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es esclarecer las causas de los sucesos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad civil u otras reclamaciones de derecho civil, y se realizan con independencia de cualquier investigación judicial. 
-Todos los hallazgos relevantes obtenidos durante la investigación fueron compartidos con los ferrocarriles participantes y la autoridad de seguridad con el fin de mejorar, en la medida de lo posible, la seguridad ferroviaria. A continuación, estos se recopilan en la forma adecuada para el caso concreto, de conformidad con los artículos 20 apartado 3 y 24 apartado 1 de la Directiva (UE) 2016/798. No se emitieron recomendaciones de seguridad. 
-
+Todos los hallazgos relevantes obtenidos durante la investigación fueron compartidos con los ferrocarriles participantes y la autoridad de seguridad con el fin de mejorar, en la medida de lo posible, la seguridad ferroviaria. A continuación, estos se recopilan en la forma adecuada para el caso concreto, de conformidad con los artículos 20 apartado 3 y 24 apartado 1 de la Directiva (UE) 2016/798. No se emitieron recomendaciones de seguridad.
 
 ## Página 6
+
 
 ## 2 Investigación 
 El capítulo contiene una descripción breve del suceso e informa sobre las consecuencias producidas y los resultados de la investigación. 
@@ -96,10 +96,10 @@ El capítulo contiene una descripción breve del suceso e informa sobre las cons
 El 23.04.2014 hacia las 18:10 h, la circulación de trenes EZ 51521 de la empresa de tráfico ferroviario DB Schenker Rail AG, en su trayecto desde Seelze Rbf hasta Leipzig-Engelsdorf, descarriló en la estación (Bf) Gröbers, en la aguja 81W22. 
 El descarrilamiento se produjo en la línea Magdeburg estación principal (Hbf) – Halle (Saale) Hbf – Leipzig Messe Süd, explotada por DB Netz AG como empresa de infraestructura ferroviaria. Se trataba de una línea principal electrificada, registrada en el Registro de velocidades localmente autorizadas (VzG) con el número 6403. El lugar del accidente se encontraba en la aguja 81W22 del Bf Gröbers, aproximadamente en el km 96,5. En este tramo la línea era de doble vía y podía ser recorrida, de acuerdo con el VzG, a una velocidad máxima de 120 km/h. Las estaciones de explotación adyacentes eran el punto de bifurcación (Abzw) Hl Karena y la parada (Hp) Großkugel 
 Figura 1: Plano de situación1 
-1 Fuente: Datos geobásicos © GeoBasis-DE / BKG [2020], editado por BEU 
-
+1 Fuente: Datos geobásicos © GeoBasis-DE / BKG [2020], editado por BEU
 
 ## Página 7
+
 
 La aguja 81W22, en la que descarriló la circulación de trenes EZ 51521, era una aguja de alta velocidad de la forma EW 60-2500-1:26,5-ĩ con punta de corazón móvil elástica. La aguja estaba equipada con dos motores de aguja y señales de posición de aguja, situados a la altura de los rieles de aguja y de la punta de corazón móvil elástica. 
 La explotación en la línea fue realizada por el jefe de maniobras (Fdl) competente en el puesto de mando electrónico Unterzentrale Neuwiederitzsch desde una consola en el centro de operaciones de Leipzig, de acuerdo con las normas de la Directiva 408 –Circulación y maniobras de trenes–. 
@@ -117,22 +117,24 @@ En el plano de vías siguiente se ilustra el itinerario del tren en el Bf Gröbe
 
 ## Página 8
 
+
 Figura 2: Esquema de la disposición de la vía²
 La aguja de alta velocidad 81W22 en la estación de Gröbers se encontraba averiada en el momento del suceso. No pudo ser colocada en posición derecha. En el puesto de mando responsable del centro de mando electrónico Unterzentrale Neuwiederitzsch se registró una correspondiente notificación de avería. Debido a la situación encontrada in situ tras el descarrilamiento, cabe suponer que la causa de la notificación de avería radicaba en la posición final incorrecta de la punta de corazón móvil de la aguja. Debido a la avería de la aguja, la señal de entrada 81B para la circulación del tren EZ 51521 no pasó a la posición de vía libre.
 Las técnicas de mando y seguridad encargadas de subsanar la avería de la aguja no pudieron detectar anomalías in situ a pesar de los múltiples intentos de conmutar la aguja realizados por el puesto de mando responsable. Por ello, el puesto de mando responsable les instruyó para colocar la aguja en posición derecha y asegurarla con cierres manuales. Sí aseguraron y cerraron el dispositivo de lengüetas de la aguja 81W22, pero dejaron la punta de móvil de corazón sin asegurar y sin cerrar. A continuación, notificaron al puesto de mando responsable que la aguja estaba asegurada y cerrada en posición derecha. Conforme a la Directriz 482.9001 – Operación de instalaciones de señalización, Generalidades –, apartado 5, Aseguramiento temporal de agujas y cruces planos, quien haya asegurado una aguja con corazón móvil mediante cierre manual debe cerciorarse de que la punta de corazón móvil coincide con la posición de las lengüetas. Dicha coincidencia no se daba aquí. La ruta para el EZ 51521 no estaba, por tanto, asegurada.
 ² Fuente: DB Netz AG, elaborado por la BEU
 
-
 ## Página 9
 
-Las dos técnicas de mando y seguridad estaban activas en su ámbito de trabajo desde el año 2011, pero no se les asignaba habitualmente a la estación de Gröbers. No pudieron aportarse pruebas por parte del operador de infraestructura sobre su familiarización con la estación de Gröbers. Según sus declaraciones, dichas familiarizaciones se realizaban de forma continua y de acuerdo con las modificaciones de las instalaciones existentes, sin prueba escrita. En las formaciones acreditadas de las técnicas de mando y seguridad asignadas, las agujas con punta de corazón móvil no se habían tratado durante los tres años anteriores al suceso. En sus lugares de trabajo habituales no existían dichas agujas, por lo que tampoco estaban presentes en la práctica diaria de su labor.
-Las técnicas de mando y seguridad, por tanto, posiblemente no reconocieron que la aguja 81W22 se tratara de una aguja de alta velocidad con punta de corazón móvil. No colocaron el corazón móvil en posición derecha ni lo aseguraron con un cierre manual. No obstante, atendiendo a las características externas de dos motores y dos señales de aguja en la aguja, y a su cualificación y función como técnicas de mando y seguridad, en principio sí podrían haber reconocido de qué tipo especial de construcción de aguja se trataba.
-Debido a la notificación de las técnicas de mando y seguridad de que la aguja estaba asegurada y cerrada, el puesto de mando responsable permitió que el tren circulara con la señal adicional 7 (señal de precaución) en la señal de entrada 81B.
-El borde de la rueda del primer vehículo que circulaba detrás de la locomotora en la composición se encontraba, en el momento de la llegada de los equipos de intervención, entre el carril de la aguja y la punta de corazón móvil de la aguja. Esto permite concluir que la punta de corazón móvil sí había corrido en dirección al carril de la aguja izquierdo, pero no había alcanzado la posición final. En el hueco entre el carril de la aguja y la punta de corazón móvil entraron los bordes de rueda de la locomotora y de los vehículos que seguían al tren EZ 51521 y empujaron la punta de corazón móvil a la posición intermedia.
-La causa del descarrilamiento del tren fue un error de trabajo de las dos técnicas de mando y seguridad. Presumiblemente no reconocieron que la aguja 81W22 se tratara de
+que la aguja móvil de la aguja de desvío se ha asegurado mediante cierre manual, para convencerse de que la punta de la aguja móvil coincide con la posición de los rieles de aguja. Dicha coincidencia no se daba aquí. La vía para el EZ 51521 no estaba, por tanto, asegurada. Los dos técnicos de señalización y seguridad estuvieron activos en su área de trabajo desde el año 2011, pero no se les empleó regularmente en la estación de Gröbers (Bf Gröbers). Por parte del gestor de infraestructura no pudieron aportarse pruebas de su instrucción sobre el emplazamiento en la estación de Gröbers. Según sus declaraciones, dichas instrucciones se impartían de forma continua y en función de las modificaciones de las instalaciones existentes, sin prueba escrita. En las formaciones documentadas de los técnicos de señalización y seguridad empleados, las agujas con punta de aguja móvil elástica no se habían tratado en los tres años anteriores al suceso. En sus lugares de empleo habituales no existían dichas agujas, de modo que tampoco estaban presentes en la práctica diaria de su trabajo. Los técnicos, por tanto, posiblemente no reconocieron que la aguja 81W22 se tratara de una aguja de alta velocidad con punta de aguja móvil elástica. No colocaron la aguja móvil elástica en posición derecha ni la aseguraron con un cierre manual. No obstante, atendiendo a las características externas de dos motores y dos señales de aguja en la aguja, y a su cualificación y función como técnicos de señalización y seguridad, en principio podrían haber reconocido de qué forma especial de aguja se trataba.
 
+A raíz de la comunicación de los técnicos de señalización y seguridad de que la aguja estaba asegurada y cerrada, el jefe de maniobras (Fdl) competente dejó pasar la circulación del tren con la señal adicional 7 (señal de precaución) en la señal de entrada 81B.
+
+El aro de la rueda del primer vehículo que circulaba detrás de la locomotora en la composición del tren se encontraba, en el momento de la llegada de los equipos de intervención, entre el riel de aguja y la punta de la aguja móvil elástica de la aguja. Esto permite concluir que la punta de la aguja había girado en dirección al riel de aguja izquierdo, pero no había alcanzado la posición final. En el hueco entre el riel de aguja y la punta de la aguja entraron los aros de las ruedas de la locomotora y de los vehículos que seguían al tren EZ 51521 y empujaron la punta de la aguja a la posición central.
+
+La causa del descarrilamiento del tren fue un error de trabajo de los dos técnicos de señalización y seguridad. Presumiblemente no reconocieron que la aguja 81W22 se tratara de
 
 ## Página 10
+
 
 una con punta de corazón móvil y, por tanto, no observaron las disposiciones al respecto conforme a la Directriz 482.9001.
 ## 3 Medidas adoptadas hasta la fecha

@@ -10,12 +10,13 @@ chars: 6772
 ratio_longitud: 1.00
 tokens_in: 3274
 tokens_out: 1829
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Expediente:
@@ -32,41 +33,40 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 5702 |
 | Kilómetro: | 441 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Descarrilamiento el 31 12 2025 entre la Estación de Rosenheim y la Parada de Pfraundorf (Inn) 2 . . ...... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Descarrilamiento el 31122025 entre la estación de Rosenheim y la parada de Pfraundorf (Inn) 2 . . ...... |
 |  | 21 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 22 Consecuencias 3 . ...................................................................................................................................... |
 |  | 23 Estado de la investigación 3 . ........................................................................................................... |
 |  | 24 Problemas de seguridad identificados 3 . .......................................................................................... |
 ## I. 
 ## Índice de modificaciones 
-Modificación 
-Estado 
-I 
-
+Modificación 
+Estado 
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza sobre la base del § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, en todas las investigaciones formalmente abiertas y en curso por una oficina de investigación, se debe emitir un informe intermedio, al menos en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado de investigación actual, puede verse modificada en cualquier momento y no pretende ser exhaustiva. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar una responsabilidad ni para aclarar cuestiones de responsabilidad civil u otros derechos civiles, y se llevan a cabo con independencia de cualquier investigación judicial.
 El accidente presente podría constituir un suceso dentro de una serie de accidentes en el sistema ferroviario europeo. Esta serie se refiere a roturas de ruedas de bloque en vagones de carga y es objeto de amplias consultas de expertos desde hace varios años. Por ello, la BEU ha decidido publicar un informe intermedio antes del primer aniversario del suceso.
 Página 1 de 3
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento el 31.12.2025 entre la Estación de Rosenheim y 
 ## la Parada de Pfraundorf (Inn) 
@@ -81,8 +81,8 @@ Entre los participantes en el suceso se encontraban, entre otros:
  el servicio responsable del mantenimiento en la función de prestación de mantenimiento (Cosmef WM)
 Página 2 de 3
 
-
 ## Página 6
+
 
 ### 2.2 Consecuencias 
 Como consecuencia del descarrilamiento se produjeron daños considerables en la infraestructura y en el vagón portacontenedores afectado, incluida la carga. La carcasa exterior del contenedor de gas fue dañada por piezas voladoras. No se produjo derrame de carga. No hubo personas heridas ni fallecidas.

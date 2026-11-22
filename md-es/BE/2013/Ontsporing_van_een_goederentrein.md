@@ -10,13 +10,13 @@ chars: 178078
 ratio_longitud: 1.04
 tokens_in: 70222
 tokens_out: 49732
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 12: cifras largas: faltan 2/9 (22%)", "página 29: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 5: cifras cortas: 4/4", "página 9: cifras cortas: 1/2", "página 32: cifras cortas: 1/31", "página 36: original bilingüe: se compara contra el idioma principal (NL)", "página 38: cifras cortas: 1/34", "página 39: original bilingüe: se compara contra el idioma principal (NL); ratio 1.85"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Órgano de Investigación de Accidentes e Incidentes Ferroviarios
 Informe de investigación de seguridad
@@ -27,15 +27,15 @@ HEVER - 19 DE FEBRERO DE 2013
 HEVER - 19 DE FEBRERO DE 2013
 mayo de 2014
 
-
 ## Página 2
+
 
 Versión original: 05/2014
 Versión 1: 09/2014
 Cualquier uso de este informe con un fin distinto de la prevención de accidentes, por ejemplo, para determinar responsabilidades y, a fortiori, culpas individuales o colectivas, estaría en total contradicción con los objetivos de este informe y con los métodos empleados para su elaboración, la selección de los hechos recogidos, la naturaleza de las preguntas planteadas y los conceptos de los que hace uso y a los que es ajeno el concepto de responsabilidad. Las conclusiones que se pudieran extraer constituirían, por tanto, un abuso en el sentido literal de la palabra. En caso de contradicción entre determinadas palabras y términos, es necesario remitirse a la versión neerlandesa.
 
-
 ## Página 3
+
 
 ## ÍNDICE
 1.	
@@ -133,10 +133,10 @@ los dispositivos de grabación automáticos
 3.5.2.	 Intercambio de mensajes orales relacionados con el accidente,  
 incluida la documentación procedente de las grabaciones	
 3.5.3.	 Medidas adoptadas para proteger y preservar el lugar del accidente	
-3.6.	 Acontecimientos anteriores de la misma naturaleza	
-
+3.6.	 Acontecimientos anteriores de la misma naturaleza
 
 ## Página 4
+
 
 4. 
 ANÁLISIS Y CONCLUSIONES 
@@ -183,6 +183,7 @@ ANEXOS
 78
 
 ## Página 5
+
 
 ## DEFINICIONES
 Eje	
@@ -253,10 +254,10 @@ VVESI
 Wielflens 	
 		Es el borde saliente de la rueda que se encuentra en el lado interior del riel.
 Wielstel	
-		Conjunto completo de eje y dos ruedas. 
-
+		Conjunto completo de eje y dos ruedas.
 
 ## Página 6
+
 
 1. Resumen
 El martes 19 de febrero de 2013 a las 16 h 43 min, el tren de mercancías E47582, compuesto por 22 vagones cargados de cobre, descarrila en la línea 53, vía B, en la derivación de Hever. En total, descarrilan 6 vagones, concretamente los vagones 14 a 19.
@@ -277,6 +278,7 @@ La causa indirecta es el no descubrimiento a tiempo de las grietas de fatiga, lo
 
 ## Página 7
 
+
 De los registros procedentes del taller donde se realizó la última revisión de la vagoneta 14 en 2009, no se desprende ni que por un lado se haya eliminado el recubrimiento del eje y que posteriormente se haya vuelto a aplicar; ni que, por otro lado, durante la inspección, tras la eliminación del recubrimiento, se hayan detectado corrosión y golpes en el cuerpo del eje.
 La corrosión y los golpes en el eje pueden provocar grietas y, con ello, reducir en última instancia la resistencia a la fatiga.
 Además, en diversas inspecciones y revisiones visuales realizadas en distintos lugares de la UE desde 2009 no se han detectado anomalías en el eje delantero de la vagoneta 14. Esto no resulta del todo ilógico, dado que los golpes y la corrosión del eje roto de la vagoneta 14 se encontraban, en principio, bajo el recubrimiento.
@@ -290,6 +292,7 @@ Al verificar las inscripciones de carga de los vagones de mercancías del tren E
 
 ## Página 8
 
+
 Como consecuencia de las observaciones realizadas tras el accidente en los talleres en las vagonetas 13 y 14, tal como se ha descrito anteriormente, el propietario polaco de los vagones de mercancías realizó una auditoría de calidad en el taller que ejecuta las revisiones para él mediante subcontratación. Los resultados de esta auditoría de calidad llevaron al propietario a decidir no realizar el mantenimiento en dicho taller.
 Además, se constató que la red GSM-R fue suprimida temporalmente poco después de Boortmeerbeek por una red GSM pública. Como consecuencia, la comunicación entre el control del tráfico, Traffic Control, y el maquinista del tren de mercancías se interrumpió brevemente. Como resultado de ello, la retención del tren solo pudo aplicarse 1667 m más adelante.
 Las chispas que otro maquinista detectó en la parte trasera del tren podían tener diversas causas. Se interpretaron como si provinieran de un freno fijo.
@@ -299,6 +302,7 @@ En relación con la posible interacción entre las redes UMTS con banda de 900 M
 • la ubicación de las antenas GSM públicas en relación con el uso de la red GSM-R en la infraestructura ferroviaria.
 
 ## Página 9
+
 
 El organismo de investigación ha formulado tres recomendaciones como consecuencia de este accidente.
 Una primera recomendación dirigida a la autoridad nacional de seguridad se refiere a la supervisión de las inspecciones, el mantenimiento y la revisión de los ejes y los conjuntos de ruedas de los vagones de mercancías que se realizan en las entidades responsables del mantenimiento (ECM). Más concretamente, la recomendación se refiere a los procedimientos, los registros, el control y la trazabilidad del mantenimiento realizado en los talleres bajo la supervisión de las entidades certificadoras.
@@ -311,6 +315,7 @@ Con el objetivo de extraer lecciones de este accidente y mejorar la seguridad de
 	El destinatario de una recomendación es la autoridad supervisora, que tiene competencias sobre determinados actores; para el sector ferroviario, esta es la autoridad nacional de seguridad, y para los operadores GSM públicos, el regulador de telecomunicaciones. Los actores, bajo la autoridad supervisora, deben implementar finalmente la recomendación.
 
 ## Página 10
+
 
 ## 2. Hechos de carácter general
 ### 2.1. Los hechos
@@ -327,8 +332,8 @@ Tras la notificación del descarrilamiento, el tráfico ferroviario entre Malina
 Los daños en la infraestructura son considerables; no hay heridos ni fallecidos.
 Como consecuencia del descarrilamiento, el tráfico ferroviario entre Malinas y Lovaina se interrumpe durante varios días.
 
-
 ## Página 11
+
 
 ### 2.1.2. Descripción del lugar
 El descarrilamiento tiene lugar en el cambio 03U de la línea 53, vía B, en la bifurcación en Y hacia la línea 27B.
@@ -338,28 +343,28 @@ El lugar del descarrilamiento se encuentra en las coordenadas geográficas:
 Imagen 1a: Mapa general - lugar del accidente
 Imagen 1b: Mapa detallado del lugar del accidente
 
-
 ## Página 12
 
-### 2.1.3. Los servicios de emergencia
-No hay víctimas mortales, no hay mercancías peligrosas a bordo; hay daños materiales en el material rodante y en la infraestructura ferroviaria. No se activa la emergencia 112 ni se declara el plan de catástrofes.
-La policía municipal y la policía ferroviaria acuden al lugar y realizan las constataciones pertinentes.
+### 2.1.3. De hulPDiensten
+No hay víctimas que lamentar, no hay mercancías peligrosas a bordo, hay daños materiales en el material rodante y en la infraestructura ferroviaria. No se solicita el servicio de emergencias 112 y no se declara ningún plan de emergencia.
+La policía municipal y la policía ferroviaria acuden al lugar y realizan las comprobaciones necesarias.
 ### 2.1.4. La decisión de abrir una investigación
-El descarrilamiento en Hever cumple los criterios de un accidente tal como se definen en el Art. 45 §1 de la Ley relativa a la seguridad de explotación de las vías férreas de 19 de diciembre de 2006², y, por extensión, el Art. 4 §1, §5 del Real Decreto por el que se establecen algunas normas relativas a las investigaciones de accidentes e incidentes en el ferrocarril de 16 de enero de 2007³.
-El Organismo de Investigación adopta su decisión de abrir una investigación el 19 de febrero de 2013.
-La decisión se confirma a las partes interesadas mediante carta de 25 de febrero de 2013.
-La notificación a la Agencia Ferroviaria Europea se remite el 25 de febrero de 2013.
-Dado que en el accidente están implicados vagones registrados en Polonia, se informa al Organismo de Investigación polaco⁴ y se establecen contactos con el titular de los vagones polaco.
+La descarrilación en Hever responde a los criterios de un accidente tal como se define en el Art. 45 §1 de la Ley relativa a la seguridad de explotación de las ferrocarriles de 19 de diciembre de 20062 y, por extensión, al Art. 4 §1, §5 del Real Decreto por el que se establecen ciertas normas relativas a las investigaciones de accidentes e incidentes en las ferrocarriles de 16 de enero de 20073.
+El Organismo de Investigación toma su decisión de abrir una investigación el 19 de febrero de 2013.
+La decisión se confirma a las partes interesadas en una comunicación de 25 de febrero de 2013.
+La notificación a la European Railway Agency se transmite el 25 de febrero de 2013.
+Dado que en el accidente están implicados vagones matriculados en Polonia, se pone en conocimiento del Organismo de Investigación polaco4 y se establecen contactos con el titular de vagones polaco.
 2 
- Ley de 19 de diciembre de 2006, art. 45. Además de investigar accidentes graves, el organismo de investigación también puede llevar a cabo investigaciones sobre accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las deficiencias técnicas en los subsistemas de carácter estructural o en los componentes de interoperabilidad del sistema ferroviario de alta velocidad o convencional.
+ Ley de 19 de diciembre de 2006 art 45. Además de investigar accidentes graves, el organismo de investigación también puede llevar a cabo investigaciones sobre accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidos defectos técnicos en los subsistemas de naturaleza estructural o en los componentes de interoperabilidad del sistema ferroviario de alta velocidad o convencional.
 3 
- Real Decreto de 16 de enero de 2007, art. 4. Sobre la base del artículo 45 de la ley, el organismo de investigación, al decidir si procede o no investigar un accidente o un incidente que, bajo cualquier circunstancia, podría haber conducido a un accidente grave, incluidas las deficiencias técnicas en los subsistemas de carácter estructural o en los componentes de interoperabilidad del sistema ferroviario de alta velocidad o convencional, tiene en cuenta:
+ RD de 16 de enero de 2007 art 4. Sobre la base del artículo 45 de la ley, el organismo de investigación, en su decisión de proceder o no a la investigación de un accidente o incidente que, en circunstancias algo diferentes, podría haber conducido a un accidente grave, incluidos defectos técnicos en los subsistemas de naturaleza estructural o en los componentes interoperables del sistema ferroviario de alta velocidad o convencional, tiene en cuenta:
 1° la gravedad del accidente o incidente;
-5° el grado en que una investigación contribuirá a la mejora de la seguridad ferroviaria y a su prevención.
-La decisión de proceder a la investigación la adopta el organismo de investigación de manera autónoma.
- Ley de 19 de diciembre de 2006, art. 48: Los organismos de investigación de otro Estado miembro de la Unión Europea serán invitados a participar en una investigación cuando una empresa ferroviaria establecida en el Estado miembro, con licencia de dicho Estado miembro, esté implicada en el accidente o incidente.
+5° la medida en que una investigación contribuirá a mejorar la seguridad en el ferrocarril y a prevenirla.
+La decisión de proceder a la investigación es adoptada de forma autónoma por el organismo de investigación.
+ Ley de 19 de diciembre de 2006 art 48: Los organismos de investigación de otro Estado miembro de la Unión Europea son invitados a participar en una investigación cuando una empresa ferroviaria establecida en el Estado miembro con una licencia de dicho Estado miembro está implicada en el accidente o incidente.
 
 ## Página 13
+
 
 ### 2.1.5.	 Composición del equipo de investigación
 Internamente, el equipo de investigación es constituido por el investigador principal y está compuesto por un investigador encargado de la investigación, con el apoyo de los demás investigadores del Organismo de Investigación.
@@ -382,10 +387,10 @@ Los vagones del 12 al 22, incluida la carga, se ponen temporalmente a disposici�
 Los vagones del 13 al 19 se inspeccionan ulteriormente en el lugar de los hechos y en la vía de clasificación próxima en Muizen. 
 La carga de los vagones descarrilados del 13 al 19 se transborda a otros vagones de mercancías. 
 Estos otros vagones de mercancías, junto con los vagones 12, 20, 21 y 22, se transportan a Gent-Zeehaven y se pesan en bruto. Tras el pesaje, los vagones y su carga se liberan en Gante. 
-El Organismo de investigación retiene en custodia el eje roto y las demás piezas (ejes intactos, bogies, chasis) del vagón 14 para su ulterior estudio. 
-
+El Organismo de investigación retiene en custodia el eje roto y las demás piezas (ejes intactos, bogies, chasis) del vagón 14 para su ulterior estudio.
 
 ## Página 14
+
 
 Los días 20, 21 y 22 de febrero, el Organismo de Investigación realiza la inspección de la vía en el lugar de los hechos y aguas arriba hasta Holsbeek, a más de 17 km del lugar del descarrilamiento. 
 Las operaciones de recuperación se supervisan durante el día. 
@@ -414,6 +419,7 @@ El método de investigación consiste en:
 • Cuando sea posible y necesario, el Organismo de Investigación formula recomendaciones de seguridad que puedan derivarse del accidente. Las recomendaciones de seguridad que formula el Organismo de Investigación son «orientadas a objetivos», con el fin de mejorar la seguridad en el ferrocarril.
 
 ## Página 15
+
 
 • Las recomendaciones de seguridad se remiten a la DVIS, que supervisa las acciones adoptadas por las partes interesadas para dar cumplimiento a las recomendaciones formuladas.
 • Antes de publicar el informe definitivo, se envía un informe preliminar a todas las partes involucradas en el accidente, a fin de que puedan formular sus comentarios. Dichos comentarios se remiten de nuevo al Organismo de Investigación, que puede tenerlos en cuenta o no, de manera autónoma, en el informe final.
@@ -447,8 +453,8 @@ Una serie de hechos observados durante el descarrilamiento motivan la investigac
 
 Ley del 19 de diciembre de 2006, art. 5 § 14 «sistema de gestión de la seguridad»: la organización y los reglamentos establecidos por el gestor de la infraestructura ferroviaria o por una empresa ferroviaria para garantizar la seguridad de sus actividades.
 
-
 ## Página 16
+
 
 ### 2.1.6.5. Información a las Partes Interesadas 
 Durante la investigación, las partes interesadas se informan periódicamente sobre el avance de la investigación y sobre las conclusiones provisionales del Organismo de
@@ -467,6 +473,7 @@ Esta consulta no tiene como objetivo modificar el informe elaborado por el Organ
 Por lo tanto, se informa a las partes de que determinadas de sus observaciones pueden ser aceptadas e incluidas en el informe, mientras que otras, importantes, pero contrarias a la visión del Organismo de Investigación, pueden figurar en un anexo del informe.
 
 ## Página 17
+
 
 ### 2.2.	 Las circunstancias del suceso
 ### 2.2.1.	 Actores implicados
@@ -498,8 +505,8 @@ Todos los vagones son del mismo tipo Simms 425SA y están cargados con cobre.
 Véase la lista de carga y el conocimiento de embarque en el anexo 1.
  H-ICTRA: a finales de 2013, en el marco de la reestructuración del sector ferroviario, pasó a formar parte del servicio 1-ICT 12 de Infrabel.
 
-
 ## Página 18
+
 
 ### 2.2.3. descripción de la infraestructura y del equipo de señalización
 ### 2.2.3.1. El equipo de señalización:
@@ -527,6 +534,7 @@ El «GSM for Railways» (GSM-R) es una norma internacional para la red de radio 
 La red de radio digital GSM-R funciona dentro de las mismas frecuencias de banda en Europa, asignadas por la Comisión Europea.
 
 ## Página 19
+
 
 Esto permite realizar llamadas grupales, gestionar la prioridad de las llamadas y grabar todas las conversaciones.
 La red ferroviaria está completamente equipada con la red GSM-R.
@@ -575,8 +583,8 @@ Se restablece la tensión en la catenaria entre Lovaina y Haacht; los trenes de 
 
 No se declaró ningún plan de emergencia. La policía ferroviaria se desplazó al lugar y delimitó la zona del accidente, a partir del paso a nivel 8, para el público.
 
-
 ## Página 20
+
 
 ### 2.3. Muertos, heridos y daños materiales
 
@@ -605,11 +613,12 @@ El descarrilamiento se produce en pleno día a las 16:43; el cielo está parcial
 
 No se observan diferencias de altitud significativas en el trayecto del descarrilamiento.
 
-
 ## Página 21
 
 
+
 ## Página 22
+
 
 3.  Resumen de la  
 ## investigación
@@ -644,6 +653,7 @@ Directiva Europea 2001/16/CE, de 19 de marzo de 2001, relativa a la interoperabi
 
 ## Página 23
 
+
 ## 3.2.1.1.	
 ### Construcción y reconstrucción de vagones de mercancías
 La ITS8 describe en su anexo M las prescripciones a las que deben cumplir los ejes en la construcción:
@@ -669,8 +679,8 @@ La certificación se realiza por los denominados Organismos Notificados que est�
 Normas aplicables en el material rodante CR – Vagones de mercancías ITS (2006/861/CE) «publicación de la ERA del 13/11/2008.
 10		Punto 4.2.8.Decisión de 28 de julio de 2006 (2006/861/CE) relativa a las especificaciones técnicas de interoperabilidad del subsistema material rodante – vagones de mercancías del sistema ferroviario transeuropeo convencional
 
-
 ## Página 24
+
 
 Dada la rapidez con la que debía implementarse ese sistema de certificación, 10 países acordaron el 14/05/2009 un Memorándum de Entendimiento para desarrollar un sistema de certificación basado en un documento de la ERA. Los certificados que emanan de este sistema de certificación son válidos hasta como máximo el 31/05/2015. Bélgica es uno de los 10 países signatarios, Polonia no. Desde el 31/05/2012 no se pueden emitir nuevos certificados que emanen de este MoU, sino únicamente certificados conforme al Reglamento Europeo 2011/445/CE de 10/05/201111.
 Las funciones de la ECM son:
@@ -694,6 +704,7 @@ Polonia, como miembro de la Unión Europea al igual que Bélgica, está obligada
 
 ## Página 25
 
+
 ### 3.2.1.3.	Talleres en general
 Los talleres que se utilizan para el mantenimiento de los vagones bajo la gestión de la ECM deben:
 • Cumplir con los criterios organizativos descritos en el capítulo IV del anexo III del Reglamento 2011/445/CE. Estos criterios son, mejora continua - un enfoque estructurado para analizar la información procedente del seguimiento periódico, las auditorías y otras fuentes relevantes, y extraer conclusiones de los resultados con el fin de adoptar medidas preventivas y correctivas para mantener o mejorar el nivel de seguridad.
@@ -714,8 +725,8 @@ Las siguientes tolerancias se aplican como máximo durante el control magnoscóp
 Las hendiduras agudas dentro de la tolerancia, denominadas picaduras, se aplanan sin reducir el diámetro mínimo del eje.
 Los ejes de los vagones de mercancías de NMBS Logistics no se recubren durante la construcción, la modificación o el mantenimiento.
 
-
 ## Página 26
+
 
 PKP Cargo encarga la revisión de los vagones de mercancías, entre otros, mediante subcontratación.
 Los procedimientos aplicados en esos talleres subcontratados son en parte procedimientos propios impuestos por PKP Cargo y en parte procedimientos armonizados basados en la VPI.
@@ -739,6 +750,7 @@ La creación del EVIC tiene como objetivo obtener una visión general de los def
 Cada eje que sea rechazado como resultado de una inspección visual estará sujeto a un ensayo no destructivo.
 
 ## Página 27
+
 
 Las inspecciones visuales realizadas en los ejes se documentan con material fotográfico. Los resultados incluidos en el EVIC deben garantizar la trazabilidad de los conjuntos de ruedas, la llamada «European Wheelset Traceability» (EWT).
 
@@ -777,8 +789,8 @@ A raíz de las constataciones de estos controles, se establece el plan de manten
 
 Además, pueden producirse intervenciones urgentes derivadas de incidencias detectadas fuera de los controles periódicos.
 
-
 ## Página 28
+
 
 De la información facilitada por el gestor de la infraestructura se desprende que los dispositivos de vía y las vías fueron sometidos a mantenimiento ordinario y no se detectaron desviaciones que de ningún modo influyeran en los acontecimientos del descarrilamiento. Por esta razón, el organismo de investigación no entra en detalle en este estudio sobre el sistema de gestión del mantenimiento y control de las vías.
 
@@ -803,42 +815,28 @@ Por consiguiente, se asigna una prioridad a los «incidentes». Existen 4 nivele
 
 El usuario notificará la avería al Call Center de ICTRA. En caso de GSM-R, el seguimiento posterior se realizará a través del NOC (Netwerk Operation Center), que podrá intervenir directamente o recurrir a técnicos locales para una intervención en el terreno, a una persona especializada de la BU Rail Communications o, eventualmente, a un técnico del proveedor cuando sea necesario el uso de sus servicios, de acuerdo con lo establecido en un contrato de mantenimiento.
 
-
 ## Página 29
 
 ### Mantenimiento preventivo.
-
-El mantenimiento preventivo, al igual que algunas intervenciones de mantenimiento correctivo, se documenta. Así, las estaciones base de la red de radio forman parte de una inspección anual.
-
-Todas las intervenciones, tanto correctivas como preventivas, se planifican a través de un sistema SAP, mediante el cual el técnico recibe órdenes de trabajo para estas tareas.
-
+El mantenimiento preventivo se documenta igual que una serie de intervenciones de mantenimiento correctivo. Así, las estaciones base de la red de radio forman parte de una revisión anual.
+Todas las intervenciones, tanto correctivas como preventivas, se planifican mediante un sistema SAP, por el que el técnico recibe órdenes de trabajo para estas tareas.
 ### Documentación.
-
-Los procedimientos y la documentación son accesibles en línea a través de un sitio SharePoint.
+Los procedimientos y la documentación están accesibles en línea a través de un sitio SharePoint.
 Ej.: GSM-R / Operation & Maintenance / Procedures / Technician.
 Todos los interesados encuentran aquí la documentación necesaria.
-
-Ciertos documentos son específicos para los técnicos en el terreno, para el personal del NOC y para los especialistas en sistemas (p. ej., procedimiento de copia de seguridad y restauración en los sistemas centrales).
-
+Ciertos documentos son específicos para los técnicos sobre el terreno, para el personal del NOC y para los especialistas de sistemas (p. ej., procedimiento de backup y restore en los sistemas centrales).
 ### Informes
-
-A raíz del mantenimiento preventivo, los técnicos elaboran informes que deben cargarse en el sitio SharePoint.
-
-En caso de incidentes, se crean tickets de «trouble» en una aplicación informática (Peregrine SM 7), con lo que se gestiona la resolución de la avería.
-
-Mensualmente se realiza una información con el fin de verificar el cumplimiento de los SLA.
-
+Con motivo del mantenimiento preventivo, los técnicos elaboran informes que deben cargarse en el sitio Sharepoint.
+En caso de incidentes se crean "trouble" tickets en una aplicación informática (Peregrine SM 7), con los que se gestiona la resolución de la avería.
+Mensualmente se elabora un informe con el fin de verificar el cumplimiento del SLA.
 ### Certificación ISO
-
-Mediante la certificación ISO 900112 de las Operations Service Units (OSU) «Operations», «Field Work Force» y «Access», ya se ha obtenido indirectamente una certificación para las actividades operativas.
-
-Con el fin de obtener una certificación para todo el producto GSM-R, también deberán someterse a certificación las actividades de estudio y despliegue.
-
-Se prevé obtener una certificación para las actividades de ICTRA antes de la puesta en servicio de las nuevas líneas ETCS2, ya que, con vistas a la homologación de los sistemas en ese momento, un certificado ISO será un requisito.
-
-12 A finales de 2013, H-ICTRA 1 pasó a denominarse I_CT 1 y fueron certificadas según ISO 9001
+Debido a la certificación ISO 9001¹² de las Unidades de Servicio de Operaciones (OSU) "Operations", "Field Work Force" y "Access", en la práctica ya se había obtenido indirectamente una certificación de las actividades operativas.
+A fin de obtener una certificación para el conjunto del producto GSM-R, las actividades de estudio y despliegue también deberán incorporarse.
+La intención es obtener una certificación para las actividades de ICTRA antes de la entrada en servicio de nuevas vías ETCS2, ya que con miras a la homologación de los sistemas en ese momento un certificado ISO será un requisito.
+¹² A finales de 2013, H-ICTRA 1 pasó a I_CT 1 y fue certificada ISO 9001
 
 ## Página 30
+
 
 3.3. normas y normativa
 En el marco de esta investigación se examinan las normas y la normativa relativas a los hechos observados del accidente.
@@ -860,8 +858,8 @@ Hasta junio de 2006, solo existían unas pocas normas mínimas para la inspecci�
 Desde 2006, el RIV fue derogado y sustituido por el GCU, haciendo su aparición los conceptos de titular y entidad responsable del mantenimiento (ECM).
 13 En 2006, esta ficha UIC fue sustituida por las normas europeas EN 13103 y EN 13104.
 
-
 ## Página 31
+
 
 ### 3.3.2. normativa europea
 Desde junio de 2006, las ETI europeas para vagones de mercancías entraron en vigor, tal como se establece en la Directiva14.
@@ -876,6 +874,7 @@ Las normas relativas a la cobertura de la red GSM-R están establecidas en la ET
 15 Decisión de 28 de julio de 2006 (2006/861/CE) relativa a las especificaciones técnicas de interoperabilidad del subsistema «material rodante - vagones de mercancías» del sistema ferroviario transeuropeo convencional.
 
 ## Página 32
+
 
 3.3.3. normativa belga
 ### 3.3.3.1. construcción y mantenimiento de vagones de mercancías
@@ -899,8 +898,8 @@ Esta VVESI 16 distingue dos tipos de inspecciones: la inspección técnica compl
 
 16 Véase el anexo 6: Inspecciones de los trenes de mercancías
 
-
 ## Página 33
+
 
 Ambas inspecciones tienen como objetivo detectar irregularidades en la composición del tren.
 Las principales son el control visual de:
@@ -937,6 +936,7 @@ El maquinista debe declarar su tren en emergencia:
 
 ## Página 34
 
+
 ### 3.3.6. normas para el mantenimiento de vagones de mercancías
 Véase 3.2.1 sistemas de gestión, construcción, control y mantenimiento de vagones de mercancías
 ### 3.3.7. otras normas, como por ejemplo normas de explotación, normas locales, obligaciones del personal, prescripciones de mantenimiento y normas 
@@ -950,8 +950,8 @@ En la fecha del accidente, este acuerdo de confianza había sido revisado para s
 En cualquier caso, al Organismo de Investigación solo se pudo presentar el documento de inspección polaco de la estación de origen.
 17 El Apéndice XII del RIV se ha incorporado al Anexo 9 de las GCU «Condiciones técnicas para la transferencia de vagones entre empresas ferroviarias»
 
-
 ## Página 35
+
 
 ### 3.4. funcionamiento del material rodante y de las instalaciones técnicas
 ### 3.4.1. sistema de señalización y sistema de control-instrucción, incluidas las 
@@ -967,8 +967,8 @@ Ciertos datos del viaje se registran en la cinta Eva Telocband, de modo que pued
 • la velocidad.
 En la imagen 3 se muestran las grabaciones del viaje del tren de mercancías descarrilado, situadas en los puntos donde se encontraba la locomotora del tren en ese momento.
 
-
 ## Página 36
+
 
 0 
 Detención de la locomotora tras el descarrilamiento en el cruce 03U
@@ -999,8 +999,8 @@ Dirección de circulación E47582
 6
 Imágenes 3: Detalle de las grabaciones del viaje inmediatamente antes del descarrilamiento y localización en la SSP
 
-
 ## Página 37
+
 
 De las grabaciones del viaje, detalle de la imagen 3, se puede deducir que los momentos anteriores al descarrilamiento y hasta el propio descarrilamiento, sucesivamente: 
 • El maquinista ha:
@@ -1012,8 +1012,8 @@ De las grabaciones del viaje, detalle de la imagen 3, se puede deducir que los m
 • el frenado se interrumpe sin reanudar la tracción y la curva de velocidad desciende exponencialmente en ese momento.
 Además, cabe destacar que las indicaciones temporales de las grabaciones van una hora por detrás de la hora real.
 
-
 ## Página 38
+
 
 ## 3.4.1.1. 
 comportamiento del tren de mercancías entre el desvío de Holsbeek y el desvío de Hever (imágenes 3 y 4)
@@ -1033,8 +1033,8 @@ El frenado normal del tren de mercancías se aplica con una desaceleración de 0
 ± 500 m antes del cruce O3U.
 Durante el frenado, la desaceleración aumenta a 0,53 m/s². El momento en que la desaceleración aumenta a 0,53 m/s² coincide con el momento en que el vagón 14 pasa por el cruce O3U.
 
-
 ## Página 39
+
 
 Imagen 4b: Aceleración y desaceleración de E47582 desde antes de Aarschot hasta el descarrilamiento en Hever 
 7-6 Aceleración de 40km/h a 100km/h tras Y Dijlebrug → a=0,12m/s2
@@ -1042,6 +1042,7 @@ Imagen 4b: Aceleración y desaceleración de E47582 desde antes de Aarschot hast
 9-8 Desaceleración → a=-0,24m/s2 antes de la señal L-G.9 (señal restrictiva) antes de Y Holsbeek
 
 ## Página 40
+
 
 3.4.2. infraestructura
 ### 3.4.2.1. Detección de cojinetes de eje sobrecalentados y frenos 
@@ -1051,10 +1052,10 @@ El último detector de cojinetes sobrecalentados que superó el tren de mercanc�
 ### 3.4.2.2. infraestructura bifurcación de Holsbeek y puente del Dijle 
 En la bifurcación de Holsbeek, el tren de mercancías pasa de la vía A de la línea L35, a través del desvío 14G, hacia la línea L35/2 para continuar, a través del desvío 15G, hacia la vía B de la línea L35/1. En estos desvíos se registraron los primeros impactos. Tras las bifurcaciones de Holsbeek y del puente del Dijle, se recuperaron resortes de un bogie en un desvío en posición recta y en una señal en sentido contrario.
 Imagen 5 - Impacto en la regla de deslizamiento del desvío 14G, transición de la vía A de la línea L35
-Imágenes 6 - Impacto en la regla de deslizamiento del desvío 15G, donde se produce la bifurcación hacia la línea 35/2 y la línea 53/1 
-
+Imágenes 6 - Impacto en la regla de deslizamiento del desvío 15G, donde se produce la bifurcación hacia la línea 35/2 y la línea 53/1
 
 ## Página 41
+
 
 dirección de circulación
 Imagen 7a - Ubicaciones de hallazgo de los resortes
@@ -1066,8 +1067,8 @@ Ubicaciones de hallazgo
 resortes
 Imagen 7c - Ubicaciones de hallazgo de los resortes
 
-
 ## Página 42
+
 
 ### 3.4.2.3. infraestructura tramo desde la bifurcación del puente del Dijle hasta Hever 
 Tras los primeros impactos, el tren de mercancías siguió circulando más de 17 km y, en su recorrido, superó siete desvíos, de los cuales seis en posición recta y uno para cambio de vía (en la bifurcación del puente del Dijle), y cruzó 19 pasos a nivel (véase la imagen 8), antes de descarrilar en la bifurcación de Hever. 
@@ -1082,8 +1083,8 @@ Tras el paso a nivel 8, se observa daño en el dispositivo de expansión, en el 
 Imagen 10 - Dispositivo de expansión, impacto 
 en el perno del lado interior del raíl derecho
 
-
 ## Página 43
+
 
 El desvío O2U estaba instalado conforme a la ruta de viaje para circular recto hacia la vía B de la línea L53, es decir, en la posición derecha del desvío. La posición del desvío se modificó tras el accidente para realizar las obras de reparación. La posición original del desvío se muestra en la imagen EBP justo antes del descarrilamiento.
 Imagen 11 : AW02U instalado para el trayecto recto (derecha) del tren E47582 el 19/02/2013 a las 16h42
@@ -1093,10 +1094,10 @@ Imagen 12 - Impactos y rastros de traviesas
 En el raíl izquierdo, que cruza de la vía A de la línea L53 hacia la vía B, a la vía A de la línea 27 B/1, se observan impactos en los pernos que, por así decirlo, guían a lo largo del lado exterior del raíl que se cruza.
 Imagen 13 - Entre la regla de deslizamiento del desvío 02U y el cruce 03U 
 Más allá del cruce, se observan impactos graves en la regla de deslizamiento del segundo punto de cruce del raíl derecho, que proviene de la vía A. En el centro de la vía B de la línea 53 y en el centro de la vía A de la línea 27 B/1, se aprecian impactos considerables en el centro de las traviesas.
-Imagen 14 - Impactos graves más allá del cruce 
-
+Imagen 14 - Impactos graves más allá del cruce
 
 ## Página 44
+
 
 3.4.3. equipo de comunicación,
 De la primera llamada de Traffic Control al tren de mercancías se desprende que el contacto con el tren se perdió temporalmente, siendo necesaria una nueva llamada. De las mediciones realizadas in situ en Boortmeerbeek, únicamente por ICTRA, se desprende que la cobertura cumple las disposiciones del punto 3.2 «Cobertura» del documento EIRENE SRS V 15.3.0. El nivel de señal de la señal GSM-R es débil en este lugar, debido a una posible supresión causada por el alto nivel de señal de la red GSM pública18, una antena GSM pública está situada junto a la estación de Boortmeerbeek, a menos de 150 m de la línea 53. 
@@ -1110,6 +1111,7 @@ De la posicionamiento de las diferentes celdas GSM-R se deduce que el límite en
 18  E-GSM: red GSM extendida en la que el ancho de banda de frecuencias públicas se amplía hacia abajo en 10 MHz para mejorar el servicio público.
 
 ## Página 45
+
 
 ### 3.4.4. Material rodante
 ### 3.4.4.1. Pesaje de los vagones
@@ -1144,8 +1146,8 @@ Las inspecciones incluyeron:
 
 19 UIC ficha 510-1: carga máxima por eje para ejes con un diámetro de 160 mm es de 20 toneladas.
 
-
 ## Página 46
+
 
 ### Vagón 13 - Nº 31 51 464 4 511-1
 • El tirante de la unión entre el vagón 13 y el vagón 14 está doblado hacia la izquierda.
@@ -1168,8 +1170,8 @@ Muelle debilitado
 
 20 Las normas de mantenimiento VPI establecen que el juego entre el eje de la rueda y el conector del freno debe ser mayor que el juego entre el casquillo de eje y el bastidor del bogie en + 7 mm
 
-
 ## Página 47
+
 
 ### Vagón 14 - Nº 31 51 464 4 516-0
 El vagón 14 está gravemente dañado y está boca abajo a la izquierda junto a la vía B de L53.
@@ -1201,6 +1203,7 @@ Imágenes 18: Conector del freno desgastado del vagón 14
 
 ## Página 48
 
+
 ### Vagón 15 total y con 19
 • En el centro de los bogies se observan rastros de arrastre en estos vagones, tal como también se constató en los vagones 14 y 13.
 • Como se constató en varios vagones, las inscripciones presentes sobre la carga en estos vagones permiten que se exceda la masa bruta máxima total de 80 toneladas.
@@ -1220,8 +1223,8 @@ Constataciones en la zona de fractura del eje:
 • la zona en la superficie del eje está abrasada y deformada;
 • la superficie de fractura se ha mantenido prácticamente intacta y solo muestra zonas calentadas y fundidas hacia el borde; presenta claramente dos frentes de fatiga y zonas de fractura inmediata. En el centro se ha detectado un defecto.
 
-
 ## Página 49
+
 
 Zona abrasada y 
 calentada
@@ -1242,8 +1245,8 @@ Grasa marrón en
 el casquillo del eje
 Imágenes 20: Constataciones del laboratorio en la parte corta del bogie del bogie roto 01751231
 
-
 ## Página 50
+
 
 ### La parte larga del bogie
 Constataciones (imagen 22):
@@ -1273,8 +1276,8 @@ No se han detectado marcas de impacto "cráteres" en el cuerpo del eje de más d
 ### Conclusión del laboratorio sobre el origen de la fractura del eje
 La fractura del eje no se originó exactamente en el centro del eje. El origen de la fractura del eje es el resultado de un impacto agudo en el lugar de la fractura junto con la corrosión presente bajo el recubrimiento. El defecto de fabricación detectado en el centro del eje a lo largo de toda la longitud no ha tenido ninguna influencia en la reducción de la resistencia a la fatiga.
 
-
 ## Página 51
+
 
 Zona corroída 
 en la superficie de fractura
@@ -1297,6 +1300,7 @@ Imágenes 22: Constataciones del laboratorio en la parte larga del bogie del bog
 
 ## Página 52
 
+
 ### 3.4.4.4. historial de mantenimiento de los vagones
 ### Vagón 13 con identificación 31 51 4644 511
 La última inspección gestionada por el titular tuvo lugar el 18/06/2009. En ella se inspeccionaron los bogies, se sustituyeron las bandas de rodadura de las ruedas, se inspeccionaron las cajas de eje y los escalones de eje, y se realizó un ensayo no destructivo (ensayo ultrasónico y ensayo magnético). No se detectaron defectos en los bogies. Se habría debido eliminar la pintura de los ejes durante esta revisión y, tras la inspección de los ejes, volver a aplicar dos capas de pintura. No se pudieron presentar las fichas de mantenimiento correspondientes a estas obras.
@@ -1311,11 +1315,12 @@ Estos tres vagones forman parte de un ciclo de inspección y mantenimiento de cu
 ### 3.4.4.5. historial de la carga de los vagones
 Según el historial de la carga de los vagones de mercancías descarrilados 13, 14 y 15, facilitado por PKP-Cargo, se observa que, cuando están cargados, se cargan hasta su capacidad máxima de carga. Además, se ha constatado que las indicaciones de la carga máxima en los vagones, en función del tipo de vía circulada, se adaptan en cada revisión de los vagones, esto está permitido con la condición de que no se pueda exceder la carga máxima por eje.
 
-
 ## Página 53
 
 
+
 ## Página 54
+
 
 ### 3.5. Documentación sobre el sistema operativo
 ### 3.5.1. medidas adoptadas por el personal para controlar el tráfico y la señalización
@@ -1339,8 +1344,8 @@ Punto de cruce 02T
 Vía libre establecida
 E47582 descarrilado
 
-
 ## Página 55
+
 
 ### Vías libres EBP establecidas para E47582
 16:40: Vía libre no establecida aún hacia el grupo de vías de Muizen
@@ -1351,6 +1356,7 @@ Imágenes 23: Visualización del funcionamiento de la señalización y de la per
 Además, se observa que los circuitos de vía del raíl adyacente A línea 53 se perturbaron menos de 1 minuto antes que los circuitos de vía del propio raíl circulado B. Los circuitos de vía perturbados provocan que las señales pasen automáticamente a rojo y, de este modo, se bloquee el tráfico.
 
 ## Página 56
+
 
 ### 3.5.2. Intercambio de mensajes verbales en relación con el accidente, incluida la documentación procedente de las grabaciones
 
@@ -1366,8 +1372,8 @@ La escena del accidente fue acordonada por los servicios de emergencia, la polic
 
 Las operaciones de recuperación se llevaron a cabo bajo la dirección de Leader Infrabel y en consulta con todas las partes interesadas.
 
-
 ## Página 57
+
 
 ### 3.6. Incidentes anteriores de la misma naturaleza
 
@@ -1399,8 +1405,8 @@ A nivel mundial, se ha producido recientemente un descarrilamiento en Australia 
 Causa: fatiga del eje de un vagón de mercancías.
 Lugar de la rotura: en el cuerpo del eje, ni en el centro ni junto a las ruedas.
 
-
 ## Página 58
+
 
 4. Análisis y conclusiones
 ### 4.1. Análisis de los acontecimientos
@@ -1431,8 +1437,8 @@ El bogie delantero gira completamente 180° alrededor de su eje, de modo que el 
 
 El siguiente vagón 15 se desliza entonces por la derecha junto al vagón 14, que ha girado y volcado, pasando junto a la vía; los vagones situados detrás, hasta el 19, descarrilan como consecuencia de ello.
 
-
 ## Página 59
+
 
 Línea 53
 Vagón 14 volcado
@@ -1442,8 +1448,8 @@ y girado
 
 Imágenes 24: Mecanismo del descarrilamiento
 
-
 ## Página 60
+
 
 Daños constatados en el vagón 14, suponiendo que no esté girado ni volcado
 Dirección de marcha del vagón 14
@@ -1451,8 +1457,8 @@ Barra de tracción trasera rota
 
 Imágenes 25: Daños constatados en el vagón 14
 
-
 ## Página 61
+
 
 ### Daños constatados en la parte delantera del vagón 15
 Dirección de marcha del vagón 15
@@ -1460,6 +1466,7 @@ Dirección de marcha del vagón 15
 Imágenes 26: Daños constatados en el vagón 15
 
 ## Página 62
+
 
 comportamiento de un bogie con un conjunto de ruedas roto
 De las constataciones descritas en el punto 3.4.1.1 se puede deducir que el conjunto de ruedas delantero del vagón 14 ya debía estar roto en la bifurcación de Holsbeek. La explicación de por qué el tren de mercancías no descarriló en ese punto reside en el comportamiento del conjunto de ruedas roto en relación con las vías, las velocidades, las aceleraciones y las desaceleraciones.
@@ -1487,8 +1494,8 @@ a = -0.046 m/s2
 400kN
 400kN
 
-
 ## Página 63
+
 
 La transición a un frenado de emergencia automático es una consecuencia causada por la desconexión de la línea de frenado al empujar el vagón 15 contra el vagón 14.
 Por lo tanto, no es ilógico que, tras la rotura del eje en Holsbeek —testimonio de ello son los resortes recuperados y los primeros impactos en la bifurcación de Holsbeek—, el tren de mercancías haya circulado aproximadamente 17 km antes de descarrilar.
@@ -1514,6 +1521,7 @@ De ello se puede deducir que en el vagón 14 no se realizaron inspecciones visua
 
 ## Página 64
 
+
 La presencia de capas de recubrimiento en el cuerpo del eje no permite a menudo detectar la corrosión y las inclusiones bajo el recubrimiento; la corrosión y las inclusiones solo pueden observarse cuando el recubrimiento está dañado en esos puntos.
 Las grietas e inclusiones evidentes, que se produjeron en el eje después del recubrimiento, probablemente sí podrían haberse observado en un taller.
 ### Mantenimiento periódico - revisión
@@ -1538,8 +1546,8 @@ El vagón 14 ha estado cargado en la mayoría de los casos hasta su capacidad de
 De las constataciones se desprende que las inscripciones de la carga máxima en función del tipo de vía a circular difieren ligeramente de los valores que pueden figurar. Esto provoca un ligero aumento de la carga máxima permitida. Este ligero aumento no hace que se alcance la resistencia a la fatiga en un eje intacto. Sin embargo, cuando la resistencia a la fatiga se ve reducida, por ejemplo, debido a la presencia de una inclusión y corrosión, esta carga máxima puede superar la resistencia a la fatiga, lo que provoca la propagación de la inclusión, con la rotura final como consecuencia.
 21 Información obtenida del intercambio con PKP Cargo.
 
-
 ## Página 65
+
 
 ### 4.1.3. Constataciones que no han contribuido a la rotura del eje
 Las siguientes constataciones no tienen influencia en la aparición y propagación de la rotura:
@@ -1548,8 +1556,8 @@ Las siguientes constataciones no tienen influencia en la aparición y propagaci�
 • No se registró ninguna caja de eje caliente en el detector de cajas de eje calientes. Por consiguiente, se puede deducir que no se produjeron fuerzas de torsión intensas en el cuerpo del eje.
 • La falta detectada en el centro del eje, a lo largo de toda la longitud del eje mediante medición ultrasónica, ya estaba presente durante la construcción.
 
-
 ## Página 66
+
 
 ### 4.1.4. Sucesión de los acontecimientos previos e inmediatos a la descarrilamiento
 ## 4.1.4.1. 
@@ -1645,8 +1653,8 @@ de la línea de freno (descarrilamiento)
 Parada del tren E47582
 15:43:16
 
-
 ## Página 67
+
 
 constataciones
 Localización
@@ -1709,6 +1717,7 @@ tensión en la BVL.
 
 ## Página 68
 
+
 El momento de las registraciones del detector de cojinetes calientes difiere notablemente del momento real en que el E47582 pasó por ese lugar en Aarschot. No obstante, las registraciones del detector coinciden con las del tren de mercancías E47582. Dado que el número de ejes registrados coincide con el número de ejes del tren de mercancías y no se ha registrado ningún otro tren con un número idéntico de ejes en el detector de ejes en un intervalo de una hora antes y después de las registraciones.
 Las indicaciones horarias del tacógrafo del E47582 están una hora por delante del momento real.
 Las indicaciones horarias de las conversaciones en las líneas fijas (Control de Tráfico ↔ Postas de Señales, Conmutador, etc.) están 1 minuto y 49 segundos por detrás de las indicaciones horarias de las conversaciones GSM-R (Control de Tráfico ↔ maquinistas). Como explicación a ello, el gestor de la infraestructura señala que la mayoría de los componentes de la parte de la Red Central GSM-R (núcleo) estaban sincronizados en aquel entonces utilizando un servidor NTP (Protocolo de Tiempo de Red). El actual equipo de grabación Etrali (que está al final de su vida útil) no lo está. Este equipo será sustituido próximamente por otro que sí utilizará los servicios NTP.
@@ -1727,8 +1736,8 @@ En las normas del gestor de la infraestructura no se establecen medidas que dete
 Solo para un cojinete caliente se establece que el tren debe detenerse sin provocar un frenado de emergencia.
 Para todas las demás irregularidades detectadas durante el viaje que puedan ser causa de un accidente, las normas del gestor de la infraestructura establecen que el tren debe detenerse, inspeccionarse y aplicar las medidas de seguridad, como cubrir el obstáculo. En caso de una parada prolongada del tren en vía principal, el tren debe declararse en situación de emergencia.
 
-
 ## Página 69
+
 
 Desviar trenes sobre los que se ha detectado una avería no claramente identificada es arriesgado.
 Por ejemplo, no se puede predecir cómo se comportará el material rodante al pasar por los dispositivos de vía.
@@ -1741,6 +1750,7 @@ El retraso podría haberse iniciado antes. De haber sido así, el tren de mercan
 No se ha demostrado cuál habría sido el impacto sobre los daños si el tren de mercancías se hubiera detenido con un frenado suave antes de la derivación. Es realista la posibilidad de que el tren de mercancías se hubiera descarrilado a pesar de la ausencia de puntos de cruce, y esto únicamente debido a la combinación de frenado con un bogie con rueda rota.
 
 ## Página 70
+
 
 4.2. decisiones
 La causa directa del descarrilamiento es, conforme al escenario más probable del Organismo de Investigación, la desviación del bogie delantero con respecto a la dirección de marcha. La desviación fue posible debido a la combinación de los siguientes factores:
@@ -1762,6 +1772,7 @@ Como resultado, en el caso de los ejes recubiertos, a menudo solo se someten los
 
 ## Página 71
 
+
 Desde 2010 se está elaborando un Catálogo Europeo de Inspección Visual (EVIC, por sus siglas en neerlandés) de inspecciones visuales de ejes; mediante este catálogo, los ejes se inspeccionan visualmente en busca de corrosión y golpes, y, si fuera necesario, se retiran del servicio. Estos controles se realizan en cada paso por un taller, incluso para pequeñas reparaciones, a nivel europeo, y se comunican al titular del vagón. Sin embargo, la base sobre la que se inicia la elaboración del catálogo EVIC no es la misma en todos los Estados miembros de la UE, debido a las diferencias en los métodos de inspección, las metodologías de mantenimiento y los registros.
 No se pudieron presentar registros de inspecciones visuales de los ejes de los vagones 13, 14 y 15 durante su paso por talleres europeos.
 El factor favorecedor es la carga máxima de los vagones, lo que permitió que se superara más rápidamente la resistencia a la fatiga reducida.
@@ -1775,6 +1786,7 @@ Esta investigación de seguridad demuestra que es necesario que:
 Por ello, el Organismo de Investigación transmitirá este informe de investigación al Grupo de Trabajo Europeo para la Certificación de las ECM, que, bajo el paraguas de la ERA, gestiona esta temática.
 
 ## Página 72
+
 
 ### 4.3. Constataciones complementarias
 Las constataciones complementarias no son causas directas ni indirectas del descarrilamiento, sino constataciones realizadas durante la investigación del accidente y que permiten prever mejoras para el futuro.
@@ -1806,6 +1818,7 @@ Estos estudios se encuentran aún en una fase inicial de debate.
 
 ## Página 73
 
+
 Además, en el marco de la prestación de servicios a los viajeros, existen planes para mejorar la cobertura de las redes de los «Operadores de Red Móvil» en el dominio ferroviario. En esta evolución, es importante que los operadores de la red GSM-R y de las redes GSM públicas colaboren manteniendo una buena relación mutua.
 
 A finales de 2012, se celebró un primer diálogo entre el BIPT y los operadores GSM públicos, por una parte, y DVIS y el gestor de la infraestructura, por otra, sobre la problemática de las posibles supresiones entre las redes GSM públicas y la red GSM-R.
@@ -1834,6 +1847,7 @@ En varios conjuntos de ruedas de los vagones implicados en el descarrilamiento s
 
 ## Página 74
 
+
 5. medidas adoptadas
 ### 5.1. El titular de los vagones de mercancías
 PKP Cargo, titular de los vagones de mercancías, como consecuencia del accidente y de las constataciones realizadas durante las inspecciones del vagón 13 y 14 en el taller de Gentbrugge, ha realizado una auditoría a su subcontratista encargado del último mantenimiento en 2009 de estos vagones.
@@ -1844,8 +1858,8 @@ Sensibilización del personal de Infrabel-Red (Traffic Control, puestos de bloqu
 En Traffic Control se ha insistido en el cumplimiento de la normativa vigente relativa a la lista de llamadas que prescribe qué autoridades deben ser informadas en caso de incidente en la red ferroviaria. Esto con el fin de informar correctamente y a tiempo al Organismo de Investigación (véase 2.1.6.1).
 Los relojes de los teléfonos Etrali no están sincronizados en todas partes; se ha dado la orden a ICTRA de hacer que los relojes de todos los dispositivos de registro del gestor de la infraestructura funcionen de manera sincronizada.
 
-
 ## Página 75
+
 
 ### 5.3. Posibles supresiones de GSM-R por redes GSM públicas y viceversa
 ### 5.3.1. El gestor de la infraestructura
@@ -1859,8 +1873,8 @@ Sobre la base de esta lista, los operadores de telecomunicaciones investigarían
 Se designaría un punto de contacto por cada operador de telecomunicaciones para las reuniones. Hasta la fecha, el gestor de la infraestructura no ha facilitado esta nueva lista con los puntos críticos y los puntos críticos esperados.
 Los operadores de telecomunicaciones están dispuestos a seguir colaborando de manera constructiva con el gestor de la infraestructura, bajo la dirección del BIPT, con el fin de llegar a una colaboración respecto a la problemática constatada de supresiones entre las redes GSM y la red GSM-R.
 
-
 ## Página 76
+
 
 6. recomendaciones
 Como consecuencia del descarrilamiento en Hever, las partes interesadas ya han adoptado una serie de medidas.
@@ -1910,6 +1924,7 @@ la carga máxima por eje.
 
 ## Página 77
 
+
 ### Constatación – conclusión del análisis Recomendación
 El regulador de telecomunicaciones (BIPT) y la autoridad nacional de carreteras
 3
@@ -1957,31 +1972,33 @@ viaria y cómo deben estar orientadas.
 Con el fin de evitar supresiones entre
 la red GSM pública y la red GSM-R.
 
-
 ## Página 78
+
 
 7. anexos
 7.1. composición del tren y inspección
 
-
 ## Página 79
+
 
 ### 7.2. Detección de eje hueco E47582 en Aarschot
 
-
 ## Página 80
+
 
 13ª vagon
 14ª vagon
 
-
 ## Página 81
+
 
 
 ## Página 82
 
 
+
 ## Página 83
+
 
 ### 7.3. Mediciones e inspección del vagón 13 en CHW Amberes
 el 08 de marzo de 2013
@@ -2233,8 +2250,8 @@ amortiguadores
 vagón
 freno
 
-
 ## Página 84
+
 
 ### 7.4. Especificaciones de los vagones Simms 425SA
 ### Documentación del sistema de mantenimiento
@@ -2365,6 +2382,7 @@ vagón modernizado del tipo 426Za
 
 ## Página 85
 
+
 ### 7.5.	 Anexo 5: mediciones e inspección de los vagones 13 y 14 
 ### en Gentbrugge el 16 de abril de 2013
 ## 31 88 464 4 516 - 0
@@ -2438,8 +2456,8 @@ Grasa: verdosa
 ### Eje
 Daños inaceptables
 
-
 ## Página 86
+
 
 ### Peritaje del bogie 046009633
 ### Dimensiones
@@ -2541,8 +2559,8 @@ Daños inaceptables
 Daños inaceptables
 Eje doblado
 
-
 ## Página 87
+
 
 ## 31 88 464 4 511 - 1
 ### Peritaje del bogie 046028263 rueda 3-4
@@ -2641,8 +2659,8 @@ Daños inaceptables
 ### Diámetro del eje lado2
 161,6
 
-
 ## Página 88
+
 
 ### Peritaje del bogie 017722173 lado 1-2
 ### Dimensiones
@@ -2749,8 +2767,8 @@ ok
 ### Diámetro del eje lado2
 160,6
 
-
 ## Página 89
+
 
 ### 7.6.	 Extractos de la inspección VVESI 4.3 de los trenes
 VVESI 4.3  
@@ -2784,6 +2802,7 @@ Versión 1
 03.11.2010
 
 ## Página 90
+
 
 VVESI 4.3 
 - 2 -
@@ -2824,10 +2843,10 @@ La decisión de realizar una inspección técnica limitada corresponde al IG. La
 técnica limitada solo puede sustituir a la inspección técnica completa 
 si esta última no es obligatoria.
 Versión 1 
-03.11.2010 
-
+03.11.2010
 
 ## Página 91
+
 
 VVESI 4.3  
 - 3 -
@@ -2869,10 +2888,10 @@ Esta inspección se centra en la fijación de las bandas de rodadura a la llanta
 la medición de la distancia entre las caras interiores “Ei” (rueda monobloque) así como una evaluación 
 de los daños de las bandas de rodadura.
 Versión 1 
-03.11.2010  
-
+03.11.2010
 
 ## Página 92
+
 
 VVESI 4.3 
 - 4 -
@@ -2919,6 +2938,7 @@ Versión 1
 
 ## Página 93
 
+
 VVESI 4.3  
 - 5 -
 1.2.3.4.
@@ -2942,10 +2962,10 @@ En las siguientes circunstancias:
 * sufre una inmovilización definitiva, siempre que se realice un control de integridad antes de reanudar el viaje hacia su destino final.
 * solo sufre maniobras de maniobra descritas en el anexo 4.
 Versión 1 
-03.11.2010  
-
+03.11.2010
 
 ## Página 94
+
 
 VVESI 4.3 
 - 6 -
@@ -2957,10 +2977,10 @@ Si la inspección técnica se vuelve inválida antes de llegar a las instalacion
 VALIDEZ DE UNA INSPECCIÓN DISTINTA DE LA COMPLETA O LIMITADA
 Las inspecciones distintas de la completa o la limitada tienen una validez limitada en función de su objetivo específico, concretamente el descubrimiento de una o varias desviaciones, daños o irregularidades debidas a un acontecimiento especial (cojinete caliente, frenado de rueda), la determinación de las condiciones de transporte hacia el taller (id.), el control de conformidad respecto a prescripciones especiales (BV), …
 Versión 1 
-03.11.2010 
-
+03.11.2010
 
 ## Página 95
+
 
 - 1 -
 VVESI 4.3 
@@ -2982,10 +3002,10 @@ Hoja de resorte desplazada en la abrazadera del resorte (p. ej. 3 cm …) o reso
 2. 7. Eje del resorte de soporte, pértiga del resorte rotos o ausentes, en la medida en que sea visible desde el exterior del vagón. Soporte del resorte de soporte suelto, soporte del resorte de soporte agrietado, anillo o perno de suspensión ausente. 
 2. 8. Resorte helicoidal roto. 
 Versión 1 
-03.11.2010  
-
+03.11.2010
 
 ## Página 96
+
 
 VVESI 4.3 
 - 2 -
@@ -3008,6 +3028,7 @@ Versión 1
 03.11.2010
 
 ## Página 97
+
 
 VVESI 4.3 
 - 3 -
@@ -3036,28 +3057,30 @@ Anexo 1
  techo abierto no cerrado o no asegurado;
  revestimiento del techo, lona de cubierta despegada, levantada o colgante, en la medida en que sea visible desde el suelo. 
 Versión 1 
-03.11.2010  
-
+03.11.2010
 
 ## Página 98
+
 
 ### 7.7.  No se han tenido en cuenta las observaciones del titular de la ECU 
 ### PKP-cargo
 
-
 ## Página 99
+
 
 
 ## Página 100
 
+
 El organismo de investigación no ha tenido en cuenta las observaciones anteriores de PKP –Cargo.
 El organismo de investigación considera que, si el frenado se hubiera aplicado antes, el tren de mercancías se habría descarrilado en otro lugar.
-
 
 ## Página 101
 
 
+
 ## Página 102
+
 
 ### Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 http://www.mobilit.belgium.be

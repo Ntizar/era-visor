@@ -10,12 +10,13 @@ chars: 4290
 ratio_longitud: 1.04
 tokens_in: 2101
 tokens_out: 1112
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -34,40 +35,39 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 3570 |
 | Punto kilométrico: | 0428 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Contenido 
+## Índice 
 | I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas preliminares 1 ..................................................................................................................... |
-| 2 | Colisión de trenes el 16 04 2024 en Worms Hbf 2 . . ............................................................................... |
-|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
+| 1 | Observaciones preliminares 1 ..................................................................................................... |
+| 2 | Colisión de trenes el 16042024 en Worms Hbf 2 . . ............................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
 ## Índice de modificaciones 
 Modificación 
 Estado 
-I 
-
+I
 
 ## Página 4
+
 
 ## 1 Notas preliminares 
 La elaboración del informe intermedio se realiza sobre la base del § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). Conforme a ello, en todas las investigaciones formalmente abiertas y en curso por una oficina de investigación, debe publicarse al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado de investigación actual, puede verse modificada en cualquier momento y no reclama ser exhaustiva. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no sirven para determinar una responsabilidad ni para aclarar cuestiones de responsabilidad civil u otros derechos civiles, y se llevan a cabo con independencia de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 16.04.2024 en Worms Hbf 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias. A continuación, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se enumeran en el último apartado.

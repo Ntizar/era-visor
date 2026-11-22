@@ -10,12 +10,13 @@ chars: 3825
 ratio_longitud: 1.01
 tokens_in: 1838
 tokens_out: 1015
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/2 (50%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Logo BEU
 Informe intermedio
@@ -35,42 +36,41 @@ Colisión de trenes
 | Aguja: | 377 |
 | Kilómetro: | 06 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-  I. 
- Registro de modificaciones...............................................................................................................I 
+I. 
+Registro de modificaciones...............................................................................................................I 
 | I . | Registro de modificaciones I ........................................................................................................ |
 | 1 | Notas previas 1 ..................................................................................................................... |
-| 2 | Colisión de trenes el 16 02 2020 en Würzburg Hbf 2 . . ........................................................................... |
-|  | 21 Descripción breve del evento 2 . ........................................................................................... |
+| 2 | Colisión de trenes el 16022020 en Würzburg Hbf 2 . . ........................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 22 Consecuencias 2 . ...................................................................................................................................... |
 |  | 23 Estado de la investigación 2 . ........................................................................................................... |
 |  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## Registro de modificaciones 
 ## I. 
 | Modificación | Estado |
-| Versión: 20 en virtud del plazo anual remitido . | 31 01 2022 . . |
-I 
-
+| Versión:20 en base al plazo anual recibido . | 31 01 2022 . . |
+I
 
 ## Página 4
 
+
 ## 1 Notas previas 
 La elaboración del informe intermedio se realiza sobre la base del § 5 Abs. 5 del Reglamento de investigación de accidentes ferroviarios (EUV). De acuerdo con ello, para todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, al menos en cada aniversario del evento peligroso, se debe emitir un informe intermedio. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la investigación. Esta información se basa en el estado actual de la investigación, puede estar sujeta a cambios en cualquier momento y no reclama ser exhaustiva.
-Página 1 de 2 
-
+Página 1 de 2
 
 ## Página 5
+
 
 ## 2 Colisión de trenes el 16.02.2020 en la Estación de Würzburg Hbf 
 Este informe intermedio contiene una descripción breve del evento y de sus consecuencias. 

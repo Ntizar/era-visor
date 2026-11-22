@@ -10,13 +10,13 @@ chars: 71110
 ratio_longitud: 1.03
 tokens_in: 25857
 tokens_out: 17616
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 15: cifras largas: faltan 1/3 (33%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (ES)", "página 3: original bilingüe: se compara contra el idioma principal (FR)", "página 4: original bilingüe: se compara contra el idioma principal (FR)", "página 7: original bilingüe: se compara contra el idioma principal (FR)", "página 45: original bilingüe: se compara contra el idioma principal (ES)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 BEA-TT
 Transport Terrestre
@@ -28,11 +28,12 @@ ocurrido el 10 de noviembre de 2006
 en la estación de Chaville Rive Droite (92)
 noviembre de 2007
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### Consejo General de Puentes y Carreteras
 El 9 de noviembre de 2007
@@ -43,8 +44,8 @@ Asunto n.º BEATT-2006-015
 ocurrido el 10 de noviembre de 2006 
 ### en la estación de Chaville Rive Droite (92)
 
-
 ## Página 4
+
 
 ### Listado documental
 Organismo(s) encargado(s): Ministerio de Ecología, Desarrollo y Ordenación 
@@ -56,8 +57,8 @@ N.º ISRN: EQ-BEATT--07-8--FR
 Propuesta de palabras clave: transporte ferroviario, accidente, señal de alarma, puerta, gestión de la 
 circulación, misión de los trenes.
 
-
 ## Página 5
+
 
 ### Advertencia
 La investigación técnica objeto del presente informe se 
@@ -69,8 +70,8 @@ determinando las circunstancias y las causas del evento analizado,
 y estableciendo las recomendaciones de seguridad pertinentes. No tiene por 
 objeto determinar responsabilidades.
 
-
 ## Página 6
+
 
 ### Índice
 Glosario......................................................................................................7
@@ -112,6 +113,7 @@ textos reglamentarios...........................................................
 
 ## Página 7
 
+
 4.6.2- En la estación de La Défense..................................................................................................... 22
 4.6.3- En el tren, durante el trayecto entre París Saint-Lazare y Saint-Cloud.........................22
 4.6.4- En la estación de Saint-Cloud...................................................................................................22
@@ -150,10 +152,10 @@ Anexo 4-2: alarmas percibidas por el conductor en cabina durante la apertura de 
 activación de un SAI (fotografía SNCF)......................................................................................40
 Anexo 5: Zona del cruce de vías de Viroflay vía 1......................................... 41
 Anexo 6: Gráfico horario...................................................................................42
-Anexo 7: Situación de la víctima en la estación de Chaville 
-
+Anexo 7: Situación de la víctima en la estación de Chaville
 
 ## Página 8
+
 
 y bifurcación de Viroflay........................................................................................43
 Anexo 8: Ficha 453 del Mémento a uso del conductor de línea
@@ -161,8 +163,8 @@ TT0057 (TR3D)...................................................................
 Anexo 9: Extractos del decreto del 1 de julio de 2004 relativo a los requisitos aplicables 
 al material rodante que circula por la red ferroviaria nacional...................................45
 
-
 ## Página 9
+
 
 ### Glosario
 ### CIL: Jefe de Incidente Local
@@ -186,6 +188,7 @@ el establecimiento.
 
 ## Página 10
 
+
 ### Resumen
 El 10 de noviembre de 2006, sobre las 10 horas 22, un viajero del tren 133473, compuesto por dos elementos en unidad múltiple, con destino a Versailles Rive Droite, salta en marcha a 88 km/h en la estación de Chaville Rive Droite tras accionar la señal de alarma y se hiere gravísimamente al caer sobre el andén.
 El tren 133473 debía inicialmente realizar un servicio omnibus entre Saint-Cloud y Versailles Rive Droite, deteniéndose en todas las estaciones, en particular en Sèvres - Ville d'Avray y Chaville. Este servicio fue modificado tras la salida del tren, el cual se convirtió en directo de Saint-Cloud a Versailles Rive Droite, suprimiendo de este modo las paradas en Sèvres - Ville d'Avray y Chaville.
@@ -203,17 +206,19 @@ Término que figura en el glosario
 
 ## Página 11
 
+
 ## 1- 
 ###       Inicio de la investigación
 El viernes 10 de noviembre de 2006, un viajero salta en marcha del tren 133473 con destino a Versailles Rive Droite, en la estación de Chaville Rive Droite. Gríamente herido, fallece poco después de su ingreso en el hospital.
 La Oficina de Investigación de Accidentes de Transporte Terrestre inició una investigación técnica para determinar las causas de este accidente en el marco del título III de la ley n.º 2002-3 de 3 de enero de 2002, y del decreto n.º 2004-85 de 26 de enero de 2004, relativos a las investigaciones técnicas tras accidentes o incidentes de transporte terrestre.
 Los investigadores se desplazaron al lugar del accidente y realizaron un acompañamiento de tren. Tuvieron acceso a los diferentes informes elaborados por la SNCF y al procedimiento judicial. También se reunieron con los agentes de la SNCF encargados de la regulación de la línea y del mantenimiento del material rodante.
 
-
 ## Página 12
 
 
+
 ## Página 13
+
 
 ## 2- 
 ###       Constataciones inmediatas
@@ -232,53 +237,58 @@ Un viajero ha fallecido.
 *
 Término que figura en el glosario
 
-
 ## Página 14
+
+
 
 ## Página 15
 
 ## 3- 
 ###       Contexto de explotación de la línea L
 ## 3.1- 
-###     Composición de la red de cercanías de París Saint-Lazare y situación de la
-### estación de Chaville Rive Droite
-La red de cercanías que tiene como origen la estación de París Saint-Lazare se divide en 5 grupos 
-distintos, identificados del II al VI:
-el grupo II da servicio a los destinos de Versailles Rive Droite y de Saint-Nom-la-Bretèche, 
-➢
-con un tramo común desde París hasta Saint-Cloud y la gran circunferencia oeste (GCO) 
+###     Constitución de la red de cercanías de París Saint-Lazare y situación de
+### la estación de Chaville Rive Droite
+La red de cercanías cuyo origen es la estación de París Saint-Lazare se divide en 5 grupos 
+distintos, identificados de II a VI:
+➢ el grupo II presta servicio a los destinos de Versailles Rive Droite y de Saint-Nom-la-Bretèche, 
+con un tramo común de París a Saint-Cloud y el gran cinturón oeste (GCO) 
 Saint-Germain-en-Laye - Noisy-le-Roi,
-el grupo III da servicio a los destinos de Cergy-le-Haut y de Poissy, 
-➢
-el grupo IV da servicio al destino de Ermont-Eaubonne, 
-➢
-el grupo V da servicio al destino de Mantes-la-Jolie vía Poissy, 
-➢
-el grupo VI da servicio al destino de Mantes-la-Jolie vía Conflans-Sainte-Honorine y al 
-➢
+➢ el grupo III presta servicio a los destinos de Cergy-le-Haut y de Poissy, 
+➢ el grupo IV presta servicio al destino de Ermont-Eaubonne, 
+➢ el grupo V presta servicio al destino de Mantes-la-Jolie vía Poissy, 
+➢ el grupo VI presta servicio al destino de Mantes-la-Jolie vía Conflans-Sainte-Honorine y al 
 destino de Gisors.
- Nota: el grupo I fue suprimido en 1938 con el traslado del terminal de la línea de Auteuil 
+ Nota: el grupo I fue suprimido en 1938 con motivo del traslado del terminal de la línea de Auteuil 
 de Saint-Lazare a Pont-Cardinet. Desde 2006, la denominación oficial de los grupos II y III es 
 Línea L.
-La estación de Chaville Rive Droite está situada en el grupo II y forma parte de la línea L, en la 
-rama que da servicio a Versailles Rive Droite (véase el anexo 2).
+La estación de Chaville Rive Droite se encuentra en el grupo II y forma parte de la línea L, en la 
+ramal que presta servicio a Versailles Rive Droite (véase anexo 2).
 Todas estas líneas son de doble vía, dotadas de tracción eléctrica por catenaria alimentada a 
-25 000 voltios, de señalización luminosa con bloqueo automático y de radio suelo-tren. Por convenio, cada vía se numera como vía 1 (vía denominada de sentido impar) de París hacia la periferia y vía 2 (vía denominada de sentido par) de la periferia hacia París. Estas líneas están reguladas por el CRO de París Saint-Lazare.
-No obstante, cabe precisar que son posibles conexiones entre grupos para sortear 
-un obstáculo. A este respecto, en el caso del accidente objeto del presente informe, una caída de 
-catenaria que se produjo en la estación de Courbevoie unas horas antes había provocado el desvío de los trenes del grupo II a través de los grupos III y V y del empalme denominado de la Folie. Este itinerario, por el contrario, no da servicio a la estación de La Défense. Esto no será, además, del todo ajeno al accidente de Chaville, aunque no sea su causa directa.
+25000 voltios, de señalización luminosa con bloqueo automático y de radio tierra-tren. Por convención, 
+cada vía se numera vía 1 (vía denominada de sentido impar) de París hacia la cercanía y vía 2 
+(vía denominada de sentido par) de la cercanía hacia París. Estas líneas son reguladas por el 
+CRO de París Saint-Lazare.
+No obstante, cabe precisar que son posibles enlaces entre grupos con el fin de sortear un 
+obstáculo. A este respecto, en el caso del accidente objeto del presente informe, una caída de 
+catenaria producida en la estación de Courbevoie unas horas antes había dado lugar al 
+desvío de los trenes del grupo II por los grupos III y V y la conexión denominada de la Folie. 
+Este itinerario, por otro lado, no presta servicio a la estación de la Défense. Esto no será, 
+además, ajeno al accidente de Chaville, aunque no sea su causa directa.
 ## 3.2- 
 ###     La estación de Chaville Rive Droite
-Este establecimiento depende administrativamente de la estación de Viroflay. No dispone más que de 
-personal con funciones comerciales durante la duración del servicio de viajeros.
-El edificio de viajeros está situado en el lado de Versailles, por encima de las vías en el PK* 18,6, siendo el origen París Saint-Lazare. Cada vía está bordeada por un andén de una altura de 1 metro por encima del 
-rriel, es decir, unos 20 cm más bajo que el suelo de los vagones. Los andenes son accesibles mediante escaleras fijas y mecánicas. Cada andén está dotado en los distintos puntos de parada de los trenes de pantallas de televisión que permiten al conductor visualizar el conjunto del tren. Tras finalizar el 
-servicio de viajeros, puede así ordenar el cierre de las puertas.
+Este establecimiento depende administrativamente de la estación de Viroflay. No dispone más que 
+de personal con función comercial durante la duración del servicio de viajeros.
+El edificio de viajeros se encuentra en el lado de Versailles, sobre las vías, en el PK* 18,6, siendo 
+el origen en París Saint-Lazare. Cada vía está bordeada por un andén de una altura de 1 metro por 
+encima del raíl, es decir, unos 20 cm por debajo del piso de los vagones. Los andenes son accesibles 
+mediante escaleras fijas y mecánicas. Cada andén está dotado en los distintos puntos de parada de los 
+trenes de pantallas de televisión que permiten al conductor visualizar el conjunto del tren. Una vez 
+finalizado el servicio de viajeros, puede así ordenar el cierre de las puertas.
 *
 Término que figura en el glosario
 
-
 ## Página 16
+
 
 ## 3.3- 
 ###     El material rodante afectado a la línea de París Saint-Lazare a Versailles
@@ -329,6 +339,7 @@ Término que figura en el glosario
 
 ## Página 17
 
+
 En consecuencia, las unidades múltiples Z-6400 construidas a partir de 1976 no están obligadas, en aplicación de este decreto, a ser modificadas para inhibir el mando de apertura de emergencia por encima de un cierto umbral de velocidad, disposición que solo se aplica a los materiales construidos desde julio de 2004.
 Por ello, el material rodante que circula por la red Transilien no es homogéneo en cuanto a la posibilidad de apertura de las puertas tras el accionamiento de una señal de alarma. Solo el 20% del parque de unidades múltiples explotadas en la Isla de Francia está dotado de un dispositivo que no permite la apertura manual de las puertas por debajo de un umbral de velocidad baja (aproximadamente 10 km/h) cuando se acciona una señal de alarma. Las unidades múltiples de tipo Z-6400 que circulan, entre otras líneas, en la línea L no disponen de este bloqueo condicionado a un umbral de velocidad baja, lo que permite poder bajar de un tren en movimiento a alta velocidad.
 La revisión a mitad de vida de las unidades Z-6400, que acaba de finalizar recientemente, no se aprovechó para modificar este material dotándolo de una detección de velocidad baja para condicionar la posibilidad de apertura manual de las puertas tras el accionamiento de un SAI.
@@ -350,6 +361,7 @@ El CRO agrupa en un mismo lugar a los operadores de gestión de la infraestructu
 Término que figura en el glosario
 
 ## Página 18
+
 
 el centro operativo de gestión de las circulaciones – COGC) y « Transilien » (para el centro operativo transilien – COT). A modo de recuerdo, también están representadas las actividades IC (trenes de viajeros intercidades), TER (trenes expres regionales) y Fret (Mercancías), que no afecta a la línea de Versalles Rive Droite.
 
@@ -378,8 +390,8 @@ Para ello, ejerce las cuatro misiones siguientes: la dirección de la producció
 *
 Término que figura en el glosario
 
-
 ## Página 19
+
 
 Por el contrario, este Referencial no describe la forma de reconstruir un plan de transporte ni las soluciones a adoptar para asegurar provisionalmente un tráfico mínimo (creación, supresión o modificación de servicios). Solo la formación de los reguladores en la escuela, la doble formación en su futuro puesto de trabajo y su conocimiento de los planos de vías e instalaciones permiten elaborar tal proyecto.
 
@@ -387,10 +399,12 @@ En otras palabras, cuando se produce un incidente, el regulador aplica las accio
 
 En la práctica, esto se traduce en modificaciones de servicio, incluso para los trenes que ya han partido de su estación de origen.
 
-
 ## Página 20
 
+
+
 ## Página 21
+
 
 ## 4- 
 ###       Informe de las investigaciones
@@ -404,6 +418,7 @@ A unos 50 metros de la estación de Chaville, estación que cruza sin detenerse,
 El tren 133479 seguía al tren 133473 con un intervalo de 4 minutos a la salida de Saint-Cloud, realizando un servicio omnibus hasta Versalles Rive Droite. Se detiene en la estación de Chaville para realizar el servicio de viajeros y se ve retenido debido a que la señal C277, situada en la salida de la estación hacia el lado de Versalles, está cerrada con la indicación «carré» (señal de parada absoluta). Pregunta entonces al puesto de Viroflay el motivo de este cierre. Le responden que el tren 133473, que le precede, ha tenido un accionamiento de señal de alarma y que, según algunos viajeros, una persona se habría arrojado de su tren durante el cruce de la estación de Chaville. Por ello, se dirige a pie hacia Viroflay con el fin de buscar a dicha persona. Durante su recorrido, descubre muy rápidamente a la víctima en la cabeza del andén dirección Versalles en la estación de Chaville. Informa inmediatamente al puesto de Viroflay utilizando el teléfono de la señal C277. Regresa luego a bordo de su tren donde solicita, mediante la sonorización, la posible ayuda de un médico para prestar los primeros auxilios a la víctima. Dos personas, un médico y una socorrista, se presentan para prestar asistencia al herido en espera de la llegada de los servicios de emergencia. Los bomberos, el SAMU (Servicio de Ayuda Médica Urgente) y la Policía, una vez en el lugar, inmovilizan a la víctima de cara a su traslado al hospital. A las 10h59, el tren 133479 retoma la marcha.
 
 ## Página 22
+
 
 ## 4.2- 
 ###     Examen de la bande graphique d'enregistrement des évènements de
@@ -459,6 +474,7 @@ Terme figurant dans le glossaire
 
 ## Página 23
 
+
 medidas correctivas adoptadas.
 la lista cronológica de todas las intervenciones, programadas o no, realizadas desde 
 1976, año de puesta en servicio de la unidad múltiple eléctrica Z-6443/6444.
@@ -478,10 +494,10 @@ Esta observación afectó al regulador de la línea L. Se llevó a cabo durante 
 Al igual que para los demás trenes afectados por el incidente de Courbevoie, se instaló o difundió:
 un mensaje informativo luminoso desplazable,
 varios agentes para informar a los viajeros,
-mensajes informativos en las pantallas situadas en el extremo de la plataforma y en el panel 
-
+mensajes informativos en las pantallas situadas en el extremo de la plataforma y en el panel
 
 ## Página 24
+
 
 de visualización general « banlieue » (suburbios),
 anuncios sonoros al partir de cada tren.
@@ -508,6 +524,7 @@ Término que figura en el glosario
 
 ## Página 25
 
+
 ## 4.9- 
 ###     Medidas adoptadas a raíz del accidente
 ## 4.9.1- 
@@ -519,11 +536,12 @@ Actualmente, la SNCF no parece prever modificaciones en la gestión de las situa
 *
 Término que figura en el glosario
 
-
 ## Página 26
 
 
+
 ## Página 27
+
 
 ## 5- 
 ###       Escenario del accidente
@@ -543,6 +561,7 @@ Es obviamente imposible conocer su itinerario ese día para terminar a bordo del
 Término que figura en el glosario
 
 ## Página 28
+
 
 No obstante, cabe pensar que se desplazó normalmente mediante la línea RER A de la RATP hasta La Défense. Al constatar que su tren habitual París - Versalles Rive Droite estaba desviado y no prestaba servicio en La Défense, pudo haber intentado seguir el itinerario modificado.
 
@@ -567,6 +586,7 @@ Detenido en la estación de Viroflay a las 10h23, el conductor, mediante la radi
 
 ## Página 29
 
+
 el accidente. Además, informa al puesto de Viroflay para solicitar que se detengan las circulaciones por la vía 2 entre Montreuil y Sèvres - Ville d'Avray, a fin de garantizar su protección durante su reconocimiento a pie y, eventualmente, la de la víctima.
 Tras haberse asegurado de que ya no circula ningún tren, recorre la vía 1 por la senda, equipado con la radio portátil del automotor Z-6444, para buscar a la persona accidentada.
 El conductor del siguiente tren, el 133479, detenido en la estación de Chaville, llama al puesto de Viroflay para obtener información sobre la razón del cierre de la señal C277. El conductor del tren 133473, al escuchar esta comunicación, llama al conductor del tren 133479 para informarle de la situación. Deciden entonces conjuntamente realizar el reconocimiento de la vía yendo al encuentro el uno del otro con el objetivo de ahorrar tiempo. Es entonces cuando el conductor del tren 133479 descubre, a unas decenas de metros más allá del punto de parada de su tren y de la parte autorizada a los viajeros, que se encuentra en plano inclinado, entre un poste de hormigón y el estribo del puente adyacente al edificio de la estación situado sobre las vías, el cuerpo inanimado de la víctima. El cuerpo está dispuesto perpendicularmente a la vía 1, con la cabeza dirigida hacia el talud y los pies hacia la vía, sin invasión del perfil de carga. Desde el momento de este descubrimiento, el conductor del tren 133479 informa inmediatamente al puesto de Viroflay mediante el teléfono fijo de la señal C277, solicitando la intervención de los servicios de emergencia. Aclara que la víctima respira. El conductor del tren 133473, que continúa su reconocimiento, escucha en su radio que su compañero del tren 133479 informa al regulador de que acaba de descubrir a la víctima y que es necesaria la intervención de los servicios de emergencia.
@@ -578,7 +598,10 @@ Término que figura en el glosario
 
 ## Página 30
 
+
+
 ## Página 31
+
 
 ## 6- 
 ###       Análisis y orientaciones preventivas
@@ -601,14 +624,15 @@ El CRO, en aplicación de principios establecidos por la práctica pero no forma
 
 ## Página 32
 
+
 Recomendación R2 (SNCF): Reanudar y precisar la normativa aplicable a las modificaciones del servicio, limitando estrictamente el recurso a la supresión de paradas regulares, en particular después de la salida del tren de su estación de origen.
 
 ## 6.3- 
 ###     Observaciones sobre el comportamiento de los viajeros que se encontraban en el mismo vagón que la víctima
 Aunque esto no constituye un factor determinante de la causa del accidente, puede resultar sorprendente la pasividad de los demás pasajeros. De hecho, la víctima no estaba sola en el tren, ya que en Viroflay, cuando el maquinista fue a rearmar la señal de alarma, se enteró por viajeros de este vagón que una persona se había arrojado del tren en movimiento hacia Chaville. A pesar de ello, cuando el tren circulaba entre Chaville y Viroflay, nadie respondió a las dos llamadas del maquinista, quien deseaba conocer el motivo de la activación de la señal de alarma, ni tampoco nadie informó al maquinista tras haber visto saltar al viajero. Por supuesto, es imposible reconstruir la escena, pero ello implica que nadie intervino para disuadir al joven de realizar su gesto fatal. Es necesario precisar que ninguna pared opaca obstruye la visión a lo largo de los aproximadamente 22 metros de longitud del vagón, y que la afluencia de viajeros no debía ser tal que impidiera la vista de un extremo a otro del vehículo.
 
-
 ## Página 33
+
 
 ## 7- 
 ###       Conclusión y recomendaciones
@@ -640,11 +664,12 @@ Recomendación R1 (SNCF): Estudiar, para el material rodante que deba someterse 
 
 Recomendación R2 (SNCF): Reanudar y precisar la normativa aplicable a las modificaciones del servicio, limitando estrictamente el recurso a la supresión de paradas regulares, en particular después de la salida del tren de su estación de origen.
 
-
 ## Página 34
 
 
+
 ## Página 35
+
 
 ## ANEXOS 
 Anexo 1: Decisión de apertura de investigación
@@ -661,16 +686,17 @@ Anexo 7: Situación de la víctima en la estación de Chaville y bifurcación de
 Anexo 8: Ficha 453 del Mémento a uso del maquinista de línea TT0057 (TR3D)
 Anexo 9: Extractos del decreto del 1 de julio de 2004 relativo a los requisitos aplicables al material rodante que circula por la red ferroviaria nacional.
 
-
 ## Página 36
+
 
 
 ## Página 37
 
+
 ### Anexo 1: Decisión de apertura de investigación
 
-
 ## Página 38
+
 
 Anexo 2: La línea de París Saint-Lazare a Versalles Rive Droite y su entorno
 ### Anexo 2-1: Plano
@@ -681,8 +707,8 @@ Viroflay
 Chaville 
 RD
 
-
 ## Página 39
+
 
 ### Anexo 2-2: Esquema de la línea L que da servicio a Versalles Rive Droite
 París Saint-Lazare PK 0
@@ -731,40 +757,40 @@ Zona detallada
 en el anexo 5
 Versalles RD
 
-
 ## Página 40
+
 
 ### Anexo 3: Extractos del artículo 104 del Referencial Infraestructura IN1514 (S2C)
 Un tren puede (en línea regulada con el acuerdo del Regulador) ser autorizado a pasar sin parada en una estación (distinta de parada general) donde tiene una parada regular, si no tiene servicio que realizar allí y si nada se opone por lo demás.
 El agente de circulación hace dar, si es posible, esta autorización verbalmente al maquinista por una estación de parada anterior o por radio. [ ... ]
 
-
 ## Página 41
+
 
 ### Anexo 4: Alarmas percibidas por el maquinista en la cabina
 Anexo 4-1: alarmas percibidas por el maquinista en la cabina durante la activación de un SAI 
 (fotografía SNCF)
 
-
 ## Página 42
+
 
 Anexo 4-2: alarmas percibidas por el maquinista en la cabina durante la apertura de una puerta tras la activación de un SAI (fotografía SNCF)
 
-
 ## Página 43
+
 
 ### Anexo 5: Zona del cruce de vías de Viroflay vía 1
 Configuración de los lugares que impide la parada del tren en vía libre (fotografía SNCF)
 
-
 ## Página 44
+
 
 ### Anexo 6: Gráfico de marcha
 Chaville
 Viroflay
 
-
 ## Página 45
+
 
 ### Anexo 7: Situación de la víctima en la estación de Chaville 
 ### y bifurcación de Viroflay
@@ -791,11 +817,12 @@ Versalles RD
 
 ## Página 46
 
+
 ### Anexo 8: Ficha 453 del Mémento para el uso del conductor de línea
 ## TT0057 (TR3D)
 
-
 ## Página 47
+
 
 ### Anexo 9: Extractos del decreto del 1 de julio de 2004 relativo a los requisitos 
 aplicables al material rodante que circula por la red ferroviaria nacional
@@ -805,8 +832,8 @@ velocidad) y a las normas NF F31-051, 31-054 y 31-057.
 [...], la apertura de las puertas [debe permanecer) posible mediante el uso del mando de emergencia 
 en parada o por debajo de la pequeña velocidad detectable.
 
-
 ## Página 48
+
 
 ## BEA-TT
 Oficina de Investigación 

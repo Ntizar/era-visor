@@ -10,13 +10,13 @@ chars: 39048
 ratio_longitud: 1.23
 tokens_in: 13717
 tokens_out: 8922
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/2 (50%)"]
-notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 1/32", "página 10: cifras cortas: 1/31"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,8 +43,8 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
+
 
 
 ## Página 3
@@ -52,38 +52,39 @@ fax: (+420) 224 805 428
 # RESUMEN
 10 de abril de 2008, 6:34 (04:34 GMT)
 Fecha y hora:
-Tipo de suceso:
-colisión de tranvías (colisión de un tranvía vacío no controlado con otro tranvía)
+Tipo de ocurrencia:
+colisión de tranvía (colisión de un tranvía vacío descontrolado con otro tranvía)
 Tipo de tren:
-tranvía (movimiento no controlado)
+tranvía (movimiento descontrolado)
 Ubicación:
-Brno, cruce Husová - Palackého
+Brno, cruce de Husová - Palackého
 Consecuencias:
-0 fallecidos, 0 heridos, coste total 3 000 000 CZK
-interrupción del tráfico durante 3 horas y 53 minutos
+0 muertos, 0 heridos, coste total CZK 3000000.-
+interrupción del tráfico de 3 horas y 53 minutos
 Causa directa:
-material rodante (fallo del sistema de control y mando a bordo)
+material rodante (fallo del sistema de mando y control a bordo)
 Causa subyacente:
-deficiencias en el mantenimiento,
-debilidad del diseño del sistema de control y mando a bordo
+insuficiencia del mantenimiento,
+deficiencia en el diseño del sistema de mando y control a bordo
 Causa raíz:
 ninguna
-Recomendaciones: 1) Dirigidas a todas las empresas ferroviarias que explotan tranvías KT8D5 con
-equipos de tracción TV3:
-Se recomienda realizar comprobaciones periódicas de los conectores KP1 – 
+Recomendaciones: 1) Dirigida a todas las empresas ferroviarias que explotan tranvías KT8D5 con
+equipo de tracción TV3:
+Se recomienda incluir una comprobación regular de los conectores KP1 –
 ●
-KP4 incluidas en los procedimientos de mantenimiento.
-2) Dirigidas a la Autoridad Nacional de Seguridad Ferroviaria de la República Checa (Drážní úřad):
+KP4 en los procedimientos de mantenimiento.
+2) Dirigida a la Autoridad Nacional de Seguridad Checa (Drážní úřad):
 Se recomienda considerar la mejora de todos los tranvías con
 ●
-equipos de tracción TV3 para garantizar el correcto funcionamiento del
-pedal de freno en caso de actuación falsa del relé ORJ.
-
+equipo de tracción TV3 a fin de garantizar el correcto funcionamiento del
+pedal de freno en caso de actuación errónea del relé ORJ.
 
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -117,6 +118,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 relación ...............................................................................................................11
 3.1.2 Otras personas ..........................................................................................................11
 3.2 Sistema de garantía de la seguridad ...............................................................................11
@@ -146,8 +148,8 @@ relación ......................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................14
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................15
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................15
@@ -169,6 +171,7 @@ relación ......................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 En el taller de tranvías de Medlánky, en Brno, se puso en movimiento espontáneamente un vehículo de tranvía de tipo KT8D5, estacionado para realizar una prueba de circulación. El vehículo abandonó las instalaciones del taller y, en el cruce de las calles Hudcova y Palackého, chocó contra la parte trasera de otro vehículo de tranvía de tipo KT8D5, que se encontraba detenido y sin pasajeros, a punto de incorporarse a la línea. Como consecuencia del impacto, el vehículo detenido descarriló.
 En el incidente no hubo fallecidos ni heridos, ni se produjo ningún riesgo para el medio ambiente. El daño total asciende a 3 000 000,- Kč, y el servicio de transporte se interrumpió durante 3 horas y 53 minutos.
@@ -185,6 +188,7 @@ A las 6:28, se estacionó en el canal de inspección n.º 8, situado en la nave 
 Tras el estacionamiento del vehículo y su abandono por parte del conductor que lo había estacionado, a las 6:34:05 se produjo el movimiento espontáneo de dicho vehículo debido a la mencionada avería técnica. El vehículo se puso en marcha con la plena eficacia de su fuerza de tracción y, al mismo tiempo, estaba frenado mediante los frenos de disco de los cuatro bogies, cuya eficacia se había visto reducida debido al calentamiento provocado por varias frenadas de emergencia durante la aparición de la avería en la circulación en línea con pasajeros.
 
 ## Página 9
+
 
 Al pasar por el punto de unión K4, el fuerte impacto lateral puso fin a la avería, y el vehículo continuó su movimiento por la pendiente sin fuerza de tracción, con un ligero frenado debido al calentamiento de los frenos de disco. El vehículo abandonó las instalaciones del taller, cruzó la intersección con la vía pública y, por la vía construida sobre un terraplén independiente, llegó al cruce de las calles Hudcova y Palackého, donde, a las 6:34:36, chocó contra la parte trasera de un vehículo de tranvía de tipo KT8D5 con número de registro 1711, que se encontraba detenido y sin pasajeros, a punto de incorporarse a la línea n.º 1 y que en dicho cruce giraba a la izquierda.
 El vehículo 1711 fue desplazado hacia adelante por el impacto y descarriló por su cuarto bogie en el sentido de la marcha, mientras que el vehículo 1724 se detuvo tras recorrer 12 m desde el punto de impacto, a las 6:34:46.
@@ -210,6 +214,7 @@ Testigos:
 Prueba de circulación: vehículo de tranvía de tipo KT8D5 con número de registro 1724. Vehículo que se incorporaba a la línea n.º 1: vehículo de tranvía de tipo KT8D5 con número de registro 1711.
 
 ## Página 10
+
 
 ### 2.2.3 Descripción de los elementos de la ruta de circulación de la vía, del sistema de seguridad (es decir, en particular, el estado de las vías, los puntos de unión, los cuadros de mando, las señales y el equipo de seguridad de los trenes)
 Los canales de inspección están situados en vías sin pendiente, dentro de la nave cubierta del taller. Antes de la nave, la vía presenta una pendiente en dirección a la puerta del taller. Los puntos de unión se controlan localmente.
@@ -238,6 +243,7 @@ En el incidente se produjeron daños en los vehículos ferroviarios y en la cate
 
 ## Página 11
 
+
 ### 2.4 Factores externos
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Amanecer, despejado, sin precipitaciones, seco, calma, +10°C.
@@ -254,8 +260,8 @@ Los procedimientos tecnológicos para la explotación de la línea de tranvía d
 ### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
 La competencia profesional y la aptitud médica de los empleados del gestor están establecidas y se evalúan de conformidad con el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas en la explotación de las vías férreas y del transporte ferroviario, en su versión vigente, y con las normas internas del gestor.
 
-
 ## Página 12
+
 
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
 El control interno se realiza por empleados autorizados del gestor de conformidad con las disposiciones de las normas internas.
@@ -284,8 +290,8 @@ Durante la circulación hacia el punto de cruce antes de la intersección Hudcov
 ### 3.4.3 Medios de comunicación
 Los medios de comunicación no se utilizaron inmediatamente antes de la aparición del incidente.
 
-
 ## Página 13
+
 
 ### 3.4.4 Vehículos ferroviarios, incluidas las instalaciones de registro automático de datos
 Inmediatamente antes de la aparición del incidente, el vehículo 1724 tenía activado el control y el pedal de freno (el mando de freno) en posición bloqueada (de estacionamiento). El registro del tacógrafo en ese momento registra los frenos de disco de todos los bogies frenados, las puertas abiertas y, además de la entrada «freno», también la entrada «marcha», lo que indica la mencionada avería técnica.
@@ -303,6 +309,7 @@ La persona autorizada para examinar las causas y las circunstancias de la aparic
 El inspector jefe de la Inspección Ferroviaria, presente en el lugar del accidente, acompañó el vehículo 1724 durante su remolque al depósito y, una vez estacionado, lo selló para los fines de la evaluación comisionada del estado técnico y de la posterior localización de la avería técnica.
 
 ## Página 14
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral del personal del explotador de la infraestructura y del transportista que fueron parte en el incidente
@@ -328,8 +335,8 @@ A las 6:34:05, una persona no identificada cerró las puertas desde el exterior,
 
 Al pasar por el punto de cruce K4, la avería se atenuó y cesó el desarrollo de fuerza de tracción debido a un fuerte golpe. El vehículo continuó moviéndose cuesta abajo sin fuerza de tracción, con una ligera frenada
 
-
 ## Página 15
+
 
 provocada por los frenos de disco calentados. El vehículo salió del recinto del depósito, cruzó el paso a nivel con una vía terrestre y, tras circular por la vía que transcurre en plataforma independiente, llegó a la intersección de las calles Hudcova - Palackého, donde a las 6:34:36 impactó contra la parte trasera de un vehículo de tranvía del tipo KT8D5 con el número de inventario 1711, que, sin viajeros a bordo, se incorporaba a la línea n.º 1 y giraba a la izquierda en dicha intersección. El vehículo 1711 fue desplazado hacia adelante por el impacto y descarriló por su cuarto bogie en el sentido de la marcha.
 
@@ -354,6 +361,7 @@ Al pasar por el punto de cruce K4 a una velocidad extremadamente alta, se despre
 
 ## Página 16
 
+
 De la concepción de la instalación eléctrica TV3, con la que está equipado el vehículo, se desprende que el regulador está destinado únicamente a regular la corriente de tracción y/o la corriente de frenado en función del ajuste del rango de regulación (señales 1k3 y 2k3) y del mando del escalón (proporción de fuerza motriz) mediante el controlador de tracción o de frenado. De si el vehículo frena o desarrolla fuerza motriz con dicha corriente se decide mediante el cierre de los contactores del circuito de tracción J1A a J1D o B1A a B1D. Los contactores son accionados por los circuitos de control. El relé de marcha ORJ desempeña un papel clave, ya que en estado excitado conmuta los circuitos para la marcha y en estado relajado para el frenado. La prioridad del frenado sobre la marcha se resuelve ya al inicio de los circuitos de control, concretamente mediante la llave BK1 del controlador de frenado, que al seleccionar cualquier escalón de frenado corta el suministro de alimentación del circuito del relé de marcha ORJ.
 
 Esta solución de conmutación del circuito de tracción marcha/frenado tiene como consecuencia que, en caso de que el relé ORJ se quede atascado en estado cerrado («pegado») o se excite indebidamente debido a una avería, los circuitos interpretarán cualquier escalón de frenado como un escalón de marcha. Esto significa que al pisar el pedal del freno (controlador de frenado) se activaría la fuerza motriz en lugar del frenado. La posición bloqueada del pedal del freno (controlador de frenado), utilizada entre otras cosas para asegurar el vehículo estacionario, actuaría entonces paradójicamente como un máximo pisado del pedal del controlador de marcha: arranque con la máxima potencia de tracción.
@@ -377,6 +385,7 @@ No las hay.
 
 ## Página 17
 
+
 ### 4.4 Hallazgos complementarios
 
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente, que sin embargo no son relevantes para las conclusiones sobre las causas
@@ -390,6 +399,7 @@ No las hay.
 La empresa Dopravní podnik města Brna, a. s., está desarrollando una modificación sencilla de la unidad ZVOR del regulador electrónico GC23P de la instalación eléctrica TV3, que en caso de excitación defectuosa del relé ORJ (debido a una avería o a que se quede pegado) garantizaría el frenado del vehículo cuando se pise a fondo el pedal del freno (controlador de frenado).
 
 ## Página 18
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 
@@ -406,12 +416,14 @@ De la Inspección Territorial de Brno
 
 ## Página 19
 
+
 ## 7 ANEXOS
 
 Foto 1: Vista del lugar del accidente en el sentido de la marcha
 Foto 2: Vista en sentido contrario a la marcha
 
 ## Página 20
+
 
 Foto 3: Estado de los conectores KP1 a KP4 - situación general
 Foto 4: Corrosión de la parte posterior de los conectores - detalle

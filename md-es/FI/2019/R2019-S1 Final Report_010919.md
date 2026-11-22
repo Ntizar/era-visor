@@ -10,19 +10,19 @@ chars: 336899
 ratio_longitud: 1.21
 tokens_in: 133141
 tokens_out: 95328
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 74: cifras largas: faltan 2/3 (67%)"]
-notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (FI)", "página 5: cifras cortas: 1/80", "página 10: cifras cortas: 2/4", "página 13: cifras cortas: 4/13", "página 14: original bilingüe: se compara contra el idioma principal (EN)", "página 17: cifras cortas: 1/8"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Investigación temática sobre accidentes y situaciones de peligro en maniobras
 R2019-S1
 
-
 ## Página 2
+
 
 ### PREÁMBULO
 El Centro de Investigación de Accidentes decidió, en virtud del artículo 2 de la Ley de investigación de seguridad (525/2011), iniciar una investigación temática sobre accidentes y situaciones de peligro en maniobras ocurridos en el ferrocarril.
@@ -41,8 +41,8 @@ Raster de mapa base ©Oficina de Catastro 2/2020, Marcas: OTKES
 Publicación S 1/2020
 ISBN: 978-951-836-580-1 (PDF)
 
-
 ## Página 3
+
 
 ### ÍNDICE
 PREÁMBULO .......................................................................................................................................................................... 2
@@ -104,6 +104,7 @@ Condiciones meteorológicas ....................................................
 
 ## Página 4
 
+
 Condiciones de trabajo ....................................................................................................................... 53
 4.3
 Registros ........................................................................................................................................................... 54
@@ -161,8 +162,8 @@ Desarrollo del tratamiento de los partes de anomalías .........................
 7.6
 Armonización de las instrucciones de maniobras.................................................................................. 92
 
-
 ## Página 5
+
 
 7.7
 Desarrollo de los sistemas de información del sector ferroviario................................................................................. 93
@@ -188,8 +189,8 @@ Anexo 11. Informe R2019-S1-11, Colisión de una locomotora con un camión en Mus
 Anexo 12. Informe R2019-S1-13, Incumplimiento de una señal de parada en Helsinki el 5.3.2020
 Anexo 13. Informe R2019-S1-13, Acoplamiento de una unidad de maniobras a un tren listo para la salida en Vainikkala el 17.4.2020
 
-
 ## Página 6
+
 
 ### DESCRIPCIÓN DE LA INVESTIGACIÓN
 El punto de partida de la investigación fue el gran número de accidentes y situaciones de peligro que se producen en las maniobras en relación con los casos notificados en el tráfico de trenes. Aunque las consecuencias de los casos han sido, en general, leves, en muchos de ellos ha habido elementos de accidentes graves, entre otros, a través de la proximidad de mercancías peligrosas en manipulación y del tráfico de trenes.
@@ -208,6 +209,7 @@ Durante la investigación se seleccionaron, de entre los accidentes y situacione
 1  1302/2018.
 
 ## Página 7
+
 
 1. Colisión
 2. Descarrilamiento
@@ -229,15 +231,15 @@ El grupo que investigó el caso individual registró al final del informe sus ob
 
 De los informes de los casos individuales se han elaborado resúmenes para este informe de investigación, y los informes se han publicado en las páginas web del Centro de Investigación de Accidentes como anexo a este informe de investigación. Los informes de investigación elaborados con base en la investigación se enviaron, tras su finalización, para su dictamen a las partes implicadas en el caso y a la Agencia de Transporte y Comunicaciones. El grupo que investigó el caso trató los dictámenes recibidos en el plazo establecido y modificó el informe si era necesario.
 
-
 ## Página 8
+
 
 ## 1.3
 ### Elaboración del informe de investigación y análisis de la investigación
 Con base en la información estadística disponible y en los informes de investigación de los casos individuales, el grupo de investigación reunió en un todo la información aclarada en la investigación. Como apoyo, se recopiló directrices generalmente aplicables a las maniobras, como la legislación, las disposiciones y las directrices de los operadores más importantes. Además, el grupo de investigación escuchó a personas de los operadores más importantes y de las autoridades de seguridad. Con base en la información factual recopilada, se organizó una sesión de análisis en la que el grupo de investigación procuró identificar factores de fondo comunes de los accidentes y situaciones de peligro en las maniobras. Con base en estos factores, se elaboraron observaciones y conclusiones sobre los aspectos más importantes. Por último, el grupo de investigación elaboró recomendaciones de seguridad, cuya aplicación permite mejorar la seguridad de las maniobras.
 
-
 ## Página 9
+
 
 ### INFORMACIÓN SOBRE EL FENÓMENO INVESTIGADO
 ## 2.1
@@ -262,8 +264,8 @@ Las maniobras también pueden realizarse con permisos locales otorgados por la r
 
 Gran parte de las maniobras se realizan en el ámbito de la regulación del tráfico de segunda clase, en el que la unidad de maniobra forma su propio itinerario, es decir, acciona las agujas a las posiciones deseadas y es así responsable de forma independiente de sus movimientos. Al ámbito de la regulación del tráfico de segunda clase pertenecen, además de las vías de los puertos
 
-
 ## Página 10
+
 
 y de las instalaciones industriales, las maniobras más pequeñas y las vías secundarias de la red ferroviaria estatal. En el ámbito de la regulación del tráfico de primera clase, y especialmente en las interfaces entre la regulación del tráfico de primera y segunda clase, se puede utilizar una regulación independiente del tráfico de maniobras para proteger los itinerarios del tráfico de trenes y de las unidades de maniobra que circulan por la maniobra.
 
@@ -291,6 +293,7 @@ En el desprendimiento de vagones, los vagones se ponen a moverse de forma incont
 ²  El juego de ruedas comprende las ruedas, el eje, los rodamientos del eje y, en el caso de un juego de ruedas motriz, el dispositivo de tracción del eje.
 
 ## Página 11
+
 
 Otro accidente o situación de peligro ocurrido en maniobras es, por ejemplo, una situación de seguridad de tipo "casi" (läheltä piti) u otra situación que podría haber conducido a un accidente.
 ## 2.3
@@ -351,8 +354,8 @@ Total
 38
 253
 
-
 ## Página 12
+
 
 Los casos notificados durante el período de investigación se distribuyeron entre 71 lugares de tráfico distintos. El número de lugares de tráfico desde los que se notificó más de un caso fue de 22. En estos lugares de tráfico hubo un total de 63 casos (56 % de todos los casos del período de investigación).
 
@@ -744,8 +747,8 @@ Ylivieska
 0
 4
 
-
 ## Página 13
+
 
 El mayor número de casos se notificó desde Kouvola³ y Oulu⁴, con un total de 17 en cada uno. De los casos de Kouvola, siete ocurrieron en el período de investigación y diez en el de comparación, y el mayor número de ellos, ocho, fueron descarrilamientos. De los casos de Oulu, seis ocurrieron en el período de investigación y 11 en el de comparación, y el mayor número de ellos, siete, fueron aperturas de aguja.
 
@@ -762,8 +765,8 @@ A escala nacional, los casos de maniobras parecen concentrarse en el sureste de 
 5  Estación de Kotka, Kotka Hovinsaari, Kotka mercancías, Paimenportti, puerto de Kotka, Kotolahti y Kotka Mussalo.
 6  Estación de Helsinki, estación de Pasila, estación de trenes de Pasila e instalación de vías de Ilmala (depósito de Ilmala).
 
-
 ## Página 14
+
 
 Kemijärvi
 3
@@ -834,16 +837,16 @@ Número de casos de maniobras notificados por lugar de tráfico, 1.1.2019–30.4
 
 En la figura se distinguen, en el sur, además de Kouvola y Kotka, Helsinki y Tampere, y en el norte Kokkola junto con Ykspihlaja y Oulu. Al comparar los lugares de ocurrencia de los casos notificados con los volúmenes de tráfico
 
-
 ## Página 15
+
 
 del mapa superior, de los lugares de tráfico de los grandes flujos de transporte solo faltan Jyväskylä, Sköldvik y Rovaniemi, si bien en Jyväskylä y Sköldvik hubo un caso durante el período de seguimiento en cada uno. En los puntos de frontera no hay casos en Vartius e Imatrankoski, lo que probablemente se deba al transporte de trenes completos.
 
 Figura 2.
 Flujos de transporte de mercancías 2019. (Imagen: Väylävirasto)
 
-
 ## Página 16
+
 
 El número de casos puede observarse que sigue en gran medida la cantidad de mercancías en las distintas partes de la red ferroviaria. En el sureste de Finlandia el tráfico de mercancías es intenso, entre otros motivos por el tráfico con Rusia. La probabilidad de desviaciones de seguridad es también por ello alta. En cuanto a las desviaciones notificadas durante el período de investigación, cabe señalar que un tercio (34 %) de las desviaciones notificadas ocurrió en el ámbito de vías privadas.
 
@@ -1034,8 +1037,8 @@ Total
 10
 141
 
-
 ## Página 17
+
 
 ### Revisiones de VR-Yhtymä Oy sobre la situación de seguridad de las maniobras
 
@@ -1054,6 +1057,7 @@ Casos de maniobra: colisiones, descarrilamientos, pasos de señal de parada no a
 Desviaciones graves de seguridad del material rodante: colisiones, incendios, roturas de ejes, rodamientos calientes, roturas de trenes, averías graves de puertas, averías graves de PRK, otros casos graves.
 
 ## Página 18
+
 
 Evolución cuantitativa de las anomalías de maniobra 2015–2019.
 Paso sin señal de parada
@@ -1120,8 +1124,8 @@ Anomalías de maniobra por unidad responsable en 2019.
 De la tabla se observa que el descarrilamiento fue el tipo de caso más frecuente tanto en la logística ferroviaria como en la maniobra externa, y el salto de la señal de parada, por el contrario, en las unidades responsables de la circulación de trenes y del tráfico de pasajeros. Los pasos sin señal de parada y las colisiones se distribuyeron de forma más uniforme, aunque destacaron en la unidad responsable de mantenimiento. Sin embargo, el número de casos de las unidades de tráfico de pasajeros y de mantenimiento era pequeño.
 En la unidad responsable de la logística ferroviaria se realizaron en 2019 un total de 1 864 observaciones de seguridad, de las cuales 1 775 (95 %) dieron lugar a medidas. Las observaciones se distribuyeron por zonas: Sur 144 ud.,
 
-
 ## Página 19
+
 
 Sureste 584 ud., Oeste 364 ud., Este 325 ud. y Norte 431 ud. La zona no constaba en un total de 16 observaciones.
 Los ámbitos más frecuentes en los que se realizaron observaciones de seguridad fueron:
@@ -1144,8 +1148,8 @@ A un nivel general se constató que, para el desarrollo de la cultura de segurid
 En su respuesta a la solicitud de información remitida al Centro de Investigación de Accidentes, Fenniarail afirma que la estadística de los casos relacionados con la maniobra es difícil. La dificultad se manifiesta, entre otros aspectos, en que la misma unidad es a veces tren y a veces unidad de maniobra, y la clasificación de un caso determinado depende de en qué fase se realiza la notificación.
 Fenniarail indicó que en 2019 hubo un total de 34 casos, de los cuales 11 se relacionaron de una u otra manera con la maniobra. Durante el primer trimestre de 2020 hubo 10 casos, de los cuales 4 se relacionaban con la maniobra desde la perspectiva de Fenniarail. En las cifras no se han tenido en cuenta seis casos ocurridos en Vainikkala, que Fenniarail clasifica como dirigidos contra el tren, no como caso de maniobra. Entre ellos se encuentra el caso S1-13 Vainikkala estudiado en esta investigación.
 
-
 ## Página 20
+
 
 ### CASOS ESTUDIADOS
 Se estudiaron con más detalle 13 accidentes y situaciones de peligro ocurridos en maniobras. A continuación se presentan los resúmenes de los casos estudiados. Los informes de investigación detallados de los casos estudiados han sido publicados en las páginas web del Centro de Investigación de Accidentes como anexo de este informe de investigación.
@@ -1159,8 +1163,8 @@ Tras subir al último vagón Hkba, uno de los encargados de maniobra inició con
 Figura 5.
 Vagón intermedio Hkba tras la colisión el 25.9.2019. (Imagen: OTKES)
 
-
 ## Página 21
+
 
 El accidente no causó daños personales ni medioambientales. El tope de vía quedó seriamente deformado. Los topes del vagón Hkba resultaron dañados y, además, la estructura del vagón sufrió daños leves.
 La colisión contra el tope de vía se debió a una velocidad de acoplamiento de los vagones ligeramente demasiado alta, con lo que el movimiento de empuje avanzó demasiado. En el descarrilamiento real y en la subida sobre el tope de vía influyeron el mal estado de los topes de vía y la curvatura de la vía causada por colisiones anteriores antes del tope de vía. Las averías de la infraestructura no habían sido reparadas, aunque se habían notificado al mantenedor de la vía.
@@ -1173,8 +1177,8 @@ A las 23.00 la unidad de maniobra partió a recoger el vagón de la vía 135. Un
 Figura 6.
 Imagen de la aguja V238 hacia las vías 134 (izquierda) y 135 (derecha) la mañana siguiente al accidente, el 15.10.2019. (Imagen: OTKES)
 
-
 ## Página 22
+
 
 Tras la aguja, el primer vagón chocó contra la esquina del vagón que estaba en la vía 134.
 En la colisión resultaron dañados tres vagones. El lugar del accidente estaba en la zona de estacionamiento de vagones del depósito, fuera del control del tráfico, por lo que lo ocurrido no se notificó al control del tráfico.
@@ -1187,6 +1191,7 @@ Figura 7.
 Cierre de vía aplastado bajo el bogie de la locomotora el 8.10.2019. (Imagen: Fenniarail)
 
 ## Página 23
+
 
 En la colisión, los pernos de fijación del desvío se rompieron y el desvío se desprendió. La palanca de maniobra del desvío se deformó y la traviesa de madera resultó dañada. El desvío desprendido se encajó entre los ejes de la locomotora y dañó la locomotora. Debido al accidente, el tren de pasajeros con destino a Helsinki salió de Kemijärvi con unos treinta minutos de retraso respecto al horario. El tren de mercancías salió de Kemijärvi con unas dos horas de retraso respecto al horario. El accidente también causó daños leves en la vía.
 
@@ -1213,6 +1218,7 @@ La intención era trasladar diez vagones cargados de madera desde la zona del an
 
 ## Página 24
 
+
 Sin embargo, el jefe de maniobras decidió cambiar las agujas él mismo. El regulador de tráfico le advirtió de que algunas agujas estaban en posición incorrecta.
 
 El jefe de maniobras accionó la aguja V003 y comenzó a maniobrar la unidad de maniobras hacia la aguja V001, observando en la dirección del movimiento. Durante el movimiento, el jefe de maniobras verificó la posición de la aguja V001 desde el tope de la vía de seguridad a una distancia de unos 70 metros, interpretando que la señal de la aguja indicaba que la aguja estaba accionada hacia la vía divergente en la dirección requerida por la maniobra. Sin embargo, no era así, por lo que la aguja V001 quedó abierta. El jefe de maniobras no se percató de ello, sino que continuó el movimiento hasta que el último vagón de la unidad de maniobras hubo cruzado la aguja V005. En ese momento, la locomotora y, contando desde ella, tres vagones estaban detrás de la aguja V001, y el cuarto vagón sobre la aguja V001.
@@ -1229,6 +1235,7 @@ La información de la apertura de la aguja llegó al sistema de mando a distanci
 La limpieza corrió a cargo del equipo de limpieza de Väylävirasto, con el equipo de limpieza de VR actuando en todo momento como apoyo. Tanto en la aligeración de la carga del vagón descarrilado como en el izado del vagón a la vía
 
 ## Página 25
+
 
 surgieron problemas y retrasos. El jefe del equipo de limpieza de Väylävirasto (RATA P51) entregó la vía para su reparación la mañana del día siguiente al accidente, tras finalizar los trabajos de limpieza. El tráfico en la línea Tampere–Seinäjoki estuvo detenido durante unas 12 horas.
 
@@ -1257,6 +1264,7 @@ Los nueve vagones de la unidad de maniobras continuaron su recorrido cuesta abaj
 
 ## Página 26
 
+
 Intentó volver a subir en un punto desde el que fuera posible detener con el freno de mano los vagones desbocados. Sin embargo, la velocidad de los vagones era tan alta que no lo consiguió.
 
 Los vagones continuaron a través de la intersección a nivel situada en la zona de la fábrica hacia el andén de carga del almacén de cartón (vía de paso a través del almacén), donde se habían dejado previamente tres vagones de mercancías cubiertos esperando. La permanencia de los vagones en su sitio estaba garantizada con el freno de mano. Los vagones desbocados colisionaron con estos tres vagones, y la reacción en cadena causada por la colisión provocó la rotura del tope de vía. Los vagones continuaron su movimiento a través de la carretera situada detrás del tope de vía, deteniéndose contra una viga de hormigón. Al cruzar la carretera, los vagones estuvieron a punto de colisionar con un carretillo elevador.
@@ -1279,6 +1287,7 @@ La unidad de maniobras partió el lunes 2.12.2019 desde Äänekoski y llegó a S
 
 ## Página 27
 
+
 En Suolahdes, los jefes de maniobras llevaron la unidad de locomotora al otro extremo y se pusieron a empujar vagones hacia la zona industrial de Valtra. Un jefe de maniobras estaba en la locomotora y el otro en el extremo delantero del primer vagón. El jefe de maniobras situado en el vagón dirigía la maniobra mediante guía por radio.
 El empuje continuó hasta cruzar el paso a nivel de la carretera principal. La maniobra se detuvo antes de la puerta de la fábrica, donde también se encuentra el límite entre la red ferroviaria estatal y la vía privada. El jefe de maniobras bajó del vagón y fue a abrir la puerta de la zona industrial. Tras abrir la puerta, tuvo que limpiar, barriendo, la nieve de la aguja V001. Después de limpiar la aguja, logró conmutar la aguja a la vía 002.
 El jefe de maniobras dirigía la maniobra desde el paso a nivel. La maniobra de empuje debía continuar a través de la aguja V001 hacia la vía libre 002. Mientras la maniobra continuaba, el primer vagón descarriló en el paso a nivel a las 14.26. La velocidad de la unidad en el momento del descarrilamiento era de 8 km/h.
@@ -1289,6 +1298,7 @@ El paso a nivel no se había limpiado de nieve ese día, ni el fin de semana ant
 El personal de producción de tractores de la fábrica había utilizado por iniciativa propia y en contra de las instrucciones el paso a nivel situado en el interior de la puerta de la fábrica para el traslado de tractores. Esto se debió a las obras de construcción que había en la zona industrial y que modificaban las instalaciones de producción. Después del accidente, el paso a nivel se cerró con cadenas por decisión de la dirección de la fábrica de Valtra Oy.
 
 ## Página 28
+
 
 Se habían emitido notificaciones de desviaciones de seguridad y observaciones relativas a los trabajos de despeje de nieve en la vía de la zona industrial los días 17.12.2017 y 19.2.2019. Conforme al plan de mantenimiento de la vía de la fábrica, las notificaciones de desviaciones se realizaban mediante el sistema de notificación de averías y desviaciones (VR-TUTTI). Sin embargo, las notificaciones de desviaciones no habían llegado a la persona responsable del mantenimiento de la fábrica. La parte responsable de la seguridad de la fábrica tiene previsto elaborar un plan de seguridad relativo a la vía de la zona industrial.
 ## 3.7
@@ -1302,6 +1312,7 @@ De los vagones adicionales, el bogie trasero del vagón Sim cubierto de cuatro e
 
 ## Página 29
 
+
 El accidente no causó daños personales ni medioambientales. La vía, las agujas V741 y V739, así como los números de señalización, los cables eléctricos y el poste de la vía eléctrica adyacentes, se dañaron como consecuencia del descarrilamiento. El vagón descarrilado sufrió daños leves.
 El factor clave que condujo al descarrilamiento fue no haberse asegurado la desconexión del acoplamiento entre vagones equipados con acoplamiento SA3. La verificación puede realizarse mediante una prueba de tracción, lo que no se hizo en este caso. El descarrilamiento propiamente dicho lo causó el calzo de detención de vagones, colocado en la vía 710 para asegurar que los vagones permanecieran inmóviles y de uso habitual en las playas de maniobras. La desconexión del acoplamiento SA3 se realiza levantando la palanca de desacoplamiento situada en el lateral del vagón. Después de levantar la palanca de desacoplamiento, debe hacerse visible la barra de desacoplamiento situada bajo el acoplamiento SA3 para comprobar la desconexión. La desconexión del acoplamiento entre vagones no siempre es segura incluso después de estas actuaciones, por lo que la prueba de tracción adquiere especial importancia al desconectar vagones equipados con acoplamiento SA3. En el trabajo de maniobras nonstop se ha identificado como mayor riesgo el flujo de información en situaciones de cambio de roles. El accidente se produjo precisamente en una situación de este tipo, pero el cambio de roles no tuvo influencia en la causación de este accidente.
 ## 3.8
@@ -1314,6 +1325,7 @@ Al mismo vagón le ocurrió, la noche del día siguiente, una situación de peli
 
 ## Página 30
 
+
 que volvieran a inspeccionar el vagón. La inspección del material rodante y la verificación de la aptitud para la circulación son siempre responsabilidad del explotador ferroviario.
 Figura 12. Vagón Taimn con rueda descarrilada en Kouvola el 12.1.2020. (Imagen: OTKES)
 El descarrilamiento se produjo en la formación habitual de un tren saliente. La locomotora empujaba los vagones a baja velocidad sin acoplarlos a la locomotora. El vagón más alejado de la locomotora, es decir, el primero en el sentido de la marcha, era el vagón Taimn vacío. Como el freno de mano del vagón no funcionaba, el movimiento de los vagones hubo que detenerlo con un calzo de detención hasta el pozo de inspección de frenos. En esta situación, el vagón superó primero un calzo y el segundo calzo de detención colocado en la vía descarriló la segunda rueda del primer bogie del vagón. El vagón Taimn es corto y de estructura rígida, lo que probablemente influyó en el descarrilamiento.
@@ -1325,14 +1337,15 @@ El maquinista solicitó permiso de salida, en el grupo de llamada JoeO VIRVE de 
 
 ## Página 31
 
+
 El maquinista solicitó permiso para llevar la unidad 4608 desde la vía 036 a la vía 076, por delante del tren que salía de la vía 036.
 Jokisuu corrigió la vía de destino a 074 y preguntó al maquinista si venía del lado nuevo. El maquinista respondió afirmativamente. Jokisuu concedió permiso a la unidad: "4608 desde el nuevo cocherón, paso por la aguja V070, permiso." El maquinista repitió el permiso recibido y Jokisuu confirmó respondiendo: "Correcto." Tras conceder el permiso, Jokisuu envió un aviso previo a Joensuu cuatro, indicando que colocaría las locomotoras a la espera del tren de pasajeros IC7 que llegaba a la señal G de la vía 004. Joensuu cuatro confirmó el mensaje.
 La unidad 4608 salió de la vía 036 con destino a la vía 074 a baja velocidad, mientras el maquinista, al salir de la vía de mantenimiento, verificaba la corrección de las posiciones de las agujas. El regulador de tráfico de maniobras (indicativo Joensuu cuatro) que trabajaba en la estación oyó desde fuera ruidos extraños de las locomotoras y observó que el par de locomotoras se dirigía hacia la vía segura (ruta protegida) asignada al IC7. Las locomotoras se encontraban entonces ya a algunas decenas de metros de la aguja de enlace de la vía segura V040.
 Figura 13. Movimientos de las locomotoras y del tren IC7 en la situación de peligro. (Raster de cartografía base ©Maanmittauslaitos 2/2020, Marcas: OTKES)
 Joensuu cuatro se puso en contacto por radio VIRVE con Jokisuu para preguntarle "qué locomotoras se están moviendo aquí" y le indicó que las locomotoras ya estaban casi en la vía principal y en la zona de la aguja de enlace transversal V040. Jokisuu hizo que en su mesa de mando la señal A de la vía 004 del tren de pasajeros IC7 que se aproximaba mostrara la señal de "Alto". El tren de pasajeros IC7 ya había pasado la señal previa EoA, pero el maquinista logró detener el tren sin frenado de emergencia en la señal A. La señal A se sitúa a 378 metros al sur de la aguja de enlace V040. También el maquinista de la unidad 4608 oyó por la radio VIRVE las conversaciones mantenidas entre los reguladores de tráfico, gritó por la radio: "rojo aquí" y detuvo las locomotoras. Las locomotoras se detuvieron en la aguja V042, que se sitúa a 63 metros de distancia de la aguja de enlace V040. Jokisuu dijo por la radio VIRVE: "Vienes precisamente
 
-
 ## Página 32
+
 
 del lado equivocado del que pediste permiso." En la situación de peligro, la distancia que quedó entre el tren de pasajeros IC7 detenido y la unidad 4608 fue de 378 metros.
 La regulación del tráfico de la estación de Joensuu está dividida en cuatro áreas de regulación de tráfico de primera clase, cuyos indicativos son "SULKU", "PELTO", "JOENSUU NELJÄ" y "JOKISUU". Sulku, Pelto y Joensuu cuatro son reguladores de tráfico de maniobras que trabajan en la playa de maniobras, y Jokisuu trabaja en el puesto de regulación de tráfico de Joensuu, separado de la playa de maniobras. Los nombres de las áreas de regulación de tráfico se cambiaron en el año 2017. Los indicativos no aparecen en los esquemas de vías ni en las placas de regulación de tráfico de primera clase existentes en la playa de maniobras. En las placas se puede ver el nombre del área de regulación de tráfico de primera clase, en cuya base se encuentra el indicativo en los datos de contacto de la regulación de tráfico.
@@ -1342,8 +1355,8 @@ La iniciativa inmediata del regulador de tráfico en la comunicación con el maq
 La información de vía de salida facilitada por el maquinista se volvió sujeta a interpretación en la solicitud de permiso. El maquinista indicó en su solicitud de permiso la vía de salida 036, en cuyo caso la solicitud de permiso, a pesar del indicativo erróneo, habría correspondido al regulador de tráfico de maniobras (Joensuu cuatro). Tampoco en esta fase ninguno de los dos reguladores de tráfico que estaban en el mismo grupo de llamada reaccionó a la información de vía de salida. En cambio, al verificar la información de vía de salida, el regulador de tráfico ofreció al maquinista como información de ubicación el "lado nuevo". El maquinista, con poca experiencia de la estación de Joensuu, no supo cuestionar la información ofrecida. Como consecuencia del malentendido mutuo, el regulador de tráfico concedió el permiso al maquinista, asumiendo al mismo tiempo que este utilizaría una ruta completamente distinta de la que en realidad utilizó.
 El maquinista no verificó ni confirmó a dónde ni por qué ruta se había concedido el permiso. El maquinista habría podido verificar las ubicaciones de los destinos del permiso recibido en el esquema de vías que se abre desde el dispositivo terminal, o confirmar el asunto preguntando con más detalle al regulador de tráfico. Los indicativos de regulación de tráfico utilizados en la estación, los nombres de las áreas de regulación de tráfico de primera clase marcados en el esquema de vías y los nombres de las placas de límites de las áreas de regulación de tráfico existentes en la estación no coinciden. Además, el nombre de zona "Uusi talli" utilizado en el esquema de vías está marcado en cuatro lugares diferentes. Esto es propicio para causar problemas a los maquinistas que acuden raramente a la estación. Se avecina una gran renovación de la estación, en cuyo contexto la regulación de tráfico se trasladará a Kouvola. Sin embargo, conviene realizar una evaluación de riesgos del entorno de trabajo y poner al día los aspectos que afectan a la seguridad antes incluso de la renovación de la estación.
 
-
 ## Página 33
+
 
 Al salir de las vías de mantenimiento de la estación de Joensuu, el acceso directo de las unidades de maniobras a una vía de circulación de trenes ya asegurada no está impedido por ningún sistema técnico, sino que la impedimenta y la aseguración dependen únicamente de la vigilancia del regulador de tráfico de maniobras que trabaja solo en la playa de maniobras. En la vía de mantenimiento de la estación, en las proximidades de la aguja V151, había anteriormente una señal de "Alto", que fue retirada hace algunos años debido a cambios normativos. Si hubiera habido una señal de "Alto" en el lugar, habría obligado al maquinista a detenerse ante la señal y a pedir permiso al regulador de tráfico para continuar. El regulador de tráfico habría tenido así la oportunidad de detectar la ubicación errónea del maquinista.
 ### 3.10 Paso sin autorización de agujas en Oulu Nokela el 7.2.2020
@@ -1353,6 +1366,7 @@ La locomotora no se detuvo ante la placa de pulsador, sino que continuó su cami
 Figura 14. Imágenes de la cámara de vigilancia del paso sin autorización de la aguja V350 el 7.2.2020. (Imagen: VR FleetCare)
 
 ## Página 34
+
 
 A pesar de las observaciones del par de señales de la vía, la ruta no se había formado correctamente. El maquinista notó la situación solo al estar sobre la aguja y comprobó que la ruta era en efecto hacia la vía 322, hacia la cual la locomotora ya había comenzado a girar. Al darse cuenta de esto, detuvo la maniobra de cambio. En el momento del suceso, nadie en la locomotora había observado que el paso sin autorización de la aguja ya hubiera tenido lugar.
 
@@ -1376,6 +1390,7 @@ Casi simultáneamente con la salida de la locomotora, un trabajador del almacén
 
 ## Página 35
 
+
 El jefe de maniobras detectó la carretilla a unos diez metros del paso a nivel y gritó "rojo de emergencia". A cinco metros del impacto, el operario de tren realizó una frenada de emergencia y utilizó el silbato. La velocidad en esta fase era de 9,7 km/h. El frontal de la locomotora chocó contra las horquillas de la carretilla y los paquetes de madera que transportaba. La carretilla permaneció en pie, pero todos los paquetes de madera cayeron al suelo. El movimiento de la locomotora se detuvo cuatro segundos después del inicio de la frenada de emergencia.
 
 Figura 15. Lugar del accidente en Mussalo el 5.3.2020. (Imagen: VR Transpoint)
@@ -1394,6 +1409,7 @@ El propietario de la red ferroviaria de la vía 510 es HaminaKotka Satama Oy y e
 
 ## Página 36
 
+
 El intenso tráfico de camiones de la zona provoca situaciones de peligro, y en el paso a nivel ha habido varias situaciones de casi accidente. No se han realizado registros de desviaciones relacionadas con la seguridad ferroviaria, a pesar de que las desviaciones de seguridad son muy frecuentes. En las instrucciones de los conductores de carretillas no se da ninguna orientación sobre cómo actuar en situaciones de cruce de pasos a nivel.
 
 En las auditorías no se examina la práctica operativa. Las auditorías se basan en documentación escrita y, como no hay notificaciones de desviación sobre situaciones de peligro, estas no salen a la luz. Ninguno de los dos mayores operadores de la zona, HaminaKotka Satama Oy o la ciudad de Kotka, ha asumido la responsabilidad directa de la seguridad del tráfico en la zona. Asumir la responsabilidad directa crearía las condiciones para mejorar la cultura de seguridad y aclararía el flujo de información y las cuestiones de responsabilidad.
@@ -1410,6 +1426,7 @@ Después de pasar el semáforo E230, el conductor de la unidad de maniobras info
 
 ## Página 37
 
+
 El conductor de Junan 8025 consiguió contacto con el control de tráfico e informó de que la señal había cambiado a rojo. Durante la llamada, la señal que autorizaba la marcha volvió a mostrarse y el operador de control de tráfico indicó que la vía estaba libre y que el trayecto podía continuar.
 La paso de la señal de parada no tuvo consecuencias. El tren A de salida llegó a la siguiente estación con unos cuatro minutos de retraso, lo que no causó perjuicios significativos para el tráfico de cercanías.
 La causa probable del error cometido por el maquinista fue la firme convicción de encontrarse en una vía distinta de la que realmente ocupaba, lo que se relacionó con la anticipación de una señal situada más lejos. Esto provocó una momentánea falta de atención. El caso también se vio influido por la rutina en el trabajo y la similitud de las vías en un amplio patio de maniobras.
@@ -1422,8 +1439,8 @@ La locomotora de Fenniarail Oy llegó como tren VET17101 a la vía 307 de mercan
 Al llegar a la vía 409, el conductor acopló la locomotora a los vagones de salida, conectó la línea de freno, comprobó que la locomotora permanecía inmóvil, retiró los calzos de freno de debajo del primer vagón y regresó a la locomotora. Recibió de la gestión de transporte la lista de vagones y comprobó que el primer vagón era el correcto.
 Tras la carga de la línea de freno y la comprobación de estanqueidad, se puso los equipos de control por radio, realizó una prueba de frenado y salió a realizar la comprobación de la aptitud para el viaje. Al llegar al final del tren, desenganchó el freno automático y desenganchó también el freno directo de la locomotora. Los vagones comenzaron a rodar fácilmente, por lo que volvió a aplicar los frenos de la locomotora. No vio ningún tráfico en la vía en la dirección del final del tren.
 
-
 ## Página 38
+
 
 Al regresar a la locomotora, desactivó los equipos de control por radio y volvió a cargar la línea de freno, ya que la desconexión del control por radio reduce la presión de la línea de freno. Una vez cargada la línea de freno, el conductor conectó el JKV, introdujo los datos de la lista de vagones y esperó a que se abriera la ventana de notificación de salida del dispositivo terminal del conductor (KUPLA).
 Sobre las 9.45 se percibió un golpe seco en la locomotora. El tren se desplazó aproximadamente un metro. El conductor supuso que la unidad de maniobras de VR había añadido vagones al final del tren. El conductor se puso en contacto con el control de tráfico de Vainikkala, que verificó la situación e informó al conductor de que el acoplamiento se había producido y de que la unidad de maniobras retiraba los vagones que había añadido. El conductor fue a comprobar el extremo final del tren y constató que los dos vagones añadidos habían sido desenganchados. Después realizó la notificación de disponibilidad para la salida y pudo partir con cierta antelación.
@@ -1434,8 +1451,8 @@ La unidad de maniobras trasladó, según la orden de trabajo, dos vagones a la v
 El acoplamiento de los vagones no causó daños personales, materiales ni medioambientales.
 La unidad de maniobras de VR Transpoint no había identificado que el tren de Fenniarail que se encontraba en la vía 409 estaba completo en cuanto a la composición de vagones, sino que le añadió vagones. Ni la unidad de maniobras, ni el jefe de patio de maniobras, ni el maquinista de Fenniarail disponían de información en tiempo real suficiente para garantizar un trabajo seguro. Añadir vagones a un tren de salida en una vía es una práctica habitual, pero la unidad de maniobras solo puede determinar la disponibilidad para la salida del tren mediante la posición de la "cola de ratón" de la línea de freno en el extremo del tren de salida o mediante la observación del jefe de patio de maniobras en la orden de maniobras. La manguera de freno del último vagón no se había elevado a la llamada "cola de ratón" (imagen 17.). El grupo de investigación no tiene constancia de si se ha planteado obligar al uso de la "cola de ratón" o de si se ha realizado una evaluación de riesgos al respecto. Esta práctica se utiliza generalmente en VR, pero no de forma sistemática en Fenniarail. El uso de la "cola de ratón" facilita la maniobra de los vagones cuando se pretende utilizar eficientemente la capacidad de la vía.
 
-
 ## Página 39
+
 
 Imagen 17. Tratamiento de la manguera de freno del último vagón del tren. A la izquierda, un vagón finlandés en el que el extremo de la manguera de freno se cuelga del gancho reservado para ello. A la derecha, un vagón ruso, que no dispone de dicho gancho, por lo que la manguera de freno se ha elevado sobre la cadena de la palanca de desenganche para colocarla en la "cola de ratón". (Fotografías: OTKES)
 La acoplamiento de la unidad de maniobras a un tren ya preparado que se produjo se realizó porque la unidad de maniobras, según la instrucción, debe acoplar siempre los vagones. Los vagones solo se dejan sin acoplar si en la orden de maniobras figura la indicación "hacia atrás". En este caso, el supervisor de trabajos de patio no había anotado ninguna observación de este tipo. Esto se debió a que había supuesto que las maniobras durarían tanto que el tren ya habría partido.
@@ -1446,8 +1463,8 @@ Uno de los factores que aumentan el riesgo de que se produzca una situación de 
 El área de responsabilidad del supervisor de trabajos de patio, que también es responsable de la jefatura de patio de maniobras de Vainikkala, es amplia y contiene muchos elementos que deben recordarse. Esto aumenta la probabilidad de que se produzca un error humano en ausencia de sistemas que apoyen la memoria.
 En los sistemas de gestión de la seguridad se enfatiza la gestión de riesgos y la colaboración con las partes interesadas. Las responsabilidades y obligaciones están bien documentadas, pero los sistemas de los operadores no intercambian información entre sí y parte de las tareas dependen de la memoria.
 
-
 ## Página 40
+
 
 ### INFORMACIÓN DE BASE
 ## 4.1
@@ -1462,6 +1479,7 @@ Imagen 18. Tipos de desvíos más comunes utilizados en la red ferroviaria de Fi
 
 ## Página 41
 
+
 Los desvíos se accionan ya sea eléctricamente o manualmente de forma mecánica. Los desvíos accionados eléctricamente pueden ser controlados a distancia por la regulación del tráfico o controlados localmente. El modo de control también puede ser seleccionable de modo que la regulación del tráfico pueda otorgar permisos locales a un área determinada y ceder así los desvíos al control de las unidades que se desplazan por el área.
 
 Figura 19. Ejemplo de un panel de control de desvíos situado en una estación de clasificación. (Imagen: OTKES)
@@ -1474,8 +1492,8 @@ Figura 20. Señal de desvío amarillo-blanco en diferentes posiciones. El blanco
 
 La visibilidad de la señal de desvío amarillo-blanco fue una causa parcial importante en el caso S1-04 Ylöjärvi del paso de desvío del desvío estudiado y del descarrilamiento que se produjo a continuación. El color amarillo y el blanco
 
-
 ## Página 42
+
 
 se confunden fácilmente desde lejos, especialmente con iluminación artificial, y el texto no es posible verlo desde una distancia mayor.
 
@@ -1491,8 +1509,8 @@ La verificación de la posición del desvío de cruce de doble sentido desempeñ
 
 Otra señal importante relacionada con los desvíos en las estaciones de clasificación es la señal de límite de desvío, que indica el punto en el que se encuentran los espacios libres del material rodante situado en dos vías adyacentes a una altura de 1 000 mm por encima del canto del raíl. En la práctica, esto significa la zona
 
-
 ## Página 43
+
 
 que debe estar libre para que se pueda circular por el desvío sin riesgo de colisión. La instrucción de Väylävirasto era pintar las señales de límite de desvío en el lateral del raíl hasta el 31.5.2020. Anteriormente se habían utilizado postes señaléticos de un tipo diferente.
 
@@ -1504,8 +1522,8 @@ Figura 24. Ubicación y método de marcado de la señal de límite de desvío a 
 
 9  Instrucciones técnicas de vía (RATO) parte 17 Señales y marcado de vía, instrucciones de Väylävirasto 13/2020, Väylä/1664/06.04.01/2020
 
-
 ## Página 44
+
 
 En los casos estudiados, se trató de la ausencia de señales de límite de desvío en el caso S1-02 Ilmala. Los trozos de cable rojo situados entre los raíles que anteriormente servían como señales de límite de desvío en la estación de clasificación habían sido retirados por razones de seguridad laboral, pero no se habían pintado nuevas señales de límite.
 
@@ -1521,8 +1539,8 @@ Figura 26. Señalización emitida mediante señal de vía. (Imágenes: Väylävi
 
 Las señales de vía estuvieron presentes en parte en todos los casos estudiados, pero no se detectaron problemas en su funcionamiento ni en su interpretación.
 
-
 ## Página 45
+
 
 Para proteger las rutas de circulación de trenes hacia las estaciones de clasificación y a través de ellas, se utilizan cierres de vía para impedir el acceso del material rodante a la ruta protegida. El cierre de vía tiene cuñas metálicas que se giran sobre los raíles de modo que el material rodante que se mueve sin autorización se detenga sobre ellas o descarrile de los raíles. La señal del cierre de vía es una placa giratoria roja y blanca unida al aparato de uso del cierre.
 
@@ -1536,8 +1554,8 @@ Figura 28. Señal "Seis" (Parada). (Imagen: Väylävirasto)
 
 En los casos estudiados, en el caso S1-09 Joensuu, la señal "Seis" (Parada) que anteriormente existía en la estación de clasificación probablemente habría impedido la situación de peligro, ya que la locomotora que se había dirigido por un itinerario erróneo habría tenido que detenerse en el punto de la señal y el maquinista habría tenido que ponerse en contacto con la regulación del tráfico. La ruta de circulación incorrecta probablemente se habría puesto de manifiesto en este contexto, y la locomotora no habría podido continuar su recorrido hacia la vía principal en servicio.
 
-
 ## Página 46
+
 
 ### Material rodante
 
@@ -1549,8 +1567,8 @@ Figura 29. Locomotora diésel-hidráulica Dv12 de VR-Yhtymä, que es el tipo de 
 
 Figura 30. Locomotora diésel-hidráulica Dr14 de VR-Yhtymä realizando maniobras en la rampa de descenso de Tampere. (Imagen: OTKES)
 
-
 ## Página 47
+
 
 Las locomotoras Dr14 se utilizan exclusivamente para maniobras, mientras que las locomotoras Dv12 se utilizan además de para maniobras, para el tráfico de trenes. Muchos recorridos de las locomotoras de la serie Dv12 consisten en la circulación en línea como tren y en el trabajo de maniobras realizado en las estaciones de clasificación de las estaciones de tráfico, que a menudo se realiza mediante control por radio. Además, la serie Dv12 se utiliza en tramos de vía en los que se circulan los tramos entre estaciones de tráfico como maniobras. Estos son, por ejemplo, los tramos Lahti–Heinola y Toijala–Valkeakoski.
 
@@ -1564,6 +1582,7 @@ En una situación de emergencia, una locomotora de control por radio puede deten
 
 ## Página 48
 
+
 Al pulsar los botones de parada de emergencia, el freno de emergencia se aplica sin retardo, activando los frenos al vaciar la línea de freno a través de la llamada válvula de dispositivo de seguridad (válvula SIFA). Cabe señalar que el mando por radio no dispone de un botón de parada de emergencia específico, sino que la detención se realiza en situaciones de frenado de emergencia mediante el mando normal de tracción directa del mando por radio como frenado de emergencia.
 De los casos individuales investigados, las locomotoras dihidráulicas de VR-Yhtymä equipadas con mando por radio intervinieron en nueve casos. La locomotora Dv12 estuvo implicada en los casos S1-01 Turku, S1-02 Ilmala, S1-04 Ylöjärvi, S1-06 Suolahti y S1-09 Joensuu. La locomotora Dr14 se utilizó en los casos S1-06 Kouvola, S1-07 Mussalo, S1-11 Mussalo y S1-13 Vainikkala. En todos los casos, la locomotora y el sistema de mando por radio funcionaron con normalidad.
 El otro operador nacional de tráfico ferroviario, Fenniarail, utiliza como material rodante las pesadas locomotoras Dr18. Las locomotoras Dr18 son diésel-eléctricas y están equipadas con equipos de mando por radio. Los maquinistas utilizan los equipos de mando por radio de las locomotoras en maniobras de clasificación en las estaciones de clasificación que dan soporte al tráfico de trenes.
@@ -1572,8 +1591,8 @@ La locomotora Dr18 de Fenniarail estuvo implicada en dos de los casos investigad
 Además de VR-Yhtymä y Fenniarail, operan en nuestro país siete empresas que prestan servicios de maniobras. La mayor de ellas es Ratarahti Oy, que opera principalmente en la región de Imatra. Su material rodante está formado, entre otros, por locomotoras dihidráulicas Dv15 y MOVE90 y por los mini-locomotoras robot OTSO de mando por radio. Las locomotoras OTSO-robot fabricadas por Teräspyörä Oy son utilizadas también por otras empresas prestadoras de servicios de maniobras, como por ejemplo Valtasiirto Oy. El material rodante de maniobras más especializado lo representa, por su parte, la locomotora de ruedas de caucho Zephir 20 de Aurora Rail Oy, con sede en Kouvola. La locomotora es capaz de desplazarse también por carretera y está equipada con mando por radio.
 Además de las empresas prestadoras de servicios de maniobras, también las grandes instalaciones industriales y los terminales de carga disponen de su propio material rodante de maniobras. Por ejemplo, las acerías de SSAB en Raahe y las plantas de Ovako en Imatra realizan las maniobras de las áreas fabriles con sus propias locomotoras MOVE66. FGG Finngas GmbH utiliza en su terminal de gas de Hamina, por su parte, las locomotoras de maniobras Lokomo C600 y Otso 2, que han sido modificadas de modo que puedan operar con seguridad también en zonas con riesgo de explosión, clasificadas ATEX. El material rodante de maniobras diseñado para el proceso de producción de la fábrica lo representan, a su vez, las dos locomotoras eléctricas de alimentación por cable Mantsinen LOCO 100E utilizadas como parte fija del proceso de materias primas de la fábrica de productos biológicos de Äänekoski.
 
-
 ## Página 49
+
 
 En la investigación se estudió un caso que tuvo lugar en las maniobras propias de una instalación de producción. En el caso S1-05 Inkeroinen se trataba de la unidad de maniobras de la fábrica de Stora-Enso, cuyo material rodante era una locomotora dihidráulica MOVE66.
 Además del material rodante de locomotoras y vagones, también se traslada como maniobra material rodante de trenes con motores eléctricos. En el caso investigado S1-12 Helsinki, la unidad de maniobras estaba compuesta por dos unidades de tren Sm5, que se estaban trasladando como maniobra desde el depósito de Ilmala a la estación central de Helsinki.
@@ -1586,8 +1605,8 @@ Además de los vagones de mercancías, en las maniobras se manipulan también va
 ### Dirección del tráfico y establecimiento y aseguramiento de las vías de circulación
 Los directores de tráfico de los ferrocarriles operan en cuatro centros de control situados en Helsinki, Kouvola, Tampere y Oulu, así como en cinco puntos independientes en Joensuu, Imatra, Vainikkala, Inkeroinen y Kotka. Los centros de control operan las 24 horas del día. La Väylävirasto es responsable de la red estatal de vías férreas, su mantenimiento y la dirección del tráfico. Los servicios de dirección del tráfico los adquiere la Väylävirasto a Finrail Oy.
 
-
 ## Página 50
+
 
 La dirección del tráfico es responsable, en el ámbito de la dirección del tráfico de primera clase, de la concesión de autorizaciones para la circulación y los trabajos en vía. Con el desarrollo de la tecnología, han llegado al entorno de trabajo de la dirección del tráfico numerosos sistemas de información y comunicación distintos y destinados a diferentes fines. Las herramientas fundamentales se relacionan con la supervisión de la situación del tráfico, las comunicaciones y la dirección del tráfico conforme al horario, con la ayuda de la información producida por el sistema LIIKE desarrollado para la gestión de los dispositivos de seguridad ferroviaria, los sistemas de mando a distancia y la capacidad de la vía.
 El núcleo de la seguridad ferroviaria lo forman los dispositivos de seguridad, cuyo propósito es garantizar, por medios técnicos basados en el aparato de enclavamiento, una vía de circulación segura para el tren o la unidad, libre de otros tráficos y que siga una ruta determinada. La implementación del aparato de enclavamiento puede basarse en bloqueos mecánicos, tecnología de relés o tecnología informática.
@@ -1602,6 +1621,7 @@ Se procura que las indicaciones y órdenes de las pantallas de tramos de vía se
 El uso de los aparatos de enclavamiento relacionados con la dirección del tráfico ferroviario es posible desde un puesto de uso independiente conectado localmente al aparato de enclavamiento. En la actualidad, los puestos de uso independientes solo se utilizan en determinadas situaciones especiales relacionadas con el mantenimiento y la construcción, o en situaciones de avería relacionadas con el sistema de mando a distancia.
 
 ## Página 51
+
 
 Los sistemas de mando a distancia recopilan continuamente información de eventos y de estado, tanto de los objetos controlados a distancia como de las órdenes producidas por las funciones de conducción del tráfico y de automatización. Con la información de eventos es posible, cuando sea necesario, analizar situaciones de tráfico y los sucesos relacionados con ellas.
 
@@ -1626,6 +1646,7 @@ Los equipos de maniobras de VR Transpoint utilizan en varios patios la llamada "
 
 ## Página 52
 
+
 La aplicación RCS permite conectar, mediante una conexión Bluetooth, un lector RFID, con el que la persona que realiza la inspección de circulación del tren puede leer los datos de los vagones a partir de las etiquetas RFID de cada vagón y verificar con ellos que la composición del tren corresponde a la prevista. Cuando se realiza la inspección de circulación, la aplicación RCS guía al usuario en los puntos de inspección que forman parte de la inspección de circulación y en su registro. Los datos registrados de los puntos inspeccionados se almacenan en la base de datos de la aplicación RCS. Además, en la base de datos se registra la prueba de frenos realizada en la inspección de circulación. Además del personal de patio, los conductores de locomotora han utilizado ampliamente la aplicación desde el inicio del año 2020 en un nuevo modelo de operación en el que el conductor de locomotora realiza la inspección de circulación del tren saliente.
 
 La tableta de patio y la aplicación RCS se utilizan ampliamente entre el personal de maniobras de VR Transpoint y los conductores de locomotora de VR-Yhtymä. Sin embargo, el uso de todas las características de la tableta solo es posible en aquellos patios en los que, junto a VR-Yhtymä, no operan otros gestores de tráfico ferroviario. Dado que las aplicaciones de la tableta son de uso exclusivo de VR-Yhtymä, no pueden utilizarse plenamente, por ejemplo, en Imatra, Kouvola y Mussalo, cuyos patios son utilizados por varios gestores de tráfico ferroviario. En estos patios, por ejemplo, la información de reserva de vías y la información de ubicación de los vagones de la aplicación solo es válida en lo que respecta al material rodante bajo la responsabilidad de VR-Yhtymä.
@@ -1637,6 +1658,7 @@ Los conductores de locomotora de VR-Yhtymä y Fenniarail utilizan la aplicación
 VR FleetCare, responsable del mantenimiento del material rodante de VR-Yhtymä, puso en uso en septiembre de 2019 el sistema de información KAPU, cuya una de las características es la gestión de la ubicación de las unidades de material rodante en los patios de las cocheras. La información de ubicación se basa en los datos registrados por los usuarios. Además de la ubicación, el sistema contiene la longitud de las vías del patio, en función de la cual el sistema puede determinar cuánto material rodante puede colocarse en cada vía. El sistema se utiliza de este modo para dirigir las maniobras, especialmente en las cocheras de Ilmala y Oulu.
 
 ## Página 53
+
 
 ## 4.2
 ### Condiciones
@@ -1660,6 +1682,7 @@ El papel de la conducción del tráfico en el desarrollo de los acontecimientos 
 
 ## Página 54
 
+
 se trataba de una confusión de llamada en un grupo de llamada común. En el último caso, el fondo era la contradicción entre los identificadores de llamada de la estación y los nombres del esquema de vías.
 Los factores que influyen en la carga del trabajo de maniobras son, ante todo, el largo turno de trabajo, la presión del horario u otra prisa y el trabajo en solitario. El largo tiempo de permanencia en el trabajo relacionado con el estado de alerta o la proximidad del final del turno de trabajo aparecieron en cinco casos (S1-03 Kemijärvi, S1-04 Ylöjärvi, S1-06 Suolahti, S1-07 Mussalo y S1-10 Oulu). En tres de ellos (Kemijärvi, Ylöjärvi y Oulu) a la situación se sumaba además la oscuridad y el trabajo en solitario. De forma análoga, en los casos S1-01 Turku y S1-05 Inkeroinen el accidente ocurrió al inicio del turno de trabajo.
 En el caso de Ylöjärvi se operaba además, en el ámbito de la dirección de tráfico de primera clase, bajo la presión de horario impuesta por el tráfico de pasajeros. Una presión externa de trabajo o de horario similar puede surgir también al circular en ámbitos con otros operadores. En la investigación, tales fueron los casos S1-06 Suolahti así como ambos casos de Mussalo, S1-07 y S1-11. En este tipo de entorno se genera fácilmente también contradicción entre diferentes culturas operativas y normativas, por ejemplo entre las prácticas de la fábrica y las del operador ferroviario.
@@ -1672,8 +1695,8 @@ Los movimientos de las locomotoras se registran generalmente en la memoria del d
 Todos los tipos de dispositivos de registro recopilan información exhaustiva sobre los movimientos de la locomotora y las acciones del maquinista. Además, registran la información leída de los aparatos de vía del sistema de supervisión de la circulación de trenes (JKV). Con base en estos datos es posible deducir, entre otros, la velocidad, la distancia recorrida, el momento de inicio de la frenada y la intensidad de la frenada. Los datos permiten determinar con gran precisión el orden de los acontecimientos y su transcurso temporal, los movimientos del material rodante y su duración.
 Cabe señalar que el dispositivo de registro no es obligatorio únicamente en el material de tracción utilizado en el trabajo de maniobras. Así, por ejemplo, en la mayor parte del material rodante de locomotoras en uso en instalaciones industriales y terminales de carga no existe dispositivo de registro. En los mayores operadores ferroviarios, VR Yhtymä y Fenniarail, los dispositivos de registro están instalados en todas las unidades de material rodante.
 
-
 ## Página 55
+
 
 En esta investigación, de los casos individuales estudiados fue posible aprovechar los datos recopilados por el dispositivo de registro de circulación en la investigación del acontecimiento en 11 casos. Solo en un caso, S1-05 Inkeroinen, no estaban disponibles los datos del dispositivo de registro, porque la locomotora MOVE66 utilizada en las maniobras de la fábrica no contaba con dicho dispositivo.
 ### Grabaciones de los sistemas de control por radio
@@ -1687,8 +1710,8 @@ Las llamadas realizadas con los teléfonos VIRVE conectados al servicio RAILI se
 En las maniobras, las conversaciones mantenidas con medios de comunicación ajenos a la red VIRVE, por ejemplo con teléfonos GSM y con radios VHF o PMR, no se registran, por lo que no es posible investigar la comunicación en este aspecto.
 En el caso S1-05 Inkeroinen, la unidad de maniobras utilizó teléfonos VHF en su comunicación, por lo que no había grabaciones de llamadas disponibles en este caso. En el descarrilamiento de Kouvola, caso S1-
 
-
 ## Página 56
+
 
 08, la unidad de maniobras se comunicó en un grupo de llamada cuya grabación no estaba definida en el sistema Divos, por lo que tampoco había grabaciones de registro de llamadas en este caso. En los demás casos, tanto la comunicación interna de la unidad de maniobras como la comunicación con la dirección de tráfico se registraron en el registro de llamadas y estuvieron disponibles para la investigación.
 ### Grabaciones de cámaras de vigilancia
@@ -1705,14 +1728,15 @@ Corresponde al titular de la red ferroviaria elaborar las normas de circulación
 Por operador ferroviario se entiende, conforme a la Ley del Tráfico Ferroviario, la empresa ferroviaria, la empresa que realiza obras de construcción y mantenimiento de la vía en la red ferroviaria y ejerce así la circulación en la red ferroviaria, el operador de tráfico ferroviario museístico, la empresa o asociación que no circula como actividad principal y el titular de la red ferroviaria que circula.
 En Finlandia hay, según el registro de la Agencia de Transporte y Comunicaciones, 32 operadores ferroviarios. Todos los operadores ferroviarios pueden, según la definición oficial, realizar maniobras, es decir, circular por la red ferroviaria de acuerdo con las órdenes de maniobra.
 
-
 ## Página 57
+
 
 Como mayor operador ferroviario, VR-Yhtymä realiza la mayor cantidad de maniobras. Opera en la red ferroviaria estatal y en vías privadas como las de los puertos y las instalaciones industriales. El otro operador ferroviario de ámbito nacional, Fenniarail, realiza maniobras en apoyo de su propia circulación, principalmente en el sureste de Finlandia.
 Figura 33. Operadores ferroviarios que realizan maniobras. (Mapa base: Peruskarttarasteri ©Maanmittauslaitos 4/2020, Marcas: OTKES)
 En la zona de Imatra opera Ratarahti Oy, que es el mayor operador ferroviario después de las empresas de ámbito nacional. Su actividad se centra en las maniobras en las estaciones de clasificación y en las vías privadas de las empresas de las zonas de Imatra e Imatrankoski. Además de estas tres mayores empresas, en nuestro país operan siete empresas que prestan servicios de maniobras, con actividad regional. Asimismo, diez grandes instalaciones industriales y terminales de carga tienen actividad propia de maniobras.
 
 ## Página 58
+
 
 Además de las empresas mencionadas anteriormente, en Finlandia operan cinco empresas centradas en la construcción y los servicios de mantenimiento de la vía, siete operadores de tráfico ferroviario museo y un fabricante, mantenedor y arrendador de material de maniobras, que todos ellos realizan trabajo de maniobras en apoyo de su propia actividad.
 
@@ -1728,8 +1752,8 @@ En todos los casos investigados, todos los operadores contaban con un sistema de
 
 La Agencia de Transporte y Comunicaciones (Traficom) es responsable de la aprobación de los sistemas de gestión de la seguridad y de la supervisión de su aplicación. La supervisión se realiza en la práctica mediante los informes de seguridad anuales y auditorías periódicas. La auditoría es una reunión de seguridad durante la cual se verifica cómo se implementa el sistema de gestión de la seguridad en la práctica. El objetivo es comprobar si se cumplen los requisitos del certificado de seguridad en la actividad operativa. Los titulares de certificados de seguridad deben remitir anualmente un informe de seguridad a la Agencia de Transporte y Comunicaciones.
 
-
 ## Página 59
+
 
 Además, los operadores deben notificar inmediatamente, una vez que se produzcan, las desviaciones de seguridad producidas, es decir, los casos casi accidentes y los accidentes. Los operadores de tráfico ferroviario, y por tanto el personal de trabajo de maniobras, realizan las notificaciones de desviaciones de acuerdo con las instrucciones de la empresa. Existen diversos procedimientos y sistemas. VR cuenta con el sistema TUTTI, mientras que Finrail registra todas las desviaciones en el sistema TURI. El punto de partida fundamental de las notificaciones de desviaciones es el autocontrol. El requisito para el funcionamiento del autocontrol es que, en el desarrollo de la seguridad, se utilicen datos y métodos relativos a factores humanos y se fomente la creación de una cultura en la que el personal esté motivado y se le anime a participar en el desarrollo de la seguridad.
 
@@ -1751,8 +1775,8 @@ La formación básica moderna de maquinista dura en su totalidad nueve meses e i
 
 Las tareas del maquinista incluyen también las del jefe de maniobras en los trenes de mercancías, en los que se desenganchan y/o se añaden vagones en las estaciones. Este trabajo de maniobras lo realiza el maquinista utilizando el equipo RO, y en ese caso también le corresponde a él la obtención de los permisos de maniobras a la conducción del tráfico
 
-
 ## Página 60
+
 
 en el ámbito de la conducción del tráfico de primer nivel. A menudo, el trabajo en el ámbito de la conducción del tráfico de primer nivel se realiza, por tanto, con permisos locales. En este tipo de trabajo, el maquinista acciona los desvíos controlados eléctricamente desde los paneles de control local. Una vez acoplado el tren, realiza por sí mismo la prueba de los frenos del tren y comunica a la conducción del tráfico la preparación para la salida del tren.
 
@@ -1776,6 +1800,7 @@ En la segunda parte teórica y de tutoría laboral, el énfasis principal recae 
 
 ## Página 61
 
+
 El conductor de tren es un trabajador de patio de maniobras que es miembro de un grupo de trabajo de maniobras que realiza maniobras. El conductor de tren acopla y desacopla los vagones entre sí. En los patios de maniobras que tienen una pendiente de descarga, los conductores de tren actúan como receptores y emisores en las maniobras, en las que los vagones se descargan desde la pendiente de descarga a la vía de un grupo de patio de maniobras predeterminado. En las maniobras también hay situaciones en las que el conductor de tren actúa como frenador, cuando los vagones se descargan desde la pendiente de descarga hacia la vía de salida o de formación prevista. En VR Transpoint trabajan unos 60 conductores de tren que aún no tienen la formación de jefe de maniobras y de conductor RO. Ya no se forman nuevos conductores de tren, sino que todos los nuevos trabajadores de maniobras se forman como jefes de maniobras y conductores RO. Sin embargo, la denominación de conductor de tren se utiliza, por ejemplo, en los horarios de los jefes de maniobras en el sistema nonstop.
 
 Los supervisores de patio de maniobras trabajan en los distintos centros de operaciones de logística ferroviaria de VR Transpoint en distintos patios de maniobras. El trabajo es un trabajo por turnos irregular, en el que el supervisor de patio de maniobras actúa como superior inmediato de los trabajadores de patio de maniobras en la dirección del trabajo durante su propio turno. Sus tareas incluyen la clasificación y el reenvío de los trenes entrantes, la agrupación de vagones para trenes salientes y la elaboración de instrucciones de maniobras, es decir, "órdenes de maniobras", para las unidades de maniobras.
@@ -1789,6 +1814,7 @@ El regulador de tráfico es la persona que, desde el centro de control, regula e
 El regulador de tráfico de patio de maniobras es el regulador del tráfico que tiene lugar en un área restringida. Por lo general, el área restringida abarca las zonas de los patios de maniobras o las vías portuarias que no forman parte del control remoto. El regulador de tráfico de patio de maniobras realiza los cambios de aguja desde los puestos de trabajo locales. A menudo disponen de un dispositivo de seguridad de agujas y señales. El regulador de tráfico de patio de maniobras actúa en la estación de tráfico bajo la supervisión del regulador de tráfico que realiza las tareas de regulación del tráfico de trenes.
 
 ## Página 62
+
 
 El centro de formación Vasko Oy en Kouvola forma a reguladores de tráfico de patio de maniobras. La formación dura 20 días, de los cuales la mitad es teoría y la mitad es formación en el trabajo. Además, hay un período de aprendizaje en el trabajo de tres semanas en el patio de maniobras de la estación de tráfico donde se realiza el trabajo. Después del período de aprendizaje en el trabajo se realiza una muestra de trabajo. Para mantener la habilitación, hay que realizar anualmente una formación de repaso específica de la tarea.
 
@@ -1812,6 +1838,7 @@ En los dos casos investigados en el puerto de Mussalo, los sistemas de gestión 
 La Ley del Tráfico Ferroviario permite actuar como titular de la red ferroviaria y realizar trabajos de desvío sin certificado y licencia de seguridad. Esto se denomina procedimiento de declaración del titular de vía privada y los trabajos de desvío, actividad de transporte a pequeña escala. El requisito para la aprobación del procedimiento es
 
 ## Página 63
+
 
 , entre otros, la descripción de las actividades y un sistema de gestión de seguridad operativo. Si se cumplen las condiciones, la Autoridad de Transportes y Comunicaciones aprueba la declaración. La declaración debe renovarse cada tres años. El material rodante que circula exclusivamente en este tipo de vía tampoco necesita licencia de puesta en servicio o de comercialización. De los casos investigados, ninguno tuvo lugar en una vía comprendida en el ámbito del procedimiento de declaración.
 
@@ -1839,6 +1866,7 @@ Según la Ley Ferroviaria13, la Autoridad de Infraestructura Ferroviaria actúa 
 
 ## Página 64
 
+
 Además, la ley ferroviaria establece que el mantenimiento de los pasos a nivel ferroviarios corresponde al titular de la red ferroviaria en cuanto a la anchura del paso a nivel.
 La ley del tráfico ferroviario¹⁴ trata ampliamente las disposiciones relacionadas con el tráfico ferroviario y también abarca el tráfico ferroviario urbano, es decir, el tranvía y el metro. En este informe de investigación se han tratado los puntos de la ley relativos a las maniobras de cambio de vía y a los titulares de vías privadas.
 La ley trata el procedimiento de notificación del titular de la vía privada. La ley establece que, con excepción de los titulares de vías de acceso a puertos marítimos y de VR-Yhtymä Oy, los titulares de vías privadas pueden, en lugar del procedimiento de autorización de seguridad, seguir un procedimiento de notificación más ligero.
@@ -1849,8 +1877,8 @@ El titular de la red ferroviaria debe celebrar un contrato de uso de la red ferr
 El titular de la red ferroviaria es responsable de la dirección del tráfico en la red ferroviaria que administra. El titular de la red ferroviaria debe responder de la dirección del tráfico en la red ferroviaria que administra o de su organización de manera que se satisfagan los requisitos de la explotación del tráfico en la red ferroviaria, y velar por la equidad de los servicios de dirección del tráfico. En los puntos de enlace entre redes ferroviarias, los titulares de las redes ferroviarias deben velar por que se haya acordado los arreglos prácticos de la explotación del tráfico y de la dirección del tráfico.
 ¹⁴ Ley del tráfico ferroviario 1302/2018, publicada el 28.12.2018.
 
-
 ## Página 65
+
 
 En el anexo 1 del Reglamento de la Comisión 2018/762¹⁵ se definen los requisitos a nivel de la UE para los sistemas de gestión de la seguridad de las empresas ferroviarias, es decir, de los operadores ferroviarios. Asimismo, en el anexo 2 se definen los requisitos para los sistemas de gestión de la seguridad de los titulares de la red ferroviaria. Estos requisitos se aplican a los certificados de seguridad y autorizaciones de seguridad concedidos en virtud de la Directiva de la UE 2016/798.
 ### Disposiciones de la Autoridad de Transportes y Comunicaciones
@@ -1867,8 +1895,8 @@ La disposición de la Autoridad de Transportes y Comunicaciones sobre el subsist
 ¹⁶ TRAFI_8591_03.04.02.00_2014_Fi Subsistema de infraestructura del sistema ferroviario.
 ¹⁷ TRAFICOM_251470_03.04.02.00_2019_FI_Rautateiden_ohjaus-_hallinta-_ja_merkinanto-osajarjestelma.
 
-
 ## Página 66
+
 
 Los puntos relativos a las maniobras de cambio de vía en la disposición son los apartados 4 Sistema de comunicación y 8 Señales de la vía. En el apartado que trata el sistema de comunicación se establece que en la red ferroviaria estatal debe utilizarse el sistema de comunicación de voz VIRVE para la comunicación de voz del tráfico de trenes. No se ha definido el sistema de comunicación de voz utilizado en las maniobras de cambio de vía.
 Las señales utilizadas en las redes ferroviarias se describen en el apartado 8 de la disposición. En el apartado se establece que los titulares de la red ferroviaria deben utilizar en su red las señales descritas en la disposición y que las señales deben colocarse de modo que no pueda haber error sobre el objeto al que se refieren. Además de las señales descritas en la disposición, el titular de la red ferroviaria puede utilizar otras señales, pero estas no deben ser equivalentes ni de forma engañosa idénticas a las señales descritas en la disposición. Asimismo, se establece que el titular de la red ferroviaria debe publicar una descripción técnica de las señales utilizadas en su red y de su propósito.
@@ -1883,6 +1911,7 @@ Los operadores ferroviarios y la dirección del tráfico deben realizar las mani
 ²⁰ Normas de seguridad del tráfico de trenes y de las maniobras de cambio de vía (Jt), Instrucciones de la Autoridad de Transportes 26/2019, 31.10.2019.
 
 ## Página 67
+
 
 riesgos de trabajos de maniobra y, si es necesario, ordenar la suspensión del trabajo de maniobra si otro trabajo de maniobra amenaza con retrasarse significativamente o no poder realizarse. Todos los trabajos de maniobra solicitados deben hacerse posible en un tiempo razonable y, si es necesario, restringiendo temporal o geográficamente las autorizaciones individuales concedidas.
 
@@ -1903,8 +1932,8 @@ Según el OVRO, la autoridad de rescate dirige las acciones de rescate hasta que
 Los proveedores de servicios y los operadores del tráfico ferroviario son responsables de asistir a las autoridades y a la Agencia de Transporte en las acciones de rescate y despeje con ayuda material y de expertos. La ayuda debe darse
 21 Instrucción sobre preparación ante accidentes ferroviarios (OVRO), LIVI/2821/07.02.00/2016, 8.4.2017.
 
-
 ## Página 68
+
 
 en el aislamiento de la zona del accidente, en la recogida de los dispositivos de registro del material de tracción y en la descarga de los datos que contienen, en el trabajo de despeje y en la delimitación de los daños medioambientales. La responsabilidad de liberar la vía para su circulabilidad está definida en la instrucción para el jefe del equipo de rescate de la Agencia de Transporte.
 
@@ -1922,8 +1951,8 @@ Además del manual de reglas, los conductores de Fenniarail disponen de libros d
 
 Stora-Enso es titular de la vía privada en los desvíos de la fábrica de Anjalankoski. No tiene una instrucción de lugar de tráfico separada, sino que en el desvío industrial que comienza en el patio de Inkerois y continúa hasta la fábrica de Anjalankoski se sigue la instrucción de trabajo de maniobra separada de la fábrica. Para otras empresas ferroviarias, en las instrucciones de trabajo de maniobra hay una instrucción de que no se puede iniciar el trabajo de maniobra sin la autorización del titular de la red ferroviaria. En los trabajos de maniobra, las unidades son responsables de forma independiente de su circulación en la zona para la que tienen la autorización del titular de la red ferroviaria. Las unidades de trabajo de maniobra que se desplazan por los desvíos de la fábrica deben tener un identificador único diferente de los demás. En la instrucción de trabajo de maniobra, para los desvíos se ha establecido como velocidad máxima 35 km/h.
 
-
 ## Página 69
+
 
 ### Descripciones de la red ferroviaria
 
@@ -1949,6 +1978,7 @@ R2019-S1-04 Ylöjärvi: VR-Yhtymä realizó su propia investigación del descarr
 22 Descripción de la red ferroviaria 2020, Información de vías de la Agencia de Transporte 2/2018.
 
 ## Página 70
+
 
 merkin asennosta, mitä tuki epäselvä viestintä liikenteenohjauksen kanssa. Merkittävänä teki-
 jänä onnettomuuden syntyyn nähtiin vaihtotyön kiireinen aikataulu. Lisäksi todettiin taustalla
@@ -1997,8 +2027,8 @@ R2019-S1-11 Mussalo: VR-Yhtymä teki tapauksesta sisäisen tutkinnan. Yksisivuis
 teenvedossa todettiin syytekijöiksi se, että vaunut olivat liian lähellä raiteenylityspaikkaa ja
 että trukinkuljettaja ajoi veturin eteen kuorma ylhäällä. Korjaavaksi toimenpiteeksi esitettiin
 
-
 ## Página 71
+
 
 keskustelua vaunuja purkavan toimijan kanssa vaunujen säilyttämisestä jatkossa kauempana
 raiteenylityspaikasta. HF-analyysia ei tehty.
@@ -2052,8 +2082,8 @@ namana noin 25 cm syvä ja lähes metrin halkaisijaltaan ollut painauma.
 Vaihtotyönjohtaja ohjasi törmäykseen johtanutta työntöliikettä raiteen vieressä kulkevalta
 tieltä, arvioimaltaan vaunujen katkaisukohdalta tähystäen. Hän oli noin 200 metrin päässä
 
-
 ## Página 72
+
 
 raidepuskimesta ohjatessaan työntöliikettä sitä kohti. Hän pysäytti liikkeen ja irrotti raiteelle
 jäävät vaunut. Onnettomuuden hän huomasi vasta tehtyään seuraavaan vaihtoliikkeen.
@@ -2106,6 +2136,7 @@ liuosta.
 
 ## Página 73
 
+
 El jefe de maniobras, que actuaba como observador de la unidad de maniobras, resultó herido; además, se derramó una gran cantidad de solución de peróxido de hidrógeno al terreno. El accidente provocó retrasos en varios trenes y, con sus impactos medioambientales, costos considerables en su conjunto.
 
 La causa raíz del accidente fue la omisión de notificar el cambio de la vía de choque de los vagones de la unidad de maniobras. No existe una instrucción escrita para la realización de cambios de vía y su notificación. La ausencia de un modelo de actuación y de una entidad responsable plantea un grave riesgo de seguridad en las playas de maniobras, en las que operan varios operadores de maniobras.
@@ -2139,20 +2170,20 @@ Como parte de la investigación de la colisión de una unidad de maniobras ocurr
 
 La medición del tiempo de retardo en la situación de frenado de emergencia se llevó a cabo midiendo el tiempo transcurrido desde la orden de frenado de emergencia hasta la interrupción de las tensiones en la válvula de dispositivo de seguridad de la locomotora. Desde el mando por radio
 
-
 ## Página 74
 
-la orden de frenado de emergencia se daba girando el regulador de freno a la posición de frenado de emergencia y desde la locomotora la orden se daba pulsando uno de los botones de parada de emergencia de la locomotora. En la medición se midió el tiempo de funcionamiento del sistema sin tener en cuenta el tiempo que transcurre desde el usuario hasta la medida de control.
+La orden de frenado de emergencia se dio girando el regulador de frenado a la posición de frenado de emergencia, y la orden a la locomotora se dio pulsando uno de los botones de parada de emergencia de la locomotora. En la medición se midió el tiempo de funcionamiento del sistema sin tener en cuenta el tiempo que transcurrió desde el usuario hasta la medida de control.
 
-Mediciones realizadas el 31.1.2018 en Kouvola en locomotoras Dv12 y Dr14 controladas por radio
-| Función | Resultado de la medición Dv12 2623 | Resultado de la medición Dr14 1852 |
-| Parada de emergencia desde el mando por radio | Retardo de 2 segundos | Retardo de 2 segundos |
-| Parada de emergencia desde el botón de parada de emergencia de la cabina de la locomotora | Sin retardo | Sin retardo |
+Mediciones realizadas el 31.1.2018 en Kouvola a las locomotoras Dv12 y Dr14 con control por radio:
 
-Como resumen de las mediciones, se pudo constatar que las órdenes se transmiten a la locomotora a través del sistema de control por radio con un retardo de dos segundos. Se determinó que este retardo del sistema es constante en las diferentes series e individuos de locomotoras. Sin embargo, se constató en las locomotoras una gran variación individual en la rapidez y precisión con que los sistemas de regulación de potencia y de freno neumáticos de la locomotora funcionan conforme a las órdenes dadas por el sistema de control por radio. En los estudios en general se determinó que las locomotoras Dr14 reaccionan más rápidamente a las órdenes del sistema de control por radio que las locomotoras Dv12.
+| Función | Resultado de la medición Dv122623 | Resultado de la medición Dr141852 |
+| Parada de emergencia desde el control por radio | Retraso de 2 segundos | Retraso de 2 segundos |
+| Parada de emergencia desde el botón de parada de emergencia de la cabina de la locomotora | Sin retraso | Sin retraso |
 
+Como resumen de las mediciones, se pudo constatar que las órdenes se transmiten a la locomotora a través del sistema de control por radio con un retraso de dos segundos. Se constató que este retardo del sistema era constante en diferentes series e individuos de locomotoras. Sin embargo, en las locomotoras se constató que existían grandes diferencias individuales en la rapidez y precisión con que funcionaban los sistemas de regulación de potencia y de freno neumáticos de la locomotora según las órdenes dadas por el sistema de control por radio. En los estudios generales se constató que las locomotoras Dr14 reaccionaban más rápidamente a las órdenes del sistema de control por radio que las locomotoras Dv12.
 
 ## Página 75
+
 
 ### ANÁLISIS
 
@@ -2166,8 +2197,8 @@ Entre los factores de fondo y el evento clave se recopilan los mecanismos de pro
 
 23 El método Bowtie es un método de gestión de riesgos que se puede utilizar para ilustrar las relaciones causa-efecto en casos en los que existe una gran cantidad de factores de riesgo. El nombre del método proviene de la forma del diagrama, que recuerda a una corbata. Según las fuentes, el método se utilizó por primera vez en Australia, en el material de una conferencia sobre evaluación de peligros de la Universidad de Queensland en 1979. Sin embargo, el origen exacto del método no se conoce con certeza.
 
-
 ## Página 76
+
 
 En el borde derecho se sitúa la consecuencia potencialmente más grave de los casos, es decir, en este caso un accidente ferroviario extremadamente grave. Entre esta y el evento clave se sitúan los mecanismos de protección de gestión de las consecuencias identificados en la investigación, así como las consecuencias constatadas de los casos. Los mecanismos de protección de gestión de las consecuencias se refieren a las circunstancias que, en los casos estudiados, impidieron o podrían haber impedido un accidente más grave. También estos mecanismos de protección se presentan en el diagrama numerados por razones de claridad.
 
@@ -2231,8 +2262,8 @@ No se puede observar claramente si se está a la sombra de un vagón
 R2019-S1-02
 Gestión de riesgos, 15 apariciones, en 8/13 casos
 
-
 ## Página 77
+
 
 Cambio en la forma de actuación, evaluación de riesgos
 R2019-S1-03,-04,-06,-11
@@ -2300,6 +2331,7 @@ La "aceleración" está estrechamente relacionada con la prisa por el trabajo y 
 
 ## Página 78
 
+
 puede ocurrir a una velocidad excesiva y, al acoplar, no se tiene en cuenta la diferencia de masa de los vehículos a acoplar ni se comprueba que los vagones no estén demasiado cerca del tope de vía.
 
 La seguridad de las maniobras de clasificación está intrínsecamente ligada a una vigilancia correcta y cuidadosa, ya que el trabajo de maniobras no está técnicamente protegido ni de lejos tan bien como el tráfico de trenes. Las deficiencias relacionadas con la vigilancia surgieron como factor de fondo inmediato en varios de los casos investigados.
@@ -2320,8 +2352,8 @@ Se detectó una forma de actuación modificada como factor de riesgo en varios d
 
 Un gran impacto en la gestión de riesgos lo tiene también el retraso de las medidas correctoras. La retroalimentación es un elemento esencial en el procedimiento de notificación de las desviaciones de seguridad detectadas, y, de cara a lo que venga, la retroalimentación más motivadora es que el notificador vea que se está haciendo algo al respecto. En varios de los casos
 
-
 ## Página 79
+
 
 investigados se puso de manifiesto que se habían realizado notificaciones, pero que no había ocurrido nada. Las desviaciones de seguridad no necesariamente se esfuerzan por registrar si no conducen a medidas correctoras. Esto no sirve a los objetivos de mejora de la seguridad.
 
@@ -2339,8 +2371,8 @@ Los factores de fondo relacionados con los trabajadores y su competencia se dete
 
 La comunicación es tradicionalmente una parte importante de la operación segura en el entorno ferroviario. En la investigación se detectaron desviaciones de la comunicación en formato preestablecido. Esto, combinado con el conocimiento local deficiente de las personas, es propicio para causar graves situaciones de peligro y accidentes. Las instrucciones deberían darse siempre mediante los elementos de vía y los números de las vías, evitando el "jerga ferroviaria" y el uso del lenguaje local. Las denominaciones locales y, por ejemplo, identificadores de llamada similares aumentan el peligro de error en la comunicación. Las relaciones organizativas de los distintos operadores, así como la edad y la experiencia laboral de las personas, también pueden complicar la comunicación.
 
-
 ## Página 80
+
 
 En relación con la comunicación, se detectó en la cultura de trabajo un fenómeno en situaciones de incertidumbre en el que se intenta resolver los problemas hasta el final por uno mismo y se avanza en el trabajo, aunque no se esté seguro del asunto. En parte, esto se relaciona con el hecho de que, al concentrarse el control de tráfico y disminuir el conocimiento local, el conductor que trabaja solo en la estación de clasificación no tiene en realidad ningún lado claro al que pedir consejo. La comunicación en formato preestablecido y las instrucciones relacionadas con ella no identifican las situaciones de incertidumbre. Se asume que el operador es consciente de lo que hace o pretende hacer. Por otro lado, al mover material rodante ferroviario se asume siempre un gran riesgo si se mueve el material y no se está completamente seguro de la vía o del desvío.
 
@@ -2359,6 +2391,7 @@ Tras la identificación de los factores de fondo de los accidentes y situaciones
 Se identificaron 19 mecanismos de protección en el análisis. Cabe señalar que un mecanismo de protección individual puede impedir que múltiples factores de fondo se desarrollen en un accidente.
 
 ## Página 81
+
 
 Mecanismos de protección preventivos. La numeración hace referencia a la numeración del diagrama de análisis.
 Número 
@@ -2441,8 +2474,8 @@ Se debe animar a los trabajadores a preguntar si la situación es algo poco clar
 
 En los casos estudiados, a menudo el factor que aumentaba el riesgo de accidente era una forma de actuar precipitada y el dejar las cosas sin verificar. Esta forma de actuar era en parte creada por los propios trabajadores, pe-
 
-
 ## Página 82
+
 
 ro también se veía influida por los objetivos de rendimiento y las presiones de horario derivadas del tráfico ferroviario y de la planificación del trabajo. El salto se realizaba, por ejemplo, de forma preventiva desde el punto de corte previsto de la unidad de maniobras, con el fin de acelerar la actividad. La precipitación también se evidenciaba en el manejo de las locomotoras de maniobras, previendo la solicitud de la mayor velocidad posible al iniciar la marcha. La inversión en métodos de trabajo seguros en la formación y el seguimiento de la actividad práctica podrían tener un efecto mejorador en la seguridad.
 Entre las cuestiones más importantes de la actuación de los jefes de equipo se encuentra también la rápida tramitación de las desviaciones de seguridad, la puesta en práctica lo más rápida posible de las propuestas de mejora que corresponden a su propio ámbito de actuación, así como la retroalimentación. El jefe de equipo tiene también la función de comunicar las observaciones de seguridad a las partes correspondientes. No obstante, la retroalimentación sobre la desviación de seguridad se transmite al trabajador siempre por iniciativa del jefe de equipo.
@@ -2456,8 +2489,8 @@ En la maniobra moderna, se han creado diversos sistemas de tecnología de la inf
 
 Como nueva forma de trabajo, tanto para mejorar la fluidez del trabajo como para organizar mejor los descansos de los trabajadores, se ha creado el llamado modo de trabajo NONSTOP, en el que de un grupo de tres personas de maniobra dos trabajan y la tercera está de descanso. En el horario, las personas tienen los puestos de jefe de maniobra, auxiliar de tren y persona de descanso, pero las personas rotan en estas diferentes tareas durante el turno de trabajo. En este modelo de actuación, el intercambio de información entre las personas que se relevan es fundamental para garantizar la seguridad. Sería conveniente crear métodos y un proceso claros para ello.
 
-
 ## Página 83
+
 
 Las deficiencias de iluminación de las playas de vías son las deficiencias de seguridad observadas más frecuentes. La tecnología actual ha facilitado la mejora de la iluminación y permite aumentar la intensidad luminosa con un menor consumo de energía. Sin embargo, la extensión y el gran número de playas de vías hacen que el trabajo de mejora avance lentamente. El trabajo debería acelerarse en la medida de lo posible y, además de los aspectos de seguridad, se deberían destacar los aspectos de ahorro energético.
 
@@ -2479,6 +2512,7 @@ La reacción rápida del trabajador y del jefe de equipo a las desviaciones de s
 
 ## Página 84
 
+
 La importancia de la gestión de riesgos se acentúa en situaciones de cambio y en entornos de múltiples agentes. En situaciones de cambio sería importante realizar una evaluación de los riesgos de los efectos de los cambios en las distintas partes usuarias. Ejemplos de ello son los efectos de los cambios de coloración o de la eliminación de señales e indicaciones, los efectos de los cambios en las disposiciones de las maniobras y los efectos de la centralización de la conducción del tráfico sobre el conocimiento de las características locales de los lugares de tráfico.
 
 Por entorno de múltiples agentes se entiende en este caso, por ejemplo, situaciones en las que varios operadores ferroviarios operan en paralelo en la misma tarea, así como situaciones en las que junto a las operaciones ferroviarias existe, por ejemplo, tráfico de camiones. Esto es típico en los puertos o en relación con vías industriales. En estas situaciones se acentúa la importancia de conciliar las distintas operaciones y de crear una cultura de seguridad común, especialmente en materia de seguridad. Un ejemplo de ello es la creación de conexiones entre los sistemas de dirección de la actividad de los distintos agentes para mejorar el flujo de información mutuo. A un nivel más general, convendría que en los planes de seguridad exigidos a los distintos agentes se incluyera una evaluación más detallada que la actual sobre cómo la actividad de otras partes que operan en la misma zona afecta a la propia actividad, y un plan claro para la conciliación de las formas de trabajo. No basta con que en los sistemas de gestión de seguridad se haga hincapié en la gestión de riesgos y en la colaboración con las partes interesadas.
@@ -2495,8 +2529,8 @@ Una característica común de los sistemas de información en la actualidad es q
 
 La seguridad se vería también aumentada por la información en tiempo real, que sería más fácil de implementar en los sistemas basados en la recogida automática de información. Sería importante que las personas que realizan maniobras prácticas obtuvieran la imagen más fiel posible, por ejemplo, de la situación de ocupación de las vías de la maniobra, del movimiento de las unidades de maniobra en la maniobra y de la llegada y salida de trenes en el área de la maniobra. Esto plantea desafíos para el intercambio de información mutuo entre los distintos agentes, como los operadores de
 
-
 ## Página 85
+
 
 tráfico ferroviario, los titulares de la red ferroviaria y los sistemas de conducción del tráfico. Sin embargo, especialmente en el entorno de múltiples agentes, la compatibilidad de los sistemas de todos los agentes y el intercambio de información adecuado son un requisito previo para una operación segura.
 
@@ -2513,8 +2547,8 @@ Un mantenimiento realizado correctamente y en el momento oportuno puede tener ta
 
 El análisis también recopiló información sobre las consecuencias constatadas en los casos individuales investigados. Por consecuencias se entiende, además de los daños materiales derivados de los accidentes, las interferencias causadas al resto del tráfico y a las operaciones de maniobra. Además, las consecuencias incluyen los eventos posteriores, que se entienden como las partes de la cadena de eventos que ocurrieron después del evento clave de la cadena de eventos. Estos son, por ejemplo, la colisión derivada de la fuga de vagones y el descarrilamiento causado por la apertura de una aguja.
 
-
 ## Página 86
+
 
 Consecuencias constatadas en los casos individuales
 | Consecuencia | Ocurrencias | Detalle de los casos individuales investigados en los que se constató |  |  |
@@ -2542,6 +2576,7 @@ Las maniobras se realizan en maniobras por las que también circula tráfico de 
 Por mecanismos de protección de la gestión de las consecuencias se entienden los aspectos identificados en el análisis que, en los casos investigados, impidieron que ocurriera un accidente más grave o atenuaron las consecuencias. Además, en los mecanismos de protección se han registrado aspectos observados en la investigación que podrían impedir un accidente más grave o atenuar las consecuencias. En el análisis se identificaron 14 mecanismos de protección de este tipo.
 
 ## Página 87
+
 
 Mecanismos de protección de la gestión de las consecuencias. La numeración hace referencia a la numeración del diagrama de análisis.
 | Número | Mecanismo de protección |  |  | Detalle |  |  |
@@ -2572,12 +2607,14 @@ Por otro lado, las soluciones de protección técnicas existentes y el material 
 
 ## Página 88
 
+
 Cuando se produce una situación de peligro, todos los que se desplazan en la zona deberían obtener la información sobre la situación y las medidas requeridas lo antes posible. Para ello existe el sistema de teléfono de emergencia ferroviario. El umbral para su uso debería seguir reduciéndose. Otra cuestión similar es el uso del botón de parada de emergencia de las locomotoras con control por radio, que permitiría detener el material rodante al menos dos segundos más rápido que los comandos de control por radio. El uso de los dispositivos de control de la cabina de conducción, como el botón de parada de emergencia, no es actualmente la forma de actuación principal de los jefes de maniobras en situaciones de peligro.
 Muchos factores influyen en la localización del impacto de los accidentes de maniobras y, por otro lado, en que las situaciones de peligro permanezcan como situaciones de peligro. Dado que las maniobras se realizan en su mayor parte en estaciones de clasificación de mercancías, el impacto de los accidentes en el tráfico de trenes se extiende normalmente únicamente al tráfico de mercancías. En los trenes de mercancías los horarios son muy holgados, por lo que las perturbaciones no se acumulan y su impacto en el tráfico ferroviario es generalmente pequeño.
 En las estaciones de clasificación, la infraestructura ferroviaria también cede en cierta medida. Un ejemplo de ello son los desvíos que permiten el paso a través y que no se rompen al ser recorridos. Así, el paso a través no provoca consecuencias graves, como descarrilamientos. En las vías principales utilizadas en el tráfico de trenes no se pueden emplear desvíos que permitan el paso a través, por lo que al operar con ellos deben identificarse los riesgos de consecuencias más graves de un posible paso a través.
 La importancia del azar en la gravedad de los accidentes se acentuó en varios casos. En el sistema ferroviario, el azar no debería tener participación en la seguridad. Por ello, deberían desarrollarse nuevos modelos de soluciones técnicas teniendo en cuenta el desarrollo actual con la centralización de funciones y las reducciones de personal. La centralización de funciones aumenta en parte las posibilidades de malentendidos. En comparación con el tráfico de trenes técnicamente garantizado, las maniobras, que dependen completamente de la observación y las decisiones de las personas, están claramente en peor situación en este respecto. Esto resalta la importancia de la cultura de seguridad de las personas y las organizaciones, de las prácticas de trabajo seguras y del entorno de trabajo que posibilite métodos de trabajo seguros.
 
 ## Página 89
+
 
 ### CONCLUSIONES
 Las conclusiones contienen las causas de los casos del estudio temático. Por causas se entienden los distintos factores subyacentes a los acontecimientos y las circunstancias directas e indirectas que los influyen.
@@ -2598,6 +2635,7 @@ Conclusión: No se ha prestado suficiente atención a la iluminación de las est
 
 ## Página 90
 
+
 8. La falta de comunicación estandarizada y el uso del idioma local provocan accidentes y situaciones de peligro en las maniobras. Por ejemplo, identificadores de llamada similares combinados con la falta de conocimiento local empeoran la situación. La cultura de operación y comunicación predominante hace que, en situaciones poco claras, el umbral para pedir consejo y verificar las cosas pueda volverse alto. La instrucción sobre comunicación estandarizada no tiene en cuenta la actuación en situaciones poco claras.
 ### Conclusión: No se ha prestado suficiente atención en el sector ferroviario a la estandarización de la comunicación y a una cultura de operación basada en la consulta. Son importantes desde el punto de vista de la seguridad, especialmente en situaciones de incertidumbre. Las prácticas antiguas han persistido tenazmente.
 9. Actualmente existen varios sistemas de información en el sector ferroviario y no intercambian datos entre sí. Además, gran parte de la información de los sistemas debe introducirse manualmente, lo que aumenta la posibilidad de errores. También existen deficiencias en la usabilidad de los sistemas, especialmente en condiciones de campo. Por ejemplo, encontrar y localizar las instrucciones locales en la infraestructura es difícil.
@@ -2610,6 +2648,7 @@ Conclusión: La gestión del tráfico se basa en gran medida en las necesidades 
 ### Conclusión: El umbral de uso del teléfono de emergencia ferroviario sigue siendo demasiado alto.
 
 ## Página 91
+
 
 ### RECOMENDACIONES DE SEGURIDAD
 ## 7.1
@@ -2631,8 +2670,8 @@ El Centro de Investigación de Accidentes recomienda que la Agencia de Transport
 Los operadores de tráfico ferroviario desarrollan la iluminación del material tractor utilizado en las maniobras de clasificación aprovechando la tecnología moderna. [2020-S29]
 Además de la cantidad de luz, debe tenerse en cuenta el tono de color de la luz. Además de los faros de choque y los proyectores del material rodante, debería considerarse el uso de luminarias de trabajo independientes.
 
-
 ## Página 92
+
 
 ## 7.4
 ### Mejora de la visibilidad de la señalización de las instalaciones de clasificación
@@ -2652,8 +2691,8 @@ Las instrucciones de maniobras de clasificación son fragmentarias y parcialment
 El Centro de Investigación de Accidentes recomienda que la Agencia de Transportes y Comunicaciones garantice la ejecución de la siguiente recomendación:
 La Agencia de Infraestructuras Ferroviarias asume la responsabilidad global de las instrucciones de maniobras de clasificación en Finlandia, completando en estos aspectos la instrucción Reglas de seguridad del tráfico ferroviario y de las maniobras de clasificación. Los operadores solo pueden disponer de instrucciones locales complementarias, que deben elaborarse en colaboración con los demás operadores. [2020-S32]
 
-
 ## Página 93
+
 
 La Agencia de Infraestructuras Ferroviarias, como mayor titular de la red ferroviaria, es la parte natural para coordinar el trabajo de desarrollo de las instrucciones. Por su parte, la Agencia de Transportes y Comunicaciones debe desarrollar sus auditorías de modo que en ellas se garantice la compatibilidad de las instrucciones de los distintos operadores.
 ## 7.7
@@ -2674,16 +2713,16 @@ El umbral para el uso de la llamada de emergencia ferroviaria es generalmente al
 El Centro de Investigación de Accidentes recomienda que la Agencia de Transportes y Comunicaciones garantice la ejecución de la siguiente recomendación:
 La Agencia de Infraestructuras Ferroviarias, Finrail Oy, los centros de formación del sector ferroviario, los operadores de tráfico ferroviario y los titulares de la red ferroviaria destacan la importancia del uso de la llamada de emergencia ferroviaria en su formación básica y de reciclaje. [2020-S35]
 
-
 ## Página 94
+
 
 El uso de la llamada de emergencia ferroviaria debería convertirse, mediante la formación y el desarrollo de la cultura de actuación, en una forma de trabajo rutinaria en situaciones de peligro.
 ### 7.10 Medidas adoptadas
 La Agencia de Infraestructuras Ferroviarias ha actualizado sus instrucciones de modo que, según la nueva instrucción en vigor desde el 1.6.2020, la marca de límite de un desvío puede señalizarse bien pintándola en el lateral del raíl o mediante un poste señalizador independiente blanco y rojo. Las instrucciones de ejecución de la señalización se han actualizado a la nueva versión de la parte 17, Señalización y marcas de la vía, de las instrucciones técnicas de vía (RATO) de la Agencia.
 En el grupo de preparación invernal de la Agencia de Infraestructuras Ferroviarias se han desarrollado medidas invernales en colaboración con los operadores. Entre las medidas invernales se encuentran, por ejemplo, la presentación de informes semanales a escala nacional sobre la situación de las medidas invernales y los efectos del invierno en la actividad, así como el plan nacional de preparación invernal para todos los operadores. Estas medidas mejoran el mantenimiento invernal de la infraestructura de vía y, a través de ello, también la fluidez y la seguridad de las maniobras de clasificación.
 
-
 ## Página 95
+
 
 ### LISTADO DE FUENTES
 ### Fuentes escritas
@@ -2711,6 +2750,7 @@ Informes de los casos individuales investigados
 
 ## Página 96
 
+
 ### RESUMEN DE LOS COMENTARIOS RECIBIDOS SOBRE EL BORRADOR DEL INFORME DE INVESTIGACIÓN
 El borrador del informe de investigación ha estado en consulta en el Ministerio de Transportes y Comunicaciones, la Agencia de Transportes y Comunicaciones, la Administración de Infraestructuras Ferroviarias (Väylävirasto), Finrail Oy, VR-Yhtymä Oy, Fenniarail Oy, HaminaKotka Satama Oy, Stora-Enso Oyj, Valtra Oy, NRC Group Finland Oy, la Sociedad Ferroviaria y de Formación de Adultos de Kouvola KRAO, el Centro de Formación Vasko, el Sindicato Ferroviario RAU ry, el Sindicato de los Sectores Públicos y de Bienestar JHL y las partes implicadas en los hechos.
 
@@ -2730,8 +2770,8 @@ En la gestión de la capacidad de las estaciones de clasificación, la Administr
 
 La Administración de Infraestructuras Ferroviarias afirma también en su comentario que en su programa de inversión se incluye la instalación de dispositivos de seguridad en muchas estaciones de clasificación que actualmente carecen de ellos. De estas, las obras de la estación de clasificación de Oulu
 
-
 ## Página 97
+
 
 se sitúan en los años 2020-2023 y las obras de Joensuu comenzarán en otoño de 2020. Además de la instalación de dispositivos de seguridad, la Administración afirma que examinará la necesidad de señales de Parada caso por caso.
 
@@ -2751,8 +2791,8 @@ HaminaKotka Satama Oy propone en su comentario correcciones a la información pr
 
 En cuanto a las responsabilidades de seguridad del tráfico en la zona del puerto, HaminaKotka Satama Oy afirma en su comentario que hasta la fecha no ha considerado necesario crear la función de responsable de seguridad del tráfico para dicha zona ni modificar las responsabilidades de seguridad existentes.
 
-
 ## Página 98
+
 
 HaminaKotka Satama Oy ha comunicado también al grupo de investigación que ha puesto en marcha un proyecto en el que aclara las responsabilidades de las vías situadas en la zona del puerto junto con los demás titulares de la red ferroviaria de la zona, como la ciudad de Kotka. Además de esto, HaminaKotka Satama Oy está estudiando las posibilidades de implantar un sistema de información que muestre en tiempo real la situación de reserva de las vías de la zona del puerto.
 

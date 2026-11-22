@@ -10,12 +10,13 @@ chars: 4226
 ratio_longitud: 1.04
 tokens_in: 2081
 tokens_out: 1150
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/4 (25%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -32,42 +33,41 @@ Suceso peligroso en la explotación ferroviaria
 | Aguja: | 377 |
 | Punto kilométrico: | 06 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
-## Índice
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................................... |
-| 2 | Colisión de trenes el 16 02 2020 en la Estación de Würzburg Hbf 2 . . .............................................. |
-|  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
-|  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
-|  | 2.4 Problemas de seguridad identificados 2 . .................................................................................. |
-## I.
-## Índice de modificaciones
-| Modificación | Fecha de actualización |
-| Versión:20en razón del plazo anual alcanzado . | 31 01 2022 . . |
-| Versión:30en razón del plazo anual alcanzado . | 08 02 2023 . . |
-| Versión:40en razón del plazo anual alcanzado . | 09 01 2024 . . |
+## Índice 
+| I . | Registro de modificaciones I ............................................................................................................... |
+| 1 | Notas previas 1 ..................................................................................................................... |
+| 2 | Colisión de trenes el 16022020 en la estación de Würzburg Hbf 2 . . ...................................................................... |
+|  | 21 Descripción breve del suceso 2 . ........................................................................................... |
+|  | 22 Consecuencias 2 . ...................................................................................................................................... |
+|  | 23 Estado de la investigación 2 . ........................................................................................................... |
+|  | 24 Problemas de seguridad identificados 2 . .......................................................................................... |
+## I. 
+## Registro de modificaciones 
+| Modificación | Estado |
+| Versión:20 en virtud del plazo anual alcanzado . | 31 01 2022 . . |
+| Versión:30 en virtud del plazo anual alcanzado . | 08 02 2023 . . |
+| Versión:40 en virtud del plazo anual alcanzado . | 09 01 2024 . . |
 I
 
-
 ## Página 4
+
 
 ## 1 Notas previas
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de investigación de accidentes ferroviarios (EUV). De acuerdo con lo dispuesto en el mismo, para todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, se debe publicar al menos un informe intermedio en cada aniversario del suceso peligroso. Los informes contienen información sobre el estado de la investigación y sobre los posibles problemas de seguridad identificados durante la misma. Esta información se basa en el estado actual de la investigación, puede modificarse en cualquier momento y no reclama ser completa. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y, a partir de ellas, obtener indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad civil u otros reclamos de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 16.02.2020 en la Estación de Würzburg Hbf
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias. Asimismo, se aborda el estado de la investigación. Los problemas de seguridad identificados en el momento de la publicación de este informe intermedio se enumeran en el último apartado.

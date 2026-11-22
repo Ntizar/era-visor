@@ -10,13 +10,13 @@ chars: 65657
 ratio_longitud: 1.01
 tokens_in: 31838
 tokens_out: 18805
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 10: cifras largas: faltan 1/4 (25%)"]
-notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (DE)", "página 14: cifras cortas: 2/10", "página 15: cifras cortas: 2/5", "página 22: cifras cortas: 1/15", "página 24: cifras cortas: 1/16"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Número de expediente:
@@ -34,16 +34,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 2330 |
 | Aguja: | 41 |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -94,8 +94,8 @@ Tareas y obligaciones...........................................................
 Examen de los procesos operativos del gestor de infraestructura................. 13
 I
 
-
 ## Página 4
+
 
 4.1.2
 Examen de los procesos operativos de la EVU............................................... 16
@@ -137,8 +137,8 @@ Modificación
 Fecha de actualización
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -168,8 +168,8 @@ Tabla 5: Datos técnicos del Tfz 91 81 1116 153-8 y 91 81 1116 176-9............
 Tabla 6: Datos técnicos del tren automotor VT 648-369................................................................. 22
 III
 
-
 ## Página 6
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -227,16 +227,16 @@ TfV
 Reglamento del permiso de conducción de trenes
 IV
 
-
 ## Página 7
+
 
 | Tfz | Locomotora |
 | VzG | Catálogo de velocidades máximas permitidas localmente |
 | Ww/Ww-in | Guardagujas/Guardagujas |
 V
 
-
 ## Página 8
+
 
 ## 0 Nota preliminar
 Sobre la base del artículo 24 de la Directiva (UE) 2016/798, la Comisión Europea
@@ -249,8 +249,8 @@ Con la publicación del reglamento y su entrada en vigor el vigésimo día despu
 publicación en el Diario Oficial de la Unión Europea (EU), este es vinculante y
 debe aplicarse de forma inmediata a todas las investigaciones iniciadas a partir del 17.05.2020.
 
-
 ## Página 9
+
 
 ## 1 Resumen
 El primer capítulo contiene una descripción breve del suceso así como información sobre las
@@ -269,20 +269,20 @@ Para una mejor visibilidad de los factores y aspectos de la gestión de emergenc
 utiliza una sistemática con indicaciones entre corchetes.
 Una evaluación detallada del suceso, con su clasificación como factores críticos para la seguridad, se presenta en los siguientes capítulos.
 
-
 ## Página 10
 
-|  | Hecho: |  | Factor causal | Factor contribuyente | Factor sistémico |
-|  | Fecha/hora así como |  |  |  |  |
+|  | Hechos: |  | Causa principal | Factor contribuyente | Factor sistémico |
+|  | Fecha/hora y |  |  |  |  |
 |  | acción/omisión/ |  |  |  |  |
-|  | circunstancia/hecho |  |  |  |  |
-| 24 09 2024/desde 07:09 h . . El Tfz 1116 153 no permanece libre de signos límite en la aguja 41 |  |  | Omisión de la comprobación de la posición libre de signos límite del Tfz aparcado [F1] | - | - |
-| 24 09 2024/desde 07:12 h . . Vía de entrada establecida para el DPN - G 75332 por el jefe de maniobras (Fdl) |  |  | Omisión de la comprobación de la ruta por parte del Fdl [F2] | - | - |
+|  | circunstancia/suceso |  |  |  |  |
+| 24 09 2024/a partir de las 07:09 h . . La locomotora 1116153 no permanece libre de señal de límite en la aguja 41 |  |  | Omisión de la comprobación de la posición libre de señal de límite de la locomotora estacionada [F1] | - | - |
+| 24 09 2024/a partir de las 07:12 h . . Vía de entrada establecida para el DPN - G75332 por el Jefe de Circulación (Fdl) |  |  | Omisión de la comprobación de la vía por parte del Fdl [F2] | - | - |
 Tabla 1: Resumen de factores de influencia
 ### 1.4 Recomendaciones de seguridad
 No se emitieron recomendaciones de seguridad.
 
 ## Página 11
+
 
 ## 2 La investigación y su contexto
 La Oficina Federal de Investigación de Accidentes Ferroviarios (BEU) es competente para la investigación de sucesos peligrosos en la explotación ferroviaria, en el sentido del capítulo V de la Directiva (UE) 2016/798, en infraestructuras ferroviarias federales y en infraestructuras ferroviarias no federales de la red superior, conforme al § 2b de la Ley General de Ferrocarriles (AEG).
@@ -295,6 +295,7 @@ Las actuaciones de investigación de accidentes se llevan a cabo de forma estruc
 
 ## Página 12
 
+
 la publicación del informe de investigación. Para la determinación de las causas se realizan investigaciones orientadas a resultados en todas las disciplinas técnicas implicadas, y en ellas se llevan a cabo, en particular, análisis de causa-efecto de errores y comparaciones de valor objetivo-valor real.
 Las actuaciones de investigación fueron dirigidas de forma principal por el distrito de investigación localmente competente Noroeste.
 Si así se requiere en el caso concreto, los respectivos equipos de investigación reciben apoyo transversal entre distritos y se encargan externamente los servicios periciales necesarios.
@@ -306,12 +307,14 @@ La liberación de la zona del accidente por parte de la infraestructura fue real
 
 ## Página 13
 
+
 ## 3 Descripción del suceso
 En el tercer capítulo se describe con más detalle el suceso peligroso en dos subcapítulos preestablecidos. En el capítulo 3.1, además de los datos básicos, se incluyen más informaciones sobre el lugar del suceso, las condiciones externas, los implicados y las consecuencias. La reconstrucción del suceso, así como las informaciones sobre la activación y el desarrollo de las medidas de rescate, se presentan en el capítulo 3.2. Las descripciones se refieren fundamentalmente a las condiciones predominantes y a los hechos constatados en el momento del suceso.
 ### 3.1 Informaciones sobre el suceso y sus antecedentes
 El suceso consiste en una colisión de un tren con un vehículo ferroviario en el sentido de la Directiva (UE) 2016/798. La BEU registra el suceso a nivel nacional bajo el tipo de suceso colisión de trenes.
 
 ## Página 14
+
 
 ### 3.1.1 Situación y descripción del lugar del suceso
 La colisión de trenes se produjo en el desvío 41 de la estación de Rheinkamp. A través de la estación de Rheinkamp discurría la línea 2330, denominada según el Catálogo de Velocidades Admisibles (VzG), véase la figura 1.
@@ -323,6 +326,7 @@ Tanto la línea como la estación de Rheinkamp estaban equipadas con el sistema 
 
 ## Página 15
 
+
 Interferencia Puntual de Velocidad (PZB) y con la radio ferroviaria digital Global System for Mobile Communications Rail (GSM-R).
 Figura 2: Croquis de situación²
 La explotación en la línea se realizaba conforme a las normas de la Instrucción de Circulación, Directiva (Ril) 408. La zona del suceso se encontraba en el ámbito de competencia del puesto de mando de circulación (Fdl) de Rheinkamp «Rf» y estaba equipada con la técnica de enclavamiento mecánico «Unidad Mw». Además, se encontraba en el lugar una disposición local del EVU Rail Cargo Carrier - Germany GmbH. La siguiente figura 3 muestra una vista general de la situación de la zona del suceso:
@@ -330,6 +334,7 @@ Figura 3: Área de salida en dirección Rheinberg (Rhl)
 ² Fuente: DB InfraGO AG, editado por BEU
 
 ## Página 16
+
 
 ### 3.1.2 Implicados
 Los implicados en el suceso desempeñaban las siguientes funciones:
@@ -368,6 +373,7 @@ Empleados
 
 ## Página 17
 
+
 |  | Usuarios de |  | - | - | - |
 |  | pasos a nivel |  |  |  |  |
 |  | Terceros |  | - | - | - |
@@ -385,6 +391,7 @@ Figura 4: Posición del Tfz 153 en la vía 21, así como de la traba de vía «V
 
 ## Página 18
 
+
 ### 3.2 Descripción objetiva de los hechos
 Para la reconstrucción del suceso peligroso y la descripción de las medidas de emergencia se recurre también, en particular, a las anotaciones, evaluaciones y hallazgos etc. contenidos en el capítulo 4.
 ### 3.2.1 Descripción de la secuencia de hechos
@@ -395,6 +402,7 @@ A raíz de ello, el Tf desacopló los dos vehículos de tracción sin percatarse
 
 ## Página 19
 
+
 Maniobra de maniobras con el Tfz 176 delantero hacia la vía 7. En la comprobación de itinerario posterior, para la preparación de la circulación de trenes DPN-G 75332, el Fdl no reconoció que el Tfz 153 no estaba estacionado en la aguja 41 libre de balizas de límite. La barrera de vía "V" pudo imponerla como un elemento de itinerario para la ruta a establecer –no obstante, detrás del Tfz 153– y llevar la aguja 41 a la posición negativa necesaria para la salida del DPN-G 75332 en dirección Xanten. La salida del DPN-G 75332 se produjo en una ruta de tren asegurada con la indicación "Hp 2" "Velocidad reducida" en la señal de salida (Asig) "K". Cuando el Tf del DPN-G 75332 reconoció que había un vehículo en su itinerario, inició inmediatamente una frenada de emergencia. Esta, sin embargo, ya no pudo evitar la colisión. El automotor que encabezaba el DPN-G 75332 colisionó en consecuencia con el Tfz 153 estacionado en la aguja 41 no libre de balizas de límite.
 
 ### 3.2.2 Gestión de emergencias
@@ -403,8 +411,8 @@ De acuerdo con el § 4 apartado 3 AEG, los ferrocarriles tienen la obligación d
 
 La BEU no constató, en el marco de la investigación del accidente y la reconstrucción del suceso, irregularidades ni retrasos en relación con la iniciación de las medidas de rescate.
 
-
 ## Página 20
+
 
 ## 4 Evaluación del suceso
 
@@ -424,8 +432,8 @@ La reconstrucción de las acciones operativas del Fdl Rheinkamp "Rf" responsable
 
 En el momento del suceso, el puesto de mando Rheinkamp "Rf" estaba dotado con un Fdl y el puesto de mando de guardagujas Rheinkamp "Rs" con una Ww-in, y la explotación se realizaba en régimen normal.
 
-
 ## Página 21
+
 
 El Fdl estableció al DGS 44942 hacia las 05:34 horas la ruta de entrada a la vía 7 de la estación Rheinkamp. Hacia las 05:48 horas se produjo entre el Fdl Rheinkamp y el Tf del entonces DGS 44942 un acuerdo de maniobras con el objetivo de maniobrar los dos Tfz a la vía 21 para su estacionamiento. Esta conversación GSM-R, de 15 segundos de duración, fue grabada y facilitada a la BEU.
 
@@ -440,8 +448,8 @@ Antes de autorizar la circulación de trenes, debían cumplirse las siguientes d
 "Principio:
 Antes de autorizar una circulación de trenes en una estación o en un punto de bifurcación, debe constatarse lo siguiente:
 
-
 ## Página 22
+
 
 (1) Las agujas a recorrer, las agujas en la zona de resbalamiento y las instalaciones de protección de flanco deben estar correctamente posicionadas. Esto se aplica por analogía a las agujas de los puntos de conexión.
 (2) El itinerario debe estar libre de vehículos."
@@ -457,8 +465,8 @@ Figura 5: Zona a comprobar para las circulaciones de trenes en dirección Xanten
 
 3 Fuente: DB directiva Ril 408.0231 apartado 3 (1) b)
 
-
 ## Página 23
+
 
 Figura 6: Vista desde el puesto de mando hacia la aguja 41
 
@@ -470,8 +478,8 @@ En conclusión, se determinó que, en contra de las indicaciones anteriores de l
 
 En los apartados siguientes se describen los procesos operativos de la circulación de trenes del DPN-G 75332 implicada en el suceso y de las maniobras de los dos Tfz de la circulación de trenes anterior del DGS 44942, finalizada en la estación Rheinkamp. Además de la evaluación del registro electrónico de circulaciones (EFR), se presenta en cada caso la disposición relevante sobre el desarrollo del suceso.
 
-
 ## Página 24
+
 
 ### Proceso operativo de la circulación de trenes del DGS 44942 y las maniobras posteriores de los dos Tfz
 
@@ -491,21 +499,22 @@ En relación con el suceso no pudieron constatarse anomalías. Tras la finalizac
 
 ## Página 25
 
+
 en la vía 7 a la vía 21. Para ello existía un acuerdo de maniobras entre el Tf y el Fdl Rheinkamp. Este acuerdo de maniobras fue grabado y puesto a disposición de la BEU. Cuando el Tf realizó la maniobra con ambos Tfz en la vía 21, ya se había dado de baja del radio de tren y, en los movimientos posteriores con el Tfz 176 a la cabeza, no volvió a registrarse en el GSM-R. Las conversaciones GSM-R mantenidas a continuación con el Fdl se llevaron a cabo sin asignación funcional a un número de tren, únicamente bajo el número de vehículo del Tfz a través del GSM-R. Dichas conversaciones no se graban técnicamente. Más detalles al respecto en el capítulo 4.2.3.
 Hacia las 05:50 se produjo el movimiento de maniobra a la vía 21, que se completó hacia las 06:00, véase la figura 8. Debido a un grupo de vagones estacionado en la vía 21, el espacio disponible para los dos Tfz no era suficiente.
 Figura 8: Maniobra a la vía 21
 A continuación, se decidió, de acuerdo entre el Tf, el Fdl y la disposición local, maniobrar los Tfz al lado de la estación del puesto de enclavamiento Ww "Rs" en la vía 7. Como consecuencia de ello, el Tf, según su propia declaración, volvió a acoplar los Tfz, esta vez con el Tfz 176 a la cabeza. Tras alcanzar un acuerdo de maniobras, el Tf puso los vehículos en movimiento hacia las 06:57. Según la evaluación de los datos de EFR disponibles, se produjo una frenada de emergencia en el Tfz 153, de modo que los vehículos se detuvieron tras un recorrido de 18 m. El Tf informó al Fdl, según su declaración, del problema en el marco de una conversación GSM-R. En ella, el Fdl indicó al Tf que, por su parte, no podía haber tráfico de trenes en ese momento y que el tren de pasajeros DPN-G 75332, situado delante de la señal de entrada "A", llevaba esperando 20 minutos. El contenido de la conversación se refirió a la declaración del Tf y fue valorado por la BEU como plausible. Tras este GSM-
 
-
 ## Página 26
+
 
 R conversación, el Tf intentó subsanar la avería en el Tfz 153. Hacia las 06:58:06 continuó la maniobra. Según los datos de EFR, la maniobra se detuvo de nuevo debido a una frenada de emergencia del Tfz 153 tras unos 22 m. Tras un segundo acuerdo por GSM-R entre el Tf, el Fdl y la disposición local, se decidió desacoplar el Tfz 176 y maniobrarlo individualmente de vuelta a la vía 7 a la posición original, véase la figura 9.
 Figura 9: Movimiento de maniobra planificado a la vía 7
 Durante ello no advirtió que el Tfz 153 en la vía 21, debido a los movimientos anteriores de un total de unos 40 m, ya se encontraba delante de la barrera de vía "V" en dirección a la aguja 41 y, por tanto, tampoco estaba ya estacionado libre de límites de zona. Estas actividades se completaron hacia las 07:09:07. En ese momento, según los datos de EFR, el Tfz 176 continuó la maniobra, que finalizó en la vía 7 a las 07:10:49, véase la figura 10.
 Figura 10: Maniobra del Tfz 176 a la vía 7
 
-
 ## Página 27
+
 
 La BEU valoró el estacionamiento del Tfz 153 no libre de límites de zona, en contra de las prescripciones de la Ril. 408.4831 del BRW EVU, como un factor causal [F1].
 ### Desarrollo operativo de la circulación del tren DPN-G 75332
@@ -516,8 +525,8 @@ Figura 11: Salida DPN-G 75332
 Para la reconstrucción de los procesos operativos del EVU, la BEU evaluó los datos de EFR que había almacenado el vehículo a la cabeza (número de vagón europeo: 95 80 0648 369-6) del DPN-G 75332. La lectura de los datos fue realizada por un empleado del EVU Transdev Rhein-Ruhr GmbH.
 En el vehículo de la BR 648 (LINT 41H) estaba instalada una caja de almacenamiento de datos (DSK) del tipo "DSK 10" de la DEUTA-WERKE GmbH. La evaluación arrojó que a las 07:13:53 hora DSK se realizó una frenada rápida.
 
-
 ## Página 28
+
 
 El tren se detuvo tras la colisión. Del proceso reconstruido de la circulación no se constataron hechos que constituyan un factor relevante para el suceso.
 ### 4.2 Vehículos y instalaciones técnicas
@@ -536,8 +545,8 @@ La maniobra estaba compuesta por dos locomotoras eléctricas (Tfz) de la BR 1116
 Tabla 5: Datos técnicos Tfz 91 81 1116 153-8 y 91 81 1116 176-9
 Según la declaración del Tf, estas frenadas de emergencia habrían resultado de la activación de la supervisión de parada del Tfz 153. En el marco de la investigación del accidente, los datos de los dispositivos de diagnóstico de ambos Tfz fueron leídos por la ECM competente y puestos a disposición de la BEU. Se constató que, en el momento de las frenadas de emergencia, no se registraron averías en los vehículos. Es razonablemente probable un error de maniobra o de trabajo del Tf, posiblemente provocado por (presión de) tiempo, que condujo a que el Tfz 153 trasero no pudiera ponerse en movimiento de forma continua para la maniobra.
 
-
 ## Página 29
+
 
 ## DPN-G 75332:
 El tren de pasajeros DPN-G 75332 circuló conforme al horario de Duisburg Hbf a Xanten. En el horario se indicaba como velocidad máxima 120 km/h en la posición de freno R/P a 104 Mbr. Frente a ello, el tren de pasajeros DPN-G 75332 disponía de 154 centésimas de freno disponibles. El peso del tren era de 150 t con una longitud de 84 m.
@@ -558,8 +567,8 @@ A la infraestructura constructiva no se le causaron daños como consecuencia del
 ### 4.2.3 Investigación de la técnica de mando y seguridad
 En el marco de la investigación de los hechos se constató que no se pudieron poner a disposición de la BEU los contenidos de los acuerdos de maniobras alcanzados a través del GSM-R, a pesar de que la comunicación se realizó a través de la red GSM-R. La reconstrucción del suceso
 
-
 ## Página 30
+
 
 arrojó que el Tf, en los movimientos de maniobra, ya no disponía de un número de tren y que mantenía las conversaciones GSM-R con el Fdl Rheinkamp mediante la introducción del número de vehículo del Tfz 176. Como consecuencia, los acuerdos de maniobras mantenidos a través del GSM-R no se grabaron posteriormente.
 Según informaciones de la DB InfraGO AG, desde agosto de 2025 existen, en relación con el origen de las tarjetas SIM de vehículos extranjeros, restricciones o diferencias respecto a los vehículos de Alemania, que conducen a la no grabación de conversaciones. Antes de agosto de 2025, la grabación en ambos casos se realizaba exclusivamente previa asignación a un número de tren. En agosto de 2025 se realizó una adaptación de configuración en los sistemas de grabación, de modo que la grabación con MSISDN alemanes (Mobile Station International Subscriber Directory Number) del ámbito de los vehículos de tracción se realiza ya sin asignación previa a un número de tren (CT2). Para las tarjetas SIM con MSISDN extranjero no era así. Esta restricción en relación con los EVU extranjeros no corresponde al marco de acuerdo de explotación de la empresa (Rahmen-Konzernbetriebsvereinbarung) "Almacenamiento de voz" (Sprachspeicher), según el cual las conversaciones entre el Tf y el Fdl o el Ww en la radio de maniobras deben grabarse.
@@ -568,6 +577,7 @@ De la TSI ZZS se derivan otras exigencias técnicas para la implementación de l
 5 Fuente: TSI OPE 4.2.3.5.1
 
 ## Página 31
+
 
 En el resto de la técnica de mando y señalización no se pudieron detectar anomalías. La técnica de mando y señalización, en relación con el suceso, no constituyó un factor causal ni contribuyente. Por este motivo no se realizaron más investigaciones.
 
@@ -589,6 +599,7 @@ De esta asignación se derivó que la frecuencia de supervisión mediante un den
 
 ## Página 32
 
+
 En el año 2024 se realizaron ocho controles operativos por parte de un jefe de distrito operativo. Conforme a la prescripción de Ril 412.9111 sección 5 apartado 2, en el año natural 2024 se realizaron al menos cuatro de los controles operativos como controles operativos especiales, es decir, en fin de semana, fuera del horario laboral habitual o en la situación de desviación del funcionamiento normal.
 
 El último control operativo antes del suceso se realizó el 16.09.2024 sin objeciones. Los temas de la entrevista de instrucción libre fueron la ejecución laboral general, en especial las comunicaciones de tren, la gestión del libro de comunicaciones de tren, las medidas ante la caída/avería del monitor BÜ y los trabajos para el funcionamiento de cambio de vía (GWB). En el control operativo del 17.07.2024, en el marco de la entrevista de instrucción libre, se abordó, entre otros, el tema de la comprobación de la vía/aseguramiento de la vía. Este control operativo también fue realizado por un órgano superior sin objeciones.
@@ -602,6 +613,7 @@ Debido a la avería imprevista en un Tfz de la maniobra de maniobras, que el Tf 
 En el Fdl de Rheinkamp surgió un conflicto de objetivos respecto al cumplimiento del horario del DPN-G 75332, ya que en el tramo de vía única en dirección a la estación operativa vecina Rheinberg (Rhl) podría producirse además, a continuación, problemas de capacidad debido a la infraestructura de vía única. Asimismo, en la dirección de circulación Rheinberg (Rhl) solo disponía de la vía "K" con inclusión del desvío 41 para una vía de salida regular de tren desde la vía 2. Además, para la maniobra del Tf debía asegurarse el BÜ. Las paradas necesarias de la maniobra de maniobras debido a la avería del vehículo causaron además tiempos de cierre más largos del BÜ "Reitweg". Estos pudieron provocar atascos más prolongados del tráfico rodado en el BÜ cerrado, que se encontraba en el campo visual inmediato del Fdl. Estos motivos llevaron a que el Fdl llamara al Tf de la maniobra de maniobras
 
 ## Página 33
+
 
 y preguntara por la duración necesaria para el Tf. Esta situación pudo haber influido en la realización de una comprobación de la vía correcta por parte del Fdl.
 
@@ -623,6 +635,7 @@ Debido a la avería del vehículo y a las conversaciones con el Fdl de Rheinkamp
 
 ## Página 34
 
+
 tren de pasajeros que ya estaba esperando y a las llamadas del Fdl. No se podían descartar errores operativos en relación con la maniobra de maniobras planificada en doble tracción, pero en la reconstrucción del suceso no eran demostrables de forma inequívoca debido a la falta de datos.
 
 #### 4.4 Mecanismos de retroalimentación y control
@@ -643,6 +656,7 @@ Conforme al Reglamento (UE) 2018/762 Anexo II cap. 6.1.2, una organización debe
 
 ## Página 35
 
+
 De conformidad con el Reglamento (UE) 2018/762, Anexo II, punto 4.2.1, se deben dotar a los empleados con tareas de seguridad de las competencias necesarias. Estas deben definirse previamente en el SMS de acuerdo con el punto 4.2.1 del Reglamento, así como evaluar su existencia y garantizar de forma permanente su mantenimiento. Adicionalmente, de acuerdo con el punto 4.2.2, se debe formar de forma periódica y acreditada. Esto significa también que los conocimientos deben estar suficientemente adquiridos antes de la asignación de una actividad. De acuerdo con el § 54 Abs. 1 EBO, se deben dotar a los agentes de operación de los conocimientos y habilidades que les capaciten para el ejercicio adecuado de su servicio. De acuerdo con el § 54 Abs. 2 EBO, los ferrocarriles deben asegurarse, mediante exámenes o de otra forma adecuada y antes de la puesta en servicio, de la existencia de los conocimientos y habilidades requeridos.
 
 En relación con la realización de los controles operativos periódicos del Fdl, quedó claro que el EIU pudo presentar los justificantes conforme a la Ril 412.9111 respecto al número cuantitativo de controles operativos a realizar para los años naturales 2023 y 2024. Los justificantes no contenían ninguna anomalía en relación con la prestación de servicio del Fdl acompañada de forma repetida y detallada por parte del organismo revisor. Frente a ello se encuentra el error de trabajo del Fdl constatado en el capítulo 4.1.1 de este informe de investigación.
@@ -654,6 +668,7 @@ De acuerdo con el § 4 Abs. 3 AEG, un EVU está obligado a operar de forma segur
 El Tf fue tanto formado inicialmente como periódicamente reciclado, y supervisado en su prestación de servicio de acuerdo con las disposiciones del SMS del EVU. La estacionamiento de Tfz era un componente habitual de la formación inicial y de reciclaje, así como objeto de supervisión. No se pudo constatar una laguna procesal; sin embargo, se produjo el error de trabajo del Tf descrito en el capítulo 4.1.2.
 
 ## Página 36
+
 
 ### Investigación del suceso
 
@@ -670,6 +685,7 @@ En este capítulo se realiza una relación de sucesos comparables que ya han sid
 - El 13.08.2019 hacia las 17:10 h el tren DPN-G 89399 del EVU Abellio Rail NRW GmbH colisionó, al salir del Bf Wanne-Eickel Hbf en dirección a Bochum Hbf al circular por la aguja 641, con el último vagón del tren de mercancías GS 60762 del EVU DB Cargo AG. La Fdl-in autorizó la circulación DPN-G 89399 sin compropreviamente si el itinerario y los elementos de itinerario correspondientes estaban libres de vehículos.
 
 ## Página 37
+
 
 ## 5 Conclusiones
 
@@ -688,6 +704,7 @@ Respecto al factor causal "Omisión de la comprobación de itinerario por parte 
 En el Bf Rheinkamp se constató que la comprobación de itinerario y la ausencia de vehículos en el área del suceso se realizaban mediante observación visual y, por tanto, exclusivamente bajo responsabilidad de seguridad humana, ya que no existían instalaciones técnicas de seguridad. Los errores en el marco de la comprobación de itinerario suelen tener efectos directos y pueden conducir inevitablemente a situaciones de peligro o a accidentes. En el presente caso, el Fdl responsable no evaluó correctamente los tramos de vía en su distrito de comprobación. Esta breve falta de atención fue suficiente, en combinación con las maniobras habituales, y condujo a la colisión de trenes en la aguja 41. Con una mirada de comprobación adecuada por la ventana, el Fdl habría podido reconocer sin lugar a dudas que en el itinerario se encontraba un Tfz estacionado de forma no libre de señales de límite. Una mayor
 
 ## Página 38
+
 
 automatización de las instalaciones de puesto de mando no habría permitido este error humano de esta forma.
 
@@ -710,6 +727,7 @@ Además, el EVU elaboró una instrucción operativa sobre la "notificación de m
 En el segundo semestre de 2026 se pondrá en servicio un puesto de mando electrónico para la línea Moers – Xanten. Así, la fuente de error de la comprobación de itinerario mediante observación visual descrita en el momento de la elaboración del informe dejará de existir en un plazo previsible.
 
 ## Página 39
+
 
 ### 5.3 Observaciones adicionales
 

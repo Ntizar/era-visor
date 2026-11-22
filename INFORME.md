@@ -10,8 +10,8 @@ Generado por `scripts/informe.py` el 2026-11-22 a partir del disco. Ningún dato
 | PDF en disco | 4013 |
 | MD originales extraídos | **3963 (98.7 %)** |
 | MD en castellano | **3958 (99.9 % de los extraídos)** |
-| · verificados ok | 3601 |
-| · con páginas a repasar | 357 |
+| · verificados ok | 3721 |
+| · con páginas a repasar | 237 |
 | · traducciones vacías o truncadas | 0 |
 | Informes revisados por IA (deepseek) | 316 |
 | PDF escaneados sin capa de texto | 169 |
@@ -21,18 +21,18 @@ Generado por `scripts/informe.py` el 2026-11-22 a partir del disco. Ningún dato
 
 | Código | País | PDF publ. | PDF disco | MD | MD-es | ok | a repasar | vacías | Rev. IA | Fidelidad | OCR | Conf. OCR |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **AT** | Austria | 184 | 184 | 184 | 184 | 176 | 8 | 0 | 0 | — | — | — |
-| **BE** | Bélgica | 112 | 112 | 112 | 112 | 105 | 7 | 0 | 11 | 92.2 | 1 | 82.3 |
+| **AT** | Austria | 184 | 184 | 184 | 184 | 179 | 5 | 0 | 0 | — | — | — |
+| **BE** | Bélgica | 112 | 112 | 112 | 112 | 111 | 1 | 0 | 11 | 92.2 | 1 | 82.3 |
 | **BG** | Bulgaria | 56 | 56 | 56 | 56 | 54 | 2 | 0 | 56 | 95.6 | 4 | 68.2 |
 | **CH** | Suiza | 8 | 8 | 8 | 8 | 8 | 0 | 0 | 8 | 96.1 | — | — |
-| **CZ** | Chequia | 577 | 577 | 579 | 579 | 565 | 14 | 0 | 0 | — | — | — |
-| **DE** | Alemania | 368 | 366 | 366 | 364 | 274 | 90 | 0 | 0 | — | — | — |
-| **DK** | Dinamarca | 146 | 146 | 120 | 119 | 114 | 5 | 0 | 0 | — | — | — |
-| **EE** | Estonia | 13 | 13 | 13 | 13 | 12 | 1 | 0 | 13 | 87.2 | — | — |
+| **CZ** | Chequia | 577 | 577 | 579 | 579 | 579 | 0 | 0 | 0 | — | — | — |
+| **DE** | Alemania | 368 | 366 | 366 | 364 | 352 | 12 | 0 | 0 | — | — | — |
+| **DK** | Dinamarca | 146 | 146 | 120 | 119 | 116 | 3 | 0 | 0 | — | — | — |
+| **EE** | Estonia | 13 | 13 | 13 | 13 | 13 | 0 | 0 | 13 | 87.2 | — | — |
 | **EL** | Grecia | 3 | 3 | 3 | 3 | 2 | 1 | 0 | 3 | 97.3 | — | — |
 | **ES** | España | 374 | 375 | 354 | 353 | 353 | 0 | 0 | 0 | — | — | — |
-| **FI** | Finlandia | 312 | 312 | 311 | 311 | 294 | 17 | 0 | 0 | — | 63 | 93.5 |
-| **FR** | Francia | 118 | 118 | 118 | 118 | 99 | 19 | 0 | 0 | — | 3 | 90.1 |
+| **FI** | Finlandia | 312 | 312 | 311 | 311 | 306 | 5 | 0 | 0 | — | 63 | 93.5 |
+| **FR** | Francia | 118 | 118 | 118 | 118 | 103 | 15 | 0 | 0 | — | 3 | 90.1 |
 | **HR** | Croacia | 107 | 107 | 106 | 106 | 101 | 5 | 0 | 11 | 88.5 | 4 | 93.5 |
 | **HU** | Hungría | 495 | 495 | 493 | 493 | 450 | 43 | 0 | 0 | — | — | — |
 | **IE** | Irlanda | 51 | 51 | 51 | 51 | 51 | 0 | 0 | 51 | 96.6 | — | — |

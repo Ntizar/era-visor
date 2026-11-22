@@ -10,13 +10,13 @@ chars: 96089
 ratio_longitud: 1.12
 tokens_in: 37306
 tokens_out: 29300
-verificacion: revisar
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 43: cifras largas: faltan 3/5 (60%)"]
-notas_cifras: ["página 6: ratio 2.10", "página 7: ratio 2.02", "página 11: cifras cortas: 1/10", "página 24: cifras cortas: 6/26", "página 35: ratio 2.00"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Centro de Investigación  
 de la Oficina Federal de Investigación de Accidentes Ferroviarios  
@@ -34,17 +34,17 @@ Suceso peligroso en el servicio ferroviario
 | Vía: | 10 |
 | Kilómetro: | 0 600 , |
 
-
 ## Página 2
+
 
 ## Publicado por: 
 Ministerio Federal de Transporte e Infraestructura Digital, 
 Oficina Federal de Investigación de Accidentes Ferroviarios  
 Robert-Schuman-Platz 1 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 # Índice: 
 ### Página 
@@ -99,10 +99,10 @@ Realización de las circulaciones de los trenes IC 2312 ........................
 4.6 
 Investigación de los vehículos ........................................................................... 33 
 4.6.1 
-Historia del vehículo .................................................................................................. 34 
-
+Historia del vehículo .................................................................................................. 34
 
 ## Página 4
+
 
 | 4.6.2 . . | Requisitos para los topes 35 ..................................................................................... |
 | 4.6.3 . . | Mantenimiento de los topes 38 ............................................................................................ |
@@ -117,6 +117,7 @@ Historia del vehículo .........................................................
 | 7 | Recomendaciones de seguridad 53 ................................................................................. |
 
 ## Página 5
+
 
 # Índice de figuras: 
 Fig. 1: IC 2312 descarrilado el 24.07.2012 ........................................................................... 10 
@@ -136,10 +137,10 @@ Fig. 14: Desplazamientos calculados y fuerzas correspondientes .................
 Fig. 15: Superposiciones de los topes entre los vagones Avmz y WRmz .................................... 47 
 Fig. 16: Zona de descarrilamiento entre W 218 y DKW 227 .............................................. 48 
 Fig. 17: Perfiles de velocidad de las salidas desde la vía 10 entre el 24.07. y el 09.10.2012 ... 50 
-Fig. 18: Esquema conceptual ............................................................................................................ 52 
-
+Fig. 18: Esquema conceptual ............................................................................................................ 52
 
 ## Página 6
+
 
 # Índice de abreviaturas 
 AEG 
@@ -193,10 +194,10 @@ Gestor de emergencias (Notfallmanager)
 ÖZF 
 Encargado del servicio de tráfico local competente (Örtlich zuständiger Fahrdienstleiter) 
 Ril 
-Directiva (Richtlinie) 
-
+Directiva (Richtlinie)
 
 ## Página 7
+
 
 | SB | Autoridad de seguridad (Sicherheitsbehörde) |
 | SMS | Sistema de gestión de la seguridad (Sicherheitsmanagementsystem) |
@@ -204,8 +205,8 @@ Directiva (Richtlinie)
 | VV BAU | Disposición administrativa sobre la supervisión de la construcción en ingeniería civil, infraestructura y edificaciones (Verwaltungsvorschrift über die Bauaufsicht im Ingenieurbau Oberbau und , Hochbau) |
 | VV IST | Disposición administrativa sobre el procedimiento de puesta en servicio de los subsistemas estructurales de la red ferroviaria transeuropea para el ámbito de las instalaciones fijas (Verwaltungsvorschrift für die Verfahrensweise bei der Inbetriebnahme struk - tureller Teilsysteme des transeuropäischen Eisenbahnsystems für den Be- reich ortsfester Anlagen) |
 
-
 ## Página 8
+
 
 # 0 
 # Introducción 
@@ -228,24 +229,25 @@ Descarrilamiento del 24.07.2012
 Descarrilaron la unidad motriz empujadora 91 80 6 101 058-6 con todos sus ejes, así como los dos vagones que la precedían, 61 80 889 0 519-4 y 51 80 849 0 014-2, con ambos bogies. Además, la superestructura de la vía y las instalaciones de señalización en la zona del descarrilamiento sufrieron daños considerables. 
 Descarrilamiento del 29.09.2012 
 En el descarrilamiento resultaron heridas 8 personas. Descarrilaron la unidad motriz empujadora 91 80 6 101 037-0 con todos sus ejes, así como los vagones 61 80 189 5 413-0 y 61 80 199 
-1 185-7 con ambos bogies. El vagón situado en la posición 9, 61 80 889 0 510-3, descarriló con el bogie posterior. Como consecuencia del descarrilamiento, un poste de la catenaria y las instalaciones electrotécnicas sufrieron daños graves o quedaron destruidos en parte. La superestructura de la vía y las instalaciones de señalización, en particular la aguja 227, sufrieron daños considerables.  
-
+1 185-7 con ambos bogies. El vagón situado en la posición 9, 61 80 889 0 510-3, descarriló con el bogie posterior. Como consecuencia del descarrilamiento, un poste de la catenaria y las instalaciones electrotécnicas sufrieron daños graves o quedaron destruidos en parte. La superestructura de la vía y las instalaciones de señalización, en particular la aguja 227, sufrieron daños considerables.
 
 ## Página 9
+
 
 ## 1.3 
 ## Causas 
 A la luz de las conclusiones obtenidas durante la investigación, cabe asumir que los descarrilamientos se debieron principalmente a un fallo de los topes de los vagones WRmz que formaban parte de la composición y/o de los vagones inmediatamente adyacentes, cuyas curvas de rigidez de los muelles se encontraban fuera de los rangos establecidos y las fuerzas de empuje permitidas eran excesivamente altas, así como a influencias de la infraestructura y al trazado local al límite de sus posibilidades, que actuaron como factores contribuyentes. 
 Descarrilamiento del 24.07.2012 
-La clara superación comprobada de la fuerza de empuje del tren admisible (fuerza de compresión) de 150 kN (equivalente a 1,8 kA en el indicador de fuerza de tracción/frenado del vagón piloto) aportó un factor adicional al descarrilamiento durante la salida desde la vía 10. Debido a un fallo de la aguja en la aguja 227 (b-d), el tren habría debido salir formalmente únicamente después de establecer un tramo de velocidad reducida de 20 km/h. 
-
+La clara superación comprobada de la fuerza de empuje del tren admisible (fuerza de compresión) de 150 kN (equivalente a 1,8 kA en el indicador de fuerza de tracción/frenado del vagón piloto) aportó un factor adicional al descarrilamiento durante la salida desde la vía 10. Debido a un fallo de la aguja en la aguja 227 (b-d), el tren habría debido salir formalmente únicamente después de establecer un tramo de velocidad reducida de 20 km/h.
 
 ## Página 10
+
 
 Fig. 1: IC 2312 descarrilado el 24.07.2012 
 Fig. 2: IC 2312 descarrilado el 29.09.2012
 
 ## Página 11
+
 
 # 2 
 # Preámbulo 
@@ -258,10 +260,10 @@ Más detalles al respecto se encuentran disponibles en Internet en >> www.eisenb
 ## 2.2 
 ## Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y derivar de ello indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como objetivo determinar culpas ni aclarar cuestiones de responsabilidad o de otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 12
+
 
 ## 2.3 
 ## Partes implicadas y colaboradoras 
@@ -284,10 +286,10 @@ AXTONE GmbH
 Descarrilamiento del 24.07.2012 
 El IC 2312 sale a las 11:36:45 h, según el registro de funcionamiento del tren (EFR) del cabezal de control delantero 61 80 80-91 127-3, desde el vía 10 hacia la señal principal (Asig N 531) en dirección a Stuttgart Zuffenhausen. La imagen de la señal muestra «Hp2». La vía de salida configurada pasa por los puntos de las agujas 211, 218, 227, 228, 230 y 212. 
 Fig. 3: Plano de situación de Stuttgart Hbf con representación esquemática de la vía de salida del tren 
-El tren se acelera continuamente desde el reposo en la vía 10 en el andén 5 hasta 29 km/h. Durante este proceso, el cabezal de control delantero recorre una distancia de 545 m. A continuación, la velocidad disminuye hasta 0 km/h tras recorrer 50 m. El vehículo delantero se detiene a las 11:39:03 h tras recorrer 595 m. El tren 2312 descarrila primero con los vagones 51 80 84-90 014-2 (Bimdz, 268.5) y el vagón 61 80 
-
+El tren se acelera continuamente desde el reposo en la vía 10 en el andén 5 hasta 29 km/h. Durante este proceso, el cabezal de control delantero recorre una distancia de 545 m. A continuación, la velocidad disminuye hasta 0 km/h tras recorrer 50 m. El vehículo delantero se detiene a las 11:39:03 h tras recorrer 595 m. El tren 2312 descarrila primero con los vagones 51 80 84-90 014-2 (Bimdz, 268.5) y el vagón 61 80
 
 ## Página 13
+
 
 88-90 519-4 (WRmz 134.5) en la zona del lado derecho del punto de las agujas 227. Como consecuencia del descarrilamiento de ambos ejes del bogie delantero del WRmz, así como de los ejes del bogie trasero del Bimdz, descarrilan también los ejes de los demás bogies de los vagones afectados. Además, descarrila la unidad motriz que empuja al final del conjunto de trenes, 91 80 6 101 058-6, con todos sus ejes. Tras el descarrilamiento, se encuentra doblado el parachoques delantero derecho del WRmz, situado en el lado derecho en dirección de marcha del tren. El parachoques trasero derecho del Bimdz, situado en la parte trasera en dirección de marcha del tren, presenta daños importantes. 
 Descarrilamiento del 29.09.2012 
@@ -316,6 +318,7 @@ Instalaciones mecánicas y eléctricas
 
 ## Página 14
 
+
 ## 3.3 
 ## Condiciones meteorológicas 
 Descarrilamiento del 24.07.2012 
@@ -331,20 +334,20 @@ Descarrilamiento del 24.07.2012
 Personal de DB Netz AG, área de infraestructura (Fahrbahn) 
 El personal declaró que el 24.07.2012 había recibido de su superior la orden de inspeccionar la alineación de las vías en el tramo de las vías 10/11 en la estación central de Stuttgart (Stuttgart Hbf). Alrededor de las 11:25 horas había llegado al lugar y había comenzado su trabajo en el punto de aguja 218. Había constatado a simple vista un error de altura longitudinal en el inicio de la aguja 218, con una extensión de 10 a 15 traviesas y un hundimiento de 3 a 4 milímetros. La posterior comprobación de la altura relativa mediante un nivel de agua no había revelado ninguna torsión de la vía. Además, el personal declaró que habían acudido dos trabajadores más de una empresa de construcción de vías. Estos habían constatado a simple vista otro error de altura longitudinal en la aguja 227 c/d de aproximadamente 2 milímetros. Para la realización de las mediciones había sido necesario, por motivos de prevención de accidentes, establecer una llamada «prohibición UV» (UV-Sperrung). Por ello, se había puesto en contacto con el encargado de tráfico de la estación central de Stuttgart (Stuttgart Hbf). Este le había comunicado que sería posible establecer una prohibición tras la salida de un tren que se encontraba en la vía 10. Debido a las mediciones realizadas en la zona de la aguja 218 con un nivel de agua y a las constataciones a simple vista en la aguja 227, había dado por sentado que las desviaciones menores de aproximadamente 2 milímetros se encontraban aún en la «zona verde». En consecuencia, no había opuesto objeciones a la circulación por la aguja 227.  
 2 trabajadores de una empresa de construcción 
-Las declaraciones de los dos trabajadores coinciden en el contenido con las declaraciones del personal de DB Netz AG del área de infraestructura (Fahrbahn). 
-
+Las declaraciones de los dos trabajadores coinciden en el contenido con las declaraciones del personal de DB Netz AG del área de infraestructura (Fahrbahn).
 
 ## Página 15
+
 
 Encargado de tráfico de la estación central de Stuttgart - Área de conmutación central (Stellbereich Mitte) - 
 El encargado de tráfico responsable declaró que alrededor de las 11:37 horas había recibido una llamada telefónica móvil de un empleado de la oficina de infraestructura de Stuttgart. El contenido de la conversación había sido una solicitud de prohibición de las agujas 227 y 228 por «razones UV» (UV Gründen). Además, se le había comunicado que allí debían realizarse mediciones de comprobación debido a un viaje de un tren de medición. Debido a la próxima salida del IC 2312 desde la vía 10 y a la entrada de un ICE procedente de Múnich, había comunicado al empleado de infraestructura que las prohibiciones se establecerían tras la salida del IC 2312 y la entrada del ICE. La salida del IC 2312 se había producido alrededor de las 11:38 horas en el punto de parada 2 (Hp 2) de la señal R 104.  
 Jefe de distrito de explotación (Betrieb) 
 El jefe de distrito de explotación declaró que, en el momento del incidente, se encontraba en la sala de conmutación para realizar un control de la explotación. Había comprobado personalmente la ruta de circulación establecida y la posición correcta de las señales en el panel de conmutación. En el momento del incidente, no se habían realizado acciones auxiliares por parte del encargado de tráfico responsable. Entre las 11:16 horas (FHT para 19087 – cambio de ruta de circulación) y las 12:49 horas (FHT 39921 – cambio de ruta de circulación) no se habían realizado acciones sujetas a registro. Las agujas 227, 228 y 230 se encontraban todas en bloqueo, aunque todas ellas mostraban la indicación de «entrada confirmada» (Auffahrmeldung). 
 Conductor del IC 2312 
-El conductor declaró que el IC 2312 debía circular ese día desde la estación central de Stuttgart (Stuttgart Hbf) hasta Dortmund. La toma del tren se había realizado sin incidentes especiales. La salida del IC se había autorizado en Hp 2 con una velocidad de 40 km/h. Durante la salida, mediante el uso del interruptor auxiliar, había observado los movimientos en el tren. Tras un breve trayecto, durante el cual se había sentado en su puesto de conducción, se produjo un frenado de emergencia del tren. Había circulado a una velocidad comprendida entre 30 y 40 km/h. Tras la detención del tren, se había puesto inmediatamente en contacto con el encargado de tráfico. El encargado de tráfico le había comunicado que su tren se había descarrilado. El jefe de tren se lo había confirmado en una conversación posterior. Las medidas auxiliares habían sido iniciadas de inmediato por el encargado de tráfico. 
-
+El conductor declaró que el IC 2312 debía circular ese día desde la estación central de Stuttgart (Stuttgart Hbf) hasta Dortmund. La toma del tren se había realizado sin incidentes especiales. La salida del IC se había autorizado en Hp 2 con una velocidad de 40 km/h. Durante la salida, mediante el uso del interruptor auxiliar, había observado los movimientos en el tren. Tras un breve trayecto, durante el cual se había sentado en su puesto de conducción, se produjo un frenado de emergencia del tren. Había circulado a una velocidad comprendida entre 30 y 40 km/h. Tras la detención del tren, se había puesto inmediatamente en contacto con el encargado de tráfico. El encargado de tráfico le había comunicado que su tren se había descarrilado. El jefe de tren se lo había confirmado en una conversación posterior. Las medidas auxiliares habían sido iniciadas de inmediato por el encargado de tráfico.
 
 ## Página 16
+
 
 Descarrilamiento del 29.09.2012 
 Encargado de tráfico de la estación central de Stuttgart - Área de conmutación central (Stellbereich Mitte) -  
@@ -356,6 +359,7 @@ El conductor declaró que había tomado el tren 2312 alrededor de las 11:32 hora
 De conformidad con el artículo 4, apartado 3, de la Ley General de Ferrocarriles (AEG), las empresas ferroviarias tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del Interior de los Länder y la DB AG se llegó a un entendimiento sobre un procedimiento. Para DB Netz AG son aplicables las correspondientes leyes de protección contra incendios y catástrofes de los Länder. La gestión de emergencias de DB AG se describe y regula con mayor detalle en la Directriz (Ril) 123.
 
 ## Página 17
+
 
 Descarrilamiento el 24.07.2012
 El suceso fue comunicado a la central de gestión de emergencias de Karlsruhe por el control de explotación de Stuttgart Hbf a las 11:41 h. El gestor de emergencias fue notificado por la central de gestión de emergencias a las 11:42 h. El jefe de distrito de explotación, presente en el puesto de maniobras en el momento del accidente, asumió inmediatamente después del suceso tareas adicionales de gestión de emergencias en el lugar. No se realizó una puesta a tierra de la catenaria como consecuencia del suceso en el marco de la gestión de emergencias. A las 12:09 h se notificó a la Policía Federal. La evacuación del IC 2312 descarrilado se completó a las 12:21 h.
@@ -375,8 +379,8 @@ Resumen de los periodos de bloqueo:
 | Stuttgart Hbf | 29 09 / 12:02 h . . | 30 09 / 16:03 h . . |  |  | 5 |
 | Stuttgart Hbf | 29 09 / 12:02 h . . | 01 10 / 4:04 h . . |  |  | 6 |
 
-
 ## Página 18
+
 
 | Stuttgart Hbf | 29 09 / 12:02 h . . | 01 10 / 12:50 h . . | 7 |
 | Stuttgart Hbf | 29 09 / 12:02 h . . | 09 10 / 9:00 h . . | 8 a 11 |
@@ -396,10 +400,10 @@ Pendiente longitudinal
 ... 
 7) 
 Para las líneas adaptadas no se prescriben valores, ya que las pendientes y contrapendientes vienen determinadas por la construcción original de la línea en cuestión. 
-... 
-
+...
 
 ## Página 19
+
 
 4.2.4.4 Radio mínimo de curvatura 
 Todas las clases de línea TSI 
@@ -421,6 +425,7 @@ En conjunto, cabe señalar que la TSI «Infraestructura» del sistema convencion
 
 ## Página 20
 
+
 fue aprobada en enero de 2014 en la Comisión de Reglamento y se encuentra en el procedimiento legislativo ulterior.
 Independientemente de ello, el «borrador consolidado de la ETT» contiene requisitos relativos a la configuración de tramos rectos entre curvas de radio opuesto con radios de 150 a 300 m, con el fin de evitar la superposición de topes. En el futuro, la longitud mínima de los tramos rectos intermedios en el trazado de curvas de radio opuesto podrá consultarse en tablas elaboradas sobre la base de vehículos de referencia (vagones de viajeros y vagones de mercancías). El vagón de viajeros presenta los siguientes valores característicos del vehículo:
  
@@ -433,8 +438,8 @@ En el trazado de una curva de radio opuesto con radios de 190 m cada una, el val
 Dado que los planes, las pruebas y las autorizaciones de la obra de construcción ya se habían realizado antes de 2011 y, por tanto, antes de la Decisión de la Comisión Europea de entrada en vigor de la ETT «Infraestructura» del subsistema convencional, del 24.04.2011, y consiguientemente antes de la necesaria transposición nacional a través del Reglamento de Interoperabilidad Transeuropea del Ferrocarril, dicha ETT no produce efectos y se aplicaron las disposiciones nacionales. A nivel nacional, los requisitos relativos a la construcción, la explotación y el uso de las instalaciones ferroviarias se encuentran en la Ordenanza de Construcción y Explotación Ferroviaria (EBO). Según esta disposición, las instalaciones ferroviarias deben tener, en general, unas características que permitan cumplir los requisitos de seguridad y orden. Estos requisitos relativos a las instalaciones ferroviarias se consideran cumplidos si se respetan las disposiciones de la EBO y, en la medida en que no existan disposiciones expresas que exijan que las instalaciones ferroviarias se ajusten a las reglas técnicas reconocidas.
 En la EBO se incluyen, entre otras cosas, requisitos relativos a la pendiente longitudinal y a las curvas de vía en la segunda sección «Instalaciones ferroviarias». Los siguientes requisitos son aplicables en las líneas principales:
 
-
 ## Página 21
+
 
 «...
 § 6 Curva de vía. (1) El radio de la curva en las vías principales continuas no debe ser inferior a
@@ -449,8 +454,8 @@ no debe superar 2,5 ‰ en las obras nuevas.
 ...»
 Además, el EIU - en el sentido de las reglas técnicas reconocidas - establece otras directrices respecto a los requisitos relativos al trazado de la línea. En este contexto, se han identificado especialmente la Directriz 800.0110 (Infraestructura de red, ingeniería de diseño - Trazado de la línea) y la Directriz 800.0120 (Infraestructura de red, ingeniería de diseño - Selección de puntos de cruce, cruces y dispositivos de expulsión de cuñas de frenado). Dado que los descarrilamientos entre los puntos de cruce 218 y 227 tuvieron lugar, a continuación se recopilan y se presentan a modo de extracto los requisitos contenidos en las directrices relativos a las longitudes de las curvas de vía, los tramos rectos y los puntos de cruce utilizados.
 
-
 ## Página 22
+
 
 Extractos de la Directriz 800.0110:
 ...
@@ -473,8 +478,8 @@ Tabla 1: Ámbito de discrecionalidad y ámbito de autorización para los paráme
 (2) En las vías principales continuas deben disponerse curvas de vía y tramos rectos con la longitud de referencia. Si se realiza el trazado con curvas de transición, puede desviarse de ello.
 La longitud de referencia y la longitud mínima de las curvas de vía (lb) y los tramos rectos (lg) deben determinarse según la Tabla 3.
 
-
 ## Página 23
+
 
 Si no se puede planificar una curva de vía con la longitud mínima correspondiente (min lb), debe sustituirse por una curva de vértice de acuerdo con el apartado 6 (5).
 ### Valor mínimo
@@ -498,6 +503,7 @@ Si la distancia entre dos cambios de curvatura sin curva de transición consecut
 (4) Para curvas de radio opuesto con radios de comparación ≤ 111 m, se requiere un tramo recto intermedio o una cur
 
 ## Página 24
+
 
 se planificarán radios con la siguiente longitud:
 min lg o min lb ≥ 6 m  con rw  ≤ 111 m
@@ -523,8 +529,8 @@ Los valores intermedios se interpolarán linealmente....
 (2) La pendiente longitudinal de los tramos de vías de estación en los que los trenes puedan detenerse o se puedan estacionar vehículos no deberá superar, en las nuevas construcciones, los 2,5 ‰.
 ...
 
-
 ## Página 25
+
 
 Extractos de la Ril 800.0120:
 ...
@@ -541,8 +547,8 @@ En las formas básicas con r0 = 190 m, las piezas de corazón rectas simples pue
 ...
 De los documentos presentados se desprende que para la remodelación del nodo ferroviario de Stuttgart y el trazado de la vía de salida desde la vía 10 se realizaron pruebas internas. Así, la prueba de trazado del 05.11.2008 se realizó desde el punto de vista de la dinámica de la marcha y de la tecnología de la superestructura sin objeciones, y la prueba de geometría de la vía se emitió el 11.05.2009 con condiciones. Para su ejecución, los documentos fueron aprobados por el autorizado para la presentación del proyecto de construcción el 21.01.2011 y el tramo de vía reformado se completó según la «notificación de uso» presentada el 07.02.2011 y se puso en servicio a partir de las 06:00 horas.
 
-
 ## Página 26
+
 
 Constatación:
 La vía de salida desde la vía 10 constituye una vía principal continua conforme al § 4 apartado 11 de la EBO.
@@ -569,8 +575,8 @@ Hoja de comprobación de puntos de cruce nº 12.41 para el punto de cruce compue
 Constatación:
 Al revisar el informe de medición, elaborado aproximadamente 4 meses antes del descarrilamiento, se registraron en el área entre los puntos de cruce 211 y 228 al menos dos superaciones SR 100 en la altura longitudinal y al menos 3 superaciones SR 100 en la torsión.
 
-
 ## Página 27
+
 
 En la variable de comprobación flecha se registraron varias superaciones SR lim claras (> 21 mm), con un valor máximo > 60 mm. Según la prescripción interna de la Ril 821.2001 apartado 5 (4) para el rango de velocidades v < 80 km/h, la velocidad admisible v debe limitarse en función de la magnitud de la superación –aproximadamente 3 veces la superación– y de las condiciones locales a un máximo de 60 km/h.
 Tampoco se respetó la deflexión de nivelación (uf) a cumplir de 110 mm (según la Tabla 6 de la Ril 800.0110), y se determinaron valores de aproximadamente 175 mm a partir del informe de medición.
@@ -581,6 +587,7 @@ La revisión de las hojas de comprobación de puntos de cruce presentadas revel�
 
 ## Página 28
 
+
 54-190-1:9+1:7,5-Wittec deben inspeccionarse para velocidades predefinidas de hasta 40 km/h con la hoja de inspección digital nº 12.9. No obstante, ambas inspecciones de las agujas se realizaron efectivamente con la hoja de inspección digital 12.41 para una aguja (DKW) de los tipos 49-190-1.9 y 1:6,6/5,635l, sin documentarse superaciones y archivándose el resultado de la inspección, sin que se tomaran medidas adicionales, en la base de datos de inspecciones de DB Netz AG.
 Dado que las inspecciones no se realizaron con la hoja de inspección prevista para ello, los resultados debían reevaluarse y transferirse manualmente a la hoja de inspección 12.9 que debía utilizarse. En este proceso se constató que
  
@@ -588,8 +595,8 @@ en la inspección del 13.12.2011, en el punto de medición hd de la vía b-d, se
  
 en la inspección del 27.06.2012, en el punto de medición hd de la vía b-d, se midió una anchura de la ranura del corazón de 48,1 mm, superándose así el valor límite SR de 48,0 mm. En caso de un defecto de este tipo, la Ril 821.2005 prevé que se subsane durante la propia inspección o, si no fuera posible, que se establezca inmediatamente una zona de circulación a velocidad reducida (La) por parte del inspector.
 
-
 ## Página 29
+
 
 Fig. 5: Aguja DKW 227 
 Si no se demuestra que el defecto ha sido subsanado, para una superación del valor límite SR de la anchura de la ranura en el corazón según el apartado 7 (7) de la Ril 821.2005, debe establecerse una La 0,7 x v adm. La Ril 821.2005 prevé una mayor restricción aún para el rango de velocidades v adm ≤ 40 km/h. En este caso, la velocidad debería haberse fijado en un máximo de v ≤ 20 km/h hasta la subsanación del defecto.  
@@ -597,8 +604,8 @@ Diferencias en las ranuras del corazón (Ril 821.2005, tabla 6):
 La diferencia radica en que, en los corazones simples y múltiples, la medida nominal hd es de 44 mm, mientras que en los corazones simples con ampliación constructiva de la vía es de 50 mm. Partiendo de estas medidas nominales, las desviaciones admisibles de la anchura de la ranura, según la tabla 6, se desplazan en ± 2 mm para SR 100 y en +4 / -3 mm para SR Lim.
 La hoja de inspección 12.41 para una DKW de los tipos 49-190-1.9 y 1:6,6/5,635l tiene en cuenta una medida nominal de la anchura de la ranura del corazón h de 50 mm, mientras que la hoja de inspección 12.9 para una DKW de los tipos DKW 54-190-:1-9 + 1:7,5-Wittec tiene en cuenta una medida nominal de la anchura de la ranura del corazón h de 44 mm
 
-
 ## Página 30
+
 
 tiene en cuenta. Debido a la diferencia de 6 mm entre las dos medidas nominales, se produjo una superación del SR Lim al aplicar las diferentes hojas de inspección.
 ## 4.3.3.2 
@@ -626,8 +633,8 @@ anuncio central por altavoz (personal de DB Station&Service),
  
 operador (personal de DB Station&Service) del sistema de información al viajero (FIA).
 
-
 ## Página 31
+
 
 ## 4.5 
 ## Investigación de las actuaciones operativas
@@ -644,6 +651,7 @@ La autorización para la salida del IC 2312 se realiza mediante la señal de sal
 
 ## Página 32
 
+
 la velocidad máxima registrada del cabezal de control líder desde el arranque hasta el descarrilamiento fue de vmax = 29 km/h. 
 El IC 2312 aceleró desde el reposo hasta 20 km/h en los primeros 335 m. A continuación, la velocidad registrada disminuyó ligeramente hasta 17 km/h tras recorrer otros 100 m. Posteriormente, la velocidad del vehículo líder aumentó continuamente hasta 29 km/h aproximadamente en el pk 0,920. A continuación, la velocidad se redujo desde 29 km/h hasta el reposo. Durante la fase de aceleración, con una fuerza de compresión calculada posteriormente de aproximadamente 240 kN, la parte trasera del tren se encontraba en la zona de las agujas 211, 218 y 227. La cabeza del tren IC se detuvo tras una distancia de frenado de aproximadamente 50 m, después de haber recorrido aproximadamente 595 m. 
 Constatación: 
@@ -651,9 +659,10 @@ La fuerza de compresión de 150 kN (que corresponde a 1,8 kA en el indicador de 
 Viaje del tren del 29.09.2013
 La autorización para la salida del IC 2312 fue otorgada por la señal de salida R 104 puesta en vía, en combinación con la orden de salida (Zp 9). La salida del tren tuvo lugar a las 11:41 h. El IC 2312 se realizó como un viaje empujado desde el vía 10. La velocidad máxima registrada del cabezal de control líder según EFR fue de vmax = 40 km/h en el pk 0,570. El perfil de velocidad mostró que, dentro de los primeros 130 m tras el arranque del tren, el vehículo líder alcanzó una velocidad de 22 km/h. A continuación, la curva de velocidad descendió hasta 14 km/h tras recorrer aproximadamente 150 m. El tren 2312 atravesó la siguiente zona de curva compuesta de las agujas 211, 218, 227 con una velocidad que aumentaba uniformemente hasta 38 km/h. La comprobación teórica de las fuerzas de compresión arrojó una fuerza de compresión de 150 - 170 kN. Aproximadamente 570 m después del arranque del IC, en el pk 0,895, la velocidad del vehículo líder descendió desde aproximadamente 38 km/h hasta 0 km/h en un intervalo de 100 m. El tren recorrió una distancia de 670 m tras el arranque. 
 Constatación: 
-La fuerza de compresión de 150 kN (que corresponde a 1,8 kA en el indicador de fuerza de tracción/frenado del cabezal de control), establecida y que debe respetarse según la Directiva 418.2139 A02 para limitar las fuerzas de compresión, se respetó, ya que el exceso determinado de hasta aproximadamente un 13 % también 
+La fuerza de compresión de 150 kN (que corresponde a 1,8 kA en el indicador de fuerza de tracción/frenado del cabezal de control), establecida y que debe respetarse según la Directiva 418.2139 A02 para limitar las fuerzas de compresión, se respetó, ya que el exceso determinado de hasta aproximadamente un 13 % también
 
 ## Página 33
+
 
 puede atribuirse a una incertidumbre teórica asumida – al realizar el cálculo inverso desde el perfil de velocidad hasta el perfil de fuerza de compresión -.
 ## 4.6 
@@ -662,10 +671,10 @@ Los trenes descarrilados y el viaje de pruebas descarrilado estaban compuestos c
 En todos los descarrilamientos participó el vagón más largo disponible en la composición, de tipo WRmz, modelo 134.5 (vagón restaurante), así como los vagones y locomotoras situados inmediatamente antes o después. En el primer descarrilamiento, el vagón WRmz se encontraba en la 11.ª posición, inmediatamente antes de la locomotora; en los demás descarrilamientos, el vagón ocupaba la 9.ª posición. El vagón WRmz se incluyó al final de la composición el 24.07.2012 debido a una avería en el suministro de energía a bordo y no estuvo disponible para los viajeros. 
 En las dos siguientes figuras se pueden ver las composiciones de tren correspondientes, los vehículos descarrilados y las longitudes características de los vehículos. 
 Fig. 7: Composición del tren y del viaje de pruebas 
-Fuente: DB Fernverkehr AG, elaborada por EUB 
-
+Fuente: DB Fernverkehr AG, elaborada por EUB
 
 ## Página 34
+
 
 Fig. 8: Distancias entre los pivotes y longitud total con topes de los vagones WRmz y Avmz 
 Fuente: DB Fernverkehr AG, elaborada por EUB 
@@ -679,6 +688,7 @@ En 1998, los vagones del modelo 135 (operador y propietario: DB Reise & Tourismu
 Las aprobaciones de los vehículos fueron realizadas por la Oficina Federal de Ferrocarriles (EBA). El vehículo prototipo lleva el número de identificación EBA EBA 96 G 07 A 001. Basándose en el correspond
 
 ## Página 35
+
 
 rigen documentación técnica debían preverse como tipo de dispositivo de impacto topes de camisa de 320 kN con resorte de anillo. Además, DB Fernverkehr AG, mediante escrito Ze. P.FBE / P.FBE (1) Gu del 10.05.2013, presentó el dibujo Fwp 000.06.004.02 de tope de camisa con resorte de fricción y declaró que, en el momento de la modificación del tipo 135 de la serie WRmz al tipo 133.1 de la serie WRmz, era vigente. Estos topes también están actualmente instalados en los vehículos que circulan hoy en día. Según una indicación en el dibujo Fwp 000.06.004.02, los topes de camisa deben cumplir las disposiciones de la «Hoja informativa UIC 528 VE, 7.ª edición 11.91».
 En el año 2001 se realizó una ampliación del sistema de suministro de energía en los vehículos. La resolución de aprobación presentada por el EBA contiene como anexo la documentación técnica para la aprobación conforme al § 32 apartado 1 de la Ordenanza de Construcción y Explotación Ferroviaria (EBO), parte B, así como instrucciones específicas del fabricante y del vehículo. El primer vehículo ferroviario aprobado lleva el número de identificación del EBA 01 G11 A 001. En la documentación técnica se indica que el radio mínimo de curva transitable es de 150 m (sin inclinación de la caja del vehículo), siendo estas curvas semicirculares para los topes fundamentalmente sin dificultad, ya que se cargan más en el centro.
@@ -706,8 +716,8 @@ Vehículo:
 superposición horizontal mínima de 25 mm entre dos platos que se tocan al circular por la geometría de la vía definida en la superestructura.
 Estas condiciones permitieron la modulación del denominado vehículo de base.
 
-
 ## Página 36
+
 
 kales Maß von 250 mm nicht überschreiten. Zur Gewährleistung des Kupplerraums muss bei 
 Reisezugwagen von der Fahrzeugmittellinie aus ein Raum mit einer waagrechten Breite von 
@@ -741,10 +751,10 @@ Fahrzeug:
  
 waagrechte Mindestüberdeckung von 25 mm bei zwei sich berührenden Tellern beim 
 Befahren der unter Oberbau festgelegten Gleisgeometrie. 
-Diese Bedingungen ermöglichten die Modulation des sog. Basisfahrzeuges. 
-
+Diese Bedingungen ermöglichten die Modulation des sog. Basisfahrzeuges.
 
 ## Página 37
+
 
 Feststellung: 
 Die Pufferteller der WRmz-Wagen haben eine Breite von 660 mm, die des Avmz-Wagens 
@@ -783,6 +793,7 @@ Pufferkennzeichnung beschrieben ist.
 
 ## Página 38
 
+
 Constatación:
 Como se desprende de las investigaciones presentadas en el capítulo 4.6.5 «Resultado de las investigaciones analíticas», se determinaron para los platos de tope de WRmz —mediante el Método de Elementos Finitos (MEF)— las cargas límite soportables en función de la posición del punto de contacto.
 En este sentido, se puso de manifiesto que, teniendo en cuenta el material del plato de tope utilizado, S355 J2+N, en el punto de contacto (210 mm horizontalmente desde el centro del plato de tope), el plato de tope puede soportar una carga límite de 200 kN.
@@ -795,6 +806,7 @@ El mantenimiento de los topes está regulado en el manual de mantenimiento 903 1
 En el curso de las etapas de mantenimiento 510 y 520 (alternándose cada 60.000 km o 70 días)
 
 ## Página 39
+
 
 y 710 (1.200.000 km o 6+1+1 año), bajo el número de serie 21, se deben inspeccionar y lubricar los topes de los vagones de viajeros, y bajo el número 22, medir la posición de los topes en los vagones de viajeros con bogies de suspensión por muelles. Los propios muelles no están sujetos a inspección cuando el tope funciona correctamente. Para estas actividades también se han elaborado instrucciones de trabajo.
 Constatación:
@@ -809,6 +821,7 @@ La investigación de los topes numerados del 1 al 8, según la siguiente figura,
 Fig. 10: Asignación de los topes, descarrilamiento 24.07.2012
 
 ## Página 40
+
 
 Tope n.º / Investigación
 1
@@ -968,6 +981,7 @@ inferior 191,5-193
 
 ## Página 41
 
+
 Desgaste del pasador de cuña
 [mm]
 superior/interior 24,85-25,00
@@ -1028,6 +1042,7 @@ Descarrilamiento del 29.09.2012
 Solo fue posible realizar una investigación en los topes designados con los números 9-12. Tras varias consultas a DB Fernverkehr AG sobre el estado de las investigaciones de los platos de tope, esta comunicó, aproximadamente 8 meses después, mediante carta del 23.04.2013, que los topes enviados al taller de mantenimiento de vehículos de DB en Eberswalde ya no se encontraban allí. Los cuatro topes disponibles para la investigación se desmontaron del vagón Apmz, que aún se encontraba en Stuttgart, y se trasladaron a la empresa AXTONE GmbH. También queda sin aclarar por qué los cuatro topes, contrariamente a las disposiciones, no se trasladaron a Eberswalde para su investigación junto con DB Fernverkehr AG.
 
 ## Página 42
+
 
 Fig. 11: Asignación de los topes, descarrilamiento 29.09.2012
 Número de tope / Investigación
@@ -1106,21 +1121,19 @@ i.O.
 i.O.
 i.O.
 
-
 ## Página 43
 
-| [mm] superior/interior 24,85 -25,00 inferior/exterior 24,85 -25,00 24,87-25,00 |  |  |  |  |
-| Desgaste del émbolo del tope superior [mm] 188-191 - 227-228 - | i.O. | i.O. | i.O. | i.O. |
-Abreviaturas utilizadas:
-ne.: no determinable
-i.O.: en orden
+| [mm] arriba/interior 24 ,85 -25 ,00 abajo/exterior 24 ,85 -25 ,00 24872500 , - , |  |  |  |  |
+| Desgaste tope de choque arriba [mm] 188191 - 227228 - | iO . . | iO . . | iO . . | iO . . |
+abreviaturas utilizadas:
+ne.:     no determinable
+i.O.:    en orden
 n.i.O.: no en orden
-k.A.: sin indicación
-Descarrilamiento el 09.10.2012
-La investigación de los topes se realizó tras el encargo por parte de la EUB en la empresa AXTONE
-GmbH.
-Fig. 12: Asignación de los topes, descarrilamiento 09.10.2012
-Número de tope / Investigación
+k.A.:   sin indicación
+Descarrilamiento del 09.10.2012
+La investigación de los topes de choque se realizó por encargo de la EUB en la AXTONE GmbH.
+Fig. 12: Asignación de los topes de choque, descarrilamiento 09.10.2012
+Nº de tope / Investigación
 1
 2
 3
@@ -1129,7 +1142,7 @@ Número de tope / Investigación
 6
 7
 8
-Loco
+Tfz
 1R
 4L
 4R
@@ -1138,16 +1151,16 @@ Loco
 n.z.
 n.z.
 k.A.
-Deformación de la placa base
-i.O.
-i.O.
-i.O.
-i.O.
-i.O.
-n.i.O.
+Deformación placa base
+i.O
+i.O
+i.O
+i.O
+i.O
+n.i.O
 i.O.
 [mm]
-Deformaciones en la parte interna del tope
+Deformaciones en el tope de
 k.A.
 Interior
 i.O.
@@ -1156,11 +1169,11 @@ i.O.
 Interior
 i.O.
 exterior
-ler (lado exterior/interior)
+choque (cara exterior/interior)
 Exterior
 fuerte
 fuerte
-Desgaste de los platos del tope
+Desgaste cara de contacto del tope
 k.A.
 3
 2
@@ -1169,8 +1182,8 @@ k.A.
 7
 3
 k.A.
-[mm] Límite 9
-Estado de lubricación de los platos del tope
+[mm] medida límite 9
+Estado de lubricación de la cara de contacto del tope
 k.A.
 i.O.
 i.O.
@@ -1179,10 +1192,10 @@ i.O.
 i.O.
 i.O.
 i.O.
-Ranuras horizontales
-
+Bloqueo horizontal
 
 ## Página 44
+
 
 última revisión según
 k.A.
@@ -1278,8 +1291,8 @@ n.i.O.: no en orden
 k.A.: sin indicación
 n.z.: no asignable
 
-
 ## Página 45
+
 
 ## 4.6.5
 ## Resultado de las investigaciones analíticas
@@ -1295,6 +1308,7 @@ Mediante una simulación multibody con SIM PACK, basándose en diversas condicio
 
 ## Página 46
 
+
 En un modelo adicional se realizaron simulaciones con fuerzas de compresión longitudinal de 100 kN y trenes de 3 vagones sin locomotora, compuestos por las combinaciones de vagones Avmz - Avmz - Avmz y Avmz – Wrmz – Avmz, y se determinaron, junto con las deflexiones calculadas, las fuerzas correspondientes en los puntos de contacto de los topes.
 
 | Tren de 3 vagones | deflexión máx.[mm] | fuerza correspondiente[kN] |
@@ -1309,8 +1323,8 @@ Las cargas límite soportables también se determinaron aproximadamente a partir
 Conclusión:
 Debe establecerse que, al limitar las fuerzas de compresión longitudinal a 100 kN, las fuerzas determinadas en las deflexiones máximas que se producen, tanto para la combinación de vagones Avmz - Avmz - Avmz como para Avmz – Wrmz – Avmz, se encuentran por debajo de las cargas límite soportables determinadas. Las «reservas» que resultan de ello, del 9 % y del 27 %, deben valorarse críticamente, sin embargo, a la luz de las incertidumbres inherentes a los modelos. Así, ya en la determinación de las curvas características de los resortes de los topes utilizados se registraron desviaciones respecto a las rigideces máximas de los resortes (fuerza de compresión a un recorrido de 60 mm) de hasta el 58 %. En este contexto, también deben tenerse en cuenta las pruebas de circulación realizadas, en las que se produjo un descarrilamiento, y las fuerzas de compresión determinadas a partir de los datos DSK (también afectadas por incertidumbres) en el momento del paso de los vagones 8-11 en la zona de agujas determinante, que se calcularon en un rango de 70-145 kN.
 
-
 ## Página 47
+
 
 # 5
 # Análisis y conclusiones
@@ -1321,8 +1335,8 @@ Las condiciones geométricas que se establecen al pasar por la curva en S, deriv
 Fig. 15: superposiciones de topes entre vagones Avmz y WRmz
 Fuente: DB Fernverkehr AG, editado por EUB
 
-
 ## Página 48
+
 
 La fotografía se tomó inmediatamente antes del descarrilamiento de la tercera prueba de circulación el 09.10.2012 y muestra los topes izquierdos del vagón WRmz líder y del vagón Avmz siguiente, en la zona de la curva contraria (W 218 – W 227). Poco después, el fallo de la placa del tope derecho provocó la sobrepasaría de los topes y el descarrilamiento. Las superposiciones mínimas de las placas de los topes fueron de aproximadamente 20 mm.
 
@@ -1334,6 +1348,7 @@ Debe destacarse que el aprovechamiento de estas zonas de trazado conlleva fundam
 
 ## Página 49
 
+
 Una trazado más riguroso, basado en valores estándar y prescripciones, y la consiguiente mayor reglamentación de las desviaciones, especialmente de sus superposiciones, permitiría aumentar la seguridad ferroviaria.
 Como demostró la evaluación de los registros de medición, se registraron desviaciones SR 100 y SR Lim, que deben subsanarse en función de la evolución del error hasta la próxima inspección reglamentaria o, en caso de superación del valor límite (lo que presupone un seguimiento de la evolución del error). Como se deducía de la señal global de la posición de la vía, esta presentaba superaciones globales de SR 100 que pueden afectar negativamente a la seguridad contra el descarrilamiento. La aceptación de un mayor desgaste conlleva, en principio, un deterioro más rápido de la estabilidad de la posición de la vía y un mayor esfuerzo de mantenimiento asociado. La revisión del mantenimiento reveló además que la circulación del tren del 24.07.2012, debido a un error de aguja, no debería haber salido o solo debería haber salido tras establecer un punto de reducción de velocidad con una velocidad de 20 km/h. Aunque el valor permitido se superó únicamente en una décima de milímetro, esta habría sido la actuación formalmente correcta según el reglamento interno. Dado que no se encontraron indicios de un error de aguja en los descarrilamientos del 29.09 y 09.10.2012, en principio no cabe asumir que este error de aguja haya contribuido de manera significativa al descarrilamiento. Sin embargo, dado que, según el Ril 821.2005 apartado 3 (5), todos los resultados de inspección deben ser evaluados por el responsable de la instalación, independientemente de la secuencia, no resulta comprensible por qué en dos inspecciones consecutivas se inspeccionó con la hoja de verificación incorrecta y por qué el error no se hizo evidente en dicho caso.
 ## 5.2
@@ -1344,8 +1359,8 @@ Se pueden descartar perturbaciones, defectos y errores en el ámbito de la tecno
 Se pueden descartar actuaciones erróneas operativas de la dirección de tráfico de Stuttgart Hbf, en relación con los dos descarrilamientos de trenes.
 Tras el descarrilamiento en Passau del 04.07.2010 de una unidad de maniobras empujada con coches de viajeros al circular por radios de vía estrechos, dispuestos uno detrás de otro, de 190 m, se fijaron las fuerzas de compresión admisibles en 150 kN. En el marco de las investigaciones internas de DB Fernverkehr AG se habrían determinado fuerzas de compresión de al menos 191 kN, que habrían provocado daños en los platos de los topes.
 
-
 ## Página 50
+
 
 La evaluación de los perfiles de velocidad de las circulaciones del tren descarrilado y de la circulación de prueba, así como de otras circulaciones seleccionadas al azar posteriores al 24.07.2012, mostró que todos los maquinistas no superaron la velocidad admisible de 40 km/h —en el trayecto de aproximación en la zona de descarrilamiento relevante—.
 Fig. 17: Perfiles de velocidad de las circulaciones desde el vía 10 entre el 24.07. y 09.10.2012
@@ -1353,8 +1368,8 @@ Fuente: DB Fernverkehr AG
 Con la excepción de la circulación del tren del 24.07.2012, se respetó la fuerza de compresión admisible de 150 kN. Las pequeñas superaciones de las circulaciones del 29.09 y 09.10.2012 pueden explicarse especialmente por las incertidumbres matemáticas en el cálculo inverso de los perfiles de velocidad a los perfiles de fuerza de compresión. En términos generales, cabe señalar que los perfiles de velocidad y de fuerza de compresión de todas las circulaciones descarriladas en la zona de descarrilamiento relevante eran significativamente más pronunciados y que en esta zona las circulaciones se aceleraban con mayor intensidad. En las circulaciones de trenes que, por el contrario, no descarrilaron, se aceleraron en los primeros 250 m, es decir, antes de la zona de descarrilamiento relevante, y posteriormente solo experimentaron cambios moderados de velocidad.
 Como consecuencia de los descarrilamientos en Stuttgart Hbf, DB Fernverkehr AG redujo, mediante la directiva F-W 116/2012, con validez a partir del 05.12.2012, entre otros aspectos, la fuerza de compresión admisible a 100 kN.
 
-
 ## Página 51
+
 
 ## 5.4
 ## Tecnología de los vehículos
@@ -1364,11 +1379,13 @@ Especialmente al circular por la vía de salida desde el vía 10 con los element
 
 ## Página 52
 
+
 Fig. 18: Esquema conceptual
 Dado que la geometría de las vías predefinida produce desplazamientos laterales iguales de los topes y el conjunto de resortes solo se deforma en una medida limitada, y según el diagrama de resortes —del dispositivo de tracción aquí utilizado— no se produce ninguna deformación hasta fuerzas de tracción de 150 kN, la fuerza introducida en el borde del plato del tope depende de la elasticidad de los topes. Por lo tanto, con topes de mayor rigidez de resorte, la fuerza introducida en el borde del plato es mayor, ya que el tope, debido a su rigidez, no puede amortiguar suficientemente. La fuerza determinante que actúa sobre el plato del tope se deriva ya sea de las fuerzas de sujeción o de las fuerzas de compresión por empuje (en maniobras de empuje). Por consiguiente, tanto las fuerzas de sujeción actuantes como las fuerzas de compresión por empuje pueden ser las fuerzas causantes de la falla de los platos de los topes.
 Los «diagramas de diapositivas» presentados por DB Fernverkehr AG sobre las investigaciones analíticas descritas en el capítulo 4.6.4 son, según una estimación conservadora, fundamentalmente correctos en cuanto a la metodología, pero no pueden ser comprendidos en su totalidad debido a la falta de densidad de datos, por ejemplo, en relación con las condiciones límite asumidas, así como con la capacidad de carga o la incertidumbre de las afirmaciones/valores determinados. A pesar de múltiples solicitudes, no se pudieron enviar los «informes técnicos» subyacentes o complementarios a las presentaciones. No puede descartarse que en las simulaciones se hayan asumido «condiciones ideales»
 
 ## Página 53
+
 
 y que, por ejemplo, platos de tope en servicio de 20 mm de espesor, rigideces de tope demasiado altas, así como desviaciones admisibles de la superestructura, no se hayan tenido en cuenta en los análisis o no se hayan considerado de manera realista.
 # 6

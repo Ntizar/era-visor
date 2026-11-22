@@ -10,12 +10,13 @@ chars: 3850
 ratio_longitud: 1.02
 tokens_in: 1938
 tokens_out: 1022
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -32,33 +33,32 @@ Suceso peligroso en la explotación ferroviaria
 | Vía: | 101 |
 | Kilómetro: | 9575 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................................... |
-| 2 | Descarrilamiento el 19 10 2024 en el Bf Bergheim (Westf) 2 . . . .......................................................... |
+| I . | Registro de modificaciones I ............................................................................................................... |
+| 1 | Notas preliminares 1 ..................................................................................................................... |
+| 2 | Descarrilamiento de tren el 19102024 en la estación de Bergheim (Westf) 2 . . . .......................................................... |
 |  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
 |  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
 |  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Registro de modificaciones 
 Modificación 
 Estado 
-I 
-
+I
 
 ## Página 4
+
 
 ## 1 Notas previas 
 La elaboración del informe intermedio se realiza con base en el § 5 apartado 5 del Reglamento de
@@ -75,8 +75,8 @@ reclamaciones de derecho civil, y se realizan con independencia de cualquier inv
 judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Descarrilamiento el 19.10.2024 en el Bf Bergheim (Westf.) 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias.

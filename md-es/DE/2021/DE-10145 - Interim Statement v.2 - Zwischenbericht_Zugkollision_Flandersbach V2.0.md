@@ -10,12 +10,13 @@ chars: 4323
 ratio_longitud: 1.01
 tokens_in: 2149
 tokens_out: 1180
-verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 3: cifras largas: faltan 1/2 (50%)"]
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -32,33 +33,32 @@ Suceso peligroso en la explotación ferroviaria
 | Aguja: | 01W3 |
 | Punto kilométrico: | 1212 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
 
 ## Índice 
-| I . | Índice de modificaciones I ............................................................................................................... |
-| 1 | Notas previas 1 ..................................................................................................................................... |
-| 2 | Colisión de trenes el 19 10 2021 en Bf Flandersbach 2 . . ........................................................................ |
+| I . | Registro de modificaciones I ............................................................................................................... |
+| 1 | Notas preliminares 1 ..................................................................................................................... |
+| 2 | Colisión de trenes el 19102021 en la estación de Flandersbach 2 . . ........................................................................ |
 |  | 2.1 Descripción breve del suceso 2 . ........................................................................................... |
 |  | 2.2 Consecuencias 2 . ...................................................................................................................................... |
-|  | 2.3 Estado de la investigación 2 . ........................................................................................................... |
+|  | 2.3 Evolución de la investigación 2 . ........................................................................................................... |
 |  | 2.4 Problemas de seguridad identificados 2 . .......................................................................................... |
 ## I. 
-## Índice de modificaciones 
+## Registro de modificaciones 
 | Modificación | Estado |
-| Versión 2 0 a raíz del plazo anual recibido . | 28 09 2023 . . |
-I 
-
+| Versión 2 0 en base al plazo anual recibido . | 28 09 2023 . . |
+I
 
 ## Página 4
+
 
 ## 1 Notas previas 
 Elaboración del informe intermedio con base en el § 5 Abs. 5 de la Ordenanza de
@@ -75,8 +75,8 @@ responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo con i
 de cualquier investigación judicial.
 Página 1 de 2
 
-
 ## Página 5
+
 
 ## 2 Colisión de trenes el 19.10.2021 en Bf Flandersbach 
 Este informe intermedio contiene una descripción breve del suceso y de sus consecuencias.
