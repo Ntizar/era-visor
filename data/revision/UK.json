@@ -1,0 +1,756 @@
+{
+ "md-es/UK/2005/060328_R032006_Swainsthorpe_web_13112005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 97.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'automatic half barrier (AHB) level crossing' traducido como 'cruce a nivel de barrera semiautomática (AHB)': aceptable, aunque 'barrera semiautomática' no es el término normalizado en español (se usa 'paso a nivel con barreras semiautomáticas' o 'paso a nivel de barrera semiautomática')",
+   "'class 170 170207' traducido como 'unidad 170207 de la clase 170': se añade 'unidad' no presente en el original",
+   "'offside' traducido como 'lado izquierdo' en lugar de 'lado opuesto/exterior'",
+   "'Up line' traducido como 'vía de subida' en lugar de 'vía ascendente/Up'",
+   "'nearside half' traducido como 'la mitad... más cercana al borde' de forma imprecisa"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060328_R032006_Swainsthorpe_web_13112005.md"
+ },
+ "md-es/UK/2005/060324_R042006_Phipps_21102005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   10,
+   12,
+   15
+  ],
+  "fidelidad_media": 96.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Rail Accident Investigation Branch' se traduce como 'Rama de Investigación de Accidentes Ferroviarios', término no normalizado; lo habitual es 'Departamento de Investigación de Accidentes Ferroviarios' o mantener el nombre original",
+   "'points' traducido como 'agujas' en lugar de 'desvíos' (término normalizado en ferrocarril)",
+   "'points' traducido como 'puntos' en lugar de 'agujas' (término ferroviario normalizado en castellano)",
+   "'axle box' como 'caja de ejes' (más habitual 'caja de grasa' o 'caja de eje')",
+   "'points not correctly set' traducido como «puntos no colocados correctamente»; en el original es una indicación de pantalla, sería preferible «puntos no correctamente establecidos» o mantener el literal entre comillas",
+   "'spring points' como 'puntos de resorte' (aceptable, pero no normalizado; término técnico habitual: 'agujas de resorte')"
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el texto del diagrama/plano de la Figura 6: 'Points', 'Direction of Travel', 'Position Indicator', 'Phipps Bridge', 'Eastbound', 'Tramstop', 'PBR02G', 'From Tram 2530', 'To Croydon', 'TO Wimbledon', 'Westbound after Derailment', 'TO CROYDON', 'WIMBLEDON' se reorganizan en una tabla que pierde la disposición y parte del contenido (p. ej. 'Tramstop', 'TO Wimbledon' como etiqueta separada)"
+    ],
+    "invenciones": [
+     "La tabla añade una columna 'Indicador de posición' y celdas vacías que no reflejan la estructura del original",
+     "Se introduce 'Este' como traducción de 'Eastbound' en la tabla sin correspondencia clara en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'points' traducido como 'puntos' es aceptable, pero 'puntos de vía' en el párrafo 29 no es coherente con 'puntos' usado antes",
+     "'bogie' se mantiene sin normalizar (podría ser 'bogie' o 'bogí')",
+     "'trailing direction' traducido como 'dirección de cola' es discutible; mejor 'en sentido de arrastre'"
+    ],
+    "comentario": "La traducción del cuerpo es fiel, pero el diagrama de la Figura 6 está mal reproducido y se pierden etiquetas del original."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060324_R042006_Phipps_21102005.md"
+ },
+ "md-es/UK/2005/060323_R022006_Watford_Junction_Yard_web_28102005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 93.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Rail Accident Investigation Branch' se traduce como 'Rama de Investigación de Accidentes Ferroviarios', término no normalizado; lo habitual es 'Departamento/Organismo de Investigación de Accidentes Ferroviarios' o mantener el nombre propio",
+   "'Watford Yard' traducido como 'las vías de maniobra de Watford' en lugar de mantener el topónimo 'Watford Yard'",
+   "'ground frame' traducido como 'cuadro de maniobras' (aceptable, pero no normalizado)",
+   "'signaller' traducido como 'telegrafista' en lugar de 'señalero'/'encargado de señalización'",
+   "'Slow Lines' como 'vías lentas' (aceptable) pero 'Up Slow line' como 'vía lenta de subida' no es término normalizado",
+   "'ground frame' como 'caja de agujas' (podría ser 'palanca de agujas'/'enclavamiento manual')"
+  ],
+  "fallos": [
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'One Train Working system' de forma completa (se vierte como 'Un Tren en Trabajo', omitiendo 'system')",
+     "No se recoge la referencia 'Appendix C' como 'Anexo C' en el mismo punto (se mantiene, pero se pierde la numeración de párrafo 10/11 en el flujo)"
+    ],
+    "invenciones": [
+     "'vías de maniobra' y 'vías de estacionamiento' añaden matices no presentes en 'yard'/'siding' del original",
+     "'telegrafista' no aparece en el original (signaller = señalero/operador de señal)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'signaller' traducido como 'telegrafista' en lugar de 'señalero'",
+     "'ground frame' como 'cuadro de maniobras' (aceptable pero no normalizado)",
+     "'Duty Station Manager' como 'Gestor de Estación de Servicio' (incorrecto; sería 'Jefe de Estación de Servicio')"
+    ],
+    "comentario": "Traducción mayormente fiel pero con terminología ferroviaria no normalizada y alguna invención léxica que afecta a la precisión técnica."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060323_R022006_Watford_Junction_Yard_web_28102005.md"
+ },
+ "md-es/UK/2005/041105_R192006_Oubeck.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   7,
+   14,
+   19,
+   25,
+   30
+  ],
+  "fidelidad_media": 92.8,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'six foot rail' traducido como 'riel exterior (six foot rail)': el original no dice 'exterior'; six-foot es la denominación de la vía (six-foot way), no un riel exterior",
+   "'signaller' traducido como 'telegrafista de señalización': término no normalizado; en ferrocarril es 'señalero' o 'encargado de señalización'",
+   "'cess' traducido como 'banqueta': aceptable pero conviene normalizar; 'cess drain' como 'drenaje de la banqueta' es discutible",
+   "'coupler lateral bump stops' como 'topes laterales de acoplamiento': traducción literal, término técnico dudoso",
+   "'earthworks' traducido como 'terraplenes' cuando en el contexto de cortes/desmontes debería ser 'movimiento de tierras' o 'obras de tierra'",
+   "'cutting' traducido como 'corte' (aceptable) pero 'cutting slope' como 'pendiente del corte' resulta ambiguo frente a 'talud del desmonte'"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "punto kilométrico (no aparece en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'six foot rail' traducido como 'carril de la vía de la izquierda' (el original se refiere al espacio entre vías, no a la vía izquierda)",
+     "'cantilevera' por 'cant' (debería ser 'peralte' o 'inclinación transversal')",
+     "'down main line' como 'vía principal de bajada' (no normalizado; mejor 'vía principal descendente' o 'vía principal par']"
+    ],
+    "comentario": "Traducción mayormente fiel, pero con errores técnicos en 'six foot rail' y 'cant', y una invención ('punto kilométrico')."
+   },
+   {
+    "pagina": 30,
+    "fidelidad": 92,
+    "omisiones": [
+     "En la recomendación 2, el original dice 'priority cutting slopes prone to earthflow failure'; la traducción omite el matiz de 'earthflow' (flujo de tierras) en la primera frase, aunque lo recupera después como 'flujo de tierras'",
+     "En la recomendación 3.a, el original especifica 'examinations additional to those described in NR/SP/CIV/065'; la traducción mantiene la referencia pero pierde la distinción entre 'examinations' (inspecciones) y el régimen de examen, sin omisión grave"
+    ],
+    "invenciones": [
+     "En el párrafo 170, el original dice 'the implementers'; la traducción añade 'finales' ('los implementadores finales'), matiz no presente en ese punto del original (aunque sí aparece 'end implementer' en la nota al pie)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'cutting slopes' traducido como 'taludes cortados' en lugar de 'taludes de desmonte' o 'desmontes', término técnico normalizado en ferrocarril",
+     "'earthwork' traducido como 'terraplenes' cuando el original distingue 'earthwork and drainage examination regime'; 'earthworks' abarca desmontes y terraplenes, no solo terraplenes",
+     "'field drain' traducido como 'drenaje superficial' en lugar de 'drenaje de campo' o 'zanja de drenaje'"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero presenta imprecisiones terminológicas en 'cutting/earthwork/field drain' y una pequeña invención ('finales') que aconsejan revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/041105_R192006_Oubeck.md"
+ },
+ "md-es/UK/2005/021105_R202006_Larkhall.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   12,
+   22,
+   32,
+   42,
+   52
+  ],
+  "fidelidad_media": 97.3,
+  "fidelidad_min": 97,
+  "sin_dictamen": [],
+  "terminos": [
+   "'plain line section' traducido como 'tramo recto' en lugar de 'tramo de vía corriente/vía general'",
+   "'buffer stops' como 'topes de vía' es aceptable pero no normalizado",
+   "'Junción de Haughhead' debería ser 'Haughhead Junction' o 'enlace de Haughhead'",
+   "'teleoperador de señales' no es término normalizado; en ferrocarril se usa 'señalero' o 'operador de señalización'",
+   "'la paradero del carrito' error gramatical (el paradero)",
+   "'method statement' traducido como 'declaración de métodos' en lugar de 'procedimiento de trabajo' o 'declaración de método'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/021105_R202006_Larkhall.md"
+ },
+ "md-es/UK/2005/060328_R052006_Blackpool_. Gynn Square and Talbot Square_21112005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 97.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'swinging-gate barrier' traducido como 'barrera de puerta abatible' (aceptable, aunque 'barrera de puerta oscilante' sería más literal)",
+   "'baton' traducido como 'batón' (término no normalizado en ferrocarril; en original es el testigo de vía única)",
+   "'handle' traducido como 'palanca' en lugar de 'maneta' o 'empuñadura' (término no normalizado para el mando del controlador)",
+   "'shaft' traducido como 'árbol' es aceptable, pero 'controller shaft end cover plate' se desglosa de forma que altera la etiqueta original",
+   "'runaways' traducido como 'vehículos que rodaban sin control' en lugar de 'fugas/descontrol de tranvías'",
+   "'spigot' traducido como 'espigón' (término marítimo) en vez de 'espiga/perno'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060328_R052006_Blackpool_. Gynn Square and Talbot Square_21112005.md"
+ },
+ "md-es/UK/2005/060714_R082006_Hatherley_18102005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   18,
+   27,
+   35,
+   43
+  ],
+  "fidelidad_media": 90.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "Railway Safety Directive traducido como 'Directiva de Seguridad Ferroviaria' (aceptable)",
+   "Rail Accident Investigation Branch traducido como 'Rama de Investigación de Accidentes Ferroviarios' (no normalizado; se suele mantener RAIB o 'Departamento de Investigación de Accidentes Ferroviarios')",
+   "signaller traducido como 'telegrafista' en lugar de 'operador de señales'/'jefe de circulación'",
+   "shunter traducido como 'maniobrador' (aceptable) pero 'shunter' en contexto ferroviario británico suele ser 'enganchador'/'personal de maniobras'",
+   "trailing/facing traducidos como 'de salida'/'de entrada' en lugar de 'en cola'/'en punta' (términos normalizados de agujas)",
+   "Alstone Carriage sidings traducido como 'vías laterales de vagones' en lugar de 'apartaderos de coches'"
+  ],
+  "fallos": [
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'rail chairs' como elemento diferenciado (se vierte como 'zapatas de carril', pero se omite la mención de que las sillas empujan hacia afuera o se fracturan de forma independiente)",
+     "Se omite la referencia 'Figure 7' en el párrafo 63 (sí aparece, pero se pierde la indicación de la figura en el texto de la nota al pie respecto al original)"
+    ],
+    "invenciones": [
+     "Se añade 'PK' antes de '87 m 46½ cadenas', que no aparece en el original",
+     "Se traduce 'point of derailment' como 'punto de descarrilamiento' en la figura, cuando el original se refiere al punto de descarrilamiento (aceptable, pero no invención relevante)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'coach screws' traducido como 'tornillos de madera' (debería ser 'tirafondos' o 'tornillos para madera' normalizado)",
+     "'rail chairs' traducido como 'zapatas de carril' (término no normalizado; en español ferroviario es 'sillas de carril')",
+     "'gauge' traducido como 'trocha' (válido en algunos países, pero no normalizado; en España es 'ancho de vía')"
+    ],
+    "comentario": "La traducción es en general fiel, pero introduce 'PK' no presente en el original y usa terminología ferroviaria no normalizada; además omite matices en la descripción de las sillas de carril."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060714_R082006_Hatherley_18102005.md"
+ },
+ "md-es/UK/2005/060720_R112006_NewAddington_23112005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   5,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'hazard brake' traducido como 'freno de emergencia' en lugar de 'freno de peligro/emergencia normalizado'",
+   "'over-run distance' traducido como 'distancia de sobrecorriente' (incorrecto; debería ser 'distancia de sobrepaso/recorrido tras la señal')",
+   "'fouling point' traducido como 'punto de invasión' (no normalizado; habitual 'punto de conflicto/obstrucción')",
+   "'tramways or tramway extensions' traducido como 'tranvías o extensiones de tranvía' en lugar de 'redes de tranvía o ampliaciones de la red'",
+   "'minor attention' traducido como 'atención menor' (calco poco natural; mejor 'se realizaron pequeños ajustes/intervenciones menores')",
+   "'hazard brake' traducido como 'frenado de emergencia' en todo el texto, cuando el original distingue 'hazard brake' de 'emergency track brake force'; se pierde la distinción terminológica"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060720_R112006_NewAddington_23112005.md"
+ },
+ "md-es/UK/2005/060811_R142006_Liverpool_26102005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   19,
+   29,
+   37,
+   45
+  ],
+  "fidelidad_media": 92.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'peralte' por 'cant' (aceptable, pero conviene normalizar 'peralte'/'inclinación transversal')",
+   "'ancho de vía' por 'gauge' correcto, pero 'comprometiendo el ancho de vía' por 'compromising gauge' es ambiguo",
+   "'lubricador de flange' por 'flange lubricator': 'flange' sin traducir, debería ser 'lubricador de pestaña'",
+   "'cajas adyacentes' por 'adjacent housings' (mejor 'alojamientos')",
+   "'estribos de hormigón' por 'concrete haunches' (mejor 'ménsulas/refuerzos de hormigón')",
+   "'cara de la vía' por 'gauge face' (debería ser 'cara interna/cara del carril')"
+  ],
+  "fallos": [
+   {
+    "pagina": 45,
+    "fidelidad": 88,
+    "omisiones": [
+     "En la nota 1 falta la frase 'and where appropriate acted upon by the end implementer' (solo se traduce parcialmente como 'sean objeto de acción por parte del ejecutor final a más tardar al final del plazo establecido', omitiendo el matiz 'where appropriate')"
+    ],
+    "invenciones": [
+     "'a más tardar al final del plazo establecido' no aparece en el original (añadido al final de la nota 1)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'gauge spreading forces' traducido como 'fuerzas de expansión del perfil' en lugar de 'fuerzas de ensanchamiento de vía'",
+     "'tie-bars' traducido como 'barras de unión' (aceptable pero no normalizado; podría ser 'barras de atado')"
+    ],
+    "comentario": "Traducción mayormente fiel, pero la nota 1 presenta una omisión y una invención, y algunos términos técnicos no están normalizados."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060811_R142006_Liverpool_26102005.md"
+ },
+ "md-es/UK/2005/060717_R092006_Radcliffe_08112005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   7,
+   11,
+   15,
+   19,
+   23
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Railway Safety Directive' traducido como 'Directiva de Seguridad Ferroviaria' en lugar de 'Directiva de Seguridad Ferroviaria (ferrocarriles)' no normalizado",
+   "'Rail Accident Investigation Branch' se deja en inglés entre paréntesis, aceptable pero no normalizado",
+   "'lookout' traducido como 'vigilante' en lugar de 'vigía' (término normalizado en seguridad ferroviaria)",
+   "'linespeed' traducido como 'velocidad de línea' (aceptable, pero no normalizado como 'velocidad máxima de la línea')",
+   "'safe system of work' traducido como 'sistema de trabajo seguro' en lugar de 'sistema de trabajo seguro' normalizado; en el punto 12 se traduce como 'sistema de trabajo seguro inadecuado' cuando el original dice 'inadequate safe system of work' (correcto)",
+   "'outbound' traducido como 'hacia la vía de salida' en lugar de 'en sentido de salida'/'hacia fuera' (matiz direccional del tranvía/vigilante)"
+  ],
+  "fallos": [
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el contenido del diagrama organizativo (Track Engineer, Assistant Track Engineering, Permanent Way Engineer, Planner, Team Leader, Senior Track Persons, Track Persons) como elementos separados; se fragmenta y se omite 'Track Engineer' y 'Senior Track Persons' queda como 'Senior'/'Personal de Vía'"
+    ],
+    "invenciones": [
+     "'six foot' añadido entre paréntesis como glosa no presente en el original",
+     "'inició su turno' por 'booked on duty' (matiz añadido)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'fishplate' traducido como 'placa de unión' es aceptable, pero 'six foot rail' se vierte como 'carril de la vía de seis pies (six foot)' de forma confusa",
+     "'track person'/'senior track person' no normalizado: 'personal de vía'/'personal de vía senior'",
+     "'lookout' como 'vigilante' es discutible; término técnico ferroviario habitual es 'vigía'"
+    ],
+    "comentario": "La traducción es fiel en cifras y contenido principal, pero el diagrama organizativo está mal desglosado con omisiones y hay glosas y matices añadidos."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060717_R092006_Radcliffe_08112005.md"
+ },
+ "md-es/UK/2005/060721_R122006_BlackHorseDrove_19102005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   9,
+   17,
+   25,
+   33,
+   40
+  ],
+  "fidelidad_media": 97.0,
+  "fidelidad_min": 96,
+  "sin_dictamen": [],
+  "terminos": [
+   "'miniature stop light' traducido como 'luz de parada miniatura' en lugar de 'señal luminosa de parada en miniatura' o término normalizado equivalente",
+   "'user worked crossings' traducido como 'pasos a nivel de uso particular' (aceptable pero no normalizado; podría ser 'pasos a nivel de uso privado/particular con usuario')",
+   "'conductor del tractor 1' podría leerse como numeración; el original 'Tractor driver 1' es una etiqueta de identificación, aceptable pero ambiguo",
+   "'GRP' se expande como 'fibra de vidrio reforzada con resina', expansión no presente en el original",
+   "'gates' traducido como 'barreras' en lugar de 'barreras/puertas del paso a nivel' (término no normalizado)",
+   "'gate line' traducido como 'línea de las barreras' en lugar de 'línea de las puertas/barreras' (posible inconsistencia terminológica)"
+  ],
+  "fallos": [
+   {
+    "pagina": 25,
+    "fidelidad": 96,
+    "omisiones": [],
+    "invenciones": [
+     "AHB (Advanced Warning of Half Barriers): la expansión del acrónimo no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'semáforos de luz de parada reducida' para 'miniature stop lights' no es la denominación técnica normalizada en español (sería 'señales luminosas de parada en miniatura' o similar)",
+     "'paso de ocupación privada' para 'private occupation crossing' es traducción literal no normalizada",
+     "'timbres defectuosos' para 'defective sounders' podría precisarse como 'dispositivos de aviso acústico defectuosos'"
+    ],
+    "comentario": "Traducción fiel y completa en cifras y contenido, pero añade una expansión inexistente del acrónimo AHB y emplea denominaciones técnicas no normalizadas para 'miniature stop lights'."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/060721_R122006_BlackHorseDrove_19102005.md"
+ },
+ "md-es/UK/2005/061211_R232006_Elsenham_03122005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   19,
+   37,
+   53,
+   70,
+   87
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'signaller' traducido como 'señalizador' (debería ser 'señalero' o 'encargado de señalización')",
+   "'crossing keeper' traducido como 'guardián del cruce' (poco normalizado; 'guardabarreras' o 'guardesa')",
+   "'miniature stop lights' traducido como 'luces de detención miniatura' (término no normalizado; habitualmente 'señales luminosas de parada en miniatura')",
+   "'una andén' error de género (debería ser 'un andén')",
+   "'stop lights' traducido como 'luces de detención' en lugar de 'luces de parada' (término no normalizado en el ámbito ferroviario)",
+   "'passed round barriers' traducido como 'pasado por debajo de las barreras' (el original indica rodear/contornear las barreras, no pasar por debajo)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/061211_R232006_Elsenham_03122005.md"
+ },
+ "md-es/UK/2005/070108_R252006_Part2_Lewes_30112005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   6,
+   12,
+   17,
+   21,
+   26
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Railway Safety Directive' traducido como 'Directiva de Seguridad Ferroviaria' en lugar de la denominación oficial 'Directiva de seguridad ferroviaria'",
+   "'Rail Accident Investigation Branch' se deja en inglés entre paréntesis; aceptable pero no normalizado",
+   "'swabbing' traducido como 'limpieza' en lugar de 'frotado/hisopado' (término técnico de muestreo)",
+   "'signaller' traducido como 'teleoperador' en lugar de 'señalero/operador de señalización'",
+   "'Lewse' errata en el nombre del incidente (Lewes)",
+   "signaller traducido como 'telegrafista' en lugar de 'señalero' o 'encargado de señalización'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/070108_R252006_Part2_Lewes_30112005.md"
+ },
+ "md-es/UK/2005/070108_R252006_Part1_Esher_25112005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 95.2,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Railway Safety Directive' traducido como 'Directiva de Seguridad Ferroviaria' en lugar de la denominación oficial 'Directiva de seguridad ferroviaria' (2004/49/CE), aceptable pero no normalizado",
+   "'Rail Accident Investigation Branch' se traduce y se deja el original entre paréntesis, correcto",
+   "'signaller' traducido como 'teleoperador de tráfico' en lugar de 'señalizador' o 'encargado de señalización'",
+   "'in the aftermath of the incident' traducido como 'en las posteriores al incidente' (construcción agramatical)",
+   "'telegrafista' por 'signaller' (señalero/encargado de señalización)",
+   "'conjunto' por 'unit' (unidad/automotor) en 'conjunto de la Clase 444'"
+  ],
+  "fallos": [
+   {
+    "pagina": 10,
+    "fidelidad": 92,
+    "omisiones": [
+     "En el párrafo 38 se omite 'in the immediate aftermath of the incident' (en las inmediaciones del incidente) y se sustituye por una repetición de 'en las inmediaciones'"
+    ],
+    "invenciones": [
+     "En el párrafo 38 se añade 'en las inmediaciones del incidente' como duplicado que no refleja el original 'in the immediate aftermath of the incident'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'signaller' traducido como 'teleoperador de señales' en lugar de 'señalero' o 'operador de señales'",
+     "'railhead swabbing' como 'barrido de la cabeza del riel' (aceptable pero no normalizado)",
+     "'sliding' como 'patinado' (podría ser 'deslizamiento')"
+    ],
+    "comentario": "Traducción mayormente fiel, pero el párrafo 38 contiene una omisión y una invención por confusión de 'in the immediate aftermath' con 'en las inmediaciones'."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/070108_R252006_Part1_Esher_25112005.md"
+ },
+ "md-es/UK/2005/061129_R222006_Moy_26112005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   10,
+   19,
+   27,
+   36,
+   44
+  ],
+  "fidelidad_media": 95.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "signaller traducido como 'telegrafista' en lugar de 'señalero' o 'encargado de señalización'",
+   "milepost traducido como 'punto kilométrico' (unidad incorrecta; debería ser 'milla' o 'poste de milla')",
+   "off-duty traducido como 'en excedente' en lugar de 'fuera de servicio'",
+   "coach traducido como 'vagón' (aceptable, pero 'coche' es más habitual en informes ferroviarios)",
+   "'invert of the drain' traducido como 'clave del drenaje' (término no normalizado; en drenaje se suele usar 'solera' o 'invertido')",
+   "'till glacial' podría normalizarse como 'till glaciar' o 'sedimento morrénico'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/061129_R222006_Moy_26112005.md"
+ },
+ "md-es/UK/2005/070108_R252006_Part_25112005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 93.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'signaller' traducido como 'teleoperador de señales' en lugar de 'señalero' o 'operador de señales'",
+   "'in the aftermath' traducido como 'en las posteriores' (frase incompleta/agramatical)",
+   "'railhead swabbing' traducido como 'limpieza de la cabeza del riel' en lugar de 'hisopado/frotis de la cabeza del riel'",
+   "'signaller' traducido como 'teleoperador de señales' en vez de 'señalero'",
+   "signaller traducido como 'despachador de tráfico' en lugar de 'señalizador' o 'jefe de circulación'",
+   "wheelslide traducido como 'patinamiento' (aceptable, pero conviene normalizar como 'deslizamiento de ruedas')"
+  ],
+  "fallos": [
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el número de párrafo 'l' (posible '1') del original, que aparece como 'l' en la traducción",
+     "Se omite la frase 'indicating that the area of severe contamination had been passed' en su forma exacta? (no, está traducida)",
+     "Omisión de la referencia 'up fast line' como término normalizado? (se traduce como 'vía rápida de subida')"
+    ],
+    "invenciones": [
+     "Se añade la glosa 'SPAD (paso en rojo)' que no está en el original",
+     "Se añade 'EMU (tren eléctrico múltiple)' como glosa no presente en el original",
+     "Se añade 'sistema de protección contra bloqueo de ruedas (WSP)' como glosa no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'signaller' traducido como 'telegrafista' en lugar de 'jefe de circulación' o 'señalero'",
+     "'driver' traducido como 'conductor' en lugar de 'maquinista'",
+     "'wheel flats' traducido como 'aplastamientos en las ruedas' en lugar de 'planos en las ruedas'"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene glosas inventadas, terminología ferroviaria no normalizada y alguna omisión menor de formato."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/070108_R252006_Part_25112005.md"
+ },
+ "md-es/UK/2005/070108_R252006_Part3_general.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   16,
+   32,
+   47,
+   61,
+   76
+  ],
+  "fidelidad_media": 94.8,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Rail Accident Investigation Branch' traducido como 'Rama de Investigación de Accidentes Ferroviarios' en lugar de mantener la denominación oficial o una traducción normalizada",
+   "'station overruns' traducido como 'salidas de estación por exceso de frenado' (añade 'por exceso de frenado' no presente en el original; debería ser 'rebases de estación' o 'sobrepasos de estación')",
+   "'ride quality'/'ride characteristics' como 'calidad de marcha'/'características de marcha' es aceptable, pero 'ride' en contexto ferroviario se normaliza como 'confort de marcha'",
+   "'wheel flats' traducido como 'ruedas laminadas' (debería ser 'planos de rueda' o 'pisadas de rueda')",
+   "'retardation' traducido como 'desaceleración' (aceptable, pero 'retardo/frenado' sería más preciso en contexto ferroviario)",
+   "'by no means certain' traducido como 'no está nada claro' (matiz de incertidumbre algo alterado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 16,
+    "fidelidad": 98,
+    "omisiones": [],
+    "invenciones": [
+     "(en rojo) añadido tras 'en estado peligroso'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'passed signal EBZ40 at danger' traducido como 'superó la señal EBZ40 en estado peligroso (en rojo)'; 'at danger' se normaliza como 'en peligro' o 'en rojo', la adición entre paréntesis no está en el original",
+     "'WSP' se mantiene sin desarrollar; aceptable si es término normalizado, pero conviene indicar 'sistema de protección contra deslizamiento'"
+    ],
+    "comentario": "Traducción completa y fiel en cifras y contenido; solo se añade '(en rojo)' no presente en el original."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/070108_R252006_Part3_general.md"
+ },
+ "md-es/UK/2005/070108_R252006_Prt.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   16,
+   32,
+   47,
+   61,
+   76
+  ],
+  "fidelidad_media": 94.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Rail Accident Investigation Branch' traducido como 'Rama de Investigación de Accidentes Ferroviarios' en lugar de mantener la denominación oficial o usar 'Organismo de Investigación de Accidentes Ferroviarios'",
+   "'station overruns' traducido como 'salidas de estación por exceso de velocidad' en lugar de 'rebases de estación' o 'invasiones de estación' (no implica exceso de velocidad)",
+   "'wheel flats' traducido como 'ruedas laminadas' (debería ser 'planos de rueda' o 'pisadas')",
+   "'retardation' traducido como 'desaceleración' (aceptable, pero 'retardo/frenado' sería más preciso)",
+   "'by no means certain' traducido como 'no está nada claro' (matiz de certeza, no de claridad)",
+   "'stepless brake controllers' traducido como 'controladores de freno escalonados' (debería ser 'sin escalones'/'continuos')"
+  ],
+  "fallos": [
+   {
+    "pagina": 16,
+    "fidelidad": 97,
+    "omisiones": [],
+    "invenciones": [
+     "(en rojo) añadido tras 'señal EBZ40 en estado peligroso'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'WSP' sin desarrollar (sistema de protección de ruedas) aunque se mantiene la sigla",
+     "'light and early' traducido como 'ligero y temprano' en lugar de 'suave y anticipado' (convención habitual)"
+    ],
+    "comentario": "Traducción completa y fiel en cifras y contenido; solo añade una glosa '(en rojo)' no presente en el original."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/070108_R252006_Prt.md"
+ },
+ "md-es/UK/2005/070108_R252006_Prt2_30112005.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   6,
+   12,
+   17,
+   21,
+   26
+  ],
+  "fidelidad_media": 93.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Railway Safety Directive' traducido como 'Directiva de Seguridad Ferroviaria' en lugar de la denominación oficial 'Directiva de seguridad ferroviaria' (2004/49/CE), aceptable pero no normalizado",
+   "'railhead swabbing' traducido como 'limpieza del carril' en lugar de 'frotis/hisopado del carril'",
+   "'signaller' traducido como 'teleoperador' en lugar de 'señalizador/operador de señalización'",
+   "'Lewse' errata en la traducción (original: Lewes)",
+   "'signaller' traducido como 'teleoperador de señales' en lugar de 'señalero' (término no normalizado en el contexto ferroviario español)",
+   "'fitter' traducido como 'técnico' en lugar de 'montador/ajustador'"
+  ],
+  "fallos": [
+   {
+    "pagina": 21,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el párrafo 96 se omite la palabra 'over' en 'stopped over 77 points' (se traduce 'sobre más de 70 puntos' en lugar de 'sobre los puntos nº 77')",
+     "No se recoge la distinción entre 'over 77 points' (sobre los puntos 77) y 'more than 90 minutes'"
+    ],
+    "invenciones": [
+     "Se añade '(agujas)' tras 'puntos' en el párrafo 96, no presente en el original",
+     "Se traduce 'signaller' como 'telegrafista', término no equivalente"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'signaller' traducido como 'telegrafista' en lugar de 'señalizador' o 'encargado de señalización'",
+     "'over 77 points' mal resuelto como 'sobre más de 70 puntos' (confusión de cifra y preposición)",
+     "'RGS' traducido como 'sistemas de detección de adherencia', cuando RGS son las Reglas de Gobernanza/Reglamentos de Seguridad (Railway Group Standards), no un sistema de detección"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene un error numérico grave en el párrafo 96 ('más de 70 puntos' por 'puntos nº 77'), una invención ('agujas') y una mala traducción de 'signaller' y de la sigla RGS."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/070108_R252006_Prt2_30112005.md"
+ },
+ "md-es/UK/2005/20060825_R162006_Trafford_26102005.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   8,
+   16,
+   23,
+   29,
+   35
+  ],
+  "fidelidad_media": 97.2,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Railway Safety Directive' traducido como 'Directiva de Seguridad Ferroviaria' (aceptable, aunque se suele normalizar como 'Directiva de seguridad ferroviaria')",
+   "'Rail Accident Investigation Branch' se deja en inglés junto a la traducción, correcto",
+   "'for cause' Drug & Alcohol screening provider traducido como 'proveedor de cribado de Drogas y Alcohol «por causa»' — 'screening' debería normalizarse como 'pruebas de detección' y 'for cause' como 'por causa justificada'",
+   "'running line configuration' traducido como 'configuración de la vía principal' (podría ser 'vía de circulación')",
+   "'possession' traducido como 'posesión' (aceptable en contexto ferroviario, aunque convendría normalizar)",
+   "'cess rail' traducido como 'riel del cese de la vía principal' (traducción literal errónea; debería ser 'riel del andén/carril de servicio' o similar)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/UK/2005/20060825_R162006_Trafford_26102005.md"
+ }
+}

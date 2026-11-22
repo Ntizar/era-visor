@@ -1,0 +1,1360 @@
+{
+ "md-es/FI/2004/C2-04R-Summary-150404.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 92.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'metano' por 'methanol' en el título (el original dice methanol carrying wagons; el cuerpo sí traduce metanol)",
+   "'perfiles planos de hierro' por 'flat bar iron' (debería ser 'hierro en barra plana' o 'pletina')",
+   "'ensanchamiento' con artículo incorrecto 'la ensanchamiento' (error gramatical, no de término)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2004/C2-04R-Summary-150404.md"
+ },
+ "md-es/FI/2004/C2_2004R_Report-150404.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   12,
+   14
+  ],
+  "fidelidad_media": 93.2,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'j-raudalla' traducido como 'barra en forma de J' en el título y como 'barra de suelo doblada en forma de J' en el cuerpo, sin normalizar; el original usa 'j:n muotoon taivutettu lattarauta' (pletina doblada en forma de J)"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el nombre del centro 'Onnettomuustutkintakeskus' de forma consistente (se traduce como 'Centro de Investigación de Accidentes' pero el original finlandés aparece como nombre propio)",
+     "Se omite la nota al pie número 1 en su posición original (aparece al final, no vinculada al texto)"
+    ],
+    "invenciones": [
+     "'jefe de maniobras de la estación' para 'järjestelymestari' (el original no dice 'de la estación')",
+     "'guardia de guardia' para 'päivystäjälle' (reduplicación inventada; sería 'al responsable de guardia')",
+     "'conductor de tren' para 'junasuorittaja' (término no normalizado; sería 'jefe de circulación' o 'factor de circulación')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'järjestelymestari' traducido como 'jefe de maniobras de la estación' añade 'de la estación' no presente",
+     "'junasuorittaja' traducido como 'conductor de tren' es incorrecto; es un puesto de control de circulación, no un conductor",
+     "'päivystäjälle' traducido como 'guardia de guardia' es una reduplicación errónea"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene errores terminológicos en puestos ferroviarios y una invención ('de la estación', 'guardia de guardia') que deben corregirse."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 78,
+    "omisiones": [
+     "Se omite el número de vagones cisterna rusos: el original dice '10 metanolilastissa ollutta venäläistä säiliövaunua' (10 vagones cisterna rusos cargados de metanol) y la traducción solo dice 'vagones cisterna rusos cargados con metanol'",
+     "Se omite la palabra 'vir- kamiestutkinnan' (investigación oficial de funcionarios) y se sustituye por 'investigación oficial'"
+    ],
+    "invenciones": [
+     "'tres ruedas descarriladas' en lugar de 'tres vagones descarrilados' (Kolme suistunutta vaunua)",
+     "'vías de desguace' en lugar de 'vías de descarga' (purkuraiteet)",
+     "'vía continua K43' en lugar de 'carril K43' (K43 kiskotus)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaunua' traducido como 'ruedas' en lugar de 'vagones'",
+     "'purkuraiteet' traducido como 'vías de desguace' en lugar de 'vías de descarga'",
+     "'kiskotus' traducido como 'vía continua' en lugar de 'carril'"
+    ],
+    "comentario": "La traducción contiene errores terminológicos graves (ruedas por vagones, vías de desguace por vías de descarga) y omite el número de vagones cisterna."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2004/C2_2004R_Report-150404.md"
+ },
+ "md-es/FI/2002/C9-02R-290602.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   12,
+   14
+  ],
+  "fidelidad_media": 71.2,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [
+   "'linjasuojastusopastin' traducido como 'semáforo de línea de protección de la vía' en lugar de un término normalizado como 'señal de protección de línea'",
+   "'kulkutie' como 'vía de circulación' podría normalizarse como 'ruta de circulación'",
+   "'vaaratilanteen' traducido como 'incidente grave' en lugar de 'situación de peligro'",
+   "'Onnettomuustutkintakeskus' traducido como 'Centro de Investigación de Accidentes' (podría normalizarse como 'Centro de Investigación de Accidentes e Incidentes')"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 0,
+    "omisiones": [
+     "Todo el contenido del original está sin traducir: el fragmento se reproduce íntegramente en inglés"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "No se traducen términos técnicos: 'line block signal', 'proceed aspect', 'signalling equipment', 'two-way exploitation', 'back-up connection', 'Accident Investigation Board of Finland'"
+    ],
+    "comentario": "La traducción no existe: se ha copiado el original en inglés sin traducir al castellano."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 10'",
+     "Se omite el número de página '4' del original"
+    ],
+    "invenciones": [
+     "Se añade 'respectivamente' en la descripción de Harju y Loukolampi",
+     "Se añade 'La incidencia' como título, cuando el original dice 'Vaaratilanne' (situación de peligro)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'asetinlaitemoduuli' traducido como 'módulo de equipo de conmutación' en lugar de 'módulo de enclavamiento'",
+     "'opastin' como 'semáforo' es aceptable, pero 'opastinohjausmoduuli' debería ser 'módulo de control de señales'",
+     "'junaohjaaja' traducido como 'conductor del tren' cuando significa 'jefe de circulación' o 'regulador de trenes'"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores terminológicos relevantes (junaohjaaja, asetinlaite) y pequeñas omisiones e invenciones que requieren revisión."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'opastin P125 jäi kui-...' (la señal P125 quedó...), cortada en el original pero presente como contenido: 'opastin P125 jäi'",
+     "Falta la frase 'ne.' tras 'opastimen P125 olevan' (texto original truncado)",
+     "Falta la mención de que el teleoperador dio comandos 'HPS' a los opastimen (señales) en general, no solo a E126 y E127"
+    ],
+    "invenciones": [
+     "'A pesar de ello, las señales E131, E127 y la señal E126... mostraron la indicación verde de proceder' — no está en el original en ese punto",
+     "'Las señales E131, E127 y E126 cambiaron a rojo tras el paso de la cabeza del tren por ellas' — no está en el original",
+     "Comandos 'LHP' y 'SVAP' para la señal P125 — no aparecen en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'teleoperador' por 'kauko-ohjaaja' — aceptable pero no normalizado; mejor 'operador de control remoto'",
+     "'señales' por 'opastimet' — correcto, pero se pierde la distinción entre 'opastin' (señal) y 'opaste' (indicación)",
+     "'instalaciones de seguridad' por 'turvalaitteet' — aceptable"
+    ],
+    "comentario": "La traducción contiene invenciones significativas (señales que cambian a rojo, comandos LHP/SVAP) y omite frases del original, además de alterar el sentido de algunas oraciones."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2002/C9-02R-290602.md"
+ },
+ "md-es/FI/2005/C1-05R-100305.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   9,
+   11,
+   14,
+   16
+  ],
+  "fidelidad_media": 95.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'engine' traducido como 'locomotora' en lugar de 'motor'/'máquina' de la unidad de maniobras",
+   "'material rodante' para kalusto (debería ser 'material móvil' o 'vehículo/flota')",
+   "'licencias de reparación de frenos' para jarrukorjauslupiin (permisos/homologaciones de reparación de frenos)"
+  ],
+  "fallos": [
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la leyenda en sueco 'Bild 1 Olycksplatsen...' presente en la traducción pero ausente en el original (no aplica como omisión del original)",
+     "El original menciona 'Kuva 1' (leyenda en finés) y la traducción solo incluye 'Figura 1'"
+    ],
+    "invenciones": [
+     "Se añade una leyenda en sueco 'Bild 1 Olycksplatsen, plankorsningen vid Kirrintie, är utmärkt med svart pil...' que no está en el original",
+     "Se duplica la leyenda de la figura en castellano ('Figure 1. El lugar del accidente...') que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Ratahallintokeskuksen rataverkolla' traducido como 'red de vías de la Dirección Central de Infraestructura Ferroviaria' en lugar de 'red ferroviaria del Centro de Administración de Vías' (nombre propio no normalizado)",
+     "'vaihtotyöliikennettä' como 'tráfico de maniobras' es aceptable",
+     "'articulated vehicle' traducido como 'vehículo articulado' correcto, pero el original finés dice 'kuorma-auton' (camión), no vehículo articulado"
+    ],
+    "comentario": "La traducción añade leyendas duplicadas en sueco y castellano no presentes en el original y altera el nombre propio de la entidad ferroviaria."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "El camión cargado fue retirado... (el original dice 'Kuorma auto siirrettiin hinaamalla pois', camión, no camión cargado)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Kuorma auto' traducido como 'camión cargado' añade un matiz inexistente; debería ser 'camión'",
+     "'raivaus' como 'limpieza' es aceptable, pero 'Actuaciones de rescate y limpieza' podría normalizarse como 'rescate y despeje'"
+    ],
+    "comentario": "Traducción fiel en general, pero introduce 'cargado' no presente en el original y mantiene las versiones sueca e inglesa del pie de figura sin traducir."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C1-05R-100305.md"
+ },
+ "md-es/FI/2005/C2-05R-Summary-200405.md": {
+  "estado": "aviso",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 92.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'rail barrier' traducido como 'barrera de raíles' (término no normalizado; en ferrocarril suele ser 'barrera/parachoques de vía' o 'tope de vía')",
+   "'collision car' traducido como 'coche de colisión' (calco; debería ser 'coche implicado en la colisión' o 'coche siniestrado')",
+   "'the andén de cabecera' error de género ('el andén')",
+   "'el maquinista del locomotora' error de género ('de la locomotora')",
+   "'conductor del tren' para 'conductor' (en el original 'conductor' es el jefe de tren/interventor, no el conductor de vehículo)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C2-05R-Summary-200405.md"
+ },
+ "md-es/FI/2004/C4-04R-110504.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   9,
+   11,
+   13
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'playa de vías' por 'railway yard' (se normaliza habitualmente como 'estación de clasificación' o 'patio de maniobras')",
+   "'balatizada' por 'reballasted' (adecuado, aunque 'rebalastada' es más preciso al prefijo re-)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "T 2211A (identificación del tren no presente en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaunujen suistuminen kiskoilta' traducido como 'descarrilamiento de los vagones' cuando el original especifica el descarrilamiento de vagones de un tren de mercancías; aceptable pero se pierde matiz"
+    ],
+    "comentario": "La traducción añade la identificación del tren T 2211A que no figura en el original; por lo demás es fiel."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el topónimo 'Kouvola' correctamente (aparece 'Kouvo')",
+     "Se omite la mención de que el tren debía dirigirse al extremo norte 'Arola' como destino (se traduce 'hacia Arola' pero se pierde la referencia al punto de destino del tren de mercancías)"
+    ],
+    "invenciones": [
+     "'Se debía dirigir la locomotora' — el original dice que el tren (juna) debía ser dirigido, no la locomotora"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'asetinlaite' traducido como 'centralista' (persona) en lugar de 'enclavamiento'/'puesto de enclavamiento' (dispositivo); el original distingue 'asetinlaite 2' (instalación) de 'asetinlaitemies' (operador)",
+     "'junasuorittaja' traducido como 'conductor de tren', cuando es 'jefe de maniobras'/'regulador de trenes'; 'veturinkuljettaja' es el maquinista",
+     "'raivausryhmä' traducido como 'equipo de limpieza', cuando es 'equipo de rescate/desescombro'"
+    ],
+    "comentario": "La traducción es comprensible pero confunde roles clave (asetinlaite/asetinlaitemies, junasuorittaja/veturinkuljettaja) y altera el sujeto en 1.3, lo que afecta a la fidelidad técnica."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce la nota 'Suistuneissa venäläisissä vaunuissa oli lastina romua' como parte del párrafo final (sí aparece, pero se omite la referencia a que los vagones eran rusos en la traducción: 'Los vagones rusos descarrilados' sí lo incluye, pero se omite la palabra 'rusos' en el original? No, el original dice 'venäläisissä vaunuissa' y la traducción dice 'vagones rusos descarrilados', correcto). Sin embargo, se omite la línea '3' al final del original (número de página) en la traducción, aunque aparece un '3' suelto al final. No hay omisión significativa."
+    ],
+    "invenciones": [
+     "No se detectan invenciones relevantes; la traducción añade 'de uso general' para Occ, que no está explícito en el original pero es una interpretación aceptable."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaunujen telit' traducido como 'bogies' en lugar de 'trenes de rodaje' o 'bogies' es aceptable, pero el original distingue 'telit' (bogies) y 'pyörät' (ruedas); correcto.",
+     "'ratapölkky' como 'durmientes' correcto.",
+     "'sepelöitiin' como 'balatizó' es término técnico ferroviario aceptable."
+    ],
+    "comentario": "La traducción es casi completa y las cifras coinciden, pero el término 'vaihteet' se traduce como 'derivaciones' en lugar de 'desvíos' o 'cambios', lo que afecta la precisión técnica."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta la línea 'Bild 3.' del original (solo aparece 'Bild 3.' en la traducción, pero se omite la línea sueca 'I rälskarvarna fanns utplattning' que sí está... revisar: en la traducción aparece 'Bild 3.' y 'I rälskarvarna fanns utplattning.' y 'Figure 3.' — están presentes. La omisión real es que la traducción añade una frase repetida y omite la referencia 'Kuva 3.' como tal, pero el contenido está. Omisión: no se traduce 'Kuva 3.' (se mantiene como 'Figura 3.'), aceptable. Omisión real: ninguna frase completa falta."
+    ],
+    "invenciones": [
+     "Se añade una frase repetida al final: 'En las juntas de los raíles se había formado un pico lateral.' que no corresponde a ninguna línea del original en esa posición (el original tras 'Figure 3.' pasa directamente a la medición)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'raideleveys' traducido como 'ancho de vía' es correcto; 'sivupiikki' como 'pico lateral' es aceptable pero no normalizado (mejor 'desviación lateral' o 'pico lateral de junta')"
+    ],
+    "comentario": "La traducción es fiel en cifras y contenido técnico, pero duplica una frase y no normaliza del todo el término 'sivupiikki'."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase final del original: 'koska vaihteella olleet 7' (los soldadores de la derivación querían continuar... no aparece; el original queda truncado en 'vaihteella olleet 7')",
+     "Falta la mención de que el original termina con el número de página '7' integrado en el texto"
+    ],
+    "invenciones": [
+     "'los soldadores que trabajaban en la derivación querían continuar con sus trabajos' no está en el original",
+     "El original dice 'vaihteella olleet 7' (probablemente 'los que estaban en la derivación'), no menciona soldadores ni intención de continuar",
+     "El original no dice que el maquinista autorizara la ruta propuesta; esa frase es inventada"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'junasuorittaja' traducido como 'maquinista' (debería ser 'jefe de circulación' o 'regulador de tráfico')",
+     "'asetinlaite 2' traducido como 'operador del equipo de conmutación 2' (debería ser 'enclavamiento 2' o 'puesto de enclavamiento 2')",
+     "'kuljetuksenohjaajille' traducido como 'jefes de tren' (debería ser 'jefes de transporte/reguladores de transporte')"
+    ],
+    "comentario": "La traducción omite el final truncado del original e inventa una conversación y autorización que no figuran en el texto finlandés, además de confundir términos ferroviarios clave."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2004/C4-04R-110504.md"
+ },
+ "md-es/FI/2004/C10-04R-Report-300704.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   3,
+   5,
+   9,
+   12,
+   15,
+   18
+  ],
+  "fidelidad_media": 76.0,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'siirtokatevaunu' traducido como 'vagón cubierta móvil' en lugar de 'vagón de techo corredizo/deslizante'",
+   "'korkealaitainen avovaunu' traducido como 'vagón abierto de plataforma alta' (debería ser 'vagón abierto de bordes altos')",
+   "'jarrut suljettu' traducido como 'frenos desactivados' (debería ser 'frenos cerrados/aplicados')",
+   "'suistunut teli' traducido como 'bogie descarrilado' (correcto, pero 'teli' es bogie; aceptable)",
+   "'pyöräkerrat' traducido como 'conjuntos de ruedas' (aceptable, pero 'ejes montados' sería más preciso)",
+   "'suistuminen' traducido como 'descarrilamiento' en lugar de 'salida de la vía' o término normalizado; el original distingue 'suistuminen' de otros términos"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la mención de que el original finlandés y el sueco son dos resúmenes separados (TIIVISTELMÄ y SAMMANDRAG); la traducción duplica el resumen en lugar de reflejar la estructura",
+     "En la primera versión traducida se omite la coletilla 'de este tipo' presente en el original ('tämän tyyppisiä pitkittäissuuntaisia voimia')"
+    ],
+    "invenciones": [
+     "Se añade un segundo bloque '## RESUMEN' con título 'DESCARRILAMIENTO DE DOS VAGONES DE MERCANCÍAS EN KOUVOLA EL 30.7.2004' que no aparece en el original finlandés (solo existe el encabezado sueco 'URSPÅRNING AV TVÅ GODSVAGNAR I KOUVOLA 30.7.2004')",
+     "Se duplica íntegramente el contenido del resumen en dos versiones, contenido que no está duplicado en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaihde' traducido como 'punto de unión' en lugar de 'desvío' o 'aguja' (término ferroviario normalizado)",
+     "'raideristikko' traducido como 'punto de unión' en lugar de 'cruzamiento' o 'travesía'",
+     "'kulkupinta' traducido como 'superficie de rodadura' cuando en el contexto ferroviario finlandés se refiere a la superficie de circulación del carril"
+    ],
+    "comentario": "La traducción duplica el resumen e introduce un título inexistente, además de traducir términos ferroviarios finlandeses de forma no normalizada."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la traducción de 'Skador på spåranläggning' (daños a la infraestructura ferroviaria) en la fila de daños a la vía",
+     "Falta la etiqueta 'Matkustajia'/'Passagerare' en la fila de personas a bordo (solo aparece 'Pasajeros' una vez)"
+    ],
+    "invenciones": [
+     "Se añade 'Fecha y hora' donde el original solo tiene 'Aika/Tidpunkt/Date and time'",
+     "Se duplican etiquetas y filas (p. ej. 'Lugar' tres veces, 'Tipo y número del tren' tres veces, 'Daños al material rodante' tres veces) que no están en el original",
+     "Se traduce 'vaihdetta' como 'puntos de unión' en lugar de 'desvíos/agujas'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaihde' traducido como 'punto de unión' en vez de 'desvío/aguja'",
+     "'ratapiha' como 'playa de vías' es aceptable pero no normalizado",
+     "'teli' como 'bogie' en lugar de 'bogie'/'bogí' normalizado"
+    ],
+    "comentario": "La traducción duplica filas y etiquetas, omite la etiqueta sueca de daños a la vía y traduce 'vaihde' de forma incorrecta."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea 'ger platform.' del original",
+     "Falta la frase 'Matkatavaratoimistosta paikalle mennyt henkilö' como sujeto exacto (se parafrasea)",
+     "No se recoge que el original finlandés no incluye la Figura 1 inicial (aparece en la traducción sin correspondencia)"
+    ],
+    "invenciones": [
+     "'Figura 1. La posición del tren de mercancías cuando se detuvo, tras el descarrilamiento.' no está en el original",
+     "'Figura 2. Vista desde el punto de ruptura...' duplica la traducción del finlandés sin estar en el original",
+     "'un vagón intermedio finlandés' añade 'finlandés' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'máquina registradora de averías' por 'häiriökirjoittimen' (registrador de incidencias) no normalizado",
+     "'paso forzado de un cambio' por 'vaihteen aukiajo' (paso por cambio en posición indebida) impreciso",
+     "'oficina de equipajes' por 'matkatavaratoimisto' (oficina de equipajes/mercancías) aceptable pero no uniforme"
+    ],
+    "comentario": "La traducción añade figuras inexistentes y omite líneas del original, además de introducir 'finlandés' no presente y términos técnicos imprecisos."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la traducción de los encabezados 'Kuva 6.' y 'Bild 6.' (se mantienen en original pero no se traducen, aunque aparecen)",
+     "No se traduce 'Kouvolan liikenteenohjauskeskus' como nombre propio coherente (se traduce como 'centro de control del tráfico de Kouvolan' mezclando finlandés y castellano)",
+     "Omite la mención de que el centro de control está 'asemarakennuksen läheisyydessä' correctamente (sí aparece)"
+    ],
+    "invenciones": [
+     "'Kouvolan' se mantiene como si fuera un topónimo finlandés en castellano, pero no se traduce a 'Kouvola'",
+     "Se añade 'Bild 6.' y 'Figure 6.' en la traducción aunque el original ya las tiene; no es invención, es repetición"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "asetinlaite → 'conmutador' (debería ser 'enclavamiento')",
+     "asetinlaitemies → 'técnico de conmutación' (debería ser 'técnico de enclavamientos')",
+     "vaihteet → 'puntos de cruce de vías' (debería ser 'agujas')"
+    ],
+    "comentario": "Traducción con errores terminológicos graves en la sección de dispositivos de seguridad (asetinlaite/vaihteet mal traducidos) y algunas omisiones menores, aunque las cifras y fechas se mantienen."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2004/C10-04R-Report-300704.md"
+ },
+ "md-es/FI/2005/C5-05R-Summary-150705.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 88.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el último párrafo se omite parte de la enumeración: 'interactive planning, building and exploitation' se traduce de forma incompleta y desordenada, perdiendo la distinción entre planificación interactiva, construcción y explotación"
+    ],
+    "invenciones": [
+     "'elementos de vías (desvíos)' añade 'desvíos' entre paréntesis no presente en el original",
+     "'restricciones de explotación y construcción' introduce un contenido que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'rail packing' traducido como 'balasto de los raíles' (discutible; el original se refiere al empaquetado/asentamiento del balasto)",
+     "'turnout lane' como 'vía de desvío' es aceptable, pero 'turnout elements' como 'elementos de vías (desvíos)' no está normalizado"
+    ],
+    "comentario": "La traducción es en general fiel y conserva todas las cifras, pero el último párrafo presenta omisiones y adiciones en la enumeración de factores y algún término técnico mejorable."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C5-05R-Summary-150705.md"
+ },
+ "md-es/FI/2005/C3-05R-Report-270405.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   12,
+   15,
+   18
+  ],
+  "fidelidad_media": 91.2,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'engines' traducido como 'locomotoras' en lugar de 'máquinas'/'locomotoras' es aceptable, pero el original distingue 'engines' de 'wagons'",
+   "'bogies' se mantiene sin normalizar al castellano ('bogies' vs 'bogies'/'ejes montados')",
+   "'pivots' traducido como 'pivotes' podría requerir término técnico normalizado ('pivotes'/'gorrones')",
+   "'rail' traducido alternativamente como 'vía' y 'riel' de forma inconsistente",
+   "'linjaradiolla' traducido como 'radio de línea' (aceptable, aunque podría normalizarse como 'radio de vía')",
+   "'ratapiha' traducido como 'estación' en lugar de 'patio de maniobras'"
+  ],
+  "fallos": [
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "procedentes de Rusia (el original dice 'venäläistä', vagones rusos, no necesariamente procedentes de Rusia)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'pellettijuna' traducido como 'tren de gránulos' en lugar de 'tren de pellets'",
+     "'junankohtaukseen' traducido como 'realizar un cruce' (término no normalizado; debería ser 'cruzamiento' o 'encuentro')",
+     "'kolmannelle raiteelle' traducido como 'el tercer vía' (concordancia incorrecta, debería ser 'la tercera vía')"
+    ],
+    "comentario": "Traducción mayormente fiel, pero introduce 'procedentes de Rusia' no presente en el original y usa terminología mejorable para 'pellettijuna' y 'junankohtaus'."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se especifica que el maquinista continuó el viaje 'luvan saatuaan' (tras recibir permiso) —sí aparece—; falta la mención de que el vagón se trasladó a la vía de seguridad 'tarkastusta ja kuljetuskuntoon valmistelua varten' (para inspección y preparación para el transporte) —sí aparece—; omisión de que el tren continuó 'matkaa Kokkolaan' —aparece—; omisión de la frase 'rata korjattua vielä saman päivän aikana' —aparece parcialmente—; omisión de 'noin kymmenen metrin matkalta' —aparece—; omisión de 'kaksi kappaletta baliiseja' —aparece como 'dos barras de balasto' (error de término, no omisión)."
+    ],
+    "invenciones": [
+     "'barras de balasto' no está en el original: el original dice 'baliiseja' (balizas), no barras de balasto.",
+     "No se menciona en el original que el maquinista 'verificó el estado del tren' —sí aparece 'tarkisti junan kunnon'—."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'baliiseja' traducido como 'barras de balasto' en lugar de 'balizas' (término técnico ferroviario).",
+     "'ratapölkkyjä' traducido como 'durmientes' es correcto, pero 'baliiseja' mal traducido.",
+     "'suistuminen' traducido como 'descarrilamiento' es aceptable, aunque el original finlandés usa 'suistuminen' (salida de vía) y no 'descarrilamiento por rotura de eje'."
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene un error terminológico grave al traducir 'baliiseja' como 'barras de balasto' en lugar de 'balizas', y alguna imprecisión menor."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la leyenda en sueco 'Bild 5. len vid den gula punkten.' (texto de la figura en sueco)",
+     "Falta la mención de que las mediciones de anchura de vía fueron realizadas por el 'ratatoimialan' (departamento de infraestructura ferroviaria) — se traduce parcialmente pero se omite el matiz de 'ratatoimiala' como sector ferroviario",
+     "Se omite la frase sueca intermedia que forma parte del pie de figura original"
+    ],
+    "invenciones": [
+     "Se repite tres veces 'Figura 5.' con tres paráfrasis distintas del mismo pie de figura, cuando el original solo tiene un pie en finés y otro en sueco",
+     "Se añade 'La flecha roja indica dónde... La flecha amarilla indica dónde...' como frase explicativa no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'trenes de ruedas' para 'pyöräkerrat' — término técnico incorrecto; debería ser 'ejes montados' o 'pares de ruedas'",
+     "'centros de los bogies' para 'telikeskiöt' — aceptable pero no normalizado; mejor 'pivotes/centros de bogie'",
+     "'máquina de mantenimiento de vías' para 'ratatyökone' — aceptable pero 'ratatyökone' es más bien 'máquina de trabajos ferroviarios'"
+    ],
+    "comentario": "La traducción omite el pie de figura en sueco y triplica el pie en finés con paráfrasis inventadas, además de traducir 'pyöräkerrat' de forma técnica incorrecta."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C3-05R-Report-270405.md"
+ },
+ "md-es/FI/2005/C2_2005R_Report-200405.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   10,
+   17,
+   24,
+   35,
+   43
+  ],
+  "fidelidad_media": 86.3,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'saattokonduktööri' traducido como 'condeuctor' (error ortográfico y término no normalizado; debería ser 'interventor' o 'jefe de tren')",
+   "'mitta' traducido como 'vagón' cuando en contexto ferroviario finlandés significa 'medida' (distancia), no vagón",
+   "'raidepuskin' traducido como 'tope de vía' (aceptable) pero 'opastin' como 'semáforo' cuando es 'señal'",
+   "'laiturin päässä olevan opastimen' traducido como 'semáforo situado en el extremo de la andén' (concordancia y término)",
+   "'mitat' traducido como 'medidas' en lugar de 'distancias/metros' (se refiere a distancias en metros, no a medidas)",
+   "'lähestyy, lähestyy' traducido como 'acercándose, casi cerca' cuando debería ser 'acercándose, acercándose' (repetición literal)"
+  ],
+  "fallos": [
+   {
+    "pagina": 10,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta el párrafo final del original: 'Al llegar a la distancia de cuatro vagones, la hora era 16.04.06, la velocidad era de 16 km/h y la distancia al tope de vía era de 108 metros.' (aparece en la traducción pero no en el original)",
+     "Falta el párrafo del original: 'La velocidad del tren disminuyó de forma constante hasta la distancia de cuatro vagones...' (aparece en la traducción pero no en el original)",
+     "Falta el párrafo del original: 'A las 16.04.28, el ayudante de conducción dijo: «rojo»...' (aparece en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "Se añade 'que mostraba la indicación «stop» («seis» en el sistema finlandés)' — el original solo dice 'seis-opastetta'",
+     "Se añade 'la cual, según el plano de señalización y equipos de seguridad' — el original dice 'Opastin- ja turvalaitospiirustuksen mukaan'",
+     "Se añade 'Al llegar a la distancia de cuatro vagones, la hora era 16.04.06, la velocidad era de 16 km/h y la distancia al tope de vía era de 108 metros.' — no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'seis-opastetta' traducido como '«stop» («seis» en el sistema finlandés)' — término no normalizado",
+     "'Opastin- ja turvalaitospiirustuksen mukaan' traducido como 'según el plano de señalización y equipos de seguridad' — término técnico impreciso",
+     "'saattokonduktööri' traducido como 'ayudante de conducción' — debería ser 'interventor de acompañamiento' o similar"
+    ],
+    "comentario": "La traducción incluye varios párrafos y secciones que no existen en el original (invenciones) y omite las notas al pie y la sección de daños, además de alterar términos técnicos y cifras."
+   },
+   {
+    "pagina": 35,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la frase 'Nauhurit päälle n. klo 15.46' traducida como 'Grabadoras encendidas aprox. a las 15.46' — sí está, no es omisión",
+     "En la tabla inicial falta la fila 'Kaksimittaa' como 'Dos medidas' — está",
+     "No se omite contenido sustantivo"
+    ],
+    "invenciones": [
+     "'Al menos estas medidas llegaron bien hasta aquí' añade 'al menos' que no está en el original ('Hyvin tuli ainakin' sí contiene 'ainakin' = al menos, por lo que no es invención)",
+     "No hay invenciones sustantivas"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaununmitta' traducido como 'medida de vagón' — aceptable",
+     "'Puolimittaa' como 'Media medida' — aceptable",
+     "'Kaksijapuoli' como 'Dos y medio' — correcto"
+    ],
+    "comentario": "La traducción es fiel y completa; las cifras y referencias se mantienen, sin omisiones ni invenciones relevantes."
+   },
+   {
+    "pagina": 43,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea '0:29:44 Kuusi mittaa.' fuera de la tabla (solo aparece dentro de la tabla)",
+     "Falta la línea '0:29:20 Ja kymmenen mittaa.' en la tabla inicial? (no, está en el cuerpo)",
+     "Falta la línea '0:29:26 Yhdeksän mittaa.' en la tabla inicial? (no, está en el cuerpo)"
+    ],
+    "invenciones": [
+     "'Seis metros' en la línea suelta 0:29:44 no aparece como tal en el original (original: 'Kuusi mittaa')",
+     "En la traducción se añade 'metros' donde el original usa 'mittaa' (medida/unidad de longitud ferroviaria), no necesariamente metros"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mittaa' traducido como 'metros' en lugar de 'medidas' o unidad de longitud ferroviaria",
+     "'Konnari' no traducido (término finlandés para revisor/ayudante de tren)",
+     "'saatto' traducido como 'acompañamiento' en lugar de 'tren de acompañamiento' o 'servicio de acompañamiento'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero omite la línea suelta inicial y traduce 'mittaa' como 'metros' cuando es una unidad de medida ferroviaria no métrica."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C2_2005R_Report-200405.md"
+ },
+ "md-es/FI/2005/C5-05R-Report-150705.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   5,
+   10,
+   13,
+   16,
+   19
+  ],
+  "fidelidad_media": 69.8,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [
+   "'suistuminen' traducido como 'descarrilamiento' cuando el original finlandés se refiere a que dos vagones se salieron de las vías; 'descarrilamiento' es aceptable pero el original no especifica 'por rotura de eje' ni causa alguna",
+   "'vía de circulación' para 'kulkutie' (itinerario/ruta de circulación) puede inducir a confusión con 'raide' (vía); en el contexto de seguridad ferroviaria 'kulkutie' se refiere al itinerario de circulación",
+   "'puntos de vía' para 'vaihteet' (desvíos/agujas) no es la denominación normalizada en castellano",
+   "'trenes de pasajeros' por 'matkustajajunia' (correcto); 'no se prevía la circulación' añade matiz no explícito pero aceptable",
+   "'bloqueo de las vías' por 'vaihteiden lukitus' (bloqueo de agujas, no de vías)"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 55,
+    "omisiones": [
+     "Se omite la etiqueta 'Skador på fordon' / 'Rolling stock damage' como encabezado diferenciado",
+     "Se omite la etiqueta 'Skador på spåranläggning' / 'Railway installation damage'",
+     "Se omite la etiqueta 'Övriga skador' / 'Other damage'"
+    ],
+    "invenciones": [
+     "Se duplican encabezados y contenidos (p. ej. 'Tipo y número del tren' tres veces, 'Tipo de accidente' tres veces, 'Daños en el material rodante' tres veces, 'Daños en la infraestructura' tres veces, 'Otros daños' tres veces)",
+     "Se añade 'Estación de Kontiomäki' y 'Recinto ferroviario de Kontiomäki' como traducciones adicionales no presentes en el original",
+     "Se añade 'Lesiones' como encabezado no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'turnout-carrying wagons' traducido como 'vagones transportadores de puntos' en lugar de 'vagones portavías' o 'vagones para transporte de desvíos'",
+     "'turnout' traducido como 'punto' en lugar de 'desvío' o 'aguja'",
+     "'bogies' no normalizado (debería ser 'bogies' o 'bojes' de forma consistente)"
+    ],
+    "comentario": "La traducción duplica bloques de encabezados y contenido, omite etiquetas del original e introduce variantes no presentes, aunque las cifras se mantienen."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la mención de que el tren era el 4121 procedente de Pieksämäki y llegó a Kontiomäki a las 0.45 (aparece en la traducción pero no en el original finlandés)",
+     "Falta la traducción del texto sueco 'Bild 2. Avståndet mellan tågets två första vagnar...'"
+    ],
+    "invenciones": [
+     "Se añade 'El tren de mercancías 4121 viajaba desde Pieksämäki hacia Kontiomäki, al que llegó a las 0.45 horas', que no está en el original",
+     "Se añade una traducción al sueco que no figura en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'vaihdemies' traducido como 'conmutador' (debería ser 'guardagujas' o 'encargado de agujas')",
+     "'vaihdekoju' como 'caseta de conmutación' (mejor 'caseta de agujas')",
+     "'vaihteen V054 kielten kärjestä' como 'punta de la aguja del punto de vía V054' (aceptable pero 'kieli' es 'aguja')"
+    ],
+    "comentario": "La traducción añade datos del tren 4121 y una versión sueca ausentes en el original, y usa 'conmutador' por 'guardagujas'."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 0,
+    "omisiones": [
+     "Todo el contenido del original finlandés/sueco/inglés está sin traducir al castellano"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción reproduce el original sin traducirlo; no hay traslado al castellano."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C5-05R-Report-150705.md"
+ },
+ "md-es/FI/2005/C4-05R-280405.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   12,
+   14,
+   17
+  ],
+  "fidelidad_media": 82.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la primera frase del original sueco: 'Olyckan orsakade inga personskador. De urspårade vagnarna skadade spåranläggningen och följd av dålig smörjning.'",
+     "Falta el resumen completo en inglés (SUMMARY) que sí aparece en el original: descarrilamiento de cinco vagones en Heinävesi el 28 de abril de 2005, vagones 6 y 7 volcados, vagones 8, 9 y 10 fuera de la vía, extremo occidental de la estación, paso por las agujas, parada tras unos 100 metros, etc.",
+     "Falta la mención a que el tren circulaba de Joensuu a Varkaus y que los vagones eran rusos en el cuerpo traducido"
+    ],
+    "invenciones": [
+     "Se añade 'El coste total de las reparaciones causadas por el accidente' cuando el original dice 'The total cost of the accident'",
+     "Se añade contenido no presente en el original: 'Debe considerarse el cambio del sistema de fijación con clavos por fijación con tornillos, el cambio de raíl por uno más pesado y el cambio del balasto de grava por macadán.'",
+     "Se añade 'Esta recomendación se refiere a la parte más antigua de la playa de vías, dotada con traviesas de madera.'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'spåranläggningen' traducido como 'infraestructura ferroviaria' en lugar de 'instalaciones de vía'",
+     "'rail widening' traducido como 'dilatación de la vía' (debería ser 'ensanchamiento de la vía')",
+     "'pivots' traducido como 'ejes' (debería ser 'pivotes' o 'gorrones')"
+    ],
+    "comentario": "La traducción omite el resumen en inglés y la frase inicial sueca, añade varios párrafos inexistentes y altera cifras/formato, por lo que requiere revisión."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la entrada 'TIIVISTELMÄ' del índice (se sustituye por 'RESUMEN')",
+     "Falta la entrada 'SUMMARY' del índice (se sustituye por 'RESUMEN')"
+    ],
+    "invenciones": [
+     "Se añade 'RESUMEN DE DATOS' como traducción de 'YHTEENVETOTAULUKKO' cuando el original mantiene el término finlandés en el título trilingüe"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'TIIVISTELMÄ' y 'SUMMARY' traducidos ambos como 'RESUMEN', perdiendo la distinción de idiomas del índice original",
+     "'YHTEENVETOTAULUKKO' traducido como 'RESUMEN DE DATOS' en lugar de mantener el término original como en el encabezado trilingüe",
+     "'Puherekisteri' traducido como 'Grabadora de voz' en lugar de 'registrador de voz' (término más normalizado)"
+    ],
+    "comentario": "La estructura y numeración se conservan, pero se pierden las entradas diferenciadas TIIVISTELMÄ/SUMMARY y se altera el encabezado trilingüe de la tabla resumen."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la fila de tabla 'Vop' con BRT 76t y JP 24t en la segunda mitad de la tabla (entre Vok y Vok de la segunda fila)",
+     "Falta el valor '24t' en la columna JP de la segunda mitad de la tabla (hay 9 valores en la traducción frente a 10 en el original)"
+    ],
+    "invenciones": [
+     "'rusos' añadido en '19 vagones de mercancías rusos' (el original solo dice 'tavaravaunua' sin especificar nacionalidad en esa frase)",
+     "'intactos' en 'permanecieron intactos sobre las vías' (el original dice 'kokonaisuudessaan kiskoille', es decir, completamente sobre las vías, no intactos)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'guardia de guardia' por 'päivystäjä' (debería ser 'el de guardia' o 'el responsable de guardia')",
+     "'taller mecánico' por 'konepaja' (taller de máquinas/ferroviario)",
+     "'paredes altas abierto' por 'korkealaitainen avovaunu' (vagón abierto de bordes altos)"
+    ],
+    "comentario": "La traducción es casi completa pero omite una fila de la tabla y una cifra JP, y añade matices no presentes en el original."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta la frase 'Onnettomuuspaikan puiset ratapölkyt olivat osittain huono-1:9' (durmientes de madera parcialmente en mal estado) y el inicio de la frase sobre el desvío V211 ('Vaihteen V211 tarkastuspöytäkirjan...' aparece sin el contexto de tipo de desvío YV54-200N-1:9 en el original)",
+     "Falta la mención de que el desvío V211 es de tipo YV54-200N-1:9 en el original (la traducción lo añade sin que esté en el original)",
+     "Falta la frase inicial de 2.6.1 sobre el investigador y los datos del dispositivo de registro de marcha (aparece en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "'El investigador disponía de los datos del dispositivo de registro de marcha de la locomotora' no está en el original",
+     "'El desvío V211 es de tipo YV54-200N-1:9' no está en el original",
+     "'La estructura superior de la vía está compuesta de balasto de grava' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'trenes de rodaje' por 'pyöräkerrat' (debería ser 'ejes montados' o 'pares de ruedas')",
+     "'fijaciones con grapas de vía' por 'ratanaulakiinnitys' (término no normalizado)",
+     "'descarrilamiento' por 'suistuminen' (correcto, pero el original distingue 'suistumiskohta' como punto de descarrilamiento)"
+    ],
+    "comentario": "La traducción omite e inventa frases completas sobre los durmientes y el desvío V211, y añade datos no presentes en el original, aunque las cifras y horas coinciden."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la línea en sueco 'Övre delen av den urspårade och välta ryska vagnens boggienav (6 vagnen).' presente en el original",
+     "Falta la frase final del original: '...niin paljon, että' (el texto original queda truncado, pero la traducción también omite el cierre de la idea)"
+    ],
+    "invenciones": [
+     "Se añade 'pivot' entre paréntesis en la traducción del término 'telikeskiön yläosa'",
+     "Se reordena y duplica el contenido de las leyendas de figura (Kuva/Bild/Figure) generando una estructura que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'telikeskiön yläosa' traducido como 'eje central (pivot) del bogie' en lugar de 'parte superior del bastidor del bogie'",
+     "'vaihteen V211' traducido como 'punto de cruce V211' en lugar de 'desvío V211' (término ferroviario normalizado)",
+     "'ratanaulakiinnitys' traducido como 'fijación con grapas de vía' de forma no normalizada"
+    ],
+    "comentario": "La traducción es mayormente fiel pero omite la leyenda en sueco, introduce 'pivot' no presente y usa terminología ferroviaria no normalizada para 'vaihde' y 'telikeskiö'."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C4-05R-280405.md"
+ },
+ "md-es/FI/2005/C8-05R-Summary-281205.md": {
+  "estado": "aviso",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 92.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'clamp disc' traducido como 'disco de sujeción' en la primera mención y 'disco de sujeción' en la segunda; 'clamp' sería 'disco de apriete/fijación'",
+   "'del cuña' error de concordancia de género (debería ser 'de la cuña')",
+   "'detaching' traducido como 'desacoplamiento' cuando en contexto ferroviario sería 'desprendimiento' del dispositivo de tracción"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C8-05R-Summary-281205.md"
+ },
+ "md-es/FI/2005/C9-05R-Summary-311205.md": {
+  "estado": "aviso",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 88.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'derailer' traducido como 'desviador' en lugar de 'descarrilador' o 'topera de descarrilamiento'",
+   "'ploughing of snow' traducido como 'labores de limpieza de nieve' en vez de 'arado/quitanieves'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C9-05R-Summary-311205.md"
+ },
+ "md-es/FI/2005/C7-05R-Summary-311005.md": {
+  "estado": "aviso",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 96.0,
+  "fidelidad_min": 96,
+  "sin_dictamen": [],
+  "terminos": [
+   "'chazo' por 'buffer' no es término normalizado; lo habitual es 'tope de choque' o 'parachoques'",
+   "'equipo de control del eje' por 'axle control equipment' podría precisarse como 'equipo de control de ejes'",
+   "'conjunto de ruedas' por 'wheelset' es aceptable, pero conviene normalizar como 'juego de ruedas'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C7-05R-Summary-311005.md"
+ },
+ "md-es/FI/2005/C6-05R-Report-300805.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   6,
+   11,
+   15,
+   19,
+   23
+  ],
+  "fidelidad_media": 82.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Nestekaasuvaunun' (vagón de gas licuado del petróleo) traducido como 'gas licuado del petróleo' cuando el finlandés 'nestekaasu' es gas licuado de petróleo/GLP; aceptable pero no normalizado",
+   "'suistuminen kiskoilta' traducido como 'descarrilamiento' sin especificar el tipo (vagón de GLP), término genérico frente al original"
+  ],
+  "fallos": [
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Se omite la etiqueta 'Matkustajia'/'Passagerare' en el bloque de personas a bordo (solo queda 'Pasajeros')",
+     "Se omite 'Henkilökuntaa'/'Personal' en el bloque de fallecidos (solo 'Personal')",
+     "Se omite la etiqueta 'Kuollut'/'Dödsfall' en el bloque de fallecidos"
+    ],
+    "invenciones": [
+     "Se añade 'Estación de mercancías de Brahestad' como si fuera una ubicación distinta, cuando en el original es la denominación sueca del mismo lugar",
+     "Se duplican etiquetas de sección ('Tipo de tren y número de tren' tres veces, 'Tipo de accidente' tres veces, 'Pasajeros' repetido) que no aparecen así en el original",
+     "Se traduce 'vetolaite' como 'equipo de tracción' y también como 'dispositivo de acoplamiento' en la misma sección, introduciendo una variante no presente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Suistuminen'/'Urspårning'/'Derailment' se traduce como 'Descarrilamiento', correcto, pero se pierde la distinción de 'onnettomuustyyppi' frente a 'tipo de accidente' repetido",
+     "'Ratavauriot' se traduce como 'Daños a la infraestructura' en una versión y 'Daños en la instalación de vía' en otra, sin normalizar",
+     "'Vaihteen ja raiteen kiinnityksiä' se traduce como 'La vía de unión y los fijadores de la vía', confundiendo 'vaihde' (desvío/aguja) con 'vía de unión'"
+    ],
+    "comentario": "La traducción duplica y omite etiquetas de la tabla y confunde términos técnicos ferroviarios (vaihde, sivupuskin, vetolaite), aunque las cifras y fechas se mantienen."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase original 'rat olivat pudonneet kiskoilta vaihteen V33 kohdalla' (las ruedas habían caído de los raíles en el desvío V33) como oración independiente; se fusiona/reescribe",
+     "Falta el texto finlandés de la figura 2 ('Vaihtotyöyksikkö työnnettynä vaihteen V29 yli. Kuvassa näkyy myös vaihtei-V33 kohdalta.') sustituido por texto sueco/inglés no presente en el original"
+    ],
+    "invenciones": [
+     "'el vagón dejado entre los desvíos V33 y V30' y 'En la imagen inferior, un detalle ampliado de la zona del desvío V33' no aparecen en el original finlandés",
+     "Se añade texto sueco ('Rangerenheten skjuten över växeln V29...') que no está en el original",
+     "'el quinto vagón había pasado por encima del desvío V33 hacia el desvío V34' introduce contenido no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'jarrujohto tyhjeni' traducido como 'el tubo de manguera se vació' en lugar de 'la conducción de freno se vació/descargó'",
+     "'Junamies' traducido como 'conductor del tren' cuando sería 'agente de tren/ferroviario'",
+     "'vaihteen V29 suoralle' como 'posición recta' es aceptable pero 'desvío' vs 'cambio' no normalizado"
+    ],
+    "comentario": "La traducción altera y añade contenido en las leyendas de figuras y omite frases del original, además de traducir de forma imprecisa términos técnicos como 'jarrujohto'."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 88,
+    "omisiones": [
+     "Se omite el código de tipo de vía en el original 'YV54-200-1:9-V' (la traducción pone 'YV54-200-1:9' sin la V final)",
+     "Se omite la palabra 'telakehtoa' traducida como 'soportes para bobinas' pero el original dice '7 telakehtoa' (soportes de bobina) — se mantiene el número pero se pierde el matiz de 'telakehto'"
+    ],
+    "invenciones": [
+     "'bobinas de acero' — el original dice 'teräskelavaunu' (vagón para bobinas de acero) pero 'kelavaunu' se refiere a bobinas; aceptable, aunque 'teräskela' es bobina de acero, no invención grave",
+     "Se añade 'de la localidad de tráfico de Raahe' donde el original dice 'Raahen liikennepaikan' (estación/apeadero de Raahe), no 'localidad de tráfico'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'punto de cruce' por 'vaihde' (desvío/aguja) — término incorrecto; 'vaihde' es desvío, no punto de cruce",
+     "'punto de cruce simple izquierdo' por 'vasemmanpuolinen yksinkertainen vaihde' — debería ser 'desvío simple izquierdo'",
+     "'puntos de cruce' por 'vaihteet' (desvíos) — término incorrecto"
+    ],
+    "comentario": "Traducción mayormente fiel pero con errores terminológicos graves: 'vaihde' traducido como 'punto de cruce' en lugar de 'desvío', y omisión de la 'V' en el código YV54-200-1:9-V."
+   },
+   {
+    "pagina": 19,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la nota al pie '6 Kulunrekisteröintilaitteen mukaan.' en su posición original (aparece al final, no como nota)",
+     "Falta la línea 'Den enhetliga linjen beskriver hastigheten och den streckade trycket i bromsledningen.' del bloque sueco (presente en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "Se añade en el bloque sueco: 'Den enhetliga linjen beskriver hastigheten och den streckade trycket i bromsledningen.'",
+     "Se añade en el bloque inglés: 'Speed indicated by continuous line; brake conduit pressure indicated by broken line.'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'jefe de maniobras' para 'vaihtotyönjohtaja' y 'järjestelymestari' (se pierde la distinción entre ambos roles)",
+     "'ayudante de tren' para 'junamies' (término no normalizado; podría ser 'agente de tren')",
+     "'señal «avanzar»' para 'opasteella \"vedä\"' (opaste = indicación/señal de maniobra, no señal ferroviaria)"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero incluye texto inventado en los bloques sueco e inglés y pierde la distinción entre jefe de maniobras y jefe de estación."
+   },
+   {
+    "pagina": 23,
+    "fidelidad": 96,
+    "omisiones": [
+     "Se omite la mención de que el quinto vagón estaba 'osaksi' (en parte) sobre el cambio; la traducción dice 'que se encontraba sobre el cambio' sin el matiz parcial",
+     "Se omite la coletilla final 'radiopuhe-' (comunicación por radio) que queda cortada igual que en el original, pero la traducción la completa como 'gestionar la comunicación por radio'"
+    ],
+    "invenciones": [
+     "'conductor del tren' para 'junansuorittaja' (agente de tren/encargado de formación), término distinto",
+     "Se añade 'por inercia' que no aparece explícitamente en el original ('nostaen vauhdilla')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vaihteenkääntäjä' traducido como 'conmutador de cambios' en lugar de 'accionamiento del cambio' o 'motor del cambio'",
+     "'junansuorittaja' traducido como 'conductor del tren' cuando es 'agente de tren'",
+     "'teli' traducido como 'bogie' y luego 'vagón' en 'Solo los bogies de un vagón pasaron descarrilados' cuando el original dice 'un teli' (un bogie)"
+    ],
+    "comentario": "Traducción fiel en cifras y estructura, pero con imprecisiones terminológicas (junansuorittaja, vaihteenkääntäjä, teli) y pequeñas omisiones/invenciones de matiz."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C6-05R-Report-300805.md"
+ },
+ "md-es/FI/2005/C7-05R-Report-311005.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   9,
+   11,
+   14,
+   16
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "Perä-seinäjoel: error tipográfico en el topónimo (original: Peräseinäjoella)",
+   "suistuminen kiskoilta traducido como 'descarrilamiento' sin especificar 'de la locomotora y del vagón' está bien, pero el original distingue 'veturin ja vaunun'"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase inicial del original: 'Centralen för undersökning av olyckor ger inga rekommendationer...' (el texto sueco inicial no se traduce, aunque se repite al final en inglés)",
+     "No se traduce el encabezado 'SUMMARY' como 'RESUMEN' en su posición original (solo aparece una vez)"
+    ],
+    "invenciones": [
+     "'madera aserrada' no aparece en el original; el original dice 'roundwood' (madera en rollo/trozas)",
+     "'equipos de cable de contacto' no es lo que dice el original ('overhead line equipment' = línea aérea de contacto)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'roundwood' traducido como 'madera aserrada' en lugar de 'madera en rollo'",
+     "'overhead line equipment' traducido como 'equipos de cable de contacto' en lugar de 'línea aérea de contacto'/'equipos de catenaria'",
+     "'axle control equipment' como 'equipos de control de ejes' (aceptable pero no normalizado)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión del párrafo sueco inicial y errores terminológicos en 'roundwood' y 'overhead line equipment'."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Loket och en vagn i ett godståg spårade ur i växel V008 i Peräseinäjoki (línea en sueco no presente en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "Traducción fiel en cifras y contenido, pero añade una línea en sueco que no figura en el original."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 55,
+    "omisiones": [
+     "No se traduce 'raivauspäällikkö' correctamente (se omite el concepto de jefe de desescombro/limpieza de vía)",
+     "Se omite la frase sobre el maquinista/realizador que llamó al encargado de guardia de Seinäjoki (suorittaja soitti myös Seinäjoen tallipäivystäjälle)",
+     "Se omite 'Radan korjaus jatkui vielä seuraavan vuorokauden puolelle' (la reparación continuó hasta el día siguiente)"
+    ],
+    "invenciones": [
+     "'El encargado de la limpieza' y 'encargado de la estabulación' (tallipäivystäjä no es estabulación)",
+     "'Se renovó el desvío V006 y hubo que reemplazar el elemento de ajuste de la aguja del desvío V004' no aparece en el original",
+     "'Se sustituyeron traviesas en el desvío V008' no está en el original (el original dice que se cambió el desvío V008)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "raivauspäällikkö mal traducido como 'jefe de limpieza' (debería ser jefe de desescombro/retirada de restos)",
+     "tallipäivystäjä mal traducido como 'encargado de la estabulación' (es encargado de guardia del depósito)",
+     "puskin traducido como 'amortiguador' (es parachoques)"
+    ],
+    "comentario": "Traducción con errores graves de terminología ferroviaria, omisiones de frases y varias invenciones que alteran el contenido del informe."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'Veturi ajoi raiteella kolme olleisiin vaunuihin kiinni' traducida correctamente: el original dice que la locomotora embistió/acopló a los vagones que estaban en la vía tres, pero la traducción omite 'raiteella kolme' (vía tres) y dice 'acopló tres vagones en la vía', alterando el sentido",
+     "Falta la palabra 'junasuorituspuhelimien' matizada: se traduce como 'teléfonos de circulación de trenes' pero se pierde el matiz de 'teléfonos de despacho de trenes'"
+    ],
+    "invenciones": [
+     "'maniobras de clasificación' no aparece en el original; el original dice 'vaihtotöitä' (trabajos de maniobra), no clasificación"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'regulador de tráfico' para 'liikenteenohjaaja' (señalizador/regulador de circulación) aceptable pero no normalizado",
+     "'regulador remoto' para 'kauko-ohjaaja' (controlador remoto/telemando) no normalizado",
+     "'prueba de frenos' para 'jarrujenkoettelu' correcto"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero contiene una omisión/alteración relevante en la descripción del acoplamiento en la vía tres y alguna invención terminológica ('clasificación')."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la traducción de la frase finlandesa 'Paikalla ollut yliasentaja epäili kuitenkin, että ajojohdossa oli' (el texto castellano la reformula pero omite el matiz de que el sobrecapataz/supervisor sospechaba que seguía habiendo tensión; se añade 'después del corte' no presente en el original)",
+     "No se traduce la palabra sueca 'Pilen' ni se refleja la estructura trilingüe de los pies de figura (finés/sueco/inglés) en la Figura 4"
+    ],
+    "invenciones": [
+     "'después del corte' en la última frase, no presente en el original finlandés",
+     "'El encargado de la estación' como traducción de 'yliasentaja' (sobrecapataz/supervisor), término no equivalente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Pyöräkerta' traducido como 'juego de ruedas' y 'par de ruedas' de forma inconsistente; debería normalizarse (p. ej. 'juego de ruedas' o 'par de ruedas')",
+     "'Laippa' traducido como 'Alas' (debería ser 'pestaña' o 'rebaba' de la rueda)",
+     "'Kehä' traducido como 'Circunferencia' cuando en la tabla se refiere a 'circunferencia de rodadura' o 'perímetro'"
+    ],
+    "comentario": "La traducción es mayormente fiel y conserva cifras y tablas, pero presenta inconsistencias terminológicas ferroviarias, una omisión/reescritura en la última frase y alguna invención leve."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C7-05R-Report-311005.md"
+ },
+ "md-es/FI/2005/C8_2005R_Report-281205.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'veturin keskuspuskin' traducido como 'enganche central' en lugar de 'tope central' o 'parachoques central'",
+   "'vetolaite' traducido como 'dispositivo de tracción' podría precisarse como 'enganche de tracción'",
+   "'jarrukolmio' traducido como 'triángulo de freno' (término no normalizado; en español técnico ferroviario sería 'zapata de freno' o 'triángulo de frenado' según norma)",
+   "'jarruvivusto' como 'barras de freno' (aceptable pero no normalizado)",
+   "'pidätinlevy' como 'placa de retención' (correcto)",
+   "'kiila' como 'cuña' (correcto)"
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el topónimo Vartius (se sustituye por 'Vartiokoski', que no aparece en el original)",
+     "Se omite la mención de que el nivel de mantenimiento es 'rataluokka C1' como clase de vía (se pierde el matiz de clase de vía frente a categoría)"
+    ],
+    "invenciones": [
+     "'Vartiokoski' como nombre del lugar, cuando el original dice 'Vartius'",
+     "'teléfonos de los conductores de tren' por 'junasuorituspuhelimien' (teléfonos de jefe de tren/regulador), término no equivalente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Equipos de la vía' por 'Ratalaitteet' (equipamiento de vía) es aceptable, pero 'rataluokka C1' se traduce como 'categoría C1' perdiendo 'clase de vía'",
+     "'cama de balasto es de grava de vía' por 'tukikerros raidesepeliä' (balasto de piedra triturada) impreciso",
+     "'protección de línea' por 'linjasuojastus' (bloqueo de línea/señalización de línea) no normalizado"
+    ],
+    "comentario": "La traducción es mayormente fiel, pero cambia el topónimo Vartius por Vartiokoski y confunde términos clave como junasuorittaja y alusta, además de perder matices en la clase de vía."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C8_2005R_Report-281205.md"
+ },
+ "md-es/FI/2005/FI 09.12.2005 S1-2005R-Report.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   42,
+   81,
+   121,
+   163,
+   202
+  ],
+  "fidelidad_media": 86.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Taso-' traducido como 'Paso' en el encabezado de columna (debería ser 'Nivel' o 'Paso a nivel')",
+   "'Ajo-leita'/'kaant' traducido como 'Vehículo'/'culo' de forma fragmentada e incorrecta",
+   "'Kuol-'/'Louk' traducidos como 'Muertes'/'Heridas' fragmentados en 'Mu-ertes'/'Fe-ras' (error tipográfico 'Fe' por 'He')",
+   "'Ei VL' traducido como 'Sin AV' (aceptable si AV=paso a nivel, pero no normalizado)",
+   "'VÄ' traducido como 'AV' (pierde la distinción del original)",
+   "'PP' traducido como 'BP' (cambio de sigla no justificado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Se añade una línea '### Centralen för undersökning av olyckor' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Other avvidents' del original corregido a 'Other accidents' (corrección de errata, no defecto)",
+     "Traducción de 'Director' como 'Director' en lugar de 'Director General' o similar, pero aceptable"
+    ],
+    "comentario": "La traducción es fiel en cifras y contenido, pero añade un encabezado en sueco ausente en el original."
+   },
+   {
+    "pagina": 42,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase sobre la pendiente antes del paso a nivel: 'Ennen tasoristeystä on vastamäki.' (Antes del paso a nivel hay una pendiente en contra).",
+     "Falta la frase 'Vapaa näkyvyys junan lähestymissuuntaan on 30 metriä ennen tasoristeystä noin 900 metriä ja ... 8 metrin etäisyydellä raiteista noin kaksi kilometriä.' (visibilidad de 900 m a 30 m y de 2 km a 8 m).",
+     "Falta la mención de que la visibilidad cumple los requisitos de RAMO (rama)."
+    ],
+    "invenciones": [
+     "Se añade 'Antes del paso a nivel hay una pendiente a favor', que no está en el original (el original dice pendiente en contra, vastamäki).",
+     "Se añade una segunda leyenda 'Figure 12. Foto del paso a nivel hacia el camino de Runttujärvi y la dirección de llegada del camión' que no existe en el original.",
+     "Se añade 'de unos dos kilómetros a 8 metros antes de los raíles' que no aparece en el original."
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'pendiente a favor' traduce erróneamente 'vastamäki' (pendiente en contra/ascendente hacia las vías).",
+     "'material pesado' por 'raskas kalusto' (vehículos pesados) es impreciso.",
+     "'arbolación' no es término normalizado (arbolado)."
+    ],
+    "comentario": "La traducción omite datos clave de visibilidad y invierte el sentido de la pendiente, además de añadir contenido no presente en el original."
+   },
+   {
+    "pagina": 81,
+    "fidelidad": 88,
+    "omisiones": [
+     "Se omite la frase 'Kuljettajan matkan tarkoitus ja päämäärä eivät ole tutkinnassa selvinneet' (propósito y destino del viaje no aclarados) — en realidad sí aparece, no omitir",
+     "Se omite la mención de que el conductor quedó atrapado 'auton sisätiloihin' (en el interior del vehículo) entre el asiento y la puerta",
+     "Se omite 'vastaan paistanut' (sol que brillaba de frente) en la descripción del deslumbramiento"
+    ],
+    "invenciones": [
+     "'equipos de rescorte' — término inexistente; el original dice 'pelastajien' (rescatistas/bomberos)",
+     "'la pendiente de la vía que ascendía hacia el paso a nivel' — el original dice 'tien nousu tasoristeykseen' (la subida de la carretera hacia el paso a nivel), no de la vía",
+     "'señal acústica de la locomotora' — el original dice 'veturin äänimerkin' (señal acústica/silbato de la locomotora), aceptable pero 'acústica' es añadido"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'equipos de rescorte' no es término normalizado; debería ser 'equipos de rescate' o 'bomberos'",
+     "'conductor del vehículo de motor' para 'henkilöauton kuljettaja' — debería ser 'conductor del turismo' o 'conductor del automóvil'",
+     "'controlador del tráfico ferroviario' para 'liikenteenohjaaja' — aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción mayormente fiel pero con invenciones terminológicas ('equipos de rescorte', 'pendiente de la vía') y alguna imprecisión en términos técnicos que requieren revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/FI 09.12.2005 S1-2005R-Report.md"
+ },
+ "md-es/FI/2005/C9_2005R_Report-311205.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   5,
+   10,
+   14,
+   17,
+   21
+  ],
+  "fidelidad_media": 89.8,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'bloqueo de vía' por 'raiteensulku' (debería ser 'cierre de vía' o 'bloqueo de vía' según norma; se acepta pero no normalizado)",
+   "'defectos' por 'haitat' (el original finlandés significa 'desventajas/inconvenientes', no 'defectos')",
+   "'llave de uso' por 'käyttöavain' (aceptable, pero no normalizado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la etiqueta 'Matkustajia:' en el bloque de 'En el tren' (solo aparece 'Pasajeros: 0')",
+     "Falta la etiqueta 'Passagerare:' en el bloque de 'En el tren'",
+     "Falta la etiqueta 'Passengers:' en el bloque de 'En el tren'"
+    ],
+    "invenciones": [
+     "Se repite 'Playa de vías de Tuupovaara' en el campo 'Location' donde el original dice 'Tuupovaara railway yard'",
+     "Se repite 'El vagón descarrilado sufrió daños menores.' en el campo 'Rolling stock damage' donde el original dice 'The derailed wagon suffered minor damages.'",
+     "Se añade 'No.' en 'Railway installation damage' donde el original dice 'None.'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Playa de vías' es una traducción no normalizada de 'ratapiha'/'bangård'/'railway yard'; debería ser 'estación de clasificación' o 'patio de maniobras'",
+     "'Unidad de maniobras' para 'Vaihtotyöyksikkö'/'Shuntig unit' es aceptable pero no normalizado; se prefiere 'unidad de maniobras' o 'locomotora de maniobras'"
+    ],
+    "comentario": "La traducción omite numerosas etiquetas multilingües del original y sustituye textos en inglés por traducciones duplicadas, aunque las cifras se mantienen correctas."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la primera frase completa del original: 'raiteensulun SpII lukituksen ja otti siitä vapautuneen vaihteen V002 varmistuslukon avaimen' (solo se traduce parcialmente, sin el sujeto y verbo inicial)",
+     "No se traduce 'raiteensulku' como término diferenciado del desvío/punto de vía en varios pasajes (se usa 'desvío' donde el original distingue 'raiteensulku' de 'vaihde')"
+    ],
+    "invenciones": [
+     "'La bocina de control' por 'kontrollipiippi' (pitido de control, no bocina)",
+     "'marcador de barrido' por 'aurausmerkki' (marca de arado/quitanieves, no de barrido)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'raiteensulku' traducido como 'desvío' en lugar de 'cierre de vía' o 'bloqueo de vía', confundiéndolo con 'vaihde' (punto de vía/desvío)",
+     "'vaihtotyönjohtaja' como 'jefe de maniobras' es aceptable, pero 'vaihtotyöliike' como 'maniobras' pierde matiz",
+     "'kontrollipiippi' como 'bocina de control' es incorrecto; debería ser 'pitido de control'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión de la frase inicial, confusión terminológica entre cierre de vía y desvío, y dos términos técnicos mal traducidos."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el nombre propio 'VR Cargo Asiakaspalvelut Joensuu' (se vierte como 'VR Cargo Customer Service Joensuu', dejando el nombre en inglés en vez de mantener el original o traducirlo)",
+     "Se omite la mención de que el montículo de nieve era 'hyvin jyrkkä' (muy empinado) en el punto de caída: la traducción dice 'era muy empinado en el punto de caída', lo cual sí está, pero se pierde el matiz de 'putoamispaikan kohdalla' como 'en el lugar de la caída'"
+    ],
+    "invenciones": [
+     "Se traduce 'Pohjois-Karjalan pelastuslaitos' como 'Cuerpo de Bomberos de Carelia del Norte', cuando el original se refiere al 'servicio de rescate' (pelastuslaitos), no exclusivamente a bomberos",
+     "Se traduce 'pelastustoimesta' como 'operaciones de rescate' y 'pelastuslaitos' como 'Cuerpo de Bomberos', alterando la denominación institucional"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Vaihtotyönjohtaja' traducido como 'jefe de maniobras' es aceptable, pero 'Veturinkuljettaja' como 'maquinista' es correcto",
+     "'Kulunrekisteröintilaitteen' como 'dispositivo de registro de movimientos' es aceptable",
+     "'puherekisterin' como 'registro de conversaciones' es aceptable"
+    ],
+    "comentario": "La traducción es en general fiel y conserva todas las cifras y horas, pero introduce una denominación institucional incorrecta ('Cuerpo de Bomberos' por 'pelastuslaitos') y deja un nombre propio en inglés, por lo que requiere revisión."
+   },
+   {
+    "pagina": 21,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la sección original en finlandés 4.2 'Onnettomuuden syyt' (el original contiene dos versiones: finlandesa y sueca; la traducción solo vierte la sueca)",
+     "Falta el encabezado '4 SLUTSATSER' como título de sección en sueco (se traduce solo 'CONCLUSIONES')"
+    ],
+    "invenciones": [
+     "'El tren motriz delantero' por 'första hjulaxel' (primer eje de ruedas), no es un tren motriz",
+     "'escalón angular' por 'hörnfotsteget' (estribo de esquina), término inventado"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'raiteensulku'/'spårspärr' traducido como 'desvío de vía' cuando debería ser 'parachoques de vía' o 'tope de vía' (spårspärr es un tope, no un desvío)",
+     "'hjulaxel' traducido como 'tren motriz' en lugar de 'eje de ruedas'",
+     "'växlingsförmannen' como 'jefe de maniobras' es aceptable, pero 'växlingsförman' se normaliza como 'jefe de maniobras'"
+    ],
+    "comentario": "La traducción omite la versión finlandesa del apartado 4.2 y contiene errores terminológicos graves ('tren motriz' por eje de ruedas, 'desvío de vía' por tope de vía)."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/FI/2005/C9_2005R_Report-311205.md"
+ }
+}

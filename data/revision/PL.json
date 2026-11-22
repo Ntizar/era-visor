@@ -1,0 +1,1499 @@
+{
+ "md-es/PL/2007/Poledno-cz1-15112007.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fidelidad_media": 0.0,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2007/Poledno-cz1-15112007.md"
+ },
+ "md-es/PL/2007/Poledno-cz2-15112007.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fidelidad_media": 0.0,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "página ausente en el castellano"
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2007/Poledno-cz2-15112007.md"
+ },
+ "md-es/PL/2008/Ligota-20102008.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   15
+  ],
+  "fidelidad_media": 43.3,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade texto ininteligible que no aparece en el original: '0) 9380 BU Alozajn JO) $60'9 — 9209 UN \"WOGEZY O yny M Jo) sc09 — 808'5 Wy A \"ejuzaną z ejdAspod 'g| ndAp uoAuelumeJp joepejypod'",
+     "La traducción añade 'Ady pogomjęZozóze a q[awztpenfiks mojske p waa[ajoy IN JĄ NIJSEIJ M'",
+     "La traducción añade 'S6E own 'Wy6'zal ogobnip o qz8 / logo M AuoBem :nGjood EZNEU EPIH O98|9|Q — BIUPOUOSĄĄ EMEZSJEM |[9e]S) SOPL [35M] JU Skiood'"
+    ],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción reproduce el texto corrupto del original pero inserta varios fragmentos adicionales ininteligibles que no están en el original, por lo que no es fiel."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 5,
+    "omisiones": [
+     "No se traduce ningún contenido: el cuerpo del informe permanece en el texto original ilegible"
+    ],
+    "invenciones": [
+     "Se añade una línea inexistente en el original: 'LLs-ż0nA zeIo gze-ż0na :uoAzodsjscz mAjowoyc| eiokzn Aze0y'",
+     "Se añade un fragmento no presente en el original: 'ESJnUBY AOS PQ Ul Og ojoyo 6 jąp M BZIEJAJON AUOJS DO luaryeziopz'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "No se traducen términos técnicos ferroviarios (descarrilamiento, eje, PK, etc.)"
+    ],
+    "comentario": "La traducción no traduce el contenido, añade líneas inventadas y deja todo el informe en el texto original."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es idéntica al original (texto OCR ilegible sin traducir), por lo que no hay traducción real al castellano."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea 'Eu az iBEmMn efOQJAZ Slu z0a] ...' presente en la traducción pero no en el original (invención, no omisión)",
+     "Falta en la traducción la línea '6 'o zpob O mMOWUZolp aualuopemed 95. y -ZP OP alns1dm' que sí está en el original",
+     "Falta en la traducción la línea 'aluOJjejajogpe BU alsB29 WwAWwEB W M lgthy BM „TZ 'zpof o E 'ZbLY' del original"
+    ],
+    "invenciones": [
+     "Línea 'Eu az iBEmMn efOQJAZ Slu z0a] 'g1o6rq aomojey — MouArg Gpod nyejze' añadida en la traducción y ausente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "El texto está corrupto/ilegible en ambos fragmentos; no se pueden validar términos técnicos ferroviarios"
+    ],
+    "comentario": "La traducción no es fiel: añade una línea, omite tres líneas del original y altera cifras (p. ej. 0663→0693, Pt6'8→Pt4'8), por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2008/Ligota-20102008.md"
+ },
+ "md-es/PL/2007/Poledno-cz3-15112007.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fidelidad_media": 93.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'nawierzchnia kolejowa' traducido como 'infraestructura ferroviaria' en vez de 'superestructura/vía ferroviaria'",
+   "'urządzenia SRK' traducido como 'dispositivos de CTC' (Control de Tráfico Centralizado) cuando SRK es 'Sterowanie Ruchem Kolejowym' (control de circulación ferroviaria)",
+   "'sieć trakcyjna' traducido como 'red de contacto' en vez de 'red de catenaria/línea aérea de contacto'",
+   "'opłaty realizacyjne' traducido como 'tarifas de realización' (poco normalizado)",
+   "'samoczynna blokada liniowa' traducido como 'bloqueo automático de línea' en lugar de 'bloqueo automático de vía' o 'bloqueo de línea automático' (término no normalizado)",
+   "'urządzenia sterowania ruchem kolejowym' traducido como 'control del tráfico ferroviario' en lugar de 'control de circulación ferroviaria' o 'enclavamientos'"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'prowadzony lokomotywą EU 07-413 ... kabiną „B” przez maszynistę Pana Jana Gowina' en su orden original: la traducción reordena y omite la mención de que el maquinista conducía la locomotora (el original dice 'prowadzony lokomotywą ... przez maszynistę', la traducción lo convierte en 'conducido con la cabina B por la locomotora ... del maquinista')",
+     "No se traduce 'Zakład Taboru w Gdyni' como unidad del maquinista en la estructura original (se fusiona en 'del Depósito de Material Rodante de Gdyni')"
+    ],
+    "invenciones": [
+     "'remolco' no existe en castellano; parece deformación de 'remolque' y no corresponde a 'naczepa' (semirremolque)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'naczepa' traducido como 'remolco' (debería ser 'semirremolque' o 'remolque'); 'tractor de semirremolque con remolco' es incorrecto",
+     "'pociąg pośpieszny' traducido como 'tren expreso' (podría ser 'tren rápido'; término no normalizado)",
+     "'wykolejenie' traducido como 'descarrilamiento' es correcto, pero se usa en contexto de 'antes del descarrilamiento' sin que el original lo distinga como término técnico específico"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores numéricos (57120 por 57102), términos técnicos mal traducidos ('remolco', 'cajón') y omisiones/reordenamientos en la descripción del maquinista y su depósito."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2007/Poledno-cz3-15112007.md"
+ },
+ "md-es/PL/2008/Final-report-Mlawa1_10062008.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 88.0,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'PROTOKÓŁ USTALEN KONCOWYCH' traducido como 'ACTA DE DETERMINACIÓN FINAL' en lugar de 'ACTA DE CONCLUSIONES FINALES'",
+   "'poważny wypadek kategorii A18' traducido como 'grave accidente de categoría A18' (aceptable, pero 'poważny' se normaliza como 'grave/serious')",
+   "'komisja kolejowa' como 'comisión ferroviaria' (correcto)",
+   "'kontroler ruchu' como 'inspector de circulación' (aceptable)",
+   "'Zakład Taboru' como 'Dirección de Material Rodante' (traducción interpretativa, no literal)",
+   "'traviesas botón INBK7' debería ser 'traviesas de hormigón INBK7' (botonowe = de hormigón, no 'botón')"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 88,
+    "omisiones": [
+     "La traducción omite la palabra 'pociągowego' (del tren) en 'hamowanie pociągu' aunque el sentido se mantiene",
+     "No se traduce el fragmento 'Tor szlakowy namer ] bezstykowy' con la anotación 'namer ]' que aparece en el original",
+     "Se omite la línea 'rogatkowe na przejeździe w km.127,882' como parte integrada, aunque se recoge el PK"
+    ],
+    "invenciones": [
+     "Se añade 'de tráfico número 1' donde el original dice 'namer ]' (posiblemente 'numer 1')",
+     "Se traduce 'pojazd drogowy' como 'vehículo rodante' en lugar de 'vehículo de carretera'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'pojazd drogowy' traducido como 'vehículo rodante' (debería ser 'vehículo de carretera')",
+     "'dyżurny ruchu' traducido como 'jefe de maniobras' (debería ser 'jefe de circulación' o 'regulador de tráfico')",
+     "'konduktor' traducido como 'revisor' (debería ser 'interventor' o 'revisor de tren')"
+    ],
+    "comentario": "Traducción mayormente fiel pero con invención en 'número 1', término erróneo 'vehículo rodante' y 'jefe de maniobras' por 'dyżurny ruchu'."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el inciso 'd) rodzaj nawierzchni przejazdowej' como tipo de superficie del paso (se mantiene, ok) pero se omite la letra 'e)' original que aparece como 'c)' en el original (error del original, no de la traducción)"
+    ],
+    "invenciones": [
+     "Se añade 'del expediente' donde el original dice 'aktu' (aceptable como traducción de referencia, pero es una explicitación)",
+     "Se traduce 'sąstedziwie' como 'inmediaciones' (correcto)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'balasto' por 'nawierzchnia' (superficie/estructura de vía) es impreciso; 'nawierzchnia' se refiere a la superestructura de vía, no al balasto",
+     "'jefa de maniobras' por 'dyżurną ruchu' (jefa de circulación/reguladora de tráfico) no es el término normalizado",
+     "'señales de carretera' por 'znak droguwe' (señales de tráfico) es aceptable pero 'znak drogowy' es señal de tráfico"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero contiene términos técnicos mal normalizados (nawierzchnia, dyżurny ruchu, pojazd drogowy) que requieren revisión."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el final del original: 'Wypadek w' (inicio de la frase sobre la hora de trabajo del guardabarreras) y el fragmento 'ćĄ'",
+     "Falta la referencia '/str. 180 aktu /' se traduce como '/pág. 180 del expediente/' (aceptable, pero se omite 'aktu')"
+    ],
+    "invenciones": [
+     "No hay invenciones significativas"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'dyżurny ruchu' traducido como 'jefe de circulación' (podría ser 'jefe de movimiento' o 'jefe de tráfico'; no normalizado)",
+     "'dróżnik przejazdowy' traducido como 'guardabarreras' (término correcto, pero el original distingue 'dróżnik przejazdowy' de otros)",
+     "'Zakład Taboru' traducido como 'Depósito de Material Rodante' (aceptable)"
+    ],
+    "comentario": "La traducción es casi completa, pero omite el fragmento final del original y algún detalle menor; los números y fechas coinciden."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la indicación '/str.333 aktu /' como referencia exacta en algunas filas (se traduce como 'pág. del expediente' pero se omite 'aktu' en varias)",
+     "Se omite el texto 'tor nr 1 1 2' ambiguo del original en la línea del indicador W 6a (se normaliza a 'vía n.º 1 y 2')",
+     "Se omite la palabra 'wownętrzne' (probablemente 'wewnętrzne') en la descripción de placas dañadas"
+    ],
+    "invenciones": [
+     "Se añade 'de numeración impar' donde el original dice 'dla kierunku nieparzystego' (sentido impar, no numeración)",
+     "Se añade 'jefe de circulación' y 'jefa de circulación' para 'dyżurny ruchu' (término no normalizado, pero no invención pura)",
+     "Se añade 'señalizadores viales' para 'sygnalizatory drogowe' (aceptable)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'przejazd' traducido como 'paso a nivel' es correcto, pero 'przejazd kolejowy' podría requerir 'paso a nivel ferroviario'",
+     "'sygnalizatory drogowe' como 'señalizadores viales' es aceptable pero no normalizado",
+     "'dyżurny ruchu' traducido como 'jefe de circulación' y luego 'jefa de circulación' de forma inconsistente"
+    ],
+    "comentario": "La traducción es en general fiel, pero presenta omisiones menores en referencias y alguna inconsistencia terminológica; las cifras y fechas se mantienen correctas."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2008/Final-report-Mlawa1_10062008.md"
+ },
+ "md-es/PL/2007/Poledno-cz4-15112007.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   3
+  ],
+  "fidelidad_media": 83.7,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Iloczyn ruchu' traducido como 'producto del tráfico' en lugar de 'producto de tráfico' (término normalizado en seguridad ferroviaria)",
+   "'SSP' sin desarrollar ni mantener como sigla técnica (systemy sterowania ruchem / sistemas de control de tráfico)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el fragmento final truncado 'en el que...' tras 'como resultado de lo cual 0' (el original también está truncado, pero falta el cierre de la frase)",
+     "Se omite la referencia '/str. 483 aktu/' en el punto 8? No, sí aparece como '/pág. 483 del expediente/'"
+    ],
+    "invenciones": [
+     "'puesto de mando de maniobras' para 'nastawni dysponującej' (nastawnia dysponująca es puesto de mando de circulación, no de maniobras)",
+     "'tren de pasajeros rápido' para 'pociąg pośpieszny' (pospieszny = rápido/intercity, no de pasajeros rápido)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'nastawnia dysponująca' traducido como 'puesto de mando de maniobras' en lugar de 'puesto de mando de circulación'",
+     "'pociąg pośpieszny' como 'tren de pasajeros rápido' en vez de 'tren rápido'",
+     "'pojazd drogowy' como 'vehículo rodado' en lugar de 'vehículo de carretera'"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero con terminología ferroviaria imprecisa (nastawnia dysponująca, pociąg pośpieszny) y algún cierre de frase omitido."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la mención de que la comisión de la división solicitó la reclasificación 'en Bydgoszczy' (en la traducción se traslada a la frase siguiente)",
+     "Falta la coletilla 'przestrzegania zasad ruchu drogowego' como objeto directo de la solicitud a las Comisarías (se sustituye por 'realización de controles continuos')",
+     "Falta el fragmento 'szkolenia kierowców' como inicio de la frase sobre formación (se convierte en 'solicitarán a los centros de formación')"
+    ],
+    "invenciones": [
+     "'sobre el accidente de categoría A20' no aparece en el original",
+     "'en el km 405,859' no aparece en el original",
+     "'que operan en su ámbito de actuación' y 'controles continuos' no están en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'przejazd kategorii' traducido como 'paso a nivel de categoría' es aceptable, pero se añade una categoría 'A20' inexistente",
+     "'Zakład Linii Kolejowych' se traduce de forma variable ('División de Líneas Ferroviarias') sin normalizar",
+     "'kierowców pojazdów drogowych' se traduce como 'conductores de vehículos rodados' en lugar de 'vehículos de carretera'"
+    ],
+    "comentario": "La traducción añade datos inexistentes (accidente A20, km 405,859) y omite/reescribe fragmentos, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2007/Poledno-cz4-15112007.md"
+ },
+ "md-es/PL/2008/ERA0001-16062008.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 43.3,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 0,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es idéntica al original (texto ilegible/corrupto sin traducir), no hay traducción real al castellano."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 0,
+    "omisiones": [
+     "Todo el contenido del original: la traducción es una copia idéntica del texto ilegible del original, sin traducir al castellano"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "No se ha traducido ningún término técnico ferroviario al castellano"
+    ],
+    "comentario": "La traducción es idéntica al original sin traducir nada, por lo que no hay contenido en castellano que evaluar."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 60,
+    "omisiones": [
+     "Falta la línea 'sA perzpn *r8007'a09T' presente en la traducción pero no en el original (invención, no omisión)",
+     "Se omiten varias líneas del original en la sección central (p. ej. 'rjunugjgod nujna AunzAc...' y 'nius a | n6kDOd SIZpepys...' aparecen en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "Línea 'sA perzpn *r8007'a09T' añadida en la traducción",
+     "Línea 'BIL DOLE 'zpOb op gz zpoć po ejj pio '[szyumojei De (zu pasodzee] ją' añadida",
+     "Línea 'rjunugjgod nujna AunzAc...' añadida"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "Texto mayoritariamente ilegible/transliterado; no se puede evaluar terminología técnica ferroviaria"
+    ],
+    "comentario": "La traducción no es una traducción real: reproduce el original con inserciones y omisiones de líneas, por lo que la fidelidad es baja."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 0,
+    "omisiones": [
+     "Todo el contenido del original está ausente: la traducción no contiene texto en castellano ni reproduce el informe; solo repite el texto ilegible del original y añade una línea final"
+    ],
+    "invenciones": [
+     "Línea final 'p A o lmnm- WN aw' que no aparece en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "No hay terminología técnica traducida; el texto permanece sin traducir (p. ej. referencias a 'PK', 'descarrilamiento', códigos de tren no aparecen en castellano)"
+    ],
+    "comentario": "La traducción no traduce nada: reproduce el original ilegible y añade texto, por lo que la fidelidad es nula."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2008/ERA0001-16062008.md"
+ },
+ "md-es/PL/2009/Final_report_30082009-EN.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   13,
+   17,
+   21
+  ],
+  "fidelidad_media": 89.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Movements Controller' traducido como 'Jefa de Circulación' (adecuado) y 'Route Controller' como 'Jefe de Itinerarios' (aceptable, aunque 'Controlador de Rutas' sería más literal)",
+   "'Chairman of Railway Commission' como 'Presidente de la Comisión Ferroviaria' (correcto)",
+   "'dispatching ŁG signal box' traducido como 'estación de enlace ŁG' en lugar de 'cabina de mando/enclavamiento ŁG'",
+   "'travel roads'/'travel route' traducido como 'itinerarios' (aceptable) pero 'aseguramiento de un itinerario' con error gramatical ('La aseguramiento')",
+   "'signalman' traducido como 'guardagujas' cuando en el contexto de bloqueo electromecánico sería 'señalero/enclavamientos'",
+   "'incidencia en la producción del accidente' por 'impact on the occurrence of the accident' (registro no normalizado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 13,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la primera frase del original: 'signature dated 10.03.2006 (Annex 58). Last routine training session on 25.02.2009 (Annex 70).' aparece solo parcialmente al inicio, pero se omite el bloque completo del primer trabajador (senior signalman en ŁG2) que precede a la frase 'On the day of the accident he was performing the duties of senior signalman'",
+     "Se omite la frase 'On the day of the accident he was performing the duties of senior signalman.' (se traduce como jefe de maniobras, no como señalero superior)"
+    ],
+    "invenciones": [
+     "Se traduce 'senior signalman' como 'jefe de maniobras' en el primer y tercer trabajador, término que no corresponde",
+     "Se traduce 'junior signalman' como 'señalero auxiliar'",
+     "Se traduce 'senior train dispatcher' como 'jefe de trenes principal'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "senior signalman traducido como 'jefe de maniobras' (debería ser 'señalero superior' o 'señalero jefe')",
+     "junior signalman traducido como 'señalero auxiliar' (debería ser 'señalero auxiliar/junior' de forma normalizada)",
+     "senior train dispatcher traducido como 'jefe de trenes principal' (debería ser 'jefe de circulación superior' o 'regulador superior')"
+    ],
+    "comentario": "La traducción confunde los puestos (senior/junior signalman y train dispatcher) y omite el bloque inicial del primer trabajador, por lo que la fidelidad es baja pese a que las cifras y fechas coinciden."
+   },
+   {
+    "pagina": 21,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "'drive 3' traducido como 'vía 3' (debería ser 'vía de acceso' o 'camino de acceso')",
+     "'starting signals' traducido como 'señales de inicio' (término no normalizado; debería ser 'señales de salida')"
+    ],
+    "comentario": "La traducción es fiel en contenido, pero cambia el PK 80.791 por 81.791 en la recomendación 4 y usa términos técnicos no normalizados."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2009/Final_report_30082009-EN.md"
+ },
+ "md-es/PL/2009/Final-report_04082009.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   12,
+   16,
+   20
+  ],
+  "fidelidad_media": 92.7,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'wykolejenia lokomotywy' traducido como 'descarrilamiento de la locomotora' cuando el contexto B10 podría requerir 'descarrilamiento' normalizado",
+   "'Kontroler Drogowy' traducido como 'Inspector de Circulación' (podría ser 'Inspector de Vía')",
+   "'Naczelnik Sekcji' traducido de forma inconsistente como 'Jefe de la Sección' y 'Jefe de Sección'",
+   "'Zakład' traducido como 'Establecimiento' en lugar de 'Unidad'/'División'",
+   "'przekładnia główna' traducido como 'transmisión principal' en lugar de 'reductor principal' o 'engranaje principal' (término ferroviario normalizado)",
+   "'wykres wtłaczania' traducido como 'gráfico de estampado' en lugar de 'gráfico de prensado/ajuste por presión'"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la columna 'Stan gocz. wypoczynku przed rozpoczęciem pracy' como encabezado completo (se traduce parcialmente)",
+     "Falta el término 'trzeźw.' (sobriedad) en el encabezado de la tabla",
+     "Falta la fila/valor 'promila' correctamente asociado (se traduce como 'por mil' pero se pierde la estructura)"
+    ],
+    "invenciones": [
+     "'Duty de circulación' (mezcla inglés-español no presente en el original; el original dice 'Dyżurny ruchu')",
+     "'Servicio de emergencia de rescate técnico' como traducción de 'Pogotowie ratownictwa technicznego' (añade 'emergencia')"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Dyżurny ruchu' traducido como 'Duty de circulación' (término híbrido incorrecto; debería ser 'Jefe de circulación' o 'Regulador de tráfico')",
+     "'Dyspozytor' traducido como 'Despachante' (en ferrocarril es 'Director de circulación' o 'Despachador')",
+     "'Pogotowie ratownictwa technicznego' como 'Servicio de emergencia de rescate técnico' (debería ser 'Servicio de socorro técnico')"
+    ],
+    "comentario": "La traducción conserva la estructura pero introduce términos híbridos ('Duty'), omite encabezados de columna y altera la normalización de términos ferroviarios polacos."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2009/Final-report_04082009.md"
+ },
+ "md-es/PL/2009/Final-report_30082009.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 86.5,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Protokół ustaleń końcowych' traducido como 'Protocolo de hallazgos finales' en lugar de 'Protocolo de conclusiones finales'",
+   "'Kontroler ruchu' traducido como 'Inspector de tráfico' en lugar de 'Controlador de tráfico'",
+   "'Kontroler drogowy' traducido como 'Inspector de vía' en lugar de 'Controlador de vía'",
+   "'encargado del puesto de mando' por 'nastawniczy' (debería ser 'accionador de agujas' o 'guardagujas')",
+   "'jefe de circulación' por 'dyżurny ruchu' (debería ser 'jefe de movimiento' o 'jefe de circulación' según norma, pero se usa de forma inconsistente)",
+   "'señal de entrada' por 'semafor wjazdowy' (aceptable, pero 'semáforo de entrada' es más preciso)"
+  ],
+  "fallos": [
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la línea 'ko PSEZBKOWIE po jazdu drogowego' (texto ilegible del original) ni se aclara su contenido",
+     "Se omite la letra b) en la lista de perjudicados (el original tiene a), b) implícita y c) ), aunque el texto ilegible impide verificar"
+    ],
+    "invenciones": [
+     "Se añade 'estación de mando de despacho' como traducción de 'nastawni dysponującej', que no aparece literalmente",
+     "Se traduce 'samowolne przekazanie' como 'traspaso voluntario' en lugar de 'traspaso arbitrario/no autorizado'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'nastawnia dysponująca' se traduce como 'estación de mando de despacho' en vez de 'puesto de mando' o 'cabina de mando'",
+     "'dyżurny ruchu' como 'encargado de circulación' es aceptable, pero 'nastawniczy' como 'jefe de estación' no es preciso (sería 'guardagujas' o 'operador de agujas')",
+     "'samowolne' mal traducido como 'voluntario' en lugar de 'no autorizado/arbitrario'"
+    ],
+    "comentario": "La traducción es mayoritariamente fiel y conserva cifras y referencias, pero contiene imprecisiones terminológicas en 'nastawniczy' y 'samowolne', y deja sin traducir un fragmento ilegible del original."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la línea del maquinista del tren 510150 de PCC Rail S.A. con 0,3 ‰ en el original (solo aparece en la traducción, no en el original)",
+     "Falta la frase 'que acreditaban su aptitud para el trabajo en los puestos que ocupaban' en el original",
+     "Falta el fragmento 'sin contraindicaciones para el puesto de jefe de puesto de mando, autorización para ejercer las funciones de jefe de puesto de mando' en el original"
+    ],
+    "invenciones": [
+     "Se añade 'Maquinista del tren 510150 de PCC Rail S.A. — 0,3 ‰' que no está en el original",
+     "Se añade 'que acreditaban su aptitud para el trabajo en los puestos que ocupaban'",
+     "Se añade 'sin contraindicaciones para el puesto de jefe de puesto de mando, autorización para ejercer las funciones de jefe de puesto de mando'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'nastawniczy' traducido como 'jefe de puesto de mando' cuando debería ser 'nastawniczy' (accionista de agujas/señalero) y se distingue de 'dyżurny ruchu' (responsable de circulación)",
+     "'starszy nastawniczy' y 'starszy dyżurny ruchu' se confunden en la traducción",
+     "'EZT' (elektryczny zespół trakcyjny) traducido como 'material rodante múltiple' en lugar de 'tren eléctrico de unidades múltiples'"
+    ],
+    "comentario": "La traducción añade datos ausentes (maquinista, tren 510150, PCC Rail) y omite otros, además de confundir términos ferroviarios clave y alterar el topónimo Łowicz Główny."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el nombre propio del maquinista ni del nastawniczy (espacios en blanco del original se mantienen, pero se omiten referencias personales como 'starszego nastawniczego' con nombre)"
+    ],
+    "invenciones": [
+     "'jefe de instalación de maniobras superior' para 'starszego nastawniczego' (invención de jerarquía no presente)",
+     "'semáforos rodados' para 'sygnalizatorach drogowych' (término inventado)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'nastawniczy' traducido como 'jefe de instalación de maniobras' en lugar de 'guardagujas/operador de enclavamientos'",
+     "'sygnalizatorach drogowych' traducido como 'semáforos rodados' (debería ser 'señales viales/semáforos de carretera')",
+     "'echanarena' por 'piaskowanie' (debería ser 'arenado')"
+    ],
+    "comentario": "Traducción mayormente fiel pero con términos técnicos mal normalizados e invenciones en la jerarquía del personal y en la señalización vial."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2009/Final-report_30082009.md"
+ },
+ "md-es/PL/2010/Final_report_08112010-EN.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   9,
+   18,
+   27,
+   36,
+   45
+  ],
+  "fidelidad_media": 96.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'executive signal box' traducido como 'enclavamiento de mando' en lugar de 'puesto de mando' o 'cabina de mando'",
+   "'NIB' traducido como 'IBP' (sigla no normalizada)",
+   "'punto kilométrico 175,000' por '175.000 km': en el original la coma es separador decimal de kilómetros, no de miles; la traducción altera la magnitud",
+   "'una kilometraje' error gramatical (un kilometraje)",
+   "'tumbado de costado' por 'lying on its side' aceptable, pero 'volcado' y 'torn off' podrían normalizarse como 'descarrilado/separado del tren'",
+   "'switch keys' traducido como 'llaves de desvío' en lugar de 'llaves de aguja'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Final_report_08112010-EN.md"
+ },
+ "md-es/PL/2009/Final-report_06042009.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 87.8,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'człon' traducido como 'coche' en lugar de 'unidad'/'vehículo' (término técnico ferroviario)",
+   "'ezt' (elektryczny zespół trakcyjny) no traducido ni normalizado",
+   "'wózek' traducido como 'bogie' (anglicismo) en lugar de 'bogie'/'carretón' normalizado",
+   "'ostojnica' traducido como 'bastidor' y 'czołownica' como 'travesaño' — términos no normalizados",
+   "'kabina ciągnika siodłowego' traducida como 'cabina del tractocamión' — 'ciągnik siodłowy' es 'cabeza tractora'",
+   "'inspector diagnóstico' por 'inspektor diagnosta' (término no normalizado; sería 'inspector de diagnóstico')"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta en la traducción el contenido del apartado B. Położenie toru del original (solo aparece 'Posición de la vía:' sin los datos de recta y pendiente que sí figuran en la traducción, pero el original no los incluye; ver invenciones)",
+     "En el original el apartado B. Położenie toru aparece vacío, pero la traducción añade datos"
+    ],
+    "invenciones": [
+     "En B. Posición de la vía se añade 'la vía en el paso a nivel situada en una recta de longitud d=400m' y 'pendiente de la vía — alzado 2,5%o durante 250m, en el sentido de la señalización kilométrica de la línea', que no están en el original",
+     "En el certificado de idoneidad técnica se añade 'conjunto eléctrico de tracción tipo 5B 6B 5B, año de construcción 1973 válido hasta una rodadura de 400000km', ausente en el original",
+     "Se añade 'expedido por el comisario de recepción' donde el original solo dice 'elektryczny zespół odbiorczy Krzysztof Sikorski'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Zerwana sieć trakcyjna' traducido como 'Red de contacto desprendida' (mejor 'red de tracción/catenaria arrancada')",
+     "'słup trakcyjny' como 'poste de contacto' (normalmente 'poste de catenaria')",
+     "'bezstykowy' como 'sin juntas' (término normalizado: 'vía sin juntas / continua')"
+    ],
+    "comentario": "La traducción añade datos inexistentes en el apartado B y en el certificado del vehículo, y usa terminología ferroviaria mejorable, aunque las cifras coinciden."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la fila de la tabla 'Re fa' en su posición original: el original incluye 'Re fa' como fila separada con importe 30 806,58 zł, y la traducción la mantiene pero omite la etiqueta de la columna de importe en varias filas",
+     "En la fila 'urządzenia srk' el original dice 'Nie dotyczy' y la traducción 'No aplica' es aceptable, pero se omite el guion de la columna de importe",
+     "Se omite la palabra 'podróżnych' correctamente traducida, pero falta 'bagaż podróżnych' como fila independiente en algunas versiones"
+    ],
+    "invenciones": [
+     "'mutagiro de farola' no corresponde a 'zwrotnik latarniowy' (debería ser 'accionamiento de farola' o 'conmutador de farola')",
+     "Se añade 'de aguja' en 'cambio de aguja' cuando el original solo dice 'rozjazd'",
+     "Se traduce 'podrozjazdnica' como 'subaguja', término no normalizado"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Zwichrowany' traducido como 'Destravada' (debería ser 'deformada' o 'alabeada')",
+     "'zwrotnik latarniowy' traducido como 'mutagiro de farola' (término incorrecto)",
+     "'podrozjazdnica' traducido como 'subaguja' (término no normalizado)"
+    ],
+    "comentario": "La traducción es mayoritariamente fiel pero contiene errores terminológicos graves en la tabla de daños y omite el desarrollo de siglas técnicas."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'kolejowych' al inicio (fragmento de 'nr wydanej kontrolki' queda como 'n.º de la tarjeta de control expedida' pero se omite el contexto ferroviario)",
+     "Se omite la palabra 'kierownik pociągu' como 'jefe de tren' correcto, pero se omite el nombre propio del examinador en 'w dniu ” m' (aunque el original está incompleto)"
+    ],
+    "invenciones": [
+     "'la maquinista' para 'konduktorka' (el original dice 'konduktorka', que es revisora/azafata, no maquinista)",
+     "'suboficial' para 'młodszego referenta' (el original dice 'młodszego referenta', no suboficial)",
+     "'Prefecto' para 'Starosta' (término administrativo polaco, no equivalente a prefecto)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'konduktorka' traducido como 'la maquinista' cuando debería ser 'la revisora' o 'la azafata'",
+     "'młodszego referenta' traducido como 'suboficial' cuando es 'referente junior' o 'funcionario auxiliar'",
+     "'Starosta' traducido como 'Prefecto' cuando es 'Starosta' (autoridad administrativa local)"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene errores terminológicos graves (konduktorka como maquinista, młodszego referenta como suboficial, Starosta como Prefecto) y alguna invención (RC por OC)."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el apartado d) del original falta la coletilla final 'w przepisowych terminach' (en los plazos reglamentarios) — sí aparece, pero se omite 'w przepisowych'? Revisar: la traducción dice 'en los plazos reglamentarios', correcto.",
+     "Falta la abreviatura 'fj.' del original (odjechał planowo, fj.: o godzinie 14.45) — no se traduce 'fj.'",
+     "En el original: 'w km 65.639 — 65.976' aparece como rango; la traducción lo mantiene, pero el original dice 'w lokatach od 65.18 do 65.13, w km 65.639 — 65.976' — se mantiene."
+    ],
+    "invenciones": [
+     "'atropello de un coche ... por un tren' — el original usa 'najechanie pociągu na samochód' (embestida del tren contra el coche); la traducción invierte el agente en las tres primeras entradas, aunque en las dos últimas sí respeta el orden. No es invención pura pero altera el agente.",
+     "'tractor de cabina' — el original dice 'ciągnik siodłowy' (tractocamión/cabeza tractora), no 'tractor de cabina'.",
+     "'remolque' por 'naczepa' (semirremolque) — término impreciso."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "najechanie pociągu na samochód → 'atropello de un coche por un tren' (agente invertido; debería ser 'embestida/colisión del tren contra el coche')",
+     "ciągnik siodłowy → 'tractor de cabina' (debería ser 'tractocamión' o 'cabeza tractora')",
+     "naczepa → 'remolque' (debería ser 'semirremolque')"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero invierte el agente en varias colisiones y usa términos técnicos imprecisos (tractocamión, semirremolque, muñón)."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2009/Final-report_06042009.md"
+ },
+ "md-es/PL/2010/Final_report_13072010-EN.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   13,
+   19,
+   25,
+   31
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'cranked' traducido como 'maniobrar los desvíos' en lugar de 'accionar con manivela los desvíos'",
+   "'switch man' traducido como 'maniobristas' (aceptable) pero 'crank'/'cranking' se pierde como término técnico específico",
+   "'passing loop' traducido como 'apartadero' (correcto) pero 'base station' como 'sin base' en lugar de 'sin estación base'",
+   "'passing loop' traducido como 'apartadero' en lugar de 'bucle de paso' o 'vía de apartado'",
+   "'item 1444' no traducido como 'punto 1444' o 'posición 1444'",
+   "'apartadero' por 'passing loop' (debería ser 'vía de apartado' o 'bucle de cruce')"
+  ],
+  "fallos": [
+   {
+    "pagina": 19,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la coma/estructura 'Wagon .' tras '4m' en la descripción del lado derecho (el original menciona 'Wagon .' que se omite)",
+     "Falta 'wagon' en 'fromthe . wagonfrontwalledge' (la traducción dice 'desde el canto de la pared frontal del vagón', pero omite el punto/estructura original; menor)"
+    ],
+    "invenciones": [
+     "Se añade 'Estructura del bogie (delantero) del vagón' donde el original dice '(front)bogiestructureslightlydamaged' sin 'vagón' explícito, aunque es inferencia aceptable"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'structurestwisted' traducido como 'estructuras retorcidas' (aceptable)",
+     "'cabinetslightlydamaged' como 'armario de control incorporado ligeramente dañada' — el original dice 'Wallwithincorporatedcontrol, cabinetslightlydamaged', la traducción fusiona y puede alterar la estructura",
+     "'No loss reported' traducido como 'No se comunica pérdida' en lugar de 'No se reportan pérdidas' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura general, pero omite fragmentos del texto dañado original y presenta alguna fusión de términos en la descripción de daños."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Final_report_13072010-EN.md"
+ },
+ "md-es/PL/2010/B34 Wloszczowa 290110.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   8,
+   11,
+   13
+  ],
+  "fidelidad_media": 86.7,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
+  "terminos": [
+   "'chaleco reflectante' con concordancia incorrecta ('la chaleco'); el original dice 'kamizelkę ostrzegawczą' (chaleco de advertencia/alta visibilidad)",
+   "'conserje de terrenos' por 'sprzątacz terenów' (limpiador de terrenos) — matiz ocupacional alterado",
+   "'jefe de circulación' por 'dyżurny ruchu' — aceptable pero no normalizado si el original distingue el cargo"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'Zawład linii Kolejowych poza:' y el fragmento '47 Kietce. ul. Paderewskiego ik' (aunque el texto original es corrupto, no se traduce)",
+     "Falta el nombre del empleado atropellado (aparece como 'pana |' en el original, omitido en la traducción)"
+    ],
+    "invenciones": [
+     "'Zarząd Linii Kolejowych w Kielcach' añade 'w Kielcach' que no está en el original",
+     "'Zakład Eksploatacyjny' no corresponde a 'Eksoloatśchi' (texto corrupto) ni a 'Sekcji Eksploatacji'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'potrącenie' traducido como 'atropello' en lugar de 'arrollamiento' (término ferroviario normalizado)",
+     "'Zawiadowca ds. drogowych' traducido como 'Jefe de vías' en vez de 'Jefe de infraestructura/vía'",
+     "'Zawiadowca ds. inżynierii ruchu' como 'Jefe de ingeniería de tráfico' en vez de 'Jefe de circulación'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisiones de encabezado y nombre, alguna invención toponímica y terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 72,
+    "omisiones": [
+     "No se traduce la frase 'el tren tras realizar la prueba de freno partió hacia su destino a las 10%' que no aparece en el original (invención, no omisión)",
+     "Se omite la referencia a 'poddaniu go badaniem alkomatem' como parte del procedimiento (parcialmente recogido)"
+    ],
+    "invenciones": [
+     "'de alcohol en el aire espirado por los funcionarios de KPP Włoszczowa' — no está en el original",
+     "'el tren tras realizar la prueba de freno partió hacia su destino a las 10%' — frase completa ausente del original",
+     "'Los restos fueron trasladados al depósito' — el original dice 'do prosektorium' (al depósito/anfiteatro), pero 'restos' y 'trasladados' no aparecen explícitamente"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'señalización por formas' por 'sygnalizacja kształtowa' (señalización mecánica por formas) — aceptable pero no normalizado",
+     "'clase de vía — sin juntas' por 'rodzaj toru — bezstykowy' (vía sin juntas / vía continua soldada) — 'clase' no es 'rodzaj'",
+     "'cantos rodados' por 'tłuczeń' (balasto de piedra machacada, no cantos rodados)"
+    ],
+    "comentario": "La traducción inserta una frase inexistente sobre la prueba de freno y las 10%, altera cifras horarias y confunde términos técnicos como 'tłuczeń' y 'bezstykowy'."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado de columna 'Nazwisko i imię oraz stanowisko przyjmującego powiadomienie' de forma completa y coherente",
+     "Se omite la etiqueta 'miejsce zdarzenia' en la columna correspondiente",
+     "No se traduce 'Dyspozytor' como etiqueta de la primera fila (se deja sin contexto)"
+    ],
+    "invenciones": [
+     "Se añade 'SEINE' en la fila de la Fiscalía, que no aparece en el original",
+     "Se traduce 'KPP' como 'KPP' sin aclarar, pero se añade 'Fiscal' donde el original dice 'Prokuratura Rejonowa'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Pogotowie Ratunkowe' traducido como 'Servicio de Urgencias' en unas filas y 'Urgencias' en otras, sin normalizar",
+     "'Prokuratura Rejonowa' traducido como 'Fiscalía Distrital' pero luego 'Fiscal' en la misma fila",
+     "'przejazdy kolejowe' traducido como 'pasos a nivel' (aceptable) pero 'obszar kolejowy' como 'área ferroviaria' (correcto)"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene omisiones en encabezados de tabla, invenciones como 'SEINE' y falta de normalización en términos como 'Pogotowie Ratunkowe'."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el fragmento 'i w tym czasie nie spotkał poszkodowanego wykonującego czynności odśnieżania' correctamente: se omite la conjunción/estructura original 'i' y se altera el sentido de 'nie spotkał' (no se encontró con) frente a 'no se encontró con el perjudicado' que sí aparece, pero se omite la mención de que el patrullaje fue 'rejon dworca i peronów' correctamente traducido; sin embargo falta la traducción de 'Wg otrzymanej informacji' como 'según la información recibida' (sí está). Se omite la traducción de 'nie był zobowiązany' matiz: se traduce como 'No estaba obligado' correcto. Falta traducir 'instruktarzu stanowiskowego' como instrucción de puesto, se traduce como 'instrucción específica' (aceptable). Se omite la palabra 'Pan .' repetida correctamente. Falta la traducción de 'na terenach PKP PLK S.A.' correcto. Se omite 'w skutek czego' traducido como 'como consecuencia de lo cual' correcto. Se omite la traducción de 'toromistrzowi kierującemu akcją odśnieżania' como 'jefe de vías que dirigía la acción de deshielo' correcto. Se omite la traducción de 'patrol z posterunku SOK. Włoszczowa' como 'el patrulla del puesto SOK. Włoszczowa' (concordancia incorrecta pero presente). Falta traducir 'rejon dworca i peronów stacji Włoszczowa' correctamente como 'zona de la estación y andenes de la estación Włoszczowa' (presente). Se omite la traducción de 'od g 6 do g 8!' como 'desde las 6 h hasta las 8 h 15 min' — el original dice '8!' que probablemente es '8:15' pero no es claro; la traducción añade '15 min' que no está explícito en el original (posible invención numérica). Se omite la traducción de 'c) procedur wewnętrznych kontroli doraźnych i okresowych oraz ich wyników' correcto. Se omite 'mimo postanowień ujętych w $6 ust 5. Umowy' traducido como 'pese a las disposiciones recogidas en el § 6, apartado 5 del Contrato' correcto. Se omite 'brak udokumentowanych wykonywanych czynności w tym zakresie przez Wykonawcę i Zamawiającego' traducido correctamente. Se omite 'd) obowiązków dotyczących współdziałania pomiędzy różnymi jednostkami organizacyjnymi uczestniczącymi w zdarzeniu' correcto. Se omite 'prawidłowa współpraca zgodnie z Regulaminem udostępniania tras 2009/2010' correcto. Se omite '2. Wysłuchanie osób związanych ze zdarzeniem i ich podsumowanie)' traducido como 'Declaraciones de las personas relacionadas con el suceso y su resumen' (aceptable). Se omite 'Dyżurni ruchu stacji Włoszczowa:' traducido como 'Jefes de tráfico de la estación Włoszczowa:' (término discutible). Se omite '-. z - Dyżurny Ruchu pełniący dyżur w dniu wypadku' traducido como 'El Jefe de Tráfico que prestaba servicio el día del accidente' correcto. Se omite 'nie miał wiedzy kto, kiedy i na jakich warunkach dokonuje sprzątania, odśnieżania peronów, przejść dla podróżnych' traducido correctamente. Se omite 'nie widział też odśnieżającego pracownika i nie informował go o przejeżdżających pociągach bez zatrzymania' traducido correctamente. Se omite 'Analizując pracę Dyżurnego Ruchu w dniu wypadku — uznaje się za wiarygodne jego zeznania' traducido correctamente. Se omite 'ponieważ przed zaistniałym wypadkiem wykonywał czynności wchodzące w zakres jego obowiązków tj.' traducido correctamente. Se omite 'prowadzenie ruchu pociągów na stacji i przyległych szlakach' traducido como 'la conducción del tráfico de trenes en la estación y en las vías adyacentes' correcto. Se omite 'odprawianie pociągów osobowych w obu kierunkach' traducido como 'la autorización de trenes de pasajeros en ambos sentidos' correcto. Se omite 'poc. 22034 odj. godz. 06:14, poc. 24035 odj. godz 07:09, poc. 42030 odj. godz. 08:16' traducido como 'tren 22034 sal. hora 06:14, tren 24035 sal. hora 07:09, tren 42030 sal. hora 08:16' correcto. Se omite 'po nastaniu pory dziennej dokonał oględzin zewnętrznych rozjazdów w okręgu „WŁ” ( godz. 07:50)' traducido como 'al llegar la hora diurna realizó una inspección exterior de los desvíos en el sector „WŁ” (hora 07:50)' correcto. Se omite 'ogodz. 08:10 na nastawnię przybył toromistrz, który udawał się w obchód torów i przekazał pod nadzór dwóch' traducido como 'y a las 08:10 llegó a la sala de enclavamiento el jefe de vías, que se dirigía a recorrer las vías y puso a cargo de dos' correcto."
+    ],
+    "invenciones": [
+     "Se añade '15 min' en 'hasta las 8 h 15 min' que no aparece explícitamente en el original ('8!')."
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Dyżurny Ruchu' traducido como 'Jefe de Tráfico' en lugar de 'Jefe de Circulación' o 'Regulador de tráfico' (término no normalizado).",
+     "'toromistrz' traducido como 'jefe de vías' (aceptable pero no normalizado).",
+     "'odśnieżanie' traducido como 'deshielo' en lugar de 'quitanieves' o 'limpieza de nieve' (término técnico ferroviario)."
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene una invención numérica ('8 h 15 min' por '8!') y algunos términos técnicos no normalizados; se requiere revisión."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [
+     "no se traduce 'podkładach' (traviesas) en 'poruszania się po podkładach i tłuczniu nawierzchni torowej'",
+     "se omite la mención a 'międzytorzy' como objeto de limpieza y deshielo (se traduce solo 'entrevías')"
+    ],
+    "invenciones": [
+     "'superficie de la vía' no aparece en el original; el original dice 'podkładach i tłuczniu' (traviesas y balasto)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'tłuczeń' traducido como 'superficie de la vía' en lugar de 'balasto'",
+     "'podkłady' (traviesas) omitido",
+     "'czyściciel terenów zewnętrznych' se mantiene pero el original distingue el riesgo 'mały ryzyko zawodowe' correctamente"
+    ],
+    "comentario": "Traducción mayormente fiel, pero omite 'traviesas' y sustituye 'balasto' por 'superficie de la vía', alterando el término técnico."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/B34 Wloszczowa 290110.md"
+ },
+ "md-es/PL/2010/Korzybie_PL_final-13072010.md": {
+  "estado": "aviso",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   7,
+   13,
+   20,
+   26,
+   32
+  ],
+  "fidelidad_media": 94.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Zakład Linii Kolejowych' traducido como 'Delegación de Líneas Ferroviarias' en lugar de 'Unidad/Gerencia de Líneas Ferroviarias'",
+   "'cualificación de agujas' por 'kwalifikacji zwrotniczego' (debería ser 'cualificación de guardagujas')",
+   "'estación de adelantamiento' por 'mijanka' (término no normalizado; habitualmente 'apartadero' o 'bifurcación')",
+   "'maniobrar con la palanca de cambio de agujas' por 'korbowania zwrotnic' (debería ser 'accionamiento manual con manivela de las agujas')",
+   "'estación de cruce' para 'mijankę' (mijanka = apartadero de cruce, no estación)",
+   "'jefe de circulación de tramo' para 'dyżurny ruchu odcinkowy' (término no normalizado; se usa 'jefe de circulación de sector/odcinkowy')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Korzybie_PL_final-13072010.md"
+ },
+ "md-es/PL/2010/annex_1-recommendations-Korzybie-13072010.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 94.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'bulding gauge' traducido como 'calzada de construcción' (debería ser 'gálibo de construcción/estructura')",
+   "'gauge of railway vehicles' traducido como 'calzada de los vehículos ferroviarios' (debería ser 'gálibo de los vehículos ferroviarios')",
+   "'telecommunication wire communication' traducido como 'línea de comunicación telegráfica' (debería ser 'línea de telecomunicación por cable')",
+   "'powered railway-vehicles' traducido como 'vehículos ferroviarios motorizados' (aceptable, pero convendría 'vehículos ferroviarios de tracción')",
+   "'driving front train service' traducido como 'conducción en el servicio de trenes delantero' (expresión confusa; debería ser 'servicio de conducción con cabina delantera')",
+   "'traction team' traducido como 'la tripulación' (impreciso; debería ser 'equipo de tracción')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/annex_1-recommendations-Korzybie-13072010.md"
+ },
+ "md-es/PL/2010/Makolowiec_1-18082010.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 90.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'puesto de desvío' por 'posterunek odgałęźny' (puesto de bifurcación/ramal) — término no normalizado",
+   "'pupitre de maniobras modular' por 'pulpit nastawczy kostkowy' (pupitre de botones/teclas) — 'modular' no refleja 'kostkowy'",
+   "'no desmontables' por 'nierozpruwalne' (no desmontables/no desacoplables) — aceptable pero impreciso",
+   "'señal autorizante' por 'sygnał zezwalający' (señal de autorización/permissiva) — término no normalizado",
+   "'itinerario' por 'przebieg' (ruta/itinerario de circulación) — término no normalizado en este contexto",
+   "'liberado' por 'rozwiązany' (anulado/liberado el itinerario) — matiz distinto"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 88,
+    "omisiones": [
+     "En la columna 6 del tren 90036 falta la hora de llegada del tren (el original tiene un hueco pero la traducción añade '[hora]' sin que exista en el original)",
+     "Falta el texto 'rubryka zakreślona' correctamente reflejado: el original dice 'rubryka zakreślona' (casilla marcada/circundada) y la traducción dice 'casilla tachada'",
+     "Falta la palabra 'słacłonamny' (probablemente 'stacjonarny') en la descripción del radioteléfono: el original dice 'słacłonamny radiotelefon' y la traducción omite ese adjetivo"
+    ],
+    "invenciones": [
+     "La traducción añade '[hora]' en la columna 6 del tren 90036, que no está en el original",
+     "La traducción traduce 'rubryka zakreślona' como 'casilla tachada' (invención de sentido: 'zakreślona' es marcada/circundada, no tachada)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'puesto de anuncio' para 'posterunek zapowiadawczy' podría no ser el término normalizado; en español ferroviario se usa 'puesto de anuncio' o 'puesto de control de tráfico', pero es discutible",
+     "'guardabarreras' para 'dróżnik przejazdowy' es correcto, pero 'dróżników' se traduce como 'guardabarreras' consistentemente",
+     "'corrección de la holgura' para 'poprawy prześwitu' es una traducción literal; el término técnico sería 'corrección del gálibo' o 'mejora del paso libre'"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene una invención ('[hora]'), una omisión (adjetivo del radioteléfono) y un error de término ('casilla tachada' por 'rubryka zakreślona'), por lo que requiere revisión."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el punto 9, la letra l) del original incluye 'wszystkie wagony hamulcami' (todos los vagones con frenos) que se omite en la traducción",
+     "En el punto 11, la fila de la tabla del original con 'Dyżurna ruchu' incluye 'Katowice' como parte del centro de trabajo que aparece truncado en la traducción"
+    ],
+    "invenciones": [
+     "Se añade 'q)' como letra para el punto de la prueba simplificada, cuando en el original es 'p)' y el siguiente 'r)'",
+     "Se traduce 'Kierownik pociągu' como 'Jefe de tren' en la tabla, pero en el punto 9 se usa 'jefe de tren' consistentemente; no es invención grave"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'rozjazd' traducido como 'desvío' es aceptable, pero en el contexto ferroviario español se normaliza como 'desvío' o 'cambio'; no es error grave",
+     "'przytwierdzenie' traducido como 'anclaje' podría ser 'sujeción' (fijación de vía); término técnico mejorable",
+     "'toromistrz' traducido como 'jefe de vía' es correcto"
+    ],
+    "comentario": "La traducción es en general fiel, pero omite texto en el punto l) y hay un desajuste en la letra q) del punto 9; los términos técnicos son aceptables aunque mejorables."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el texto 'Godz.' en la primera línea (se omite la abreviatura de hora)",
+     "No se traduce 'Stan' (encabezado de columna de estado de sobriedad) en la tabla de personas relacionadas",
+     "No se traduce 'm-ce zamieszkania' completo (falta la etiqueta de lugar de residencia en la fila de datos)"
+    ],
+    "invenciones": [
+     "Se añade 'de llegada al lugar de trabajo' y 'Finalización del' como encabezados que no aparecen explícitamente en el original",
+     "Se traduce 'Przewoźnik' como 'Operador' cuando el original dice 'Przewoźnik' (transportista)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'pociąg' traducido como 'tren' en lugar de 'tren'/'convoy' según contexto ferroviario; aceptable pero no normalizado",
+     "'Dyspozytor' se deja sin traducir en varias celdas (Dyżurny, dyspozytor) mezclando polaco y castellano",
+     "'Pogotowie ratownictwa technicznego' como 'Servicio de rescate técnico' no es término normalizado"
+    ],
+    "comentario": "La traducción es mayormente fiel y conserva cifras y horas, pero deja términos polacos sin traducir y añade encabezados no presentes en el original."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'przewodowej łączności ruchowej' (comunicación fija por cable) con precisión: el original distingue 'radiołączności' y 'przewodowej łączności ruchowej'",
+     "Se omite la palabra 'samoczynnej' en 'półsamoczynnej i samoczynnej blokadzie liniowej' (solo se traduce 'bloqueo automático')",
+     "No se recoge el nombre del maquinista instructor ni el de la despachadora (marcados con '/'), aunque el original también los omite"
+    ],
+    "invenciones": [
+     "'Silesian Plant of Regional Transport' y 'Plant de Líneas Ferroviarias': se deja el término inglés 'Plant' en lugar de traducir 'Zakład' (Planta/Unidad)",
+     "Se añade 'de las estaciones' en 'despachadores de circulación de las estaciones Katowice Ligota y podg Mąkołowiec', no presente literalmente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'podg' (posterunek odgałęźny) no se normaliza; debería ser 'puesto de bifurcación' o similar",
+     "'półsamoczynna blokada liniowa' traducido como 'bloqueo automático' pierde la distinción semiautomático/automático",
+     "'nastawnia dysponująca' traducido como 'sala de mando' es aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero con omisiones técnicas (bloqueo semiautomático/automático, comunicación por cable) y terminología no normalizada que mezcla inglés y castellano."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Makolowiec_1-18082010.md"
+ },
+ "md-es/PL/2010/Raport_Gliwice_16052010_part-1.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14
+  ],
+  "fidelidad_media": 90.2,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'puestos de anuncio' por 'posterunki zapowiadawcze' (puestos de anuncio/aviso) — aceptable pero no normalizado",
+   "'zona de enclavamiento' por 'rejon nastawczy' — podría ser 'zona de maniobras/enclavamientos'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el nombre propio del documento 'PROTOKÓŁ' como 'ACTA' (aceptable) pero se omite la palabra 'końcowych' ya traducida; no hay omisiones de contenido sustantivo detectadas"
+    ],
+    "invenciones": [
+     "'Silesio de la Empresa de Transportes Regionales' no corresponde literalmente a 'Śląski Zakład Przewozów Regionalnych' (añade 'de la Empresa')",
+     "'servicio de vías' traduce 'pogotowie drogowe' que sería 'servicio de urgencia de vías'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'toromistrz' traducido como 'jefe de vías' (aceptable pero no normalizado)",
+     "'autobús ferroviario' para 'mikrobus szynowy' (draisina/vehículo ferroviario ligero)",
+     "'tren de maniobras' para 'pociąg gospodarczy' (tren de servicio/económico)"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero presenta invenciones léxicas y terminología técnica no normalizada que requieren revisión."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la coletilla 'Skład pociągu nr ROPJr 63130' como composición del tren, se mantiene el número pero se omite la referencia al tipo de tren en la frase de masa (aunque aparece el número)",
+     "Se omite la palabra 'rzeczywista' en 'masa hamująca rzeczywista' en la primera aparición? (no, aparece)",
+     "Falta la traducción de 'w kierunku jazdy' en 'z wgniecioną kabiną Ra w kierunku jazdy' se traduce como 'hundida en el sentido de la marcha' pero se omite 'kabina Ra'? (aparece)"
+    ],
+    "invenciones": [
+     "Se añade 'de la estación de enclavamiento despachante' en el primer párrafo donde el original dice 'nastawniczy nastawni dysponującej GLC w stacji Gliwice' (traducción aceptable)",
+     "Se traduce 'autobús ferroviario' para 'mikrobus szynowy', que es una invención terminológica (debería ser 'microbús ferroviario')",
+     "Se traduce 'balasto' para 'nawierzchni' cuando el original se refiere a 'tipo de vía/superestructura', no balasto"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'mikrobus szynowy' traducido como 'autobús ferroviario' en lugar de 'microbús ferroviario'",
+     "'nawierzchni' traducido como 'balasto' cuando se refiere a tipo de superestructura/vía",
+     "'nastawnia dysponująca' traducido de forma variable como 'estación de enclavamiento despachante' (debería normalizarse como 'puesto de mando' o 'enclavamiento de mando')"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene errores terminológicos ('autobús ferroviario' por microbús, 'balasto' por superestructura) y posibles omisiones de cifras/códigos que requieren verificación."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 6' (irrelevante)",
+     "Se omite la palabra 'jedenastu' correctamente traducida como 'once' (no es omisión)",
+     "Falta la traducción de 'ładunki' en el encabezado 'ładunki, bagaże i szkody eksploatacyjne' (se traduce solo 'equipajes, equipaje y daños operativos', omitiendo 'cargas')"
+    ],
+    "invenciones": [
+     "'pupitre' en lugar de 'pulpito' no es invención",
+     "No hay invenciones significativas"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'equipajes, equipaje y daños operativos' traduce 'ładunki, bagaże i szkody eksploatacyjne' omitiendo 'ładunki' (cargas)",
+     "'cantoera' no es término normalizado en español; el original 'czoło' se refiere a la parte frontal/testa del coche",
+     "'estribo' para 'ostojnica' es incorrecto; 'ostojnica' es el bastidor longitudinal/larguero, no estribo"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión de 'ładunki' y errores terminológicos en 'ostojnica' y 'czoło', además de erratas ortográficas."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta el fragmento inicial 'Eksploatacji' completo (aparece truncado como 'de Explotación')",
+     "No se traduce el encabezado 'PÁGINA 11' ni se mantiene coherencia con el inicio del original"
+    ],
+    "invenciones": [
+     "'proceduras internas' (neologismo inexistente en castellano; el original dice 'procedur wewnętrznych')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'jefe de vía' por 'toromistrz' (término normalizado sería 'jefe de vía' o 'capataz de vía', aceptable)",
+     "'responsable de circulación' por 'dyżurny ruchu' (normalizado: 'jefe de circulación')",
+     "'instalación de enclavamiento de mando' por 'nastawni dysponującej' (debería ser 'cabina de mando/enclavamiento')"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero contiene un neologismo ('proceduras') y algunos términos técnicos no normalizados."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'kierowcę drezyny i wózka motorowego pociągu ZRM - 22' como inicio de párrafo independiente (se integra sin separación)",
+     "No se traduce el fragmento inicial 'kierowcę drezyny...' como encabezado separado"
+    ],
+    "invenciones": [
+     "'estación de enclavamiento' para 'nastawnia' (nastawnia es puesto de mando/enclavamiento, no estación)",
+     "'responsable de circulación' para 'dyżurny ruchu' (término no normalizado; debería ser 'jefe de circulación' o 'encargado de circulación')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'drezina' no traducido (término técnico ferroviario: dresina), se mantiene en polaco en todo el texto",
+     "'jefe de vías' para 'toromistrz' (toromistrz = jefe de vía/encargado de vía; 'jefe de vías' es aceptable pero no normalizado)",
+     "'revisora' para 'konduktor' (konduktor = revisor/interventor; en el original es 'konduktor' femenino, aceptable)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con términos técnicos no normalizados ('drezina' sin traducir, 'nastawnia' como 'estación de enclavamiento') y una omisión de estructura de párrafo."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Raport_Gliwice_16052010_part-1.md"
+ },
+ "md-es/PL/2010/Raport_Gliwice_16052010_part-2.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 89.5,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'señal SBL' por 'semaforo sbl': el original usa 'semaforo' (semáforo) y la traducción lo vierte como 'señal', perdiendo la distinción técnica",
+   "'placa de aviso ToB' por 'tarcza ostrzegawcza ToB': aceptable, pero 'tarcza' se traduce habitualmente como 'disco' o 'señal de aviso'",
+   "'botón de alerta del SHP' por 'przycisk czujności SHP': 'czujność' es 'vigilancia/cautela', no 'alerta'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el fragmento inicial 'około 5m przed platformą' con la preposición correcta (se traduce 'a unos 5 m de la plataforma' en lugar de 'unos 5 m antes de la plataforma')",
+     "Se omite la palabra 'szynowym' en 'mikrobusem szynowym' (microbús de vía) en la primera frase, aunque aparece después",
+     "No se recoge la frase 'Toromistrz kazał uciekać i uciekli na skarpę' con la debida separación: se traduce como una sola frase sin reflejar la coordinación original"
+    ],
+    "invenciones": [
+     "Se añade 'de vía' en 'microbús de vía' cuando el original dice 'mikrobusem szynowym' (microbús ferroviario)",
+     "Se traduce 'drezyna' como 'dresina' (término no estándar en español; lo correcto es 'dresina' o 'vagoneta', pero se usa 'dresina' de forma inconsistente)",
+     "Se añade 'señal de atención' cuando el original dice 'sygnału baczność' (correcto, pero se podría haber traducido como 'señal de precaución')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "dresina (término no normalizado; en español ferroviario se usa 'dresina' o 'vagoneta', pero aquí se alterna con 'dresina' de forma inconsistente)",
+     "styk traducido como 'cambio' (incorrecto; 'styk' es 'junta' o 'empalme' de carril)",
+     "łubka traducida como 'placa base' (correcto, pero 'łubka' es 'brida' o 'placa de unión')"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores terminológicos graves ('styk' como 'cambio', 'upalona' como 'fundido') y algunas omisiones menores; se requiere revisión."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el fragmento final 'Na temat procedury usuwania usterek w torach i prowadzenia na ten temat dokumentacji' (queda cortado igual que el original, pero se omite la parte final de la frase en la traducción)",
+     "Se omite la palabra 'pociągu' en 'bezpiecznego przejazdu' (contexto de paso seguro del tren)"
+    ],
+    "invenciones": [
+     "Se añade 'del tren' en 'permitían conducir el tren con la velocidad de horario' (el original dice 'prowadzenie pociągu', aceptable, pero se añade artículo)",
+     "Se traduce 'kabina Ra' como 'cabina Ra' manteniendo el término, correcto"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'łubki' traducido como 'escuadras' en lugar de 'bridas' o 'placas de unión' (término técnico ferroviario)",
+     "'drezyna' traducido como 'draisina' (aceptable pero no normalizado en español; mejor 'dresina')",
+     "'blokada sbl' traducido como 'la bloqueo sbl' (error de género y falta de normalización: 'bloqueo SBL')"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisión de la frase final, errores de género en 'la bloqueo', y términos técnicos no normalizados como 'escuadras' por 'bridas'."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la abreviatura 'Tmin' como cifra concreta (se mantiene 'Tmin' sin aclarar)",
+     "Se omite el fragmento 'śr' y caracteres corruptos del original que podrían contener datos"
+    ],
+    "invenciones": [
+     "'de la empresa' añadido en 'comisión ferroviaria de la empresa' (original: 'komisji kolejowej zakładowej')",
+     "'que no disponía de registrador de conversaciones' cambia el sentido: original 'nie posiadający rejestratora rozmów' se refiere al nuevo equipo Radmor, no a una carencia pasada"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'microbús ferroviario' por 'mikrobus szynowy' (dresina/vehículo ferroviario ligero) es traducción literal inadecuada",
+     "'estación de enclavamiento Gliwice GLC' por 'nastawni Gliwice GLC' (cabina/puesto de enclavamientos) no normalizado",
+     "'Guardia de Protección Ferroviaria' por 'Straż Ochrony Kolei' (SOK) no es término normalizado"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero contiene invenciones ('de la empresa', matiz del Radmor), términos técnicos no normalizados y algún fragmento corrupto no resuelto."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el nombre del testigo 'Tvyomistrz' (probablemente 'toromistrz') en el bloque de declaraciones sobre el empalme",
+     "Se omite la palabra 'pociągu' en 'kierowca drezyny' donde el original dice 'Kierowca drezyny' pero en el contexto de ZRM22 se refiere a conductor del tren"
+    ],
+    "invenciones": [
+     "'tuercas de abrazadera' para 'śrub łubkowych' (debería ser 'pernos/tornillos de brida' o 'pernos de unión')",
+     "'pernos desenroscados' donde el original dice 'śrub' (tornillos/pernos) pero introduce 'pernos' no presente en esa frase",
+     "'auxiliar de circulación' para 'dyżurny ruchu' (término normalizado: 'jefe de circulación' o 'encargado de circulación')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'drezina' no traducido (debería ser 'dresina')",
+     "'microbús ferroviario' para 'mikrobus szynowy' (dresina ligera / vehículo ferroviario ligero)",
+     "'empalme no aislado' para 'styk nieizolowany' (junta aislante / junta no aislada)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con terminología ferroviaria no normalizada y algunas imprecisiones en términos técnicos clave."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el punto 6 falta la palabra 'prawdopodobnie' (probablemente) en la traducción de 'rawaosoconej kradzieży' (robo), aunque el término original está corrupto",
+     "Falta la referencia 'Instrukcji le-1' que en la traducción aparece como 'Instrucción Ir-1' en el segundo guion (posible confusión de código)",
+     "No se traduce el nombre del señor ni el fragmento entre comillas del original"
+    ],
+    "invenciones": [
+     "Se añade 'de inspección' para traducir 'drezyny' (dresina), término que no aparece en el original",
+     "Se traduce 'drezyny' como 'vía de inspección' en lugar de 'dresina'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'drezyna' traducido como 'vía de inspección' en lugar de 'dresina'",
+     "'mikrobus szynowy' traducido como 'microbús ferroviario' (aceptable) pero 'drezyna' mal traducido",
+     "'sygnalizator' como 'señalizador' (aceptable)"
+    ],
+    "comentario": "La traducción es mayormente fiel pero confunde el código de instrucción le-1 con Ir-1 y traduce 'drezyna' como 'vía de inspección' en lugar de 'dresina', además de omitir algún matiz."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Raport_Gliwice_16052010_part-2.md"
+ },
+ "md-es/PL/2010/Makolowiec_2-18082010.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   8,
+   10,
+   12
+  ],
+  "fidelidad_media": 89.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'señal de entrada' por 'semafor' (semáforo): en el original se distingue semafor de señal; 'podg' (puesto de enlace) traducido como 'estación de enlace'",
+   "'jefa de circulación' por 'dyżurna ruchu' (jefa/encargada de circulación) aceptable, pero 'jefes de circulación' pluraliza sin respaldo",
+   "'servicio de emergencias' por 'pogotowie ratunkowe' (ambulancia/urgencias médicas) no normalizado"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el nombre del maquinista (Pan .) ni se refleja el nombre propio en la audiencia (Pan | c.semnie)",
+     "Se omite la frase 'Wysłuchanie maszynistv nastaniło w śniu' con la fecha 20.08.2010 en su forma original (aunque se recoge la fecha)",
+     "No se traduce el fragmento 'który w tym czasie przebywał na zwolnieniu le'arskim' con precisión (se traduce como 'año en el que se encontraba en baja médica', alterando el sentido)"
+    ],
+    "invenciones": [
+     "Se añade 'D.' antes del nombre del maquinista, que no aparece en el original",
+     "Se traduce 'zwolnieniu le'arskim' como 'baja médica' cuando el original parece decir 'zwolnieniu lekarskim' (baja médica), pero la traducción añade 'año en el que' que no está en el original",
+     "Se introduce 'jefa de tráfico' para 'dyżurna ruchu' cuando en el original se usa 'dyżurna ruchu' (jefa de circulación) y en otro punto 'dyżurny ruchu' (jefe de circulación); la traducción no es consistente y añade género no presente"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'podg' traducido como 'apeadero' (debería ser 'puesto de bifurcación' o 'bifurcación')",
+     "'dyżurna ruchu' traducido como 'jefa de tráfico' (debería ser 'jefa de circulación')",
+     "'semafor wyjazdowy' traducido como 'señal de salida' (correcto, pero 'semafor' se traduce como 'señal' en lugar de 'semáforo')"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores numéricos (18.08.2020 en lugar de 18.08.2010), terminológicos (podg como apeadero) y omisiones de nombres propios y matices del original."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase inicial 'powtarzacza ssp a żadna zależność nie została naruszona' traducida de forma completa (se traduce solo 'repetidor ssp y ninguna dependencia fue violada', omitiendo el sujeto de la negación)",
+     "Falta el fragmento 'Po dokonani': stosownych zapisów...' no, está; falta la mención 'nie dokonali zapisów' vs 'no se realizaron copias' (matiz)",
+     "Falta la nota al pie 'Nepuurzebne skreślić' traducida como 'Innecesario tachar' (presente)"
+    ],
+    "invenciones": [
+     "'sala de mando de enlace Tychy' — el original dice 'nastawni dysponującej Tychy', no 'de enlace'",
+     "'formación en PRL' — el original dice 'szkolenie bhp' (formación en seguridad y salud laboral), no PRL",
+     "'jefe de estación' para 'zawiadowca' es aceptable, pero 'jefe de automatización' para 'mistrz automatyki' no es término normalizado"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'podg' (posterunek odgałęźny) traducido como 'estación de cambio de agujas' — debería ser 'puesto de bifurcación' o 'apeadero de bifurcación'",
+     "'nastawnia dysponująca' traducido como 'sala de mando de enlace' — debería ser 'cabina de mando' o 'puesto de mando'",
+     "'szkolenie bhp' traducido como 'formación en PRL' — debería ser 'formación en seguridad y salud laboral'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene invenciones terminológicas (PRL por bhp, 'de enlace') y omite matices del original; las cifras se mantienen correctas."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la palabra 'rok' tras '11.12.2010' (aunque no altera el sentido)",
+     "Falta el nombre del jefe de vía y del jefe de circulación (aparecen como 'toromistrz' y 'dyżurny ruchu Pan' sin nombre en el original, pero se omite el apellido en la traducción)",
+     "Falta la frase 'Termin i czas zamknięcia awaryjnego podyktowane było dostępnością...' se traduce parcialmente, pero se omite 'awaryjnego' en 'zamknięcia awaryjnego'"
+    ],
+    "invenciones": [
+     "Se añade 'apeadero' para traducir 'podg' (puesto de bloqueo), que no es exactamente apeadero",
+     "Se traduce 'toromistrz' como 'jefe de vía' y 'dyżurny ruchu' como 'jefe de circulación', pero se añade 'Sr.' que no está en el original",
+     "Se traduce 'pogotowia awaryjnego' como 'servicio de emergencia' (correcto), pero se añade 'del IZ Katowice' donde el original dice 'IZ Katowice'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'podg' traducido como 'apeadero' en lugar de 'puesto de bloqueo'",
+     "'toromistrz' traducido como 'jefe de vía' (aceptable, pero no normalizado)",
+     "'dyżurny ruchu' traducido como 'jefe de circulación' (aceptable)"
+    ],
+    "comentario": "La traducción omite varias fechas con 'rok' y cambia la fecha de validez del certificado de calibración de 30.07.2011 a 30.07.2010, además de omitir parte de las notas al pie."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'Kierownik pociągu 90036' como encabezado independiente (se integra en la primera frase, aceptable)",
+     "No se traduce el fragmento final truncado 'nie nakładają obowiązku' más allá de 'no imponen la obligación' (queda incompleto igual que el original, aceptable)",
+     "Se omite la nota al pie 'Niepotrzetsne skreślić' traducida como 'Tachar lo innecesario' (presente)"
+    ],
+    "invenciones": [
+     "Se añade 'de la estación de enlace' para 'podg' (podg = posterunek odgałęźny, no estación de enlace)",
+     "Se traduce 'Dyżurna ruchu' como 'jefa de circulación' (aceptable) pero se añade 'Sra.' donde el original tiene 'Pani'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'podg' (posterunek odgałęźny) traducido como 'estación de enlace' en lugar de 'puesto de bifurcación' o 'apartadero'",
+     "'sematora' errata del original por 'semafora' traducida correctamente como semáforo",
+     "'alkosensor AS IU' mantenido, correcto"
+    ],
+    "comentario": "Traducción fiel en cifras y estructura, pero 'podg' se vierte incorrectamente como 'estación de enlace' y hay pequeñas adiciones de tratamiento."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase inicial 'miał dłuższy postój' (tenía una parada más larga) que aparece truncada en la traducción como 'tenido una parada más larga'",
+     "Falta el fragmento 'Tor szlakowy nr 2 podg Mąkołowiec — Katowice '' ta 7nstał' que en la traducción se reduce a 'La vía de trazado nº 2 podg Mąkołowiec — Katowice fue cerrada'",
+     "No se traduce el nombre 'Pana 4' (señor 4) del original, que aparece como 'el día 4'"
+    ],
+    "invenciones": [
+     "'el día 4' no está en el original; el original dice 'Pana 4' (señor 4), no una fecha"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'jefe de vía' para 'toromistrza' es aceptable pero no normalizado; mejor 'jefe de vía/encargado de vía'",
+     "'corazón del desvío' para 'kierownicę rozjazdu' no es el término normalizado (debería ser 'contraaguja' o 'corazón' según norma; el original distingue 'kierownica' de 'krzyżownica')",
+     "'deriva del miembro B' para 'zarzuceniem członu B' es impreciso; 'człon' es 'módulo/vehículo' no 'miembro'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero omite fragmentos del original, introduce 'el día 4' donde el original dice 'Pana 4', y usa terminología ferroviaria no normalizada."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/PL/2010/Makolowiec_2-18082010.md"
+ }
+}

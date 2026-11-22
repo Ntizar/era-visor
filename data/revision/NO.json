@@ -1,0 +1,1569 @@
+{
+ "md-es/NO/2005/Slependen-200405.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   6,
+   12,
+   17,
+   23,
+   28
+  ],
+  "fidelidad_media": 81.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'signal \"kjør\"' traducido como 'señal \"paso\"' en lugar de 'señal \"vía libre\"' o 'señal \"marcha\"'",
+   "'signal \"vent kjør\"' traducido como 'señal \"espera paso\"' en lugar de 'señal \"espera vía libre\"'",
+   "'togleder' traducido como 'despachador' en lugar de 'jefe de circulación' o 'regulador de tráfico'",
+   "'sikringsanlegg' traducido como 'sistema de enclavamiento' en lugar de 'instalación de seguridad'",
+   "'stillverket' traducido como 'enclavamiento' (aceptable, pero no normalizado respecto a 'instalación de seguridad')"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 55,
+    "omisiones": [
+     "Título del informe: el original solo dice 'SANDVIKA STASJON 20. APRIL 2005' y la traducción añade un título largo sobre el bloque de señalización Slepend en noruego no presente en el fragmento",
+     "Falta la frase final truncada del original: 'Det er ikke havarikommisjonens oppgave å...' (solo se traduce parcialmente como 'No es tarea... atribuir culpa y responsabilidad', que no aparece en el original)"
+    ],
+    "invenciones": [
+     "Título 'INFORME SOBRE ACCIDENTES FERROVIARIOS GRAVES EN EL BLOQUE DE SEÑALIZACIÓN SLEPENDEN DEBIDO A UNA FALTA DE SEÑAL EN LA ESTACIÓN DE SANDVIKA EL 20 DE ABRIL DE 2005'",
+     "Correo electrónico: post@aibn.no",
+     "Frase 'No es tarea de la comisión de investigación de accidentes atribuir culpa y responsabilidad. Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad.'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'JB Rapport' traducido como 'Informe JB' es aceptable, pero el título noruego no se corresponde con el contenido traducido"
+    ],
+    "comentario": "La traducción añade un título y frases ausentes del original y omite el final truncado, por lo que requiere revisión."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la fila 'Comtroller' del diagrama (aparece 'Controlador' en la traducción, pero se omite la etiqueta original 'Comtroller' como término del esquema)",
+     "Falta 'lineblock' como término del esquema (se traduce como 'bloque de línea' pero no se mantiene la referencia)"
+    ],
+    "invenciones": [
+     "'enclavamiento electrónico de datos' para 'datastillverket' (el original no dice 'electrónico de datos')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'datastillverket' traducido como 'enclavamiento electrónico de datos' en lugar de 'enclavamiento' o 'instalación de enclavamiento'",
+     "'Controller'/'Comtroller' del esquema no normalizado",
+     "'Balise'/'balizas' inconsistente entre esquema y texto"
+    ],
+    "comentario": "La traducción es en general fiel, pero añade 'electrónico de datos' no presente en el original y presenta inconsistencias en los términos del esquema."
+   },
+   {
+    "pagina": 23,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase sobre la experiencia del proveedor en otras administraciones de infraestructura en el contexto de la funcionalidad de bloqueo de línea (parte del párrafo final del original)",
+     "Falta la mención de que el proveedor utilizaba el alemán como lengua de trabajo en el párrafo de especificaciones (presente en la traducción pero no en el original)",
+     "Falta la frase sobre los esquemas de relés como base para el desarrollo de la interfaz con el bloqueo de línea de relés (presente en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "Se añade el título '### Adaptación de SIMIS-C para la línea Gardermobanen' que no aparece en el original",
+     "Se añade la frase 'El contrato de la línea Gardermobanen (GMB) estaba organizado como un suministro integral en el que el proveedor era responsable del suministro completo de las instalaciones de señalización y seguridad, incluido el control remoto y el ATC.' que no está en el original",
+     "Se añade 'Fue la primera vez que se utilizaba este tipo de estándar contractual para el suministro de señalización, y ni el promotor ni el proveedor tenían experiencia en el uso del mismo.' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'fjernstyring og ATC' traducido como 'control remoto y el ATC' es aceptable, pero el original noruego usa 'fjernstyring' que en ferrocarril se normaliza como 'mando a distancia' o 'control de tráfico centralizado'",
+     "'anlegg' traducido como 'instalaciones' es correcto, pero en contexto ferroviario podría ser 'instalación'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones que alteran el contenido del original, aunque las cifras se mantienen."
+   },
+   {
+    "pagina": 28,
+    "fidelidad": 78,
+    "omisiones": [
+     "Frase del original: 'engelsk kunne ha hindret at den aktuelle feilen i programvaren oppstod' (parte inicial de la frase sobre traducción al inglés)",
+     "Fragmento: 'Det er derfor heller ikke sannsynlig at feilsituasjonen funksjonsorientert kravspesifikasjon' (cierre de la frase sobre la especificación orientada a funciones)",
+     "Frase: 'Det er brukt metoder som svarer til' queda truncada en el original pero la traducción añade contenido no presente"
+    ],
+    "invenciones": [
+     "'Es poco probable que un mejor proceso de traducción de la especificación de requisitos noruega al inglés' — el original solo dice 'engelsk kunne ha hindret', sin mencionar 'mejor proceso de traducción' ni 'noruega'",
+     "'ya que surgió como consecuencia de circunstancias que son específicas del sistema y que no pertenecen de forma natural a una especificación de requisitos orientada a las funciones' — añadido no presente en el original",
+     "'La adaptación de SIMIS-C para la línea de Gardermobanen' — el original no menciona 'adaptación'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'funksjonsorientert kravspesifikasjon' traducido como 'especificación de requisitos orientada a las funciones' — aceptable pero el original está truncado",
+     "'linjeblokkfunksjonen' traducido como 'función de bloqueo de línea' — correcto",
+     "'sikringsanlegg' traducido como 'sistema de señalización' — aceptable"
+    ],
+    "comentario": "La traducción es fluida pero contiene varias invenciones y omisiones que alteran el contenido del original, especialmente en la sección sobre la traducción al inglés y en la descripción de métodos y validación."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/Slependen-200405.md"
+ },
+ "md-es/NO/2005/Bergensbanen-231205.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 81.7,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Oppholdsvær' traducido como 'Cielo despejado con nubes dispersas' en lugar de 'tiempo sin precipitaciones'",
+   "'Sammenstøt med ras' traducido como 'Colisión con desprendimiento' cuando sería más preciso 'Colisión con alud/desprendimiento de tierras'",
+   "'rotura por heladas' por 'frostsprengning' (término normalizado: gelifracción o crioclastia)",
+   "'almacén' por 'magasin' (debería ser 'depósito' o 'cuenco de retención')",
+   "'cauce del desprendimiento' por 'rasløpet' (debería ser 'trayectoria/canal del desprendimiento')",
+   "'farallón' por 'fjellhammer' (debería ser 'pared rocosa' o 'risco')"
+  ],
+  "fallos": [
+   {
+    "pagina": 4,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial 'rød beredskap' y el contenido sobre 'grønn beredskap aktiviserer økt visitasjon, gul beredskap medfører redusert beredskapsnivå' (solo se traduce parcialmente y se añade contenido no presente)",
+     "Falta el final del original: 'I følge deres rapport var raset totalt på 500m³ og ble utløst i en ur ca 40 høydemeter over' (cortado)",
+     "Falta 'I sammenstøtet med raset klarte lokomotivet seg ganske bra og var kjørbart etter at plogen var' (cortado)"
+    ],
+    "invenciones": [
+     "'la emergencia amarilla conlleva una reducción de la velocidad de circulación y la emergencia roja conlleva la suspensión de todo el tráfico en zonas donde haya clima extremo' no está en el original",
+     "'No había condiciones meteorológicas previas al suceso que hubieran activado ningún nivel de emergencia' no está en el original",
+     "Toda la sección sobre el geólogo del Consejo Estatal de Carreteras, el informe de 500m³, el alud de 40 metros, el esquisto de mica y gneis, los bloques de roca, el desplazamiento de 0,5 metros, etc., no aparece en el original (el original está cortado)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'beredskap' traducido como 'emergencia' en lugar de 'alerta' o 'nivel de preparación'",
+     "'visitasjon' traducido como 'inspección' (podría ser 'visitación' o 'inspección', pero el original distingue 'økt visitasjon')",
+     "'ras' traducido como 'desprendimiento' y 'avsporing' como 'descarrilamiento' (correcto, pero el original distingue 'jord/steinras', 'is/snøras', 'vannmasser/tre over linjen')"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones graves, especialmente en la sección final donde el original está cortado y la traducción añade contenido no presente."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase sobre el aviso al servicevakten de GSM-R en su contexto original (se conserva parcialmente)",
+     "Falta la frase 'tilgjengelige indikasjonene for togleder om at noe kan være galt...' en su forma original (se parafrasea)",
+     "Falta el final de la frase sobre el comité multidisciplinar: 'sikre de forskjellige banestrekningene' (se parafrasea)"
+    ],
+    "invenciones": [
+     "Se añade un párrafo completo sobre el desprendimiento en Nordlandsbanen del 08.09.2006 y daños en el cable de fibra óptica que no está en el original",
+     "Se añade 'La Comisión de Investigación de Accidentes considera que dicha notificación también debería remitirse al director de tráfico' que no está en el original",
+     "Se añade 'estar por delante de las situaciones que puedan surgir debido a las condiciones meteorológicas' no presente"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'rasstedet' traducido como 'lugar del desprendimiento' en lugar de 'lugar del corrimiento/deslizamiento'",
+     "'rasvarslingsanlegg' traducido como 'sistema de alerta de desprendimientos' (aceptable pero no normalizado)",
+     "'togleder' traducido como 'director de tráfico' (término no normalizado; debería ser 'jefe de circulación')"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, altera cifras (fecha 08.09.2006 no presente en el original) y no respeta la estructura del texto original."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/Bergensbanen-231205.md"
+ },
+ "md-es/NO/2005/Holmenkollbanen-291105.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "fidelidad_media": 74.3,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'slepestykkets operative område' traducido como 'área operativa del patín' (aceptable); 'strømavtager' como 'colector de corriente' (correcto)",
+   "'seksjonsskille' traducido como 'seccionador' (podría ser 'separación de secciones')",
+   "'director de tráfico'/'dirección de tráfico' para 'trafikkleder' (podría normalizarse como 'jefe de circulación' o 'regulador de tráfico')",
+   "'sistema de seguimiento de la explotación del Metro de Oslo' para 'oppfølgingssystemet til Oslo T-banedrift' (aceptable, pero 'T-banedrift' es la empresa explotadora, no necesariamente 'Metro')"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase introductoria sobre el formato de informe simplificado que aparece truncada en el original ('forenklet rapportformat. En full rapport benyttes bare når undersøkelsens omfang gjør dette nødvendig...')",
+     "Falta la línea 'Skader på materiell:' como encabezado separado (el original tiene 'Skader på materiell:' y 'Andre skader:' como campos distintos)"
+    ],
+    "invenciones": [
+     "Correo electrónico: post@aibn.no (no aparece en el original)",
+     "Daños por incendio en un coche, así como pantógrafo destruido en el otro tren (no está en el original; el original deja 'Skader på materiell:' sin contenido)",
+     "Frase 'Esta investigación ha tenido un alcance limitado. Por este motivo, SHT ha optado por utilizar un formato de informe simplificado.' que no figura en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Cielo despejado' para 'Oppholdsvær' (debería ser 'tiempo sin precipitaciones' o 'sin precipitaciones')",
+     "'Luz natural' para 'Dagslys' (más preciso 'luz de día')",
+     "'Instalación de catenaria (KL)' para 'KL-anlegget' (KL se refiere a kontaktledningsanlegg, pero la traducción añade 'catenaria' sin normalizar)"
+    ],
+    "comentario": "La traducción añade contenido ausente (correo, daños materiales, frases finales) y omite parte del texto introductorio, aunque las cifras y datos clave se mantienen."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial sobre el lugar y la naturaleza del suceso: 'En alvorlig jernbanehendelse fant sted på Holmenkollbanen mellom stasjonene Slemdal og Ris'",
+     "Falta la mención de que el tren 101 tenía un coche con daños por fuego ('brannskadde tog 101', 'vognen i tog 101')",
+     "Falta la frase 'Toget stoppet ca' (el original está truncado, pero la traducción añade 'a unos 100 metros' que no aparece)"
+    ],
+    "invenciones": [
+     "Añade fecha y hora: 'el martes 29 de noviembre de 2005, a las 0928'",
+     "Añade 'Los pantógrafos fueron arrancados de dos trenes de metro en la Frognerseterbanen'",
+     "Añade 'El hilo de contacto cayó sobre el techo y provocó un incendio en uno de los trenes'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'tirante' por 'bardun' es aceptable, pero el original usa 'bardun' (tirante/viento) y la traducción no normaliza",
+     "'colector de corriente' por 'pantógrafo' (pantograf) no es el término normalizado; el original usa 'Pantografen'",
+     "'hilo de contacto' por 'kontaktledning' es correcto, pero se mezcla con 'sistema de hilo de contacto'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (fecha, hora, cifras, pies de figura y frases completas ausentes del original) y omite el encabezado y detalles clave, por lo que no es fiel."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase sobre el tren 101 detenido entre Slemdal y Ris, a unos 100 metros por debajo del tren 103 en la vía Majorstuen – (texto original truncado)",
+     "Falta la referencia a que los pasajeros abandonaron el vagón trasero por sus propios medios (presente en traducción pero no en original)",
+     "Falta 'dørene' (puertas) del original"
+    ],
+    "invenciones": [
+     "'Ninguno de los viajeros a bordo del tren resultó físicamente herido'",
+     "'El tren 101, que se incendió, se había detenido entre las estaciones Slemdal y Ris, a unos 100 metros por debajo del tren 103, que se encontraba en la vía Majorstuen – Frognerseteren'",
+     "'Los pasajeros abandonaron el vagón trasero del tren 101 de inmediato por sus propios medios'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Seksjonsdele' traducido como 'División de sección' (debería ser 'seccionamiento' o 'división de sección' normalizado)",
+     "'Defekte barduner' traducido como 'Bardunas defectas' (concordancia incorrecta; debería ser 'bardunas defectuosas')",
+     "'stoppsko' traducido como 'tope de parada' (debería ser 'calzo de frenado' o 'zapata de vía')"
+    ],
+    "comentario": "La traducción inserta varios párrafos ausentes del original y omite fragmentos clave, además de alterar cifras y términos técnicos."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'med tog spenningen' y el contexto del tren 403 en el original (el original está truncado, pero no incluye 'tren 403' ni el incendio en el techo)",
+     "Falta la referencia a la Figura 6 en el original (la traducción la añade, no está en el original)",
+     "Falta 'Trafikkledelsen har ikke hatt utfylt/planlagt koblingsordre fra leder for sikkerhet i anleggsavdelingene' tal como aparece; la traducción lo reformula y añade contenido"
+    ],
+    "invenciones": [
+     "Figura 6: Imagen de la separación de sección, equivalente a la que se cortocircuitó y quemó",
+     "tren 403",
+     "se produjo un incendio en el techo durante un arco eléctrico por un pantógrafo dañado"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'jordingsledningen' traducido como 'conductor de tierra' en lugar de 'línea de puesta a tierra'",
+     "'seksjonsskille' traducido como 'separación de sección' en lugar de 'seccionador de sección'",
+     "'KL-strøm' mantenido sin normalizar"
+    ],
+    "comentario": "La traducción añade numerosos pasajes ausentes del original truncado y omite/reformula contenido clave, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/Holmenkollbanen-291105.md"
+ },
+ "md-es/NO/2005/NO-631 - Temarapport-T-bane.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   17,
+   22,
+   27
+  ],
+  "fidelidad_media": 85.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'sikkerhetsstyringssystem' traducido como 'sistema de gestión de la seguridad' es aceptable, pero 'kravforskriften' se traduce como 'reglamento de requisitos' de forma ambigua; convendría normalizar 'reglamento de requisitos' frente a 'reglamento de formación' y 'reglamento de requisitos de salud'",
+   "'sidespor' como 'vías de apartadero' es correcto; 'sporvei, tunnelbane og forstadsbane' se mantiene coherente",
+   "'kjørebremsemotstand' traducido como 'resistencia de frenado de marcha' en lugar de 'resistencia del freno de servicio/marcha' (término no normalizado)",
+   "'vindrelè' traducido como 'relé de ventilación' cuando se refiere al relé del ventilador de la resistencia de frenado",
+   "'trafikkledersentral' como 'central de dirección de tráfico' (aceptable pero no normalizado; 'central de control de tráfico')",
+   "'gravaarbeider' como 'trabajos de zanja' (debería ser 'trabajos de excavación')"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "Debe evitarse el uso de este informe para fines distintos del trabajo de seguridad preventiva."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade una frase ausente en el original y omite la mención de que el propósito es también promover recomendaciones de forma explícita, aunque el resto es fiel."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "En la tabla de la Figura 2 falta la fila 'Sikkerhetsmessige rammebetingelser' (condiciones marco de seguridad) como columna/fila del esquema original",
+     "Falta la etiqueta 'Fellesnevnere er' como encabezado diferenciado; se fusiona en la lista"
+    ],
+    "invenciones": [
+     "Se añade 'Análisis de factores causales' como etiqueta que no aparece literalmente en el original en esa posición",
+     "Se introduce 'Evaluar de conjunto' donde el original dice 'Vurderes samlet'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'kjørebremsemotstand' traducido como 'resistencia de frenado de rodadura' (debería ser 'resistencia del freno de servicio/marcha')",
+     "'trafikkledere' como 'reguladores del tráfico' (más habitual 'jefes de tráfico')",
+     "'sikkerhetsledelse' como 'gestión de la seguridad' (aceptable, pero no normalizado)"
+    ],
+    "comentario": "La traducción es fiel en lo esencial, pero omite parte del esquema de la Figura 2 y presenta terminología técnica mejorable."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'Infrastrukturen strømforsyningssystemet finnes i avsnitt 2.6.1' en su forma original (se reescribe y amplía)",
+     "Falta el inicio de la sección 2.3.3: 'forhold til kraftoverføringen' aparece sin el contexto previo del original (el original comienza la frase de forma truncada, pero la traducción añade contenido)",
+     "No se recoge la referencia 'Figur 11: Bilde av kjørebremsemotstand etter lysbue' con el mismo término (kjærebremsemotstand = resistencia del freno de servicio/rodadura, no 'frenado de rodadura')"
+    ],
+    "invenciones": [
+     "'La infraestructura consiste, entre otros elementos, en la vía y los sistemas de suministro de energía eléctrica' no está en el original",
+     "Se añade la Figura 12: 'Imagen de cables dañados y expuestos junto a la vía', inexistente en el original",
+     "'En relación con el cambio de motores, en algunos casos no se han montado a la altura correcta' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'kjørebremsemotstand' traducido como 'resistencia al frenado de rodadura' (debería ser resistencia del freno de servicio/rodadura)",
+     "'strømførende kabler' como 'cables conductores de energía' (mejor 'cables con tensión/cables conductores')",
+     "'motorhavarier' como 'averías de motores' (aceptable, pero 'fallo del motor' como título de 2.3.3 no normaliza 'Motorfeil')"
+    ],
+    "comentario": "La traducción añade frases y una figura inexistentes y omite/reformula partes del original, por lo que requiere revisión."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "consumo de corriente en cada tren individual (el original dice 'strømforbruket i hvert enkelt tog' = consumo de corriente de cada tren, no 'en cada tren individual')",
+     "consume una corriente de arranque más alta (el original dice 'trekker høyere' = consume/tira más alto, sin especificar 'de arranque')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'instalación de línea aérea de contacto' para KL-anlegg: KL se refiere a kontaktledning (línea aérea de contacto), pero el término noruego 'strømforsyningsanlegg' es instalación de suministro eléctrico; la traducción mezcla ambos y pierde la distinción",
+     "'tercer raíl' para strømskinne: strømskinne es barra/riel conductor, no necesariamente tercer raíl; término no normalizado",
+     "'fallos detenientes y no detenientes' para stoppende/ikke stoppende feil: traducción literal no normalizada; debería ser 'fallos que detienen/paran' o 'fallos con parada/sin parada'"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero presenta invenciones menores y términos técnicos no normalizados (KL-anlegg, strømskinne, stoppende feil)."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/NO-631 - Temarapport-T-bane.md"
+ },
+ "md-es/NO/2006/2007-10 Dover-Dombas-260706.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 96.5,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mastilas' es erróneo; el término correcto es 'mástiles' (postes de catenaria)",
+   "'acierto de 110 mm' debería ser 'peralte de 110 mm' (cant)",
+   "'mastilas de hilo de contacto' debería ser 'postes/mástiles de catenaria' (overhead conductor masts)",
+   "'semicorte' debería normalizarse como 'desmonte parcial/media trinchera' (semi-cutting)",
+   "'de pie' para 'on its end' es ambiguo; mejor 'en posición vertical/apoyado sobre un extremo'",
+   "'antennae were set out' traducido como 'se instalaron balizas' (posible término técnico ferroviario no normalizado)"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/2007-10 Dover-Dombas-260706.md"
+ },
+ "md-es/NO/2005/Bergensbanen-ENsummary-231205.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 86.2,
+  "fidelidad_min": 70,
+  "sin_dictamen": [],
+  "terminos": [
+   "'togleder' traducido como 'regulador de tráfico' en lugar de 'jefe de circulación/control de tráfico'",
+   "'semitrailere' traducido como 'semirremolques' cuando lo habitual es 'semirremolques' (aceptable) pero 'vogner para semirremolques' podría normalizarse como 'vagones portasemirremolques'",
+   "'cortejación' es un término inexistente; el original 'frostsprengning' significa 'gelifracción' o 'meteorización por hielo'",
+   "'130 metros de altura' traduce mal '130 høydemeter' (desnivel/altura de 130 m), no una longitud de 130 m",
+   "'almacén' para 'magasin' (cuenco/depósito de retención) es poco técnico",
+   "'masas sueltas en altura' por 'løse masser i høyden' aceptable pero 'en la parte alta' sería más preciso"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'rapportformat. En full rapport benyttes bare når undersøkelsens omfang gjør dette nødvendig. Den forenklede rapporten belyser de funn som er gjort og fremlegger eventuelle sikkerhetsmessige tilrådinger.' en su ubicación original (se sustituye por texto parafraseado)",
+     "Falta la línea 'Correo electrónico: post@aibn.no' no aparece en el original"
+    ],
+    "invenciones": [
+     "Se añade 'Correo electrónico: post@aibn.no' que no está en el original",
+     "Se añade la frase 'Esta investigación ha tenido un alcance limitado. Por este motivo, la SHI ha optado por utilizar un formato de informe simplificado.' que no está en el original",
+     "Se añade 'Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad.' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Sammenstøt med ras' traducido como 'Colisión con desprendimiento' (aceptable, pero 'ras' es desprendimiento de tierra/roca; convendría normalizar)",
+     "'Fjernstyring' traducido como 'Control remoto' (término técnico ferroviario: 'mando centralizado' o 'control de tráfico centralizado')",
+     "'Bremsegruppe P' como 'Grupo de frenado P' (correcto)"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisiones de texto original, invenciones (correo y frases añadidas) y algún término técnico mejorable."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase original 'forutsetningene for' que inicia la oración sobre las premisas de las evaluaciones anteriores (el original está truncado pero la traducción añade contenido no presente)",
+     "Falta el fragmento original 'servicevakten for Jernbaneverkets GSM-R telenett, men ikke til togleder' aparece parcialmente, pero se omite la referencia a que no se notificó al togleder en el contexto original (se traduce como 'jefe de maniobras' sin correspondencia exacta)",
+     "Falta la parte final del original 'banestrekningene' que cierra la frase sobre el trato uniforme (la traducción añade 'Esto se considera una contribución positiva' que no está en el original)"
+    ],
+    "invenciones": [
+     "Se añade un párrafo completo sobre el desprendimiento en Nordlandsbanen el 08.09.2006 y daños en cable de fibra óptica que no aparece en el original",
+     "Se añade 'Parece que es necesario realizar una revisión y actualización de los análisis de trazada de las distintas trazadas ferroviarias' que no está en el original",
+     "Se añade 'y por lo tanto puede ser necesaria una revisión y actualización de los mismos' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'togleder' traducido como 'jefe de maniobras' en lugar de 'jefe de circulación' o 'controlador de tráfico'",
+     "'linjeblokk' traducido como 'bloqueo de línea' (aceptable) pero 'fjernstyring' como 'mando remoto' podría normalizarse como 'control remoto' o 'telemando'",
+     "'skinnebrudd' traducido como 'rotura de raíl' (correcto) pero 'skinnestreng' como 'raíl' pierde el matiz de 'hilo de carril'"
+    ],
+    "comentario": "La traducción inserta un párrafo entero ausente del original y varias frases explicativas no presentes, además de omitir fragmentos del texto original."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 70,
+    "omisiones": [
+     "El apartado SUMMARY del original se mantiene íntegramente en inglés en la traducción, sin traducir al castellano"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "'Jernbaneverk' sin normalizar (debería ser 'Jernbaneverket')",
+     "'Statens Jernbanetilsyn' se traduce como 'Autoridad Ferroviaria Estatal' en lugar de mantener el nombre oficial o su equivalente normalizado"
+    ],
+    "comentario": "La parte noruega está bien traducida, pero el SUMMARY completo queda sin traducir al castellano, lo que constituye una omisión grave de contenido."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/Bergensbanen-ENsummary-231205.md"
+ },
+ "md-es/NO/2006/2007-11 Rade-060706.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 95.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'vagón vacío adicional matriculada' (concordancia de género incorrecta, debería ser 'matriculado')",
+   "'plataforma ferroviaria' para 'trackway' podría no ser el término normalizado; se sugiere 'plataforma de vía' o 'zona de vía'",
+   "'tamped' traducido como 'estabilizó' en lugar de 'bateó/apisonó' (técnicamente el bateo de la vía)",
+   "'survey wagon' como 'vagón de topografía' podría normalizarse a 'vagón de auscultación'",
+   "'crushed ballast' como 'balasto triturado' debería ser 'balasto machacado/deteriorado'",
+   "'manual tamping' traducido como 'estabilización manual' en lugar de 'bateo/compactación manual'"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'The track was later tamped' con la misma estructura (se añade 'posteriormente' pero se omite el matiz de 'later' respecto a la neutralización)",
+     "Se omite la frase final incompleta 'awareness of the danger of' queda truncada igual que el original, pero no se marca"
+    ],
+    "invenciones": [
+     "Se añade 'estabilizó (tampó)' y 'estabilización' donde el original solo dice 'tamped'/'tamping', introduciendo un término no presente",
+     "Se añade 'topografía' como traducción de 'survey reference points' (original: 'fixed survey reference points')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'buckling' traducido como 'acodamiento' en lugar de 'pandeo' (término normalizado en ferrocarriles)",
+     "'tamping' traducido como 'estabilización' en vez de 'bateo' o 'compactación'",
+     "'survey reference points' traducido como 'puntos de referencia fijos de topografía' en lugar de 'puntos fijos de referencia topográfica'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con terminología ferroviaria no normalizada ('acodamiento' por 'pandeo', 'estabilización' por 'bateo') y alguna adición interpretativa."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/2007-11 Rade-060706.md"
+ },
+ "md-es/NO/2005/Slependen-ENver-200405.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   6,
+   12,
+   18,
+   23,
+   29
+  ],
+  "fidelidad_media": 97.3,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'block signal station' traducido como 'estación de señales de bloqueo' en lugar de 'estación de señales de bloqueo/distante' (término no normalizado)",
+   "'interlocking system' como 'sistema de enclavamiento' es correcto"
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la etiqueta 'local operator workplace' como bloque separado (se fusionó en 'puesto de trabajo del operador local')",
+     "Falta 'Controller' correctamente asociado; el original dice 'Comtroller' junto a points/track circuits",
+     "Falta la palabra 'signals' como etiqueta independiente antes de 'Balise'"
+    ],
+    "invenciones": [
+     "Se añade 'enclavamiento' antes de 'ESTW' en 'enclavamiento ESTW' (el original solo dice 'adjacent ESTW')",
+     "Se reordena 'Bus adyacente en el' sin correspondencia exacta con 'Bus in Generic'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Interfaz de Control Automático de Tren' para 'Automatic Train Control Interface' es aceptable pero no normalizado; se suele usar 'Interfaz de Control Automático de Trenes'",
+     "'ordenador de interfaz' para 'Interface computer' correcto",
+     "'agujas' para 'points' es término ferroviario correcto"
+    ],
+    "comentario": "La traducción es mayormente fiel pero presenta omisiones en etiquetas del diagrama y alguna invención/reordenamiento en la zona 'ESTW/Bus in Generic'."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/Slependen-ENver-200405.md"
+ },
+ "md-es/NO/2006/Fla Bergensbanen-061106.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   2,
+   5,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 85.3,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'pizarra gruesa' para 'grovpukk' (debería ser 'grava gruesa' o 'balasto grueso')",
+   "'Baneproducción' por 'Baneproduksjon' (nombre propio de organismo, no traducir)",
+   "'frente este/oeste' para 'østre/vstre påhugg' (más preciso 'embocadura/boquilla este/oeste')",
+   "'guardia administrativa' para 'administrasjonsvakt' (aceptable, pero 'guardia de administración' sería más literal)",
+   "'tunnelpåhugg' traducido como 'excavación en la ladera del túnel' en lugar de 'boca/embocadura del túnel'",
+   "'sikkerhetstilråding' como 'recomendación de seguridad' es aceptable, pero 'Statens Havarikommisjon for Transport' se traduce de forma inconsistente ('Comisión de Investigación de Accidentes' vs 'Comisión Estatal de Investigación de Accidentes de Transporte')"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "Debe evitarse el uso de este informe para fines distintos del trabajo de seguridad preventiva."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade una frase inexistente en el original; el resto es fiel."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la primera línea del original: 'igjen ved avsporingsstedet.'",
+     "Falta la línea 'rensk av strekningen.'",
+     "Falta la frase noruega 'Havarikommisjonen fremmer 2 sikkerhetstilrådninger. Den ene retter seg mot hensiktsmessigheten trekkraftkjøretøyer.' (solo aparece parcialmente en la traducción)"
+    ],
+    "invenciones": [
+     "Párrafo inicial completo sobre todos los coches cama descarrilados, ayuda militar, cajas de baterías e iluminación de emergencia (no está en el original)",
+     "Párrafo sobre el acceso por el puente sobre el río Hallingdal, camino forestal, punto de giro a 500 metros, evacuación en grupos, autobús a Flå, comida y transporte a Bergen, evacuación entre 0830 y 0900 (no está en el original)",
+     "Párrafo sobre el lugar no propenso a desprendimientos, frío intenso, nevadas, deshielo, formación de hielo e inspecciones del 3 al 5/11 (no está en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'hensiktsmessigheten trekkraftkjøretøyer' traducido como 'fijación/anclaje de equipos... en vehículos de tracción' en lugar de 'idoneidad de los vehículos de tracción'",
+     "'trafikkstyrer'/'regulador de tráfico' podría normalizarse como 'controlador de tráfico'"
+    ],
+    "comentario": "La traducción añade varios párrafos ausentes del original y omite las primeras líneas noruegas, aunque el resumen en inglés está bien trasladado."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la fila 'Omkommet' (fallecidos) con sus valores en la tabla de lesiones; la traducción deja la fila vacía",
+     "Falta la fila 'Alvorlig' con valores 1 y 1; la traducción la traslada a 'Graves' pero omite la columna 'Otros' correctamente vacía",
+     "Falta la fila 'Lett' con valor 1 en tripulación; la traducción la deja vacía"
+    ],
+    "invenciones": [
+     "La tabla traducida reorganiza las categorías noruegas (Omkommet/Alvorlig/Lett/Ingen) en filas distintas (Fallecidos/Graves/Leves/Ninguna) alterando la correspondencia original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'skled på buken' traducido como 'se deslizó por el zaguán' es incorrecto; debería ser 'se deslizó sobre el vientre/panza'",
+     "'jordvoll' traducido como 'terraplén' podría ser 'caballón de tierra' o 'talud de tierra'",
+     "'strømavtagerbrønn' traducido como 'pozo de los colectores de corriente' es aceptable pero poco normalizado"
+    ],
+    "comentario": "La traducción es mayormente fiel pero la tabla de lesiones está mal estructurada y se pierden correspondencias de filas/columnas, además de un error léxico en 'skled på buken'."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la referencia a 'Forskrift 7. februar 2005 nr. 113' como 'Reglamento' (se traduce pero se omite la palabra Forskrift como norma noruega)",
+     "No se traduce 'robelføreren' correctamente (se deja 'robelf' sin traducir)"
+    ],
+    "invenciones": [
+     "'Jefe de Línea de la línea de Bergen' añade 'de la línea' no presente en 'Banesjefen for Bergensbanen'",
+     "'IRV Explotación' traduce 'Drift' como 'Explotación' (aceptable pero no literal)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'lokomotivfører' traducido como 'maquinista' (correcto) pero 'robelføreren' queda como 'conductor de la robelf' sin normalizar",
+     "'Registrerende hastighetsmålerutstyr og datalogger' traducido como 'Equipo de medición de velocidad registrador y registrador de datos' (redundante y poco normalizado)",
+     "'konduktørpersonale' como 'personal de revisores' (aceptable, pero 'conducción' o 'interventores' según norma)"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero presenta omisiones terminológicas y alguna invención menor en topónimos/cargos."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Fla Bergensbanen-061106.md"
+ },
+ "md-es/NO/2005/Vestfoldbanen-310805.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   5,
+   9,
+   13,
+   17,
+   21
+  ],
+  "fidelidad_media": 91.5,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'planoverganger' traducido como 'pasos a nivel' es correcto, pero 'usikrede planoverganger' se traduce como 'pasos a nivel no protegidos' en lugar de 'no asegurados'/'sin protección', término más normalizado en informes ferroviarios",
+   "'singel information signal' (original con errata) traducido como 'una sola señal de información' es aceptable",
+   "'level crossing trap door' traducido como 'trampilla del paso a nivel' es correcto",
+   "'midtlem' traducido como 'pieza central' en lugar de 'semibarrera/contraaguja central'",
+   "'sidelemmer' como 'piezas laterales' en vez de 'semibarreras laterales'",
+   "'togleder' como 'director de tráfico' y 'togledersentral' como 'centro de mando de trenes' (no normalizado)"
+  ],
+  "fallos": [
+   {
+    "pagina": 21,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase sobre el tiempo de 17 segundos en las mediciones de la comisión (el original dice '17 sekunder ved havarikommisjonens målinger', la traducción solo recoge 14-17 segundos)",
+     "Falta la mención de que la iluminación de la sala de máquinas normalmente está apagada y que está completamente oscuro (frase inventada en la traducción, no en el original)",
+     "Falta la frase sobre la activación del sistema de extinción por el incendio en el camión y la cabina (inventada en la traducción)"
+    ],
+    "invenciones": [
+     "El conductor confirmó la experiencia del 31.08.2005",
+     "El vehículo se detuvo cuando estaba justo en medio del paso a nivel y no pudo continuar",
+     "La iluminación de la sala de máquinas está normalmente apagada, de modo que está completamente oscuro en su interior"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "planovergangen traducido como 'paso a nivel' (correcto), pero se añade 'poco/no en uso (principalmente pasos agrícolas/ganaderos)' que no está en el original",
+     "drivakselen traducido como 'eje motriz' (correcto), pero 'dekkene' se traduce como 'neumáticos' en lugar de 'ruedas' o 'bandas de rodadura'",
+     "havarikommisjonen traducido como 'comisión de investigación de accidentes' (correcto)"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, especialmente en la sección sobre gases de incendio, y altera cifras clave como el tiempo de 17 segundos."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2005/Vestfoldbanen-310805.md"
+ },
+ "md-es/NO/2006/Bekkelaget-Rapport-080506.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 82.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'lokomotiv' traducido como 'locomotor' (en español ferroviario se usa 'locomotora')",
+   "'lufteventilene' traducido como 'las ventilaciones' (mejor 'rejillas/ventilaciones de aire')",
+   "'røykdykkere' traducido como 'equipos de respiración autónoma' (se refiere a bomberos con equipo de respiración, no al equipo)",
+   "'locomotor' por 'locomotora' (calco del noruego 'lokomotiv')",
+   "'cables de entrada y salida' por 'kabler til og fra' (cables hacia y desde)",
+   "'cuya aislamiento' concordancia incorrecta (el aislamiento)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase introductoria sobre el formato de informe simplificado que aparece truncada en el original (aunque el original está truncado, la traducción añade contenido no presente)"
+    ],
+    "invenciones": [
+     "Correo electrónico: post@aibn.no (no aparece en el original)",
+     "Frase 'Esta investigación ha tenido un alcance limitado. Por este motivo, SHT ha optado por utilizar un formato de informe simplificado.' que no está en el original",
+     "Frase final 'No es tarea de la comisión de investigación de accidentes repartir culpa y responsabilidad. Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad.' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'locomotor' por 'lokomotiv' (locomotora) no normalizado",
+     "'sala de máquinas' por 'maskinrom' (sala de máquinas/cuarto de máquinas) aceptable pero 'locomotor' es incorrecto",
+     "'Cubierto con claros' por 'Overskyet oppholdsvær' (nublado sin precipitación) es impreciso"
+    ],
+    "comentario": "La traducción añade frases ausentes del original y usa 'locomotor' en lugar de 'locomotora', aunque las cifras y datos clave se mantienen."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la primera frase del original: 'utsatt for olje og er OK.' (contexto de la figura 7)",
+     "Falta la frase 'Disse lokomotivene er i hovedsak' (quedó cortada y sin traducir)",
+     "Falta el fragmento 'lignende problemer og som har god kjennskap til konstruksjon og historikk på RC4 lokomotiver.' tal como aparece, y se omite la referencia a EuroMaint AB en Örebro que no está en el original"
+    ],
+    "invenciones": [
+     "'Figura 6 Muestra una de las mangueras plásticas de aceite refrigerante.' no está en el original",
+     "'Figura 7 Muestra el aislamiento de los cables, que estaba desintegrado, afectado por las fugas de aceite.' no está en el original",
+     "'Estos locomotores están construidos principalmente con la misma estructura que el EL16, pero tienen una potencia instalada menor.' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'locomotores' por 'lokomotiver' (aceptable, pero el original usa 'lokomotiver' consistentemente)",
+     "'inversor de tracción' por 'vekselretter for traksjon' (correcto)",
+     "'arandelas de expansión' por 'sprengskiver' (correcto)"
+    ],
+    "comentario": "La traducción añade figuras y detalles técnicos ausentes en el original y omite frases clave, por lo que requiere revisión."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'tilsvarende det som har blitt utført på RC4 lokomotivene' como inicio de párrafo independiente (se integra en la recomendación, pero se omite su función original)",
+     "Falta la frase 'Det er vanskelig å fastslå den direkte årsaken' completa: la traducción añade contenido tras ella en lugar de mantener la oración truncada del original"
+    ],
+    "invenciones": [
+     "'Estos cambios realizados en los locomotores RC4 eran conocidos por CargoNet, así como por NSB como antiguo propietario de los locomotores EL16, pero no se han llevado a cabo en estos locomotores.' — párrafo inexistente en el original",
+     "'Lo más probable es que se debiera a un cortocircuito en los cables de alta tensión como consecuencia de un aislamiento degradado por la acción del aceite y/o por desgaste mecánico. Sin embargo, no puede descartarse que el incendio pudiera haberse iniciado como consecuencia de la formación de chispas o de un sobrecalentamiento en un borne de conexión.' — contenido no presente en el original",
+     "'Para evitar incendios similares, la comisión de investigación recomienda que...' — el original no formula recomendación explícita en este fragmento"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'locomotores' por 'lokomotiver' (ortografía incorrecta, debería ser 'locomotoras')",
+     "'inversor de tracción' por 'vekselretter traksjon' (aceptable, pero no normalizado)",
+     "'arco eléctrico' por 'overslag' (sobretención/descarga, no exactamente arco)"
+    ],
+    "comentario": "La traducción añade un párrafo entero y varias frases ausentes del original, además de omitir el cierre del párrafo sobre la causa directa, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Bekkelaget-Rapport-080506.md"
+ },
+ "md-es/NO/2006/Ingedal-210606.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fidelidad_media": 71.4,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'støttebukk' traducido como 'soporte de enganche' en ambas apariciones; el original distingue el concepto de soporte/calzo del semirremolque, y 'enganche' puede inducir a confusión con el kingpin"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase inicial 'forenklet rapportformat. En full rapport benyttes bare når undersøkelsens omfang gjør dette nødvendig.' en su ubicación original (aunque el contenido se recoge en la traducción ampliada)",
+     "Falta la línea 'Statens Havarikommisjon for Transport' como encabezado separado (se traduce como Comisión Noruega...)"
+    ],
+    "invenciones": [
+     "Correo electrónico: post@aibn.no (no aparece en el original)",
+     "Frase añadida 'Esta investigación ha tenido un alcance limitado. Por este motivo, SHT ha optado por utilizar un formato de informe simplificado.' (no está en el original)",
+     "Frase añadida 'No es tarea de la comisión de investigación de accidentes repartir culpa y responsabilidad. El uso de este informe para fines distintos del trabajo preventivo de seguridad debe evitarse.' (no está en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Skader på støttebukk' traducido como 'Daños en el soporte de enganche' — 'støttebukk' es caballete/soporte, no necesariamente de enganche",
+     "'KL anlegg' traducido como 'instalación de catenaria' — podría ser aceptable pero no es término normalizado explícito"
+    ],
+    "comentario": "La traducción añade frases no presentes en el original y omite el encabezado institucional, aunque las cifras y datos clave se mantienen correctos."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase suelta del original: 'pakkene med treverk.' (contexto de los paquetes de madera)",
+     "Falta la indicación de que el tren había arrancado la catenaria 'ved Ingedal' tal como aparece en el original (se traslada a 'estación de Ingedal' con añadido)",
+     "Falta el fragmento final truncado del original: 'Det var' (inicio de la explicación sobre el soporte)"
+    ],
+    "invenciones": [
+     "Fecha 'miércoles 21 de junio de 2006' no presente en el original",
+     "Recepción del aviso por la 'Comisión de Investigación de Accidentes de Transporte del Estado' no mencionada en el original",
+     "Trayecto 'desde Göteborg en dirección a Alnabru (Oslo)' no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Bærelinen' traducido como 'cable de contacto' cuando debería ser 'cable portante' (se distingue de 'kontaktledningen' = catenaria)",
+     "'utliggere' traducido como 'soportes' en lugar de 'mensulas/brazos de catenaria'",
+     "'støttebukken' traducido como 'soporte de sujeción' en lugar de 'caballlete de apoyo'"
+    ],
+    "comentario": "La traducción añade numerosos datos ausentes (fecha, ruta, daños, figura) y omite fragmentos del original, además de confundir términos técnicos de catenaria."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: 'at betjeningsstag for innstilling øvre/nedre posisjon satt fast' (aunque aparece parcialmente al inicio de la traducción, el original comienza con esa frase y la traducción añade contexto previo)",
+     "Falta el fragmento 'benyttet Green Cargo ABs prosedyre for avgangskontroll (Dok.nr.: A 84-01)' como inicio de párrafo independiente",
+     "Falta la frase 'Denne har ikke' que inicia el párrafo sobre la sal"
+    ],
+    "invenciones": [
+     "'Tras la comprobación del vagón n.º: 3368 4955 273 0, se constató que el soporte no estaba bloqueado en la posición correcta' — no está en el original",
+     "'Los vagones n.º 3368 495 551 8 y 3368 4955 273 0 fueron retirados del tren para un examen más detallado, así como para la inspección de los daños en la carga' — no está en el original",
+     "'Se comprobó que el soporte de uno de los vagones era imposible de bloquear debido a la falta de lubricación (grasa)' — no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'støttebukk' traducido como 'soporte' — debería normalizarse como 'borriqueta' o 'soporte de apoyo' (término técnico ferroviario)",
+     "'utligger for kontaktledningen' traducido como 'balcón de la línea de contacto' — debería ser 'voladizo/ménsula de la catenaria'",
+     "'semihenger' traducido como 'semirremolque' — correcto, pero se pierde la distinción con 'henger'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (datos de vagones, responsables, procedimientos) y omite frases del original, además de alterar el sentido de la ampliación del periodo de inspección y cambiar cifras/referencias."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase original 'for å sikre at den' tras 'bør gjennomgås' (el original dice 'para asegurar que la' y la traducción la sustituye por contenido inventado)",
+     "Falta el final del original: 'datterselskaper og' queda cortado; la traducción añade 'y los contratistas' sin respaldo"
+    ],
+    "invenciones": [
+     "'la persona responsable de estas operaciones verifique que el semirremolque esté correctamente sujeto al soporte de apoyo' no aparece en el original",
+     "'El contrato entre CargoNet AB y CargoNet AS debería revisarse en cuanto al tipo de control que debe realizarse después de la carga y antes de la salida' no está en el original",
+     "'La Autoridad Ferroviaria del Estado debería valorar centrarse específicamente en esto en sus revisiones de' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'HAVARIKOMMISJONENS VURDERINGER' traducido como 'EVALUACIONES DE LA COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES' en lugar de 'Comisión de Accidentes'/'Junta de Investigación de Accidentes' según norma",
+     "'ettersyn' traducido como 'inspección' cuando el original distingue 'kontroll' (control) e 'ettersyn' (mantenimiento/revisión periódica)"
+    ],
+    "comentario": "La traducción inserta párrafos completos ausentes del original y omite el cierre, por lo que no es fiel."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Ingedal-210606.md"
+ },
+ "md-es/NO/2006/Lillestrøm-021006.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   6,
+   8,
+   9
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Break in a point blade in a double slip switch' traducido como 'Rotura de una aguja de cambio en un doble cambio de agujas': 'point blade' debería normalizarse como 'aguja' o 'hoja de aguja' y 'double slip switch' como 'cambio de doble desvío' o 'travesía de doble desvío', no 'doble cambio de agujas'",
+   "'double slip switch' traducido como 'doble cambio de agujas' en lugar de 'entrecruzamiento' (término normalizado; además incoherente con 'entrecruzamiento de agujas' usado en la Figura 5)",
+   "'points' traducido como 'cambios de agujas' en lugar de 'agujas' o 'aparato de vía'",
+   "'La causa probable de la dañada' debería ser 'de los daños' (error gramatical que altera el sentido)",
+   "'agujas de muelle' por 'spring blades' podría normalizarse como 'agujas elásticas'",
+   "'doble cambio de agujas' por 'double slip switch' debería ser 'cambio de doble aguja' o 'travesía de doble aguja'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Lillestrøm-021006.md"
+ },
+ "md-es/NO/2006/Molykkja_St._Eidsvoll-Dombasbanen_31.10.2006.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   13,
+   16,
+   20
+  ],
+  "fidelidad_media": 82.0,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'togleder' traducido como 'operador de control' en lugar de 'jefe de circulación' o 'regulador de tráfico'",
+   "'vaktleder' traducido como 'jefe de guardia' podría no ser el término normalizado",
+   "'ombordansvarlig' como 'responsable a bordo' y 'konduktørassistent' como 'auxiliar de revisor' son aceptables pero no normalizados",
+   "'overkonduktør' traducido como 'revisor' (podría ser 'sobrecargo' o 'interventor'; 'revisor' no es término ferroviario normalizado en este contexto)",
+   "'togleder' traducido como 'director de circulación' (aceptable, pero en el original se distingue 'togleder' de 'vaktleder'; se mantiene la distinción)",
+   "'togleder' traducido como 'regulador de tráfico' y 'togledersentral' como 'centro de regulación de tráfico': aceptable, pero conviene normalizar 'jefe de circulación'/'centro de control de tráfico'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la línea 'Postboks 213' no, está; falta el texto final truncado del original: 'Det er ikke havarikommisjonens oppgave å ...' que en la traducción se completa como 'repartir culpa y responsabilidad. Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad.' (contenido no presente en el fragmento original)"
+    ],
+    "invenciones": [
+     "Correo electrónico: post@aibn.no",
+     "repartir culpa y responsabilidad. Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade una dirección de correo y un párrafo final ausentes en el original, por lo que requiere revisión pese a mantener cifras y referencias."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 55,
+    "omisiones": [
+     "En 1.9 falta el texto inicial del original: 'stengt.' (cerrado) y la referencia al tramo Hamar–Ringebu",
+     "En 1.10 falta la mención de que la línea Eidsvoll–Dombås es un tramo teledirigido (parcialmente recogido pero el original dice 'stengt' y 'styres fra Hamar togledersentral' de forma más escueta)",
+     "En 1.11.1 falta la frase sobre que el dispositivo portátil no se consideró óptimo (presente en traducción pero el original está truncado; no obstante se omite 'bærbare enheten')"
+    ],
+    "invenciones": [
+     "En 1.9 se añade todo el párrafo sobre la noche del martes 31.10.2006, nieve húmeda y pesada en Østlandet, árboles caídos, hilo de contacto y cierre del tramo Hamar–Ringebu",
+     "En 1.10 se añade 'La línea Eidsvoll – Dombås es un tramo tele dirigido. El tramo de Eidsvoll a Dombås'",
+     "En 1.11.1 se añade todo el párrafo sobre el conjunto tipo 69, radio de tren, teléfono móvil, R-com y su valoración"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'togledersentral' traducido como 'centro de mando de trenes' (aceptable) pero se introduce 'director de circulación' donde el original usa 'togleder'",
+     "'vaktleder Drops' traducido como 'jefe de servicio Drops' (no normalizado)",
+     "'ruteordre' traducido como 'órdenes de ruta' (aceptable)"
+    ],
+    "comentario": "La traducción contiene numerosos párrafos inventados ausentes del original y omite fragmentos clave, además de alterar cifras y horas."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: 'kan togleder endre denne. Det er kun togleder som kan gi tillatelse til at de reisende kan' (solo aparece parcialmente traducida)",
+     "Falta la frase 'Drops er NSB AS driftsoperative senter og forestår den daglige, operative driften for' tal como está (se parafrasea y se añade contenido)",
+     "Falta el texto sobre la prueba teórica de los sistemas de mando a distancia en su forma original"
+    ],
+    "invenciones": [
+     "Se añade 'una vez que se hayan ejecutado los procedimientos de aseguramiento de la vía y de la vía adyacente', que no está en el original",
+     "Se añade 'Drops es responsable de la asignación y de la gestión de desviaciones del personal y del material rodante', no presente en el original",
+     "Se añade 'El centro operativo de explotación está dirigido por el Jefe de guardia Drops', no presente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'togleder' traducido como 'despachador de trenes' en lugar de 'jefe de circulación' o 'regulador de tráfico'",
+     "'togekspeditør' traducido como 'expedidor de trenes' (término no normalizado)",
+     "'fjernstyringssystemer' traducido como 'sistemas de mando a distancia' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, altera cifras y añade contenido no presente en el original, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Molykkja_St._Eidsvoll-Dombasbanen_31.10.2006.md"
+ },
+ "md-es/NO/2006/Ostfoldbanen-160506.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'lokomotiv' traducido como 'locomotor' (en español ferroviario se usa 'locomotora')",
+   "'røykdykkere' traducido como 'escafandristas' (debería ser 'bomberos con equipo de respiración autónoma')",
+   "'Havarikommisjonen' traducido como 'junta de investigación de accidentes' (denominación no normalizada)",
+   "'locomotor' por 'locomotora' (uso no normalizado en castellano)",
+   "'inversor de tracción' por 'vekselretter for traksjon' (aceptable, pero conviene normalizar 'inversor de tracción')",
+   "'locomotores' por 'lokomotiver' (locomotoras)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase introductoria sobre el formato de informe simplificado que precede al párrafo traducido (texto sobre 'forenklet rapportformat...')",
+     "Falta la dirección de correo electrónico en el original (no aparece en el original, pero sí en la traducción: ver invenciones)"
+    ],
+    "invenciones": [
+     "Se añade 'Correo electrónico: post@aibn.no', que no aparece en el original",
+     "Se añade la frase final 'No es tarea de la junta de investigación de accidentes distribuir culpas y responsabilidades. Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad.', que no está en el original",
+     "Se añade 'Esta investigación ha tenido un alcance limitado. Por este motivo, SHT ha optado por utilizar un formato de informe simplificado.', que no figura en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Lokomotiv' traducido como 'locomotor' en lugar de 'locomotora'",
+     "'Brann i lokomotivets maskinrom' traducido como 'Incendio en la sala de máquinas del locomotor'; 'maskinrom' sería 'sala de máquinas' pero el término normalizado es 'locomotora'",
+     "'Overskyet oppholdsvær' traducido como 'Cubierto con claros', cuando 'oppholdsvær' significa 'sin precipitación'; sería 'nublado sin precipitación'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero incluye frases inventadas (correo electrónico y párrafo final) y omite el encabezado sobre el formato simplificado, además de usar 'locomotor' por 'locomotora'."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la primera frase del original: 'utsatt for olje og er OK.' (el cable inferior expuesto al aceite... está OK) aparece solo parcialmente; el original dice 'utsatt for olje og er OK' y la traducción añade 'El cable inferior no ha estado expuesto al aceite y está OK', invirtiendo el sentido",
+     "Falta la frase 'Disse lokomotivene er i hovedsak' (Estas locomotoras son principalmente...), cortada en el original pero ausente en la traducción",
+     "Falta la referencia a 'Havarikommisjonen' como sujeto de la primera frase de contacto (la traducción lo convierte en 'La junta de investigación de accidentes' pero omite parte del contenido)"
+    ],
+    "invenciones": [
+     "'Estos locomotores están construidos principalmente con la misma estructura que el EL16, pero tienen una potencia instalada menor' no aparece en el original",
+     "'junto con especialistas de EuroMaint AB en Ørebro' no está en el original",
+     "'debido a diferencias de material entre los terminales de cable y las barras colectoras de conexión' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'lokomotiver' traducido como 'locomotores' en lugar de 'locomotoras'",
+     "'vekselretter' traducido como 'inversor' (aceptable) pero 'traksjon' como 'tracción'",
+     "'kabelsko' traducido como 'terminales de cable' (aceptable)"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, incluida una inversión de sentido en la primera frase, por lo que no es fiel al original."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase 'Det er vanskelig å fastslå den direkte årsaken' traducida de forma completa: el original deja la frase cortada, pero la traducción añade contenido; no obstante, se omite la continuación implícita del original sobre la causa directa",
+     "Falta la frase 'tilsvarende det som har blitt utført på RC4 lokomotivene' como inicio de párrafo independiente (se integra en otra frase)",
+     "Se omite la referencia a que las soluciones han sido conocidas 'for materielleierne' tal cual, sustituyéndola por una enumeración de propietarios no presente en el original"
+    ],
+    "invenciones": [
+     "'Estos cambios realizados en los locomotores RC4 eran conocidos por CargoNet, así como por NSB como antiguo propietario de los locomotores EL16, pero no se han llevado a cabo en estos locomotores.' — párrafo completo que no aparece en el original",
+     "'Es difícil determinar la causa directa de que el incendio se iniciara. Lo más probable es que se debiera a un cortocircuito en los cables de alta tensión como consecuencia de un aislamiento degradado por la acción del aceite y/o el desgaste mecánico. Sin embargo, no puede descartarse que el incendio pudiera haberse iniciado como consecuencia de la formación de chispas o del sobrecalentamiento en un borne de conexión.' — contenido no presente en el original",
+     "'Para evitar incendios similares, la junta de investigación de accidentes recomienda que...' — la recomendación explícita no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'locomotores' por 'lokomotiver' (debería ser 'locomotoras')",
+     "'inversor de tracción' por 'vekselretter traksjon' (aceptable, pero no normalizado)",
+     "'borne de conexión' por 'koblingspunkter' (término no normalizado)"
+    ],
+    "comentario": "La traducción añade párrafos y frases ausentes del original y omite contenido, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Ostfoldbanen-160506.md"
+ },
+ "md-es/NO/2006/Os st Rorosbanen-050806.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 78.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'vinkeljern' traducido como 'ángulos de hierro' en lugar de 'perfiles angulares' o 'angular de acero'",
+   "'pakket og rettet' como 'apisonada y rectificada' es aceptable, pero 'pakket' en vía suele ser 'bateada'",
+   "'chilling' traducido como 'helada' (término meteorológico) en lugar de un término técnico ferroviario como 'desconchado' o 'deterioro' del andén",
+   "'reconstructed' traducido como 'modificadas' en lugar de 'reconstruidas'",
+   "'mean of the limits of size' traducido de forma confusa como 'límites establecidos de la medida de tamaño'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'forenklet rapportformat. En full rapport benyttes bare når undersøkelsens omfang gjør dette nødvendig...' tal como aparece en el original (aunque el contenido se parafrasea, se omite el inicio literal)",
+     "Falta la mención 'ENGLISH SUMMARY INCLUDED' correctamente traducida (se traduce erróneamente como 'RESUMEN EN INCLUIDO')"
+    ],
+    "invenciones": [
+     "'Correo electrónico: post@aibn.no' no aparece en el original",
+     "'Di4 y 15 vagones de tipo B5' no aparece en el original",
+     "'Esta investigación ha tenido un alcance limitado. Por este motivo, SHT ha optado por utilizar...' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Sammenstøt' traducido como 'Colisión' cuando en contexto ferroviario noruego suele ser 'choque/colisión'; aceptable pero revisar normalización",
+     "'ENGLISH SUMMARY INCLUDED' mal traducido como 'RESUMEN EN INCLUIDO'"
+    ],
+    "comentario": "La traducción añade contenido no presente (correo, material rodante, frases sobre alcance y responsabilidad) y omite/parafrasea el inicio del párrafo original, aunque las cifras y fechas coinciden."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 55,
+    "omisiones": [
+     "El original comienza a mitad de frase ('kjørt av NSB, og var på vei...') y la traducción añade contexto previo no presente (fecha, tren 1252, locomotora Di4, 15 vagones, vía 1)",
+     "Falta en la traducción la frase sobre que el tren no fue controlado por personal técnico en Oslo tal como aparece (se reformula)",
+     "Falta la mención de que la SHT no fue notificada hasta el lunes 7 de agosto (aparece en traducción pero el original está truncado)"
+    ],
+    "invenciones": [
+     "El sábado 5 de agosto de 2006, el tren 1252 debía pasar por la estación de Os, en la línea Røros",
+     "locomotora tipo Di4 y 15 vagones tipo B5",
+     "vía 1 (vía de desvío)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Faktiske opplysninger' traducido como 'DATOS FACTOS' (debería ser 'Datos fácticos' o 'Hechos')",
+     "'Hendelsesforløp' como 'Desarrollo del suceso' (aceptable, pero no normalizado)"
+    ],
+    "comentario": "La traducción contiene numerosos añadidos ausentes en el original truncado y omite/reescribe fragmentos, con cifras y datos no verificables."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta el texto inicial del original: 'brevet er gjengitt i vedlegg 2.' (solo aparece la referencia al anexo 2 más adelante, no esta frase)",
+     "Falta la primera línea de la recomendación 2007/09T: 'korrigert for kurveutslag' aparece integrada, pero se omite el fragmento inicial del original que precede a esa frase",
+     "Falta el fragmento inicial de la recomendación 2007/10T: 'kan utsette togpassasjerene for unødig fare.' (la traducción lo reformula pero no reproduce el arranque truncado del original)"
+    ],
+    "invenciones": [
+     "Se añade 'Figura 5. muestra daños en la guía inferior de la puerta. Figura 6. muestra daños en uno de los vagones.' que no está en el original",
+     "Se añade 'La investigación de este grave incidente ferroviario ha puesto de manifiesto un ámbito...' que no aparece en el original",
+     "Se añade 'Este incidente ha puesto de manifiesto que el andén de la estación de Os sobresalía dentro de la sección transversal mínima A85' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'charter train' traducido como 'tren de alquiler' en lugar de 'tren chárter'",
+     "'angle iron' traducido como 'perfil en ángulo' (aceptable) pero en el original inglés es 'angle iron'"
+    ],
+    "comentario": "La traducción amplía notablemente el original con contenido no presente (figuras, considerandos y recomendaciones desarrolladas) y omite fragmentos iniciales de las recomendaciones, aunque las cifras y referencias se mantienen."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase inicial del original: 'Plattform høyde og avstand fra senter skinnegang ble målt' (se midieron altura de plataforma y distancia desde el centro de la vía)",
+     "Falta la línea 'plattform' tal cual aparece en el original (se traduce como 'plattform' sin más contexto)"
+    ],
+    "invenciones": [
+     "'Medición realizada en la estación de Os el 10.08.2006 por personal de Jernbaneverket' no aparece en el original",
+     "'La estación de Os tiene una curva de radio de 600 metros' no aparece en el original",
+     "'Hubo un pequeño asentamiento aproximadamente en el kilómetro 890. Esto también fue observado por el maquinista' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'km' traducido como 'pk' (punto kilométrico) en lugar de mantener km o normalizar como km",
+     "'plattform' del original se mantiene sin traducir en la traducción"
+    ],
+    "comentario": "La traducción añade datos inexistentes (fecha, personal, radio de curva, observación del maquinista) y omite la frase introductoria, aunque las cifras de la tabla se conservan."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Os st Rorosbanen-050806.md"
+ },
+ "md-es/NO/2006/Sjoa St Dovrebanen-150806.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   11,
+   15,
+   19
+  ],
+  "fidelidad_media": 78.3,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'señal previa' por 'forsignal' (señal de avanzada/preanuncio) — término no normalizado",
+   "'señales de vía 2N' por 'togsporsignalene' (señales de vía/depósito) — traducción imprecisa",
+   "'conexión cruzada' por 'innbyrdes forbindelse' (conexión mutua/entre conductores) — interpretación no literal",
+   "'funda de empalme' por 'skjøtemuffe' (manguito de empalme) puede inducir a confusión con 'funda de cable'",
+   "'arqueo' por 'overslag' (arco eléctrico/cebado) es discutible"
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "Debe evitarse el uso de este informe para fines distintos del trabajo de seguridad preventiva."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade una frase que no figura en el original y omite la mención de que el informe no debe usarse para otros fines, aunque el resto es fiel."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase original 'Anbefalingene gikk ut på at det med fordel burde' completa (queda truncada en la traducción)",
+     "Falta el fragmento original 'fyllmassen, og at denne ble vurdert til å holde spesifikasjonen' en su contexto (se reubica y se omite parte)",
+     "Falta la frase original 'Leverandøren presiserte at kabler som blir lagret utendørs, samt kabelender på kabler som er utlagt' (queda incompleta en el original pero la traducción añade contenido)"
+    ],
+    "invenciones": [
+     "Se añade 'Figura 9: Muestra detalles de dos manguitos de empalme con' que no está en el original",
+     "Se añade el bloque 'Basado en las investigaciones realizadas, el laboratorio concluyó lo siguiente:' y todo el párrafo sobre poros, cortocircuito entre conexiones de bornes, carbonización y chispas, que no aparece en el original",
+     "Se añade 'Contacto con el proveedor de la manguita del cable' y el párrafo sobre contacto con 3M y evaluación visual, ausente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'muffen' traducido como 'manguita' en lugar de 'manguito/empalme' de forma consistente",
+     "'klemforbindelsene' traducido como 'manguita del cable' en lugar de 'conexiones de bornes'",
+     "'kortsluttning' como 'cortocircuito' correcto, pero se introduce 'arqueos' por 'overslag' (debería ser 'contorneo/arco eléctrico')"
+    ],
+    "comentario": "La traducción contiene numerosos bloques inventados ausentes del original y omite/reubica fragmentos, además de cambiar el número de figura (8→9) y de página."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'Det ble også funnet kortslutning mellom to' que precede a la conclusión sobre las conexiones de bornes",
+     "Falta el título del informe en el original (la fila 'Tittel' queda vacía en el original pero la traducción añade 'Examen de una funda de cable con cortocircuito' que no aparece en el original)"
+    ],
+    "invenciones": [
+     "Se añade el título 'Examen de una funda de cable con cortocircuito' que no figura en el original",
+     "Se añaden las frases 'Se pueden observar cantidades significativas de poros en la funda de cable', 'con huellas de carbonización del material de aislamiento y restos de formación de chispas', 'Varias de las conexiones de bornes mostraban signos de formación de herrumbre, lo que indica la presencia de humedad', 'esto, en combinación con poca o ninguna distancia entre las conexiones de bornes', 'No se debe reproducir ningún extracto del informe sin la aprobación por escrito del Laboratorio Analítico', 'El laboratorio está acreditado de acuerdo con NS-EN ISO/IEC 17025', 'Solo los resultados marcados con A están incluidos en la acreditación'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'kabelmuffe' traducido como 'funda de cable' en lugar de 'manguito/empalme de cable'",
+     "'klemforbindelsene' traducido como 'conexiones de bornes' (aceptable) pero 'overslag' como 'arqueos' en lugar de 'arcos eléctricos/descargas disruptivas'",
+     "'irrdannelser' traducido como 'formación de herrumbre' cuando se refiere a oxidación/corrosión"
+    ],
+    "comentario": "La traducción añade varias frases ausentes en el original y omite parte de la conclusión, por lo que requiere revisión."
+   },
+   {
+    "pagina": 19,
+    "fidelidad": 55,
+    "omisiones": [
+     "El original está truncado/incompleto en varias frases (p. ej. 'Som bildene viser kunne det', 'Som det fremgår av overflaten til klemforbindelsen', 'Tilsvarende undersøkelser... viser isolasjonsmaterialet'), pero la traducción añade contenido que no aparece en el fragmento original, por lo que no se puede verificar la correspondencia de esas frases."
+    ],
+    "invenciones": [
+     "'se pudieron observar signos claros de carbonización del material de aislamiento' (no está en el original)",
+     "'Como se desprende de la Figura 8, se pudieron observar una oxidación considerable y signos de gotas de fusión compatibles con chispas' (no está en el original)",
+     "'signos claros de oxidación (borra)' (no está en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'klemforbindelse' traducido como 'conexión de borna' es aceptable, pero conviene normalizar como 'conexión de terminal/borne'",
+     "'stereolysmikroskop' traducido como 'microscopio estereoscópico de luz' (adecuado, aunque 'microscopio estereoscópico' es más estándar)"
+    ],
+    "comentario": "La traducción incorpora varias frases y hallazgos (Figura 8, oxidación, gotas de fusión, hollín) ausentes del original, por lo que no es fiel al fragmento."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Sjoa St Dovrebanen-150806.md"
+ },
+ "md-es/NO/2006/Kornsjo-220606.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 87.2,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'buzo de humo' por 'røykdykker' (bombero con equipo de respiración, no buzo)",
+   "'regulador de tráfico' por 'togleder' (jefe de circulación/control de tráfico)",
+   "'lokomotivene' traducido como 'locomotores' en lugar de 'locomotoras'",
+   "'maskinrommet' traducido como 'sala de máquinas' en lugar de 'sala de máquinas/cuarto de máquinas' (aceptable)",
+   "'hjelpestrømkretsen' traducido como 'circuito de corriente auxiliar' (aceptable)",
+   "'hjelpekraft' traducido como 'fuerza auxiliar' en lugar de 'corriente auxiliar' (inconsistente con 'corriente auxiliar' usado antes)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase introductoria sobre el formato de informe simplificado: 'forenklet rapportformat. En full rapport benyttes bare når undersøkelsens omfang gjør dette nødvendig...' (parte inicial omitida, aunque el contenido aparece después)",
+     "Falta la línea 'Correo electrónico: post@aibn.no' no está en el original (es invención, no omisión)"
+    ],
+    "invenciones": [
+     "Se añade 'Correo electrónico: post@aibn.no', que no aparece en el original",
+     "Se añade la frase final 'No es tarea de la comisión de investigación de accidentes repartir culpa y responsabilidad. Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad.', ausente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Locomotor' por 'Lokomotiv' debería ser 'locomotora'",
+     "'Señal principal de entrada intermedia A' por 'Mellominnkjørhovedsignal A' — traducción confusa; debería ser 'señal principal de entrada intermedia A' o 'señal principal de entrada A'",
+     "'Señal de preaviso A' por 'forsignal A' — aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción mayormente fiel pero con invenciones (correo electrónico y párrafo final ausente) y terminología mejorable en 'locomotor' y 'condiciones de la vía'."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase inicial del original: 'slokkes med vann på grunn av all oljen som brant innvendig i lokomotivet, måtte pulverhengeren bringes på sporet...' (parte inicial truncada)",
+     "Falta la línea 'Figur 3 Daños por fuego en una de las cabinas de' que no aparece en el original",
+     "Falta el fragmento 'belyst ved undersøkelsene i denne rapporten' tal como aparece en el original (la traducción lo reformula)"
+    ],
+    "invenciones": [
+     "'El cuerpo de bomberos comunicó que el incendio estaba apagado a las 0011, unas 6 horas después de haber comenzado' no está en el original",
+     "'en la estación de Bekkelaget, en la línea Østfoldbanen' no está en el original",
+     "'Se comprobó que este incendio había comenzado en el transformador principal y tenía un desarrollo de los hechos diferente...' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'locomotor' por 'lokomotiv' es aceptable, pero 'pulverhenger' traducido como 'remolque de polvo' debería normalizarse como 'remolque de extinción por polvo'",
+     "'Robeltralle' se mantiene sin traducir, correcto"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones graves, incluyendo cifras y frases completas ausentes del original, por lo que la fidelidad es baja."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Kornsjo-220606.md"
+ },
+ "md-es/NO/2006/Sæter-060806.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fidelidad_media": 84.0,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'sporveksel' traducido como 'desvío' en lugar de 'cambio de aguja' o 'desvío de agujas' (término ferroviario normalizado)",
+   "'dreiekraft' traducido como 'par de giro' podría ser 'fuerza de giro' o 'par de rotación' según contexto",
+   "'dreiekranser' traducido como 'coronas de giro' es aceptable, pero conviene normalizar",
+   "'sporvidde og vindskjevhet' traducido como 'ancho de vía y alineación en planta' (vindskjevhet es 'alabeo' o 'desnivel transversal', no alineación en planta)",
+   "'flensene' traducido como 'los labios' en lugar de 'las pestañas' de las ruedas",
+   "'rillesporene' traducido como 'carriles ranurados' (aceptable, pero 'rilledybde' como 'profundidad de la ranura' podría normalizarse)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la línea 'forenklet rapportformat. En full rapport benyttes bare når undersøkelsens omfang gjør dette nødvendig...' tal como aparece en el original (se sustituye por texto parafraseado)",
+     "Falta la frase final del original: 'Det er ikke havarikommisjonens oppgave å...' (queda truncada en el original, pero la traducción añade contenido que no está)"
+    ],
+    "invenciones": [
+     "'Correo electrónico: post@aibn.no' no aparece en el original",
+     "Se añade 'Esta investigación ha tenido un alcance limitado. Por este motivo, la SHT ha optado por utilizar un formato de informe simplificado' que no está en el original",
+     "Se añade 'Homologado para la conducción de SL 95 y SL 79' en los campos de Formación, ausentes en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Avporing' traducido como 'Descarrilamiento' cuando el término noruego específico es 'avsporing' (descarrilamiento); 'avporing' podría requerir matiz",
+     "'Informe de la AIIBN' debería ser 'Informe de la SHT' o mantener 'JB Rapport'"
+    ],
+    "comentario": "La traducción añade contenido no presente (correo, formación, fuentes, párrafo final) y omite/parafrasea el texto introductorio del formato simplificado."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase sobre que los calibres se actualizaron (versión 5, 10 de mayo de 2006) tal como aparece en el original: el original dice 'oppdatert (versjon 5, datert 10. mai 2006)' sin mencionar planos ni principios de 2006",
+     "Falta la mención de que en el informe se comenta también sobre los otros desvíos ('I rapporten bemerkes det også på de andre vekslene')",
+     "Falta la frase 'Dette er i 2007 øket til 2 ganger på år (vår/sommer og høst)' en su ubicación original, aunque aparece parcialmente"
+    ],
+    "invenciones": [
+     "'Se informó de que las medidas de las ruedas deben comprobarse mediante calibres para la altura y el ancho del labio en cada 3 000 km' — no está en el original",
+     "'De los planos y documentos presentados se desprende que los calibres son de fecha reciente (principios de 2006)' — no está en el original",
+     "'entre ellas para la altura del labio' — no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vindskjevhet' traducido como 'alineación en planta (la pendiente de la vía)' — término técnico incorrecto; debería ser 'alabeo' o 'desnivel transversal'",
+     "'overhøyde' traducido como 'contrapendiente' — debería ser 'peralte'",
+     "'avvikesporet' traducido como 'vía de desviación' — aceptable pero no normalizado"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, además de errores en términos técnicos ferroviarios clave como 'vindskjevhet' y 'overhøyde'."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2006/Sæter-060806.md"
+ },
+ "md-es/NO/2007/Storekleven-210207.md": {
+  "estado": "revisar",
+  "idioma_origen": "NO",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   18,
+   23,
+   28
+  ],
+  "fidelidad_media": 63.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": 85,
+    "omisiones": [],
+    "invenciones": [
+     "Debe evitarse el uso de este informe para fines distintos del trabajo preventivo de seguridad."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade una frase inexistente en el original y omite la mención de que el propósito es también promover recomendaciones de forma explícita, aunque el resto es fiel."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 55,
+    "omisiones": [
+     "El original no menciona 'tres coches' ni 'dos coches delanteros' ni 'tercer coche' ni 'bogie delantero' ni 'ángulo de 45º' en el fragmento dado",
+     "Falta la frase sobre el tren que 'sporet og hellet mot høyre side bratt nedover skråningen' tal como aparece",
+     "Falta mención de que no se informó de heridos físicos entre los viajeros (parcialmente cubierto pero con invención)"
+    ],
+    "invenciones": [
+     "'El tren descarriló con tres coches. Los dos coches delanteros quedaron fuera de una pronunciada pendiente...'",
+     "'El tercer coche permaneció sobre la plataforma de la vía, pero había descarrilado con el bogie delantero'",
+     "'Los dos coches delanteros se encontraban en un ángulo de unos 45º respecto a la vía e inclinados hacia la derecha, descendiendo en picado por la pendiente'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'alud' por 'snøskred' (alud de nieve) aceptable pero 'alud' solo puede ser ambiguo",
+     "'se incorporó a un alud' por 'kjørte inn i et snøskred' (entró/colisionó con un alud de nieve) — mala traducción",
+     "'pk' por 'km' — cambio de unidad no normalizado"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones respecto al fragmento original, con detalles técnicos y cifras no presentes en el texto fuente."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 55,
+    "omisiones": [
+     "La altitud era de 955 metros sobre el nivel del mar (no está en el original)",
+     "La 'Rallarveien' transcurre a unos 100 metros por el lado inferior del lugar del descarrilamiento (no está en el original)",
+     "El descarrilamiento se produjo en un tramo recto justo después de una curva suave a la izquierda (no está en el original)"
+    ],
+    "invenciones": [
+     "La altitud era de 955 metros sobre el nivel del mar",
+     "La 'Rallarveien' transcurre a unos 100 metros por el lado inferior del lugar del descarrilamiento",
+     "El descarrilamiento se produjo en un tramo recto justo después de una curva suave a la izquierda"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'avsporingsstedet' traducido como 'lugar del descarrilamiento' cuando el original distingue 'avsporing' (descarrilamiento) de 'avsporingssted' (lugar del descarrilamiento)",
+     "'Rallarveien' no aparece en el original",
+     "'fylling' traducido como 'terraplén' pero el original menciona 'fylling' (relleno/terraplén) y 'slakk venstrekurve' (curva suave a la izquierda) que se omite"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones graves, incluyendo datos de altitud, ubicación y personal que no aparecen en el original, además de cambios en cifras y términos técnicos."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 62,
+    "omisiones": [
+     "En 1.14.3.1 falta la frase sobre el plan de alerta invernal que describe las relaciones de responsabilidad (solo aparece en la traducción, no en el original)",
+     "Falta la línea 'minutter før tog 62.' del original",
+     "Falta en 1.14.3.2 la frase 'El reglamento de Jernbaneverket para la infraestructura describe la ejecución de esto en JD 520 cap.10.' (aparece en la traducción pero no en el original)"
+    ],
+    "invenciones": [
+     "'Jernbaneverket Región Oeste dispone de un plan de alerta invernal que describe las relaciones de responsabilidad' no está en el original",
+     "'El día del descarrilamiento, la locomotora de despeje de nieve Di3 salió de la estación de Myrdal 2 horas y 17 minutos antes del tren 62.' no está en el original",
+     "'El reglamento de Jernbaneverket para la infraestructura describe la ejecución de esto en JD 520 cap.10.' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'beredskap' traducido como 'alerta' en lugar de 'emergencia/estado de emergencia'",
+     "'visitasjon' traducido como 'inspección' (aceptable) pero 'økt visitasjon' como 'inspección reforzada'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (incluida una frase con cifras '2 horas y 17 minutos' y 'Myrdal' ausente del original) y omite varias frases del original, por lo que no es fiel."
+   },
+   {
+    "pagina": 23,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase 'ga havarikommisjonen en redningsarbeidet' (la comisión recibió información sobre el rescate) tal como aparece en el original",
+     "Falta la fila de tabla '07:48:51 | Tog 55160 er inne på Hallingskeid stasjon...' en su posición original (aparece desplazada/inventada en la traducción)",
+     "Falta el texto 'Snøryddingstoget kjørte ut fra Myrdal stasjon 2 timer og 15 minutter før tog 62 for' completo en su ubicación original"
+    ],
+    "invenciones": [
+     "'que aportó a la comisión de investigación de accidentes una útil revisión de todo el desarrollo de los hechos hasta el descarrilamiento, así como de las labores de rescate' — contenido no presente en el original",
+     "'que afectara a la circulación del tren 62' — añadido no presente en el original",
+     "Fila '07:48:51 | El tren 55160 se encontraba en la estación de Hallingskeid...' insertada en posición distinta a la del original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Registrando hastighetsmålerutstyr og datalogger' traducido como 'Equipos registradores de velocidad y registrador de datos' — aceptable pero 'datalogger' se normaliza mejor como 'registrador de datos'",
+     "'Robeltralle med hjullaster på henger' traducido como 'carro Robel con cargador sobre ruedas en el remolque' — 'hjullaster' es 'cargadora de ruedas', no 'cargador sobre ruedas'",
+     "'utkjørhovedsignal' traducido como 'señal principal de salida' — correcto"
+    ],
+    "comentario": "La traducción reorganiza y añade contenido en la tabla CTC y en el párrafo final, omitiendo frases del original, por lo que requiere revisión."
+   },
+   {
+    "pagina": 28,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase 'Store... 4 meter' completa: el original dice 'Store mengder snø...' con la profundidad de nieve en el lado izquierdo de 3-4 metros; la traducción omite parte del texto sobre la acumulación de nieve",
+     "Falta la continuación de la frase tras 'no había daños en los raíles, lo que indica' (el original continúa 'at det ikke hadde vært...' sobre el canal de cables y la nieve/hielo)",
+     "Falta la frase sobre la estación meteorológica de Myrdal fuera de servicio y la naturaleza distinta del tiempo al oeste de Finse con viento del sureste"
+    ],
+    "invenciones": [
+     "'otro material rodante en relación con la circulación en tramos de alta montaña. Este se encuentra como anexo B.' no aparece en el original",
+     "'Grandes cantidades de nieve cayeron en la vía' no está en el original",
+     "'Esto se debió a que la nieve del lado izquierdo tuvo que comprimirse contra la ladera de la montaña, mientras que las cantidades limitadas de nieve del lado derecho no tenían ningún obstáculo y podían ser arrojadas por la ladera por el tren' es una expansión no presente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'avsporingen' traducido como 'descarrilación' es correcto, pero se pierde la distinción de 'flakskred' (alud de placa) frente a otros tipos",
+     "'havarikommisjonen' traducido como 'comisión de investigación de accidentes' es aceptable",
+     "'skrånet i samsvar med terrenget' traducido como 'con la inclinación en consonancia con el terreno' es impreciso"
+    ],
+    "comentario": "La traducción omite varias frases del original e introduce contenido no presente, además de alterar cifras (3-4 metros frente a 4 metros) y añadir párrafos inventados."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/NO/2007/Storekleven-210207.md"
+ }
+}

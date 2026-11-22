@@ -1,0 +1,2080 @@
+{
+ "md-es/CZ/2006/Investigation_report-06112006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   10,
+   13,
+   17,
+   20
+  ],
+  "fidelidad_media": 87.0,
+  "fidelidad_min": 82,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta la mención 'Střetnutí vlaku Os 12826 s cyklistou na železničním přejezdu v km 112,545' en el título inglés/traducido: la traducción del bloque inglés sustituye el título por 'Accidente en paso a nivel del tren de viajeros n.º 12826 y un ciclista' sin el PK 112,545",
+     "Falta 'dráhy regionální' como 'línea regional' en el bloque inglés traducido (solo aparece en el bloque checo traducido)"
+    ],
+    "invenciones": [
+     "'Accidente en paso a nivel del tren de viajeros n.º 12826 y un ciclista' no figura en el original inglés, que dice 'Investigation Report of Railway Accident between Dobrá u Frýdku-Místku and Frýdek-Místek stations'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'mimořádné události' traducido como 'incidente extraordinario' en lugar de 'accidente' (término normalizado ferroviario)",
+     "'Střetnutí' traducido como 'Colisión' cuando el original inglés usa 'Accident'; se pierde la distinción colisión/accidente",
+     "'N.º de registro: 6-153/206' debería ser '6-153/2006'"
+    ],
+    "comentario": "La traducción altera el número de registro (6-153/206 en vez de 6-153/2006) y reemplaza el título inglés por un texto inventado, además de omitir el PK en el título traducido."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'prosazování ... 16' (probablemente 3.2.2 o encabezado de la sección de promoción/implementación)",
+     "Falta el encabezado '3.5.1' del original (solo aparece el texto 'řízení, signalizaci a zabezpečení dopravy' sin su número y título completo)",
+     "Falta el título completo de 3.6.2 en el original (solo se ve 'fyzického nebo psychického stresu'), pero la traducción lo reconstruye; no obstante, se omite la numeración explícita en el original"
+    ],
+    "invenciones": [
+     "Se añade '3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones' y '3.2.2 Requisitos aplicables al personal...' que no aparecen en el original (el original solo muestra 'prosazování ... 16')",
+     "Se añade '3.5.1 Medidas adoptadas por el personal...' como título completo, cuando el original solo muestra un fragmento sin número"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'suceso extraordinario' o 'accidente' según terminología ferroviaria normalizada",
+     "'drážní vozidla' como 'vehículos ferroviarios' es aceptable, pero 'součásti dráhy' como 'partes de la vía' podría precisarse como 'componentes de la infraestructura ferroviaria'"
+    ],
+    "comentario": "La traducción es mayormente fiel pero inventa títulos de sección (3.2.1, 3.2.2, 3.5.1) que no figuran en el original y omite la línea 'prosazování'."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "estación de clasificación (el original solo dice ŽST, no estación de clasificación)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'colisión' por 'MU' (mimořádná událost = accidente/incidente, no necesariamente colisión)",
+     "HDV traducido como 'unidad motriz' y 'tren de maniobras' de forma inconsistente",
+     "ŽP traducido como 'paso a nivel' cuando el original usa ŽP (přejezd) y luego lo desarrolla; aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero introduce 'estación de clasificación' no presente en el original y traduce MU como 'colisión' de forma no normalizada."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "'motorrail' por 'motorový vůz' (automotor) es una traducción dudosa",
+     "'material rodante de tracción' por 'vlakové HDV' no es término normalizado",
+     "'guardia de distancia de seguridad' por 'pohotovost zabezpečovací distance' es traducción literal incorrecta"
+    ],
+    "comentario": "La traducción es fiel en contenido pero contiene un error numérico (pk 12,545 en lugar de 112,545) y varios términos técnicos no normalizados."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el término 'ŽP' (železniční přejezd/paso a nivel) en 'užívání ŽP', se sustituye por 'vía pública'",
+     "El original dice 'PZZ' (přejezdové zabezpečovací zařízení) y la traducción lo vierte como 'dispositivo de protección de vía de estación', omitiendo el concepto de protección de paso a nivel",
+     "Se omite la abreviatura 'ŽST' como tal y se traduce de forma inconsistente como 'estación de control de tráfico'"
+    ],
+    "invenciones": [
+     "'estación de control de tráfico' no aparece en el original; ŽST significa simplemente 'estación ferroviaria'",
+     "'dispositivo de protección de vía de estación' introduce un concepto no presente (PZZ es protección de pasos a nivel)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "ŽST traducido como 'estación de control de tráfico' en lugar de 'estación ferroviaria'",
+     "PZZ (přejezdové zabezpečovací zařízení) mal traducido como 'dispositivo de protección de vía de estación'",
+     "ŽP (železniční přejezd) traducido como 'vía pública' en lugar de 'paso a nivel'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con errores terminológicos graves en siglas ferroviarias (ŽST, PZZ, ŽP) que alteran el sentido técnico."
+   },
+   {
+    "pagina": 20,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el término 'mimořádná událost' (MU) como 'incidente extraordinario' o 'suceso extraordinario'; se usa 'incidente' de forma genérica",
+     "En 3.6.1 se omite la coletilla 'kteří byli účastníky události' en la medida en que se traduce como 'que fueron participantes en el incidente' pero se pierde la distinción entre 'událost' y 'mimořádná událost'"
+    ],
+    "invenciones": [
+     "Se añade 'de pasajeros' al traducir 'vlakového HDV' (original: 'tren HDV', no especifica pasajeros)",
+     "Se añade 'de maniobras' al traducir 'postrkového HDV' (original: 'HDV de empuje', no 'de maniobras')",
+     "Se añade 'locomotora' donde el original dice 'HDV' (vehículo motorizado) y 'tren' donde dice 'vlak'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' (MU) traducido como 'incidente' en lugar de 'suceso/incidente extraordinario', perdiendo la categoría técnica",
+     "'postrkový HDV' traducido como 'tren de maniobras' en vez de 'vehículo motorizado de empuje'",
+     "'vlakový HDV' traducido como 'tren de pasajeros HDV' añadiendo un dato no presente"
+    ],
+    "comentario": "La traducción es en general fiel y conserva todas las cifras y horas, pero introduce precisiones no presentes en el original ('de pasajeros', 'de maniobras') y no normaliza términos técnicos clave como 'mimořádná událost' y 'postrkový HDV'."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-06112006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-09102006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   9,
+   13,
+   16,
+   19
+  ],
+  "fidelidad_media": 81.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente ferroviario' o 'suceso extraordinario', término no normalizado",
+   "'drážní vozidlo' traducido como 'vehículo ferroviario' correcto, pero 'HDV' se traduce como 'locomotora' cuando HDV es 'hnací drážní vozidlo' (vehículo motor ferroviario), no necesariamente locomotora",
+   "'výstražný kříž' traducido como 'cruce de San Andrés' es aceptable, pero el original distingue 'výstražný kříž' (cruz de advertencia) de otras señales"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "Accidente en paso a nivel de tren de viajeros n.º 13772 y una motocicleta (línea añadida no presente en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádné události' traducido como 'incidente extraordinario' en lugar de 'accidente' (término normalizado ferroviario)",
+     "'Střetnutí' traducido como 'Colisión' cuando el original distingue 'colisión/encuentro'"
+    ],
+    "comentario": "La traducción añade una línea descriptiva no presente en el original y usa terminología no normalizada para 'mimořádná událost'."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la entrada 3.2.1 'prosazování' (aplicación/promoción) del original, que aparece truncada como línea suelta",
+     "Falta la entrada 3.2.2 completa en el original (solo se ve 'prosazování'), pero la traducción la inventa"
+    ],
+    "invenciones": [
+     "Se añade 3.2.1 'Marco organizativo y forma en que se emiten y ejecutan las instrucciones' que no figura en el original",
+     "Se añade 3.2.2 'Requisitos aplicables al personal del administrador de infraestructura y del transportista, y su cumplimiento' que no figura en el original",
+     "Se añade 3.5.1 'Medidas adoptadas por el personal...' que no figura en el original (el original solo muestra 'řízení, signalizaci a zabezpečení dopravy')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'suceso/accidente ferroviario' (término normalizado)",
+     "'drážní vozidla' como 'vehículos ferroviarios' es aceptable, pero 'součásti dráhy' como 'componentes de la línea' debería ser 'componentes de la infraestructura ferroviaria'",
+     "'provozovatel dráhy' como 'administrador de infraestructura' es correcto, pero 'dopravce' como 'transportista' debería ser 'empresa ferroviaria'"
+    ],
+    "comentario": "La traducción completa entradas ausentes en el original (3.2.1, 3.2.2, 3.5.1, 3.6.2) y omite la línea 'prosazování', además de usar terminología no normalizada para 'mimořádná událost'."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la abreviatura 'ŽP' como paso a nivel en la primera frase (se usa 'PaN' sin correspondencia explícita, aunque se entiende)",
+     "Se omite la coletilla 'na místě' en la frase sobre la investigación (el original dice 'zjišťováním příčin a okolností vzniku MU na místě byl pověřen', la traducción omite 'en el lugar' en esa frase)"
+    ],
+    "invenciones": [
+     "Se añade 'en el lugar' en la frase 'El inspector jefe de la IF de Ostrava fue encargado de la investigación... en el lugar' donde el original no lo repite en esa posición (aunque sí aparece antes)",
+     "Se traduce 'mimořádná událost' como 'incidente extraordinario' en el título 2.2, pero en el cuerpo se usa 'IE' (producción del IE), creando una inconsistencia no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' se traduce como 'producción' en varias frases ('producción del IE', 'producción de incidentes extraordinarios'), lo que es incorrecto: debería ser 'suceso/incidente extraordinario' o 'acontecimiento extraordinario', no 'producción'",
+     "'Výstražný kříž' se traduce como 'Cruz de advertencia', pero el término normalizado es 'Cruz de San Andrés'",
+     "'výpravčí' se traduce como 'despachador', término aceptable pero no normalizado (mejor 'jefe de estación' o 'factor')"
+    ],
+    "comentario": "La traducción es mayormente fiel y conserva las cifras, pero contiene errores terminológicos graves ('producción' por 'mimořádná událost') y alguna omisión menor."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 72,
+    "omisiones": [
+     "En el original falta el texto entre 'Úředního' y '98 671 ze dne 22. 2. 2005' (número de autorización y referencia completa) que la traducción reconstruye/inventa",
+     "Falta la referencia 'vyhlášky Sb.)' en el párrafo 3.2.3 (texto truncado en el original pero la traducción añade 'decreto núm. 177/1995 Sb.' completo)",
+     "Falta la línea final del original sobre 'zákon č. 361/2000 Sb.' que la traducción sí incluye (posible invención, no omisión)"
+    ],
+    "invenciones": [
+     "'Autorización Administrativa expedida por la Oficina Ferroviaria de Praga, el 23. 3. 2005 bajo el n.º de expediente 3-588/05-DU/Le (n.º ev. ÚP/2005/8014)' — no aparece en el original (el original está truncado en 'Úředního 98 671')",
+     "'Contrato de mandato núm. 03/2005 sobre la explotación de la línea' — no consta en el original",
+     "'Ley núm. 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre, en la redacción de las disposiciones posteriores' — el original solo dice 'upravuje zákon' y corta"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'vehículo ferroviario de tracción' por 'hnací drážní vozidlo' — debería ser 'vehículo ferroviario motor' o 'vehículo de tracción'",
+     "'operatividad de la línea' por 'provozuschopnosti dráhy' — mejor 'explotabilidad de la línea'",
+     "'reglamento de construcción y técnico de ferrocarriles' por 'dopravní řád drah' en 3.3.1 — confusión: 173/1995 es reglamento de circulación, no de construcción"
+    ],
+    "comentario": "La traducción completa lagunas del original con datos inventados (números de expediente, contratos y decretos ausentes) y altera cifras, por lo que requiere revisión."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el párrafo inicial del original sobre la comunicación del jefe de estación de Šumperk mediante enlace telefónico de línea con la obsluha del aparato de enclavamiento (el original no menciona hora de salida 15:50 ni autorización de salida en ese punto)",
+     "Falta la frase 'V žst. Petrov nad Desnou není instalováno záznamové zařízení...' en su forma original (se parafrasea y se añade contenido)",
+     "Falta la mención de que el maquinista del HDV 810.221-2 y el conductor de la motocicleta fueron sometidos a prueba de alcoholemia (el original solo dice 'PČR na místě MU s výsledkem – negativní', sin especificar sujetos)"
+    ],
+    "invenciones": [
+     "Se añade 'El tren Os 13772 partió de la est. Šumperk a las 15:50 h tras la autorización de salida dada por el jefe de estación de Šumperk', que no aparece en el original",
+     "Se añade 'comunicó... la salida prevista del tren Os 13772 al jefe de estación de Petrov nad Desnou', no presente en el original",
+     "Se añade 'Las medidas de protección y seguridad del lugar del SE fueron garantizadas por el maquinista del tren Os 13772 hasta la llegada de la persona autorizada', que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'mimořádná událost' traducido como 'suceso excepcional' en lugar de 'accidente' o 'incidente' según terminología ferroviaria normalizada",
+     "'výpravčí' traducido como 'jefe de estación' (aceptable) pero se pierde la distinción con 'obsluha staničního zabezpečovacího zařízení'",
+     "'střetnutí' traducido como 'colisión' cuando el original puede referirse a 'encuentro/colisión en la vía'"
+    ],
+    "comentario": "La traducción introduce datos inexistentes (hora 15:50, autorización de salida, prueba de alcoholemia a sujetos concretos) y omite el párrafo inicial, por lo que no es fiel al original."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-09102006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-03102006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   9,
+   13,
+   16,
+   19
+  ],
+  "fidelidad_media": 83.7,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'¿Recuerta' por '¿Recuerda' (error tipográfico que afecta a la inteligibilidad)",
+   "'señal de la aproximación de un tren' aceptable, pero el original dice 'signálu o blížícím se vlaku' (señal de tren que se aproxima)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la mención 'dráha celostátní' como 'línea nacional' se mantiene, pero se omite la coletilla 'vzniku mimořádné události' en el encabezado checo (aunque se traduce parcialmente)",
+     "Se omite la línea 'Investigation Report of Railway Accident' como título en inglés en su posición original (se reubica)"
+    ],
+    "invenciones": [
+     "'Accidente en paso a nivel del tren rápido n.º 885 y de un turismo' no aparece en el original; el original dice 'Střetnutí silničního vozidla s vlakem R 885' (colisión de vehículo de carretera con tren R 885)",
+     "'tren rápido n.º 885' introduce 'rápido' y 'n.º' no presentes en el original (R 885)",
+     "'de las causas y circunstancias' añadido en el título del informe"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'6-141/206' debería ser '6-141/2006' (cifra alterada)",
+     "'IČO' traducido como 'NIF' en lugar de mantener el identificador checo o 'CIF/ID fiscal'",
+     "'mimořádná událost' traducido como 'ocurrencia extraordinaria' en vez de 'suceso/accidente extraordinario'"
+    ],
+    "comentario": "La traducción altera el número de registro (206 por 2006) e inventa un segundo título con 'tren rápido n.º 885 y un turismo' que no está en el original."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'prosazování ... 14' (probablemente 3.2.1/3.2.2 en el original checo)",
+     "Falta el encabezado '3.2.1' y '3.2.2' en el original (solo aparecen números de sección sin título en el fragmento original, pero la traducción añade títulos que no están en el original)"
+    ],
+    "invenciones": [
+     "Se añaden títulos completos para 3.2.1 'Organización marco y forma en que se emiten y ejecutan las instrucciones' y 3.2.2 'Requisitos aplicables al personal del administrador de la infraestructura y del transportista, y su cumplimiento' que no figuran en el original",
+     "Se añade el título de 3.5.1 'Medidas adoptadas por el personal del administrador de la infraestructura y del transportista en relación con el control, la señalización y la protección del tráfico' que no está en el original",
+     "Se añade el título de 3.6.2 'Estado de salud y circunstancias personales que influyeron en el incidente, incluido el estrés físico o psicológico' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'suceso/accidente ferroviario' (término normalizado)",
+     "'drážní vozidla' como 'material rodante' es aceptable, pero 'součásti dráhy' como 'partes de la vía' podría precisarse como 'partes de la infraestructura ferroviaria'"
+    ],
+    "comentario": "La traducción añade títulos de sección ausentes en el original y omite una línea del índice, aunque las cifras y páginas coinciden."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase sobre la señalización con la señal vertical de advertencia «Výstražný kříž pro železniční přejezd» según las normas de circulación (parte del original omitida o reformulada)",
+     "Falta la mención de que el paso a nivel está en la calle Petrovická en la ciudad de Krnov tal como aparece en el original (se reformula pero se añade información no presente)",
+     "Falta la referencia a la categoría PZS y clase del PZZ tal como se describe (se añade '3SI, tipo VÚD' no presente)"
+    ],
+    "invenciones": [
+     "Se añade 'de categoría PZS 3SI, tipo VÚD' no presente en el original",
+     "Se añade 'El ángulo de cruce de la vía con la carretera es de 90°' no presente",
+     "Se añade 'El paso a nivel cruza una carretera de primera clase' no presente"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'ŽP' se traduce como 'paso a nivel' pero el original usa 'ŽP' como abreviatura de 'železniční přejezd' (paso a nivel ferroviario), no se mantiene la abreviatura",
+     "'PZZ' se traduce como 'aparato de enclavamiento de paso a nivel' pero el original se refiere a 'přejezdové zabezpečovací zařízení' (dispositivo de protección de paso a nivel)",
+     "'PZS' se traduce como 'categoría PZS 3SI' añadiendo información no presente"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, altera cifras y añade datos no presentes en el original, por lo que requiere revisión."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 96,
+    "omisiones": [],
+    "invenciones": [
+     "de ancho internacional (el original dice 'jednokolejné celostátní dráhy', vía estatal de una sola vía, no de ancho internacional)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'traťové zabezpečovací zařízení' traducido como 'instalación de seguridad de caja de vía' en lugar de 'instalación de seguridad de vía/tramo'",
+     "'stavědlo' como 'enclavamiento' es aceptable, pero 'electronic interlocking' sería más preciso"
+    ],
+    "comentario": "Traducción muy fiel con cifras correctas, pero introduce 'de ancho internacional' no presente en el original y algún término técnico mejorable."
+   },
+   {
+    "pagina": 19,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el término 'mimořádná událost' de forma consistente (se alterna 'incidente excepcional' con 'IE')",
+     "En 3.6.2 se omite la mención de que la prueba de aliento se realizó 'orientační' (orientativa) aplicada al maquinista y al conductor, aunque se recoge parcialmente"
+    ],
+    "invenciones": [
+     "Se añade 'de servicio' en 'teléfono móvil de servicio' (original: 'služebním mobilním telefonem' sí lo contiene, pero se reformula)",
+     "Se introduce 'la aparición de la IE' donde el original dice 'vznik MU' (se produce la MU), matiz añadido"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente excepcional' en lugar de 'suceso extraordinario' o 'accidente ferroviario' según normativa",
+     "'HDV' se traduce como 'locomotora' cuando el original distingue 'hnací drážní vozidlo' (vehículo ferroviario motor)",
+     "'výstražník přejezdového zabezpečovacího zařízení' traducido como 'semáfor del dispositivo de seguridad de paso a nivel', impreciso"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero con terminología ferroviaria no normalizada y alguna imprecisión en términos técnicos clave."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-03102006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-17102006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   9,
+   13,
+   16,
+   19
+  ],
+  "fidelidad_media": 88.3,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'výhybka' traducido como 'punto de cruce' en lugar de 'aguja' o 'desvío'",
+   "'přestavník' traducido como 'conmutador' en lugar de 'accionamiento' o 'motor de aguja'",
+   "'kolejový závěrník' traducido como 'tope de vía' en lugar de 'cerrojo de vía'",
+   "'vlaková cesta' traducido como 'vía de tren' en lugar de 'ruta de tren'",
+   "'západková zkouška' traducido como 'prueba de traba' en lugar de 'prueba de cerrojo'",
+   "'mimořádná událost' traducido como 'incidente'/'IA' en lugar de 'accidente ferroviario' o 'suceso extraordinario', término normalizado"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el título original 'vzniku mimořádné události' como encabezado independiente (se fusiona en la traducción)",
+     "Falta la mención 'šesti drážních vozidel' en el título traducido del informe de investigación (se sustituye por 'tren de mercancías n.º 47338')"
+    ],
+    "invenciones": [
+     "'Informe sobre los resultados de la investigación de las causas y circunstancias' no aparece en el original",
+     "'Descarrilamiento del tren de mercancías n.º 47338 en la estación de Děčín východ' es un título añadido que no está en el original",
+     "'de mercancías' no figura en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'punto de cruce' por 'výhybka' (debería ser 'desvío' o 'aguja')",
+     "'incidente extraordinario' por 'mimořádná událost' (en ferrocarril se normaliza como 'accidente' o 'suceso extraordinario')",
+     "'NIF' por 'IČO' (identificador checo; mejor 'número de identificación')"
+    ],
+    "comentario": "La traducción añade títulos y calificativos no presentes y altera términos técnicos ferroviarios, aunque conserva cifras y referencias."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'prosazování ... 15' (3.2.1) del original",
+     "Falta la línea 'řízení, signalizaci a zabezpečení dopravy ... 18' (3.5.1) del original",
+     "Falta la línea 'fyzického nebo psychického stresu ... 19' (3.6.2) del original"
+    ],
+    "invenciones": [
+     "Se añade el título completo '3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones' que no aparece en el original",
+     "Se añade el título completo '3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista, y su cumplimiento' que no aparece en el original",
+     "Se añade el título completo '3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista en relación con el control, la señalización y la protección del tráfico' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'suceso/accidente ferroviario' (término normalizado)",
+     "'drážní vozidla' como 'vehículos ferroviarios' es aceptable, pero 'součásti dráhy' como 'partes de la vía' debería ser 'partes de la infraestructura ferroviaria'"
+    ],
+    "comentario": "La traducción omite varias entradas del índice y añade títulos completos no presentes en el original, además de usar terminología no normalizada para 'mimořádná událost'."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el término 'mimořádná událost' de forma consistente (se alterna 'incidente extraordinario' e 'IE')",
+     "Se omite la abreviatura 'MU' del original y su definición implícita",
+     "No se recoge la mención 'včetně činnosti integrovaného záchranného systému a záchranné služby' con precisión terminológica"
+    ],
+    "invenciones": [
+     "'sistema del sistema integrado de rescate' (duplicación no presente en el original)",
+     "'servicio de rescate rápido' como traducción de 'rychlou záchrannou službu' (el original no dice 'rápido')"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'punto de desvío' por 'výhybka' (debería ser 'desvío' o 'aguja')",
+     "'vía de circulación' por 'traťová kolej' (debería ser 'vía de la línea')",
+     "'VF' por 'tažené DV' sin normalizar"
+    ],
+    "comentario": "Traducción mayormente fiel pero con terminología ferroviaria no normalizada, duplicaciones y alguna invención léxica que requieren revisión."
+   },
+   {
+    "pagina": 19,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'včetně fyzického nebo psychického stresu' que aparece truncada en el original antes del apartado 3.6.3",
+     "Falta el encabezado '3.6.2' en el original (aunque el contenido se traduce, el título del apartado no aparece completo en el original)"
+    ],
+    "invenciones": [
+     "Se añade 'y al horario de turnos de ČD, a. s.' que no aparece en el original",
+     "Se añade 'Según los resultados de la investigación y los informes presentados sobre la aptitud sanitaria para el trabajo' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente' o 'suceso extraordinario' según terminología ferroviaria",
+     "'provozovatel dráhy' traducido como 'titular de la infraestructura' en un caso y 'titular' en otro, falta normalización",
+     "'dopravce' traducido como 'transportista' en lugar de 'empresa ferroviaria' o 'operador'"
+    ],
+    "comentario": "La traducción es mayoritariamente fiel pero incluye adiciones no presentes en el original y omite un fragmento de texto, además de inconsistencias terminológicas."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-17102006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-11082006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 91.5,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Souhrn' traducido como 'Resumen' igual que 'Summary', perdiendo la distinción original entre Summary y Souhrn",
+   "'mimořádná událost' traducido como 'ocurrencia extraordinaria' en lugar del término normalizado 'accidente ferroviario' o 'suceso extraordinario'",
+   "'jefe de mantenimiento de la estación' por 'strojmistr' (jefe de turno/maestro de máquinas, no de mantenimiento)",
+   "'jefe principal de la estación de mando' por 'vrchní přednosta UŽST' (jefe superior de la estación de mando)",
+   "'incidente' por 'mimořádná událost' (debería ser 'suceso/accidente extraordinario' según terminología ferroviaria)",
+   "'incidente' por 'mimořádná událost' (suceso extraordinario/accidente ferroviario) en lugar de 'accidente' o 'suceso extraordinario'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce/recoge el término checo 'mimořádné události' como encabezado propio (se diluye en la frase 'ocurrencia extraordinaria')",
+     "Se omite la línea 'Czech Republic' duplicada en el original (aparición inglesa del país)"
+    ],
+    "invenciones": [
+     "Se añade 'Informe de los resultados de la investigación de las causas y circunstancias de la ocurrencia extraordinaria', texto que no figura en el original",
+     "Se añade 'de las causas y circunstancias'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádné události' traducido como 'ocurrencia extraordinaria' en lugar de 'suceso extraordinario'/'accidente extraordinario' (término normalizado)",
+     "'Střetnutí' traducido como 'Colisión' y luego 'Accidente en paso a nivel', cuando el original distingue 'Střetnutí' (colisión/encuentro) y 'Level crossing accident' (accidente en paso a nivel)"
+    ],
+    "comentario": "La traducción es fiel en cifras y referencias, pero añade texto explicativo no presente en el original y no normaliza el término 'mimořádné události'."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 78,
+    "omisiones": [
+     "En el resumen original no aparece el tipo de ocurrencia como 'accidente en paso a nivel (colisión...)' — el original deja 'Occurence type:' vacío",
+     "El original checo incluye 'km 11,923' que sí está en la traducción; pero el original inglés no lo incluye",
+     "Falta la referencia 'Ley nº 266/1994 Sb.' en el bloque de causas del original checo? No, está traducida"
+    ],
+    "invenciones": [
+     "'accidente en paso a nivel (colisión del tren de pasajeros nº 1645 con un autobús)' como Tipo de ocurrencia: el original deja ese campo vacío",
+     "'coste total 1 265 000 CZK' — no aparece en el original; es una suma calculada",
+     "'1 fallecido (conductor del autobús), 8 heridos (pasajeros del autobús)' — el original checo dice 'újma na zdraví s následkem smrti' y 'ocho personas', pero el resumen inglés no incluye estas cifras; la traducción las añade al resumen"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Occurence type' traducido como 'Tipo de ocurrencia' con contenido inventado en lugar de dejarlo vacío",
+     "'disruption to traffic 168 minutes' → 'interrupción del tráfico 168 minutos' correcto",
+     "'bus driver violence' → 'violencia del conductor del autobús' — traducción literal dudosa; el original checo indica causas de incumplimiento normativo, no 'violencia'"
+    ],
+    "comentario": "La traducción añade datos (tipo de ocurrencia, cifras de víctimas y coste total) ausentes en el original y reconstruye texto truncado, aunque las cifras existentes coinciden."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-11082006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-20022006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "fidelidad_media": 93.7,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'výpravčí' traducido como 'despachador de tráfico' en lugar de 'jefe de estación'",
+   "'stavědlový přístroj' traducido como 'aparato de conmutación' en lugar de 'aparato de enclavamientos'",
+   "'stavědlo' traducido como 'conmutador' en lugar de 'enclavamiento/puesto de enclavamientos'",
+   "'návěstidlo' como 'señal' es aceptable, pero 'návěst' como 'indicación' podría normalizarse como 'señal/aspecto'",
+   "'incidente extraordinario' por 'mimořádná událost' (accidente ferroviario) no normalizado",
+   "'dispositivo de seguridad' por 'zabezpečovací zařízení' (instalación de seguridad/enclavamientos)"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el título checo 'vzniku mimořádné události' como parte del encabezado original (se integra en la frase pero se omite la referencia a 'mimořádná událost' como 'suceso extraordinario')"
+    ],
+    "invenciones": [
+     "'Informe de los resultados de la investigación de las causas y circunstancias' no aparece literalmente en el original",
+     "'tren rápido n.º 940' y 'tren de mercancías n.º 1. nsl. 64439' añaden designaciones de tipo de tren no presentes en el original",
+     "'de importancia estatal' añade matiz no explícito en 'celostátní'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en un lugar y omitido en otro; debería normalizarse como 'suceso extraordinario'",
+     "'dráha železniční celostátní' traducido como 'línea ferroviaria nacional de importancia estatal' en lugar de 'ferrocarril estatal'"
+    ],
+    "comentario": "La traducción es comprensible y conserva cifras y fechas, pero añade designaciones de tren y matices no presentes y no normaliza el término 'mimořádná událost'."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Tipo de tren: tren rápido n.º 940 y tren de mercancías n.º 1. nsl. 64439 (el original deja el campo vacío)"
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade contenido en el campo 'Tipo de tren' que el original deja en blanco; el resto es fiel y las cifras coinciden."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-20022006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-18062006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   7,
+   12,
+   17,
+   22,
+   27
+  ],
+  "fidelidad_media": 75.6,
+  "fidelidad_min": 55,
+  "sin_dictamen": [
+   27
+  ],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la mención 'kusé koleji' como 'vía muerta' está bien, pero el original checo dice 'hnacím drážním vozidlem' (vehículo motor ferroviario) y la traducción lo reduce a 'locomotora'",
+     "Se omite el texto checo 'vzniku mimořádné události' como encabezado independiente, aunque se integra en la frase"
+    ],
+    "invenciones": [
+     "'Informe sobre los resultados de la investigación de las causas y circunstancias' no aparece literalmente en el original; el original solo dice 'vzniku mimořádné události'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'hnacím drážním vozidlem' traducido como 'locomotora ferroviaria' en lugar de 'vehículo motor ferroviario'",
+     "'mimořádné události' traducido como 'incidente extraordinario' cuando en el contexto ferroviario checo equivale a 'accidente' o 'suceso extraordinario'"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura, pero añade texto interpretativo y simplifica términos técnicos del original checo."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea del índice 'mimořádné události a činnosti záchranných služeb' (26) que en el original aparece como continuación del 4.2",
+     "Falta la línea 'mimořádné události, které však nejsou významné pro závěry o příčinách' (29) bajo 4.4"
+    ],
+    "invenciones": [
+     "Se añade el punto 4.2.1 'Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia' que no existe en el original",
+     "Se añade el punto 4.4.1 'Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias del incidente...' que no existe en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'accidente'/'suceso extraordinario' (término normalizado ferroviario)",
+     "'záchranné služby' omitido en 4.2 y desplazado a un 4.2.1 inventado"
+    ],
+    "comentario": "La traducción añade dos subapartados inexistentes (4.2.1 y 4.4.1) y omite dos líneas del índice, además de traducir 'mimořádná událost' de forma no normalizada."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: 'Po ohledání místa vzniku MU PČR, vrchním inspektorem RIBŽD Praha a přítomným K' (queda truncada y no se traduce)",
+     "Falta la mención de las vías n.º 2, 4, 8a, 10a, 98 y 99 en el pasaje sobre la energización del 18.06.2006 (el original menciona 'na části' de vías no especificadas que la traducción omite)",
+     "Falta la fila de tabla/sección 2.3.1 con el encabezado completo 'včetně osob ve smluvním poměru' como subtítulo independiente"
+    ],
+    "invenciones": [
+     "'a las 8:40 horas se concedió por parte de DI el permiso para iniciar los trabajos de despeje' no está en el original",
+     "Se añaden las secciones 2.3.1, 2.3.2 y 2.3.3 con contenidos no presentes en el original",
+     "'En los equipos de SŽDC, s. o., se estimó el importe total de los daños en 421 172,-Kč' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'realineamiento' por 'nakolejení' (debería ser 'encarrilamiento' o 'puesta sobre vía')",
+     "'unidad de grúa de accidentes' por 'nehodová jeřábová jednotka' (término no normalizado)",
+     "'catenaria' por 'trakční vedení' es aceptable pero no uniforme"
+    ],
+    "comentario": "La traducción añade secciones y datos inexistentes, omite el inicio del párrafo y altera fechas y números de vías, por lo que requiere revisión."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el final truncado del original: 'se souhlasem traťového' (con el consentimiento del jefe de vía) queda cortado igual que en el original, pero la traducción añade 'con el consentimiento del jefe de vía' que sí está en el original; no hay omisión real de contenido completo, pero se pierde la indicación de que el texto original continúa truncado."
+    ],
+    "invenciones": [
+     "La traducción añade 'con el consentimiento del jefe de vía' al final, que corresponde al original truncado 'se souhlasem traťového' (con el consentimiento del jefe de vía), por lo que no es invención sino traducción del fragmento; sin embargo, el original termina en 'traťového' sin completar, y la traducción completa la palabra como 'jefe de vía', lo que es una interpretación razonable pero no literal del truncamiento."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'výpravčí' se traduce como 'jefe de estación' en varios contextos, pero el original distingue 'staniční výpravčí' (jefe de estación), 'traťový výpravčí' (jefe de vía) y 'výpravčí vnější služby' (jefe de servicio exterior); la traducción usa 'jefe de estación' para 'staničnímu výpravčímu' y también para 'žádným výpravčím', lo que puede confundir la distinción entre tipos de výpravčí.",
+     "'staniční dispečer' traducido como 'despachador de estación' es aceptable, pero el original distingue 'provozní dispečer' (despachador de explotación) y 'staniční dispečer'; la traducción usa 'despachador de explotación' para 'provozním dispečerem', lo cual es correcto.",
+     "'vlakotvorná práce' traducido como 'trabajo de formación de trenes' es correcto."
+    ],
+    "comentario": "La traducción es en general fiel y completa, pero hay que revisar la normalización de términos ferroviarios (výpravčí, odbočka) y la interpretación del truncamiento final."
+   },
+   {
+    "pagina": 22,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase final del original: 'na dráze dalších 800 metrů snížení rychlosti výběhem (se zpomalením a = 0,06 m/s2) na hodnotu' queda truncada sin el valor final de velocidad",
+     "No se traduce 'odvratná' (vía de maniobras n.º 105b es 'odvratná, kusá kolej', la traducción solo dice 'vía muerta')"
+    ],
+    "invenciones": [
+     "Se añade 'de pequeño perfil' para 'trpasličí' (no es invención grave, pero no está literalmente en el original)",
+     "Se traduce 'výběhem' como 'por la pendiente', lo que introduce un concepto no presente (výběh = por inercia/deslizamiento, no pendiente)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'trpasličí návěstidla' traducido como 'semáforos de maniobras de luz de pequeño perfil' en lugar de 'señales enanas'",
+     "'výpravčí' traducido como 'guardafrenos' (término incorrecto; výpravčí = jefe de circulación/encargado de circulación)",
+     "'stavědlo' traducido como 'puesto de maniobras' (stavědlo = enclavamiento/cabina de enclavamientos)"
+    ],
+    "comentario": "La traducción es mayormente fiel pero contiene errores terminológicos graves (výpravčí→guardafrenos) y una omisión al final del texto."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-18062006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-02122006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   8,
+   10,
+   12,
+   14
+  ],
+  "fidelidad_media": 88.7,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mimořádná událost' traducido como 'ocurrencia extraordinaria' en lugar de 'suceso extraordinario' o 'incidente'",
+   "'drážní doprava' como 'transporte ferroviario' cuando se trata de tranvía (transporte por ferrocarril urbano)",
+   "'cuerpo independiente de la vía' calco de 'samostatné těleso dráhy' (plataforma independiente)",
+   "'suceso excepcional' por 'mimořádná událost' (MU): en el original se usa la sigla MU de forma consistente; la traducción la vierte como 'SE' sin mantener la sigla original",
+   "'daño' por 'škoda' en 2.3.2 y 2.3.3: en contexto de accidentes 'škoda' se normaliza como 'daños materiales'/'perjuicio', no 'daño' genérico",
+   "'dvojkolí' traducido como 'bogie' en lugar de 'par de ruedas'/'eje montado'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Informe sobre los resultados de la investigación de las causas y circunstancias de la ocurrencia extraordinaria (frase añadida que no figura en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádné události' traducido como 'ocurrencia extraordinaria' en lugar de 'suceso extraordinario'/'accidente'",
+     "'Upadnutí kola nápravy' traducido como 'Caída de la rueda del eje' cuando el original inglés dice 'Broken tram wheel' (rueda rota), no caída"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura, pero añade una frase no presente en el original y presenta inconsistencias terminológicas entre 'caída' y 'rota' para el mismo suceso."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta en la traducción el fragmento del original: 'koncem záznamu a postupné snižování rychlosti na 13 km/h, kdy došlo k okamžitému zastavení' (solo se traduce la parte final)",
+     "Falta la frase original 'Odpočinek před rozvrhem turnusové služby.' (sustituida por una referencia inventada al § 90 del Código del Trabajo)",
+     "Falta la mención original 'bez dalších opatření' no, sí está; falta la parte 'pověřenou osobou.' del final de 3.5.3 (el original repite la frase de forma truncada)"
+    ],
+    "invenciones": [
+     "Se añade 'A continuación se registra el aumento de velocidad a 19 km/h, la disminución gradual a 14 km/h y continúa con el aumento a 30 km/h a 60 m del final del registro. Sigue una disminución a 20 km/h a 28 metros del final del registro, un aumento a 22 km/h a 26 metros del final del registro' — datos y cifras que no aparecen en el original",
+     "Se añade 'Como primera comunicación acreditada en relación con la aparición del MU puede considerarse la notificación del descarrilamiento...' — contenido no presente en el original",
+     "Se añade 'El descanso antes de la jornada fue conforme a lo dispuesto en el § 90 del Código del Trabajo. La jornada laboral viene determinada por el cuadrante de servicio por turnos.' — no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'gestor de la infraestructura' por 'provozovatel dráhy' (operador de la infraestructura ferroviaria) — término no normalizado",
+     "'suceso excepcional' por 'mimořádná událost' (incidente/accidente ferroviario) — término no normalizado",
+     "'descarrilamiento' por 'vykolejení' — correcto, pero el original distingue 'vykolejení řidičem tramvajového vlaku' (descarrilamiento notificado por el conductor)"
+    ],
+    "comentario": "La traducción inserta varios tramos de velocidad y distancias inexistentes en el original, omite frases y añade referencias legales no presentes, por lo que no es fiel."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-02122006.md"
+ },
+ "md-es/CZ/2006/Investigation_report-26122006-Brandys_nad_Orlici.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mimořádná událost' traducido como 'incidente' en lugar de 'accidente' o 'suceso extraordinario'",
+   "'Doplňující zjištění' traducido como 'Investigaciones complementarias' en lugar de 'Hallazgos complementarios'",
+   "'Pracovní zdravotní a provozní podmínky' traducido como 'Condiciones laborales, sanitarias y de explotación' (aceptable pero 'provozní' es 'de operación/explotación')",
+   "'nástupiště I' traducido como 'el andén I' (concordancia de género incorrecta en castellano; debería ser 'el andén I' o 'la plataforma I' de forma coherente)",
+   "'vjezdového návěstidla' como 'señal de entrada' es aceptable, pero 'vjížděl' como 'entraba' pierde el aspecto imperfectivo/ingresivo",
+   "'výpravčí' traducido como 'guardafrenos' (debería ser 'jefe de estación' o 'factor de circulación')"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'mimořádné události' como encabezado independiente (se funde en la frase del informe)",
+     "Se omite la mención 'Czech Republic' duplicada en el original (aparece dos veces, la traducción también la duplica, pero se pierde la estructura de encabezado)"
+    ],
+    "invenciones": [
+     "Se añade 'Informe de los resultados de la investigación de las causas y circunstancias de la ocurrencia de un incidente', que no aparece en el original",
+     "Se añade 'de la línea' y 'n.º ref.' como formulaciones no presentes literalmente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádné události' (suceso extraordinario/accidente) se traduce como 'incidente', cuando el original distingue accidente/incidente",
+     "'Střet' (colisión) se traduce como 'Colisión', aceptable, pero 'fast train' se vierte como 'tren rápido' y 'vlak EC' como 'tren EC', sin normalizar"
+    ],
+    "comentario": "La traducción es fiel en cifras y referencias, pero añade texto no presente en el original y altera la terminología de 'mimořádné události'."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 88,
+    "omisiones": [
+     "En 2.2.1 se omite la referencia 'SPD Bratislava' del maquinista del EC 278 (el original dice 'ZSSK, a. s. SPD Bratislava')"
+    ],
+    "invenciones": [
+     "Se añade 'de la oficina regional de policía criminal' para OŘ SKPV, matizando el original",
+     "Se añade 'de tren' en 'Jefe de tren' (vedoucí vlakové čety) aunque el original no lo especifica"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'paso a nivel con traviesas' (pražcový přechod) no es término normalizado; debería ser 'paso de traviesas' o 'cruce de traviesas'",
+     "'vehículo ferroviario motor' (hnací drážní vozidlo) debería ser 'vehículo ferroviario de tracción' o 'vehículo motor'",
+     "'masa de tracción' (dopravní hmotnost) debería ser 'masa de transporte'"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero presenta omisión de 'SPD Bratislava', alguna invención menor y terminología técnica mejorable."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del maquinista EC 278 sobre ver a una persona a 50 m (aparece en traducción pero no en el original checo mostrado)",
+     "Falta el fragmento 'Prostor nástupiště a 2. staniční koleje byl volný' en su ubicación original",
+     "Falta la pregunta completa del jefe de estación sobre '¿Vio claramente todo el andén...?' en el original (aparece solo la respuesta)"
+    ],
+    "invenciones": [
+     "'A una distancia de 50 m vio una persona de pie en el perfil de paso de la 2.ª vía de tráfico' no está en el original",
+     "'El tren Os 5029 se detuvo en la 1.ª vía de estación en el ámbito del andén' no está en el original",
+     "'Tras el desembarque y el embarque de pasajeros, recibió la autorización de salida y a continuación despachó el tren' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'excepcionalidad' por 'události' (suceso/accidente) no es término normalizado",
+     "'perfil de paso' por 'průjezdnímu profilu' podría requerir 'gálibo'",
+     "'jefe de cuadrilla' por 'vedoucí vlakové čety' debería ser 'jefe de tren' o 'interventor'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones respecto al original, con párrafos completos añadidos que no figuran en el texto checo."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-26122006-Brandys_nad_Orlici.md"
+ },
+ "md-es/CZ/2006/Investigation_report-03012006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 83.3,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'rolling stock wagon (boogie failure)' traducido como 'material rodante (fallo del bogie)': se omite 'wagon' y se normaliza 'boogie' a 'bogie'",
+   "«výběh» traducido como «arranque» (debería ser 'inercia' o 'marcha por inercia')",
+   "«stažením sběrače» traducido como «retirando el captador» (debería ser 'bajando el pantógrafo')",
+   "«rychlobrzdění» traducido como «frenado de emergencia» (debería ser 'frenado rápido')",
+   "«zhlaví» traducido como «zona de Olomouc» (debería ser 'cabecera de la estación')",
+   "«výhybna» traducido como «desvío» (debería ser 'apeadero de cruce' o 'bifurcación')"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se omite contenido sustantivo; se mantienen las dos versiones (checa e inglesa) del encabezado y del título"
+    ],
+    "invenciones": [
+     "Se añade 'Informe de investigación del accidente o incidente ferroviario' que no aparece en el original",
+     "Se añade 'Martes, 3 de enero de 2006' repetido en la versión inglesa del título, que en el original no lleva fecha"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádné události' traducido como 'ocurrencia extraordinaria' en lugar de 'suceso extraordinario'/'accidente e incidente ferroviario'",
+     "'tažených drážních vozidel' como 'vehículos ferroviarios remolcados' es aceptable, pero el original inglés distingue 'freight train'"
+    ],
+    "comentario": "La traducción es fiel en cifras y referencias, pero introduce una línea de título no presente en el original y repite la fecha en la versión inglesa."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la línea inicial del original: 'daño al patrimonio de SŽDC s.o., bajo la gestión de ČD, a.s. SDC Olomouc, fue cuantificado en la cantidad de' (aparece en la traducción pero no en el original)",
+     "Falta el desglose de la cifra 21.500.000 Kč (material rodante 10.000.000, equipo de seguridad 1.500.000, catenaria 9.000.000, equipo de alta corriente SEE 500.000) que no está en el original",
+     "Falta la línea 'daño al patrimonio de la empresa Elektrizace železnice Praha, a.s. 2.018.985,- Kč' que no está en el original"
+    ],
+    "invenciones": [
+     "Línea inicial 'daño al patrimonio de SŽDC s.o., bajo la gestión de ČD, a.s. SDC Olomouc, fue cuantificado en la cantidad de'",
+     "Desglose de la cifra 21.500.000 Kč (material rodante 10.000.000, equipo de seguridad 1.500.000, catenaria 9.000.000, equipo de alta corriente SEE 500.000)",
+     "Línea 'daño al patrimonio de la empresa Elektrizace železnice Praha, a.s. 2.018.985,- Kč'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'nehodové nakolejovací prostředky' traducido como 'medios de tracción accidentados' en lugar de 'medios de reencarrilamiento de emergencia'",
+     "'HDV' traducido como 'locomotora HDV' cuando debería ser 'vehículo de tracción' o 'locomotora'",
+     "'TDV' traducido como 'vagones de carga TDV' cuando debería ser 'vehículos de tracción diésel' o 'vagones'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, además de errores en cifras y terminología técnica."
+   },
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 've znění pozdějších předpisů' como 'en la versión de las disposiciones posteriores' (se omite 'disposiciones')",
+     "Se omite la coletilla 's platností na 1 rok' no, sí está; se omite la indicación de que el 'Posudek' es 'ze dne' correctamente traducida",
+     "Se omite la frase final 'a v průběhu' queda truncada igual que el original, no es omisión"
+    ],
+    "invenciones": [
+     "Se añade '²' en '0,58 m/s²' cuando el original dice '0,58 m/s'",
+     "Se traduce 'TDV' como 'vagones TDV' añadiendo 'vagones' no presente en el original",
+     "Se traduce 'čtvrtém dvojkolí' como 'cuarta rueda' en lugar de 'cuarto eje montado'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "dvojkolí traducido como 'rueda' en vez de 'eje montado'",
+     "TDV (vozidlo) traducido como 'vagones' cuando es 'vehículo ferroviario'",
+     "HDV traducido como 'locomotora' cuando es 'vehículo motor'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con errores numéricos (m/s² añadido), terminológicos (dvojkolí, TDV, HDV, MU) y algunas invenciones como 'vagones'."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la palabra inicial 'brzdění' como 'frenado' (sí aparece, ok)",
+     "Se omite la abreviatura 'MU' como término normalizado; se traduce como 'incidente' en lugar de 'suceso extraordinario' o 'accidente'",
+     "En el apartado E se omite la referencia a 'mimořádné události' como término técnico"
+    ],
+    "invenciones": [
+     "Se añade 'Oficina Regional de Investigación de Accidentes Ferroviarios' como traducción de RIBŽD, que no aparece explícito en el original",
+     "Se añade 'vehículos descarrilados' donde el original dice 'vykolejených TDV' (vehículos ferroviarios descarrilados), pero TDV no se traduce"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'TDV' no se traduce ni se explica; debería mantenerse o normalizarse como 'vehículo ferroviario'",
+     "'MU' se traduce como 'incidente' en lugar de 'suceso extraordinario' (término oficial en la normativa checa)",
+     "'výhybka' no aparece, pero 'výkolejení' se traduce como 'descarrilamiento', correcto"
+    ],
+    "comentario": "La traducción es mayormente fiel, pero contiene errores terminológicos graves en componentes ferroviarios (cojinetero por caja de grasa, soporte por guía) y no normaliza términos clave como MU y TDV."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-03012006.md"
+ },
+ "md-es/CZ/2007/CZ-320 - Investigation_report-01092007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   5,
+   8,
+   11,
+   13,
+   16
+  ],
+  "fidelidad_media": 80.7,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'incidente extraordinario' por 'mimořádná událost' (accidente ferroviario) no normalizado",
+   "'puntos de cruce' por 'výhybky' (desvíos/agujas) impreciso",
+   "'conmutadores de retorno automático' por 'samovratnými přestavníky' (accionamientos de retorno automático) impreciso",
+   "'Dispositivo de ejecución' por 'Prováděcí nařízení' (disposición de aplicación) incorrecto"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [],
+    "invenciones": [
+     "de viajeros (añadido en la colisión de trenes Os 18003 y Os 18032)",
+     "Colisión del tren de viajeros n.º 18003 con el tren de viajeros n.º 18032 (frase no presente en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "mimořádná událost traducido como 'incidente extraordinario' en lugar de 'accidente' o 'suceso extraordinario'",
+     "dopravna Bavorov traducido como 'estación de Bavorov' cuando el original distingue dopravna de žst."
+    ],
+    "comentario": "La traducción añade 'de viajeros' y una frase de colisión no presente en el original, y confunde 'dopravna' con 'estación'."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el apartado 2.2.5 'Trabajos realizados en el lugar del incidente extraordinario y en sus proximidades' en el original (aparece en la traducción pero no en el original)",
+     "Falta el apartado 2.2.6 'Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos' en el original",
+     "Falta el apartado 2.3.2 'En las mercancías transportadas, equipajes y otros bienes' en el original"
+    ],
+    "invenciones": [
+     "Apartado 2.2.5 'Trabajos realizados en el lugar del incidente extraordinario y en sus proximidades' no está en el original",
+     "Apartado 2.2.6 'Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos' no está en el original",
+     "Apartado 2.3.2 'En las mercancías transportadas, equipajes y otros bienes' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente ferroviario' o 'suceso extraordinario' según terminología normalizada",
+     "'provozovatel dráhy' traducido como 'gestor de la infraestructura' (aceptable) pero 'dopravce' como 'transportista' en lugar de 'empresa ferroviaria'",
+     "'zabezpečovací systém' como 'sistema de seguridad' en lugar de 'sistema de señalización/enclavamientos'"
+    ],
+    "comentario": "La traducción añade apartados (2.2.5, 2.2.6, 2.3.2, 2.3.3) y texto no presentes en el original, y omite parte del encabezado 3.1, además de usar terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el original: 'vlaky osobní dopravy Os 18003 a Os 18032 obsazené cestujícími' (ambos trenes ocupados por viajeros); la traducción solo atribuye 'ocupado por viajeros' al Os 18032",
+     "En el original: 'dvanáct cestujících a jeden zaměstnanec dopravce' (doce viajeros y un empleado); la traducción dice 'doce personas que viajaban en los trenes y un empleado', alterando la categoría"
+    ],
+    "invenciones": [
+     "'este último ocupado por viajeros' aplicado solo al Os 18032, no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'dopravna Bavorov' traducido como 'estación de maniobras' en lugar de 'estación de tráfico'/'puesto de circulación' (dopravna no es una estación de maniobras)",
+     "'dirigující dispečer' como 'despachador de tráfico' es aceptable, pero 'dopravna' mal normalizado",
+     "'mimořádná událost' como 'incidente extraordinario' es discutible frente a 'suceso extraordinario'"
+    ],
+    "comentario": "Traducción mayormente fiel, pero omite que ambos trenes iban ocupados por viajeros y traduce 'dopravna' de forma incorrecta como estación de maniobras."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase original 'škoda nevznikla.' (no se produjo daño) tal como aparece, aunque se recoge parcialmente en la traducción ampliada",
+     "Falta el encabezado original 'zjišťování příčin vzniku mimořádné události' bajo el título 3",
+     "Falta el subtítulo original '### 3.1 Resumen de las explicaciones presentadas...' no aparece en el original; el original solo tiene 3.1.1"
+    ],
+    "invenciones": [
+     "Se añade 'La estimación pericial del daño en el coche motor 810 483-8 asciende a 105 960,-Kč, en el coche motor 810 093-5 asciende a 31 185,- Kč.' que no está en el original",
+     "Se añade 'No se produjo daño ni en los componentes de la vía de circulación ni en el medio ambiente.' que no está en el original",
+     "Se añade el título '### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'incidencia extraordinaria' por 'mimořádná událost' (accidente/incidente ferroviario) no es término normalizado",
+     "'gestor de la vía y del transporte ferroviario' por 'provozovatel dráhy a dopravce' (administrador de infraestructura y operador ferroviario) es impreciso",
+     "'despachador director' por 'dirigující dispečer' (jefe de circulación) no normalizado"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, altera la estructura de encabezados y añade datos periciales y diálogos ausentes del original, por lo que requiere revisión."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el encabezado '4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate' en el original (solo aparece 'mimořádné události a činnosti záchranných služeb')",
+     "Falta en la traducción la frase inicial del original 'dispečerovi v žst. Prachatice čas příjezdu do dopravny Bavorov' tal como está redactada (se reformula, no se omite el contenido)",
+     "Falta el fragmento 'vozidel nebo technických zařízení' del encabezado 4.3.1 en el original, que la traducción amplía"
+    ],
+    "invenciones": [
+     "Se añade 'El maquinista del tren Os 18003, tras llegar a la estación de cruce de Bavorov' que no está en el original",
+     "Se añade 'relacionados con la actuación de las personas implicadas' en 4.3.1",
+     "Se añade 'estación de cruce' como traducción de 'dopravna' (término no presente en el original)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'dopravna' traducido como 'estación de cruce' en lugar de 'puesto de circulación' o 'estación de tráfico'",
+     "'dirigující dispečer' traducido como 'despachador de tráfico que dirigía el servicio' (aceptable pero no normalizado)",
+     "'provozovatel dráhy' traducido como 'titular de la infraestructura' en lugar de 'operador de la infraestructura ferroviaria'"
+    ],
+    "comentario": "La traducción es comprensible pero introduce contenido no presente en el original y altera términos técnicos clave, además de omitir parte de los encabezados."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/CZ-320 - Investigation_report-01092007.md"
+ },
+ "md-es/CZ/2007/CZ-321 -Investigation_report-01092007-derailment.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'incidente excepcional' por 'mimořádná událost' (MU): en el ámbito ferroviario checo se normaliza habitualmente como 'suceso extraordinario' o 'incidente extraordinario', no 'excepcional'",
+   "'vía de circulación' por 'dopravní cesta' (infraestructura ferroviaria): término impreciso",
+   "'velocidad de línea' por 'traťová rychlost': debería ser 'velocidad de la vía' o 'velocidad máxima de la línea'",
+   "'PGV' como sigla de 'parámetros geométricos de la vía' no normalizada (original GPK)",
+   "'železniční svršek' traducido como 'superficie de rodadura ferroviaria' (debería ser 'infraestructura de vía' o 'superestructura de vía')",
+   "'dvojkolí' traducido como 'pares de ruedas' (término normalizado: 'ejes montados')"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Informe sobre los resultados de la investigación de las causas y las circunstancias (el original solo dice 'vzniku mimořádné události', sin ese desarrollo)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádné události' traducido como 'incidente extraordinario' en lugar de 'accidente/suceso extraordinario' según la terminología de la investigación",
+     "'taženého drážního vozidla' traducido como 'material rodante ferroviario remolcado' en vez de 'vehículo ferroviario remolcado'"
+    ],
+    "comentario": "Traducción fiel en cifras y estructura, pero añade texto explicativo no presente en el original y desvía algunos términos técnicos."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el apartado 2.2.5 'Trabajos realizados en el lugar del incidente extraordinario y en sus inmediaciones' del original (no aparece en el original, pero sí en la traducción: invención)",
+     "Falta el apartado 2.2.6 'Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos' del original (invención en traducción)",
+     "Falta el apartado 2.3.2 'En las mercancías transportadas, equipajes y otros bienes' del original (invención en traducción)"
+    ],
+    "invenciones": [
+     "Apartado 2.2.5 'Trabajos realizados en el lugar del incidente extraordinario y en sus inmediaciones' no está en el original",
+     "Apartado 2.2.6 'Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos' no está en el original",
+     "Apartado 2.3.2 'En las mercancías transportadas, equipajes y otros bienes' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente ferroviario' o 'suceso extraordinario' según terminología normalizada",
+     "'provozovatel dráhy' traducido como 'titular de la infraestructura' (aceptable) pero 'dopravce' como 'transportista' en lugar de 'empresa ferroviaria' o 'operador'",
+     "'zabezpečovací systém' traducido como 'sistema de seguridad' en lugar de 'sistema de señalización y seguridad'"
+    ],
+    "comentario": "La traducción añade apartados inexistentes (2.2.5, 2.2.6, 2.3.2, 2.3.3) y omite/trunca el apartado 3.1, además de usar terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase 'hodin pomocí kolejového jeřábu nehodového pomocného vlaku DKV České Budějovice' (resto de la frase sobre la grúa ferroviaria) en su ubicación original",
+     "Falta el encabezado 'včetně osob ve smluvním poměru' como parte del título 2.3",
+     "Falta la línea final 'hodin.' del original"
+    ],
+    "invenciones": [
+     "Se añade 'El realineamiento propio del vagón descarrilado se llevó a cabo el día 1 de septiembre de 2007 de 15:50 a 16:25 horas' con fechas y horas no presentes en el original",
+     "Se añaden los apartados 2.3.1, 2.3.2 y 2.3.3 con contenido no presente en el original",
+     "Se añade 'flexión del larguero y del refuerzo del bastidor en unos 200 mm' no presente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'přeměření geometrie pojezdu' traducido como 'remediación de la geometría del bastidor' (debería ser 'medición/verificación de la geometría del mecanismo de rodadura')",
+     "'dvojkolí' traducido como 'bogie' (debería ser 'par de ruedas' o 'eje montado')",
+     "'spodku cca 1 m2' traducido como 'perforación del revestimiento exterior del vagón en la parte inferior en unos 1 m2' (confusión de términos)"
+    ],
+    "comentario": "La traducción introduce secciones, fechas y datos inexistentes en el original y omite fragmentos, además de traducir incorrectamente términos técnicos ferroviarios."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el título de la sección 4.2 'Rozbor mimořádné události a činnosti záchranných služeb' (análisis del suceso y de la actuación de los servicios de rescate); la traducción añade un 4.2.1 inexistente y omite el encabezado real",
+     "Falta la frase 'závadami v GPK nad povolenou toleranci.' como inicio del apartado 4.3.1"
+    ],
+    "invenciones": [
+     "Se añade 'En el lugar de producción del SUF intervinieron el HZS ČD České Budějovice y el PČR Tábor', que no aparece en el original",
+     "Se añade el epígrafe '4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de rescate', inexistente en el original",
+     "Se añade 'La causa inmediata del SUF fue la circulación de los vehículos ferroviarios del tren Os 28406 por un carril con defectos...', no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vzepětí koleje' traducido como 'flecha del carril' de forma no normalizada; en el original se distingue 'vzepětí' (peralte/realce) y no se refiere a la flecha",
+     "'MU' (mimořádná událost) traducido como 'SUF' de forma no normalizada",
+     "'GPK' se traduce como 'geometría del carril' cuando en el original es la abreviatura de 'geometrická poloha koleje' (posición geométrica de la vía)"
+    ],
+    "comentario": "La traducción omite encabezados y frases del original e introduce contenido ajeno (intervención de HZS/PČR y causa inmediata reformulada), además de traducir de forma no normalizada términos técnicos clave."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/CZ-321 -Investigation_report-01092007-derailment.md"
+ },
+ "md-es/CZ/2006/Investigation_report-28072006.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   7,
+   12,
+   17,
+   21,
+   26
+  ],
+  "fidelidad_media": 75.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mimořádné události' traducido como 'incidente extraordinario' en lugar de 'accidente' o 'suceso extraordinario' (término técnico ferroviario normalizado)",
+   "'výsledcích šetření' como 'resultados de la investigación' es aceptable, pero 'šetření' se normaliza como 'investigación/esclarecimiento'",
+   "'dispositivo de protección de estación' por 'staniční zabezpečovací zařízení' (equipo de protección/seguridad de estación) es aceptable pero no normalizado",
+   "'bloqueo automático' por 'automatické hradlo' (bloqueo automático de vía) correcto",
+   "'vía continua' por 'bezstyková kolej' debería ser 'vía sin juntas' o 'carril continuo soldado'",
+   "'placas de base de separación' por 'rozponové podkladnice' (placas de apoyo/separación) dudoso"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea del índice 'mimořádné události a činnosti záchranných služeb' tras 4.2 Rozbor",
+     "Falta la línea del índice 'mimořádné události, které však nejsou významné pro závěry o příčinách' tras 4.4 Doplňující zjištění"
+    ],
+    "invenciones": [
+     "Se añade el epígrafe 4.2.1 'Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre las causas del incidente y la actuación de los servicios de emergencia' que no aparece en el original",
+     "Se añade el epígrafe 4.4.1 'Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias del incidente, que no son, sin embargo, relevantes para las conclusiones sobre las causas' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'accidente ferroviario' o 'suceso extraordinario', término normalizado",
+     "'Rozbor' traducido como 'Análisis' es aceptable, pero se pierde la distinción con 'Závěry' (Conclusiones)"
+    ],
+    "comentario": "La traducción añade dos subepígrafes inexistentes (4.2.1 y 4.4.1) y omite dos líneas del índice, además de traducir 'mimořádná událost' de forma no normalizada."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase inicial del original: 'Přerov, jež předcházela jízda vlaku Os 4030 ve směru Přerov – Věžky s křižováním vlaků' (el texto checo queda truncado, pero la traducción añade contenido no presente)",
+     "Falta la mención de que el maquinista del HDV 363.056-3 y el jefe de estación actuaron conforme al artículo 42 y 46 (se traduce, pero se omite el detalle de la Parte Segunda en el contexto de la notificación)",
+     "Falta la frase 'Přerov.' suelta tras el párrafo 2.2.7"
+    ],
+    "invenciones": [
+     "Se añade 'Os 4031 y Os 4031' en la primera frase, cuando el original solo menciona 'cruce de trenes' sin especificar números (el original está truncado, pero la traducción inventa dos veces Os 4031)",
+     "Se añade 'En el lugar del IE intervinieron el Servicio de Bomberos y Rescate de ČD, a. s., Přerov, el Servicio de Bomberos y Rescate de ČD, a. s., Brno y la Policía de la República Checa, Departamento de Policía Ferroviaria de Přerov.' que no aparece en el original",
+     "Se añaden las subsecciones 2.3.1, 2.3.2 y 2.3.3 con textos ('En pasajeros y terceros personas...', 'En objetos transportados...', 'En vehículos ferroviarios...') que no están en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente excepcional' (IE) en lugar de 'suceso extraordinario' o 'accidente' según normativa; no normalizado",
+     "'výpravčí' traducido como 'jefe de estación' cuando en contexto ferroviario checo es 'jefe de circulación' o 'factor de circulación'",
+     "'zátěžový výpravčí' traducido como 'jefe de estación de carga' (debería ser 'jefe de circulación de carga' o 'factor de carga')"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (subsecciones y párrafos ausentes), omisiones y errores en cifras y términos técnicos, por lo que requiere revisión."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase sobre la norma celostátní y el tramo Přerov - Věžky en el contexto del § 22 y § 25/§ 26 (parte del original omitida o refundida)",
+     "Falta la mención 'prosazování' y el fragmento sobre la verificación del cumplimiento de las disposiciones del decreto 101/1995 Sb.",
+     "Falta la referencia a la norma ČSN 73 6360 en el original (aparece solo en la traducción, no en el original)"
+    ],
+    "invenciones": [
+     "Se añade '### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones' y '### 3.2.2 Requisitos aplicables...' que no están en el original",
+     "Se añade la norma ČSN 73 6360 y su descripción",
+     "Se añade 'e inspecciones' y 'empleados de ČD, a. s., SDC Olomouc Správy tratí Olomouc cualificados profesionalmente'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'traťový dělník - obchůzkář' traducido como 'obrero de vía - vigilante de vía' (aceptable pero no normalizado)",
+     "'vrchní mistr' traducido como 'capataz principal' (podría ser 'maestro mayor' o 'jefe de taller')",
+     "'strojvedoucí' como 'maquinista' (correcto)"
+    ],
+    "comentario": "La traducción añade secciones y referencias normativas ausentes en el original y omite fragmentos clave, por lo que requiere revisión."
+   },
+   {
+    "pagina": 26,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce la coletilla final del original 'ze dne 22. 1. 2007' tras el número de referencia 6-133/2006-UI1-3 en la primera mención del acta (sí aparece en la segunda)",
+     "Se omite la fecha 'ze dne 22. 1. 2007' asociada al protocolo 6-133/2006-UI1-3 en la frase de comprobación (solo se mantiene en la segunda aparición)"
+    ],
+    "invenciones": [
+     "'del balasto ferroviario' duplica el término: el original dice 'štěrkového lože železničního svršku' (cama de balasto de la superestructura ferroviaria), no 'cama de balasto del balasto ferroviario'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'štěrkového lože železničního svršku' traducido como 'cama de balasto del balasto ferroviario' (redundante y confuso; debería ser 'cama de balasto de la superestructura ferroviaria')",
+     "'železniční svršek' traducido como 'balasto ferroviario' en 'trabajos de reparación en el balasto ferroviario' (debería ser 'superestructura ferroviaria')",
+     "'mimořádná událost' (MU) traducido como 'situación extraordinaria' en lugar de 'accidente/incidente ferroviario' o 'suceso extraordinario'"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero con terminología ferroviaria imprecisa (balasto/superestructura, MU) y alguna omisión menor de fecha."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2006/Investigation_report-28072006.md"
+ },
+ "md-es/CZ/2007/Investigation_report-01122007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 86.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'vývaření vložek' traducido como 'soldado de las placas de unión' (término técnico ferroviario dudoso; 'vložka' suele ser 'placa/inserto' y 'vyvaření' es 'soldadura por arco' no 'soldado')",
+   "'incidente grave (MU)' como traducción de 'mimořádná událost' (MU): en el contexto ferroviario checo se normaliza habitualmente como 'accidente ferroviario' o 'suceso extraordinario', no 'incidente grave'",
+   "'borde rodante' para 'pojížděná hrana' podría normalizarse como 'hongo/cabeza de rodadura' o 'arista de rodadura'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la mención 'vzniku mimořádné události' como encabezado independiente (se integra parcialmente)",
+     "Falta la línea 'The Rail Safety Inspection Office / Czech Republic' como bloque separado en inglés (se traduce pero se pierde la estructura bilingüe)",
+     "Falta 'na 1. traťové koleji' correctamente: se traduce como 'en el primer vía de la línea' (error de género, pero no omisión)"
+    ],
+    "invenciones": [
+     "'Descarrilamiento de siete vagones del tren SuperCity n.º 507 entre el desvío Kyje y Praha-Běchovice' no aparece en el original",
+     "'Informe sobre los resultados de la investigación de las causas y las circunstancias de la aparición de un incidente extraordinario' amplía el original 'vzniku mimořádné události'",
+     "'N.º de identificación fiscal (IČO)' añade glosa no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente' o 'suceso extraordinario' según contexto ferroviario",
+     "'traťová kolej' traducido como 'vía de la línea' con género incorrecto ('el primer vía')",
+     "'odbočka' como 'desvío' es aceptable pero 'apartadero' sería más preciso"
+    ],
+    "comentario": "La traducción añade una línea inexistente sobre siete vagones y SuperCity, altera el encabezado y comete errores de género y terminología ferroviaria."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la entrada 'prosazování' (línea tras 3.2) con su número de página 18",
+     "Falta el título 3.2.1 del original (texto cortado en el original, pero la traducción añade contenido no presente)",
+     "Falta el título 3.5.1 del original (texto cortado: 'řízení, signalizaci a zabezpečení dopravy')"
+    ],
+    "invenciones": [
+     "Se añade '3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones' que no aparece en el original",
+     "Se añade '3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento' que no aparece en el original",
+     "Se añade '3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista en relación con el control, la señalización y la protección del tráfico' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'suceso extraordinario' o 'accidente' según terminología ferroviaria",
+     "'dopravce' traducido como 'transportista' en lugar de 'empresa ferroviaria' o 'operador'",
+     "'drážní vozidla' traducido como 'vehículos ferroviarios' (aceptable) pero 'součásti dráhy' como 'partes de la vía' en lugar de 'partes de la infraestructura ferroviaria'"
+    ],
+    "comentario": "La traducción completa títulos omitidos en el original pero introduce encabezados 3.2.1, 3.2.2, 3.5.1 y 3.6.2 que no figuran en el fragmento original, además de omitir la entrada 'prosazování'."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 'vlakového doprovodu (dále jen RCVD) Ostrava' como entrada independiente; se fusiona con el jefe de tren",
+     "Falta el encabezado completo 'osoby ve smluvním' del título 2.2.1 (queda truncado en el original, pero la traducción añade contenido)"
+    ],
+    "invenciones": [
+     "'y demás participantes y testigos' no aparece en el original",
+     "'el jefe de tren y el acompañante del tren IC 507' añade 'jefe de tren' y asigna el IC 507 al RCVD, no presente en el original",
+     "'Circunstancias extraordinarias del suceso' traduce 'mimořádné události' como extraordinarias en vez de accidente/suceso extraordinario"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'circunstancias extraordinarias' en lugar de 'accidente/suceso'",
+     "'hlavový elektrický trakční vůz' como 'vagón eléctrico de tracción principal' (debería ser 'coche motor eléctrico de cabeza')",
+     "'vložený vůz' como 'vagón intermedio' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción es fiel en cifras y datos técnicos, pero añade contenido no presente (jefe de tren, testigos) y desvirtúa términos clave como 'mimořádná událost' y 'hlavový vůz'."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "'MU' traducido como 'incidente grave' en lugar de 'suceso extraordinario'/'mimořádná událost'",
+     "'mimořádná událost' (MU) no normalizado de forma consistente"
+    ],
+    "comentario": "La traducción es fiel en contenido, pero cambia la cifra de la ley 266/1994 a 266/1995 y no normaliza el término 'mimořádná událost' (MU)."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-01122007.md"
+ },
+ "md-es/CZ/2007/Investigation_report-02102007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 78.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'nástavba' traducido como 'andén' (debería ser 'carrocería/superestructura')",
+   "'cabeza del tren' por 'čelo vlaku' (mejor 'frontal del tren')"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se traduce el título/subtítulo en inglés 'The Rail Safety Inspection Office / Czech Republic' ni 'Investigation Report of Railway Accident between Varnsdorf and Seifhennersdorf stations' como bloque diferenciado; se omite la mención 'nákladním automobilem' (camión de mercancías) al describir el vehículo en el título original"
+    ],
+    "invenciones": [
+     "Se añade 'de viajeros' al tren Os 83077, que no aparece en el original",
+     "Se añade un segundo bloque de título 'Accidente en paso a nivel del tren de viajeros n.º 83077 y de un camión' que no está en el original",
+     "Se traduce 'IČO' como 'NIF', término no equivalente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente'/'suceso extraordinario' según la terminología checa de seguridad ferroviaria",
+     "'Střetnutí' traducido como 'Colisión' cuando el original distingue colisión de otro tipo de suceso",
+     "Os 83077 es tren de pasajeros pero el original no lo especifica; añadir 'de viajeros' es invención terminológica"
+    ],
+    "comentario": "La traducción añade 'de viajeros' y un título duplicado no presente en el original, y omite el bloque en inglés, aunque las cifras y referencias se mantienen."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea del índice 'mimořádné události a činnosti záchranných služeb' (incidente y actuación de los servicios de emergencia) que en el original aparece como continuación del 4.2",
+     "Falta el epígrafe 4.4.1 del original: 'Deficiencias y omisiones detectadas durante la investigación...' no aparece en el original; en su lugar el original solo tiene el texto de continuación 'mimořádné události, které však nejsou významné pro závěry o příčinách'"
+    ],
+    "invenciones": [
+     "Se añade el epígrafe 4.4.1 'Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente' que no existe en el original",
+     "Se añade el texto '4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia' que no está en el original",
+     "Se añaden las 'Foto 1: Vista desde la cabina de conducción del vehículo de pasajeros' y 'Foto 2: Vista del vehículo de carretera tras la colisión con el vehículo de pasajeros' que no aparecen en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'incidente' por 'mimořádná událost' (término normalizado en ferrocarril: 'suceso/accidente ferroviario' o 'incidente' según contexto, pero se pierde la distinción técnica)",
+     "'material rodante' correcto",
+     "'dispositivos técnicos' por 'technických zařízení' aceptable"
+    ],
+    "comentario": "La traducción añade epígrafes (4.2.1, 4.4.1) y dos fotos inexistentes en el original, y omite la línea de continuación del 4.2, por lo que no es fiel."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 78,
+    "omisiones": [
+     "En el original, el párrafo sobre la señalización luminosa comienza con un fragmento que falta en la traducción: 'dvěma červenými střídavě přerušovanými světly, ani zvuková výstraha přerušovaným zvukem houkačky, nebo zvonce' aparece sin el sujeto/contexto inicial (los semáforos de ambos lados de la vía se añaden en la traducción, pero falta la parte checa que precede).",
+     "Falta en la traducción la frase del original: 'Zápis o ohledání místa MU je součástí spisu.' (aparece traducida como 'El acta de inspección del lugar del accidente forma parte del expediente', pero el original tiene una frase adicional sobre el registro de la inspección).",
+     "Falta la frase del original: 'návěstní technik výpravčímu žst. Varnsdorf.' (parte de la secuencia de notificación)."
+    ],
+    "invenciones": [
+     "Se añade 'en los semáforos de ambos lados de la vía' que no está en el original.",
+     "Se añade 'Aunque no evaluó este estado como una avería del PZZ' que no está en el original (el original dice 'nevyhodnotil jako poruchu PZZ' pero la traducción añade 'Aunque').",
+     "Se añade 'pero no dejó constancia de esta notificación' que no está en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'PZZ' se mantiene sin traducir; podría normalizarse como 'paso a nivel' o 'instalación de paso a nivel'.",
+     "'HDV' se mantiene sin traducir; podría ser 'vehículo motor' o 'locomotora'.",
+     "'VI COP' y 'VI ÚI' se mantienen como siglas sin desarrollar."
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones que alteran el contenido del original, aunque las cifras y horas coinciden."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el art. 67 c) el original menciona 'na traťových hradlech a hláskách' (en los bloqueos de línea y en los puestos de aviso); la traducción lo vierte como 'en las vías principales y en las señales', omitiendo el matiz de hradla/hláska",
+     "En el art. 68 el original dice 'Výpravčí, nebo jiný obsluhující pracovník je povinen jim tyto informace sdělovat a udržovací práce podle situace co nejdříve umožnit, případně podle jejich pokynů obsluhovat zabezpečovací zařízení'; la traducción recoge la idea pero no distingue explícitamente 'obsluhovat zabezpečovací zařízení' como operar el dispositivo según sus instrucciones"
+    ],
+    "invenciones": [
+     "La traducción añade 'La solicitud y el permiso del despachador son obligaciones de los empleados de mantenimiento registrarlos en el Registro de averías', reformulando el original 'Žádost a svolení výpravčího jsou udržující zaměstnanci povinni evidovat v Záznamníku poruch' con una construcción que introduce 'obligaciones' no presente como tal"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'výpravčí' se traduce como 'despachador'; en terminología ferroviaria española suele normalizarse como 'jefe de estación' o 'factor de circulación', no 'despachador'",
+     "'návěstní technik' como 'técnico de señales' es aceptable, pero 'výpravčí' y 'obsluhující pracovník' se confunden al traducirse ambos como 'despachador'/'trabajador encargado de la manipulación'",
+     "'přejezdové zabezpečovací zařízení (PZZ)' se traduce como 'DPN del paso a nivel' y 'dispositivo de protección de pasos a nivel', sin normalizar la sigla"
+    ],
+    "comentario": "La traducción es en general fiel, pero hay imprecisiones terminológicas en 'výpravčí' y en la distinción hradla/hláska, además de una reformulación añadida en el último párrafo."
+   },
+   {
+    "pagina": 22,
+    "fidelidad": 78,
+    "omisiones": [
+     "En 3.5.3 falta la frase original 'El lugar del suceso fue asegurado de conformidad con la normativa legal' (no está en el original checo)",
+     "En 3.6.1 falta el fragmento inicial 'La investigación determinó que la jornada laboral de todas las personas implicadas en el suceso se ajustó al' (el original empieza directamente 'se zákoníkem práce...')",
+     "En 3.6.2 falta el fragmento inicial 'La investigación no determinó que la situación personal, el estado de salud, psicológico y físico de todas las personas implicadas en el suceso hubieran influido en la ocurrencia del mismo' (el original empieza 'osob zúčastněných na MU měly vliv na vznik MU')"
+    ],
+    "invenciones": [
+     "'El lugar del suceso fue asegurado de conformidad con la normativa legal' no aparece en el original",
+     "'La investigación determinó que la jornada laboral de todas las personas implicadas en el suceso se ajustó al' no aparece en el original",
+     "'La investigación no determinó que la situación personal, el estado de salud, psicológico y físico de todas las personas implicadas en el suceso hubieran influido en la ocurrencia del mismo' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'suceso' en lugar de 'incidente/accidente ferroviario' (término normalizado)",
+     "'PZZ' traducido como 'APN' (Aparato de Protección del Paso a Nivel) — aceptable pero conviene verificar normalización",
+     "'výpravčí' como 'jefe de estación' correcto; 'návěstní technik' como 'técnico de señales' correcto"
+    ],
+    "comentario": "La traducción añade frases explicativas ausentes en el original checo (3.5.3, 3.6.1, 3.6.2, 3.6.3) y omite los encabezados originales, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-02102007.md"
+ },
+ "md-es/CZ/2007/Investigation_report-06032007-Hranice_na_Morave.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   10,
+   15,
+   19,
+   23
+  ],
+  "fidelidad_media": 91.2,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mimořádné události' traducido como 'ocurrencia extraordinaria' en lugar de 'suceso/accidente extraordinario' (término normalizado ferroviario)",
+   "'taženého drážního vozidla' traducido como 'vehículo ferroviario remolcado' cuando el inglés del propio informe lo concreta como 'wagon' (vagón)",
+   "'superestructura ferroviaria' con artículo incorrecto ('el superestructura')",
+   "'vía de 2.ª categoría' por 'kolej 2. řádu' (vía de 2.º orden)",
+   "'vía de vía n.º 1' por 'traťová kolej č. 1' (vía de plena vía / vía de línea)",
+   "'punto de aguja' por 'výhybka' (desvío/aguja)"
+  ],
+  "fallos": [
+   {
+    "pagina": 6,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'železniční dopravní cesty, s. o. vzniklá následkem mimořádné události činí 463 403,15 Kč' en su forma original: la traducción añade 'České dráhy, a. s.' que no aparece en el original",
+     "Falta la mención de que el tramo entre Hranice na Moravě y Hranice na Moravě město puede recorrerse en ambos sentidos en el original: 'obousměrně pojíždět' aparece como fragmento suelto y la traducción lo integra sin la frase completa del original",
+     "Falta la referencia al artículo 49 de la Ley n.º 266/1994 Coll. en el original (la traducción la añade como invención)"
+    ],
+    "invenciones": [
+     "'a tenor del artículo 49 de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente' no está en el original",
+     "'(en lo sucesivo, ČD, a. s.)' y la mención de České dráhy, a. s. no están en el original",
+     "'(línea 308)' no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'výhybka' traducido como 'desvío' en lugar de 'aguja' o 'cambio'",
+     "'elektronické stavědlo' traducido como 'central de conmutación electrónica' en lugar de 'enclavamiento electrónico'",
+     "'výpravčí' traducido como 'despachador' en lugar de 'jefe de estación'"
+    ],
+    "comentario": "La traducción añade referencias legales y datos no presentes en el original, omite parte de la frase sobre el daño y usa terminología técnica no normalizada."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 88,
+    "omisiones": [
+     "En 2.2.7 falta el subtítulo 'y secuencia de los acontecimientos' (a sled událostí)",
+     "No se traduce 'ostrůvkového systému' como sistema de isla de forma explícita en el contexto (se mantiene 'sistema de isla' pero se pierde matiz de 'isla' ferroviaria)"
+    ],
+    "invenciones": [
+     "'punto de cruce' para výhybka (debería ser 'desvío' o 'cambio')",
+     "'lenguas simples' para jednoduché srdcovky (corazón simple, no lenguas)",
+     "'vía principal' para traťová kolej (vía de plena vía / vía de línea, no principal)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "výhybka traducido como 'punto de cruce' en lugar de 'desvío'/'cambio'",
+     "jednoduché srdcovky traducido como 'lenguas simples' en lugar de 'corazones simples'",
+     "traťová kolej traducido como 'vía principal' en lugar de 'vía de línea'"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero contiene varios términos técnicos ferroviarios mal normalizados y una omisión menor en el subtítulo 2.2.7."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-06032007-Hranice_na_Morave.md"
+ },
+ "md-es/CZ/2007/Investigation_report-04072007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   5,
+   8,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 75.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'mimořádných událostí' traducido como 'incidentes' en lugar de 'sucesos extraordinarios' o 'accidentes/incidentes graves'",
+   "'drážní dopravy' como 'transporte ferroviario' es aceptable, pero 'provozování drážní dopravy' se simplifica",
+   "'výpravčí' traducido como 'despachador' en lugar de 'jefe de estación' o 'factor de circulación'",
+   "'PZS' se mantiene pero 'přejezdové zabezpečovací zařízení' se traduce como 'dispositivo de protección de pasos a nivel' en lugar de 'instalación de seguridad de paso a nivel'",
+   "'staniční zabezpečovací zařízení' como 'dispositivo de protección de la estación' en lugar de 'instalación de seguridad de estación'",
+   "'registrační rychloměr' como 'registrador de velocidad' es correcto"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la línea 'vzniku mimořádné události' como encabezado independiente del original (se integra en la traducción, pero se omite el título 'Investigation Report of Railway Accident' en su forma original inglesa)",
+     "Se omite la mención 'Střetnutí vlaku osobní dopravy' como 'colisión de tren de pasajeros' en el segundo bloque, sustituyéndose por 'Accidente en paso a nivel del tren rápido n.º 648'"
+    ],
+    "invenciones": [
+     "'tren rápido n.º 648' no aparece en el original; el original dice 'tren de pasajeros R 648'",
+     "'Accidente en paso a nivel' introduce una formulación no presente en el original inglés 'Investigation Report of Railway Accident'",
+     "'Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de un incidente extraordinario' amplía el original 'vzniku mimořádné události'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente ferroviario' o 'suceso extraordinario' según terminología ferroviaria",
+     "'tren rápido' por 'tren de pasajeros' (R = rychlík, tren rápido, pero el original especifica 'osobní dopravy' = de pasajeros)",
+     "'camión de carga' por 'nákladní automobil' (correcto, pero 'nákladní automobil' es camión, no necesariamente 'de carga')"
+    ],
+    "comentario": "La traducción altera términos clave (tren rápido vs tren de pasajeros) e introduce formulaciones no presentes en el original, aunque conserva cifras y referencias."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el punto 2.2.5 del original (Trabajos realizados en el lugar del incidente extraordinario y en sus proximidades) que sí aparece en la traducción pero no en el original",
+     "Falta el punto 2.2.6 del original (Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos)",
+     "Falta el punto 2.3.2 del original (En las mercancías transportadas, equipajes y otro patrimonio)"
+    ],
+    "invenciones": [
+     "Se añade el punto 2.2.5 'Trabajos realizados en el lugar del incidente extraordinario y en sus proximidades' que no está en el original",
+     "Se añade el punto 2.2.6 'Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos' que no está en el original",
+     "Se añade el punto 2.3.2 'En las mercancías transportadas, equipajes y otro patrimonio' que no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'accidente ferroviario' o 'suceso extraordinario' según terminología normalizada",
+     "'provozovatel dráhy' traducido como 'gestor de la infraestructura' (aceptable) pero 'dopravce' como 'transportista' en lugar de 'empresa ferroviaria' o 'operador'",
+     "'zabezpečovací systém' traducido como 'sistema de seguridad' en lugar de 'sistema de señalización/enclavamientos'"
+    ],
+    "comentario": "La traducción incluye secciones (2.2.5, 2.2.6, 2.3.2, 2.3.3, 3.1) ausentes en el original y omite el texto final del punto 3, además de usar terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 8,
+    "fidelidad": 62,
+    "omisiones": [
+     "El original menciona 'zákon železničním jednokolejném přejezdu' (paso a nivel ferroviario de vía única) en el contexto de la definición de accidente según la Ley, omitido en la traducción",
+     "El original dice 'Příčinou MU bylo ze strany provozovatele dráhy a drážní dopravy – ČD, a. s., nejsou potřebná vzhledem k příčině vzniku MU' — la traducción omite la atribución de la causa al explotador y reformula",
+     "El original menciona 'přijala Drážní inspekce již v kalendářním roce 2005 doporučení, určená roku 2003' — la traducción omite la referencia a que las recomendaciones de 2005 estaban dirigidas a 2003 y añade destinatarios no presentes"
+    ],
+    "invenciones": [
+     "'en el sentido de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante, la Ley)' — el original solo dice 've smyslu zákona' sin número ni redacción vigente",
+     "'La causa del MU fue la entrada indebida del conductor del camión en el paso a nivel' — no está en el original en ese punto",
+     "'dirigidas al propietario de la línea, la Administración de la Infraestructura Ferroviaria de Transporte (SŽDC, s. o.), y al explotador de la línea y del transporte ferroviario, los Ferrocarriles Checos (ČD, a. s.)' — el original no especifica destinatarios"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'instalación de enclavamiento de paso a nivel' por 'přejezdové zabezpečovací zařízení' — término técnico no normalizado; debería ser 'instalación de protección de paso a nivel' o 'señalización de paso a nivel'",
+     "'transporte de pasajeros' por 'osobní dopravy' — aceptable pero 'tren de viajeros' es más habitual",
+     "'circulación rodoviaria' por 'silničního provozu' — 'circulación viaria' o 'tráfico rodado' sería más preciso"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (número de Ley, destinatarios de recomendaciones, causa explícita) y omisiones (atribución de causa al explotador, referencia a 2003), además de cambios en cifras y términos técnicos no normalizados."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase inicial del original: 'včetně osob ve smluvním poměru strojvedoucí vlaku R 648' (solo se traduce parcialmente como 'incluidas personas en relación contractual', omitiendo 'strojvedoucí vlaku R 648')",
+     "Falta la mención de que no hubo lesiones en 'jiných zaměstnanců provozovatele dráhy a dopravce' tal como aparece en el original (la traducción lo fusiona)"
+    ],
+    "invenciones": [
+     "Se añade un párrafo inicial sobre HZS Soběslav, HZS ČD, helicóptero, RZS y hospital de České Budějovice que no aparece en el original",
+     "Se añade 'En este MU el conductor del camión sufrió un daño grave para la salud y el maquinista del tren R 648 sufrió un daño para la salud', contenido ausente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'MU' se mantiene sin traducir (debería normalizarse como 'accidente' o 'suceso' según el original)",
+     "'HDV' se mantiene sin traducir",
+     "'provozovatel dráhy a dopravce' se traduce como 'gestor de la vía y del transportista', término no normalizado"
+    ],
+    "comentario": "La traducción añade contenido ausente (párrafo inicial y lesiones del camionero/maquinista) y omite parte de la frase sobre personas en relación contractual, aunque las cifras y tablas se conservan."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-04072007.md"
+ },
+ "md-es/CZ/2007/Investigation_report-07052007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   13,
+   23,
+   33,
+   43,
+   53
+  ],
+  "fidelidad_media": 84.0,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'výpravčí' traducido como 'jefe de estación' es aceptable, pero 'despachador eléctrico' para 'elektrodispečer' podría normalizarse como 'despachador de energía eléctrica'",
+   "'mašina' traducido como 'máquina' es literal; en contexto ferroviario checo equivale a 'locomotora'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el título checo 'vzniku mimořádné události' como encabezado independiente",
+     "Falta la mención 'dráhy železniční, celostátní' en la descripción del pk (solo se traduce 'línea ferroviaria nacional')"
+    ],
+    "invenciones": [
+     "'Colisión del tren Lv 73880 con un vehículo motorizado de carretera estacionado y en llamas' no aparece en el original",
+     "'Accidente en paso a nivel de locomotora circulando sola y de un camión en llamas' no aparece en el original",
+     "'Informe de los resultados de la investigación de las causas y circunstancias' amplía el original 'Investigation Report'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente extraordinario' en lugar de 'suceso extraordinario'/'accidente' según normativa",
+     "'IČO' traducido como 'NIF' en lugar de 'número de identificación fiscal checo' o mantener IČO"
+    ],
+    "comentario": "La traducción añade descripciones del accidente ausentes en el original y omite parte del encabezado checo, aunque las cifras y referencias se mantienen."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 13' (irrelevante)",
+     "Se omite la abreviatura 'ŽST' en varios cargos (dispoziční výpravčí ŽST, výpravčí ŽST, operátorka výpravčího ŽST, osobní pokladní ŽST) sustituyéndola por 'estación ferroviaria' de forma inconsistente",
+     "Se omite la distinción 'rubos/litina' del original, traducido solo como 'hierro fundido gris'"
+    ],
+    "invenciones": [
+     "Se añade 'unidad diésel autónoma' para HDV, cuando el original no especifica tracción diésel",
+     "Se añade 'de emergencia' para 'rychlоčinném zabrzdění' (frenado rápido/urgente), matiz no explícito"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "HDV traducido como 'unidad diésel autónoma' en lugar de 'vehículo motor' o 'vehículo de tracción'",
+     "'rychlоčinné zabrzdění' traducido como 'frenado de emergencia' en vez de 'frenado rápido'",
+     "'přestavný kohout' traducido como 'llave de conmutación' (aceptable) pero 'uzavírací kohout' como 'llave de cierre' (válvula de cierre) inconsistente"
+    ],
+    "comentario": "Traducción mayormente fiel pero con invenciones técnicas (HDV como diésel) y omisión de la distinción rubos/litina que afectan la precisión del informe."
+   },
+   {
+    "pagina": 23,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el original el sujeto es 'výpravčí (dispečer)' (jefe de estación/despachador) y la traducción lo reduce a 'despachador (dispetcher)', omitiendo la distinción entre výpravčí y dispečer",
+     "En la lista de indicaciones del original se distingue 'výpravčí, dispečer'; la traducción pone '(despachador, dispetcher)', perdiendo la distinción terminológica"
+    ],
+    "invenciones": [
+     "Se traduce 'dispečer' como 'dispetcher' (transliteración inexistente en castellano) en lugar de 'despachador' o 'regulador'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'výpravčí' traducido como 'despachador' en vez de 'jefe de estación'",
+     "'dispečer' transliterado como 'dispetcher' en lugar de 'despachador/regulador'",
+     "'hnací vozidlo' como 'vehículo motorizado' podría ser 'vehículo de tracción'"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura, pero confunde y translitera los términos výpravčí/dispečer, lo que afecta a la precisión terminológica."
+   },
+   {
+    "pagina": 33,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la abreviatura 'ŽP' en la primera mención del paso a nivel (el original dice 'Dvoukolejný ŽP v km 33,243'; la traducción solo dice 'El paso a nivel (ŽP) de doble vía en el pk 33,243', lo cual es aceptable, pero se omite la referencia 'km' sustituida por 'pk' sin aclaración)",
+     "No se omite contenido sustantivo relevante; las diferencias son de formato y normalización de unidades (km→pk)"
+    ],
+    "invenciones": [
+     "Se añade 'de la vía férrea nacional' donde el original dice 'celostátní dráhy' (traducción aceptable, no invención)",
+     "No hay invenciones de contenido sustantivo"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'km' traducido como 'pk' (punto kilométrico) en lugar de mantener 'km' o indicar 'km'; cambio de unidad no normalizado",
+     "'PZZ' se traduce como 'dispositivo de protección de cruces' pero se mantiene la sigla; aceptable",
+     "'ŽP' se traduce como 'paso a nivel' y se mantiene la sigla; aceptable"
+    ],
+    "comentario": "La traducción es fiel en contenido y cifras, pero presenta cambios de unidad (km→pk) y alguna interpretación terminológica (HDV→locomotora diésel) que conviene normalizar."
+   },
+   {
+    "pagina": 53,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la fecha completa de aprobación: el original dice '13. 03.' y la traducción también, pero el original checo probablemente continúa; no obstante, se mantiene igual",
+     "No se traduce 'HDV' como término (se deja sigla sin normalizar, aunque se aclara 'vehículo principal')"
+    ],
+    "invenciones": [
+     "'protección contra sobretensiones K02.L' — el original dice 'podpěťové ochrany' (protección de subtensión), no sobretensión",
+     "'ventanilla frontal derecha' — el original dice 'oknem' (ventana), no ventanilla; matiz menor",
+     "'convertidor de pulsos de los accionamientos auxiliares' — el original dice 'pulsního měniče pomocných pohonů' (convertidor de pulsos de accionamientos auxiliares), aceptable"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'podpěťové ochrany' traducido como 'protección contra sobretensiones' en lugar de 'protección de subtensión'",
+     "'výpadek hlavního vypínače' traducido como 'apertura inmediata del interruptor principal' — el original indica 'výpadek' (caída/desconexión), no necesariamente apertura inmediata",
+     "'visera' para 'průsvitkou' — debería ser 'lámpara indicadora' o 'piloto'"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene un error técnico grave: 'podpěťové ochrany' (protección de subtensión) se traduce como 'protección contra sobretensiones', alterando el significado del sistema de protección."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-07052007.md"
+ },
+ "md-es/CZ/2007/Investigation_report-09022007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   9,
+   12,
+   15,
+   18
+  ],
+  "fidelidad_media": 73.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 82,
+    "omisiones": [],
+    "invenciones": [
+     "en el pk 8,446 en el ramal de vía entre la 1.ª y la 3.ª vía de estación"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'incidente extraordinario' por 'mimořádné události' (debería ser 'suceso/accidente extraordinario')",
+     "'NIF' por 'IČO' (identificador checo, no NIF español)"
+    ],
+    "comentario": "La traducción añade una ubicación detallada (pk 8,446 y vías) ausente en el original y usa términos no normalizados, aunque las cifras coinciden."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la línea 3.2.1 'Estructura organizativa general y forma en que se dictan y ejecutan las instrucciones' en el original (aparece solo en la traducción, no en el original)",
+     "Falta el encabezado 'prosazování' (3.2.2) en el original tal como se muestra; el original omite el inicio de 3.2.2",
+     "Falta la línea 3.5.1 en el original (solo aparece el final 'řízení, signalizaci a zabezpečení dopravy')"
+    ],
+    "invenciones": [
+     "Se añade '3.2.1 Estructura organizativa general y forma en que se dictan y ejecutan las instrucciones' que no figura en el original",
+     "Se añade '3.2.2 Requisitos aplicables al personal del titular de la infraestructura y del transportista y su cumplimiento' que no figura en el original",
+     "Se añade '3.5.1 Medidas adoptadas por el personal del titular de la infraestructura y del transportista en materia de conducción, señalización y protección del tráfico' que no figura en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' traducido como 'incidente' en lugar de 'suceso extraordinario' o 'accidente' según terminología ferroviaria",
+     "'provozovatel dráhy' como 'titular de la infraestructura' es aceptable, pero 'dopravce' como 'transportista' podría normalizarse como 'empresa ferroviaria'",
+     "'součásti dráhy' traducido como 'elementos de la vía' cuando el original distingue 'součásti dráhy' (componentes de la infraestructura) de 'dopravní cesta'"
+    ],
+    "comentario": "La traducción añade epígrafes ausentes en el original y omite fragmentos de encabezados, aunque las cifras y páginas coinciden."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: 'z 1. staniční koleje žst. Káranice do žst. Dobřenice byla pro tento vlak návěstěna návěst návěstidle S'",
+     "Falta la mención de que el tren Pn 63440 entraba por la 3.ª vía con señal Velocidad 60 km/h y Aviso en la señal de entrada L (no está en el original)",
+     "Falta la velocidad de 58 km/h en la colisión (no está en el original)"
+    ],
+    "invenciones": [
+     "Se añade que el tren R 957 entraba desde Nové Město nad Cidlinou hacia Káranice por la 1.ª vía con señal Aviso en la señal de entrada S",
+     "Se añade que el tren Pn 63440 entraba por la 3.ª vía con señal Velocidad 60 km/h y Aviso en la señal de entrada L",
+     "Se añade que el tren R 957 entraba a 100 km/h"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'návěst' traducido como 'señal' en algunos casos y como 'Aviso' en otros, sin normalizar",
+     "'návěstidle S' omitido",
+     "'Stůj' traducido como 'Alto' (correcto) pero se pierde la distinción de 'návěst'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, incluyendo cifras y datos clave que no aparecen en el original, por lo que la fidelidad es baja."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'que trasladó a los heridos al Hospital Universitario de Hradec Králové' no aparece en el original (invención, no omisión)",
+     "Falta el párrafo 2.3.1 completo en el original: 'včetně osob ve smluvním poměru' y 'cestujících' aparecen truncados en el original pero la traducción añade contenido",
+     "Falta la línea 'HDV130.031-8' con formato correcto (aparece como HDV 130.031-8, cambio menor)"
+    ],
+    "invenciones": [
+     "'que trasladó a los heridos al Hospital Universitario de Hradec Králové' no está en el original",
+     "'En el incidente no hubo fallecidos; se produjeron lesiones al maquinista del tren R 957 y a tres viajeros' no está en el original (el original solo tiene fragmentos truncados)",
+     "Fila 'vagón de viajeros n.º 50 54 1940 087-2, vagón propuesto para su eliminación, el valor residual es nulo' no existe en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'MU' (mimořádná událost) traducido como 'incidente' en lugar de 'accidente/evento extraordinario' de forma consistente",
+     "'HZS ČD' traducido como 'servicio de emergencia de las ČD' en lugar de 'Cuerpo de Bomberos de los Ferrocarriles Checos'",
+     "'rychlá záchranná služba' traducido como 'servicio de urgencias médicas' (aceptable)"
+    ],
+    "comentario": "La traducción añade contenido inexistente (traslado de heridos, víctimas, un vagón extra) y altera números de vagón, por lo que requiere revisión."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'prosazování' (impulso/aplicación) como encabezado independiente del original",
+     "Falta el encabezado '### 3.2.2 Requisitos aplicables al personal...' en el original (aparece en la traducción pero no en el original; ver invenciones)",
+     "Falta la referencia 'Vyhláška č.173' completa en el encabezado (se traduce como 'Decreto n.º 173' pero se omite 'Vyhlášky')"
+    ],
+    "invenciones": [
+     "Se añade el encabezado '### 3.2.2 Requisitos aplicables al personal del titular de la explotación y del transportista y su cumplimiento' que no aparece en el original",
+     "Se añade 'El titular de la explotación aplicó y desarrolló las disposiciones pertinentes de estas normas jurídicas' que no está en el original (el original solo dice 'prosazování')",
+     "Se añade el Decreto n.º 376/2006 Coll. sobre el sistema de seguridad que no aparece en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'MU' (mimořádná událost) se traduce como 'incidente' en lugar de 'accidente' o 'suceso extraordinario', término normalizado",
+     "'drážní doprava' se traduce como 'transporte ferroviario' correctamente, pero 'provozovatel dráhy' se traduce como 'titular de la explotación' en lugar de 'administrador de infraestructuras'",
+     "'Zákon č. 266/1994 Sb.' se traduce como 'Ley n.º 266/1995 Coll.' cambiando el año 1994 por 1995"
+    ],
+    "comentario": "La traducción altera cifras (1994→1995), añade un decreto inexistente (376/2006) y un encabezado 3.2.2 no presente, y omite el término 'prosazování'."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase inicial de 3.6.1: 'se zákoníkem práce, popř. s turnusovým řádem ČD, a. s.' aparece solo parcialmente; el original comienza la sección con esa continuación y la traducción añade una oración introductoria no presente",
+     "Falta el encabezado 'ovládání a užívání' (manejo y utilización) como título independiente antes de 'Nemá souvislost...'",
+     "Falta el texto 'nad Cidlinou do žst. Káranice na 1. staniční kolej na návěst Výstraha vjezdového' que en el original describe la entrada del tren R 957; la traducción lo reformula y omite parte"
+    ],
+    "invenciones": [
+     "Se añade 'La investigación determinó que la jornada laboral de todas las personas implicadas en el SU se ajustaba al Código del Trabajo', oración no presente en el original",
+     "Se añade 'procedente de la estación de Nové Město nad Cidlinou' y 'procedente de la estación de Dobřenice', topónimos/orígenes no presentes en el original",
+     "Se añade el número de sección '3.6.3' y el título 'Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización', que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'MU' (mimořádná událost) se traduce como 'SU (suceso)' de forma inconsistente; debería normalizarse",
+     "'žst.' (železniční stanice) se traduce como 'estación', aceptable, pero se pierde la abreviatura técnica",
+     "'návěst' se traduce como 'indicación' en lugar de 'señal' o 'aspecto', término técnico ferroviario no normalizado"
+    ],
+    "comentario": "La traducción reformula y añade contenido no presente (orígenes de trenes, sección 3.6.3) y omite frases del original, aunque las cifras y horas se mantienen."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-09022007.md"
+ },
+ "md-es/CZ/2007/Investigation_report-06122007.md": {
+  "estado": "revisar",
+  "idioma_origen": "CS",
+  "paginas_revisadas": [
+   1,
+   6,
+   11,
+   16,
+   21,
+   26
+  ],
+  "fidelidad_media": 79.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce 'mimořádné události' como encabezado independiente (se integra en el título largo)",
+     "Se omite la mención 'Výhybna Polanka nad Odrou' como 'desvío Polanka nad Odrou' (se traduce solo 'Polanka nad Odrou (desvío)')"
+    ],
+    "invenciones": [
+     "'Informe sobre los resultados de la investigación de las causas y circunstancias de la ocurrencia extraordinaria' amplía el original 'mimořádné události'",
+     "'línea ferroviaria nacional' añade 'nacional' no presente en 'celostátní'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Vykolejení taženého drážního vozidla' traducido como 'Descarrilamiento de un vehículo ferroviario remolcado' es aceptable, pero 'taženého' se refiere a vehículo remolcado/arrastrado",
+     "'Výhybna' traducido como 'desvío' en lugar de 'apartadero' o 'bifurcación'",
+     "'IČO' traducido como 'NIF' (identificador fiscal checo) no es equivalente exacto"
+    ],
+    "comentario": "Traducción mayormente fiel con cifras correctas, pero con ampliaciones en el título y terminología ferroviaria mejorable."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el resumen se omite la mención de que el descarrilamiento se produjo 'en la vía férrea, ferrocarril nacional de Český Těšín – Výhybna Polanka nad Odrou' con la denominación completa 'Výhybna Polanka nad Odrou' (se traduce solo 'Polanka nad Odrou (desvío)')",
+     "Se omite la coletilla 'v platném znění' solo parcialmente: se traduce 'en su versión vigente', correcto, pero se omite 'o dráhách' (sobre ferrocarriles) en la referencia legal",
+     "En 2.1.1 se omite la palabra 'celostátní' tras 'dráze železniční' (ferrocarril nacional) en la primera mención, aunque aparece en otras"
+    ],
+    "invenciones": [
+     "Se añade '(desvío)' tras 'Polanka nad Odrou' en el resumen, que no está en el original (el original dice 'Výhybna Polanka nad Odrou', que es un apartadero/enclave, no un desvío)",
+     "Se traduce 'Výhybna Polanka nad Odrou' como 'Polanka nad Odrou (desvío)' en lugar de mantener el topónimo 'Výhybna Polanka nad Odrou'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'mimořádná událost' se traduce como 'incidente' en lugar de 'suceso extraordinario' o 'accidente ferroviario' (término normalizado)",
+     "'výhybna' se traduce como 'desvío' cuando es 'apartadero' o 'enclave'; 'výhybka' sí es 'desvío'",
+     "'tažené drážní vozidlo' como 'vehículo ferroviario remolcado' es aceptable, pero 'drážní vozidlo' se traduce a veces como 'vehículo ferroviario' y otras se omite"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero presenta invenciones terminológicas ('desvío' por 'výhybna'), omisiones menores y falta de normalización de términos técnicos ferroviarios."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta el fragmento inicial del testimonio del maquinista: 'Jízda vlaku probíhala bez závad...' aparece parcialmente, pero se omite la parte entre 'žádného mimořádného chování jednotky jsem si' y 'bartovickém zhlaví slyšel...' (texto truncado en el original, pero la traducción añade contenido no presente)",
+     "Se omite la mención de que el maquinista no sabía qué había pasado en los primeros momentos (parcialmente traducido)",
+     "Se omite parte del texto sobre el uso del freno de emergencia por el viajero (en el original está truncado: 'cestující použil... jsem příjezdu šetřících orgánů')"
+    ],
+    "invenciones": [
+     "Se añade 'El tren 3425 lo conduje desde la unidad 013', que no aparece en el original",
+     "Se añade 'había accionado los frenos de emergencia del vagón', que no está en el original (el original está truncado)",
+     "Se añade 'tras regresar a la cabina, comuniqué esto al despachador de tráfico', que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'výhybka' traducido como 'aguja de desvío' en lugar de 'desvío' o 'cambio' (término no normalizado)",
+     "'přídržnice' traducido como 'placa de retención' (podría ser 'contraaguja' o 'placa de sujeción')",
+     "'opěrné stoličky' traducido como 'zapatas de apoyo' (término ambiguo)"
+    ],
+    "comentario": "La traducción omite y añade contenido en el testimonio del maquinista, y varios términos técnicos ferroviarios no están normalizados."
+   },
+   {
+    "pagina": 16,
+    "fidelidad": 96,
+    "omisiones": [
+     "Falta el conector inicial 'a)' antes de 'V posledních 5 závitech' (menor)",
+     "Falta el término 'mechanická část' como parte del título del manual en el original: el original dice 'NÁVOD NA ÚDRŽBU ELEKTRICKÉ JEDNOTKY EM 488.0 (EMV 3kV) mechanická část, vydaný výrobcem' y la traducción lo integra como 'parte mecánica' dentro de la cita, lo cual es aceptable"
+    ],
+    "invenciones": [
+     "Se añade la glosa '(RED DE MANEJO)' tras 'SÍŤ OBS.', que no aparece en el original",
+     "Se traduce 'samočinného zastavení vlaku' como 'frenado de emergencia automático', añadiendo 'de emergencia' no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'závit' traducido como 'hilo' en contexto de roscas/soportes: debería ser 'rosca' o 'filete' (término técnico no normalizado)",
+     "'trhlina' como 'grieta' es aceptable, pero 'hilos' para 'závity' es incorrecto",
+     "'výpravčí' como 'jefe de estación' es correcto; 'dispečer' como 'despachador' es aceptable"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero contiene una invención (glosa 'RED DE MANEJO'), una adición semántica ('de emergencia') y un término técnico mal traducido ('hilo' por 'závit/rosca')."
+   },
+   {
+    "pagina": 21,
+    "fidelidad": 72,
+    "omisiones": [
+     "En el original, tras 'tiempo de detención tras la producción del MU' aparece 'je registrován v 18:31:30 h po ujetí vzdálenosti cca 1 000 m od' — la traducción lo incluye, pero el original también menciona 'posledního místa zastavení' como elemento separado; la traducción lo fusiona, no es omisión grave.",
+     "Falta en la traducción la referencia 'č. j.: 55079/97-O11' presente en el original (aunque aparece parcialmente como 'ref. nº: 55079/97-O11' — sí está).",
+     "Falta la frase del original 'Výprava vlaku byla uskutečněna v souladu s čl. 505 vnitřního předpisu' — está traducida."
+    ],
+    "invenciones": [
+     "'establecida por la operación normal del SZZ desde la vía nº 1 hasta la 1. TK en dirección a la est. Ostrava-Bartovice' — no está en el original.",
+     "'había una pieza suelta en el bogie delantero del cuarto TDV' — no está en el original.",
+     "'por el maquinista del tren Os 3425 en colaboración con un empleado del DI' — no está en el original."
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'descarrilamiento' por 'vykolejení' es correcto, pero el original distingue 'místo vzniku MU' (lugar del suceso) y 'místo vykolejení' (lugar del descarrilamiento); la traducción usa 'descarrilamiento' y 'MU' de forma intercambiable.",
+     "'protector de tren' por 'vlakový zabezpečovač' — término no normalizado; debería ser 'sistema de protección automática del tren' o 'ATP'.",
+     "'gestor de la infraestructura' por 'provozovatel dráhy' — aceptable, pero 'provozovatel dráhy' es 'administrador de infraestructura'."
+    ],
+    "comentario": "La traducción contiene invenciones significativas (pieza suelta en el bogie, cables de tracción, maquinista en 3.5.3) y omite detalles del original, además de cambiar cifras y términos técnicos."
+   },
+   {
+    "pagina": 26,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el inicio del original: 'opravcům v roce ....“, ze dne:' y las viñetas vacías iniciales",
+     "Falta la referencia a la EMJ 460.013-6/014-4 y al § 34 apartado 1 letra a) del decreto n.º 173/1995 Sb. en el original (aparecen en la traducción pero no en el fragmento original)",
+     "Falta en el original el párrafo sobre la comprobación visual que solo puede comprobar partes visibles (frase añadida en la traducción)"
+    ],
+    "invenciones": [
+     "Se añaden fechas y números de expediente (21. 07. 2004, 5658/2004, 618 681 km; 05. 11. 2004, 8379/2004, 669 913 km; 14. 08. 2006, 6086/2006, 808 895 km; 19. 09. 2006, 6871/2006, 893 524 km) que no están en el original",
+     "Se añade la identificación 'EMJ 460.013-6/014-4' y la referencia al decreto n.º 173/1995 Sb. y § 34 apartado 1 letra a)",
+     "Se añade la frase 'solo pueden comprobarse las partes visibles del soporte'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'balancín' por 'kolébka' (cuna) puede ser aceptable, pero 'asiento de la cruz' por 'křížové sedlo' no es término normalizado",
+     "'portamuelle de suspensión secundaria' por 'nosič sekundárního vypružení' es una traducción discutible; el término técnico habitual es 'soporte de suspensión secundaria'",
+     "'comprobación por defectoscopia' por 'defektoskopická kontrola' es correcto, pero 'soporte' por 'závěs' (colgante) no distingue entre 'závěs' y 'nosič'"
+    ],
+    "comentario": "La traducción contiene numerosos datos y párrafos ausentes del original y omite el encabezado y parte del texto, por lo que no es fiel."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/CZ/2007/Investigation_report-06122007.md"
+ }
+}

@@ -1,0 +1,1610 @@
+{
+ "md-es/HU/2006/2006-027-5_RakospalotaFot-050706.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   10,
+   13,
+   15
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'coche motor eléctrico' por 'villamos motorkocsi' es aceptable, pero se omite el matiz de 'pályaszámú' (número de serie/identificación) al traducir 'BDV-010' sin indicar que es el número de identificación del vehículo"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase sobre el tren 2424 que circulaba a 20 km/h y el número de serie del coche Bmxt-002 en el contexto original (se reformula pero se omite 'utolsónak besorozott' como parte del tren)",
+     "Falta la mención de que el paso a nivel estaba 'átépítés alatt álló' (en reconstrucción) en la primera frase, aunque aparece después",
+     "Falta la referencia al 'honos' (local) en la sección de ingeniero jefe"
+    ],
+    "invenciones": [
+     "Se añade 'Debido al cierre total de la línea... el tráfico ferroviario se interrumpió durante 18 horas y 20 minutos', que no está en el original",
+     "Se añade 'Figura 3: La vía en el lugar del accidente', que no está en el original",
+     "Se añade 'Antes del incidente, durante la noche', que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'coche piloto' por 'vezérlőkocsi' es aceptable, pero se omite la distinción de 'utolsónak besorozott' (último en la composición)",
+     "'paso a nivel' por 'útátjáró' es correcto",
+     "'factura de daños' por 'kárszámla' es aceptable"
+    ],
+    "comentario": "La traducción añade datos no presentes (18h20m de interrupción, figura, PK 12+35) y omite detalles del original, además de alterar cifras."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'A 35. aljnál.' y el contexto de que la curva pura comienza en el perfil 12+20,69 según el plano de replanteo (aparece en la traducción pero no en el original)",
+     "Falta la indicación de que la tabla de distorsión es del capítulo 51 volumen I (sí aparece) pero se omite 'A mérési következő:' como encabezado de la lista de puntos",
+     "Falta la frase 'A mérési pontok helyét megvizsgálva...' parcialmente: se omite 'az ugyanitt mért legkisebb törvényszerű volt' (el menor radio de curva medido en el mismo lugar)"
+    ],
+    "invenciones": [
+     "'La curva pura —según los datos del plano de replanteo— comienza en el perfil número 12+20,69' no está en el original",
+     "'hasta 25 mm en el punto de desgaste de la rueda del vagón descarrilado' no está en el original",
+     "'para una base de 2,5 m' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'alj' traducido como 'punto de medida' en lugar de 'traviesa' (terminología ferroviaria)",
+     "'felsodródás' traducido como 'desplazamiento lateral' — debería ser 'desplazamiento de la vía' o 'arrastre'",
+     "'felkapás' traducido como 'punto de desgaste' — debería ser 'punto de levantamiento' o 'punto de subida'"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (datos de perfil, radios, puntos de medida) y omisiones, además de errores en cifras y terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'PÁGINA 15' (irrelevante)",
+     "En 8.1.4 se omite la mención de que la corrección puede deberse a 'irány vagy fekszinthiba' (defecto de dirección o de nivel) — se traduce como 'corrección de la vía en dirección o en alineación', alterando el sentido"
+    ],
+    "invenciones": [
+     "'renovación del balasto' por 'ágyazatrostálás' (cribado del balasto), no es invención pero altera el término",
+     "Se añade 'La Comisión' donde el original dice 'Vb' (sin especificar)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'ágyazatrostálás' traducido como 'renovación del balasto' en lugar de 'cribado del balasto'",
+     "'fekszinthiba' traducido como 'alineación' en vez de 'defecto de nivel'",
+     "'geólemezek' traducido como 'placas geosintéticas' (posible término no normalizado)"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero presenta imprecisiones terminológicas en términos técnicos ferroviarios y alguna omisión de matiz en 8.1.4."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2006-027-5_RakospalotaFot-050706.md"
+ },
+ "md-es/HU/2006/2006-033-5_CsajagBalatomkenese-090906.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   5,
+   11,
+   15,
+   19,
+   24
+  ],
+  "fidelidad_media": 74.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "paso a nivel (el original solo menciona fénysorompó, semáforo de luz, no un paso a nivel)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "fénysorompó traducido como 'paso a nivel con semáforo de luz' añade un concepto no presente; debería ser 'semáforo de luz'"
+    ],
+    "comentario": "La traducción añade 'paso a nivel' que no figura en el original húngaro."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase introductoria 'A KBSZ ügyeletére...' en su forma exacta: el original dice que el hecho fue notificado al servicio de guardia por el director principal de explotación de la red; la traducción lo reformula pero conserva el contenido",
+     "No se omite ninguna fila de la tabla de heridos"
+    ],
+    "invenciones": [
+     "'El Director General de la KBSZ designó un Comité de Investigación técnico... para la investigación del accidente de tráfico ferroviario': el original no menciona 'accidente de tráfico ferroviario' ni que el Director General hiciera la designación en ese punto (la designación del director general aparece más adelante, solo respecto a Mihály András)",
+     "'Organización de Seguridad del Transporte (KBSZ)': el original solo usa la sigla KBSZ, sin desarrollar el nombre"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Denuncias y notificaciones' por 'Bejelentések, értesítések': 'denuncias' no es el término normalizado; sería 'notificaciones/comunicaciones'",
+     "'técnico de investigación en el lugar del incidente' por 'helyszínelő technikus': debería ser 'técnico de inspección del lugar'",
+     "'Mantenimiento' por 'Üzembentartó': el término correcto es 'operador/entidad explotadora', no 'mantenimiento'"
+    ],
+    "comentario": "La traducción es fiel en cifras y estructura, pero introduce contenido no presente (desarrollo de KBSZ, 'accidente de tráfico ferroviario') y usa términos técnicos no normalizados como 'Mantenimiento' por 'Üzembentartó'."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'A pálya vízszintes vonalvezetése egyenes a 377 számú 384 számú szelvényig Balatonkenese állomás irányába' en su forma original (la traducción añade contenido no presente)",
+     "Falta la indicación de que el cruce carece de señal de pavimento ('útburkolati jellel ellátva nincs') en su forma original",
+     "Falta el texto 'aszfalt burkolatú' referido al cruce como frase independiente"
+    ],
+    "invenciones": [
+     "Se añade un título 'Descripción de la vía férrea y del semáforo del cruce a nivel n.º AS380' que no está en el original",
+     "Se añade 'punto kilométrico 380+29' y 'lugar del accidente' que no aparecen en el original",
+     "Se añade 'pendiente descendente del 1,2 ‰ desde el punto kilométrico 362+03 hasta el punto kilométrico 382+50' que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'autovía n.º 71' por '71-es számú főút' (főút = carretera principal, no autovía)",
+     "'semáforo de cruce a nivel' por 'útátjárójelző' (señal de cruce a nivel, no semáforo)",
+     "'punto kilométrico' por 'szelvény' (sección/kilometraje de vía, no PK en el sentido usado)"
+    ],
+    "comentario": "La traducción añade datos inexistentes (PK 380+29, pendiente 1,2‰, calle Vak-Bottyán) y omite/tergiversa el original, con cifras y términos alterados."
+   },
+   {
+    "pagina": 19,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial sobre el vehículo Opel Corsa que giró a la izquierda a pesar de la señal 'Prohibido girar a la izquierda' („Balra kanyarodni tilos” jelzőtábla ellenére elé bekanyarodó Opel Corsa típusú személygépkocsival)",
+     "Falta la referencia al punto de partida 'főútról' (carretera principal)"
+    ],
+    "invenciones": [
+     "'en dirección a Balatonakarattya' no aparece en el original",
+     "'71' como número de página no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción omite la descripción del vehículo y la infracción de la señal, e introduce un topónimo y un número de página inexistentes."
+   },
+   {
+    "pagina": 24,
+    "fidelidad": 55,
+    "omisiones": [
+     "No se traduce la primera frase del original: 'méterre vannak elhelyezve a főútvonal szélétől' (están situados a ... metros del borde de la carretera principal), que en la traducción se fusiona/inventa con otros datos",
+     "Se omite la referencia al número de figura 23 en el cuerpo del texto original (la frase sobre los mástiles pertenece a otro contexto)"
+    ],
+    "invenciones": [
+     "Se introduce 'mástiles de señalización luminica con número «a» y «c»' que no aparece en el original",
+     "Se introduce el código 'AS380' que no está en el original (el original menciona AS373)",
+     "Se introduce la cifra '2,5 metros' que no aparece en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'fénysorompó' traducido como 'barreras luminicas' en lugar de 'paso a nivel con semáforo/señal luminosa'",
+     "'fényjelző' traducido como 'señalización luminica' de forma no normalizada",
+     "Se pierde la distinción entre 'fénysorompó' (paso a nivel) y 'fényjelző' (señal luminosa)"
+    ],
+    "comentario": "La traducción altera códigos (AS373→AS380), inventa cifras y mástiles, omite el dato de distancia y confunde términos técnicos ferroviarios."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2006-033-5_CsajagBalatomkenese-090906.md"
+ },
+ "md-es/HU/2006/2006-161-5_UjszaszSzolnok-121206.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 83.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' en lugar de 'informe de cierre/cierre'",
+   "CSM: el original define 'a mozdonyvezető egyedül teljesít szolgálatot' (el maquinista presta servicio solo) y la traducción añade 'a bordo' no presente en el original",
+   "Kbvt.: el original menciona '2005 évi CLXXXIV törvény' y la traducción omite el año como 'évi' pero conserva la ley; aceptable",
+   "«Alto» por «Megállj»: la señal húngara se traduce habitualmente como «Pare»/«Alto», aceptable pero no normalizado"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se traduce el número de tren 36731 en el apartado 1.3 (el original dice 'A 36731 sz. motorvonat', la traducción dice 'n.º 36731' pero el original en 1.1 usa 35731; sin embargo, en 1.3 el original escribe 36731 y la traducción lo mantiene, no es omisión)",
+     "Se omite la coletilla 'kíméletlenül' (sin piedad/violentamente) en la descripción del impacto",
+     "Se omite la indicación de que el tren 3351 fue 'feltartóztatott' (retenido/detenido) por la señal, aunque se recoge parcialmente"
+    ],
+    "invenciones": [
+     "Se añade 'impactó frontalmente' cuando el original solo dice 'ráütközött' (colisionó por alcance contra la parte trasera), no frontalmente",
+     "Se añade '(motor train)' como glosa en inglés no presente en el original",
+     "Se reordena y añade 'un tren de pasajeros que circulaba' como descripción no literal"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'vágány' traducido como 'vía' con género incorrecto ('del vía izquierda' debería ser 'de la vía izquierda')",
+     "'szelvény' (PK/punto kilométrico) traducido como 'punto kilométrico' es aceptable, pero se pierde la referencia exacta '663+85 sz. szelvény'",
+     "'mozdonyvezető' traducido como 'Conductor' en lugar de 'maquinista', término normalizado en informes ferroviarios"
+    ],
+    "comentario": "La traducción es comprensible pero altera cifras (36731 vs 35731 en contexto), añade 'frontalmente' no presente y usa terminología no normalizada como 'Conductor' por 'maquinista'."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 82,
+    "omisiones": [
+     "Falta la numeración de sección 1.10, 1.11 y 1.12 del original (la traducción las renumera como 1.8, 1.9 y 1.10)",
+     "Falta la indicación de que el tren 3351 circulaba en 'menetben tolt' (en marcha empujada) con la locomotora V43-1249 y el coche de control, matiz que se pierde",
+     "Falta la referencia 'psz.' (número de serie) en la locomotora V43-1249 y en el coche motor Bzmot 212"
+    ],
+    "invenciones": [
+     "Se añade 'de serie' en 'n.º de serie 50 55 82-07 312-6' que no aparece en el original",
+     "Se traduce 'CD elágazás' como 'derivación CD' cuando el original usa 'elágazás' (bifurcación/ramal) de forma consistente"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'térközbiztosító berendezés' traducido como 'sistema de seguridad automática de bloques automáticos' (redundante y no normalizado)",
+     "'állítóközpont' traducido como 'Centro de Conmutación' en lugar de 'centro de control/enclavamientos'",
+     "'térközjelző' traducido como 'interbloqueo n.º 669' cuando es 'señal de bloque n.º 669'"
+    ],
+    "comentario": "La traducción es comprensible pero renumera secciones, omite referencias 'psz.' y contiene imprecisiones terminológicas en 'térközjelző' y 'állítóközpont'."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el fragmento inicial del original: '- (Budapest) felé 5 méterrel. A vonat vége a 663+39 szelvényben volt...' que en la traducción se ha reordenado pero se omite el texto húngaro original de la primera línea",
+     "Falta la línea '- szelvényben volt. A mozdony eleje teljesen összetört, a vezetőfülke összenyomódott.' tal como aparece, aunque su contenido se recoge parcialmente",
+     "No se traduce el encabezado 'PÁGINA 12' ni se indica la referencia de página"
+    ],
+    "invenciones": [
+     "Se añade 'La Vb registró los siguientes hechos en el momento de la inspección del lugar del accidente', que no está en el original",
+     "Se añade 'La parte delantera del tren nº 3351 se encontraba a 5 metros más allá de la señal «N» en posición «Alto», en dirección al punto de inicio de la vía (Budapest)', que no aparece en el original",
+     "Se añade 'Figura 10) La locomotora V43-1249 psz. tras la colisión', que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'szelvény' traducido como 'punto kilométrico' en un caso y omitido en otro; debería normalizarse",
+     "'vörös előtétüveg' traducido como 'cristal rojo frontal' cuando se refiere al cristal/visor rojo de la luz trasera",
+     "'zárjelzőtárcsa' traducido como 'disco de cierre' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción introduce varios párrafos y datos (tren nº 3351, Bzmot 212, PK 663+67, Figura 10) ausentes del original y omite el texto húngaro inicial, por lo que no es fiel."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2006-161-5_UjszaszSzolnok-121206.md"
+ },
+ "md-es/HU/2006/2006-078-5_AbaSarkeresztur-160906.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   8,
+   12,
+   17,
+   23
+  ],
+  "fidelidad_media": 78.7,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "Kbvt: 'investigación técnica' por 'szakmai vizsgálat' (investigación pericial/técnica) es aceptable, pero 'incidentes ferroviarios imprevistos' omite el matiz de 'váratlan vasúti események' (eventos ferroviarios repentinos) frente a 'incidentes'",
+   "Mrh: 'Lugar de carga/descarga de parada' traduce 'Megálló rakodóhely' de forma algo literal; término normalizado sería 'apartadero de carga' o 'punto de carga'"
+  ],
+  "fallos": [
+   {
+    "pagina": 8,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase 'forgalmi szolgálattevőnél jelentkezett.' (se presentó ante el empleado de tráfico) tras la llegada a Sárbogárd",
+     "Falta la hora '7 óra 58 perckor' del original; la traducción la sustituye por 7:58 pero el original no la incluye en ese punto (ver invenciones)",
+     "Falta el fragmento 'elmondás szerint' asociado a la entrada del tren en la estación y la secuencia completa de acciones del empleado de tráfico antes de la parada"
+    ],
+    "invenciones": [
+     "Se añade 'A las 6:50, tras llegar a la estación de Sárbogárd' que no figura en el original",
+     "Se añade 'A las 7:58' para la parada del tren, hora inexistente en el original",
+     "Se añade 'A las 7:59' para la partida del tren de locomotoras, hora inexistente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'VSZT' traducido como 'Centro de Control de Tráfico' sin normalizar; el original mantiene la sigla",
+     "'forgalmi szolgálattevő' traducido de forma variable como 'empleado de tráfico' y 'empleado de la estación', sin normalización",
+     "'sorompófedező jelző' traducido como 'señal de protección de paso', término no normalizado"
+    ],
+    "comentario": "La traducción introduce horas (6:50, 7:58, 7:59) y contenido no presentes en el original, y omite frases y secuencias relevantes, por lo que requiere revisión."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la línea del original «Kiépítési sebesség: 60 km/h.» seguida de «km/h.» (se omite la segunda aparición de 60 km/h)",
+     "Falta el fragmento «os hibaszámon (kódszámon) rögzítette 2004-ben.» tal como aparece, y la referencia al diario de averías del despachador de seguridad de Pécs no está en el original",
+     "Falta la frase final truncada del original «2005. február 28-án a sárbogárdi biztosítóberendezési blokkmester az 52/2005 nem került be.» (solo se traduce parcialmente y se completa con contenido inventado)"
+    ],
+    "invenciones": [
+     "Se añade «Tipo de estructura de la vía: raíles de 48,3 kg/m con traviesas de hormigón tipo «E» separadas 50 cm entre sí» que no está en el original",
+     "Se añade «Velocidad autorizada en la vía en el momento del incidente ferroviario: 60 km/h.» no presente en el original",
+     "Se añade «El diario de averías del despachador de seguridad de Pécs registró el hecho del robo (avería) bajo el número de avería/código 476 en 2004.» con datos (Pécs, 476) ausentes del original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "«biztosítóberendezés» traducido como «equipo de seguridad» en el título pero como «dispositivo de identificación mediante llave» y «barrera luminosa» en el cuerpo; falta normalización",
+     "«fénysorompó» traducido como «barrera luminosa» (debería ser «semáforo de barrera» o «señal luminosa de paso a nivel»)",
+     "«fedező jelző» traducido como «señal de cobertura» (aceptable) pero «mechanikus (karos) fedező jelzők» se traduce como «señales de cobertura mecánicas (de palanca)», término no normalizado"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (datos de raíles, Pécs, código 476, plan de rehabilitación) y omisiones, además de alterar cifras y términos técnicos, por lo que requiere revisión."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase inicial 'megvolt a szolgálatát megelőzően' referida al conductor (tiempo de descanso antes del servicio) en su ubicación original",
+     "Falta la mención de que el conductor no pudo adquirir el conocimiento de la línea en la locomotora de maniobras de Sárbogárd en las ocasiones indicadas (texto truncado 'alkalommal teljesített szolgálatot')",
+     "Falta la referencia al número de tren 38491 en el párrafo del expediente Gy. 1384-1342/2006 (el original no lo menciona en ese punto)"
+    ],
+    "invenciones": [
+     "Introduce 'El conductor del tren de mercancías n.º 38499' que no aparece en el original",
+     "Añade 'Dirección Principal de Servicios de Tracción del Departamento de Ingeniería de MÁV Zrt.' no presente en el original",
+     "Añade '4 ocasiones' y 'locomotora de reserva' que no figuran en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'vezénylő' traducido como 'comandante de turno' en lugar de 'jefe de turno' o 'asignador'",
+     "'mozdonyfelvigyázó' traducido como 'vigilante de locomotoras' (término no normalizado)",
+     "'szembeközlekedés' traducido como 'colisiones frontales' cuando el original distingue 'szembeközlekedés' (circulación en sentido contrario) de colisión"
+    ],
+    "comentario": "La traducción altera cifras (38499 por 38491), añade datos no presentes y omite frases del original, por lo que requiere revisión."
+   },
+   {
+    "pagina": 23,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la etiqueta 'jelű bejárati jelzőnél' (en la señal de entrada) tras '3300m'",
+     "Falta la etiqueta 'megállás 8:12-kor' correctamente asociada; se omite el texto 'jelű bejárati jelzőnél'"
+    ],
+    "invenciones": [
+     "'Señal de entrada nº' añadido antes de '## 3100'",
+     "'desde delante de la oficina de tráfico' añade 'desde delante' no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'barrera luminosa SR1' por 'fénysorompó' (paso a nivel con semáforo) no normalizado",
+     "'puesto de vigilancia nº 2' por 'II-es sz. őrhely' aceptable pero no normalizado",
+     "'señal de maniobra' por 'tolatási jelzést' correcto"
+    ],
+    "comentario": "Traducción mayormente fiel pero con omisiones en las etiquetas de señal de entrada y una invención menor en la descripción del gorro rojo."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2006-078-5_AbaSarkeresztur-160906.md"
+ },
+ "md-es/HU/2006/2006-020-5-Vásárosnamény-280606.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fidelidad_media": 74.0,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 78,
+    "omisiones": [
+     "La frase original 'a 6345 sz. személyszállító vonat a fénysorompó tiltó jelzése ellenére a sínekre hajtó pótkocsis keletkezett' está truncada en el original, pero la traducción añade contenido no presente; se omite la mención de que el accidente se produjo por un vehículo con remolque que invadió las vías (el original está incompleto, pero la traducción no refleja la estructura original)",
+     "Se omite la referencia '26.28-án' tal como aparece (fecha incompleta en el original) y se sustituye por '26 de junio'"
+    ],
+    "invenciones": [
+     "'No hubo heridos, pero se produjeron daños materiales y perturbaciones en el tráfico' no aparece en el original",
+     "'camión con remolque' — el original dice 'pótkocsis' (con remolque) sin especificar camión",
+     "'semáforos SR1' — el original dice 'fénysorompó' (barrera luminosa), no semáforos"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'fénysorompó' traducido como 'semáforos' en lugar de 'barrera luminosa' o 'paso a nivel con señal luminosa'",
+     "'pótkocsis' traducido como 'camión con remolque' sin base en el original",
+     "'hálózati főüzemirányítója' traducido como 'director principal de explotación de la red' — aceptable pero no normalizado"
+    ],
+    "comentario": "La traducción añade una frase inexistente sobre ausencia de heridos y daños, altera términos técnicos y no refleja fielmente el original truncado."
+   },
+   {
+    "pagina": 2,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce el título de la figura como '2. ábra' sino 'Fig. 2' (menor)",
+     "Se omite la referencia 'SR1 számú útátjárójában' como 'paso a nivel n.º SR1' está bien, pero se pierde 'szelvény' como unidad de PK (se traduce como 'kilómetro 545+60' en lugar de 'sección 545+60')"
+    ],
+    "invenciones": [
+     "'semáforos' en plural cuando el original dice 'fénysorompó' (barrera luminosa, singular)",
+     "'tractor de semirremolque' cuando el original dice 'nyerges vontató' (cabeza tractora de semirremolque)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'fénysorompó' traducido como 'semáforos' en plural, término impreciso",
+     "'nyerges vontató' traducido como 'tractor de semirremolque' en lugar de 'cabeza tractora'",
+     "'szelvény' traducido como 'kilómetro' en lugar de 'sección/PK'"
+    ],
+    "comentario": "Traducción mayormente fiel pero con imprecisiones terminológicas en 'fénysorompó', 'nyerges vontató' y 'szelvény'."
+   },
+   {
+    "pagina": 3,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase sobre el tren de viajeros n.º I y el accidente que el conmutador aún no había visto (se reordena y se pierde contenido)",
+     "Falta la mención de que el tren partió de Kisvarsány según el registrador del dispositivo de control del maquinista (se conserva parcialmente pero se altera el sujeto)",
+     "Falta la referencia al paso a nivel protegido por semáforos SR1 (se añade en la traducción, no está en el original)"
+    ],
+    "invenciones": [
+     "Se añade 'conmutador de la casilla de conmutación n.º I' y 'vía n.º III' que no aparecen en el original",
+     "Se añade 'El conmutador notificó a las 12 h 14 min al empleado de tráfico que la maniobra se había realizado y, a continuación, ocupó su puesto asignado para la recepción del tren' (no está en el original)",
+     "Se añade 'Basándose en la evaluación de las luces de retroalimentación' (no está en el original)"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'forgalmi szolgálattevő' traducido como 'empleado de tráfico' y 'conmutador' de forma inconsistente",
+     "'váltókezelő' traducido como 'conmutador' (debería ser 'guardagujas')",
+     "'biztosítóberendezés' traducido como 'dispositivo de seguridad' (aceptable pero no normalizado)"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones y omisiones, altera cifras y horas, y no refleja fielmente el original."
+   },
+   {
+    "pagina": 4,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase sobre el tractor de semirremolque y el remolque del original (no aparece en el original de esta página, pero sí en la traducción como invención)",
+     "Falta la frase 'El dispositivo de seguridad funcionaba correctamente en el momento del accidente' que no está en el original",
+     "Falta la mención de que el cierre de cable (kábelvég-elzárója) sufrió daños considerables junto con el armario y el poste"
+    ],
+    "invenciones": [
+     "'El tractor de semirremolque sufrió daños menores, mientras que el remolque quedó inutilizado (fig. 3).' no aparece en el original",
+     "'El dispositivo de seguridad funcionaba correctamente en el momento del accidente.' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'fénysorompó' traducido como 'semáforos' en lugar de 'paso a nivel con semáforo' o 'barrera luminosa'",
+     "'fényjelző oszlop' traducido como 'poste de señalización luminosa' en lugar de 'poste de señal luminosa'",
+     "'aljcserék' traducido como 'cambiar durmientes' (debería ser 'cambio de traviesas')"
+    ],
+    "comentario": "La traducción contiene dos frases inventadas (tractor/remolque y dispositivo de seguridad) y omite parte de la descripción de daños, además de traducir términos técnicos ferroviarios de forma imprecisa."
+   },
+   {
+    "pagina": 5,
+    "fidelidad": 92,
+    "omisiones": [
+     "No se traduce 'bejárati jelző' como 'señal de entrada' sino 'semáforo de entrada' (aceptable), pero se omite la distinción entre 'jelző' (señal) y 'fénysorompó' (semáforo/paso a nivel) en la primera frase",
+     "Se omite la referencia a 'I. számú váltókezelői őrhely' como 'puesto de maniobras n.º I' (se traduce como 'casilla de conmutación')"
+    ],
+    "invenciones": [
+     "'fábrica' no aparece en el original; el original dice 'üzem' (instalación/planta), no fábrica"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'fénysorompó' traducido como 'semáforo' en la primera frase y como 'semáforo' en la segunda, cuando se refiere al paso a nivel (semáforo de paso a nivel)",
+     "'váltókezelői őrhely' traducido como 'casilla de conmutación' en lugar de 'puesto de maniobras'",
+     "'üzem' traducido como 'fábrica' en lugar de 'instalación' o 'planta'"
+    ],
+    "comentario": "La traducción es en general fiel, pero hay imprecisiones terminológicas en 'fénysorompó', 'váltókezelői őrhely' y 'üzem', y una invención ('fábrica')."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la mención de que el jefe del Departamento de Seguridad del Tráfico y el abogado del conductor del tractor articulado 'megállapította' (determinaron) — el original solo menciona a esos dos, no a los colaboradores de la VBO ni al experto independiente",
+     "Falta la frase sobre la visibilidad parcial desde el tractor articulado en el primer párrafo (el original dice 'csak részben' sin el añadido de causas)",
+     "Omite la referencia a que el dispositivo de señalización está colocado de modo que su señal es visible desde la carretera desde lejos (parte del párrafo del jelzőkészülék)"
+    ],
+    "invenciones": [
+     "Añade 'Los colaboradores de la Oficina Regional de Investigación de Accidentes (VBO) de Záhony' y 'el experto independiente encargado por la policía', que no aparecen en el original",
+     "Añade 'debido en primer lugar al diseño de la cabina del conductor y, en segundo lugar, a las condiciones locales', no presente en el original",
+     "Añade 'dispositivo de señalización lateral izquierdo (visto desde la dirección de marcha del vehículo accidentado)', no presente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'menetíró készülék' traducido como 'dispositivo de registro del conductor' en lugar de 'registrador de marcha' o 'aparato registrador de velocidad'",
+     "'nyerges vontató' traducido como 'tractor articulado' (aceptable) pero se añade 'tractor articulado' donde el original dice 'nyergesvontató' sin artículo",
+     "'fénysorompó' traducido como 'semáforo' en lugar de 'paso a nivel con semáforo' o 'señal luminosa de paso a nivel'"
+    ],
+    "comentario": "La traducción añade numerosos elementos ausentes del original (autores, causas, descripciones) y omite partes del texto, por lo que no es fiel."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2006-020-5-Vásárosnamény-280606.md"
+ },
+ "md-es/HU/2006/2008-069-5-Pécel-Isaszeg-300806.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   2,
+   7
+  ],
+  "fidelidad_media": 88.0,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
+  "terminos": [
+   "'üzemeltető' traducido como 'responsable del mantenimiento' en lugar de 'operador/explotador del vehículo'",
+   "'szalagkorlát' traducido como 'barrera de seguridad' en lugar de 'barrera de contención/quitamiedos'"
+  ],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase 'megállapította:' (la investigación estableció) tal como aparece en el original, aunque se integra en otra frase",
+     "Falta la indicación de que el tren 3237 era 'személyszállító vonat' (de viajeros) en el párrafo descriptivo, aunque se menciona antes",
+     "Falta la mención de que el coche de mando era el '437 pályaszámú BDt típusú vezérlő kocsi' con el orden exacto del original"
+    ],
+    "invenciones": [
+     "'en el punto kilométrico 255+92' — no aparece en el original",
+     "'que circulaba en el trayecto Gödöllő – Budapest-Keleti pu.' — no está en el original",
+     "'como consecuencia de un accidente de tráfico, había caído desde el cruce de Nagytarcsa sobre la vía férrea' — no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'vezérlő kocsi' traducido como 'coche de mando' es aceptable, pero se pierde la distinción 'BDt típusú vezérlő kocsi'",
+     "'vontatási felsővezeték' traducido como 'cable de tracción' — debería ser 'catenaria de tracción' o 'línea aérea de contacto'",
+     "'vezető-jegyvizsgáló' traducido como 'revisor de a bordo' — debería ser 'interventor-jefe' o 'jefe de tren'"
+    ],
+    "comentario": "La traducción añade datos inexistentes (PK, trayecto, cruce de Nagytarcsa, ambulancias, ruta alternativa) y omite matices del original, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2008-069-5-Pécel-Isaszeg-300806.md"
+ },
+ "md-es/HU/2006/2006-175-5_LebenyMosonszentmiklos-271206.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 86.5,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'MÁV Zrt BiztonságiIgazgatóság' traducido como 'Dirección de Seguridad de MÁV Zrt.' es aceptable, pero se pierde la forma abreviada 'BIG' en la definición",
+   "'Vontatás SzolgáltatásiTelephely' traducido como 'Instalación de Servicios de Tracción' podría normalizarse como 'Centro de Servicios de Tracción'",
+   "'kiolvadt csapágyház' traducido como 'caja de cojinete fundida' (sería 'caja de cojinete derretida/fundida por calor')",
+   "'siklás' traducido como 'deslizamiento' en lugar de 'descarrilamiento/patinaje' según contexto",
+   "'ütésnyom' como 'marca de impacto' es aceptable"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 88,
+    "omisiones": [
+     "Se omite la indicación de que el vagón 33 87 933 4530-1 era el quinto en el tren (sí se dice 'clasificado como quinto', pero se pierde la estructura 'ötödiknek beosorozott' referida al vagón, no al tren)",
+     "Se omite la referencia de que el vagón 33 87 933 3530-1 era el mismo que descarriló y volcó (se mantiene, pero se pierde la distinción entre 'siklott és oldalára dőlt' y el resto)",
+     "No se traduce 'valamennyi betonalj' como 'todos los durmientes de hormigón' (se dice 'durmientes de hormigón' sin 'todos')"
+    ],
+    "invenciones": [
+     "Se añade '(vagón de cola)' que no aparece en el original húngaro para el vagón 33 88 934 4003-6",
+     "Se traduce 'torlódó teherkocsi' como 'vagón que formaba el tren (vagón de cola)', cuando el original solo dice 'vagón de mercancías en colisión/apilado'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'torlódó teherkocsi' mal traducido: no significa 'vagón de cola' sino vagón implicado en el alcance/colisión",
+     "'valamennyi betonalj' traducido como 'durmientes de hormigón' sin el cuantificador 'todos'",
+     "'pályaszámú' traducido como 'número de matrícula' es aceptable, pero se pierde la distinción entre el vagón 4530-1 (descarrilado) y el 3530-1 (también descarrilado y volcado)"
+    ],
+    "comentario": "La traducción es mayormente fiel, pero introduce 'vagón de cola' no presente en el original y omite el cuantificador 'todos' en los durmientes dañados."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase original: 'Kőbánya-felső állomáson elvégzett kocsivizsgálat alkalmával nem állapítottak külső hőmérsékletnek megfelelően' (inspección en Kőbánya-felső sin deficiencias conforme a la temperatura exterior), sustituida por contenido inventado",
+     "Se omite la referencia al vagón 33 87 9344064-9 en el párrafo de la inspección de Kőbánya-felső"
+    ],
+    "invenciones": [
+     "'en el vagón de mercancías (causante del accidente) con número de matrícula 33 87 933 4530-1' no aparece en el original",
+     "'Los alojamientos de los cojinetes del tren, que llevaba varios días detenido, estaban fríos, en consonancia con la temperatura exterior' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Peso total de la composición' traduce 'Elegytömeg' (masa de la composición) y se confunde con 'Teljes tömeg' (peso total), que también aparece como 'Peso total'",
+     "'clasificado como pesado para el frenado' traduce mal 'kisorozásra került féknehézmény miatt' (fue apartado por defecto de frenado)",
+     "'transmite el tren'/'transmisión del tren' traduce 'továbbító'/'továbbítás' (explotación/circulación), no transmisión"
+    ],
+    "comentario": "La traducción altera cifras de matrícula, sustituye una frase por contenido inventado y confunde términos de masa y frenado."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "frenó de emergencia sobre mí (el original dice 'ráfékezett' = frenó ante mí / frenó en mi zona, no freno de emergencia)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'forgalmi szolgálattevő' traducido como 'empleado de tráfico' en lugar de 'jefe de circulación/agente de circulación'",
+     "'Térköz Megállj!' traducido como 'Bloque Deténgase!' (término no normalizado; debería ser 'Bloqueo ¡Alto!' o similar)",
+     "'ráfékezett' mal traducido como 'frenó de emergencia'"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero contiene una invención ('frenó de emergencia') y terminología ferroviaria no normalizada."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/2006-175-5_LebenyMosonszentmiklos-271206.md"
+ },
+ "md-es/HU/2006/Final report-150706.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   10,
+   15,
+   19,
+   25
+  ],
+  "fidelidad_media": 73.7,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [
+   "'fénysorompó' traducido como 'paso a nivel luminoso'; sería más preciso 'semáforo luminoso' o 'señal luminosa' (no es un paso a nivel)",
+   "'Dispositivo de seguridad tipo Domino 55' por 'Domino 55 típusú biztosítóberendezés' (biztosítóberendezés = instalación de enclavamiento/señalización, no 'dispositivo de seguridad')",
+   "'Sistema de control electrónico del tren' por 'Elektronikus vonatbefolyásoló berendezés' (debería ser 'equipo electrónico de control/influencia del tren')",
+   "'Almacenamiento de recorrido restante' por 'Maradékút tároló' (tároló = registrador/almacenador, pero se pierde el matiz de 'tároló' como dispositivo)",
+   "'Método de remolque del tren' para 'Vonattovábbítás módja' (modo de circulación/tracción) es impreciso",
+   "'Freno de aire para trenes rápidos' para 'Gyorsvonati légfék' podría normalizarse como 'freno de aire de tren rápido'"
+  ],
+  "fallos": [
+   {
+    "pagina": 19,
+    "fidelidad": 0,
+    "omisiones": [
+     "Todo el contenido del original: la traducción reproduce el texto húngaro sin traducir al castellano"
+    ],
+    "invenciones": [],
+    "numeros_ok": true,
+    "terminos": [
+     "No se traduce ningún término técnico (jelzőtábla, vasúti átjáró, fénysorompó, vonat, személygépkocsi, etc.)"
+    ],
+    "comentario": "La traducción es una copia íntegra del original en húngaro, sin ningún texto en castellano."
+   },
+   {
+    "pagina": 25,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta el texto del original que precede a la figura 23: 'méterre vannak elhelyezve a főútvonal szélétől' aparece reformulado pero se omite la referencia a los mástiles 'a' y 'c' del original húngaro (el original no menciona AS380 ni 2,5 metros en este fragmento)",
+     "Se omite la mención original a que los mástiles están 'a 2,5 metros' tal como aparece en el original (el original dice 'méterre' sin cifra explícita en el fragmento, pero la traducción introduce 2,5)"
+    ],
+    "invenciones": [
+     "Se introduce 'AS380' que no aparece en el original",
+     "Se introduce '2,5 metros' que no figura en el original",
+     "Se introduce la referencia a los mástiles 'a' y 'c' que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'barreras luminicas' por 'fénysorompó' (semáforo/paso a nivel con señal luminosa) no normalizado",
+     "'señalización luminica' traducción inconsistente del mismo término húngaro"
+    ],
+    "comentario": "La traducción añade datos (AS380, 2,5 m, mástiles a y c) ausentes del original y omite parte del texto húngaro, por lo que no es fiel."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/Final report-150706.md"
+ },
+ "md-es/HU/2006/Final report-030706.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   5,
+   13,
+   18,
+   22,
+   27
+  ],
+  "fidelidad_media": 75.0,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' cuando significa 'informe de cierre/conclusión'",
+   "'fény- és félsorompó' reducido a 'paso a nivel' sin distinguir semáforo luminoso y semibarrera"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase 'A KBSZ ügyeletes vezetőjének' como destinatario explícito en la primera notificación (se menciona 'jefe de guardia' pero no se refleja la estructura de dos notificaciones del original)",
+     "Falta la mención de que el Vb fue designado por el Director General de la KBSZ en el encabezado de 'Vizsgálóbizottság kijelölése' (el original solo dice 'vizsgálóbizottságot jelölt ki' sin sujeto explícito, pero la traducción añade 'El Director General')"
+    ],
+    "invenciones": [
+     "Se añade 'Base jurídica del examen: Directiva 2004/49/CE, artículo 19, apartado 2, letra a)' que no aparece en el original",
+     "Se añade 'para examinar el accidente de tráfico ferroviario' que no está en el original",
+     "Se añade 'El Director General de la KBSZ' como sujeto de la designación del comité, no explícito en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'examinador de accidentes' por 'balesetvizsgáló' (término normalizado sería 'investigador de accidentes')",
+     "'técnico de investigación en el lugar del incidente' por 'helyszínelő technikus' (más ajustado: 'técnico de inspección ocular')",
+     "'Mantenimiento' por 'Üzembentartó' (debería ser 'operador/entidad explotadora', no mantenimiento)"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero añade una base jurídica inexistente en el original y desvirtúa algún término técnico (Üzembentartó como 'Mantenimiento')."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la frase sobre el camino de tierra paralelo y perpendicular que desemboca en Bagoly utca (parte inicial truncada en el original, pero presente como contenido)",
+     "Falta la frase sobre la distancia de 40 m entre ejes de vía (sí está, ok)",
+     "Falta el fragmento 'elhelyezett kezelőpulton vannak visszajelentve' referido a que los estados se indican en el panel de control (parcialmente traducido)"
+    ],
+    "invenciones": [
+     "Se añade 'barreras luminosas automáticas controladas por el tren' que no está en el original",
+     "Se añade 'y 1 barra de barrera (en el lado de la ciudad, en dirección a Kossuth Lajos utca)' que no aparece en el original",
+     "Se añade 'y 1 barra de barrera (en el lado de la ciudad, en dirección a Fehérvári út)' que no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'fény- és félsorompó' traducido como 'barrera luminosa y semibarrera' (aceptable, pero 'félsorompó' es semibarrera)",
+     "'elővillogási idő' traducido como 'preparación' en lugar de 'tiempo de parpadeo previo'",
+     "'kiszámoló sínáramkör' traducido como 'circuito de vía de cálculo' (aceptable)"
+    ],
+    "comentario": "La traducción omite frases clave y añade contenido no presente en el original, además de alterar el sentido de algunas señales luminosas."
+   },
+   {
+    "pagina": 18,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la línea '### A rálátást akadályozó' (vegetación que obstaculiza la visibilidad) como encabezado independiente",
+     "Falta la referencia '13. ábra' en el cuerpo del texto original (la traducción la añade al pie, pero el original la cita en el párrafo)",
+     "Falta el texto 'mozdony vezetőállásából kb. 45 méter távolságból' como pie independiente (se fusiona en la figura 13)"
+    ],
+    "invenciones": [
+     "'en las barreras número AS221 y AS15' no aparece en el original",
+     "'Figura 13: Visibilidad del paso a nivel número AS15 desde la cabina de la locomotora con número de serie V43-1179' — el original no menciona AS15 ni V43-1179 en este fragmento",
+     "'Comisión de Investigación (Vb)' — el original solo dice 'A Vb', sin expandir"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'tramo de vía aislada' por 'szigeteltsín' (debería ser 'carril aislado' o 'junta aislada')",
+     "'señal prohibida' por 'tilos jelzés' (señal de parada/prohibición, no normalizado)",
+     "'tramo de vía libre' por 'térközszakasz' (debería ser 'sección de bloqueo' o 'cantón')"
+    ],
+    "comentario": "La traducción añade códigos AS221/AS15 y V43-1179 ausentes del original y omite encabezados, además de alterar cifras y términos técnicos."
+   },
+   {
+    "pagina": 22,
+    "fidelidad": 88,
+    "omisiones": [
+     "En el original: '11 óra a perc nem olvasható ki tisztán' (la hora/minuto no se lee con claridad); la traducción añade '[ilegible: ...]' pero omite la indicación de que el número de minutos no es legible, sustituyéndolo por puntos suspensivos",
+     "El original dice 'Tárnok állomás Fejrovatos előjegyzési naplójában' (libro de anotaciones por turnos/hojas); la traducción lo vierte como 'Diario de anotaciones del jefe de trenes', alterando el tipo de registro"
+    ],
+    "invenciones": [
+     "'señal acústica podía silenciarse pulsando el botón de silenciamiento de avería': el original dice 'A hangjelzést egy zavar nyomógomb benyomásával el lehetett kezelni' (pulsando el botón de avería), no un 'botón de silenciamiento'",
+     "'se había repetidamente puesto en rojo': el original dice 'kétszer is visszaesett' (rechazó/cayó dos veces), no repetidamente"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'zavarcsengő' traducido como 'campana de avería' es aceptable, pero 'zavar nyomógomb' como 'botón de silenciamiento de avería' añade matiz no presente",
+     "'félsorompó' como 'semibarrera' es correcto, pero 'sorompó' como 'barrera' puede confundirse con 'barrera' genérica; el original distingue 'sorompó' (barrera/paso a nivel)",
+     "'kényszeroldó' como 'Desbloqueo forzoso' es aceptable, pero el original distingue 'számlált kezelés' (manipulación contada) que se traduce de forma inconsistente"
+    ],
+    "comentario": "La traducción es en general fiel y conserva las cifras, pero introduce matices no presentes ('botón de silenciamiento', 'repetidamente') y traduce erróneamente el tipo de registro 'Fejrovatos előjegyzési napló'."
+   },
+   {
+    "pagina": 27,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la fecha y el destinatario exactos del original (solo 'Zrt. részére'), la traducción añade 'KBSZ, 21 de julio de 2006' que no aparece",
+     "Falta la frase original sobre que el maquinista no tenía posibilidad de evitar el accidente en el triángulo de visibilidad (parte del texto sobre KRESZ está truncada y reinterpretada)",
+     "Falta el contenido del original sobre 'a baleset több mint 1 másodperc alatt teszi meg' referido al tren, sustituido por una paráfrasis"
+    ],
+    "invenciones": [
+     "'El KBSZ, el 21 de julio de 2006' no está en el original",
+     "'proponiendo la adopción inmediata de medidas preventivas' no está en el original",
+     "'la vegetación obstruía la visibilidad' no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'rálátási háromszög' traducido como 'triángulo de visibilidad' es aceptable, pero se pierde la distinción de 'biztosítás módja'",
+     "'fénysorompó' traducido como 'barrera luminosa' en lugar de 'semáforo de barrera' o 'señal luminosa de paso a nivel'",
+     "'Fejrovatos napló' traducido como 'Diario de Control de Línea' de forma inconsistente"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (fecha, vegetación, 30 metros, RA 23.4) y omite fragmentos clave del original, además de alterar cifras y términos técnicos."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/Final report-030706.md"
+ },
+ "md-es/HU/2006/mendesulysap-281006.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 79.8,
+  "fidelidad_min": 45,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' en lugar de 'informe de cierre/cierre'",
+   "'MÁV Zrt. Gépészeti Üzletág Körzeti Járműfenntartási Központ' traducido como 'Centro Regional de Mantenimiento de Vehículos del Sector de Ingeniería de MÁV Zrt.'; 'Gépészeti' se refiere a maquinaria/tracción, no a ingeniería",
+   "'MÁVÉPCELL Mély- Magas és Vasútépítő Kft.' traducido como 'MÁVÉPCELL Mély- Magas y Construcción Ferroviaria S.A.'; se omite la distinción 'Mély- Magas' (profundidad y altura) y se altera la forma societaria Kft. por S.A.",
+   "'MÁV Hajdú Vasútépítő Kft.' traducido como 'MÁV Hajdú Construcción Ferroviaria S.A.'; Kft. no equivale a S.A.",
+   "'Magyar Államvasutak Zártkörűen Működő Részvénytársaság' traducido como 'Ferrocarriles Húngaros Sociedad Anónima de Capital Cerrado'; Zrt. no es exactamente 'S.A. de Capital Cerrado'"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 45,
+    "omisiones": [
+     "El original termina en '...aminak sebességcsökkentés mellett történt.' (con reducción de velocidad), sin mencionar descarrilamiento, apeadero de Pusztaszentistván, perfil 254+25, figura 3, línea 120a ni vía izquierda.",
+     "No se traduce la frase final del original sobre la reducción de velocidad como causa/contexto del incidente."
+    ],
+    "invenciones": [
+     "'provocando que la máquina de trabajo descarrilara con un bogie en el apeadero de Pusztaszentistván, en el perfil ferroviario n.º 254+25 (figura 3)'",
+     "'Se interrumpió el tráfico en la vía derecha de la línea principal ferroviaria n.º 120a, y el tráfico posterior de trenes se realizó por la vía izquierda con reducción de velocidad por motivos de seguridad laboral.'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'en el vía derecha' (concordancia incorrecta; debería ser 'en la vía derecha')",
+     "'Gleisbaumashine' sin normalizar (término alemán no traducido)"
+    ],
+    "comentario": "La traducción añade un descarrilamiento y datos de infraestructura ausentes del original, y omite el cierre del texto original."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase final del original: '(a' (inicio de la frase truncada sobre el relevo de personal, que en la traducción se completa con contenido no presente en el original)."
+    ],
+    "invenciones": [
+     "Se añade '(ya que, según el personal de la locomotora, ese era el lugar del relevo del personal), puesto que incluso en el momento del descarrilamiento, ocurrido a las 17 h 20 min, llevaban ya 12 horas de servicio', contenido que no aparece en el fragmento original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vonatbefolyásoló regisztrátumok' traducido como 'registros de los dispositivos de control del tren' en lugar de un término normalizado como 'registros del sistema de control del tren (ATP)'",
+     "'mozdonyrádió' como 'radio de locomotora' podría normalizarse como 'radio de la locomotora'"
+    ],
+    "comentario": "La traducción es fiel en lo esencial, pero añade una frase final ausente en el original y omite el inicio de la frase truncada, además de alguna imprecisión terminológica."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: '2008. október 28-án balesetet szenvedett SUZ 350 vágányépítő egység.' (la unidad SUZ 350 accidentada el 28-10-2008) tal como aparece, sustituida por una frase distinta",
+     "Falta el texto 'sz. vonat számára, melyen a következő szerepelt:' (para el tren n.º ..., que contenía lo siguiente)",
+     "Falta la referencia a que la Orden escrita n.º 34 se recibió para el tren n.º 96313-1 en el original (el original dice '34 sz. Írásbeli rendelkezésen kapott' sin especificar destinatario; la traducción añade 96313-1)"
+    ],
+    "invenciones": [
+     "'El 2 de mayo de 2006, la unidad de construcción de vía SUZ 350 ... entró en territorio húngaro en la estación de Hegyeshalom.' — no está en el original",
+     "'El Órgano de Investigación (Vb) encontró varios blocs de etiquetas de prueba de frenos en la cabina de la locomotora ... pero no encontró la etiqueta correspondiente al tren descarrilado en ninguno de ellos.' — no está en el original",
+     "'Debido a la limitación de velocidad de los vagones incorporados al tren, la velocidad máxima del tren: 60 km/h.' — el original solo dice 'sebessége: 60 km/h'"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'siklott' traducido como 'descarrilaría' es aceptable, pero se pierde la distinción entre 'siklott' (descarriló) y el accidente de la unidad SUZ 350",
+     "'gépmenet' traducido como 'marcha de locomotora' / 'tren de locomotoras' de forma inconsistente",
+     "'Menetigazolvány' y 'Menetlevél' traducidos como 'Permiso de Circulación' y 'Listado de Tren' sin normalizar"
+    ],
+    "comentario": "La traducción introduce frases inexistentes (Hegyeshalom, hallazgo de blocs, orden n.º 32) y omite el encabezado original, además de alterar fechas y contenidos de las órdenes."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/mendesulysap-281006.md"
+ },
+ "md-es/HU/2006/Komarom-060806.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   5,
+   9,
+   11,
+   13
+  ],
+  "fidelidad_media": 74.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' cuando el original no especifica 'final'",
+   "'súlyos vasúti balesetek' (accidentes ferroviarios graves) y 'vasúti balesetek' (accidentes ferroviarios) se mantienen, correcto",
+   "'Vb' traducido como 'Grupo de Investigación (Vb)' en lugar de mantener la sigla húngara o normalizar como 'Comisión de Investigación'"
+  ],
+  "fallos": [
+   {
+    "pagina": 5,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la fecha '2006. augusztus 06-án' en la frase de designación del Grupo de Investigación (el original dice 'án szakmai vizsgálóbizottságot jelölt ki', con fecha truncada, pero la traducción añade 'el 6 de agosto de 2006' que no aparece explícitamente en ese punto)",
+     "Falta la fila/estructura de la tabla de heridos en el original: el original tiene encabezados 'Halálos | Súlyos | Könnyű | Nincs' y la traducción los traduce, pero se omite la línea 'A másodlagos esemény - típusa:' como campo separado (se fusiona)"
+    ],
+    "invenciones": [
+     "Se añade 'de tráfico ferroviario' en 'investigación del accidente de tráfico ferroviario' que no está en el original",
+     "Se añade 'El Director General de la KBSZ designó un Grupo de Investigación Técnico para la investigación del accidente de tráfico ferroviario el 6 de agosto de 2006' cuando el original solo dice 'án szakmai vizsgálóbizottságot jelölt ki' sin fecha explícita en esa línea"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Kisiklás' traducido como 'Descarrilamiento' cuando el original distingue 'Kisiklás' (descarrilamiento) como naturaleza del evento; aceptable pero no normalizado",
+     "'Váltó' traducido como 'Punto de desvío' en lugar de 'Cambio' o 'Desvío' (término ferroviario normalizado)",
+     "'Üzembentartó' traducido como 'Mantenimiento' cuando significa 'Operador/Entidad de mantenimiento' (titular de la explotación)"
+    ],
+    "comentario": "La traducción es mayormente fiel pero introduce contenido no presente en el original y presenta terminología ferroviaria no normalizada."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase original 'mációt a Vb nem kapott.' (información que la Vb no recibió)",
+     "Falta la línea 'mozdonyvezető' como valor de la titulación/calificación profesional del original",
+     "Falta la línea 'villamos mozdonyvezető' como valor del puesto/ocupación en el original"
+    ],
+    "invenciones": [
+     "Se añade 'Según la información recibida de la autoridad de investigación (VBO), el importe estimado de los daños fue de 1 000 000 HUF', que no aparece en el original",
+     "Se añade 'La autoridad de investigación (Vb) no recibió información sobre el importe definitivo de los daños hasta la fecha de elaboración del informe final', ausente en el original",
+     "Se añade 'Conductor de la locomotora del tren n.º 45552 (BRKS a.s.)', número de tren inexistente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Biztosítóberendezés külsőtéri elemei' traducido como 'elementos exteriores del dispositivo de seguridad' en lugar de 'elementos de campo del sistema de señalización/enclavamientos'",
+     "Se introduce 'VBO' como sigla no presente en el original, que solo usa 'Vb'"
+    ],
+    "comentario": "La traducción añade párrafos y un número de tren inexistentes, omite líneas del original y altera la terminología técnica de señalización."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase sobre la gestión y verificación de los desvíos por el jefe de servicio de tráfico externo de la caseta de señalización (número no especificado en el original) y la mención de que todos los desvíos son de manejo local",
+     "Falta la indicación de que los desvíos de las vías de derivación inicial y final que dirigen a las vías VIII–XXIII son todos de accionamiento manual local, sin especificar los números de caseta VIII y X que la traducción inventa",
+     "Falta la frase 'A vonatfogadó vágányokra engedélyezett sebesség...' ya traducida, pero se omite la referencia a que la velocidad de construcción es 40 km/h (aparece, pero se omite la estructura 'Kiépítési sebessége')"
+    ],
+    "invenciones": [
+     "Se añade 'estación de clasificación de Komárom' donde el original dice 'Komárom rendező pályaudvar' (puede ser equivalente, pero se añade 'clasificación')",
+     "Se inventa que los desvíos de la vía de derivación inicial son manejados por el agente de la caseta n.º VIII y los finales por el de la caseta n.º X, datos que no aparecen en el original",
+     "Se añade 'señal de salida «VrCs»' que no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'líravágány' traducido como 'vía de derivación (línea de cruce)' de forma inconsistente; debería ser 'vía de derivación' o 'vía de enlace'",
+     "'váltókörzet' traducido como 'zona de desvíos' aceptable, pero 'líravágány' no es 'línea de cruce'",
+     "'menetíró-adatrögzítő' traducido como 'registrador de datos de marcha electromecánico' añadiendo 'electromecánico' que no está"
+    ],
+    "comentario": "La traducción contiene numerosas invenciones (datos de locomotoras, casetas, rangos de velocímetro) y omisiones de frases clave, además de cambios en cifras y términos técnicos, por lo que la fidelidad es baja."
+   },
+   {
+    "pagina": 13,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase 'Egyeztette a vágányfoglaltsá-' y el fragmento sobre el control de las anotaciones de ocupación de vías",
+     "Falta el fragmento 'A mozdonyon lévő második dolgozó... a szerelvény másik' que describe que el segundo trabajador recorrió el tren por el lado derecho",
+     "Falta la mención de que la cuña fue arrastrada por las ruedas hasta el cruce del desvío n.º 428 y allí se atascó"
+    ],
+    "invenciones": [
+     "Se añade 'aproximadamente a las 05 h 10 min' que no aparece en el original",
+     "Se añade 'realizó una inspección perimetral a través del cruce de agujas del puesto de vigilancia n.º VIII' como acción de la locomotora, no del personal",
+     "Se añade 'Verificó las ocupaciones de las vías anotadas en el Diario de Ocupaciones de Vías y controló los objetos del inventario', no presente en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'sarut' traducido como 'cuña' en lugar de 'calzo' (término ferroviario normalizado)",
+     "'főrendelkező' traducido como 'jefe de mando principal' en lugar de 'jefe de circulación'",
+     "'külső forgalmi szolgálattevő' traducido como 'personal de tráfico externo' en lugar de 'factor de circulación exterior'"
+    ],
+    "comentario": "La traducción introduce datos inexistentes (horas, números de vía y estación), omite pasajes clave del original y altera cifras y términos técnicos, por lo que requiere revisión completa."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/Komarom-060806.md"
+ },
+ "md-es/HU/2007/2007-0047-5_Szony_EN-06022007.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   7,
+   13,
+   18,
+   22,
+   26
+  ],
+  "fidelidad_media": 97.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'line signal box' traducido como 'caseta de señales' en lugar de 'enclavamiento de línea' o 'puesto de señales de línea'",
+   "'block signals' como 'señales de bloqueo' (aceptable, aunque se normaliza 'señales de bloqueo')",
+   "'circuitos de vía codificados automáticos de 75 Hz' omite 'automatic block signals' (bloqueo automático) del original",
+   "'proveedor de energía' por 'power supplier' (fuente/alimentador de energía) es poco técnico",
+   "'tráfico contraflujo' por 'contra flow traffic' (tráfico en sentido contrario) no normalizado",
+   "'barreras longitudinales' por 'longitudinal barriers' (barreras longitudinales de paso a nivel) aceptable pero no normalizado"
+  ],
+  "fallos": [
+   {
+    "pagina": 22,
+    "fidelidad": 96,
+    "omisiones": [
+     "Se omite el minuto exacto: «19 hours 00 minutes» se traduce solo como «a las 19 horas»"
+    ],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [
+     "«insulated rail sections» traducido como «secciones de vía aisladas» en lugar de «secciones de vía aisladas (circuitos de vía)», término no normalizado",
+     "«movements inspector» como «inspector de maniobras» es aceptable pero no normalizado"
+    ],
+    "comentario": "Traducción fiel en general, pero omite los minutos de la hora del aviso (19:00) y algún término técnico no está normalizado."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-0047-5_Szony_EN-06022007.md"
+ },
+ "md-es/HU/2006/balatonmariafurdo-230706.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   7,
+   10,
+   12,
+   15
+  ],
+  "fidelidad_media": 83.7,
+  "fidelidad_min": 62,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' en lugar de 'informe de cierre/conclusión'",
+   "'váratlan vasúti események' traducido como 'incidentes ferroviarios inesperados' en lugar de 'sucesos ferroviarios imprevistos'",
+   "'Szakmai vizsgálat' traducido como 'investigación técnica' en lugar de 'investigación profesional/técnica del accidente'",
+   "'vasúti jármű' traducido como 'material rodante' (aceptable) pero 'sérülései' como 'averías' en vez de 'daños/lesiones'"
+  ],
+  "fallos": [
+   {
+    "pagina": 7,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se menciona que el tren 'felvágta' (arrancó/cortó) el desvío n.º 3, sino que se traduce como 'descarriló por la vía lateral'"
+    ],
+    "invenciones": [
+     "'descarriló por la vía lateral' no aparece en el original; el original dice que el tren arrancó/cortó el desvío n.º 3 y se detuvo en el desvío n.º 1"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vezető jegyvizsgáló' traducido como 'revisor de billetes a bordo' en lugar de 'jefe de tren/interventor'",
+     "'felvágta' (arrancar/cortar un desvío) traducido erróneamente como 'descarriló'",
+     "'kitérő irányba álló 3. számú váltó' traducido como 'punto de cruce n.º 3' en lugar de 'desvío n.º 3 en posición desviada'"
+    ],
+    "comentario": "La traducción altera un hecho técnico clave (felvágta el desvío, no descarriló) y usa terminología ferroviaria imprecisa."
+   },
+   {
+    "pagina": 10,
+    "fidelidad": 62,
+    "omisiones": [
+     "Falta la frase original 'Távvezérelt üzemmódban a biztosítóberendezés a központi forgalomirányító szolgálati helyről vezérelhető, helyi üzemmódban a jelenlétes forgalmi szolgálattevő kezelheti.' (o su contenido equivalente sobre quién controla en cada modo)",
+     "Falta la mención de que el tren 5209-2 tenía 7 coches (la traducción dice 5)",
+     "Falta la frase 'A vonat behaladása után az utasításban előírtak szerint (a magasperon mellett) állt meg' — la traducción dice 'andén lateral' en lugar de 'andén alto'"
+    ],
+    "invenciones": [
+     "Se añade 'En la línea principal n.º 30, entre las estaciones de Szabadbattyán y Balatonszentgyörgy' — no está en el original",
+     "Se añade 'el controlador central del tráfico, desde Fonyód, gestiona el dispositivo de seguridad de forma remota' — no está en el original",
+     "Se añade toda la frase sobre la emisión matutina de noticias por radio y el incidente extraordinario en la línea n.º 80 — no está en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "KÖFI traducido como 'control centralizado de la vía' — debería ser 'control centralizado del tráfico' o similar",
+     "KÖFE traducido como 'supervisión centralizada' — debería ser 'control centralizado de supervisión' o 'supervisión centralizada del tráfico'",
+     "'távvezérelt üzemmód' traducido como 'modo de control centralizado' — debería ser 'modo teledirigido' o 'modo de control remoto'"
+    ],
+    "comentario": "La traducción contiene omisiones graves (número de vagones, frase sobre el modo de control), invenciones (línea 30, Fonyód, noticias de radio, luz amarilla) y errores numéricos (5 vs 7 vagones), por lo que requiere revisión."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la palabra suelta 'felől' que aparece en el original tras la frase del anuncio (posible fragmento de línea)"
+    ],
+    "invenciones": [
+     "Añade 'desde la estación de Balatonszentgyörgy' entre paréntesis como aclaración no presente en el original en ese punto"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vezető jegyvizsgáló' traducido como 'revisor jefe' en lugar de 'interventor jefe' o 'jefe de revisores'",
+     "'visszapillantó tükör' como 'espejo retrovisor' (aceptable pero no normalizado en ferrocarril)",
+     "'jelfeladás' traducido como 'transmisión de señales' en vez de 'transmisión de señalización/baliza'"
+    ],
+    "comentario": "Traducción mayormente fiel y con cifras correctas, pero con omisión de un fragmento, una aclaración inventada y varios términos técnicos no normalizados."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la primera línea del original: 'volt.'",
+     "Falta el fragmento final de la frase: 'Több munkavállaló elmondása szerint' se traduce, pero se omite la continuación 'ezen a vonalszakaszon többször előfordul' en su forma exacta (se parafrasea)",
+     "Se omite la palabra 'vezető' en 'vezető jegyvizsgálók' (revisores jefes/principales)"
+    ],
+    "invenciones": [
+     "Se añade 'debido a la falta de una climatización adecuada, la temperatura en la cabina de conducción era de 38-40 °C', que no aparece en el original",
+     "Se añade 'a lo cual contribuyeron también las circunstancias mencionadas anteriormente', ausente en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'váltófelvágás' traducido como 'cambio de vía equivocado' en lugar de 'desvío forzado/rotura de aguja'",
+     "'jegyvizsgálók' traducido como 'revisores de a bordo' cuando el original distingue 'vezető jegyvizsgálók' (revisores jefes)"
+    ],
+    "comentario": "La traducción añade contenido ajeno (climatización, 38-40 °C) y omite la línea 'volt.' y matices del original, aunque las cifras y horas coinciden."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2006/balatonmariafurdo-230706.md"
+ },
+ "md-es/HU/2007/2007-0034-5_zarojelentes-25012007.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   14,
+   17
+  ],
+  "fidelidad_media": 90.0,
+  "fidelidad_min": 72,
+  "sin_dictamen": [],
+  "terminos": [
+   "'guardia' por 'ügyelet' (servicio de guardia) es aceptable pero 'ügyeletes vezetőjének' se traduce como 'jefe de guardia' en lugar de 'director de guardia'"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 92,
+    "omisiones": [
+     "Falta la frase 'az érintetteket a záró megbeszélés időpontjáról, és arra meghívta az érintett személyeket, szervezeteket.' como oración independiente; se ha fusionado/parafraseado en la traducción"
+    ],
+    "invenciones": [
+     "'Al mismo tiempo que se remitió el borrador de informe final' no aparece en el original",
+     "'el Director General de la KBSZ' como sujeto explícito de la invitación no está en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Comité de Investigación (Vb)' — Vb no se explicita como comité en el original",
+     "'Organización de Seguridad del Transporte (KBSZ)' — KBSZ es Közlekedésbiztonsági Szervezet, traducción aceptable pero no normalizada"
+    ],
+    "comentario": "La traducción añade contenido no presente y reformula una frase omitida, aunque las cifras y fechas son correctas."
+   },
+   {
+    "pagina": 9,
+    "fidelidad": 72,
+    "omisiones": [
+     "Falta la línea 'vonat haladási iránya.)' y la referencia a la figura 3 con la nota de la flecha azul oscuro (aparece en la traducción pero no en el original, por lo que es invención, no omisión)",
+     "Falta la frase 'A 33 81 788 1450-9 pályaszámú tartálykocsi ütközője, kézifékje, fékállása és vonóhorga sérült (6. ábra).' como elemento independiente: en el original es un guion aparte; en la traducción se fusiona, pero se mantiene el contenido",
+     "Falta la referencia 'GÜ Szolnok KJK de MÁV Zrt.' en el original: la traducción añade el emisor de la factura, que no está en el original"
+    ],
+    "invenciones": [
+     "'3. figura: Lugar del inicio del descarrilamiento (En todas las figuras, la dirección de circulación del tren está marcada con una flecha azul oscuro.)' no aparece en el original",
+     "'Según la factura de daños preliminar emitida por GÜ Szolnok KJK de MÁV Zrt.' no está en el original",
+     "'de los dos vagones cisterna patinantes' añade 'dos' y 'patinantes' donde el original solo dice 'a siklott kocsik' (los vagones descarrilados)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'siklott' traducido como 'patinó' en lugar de 'descarriló' (término ferroviario normalizado)",
+     "'Beesési kitérő eleje' traducido como 'Inicio del desvío de entrada' cuando 'beesési' se refiere a la vía de entrada/incorporación",
+     "'Felkapási nyom' traducido como 'Vía de paso' cuando se refiere a 'huella de enganche/recogida'"
+    ],
+    "comentario": "La traducción añade contenido no presente (figura 3, emisor de la factura) y usa 'patinó' por 'descarriló', además de omitir matices del original."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el matiz 'a tartálykocsi budapesti továbbítása és állása idején' como 'transporte y estancia' (aceptable), pero se omite la referencia a que el descenso de 10 °C ocurrió 'en su entorno' (térségében) — la traducción dice 'descendió hasta 10 °C' en lugar de 'descendió 10 °C'",
+     "Se omite la palabra 'eső' (lluvia) y se traduce como 'precipitaciones', alterando el término original",
+     "No se recoge que el viento fue 'visszatérően élénk lökéses' (reiteradamente vivo y racheado), solo 'vientos racheados intensos'"
+    ],
+    "invenciones": [
+     "'descendió hasta 10 °C' introduce un 'hasta' que no está en el original (el original dice que descendió 10 °C, no que llegó a 10 °C)",
+     "'las precipitaciones del primer día' — el original dice 'az első nap eső' (la lluvia del primer día), no precipitaciones en general"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'melaza' debería ser 'melaza' pero el original húngaro 'melasz' se traduce correctamente; sin embargo, 'la listilla' no es término técnico normalizado (sería 'listón' o 'tablilla')",
+     "'tapa de la escotilla' por 'dómfedél' (tapa de cúpula) — término técnico no normalizado",
+     "'cuerpo del tanque' por 'tartálytest' es aceptable, pero se usa 'vagón cisterna' y 'tanque' indistintamente para 'tartálykocsi'"
+    ],
+    "comentario": "La traducción es en general fiel, pero contiene errores numéricos (10 °C vs. hasta 10 °C), omisiones de matices y terminología no normalizada que requieren revisión."
+   },
+   {
+    "pagina": 17,
+    "fidelidad": 96,
+    "omisiones": [
+     "Falta la frase final del original: 'A tartálytest rövid idő alatt lezajló, hirtelen összeroppanásához a végső lökést egy, a normál igénybevételből adódó pillanatnyi terhelési maximum adta meg.' (la traducción la reformula pero no la omite; ver invenciones)",
+     "No se traduce 'a lefejtett tartálykocsi' (el vagón cisterna ya vaciado/descargado) en la frase sobre los dos días y medio anteriores"
+    ],
+    "invenciones": [
+     "'incluso antes de la ciclogénesis' — el original dice 'még a ciklon előtt' (antes del ciclón), no 'ciclogénesis'",
+     "La última frase se reformula como 'El empujón final que provocó el colapso repentino y rápido del cuerpo del tanque fue una carga máxima instantánea derivada de las tensiones normales de servicio', alterando la estructura del original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'ciklonális frontátvonulás' traducido como 'paso de un frente ciclonal' — aceptable, pero 'frontátvonulás' es 'paso de frente'",
+     "'ciklonális nyomás-süllyedés' como 'depresión de presión ciclonal' — término no normalizado; mejor 'descenso de presión ciclónico'",
+     "'légtömeg' como 'masa de aire' correcto"
+    ],
+    "comentario": "Traducción muy fiel con cifras correctas, pero contiene una invención ('ciclogénesis' por 'ciclón') y una reformulación de la frase final que altera el original."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-0034-5_zarojelentes-25012007.md"
+ },
+ "md-es/HU/2007/2007-323-5_Tocovolgy-29082007.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   15
+  ],
+  "fidelidad_media": 81.2,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'semáforos de luz controlados por el tren' por 'fénysorompó' (semáforo de paso a nivel / barrera luminosa) y 'sorompóberendezés' como 'equipo de semáforos' en lugar de 'instalación de paso a nivel'"
+  ],
+  "fallos": [
+   {
+    "pagina": 6,
+    "fidelidad": 82,
+    "omisiones": [
+     "No se traduce el nombre del organismo que designa el comité (solo 'szakmai vizsgálóbizottságot jelölt ki', sin sujeto explícito en el original)",
+     "Se omite la mención de que el comité fue designado por la KBSZ tal como aparece en el original (el original no dice 'Director General de la KBSZ')"
+    ],
+    "invenciones": [
+     "'El Director General de la KBSZ designó' — el original no menciona al Director General como sujeto de la designación",
+     "'para la investigación del accidente de tráfico ferroviario el 29 de agosto de 2007' — la fecha y la calificación 'accidente de tráfico ferroviario' no aparecen en el original en ese punto"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'balesetvizsgáló' traducido como 'investigador de accidentes' es aceptable, pero 'szakmai vizsgálóbizottság' debería normalizarse como 'comité de investigación técnica' de forma consistente",
+     "'menetíró regisztrátum' como 'registro del registrador de marcha' es redundante pero no incorrecto"
+    ],
+    "comentario": "La traducción añade un sujeto (Director General) y una fecha no presentes en el original, y omite el sujeto de la designación del comité."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la referencia al paso a nivel en el primer párrafo del original (solo 'útátjáróban', sin código AS41 ni 'protegido con barreras luminosas')",
+     "Falta 'sz. vonat' (número de tren) en el punto 4: el original dice 'sz. vonat' sin número, la traducción inventa 6642",
+     "Falta la palabra 'állomás' (estación) en el punto 4 del original"
+    ],
+    "invenciones": [
+     "'paso a nivel protegido con barreras luminosas AS41 que funcionaba correctamente' en el primer párrafo",
+     "'AS47' en el punto 3",
+     "'AS41' en el punto 4"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'személygépkocsi' traducido como 'automóvil particular' es aceptable, pero 'tehergépkocsi' como 'camión' es correcto",
+     "Falta distinguir 'vonat' (tren) de 'sz. vonat' (tren n.º) en el punto 4"
+    ],
+    "comentario": "La traducción añade códigos AS y detalles de paso a nivel ausentes del original, omite el número de tren en el punto 4 y cambia cifras (6642 vs. sin número), además de omitir referencias a estaciones."
+   },
+   {
+    "pagina": 15,
+    "fidelidad": 55,
+    "omisiones": [
+     "La traducción omite la frase original 'A Vb a lefolytatott helyszíni szemle... odaérkezésekor üzemszerűen működött, s a közút felé áthaladást megtiltó jelzést adott' en su forma literal, sustituyéndola por una paráfrasis con datos no presentes (semáforo AS41, tren 6644)",
+     "Omite la última frase original 'forgalomtechnikai kialakítás mellett esetenként veszélyessé teszi' tal como está redactada, reemplazándola por una frase ampliada"
+    ],
+    "invenciones": [
+     "Añade 'semáforo AS41' que no aparece en el original",
+     "Añade 'tren 6644' que no aparece en el original",
+     "Añade 'intenso tráfico de la carretera nº 33' que no aparece en el original"
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'Vb' se mantiene sin traducir/desarrollar",
+     "'járműszerelvény' traducido como 'tren de material accidentado' en lugar de 'tren de vehículos/vehículo ferroviario'",
+     "'forgalomtechnikai kialakítás' traducido de forma ampliada como 'configuración actual del sistema de tráfico'"
+    ],
+    "comentario": "La traducción introduce datos inexistentes (AS41, tren 6644, carretera nº 33) y parafrasea el original, por lo que requiere revisión."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-323-5_Tocovolgy-29082007.md"
+ },
+ "md-es/HU/2007/2007-211-5_Pecel-18062007.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 91.3,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Vb' traducido como 'Comité de Investigación' en lugar de mantener la sigla o su equivalente normalizado",
+   "'KBSZ' traducido como 'Organización de Seguridad del Transporte' sin sigla original",
+   "'vasúti közlekedési baleset' traducido como 'accidente de tráfico ferroviario' en lugar de 'accidente de transporte ferroviario'",
+   "'helyszínelő technikus' traducido como 'técnico de investigación en el lugar del suceso' en lugar de 'técnico de inspección ocular/escena'",
+   "'Número de vía de la locomotora' y 'Números de vía de los coches remolcados': 'pályaszám' se refiere al número de matrícula/identificación del vehículo ferroviario, no al número de vía"
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 88,
+    "omisiones": [
+     "Falta la frase final del original: '...sem a használhatatlanná' (declaración de inutilidad), que en la traducción se completa inventando 'ni a la notificación correspondiente a los trenes, ni tampoco a la protección del paso a nivel'",
+     "No se traduce el encabezado 'PÁGINA 12' (irrelevante) ni se mantiene la referencia '182+25 hm' como tal, aunque el valor numérico se conserva"
+    ],
+    "invenciones": [
+     "'ni a la notificación correspondiente a los trenes, ni tampoco a la protección del paso a nivel' no aparece en el original, que se corta en 'használhatatlanná'"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'barrera luminosa de vía libre' por 'nyíltvonali fénysorompó' es aceptable, pero 'fénysorompó-berendezés' se traduce a veces como 'dispositivo de barrera luminosa' y a veces 'barrera luminosa', sin normalizar",
+     "'visszajelentési hely' traducido como 'punto de retroalimentación' es poco técnico; en ferrocarril sería 'punto de reenganche/señalización de control'"
+    ],
+    "comentario": "La traducción es fiel en lo esencial, pero añade una frase final no presente en el original y no normaliza algunos términos técnicos ferroviarios."
+   },
+   {
+    "pagina": 14,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase 'A Vb vizsgálata során megállapította... jutott, hogy célszerű lenne megvizsgálni' — el original dice que la Vb llegó a la conclusión tras su investigación, no 'independientemente del incidente'",
+     "Falta el matiz 'a közlekedő vonatok' (los trenes que circulan) se traduce parcialmente",
+     "Falta la referencia a que la deficiencia se refiere a las normas vigentes en el momento del incidente, no 'durante la investigación'"
+    ],
+    "invenciones": [
+     "'Independientemente del incidente' no aparece en el original",
+     "'en cualquier caso, a pesar de la manipulación manual' no está en el original",
+     "'se presentaron empleados de varios servicios técnicos del operador, quienes vieron el estado de la barrera' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'barrera luminosa de vía libre' por 'nyíltvonali fénysorompó' — debería ser 'semibarrera luminosa de plena vía' o 'paso a nivel con semibarreras luminosas de plena vía'",
+     "'sección constructiva de la vía férrea' por 'szerkesztési szelvény' — término técnico es 'gálibo de construcción'",
+     "'señal de verificación de vía secundaria' por 'mellékvonali ellenőrző jelző' — debería ser 'señal de control de línea secundaria'"
+    ],
+    "comentario": "La traducción añade contenido no presente en el original (empleados técnicos, 'independientemente del incidente') y omite matices del texto húngaro, además de traducir incorrectamente varios términos técnicos ferroviarios."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-211-5_Pecel-18062007.md"
+ },
+ "md-es/HU/2007/2007-017-5_Zagyvapalfalva-17012007.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   9,
+   12,
+   14
+  ],
+  "fidelidad_media": 93.8,
+  "fidelidad_min": 88,
+  "sin_dictamen": [],
+  "terminos": [
+   "'TÉNYBELI INFORMÁCIÓK' traducido como 'DATOS ACTUALES' en lugar de 'DATOS DE HECHO'/'INFORMACIÓN FÁCTICA'",
+   "'forgalmi szolgálattevő' traducido como 'encargado de tráfico' (aceptable) pero en 1.1 se dice 'el encargado de tráfico de ambas estaciones ordenó' cuando el original indica que ambos actuaron ('intézkedtek'), no uno solo",
+   "'váltókezelő' traducido como 'conmutador' (aparato) en vez de 'accionador de agujas'/'guardagujas' (persona)",
+   "'menesztését követően' traducido como 'desde la aplicación de los frenos' (añade causa no expresada; el original solo dice 'tras su puesta en marcha/envío')",
+   "'váltókezelői őrhely' traducido como 'puesto de conmutación' en lugar de 'puesto de guardagujas'",
+   "'szembeközlekedés' traducido como 'circulación en sentido contrario' en lugar de 'circulación de frente/en sentido opuesto'"
+  ],
+  "fallos": [
+   {
+    "pagina": 9,
+    "fidelidad": 88,
+    "omisiones": [
+     "No se traduce el encabezado 'A vasúti pálya és biztosítóberendezés leírása' completo: falta 'biztosítóberendezés' (equipo de seguridad) en el título, aunque aparece en el cuerpo",
+     "Falta la frase 'A motorvonatokról származó sebességmérő regisztrátumokat...' no, está; falta la referencia a que el cronómetro del tren 5836 'sietve' (adelantado) se traduce como 'con una hora de adelanto' pero se omite que es según el horario de verano (nyári időszámítás) — en realidad se traduce 'respecto a la hora de verano', lo que invierte el sentido"
+    ],
+    "invenciones": [
+     "'trenes motores con números de serie' — el original dice 'pályaszámú motorvonat' (número de matrícula/vehículo), no número de serie",
+     "'coches motores diésel con números de serie' — igual, pályaszám no es número de serie",
+     "'dispositivo electrónico de medición de velocidad' — el original dice 'elektronikus sebességmérő berendezés' (equipo medidor de velocidad), aceptable pero no invención"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'pályaszám' traducido como 'número de serie' en lugar de 'número de matrícula' o 'número de vehículo'",
+     "'biztosítóberendezés' en el título 1.9 omitido y traducido solo como 'equipo de seguridad' en el cuerpo, pero el título original incluye 'vía férrea y equipo de seguridad'",
+     "'állomástávolságú követési rend' traducido como 'régimen de seguimiento con distancia de estación' — término técnico ferroviario no normalizado"
+    ],
+    "comentario": "La traducción es en general fiel, pero confunde 'pályaszám' (matrícula) con 'número de serie' y omite matices en el título 1.9 y en la indicación horaria del tren 5836."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-017-5_Zagyvapalfalva-17012007.md"
+ },
+ "md-es/HU/2007/2007-462-5_Kaba_EN-15122007.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2,
+   5,
+   6,
+   8,
+   9
+  ],
+  "fidelidad_media": 97.3,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "'Draft Report' traducido como 'Informe preliminar' en lugar de 'Informe de borrador/proyecto de informe'",
+   "'TSB' traducido como 'OST' (sigla no introducida en el original)",
+   "Zaes tank wagon traducido como 'tolva Zaes' en lugar de vagón cisterna Zaes",
+   "«¡Peligro! Alta tensión!»: se añade un signo de exclamación de cierre no presente en el original («Danger! High voltage!» → «¡Peligro! Alta tensión!»), alterando la rotulación citada"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-462-5_Kaba_EN-15122007.md"
+ },
+ "md-es/HU/2007/2007-328-5_Keleti-07092007.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   15
+  ],
+  "fidelidad_media": 90.0,
+  "fidelidad_min": 78,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' (podría ser 'informe de cierre')",
+   "'váratlan vasúti események' traducido como 'incidentes ferroviarios inesperados' en lugar de 'sucesos ferroviarios imprevistos'",
+   "'menetíró regisztrátum' traducido como 'registro del conductor' en lugar de 'registro del registrador de marcha/velocidad'",
+   "'átszelési kitérő' traducido como 'punto de cruce' en lugar de 'desvío de travesía'",
+   "'tősín' traducido como 'carril adyacente' en lugar de 'carril base/raíl principal'",
+   "'csúcssín' traducido como 'punta móvil' (aceptable) pero 'elálló csúcssín' pierde el matiz de 'punta móvil separada/abierta'"
+  ],
+  "fallos": [
+   {
+    "pagina": 9,
+    "fidelidad": 78,
+    "omisiones": [
+     "En 1.9.1 falta la frase sobre la inspección de la aguja: 'A váltó vizsgálati lapja...' (llegada del formulario a la Oficina de Investigación casi 3 horas después del accidente, a las 15:58), 'havonta vizsgálták', '17 nappal a baleset előtt, 2007. augusztus 21-én' y la referencia al Anexo 1.",
+     "En 1.9.2 falta la frase inicial sobre la configuración del itinerario: 'A vágányút beállításakor a biztosítóberendezés a váltó végállását helyesen érzékelte...'"
+    ],
+    "invenciones": [
+     "Se añade en la traducción el párrafo completo sobre el formulario de inspección de la aguja (15:58, inspección mensual, 21 de agosto de 2007) y el Anexo 1, que no aparecen en el original.",
+     "Se añade en 1.9.2 la frase 'Al configurar la ruta de vía, el equipo de seguridad detectó la posición final correcta...' que no está en el original."
+    ],
+    "numeros_ok": false,
+    "terminos": [
+     "'felépítmény' traducido como 'superestructura' es aceptable, pero 'folyóvágányban betonaljas' se traduce erróneamente como 'balasto de hormigón en vía recta' (debería ser 'vía corriente con traviesas de hormigón')",
+     "'kitérőkben talpfás alátámasztással' traducido como 'apoyo mediante traviesas en las agujas' (debería ser 'en los desvíos con apoyo de traviesas de madera')",
+     "'zúzottkő ágyazat' como 'lecho de balasto de piedra triturada' es redundante pero aceptable"
+    ],
+    "comentario": "La traducción añade dos párrafos ausentes del original (inspección de aguja y configuración de ruta) y omite las frases correspondientes del original, además de introducir cifras nuevas (15:58, 21 de agosto de 2007) no presentes en el texto fuente."
+   },
+   {
+    "pagina": 11,
+    "fidelidad": 78,
+    "omisiones": [
+     "No se traduce el contenido de 1.16 del original (que solo tiene el encabezado, sin párrafo), pero la traducción añade texto no presente"
+    ],
+    "invenciones": [
+     "La Oficina de Investigación (Vb) no considera necesario aportar datos complementarios adicionales.",
+     "Según las conclusiones del organismo de investigación de accidentes ferroviarios británico, las causas del descarrilamiento fueron:"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'csúcssínek' traducido como 'puntas de las agujas' en lugar de 'contraagujas' o 'agujas' según terminología normalizada",
+     "'szétesése' traducido como 'fractura' cuando significa 'desintegración/desmontaje'"
+    ],
+    "comentario": "La traducción añade frases ausentes en el original (1.16 y atribución al organismo británico) y altera términos técnicos de vía."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-328-5_Keleti-07092007.md"
+ },
+ "md-es/HU/2007/2007-400-5_Pestszentlorinc-02112007.md": {
+  "estado": "revisar",
+  "idioma_origen": "HU",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   15
+  ],
+  "fidelidad_media": 84.8,
+  "fidelidad_min": 55,
+  "sin_dictamen": [],
+  "terminos": [
+   "'ZÁRÓJELENTÉS' traducido como 'INFORME FINAL' en lugar de 'Informe de cierre/conclusión'",
+   "'biztosítóberendezés' traducido como 'equipo de seguridad' en lugar de 'instalación de seguridad/enclavamientos'",
+   "'vágányzár' traducido como 'bloqueo de vía' (aceptable, pero no normalizado)",
+   "'figyelőőr' traducido como 'vigilante' podría normalizarse como 'vigía' o 'centinela'",
+   "'Vb' traducido como 'IP' (sigla no explicada; en húngaro es 'vizsgálóbiztos')"
+  ],
+  "fallos": [
+   {
+    "pagina": 3,
+    "fidelidad": 92,
+    "omisiones": [],
+    "invenciones": [
+     "Sociedad Anónima de Ferrocarriles Húngaros de Funcionamiento Cerrado (traducción añadida del nombre húngaro MÁV Zrt. que en el original aparece solo como sigla)"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "KBSZ traducido como 'Organización de Seguridad del Transporte' en lugar de 'Organismo de Seguridad del Transporte' (término normalizado)",
+     "KKF 'Inspección Central de Transporte' por 'Autoridad Central de Transporte'"
+    ],
+    "comentario": "Traducción fiel en cifras y estructura, pero añade una glosa no presente en el original y usa denominaciones no normalizadas para KBSZ y KKF."
+   },
+   {
+    "pagina": 6,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase inicial del original: 'eseményt követően került sor.' (contexto del segundo incidente)",
+     "Falta el guion y contenido sobre 'figyelembe véve – nem került sor' (no se tuvo en cuenta)",
+     "Falta la referencia a la 'pályaépítési munkáknál' (obras de construcción de vía) en la recomendación"
+    ],
+    "invenciones": [
+     "'debido a la rápida repetición de los hechos, tras el segundo incidente' no aparece en el original",
+     "'no se procedió a dirigir adecuadamente el movimiento de los vehículos, teniendo también en cuenta el tráfico ferroviario' no está en el original",
+     "'la práctica de trabajo observada... encerraba graves riesgos de accidente, a pesar de las enseñanzas extraídas de los dos accidentes' no aparece en el original"
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'ancho de vía' por 'űrszelvény' (gálibo/espacio libre) es incorrecto",
+     "'soportando la carga del ancho de vía' traduce mal 'űrszelvényének igénybevételével' (utilizando el gálibo de la vía en servicio)"
+    ],
+    "comentario": "La traducción contiene invenciones sustanciales y omite frases del original, además de traducir erróneamente 'űrszelvény' como ancho de vía."
+   },
+   {
+    "pagina": 12,
+    "fidelidad": 78,
+    "omisiones": [
+     "Falta la frase suelta del original: 'tartani valamennyi előírást, szabványt, kivitelezésre vonatkozó mértékben be kell tartani, különös tekintettel a munkabiztonsági, az emberi életet veszélyeztető előírásokra.' (sic!) (jkv. 3/7 oldal) como fragmento independiente; en la traducción se integra en una cita ampliada que no aparece así en el original.",
+     "Falta la línea 'az állomáson végzett mozgásokat a forgalmi szolgálattevővel egyeztetni kell' como enunciado independiente."
+    ],
+    "invenciones": [
+     "'El acta de entrega de la zona de obras también establece las condiciones adicionales aplicables a las obras de construcción ferroviaria.' no está en el original.",
+     "En la cita de la pág. 3/7 se añade 'Durante las actividades desarrolladas en el territorio de MÁV, se deben cumplir todas las prescripciones y normas establecidas en las Instrucciones internas de MÁV, así como las relativas a la ejecución', que no figura en el original.",
+     "'establecidas en las instrucciones internas de MÁV' no aparece en el original."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'vigilante' para 'figyelőőr' podría normalizarse como 'vigilante de seguridad' o 'señalero'; 'empleado de tráfico' para 'forgalmi szolgálattevő' debería normalizarse como 'jefe de circulación' o 'responsable de tráfico'."
+    ],
+    "comentario": "La traducción añade texto no presente en el original y desordena/integra fragmentos sueltos, aunque las cifras y referencias se mantienen."
+   }
+  ],
+  "fecha": "2026-11-22",
+  "md_es": "md-es/HU/2007/2007-400-5_Pestszentlorinc-02112007.md"
+ }
+}
